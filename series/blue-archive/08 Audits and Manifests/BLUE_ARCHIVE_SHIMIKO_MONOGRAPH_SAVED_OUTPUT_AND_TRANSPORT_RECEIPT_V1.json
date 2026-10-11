@@ -1,0 +1,1208 @@
+{
+  "schema": "BLUE_ARCHIVE_SHIMIKO_MONOGRAPH_PUBLIC_SAVED_LINE_TRANSPORT_V1",
+  "status": "EXACT_REVERSIBLE_CANONICAL_PREPARATION_ROOT_INSTALLATION_PENDING",
+  "full_saved_body_line_inverse": {
+    "original_exact_tuple": {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 57987,
+      "sha256": "aaa73ac2e4817d784866e1465a5b370ff691c90594a83e2674127b0fca013ae1",
+      "git_blob_oid_of_actual_bytes": "38347bcb7d3e380b5e3cd386d40519192c52220b",
+      "lines": 179,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 60063,
+      "sha256": "8be8881541798d3c1d259272e2d6398d7a45ad6aabd1e6efe8d381aa357680d9",
+      "git_blob_oid_of_actual_bytes": "a5fb02793debc9d175177c69c706c28e8700336d",
+      "lines": 189
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 3,
+        "canonical_line": 3,
+        "line_sha256": "bb914669cd55a7b273c7c953cc13af9416c336d813c7209977fd932f34e35a82",
+        "line_text": "artifact_type: character_monograph"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "2d24aa404a8eda5af95911cd596badf7b84f7e558ac913d64f9372f741e23e25",
+        "line_text": "scope: P3-CHAR-SHIMIKO"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "0946f5047ae20836f2c40c039c809b4c2a0e0f6548c9e51e4ef1342b3ede236b",
+        "line_text": "generation: V1"
+      },
+      {
+        "frozen_line": 7,
+        "canonical_line": 7,
+        "line_sha256": "dbda0accfd9c713fd7295a09ef6624a1ae621a0a894bbb60523a216d7a6ab120",
+        "line_text": "person_key: BA_PERSON_SHIMIKO"
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "1b77fb061262d1810eed5baf44f7192d3020f1b896012a01427fc78224c0970c",
+        "line_text": "typed_family: P3-F134"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "e41956853874cadfaeb87778257bc181fbff13886d6a49119abdaf0f42df7b3a",
+        "line_text": "dated_route: P3-A168"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "c768a57da2358d43f43fb10b4ba08b1810f1b3a510de57322480fc032b1969be",
+        "line_text": "variant: 26004"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "dff758903287853563b860e056e06b724c7c94d483fa248b9c68d9ffd51b5a3d",
+        "line_text": "source_mode: Japanese written analytical meanings; performed voice unreceived"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "1d7ba6e0fd300bd51418e2a5f53153f1d784370947082db87c63404708c05444",
+        "line_text": "architecture: \"1.12\""
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "db74d51be30574f046d9416801d8b82be9ed0841a77faa66f214d5a72ade0d75",
+        "line_text": "source_snapshot: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "33b82c7e59c8d8987abdfe29454d40b30efd0e81297306bc51fbadb2b39cf1fd",
+        "line_text": "analytical_main_comparand: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 26,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 27,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 28,
+        "line_sha256": "1b1e77091f82acab0ed9c675f9cf4df1b9fbb96c8a189d0947a99dfa77d8087f",
+        "line_text": "# Shimiko — Making reading a wanted place"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 31,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 32,
+        "line_sha256": "7c9747af568d261b1882a32c528891379375ab85525248b39cbb8148c73463f6",
+        "line_text": "円堂シミコ remains the literal BA_PERSON_SHIMIKO responsibility, variant26004, P3-F134/P3-A168. The selected private repertoire comprises five bond objects, five entire linked MomoTalk threads and one written baseline. Her printed first-year/fifteen/November30/157cm profile fields and reading/bookmark-making hobbies are source fields, not a reconciled world calendar. The required home is accepted scope rather than author or ROOT completion. No costume, source-local villain role or library title creates an extra person here. [P:selection and profile, L260/449/459–461](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [Required home](../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json)"
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 33,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 34,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 35,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 36,
+        "line_sha256": "fb4fbad5f3c2d8017c43f97f1cc4b56367e8b70b3e4e786a89bd709d1cb82aaa",
+        "line_text": "Shimiko wants reading to be a place someone can choose, inhabit comfortably and enjoy with her. Her agency lies in particular recommendations, reader questions, quiet work, cushions, repairs, finding and lending the wanted book, gratitude and shared food. These are substantial ends rather than incidental evidence for her competence in a crisis. Her birthday desire for something other than another book prevents even her sincere bibliophilia from becoming an instruction to give the same thing in every relationship. A mature portrait therefore asks whether her enthusiastic care receives the other person's preference, and what happens when care becomes discipline or imposed labor. [P:complete Shimiko argument and written desire, L413–461/507–509](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 38,
+        "line_sha256": "8c3552a2441fd94a291551098e958b19711383838fee71d48a9e3329dda826f3",
+        "line_text": "The answer is materially mixed. She checks whether shared sorting is unwanted work, prepares a comfortable setting, finds an actual requested book and gives a locally successful rest. Her rare-book expedition fails to find its advertised treasure while she and the adult enjoy the activity. Her library enforcement, by contrast, includes frightened responses and a narrator's account of coercive “education”; rules, claims to controlled force and adult praise do not establish safe or proportionate punishment. The same person can host attentively and enforce harmfully. Neither outcome substitutes for the other or yields an immutable gentle/violent essence. [P:hosting, enforcement, failed treasure and achieved ends, L415–445](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 39,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 40,
+        "line_sha256": "2c80b3e607b1120fb8eb66a8c22534e77b53059486f2332856bc57c49acec527",
+        "line_text": "Public comparisons widen this thesis without replacing the ordinary repertoire. In812 she admits a professional restoration limit and refers to Ui rather than pretending mastery. In851 she chooses media research and costume craft, makes a deliberately timed appearance and helps the audience contribute to a pursuit; her work also costs Ui sleep and has unshown material-use permission. These are different boundaries of competence and recipient care. The practical library, expert ancient-text work, performance and quiet company remain distinct responsibilities, with their actual successes, fears and unfinished consequences visible. [B:E002u0031–0061/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:E002/E011/E013/E017, L115/133/137–149](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "bcf8e5b0fe8d34bdb792ab0c78b8fb9d0a75a339aae4bc5794f167b230f4464a",
+        "line_text": "852 adds a demanding public test: a book's unapproved circulation is treated as intentional attack before its motives or contents are understood. Shimiko contests that leap, becomes a temporary external advisor, obtains and interprets the continuation, and helps stop a confrontation and achieve local approval. Her defense of interpretation is sincere, yet she initially conceals having read the book and proposes punitive atonement for book mistreatment. The more consequential argument is therefore not that an open-minded reader always acts openly or gently. It is that wanted reading can generate an articulate defense of others' access while still requiring scrutiny of the defender's means. [W:E003u0028–0072/0105–0129; E009u0076–0172, L105–112/147–152](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "babd9490973a03a21768174bc0cbc24038fbf05723fb29a4ca02ea8ef74c6e94",
+        "line_text": "## 2. Longitudinal arc and legitimate ordering"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "3a02fe3414d8585d0d5759fbd85107b7febf2fbbabc6334884868d089a7ecd15",
+        "line_text": "The private collection supplies a repertoire rather than a forced escalation from lesser to greater virtue. In26004E002 Shimiko invites the adult to a public library near the adult's location while she is assigned work. She requests quieter voices because others read, permits quiet conversation and asks about genre; relaxed fiction and practical cooking/travel remain represented alternatives. A visitor's noise, food, crumbs, insults and page-folding then trigger the disputed enforcement. The ending actually brings relaxed reading of a recommended book, yet the visitor's earlier distress and unverified learning do not disappear into that success. The whole message tail thanks the adult and wishes for a more demure presentation before retracting the expression; no accomplished reform of enforcement follows. [P:26004E002/whole thread260040010, L415–423](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "17a7772434051a6329af2ddcddde20016bb2e806a95dc909bd4918a31079bcf6",
+        "line_text": "E003 gives a different particular achievement. Shimiko describes public opening hours and her own after-hours reading, invites the teacher specifically, adjusts cushions and seating and prepares sealed coffee. She asks whether the atmosphere is actually enjoyable rather than assuming the recipient shares her favorite routine. The adult works comfortably, finishes the work and reads with her until dawn. Her pleasure in reliance and the actual shared time are positive ends. Her all-night-without-fatigue claim is not an ergonomic standard, the invitation is not general public access, and the later possible-rumor/private request supplies no certified sexual relationship. [P:26004E003/whole thread260040080, L427–431](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "b3373f01ec6db52f8f658a306ce584ade1514295d7bad84085a1966d4d332a34",
+        "line_text": "E005's closure-day treasure search fails on its announced object. Shimiko checks whether the adult feels unwilling or regards her pleasure as imposed work; the adult then spends the day identifying more than a thousand books, duplicates and no unknown volume she hoped for. Her explanations for unregistered books remain hypotheses about other students. The adult values shared activity and her joy, and she laughs, continues sorting and later reports enjoying their time. This accomplished companionship does not discover a rare book or authenticate shelf ownership. The playful “nonreturnable” message has a relationship meaning without becoming an enforceable claim on a person. [P:26004E005/whole thread260040150, L433–437](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "d4e2c917934a622156da9dc48ee94f231d4d2357ce49e32dc09620915c86afef",
+        "line_text": "E006 actually finds a different wanted book after classification and a long shelf search. Shimiko enjoys locating what a reader wants and distinguishes a local failed online search from undigitized paper access. The final narrator has the adult browse, thank her and take the borrowed book back to Schale; the literal finalu0049 occurs afteru0067 and must not be reordered by its number. The whole thread keeps the return deadline and proposes another loan as an occasion to meet. Neither return nor renewed borrowing is acted here. A successful search, actual lending and a future desired meeting are three different stages. [P:26004E006/whole thread260040230, L439–441](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "a9c58222a5a89535a3f42912dd1097e25b54fb674fc02215c7ab85e72680e890",
+        "line_text": "E015 gives an equally real quiet endpoint. A torn visitor cushion cannot immediately be repaired, so Shimiko lends her own repeatedly sewn, well-used one and attends to its fit. The adult asks to rest while reading; she reads a grammar joke about a lonely auxiliary verb until the adult sleeps. Narration says the adult sleeps well and regains energy, and the entire tail preserves felt rest and her pleasure at the effort. This is achieved local restoration of energy, not a mere offered nap, universal treatment or proof that every worn object is safe. Habit, repair and wanted use are the substance of her care. [P:26004E015/whole thread260040370, L443–445](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "6b8f2b4e4b23c34a5817ad45ae4b3e46bfc451b6de4615c58738284113473e23",
+        "line_text": "The810056 gift has its own complete evening sequence: late-hour apology and overlapping duty, a correction of the book-return assumption, deliberate thanks, book-shaped chocolate and happy agreement to work/eat together. The pair actually shares chocolate and works side by side until she sleeps; the adult covers her with a blanket and returns to Schale. No complete backlog or measured recovery is narrated.812 places her referral before Ui's restoration;851 explicitly supplies a three-day preparation flashback and a later reunion. Those are locally supported relations, not a calendar joining every private, gift and event scene. Release, variant, holiday and rerun IDs retain documentary rather than biographical order. [C:gift056/current L276](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [B:local repair order, L365–381/397](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:E014/E017 and chronology, L141/149/167](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "8ad93c87da08bc8d81ad1b99454776924327ec96ee2382269461c23236c57ae6",
+        "line_text": "852's own local sequence is equally necessary: unexpected entry and actual purchases lead to alarm, a secret commission, investigation, readers' refuge, continued criticism and new making, intensified pressure, old-library shelter, threatened confrontation, locally approved procedure and a represented exchange proposal. Shimiko first substitutes for invited Ui, later admits reading to the end, obtains a continuation sample and explains her reflective reading philosophy. By the epilogue Mashiro actually likes the work and wants its continuation, while the story itself remains unfinished. This sequence supplies achieved public reception and ongoing desire without dating the private collection against the whole MAIN history. Reported earlier punishment, the teacher's liability and the proposed exchange have their own narrower modes and unfinished reach. [W:complete ten-object sequence and epilogue, L98–159/173–177](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "c5a9c7eb1f30b8449954edceee12c518fa13a4de873f92d57f62aadf78024ff2",
+        "line_text": "## 3. Public self, private self, and interpretation"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "b045c36080ab79f5cfc21182f71bc1663b920ea5a60072e986d9fe7f1f9d712b",
+        "line_text": "The librarian image is something Shimiko actively interprets. She wants to appear calm and intellectual and apologizes after the enforcement scene; praise makes her happy without adjudicating what happened to the visitor. At810056 she asks whether the adult's image of her consists only of book-return enforcement, then supplies another purpose: gratitude, gift design and company. That objection is explicit counterevidence to a disciplinarian-only reading, not proof that discipline has ceased. Her chosen birthday difference makes the same point from another direction: a familiar role or hobby does not exhaust what a particular person wants from someone close to her. [P:apology/praise and birthday, L421–423/459–461](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [C:810056u0001–0011, L276](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md)"
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "450723d5128d788ca79911b6bed9fdf521c1345c685f42459c1cf4b1c56c1535",
+        "line_text": "Public competence includes knowing when a book is beyond ordinary repair. In812Shimiko calls the damaged object something that used to be a book, distinguishes repair and restoration, and explains that reconnecting ancient text requires reading it. Her bandage/medicine versus surgery analogy is a professional explanation, not a literal living-book or medical claim. She identifies Ui as the exceptional specialist, explaining the “magician” nickname as skill rather than supernatural power. Admission of her limit and useful referral defeat an omniscient-librarian account without becoming refusal to help. [B:E002u0001–0061/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "a90cde4409cc0c831637351d7f7fcd7f09a2ae87b0d973390e6c5a0f9845216a",
+        "line_text": "Her851 performance likewise is purposeful role work rather than a new evil self. Shimiko finishes new/donated-book duties, overhears a threat fragment and chooses to report it. Later she researches media, cuts and sews material, practices a villain voice and plans a timed entrance. The resulting appearance and audience search are real contributions. Her borrowed fictional role, unknown-form practice utterance and quick research do not independently establish evil intent, a second identity or unlimited reading mastery. Ui's estimates of books and speed remain observer thought rather than measured throughput. [V:E002/E009/E011/E013/E017, L115/129/133/137/149/165](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "0692c5eb2faf55342827e3fe8ac8e711c68f8f3d30389bba93935ac5161b5c70",
+        "line_text": "Private enthusiasm has limits too. The baseline says she has read Trinity's entire collection, but that is a profile claim, not an independent inspection of every book. A newly seen book at a public library does not contradict a claim scoped to another collection. Recommendations are genuine acts of matching a reader, yet her accidental disclosure of a protagonist's death four pages early spoils a discovery. The failed treasure shows anticipation outrunning the result; the requested book and cushion show actual successes. A total expert or uniformly careful host would lose those differences. [P:written baseline, failures and rival judgment, L433–445/459–461/507](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "b47f98b15dc0ccc6b014f4a2945b7979ff7bc4970416fe229da8017efec6bc05",
+        "line_text": "Her852 concealment is specific rather than a generic hypocrisy accusation. Inwardly she knows the work; under the meeting's atmosphere she publicly denies knowing it, then later acknowledges reading to the end. She calls it a grey zone, appreciates its editing and objects both to easy recommendation and blind suppression. This is an informed critical position with a compromised initial presentation, not an unread purity test. The apocrypha cover story during overprotection likewise is a local tactic rather than Sisterhood authorization. Neither concealment cancels her actual argument nor good critical judgment makes concealment universally justified. [W:E003u0037–0038/0080–0098/0105–0129, L108–112/165](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "772804dbb69e87f636dd37753b62e85e8e295339a566d343357262f813f2e3b4",
+        "line_text": "## 4. Library practice, school and professional limits"
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "65883bb0bb44bc19c2ebedb20535d203e49ae9ef6ac888029f5e16548fb5fea5",
+        "line_text": "Institutional meaning does not require an invented Library-owned GROUP packet. These sources supply actual labor, lending, cleaning, shelf classification, opening/after-hours distinctions, food rules and reader preferences. They do not establish a complete charter, visitor-policy audit or schoolwide permission for force. Shimiko's rule statements are local testimony and her claim to controlled punishment is a claim whose consequence must be assessed separately. The noisy visitor's conduct matters without making every response legitimate. A room where ordinary reading is wanted can also exercise coercive power over its users. [P:library practices and institution scope, L415–445/521–522/544–549](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "a06f115bad138c021e09b3e6d9f9c97795076a811a0b91cfc33432c7b28dd0a7",
+        "line_text": "Keeping libraries distinct is necessary. E002's public library near the adult's location, the after-hours reading/work site, shelf classification and the profiled Trinity collection are not automatically the same whole collection or access arrangement. Daytime work limiting personal reading explains a local chosen late routine; it does not prove universal twenty-four-hour public opening. Permission to bring this particular adult does not govern every visitor. Similarly a reported coating's committee popularity is not a universal rule that food is harmless around every book. Personal hospitality and institutional access need their own predicates. [P:public and private conditions, L415/427–441/459](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [C:gift056 practical care, L276](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md)"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "c0509ed70e932e0ff714f7085cbcc885656a4bbf7ef76e52bd99b0eb3f9d003d",
+        "line_text": "In812consultation creates professional responsibility alongside secrecy. Shimiko is not blaming Hinata, but still asks for library quiet and receives compliance. The empty box and Kama Sutra substitute are relayed through questions and adult replies rather than a narrated replay; Hanako's copy is mentioned without Hanako speaking. Another substitution is considered against exposure to guards, and a feared public reading or school division is a forecast rather than an enacted crisis. Shimiko values being trusted and wants to help while hesitating. Useful civic concern and the adult-supported cover story therefore coexist; expertise does not make concealment self-authorizing. [B:E002u0001–0046/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "7bc2fe68209043278551f482e98429a1c81de662be07164ed7a4b9db855e1c0e",
+        "line_text": "Ui's specialist work and later restoration cannot be assigned to Shimiko because she made a good referral. The current812 ending supports restored-scripture handoff, venue diversion, recognized substitute and resumed presentation at their accepted scope, while entry/swap steps, consent, casualties, treatment and later investigation remain unshown. Perfect-copy equivalence and the private inquiry are Ui's report/plan, not a measured certificate or revealed contents. Shimiko's own contribution is locating an appropriate expertise and maintaining norms; the people doing later work retain the credit and questions of that work. [B:E002 and final restoration/accountability, L365–367/375–387/397](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "795d69dc3a7fa6c353b7461ed9b9deae01512599e3ad5e231fea4425169a76fa",
+        "line_text": "851adds a material/labor question rather than resolving it through success. Ui is sleepless while Shimiko researches and sews; her thought about how much was read is not validated bibliometric proof. Curtain/floor material cutting is shown without permission. The timed entrance and audience assistance actually work, but successful craft does not retrospectively supply consent to material use or rest for the observer. A separate Library practice/Ui–Shimiko directed question remains required: common affiliation cannot flatten whose research, space, time and response are involved. [V:E017 and comparative costs, L149/153–159](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "b99f52c8d802cdcfa0b98ac4d2d14313e09e07ae538a49674c2661c605b38372",
+        "line_text": "852 supplies actual represented public decisions without supplying a complete institutional charter. Nagisa secretly commissions the teacher and Library, permits JTF cooperation and appoints Shimiko temporary external advisor; the fear of an intentional attack remains unproved. At the old library, Mashiro's proposed inventory/removal and Ui's takeover interpretation escalate toward force. The adult and Shimiko stop the impending clash. Shimiko says library responsibility makes approval possible and expects adjustment; Ui personally thinks adjustment unnecessary, approves and delegates others' judgment; Mashiro accepts process and intends to report. Those are achieved local procedural changes, not completed universal seizure, proven takeover, a generally repealed ban or independently tested international agreement. [W:E003u0047–0072/E009u0030–0172, L108/148–152](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "68968589547e9561cd4e745d8f0f938b221be0ebe713c18f93d7de2252d731e3",
+        "line_text": "The exchange proposal widens institutional reach but retains its limits. Nagisa presents library judgment and teacher guarantorship with Tea Party assent and asks for future consultation; Cherino delegates this particular case to Schale and leaves for a nap. The printed speech is consequential without being a separately received treaty or liability instrument. Nagisa's interpretation of the nap as cunning diplomacy remains her inward explanation, and the adult's continuing oversight explicitly has limits. Shimiko's local approval therefore cannot certify schoolwide legal competence, full delegated authority or future reader freedom from all enforcement. [W:E010u0001–0023/0101–0111, L155/159/187–189](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "3aec57441c15f5661b6e4f858dc4de0c26e6b6f06313cceafacb7326aed42472",
+        "line_text": "## 5. Ordinary life: books, repaired objects, gifts and company"
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "681fcbb863bccfed3dd0c673bce822760546eb1099cd2183863386511dd38de6",
+        "line_text": "Reader preference is part of Shimiko's pleasure, not merely a service checklist. She asks what genre suits the adult, recommends a book actually read, enjoys finding a wanted title and welcomes shared sorting even after the rare object fails to materialize. The printed questions about willingness and whether this feels like work are meaningful because her own joy could otherwise dominate the recipient. Their replies make company specifically wanted. No emergency is needed for the recommendations and paper sounds to be analytically substantial. [P:preference checks, work, failed treasure and loan, L415/421/429/435–441](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "dc96d41d3f98f17bc959067da3379d0f5d94b7a47f0708a67b028f91aa130bdd",
+        "line_text": "The well-used cushion embodies chosen duration. Shimiko's own soft fabric and anatomical-book positioning account attend to the resting adult, but repeated sewing and wanting to keep things for a long time also express her relation to objects. Immediate repair of the visitor cushion is not done; she offers her own as a practical alternative. Actual good sleep and regained energy give an achieved endpoint without a universal clinical claim. This allows an affectionate, material ordinary argument: habits and repairs can sustain wanted use without being proof of a flawless technical system. [P:26004E015 and tail, L443–445](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "b912f48a1ca10bede9a10db1c1f28e185882e68fbd4aa4c81971b8019df077ec",
+        "line_text": "The810056 gift connects taste and book aesthetics. Shimiko recommends chocolate whose form is interesting and whose coating she says prevents dirty hands or powder around books. Committee popularity and material performance are reports, not independently tested chemistry. The adult's two possible invitations—to stay and eat or to work/eat together—receive conditional pleased responses, then narration actually supplies side-by-side work and shared food. When she falls asleep, quiet blanket care is accomplished. The gift thus broadens her life beyond return enforcement, while work completion and measured recovery remain absent. [C:810056u0008–0028/current L276](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md)"
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "caf64c47e54311598553c03c062318167a021cc61a267c0c1d033a3fa00cdedc",
+        "line_text": "The birthday line preserves a useful contrary desire. Shimiko sincerely loves books and prioritizes buying them, yet is slightly disappointed to receive only books and wants a special gift from the adult. The source does not identify or deliver that alternative. Its value is the expressed difference itself, which a one-hobby portrait would suppress. Holiday reading/company and bookmark craft likewise retain their own situated forms. An ordinary want need not be acted to matter; its unfulfilled state must still be declared so it does not become invented gift reception. [P:written26004, L449/459–461](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "e64fe1f7ffac150dfd9b435d66c44bdd6f5e3a9c0969202b9d38ae48a115e78c",
+        "line_text": "Chosen genre research can extend that ordinary love into play. In851the later talk links books, practice and interest to the fictional role, rather than proving that all media must serve school authority. The preparation is impressive and wanted at one scope, disruptive and costly at another. Reading, sewing and timed theatre are not merely a crisis mechanism, nor are they a comic exemption from Ui's lost sleep. Preserving both lets a person have joy in making and a recipient be affected by it. [V:E014/E017, L141/149/153–159](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "aacc325f5c56b11bcda78c79cb364f967dc5d1675a93e15d69a32b2375ad7f9e",
+        "line_text": "Her852 “time machine” describes the ordinary pleasure she wants to defend: a book gives room to think and answer a past writer in one's own terms. That is Shimiko's metaphor and situated media philosophy, not a law that film or games prohibit reflection. The continuation sample matters as something she and other readers can enjoy, not only evidence collected for officials. Koharu says fans would be sad to lose what they love; Mashiro ultimately requests continuation because she likes the work. Readers' sharing, imagined continuations and chosen retreat from helping all preserve lives beyond circulation statistics. Wanted interpretation is the substantive good that makes Shimiko's defense worth evaluating, including when her methods threaten that good. [W:E005s003u0011–0020/E006s002u0017–0056/E010u0076–0089, L124/133/159/165–169](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "428b1c6774fafb9436b6e961ce2ef7172d7b2aa1496800a953e8c6f93736a830",
+        "line_text": "## 6. Crisis behavior: referral, discipline and consequential limits"
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "a048b63fc3933d01768c8758964b259a9daaddb0e8df706a1a038f70d9da18fc",
+        "line_text": "The enforcement episode is the strongest adverse case. A visitor eats, drops crumbs, insults cleaning, threatens a fight and admits folding a page; Shimiko states food/sealed-drink and damage rules. The surrounding account includes a reported book-corner blow, a claimed control of force/material strength, resistance to leaving, frightened responses and a narrator's coercive education ending. A threatened fight and property harm explain why she intervenes, but do not certify proportionality, comprehension, consent, compensation or a safe punishment protocol. The visitor's river/grandfather imagery is distressed testimony, not confirmed death or a clinical diagnosis. [P:26004E002, L417–421](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "64db0a6f992507148104ad54a83db97a33e2abdec86b2af1dbbaf70e8c9bea2f",
+        "line_text": "Actor seams narrow what can be assigned without making the affected recipient disappear. E002u19 calls someone over under the visitor label;u44 carries a hurting-head reaction under Shimiko;u52–54 assign surprised punch-catch reactions to her;u55 puts a book-cover question under the visitor;u78 labels a do-not-approach reply Shimiko. The account's secure surroundings and narratoru80 support coercive enforcement, while not authenticating every physical turn. Adult praise yields her happiness, then recommended reading occurs, but neither result proves ethical repair. A careful synthesis retains the broad adverse action and the exact attribution limits together. [P:literal seams and aftermath, L419–423/528/558](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "bce2b467ca12167dfc25a997bbf7f188103fa90e0fe7adde1ac63c9f7afa5b17",
+        "line_text": "The812 response contrasts by admitting a threshold of expertise. Shimiko wants to help and explains why ordinary repair cannot handle the damaged scripture. Her referral is a concrete constructive act, while guard exposure and public embarrassment remain predictions. This is neither a failed restoration performed by her nor proof she guarantees Ui's success. The end of her small object is at the referral, with later outcomes supplied by different accepted owners. The comparison makes competence conditional on knowing what one can do, locating another person's skill and maintaining the distinction between proposed risk and completed consequence. [B:E002u0024–0061/current L365–367/387](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "6f4d2b3a26043541f7505216611b61f6013ba435551ad699dcd3b2d11ec3eb7c",
+        "line_text": "The851 encounter also begins with imperfect knowledge. Shimiko overhears a fragment while doing book work and perceives a threat; she reports rather than having an omniscient identification of the operation. The park's later mistaken capture is corrected through Love's explanation and the clear Suzumi/Reisa apologies. Shimiko's delayed arrival is a prepared role entrance, not sleep or evidence of a missed unprepared duty. Her media and audience work contribute to the eventual finish, but are not proof that she predicted every suspect, consented for every child or restored the destroyed bounty. [V:E002/E009/E011–014, L115/129/133–143](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "6a16c1a28ba97d61fd8a81547fbd9b856968baa9c76125a7343a8935867d676a",
+        "line_text": "The light search gives children and the crowd actual participation under limited knowledge. They think in terms of a show and respond to lost popcorn/balloon and the villain role; the armed pursuit is not necessarily understood. A successful target finish does not erase that mismatch or the material and force limits retained by the event owner. The book/costume craft also leaves Ui sleepless and permission unprinted. These affected people are part of the character argument even where Shimiko's independent contribution is beneficial. Ordinary theatre and large force claims need not be forced into a single moral rating. [V:E003/E009/E013/E017 and rivals, L117/129/137–149/157–159](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "adabeba325833f4b67e0a40401f9211c47ba3e5a65e61c0dbb4ea6f1fdcf1edd",
+        "line_text": "In852 Shimiko's protection of readers is tested against force without becoming an innocence certificate. Her claim that book lovers cannot be bad is an interested ethical inference; the adult's related option is not a universal finding. Her proposed whip-and-atonement remark is not an enacted punishment. During the threatened library clash, she and the adult actually stop escalation, then she rebukes Ui, refers to prior hospitalizations and says not to shoot people while Ui accuses her of betrayal and cries. No new battle, injury count or precise punishment method follows from those references. The rebuke's practical restraint and the recipient's distress coexist with Shimiko's own adverse private discipline. That contrary relation prevents a simple moral sorting of responsible librarian against dangerous colleague. [W:E003u0124–0129/E004s002u0020–0029/E006s002u0059/E009u0076–0094, L112/119/133/150/163–167](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "e961ea21e42538da465f9331766d86718f0572b9b54f23a130ddc38a221f95dc",
+        "line_text": "## 7. Relationship with Sensei: wanted presence and recipient difference"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "28eade10d6958e317175a5c04234d454882d5d71219320f203dc600465ec7c6b",
+        "line_text": "Shimiko often authors the invitation and asks how it is received. The public-library invitation is located near the adult's work; the after-hours invitation is specifically for that reader; the treasure hunt includes an explicit check against unwillingness. The adult can accept a place, genre and shared work while already having a practical objective. Her pleasure in reliance follows a printed reply rather than replacing it. This relational structure gives Shimiko more agency than a teacher-dependent host and the adult more agency than a passive audience for her enthusiasm. [P:26004E002/E003/E005, L415/427–437](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "525af530c9f2b24883ddf99073cb7c2e1ccf0f7d75b4572672a400ec413206b9",
+        "line_text": "The failed treasure is a precise case of successful companionship without fulfilled service. The adult says shared work and her joyful expression have value; she laughs, continues sorting and the tail says she enjoyed their time. Neither discovers the unknown book that motivated the search. Her unspecified good thing and “nonreturnable” play may express affection, but they do not disclose a particular secret, establish romance or remove a person's exit rights. The loan episode separately gives an actual book, a deadline and a proposed further meeting. Close language is not a replacement for the literal lending obligation. [P:26004E005/E006 whole tails, L435–441](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "8467e70247c6da4b85d545627b03dfdb13b197fb4da72ddc2c0b7d0a42ecd73d",
+        "line_text": "Rest and giving reverse the direction of care in particular ways. InE015the adult asks to rest, receives her own repaired cushion and actually regains energy. In810056she offers thanks/chocolate while duty prevents going to the adult herself, and the adult later covers her when she sleeps. Quiet care works both ways without proving identical motives, a permanent arrangement or all-night work as a norm. The late-hour apology is not a tardy-arrival admission; Japanese night/midnight and Korean late-predawn wording retain distinct local timing. Completed shared food and blanket care remain positive without inferring a full work result. [P:rest, L443–445](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [C:810056 gift/current L276](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md)"
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "8a5bbb59b7e41cdcc7bfe6537890a6ead04fb6210c7436a44052c55f4bf4fdd9",
+        "line_text": "Adult support is not uniformly a permission certificate. Praise after the coercive library encounter does not make the punishment proportionate. In812adult replies and options participate in the hazardous substitution explanation; offered responsibility for possessing the book does not establish a harmless cover story. In private the adult's choice to value company is meaningful, while Shimiko's birthday want remains not yet delivered. These distinctions let helpful responses, ethical errors, alternatives and unfinished duties coexist without an omniscient-teacher interpretation. [P:enforcement praise, birthday and adult ethics, L421/461/524–525](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002u0011–0046/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "08819f4b854efdd5619bef3e048f38d17d27f292a5c3107b413a9875d13ddb66",
+        "line_text": "The public relation with the adult also includes disagreement and a shared practical intervention. Both contest Nagisa's unsupported intention claim, while their represented affirmations can overgeneralize the goodness of book lovers. Later the teacher proposes library permission and accompanying Mashiro's report, with Shimiko supplying a local responsibility-based route to approval. Their cooperation actually changes the immediate conflict; it does not make the teacher's choice or Shimiko's taste a final court of interpretation. The adult becomes a proposed guarantor/temporary representative with surprise and stated responsibility limits. The person whose private company Shimiko wants therefore has an independent ethical burden, rather than an unlimited power to validate all her institutional methods. [W:E003u0040–0046/E006s002u0059–0073/E009u0141–0172/E010u0001–0023/0101–0111, L106/133–135/152/155/159/189](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "86243e1070612ce87b42023e0d693cbbf8e8cb5f17f8d1a38bbf4094605d0ddb",
+        "line_text": "## 8. Major peers and independent recipients"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "5c372f1b8867b1a86d9ee3cde27da399069c45721ea5262866903c823920f89f",
+        "line_text": "Ui is a specialist and a person whose space and rest matter independently. Shimiko describes her exceptional ancient-text ability and guardedness; the description is not a lifelong diagnosis, and the “magician” epithet explicitly does not establish magic. Ui later performs the particular restoration and reporting work in812. In851Ui watches rapid reading/craft and loses sleep, while the planned knocking-out response is not enacted. Shimiko's useful referral and successful making coexist with that recipient cost. Their Library connection does not make their methods, access rules or desired company identical. [B:E002/current L365–367/375–387](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:E017, L149](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md) [P:distinct book/space practice, L489/507–509](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "45b63998fe64e02628400eaf1242da36346631fbdc44b9732cc90adf96c728c1",
+        "line_text": "Hinata retains distress, compliance and independent later care. Shimiko clarifies she is not blaming her and asks for quiet; Hinata apologizes and complies. Their accepted812 small argument retains exact actor seams so Hinata's apology/fear is not turned into Shimiko's self-speech and Shimiko's professional/civic hesitation is not transferred to Hinata. Hinata's careful inventory, enjoyed food and chosen practical help in the private comparison are her own achievements rather than evidence that she is another librarian. A request to calm down can help maintain a reading room without erasing the distressed person's wants or making every later concealment ethical. [B:E002u0004–0046/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [P:Hinata/Ui/Shimiko difference, L266–268/509](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "d012d915d8a01b54f7ce2e6cc474b4eee94032273e039858890fd3f00b7e6d74",
+        "line_text": "Suzumi and Reisa have their own reasons for the magical performance. Suzumi begins unfamiliar and embarrassed, while Reisa owns media knowledge and wants a companion; their assent, pressure, defeat, correction and later pleasure have directed differences. Shimiko's role research and timed arrival should not substitute for either's personal choice. Mashiro's refusal of fire until actual permission is another independent institutional act. Love's work, desired leisure, staged compassion and bounty likewise constrain the meaning of the successful finish. A collective operation has recoverable cooperation without making every helper a single consenting or repaired subject. [V:E004–014 and comparisons, L119–143/151–159](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "6faf5013103c6e5952509c7efa1fad458f1015b5d76207b2bcb4851313805357",
+        "line_text": "The noisy visitor, other readers, shelf users and cleaning labor remain relevant despite sparse labels. The visitor behaves badly and is also an affected recipient of coercion; neither status cancels the other. Quiet is wanted by readers who need not speak a biography, and insulting cleaning helps explain a labor conflict without licensing punishment. The unregistered-books explanation does not identify every depositor or donor, and a profiled whole collection does not absorb all public-library readers. Local role evidence is sufficient to preserve stakes and limits without manufacturing identity joins or multiplying people from repeated labels. [P:visitor, quiet, shelves and scope, L415–441/459/521–522](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "e832b1e3d0ee665da142b4e58c24472777825ae5bcd6329e2ece98e4cb68c402",
+        "line_text": "852 makes these directed differences particularly legible. Koharu supplies the sample to protect fans' happiness, agrees to reconnect with former JTF peers after reassurance and chooses to approach the conflict despite Shimiko's warning; the unidentified tip does not make her a proven informant. Ui welcomes some wanted company with quiet, distance and stay conditions, likes the book and grants local approval, but contests the inquiry as a takeover and responds painfully to Shimiko's rebuke. Mashiro progresses locally from unread condemnation and pressured enforcement toward actual taste and a wanted continuation; this is not a permanent cure. Takane stops an unwanted internal conflict and keeps objecting to her false public persona, while Yakumo retains profit, pleasure, useful distribution and coercive marketing. These people are recipients and authors of judgments; their motives are not effects produced solely by Shimiko or the adult. [W:E006s002u0017–0082/E007u0030–0115/E009u0001–0181/E010u0076–0119, L133–140/148–159/165–169](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "ee1a47cb624ca528f8e88aa5105e4157c488c60e2294d7d70a2e9637c9b6d3e4",
+        "line_text": "## 9. Japanese written voice and source-mode limits"
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "09dad5ba1c528e0addfc51cd65015c2a9adf6fd60b1d90ac0299f456057cab44",
+        "line_text": "Shimiko's address alternates invitation, preference inquiry, apology, enthusiasm, rules and playful lending language. 「返却不可」 in a happy message is not a literal ownership contract; an actual return deadline remains in another whole thread. Her story about a lonely auxiliary verb is grammar play, not a normal fairy tale simply mislabeled. The book-repair medical analogy explains a specialized limit without becoming guidance for bodies. The magician epithet excludes actual magic. These written choices support a situated bookish voice richer than either permanent disciplinary threat or universally soft reassurance. [P:language and complete tails, L433–445/527–528](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002u0031–0053/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "85a5a85d979a129a6c042e373a01caf6d670e7a1c5acbef071438488d64e72a4",
+        "line_text": "The private enforcement seams remain printed; secure surrounding evidence does not authorize a repaired native turn map. In812E002the inherited accepted argument identifies u4/u41 as Hinata-text under Shimiko labels andu29/u30 as Shimiko-text under Hinata labels, with exact raw commands attributed to that original analytical inspection. This author received the complete small argument but did not rerun native/raw checks. Its actor-specific correction can consequently be used at its declared evidence scope without claiming new provenance certainty. Unknown narration and option duplicates stay distinct from public speech and all selected alternatives. [P:exact private seams, L419/528](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002 exact attribution/current L365–367/393–397](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "1e16d8bce79540ce3ecdda1f0d2848c31b168407fc3705d83fe860d2007893e2",
+        "line_text": "Gift810056keeps Japanese late-hour courtesy apart from Korean reassurance/not-homemade provenance. Its material coating and popularity are testimony; the formal invitation alternatives and pleased responses are separately gated, with actual work/food supplied by later narration. The historical detailed owner declares typed/raw agreement at its inspected scope, which is not this author's new source verification. Japanese night/midnight and Korean late-predawn should not become a precise universal hour. Performance, sound, pose and mutual romance remain unreceived even where caring action is actually narrated. [C:810056 current gift and source limits, L276/294–316](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md)"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "88e62b3e4aba20cafd2f182cccb1c15450d95031738a76b8dfd6c3b2a7ee1f3e",
+        "line_text": "The nonmonotone finalu49 afteru67 in26004E006preserves a source sequence rather than a chronological sorting problem to fix. Profile, Cafe, lobby, birthday/holiday, weapon and Special are written contexts: repeated successful-loan lines do not enact another borrowing; a late-return warning does not narrate punishment; a birthday alternative remains wanted, not delivered.851unknown-form villain practice and Ui's inner speed estimates are similarly their literal modes. Written Japanese, surrounding Korean log labels and narrative timing provide no received acting or an excuse to convert all inward speech into heard dialogue. [P:written/mode bounds, L441/459–471/547–558](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:source modes/actor/chronology, L149/161–167](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "a60f5c1c110314bc5ea9e822dbe9347026529df06f7bd9f9d8c1f0448c0bc5e9",
+        "line_text": "In852 グレーゾーン and 非公認/公認 are disputed judgment and locally enacted procedure, not independent legal or intrinsic-harm classifications. 本 as children/persons and タイムマシン express caretaker metaphor and reflective reading; neither personifies every book into a new census actor. The apocrypha cover is not proof of an authorized sacred classification. Shimiko's literal E009u0128 and other adjacent-actor seams remain qualified; a collective exchange or reliable adjacent outcome does not warrant secretly repaired individual quotations. Her inward reading knowledge and later admission also must not be compressed into one public statement. The ten written arguments supply no performed pronunciation, acting, tonal assent or evidence that every offered teacher choice occurred. [W:E003/E006/E009 and Japanese/source-mode bounds, L108–112/133/152/171–177/191](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "9619f76ce855ae907bcb52ebbd78b51e3321069c833bd29042df733aed297aee",
+        "line_text": "## 10. Competing readings and evidential judgment"
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "7ee26660b3af08638f68482b729bb4a4f9c5d8785a4cc6fad1e089d07bf38c03",
+        "line_text": "A universally gentle librarian account has preference checks, comfort, loans and restored rest in its favor, but fails the coercive enforcement and spoiler. A purely violent return-enforcer account notices real adverse conduct but discards voluntary thanks, book-shaped food, birthday difference, reader matching and actual recipient comfort. The adequate portrait does not average these into a bland middle trait. It explains specific methods and responses, including how the wanted quiet of a reading space can become an asserted warrant for harmful discipline. Adult approval and later company remain local facts rather than final ethical rulings. [P:complete rival and endpoint judgment, L415–445/459–461/507–540](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [C:gift056, L276](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md)"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "190148630139808a660580c14ab5e4630d60834dadbaf929940715976fcebe2b",
+        "line_text": "An omniscient book expert interpretation can cite the profile's collection claim and successful wanted-book search. It cannot certify all libraries, every reader, the hoped-for rare book or ancient-text restoration beyond her stated capacity. A failure-only interpretation loses useful referral, the actual loan, completed adult work and good local rest. Competence is source-located and differentiated: she can know a shelf system, make a room wanted and admit a limit; Ui can have another specialist task. A positively received outcome neither guarantees every method nor eliminates its literary value when an adjacent goal fails. [P:failed hunt/actual loan/rest/profile, L435–461/507–509](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "7508063397e4741fa02805fe89cf216dc58434a9fe3d23b9739b67b1cef2e7f2",
+        "line_text": "A secret-romance or ownership interpretation leans on private invitations, rumored closeness and “nonreturnable” play, but exceeds the printed relation. Specific pleasure and wanted continuing contact are real without a status. A service-only interpretation likewise loses her own reading, bookmarks, taste, making, gratitude and birthday alternative. Recipient checks make hospitality attentive rather than pure imposition, while enthusiasm can still spoil a discovery or disturb Ui's rest. Successful company does not need a romance conclusion or a productivity payoff to matter. [P:company/privacy/play/birthday, L427–461/507–531](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "b30d47189af64870201452d3f3247aa473649d9aa9ac284e76e39f7859c62e7b",
+        "line_text": "A harmless-comic-craft account can cite851's fiction, audience pleasure and final cooperation. It fails if theatre erases lost sleep, unshown material permission, partial audience knowledge, mistaken capture and bounty loss. An evil-villain interpretation conversely confuses a researched role with a person's intent and misses reporting, craft and helpful search. These alternatives clarify the evidential judgment: purposeful work and delight are actual, but every recipient's time, space and understanding remain separate questions. Literary analysis can keep humor and ordinary wants without granting a general comic exemption or demanding that only high-stakes damage counts. [V:complete role/craft/contrary meanings, L115/129–149/153–167](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "249c06122c5171483af9bf889b812b72482c213d22dfa9ec6d1fa7b607949eeb",
+        "line_text": "Substantial achieved ends remain: recommended reading, completed work and reading until dawn, enjoyed sorting after failed treasure, found and borrowed wanted book, actual adult sleep/regained energy, shared gift food/work and blanket care, honest referral, timed performance arrival and audience search. Unfinished or failed ends remain equally precise: no hoped-for unknown book, not-yet-returned loan, not-yet-delivered birthday alternative, visitor learning/safety/restitution unproved, material permission and Ui rest unsettled, and no whole-backlog/clinical/civic repair certificate. These outcomes sustain a distinct person who enjoys making reading and company wanted, with limits that her recipients help expose. [P:whole ending judgments, L421–445/461/534–560](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [C:gift056, L276](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [B:E002/final limits, L365–367/387](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:craft/afterstories, L141–149](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "8448a85dc6611237d353b750c87cb0a6333dff3f4f4a63c50aa4124da9828071",
+        "line_text": "A consistently open defender of interpretation is supported by852's challenge to the assumed attack, reflective book philosophy and locally successful approval. It is contradicted by her strategic denial of having read, cover story, punitive suggestion and overbroad harmless-book-lover inference. An opportunistic censor or mere accomplice interpretation sees those defects but loses her real disagreement with authority and the access actually obtained. The ending supports the narrower sustained thesis: she helps readers retain a space for wanted thought through locally workable cooperation, while her own control, presentation and recipient effects remain answerable. Mashiro's actual new taste and the readers' pleasure give the local resolution substance; unfinished continuation, false prestige, proposed exchange and limited guarantorship prevent global rehabilitation. [W:comparative rival/ending judgment, L152–169/195–201](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "e433c0f281e852f768e690310db7b32d38c9a3532f4296210675a2a0f6767963",
+        "line_text": "## 11. Evidence route, open gaps and bounded completeness"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "c652a008f7b85fbefb5a1831c880e44f68a41f8715eb8c41a495c7c939c4b489",
+        "line_text": "P is the current accepted Hinata/Ui/Shimiko private contextual account; C/B/V are current810comparison/812checkpoint/851checkpoint. The complete five paired private/whole-message and one written meanings are personally received in their normal owner with all relevant endpoints and closing qualifications. Adequate prior complete accepted analytical arguments remain reused at their recorded scope. The necessary small810056and812002 detailed arguments are personally complete, under personally received current normal/Cycle008 authority; their older noncurrent/proposed banners remain historical.851complete consequential meanings and its final afterstory are received, including Ui's lost sleep. None of this claims fresh original individual primary/producer bodies, native/raw/performed receiving or all underlyingMAIN/GROUP reading. [P:current adoption/custody/EOF, L239–270/475–562](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [C:current authority, L123–130](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [B:current authority, L1–37](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:current authority, L38–45](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md) [Cycle008](../../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "c5dfbd0c3a045c784639d1a64d900b85688369d4cfb96f15155dd9f1485c1e51",
+        "line_text": "W is the current852 checkpoint, recovered through a bounded positive header route and personally received wholly through all ten accepted analytical meanings and the consequential epilogue. Current Cycle008 adoption supersedes the creation-stage intake/queue language retained below it. This is analytical argument receiving, not a new claim to the ten original primary or producer bodies, independent review or native/raw checks. It establishes Shimiko's temporary appointment, reader argument, qualified private concealment, actual stopping of escalation and local approval at their printed scope, including contrary recipients and unfinished institutional tails. [W:current authority, whole account and complete closing bounds, L1–205](../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "05693f6e1d1f74feea91a9ee9c34e650da4b4df7c9f1f2e21f9a75943ecd90b5",
+        "line_text": "| Original stable gap — literal name | Claim-specific state and effect |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "66eb0852983bdd06a7e96f390e4e4349df509f38307b0ce3a7fa0d2bb5dd5bc2",
+        "line_text": "| G01 — Ordinary and private breadth | OPEN: all selected reading, making, food, quiet company and rest meanings are intrinsic; no other character or unreceived Shimiko context is completed here. |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "265c6812d59e53649471daa6f6a160914a2ddf38157b6f53ab234e6d9efe391c",
+        "line_text": "| G02 — Yuuka council/club decision transfer | OPEN: local lending/consultation/referral does not establish Yuuka's independent decision-transfer evidence. |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "4569292fdb9716630eead7fce5702100969829f0cc595604cb5a12d304f2d948",
+        "line_text": "| G03 — Serika service, peer and reciprocity range | OPEN: reader matching and shared work here provide comparison, not missing Serika receiver/service range. |"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "c29dd6dc5e2471674a57c84739723eca0022375d7662efbe32c2a3ea47ba67a6",
+        "line_text": "| G04 — Hina crisis causality, accountability and ordinary contrast | OPEN: disputed discipline and limited restoration do not settle Hina's separate causal/accountability record. |"
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "a9c1d7ac35b1019b8a123856a3804c7b147df10f59346bda5bae65d5bdd02789",
+        "line_text": "| G05 — Arius and PS68 ordinary/aftermath transfer | OPEN: Library duty, gifts and craft cannot certify Arius/PS68 livelihood, safety or social repair. |"
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "063bde0a0491352c850375579317a50dd9a337096fd9eef82ed9947e61f2ff68",
+        "line_text": "| G06 — Cross-school ordinary repertoire | OPEN: specific reader, visitor, child, peer and performer wants remain local; all other required ordinary lives stay independent. |"
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "334fd33cdd40021da10acbf3def816bf8b2f8100b4e33b5308263cd0a2fb4983",
+        "line_text": "| G07 — Story-world chronology | OPEN: source-local work/day/dawn/preparation/reunion order is received, but release/variant/holiday/rerun metadata does not place all objects in one MAIN calendar. |"
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "7936c64284247512c871a82c77570fdd2fc0d4a4a00de8a7607ee6887a523a32",
+        "line_text": "| G08 — Event naming and repeat contexts | OPEN: literal event/source roles and repeated Special/lobby scripts stay distinct; no missing title repair or extra historical borrowing/event follows. |"
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "fc516236fd14337d3fb09cfc73c73bb6d20fe0e2e0877827e583a8987912cf51",
+        "line_text": "| G09 — Written speaker/choice attribution | OPEN: private enforcement seams,812002 inherited text-bearing corrections,851 unknown/inward role lines and852 adjacent-actor/overprotection seams retain exact scope; no new repaired native actor map is authenticated. |"
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "4ca306f4b7653855b93c933143ebe1d5d9a16317c428df4304eb4ab43ee805d3",
+        "line_text": "| G10 — Performed voice | OPEN: written Japanese, Korean logs, declared voice/actor commands and role practice provide no received audiovisual acting, tone, gesture or engine result. |"
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "b4aa242c35d90f81c9254bf6b9b07b5c7ef3a65d294f53948b612b496644a85c",
+        "line_text": "| G11 — Hoshino's Yume record and office states | OPEN: no record authentication, death explanation or office continuity is supplied by this library/quiet-care synthesis. |"
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "3eaa60205763d15f6a1b3b7d2f1f5b8c439a11c9b807dc0b21f75156ddadf398",
+        "line_text": "| G12 — Counterpart, system and variant identity | OPEN: literal Shimiko26004 and source-local roles are retained; broader special identity-review associations and unknown recipients are not new persons or universal continuity proofs. |"
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "a417d578d46c9f3949360fe3ba9e96a8220cf49e244feff88e8089624664075a",
+        "line_text": "| G13 — Office, contract, safety and technical outcomes | OPEN: visitor learning/injury/proportionality, audited access/ownership/coating, loan return, alternative gift delivery, material-use permission, Ui rest and full backlog remain unsettled;852 local approval/proposed exchange/limited guarantorship establish no universal charter, liability test or justified prior punishment. |"
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "2bff7db2981327893ad79a6141848ca8bb4954835f33915e3402a1be324aa001",
+        "line_text": "| G14 — Unclassified/mode continuity | OPEN: narration, profile, direct/inward speech, report, formal alternative, whole-message tail and conditional written repetition retain different warrants; no universal consent, continuous biography or fully repaired institution follows. |"
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          6,
+          6
+        ],
+        "canonical_lines": [
+          6,
+          6
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_ROOT_REVIEW_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_ROOT_REVIEW_PENDING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          16,
+          17
+        ],
+        "canonical_lines": [
+          16,
+          25
+        ],
+        "frozen_text": [
+          "ROOT_acceptance: PENDING",
+          "canonical_adoption: PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_ROOT_acceptance: PENDING",
+          "historical_author_canonical_adoption: PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHIMIKO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          21,
+          20
+        ],
+        "canonical_lines": [
+          29,
+          30
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current receiving and publication boundary.** ROOT independently accepted this complete bounded character argument WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SHIMIKO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual author/ROOT source scopes and historical controls. The [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SHIMIKO_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves every frozen original line and exact byte tuple with a complete inverse. Earlier author pending, local-candidate and next-work wording remains creation-time provenance where retained. The predecessor63-package source at `cf2fba61c9e8448acdd2677f06d5258c051a6ba4` has a successful exact audit chain; this successor supplies persistence only after complete ROOT installation. Publication and main integration remain separate. This fixed ten-package64–73 batch has eight character and two directed arguments; it reaches73 packages (70 character,3 directed) only after that installation. Later live ROOT reviews are outside this snapshot. Scope355/29 and18 section-home allocations, the existing1 named-section completion, all14 original OPEN gaps and model0 remain unchanged; no quarter is reached. Reference translations are navigation/provenance transformations and add no primary, performance, independent literary or scope credit."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          162,
+          162
+        ],
+        "canonical_lines": [
+          172,
+          172
+        ],
+        "frozen_text": [
+          "All eleven substantive architecture dimensions are joined at this bounded character responsibility. ROOT independent review and canonical adoption remain pending; Library institutional and Ui–Shimiko directed work remain separately required. Source5f/main2e analytical meanings and later architecture1.12 are distinct from mutable completion metadata. No whole-cast denominator change, named-section credit, model, forecast or quarter follows from drafting. Broader special identity-review associations and unreceived context routes stay qualified duties rather than invented appearances, missing biographies or permission for blanket replay. The fourteen original gaps below retain their full stable names and OPEN state. [Architecture7.1](../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) [Method](../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md) [355/29 scope](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json) [Original gaps](../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md)"
+        ],
+        "canonical_text": [
+          "All eleven substantive architecture dimensions are joined at this bounded character responsibility. ROOT has independently received and accepted this bounded argument WITH LIMITS; canonical persistence begins only with complete ROOT installation; Library institutional and Ui–Shimiko directed work remain separately required. Source5f/main2e analytical meanings and later architecture1.12 are distinct from mutable completion metadata. No whole-cast denominator change, named-section credit, model, forecast or quarter follows from drafting. Broader special identity-review associations and unreceived context routes stay qualified duties rather than invented appearances, missing biographies or permission for blanket replay. The fourteen original gaps below retain their full stable names and OPEN state. [Architecture7.1](../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) [Method](../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md) [355/29 scope](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json) [Original gaps](../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md)"
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "reference_navigation_translations": [],
+  "original_full_author_and_root_transports": [
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 57987,
+      "sha256": "aaa73ac2e4817d784866e1465a5b370ff691c90594a83e2674127b0fca013ae1",
+      "git_blob_oid_of_actual_bytes": "38347bcb7d3e380b5e3cd386d40519192c52220b",
+      "lines": 179,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 31071,
+      "sha256": "db79484bd10726c643bdae3f8140b191a03677f1c5fe7dc74412f238f38a4c96",
+      "git_blob_oid_of_actual_bytes": "dbd165742de66a86bf187d10ebbd6c2766f38964",
+      "lines": 608,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 6545,
+      "sha256": "b322d59cfa309f8fb2e0012e576f70f4176c69f1982fe513d1755afca94c9b63",
+      "git_blob_oid_of_actual_bytes": "a63d7bd750000baee82958cb9de406d3ee504ee6",
+      "lines": 172,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_SHIMIKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 4849,
+      "sha256": "6bd71f192e64857fdb8ced593ab500f5061b57ebfd7095e3aae565c704d2acce",
+      "git_blob_oid_of_actual_bytes": "feac8085a2b9e509420f794349a619474b0a01c6",
+      "lines": 69,
+      "immutable_transport_path": "immutable_originals/ROOT_SHIMIKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 76723,
+      "sha256": "1e6414d08eff69a23dc254cf0e17dad05132d577dfd0f8fab736d8e7d008f13d",
+      "git_blob_oid_of_actual_bytes": "cf6a4d08fddbaef4aadb4a935ae414818fbc840b",
+      "lines": 1234,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 1831,
+      "sha256": "0385c5c89c14d73f8e256e34c56a0379ffecdf13cf933faa6bbdfcea588673c4",
+      "git_blob_oid_of_actual_bytes": "0026d4d643428463a4f90699a02fab35517f4e2b",
+      "lines": 43,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json"
+    }
+  ],
+  "substantive_literary_change": 0,
+  "new_primary_performance_independent_model_or_count_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 172
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V033
+row_count: 180
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -214,3 +214,66 @@ state: CURRENT_THROUGH_V030
 | RAG-FRM-170 | A neighborhood cat moves from Kazuya's room to Chizuru's family yard amid laundry and Sayuri memory. | The animal gives household continuity and an observational bridge. | Gentle action is visible while Kazuya's loneliness theory remains a hypothesis. | The cat cannot answer Chizuru's romantic inquiry; RAG-E-V030-005. |
 | RAG-FRM-171 | Calendar and phone screens introduce April 19 and Mami's message; an apology scene ends before explanatory closure. | Specific timing makes the birthday actionable while the former-partner route remains open. | Interfaces convey contact and deadline, not private motive. | No completed birthday gesture or Mami endpoint; RAG-E-V030-006, RAG-E-V030-007. |
 | RAG-FRM-172 | Sumi's arrival, cut finger, bandaging hands, and quiet pauses replace Kazuya's spiraling interior monologue with care. | A small injury supports a concrete, local response and a second perspective on the birthday. | The hand image is an act of treatment, not an intimacy claim. | Bonus pages and teaser cannot supply subsequent outcome; RAG-E-V030-008, RAG-E-V030-009. |
+| RAG-FRM-173 | Stage ensemble, two cakes, and repeated moon/house views move Chizuru from professional visibility to a private welcome. | The birthday sequence contains several different observers and givers. | Repetition corrects Kazuya's solitary-rescuer picture without making every celebration equivalent. | Neither troupe acclaim nor house cake is a final acting or romantic outcome; RAG-E-V031-001 through RAG-E-V031-005. |
+| RAG-FRM-174 | Sumi's quiet private conversation and Chizuru's direct speech interrupt Kazuya's anxious interpretation. | Chizuru distinguishes comfort and gratitude from an as-yet-unknown love classification. | Viewpoint shift supplies evidence of uncertainty from the focal character herself. | Framing and expression cannot be overruled by assumed hidden love; RAG-E-V031-004. |
+| RAG-FRM-175 | Coupons, bear sweater, altar photographs, and the May 13 date give four objects different temporal directions. | A gift can be worn now, a coupon may be used later, family memory persists, and residence has a planned end. | Material repetition measures care without flattening grief or deadline into a single status. | No redeemed coupon, healed bereavement, or completed move is shown; RAG-E-V031-005 through RAG-E-V031-008. |
+| RAG-FRM-176 | Eroticized bath entrances and reaction panels surround Chizuru's explicit distinction between not disliking and loving. | Mini's comic pressure exposes rather than resolves the inquiry. | The scene's visual provocation is checked by voiced hesitation and a request for testimony. | The shared bath is Mini and Chizuru; nudity is not a Kazuya-Chizuru sexual event; RAG-E-V031-009, RAG-E-V031-010. |
+| RAG-FRM-177 | Stacked boxes and a neighbor's door compress the storeroom into enforced bodily proximity. | Accidental geometry creates a heightened tableau. | Chizuru's local instruction to stay still and the later separation constrain its meaning. | Framing cannot substitute for a kiss or continuing permission; RAG-E-V032-002 through RAG-E-V032-004. |
+| RAG-FRM-178 | Shop-floor scale, television prices, massage-chair poses, and a meal alternate domestic decisions with Kazuya's erotic gaze. | Ordinary preferences become visible in a public three-person setting. | Chizuru's speech and budgeting anchor action more securely than reaction panels. | Visual couple resemblance does not certify status; RAG-E-V032-005 through RAG-E-V032-009. |
+| RAG-FRM-179 | The page-sized image of Kazuya accompanies an unballooned internal love statement, followed by memory panels of Chizuru's earlier words. | A visual climax occurs inside his interpretive viewpoint. | Past direct speech is replayed, while the current conclusion is his private thought. | Do not attribute the thought to Chizuru or claim she hears it; RAG-E-V032-009. |
+| RAG-FRM-180 | Night street and shared drink slow the pace after cramped domestic comedy; an abrupt cafe cut follows. | Quiet chosen company and a new conversation have different information scopes. | The cut opens a question rather than proving a link between them. | The pale-haired companion's identity and impact remain unresolved; RAG-E-V032-011, RAG-E-V032-012. |
+| RAG-FRM-181 | A confession dream opens into Kazuya's ordinary student day and a ticking household horizon. | Imagined certainty is immediately broken by waking and practical time. | The dream marks his desire, while May 13 is the real stated constraint. | Do not transfer dream speech to Chizuru; RAG-E-V033-001. |
+| RAG-FRM-182 | Twister's mat and bent poses echo prior cramped proximity, then a three-person photograph closes the scene. | The form tests discomfort and turns it into a group memento. | Spoken adjustments and the game stop determine the contact's scope. | An eroticized pose or photograph cannot establish intimacy or a couple; RAG-E-V033-002 through RAG-E-V033-004. |
+| RAG-FRM-183 | The altar interior gives way to a long street sight line, a parked-car hiding place, and silent reaction faces during Umi's confession. | The reader and eavesdroppers gain a speech event Chizuru does not know they heard. | Direct words identify Umi's interest; faces do not identify her private feeling. | Do not transform overhearing into a shared conversation or read a response from silence; RAG-E-V033-006 through RAG-E-V033-009. |
+| RAG-FRM-184 | Chizuru's explicit date word is enlarged through Kazuya's panicked focalization, then ordinary destination and phone-call panels resume. | Formal excitement marks the invitation's significance while postponing its execution. | Her actual invitation is direct, and his internal certainty is separate. | The volume ends before the date, regardless of the visual climax; RAG-E-V033-010 through RAG-E-V033-012. |
+| RAG-FRM-185 | Crowded nursery play panels move into a quiet nap scene and Harumi's measured account. | Direct action, Chizuru's own child care, and third-party testimony cross-check an ordinary skill. | Spoken and shown acts are stronger than Kazuya's future-family fantasy. | A child's question and his maternal image do not forecast parenthood; RAG-E-V034-002 through RAG-E-V034-005. |
+| RAG-FRM-186 | Extreme faces and the enlarged soap bottle turn a minor supply discrepancy into a crisis in Kazuya's focalization. | His fear of evaluation is made visible against Chizuru's simple truth request. | The first answer and correction are both explicit speech acts. | Comic disproportion does not make the lie imaginary or a relationship verdict; RAG-E-V034-007. |
+| RAG-FRM-187 | Intimate laundry and Kazuya's clenched hand are magnified before Mini's arrival breaks the feared two-person confrontation. | The panel sequence dramatizes privacy uncertainty and defensive overinterpretation. | The washer event is accidental as presented; Chizuru's embarrassment is visible. | Neither a garment close-up nor Mini's tease proves consent or total ownership; RAG-E-V034-008. |
+| RAG-FRM-188 | `ito` card close-ups show 56 and 100 while Chizuru's face remains wordless at the final cut. | Numerical certainty is offered as a visual lure, then interpretive completion is withheld. | Rules make these assigned game values, not interpersonal grades. | The silent close-up cannot answer her investigation; RAG-E-V034-009, RAG-E-V034-010. |
+
+## V035 close additions
+
+| RAG-FRM-189 | `ito` cards and Chizuru's proposal imagery move from an exact 100 to a spoken correction. | A numeric reveal tempts a personal-score reading. | Her explicit qualification outranks the card and Mini's suggestion. | The game does not rate Kazuya or identify a beloved; RAG-E-V035-001, RAG-E-V035-002. |
+| RAG-FRM-190 | Kibe's direct question is followed by memory and blush close-ups, then his decision to stop asking. | Reaction imagery keeps a potent ambiguity visible. | The missing spoken answer remains missing despite Kibe's confidence. | No confession can be transcribed from expression; RAG-E-V035-004. |
+| RAG-FRM-191 | Kazuya's internet snippets and alarmed faces contrast with Chizuru's plain bodily explanation, bowl, sweet, and quiet doorway. | Comic overthinking is set against local, practical acts. | Chizuru's request and permission, not Kazuya's web theory, govern care. | Physical vulnerability is not a romance certificate; RAG-E-V035-005 through RAG-E-V035-008. |
+| RAG-FRM-192 | Fashion displays and arcade machines precede Nagomi's serious apology and wedding image. | Consumer brightness carries a paid date into family expectation. | The rental frame and elder's subjective hope remain separately legible. | A bridal mental picture is not an actual marriage plan; RAG-E-V035-010 through RAG-E-V035-012. |
+| RAG-FRM-193 | Sumi appears across an arcade sightline rather than in the women's conversational frame. | Visual presence creates audience asymmetry without dialogue. | The scene shows seeing, not hearing. | No witness report or confrontation occurs; RAG-E-V035-011. |
+
+## V036 close additions
+
+| RAG-FRM-194 | Sumi's isolated reflection panels follow the V035 arcade sightline. | A silent witness gains interior continuity without confrontation. | Her questions remain hers. | No knowledge of booking context is implied; RAG-E-V036-001. |
+| RAG-FRM-195 | Bear hood, bunny costume, sales goods, and camera frames mark the cosplay event. | Public spectacle and labor share a visual field. | Chizuru's own rescheduling and photo assent define local participation. | Posing does not settle private feelings; RAG-E-V036-003 through RAG-E-V036-005. |
+| RAG-FRM-196 | A lease date, unsent phone drafts, and later a `デート` calendar entry contrast possible and enacted plans. | Documents render the move and agreed date unusually concrete. | The spoken invitation and answer sit between rehearsal and calendar. | No completed outing or move appears; RAG-E-V036-006 through RAG-E-V036-010. |
+| RAG-FRM-197 | Repeated close-ups of shorts, leg, and Kazuya's panic surround a spilled bowl of beans. | Comic subjective gaze inflates a household accident. | Chizuru's dialogue remains about clothes and cleanup. | The framing is not sexual permission or her inner verdict; RAG-E-V036-012. |
+
+## V037 close additions
+
+| RAG-FRM-198 | Batting-cage action and Sayuri's grave frame Chizuru's private worry and decision. | Agency is visible outside Kazuya's view. | Her own words identify an open inquiry. | Blushing or memorial imagery cannot create a verdict; RAG-E-V037-001, RAG-E-V037-006. |
+| RAG-FRM-199 | `Bounce Off` balls, red-bean porridge, and the shared doorway recur as ordinary house objects. | Play, repair, and spatial logistics replace paid-date performance. | Chizuru acts inside these scenes. | Domestic ease does not certify couple status; RAG-E-V037-002, RAG-E-V037-010. |
+| RAG-FRM-200 | Phone messages, menu screens, itinerary notes, and weather forecasts surround Kazuya's search. | Digital detail makes his anxiety and information-gathering visible. | Her actual texts must be distinguished from his drafts. | A researched option is not a joint commitment; RAG-E-V037-003 through RAG-E-V037-005, RAG-E-V037-008. |
+| RAG-FRM-201 | Hotel fantasy panels and comic alarm follow Kuri's third-date theory. | Subjective sexual possibility is staged as escalation pressure. | The actual object is his purchase. | No sex or Chizuru consent is shown; RAG-E-V037-004. |
+| RAG-FRM-202 | The 9 a.m. correction of a handwritten meeting point precedes a cut to Mami. | A small domestic fact receives document-level confirmation; the final cut opens another thread. | Chizuru's spoken terms outrank Kazuya's provisional schedule. | Mami's appearance does not alter the agreed departure; RAG-E-V037-010, RAG-E-V037-011. |
+
+## V038 close additions
+
+| RAG-FRM-203 | Shoe shops and outfit trials mirror the principals' separate preparation. | Both worry about presentation before an unpaid date. | Chizuru's private question and Kazuya's purchase are observable. | Imagined outfits are not committed date attire; RAG-E-V038-003. |
+| RAG-FRM-204 | Route map and sheltered walkway precede an unexpected real encounter. | Distinguishes Kazuya's anticipated date from Chizuru's actual arrival. | The venue preview is lived, while prior simulated dialogue is not. | Do not collapse rehearsal into May 17; RAG-E-V038-004, -005. |
+| RAG-FRM-205 | Retro arcade, mall signage, food menus and bill make choices concrete. | Ordinary objects expose the limits of an optimized itinerary. | Chizuru repeatedly speaks and acts on preference. | A menu option is not an agreed future stop; RAG-E-V038-006, -008, -009. |
+| RAG-FRM-206 | Mami is shown watching across cafe space. | Spatial separation makes her new knowledge visible. | Principals do not address her. | No intervention follows; RAG-E-V038-007. |
+| RAG-FRM-207 | Miho's first-person text overlays the theater, away from the mall sequence. | Separates a new professional worldview from Chizuru's date speech. | Miho self-identifies and narrates her own thoughts. | Her cynicism is not the text's omniscient verdict; RAG-E-V038-010. |
+
+## V039 close additions
+
+| RAG-FRM-208 | The photo booth turns an awkward close pose into a tangible image. | Physical proximity is playful yet uncomfortable for Kazuya. | Chizuru directly initiates the activity. | A photograph is no couple-status proof; RAG-E-V039-001. |
+| RAG-FRM-209 | Ride spectacle alternates with wait lines and quiet conversation. | The experience disrupts Kazuya's ideal score while opening interaction. | Fear, enjoyment and the cafe exchange are shown. | Do not assign his interior anxiety to Chizuru; RAG-E-V039-002, -003, -005. |
+| RAG-FRM-210 | Oversized fortune percentages follow Chizuru's partly hidden input. | The game externalizes romance as playful data. | Both see 78% and 90%; input remains hers. | Fortune is not evidence of actual probability; RAG-E-V039-004. |
+| RAG-FRM-211 | Mami's abrupt appearance breaks the Joypolis sequence. | Third-party contact interrupts private play. | Her direct question replaces silent watching. | The scene does not itself change the formal date; RAG-E-V039-006 through -008. |
+| RAG-FRM-212 | A plain confession and later household television displace spectacle. | Direct words and ordinary time carry more evidence than ride results. | Both scenes are present action. | No final response follows; RAG-E-V039-009, -010. |
+
+## V040 close additions
+
+| RAG-FRM-213 | Given names and rental alias receive repeated reaction frames. | Person and role distinction becomes a conversational problem. | Chizuru's and Kazuya's actual speech anchors it. | His blush is not her answer; RAG-E-V040-001. |
+| RAG-FRM-214 | Key, credit card and fish keyholder recur through shopping and date preparation. | Tangible objects link resources, move, affection and concealment. | Ruka sees only part of the situation. | Possession does not prove informed approval; RAG-E-V040-002, -003, -008. |
+| RAG-FRM-215 | Sayuri's film contrasts with Kazuya's performance-monitoring thoughts. | An inherited acting goal sits beside his romantic goal. | Chizuru names Sayuri as her ideal. | Film footage is not new direct historical action; RAG-E-V040-005. |
+| RAG-FRM-216 | Rain, separate umbrellas and crowded-train compression disrupt the controlled itinerary. | Weather converts his ideal route into a practical and bodily test. | Departure, accidental contact, apology and travel are observed. | Focalized erotic imagery is not consent; RAG-E-V040-008 through -010. |
+| RAG-FRM-217 | A piano-key umbrella frames Chizuru's final request at the Joypolis threshold. | A small chosen intimacy replaces Kazuya's attempt to perfect every gesture. | She directly asks to share it. | The cutoff withholds the date result; RAG-E-V040-012. |

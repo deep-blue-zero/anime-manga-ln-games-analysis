@@ -1,0 +1,947 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_NINE_HOLDS_ADJUDICATION_V1/SAVED_ARGUMENT_SECTION_AND_PARAGRAPH_INDEX_V1.json",
+  "original_frozen_binding": {
+   "bytes": 26960,
+   "sha256": "3110cde3492cdbbbf4d67c33288396668d8aaf5d266897cec4170b7d62d9e75c",
+   "git_blob_sha1": "668a1198e442db5d648e1326979cdce7202de92a"
+  }
+ },
+ "historical_payload": {
+  "body_path": "NINE_HOLDS_AND_SHIROKO_CONCRETE_ADJUDICATION_ARGUMENT_V1.md",
+  "all_saved_prose_received": "7a715d original0–18000 +842f1c final18000–EOF and complete precision edit; overlap from small insertion preserved",
+  "new_source_credit": 0,
+  "blocks": [
+   {
+    "block": 1,
+    "raw_character_range_exclusive": [
+     0,
+     409
+    ],
+    "first_line": 1,
+    "bytes": 409,
+    "sha256": "96e9744fd53a6416e1e4309179b499e1aa62b66faefaa1ac6e1832fd3a45f3c5",
+    "section": null
+   },
+   {
+    "block": 2,
+    "raw_character_range_exclusive": [
+     411,
+     483
+    ],
+    "first_line": 14,
+    "bytes": 72,
+    "sha256": "67e2c58ac887454316123bd38340c4dd7df9da3e322a28e93a05849410d0230f",
+    "section": null
+   },
+   {
+    "block": 3,
+    "raw_character_range_exclusive": [
+     485,
+     508
+    ],
+    "first_line": 16,
+    "bytes": 23,
+    "sha256": "6b46d2ef5fda81fe7ea2efb04594ba0590ecd7637eae5167cfeafbdf5176976d",
+    "section": null
+   },
+   {
+    "block": 4,
+    "raw_character_range_exclusive": [
+     510,
+     961
+    ],
+    "first_line": 18,
+    "bytes": 451,
+    "sha256": "a1f1c0b828e01be60d6bc7940a29dc4a3fe8007ea970ea7bc9feaf431c7c8a04",
+    "section": "## 1. Decision boundary"
+   },
+   {
+    "block": 5,
+    "raw_character_range_exclusive": [
+     963,
+     1664
+    ],
+    "first_line": 20,
+    "bytes": 701,
+    "sha256": "d9068bfae4a4032e1661cbb3a1ff4580698ae00cfd3da958ee3f0002ca67aebd",
+    "section": "## 1. Decision boundary"
+   },
+   {
+    "block": 6,
+    "raw_character_range_exclusive": [
+     1666,
+     2117
+    ],
+    "first_line": 22,
+    "bytes": 451,
+    "sha256": "6f06c7db8291c170763ad954931eeab6506c5aae8ba2c7d91355101fa3661757",
+    "section": "## 1. Decision boundary"
+   },
+   {
+    "block": 7,
+    "raw_character_range_exclusive": [
+     2119,
+     2859
+    ],
+    "first_line": 24,
+    "bytes": 740,
+    "sha256": "57e19ae623b9238057dda9224dd5b379fb43029643470d09cfea7fff701f88a5",
+    "section": "## 1. Decision boundary"
+   },
+   {
+    "block": 8,
+    "raw_character_range_exclusive": [
+     2861,
+     3151
+    ],
+    "first_line": 26,
+    "bytes": 290,
+    "sha256": "5c8676bac00aaa79ca06422952e20522c2e6c69d49b9f90f5dd3d42b80f45bce",
+    "section": "## 1. Decision boundary"
+   },
+   {
+    "block": 9,
+    "raw_character_range_exclusive": [
+     3153,
+     3188
+    ],
+    "first_line": 28,
+    "bytes": 35,
+    "sha256": "e436a57faa55fa281a04b8314f2a150ee12f21769139546594c759acbaf8efc4",
+    "section": "## 1. Decision boundary"
+   },
+   {
+    "block": 10,
+    "raw_character_range_exclusive": [
+     3190,
+     5028
+    ],
+    "first_line": 30,
+    "bytes": 1842,
+    "sha256": "0963748df4cbea28d9ef2ec55f006216bbbfe57ce9fc1af9714bc04f49eb07c2",
+    "section": "## 2. Compact proposed dispositions"
+   },
+   {
+    "block": 11,
+    "raw_character_range_exclusive": [
+     5030,
+     5439
+    ],
+    "first_line": 43,
+    "bytes": 409,
+    "sha256": "8591811d1796e3bf71fc52d4fece98a7a3ea2071f96f48c154d17e15659a210c",
+    "section": "## 2. Compact proposed dispositions"
+   },
+   {
+    "block": 12,
+    "raw_character_range_exclusive": [
+     5441,
+     5513
+    ],
+    "first_line": 45,
+    "bytes": 72,
+    "sha256": "7445a3281168f7ca9d282cf12da12ca5e8a4cb750c3594be00fe38176358513f",
+    "section": "## 2. Compact proposed dispositions"
+   },
+   {
+    "block": 13,
+    "raw_character_range_exclusive": [
+     5515,
+     5908
+    ],
+    "first_line": 47,
+    "bytes": 393,
+    "sha256": "ba5f8913cce27f14acf38202ed1849b7f9c9ab8372bdc7ce5abc99fe78d52600",
+    "section": "## 3. Kai/Riku: reciprocal hospitality does not validate every diagnosis"
+   },
+   {
+    "block": 14,
+    "raw_character_range_exclusive": [
+     5910,
+     6503
+    ],
+    "first_line": 49,
+    "bytes": 593,
+    "sha256": "016a8b2f499c3bc3d619e3231ab193105d6c8b4c8acae1b130c3c8770d318e7f",
+    "section": "## 3. Kai/Riku: reciprocal hospitality does not validate every diagnosis"
+   },
+   {
+    "block": 15,
+    "raw_character_range_exclusive": [
+     6505,
+     6875
+    ],
+    "first_line": 51,
+    "bytes": 370,
+    "sha256": "d77e890c9481b2dcd9cd063de32903fe79d9168a959acbfe0f53ec02dc2c7f06",
+    "section": "## 3. Kai/Riku: reciprocal hospitality does not validate every diagnosis"
+   },
+   {
+    "block": 16,
+    "raw_character_range_exclusive": [
+     6877,
+     7325
+    ],
+    "first_line": 53,
+    "bytes": 448,
+    "sha256": "f29addd50ce04ec9f72f306c3b8f87fd0a961a11acc59e23b7be607c0b92b836",
+    "section": "## 3. Kai/Riku: reciprocal hospitality does not validate every diagnosis"
+   },
+   {
+    "block": 17,
+    "raw_character_range_exclusive": [
+     7327,
+     7911
+    ],
+    "first_line": 55,
+    "bytes": 584,
+    "sha256": "6ca0291888b0e788314318d6ce0b78e498889683ca4098374427fb5c9f3cecbe",
+    "section": "## 3. Kai/Riku: reciprocal hospitality does not validate every diagnosis"
+   },
+   {
+    "block": 18,
+    "raw_character_range_exclusive": [
+     7913,
+     8306
+    ],
+    "first_line": 57,
+    "bytes": 396,
+    "sha256": "784a097b9588d304395b083cd85e7c302aafd1b8139ac7ff3f89c6c75b86156b",
+    "section": "## 3. Kai/Riku: reciprocal hospitality does not validate every diagnosis"
+   },
+   {
+    "block": 19,
+    "raw_character_range_exclusive": [
+     8308,
+     8382
+    ],
+    "first_line": 59,
+    "bytes": 74,
+    "sha256": "59d5b859dd625bd44e5bbf4fde24669b7d573f57a0988321c6ff7a514b8b467c",
+    "section": "## 3. Kai/Riku: reciprocal hospitality does not validate every diagnosis"
+   },
+   {
+    "block": 20,
+    "raw_character_range_exclusive": [
+     8384,
+     8677
+    ],
+    "first_line": 61,
+    "bytes": 293,
+    "sha256": "d63776a5524cf3f21e153bb5d631d29dcb3f1ab34969fc165f2edb05a1af0af3",
+    "section": "## 4. Tsumugi: a comparative artist home retaining inconvenient recipients"
+   },
+   {
+    "block": 21,
+    "raw_character_range_exclusive": [
+     8679,
+     9230
+    ],
+    "first_line": 63,
+    "bytes": 557,
+    "sha256": "bc482194dd054dd1bc23e98a7be60dbd3d87716eaeba0965d5944a423d2c3927",
+    "section": "## 4. Tsumugi: a comparative artist home retaining inconvenient recipients"
+   },
+   {
+    "block": 22,
+    "raw_character_range_exclusive": [
+     9232,
+     9720
+    ],
+    "first_line": 65,
+    "bytes": 489,
+    "sha256": "52b190cfbc3993ae06864dd38b1104673de465e3309211c539e61d919fc79793",
+    "section": "## 4. Tsumugi: a comparative artist home retaining inconvenient recipients"
+   },
+   {
+    "block": 23,
+    "raw_character_range_exclusive": [
+     9722,
+     10049
+    ],
+    "first_line": 67,
+    "bytes": 328,
+    "sha256": "cd88f0801c90fa568c201d8c51527a79b3d2fc67e638eeaadc9d118322e9a5bf",
+    "section": "## 4. Tsumugi: a comparative artist home retaining inconvenient recipients"
+   },
+   {
+    "block": 24,
+    "raw_character_range_exclusive": [
+     10051,
+     10497
+    ],
+    "first_line": 69,
+    "bytes": 446,
+    "sha256": "8f3cdd24b20a6a984dc037d82333b3b1c30fa0203f29c782d6b600d1e377273b",
+    "section": "## 4. Tsumugi: a comparative artist home retaining inconvenient recipients"
+   },
+   {
+    "block": 25,
+    "raw_character_range_exclusive": [
+     10499,
+     11234
+    ],
+    "first_line": 71,
+    "bytes": 736,
+    "sha256": "3a986be947484d82506d8fd7957c4ba8d193794213a197cd4b2a8ab2ea44c707",
+    "section": "## 4. Tsumugi: a comparative artist home retaining inconvenient recipients"
+   },
+   {
+    "block": 26,
+    "raw_character_range_exclusive": [
+     11236,
+     11302
+    ],
+    "first_line": 73,
+    "bytes": 66,
+    "sha256": "1d1ab3c3bc7e33ad4a2640530ef48a3012dcdf58a0ab92d66466ed418ee32dfc",
+    "section": "## 4. Tsumugi: a comparative artist home retaining inconvenient recipients"
+   },
+   {
+    "block": 27,
+    "raw_character_range_exclusive": [
+     11304,
+     11622
+    ],
+    "first_line": 75,
+    "bytes": 318,
+    "sha256": "405b6d6346231a2a225715916761a892e0c20b1e7d9f5f3954eddac4ba41f150",
+    "section": "## 5. Mirai: commerce, care, embarrassment and divergent audiences"
+   },
+   {
+    "block": 28,
+    "raw_character_range_exclusive": [
+     11624,
+     12070
+    ],
+    "first_line": 77,
+    "bytes": 450,
+    "sha256": "efb1804cf6e1a3614af1b933b05b71cc5a34bfcb6e932b69785a7b04480147d4",
+    "section": "## 5. Mirai: commerce, care, embarrassment and divergent audiences"
+   },
+   {
+    "block": 29,
+    "raw_character_range_exclusive": [
+     12072,
+     12507
+    ],
+    "first_line": 79,
+    "bytes": 435,
+    "sha256": "191bedd66241d0ec39fbc4c60aec00a9a3ab214f457e9c86e6cef80428c0b0bd",
+    "section": "## 5. Mirai: commerce, care, embarrassment and divergent audiences"
+   },
+   {
+    "block": 30,
+    "raw_character_range_exclusive": [
+     12509,
+     13009
+    ],
+    "first_line": 81,
+    "bytes": 500,
+    "sha256": "1d65c5fa59aa5722e72c44a829a64eca9d2cf8075e210ce890e504b511440959",
+    "section": "## 5. Mirai: commerce, care, embarrassment and divergent audiences"
+   },
+   {
+    "block": 31,
+    "raw_character_range_exclusive": [
+     13011,
+     13364
+    ],
+    "first_line": 83,
+    "bytes": 353,
+    "sha256": "c26963a9187cd2b119bb59ec2b9ae345b172245008830855b649c80745cb1c62",
+    "section": "## 5. Mirai: commerce, care, embarrassment and divergent audiences"
+   },
+   {
+    "block": 32,
+    "raw_character_range_exclusive": [
+     13366,
+     13828
+    ],
+    "first_line": 85,
+    "bytes": 462,
+    "sha256": "8235c888fe4ab2ed67b7371fe0e120fed1ff3933141e58ae81a9496f0a711427",
+    "section": "## 5. Mirai: commerce, care, embarrassment and divergent audiences"
+   },
+   {
+    "block": 33,
+    "raw_character_range_exclusive": [
+     13830,
+     14490
+    ],
+    "first_line": 87,
+    "bytes": 664,
+    "sha256": "449d01edc13b5469a9f7f34212a625f130c476a0358e56c530ac5a38e8f39e59",
+    "section": "## 5. Mirai: commerce, care, embarrassment and divergent audiences"
+   },
+   {
+    "block": 34,
+    "raw_character_range_exclusive": [
+     14492,
+     14547
+    ],
+    "first_line": 89,
+    "bytes": 55,
+    "sha256": "4baa1c76560c9f294b351308c9ad0300b63f9a5937a883580a5e63dbc3ee8195",
+    "section": "## 5. Mirai: commerce, care, embarrassment and divergent audiences"
+   },
+   {
+    "block": 35,
+    "raw_character_range_exclusive": [
+     14549,
+     14908
+    ],
+    "first_line": 91,
+    "bytes": 359,
+    "sha256": "875e92d4149843ffd1d41118f13fbb22a5ccfc81b235260c0db5127f00da8199",
+    "section": "## 6. Red Winter: the school mechanism crosses factions"
+   },
+   {
+    "block": 36,
+    "raw_character_range_exclusive": [
+     14910,
+     15324
+    ],
+    "first_line": 93,
+    "bytes": 414,
+    "sha256": "1266d957e3f8da2e84e04a6eaff1df0db060b17bcaeb028b791cc29a1748fa77",
+    "section": "## 6. Red Winter: the school mechanism crosses factions"
+   },
+   {
+    "block": 37,
+    "raw_character_range_exclusive": [
+     15326,
+     16005
+    ],
+    "first_line": 95,
+    "bytes": 679,
+    "sha256": "243322a26eeedcc36d8473af6c34dcc7ebf6175286e0935453bb1428e8eace2b",
+    "section": "## 6. Red Winter: the school mechanism crosses factions"
+   },
+   {
+    "block": 38,
+    "raw_character_range_exclusive": [
+     16007,
+     16458
+    ],
+    "first_line": 97,
+    "bytes": 451,
+    "sha256": "bc087fd01ce0e55052bc80f35bd9a0ad14a4bf22c88a2d628637a9cba901b0aa",
+    "section": "## 6. Red Winter: the school mechanism crosses factions"
+   },
+   {
+    "block": 39,
+    "raw_character_range_exclusive": [
+     16460,
+     16990
+    ],
+    "first_line": 99,
+    "bytes": 530,
+    "sha256": "f630d03a3c148c70594e9ef0f03f9b9e5c51372e013b17deb488781a4e9e0b96",
+    "section": "## 6. Red Winter: the school mechanism crosses factions"
+   },
+   {
+    "block": 40,
+    "raw_character_range_exclusive": [
+     16992,
+     17450
+    ],
+    "first_line": 101,
+    "bytes": 458,
+    "sha256": "448585c78e669e17692000d0f4c017a1443a89666533132ef82fcc2570b70849",
+    "section": "## 6. Red Winter: the school mechanism crosses factions"
+   },
+   {
+    "block": 41,
+    "raw_character_range_exclusive": [
+     17452,
+     17520
+    ],
+    "first_line": 103,
+    "bytes": 68,
+    "sha256": "ac6a2e0e91044924edededb3b7f86f8c858b8e76d4c2cce1ec4b49ec9e326738",
+    "section": "## 6. Red Winter: the school mechanism crosses factions"
+   },
+   {
+    "block": 42,
+    "raw_character_range_exclusive": [
+     17522,
+     17849
+    ],
+    "first_line": 105,
+    "bytes": 327,
+    "sha256": "a5c7ff23e2a9dc8a2c1de04daaf6b735fb575c000ace3af016cf44a380d67b73",
+    "section": "## 7. Millennium: expertise does not authorize the uses of expertise"
+   },
+   {
+    "block": 43,
+    "raw_character_range_exclusive": [
+     17851,
+     18549
+    ],
+    "first_line": 107,
+    "bytes": 698,
+    "sha256": "cfd552ee5721f7af401682f1bd29e9c6b83177cc22102b1bf05ded327afd6041",
+    "section": "## 7. Millennium: expertise does not authorize the uses of expertise"
+   },
+   {
+    "block": 44,
+    "raw_character_range_exclusive": [
+     18551,
+     18993
+    ],
+    "first_line": 109,
+    "bytes": 442,
+    "sha256": "86091f0a46c712176ce420d92e7ded97cb83d7821d6ba59a3591a4fbed92e217",
+    "section": "## 7. Millennium: expertise does not authorize the uses of expertise"
+   },
+   {
+    "block": 45,
+    "raw_character_range_exclusive": [
+     18995,
+     19383
+    ],
+    "first_line": 111,
+    "bytes": 388,
+    "sha256": "54a35b7b03b9434d0619245ff6421dac00d1a087dccffeca955b0efbfeab54c1",
+    "section": "## 7. Millennium: expertise does not authorize the uses of expertise"
+   },
+   {
+    "block": 46,
+    "raw_character_range_exclusive": [
+     19385,
+     19803
+    ],
+    "first_line": 113,
+    "bytes": 418,
+    "sha256": "fe051b6becdbcf0d1339d54c71f8ba33e905663efca1f7267c09646fff969600",
+    "section": "## 7. Millennium: expertise does not authorize the uses of expertise"
+   },
+   {
+    "block": 47,
+    "raw_character_range_exclusive": [
+     19805,
+     20437
+    ],
+    "first_line": 115,
+    "bytes": 632,
+    "sha256": "d818457dbfd69fd968a2e5f410dd3169312b80a391f83594cda6b4d6f4bdd27b",
+    "section": "## 7. Millennium: expertise does not authorize the uses of expertise"
+   },
+   {
+    "block": 48,
+    "raw_character_range_exclusive": [
+     20439,
+     20502
+    ],
+    "first_line": 117,
+    "bytes": 65,
+    "sha256": "48f5c2004eaabaa384b07aac57169f41894a089c6e0f6aaf9f2877fd161b2702",
+    "section": "## 7. Millennium: expertise does not authorize the uses of expertise"
+   },
+   {
+    "block": 49,
+    "raw_character_range_exclusive": [
+     20504,
+     20796
+    ],
+    "first_line": 119,
+    "bytes": 292,
+    "sha256": "8b5e3f4b1baa15bc5225929a51dd00e7db37ad1305d230a6b99d3683455b2e9f",
+    "section": "## 8. Himari–Eimi: different dependencies, different directions"
+   },
+   {
+    "block": 50,
+    "raw_character_range_exclusive": [
+     20798,
+     21434
+    ],
+    "first_line": 121,
+    "bytes": 636,
+    "sha256": "3ca41e44f11c5a1b19138e796ea2d8722611e74afb77b55b191e397876f50cbf",
+    "section": "## 8. Himari–Eimi: different dependencies, different directions"
+   },
+   {
+    "block": 51,
+    "raw_character_range_exclusive": [
+     21436,
+     21889
+    ],
+    "first_line": 123,
+    "bytes": 453,
+    "sha256": "dbb8854385bf14a95aa5493642aec31318715ba259ef95adcce37352eb4575b9",
+    "section": "## 8. Himari–Eimi: different dependencies, different directions"
+   },
+   {
+    "block": 52,
+    "raw_character_range_exclusive": [
+     21891,
+     22169
+    ],
+    "first_line": 125,
+    "bytes": 278,
+    "sha256": "fc90c8764eda4f77046130768dc66557f9bf87545668dd92b638ba18c9237387",
+    "section": "## 8. Himari–Eimi: different dependencies, different directions"
+   },
+   {
+    "block": 53,
+    "raw_character_range_exclusive": [
+     22171,
+     22645
+    ],
+    "first_line": 127,
+    "bytes": 474,
+    "sha256": "2e0eb9a01cd735b11fa83a7990c2d560c14b0909937ad129babd4f3f938bdd87",
+    "section": "## 8. Himari–Eimi: different dependencies, different directions"
+   },
+   {
+    "block": 54,
+    "raw_character_range_exclusive": [
+     22647,
+     23097
+    ],
+    "first_line": 129,
+    "bytes": 450,
+    "sha256": "298e0fea3496c07042b450bc4c0c31b539952399a72476d318d914dfc7283110",
+    "section": "## 8. Himari–Eimi: different dependencies, different directions"
+   },
+   {
+    "block": 55,
+    "raw_character_range_exclusive": [
+     23099,
+     23159
+    ],
+    "first_line": 131,
+    "bytes": 60,
+    "sha256": "0f8f750e2f4f0050fdbea068636160471fc6d0a7b317e90c8b0037bb9ef56e9b",
+    "section": "## 8. Himari–Eimi: different dependencies, different directions"
+   },
+   {
+    "block": 56,
+    "raw_character_range_exclusive": [
+     23161,
+     23445
+    ],
+    "first_line": 133,
+    "bytes": 284,
+    "sha256": "aa41e92e626897d70187a79ade5076f8af27aa8c75f3ff74401f00c397b0b664",
+    "section": "## 9. Ayumu: full named practical care and political dissent"
+   },
+   {
+    "block": 57,
+    "raw_character_range_exclusive": [
+     23447,
+     24047
+    ],
+    "first_line": 135,
+    "bytes": 600,
+    "sha256": "0262b9def804e9142b7fc1b2c5e5c4703fa927eed577216d7cb8af6e739cff62",
+    "section": "## 9. Ayumu: full named practical care and political dissent"
+   },
+   {
+    "block": 58,
+    "raw_character_range_exclusive": [
+     24049,
+     24356
+    ],
+    "first_line": 137,
+    "bytes": 307,
+    "sha256": "70c2a4a7a857670b8ffbedbe579d9a4e750721f00fd16a58677997c333f8847f",
+    "section": "## 9. Ayumu: full named practical care and political dissent"
+   },
+   {
+    "block": 59,
+    "raw_character_range_exclusive": [
+     24358,
+     24940
+    ],
+    "first_line": 139,
+    "bytes": 582,
+    "sha256": "f1f7fecacffdac213e4efe9640b25ce2016b857cf3522e977293a6618fc818eb",
+    "section": "## 9. Ayumu: full named practical care and political dissent"
+   },
+   {
+    "block": 60,
+    "raw_character_range_exclusive": [
+     24942,
+     25573
+    ],
+    "first_line": 141,
+    "bytes": 631,
+    "sha256": "94b76364914187bb1541def2e83b05e4a2f402f5e2b1783ccdc929dafdf7d972",
+    "section": "## 9. Ayumu: full named practical care and political dissent"
+   },
+   {
+    "block": 61,
+    "raw_character_range_exclusive": [
+     25575,
+     25631
+    ],
+    "first_line": 143,
+    "bytes": 56,
+    "sha256": "18d8c580d22bf317e20525dd31890395a36acda7e54943235b271a398aa7b08f",
+    "section": "## 9. Ayumu: full named practical care and political dissent"
+   },
+   {
+    "block": 62,
+    "raw_character_range_exclusive": [
+     25633,
+     25939
+    ],
+    "first_line": 145,
+    "bytes": 312,
+    "sha256": "8bcf68e6354bc5ba2b21265e089cc186923c99c8f2638e9eac219645f8c260dc",
+    "section": "## 10. Misuzu: institutional encounter with actor limits"
+   },
+   {
+    "block": 63,
+    "raw_character_range_exclusive": [
+     25941,
+     26467
+    ],
+    "first_line": 147,
+    "bytes": 542,
+    "sha256": "aa6d809a5abbad2270c9da0b72f6b515f91302730bd0ab2cf79f4c4945f0ef68",
+    "section": "## 10. Misuzu: institutional encounter with actor limits"
+   },
+   {
+    "block": 64,
+    "raw_character_range_exclusive": [
+     26469,
+     26844
+    ],
+    "first_line": 149,
+    "bytes": 375,
+    "sha256": "7eabee36e92d4b0637f2276b6b2581353ebc0b6e327dfb4d1b3263abd97c3981",
+    "section": "## 10. Misuzu: institutional encounter with actor limits"
+   },
+   {
+    "block": 65,
+    "raw_character_range_exclusive": [
+     26846,
+     27371
+    ],
+    "first_line": 151,
+    "bytes": 525,
+    "sha256": "8b6dfc53c133f254114f0f8bf83e11efc82b0adaa5fe0b3079f6512577ab143c",
+    "section": "## 10. Misuzu: institutional encounter with actor limits"
+   },
+   {
+    "block": 66,
+    "raw_character_range_exclusive": [
+     27373,
+     27969
+    ],
+    "first_line": 153,
+    "bytes": 622,
+    "sha256": "bfa3eab9281d185f6fecaaaa5484049dd73910e5cd4f1302a8589adcede86dfb",
+    "section": "## 10. Misuzu: institutional encounter with actor limits"
+   },
+   {
+    "block": 67,
+    "raw_character_range_exclusive": [
+     27971,
+     28047
+    ],
+    "first_line": 155,
+    "bytes": 76,
+    "sha256": "40b646770dee3150107f0d975f11455974d5725ccaa225375ff8d9212f7ae8ce",
+    "section": "## 10. Misuzu: institutional encounter with actor limits"
+   },
+   {
+    "block": 68,
+    "raw_character_range_exclusive": [
+     28049,
+     28258
+    ],
+    "first_line": 157,
+    "bytes": 225,
+    "sha256": "6f3df18330405df55f7eb06ae3f9115e63fa004558e871c9c5dc72a7eb0d4a51",
+    "section": "## 11. Computation Science leader: enjoyable expertise and changed intention"
+   },
+   {
+    "block": 69,
+    "raw_character_range_exclusive": [
+     28260,
+     28664
+    ],
+    "first_line": 159,
+    "bytes": 404,
+    "sha256": "d4a5fbcd7f392d71dbf7976df8f55f1b64359c9ca5b2652a706b9fdc8623a48c",
+    "section": "## 11. Computation Science leader: enjoyable expertise and changed intention"
+   },
+   {
+    "block": 70,
+    "raw_character_range_exclusive": [
+     28666,
+     29176
+    ],
+    "first_line": 161,
+    "bytes": 514,
+    "sha256": "ead3f8e9bdfe8ec0c0949314f79ae923dde84ae36c65c94a2f28d55471bf5516",
+    "section": "## 11. Computation Science leader: enjoyable expertise and changed intention"
+   },
+   {
+    "block": 71,
+    "raw_character_range_exclusive": [
+     29178,
+     29647
+    ],
+    "first_line": 163,
+    "bytes": 469,
+    "sha256": "ab70b6afa9a98aa2ced652e364c0dede6c7f2929567eebf7a139984b59974885",
+    "section": "## 11. Computation Science leader: enjoyable expertise and changed intention"
+   },
+   {
+    "block": 72,
+    "raw_character_range_exclusive": [
+     29649,
+     30309
+    ],
+    "first_line": 165,
+    "bytes": 678,
+    "sha256": "117035b0f186f421f707011c7bac5543685da878d5d4ebaa4bdfe577dcf62fd0",
+    "section": "## 11. Computation Science leader: enjoyable expertise and changed intention"
+   },
+   {
+    "block": 73,
+    "raw_character_range_exclusive": [
+     30311,
+     30384
+    ],
+    "first_line": 167,
+    "bytes": 73,
+    "sha256": "38b53dc577f61e3274e396a40956874e200b7d654a1156ef003436242d74a760",
+    "section": "## 11. Computation Science leader: enjoyable expertise and changed intention"
+   },
+   {
+    "block": 74,
+    "raw_character_range_exclusive": [
+     30386,
+     30790
+    ],
+    "first_line": 169,
+    "bytes": 406,
+    "sha256": "d1d1cc338dbe849b5265a58d60f886c7e829f2ad72db3f668232a7fbe13e664f",
+    "section": "## 12. Shiroko: one complete comparison, two acting people, separate dyad"
+   },
+   {
+    "block": 75,
+    "raw_character_range_exclusive": [
+     30792,
+     31432
+    ],
+    "first_line": 171,
+    "bytes": 640,
+    "sha256": "a7851b92badee71acacfe425942ac26ca09fc7783a25e9b912e061f59104b583",
+    "section": "## 12. Shiroko: one complete comparison, two acting people, separate dyad"
+   },
+   {
+    "block": 76,
+    "raw_character_range_exclusive": [
+     31434,
+     31895
+    ],
+    "first_line": 173,
+    "bytes": 461,
+    "sha256": "60c58704e9f3b1d801df0a7a41cc72a127971befad6ff560028e8f78fb24f812",
+    "section": "## 12. Shiroko: one complete comparison, two acting people, separate dyad"
+   },
+   {
+    "block": 77,
+    "raw_character_range_exclusive": [
+     31897,
+     32415
+    ],
+    "first_line": 175,
+    "bytes": 518,
+    "sha256": "58ee0f3c46bb8b0f0a3d6afde0bc0f457cf64421aafb35fe58d1a879598d297f",
+    "section": "## 12. Shiroko: one complete comparison, two acting people, separate dyad"
+   },
+   {
+    "block": 78,
+    "raw_character_range_exclusive": [
+     32417,
+     32946
+    ],
+    "first_line": 177,
+    "bytes": 529,
+    "sha256": "293d58617f88336a78e1840a3b9446c2516d3333941fb4f96339fad1f936c8f0",
+    "section": "## 12. Shiroko: one complete comparison, two acting people, separate dyad"
+   },
+   {
+    "block": 79,
+    "raw_character_range_exclusive": [
+     32948,
+     33525
+    ],
+    "first_line": 179,
+    "bytes": 591,
+    "sha256": "9470b37ad5fdecf45a6d0d321f18fab69a582d973d47352ecefdfb73c7cb668e",
+    "section": "## 12. Shiroko: one complete comparison, two acting people, separate dyad"
+   },
+   {
+    "block": 80,
+    "raw_character_range_exclusive": [
+     33527,
+     33573
+    ],
+    "first_line": 181,
+    "bytes": 46,
+    "sha256": "5df2e713e208db138a9f28a6c5bebe5c70a2ffcfe0c030e456076a9cd237ea8f",
+    "section": "## 12. Shiroko: one complete comparison, two acting people, separate dyad"
+   },
+   {
+    "block": 81,
+    "raw_character_range_exclusive": [
+     33575,
+     34131
+    ],
+    "first_line": 183,
+    "bytes": 557,
+    "sha256": "427ecb4432c7f7a338691e44cfcd79cb4fdf5789ecc5fe876bec811fe510d3e7",
+    "section": "## 13. Exact receiving, limits and ROOT action"
+   },
+   {
+    "block": 82,
+    "raw_character_range_exclusive": [
+     34133,
+     34617
+    ],
+    "first_line": 185,
+    "bytes": 484,
+    "sha256": "b1020fc234e6d20b13bccd0381e01ca4a77970affc26203f3914dda17ae8affd",
+    "section": "## 13. Exact receiving, limits and ROOT action"
+   },
+   {
+    "block": 83,
+    "raw_character_range_exclusive": [
+     34619,
+     35196
+    ],
+    "first_line": 187,
+    "bytes": 577,
+    "sha256": "d451b88d36bab60551ea2e929872cbd91bc4b86b356a96359235dd3404a4de58",
+    "section": "## 13. Exact receiving, limits and ROOT action"
+   },
+   {
+    "block": 84,
+    "raw_character_range_exclusive": [
+     35198,
+     35452
+    ],
+    "first_line": 189,
+    "bytes": 254,
+    "sha256": "5d27abdf8622b78f9aabff5122323db1cf42fbffc18bb459c4adb71271f5e6f8",
+    "section": "## 13. Exact receiving, limits and ROOT action"
+   }
+  ]
+ }
+}

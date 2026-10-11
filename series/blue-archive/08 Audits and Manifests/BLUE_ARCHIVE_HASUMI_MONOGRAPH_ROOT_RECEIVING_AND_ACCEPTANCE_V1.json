@@ -1,0 +1,158 @@
+{
+  "schema": "BLUE_ARCHIVE_ROOT_HASUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+  "status": "PASS_WITH_LIMITS",
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "candidate_sha256": "d7f5b1178d27c30a24104d6d5230ad5e418b2dae839e65c0ff6d53f1f5d79544",
+  "source_checks": [
+    {
+      "source_id": "C01",
+      "same_main": false,
+      "same_declared_snapshot": true,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+    },
+    {
+      "source_id": "C02",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+    },
+    {
+      "source_id": "C03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+    },
+    {
+      "source_id": "C04",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac"
+    },
+    {
+      "source_id": "M01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "1884c699f3b631cbb33e299a32bc7fcc93cf9802886a4f31dd35811e5e36af2f"
+    },
+    {
+      "source_id": "M02",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "97133f4cf5a2c78d8f7d41828edd036be217bf729a853c6eb3a44804be316379"
+    },
+    {
+      "source_id": "M03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9"
+    },
+    {
+      "source_id": "H01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "a21d34d7d07859c2b0ea9f9be7b75c2a0f63405e5ebb229e766e2e7e175ee360"
+    },
+    {
+      "source_id": "G01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93"
+    },
+    {
+      "source_id": "E18",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187"
+    },
+    {
+      "source_id": "E48",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "ced089d38e56d2247c67d861caba5401954f42b551fbcb125823f2ca0f76b19f"
+    },
+    {
+      "source_id": "G02",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43"
+    },
+    {
+      "source_id": "E03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "2e39c9ad794d9b38f9a3ea4b3b0b83031f7646a55fd689f11cc1a6fbdb4341b2"
+    },
+    {
+      "source_id": "E19",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "f985eff72b00b1532d668f6e60534a05351d4cb26dbfff17d187da3e501459e2"
+    },
+    {
+      "source_id": "F00",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf"
+    }
+  ],
+  "exact_saved_claim_paragraphs": 29,
+  "frozen_outputs_verified": 4,
+  "saved_receipt_sha256": "b68907f20991c8a8aef3be4fb53556923a96de91dce2ca6cf3f1055bd9973a85",
+  "prior_frozen_outputs_preserved": 34,
+  "root_actual_receiving": {
+    "body": [
+      "195de4 lines1–73",
+      "5e6b64 lines74–138EOF"
+    ],
+    "source_fields": "817dad all first8/f0c099 last7/e145ed controls",
+    "claims": "718ee2 HA01–10;bb288b HA11–20;4a1e29 HA21–29",
+    "saved_receipt": "426b50 all352linesEOF",
+    "additional_accepted_scope_receiving": [
+      "68f2df completeG01lines66–119 including actual1802tea",
+      "1f7c65 E19checkpoint107–123 includingL118/L120"
+    ],
+    "grounds": [
+      "Administrative care enables chosen student life while self-exclusion, prejudice and intimidation create distinct costs.",
+      "Wanted twilight, food, gifts, shared tasks, clothing, play, fireworks and tea remain intrinsic alongside recurrent uncertainty and unfulfilled own leave.",
+      "Notebook return, shared bottling, meals, fireworks and a proportionate Christmas party are finite actual endpoints; consultation, restitution, reform and next visits remain unfinished.",
+      "Tsurugi, Mashiro, Koharu, Ichika, Mine, juniors and guests retain independently motivated choices and recipient objections.",
+      "Audience, alternatives, unprinted private referents, reported symptoms, body permission and unreceived performance stay bounded."
+    ],
+    "required_derivative_corrections": [
+      "GROUP1801 tea references corrected to1802 inbody26/56 andHA10support",
+      "Checkpoint physicalL118/L120 separated from episode006/009 inbody108/110 andHA25/26support"
+    ]
+  },
+  "root_new_primary_or_performance_credit": 0,
+  "required_locator_errata": [
+    {
+      "file": "HASUMI_FROZEN_DELIVERY_GROUP_LOCATOR_ERRATUM_V1.md",
+      "bytes": 1656,
+      "sha256": "4b81795f5f5a20a35e48216e80626c77b9bb0386cc74636beb2b8ce82c44a192",
+      "root_receiving": "c2460d whole13lines andd55e9b whole14lines respectively; actual source confirmed68f2df/1f7c65"
+    },
+    {
+      "file": "HASUMI_FROZEN_DELIVERY_CHECKPOINT_LINE_LOCATOR_ERRATUM_V1.md",
+      "bytes": 1775,
+      "sha256": "d5221b1098b8cf874f324f262d5d47e03f9b82e7c8f7a87d15c19fd60355b289",
+      "root_receiving": "c2460d whole13lines andd55e9b whole14lines respectively; actual source confirmed68f2df/1f7c65"
+    }
+  ],
+  "canonical_adoption": "CANONICAL_SOURCE_BRANCH_DERIVATIVE",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "N_frozen": false,
+  "quarter_reached": false,
+  "main_integration": "NONE",
+  "canonical_derivative": {
+    "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+    "bytes": 39612,
+    "sha256": "473c300b5d050d518df619dccb005a96e9011e21f57c8f7c1b3c1f7a8c501029",
+    "frozen_author_bytes": 38318,
+    "frozen_author_sha256": "d7f5b1178d27c30a24104d6d5230ad5e418b2dae839e65c0ff6d53f1f5d79544"
+  },
+  "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+  "public_claim_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+  "historical_receiving_flags_retained": "N, publication and main state refer to the dated receiving event; current full-cast scope is separately indexed.",
+  "locator_errata_applied_to_canonical_derivative": true
+}

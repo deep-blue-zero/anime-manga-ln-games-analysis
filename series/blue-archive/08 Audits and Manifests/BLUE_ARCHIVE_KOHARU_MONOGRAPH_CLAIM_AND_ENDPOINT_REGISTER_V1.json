@@ -1,0 +1,446 @@
+{
+  "schema": "BLUE_ARCHIVE_PHASE3_KOHARU_CLAIM_AND_ENDPOINT_V1",
+  "status": "ROOT_COMPLETE_LITERARY_RECEIVING_ACCEPTED_WITH_LIMITS",
+  "claims": [
+    {
+      "claim_id": "KO01",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 43,
+      "joined_saved_paragraph": "The private study sequence has genuine local links. In10020:002 the messages insist on a student-to-teacher study inquiry. Koharu reports another borderline result and a reputation for the teacher's explanations; neither claim is a displayed score or comparative teaching trial. A shopping mall and the prospect of a quieter place meet a repertoire of scenarios attributed to books. She runs away without a lesson or an explanation of the book. The next route explicitly recalls that encounter: she says she spoke too strongly and intended to apologize. Her changed politeness and the adult's concern create a possible repair, but a silence and renewed inference about hidden purpose end in another disappearance. An intended apology is material reappraisal; it is not automatically a successfully delivered reconciliation. [K01:153–169; BA:bond:10020:002/003]",
+      "support": [
+        {
+          "source_id": "K01",
+          "accepted_argument_locator": "153–169;base002/003",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No completed first lesson or apology; branches not compounded.",
+      "directed_recipients_and_agency": "Koharu asks/tries repair; adult concern is separate.",
+      "actual_endpoint_and_unfinished_coda": "Flight and undisclosed book remain.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 29,
+      "frozen_author_joined_saved_paragraph": "The private study sequence has genuine local links. In10020:002 the messages insist on a student-to-teacher study inquiry. Koharu reports another borderline result and a reputation for the teacher's explanations; neither claim is a displayed score or comparative teaching trial. A shopping mall and the prospect of a quieter place meet a repertoire of scenarios attributed to books. She runs away without a lesson or an explanation of the book. The next route explicitly recalls that encounter: she says she spoke too strongly and intended to apologize. Her changed politeness and the adult's concern create a possible repair, but a silence and renewed inference about hidden purpose end in another disappearance. An intended apology is material reappraisal; it is not automatically a successfully delivered reconciliation. [K01:153–169; BA:bond:10020:002/003]"
+    },
+    {
+      "claim_id": "KO02",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 45,
+      "joined_saved_paragraph": "The reserved seat and notebook in 10020:005 make the next request practical. Monitoring language survives, but narration supplies calmer engagement, work on basics and unexpectedly smooth progress. Koharu completes the work and thanks the teacher. This local success matters against a fixed academic label. Its endpoint is nevertheless double: inquiry about another book produces an outburst, an overturned table and the adult narrator's unconsciousness. The whole message tail contains alternatives about secrecy or hiding the book more carefully, followed by hesitant assent. Neither a good lesson nor that assent disposes of privacy, harm or repair. The following gratitude-cookie route recalls study while represented intimidation, actual fear and preexisting fatigue produce another mixed ending. [K01:171–191; BA:bond:10020:005/006]",
+      "support": [
+        {
+          "source_id": "K01",
+          "accepted_argument_locator": "171–191;base005/006",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Local basics are not official grading; no book contents or clinical duration.",
+      "directed_recipients_and_agency": "Grateful learner and injured adult remain distinct.",
+      "actual_endpoint_and_unfinished_coda": "Actual progress/thanks, overturned table/unconsciousness, hesitant message tail.",
+      "applicable_open_gaps": [
+        "G01",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 31,
+      "frozen_author_joined_saved_paragraph": "The reserved seat and notebook in 10020:005 make the next request practical. Monitoring language survives, but narration supplies calmer engagement, work on basics and unexpectedly smooth progress. Koharu completes the work and thanks the teacher. This local success matters against a fixed academic label. Its endpoint is nevertheless double: inquiry about another book produces an outburst, an overturned table and the adult narrator's unconsciousness. The whole message tail contains alternatives about secrecy or hiding the book more carefully, followed by hesitant assent. Neither a good lesson nor that assent disposes of privacy, harm or repair. The following gratitude-cookie route recalls study while represented intimidation, actual fear and preexisting fatigue produce another mixed ending. [K01:171–191; BA:bond:10020:005/006]"
+    },
+    {
+      "claim_id": "KO03",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 57,
+      "joined_saved_paragraph": "The grade91 is particularly important because it alters a categorical public/private account without settling every causal question. The written profile's harsh global academic judgment cannot override the official result. Conversely, private tutoring cannot claim sole authorship of that result: Hifumi, Azusa, Hanako and Koharu work as peers, successive mocks differ and an official failure occurs through lost papers. Instruments, circumstances and care are not interchangeable. An accomplished pass is a positive endpoint; the imposed Remedial scheme and contested suspicion are still subjects for criticism. [K01:224–227; M01:exam/placement synthesis; M02:official lost-paper failure and third all-pass]",
+      "support": [
+        {
+          "source_id": "K01",
+          "accepted_argument_locator": "224–227/245–256",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "M01",
+          "accepted_argument_locator": "peer-study/placement",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "M02",
+          "accepted_argument_locator": "lost-paper official failure and third official all-pass",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No sole teacher causal trial or fixed intelligence diagnosis.",
+      "directed_recipients_and_agency": "Four peers and imposed institutional scheme retain agency/cost.",
+      "actual_endpoint_and_unfinished_coda": "Actual official91 survives later doubt.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 43,
+      "frozen_author_joined_saved_paragraph": "The grade91 is particularly important because it alters a categorical public/private account without settling every causal question. The written profile's harsh global academic judgment cannot override the official result. Conversely, private tutoring cannot claim sole authorship of that result: Hifumi, Azusa, Hanako and Koharu work as peers, successive mocks differ and an official failure occurs through lost papers. Instruments, circumstances and care are not interchangeable. An accomplished pass is a positive endpoint; the imposed Remedial scheme and contested suspicion are still subjects for criticism. [K01:224–227; M01:exam/placement synthesis; M02:official lost-paper failure and third all-pass]"
+    },
+    {
+      "claim_id": "KO04",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 59,
+      "joined_saved_paragraph": "At the Final gate, Koharu directly reports days of demonstrations. Azusa supplies the explicit refusal of mob hostility, Hifumi cautions her against attacking and Hanako interprets factions. The source's disputed Koharu/Azusa/Hanako labels around the subsequent teasing cannot be resolved by deciding what Koharu would probably say. The episode shows peers facing social hostility together, while a separate sweets-club dispute turns into an unresolved fight. Mika's actual hearing result has not already repaired reception, and none of this gives Koharu a total account of the crowd's motives. [L01:scene005:u0002–0044/0046–0127]",
+      "support": [
+        {
+          "source_id": "L01",
+          "accepted_argument_locator": "scene005:u0002–0044/0046–0127",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Do not repair swapped teasing labels or certify all protest motives.",
+      "directed_recipients_and_agency": "Direct Koharu duration report, Azusa refusal, Hifumi caution, sweets peers and protesters independent.",
+      "actual_endpoint_and_unfinished_coda": "Actual hearing not complete social repair; local fight unresolved.",
+      "applicable_open_gaps": [
+        "G06",
+        "G08",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 45,
+      "frozen_author_joined_saved_paragraph": "At the Final gate, Koharu directly reports days of demonstrations. Azusa supplies the explicit refusal of mob hostility, Hifumi cautions her against attacking and Hanako interprets factions. The source's disputed Koharu/Azusa/Hanako labels around the subsequent teasing cannot be resolved by deciding what Koharu would probably say. The episode shows peers facing social hostility together, while a separate sweets-club dispute turns into an unresolved fight. Mika's actual hearing result has not already repaired reception, and none of this gives Koharu a total account of the crowd's motives. [L01:scene005:u0002–0044/0046–0127]"
+    },
+    {
+      "claim_id": "KO05",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 69,
+      "joined_saved_paragraph": "The current school-facing endpoint is bounded but real. Arius students prepare daily, actually sit a test and celebrate. The source log says総合試験 while Atsuko calls the sitting a no-penalty模試, so formal status remains qualified. Mixed Arius result reports and provisional offices do not supply Koharu's new marks, an audited rebuilt school or her graduation. Actual continued practice is nevertheless a wanted future already being lived in part. The open institution cannot become a reason to throw out its students' present effort. [V03:E009–E010]",
+      "support": [
+        {
+          "source_id": "V03",
+          "accepted_argument_locator": "E009–E010;48–50",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Formal test status ambiguous; no Koharu new score, charter or graduation.",
+      "directed_recipients_and_agency": "Hanako tutoring, Arius students and provisional contributors retain own choices.",
+      "actual_endpoint_and_unfinished_coda": "Actual daily study, sat test and celebration; mixed results as reports.",
+      "applicable_open_gaps": [
+        "G05",
+        "G07",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 55,
+      "frozen_author_joined_saved_paragraph": "The current school-facing endpoint is bounded but real. Arius students prepare daily, actually sit a test and celebrate. The source log says総合試験 while Atsuko calls the sitting a no-penalty模試, so formal status remains qualified. Mixed Arius result reports and provisional offices do not supply Koharu's new marks, an audited rebuilt school or her graduation. Actual continued practice is nevertheless a wanted future already being lived in part. The open institution cannot become a reason to throw out its students' present effort. [V03:E009–E010]"
+    },
+    {
+      "claim_id": "KO06",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 73,
+      "joined_saved_paragraph": "Koharu's cookies are not a coded proxy for someone else's hobby. She says she bought them at the Momo Friends shop as thanks for study, and the offer has its own material and relational purpose. It does not establish that she shares Hifumi's whole mascot taste. Actual eating is not narrated; later adult sleep already has fatigue as its stated cause, so poisoning is not available as an explanation. The small gift makes reciprocity visible, while the absence of consumption is a legitimate endpoint rather than a defect to repair with imagination. [K01:182–191]",
+      "support": [
+        {
+          "source_id": "K01",
+          "accepted_argument_locator": "182–191;base006",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No invented cookie eating/poison or shared complete mascot hobby.",
+      "directed_recipients_and_agency": "Student chosen thanks; exhausted adult independently represented.",
+      "actual_endpoint_and_unfinished_coda": "Gift offered, actual fear/calming/adult sleep; message afterstate unanswered.",
+      "applicable_open_gaps": [
+        "G01",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 59,
+      "frozen_author_joined_saved_paragraph": "Koharu's cookies are not a coded proxy for someone else's hobby. She says she bought them at the Momo Friends shop as thanks for study, and the offer has its own material and relational purpose. It does not establish that she shares Hifumi's whole mascot taste. Actual eating is not narrated; later adult sleep already has fatigue as its stated cause, so poisoning is not available as an explanation. The small gift makes reciprocity visible, while the absence of consumption is a legitimate endpoint rather than a defect to repair with imagination. [K01:182–191]"
+    },
+    {
+      "claim_id": "KO07",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 75,
+      "joined_saved_paragraph": "The Valentine encounter makes an ordinary want still more explicit. Koharu requests the meeting, corrects an opening lateness accusation and gives a special present. She allows eating now, then responds to patterns and packaging she says she did not notice when buying. Ordinary eating and careful box handling become actual requests. The exact design is undescribed. She interprets the manner of eating and public display as deliberate embarrassment, while narration says the adult hardly understands and enjoys the chocolate through the endpoint. Her intended reaction, material care and unresolved discomfort all matter. A successful adult consumption is not a mutually understood gift, yet mismatch cannot erase the fact that she chose a special one. [L02:s1:u0001–0029; Japanese/Korean endpoint qualification]",
+      "support": [
+        {
+          "source_id": "L02",
+          "accepted_argument_locator": "s1:u0001–0029;67–71",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No unseen design, actual spectator judgment, certified intent or romance.",
+      "directed_recipients_and_agency": "Koharu special effort/manner/box requests; adult incomplete understanding.",
+      "actual_endpoint_and_unfinished_coda": "Actual adult enjoyment persists beside unresolved anger; locales qualified.",
+      "applicable_open_gaps": [
+        "G01",
+        "G09",
+        "G10",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 61,
+      "frozen_author_joined_saved_paragraph": "The Valentine encounter makes an ordinary want still more explicit. Koharu requests the meeting, corrects an opening lateness accusation and gives a special present. She allows eating now, then responds to patterns and packaging she says she did not notice when buying. Ordinary eating and careful box handling become actual requests. The exact design is undescribed. She interprets the manner of eating and public display as deliberate embarrassment, while narration says the adult hardly understands and enjoys the chocolate through the endpoint. Her intended reaction, material care and unresolved discomfort all matter. A successful adult consumption is not a mutually understood gift, yet mismatch cannot erase the fact that she chose a special one. [L02:s1:u0001–0029; Japanese/Korean endpoint qualification]"
+    },
+    {
+      "claim_id": "KO08",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 79,
+      "joined_saved_paragraph": "The night ending is funny and consequential at once. After the collision, the adult wakes at dawn while Koharu sleeps pleasantly and talks about tasty food in the apparent sleep/dream sequence. There is no actual buffet to add to her itinerary. The dreamed food is still positive comic characterization beside fear, beauty and wanted company. Likewise the island conclusion actually gathers the Remedial friends around a shared pool arrangement and gives Koharu a smile and thanks. It does not print a later swim, but the wanted gathering is already meaningful. Quiet, dreamlike and comic pleasures need no crisis payoff to enter the account. [K01:215–220; E01:015:u0169–0192, actor limits at0182–0184]",
+      "support": [
+        {
+          "source_id": "K01",
+          "accepted_argument_locator": "215–220;summer005",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E01",
+          "accepted_argument_locator": "015:u0169–0192;0182–0184 actor limits",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Dream food is not buffet; pool gathering is not later swimming.",
+      "directed_recipients_and_agency": "Koharu wants beauty/company; group thanks does not erase recipient objections.",
+      "actual_endpoint_and_unfinished_coda": "Collision/unconsciousness/dawn carrying; actual smiling pool thanks.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G10",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 65,
+      "frozen_author_joined_saved_paragraph": "The night ending is funny and consequential at once. After the collision, the adult wakes at dawn while Koharu sleeps pleasantly and talks about tasty food in the apparent sleep/dream sequence. There is no actual buffet to add to her itinerary. The dreamed food is still positive comic characterization beside fear, beauty and wanted company. Likewise the island conclusion actually gathers the Remedial friends around a shared pool arrangement and gives Koharu a smile and thanks. It does not print a later swim, but the wanted gathering is already meaningful. Quiet, dreamlike and comic pleasures need no crisis payoff to enter the account. [K01:215–220; E01:015:u0169–0192, actor limits at0182–0184]"
+    },
+    {
+      "claim_id": "KO09",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 85,
+      "joined_saved_paragraph": "The tide incident distinguishes felt fear from both invented danger and guaranteed safety. The return path has become water; Koharu accuses the adult of knowing or withholding the tide. That accusation does not establish deliberate stranding. Shallow narrated depth does not make her fear false. They actually reach sand, she distinguishes sea from pool and says she was unprepared and tired, then asks for more company. Waiting until she calms and a joint return complete a local response. They do not supply a procedure, measured tide knowledge or permanent confidence around water. [K01:202–211]",
+      "support": [
+        {
+          "source_id": "K01",
+          "accepted_argument_locator": "202–211;summer003",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No deliberate stranding, safety protocol or permanent confidence.",
+      "directed_recipients_and_agency": "Felt fear survives shallow depth; requested finite company.",
+      "actual_endpoint_and_unfinished_coda": "Actual sand return, calming, renewed energy and joint return; confidentiality future unknown.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 71,
+      "frozen_author_joined_saved_paragraph": "The tide incident distinguishes felt fear from both invented danger and guaranteed safety. The return path has become water; Koharu accuses the adult of knowing or withholding the tide. That accusation does not establish deliberate stranding. Shallow narrated depth does not make her fear false. They actually reach sand, she distinguishes sea from pool and says she was unprepared and tired, then asks for more company. Waiting until she calms and a joint return complete a local response. They do not supply a procedure, measured tide knowledge or permanent confidence around water. [K01:202–211]"
+    },
+    {
+      "claim_id": "KO10",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 95,
+      "joined_saved_paragraph": "These practices do not all reassure. The teacher has a represented option to feign being discovered and an explicit choice to frighten her as a lesson. He notices and asks about the private book, while the whole tail offers secrecy or better concealment. The source prints a head-pat under an inward label and supplies her reactions; that does not authorize rewriting the mode or generalizing consent. Treating all his puzzlement as innocence would ignore a deliberately frightened recipient and incomplete understanding at the gift. Treating every accusation as proof of predation would invent motives, acts and book contents that are absent. [K01:174–191; L02:s1:u0012–0029]",
+      "support": [
+        {
+          "source_id": "K01",
+          "accepted_argument_locator": "174–191;005/006",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "L02",
+          "accepted_argument_locator": "s1:u0012–0029",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Represented choices not fused; inward head-pat mode stays literal.",
+      "directed_recipients_and_agency": "Frightened student, private book, adult puzzlement and fatigue separately retained.",
+      "actual_endpoint_and_unfinished_coda": "Actual frightened recipient assisted; no blanket permission or repaired harm.",
+      "applicable_open_gaps": [
+        "G09",
+        "G10",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 81,
+      "frozen_author_joined_saved_paragraph": "These practices do not all reassure. The teacher has a represented option to feign being discovered and an explicit choice to frighten her as a lesson. He notices and asks about the private book, while the whole tail offers secrecy or better concealment. The source prints a head-pat under an inward label and supplies her reactions; that does not authorize rewriting the mode or generalizing consent. Treating all his puzzlement as innocence would ignore a deliberately frightened recipient and incomplete understanding at the gift. Treating every accusation as proof of predation would invent motives, acts and book contents that are absent. [K01:174–191; L02:s1:u0012–0029]"
+    },
+    {
+      "claim_id": "KO11",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 105,
+      "joined_saved_paragraph": "Mika receives two different kinds of care. Amid Pater militants' abuse Koharu protects her without a formal Justice return. In the later rescue she returns saved accessories; Mika's choir-room recollection includes Koharu and Sensei care among influences on her own choices. Those influences do not author Mika's mercy for her, nor do they settle school or legal responsibility. The Final hearing's removal of Tea Party privileges, temporary retained factional authority pending a successor, ended confinement and permitted academic return belong to Mika's institutional disposition. Social protest continues, and Koharu's report of its duration is one perspective on that aftermath. [M03:E016–E017; M04:E023/E026; L01:scene002/005]",
+      "support": [
+        {
+          "source_id": "M03",
+          "accepted_argument_locator": "E016–E017",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "M04",
+          "accepted_argument_locator": "E023/E026",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "L01",
+          "accepted_argument_locator": "scene002/005",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No formal Koharu reinstatement, teacher-exclusive mercy or universal repair.",
+      "directed_recipients_and_agency": "Koharu care; Mika independent mercy; multi-institution rescue and crowds.",
+      "actual_endpoint_and_unfinished_coda": "Accessories returned; real hearing powers/temporary faction/ended confinement/academic permission; protests continue.",
+      "applicable_open_gaps": [
+        "G05",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 91,
+      "frozen_author_joined_saved_paragraph": "Mika receives two different kinds of care. Amid Pater militants' abuse Koharu protects her without a formal Justice return. In the later rescue she returns saved accessories; Mika's choir-room recollection includes Koharu and Sensei care among influences on her own choices. Those influences do not author Mika's mercy for her, nor do they settle school or legal responsibility. The Final hearing's removal of Tea Party privileges, temporary retained factional authority pending a successor, ended confinement and permitted academic return belong to Mika's institutional disposition. Social protest continues, and Koharu's report of its duration is one perspective on that aftermath. [M03:E016–E017; M04:E023/E026; L01:scene002/005]"
+    },
+    {
+      "claim_id": "KO12",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 107,
+      "joined_saved_paragraph": "Hanako is neither wholly threatening nor merely the friend who knows what is best. She helps plan the public countercourse, joins defense of Azusa and later tutors Koharu's forgotten question. On the island she also approaches after objections, teases about carrying and laughs while Koharu is tired. Koharu's requests to stop and denials do not become consent because Hanako arranged a welcome pool gathering. The actual smiling thanks supports a beneficial particular act; retaining earlier contrary reception makes that benefit more precise. [M02:countercourse; M03:E021–E023; V03:E009; E01:003/005/013/015]",
+      "support": [
+        {
+          "source_id": "M02",
+          "accepted_argument_locator": "public countercourse",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "M03",
+          "accepted_argument_locator": "E021–E023",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "V03",
+          "accepted_argument_locator": "E009",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E01",
+          "accepted_argument_locator": "003/005/013/015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Welcome gathering is not retroactive consent to approach/teasing.",
+      "directed_recipients_and_agency": "Hanako useful tutoring and Koharu protests/help have different direction.",
+      "actual_endpoint_and_unfinished_coda": "Actual thanks beside earlier refusals/fatigue; no homogeneous friendship.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 93,
+      "frozen_author_joined_saved_paragraph": "Hanako is neither wholly threatening nor merely the friend who knows what is best. She helps plan the public countercourse, joins defense of Azusa and later tutors Koharu's forgotten question. On the island she also approaches after objections, teases about carrying and laughs while Koharu is tired. Koharu's requests to stop and denials do not become consent because Hanako arranged a welcome pool gathering. The actual smiling thanks supports a beneficial particular act; retaining earlier contrary reception makes that benefit more precise. [M02:countercourse; M03:E021–E023; V03:E009; E01:003/005/013/015]"
+    },
+    {
+      "claim_id": "KO13",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 117,
+      "joined_saved_paragraph": "Written profiles and event contexts widen the repertoire without becoming a diary. The base welcome, waiting, grade objection, graduation desire, remembered birthday pleasure and qualified holiday company coexist with prohibitions. The summer profile allows that vacation may not be bad while explicitly denying liking the conspicuous clothing. Its gratitude and more-sea wishes complicate a warning-only portrait. All27 costumeUI contexts have an empty profile and repeated effort/check-again/repeated-call clauses across828/10828/900828; triggered progress is not a completed objective or three newly witnessed plots. [K01:222–235]",
+      "support": [
+        {
+          "source_id": "K01",
+          "accepted_argument_locator": "222–235;complete three written objects",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Conditional UI/holidays not accomplished plots, costume choice or global calendar.",
+      "directed_recipients_and_agency": "Literal progress and calling objections both retained.",
+      "actual_endpoint_and_unfinished_coda": "Written gratitude/activity/holiday wishes; unfilled costume profile and actual scripts only.",
+      "applicable_open_gaps": [
+        "G07",
+        "G08",
+        "G09",
+        "G10",
+        "G12",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 103,
+      "frozen_author_joined_saved_paragraph": "Written profiles and event contexts widen the repertoire without becoming a diary. The base welcome, waiting, grade objection, graduation desire, remembered birthday pleasure and qualified holiday company coexist with prohibitions. The summer profile allows that vacation may not be bad while explicitly denying liking the conspicuous clothing. Its gratitude and more-sea wishes complicate a warning-only portrait. All27 costumeUI contexts have an empty profile and repeated effort/check-again/repeated-call clauses across828/10828/900828; triggered progress is not a completed objective or three newly witnessed plots. [K01:222–235]"
+    },
+    {
+      "claim_id": "KO14",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+      "saved_line": 129,
+      "joined_saved_paragraph": "Finally, adult-led trust or a fixed romantic reading can point to contact, carrying, gifts, worry and proximity. It cannot transform conditional company into blanket assent, holiday repertoires into accomplished dates, embarrassment into an unseen act or unknown gift patterns into a visual fact. Independent peer agency and represented adult intimidation limit a wholly benevolent cure story; local achieved care limits a wholly exploitative one. Koharu's wanted life is intelligible without resolving every feeling into one genre or certifying every method. [K01:182–220/267–283; L02; E01:003–015]",
+      "support": [
+        {
+          "source_id": "K01",
+          "accepted_argument_locator": "182–220/267–283",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "L02",
+          "accepted_argument_locator": "complete argument",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E01",
+          "accepted_argument_locator": "003–015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No fixed romance, performed exposure or teacher cure/total exploitation.",
+      "directed_recipients_and_agency": "Conditional company, independent peers and adult recipient costs.",
+      "actual_endpoint_and_unfinished_coda": "Local care, refusals, embarrassment and positive ordinary ends remain together.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G10",
+        "G12",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted argument or explicit bounded consequential argument personally received/reused; saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 115,
+      "frozen_author_joined_saved_paragraph": "Finally, adult-led trust or a fixed romantic reading can point to contact, carrying, gifts, worry and proximity. It cannot transform conditional company into blanket assent, holiday repertoires into accomplished dates, embarrassment into an unseen act or unknown gift patterns into a visual fact. Independent peer agency and represented adult intimidation limit a wholly benevolent cure story; local achieved care limits a wholly exploitative one. Koharu's wanted life is intelligible without resolving every feeling into one genre or certifying every method. [K01:182–220/267–283; L02; E01:003–015]"
+    }
+  ],
+  "eleven_headers": [
+    "## 1. Core thesis",
+    "## 2. Longitudinal arc",
+    "## 3. Public and private self",
+    "## 4. School and club role",
+    "## 5. Ordinary life",
+    "## 6. Crisis behavior",
+    "## 7. Relationship with Sensei",
+    "## 8. Major peer relationships",
+    "## 9. Language and written voice",
+    "## 10. Competing readings",
+    "## 11. Evidence route and remaining limits"
+  ],
+  "complete_saved_body_readback": "bc1f09 throughEOF132 plus ba02d2 final23/31/115",
+  "all14gaps": "OPEN",
+  "counts_not_completion_proof": true,
+  "original_primary_or_performed_or_independent_credit_added": 0,
+  "ROOT_literary_review": "COMPLETE_WITH_LIMITS",
+  "N_or_quarter_claimed": false,
+  "root_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json"
+}

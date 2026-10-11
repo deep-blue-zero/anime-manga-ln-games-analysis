@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V030, with V012-V013, V019, and V029 negative-evidence review."
+source_boundary: "Operational model based on Japanese manga witnesses RAG-JP-EPUB-V003-V040, with V012-V013, V019, and V029 negative-evidence review."
 ---
 
 # Ruka Sarashina reconstruction model
@@ -55,13 +55,14 @@ model_basis:
     - RAG-JP-EPUB-V028
     - RAG-JP-EPUB-V029
     - RAG-JP-EPUB-V030
-  admitted_through_volume: V030
+    - RAG-JP-EPUB-V040
+  admitted_through_volume: V040
   narrative_time_boundary: "after Ruka asks about Kazuya's post-quake move, receives a false family-home destination, and remains unaware of the Chizuru-house arrangement"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
   model_revision: "1.26"
   prior_knowledge_limitations:
-    - "No post-V030 narrative evidence is admitted."
+    - "No post-V040 narrative evidence is admitted."
     - "The manga establishes low pulse, symptoms, medication, and monitoring but no precise medical diagnosis."
     - "Kazuya refuses sex during the V008 overnight; Ruka's contrary V009 sexual claim is immediately denied."
 coverage:
@@ -1281,3 +1282,7 @@ V028 adds a discriminating ordinary-care observation after V027's high-conflict 
 V030 shows Ruka asking directly about Kazuya's new residence and expressing attachment, but he supplies a false family-home destination (RAG-E-V030-001). The model can describe her inquiry and continuing claim; it cannot predict her response to the actual shared house as if she knew it. The V029 nonappearance and this information asymmetry leave the separation and accountability gaps intact.
 
 The V010 local reconstruction audit retains `PARTIAL_MODEL` overall while recognizing conditional operational use in rivalry, access-pressure, and tactical-redirection scenarios. It assigns no global capability grade.
+
+## V040 local validation
+
+V040 supplies a later test of RUK-S025 under more material but still incomplete move information. Ruka sees Kazuya's new key, learns that he moves next week, assists with a fish keyholder, and remains affectionate. He does not tell her of Chizuru cohabitation or the imminent date. Her continued care therefore cannot be used to infer informed acceptance, a repaired trial, or how she would react to full disclosure. The shop collision is accidental bodily proximity, not negotiated intimacy (RAG-E-V040-002 through -004).

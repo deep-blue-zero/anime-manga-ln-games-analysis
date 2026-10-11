@@ -1,0 +1,289 @@
+{
+ "status": "ROOT_ACCEPTED_FULL_REQUIRED_SCOPE_SUCCESSOR_AND_EXACT_CANONICAL_DERIVATIVES_WITH_LIMITS",
+ "required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+ "N": 355,
+ "required_named_sections": 29,
+ "historical_V2_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V2.json",
+ "original_V2_receiving_record": {
+  "status": "PASS_EXACT_INPUTS_AND_COMPLETE_SEMANTIC_ADJUDICATION_WITH_LIMITS",
+  "base": "1dc2092095ed74ee743971f1f274b30cb291d939",
+  "main": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+  "prior_complete_partition_receiving": {
+   "status": "PASS_EXACT_PRESERVATION_WITH_SEMANTIC_ADJUDICATION_IN_PROGRESS",
+   "frozen_delivery_files_verified": 16,
+   "exact_input_bindings_verified": 19,
+   "original_source_disposition_rows_verified": 221,
+   "typed_F_union": 148,
+   "counted_proposal_homes": 382,
+   "proposed_standalone_packages": 350,
+   "required_section_proposals": 23,
+   "review_holds_pending": 9,
+   "owner_bounds_verified": 105,
+   "literal_source_union_verified": 1107,
+   "role_fields_preserved_exactly": 3,
+   "receiving_declarations_preserved_exactly": 128,
+   "current_argument_files_exact_to_c1_and_main": 19,
+   "root_actual_receiving": {
+    "whole_prose": "4fe88b L1–85;17bbfd L86–155;ee1db8 L156–224EOF",
+    "all382_allocation_rows": "c7a856;7d3618;57dfe9;73cd2e;18a7ff plus299–301 fullclip recoverybc0c31;f64726;82c15f;3d8c40",
+    "all105_packet_allocations": "6ee987 0–34;b1a9b5 35–69;e958bb70–104; literal arrays reuse prior exact matrix scope rather than fresh human reading",
+    "alias_sections": "d95e95",
+    "original_literary_decisions": "Reuse earlier whole ROOT received census arguments at exact preserved scopes; no false fresh full reread",
+    "new19_argument_custody": "581014/824b9e fulldeclared custody fields; actualwhole author reading attributed and exact bytes verified"
+   },
+   "N_frozen": false,
+   "literary_completion_credit_added": 0,
+   "quarter_reached": false,
+   "canonical_adoption": "PENDING_ADJUDICATION_AND_PUBLIC_DERIVATIVE",
+   "source_or_performance_credit_added": 0,
+   "gaps": "ALL14_OPEN_UNCHANGED",
+   "R_or_git_writes": false
+  },
+  "supplement_outputs_exact_verified": [
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_ADJUDICATION_HISTORY_V1/NINE_HOLDS_AND_SHIROKO_CONCRETE_ADJUDICATION_ARGUMENT_V1.md",
+    "bytes": 35581,
+    "sha256": "1676db3fed4fce27dea8dc345393262673847893c429a4a4a4297a5e773a7fbc",
+    "git_blob_sha1": "ae359711b965332185d5a388bc020c22a654b255"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_ADJUDICATION_HISTORY_V1/TEN_CONCRETE_HOME_DECISIONS_V1.json",
+    "bytes": 35199,
+    "sha256": "b108daf580f89833d16e32ece19b88397b9145c525c50ebbafdeee59958ba054",
+    "git_blob_sha1": "1e1b94b5bbd356ab4a23500cdf20f4f24a7dcb36"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_ADJUDICATION_HISTORY_V1/EXACT_INPUTS_AND_ACTUAL_RECEIVING_SCOPE_V1.json",
+    "bytes": 17133,
+    "sha256": "b117cab97a915a67e7a5b20251a4308120879b33aaac1dfb3b60383d231b26c3",
+    "git_blob_sha1": "3cd2aad0b003c4ecda34337013a49a5b17d21694"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_ADJUDICATION_HISTORY_V1/SAVED_ARGUMENT_SECTION_AND_PARAGRAPH_INDEX_V1.json",
+    "bytes": 26960,
+    "sha256": "3110cde3492cdbbbf4d67c33288396668d8aaf5d266897cec4170b7d62d9e75c",
+    "git_blob_sha1": "668a1198e442db5d648e1326979cdce7202de92a"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_ADJUDICATION_HISTORY_V1/COMPLETE_DELIVERY_RECEIPT.md",
+    "bytes": 2438,
+    "sha256": "df2f9350b2163c43b3f45f06a11733e39156f2bf791f596d6ebd90df8302edbd",
+    "git_blob_sha1": "1f48d920cd2f9f83fe9186617de65c698ce7b055"
+   },
+   {
+    "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_NINE_HOLDS_ADJUDICATION_V1\\EXACT_OUTPUT_MANIFEST.json",
+    "bytes": 2226,
+    "sha256": "c732bf32f33cfb835c148374ba6f68421126ae5aa5ae727aeb0f98f898e448b2",
+    "git_blob_sha1": "0ef7a18c342e47505b892417b4fcf02bf73bf456"
+   },
+   {
+    "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_NINE_HOLDS_ADJUDICATION_V1\\COMPLETE_DELIVERY_RECEIPT.json",
+    "bytes": 3310,
+    "sha256": "b6fe715a79cbe1b6ddccc7cb90eaca2b9038dc948adc5269acf1fb04ffa66190"
+   }
+  ],
+  "supplement_exact_analytical_inputs": 19,
+  "supplement_exact_targeted_primary_witnesses": 3,
+  "current_arguments_equal_to_main_and_c1": [
+   "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIMARI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+   "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_EIMI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+   "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+   "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+   "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+   "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+   "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+   "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+   "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_856/BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+   "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+   "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_849/BLUE_ARCHIVE_EVENT_849_CONTEXTUALIZATION_CHECKPOINT.md",
+   "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_862/BLUE_ARCHIVE_EVENT_862_CONTEXTUALIZATION_CHECKPOINT.md"
+  ],
+  "saved_supplement_blocks_exact": 84,
+  "ROOT_actual_receiving": {
+   "supplement_whole_saved_body": "Prior5fc877 L1–120;5e1dba L121–189EOF",
+   "all10_complete_decision_fields": "8b6df4 rows0–2;5a6858 rows3–5;076f70 rows6–9",
+   "all19_plus3_scopes": "5ae210;766393;00b9c8;5f08e6 exact tuple schema",
+   "receipt_manifest_controls": "1fc850;4f6f03;08dcb0;e00629;index mechanical joining separate",
+   "Hyakka_duplicate": "e3a22d;eb7860;author concordance message; complete original HYS meaning reuse at previously declared scope"
+  },
+  "semantic_decision": "ACCEPT_FULL_REQUIRED_SCOPE_WITH_LIMITS",
+  "ten_operations_accepted": 10,
+  "duplicate_question_absorptions": 1,
+  "N_frozen": true,
+  "N": 353,
+  "kind_counts": {
+   "CHARACTER": 205,
+   "SENSEI": 1,
+   "REGISTER": 4,
+   "DIRECTED_RELATIONSHIP": 73,
+   "INSTITUTION": 54,
+   "ENSEMBLE": 16
+  },
+  "required_named_sections": 26,
+  "milestones": {
+   "25": 89,
+   "50": 177,
+   "75": 265,
+   "100": 353
+  },
+  "all_original_source_responsibilities_retained": true,
+  "new_primary_or_performance_credit": 0,
+  "new_completed_literary_packages": 0,
+  "quarter_reached": false,
+  "canonical_adoption": "PUBLIC_DERIVATIVE_PENDING_ROOT_INSTALLATION",
+  "R_Git_writes": false,
+  "nine_unbound_large_files_opened_or_hashed": false,
+  "all14gaps": "OPEN"
+ },
+ "ROOT_five_legacy_scope_receiving_record": {
+  "status": "ROOT_ACCEPTED_FIVE_LEGACY_DUTIES_FOR_REQUIRED_SCOPE_SUCCESSOR_WITH_LIMITS",
+  "historical353_witness_immutable": {
+   "file": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V2.json",
+   "sha256": "0321499803aa4c9f19c5cd8a70fd92558e83636c400dc36afb3015262ad98fe0"
+  },
+  "proposal": {
+   "file": "immutable-local-custody://PHASE3_START_20261009/ROOT_FULL_SCOPE_CANONICAL_ADOPTION_PREPARATION_V1\\FIVE_EXISTING_TRACKER_QUESTIONS_CONCRETE_SCOPE_PROPOSAL_V2.json",
+   "bytes": 107847,
+   "sha256": "6377aa3ca5ba1941204b762557742cb6af25a028ccce8aa91be405bec21888ab"
+  },
+  "ROOT_actual_receiving": {
+   "complete_original_five_duty_argument": "9f1af0: entire original Millennium V2 sections 4–5 received once, same complete original text retained in every row",
+   "all_five_scope_recommendations": "833c6d: all rationale/alternative/parent/direction/receiving duty fields received",
+   "three_complete_character_peer_arguments": "e3cce1: complete Karin/Asuna/Toki section 8 texts received, exact original sections verified"
+  },
+  "exact_section_bindings": [
+   {
+    "file": "immutable-local-custody://PHASE3_START_20261009/KARIN\\BLUE_ARCHIVE_KARIN_CHARACTER_MONOGRAPH.md",
+    "bytes": 54948,
+    "sha256": "646021c4bc119f7b8fa6c84a3f5da4763d26980ecfa6f8db0e23b5b9dcb735bc",
+    "actual_ROOT_scope": "Complete section 8, not fresh whole monograph or primary receiving"
+   },
+   {
+    "file": "immutable-local-custody://PHASE3_START_20261009/adopted_monographs\\BLUE_ARCHIVE_ASUNA_CHARACTER_MONOGRAPH.md",
+    "bytes": 56308,
+    "sha256": "31b5bc0dd8b2a81be6acc3348539a74c5b646e03039d43dca298a4e60e0ab009",
+    "actual_ROOT_scope": "Complete section 8, not fresh whole monograph or primary receiving"
+   },
+   {
+    "file": "immutable-local-custody://PHASE3_START_20261009/adopted_monographs\\BLUE_ARCHIVE_TOKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 54085,
+    "sha256": "c1124f22a44733a8f6aa792c5ffad22998def041e6c7fe4b96bd327bc3877523",
+    "actual_ROOT_scope": "Complete section 8, not fresh whole monograph or primary receiving"
+   }
+  ],
+  "decisions": [
+   {
+    "original_key": "P3-QUESTION-CC",
+    "decision": "ACCEPT_REQUIRED_DISTINCT_PACKAGE",
+    "required_home": "P3-ENSEMBLE-CC-DIFFERENTIATED-COMPANY-CONTESTED-BELONGING",
+    "package_delta": 1,
+    "literary_rationale": "The existing C&C institution asks what commitments a unit/member may make under informed, answerable conditions. The ensemble’s actual explanatory mechanism is different: mixed welcome, correction and reciprocal practical support make wanted shared life possible without common emotional or consent endpoints. Karin’s complete§8 shows comfort/collective action at Neru injury, celebration, meaningful peer interruption of interrogation, and adversarial→possible collective inclusion→Final assistance to Toki without an invented Karin–Toki reconciliation. Asuna’s complete accepted§8 distinguishes her readiness to welcome Toki from Neru’s objection, Akane’s fallible procedure, Karin confidentiality, and later distributed rescue. Toki§8 differentiates Neru’s injury/grudging opening/apology, Asuna welcome/style pleasure, Akane ordinary escort work and Karin’s team critique; senior-costume imitation is desired company, not uniform approval. These are actual different recipients and ordinary valued company, not merely mandate, staffing, delegated agreement or revenue. A school-labor institution can link them but cannot certify that distinct ensemble explanation by covering governance alone.",
+    "serious_alternative_received": "A fully written institutional package could include a substantial complete ensemble direction without loss. That would require an explicit amended common question and independently locatable full ensemble section, not an alias justified because both use C&C. The current institution rationale primarily fixes report/acknowledgment/delegation and informed commitment; it does not presently state this distinct reception/belonging responsibility. Prefer a required standalone ensemble with +1 proposed package; ROOT may choose explicit complete common-home amendment after full argument review.",
+    "mandatory_receiving_duty": "Whole C&C group/event/Main/Final arguments at admitted current scopes, all five ordinary/private directions and endings, including disputed party welcome, rescue/escort, imitation and chosen company; preserve each acting person, refusal, actor/report/choice seam and all14limits. A character paragraph supplies support but not completed ensemble synthesis.",
+    "completed": false
+   },
+   {
+    "original_key": "P3-XMI-R006",
+    "decision": "ACCEPT_REQUIRED_COMPLETE_NAMED_DIRECTED_SECTION",
+    "required_home": "P3-INST-GDD-PLAY-AUTHORSHIP-RECOGNITION",
+    "package_delta": 0,
+    "literary_rationale": "Whole private006 chosen QA, desired makers work, expansion of scope and criticism of promised compulsory overwork answer I006’s actual shared-place/distributed-making/capacity question. Kei→makers request/critique and club→Kei expectations must stay separately shown; liking a game is not agreement to every task. Alice→Key/Kei personhood relationship has different actors and explanatory duty.",
+    "serious_alternative_received": "Standalone directed Kei↔GDD can be justified by sustained distinct reciprocal reception across complete further contexts; current complete projected006 and I006 argument most directly converge on collaborative workload, so named full directions inside GDD are preferred, subject to ROOT.",
+    "mandatory_receiving_duty": "Personally receive full Kei006 and necessary GDD/private/Main/Final/854 endings at current adequate owner scope; no completed game, privacy or authenticated identity inferred.",
+    "completed": false
+   },
+   {
+    "original_key": "P3-XMI-R007",
+    "decision": "ACCEPT_REQUIRED_COMPLETE_NAMED_DIRECTED_SECTION",
+    "required_home": "P3-INST-CC-STUDENT-OPERATIVE-LABOR",
+    "package_delta": 0,
+    "literary_rationale": "Full G120 fiscal/municipal work, reported internal delegation and acknowledged café commitment, revenue/appearance proposal and Neru refusal are the institution’s informed/answerable commitment mechanism. Yuuka’s resource argument and C&C recipients different wanted work are preserved as actual directions; there is no displayed signature instrument or legal enforceability. Seminar capacity links to its separate home.",
+    "serious_alternative_received": "A separate relationship would need distinct recurring recipient evolution beyond the same G120 role/occupation transaction; current whole account itself locates R007 integrally in I004. Prefer named comparative duty rather than duplicating institution premise.",
+    "mandatory_receiving_duty": "Complete G1201–3 with authority/report/acknowledgment/actor seams, Yuuka and relevant C&C full arguments; no audited finances, permanent employment conversion or lawful authority assumed.",
+    "completed": false
+   },
+   {
+    "original_key": "P3-XMI-R008",
+    "decision": "ACCEPT_REQUIRED_COMPLETE_NAMED_DIRECTED_SECTION",
+    "required_home": "P3-INST-CC-STUDENT-OPERATIVE-LABOR",
+    "package_delta": 0,
+    "literary_rationale": "Akane’s appearance/service initiative meets Neru’s actual limited hair agreement and jacket refusal. This supplies a directed recipient boundary within the same student/operative chosen-occupation institution question; other members’ clothing enjoyment cannot decide Neru’s assent. Retain Akane’s own pleasure/agency and Neru’s practical choice.",
+    "serious_alternative_received": "An independent encounter-bounded dyad is possible, including honestly absent dimensions; the available full account gives a local negotiation without an independently connected subsequent relational course. Prefer complete named direction, never exclusion due to low stakes or few scenes.",
+    "mandatory_receiving_duty": "Whole G1202/3 and relevant Akane/Neru ordinary/private arguments, exact alternatives and coda; preserve limited agreement without blanket bodily/occupation consent.",
+    "completed": false
+   },
+   {
+    "original_key": "P3-XMI-I008",
+    "decision": "ACCEPT_REQUIRED_DISTINCT_PACKAGE",
+    "required_home": "P3-INST-ART-ACCESS-OWNERSHIP-EXCLUSIVE-GATEKEEPING",
+    "package_delta": 1,
+    "literary_rationale": "E825’s art-access principle versus exclusive management, disclosure/betrayal/continued taking and endangered commissioned labor asks who can claim access, decide participation and control an aesthetic object or audience. E850’s accepted art-commerce question instead explains unchosen club headship, labor, manufacture, clients and money with actual literary taste and failed profit. Shared art vocabulary or a source-scoped Akira/Milia comparison does not itself establish one institutional mechanism. Preserve the E825 question as distinct access/gatekeeping responsibility, with E850/other positively adequate art owners comparative evidence and explicit no title/legal/whole-market guarantee. This adds analytical responsibility, not a person join.",
+    "serious_alternative_received": "A larger explicitly comparative art institution could sustain both access/gatekeeping and headship/labor as complete separate directions, but it would require revising the accepted common home’s question and exact source duties. Current E850-only rationale is not sufficient to pronounce E825 absorbed. Prefer distinct scope amendment +1; ROOT retains final decision after current complete accepted owner review.",
+    "mandatory_receiving_duty": "Receive whole current E825 and850 argument including all endings, local Akira/Milia narrative bounds and Doda roles; any stronger property title, redistribution or market-reform claim needs its actual evidence.",
+    "completed": false
+   }
+  ],
+  "required_successor_counts": {
+   "N": 355,
+   "required_named_sections": 29,
+   "by_kind": {
+    "CHARACTER": 205,
+    "RELATIONSHIP": 73,
+    "ENSEMBLE": 17,
+    "INSTITUTION": 55,
+    "SENSEI": 1,
+    "REGISTER": 4
+   },
+   "milestone_thresholds": {
+    "25%": 89,
+    "50%": 178,
+    "75%": 267,
+    "100%": 355
+   }
+  },
+  "limitations": [
+   "These allocations require full literary writing and independent ROOT receiving; no literary completion credit is added.",
+   "Three directed questions stay independently locatable complete mandatory sections; shared institution vocabulary or a paragraph cannot discharge them.",
+   "Art access and differentiated company are distinct analytical mechanisms; ordinary pleasure, local refusals, recipient differences and adverse endings remain mandatory.",
+   "No legal property title, instrument validity, medical or technical assurance, synchronized chronology, raw recovery, performance or model credit.",
+   "All 14 claim-specific evidence gaps stay OPEN.",
+   "Successor exact home file and public derivatives remain pending ROOT whole control/diff receiving and exact acceptance."
+  ],
+  "repository_writes": 0,
+  "merges": 0
+ },
+ "canonical_derivative_owner": "ROOT; complete current control/diff/projection receiving and exact adoption completed; installation/publication/integration remain separately tracked",
+ "completion_credit_added_by_scope": 0,
+ "primary_or_performance_credit_added": 0,
+ "all14_gaps": "OPEN; claim specific",
+ "quarter_reached": false,
+ "ROOT_current_exact_adoption_review": {
+  "decision": "ROOT_ACCEPT_COMPLETE_REQUIRED_SCOPE_AND_EXACT_PUBLIC_DERIVATIVES_WITH_LIMITS",
+  "scope": "355 required packages and29 mandatory substantial named sections; thresholds89/178/267/355",
+  "fixed_publication_count_after_install": 21,
+  "later_local_acceptances_excluded_from_batch": true,
+  "structural_receiving": "8d02de all113 exact public candidates; all379 historicalV2 home objects entirely unchanged; five scope additions independently inspected; all68 original tuples and113 candidate tuples verified; all788 identities/source/evidence fields retained; all60 original tracker rows and105 source-owner rows preserved",
+  "whole_control_diff_receiving": [
+   "9ab400 complete89-line scope/readiness diff",
+   "53b240 complete56-line semantic audit diff",
+   "af9e84 complete31-line current-map diff",
+   "1dba74 complete72-line execution/milestones diff",
+   "04aac4 complete234-line metadata diff, qualified by84342a complete narrowV2 correction",
+   "dee2ef whole final9,555-byte delivery/receiving guide",
+   "c6b753 complete preservation control values",
+   "cdde29 complete58-line originalR guard",
+   "c55a17 all5 accepted legacy operations",
+   "2f432c all18 reference-translation operations",
+   "0c7741 prior complete ROOTeight derivative review, exact36targets, claimed paragraph/source corrections verified"
+  ],
+  "semantic_scope_receiving": "Historical353/26 accepted whole source-bound scope and ten operations remain exact. ROOTfive-duty receipt33b40266777425a2d07acdeb1a813faea56e206c4af1ae33150b25968a856b50 binds whole original Millennium§4–5, complete Asuna/Karin/Toki§8, five rationales/rivals/duties and actual directed allocation.8d02de completes operative new-home field receiving without replaying repeated source copies. Earlier complete author/ROOT custody is retained at actual scopes.",
+  "CSV_review_boundary": "Complete R-to-final diffs are mechanically reconstructed exactly, all row transformations independently checked. No manual whole1.15MiB CSV prose reading or fresh complete788-source narrative receiving is asserted.460 home/navigation correspondences retain original adequate whole decisions;328 individually preserved dated metadata boundaries retain positive revisit triggers, without person joins, evidence exclusion or forced generic-register assignments.",
+  "translation_boundary": "Original frozen and public derivative tuples remain distinct. The18 translation-operation pairs describe intermediate pre-authority-framing stages; final manifest tuples govern final public derivatives. Symbolic private witness tail separators are unserved provenance, with exact recovery mappings.",
+  "new_primary_performance_model_or_scope_completion_credit": 0,
+  "all14_gaps": "OPEN_CLAIM_SPECIFIC",
+  "quarter_reached": false,
+  "main_integration": "NONE",
+  "source_publication": "PENDING_SEPARATE_EXACT_AUDIT_CHAIN",
+  "ROOT_is_sole_repository_adopter": true
+ }
+}

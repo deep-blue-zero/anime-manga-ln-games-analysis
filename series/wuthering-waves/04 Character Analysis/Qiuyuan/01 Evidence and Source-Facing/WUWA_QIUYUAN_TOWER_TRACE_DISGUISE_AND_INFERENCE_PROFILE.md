@@ -1,0 +1,43 @@
+---
+series: WUWA
+character: Qiuyuan
+artifact_type: source_scene_specialist
+analytical_responsibility: "Separate sensory traces, provisional identity judgments, voiced hostility and the later disguised-visitor recognition without inventing a continuous executed route"
+scope: QIUYUAN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
+analysis_generation: QIUYUAN_PRE_AV_V0_1
+status: draft_noncurrent
+release_state: author_working_draft_pending_owner_review
+source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
+source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
+source_generation_frozen: true
+source_freeze_metadata: conflicting_collection_and_embedded_lock_fields
+text_authority: zh-Hans
+localization_witnesses: [en, ja, ko]
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: true
+---
+
+# Qiuyuan — a trail is not a verdict
+
+The selected tower material gives Qiuyuan something more useful than a generalized “Mindsight reveals truth” ability: a series of differently warranted clues. Ten short source actions, `flow#/9917/2` through `9926/1`, contain 21 accepted, named/source-voiced Qiuyuan turns (technical speaker 1563). They join 85 distinct PCM-valid four-dub render objects, not the mechanically expected 84: `HRT_Rinascita_Interludes_3_1` has two Japanese runtime render variants with distinct PCM identities. This subset is already inside the packet's 255 selected semantic lines and 1,018 distinct measured objects; it is not a new bulk extraction. Per-render numeric Wwise event/media IDs are absent for these story lines, so the deterministic chain stops at exact semantic occurrence, client virtual WEM identity and hashes, decoded PCM and FLAC. No human listening or runtime camera/route review is recorded [QIU-E34].
+
+The evidence order is a *source-state map*, not a recording of one player's path. State keys step from `下半_3_1` through `3_6` and from `4_1` through `4_4`. Some states have `PlotHandBook#/58` pointers, but the retained pointer list puts `4_5` at 35 and `4_4` at 36, and does not give every intermediate state a separate exact pointer. That nonmonotonicity is enough to prevent treating state numbers, row indices or handbook entries as a certified executed chronology. A scene capture or a full transition graph would be needed to establish which short utterances play in a particular traversal and at what time [QIU-E34–E35].
+
+## What each clue licenses
+
+At `9917/2` he infers Rover is somewhere nearby from a sensed presence and notices a second, strange one. The Chinese anchor presents Rover's location as an inference from `气息`; Japanese retains an “ought to be here” quality, whereas English says more categorically “is here.” None describes a visually observed Rover at that instant, and the *other* presence is not yet identified. At `9918/1` he reports Dark Tide encroachment. At `9919/1` he tentatively attributes a residual trace to the Maiden; at `9920/1` he associates a wind phenomenon with her and notices another passage marked by black-flame murderous intent. The English wind line is more categorical (“must be”); JA poses the attribution as a question and KO says it appears so. None of these traces proves that the Maiden is physically present, that she designed every nearby barrier, or that the dark-flame passerby is already an identified individual [QIU-E34, C32].
+
+The next observations mix senses and action. At `9921/1` he disparages hostile creatures and refuses their obstruction; at `9922/2` a firearm sound leads him to infer someone arrived earlier. Hearing a shot is not proof of who fired, whom it hit, or whether an ally was already safe. At `9923/1` an undersea facility shocks his moral sense as desecration, and `9924/3` gives the creatures a severe threat. These lines can support a terse, contemptuous *combat* register without turning his contempt toward casualties or into a permanent appetite for cruelty. The same packet has his documented civilian evacuation and patient care. The task is to keep the target and immediate threat attached to each register [QIU-E07, E19, E34; C07, C33].
+
+At `9925/1` he says the signs make it look as though Fenrico still controls the facility; this is his working attribution, not an independently measured control-state audit. `9926/1` identifies the Fractsidus *group* ahead. ZH gives a bare group name, while JA and KO retain a questioning particle. The separate `9927/2` encounter adds an individual: Qiuyuan hears a disguised interlocutor, says that the disguise cannot defeat his recognition of the person's presence, and connects the exchange to Liang Dongyuan's murder. The adversary's claim that appearance is only a shell is part of the adversary's argument, not a neutral ontology of every disguise. Qiuyuan's local recognition is a positive source fact; it should neither be backdated to his first strange-presence remark nor inflated into infallible identification of all people in all settings [QIU-E08, E23, E34–E35; C20, C32].
+
+The encounter also tests whether recognition means unquestioned knowledge. Qiuyuan accuses the masquerader of killing an Acolyte. The speaker replies that the Acolyte is alive and helping the wounded elsewhere. This is an adversary's rebuttal, not independent proof that the Acolyte lived; Qiuyuan's accusation is likewise not proof of a death. Qiuyuan then infers that the speaker has eyes and ears inside Mingting from knowledge of a confidential assignment. That inference may be well founded without identifying every informant. A behavior model should let him ask, accuse, revise or seek confirmation rather than treat sensed identity as omniscience about everything the person has done [QIU-E08, E35; C32].
+
+There is, however, **positive evidence for an earlier rescue**. In `9913/4/6`, the Acolyte gives his name as Leon. After the danger, Qiuyuan tells him to get to safety at `9916/3/1`; Leon tells Carlotta at T6 that he might have died without the Huanglong man's help, and all four localized text witnesses agree on the life-saving intervention. The quest-tree node `212000` (quest `175000000`, `questtreenode.json#/26`) retrospectively says Qiuyuan rescued an Acolyte in Ragunna before obtaining the Fenrico relic. That summary aligns with the early Leon scene; it does **not** assert that Leon remains alive after the separate `9927/2` impersonation encounter. Thus “rescued Leon earlier” and “post-impersonation fate unverified” are compatible statements. The summary's past-tense rescue should neither be erased because Qiuyuan later fears murder nor stretched into an independent post-encounter sighting. The [matrix](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md) records the temporal claim and its revision test [QIU-E38/C36].
+
+## A different kind of sharpness
+
+The tower sequence sharpens the earlier Geshu lesson. Qiuyuan's investigation of a false charge was not a special trick by which he always knew the truth; it was a willingness to test an accusation against records. Here he moves from presence to trace to hypothesis to a local confrontation, and his words vary in confidence. The residual Maiden attribution is tentative, the Fenrico-control reading is provisional, the Fractsidus group identification is terse, and the disguised speaker's identity becomes firmer during the exchange. That is an epistemic *progression*, not a cinematic reveal already encoded in the first clue. It also constrains crossover writing: if he senses a stranger's unusual aura at a party, he may notice and ask; the source does not grant permission to announce their secrets, diagnose moral character or treat suspicion as guilt [QIU-E04, E08–E09, E22, E34–E35; C08, C20, C32].
+
+The conditional model implication is practical. Declare the current state and observed cue; identify whether it is presence, hearing, a residual frequency, a document, another speaker's statement or a direct encounter; state which person Qiuyuan has *actually* named at that point; and keep contrary evidence live. A frightening trace can motivate immediate defense without settling its author. A deceptive appearance can be recognized locally without making his every prior impression correct. When the source offers two runtime variants for one Japanese line, a future listening note must choose the exact render ID and hash, not report a single generic “Japanese delivery.” The [AV crosswalk](../03%20Audiovisual%20and%20Voice/WUWA_QIUYUAN_AV_HUMAN_RETRIEVAL_CROSSWALK.md) nominates the exact keys and a runtime path test; no felt tone, visible posture or continuous pursuit has been supplied by machine integrity alone [QIU-E24, E32, E34–E35].

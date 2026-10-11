@@ -1,0 +1,42 @@
+{
+  "schema": "BLUE_ARCHIVE_YUUKA_GROUP3102_REPORT_PRECISION_ERRATUM_V1",
+  "status": "ROOT_REQUESTED_EXACT_PRECISION_CORRECTION_CANONICAL_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-YUUKA",
+  "published_beforeimage": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+    "base_commit": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+    "blob_oid": "5a14b7752cb17e6f776e55c9a5cf1b2f7d585982",
+    "bytes": 68567,
+    "sha256": "e9a1629f7bef0dab6049b8464740904fe2dbe74af140f5f9dc9cba1cfaf8e741",
+    "beforeimage_path": "beforeimages/series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md"
+  },
+  "precise_sentence_before": "Noa later reports that Himari does not recognize the design and that Rio provided no funding instruction.",
+  "precise_sentence_after": "Noa reports that Veritas is not formally recognized and that Rio said not to fund Himari individually.",
+  "saved_paragraph_line": 97,
+  "complete_paragraph_before": "The prestigious association with Himari changes the treatment of an inadequately specified design. Procedure and cost guarantees remain absent. When Noa objects that the proposal would consume several clubs' quarterly funds, Yuuka still wants to try it. Noa later reports that Himari does not recognize the design and that Rio provided no funding instruction. The project continues; Yuuka volunteers personal payment and hopes forecasting will recover a recent loss in her managed funds. Those wishes reveal personal investment in the purported machine's promise. They do not establish institutional misappropriation, a professional investment credential, or a legal breach.",
+  "complete_paragraph_after": "The prestigious association with Himari changes the treatment of an inadequately specified design. Procedure and cost guarantees remain absent. When Noa objects that the proposal would consume several clubs' quarterly funds, Yuuka still wants to try it. Noa reports that Veritas is not formally recognized and that Rio said not to fund Himari individually. The project continues; Yuuka volunteers personal payment and hopes forecasting will recover a recent loss in her managed funds. Those wishes reveal personal investment in the purported machine's promise. They do not establish institutional misappropriation, a professional investment credential, or a legal breach.",
+  "canonical_corrected_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 68564,
+    "sha256": "8615f1b27f21014e86e4c07c3e1afe3e6b1e0288970ab58106670f05d8297530",
+    "git_blob_oid_of_actual_bytes": "310fb7f624220860db163a2cbeb9f65011e08ab8"
+  },
+  "unchanged_body_assertion": "Only the one requested sentence differs; all other body/frontmatter bytes and original author/ROOT input/output receipt bytes remain preserved. Earlier canonical exact tuples describe their historical pre-erratum body, not these corrected bytes.",
+  "accepted_source_exact_tuple": {
+    "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+    "base_commit": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+    "blob_oid": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+    "bytes": 40956,
+    "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+    "beforeimage_path": "beforeimages/series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md"
+  },
+  "source_locator": {
+    "accepted_argument_line": 114,
+    "complete_argument_paragraph": "When Noa asks who pays, she reports Veritas is not formally recognized and that Rio said not to fund Himari individually (`u:0035-0038`). These are Noa's institutional reports, not an inspected charter or order. Yuuka volunteers her own name; Noa asks whether she means personal cost, recalling yesterday's managed-fund crash. Yuuka expects the device to recover the loss through market and crowd-psychology predictions (`u:0039-0043`). The earlier question **who actually pays** returns with Yuuka as the proposed payer. Her financial hope now depends on the very capability whose demonstration is missing.",
+    "primary_locator": "GROUP3102 u0035–0038;Noa institutional reports, not an inspected charter or Rio order"
+  },
+  "ROOT_source_receiving": "Complete accepted GROUP3101–3103 argument independently received by ROOT0ed65e/6b79d0. Assembler personally verified the complete consequential paragraph7fdbd0; no new whole-primary/whole-source or independent literary credit is claimed.",
+  "new_completed_package": false,
+  "all14_gaps": "OPEN_UNCHANGED",
+  "new_model_prediction_or_performance_credit": 0
+}

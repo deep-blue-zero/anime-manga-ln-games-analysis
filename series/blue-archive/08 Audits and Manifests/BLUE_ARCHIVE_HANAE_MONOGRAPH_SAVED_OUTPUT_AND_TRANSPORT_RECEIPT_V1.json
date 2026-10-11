@@ -1,0 +1,1268 @@
+{
+  "schema": "BLUE_ARCHIVE_HANAE_MONOGRAPH_PUBLIC_SAVED_LINE_TRANSPORT_V1",
+  "status": "EXACT_REVERSIBLE_CANONICAL_PREPARATION_ROOT_INSTALLATION_PENDING",
+  "full_saved_body_line_inverse": {
+    "original_exact_tuple": {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_HANAE_CHARACTER_MONOGRAPH.md",
+      "bytes": 39639,
+      "sha256": "49fb247cd69b90f65be0d2443f0f1d1a967ed93034a200c8238a6f8e1e1c37ee",
+      "git_blob_oid_of_actual_bytes": "b13b5b3482146b45e435906c35f69ac6e5eff3b4",
+      "lines": 188,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_HANAE_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HANAE_CHARACTER_MONOGRAPH.md",
+      "bytes": 41710,
+      "sha256": "8132fc83b549e00419678a2466daf1a35d87083ee51fca138a3ff280c53cffd4",
+      "git_blob_oid_of_actual_bytes": "7da9441c2344e5ab3779c292d0696581c1fa0ecb",
+      "lines": 198
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "f731ec85397cf6a79b21e8db025f1b334fe999e31225e9918f7a5ba7b62e9c38",
+        "line_text": "title: \"Hanae: authored delight, ambitious care, and the possibility of a different request\""
+      },
+      {
+        "frozen_line": 3,
+        "canonical_line": 3,
+        "line_sha256": "207c5c4addda0be97a5fdaa669a21826d525a3605c634c9fb3469b5acc06f4b0",
+        "line_text": "artifact_id: BLUE_ARCHIVE_HANAE_CHARACTER_MONOGRAPH"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "bb914669cd55a7b273c7c953cc13af9416c336d813c7209977fd932f34e35a82",
+        "line_text": "artifact_type: character_monograph"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "eaf87c0bdc544084e633fb80904849cab759268567d1f531d51e5c97ff6d3b9b",
+        "line_text": "do_not_use_as_literary_evidence: false"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "e79e80556c62d4ce3e7cd9b049dcf72a90f1fab120aef408ed9fedb29a112637",
+        "line_text": "reasoning_class: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "0fad8f887f7e4967e23539b487b1c5dbcabcdb77492962cdc801c0c3ee642a44",
+        "line_text": "architecture: BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1, version 1.12, section 7.1"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "be6e21c9ba219bd4cd7c5874d7b3d29990ae5f5bf30ab6728c408d6ed56866d7",
+        "line_text": "method: BLUE_ARCHIVE_ANALYTICAL_METHOD_V1, version 1.10"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "100bb16089c90c4d16fc98c783bf52617a4f6411d297aa6cefb7924c07dc8ac3",
+        "line_text": "required_home: P3-CHAR-HANAE"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "13262efc5201baac7e119b9253b8a903ff527e984d2d8ebe14904e46425775ce",
+        "line_text": "candidate_responsibility: P3-F086"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0396890abe9ae2bf846f8e8732808cddc44e3928d38a899a58e1a25dbfe3ea3f",
+        "line_text": "identity_scope: BA_PERSON_HANAE; normal 23002; Christmas 20021; event costume 1900908101 positively routed to 20021"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "01763e80e90d7fdc7716863e979ba81b7698ecb5707dbb0b4325f350b2d5d923",
+        "line_text": "dated_navigation_snapshot: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "a58bb5038e7db261495f25fc049142ea4cb9d2a5e6199421b8efe7389cdd2a60",
+        "line_text": "source_game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "253c2c13520916e9d01a2fb6caf323f4e5367584e263e1b293dc93fd68cbf38c",
+        "line_text": "source_parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "5245f26dce370d0451caba556e72fd68fc9db540f7dae878b0aaf5a9a79744bd",
+        "line_text": "source_admission: Current Cycle008 admission with limits; prior Cycle007 and individual producer witnesses remain attributed"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9d4848d260741fcc2f6568708d0f93553dd5c60ee13f7d8ee2d3faff960f378c",
+        "line_text": "contributor_inspection: Complete adequate accepted private and specified public analytical arguments; zero fresh primary, native, raw, QA, audio or audiovisual inspection"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "b54587f9bb72ba39847c4bde910d2aa3f62cb283f27c41fed223dc5cd9bea18e",
+        "line_text": "reading_order_and_independence: Historical order and independence UNKNOWN where undeclared; retrospective synthesis exposed"
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 27,
+        "line_sha256": "fcc458bafb2aa2b1e7c1a407438cc5a78e83334fe1ed774d340fa33a8a5cac8e",
+        "line_text": "performance_boundary: Written registers only; performer credit and voice references do not supply performed voice"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 28,
+        "line_sha256": "9734223659fc0bdd0eef2c111f7ac699511411b670e5cb7a567fa6aa0aa577c7",
+        "line_text": "authority_quartet: Admission, contributor inspection, reading order/independence and performance remain separate"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 29,
+        "line_sha256": "b181549213a7aae28bcc450154b6bba0d6460d8d40e1a120094d80c0eaf065d0",
+        "line_text": "model_promotion: NONE"
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 30,
+        "line_sha256": "ce5d90d1d54a8608339a52c73dd45d801c807d0c106f8755616ff7bb03015353",
+        "line_text": "gap_disposition: All original stable G01-G14 OPEN"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 39,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 40,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 41,
+        "line_sha256": "c8688a011caacd9fa37217b0da4495999e952898d7d942f9f20165e847a1f711",
+        "line_text": "# Hanae: authored delight, ambitious care, and the possibility of a different request"
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "264778df5965bde165001023bd3fbad8805288357b3e3f84689325aeb0327d3b",
+        "line_text": "Hanae repeatedly starts projects that mean something to her: learning to make an injection less frightening, enjoying exercise and its small rewards, tending morning glories, inhabiting a Santa role, making a stocking and welcoming a giver. These projects supply her own ends. They are not merely preliminaries to a larger emergency or evidence that she deserves a caretaker label. Her difficulty is often the passage from an attractive end to a warranted method: if care should reduce fear, if rest is good, if Santa brings happiness, she can assume that an intense technique or a demanding routine must realize that good. Other people sometimes change the method, sometimes bear its cost, and sometimes have a final objection left unanswered."
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "2c012c676434abb90400a9d84e5a68ed285604660d50be27b6298a61db978f49",
+        "line_text": "That is a recurrent problem rather than an exhaustive flaw. In Valentine gift `BA:event:810:007:124`, Sensei objects to a concentrated caffeine drink and asks for hot chocolate. Hanae accepts that concrete preference, makes the drink with cute rabbit marshmallows, and enjoys discovering that she has given a Valentine present. A selected drinking action occurs; full finishing or restored health does not. This useful local revision is a serious counterexample to any thesis that her care is always imposed intensity. Conversely, normal bond E002 ends in repeated injections beyond her one-attempt promise, with Sensei's objections and an arm covered in needle marks. A benevolent learning wish cannot erase that actual breach. (`810:007:124:scene:001:u:0011`–`:0026`, `:choice:003`–`:005`; `BA:bond:23002:002:scene:001:u:0013`–`:0025`.)"
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "3b702e9a8815231cc7b4388671dc556eeb68ca70012fd094ea850e0b2d65c687",
+        "line_text": "The quiet garden supplies a second decisive contrast. Hanae gets up early because she wants to see morning-glory flowers, waters buds and talks about cultivation with an adult whose taste she asks. The anticipated bloom and office placement are not shown, but the watering, curiosity and shared conversation are. When she demands holiday exercise elsewhere, early rising is imposed against Sensei's desire to sleep. His subsequent freshness is real subjective testimony without settling his request to protect holidays. The contrast locates the importance of whose project is being pursued, not a simple opposition between energetic care and laziness. (`23002:008`, u0002–0014 and whole thread330; `23002:005`, u0002–0013 and whole thread150.)"
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "08f91f422fd9e324ef4ec39ccfdbc69af4be674934cd1b8b9b50965a3077ebbd",
+        "line_text": "Hanae therefore needs an account that retains delight and ambition alongside particular failures of knowledge, proportion and recipient attention. Her selective opposition to exploitative resale and her distinction between a child's nonmalicious lie and bad intent complicate universal gullibility. Her hazardous proposals, delayed warnings and expectation of Sensei's catch complicate a harmless innocent. Her actual hospitality, gifts and accepted hot-chocolate request complicate a sinister manipulator. Her distinctive literary work lies in these situated differences, not in a diagnostic label or a formal prediction rule."
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "7f7c6f4a80bacf8de0ceba9fcd371222785093e1a8177a4cd041beed06e316ef",
+        "line_text": "## 2. Longitudinal arc and developmental states"
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "ebc4fd99c8764c84c4e6dc5861e505f0ce355481583f72aee21ffb12405e31e2",
+        "line_text": "There is no source-supported ladder from normal 23002 to Christmas 20021. Their identity joins are positive; a relative date against main chapters is not. Complete linked threads give local preparation and aftermath, and Christmas parkour recalls her Santa consultation. A bloom expected tomorrow is a prediction within a garden scene. Release dates, favor ranks, numbered E015 and repeated written contexts do not supply an all-series calendar. This section consequently distinguishes actual local revisions from a retrospective claim that Hanae has progressed through a universal sequence of lessons."
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "12a0206a2fad6a4f6b4ced267fb5f72df90654179ad2635f3fde243c5d8b9082",
+        "line_text": "Normal E002 begins with an aspiration toward veterans' painless technique and patients' reduced fear. Its message alternatives can acknowledge that adults also fear needles and that age is irrelevant. In the infirmary, however, she invokes adulthood to reject Sensei's flight, promises one attempt, fails a Peroro distraction and repeats injections after his reminder of the limit. The pair's internal contradiction is meaningful: she has language for understanding fear but does not maintain that understanding when her learning project needs a body. No exact dose, lasting damage, professional sanction or repaired agreement is printed. (`23002:002`, u0002–0004/u0009–0025; thread010 records1756–1765.)"
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "f36341a93601d10d8f0e6fc6b8105d86bbb3573e112b07b203a52e229fccfdbe",
+        "line_text": "Normal E003 supplies a different stopping process. Sensei accepts a bed and some rest, objects to an attempted knockout method, then refuses an elephant-anesthetic proposal. Warm tea and a comfortable nap follow. This is an achieved good, and the method-specific objection has worked. The whole post-schedule thread then reopens the problem with a proposed root tea and Sensei's alarm, without a printed answer or ingestion. The scene cannot be reduced either to a failed nurse or to permanently corrected practice. Accepted rest is not consent to incapacitation; eventual comfort does not make the prior proposals sound. (`23002:003`, u0002–0021; thread070 records1766–1777, especially1520–1523.)"
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "074e455d058cfbbf1a8bba2bca1bb7dff39841e3743c05228e3d1fa32131af2b",
+        "line_text": "Normal E006 moves from carrying and sorting supplies to a late wet-floor warning, an actual scraped knee and a proposed amputation based on an old book. Sensei asks for a plaster, and she agrees to do so “this time.” The narrower treatment is represented; her favorite plaster's pretty color and sweet scent matter to her. Her final explanation that it cannot cover a large amputated wound elicits an unanswered question about why she really reconsidered. This ending prevents a clean claim that expert knowledge has replaced the old reasoning. Local concession and aesthetic preference can both influence an act whose exact motivation remains open. (`23002:006`, u0002–0018/u0019–0036; whole thread270.)"
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "3c153bbc6d2f45240256d430aff0c286c0192f0f8980944b480fc9958941aad2",
+        "line_text": "Christmas develops a different self-authored project. Hanae distinguishes taking a role seriously from literally being Santa, considers impossible physical standards, learns that Sensei's flight claim was a lie, and makes a parkour plan of her own. A fall is caught; she expects him to catch her and feels safe with him. Gloves and property concerns introduce some care with limits, and the day ends somehow without injury. She still proposes Mach2 and an Engineering inquiry, ending in an unanswered refusal. Local learning about the adult's limits has not settled her next ambition. (`BA:bond:20021:002`, u0010–0047; `20021:003`, scene001 u0006–0036 and scene002.)"
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "2d894906497550005617fa82fbdeef1a9877c886f997a11329e78b76337e9b49",
+        "line_text": "The stocking scene has an achieved craft endpoint: Sensei stays until it is finished, and Hanae dozes, perhaps from the work. He consumes the cookies and milk intended for Santa and seeks her gift. Her full thread reports a present and an empty plate, disappointment at missing Santa and pleasure that she apparently thanked him; she then infers a new hazardous fire method from disinfectant and meets another objection. Gratitude and mistaken inference coexist at the end. Neither actual supernatural visitation nor a purchased, tested disinfectant potency is shown. (`20021:005`, u0004–0027; thread110 records7380–7399.)"
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "077980caa9de7be40d5f248b581578824dc90db32854a3ed75cb97be16f309b2",
+        "line_text": "Public sequences give further local changes: GROUP1701–1703 moves through ordinary ward work, inquiry, surrender-overrunning force, theft, explosion and incomplete aftermath; EVENT819 moves through holiday craft, disputes, injury, admission of revenge, care and an actual party. Valentine gives a concrete accepted drink revision, while later Arius care gives distributed aid and continuing political uncertainty. These different endpoints broaden a longitudinal account. They do not establish a dated moral ascent, a final harmlessness or the disappearance of earlier recipients' claims."
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "a0d53186a88aa5b4a4a361894dd329f3fd3aea1ac4594304a13741bbb01b5462",
+        "line_text": "## 3. Public and private selves"
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "2af9b0bb3da22289b6cedd496318502602f993b94136ac0cf98bab2a478acf60",
+        "line_text": "The public caregiver reputation has genuine support, but it is an interpretation by situated audiences. GROUP patients appreciate nurses' help, and Hanae's sociability is visible in greeting and offers to feed. Serina's correction about noise and indulgence does not cancel Hanae's practical reason that an injured hand may need assistance. Conversely, affectionate patient descriptions do not reveal the unused-floor history to those patients. Public warmth and private knowledge of harm can diverge without requiring that all warmth is a mask. (`BA:group:1701`–`:1703`.)"
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "f852d2445bfe3ef8be1d1db865f5254568f3028a682de00718508a48395ea185",
+        "line_text": "The normal profile itself preserves this tension. It describes commotion that may worsen a patient's condition alongside reported rapid recovery from illness. The recovery formulation is hearsay-like, and the rifle description's apparent smiles carries an explicit question mark. These are not a clinically verified universal cure or proof that every smile signifies willing treatment. Her white-coated angel and love-filled weapon are self-presentation and figurative repertoire. They must coexist with the independently depicted injection breach rather than outrank it. (Written `BA:character_data:23002:profile_and_dialog`, complete profile and weapon description.)"
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "ffdaf88f094272600b9d00c8210494aa24711825c57820b3d3563becb47730d4",
+        "line_text": "Private scenes show Hanae as a maker, learner and person who wants to be wanted. She asks Sensei about his preferred type, requests his whole day for her birthday in normal dialogue, and asks for him in the Christmas register. Those words are directed desires, not a completed date, adult ownership or an authenticated historical escalation. Concern about the outfit's appearance is different from its usefulness for moving. A little sadness as charity work closes is different from medical duty. She has questions and anticipations whose value survives an absent reply."
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "1235e8ea1f7be8d44d0400cb31ce0f457cfa648eeefd760a20e911771f0125a1",
+        "line_text": "The contrast is therefore between kinds of knowledge and relation, not between a uniformly competent public role and a secretly incompetent private one. The sporting encounter has her articulate a personal role for cheering alongside seniors' bodily care; the public holiday gives her pride and actual gifts. Private Valentine care accepts a simpler request, while public hospital inquiry produces excess. Public and private modes each contain pleasure, judgment, dependence and possible error. Treating either as her only true self would discard concrete counterexamples."
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "694da85f33689bcb72b641656f9ed63c873b4bf08e6d4c0f9e0a5ad65b8ba3bc",
+        "line_text": "## 4. School and club context"
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "b7c48de9eabdc3abe7cde23127fb23b272ff29bbefebc01342bbf1ffe45567bd",
+        "line_text": "The Rescue Knights furnish work, senior reports, supplies, spaces, seasonal collaboration and a language of helping. Hanae admires veteran skill and seeks methods in books or online; she is not merely performing an institutional command. Those reports and discoveries do not certify the methods she derives. An old surgery title is not Trinity's actual medical standard; a book she estimates to be five hundred years old is not an authenticated professional authority. Her supply-paperwork discrepancy is a report about the room, not a demonstrated theft or institution-wide audit. (Normal E002/E003/E006.)"
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "f0a987da926fa600a6f2cb016490deb53db7e65802c5c6d2ab8a3f21b15788c4",
+        "line_text": "Her club contributions are also broader than procedures. She makes and gives seasonal things, wants group singing, offers cleanup and imagines work paced one task at a time. In the sporting encounter, text-bearing commands place the bodily-versus-heart-care argument with Hanae despite its printed Utaha label. Utaha supplies the Engineering leader's encouragement and possible rivalry; Hibiki's reluctance limits Sensei's inward blanket impression that everyone enjoys the day. Hanae's cheering role can express sincere aspiration and a chosen form of participation without proving that cheering medically cures a patient. (`BA:event:818:007:scene:001:u:0019`–`:0041`, particularly raw-qualified Hanae u0024–0026/u0037–0038.)"
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e94595ae0924c69a33f7875d65960aa619ce672dc9510480428faacb5e433692",
+        "line_text": "Seniority does not erase junior agency or transfer every act to the captain. Mine is invoked during the unused-floor inquiry, not present to authorize it. In EVENT819 Mine lets the juniors stay or join, and Hanae chooses work with a smile; she also wants a holiday and responds to the later invitation and party. Serina protects her Santa anticipation, but Hanae is more than an innocence test for Serina. Her own promised gifts, labor, preference and final extra hats and gloves are positive acts. (`GROUP1702`; `EVENT819:002`, `:007`, `:009`–`:011`.)"
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "9afc4ea20103c68733b5b94829191c839c8da0eddca3200ba46854b61b469950",
+        "line_text": "Institutional meaning includes adverse practice. The ward episode's late warning and collective force have actual recipients; the holiday incident produces another care burden; MINI rescue has surrendered opponents asking for appropriate treatment. Good intentions, seniority and students' loyalty cannot settle that burden. This monograph provides bounded contributions to the separately required Rescue institution and directed relationships. It does not complete those studies, professional certification, procurement authority or a hospital safety and accountability record."
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "4787c35d261222c09d1bbe5c5a77dc5cd9dcdc1958b5e6ed5ac7998c2100b193",
+        "line_text": "## 5. Ordinary life, pleasure and wanted futures"
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "5ef09d76fc65564c0f26af6ee2f2c56bdf19cf654deeba235dae0621f26f5222",
+        "line_text": "Hanae's garden is one of the strongest ordinary accounts because a wish shapes repeated attention without an injury to motivate it. She says growth interests her, comes to the terrace on arrival, notices buds and rises early to see morning blooms. She asks what Sensei likes and hears his affirmative response. The flowers have not yet bloomed on the page and have not been brought into the office; anticipation and cultivation are already substantive ends. Her morning-glory preference and surname's lexical correspondence do not authenticate family origin, Apocalypse angels or a later supernatural mechanism. (`23002:008`, u0002–0014; thread330.)"
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "854a5d43f2aa486fb21c9599191991fa7973a8fd0d6be03d795ad2971b110c88",
+        "line_text": "Exercise, dance and cheerleading similarly have wanted form and small rewards. Flower stamps matter as a motivating object even though no stamp is printed awarded in the exercise bond. The profile's rabbits, cats and many-friends pleasure are specific desires and a self-described social life, not a list of actually inspected pet outings or a join to named classmates. Festival anticipation and a large rabbit plush gift idea retain sensory and imaginative specificity. Reducing them to signs of “cheerfulness” would lose what she would choose to do or give. (Normal E005; normal written Cafe1253–1254, Halloween1269; Christmas written5043–5045/5055.)"
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "27f1f890ea89b8dbff599112950cdfe5e32b7893cfcbc9f5b1903ca58abd55b6",
+        "line_text": "Making and hosting have their own labor. Hanae finds knitting fun, decorates a cute tree and warm room, prepares cookies and milk, finishes a stocking and wants to thank a giver who must be tired. She has been a receiver and wants to offer something in return. The possible craft fatigue is not an exhaustive cause of sleep, but the completed work and her wish for reciprocity are secure. Sensei's consumption inhabits the exchange while leaving his identity as giver implicit. Her pleasure at apparent thanks is a qualified interpretation, not confirmation that every participant shares the same knowledge. (`20021:005` and complete thread110.)"
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "7b12f547cc3f6e53258eb3f8d928af0ecefa6828bcd1967415682534bb039803",
+        "line_text": "Her gift-replenishing errand deserves adult attention before the adult knows its scale. He affirms its importance because it matters to her; she reports previous recipients' joy and wants more people to receive gifts. This valuable acknowledgment does not validate her entire commodity catalogue. She groups ordinary exercise objects, claimed supplements, doubtful health products and a chainsaw under beneficence; the text preserves his doubt, qualified label claims and no chainsaw use. She also opposes opponents' stated speculative resale plan. Moral discernment about intended use can coexist with unverified judgment about actual benefit. (`20021:015`, u0001–0034/u0035–0056.)"
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "16389124b30387f9778bb1acad9b9ead8bb67140b05284b615004c36d83d2dae",
+        "line_text": "The event-costume register adds her wish that someone like a gift, uncertainty about task lists, paced effort, accomplishment and a little farewell sadness. These conditioned lines do not prove a completed cleanup, a particular prize, correct accounts or freely reciprocal touch. They are positive evidence about possible wants and language in those contexts. The actual Christmas party and the chocolate drinking encounter provide separate narrative endpoints. A low-pressure wish or unfinished ordinary project is analytically meaningful without being promoted to an accomplished future."
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "0912877254b873e90861d10f83479fe33d4b68d6c262408ee5785fb6299490c6",
+        "line_text": "## 6. Crisis behavior and causal responsibility"
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "2fc9069b9bb06649f4a31580249fe6ef0ca521c676227336b28c62c9c952b52a",
+        "line_text": "Hanae's most explicit private bodily costs remain distinct from her proposals. Repeated injections and needle marks are depicted in normal E002; no precise dose or lasting damage is established. The carotid method is attempted and objected to; the elephant anesthetic, amputation and later root/fire procedures are proposed or refused, not performed. The wet-floor fall gives a real scrape after a late warning. Keeping these differences prevents a fictional medical mistake from becoming an empirical harm estimate while ensuring actual breached limits are not excused as merely hypothetical. (Normal E002/E003/E006; Christmas E005.)"
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "9d33d1437e5ab7963774b912dcc1b50eccbe200a0c1533bb99a8325cd0c17ecb",
+        "line_text": "The unused floor has an independent causal record. The intruder deceives the nurses, steals an apparatus, and contributes to the explosion by forcing it open. Hanae's warning comes late and Serina objects that it should have come sooner. The group's shooting continues after surrender; exact shots or exclusive responsibility by Hanae are not established. Her attempt to verify a strange story and willingness to clean do not preclude excess. A surrendering person's pain remains a recipient claim even where his story is false. The later injection threat does not show administration, and the ending does not prove full recovery or ward repair. (`GROUP1701`–`:1703`, accepted seven label repairs retained.)"
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "f2eb25092302d93e0b5b01b0114e80e8636c50561b0c7a199a314f0573af3fb7",
+        "line_text": "EVENT819 mixes novice judgment, loyalty and actual aftermath care. Hanae participates in the charity and supports Mine, while the opponents' revelation changes what the juniors know. Capsaicin numbers are character claims; tears, skin complaints and pain are textual states, not laboratory toxicity. Treatment completion and Hasumi's recovery are reports; junior apology and the actual party are other acts. The opponents escape, so completed arrest or restitution is absent. A party with returned gifts is meaningful reconciliation among these participants without becoming a certificate of safe practice or permanent reform. (`EVENT819:004`–`:011`.)"
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "d829d381811619e84f5152baca57f6ed0bc3ec387ebc4e019a5d847b76c8e041",
+        "line_text": "Valentine narratives give different roles: initial chocolate giving is Hanae's idea as credited by Serina; later Hanae proposes fixation during treatment, doubts Mine's earlier behavior and prepares supplies after correction. Raw actor repairs matter—the delinquent's injuries complaint is not Serina's, some apparent Mine lines are juniors', and the final advance belongs to Mine. Supplies ready do not equal recipients cured, nor does opportunistic timing prove partnership with Wakamo. (`BA:event:810:004`, `:007`, `:009`.) `BA:mini:70006010`/`70006020` likewise keeps nursing threats qualified where labels are suspect, actual cookie achievement and praise beside a bound, protesting Fuuka, and unfinished release or repair."
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e9e293d546c32fe71decd7bb83e12a79013d0990e0e1ba2f25e4cb485b3a7d0f",
+        "line_text": "Main Eden establishes a distributed rescue setting: Sena's first aid and transport and Serina's presence when Sensei wakes cannot all be assigned to Hanae because she is another Knight. Later V006 Arius explicitly locates Mine, Serina and Hanae's temporary aid station; when Mine collapses the juniors care for her, Sena assesses, transport is planned and she later wakes and walks. Patient transfers and full recovery have report boundaries and political limits. Adequate accepted checkpoints support this comparison; the Final is separately V100 and no Hanae action is inferred from affiliation or missing keyword results. Public aid has a real place in her repertoire without consuming every other nurse's independent causal contribution."
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "5126a5e4e8d500d9c6ae494111367b2a2cead0a8fe2cf2b1dd35bc47709b7008",
+        "line_text": "## 7. Relationship with Sensei"
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "00d9ad9c8196b201a3e85d8dd37ae3a0b6e87ec6db80c8717520795c30aa6469",
+        "line_text": "Sensei can recognize what matters to Hanae without becoming its author. The gift errand asks adult help, and he affirms the student's importance before its content is clear. Santa consultation begins with asking whether she permits him to hear her worry; she chooses to disclose it. Gardening involves his preference, but the flower and practice are hers. The stocking invitation offers him complicity in her project, and he stays through completion. These exchanges make his role substantive without assigning him ownership of her aims. (`20021:015`; thread010; `23002:008`; `20021:005`.)"
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "d88981a13335c6b892ac41a1c001d64ce58dcf5d9c1f87667d4972218b1aa526",
+        "line_text": "Their care exchanges also expose constrained options. Normal E002's reluctant arm offer follows objections and a one-attempt promise; the final repeated injections exceed that boundary. Normal E003's acceptance of rest permits no automatic knockout, and its explicit objections change the scene's method. E006 permits a plaster, with a residual question about its motive. Holiday gymnastics ends in subjective freshness and a further protected-rest request. Valentine is an especially clear positive: he specifies hot chocolate, she changes the offer, the drink is supplied and the selected drinking action occurs. Repeated body-directed concern is thus a variable dyad, not invariably consented treatment or invariably coercion."
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "715ed31793783f7d8f21821861aadb218481c43af2fd0831243d4df77ab5bbf9",
+        "line_text": "The adult can also use an adverse method. He tests her Santa discernment with a flight lie and then simulated pain. Her consultation consent is not permission to invent every emergency. In parkour, an actual catch is a justified response to a fall; it does not authorize her to treat him as a guarantor of all risks. She expects him to catch her and drags him onward, while he continues to object and ends by asking her to stop escalation. His softened response, pleasant narration or rescuer competence cannot by itself settle what he wished to do. (`20021:002`–`:003`.)"
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "7fe9d879d6fba8943b7af8b5dcc70c660832d0d018da719e115b3b38abcd146d",
+        "line_text": "Private wishes add desired time and attraction without a completed romantic contract. Asking for his day or for him in birthday registers has no printed acceptance. Conditional touch reciprocity does not independently depict his initiating touch or its consent. The adult's quiet gift seeking and consumption in the Santa scene are actual written actions, while her identification of the giver remains implicit. Warmth, asymmetry and unfinished knowledge each deserve space; no exclusive couple label, ownership or universal intimacy should be supplied to connect them."
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "226fb5fd9bbe569597ff09193121ff16e1d43adbdec4aba4e263883eacb7daf7",
+        "line_text": "## 8. Major peer and recipient relations"
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "24459a7b768dc22b04164025ce8563a23c36e7c5067a6fd675139a67d631d0d5",
+        "line_text": "Serina is a colleague with different judgments, not simply a restraint imposed on Hanae. The feeding dispute has reasons on both sides: Serina limits indulgence and noise; Hanae identifies an injured-hand need. Hanae's interest drives hospital inquiry that Serina fears; late apparatus knowledge prompts a justified correction. Seven source repairs distinguish which nurse expresses fear, inquiry, pain or warning. Serina's protection of Hanae's Santa anticipation is a specific peer act; Hanae's making, extra party gifts and chosen work are her independent contributions. Their relationship cannot be reconstructed from matching medical profiles alone."
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "0de6cd593b2736665bb8317d9eb43a0b543d2bccf7b4a9ad1a115be6a8027af9",
+        "line_text": "Mine's relation allows affiliation and disagreement. Invoking the captain is different from acting on her present instruction. Choosing her support and wanting a holiday can coexist. The juniors can doubt her response, learn an opponent's motive and help meet the aftermath. Hanae is not the source of every correction or merely a witness to another girl's choices. Loyalty does not complete recipient repair. The source supports actual shared work and party company while leaving promised leadership improvement uncertain. (`GROUP1702`; `EVENT819`; `EVENT810` narratives.)"
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e0ebc8f6353c6fa8502d46719db26136c4e8183c3b971ebcdf0b74fe4b6dca9c",
+        "line_text": "Utaha supplies an independent ordinary comparison. At the sports festival Hanae states that she wants to care for hearts through cheering as seniors help bodies. Utaha treats her as a sincere potential rival and encourages testing limits; Hanae responds with chosen effort. Hibiki's dislike of cheering remains a different person's preference and a counterexample to unanimous festive happiness. This exchange gives Hanae an actual peer-facing articulation of vocation and play. It does not establish a permanent cross-school friendship, an actual cheering victory or a psychological cure. (`EVENT818:007`, raw-qualified u0024–0028/u0037–0038.)"
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "b1843d961b7c085a097307c27dc024c69714cd78f803e850cc293c106c45dd6f",
+        "line_text": "Recipients have different knowledge, capabilities and objections. Sensei can need rest yet reject her procedure; patients can need feeding while a general indulgence rule remains meaningful; a surrendered intruder can have deceived her and still be injured; a gift recipient can be imagined happy without a shown reaction. Christmas E015's two opponents remain source-local and unjoined to hospital intruders or main antagonists. Their speculation is their stated motive, and a narration of making them “good children” omits means, injuries and convictions. Leaving two presents is not shown acceptance or purified hearts. Her moral opposition remains meaningful without an invented enforcement result."
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "21caab160c07b2445e1875c1d4ee3a6dcac0d29b22f8dac10c7ead33ea51e1ff",
+        "line_text": "Ordinary animals, unspecified friends and children should likewise retain their actual modes. A wish to play with rabbits or cats is not an inspected pet outing; reported numerous friends are not named roster joins; nonmalicious lies in the Santa consultation do not create acted child judgments. In MINI, Fuuka's protest remains independent even when cookies are truly enjoyed. An analyst must preserve the recipient's desired ordinary life, not absorb every person's needs into Hanae's benevolent role."
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "449c02255ee80149ddbea550eae85d62b78d61740a8d22e07d2b21ebd88a040e",
+        "line_text": "## 9. Language and written formal registers"
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "030e18019c2726ca2971936c3922f4affaafc3839024c58641e40bf38f5e0839",
+        "line_text": "Hanae combines polite address with energetic imperatives, qualified hearsay, intimate requests and method-specific concessions. “Because you are an adult” pressures Sensei in practice and parkour, while the injection thread can acknowledge that fear does not depend on age. “Only once” makes a falsifiable local agreement; “this time” narrows a concession. Reported “apparently” and profile “they say” do not certify effect. Her insistence that seriousness does not depend on literally being Santa makes role commitment different from blind ontological belief. These verbal distinctions explain more than a blanket heard-cheerfulness label. (Normal E002/E006; Christmas E002/E003; complete written profiles.)"
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "383eff4b0304c1bef314987e3b512810c7082076095edcd0a807569422a7671d",
+        "line_text": "Pleasure has a differentiated lexicon: knitting is fun, favorite flowers interest her, a plaster is pretty and sweet-smelling, company and a person's day are wanted, giving should make someone happy, and a closing event is a little sad. Work can be paced without haste, and surgery can become a metaphor for dealing with the task list. These are positive registers of collaboration and imagination. They are not all clinical claims, and they need no high-stakes consequence to enter the character argument."
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "457d656b0ac857a9ca2d9e9a1917803dc41a09749825a4479e8f0e7603656473",
+        "line_text": "Choices remain actual source choices. Nine bonds contain fifty-four formal groups and sixty-four options, with every branch-effect-known field false. Single-option prompts constrain Sensei's depicted responses; duplicate replies across alternative options are not two acts. Some NS commands represent actions, some inward presentation receives a reply, and some audience conditions remain uncertain. Christmas E003's u0037 occurs after u0014 and before u0016; it must not be sorted to an invented u0015 or a final speech. Christmas E015's two thug seams and speech under character-narration retain qualified individual attribution. (Complete private checkpoint and individual owners.)"
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "bfd6acc834058cca554a725441cccd701fb0baf5e45b0a0829d94c8e70509de1",
+        "line_text": "The written pool has two profiles and 143 nonempty dialogue/context records: thirty-two normal, thirty-nine Christmas and seventy-two costume records. The costume has thirty-one records each in 819/10819 and ten lobby-only in900819; repeated conditions are not three Christmases or extra stories. Profile performer credit, reference IDs, timings, rhythm and musical punctuation provide no heard acting. Actorless timed normal treatment and Christmas hospitality can be associated by context and corresponding written-special passages without recoding canonical narration as a securely labeled speaker. No voice performance, embodied touch, continuous audiovisual scene or empirical technical mechanism was inspected here."
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+        "line_text": "## 10. Competing readings"
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "43bd67b7369c0430526d5d0df3d8e0d7e039a88ad8a74d9cc8dfbd1f7c0f6d60",
+        "line_text": "**The invariably gullible innocent.** Believing Sensei's flight lie, expecting Santa and accepting doubtful method/product claims support this reading in specific scenes. Recognizing nonmalicious child lies, opposing exploitative resale, admitting a failed attempt and choosing her own projects resist its universal form. Her Santa role explicitly distinguishes literal truth from seriousness. A stronger incapacity-to-judge thesis would require evidence that these distinctions never matter, which the actual argument contradicts."
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "6605a082ed20e3d38e1f4fba57632790ddac94739ea3ee25e6c7c4a7eb656f64",
+        "line_text": "**The dangerous caregiver whose pleasure is only a pretext.** Repeated injections, threats, late warnings, proposed extreme procedures and collective excess are substantial contrary evidence to unqualified benevolence. They cannot be erased as jokes. Yet the gardening inquiry, handmade hospitality and wanted gifts are pleasures with their own ends; the nap, narrower wound care and requested hot chocolate have positive actual outcomes at finite scope. A stable intent to injure is not established by method error, a rejected proposal or euphemistic opponent conversion."
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "97e4d2aa3949e59866489cd6d674ee52f01a13dc9f36eeaf7df61e4e420d7c2b",
+        "line_text": "**A learner who becomes permanently competent through Sensei.** His objection can change a method; warm tea, a plaster and hot chocolate are secure local revisions. The root-tea postscript, plaster-fit explanation, unresolved fire inference, holiday-rest plea and Mach2 proposal are serious obstacles to a completed learning arc. The chapters do not certify credentials or durable safe transfer. A stronger claim requires subsequent comparable practice with recipient evidence and reliable knowledge, not a later affectionate profile line."
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "ed6328fb45980674123dede1855f322a961f7737b93f94012873c93f33786eb0",
+        "line_text": "**A selfless medic whose ordinary details are incidental.** Care and giving are recurrent motives, but flowers, knitting, animals, friends, festivals, pretty scent, desired time and festive appearance are not merely diagnostic signs of helpfulness. She authors projects and wants others to like what she gives. The best limited version recognizes service as an important end; the exhaustive version fails to explain independent pleasure and gratitude toward a giver."
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "6d7d7ef42b83909548b35d58ef49fca0c66aa2a5852f602fc14fe679140bccdc",
+        "line_text": "**Comedy removes the recipient's claim.** Exaggerated methods, Santa training and euphemistic “good children” can explain comic construction. Actual needle marks, adult refusals, a fall, surrender pain and Fuuka's protest remain consequential represented facts. Conversely, exaggeration is not a laboratory certificate of toxicity, healing, supernatural purification or lethality. Form can be funny while leaving an ethical or epistemic question unclosed."
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "4ebb4557efe096cf9dec889e55d1aa26706234f56bdc88a81e2fc14f4dad95af",
+        "line_text": "**All growth is adult-created.** Sensei's permission to listen, affirmation of a modest errand, rescue and method objections are important. Gardening, knitting, the parkour conclusion, selective moral opposition, craft gifts and the sports-festival articulation also belong to Hanae. Serina, Mine, Utaha and particular recipients supply independent relations and reasons. A monograph should recognize what the adult makes possible without reallocating every child's project or peer act to him."
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "6d0f9ba6cd371d91c12238be1c038f12da2f2df1c7f9a0064a6e7359a66aa7a2",
+        "line_text": "## 11. Evidence route and unresolved warrants"
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "7ac2bd901e797bdbc915633171858b64f848594129e88780ecde9a1025c8c13e",
+        "line_text": "The private authority is twelve complete accepted individual analytical owners plus the overlapping198-line maintained checkpoint: nine paired bonds/whole positive threads and three written objects, representing twenty-one sources. Canonical/current admission governs their preserved historical wrappers; those wrappers do not make accepted literary argument unavailable. Original source-facing inspection remains attributed to its contributors. This monograph reads adequate accepted arguments and performs no new primary, native, raw, QA or performance inspection."
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "cc90623f321b957a637135980348caf42989487d34b26b6694cb0f4a83e494af",
+        "line_text": "| Analytical route | Actual scope received | Main contribution |"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "line_text": "|---|---|---|"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "ef858de8ea065cb05a82bc9fc8bc9f2e49fcf3999b21c1ec3fe30b4a8c637378",
+        "line_text": "| `BOND/HANAE/BLUE_ARCHIVE_HANAE_BOND_23002_E002/E003/E005/E006/E008_PAIRED_DEEP_READING.md` (five files) | Five complete paired arguments and whole threads | Learning/fear, breaches and revisions, protected rest, preferred plaster, independent garden |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "4736a5d16a955da772a31d7ca695fb6f68388609b0b96ff7c080d73bf82884a7",
+        "line_text": "| `BOND/HANAE/BLUE_ARCHIVE_HANAE_BOND_20021_E002/E003/E005/E015_PAIRED_DEEP_READING.md` (four files) | Four complete paired arguments and whole threads | Serious role, risk/catch, stocking/hospitality, student-defined errand and unprinted opponent means |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "a5da394b63a2c64de0d520f1e2cf85c3fd404b5d5cdf0b25efaee4cb964dced4",
+        "line_text": "| `CHARACTER_DATA/HANAE/BLUE_ARCHIVE_HANAE_VARIANT_23002/20021_WRITTEN_DATA_DEEP_READING.md` and costume `1900908101` owner | Three complete written arguments | Hobbies, friends, wanted day/person, reported recovery, gift pleasure, triggers and touch limits |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "c951e4bd65231c98427d506df85ad95b9bf1ceed76cc1d52c5bf1a5b5fa4c6ac",
+        "line_text": "| Hanae private contextualization checkpoint | Complete198-line argument | Exact21-source identity, counts, modes and cumulative comparison |"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "ab0868ec4bfa16464db4d001dfd77b6b06dec2213b5c05199b9ac8ffc11b4c32",
+        "line_text": "| GROUP1701–1703 and EVENT819 checkpoints | Reused personally complete adequate accepted whole arguments | Peer inquiry, seven label repairs, recipient harm, shared work and actual party |"
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "d6805729c9040e14f1eba39354d93bcb152cfcb4ee8aa1ace5a21864b2c0e525",
+        "line_text": "| MAIN V003 C003/C004 and V006 C002/C003 checkpoints | Reused personally complete small accepted checkpoints | Distributed care, aid/assessment/waking/report/transport limits; V006 is Arius |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "78d137cc223044146eb0b87d7a88ae0d902d214b54cb8b313421f3246bfe902a",
+        "line_text": "| MAIN V100 maintained working account | Reused personally complete accepted Final argument | Separate comparative series boundary; no Hanae act invented from affiliation |"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "71294128788307f800077a958c4c28429f0ed3d3a7359e4b954c95d69b4da83f",
+        "line_text": "| EVENT810 narrative004/007/009 owners | Reused personally complete small arguments | Junior gifting, proposals, concern/preparation, exact actor distinctions |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "b2c85578707060fbe5046eca7072c2872ce5a3e33fb0b4fe42b6f85bd687c42f",
+        "line_text": "| EVENT810 gift007_80000007, exact `BA:event:810:007:124` | Fresh complete76-line accepted argument and current admission control | Actual accepted request, rabbit hot chocolate, selected drinking; no whole finishing or cure |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "a1cc9ac32f22a68b8a0625c9bdd5e6ae7074f0263035318ebe0860c3d870f60f",
+        "line_text": "| EVENT818 E007 owner and maintained actor/admission spans | Fresh complete68-line argument plus bounded current23–27/341–349/495–505 spans | Hanae's actual cheering intention versus Utaha/Hibiki roles; no performance or clinical cure |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "14f65128f78a5d11fc050d66f603794b9b4cbf8166c2b2b4449a471e4e78207f",
+        "line_text": "| MINI32 §8 and EVENT841 episode009 | Reused personally adequate complete relevant argument scopes | Cookie pleasure/recipient protest; rumor context without universal peer assent or completed conflict |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "21f0837949f5f8154a24a34691c8dee9c837150c258371bdcefabf01fa2a1ba8",
+        "line_text": "The companion receipt binds each actual full path, bytes/SHA, fresh versus reused/scoped inspection, positive navigation, repaired incidental output clips and exact saved paragraph joins. EVENT810 gift007:124 remains distinct from narrative007; a current maintained adoption owns admission of its preserved draft body. No generic opponent, patient, friend or animal is joined from a category alone. Historical Main witness and current Japanese generation remain their actual conditions, not retrospective primary-reading credit."
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "0214c9c3d1e59293aca477c6545945815557445f8e92561de625d892400db9ea",
+        "line_text": "| Original stable gap | Contribution and remaining warrant — all OPEN |"
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "064475b59be1e9c48a463545869e4f417ccbe6d70a6ccd8f6b23a9116bae2f92",
+        "line_text": "| G01 Ordinary and private breadth | Twenty-one private sources and public ordinary work retain projects, tastes and wants. Whole-person invariance or exhaustive future context coverage is not established. |"
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "9a014fc3cd685824b9a78025aed41d8fe41da149399f6011c259d6611a19c96f",
+        "line_text": "| G02 Yuuka council/club decision transfer | Hanae's projects and references to Engineering are not Yuuka decisions or completion of that domain. |"
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "aa4888759fc8cbdf3b2309a768e070600f676f15321f393f1b7121103fb7cea6",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Hanae's giving and company do not settle Serika's distinct range. |"
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "dded4d9d62b954207d217dcecc348d03b2854986b8b0872d045d18f59e8fe559",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Nursing comparison does not repair NK Ultra causality, restitution or Hina's ordinary transfer. |"
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "db24c07d379a499158d85b440403fb7632846665b3a58099de8c5d291bd67319",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Later V006 aid supplies bounded practice/report comparisons, not lasting Arius aftermath or PS68 repair. |"
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "b4214732bf410f2e8da63613d1d167e7ec36ff7dfdfdf10a625e969de11a03e4",
+        "line_text": "| G06 Cross-school ordinary repertoire | Utaha/Hanae's actual sports exchange and ordinary gifting broaden repertoire; clinical effect and permanent friendship remain unproved. |"
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "1bf8fcc555f6789b048cdbe1c8b1e44ab7fc1c7b89771bb7a1cc51bf9314241f",
+        "line_text": "| G07 Story-world chronology | Threads and local recalls are positive. Variant numbers, ranks, repeats and release do not date the family against main. |"
+      },
+      {
+        "frozen_line": 180,
+        "canonical_line": 190,
+        "line_sha256": "82d4ac7c17082af00d7987e006fbe9eca4a5c8b791b6f1ba9dbcb22000693314",
+        "line_text": "| G08 Event naming and repeat contexts | Gift007:124 and narrative007 remain separate; costume819/10819/900819 are documentary contexts, not repeated lives. Wider naming claims remain open. |"
+      },
+      {
+        "frozen_line": 181,
+        "canonical_line": 191,
+        "line_sha256": "eda2714244e60d63d4c5b4787d24b9540418768949ecc16221673102410b0b3d",
+        "line_text": "| G09 Written speaker/choice attribution | Private thug seams, nonmonotone u37, single/convergent choices, actorless timed passages, public repairs and implicit replies constrain claims. Uncertain MINI labels remain qualified. |"
+      },
+      {
+        "frozen_line": 182,
+        "canonical_line": 192,
+        "line_sha256": "696f73753defff56a0688a06e9d827000fa195a5775d1ef22a09ec98a1abc91f",
+        "line_text": "| G10 Performed voice | No audio or audiovisual performance was received; written cheer, song and rhythm do not supply acting. |"
+      },
+      {
+        "frozen_line": 183,
+        "canonical_line": 193,
+        "line_sha256": "525df4b3750fbeed135cceab1f4e72ba42aa14f9670a6cd8306be9da89103b15",
+        "line_text": "| G11 Hoshino's Yume record and office states | Hanae's care, flora and angel simile do not authenticate those distinct records or office states. |"
+      },
+      {
+        "frozen_line": 184,
+        "canonical_line": 194,
+        "line_sha256": "41a1746d6eff0b518c5a347bf5de88c1d015d981f6e0f5b8cd3e963d340fa1c4",
+        "line_text": "| G12 Counterpart, system and variant identity | Positive family/costume routing supports bounded Hanae identity, not dated continuity, supernatural ontology or generic-role joins. |"
+      },
+      {
+        "frozen_line": 185,
+        "canonical_line": 195,
+        "line_sha256": "44ca9acea3ed8062936d7f94ac30448921a73c81bd2db948b0cb9df3d399b02a",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | Rest, drinking, craft, fall/catch, needle marks and aid remain finite. Dose, cure, credentials, permission, accounts, enforced conviction and durable repair need further warrants. |"
+      },
+      {
+        "frozen_line": 186,
+        "canonical_line": 196,
+        "line_sha256": "aa7ef50263d12ed0b1b95fa03895439063bd5766bb856a21a1988506a0ad56b1",
+        "line_text": "| G14 Unclassified/mode continuity | No unadmitted class is promoted; special/conditioned written registers do not become whole narrative or performance. |"
+      },
+      {
+        "frozen_line": 187,
+        "canonical_line": 197,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          5,
+          8
+        ],
+        "canonical_lines": [
+          5,
+          8
+        ],
+        "frozen_text": [
+          "version: \"1.0-author-candidate\"",
+          "status: working_draft",
+          "stage_state: READY_FOR_ROOT_RECEIVING",
+          "do_not_use_as_current_authority: true"
+        ],
+        "canonical_text": [
+          "historical_author_version: \"1.0-author-candidate\"",
+          "historical_author_status: working_draft",
+          "historical_author_stage_state: READY_FOR_ROOT_RECEIVING",
+          "historical_author_do_not_use_as_current_authority: true"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          16,
+          16
+        ],
+        "canonical_lines": [
+          16,
+          16
+        ],
+        "frozen_text": [
+          "canonical_target: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HANAE_CHARACTER_MONOGRAPH.md"
+        ],
+        "canonical_text": [
+          "historical_author_canonical_target: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HANAE_CHARACTER_MONOGRAPH.md"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          31,
+          38
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HANAE_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HANAE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          34,
+          33
+        ],
+        "canonical_lines": [
+          42,
+          43
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current receiving and publication boundary.** ROOT independently accepted this complete bounded character argument WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HANAE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual author/ROOT source scopes and historical controls. The [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HANAE_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves every frozen original line and exact byte tuple with a complete inverse. Earlier author pending, local-candidate and next-work wording remains creation-time provenance where retained. The predecessor63-package source at `cf2fba61c9e8448acdd2677f06d5258c051a6ba4` has a successful exact audit chain; this successor supplies persistence only after complete ROOT installation. Publication and main integration remain separate. This fixed ten-package64–73 batch has eight character and two directed arguments; it reaches73 packages (70 character,3 directed) only after that installation. Later live ROOT reviews are outside this snapshot. Scope355/29 and18 section-home allocations, the existing1 named-section completion, all14 original OPEN gaps and model0 remain unchanged; no quarter is reached. Reference translations are navigation/provenance transformations and add no primary, performance, independent literary or scope credit."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          188,
+          188
+        ],
+        "canonical_lines": [
+          198,
+          198
+        ],
+        "frozen_text": [
+          "The actual bounded textual conclusions require no additional primary replay; adequate accepted arguments preserve the consequential wording, alternative paths, actors and endpoints. Stronger clinical, physiological, performance, identity, chronology, procurement, permission or durable-reform claims require the missing evidence above and are not asserted. ROOT must independently receive and verify the whole saved candidate and decide canonical adoption. This author grants no acceptance or count. Mine remains the next assigned character; the Rescue institution, directed relationships, other cast packages, Sensei/register duties and later convergence/readiness/reconstruction/prediction responsibilities remain required at their distinct homes."
+        ],
+        "canonical_text": [
+          "The actual bounded textual conclusions require no additional primary replay; adequate accepted arguments preserve the consequential wording, alternative paths, actors and endpoints. Stronger clinical, physiological, performance, identity, chronology, procurement, permission or durable-reform claims require the missing evidence above and are not asserted. ROOT has independently received and accepted the whole bounded argument and exact provenance WITH LIMITS. The frozen author supplied no self-acceptance or count. Canonical persistence belongs to the separate complete ROOT installation; the Rescue institution, directed relationships, other cast packages, Sensei/register duties and later convergence/readiness/reconstruction/prediction responsibilities remain required at their distinct homes."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "reference_navigation_translations": [],
+  "original_full_author_and_root_transports": [
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_HANAE_CHARACTER_MONOGRAPH.md",
+      "bytes": 39639,
+      "sha256": "49fb247cd69b90f65be0d2443f0f1d1a967ed93034a200c8238a6f8e1e1c37ee",
+      "git_blob_oid_of_actual_bytes": "b13b5b3482146b45e435906c35f69ac6e5eff3b4",
+      "lines": 188,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_HANAE_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/HANAE_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 137860,
+      "sha256": "d2dfc217b9dd7fa2d27c2f758d947fff081bc15feb3efc7797e5b29bf1948980",
+      "git_blob_oid_of_actual_bytes": "d4bcac3c94ee0880ae3e6ffb3f6570cedd888e36",
+      "lines": 2819,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/HANAE_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/HANAE_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 3623,
+      "sha256": "e9c0f6c2e3a0fe702322c68fbc3726df646e0ffd614a1c55a5c631adef99e651",
+      "git_blob_oid_of_actual_bytes": "8b545066cf8faffbf657823d047d1d9fb7b4e7a4",
+      "lines": 63,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/HANAE_FROZEN_DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_HANAE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5365,
+      "sha256": "a038db7c6cebc92cf48c81de8829bf05eca96ba053a293a1725bab48a4921c0c",
+      "git_blob_oid_of_actual_bytes": "af7a3ee5989b7d892dd60ce9cbd3d430218ab350",
+      "lines": 76,
+      "immutable_transport_path": "immutable_originals/ROOT_HANAE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/HANAE_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 8832,
+      "sha256": "c5ea98035f193c68a23afc5998a031abec324ad46cf50f0381b56cccafe80815",
+      "git_blob_oid_of_actual_bytes": "110fee5a374675e3a456f6b967d52600f8762cd3",
+      "lines": 51,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/HANAE_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/HANAE_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 5675,
+      "sha256": "08f3e529faec96cbe6a6ff1cabbb5525290e646ec2e5cd37316eef44cdae5f2b",
+      "git_blob_oid_of_actual_bytes": "2e63ed8b25d7afefc7fd40f8c273a5bbfd91b84f",
+      "lines": 105,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/HANAE_CURRENT_WORKTREE_METADATA_PROBE.json"
+    }
+  ],
+  "substantive_literary_change": 0,
+  "new_primary_performance_independent_model_or_count_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

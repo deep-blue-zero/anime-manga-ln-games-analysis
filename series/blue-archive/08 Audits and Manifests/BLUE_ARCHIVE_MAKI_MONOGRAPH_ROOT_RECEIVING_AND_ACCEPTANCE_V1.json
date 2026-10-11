@@ -1,0 +1,131 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Maki",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MAKI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 5f0a24b56557f308e9cef31c7d1c2d58406ef49a, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "ROOT_MAKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 6808,
+    "sha256": "7b91ccb6e856a9a20806d86f69fbbeb753385c287774fb5535ac5e862eaae171",
+    "git_blob_oid_of_actual_bytes": "d4566c76c080547cf6c004aa9f3fd99bc8299360",
+    "lines": 81,
+    "immutable_transport_path": "immutable_originals/ROOT_MAKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_MAKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "628ba9c547cd5a55800e86ca0428d8fccb59ed27453352074cc7d6917a07e942",
+    "frozen_payloads_verified": 4,
+    "complete_current_R_bindings_verified": 17,
+    "explicit_historical_comparison_tuples_verified": 78,
+    "local_argument_metadata_bindings_verified": 14,
+    "prior_frozen_witnesses_verified": 22,
+    "paragraphs_exactly_joined": 54,
+    "source_link_paths_resolved": 10,
+    "source_endpoint_arguments": 20,
+    "substantial_sections": 11,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "ROOT_actual_receiving": {
+      "whole_body": [
+        "ded9561–56",
+        "81ae6257–112 clipped83–87",
+        "451bd883–87 complete repair",
+        "a25177113–168EOF"
+      ],
+      "source_binding_controls": [
+        "1124fe all17 current source inputs/scopes",
+        "2357a8 all14 local bindings/scopes",
+        "790792 nonarray controls; source-only historical family reference remains metadata-only"
+      ],
+      "complete_claim_fields": [
+        "2cbe2eMK001–018",
+        "13dd5bMK019–036",
+        "962a9fMK037–054",
+        "4b17ef all20 endpoints/11headers/14gaps/rivals/modes/remaining fields; paragraph text/hash and exact paths joined to whole saved body"
+      ],
+      "whole_saved_receipts": [
+        "9aa4e4 saved203EOF/all22 prior bindings",
+        "a0eeeb freeze96EOF"
+      ],
+      "fresh_complete_consequential_arguments": [
+        "b40c69M21L1–125",
+        "136224M21L126–254EOF",
+        "c376ceE81002268EOF",
+        "b4f5abFinalC003E00637EOF"
+      ],
+      "adequate_prior_scope": "07b1d6 whole original ROOT78-line adoption accepts complete selected21 family with distinct source-specific twelve individual judgments; earlier c7c4cf original family and81fe92 distinct report receiving are attributed historical custody. Fresh current whole254-line normal owner adequately preserves the nine full pairs and three written objects. All14 explicit local bindings independently verified; no fresh ROOT all12individual/primary/QA/native replay or custody asserted. Common G150/E817/E822/E832/E842/Pavane/Final accepted arguments retain their complete actor, recipient, mode, contrary and endpoint limits from prior ROOT review.",
+      "dated_wording": "Current Cycle008 and Phase3 govern original pending/unadmitted/unapplied/maintenance/merge language. Saved-output pending and66161-character wording describe the pre-locator stage; final seal records66160characters/168lines and revised physicalL209–215 locator. Originals unchanged.",
+      "E832_scope": "Actual115 is substantive Remaining duties, previously ROOT received through EOF; no retroactive historical114EOF or all-primary credit."
+    },
+    "semantic_grounds": [
+      "Color, texture, games, food, clothing, art, greeting and shared enjoyment carry intrinsic literary weight. Independent recipients select their surfaces, devices, records and participation.",
+      "Police release, apology and a promised canvas do not establish future property permission or restitution. Interrupted payment and proposed device changes retain recipients and uncompleted repairs.",
+      "Failed test, quick local literary understanding and notebook specification joke are different outcomes. Retest success is separately reported; no fixed genius/fool or universal technical grade.",
+      "Shopping, icecream and actual cleanup coexist with a broken promise and planned owner apology. Later new-wall invitation supplies local new permission, not retroactive consent; shared making and individuality reassurance stand independently.",
+      "Lonely mountain invitation, game inattention and acknowledgment lead to actual shared AR enjoyment. Firmware BOOM work, controller difficulty, missed crow and late game pleasure retain both success and failure.",
+      "Handmade thanks selects a particular shared memory. Drink promise, receipt sorting and gift acceptance are unprinted endpoints, not retrospectively completed reciprocity.",
+      "G150 distinguishes deliberate access/falsification/retaliation and retained data from accidental public destination. Chihiro rebuke, correction and continuing rumor do not erase privacy costs or establish full repair.",
+      "Camp imposed departure and erasure demand coexist with actual making, meals, wanted play, later voluntary choice and fatigue. Mural explanation is actual; completed erasure, universal rumor correction and permanent outdoor conversion are unprinted.",
+      "Party poster submission is deferred. Actual game enjoyment and Chihiro stress relief do not prove all assent. Failed mixing, wasted resources, blame shifting, Yuuka disclosure burden and next-day work remain independently owned.",
+      "Gift prank preserves alternative objections, claimed edible spray and selected sweet taste beside inspiration, apology and final direct-spraying prohibition. No advance permission, medical audit, completed city art or cured inconsistency.",
+      "Crisis support retains character reports and team contributions. Processor access is expressly short of control; self-destruct availability is not activation. No solo Maki authorship or completed evacuation inferred.",
+      "Hare, Kotama, Chihiro, Yuuka, Noa, Koyuki and sparse recipients retain independent wants, refusals and work. Generic roles, event-local Rei and game representations receive no guessed person joins.",
+      "Written36/56/44 contexts,8/8/blank profiles and17+17+10 repeated costume records remain writing, not multiplied biography or audiovisual performance. Maki/narrator/log seams, inward thought, alternative groups, whole messages and locale differences are retained.",
+      "Five serious rival readings are weighed against consequential contrary evidence; situated repertoire and moderate interpretation remain distinct from universal chronology, canonical romance, durable reform, technical safety and model promotion."
+    ],
+    "source_authority": "Cycle0083940supplements/480MAIN with limits; all14gapsOPEN/no modelpromotion",
+    "scope": "355packages/29namedsections unchanged; requiredP3-CHAR-MAKI; no dyadic, ensemble, institution or register completion from this monograph",
+    "progress": {
+      "previous_ROOTaccepted_packages": 55,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 56,
+      "character_packages": 55,
+      "directed_relationship_packages": 1,
+      "published_packages": 47,
+      "published_source_commit": "92184703994a1950a5660654ce52d8516dbe9bf5",
+      "published_source_audit_chain": "PASS_EXACT_SOURCE_HOUSEKEEPING_NOOP_FINAL",
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "quarter_reached": false
+    },
+    "new_primary_raw_performance_model_credit": 0,
+    "nine_unbound_large": "UNREAD_UNHASHED",
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-MAKI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MAKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 68015,
+    "sha256": "0a2d3a9455f85ce751937cc4d3880cd92528577629cc25fcb175442fa14338b1",
+    "git_blob_oid_of_actual_bytes": "d61966ab7dd68153bf392954143f313d4af3f529",
+    "lines": 181
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "Author completion here is bounded synthesis pending ROOT's complete review and adoption, with no new scope, denominator, named-section or milestone claim.",
+      "new": "The author's completed bounded synthesis was subsequently received and accepted by ROOT WITH LIMITS. Canonical persistence follows complete ROOT installation, with no new scope, denominator, named-section or milestone claim.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MAKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MAKI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative after complete ROOT installation. All fourteen original gaps remain OPEN at their claim-specific boundaries. The355-package/29-section scope and existing responsibilities are unchanged. The prior54-package source publication is `5f0a24b56557f308e9cef31c7d1c2d58406ef49a`; ROOT’s successful actual exact-head source/housekeeping/final chain is preserved separately as predecessor proof. This preparation supplies no successor adoption, publication, main integration, quarter, model or performed evidence before complete ROOT installation. Frozen author/control/progress snapshots retain their dated meaning."
+  ],
+  "exact_added_retrieval_title": "# Maki — vivid making, particular audiences and unfinished answerability",
+  "stable_original_gap_alignment": null,
+  "immutable_ROOT_count_cause_qualification": null,
+  "mandatory_private_semantic_erratum_public_projection": null,
+  "fixed_publication_snapshot": "Nine packages55–63 only;63aftercompleteROOTinstallation,54already source-published; later live ROOT acceptances excluded."
+}

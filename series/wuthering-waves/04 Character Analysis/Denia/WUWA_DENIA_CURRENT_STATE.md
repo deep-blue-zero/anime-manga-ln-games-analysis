@@ -16,7 +16,7 @@ audiovisual_analysis: pending
 
 The supplied pre-audiovisual V0.1 reconstruction packet is imported on `series/wuthering-waves` with **active_provisional** status. Audiovisual acquisition and direct analysis remain pending; this import does not complete a multimodal monograph or a human voice-performance review.
 
-Read [the packet entrypoint](WUWA_DENIA_ANALYSIS_PACKET_README.md), then [the character deep dive](WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md), its evidence/falsification matrix, and the specialist profiles. All 11 supplied documents are present under their original filenames.
+Read [the packet entrypoint](WUWA_DENIA_ANALYSIS_PACKET_README.md), then [the character deep dive](01%20Evidence%20and%20Source-Facing/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md), its evidence/falsification matrix, and the specialist profiles. All 11 supplied documents are present under their original filenames.
 
 Drive evidence bridge: `1RCrb3zpoAF05f9_YEC4CJ62zY9CoehrV`. Source commit: `353f2eaed119bc9f680eab92807d20ac75a79b40`; Chinese is the primary textual witness, with Japanese, Korean, and English localization witnesses.
 
@@ -24,6 +24,6 @@ See [the import record](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTE
 
 ## Bounded static visual layer
 
-The [V0.2 visual-design profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Denia's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. This completes only a three-image default-presentation study; runtime motion, rear construction, alternate forms/skins, scene staging, and human voice-performance review remain open.
+The [V0.2 visual-design profile](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Denia's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. This completes only a three-image default-presentation study; runtime motion, rear construction, alternate forms/skins, scene staging, and human voice-performance review remain open.
 
 The next analytical step is the pending AV evidence pass described by the packet. Collection plans and stress-test scenarios are not completed observations or new source evidence.

@@ -41,7 +41,7 @@ The public play, archive stories, memories, and later explanations must remain t
 
 ## Current bounded state route: Sigrika
 
-Sigrika's owner-adopted packet supplies a character-local multi-state chronology in `04 Character Analysis/Sigrika/WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md` and its compiled model. Route S0–S7 labels through that profile rather than treating list order as a simple linear biography: the later state/form distinctions include overlays and context-dependent availability. Archive/favor material, retrospective records, and dark-side counterpart evidence retain their own source and identity types. The three unresolved occurrence identities and conflicting source-freeze metadata prevent stronger title-wide chronological closure.
+Sigrika's owner-adopted packet supplies a character-local multi-state chronology in `04 Character Analysis/Sigrika/01 Evidence and Source-Facing/WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md` and its compiled model. Route S0–S7 labels through that profile rather than treating list order as a simple linear biography: the later state/form distinctions include overlays and context-dependent availability. Archive/favor material, retrospective records, and dark-side counterpart evidence retain their own source and identity types. The three unresolved occurrence identities and conflicting source-freeze metadata prevent stronger title-wide chronological closure.
 
 ## Open chronology work
 

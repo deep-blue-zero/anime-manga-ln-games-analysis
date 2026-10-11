@@ -270,7 +270,22 @@ class PhaseValidationTests(unittest.TestCase):
             "crosswalk/materialization-results.jsonl",
             "crosswalk/path-plan.jsonl",
         }
-        self.assertEqual(set(by_path), {*crosswalk_paths, idoly_path})
+        blue_archive_path = (
+            "series/blue-archive/06 Evidence and Indexes/"
+            "BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md"
+        )
+        blue_archive_csv_path = (
+            "series/blue-archive/06 Evidence and Indexes/"
+            "BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv"
+        )
+        self.assertEqual(
+            set(by_path),
+            {*crosswalk_paths, idoly_path, blue_archive_path, blue_archive_csv_path},
+        )
+        self.assertEqual(len(exceptions), 6)
+        self.assertEqual(policy["review_threshold_bytes"], 1048576)
+        self.assertEqual(policy["generated_structured_default_external_bytes"], 10485760)
+        self.assertEqual(policy["hard_exception_threshold_bytes"], 26214400)
         for path, row in by_path.items():
             with self.subTest(path=path):
                 data = (ROOT / path).read_bytes()
@@ -290,6 +305,42 @@ class PhaseValidationTests(unittest.TestCase):
                     by_path[path]["review_decision"],
                     "OWNER_AUTHORIZED_G7_AGGREGATE_PROVENANCE_CLOSURE",
                 )
+        blue_archive_row = by_path[blue_archive_path]
+        self.assertEqual(blue_archive_row["bytes"], 1135497)
+        self.assertEqual(
+            blue_archive_row["sha256"],
+            "396168a919bab2e2f7dfc865c29d10a107ea0e5ac045230ec16f3943ca915059",
+        )
+        self.assertEqual(
+            blue_archive_row["exception_id"],
+            "BLUE_ARCHIVE_CYCLE007_MAIN_COVERAGE_396168A9",
+        )
+        self.assertFalse(blue_archive_row["allow_utf8_bom"])
+        self.assertFalse(blue_archive_row["allow_carriage_returns"])
+        blue_archive_csv_row = by_path[blue_archive_csv_path]
+        self.assertEqual(blue_archive_csv_row["bytes"], 1076962)
+        self.assertEqual(
+            blue_archive_csv_row["sha256"],
+            "0b4c0034e9c9b0bb1f7c3298c54df3735841b614cf1871b755c9633fd2ab6bcf",
+        )
+        self.assertEqual(
+            blue_archive_csv_row["exception_id"],
+            "BLUE_ARCHIVE_CYCLE007_SUPPLEMENTAL_CROSSWALK_0B4C0034",
+        )
+        self.assertFalse(blue_archive_csv_row["allow_utf8_bom"])
+        self.assertFalse(blue_archive_csv_row["allow_carriage_returns"])
+        for row in (blue_archive_row, blue_archive_csv_row):
+            with self.subTest(blue_archive=row["path"]):
+                self.assertEqual(
+                    row["review_decision"],
+                    "ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1",
+                )
+                external_reason = row["external_reference_insufficient"]
+                self.assertIsInstance(external_reason, str)
+                self.assertTrue(external_reason.strip())
+                self.assertEqual(external_reason, external_reason.strip())
+                self.assertNotIn("\n", external_reason)
+                self.assertNotIn("\r", external_reason)
 
     def test_production_furina_commonmark_exception_is_exactly_bound(self) -> None:
         policy = json.loads(

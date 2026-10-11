@@ -1,21 +1,27 @@
 ---
-title: "Eris — reconstruction evidence routes through V06"
+title: "Eris — reconstruction evidence routes through V15"
 artifact_id: MT_ERIS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "3dc6b173b044abdafc013dc989bd96914620d13d"
-source_boundary: "Japanese LN V01–V06; preserved history with V06 revision 1.2; publication/audit separate."
+basis_commit: "992e696dabd6acf5646e3498a5fd20c46267c580"
+source_boundary: "Japanese LN V01–V15; V15 revision 1.7, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Eris evidence routes
+
+Current revision1.7 admits locked Japanese V01–V15, based on audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580` plus complete V15. Earlier scope/count statements below are historical snapshots; the appended V15 section owns current applicability. No earlier state acquires later knowledge.
+
+Current revision1.6 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
+
+Current revision1.5 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
 Local key Eris, LN_JP; global entity/subject IDs null. This index routes the [model](RECONSTRUCTION_MODEL.md) to canonical observations, never a second source chronology. VNN:NNN abbreviates `MT-E-LNJP-VNN-NNN`.
 
@@ -54,3 +60,66 @@ V05 adds focalized interior access without making Rudeus's earlier readings omni
 New source-owned observations resolve in [V06](../../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings): `003–004,014–016,018,020–025`. The [disclosure checkpoint](../../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) records changed knowledge premises. Operational tests `V10–13; states ST07–08/S070–072` are in the model's V06 section; its rule-specific rows give supporting observations and countercases. Earlier routes and tests remain historical, not a current evidence ceiling.
 
 The new source is read after the prior fixed rules, but selection and franchise familiarity prevent a clean holdout claim. Attributed claims, retrospective motives and current actions remain separate; no generated scenario enters evidence. All readiness stays BOUNDED_PROVISIONAL, with no global enrollment or mature monograph.
+
+
+## V09 additions — revision 1.3
+
+[V09](../../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings) owns observations; the [shared state ledger](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) owns events.
+
+| Test / rule scope | Observation route and contrast | Limit |
+| --- | --- | --- |
+| EM-V14 / practice continuity | V09: 033–034: arrival after chosen departure, current persistent training and goal. | 001 supports domain-specific effort despite defeat; two-year flashback not current age. |
+| EM-V15 / force and rank | V09: 033: unorthodox victories, continuing force, defeat by Gal and exceptional rank award. | 002 exact loyalty-defense trigger UNTESTED; proportionality remains a comparative concern. Rank is not every technique or general moral competence. |
+| EM-V16 / idealized companion | V09: 034: Rudy-oriented affection and insufficiency persist; Nina rivalry not initially shared. | 003/006 support specific appraisal/direct talk, not knowledge of Rudy rejection or repaired communication. |
+| EM-V17 / negative opportunity | V09: 035: Nina changes behavior after misreading public duel; no represented reciprocal peer repair by Eris. | 004 UNTESTED; narrated future rivalry cannot backfill a present event. |
+
+New selectors: ST09 (S130), ST10 (S130). Prior test/evidence routes remain historical. No DOMAIN_READY or global registry change.
+
+## V10 additions — revision 1.4
+
+[V10 observations](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings) `027–029` support new selectors ST11 / shared S153 and tests V18, V19, V20. Current rule/state/test counts are in the model; earlier counts above are historical. The [cumulative checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) assesses narrow untested triggers, countercases and activation. No global enrollment or clean holdout.
+
+## V13 additions for revision 1.5
+
+[V13 observations](../../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST12–ST13 and checks V21–V23. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 13 states and 23 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST12–13 (034–037) adds matchup-specific defeat, shared technique and chosen rest; intense effort now permits modification, rank not transitive ladder. |
+| 002 | No equivalent threat-to-loved-person trigger. Training bouts are agreed/structured differently; do not translate combat success into protective proportionality. |
+| 003 | ST13 advice accepted partly through remembered R (037); Nina account partly invented, no new informed reunion with R or knowledge of his marriage. |
+| 004 | ST12–13 (035–036) provides reciprocal peer exchange after complementary skill recognized; Isolte initially unconscious/unconsulted, so later collaboration not retroactive permission. |
+| 005 | No comparable intimate boundary or gift encounter; memory and bath choice (037) do not authorize imagined current romance. |
+| 006 | ST12–13 (036–037) gives concrete explanation, listening and direct request for clarification; Isolte mediation improves uptake, no rigid inarticulate persona. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V14 additions for revision 1.6
+
+[V14 observations](../../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST14–ST15 and checks V24–V26. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 15 states and 26 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST14–15 (035–036) redirects force learned from North style into speed to defeat faster-base Nina; concrete adaptive mechanism, no proven victory over Orsted. |
+| 002 | ST14 imagined team fight/sacrifice (035) is prospective protection intent, not observed emergency action. Elder report of future death (031) cannot become current calibration. |
+| 003 | ST14–15 (035–036) attachment includes chosen return, but no new received-care encounter or knowledge of present household. Elder characterizes her love; interlude independently supplies her own aim. |
+| 004 | ST15 Nina/Gino remain competitors with own plans (036); no fresh friendship repair trial or inferred agreement to Eris sacrifice. |
+| 005 | No represented new intimate negotiation with R. Elder marital advice (031) is not her present consent or a communicated relationship agreement. |
+| 006 | ST14–15 (035–036) direct answers and refusal to seek title by killing teacher reflect particular aims; limited speech does not mean inability to reason. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V15 additions for revision 1.7
+
+[V15 observations](../../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST16–ST18 and checks V27–V32. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 18 states and 32 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST16–18 (013/021–022/025/034–035) uses specific learned techniques, teaches Norn and adapts under superior opponent. Institutional misreading and earlier punch limit all-domain discipline; title not equal Orsted strength. |
+| 002 | ST16–17 (013/020–022/035) acts protectively, cooperates and risks self; proportionality contextual. Threat at the household entrance explicitly bluff, not intent to murder; rescue not solo victory. |
+| 003 | ST16–18 (013/025–028/032–036) attachment includes insecurity, actual words, willingness to accept genuine rejection and choice to belong. Silence does not equal rejection; original future diary report not present consent. |
+| 004 | ST16 Nina/Isolte friendship includes reassurance and punch (013); ST18 wives offer new peer accommodation (033–035), near analogy not repetition of every old friendship conflict. |
+| 005 | ST17–18 (025–028) actual proposal and intimacy now test communication. Spoken mutual agreement replaces duel; her force/pacing and R assent both retained. No blanket consent from marriage. |
+| 006 | ST16–18 (013/020–026/032–036) limited/ambiguous speech creates mistakes but she can reason, apologize, teach and ask identity question. Literacy aid does not establish independent complete reading; felt Zenith answer not verified speech. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

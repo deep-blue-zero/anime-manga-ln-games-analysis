@@ -1,0 +1,1595 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+    "bytes": 41281,
+    "sha256": "e3b6e71510497bd00dcd5312875e16b34bece10de19348ab393ec8b914405bd3",
+    "git_blob_oid_of_actual_bytes": "3a72feb7616e83cf1fecaa43c850e41cf0e713e2"
+  },
+  "frozen_claim_register_qualification": "The nested claim register retains original paragraph/line coordinates and exact original support meaning. Use the exhaustive frozen→canonical saved line joins and changed range texts in the current saved-output receipt; historical addresses are never presented as current addresses.",
+  "canonical_saved_line_mapping": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_NOA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+  "public_exact_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_NOA_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "historical_frozen_claim_and_endpoint_register": {
+    "schema": "BLUE_ARCHIVE_PHASE3_NOA_CLAIM_AND_ENDPOINT_V1",
+    "status": "AUTHOR_VERIFIED_ROOT_RECEIVING_PENDING",
+    "claims": [
+      {
+        "claim_id": "NO01",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 20,
+        "joined_saved_paragraph": "Noa's recording role is a chosen practice with pleasures, criteria and costs. It cannot exhaust a person who likes administrative review, coffee, books, poetry, views, plain food, sensory comfort and company. Nor can its declared neutrality settle her use of another person's information. The sustained question across the received arguments is how she handles the difference between attending to someone, preserving a record and responding to what that person wants. She can observe accurately, help materially, protect privacy and offer particular care; she can also refuse a request to stop, withhold relevant suspicion, control a teasing test or press a private disclosure. Expertise and warmth do not turn those different acts into one invariant ethic. [N01:P01–P08/W01–W04/family:L732–778; G31; E42]",
+        "source_locator_expressions": [
+          "N01:P01–P08/W01–W04/family:L732–778; G31; E42"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Expertise/warmth not invariant neutrality/permission; quiet wants intrinsic",
+        "directed_recipients_and_agency": "Noa own tastes and adult/Yuuka resisting recipients",
+        "actual_endpoint_and_unfinished_coda": "Accurate/helpful/protective acts coexist with stop refusal, withholding and pressure",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO02",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 22,
+        "joined_saved_paragraph": "Her own self-expression makes that difference especially visible. She fears that putting a particular loved-poem preference on paper would fix it, yet writes and submits her own poetry in a different written context. She calls her chosen sparse room her personality and keeps a private diary even from Sensei. Window writing allows wanted company without requiring permanent inscription; room trials allow a wanted response without making any decorative object a cure. These are selective boundaries and tastes, rather than a blank person waiting for an adult to supply a self. A stain can become a proposed memory and still meet an insensitive practical reply. [N01:P04–P08/W01/W02]",
+        "source_locator_expressions": [
+          "N01:P04–P08/W01/W02"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "No blank person/adult-supplied self/poetry contradiction or secured stain content",
+        "directed_recipients_and_agency": "Noa chooses permanence/room/diary and wants recognition",
+        "actual_endpoint_and_unfinished_coda": "Shared window writing; decoration failures; misunderstood stain",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO03",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 24,
+        "joined_saved_paragraph": "The account also needs recipients whose freedom is not measured by her intentions. The observed adult becomes unable to work and asks her to stop; Yuuka objects to public disclosure and takes an unpleasant drink instead; Koyuki experiences pursuit and pressure; Rio's intentions remain outside Noa's complete knowledge. Noa's actual apology for possible discomfort in the party argument and acceptance of a student assurance are positive responses, but neither retroactively authorizes every earlier method. Her own private-withholding boundary is legitimate while the uneven extension of similar control to others remains a serious contrary. [N01:P01/P03/W02; E42:002/009–015; G31:3103]",
+        "source_locator_expressions": [
+          "N01:P01/P03/W02; E42:002/009–015; G31:3103"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Intent/apology/student reassurance not retroactive authorization",
+        "directed_recipients_and_agency": "Adult stopping request/Yuuka privacy/Koyuki pursuit/Rio unknown intention",
+        "actual_endpoint_and_unfinished_coda": "Actual apology positive; uneven boundaries and costs remain",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO04",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 26,
+        "joined_saved_paragraph": "Public action broadens the argument beyond private teasing. She helps construct a device whose promised competence is not demonstrated, assesses Alice's safety differently from Yuuka, and dispatches timely C&C reinforcements after trusting Seia and her own hunch. She also contributes to festival work whose inclusive intentions meet reluctant participants and unfinished repair. The achieved build, early departure, arrival, revision and ordinary shared time must be retained; reliable prophecy, complete safety, legal permission and universal satisfaction remain unproved. The thesis is selective and consequential attention by a person with wanted life, not an infallible neutral memory or a purely manipulative essence. [G31; F36; F45/F04; E17; E21]",
+        "source_locator_expressions": [
+          "G31; F36; F45/F04; E17; E21"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Build/arrival not calibrated prophecy/safety/legal permission/all happiness",
+        "directed_recipients_and_agency": "Noa action with Seia/Toki/Alice/participants independent choices",
+        "actual_endpoint_and_unfinished_coda": "Build/early departure/arrival/revision achieved at bounded scope",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO05",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 30,
+        "joined_saved_paragraph": "The registered responsibility is BA_PERSON_CH0095, Noa, with positive10052/10109 routes: eight BOND/whole-MomoTalk pairs and four complete written objects. Local callbacks order particular encounters, including the earlier recorder reference, next-day illness visit, porridge reciprocity and spare-pajama/stain return. The patent thread retains nine messages after an interior Favor launch; those messages include the reported federal return and renewed request to stop. Counts and suffixes are retrieval witnesses, not a developmental mechanism. No absolute MAIN-to-private date or necessary base-to-pajama growth ladder follows. [N01:L206/L286–688/L748; C03:G07/G12/G14]",
+        "source_locator_expressions": [
+          "N01:L206/L286–688/L748; C03:G07/G12/G14"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "No counts-driven development/global calendar/base-pajama ladder",
+        "directed_recipients_and_agency": "Accepted CH0095 two routes/local callbacks",
+        "actual_endpoint_and_unfinished_coda": "Eight pairs/four objects; nine-message patent tail retained",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO06",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 32,
+        "joined_saved_paragraph": "The base repertoire already crosses work, asymmetry and wanted expression. First duty becomes a pleasurable recording exercise after ordinary work is already finished, but it impedes the adult's work. Mutual observation then produces a controlled outfit quiz and a narrow confirmed shoe inference. Patent review in sunlight is enjoyed work, with several articulated criteria, yet a teacher-location proposal meets a privacy dispute and a reported later return. A canceled meeting and rainy visit then allow shared writing and talk about a loved poem she hesitates to fix on paper. These are distinct local experiments with attention, rather than four stages in a guaranteed ethical education. [N01:P01–P04]",
+        "source_locator_expressions": [
+          "N01:P01–P04"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Neither expertise lesson nor guaranteed ethical improvement",
+        "directed_recipients_and_agency": "Adult work/privacy and Noa enjoyed review/poetry",
+        "actual_endpoint_and_unfinished_coda": "Impeded work/misleading quiz/reported return/shared writing",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO07",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 34,
+        "joined_saved_paragraph": "The pajama repertoire likewise begins with choices already hers. An illness visit gives permitted entry and an actual meal in a room she deliberately keeps sparse. A later invitation tests decorations that fail recipient fit before a scent is enjoyed. She subsequently visits the sick adult, serves her own lightly seasoned food and reads at his request, while offered bill processing and clinical recovery remain unprinted. Shared work then produces an actual coffee stain and changed clothes, followed by a missed emotional cue and continuing irritation. Care and recognition do not improve monotonically across these endings. [N01:P05–P08]",
+        "source_locator_expressions": [
+          "N01:P05–P08"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Blankness chosen; care not monotonic growth or clinical proof",
+        "directed_recipients_and_agency": "Noa admits/chooses fits; adult receives her care/misses cue",
+        "actual_endpoint_and_unfinished_coda": "Meal/failed decor/enjoyed scent/served reading-sleep/irritation",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO08",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 36,
+        "joined_saved_paragraph": "Public comparisons introduce different audiences and responsibilities. GROUP3101–3103 joins curiosity, finite budgets, affection, help and selective warning; the sports event joins organizer leisure to participant reluctance, revised offers and a tired opening. Final joins competing safety assessments to timely distributed help, while the year-end party joins privacy protection to a disclosure game and a wish for ordinary days. Those contexts can qualify an invariant secretary portrait without being arranged into a fabricated worldwide sequence. The party afterstories revisit its night; their position after the next-afternoon scene does not put every exchange after that afternoon. [G31; E17; F36/F45/F03/F04; E42:localorder]",
+        "source_locator_expressions": [
+          "G31; E17; F36/F45/F03/F04; E42:localorder"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "No fabricated chronology/afterstories placed after afternoon",
+        "directed_recipients_and_agency": "Distinct public participants and company responsibilities",
+        "actual_endpoint_and_unfinished_coda": "Partial build/festival/Final/party outcomes with local order",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO09",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 38,
+        "joined_saved_paragraph": "The most defensible arc is therefore a repertoire whose callbacks change exact meanings. The adult's earlier stain metaphor can inform Noa's memory-stain remark without proving that he completed her identity. Shared meals can establish reciprocity without fixing who caused illness or completing every promised favor. A particular early dispatch can reopen Toki's apparent no-help alternative without validating a general future-reading mechanism. Quiet failed recognition and successful public assistance remain equally necessary to this bounded account. [N01:P05–P08; F45/F04]",
+        "source_locator_expressions": [
+          "N01:P05–P08; F45/F04"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Earlier stain metaphor not completed identity/clinical causality/future-reading law",
+        "directed_recipients_and_agency": "Adult practical/Noa emotional meanings and Toki receiving help",
+        "actual_endpoint_and_unfinished_coda": "Reciprocity/missed recognition/early arrival without universal mechanism",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO10",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 42,
+        "joined_saved_paragraph": "Neutrality is a stated practice rather than an absence of selection. Noa chooses tiny routine and bodily details for the first diary: yawning, coffee replenishment and a stray cat. The timestamps are quoted records, not independently timed observations; a possible sale is not completed disclosure or payment. When the adult asks her to stop she records the request, and narration represents severe impediment to work. The adult's inward resignation and her gratitude cannot substitute for clear permission. Her pleasure is real and the recipient's objection is real. [N01:P01,10052:002u0023–0046]",
+        "source_locator_expressions": [
+          "N01:P01,10052:002u0023–0046"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Timestamps not independently timed/sale not paid/resignation not assent",
+        "directed_recipients_and_agency": "Noa pleasure versus adult work and explicit stop request",
+        "actual_endpoint_and_unfinished_coda": "Actual work impediment; request recorded rather than honored",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO11",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 44,
+        "joined_saved_paragraph": "The reverse-observation scene does not simply expose an incompetent observer before a perfect one. Noa agrees locally to mutual observation, then sets a quiz whose implied clothing change never occurred. The adult's fatigue, failure and her delight are represented; the conditional single favor is never earned or enacted. The complete message thread nevertheless gives a narrow inference about shoes supported by the adult's confirmation. Actual attentiveness and a controlled misleading test coexist. Neither the failure nor the success establishes a total forensic or psychological certification. [N01:P02,10052:003/whole100520090]",
+        "source_locator_expressions": [
+          "N01:P02,10052:003/whole100520090"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Controlled failure not observer incompetence/total Noa certification",
+        "directed_recipients_and_agency": "Adult accepts reciprocal observation, fails misleading quiz",
+        "actual_endpoint_and_unfinished_coda": "No favor earned; narrow shoe inference confirmed",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO12",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 46,
+        "joined_saved_paragraph": "Privacy can be something she protects and something she presses. Her written pajama diary is explicitly withheld from Sensei; at the party she confiscates a covert recorder for privacy. She also locally permits a teacher-location proposal despite his objection, and later directs questions toward Yuuka's private feelings in a drink-or-disclose game. These are different scopes and different recipient responses. Her own boundary is not made illegitimate by the inconsistency, and the protective intervention is not made fictional; equally, neither can serve as proof that she always honors others' termination or disclosure choices. [N01:P03/W02; E42:003/014]",
+        "source_locator_expressions": [
+          "N01:P03/W02; E42:003/014"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Own privacy legitimate; protection not proof of always respecting others",
+        "directed_recipients_and_agency": "Noa diary/recorder boundary; adult tracking objection/Yuuka refusal",
+        "actual_endpoint_and_unfinished_coda": "Confiscation positive; permitting proposal/pressing disclosure limited",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO13",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 48,
+        "joined_saved_paragraph": "Blankness and plainness are positive choices. The sparse room has necessities and excludes decorations she finds subjective; she explicitly identifies its resulting character as her own. Lightly seasoned food is her taste, not evidence of a colorless self. Warm milk, night silence, books, scent, body comfort and quickly passing days off supply further differences. A portrait that treats every neutral color or restrained flavor as deprivation would erase the choices the argument actually gives her. No diagnosis or concealed essential self is needed to make those choices substantial. [N01:P05–P07/W02]",
+        "source_locator_expressions": [
+          "N01:P05–P07/W02"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Chosen plainness not blank self/diagnosis or deprivation",
+        "directed_recipients_and_agency": "Noa room/food/milk/night/rest bodily choices",
+        "actual_endpoint_and_unfinished_coda": "Explicit chosen room character and particular tastes",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO14",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 50,
+        "joined_saved_paragraph": "Her frustration also prevents a uniformly inscrutable or invulnerable persona. Visible decorations fail despite goodwill; the loved-poem preference remains something she fears fixing; meaningful stains meet literal washing advice; poetry submission carries a wanted-feedback problem. These outcomes locate her within relationships whose responses she cannot fully determine. Formal poise and teasing can coexist with being disappointed, ill, tired or misunderstood. They need not be reclassified as deliberate manipulations because an expert observer is presumed always in control. [N01:P04/P06/P08/W01/W02]",
+        "source_locator_expressions": [
+          "N01:P04/P06/P08/W01/W02"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Poise not invulnerability/all disappointment deliberate strategy",
+        "directed_recipients_and_agency": "Noa wants feedback/fit/recognition with independent responses",
+        "actual_endpoint_and_unfinished_coda": "Failed decor/fear fixing taste/irritated stain/feedback wish",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO15",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 54,
+        "joined_saved_paragraph": "Seminar's secretary role gives recording and patent work institutional form without making the person equivalent to a database. The profile's near-perfect memory wording ends in a hearsay-like qualification; a remembered blueprint is a capability report, not a demonstration of total capacity. In the private patent scene Noa distinguishes incomplete specification, discovery without practicable purpose and prior registration as different rejection criteria. She refuses help because sorting inventions is an activity she enjoys, and admires novelty while describing her own lack of genius or craft. The self-comparison does not prove incompetence or make invention the only valuable contribution. [N01:P03/W01]",
+        "source_locator_expressions": [
+          "N01:P03/W01"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Hearsay memory not measured total capacity/genius comparison not incompetence",
+        "directed_recipients_and_agency": "Noa enjoys review and differentiates rejection criteria",
+        "actual_endpoint_and_unfinished_coda": "Refuses help, articulates criteria; capability report stays report",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO16",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 56,
+        "joined_saved_paragraph": "GROUP's budget debate gives administrative possibility a genuine argument. Noa finds ideas interesting and reports an increase in advanced-technology inventions, while the underlying count remains uninspected. She says researchers choose their directions and seemingly meaningless work may become a foundation; Yuuka affirms possibility while distinguishing immediate funds from uncertain future connections. Neither claims rejected minor ideas have no personal or analytical value. The proposals preserve pain-reduction, less tool burden and hoped-for game income beside missing load capacity, novelty or a payer. Evaluation of a proposal is not exclusion of its maker's wants. [G31:3101u0065–0079/wholeproposals]",
+        "source_locator_expressions": [
+          "G31:3101u0065–0079/wholeproposals"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Proposal budget judgment not low-stakes maker value exclusion",
+        "directed_recipients_and_agency": "Noa curiosity/Yuuka finite funds/individual makers varied wants",
+        "actual_endpoint_and_unfinished_coda": "Possibility affirmed; current paying/load/novelty uncertainties",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO17",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 58,
+        "joined_saved_paragraph": "The future-observation proposal then makes authority uneven. Noa notices omissions, unsupported leaps, absent guarantees and costs equivalent to several clubs' quarterly budgets. Yuuka's confidence changes with Himari's prestige and later invokes the school's technological ideal; Noa reports Veritas's nonrecognition and Rio's funding instruction without an inspected charter or order. Yuuka chooses personal cost and hopes to recoup it. Noa agrees because the work seems interesting. Shared construction is achieved, but build completion is not evidence that the design can perform its promised comprehensive forecast. [G31:3102/3103u0006–0016]",
+        "source_locator_expressions": [
+          "G31:3102/3103u0006–0016"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Reported authority not inspected charter/build not forecast efficacy",
+        "directed_recipients_and_agency": "Yuuka chooses personal expense/Noa interesting help/Himari proposal",
+        "actual_endpoint_and_unfinished_coda": "Shared construction achieved; actual full competence unproved",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO18",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 60,
+        "joined_saved_paragraph": "The device's horoscope output differs from the metal-price trajectory requested. Chihiro separately contests Himari's astrology explanation, without the recipients of the device hearing that whole conversation. Noa later discloses qualified suspicion about a playful toy and says she was not asked; she expressly lacked certainty. Practical help and affection therefore coexist with an unoffered warning, rather than proving either flawless support or an omniscient deception planned from the outset. Yuuka bears personal cost, and the favorable titanium result is narrated with a hedge. It prevents a simple ruin verdict without proving calibration, audited profits or causal fortune machinery. [G31:3103u0026–0079]",
+        "source_locator_expressions": [
+          "G31:3103u0026–0079"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Qualified suspicion not planned omniscience/no-warning irrelevant; windfall hedged",
+        "directed_recipients_and_agency": "Yuuka bears cost/Noa lacked certainty/Chihiro independent dispute",
+        "actual_endpoint_and_unfinished_coda": "Toy suspicion disclosed; favorable result narrated, calibration/profit unknown",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO19",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 62,
+        "joined_saved_paragraph": "Event work keeps formal and private boundaries contested. The sports program's revision responds to expressed dissatisfaction without proving every consultation or repaired system complete. At year-end, Noa apologizes to Maki for a staffing-related poster schedule change, confiscates the covert game recorder, reassures uncertain security work and joins a private party that does not erase institutional accounts. The next afternoon's shared filing is ongoing, and Yuuka prevents departure until it is finished; neither fair compensation nor universal assent is shown. Noa's character package cannot discharge the separate Seminar institution, distributed-authority or directed Noa→Yuuka responsibilities. [E17:008–011; E42:003/010–015; G31]",
+        "source_locator_expressions": [
+          "E17:008–011; E42:003/010–015; G31"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Revision/filing not repaired system/completed accounts/full assent",
+        "directed_recipients_and_agency": "Participants/Maki wanted poster/peers fatigue/Yuuka imposes labor",
+        "actual_endpoint_and_unfinished_coda": "Apology/privacy protection ongoing work; separate homes required",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO20",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 66,
+        "joined_saved_paragraph": "Review in sunlight is wanted work, not merely duty performed under duress. Coffee, the cat and small routines interest her even when their recording inconveniences the adult. A memory expert's delight in detail can be an ordinary pleasure and an ethical problem simultaneously. The clothes quiz's sweet coffee appraisal and the later plain-food preference belong to their particular settings; they do not require a chemically changed cup or a single invariant taste identity. Her pleasure should remain visible without licensing the methods that obtain it. [N01:P01–P03/P07]",
+        "source_locator_expressions": [
+          "N01:P01–P03/P07"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Wanted detail not methodological license/one chemically altered or invariant taste",
+        "directed_recipients_and_agency": "Noa review/coffee/plain food; adult inconvenience",
+        "actual_endpoint_and_unfinished_coda": "Pleasure and work impediment coexist",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO21",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 68,
+        "joined_saved_paragraph": "The rainy window encounter gives expression a different duration. A reported rail problem cancels the meeting; an actual visit turns free time into company. Noa describes observation's demand with a compulsion-like simile and imagines how difficult a lack of stimulus is, but no diagnosis or deliberate created disturbance follows. Condensation allows writing that differs from permanent records. Her direct account of a loved poem supports liking and fear of fixing that preference; shared writing and conversation continue until the rain stops. Exact poem identification, inspected window pixels, later erasure and a permanent therapeutic cure remain outside the endpoint. [N01:P04,10052:006u0002–0047/whole100520330]",
+        "source_locator_expressions": [
+          "N01:P04,10052:006u0002–0047/whole100520330"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Compulsion simile not diagnosis/window pixels/poem ID/erasure/cure",
+        "directed_recipients_and_agency": "Noa loves old poem and fears fixing taste; chosen company",
+        "actual_endpoint_and_unfinished_coda": "Rail report/actual visit/shared writing-talk until rain ends",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO22",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 70,
+        "joined_saved_paragraph": "That reticence cannot become a rule that she never writes or shares poetry. The written baseline presents authored and submitted poetry with inadequate feedback, wanted view-sharing, furniture, dinner, birthday attention and recording for the unremembered dead. Those trigger-specific words are expressive evidence, not a judged anthology, installed room, completed meal invitation or performed annual ritual. Selectivity about one preference and public authorship in another context can coexist. The recurring literary question is recognition shaped by audience and medium, rather than the suppression of all taste. [N01:W01/P04]",
+        "source_locator_expressions": [
+          "N01:W01/P04"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Fear fixing one taste not never writing; UI submission not judged anthology",
+        "directed_recipients_and_agency": "Noa authors/submits/wants audience and mundane company",
+        "actual_endpoint_and_unfinished_coda": "Written expressive evidence; projected furniture/meals/ritual unperformed",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO23",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 72,
+        "joined_saved_paragraph": "Room trials make fit more important than prestigious objects. Trophies recalling recognized achievements, accessible books, a giant Peroro and an inflatable pool each fail Noa's local rest criteria; anticipated crowding, excess motivation, bad dreams and spills are not all experienced results. She nevertheless enjoys having her wish heard and admits comfort differs by person. The diffuser elicits a liked scent and an image of gentle sweetness and rain-wet lilies; her resemblance question is called a joke. A botanical ingredient, secure confession, permanent arrangement or fully recovered health is not thereby established. Attention matters despite repeated practical failure. [N01:P05/P06]",
+        "source_locator_expressions": [
+          "N01:P05/P06"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Anticipated bad outcomes not all enacted/botany/romance/permanent fix",
+        "directed_recipients_and_agency": "Noa rejects unsuitable prestige/play yet enjoys attention/scent",
+        "actual_endpoint_and_unfinished_coda": "Four failures; liked scent; joke/lasting decor/health limited",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO24",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 74,
+        "joined_saved_paragraph": "Reciprocal care retains her own body and taste. She visits on a holiday after reporting Seminar work finished, worries she caused the adult's illness, and receives his denial without a verified causal explanation. She changes clothes, tidies, prepares food and serves a lightly seasoned meal; the adult eats appreciatively and asks for her particular reading. Narrated sound sleep is an achieved local afterstate, not a clinical cure, and the offered bill-processing lacks a payment receipt. Her value is not general availability: a finite wanted act, taste and literary contribution are adequate. [N01:P07,10109:005u0007–0063/whole101090190]",
+        "source_locator_expressions": [
+          "N01:P07,10109:005u0007–0063/whole101090190"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Own care not general availability/caused illness/clinical cure/bill receipt",
+        "directed_recipients_and_agency": "Noa chosen visit/food/read; adult denies causality/appreciates",
+        "actual_endpoint_and_unfinished_coda": "Tidying/served food/reading/narrated sleep achieved; payment unprinted",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO25",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 76,
+        "joined_saved_paragraph": "The coffee-stain encounter refuses a tidy final reconciliation. During actual shared work Noa prioritizes the adult's hand, changes into stored pajamas and relates white clothing to memories stains might retain. Urgent washing advice misses that intended meaning, and she remains irritated. The full messages supply four uniforms, laundering difficulty, her reported Seminar standard and a prospective casual-clothes offer. Cooling the hand, washing, completion of the remaining work, later reconciliation and future display are unprinted. The stain is a meaningful cue without supplying its entire unstated content or a settled romance. [N01:P08,10109:006/whole101090300]",
+        "source_locator_expressions": [
+          "N01:P08,10109:006/whole101090300"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Unstated stain meaning not whole confession/burn diagnosis/healing/repair",
+        "directed_recipients_and_agency": "Noa cares for hand/wants memory; adult practical reply misses",
+        "actual_endpoint_and_unfinished_coda": "Actual spill/change; irritation persists; wash/work/reconciliation unprinted",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO26",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 78,
+        "joined_saved_paragraph": "Gift and party contexts extend the wanted life. Edible stationery makes calligraphy interest, a prank and limited material keeping time coexist; her tasted pleasure is actual within the text while adult eating or writing remains prospective. Festival preparation can be enjoyed beside limited athletic skill or reluctant participation. Night-campus games can feel excitingly improper, knowing rules can differ from experience, tied hair can feel cold, and a wished-for Rio visit can remain absent. Repeated UI bindings supply conditioned words and bodily preferences, not several independent parties, purchases or a performed lifelong leisure habit. [L89/E10; N01:W03/W04; E17; E42]",
+        "source_locator_expressions": [
+          "L89/E10; N01:W03/W04; E17; E42"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Gift/tastes/UI repeats not actual adult writing/multiple parties/performed habit",
+        "directed_recipients_and_agency": "Noa wants calligraphy/festival/night games/body comfort/Rio company",
+        "actual_endpoint_and_unfinished_coda": "Noa taste achieved; Rio wished not present; repeated bindings bounded",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO27",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 82,
+        "joined_saved_paragraph": "Noa's judgments can matter before their truth is completely secured. In Final's ship inspection, Yuuka fears another threat to Alice while Rio's whereabouts are unknown; Noa says she sent Alice and Game Development there because Rio likely controls Millennium more readily than the ship. These are competing safety rankings, with stated delegation and protective concern at secure group scope. Actor drift around self-addressing lines prevents minute voice assignment, and neither ranking establishes inspected Rio surveillance or guaranteed ship safety. Later actual dangers do not transform every earlier choice into a confidently known mistake or certify the safer counterfactual. [F36:u0014–0047; F03]",
+        "source_locator_expressions": [
+          "F36:u0014–0047; F03"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Safety rankings not inspected surveillance/guaranteed safer counterfactual",
+        "directed_recipients_and_agency": "Alice/GDD agency; Yuuka concern/Noa delegation; Rio whereabouts unknown",
+        "actual_endpoint_and_unfinished_coda": "Delegation stated secure group scope; actor drift/future dangers qualified",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO28",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 84,
+        "joined_saved_paragraph": "The early dispatch to Toki is a more concrete preparedness endpoint. Seia asks Noa after a foreboding she does not confidently identify as a dream; Noa trusts her and reports a hunch. A fast Millennium helicopter departed before the immediate crisis, and C&C seniors actually arrive, overturning Toki's expectation that help cannot reach her. That sequence supplies independent student initiative, not a newly printed Sensei order. The unnamed perceptive junior is not identified, Seia's mechanism is not calibrated and immediate arrival is not evacuation. The subsequent chapter reports escort; report, arrival, clearing begun and medical clearance remain different claims. [F45:u0036–0066; F04:E005–E008]",
+        "source_locator_expressions": [
+          "F45:u0036–0066; F04:E005–E008"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Hunch/foreboding not calibrated prophecy/unnamed junior join/medical clear",
+        "directed_recipients_and_agency": "Seia requests/Noa dispatches/Toki expected no help/C&C arrive",
+        "actual_endpoint_and_unfinished_coda": "Departure precedes crisis/arrival achieved; later escort reported",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO29",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 86,
+        "joined_saved_paragraph": "At the sports festival, competence and inclusion are partial and recipient-shaped. Noa appreciates participation yet admits reluctance, lacks certainty about opponents' motives and invokes others' wishes while rumors about sanctions remain rumors. Later expressed ridicule, ranking, unwanted gaze and physical-education humiliation explain dissatisfaction without backdating her knowledge. New contests and flexible entry are represented commitments; machinery is locally stopped and the opening is reached, but tired helpers, poor condition and complaints about late changes remain. Noa's expanded idea of everyone cannot make every proposal accepted or every person happy. [E17:001/004/006/008–011]",
+        "source_locator_expressions": [
+          "E17:001/004/006/008–011"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Unknown motives not retrospectively known/every proposal accepted or fun",
+        "directed_recipients_and_agency": "Reluctant participants/humiliated recipients/tired helpers",
+        "actual_endpoint_and_unfinished_coda": "Revised flexible offers/local stop/opening reached poor condition/complaints",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO30",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 88,
+        "joined_saved_paragraph": "The year-end pursuit makes a benevolent-intention interpretation equally bounded. Noa notices altered positions and later says she caught Sensei after noticing him earlier; she enjoyed the coordination and did not want to interrupt apparent fun. She then expressly admits she cannot know his experience and apologizes for possible discomfort. Koyuki's complaints, fear and concealment cannot be canceled by the pursuer's enjoyment. Actual joined games, Sensei's narrated enjoyment and a separate countdown supply positive company after capture, while legal confinement, free assent to each bargain and the beginning of the chase remain separately contested. [E42:002/004–010]",
+        "source_locator_expressions": [
+          "E42:002/004–010"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Pursuer enjoyment not recipient cost canceled/free assent/legal confinement proof",
+        "directed_recipients_and_agency": "Noa intent/adult unknown felt experience/Koyuki fear",
+        "actual_endpoint_and_unfinished_coda": "Caught/apology/games/narrated enjoyment/countdown positive, costs remain",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO31",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 90,
+        "joined_saved_paragraph": "Her privacy protection in the recorder confiscation and her pressure in Truth or Dare are material contrasts, not competing labels from which one must be chosen. Noa proposes the game partly to avoid wasting the unpleasant mixture, based on a nonclinical safety assessment. Yuuka rejects public disclosure of feelings and takes the drink; repeated questions leave almost all of it consumed by her rather than its creators. Other players call the one-sided card game unfun and Noa apologizes for excess. Those actual recipients and costs distinguish useful correction from a claim that every game was fair, harmless or freely revealing. [E42:003/011–014]",
+        "source_locator_expressions": [
+          "E42:003/011–014"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Nonclinical mixture assessment not harmless/fair/free disclosure",
+        "directed_recipients_and_agency": "Yuuka refuses feelings and drinks; others dislike one-sided game",
+        "actual_endpoint_and_unfinished_coda": "Almost all unpleasant drink goes to Yuuka; excess apology actual",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO32",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 92,
+        "joined_saved_paragraph": "Coalition work also admits ordinary endpoints. EVENT821's polite request to release a barrier and differentiated cooperation do not complete Hod removal inside that request scene; the later operation report is positive without assigning every causal step to Noa. In the party's nighttime exchange, Chihiro states responsibility limits and later declares local maintenance complete, while Noa wants peaceful daily continuity. Hope for tomorrow remains hope. These courtesy, care and continuity words matter without technical maxima, lifelong security or a general law that foreknowledge solves every crisis. [E21:010–012; E21 checkpoint:L131; E42:015]",
+        "source_locator_expressions": [
+          "E21:010–012; E21 checkpoint:L131; E42:015"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Request not Hod completion/every Noa causal step/lasting security guarantee",
+        "directed_recipients_and_agency": "Polite Noa/Koyuki cooperation/Chihiro responsibility/Noa continuity wish",
+        "actual_endpoint_and_unfinished_coda": "Later operation report positive; declared local maintenance/hope bounded",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO33",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 96,
+        "joined_saved_paragraph": "The recorder relation initially gives Noa a role she enjoys and the adult a problem he cannot simply end. Recording a stopping request can acknowledge its existence while refusing its practical force. The reverse-observation encounter supplies a locally accepted reciprocal activity, but the quiz's misleading premise means adult failure is not an impartial lesson whose terms only she knows correctly. These experiences prevent gratitude, a formal role or an apparently resigned inward line from establishing continuous consent. They also preserve the adult as a recipient with limited attention and work, rather than a flawless interpreter. [N01:P01/P02]",
+        "source_locator_expressions": [
+          "N01:P01/P02"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Formal role/gratitude/inward resignation not continuous consent; adult fallible",
+        "directed_recipients_and_agency": "Adult work/attention and locally accepted mutual watching",
+        "actual_endpoint_and_unfinished_coda": "Stop recorded not ended; misleading quiz/narrow confirmation retained",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO34",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 98,
+        "joined_saved_paragraph": "The tracking proposal extends that ethical issue into institutional language. Noa locally permits it under her stated criteria and believes there may be demand; the adult objects to privacy, and the complete thread reports a federal return followed by reapplication suggestions and a renewed plea to stop. No manufactured device, validated registration, actual tracking, consumer demand or legal disposition is established. The tail materially qualifies any account ending at initial approval. Her useful administrative skill does not make the adult's refusal analytically irrelevant. [N01:P03,10052:005u0047–0059/whole100520190tail]",
+        "source_locator_expressions": [
+          "N01:P03,10052:005u0047–0059/whole100520190tail"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Stated criteria not legal validity/device built/tracking/market demand",
+        "directed_recipients_and_agency": "Adult privacy and renewed stop plea versus Noa permitted proposal",
+        "actual_endpoint_and_unfinished_coda": "Nine-message full tail reports federal return/reapplication; no manufacturing",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO35",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 100,
+        "joined_saved_paragraph": "The adult can offer care without knowing the best answer. Noa admits him during illness and actually receives cooked porridge while symptoms continue. He offers a stain metaphor and decorating help; she grants latitude, but successive prestigious or playful objects fail fit. Their apologies and her enjoyment of attention remain positive rather than proof that the room has been permanently corrected. Her chosen blankness is not disqualified by accepting help. A helpful visit is a finite relation, not authority to redesign another person's identity. [N01:P05/P06]",
+        "source_locator_expressions": [
+          "N01:P05/P06"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Care not authority to redesign chosen identity/permanent correction",
+        "directed_recipients_and_agency": "Noa entry/food/room latitude and particular rejection; adult helpful yet limited",
+        "actual_endpoint_and_unfinished_coda": "Porridge actual/symptoms continue/decor fails/attention enjoyed",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO36",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 102,
+        "joined_saved_paragraph": "Reciprocity gives her more than a service function. The adult accepts her practical work, own food preference and particular reading; she worries about burden and illness while concrete care is achieved. The reading is supported by Noa-specific surrounding requests and a textual narrated endpoint, with timed/log-associated passages retaining their mode. No performed voice or inspected physiology is claimed. Written requests to be read to until sleep reverse the direction again as conditioned wants; their existence does not prove an enacted birthday reading or require care continuously. [N01:P07/W02]",
+        "source_locator_expressions": [
+          "N01:P07/W02"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Text/log association not performed voice/clinical cure/continuous entitlement",
+        "directed_recipients_and_agency": "Adult asks particular reading/Noa receives care in written wishes",
+        "actual_endpoint_and_unfinished_coda": "Own food/work reading/narrated sleep; birthday enactment unproved",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO37",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 104,
+        "joined_saved_paragraph": "The stain and countdown scenes both turn on recognition, but their endings differ. Practical washing advice leaves her irritated and its unstated personal meaning unresolved. The separate NewYear conversation explicitly addresses her indirectness and difficulty expressing wants; a printed inward teacher/student assurance receives thanks and a requested secret. That is not an observed romantic commitment, hand-holding or heard private thought certified by a response. Actual cleanup, sleep and return to Schale follow; the next afternoon returns to unfinished work and unequal demands. A positive communicative endpoint need not make every surrounding act exemplary. [N01:P08; E42:009–010]",
+        "source_locator_expressions": [
+          "N01:P08; E42:009–010"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Different endings not romance agreement/handholding/heard inward mind/complete fairness",
+        "directed_recipients_and_agency": "Noa misunderstood stain versus later thanks/secret/student reassurance",
+        "actual_endpoint_and_unfinished_coda": "Stain irritated; countdown positive; cleanup/sleep/return and ongoing work",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO38",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 108,
+        "joined_saved_paragraph": "Yuuka is more than an amused target. Noa's secure affection and accountant praise meet Yuuka's demand for practical help; actual difficult construction brings gratitude, and withheld suspicion brings anger. Noa's lack of certainty qualifies planned-deception claims, but it does not nullify the information asymmetry. In festival work, care, sleep and reciprocal help coexist with different knowledge and the helpers' fatigue. The gifts and party show Yuuka choosing wanted kindness and protecting privacy while also confining Koyuki and imposing later labor. These directions require a separate substantial Noa→Yuuka package; co-occurrence or character synthesis alone cannot discharge it. [G31:3101u0080–0089/3103u0006–0013/0068–0079; E17; E42]",
+        "source_locator_expressions": [
+          "G31:3101u0080–0089/3103u0006–0013/0068–0079; E17; E42"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Affection/help not transparency/no-warning canceled/character discharges relation",
+        "directed_recipients_and_agency": "Yuuka budget/privacy/rest choices independently directed",
+        "actual_endpoint_and_unfinished_coda": "Build thanks/anger/party kind gifts and coercive labor coexist",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO39",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 110,
+        "joined_saved_paragraph": "Yuuka's disclosure boundary is a particularly serious contrary to harmless teasing. She objects to saying her feelings publicly and drinks instead; the repeated game questions shift a material burden toward the participant protecting privacy. Taking the unpleasant drink is not disclosure, and a source question about future relations whose projected label conflicts cannot become her spontaneous confession. The adult is absent from the GROUP tease and does not reciprocate it. Noa's affection is real at its own direction without proving mutual romance, full transparency or permission to obtain any answer. [E42:014u0058–0086/015; G31:3103u0021–0024]",
+        "source_locator_expressions": [
+          "E42:014u0058–0086/015; G31:3103u0021–0024"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Drink not confession/projected speaker not Yuuka spontaneous romance/permission",
+        "directed_recipients_and_agency": "Yuuka protects disclosure; Noa affection has own direction; adult absent",
+        "actual_endpoint_and_unfinished_coda": "Objection/drinking actual; GROUP tease not adult reciprocal answer",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO40",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 112,
+        "joined_saved_paragraph": "Koyuki likewise retains a wanted holiday, fear, gifts and resistance. Her perception of Noa's pressure is attributed rather than omniscient, but her complaints and pursuit costs remain meaningful. Noa's praises of intuition stop short of an invented hidden explanation; her later possible Koyuki-pressure judgment in the written profile is tentative. The party's actual accepted pajamas and card gift, non-destructive drone suppression and games do not retroactively authorize confinement, silence or every loss penalty. Koyuki's proposed forehead flick establishes that particular origin, not a waiver over all future bodily penalties. [E42:002/004–014; N01:W02]",
+        "source_locator_expressions": [
+          "E42:002/004–014; N01:W02"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Attributed pressure not omniscience/gifts not retrospective penalty/body consent",
+        "directed_recipients_and_agency": "Koyuki wanted holiday/fear/resistance/particular penalty origin",
+        "actual_endpoint_and_unfinished_coda": "Accepted pajamas/card/games coexist with pursuit/confinement cost",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO41",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 114,
+        "joined_saved_paragraph": "Chihiro and Veritas contribute their own principles and pleasures. Security work has uncertainty and exhaustion; pressure to play BOOM does not disappear because Chihiro later enjoys it, and she does not win. Her refusal to take responsibility for others' choices and declared local maintenance are bounded actual meanings. The older GROUP privacy sequence provides institutional counterevidence through unauthorized disclosure, Chihiro's correction and continuing rumors; Noa is not invented as an actor there. Its comparison helps distinguish knowing from legitimate use while leaving these peers' responsibility independent of Noa's personal rule. [E42:003/012/015; G15:whole]",
+        "source_locator_expressions": [
+          "E42:003/012/015; G15:whole"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Enjoyment not no pressure/win/all lifetime security; Noa not G15 actor",
+        "directed_recipients_and_agency": "Chihiro own principles/Veritas conduct/Yuuka fairness independent",
+        "actual_endpoint_and_unfinished_coda": "Pressed BOOM later enjoyed not won; local maintenance/correction/rumors",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO42",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 116,
+        "joined_saved_paragraph": "Seia's request and Noa's trust have their own causal role in the early flight. Noa's dispatch is not borrowed from Sensei or reduced to confirmation that Seia predicts perfectly. Toki has asked for company and doubts rescue; the actual arrival changes that immediate option while later escort remains reported. Alice's chosen club identity, body and warning context likewise remain hers when Noa makes a competing safety assessment. Rio's motivations are not completely known because Noa says she understands them, and a costume wish that Rio joined is not attendance or reinstatement. [F36/F45/F04; E42:010; N01:W04]",
+        "source_locator_expressions": [
+          "F36/F45/F04; E42:010; N01:W04"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Student initiative not teacher order/prophecy proof/Noa complete Rio mind",
+        "directed_recipients_and_agency": "Seia asks/Noa trusts/Toki options/Alice club/body/Rio own intent",
+        "actual_endpoint_and_unfinished_coda": "Flight/arrival positive; escort reported; costume wish not attendance",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO43",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 118,
+        "joined_saved_paragraph": "Maki, Himari, Akane and the local makers retain distinct interests and limits. Maki's desired poster, schedule pressure and Noa's apology have value without final submission proof. Himari's blueprint and astrology dispute do not erase demonstrated technical contributions elsewhere; Noa's inference is not access to her whole intention. Akane's individual innovation proposal is not shared C&C policy. The unnamed material researcher and the device's output mode stay literal roles, not manufactured persons or generic crowds. Noa's secretarial attention belongs among differentiated people whose wants and knowledge are not interchangeable. [E42:003; G31:complete; M02/M21/M22]",
+        "source_locator_expressions": [
+          "E42:003; G31:complete; M02/M21/M22"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Peer proposals not Noa ownership/all C&C policy/forced maker identities",
+        "directed_recipients_and_agency": "Maki poster/Himari work/Akane innovation/local material roles",
+        "actual_endpoint_and_unfinished_coda": "Schedule apology and distinct interests; roles/device output stay bounded",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO44",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 122,
+        "joined_saved_paragraph": "Formal desu/masu and secretary language coexist with Yuuka-chan affection, teasing, asking, refusal and irritation. Her narrated historical explanation of Seminar, communication-form Himari witness and device output have different modes; they do not all become speeches heard by every participant. The memory profile's hearsay-like ending and the favorable financial coda's hedge narrow claims without eliminating positive literary testimony. Neither politeness nor a recording rule makes words an independent institutional certificate. No performed pitch, timing, acting or acoustic silence is supplied here. [N01:W01/L770; G31:mode/seams/coda; C03:G10]",
+        "source_locator_expressions": [
+          "N01:W01/L770; G31:mode/seams/coda; C03:G10"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Formalness/hedges not independent certificate/performed voice",
+        "directed_recipients_and_agency": "Noa written address/each actor information channel",
+        "actual_endpoint_and_unfinished_coda": "Mode-specific positive testimony, memory and windfall qualified",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO45",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 124,
+        "joined_saved_paragraph": "The window and reading passages need the same care. Timed narrator text and log labels associate a meaning with Noa in context but do not automatically make it secure audible confession or received performance. Direct surrounding words support her poetic liking and the depicted reading; they do not license a universal actor relabeling. Apparent responses to an inward adult question do not prove telepathy or turn every thought into heard speech. A scene002 counter restarts in the room encounter, so locators preserve the scene rather than silently flattening units. [N01:P02/P04/P05/P07/P08]",
+        "source_locator_expressions": [
+          "N01:P02/P04/P05/P07/P08"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Timed/log/inward not automatically heard confession/telepathy/relabel all",
+        "directed_recipients_and_agency": "Noa-specific surrounding requests and adult inward question preserve modes",
+        "actual_endpoint_and_unfinished_coda": "Direct poetry/depicted reading retained; room scene counter restart explicit",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO46",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 126,
+        "joined_saved_paragraph": "GROUP's seven raw speaking-segment seams materially constrain fine quotations. The future-Sensei question cannot securely establish Yuuka's spontaneous confession; clean objection, teasing, gratitude and work lines retain their meaning. The construction-fidelity reply is not an independent teardown just because a likely speaker can be suggested. The party has additional literal-heading seams whose grouped exchanges remain adequate for bounded acts but not universal individual reassignment. This synthesis retains inherited qualifications instead of selecting an actor solely because a line sounds like a familiar persona. [G31:seams3101u0090/3103u0004–0005/0021/0067; E42 checkpoint:L123–126]",
+        "source_locator_expressions": [
+          "G31:seams3101u0090/3103u0004–0005/0021/0067; E42 checkpoint:L123–126"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Plausible persona not speaker repair/fine quotation/teardown audit",
+        "directed_recipients_and_agency": "Clean Yuuka objection/Noa tease versus seven raw seams",
+        "actual_endpoint_and_unfinished_coda": "Secure grouped acts positive; universal individual reassignment refused",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO47",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 128,
+        "joined_saved_paragraph": "Written profiles and costumes are real repertoire at conditioned scope. Authored poetry, a withheld diary, milk, birthday reading requests, busy-time attention, games, body comfort and wished-for company do not require a whole enacted reply to become evidence. They nevertheless cannot be multiplied into observed visits by repeat contexts:817 and10817 have full twenty-row extents with a reduced nine-row900817 context;842/10842 have thirty-nine rows each inside one written object. An empty profile is not a hidden narrative, and knowing a game's rules is explicitly different from playing it often. [N01:W01–W04]",
+        "source_locator_expressions": [
+          "N01:W01–W04"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Conditioned written wants not multiple observed visits/hidden empty profile",
+        "directed_recipients_and_agency": "Noa authored poetry/diary/body/rest/birthday/games",
+        "actual_endpoint_and_unfinished_coda": "Full and reduced context extents retained; know rules not frequent play",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO48",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 130,
+        "joined_saved_paragraph": "The gift's language preserves playful interest and material impermanence. Noa presents an uncommon analogue medium in a digital-work account, stages apparent ink tasting and reveals chocolate; ordinary calligraphy interest need not be wholly dishonest because the purchase was not real ink. Japanese loved-person/heartfelt use and Korean mutual-exchange/love-like sweetness wording differ. Noa's tasted pleasure and an apology gift are positive, while actual adult consumption, completed message, exact recipient and confession remain unproved. The prospective writing material's short keeping time invites comparison with window impermanence without proving one underlying causal psychology. [L89:whole; E10:089context]",
+        "source_locator_expressions": [
+          "L89:whole; E10:089context"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Analogue interest not wholly dishonest/paper given not eating or confession",
+        "directed_recipients_and_agency": "Noa actual sweetness/prank/apology; unknown intended message recipient",
+        "actual_endpoint_and_unfinished_coda": "Chocolate reveal/taste actual; writing/keeping time prospect and locale asymmetry",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO49",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 134,
+        "joined_saved_paragraph": "The neutral-machine account explains formal role language and some useful detail but cannot explain chosen review, teasing, private diary, authored poetry, sensory fit, plain flavor or irritation. The blank-self account fails against her explicit chosen room character and varied wants. An adult-supplied-authentic-self narrative similarly fails when decorations do not fit and the adult misses the later stain meaning. Care can allow new expression without owning its source or making a sparse room objectively wrong. These counterexamples preserve the person beyond the expertise rather than making quiet interests depend on a heroic practical result. [N01:P01–P08/W01/W02]",
+        "source_locator_expressions": [
+          "N01:P01–P08/W01/W02"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Neutral machine/blank self/adult authentic-self rivals omit contrary wants",
+        "directed_recipients_and_agency": "Noa chooses review/room/poetry/food and experiences missed adult recognition",
+        "actual_endpoint_and_unfinished_coda": "Decor failures/stain irritation disprove guaranteed adult completion",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO50",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 136,
+        "joined_saved_paragraph": "The omniscient manipulator reading has real information asymmetry and pressure to explain, but overstates what Noa knows. She explicitly lacks certainty about the device, cannot know the chased adult's experience, admits indirectness, asks for recognition, receives an unfavorable response and has unverified judgments about Rio and Koyuki. A harmless-teaser reading makes the opposite mistake: requests to stop, privacy objections, work impediment and Yuuka's actual drinking are consequential. Apology and affectionate help retain value without making those costs false. Neither side can discard its contrary evidence as an exception to an essential personality. [N01:P01/P03/P08/W02; G31; E42:009–015]",
+        "source_locator_expressions": [
+          "N01:P01/P03/P08/W02; G31; E42:009–015"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Omniscient manipulator and harmless teaser each erase serious contrary",
+        "directed_recipients_and_agency": "Noa limited certainty/indirectness; adult/Yuuka stop/privacy/irritation",
+        "actual_endpoint_and_unfinished_coda": "Apology/help positive; costs and unproved judgments persist",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO51",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 138,
+        "joined_saved_paragraph": "The perfect-secretary or unreliable-everywhere opposition also fails. A narrow shoe inference is confirmed; useful patent criteria and build help are represented; the helicopter departure and arrival are achieved. Those results do not validate every recording, federal application, financial forecast, safety ranking or prophecy. Conversely, an inaccurate or unproved theory does not erase actual material assistance. Source-specific authority, actual completion and legitimate use are different questions, and the endings often answer only some of them. [N01:P02/P03; G31; F36/F45/F04]",
+        "source_locator_expressions": [
+          "N01:P02/P03; G31; F36/F45/F04"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Useful results not validate all forecasting/registration/privacy/prophecy",
+        "directed_recipients_and_agency": "Independent recipients/Noa finite help distinct source authority",
+        "actual_endpoint_and_unfinished_coda": "Shoe confirmation/build help/flight/arrival versus unproved theories",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO52",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 140,
+        "joined_saved_paragraph": "A romantic-totality reading misses equally important work, rest, poetry, appetite, sensory comfort and peer obligations. The loved-person gift formula has no secured intended recipient; the countdown receives a student assurance rather than a printed romantic agreement; the stain's meaning remains partly unstated. A pure-service reading misses Noa's wanted attention and ability to withhold her own diary. These limits do not prohibit relational interpretation, but require it to remain directed and proportionate to actual words and responses. Pleasure, memory and company need no exclusive relation label to be substantial. [L89; E42:009–010; N01:P04–P08/W01/W02]",
+        "source_locator_expressions": [
+          "L89; E42:009–010; N01:P04–P08/W01/W02"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Romantic totality/service-only fail independent wants/diary boundaries",
+        "directed_recipients_and_agency": "Noa wants poetry/taste/company; recipient unknown/student reassurance",
+        "actual_endpoint_and_unfinished_coda": "Gift prospective/stain unstated/countdown nonromance words bounded",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO53",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 142,
+        "joined_saved_paragraph": "Finally, successful festivities are not total consent or completed aftermath, and adverse methods are not absence of all enjoyment. Actual gifts, accepted food, shared writing, joined games, cleanup and local maintenance matter beside chasing fear, resisted disclosure, failed offers, exhaustion and ongoing compulsory work. A revised sports offer can be inclusive while a recipient remains dissatisfied; a helpful public dispatch can be timely while clinical safety remains unknown. The monograph gives the small wanted and failed experiences the same evidentiary discipline as the crisis, preserving both achievement and remaining cost. [N01; E17; E42; F45/F04]",
+        "source_locator_expressions": [
+          "N01; E17; E42; F45/F04"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Festivity not total consent/adverse conduct not no pleasure/all aftermath complete",
+        "directed_recipients_and_agency": "Wanted meals/writing/gifts/rest and recipients pressure/exhaustion",
+        "actual_endpoint_and_unfinished_coda": "Achieved cleanup/maintenance beside ongoing labor/failed offers",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO54",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 146,
+        "joined_saved_paragraph": "N01 is the maintained Noa private argument, personally received complete at declared137–1088 adoption/substantive/structured-control scope through EOF; its first136 metadata lines are not claimed fresh whole literary receiving. All eight complete pair meanings and four written arguments include actual codas, contrary results, choices and producer custody qualifications. G31 is personally prior whole received with necessary exact-locator recovery, and G15 is complete contextual peer privacy meaning, not an invented Noa appearance. M02/M21/M22 and prior F00 preserve accepted public comparisons; F03/F04 and F36/F45 are complete newly received analytical checkpoint/episode arguments. E17/E42/E21 are complete current event arguments. L89 is the whole historical gift argument qualified by Cycle008 and exact scoped E10 route/meaning/end-point clauses; no whole102-object E10 credit is claimed. Exact paths, byte/hash/blob bindings, saved paragraph joins and recipient/rival/end-point controls are supplied separately.",
+        "source_locator_expressions": [
+          "C01 architecture319–344/C02method/C03all14/C04wholeCycle008/C05-C06 selected ROOT scope/exact receipt NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Exact binding not whole primary/full E10/metadata1–136 receiving",
+        "directed_recipients_and_agency": "Complete selected analytic owners/codas/peers retain declared custody",
+        "actual_endpoint_and_unfinished_coda": "Whole and scoped receives distinguished, all endpoints/receipts supplied",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "G05",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G11",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO55",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 148,
+        "joined_saved_paragraph": "The modern admitted-generation pin remains distinct from older producer witnesses and historical pending/admission/grade statements. Current Cycle008 owns the accepted contextual meanings; it neither gives this author primary/native/performed/independent credit nor requires ritual replay of adequately received meanings. Architecture1.12 retains the same eleven character sections as main1.11. C05/C06 are current ROOT worktree355/29 scope controls, received only at exact summary/status and unchanged Noa/Neru-home scope, not whole full-cast semantic adjudication by this author. Historical353 scope bytes and all earlier frozen drafts remain preserved; mutable ROOT literary acceptance and publication counts are outside this source comparison.",
+        "source_locator_expressions": [
+          "C01 architecture319–344/C02method/C03all14/C04wholeCycle008/C05-C06 selected ROOT scope/exact receipt NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Current admission not producer replay/primary/performance/author entire cast review",
+        "directed_recipients_and_agency": "ROOT owns 355/29; historical353 and old drafts preserved",
+        "actual_endpoint_and_unfinished_coda": "Architecture eleven sections unchanged/current summary-only scope",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "G05",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G11",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO56",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 150,
+        "joined_saved_paragraph": "All fourteen gaps remain OPEN at actual claim scope. G01/G06 preserve further ordinary breadth and other persons beyond the full selected Noa repertoire; G02 keeps Yuuka's decision, expense, privacy and rest questions distinct from Noa's monograph; G03 supplies no Serika transfer; G04 does not settle Hina's crisis or ordinary duties; G05 does not repair Arius/PS68 aftermath; G07 preserves local callbacks without a worldwide costume/event calendar; G08 keeps gift089 suffix, reduced repeat contexts and title limits; G09 retains inward/log/narrator/option, actor-seam and localization differences; G10 supplies no performed voice or viewed room/window/gift pixels; G11 does not close Hoshino/Yume provenance; G12 preserves CH0095/10052/10109 and leaves the perceptive junior, maker roles and devices unjoined; G13 leaves privacy permission, contracts, application validity, actual tracking, clinical healing, bill payment, compensation, records repair, lasting security and final filing unproved; G14 preserves written/profile/UI/report/wish modes without universal enacted continuity. These limits do not exclude low-stakes wants.",
+        "source_locator_expressions": [
+          "C01 architecture319–344/C02method/C03all14/C04wholeCycle008/C05-C06 selected ROOT scope/exact receipt NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Fourteen gaps remain claim-specific OPEN, quiet wants not excluded",
+        "directed_recipients_and_agency": "Other persons/Yuuka relation/local roles/unknown junior independent",
+        "actual_endpoint_and_unfinished_coda": "Clinical/legal/records/calendar/body/performance tails unproved",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "G05",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G11",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "NO57",
+        "saved_monograph": "BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+        "saved_line": 152,
+        "joined_saved_paragraph": "The author considers this a complete bounded eleven-section literary candidate, with ROOT whole receiving and adoption pending. The lasting thesis is a recorder who has tastes and boundaries, chooses attention and disclosure, provides finite care and useful public help, and cannot guarantee another person's welcome or interpretation. Actual shared writing, meals, scent enjoyment, tidying, reading/sleep, device making, early dispatch/arrival, party cleanup and local maintenance are positive at their declared owners and actors. Work impediment, refused termination, unoffered suspicion, failed recipient fit, coerced disclosure burden, misunderstood stain and unfinished institutional tails remain. Neither this candidate nor its exactness completes a model, a distinct directed relation/institution home, the whole cast or a milestone.",
+        "source_locator_expressions": [
+          "C01 architecture319–344/C02method/C03all14/C04wholeCycle008/C05-C06 selected ROOT scope/exact receipt NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+        ],
+        "exact_tuple_home": "NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "extension_limit": "Author complete candidate not ROOT accepted/model/primary/other homes/milestone",
+        "directed_recipients_and_agency": "Noa chosen life and independent recipient welcome/interpretation",
+        "actual_endpoint_and_unfinished_coda": "Finite shared care/help/dispatch/party endpoints versus costs and unfinished tails",
+        "applicable_open_gaps": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "G05",
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G11",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete accepted analytical owners at declared personally received/reused scopes; source-primary inventories attributed, positive endpoints, serious contraries and mode limits retained.",
+        "ROOT_review": "PENDING"
+      }
+    ],
+    "eleven_headers": [
+      "## 1. Core thesis",
+      "## 2. Longitudinal arc",
+      "## 3. Public and private self",
+      "## 4. School and club role",
+      "## 5. Ordinary life",
+      "## 6. Crisis behavior",
+      "## 7. Relationship with Sensei",
+      "## 8. Major peer relationships",
+      "## 9. Language and written voice",
+      "## 10. Competing readings",
+      "## 11. Evidence route and remaining limits"
+    ],
+    "whole_saved_body_receiving": "a5afb9/9adf1c entire152line saved body plus final38/82/92 corrections d497c3/5680f3/b95fe6; final explicit L-prefix locator corrections20/30/122/126 personally received in this tool result",
+    "all14gaps": "OPEN",
+    "counts_not_literary_completion": true,
+    "original_primary_or_performed_or_independent_credit_added": 0,
+    "ROOT_literary_review": "PENDING",
+    "N_or_quarter_claimed": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_literary_or_source_credit": 0
+}

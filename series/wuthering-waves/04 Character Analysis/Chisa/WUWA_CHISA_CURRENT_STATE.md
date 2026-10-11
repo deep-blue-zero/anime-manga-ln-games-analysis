@@ -19,7 +19,7 @@ The twelve-document **CHISA_PRE_AV_REBUILD_V0_1** packet is owner-adopted **curr
 
 The original WUWA bootstrap created only this router. The later packet adds a deep dive, evidence/falsification matrix, reconstructive profile, relationship/state profile, ordinary-life profile, perception/care/temporal-continuity profile, speech/machine-voice profile, prior-baseline reconciliation, AV nomination plan, human-retrieval crosswalk, fidelity/stress test, and packet README. It does not establish a completed integrated AV monograph or compiled JSON model.
 
-Read the [packet README](WUWA_CHISA_ANALYSIS_PACKET_README.md), [deep dive](WUWA_CHISA_CHARACTER_DEEP_DIVE_PRE_AV.md), and [evidence/falsification matrix](WUWA_CHISA_EVIDENCE_AND_FALSIFICATION_MATRIX.md), then the relevant specialist profile. The [import record](../../08%20Audits%20and%20Manifests/WUWA_CHISA_PRE_AV_REBUILD_IMPORT.md) and its manifest record provenance and the distinction between publication and analytical authority.
+Read the [packet README](WUWA_CHISA_ANALYSIS_PACKET_README.md), [deep dive](01%20Evidence%20and%20Source-Facing/WUWA_CHISA_CHARACTER_DEEP_DIVE_PRE_AV.md), and [evidence/falsification matrix](01%20Evidence%20and%20Source-Facing/WUWA_CHISA_EVIDENCE_AND_FALSIFICATION_MATRIX.md), then the relevant specialist profile. The [import record](../../08%20Audits%20and%20Manifests/WUWA_CHISA_PRE_AV_REBUILD_IMPORT.md) and its manifest record provenance and the distinction between publication and analytical authority.
 
 ## Evidence route
 
@@ -38,13 +38,13 @@ The existing Drive bridge reports (historical extraction accounting):
 
 All 18 reviewed generic candidates are rejected as Chisa solo speech. Generic WhoId 178 is not globally mapped.
 
-The supplied rebuild reports 211 contextual scene/action records, 50 claims, 60 evidence bundles, 36 non-blind fidelity probes, and 24 narrative AV targets. Its [source reconciliation](WUWA_CHISA_PRIOR_BASELINE_AND_SOURCE_RECONCILIATION.md) distinguishes the 2,429 render associations from **2,421 distinct supplied PCM/FLAC identities**, explaining eight reused associations. These are packet-reported results, not a new independent readback of the underlying Drive data.
+The supplied rebuild reports 211 contextual scene/action records, 50 claims, 60 evidence bundles, 36 non-blind fidelity probes, and 24 narrative AV targets. Its [source reconciliation](04%20Validation%20and%20Readiness/WUWA_CHISA_PRIOR_BASELINE_AND_SOURCE_RECONCILIATION.md) distinguishes the 2,429 render associations from **2,421 distinct supplied PCM/FLAC identities**, explaining eight reused associations. These are packet-reported results, not a new independent readback of the underlying Drive data.
 
 Direct AV review, raw-audio listening, and comprehensive machine-voice profiling remain unperformed in this rebuild. Earlier monograph/model comparison and selected player-option antecedents remain incomplete.
 
 ## Bounded static visual layer
 
-The [V0.2 visual-design profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Chisa's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. The three-image default-presentation study does not execute the 24 scene targets, establish animation/body-language habits beyond authored poses, or complete human listening.
+The [V0.2 visual-design profile](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Chisa's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. The three-image default-presentation study does not execute the 24 scene targets, establish animation/body-language habits beyond authored poses, or complete human listening.
 
 ## Analytical warning
 

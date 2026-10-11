@@ -17,7 +17,7 @@ This title-wide ledger records cross-character relationship edges only after the
 
 ## Current analyzed edges
 
-The bootstrap contains one mature relationship package: Cartethyia V0.2. Its detailed authority remains `04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md`.
+The bootstrap contains one mature relationship package: Cartethyia V0.2. Its detailed authority remains `04 Character Analysis/Cartethyia/01 Evidence and Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md`.
 
 | Edge | Current analytical state | Evidence density | Main unresolved issue |
 |---|---|---|---|
@@ -33,13 +33,13 @@ The bootstrap contains one mature relationship package: Cartethyia V0.2. Its det
 
 Aemeath, Denia, and Lynae now have supplied pre-AV relationship/state analyses with `active_provisional` status. Their detailed edges and qualifications remain in the character-local profiles; no additional edge adjudication or audiovisual review was performed during import.
 
-- `Aemeath`: `04 Character Analysis/Aemeath/WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md`.
-- `Denia`: `04 Character Analysis/Denia/WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md`.
-- `Lynae`: `04 Character Analysis/Lynae/WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md`.
+- `Aemeath`: `04 Character Analysis/Aemeath/01 Evidence and Source-Facing/WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md`.
+- `Denia`: `04 Character Analysis/Denia/01 Evidence and Source-Facing/WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md`.
+- `Lynae`: `04 Character Analysis/Lynae/01 Evidence and Source-Facing/WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md`.
 
-Chisa's owner-adopted current provisional packet routes to `04 Character Analysis/Chisa/WUWA_CHISA_RELATIONSHIP_AND_STATE_PROFILE.md`. It preserves source-specific relationship and chronology qualifications; importing it adds no independently adjudicated edges and retains its declared text/audio scope and pending AV questions.
+Chisa's owner-adopted current provisional packet routes to `04 Character Analysis/Chisa/01 Evidence and Source-Facing/WUWA_CHISA_RELATIONSHIP_AND_STATE_PROFILE.md`. It preserves source-specific relationship and chronology qualifications; importing it adds no independently adjudicated edges and retains its declared text/audio scope and pending AV questions.
 
-Sigrika's owner-adopted current provisional packet routes to `04 Character Analysis/Sigrika/WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md`. Its character-local edges, attachment/obligation thesis, and state qualifications are routed here without turning co-occurrence, counterpart material, or machine-acoustic similarity into independently adjudicated title-wide relationship facts.
+Sigrika's owner-adopted current provisional packet routes to `04 Character Analysis/Sigrika/01 Evidence and Source-Facing/WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md`. Its character-local edges, attachment/obligation thesis, and state qualifications are routed here without turning co-occurrence, counterpart material, or machine-acoustic similarity into independently adjudicated title-wide relationship facts.
 
 ## Edge contract
 

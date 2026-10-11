@@ -4,13 +4,13 @@ artifact_id: RAG_SUMI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V005-V030, with long V019-V027 and V029 negative-evidence intervals."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V005-V036, with long V019-V027 and V029 negative-evidence intervals."
 ---
 
 # Sumi Sakurasawa reconstruction model
@@ -53,13 +53,15 @@ model_basis:
     - RAG-JP-EPUB-V028
     - RAG-JP-EPUB-V029
     - RAG-JP-EPUB-V030
-  admitted_through_volume: V030
-  narrative_time_boundary: "after Sumi visits Chizuru's house, bandages Kazuya's cut, and hears his concern about the no-present birthday request"
+    - RAG-JP-EPUB-V031
+    - RAG-JP-EPUB-V036
+  admitted_through_volume: V036
+  narrative_time_boundary: "after bringing a birthday cake and sweater to Chizuru, learning the active household, and hearing Chizuru's uncertainty directly"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
-  model_revision: "1.1"
+  model_revision: "1.2"
   prior_knowledge_limitations:
-    - "No post-V030 narrative evidence is admitted."
+    - "No post-V036 narrative evidence is admitted."
     - "Kazuya does not hear Sumi's V012 confession."
     - "No precise diagnosis for Sumi's severe communication difficulty is established."
     - "V013-V016 and V019-V020 contain no material observed Sumi conduct."
@@ -278,7 +280,7 @@ uncertainties:
 ~~~yaml
 state_id: SUM-S006
 valid_from_source: "V030 0167"
-valid_until_source: null
+valid_until_source: "V031 0004"
 entry_conditions:
   - "Sumi visits the house before Chizuru's birthday while the three-person residence is active."
 active_goals:
@@ -299,6 +301,38 @@ evidence_refs:
 uncertainties:
   - "Whether she directly speaks with Chizuru about the birthday."
   - "Whether any gesture occurs or is welcomed."
+~~~
+
+### SUM-S007 — birthday giver and private listener
+
+~~~yaml
+state_id: SUM-S007
+valid_from_source: "V031 0005"
+valid_until_source: null
+entry_conditions:
+  - "Sumi brings a prepared birthday cake to Chizuru's house."
+active_goals:
+  - offer Chizuru friendship and birthday care
+  - check on Chizuru after Sayuri's death without requiring an answer
+known_propositions:
+  - "Kazuya and Mini now live in Chizuru's inherited house."
+  - "Chizuru credits Kazuya's support yet does not know whether she loves him romantically."
+relationship_conditions:
+  - "Sumi's care for Chizuru has its own direct friend channel."
+  - "Her earlier unreceived feeling for Kazuya remains outside his knowledge."
+changed_from_previous:
+  - BIRTHDAY_CAKE_AND_SWEATER_GIVEN
+  - HOUSEHOLD_RESIDENCE_CONFIRMED
+  - CHIZURU_PRIVATE_UNCERTAINTY_HEARD
+evidence_refs:
+  - RAG-E-V031-002
+  - RAG-E-V031-003
+  - RAG-E-V031-004
+  - RAG-E-V031-005
+  - RAG-E-V031-006
+uncertainties:
+  - "How she manages knowledge of cohabitation among other audiences."
+  - "Whether friendship develops outside care-focused visits."
 ~~~
 
 ## Behavioral rules
@@ -417,7 +451,7 @@ Use Japanese manga written speech and represented nonverbal channels only. Sumi 
 
 Supported with caution: a patient one-to-one conversation with a concrete purpose; a gift or outing that permits preparation; an indirect grief disclosure; a hospital visit with a simple support goal; a paid consultation that she can explicitly end before offering friendship help.
 
-Require extra assumptions: unfamiliar large-group improvisation, family response, independent work management, direct romantic rejection, conflict with another friend, financial sustainability, or any action after V030.
+Require extra assumptions: unfamiliar large-group improvisation, family response, independent work management, direct romantic rejection, conflict with another friend, financial sustainability, or any action after V031.
 
 Abstain whenever the outcome depends on diagnosing her communication difficulty, treating silence as consent, assuming Kazuya heard the confession, or converting planned supportive competence into whole-person social fluency. Generated scenarios cannot become canon evidence.
 
@@ -426,3 +460,9 @@ Abstain whenever the outcome depends on diagnosing her communication difficulty,
 The model is admitted as `PARTIAL_MODEL`. Channel substitution, preparation, care planning, and co-presence recur across practice dates, gift consultation, a planned aquarium route, hospital visiting, grief disclosure, and a self-funded friend excursion. The recurring method is supported, but nearly all strong cases involve Kazuya and structured helping. Sparse independent goals, ordinary routine, spontaneous conflict, broad provider performance, and sparse conduct after V018 prevent operational-candidate status.
 
 V030 adds direct conduct after the gap: Sumi visits, treats Kazuya's cut, and listens to his specific birthday boundary concern (RAG-E-V030-008). The small care route recurs in a less formally prepared setting, but one instance does not validate broad spontaneous competence, a romantic outcome, or authority to override Chizuru's request. The local readiness remains PARTIAL_MODEL.
+
+V031 extends the prepared-care pattern from helping Kazuya to direct friendship with Chizuru. Sumi brings a separate cake and sweater, offers a hug, and listens while Chizuru explains Kazuya's importance and her inability to classify it as love (RAG-E-V031-002 through RAG-E-V031-006). She learns the actual household arrangement, but does not become an omniscient interpreter or answer-giver. Her capacity for low-pressure one-to-one support is better evidenced; independent goals and broad spontaneous conflict remain sparse, so readiness stays PARTIAL_MODEL.
+
+## V036 local validation
+
+V036 gives Sumi private reflection on the V035 sighting: she connects it to what Chizuru told her about uncertainty and to her knowledge of shared residence, while withholding contact and any claim of certainty. This is a limited information-state development, consistent with a quiet listening role rather than proof of romance or the rental booking context (RAG-E-V036-001).

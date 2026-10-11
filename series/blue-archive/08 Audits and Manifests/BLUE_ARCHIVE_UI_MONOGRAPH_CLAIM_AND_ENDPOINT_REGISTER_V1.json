@@ -1,0 +1,538 @@
+{
+  "schema": "BLUE_ARCHIVE_PHASE3_UI_CLAIM_AND_ENDPOINT_V1",
+  "status": "ROOT_COMPLETE_LITERARY_RECEIVING_ACCEPTED_WITH_LIMITS",
+  "claims": [
+    {
+      "claim_id": "UI01",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 44,
+      "joined_saved_paragraph": "The selected private routes supply concrete changes in practice. In10035:002 a complaint about outsiders becomes an actual invitation after recognition. Ui offers her sole gate key to reduce the burden of visiting, but it is returned and advance contact by MomoTalk becomes the arrangement. They actually read together. In10035:003 the adult's emergency response to a missing “child” misreads a missing book; the book is found near sunset and her whole message tail thanks him for more than the recovery. Accommodation respects the object without pretending it was a lost pupil. [U01:375–381]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "375–381;base002/003",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No general access charter; book-child metaphor not pupil.",
+      "directed_recipients_and_agency": "Returned sole key and advance contact preserve both participants.",
+      "actual_endpoint_and_unfinished_coda": "Actual shared reading, recovered book at sunset, thanks beyond recovery.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G12"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 30,
+      "frozen_author_joined_saved_paragraph": "The selected private routes supply concrete changes in practice. In10035:002 a complaint about outsiders becomes an actual invitation after recognition. Ui offers her sole gate key to reduce the burden of visiting, but it is returned and advance contact by MomoTalk becomes the arrangement. They actually read together. In10035:003 the adult's emergency response to a missing “child” misreads a missing book; the book is found near sunset and her whole message tail thanks him for more than the recovery. Accommodation respects the object without pretending it was a lost pupil. [U01:375–381]"
+    },
+    {
+      "claim_id": "UI02",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 46,
+      "joined_saved_paragraph": "In10035:005 she initiates an unusually large exchange notebook to learn more about the teacher. Its practical burden is solved by leaving it at the library. Subsequent narration actually makes it a book-comment space because MomoTalk already serves ordinary communication. In10035:006 an intentionally open door qualifies entry, help accompanies local deciphering work and the task ends before she sleeps. The adult blankets her and leaves; the whole tail invites another visit and anticipates more enjoyable work. Neither the functioning notebook nor finished local labor means every future entry exists, every volume is deciphered or every access limit has expired. [U01:383–389]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "383–389;base005/006",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No all-volume decipherment, every later entry, applied patches or blanket access.",
+      "directed_recipients_and_agency": "Ui initiates notebook, chooses help, adult adapts size/contact.",
+      "actual_endpoint_and_unfinished_coda": "Actual notebook comments and finished local labor; subsequent invitation remains future.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 32,
+      "frozen_author_joined_saved_paragraph": "In10035:005 she initiates an unusually large exchange notebook to learn more about the teacher. Its practical burden is solved by leaving it at the library. Subsequent narration actually makes it a book-comment space because MomoTalk already serves ordinary communication. In10035:006 an intentionally open door qualifies entry, help accompanies local deciphering work and the task ends before she sleeps. The adult blankets her and leaves; the whole tail invites another visit and anticipates more enjoyable work. Neither the functioning notebook nor finished local labor means every future entry exists, every volume is deciphered or every access limit has expired. [U01:383–389]"
+    },
+    {
+      "claim_id": "UI03",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 48,
+      "joined_saved_paragraph": "Event812 has its own explicit same-day chain. Ui first meets Hinata that day, refuses to abandon damaged scripture, defines conservation materials and guards the library against being used destructively. The cake errand returns an imperfect treat she receives gratefully, while the missing medicine still prevents work from starting. Materials become sufficient, she permits tired visitors to rest and takes the specialist stage herself. After sleep and conversation, a shortened ceremony deadline creates pressure; restoration is later announced complete and the book physically handed over. These differentiated states prevent the early promise, material preparation and accomplished handoff from collapsing into one instantaneous expert feat. [E03:s1:u0092–0145; E08; E10; E11; E13:s1:u0003–0040]",
+      "support": [
+        {
+          "source_id": "E03",
+          "accepted_argument_locator": "s1:u0092–0145",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E08",
+          "accepted_argument_locator": "whole argument",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E10",
+          "accepted_argument_locator": "whole argument",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E11",
+          "accepted_argument_locator": "whole argument",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E13",
+          "accepted_argument_locator": "s1:u0003–0040",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Promises, preparation, completed restoration and handoff are distinct; technical efficacy not independently tested.",
+      "directed_recipients_and_agency": "Ui independent book-care motive, finite professional/privacy limits; Hinata material effort.",
+      "actual_endpoint_and_unfinished_coda": "Materials ready, visitors actually slept, restoration reported complete/book physically handed over.",
+      "applicable_open_gaps": [
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 34,
+      "frozen_author_joined_saved_paragraph": "Event812 has its own explicit same-day chain. Ui first meets Hinata that day, refuses to abandon damaged scripture, defines conservation materials and guards the library against being used destructively. The cake errand returns an imperfect treat she receives gratefully, while the missing medicine still prevents work from starting. Materials become sufficient, she permits tired visitors to rest and takes the specialist stage herself. After sleep and conversation, a shortened ceremony deadline creates pressure; restoration is later announced complete and the book physically handed over. These differentiated states prevent the early promise, material preparation and accomplished handoff from collapsing into one instantaneous expert feat. [E03:s1:u0092–0145; E08; E10; E11; E13:s1:u0003–0040]"
+    },
+    {
+      "claim_id": "UI04",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 58,
+      "joined_saved_paragraph": "Private invitation also does not establish a general public rule. The café is explicitly for the two, and advance contact retains ownership of a key. The adult's continued search and conversation after her request to be left alone remain a boundary cost even where later discussion helps. In Event812 rest is offered with an explicit expulsion condition about discussing smell; no violation is printed. In the island library coffee and thanks coexist with a demand that visitors leave. These scenes offer specific welcome rather than either universal exclusion or unrestricted access. [U01:375–409; E10:s1:u0017–0027; A01:015]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "375–409",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E10",
+          "accepted_argument_locator": "s1:u0017–0027",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "A01",
+          "accepted_argument_locator": "015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Private negotiated hospitality not public access law or retrospectively validated pursuit.",
+      "directed_recipients_and_agency": "Requested solitude and conditional welcome retain recipient costs.",
+      "actual_endpoint_and_unfinished_coda": "Contact arrangement, actual rest, café/private restriction, island visitor departure.",
+      "applicable_open_gaps": [
+        "G06",
+        "G07",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 44,
+      "frozen_author_joined_saved_paragraph": "Private invitation also does not establish a general public rule. The café is explicitly for the two, and advance contact retains ownership of a key. The adult's continued search and conversation after her request to be left alone remain a boundary cost even where later discussion helps. In Event812 rest is offered with an explicit expulsion condition about discussing smell; no violation is printed. In the island library coffee and thanks coexist with a demand that visitors leave. These scenes offer specific welcome rather than either universal exclusion or unrestricted access. [U01:375–409; E10:s1:u0017–0027; A01:015]"
+    },
+    {
+      "claim_id": "UI05",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 68,
+      "joined_saved_paragraph": "Event828 puts skill into a negotiated institutional setting. Sakurako states that historical scripture may be read by anyone but copying should be discussed; Ui fears punishment and Hanako criticizes the intimidating approach. An investigation is negotiated in exchange for overlooking copying, and Sakurako actually does overlook it after receiving the report. This is an actual disposition, not a complete consultation charter or proof the frightening imagined punishment occurred. Original-map loss, a new map, an omitted capsule matter and future policy or repayment have different endpoints. [A01:002/015]",
+      "support": [
+        {
+          "source_id": "A01",
+          "accepted_argument_locator": "002/015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Imagined torture not enacted; actual overlooking not complete charter, future policy or restitution.",
+      "directed_recipients_and_agency": "Hanako negotiation, Sakurako actual disposition and incompletely informed authority.",
+      "actual_endpoint_and_unfinished_coda": "Report accepted/copying overlooked; new map versus lost original and omitted matter distinct.",
+      "applicable_open_gaps": [
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 54,
+      "frozen_author_joined_saved_paragraph": "Event828 puts skill into a negotiated institutional setting. Sakurako states that historical scripture may be read by anyone but copying should be discussed; Ui fears punishment and Hanako criticizes the intimidating approach. An investigation is negotiated in exchange for overlooking copying, and Sakurako actually does overlook it after receiving the report. This is an actual disposition, not a complete consultation charter or proof the frightening imagined punishment occurred. Original-map loss, a new map, an omitted capsule matter and future policy or repayment have different endpoints. [A01:002/015]"
+    },
+    {
+      "claim_id": "UI06",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 70,
+      "joined_saved_paragraph": "Ui's choice to rebury the capsule with a contemporary map is part of the research's conclusion and a disputed allocation of knowledge. She acknowledges reporting duty while arguing that leaving traces and companionship can be an object's purpose beyond exhibition. Hinata assents from conscience and Hanako withholds the capsule matter; they do not all derive one motive from the expert. Similarly, the secret perfect-copy claim at Event812's close is Ui's report, not inspected equivalence or a completed disclosure of scripture contents. Expertise can sustain an institutional question about stewardship, access and reporting without granting automatic immunity from it. [A01:014–015; E15:s1:u0045–0053]",
+      "support": [
+        {
+          "source_id": "A01",
+          "accepted_argument_locator": "014–015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E15",
+          "accepted_argument_locator": "s1:u0045–0053",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No surviving letter, verified past intention, copy equivalence or reported contents.",
+      "directed_recipients_and_agency": "Ui acknowledges public duty; Hinata conscience and Hanako withholding separate.",
+      "actual_endpoint_and_unfinished_coda": "Capsule reburied with contemporary map; copy reported and inquiry planned, no full disclosure.",
+      "applicable_open_gaps": [
+        "G08",
+        "G09",
+        "G12",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 56,
+      "frozen_author_joined_saved_paragraph": "Ui's choice to rebury the capsule with a contemporary map is part of the research's conclusion and a disputed allocation of knowledge. She acknowledges reporting duty while arguing that leaving traces and companionship can be an object's purpose beyond exhibition. Hinata assents from conscience and Hanako withholds the capsule matter; they do not all derive one motive from the expert. Similarly, the secret perfect-copy claim at Event812's close is Ui's report, not inspected equivalence or a completed disclosure of scripture contents. Expertise can sustain an institutional question about stewardship, access and reporting without granting automatic immunity from it. [A01:014–015; E15:s1:u0045–0053]"
+    },
+    {
+      "claim_id": "UI07",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 76,
+      "joined_saved_paragraph": "Coffee is a precise taste, not generic shorthand for hospitality. At the secluded café Ui supplies iced Americano and values slow tasting while ice remains. Narration gives actual drinking, quiet summer and return before sunset. Her explanation that someone knowing the location prevents worry is not the whole motive: she says she wanted the teacher to know. The whole message tail begins a remark about having put her mouth to the cup and withdraws it. A completed drink and wanted private place are positive; a kiss, intended shared-mouth arrangement or consent event is not supplied. [U01:399–403]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "399–403;summer003",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Withdrawn cup remark not kiss, shared-mouth consent or whole motive.",
+      "directed_recipients_and_agency": "Ui chooses private place and wants adult to know; guest restriction remains.",
+      "actual_endpoint_and_unfinished_coda": "Actual café drink/quiet/return before sunset; unfinished remark withdrawn.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 62,
+      "frozen_author_joined_saved_paragraph": "Coffee is a precise taste, not generic shorthand for hospitality. At the secluded café Ui supplies iced Americano and values slow tasting while ice remains. Narration gives actual drinking, quiet summer and return before sunset. Her explanation that someone knowing the location prevents worry is not the whole motive: she says she wanted the teacher to know. The whole message tail begins a remark about having put her mouth to the cup and withdraws it. A completed drink and wanted private place are positive; a kiss, intended shared-mouth arrangement or consent event is not supplied. [U01:399–403]"
+    },
+    {
+      "claim_id": "UI08",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 78,
+      "joined_saved_paragraph": "Event812 makes the distinction between reception and preference indispensable. Ui accepted the crushed cake and thanked tired visitors, but later calls its original demand partly mischief. She says she does not especially like sweets or cake near books and desks. The received lemon smoothie is sour, and iced Americano is what she genuinely wants next time. Grateful reception can be courteous without proving culinary liking; a mischievous request can coexist with actual concern and work. The late ordinary disclosure revises a character claim as materially as the restored scripture revises the task's state. [E08:s1:u0008–0019; E11:s1:u0016–0033; E15:s1:u0026–0044]",
+      "support": [
+        {
+          "source_id": "E08",
+          "accepted_argument_locator": "s1:u0008–0019",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E11",
+          "accepted_argument_locator": "s1:u0016–0033",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E15",
+          "accepted_argument_locator": "s1:u0026–0044",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Gratitude does not prove tasting/preference; next visit not complete.",
+      "directed_recipients_and_agency": "Ui partly mischievous request and real concern coexist with visitors effort.",
+      "actual_endpoint_and_unfinished_coda": "Cake received, lemon sour, actual favorite explicitly iced Americano.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 64,
+      "frozen_author_joined_saved_paragraph": "Event812 makes the distinction between reception and preference indispensable. Ui accepted the crushed cake and thanked tired visitors, but later calls its original demand partly mischief. She says she does not especially like sweets or cake near books and desks. The received lemon smoothie is sour, and iced Americano is what she genuinely wants next time. Grateful reception can be courteous without proving culinary liking; a mischievous request can coexist with actual concern and work. The late ordinary disclosure revises a character claim as materially as the restored scripture revises the task's state. [E08:s1:u0008–0019; E11:s1:u0016–0033; E15:s1:u0026–0044]"
+    },
+    {
+      "claim_id": "UI09",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 80,
+      "joined_saved_paragraph": "The gift encounter supplies a different, carefully arranged meal. Ui prepares table and chairs, chooses moist cookies to reduce mess rather than merely because they are her favorite and moves valued things away from crumbs. The Japanese object does not directly identify those「あの子たち」; the book interpretation is contextual. She notices the unusual two-person setting, moves close and calls a rare expression equal fluster. Shared coffee and cookies are actually narrated before familiar complaints return. Local parity does not certify equality throughout a teacher/student relationship, and returned complaints do not invalidate enjoyment. [L03:s1:u0001–0040; locale/mode qualifications]",
+      "support": [
+        {
+          "source_id": "L03",
+          "accepted_argument_locator": "s1:u0001–0040;locale/mode limits",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Cookies chosen for less mess not favorite; object identity contextual; parity local only.",
+      "directed_recipients_and_agency": "Ui own setting/choice/fluster and adult inward response remain separate.",
+      "actual_endpoint_and_unfinished_coda": "Actual shared coffee/cookies then familiar complaints; no social cure.",
+      "applicable_open_gaps": [
+        "G01",
+        "G09",
+        "G10",
+        "G12",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 66,
+      "frozen_author_joined_saved_paragraph": "The gift encounter supplies a different, carefully arranged meal. Ui prepares table and chairs, chooses moist cookies to reduce mess rather than merely because they are her favorite and moves valued things away from crumbs. The Japanese object does not directly identify those「あの子たち」; the book interpretation is contextual. She notices the unusual two-person setting, moves close and calls a rare expression equal fluster. Shared coffee and cookies are actually narrated before familiar complaints return. Local parity does not certify equality throughout a teacher/student relationship, and returned complaints do not invalidate enjoyment. [L03:s1:u0001–0040; locale/mode qualifications]"
+    },
+    {
+      "claim_id": "UI10",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 82,
+      "joined_saved_paragraph": "Small-step walking and warm-fire reading widen her wanted life. Darkness during the walk reduces unwanted gaze; historical ruins calm her for their history rather than merely darkness. She can recognize a pleasant place, retract a blanket institutional judgment and anticipate gradual change while refusing simply to be pushed around. The last-sip request does not show an emptied cup or an all-night walk. The birthday, indoor-company, coffee, seasonal quiet and computer-weakness lines are written repertoire, not successive enacted holidays. Specific pleasure and incompletion can coexist without making each scene a test of cured sociability. [U01:405–411/455–457]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "405–411/455–457",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No cup emptied/all-night walk; holidays and offers not enacted plots.",
+      "directed_recipients_and_agency": "Chosen privacy and gradual wanted change, refusal to be pushed around.",
+      "actual_endpoint_and_unfinished_coda": "Last sip/small-step walking actual; further promises and written warm-fire wants remain.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 68,
+      "frozen_author_joined_saved_paragraph": "Small-step walking and warm-fire reading widen her wanted life. Darkness during the walk reduces unwanted gaze; historical ruins calm her for their history rather than merely darkness. She can recognize a pleasant place, retract a blanket institutional judgment and anticipate gradual change while refusing simply to be pushed around. The last-sip request does not show an emptied cup or an all-night walk. The birthday, indoor-company, coffee, seasonal quiet and computer-weakness lines are written repertoire, not successive enacted holidays. Specific pleasure and incompletion can coexist without making each scene a test of cured sociability. [U01:405–411/455–457]"
+    },
+    {
+      "claim_id": "UI11",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 92,
+      "joined_saved_paragraph": "The recipient cost at Event851 belongs to Ui rather than being absorbed by a successful craft story. Shimiko's intensive genre research and costume-making unfold while Ui wants her quiet hour and sleep; she reports sleeping none. Her estimates of reading and viewing speed are inward estimates, not an audited media log. She proposes stopping or knocking Shimiko out without doing so. Visible curtains and black flooring become materials without established permission to consume repair stock. The scene gives actual lost sleep and anxiety, alongside another person's chosen craft; it supplies neither villainous Shimiko essence nor completed restitution to Ui. [A02:E017:u0002–0094]",
+      "support": [
+        {
+          "source_id": "A02",
+          "accepted_argument_locator": "E017:u0002–0094",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Estimates not audited speeds; proposed knockout not done; stock permission unknown.",
+      "directed_recipients_and_agency": "Ui lost sleep is real recipient cost; Shimiko chosen craft independent.",
+      "actual_endpoint_and_unfinished_coda": "Actual sleep complaint, cutting/sewing and written voice practice; no restitution.",
+      "applicable_open_gaps": [
+        "G01",
+        "G09",
+        "G10",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 78,
+      "frozen_author_joined_saved_paragraph": "The recipient cost at Event851 belongs to Ui rather than being absorbed by a successful craft story. Shimiko's intensive genre research and costume-making unfold while Ui wants her quiet hour and sleep; she reports sleeping none. Her estimates of reading and viewing speed are inward estimates, not an audited media log. She proposes stopping or knocking Shimiko out without doing so. Visible curtains and black flooring become materials without established permission to consume repair stock. The scene gives actual lost sleep and anxiety, alongside another person's chosen craft; it supplies neither villainous Shimiko essence nor completed restitution to Ui. [A02:E017:u0002–0094]"
+    },
+    {
+      "claim_id": "UI12",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 98,
+      "joined_saved_paragraph": "The relationship also contains pressure. In the summer hiding route the adult searches for hours and continues after “leave me alone.” A later conversation genuinely eases Ui's feelings, but this outcome does not retroactively authorize every refusal to be ignored. She declines formulaic cute/suits-you consolation, supplies her own account of hollow praise and acknowledges only a slight change in thought. The other people who remain with her matter too. A helpful explanation can be valued while the initial boundary cost remains part of the interaction. [U01:393–397]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "393–397;summer002",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Later help does not retroactively license pursuit after solitude request; no diagnosis/cure.",
+      "directed_recipients_and_agency": "Ui refuses formulaic consolation and gives her own account.",
+      "actual_endpoint_and_unfinished_coda": "Conversation eases feelings/slight changed thought, continued reserve.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 84,
+      "frozen_author_joined_saved_paragraph": "The relationship also contains pressure. In the summer hiding route the adult searches for hours and continues after “leave me alone.” A later conversation genuinely eases Ui's feelings, but this outcome does not retroactively authorize every refusal to be ignored. She declines formulaic cute/suits-you consolation, supplies her own account of hollow praise and acknowledges only a slight change in thought. The other people who remain with her matter too. A helpful explanation can be valued while the initial boundary cost remains part of the interaction. [U01:393–397]"
+    },
+    {
+      "claim_id": "UI13",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 106,
+      "joined_saved_paragraph": "Hinata is an independent helper and affected recipient. Ui begins with distance and quiet requests yet relies on her carrying and materials. She can thank effort, shelter her and worry about the same-day acquaintance while also shouting at noise and blaming her again. Hinata's awkwardness does not make all treatment deserved; her protective shot on the island produces material collapse, so helpful motive also cannot certify every method. Accepting light-item help, choosing rest and assenting from conscience belong to Hinata's own account. Ui need not either condemn or redeem her completely to form a significant relation. [E03/E08/E10–E13; A01:003/006–010/015; U01:325–371]",
+      "support": [
+        {
+          "source_id": "E03",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E08",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E10",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E11",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E13",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "A01",
+          "accepted_argument_locator": "003/006–010/015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "325–371",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No blame/deserved-treatment shortcut or safe-method certification.",
+      "directed_recipients_and_agency": "Hinata independently carries, chooses rest/help/conscience; Ui care/anger/recurrence distinct.",
+      "actual_endpoint_and_unfinished_coda": "Same-day concern, actual joint work and rest; collapse, concealment and future apology retained.",
+      "applicable_open_gaps": [
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 92,
+      "frozen_author_joined_saved_paragraph": "Hinata is an independent helper and affected recipient. Ui begins with distance and quiet requests yet relies on her carrying and materials. She can thank effort, shelter her and worry about the same-day acquaintance while also shouting at noise and blaming her again. Hinata's awkwardness does not make all treatment deserved; her protective shot on the island produces material collapse, so helpful motive also cannot certify every method. Accepting light-item help, choosing rest and assenting from conscience belong to Hinata's own account. Ui need not either condemn or redeem her completely to form a significant relation. [E03/E08/E10–E13; A01:003/006–010/015; U01:325–371]"
+    },
+    {
+      "claim_id": "UI14",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 122,
+      "joined_saved_paragraph": "Exact attribution prevents an attractive but false joined voice. Event812's printed labels and separately text-bearing raw commands disagree at consequential commitment, quiet-demand and greeting lines; the accepted analytical owners retain those source witnesses without rewriting them. Masked entrance voices and named narration remain their own classes. Inward estimates at Event851 are not measured speeds or heard performance. Nonmonotone private/island IDs, withdrawal of the cup remark, duplicates and the Event812 closing narration classified as system all retain their documentary boundaries. The source-attested closing words are not a repair to the missing overarching metadata title. [E03/E10/E11/E13/E15; U01:385/403/471; A01:015; A02:E017]",
+      "support": [
+        {
+          "source_id": "E03",
+          "accepted_argument_locator": "raw witnesses",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E10",
+          "accepted_argument_locator": "raw witnesses",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E11",
+          "accepted_argument_locator": "raw witnesses",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E13",
+          "accepted_argument_locator": "raw witnesses",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E15",
+          "accepted_argument_locator": "s1:u0053",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "385/403/471",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "A01",
+          "accepted_argument_locator": "015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "A02",
+          "accepted_argument_locator": "E017",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No native/performed inspection, identity repair, actor merger or overarching title restoration.",
+      "directed_recipients_and_agency": "Literal labels/raw actors/narrator/inward/system modes remain distinct.",
+      "actual_endpoint_and_unfinished_coda": "Closing narration attested but missing metadata title open; estimates/withdrawals retained.",
+      "applicable_open_gaps": [
+        "G08",
+        "G09",
+        "G10",
+        "G12",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 108,
+      "frozen_author_joined_saved_paragraph": "Exact attribution prevents an attractive but false joined voice. Event812's printed labels and separately text-bearing raw commands disagree at consequential commitment, quiet-demand and greeting lines; the accepted analytical owners retain those source witnesses without rewriting them. Masked entrance voices and named narration remain their own classes. Inward estimates at Event851 are not measured speeds or heard performance. Nonmonotone private/island IDs, withdrawal of the cup remark, duplicates and the Event812 closing narration classified as system all retain their documentary boundaries. The source-attested closing words are not a repair to the missing overarching metadata title. [E03/E10/E11/E13/E15; U01:385/403/471; A01:015; A02:E017]"
+    },
+    {
+      "claim_id": "UI15",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 130,
+      "joined_saved_paragraph": "A book-only account can interpret every relationship as an instrument for research. The missing-book gratitude for more than recovery, wanted mutual knowledge and desire that someone know the café resist that reduction. Conversely, interpreting every book as romance symbolism would lose preservation, reading pleasure, expertise and chosen solitary curiosity after the visitor departs. The secret-copy and capsule questions are public stewardship issues too. Material attachment and personal company connect without requiring one to be a disguise for the other. [U01:377–409; E15:s1:u0045–0053; A01:014–015]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "377–409",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E15",
+          "accepted_argument_locator": "s1:u0045–0053",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "A01",
+          "accepted_argument_locator": "014–015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Neither all instrumental research nor all romance symbolism supported.",
+      "directed_recipients_and_agency": "Object affection and personal company connect without removing public duties.",
+      "actual_endpoint_and_unfinished_coda": "Gratitude, chosen mutual knowledge, secret-copy inquiry and reporting dispute remain distinct.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G12",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical argument personally received/reused at declared scope, with separate attribution for external whole E812 receiving; saved paragraph fully received.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 116,
+      "frozen_author_joined_saved_paragraph": "A book-only account can interpret every relationship as an instrument for research. The missing-book gratitude for more than recovery, wanted mutual knowledge and desire that someone know the café resist that reduction. Conversely, interpreting every book as romance symbolism would lose preservation, reading pleasure, expertise and chosen solitary curiosity after the visitor departs. The secret-copy and capsule questions are public stewardship issues too. Material attachment and personal company connect without requiring one to be a disguise for the other. [U01:377–409; E15:s1:u0045–0053; A01:014–015]"
+    }
+  ],
+  "eleven_headers": [
+    "## 1. Core thesis",
+    "## 2. Longitudinal arc",
+    "## 3. Public and private self",
+    "## 4. School and club role",
+    "## 5. Ordinary life",
+    "## 6. Crisis behavior",
+    "## 7. Relationship with Sensei",
+    "## 8. Major peer relationships",
+    "## 9. Language and written voice",
+    "## 10. Competing readings",
+    "## 11. Evidence route and remaining limits"
+  ],
+  "complete_saved_body_readback": "UI_READBACK_FULL_20261010 throughEOF136; final54 article correction separately received in UI05.",
+  "all14gaps": "OPEN",
+  "counts_not_completion_proof": true,
+  "original_primary_or_performed_or_independent_credit_added": 0,
+  "ROOT_literary_review": "COMPLETE_WITH_LIMITS",
+  "N_or_quarter_claimed": false,
+  "root_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json"
+}

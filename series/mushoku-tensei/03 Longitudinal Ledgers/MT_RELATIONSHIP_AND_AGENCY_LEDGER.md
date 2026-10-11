@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.6"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V15 only; prior history preserved, V15 updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -188,3 +188,294 @@ Prior V01–V05 bodies remain historical and unchanged. Current source boundary 
 | `MT-R-094` Paul → Lilia / father → Lilia | Historical assault and flight versus refusal to force marriage and alternative employment route. | `030`; causal setting not excuse, later family attachment not retroactive consent. |
 
 Reciprocity is tested by information and options, not only declarations of love or thanks. The two central departures have different communication structures and cannot be collapsed into a universal abandonment pattern.
+
+
+## V07 updates — 2026-09-26 UTC
+
+Prior V01–V06 bodies remain historical and unchanged. The current source boundary is Japanese LN V01–V07. The entering freeze used audited V06 head `0e72e531278055c0dbb7a6054285337a1cc37a93`; later repository reconciliation does not change that analytical input. Observation suffixes resolve in [V07](../02%20Sequential%20Readings/MT_V07_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V07-`. The [recognition checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the focused comparison. Publication and exact-head audit are separate from content acceptance.
+
+| Directed event | Initiative / constraint / change | Observation and limit |
+| --- | --- | --- |
+| `MT-R-095` Suzanne → Rudeus | Notices isolation, invites work, later rebukes excessive risk and thanks him; asks Sara about disclosure to Timothy. | `001–003,017,025`; care practical and fallible, no all-knowing substitute parent. |
+| `MT-R-096` Counter Arrow → Rudeus | Makes room for a temporary specialist, shares danger and returns to aid him; future search preparations show duty beyond one rescuer. | `004,007,009,014,017`; formal nonmembership differs from absence of attachment. |
+| `MT-R-097` Rudeus → Counter Arrow | Low-fee publicity work becomes sought company and accepted dependence, then attachment avoided after rupture. | `007–009,017,024,026`; stated search reason partly masks relational flight, not proof search is fake. |
+| `MT-R-098` Sara → Rudeus | Class suspicion yields to differentiated judgment, advocacy for rescue, thanks, invitations and affection. | `006,009,011–012,016–020,025`; not merely grateful payment, transition gradual and privately contested. |
+| `MT-R-099` Rudeus → Sara | Trains with, rescues, shops with and feels attraction toward her while framing favor through game/reward analogies and hiding uncertainty. | `003,014–020`; concern and objectification coexist; his reassuring lineage claim contains known contrary evidence. |
+| `MT-R-100` Sara → Rudeus | Perceived undesirability prompts defensive denial; real overheard insult, imagined ridicule, explanatory inquiry and intended apology follow. | `020,023,025`; ignorance of condition matters, love does not make all beliefs true. |
+| `MT-R-101` Rudeus → Sara | Interprets denial as rejection, disparages her publicly, flees and regrets the result without learning her actual intended confession. | `020–026`; hurt does not erase responsibility; no completed mutual clarification. |
+| `MT-R-102` Sara → self / companions | Own survival skills, debt repayment, equipment choice and repair deliberation establish action outside Rudy's knowledge. | `016,018–019,025`; fear eventually inhibits pursuit; no total passivity or invulnerability. |
+| `MT-R-103` Soldat → Rudeus | Hostility and norm enforcement → tolerates blows, listens, arranges assistance, interrupts crisis and offers mobile companionship. | `010–011,021–024,026`; apology acknowledges prior harm; stereotypes/mistaken Eris belief remain. |
+| `MT-R-104` Rudeus → Soldat | Fear/resentment and aggression → private disclosure, thanks, accepted help and continuing temporary work. | `011,021–024,026`; intimacy in one friendship does not cure romantic fear. |
+| `MT-R-105` Timothy / Suzanne → party | Formal/practical leadership, reconciliation with another party, retreat decision, dawn search preparation and mediated inquiry. | `003–004,010,014,017,025`; decisions balance multiple lives, no unlimited rescue obligation inferred. |
+| `MT-R-106` Elise → Rudeus | Professional attention, gratitude connected to aid for a child, practical advice and advocacy. | `022,025`; no cure, diagnostic certainty or loss of commercial context. |
+| `MT-R-107` Elise → Sara / Sara → confidants | Elise reproaches and reveals private information without knowing Sara's repair intention; Sara sought Suzanne/Timothy's help and later fears pursuing Rudy. | `025`; correction, privacy cost and misreading coexist; mediation fails to create a meeting. |
+| `MT-R-108` Rudeus → children / local workers | Free healing, snow clearing, limits negotiated through payment and public recognition. | `013,022`; help concrete, social coercion and commercial institutions persist. |
+| `MT-R-109` Rudeus → remembered Roxy / Eris | Roxy remains a revered source of care and imagined highest-stakes rejection; Eris remains wrongly interpreted departure. | `005,020,022,026`; remembered/imagined women are not new direct choices by them. |
+| `MT-R-110` Elinalise → Rudeus / mother search | Actively follows reputation and a geographical lead carrying message from prior search. | `027`; arrival, receipt and rescue unobserved. |
+| `MT-R-111` Fitts → Ariel / Ariel → Fitts | Loyalty includes anger at bullying; Ariel converts protection/capacity into political strategy and seeks future supporters. | `028–030`; emotional loyalty and instrumental use both present, alias identity remains unresolved. |
+| `MT-R-112` Ariel / attendants / Fitts → beast princesses and public | Coordinated provocation, force and selective account produce school advantage. | `029`; prior aggression does not make every tactic proportionate or public belief informed. |
+| `MT-R-113` School allies → potential recruits | Discuss capable students and outsiders, with Fitts visibly invested in Rudy's name. | `030`; proposal not acceptance, recognition not completed identity proof. |
+
+Reciprocity requires separate directional records. Affection, gratitude, practical reliance and correct understanding do not appear or disappear together; no later reunion or offstage consent is supplied.
+
+
+## V08 updates — 2026-09-26 UTC
+
+Prior V01–V07 bodies remain historical and unchanged. Current source boundary: Japanese LN V01–V08. Immutable entering input was final audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. Numeric observation suffixes resolve in [V08](../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V08-`. The [consent and institutional-power checkpoint](../05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md) owns the targeted comparison. Content acceptance, publication/audit and integration to main remain separate states.
+
+| Directed event | Initiative, constraint and change | Observation / limit |
+| --- | --- | --- |
+| `MT-R-114` Elinalise → Rudy | Delivers news, accompanies, offers professional/contextual knowledge and objects to retaliation. | `002–005,019,029`; assurance not independent Zenith verification. |
+| `MT-R-115` Rudy → Soldat | Shares work and farewell, acknowledges possible membership absent search. | `002–003`; attachment survives chosen nonmembership. |
+| `MT-R-116` Hitogami → Rudy | Withheld explanation and cure promise redirect decision. | `004`; benefit/purpose unverified, advice not mutual trust. |
+| `MT-R-117` Fitts → Rudy | Exam, books, testimony, research and private approach supply distinct forms of help. | `006,008–009,012,025`; no automatic Sylphiette attribution or pure corrective role. |
+| `MT-R-118` Rudy → Fitts | Misreads attention, expresses gratitude, shares technique, seeks advice and accepts privacy boundary. | `006–013,025`; closeness not recognition/cure. |
+| `MT-R-119` Rudy → Zanoba | Resumes teaching, persists after failure, accepts production reframing, retaliates for figure. | `007,013,018–022`; pedagogy and violence are separate choices. |
+| `MT-R-120` Zanoba → Rudy | Reverence/fear inhibit disclosure, shared revenge delights, later meal disagreement voiced. | `013,018,022,030`; deference conditional rather than absolute. |
+| `MT-R-121` Fitts / buyers → Juli | Attend distress, purchase, treat, name and plan instruction. | `014–016`; collective care with collective participation in ownership. |
+| `MT-R-122` Rudy → Juli | Blocks blow, projects despair, offers death, teaches, rejects branding, initially misunderstands fear. | `015–016,028–030`; better lesson does not release ownership. |
+| `MT-R-123` Zanoba → Juli | Brother-linked naming, pupil recognition, growing care and defense against meal demands. | `016,028,030`; complete psychological cause inferred by Rudy, not confirmed. |
+| `MT-R-124` Juli → buyers/teachers | Says she does not want to die, learns, fears displeasure, acts after a promise of no anger and smiles after effort. | `015–016,028,030`; no inward monologue or unrestricted agreement. |
+| `MT-R-125` Linia/Pursena → Zanoba | Rank contest includes defeated disciple and destroyed figure. | `017–018`; property harm real, later violence not authorized. |
+| `MT-R-126` Rudy → Linia/Pursena | Defeat, capture, assault/deprivation, threats and imposed superior status. | `019–025`; non-graphic agency record, later friendliness not retrospective permission. |
+| `MT-R-127` Fitts / Zanoba → captives | Fitts urges release and provides practical help, yet also marks the captives; Zanoba proposes extreme punishments that Rudy rejects. | `022–024`; distinguish proposed/rejected injuries from executed acts. |
+| `MT-R-128` Captives → Rudy/public | Submit to end danger, deny harm under fear; later social contact confers anti-bullying advantage. | `023–025,028`; no free-allegiance assumption. |
+| `MT-R-129` Sylphiette → Rudy | Memories, affection, imagined exclusivity, withheld name and desire for equality. | `010–011,026–027`; only explicitly attributable self-account, no resolved Fitts substitution. |
+| `MT-R-130` Ariel / attendants → Sylphiette | Care, encouragement and time offered within service and recruitment aims. | `010,026–027`; political utility does not prove false affection. |
+| `MT-R-131` Sylphiette → Ariel/attendants | Loyal service, friendship, awareness of use, actual refusal and concern about instrumental approach. | `010,026–027`; not legal slavery or complete passivity. |
+| `MT-R-132` Luke / Ariel → Rudy | Initially blame under assumed disclosed identity; premise corrected through Sylphiette's admission. | `007,026`; correction known to readers/attendants not full shared clarification. |
+| `MT-R-133` Zanoba / Fitts → teacher and pupil | Challenge overloaded meal demands and supply a different view of the demands on her. | `030`; collaborative improvement remains within existing authority. |
+
+Fitts is retained as a source-attributed role/name, not newly asserted as a separate biological person or silently merged with Sylphiette. The identity arrangement remains a specific open question. C015 asks whether subsequent contact permits meaningful refusal and repair rather than merely continued interaction.
+
+
+## V09 updates — 2026-09-26 UTC
+
+Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V09; immutable input final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138`. Observation suffixes resolve in [V09](../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. The [disclosure and recovery checkpoint](../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) owns targeted cross-domain review. Newly disclosed past states are not newly occurring changes. Acceptance, publication/audit and main integration remain separate.
+
+| Event / direction | Initiation, refusal, information and costs | Observation / open limit |
+| --- | --- | --- |
+| `MT-R-134` Rudy → Cliff |Rescues before recognizing, accepts thanks, mediates then leaves pair to talk.|003–005; later liking not precondition of rescue. |
+| `MT-R-135` Cliff → Elinalise |Defends with poorly calibrated fight, proposes cure/marriage, accepts constraint and works.|003–005/018; promise not achieved cure or authority over her choices. |
+| `MT-R-136` Elinalise → Cliff/Rudy |States refusal/reason, requests privacy, later chooses relationship and manages conversation.|004–005/018; independent motive, future unknown. |
+| `MT-R-137` Fitts/Sylphiette → Rudy |Advises mediation, helps survival/research, desires recognition, reserves duty resources.|004/008/014–016; scene attribution confirmed where explicit, not every Fitts use. |
+| `MT-R-138` Rudy → Fitts/Sylphiette |Values presence beyond productivity, protects secret, offers privacy, recognizes/confesses/discloses.|016/019/024–026; gratitude-conditioned choice, imagined coercion not carried out. |
+| `MT-R-139` Sylphiette → Rudy |Stages encounter, explicitly requests help, names self, accepts disclosed difficulty and seeks aid.|023–028; concealment, royal pressure and initiative coexist. |
+| `MT-R-140` Rudy ↔ Sylphiette, distinct mornings |His relief and harm acknowledgment; her pain, happiness and helpfulness goal with uncertain equality.|029/032; no undifferentiated mutual-consent/recovery score. |
+| `MT-R-141` Ariel → Sylphiette |Releases stated debt, supports personal departure, also exerts guilt/royal threat.|021–023/027/030; earlier disclosure permission, no newly invented prohibition. |
+| `MT-R-142` Sylphiette → Ariel/Rudy |Wants friend and beloved without betraying either; later asks Rudy's help with explicit opt-out.|021/026; own goals stated, political future unestablished. |
+| `MT-R-143` Luke → Rudy/Sylphiette |Empathetic defense despite dislike, then wrong body explanation and drug advice.|027; generosity/understanding differ from reliable information. |
+| `MT-R-144` Nanahoshi → Rudy |Names origin, offers bargain, uses mana, limits answers and asks room for her own goal.|011–012/016/020; return not achieved; withheld methods constrain exchange. |
+| `MT-R-145` Rudy → Nanahoshi |Withholds accident detail, rejects shared return goal, cooperates and questions risk.|011–013/016/020; dislike need not prevent work, no safety validation. |
+| `MT-R-146` Sylphiette ↔ Nanahoshi |Missing context/grief cause attack; explanation and apologies de-escalate; jealousy persists.|013–014; no established romantic rivalry or resolved catastrophe. |
+| `MT-R-147` Rudy/Zanoba → Juli |Task expectations adjusted, manageable craft roles and seating provided, commands and ownership persist.|002/015/017; fear and learning both visible, no inner consent access. |
+| `MT-R-148` Rudy → school others |Opposes bullying, benefits from feared reputation, intrudes on Linia and pressures teacher.|009/017/019; uneven power accountability, fear not acceptance. |
+| `MT-R-149` Rudy ↔ Soldat |Chooses ordinary visit/stories, retains prior commitments and declines later outing.|018; independent friendship, not solely therapeutic instrument. |
+| `MT-R-150` Eris → absent Rudy / training peers |Affection and perceived insufficiency motivate training; Nina's rivalry not initially reciprocated.|033–034; no knowledge of his rejection account, no repaired communication. |
+| `MT-R-151` Nina → Eris/Rudy |Jealousy and imagined capture motivate trip; defeat/misinterpretation alter practice and hostility.|034–035; capture contemplated not executed, later full rivalry only narrated future. |
+
+Directions remain separate even where a pair is named. Service, employment, affection and legal ownership are not interchangeable. No third party can provide another person's bodily permission; later gratitude cannot retroactively fill a missing choice.
+
+
+## V10 updates — 2026-09-26 UTC
+
+Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V10; immutable input audited V09 `40018b5caedfba456da199ed2fea613ec991015a`. Observation suffixes resolve in [V10](../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V10-`. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns cumulative review. Revealed earlier events, present changes and explicit prolepsis retain different times. Draft acceptance, publication/audit and main integration remain separate.
+
+| Directed event | Initiative, purpose, information and changed options | Observation / reciprocity and limit |
+| --- | --- | --- |
+| `MT-R-152` Rudy → Sylphie | Proposes marriage, provides a house, voices abandonment fear and promises shared work; consultation is selective, former-world information concealed, a known public boundary later repeated. |002–003/007–011/015/018/025. Love, care, local restraint and entitlement coexist; no total contract of access. |
+| `MT-R-153` Sylphie → Rudy | Accepts marriage, keeps service, contributes savings, advises guests/clothing, states public and disappearance boundaries, agrees to household care and requests postponed intimacy. |002/007–010/015/018/020/025. Independent wishes matter; concern about pleasing him and fertility anxiety qualify equal-security claims. |
+| `MT-R-154` Sylphie → Ariel | Insists on continuing a valued role rather than being released simply because of marriage. |002/008. Prior friendship and political work retain purposes beyond the couple; no universal uncoerced-service finding. |
+| `MT-R-155` Ariel → Sylphie/Rudy | Demands clarity, accepts marriage and offers reciprocal patronage; later protective concern shapes the duel's concealed purpose. |002/011/013. Friendship, calculation and influence remain distinct; Rudy does not become a readily controlled subordinate. |
+| `MT-R-156` Luke → Rudy/Sylphie | Participates in reception and duel, tests the prospective protector under an undisclosed arrangement. |011/013. His protective loyalty is represented; complete shared understanding of the encounter is absent. |
+| `MT-R-157` Rudy → Zanoba | Requests help, accepts a research proposal, acknowledges craft limits and considers safety; remains master within an unequal arrangement. |004–006/020–021. Honest appraisal can enable another's work without dissolving devotion or dependence. |
+| `MT-R-158` Zanoba → Rudy | Protects him, contests immediate orders to preserve the automaton, asks for his own task, cares during the crisis, and admits emotional incomprehension. |004–006/011/020–021. Help is not limited to craft utility; candor matters, while hierarchy and harmful force remain. |
+| `MT-R-159` Zanoba → Cliff / Cliff → group | Zanoba strikes Cliff over the diversion; Cliff later proposes useful investigation and contributes to redesign despite initial dismissal. |005/021. Technical cooperation follows injury without an established complete repair; each actor's choice remains distinct. |
+| `MT-R-160` Rudy/Zanoba → Juli | Protect, include and teach her while organizing her labor and retaining ownership. |005–006/011/015/020. Care changes conditions, not legal freedom. |
+| `MT-R-161` Juli → adults | Startles at touch, participates in learning/social life and notices Rudy's condition during the crisis. |001/011/015/020. Useful perception is her contribution; no interior or unrestricted consent account is invented. |
+| `MT-R-162` Elinalise → Rudy/group | Supplies housing contacts, helps convivial inclusion and manages practical social relations beyond romance. |007/011–012. Independent work and boundaries warrant a bounded model; aid does not entail unlimited availability. |
+| `MT-R-163` Elinalise → Sylphie | Requests private speech, discloses kinship and reported separation/stigma history, responds emotionally to recognition. |012. The conversation's full contents are unavailable; not every historical consequence is independently verified. |
+| `MT-R-164` Sylphie → Elinalise | Recognizes her grandmother and accepts the new familial relation. |012. Particular recognition is meaningful without retroactively erasing concealment, distance or social harm. |
+| `MT-R-165` Cliff → Elinalise | Hears the history, continues commitment and pursues curse research. |014. Acceptance and effort are actual; cure and complete technical understanding are not. |
+| `MT-R-166` Elinalise → Cliff | Shares consequential history and receives continued commitment within the chosen relationship. |012/014. Her disclosure is a choice, not a debt owed to everyone or proof all vulnerability has ended. |
+| `MT-R-167` Nanahoshi → Rudy/collaborators | Accepts some sociability, suffers after failure, identifies the design gap, implements shared redesign, apologizes and offers thanks while keeping her return aim. |011/019–022. Broader connection does not make her choose Rudy's ultimate purpose; her interrupted complaint remains unresolved. |
+| `MT-R-168` Rudy → Nanahoshi | Participates in research, responds to perceived crisis, seeks others' help and proposes a useful architectural arrangement. |019–022. His risk and care theories remain fallible; assistance neither certifies safety nor entitles him to suppress her grievance. |
+| `MT-R-169` Sylphie/Zanoba/Cliff/Juli → research and care group | Supply household labor, transport, technical insight, changed judgments or attention; Cliff distinguishes gratitude from future collaborative obligation. |020–022. Different contributions and consent to continued work remain visible; no one rescuer owns the outcome. |
+| `MT-R-170` Ruijerd → Rudy / Rudy → Ruijerd | Offers a cautious alternative account of Eris, delivers sisters and entrusts them to the couple; Rudy welcomes him and can consider the account while retaining hurt and speculative suspicions. |023–026. Neither verifies Eris's intent through fresh contact; Badigadi's cryptic encounter does not supply a shared history. |
+| `MT-R-171` Paul → Rudy/sisters | Letter distinguishes the girls' needs and seeks care; the extra shows risk appraisal, uncertainty about an old acquaintance and eventual delegation. |017/030/034. Confidence in a gifted son coexists with explicit caution; rescue of Zenith remains unverified. |
+| `MT-R-172` Aisha → party/Rudy/Norn | Plans caravan travel, welcomes her brother and contributes materially; earlier persuasion of Norn includes contempt. |024/030. Ability and affection do not remove fatigue or excuse humiliating the less gifted sister. |
+| `MT-R-173` Norn → Paul/Ruijerd/Rudy | Prefers her father, seeks and responds to Ruijerd's protection, requests continued comfort and later refuses confidence in Rudy despite contextual understanding. |026/030–032/034. Attachment and distrust have represented reasons; no automatic transfer of trust between protectors. |
+| `MT-R-174` Ruijerd → Norn/sisters | Stops an aggressor, listens to refusal, considers unsafe-home possibility, acknowledges limits, adjusts reassurance and fulfills escort. |024/026/031–032/034. He still urges acceptance of separation; responsive care is not realization of every first preference. |
+| `MT-R-175` Lilia → daughters / Roxy → Norn/Ruijerd | Lilia restrains contempt while preserving rank distinction; Roxy acts as guard despite fear, then corrects the mistaken appraisal while fear persists. |030/033. Distinct actors and constraints: hierarchy enforcement, duty and belief correction cannot be merged into one family attitude. |
+| `MT-R-176` Eris → absent Rudy/dojo / Ghislaine → Eris/Gal | Eris sustains training through admiration and avoided longing while relying on dojo resources; Ghislaine challenges apparent neglect and defends knowledge as a worthwhile gain. |027–029. No new communication with Rudy or restored mutual understanding; Gal's instruction and explicit future certification differ from current achievement. |
+
+Current household belonging does not settle every directional relationship. The newcomer who trusts Ruijerd can distrust Rudy; a wife can welcome a gift yet retain a public boundary; a collaborator can value help and still have an unheard grievance. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) integrates these differences without converting gratitude, affection, work, service and ownership into equivalent ties.
+
+
+## V11 updates — 2026-09-27 UTC
+
+Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V11; immutable input audited V10 `4823e7f9cecff45d86f3045304b5825c79bcb628`. Observation suffixes resolve in [V11](../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V11-`. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns targeted knowledge/duty review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Relationship event | Direction / change | Evidence / agency and knowledge limit |
+| --- | --- | --- |
+| `MT-R-177` | Aisha → R: strategically requests informality and no-school bargain; R → Aisha honors terms and hears fairness injury. |001/003; unequal conditions explained, birth ranking not instantly repaired. |
+| `MT-R-178` | Norn → R: requests dorm; R → Norn grants room while imposing periodic visits. |003/004/009; permission misread as indifference, independent peer life matters. |
+| `MT-R-179` | Norn ↔ Aisha: shared home leaves rivalry and comparative wounds. |003/009/012; less belittling not full mutual repair, mothers/grandmother memories distinct. |
+| `MT-R-180` | Sylphie → Ariel/R: states valued service and hypothetical marriage refusal; R hears it. |002/014/020; later leave/pregnancy not proof work never mattered. |
+| `MT-R-181` | R ↔ Norn: projection/intimidation gives way to admitted ignorance and accepted presence; her prior reflection changes encounter. |007–010; reciprocal change without identical knowledge or sole rescuer. |
+| `MT-R-182` | Norn → peers/Ruijerd/book: friends protected from introduction, requests teaching and contributes heard stories. |009/011; purposes beyond brother approval; actual publication absent. |
+| `MT-R-183` | Aisha ↔ household: wages and leisure negotiated, adult help available during absence. |012/020; work valued without treating child as wholly self-sufficient. |
+| `MT-R-184` | Z → Ginger: assault for interference; Ginger → Z: continued vow/counsel; R → both: interruption, healing, debt-based apology. |005/013/021; loyalty and repeated correction coexist with unremedied power risk. |
+| `MT-R-185` | Ginger → Juli/Z: educational/ordinary correction; Juli → adults: testimony and crafted gift. |013/021; contributions do not change ownership. |
+| `MT-R-186` | Linia/Pursena → R: problematic gift; R → them: mixed rebuke and later friendship farewell; Ariel → students: investigation. |006/018; revised coercion report necessary, no blanket reconciliation. |
+| `MT-R-187` | R ↔ Sylphie: pregnancy joy, stated fidelity, expedition discussion and accepted risk. |014/020; fears/independent purposes remain; future safe return unproved. |
+| `MT-R-188` | Norn → R: rescue appeal; R → Norn: chooses expedition/delegates bounded home role. |016/020/032; her later self-blame not sole causal responsibility. |
+| `MT-R-189` | Z → R/Sylphie: decision space and practical support offer while retaining own work. |016; new contrast to controlling devotion, not universal autonomy-respect. |
+| `MT-R-190` | Lise ↔ Cliff: departure disclosure, limits accepted, proposal before cure and device support. |013/017/020; no ceremony date or cured body inferred, shortened route changes cost. |
+| `MT-R-191` | Nana → R: food-memory intimacy and restricted map disclosure; R → Nana: care/privacy and secrecy undertaking. |002/013/019; gratitude/self-interest compatible, incomplete earlier account corrected. |
+| `MT-R-192` | Lise ↔ R: travel roles, mutual rescue, impairment enforcement and ordinary refusal. |022–025/028/030; competence complementary, no general sexual availability. |
+| `MT-R-193` | Lise → R/Sylphie: explicit grandchild protection; R → Lise: gratitude and private speculative mediation for Paul. |026/031; kinship real, full understanding/forgiveness absent. |
+| `MT-R-194` | R/Lise ↔ Garvan/guards: rescue, mistaken ingratitude, negotiated escort and command compliance. |027–030; contract useful without equal friendship or complete trust. |
+| `MT-R-195` | Carmelita → Tonto/R: grief and vengeance demand; Lise/leader → Carmelita: defense of flight, escalation and intervention. |029–031; parentage reported, inner attachment not fully known, later silence not forgiveness. |
+| `MT-R-196` | Cliff ↔ Norn: noticed distress, offered reciprocal care, hurtful tone, disclosed limits, questioned lesson and chosen practice. |032–034; independent interlocutors, advice not prophecy or permanent relief. |
+
+No material new reciprocal present sequence supports revising Eris, Sara, Roxy, Paul or Ruijerd packages; recollection and others' appraisals retain their own holders. Kinship, payment, service and faith each afford some agency without establishing equal power or exit.
+
+
+## V12 updates — 2026-09-27 UTC
+
+Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V12; immutable input audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5`. Observation suffixes resolve in [V12](../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V12-`. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns targeted loss/household review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record / direction | V12 change, action and information | Limit / next test |
+| --- | --- | --- |
+| `MT-R-197` / Paul → Rudeus | Joy, apology, leadership patience, demand, protection. |001–002/011–016; terminal act not all-history vindication. |
+| `MT-R-198` / Rudeus → Paul | Initial forecast corrected; advice interrupted, sonship reassessed, grave visited. |001/012/017/034; imagined response not testimony. |
+| `MT-R-199` / Roxy → Rudeus | Survival/reunion, tactical teaching, care and desire. |007–010/019–023; independent work and partial knowledge retained. |
+| `MT-R-200` / Rudeus → Roxy | Rescue risk, misunderstanding, admiration, roughness admitted, proposed marriage. |008–011/020–024; gratitude/possession not entitlement. |
+| `MT-R-201` / Roxy → Rudeus, boundary | Temporary arrangement refused; spouse permission required. |023–024; love and refusal coexist, not universal acquiescence. |
+| `MT-R-202` / Rudeus → Sylphiette | Broken promise disclosed, asks agreement, admits reciprocal double standard. |029–030; confession incomplete about pregnancy source. |
+| `MT-R-203` / Sylphiette → Rudeus | Welcome, voiced decision, private fear and pain boundary. |030/032; agreement not absence of cost or blanket bodily permission. |
+| `MT-R-204` / Sylphiette → Roxy | Stops departure, welcomes, insists equal standing. |030; actual terms matter beyond label and handshake. |
+| `MT-R-205` / Roxy → Sylphiette | Requires consultation, acknowledges motives, initially offers subordinate standing. |024/030; mutual choice under uneven prior information. |
+| `MT-R-206` / Norn → Rudeus | Grief/effort acknowledgment, betrayal objection and later teaching request. |026/029/031; continued love not agreement, no sole blame for death. |
+| `MT-R-207` / Rudeus → Norn | Reports, passes sword warning, considers force, later defends valid hurt. |026/029/031; no blow, no secure unassisted restraint claim. |
+| `MT-R-208` / Norn → Aisha | Notices inhibited joy and creates room for reunion. |027; insight independent of brother. |
+| `MT-R-209` / Aisha → Norn | Rebukes speaking for Syl with cutting comparison. |031; accurate point and hurtful delivery separated. |
+| `MT-R-210` / Aisha ↔ Lilia | Formal service exchange followed by emotional embrace; teaching at birth. |027/033; attachment coexists reproduced rank/discipline. |
+| `MT-R-211` / Lilia → Zenith | Chooses sustained care in acknowledgment of past kindness. |022/027/032; visible work, no proof limitless capacity or equal burden. |
+| `MT-R-212` / Rudeus → Zenith | Initially weak identification/totalizing label, later care plan and observed choices. |013/018/027/032; inaccessible interior, unilateral household demand remains. |
+| `MT-R-213` / Elinalise → Rudeus | Essential protection, grief care, refusal and marriage persuasion. |013–015/019/024/028; problematic claim and speculative future not moral omniscience. |
+| `MT-R-214` / Elinalise → Cliff/Sylphiette/Roxy | Fidelity and kin duties invoked; friendship also asserted. |019/024; competing duties, no unverified shared scheme. |
+| `MT-R-215` / Geese → party | Maps, supplies, risk review, recovered resources and investigation. |003/006/010/022; gambling joke not verified intended theft. |
+| `MT-R-216` / Talhand → Paul/party | Protective coordination, independent grief/tie to Paul. |006/015/019/028; helper's purpose not owned by R. |
+| `MT-R-217` / Vera/Shierra → family | Support, privacy limits, scrolls and grave request. |009–010/028; motives beyond represented loyalty unknown. |
+| `MT-R-218` / parents/caregivers → Lucy | Birth support, affection and new declared duty. |033–034; no demonstrated long-term parenting performance; hair stigma persists. |
+
+Directions sharing a row are linked only for the represented exchange, not collapsed into identical motives. No marriage label supplies universal consent; no act of mourning assigns every survivor the same obligation or recovery timetable.
+
+
+## V13 updates — 2026-09-27 UTC
+
+Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V13; immutable input audited V12 `e1018971ce195163277565ca1e4e7e298332bb21`. Observation suffixes resolve in [V13](../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V13-`. No new specialist checkpoint is required; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record / direction | V13 exchange / information | Limit / next test |
+| --- | --- | --- |
+| `MT-R-219` / Roxy → Rudeus | Corrects research permission, plant judgment, teaches advanced water and voices limits. |004/010/015–016; teacher expertise and spouse status distinct. |
+| `MT-R-220` / Rudeus → Roxy | Supports job, admires work, pressures request, offers reassurance and backup. |002/015/017/024; care not universal respect for refusal or professional ownership. |
+| `MT-R-221` / Sylphiette → Rudeus | States marriage is no blanket permission, encourages Sara repair, offers specific future terms. |015/025/027; terms not unlimited spouse acquisition, insecurity remains. |
+| `MT-R-222` / Rudeus → Sylphiette | Affection/reassurance and stated fidelity coexist private Eris qualification. |004/017/027; unspoken thought not shared household agreement. |
+| `MT-R-223` / Sylphiette ↔ Roxy | Particular mutual agreement and hat gift/received recognition. |018/023; Roxy's acceptance description is later report; no identical motives assumed. |
+| `MT-R-224` / Norn → Rudeus | Requests privacy, persists in lessons, refuses affection and pursues outside work. |008/020/032; desire for teaching no general bodily permission. |
+| `MT-R-225` / Rudeus → Norn | Scales lessons, administers fan-club rules, kisses despite protest, revises council objection. |008–009/020/032; safety and affection coexist unilateral authority. |
+| `MT-R-226` / Aisha → Rudeus | Defends plant with expertise/leverage, wants recognition beyond labor. |010/020; dependent child with strategy, not transparent manipulator or adult employee. |
+| `MT-R-227` / Rudeus → Aisha | Intrudes privately, accepts plant correction with conditions, recognizes varied preferences. |010/020–022; learning local, secrecy and coercion still visible. |
+| `MT-R-228` / Norn ↔ Aisha | Shared birthday and observed cooperation around Lucy. |022/028; overheard truce not proof all sibling rivalry ended. |
+| `MT-R-229` / Lilia → daughters | Matching gifts acknowledge Paul's two daughters. |022; household service hierarchy not abolished. |
+| `MT-R-230` / Zenith ↔ household | Initiated care and smiles receive shared recognition. |007/012/022/028; no invented interior speech or diagnosed recovery. |
+| `MT-R-231` / Cliff → Rudeus | Practical collaboration and critique of treating dependent women as acquired objects. |003/006/013; advice useful, interpretation of Norn still attributed. |
+| `MT-R-232` / Zanoba ↔ researchers | Prosthetic/doll/array collaboration includes autonomous craft purposes and Juli's work. |003/013–014/031; R is contributor, not sole creator or owner. |
+| `MT-R-233` / Cliff ↔ Elinalise | Modest wedding, proposed financial help declined, continued schooling. |018–019/028; later fidelity/lifespan outcome untested; drug administration unshown. |
+| `MT-R-234` / Suzanne → Rudeus | Shares family loss/work and parenting experience. |011; casual manner not grief resolution or universal care prescription. |
+| `MT-R-235` / Sara → Rudeus | Intended apology, frank past discussion, praise with comparison rebuke, explicit friendship. |025–026; romance closed, no covert invitation inferred. |
+| `MT-R-236` / Rudeus → Sara | Avoidance hurts, apology offered, rebound motive admitted, unwanted touch restrained. |025–026; actual repair without making her a failed treatment provider. |
+| `MT-R-237` / Roxy → escort party | Professional knowledge and practical leadership; recruitment declined for current work. |024; agency not merely husband's protection or reward. |
+| `MT-R-238` / Nanahoshi → graduates / researchers | Rebukes spectacle, assists wounded friend, shares joy and proposes next research contact. |030–033; sociability and ongoing return aim/illness coexist. |
+| `MT-R-239` / Linia ↔ Pursena | Duel selects divergent paths within expected-marriage constraint; wound memory preserved. |030; chosen contest not absence of coercive context; rumor not shared journey fact. |
+| `MT-R-240` / Eris ↔ Nina / Isolte | Complementary training, shared Ruijerd-derived technique, mediated understanding and rest advice. |034–037; unconsciously assigned partner initially unconsulted, advice partly invented. |
+| `MT-R-241` / remembered Paul / Ruijerd → present interpretation | Letter/memory/attributed teaching inform gift, parenting and training. |011/022/036–037; no current speech, approval or new encounter invented. |
+
+Shared rows indicate a particular exchange, not identical motives or power. Independent work is not dated to the moment Rudeus learns of it. Every plan remains distinct from its later realization.
+
+
+## V14 updates — 2026-09-27 UTC
+
+Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V14; immutable input audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d`. Observation suffixes resolve in [V14](../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V14-`. The targeted V14 testimony/agency checkpoint is new; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record / direction | V14 exchange / information | Limit / next test |
+| --- | --- | --- |
+| `MT-R-242` / Sylphiette → Nanahoshi / Ariel | Prior care facilitates visit; continued health donation costly. |001/010–011; not reducible to R initiative or absence of jealousy. |
+| `MT-R-243` / Rudeus ↔ Roxy | Comfort promised, home role explained/agreed, return welcome. |002/015/026; racial exclusion persists, agreement specific. |
+| `MT-R-244` / Elinalise → family / Rudeus | Reveals old rescue/history and reasons for delay. |005; Cliff already knew, Syl remains uninformed; Zenith comparison not cure promise. |
+| `MT-R-245` / Perugius → researchers | Teaches taxonomy/technique and allows qualified access. |003/006/024; limits, unexplained tests and prejudice remain. |
+| `MT-R-246` / Rudeus → Nanahoshi | Food, listening, expedition and modest reciprocal proposal. |007/013/023; respect for different homeward aim, not romantic acquisition. |
+| `MT-R-247` / Rudeus ↔ Sylphiette | Reassures fear, assigns home role, seeks/receives comfort. |009–011/015/022; protest/startle and particular returned embrace both matter. |
+| `MT-R-248` / Roxy → household / expedition | Manages work/absence logistics and continues home care. |011/015; active contribution outside castle center. |
+| `MT-R-249` / Cliff ↔ Perugius | Challenges limited aid under overwhelming power. |012; no equal bargaining position, El restrains confrontation. |
+| `MT-R-250` / companions → Rudeus / Nanahoshi | Volunteer skills, travel, protection and help; Ariel offers rings. |014–022; own purposes, rings unused and rescue contingent. |
+| `MT-R-251` / Rudeus → Nokopara | Hires useful former exploiter while withholding identity. |016; pragmatic contact not explicit forgiveness or repaired history. |
+| `MT-R-252` / Cliff → Kishirika → Nanahoshi | Unsolicited charity leads to requested medicine knowledge. |017; identity unknown at first, reciprocity not initial guaranteed payoff. |
+| `MT-R-253` / Moore / Atofe → visitors | Useful plant aid precedes coerced binding reward. |017–018; help cannot validate undisclosed terms. |
+| `MT-R-254` / Zanoba ↔ Rudeus | Protects master, receives electric rescue, risks injury. |019–021; courage, dependence and technique collective. |
+| `MT-R-255` / Zanoba / Rudeus → Kishirika / guards | Kishirika freed then thrown as distraction; guards' appeals passed over. |019–020; instrumental action/limited solidarity retained. |
+| `MT-R-256` / Elinalise ↔ Cliff | Restrains, reframes runner role, later guides impaired eye user. |012/019/022; reciprocal chosen bond, no completed curse solution. |
+| `MT-R-257` / Perugius → expedition | Rescues after enemy intrusion, closes route. |021; not requested by Cliff, selective help driven partly by revenge. |
+| `MT-R-258` / Cliff → injured companions | Heals burns after dangerous escape. |022; care competence, new eye simultaneously creates dependency. |
+| `MT-R-259` / Zanoba / Julie → Perugius / Ruijerd representation | Craft and discussion win narrow figurine permission. |024–025; Julie authorship, host debt, no general demon acceptance or actual sales yet. |
+| `MT-R-260` / Ariel ↔ Perugius / Rudeus | Royal test and partial citizen answer. |026; desired political support not guaranteed. |
+| `MT-R-261` / Hitogami → Rudeus | Counterfactual guilt redirects renewed trust toward cellar instruction. |028; claim not verified; narrative dread strengthens suspicion. |
+| `MT-R-262` / elder visitor → young Rudeus | Warns, supplies journal/identifiers and contested advice; dies. |029–032; local corroboration uneven, no blanket future certainty. |
+| `MT-R-263` / wives → Rudeus → household | Offer shared burdens; receive concealment and locked doors. |033; protection does not substitute for requested openness. |
+| `MT-R-264` / Rudeus → Eris | Begins letter after revised understanding. |031/034; content/sending/reception unshown; elder consent assurance not agreement. |
+| `MT-R-265` / Eris ↔ Nina / Gino / Gal | Distinct aims, adaptive win, rank, intended departure and peers' renewed training. |035–036; no present R reunion or actual Orsted victory. |
+
+The elder's reported future relations are not silently merged into current directed edges. Earlier freezes retain knowledge ceilings, and future diary content remains unadmitted through V14.
+
+
+## V15 updates — 2026-09-27 UTC
+
+Prior V01–V14 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V15; immutable input audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580`. Observation suffixes resolve in [V15](../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V15-`. The mandatory cumulative V01–V15 checkpoint and a scoped Rudeus monograph are new; previous syntheses remain unchanged. V15 is terminal for this instruction. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record / direction | V15 exchange / information | Limit / remaining test |
+| --- | --- | --- |
+| `MT-R-266` / diarist → living reader | Losses, accusations, research and regret transmitted in partial record. |001–007; not current household relations or transferred skill. |
+| `MT-R-267` / Rudeus ↔ Sylphiette / Roxy | Seeks comfort without cause; receives mutual repair and limits. |004; living answers exceed dead-future roles, no full informed guarantee. |
+| `MT-R-268` / Rudeus → Aisha / Lilia | Small attention, proposed gift and thanks after reading. |005; real action, no emancipation or permanent change proved. |
+| `MT-R-269` / wives → Rudeus | Name overprotection, negotiate home defense and independent rescue. |008; their competence and decision rights stated directly. |
+| `MT-R-270` / household ↔ prospective Eris | Conditional discussion before meeting, jealousy and reservation retained. |009/013; elder forecast no substitute for all parties' answers. |
+| `MT-R-271` / Hitogami → Rudeus | Threat, command and technically useful advice. |010/015; perceived alternatives narrowed, promise unenforceable. |
+| `MT-R-272` / Rudeus ↔ Nanahoshi | Full account and critical reading lead to disagreement and pressured assistance. |011–012; candid information does not equal respected judgment. |
+| `MT-R-273` / Eris ↔ Nina / Isolte | Anxiety, punch, reassurance, reading assistance and competing letter interpretations. |013; friendship and limits, no magically completed literacy. |
+| `MT-R-274` / Eris / Ghislaine → Rudeus | Choose departure on Orsted warning. |013; rescue purpose precedes marriage response, travel imperfect. |
+| `MT-R-275` / Cliff / Zanoba / Roxy / Syl → armor project | Differentiated technical, supervisory and training contributions. |014–015/019; no guaranteed victory or full knowledge of all danger. |
+| `MT-R-276` / Perugius / Ariel / El → preparation | Refusal, contacts and instruction according to own constraints. |014–015; no universal coalition under protagonist command. |
+| `MT-R-277` / Elinalise ↔ Cliff / Rudeus | Pregnancy disclosed, diagnosis and paternity correction; combat refused. |015; curse pause not cure, diary counterparts separate. |
+| `MT-R-278` / Roxy ↔ household | Pregnancy announcement, existing acceptance and request for affection. |016; no reduction to teacher or childbearing role. |
+| `MT-R-279` / Aisha / Nana → household | Small rice crop and transmitted recipe create shared pleasure. |017; work/soil/seed limits retained, Roxy wants attention too. |
+| `MT-R-280` / Norn / Aisha / Lilia → departing Rudeus | Alternative questioned, personal return wanted, waiting voiced. |018; family not merely passive objects of sacrifice. |
+| `MT-R-281` / Roxy / Syl → Rudeus | Joint consultation prevents selective disclosure; request retreat/return. |018; not unrestricted approval of ambush or reincarnation disclosure. |
+| `MT-R-282` / Aisha / Lilia → Eris | Learned rescue debt becomes independent hospitality. |020; family had discussed arrival beyond R knowledge. |
+| `MT-R-283` / Eris ↔ wives / Ghislaine | Initial accusation revised; joint rescue with distinct roles/risks. |020–022; pride remains, help not single-person miracle. |
+| `MT-R-284` / Orsted → Rudeus / family | Victory, threats, protection/work offer and healing. |023–024; duress and limited guarantee, not free initial bargain. |
+| `MT-R-285` / Rudeus ↔ Eris / Ghislaine | Silence misread; adviser prompts receptive speech; mutual proposal. |025–026; combat no longer decides love, understanding incomplete. |
+| `MT-R-286` / wives / siblings / Lilia → Eris / Rudeus | Welcome, labor concerns, dissent and practical accommodation. |027; Norn doctrine retained, Zenith reaction interpreted. |
+| `MT-R-287` / Ghislaine ↔ Rudeus / prospective Ariel | Sauros revenge aim prompts proposed political connection. |027; meeting and coup unperformed. |
+| `MT-R-288` / Rudeus ↔ Eris | Intimacy, assent/pacing tension and present morning. |028; own five-year story still wanted, no blanket permission. |
+| `MT-R-289` / Eris → Rudeus → Orsted | Follows concealed visit, joins conditional conversation; rebirth heard. |029; partnership corrects exclusion locally, other wives still uninformed. |
+| `MT-R-290` / Orsted ↔ Rudeus | Attributed history, proposed guardian, diary transfer and negotiated terms. |029–031; explanation not omniscience, routine performance untested. |
+| `MT-R-291` / Eris ↔ Rudeus / uninformed wives | Identity continuity affirmed; future origin disclosure intended. |032; knowledge not household-wide. |
+| `MT-R-292` / Eris ↔ Syl / Aisha | Domestic mistake, restrained anger, explanation and apology. |033; reciprocal adjustment with actual costs. |
+| `MT-R-293` / Roxy ↔ Eris / school | Help misdirected by rank assumptions, trial fails through gesture misreading. |034; independent error, not malice or inherent inability. |
+| `MT-R-294` / Eris / wives → Norn / Richard | Defense through different available means; misleading power claim corrected. |035; Eris threat bluff, Norn admiration not romance, wives already capable. |
+| `MT-R-295` / Eris → Zenith / household | Smile interpreted as welcome; earlier decision to marry consolidated. |036; no established Zenith speech, telepathy or full recovery. |
+
+Directed edges preserve the source of initiative and limits on knowledge. The diary's alternative relations, interlude's earlier events and current postmarriage terms are kept distinct. No later source or inferred future consent enters this ledger.

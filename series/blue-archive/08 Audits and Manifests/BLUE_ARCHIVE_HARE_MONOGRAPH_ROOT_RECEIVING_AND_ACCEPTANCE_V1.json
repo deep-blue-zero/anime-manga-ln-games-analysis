@@ -1,0 +1,174 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Hare",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HARE_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_HARE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 6152,
+    "sha256": "af4c670ca30b863fe91ee544220072667f3c11f04e0e1d6cd4c1dc08fef89a73",
+    "git_blob_oid_of_actual_bytes": "46c62b622cdb23e0c647a2dc80dc9f49172b60d0",
+    "lines": 80
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_HARE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "90327cd41700ee70af1dd9d5b1566d42d603c889419994e364a74139b128d682",
+    "frozen_payloads_verified": 4,
+    "complete_current_R_bindings_verified": 18,
+    "explicit_historical_comparison_tuples_verified": 68,
+    "local_argument_metadata_bindings_verified": 13,
+    "representative_frozen_witnesses_verified": 4,
+    "paragraphs_exactly_joined": 55,
+    "source_link_paths_resolved": 12,
+    "source_endpoint_arguments": 21,
+    "substantial_sections": 11,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "ROOT_actual_receiving": {
+      "whole_body": [
+        "551d6c1–60",
+        "65aaa361–120 with clippedL90 repaired943cc688–92",
+        "2cc815121–181EOF"
+      ],
+      "complete_source_controls": [
+        "db82e7 allnoninputcontrols",
+        "5de609inputs0–7",
+        "49764ainputs8–17",
+        "6a3f53all13localbinding/scopefields",
+        "ea073dwhole12path/source-idmap"
+      ],
+      "complete_claim_fields": [
+        "62a6d9HA001–018",
+        "6cfea5HA019–038",
+        "1f65a0HA039–055",
+        "c5b502all21completeendpointscopes",
+        "dd7b27all11headers/all14gaps/rivals/modes/controls; repeated paragraphs and source paths joined to whole saved body/exactmap"
+      ],
+      "whole_output_receipts": [
+        "233c0dfreeze65EOF",
+        "e8db32saved75EOF",
+        "00c6d9erratum27EOF"
+      ],
+      "fresh_complete_consequential_arguments": [
+        "32e124family1–110",
+        "703916family111–210",
+        "ef733efamily211–265",
+        "12a50cfamily266–306EOF",
+        "8245beE81002168EOF",
+        "4eabb7FinalC003E01639EOF"
+      ],
+      "adequate_prior_scope": "c4a55e whole ROOT earlier77-line family/distinct adoption explicitly awards source-specific family/individual judgments while refusing fresh ROOT twelve-individual wholebody credit. Those accepted literary meanings and whole current306-line owner adequately ground the declared nine pairs/three written objects; all12 individual metadata bindings are verified, author full receiving stays attributed. No fresh ROOT all12 individual/source/native/primary custody claimed. G110/E822/E810 current maintained accepted meanings and Chihiro fresh common G150/E832/E842/E817/F36 scopes remain adequate exact reuse.",
+      "historical_qualification": "Author1bb and earlier7489/c1/main comparands are dated. All18current/dbabb source bytes independently equal; mutable progress is not an input. Old unadmitted/unapplied/frontier/model/merge-reserved status statements remain creation history governed by Cycle008 and current Phase3 authority.",
+      "E832_correction": "Original inherited historical scope described114asEOF. Actual115 is substantive Remainingduties, independently ROOT received in Chihiro review through115EOF. Separate072569erratum and laterauthor362401 receipt qualify original scope without retroactive credit. Canonical derivative must qualify oldscope and append exact erratum; original body/receipts remain immutable."
+    },
+    "semantic_grounds": [
+      "Information and technology enable wanted scenery, comfort, film/game pleasure, flavor, company, coffee, wonder and unquantifiable memory. These retain intrinsic value without crisis or a large plot transition.",
+      "Failed portable workflow and overwrittencloud report, failed abstinence and drone stopping control limit expertise without invalidating the written genius baseline. Reported or experienced relief is not clinical proof.",
+      "Professional freedom/truth ethics coexist with admitted retaliatory homepage tampering and narrated local restoration. Unauthorized peer privacy intrusion, hidden recorder leverage, coerced games/labor and unresolved affected recipients remain contrary evidence.",
+      "Voluntary drone testing later becomes refused continuation; a threatened shock is not an administered shock. Inferred desire for showing a photo is not permission to send. Begun disassembly and requested deletion are not complete repair/deletion or machine-certified romance.",
+      "Care is reciprocal and contested: self-funded shopping, coffee offered/requested, scarcity willingly spent, apology and reassurance coexist with pressure, withheldplans and actualrefusal. Whole after-return messages preserve reported deputy apology and uncertain exercise intent rather than prior shared knowledge.",
+      "Events retain complete literary endpoints: compulsorycamp start, actual cooking/dinner/cleanup, late stop choice, chosen sunrise, game result rather than clinical10kg change, and reciprocalrest refusal. No global nature conversion or all-peer assent.",
+      "Availableactivation in E822 and fatigue/access in Final do not establish executedselfdestruct, inspectedcontrol or solo technical authorship. Prematureblast and controlreversal do not prove crew deaths, totalship destruction, exactintrusionmechanism orHaresoleblame; largerFinalcontext remains separately retained.",
+      "Written contexts and43+43+10reuse are a repertoire, not185enacted scenes oroutfit chronology. Actor/action/parentheses/timed star/waitresidue/ruby and selected VoiceId0 limits stay attributed; no audio/performance receiving added."
+    ],
+    "source_authority": "Cycle0083940supplemental/480MAIN withlimits; all14gapsOPEN/no modelpromotion",
+    "scope": "355packages/29namedsections unchanged; requiredP3-CHAR-HARE; directed/ensemble/institution/register duties separate",
+    "progress": {
+      "previous_ROOTaccepted_packages": 46,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 47,
+      "character_packages": 46,
+      "directed_relationship_packages": 1,
+      "published_packages": 43,
+      "published_source_commit": "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1",
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "quarter_reached": false
+    },
+    "new_primary_raw_performance_model_credit": 0,
+    "canonical_derivative_required_erratum": "HARE_E832_INHERITED_ENDPOINT_SCOPE_ERRATUM_V1.json at07256959fb1027e83981c56ca3adefa5b335eaf97bedc45976d510979887bc8c",
+    "nine_unbound_large": "UNREAD_UNHASHED",
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-HARE",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HARE_CHARACTER_MONOGRAPH.md",
+    "bytes": 60056,
+    "sha256": "d111ebc7f0820678ecbea47c7607409fbdc60b166ec0e11f59b62eb75e55da09",
+    "git_blob_oid_of_actual_bytes": "f18b905f625a37354b0b387056b16f00ca13a823"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "pending independent ROOT receiving/adoption.",
+      "new": "independently received and accepted by ROOT with limits; canonical persistence follows complete ROOT installation.",
+      "kind": "AUTHORITY_OR_PRECISE_CUSTODY_FRAMING_ONLY"
+    },
+    {
+      "old": "Actual source snapshot is 1bb97d07,",
+      "new": "The declared frozen author source snapshot is historical1bb97d07,",
+      "kind": "AUTHORITY_OR_PRECISE_CUSTODY_FRAMING_ONLY"
+    },
+    {
+      "old": "These are new C-only author candidates, with no repository/global/provider mutation, unbound-large read/hash, primary replay or acceptance/milestone credit from drafting.",
+      "new": "The original C-only author candidates remain immutable and add no repository/global/provider mutation, unbound-large read/hash, primary replay or acceptance/milestone credit from drafting. ROOT separately accepted this complete literary argument with limits; this canonical derivative takes effect only after complete ROOT installation.",
+      "kind": "AUTHORITY_OR_PRECISE_CUSTODY_FRAMING_ONLY"
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HARE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HARE_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Canonical persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The adopted355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior published canonical base is dbabbf95; historical author snapshots remain attributed.",
+    "The [separate E832 custody erratum](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HARE_E832_INHERITED_ENDPOINT_SCOPE_ERRATUM_V1.json) qualifies the immutable original receipt: historicalL1–114 is not the physical current EOF. ActualL115 is a substantive Remaining duties paragraph, separately received later by the author throughL73–115 and independently received by ROOT. This later receiving repairs the endpoint description; it does not retroactively enlarge the original receipt or add primary, performed, model or literary completion credit. The complete exact erratum remains appended and bound in the public receiving records."
+  ],
+  "fixed_publication_snapshot": "Four accepted packages44–47 only; later ROOT acceptances are excluded from this canonical batch",
+  "current_E832_custody_correction": {
+    "current_custody_qualification": "HistoricalL1–114 is not actual currentEOF; L115 is substantive Remaining duties. Later author362401 receivedL73–115, and ROOT independently received actualL115/necessary clipped literaryL87/L89. Original claims remain historical and are not retrospectively enlarged. No literary body correction or new primary/performed/model/scope credit follows.",
+    "exact_separate_original_erratum_tuple": {
+      "path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/HARE_E832_INHERITED_ENDPOINT_SCOPE_ERRATUM_V1.json",
+      "bytes": 3109,
+      "sha256": "07256959fb1027e83981c56ca3adefa5b335eaf97bedc45976d510979887bc8c",
+      "git_blob_oid_of_actual_bytes": "a8656007f35ae57d94a73f21febfbdf8df511890",
+      "lines": 27
+    },
+    "exact_public_erratum_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HARE_E832_INHERITED_ENDPOINT_SCOPE_ERRATUM_V1.json",
+    "appended_unchanged_erratum_payload": {
+      "schema": "BLUE_ARCHIVE_HARE_E832_INHERITED_ENDPOINT_SCOPE_ERRATUM_V1",
+      "decision": "CORRECT_RECEIPT_DESCRIPTION_PRESERVE_IMMUTABLE_ORIGINALS",
+      "frozen_author_receipt": {
+        "relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/HARE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 53753,
+        "sha256": "e94bb8d9e456915f71e59da599c43ad7f5c0f37d916c8258625e94a24c838e77"
+      },
+      "source": {
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 23709,
+        "line_count": 115,
+        "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20",
+        "actual_byte_blob_oid": "c86f892caa1c88cfb9efacd14007408df834945b"
+      },
+      "incorrect_frozen_description": "Inherited E32 inspected_scope says Whole current owner L1–114 EOF3846f2",
+      "corrected_description": "Historical received1–114 is not physicalEOF; actual current115 is a substantive Remaining duties paragraph. Current author personally received73–115 throughEOF362401 after Hare freeze.",
+      "actual_current_L115": "All ten episodes are CORE for this account's sustained pleasure/authority/afterstate comparison; mandatory workflow independently retains every selected object. D2 advances complete selected832 receiving. D5 proposes the seven exact ledger clauses without applying them. D1 uses prior accepted group meaning at the necessary contextual scope, D3 adds no bond/MM credit, D4 records event-language/mode observations without replacing written profile/costume coverage. G01/G06 gain ordinary repertoire, G09/G14 retain actor/mode seams, G13 gains limits on safety and actual outcomes. G07/G08 chronology/naming and G10 performance remain bounded; Yuuka's caricature does not settle G02, and no G03–05/G11/G12 completion is invented. All14 remain OPEN. Current ca965, architecture1.11/method1.10,480MAIN/266admitted/540subjects, models and Phase3unestablished remain unchanged. This scope is not admitted by this account; all proposals UNAPPLIED. MAIN_V002's whole-arc contextual and five-duty convergence remains incomplete. Sole fresh C substantive output; no shared/transport/QA/proof/hash writes. End of whole account.",
+      "author_receiving_qualification": "Hare reuses complete accepted literary meanings at qualified analytical scope, not original physical current1–115 certification. This separate later115 receiving repairs the exact endpoint-description seam without retroactive primary or original whole-source credit.",
+      "current_source_snapshot_qualification": "Worktree source remains at declared E32 tuple; ROOT latest publicationdbabbf95 and author historical1bb kept separate.",
+      "body_change": "NONE; no literary claim correction identified by this bounded check",
+      "required_canonical_derivative_action": "Qualify original custody line and append this exact later endpoint receiving; ROOT adjudication pending",
+      "frozen_originals_mutated": false,
+      "new_primary_native_performed_model_credit": 0,
+      "R_Git_global_writes": 0,
+      "scope_quarter_credit": 0
+    },
+    "ROOT_acceptance_authority": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HARE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json"
+  }
+}

@@ -119,6 +119,30 @@
       "rights_basis": "Owner-approved analytical and provenance metadata within the repository's narrow original-content license scope.",
       "review_decision": "OWNER_APPROVED_G4_P02_LARGE_STRUCTURED_BOUNDARY",
       "external_reference_insufficient": "An external-only reference would remove the directly queryable provenance relationships needed to interpret and audit the migrated analysis."
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+      "bytes": 1135497,
+      "sha256": "396168a919bab2e2f7dfc865c29d10a107ea0e5ac045230ec16f3943ca915059",
+      "exception_id": "BLUE_ARCHIVE_CYCLE007_MAIN_COVERAGE_396168A9",
+      "allow_utf8_bom": false,
+      "allow_carriage_returns": false,
+      "purpose": "Directly queryable authored coverage index with scoped supplemental source annotations and keyed subject readiness.",
+      "rights_basis": "Repository-authored analysis, bounded paraphrase, source identifiers, analytical routing and structural provenance; upstream quoted/source/asset/mark rights excluded and not newly granted.",
+      "review_decision": "ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1",
+      "external_reference_insufficient": "An external pointer omits the locally queryable subject/source relationships, conditional coverage boundaries and readiness routes required to inspect and audit the analysis."
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv",
+      "bytes": 1076962,
+      "sha256": "0b4c0034e9c9b0bb1f7c3298c54df3735841b614cf1871b755c9633fd2ab6bcf",
+      "exception_id": "BLUE_ARCHIVE_CYCLE007_SUPPLEMENTAL_CROSSWALK_0B4C0034",
+      "allow_utf8_bom": false,
+      "allow_carriage_returns": false,
+      "purpose": "Directly queryable supplemental source-to-analysis and admission crosswalk with exact scoped Cycle007 joins.",
+      "rights_basis": "Repository-authored analysis, bounded paraphrase, source identifiers, analytical routing and structural provenance; upstream quoted/source/asset/mark rights excluded and not newly granted.",
+      "review_decision": "ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1",
+      "external_reference_insufficient": "An external pointer removes local source identity, owner, admission, chronology, attribution and priority joins needed for ordinary repository queries and reproducible audits."
     }
   ],
   "named_whitespace_exceptions": [

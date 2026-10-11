@@ -27,6 +27,8 @@ Structural checks are necessary but cannot establish the correctness of textual 
 
 New eligible analysis may merge without immediate character enrollment when the existing registry and generated index still validate. Discovery is intentionally allowed to lag until the next agent run; the registry is not presumed exhaustive.
 
+Historical character-record fixtures are checked against an explicit immutable Git checkpoint and registry hash. Their exact counts, identities, and field values describe that checkpoint; they are not an allowlist or a freeze on the live discovery registry. Authorized additions and evidence-supported revisions continue through the current schema, identity, routing, evidence, authority, and generated-index checks. Frozen migration crosswalks retain their existing preservation checks. Changes to these test contracts require a separate governance/tooling change outside the curation agent's two-file allowlist.
+
 Changes to already referenced evidence can invalidate a path, anchor, authority relationship, coverage claim, or generated digest before the daily run. Such changes must not merge with a broken character registry or stale index. Keep the existing strict validation and coordinate with the same curation agent before integration.
 
 For this bounded on-demand mode:

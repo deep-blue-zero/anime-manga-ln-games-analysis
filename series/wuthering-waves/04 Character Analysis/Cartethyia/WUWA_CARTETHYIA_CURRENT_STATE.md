@@ -15,10 +15,10 @@ do_not_use_as_current_authority: false
 
 ## Earlier V0.2 generation routes
 
-1. `WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md`
-2. `WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md`
+1. `05 Integrated Synthesis/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md`
+2. `01 Evidence and Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md`
 3. ordinary-life evidence within the current monograph; the standalone earlier profile is now historical
-4. `WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md`
+4. `03 Audiovisual and Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md`
 5. claim/counterevidence and revision ledgers
 6. compiled model and fidelity check
 
@@ -45,7 +45,7 @@ The imported files are byte-preserved analytical sources except for repository p
 
 The later twelve-document `CARTETHYIA_PRE_AV_REBUILD_V0_1` packet is owner-adopted current `active_provisional` authority for its declared text/audio scope. Start at [its packet README](WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md), source-facing deep dive, evidence/falsification matrix, and reconstructive profile. The V0.2 monograph, ledgers, and model retain their earlier-generation scopes; use the newer source-facing packet and prior-generation revision ledger for current refinements. The older standalone ordinary-life profile is retired to legacy.
 
-The newer [ordinary-life profile](WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) is current `active_provisional` authority in the character folder. At the owner's express request, the older profile is retained in [90 Legacy and Superseded](90%20Legacy%20and%20Superseded/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md), with historical metadata and its analytical body preserved. The archived profile is not current discovery evidence. The newer current profile is subject to the designated curation agent's review of the existing registry reference before integration. The [integration repair manifest](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_BRANCH_INTEGRATION_REPAIR_MANIFEST.json) binds both versions and all mechanical transformations.
+The newer [ordinary-life profile](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) is current `active_provisional` authority in the character folder. At the owner's express request, the older profile is retained in [90 Legacy and Superseded](90%20Legacy%20and%20Superseded/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md), with historical metadata and its analytical body preserved. The archived profile is not current discovery evidence. The newer current profile is subject to the designated curation agent's review of the existing registry reference before integration. The [integration repair manifest](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_BRANCH_INTEGRATION_REPAIR_MANIFEST.json) binds both versions and all mechanical transformations.
 
 ## Earlier V0.2 thesis (retained scope)
 
@@ -57,7 +57,7 @@ The current reconstructive profile uses D0–D4 developmental states with indepe
 
 ## Bounded static visual layer
 
-The [V0.2 visual-design profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Cartethyia's role-linked head icon, formation art, and activity portrait for the default playable/base presentation. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. Fleurdelys, spirit-body and combat-transformation states, rear construction, runtime motion, and scene staging are not established by these three rasters.
+The [V0.2 visual-design profile](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Cartethyia's role-linked head icon, formation art, and activity portrait for the default playable/base presentation. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. Fleurdelys, spirit-body and combat-transformation states, rear construction, runtime motion, and scene staging are not established by these three rasters.
 
 ## Open hardening work
 

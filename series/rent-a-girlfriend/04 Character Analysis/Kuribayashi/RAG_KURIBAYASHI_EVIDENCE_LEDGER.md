@@ -4,13 +4,13 @@ artifact_id: RAG_KURIBAYASHI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V027; character evidence inspected through V027, with no material V021 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; character evidence inspected through V037."
 ---
 
 # Kuribayashi evidence ledger
@@ -27,7 +27,7 @@ given_name: null
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V027
+inspected_through_volume: V037
 local_readiness: UNMODELED
 ~~~
 
@@ -56,6 +56,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KUR-E015 | KUR-S008 | RAG-E-V025-021, RAG-E-V026-001 | Partly informed peer at public profile exposure | Is positioned with the group when Chizuru's Diamond profile becomes visible on Ruka's phone. | His prior rental knowledge now enters an exposure event before a less-informed family and peer audience. | V026 corrects the phone attribution; V025 does not isolate his comprehension, speech, or response. | none; information limit only |
 | RAG-KUR-E016 | KUR-S009 | RAG-E-V026-006, RAG-E-V026-011 | Restraint during Kibe's violent trust response | Helps restrain Kibe after the punch and appears in the remembered friendship-trust sequence that precedes Kibe's renewed proof demand. | Takes a limiting role when another peer turns betrayal into force. | Restraint does not establish his complete knowledge, approval of the retained lie, or a broad nonviolence rule. | none; model withheld |
 | RAG-KUR-E017 | KUR-S010 | RAG-E-V027-001, RAG-E-V027-005 | Direct challenge to retained dating claim | Presses Kazuya on whether he and Chizuru really date and repeatedly invokes the kisses after the near-complete family explanation. | Converts partly informed observation into explicit peer scrutiny of the one status lie still preserved. | His method is confrontational, and the scene does not establish his final belief, complete knowledge, or durable friendship judgment. | none; model withheld |
+| RAG-KUR-E018 | KUR-S011 | RAG-E-V037-004 | Sexual peer advice | Learns of Kazuya's prospective non-rental date and offers a numbered-date theory that spurs condom purchase and fantasy. | Acts as an external social script for Kazuya's expectations. | Kuri has no access to Chizuru's consent or private inquiry; none; model withheld. |
 
 ## State-change summary
 

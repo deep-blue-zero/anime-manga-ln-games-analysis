@@ -28,7 +28,7 @@ from character_index_core import (  # noqa: E402
     validate_schema_document,
 )
 from generate_character_index import render  # noqa: E402
-from validate_repository import validate_markdown_links  # noqa: E402
+from validate_repository import validate_current_domain, validate_markdown_links  # noqa: E402
 
 
 def authority_bytes(status: str = "canonical") -> bytes:
@@ -120,6 +120,84 @@ def record(
         "inclusion_basis": "DEDICATED" if included else None,
         "notes": None,
     }
+
+
+class LiveCurationTests(unittest.TestCase):
+    def candidate(self, series_id="blue-archive"):
+        evidence_path = f"series/{series_id}/ANALYSIS.md"
+        original = record(
+            f"{series_id}:original@game", entity_id=f"{series_id}:original",
+            series_id=series_id, continuity_id="game", evidence_path=evidence_path,
+            included=True,
+        )
+        documents = {
+            "series/registry.json": json.dumps({"series": [{"series_id": series_id}]}).encode(),
+            evidence_path: authority_bytes(),
+        }
+        for name in ("character-analysis-index", "character-reconstruction-capability"):
+            path = f"governance/schemas/{name}.schema.json"
+            documents[path] = (TOOLS.parent / path).read_bytes()
+        return [original], documents
+
+    def errors(self, records, documents):
+        documents = dict(documents)
+        documents["characters/registry.jsonl"] = (
+            "".join(json.dumps(item) + "\n" for item in records).encode()
+        )
+        return validate_current_domain(TOOLS.parent, snapshot(*documents.items()), require_schema=True)
+
+    def test_current_registry_satisfies_live_discovery_contract(self):
+        current = GitSnapshot.from_index(TOOLS.parent)
+        self.assertEqual(validate_current_domain(TOOLS.parent, current, require_schema=True), [])
+
+    def test_valid_additions_and_revisions_are_not_limited_by_historical_rosters(self):
+        for series_id in (
+            "blue-archive", "the-idolmaster-cinderella-girls-mobile-games", "genshin-impact",
+            "maebashi-witches", "mass-effect", "youjo-senki", "legend-of-the-galactic-heroes",
+        ):
+            with self.subTest(series_id=series_id):
+                records, documents = self.candidate(series_id)
+                self.assertEqual(self.errors(records, documents), [])
+                added = copy.deepcopy(records[0])
+                added.update(character_entity_id=f"{series_id}:added", analysis_subject_id=f"{series_id}:added@game")
+                records.append(added)
+                records[0]["notes"] = "Synthetic fixture: revised after evidence review."
+                records[0]["subject_aliases"] = [alias("Reviewed subject alias")]
+                followup = copy.deepcopy(records[0]["evidence"][0])
+                followup.update(evidence_id="followup", repository_path=f"series/{series_id}/FOLLOWUP.md")
+                records[0]["evidence"].append(followup)
+                records[0]["analytical_coverage"][0]["evidence_ids"].append("followup")
+                documents[followup["repository_path"]] = authority_bytes()
+                self.assertEqual(self.errors(records, documents), [])
+
+    def test_invalid_additions_and_revisions_still_fail_live_validation(self):
+        for invalid in ("schema", "duplicate", "identity", "series", "missing-evidence", "historical-evidence", "coverage"):
+            with self.subTest(invalid=invalid):
+                records, documents = self.candidate()
+                original = records[0]
+                if invalid == "schema":
+                    original["unexpected_field"] = True
+                    expected = "validator=additionalProperties"
+                elif invalid == "duplicate":
+                    records.append(copy.deepcopy(original))
+                    expected = "duplicate analysis_subject_id"
+                elif invalid == "identity":
+                    original["character_entity_id"] = "blue-archive:different"
+                    expected = "subject ID entity prefix"
+                elif invalid == "series":
+                    documents["series/registry.json"] = b'{"series":[]}'
+                    expected = "unresolved series_id"
+                elif invalid == "missing-evidence":
+                    del documents[original["evidence"][0]["repository_path"]]
+                    expected = "materialization_status"
+                elif invalid == "historical-evidence":
+                    documents[original["evidence"][0]["repository_path"]] = authority_bytes("historical_legacy")
+                    expected = "not current eligible"
+                else:
+                    original["analytical_coverage"][0]["evidence_ids"] = ["unknown"]
+                    expected = "unresolved evidence_ids"
+                failures = self.errors(records, documents)
+                self.assertTrue(any(expected in failure for failure in failures), failures)
 
 
 class CanonicalizationTests(unittest.TestCase):

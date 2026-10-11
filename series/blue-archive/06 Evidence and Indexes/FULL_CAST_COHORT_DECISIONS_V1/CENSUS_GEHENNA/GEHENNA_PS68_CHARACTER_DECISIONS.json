@@ -1,0 +1,793 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_CHARACTER_DECISIONS.json",
+  "original_frozen_binding": {
+   "bytes": 82363,
+   "sha256": "bb070ae5a9b005ae3aa9fcf5d0d1e837c434102427cb29978bf1b5dc1a463fd7",
+   "git_blob_sha1": "fd7be9487db4f4d539c1bdcc6f9929cfa5289845"
+  }
+ },
+ "historical_payload": {
+  "status": "AUTHOR_COMPLETE_ROOT_ACCEPTANCE_PENDING",
+  "scope": "Exact twenty Gehenna normal-owner F families plus four PS68 F families",
+  "decisions": [
+   {
+    "candidate_unit_id": "P3-F094",
+    "label": "Hina",
+    "literal_identity_field": "BA_PERSON_HINA",
+    "dated_retrieval_overlap_ids": [
+     "P3-A102"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F094 / BA_PERSON_HINA; dated retrieval P3-A102.** Hina's independent question is how genuine care and the wish for quiet coexist with coercive power, exhausted work and morally complicated pleasure. Sleep, a coat, imperfect play, meals and piano are actual elements of her desired life, not exculpatory decorations around an official identity. Her refusal of late summer leisure and changing/privacy limits make rest and access negotiated. GROUP1102 contains an actual apology for hasty custody, followed by a new prejudgment; GROUP3502 differentiates a suspicious scripted bag from a freely shared ice pop. Neither establishes perfect procedure or a universal price rule.",
+     "The S2 V002 public comparison preserves imposed order, confinement and incomplete repair alongside the E021 recognition of moral unease and remembered pleasure in justified violence. That admission resists both a spotless protector portrait and a portrait in which care was always false. MINI040 gives her schedule boundary and practical school advice; MINI050 actually completes a birthday party, with hesitant singing and local first-name permission. Public duty does not exhaust private pleasure, and private pleasure does not settle victims' claims."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "(1) the coexistence thesis",
+     "longitudinal_arc": "(2) locally shown public reconsideration and encounter endpoints, leaving private variants unordered",
+     "public_private_self": "(3) office severity versus selected privacy/rest",
+     "school_club_role": "(4) Prefect mandate, delegation and accountability",
+     "ordinary_life": "(5) meals, music and play",
+     "crisis_behavior": "(6) protective force, imposed control and E021 aftermath",
+     "sensei_relationship": "(7) fallible teacher contact, actual limits and particular support",
+     "major_peer_relationships": "(8) Ako/Iori/Chinatsu, Meg/Kasumi and affected students as distinct recipients",
+     "language_voice": "(9) brief commands, apology, reluctance and written music contexts with actor seams",
+     "competing_readings": "(10) benevolent-protector, exhausted-victim and violence-pleasure rivals",
+     "evidence_route": "(11) Gehenna20 §§Hina, GROUP1101–04/1901–02/3501–02, MINI040/050 and S2 V002 owner. Full relevant event arguments833/835/844 and other positive routes remain monograph receiving obligations, not waived by this decision."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F004",
+    "label": "Ako",
+    "literal_identity_field": "BA_PERSON_AKO",
+    "dated_retrieval_overlap_ids": [
+     "P3-A101"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F004 / BA_PERSON_AKO; P3-A101.** Ako's monograph should ask how administrative competence and attachment to Hina coexist with her own appearance, coffee, quiet company, fatigue, failed games and refusal. Weekly reports show work done under missing information and backlog; they are not an incidence census or proof that every quoted actor attended her meeting. The audit shows confident innocence failing against preselected political punishment. Her inward long essay and set-aside emergency café idea remain private or incomplete, not requests delivered to Sensei or a burden Hina actually accepted.",
+     "MINI050 complicates devotion as merely obedient service: Ako wants to create a particular enjoyable occasion, makes a constrained delivery choice, uses private cross-school mediation, and participates in a successfully completed party. MINI150 gives initial objection to Pandemonium's opportunistic reliance but actual searching, coffee taste, a conditional assessment of PS68 and bounded information-sharing with Kayoko. Those actions do not establish uniform hostility, perfect foresight or a fully disclosed common past."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "thesis on service plus independent life",
+     "longitudinal_arc": "longitudinal local planning/recovery and bounded prior-history references",
+     "public_private_self": "public/private competence versus inward wants",
+     "school_club_role": "Prefect reporting and resource constraints",
+     "ordinary_life": "coffee, games and birthday participation",
+     "crisis_behavior": "crisis competence at the source owner's scope rather than a permanent rescuer rule",
+     "sensei_relationship": "Sensei encounters with explicit wants/refusal and the JP access/request seam",
+     "major_peer_relationships": "Hina/Kayoko/Pandemonium directions",
+     "language_voice": "formal report register versus misdelivered insult/private diplomacy",
+     "competing_readings": "rivals of selfless aide, controlling devotee and merely comic overwork",
+     "evidence_route": "exact Gehenna20, GROUP1901–02 and MINI050/150 routes. Public event844's restrained fire and fatigue is an inherited MAIN-account comparator until its own whole owner is received by the monograph author."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F098",
+    "label": "Iori",
+    "literal_identity_field": "BA_PERSON_IORI",
+    "dated_retrieval_overlap_ids": [
+     "P3-A100"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F098 / BA_PERSON_IORI; P3-A100.** Iori has an independent argument about protective duty and rule application without granting either colleagues or the adult unlimited bodily access. Coin recovery, bandaging, pit rescue, sunscreen, entrusting an album and an entrusted-command request are particular acts, not a standing intimacy contract. Failed pursuit, unperformed nap, protested photography and deletion not shown complicate a simple stern-but-secretly-willing account.",
+     "GROUP1602 is especially useful because her initial favorable hygiene judgment and later adverse grade both actually occur. An intimidating entrance does not erase her fair concession; Izumi enjoying the same juice does not answer her harm. In S2 V002 C1E17 she distinguishes guns protecting ordinary students from arbitrary violence. EVENT846 E009–010 makes public help conditional: she requests Sensei's command, rejects the foot-licking alternative and requires a later explanation whose fulfillment is unprinted. This is direct Iori event evidence, not a fabricated V004 appearance."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "thesis on situated protective authority and personal limits",
+     "longitudinal_arc": "local evidence-responsive change within the assessment",
+     "public_private_self": "private care versus public rules",
+     "school_club_role": "Prefect evaluator/defender role",
+     "ordinary_life": "coins, naps and seasonal care",
+     "crisis_behavior": "protective dissent and train intervention",
+     "sensei_relationship": "explicit adult objections and selective reliance",
+     "major_peer_relationships": "Fuuka/Juri/Izumi, Hina and the train crew as different recipients",
+     "language_voice": "severe written commands, concession and refused perversion with sixteen GROUP160 seams",
+     "competing_readings": "rivals of vindictive inspector, universally fair officer and concealed-consent comedy",
+     "evidence_route": "Gehenna20, GROUP1102/1601–02/1901–02, EVENT846009–010 and MINI050/150. The source's choices remain alternatives."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IORI_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F082",
+    "label": "Chinatsu",
+    "literal_identity_field": "BA_PERSON_CHINATSU",
+    "dated_retrieval_overlap_ids": [
+     "P3-A099"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F082 / BA_PERSON_CHINATSU; P3-A099.** Chinatsu warrants an independent monograph because tea, music, ribbon/color decisions, shopping and disliked paperwork/injections make her more than the committee's medical function. A gift intended for a particular individual and a pleasant day with shared sorting should remain individuated. Help, a bath, future visits and actual present enjoyment have different endpoint degrees. Her reports of injury or paperwork decline describe situated professional experience, not a causal schoolwide improvement measure.",
+     "Her GROUP190 role includes difficult questioning, caution and ordinary food preferences. MINI050 supplies rank-sensitive mediation through a medical connection; that private route is neither a new diplomatic protocol nor proof that she heals the institution. The private and public records allow useful care alongside work fatigue and fallible judgment. No clinical cure or compulsory recipient gratitude follows."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "professional/personal thesis",
+     "longitudinal_arc": "local completed day versus future visits",
+     "public_private_self": "public duty and private taste",
+     "school_club_role": "Prefect procedure and medical connections",
+     "ordinary_life": "tea/music/shopping",
+     "crisis_behavior": "crisis reports and their exact evidentiary limits",
+     "sensei_relationship": "individual gift/help/Sensei contact",
+     "major_peer_relationships": "Hina/Iori/Ako plus mediated Saya and Shanhaijing peers at actual source scope",
+     "language_voice": "procedural written language, hedges and actor cautions",
+     "competing_readings": "rivals of an exclusively functional medic and a universally curative helper",
+     "evidence_route": "Gehenna20, GROUP1101–02/1901–02, MINI050 and S2 V002 contextual owner. Relative private chronology remains limited to explicit links."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHINATSU_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F029",
+    "label": "Makoto",
+    "literal_identity_field": "BA_PERSON_CH0079",
+    "dated_retrieval_overlap_ids": [
+     "P3-A038"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F029 / BA_PERSON_CH0079; P3-A038.** Makoto's distinct question is how small accommodations, affection and ordinary pleasure coexist with wanting to prevent independent thought, institutional subordination and coercive projects. Private merchant negotiation and compromises cannot erase refused alliance/property/conquest offers or incomplete remedies. Shopping, Lionmaru care adjustment, actual photo receipt/viewing, pudding, play and seasickness are positive interests. Her investment framing and affection denial remain her words rather than a diagnosis of hidden feeling.",
+     "GROUP1902 admits that correct paperwork cannot change the preselected rejection, and final budget cuts remain proposals requiring formal processing. MINI150 adds an actual apology and forgiveness after Ibuki broadens the promise to everyone's pudding, not only hers. Makoto's future compliance remains untested. MINI120 shows prestige and disclosure rhetoric about broadcasting; listener pleasure does not certify fair government. Genuine accommodation is a contrary case to a timelessly obstinate portrait, while punitive conduct defeats a uniformly benevolent one."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "accommodation/domination thesis",
+     "longitudinal_arc": "local apology–promise–forgiveness rather than variant growth",
+     "public_private_self": "private enjoyment versus public conquest",
+     "school_club_role": "Pandemonium rule/budget practices",
+     "ordinary_life": "pudding, animals, shopping and photographs",
+     "crisis_behavior": "S2 V002 coercion and bounded remedy",
+     "sensei_relationship": "refused/private adult offers",
+     "major_peer_relationships": "Ibuki/Iroha/Satsuki/Chiaki and Prefect recipients",
+     "language_voice": "grand declarations, victory rhetoric and formal limits with seams",
+     "competing_readings": "stubborn-tyrant, misunderstood-child and secretly-altruistic rivals",
+     "evidence_route": "Gehenna20, GROUP1902, MINI000/120/150 and S2 V002 owner. Whole event833/835 duties remain required receiving before their wider argument is adopted in a mature monograph."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MAKOTO_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F050",
+    "label": "Iroha",
+    "literal_identity_field": "BA_PERSON_CH0156",
+    "dated_retrieval_overlap_ids": [
+     "P3-A039"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F050 / BA_PERSON_CH0156; P3-A039.** Iroha's own reading and coffee are desired activities, not false masks for work or evidence of incapacity. The private account distinguishes sofa reading from actual completed work, arrival/coffee/cleaning before sunset and dinner return. Swim reading is chosen company; prospective escape or cohabitation is not an established home. JP still-in-swimsuit return and KR reading-all-day before return cannot be merged into an unseen clothing change.",
+     "Her care for Ibuki coexists with using a cocoa request and a fall as disproportionate audit leverage. Reluctance and a civil-servant disclaimer do not remove her agency. MINI150 gives the broader pudding principle, and MINI120 contrasts an assignment she wants to escape with Kirara/Erika freely enjoying the same activity. Private leisure does not cause public resignation, rescue or return by implication."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "quiet/work/partiality thesis",
+     "longitudinal_arc": "actual local task endpoints and bounded public changes",
+     "public_private_self": "private reading versus delegated coercive authority",
+     "school_club_role": "Pandemonium audit/broadcast role",
+     "ordinary_life": "coffee, books and company",
+     "crisis_behavior": "public conditional service and S2 V002 limits",
+     "sensei_relationship": "selected adult invitations without universal access",
+     "major_peer_relationships": "Ibuki/Makoto and Kirara/Erika directions",
+     "language_voice": "understated reluctance, role disclaimer and corrected procedural limit",
+     "competing_readings": "rivals of hidden mastermind, detached functionary and wholly innocent caregiver",
+     "evidence_route": "Gehenna20, GROUP1902, MINI000/020/120/150 and S2 V002. Her own public choices must remain distinct from another person's motive guess."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F028",
+    "label": "Ibuki",
+    "literal_identity_field": "BA_PERSON_CH0077",
+    "dated_retrieval_overlap_ids": [
+     "P3-A040"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F028 / BA_PERSON_CH0077; P3-A040.** Ibuki's monograph should preserve a child's authored interests and limits rather than making her a symbol through whom adults justify their choices. Failed carousel/parade/park plans coexist with actual enjoyable games. Vague career exploration is not a chosen career; needing help down is not independent descent; offered rice balls are not eaten corn. Her partial collage lacks sufficient material, not necessarily paper. Those precise small outcomes give her a distinctive repertoire of initiative, frustration and capability wishes.",
+     "GROUP1902 records cocoa, effort and her explicit statement that she will not cry; Iroha's punitive claim is not her self-report. MINI150 establishes voluntary departure after repeated pudding theft, refused escort home, actual play, a denial of kidnapping, continued wanted company and conditional forgiveness after a broader finger promise. Makoto's ten-pudding report is not ten witnessed replacements eaten. Her specific agency is necessary to the institutional and relational argument."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "authored-wishes thesis",
+     "longitudinal_arc": "actual departure/search/play/negotiation locally ordered",
+     "public_private_self": "private hobbies versus public use as a justification",
+     "school_club_role": "Pandemonium junior/guest footing",
+     "ordinary_life": "games/corn/craft",
+     "crisis_behavior": "lost-child help and source-bounded public peril without invented mastery",
+     "sensei_relationship": "offered adult assistance with actual refusals",
+     "major_peer_relationships": "Makoto/Iroha/PS68 as different directions",
+     "language_voice": "bright effort, denial and promise language",
+     "competing_readings": "helpless-mascot, omnipotent-child and universally-forgiving rivals",
+     "evidence_route": "Gehenna20, GROUP1902 and MINI020/150. Her sparse moments may require substantial analysis of what others claim for her, not fewer sections."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IBUKI_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F030",
+    "label": "Satsuki",
+    "literal_identity_field": "BA_PERSON_CH0080",
+    "dated_retrieval_overlap_ids": [
+     "P3-A129"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F030 / BA_PERSON_CH0080; P3-A129.** Satsuki's argument joins handholding relief, night papers, meals, escort, nails and curry udon to fallible attempts to control and exploit vulnerability. Actual small comfort remains real even though coin reversal or self-hypnosis is reported rather than a verified mechanism. Failed methods, adult refusal and an unfulfilled world-peace/control wish prevent treatment as either a proven hypnotist or a harmless caregiver. An invitation to a project is not participation.",
+     "MINI150 adds actual thanks and an offered desk with a real taste choice. Aru's ritual refusal is accepted, frustrating an unspoken expectation of a repeated offer. That quiet exchange changes how gift scripts work without supplying a desk delivery. Public NK Ultra comparisons require their actual operator/command limits, not a private technique retrofitted as the engineering cause."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "relief/control thesis",
+     "longitudinal_arc": "explicit encounter completions and failed attempts, no invented variant timeline",
+     "public_private_self": "personal care versus public instrumental ambition",
+     "school_club_role": "Pandemonium/project footing",
+     "ordinary_life": "grooming, meals and wanted time",
+     "crisis_behavior": "public project claims bounded by actual mechanism/role uncertainty",
+     "sensei_relationship": "Sensei refusal and selected relief",
+     "major_peer_relationships": "Makoto/Ibuki/Iroha/PS68",
+     "language_voice": "written persuasion, failed control and gift convention",
+     "competing_readings": "effective-controller, pure-caretaker and all-benefit-is-manipulation rivals",
+     "evidence_route": "Gehenna20, MINI150 and S2 V002 owner. Clinical or technical proof is not required for literary eligibility, but its absence must be retained."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SATSUKI_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F068",
+    "label": "Chiaki",
+    "literal_identity_field": "BA_PERSON_CH0238",
+    "dated_retrieval_overlap_ids": [
+     "P3-A224"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F068 / BA_PERSON_CH0238; P3-A224.** Chiaki has an independent argument about enthusiasm for making and sharing attention without unlimited permission to look, photograph or publish. Newspaper sharing, tastings, guests and return visits are ordinary positive evidence. Failed tenth-macaron tasting, unusable photographs and lost notes show limits; renewed cheer is not recovered notes or a published article. Favorable reviews after a price/portion change do not prove old complaints were false, and circulation/award/Makoto-nonobjection reports are not a media audit.",
+     "Her local photo permission and later look-at-me/do-not-look/stay-still changes belong to the same evidence of agency. Under-table confinement and departure must remain beside embarrassment and pleasure. MINI150 supplies actual photo organization and taking with later transmission only promised. Neither her enthusiasm nor a collective image becomes blanket participant consent."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "attention/permission thesis",
+     "longitudinal_arc": "specific loss/recovery-of-mood and permission revisions locally ordered",
+     "public_private_self": "reader-private wishes versus public newspaper work",
+     "school_club_role": "Pandemonium publicity and editorial reports",
+     "ordinary_life": "tasting, visits and small projects",
+     "crisis_behavior": "public risk/record-making bounded by actual received owner, not manufactured combat",
+     "sensei_relationship": "Sensei access and withdrawal",
+     "major_peer_relationships": "Makoto/Ibuki/office guests",
+     "language_voice": "energetic written invitation and literal reversals",
+     "competing_readings": "tireless-successful-journalist, publicity-instrument and secretly-unlimited-access rivals",
+     "evidence_route": "Gehenna20, MINI150 and S2 V002 account. The monograph's crisis section can explain a precisely limited received crisis role rather than invent an independent battle arc."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHIAKI_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F085",
+    "label": "Fuuka",
+    "literal_identity_field": "BA_PERSON_FUUKA",
+    "dated_retrieval_overlap_ids": [
+     "P3-A051"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F085 / BA_PERSON_FUUKA; P3-A051.** Fuuka's independent portrait must retain consumer taste, clothes/hair uncertainty, amusement, quiet conversation and peaceful wishes beside feeding work. Actual bargaining/return, soba and accompaniment are small fulfilled goods. The eighteen-dish adverse endpoint and an actual prescription without administration or cure counter universal beneficial-care claims. Eel purchase and return do not complete cooking or stamina recovery. Recipient preference constrains care, and her own preference constrains who may requisition her labor.",
+     "GROUP1104 offers oil and sincere help while overriding her practical warning, leaving no finished meal or cleanup. GROUP1602 gives hygiene effort, threatened budget, an adverse welcome and her unacted concealment proposal. MINI060 establishes freely chosen ingredient browsing and help for Mine's actually enjoyed cookies, then actual binding/protest and a misleading phone reassurance. The positive baking result does not release the captive cook. S2 V002's supply refusal and later boundaries remain alongside uncompleted restitution."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "authored-craft/labor thesis",
+     "longitudinal_arc": "actual task outcomes, changed requests and local public refusal",
+     "public_private_self": "private leisure versus institutionally claimed provision",
+     "school_club_role": "School Lunch resources and distributed work",
+     "ordinary_life": "food, clothes and quiet",
+     "crisis_behavior": "captivity/supply resistance and aftermath",
+     "sensei_relationship": "adult preference, refusal and fallible care",
+     "major_peer_relationships": "Juri/Gourmet/Mine and different recipients",
+     "language_voice": "practical warnings, inward plea and written provider language",
+     "competing_readings": "saintly-infinite-provider, passive-victim and uniformly-prudent rivals",
+     "evidence_route": "Gehenna20, GROUP1104/1601–02/1901, MINI060 and S2 V002 owner. EVENT844's completed shared food and holiday interruption remain required whole-owner receiving, not a debt dismissed as comedy."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FUUKA_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F101",
+    "label": "Juri",
+    "literal_identity_field": "BA_PERSON_JURI",
+    "dated_retrieval_overlap_ids": [
+     "P3-A138"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F101 / BA_PERSON_JURI; P3-A138.** Juri is eligible because her wish to make ordinary successful food has craft, knowledge, labor, disappointment, actual wins and relationships. The contest win/trophy/shared return and eaten/appraised parfait defeat a permanent-failure essence. Ingredient order and cooking-time knowledge coexist with failed curry, sprinklers and an unfinished replacement. Recognition of effort and a particular hand request matter with the dish still unresolved. Gardening is another enjoyed activity, not evidence that she abandoned cooking.",
+     "GROUP1602 contrasts cooperative reassurance and hospitality with adverse juice, mistaken sleep explanation and a final F. A moving dish's selfhood is her interpretation, not a newly validated person ontology. MINI060 shows misplaced trust in a report concealing Fuuka's restraint. The inherited EVENT844 comparison distinguishes another person's initial gunpowder spill from Juri's later cooking hazard and preserves competent service and actually shared final food; it does not make every dish safe."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "sustained-craft thesis",
+     "longitudinal_arc": "actual local award/parfait versus unresolved repeat failures",
+     "public_private_self": "private disappointment versus public provider role",
+     "school_club_role": "School Lunch partnership",
+     "ordinary_life": "gardening, cafés and recipe pleasure",
+     "crisis_behavior": "moving dish/hospitality and source-bounded emergency help",
+     "sensei_relationship": "recognition and chosen contact without permanent intimacy",
+     "major_peer_relationships": "Fuuka/Iori/Izumi and café recipients",
+     "language_voice": "enthusiasm, apology and actor-qualified safety interpretations",
+     "competing_readings": "incompetent-gag, misunderstood-perfect-cook and effort-as-automatic-success rivals",
+     "evidence_route": "Gehenna20, GROUP1601–02, MINI020/060 and S2 V002 account. EVENT844 whole-owner receiving is mandatory before a mature monograph claims its complete argument."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JURI_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F090",
+    "label": "Haruna",
+    "literal_identity_field": "BA_PERSON_HARUNA",
+    "dated_retrieval_overlap_ids": [
+     "P3-A050"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F090 / BA_PERSON_HARUNA; P3-A050.** Haruna's distinct argument asks what remains of a culinary standard when actual pleasure depends on situation, company and process. An actual shared hundred-yen noodle meal has divergent narrator/participant appraisals; a less satisfying repetition is reported. Technique, context and company remain serious rivals. Auction process can please despite disappointing taste; a bid is not final price. Cotton-candy production/machine proposal and the later MomoTalk selection precondition belong to different owners, preserving H-CMP-F01 rather than transferring interior context. A refused sports candy and accepted dinner invitation do not become feeding or a completed meal.",
+     "GROUP1101–04 and MINI060 retain elegant justification of destruction, later desired inclusion, declared impartiality failing at unfamiliar taste, genuine help without recipient control, generous cookie praise beside a hypothetical destructive response. S2 V002 apology and refusal of coerced food control do not finish repair. Standards, pleasure and affection are real, while legitimacy remains a different question."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "standards/situation thesis",
+     "longitudinal_arc": "only explicit local recalls and actual public reconsideration",
+     "public_private_self": "elegant public claim versus private withheld ornament meaning",
+     "school_club_role": "Gourmet standards and institution-facing acts",
+     "ordinary_life": "noodles, walks, auctions and clothes",
+     "crisis_behavior": "destruction/coercion/apology at actual scope",
+     "sensei_relationship": "adult refusal and reciprocal company",
+     "major_peer_relationships": "Izumi/Junko/Akari/Fuuka/Mine",
+     "language_voice": "polite register, sacrifice/care rhetoric and actor seams",
+     "competing_readings": "objective-taste, destructive-only and love-explains-all rivals",
+     "evidence_route": "Gehenna20, GROUP1101–04/1901, MINI060 and S2 V002. Private intimacy cannot acquit captive treatment."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HARUNA_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F003",
+    "label": "Akari",
+    "literal_identity_field": "BA_PERSON_AKARI",
+    "dated_retrieval_overlap_ids": [
+     "P3-A049"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F003 / BA_PERSON_AKARI; P3-A049.** Akari's appetite is not a sufficient character thesis. Miniburger company, garlic pleasure with lingering odor, wallet limits, shared mochi making, dress/gratitude and contest pride give independent social and consumer purposes. Narrated sixty portions in thirty minutes and an announced award are local outcomes, not validated physiology or proof of chemical sabotage. The JP driver/home versus KR near-hotel overnight ending remains a locale divergence, not one mutual overnight history.",
+     "GROUP1101 preserves useful clean supplies and shared sensory pleasure beside teasing and the false sacrificial framing of abandoned Izumi. GROUP1104 has willing help producing disorder. MINI060 shows pantry/appearance knowledge that another peer calls stalking, injury reported while shielding Haruna and actual enjoyment of cookies. Genuine care and playful pressure must remain together. Courteous wording is not an ethical certificate."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "appetite/play/pride thesis",
+     "longitudinal_arc": "local awards and returns with variant chronology bounded",
+     "public_private_self": "polite public manners versus private preference/embarrassment",
+     "school_club_role": "Gourmet participation and resource limits",
+     "ordinary_life": "garlic, mochi, fashion and shared food",
+     "crisis_behavior": "abandonment/intervention/coercion countercases rather than a fabricated metabolism rule",
+     "sensei_relationship": "adult withdrawal and conditional feeding",
+     "major_peer_relationships": "Haruna/Junko/Izumi/Fuuka",
+     "language_voice": "courtesy/stars and actual words with source seams",
+     "competing_readings": "appetite-only, flawless-caretaker and always-manipulative rivals",
+     "evidence_route": "Gehenna20, GROUP1101–04/1901, MINI060 and S2 V002. Performance and bodily capacity remain unverified."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKARI_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F148",
+    "label": "Junko",
+    "literal_identity_field": "BA_PERSON_ZUNKO",
+    "dated_retrieval_overlap_ids": [
+     "P3-A048"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F148 / BA_PERSON_ZUNKO; P3-A048.** Junko's monograph should make modest satisfaction and dissatisfaction meaningful rather than defining her as a succession of unlucky jokes. Economy, self-image, privacy, appearance embarrassment and reciprocity are particular interests. Actual modest noodle pleasure differs from failed substitutes. Immediate kelp expulsion, medicine purchase and a later relief report do not establish permanent cure. New-Year cakes/greetings have actual local fulfillment, while anonymous strike remarks, refused praise and unspoken offers stay bounded.",
+     "GROUP1101–04 gives sensible objections, smell discovery, meal flexibility and resistance to teasing beside condemnation of Izumi and participation in disruptive help. MINI060 makes her explicit challenge to stalking and rescue euphemism matter, while preserving injury and incomplete release. Criticism is neither universal tolerance nor innocence of everything the ensemble does. MINI120's anonymous misfortune letter cannot be joined to her merely because it resembles her predicament."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "economy/dissatisfaction/participation thesis",
+     "longitudinal_arc": "actual local relief/return not a cured life course",
+     "public_private_self": "public critic versus private consumer and privacy",
+     "school_club_role": "Gourmet role",
+     "ordinary_life": "meals, self-image and gifts",
+     "crisis_behavior": "harmful collective acts and affected body at source scope",
+     "sensei_relationship": "actual adult assistance with refused praise and recipient limits",
+     "major_peer_relationships": "Akari/Izumi/Fuuka/medical responders",
+     "language_voice": "blunt corrections and ZUNKO literal key",
+     "competing_readings": "luck-only, invariant-reason and universally-tolerant rivals",
+     "evidence_route": "Gehenna20, GROUP1101–04, MINI060 and S2 V002. Unclassified or anonymous likeness is a retrieval question, never person proof."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JUNKO_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F099",
+    "label": "Izumi",
+    "literal_identity_field": "BA_PERSON_IZUMI",
+    "dated_retrieval_overlap_ids": [
+     "P3-A052"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F099 / BA_PERSON_IZUMI; P3-A052.** Izumi warrants a monograph about sincere enjoyment, belonging and what enjoyment cannot authorize for another person. Private cat reconciliation, help/play, gratitude, commissioned service apology and making the adult's preferred dishes broaden exotic taste into reciprocal intention. Health/taste reports do not prove immunity, and choosing an adult's ordinary food does not show identical preferences.",
+     "Her recalled plea not to be abandoned directly contradicts the group's sacrifice story. Later shared aroma and hoped-for inclusion are real without erasing unreliability. A reported receptor classification fails to settle her felt pleasure; the shampoo analogy is an unacted question. GROUP1602 gives hygiene interest and pleasurable juice that harms Iori. MINI060 records capture/pain and her mistaken interpretation of bound Fuuka's wishes. Sincere appetite has rights and limits; it is not merely a comical mechanism."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "pleasure/inclusion/responsibility thesis",
+     "longitudinal_arc": "local cat/service results and public boundaries, not numbered growth",
+     "public_private_self": "private reciprocity versus product/public-food claims",
+     "school_club_role": "Gourmet visitor status distinct from Lunch membership",
+     "ordinary_life": "actual food/play",
+     "crisis_behavior": "abandonment, captivity and harmful hospitality",
+     "sensei_relationship": "adult-specific cooking/help",
+     "major_peer_relationships": "peers' care failures and Fuuka/Iori recipients",
+     "language_voice": "invitations/protests and classification language with seams",
+     "competing_readings": "appetite-only, immune-body and universally-harmless-pleasure rivals",
+     "evidence_route": "Gehenna20, GROUP1101–04/1601–02, MINI060 and S2 V002. A clinically unexplained taste remains analyzable."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IZUMI_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F033",
+    "label": "Kasumi",
+    "literal_identity_field": "BA_PERSON_CH0089",
+    "dated_retrieval_overlap_ids": [
+     "P3-A136"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F033 / BA_PERSON_CH0089; P3-A136.** Kasumi's argument combines enabling Meg's chosen work with affection, private study and commercial calculation, while preserving coercive shortcuts. Quiet study alongside adult paperwork, preparatory shopping and narrow disclosure/refusal are independent interests. A self-as-tool strategic report does not prove every care act simulated. Sandals later reported received do not complete a BOND transfer/descent; compensation/debt is not a refund, and completed trade/shopping does not validate ordnance safety or public benefit.",
+     "GROUP3501 recognizes remembered snow/bath care, valued rest and rapport, then proposes hijacking transportation. GROUP3502 exposes a scripted suspicious gift and an actual warning transmitted without changed future conduct. Meg's personal chosen-work account is stronger than a worker's motive guess, but no full election/roster audit follows. Hina's unnamed あそこ does not establish a Bodensatz or other faction join. Warmth and objectionable means both belong in her portrait."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "enabling/shortcut thesis",
+     "longitudinal_arc": "recognized memory versus unseen original incident and later warning reaction",
+     "public_private_self": "private study/refusal versus public development rhetoric",
+     "school_club_role": "Hot Springs director and labor/logistics",
+     "ordinary_life": "baths, shopping and study",
+     "crisis_behavior": "public coercion and club-freedom claim at S2 V002 scope",
+     "sensei_relationship": "particular adult negotiation and limits",
+     "major_peer_relationships": "Meg/workers/Hina",
+     "language_voice": "expansive laughter, strategic footing and35 display/text seams",
+     "competing_readings": "benevolent-enabler, wholly-manipulative and hidden-origin-certainty rivals",
+     "evidence_route": "Gehenna20, GROUP3501–02/1901 and S2 V002. Source gaps prevent origin certainty, not an independent monograph."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KASUMI_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F032",
+    "label": "Meg",
+    "literal_identity_field": "BA_PERSON_CH0088",
+    "dated_retrieval_overlap_ids": [
+     "P3-A137"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F032 / BA_PERSON_CH0088; P3-A137.** Meg has a substantive independent thesis about wanting to dig, not wanting office, and caring for people while failing to understand some institutional meanings. Failed melting/sold-out snack coexist with actual food pleasure, kendama and shared noodles. A proposed joint bath becomes successive use accepted first, not simultaneous intimacy. Further excavation remains future; adult return/rest and complete MomoTalk gratitude/scolding/care are actual bounded endpoints.",
+     "Workers recognize her shared effort and resist resting alone while she keeps working; she wants them to enjoy what they made. Her inference that Kasumi likes snow baths differs from Kasumi's recognized memory and extreme unverified healing rhetoric. She can faithfully relay Hina's warning without understanding a suspicious gift script. Own preferred digging materially revises other people's speculation about surrendering leadership, while her public development acts can still burden outsiders."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "chosen-craft/care thesis",
+     "longitudinal_arc": "local first-person correction of a peer motive guess and encounter outcomes",
+     "public_private_self": "cheerful worker/private player versus outward development",
+     "school_club_role": "work-leader/director history as testimony",
+     "ordinary_life": "snacks/games/baths",
+     "crisis_behavior": "source-scoped coercive development and desired Gehenna service",
+     "sensei_relationship": "care/invitations with actual adult limits",
+     "major_peer_relationships": "Kasumi/workers/Hina",
+     "language_voice": "song/courtesy/uncertainty with raw actor seams",
+     "competing_readings": "thoughtless-mascot, exploited-worker and universally-considerate-helper rivals",
+     "evidence_route": "Gehenna20, GROUP3501–02/1901 and S2 V002. Sparse independent MAIN presence does not cancel this argument."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MEG_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F031",
+    "label": "Sena",
+    "literal_identity_field": "BA_PERSON_CH0081",
+    "dated_retrieval_overlap_ids": [
+     "P3-A036"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F031 / BA_PERSON_CH0081; P3-A036.** Sena's distinct question is how professional vigilance coexists with wanted quiet off-day company, craft, horizon and picnic food, and how helpful intent encounters recipient resistance. A half-day organization task is done without proving health recovery. CPR is conditional rather than an actual rescue; custody refusal and an unconscious officer after force do not validate safety. Placed medicine/towel/blanket reports are not compliance or cure. Her refusal of merchandise/free giveaway is a choice beside her particular assistance, not evidence that she never wants anything.",
+     "The private account preserves leftover-food branches without fictive delivery/eating. MINI020 and the inherited EVENT844 comparison supply peer/public care tensions, clothing, games/film pleasure and painful-treatment objections. Those comparators prevent reduction to a corpse joke or a flawless emergency professional. They also require accurate endpoint language rather than equating every treatment with healing."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "vigilance/company/limits thesis",
+     "longitudinal_arc": "actual task completion versus future/conditional care",
+     "public_private_self": "professional stance and private leisure",
+     "school_club_role": "medical/custody institutional constraints",
+     "ordinary_life": "craft/horizon/food",
+     "crisis_behavior": "force/treatment source boundaries",
+     "sensei_relationship": "Sensei as particular patient/companion with refusal",
+     "major_peer_relationships": "colleagues and people resisting help",
+     "language_voice": "literal medical/custody and ordinary invitation registers",
+     "competing_readings": "automatic-care, emotionless-function and all-quiet-company-as-therapy rivals",
+     "evidence_route": "Gehenna20, MINI020 and S2 V002 account. Whole EVENT844 is a monograph receiving duty, not clinical proof or an exclusion gate."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SENA_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F027",
+    "label": "Erika",
+    "literal_identity_field": "BA_PERSON_CH0076",
+    "dated_retrieval_overlap_ids": [
+     "P3-A087"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F027 / BA_PERSON_CH0076; P3-A087.** Erika's argument should protect solitude as an ordinary end while showing actively chosen public and private company. Browsing, late dinner, conversation, roof view and walk actually happen; relief and prospective self-understanding are reported at their own degree. Friends are expressly blameless for her solitude. Refused money, withheld bandage-shop information, objection to use-me wording and a local apology do not become permanent therapy or unlimited adult access. JP horizon and KR dusk remain different textual details.",
+     "MINI020 club exploration and MINI120 broadcast deepen the independent portrait. The hosts value audience preference, restore the broadcast, enjoy it and decline replacing another student permanently because losing a place can hurt. A colloquial club label does not prove formal registration. The inherited EVENT835 account adds hair-preserving refusal of a lunch fight, craft/clothing/company and reciprocal friendship with proximity concerns. Ordinary choices can be serious without a private crisis biography."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "solitude/chosen-company/audience thesis",
+     "longitudinal_arc": "local apology, broadcast repair and refusal with global order unresolved",
+     "public_private_self": "private solitude versus public host",
+     "school_club_role": "club exploration and temporary broadcasting",
+     "ordinary_life": "shops/view/walk/fashion",
+     "crisis_behavior": "bounded public disturbance and refusal, not invented trauma",
+     "sensei_relationship": "adult wording/privacy/money boundaries",
+     "major_peer_relationships": "Kirara/Iroha/Umika at attributed scope and unseen prior host as an affected person",
+     "language_voice": "source-local written corrections and broadcast labels",
+     "competing_readings": "lonely-victim, uniformly-social-host and successful-work-as-permanent-consent rivals",
+     "evidence_route": "Gehenna20, MINI020/120 and S2 V002 account. EVENT835 whole-owner receiving remains required for its complete public argument."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ERIKA_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F107",
+    "label": "Kirara",
+    "literal_identity_field": "BA_PERSON_KIRARA",
+    "dated_retrieval_overlap_ids": [
+     "P3-A086"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F107 / BA_PERSON_KIRARA; P3-A086.** Kirara's independent argument concerns fashion, sweets, novelty and useful company, coupled with study failure and the right to keep an object private. Failed-exam report, wrong study range, resumed study and later passing report are not an audited grade or sole-cause tutor success. Actual notebook recovery then later snatching/embarrassed departure preserve unresolved privacy. Local hand permission, proposed matching shirts not paid for, and an unnamed lick whose target/action is uncertain cannot be merged into guaranteed kissing or lasting access. Nineteen notebook actor seams stay explicit.",
+     "MINI020/120 gives voluntary unfamiliar public work, advice about negotiated preferences, actual restored/represented successful broadcasting and the refusal to displace a possible returning host. Helping an audience can be enjoyable in itself, while the suggestion to stream misfortune has a serious commodification rival. Club fields do not confer office. Her ordinary repertoire is enough to own a monograph whose crisis section is accurately bounded."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "connection/fallibility/privacy thesis",
+     "longitudinal_arc": "local study and object events without causal-calendar overreach",
+     "public_private_self": "fashion/ordinary self versus public host",
+     "school_club_role": "temporary work and club-form limits",
+     "ordinary_life": "sweets, clothing, study and new places",
+     "crisis_behavior": "public disturbance response at selected MINI/qualified event scope",
+     "sensei_relationship": "explicit hand/notebook/contact boundaries",
+     "major_peer_relationships": "Erika/Iroha and audience/previous host",
+     "language_voice": "enthusiasm and literal refusal, nineteen seams",
+     "competing_readings": "carefree-empty-gal, perfect-helper and gratitude-as-access rivals",
+     "evidence_route": "Gehenna20, MINI020/120 and S2 V002 account. Whole835 comparison remains a duty before final adoption, not a stakes test."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KIRARA_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F006",
+    "label": "Aru",
+    "literal_identity_field": "BA_PERSON_ARU",
+    "dated_retrieval_overlap_ids": [
+     "P3-A094"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F006 / BA_PERSON_ARU; P3-A094.** Aru warrants a monograph on leadership as staff care, recognized company and an imagined future which can interfere with information and legitimate means. Staff rewards, management study, cinema, cherished peer-gift wallet and a favorite dress matter beyond solvency. Simulated hiring success is not twenty-four contracts. Ungrounded adult encouragement can help her imagine a future without becoming a correct prediction. She refuses cheek-kiss/date/evaluation/carry/consolation offers at particular points; relief does not solve the garment-funding problem or authorize every visit.",
+     "The dress repair does have a positive narrated financial endpoint: Sensei pays and the dress returns, then Aru actually repays immediately after unfreezing despite repeated refusals. Investment is her reframe, not an equity contract. GROUP2201 combines genuine recognition of a suspicious pitch with explicit retaliation commands; that differs from MAIN's post hoc ratification of Haruka's uncommanded restaurant blast. MINI130 gives inward fear for employees/hostages, actual surrender as rescue tactic, rescue/arrest and an actually enjoyed dinner. MINI150 shows helpfulness alongside boundaries and coffee taste, not a uniformly competent outlaw persona."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "leadership/shared-life/persona thesis",
+     "longitudinal_arc": "explicit local rental/dress/repayment/mini rescue ordering and qualified public changes",
+     "public_private_self": "president performance versus ordinary adult-company wishes",
+     "school_club_role": "PS68 reward/finance/contract claims",
+     "ordinary_life": "clothes, ramen/cinema/study",
+     "crisis_behavior": "command, hostage choice and protective rescue",
+     "sensei_relationship": "adult encouragement, pressure/refusal and actual reimbursement",
+     "major_peer_relationships": "three employees/Ibuki and hostages as distinct people",
+     "language_voice": "president/employee/adviser footing and source alternatives",
+     "competing_readings": "empty-pretender, saintly-employer and always-unfinished-reciprocity rivals",
+     "evidence_route": "complete Aru checkpoint, GROUP1901/2201, MINI130/150 and qualified V001/V100 comparisons. Event809/810/821/834 and unclassified92030 remain source-specific authoring duties, not source absence or exclusions."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ARU_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F122",
+    "label": "Mutsuki",
+    "literal_identity_field": "BA_PERSON_MUTSUKI",
+    "dated_retrieval_overlap_ids": [
+     "P3-A095"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F122 / BA_PERSON_MUTSUKI; P3-A095.** Mutsuki's independent question is how authored play, real care and chosen culture coexist with incomplete deception, contested rules and financial motives contrary to company welfare. Powered-off-device cheating is exposed and the adult leaves. Nearly five hours of games include drinks and a bag boundary which the adult violates while denying it. The self-authored commission pressures the teacher and public books; restoration is promised, not verified. A timed-bomb alarm precedes actual store-bought food care, not her cooking or a safety certificate.",
+     "New-Year game obedience is contested through an actual rule objection; the adult-authored blank ema is not her revealed wish. Dress play stops at her own refused escalation, and she likes the tea the persona rejected. Most decisively, she declines retaining money because fully funding PS68 would reduce the fun, asks secrecy from peers and entrusts money; donation remains an adult intention, not a receipt. Freely wanted opera, casual food/conversation and restraint about disturbing the teacher resist treating every motive as teasing or manipulation. MINI130 adds actual coordinated rescue and gratitude to Haruka without erasing humiliating threats or unknown injuries."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "authorship/pleasure/limits thesis",
+     "longitudinal_arc": "explicit recollections and local exposed tricks rather than omniscient growth",
+     "public_private_self": "playful presentation versus reader-private trust/funds",
+     "school_club_role": "PS68 action leadership and resource countercase",
+     "ordinary_life": "games, tea, opera and yakitori",
+     "crisis_behavior": "retaliation/rescue with actual endpoints",
+     "sensei_relationship": "mutual objections, willing chair use and halted escalation",
+     "major_peer_relationships": "Aru/Kayoko/Haruka and recipients of tactics",
+     "language_voice": "client/privacy/obedience/villainess registers, ruby seams and alternatives",
+     "competing_readings": "all-controlling-child, purely-beneficent-play and firm-welfare-maximizer rivals",
+     "evidence_route": "full checkpoint, GROUP1901/2201, MINI130/150 and qualified V001/V100 comparators. A disguise is not a new person and culture needs no danger to qualify."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/MUTSUKI/BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MUTSUKI_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F104",
+    "label": "Kayoko",
+    "literal_identity_field": "BA_PERSON_KAYOKO",
+    "dated_retrieval_overlap_ids": [
+     "P3-A096"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F104 / BA_PERSON_KAYOKO; P3-A096.** Kayoko's distinctive thesis holds practical competence and a wanted quiet life together without infallible restraint or permanent detachment. She prefers cleaning alone, objects to an offer and later explicitly accepts heavy-load help; a clean office is actually achieved. Document finding/receipt and permitted entry are local completions, not permanent Schale access. Metal-sharing discomfort coexists with actual enjoyed jazz; school/appearance stereotypes are explicitly corrected. A tentative former-noise account does not identify an old institution or clinical recovery.",
+     "Umbrella contact, delayed viewing, one-cup enjoyment, canceled bells with pleasant overnight conversation, actual shared sleep and calm/sunset company each retain their own small endpoint. She likes talking with Sensei, not just anyone. Repeated adult-role dinner persuasion receives an objection before acceptance; later she refuses a sole-adult-provider rule and wants her own treat, which is not a narrated payment. GROUP2201 shows incomplete restraint. MINI130 gives planning/rescue; MINI150 gives chosen PS68 belonging and bounded earlier-council/storm references, not an invented secret biography."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "selective-connection/reciprocity thesis",
+     "longitudinal_arc": "explicit umbrella/dinner/phrase references and mini rescue sequence",
+     "public_private_self": "quiet private choice versus professional risk assessment",
+     "school_club_role": "PS68 labor and role boundaries",
+     "ordinary_life": "cats, metal/jazz, clothes and rest",
+     "crisis_behavior": "strategic rescue and V100 confirmation at accepted scope",
+     "sensei_relationship": "initial help/compliment/topic refusals, adult persuasion and student no",
+     "major_peer_relationships": "Aru/Mutsuki/Haruka/Ako with differential obligations",
+     "language_voice": "short refusals, hedges and mirrored role rhetoric with four private seams",
+     "competing_readings": "infallible-brake, criminal-past-certainty and support-only-from-adults rivals",
+     "evidence_route": "full checkpoint, GROUP1901/2201 and MINI130/150. Cats and anonymous police remain unjoined where the source does not identify them."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/KAYOKO/BLUE_ARCHIVE_KAYOKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYOKO_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   },
+   {
+    "candidate_unit_id": "P3-F089",
+    "label": "Haruka",
+    "literal_identity_field": "BA_PERSON_HARUKA",
+    "dated_retrieval_overlap_ids": [
+     "P3-A097"
+    ],
+    "overlap_identity_limit": "Dated A has no raw person identity; exact label is retrieval overlap only, not new person join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_case": [
+     "**P3-F089 / BA_PERSON_HARUKA; P3-A097.** Haruka's monograph should retain authored gardening, route/material/art judgment, literal refusal and fulfilled small wishes beside self-devaluation and unsafe methods. Cultivation exists before the adult discovers or praises it. Helping unnoticed plants, guided soil return and lap-pillow care give reciprocal competence; Sensei's mistaken farewell/navigation and collapse defeat the infallible-provider story. Pot protection destroys the gift, unopened goods are actually returned with joint apology, costly kimono replacement is refused and support changes to sweets/warmth. Contact without tribute is welcomed but not fully understood once and for all.",
+     "Dress security has narrator-confirmed suppression with severe venue damage and later overbroad-shooting reports. Fixed adult job-defense/violence-solves-everything wording cannot be softened into a responsible reprimand by imagined performance. Yet actual slower walking fulfills her small expressed wish, and museum viewing supplies her own toughness/persistence criterion without declaring beauty wrong. MINI130 locates pre-membership refusal to disclose, actual protective rescue/arrest and the flowering weed, then explicitly rejects endless repayment and makes all four constitutive of PS68. Actual flowering is not a narrated office transplant or permanent recovery."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "cultivation/recognition/dangerous-service thesis",
+     "longitudinal_arc": "explicit next-day/exposition/mini pre-membership and later rescue links without global variant development",
+     "public_private_self": "source-private self-evaluation versus public loyalty",
+     "school_club_role": "PS68 command/choice and unverified security manual",
+     "ordinary_life": "plants, sweets, coffee aroma, art and slow time",
+     "crisis_behavior": "independent bombs, damaging protection and rescue",
+     "sensei_relationship": "recipient-specific refusal, adult pressure/fallibility and permission to err",
+     "major_peer_relationships": "Aru/Mutsuki/Kayoko and harmed recipients",
+     "language_voice": "tribute/debt/death vocabulary, timed narration and open-object好き",
+     "competing_readings": "helpless-dependent, resilience-as-invulnerability and completed-rehabilitation rivals",
+     "evidence_route": "full checkpoint, GROUP1901/2201 and MINI130/150. Self-devaluation does not invalidate authorship; pleasure does not erase harm."
+    },
+    "candidate_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/HARUKA/BLUE_ARCHIVE_HARUKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HARUKA_CHARACTER_MONOGRAPH.md",
+    "remaining_required_receiving": "Relevant complete positive public/private/written owners must be received before monograph adoption. Specific obligations and inherited-only whole-event comparison limits are retained in the feasibility/evidence route and argument §6.",
+    "no_exclusion_basis": "No stakes, comedy, popularity, crisis, sparse MAIN, profile count, source count or model-grade filter."
+   }
+  ],
+  "N_frozen": false,
+  "quarter_credit": false,
+  "relationship_and_institution_duties_separate": true
+ }
+}

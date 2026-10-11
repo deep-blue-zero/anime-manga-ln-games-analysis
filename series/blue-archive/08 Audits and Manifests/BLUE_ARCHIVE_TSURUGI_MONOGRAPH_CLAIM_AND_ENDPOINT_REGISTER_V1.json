@@ -1,0 +1,710 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+    "bytes": 35449,
+    "sha256": "26acbb533c220d5851d815cd2099135e6bbdea2dd2a1d48f38381710fe5bd43e",
+    "git_blob_oid_of_actual_bytes": "4190dfb35425f4e60f8d8daf280bc2bb9df69ded"
+  },
+  "frozen_claim_register_qualification": "The nested claim register retains original paragraph/line coordinates and exact original support meaning. Use the exhaustive frozen→canonical saved line joins and changed range texts in the current saved-output receipt; historical addresses are never presented as current addresses.",
+  "canonical_saved_line_mapping": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TSURUGI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+  "public_exact_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TSURUGI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "historical_frozen_claim_and_endpoint_register": {
+    "schema": "BLUE_ARCHIVE_PHASE3_TSURUGI_CLAIM_AND_ENDPOINT_V1",
+    "status": "AUTHOR_VERIFIED_ROOT_RECEIVING_PENDING",
+    "claims": [
+      {
+        "claim_id": "TS01",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 30,
+        "joined_saved_paragraph": "In the accepted Eden crisis, Tsurugi and Hinata de-escalate a Justice–Prefect confrontation before the cathedral catastrophe changes the situation. Hasumi and Tsurugi then hold an evacuation rear guard while Hinata physically frees Sensei and other students and rescue teams have separate roles. Later injury reports and responsiveness are distinct states, not a continuous proof of full health. The episodes show effective public responsibility; their significance does not depend on claiming that she could prevent the whole attack or that all rescue was her work. [M03:E006–E018]",
+        "support": [
+          {
+            "source_id": "M03",
+            "accepted_argument_locator": "episodes E006–E018; checkpoint L38/L46",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "De-escalation and rear guard do not establish sole rescue, prevention of whole attack or clinical recovery.",
+        "directed_recipients_and_agency": "Hinata, Hasumi and other rescue actors retain independent acts; Tsurugi injury/responding states separate.",
+        "actual_endpoint_and_unfinished_coda": "Actual protective acts, later injury reports and responsiveness; full recovery unprinted.",
+        "applicable_open_gaps": [
+          "G01",
+          "G04",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS02",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 32,
+        "joined_saved_paragraph": "GROUP1801 supplies a different public endpoint: a rescue followed by hospital and administrative consequences. The unnamed hostage fears the impending force, the entrance and explosion occur, and subsequent reports describe hospitalized hostages, possible trauma, difficult treatment and a collapsed building's rescue work. Nagisa's sent video orders participation in other clubs tomorrow without exceptions. This is a compulsory day away from normal duty, not freely chosen rest. The plan to learn ordinary loving contact is Nagisa's expectation; the following visits test it without proving a general remedy for either rescue harm or Tsurugi's social problems. [G01:1801:s1:u0002–0019/s2:u0002–0045]",
+        "support": [
+          {
+            "source_id": "G01",
+            "accepted_argument_locator": "1801:s1:u0002–0019/s2:u0002–0045",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Compulsory contact is not freely chosen rest or a successful cure; medical attribution/report not diagnosis or complete causal map.",
+        "directed_recipients_and_agency": "Hostage fears impending force; care workers and Nagisa report outcomes, Mashiro/Hasumi administrative work distinct.",
+        "actual_endpoint_and_unfinished_coda": "Rescue succeeds; hospital/treatment/building and compensation work remain qualified; tomorrow contact ordered.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS03",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 34,
+        "joined_saved_paragraph": "The base private pairs reveal why ordinary instructions do not automatically work. A magazine's advice about provocation and distance is interpreted through her familiar enemy-oriented vocabulary, then rejected internally. Hours of failed composition and accidental speech-recognition sending lead to pursuit and an actual train impact. The identification-photo pair shifts progressively away from the task until the teacher admits failure, but Tsurugi appreciates the ordinary outing. Fine-dining atmosphere is staged as a date experience and ends with narrated enjoyment, while panic and unpreparedness remain. These are different attempts at participation, not three successful steps in a standardized romance curriculum. [T01:10013:002/003/005, whole message endings]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "10013:002/003/005 whole arguments/codas",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Manual instruction is not fixed cure; enemy-provocation thought rejected not attack; alternatives not jointly realized.",
+        "directed_recipients_and_agency": "Wanted learning/date and adult pursuit/imperfect instruction both retained.",
+        "actual_endpoint_and_unfinished_coda": "Train impact, failed photo task with enjoyed outing, narrated date enjoyment with panic.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS04",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 36,
+        "joined_saved_paragraph": "The film collection makes an important revision to an ignorance-only account. She has cherished media and an orderly room already; she often watches alone because she does not want to force others. When a shared invitation arrives, she explicitly checks whether it is real and the adult's alternatives leave solitude available. They begin organizing together and discuss a future choice. Actual organization and wanted future viewing are meaningful; attendance at the later screening is still unshown. Inclusion works here by asking and adjusting to an existing interest, rather than supplying her first capacity for feeling. [T01:10013:020]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "10013:020 whole100130210/tail080–220",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Collected objects not diagnosis; invitation not unlimited access; future screening unshown; no imported real film plots.",
+        "directed_recipients_and_agency": "Her existing hobby, solitude to avoid imposing and explicit invitation check; adult alternatives allow privacy.",
+        "actual_endpoint_and_unfinished_coda": "Actual organizing begins and continuing joy; later chosen film remains future.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G12",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS05",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 38,
+        "joined_saved_paragraph": "Summer follows a locally connected sequence without fixing its position against the base pairs or public events. A wanted crowded, novel-like beach becomes a place where tourists retreat and Tsurugi remains alone. The adult knows more about the presumed ghost than he tells her, and his romantic two-person reframing ends with him alone. Later dangerous beach-ball play is abandoned for an unconventional successful frisbee practice, followed by fatigue and a positive message coda. At the sea she finally assesses the experiences as enjoyable and values coming together, despite their mismatch with a novel's ideal. This is local reappraisal, not the permanent disappearance of nervousness, violent conduct or audience fear. [T01:16005:002/003/005]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "16005:002/003/005 whole paired endings",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Ghost unverified; no tourist return; unconventional play not inherently coercive; no permanent social cure.",
+        "directed_recipients_and_agency": "Strangers fear, her mistaken explanation, adult withholding and activity change retain different knowledge.",
+        "actual_endpoint_and_unfinished_coda": "First failed accompaniment; actual frisbee pleasure/rest; quiet local appraisal and future wanted trip.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS06",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 46,
+        "joined_saved_paragraph": "Her own view is not interchangeable with the reader's access. In GROUP1802, the Sweets peers have parenthesized fears, Airi proposes approaching and Kazusa checks an imagined threat of being eaten. Tsurugi later says it was fun and she felt welcomed. No actual eating threat or attack occurs, and the asides do not prove that she heard the peers' apprehension. Her happiness is not a knowingly false account merely because the reader sees unequal experience. Conversely, her report cannot prove reciprocal comfort. Mashiro's question and Hasumi's relief retain the disagreement between individual feeling and a group's reception. [G01:1802:s1:u0034–0062/s2:u0002–0021]",
+        "support": [
+          {
+            "source_id": "G01",
+            "accepted_argument_locator": "1802:s1:u0034–0062/s2:u0002–0021",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Felt welcome is not mutual comfort; asides do not prove she heard fear; no actual eating threat or deliberate lie.",
+        "directed_recipients_and_agency": "Airi proposes approach, Kazusa checks fear, others anxious, Mashiro questions reciprocity and Hasumi relieved.",
+        "actual_endpoint_and_unfinished_coda": "Tsurugi reports actual pleasure; peers apprehension remains independently meaningful.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS07",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 50,
+        "joined_saved_paragraph": "Privacy is an affirmative practice too. She avoids imposing her preferred films, checks the invitation and can choose what a later joint visit might be. Written waiting, readiness to help and happiness in company coexist with an inward wish to go home. These are not contradictions that must be forced into either total rejection or limitless access. They describe different contexts and demands. Her interests and boundaries remain legitimate even when she cannot always articulate them smoothly or when other people misread her expression. [T01:10013:020; 10013/16005 written clauses]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "10013:020;10013/16005 written",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Readiness/happiness and inward desire home not full rejection or unlimited availability; capability-limited offer not total consent.",
+        "directed_recipients_and_agency": "Her preferred film/private room and other recipients retain choice.",
+        "actual_endpoint_and_unfinished_coda": "Actual checked invitation/organization; future viewing and address-conditioned promises unprinted.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS08",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 54,
+        "joined_saved_paragraph": "Tsurugi's institutional force is sometimes useful and sometimes costly, with other actors managing consequences. De-escalation and the rear guard are actual protective work. The hostage account includes unknown opening laughter strongly associated with the following entrance, but that association does not assign those utterances conclusively. Medical and administrative witnesses then qualify the result: hospitalization, possible trauma, treatment reports and compensation processing are not all a completed restitution audit. Mashiro's argument that damage cannot always be zero is not automatic justification for its degree. Responsibility includes asking what happened to protected people, not only whether an enemy was defeated. [M03; G01:1801]",
+        "support": [
+          {
+            "source_id": "G01",
+            "accepted_argument_locator": "1801 complete;unknown u0015–0016",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "M03",
+            "accepted_argument_locator": "E006–E018",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Unknown laughter association not definitive join; reports not clinical/compensation/force audit; nonzero damage argument not automatic justification.",
+        "directed_recipients_and_agency": "Named institutional peers and generic hostage/gang remain separate; affected people actual recipients.",
+        "actual_endpoint_and_unfinished_coda": "Actual protective action and reported rescue harms; unprinted restitution and full recovery.",
+        "applicable_open_gaps": [
+          "G06",
+          "G07",
+          "G08",
+          "G09",
+          "G12",
+          "G13"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS09",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 56,
+        "joined_saved_paragraph": "Hasumi's role alongside her is more complicated than a deputy compensating for pure incompetence. The sports profile explains Hasumi's external responsibilities through Tsurugi's difficulty with them. Christmas reveals that Hasumi has also used Tsurugi's intimidation in hard venue negotiations. Tsurugi's fearsome presence can therefore become an instrument even when she wants ordinary contact; the method is expressly challenged by Mine. At the party Tsurugi worries that merely sitting will make others tense, chooses an easier outside location and offers Mashiro relief. Those are her own practical adjustments, not a demonstrated inability to enjoy leisure or an automatic banishment by the group. [T01:Hasumi16011 written; E19:006–007]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "Hasumi16011 written; checkpoint L372–L373",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E19",
+            "accepted_argument_locator": "006–007",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Intimidation challenged; external-responsibility accommodation not replacement of commander identity; outside choice not automatic exclusion.",
+        "directed_recipients_and_agency": "Hasumi deploys presence; Mine objects; Tsurugi chooses easier guard position and offers relief.",
+        "actual_endpoint_and_unfinished_coda": "Real guard shift and negotiation account; no universal party comfort or harmless method.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS10",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 58,
+        "joined_saved_paragraph": "Protecting rare rest is a wanted public purpose. When Mine interrupts the guards' explanation and frames force as rescue, Tsurugi defends the party and Mashiro voluntarily refuses to leave her alone. Mine gives her own juniors legitimate alternatives, and their subsequent choices remain theirs; neither institution is one uniform mind. After the conflict, Tsurugi recovers enough to join renewed action, then gives a nonlexical reply which Hasumi interprets as acceptance of proportional settlement and welcome. This supports local cooperation without a complete verbalized assent, universal approval of the methods or permanent correction of Mine. [E19:005–011]",
+        "support": [
+          {
+            "source_id": "E19",
+            "accepted_argument_locator": "005–011",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Mine junior alternatives not orders forcing all; Hasumi interpretation not fully verbalized Tsurugi assent; no lasting reform.",
+        "directed_recipients_and_agency": "Mashiro voluntary defense, Tsurugi protects rare rest, juniors own choice and treatment.",
+        "actual_endpoint_and_unfinished_coda": "Tsurugi later recovers enough to join; actual party with continuing doubts.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS11",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 60,
+        "joined_saved_paragraph": "The athletic-festival argument adds Tsurugi's refusal of monopoly and attention, alongside Mashiro's wish that less visible work be recognized and Hasumi's actual relay exhilaration. Her institutional affiliation does not absorb those peers' experiences into her own thought, but the different members' actions make room for more than victory and command. The broader coalition's mustache banter likewise gives Tsurugi laughter amid operational readiness; recognized assistance and future commands are not a personally completed victory. A public role contains ordinary preferences and finite decisions without every pleasure becoming a symbol of combat. [E18:012:s2:u0005–0050; E21:004]",
+        "support": [
+          {
+            "source_id": "E18",
+            "accepted_argument_locator": "episode012:s2:u0005–0050; checkpoint L221",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E21",
+            "accepted_argument_locator": "episode004; checkpoint L98",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Tsurugi refusal distinct from Mashiro recognition and Hasumi exhilaration; banter/readiness not personally completed victory.",
+        "directed_recipients_and_agency": "Different peers preserve individual measures of value; coalition laughter has ordinary value.",
+        "actual_endpoint_and_unfinished_coda": "Refusal of monopoly and actual relay context; reported assistance, renewed battle commands prospective.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS12",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 66,
+        "joined_saved_paragraph": "The photo outing is valuable precisely without a successful ID product. She wants to learn because a Trinity teacher needs an identification photo, reports a prior destructive attempt and follows increasingly unsuitable advice about lighting, expression, a partly hidden face and night scenery. Ghost-like pictures result, and the adult admits he has not been useful for the task. Tsurugi nevertheless thanks him for a taste of adult leisure and leaves brighter. An app-processed image reference and compliments in the message coda do not show inspected pixels or official submission acceptance. Practical failure need not make the entire experience meaningless, while enjoyment must not certify the photo. [T01:10013:003]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "10013:003 whole100130050 and MM307–316",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Prior building destruction report not new event; app image not inspected pixels; no certified official photo acceptance.",
+        "directed_recipients_and_agency": "She seeks instruction; adult admits practical failure; her positive appraisal remains own.",
+        "actual_endpoint_and_unfinished_coda": "Ghostlike results and teacher apology; enjoyed outing/brighter departure; submission uncertain.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G10",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS13",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 68,
+        "joined_saved_paragraph": "Fine dining is another wanted experiment, not proof of settled romantic competence. She asks about sparkling romance after questioning whether patrols and protection suffice for youth. The adult has vouchers and deliberately stages a date-like atmosphere. The attendant's height and night-view description remains represented hospitality. Timed thoughts of escape, death or killing are quickly repudiated amidst panic; no jump or attack is enacted. Narration closes with an enjoyable adult-date experience, but does not itemize every meal or grant consent to every intimacy. Her unpreparedness is part of the same experience, rather than a defect erased by its happy ending. [T01:10013:005]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "10013:005 whole100130150",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "No enacted jump/killing/clinical suicidality; narrated enjoyment not every meal item or blanket intimacy consent; attendant height claim not external audit.",
+        "directed_recipients_and_agency": "She wants youth/romance, adult vouchers/atmosphere; panic and unpreparedness retained.",
+        "actual_endpoint_and_unfinished_coda": "Actual narrated enjoyed date experience; formal romance status unprinted.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS14",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 70,
+        "joined_saved_paragraph": "The two summer attempts distinguish recognizable convention from actual pleasure. Beach-ball force causes dangerous impact; the adult acknowledges a hole and danger, retries, then changes the activity. The frisbee practice succeeds by catch and return, including carrying back rather than ordinary reciprocal tossing. It is unusual without therefore being coercive. Tsurugi asks for another turn, breathes hard and accepts rest; the adult's slipped throw and later deliberate long throws are different acts. Tight-swimsuit uncertainty is stated, not inspected anatomy, and later messages report satisfying enjoyment. No secure injury count, tourist return or universal safe-play technique follows. [T01:16005:003]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "16005:003 whole16005110/tail300–330",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "No injury count/tourist return/universal safe play; swimsuit uncertainty not inspected anatomy; timed repeats not second incident.",
+        "directed_recipients_and_agency": "Her requested continuation and accepted rest; adult slipped throw, retry, deliberate throws and activity change separate.",
+        "actual_endpoint_and_unfinished_coda": "Dangerous ball impact; successful catch-and-carry frisbee, fatigue and positive message afterstate.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G10",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS15",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 72,
+        "joined_saved_paragraph": "Quiet sea-watching is a completed pause. She admits having no task, mixed loneliness and pleasure, and worry that her experiences failed to match the novel. The adult's alternative responses validate her experience rather than force exact conformity. She gradually says it was enjoyable and that coming together mattered; the whole coda says she could answer a future question about enjoyment and conditionally wants another occasion. Neither a return-home conversation nor the next trip is shown. Her wanted life can therefore include a quiet perception and an altered appraisal rather than only successful performance for an audience. [T01:16005:005]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "16005:005 whole16005210/tail16005450–16005530",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "No completed home conversation/next trip/permanent cure; either adult reassurance branch not compound script.",
+        "directed_recipients_and_agency": "She compares imagined novels with lived pleasure and wanted company independently.",
+        "actual_endpoint_and_unfinished_coda": "Actual quiet viewing/local enjoyable appraisal; conditional future occasion.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS16",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 80,
+        "joined_saved_paragraph": "Her own vulnerabilities remain material. Continued flight in the first private encounter ends in an actual train impact and an approximately ten-metre throw, followed by standing and another collapse sound after explanation. The adult's assessment of sturdiness is not a clinical examination. He reassures and pats her, warns about crossings and apologizes to an affected station employee; that apology is real but does not establish compensation, repair or absence of service harm. Pursuit's comic ending remains a safety and recipient problem, not a harmless lesson because she can stand. [T01:10013:002]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "10013:002 whole100130010/u0024–0026/u0065–0076",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Standing after train impact not universal invulnerability/medical clearance; apology not compensation/service-repair proof.",
+        "directed_recipients_and_agency": "Adult pursuit and accountability, Tsurugi flight/apology, affected station employee retained.",
+        "actual_endpoint_and_unfinished_coda": "Train impact/throw and later collapse sound; warning/pat/employee apology, no further recovery coda.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G09",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS17",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 82,
+        "joined_saved_paragraph": "Christmas distinguishes collapse from combat defeat. Tsurugi loses consciousness after seeing the teacher and her own embarrassed account; comparisons from other characters are not a diagnosis. She later recovers enough to join, which is an actual local change. The delinquents subsequently escape, treatment is reported and Hasumi rejects extreme repayment, bringing people back to an actual party. Tsurugi's lingering doubt about Mine's reform does not cancel local welcome, just as a good party cannot settle every earlier injury or the opponents' fate. Protective work, social vulnerability and ordinary rest coexist rather than replacing one another. [E19:007–011]",
+        "support": [
+          {
+            "source_id": "E19",
+            "accepted_argument_locator": "007–011",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Embarrassment collapse not diagnosed combat defeat; local recovery not permanent cure; escape and restitution unclosed.",
+        "directed_recipients_and_agency": "Tsurugi own reaction, other comparative language, juniors treatment and Hasumi proportional forgiveness distinct.",
+        "actual_endpoint_and_unfinished_coda": "Recovers enough to act, actual party, peers still doubt Mine reform.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS18",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 84,
+        "joined_saved_paragraph": "The theatrical ending tests a different form of crisis competence. She knows the whole script through chosen reading and preparation, initially declines a stage role because she expects to frighten people, then explicitly agrees to try after a reported injury prevents the princess actor's performance. She performs well until Sensei's cheering unsettles her. Wild Hunt viewers interpret the outburst as expressionism and applause spreads; the narrator records a successful play and a curtain-call faint. Audience reinterpretation is not proof of her intended artistic method, and support partly precipitates the difficulty. The original actor's injury and Tsurugi's later recovery remain qualified rather than silently cured by applause. [E41:016:s1:u0001–0189]",
+        "support": [
+          {
+            "source_id": "E41",
+            "accepted_argument_locator": "episode016:s1:u0001–0189; checkpoint L949–L965",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Audience expressionism not intended method; reported actor injury/recovery qualified; no filming permission/upload/view increase.",
+        "directed_recipients_and_agency": "Existing chosen script craft, explicit agreement, peer encouragement and adult cheering; Tsukuyo/Michiru own wants separate.",
+        "actual_endpoint_and_unfinished_coda": "Successful play, loss of composure/applause and curtain-call faint; clinical recovery unprinted.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G13"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS19",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 94,
+        "joined_saved_paragraph": "The gift encounter preserves both failed speech and a positive object. Sensei arrives early at their arranged classroom meeting; alternative prompts receive different responses. Tsurugi apologizes, struggles to introduce the occasion and begins きっ before another cry. The final inward record represents the dropped chocolate being picked up and thanks being given. The intended presentation is valued, but heard thanks, tasting, a completed declaration and a departure route are unprinted. Imperfect communication still communicates a wanted meeting and gesture. Refusing to fill the missing words preserves that value more accurately than calling the scene either a full confession or meaningless noise. [L70:s1:u0001–0017, all five formal groups]",
+        "support": [
+          {
+            "source_id": "L70",
+            "accepted_argument_locator": "whole;s1:u0001–0017/all five groups",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Incomplete ki is not reconstructed kiss/book/confession; inward pickup/thanks not necessarily heard; no tasting/departure route.",
+        "directed_recipients_and_agency": "Her arranged meeting and attempted expression, adult early arrival and valued receipt; alternatives distinct.",
+        "actual_endpoint_and_unfinished_coda": "Dropped chocolate picked up in inward action record and thanks represented; speech unfinished.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS20",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 100,
+        "joined_saved_paragraph": "Mashiro offers a practical peer relation distinct from the adult's. Tsurugi proposes taking her guard shift because outside feels easier, and Mashiro temporarily accepts. When conflict develops, Mashiro voluntarily refuses to leave her senior alone. In the group comparison she asks whether the Sweets peers shared Tsurugi's felt welcome, rather than simply denying the feeling. These acts show reciprocal relief, chosen solidarity and attention to another audience. They neither prove identical leisure preferences nor make guarding an absence of private life. [E19:006:s2:u0003–0059; G01:1802:s2]",
+        "support": [
+          {
+            "source_id": "E19",
+            "accepted_argument_locator": "006:s2:u0003–0059",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "G01",
+            "accepted_argument_locator": "1802:s2",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Guard pleasure not lack of leisure; solidarity voluntary, not total mental unity or identical preferences.",
+        "directed_recipients_and_agency": "Tsurugi offers Mashiro shift; Mashiro accepts then chooses defense and later questions Sweets reciprocity.",
+        "actual_endpoint_and_unfinished_coda": "Actual temporary relief and mutual practical care; audience comfort still qualified.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS21",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 104,
+        "joined_saved_paragraph": "Hifumi, Azusa and the summer participants have wishes which Tsurugi's force does not substitute for. Hifumi wants the tank and sea experience, Azusa encounters the sea and Mashiro revises an ordinary plan; Tsurugi's own friendship and sandcastle/company questions are not automatically fulfilled by joining them. The aftermath retains exhausted driving and cleanup rather than a flawless vacation. At the later creative festival, Tsukuyo accepts a tree role while retaining disappointment, Michiru wants reaction videos with filming permission still to be sought, and Justice peers help encourage Tsurugi's role. Each contributes a different wanted activity or limitation rather than supplying a uniform audience for her growth. [E03:001–021; E41:016]",
+        "support": [
+          {
+            "source_id": "E03",
+            "accepted_argument_locator": "all21 whole comparison;001/003/013/015",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E41",
+            "accepted_argument_locator": "016",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Joining outing not every friendship/craft wish fulfilled; play success not consent to filming or uniform peer desires.",
+        "directed_recipients_and_agency": "Hifumi/Azusa/Mashiro individual wishes and cleanup; Tsukuyo disappointment/tree acceptance; Michiru filming request future.",
+        "actual_endpoint_and_unfinished_coda": "Actual sea/company and successful play alongside uncertain uptake, fatigue and unprinted filming permission.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G13"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS22",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 110,
+        "joined_saved_paragraph": "Fragmented typing, repeated laughter and the formal 拝具 sign-off belong to a mixed register. Formal apology can follow accidental sending; excitement can accompany a treasured hobby, fear, embarrassment or uncertainty. The same written laugh is therefore not invariant happiness, a threat or heard acoustic pathology. Enemy-directed provocation in the magazine discussion is an internally rejected interpretation, not an enacted attack on the adult. Youth vocabulary and comparison with novels expose a wanted standard she can later revise locally, while preserving the actual experiences instead of treating the printed fiction as an instruction manual she always obeys. [T01:10013:002/020; 16005:005; T01:checkpoint:L393–L399]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "10013:002/020;16005:005; checkpoint L393–L399",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Written laughter not invariant happiness/threat/acoustic pathology; rejected enemy interpretation not act; novel not universal prescriptive authority.",
+        "directed_recipients_and_agency": "Mixed formal/fragmented address retains speaker and recipient differences.",
+        "actual_endpoint_and_unfinished_coda": "Actual apology and local appraisal; future signoff/request not completed trip.",
+        "applicable_open_gaps": [
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS23",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 114,
+        "joined_saved_paragraph": "The two profiles preserve films and romance novels as interests, literal age/year/birthday/height fields and different presentation emphases. They do not date a universal development sequence. Base lobby lines combine readiness, conversational difficulty, wanted help and mixed comfort; summer lines include uncertainty about occupying ordinary space and feeling less settled than on a battlefield. Holiday wishes, gratitude and future availability retain address conditions. A weapon line's laughter is no power invariant or accomplished deployment. The named dining and summer-rest Special clauses contextualize repeated timed passages without creating second incidents or performed voice. [T01:checkpoint:L367/L384–L391]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "checkpoint L367/L384–L391",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Profile fields not timeline; Special repeats not second encounters or performance; promises/weapon laughter not power invariant.",
+        "directed_recipients_and_agency": "Her films/novels/wanted help and ordinary discomfort retained in literal modes.",
+        "actual_endpoint_and_unfinished_coda": "Written interests and context-bound wishes; future outcomes unproved.",
+        "applicable_open_gaps": [
+          "G01",
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS24",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 116,
+        "joined_saved_paragraph": "The single costume object has an empty profile and twenty-four event-lobby lines across three repeated contexts. Swimsuit questions and inward panic are meaningful written evidence; sortie declarations are readiness, not three completed plots. Presentation can expose vulnerability without exposing pixels or audible delivery here. Repeated contexts do not multiply people, experiences, source credit or official event completion. The ordinary written repertoire complements private and public arguments while keeping their mode boundaries intact. [T01:1900900701]",
+        "support": [
+          {
+            "source_id": "T01",
+            "accepted_argument_locator": "1900900701 complete written scope",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Empty profile not biography; repeated803/10803/900803 not three plots/deployments/persons; no inspected pixels/audio.",
+        "directed_recipients_and_agency": "Swimsuit inward concern and conditional readiness retain addresses.",
+        "actual_endpoint_and_unfinished_coda": "Twenty-four written lines provide vulnerability and interest; sortie only declaration.",
+        "applicable_open_gaps": [
+          "G07",
+          "G08",
+          "G09",
+          "G10",
+          "G12",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      },
+      {
+        "claim_id": "TS25",
+        "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+        "saved_line": 126,
+        "joined_saved_paragraph": "A reciprocal-welcome reading is weaker than Tsurugi's felt-welcome claim because the Sweets peers' experience is also printed. A knowingly deceptive reading is weaker because their thoughts do not prove what she hears. Similarly, Wild Hunt's expressionist reading is not her intended method merely because the play succeeds. The crucial distinction is among self-report, action, audience interpretation and institutional result. It lets literature retain multiple experiences without discarding the less comfortable recipient or withdrawing the character's real pleasure. [G01:1802; E41:016]",
+        "support": [
+          {
+            "source_id": "G01",
+            "accepted_argument_locator": "1802 whole",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          },
+          {
+            "source_id": "E41",
+            "accepted_argument_locator": "016 whole argument",
+            "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+          }
+        ],
+        "extension_limit": "Self-report, reader asides and audience interpretation cannot substitute for one another; successful play not intended expressionist plan.",
+        "directed_recipients_and_agency": "Tsurugi real pleasure, anxious peers and interpreting viewers all legible.",
+        "actual_endpoint_and_unfinished_coda": "Felt welcome and successful play preserved beside unequal comfort and faint.",
+        "applicable_open_gaps": [
+          "G01",
+          "G06",
+          "G07",
+          "G09",
+          "G10",
+          "G13",
+          "G14"
+        ],
+        "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+        "ROOT_review": "PENDING"
+      }
+    ],
+    "eleven_headers": [
+      "## 1. Core thesis",
+      "## 2. Longitudinal arc",
+      "## 3. Public and private self",
+      "## 4. School and club role",
+      "## 5. Ordinary life",
+      "## 6. Crisis behavior",
+      "## 7. Relationship with Sensei",
+      "## 8. Major peer relationships",
+      "## 9. Language and written voice",
+      "## 10. Competing readings",
+      "## 11. Evidence route and remaining limits"
+    ],
+    "complete_saved_body_readback": "72d9c0 saved1–76; aab437 saved77–138EOF; final60/102 ee00e7 plus final110/114 c1d9ca",
+    "all14gaps": "OPEN",
+    "counts_not_completion_proof": true,
+    "original_primary_or_performed_or_independent_credit_added": 0,
+    "ROOT_literary_review": "PENDING",
+    "N_or_quarter_claimed": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_literary_or_source_credit": 0
+}

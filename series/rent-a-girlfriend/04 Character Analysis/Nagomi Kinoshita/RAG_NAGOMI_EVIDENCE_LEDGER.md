@@ -4,13 +4,13 @@ artifact_id: RAG_NAGOMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; character evidence inspected through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; character evidence inspected through V030."
 ---
 
 # Nagomi Kinoshita evidence ledger
@@ -66,6 +66,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-NAG-E026 | NAG-S012 | RAG-E-V028-009 | Family-expectation message under residual status error | Tells Kazuya that winter passed without seeing “Princess Chizuru.” | Keeps Chizuru's expected family presence active after the near-complete disclosure. | The message still rests on the false genuine-dating premise and supplies no direct Chizuru response. | none; model withheld |
 | RAG-NAG-E027 | NAG-S013 | RAG-E-V029-010 | Family lodging and mistaken investigation inference | Receives Kazuya after the damaged building, expresses a wish to see the apparent couple, and misreads his mention of investigation as a potential breakup. | Family pressure and concern persist in a practical housing crisis. | She does not know the actual unresolved status or receive full correction; none; model withheld. |
 | RAG-NAG-E028 | NAG-S013 | RAG-E-V030-001 | Housing question under false couple premise | Asks why Kazuya does not stay with Chizuru, still assuming genuine dating; he does not explain the actual arrangement. | Family expectation remains active in a housing decision. | Her response to full residence and relationship facts remains untested; none; model withheld. |
+| RAG-NAG-E029 | NAG-S014 | RAG-E-V035-010 | Rental booking and shared outing | Books Chizuru professionally, meets her at Shinjuku, and spends time shopping and at an arcade. | Chooses paid access to learn about Chizuru's work and spend time with her. | Booking does not convert the relationship or give Nagomi its full history; none; model withheld. |
+| RAG-NAG-E030 | NAG-S014 | RAG-E-V035-011 | Prejudice acknowledged and apology | Says she looked down on the rental profession after the exposure, describes Sayuri's hospital testimony, and apologizes to Chizuru. | Revises an expressed judgment through direct conversation and remembered testimony. | Apology does not establish corrected knowledge of the residual dating lie; none; model withheld. |
+| RAG-NAG-E031 | NAG-S014 | RAG-E-V035-012 | Bridal hope under incomplete facts | Says she hopes to see Chizuru as Kazuya's bride. | Her family expectation remains active even after professional respect improves. | This is Nagomi's hope, not Chizuru's assent or evidence that the couple is genuine; none; model withheld. |
+| RAG-NAG-E032 | NAG-S015 | RAG-E-V036-002 | Post-booking phone defense | Discusses the rental outing with Kazuya and says she wanted to see Chizuru at work and spend time with her. | Defends her own initiative after the fact. | She still has not heard the corrected couple status; none; model withheld. |
 
 ## State-change summary
 

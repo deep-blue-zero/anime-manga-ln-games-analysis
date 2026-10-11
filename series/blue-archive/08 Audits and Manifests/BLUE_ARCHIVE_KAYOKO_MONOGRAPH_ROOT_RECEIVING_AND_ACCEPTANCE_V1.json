@@ -1,0 +1,94 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Kayoko",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYOKO_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_KAYOKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 3819,
+    "sha256": "a4559e5048a45db71e9488f1c23951919df783abb808620b39d45d44a6ef590b",
+    "git_blob_oid_of_actual_bytes": "2c3a1317323366cddfc0c3e73b1054b30aa4d37d",
+    "lines": 54
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_KAYOKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "da38462b3841ed6e02d1ec2458749bc7e839ae0baa86822dd516c1042e0c6113",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_outputs_preserved": 49,
+    "exact_unique_binding_pairs_verified": 106,
+    "fresh_complete_arguments_equal_main_and_c1": 4,
+    "reused_complete_arguments_equal_main_and_c1": 13,
+    "selected_private_objects_exact_verified": 29,
+    "saved_nonempty_lines_exact_verified": 106,
+    "historical_metadata_bindings": [
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "purpose": "historical metadata only"
+      }
+    ],
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "2d0d58 lines1–90",
+        "8b6833 lines91–181EOF"
+      ],
+      "whole_readable_receipt": "f4f204 all53linesEOF",
+      "source_scope_fields": [
+        "149049 all controls with named arrays explicitly omitted",
+        "e65bc8 all4 fresh analytical source and receiving-scope fields",
+        "a42212 all3 canonical recovery scope fields"
+      ],
+      "additional_accepted_arguments": [
+        "f52629 private140–190 andd464bd191–236EOF, complete substantive means/ordinary repertoire/limits; earlier catalogue metadata not manually received",
+        "7b7555 wholeFinalC004E00434linesEOF",
+        "d341c5 wholegiftE81001174linesEOF under Cycle008",
+        "245157 complete currentEvent823135linesEOF"
+      ],
+      "limits": "Thirteen public reuses are author-attributed personally complete scopes and prior ROOT accepted meanings. ROOT does not earn fresh whole13 or original primary by hash. Three canonical recoveries are attributed author whole objects, with ROOT actual source-scope receiving and zero new ROOT primary."
+    },
+    "semantic_grounds": [
+      "Selective company has its own positive ends: music with stories/intention, an actual shared free day, cat speech, clothing, calm sunset, shopping and valued aesthetic display. A failed bell plan and unfulfilled rest remain different from positive continuation.",
+      "Literal privacy, solo-work, topic-closing, delayed display and timing objections retain their force beside revised acceptance. Chosen trust under uncertainty and wanted reciprocal provision do not prove infallibility, incapacity or hidden assent.",
+      "Both sole-provider replies receive no. The wanted treat is locally articulated and accepted but attendance/payment are unprinted; the whole coda deliberately withholds an addition, with no inferred confession or later meal.",
+      "Strategic judgment, documents/clean office, terminal confirmation and Ako help are finite achievements with distributed agency. The local separation and scoped escape reports remain positive while full technical evacuation, durable safety and later reunion remain open.",
+      "Incomplete list checks, ineffective restraint and adverse AgentB silencing survive competence and care. Recipient interests, unpaid resources and means remain independent ethical questions.",
+      "Written music, conditional alternatives, source labels, locations, inward narration, repeated costume gates and historical wrappers retain their modes. No guessed former affiliation, developmental calendar or performed music follows."
+    ],
+    "root_new_primary_or_performance_credit": 0,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "Accepted355/29 scope controls exact, historical353 immutable, Kayoko home unchanged; scope does not count as literary completion",
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-KAYOKO",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYOKO_CHARACTER_MONOGRAPH.md",
+    "bytes": 44797,
+    "sha256": "8011e23447a250cc9458d4fb2080f08bef0cffda4251790e136c04e44c5f5de2",
+    "git_blob_oid_of_actual_bytes": "fc2c00e727605f6dfe29accde4341cd5f8d80ed7"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "On independent ROOT whole receiving and exact verification, this candidate can supply the required bounded Kayoko character home with limits.",
+      "new": "After independent whole receiving and exact verification, ROOT accepted this monograph as the required bounded Kayoko character home with limits.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}

@@ -4,13 +4,13 @@ artifact_id: RAG_KIBE_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; character evidence inspected through V030, with no material V024, V027, or V029 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; character evidence inspected through V030, with no material V024, V027, or V029 conduct."
 ---
 
 # Kibe evidence ledger
@@ -27,7 +27,7 @@ given_name: null
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V030
+inspected_through_volume: V035
 local_readiness: UNMODELED
 ~~~
 
@@ -59,6 +59,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KIB-E018 | KIB-S009 | RAG-E-V026-011 | Friendship memory and coerced verification | A memory with Kuribayashi states a trust ethic; in the present Kibe reinforces the demand that the pair kiss as proof. | Treats visible bodily performance as the decisive test after verbal contradiction. | The demand is coercive, Kibe remains incompletely informed, and a kiss cannot establish private status. | none; model withheld |
 | RAG-KIB-E019 | KIB-S010 | RAG-E-V028-011 | Apology reception and friendship repair under residual error | Hears Kazuya apologize for lying and causing hurt, says people lie and that falsehood does not automatically prove malice, and resumes a demanding protective friendship stance. | Revises the immediate punitive judgment into a more differentiated account of motive and valued ties. | He still believes Kazuya and Chizuru genuinely date, so repair is not calibrated to the complete truth. | none; model withheld |
 | RAG-KIB-E020 | KIB-S010 | RAG-E-V030-001 | Practical housing advice under incomplete information | Suggests sharing an apartment and dividing rent after the old building becomes unusable. | Offers ordinary peer advice without knowing Kazuya's intended household. | He is not informed of Chizuru's house, the one-month terms, or the unresolved romantic status; advice is no response to the actual move. | none; information limit only |
+| RAG-KIB-E021 | KIB-S011 | RAG-E-V035-003, RAG-E-V035-004 | Solicited friendship testimony | Meets Chizuru at her request and describes Kazuya's strong concern for her from a longtime friend's viewpoint. | Supplies a third-party appraisal to Chizuru's inquiry. | He is loyal and does not know the full household or relationship facts; none; model withheld. |
+| RAG-KIB-E022 | KIB-S011 | RAG-E-V035-004 | Direct question and retreat | Asks whether Chizuru likes Kazuya, sees her embarrassed reaction, and withdraws the demand for a spoken response. | Respects the immediate limit after raising a consequential question. | His satisfaction with her expression is his interpretation, not her answer; none; model withheld. |
 
 ## State-change summary
 

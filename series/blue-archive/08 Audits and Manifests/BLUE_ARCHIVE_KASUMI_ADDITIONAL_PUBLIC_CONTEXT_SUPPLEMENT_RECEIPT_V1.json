@@ -1,0 +1,164 @@
+{
+  "schema": "BLUE_ARCHIVE_KASUMI_MANDATORY_SUPPLEMENT_PUBLIC_RECEIVING_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Kasumi",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KASUMI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_RECEIPT_V1.json",
+    "bytes": 7939,
+    "sha256": "d7a01e901837c9562781f53cb862961d5d7d2d850832e1912559af58d0884af5",
+    "git_blob_oid_of_actual_bytes": "696f3eb0521ecc10b4bc95d8a17268816e69a3cb",
+    "lines": 128
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "status": "FROZEN_SEPARATE_CANDIDATE_ROOT_REVIEW_PENDING",
+    "supplement": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md",
+      "bytes": 5470,
+      "lines": 23,
+      "sha256": "9972869dcbf8f7f3de540bb5244a073191bd93737c7bf8cfcfc1a6744ac4c89f"
+    },
+    "whole_saved_receiving": "dcd746 EOF",
+    "source_inputs": [
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_808/BLUE_ARCHIVE_EVENT_808_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "bytes": 16468,
+        "lines": 100,
+        "sha256": "aa1a4e877dd00016b6f9a177339a81e2c52664e00582c52701c206f59765530c",
+        "actual_receiving_scope": "Whole0a551d EOF current Cycle008 accepted12meaning comparison",
+        "current_equal_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_808/BLUE_ARCHIVE_EVENT_808_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 50829,
+        "lines": 659,
+        "sha256": "ec6dfc63fa56998713d0c865094e71b17f773401ac6622a1135e548bb31c94bd",
+        "actual_receiving_scope": "Only complete substantive1–210:0a551d1–109/feed3c110–204/422296205–210; incidental212–232actorannex opening notwhole50829body",
+        "current_equal_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_808/BLUE_ARCHIVE_EVENT_808_EPISODE_001_DEEP_READING.md",
+        "bytes": 9841,
+        "lines": 90,
+        "sha256": "f1ba9e00b9c2c4b83db138080b378b41ad5d81a56d7b6c089d89d479011c4291",
+        "actual_receiving_scope": "Whole422296 EOF",
+        "current_equal_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_808/BLUE_ARCHIVE_EVENT_808_EPISODE_009_DEEP_READING.md",
+        "bytes": 9141,
+        "lines": 87,
+        "sha256": "f5c49821c3ea384b2b0774ed3b04e11bd9d4108701c1e405acfd651e3df671fe",
+        "actual_receiving_scope": "Whole422296 EOF",
+        "current_equal_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_808/BLUE_ARCHIVE_EVENT_808_EPISODE_010_DEEP_READING.md",
+        "bytes": 9351,
+        "lines": 92,
+        "sha256": "0fa7deaf25d51938915fe20f578127f2c024cccc7639b13b2d1092f5ff66277c",
+        "actual_receiving_scope": "Whole388538 EOF",
+        "current_equal_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_808/BLUE_ARCHIVE_EVENT_808_EPISODE_011_DEEP_READING.md",
+        "bytes": 9284,
+        "lines": 90,
+        "sha256": "b6903e3c675326b854668e31e7be6e839cf1fe1f77866e562ddef4dad25c5c0d",
+        "actual_receiving_scope": "Wholefeed3c EOF",
+        "current_equal_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_808/BLUE_ARCHIVE_EVENT_808_EPISODE_012_DEEP_READING.md",
+        "bytes": 9577,
+        "lines": 88,
+        "sha256": "4178b02db045c06bce9bea00d5bc61eef70c3a48c55218ad102c56c711b1e4c5",
+        "actual_receiving_scope": "Whole388538 EOF",
+        "current_equal_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 28870,
+        "lines": 157,
+        "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+        "actual_receiving_scope": "Prior personally whole157 unchanged fromJunko receipt; fresh100–137c8003f scopedrefresh notnewwholeowner",
+        "current_equal_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 28709,
+        "lines": 149,
+        "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+        "actual_receiving_scope": "Prior personally whole149 unchanged fromJunko receipt; fresh90–107c8003f scopedrefresh notnewwholeowner",
+        "current_equal_main2e_c1": true,
+        "new_primary_credit": false
+      }
+    ],
+    "source_authority_quartet": "Current Cycle008 admission/qualified accepted argument; original firstness/independence UNKNOWN; performedvoiceunreceived; producer assertions attributed",
+    "original_kasumi_manifest": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 1946,
+      "lines": 34,
+      "sha256": "b16777ca0db87ed17593f9f57bb7f61a5d388e38690dd5ac68a03b78a053b95e"
+    },
+    "original_four_payloads_exact_preserved": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/BLUE_ARCHIVE_KASUMI_CHARACTER_MONOGRAPH.md",
+        "bytes": 35162,
+        "lines": 157,
+        "sha256": "e8b4c36930bc32387ca6d09c8e5408c29a3e52b869cbcf68fa0c2c6523025882"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110683,
+        "lines": 2010,
+        "sha256": "2f862f2edd4a993a64c81bfd6afcefc8b2f10216245d755c04fd34b8680ad463"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 14689,
+        "lines": 71,
+        "sha256": "8ba0b439cca23512a63705fbdf2eb46bc85e883db0b72e408a77d54ab6cfadf0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3619,
+        "lines": 49,
+        "sha256": "7c8fae4fbb4327ee15ef2d89d5cd2d1a35e8bba00f9d6db4c08cab2134aef088"
+      }
+    ],
+    "claim_boundary": "E808Kasumi absentreportonly JPprobableforesight/KRpriorinstruction separate; Megactualfoundationblast notwholedistrictblast; E821knowninventory destructionreport plusprospectiveorders/laterpositiveHodreport/renewal notsolecausalcredit; E835literalKasumiheadingagainstreportedabsenceunresolved noappearance. All14OPEN, zero primary/native/AV/model/Nquarter. No necessary recovery for these asserted bounded claims.",
+    "required_ROOT_work": "Whole supplement/source receiving andexactverification/canonicaladoption pending; original frozenKasumi unchanged. Otherrequiredrelationshipinstitutionensemblecast dutiesremain."
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "ROOT_decision": "MANDATORY_ACCEPTED_PART_OF_KASUMI_CHARACTER_BOUNDARY_WITH_LIMITS",
+  "exact_unchanged_supplement_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md",
+  "exact_unchanged_supplement_tuple": {
+    "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md",
+    "bytes": 5470,
+    "sha256": "9972869dcbf8f7f3de540bb5244a073191bd93737c7bf8cfcfc1a6744ac4c89f",
+    "git_blob_oid_of_actual_bytes": "073368c3a34e5df2ed4966ca9bdba29e3656f724",
+    "lines": 23
+  },
+  "ROOT_acceptance_public_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KASUMI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "original_receipt_preservation": "Exact original receipt bytes remain immutable; the public reference derivative is explicitly separate. No retroactive custody or extra package credit."
+}

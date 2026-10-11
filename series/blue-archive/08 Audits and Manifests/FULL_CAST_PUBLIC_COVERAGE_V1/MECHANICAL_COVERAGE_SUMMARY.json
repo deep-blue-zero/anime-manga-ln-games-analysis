@@ -1,0 +1,1455 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/ROOT_FULL_CAST_MECHANICAL_COVERAGE_V1/MECHANICAL_COVERAGE_SUMMARY.json",
+  "original_frozen_binding": {
+   "bytes": 78265,
+   "sha256": "669e2d3c1ee3e546a149c273808972cabcaab47b5d06df0269e722a40231a275",
+   "git_blob_sha1": "3c0695e87d8364acc95833d6c19dd796955b423b"
+  }
+ },
+ "historical_payload": {
+  "status": "ROOT_REVIEW_PENDING_NO_SEMANTIC_ACCEPTANCE",
+  "summary": {
+   "published_baseline": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+   "dispatch_owners": 105,
+   "dispatch_source_units": 1107,
+   "dispatch_source_classes": {
+    "GROUP": 27,
+    "EVENT": 77,
+    "MINI": 1
+   },
+   "distinct_EVENT_packages": 61,
+   "current_normal_EVENT_owner_rows": 77,
+   "dated_heterogeneous_analytical_routes": 540,
+   "frozen_inputs": 25,
+   "ground_truth_header_routes": 8326,
+   "frozen_union_exact_header_routes": 4846,
+   "frozen_union_fully_header_covered_sources": 626,
+   "owners_all_headers_in_frozen_union": 45,
+   "owners_with_no_frozen_header_routes": 60,
+   "missing_frozen_choice_routes": 294,
+   "header_routes_without_exact_home_declaration": 3480,
+   "owners_without_direct_normal_owner_receiving_declaration": 35,
+   "dated_routes_with_explicit_ID_references": 264,
+   "dated_routes_without_explicit_ID_or_exact_label_reference": 276,
+   "outside105_roster_source_units": 98,
+   "inherited_tuple_or_header_mismatches": 0,
+   "unrecognized_standalone_bold_header_syntax": 0,
+   "new_primary_narrative_or_argument_receiving_credit": 0,
+   "N_frozen": false,
+   "literary_completion_or_quarter": false
+  },
+  "published_dispatch_binding": {
+   "path": "series\\blue-archive\\06 Evidence and Indexes\\BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+   "bytes": 45708,
+   "sha256": "2d4ac2798f8d84e3dcf0c99c8101e31ee8ad5e47f823d89371b4dc48835823de",
+   "git_blob_sha1": "6331904ab98163b562e0ff1ed4b55a0cb36fb773"
+  },
+  "published_candidate_binding": {
+   "path": "series\\blue-archive\\06 Evidence and Indexes\\BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+   "bytes": 458206,
+   "sha256": "963c5042c653f6bfd486a2918187b43c201cdaa7af63b1055700c2167c63ba74",
+   "git_blob_sha1": "33baff0b52d6d73c0093796d41c2a7dd2d98ee9c"
+  },
+  "working_candidate_binding": {
+   "path": "series\\blue-archive\\06 Evidence and Indexes\\BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+   "bytes": 460958,
+   "sha256": "f8ce1729205b02498c1981b0cd67943b80bd873d3b4aa83698325863223f9523",
+   "git_blob_sha1": "6e6dc0be94d0797c05bfba94ee914361632bd8b8"
+  },
+  "working_candidate_changed_rows": [
+   {
+    "candidate_unit_id": "P3-F024",
+    "before": {
+     "candidate_unit_id": "P3-F024",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Mika",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0069",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/MIKA/BLUE_ARCHIVE_MIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B10/MM10/W3; variants 10059|10122",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "after": {
+     "candidate_unit_id": "P3-F024",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Mika",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0069",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/MIKA/BLUE_ARCHIVE_MIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv|series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json|series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+     "source_boundary": "B10/MM10/W3; variants 10059|10122",
+     "eligibility_review_state": "ACCEPTED_INDEPENDENT_CHARACTER_MONOGRAPH_WITH_LIMITS",
+     "argument_or_limit": "ROOT accepted the complete eleven-section monograph and exact declared input boundary WITH LIMITS; ordinary wanted life and independent peers retained. Typed and dated routes converge on one literary package, not additional people or completions. All14 gaps remain claim-specific OPEN; no owner-roster, model-grade, performance or full-cast milestone credit.",
+     "package_target": "P3-CHAR-MIKA",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    }
+   },
+   {
+    "candidate_unit_id": "P3-F025",
+    "before": {
+     "candidate_unit_id": "P3-F025",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Seia",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0070",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/SEIA/BLUE_ARCHIVE_SEIA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W4; variants 10110|10123",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "after": {
+     "candidate_unit_id": "P3-F025",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Seia",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0070",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/SEIA/BLUE_ARCHIVE_SEIA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv|series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json|series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+     "source_boundary": "B8/MM8/W4; variants 10110|10123",
+     "eligibility_review_state": "ACCEPTED_INDEPENDENT_CHARACTER_MONOGRAPH_WITH_LIMITS",
+     "argument_or_limit": "ROOT accepted the complete eleven-section monograph and exact declared input boundary WITH LIMITS; ordinary wanted life and independent peers retained. Typed and dated routes converge on one literary package, not additional people or completions. All14 gaps remain claim-specific OPEN; no owner-roster, model-grade, performance or full-cast milestone credit.",
+     "package_target": "P3-CHAR-SEIA-CH0070",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    }
+   },
+   {
+    "candidate_unit_id": "P3-F123",
+    "before": {
+     "candidate_unit_id": "P3-F123",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Nagisa",
+     "raw_identity_or_source_ids": "BA_PERSON_NAGISA",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/NAGISA/BLUE_ARCHIVE_NAGISA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W3; variants 20024|20048",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "after": {
+     "candidate_unit_id": "P3-F123",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Nagisa",
+     "raw_identity_or_source_ids": "BA_PERSON_NAGISA",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/NAGISA/BLUE_ARCHIVE_NAGISA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv|series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json|series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+     "source_boundary": "B8/MM8/W3; variants 20024|20048",
+     "eligibility_review_state": "ACCEPTED_INDEPENDENT_CHARACTER_MONOGRAPH_WITH_LIMITS",
+     "argument_or_limit": "ROOT accepted the complete eleven-section monograph and exact declared input boundary WITH LIMITS; ordinary wanted life and independent peers retained. Typed and dated routes converge on one literary package, not additional people or completions. All14 gaps remain claim-specific OPEN; no owner-roster, model-grade, performance or full-cast milestone credit.",
+     "package_target": "P3-CHAR-NAGISA",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    }
+   },
+   {
+    "candidate_unit_id": "P3-A016",
+    "before": {
+     "candidate_unit_id": "P3-A016",
+     "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+     "subject_or_responsibility": "Seia",
+     "raw_identity_or_source_ids": "",
+     "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+     "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "after": {
+     "candidate_unit_id": "P3-A016",
+     "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+     "subject_or_responsibility": "Seia",
+     "raw_identity_or_source_ids": "",
+     "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md|series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json|series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+     "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+     "eligibility_review_state": "ACCEPTED_INDEPENDENT_CHARACTER_MONOGRAPH_WITH_LIMITS",
+     "argument_or_limit": "ROOT accepted the complete eleven-section monograph and exact declared input boundary WITH LIMITS; ordinary wanted life and independent peers retained. Typed and dated routes converge on one literary package, not additional people or completions. All14 gaps remain claim-specific OPEN; no owner-roster, model-grade, performance or full-cast milestone credit.",
+     "package_target": "P3-CHAR-SEIA-CH0070",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    }
+   },
+   {
+    "candidate_unit_id": "P3-A021",
+    "before": {
+     "candidate_unit_id": "P3-A021",
+     "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+     "subject_or_responsibility": "Mika",
+     "raw_identity_or_source_ids": "",
+     "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+     "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "after": {
+     "candidate_unit_id": "P3-A021",
+     "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+     "subject_or_responsibility": "Mika",
+     "raw_identity_or_source_ids": "",
+     "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md|series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json|series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+     "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+     "eligibility_review_state": "ACCEPTED_INDEPENDENT_CHARACTER_MONOGRAPH_WITH_LIMITS",
+     "argument_or_limit": "ROOT accepted the complete eleven-section monograph and exact declared input boundary WITH LIMITS; ordinary wanted life and independent peers retained. Typed and dated routes converge on one literary package, not additional people or completions. All14 gaps remain claim-specific OPEN; no owner-roster, model-grade, performance or full-cast milestone credit.",
+     "package_target": "P3-CHAR-MIKA",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    }
+   },
+   {
+    "candidate_unit_id": "P3-A103",
+    "before": {
+     "candidate_unit_id": "P3-A103",
+     "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+     "subject_or_responsibility": "Nagisa",
+     "raw_identity_or_source_ids": "",
+     "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+     "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "after": {
+     "candidate_unit_id": "P3-A103",
+     "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+     "subject_or_responsibility": "Nagisa",
+     "raw_identity_or_source_ids": "",
+     "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md|series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json|series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+     "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+     "eligibility_review_state": "ACCEPTED_INDEPENDENT_CHARACTER_MONOGRAPH_WITH_LIMITS",
+     "argument_or_limit": "ROOT accepted the complete eleven-section monograph and exact declared input boundary WITH LIMITS; ordinary wanted life and independent peers retained. Typed and dated routes converge on one literary package, not additional people or completions. All14 gaps remain claim-specific OPEN; no owner-roster, model-grade, performance or full-cast milestone credit.",
+     "package_target": "P3-CHAR-NAGISA",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    }
+   }
+  ],
+  "working_adoption_limit": "ROOT reports three Trinity monograph packages accepted, twelve adoption paths installed then staged, and full gate running; published c1 baseline is preserved. This mechanical review does not adopt or verify their literary arguments or gate state.",
+  "inputs": [
+   {
+    "input_ref": 0,
+    "lane": "MILLENNIUM_V1",
+    "path": "series\\blue-archive\\06 Evidence and Indexes\\BLUE_ARCHIVE_PHASE3_MILLENNIUM_DECISION_REGISTER_V1.json",
+    "bytes": 28027,
+    "sha256": "d4f713d802a6f74320b06f90fb0073f89bf4cbc9638ce68f3427f3bb65006ba9",
+    "git_blob_sha1": "4e191181c0445e375f3c53b3165425aa7c11eec5",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed.",
+    "published_revision": "c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+   },
+   {
+    "input_ref": 1,
+    "lane": "MILLENNIUM_V1",
+    "path": "series\\blue-archive\\08 Audits and Manifests\\BLUE_ARCHIVE_PHASE3_MILLENNIUM_INPUT_RECEIPTS_V1.json",
+    "bytes": 8165,
+    "sha256": "166c759add90eaf526d96d4868159820847a4cf532ae004aabd0be43934d6ff1",
+    "git_blob_sha1": "0928a9b300fda4875c8aace9af630a179bca5e5a",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed.",
+    "published_revision": "c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+   },
+   {
+    "input_ref": 2,
+    "lane": "MILLENNIUM_V2",
+    "path": "series\\blue-archive\\06 Evidence and Indexes\\BLUE_ARCHIVE_PHASE3_MILLENNIUM_DECISION_REGISTER_V2.json",
+    "bytes": 36662,
+    "sha256": "6a7d3219d4ae1ecdd034bf28d89b8852eb89f2847fc92c8d37d2e0479695e494",
+    "git_blob_sha1": "c93d1f8d46e26e5c893705b68f6c74ab723c0a71",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed.",
+    "published_revision": "c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+   },
+   {
+    "input_ref": 3,
+    "lane": "MILLENNIUM_V2",
+    "path": "series\\blue-archive\\08 Audits and Manifests\\BLUE_ARCHIVE_PHASE3_MILLENNIUM_INPUT_RECEIPTS_V2.json",
+    "bytes": 19973,
+    "sha256": "bff978c8f39b72268c2b07720f440c1edeb5cd101803ed6383d11fa7e4c3f9d3",
+    "git_blob_sha1": "8a37785f9512bdf84c7ea18cb03e2b7682f880c8",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed.",
+    "published_revision": "c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+   },
+   {
+    "input_ref": 4,
+    "lane": "TRINITY_V1",
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V1.json",
+    "bytes": 87882,
+    "sha256": "3135c48175aabf56bf1c65477d6392471b59fbf6745a2aefbeca2df2ebdbb1c9",
+    "git_blob_sha1": "4dcab7742e689b93d72c4c0e19fea023153744f3",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 5,
+    "lane": "TRINITY_V1",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_TRINITY_V1\\BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V1.json",
+    "bytes": 27235,
+    "sha256": "433fc404fcd258871e6310039679308772c3c6702981d66ec5643849d33014ac",
+    "git_blob_sha1": "c715512e4793b7642269f796f7bfce032bd431fd",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 6,
+    "lane": "TRINITY_V2",
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V2.json",
+    "bytes": 94478,
+    "sha256": "6f8607abe964b0032bda888a6d3b9f37b374a5aba8d953eca83d7f485627b6d4",
+    "git_blob_sha1": "9643a0a29ebf143f506f3410bb6e55aed3666e02",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 7,
+    "lane": "TRINITY_V2",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_TRINITY_V2\\BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V2.json",
+    "bytes": 26656,
+    "sha256": "d8bb1889cd4a6804e155c8ce8fb5b29e81e7c7bbe12eac810d0f9640aaa7c942",
+    "git_blob_sha1": "268ea4aea07800b844198ade4ab9aeffcf0232d6",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 8,
+    "lane": "GEHENNA",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_GEHENNA\\GEHENNA_PS68_PUBLIC_ROLE_ALLOCATIONS.json",
+    "bytes": 736928,
+    "sha256": "c862e31c9d1cf2b3d8fd10d6f3b62f4884000dde3828e58904e7309662e0dea1",
+    "git_blob_sha1": "5ae222ae31e4ef399a276fd2aded12cb546174b2",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 9,
+    "lane": "GEHENNA",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_GEHENNA\\GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+    "bytes": 768006,
+    "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d",
+    "git_blob_sha1": "5c7feba15e1691e26ee3fa4d468a7126c76c4bc5",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 10,
+    "lane": "HYS",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_HYAKKIYAKO_SHANHAIJING\\HYAKKIYAKO_SHANHAIJING_PUBLIC_ROLE_ALLOCATIONS.json",
+    "bytes": 881298,
+    "sha256": "2a74063b808e522ae289e996e72e1068bf1536d4ff2bf46446aee36e6846c4d4",
+    "git_blob_sha1": "a15902265fbf7dff38166f0526609a3c652feeec",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 11,
+    "lane": "HYS",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_HYAKKIYAKO_SHANHAIJING\\HYAKKIYAKO_SHANHAIJING_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+    "bytes": 901107,
+    "sha256": "146a6d78e787953c1eadb0f78840925fd573b9ad2a5275e5ab52256445e9f3ab",
+    "git_blob_sha1": "49be94bc669d895166062ecfb5d4316f7cbdc2c0",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 12,
+    "lane": "ROOT_HYS_CHOICES",
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_PUBLIC_COVERAGE_V1/ROOT_HYS_CHOICE_HEADER_SUPPLEMENT_V1.json",
+    "bytes": 149464,
+    "sha256": "2367a8fa2da8f52adf5776fcdedc658b459a007602812da9d3a4b2491d87f392",
+    "git_blob_sha1": "d99c56d75daad87c7aed0003df9c4b329dfa27ab",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 13,
+    "lane": "ABYDOS_ARIUS",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_ABYDOS_ARIUS\\ABYDOS_ARIUS_PUBLIC_AND_PRIVATE_ROLE_ALLOCATIONS.json",
+    "bytes": 695883,
+    "sha256": "3689e9bc5fbf4469fd2d7754fe46f1661b40c0f6c63175cd71cbd265a846d8c6",
+    "git_blob_sha1": "030828e115ad623baad3672756ce27fdadbb25a9",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 14,
+    "lane": "ABYDOS_ARIUS",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_ABYDOS_ARIUS\\ABYDOS_ARIUS_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+    "bytes": 997905,
+    "sha256": "63feb68bddb1f4166009d8096fb0e52b8a43ee140cbf2fe8c937ce056f0a7027",
+    "git_blob_sha1": "c6c81a41d6ed60c1362f5085ae0d9f4f37b7fbae",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 15,
+    "lane": "RESIDUAL26",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_RESIDUAL26\\RESIDUAL26_PUBLIC_ROLE_ALLOCATIONS.json",
+    "bytes": 470463,
+    "sha256": "fb3d96c3e266a940ac7c6602a9de8a18f967a8ce20a67987a0998096fcffa364",
+    "git_blob_sha1": "865654e35e8c3c4dbde6918302a185b14afbbe91",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 16,
+    "lane": "RESIDUAL26",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_RESIDUAL26\\RESIDUAL26_INPUT_RECEIPT.json",
+    "bytes": 95687,
+    "sha256": "e56ad9216e467c3e026eb7b27b31cf93d983908f036d1e3cfd7a360698999ffc",
+    "git_blob_sha1": "3cf4be425ca8a39a930578a07ce2eca0a8531e7c",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 17,
+    "lane": "RESIDUAL26",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_RESIDUAL26\\RESIDUAL26_LITERAL_ROSTER_RECEIPT.json",
+    "bytes": 483012,
+    "sha256": "1394f6f14f78ec22a8466aeaca5722def6c5b8b43a89324248310d2d485fa499",
+    "git_blob_sha1": "a81ad0f528947645deccdb01d3f4bda54c575a32",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 18,
+    "lane": "RESIDUAL26",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_RESIDUAL26\\RESIDUAL26_CANONICAL_BINDINGS.json",
+    "bytes": 426448,
+    "sha256": "14a4a2e6e4f5d18132f966f4b12fe1130649203a9250715071f83ee327d557ec",
+    "git_blob_sha1": "64e5d9f27a037af216af318e1931c463c48fcfe2",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 19,
+    "lane": "ROOT_REDWINTER",
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/ROOT_RED_WINTER10_DECISION_REGISTER_V1.json",
+    "bytes": 11142,
+    "sha256": "5d5592dc5157c58078ca7bf76c0e426ea98964f7e50ce1009edd9e38964212ff",
+    "git_blob_sha1": "ed725598cd4bb99bb86ed54a110ff1266a768cfb",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 20,
+    "lane": "ROOT_REDWINTER",
+    "path": "immutable-local-custody://PHASE3_START_20261009/ROOT_RED_WINTER10_EXACT_INPUT_RECEIPTS_V1.json",
+    "bytes": 6849,
+    "sha256": "cbf7686656b289b59bf6c34e84a35eb946e61bfe0ab54057148144e324a3bfd2",
+    "git_blob_sha1": "d1310b8caec06197720f71d3df9bc3727fe03757",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 21,
+    "lane": "ROOT_VALKYRIE",
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/ROOT_VALKYRIE3_DECISION_REGISTER_V2.json",
+    "bytes": 15188,
+    "sha256": "0d3683af714e8a77255063d1a5beb9078ffc3a8320ead9821f95489e12010d9c",
+    "git_blob_sha1": "091794d08a88e462d8f0ba2fbc2a3837598d0523",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 22,
+    "lane": "ROOT_VALKYRIE",
+    "path": "immutable-local-custody://PHASE3_START_20261009/ROOT_VALKYRIE3_INPUT_RECEIPTS_V2.json",
+    "bytes": 11411,
+    "sha256": "2092ebe3e8461da05df3055cc6b3d32a5d53af96bd7e5a1810e228838d06906f",
+    "git_blob_sha1": "200bc08ac38792e3c11644d01a4b244a0eaf7088",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 23,
+    "lane": "MAIN_SPECIAL",
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_MAIN_SPECIAL/MAIN_SPECIAL_CENSUS_CANDIDATE.json",
+    "bytes": 282340,
+    "sha256": "28c1f3905bf099b10e1d09d028733b5c022769f2fc05e3ac6fa13d93298b9cae",
+    "git_blob_sha1": "76856e202f8363507e87c52a83f15dc06995f47f",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   },
+   {
+    "input_ref": 24,
+    "lane": "MAIN_SPECIAL",
+    "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_MAIN_SPECIAL\\MAIN_SPECIAL_CENSUS_RECEIVING_RECEIPT.json",
+    "bytes": 78269,
+    "sha256": "ab0593305b625346c74dd1d66714f758c05bbe887d11a6e101d64c1ed1bfca3c",
+    "git_blob_sha1": "c0018aeaaa5c8793e4baa60952aa6a5e81e31dd2",
+    "mechanical_receiving": "Complete JSON parsed for schema/routes/declared custody only; no personal literary body receiving or new acceptance claimed."
+   }
+  ],
+  "crosswalks": [
+   {
+    "path": "series\\blue-archive\\06 Evidence and Indexes\\BLUE_ARCHIVE_PHASE2_CURRENT_GROUP_SOURCE_CROSSWALK.csv",
+    "bytes": 37723,
+    "sha256": "25d61dd13804386183e6d4a34466dc9b1fa747bfdf52f77108ee3d8bfd8128f5",
+    "git_blob_sha1": "fbfe9f178c4aeffcbe961c2b6e784e11f083e5bd"
+   },
+   {
+    "path": "series\\blue-archive\\06 Evidence and Indexes\\BLUE_ARCHIVE_PHASE2_CURRENT_EVENT_SOURCE_CROSSWALK.csv",
+    "bytes": 430489,
+    "sha256": "3471365536fa65255c7dff11231b4606aa909b228c5af39a44354420043a67e9",
+    "git_blob_sha1": "5e3ea217c3e8c7dceae9c6f6d2b0e1d6c11548d1"
+   },
+   {
+    "path": "series\\blue-archive\\06 Evidence and Indexes\\BLUE_ARCHIVE_PHASE2_CURRENT_MINI_SOURCE_CROSSWALK.csv",
+    "bytes": 13093,
+    "sha256": "f40e2dfee4a77f19a3c0addb0e09db110c8981dfa53d20a39d18e5267c996782",
+    "git_blob_sha1": "faa495c7b72666b403e21628e852a0bcde18b70c"
+   }
+  ],
+  "source_pin": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+  "parser": "0.2.0",
+  "outside105_roster_scopes": [
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:001",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:008",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:014",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:015",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:016",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:017",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:018",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:019",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:020",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:021",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:022",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:023",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:024",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:025",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:001:026",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:001",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:008",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:014",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:015",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:016",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:017",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:018",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:019",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:020",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:021",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:022",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:023",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:024",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:025",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:026",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:027",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "HYS",
+    "input_ref": 11,
+    "story_id": "BA:main:005:002:028",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:001",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:008",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:014",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:015",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:016",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:018",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:019",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:020",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:021",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:022",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:023",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:024",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:025",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:001:026",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:018",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:019",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:020",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:024",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:025",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:026",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "ROOT_HYS_CHOICES",
+    "input_ref": 12,
+    "story_id": "BA:main:005:002:028",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:001",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:002",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:003",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:004",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:005",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:006",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:007",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:008",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:009",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:010",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:011",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:012",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:013",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:014",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:015",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:016",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:017",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:018",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:019",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:001:020",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:001",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:002",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:003",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:004",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:005",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:006",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:007",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:008",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:009",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:010",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:011",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:012",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:013",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:014",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:015",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:016",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:017",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:018",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:019",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:020",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:021",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:022",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:023",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   },
+   {
+    "lane": "RESIDUAL26",
+    "input_ref": 17,
+    "story_id": "BA:main:004:002:024",
+    "owner": null,
+    "scope": "Outside105 supplemental dispatch; retained separate MAIN/other scope, no source-unit denominator merger."
+   }
+  ],
+  "scope_limits": [
+   "Fresh complete public header ground truth is mechanics only, not completed arguments, owner acceptance, people or package counts.",
+   "Frozen-source rosters and exact locus-specific home declarations are separate layers. Packet-wide/semantic prose role dispositions remain recorded in source registers and require ROOT convergence.",
+   "A direct current-normal-owner receipt absence does not prove globally unread material; adequate complete checkpoint/comparison scope may be available and is retained verbatim.",
+   "EVENT816 checkpoint/synthesis receiving does not claim17 individual current normal deep-owner files fully received. ROOT decides adequacy without automatic primary replay.",
+   "Inherited MAIN/private scopes outside supplemental105 are preserved separately; no MAIN/supplement union denominator.",
+   "Dated540 blank raw identity fields and spelling/language differences remain retrieval questions; no nine large coverage indexes were opened."
+  ],
+  "actions": {
+   "C_only": true,
+   "R_writes": false,
+   "Git_mutations": false,
+   "unbound_large_files_read_or_hashed": false,
+   "N_frozen": false,
+   "semantic_acceptance": false
+  }
+ }
+}
