@@ -1,0 +1,923 @@
+{
+  "schema": "BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_V1",
+  "status": "OWNER_AUTHORIZED_BOUNDED_CORRECTION_PENDING_MAIN_INTEGRATION",
+  "correction_date": "2026-10-11",
+  "base_commit": "9cd7a70853c40806f1a16fd957e9791dd14a7789",
+  "observed_blue_branch_commit": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+  "identical_blue_subtree": "5b4c4ed6edf860b7431d80866987a23bc4132047",
+  "authority": "Owner-dispatched seven-error repair and operative evidence update. Draft publication is authorized; integration is reserved to the parent after exact-head validation and live authority confirmation.",
+  "application_rule": "Use the corrected canonical bodies and the seven replacements below for current interpretation. For retained claim, endpoint, saved-line and body fields listed in historical_repetitions, apply all named replacements in order; apply a citation replacement only to a field affected by that correction. Unlisted content remains in force at its original scope. Frozen attachments and historical payloads are not edited or promoted.",
+  "evidence_boundary": "Bounded consistency review of accepted derived readings and the accepted Ako monograph, not direct inspection of primary text, assets, audio or video. No new source/identity/model/package/milestone credit; all existing uncertainty and scope limits remain.",
+  "sources": {
+    "MINI32": {
+      "repository_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 93829,
+      "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+      "git_blob_oid_of_actual_bytes": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+      "accepted_lines": [
+        160
+      ],
+      "commit": "9cd7a70853c40806f1a16fd957e9791dd14a7789"
+    },
+    "GROUP1101-1104": {
+      "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+      "bytes": 36852,
+      "sha256": "2215aa4cb0f6b7092939f775ac72e12361e6fa58ce9d4087f7686d10d3c9a2d3",
+      "git_blob_oid_of_actual_bytes": "2f1bce821c37ec76c58b0422fdc13da135258009",
+      "accepted_lines": [
+        87,
+        101,
+        103,
+        105,
+        107,
+        125,
+        128
+      ],
+      "commit": "9cd7a70853c40806f1a16fd957e9791dd14a7789"
+    },
+    "EVENT810009": {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_009_80000009_DEEP_READING.md",
+      "bytes": 10766,
+      "sha256": "c5cb7183fccd3ef61a7e8504e1e5fb2dbb5c26f654be086504975a98164113a0",
+      "git_blob_oid_of_actual_bytes": "bb2db96a5d959a5ce5b9d7e3f998b99eb8cba4d8",
+      "accepted_lines": [
+        37,
+        39,
+        43,
+        45,
+        70,
+        72,
+        74
+      ],
+      "commit": "9cd7a70853c40806f1a16fd957e9791dd14a7789"
+    },
+    "EVENT826": {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 32334,
+      "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b",
+      "git_blob_oid_of_actual_bytes": "59694ca045d8c38d8772d95929e9ee55f2fb0f63",
+      "accepted_lines": [
+        129,
+        131,
+        133,
+        135,
+        137
+      ],
+      "commit": "9cd7a70853c40806f1a16fd957e9791dd14a7789"
+    },
+    "AKO": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 68473,
+      "sha256": "9b61b4a2a7b406a188141fed0ac4f9e9b7cfa11596e3b51ee625502d8ebd85d7",
+      "git_blob_oid_of_actual_bytes": "ccdea0a0680af29740fdd1959546d4615e154b01",
+      "accepted_lines": [
+        78,
+        184
+      ],
+      "commit": "9cd7a70853c40806f1a16fd957e9791dd14a7789"
+    },
+    "N06": {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E006_DEEP_READING.md",
+      "bytes": 3750,
+      "sha256": "4437437bb4161f35dd918cf862a0678c1dea7ca265ab11c8c963ca2c91922816",
+      "git_blob_oid_of_actual_bytes": "3777145728a2a136c9c7de258cc4e888fbbdf1c0",
+      "accepted_lines": [
+        37,
+        41,
+        93
+      ],
+      "commit": "9cd7a70853c40806f1a16fd957e9791dd14a7789"
+    }
+  },
+  "corrections": [
+    {
+      "id": "BA-SC-20261011-01",
+      "package": "HINA_AKO",
+      "claim_ids": [
+        "HA016"
+      ],
+      "transition": "REVISE",
+      "current_formulation": "Hina mistakes Ako's invitation for Ako's disguised leave request and apologizes that Ako should not have to lie for time off.",
+      "accepted_source_refs": [
+        "MINI32"
+      ],
+      "replacements": [
+        {
+          "before": "Hina initially contemplates an excuse to leave, then apologizes for relying on such a guise as Rumi explains the situation.",
+          "after": "Hina initially interprets Ako's invitation as a disguised request for leave and apologizes that Ako should not need to lie to obtain time off; Rumi then explains the birthday occasion."
+        }
+      ]
+    },
+    {
+      "id": "BA-SC-20261011-02",
+      "package": "PREFECT_INSTITUTION",
+      "claim_ids": [
+        "Prefect force paragraph at base line 120"
+      ],
+      "transition": "REVISE",
+      "current_formulation": "Chinatsu requests no resistance; the request does not establish whether resistance occurred.",
+      "accepted_source_refs": [
+        "GROUP1101-1104"
+      ],
+      "replacements": [
+        {
+          "before": "Chinatsu's report of no resistance matters precisely because custody need not be narrated as a difficult battle.",
+          "after": "Chinatsu requests that they not resist; the request does not establish whether resistance occurred."
+        }
+      ]
+    },
+    {
+      "id": "BA-SC-20261011-03",
+      "package": "GOURMET_ENSEMBLE",
+      "claim_ids": [
+        "GPE007"
+      ],
+      "transition": "REVISE",
+      "current_formulation": "Reported receptor categories differ from mint preferences: Haruna dislikes mint, Junko tolerates it, and Izumi enjoys it. The fictional explanation and informal results do not validate biology.",
+      "accepted_source_refs": [
+        "GROUP1101-1104"
+      ],
+      "replacements": [
+        {
+          "before": "Hare's fictional explanatory account and the reported informal tests are not biological proof of why Izumi and Haruna like something Junko and Akari reject.",
+          "after": "Hare's fictional explanatory account and the reported informal tests distinguish reported receptor status from personal preference: Haruna and Izumi are reported to have the receptor, Akari and Junko not to have it, yet Haruna dislikes mint, Junko tolerates it and Izumi enjoys it. These reports do not validate the biology or make the receptor categories a liking/disliking division."
+        }
+      ],
+      "citation_replacement": {
+        "before": "PUBLIC-02:L101–115.",
+        "after": "PUBLIC-02:L101–125."
+      }
+    },
+    {
+      "id": "BA-SC-20261011-04",
+      "package": "GOURMET_ENSEMBLE",
+      "claim_ids": [
+        "GPE023",
+        "GPE-END-037"
+      ],
+      "transition": "REVISE",
+      "current_formulation": "Akari pressures Sensei in their private cafeteria practice before a future public chocolate contest; Sensei's objections and unfinished portion remain.",
+      "accepted_source_refs": [
+        "EVENT810009"
+      ],
+      "replacements": [
+        {
+          "before": "Akari's novice chocolate-contest nervousness and appreciation of company coexist with repeated pressure on other contestants and an unfinished adult share.",
+          "after": "Akari's nervousness about a future chocolate contest and appreciation of company coexist with pressure on Sensei during their private cafeteria practice and an unfinished adult share."
+        },
+        {
+          "before": "Nervous novice participation/company valued; adult portion unfinished and contestant objections remain.",
+          "after": "Nervousness about a future public contest and valued two-person practice coexist; Sensei's objections remain, less than half of Sensei's portion is eaten, and the remainder is brought to Schale without completed later consumption."
+        }
+      ]
+    },
+    {
+      "id": "BA-SC-20261011-05",
+      "package": "SAYA_RECIPIENTS",
+      "claim_ids": [
+        "SR008"
+      ],
+      "transition": "REVISE",
+      "current_formulation": "The joint capture resolves the local collaborators/conduit; Kai and her larger project remain unresolved.",
+      "accepted_source_refs": [
+        "EVENT826"
+      ],
+      "replacements": [
+        {
+          "before": "investigate and help capture Kai.",
+          "after": "investigate and help capture the local collaborators; Kai and her larger project remain unresolved."
+        }
+      ],
+      "citation_replacement": {
+        "before": "N18:L95,L97,L99,L131,L133;",
+        "after": "N18:L95,L97,L99,L131,L133,L135,L137;"
+      }
+    },
+    {
+      "id": "BA-SC-20261011-06",
+      "package": "HINA_AKO",
+      "claim_ids": [
+        "HA021"
+      ],
+      "transition": "REVISE",
+      "current_formulation": "Ako's imagined report is twenty-thousand characters, not words; it remains an internal demand.",
+      "accepted_source_refs": [
+        "AKO"
+      ],
+      "replacements": [
+        {
+          "before": "twenty-thousand-word report",
+          "after": "twenty-thousand-character report"
+        }
+      ]
+    },
+    {
+      "id": "BA-SC-20261011-07",
+      "package": "SAYA_RECIPIENTS",
+      "claim_ids": [
+        "SR020",
+        "E08"
+      ],
+      "transition": "REVISE",
+      "current_formulation": "The board-game trap punctures Saya's renewed boast before the later MomoTalk admission of loss and wish for a rematch; no rematch or future win is established.",
+      "accepted_source_refs": [
+        "N06"
+      ],
+      "replacements": [
+        {
+          "before": "She admits defeat and wants another match. Her renewed boast is punctured by another trap, so the ending does not certify greater self-control.",
+          "after": "Her renewed boast is punctured by another trap, so the game's ending does not certify greater self-control. In the later MomoTalk follow-up she admits defeat and wants another match."
+        },
+        {
+          "before": "They play; Saya admits loss and wants a rematch, then another trap punctures the boast.",
+          "after": "The game ends with another trap puncturing Saya's renewed boast; in the later MomoTalk follow-up she admits loss and wishes for a rematch."
+        }
+      ]
+    }
+  ],
+  "canonical_body_revisions": [
+    {
+      "package": "HINA_AKO",
+      "prior": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_HINA_AKO_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 46344,
+        "sha256": "04bdc37df0072cf17cff41793b2fd816ebb0bec4cd4ba63469021c7773522309",
+        "git_blob_oid_of_actual_bytes": "7047e8b8d82c41641a785e2ebff2eb6bb3360025"
+      },
+      "current": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_HINA_AKO_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 46691,
+        "sha256": "e77e71657099e4980358dd518ec7b23e62d716cd2bf24d16ceb2cd633e79dfb3",
+        "git_blob_oid_of_actual_bytes": "bfa46c17ec4e705c02ff26917b79b8d916da121f"
+      },
+      "exact_line_replacements": [
+        {
+          "line": 36,
+          "before": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HINA_AKO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HINA_AKO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/afb/bf5/count statements remain creation-time history. Published114 source 7a146891ad9ffd999b2c4377d66a73313217a510/tree b726ef7a1a3a103d3011cf708a169eb8c7d659df has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed six-package115–120 proposal takes effect only through complete ROOT installation, yielding120 (95character/12directedrelationship/5ensemble/8institution) and the unchanged10 completed non-denominator named duties. Later121+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All194 literary lines,47 claim paragraphs, ten end tests and nine rivals retain both directions, wanted company/service, independent peers and actual refusals.22 source qualifications retain their individual whole/scoped custody. The birthday source note specifies earlier cold atmosphere and actual successful party separately; the exact inherited Hina sentence correction is maintenance, not another package.",
+          "after": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HINA_AKO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HINA_AKO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/afb/bf5/count statements remain creation-time history. Published114 source 7a146891ad9ffd999b2c4377d66a73313217a510/tree b726ef7a1a3a103d3011cf708a169eb8c7d659df has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed six-package115–120 proposal takes effect only through complete ROOT installation, yielding120 (95character/12directedrelationship/5ensemble/8institution) and the unchanged10 completed non-denominator named duties. Later121+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All194 literary lines,47 claim paragraphs, ten end tests and nine rivals retain both directions, wanted company/service, independent peers and actual refusals.22 source qualifications retain their individual whole/scoped custody. The birthday source note specifies earlier cold atmosphere and actual successful party separately; the exact inherited Hina sentence correction is maintenance, not another package. **2026-10-11 source-consistency correction:** The [operative correction register](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json) governs HA016, HA021; frozen submissions and earlier receipts retain their historical wording."
+        },
+        {
+          "line": 78,
+          "before": "**HA016.** The birthday MINI expands the pair's life through different people's initiative. Ako worries about cost and the ordering mistake; Mina's proposed warehouse inspection is stopped rather than executed. Contact work and local medical connections help connect the occasions without constituting formal interschool protocol. Hina initially contemplates an excuse to leave, then apologizes for relying on such a guise as Rumi explains the situation. Cakes are actually exchanged, greetings occur and the narrative says the party ends successfully. These are fulfilled goods. The encounter also changes local forms of address and states a shared birthday age; neither is an identity join, a globally dated age nor evidence that hierarchy disappears at work. [N03:154–164; H:141–151; A:158–176]",
+          "after": "**HA016.** The birthday MINI expands the pair's life through different people's initiative. Ako worries about cost and the ordering mistake; Mina's proposed warehouse inspection is stopped rather than executed. Contact work and local medical connections help connect the occasions without constituting formal interschool protocol. Hina initially interprets Ako's invitation as a disguised request for leave and apologizes that Ako should not need to lie to obtain time off; Rumi then explains the birthday occasion. Cakes are actually exchanged, greetings occur and the narrative says the party ends successfully. These are fulfilled goods. The encounter also changes local forms of address and states a shared birthday age; neither is an identity join, a globally dated age nor evidence that hierarchy disappears at work. [N03:154–164; H:141–151; A:158–176]"
+        },
+        {
+          "line": 90,
+          "before": "**HA021.** Inward utterances create another boundary. Ako's twenty-thousand-word report is an internal statement, not information automatically delivered to Hina or Sensei. The incomplete emergency-at-a-cafe idea, later set aside because of the burden on Hina, remains a conditioned thought rather than an executed scheme. Likewise Hina's private resignation wish and the sports-festival warning about Sena need not be heard by Ako. An analyst can compare these records retrospectively while the characters retain their unequal local knowledge. Assuming complete mutual disclosure would remove the very interpretation, worry and failed contact that the scenes represent. [A:70–98,140–156; H:119–151; N01:493; N09:1–96; N11:1–55]",
+          "after": "**HA021.** Inward utterances create another boundary. Ako's twenty-thousand-character report is an internal statement, not information automatically delivered to Hina or Sensei. The incomplete emergency-at-a-cafe idea, later set aside because of the burden on Hina, remains a conditioned thought rather than an executed scheme. Likewise Hina's private resignation wish and the sports-festival warning about Sena need not be heard by Ako. An analyst can compare these records retrospectively while the characters retain their unequal local knowledge. Assuming complete mutual disclosure would remove the very interpretation, worry and failed contact that the scenes represent. [A:70–98,140–156; H:119–151; N01:493; N09:1–96; N11:1–55]"
+        }
+      ],
+      "inverse_order": "Reverse these exact line replacements to recover the prior canonical bytes; only then apply the unchanged original-to-canonical inverse in the saved transport receipt."
+    },
+    {
+      "package": "PREFECT_INSTITUTION",
+      "prior": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md",
+        "bytes": 55142,
+        "sha256": "3473dc911afad1ebd9cde76c80bda0fa659afa1de84dedc12c718724e0127e86",
+        "git_blob_oid_of_actual_bytes": "d7ee4d7c1331fdeedf261e50463d156e60ac8a93"
+      },
+      "current": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md",
+        "bytes": 55438,
+        "sha256": "7e42273afdeed7dd38bbdb99cedfb12d956bdad616ccc7d528a63f8a3318e9c7",
+        "git_blob_oid_of_actual_bytes": "46546cc796ff45078172da2846038e6a74e92019"
+      },
+      "exact_line_replacements": [
+        {
+          "line": 26,
+          "before": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/afb/bf5/count statements remain creation-time history. Published114 source 7a146891ad9ffd999b2c4377d66a73313217a510/tree b726ef7a1a3a103d3011cf708a169eb8c7d659df has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed six-package115–120 proposal takes effect only through complete ROOT installation, yielding120 (95character/12directedrelationship/5ensemble/8institution) and the unchanged10 completed non-denominator named duties. Later121+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All246 literary lines,65 claims,78 saved blocks and six rivals retain protection, information, work, food/leisure, power, actual victims and incomplete accountability.20 normal source qualifications, three complete preseal histories and exact inverses survive. Character monographs, Hina–Ako and Pandemonium are separate responsibilities, not completion by proxy.",
+          "after": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/afb/bf5/count statements remain creation-time history. Published114 source 7a146891ad9ffd999b2c4377d66a73313217a510/tree b726ef7a1a3a103d3011cf708a169eb8c7d659df has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed six-package115–120 proposal takes effect only through complete ROOT installation, yielding120 (95character/12directedrelationship/5ensemble/8institution) and the unchanged10 completed non-denominator named duties. Later121+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All246 literary lines,65 claims,78 saved blocks and six rivals retain protection, information, work, food/leisure, power, actual victims and incomplete accountability.20 normal source qualifications, three complete preseal histories and exact inverses survive. Character monographs, Hina–Ako and Pandemonium are separate responsibilities, not completion by proxy. **2026-10-11 source-consistency correction:** The [operative correction register](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json) governs Prefect force paragraph at base line 120; frozen submissions and earlier receipts retain their historical wording."
+        },
+        {
+          "line": 120,
+          "before": "The Prefect Team's strongest adverse evidence is its own force. GROUP1101 begins with a reported dining-hall destruction and proceeds to arrest and gunfire notation. Hina's shift from disposal language to a command that opponents be barely alive does not supply casualty measurements or a proportionate-alternatives audit. Chinatsu's report of no resistance matters precisely because custody need not be narrated as a difficult battle. The action cannot become harmless solely because the register is comic. [S01]",
+          "after": "The Prefect Team's strongest adverse evidence is its own force. GROUP1101 begins with a reported dining-hall destruction and proceeds to arrest and gunfire notation. Hina's shift from disposal language to a command that opponents be barely alive does not supply casualty measurements or a proportionate-alternatives audit. Chinatsu requests that they not resist; the request does not establish whether resistance occurred. The action cannot become harmless solely because the register is comic. [S01]"
+        }
+      ],
+      "inverse_order": "Reverse these exact line replacements to recover the prior canonical bytes; only then apply the unchanged original-to-canonical inverse in the saved transport receipt."
+    },
+    {
+      "package": "GOURMET_ENSEMBLE",
+      "prior": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GOURMET_DIFFERENTIATED_PLEASURE_ENSEMBLE_SYNTHESIS.md",
+        "bytes": 50340,
+        "sha256": "b49eb46bebea34f0e47b8fe1dc23cd86a484850dce9179f26409b15946578f4a",
+        "git_blob_oid_of_actual_bytes": "8c077f4909d005bec784efd0102f0fd5053372eb"
+      },
+      "current": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GOURMET_DIFFERENTIATED_PLEASURE_ENSEMBLE_SYNTHESIS.md",
+        "bytes": 50892,
+        "sha256": "b926d3828a3bed14c0ddc904e6091eb71d1ceae850c3279283ecf8712900bfc3",
+        "git_blob_oid_of_actual_bytes": "3521906c6d54e09be561938494a7f1dd37af4f3f"
+      },
+      "exact_line_replacements": [
+        {
+          "line": 25,
+          "before": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/afb/bf5/count statements remain creation-time history. Published114 source 7a146891ad9ffd999b2c4377d66a73313217a510/tree b726ef7a1a3a103d3011cf708a169eb8c7d659df has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed six-package115–120 proposal takes effect only through complete ROOT installation, yielding120 (95character/12directedrelationship/5ensemble/8institution) and the unchanged10 completed non-denominator named duties. Later121+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** The operative V2 keeps165 literary lines,65 source-scoped paragraphs,49 finite endings, nine rivals and86 source qualifications. Exact four-paragraph correction assigns kitchen oil/help to Haruna, clean wrapping/friendship appeal to Akari and joining to Junko; teasing/refusal and unfinished meal/cleanup remain. All15 immutable V1 files,102 plan files and16 operative files retain complete inverses. MAIN009/019 have present7a byte equality but omitted original copy-operation references; MAIN020 was captured at7a. Source-mode and actor seams, Izumi abandonment/company and intrinsic taste/aroma remain; no invented Gourmet institution or proxy School Lunch/Gourmet→Fuuka completion.",
+          "after": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/afb/bf5/count statements remain creation-time history. Published114 source 7a146891ad9ffd999b2c4377d66a73313217a510/tree b726ef7a1a3a103d3011cf708a169eb8c7d659df has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed six-package115–120 proposal takes effect only through complete ROOT installation, yielding120 (95character/12directedrelationship/5ensemble/8institution) and the unchanged10 completed non-denominator named duties. Later121+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** The operative V2 keeps165 literary lines,65 source-scoped paragraphs,49 finite endings, nine rivals and86 source qualifications. Exact four-paragraph correction assigns kitchen oil/help to Haruna, clean wrapping/friendship appeal to Akari and joining to Junko; teasing/refusal and unfinished meal/cleanup remain. All15 immutable V1 files,102 plan files and16 operative files retain complete inverses. MAIN009/019 have present7a byte equality but omitted original copy-operation references; MAIN020 was captured at7a. Source-mode and actor seams, Izumi abandonment/company and intrinsic taste/aroma remain; no invented Gourmet institution or proxy School Lunch/Gourmet→Fuuka completion. **2026-10-11 source-consistency correction:** The [operative correction register](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json) governs GPE007, GPE023, GPE-END-037; frozen submissions and earlier receipts retain their historical wording."
+        },
+        {
+          "line": 43,
+          "before": "[GPE007] GROUP1103 then makes disagreement over taste its own relation. Hare's fictional explanatory account and the reported informal tests are not biological proof of why Izumi and Haruna like something Junko and Akari reject. Izumi defends resemblance and affordability in the toothpaste-water sale account; Junko distinguishes enjoyment from suitability for sale. Izumi still enjoys it at the ending. The disagreement persists instead of being dissolved by a secret objective taste hierarchy. GROUP1104 ends more adversely: the offer of oil and help addresses Fuuka's reported impossible egg workload, but her warning is interrupted and no meal, cleanup, apology or repaired division of labor is narrated. An intention to help is positive evidence; success in providing care requires a further test. (PUBLIC-02:L101–115.)",
+          "after": "[GPE007] GROUP1103 then makes disagreement over taste its own relation. Hare's fictional explanatory account and the reported informal tests distinguish reported receptor status from personal preference: Haruna and Izumi are reported to have the receptor, Akari and Junko not to have it, yet Haruna dislikes mint, Junko tolerates it and Izumi enjoys it. These reports do not validate the biology or make the receptor categories a liking/disliking division. Izumi defends resemblance and affordability in the toothpaste-water sale account; Junko distinguishes enjoyment from suitability for sale. Izumi still enjoys it at the ending. The disagreement persists instead of being dissolved by a secret objective taste hierarchy. GROUP1104 ends more adversely: the offer of oil and help addresses Fuuka's reported impossible egg workload, but her warning is interrupted and no meal, cleanup, apology or repaired division of labor is narrated. An intention to help is positive evidence; success in providing care requires a further test. (PUBLIC-02:L101–125.)"
+        },
+        {
+          "line": 81,
+          "before": "[GPE023] Gifts have unequal dyads and unequal endpoints. Akari's novice chocolate-contest nervousness and appreciation of company coexist with repeated pressure on other contestants and an unfinished adult share. Junko offers to pay for a simple two-person dango gift, but the interruption and arrest leave no actual taste or payment. Haruna's sudden feeding gives local pleasure without advance permission; a completed preparation and sweeter taste report do not isolate the chemistry of gratitude. EVENT810039 belongs to Fuuka: her shared meal and cocoa are an independent recipient comparison, not an Izumi gift or a fabricated fourth Gourmet gift. Keeping those differences prevents an ensemble of abundant treats from becoming a fictitious uniform record of reciprocity. (PUBLIC-13:L37–45; PUBLIC-14:L37–73; PUBLIC-16:L35–65; PUBLIC-15:L35–63.)",
+          "after": "[GPE023] Gifts have unequal dyads and unequal endpoints. Akari's nervousness about a future chocolate contest and appreciation of company coexist with pressure on Sensei during their private cafeteria practice and an unfinished adult share. Junko offers to pay for a simple two-person dango gift, but the interruption and arrest leave no actual taste or payment. Haruna's sudden feeding gives local pleasure without advance permission; a completed preparation and sweeter taste report do not isolate the chemistry of gratitude. EVENT810039 belongs to Fuuka: her shared meal and cocoa are an independent recipient comparison, not an Izumi gift or a fabricated fourth Gourmet gift. Keeping those differences prevents an ensemble of abundant treats from becoming a fictitious uniform record of reciprocity. (PUBLIC-13:L37–45; PUBLIC-14:L37–73; PUBLIC-16:L35–65; PUBLIC-15:L35–63.)"
+        }
+      ],
+      "inverse_order": "Reverse these exact line replacements to recover the prior canonical bytes; only then apply the unchanged original-to-canonical inverse in the saved transport receipt."
+    },
+    {
+      "package": "SAYA_RECIPIENTS",
+      "prior": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 49617,
+        "sha256": "c268fb7f5e8d34f865d4c7b995edc1af00505e3ff5761b062b1be44ba59c7b5e",
+        "git_blob_oid_of_actual_bytes": "3f5261d7f1cd0cc256fb6de1df9838d25e61adcf"
+      },
+      "current": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 50018,
+        "sha256": "aefc05761d2752ac238e1ad62fd96a3dc9f3f08492f0f981e7a73d852c69f50a",
+        "git_blob_oid_of_actual_bytes": "1dd2cf7e7930bd49a045588a48551914cba9a419"
+      },
+      "exact_line_replacements": [
+        {
+          "line": 17,
+          "before": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/afb/bf5/count statements remain creation-time history. Published114 source 7a146891ad9ffd999b2c4377d66a73313217a510/tree b726ef7a1a3a103d3011cf708a169eb8c7d659df has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed six-package115–120 proposal takes effect only through complete ROOT installation, yielding120 (95character/12directedrelationship/5ensemble/8institution) and the unchanged10 completed non-denominator named duties. Later121+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All156 literary lines, six recipient question families,45 finite end cases and nine rivals retain distinct recipients, actual rest refusals, gifts, inquiry and restored Shun's own apology. Historical plan actor errors are qualified by the full operative source/precision receipts. Saya's character, Meihua and every separate directed responsibility remain distinct.27 adequate normal scopes and original mode/identity/chronology limits are preserved; copies add no original-primary credit.",
+          "after": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/afb/bf5/count statements remain creation-time history. Published114 source 7a146891ad9ffd999b2c4377d66a73313217a510/tree b726ef7a1a3a103d3011cf708a169eb8c7d659df has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed six-package115–120 proposal takes effect only through complete ROOT installation, yielding120 (95character/12directedrelationship/5ensemble/8institution) and the unchanged10 completed non-denominator named duties. Later121+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All156 literary lines, six recipient question families,45 finite end cases and nine rivals retain distinct recipients, actual rest refusals, gifts, inquiry and restored Shun's own apology. Historical plan actor errors are qualified by the full operative source/precision receipts. Saya's character, Meihua and every separate directed responsibility remain distinct.27 adequate normal scopes and original mode/identity/chronology limits are preserved; copies add no original-primary credit. **2026-10-11 source-consistency correction:** The [operative correction register](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json) governs SR008, SR020, E08; frozen submissions and earlier receipts retain their historical wording."
+        },
+        {
+          "line": 41,
+          "before": "[SR008] Public comparisons enlarge the repertoire without supplying an ordered improvement ladder. Saya initially declines faction involvement in EVENT826, responds to Rumi's dish, articulates technical limits, and later arrives independently to investigate and help capture Kai. EVENT839 shows requested rest refused by Kisaki; EVENT840 shows Saya freed, thankful, worried, and opposed to Kai's means; EVENT859 shows a late medicine schedule and renewed company. Their internal callbacks and actual endings support situated comparisons. Event identifiers and release carriers alone do not establish that every private deception preceded every public act of care, or that the later act erased the former. [N18:L95,L97,L99,L131,L133; N19:L112,L116; N20:L121,L124; N21:L142,L144]",
+          "after": "[SR008] Public comparisons enlarge the repertoire without supplying an ordered improvement ladder. Saya initially declines faction involvement in EVENT826, responds to Rumi's dish, articulates technical limits, and later arrives independently to investigate and help capture the local collaborators; Kai and her larger project remain unresolved. EVENT839 shows requested rest refused by Kisaki; EVENT840 shows Saya freed, thankful, worried, and opposed to Kai's means; EVENT859 shows a late medicine schedule and renewed company. Their internal callbacks and actual endings support situated comparisons. Event identifiers and release carriers alone do not establish that every private deception preceded every public act of care, or that the later act erased the former. [N18:L95,L97,L99,L131,L133,L135,L137; N19:L112,L116; N20:L121,L124; N21:L142,L144]"
+        },
+        {
+          "line": 71,
+          "before": "[SR020] The two-player board game is a different direction of influence. Saya asks for play, appreciates warm hands, chooses the activity, and becomes distracted by model cheese. She admits defeat and wants another match. Her renewed boast is punctured by another trap, so the ending does not certify greater self-control. Sensei's company here is not principally a clinical intervention or a rescue. Sensory warmth, attention, a comic loss, and a wished rematch are enough to make a meaningful encounter, while neither warmth nor proximity proves romance and the models are not an inspected meal. [N06:L37,L41,L54,L65,L93]",
+          "after": "[SR020] The two-player board game is a different direction of influence. Saya asks for play, appreciates warm hands, chooses the activity, and becomes distracted by model cheese. Her renewed boast is punctured by another trap, so the game's ending does not certify greater self-control. In the later MomoTalk follow-up she admits defeat and wants another match. Sensei's company here is not principally a clinical intervention or a rescue. Sensory warmth, attention, a comic loss, and a wished rematch are enough to make a meaningful encounter, while neither warmth nor proximity proves romance and the models are not an inspected meal. [N06:L37,L41,L54,L65,L93]"
+        }
+      ],
+      "inverse_order": "Reverse these exact line replacements to recover the prior canonical bytes; only then apply the unchanged original-to-canonical inverse in the saved transport receipt."
+    }
+  ],
+  "historical_repetitions": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "json_pointer": "/historical_author_or_ROOT_payload/claim_source_complete_review/15/complete_saved_paragraph",
+      "correction_ids": [
+        "BA-SC-20261011-01"
+      ],
+      "preserved_value_sha256": "92505b0d5972436aeb0f42fe210b43a64ed079055e3d3e218a6e45b5e63bab72",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "json_pointer": "/historical_author_or_ROOT_payload/claim_source_complete_review/20/complete_saved_paragraph",
+      "correction_ids": [
+        "BA-SC-20261011-06"
+      ],
+      "preserved_value_sha256": "c8cba9192258df0fc0f399a3165c8fe922f7b67fc758f2211fda2712510290ee",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "json_pointer": "/historical_author_or_ROOT_payload/saved_nonempty_line_projection/43/complete_saved_line",
+      "correction_ids": [
+        "BA-SC-20261011-01"
+      ],
+      "preserved_value_sha256": "92505b0d5972436aeb0f42fe210b43a64ed079055e3d3e218a6e45b5e63bab72",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "json_pointer": "/historical_author_or_ROOT_payload/saved_nonempty_line_projection/49/complete_saved_line",
+      "correction_ids": [
+        "BA-SC-20261011-06"
+      ],
+      "preserved_value_sha256": "c8cba9192258df0fc0f399a3165c8fe922f7b67fc758f2211fda2712510290ee",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/41",
+      "correction_ids": [
+        "BA-SC-20261011-01"
+      ],
+      "preserved_value_sha256": "92505b0d5972436aeb0f42fe210b43a64ed079055e3d3e218a6e45b5e63bab72",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/53",
+      "correction_ids": [
+        "BA-SC-20261011-06"
+      ],
+      "preserved_value_sha256": "c8cba9192258df0fc0f399a3165c8fe922f7b67fc758f2211fda2712510290ee",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/93",
+      "correction_ids": [
+        "BA-SC-20261011-02"
+      ],
+      "preserved_value_sha256": "dcb39e8943ac253cc74aa54d8b55b5f93a7d8828fe4141467c4faaf563ab3a88",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload",
+      "correction_ids": [
+        "BA-SC-20261011-02"
+      ],
+      "preserved_value_sha256": "f138bf85a1ea9392cd665b24e496444201825e207adf68e61c39b6ba6c9c8e8e",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload/claim_rows/35/full_claim_and_local_limits",
+      "correction_ids": [
+        "BA-SC-20261011-02"
+      ],
+      "preserved_value_sha256": "dcb39e8943ac253cc74aa54d8b55b5f93a7d8828fe4141467c4faaf563ab3a88",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/2/complete_original_payload/blocks/39/text",
+      "correction_ids": [
+        "BA-SC-20261011-02"
+      ],
+      "preserved_value_sha256": "dcb39e8943ac253cc74aa54d8b55b5f93a7d8828fe4141467c4faaf563ab3a88",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/5/complete_original_payload/claim_rows/35/full_claim_and_local_limits",
+      "correction_ids": [
+        "BA-SC-20261011-02"
+      ],
+      "preserved_value_sha256": "dcb39e8943ac253cc74aa54d8b55b5f93a7d8828fe4141467c4faaf563ab3a88",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/blocks/39/text",
+      "correction_ids": [
+        "BA-SC-20261011-02"
+      ],
+      "preserved_value_sha256": "dcb39e8943ac253cc74aa54d8b55b5f93a7d8828fe4141467c4faaf563ab3a88",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "json_pointer": "/historical_author_or_ROOT_payload/saved_paragraph_and_source_joins/6/meaning",
+      "correction_ids": [
+        "BA-SC-20261011-03"
+      ],
+      "preserved_value_sha256": "41d83c62df3ea12f62912a8271b456e2165b4c860034f6f982aee1404311c51f",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "json_pointer": "/historical_author_or_ROOT_payload/saved_paragraph_and_source_joins/22/meaning",
+      "correction_ids": [
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "c1190e1a51d631952c7db735bd21d5c9d75de11d76da7268273c660db637a8fc",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "json_pointer": "/historical_author_or_ROOT_payload/complete_finite_ending_cases/36/achieved_reported_proposed_and_unprinted_boundary",
+      "correction_ids": [
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "5acc7a044df2b3a0ef312a4193eaf8b5c4d60bd74faefac797aa2760ba32fe30",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/17",
+      "correction_ids": [
+        "BA-SC-20261011-03"
+      ],
+      "preserved_value_sha256": "f1627337f2ccbdb935cbd97d202f1b94897f606c7b75d5feab06d00837055714",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/55",
+      "correction_ids": [
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "49dc955a3bdb9f3fb2828e083f27e56ba8ef1650f3868dc1db855914e39b3fac",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "json_pointer": "/complete_V2_to_V1_recovery/full_V2_to_V1_body_inverse/complete_ranges/2/exact_unchanged_lines/11",
+      "correction_ids": [
+        "BA-SC-20261011-03"
+      ],
+      "preserved_value_sha256": "f1627337f2ccbdb935cbd97d202f1b94897f606c7b75d5feab06d00837055714",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "json_pointer": "/complete_V2_to_V1_recovery/full_V2_to_V1_body_inverse/complete_ranges/4/exact_unchanged_lines/27",
+      "correction_ids": [
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "49dc955a3bdb9f3fb2828e083f27e56ba8ef1650f3868dc1db855914e39b3fac",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/2/complete_original_payload",
+      "correction_ids": [
+        "BA-SC-20261011-03",
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "5775e2ea1d7081427560a7cf39194255a089420854bb582dedbfe934d6e071e5",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/5/complete_original_payload/saved_paragraph_and_source_joins/6/meaning",
+      "correction_ids": [
+        "BA-SC-20261011-03"
+      ],
+      "preserved_value_sha256": "41d83c62df3ea12f62912a8271b456e2165b4c860034f6f982aee1404311c51f",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/5/complete_original_payload/saved_paragraph_and_source_joins/22/meaning",
+      "correction_ids": [
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "c1190e1a51d631952c7db735bd21d5c9d75de11d76da7268273c660db637a8fc",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/5/complete_original_payload/complete_finite_ending_cases/36/achieved_reported_proposed_and_unprinted_boundary",
+      "correction_ids": [
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "5acc7a044df2b3a0ef312a4193eaf8b5c4d60bd74faefac797aa2760ba32fe30",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/12/complete_original_payload",
+      "correction_ids": [
+        "BA-SC-20261011-03",
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "5775e2ea1d7081427560a7cf39194255a089420854bb582dedbfe934d6e071e5",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_and_source_joins/6/meaning",
+      "correction_ids": [
+        "BA-SC-20261011-03"
+      ],
+      "preserved_value_sha256": "41d83c62df3ea12f62912a8271b456e2165b4c860034f6f982aee1404311c51f",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_and_source_joins/22/meaning",
+      "correction_ids": [
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "c1190e1a51d631952c7db735bd21d5c9d75de11d76da7268273c660db637a8fc",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/complete_finite_ending_cases/36/achieved_reported_proposed_and_unprinted_boundary",
+      "correction_ids": [
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "5acc7a044df2b3a0ef312a4193eaf8b5c4d60bd74faefac797aa2760ba32fe30",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload",
+      "correction_ids": [
+        "BA-SC-20261011-03",
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "b7ec26b338a5d8583663c0c72d153bc5f1b5c340b1a20f82c6e158d75d410900",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_and_source_joins/6/meaning",
+      "correction_ids": [
+        "BA-SC-20261011-03"
+      ],
+      "preserved_value_sha256": "41d83c62df3ea12f62912a8271b456e2165b4c860034f6f982aee1404311c51f",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_and_source_joins/22/meaning",
+      "correction_ids": [
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "c1190e1a51d631952c7db735bd21d5c9d75de11d76da7268273c660db637a8fc",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/complete_finite_ending_cases/36/achieved_reported_proposed_and_unprinted_boundary",
+      "correction_ids": [
+        "BA-SC-20261011-04"
+      ],
+      "preserved_value_sha256": "5acc7a044df2b3a0ef312a4193eaf8b5c4d60bd74faefac797aa2760ba32fe30",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_NAV_SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1_V1.json",
+      "json_pointer": "/historical_author_or_ROOT_payload/claims/7/argument",
+      "correction_ids": [
+        "BA-SC-20261011-05"
+      ],
+      "preserved_value_sha256": "c9771921b1be75defcb116c05fe64efa07aaff8fd3303463eb059903b4deb9cb",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_NAV_SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1_V1.json",
+      "json_pointer": "/historical_author_or_ROOT_payload/claims/19/argument",
+      "correction_ids": [
+        "BA-SC-20261011-07"
+      ],
+      "preserved_value_sha256": "b339c8e14ea33ddc37fe7d58a0324e4de3015f797880fe56af402a5e57977ce7",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_NAV_SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1_V1.json",
+      "json_pointer": "/historical_author_or_ROOT_payload/finite_endpoint_cases/7/actual_printed_endpoint_or_scoped_report",
+      "correction_ids": [
+        "BA-SC-20261011-07"
+      ],
+      "preserved_value_sha256": "6d6fe2a8978437e13926e1e1059a4ded51809a6845a41b154302d456cadeba2a",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/3/exact_unchanged_lines/23",
+      "correction_ids": [
+        "BA-SC-20261011-05"
+      ],
+      "preserved_value_sha256": "c9771921b1be75defcb116c05fe64efa07aaff8fd3303463eb059903b4deb9cb",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/3/exact_unchanged_lines/53",
+      "correction_ids": [
+        "BA-SC-20261011-07"
+      ],
+      "preserved_value_sha256": "b339c8e14ea33ddc37fe7d58a0324e4de3015f797880fe56af402a5e57977ce7",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/3/complete_original_payload/claims/7/argument",
+      "correction_ids": [
+        "BA-SC-20261011-05"
+      ],
+      "preserved_value_sha256": "c9771921b1be75defcb116c05fe64efa07aaff8fd3303463eb059903b4deb9cb",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/3/complete_original_payload/claims/19/argument",
+      "correction_ids": [
+        "BA-SC-20261011-07"
+      ],
+      "preserved_value_sha256": "b339c8e14ea33ddc37fe7d58a0324e4de3015f797880fe56af402a5e57977ce7",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "json_pointer": "/complete_author_attachments/3/complete_original_payload/finite_endpoint_cases/7/actual_printed_endpoint_or_scoped_report",
+      "correction_ids": [
+        "BA-SC-20261011-07"
+      ],
+      "preserved_value_sha256": "6d6fe2a8978437e13926e1e1059a4ded51809a6845a41b154302d456cadeba2a",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload",
+      "correction_ids": [
+        "BA-SC-20261011-05",
+        "BA-SC-20261011-07"
+      ],
+      "preserved_value_sha256": "8ecc0b64932ef62aa812fdc026bcf2467ea047ee412357eaad40f21c5a44acab",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload/claims/7/argument",
+      "correction_ids": [
+        "BA-SC-20261011-05"
+      ],
+      "preserved_value_sha256": "c9771921b1be75defcb116c05fe64efa07aaff8fd3303463eb059903b4deb9cb",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload/claims/19/argument",
+      "correction_ids": [
+        "BA-SC-20261011-07"
+      ],
+      "preserved_value_sha256": "b339c8e14ea33ddc37fe7d58a0324e4de3015f797880fe56af402a5e57977ce7",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload/finite_endpoint_cases/7/actual_printed_endpoint_or_scoped_report",
+      "correction_ids": [
+        "BA-SC-20261011-07"
+      ],
+      "preserved_value_sha256": "6d6fe2a8978437e13926e1e1059a4ded51809a6845a41b154302d456cadeba2a",
+      "disposition": "Historical field retained exactly; current use must apply the named correction replacements. Original paragraph/source hashes continue to bind the historical value."
+    }
+  ],
+  "frozen_author_attachment_files": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 173586,
+      "sha256": "e50f1810b7d020b4777283d9e26804fe9e62aca12c4462e78ee7848344b41d45",
+      "git_blob_oid_of_actual_bytes": "5ba5ba4924a6bdec3271a3c26674505860aa2c43"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 709413,
+      "sha256": "437af6ff6b9d9c378e1d1ac2517686e0f58809f0c3de9efa9bc5c594cdcb3ea4",
+      "git_blob_oid_of_actual_bytes": "471f81e85d1948b30800c0d008b5bbe00805aea9"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 81830,
+      "sha256": "faef253592e0fc875d98673d86146fd8d6ca0789e1deaa20a805dd48c580b69e",
+      "git_blob_oid_of_actual_bytes": "a235ee187c4fd82815f2974e519c5213cdc2affb"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 596750,
+      "sha256": "e7959fe2fb49d8def31237245feefd5bd675072100db743726247e8c16baac00",
+      "git_blob_oid_of_actual_bytes": "5209f52389c2e19d936ad1116f786a537d58c782"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 487901,
+      "sha256": "85f71d47525c89d4e7c5335718dbce063d8b11abe3cdc0ca3c48d1eaba7d1212",
+      "git_blob_oid_of_actual_bytes": "508d6998584a53f5baec59b8b00729f4015283ab"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+      "bytes": 406911,
+      "sha256": "af7ab89d37bcbd7698756b936fc8de6788186bdcfab7a978760e73711fcefac6",
+      "git_blob_oid_of_actual_bytes": "9d7bbc9c3bc154e68180960c1d0101beacc30b4b"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 742227,
+      "sha256": "29561299842cc632260d78c3ed37f45d5bef52e71268b043114e356c82649a4d",
+      "git_blob_oid_of_actual_bytes": "880d60664f99d9914e3993aa4e3f22f7b8cb5817"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 672728,
+      "sha256": "f4e7eebd817bea96c5b6b6980ef669c8f55c8849110c6fae07c65b110a5a1c15",
+      "git_blob_oid_of_actual_bytes": "231fc0ecf001691f75344fc0b07a6dbd9c00cbd9"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+      "bytes": 84306,
+      "sha256": "4333993a340bc0f6f37c80dcc702ac1454513ee2e71d8e6bd2992e509ad0c9fb",
+      "git_blob_oid_of_actual_bytes": "6b3596e85a18a6717892302c0bb8ffb91db401d2"
+    }
+  ],
+  "prior_operative_wrapper_bindings": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 245710,
+      "sha256": "8de9b50f9bf78ca3be575fbacdc04030381e5d715f312e72f3d83b6eeb209f89",
+      "git_blob_oid_of_actual_bytes": "a3f80053a7826941759eee5b3d23ec51f40506c5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+      "bytes": 21707,
+      "sha256": "d78325e6783a882af266d09aad289fc0c9e473bf85ecb5dbf3190ae86234c13c",
+      "git_blob_oid_of_actual_bytes": "c61ab4a849e8d7143dcb7b8a52d2e1389dec9c00"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_AKO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 59981,
+      "sha256": "b6c17215bf8a1b278e5fcf6bd747ecd7644dd254246170859106c8c524553ec6",
+      "git_blob_oid_of_actual_bytes": "a41b54c572a04282475f4ea04d823aa65be91c68"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 510733,
+      "sha256": "4c97af893ce9a99f1e794db998752d102a5994b5e34022f787211dd106ca99ac",
+      "git_blob_oid_of_actual_bytes": "8d898eb305bcebcf5709abcbcd102f548b4f23bb"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+      "bytes": 19708,
+      "sha256": "6327ad644ca5265b3db46705310661757dc7c2305644aefad32482ae60c80397",
+      "git_blob_oid_of_actual_bytes": "9ecbef852c6580933c912e476ae0deb97aa6c731"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PREFECT_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 70545,
+      "sha256": "ebfd94eee77c7b899e28b4bdcdf3dfe2b93b469a8f109f818943deb76c9d8df0",
+      "git_blob_oid_of_actual_bytes": "347abcb846904bac54eb01ee2e5c30747a106ba8"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 443607,
+      "sha256": "3fdce75117c592eb89bb88a4d98085825e3561695317057a3c6503f446fdc914",
+      "git_blob_oid_of_actual_bytes": "b5a7bb41efecae393b0fb33c51c96a6f257a6310"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_NAV_GOURMET_ENSEMBLE_AUTHOR_RECEIVING_AND_BOUNDARY_V1_V1.json",
+      "bytes": 17580,
+      "sha256": "390c01d96e5f4d242ac97bced9f7e60fcda95401bc9623d275caf90534d173af",
+      "git_blob_oid_of_actual_bytes": "651cef6cc4f9c6aab647d18b1d87cfbe70789b3d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+      "bytes": 21010,
+      "sha256": "ec657c45f5643859548e815b3bca77137019547b9e0856f640ba9a0ace216e4f",
+      "git_blob_oid_of_actual_bytes": "c6fcb1a9cefa2eb1043e4763c6734af761c900df"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GOURMET_ENSEMBLE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 133330,
+      "sha256": "a1721d12f0a89c92d38da8bbdad2d1ebb7190492de3aaeb7376b89be2ce9dff6",
+      "git_blob_oid_of_actual_bytes": "6fa2a27567b772916024729c803ef146bd86e2f5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 108651,
+      "sha256": "c0f74b305ab4ce584b6a4fcb7ffe7d14d892c711df31b36bd6d1e552aa0ba97a",
+      "git_blob_oid_of_actual_bytes": "f61028877d5341a8a701edc4ef096556dfcfd317"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_NAV_SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1_V1.json",
+      "bytes": 596014,
+      "sha256": "b70c6978b5f2149f30c6ef926bb8fc657150a4ca1ee49d0303593eb2c1db07ea",
+      "git_blob_oid_of_actual_bytes": "3d926613d7b792d805b45a6c860dc1dbd8bf820b"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_NAV_SAYA_RECIPIENTS_RELATIONSHIP_COMPLETE_SAVED_BODY_RECEIVING_V1_V1.json",
+      "bytes": 19573,
+      "sha256": "6e121ffafdbde748f5dc62ce5d59365464b562fdbe7532d3cb24d8de84c3a9f1",
+      "git_blob_oid_of_actual_bytes": "ea65aaf9abc72b8a84b336065fccebce2198de9e"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+      "bytes": 19606,
+      "sha256": "1ba169463e6862071799dc9d8454746f9c6a2c08a486c1821ca3a8e1177eba12",
+      "git_blob_oid_of_actual_bytes": "9788c4f23b9fbcf9225cc6b7bb3d17327bd3ac11"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 65550,
+      "sha256": "0722fd0085fea85ebbeb44f41de9a91bf5fbee3d040632af1e5641f7c128190f",
+      "git_blob_oid_of_actual_bytes": "555550dc2fa57f384dd16a20ab5b4c3e8ed01b77"
+    }
+  ],
+  "endpoint_and_rival_disposition": {
+    "corrected_endpoints": [
+      "GPE-END-037",
+      "E08"
+    ],
+    "preserved": "All other finite endpoint and rival arguments retain their existing source limits. GPE007 taste distinctions do not validate biology; Akari provision/pressure remains recipient-specific; Saya play remains meaningful without proving romance or improved self-control; local capture does not close Kai. No new rival or endpoint completion is claimed."
+  },
+  "excluded_work": [
+    "Earlier Hina birthday-atmosphere correction already applied",
+    "Other previously reported Blue findings and CSV wrapper issue",
+    "Controller maintenance PR151",
+    "Character registry and generated index authorship",
+    "Primary media acquisition or inspection",
+    "Merge and distinct owner-dispatched postintegration audit"
+  ]
+}

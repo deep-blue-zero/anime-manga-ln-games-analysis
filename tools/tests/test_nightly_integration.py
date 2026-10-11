@@ -720,7 +720,7 @@ class CleanupTests(unittest.TestCase):
                         mock.patch('nightly_integration.tempfile.TemporaryDirectory', return_value=temporary), \
                         mock.patch.object(temporary, '_rmtree', side_effect=cleanup) as removal, \
                         mock.patch('nightly_integration.time.sleep') as sleep, \
-                        mock.patch('sys.stdout', new_callable=io.StringIO) as output:
+                        mock.patch('sys.stdout', new_callable=io.StringIO, newline=os.linesep) as output:
                     try:
                         result = main()
                     except BaseException as exc:
@@ -844,7 +844,7 @@ class CleanupTests(unittest.TestCase):
                 (pack / 'old.pack').write_bytes(b'old')
                 def late_write(path, *args, **kwargs):
                     nonlocal raced
-                    if path == 'pack' and not raced:
+                    if Path(path).name == 'pack' and not raced:
                         raced = True
                         (pack / 'late.pack').write_bytes(b'late')
                     return remove(path, *args, **kwargs)
