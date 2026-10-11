@@ -1,0 +1,429 @@
+{
+  "schema": "BLUE_ARCHIVE_HEINE_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_COMPLETE_CANONICAL_INSTALLATION_PENDING",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+  "current_scope": "355required/29non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_source_beforeimage": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+  "dated_source_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+  "accepted_first_milestone_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "fixed_package_sequences": [
+      129,
+      130,
+      131,
+      132,
+      133
+    ],
+    "new_packages": 5,
+    "after_complete_ROOT_install": 133,
+    "characters": 100,
+    "directed_relationships": 16,
+    "ensembles": 5,
+    "institutions": 12,
+    "named_duties": 13,
+    "new_named_completions": 0,
+    "published_before_successor": 128,
+    "merged_main": 128,
+    "next_milestone": 178,
+    "later134plus": "EXCLUDED",
+    "mechanical_transport_credit": 0
+  },
+  "current_source128_complete_chain": {
+    "original_exact_tuple": {
+      "bytes": 6234,
+      "sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee",
+      "git_blob_oid_of_actual_bytes": "a2f9d228e9112d1bbcdac2257cc779c776bea20d"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "blue-archive/root-ea923128-complete-publication-chain-acceptance/v1",
+      "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+      "checked_UTC": "2026-10-11T03:09:55.396940+00:00",
+      "source": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+      "source_parent": [
+        "5933ee5e3859049509357c06e739ef91e0e7c98c"
+      ],
+      "original_capture": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_EA923_SOURCE128_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+        "bytes": 34415,
+        "sha256": "080ab21eb0c5eef9e27def112e0647712af9a82711e060a235806a883ee46f5b",
+        "git_blob_sha1": "594a4670a5e62753f4b29e1c42559a75c4f4db65"
+      },
+      "runs_and_actual_execution": [
+        {
+          "role": "SOURCE",
+          "run": {
+            "id": 38106064392,
+            "name": "Repository audit",
+            "event": "push",
+            "head_sha": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106064392",
+            "created_at": "2026-10-11T02:43:24Z",
+            "updated_at": "2026-10-11T02:58:26Z"
+          },
+          "complete_log": {
+            "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 362639,
+            "lines": 2288,
+            "sha256": "e7d4884ff5354e7cf039c68402dd7302334f1c43b23e45d649ef7fc0d6da04c2",
+            "git_blob_oid_of_actual_bytes": "ebd6a45e99640917927d427215b23879fb72a3ab"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "actual_execution": {
+            "commit": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        },
+        {
+          "role": "HOUSEKEEPING",
+          "run": {
+            "id": 38106873063,
+            "name": "Global index housekeeping",
+            "event": "workflow_run",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106873063",
+            "created_at": "2026-10-11T02:58:28Z",
+            "updated_at": "2026-10-11T02:58:48Z"
+          },
+          "complete_log": {
+            "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 44343,
+            "lines": 267,
+            "sha256": "4d71d211cc830fde0e1954e3fe308b1d565b38a531a06ec18adb3a2f0d8a2e74",
+            "git_blob_oid_of_actual_bytes": "299db419e9c58692bf9696be6dcd29388c7738c3"
+          },
+          "actual_noop_and_dispatch_witnesses": [
+            {
+              "line": 265,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T02:58:45.8526266Z PASS: dispatched the full audit for ea92302c7e9044dc1633b76c498a0a3bb3bae246"
+            },
+            {
+              "line": 266,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T02:58:45.8526914Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+            }
+          ]
+        },
+        {
+          "role": "FINAL_FULL_AUDIT",
+          "run": {
+            "id": 38106890357,
+            "name": "Repository audit",
+            "event": "repository_dispatch",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106890357",
+            "created_at": "2026-10-11T02:58:47Z",
+            "updated_at": "2026-10-11T03:07:00Z"
+          },
+          "complete_log": {
+            "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 362079,
+            "lines": 2283,
+            "sha256": "50e89ce9b20ec0d72bb55b4c80a346bae0c1a50858129df56512afae3d420558",
+            "git_blob_oid_of_actual_bytes": "eb7676087d83cf2e9be3c4f91d8f0e34054b2022"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "actual_execution": {
+            "commit": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        }
+      ],
+      "exact_final_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56072519998,
+        "node_id": "SC_kwDOUJ9ads8AAAANDi7BPg",
+        "state": "success",
+        "description": "Exact commit passed the repository audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106890357",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-11T03:06:56Z",
+        "updated_at": "2026-10-11T03:06:56Z"
+      },
+      "ROOT_actual_execution_summary_receiving": "26c699 actual SOURCE/full292 zero errors failures skips, HOUSE two no-op/dispatch witnesses, FINAL actual ea923/full292 zero errors failures skips; exact status56072519998",
+      "whole_log_human_reading_claim": false,
+      "progress": "Published128/merged89; ROOTaccepted129 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+      "source_or_repository_mutations": 0,
+      "all14_original_gaps": "OPEN_UNCHANGED",
+      "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+    }
+  },
+  "original_exact_tuple": {
+    "bytes": 11422,
+    "sha256": "525cb95bae88abd9bcb988b79bca148612b016f9c9833ad18f9f8806abca4915",
+    "git_blob_oid_of_actual_bytes": "c8a0bf2085813036011b8a14de8452d039a503da"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "ROOT_HEINE_REQUIRED_CHARACTER_MONOGRAPH_LITERARY_ACCEPTANCE_WITH_LIMITS_V1",
+    "created_UTC": "2026-10-11T03:10:57.224751+00:00",
+    "decision": "ROOT_ACCEPT_FULL_SOURCE_SCOPED_HEINE_CHARACTER_ARGUMENT_WITH_LIMITS",
+    "package_sequence": 130,
+    "required_package_id": "P3-CHAR-M014",
+    "source_responsibility": "P3-M014",
+    "kind": "CHARACTER",
+    "required_count": 1,
+    "named_duties_completed": 0,
+    "literal_subject": "Heine",
+    "navigation_only": "P3-A058",
+    "literal_actor": "ハイネ; empty raw identity stays empty; no claimant/profile/counterpart/variant join",
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "exact_author_freeze": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_COMPLETE_AUTHOR_RECEIVING_AND_EXACT_DELIVERY_FREEZE_V1.json",
+      "bytes": 31566,
+      "sha256": "c3e47a9945ea4f961fdc3aeb04cb930360c15ee314d866a8da40d42d9d7f4517"
+    },
+    "exact_eight_author_outputs": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "bytes": 37146,
+        "sha256": "79129be14481621ceaea78fee573f5be4e159cf8d18f9116e9be2dab3271a0de",
+        "git_blob_oid_of_actual_bytes": "04976a4ec6cb6c2fbf0eba6eea96ef7b8da8706a",
+        "physical_lines": 170
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_SOURCE_AND_ACTUAL_RECEIVING_SCOPE_RECEIPT_V1.json",
+        "bytes": 52909,
+        "sha256": "42c434c82d94832719060c7439c1d07ef76d135d577116ccb4ff07cb4c7ac751",
+        "git_blob_oid_of_actual_bytes": "887892fe95293a20bc474244b27f28de108caf19",
+        "physical_lines": 856
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_CLAIM_RIVAL_END_GAP_AND_SAVED_JOIN_RECEIPT_V1.json",
+        "bytes": 301079,
+        "sha256": "88c15ec11d5aa16e1a604358112dfabea3f6505363304eeafd06f81bcb065eaa",
+        "git_blob_oid_of_actual_bytes": "b0a39de7e7cf94eae5532b34c0041b9199cf9b70",
+        "physical_lines": 3320
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE105_ACTUAL_SOURCE_SCOPED_ARGUMENT_ROLE_REVIEW_V1.json",
+        "bytes": 299883,
+        "sha256": "005526e498dbaaac14df57da188fc9d035a790a6158d9b7f1e072e8370c5a948",
+        "git_blob_oid_of_actual_bytes": "c2f6f1a02739fc178d6b77b22e582b2c0818cbcf",
+        "physical_lines": 5148
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_E005_E008_AND_AGENCY_PRECISION_QUALIFICATION_V1.json",
+        "bytes": 10108,
+        "sha256": "6c8b3cce1e02d90c45610e4ed3a6ed756ac0943008e8bf5ef8024b2215983bc2",
+        "git_blob_oid_of_actual_bytes": "4eed34b4354db02833d1cd507caf8fe9e4555039",
+        "physical_lines": 81
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/heine_receiving_readonly.py",
+        "bytes": 6379,
+        "sha256": "92ec04b7b85c4833945dbfe60ef564d354f58adf0ebda470d0d79fb88423c855",
+        "git_blob_oid_of_actual_bytes": "daf87e89c5cafb16f87e6756e59408c91371227c",
+        "physical_lines": 79
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_EXACT_SOURCE_SAVED_AND_SCOPE_INVERSE_VERIFICATION_V1.json",
+        "bytes": 1327,
+        "sha256": "c1c9ba45b315c9f6c56f2e83f852b8e13f1af89c8777efa2fe4c28b1883317cc",
+        "git_blob_oid_of_actual_bytes": "03bbad2698fca8105ff9af1fabab59f6f396f5f2",
+        "physical_lines": 30
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_ROOT_COMPLETE_RECEIVING_GUIDE_V1.md",
+        "bytes": 5236,
+        "sha256": "5b2677ded9dd0c37203dcaec84476d241175789abaf3a06d9e8f6b7383426675",
+        "git_blob_oid_of_actual_bytes": "87198603fd761c2ab6b2b117ec615f78650f964b",
+        "physical_lines": 25
+      }
+    ],
+    "ROOT_actual_meaningful_receiving": {
+      "whole170_line_body": [
+        "b45a5c L1–85",
+        "d719d2 L86–170EOF; current seal and actual byte equality preserve reuse"
+      ],
+      "whole_guide_and_helper": [
+        "290922 guide",
+        "97e4e6 helper full79"
+      ],
+      "original_responsibility_and_full_controls": [
+        "8a603e"
+      ],
+      "all8_source_meanings": [
+        "8a603e HE01/02; clipped HE02 current custody path repaired3b54c3",
+        "6ffb7e HE03/04",
+        "de3f8d HE_PLUS01–04"
+      ],
+      "all35_claim_authority_fields": [
+        "099f80 claims1–7",
+        "601e58 claims8–14",
+        "8f681a claims15–21",
+        "0e63a7 claims22–28",
+        "2ea8a2 claims29–35"
+      ],
+      "all105_role_dispositions_at_actual_declared_scopes": [
+        "58d6ac owners0–19",
+        "93c1a0 owners20–39; clipped29 fully repaired2ea8a2",
+        "964c6e owners40–59",
+        "8fb697 owners60–79",
+        "6a3ac2 owners80–104"
+      ],
+      "all9_rivals_12_ends_14_OPEN_and_whole_precision": [
+        "5bb921"
+      ],
+      "whole_freeze_and_all_documentary_bindings": [
+        "542cb9 whole513-line freeze",
+        "dfca10 full bindings"
+      ],
+      "ROOT_positive_consequential_normal_meanings": [
+        "7011e9 whole S2E00537/E00837",
+        "62f685 whole V004E01347/E02347",
+        "b4a90a whole E00752 retained Aoi review",
+        "f0997b owner61 L60–99; owner62 L207–287 connected findings and attribution, no full534annex claim",
+        "467079 owner89 L60–84/L124–156; owner103 L77–110/L165–177/L217–232, no whole175/232 event claim"
+      ]
+    },
+    "ROOT_actual_finite_verification": {
+      "dfca10": "Actual read-only helper PASS:159 unique C path/SHA pairs,169 tuple occurrences,8 normal sources,105 role dispositions,110 literal joins,35 claims,9 rivals,12 finite ends,14 OPEN; exact original decision and prior105-scope inverse with explicit104 qualification; all literal normal warrants verified.",
+      "this_known_ROOT_script": "Verifies unchanged8 outputs/8 normals/45 preserved prior outputs, UTF8LF new8 payloads, original13 duty, current counts129, wholebody11 sections and exact accepted source128 publication-chain binding. No writer, primary replay, provider/Git/R mutation."
+    },
+    "substantive_acceptance": "Embodied grievance, missed wanted sport and revisable political allegiance form an independent character argument. Genuine injury cost does not validate the accusation against Rin. Protective arrival, insult, older playback, recognized contradiction and impeachment demand remain distinct. Her changed answer has value while food, company and missed gateball keep intrinsic standing. Neither passive-token nor final-truth-detector, wholly selfish/gullible nor fully repaired descriptions explain all actual evidence. The teacher requests, Miyako acts, FOX supplies, Moe objects and Heine answers at their separate scopes.",
+    "serious_limits": "No specific FOX injury operative, complete clinical diagnosis/recovery, resumed gateball, independently authenticated file, station-bomb recording, individual Heine ballot, executed impeachment/legal removal, complete office repair, Heine–Rin apology acceptance or universal cognition reform. Narrow Red Winter alumni disclaimer is no full school biography. S2 uncertain recollection does not authenticate the president claimant or establish clinical incapacity.",
+    "mandatory_visible_precision": [
+      "Original correct S2E005 u0031–0043 controls the recollection; inherited broad HE02L59 placing it in E008 survey is explicitly qualified. Preserve both normal owners unchanged; do not invent a second Heine incident or claim global E008 absence.",
+      "Owner104 separates JSON receipt21,825/SHA59921d39559c6ea00af92b6ea37d05ab66499ef1b446110c8a9b82fb5fecaa1e from MINI32 normal93,829/SHA03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f/344 lines at its declared historical/current normal tuple. Original frozen Aoi mismatch remains qualified, not rewritten.",
+      "Publication source125/128, analyticalmain2e and mergedmain89 remain distinct; dated producer/status/model/frontier text in admitted normal arguments is historical and not present scope authority.",
+      "Prerequisite Aoi acceptance retains the unpreserved earliest164-line draft limitation and exact reconstructed reference status; preservation of that reference grants no earliest-beforeimage custody."
+    ],
+    "original105_duty": "All105 source-specific bounded role/applicability dispositions are accepted at actually declared adequate earlier and consequential fresh scopes. Sports/leisure comparisons and federal civic distinctions are substantive; other students and anonymous/official roles are not annexed to Heine. This grants no newly whole-read105 owner bodies, header-negative exclusion or universal appearance/absence certificate. Stronger attendance, knowledge, assent, athletic participation or causal claims require complete consequential connected admitted warrants.",
+    "source_scope": "Already admitted written analytical meaning; actual prior adequate whole or connected arguments remain reusable. Byte/copy/hash equality and other writers reading grant no personal receiving. No primary/native/raw/QA/AV/performance/clinical/legal/technical validation, identity/source admission or model promotion.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "frozen_originals": "All eight author payloads, eight normal attachments and45 declared prior frozen outputs unchanged. Additive ROOT acceptance only.",
+    "progress_after_ROOT_acceptance": {
+      "accepted": 130,
+      "CHAR": 98,
+      "REL": 16,
+      "ENS": 5,
+      "INST": 11,
+      "named_duties": 13,
+      "published": 128,
+      "merged_main": 89,
+      "next_merge_milestone": 178,
+      "eligible_denominator": 355
+    },
+    "persistence": "C_ONLY_ROOT_ACCEPTED_NOT_YET_CANONICALLY_INSTALLED_OR_PUBLISHED",
+    "previous_acceptance": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_AOI_REQUIRED_CHARACTER_MONOGRAPH_LITERARY_ACCEPTANCE_WITH_LIMITS_V1.json",
+      "bytes": 11805,
+      "sha256": "c53b8113b6a8ce53fb87f5d916b9d05a426c77cbed3f17e63742ddeeaab2d24a"
+    },
+    "publication_chain": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_EA923_SOURCE128_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+      "bytes": 6234,
+      "sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee"
+    },
+    "repository_Git_provider_denominator_mutation": false,
+    "protected39_UNBOUND9_original_private_H_body_hash_access": false
+  },
+  "historical_payload_qualification": "All creation-time pending, source/custody/count and navigation fields remain history. Current actual ROOT acceptance and mandatory additive qualifications govern. Documentary old tuple fields are preserved as literal data, not blindly reopened as current bindings. Complete original bytes and reference/body inverses remain; no new literary/source/primary/model/identity credit. Original hashes bind originals, not public derivatives.",
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 40862,
+    "sha256": "cfadb1520e6abff16a0f0ec3ad6bff2adf14078c51398c644564565ea83af7bf",
+    "git_blob_oid_of_actual_bytes": "5329c49a667d6c1e17187daa65a2c555879c6bdd"
+  },
+  "authority_framing_changes": {
+    "historical_frontmatter_fields": [
+      "ROOT_acceptance",
+      "artifact_type",
+      "canonical_adoption",
+      "canonical_completion_credit",
+      "canonical_home",
+      "canonical_target",
+      "counts_as_ROOT_accepted_completed",
+      "do_not_use_as_current_authority",
+      "generation",
+      "publication_state",
+      "root_acceptance",
+      "stage_state",
+      "status",
+      "version"
+    ],
+    "inserted_current_boundary": "**Current ROOT receiving and publication boundary.** The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HEINE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual bounded acceptance; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HEINE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains complete original bytes and inverse. Published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246/tree c43f5d62b651da352854278d8bf83d43389e46df has a separately bound complete ROOT-accepted source→housekeeping→actual-source final chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed five-package129–133 proposal takes effect only through full ROOT installation, yielding133 (100character/16directedrelationship/5ensemble/12institution), with13 existing completed named duties unchanged. Later134+ is excluded. Required355/29duties across25parents/384homes, next178, all14 OPEN and model0 stay unchanged. Creation-time producer/source/custody/count statements remain dated history; transport grants no new primary/native/raw/QA/AV/performed/independent literary/identity/admission/scope/count/milestone credit. **Package-specific operative qualification:** Actual uncertain recollection belongs to S2V001C001E005u0031–0043. The broad account’s E008 survey wording remains a qualified historical locator, not another authenticated incident or global E008 absence. Current owner104 receipt/argument entities stay distinct; Aoi’s earliest unsaved draft remains unavailable. Heine’s requests, peer care and interrupted pleasures retain their own ends without borrowed ballots, repaired injury or performed future gateball.",
+    "all_original_literary_paragraphs_unchanged": true
+  },
+  "mandatory_operative_qualification": "Actual uncertain recollection belongs to S2V001C001E005u0031–0043. The broad account’s E008 survey wording remains a qualified historical locator, not another authenticated incident or global E008 absence. Current owner104 receipt/argument entities stay distinct; Aoi’s earliest unsaved draft remains unavailable. Heine’s requests, peer care and interrupted pleasures retain their own ends without borrowed ballots, repaired injury or performed future gateball.",
+  "exact_target_route_qualification": {
+    "literal_ROOT_proposed_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "operative_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "changed": false
+  },
+  "reconciled_fixed133_current_boundary": {
+    "schema": "BLUE_ARCHIVE_RECONCILED_FIXED133_CURRENT_BOUNDARY_V1",
+    "status": "ROOT_ACCEPTED_LITERAL_RECONCILIATION_C_PROPOSAL_FULL_INSTALLATION_PENDING",
+    "local_source_before_install": "16b038cc400805d15cfeb799d048e1d20ba9290d",
+    "local_source_tree_before_install": "2e64442a6b80cea9d67143d690378bd01932cc88",
+    "current_main": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+    "observed_main_integrated_packages": 128,
+    "current_remote_source_before_publication": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+    "dated_source128_complete_automatic_chain_ROOT_control_sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee",
+    "PR148": {
+      "verified_source_head": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+      "verified_integration_commit": "150a85e49a2b6d5fbd0c402d06c3070ea945d0cd",
+      "complete_source_and_integration_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+      "whole_tree_identity": true
+    },
+    "PR152": {
+      "merge_commit": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+      "correction_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+      "seven_corrected_current_interpretations_govern": true,
+      "earlier_frozen_payloads": "UNCHANGED_HISTORICAL_VALUES_QUALIFIED_BY_REGISTER"
+    },
+    "first25_milestone": {
+      "packages": 89,
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "PREVIOUSLY_ACCEPTED_COMPLETE_FIRST_MILESTONE_HISTORY"
+    },
+    "after_complete_ROOT_install": {
+      "packages": 133,
+      "CHAR": 100,
+      "REL": 16,
+      "ENS": 5,
+      "INST": 12,
+      "named_completed": 13
+    },
+    "currently_published_packages_before_successor": 128,
+    "next_milestone": 178,
+    "scope355_named29_parents25_homes384": "UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "unreviewed_postmerge_audit_PASS_claimed": false,
+    "new_literary_primary_native_raw_QA_AV_admission_identity_scope_count_model_credit_from_transport": 0
+  }
+}

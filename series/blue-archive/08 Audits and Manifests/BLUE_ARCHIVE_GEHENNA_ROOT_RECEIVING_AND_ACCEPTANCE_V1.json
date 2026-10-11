@@ -1,0 +1,773 @@
+{
+  "schema": "BLUE_ARCHIVE_GEHENNA_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_COMPLETE_CANONICAL_INSTALLATION_PENDING",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+  "current_scope": "355required/29non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_source_beforeimage": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+  "dated_source_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+  "accepted_first_milestone_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "fixed_package_sequences": [
+      129,
+      130,
+      131,
+      132,
+      133
+    ],
+    "new_packages": 5,
+    "after_complete_ROOT_install": 133,
+    "characters": 100,
+    "directed_relationships": 16,
+    "ensembles": 5,
+    "institutions": 12,
+    "named_duties": 13,
+    "new_named_completions": 0,
+    "published_before_successor": 128,
+    "merged_main": 128,
+    "next_milestone": 178,
+    "later134plus": "EXCLUDED",
+    "mechanical_transport_credit": 0
+  },
+  "current_source128_complete_chain": {
+    "original_exact_tuple": {
+      "bytes": 6234,
+      "sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee",
+      "git_blob_oid_of_actual_bytes": "a2f9d228e9112d1bbcdac2257cc779c776bea20d"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "blue-archive/root-ea923128-complete-publication-chain-acceptance/v1",
+      "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+      "checked_UTC": "2026-10-11T03:09:55.396940+00:00",
+      "source": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+      "source_parent": [
+        "5933ee5e3859049509357c06e739ef91e0e7c98c"
+      ],
+      "original_capture": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_EA923_SOURCE128_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+        "bytes": 34415,
+        "sha256": "080ab21eb0c5eef9e27def112e0647712af9a82711e060a235806a883ee46f5b",
+        "git_blob_sha1": "594a4670a5e62753f4b29e1c42559a75c4f4db65"
+      },
+      "runs_and_actual_execution": [
+        {
+          "role": "SOURCE",
+          "run": {
+            "id": 38106064392,
+            "name": "Repository audit",
+            "event": "push",
+            "head_sha": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106064392",
+            "created_at": "2026-10-11T02:43:24Z",
+            "updated_at": "2026-10-11T02:58:26Z"
+          },
+          "complete_log": {
+            "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 362639,
+            "lines": 2288,
+            "sha256": "e7d4884ff5354e7cf039c68402dd7302334f1c43b23e45d649ef7fc0d6da04c2",
+            "git_blob_oid_of_actual_bytes": "ebd6a45e99640917927d427215b23879fb72a3ab"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "actual_execution": {
+            "commit": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        },
+        {
+          "role": "HOUSEKEEPING",
+          "run": {
+            "id": 38106873063,
+            "name": "Global index housekeeping",
+            "event": "workflow_run",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106873063",
+            "created_at": "2026-10-11T02:58:28Z",
+            "updated_at": "2026-10-11T02:58:48Z"
+          },
+          "complete_log": {
+            "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 44343,
+            "lines": 267,
+            "sha256": "4d71d211cc830fde0e1954e3fe308b1d565b38a531a06ec18adb3a2f0d8a2e74",
+            "git_blob_oid_of_actual_bytes": "299db419e9c58692bf9696be6dcd29388c7738c3"
+          },
+          "actual_noop_and_dispatch_witnesses": [
+            {
+              "line": 265,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T02:58:45.8526266Z PASS: dispatched the full audit for ea92302c7e9044dc1633b76c498a0a3bb3bae246"
+            },
+            {
+              "line": 266,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T02:58:45.8526914Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+            }
+          ]
+        },
+        {
+          "role": "FINAL_FULL_AUDIT",
+          "run": {
+            "id": 38106890357,
+            "name": "Repository audit",
+            "event": "repository_dispatch",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106890357",
+            "created_at": "2026-10-11T02:58:47Z",
+            "updated_at": "2026-10-11T03:07:00Z"
+          },
+          "complete_log": {
+            "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 362079,
+            "lines": 2283,
+            "sha256": "50e89ce9b20ec0d72bb55b4c80a346bae0c1a50858129df56512afae3d420558",
+            "git_blob_oid_of_actual_bytes": "eb7676087d83cf2e9be3c4f91d8f0e34054b2022"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "actual_execution": {
+            "commit": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        }
+      ],
+      "exact_final_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56072519998,
+        "node_id": "SC_kwDOUJ9ads8AAAANDi7BPg",
+        "state": "success",
+        "description": "Exact commit passed the repository audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106890357",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-11T03:06:56Z",
+        "updated_at": "2026-10-11T03:06:56Z"
+      },
+      "ROOT_actual_execution_summary_receiving": "26c699 actual SOURCE/full292 zero errors failures skips, HOUSE two no-op/dispatch witnesses, FINAL actual ea923/full292 zero errors failures skips; exact status56072519998",
+      "whole_log_human_reading_claim": false,
+      "progress": "Published128/merged89; ROOTaccepted129 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+      "source_or_repository_mutations": 0,
+      "all14_original_gaps": "OPEN_UNCHANGED",
+      "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+    }
+  },
+  "original_exact_tuple": {
+    "bytes": 26543,
+    "sha256": "fbd9975d4f903e4c5359a7fa0fff36d339d1652b24fe89808c2d190a80cf4307",
+    "git_blob_oid_of_actual_bytes": "e292393deee4f4b9ffba382085057ec74e2469bb"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "ROOT_GEHENNA_REQUIRED_INSTITUTION_LITERARY_ACCEPTANCE_WITH_LIMITS_V1",
+    "created_UTC": "2026-10-11T03:29:13.161897+00:00",
+    "decision": "ROOT_ACCEPT_FULL_SOURCE_SCOPED_GEHENNA_INSTITUTION_ARGUMENT_WITH_LIMITS",
+    "package_sequence": 132,
+    "required_package_id": "P3-INST-GEHENNA-FREEDOM",
+    "kind": "INSTITUTION",
+    "required_count": 1,
+    "named_duties_completed": 0,
+    "literal_subject": "Gehenna freedom, labor, protection and recipient answerability",
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Institutions/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+    "body": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+      "bytes": 45804,
+      "sha256": "3222225364647872b9155875bb5fff6c69c1697cc1e49d81b4d8d54942b183e9"
+    },
+    "exact_author_manifest": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_FINAL_EXACT_FILE_MANIFEST_V1.json",
+      "bytes": 19105,
+      "sha256": "370c646ebb93f5352e72d3faaa2a1376915461da19fe1995986fb9323a6d0868"
+    },
+    "exact_author_seal": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_FINAL_IMMUTABLE_FREEZE_V1.json",
+      "bytes": 423,
+      "sha256": "31fb1d2a4079d17e28580fbebdc2b25cec7f45dac5681dbddb907f0605a3a190"
+    },
+    "exact_author53_frozen_payloads": [
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+        "bytes": 45804,
+        "sha256": "3222225364647872b9155875bb5fff6c69c1697cc1e49d81b4d8d54942b183e9",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/bound_control_inputs/GEHENNA_FREEDOM_EXISTING_HOME_AND_FINITE_SOURCE_PLAN_V1.json",
+        "bytes": 189002,
+        "sha256": "0e9c2f7a546ea8c1aa4f5ace482815960250b23e395d1a1fa00193ca22f1f27c",
+        "classification": "PRIVATE_EXACT_METADATA_ANTECEDENT",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/bound_control_inputs/ROOT_EXACT105_CURRENT_ANALYTICAL_NORMAL_CUSTODY_RECEIPT_V1.json",
+        "bytes": 91758,
+        "sha256": "cd233b02c1f7c04e265d6dd3df56bf5933500df9fce0eb154600ac6932174cbc",
+        "classification": "PRIVATE_EXACT_METADATA_ANTECEDENT",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/bound_control_inputs/ROOT_GEHENNA_EXISTING_INSTITUTION_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+        "bytes": 4352,
+        "sha256": "32d7ca065953e5b2789eb7bc467113ad9dfc48fe2886029ed3b4f7577cde3558",
+        "classification": "PRIVATE_EXACT_METADATA_ANTECEDENT",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/final_author_receiving_and_freeze_preparation_v1.py",
+        "bytes": 8419,
+        "sha256": "6c3d6f88c4b0d4542895ecf640865d248347f0df4a76e0f74478e1aca24bea74",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/finalize_gehenna_companions_v1.py",
+        "bytes": 5021,
+        "sha256": "c4a662e6e87e5f2fda0d8d70ae0b51dcfe5a3b8a45b8550e61c660284e6abeb1",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA105_PRIOR_OWN_RECEIPT_SCOPE_LOOKUP_WORKING_V1.json",
+        "bytes": 320228,
+        "sha256": "111e37f5205e055ac7363eb78bc4de75d315ab9bc3eac76b2c656aa553541b03",
+        "classification": "PRIVATE_EXACT_METADATA_ANTECEDENT",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_FINAL20_MAIN_PRIVATE_SEMANTIC_RECEIVING_PROJECTION_V1.json",
+        "bytes": 26361,
+        "sha256": "9dedeaadc557d02baa5d3b0b97e7d55b814c6f7b41e2342048cdce7dbef42dec",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_FULL105_SUBSTANTIVE_APPLICABILITY_ARGUMENT_REGISTER_V1.json",
+        "bytes": 142062,
+        "sha256": "69ae0c569619f37dc18c2fb065692fd60979a3fbd95b854b665c8614af2dc6a7",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_FULL105_SUBSTANTIVE_APPLICABILITY_ARGUMENT_REGISTER_V2.json",
+        "bytes": 142957,
+        "sha256": "c4cc4c7fb6ba1cb1fc09447596d300c052a1292e88efe97f90a730b470c791cb",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V1.json",
+        "bytes": 12543,
+        "sha256": "372945152f4dad91a71a5f717718e1e44fa00088ca715a3e3e042f0115e16291",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V10.json",
+        "bytes": 42458,
+        "sha256": "4e7def6c3f89f5c17c2281d326591576171869b1cfe792da79a49ce3f71c561b",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V11.json",
+        "bytes": 7660,
+        "sha256": "e0bcb360afc047cec1409b6fca6f3e5eef8f8929d14a156fb1fcc284af319819",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V2.json",
+        "bytes": 24089,
+        "sha256": "90f24633e781d68409ca1a7a7a9b053a1717326e25274ff315da39e7091f116d",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V3.json",
+        "bytes": 18096,
+        "sha256": "018f30cf377f3fa7e602737b9e8c8213bcb1ffcf609a133ebf6ac8adca8665e2",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V4.json",
+        "bytes": 5261,
+        "sha256": "55baf75d6ffe5c4b8c0fcccf6371af6fe4993e3f43d83f7a0a14968612bc1b65",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V5.json",
+        "bytes": 15446,
+        "sha256": "c7045c9c73df026a0547097eeec5c2c42d26f66834030cd1bbd8fb01786bdc7b",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V6.json",
+        "bytes": 10068,
+        "sha256": "b169485da7e3997362ef23d950acac3cb10630e08e56947368b083c4dead6d57",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V7.json",
+        "bytes": 7741,
+        "sha256": "ab7a684c6b52b88b25d77c9a3d79875305df3bd8b8608203eddf25f084f1fdc7",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V8.json",
+        "bytes": 13463,
+        "sha256": "b5baf4dc707dab83cee6ba97657ce252816a15d7c8587f79dfc623d8247d50fb",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V9.json",
+        "bytes": 11096,
+        "sha256": "a541333533878b46bb0881686a3d7329fc28f1d4c841d5f588fe13cae54e7afd",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_CLAIM_ENDPOINT_RIVAL_AND_GAP_RECEIPT_V1.json",
+        "bytes": 109766,
+        "sha256": "472c70c280fa3ba021c80d4c363c2d8dd3177825a3a463a45345f0ef1dd43bdf",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_CLAIM_ENDPOINT_RIVAL_AND_GAP_RECEIPT_V2.json",
+        "bytes": 110126,
+        "sha256": "e4d053bde6910b463a82016ce67561349eb48782231f28fa45a54a6198dda64e",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_FINAL_ACTUAL_AUTHOR_RECEIVING_QUALIFICATION_V1.json",
+        "bytes": 8284,
+        "sha256": "6352064117bbd9987948bea7736956e2e2a73338d6abdc728537a870f3e38101",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_FINAL_FINITE_AUTHOR_VERIFICATION_V2.json",
+        "bytes": 2388,
+        "sha256": "036822ae8dbbc4a93581e5e741dfe3014f3d7ef2c9bfd9a22b03c80822e1c8b1",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_FINAL_ROOT_RECEIVING_GUIDE_V1.md",
+        "bytes": 4885,
+        "sha256": "ddee45f2b396f508fc5e6b0b07cfea766e50e03154e976cd95d5f10c731a68c4",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_INDEPENDENT_FINITE_AUTHOR_PROOF_V1.json",
+        "bytes": 15732,
+        "sha256": "4632e1723820d82fabcc330bbbbe6240a0be029667e8a22cbcf1668085918e2e",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_PREFREEZE_FOUR_ADDITIONS_AND_COUNT_OMISSION_FULL_INVERSE_V1.json",
+        "bytes": 17385,
+        "sha256": "b5e2c0e0a46bbf2578463309f761f409bcfb6ecd0f60250abf9e8ad38977ac70",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_SAVED_OUTPUT_AND_FINITE_BINDING_RECEIPT_V1.json",
+        "bytes": 2524,
+        "sha256": "3c6263bd0bc0ee4141ef5ff5bbbef2aacf098bef53bc0cc312a186fa466aa13f",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_SAVED_OUTPUT_AND_FINITE_BINDING_RECEIPT_V2.json",
+        "bytes": 2785,
+        "sha256": "b7b136a1739745dd9d3a10043142184e11ad6dab502501fd47e422a78c2d5de8",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "bytes": 389313,
+        "sha256": "4fd5d639f8b1ef99124ce3c79876fea078b95a3bdaa1c4d3bf46e41527ac74a7",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V2.json",
+        "bytes": 397413,
+        "sha256": "46851a4ee23e34c85551ce9f20fe47ab61fd19a626c90be38dcd76c447631cb2",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_V2_SCOPE_REFINEMENT_AND_FULL_INVERSE_V1.json",
+        "bytes": 9288,
+        "sha256": "ef3c19f221a99c5db4e9756411132bf7661c66b14908cbf76c4fe46de39b0322",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_SCOPE_V2_EXACT_FIELD_DELTAS_AND_BYTE_INVERSES_V1.json",
+        "bytes": 25016,
+        "sha256": "c4320ae22a5c17e1c7938f085287773c37ffd7eb8d64813cb5c56d86f3a57efa",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_UNSEALED180_LINE_BODY_FULL_BEFOREIMAGE.md",
+        "bytes": 42928,
+        "sha256": "07a2e9df2338bfb2e1022394f830057eb0b7e46f1c1b5236adb88d1cc0111384",
+        "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/inspect_prior_own_scopes_v1.py",
+        "bytes": 3699,
+        "sha256": "ac2e9651a35b07bddff40981478d875e6a7a84040122b2b817a6e60ae0b5d8a2",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/prepare_and_seal_final_gehenna_packet_v1.py",
+        "bytes": 11446,
+        "sha256": "d401bf942709c5327eb611af73378e3ed7db6b92bac830af6f76d43cf97fe147",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/prepare_gehenna_operative_scope_v2.py",
+        "bytes": 6986,
+        "sha256": "6eacd82f28885a7df56d8ae7367cb6aab4bd0cccffb7e30b83d2f80266532438",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/prepare_gehenna_receipts_v1.py",
+        "bytes": 30711,
+        "sha256": "8acb1bfa90c15fdec5fa1c93afb24f5fb7e429649e74d3b5ec1bae383699928c",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/read_and_verify_gehenna_packet_v1.py",
+        "bytes": 8547,
+        "sha256": "6ba017d82175bcf62a3a464f9391bc5841f74a2027ad6a47d7a876f7914818a8",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/read_prior_scope_lookup_v1.py",
+        "bytes": 1885,
+        "sha256": "c51e0653658e25a81ef063ccd2714a232c790e8b8d29270cbde8ea94baef1d57",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/receive_gehenna_normal_v1.py",
+        "bytes": 2730,
+        "sha256": "e6ba5802b7a56dc81a0dac96cf68a991051e682670bf8fe820c4dffa7ba8ff71",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v1.py",
+        "bytes": 5544,
+        "sha256": "c7e6b6ca69a836e65d2cc43480d66da0bccfe407b42c2e2f5032309d97fd1934",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v10.py",
+        "bytes": 12439,
+        "sha256": "09f0107fd301c0101535c9e80c8cf07538d269e8f2284c92a19bb7681657bad2",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v11.py",
+        "bytes": 4880,
+        "sha256": "48280c6701cfa8ee9be42e23150cbf81bd24511b73cae84fa8559cb3f49fd19f",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v2.py",
+        "bytes": 7374,
+        "sha256": "9565da525bb840137e033f32499c42fa9292850c929ebde3f43006ff9dca25d6",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v3.py",
+        "bytes": 10430,
+        "sha256": "1da1ab483ddb585e7548db101a62272e7fc6718376af8dcc57f632882f84c5be",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v4.py",
+        "bytes": 5214,
+        "sha256": "481c85b22083bad34bad700e1a11ea16769dea1c7b32663d139c36e8a689127d",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v5.py",
+        "bytes": 8348,
+        "sha256": "3ac8c606fda3052ee6aaad2f9c0895eca63fc7bf3aa629e60ae192c6bdccca2a",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v6.py",
+        "bytes": 6459,
+        "sha256": "4c18519e6d11e94e061ac981f7cec4d572fc69752ee85c2bba7adf442a770e1a",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v7.py",
+        "bytes": 5462,
+        "sha256": "7b5e9f1859fb85143e2891d44d3ec086c516c1f4a214e37296b36aeda6bd9dd7",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v8.py",
+        "bytes": 7401,
+        "sha256": "e57d9e137d6a55c2c1dfcf7b579fbd86d50eb0e409f66ef853d23fe1ddd10159",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      },
+      {
+        "relative_to_P": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v9.py",
+        "bytes": 7437,
+        "sha256": "cfbf99e5c61b66ca3fb321f2da194e5861c32ffda58e42a5bf67f262a174f40c",
+        "classification": "PRIVATE_EXECUTION_MATERIAL",
+        "no_new_credit_from_binding": true
+      }
+    ],
+    "ROOT_actual_meaningful_receiving": {
+      "whole188_body": [
+        "e77ab3 L1–94",
+        "f2e3bd L95–188 through EOF"
+      ],
+      "whole_guide_and_readonly_helper": [
+        "71adb3; helper refreshed dfaacc"
+      ],
+      "all105_applicability_meanings": [
+        "a922cb 0–26",
+        "f6332d 27–43",
+        "24d82a 44–60",
+        "9781e6 61–83",
+        "bf2d23 84–104"
+      ],
+      "all105_complete_fresh_prior_scope_fields": [
+        "c7724e 0–2",
+        "d6325e 3–14",
+        "08a73e 15–26",
+        "48d21c 27–38",
+        "e0e21e 39–50",
+        "eda366 51–62",
+        "91ba1a 63–68",
+        "eec879 69–78",
+        "132c68 79–84",
+        "e68f48 85–94",
+        "bb47a5 95–99",
+        "3bc105 100–104"
+      ],
+      "all34_positive_and_contrary_ends": [
+        "dd8478 E01–E17",
+        "3d52bb E18–E34"
+      ],
+      "all20_MAIN_private_exact_meaning_bounds": [
+        "5c447f complete projection; actual dated own adequate analytical custody retained"
+      ],
+      "whole_body_and_scope_inverses": [
+        "19859c four additions and GF059 numerical-clause correction",
+        "7a749b full source/applicability field deltas"
+      ],
+      "whole_final_author_qualification_seal_manifest": [
+        "df95b9",
+        "da63de",
+        "9e0ae3"
+      ],
+      "fresh_consequential_current_normal_arguments": [
+        "313c31 O32/O64 L60–95",
+        "f291fc O77/O88 L60–95"
+      ],
+      "original_question_and_source_plan": "Previously actual ROOT full existing duty/control receiving retained; no child home or actor count supplied by institution completion."
+    },
+    "ROOT_finite_verification": {
+      "status": "PASS_C_ONLY_FINITE_AUTHOR_CHECK_NOT_ROOT_ACCEPTANCE",
+      "current_normal_C_bindings": 125,
+      "exact_prior_receipt_pointers": 44,
+      "all105_required_scopes": 105,
+      "body_lines": 188,
+      "claim_pairs": 64,
+      "endpoints": 34,
+      "rivals": 9,
+      "sections": 11,
+      "literal_original_gaps_OPEN": 14,
+      "whole_inverse180_to188": true,
+      "V1_to_V2_98_other_cases_and_all_old_scope_preserved": true,
+      "allD_files_checked": 55,
+      "all9UNBOUND_and39unpublished_content_or_R_H_Git_provider": "UNTOUCHED",
+      "no_count_source_or_model_credit": true
+    },
+    "substantive_acceptance": "The sustained eleven-section institutional argument explains how plural wanted lives coexist with unequal maintenance and protection burdens. Freedom has affirmative source-local content in chosen work, taste, rest, making, music, games, hospitality and company. Students and recipients have different preferences and effective objections; school mythology is tested against actual refusal, coercion, delegation, distributed care, rescue, material replacement and remaining liability. Hina summer pleasure coexists with her own compulsory training order; later Fuuka agreement does not license earlier kidnapping; Juri competent service and delicious food precede harmful transformation; artistic reception and resumed parties do not repair fiscal burden. Strong rivals are answered without a universal essence or adult-only cause.",
+    "source_scope": "Admitted written analytical arguments at exact own adequate prior and fresh consequential scopes. All105 source-specific literary applicability judgments have meaningful positive, contrary, recipient and endpoint limits. Source bindings are documentary custody; they are not original-primary, native, raw, QA, AV, performance, independent, source-admission, identity, model or denominator credit.",
+    "mandatory_visible_qualifications": [
+      "61 newly complete physical analytical arguments,18 newly bounded plus exact prior adequate,26 prior-only; no105 fresh EOF claim. Failed oversized source displays dfb6c1/2b760c/017975 emitted no material and count as no reading; subsequent smaller ranges received every row.",
+      "E818/E828/E841/E848 retain coherent literary meaning versus literal annex boundaries; E832 physical115th line and historical114-count seam remain qualified.",
+      "O95 positive Gehenna-area jurisdiction concerns local institutional interface, not student membership. O43 collective Black Tortoise narration and typed Meg do not create an individual Meg appearance; other substring, dream, software and visitor joins remain unresolved.",
+      "MINI birthday prior atmosphere is cold. Actual cake, peer-led party and ordinary pleasure remain affirmative; no invented earlier lively atmosphere.",
+      "Whole42928-byte prior180 body remains preserved with exact inverse of four added paragraphs and one GF059 clause. V1 source/register originals remain unchanged with whole serialized byte inverses.",
+      "Current supplemental5933 analytical copies, dated MAIN/private afb/c690 copies, historical producer statuses, actual source128 publication and mergedmain89 remain separate authority boundaries.",
+      "Private original controls and execution helpers remain exact private material; the entire author directory is not a public-safe artifact."
+    ],
+    "serious_limits": "No universal consent, enacted every-resource order, complete legal authority/innocence, lawfully inspected contract, paid wages or full restitution, audited budgets, complete passenger aftermath, clinical recovery, technical safety, durable school reform, global calendar or identity joins. Actual positive endpoints remain positive at their finite extent.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "scope355_named29_parents25_homes384_candidates788": "UNCHANGED",
+    "frozen_originals": "All53 author payloads and two manifest/seal files unchanged; this ROOT receipt is additive.",
+    "progress_after_ROOT_acceptance": {
+      "accepted": 132,
+      "CHAR": 99,
+      "REL": 16,
+      "ENS": 5,
+      "INST": 12,
+      "named_duties": 13,
+      "published": 128,
+      "merged_main": 89,
+      "next_merge_milestone": 178,
+      "eligible_denominator": 355
+    },
+    "persistence": "C_ONLY_ROOT_ACCEPTED_NOT_YET_CANONICALLY_INSTALLED_OR_PUBLISHED",
+    "previous_acceptance": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_REQUIRED_CHARACTER_MONOGRAPH_LITERARY_ACCEPTANCE_WITH_LIMITS_V1.json",
+      "bytes": 13512,
+      "sha256": "3a3f437a547d69d1603dcd85df19436c47a01b1883a31683084933247bb1d7fe"
+    },
+    "publication_chain": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_EA923_SOURCE128_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+      "bytes": 6234,
+      "sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee"
+    },
+    "repository_Git_provider_denominator_mutation": false,
+    "protected39_UNBOUND9_private_H_body_hash_access": false
+  },
+  "historical_payload_qualification": "All creation-time pending, source/custody/count and navigation fields remain history. Current actual ROOT acceptance and mandatory additive qualifications govern. Documentary old tuple fields are preserved as literal data, not blindly reopened as current bindings. Complete original bytes and reference/body inverses remain; no new literary/source/primary/model/identity credit. Original hashes bind originals, not public derivatives.",
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+    "bytes": 49807,
+    "sha256": "c34a3d70ff85e9351fc7eb086af24943e193a045bb74a8df5e2539a49c176ff9",
+    "git_blob_oid_of_actual_bytes": "266db60a97109b3d74ed4b944da57ca765b2dce3"
+  },
+  "authority_framing_changes": {
+    "historical_frontmatter_fields": [
+      "ROOT_acceptance",
+      "artifact_type",
+      "canonical_adoption",
+      "canonical_completion_credit",
+      "canonical_home",
+      "canonical_target",
+      "counts_as_ROOT_accepted_completed",
+      "do_not_use_as_current_authority",
+      "generation",
+      "publication_state",
+      "root_acceptance",
+      "stage_state",
+      "status",
+      "version"
+    ],
+    "inserted_current_boundary": "**Current ROOT receiving and publication boundary.** The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GEHENNA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual bounded acceptance; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GEHENNA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains complete original bytes and inverse. Published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246/tree c43f5d62b651da352854278d8bf83d43389e46df has a separately bound complete ROOT-accepted source→housekeeping→actual-source final chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed five-package129–133 proposal takes effect only through full ROOT installation, yielding133 (100character/16directedrelationship/5ensemble/12institution), with13 existing completed named duties unchanged. Later134+ is excluded. Required355/29duties across25parents/384homes, next178, all14 OPEN and model0 stay unchanged. Creation-time producer/source/custody/count statements remain dated history; transport grants no new primary/native/raw/QA/AV/performed/independent literary/identity/admission/scope/count/milestone credit. **Package-specific operative qualification:** The established Institutional Syntheses directory governs the operative target; ROOT’s literal Institutions proposal remains unchanged and reversibly qualified. All105 source-specific judgments retain61 newly complete physical arguments,18 new bounded-plus-prior scopes and26 prior-only scopes, not105 fresh EOF readings. Coherent meanings versus literal annexes, E832115/114 custody, visitor/collective/typed-actor boundaries, cold prior birthday atmosphere, all four added paragraphs and GF059 correction remain qualified. Independent taste, rest, chosen work, making and company are intrinsic; coercion, unequal burdens and unfinished restitution remain adverse evidence. Private controls/execution material remain private exact transports.",
+    "all_original_literary_paragraphs_unchanged": true
+  },
+  "mandatory_operative_qualification": "The established Institutional Syntheses directory governs the operative target; ROOT’s literal Institutions proposal remains unchanged and reversibly qualified. All105 source-specific judgments retain61 newly complete physical arguments,18 new bounded-plus-prior scopes and26 prior-only scopes, not105 fresh EOF readings. Coherent meanings versus literal annexes, E832115/114 custody, visitor/collective/typed-actor boundaries, cold prior birthday atmosphere, all four added paragraphs and GF059 correction remain qualified. Independent taste, rest, chosen work, making and company are intrinsic; coercion, unequal burdens and unfinished restitution remain adverse evidence. Private controls/execution material remain private exact transports.",
+  "exact_target_route_qualification": {
+    "literal_ROOT_proposed_target": "series/blue-archive/04 Specialist Synthesis/Institutions/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+    "operative_target": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+    "reason": "Exact current128 index has eleven existing institutions in Institutional Syntheses; ROOT explicitly approved reversible directory normalization only.",
+    "no_home_count_source_change": true
+  },
+  "reconciled_fixed133_current_boundary": {
+    "schema": "BLUE_ARCHIVE_RECONCILED_FIXED133_CURRENT_BOUNDARY_V1",
+    "status": "ROOT_ACCEPTED_LITERAL_RECONCILIATION_C_PROPOSAL_FULL_INSTALLATION_PENDING",
+    "local_source_before_install": "16b038cc400805d15cfeb799d048e1d20ba9290d",
+    "local_source_tree_before_install": "2e64442a6b80cea9d67143d690378bd01932cc88",
+    "current_main": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+    "observed_main_integrated_packages": 128,
+    "current_remote_source_before_publication": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+    "dated_source128_complete_automatic_chain_ROOT_control_sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee",
+    "PR148": {
+      "verified_source_head": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+      "verified_integration_commit": "150a85e49a2b6d5fbd0c402d06c3070ea945d0cd",
+      "complete_source_and_integration_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+      "whole_tree_identity": true
+    },
+    "PR152": {
+      "merge_commit": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+      "correction_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+      "seven_corrected_current_interpretations_govern": true,
+      "earlier_frozen_payloads": "UNCHANGED_HISTORICAL_VALUES_QUALIFIED_BY_REGISTER"
+    },
+    "first25_milestone": {
+      "packages": 89,
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "PREVIOUSLY_ACCEPTED_COMPLETE_FIRST_MILESTONE_HISTORY"
+    },
+    "after_complete_ROOT_install": {
+      "packages": 133,
+      "CHAR": 100,
+      "REL": 16,
+      "ENS": 5,
+      "INST": 12,
+      "named_completed": 13
+    },
+    "currently_published_packages_before_successor": 128,
+    "next_milestone": 178,
+    "scope355_named29_parents25_homes384": "UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "unreviewed_postmerge_audit_PASS_claimed": false,
+    "new_literary_primary_native_raw_QA_AV_admission_identity_scope_count_model_credit_from_transport": 0
+  }
+}

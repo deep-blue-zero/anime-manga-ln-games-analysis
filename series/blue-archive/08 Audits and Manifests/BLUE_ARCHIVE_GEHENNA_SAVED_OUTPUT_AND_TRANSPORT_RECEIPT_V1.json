@@ -1,0 +1,801 @@
+{
+  "schema": "BLUE_ARCHIVE_GEHENNA_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSAL_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 45804,
+      "sha256": "3222225364647872b9155875bb5fff6c69c1697cc1e49d81b4d8d54942b183e9",
+      "git_blob_oid_of_actual_bytes": "e6c735039f5175a5b19ed6ce1ca0cad7ccfd3d6d"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 49807,
+      "sha256": "c34a3d70ff85e9351fc7eb086af24943e193a045bb74a8df5e2539a49c176ff9",
+      "git_blob_oid_of_actual_bytes": "266db60a97109b3d74ed4b944da57ca765b2dce3"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "title: \"Gehenna: freedom, boundaries and unfinished restitution\""
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          4
+        ],
+        "canonical_lines": [
+          3,
+          4
+        ],
+        "original_lines_complete_text": [
+          "version: \"1.0\"",
+          "status: \"AUTHOR_COMPLETE_CANDIDATE_PENDING_ROOT_RECEIVING\""
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_version: \"1.0\"",
+          "historical_author_status: \"AUTHOR_COMPLETE_CANDIDATE_PENDING_ROOT_RECEIVING\""
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          5,
+          7
+        ],
+        "canonical_lines": [
+          5,
+          7
+        ],
+        "exact_unchanged_lines": [
+          "required_home: \"P3-INST-GEHENNA-FREEDOM\"",
+          "analytical_kind: \"INSTITUTION\"",
+          "source_mode: \"Accepted written analytical normal arguments; qualified personal and prior analytical receiving\""
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          8,
+          7
+        ],
+        "canonical_lines": [
+          8,
+          17
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: institutional_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GEHENNA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          8,
+          10
+        ],
+        "canonical_lines": [
+          18,
+          20
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Gehenna: freedom, boundaries and unfinished restitution"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          11,
+          10
+        ],
+        "canonical_lines": [
+          21,
+          24
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current reconciliation and fixed133 adoption boundary — 2026-10-11.** ROOT reconciled the local source at 16b038cc400805d15cfeb799d048e1d20ba9290d/tree 2e64442a6b80cea9d67143d690378bd01932cc88 with current main 87aeee05a161d716fe840a0dd5d5517d9c646df9. PR148 integrated published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246 at 150a85e49a2b6d5fbd0c402d06c3070ea945d0cd with exact whole-tree preservation. Current main contains128 integrated packages and the [seven PR152 corrections](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json) govern applicable current interpretation. The earlier first25% milestone at89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 remains completed history. The separately accepted source128 automatic chain remains its dated source witness; no unreviewed current-main postmerge audit is claimed. This fixed five-package proposal still requires full ROOT installation, then its own publication/validation sequence:133=100character+16directedrelationship+5ensemble+12institution,13named unchanged; current published128/main128 and next178 stay separate. Original bodies, source grades and all14OPEN/model0 remain unchanged; the preceding proposal is preserved with full byte inverses.",
+          "",
+          "**Dated prior ROOT receiving and publication boundary.** The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GEHENNA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual bounded acceptance; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GEHENNA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains complete original bytes and inverse. Published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246/tree c43f5d62b651da352854278d8bf83d43389e46df has a separately bound complete ROOT-accepted source→housekeeping→actual-source final chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed five-package129–133 proposal takes effect only through full ROOT installation, yielding133 (100character/16directedrelationship/5ensemble/12institution), with13 existing completed named duties unchanged. Later134+ is excluded. Required355/29duties across25parents/384homes, next178, all14 OPEN and model0 stay unchanged. Creation-time producer/source/custody/count statements remain dated history; transport grants no new primary/native/raw/QA/AV/performed/independent literary/identity/admission/scope/count/milestone credit. **Package-specific operative qualification:** The established Institutional Syntheses directory governs the operative target; ROOT’s literal Institutions proposal remains unchanged and reversibly qualified. All105 source-specific judgments retain61 newly complete physical arguments,18 new bounded-plus-prior scopes and26 prior-only scopes, not105 fresh EOF readings. Coherent meanings versus literal annexes, E832115/114 custody, visitor/collective/typed-actor boundaries, cold prior birthday atmosphere, all four added paragraphs and GF059 correction remain qualified. Independent taste, rest, chosen work, making and company are intrinsic; coercion, unequal burdens and unfinished restitution remain adverse evidence. Private controls/execution material remain private exact transports."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          11,
+          188
+        ],
+        "canonical_lines": [
+          25,
+          202
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## 1. Sustained institutional thesis",
+          "",
+          "**GF001.** Gehenna’s freedom is meaningful because its students want unlike lives. A bath, a pudding, an uninterrupted book, a beautiful broadcast, a quiet shrine visit, a competent kitchen, a holiday with friends and a successful protection operation are different goods. They cannot be translated without remainder into loyalty to the president, service to Hina, or the teacher’s preferred version of togetherness. The school’s strongest institutional promise is the permission for such differences to persist; its recurrent failure is to treat someone’s own pleasure, protection or collective identity as sufficient authority over another person’s time, property or body. This is a connected institutional argument about freedom’s recipients and maintenance, rather than a catalogue of unruly clubs. [O0;O5;O8;O25;O101;O104;SUP26;SUP40]",
+          "",
+          "**GF002.** The two halves belong together. Haruna’s desire to include Izumi, Akari’s clean wrapping and friendship appeal, Iroha’s work that actually rescues others, Hina’s restraint, Mayumi’s pleasure in improving a broadcast and the actual continuing preparation of meals are positive human goods. Junko’s objections, Fuuka’s interrupted warning, Iroha’s refusal, the bystanders who recoil from a changed Prefect regime and the destroyed Shiba venue are equally necessary evidence. Neither good intentions nor real harm grants permission to erase the other half. The institutional question is who can answer the person affected, and who carries the consequences when no satisfactory answer is printed. [O0:1101–1104;O5;O101:003–015;SUP42;SUP44;PS18:111–187]",
+          "",
+          "**GF003.** This argument therefore treats freedom as a relationship among unlike agents and unequal resources. A student’s actual ability to refuse a photo, leave an expedition, decline a replacement job, keep a nickname from being imposed or ask for rest matters more than a faction’s abstract reputation. Refusal can be respected, overridden, conditionally accepted, mocked or left unanswered; those are different institutional results. Respecting one boundary does not settle every earlier wrong, and an unfinished repair does not make an achieved pleasure fictitious. [O101:004/012–015;SUP40;O48;O104:010/050/060/150;O36;O90]",
+          "",
+          "**GF004.** The school’s mythology of freedom is especially exposed by the distinction between voluntary company and enforced sameness. Erika and Kirara themselves find difference interesting, using drama and music rather than an adult’s theory to challenge a one-heart program. Conversely, Makoto can invoke free will against commanding Iroha to remain on a holiday boat, yet another source sequence has her reverse a freedom stance while Karen and Mayumi reject coerced unity. These are consequential, source-bounded differences inside the same institutional question. They are not evidence of a single settled doctrine, a repaired charter or a simple chronological rise and fall. [SUP40;SUP28;SUP29;O101:004]",
+          "",
+          "## 2. Longitudinal comparison and finite endings",
+          "",
+          "**GF005.** The written contexts support a longitudinal comparison of recurrent problems, not a universal calendar. In the Abydos account, Gehenna’s armed intervention meets a recipient school’s independent objection: Ayane and Shiroko can recognize wrongdoing while rejecting an unpermitted intervention. Chinatsu’s procedural concern and Iori’s dismissive response differ; Hina’s actual interruption, apology and withdrawal matter because they change that immediate situation. They do not retrospectively authorize the intrusion or complete restitution for the venue previously destroyed by Haruka. [PS18:111–187]",
+          "",
+          "**GF006.** PS68’s presence sharpens the distinction between institutional tolerance and private responsibility. Haruka’s Shiba blast is not shown to have followed Aru’s affirmative prior order; Aru’s later ratification under image pressure is a different act. The proprietor’s reported light injuries do not restore the destroyed building, its work or its place in ordinary life. Later coalition service, a useful rear guard and ramen promises should be allowed their real value without becoming payment for every earlier cost. The school’s freedom is tested by this gap between making room for a precarious group and accepting the group’s victims as recipients in their own right. [PS18:111–187/227–257;PS20]",
+          "",
+          "**GF007.** The S2V002 sequence states the protective promise with unusual precision. Chinatsu argues that those possessing force must restrain it; Hina promises boundaries without over-regulating freedom. The small barrel dispute, declined paperwork, imposed dress and resource instructions show that participation is uneven before the crisis. When later transmission and rhetoric align Hina and Ako with a changed political project, Iori and Chinatsu oppose arbitrary violence rather than accepting it as the price of order. Iroha dissents; ordinary meal work continues. The source thus supplies internal criteria for judging Prefect conduct, not merely an outsider’s dislike of strictness. [SUP26;SUP43;SUP44]",
+          "",
+          "**GF008.** That sequence’s ending is positive but finite. Hina recalls enjoying violence when she believed it justified, doubts her fitness, and resolves to continue with support. A removed artifact and a reported origin do not constitute a forensic demonstration of every decision or a clinical exoneration. Shoko receives wanted sweets and cries while refusing repentance; a confined setting does not print all charges, conditions or lawful disposition. Neither Hina’s resolve nor the teacher’s kindness can substitute for the unfinished answers owed to the people exposed to force. [SUP31;N19:474–705]",
+          "",
+          "**GF009.** The holiday boat provides a serious contrary case to treating Pandemonium solely as predation. Makoto deliberately diverts danger from Ibuki; Iroha actually rescues Makoto; their practical cooperation has consequences before either supplies the desired apology. Makoto refuses to command Iroha to stay and names voluntary loyalty and free will. The later replacement boat is an actual material good, valued through memory rather than price alone. Yet the earlier poor boat, unequal portions, removed dessert, unchosen chores, Iroha’s ignored photo boundary and proposed future budget cut remain part of the same account. The positive ending is neither illusory nor a complete institutional settlement. [O101:002–015]",
+          "",
+          "**GF010.** Final and later public arguments place these local tensions in larger cooperation without resolving them by scale. Hina chooses a ground role and sends Ako; Fuuka protests being maneuvered through a space-food pretext before deciding to drive; Makoto’s assistance and Toramaru’s arrival do real work without proving all attributed motives or engineering outcomes. The later V006 checkpoint reports Gehenna Emergency Medicine’s actual aid and Hina’s parole petition, while convictions remain and parole is not innocence. Cooperation supplies evidence of capacity and regard; it does not grant a retrospective license for every factional practice. [PS20;PS22;SUP37;SUP13;N22]",
+          "",
+          "## 3. Public and private lives as institutional evidence",
+          "",
+          "**GF011.** Ordinary evidence has intrinsic importance here. Aru’s clothes, business recognition and company, Kayoko’s music and cats, Mutsuki’s opera and play, Haruka’s weeds and chosen collecting cannot be reduced to a softer interval between crimes or operations. The private repertoire gives concrete content to what protection should allow. It also shows poverty, financing, self-presentation and dependence without making every pleasure a teacher-produced rehabilitation. In the bounded V001 private account, Aru’s repayment after unfreezing is an actual particular ending; it is not a warrant to call all PS68 obligations repaid. [PS01;PS02;PS03;PS04;PS18:227–257]",
+          "",
+          "**GF012.** Hina’s bath, fatigue, offered ice pop, gratitude, suspicious bag boundary and piano are equally institutional evidence. They show a wanted life that protection work should make possible, rather than proof that the protector deserves exemption from answering others. Her actual performance and the party’s finite pleasures need no subsequent catastrophe to justify attention. The MINI birthday account’s earlier atmosphere is described as cold, so Reijo’s challenge to the teacher’s claimed transformation must retain that source wording; it cannot be used to invent an already lively room or remove the independently real cake, peer and campfire moments. [O25:3501–3502;O104:050;N19]",
+          "",
+          "**GF012A.** Her summer rest also contains a more difficult contrary. Ako overreads coffee praise, conceals burdens in a caring plan and describes teammates instrumentally; Iori’s rights objection and Chinatsu’s preparation and fatigue are different answers. Hina enjoys waves, company, teasing and the wanted swimming lesson, later corrects the stress inference and criticizes methods. Yet the restart bans sea/free time and orders thirty-six hours and all-night training. A shouted absence of objections is not verified willing consent, proportionality, safety or completed training; the later rhythm proposal removes refusal without showing a performed lesson. Hina’s real ordinary pleasure and agency therefore coexist with her own redistribution of pressure. [O32:001–013;L76–95]",
+          "",
+          "**GF013.** Chinatsu’s ordinary refusal offers a particularly clear endpoint. She wants bath and chair pleasure and further rest, but declines the adult massage and exits. Her refusal is effective at that scope; no performed touch or measured recovery follows. Treating this as low-stakes would discard one of the best examples of freedom that an authority actually respects. It also prevents bath hospitality from becoming blanket agreement with the destruction that occurs elsewhere in the same event. [O36]",
+          "",
+          "**GF014.** The Gourmet repertoire supplies unlike appetites inside apparent shared enthusiasm. Junko objects, Akari teases and provides useful wrapping, Izumi has a grievance about abandonment and taste, and Haruna later wants inclusion. The achieved shared residual aroma has value even though no completed truffle meal occurs. In the kitchen episode it is Haruna who brings oil and proposes help, while Akari calls it friendship and Junko joins in; this useful proposal coexists with interruption of Fuuka’s warning and an unfinished meal and cleanup. Pleasure should remain differentiated from agreement and from an account of who did which helpful act. [O0:1101–1104]",
+          "",
+          "**GF015.** Gifts are person-specific encounters rather than a common sincerity meter. Kirara’s real crepe labor and shared eating coexist with the false emergency she admits; Satsuki’s chocolate care can be thanked while its political inference is rejected; Chiaki’s handmade chocolate is actually eaten without proving her theory of photograph enjoyment. Later Makoto’s chosen time and chocolate pleasure meet an effective refusal of finger chocolate. Ibuki can first decline a snack and later choose shared pudding. These are real small endpoints, not votes for a leader, a schoolwide day or a uniform receptivity to contact. [O27:117–125;O78:114/116]",
+          "",
+          "**GF016.** The comparison owners extend rather than dilute this ordinary argument. Kazusa’s desired café warmth predates adult intervention; Rei can choose baseball beauty and reject a professional career; Wild Hunt making and café tastes matter despite coercive room allocation and financial loss; divers’ kelp tea and ice-cream differences survive debt and equipment damage. None proves Gehenna’s practices by analogy. Together they prevent the critic from using crisis usefulness, commercial success or institutional affiliation as the price of taking a student’s wanted life seriously. [O59;O89;O93;O94;O102]",
+          "",
+          "## 4. School mythology and actual governance",
+          "",
+          "**GF017.** A mythology becomes governance only through particular permissions, prohibitions, appointments, budgets and answers. Gehenna’s rhetoric of freedom does not itself reveal the full law of student access, the authority of every office or the actual implementation of every instruction. Satsuki’s account of an anti-Emperor history and deprivation of free will remains serious testimony with an unknown trigger and unprinted archives. The group’s initial decision to investigate through Gehenna and reserve Schale as a last resort expresses a preferred allocation of inquiry; it is not an authenticated universal legal bar on external aid. [SUP28;N19]",
+          "",
+          "**GF018.** The Prefect Committee performs protection and can also become a source of boundary violations. Its practical help, procedural distinctions and opposition to arbitrary violence supply genuine institutional goods. Its reports, resource demands, intrusive interventions, quota pressures and unequal rest burdens are not thereby trivial. In GROUP1901–1902, audit and report layers and the wanted rescue of Fuuka need their own scope: neither a spoken quota nor a gunfire scene proves an inspected trajectory or completed schoolwide audit. Hina’s competence and Iori’s force should be read through specific recipients and authorization, not a generic protective essence. [O8;SUP26;SUP44;PS18]",
+          "",
+          "**GF019.** Pandemonium’s role claims similarly exceed its demonstrated allocations. An audience percentage, budget share or intended credit distribution can organize a plot without becoming audited economic fact. Actual permission to enter the broadcast room is firmer than the proposed speech, the claimed equipment upgrades or a provisional cable explanation. Iroha’s verbal resignation and Makoto’s verbal acceptance in a crisis are printed responses, but the source does not supply a personnel charter or complete later implementation. The institution operates through choices that are real without being comprehensive records of rule. [SUP29;SUP41;SUP42]",
+          "",
+          "**GF020.** The relation between the offices includes material asymmetry. Iroha absorbs chores, food adjustment, transport and protection even when she objects; Fuuka and Juri keep serving people while office conflict expands; Hina and Ako carry emergency and paperwork loads. A proposed budget cut can therefore be both a joke and an institutional threat whose enactment remains unprinted. Conversely, an actual replacement boat or continued food work is a specific delivered good. Keeping proposal, distribution, labor and completed transfer separate is necessary to explain who pays for Gehenna’s advertised freedom. [O101:003/014;O5;SUP44;O104:020/120]",
+          "",
+          "**GF021.** External recipients retain jurisdiction and wants. Abydos’ objection to intervention, Iori’s qualified permission for a Highlander operation pending a later explanation, Chinatsu’s cross-school aid for ordinary enjoyment and the visitor whose bodily complaint persists after an offered monetary response are different interfaces. They do not establish a universal Gehenna foreign policy. They do establish why authority cannot be inferred solely from school membership, a successful rescue, the teacher’s presence or an offer of compensation whose actual payment is unprinted. [PS18;O90;O39;O75]",
+          "",
+          "**GF022.** The full105 owner review is therefore an applicability duty, not a claim that every owner is a Gehenna scene. Source-local collective Black Tortoise narration cannot be converted into individual Meg participation merely because a typed token resembles her name. The G3301–3303 Gehenna reserve game supplies a direct local contact, but Rei and Sumire’s wanted lives remain independent. Owners without a direct school actor still test concrete questions—free invitation, refused role, forced uniformity, useful care, property and unfinished restitution—without importing their actors into Gehenna or declaring universal absence. [O43;O23;full105 applicability register]",
+          "",
+          "## 5. Ordinary life, labor and unequal freedom",
+          "",
+          "**GF023.** Gehenna’s problem is not that ordinary desire opposes responsibility. Students often choose to work because work supplies company, pride, competence or pleasure: Mayumi repairs a broadcast she wants to improve, Fuuka wants recipients to enjoy food, Juri wants useful contribution, and a maker can enjoy construction for itself. Such desires are evidence of agency before an adult praises them. The problem begins when their chosen labor becomes an inexhaustible resource for somebody else’s plans or when the maker’s joy substitutes for the recipient’s answer. [SUP42;O5;O36;O101]",
+          "",
+          "**GF024.** School Lunch makes this tension concrete. Iori’s initial evaluation recognizes hands, tools, furniture and stock and states reconsideration; that is not a restored budget. Hospitality through an unlisted drink leads to distress; Izumi’s enjoyment supplies no universal safety verdict. Fuuka’s proposal to make a victim nonexistent is not executed, and the narrated safe awakening does not print a complete clinical course. A later failing evaluation is an actual consequence, while a feared further halving remains future. Pride, useful service, anxiety, material constraint and recipient harm must all remain in the same institution-level account. [O5]",
+          "",
+          "**GF024A.** A rare day off differentiates Fuuka’s wanted rest from Juri’s wanted work. Juri competently serves and declines permanent employment, then chooses an attempted meal under pressure to protect Fuuka’s holiday. Actual delicious pancakes and her joy precede actual harmful transformation; one does not cancel the other. Sena’s painful awakening method meets the victim’s and peers’ objections, while Ako’s ulterior motive coexists with her decision not to fire through city damage. Hina’s bounded transfer of gun control enables a coordinated response rather than a universal standing command. Later recovered participation and local incident closure do not print every patient’s recovery, paid café loss or restored holiday. [O88:001–010;L67–95]",
+          "",
+          "**GF025.** The Hot Springs cases resist both celebration of unrestricted making and dismissal of making joy. Meg’s pleasure in immersion and building is real, but in E808 she rejects a specific compromise and causes the foundation blast that destroys buildings. A compensation assumption does not become paid remedy. Nodoka’s material resistance and Shigure’s different wish for togetherness remain recipients’ independent values; the final crowded bath is a local pleasure, not restored housing, paid defense costs or unanimous permission for the means. Meg’s work remains analytically important precisely because its intrinsic value does not discharge its costs. [O36]",
+          "",
+          "**GF026.** PS68 exposes how precarious freedom can become internally coercive. Wanted pay, rest, company and a convincing business identity coexist with Haruka’s exhaustion and Aru’s attempt to restrain excess that does not prevent loss. Kayoko’s shrine/music/album choices and Mutsuki’s toy ritual cannot be collapsed into greed; Haruka’s attachment is not automatic assent to every risk. A local recording or alliance can work while wages, reimbursement and promised food remain unfinished. Recognition by a group should not be confused with giving each member an effective way to object. [O37;PS01–PS04]",
+          "",
+          "**GF027.** The holiday’s portions illustrate the same mechanism without a battle or fiscal chart. Iroha makes four portions look like five, removes dessert and accepts unchosen chores. The scene is not a nutritional audit, but it is an intelligible allocation of ordinary goods and work. Ibuki’s delight in dolphins and later pudding should not be made less valuable because Iroha is burdened; Iroha’s burden should not become consent because Ibuki is delighted. The group’s company depends on both differentiated wants and uneven maintenance. [O101:003/011–014]",
+          "",
+          "**GF028.** Comparison clarifies what a better answer can look like without prescribing one uniform institution. Saki takes Miyu’s watch and receives first food choice; Rei receives an actual listening break and shared stadium snack; Rena’s operation refusal is respected before later voluntary help; friends invite Kaede again after learning that a prior refusal did not mean permanent exclusion. Each example turns on a particular person’s answer at a particular time. None proves a perfect school, and none should be excluded for having only ordinary consequences. [O20;O23;O93;O14]",
+          "",
+          "## 6. Crisis conduct, harm and answerability",
+          "",
+          "**GF029.** Crisis scale raises the cost of freedom’s failures but does not change the test of attribution. Haruka’s blast, Meg’s demolition, PS68’s actual retaliatory command after rejecting a fraud and Sumika’s ordered attack for credit are different actions by different agents. A collective scene or factional motive does not authorize assigning every discharge, casualty or property loss to a favorite character. The accepted normal arguments retain local actor seams, source choice limits and unprinted medical or legal outcomes; the synthesis retains them as constraints on institutional judgment. [PS18;O36;O11;O101:007–010]",
+          "",
+          "**GF030.** Protection is a real positive responsibility, not a rhetorical cover in every instance. Iroha’s rescue, Makoto’s diversion for Ibuki, Hina’s withdrawal from an unauthorized intervention, the later three-front division of labor, Emergency Medicine’s aid and the students’ self-directed practical coalition change what happens to others. These achieved acts deserve affirmative analysis. Yet protection cannot erase objections to how labor was obtained, how a jurisdiction was crossed or how an earlier victim was treated. A rescue may answer immediate danger while leaving a prior demand unanswered. [O101;PS18;PS20;PS22;SUP13]",
+          "",
+          "**GF031.** Gehenna’s own dissent prevents a false equation between boundaries and domination. Iori and Chinatsu oppose arbitrary violence; Karen and Mayumi reject enforced unity; Iroha objects when Teacher and Ibuki are put at risk. Iroha’s apology for volume does not retract her objection, and she makes Makoto’s apology a condition of participating in the holiday scene. That demanded apology is not thereby completed. These are not merely personality contrasts. They show that protection, disagreement and institutional loyalty can coexist, and that the recipient’s form of help can matter more than a superior’s confidence. [SUP29;SUP44;O101:004]",
+          "",
+          "**GF032.** Accountability is usually partial. A spoken apology, an accepted replacement, a returned object, a report of withdrawal, confinement or a promise of later explanation has a definite scope. The Shiba venue is not restored by light injuries, Gehenna holiday pirate passengers are not all accounted for by the six safely returned travelers, and Iori’s conditional operational permission does not print later clearance. School freedom remains unfinished when it preserves the actors’ next ordinary scene while leaving affected people’s material aftermath off the page. [PS18;O101:011–015;O90]",
+          "",
+          "**GF033.** The medical comparisons prevent affectionate care from becoming a shortcut to consent. Hanae and Serina’s unlike patient-facing care has genuine warmth, while shooting after surrender, a fabricated father story, explosion and frightened injection recipient remain adverse evidence. A preparation is not an administered injection, a request is not informed approval, and a narrated safe awakening in School Lunch is not a measured full recovery. The clinical limits matter even when the tone is comic, because comic tone does not turn fear or pain into the caregiver’s property. [O6:58–110;O5]",
+          "",
+          "**GF034.** Technical success has the same limit. Engineering and Millennium comparisons show actual useful making and rescue beside undisclosed bodily assignments, failed devices, objections to repair or disassembly and unprinted safety audits. Alice and Kei’s present-name choice is meaningful against an imposed perfect future; Yuzu’s pilot risk remains a separate question from successful coordination. These cases keep the institutional critique from declaring efficiency inherently dehumanizing or success inherently consensual. Gehenna’s own technical and protective acts need the same differentiated treatment. [O3;O75;O98]",
+          "",
+          "## 7. Sensei: enabling presence, pressure and limits",
+          "",
+          "**GF035.** Sensei can facilitate access, witness a refusal, support chosen work and help students recover an intelligible next step. In Mayumi’s maintenance, in a holiday invitation, in Hina’s resolve and in cross-school practical coordination, the adult’s presence has positive functions. But those functions do not imply that ordinary desire begins with the adult. Kirara and Erika articulate their own case for difference; Fuuka protests and decides; PS68 members carry pre-existing tastes and peer commitments; Iroha’s practical rescue does not wait for adult moral explanation. [SUP40;SUP42;SUP31;PS22;PS01–PS04;O101]",
+          "",
+          "**GF036.** The adult is also a recipient and a fallible participant. A fabricated teacher’s refill and payment proposition meets objection; the actual teacher’s lateness is addressed in MINI, and a requested bath massage is refused. The source permits humor and disappointment without giving the critic permission to perform the rejected alternative. A promise to remain with Hina or an offered sweet to Shoko may be kind while still failing to answer clinical, political or legal questions the source leaves unprinted. [SUP40;O104:050;O36;SUP31]",
+          "",
+          "**GF037.** Other schools’ cases supply consequential adult contraries. A dropped photograph creates Kazusa’s actual privacy lapse; suggestive arrangements can pressure a choice even when no order is printed; secrecy exchanged for swimming affects a privacy bargain; a monetary offer does not answer a visitor’s bodily complaint. They are comparisons of a position, not grounds for attributing those actions to a Gehenna student. They block an easy reading in which the adult automatically guarantees freedom simply by appearing in the scene. [O49;O55;O91;O75]",
+          "",
+          "**GF038.** Nor should adult absence imply deficient meaning. G2201’s wanted business recognition, G2501–2502’s peer-led game dispute, the Tea Party’s imperfect relief and the festival’s student-authored performance contain competent choices, objections and pleasure without a teacher directing every turn. Their source limits still matter, but the absence of adult mediation does not make their company, judgment or attempted correction analytically disposable. Gehenna’s institution must be understood as students’ work and disagreement, not exclusively as a sequence of encounters with Sensei. [O11;O15;O26;O22]",
+          "",
+          "## 8. Major peers, collective actors and institutional interfaces",
+          "",
+          "**GF039.** The Hina–Ako relation is important without exhausting Prefect agency. Iori’s concern for arbitrary violence, Chinatsu’s procedural distinctions and care, and the different responses of ordinary students to imposed dress or paperwork are independently legible. Hina’s choosing to stay on the ground and sending Ako elsewhere is a particular allocation under emergency conditions, not proof that every subordinate wants every task. The separate directed relationship package retains its own responsibility; this synthesis uses the relation as an institutional interface without claiming its completion by proxy. [SUP26;SUP44;PS20]",
+          "",
+          "**GF040.** Makoto–Iroha–Ibuki company is similarly differentiated. Makoto wants loyalty and a desired apology; Iroha wants rest, safety and limits on photographs; Ibuki wants help, dolphins, toys, pudding and time together. Chiaki’s journal and photograph wish and Satsuki’s recruitment or hypnosis proposal add more directions rather than one collective appetite. Iroha’s actual apology to Chiaki is not the unprinted mutual apology with Makoto, and Ibuki’s actual pleasure is not every member’s assent. The holiday’s company is a practical achievement that does not unify all its recipients. [O101:001–015;O41;O27]",
+          "",
+          "**GF041.** Gourmet–School Lunch contact turns friendship language into a recipient test. Haruna’s oil and help proposal, Akari’s friendship appeal and Junko’s participation can be useful while Fuuka’s warning is interrupted. Izumi’s taste, hunger and inclusion grievance remain different from Fuuka’s food-safety and labor concerns. The ensemble’s differentiated pleasure and the directed Gourmet→Fuuka and Fuuka–Juri packages remain separate duties; the institutional question here is how a school tolerates pleasure-seeking while preserving the laboring recipient’s capacity to object. [O0;O5;PS22]",
+          "",
+          "**GF041A.** The restaurant event gives real later listening, apology, asking for help and Fuuka’s personal agreement alongside earlier overridden release requests and a proprietor’s possible wish to close. Its announced Suzume victory, wanted recognition, kitchen care and New Year sharing are positive local ends. They do not retroactively authorize kidnapping, settle contracts, guarantee every ingredient’s safety or complete the restaurant’s accounts and workers’ future. Gastronomy’s defense of a place and its people can itself become a pressure on those people; the recipient’s later choice must remain distinct from earlier coercion. [O64:001–015;L89–95]",
+          "",
+          "**GF041B.** The party similarly places actual music and company inside unequal authority. Hina’s artistic effort and acceptance are real; Makoto’s hospitality and publicity can burden that acceptance through covert cost transfer and extra duties. The failed humiliation plan, positively received performance and locally restarted party matter without repaired budgets, fair liability or durable safety following. Ibuki’s play, Chiaki’s work and clothing pleasure remain intrinsic, while Ako’s objection makes shifted Prefect labor visible. This institutional interface is larger than one person’s kindness or a single successful concert. [O77:001–010;L84–95]",
+          "",
+          "**GF042.** Emergency Medicine’s interface cannot be reduced to treating the school’s own work as a single protective machine. Sena’s wanted peace means absence of emergency work, not lack of concern; her civic thanks and volunteered trust matter without a tested custody record. Cross-school aid in the later main argument is positive evidence of service that exceeds faction rivalry. Meanwhile, preparation for war and clinical possibilities do not prove actual combat, cure, lawful confinement or every patient’s assent. Different kinds of usefulness have different recipient and endpoint requirements. [O39;SUP13;SUP44]",
+          "",
+          "**GF043.** Apparent neighbors require exact identity restraint. E809’s local gang labels do not become Hot Springs Meg through a substring; E815’s collective Black Tortoise narration does not become an individual Engineering/Hot Springs act through a typed token; the source-local masked captive is not automatically Wakamo; local software, visitor and dream entities do not produce a global person join. The institutional scope can include their meaningful local roles while refusing an unsupported biography or school membership. This preserves sparse actors rather than discarding them as inconvenient exceptions. [O37;O43;O39;O98;O101:016–027]",
+          "",
+          "**GF044.** The105 supplemental owners also make independent comparison recipients visible. Mel and Momiji’s shared making is not the price of forgiveness; Kaede wants both sleep and inclusion; Tsukuyo can enjoy a dress while refusing a career; Kanna’s care can coexist with frightening a child; Arius students want magazines, gardening, stage pleasure and quiet without universal crowd assent. These are concrete boundaries against which a theory of school freedom can be tested. They do not merge schools, replace their separate packages or turn a mechanical source union into a universal person census. [O73;O14;O97;O81;O82]",
+          "",
+          "## 9. Japanese wording, attribution and source mode",
+          "",
+          "**GF045.** Freedom language must remain attached to its speaker and scene. The six-word transmission’s lexical fit and temporal association are consequential but do not prove an operator, frequency, cohort or mechanism. An anti-Emperor explanation, NK Ultra identification, old free-will narrative and the reported ghost-ship history are attributed accounts, not audited history. In particular, the holiday’s actual voluntary-loyalty formulation and the crisis’s coercive-unity reversal are different utterances with different local responses; translation should not silently harmonize them into a charter. [SUP28;SUP29;SUP43;SUP44;O101]",
+          "",
+          "**GF046.** Written stories distinguish spoken words, narration, reported action, inward desire and alternatives. The refused massage and foot-licking alternative are not performed contact. An offered meal is not necessarily eaten; an offer of compensation is not payment; an injection preparation is not administration; an accepted room visit is not a general legal entitlement; a reported installation is not inspected hardware. The literal difference matters more than whether the event’s overall tone is comic, romantic or urgent. [O36;O90;O37;O6;SUP41;SUP42]",
+          "",
+          "**GF047.** The ordinary sensory record requires equal precision. Aroma is not a completed truffle meal; first snack refusal and later chosen pudding are distinct; wanted chocolate can be eaten in one encounter and only given or discussed in another. Homemade objects, their price, taste and use do not establish a common sincerity score. The written German/Japanese repetition around Cup equipment remains repeated written description rather than certified design or performed commentary. These limits preserve the small material goods actually achieved instead of inflating them into the general harmony an interpreter hopes to find. [O0;O78;O27;O103]",
+          "",
+          "**GF048.** Naming and chronology stay source-bound. The full105 union comprises27 GROUP,77 EVENT and one MINI owner, with17 E816 individual duties; it excludes MAIN and private populations as a counting frame. That registry is not105 independent witnesses, a global cast census, an event calendar or proof that every header implies an actor’s meaningful participation. Narrative source boundaries and the current Cycle008 admission govern the argument; old producer pending statuses are historical qualifications rather than automatic current unreadness. No new original-primary, native, raw, performance, model, source-admission or identity credit follows from the C copies. [source/author receipt;full105 applicability register]",
+          "",
+          "## 10. Serious competing interpretations",
+          "",
+          "**GF049.** **Cheerful disorder alone.** The case is strong because many scenes end with food, baths, jokes, gifts and company, and the characters often willingly return to one another. It fails when it makes those genuine pleasures evidence that nobody’s boundary matters: Fuuka’s warning, Chinatsu’s exit, Iroha’s photo objection, destroyed housing and unprinted restitution are not exhausted by the existence of a happy coda. The better reading retains comic ease as an achieved local good while allowing the affected person’s unanswered demand to persist. [O0;O36;O101]",
+          "",
+          "**GF050.** **Protection justifies the means.** Hina’s competence, Iroha’s rescue, Makoto’s diversion and Emergency Medicine’s help supply substantial support. A school without protection would not sustain ordinary choice. But the source’s internal dissent distinguishes protection from arbitrary violence, and Abydos rejects unauthorized intrusion even while recognizing wrongdoing. This interpretation succeeds only if it gives recipients standing to answer the protector; once competence alone supplies permission, it contradicts Chinatsu, Iori and Hina’s own boundary formulations. [SUP26;SUP44;PS18;O101;SUP13]",
+          "",
+          "**GF051.** **Private kindness exonerates office conduct.** Hina’s fatigue, Makoto’s care for Ibuki, Sena’s wish for peace, Gourmet friendship and School Lunch pride make hostile caricature untenable. Yet each private want is evidence of a person, not a receipt for all liabilities generated through office. Conversely, reading every kindness as manipulation is also too strong: real replacement, actual rescue, effective refusal and chosen care occur. The institution is mixed because people can want sincerely, help effectively and still fail to answer a particular other person. [O101;O39;O0;O5;O25]",
+          "",
+          "**GF052.** **All harm expresses cruelty.** Actual retaliation, blasts, silencing pressure and imposed sameness prevent a wholly innocent reading. But the motives and alternatives differ: Haruka’s attachment and later ratification are not one prior command; an overreaching protector differs from an attacker seeking credit; a care routine can harm without printing the intended trap the critic suspects. The proper institutional inference is neither acquittal nor an omniscient verdict on every heart. It is a claim about actions, recipients and unfinished answers at the source’s actual attribution scope. [PS18;O11;O6;O101]",
+          "",
+          "**GF053.** **One heart is the fullest freedom.** Shared protection and company make unity desirable, and some students choose solidarity. The rival becomes coercive when unanimity replaces the unlike goods students actually want. Erika and Kirara defend interesting differences; Karen and Mayumi object to enforced unity; Iroha’s refused gesture or photograph and Fuuka’s protest are not defects to be corrected out of the collective. Chosen cooperation can be an institutional good without every person wanting the same role, picture or rhetoric. [SUP40;SUP29;O101;PS22]",
+          "",
+          "**GF054.** **Factional portraits suffice.** Clubs do distribute distinct tasks and desires, so careful character and ensemble work is necessary. It is insufficient when it omits transfers between them: who grants access, allocates resources, supplies meals, answers intrusion, assigns danger or leaves repair unfinished. The school’s institutional question lies in these interfaces. This package therefore does not duplicate a C&C budget synthesis or a Gourmet ensemble, and it does not claim those separate homes complete; it asks how freedoms coexist when one group’s activity reaches another’s work and property. [SUP41;O5;O36;PS18;O90]",
+          "",
+          "**GF055.** **Sensei creates accountability.** The adult can support Hina, help inquiry and maintenance, and witness a choice. Nevertheless, peer-originated judgments, wanted lives and rescue precede or exceed adult direction; the adult can also pressure, misread, arrive late or become an object of complaint. The thesis retains the positive mediation without making it a causal monopoly or a guarantee that an apology, gift or temporary confinement has answered every recipient. [SUP31;SUP40;SUP42;O101;O49;O104]",
+          "",
+          "**GF056.** **Apology or recovery proves reform.** Hina’s withdrawal, promised support, Iroha’s rescue and actual apology to Chiaki, the replacement boat and parole petition are meaningful endpoints. They are not the missing reciprocal apology with Makoto, restored buildings, complete pirate-passenger accounting, a clinical certificate, innocence or universal rule change. An institution can accomplish something morally and practically positive while remaining answerable for unfinished aftermath. The source supports partial correction more strongly than a growth ladder or permanent reform. [PS18;O101;SUP31;SUP13]",
+          "",
+          "**GF057.** **Light stories can be omitted.** This rival would make the argument shorter and emphasize the public crises. It would also remove much of the evidence for what freedom is supposed to protect and for how it can work: Chinatsu’s effective exit, chosen quiet time, differentiated pudding and chocolate, a student-authored broadcast, shared aroma and a requested rest. Ordinary scenes contain independent choices and refusals that cannot be inferred from battles. Their value is not proportional to stakes, popularity, crisis presence or a model grade. [O36;O104;O27;O0;SUP40;full105 applicability register]",
+          "",
+          "## 11. Evidence boundary, achieved goods and open questions",
+          "",
+          "**GF058.** The bounded conclusion is that Gehenna sustains meaningful plural lives while repeatedly externalizing the cost of that plurality. Its strongest practices combine chosen cooperation with a recipient’s effective objection; its worst substitute leadership, protection, taste, unity or technical confidence for that answer. Actual care, company, making, performance, rescue and material replacement must remain affirmative evidence. Unprinted restitution, untested safety, overridden preference and coercive pressure must remain unfinished rather than being treated as proof that those goods never occurred. [SUP26;SUP40;O0;O5;O36;O101]",
+          "",
+          "**GF059.** The companion register receives the original105 applicability responsibility at precise analytical scopes, distinguishing newly complete physical arguments, newly bounded consequential receiving and exact adequate prior own analytical receiving. This is not a claim of105 fresh physical EOFs or all primary stories read anew. E818, E828, E841 and E848 preserve their actual coherent-meaning versus annex extents; E832’s substantive115th line and the earlier Chihiro/Hare count seam remain qualified. MAIN and private arguments remain separate scopes. Mechanical header findings, copying and body hashes never supply literary receiving by themselves. [source/author receipt;full105 applicability register]",
+          "",
+          "**GF060.** ROOT acceptance, canonical adoption and publication are separate from author completion. Dated source5933 custody is preserved alongside later reported publication states; mutable progress controls supply no independent narrative evidence. This author candidate changes no required home, named duty,355-package denominator,29-duty scope,25-parent count,384-home partition,788 candidate population, source admission or milestone. The following original gaps stay OPEN with effects specific to this argument. [author scope and saved-output receipt]",
+          "",
+          "**G01 Ordinary and private breadth — OPEN.** The received ordinary repertoire supports intrinsic tastes, rest and chosen company; it is not every Gehenna private scene or every eventual private answer. Missing breadth limits universal claims about what each student always wants.",
+          "",
+          "**G02 Yuuka council/club decision transfer — OPEN.** Budget and allocation comparisons do not import Seminar/C&C decisions into Gehenna authority. Unprinted transfer and fiscal implementation remain unclaimed.",
+          "",
+          "**G03 Serika service, peer and reciprocity range — OPEN.** Abydos’ independent objections and holiday/service comparisons do not exhaust Serika’s reciprocity or authorize Gehenna to speak for her school.",
+          "",
+          "**G04 Hina crisis causality, accountability and ordinary contrast — OPEN.** Actual withdrawal, restraint, doubt, pleasure and resolution are supported; full mechanism, all recipients’ repair and clinical or ethical exoneration remain unproved.",
+          "",
+          "**G05 Arius and PS68 ordinary/aftermath transfer — OPEN.** Ramen promises, stage and peer pleasures, parole petition and actual aid retain value without all wages, buildings, convictions, trauma or restitution being resolved.",
+          "",
+          "**G06 Cross-school ordinary repertoire — OPEN.** The105 comparisons preserve concrete other-school wants, not a complete schoolwide distribution or a universal ranking of freer institutions.",
+          "",
+          "**G07 Story-world chronology — OPEN.** Public/private parallels and repeated contradictions are compared at declared source scope; no complete calendar or uniform freedom-to-coercion growth sequence is asserted.",
+          "",
+          "**G08 Event naming and repeat contexts — OPEN.** The named current owner and its selected ending govern each claim. Repeated gifts, festival labels and coded routes do not create one common event or shared day.",
+          "",
+          "**G09 Written speaker/choice attribution — OPEN.** Collective labels, local gangs, proposals, narration and unchosen alternatives stay distinct. Missing attribution prevents assigning every shot, thought, apology or offered action to a named student.",
+          "",
+          "**G10 Performed voice — OPEN.** Written intonation, humor, fear and warmth are analyzed through text. No heard delivery, animation, audiovisual timing or performed branch has been verified here.",
+          "",
+          "**G11 Hoshino's Yume record and office states — OPEN.** Abydos and dream comparisons do not settle Yume’s record, Hoshino’s office transitions, grief or clinical condition.",
+          "",
+          "**G12 Counterpart, system and variant identity — OPEN.** Source-local software, visitors, dream voices, local impostors and repeated names remain bounded; meaningful local roles do not prove a global person or continuity join.",
+          "",
+          "**G13 Office, contract, safety and technical outcomes — OPEN.** Proposed cuts, permission, compensation offers, reported upgrades, confinement, parole and safe-awakening narration are kept apart from enacted transfers, payment, inspected legal authority and certified safety.",
+          "",
+          "**G14 Unclassified/mode continuity — OPEN.** Normal analytical receiving is written-source synthesis at its declared scopes. Copying, historical antecedents and current admission do not create new primary, raw, native, performance, model or independent witness credit."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GEHENNA_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 640884,
+      "sha256": "dcf49bb028d3bede44ca0be812a1c373fadc7dc1459694cac740b34e84cbf924",
+      "git_blob_oid_of_actual_bytes": "5a8727ea01ab92ee83532d9f86f443d39a2c56df",
+      "attachment_names": [
+        "GEHENNA_FINAL20_MAIN_PRIVATE_SEMANTIC_RECEIVING_PROJECTION_V1.json",
+        "GEHENNA_FULL105_SUBSTANTIVE_APPLICABILITY_ARGUMENT_REGISTER_V1.json",
+        "GEHENNA_FULL105_SUBSTANTIVE_APPLICABILITY_ARGUMENT_REGISTER_V2.json",
+        "GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V1.json",
+        "GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V10.json",
+        "GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V11.json",
+        "GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V2.json",
+        "GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V3.json",
+        "GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V4.json",
+        "GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V5.json",
+        "GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V6.json",
+        "GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V7.json",
+        "GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V8.json",
+        "GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V9.json",
+        "GEHENNA_INSTITUTION_CLAIM_ENDPOINT_RIVAL_AND_GAP_RECEIPT_V1.json"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GEHENNA_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 713302,
+      "sha256": "f421d03fde548e468c410a3bd10334a729232fb907fd3f44cb16b075aa79f315",
+      "git_blob_oid_of_actual_bytes": "1257c06bd1fbf2bff9e5e7602d5ac979290997f5",
+      "attachment_names": [
+        "GEHENNA_INSTITUTION_CLAIM_ENDPOINT_RIVAL_AND_GAP_RECEIPT_V2.json",
+        "GEHENNA_INSTITUTION_FINAL_ACTUAL_AUTHOR_RECEIVING_QUALIFICATION_V1.json",
+        "GEHENNA_INSTITUTION_FINAL_FINITE_AUTHOR_VERIFICATION_V2.json",
+        "GEHENNA_INSTITUTION_FINAL_ROOT_RECEIVING_GUIDE_V1.md",
+        "GEHENNA_INSTITUTION_INDEPENDENT_FINITE_AUTHOR_PROOF_V1.json",
+        "GEHENNA_INSTITUTION_PREFREEZE_FOUR_ADDITIONS_AND_COUNT_OMISSION_FULL_INVERSE_V1.json",
+        "GEHENNA_INSTITUTION_SAVED_OUTPUT_AND_FINITE_BINDING_RECEIPT_V1.json",
+        "GEHENNA_INSTITUTION_SAVED_OUTPUT_AND_FINITE_BINDING_RECEIPT_V2.json",
+        "GEHENNA_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "GEHENNA_INSTITUTION_V2_SCOPE_REFINEMENT_AND_FULL_INVERSE_V1.json",
+        "GEHENNA_SCOPE_V2_EXACT_FIELD_DELTAS_AND_BYTE_INVERSES_V1.json",
+        "GEHENNA_UNSEALED180_LINE_BODY_FULL_BEFOREIMAGE.md",
+        "COMPLETE_AUTHOR_MANIFEST_OR_FREEZE"
+      ]
+    }
+  ],
+  "explicit_complete_frozen_owned_originals": [
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+      "bytes": 45804,
+      "sha256": "3222225364647872b9155875bb5fff6c69c1697cc1e49d81b4d8d54942b183e9",
+      "git_blob_oid_of_actual_bytes": "e6c735039f5175a5b19ed6ce1ca0cad7ccfd3d6d",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/bound_control_inputs/GEHENNA_FREEDOM_EXISTING_HOME_AND_FINITE_SOURCE_PLAN_V1.json",
+      "bytes": 189002,
+      "sha256": "0e9c2f7a546ea8c1aa4f5ace482815960250b23e395d1a1fa00193ca22f1f27c",
+      "git_blob_oid_of_actual_bytes": "a8bbceecd7b76ef0140f94b8a9ba80a05018e3c2",
+      "classification": "PRIVATE_EXACT_METADATA_ANTECEDENT"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/bound_control_inputs/ROOT_EXACT105_CURRENT_ANALYTICAL_NORMAL_CUSTODY_RECEIPT_V1.json",
+      "bytes": 91758,
+      "sha256": "cd233b02c1f7c04e265d6dd3df56bf5933500df9fce0eb154600ac6932174cbc",
+      "git_blob_oid_of_actual_bytes": "347ee60b0ed8c40e54cd64c7906898a1bdc21b39",
+      "classification": "PRIVATE_EXACT_METADATA_ANTECEDENT"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/bound_control_inputs/ROOT_GEHENNA_EXISTING_INSTITUTION_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+      "bytes": 4352,
+      "sha256": "32d7ca065953e5b2789eb7bc467113ad9dfc48fe2886029ed3b4f7577cde3558",
+      "git_blob_oid_of_actual_bytes": "6770c9f752794737a92fce5d0c86fcd339330c40",
+      "classification": "PRIVATE_EXACT_METADATA_ANTECEDENT"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/final_author_receiving_and_freeze_preparation_v1.py",
+      "bytes": 8419,
+      "sha256": "6c3d6f88c4b0d4542895ecf640865d248347f0df4a76e0f74478e1aca24bea74",
+      "git_blob_oid_of_actual_bytes": "06d0dceaf953fc24c6b8d226f9d22726878e0447",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/finalize_gehenna_companions_v1.py",
+      "bytes": 5021,
+      "sha256": "c4a662e6e87e5f2fda0d8d70ae0b51dcfe5a3b8a45b8550e61c660284e6abeb1",
+      "git_blob_oid_of_actual_bytes": "088ce25c4c2a6598bdbe44852af3ba71bb8d5e9c",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA105_PRIOR_OWN_RECEIPT_SCOPE_LOOKUP_WORKING_V1.json",
+      "bytes": 320228,
+      "sha256": "111e37f5205e055ac7363eb78bc4de75d315ab9bc3eac76b2c656aa553541b03",
+      "git_blob_oid_of_actual_bytes": "7807ff2dcac1b3edb799251bb5ce94a9783384ff",
+      "classification": "PRIVATE_EXACT_METADATA_ANTECEDENT"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_FINAL20_MAIN_PRIVATE_SEMANTIC_RECEIVING_PROJECTION_V1.json",
+      "bytes": 26361,
+      "sha256": "9dedeaadc557d02baa5d3b0b97e7d55b814c6f7b41e2342048cdce7dbef42dec",
+      "git_blob_oid_of_actual_bytes": "d72bc0354a5ad8fb62ab0d475c03e9abd0d17c1f",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_FULL105_SUBSTANTIVE_APPLICABILITY_ARGUMENT_REGISTER_V1.json",
+      "bytes": 142062,
+      "sha256": "69ae0c569619f37dc18c2fb065692fd60979a3fbd95b854b665c8614af2dc6a7",
+      "git_blob_oid_of_actual_bytes": "cf202fa888b2e5e81703a2af87e26a803c85fc6c",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_FULL105_SUBSTANTIVE_APPLICABILITY_ARGUMENT_REGISTER_V2.json",
+      "bytes": 142957,
+      "sha256": "c4cc4c7fb6ba1cb1fc09447596d300c052a1292e88efe97f90a730b470c791cb",
+      "git_blob_oid_of_actual_bytes": "4986e0de0f08f2730a8301742b80233d1fbc9fc7",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V1.json",
+      "bytes": 12543,
+      "sha256": "372945152f4dad91a71a5f717718e1e44fa00088ca715a3e3e042f0115e16291",
+      "git_blob_oid_of_actual_bytes": "2761bff369627d4241431cbd10175e75a7309491",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V10.json",
+      "bytes": 42458,
+      "sha256": "4e7def6c3f89f5c17c2281d326591576171869b1cfe792da79a49ce3f71c561b",
+      "git_blob_oid_of_actual_bytes": "e827efd832ea8ade6f04608fa6286f4cf3944035",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V11.json",
+      "bytes": 7660,
+      "sha256": "e0bcb360afc047cec1409b6fca6f3e5eef8f8929d14a156fb1fcc284af319819",
+      "git_blob_oid_of_actual_bytes": "c9c7a04ce274091d90264e7f4c59338f9beb3ec2",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V2.json",
+      "bytes": 24089,
+      "sha256": "90f24633e781d68409ca1a7a7a9b053a1717326e25274ff315da39e7091f116d",
+      "git_blob_oid_of_actual_bytes": "165f722733d7e212b6f0408093b15406e5545b5d",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V3.json",
+      "bytes": 18096,
+      "sha256": "018f30cf377f3fa7e602737b9e8c8213bcb1ffcf609a133ebf6ac8adca8665e2",
+      "git_blob_oid_of_actual_bytes": "334365f325e8b05df344ca81c64ab80a2d604c5e",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V4.json",
+      "bytes": 5261,
+      "sha256": "55baf75d6ffe5c4b8c0fcccf6371af6fe4993e3f43d83f7a0a14968612bc1b65",
+      "git_blob_oid_of_actual_bytes": "4e3b8a4ceb9490d38d4a3b21eece9a68d493a737",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V5.json",
+      "bytes": 15446,
+      "sha256": "c7045c9c73df026a0547097eeec5c2c42d26f66834030cd1bbd8fb01786bdc7b",
+      "git_blob_oid_of_actual_bytes": "2ddf4986bc4ee2c8b19eb228691f245995586ac7",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V6.json",
+      "bytes": 10068,
+      "sha256": "b169485da7e3997362ef23d950acac3cb10630e08e56947368b083c4dead6d57",
+      "git_blob_oid_of_actual_bytes": "89511b973421c114af688fa23889350e13007226",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V7.json",
+      "bytes": 7741,
+      "sha256": "ab7a684c6b52b88b25d77c9a3d79875305df3bd8b8608203eddf25f084f1fdc7",
+      "git_blob_oid_of_actual_bytes": "f41423025fd89ce08539438a5f70f6a3cbce9182",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V8.json",
+      "bytes": 13463,
+      "sha256": "b5baf4dc707dab83cee6ba97657ce252816a15d7c8587f79dfc623d8247d50fb",
+      "git_blob_oid_of_actual_bytes": "525161756df23d344d34d37e220b98e4d10b3163",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_AUTHOR_SOURCE_RECEIVING_PROGRESS_V9.json",
+      "bytes": 11096,
+      "sha256": "a541333533878b46bb0881686a3d7329fc28f1d4c841d5f588fe13cae54e7afd",
+      "git_blob_oid_of_actual_bytes": "aed512d777791ff985cb1aebb3184b6aa812d371",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_CLAIM_ENDPOINT_RIVAL_AND_GAP_RECEIPT_V1.json",
+      "bytes": 109766,
+      "sha256": "472c70c280fa3ba021c80d4c363c2d8dd3177825a3a463a45345f0ef1dd43bdf",
+      "git_blob_oid_of_actual_bytes": "225a545e6bff095371667e8898068b9637626763",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_CLAIM_ENDPOINT_RIVAL_AND_GAP_RECEIPT_V2.json",
+      "bytes": 110126,
+      "sha256": "e4d053bde6910b463a82016ce67561349eb48782231f28fa45a54a6198dda64e",
+      "git_blob_oid_of_actual_bytes": "54b1f8626aa40b957aebd538219e8072fb74cb8a",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_FINAL_ACTUAL_AUTHOR_RECEIVING_QUALIFICATION_V1.json",
+      "bytes": 8284,
+      "sha256": "6352064117bbd9987948bea7736956e2e2a73338d6abdc728537a870f3e38101",
+      "git_blob_oid_of_actual_bytes": "7775a4d5beca48978fad8e8b1fe572cd044140f9",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_FINAL_FINITE_AUTHOR_VERIFICATION_V2.json",
+      "bytes": 2388,
+      "sha256": "036822ae8dbbc4a93581e5e741dfe3014f3d7ef2c9bfd9a22b03c80822e1c8b1",
+      "git_blob_oid_of_actual_bytes": "7f2ce0ff3346f68a87513750bfdfbfa81c7c21f8",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_FINAL_ROOT_RECEIVING_GUIDE_V1.md",
+      "bytes": 4885,
+      "sha256": "ddee45f2b396f508fc5e6b0b07cfea766e50e03154e976cd95d5f10c731a68c4",
+      "git_blob_oid_of_actual_bytes": "66bcf891403c5064696559800d6e68b28a3311a0",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_INDEPENDENT_FINITE_AUTHOR_PROOF_V1.json",
+      "bytes": 15732,
+      "sha256": "4632e1723820d82fabcc330bbbbe6240a0be029667e8a22cbcf1668085918e2e",
+      "git_blob_oid_of_actual_bytes": "161745810dc53610832a473c78f8c3ce72211386",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_PREFREEZE_FOUR_ADDITIONS_AND_COUNT_OMISSION_FULL_INVERSE_V1.json",
+      "bytes": 17385,
+      "sha256": "b5e2c0e0a46bbf2578463309f761f409bcfb6ecd0f60250abf9e8ad38977ac70",
+      "git_blob_oid_of_actual_bytes": "b00645597d2693c65a0e6fc216f09f81a22e7664",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_SAVED_OUTPUT_AND_FINITE_BINDING_RECEIPT_V1.json",
+      "bytes": 2524,
+      "sha256": "3c6263bd0bc0ee4141ef5ff5bbbef2aacf098bef53bc0cc312a186fa466aa13f",
+      "git_blob_oid_of_actual_bytes": "2597581e9cb948ecc6d43b5d650f3b380b455d41",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_SAVED_OUTPUT_AND_FINITE_BINDING_RECEIPT_V2.json",
+      "bytes": 2785,
+      "sha256": "b7b136a1739745dd9d3a10043142184e11ad6dab502501fd47e422a78c2d5de8",
+      "git_blob_oid_of_actual_bytes": "740caca05e8e2d98b39147120c8a59559884f483",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 389313,
+      "sha256": "4fd5d639f8b1ef99124ce3c79876fea078b95a3bdaa1c4d3bf46e41527ac74a7",
+      "git_blob_oid_of_actual_bytes": "99514232187ba2d69dadcda4351c25f6e677013d",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V2.json",
+      "bytes": 397413,
+      "sha256": "46851a4ee23e34c85551ce9f20fe47ab61fd19a626c90be38dcd76c447631cb2",
+      "git_blob_oid_of_actual_bytes": "8fe053a357bdfdfd60b1a57158ef4da04a9b9cb1",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_V2_SCOPE_REFINEMENT_AND_FULL_INVERSE_V1.json",
+      "bytes": 9288,
+      "sha256": "ef3c19f221a99c5db4e9756411132bf7661c66b14908cbf76c4fe46de39b0322",
+      "git_blob_oid_of_actual_bytes": "905cf35dcfc4c11726532fe974904728c0b1b935",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_SCOPE_V2_EXACT_FIELD_DELTAS_AND_BYTE_INVERSES_V1.json",
+      "bytes": 25016,
+      "sha256": "c4320ae22a5c17e1c7938f085287773c37ffd7eb8d64813cb5c56d86f3a57efa",
+      "git_blob_oid_of_actual_bytes": "d5b2c1a1c5a8db4f0bed3997072370fc58b06f5c",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_UNSEALED180_LINE_BODY_FULL_BEFOREIMAGE.md",
+      "bytes": 42928,
+      "sha256": "07a2e9df2338bfb2e1022394f830057eb0b7e46f1c1b5236adb88d1cc0111384",
+      "git_blob_oid_of_actual_bytes": "364779f05adb7d988250583b31d9947bbc61bbf5",
+      "classification": "PUBLIC_CANDIDATE_OR_DATED_PRESERVATION_RECORD"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/inspect_prior_own_scopes_v1.py",
+      "bytes": 3699,
+      "sha256": "ac2e9651a35b07bddff40981478d875e6a7a84040122b2b817a6e60ae0b5d8a2",
+      "git_blob_oid_of_actual_bytes": "69c0fc5f7486cb80eb5f823fc00613ac2af06c36",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/prepare_and_seal_final_gehenna_packet_v1.py",
+      "bytes": 11446,
+      "sha256": "d401bf942709c5327eb611af73378e3ed7db6b92bac830af6f76d43cf97fe147",
+      "git_blob_oid_of_actual_bytes": "e85e103a7f928e55bdaf217812738b9e46afcb3d",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/prepare_gehenna_operative_scope_v2.py",
+      "bytes": 6986,
+      "sha256": "6eacd82f28885a7df56d8ae7367cb6aab4bd0cccffb7e30b83d2f80266532438",
+      "git_blob_oid_of_actual_bytes": "7cad4ebf49e855376a3e836d27e1e0d9328dbd37",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/prepare_gehenna_receipts_v1.py",
+      "bytes": 30711,
+      "sha256": "8acb1bfa90c15fdec5fa1c93afb24f5fb7e429649e74d3b5ec1bae383699928c",
+      "git_blob_oid_of_actual_bytes": "5ce15d7012a019ffeaf9fc992196176a7034bd4e",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/read_and_verify_gehenna_packet_v1.py",
+      "bytes": 8547,
+      "sha256": "6ba017d82175bcf62a3a464f9391bc5841f74a2027ad6a47d7a876f7914818a8",
+      "git_blob_oid_of_actual_bytes": "1c29fc4ed9da9102cd94ef0f144acac35c95cd46",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/read_prior_scope_lookup_v1.py",
+      "bytes": 1885,
+      "sha256": "c51e0653658e25a81ef063ccd2714a232c790e8b8d29270cbde8ea94baef1d57",
+      "git_blob_oid_of_actual_bytes": "4c5d43801fc4adc848be2af4e2459c54157aee67",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/receive_gehenna_normal_v1.py",
+      "bytes": 2730,
+      "sha256": "e6ba5802b7a56dc81a0dac96cf68a991051e682670bf8fe820c4dffa7ba8ff71",
+      "git_blob_oid_of_actual_bytes": "c6cd4b4534b548936fcb53fdb633af853b8a83d3",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v1.py",
+      "bytes": 5544,
+      "sha256": "c7e6b6ca69a836e65d2cc43480d66da0bccfe407b42c2e2f5032309d97fd1934",
+      "git_blob_oid_of_actual_bytes": "f274a46c4ac70493bed9659a27f5cc2d7ffac998",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v10.py",
+      "bytes": 12439,
+      "sha256": "09f0107fd301c0101535c9e80c8cf07538d269e8f2284c92a19bb7681657bad2",
+      "git_blob_oid_of_actual_bytes": "4db711c2274fcd1f61636bdb7ea11796b8e94473",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v11.py",
+      "bytes": 4880,
+      "sha256": "48280c6701cfa8ee9be42e23150cbf81bd24511b73cae84fa8559cb3f49fd19f",
+      "git_blob_oid_of_actual_bytes": "68b6ce87ef20031281800e987c1c03a2f15cb17f",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v2.py",
+      "bytes": 7374,
+      "sha256": "9565da525bb840137e033f32499c42fa9292850c929ebde3f43006ff9dca25d6",
+      "git_blob_oid_of_actual_bytes": "897bbbc2f7a9d48f08fd2a810806b778266266d4",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v3.py",
+      "bytes": 10430,
+      "sha256": "1da1ab483ddb585e7548db101a62272e7fc6718376af8dcc57f632882f84c5be",
+      "git_blob_oid_of_actual_bytes": "5d8fe4a26f9133b278bf1db3a825090b0a8c7433",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v4.py",
+      "bytes": 5214,
+      "sha256": "481c85b22083bad34bad700e1a11ea16769dea1c7b32663d139c36e8a689127d",
+      "git_blob_oid_of_actual_bytes": "77cf1c5745cf85209ca4361eb20662b3be64d154",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v5.py",
+      "bytes": 8348,
+      "sha256": "3ac8c606fda3052ee6aaad2f9c0895eca63fc7bf3aa629e60ae192c6bdccca2a",
+      "git_blob_oid_of_actual_bytes": "593a969d437d193efcea498da79365550eda1614",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v6.py",
+      "bytes": 6459,
+      "sha256": "4c18519e6d11e94e061ac981f7cec4d572fc69752ee85c2bba7adf442a770e1a",
+      "git_blob_oid_of_actual_bytes": "ec72024a67a55d827628b8bf82f33c275acd7d7d",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v7.py",
+      "bytes": 5462,
+      "sha256": "7b5e9f1859fb85143e2891d44d3ec086c516c1f4a214e37296b36aeda6bd9dd7",
+      "git_blob_oid_of_actual_bytes": "30be712083f895115c1e408eccce66bcae1e0226",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v8.py",
+      "bytes": 7401,
+      "sha256": "e57d9e137d6a55c2c1dfcf7b579fbd86d50eb0e409f66ef853d23fe1ddd10159",
+      "git_blob_oid_of_actual_bytes": "90bd35f548dc90d229c669921bc7f65919174b4c",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    },
+    {
+      "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/save_author_receiving_progress_v9.py",
+      "bytes": 7437,
+      "sha256": "cfbf99e5c61b66ca3fb321f2da194e5861c32ffda58e42a5bf67f262a174f40c",
+      "git_blob_oid_of_actual_bytes": "e4ee68683d5efcd89cb5a8cf86b39053de037256",
+      "classification": "PRIVATE_EXECUTION_MATERIAL"
+    }
+  ],
+  "original_freeze_tuple": {
+    "path": "GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_FINAL_IMMUTABLE_FREEZE_V1.json",
+    "bytes": 423,
+    "sha256": "31fb1d2a4079d17e28580fbebdc2b25cec7f45dac5681dbddb907f0605a3a190",
+    "git_blob_oid_of_actual_bytes": "c6cabcb98944899bbe10bd93c43f3865d10d40bc",
+    "immutable_transport_path": "immutable_originals/GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS/GEHENNA_INSTITUTION_FINAL_IMMUTABLE_FREEZE_V1.json"
+  },
+  "original_ROOT_tuple": {
+    "bytes": 26543,
+    "sha256": "fbd9975d4f903e4c5359a7fa0fff36d339d1652b24fe89808c2d190a80cf4307",
+    "git_blob_oid_of_actual_bytes": "e292393deee4f4b9ffba382085057ec74e2469bb"
+  },
+  "mandatory_operative_qualification": "The established Institutional Syntheses directory governs the operative target; ROOT’s literal Institutions proposal remains unchanged and reversibly qualified. All105 source-specific judgments retain61 newly complete physical arguments,18 new bounded-plus-prior scopes and26 prior-only scopes, not105 fresh EOF readings. Coherent meanings versus literal annexes, E832115/114 custody, visitor/collective/typed-actor boundaries, cold prior birthday atmosphere, all four added paragraphs and GF059 correction remain qualified. Independent taste, rest, chosen work, making and company are intrinsic; coercion, unequal burdens and unfinished restitution remain adverse evidence. Private controls/execution material remain private exact transports.",
+  "exact_target_route_qualification": {
+    "literal_ROOT_proposed_target": "series/blue-archive/04 Specialist Synthesis/Institutions/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+    "operative_target": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+    "reason": "Exact current128 index has eleven existing institutions in Institutional Syntheses; ROOT explicitly approved reversible directory normalization only.",
+    "no_home_count_source_change": true
+  },
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "reconciled_fixed133_current_boundary": {
+    "schema": "BLUE_ARCHIVE_RECONCILED_FIXED133_CURRENT_BOUNDARY_V1",
+    "status": "ROOT_ACCEPTED_LITERAL_RECONCILIATION_C_PROPOSAL_FULL_INSTALLATION_PENDING",
+    "local_source_before_install": "16b038cc400805d15cfeb799d048e1d20ba9290d",
+    "local_source_tree_before_install": "2e64442a6b80cea9d67143d690378bd01932cc88",
+    "current_main": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+    "observed_main_integrated_packages": 128,
+    "current_remote_source_before_publication": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+    "dated_source128_complete_automatic_chain_ROOT_control_sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee",
+    "PR148": {
+      "verified_source_head": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+      "verified_integration_commit": "150a85e49a2b6d5fbd0c402d06c3070ea945d0cd",
+      "complete_source_and_integration_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+      "whole_tree_identity": true
+    },
+    "PR152": {
+      "merge_commit": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+      "correction_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+      "seven_corrected_current_interpretations_govern": true,
+      "earlier_frozen_payloads": "UNCHANGED_HISTORICAL_VALUES_QUALIFIED_BY_REGISTER"
+    },
+    "first25_milestone": {
+      "packages": 89,
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "PREVIOUSLY_ACCEPTED_COMPLETE_FIRST_MILESTONE_HISTORY"
+    },
+    "after_complete_ROOT_install": {
+      "packages": 133,
+      "CHAR": 100,
+      "REL": 16,
+      "ENS": 5,
+      "INST": 12,
+      "named_completed": 13
+    },
+    "currently_published_packages_before_successor": 128,
+    "next_milestone": 178,
+    "scope355_named29_parents25_homes384": "UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "unreviewed_postmerge_audit_PASS_claimed": false,
+    "new_literary_primary_native_raw_QA_AV_admission_identity_scope_count_model_credit_from_transport": 0
+  }
+}
