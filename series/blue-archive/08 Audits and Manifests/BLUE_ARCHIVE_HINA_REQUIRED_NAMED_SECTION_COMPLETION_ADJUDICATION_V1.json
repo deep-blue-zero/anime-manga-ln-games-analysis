@@ -1,0 +1,132 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_HINA_REQUIRED_NAMED_SECTION_COMPLETION_ADJUDICATION_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Hina",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_HINA_REQUIRED_NAMED_SECTION_COMPLETION_ADJUDICATION_V1.json",
+    "bytes": 8665,
+    "sha256": "29d54dc38ea3ff1b299d210db15368ae95c2c47ef79b03f258301f1f5a520f66",
+    "git_blob_oid_of_actual_bytes": "e10291a07403679ff8fd624d1fcc929f96794cc1",
+    "lines": 97
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_HINA_REQUIRED_NAMED_SECTION_COMPLETION_ADJUDICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_NAMED_ARGUMENT_WITH_LIMITS",
+    "required_duty": {
+      "section_id": "P3-SECTION-HINA-ICE-POP-GIFT-PRIVACY",
+      "parent_package_id": "P3-CHAR-HINA",
+      "source_responsibility_refs": "EXPLICIT_COMMON_SECTION_PARTITION",
+      "scope_acceptance": "ROOT_ACCEPTED_WITH_LIMITS",
+      "literary_completion": "NOT_DISCHARGED_BY_HEADING_OR_SCOPE_RECORD",
+      "required_full_argument": "GROUP3502 gift/privacy directed scene retains a substantial ordinary/recipient argument, not Hot Springs membership"
+    },
+    "canonical_adoption": "PENDING_ROOT_EXACT_DERIVATIVE_INSTALLATION",
+    "section_progress_credit": 1,
+    "additional_package_progress_credit": 0,
+    "package_denominator": 355,
+    "mandatory_section_denominator": 29,
+    "quarter_reached": false,
+    "immutable_original_body": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PREFECT_MONOGRAPHS/HINA/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 69372,
+      "lines": 267,
+      "sha256": "c61c00b7a1bdb3ea91783303aa4ff6264f7bfcc9740df6563266e4a055e2b04f",
+      "prior_ROOT_complete_body_acceptance": "ROOT_HINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json /12b03d"
+    },
+    "received_current_public_derivative": {
+      "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md",
+      "local_candidate_path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_ACCEPTED_CONTINUATION_ADOPTION_PREPARATION_V4/candidate/series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 70951,
+      "lines": 281,
+      "sha256": "3ff4253a2cbfdc6653a3403c19b39ffa0aaea46199a059b090a52346194a1e90",
+      "actual_receiving": "4c0ef8 complete connected lines87–99; named subsection89–95; inherited complete267-line body meaning preserved; broader derivative exact review remains adoption gate"
+    },
+    "complete_argument_paragraphs": [
+      {
+        "original_line": 77,
+        "derivative_line": 91,
+        "sha256_utf8_line_no_terminator": "818ecc38d4fd298d0d1da0217e0042da0991fc486d740da4a6234ee95b4b1c53",
+        "complete_paragraph": "GROUP3502 offers a smaller but rigorous institutional test. Hina refuses a scripted bag offered when authority is encountered, sends a warning through Meg and uses a frightening destructive signal. The qualified text-actor receipt prevents assigning Meg's donor script or chosen-work history to Hina merely because the canonical label does. Contents, exact destructive means, a particular favor, statutory violation and completed discipline are unprinted. Later Hina accepts an ice pop bought for sharing and thanks Meg. The distinction is contextual inducement versus a spontaneous sharing offer at that encounter, not an all-price gift policy or immunity for small favors. [G3502 u0013–0065]"
+      },
+      {
+        "original_line": 147,
+        "derivative_line": 93,
+        "sha256_utf8_line_no_terminator": "81ac86cb51e757a8faef52ecc29bdc6604278ebcdc2b708e30cea9896ff9ec23",
+        "complete_paragraph": "Meg's encounter shows Hina responding to someone whose desires and understanding differ from office categories. Meg wants to dig, enjoys a snack, trusts that two clever leaders have reasons, faithfully relays a warning and does not fully understand the refused gift. Hina can reject the bag while accepting ordinary sharing, ask about a chosen work arrangement and offer heat-day care. The warning's frightening method remains; the thanks does not settle it. Kasumi's later shriek is observed but future compliance is not. This is a recipient-sensitive distinction in one relation, not proof that either participant has a universally transparent ethics. [G3502]"
+      },
+      {
+        "original_line": 79,
+        "derivative_line": 95,
+        "sha256_utf8_line_no_terminator": "46bf19c6a5e3e3630778b1d42ca15638e8ddda4b77faa832320f256343110d09",
+        "complete_paragraph": "That same encounter gives her suggestive but incomplete knowledge of Meg's earlier leadership and Kasumi's origin. Meg corrects a story of relinquishing office into a chosen digging arrangement: Kasumi asked what she wanted and enabled excavation work. Hina's aside about unnamed “those people” remains opaque; it cannot identify Kaiser, Bodensatz or the Thunder Emperor faction. A leader's knowledge can be real and selectively withheld without giving the analyst permission to complete the unspoken organization. The monograph therefore retains institution, recipient and evidence boundaries instead of transforming competence into omniscience. [G3502 u0069–0096]"
+      }
+    ],
+    "preserved_relationship_responsibility": {
+      "original_line": 244,
+      "complete_paragraph": "Hina–Ako requires a directed relationship argument preserving care, information concealment, envy/pressure, distributed work and peer company; Hina–Iori/Chinatsu requires recipient dissent and professional difference. Hina–Hoshino requires independent accounts of intelligence, tactical force, grief and aftermath. Kisaki/birthday and Meg/gift relations retain their local recipient and address limits. These responsibilities remain distinct from this character comparison and must follow ROOT's accepted full-cast partition routes. Where an existing common home handles a named question, source-form and recipient differences remain independently retrievable rather than being counted as extra completed monographs.",
+      "present_exactly_once": true
+    },
+    "accepted_source_argument": {
+      "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3501_3502_DEEP_READING.md",
+      "bytes": 28377,
+      "sha256": "143280da7ea65dd6b5f32440f75f0bc1f2018cf1d6697eb0ee53af09bd6d261d",
+      "git_blob_oid": "7be147924e3d291f9fc22dc45e75915ee7854df9",
+      "actual_scope": "Author-attributed prior complete qualified meaning custody in frozen Gehenna census, with fresh Hina relevant context only; existing ROOT accepted body meaning adequate. Agent report identifies exact tuple, not new ROOT whole source receiving.",
+      "source_scope_report": "phase3_main_reconciliation_review two source-binding messages received in this active turn",
+      "canonical_source_tuple_attributed": {
+        "story_id": "BA:group:3502",
+        "generation_relative_path": "02_CANONICAL_STORIES/GROUP/CLUB_025_001/EPISODE_002_3502.md",
+        "bytes": 11121,
+        "sha256": "b8bb14a88c3d822e719748f45c092196f2f8a502230b5210b400d19816ec4437",
+        "source_control": "CENSUS_GEHENNA/GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json; REF:ORIGINAL_ADMISSION_RECORD_0209",
+        "ROOT_new_primary_receiving": false
+      }
+    },
+    "root_actual_receiving": [
+      "dbaf5b whole38-line witness",
+      "bc288a exact existing required index row",
+      "4c0ef8 complete literal derivative subsection and connected paragraph",
+      "Earlier actual745271/ acd2cd/96c4f1 complete frozen paragraphs; original complete body12b03d"
+    ],
+    "semantic_grounds": [
+      "The duty contains substantial ordinary and recipient-specific literary reasoning, with two original full paragraphs and a third knowledge-boundary argument collected under a literal named subsection. Heading and scope alone supply no credit.",
+      "Refused scripted authority gift and welcomed spontaneous ice-pop sharing have different local functions. Sharing and thanks have intrinsic positive meaning without proving a universal price rule, small-favor immunity or statutory finding.",
+      "Meg has independent wants, limited understanding and a chosen digging arrangement. Hina asks and cares within that relation; Meg is not replaced by Hot Springs membership or an assumed shared psychology.",
+      "Frightening warning, destructive signal, unexplained organization, Kasumi shriek and unprinted future compliance remain adverse or unresolved. Warmth does not establish completed remedy or retrospective assent.",
+      "Qualified actor evidence prevents assigning Meg donor script and work history to Hina from canonical headings alone. Raw identity, speaker form, narrator/report and unknown organizational references remain distinct."
+    ],
+    "scope_limits": {
+      "all14_gaps": "OPEN_UNCHANGED",
+      "new_primary_or_performance_credit": 0,
+      "new_argument_credit": 0,
+      "models_or_predictions_promoted": false,
+      "partition_scope_changed": false,
+      "frozen_originals_rewritten": false,
+      "mandatory_other_relationships_retained": true
+    }
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_NAMED_ARGUMENT_WITH_LIMITS",
+  "section_progress_credit": 1,
+  "additional_package_progress_credit": 0,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md",
+    "bytes": 70951,
+    "sha256": "3ff4253a2cbfdc6653a3403c19b39ffa0aaea46199a059b090a52346194a1e90",
+    "git_blob_oid_of_actual_bytes": "ba79ef6caa221cc89f4264705248569957c448a3"
+  },
+  "required_section_id": "P3-SECTION-HINA-ICE-POP-GIFT-PRIVACY"
+}

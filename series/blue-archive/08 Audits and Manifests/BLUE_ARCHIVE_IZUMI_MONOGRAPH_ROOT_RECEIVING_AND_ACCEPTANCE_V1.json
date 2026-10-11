@@ -1,0 +1,120 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Izumi",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IZUMI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_IZUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5143,
+    "sha256": "a7f833bcb9f312437fce6cbb1f99bac4b60fdddd5555137801165c14cafdfafa",
+    "git_blob_oid_of_actual_bytes": "b85d4cd9de040beb1b9df36678c806049516a44d",
+    "lines": 80
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_IZUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "e0f97fa48b11240afae2f44799b18a7765b67001c07742f24ee97b1f68772e2d",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_payloads_preserved": 69,
+    "exact_unique_binding_pairs_verified": 157,
+    "public_arguments_equal_current_main_and_c1": 29,
+    "effective_private_arguments": 17,
+    "separate_comparison_arguments": 1,
+    "selected_private_objects_exactly_verified": 27,
+    "saved_nonempty_lines_joined": 115,
+    "bounded_canonical_source_lines_joined": 105,
+    "root_actual_receiving": {
+      "whole_body": [
+        "4032e6 lines1–92",
+        "156fba lines93–184EOF"
+      ],
+      "whole_readable_receipt": "bb9869 all70linesEOF",
+      "complete_controls": "0515dc excluding explicitly named arrays and source-line projection",
+      "scope_fields": [
+        "a8c59f private scopes with missing6–12 repaired fully4fe743",
+        "3e26e0 all26 reused scopes with13–16 repaired6b6817",
+        "35aff2 all9 bounded refresh scopes",
+        "6cf56f both fresh public scopes",
+        "981541 complete necessary recovery controls excluding105line projection"
+      ],
+      "whole_manifest_and_metadata": [
+        "e9a2d0 manifest38linesEOF",
+        "5f37e0 metadata49linesEOF"
+      ],
+      "fresh_complete_consequential_arguments": [
+        "b9b0cf I08 fruit-punch39linesEOF",
+        "9ab35f I10 commissioned food/apology39linesEOF",
+        "1735dc I11 whole-message ending39linesEOF",
+        "5682a1 gift03673linesEOF"
+      ],
+      "fresh_bounded_primary": "6d8496 actual canonical128–232; completeu21–42/G9–11, u20tail incidental excluded; no whole291source credit",
+      "adequate_ROOT_existing_meanings": "Fuuka/Juri/Haruna accepted public meanings with precise previous bounds; E8481–7 actually211d0d. Remaining author complete arguments remain attributed and do not add fresh ROOT whole-file/source reading.",
+      "limits": "Clippeda8c59f/3e26e0 scopes repaired at explicit missing ranges. Clipped83619e supplies no whole source-projection receiving; actual complete text6d8496 and independent105hash joins govern. No whole3272-line JSON narrative reading claimed."
+    },
+    "semantic_grounds": [
+      "Izumi has unfamiliar-food curiosity, particular dislikes, chosen company, play, gratitude, animal reconciliation and recipient consideration. Appetite does not exhaust her meaningful choices, nor does eccentricity invalidate her actual pleasure.",
+      "The exact Japanese queue exchange makes the refusal hers. Sensei offers decision or no-blame alternatives; her repeated wish to share this pudding grounds rejecting all trades. No adult-imposed decision, all-options enactment or appetite mechanism follows.",
+      "Actual commissioned food differs from inspected personal cooking. Declined adult meal, her apology, recipient reassurance and future handmade promise stay at their finite completion levels. Whole post-witness messages retain17later records, ordinary/moderate preference and goodnight.",
+      "Adult fruit-punch ingestion is unprinted before the fade; Izumi taste and later concern are actual. No toxic cause, dose, immunity or clinical cure follows. Actual gift making and unexpectedly pleasing taste qualify a failure-only account while retaining category and safety limits.",
+      "Izumi abandoned plea, desire for inclusion and shared residual aroma coexist. Haruna peers, captive Fuuka, Iori distress/waking/F and local hygiene findings remain separate actors and outcomes. Her enjoyment supplies no universal safety test or consent on their behalf.",
+      "Independent peer support changes conditional food transfer in848, followed by actual recipient barbecue. It proves no later barter/payment, audited culprit judgment, comprehensive worker/institution repair or innocent club essence.",
+      "Variants10009/16006/20043 and costumes retain literal identity; NewYear is not sports. Narration, inward choices, masked actors, locale differences and whole-message seams supply no held-out prediction, romance ladder, performance or extra scenes."
+    ],
+    "root_new_primary_extent": {
+      "canonical_partial_objects": 1,
+      "whole_primary_objects": 0,
+      "complete_textual_units": "u21–42",
+      "printed_choice_groups": "G9–11 five alternatives",
+      "actual_lines": [
+        128,
+        232
+      ],
+      "incidental_u20_tail": "EXCLUDED_FROM_COMPLETE_UNIT_CREDIT",
+      "native_raw_field_QA_or_performance": 0
+    },
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope": "Accepted355/29 unchanged; existing P3-CHAR-IZUMI home; allocation not literary completion",
+    "progress": {
+      "previous_ROOTaccepted_packages": 40,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 41,
+      "character_packages": 40,
+      "directed_relationship_packages": 1,
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "published_packages": 36,
+      "quarter_reached": false
+    },
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "main_integration": "NONE",
+    "nine_unbound_large": "UNREAD_UNHASHED"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-IZUMI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IZUMI_CHARACTER_MONOGRAPH.md",
+    "bytes": 38469,
+    "sha256": "06ab92056d0af521408d54c34a91b9f20b7324f4a94f3adfa70ab616b47ab627",
+    "git_blob_oid_of_actual_bytes": "f76b5f4f87cfa48a3cd40c64203d6f9b22021067"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This complete local candidate proposes DEEP_SYNTHESIS, pending ROOT independent whole prose/receipt verification and canonical adoption.",
+      "new": "ROOT independently received and accepted this complete DEEP_SYNTHESIS literary monograph with limits; canonical persistence follows the complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ]
+}

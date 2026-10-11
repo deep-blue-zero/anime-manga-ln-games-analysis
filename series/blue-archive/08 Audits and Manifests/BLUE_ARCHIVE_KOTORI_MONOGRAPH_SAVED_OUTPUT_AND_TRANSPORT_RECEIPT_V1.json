@@ -1,0 +1,1091 @@
+{
+  "original_exact_tuple": {
+    "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+    "bytes": 58396,
+    "sha256": "6a151ab4e7d74addd9a61e337811bc2d73d7662ff808d5f1fc4c1d1edf3375e0",
+    "git_blob_oid_of_actual_bytes": "ee6ff7156dc2539bd46632495315e8508f44f78e",
+    "lines": 151,
+    "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md"
+  },
+  "canonical_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+    "bytes": 59979,
+    "sha256": "3a108a0d06e49316b00a353d86519dc8a0104bf30ac53a5f458e19f4b6a58ba5",
+    "git_blob_oid_of_actual_bytes": "8c4d0b16f9769134b6eca605ab0000270faa511d",
+    "lines": 162
+  },
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "f4ea44f0f11dd6d8dc8fb7f917e243a22085c32a4c1a5bb2c766538e567acc25",
+      "line_text": "scope: P3-CHAR-KOTORI"
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "0d7ee728b39c6181b052e383b7e2a5487e85074a3a2c711958470e414e89375d",
+      "line_text": "person_key: BA_PERSON_KOTORI"
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 5,
+      "line_sha256": "52b8e45191078e5ab98833765643fe42d58a248a00382fbf3c3bc49613cb4d2a",
+      "line_text": "typed_family: P3-F111"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 6,
+      "line_sha256": "909636118097c2360bee8228f1677d8a16378faea92c963a76a1629cf6d6d057",
+      "line_text": "dated_retrieval_route: P3-A070"
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 7,
+      "line_sha256": "6bd99b0d671b424dbb440a1010b6872e7ac73828a4b5b54ef8ff5a23c9ce3a08",
+      "line_text": "source_snapshot: 92184703994a1950a5660654ce52d8516dbe9bf5"
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 8,
+      "line_sha256": "63fdca655365afb413a94711e2e135ff5bc79b8f19c011769ca90bab08816ce5",
+      "line_text": "source_admission: current_Cycle008_admitted_with_limits"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 9,
+      "line_sha256": "15f73168ce066643fc7ddf12c01a00e7bead0667640d7a514115a3a00db2cb2b",
+      "line_text": "new_primary_raw_native_performed_model_independent_credit: 0"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 11,
+      "line_sha256": "ed2e528e6315754c1403405723fcd84011f6ea85eca3bf6d98f192bf5d3300a1",
+      "line_text": "created: 2026-10-10"
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 25,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 26,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 27,
+      "line_sha256": "d99b991844fd362e42dc42d8debeb6cf73112230433f99bbdfb393596c7b88a2",
+      "line_text": "# Kotori — understanding another person without explaining them away"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 28,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 32,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 33,
+      "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+      "line_text": "## 1. Core thesis"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 34,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 35,
+      "line_sha256": "953776ff48215009944d33dd4d02bb7233984ef54d9aa36f265614e08fa56562",
+      "line_text": "Kotori wants understanding to be something people share: she enjoys the face that lights up when a listener grasps a subject, the excitement of discussing it together, and the possibility of being useful through what she knows. The difficulty is that a subject's explainability does not establish a recipient's willingness, and mastery of information does not make either her body or her personal answer immediately ready. Her most revealing scenes retain these distinctions instead of resolving them into one joke. Students ask her to stop; a willing listener enjoys an hour of digression. A promised account of somebody else's feelings becomes a guarded secret. Asked about her own likes, she requests time. At sunset she positively refuses explanation. These are several kinds of relation to another person, including the right to withhold what cannot or need not be explained. [16002:002/003/005/006/015;10076:006;L201–245](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 36,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 37,
+      "line_sha256": "27b6867b9e0c1e61868b96d735fcb97931394b1948e371542996e79bf280c8e5",
+      "line_text": "The public engineer is connected to this private repertoire without being its simple enlarged version. Kotori knows the cost of a prototype and resists its loss, shares her club's delight in repurposing an object, helps conceal an altered function, reports exhaustion, and returns with her colleagues when they detect something suspicious. These acts make recipients and costs necessary parts of her characterization. Her knowledge can serve company, protect a project, expose a material limit or rationalize a decision that another person did not authorize. The chocolate story supplies a particularly strong contrary endpoint: she changes the means of her explanation into a carefully made gift, prepares to leave, then actually shares eating and talk when invited. The thesis is therefore an uneven practice of mutual understanding, accompanied by her own ordinary wants and by other people's independent power to welcome, refuse or contest what she offers. [1401–1403, device pleasure and disputed ownership](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md) [scene002u0044–0148;scene003u0001–0014](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md) [810:068u0011–0029](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 38,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 39,
+      "line_sha256": "3e1c14de162a38b776331df44a20f6cf6006533a192c6b0bf5676e6385cf8180",
+      "line_text": "Neither danger nor a main plot supplies the criterion for retaining this evidence. The crowded room she likes, the greeting she corrects, the glasses she keeps, the birthday remembrance she wants, a light meal and the sunset that she does not want replaced by a future festival are positive objects of life. They are not incidental rewards for becoming a better technician. Conversely, good intentions and shared pleasure cannot convert refused attention into consent, a repair report into a test, a secret into a confession or an owner into an informed participant. The person remains recognizable across these comparisons precisely because the comparisons preserve disagreement and different modes of access. [10076:003/006;16002:015;written10076/16002;L205–237](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [1402–1403, concealment and retaliation](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 40,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 41,
+      "line_sha256": "babd9490973a03a21768174bc0cbc24038fbf05723fb29a4ca02ea8ef74c6e94",
+      "line_text": "## 2. Longitudinal arc and legitimate ordering"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 42,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 43,
+      "line_sha256": "4fc4ea2c3aa97c9aa4639746f92cdba389aaec27765f493354afe0764ca3e5dc",
+      "line_text": "There are local sequences with consequential endings. In the stadium preparation scene, an explanation of stretching becomes an attempted physical demonstration; the attempt hurts, embarrassment follows, and shared assistance ultimately produces easier movement. The whole message coda recognizes Kotori's initiative as valuable rather than merely recording an adult rescue. In the desk scene, several real requests establish the task before an emptied queue and Sensei's rest. In the illness scene, her felt duty to explain persists while she is exhausted, then another person's account, sleep and later renewed energy interrupt that duty. Each ending revises the opening in a particular way. None establishes that her knowledge, fitness or ability to serve every customer is thereafter complete. [10076:002u0017–0056/thread100760010;003u0002–0052/thread100760170;005u0014–0036/thread100760330](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 44,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 45,
+      "line_sha256": "ca792f55d5e63bd341bd2d9f50fe868316a0dbdbb0b673ac6423481d339df37e",
+      "line_text": "The later-numbered private scenes cannot be placed on a compulsory improvement ladder. Two students' stop requests and departure, the enjoyable can discussion, the library non-return and secret, the unanswered personal question, the glasses conversation and the deliberately unexplained sunset are alternative outcomes under different conditions. The can callback is conditional on printed choice wording; it does not supply an uncontested link connecting every scene into a dated biography. Variant release dates document release, and event or costume numbers document source organization. They do not prove that one costume represents a cured version of another. What can be compared longitudinally is the recurring problem of readiness and willingness, with the differences in actual outcomes kept intact. [L191–213;16002:002/003/005/006/015;10076:006](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 46,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 47,
+      "line_sha256": "f5b3b929dac5d5dad8697560452b3241a077e4f7bc78147ac6147584d71c4949",
+      "line_text": "Public Pavane provides a legitimate chapter sequence: the early weapon encounter precedes the later intervention for Game Development; an exhausted local handoff precedes renewed help. In the weapon encounter, the club first offers prototypes, then confronts Alice's chosen oversized gun, unsafe indoor discharge and ceiling damage, and imposes a late qualification. Only the represented aftermath establishes that the club passed and the weapon became Alice's. Kotori's concession is a real change within that encounter, but the off-page tactics and her individual contribution to the test remain unprinted. Later volunteering, arrival, exhaustion and return add distinct circumstances rather than confirming a timeless decision rule inferred from the first concession. [scene002u0002–0148;scene003u0001–0014](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md) [u0047–0082](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md) [u0036–0055](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md) [scene002u0032–0052](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md) [u0018–0047](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 48,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 49,
+      "line_sha256": "69c8923bd8de1ec8e8493b2d12660fed5a26f2c900d132ee2e7bf7944f9ae65d",
+      "line_text": "The festival comparison has its own completed and incomplete order. Event817 reaches an opening after a local machine stop and revised program; the costume request is only partly fulfilled before that ending. Event818 differentiates cheering, running, testing and safety watch, then moves through a technical failure, evacuation and care. These packets and the written costume triggers cannot be dated against every private bond or against the whole main biography. Final's collective survival and repair context is later in its own represented main sequence, yet it does not demonstrate the implementation of every engineering promise. The chocolate story's actual eating and subsequent abundant explanation is another complete local end, without proof that adaptation became her universal later practice. [817:006–011;L78–83](../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [u0019–0040](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md) [u0058–0140](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md) [u0001–0018](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md) [L162–175;310–337](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md) [u0016–0029](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 50,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 51,
+      "line_sha256": "c5a9c7eb1f30b8449954edceee12c518fa13a4de873f92d57f62aadf78024ff2",
+      "line_text": "## 3. Public self, private self, and interpretation"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 52,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 53,
+      "line_sha256": "de248e5cab7f040284d0bddc98c74d0423fd595d06b343bd709a7261dc57ba6c",
+      "line_text": "Publicly, Kotori often makes a situation intelligible by providing causes, specifications or context. She reports the space-battleship project, the railgun's budget share, weight and recoil. She explains the festival's electronic fuse and admits its hurried manufacture. In Final she asks whether Veritas controls the anomalous AMAS after Himari has denied involvement. These are meaningful forms of attention: she notices resource limits and uncertain control rather than simply admiring a device. But a number in her account remains a speaker report, a question remains a question, and engineering membership does not grant complete knowledge of an opaque system. The public register identifies what she regards as worth clarifying; it does not certify the physical truth of everything she says. [scene002u0044–0105](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md) [u0058–0067](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md) [u0001–0014](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 54,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 55,
+      "line_sha256": "75039b2579e390a2afeaff5f926f87691d508185c9252de49776c2adc6bc0a40",
+      "line_text": "Privately, her difficulty can be the reverse: a question about her own hobbies or likes is harder to answer than a question about an object. The emptied rest space and her anxiety about being muted are her reports and conjectures, not shown proofs that everybody dislikes her. When asked about personal interests, she approaches the topic through what she has absorbed and through attention to Sensei, but the adult's departure and her uncertain completion estimate survive. The complete message thread requests delay until she is ready; the promised final answer is not delivered within the scope. This is a specific limit on self-description, not evidence that she has no interests. Crowds, conversation, food, sweets, clothes and remembered occasions already supply positive interests elsewhere. [16002:006u0001–0058/thread160020260;L209–241](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 56,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 57,
+      "line_sha256": "36d6234d884302ed5bd4d01273b4b8396cda98e2cf12d9e5f806d33f4dd93f26",
+      "line_text": "The library episode has another limit. Kotori undertakes to explain an anonymous girl's feelings, studies several kinds of writing, and notices an interrupted analogy to her own thinking about Sensei. She explicitly distinguishes herself from the girl. An adult bathroom request is followed by actual narrated non-return and a later message saying the problem was solved; the complete thread then keeps something explicitly secret. It licenses a connection between interpreting somebody else and encountering a personal difficulty, while resisting both a certified peer diagnosis and a full romantic disclosure. The anonymous girl and librarian retain their own local positions; neither is silently joined to a named person merely to make the comparison tidier. [16002:005u0001–0055/thread160020130, especiallymessage160020240:1296](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 58,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 59,
+      "line_sha256": "406d2036ca92bdd6995b68c83c9e3d23ae9062186f832dc42dc6818da8c1ff18",
+      "line_text": "The sunset makes chosen opacity positive. Kotori says that sports are difficult for her, not that she dislikes them; she enjoyed the bustle. After the competitions end, the now-empty stadium matters as this occasion, and a promise of another festival does not replace it. Her uncertainty about loneliness remains tentative. Her actual spoken admiration of the sunset and firm refusal to explain the feeling are secure; the final italic invitation to remain until dusk is not followed by printed acceptance and is not automatically classified as inward speech. The scene allows the desire for company and the desire not to translate a feeling into an account to coexist. Its unfilled continuation is not a reason to discard the feeling that is present. [10076:006u0011–0021/0033/0049/0059–0065;thread100760480](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 60,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 61,
+      "line_sha256": "624cc9532f7d8871665e03660e8752c5aa56b0d62750b29eba97b940f6a5fac9",
+      "line_text": "## 4. Millennium and Engineering: knowledge, resources and ownership"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 62,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 63,
+      "line_sha256": "ee0deab9ba9aa7e5f3fd86c39ee49dc3842ef32f069ba201bef45d16d7ed938c",
+      "line_text": "Millennium and Engineering give Kotori a public repertoire, not an exhaustive person definition. The profile's knowledge and machine explanation belong beside concrete workshop encounters. At the first weapon visit, Momoi's assertion that students carry weapons motivates a request; it is not a formally audited enrollment law. Alice chooses the large prototype for her own game-shaped reasons and demonstrates an ability the engineers did not expect. Kotori's cost objection remains intelligible even after Alice can lift it: the roughly seventy-percent budget report, paused larger project and damaged ceiling are not erased by a successful gift. Utaha's permission and late test are decisions made amid these costs, and Alice's eventual possession is an achieved endpoint without a reconstructed combat account. [scene001u0002–0011;scene002u0044–0148;scene003u0001–0014](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 64,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 65,
+      "line_sha256": "00722873f4a07bce98a0b63aab80276f147cd6bfb821d245aa42789eb89eca8f",
+      "line_text": "The club also shares pleasure in unnecessary invention. Rich ham-and-cheese fast food, salty balance, pizza aroma and a weapon repurposed to deliver sauce give the group an ordinary project it enjoys for itself. Kotori's taste and proposal are specific contributions; Utaha's leniency about busy humans losing parts differs from the punitive application-review frame. Technical explanation participates in friendship and amusement here, without needing an external public benefit to justify attention to it. Yet the same project meets an ownership boundary: the weapon is checked only later, Kotori had assumed it was Utaha's, and its altered function is not fully disclosed when Neru receives it as repaired. Initial ignorance of ownership differs from later concealment. Neither shared enthusiasm nor calling the alteration useful supplies the owner's informed assent. [1401u0007/0016–0025/0050–0054;1402u0024–0061](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 66,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 67,
+      "line_sha256": "87813e50d38d266027824b5eb7b626745b6d288a1278f6cef6a4618832b46737",
+      "line_text": "The subsequent encounters must preserve distinct recipients. Momoi's account of a past console problem is an allegation, and the seam-heavy diagnosis and repair promise are not an enacted console repair. Neru's objection and retaliation address her own weapon and its concealed function; she is not merely an obstacle to club creativity. Kotori and Hibiki's fear and rationalization preserve the stakes for the makers without deciding liability in their favor. The final warning about danger to people's eyes is consequential, while coughing, threatened punishment and distress do not constitute a clinical death, restored weapon or completed institutional settlement. The authority that a workshop exercises over a device is therefore narrower than the authority it might presume over a customer's property or patience. [1403, particularlyu0013–0038 andu0072;currentL70–125](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 68,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 69,
+      "line_sha256": "447a33942f05f61f22d0d73b84e0dcfe5b0739f79995115e61b84bb30e3c69c0",
+      "line_text": "The festival turns this boundary into public infrastructure. Kotori's hurried fuse manufacture and desire to test it in competition join pleasure to a risk-bearing arrangement that others must inhabit. A robot's suppression system, reported learning algorithm and automatic delinquent classification later become violent. Utaha's speculation about a cold accountant is not evidence that Yuuka ordered an attack; the machine's classifications are not a valid moral judgment on nearby students. Kotori's raw-attributed intervention at u0106 cannot be replaced by the printed Utaha label, and the printed Kotori description at u0091 has Hibiki as its declared raw text actor. The collective failure can be analyzed without granting Kotori every technical line or imputing a single stable institutional policy to Seminar. Hasumi's priority for evacuation and disabling the machine, Yuuka's limited knowledge and demanded report, and peers' earlier refusal of a rocket remain independent responses. [u0058–0067/0079–0140;declaredactorwitnessesu0091/0106](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md) [u0001–0018](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 70,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 71,
+      "line_sha256": "f5800b02c5d021490b25a183aeffc0e1740d7c3498103843fb568633436bcc32",
+      "line_text": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 72,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 73,
+      "line_sha256": "a449ea762ff254f308ccfc2aaa43364943b6205b308985366a640c395143b149",
+      "line_text": "Kotori's pleasure in explanation is already a wanted life, even when its delivery is badly judged. She imagines listeners approaching voluntarily and a lecture hall filled with willing people, and explicitly likes the happy face of understanding and the excitement that continues between them. Those aspirations do not prove every real listener consents. They do, however, keep the explanation from being automatically understood as a mere instrument for praise or a pathology. The enjoyable can discussion is an achieved experience of what she wants: narrator-valued digressions, nearly an hour of talk and continuing until she is satisfied. Her inference that Sensei secretly intended kindness is still her inference. The pleasure itself does not require that the inferred motive be certified. [16002:002u0041–0053;003u0027–0040/thread160020090](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 74,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 75,
+      "line_sha256": "1e6a7fd26f3068968cc29e75c0af0f7caa3f65eaa03c95e10d44068f49e23cdc",
+      "line_text": "She also likes people and bustle apart from delivering information. At the service desk she says she likes people and offers only simple tasks; after Kotori reports customers leaving, she chooses continued company until Sensei's appointment. The actual empty queue can allow rest without proving that each customer problem was solved. At the stadium she enjoyed the lively occasion despite sports being difficult. At dusk it is the ending of this day, rather than an interchangeable next festival, that gives the moment its value. Crowd pleasure and quiet company are not inconsistent preferences requiring correction. They name different goods under different circumstances, and the text does not make one a mere preparatory stage for the other. [10076:003u0017–0052/thread100760170;006u0011–0065](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 76,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 77,
+      "line_sha256": "431aaecfa00a1da1e5e60602dbd1da589d71a499f000bf3ed54c85ed19bbd111",
+      "line_text": "Rest, food and material attachment broaden that picture. When illness makes her felt explanatory duty exhausting, the later sleep and narrated renewed energy are a benefit; the coda's report of complete revival and embarrassed recollection of an unguarded moment remains a report. At the glasses visit, she has already reported repair before the adult arrives. She talks after hesitation, considers ordinary replacements, then keeps the glasses for an unnamed happy additional effect. The actual chat and light meal close the encounter. The implied pleasure of recognition need not become a known optical mechanism, exclusive romance or proof that she never changes an object. A material object can be kept for a wanted effect that the narration does not fully disclose. [10076:005u0014–0036/thread100760330;16002:015u0013–0056/thread160020380](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 78,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 79,
+      "line_sha256": "73e3a9708337df77d53ff6f0f2ba1333a6e96e529b926b7a6773bd4563848618",
+      "line_text": "The written repertoire adds tastes and conditions without pretending to be a continuous diary. Café crowds and aspirations to public speaking, uncertainty over a question, embarrassment about an outfit and a request not just to stare, pleasure in birthday remembrance, candy limits and concentration all matter. The profile's explanation of machine trouble is not a record of a completed repair. Knowledge as light is explicitly qualified against mere glitter; an explanation being close to an answer can coexist with errors and excessive length. Written special-lobby contexts and fallback labels retain their own structure. The costume's empty profile and thirty-five lines across three context sets add cheering, embarrassment and completion feelings, while the shorter set does not receive lines it lacks. None is promoted into three separately enacted world events. [written10076:6484–6513;written16002:1718–1750 andfallback000001/000002;costume1900917201context817/10817/900817](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 80,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 81,
+      "line_sha256": "eef92a2a2d25f67a0622852edfa211c7edd0eaaa7334d5e9461a1c84e9cdc4b0",
+      "line_text": "The chocolate episode completes an ordinary successful encounter. Kotori initially wants to explain origins, notices the adult may be busy or already know them, and uses a purposefully made old-style chocolate as an embodied account instead. Its historical authenticity is her claim, not an independent food-history finding. She intends to leave quickly, then encounters one of two printed invitations, is surprised and welcomes sharing. The narrator supplies actual delicious shared eating and eventual abundant explanation. Her adaptation changes the approach without abolishing the pleasure of talk. This local fulfillment prevents a synthesis that treats every explanation as rejected or every consideration for somebody else's time as self-erasure. Its success also does not require raising its stakes: sharing a gift, food and time is sufficient. [810:068u0001–0029, choices001/003 andJP/KRqualifications](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 82,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 83,
+      "line_sha256": "f32071b2d7e16d6c695480a1b8f3d5607bec6e77b29b4ba05ff3aaf8f4591bdd",
+      "line_text": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 84,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 85,
+      "line_sha256": "2368215f9fdd837fef78c1da6cd69849b21cd9ef2aa229a899a4ae9daadc6af5",
+      "line_text": "In Pavane's later rescue context, Engineering offers a conditional route through freight infrastructure as part of distributed work. Kotori-like explanations near E012's rescue motives occupy actor-conflicted turns; they cannot certify an individual hidden motive when a line prints Momoi and neighboring roles flip. The useful conclusion is more modest and still substantive: Engineering joins a contingent plan whose direct arrival is then represented, with Game Development, Noa, Yuuka and other helpers retaining independent work. Technical inference becomes practical help, yet calibrated prediction of an invisible route and solitary authorship remain unproved. Kotori's character can be read through participation without repairing disputed labels into a more flattering private cause. [u0047–0082, particularlyu0072–0078](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md) [u0036–0055](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 86,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 87,
+      "line_sha256": "5125ebc03501d4ade3eb0406628541dadef5686321ca98d056a594d8e96bfeb5",
+      "line_text": "Participation has a bodily endpoint. The local weapon defeat and acrobatic placement leave Utaha, Kotori and Hibiki reporting exhaustion and inability to continue. Momoi thanks them and carries on with the remaining party; an adult promise in an inward turn is not a secure spoken assurance to every exhausted recipient. A later unnamed gift belongs to Utaha's route and cannot be connected automatically to a subsequent escape as its sole cause. When Kotori later says suspicious signs prompted the club's return, the renewed help and reworked Avant Garde Mk2 are a real later intervention. Their technical descriptions and Maki's review do not audit every capability, defeat all pursuers or erase the earlier limit. Effort, handoff and return are all meaningful ends. [scene002u0032–0052](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md) [u0078–0084](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E019_DEEP_READING.md) [u0018–0047](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 88,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 89,
+      "line_sha256": "e114ccaa708d77ee6e2b90c27b0b6daa73caf2cedd317023fe22d7b5542fe21d",
+      "line_text": "Event818 offers a different failure of participation. Cheering is valuable to Kotori, but commitment to the race can pull another way; Hanae's useful-care account and Hibiki's question about fun for everyone do not merge into one Engineering doctrine. In the relay, a hurried fuse and testing wish coexist with reluctant runners, meal hopes, prize money, publicity and exhausted safety watch. The represented blast, accusation against Shiroko and machine response do not include a separately shown individual rocket firing. Once the robot classifies nearby students for elimination, the need to disable it and care for people exceeds the original aspiration to encourage. The following episode's evacuation, captives and injured care give actual consequences, while track or engine destruction remains reported at its own scope and total injuries and permanent repair remain open. [u0019–0040](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md) [u0058–0140](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md) [u0001–0018](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 90,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 91,
+      "line_sha256": "296a5fa5d6f60efe16f539e41ec3c384e0b32ee32c59c6e9c3b45a77fe68736b",
+      "line_text": "Final makes knowledge limits public. Kotori's question about Veritas control follows Himari's denial, keeping the AMAS operator unidentified rather than joining all machines to Rio. Engineering's later practical proposal for an input-output manual explicitly stops short of reverse-engineering the unfamiliar vessel's principles. That stance is intellectually significant: use can be attempted without claiming full causal understanding. The proposal is not an already completed manual or verified safe system, and the collective repair and survival ending does not assign Kotori sole authorship or certify every person's recovery. In this scope, crisis behavior joins initiative and explanatory attention to material uncertainty and reliance on other actors; it does not turn the private difficulty of finishing an answer into a universal incapacity to act. [u0001–0014](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md) [u0001–0019](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md) [u0027–0076](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C003_E015_DEEP_READING.md) [L162–175;207–239;310–337](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md)"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 92,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 93,
+      "line_sha256": "01571d49110ce29bdd2ac6c8c8d8ca0dbd7a1aded7f7209e90e61178a368931c",
+      "line_text": "The unresolved tails are part of these endings, not substitutes for them. The club really concedes Alice's possession, arrives to help, reaches exhaustion, returns, and participates in limited practical response. The festival really reaches an opening and later generates evacuation and care. The gift really reaches shared eating. What stays unknown is the unseen test, exact technical audit, full liability, completed later answer or permanent repair. Keeping these separate avoids both a triumphant story that imagines implementation and a skeptical story that deletes everything short of complete closure. [scene003u0001–0014](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md) [u0018–0047](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md) [L78–83](../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [u0001–0018](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md) [u0028–0029](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 94,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 95,
+      "line_sha256": "dce76f5fc47008012ed27d00882f1151d600e9c55404357cce92a175d5b15de5",
+      "line_text": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 96,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 97,
+      "line_sha256": "b35d46ef60f8944c7d8789f2ed6e5d1f76db4774dc03b78772c33d67b235839e",
+      "line_text": "Sensei is several kinds of recipient. In the stretching encounter, Kotori attempts to save time and make her proposal practically useful, but physical pain defeats her planned demonstration. The adult's surprising initial assistance precedes the later explicit help sequence, a distinction that should not be converted into unlimited permission for touching. The narrator's shared stretching and easier movement establish a local benefit. The whole coda then allows her initiative to count as help too. This reciprocity complicates both the embarrassed student's fear of wasting the adult's time and a reading in which the adult simply fixes an incapable dependent. Knowledge, body and relationship each make a contribution without becoming identical competences. [10076:002u0017–0056, choices002/003;wholethread100760010](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 98,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 99,
+      "line_sha256": "6a255b260e0793fc7cfb87ff54571dd0f8c4aa69b350454d0a3cac78e1c06208",
+      "line_text": "At the desk, the adult can benefit from the emptied queue and accept company even though the original vendor, athlete, lost-card, directions and electrician complaints have no shown resolutions. Printed choices differ over unconditional company or company if she is willing; they are not both enacted. Kotori's insistence that her welcome is not merely politeness gives a wanted recipient position rather than reducing her continued stay to duty. In the illness visit, her initial objection to an unrequested arrival coexists with a desire for company and a difficult felt obligation to explain. The adult's inward-labelled substitute account is later taken up as a topic, but its entire wording is not thereby certified as spoken. The achieved rest and later energy retain a benefit without a diagnosis, causal medical proof or perpetual rescue obligation. [10076:003u0002–0052/wholethread100760170;005u0001–0036/wholethread100760330](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 100,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 101,
+      "line_sha256": "3ebb03569a9dc7028a283da807f3cac7b90d2115d452e3ed4b0d6b2735fe7a25",
+      "line_text": "The can discussion makes willing attention visible. Kotori has reported a week of unfinished explanations and listeners fleeing, then tentatively generalizes toward the worthlessness of what she knows. The adult asks for the account and the narrator values the digressions. Continuing until she is satisfied is an actual local ending; her later occasional request does not become a formal unlimited contract for attention. Another printed adult alternative calls ignorance a sin where Kotori herself had said it was not. That disagreement prevents every adult response from functioning as an unquestionable norm. The important distinction is that a chosen conversation can realize her own pleasure, while previous departures remain real limits on a different audience. [16002:002u0009/choice003;003u0001–0040/wholethread160020090](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 102,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 103,
+      "line_sha256": "cc5903c12b25a6ad53fd667d54d74777dba5b7e85c4d7b0a97916997551c1093",
+      "line_text": "The relationship also includes withdrawal and delayed disclosure. The library's narrated non-return is not softened into a completed mutual confession; the secret coda protects an unshared meaning. The rest-space question about hobbies ends with her requested delay until ready, not an answer imposed by adult curiosity. The glasses conversation and meal show another possible reception, yet its happy extra effect is unnamed. At sunset the refusal to explain a feeling is affirmative and need not be corrected. These scenes put a limit on benevolent attention: being interested in Kotori does not entitle a recipient to her immediate full account. The scope does not establish that every withdrawal is kind, that every secret is shame, or that all embarrassment is romantic assent. [16002:005/006/015 andcompletecodas;10076:006u0059–0065](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 104,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 105,
+      "line_sha256": "d46d93db4f7c8fa4721470662f6123f0ce9e313085f33801b1fcdf6116a7eaf1",
+      "line_text": "The chocolate gift gives the adult a chance to receive differently. Kotori changes her planned explanation and prepares a quick departure; a catches/stops alternative and a verbal invitation are printed alternatives, not one fused act. No refusal followed by forced restraint is shown, and no limitless adult availability is promised. Her surprise becomes welcome, followed by actual shared eating and more explanation. The episode permits companionship and adaptation without making Sensei the origin of her tastes, her engineering decisions or all of her self-knowledge. Her club projects, peer disputes and crisis work remain independently enacted relations. [u0001–0029](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md) [1401–1403, noSenseiaction](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md) [noSenseiaction](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 106,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 107,
+      "line_sha256": "86243e1070612ce87b42023e0d693cbbf8e8cb5f17f8d1a38bbf4094605d0ddb",
+      "line_text": "## 8. Major peers and independent recipients"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 108,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 109,
+      "line_sha256": "fd30773ca18686ad4cd4e2b057df34755302bbac59e2fcee9b227f9553bd05bf",
+      "line_text": "Utaha and Hibiki are collaborators whose reasons differ from Kotori's. Utaha's practical permission over the prototype, inference about Alice and tolerance of busy humans losing parts do not become Kotori's beliefs. Hibiki's cautious first pistol offer and warning during indoor firing likewise remain her own. In the food-device project, Kotori supplies specific taste and application ideas; a finished device, later ownership discovery, concealment and Neru's confrontation are shared interactions with exact disputed turns kept visible. This is differentiated company, including collective enjoyment and adverse conduct, rather than a teacher-directed lesson applied to three interchangeable engineers. The separate Engineering ensemble and recipient questions retain their own required homes and are not completed merely by this character synthesis. [scene002u0002–0148](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md) [1401–1403,19declaredactorseams](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 110,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 111,
+      "line_sha256": "093ebf6fe4bf638000e1c6d1df53c4e6c9523f7a330a4e561c23f07ff176767d",
+      "line_text": "Alice makes a choice the engineers do not anticipate. Her request for the named weapon, lift and unsafe discharge are her actions; a game-shaped account is neither a proven combat history nor proof that she lacks agency. Kotori's concern about budget and ceiling damage gives that agency a material and recipient cost without deciding that Alice should never receive a weapon. Kotori's eventual concession follows the test result, while the late condition prevents an idealized image of fully disclosed consent from the start. Momoi initiates the institutional encounter and later thanks the club; Midori's practical explanation and reaction remain distinguishable. Their capacities, priorities and mistakes are not merely effects of Kotori's expertise. [scene001u0002–0011;scene002u0012–0148;scene003u0001–0014](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 112,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 113,
+      "line_sha256": "4d77384df5c2cb76da5e61abc242ff8787707bc155583fb65d74051bb36fee23",
+      "line_text": "Neru and Momoi contest what Engineering does to property and time. Kotori's mistaken early ownership assumption does not make the later withheld disclosure innocent. Neru's refusal of the altered weapon is her own purpose, and threatening retaliation does not settle that purpose as a reasonable final institution rule. Momoi's console allegation and the repair promise have their own unfulfilled tail. Attribution disputes restrict individual motives and Japanese voice claims in several turns without erasing the interaction's demands and refusals. A customer's adverse response is evidence that changes the interpretation of the makers' pleasure, not a disposable comic interruption. [1402u0024–0061;1403u0013–0072](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 114,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 115,
+      "line_sha256": "c9665c46fd50833bfb5ef6d0609c789449fb8414bf083f38a97c9d8316691ad6",
+      "line_text": "Hanae and the festival peers place care beside invention without treating them as identical. Hanae recognizes assistance to participants as valuable; Hibiki retains unease about everyone having fun; Kotori values cheering and also faces a race commitment. Maki's design and Kotama's skirt interest are specific wanted objects. In Event817, only Utaha's requested gakuran is actually completed in the relevant scene; Hibiki's earlier work on her own and Kotori's cheer clothes does not mean that all three new requests were fulfilled. Peer approval does not eliminate Hibiki's embarrassment. In Event818, Ayane's earlier refusal of Shiroko's rocket and Hasumi's later disabling-and-evacuation priority impose constraints that exist independently of Engineering's intentions. [817:006/007;L78–79](../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [u0019–0040](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md) [u0029–0057/0123–0140](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 116,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 117,
+      "line_sha256": "e7bbf9807850d3d6bdb015f2535ea9ad9e2f5d2fa8805be09a29a9ba1948b2e2",
+      "line_text": "Sparse recipients have authority too. The two anonymous students who ask for shorter, restricted talk and leave, the librarian whose glance makes Kotori lower her voice, the anonymous girl whose feelings become a research problem, and clients whose complaints start the desk scene are not just background audiences. They set distinct limits on what she knows about another person and what another person has agreed to hear. Her claim that familiarity makes people flee is a report rather than proof about every absent friend. Preserving these local actors without invented identity joins is necessary to the thesis: mutual understanding cannot be demonstrated only through a favored named recipient who is willing to listen. [16002:002u0017–0030;005u0001–0055;015u0049–0055;10076:003u0002–0035](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 118,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 119,
+      "line_sha256": "ee1a47cb624ca528f8e88aa5105e4157c488c60e2294d7d70a2e9637c9b6d3e4",
+      "line_text": "## 9. Japanese written voice and source-mode limits"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 120,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 121,
+      "line_sha256": "4fc454343cc747e0ff6e0e5641c446648981618f9eaf1867c5aa5b17786daea4",
+      "line_text": "Kotori's written repertoire frequently moves from a question or anomaly toward explanatory foundations, but its moral meaning varies by recipient. 説明 and 提案 distinguish offering an account from proposing an action; causal elaboration does not automatically meet a request for less detail. Her own statement that ignorance is not a sin matters beside the adult alternative that calls it one. 社交辞令 tests whether company is merely polite, お伝えしないと presents a felt duty even during illness, and 今回 rather than a promised 次回 protects this occasion's loss. 言わぬが花, 秘密 and the contrast between readiness and 不明 give silence, secrecy and delay different functions. These are located choices of register and meaning, not performed mannerisms or a fixed rule that she always speaks the same way. [L231–245;10076:003/005/006;16002:002/005/006](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 122,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 123,
+      "line_sha256": "6f72dd7f96b1e7617df3a47e5efc7914fce1546dcfc65d353ef1510d4808afec",
+      "line_text": "The mode distinctions alter what can be said about reciprocity. Some adult lines are explicitly inward-labelled, although Kotori's following response licenses recognition of the topic; this does not make every preceding word secure dialogue. Italic Kotori stretches in the sunset scene lack an explicit inward label, so typography alone cannot certify an inner monologue. Narrator-labelled Korean-log forms in the personal-interest sequence and parenthesized thoughts within named turns preserve different evidentiary access. The actual narrated non-returns, sleep, continued talk, shared stretch and meal are endings at their declared narrative scope, not audio observations. Every printed choice remains an alternative unless its continuation establishes a common represented endpoint. [L213;10076:002/005/006;16002:005/006/015](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 124,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 125,
+      "line_sha256": "fbba764097e93aead8bbeb564187f6f42ebeb287cb05c31afa9765028a864a24",
+      "line_text": "Public actor seams restrict individual voice most sharply. The group argument preserves nineteen discrepancies, including turns moving among Momoi, Kotori, Hibiki, Utaha and Neru. Character-narration can have a communicative function to which somebody responds without proving an impossible claim that nobody heard it. Event818's u0091 prints Kotori but declares Hibiki as its raw text actor, while u0106 prints Utaha but declares Kotori. Pavane's explanatory rescue cluster has role flips, and the weapon encounter contains role/address-impossible labels. These positive witnesses qualify attribution at the exact line; they do not authorize a global registry repair, a fresh runtime reconstruction or a confident idiolect rule built from every printed label. [declared19actorseams](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md) [declaredwitnessesu0091/0106](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md) [u0072–0078](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md) [boundaryandscene002/003anomalies](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 126,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 127,
+      "line_sha256": "8a7d545a6e3c5e2aab2bfdb6dcac5db0833dd4e930c6967f0b8b6c7d0b12a2a6",
+      "line_text": "The gift needs locale limits as well. Japanese frames the chocolate through an origin tradition and rich eventual explanation; Korean describes direct reproduction and an unstoppable explanatory eruption. The opening choice distinguishes hesitation or thankful receipt in Japanese, with different Korean deferral wording. The invitation alternatives retain their own physical/verbal conditions. The shared delicious eating is narrated within the accepted written account; exact performed timing, voice, bodily staging, recipe authentication and the unseen detailed lecture are unavailable. Written profiles, lobby triggers, costume contexts and a title about origins can all contribute meaning without becoming proof of a universal history, a heard performance or an actual causal mechanism. [whole810:068argument,JP/KRparagraphandu0001–0029](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md) [writtencontextandL213–237](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 128,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 129,
+      "line_sha256": "9619f76ce855ae907bcb52ebbd78b51e3321069c833bd29042df733aed297aee",
+      "line_text": "## 10. Competing readings and evidential judgment"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 130,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 131,
+      "line_sha256": "45cd77f32dacc610fd505874245897a1d9e37033b1959a90b23403166aae17b5",
+      "line_text": "A comic account of compulsive over-explanation has serious evidence: recipients directly request limits, explanations outrun simple tasks, Kotori reports fleeing listeners, and a private answer remains unfinished. It fails as a complete reading because it cannot account for her chosen refusal to explain a sunset, explicit readiness-based postponement, guarded secret, pleasing can discussion, purposeful gift adaptation and actual shared meal. A perfect-helper account has the opposite problem. Shared stretching, rest, technical volunteering and ordinary hospitality are real benefits, but no client resolutions, permanent system audit, universal audience consent or fully implemented repair follow merely from them. The synthesis keeps both the benefits and the unfulfilled claims at their actual scopes. [10076:002/003/005/006;16002:002/003/005/006](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [u0011–0029](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 132,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 133,
+      "line_sha256": "901f15c7ee827707d18681ba2150836941942c58febeb91cbf455dd0a0772c8f",
+      "line_text": "An attention-seeking account is plausible where Kotori dreams of a full lecture hall, feels rejected and welcomes sustained listening. It remains an interpretation rather than a total motive verdict. Her explicit pleasure in another person's understanding, attempt to help Sensei rest, concern about wasting time and adapted gift all give reciprocal aims. Equally, a pure self-sacrifice account mistakes every offered explanation for benevolent service and loses her delight in talk, rich food, bustle, making and company. The difficult cases survive either refinement: recipient joy as an ideal does not erase real stop requests, and her pleasure in sharing does not compel another person to continue. The evidence supports an enjoyed social practice with mixed effects, not a hidden motive certified by repetition. [16002:002u0041–0053;003u0027–0040;10076:003u0017–0052](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [1401,foodandprojectpleasure](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 134,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 135,
+      "line_sha256": "78462b76a7af95d0fc471efd06774652302db5d8b4c4323e50c471c0076ba8ff",
+      "line_text": "A technocratic-genius interpretation can cite explanations, prototype specifications, a working sauce device and practical crisis proposals. It cannot turn speaker estimates into measured truth, concealment into recipient permission, opaque-vessel use into full understanding or actor-disputed lines into secure individual expertise. An incompetent-engineer interpretation can cite rushed manufacture, punitive automation, damage and exhaustion. It cannot erase the achieved device, weapon concession, contingent arrival, local victory, return or bounded repair proposal. Technical competence and ethical judgment are separate questions, and a comic register does not make public costs fictitious within the story. Kotori can notice a limit and still participate in conduct whose recipient contests it. [scene002/003](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md) [1402/1403](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md) [u0058–0140](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md) [scene002u0032–0052](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md) [u0001–0019](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 136,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 137,
+      "line_sha256": "a378fa2fd1a71169dfa669d4f69f4e2852b67f506e970dfc9b7553e2e0fa8e5d",
+      "line_text": "A linear reform story is tempting when gift adaptation and chosen silence are placed after rejected audiences. The ordering needed to establish that sequence is not available across variants and event contexts. A no-learning story is equally overbroad: a late concession, a local change of gift approach and her own decisions to delay or withhold are meaningful changes even without a total chronology. The adequate claim is a repertoire capable of situated revision, with continuing cases of poor recipient fit and uncompleted answers. This leaves future comparison possible without predeclaring either universal maturation or permanent failure. [L191–213;10076:006;16002:006](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [scene003u0001–0014](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md) [u0011–0029](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 138,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 139,
+      "line_sha256": "eec9929f59ed93c61aecb3b263b5a24d8a677d1b44aef0a61cab060a1162c130",
+      "line_text": "Romantic confession, adult rescue and institution-only accounts each narrow the available person. The library analogy, gaze embarrassment, kept glasses and wanted company support attachment-related questions, while explicit distinction from the anonymous girl, secrecy, unprinted acceptance and unnamed effects prevent a single certified confession. Adult help and listening supply real local benefits, while Kotori's own initiatives, refusals, requests and independent Engineering relations prevent an adult-origin biography. Institutional work explains public opportunities, costs and safety failures, while birthdays, sweets, bustle, rest and sunset retain goods that institutional function does not exhaust. The strongest joined reading is therefore mutual understanding as something wanted and negotiated, with knowledge, readiness, consent and pleasure remaining distinguishable. [L201–245;completeprivateendings](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [1401–1403](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md) [u0028–0029](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 140,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 141,
+      "line_sha256": "1968cecd91cbacd885c1d740ae1897e26aa40726e7ab442c74277d9f8b26dd72",
+      "line_text": "## 11. Evidence route, open gaps and completeness"
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 142,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 143,
+      "line_sha256": "4f16fbb49f03aadba30f2b4b4ae07de0698723d4ce62aea8f67203468b7964c5",
+      "line_text": "The current private account, all twelve original sole private analytical arguments, the accepted Engineering group, the corrected Event817 argument, selected complete small Event818 and MAIN arguments, adequate prior complete Pavane/Final normal meanings, and the whole small gift810068 argument support this synthesis. Source and saved-output receipts bind exact bytes, paragraph hashes, locators, endings and link targets. Those joins are evidence routes rather than automated proof of every interpretation. Event818's checkpoint was personally received at its current authority/routing L23–40, not as a fresh whole534-line body; its necessary007/009/010 individual arguments have complete separate receiving. A context with no secure Kotori turn supplies collective ending context only. The older producer counts and pending admission labels are historical; Cycle008's current admitted-with-limits authority governs these registered meanings without adding retrospective author, primary or performed credit. [L142–157](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [L23–40currentauthorityonly](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md) [CurrentCycle008authority](../../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md) [Current810normalcomparison](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [CurrentPavaneacceptednormalmeaning](../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md) [CurrentFinalacceptednormalmeaning](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md)"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 144,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 145,
+      "line_sha256": "6f6830b8d37faee439ed8e92eecb32803737575233c18b33eb463c8a5c9f56d4",
+      "line_text": "The body fulfils eleven literary dimensions at this bounded author scope; it does not complete a reconstruction model, predict unseen behavior, close every future source or adjudicate the separately required directed and ensemble homes. ROOT independent receiving and canonical adoption remain pending. Current architecture1.12 retains all eleven section duties, with method1.10 and main2e as a distinct source comparand. Mutable completion metadata is excluded from the literary argument. All fourteen original gaps remain OPEN with their original meanings and the following specific consequences. [Architecture7.1,all11dimensions](../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) [Methodandsourcecustody](../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md) [Originalfourteengaps](../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md) [355/29scopeauthority,allocationnotcompletion](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json)"
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 146,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 147,
+      "line_sha256": "cbc9b644f58419e14da59309137a672edc6ebdaf5b41f7e29fe91c7997e22be8",
+      "line_text": "| Original gap | State | Consequence for this monograph |"
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 148,
+      "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+      "line_text": "|---|---|---|"
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 149,
+      "line_sha256": "cdcdc07c8aa0347b3ec65160182cab01b898290779ced9eb82e50d9bb2d0b5c1",
+      "line_text": "| G01 Ordinary and private breadth | OPEN | The complete selected private repertoire establishes tastes and contrary receptions; it is not all later ordinary Kotori evidence. Unreceived contexts cannot be treated as absence of a wanted life. |"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 150,
+      "line_sha256": "387036cc3c6fdfe388b342af473b687af6ff2617ac2e6046725ce844f64a8339",
+      "line_text": "| G02 Yuuka council/club decision transfer | OPEN | The algorithm analogy and public report demand do not prove Yuuka authored the attack or resolve funding, council authority and all club relations. |"
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 151,
+      "line_sha256": "1f70dd8910cd6c4f6cff22088d779cbf2612205514016864cb42b777c9109ee7",
+      "line_text": "| G03 Serika service, peer and reciprocity range | OPEN | A rocket accusation and shared festival context do not join all Serika service obligations or establish restitution between her and Engineering. |"
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 152,
+      "line_sha256": "7bf75b063eb006c855ae4d12d4bf04fab7fbd8d403123555fdb1863d02c3d82f",
+      "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | OPEN | No full cross-character Hina comparison or Prefect accountability conclusion follows from Kotori's engineering failures and pleasures. |"
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 153,
+      "line_sha256": "4dcae25ac909716e6a5e704e599d8c53061bac3b9738ad34615d50fe3026744b",
+      "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | OPEN | Main collective survival and help do not certify each Arius or PS68 actor's recovery, liability or wanted later life. |"
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 154,
+      "line_sha256": "c35b57f179cbe82ab3e7526505508df41c716db05dfb24b4cbe9cfc61b38f775",
+      "line_text": "| G06 Cross-school ordinary repertoire | OPEN | Hanae, festival peers, local customers and the chocolate recipient have distinct ends; the scope does not establish a school-wide rule about welcome or consent. |"
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 155,
+      "line_sha256": "12b4de44437359afcc8d53c104e54ba496b312bb31d114457773e8c8798e05d2",
+      "line_text": "| G07 Story-world chronology | OPEN | Local orders, Pavane chapters and Final sequence remain legitimate; variant releases and numbered events do not date every bond, costume or gift into a reform arc. |"
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 156,
+      "line_sha256": "3ab44f2ab8da58095977cf4d6a4eb8caa6c2b1c032d91b622b4813ba345b4586",
+      "line_text": "| G08 Event naming and repeat contexts | OPEN | Festival, relay, gift title and repeated costume-context labels remain scoped documentary names; they do not create extra enacted events or certify chocolate history. |"
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 157,
+      "line_sha256": "e4197e9d49761cf67626dea713500fdb4beba1173c25b4cdd208684acaf3d251",
+      "line_text": "| G09 Written speaker/choice attribution | OPEN | Declared group, Pavane and818 actor seams restrict exact individual claims; alternatives, inward turns and italic forms are not silently rewritten or jointly enacted. |"
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 158,
+      "line_sha256": "096b7a8bf4ba2780a49546a5ed2f5b38fb713dbc62251a9f981e71cb50351e40",
+      "line_text": "| G10 Performed voice | OPEN | Japanese wording and locale contrasts support written interpretation only; no heard delivery, sung voice, sound execution or complete runtime staging is received. |"
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 159,
+      "line_sha256": "eedf9276e74d5fe37032609b27d3867fb50f708e2e1323215c5410fc7a784e55",
+      "line_text": "| G11 Hoshino's Yume record and office states | OPEN | Festival publicity and the Final collective endpoint do not settle the separate historical Hoshino/Yume record or its office responsibilities. |"
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 160,
+      "line_sha256": "e5aa53ec927061f4a8c6815d4e24d33ed13e39a17b9ae74620ffdc037945c19f",
+      "line_text": "| G12 Counterpart, system and variant identity | OPEN | Secure Kotori family identity does not join anonymous students, clients or librarian to named people, all AMAS to Rio, or releases to distinct developmental stages. |"
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 161,
+      "line_sha256": "c73b1548d90d83ee8cfbe1e36c93f5f8cde96e432d45a0ff23f7fdb3b2db6cf3",
+      "line_text": "| G13 Office, contract, safety and technical outcomes | OPEN | Budget and specifications are reported; surprise qualification, ownership concealment, rushed fuse, punitive robot, opaque vessel, injury totals and later liability remain specifically uncompleted or unaudited. |"
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 162,
+      "line_sha256": "1fc13332763c02f28b0e803705a6209aa9f6fb27b394a513492caeda310f344b",
+      "line_text": "| G14 Unclassified/mode continuity | OPEN | Bond, whole MomoTalk, written profiles/triggers, costume, GROUP, event and MAIN meanings remain distinct; unclassified or later contexts cannot be filled from a general Kotori persona. |"
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: phase3_character_monograph"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        8,
+        9
+      ],
+      "canonical_lines": [
+        7,
+        6
+      ],
+      "frozen_text": [
+        "generation: V1",
+        "status: author_complete_boundary_root_review_pending"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        13,
+        14
+      ],
+      "canonical_lines": [
+        10,
+        10
+      ],
+      "frozen_text": [
+        "root_acceptance: PENDING",
+        "canonical_adoption: PENDING"
+      ],
+      "canonical_text": [
+        "historical_author_root_acceptance: PENDING"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        16,
+        15
+      ],
+      "canonical_lines": [
+        12,
+        24
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "canonical_publication_base: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        20,
+        20
+      ],
+      "canonical_lines": [
+        29,
+        31
+      ],
+      "frozen_text": [
+        "The required character home is P3-CHAR-KOTORI. The literal family joins 豊見コトリ, variants 10076 and 16002, and costume context 1900917201:character10076; it supplies no release-order growth ladder. This synthesis receives the complete accepted private repertoire and consequential accepted public arguments. It preserves ordinary wants, adverse conduct, disputed actor seams, local endings and unfinished consequences. Literary author completion remains subject to ROOT's independent whole receiving and adjudication. [Current private authority and identity, L142–241](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [Required home, selected P3-CHAR-KOTORI object](../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json)"
+      ],
+      "canonical_text": [
+        "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KOTORI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KOTORI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative after complete ROOT installation. All fourteen original gaps remain OPEN at their claim-specific boundaries. The355-package/29-section scope and existing responsibilities are unchanged. The prior54-package source publication is `5f0a24b56557f308e9cef31c7d1c2d58406ef49a`; ROOT’s successful actual exact-head source/housekeeping/final chain is preserved separately as predecessor proof. This preparation supplies no successor adoption, publication, main integration, quarter, model or performed evidence before complete ROOT installation. Frozen author/control/progress snapshots retain their dated meaning.",
+        "",
+        "The required character home is P3-CHAR-KOTORI. The literal family joins 豊見コトリ, variants 10076 and 16002, and costume context 1900917201:character10076; it supplies no release-order growth ladder. This synthesis receives the complete accepted private repertoire and consequential accepted public arguments. It preserves ordinary wants, adverse conduct, disputed actor seams, local endings and unfinished consequences. ROOT independently received and accepted this complete literary character boundary WITH LIMITS; canonical persistence follows complete ROOT installation. [Current private authority and identity, L142–241](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [Required home, selected P3-CHAR-KOTORI object](../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json)"
+      ]
+    }
+  ],
+  "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+  "terminal_LF_preserved": true,
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-KOTORI",
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+      "bytes": 58396,
+      "sha256": "6a151ab4e7d74addd9a61e337811bc2d73d7662ff808d5f1fc4c1d1edf3375e0",
+      "git_blob_oid_of_actual_bytes": "ee6ff7156dc2539bd46632495315e8508f44f78e",
+      "lines": 151,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "ROOT_KOTORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 12851,
+      "sha256": "aaf31258ecf8e7f923f7ce05eb7015e4336ac8b98fabb65775485b7a02538737",
+      "git_blob_oid_of_actual_bytes": "e4c3576c3332ea35f364c2eb19f35d354c5e0e9e",
+      "lines": 200,
+      "immutable_transport_path": "immutable_originals/ROOT_KOTORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 110593,
+      "sha256": "b90b32cdf8dc31a2be5d7969fa0490fdfa87d73a5fa9f766e99bfdefcc3296bd",
+      "git_blob_oid_of_actual_bytes": "5c8297acdca2d0bfb333e3b1b917ef07ba872ccd",
+      "lines": 1932,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 49355,
+      "sha256": "51de4cef1a3dd3b662267dc3d8a333708be34392760f75d078bbb272952431b9",
+      "git_blob_oid_of_actual_bytes": "4639bdad7267779d6fb98dd9026e55435b5369fb",
+      "lines": 1088,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 2406,
+      "sha256": "e5e7e4d8b05f629b35d66971178fb488bd016d547ea49f1b339d947e85de9e38",
+      "git_blob_oid_of_actual_bytes": "1b8e66309744135888d8d8f54f114913417358e4",
+      "lines": 67,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 11711,
+      "sha256": "cb5e465ea708da2dcc71757c80f2e5dc618381edb0de00169cac0d00e6db5e1f",
+      "git_blob_oid_of_actual_bytes": "bd907a85be283f7bc5963c8581216bc9708eb898",
+      "lines": 232,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "../KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER4_LITERAL_SEMANTIC_CORRECTION_V1.json",
+      "bytes": 1579,
+      "sha256": "3c080748830f1dac5898ead6206f1ec89e658b98724631904ae821bdc80e8edd",
+      "git_blob_oid_of_actual_bytes": "3b5f115a36c8ebd57251b92bdf679419877a510c",
+      "lines": 16,
+      "immutable_transport_path": "immutable_originals/PARENT_WORKING_ATTACHMENT/KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER4_LITERAL_SEMANTIC_CORRECTION_V1.json"
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOTORI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOTORI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only current authority framing/frontmatter, full stable original-gap alignment where necessary and optional retrieval H1 change. All literary claims, original source boundaries, wants, recipient ends and contrary evidence remain. Every frozen original line/byte is recoverable exactly.",
+  "stable_original_gap_alignment": null,
+  "immutable_ROOT_count_cause_qualification": null,
+  "mandatory_private_semantic_erratum_public_projection": {
+    "public_projection": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOTORI_OWNER4_LITERAL_SEMANTIC_CORRECTION_PUBLIC_PROJECTION_V1.json",
+    "original_private_exact_tuple": {
+      "path": "../KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER4_LITERAL_SEMANTIC_CORRECTION_V1.json",
+      "bytes": 1579,
+      "sha256": "3c080748830f1dac5898ead6206f1ec89e658b98724631904ae821bdc80e8edd",
+      "git_blob_oid_of_actual_bytes": "3b5f115a36c8ebd57251b92bdf679419877a510c",
+      "lines": 16,
+      "immutable_transport_path": "immutable_originals/PARENT_WORKING_ATTACHMENT/KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER4_LITERAL_SEMANTIC_CORRECTION_V1.json"
+    },
+    "semantic_projection": {
+      "source_locator": "BA:bond:10076:006:scene:001:u:0011",
+      "old": "enjoyed bustle despite disliking sport",
+      "current": "enjoyed bustle despite finding sports difficult",
+      "reason": "苦手 distinguishes aptitude/difficulty from aversion; no athletic diagnostic or erased pleasure"
+    },
+    "private_original_copied_to_public": false,
+    "current_corrected_body_unchanged": true,
+    "new_source_credit": 0
+  },
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "section_parent_homes": 25,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false
+}

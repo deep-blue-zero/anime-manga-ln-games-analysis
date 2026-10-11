@@ -1,0 +1,1574 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_INPUT_AND_AUTHOR_SCOPE_RECEIPT_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Tsurugi",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "TRINITY_JUSTICE_MONOGRAPHS/TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 25180,
+    "sha256": "c5fa5b4504c436579cc7aa65d2a82a2129f6b8e54d29bebd9b0ae2a47bead185",
+    "git_blob_oid_of_actual_bytes": "2adfce09360028c17cd16e95be42bef75d4aa447",
+    "lines": 467
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_PHASE3_TSURUGI_SOURCE_AND_AUTHOR_SCOPE_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_RECEIVING_PENDING",
+    "created": "2026-10-10",
+    "package": "P3-CHAR-TSURUGI",
+    "candidate": "P3-F142",
+    "dated_route": "P3-A034",
+    "literal_identity": "BA_PERSON_TSURUGI",
+    "variant_routes": [
+      "10013",
+      "16005"
+    ],
+    "main_comparator": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "declared_source_snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+    "HEAD_at_binding": "1dc2092095ed74ee743971f1f274b30cb291d939",
+    "root_worktree_distinction": "Only enumerated small source bindings verified. Current mutable ROOT acceptance/candidate metadata excluded; c1 analytical source and main2e versus later dc5 published state are distinct. No whole worktree equality or current accepted-count audit.",
+    "modern_source_pin": {
+      "repository": "electricgoat/ba-data@jp",
+      "commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "generation": "BA_REFRESH_20260928T032248159554Z",
+      "parser": "0.2.0",
+      "historical_eden_checkpoint_witnesses": "Historical cbe3fd source pin retained by owners, not silently recertified by this author"
+    },
+    "original_producer_provenance": "Accepted small analytical owners retain their own historical source pins. Current byte equality does not recertify all producer fields against the modern pin.",
+    "inputs": [
+      {
+        "source_id": "C01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "worktree_content_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "declared_c1_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "main_blob_oid": "685661b716fd0032997883efeb294425b0816c18",
+        "main_sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+        "main_byte_count": 51287,
+        "same_c1": true,
+        "same_main": false,
+        "inspected_scope": "319–344 exact eleven-section mature character monograph architecture",
+        "receiving_records": [
+          "17488f",
+          "e06654"
+        ],
+        "custody_credit": "CONTROL_SCOPE_RECEIVING",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "C02",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "byte_count": 53414,
+        "line_count": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "worktree_content_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "declared_c1_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "main_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "main_sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "main_byte_count": 53414,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "327–379,485–509,606–639 relevant complete-story, audience/choice, comparison and counterreading requirements",
+        "receiving_records": [
+          "85dec8"
+        ],
+        "custody_credit": "CONTROL_SCOPE_RECEIVING",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "C03",
+        "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "byte_count": 79178,
+        "line_count": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "worktree_content_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "declared_c1_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "main_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "main_sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "main_byte_count": 79178,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "31–44 all 14 literal gap registrations and OPEN boundaries; G13–14 recovered separately",
+        "receiving_records": [
+          "757011",
+          "f0f49c"
+        ],
+        "custody_credit": "CONTROL_SCOPE_RECEIVING",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "C04",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "byte_count": 19463,
+        "line_count": 113,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "worktree_content_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "declared_c1_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "main_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "main_sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "main_byte_count": 19463,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Previously received complete current Cycle008 argument 113 lines; current 3940 contextual admission supersedes producer pending intake without adding primary credit",
+        "receiving_records": [
+          "Frozen Trinity V1 complete control receipt"
+        ],
+        "custody_credit": "CONTROL_SCOPE_REUSE",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "M03",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+        "byte_count": 18854,
+        "line_count": 96,
+        "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+        "worktree_content_blob_oid": "908ea487500b136a1d7753b20f87e8e323acedd0",
+        "declared_c1_blob_oid": "908ea487500b136a1d7753b20f87e8e323acedd0",
+        "main_blob_oid": "908ea487500b136a1d7753b20f87e8e323acedd0",
+        "main_sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+        "main_byte_count": 18854,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Whole1–96; complete25 episode arguments/endpoints/attribution controls Fresh30–75 consequential protection and ending98df5c. Fresh consequential exact Hasumi clauses1d98b8; no original primary credit.",
+        "receiving_records": [
+          "b84f88",
+          "98df5c",
+          "1d98b8"
+        ],
+        "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "G01",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+        "byte_count": 22699,
+        "line_count": 147,
+        "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+        "worktree_content_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04",
+        "declared_c1_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04",
+        "main_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04",
+        "main_sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+        "main_byte_count": 22699,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Whole accepted GROUP1801–1802 argument and literal roster1–147. Initial fresh display clipped; all40–104 and104–147 explicitly recovered, initial1–39 intact. Guest origin qualification, proposed but unshown burning, Tsurugi felt welcome versus peer fear, unknown laugh and caregiver/hostage reports retained. Fresh exact65–119 routing5df7b8/e1e882 distinguishes rescue1801 from clubvisit1802; peer asides versus felt welcome and Hasumi tea proposal retained.",
+        "receiving_records": [
+          "3ae5ee",
+          "0c5067",
+          "cb4dc7",
+          "4c3895",
+          "b3888b",
+          "bb6938",
+          "5df7b8",
+          "e1e882"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_DECLARED_ANALYTICAL_ARGUMENT_SCOPE_REUSE",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E03",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_803/BLUE_ARCHIVE_EVENT_803_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "byte_count": 24308,
+        "line_count": 145,
+        "sha256": "2e39c9ad794d9b38f9a3ea4b3b0b83031f7646a55fd689f11cc1a6fbdb4341b2",
+        "worktree_content_blob_oid": "65f353b920aebe20cf7eb7914cfd26d2ef36ae77",
+        "declared_c1_blob_oid": "65f353b920aebe20cf7eb7914cfd26d2ef36ae77",
+        "main_blob_oid": "65f353b920aebe20cf7eb7914cfd26d2ef36ae77",
+        "main_sha256": "2e39c9ad794d9b38f9a3ea4b3b0b83031f7646a55fd689f11cc1a6fbdb4341b2",
+        "main_byte_count": 24308,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Whole accepted current 145-line comparison through EOF, all21 literary object meanings, complete ordinary wishes/actual cleanup/unfinished Hasumi leave and mode/actor bounds. No primary receiving added.",
+        "receiving_records": [
+          "15f27f"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_COMPARISON_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E18",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 109502,
+        "line_count": 534,
+        "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+        "worktree_content_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66",
+        "declared_c1_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66",
+        "main_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66",
+        "main_sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+        "main_byte_count": 109502,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Prior personally complete literary meanings23–287 and cumulative/roster495–534; fresh complete207–285 argument. Full literal witness annex remains unreceived; no new raw-token audit. Exact actor seams prevent Izuna/Yuuka/Noa clauses from reassignment to Hasumi. Fresh exact argument221/candidate seams cab2b0 keeps Tsurugi refusal of monopoly separate from Mashiro invisible-worker recognition and Hasumi exhilaration.",
+        "receiving_records": [
+          "frozen_Trinity_V1_d5dd5e",
+          "frozen_Trinity_V1_9798ab",
+          "bfbc9b",
+          "cab2b0"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_DECLARED_ANALYTICAL_ARGUMENT_SCOPE_REUSE",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E19",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_819/BLUE_ARCHIVE_EVENT_819_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 33363,
+        "line_count": 152,
+        "sha256": "f985eff72b00b1532d668f6e60534a05351d4cb26dbfff17d187da3e501459e2",
+        "worktree_content_blob_oid": "491b6cab49552fdf4039f496b05c17cc91180b17",
+        "declared_c1_blob_oid": "491b6cab49552fdf4039f496b05c17cc91180b17",
+        "main_blob_oid": "491b6cab49552fdf4039f496b05c17cc91180b17",
+        "main_sha256": "f985eff72b00b1532d668f6e60534a05351d4cb26dbfff17d187da3e501459e2",
+        "main_byte_count": 33363,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Whole accepted 152-line owner through EOF in1–80 and81–152. Complete eleven-object positive and contrary argument/endpoints. Hasumi rejects life-for-life, reported treatment/recovery versus unprinted restitution, opponents escape, actual party and unproved Mine reform. Earlier producer pending states historical.",
+        "receiving_records": [
+          "419d02",
+          "153af0"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_EVENT_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "F00",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 49292,
+        "line_count": 452,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "worktree_content_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "declared_c1_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "main_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "main_sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "main_byte_count": 49292,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Prior complete accepted Final argument received in first Trinity trio; current targeted Hasumi/Tsurugi/Justice query e06654 yields retrieval roster and group-routing paragraph, no new positive Final literary claim and no global absence finding. Bound whole bytes is not fresh whole receiving.",
+        "receiving_records": [
+          "Prior complete first Trinity Final receiving",
+          "e06654"
+        ],
+        "custody_credit": "PRIOR_COMPLETE_ANALYTICAL_ARGUMENT_REUSE_CURRENT_METADATA_ONLY_CHECK",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "T01",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HASUMI_TSURUGI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 65553,
+        "line_count": 516,
+        "sha256": "a21d34d7d07859c2b0ea9f9be7b75c2a0f63405e5ebb229e766e2e7e175ee360",
+        "worktree_content_blob_oid": "6c7516adbba06bc13b715a8edd1020ea237bc3b5",
+        "declared_c1_blob_oid": "6c7516adbba06bc13b715a8edd1020ea237bc3b5",
+        "main_blob_oid": "6c7516adbba06bc13b715a8edd1020ea237bc3b5",
+        "main_sha256": "a21d34d7d07859c2b0ea9f9be7b75c2a0f63405e5ebb229e766e2e7e175ee360",
+        "main_byte_count": 65553,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Prior complete243–516 analytical meanings; fresh complete Tsurugi337–392 and475–516 fc2edc, plus complete393–450 d4954d. All seven private pairs, whole message codas, two profiles and one costume argument received. Hasumi16011 written comparison received without transferring her agency. Repeated timed modes and witnesses add no primary/performance credit.",
+        "receiving_records": [
+          "50704f",
+          "984050",
+          "7b96f7",
+          "41ec9d",
+          "a4eedb",
+          "d4954d",
+          "fc2edc"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_PRIVATE_AND_WRITTEN_ARGUMENT_SCOPE",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E41",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_841/BLUE_ARCHIVE_EVENT_841_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 49903,
+        "line_count": 1656,
+        "sha256": "1964ab85a295573b91336b3971fa833e63458b881e4391d29891cd0b2cb17b46",
+        "worktree_content_blob_oid": "1e179781ef2b0f3e3418aa3c63453eaff3e03a30",
+        "declared_c1_blob_oid": "1e179781ef2b0f3e3418aa3c63453eaff3e03a30",
+        "main_blob_oid": "1e179781ef2b0f3e3418aa3c63453eaff3e03a30",
+        "main_sha256": "1964ab85a295573b91336b3971fa833e63458b881e4391d29891cd0b2cb17b46",
+        "main_byte_count": 49903,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Prior complete all19 event literary meanings/synthesis40–44,665–1656. Fresh complete consequential016 argument949–965 fc2edc: chosen reading/preparation and explicit agreement; successful play, adult-cheering loss of composure, audience interpretation and faint; no clinical recovery/filming permission/upload. Literal full roster remains pending.",
+        "receiving_records": [
+          "frozen_Trinity_V1_0af6dd",
+          "frozen_Trinity_V1_7608f2",
+          "frozen_Trinity_V1_17b0b8",
+          "fc2edc"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_DECLARED_EVENT_MEANINGS_REUSE",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E21",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 28870,
+        "line_count": 157,
+        "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+        "worktree_content_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372",
+        "declared_c1_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372",
+        "main_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372",
+        "main_sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+        "main_byte_count": 28870,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Whole157-line accepted owner throughEOF34140a, complete sixteen literary arguments. Tsurugi004 laughter/preference and reported assistance/readiness not personal victory; native/raw/UNKNOWN seams and other actors retained. Current Cycle008 supersedes producer historical pending intake, no new primary credit.",
+        "receiving_records": [
+          "34140a"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_EVENT_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "L70",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_070_80000070_DEEP_READING.md",
+        "byte_count": 7861,
+        "line_count": 73,
+        "sha256": "163f6207e50a7510ed029c2d94263e7f5e81dd8358281c14b6ea5538c6892c15",
+        "worktree_content_blob_oid": "de534c604e3480d15d3ea4b3587bdd0aa860368b",
+        "declared_c1_blob_oid": "de534c604e3480d15d3ea4b3587bdd0aa860368b",
+        "main_blob_oid": "de534c604e3480d15d3ea4b3587bdd0aa860368b",
+        "main_sha256": "163f6207e50a7510ed029c2d94263e7f5e81dd8358281c14b6ea5538c6892c15",
+        "main_byte_count": 7861,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Whole73-line gift analytical owner87e2b6 throughEOF. All seventeen-unit arguments and five groups: arranged meeting, distinct branch responses, incomplete ki fragment, dropped-chocolate inward pickup/thanks; no heard response/taste/kiss/confession. Historical UNADMITTED/noncurrent production header distinguished from current Cycle008 contextual authority. Raw/control assertions attributed to original producer, no new raw inspection.",
+        "receiving_records": [
+          "87e2b6"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_GIFT_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      }
+    ],
+    "author_review": {
+      "body": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+      "whole_saved_readback": "72d9c0 saved1–76; aab437 saved77–138EOF; final60/102 ee00e7 plus final110/114 c1d9ca.",
+      "literary_verdict": "AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS",
+      "distinct_thesis": "Chosen private media and wanted participation already exist; self-appraisal, conduct and every audience must remain distinct as imagination becomes finite shared experience.",
+      "ordinary_wants": "Films/romance novels, cherished tickets/pamphlets, orderly room, chosen future film, learning a photo task, enjoyed imperfect outing/date, lively beach wish, unconventional play/rest, quiet sea, friendship/craft, guarding others leisure, prepared theatre, incomplete gift expression intrinsic.",
+      "rivals": "Weapon-only and innocence-only; fixed social cure and failure-only; teacher-exclusive and all-help-coercive; mutually comfortable welcome and deliberate deceit. Actual positive/contrary/endpoints retained.",
+      "recipient_and_endpoint_scope": "Hostage harm/compulsory contact/peer anxiety versus felt welcome; train impact/adult pursuit/apology unclosed repairs; failed photo task but enjoyed outing; actual organizing with future viewing; failed first accompaniment then successful unconventional play/fatigue/local sea reappraisal; Christmas guarding/collapse/local recovery/actual party; theatre craft/agreement/success/faint and unprinted recovery; inward valued chocolate with incomplete words/unheard thanks.",
+      "ROOT_literary_receiving": "PENDING",
+      "ROOT_adoption": "PENDING",
+      "independent": false
+    },
+    "all_fourteen_gaps": [
+      {
+        "id": "G01",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G02",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G03",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G04",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G05",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G06",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G07",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G08",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G09",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G10",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G11",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G12",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G13",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      },
+      {
+        "id": "G14",
+        "state": "OPEN",
+        "claim_specific_effect": "Saved134/136 and individual claim register retain actual claim-specific extension limits; no closure."
+      }
+    ],
+    "scope_recovery": "Fresh exact group routing confirms clubvisit1802 and rescue1801; separate frozen Hasumi erratum supplies required derivative correction without changing frozen bytes. Festival source221 distinguishes Tsurugi refusal from Mashiro recognition/Hasumi exhilaration; draft60 corrected before freeze. Airi proposal kept as proposal, not enacted approach. Gift source complete historical producer headers remain separate from Cycle008 authority.",
+    "original_primary_credit_added": 0,
+    "performed_credit": 0,
+    "independent_review_credit": 0,
+    "unbound_large_reads_or_hashes": 0,
+    "repository_or_global_writes": 0,
+    "N_frozen": false,
+    "quarter_claimed": false,
+    "external_handoff": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "current_required_home": "P3-CHAR-TSURUGI",
+  "root_exact_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TSURUGI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "historical_author_delivery_attachments": {
+    "TSURUGI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_TSURUGI_CLAIM_AND_ENDPOINT_V1",
+      "status": "AUTHOR_VERIFIED_ROOT_RECEIVING_PENDING",
+      "claims": [
+        {
+          "claim_id": "TS01",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 30,
+          "joined_saved_paragraph": "In the accepted Eden crisis, Tsurugi and Hinata de-escalate a Justice–Prefect confrontation before the cathedral catastrophe changes the situation. Hasumi and Tsurugi then hold an evacuation rear guard while Hinata physically frees Sensei and other students and rescue teams have separate roles. Later injury reports and responsiveness are distinct states, not a continuous proof of full health. The episodes show effective public responsibility; their significance does not depend on claiming that she could prevent the whole attack or that all rescue was her work. [M03:E006–E018]",
+          "support": [
+            {
+              "source_id": "M03",
+              "accepted_argument_locator": "episodes E006–E018; checkpoint L38/L46",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "De-escalation and rear guard do not establish sole rescue, prevention of whole attack or clinical recovery.",
+          "directed_recipients_and_agency": "Hinata, Hasumi and other rescue actors retain independent acts; Tsurugi injury/responding states separate.",
+          "actual_endpoint_and_unfinished_coda": "Actual protective acts, later injury reports and responsiveness; full recovery unprinted.",
+          "applicable_open_gaps": [
+            "G01",
+            "G04",
+            "G06",
+            "G07",
+            "G09",
+            "G13"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS02",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 32,
+          "joined_saved_paragraph": "GROUP1801 supplies a different public endpoint: a rescue followed by hospital and administrative consequences. The unnamed hostage fears the impending force, the entrance and explosion occur, and subsequent reports describe hospitalized hostages, possible trauma, difficult treatment and a collapsed building's rescue work. Nagisa's sent video orders participation in other clubs tomorrow without exceptions. This is a compulsory day away from normal duty, not freely chosen rest. The plan to learn ordinary loving contact is Nagisa's expectation; the following visits test it without proving a general remedy for either rescue harm or Tsurugi's social problems. [G01:1801:s1:u0002–0019/s2:u0002–0045]",
+          "support": [
+            {
+              "source_id": "G01",
+              "accepted_argument_locator": "1801:s1:u0002–0019/s2:u0002–0045",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Compulsory contact is not freely chosen rest or a successful cure; medical attribution/report not diagnosis or complete causal map.",
+          "directed_recipients_and_agency": "Hostage fears impending force; care workers and Nagisa report outcomes, Mashiro/Hasumi administrative work distinct.",
+          "actual_endpoint_and_unfinished_coda": "Rescue succeeds; hospital/treatment/building and compensation work remain qualified; tomorrow contact ordered.",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G13"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS03",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 34,
+          "joined_saved_paragraph": "The base private pairs reveal why ordinary instructions do not automatically work. A magazine's advice about provocation and distance is interpreted through her familiar enemy-oriented vocabulary, then rejected internally. Hours of failed composition and accidental speech-recognition sending lead to pursuit and an actual train impact. The identification-photo pair shifts progressively away from the task until the teacher admits failure, but Tsurugi appreciates the ordinary outing. Fine-dining atmosphere is staged as a date experience and ends with narrated enjoyment, while panic and unpreparedness remain. These are different attempts at participation, not three successful steps in a standardized romance curriculum. [T01:10013:002/003/005, whole message endings]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "10013:002/003/005 whole arguments/codas",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Manual instruction is not fixed cure; enemy-provocation thought rejected not attack; alternatives not jointly realized.",
+          "directed_recipients_and_agency": "Wanted learning/date and adult pursuit/imperfect instruction both retained.",
+          "actual_endpoint_and_unfinished_coda": "Train impact, failed photo task with enjoyed outing, narrated date enjoyment with panic.",
+          "applicable_open_gaps": [
+            "G01",
+            "G07",
+            "G09",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS04",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 36,
+          "joined_saved_paragraph": "The film collection makes an important revision to an ignorance-only account. She has cherished media and an orderly room already; she often watches alone because she does not want to force others. When a shared invitation arrives, she explicitly checks whether it is real and the adult's alternatives leave solitude available. They begin organizing together and discuss a future choice. Actual organization and wanted future viewing are meaningful; attendance at the later screening is still unshown. Inclusion works here by asking and adjusting to an existing interest, rather than supplying her first capacity for feeling. [T01:10013:020]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "10013:020 whole100130210/tail080–220",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Collected objects not diagnosis; invitation not unlimited access; future screening unshown; no imported real film plots.",
+          "directed_recipients_and_agency": "Her existing hobby, solitude to avoid imposing and explicit invitation check; adult alternatives allow privacy.",
+          "actual_endpoint_and_unfinished_coda": "Actual organizing begins and continuing joy; later chosen film remains future.",
+          "applicable_open_gaps": [
+            "G01",
+            "G07",
+            "G09",
+            "G12",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS05",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 38,
+          "joined_saved_paragraph": "Summer follows a locally connected sequence without fixing its position against the base pairs or public events. A wanted crowded, novel-like beach becomes a place where tourists retreat and Tsurugi remains alone. The adult knows more about the presumed ghost than he tells her, and his romantic two-person reframing ends with him alone. Later dangerous beach-ball play is abandoned for an unconventional successful frisbee practice, followed by fatigue and a positive message coda. At the sea she finally assesses the experiences as enjoyable and values coming together, despite their mismatch with a novel's ideal. This is local reappraisal, not the permanent disappearance of nervousness, violent conduct or audience fear. [T01:16005:002/003/005]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "16005:002/003/005 whole paired endings",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Ghost unverified; no tourist return; unconventional play not inherently coercive; no permanent social cure.",
+          "directed_recipients_and_agency": "Strangers fear, her mistaken explanation, adult withholding and activity change retain different knowledge.",
+          "actual_endpoint_and_unfinished_coda": "First failed accompaniment; actual frisbee pleasure/rest; quiet local appraisal and future wanted trip.",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS06",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 46,
+          "joined_saved_paragraph": "Her own view is not interchangeable with the reader's access. In GROUP1802, the Sweets peers have parenthesized fears, Airi proposes approaching and Kazusa checks an imagined threat of being eaten. Tsurugi later says it was fun and she felt welcomed. No actual eating threat or attack occurs, and the asides do not prove that she heard the peers' apprehension. Her happiness is not a knowingly false account merely because the reader sees unequal experience. Conversely, her report cannot prove reciprocal comfort. Mashiro's question and Hasumi's relief retain the disagreement between individual feeling and a group's reception. [G01:1802:s1:u0034–0062/s2:u0002–0021]",
+          "support": [
+            {
+              "source_id": "G01",
+              "accepted_argument_locator": "1802:s1:u0034–0062/s2:u0002–0021",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Felt welcome is not mutual comfort; asides do not prove she heard fear; no actual eating threat or deliberate lie.",
+          "directed_recipients_and_agency": "Airi proposes approach, Kazusa checks fear, others anxious, Mashiro questions reciprocity and Hasumi relieved.",
+          "actual_endpoint_and_unfinished_coda": "Tsurugi reports actual pleasure; peers apprehension remains independently meaningful.",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G13"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS07",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 50,
+          "joined_saved_paragraph": "Privacy is an affirmative practice too. She avoids imposing her preferred films, checks the invitation and can choose what a later joint visit might be. Written waiting, readiness to help and happiness in company coexist with an inward wish to go home. These are not contradictions that must be forced into either total rejection or limitless access. They describe different contexts and demands. Her interests and boundaries remain legitimate even when she cannot always articulate them smoothly or when other people misread her expression. [T01:10013:020; 10013/16005 written clauses]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "10013:020;10013/16005 written",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Readiness/happiness and inward desire home not full rejection or unlimited availability; capability-limited offer not total consent.",
+          "directed_recipients_and_agency": "Her preferred film/private room and other recipients retain choice.",
+          "actual_endpoint_and_unfinished_coda": "Actual checked invitation/organization; future viewing and address-conditioned promises unprinted.",
+          "applicable_open_gaps": [
+            "G01",
+            "G07",
+            "G09",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS08",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 54,
+          "joined_saved_paragraph": "Tsurugi's institutional force is sometimes useful and sometimes costly, with other actors managing consequences. De-escalation and the rear guard are actual protective work. The hostage account includes unknown opening laughter strongly associated with the following entrance, but that association does not assign those utterances conclusively. Medical and administrative witnesses then qualify the result: hospitalization, possible trauma, treatment reports and compensation processing are not all a completed restitution audit. Mashiro's argument that damage cannot always be zero is not automatic justification for its degree. Responsibility includes asking what happened to protected people, not only whether an enemy was defeated. [M03; G01:1801]",
+          "support": [
+            {
+              "source_id": "G01",
+              "accepted_argument_locator": "1801 complete;unknown u0015–0016",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "M03",
+              "accepted_argument_locator": "E006–E018",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Unknown laughter association not definitive join; reports not clinical/compensation/force audit; nonzero damage argument not automatic justification.",
+          "directed_recipients_and_agency": "Named institutional peers and generic hostage/gang remain separate; affected people actual recipients.",
+          "actual_endpoint_and_unfinished_coda": "Actual protective action and reported rescue harms; unprinted restitution and full recovery.",
+          "applicable_open_gaps": [
+            "G06",
+            "G07",
+            "G08",
+            "G09",
+            "G12",
+            "G13"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS09",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 56,
+          "joined_saved_paragraph": "Hasumi's role alongside her is more complicated than a deputy compensating for pure incompetence. The sports profile explains Hasumi's external responsibilities through Tsurugi's difficulty with them. Christmas reveals that Hasumi has also used Tsurugi's intimidation in hard venue negotiations. Tsurugi's fearsome presence can therefore become an instrument even when she wants ordinary contact; the method is expressly challenged by Mine. At the party Tsurugi worries that merely sitting will make others tense, chooses an easier outside location and offers Mashiro relief. Those are her own practical adjustments, not a demonstrated inability to enjoy leisure or an automatic banishment by the group. [T01:Hasumi16011 written; E19:006–007]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "Hasumi16011 written; checkpoint L372–L373",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E19",
+              "accepted_argument_locator": "006–007",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Intimidation challenged; external-responsibility accommodation not replacement of commander identity; outside choice not automatic exclusion.",
+          "directed_recipients_and_agency": "Hasumi deploys presence; Mine objects; Tsurugi chooses easier guard position and offers relief.",
+          "actual_endpoint_and_unfinished_coda": "Real guard shift and negotiation account; no universal party comfort or harmless method.",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G13"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS10",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 58,
+          "joined_saved_paragraph": "Protecting rare rest is a wanted public purpose. When Mine interrupts the guards' explanation and frames force as rescue, Tsurugi defends the party and Mashiro voluntarily refuses to leave her alone. Mine gives her own juniors legitimate alternatives, and their subsequent choices remain theirs; neither institution is one uniform mind. After the conflict, Tsurugi recovers enough to join renewed action, then gives a nonlexical reply which Hasumi interprets as acceptance of proportional settlement and welcome. This supports local cooperation without a complete verbalized assent, universal approval of the methods or permanent correction of Mine. [E19:005–011]",
+          "support": [
+            {
+              "source_id": "E19",
+              "accepted_argument_locator": "005–011",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Mine junior alternatives not orders forcing all; Hasumi interpretation not fully verbalized Tsurugi assent; no lasting reform.",
+          "directed_recipients_and_agency": "Mashiro voluntary defense, Tsurugi protects rare rest, juniors own choice and treatment.",
+          "actual_endpoint_and_unfinished_coda": "Tsurugi later recovers enough to join; actual party with continuing doubts.",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G13"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS11",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 60,
+          "joined_saved_paragraph": "The athletic-festival argument adds Tsurugi's refusal of monopoly and attention, alongside Mashiro's wish that less visible work be recognized and Hasumi's actual relay exhilaration. Her institutional affiliation does not absorb those peers' experiences into her own thought, but the different members' actions make room for more than victory and command. The broader coalition's mustache banter likewise gives Tsurugi laughter amid operational readiness; recognized assistance and future commands are not a personally completed victory. A public role contains ordinary preferences and finite decisions without every pleasure becoming a symbol of combat. [E18:012:s2:u0005–0050; E21:004]",
+          "support": [
+            {
+              "source_id": "E18",
+              "accepted_argument_locator": "episode012:s2:u0005–0050; checkpoint L221",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E21",
+              "accepted_argument_locator": "episode004; checkpoint L98",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Tsurugi refusal distinct from Mashiro recognition and Hasumi exhilaration; banter/readiness not personally completed victory.",
+          "directed_recipients_and_agency": "Different peers preserve individual measures of value; coalition laughter has ordinary value.",
+          "actual_endpoint_and_unfinished_coda": "Refusal of monopoly and actual relay context; reported assistance, renewed battle commands prospective.",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G13"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS12",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 66,
+          "joined_saved_paragraph": "The photo outing is valuable precisely without a successful ID product. She wants to learn because a Trinity teacher needs an identification photo, reports a prior destructive attempt and follows increasingly unsuitable advice about lighting, expression, a partly hidden face and night scenery. Ghost-like pictures result, and the adult admits he has not been useful for the task. Tsurugi nevertheless thanks him for a taste of adult leisure and leaves brighter. An app-processed image reference and compliments in the message coda do not show inspected pixels or official submission acceptance. Practical failure need not make the entire experience meaningless, while enjoyment must not certify the photo. [T01:10013:003]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "10013:003 whole100130050 and MM307–316",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Prior building destruction report not new event; app image not inspected pixels; no certified official photo acceptance.",
+          "directed_recipients_and_agency": "She seeks instruction; adult admits practical failure; her positive appraisal remains own.",
+          "actual_endpoint_and_unfinished_coda": "Ghostlike results and teacher apology; enjoyed outing/brighter departure; submission uncertain.",
+          "applicable_open_gaps": [
+            "G01",
+            "G07",
+            "G09",
+            "G10",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS13",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 68,
+          "joined_saved_paragraph": "Fine dining is another wanted experiment, not proof of settled romantic competence. She asks about sparkling romance after questioning whether patrols and protection suffice for youth. The adult has vouchers and deliberately stages a date-like atmosphere. The attendant's height and night-view description remains represented hospitality. Timed thoughts of escape, death or killing are quickly repudiated amidst panic; no jump or attack is enacted. Narration closes with an enjoyable adult-date experience, but does not itemize every meal or grant consent to every intimacy. Her unpreparedness is part of the same experience, rather than a defect erased by its happy ending. [T01:10013:005]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "10013:005 whole100130150",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "No enacted jump/killing/clinical suicidality; narrated enjoyment not every meal item or blanket intimacy consent; attendant height claim not external audit.",
+          "directed_recipients_and_agency": "She wants youth/romance, adult vouchers/atmosphere; panic and unpreparedness retained.",
+          "actual_endpoint_and_unfinished_coda": "Actual narrated enjoyed date experience; formal romance status unprinted.",
+          "applicable_open_gaps": [
+            "G01",
+            "G07",
+            "G09",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS14",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 70,
+          "joined_saved_paragraph": "The two summer attempts distinguish recognizable convention from actual pleasure. Beach-ball force causes dangerous impact; the adult acknowledges a hole and danger, retries, then changes the activity. The frisbee practice succeeds by catch and return, including carrying back rather than ordinary reciprocal tossing. It is unusual without therefore being coercive. Tsurugi asks for another turn, breathes hard and accepts rest; the adult's slipped throw and later deliberate long throws are different acts. Tight-swimsuit uncertainty is stated, not inspected anatomy, and later messages report satisfying enjoyment. No secure injury count, tourist return or universal safe-play technique follows. [T01:16005:003]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "16005:003 whole16005110/tail300–330",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "No injury count/tourist return/universal safe play; swimsuit uncertainty not inspected anatomy; timed repeats not second incident.",
+          "directed_recipients_and_agency": "Her requested continuation and accepted rest; adult slipped throw, retry, deliberate throws and activity change separate.",
+          "actual_endpoint_and_unfinished_coda": "Dangerous ball impact; successful catch-and-carry frisbee, fatigue and positive message afterstate.",
+          "applicable_open_gaps": [
+            "G01",
+            "G07",
+            "G09",
+            "G10",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS15",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 72,
+          "joined_saved_paragraph": "Quiet sea-watching is a completed pause. She admits having no task, mixed loneliness and pleasure, and worry that her experiences failed to match the novel. The adult's alternative responses validate her experience rather than force exact conformity. She gradually says it was enjoyable and that coming together mattered; the whole coda says she could answer a future question about enjoyment and conditionally wants another occasion. Neither a return-home conversation nor the next trip is shown. Her wanted life can therefore include a quiet perception and an altered appraisal rather than only successful performance for an audience. [T01:16005:005]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "16005:005 whole16005210/tail16005450–16005530",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "No completed home conversation/next trip/permanent cure; either adult reassurance branch not compound script.",
+          "directed_recipients_and_agency": "She compares imagined novels with lived pleasure and wanted company independently.",
+          "actual_endpoint_and_unfinished_coda": "Actual quiet viewing/local enjoyable appraisal; conditional future occasion.",
+          "applicable_open_gaps": [
+            "G01",
+            "G07",
+            "G09",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS16",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 80,
+          "joined_saved_paragraph": "Her own vulnerabilities remain material. Continued flight in the first private encounter ends in an actual train impact and an approximately ten-metre throw, followed by standing and another collapse sound after explanation. The adult's assessment of sturdiness is not a clinical examination. He reassures and pats her, warns about crossings and apologizes to an affected station employee; that apology is real but does not establish compensation, repair or absence of service harm. Pursuit's comic ending remains a safety and recipient problem, not a harmless lesson because she can stand. [T01:10013:002]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "10013:002 whole100130010/u0024–0026/u0065–0076",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Standing after train impact not universal invulnerability/medical clearance; apology not compensation/service-repair proof.",
+          "directed_recipients_and_agency": "Adult pursuit and accountability, Tsurugi flight/apology, affected station employee retained.",
+          "actual_endpoint_and_unfinished_coda": "Train impact/throw and later collapse sound; warning/pat/employee apology, no further recovery coda.",
+          "applicable_open_gaps": [
+            "G01",
+            "G07",
+            "G09",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS17",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 82,
+          "joined_saved_paragraph": "Christmas distinguishes collapse from combat defeat. Tsurugi loses consciousness after seeing the teacher and her own embarrassed account; comparisons from other characters are not a diagnosis. She later recovers enough to join, which is an actual local change. The delinquents subsequently escape, treatment is reported and Hasumi rejects extreme repayment, bringing people back to an actual party. Tsurugi's lingering doubt about Mine's reform does not cancel local welcome, just as a good party cannot settle every earlier injury or the opponents' fate. Protective work, social vulnerability and ordinary rest coexist rather than replacing one another. [E19:007–011]",
+          "support": [
+            {
+              "source_id": "E19",
+              "accepted_argument_locator": "007–011",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Embarrassment collapse not diagnosed combat defeat; local recovery not permanent cure; escape and restitution unclosed.",
+          "directed_recipients_and_agency": "Tsurugi own reaction, other comparative language, juniors treatment and Hasumi proportional forgiveness distinct.",
+          "actual_endpoint_and_unfinished_coda": "Recovers enough to act, actual party, peers still doubt Mine reform.",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G13"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS18",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 84,
+          "joined_saved_paragraph": "The theatrical ending tests a different form of crisis competence. She knows the whole script through chosen reading and preparation, initially declines a stage role because she expects to frighten people, then explicitly agrees to try after a reported injury prevents the princess actor's performance. She performs well until Sensei's cheering unsettles her. Wild Hunt viewers interpret the outburst as expressionism and applause spreads; the narrator records a successful play and a curtain-call faint. Audience reinterpretation is not proof of her intended artistic method, and support partly precipitates the difficulty. The original actor's injury and Tsurugi's later recovery remain qualified rather than silently cured by applause. [E41:016:s1:u0001–0189]",
+          "support": [
+            {
+              "source_id": "E41",
+              "accepted_argument_locator": "episode016:s1:u0001–0189; checkpoint L949–L965",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Audience expressionism not intended method; reported actor injury/recovery qualified; no filming permission/upload/view increase.",
+          "directed_recipients_and_agency": "Existing chosen script craft, explicit agreement, peer encouragement and adult cheering; Tsukuyo/Michiru own wants separate.",
+          "actual_endpoint_and_unfinished_coda": "Successful play, loss of composure/applause and curtain-call faint; clinical recovery unprinted.",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G13"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS19",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 94,
+          "joined_saved_paragraph": "The gift encounter preserves both failed speech and a positive object. Sensei arrives early at their arranged classroom meeting; alternative prompts receive different responses. Tsurugi apologizes, struggles to introduce the occasion and begins きっ before another cry. The final inward record represents the dropped chocolate being picked up and thanks being given. The intended presentation is valued, but heard thanks, tasting, a completed declaration and a departure route are unprinted. Imperfect communication still communicates a wanted meeting and gesture. Refusing to fill the missing words preserves that value more accurately than calling the scene either a full confession or meaningless noise. [L70:s1:u0001–0017, all five formal groups]",
+          "support": [
+            {
+              "source_id": "L70",
+              "accepted_argument_locator": "whole;s1:u0001–0017/all five groups",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Incomplete ki is not reconstructed kiss/book/confession; inward pickup/thanks not necessarily heard; no tasting/departure route.",
+          "directed_recipients_and_agency": "Her arranged meeting and attempted expression, adult early arrival and valued receipt; alternatives distinct.",
+          "actual_endpoint_and_unfinished_coda": "Dropped chocolate picked up in inward action record and thanks represented; speech unfinished.",
+          "applicable_open_gaps": [
+            "G01",
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS20",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 100,
+          "joined_saved_paragraph": "Mashiro offers a practical peer relation distinct from the adult's. Tsurugi proposes taking her guard shift because outside feels easier, and Mashiro temporarily accepts. When conflict develops, Mashiro voluntarily refuses to leave her senior alone. In the group comparison she asks whether the Sweets peers shared Tsurugi's felt welcome, rather than simply denying the feeling. These acts show reciprocal relief, chosen solidarity and attention to another audience. They neither prove identical leisure preferences nor make guarding an absence of private life. [E19:006:s2:u0003–0059; G01:1802:s2]",
+          "support": [
+            {
+              "source_id": "E19",
+              "accepted_argument_locator": "006:s2:u0003–0059",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G01",
+              "accepted_argument_locator": "1802:s2",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Guard pleasure not lack of leisure; solidarity voluntary, not total mental unity or identical preferences.",
+          "directed_recipients_and_agency": "Tsurugi offers Mashiro shift; Mashiro accepts then chooses defense and later questions Sweets reciprocity.",
+          "actual_endpoint_and_unfinished_coda": "Actual temporary relief and mutual practical care; audience comfort still qualified.",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G13"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS21",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 104,
+          "joined_saved_paragraph": "Hifumi, Azusa and the summer participants have wishes which Tsurugi's force does not substitute for. Hifumi wants the tank and sea experience, Azusa encounters the sea and Mashiro revises an ordinary plan; Tsurugi's own friendship and sandcastle/company questions are not automatically fulfilled by joining them. The aftermath retains exhausted driving and cleanup rather than a flawless vacation. At the later creative festival, Tsukuyo accepts a tree role while retaining disappointment, Michiru wants reaction videos with filming permission still to be sought, and Justice peers help encourage Tsurugi's role. Each contributes a different wanted activity or limitation rather than supplying a uniform audience for her growth. [E03:001–021; E41:016]",
+          "support": [
+            {
+              "source_id": "E03",
+              "accepted_argument_locator": "all21 whole comparison;001/003/013/015",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E41",
+              "accepted_argument_locator": "016",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Joining outing not every friendship/craft wish fulfilled; play success not consent to filming or uniform peer desires.",
+          "directed_recipients_and_agency": "Hifumi/Azusa/Mashiro individual wishes and cleanup; Tsukuyo disappointment/tree acceptance; Michiru filming request future.",
+          "actual_endpoint_and_unfinished_coda": "Actual sea/company and successful play alongside uncertain uptake, fatigue and unprinted filming permission.",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G13"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS22",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 110,
+          "joined_saved_paragraph": "Fragmented typing, repeated laughter and the formal 拝具 sign-off belong to a mixed register. Formal apology can follow accidental sending; excitement can accompany a treasured hobby, fear, embarrassment or uncertainty. The same written laugh is therefore not invariant happiness, a threat or heard acoustic pathology. Enemy-directed provocation in the magazine discussion is an internally rejected interpretation, not an enacted attack on the adult. Youth vocabulary and comparison with novels expose a wanted standard she can later revise locally, while preserving the actual experiences instead of treating the printed fiction as an instruction manual she always obeys. [T01:10013:002/020; 16005:005; T01:checkpoint:L393–L399]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "10013:002/020;16005:005; checkpoint L393–L399",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Written laughter not invariant happiness/threat/acoustic pathology; rejected enemy interpretation not act; novel not universal prescriptive authority.",
+          "directed_recipients_and_agency": "Mixed formal/fragmented address retains speaker and recipient differences.",
+          "actual_endpoint_and_unfinished_coda": "Actual apology and local appraisal; future signoff/request not completed trip.",
+          "applicable_open_gaps": [
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS23",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 114,
+          "joined_saved_paragraph": "The two profiles preserve films and romance novels as interests, literal age/year/birthday/height fields and different presentation emphases. They do not date a universal development sequence. Base lobby lines combine readiness, conversational difficulty, wanted help and mixed comfort; summer lines include uncertainty about occupying ordinary space and feeling less settled than on a battlefield. Holiday wishes, gratitude and future availability retain address conditions. A weapon line's laughter is no power invariant or accomplished deployment. The named dining and summer-rest Special clauses contextualize repeated timed passages without creating second incidents or performed voice. [T01:checkpoint:L367/L384–L391]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "checkpoint L367/L384–L391",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Profile fields not timeline; Special repeats not second encounters or performance; promises/weapon laughter not power invariant.",
+          "directed_recipients_and_agency": "Her films/novels/wanted help and ordinary discomfort retained in literal modes.",
+          "actual_endpoint_and_unfinished_coda": "Written interests and context-bound wishes; future outcomes unproved.",
+          "applicable_open_gaps": [
+            "G01",
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G12",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS24",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 116,
+          "joined_saved_paragraph": "The single costume object has an empty profile and twenty-four event-lobby lines across three repeated contexts. Swimsuit questions and inward panic are meaningful written evidence; sortie declarations are readiness, not three completed plots. Presentation can expose vulnerability without exposing pixels or audible delivery here. Repeated contexts do not multiply people, experiences, source credit or official event completion. The ordinary written repertoire complements private and public arguments while keeping their mode boundaries intact. [T01:1900900701]",
+          "support": [
+            {
+              "source_id": "T01",
+              "accepted_argument_locator": "1900900701 complete written scope",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Empty profile not biography; repeated803/10803/900803 not three plots/deployments/persons; no inspected pixels/audio.",
+          "directed_recipients_and_agency": "Swimsuit inward concern and conditional readiness retain addresses.",
+          "actual_endpoint_and_unfinished_coda": "Twenty-four written lines provide vulnerability and interest; sortie only declaration.",
+          "applicable_open_gaps": [
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G12",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "TS25",
+          "saved_monograph": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "saved_line": 126,
+          "joined_saved_paragraph": "A reciprocal-welcome reading is weaker than Tsurugi's felt-welcome claim because the Sweets peers' experience is also printed. A knowingly deceptive reading is weaker because their thoughts do not prove what she hears. Similarly, Wild Hunt's expressionist reading is not her intended method merely because the play succeeds. The crucial distinction is among self-report, action, audience interpretation and institutional result. It lets literature retain multiple experiences without discarding the less comfortable recipient or withdrawing the character's real pleasure. [G01:1802; E41:016]",
+          "support": [
+            {
+              "source_id": "G01",
+              "accepted_argument_locator": "1802 whole",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E41",
+              "accepted_argument_locator": "016 whole argument",
+              "exact_tuple_home": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Self-report, reader asides and audience interpretation cannot substitute for one another; successful play not intended expressionist plan.",
+          "directed_recipients_and_agency": "Tsurugi real pleasure, anxious peers and interpreting viewers all legible.",
+          "actual_endpoint_and_unfinished_coda": "Felt welcome and successful play preserved beside unequal comfort and faint.",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete relevant accepted analytical arguments received at declared scopes and saved paragraph read wholly; original producer custody remains attributed.",
+          "ROOT_review": "PENDING"
+        }
+      ],
+      "eleven_headers": [
+        "## 1. Core thesis",
+        "## 2. Longitudinal arc",
+        "## 3. Public and private self",
+        "## 4. School and club role",
+        "## 5. Ordinary life",
+        "## 6. Crisis behavior",
+        "## 7. Relationship with Sensei",
+        "## 8. Major peer relationships",
+        "## 9. Language and written voice",
+        "## 10. Competing readings",
+        "## 11. Evidence route and remaining limits"
+      ],
+      "complete_saved_body_readback": "72d9c0 saved1–76; aab437 saved77–138EOF; final60/102 ee00e7 plus final110/114 c1d9ca",
+      "all14gaps": "OPEN",
+      "counts_not_completion_proof": true,
+      "original_primary_or_performed_or_independent_credit_added": 0,
+      "ROOT_literary_review": "PENDING",
+      "N_or_quarter_claimed": false
+    },
+    "TSURUGI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_TSURUGI_SAVED_OUTPUT_V1",
+      "status": "FROZEN_AUTHOR_DELIVERY_ROOT_RECEIVING_PENDING",
+      "created": "2026-10-10",
+      "HEAD_at_final_recheck": "1dc2092095ed74ee743971f1f274b30cb291d939",
+      "outputs": [
+        {
+          "file": "BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 34017,
+          "line_count": 138,
+          "sha256": "61d95223a1cc99e69dbbe4dd0d360511d0e1e62dfbf24f95307e8c85a18cb5a2",
+          "worktree_content_blob_oid": "bca829611671ed088dc212339b226b2db55abd08",
+          "utf8_lf_no_bom": true,
+          "below_1MiB": true,
+          "public_path_scan": "PASS"
+        },
+        {
+          "file": "TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 25180,
+          "line_count": 467,
+          "sha256": "c5fa5b4504c436579cc7aa65d2a82a2129f6b8e54d29bebd9b0ae2a47bead185",
+          "worktree_content_blob_oid": "2adfce09360028c17cd16e95be42bef75d4aa447",
+          "utf8_lf_no_bom": true,
+          "below_1MiB": true,
+          "public_path_scan": "PASS"
+        },
+        {
+          "file": "TSURUGI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 48919,
+          "line_count": 695,
+          "sha256": "841ac3f719edaabfdf74c92e638e73f5b9b105e8f24d6b117306f194f4d2729b",
+          "worktree_content_blob_oid": "c69ea13ba9777b8bbd5bfaa694fd62735491c8c5",
+          "utf8_lf_no_bom": true,
+          "below_1MiB": true,
+          "public_path_scan": "PASS"
+        }
+      ],
+      "source_rechecks": [
+        {
+          "source_id": "C01",
+          "unchanged": true,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "worktree_content_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+        },
+        {
+          "source_id": "C02",
+          "unchanged": true,
+          "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+          "worktree_content_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+        },
+        {
+          "source_id": "C03",
+          "unchanged": true,
+          "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+          "worktree_content_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+        },
+        {
+          "source_id": "C04",
+          "unchanged": true,
+          "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+          "worktree_content_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+        },
+        {
+          "source_id": "M03",
+          "unchanged": true,
+          "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+          "worktree_content_blob_oid": "908ea487500b136a1d7753b20f87e8e323acedd0"
+        },
+        {
+          "source_id": "G01",
+          "unchanged": true,
+          "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+          "worktree_content_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04"
+        },
+        {
+          "source_id": "E03",
+          "unchanged": true,
+          "sha256": "2e39c9ad794d9b38f9a3ea4b3b0b83031f7646a55fd689f11cc1a6fbdb4341b2",
+          "worktree_content_blob_oid": "65f353b920aebe20cf7eb7914cfd26d2ef36ae77"
+        },
+        {
+          "source_id": "E18",
+          "unchanged": true,
+          "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+          "worktree_content_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66"
+        },
+        {
+          "source_id": "E19",
+          "unchanged": true,
+          "sha256": "f985eff72b00b1532d668f6e60534a05351d4cb26dbfff17d187da3e501459e2",
+          "worktree_content_blob_oid": "491b6cab49552fdf4039f496b05c17cc91180b17"
+        },
+        {
+          "source_id": "F00",
+          "unchanged": true,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "worktree_content_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622"
+        },
+        {
+          "source_id": "T01",
+          "unchanged": true,
+          "sha256": "a21d34d7d07859c2b0ea9f9be7b75c2a0f63405e5ebb229e766e2e7e175ee360",
+          "worktree_content_blob_oid": "6c7516adbba06bc13b715a8edd1020ea237bc3b5"
+        },
+        {
+          "source_id": "E41",
+          "unchanged": true,
+          "sha256": "1964ab85a295573b91336b3971fa833e63458b881e4391d29891cd0b2cb17b46",
+          "worktree_content_blob_oid": "1e179781ef2b0f3e3418aa3c63453eaff3e03a30"
+        },
+        {
+          "source_id": "E21",
+          "unchanged": true,
+          "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+          "worktree_content_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372"
+        },
+        {
+          "source_id": "L70",
+          "unchanged": true,
+          "sha256": "163f6207e50a7510ed029c2d94263e7f5e81dd8358281c14b6ea5538c6892c15",
+          "worktree_content_blob_oid": "de534c604e3480d15d3ea4b3587bdd0aa860368b"
+        }
+      ],
+      "prior_frozen_output_checks": [
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md",
+          "byte_count": 77666,
+          "sha256": "917b7e0fdd90b9a9dde2301c98e60c3e678e78ac2c9223127ea881b673f27f17",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V1.json",
+          "byte_count": 87882,
+          "sha256": "3135c48175aabf56bf1c65477d6392471b59fbf6745a2aefbeca2df2ebdbb1c9",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V1.json",
+          "byte_count": 27235,
+          "sha256": "433fc404fcd258871e6310039679308772c3c6702981d66ec5643849d33014ac",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 8921,
+          "sha256": "e6e962e4108efd6a7f331c06fda687b1b089921165185b78fa379804cf559cf2",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md",
+          "byte_count": 83818,
+          "sha256": "46b7865841293dd2525931a85b8d28393523576368ef4d9272b5a597f5fc8cd4",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V2.json",
+          "byte_count": 94478,
+          "sha256": "6f8607abe964b0032bda888a6d3b9f37b374a5aba8d953eca83d7f485627b6d4",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V2.json",
+          "byte_count": 26656,
+          "sha256": "d8bb1889cd4a6804e155c8ce8fb5b29e81e7c7bbe12eac810d0f9640aaa7c942",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_SAVED_OUTPUT_RECEIPT_V2.json",
+          "byte_count": 14481,
+          "sha256": "8e04ba792e15583e4f9d6dc9a023b1e58ee29e7bc024e8518a50b7d515de1f0d",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 24404,
+          "sha256": "bb6d1bde60acd44e539bb22a0979f7cf870b935c9f772d1229ac61bceb7cb79e",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 26279,
+          "sha256": "e5c5008d72b3bcdcf1bdba8f1a0104fd8ab6eb76c7a5701316f93fa847515318",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 24049,
+          "sha256": "0fe9c7f8923138aff2fbd75daf66ab481a991fb8bacfdf13ebbdcb6fff879c3f",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+          "byte_count": 40511,
+          "sha256": "f233f90869af7eb4995d0f964d2033ba1907067e9f8186f9eb4ff3dabb82ccc4",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 36454,
+          "sha256": "fa32f44389dabf76aed4fdf6830e91725d0d84308b0c01b17349d9c72ffca28a",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_AUTHOR_REVIEW_AND_CUSTODY_V1.md",
+          "byte_count": 12228,
+          "sha256": "548cf4470de5ee06354f9176086e8e50d222a663880fca6dc713fffbb9cf4751",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 14042,
+          "sha256": "ae6f53fef4d15a541ffa67070e343af6fe4dc94f7509dfaa930f5503176d74da",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/BLUE_ARCHIVE_AZUSA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 25160,
+          "sha256": "02a9527df78fe53b6d10b31924028e8c0cda2b343e3d72561b27efc283bac9db",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/BLUE_ARCHIVE_HIFUMI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 26720,
+          "sha256": "0a27a92658f8bf0f4a9e70c0274ab97bf5a4b47a999bb9288fb0a0fb84a51462",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/BLUE_ARCHIVE_HANAKO_CHARACTER_MONOGRAPH.md",
+          "byte_count": 29090,
+          "sha256": "2fd4af6a25a3fb8164b13bde6dc717a6f7aee59f04829e9a8e7e7c4273d0c5cc",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+          "byte_count": 47460,
+          "sha256": "4f98b59bb8fc25dce8fbaeac3a3e7f8515a9d34d57383c53b54ebf873a8c415d",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 95616,
+          "sha256": "591d584bc5a6b95168f55d1802afa221e2187f9fdf0ede2951fa36db2725d1e6",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_AUTHOR_REVIEW_AND_CUSTODY_V1.md",
+          "byte_count": 11190,
+          "sha256": "8f465ab994968dee54d690f5214e233eb3575b3538da73b2ff65ddcd0a760d58",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 21437,
+          "sha256": "5c7fb5cd10f8e7acdf892a992a0eec9b78db7da7983633bd3ab43730f7cc388d",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+          "byte_count": 30854,
+          "sha256": "c73867de4766fcb800c10c541f27e74ab127407b9d3cd9d86ed2eec320ddb8a6",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/KOHARU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 20605,
+          "sha256": "7a5871eb7ccf060dcab2b4c9c3c32eb249e37eb1571d974f43917f6b2c886147",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/KOHARU_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 27109,
+          "sha256": "01028690f015dcb6d564100854dee3b77fa0e946ff0752a4cfb0b191d1affe37",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/KOHARU_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 10169,
+          "sha256": "47a69a84ada3a067a73c9141589dc9ff568a3677521651da34af977982455a10",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 31871,
+          "sha256": "4aed0693ba32f492ca3841150b18c1758d913fbc09df77f55c443541d51a14b7",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/UI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 25253,
+          "sha256": "b154ee8dae3ab7719b0008c34b7f839516e6cf8f6520c8cf8fddf3a30056513e",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/UI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 31952,
+          "sha256": "eee361704dd8e4f308240eaed193fd7f9282f387f638368e3feb8e832d2face2",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/UI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 12279,
+          "sha256": "f9106a2068bf7d5ce18816220c2be38c04c3f0a28f2b9c60540ffab500adeb4e",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 34081,
+          "sha256": "29ebde7cb854d63c0298587d796a28b4ea673f49f275f525b206b84bb0a9e964",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/HINATA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 28987,
+          "sha256": "bd2ed575f2aae0a04c584b7dd487302bf794e73b9525d538c44e579044398a36",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/HINATA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 41463,
+          "sha256": "87c28852eb1dcbed7a2eda5cea102c05fd50af5faed4926b3d629d3ac03bfa43",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/HINATA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 13694,
+          "sha256": "ee9bd1d326cb1bc9afef92685b37c426c30bb10cb2e53b4f024e8bced0d7812c",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 38318,
+          "sha256": "d7f5b1178d27c30a24104d6d5230ad5e418b2dae839e65c0ff6d53f1f5d79544",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 25339,
+          "sha256": "65e325109bbb8e99f870a8021ff73a788873757a69a965b10f5380032d360ced",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 60777,
+          "sha256": "da817452942c545e65281d53aca8d190ea26abbb3b79f3e92797b92250784dfc",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 13911,
+          "sha256": "b68907f20991c8a8aef3be4fb53556923a96de91dce2ca6cf3f1055bd9973a85",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_FROZEN_DELIVERY_GROUP_LOCATOR_ERRATUM_V1.md",
+          "byte_count": 1656,
+          "sha256": "4b81795f5f5a20a35e48216e80626c77b9bb0386cc74636beb2b8ce82c44a192",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_FROZEN_DELIVERY_CHECKPOINT_LINE_LOCATOR_ERRATUM_V1.md",
+          "byte_count": 1775,
+          "sha256": "d5221b1098b8cf874f324f262d5d47e03f9b82e7c8f7a87d15c19fd60355b289",
+          "unchanged": true
+        }
+      ],
+      "author_saved_body_receiving": "72d9c0 saved1–76; aab437 saved77–138EOF; final60/102 ee00e7 plus final110/114 c1d9ca",
+      "author_metadata_receiving": "All source and twenty-five claim fields read throughEOF; saved receipt wholly received before freezing, with exact external delivery records.",
+      "checks": "Fourteen guarded exact inputs, twenty-five saved paragraph joins, forty prior frozen files, eleven-section order, UTF8/LF/noBOM/<1MiB/public-safe. Mechanical binding checks are not literary-completeness proof.",
+      "ROOT_literary_review": "PENDING",
+      "ROOT_adoption": "PENDING",
+      "all14gaps": "OPEN",
+      "original_primary_or_performed_or_independent_credit_added": 0,
+      "unbound_large_file_reads_or_hashes": 0,
+      "repository_or_global_writes": 0,
+      "N_frozen": false,
+      "quarter_claimed": false,
+      "external_handoff": false,
+      "excluded_working_notes": [
+        "build_tsurugi_receipts_working.py",
+        "build_hasumi_receipts_working.py"
+      ],
+      "self_binding": "Exact external delivery binds this receipt; no embedded selfSHA."
+    }
+  }
+}

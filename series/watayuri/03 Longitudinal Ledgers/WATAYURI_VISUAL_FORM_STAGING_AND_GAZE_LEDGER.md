@@ -4,14 +4,14 @@ artifact_id: WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.8"
+version: "0.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
+source_boundary: "Japanese V01–V08 mainline through V08 Shift 41/i158, also latest depicted present; packaged shorts separately bounded; V09–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STA
 
 **Update and revision rule.** Update for repeated visual constructions or a diagnostically consequential scene. Record the visible fact separately from inferred psychology and identify when a later composition revises an earlier inference. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V08 mainline through V08 Shift 41/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2 and 41.5 remain separately bounded; V04 EX is promotional. V01–V07 sections retain their earlier states; dated V08 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -287,3 +287,39 @@ Both characters cry, but the manga has just given a direct statement that their 
 #### The page-turn discipline matters
 
 The inspection grids are not spreads. Claims about adjacency use the EPUB’s page assignments: even-right and following odd-left. In the ending, i140–141 and i148–149 are facing pairs, whereas i149→i150 crosses a page turn. The last turn shifts from a limited promise and small comfort to the separate stairwell grief. That shift can support an account of withheld private aftermath without inventing what happens beyond the next uninspected volume. [i148–150.]
+
+
+<a id="v08"></a>
+## V08 — Current additions and transitions — 2026-10-08
+
+**V08 evidence key:** source-map key `V08`, Japanese witness `1bP7VtpkHkHaxxZiJ_O1Eae723HmX3JQ1`, SHA-256 `345c8e407a32a9453299ae564e50dd844d96a8d79623da3027f440b7de54cf1b`. The [frozen V08 reading](../02%20Sequential%20Readings/WATAYURI_V08_DEEP_READING.md#visual-form) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V08; WY1–WY7 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 41/i158. Shift 41.5/i160–161 is a post-return clothing supplement with finer chronology OPEN. Afterword/edition matter i162–167 and bonus waking skit i168 do not advance the mainline endpoint. The receiving correction to i109 is incorporated throughout; original prior-volume findings remain intact.
+
+### Manga form, staging and gaze
+
+Each record separates visible construction from proposed effect. Source spreads follow the verified even-right/odd-left assignments, not the arrangement of the inspection grids.
+
+| ID | Visible construction | Proposed function and live limit | Locator |
+| --- | --- | --- | --- |
+| **WY8-VIS01** | Opening reprise of the previous answer, followed by workplace aftermath. | Connects volumes without depicting a second identical confession/refusal event. | i001, i005–011 |
+| **WY8-VIS02** | Mitsuki’s tearful public face and Sumika’s role-compatible extraction. | Shows affect leaking into an image the guests can read differently; one face does not distribute its private cause. | i015–016 |
+| **WY8-VIS03** | Birthday speech triangulates Sumika, Kanoko and Hime. | A performed pair scene can address a third person’s real decision while also recognizing the nominal celebrant. | i018–026 |
+| **WY8-VIS04** | Earlier letter and remembered scenes are re-presented under changed knowledge. | The object stays materially continuous while its relational significance changes. | i027–034 |
+| **WY8-VIS05** | Public embrace is juxtaposed with Hime’s private last-day intention. | Contact, care and projected future are not one evidentiary unit. | i034–036 |
+| **WY8-VIS06** | Piano/keys and personal memory accompany the wish not to leave. | Gives the reader an inner positive state before another character hears it; no acoustic performance is inferred. | i037–038 |
+| **WY8-VIS07** | Guests leave and the shop is visibly closed. | Marks actual event completion, not automatic relational restoration. | i043–044 |
+| **WY8-VIS08** | Kanoko grips Mitsuki’s clothing at close range. | The depicted force is specific and differs from the V07 strike; emotional stakes do not erase the boundary. | i055–058 |
+| **WY8-VIS09** | Recalled offered hands and a childhood counterfactual precede the renewed approach. | Memory motivates a present choice; hypothetical history is not a supplied alternate event. | i061–067 |
+| **WY8-VIS10** | Hime’s exposed private manner contrasts with earlier inward attachment. | Revealing a façade is staged as another rhetorical action, not an automatic final truth. | i077–082, compared with i031–038 |
+| **WY8-VIS11** | Childhood exposure recall at i083 gives way across the page turn to the present lie accusation. | Reverses the function of naming deception: now defending care rather than destroying its social shelter. Does not excuse the original harm. | i083→i084; continuation i085–087 |
+| **WY8-VIS12** | A kind composed smile is challenged and then recognized as practiced care. | Effortful presentation can carry a genuine wish; expression alone cannot certify future emotional endurance. | i094–095 |
+| **WY8-VIS13** | Offered hand, received squeeze and Hime-initiated embrace. | Makes affirmative participation visible after pressure; the exact acts do not generalize into all-contact permission. | i096–099 |
+| **WY8-VIS14** | Hotel arrival precedes the planning explanation, while room objects interrupt romantic expectation. | Separates narrative order from event order and retains practical everyday dimensions. | i103–113 |
+| **WY8-VIS15** | Reading photographs and a refused embrace pose offer contrasting constructions of sister imagery. | Work can record genuine interaction or demand a pose that exceeds a participant’s comfort; production can adjust. | i114–121 |
+| **WY8-VIS16** | Hime’s reassurance, withdrawal and escape from the bath do not align comfortably. | Nonverbal response complicates literal affirmative words; motive remains less certain than visible discomfort. | i140–148 |
+| **WY8-VIS17** | Anticipated approach is followed by actual apology in the room. | Distinguishes apprehension from action rather than depicting the feared encounter as completed. | i149–150 |
+| **WY8-VIS18** | Hime demonstrates accepted handholding while speaking differentiated limits. | A specific yes and specific nos coexist in one repair sequence; no global contact entitlement follows. | i154–157 |
+| **WY8-VIS19** | Final café review singles out Kanoko’s photographed smile and Sumika’s response. | A recorded expression acquires a new audience and later salience; neither the photograph nor surprise uniquely proves romance. | i158, linked to i114–116 |
+
+The strongest formal return is the change in what a remembered gesture makes possible. Offered hands first recall a history of missed reception; later, an actual received hand makes Hime’s participation visible; finally, handholding demonstrates one limited form of contact she can choose. The recurrence does not turn all three moments into the same action. Their evidentiary value depends on who initiates, who responds and what is being negotiated at each point.
+
+The photograph coda performs a different kind of return. Unlike an internal memory, it is an external work product that another person can point to. That makes the new observation shareable without making its interpretation infallible. The manga invites a future question about Sumika and Kanoko while keeping the image’s actual informational content narrower than a confession.

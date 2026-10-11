@@ -1,0 +1,1066 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-MEG",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MEG_CHARACTER_MONOGRAPH.md",
+    "bytes": 37427,
+    "sha256": "0feee52d329645281859cc2c0fc8b82c453ed48c0ff2d1499d0296070aedf5fc",
+    "git_blob_oid_of_actual_bytes": "87f0d8a100a1e7e4108b67d319e23b91a597d175"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/BLUE_ARCHIVE_MEG_CHARACTER_MONOGRAPH.md",
+      "bytes": 35861,
+      "sha256": "584648200ff9047b545b952e9f0a926b0f8c97c234225fac9875936113c58398",
+      "git_blob_oid_of_actual_bytes": "63d668543bbe8d01bd8b5d21a7ff93bfa6aaffcf",
+      "lines": 149
+    },
+    {
+      "path": "ROOT_MEG_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6075,
+      "sha256": "df0c2747c1dbd3512b3de5f815ffe1918312a1e188ea6594a53a96807bd6589c",
+      "git_blob_oid_of_actual_bytes": "b44c252981137b2a254bccedefeb598f32c9020e",
+      "lines": 107
+    },
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/MEG_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 102630,
+      "sha256": "0f481ee4cb599e85f602abc394798269911e1f4e094a582831db5587a7ccc049",
+      "git_blob_oid_of_actual_bytes": "7e16a8c3a5f1743fb93b8d5af594a15601eba44a",
+      "lines": 1910
+    },
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/MEG_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 3593,
+      "sha256": "dad3fa55f3e2714851b55390ff5a03ba62dad8feb898a15e67893b76911a2c83",
+      "git_blob_oid_of_actual_bytes": "c4d8c78c81c77dbcdadec58cd6aac3cc99d5677a",
+      "lines": 49
+    },
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/MEG_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 2235,
+      "sha256": "1fdf1eda9146be80bf6b0586e72c220af4618905ded2f430e44709fe86410176",
+      "git_blob_oid_of_actual_bytes": "cd28feddf16f747ab863ba89fccffe81e516f1f0",
+      "lines": 35
+    },
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/MEG_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 14517,
+      "sha256": "1dfefb2c3d3711493b3029d7336b6a328e67edb91c86e6b32f82deb4d2a797bb",
+      "git_blob_oid_of_actual_bytes": "8d7b0aac9b6f85d3b6339935b971ec22ed382688",
+      "lines": 79
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MEG_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MEG_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only frontmatter/current acceptance framing, explicit ROOT scope and stable original-gap ID qualifications and optional retrieval title change. Full unchanged literary claims, sources, recipient ends and custody extents are retained. Every original line and changed clause is recoverable through exact transport.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "2923c66dbdf3cac7fd09c1d32e3c93a03d356dead7112227287dbfbc376eed79",
+      "line_text": "architecture: \"1.12 / section 7.1\""
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 5,
+      "line_sha256": "1be0dab43a217c0038e245dcbbb755d3fa4a65b9714e5ddae55111632c7ffafb",
+      "line_text": "required_home: P3-CHAR-MEG"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 6,
+      "line_sha256": "f28cb9eb802771bba9405ab1e11da2ab683e334e89e19dba229a48c3bb451db4",
+      "line_text": "source_responsibility: P3-F032"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 7,
+      "line_sha256": "ec4eaf2bb25fa84b41fc4eaae014d17fcb08cc5dfe33648fe614ae4e691fc308",
+      "line_text": "dated_navigation: P3-A137"
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 8,
+      "line_sha256": "561fd941b9b1321f348b949040dbc81ff4df6601ca65d72a1f6cef48c4c8e71d",
+      "line_text": "person_scope: \"下倉メグ / BA_PERSON_CH0088 / literal variant 10060\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 9,
+      "line_sha256": "dca433725e2113a41bd7ea1bf048c40b8cfe9ebbeefcc0997266fd1090647fa7",
+      "line_text": "analytical_base: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "3d639a1006263fe0efb71adff7cd496284e45b46a8f9c748f161e9019134278e",
+      "line_text": "historical_source_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 12,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 13,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 14,
+      "line_sha256": "63be6b1f42b26f9db246be564f4aac606bad91b92e91aae156a7c6bfbc5d8487",
+      "line_text": "source_boundary: \"Six complete effective Meg private arguments and comparatorV2; adequate complete accepted Main/Group/event meanings and explicit bounded Event808 checkpoint/Event848 argument scopes\""
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 15,
+      "line_sha256": "4efc00eb15bac2aaa1416c4c159b4a5dadf8f363b2a399b9ae28d10de635a501",
+      "line_text": "authority_quartet: \"Current Cycle008 admission with limits; ROOT-qualified accepted source arguments; historical firstness/independence UNKNOWN; performed voice unreceived\""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 16,
+      "line_sha256": "abef9e120d5642fec7a7ee4983e730f875c03c166c6437b24d6da24bd0c03e54",
+      "line_text": "exposure: RETROSPECTIVE_TEXTUAL_SYNTHESIS"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 17,
+      "line_sha256": "053d11ab47fc96cac835274ba6c83c9dac538a71508ef1181c0737f9e9530b9a",
+      "line_text": "all14_original_gaps: OPEN"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 31,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 32,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 33,
+      "line_sha256": "85ba5283c1688b410b457b26b7b65d3740cb32eaf1f53522f88f7a9ee6956702",
+      "line_text": "# Meg — chosen craft, responsive care and the cost of a bath's sanctity"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 36,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 37,
+      "line_sha256": "51799e4bef253c0ac7ada5201837793679f34d581c1c200dc4df2a3df7070452",
+      "line_text": "## 1. Core thesis: pleasure becomes a vocation with unequal permissions"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 38,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 39,
+      "line_sha256": "a1402062b08aea7858a02954e5d2aabe656dadbf612171fb3eb4b59130da6258",
+      "line_text": "Meg's defining literary tension is that a wanted craft can make her attentive to another person's discomfort while making her destructive toward another person's right to use, govern or survive the product of that craft. She wants to dig, build, eat, play and spend time with people. The evidence includes fulfilled toy learning, successive bathing accepted after a limit, shared noodles, an ice pop accepted by Hina and a freely stated return to Kasumi and the club. It also includes destructive construction begun before meaningful permission, a rejected plan to blast a school district, and an actual foundation explosion after an authority had permitted a damaged spa's reuse. Her warmth is a genuine capacity; the monograph must explain the places where that capacity ceases to leave other people's ends open. [MG01–MG06; G3501–3502; M2.20; E808:001,009–012]"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 40,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 41,
+      "line_sha256": "00d5df3dedb4f1e4e672323b0480283c0d845efcaf5d3228e989fdfe8b0e35ab",
+      "line_text": "This argument gives her ordinary wants their own evidentiary weight. Quiet noodles have a different value from a spectacular spring. Handling a toy properly is a fulfilled aim even though missed calls follow it. A failed extra purchase is a failure of an ordinary plan, rather than a reason to discard the scene. Demolition listed as a hobby and her own testimony that she only wanted to dig make work itself pleasurable. Company does not need to become a combat advantage or a symptom of deprivation before it counts. These small episodes reveal the difference between wanting a thing, being able to do it locally, sharing it and allowing the other person to set a limit. [MG01:P01–P03; MG02:P01–P03; MG04:P01–P03; MG05; G3502:u0079–0087]"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 42,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 43,
+      "line_sha256": "e19c3fd20a21259babf0ca10f17d63bbc357ed658f7fb5550b934fe803c3454e",
+      "line_text": "The strongest positive evidence for her agency is first person. Meg says Kasumi asked what she wanted and enabled her digging; in Main she explicitly chooses staying with Kasumi, the club's work and shared food. The strongest contrary evidence is equally specific: in Event808 she rejects a non-spa use as profanation and activates a destructive plan despite interruption. A member's speculation about leadership, an anonymous worker's excavation or an absent Kasumi's reported order cannot replace those acts. Meg is neither adequately described by one cheerful service role nor exhausted by one catastrophic ending. Her literary question is how chosen enjoyment becomes shared provision, and how the same conviction can deny the recipient a different use for it. [G3501; G3502; M2.20; E808:011:u0049–0066]"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 44,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 45,
+      "line_sha256": "adeb0cedefe2423da1f13b9d7ab3b06a11c48bf3f27a65eca35fda0a3358eb66",
+      "line_text": "## 2. Longitudinal states: finite learning, chosen return and unfinished work"
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 46,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 47,
+      "line_sha256": "9b841a62cfd7426159a82a9d78fe3ae7c8d16934b2c220c8d6252654056dca4d",
+      "line_text": "The four private scenes contain complete linked chats and local aftermath. Their internal sequences are meaningful without becoming a release-order biography. Literal10060 is the one admitted private profile here; neither a new costume stage nor a normal-to-event maturity ladder is supplied by the nine-source family. The scenes give several small transitions: an attempt to handle cold food reaches an actual bite but ends with sold-out stock; restless waiting becomes competent toy handling but missed calls; urgent construction yields a usable temporary bath and successive use; quiet cooking reaches shared food while excavation remains unfinished. Each completed local end leaves a different outstanding cost. [BA:bond:10060:002/003/005/006; their four complete linked Momotalk threads; MG06]"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 48,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 49,
+      "line_sha256": "67a4024cc82a6c739b8e1861fa2e129b9f1c5b0b5103ed6941d5216f0fcee646",
+      "line_text": "The toy episode supplies actual learning rather than an all-purpose claim of effortless competence. Meg's stories about development order, forces, hiding and games during confinement are participant testimony. Her distress at doing nothing is narratively intelligible without a diagnosis. A decorative kendama becomes an object of practice; failure precedes proper handling. The consequential Japanese conclusion says the adult spends hours there until she can handle it; the Korean sentence says Meg stays until she can. The common supported end is fulfilled handling. The adult as the duration-bearing actor and a common number of hours are not common to both locale clauses. The repeated incoming calls and later scolding testimony preserve a cost of absorption, not proof that the learning was worthless. [MG02; BA:bond:10060:003:u0057–0058/raw177079; BA:momotalk:10060:thread:100600090]"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 50,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 51,
+      "line_sha256": "faf8d5cd407094085871149c13dd8f3488a99c88baedb54cba8bfbda4a07ea43",
+      "line_text": "Main supplies another local movement. Under imposed war service Meg volunteers in the present and assents to checking with the messenger. Kasumi questions whether this is the Meg she knows; the earlier voice and coercion history remain claims rather than a certified implanted mechanism. After the rescue sequence Meg celebrates the new bath, forgets Shoko's map and expressly prefers returning to the club. Kasumi asks what she wants and warns against simply obeying Kasumi too. Meg's stated wish to stay, dig, build and eat with company matters as her own answer. It does not retroactively prove that the earlier service was freely informed, or certify total freedom from every influence. [M2.6; M2.16; M2.20]"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 52,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 53,
+      "line_sha256": "fa17d337c00b3f840b7fcabf3b60ca1f788e8dad30e14cb11f34e1e6dc129034",
+      "line_text": "Event808 gives a trajectory that cannot be folded into a simple improvement arc. A beautiful spa first appears to relieve deprivation and provide free use. Its expanding plans threaten the school district; a dispute becomes defeat; reuse receives actual permission; Meg then destroys the buildings. Survival, a remaining pool and a crowded bath coexist with loss of housing, water and work. Event848 supplies a completed replacement bath, volunteer assent and chosen company, followed within that event by a confirmed villa explosion and continuing cleanup costs. Other contexts show responsive and destructive capacities recurring in different configurations. Their exact source-world order relative to each private encounter remains unresolved. [E808:001,009–012; E848:008–011; G07]"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 54,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 55,
+      "line_sha256": "533332a58eb891501f0b4db9d6aa88a3b261da90334d7fb8d2a0793bed4812bd",
+      "line_text": "## 3. Public and private self: local competence has material limits"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 56,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 57,
+      "line_sha256": "b00003d91fba86f176ceda145aa1ab2552351d948c5078a59fc2c0fb6b255328",
+      "line_text": "The private scenes make the work of care visible at a scale public spectacle can compress. Meg's cold-food attempts are reported and unsuccessful; actual eating reaches her bite and cold taste, while the reciprocal offered bite does not print the adult swallowing it. The intended trip for more ends with no remaining stock because she bought too much. A flamethrower, enthusiasm and proposed sharing do not ensure food handling, supply or completion. The written claim that output regulation is probably possible explicitly retains its untested status. It would be a mistake to turn either a weapon attribute or a failed food attempt into an empirical heat-control certificate. [MG01; BA:bond:10060:002:u0058–0059,u0077–0078; MG05]"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 58,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 59,
+      "line_sha256": "f28ff719a3f2802c2a742bca492dc2f4795beb1aded77c6f3182096661c64080",
+      "line_text": "The temporary bath makes successful care equally concrete. Named Meg is muddy from work. The account of temporary construction, resources and hours includes generic log material whose grammatical first person does not establish a secure performed Meg voice. The initial Japanese cold during travel and Korean abandoned icy shower differ; the Japanese dawn knowledge and Korean earlier contact are not a shared timestamp. What the ending actually supports is usable bathing: Meg accepts going first, the adult replaces her after her bath, and they eat an ice treat while walking back together. A permanent spring, repaired Schale heater or simultaneous joint bath is unprinted. Completed temporary relief is sufficient to matter. [MG03; BA:bond:10060:005:u0012–0019,u0021–0035,u0052,u0054; G09–G10]"
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 60,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 61,
+      "line_sha256": "c7e64d723b4b4c611957db578daf6817fe0d96b9e3052cba9a79270b7b7c7d84",
+      "line_text": "The noodle scene preserves an additional kind of care. Meg chooses quiet attention, hot water, steam and softened food, with the spring analogy serving sensory pleasure. The Japanese weak-cooking self-description and Korean not-knowing-how-to-cook clause do not nullify the actual locally prepared noodles. Two people share them. The adult declines more and Meg accepts the limit. Her account of leaving unfinished work to want noodles gives the meal an independent end while keeping duty outstanding. The final cleanup, return and sleep belong to the adult; they cannot be reassigned as Meg's completed excavation. The linked chat retains forgotten utensils, locale-specific washing or arrangement testimony and future fetching and cooking. [MG04; BA:bond:10060:006:u0042–0043,u0051,u0071; BA:momotalk:10060:thread:100600350]"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 62,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 63,
+      "line_sha256": "16d41566a7cb59a8ab0cf6eeb6ca1f1c226d088df7369afbf54d112735b17434",
+      "line_text": "Public craft enlarges both the benefit and the cost. In Event821 the report that all known or identified towers have been destroyed through Hot Springs work is a positive local result; it still leaves Hod, and Meg's stated readiness for further work is prospective. In Event835 her watercourse attribution remains unverified even though she wants to dig without a spring. Event808 supplies an actual completed spa and an actual destructive activation. The comparison therefore concerns the scope of warranted outcomes: wanted construction, completed local provision, recipient refusal, reported contribution and catastrophic destruction are distinct evidence conditions. [E821:010–012; E835:005–006; E808:001,011–012]"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 64,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 65,
+      "line_sha256": "730f821c27ae8a09ab7a5c75f989311b3bb2e10eea824c169c08c3ef0fd60503",
+      "line_text": "## 4. School, club and work: chosen digging requires other people's labor"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 66,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 67,
+      "line_sha256": "d5c5a3ddc53ac0005202e65e588e6176d056d69e89f5e6c2ed86a5cdb1645292",
+      "line_text": "Meg's written foreman role and own account of wanted digging support craft identification. In Group3502 she says Kasumi asked what she wanted and that digging was her answer. She describes work and membership increasing after Kasumi enabled it. This is stronger evidence of Meg's preference than a member's speculative explanation of the director's title. It still does not provide an election record, an institutional contract or a complete labor history. The club can give her a chosen working life without every governing arrangement becoming consensual or transparent. [MG05; G3501–3502]"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 68,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 69,
+      "line_sha256": "568acb1b0174642c24aa24f818ee70ffb8e0e35de5f448c5b1b24fc18902696f",
+      "line_text": "The group's exhausted workers have their own claims. Hard transport and poor access matter to them; Meg offers rest, and a member objects to resting alone after Meg worked. Praise for her and the rumor of a small bath retain their report status. Kasumi's proposed road, shuttle and eventual hijacking answer a transport problem only at the level of proposal. Neither the workers' fatigue nor their concern for Meg is expendable setup for leader characterization. The material gives an institution whose pleasure and vocation depend on logistics and shared effort, with solutions left unfinished. [G3501]"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 70,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 71,
+      "line_sha256": "acd6fe14c9af4c3c625a76808c52666cfa389f3b0e7640fdfcf88c7b82aae69e",
+      "line_text": "Membership also includes learned practices whose effects she does not fully grasp. Meg relays Kasumi's authority-encounter script to Hina. Hina refuses the scripted bag and reports its destruction; its contents, precise method and legal disposition are unprinted. Meg then spontaneously offers a separate ice pop to share, which Hina accepts with thanks. Those responses distinguish a taught tactic from a separate gesture without making Meg a wholly innocent transmitter or Hina a universally assenting recipient. Hina's aside and Meg's chosen-work statement survive their contrary display/text headings; neither becomes another person's speech because of a mechanical header. [G3502:u0032–0065,u0079–0087]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 72,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 73,
+      "line_sha256": "48081f72cc70c7a00b92f0a56c503690074ad4841289e8eecc851ae1024ea458",
+      "line_text": "School-wide authority exposes the pressure surrounding this vocation. The Main warehouse order and threats belong to imposed service, while Meg's present volunteer statement is still real speech. In Event808 the district-blast plan encounters Cherino's refusal and Marina's danger judgment. Minori's paid defense and the workers' defeat concern labor and bodily risk; Meg's desired excavation does not own their purposes. Event848's volunteer agreement and completed artificial replacement bath give a different arrangement, yet returned materials used for it and later explosion costs remain. The monograph can establish these literary comparisons; labor permission, institutional repair and authority relations remain separate required Phase3 responsibilities. [M2.6; E808:009–012; E848:008–010]"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 74,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 75,
+      "line_sha256": "277384a1be0813f2805b00f977e1b18a4015e5264527f3dd9f48fec35b73f326",
+      "line_text": "## 5. Ordinary life: games, cold sweets, noodles and chosen company"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 76,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 77,
+      "line_sha256": "83b28645389af5a441b60d4a03d6fa8ae6ad83dad0504db38b71c88e2c71cd7c",
+      "line_text": "Meg's ordinary life has plural pleasures. Bustle in written characterization coexists with a quiet place chosen for noodles; different contexts do not demand one invariant preference. Ice pops, cold taste, steamed food, warmth and a toy's handling are positive ends rather than substitutes for a missing dramatic theme. Demolition as hobby and delight in digging make work pleasurable, but they also leave room for resting and play. A finite failure or an outstanding errand does not withdraw the scene from analytical eligibility. [MG01–MG06; G3502]"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 78,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 79,
+      "line_sha256": "2bdfe729aebb9199a1291c4330a6f6e3a181f0710f525a0df0794aae8c9a1ece",
+      "line_text": "The toy story is especially revealing because the wanted object changes through use. A decoration becomes a skill that Meg practices. The adult's time, the local success and Meg's remembered enjoyment make the interaction more than an illustration of restlessness. Missed calls and scolding expose the obligations it interrupts. The chats carry gratitude and future invitation after that cost. The supported account contains both a genuinely worthwhile completed activity and a responsibility problem; it needs no clinical label, universal intelligence ranking or claim that every offered future play occurs. [MG02; its complete linked thread100600090]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 80,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 81,
+      "line_sha256": "50764f3aa5abab3aad003102b6da20a8c21467cbe73dc19f90704f0ed81fcdd2",
+      "line_text": "Shared food likewise contains different recipient positions. Cold-food sharing includes an offered reciprocal bite without printed consumption. Noodles include actual shared eating followed by an accepted refusal of more. The later bath ending includes actual ice treats and walking together. Hina's ice pop ends in acceptance and thanks, with eating unprinted. In Event848 Meg gives Kasumi and the adult two ice creams she already has and proposes obtaining another for herself; the new purchase remains future. The distinction between offer, acceptance, consumption and intended purchase keeps pleasure real while refusing to invent a seamless cycle of successful hospitality. [MG01,MG03,MG04; G3502; E848:011]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 82,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 83,
+      "line_sha256": "9451265fa5aa14a51faf50858e4ab292326301fb8b1d8fcafa56552f0d63fdb2",
+      "line_text": "Company can be chosen for its own sake. Main's return statement includes working and eating together; Event848 Meg explains company after freedom has been offered to everyone. The shared return of other members pleases Kasumi, while Meg's own gift and explanation deserve their own agency. Neither desired company nor group membership means every friend label is reciprocated: Ichika denies Meg's label in the replacement-bath sequence. Wanting to be with someone and having a mutual relationship are different supported claims. [M2.20; E848:008–011]"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 84,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 85,
+      "line_sha256": "df523bb53b185df10b883a31f858c118ea279b8fd84cdb0171a5d6f2c028b22d",
+      "line_text": "## 6. Crisis: useful excavation and a destructive standard of proper use"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 86,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 87,
+      "line_sha256": "557f2b2c650579d886fcfbdad3f8ddaa844e5aa5f9af7c73fd356a9fd175723e",
+      "line_text": "Main's imposed service makes Meg's cheerful willingness difficult to evaluate. Her present assent and Kasumi's concern both belong in the account. The rescue contact and new bath establish local action and a later wanted return; they do not certify every route, signal, restoration or technical account. This sequence shows why even a positive recovery claim needs a finite ending: Meg's own answer can be supported without claiming an authenticated mechanism of prior control or a completely emancipated future. [M2.6,M2.16,M2.20]"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 88,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 89,
+      "line_sha256": "953473ede89ee6c42e1e6ee437a5c90fa6cba86cc384f2343598fdf7dfe901c8",
+      "line_text": "Event821 provides a positive crisis contribution at a report layer. Chihiro reports destruction of all known or identified towers through Hot Springs work while Hod remains. Kasumi's aboveground work and removal order, with Meg's readiness for her specialty, belong to prospective action in that encounter. The later Hod defeat and fifth sanctum destruction are actual reports; revival does not erase the earlier success. The report does not apportion every demolition to Meg, discover an exhaustive unknown inventory or establish maximal capacity. Useful coalition work survives those limitations. [E821:010–012]"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 90,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 91,
+      "line_sha256": "8e19e2c36b6f3df7b199e2024099f562bf72ac2d3d11af937bcfbce419dbc7ca",
+      "line_text": "Event808 tests her generosity against other people's livelihoods. In001 Nodoka and Shigure want firewood, cocoa, washing and relief from material deprivation. Meg wants a bath and offers free use, but construction has begun before meaningful authorization. Nodoka's limited inspection assent does not grant construction ownership. Tree burning and destructive joy occur in a managed punishment area. The spa is beautiful and useful; Nodoka's management question remains real. A completed desirable object can therefore be built through a permission failure. [E808:001:u0070–0071 and whole001 argument; E808-CMP]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 92,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 93,
+      "line_sha256": "0afbe51dc7d819cfd767b145b88cd31bb064d5f393a2490b192df9d4dfe6e03f",
+      "line_text": "The expanding project sharpens that failure. In009 Meg does not understand the offered medal's value, and her claim that the result is bigger or showier than expected is not a plan inspection. Weakened pressure, a probable aquifer and Kasumi's magma solution are reported proposals, not geological certification. Meg's plan would blast the district and replace a probably vanished school with a resort; Cherino rejects it. Self-interest in authority does not cancel this genuine refusal. Meg's insistence on continuing is actual speech; the district blast is not performed there. In010 defeated equipment and her lost dream meet Marina's danger judgment, Cherino's statue plan, Nodoka's livelihood refusal, Shigure's different care and Minori's paid defense. These recipients have distinct aims even where they temporarily converge. [E808:009–010]"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 94,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 95,
+      "line_sha256": "e5fcd75b1f6ec405cf306ab2afdb8d229fdbba4544ffeea8f1a6798e5425d663",
+      "line_text": "The decisive contrary ending is011–012. After the tank defeats workers, Tomoe's and the adult's alternate corrections lead Cherino actually to defer demolition and allow reuse. Meg rejects non-spa use as profanation, discloses foundation bombs and activates them despite adult interruption. The Japanese inference that Kasumi probably foresaw events and Korean prior-instruction wording differ; neither supplies an actual Kasumi appearance. Meg's destructive act remains her own printed action. Buildings are destroyed; people survive and enjoy a remaining crowded pool, while dirty water, housing and work losses persist. Shigure's togetherness and survival relief do not rewrite Nodoka's wishes as wanting poverty. The final pleasure is genuine and finite, and the material loss stays unrepaired. [E808:011:u0049–0066; E808:012; E808-CMP]"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 96,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 97,
+      "line_sha256": "569a840ab89ae6ffb77becd5ac3c3a94dcc6a791bd6369df483c9f599d4b7d55",
+      "line_text": "## 7. Sensei: accompaniment, accepted limits and limits she overrides"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 98,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 99,
+      "line_sha256": "3c5caf2b5a133ee037603c2af699cf7391fa46b9bb9972bf49aff5fcc482a495",
+      "line_text": "The adult relationship is partly a practice of ordinary time. It includes toy practice, meal preparation, shared food, a bath and walking back. These actions can support local reliance and enjoyment. The Japanese duration-bearing adult clause in the toy ending requires its locale qualification; the adult's inward hesitation is not spoken reassurance. Meg's subsequent scolding and enjoyment testimony is a chat aftermath, not another enactment of the toy scene. The adult helps make a fulfilled private end possible while interrupted calls remain a cost. [MG02; MG-CMP]"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 100,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 101,
+      "line_sha256": "227dedf72d8477f3a126a30cdd019eb9465cffa719f404aab4805651e4270fe7",
+      "line_text": "The bath and noodles supply meaningful accepted limits. Meg proposes bathing together and accepts going first; the adult replaces her after she finishes. Their reason for separating is not fully explained, and the scene does not print simultaneous intimacy. Meg offers more noodles and accepts the adult's no-more answer. Adult internal thoughts about ham or broth do not become a spoken or performed shared bite. The actual shared meal and ice treat suffice for a close, locally responsive relationship without upgrading every wish or thought into bodily action. [MG03:u0052,u0054; MG04:u0042–0043,u0051,u0071]"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 102,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 103,
+      "line_sha256": "1e75195518e6c76718d65d11acb6ab50bdc7ff28e24d0d7cfcd7a8e9aaedff48",
+      "line_text": "Public adult intervention shows a different limit. In Event808 alternate correction participates in Cherino's completed permission for reuse; it does not prevent Meg's activation. In Event848 the adult's attempted dialogue does not erase Hasumi's refusal or Meg's retreat after violence, and pressure around friendship labels is itself rebuked. Sensei can accompany a wanted private activity and still fail to secure another recipient's safety or open answer. This is a serious comparative limit on treating adult attention as a sufficient moral correction. [E808:011; E848:003,008–010]"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 104,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 105,
+      "line_sha256": "390c0811479ab42777af3b8d26d701989edc0a5a9cf65d9dbca1248708fb0974",
+      "line_text": "The relationship therefore has no warrant as exclusive dependency or guaranteed supervision. Written greeting, availability and priority language describe a register of address. The temporary bath's generic logs and the adult's anonymous final actions have different actor conditions; they cannot all be voiced as reciprocal declarations. Possible next games, future bathing, utensil fetching and another meal remain desired continuations. The directed Sensei relation requires its own Phase3 home; this character argument establishes evidence and questions without claiming that package completed. [MG01–MG06; G09–G10]"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 106,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 107,
+      "line_sha256": "9ddadc42f0930b57d7b7a3a5010b82bd73bd2f9b2de0116ec26abb3904d836a7",
+      "line_text": "## 8. Peers and recipients: each has an end Meg cannot supply for them"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 108,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 109,
+      "line_sha256": "28b39c94324521eb8c73087d1c2773ff82e5f7721c8bc34647d92e973edafb0c",
+      "line_text": "Kasumi is important as an enabler, director, reported source of plans and chosen companion. Meg's first-person work account and Main's return distinguish preference from automatic obedience. Group3501 also preserves Meg's inference that Kasumi loves snow and her memory of distress, sleeping and bath relief; Kasumi recognizes the memory, but the scene does not replay a cause or certify clinical recovery. Meg can notice another person's pleasure and discomfort while still misreading what the other person has actually said. The Kasumi relation should retain both this attentive inference and the coercive practices she transmits. [G3501–3502; M2.20; E808:009,011]"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 110,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 111,
+      "line_sha256": "26a43e2b67676a8b9120b76dc08e1c6a23e0e53e05d2f270f3182074871956c1",
+      "line_text": "Other workers are neither interchangeable audience nor mere tools. Their fatigue, transport problem, concern for Meg and tank defeat place costs on a wanted craft. Anonymous excavation in Main does not automatically establish Meg doing every action; club membership does not establish all attendance or assent. Her direct delight, volunteer speech and wanted-work testimony are positive at their own actor scopes. It is possible to recognize reciprocal labor concern and still leave management, compensation and future repairs outstanding. [G3501; M2.6,M2.20; E808:010–012]"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 112,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 113,
+      "line_sha256": "012e2d8c4432665710f8dd6d1280d598e3a03f47d578d12d6cb8807986bc4854",
+      "line_text": "Hina accepts a separate spontaneous ice pop after refusing a taught bag tactic; thanks is an actual end, not universal acquittal. Ichika denies similarity and friendship labels while choosing help for Mika and accepting bounded volunteer cooperation. Hasumi refuses bombs on private property, is thrown in003, later thanks for the replacement bath and remains a distinct recipient. A completed artificial bath using heated water and additive matters even as its resources and subsequent villa explosion impose costs. Meg's cheerful friend claim cannot adjudicate these recipients' words for them. [G3502; E848:003,008–011]"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 114,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 115,
+      "line_sha256": "6d050ab697fa0d50e3cfc0dec1f98b4e0bf04348ff91c314c839ee6b5d6dab98",
+      "line_text": "Nodoka's livelihood and Shigure's company require particularly careful separation. Washing, warmth, housing and work matter before Meg arrives and after the foundation blast. Shigure's appreciation of togetherness does not grant Nodoka consent to deprivation. Cherino's refusal of a district blast and later permission for reuse are real despite her separate self-interested statue plan. Marina's danger judgment, Tomoe's correction and Minori's paid defense give still other positions. Meg's free-use offer and eventual remaining bath are genuine positive capacities whose meaning is bounded by these independently wanted futures. [E808:001,009–012]"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 116,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 117,
+      "line_sha256": "df769a7e0c2501c6b64e028feadf958cc9f37282d23e13199bc90a3ad1c46172",
+      "line_text": "## 9. Written register and source modes: enthusiasm is textual evidence"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 118,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 119,
+      "line_sha256": "31ffa15931bf92e8c59ebd97e167ecc376d2a7834f2741494315f84fe1965fda",
+      "line_text": "The admitted profile10060 names 下倉メグ / 시모쿠라 메구 and CH0088. Its age17, third-year status,164cm height,4/25 birthday and demolition hobby are written characterization, not a chronology of scenes or a clinical assessment. Foreman, energy, trusting disposition and force-oriented expectations support a register of craft enthusiasm. The Japanese introduction's Gehenna clause and its Korean omission remain locale conditions; metadata affiliation does not supply the omitted sentence. Bustle and quiet cooking concern different situations. The weapon and probably controllable but untested output do not certify engineering limits. [BA:character_data:10060:profile_and_dialog; MG05]"
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 120,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 121,
+      "line_sha256": "0e872f2468553f6f3be0fe9d81d363cc0fc9957fbf58769cefaf38ef2a74ce43",
+      "line_text": "The normal profile's39 written rows include special5298–5306/raw5337–5345 about temporary creation, urgency and Sensei priority. They are a written counterpart to the bath scene, not a second construction. Typed Cafe-first order and raw title-first order do not become performance chronology. UITitle raw5307 has empty Japanese text but a positive VoiceId[3485472753]; emptiness of that text field is not evidence of absent voice. No performed voice, native audio, animation, delivery timing or full audiovisual encounter has been received in this monograph. [MG05–MG06; G10]"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 122,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 123,
+      "line_sha256": "1f08ca3a5535279717f23c733e3e8dbf0116e8975b34e1ec2ac88faee72d7258",
+      "line_text": "Actor conditions remain claim-specific. In the bath episode named Meg has muddy-work and thought-like lines, while person-empty generic#st logs carry much of the creation account; the adult's own internal line sits outside that block. In noodles the final cleanup and sleep are anonymous adult action, and some adult judgments are inward. In Group3502 contrary display/text headings affect Meg's wanted work and Hina's aside. Event808 member and Nodoka/Cherino headings sometimes carry Meg's actual text. These seams warrant retaining the accepted argument's bounded actor assignments; they do not warrant a universal reassignment or global identity merge. [MG03–MG04; G3502; E808:001,009; G08–G09]"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 124,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 125,
+      "line_sha256": "c02f8ab25888be8c5b4e7660fd07aaa0150a75c5fd3274e1968384ff4b6befd6",
+      "line_text": "The four chats are received whole through their local aftermath rather than reduced to match windows. Schedule witnesses are interior in all four pairs. The attributed family covers4BOND,4whole Momotalk and1profile;262 typed scene units,11formal answer groups,20options,595raw scene statements,70chat rows and39written rows remain producer counts, with5auxiliary witnesses. This author's six complete effective arguments and comparator are a reuse of accepted meanings, not a new primary audit of those counts. No event costume is added to the nine-source union. Alternatives are preserved as printed, without turning all Answer branches into one performed conversation. [MG06; MG-CMP]"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 126,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 127,
+      "line_sha256": "f8118cdad646f6a85bc7c82313cfa8dd14661f9ab96ed4c1d169b495a8ad5082",
+      "line_text": "## 10. Competing readings: an enabling craft can still deny another use"
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 128,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 129,
+      "line_sha256": "15920573c3eaa60f9bbd4ed4fb1b8b25222e72a927e4a2f314482469c80242a7",
+      "line_text": "One strong reading treats Meg as an enthusiastic recipient of Kasumi's enabling. Her declared digging preference, increased work, private joy, small successful bath and explicit return make that reading persuasive. Its limit is her independently destructive response to reuse. Event808's foundation activation is more than a leader's absent report or a member's generic task. The role of Kasumi's reported PlanB remains relevant; it does not remove Meg's printed disclosure, refusal and activation. A complete account needs a craft conviction capable of its own harmful decision. [G3502; M2.20; MG03; E808:011]"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 130,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 131,
+      "line_sha256": "7ddfc089bb766004d90c2692c5bac3629f8da89f040d79c813ff08d9577e3792",
+      "line_text": "A second reading takes catastrophic destruction as proof that all her hospitality is manipulation or carelessness. The refused noodles, successive bathing, locally fulfilled learning, Hina's accepted gift and chosen company contradict that totalization. The evidence allows genuine care at particular limits. It also lets a wanted gift impose costs: cold-food stock fails, toy learning misses calls, bath preparation consumes resources, and work remains unfinished after noodles. The useful comparison is where Meg accepts the other's limit and where she treats another use of her work as intolerable. [MG01–MG04; G3502; E808:011–012]"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 132,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 133,
+      "line_sha256": "e6c4ad6ed517656c57ffe292ce8007b4300f9aae53dc7bd91380d05685201673",
+      "line_text": "A third reading makes explosive spectacle the sole analytical center and considers private pleasure decorative. That loses the positive criterion used by the public work itself: baths, food, rest, play and company are valued ends. It also loses contrary recipients' wanted warmth, housing, income, quiet and unrestricted answers. Meg's ordinary scenes establish both why a spring is attractive and why a destructive exclusive definition of it is costly. A locally delightful ending cannot stand in for completed restitution, but its delight need not be discarded to preserve the harm. [MG01–MG06; E808:001,012; E848:009–011]"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 134,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 135,
+      "line_sha256": "cb7d397638791b4510bf9ad48897fec74be09906a78002f398366d6b6504b125",
+      "line_text": "The synthesis is consequently bounded and non-redemptive. Meg can make another person's discomfort her own practical concern and can learn, share and accept a specific no. She can also subordinate other people's livelihoods to the sanctity of a wanted project. Chosen return, a completed artificial bath and a successful reported coalition contribution are finite positives. District rebuilding, lasting permission reform, payment, cleanup, geological certainty and complete freedom remain unprinted. No later source is used to certify a settled moral essence, predict every action or turn a literary question into a reconstruction rule. [MG01–MG06; M2.20; E821:010–012; E808:009–012; E848:008–011]"
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 136,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 137,
+      "line_sha256": "c16c051111ba7e907c7ed5c73fe68f49b5de741582c18e94b4c9b67b6e6bf8b3",
+      "line_text": "## 11. Evidence register, open gaps and completion boundary"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 138,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 140,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 141,
+      "line_sha256": "90f029f969fd36e62baee92eb35a25a53cab0c211e4291226a257b6528b023b7",
+      "line_text": "| Gap | Status | Claim-specific disposition |"
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 142,
+      "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+      "line_text": "|---|---|---|"
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 143,
+      "line_sha256": "3d3c89720e90cae50a890f47ab9286c07687c38496b084584b7d4d5f49801ee1",
+      "line_text": "| G01 | OPEN | Ordinary games, food, bath, rest and company are included intrinsically; completed toy handling and shared food coexist with missed calls, sold-out stock, forgotten utensils and unfinished work. No comprehensive ordinary-life biography is asserted. |"
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 144,
+      "line_sha256": "e76dfa1e77f8e74074f076e144e292ab6af69184644b7bccb007f126d96f12c6",
+      "line_text": "| G02 | OPEN | No missing Yuuka material is supplied by shared public context. Known-tower coalition reporting does not certify Meg–Yuuka intimacy or a completed directed relationship. |"
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 145,
+      "line_sha256": "9c85424e4a20a30590c140d03dbbeb4e5fd66a0dd39668734c67612df4b8df46",
+      "line_text": "| G03 | OPEN | Abydos/Serika comparison remains at admitted source-local context; Meg's return, a foreman role or group label does not supply Serika's missing private argument or a joint scene. |"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 146,
+      "line_sha256": "3d41d3581cb31a187362ac6ad459981578d8892d49cd9ae024f85992830ab576",
+      "line_text": "| G04 | OPEN | Hina's bag refusal, separate ice-pop thanks and authority comparison retain their exact actor/report limits. Bag contents, mechanism, legality, universal enforcement and permanent gift reform remain unclaimed. |"
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 147,
+      "line_sha256": "3debc9648104af2a4350b489b775141ddf3ebd737a53afe6b4c5a6f20635589d",
+      "line_text": "| G05 | OPEN | Arius/PS68 contrasts are not inferred from a common scene or institution. This monograph supplies no missing private interiority, joined victim history or completed cross-cohort relation. |"
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 148,
+      "line_sha256": "a2c7f013b167bc556eae8e2d0d0c67cf962734d33e6fe789ed9dbddfef40910f",
+      "line_text": "| G06 | OPEN | Event808 recipients, Ichika, Hasumi and coalition actors retain independent local ends. School geography, a shared project and a cheerful friendship label do not establish mutual intimacy, common assent or global group membership. |"
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 149,
+      "line_sha256": "487005414b4a90b876215de63974924497fb9e3f98d7459c5327b2041020827b",
+      "line_text": "| G07 | OPEN | Four complete private pairs have interior Schedule witnesses and local aftermath; Main, Group, events and written profile are not forced into a dated maturity ladder. Source-world placement remains limited. |"
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 150,
+      "line_sha256": "11568e2cab502dff64a52c38ef2b2974ce872ecfabc3434a52f2d4f081e3b243",
+      "line_text": "| G08 | OPEN | CH0088/10060/name are literal; Megu is a source-local alias where printed. Anonymous workers, generic logs, disputed display/text actors and Kasumi's reported absent roles remain distinct from authenticated identities. |"
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 151,
+      "line_sha256": "8e2f9bbf6c6e2669f9d0727f3bcadf970de79c9f3aa823ec7ff2bd4a28966056",
+      "line_text": "| G09 | OPEN | Whole chats, alternate answers, inward adult lines, generic#st and report layers remain separate. MG02u57 has unequal locale actor/duration, MG03 successive bathing is actual, and E808 inferred/prior Kasumi instructions are unequal. No all-branches runtime is reconstructed. |"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 152,
+      "line_sha256": "a024f664c83ac2750326ccb70704171d53cd17c4b735a1868c1fd0647fae9771",
+      "line_text": "| G10 | OPEN |39normal written rows and positive UITitle VoiceId coexist with empty Japanese title text; audio, acting, timing and animation are unreceived. No written enthusiasm or generic log becomes a performed voice. |"
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 153,
+      "line_sha256": "74ff25dcdd3b045e7c38a4edc8a119859ba0f3228de2b785cfa650d00332e36e",
+      "line_text": "| G11 | OPEN | Yume/Abydos historical gaps are not closed by a Main owner, family comparison or retrospective account. No missing historical encounter or causal continuity is invented. |"
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 154,
+      "line_sha256": "83bff4c1b1740200a4997115f34c465e5248130d30112cde609687e8f14ca7e6",
+      "line_text": "| G12 | OPEN | Family, school, costume, leadership and variant metadata do not authenticate a body/person/control chain. Meg's chosen return is positive literary agency, not certification of total emancipation from an implanted mechanism. |"
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 155,
+      "line_sha256": "e5dda52653eb9e70067e895aa98232952b522302430a9b421aebe17704f796b5",
+      "line_text": "| G13 | OPEN | Untested output, reported aquifer/magma, inferred watercourse, temporary construction, destruction and revival claims are not medical, geological, engineering, legal or causal audits. Actual E808 loss and surviving pleasure do not prove restoration, reimbursement or safe future capacity. |"
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 156,
+      "line_sha256": "5e867414c04dcb87e009c1ad426dce60535fbdb555d10e8fbc18a95d33897f83",
+      "line_text": "| G14 | OPEN | Nine admitted private sources and declared Main/Group/event extents remain exact; unknown, unadmitted or absent source classes are not silently joined. Bound analytical arguments and canonical integrity checks do not grant primary/native/raw/QA/AV credit or global admission. |"
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 157,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 158,
+      "line_sha256": "ba52962d7c013818e3a2ae9f11988f22c4c32b8ab289d05e312bcbf827bd7bda",
+      "line_text": "Source key: MG01–MG04 are complete accepted paired readings for BA:bond:10060:002,003,005,006 with threads100600010,100600090,100600210,100600350 respectively. MG05 is the complete normal written-profile argument; MG06 is the complete nine-source checkpoint, adding zero sources. MG-CMP is the complete effective comparisonV2. G3501–3502, M2.6/M2.16/M2.20, E808:001/009/010/011/012 and E808-CMP are personally complete accepted small arguments; E808 checkpoint is explicitly substantive1–210 rather than its whole659-line metadata/annex file. E821, E833 and E835 complete accepted meanings are reused unchanged; E848 uses personally received complete30episode/whole-event argument spans, with the first12 argument refresh, rather than claiming whole2333-line ledger custody. Broader S2/Final/private-context controls remain contextual at their actual receipt scopes and do not establish automatic Meg appearances."
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 160,
+      "line_sha256": "657deb817ef015f9b6008afd0af6d1fad17ff93f9372aba519c2e23c98c7e837",
+      "line_text": "The analytical source owners remain exact main2e with separately retained historicalc1 witness; current ROOT V3 controls and actual worktree metadata are recorded separately from sourcebranchdbabbf95. Japanesecommit a038020f1f5ac02dcfe76962426d38f86414cdd8 and generation BA_REFRESH_20260928T032248159554Z bound the accepted source lineage. Current Cycle008 admission and ROOT-qualified complete arguments govern historical UNADMITTED/pending wrappers. No fresh primary recovery is necessary for these bounded claims. Stronger claims about clinical recovery, authenticated control, quantified heat output, geology, exact chronology, bags, title, consent, payment, completed repair or performed delivery would require their specific missing evidence."
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 161,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        6,
+        6
+      ],
+      "canonical_lines": [
+        5,
+        4
+      ],
+      "frozen_text": [
+        "status: LOCAL_CANDIDATE_ROOT_RECEIVING_ADOPTION_PENDING"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        13,
+        13
+      ],
+      "canonical_lines": [
+        11,
+        11
+      ],
+      "frozen_text": [
+        "current_control_reference: \"ROOT V3 required-home partition; source branch dbabbf95a39458b05f337c1d0151a79f4d4ab6f1; mutable ROOT metadata captured separately\""
+      ],
+      "canonical_text": [
+        "historical_author_current_control_reference: \"ROOT V3 required-home partition; source branch dbabbf95a39458b05f337c1d0151a79f4d4ab6f1; mutable ROOT metadata captured separately\""
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        20,
+        19
+      ],
+      "canonical_lines": [
+        18,
+        30
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MEG_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "canonical_publication_base: 92184703994a1950a5660654ce52d8516dbe9bf5",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        23,
+        22
+      ],
+      "canonical_lines": [
+        34,
+        35
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MEG_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MEG_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior47-package source publication base is `92184703994a1950a5660654ce52d8516dbe9bf5`; frozen author/control/progress snapshots below retain their dated meaning. Execution requires ROOT’s successful actual exact-head audit chain."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        126,
+        126
+      ],
+      "canonical_lines": [
+        139,
+        139
+      ],
+      "frozen_text": [
+        "This is a local character-monograph candidate at existing required home P3-CHAR-MEG, responsibilitiesF032/A137. Its argument is complete within the declared textual boundaries and pending independent ROOT receiving, exact verification and adoption. CurrentV3 controls identify the home; they do not grant completion because the producer has written a draft. The one literal private family10060/CH0088 has no invented event-profile addition. Historical firstness and independence stay UNKNOWN, performed voice stays unreceived, and the original gaps remain OPEN at the following claim-specific boundaries."
+      ],
+      "canonical_text": [
+        "This monograph occupies existing required home P3-CHAR-MEG, responsibilitiesF032/A137. ROOT independently received and accepted its complete argument within the declared textual boundaries with limits; canonical persistence follows complete ROOT installation. CurrentV3 controls identify the home; they do not grant completion because the producer has written a draft. The one literal private family10060/CH0088 has no invented event-profile addition. Historical firstness and independence stay UNKNOWN, performed voice stays unreceived, and the original gaps remain OPEN at the following claim-specific boundaries."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        149,
+        149
+      ],
+      "canonical_lines": [
+        162,
+        162
+      ],
+      "frozen_text": [
+        "This monograph leaves the required directed Meg–Kasumi, authority/recipient and Sensei questions, Hot Springs ensemble and institution/labor/permission/repair work, and written-register packages as distinct Phase3 duties. Their necessity is not optional enrichment of an already completed full-cast goal. Independent ROOT adoption and those remaining required homes are outstanding; this C-only draft does not alter source admission, allocate a denominator, award a milestone, validate a model or authorize publication. All prior frozen deliveries remain unchanged."
+      ],
+      "canonical_text": [
+        "This monograph leaves the required directed Meg–Kasumi, authority/recipient and Sensei questions, Hot Springs ensemble and institution/labor/permission/repair work, and written-register packages as distinct Phase3 duties. Their necessity is not optional enrichment of an already completed full-cast goal. ROOT accepted this character argument with limits; those remaining analytical duties are outstanding. The immutable original C-only draft supplied no source admission, denominator allocation, milestone, model or publication authority; this derivative takes effect only after complete ROOT installation. All prior frozen deliveries remain unchanged."
+      ]
+    }
+  ],
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false
+}

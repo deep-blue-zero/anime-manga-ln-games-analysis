@@ -1,0 +1,797 @@
+{
+  "schema": "BLUE_ARCHIVE_ROOT_ABYDOS_FIRST_MONOGRAPH_EXACT_VERIFICATION_V1",
+  "person": "NONOMI",
+  "status": "PASS_WITH_LIMITS",
+  "source_head": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+  "main_comparator": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+  "frozen_outputs": [
+    {
+      "file": "BLUE_ARCHIVE_NONOMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 43519,
+      "sha256": "bb97bead89b4e8b62fb801b2027b0ea699c92d09124103f548c51263a3f724a0"
+    },
+    {
+      "file": "NONOMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 68234,
+      "sha256": "fe513b5573023d621fb2a09cfbdbb853b2af7a0b8cab2d0108683aacb4b76536"
+    },
+    {
+      "file": "NONOMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 11242,
+      "sha256": "80ec11f1ebbdca381646404d55d1caf82ebac660a4760d7b060e43053c5cf18d"
+    },
+    {
+      "file": "NONOMI_EXACT_PAIR_METADATA.json",
+      "bytes": 3991,
+      "sha256": "e58bf6f675da3c73296048de4c041981f9ebb84135898bcee9a8f97cc7c8d3ab"
+    },
+    {
+      "file": "NONOMI_MM_PAIR_METADATA_PROBE.json",
+      "bytes": 1889,
+      "sha256": "3a8b6b507aedc82747612dd8562b858ff6a81374d9bd3f5935755ebb04bb356a"
+    }
+  ],
+  "declared_input_checks": [
+    {
+      "field": "/candidate",
+      "file": "BLUE_ARCHIVE_NONOMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 43519,
+      "sha256": "bb97bead89b4e8b62fb801b2027b0ea699c92d09124103f548c51263a3f724a0",
+      "binding_scope": "CURRENT_EXACT"
+    },
+    {
+      "field": "/architecture",
+      "file": "BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "bytes": 52261,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": false,
+      "current_architecture_exception": true
+    },
+    {
+      "field": "/new_complete_accepted_arguments/0",
+      "file": "BLUE_ARCHIVE_NONOMI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 23116,
+      "sha256": "ab3b0c7fbc4ae7d91ebd54a0324d60aaf1cf0165e65cb655c24facec9fffbd28",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/new_complete_accepted_arguments/1",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E011_DEEP_READING.md",
+      "bytes": 8795,
+      "sha256": "8373e5d7092d8db8704365bfe1ea33589f456057ff2b18524dcbe772889c4837",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/new_complete_accepted_arguments/2",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E012_DEEP_READING.md",
+      "bytes": 7452,
+      "sha256": "4a25f3c09e98838678ca44dc959df335f5d170e72090e447f66ebd2cc326ca54",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/new_complete_accepted_arguments/3",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E014_DEEP_READING.md",
+      "bytes": 4391,
+      "sha256": "966c8560fd315beceee92767632a5fb420865ad307f5b6fa32e70283477b6319",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/new_complete_accepted_arguments/4",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E013_DEEP_READING.md",
+      "bytes": 6703,
+      "sha256": "b5542b0af0ce4f06d26999eacc1aa6510246603840018e54229a7b574228d2bb",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/new_complete_accepted_arguments/5",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E020_DEEP_READING.md",
+      "bytes": 5085,
+      "sha256": "f27e0249b45f4b0adca6c06abf1b1add4c9d3962c2c2b9335b93e2da2b7bab93",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/new_complete_accepted_arguments/6",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E022_DEEP_READING.md",
+      "bytes": 4386,
+      "sha256": "b3e97e8f62975a5fbfc909dfa30220f03c70bb133d9328f76a750f66d581d109",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/0",
+      "file": "BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 64540,
+      "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/1",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md",
+      "bytes": 15930,
+      "sha256": "ad171481bb6a70647d7603f82b634ca89888f727aff3458fdc9d85367093fe40",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/2",
+      "file": "BLUE_ARCHIVE_SHIROKO_BOND_10100_E002_DEEP_READING.md",
+      "bytes": 6805,
+      "sha256": "35106b1781d24e6fcaefe9d646596c5af53755bb1ce5e8277f6a8be6b2b0b5b7",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/3",
+      "file": "BLUE_ARCHIVE_SHIROKO_BOND_10100_E003_DEEP_READING.md",
+      "bytes": 6456,
+      "sha256": "895c4eabe29e9f9887cc4b08a0d5867447a4f955d72223e2e0cb5fc45148b4ed",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/4",
+      "file": "BLUE_ARCHIVE_SHIROKO_BOND_10100_E005_DEEP_READING.md",
+      "bytes": 7745,
+      "sha256": "6491b0faaf7eee4abbea2e37d3fec46380fd4aae07e1ee1ceda56328e915ad76",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/5",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C001_E001_DEEP_READING.md",
+      "bytes": 3778,
+      "sha256": "17697331a1b3c374fc0b33e1d6f9597e6dd0d24ee01a6ae4cd7d60579a068539",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/6",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C001_E002_DEEP_READING.md",
+      "bytes": 9291,
+      "sha256": "2e9adb713e8f5ff269a55d34502347c6d569d7cc4f8e3b0b1ed713c58299c69b",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/7",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C001_E015_DEEP_READING.md",
+      "bytes": 9029,
+      "sha256": "86309485bf05375ceb85b6fb4cb230d0e831c56f6ab9f89cadc0251817a6f199",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/8",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C002_E001_DEEP_READING.md",
+      "bytes": 7085,
+      "sha256": "4c292bcbbcbc4558395bb2efb9bbfc43dab51b52d9f74abaff3506c5582a90f6",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/9",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C003_E002_DEEP_READING.md",
+      "bytes": 7307,
+      "sha256": "40eb32f161cbd3277d6adc4ac84ccfd7fd4c4608f97d993503ba291f758ec54c",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/10",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E012_DEEP_READING.md",
+      "bytes": 4078,
+      "sha256": "4449ce94061fdbebebf3dcee54b0cf30de0297103a4650ed14761fb3e168958d",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/11",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+      "bytes": 18013,
+      "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/12",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C001_E003_DEEP_READING.md",
+      "bytes": 7726,
+      "sha256": "4ee1f214d87b88accd29ce6bb13026d74d2a1cd0f4c5d722de11258b316e0095",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/13",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C002_CHECKPOINT.md",
+      "bytes": 13519,
+      "sha256": "30ac3ba693ff56140fb8d57b5caf73352206692a17ac9628b347eb19a7bd1408",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/14",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C002_E002_DEEP_READING.md",
+      "bytes": 8889,
+      "sha256": "d630c4abc79e08951a469e0f45703bca766026750a09e433ae6b14cb1ed54d8d",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/15",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C002_E019_DEEP_READING.md",
+      "bytes": 4950,
+      "sha256": "86748d26f944073a8db67e94e42597cea02ed56f0f2e8167f7672fc0f96160f8",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/16",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+      "bytes": 14443,
+      "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/17",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+      "bytes": 6643,
+      "sha256": "341fac9070d15a90f4d180c2402d57f43e811af5cd1a455be2afb42f4f18fe2c",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/18",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C003_E016_DEEP_READING.md",
+      "bytes": 7713,
+      "sha256": "e63d4a03696ab0d250ba75747a92de85b769a9d0e66e5f076dda0fc1fb379561",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/19",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+      "bytes": 12691,
+      "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/20",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E002_DEEP_READING.md",
+      "bytes": 5605,
+      "sha256": "59978e87fce22d33108f7044976f295fe7ae9e7dc628d9677c3dcb8cea3175dd",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/21",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E003_DEEP_READING.md",
+      "bytes": 4897,
+      "sha256": "64d447b6dacdc1c4bf316b2aee766a63f44ba3e18bbf393d262d2aa9702884ef",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/22",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E004_DEEP_READING.md",
+      "bytes": 4196,
+      "sha256": "2c10837e9f8d228ccbc5dd10e2c5d872a25b700dd540d966769f49d6602b1238",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/23",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E005_DEEP_READING.md",
+      "bytes": 5259,
+      "sha256": "a9a841059c515616b52abd72e76c58aa38f42f11d7852dacf04af144e82129ba",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/24",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E006_DEEP_READING.md",
+      "bytes": 6405,
+      "sha256": "2d0ea8b7769611b6fffecaa2411bb4f1843af5bb70e507e10960d48e7b5a3e9b",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/25",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E009_DEEP_READING.md",
+      "bytes": 7558,
+      "sha256": "9ceb58b3110855a13a76fa3e93329558a2ae2d768cf15e6b0ad1b24c32d58520",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_complete_custody_reused_unchanged/26",
+      "file": "BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 49292,
+      "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/0",
+      "file": "BLUE_ARCHIVE_AYANE_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 32396,
+      "sha256": "bcf779d591e3f5a6f245f0eb97a12ba5901cce73dd55ddf0b599b007db95b519",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/1",
+      "file": "BLUE_ARCHIVE_SERIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 32558,
+      "sha256": "8929ef84f8741a0fc9ae3600ac55dfe829a43b6869b80987ab6cf2a3d2206659",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/2",
+      "file": "BLUE_ARCHIVE_GROUP_2101_2102_DEEP_READING.md",
+      "bytes": 36756,
+      "sha256": "ad22e97278f7e35ec5d43e27a1dbaafb14409070468c62a7d02b6d3003af3845",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/3",
+      "file": "BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 20216,
+      "sha256": "04a41b534c4102c215832cce876737f0d3ff3907088cd0a7194b8ffdeb523c04",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/4",
+      "file": "BLUE_ARCHIVE_EVENT_814_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 21203,
+      "sha256": "d86f83f03550a6798ff327abf1cf46b020498e3f4639165144e1c8ad2b0915b0",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/5",
+      "file": "BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 20301,
+      "sha256": "c20995216bd4dc6938a49a9cdb5bcec03689f95b3154cb96231a19b4f4ce76d7",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/6",
+      "file": "BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 46462,
+      "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/7",
+      "file": "BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 51286,
+      "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/8",
+      "file": "BLUE_ARCHIVE_EVENT_841_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 49903,
+      "sha256": "1964ab85a295573b91336b3971fa833e63458b881e4391d29891cd0b2cb17b46",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/9",
+      "file": "BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 28870,
+      "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/10",
+      "file": "BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 109502,
+      "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/prior_other_whole_or_current_semantic_spans_reused/11",
+      "file": "BLUE_ARCHIVE_HOSHINO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 28578,
+      "sha256": "ce450a0b591bc754a48959a378ef1099875410d3ae67df1aa06f4e18b4c4e364",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/current_complete_argument_refresh/0",
+      "file": "BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 64540,
+      "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/current_complete_argument_refresh/1",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md",
+      "bytes": 15930,
+      "sha256": "ad171481bb6a70647d7603f82b634ca89888f727aff3458fdc9d85367093fe40",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/necessary_primary_recovery/0",
+      "file": "VARIANT_13004_EPISODE_015.md",
+      "bytes": 7354,
+      "sha256": "3ac65ed482dce52917c8de85c58528121f4ac6bb42ba5bd67883acbc9d23f4bd",
+      "binding_scope": "CURRENT_EXACT"
+    },
+    {
+      "field": "/necessary_primary_recovery/1",
+      "file": "VARIANT_13004.md",
+      "bytes": 5817,
+      "sha256": "7ad7861b65ba7c00bc78facf49ed7d1254efe109e5c44581181d326235c57bec",
+      "binding_scope": "CURRENT_EXACT"
+    },
+    {
+      "field": "/pair_validation",
+      "file": "MOMOTALK_BOND_CROSSWALK.csv",
+      "bytes": 218881,
+      "sha256": "5cf370f803c711980f1a1716b9453711cedd69836929399619d3a4f2bbddba8a",
+      "binding_scope": "CURRENT_EXACT"
+    },
+    {
+      "field": "/metadata_probes/1",
+      "file": "BLUE_ARCHIVE_PHASE2_CURRENT_MOMOTALK_SOURCE_CROSSWALK.csv",
+      "bytes": 507468,
+      "sha256": "dca269665a9ef137cd6a95179e3900d042939cf1629a5cf31f4e78e06bdc0f1a",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/nonloadbearing_retrieval_correction",
+      "file": "BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 13393,
+      "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/final_refresh_probe",
+      "file": "BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 49292,
+      "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/historical_metadata_boundary",
+      "file": "BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "bytes": 443241,
+      "sha256": "e9de04192b2add837ae0130aa6e0d33b8e94843d4baca5580ff0612eb203ecf4",
+      "binding_scope": "HISTORICAL_ONLY"
+    }
+  ],
+  "selected_private_checks": [
+    {
+      "story_id": "BA:bond:10044:002",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/NONOMI/VARIANT_10044_EPISODE_002.md",
+      "sha256": "4d5c8bb0d928d4d380dc13e9f9c9077363f95a2c10002c8072fbd61de574ae33",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:10044:003",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/NONOMI/VARIANT_10044_EPISODE_003.md",
+      "sha256": "bf51715f2d82dfbf3378adb818b7c8a4e25b72f7baa8c04d08006c52209acc51",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:10044:005",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/NONOMI/VARIANT_10044_EPISODE_005.md",
+      "sha256": "fb3401cfbf8d5aa0a0c06dc01ff48dd9f34cde9dbf6297c5da33ca4b2cf66b49",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13004:002",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/NONOMI/VARIANT_13004_EPISODE_002.md",
+      "sha256": "692d32575b227aa687b5b842ee4c02b869ff43a1b15322336b47eaea1290f9ec",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13004:003",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/NONOMI/VARIANT_13004_EPISODE_003.md",
+      "sha256": "bfd3f2de99baa7446b6e9451183b573e3c8b4fa51074fd0834e66494fa6b60e0",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13004:005",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/NONOMI/VARIANT_13004_EPISODE_005.md",
+      "sha256": "8cdd65dccb08a4607717216bfc86cb592dc2e875ce2f13354f31a7dafb620b34",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13004:006",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/NONOMI/VARIANT_13004_EPISODE_006.md",
+      "sha256": "9a10a7e090f93026f71409953920966c725fbd71d05dc8d8411e112483382c65",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13004:008",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/NONOMI/VARIANT_13004_EPISODE_008.md",
+      "sha256": "99131b54bd0ae9d775eea80ff0581bfd571ae761f8e48f7746ea60c16832b31f",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13004:015",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/NONOMI/VARIANT_13004_EPISODE_015.md",
+      "sha256": "3ac65ed482dce52917c8de85c58528121f4ac6bb42ba5bd67883acbc9d23f4bd",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:10044:thread:100440010",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/NONOMI/THREAD_100440010.md",
+      "sha256": "9dbc2196976f8b7302d220bd6d5da1ab3174895cdeb2ac4b4f4f4d9e690ab37b",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:10044:thread:100440110",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/NONOMI/THREAD_100440110.md",
+      "sha256": "8a90dd3a1e21f0cda3e200e1fdbcd6a20b25d6b18ce8f3a3d4a8f37be50e9596",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:10044:thread:100440200",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/NONOMI/THREAD_100440200.md",
+      "sha256": "f462b40d3aee977cb7c23451c46bfbdf405d04c0fa1e52c5049815d5e7cc6282",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13004:thread:130040010",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/NONOMI/THREAD_130040010.md",
+      "sha256": "12a6bff350c50e56a187efe6e5e22a1138c7400f0e1e3d57d666bc0203d1226e",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13004:thread:130040080",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/NONOMI/THREAD_130040080.md",
+      "sha256": "d50ee0ce4c116bde5980d6e86fde576a26fb7ad347aed633ea9fbaf880e1ae95",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13004:thread:130040130",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/NONOMI/THREAD_130040130.md",
+      "sha256": "bcf27ed374fa78844c0e1f7c3b0dbb617702265e04dc49b43a2d5c3242d38d9c",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13004:thread:130040190",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/NONOMI/THREAD_130040190.md",
+      "sha256": "db2e876c989450907166b953084101ddf0ba8117758df2a04a0506428595ca33",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13004:thread:130040250",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/NONOMI/THREAD_130040250.md",
+      "sha256": "e9ea4c124f652aa7ca77414c39ea5f375a2f59544037567f220efcea20867918",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13004:thread:130040270",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/NONOMI/THREAD_130040270.md",
+      "sha256": "0b22c131fc9345aec94551cb4bdb278d3e2bde7b4809ba573adffe9986c77768",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:character_data:10044:profile_and_dialog",
+      "canonical_path": "02_CANONICAL_STORIES/CHARACTER_DATA/NONOMI/VARIANT_10044.md",
+      "sha256": "2b11c2dbdfe596aa7c91482e9b6fe05eadb26a36d8048e599f8e2cc0674ece95",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:character_data:13004:profile_and_dialog",
+      "canonical_path": "02_CANONICAL_STORIES/CHARACTER_DATA/NONOMI/VARIANT_13004.md",
+      "sha256": "7ad7861b65ba7c00bc78facf49ed7d1254efe109e5c44581181d326235c57bec",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:character_data:event_costume:1900905101:character:10044",
+      "canonical_path": "02_CANONICAL_STORIES/CHARACTER_DATA/CONTEXTUAL/BA_character_data_event_costume_1900905101_character_10044.md",
+      "sha256": "e608dafffcbfaf7aff6d96b3ca74ad39c42babfc0d38aec6a2e223d1bef251cf",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    }
+  ],
+  "mechanical_checks_are_semantic_receiving": false,
+  "N_frozen": false,
+  "quarter_reached": false,
+  "pair_scope_correction": "10 exact physical manifest rows for9 unique thread/episode pairs; two messages within130040080 launch the same E003. Frozen source scope label SELECTED_NINE_METADATA_ROWS describes unique pairs imprecisely; canonical derivative must distinguish rows and pairs.",
+  "pair_bindings": {
+    "manifest_bytes": 218881,
+    "manifest_sha256": "5cf370f803c711980f1a1716b9453711cedd69836929399619d3a4f2bbddba8a",
+    "physical_selected_rows": 10,
+    "unique_thread_episode_pairs": 9,
+    "rows": [
+      {
+        "thread_id": "BA:momotalk:10044:thread:100440010",
+        "message_id": "BA:momotalk:10044:100440070:100440100",
+        "favor_schedule_id": "100442",
+        "bond_raw_group_id": "1004402",
+        "bond_story_id": "BA:bond:10044:002",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:10044:thread:100440110",
+        "message_id": "BA:momotalk:10044:100440170:100440250",
+        "favor_schedule_id": "100443",
+        "bond_raw_group_id": "1004403",
+        "bond_story_id": "BA:bond:10044:003",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:10044:thread:100440200",
+        "message_id": "BA:momotalk:10044:100440240:100440320",
+        "favor_schedule_id": "100445",
+        "bond_raw_group_id": "1004405",
+        "bond_story_id": "BA:bond:10044:005",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13004:thread:130040010",
+        "message_id": "BA:momotalk:13004:130040050:1003",
+        "favor_schedule_id": "130042",
+        "bond_raw_group_id": "1300402",
+        "bond_story_id": "BA:bond:13004:002",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13004:thread:130040080",
+        "message_id": "BA:momotalk:13004:130040100:1010",
+        "favor_schedule_id": "130043",
+        "bond_raw_group_id": "1300403",
+        "bond_story_id": "BA:bond:13004:003",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13004:thread:130040080",
+        "message_id": "BA:momotalk:13004:130040100:1011",
+        "favor_schedule_id": "130043",
+        "bond_raw_group_id": "1300403",
+        "bond_story_id": "BA:bond:13004:003",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13004:thread:130040130",
+        "message_id": "BA:momotalk:13004:130040160:1022",
+        "favor_schedule_id": "130045",
+        "bond_raw_group_id": "1300405",
+        "bond_story_id": "BA:bond:13004:005",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13004:thread:130040190",
+        "message_id": "BA:momotalk:13004:130040220:1032",
+        "favor_schedule_id": "130046",
+        "bond_raw_group_id": "1300406",
+        "bond_story_id": "BA:bond:13004:006",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13004:thread:130040250",
+        "message_id": "BA:momotalk:13004:130040260:1038",
+        "favor_schedule_id": "130048",
+        "bond_raw_group_id": "1300408",
+        "bond_story_id": "BA:bond:13004:008",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13004:thread:130040270",
+        "message_id": "BA:momotalk:13004:130040340:130040110",
+        "favor_schedule_id": "1300415",
+        "bond_raw_group_id": "1300415",
+        "bond_story_id": "BA:bond:13004:015",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      }
+    ]
+  },
+  "eleven_section_structure": "CONFIRMED_NOT_SUBSTANTIVE_ACCEPTANCE_BY_COUNT",
+  "root_literary_receiving": {
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "whole_body_receipts": [
+      "58ddb2:1–126",
+      "94731b:127–247 EOF"
+    ],
+    "whole_readable_custody_receipt": "bc7abd:whole59 lines",
+    "qualified_json_scope_receiving": "1c40d8:complete compact input/scope controls;57 exact bindings mechanically checked inca2cdb",
+    "new_root_primary_receiving": [
+      "eea6d7:whole231-line notebook B13004E015",
+      "01e63d:whole96-line normal13004 written register"
+    ],
+    "literary_grounds": "Her central question is chosen participation amid unequal material resources. Sharing a private wish list, remembered sweets and cleaning, games and her own pleasures supply wanted collective life independently of rescuing the school. The notebook invites this particular inspection while keeping its burden-avoidance and peer reciprocity visible. Her earlier refusal of the Highlander card, independent peer protection, generosity that fails materially, possible recipient pressure, and coerced family self-erasure resist an uncomplicated benefactor interpretation. Later rescue permits continued participation without proving corporate authority, unrestricted assent or completed repair. All eleven joined dimensions, developed rival readings, counterevidence and exact endpoints have been received.",
+    "specific_limits": [
+      "Ten physical pair-manifest rows resolve to nine unique thread/episode pairs; two launch messages within one cleaning thread do not create two threads.",
+      "Secret notebook sharing is a particular invitation, not universal permission; peer smiles are her recollection, not newly received testimony.",
+      "Family titles, corporate board/card claims and later login proposal retain report/hypothesis status.",
+      "Future wishes, joking skydiving invitation and independent refusal remain distinct from fulfilled acts.",
+      "Twenty-one private inherited exact bindings do not grant a new whole primary reading of all21 objects."
+    ],
+    "mechanical_checks_are_literary_receiving": false,
+    "remaining_limits": [
+      "All14 original claim-specific source gaps remain OPEN",
+      "No performed voice/raw native AV replay, global chronology, clinical/legal certificate, model/prediction promotion",
+      "Relationship/ensemble/institution/Sensei and register duties remain separate fullPhase3 obligations"
+    ]
+  },
+  "canonical_adoption": "CANONICAL_SOURCE_BRANCH_DERIVATIVE",
+  "canonical_derivative": {
+    "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NONOMI_CHARACTER_MONOGRAPH.md",
+    "bytes": 44134,
+    "sha256": "dc78590b78a80fa99dc023f357d281e5deb677257d7c0942e93ab57ae428c4b7",
+    "frozen_author_bytes": 43519,
+    "frozen_author_sha256": "bb97bead89b4e8b62fb801b2027b0ea699c92d09124103f548c51263a3f724a0"
+  },
+  "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_NONOMI_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+  "source_reference_translation": "External selected corpus and immutable local witness refs preserve exact original tuples/scopes without publishing machine paths."
+}
