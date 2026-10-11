@@ -1,0 +1,175 @@
+{
+  "schema": "BLUE_ARCHIVE_CHERINO_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHERINO_CHARACTER_MONOGRAPH.md",
+  "current_scope": "355 required packages;29 non-denominator mandatory substantial named duties across25 distinct parent packages; literal kinds18 SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE",
+  "dated_source_beforeimage_witness": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "dated_source_tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "accepted_merged_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "commit_custody_qualification": "7546 source and b76 squash main have the same e9 tree; distinct commit and audit custody is preserved. This preparer performed no fetch, local reconciliation, merge or new remote observation.",
+  "fixed_preparation_snapshot": {
+    "packages": [
+      90,
+      101
+    ],
+    "new_packages": 12,
+    "after_complete_ROOT_install": 101,
+    "characters": 89,
+    "directed_relationships": 6,
+    "ensembles": 3,
+    "institutions": 3,
+    "named_duties_after_complete_ROOT_install": 3,
+    "previous_merged_packages": 89,
+    "next_milestone": 178,
+    "later_live_acceptances_excluded": true
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "Original pending/local/counter/source-capture/receiving fields retain creation-time meaning. The separate complete ROOT acceptance controls current literary judgment; the accepted milestone control supersedes only earlier first-milestone pending states. No author physical source receiving is inferred retrospectively.",
+  "original_exact_tuple": {
+    "path": "ROOT_CHERINO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 4956,
+    "sha256": "ab2627632560261df3ff2ae38612e869096cd47b284bed105d2aa0c0bd3c34c5",
+    "git_blob_oid_of_actual_bytes": "eecf846bbb74c42e8f8d555d7e485424723ff4dc",
+    "immutable_transport_path": "immutable_originals/ROOT_CHERINO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_CHERINO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "checked_at": "2026-10-10T18:17:40.481543+00:00",
+    "status": "PASS_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/BLUE_ARCHIVE_CHERINO_CHARACTER_MONOGRAPH.md",
+      "bytes": 36985,
+      "lines": 176,
+      "sha256": "f4c4f38775db0fa4809882cb64e1065890c5adad5de7964c400799306356aa1f"
+    },
+    "existing_home": "P3-CHAR-CHERINO",
+    "source_responsibility": "P3-F081",
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHERINO_CHARACTER_MONOGRAPH.md",
+    "mandatory_operative_body": "176-line original as-is; qualified current metadata and link adoption only",
+    "finite_bindings": {
+      "unique_pairs": 217,
+      "occurrences": 231,
+      "historical_comparisons": 39,
+      "nonempty_line_joins": 112,
+      "prior_payloads_preserved": 169,
+      "separate_supplements_preserved": 12,
+      "additional_original_manifests_preserved": 5
+    },
+    "architecture": "1.12 section7.1; all eleven substantive character dimensions",
+    "seven_whole_rivals": "RECEIVED",
+    "fourteen_original_literal_gaps": "OPEN",
+    "ROOT_actual_receiving": {
+      "whole_original_body": [
+        "69319f1–65",
+        "1dc12866–125",
+        "d0b48a126–176EOF"
+      ],
+      "whole_readable_receipt": "7773d3 complete35",
+      "whole_metadata_probe": "f74e1d complete144; creation-time pending-readback remains history",
+      "whole_frozen_manifest": "d8d34a complete56",
+      "complete_semantic_control_fields": "948d80 complete controls,authority,home,claims,all14gaps,admittedgift,debt,actualscope;52751e all13 source extents;b60141 all24 responsibilityIDs",
+      "analytical_source_receiving": "ROOT actual whole Cherino245 in032cd2/0a0798/8c82b7; whole GROUP130138133bdd; whole gift81002570217963; wholeV4C2E01347da9ebc; wholeS2V1C1E00642dadc5f. Earlier adequate personally received sharedRedWinter495,G280143,E802103,E808100,E839158,E829160,E852205,FinalE00829 reused within declared scopes; no new whole primary credit.",
+      "no_invented_source_credit": "Exact tuple/historical/paragraph/preservation checks mechanically verify custody; individual14 filename existence is not14 fresh body reads;24 responsibilities are not24 ROOT primaries."
+    },
+    "semantic_grounds": [
+      "Recognition is an intrinsically wanted experience and an asymmetric practice of office. Actual design,snowmaking,play,waking comfort,duck revaluation,taste and art remain substantive independent ends.",
+      "Private vulnerability does not cancel threatened staff punishment,recipient pressure or changing administrative criteria. Public care and private hierarchy prevent a hidden-true-self account.",
+      "Book return,opposition to particular cruelty,regard for Marina and actual demolition deferral are real local revisions. Renewed exclusion,unfulfilled benefits and Meg destruction remain; no universal reform or restitution inferred.",
+      "Dream ends before waking fear and comfort; no actual coup,age9,uniform chronology or constant adult availability. Written context activation and unequal editions do not create enacted encounters.",
+      "Recipients retain independent taste,work,refusal and bodily limits. Group fabrication and coercion do not certify advance Cherino knowledge of exact methods; Tomoe petition burning is not an unprinted Cherino order.",
+      "Gift tasting and partial sharing are achieved;unlimited production,broad publicity,envoy acceptance and purge execution are unprinted. Main chocolate offer/current protest withdrawal are local;later attack knowledge,shipments and claimant authentication are unasserted.",
+      "Seven serious rivals,eleven dimensions,all14 original OPEN gaps and exact mode/identity/performance limits remain. Separate355/29 homes retain independent obligations."
+    ],
+    "current_scope": "355 required packages plus29 mandatory named sections;788 navigation identities unchanged",
+    "progress": {
+      "previous_ROOTaccepted_packages": 93,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 94,
+      "character_packages": 85,
+      "directed_relationship_packages": 6,
+      "ensemble_packages": 2,
+      "institution_packages": 1,
+      "published_remote_packages": 89,
+      "published_source_commit": "86e0c3d8071aeaa2ed09bb79d4a28fce1c117103",
+      "canonical_persistence": "PENDING_NEXT_EXACT_CANONICAL_ADOPTION",
+      "fixed_first_quarter_tranche": "EXCLUDED_PACKAGE94; fixed74–89 already published",
+      "goal_25_percent_milestone_complete": false
+    },
+    "new_primary_native_raw_QA_AV_model_credit": 0,
+    "nine_unbound_large": "UNOPENED_UNREAD_UNHASHED",
+    "R_Git_provider_writes": false,
+    "main_integration": "PENDING_FIRST_MILESTONE_AUTHORIZED_MERGE_AND_POSTMERGE_AUDIT"
+  },
+  "public_reference_translation": "Every original field survives exact reference translation. Original tuples bind original bytes, not derivative bytes; full immutable C transports and literal inverses are retained.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHERINO_CHARACTER_MONOGRAPH.md",
+    "bytes": 39200,
+    "sha256": "b6c7f57bb43477cbd0af69415c688b5484c48aa859e0047730e88cba71a36531",
+    "git_blob_oid_of_actual_bytes": "6f0ff2a1318ff76b9f4d68332b612d1fc7b8a17a"
+  },
+  "authority_framing_changes": [],
+  "mandatory_operative_qualification": "176-line original as-is; qualified current metadata and link adoption only"
+}
