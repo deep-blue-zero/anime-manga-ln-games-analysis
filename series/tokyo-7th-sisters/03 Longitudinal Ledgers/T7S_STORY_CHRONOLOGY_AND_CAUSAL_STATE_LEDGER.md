@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.61"
+version: "11.62"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 217 complete i-n-g primary documents / T7S_B0080–T7S_B0160; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 220 complete i-n-g primary documents / T7S_B0080–T7S_B0161; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-11
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 715`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 845`; `last_closed_block = T7S_B0160`. The admitted horizon contains 452 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 217 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 727`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 859`; `last_closed_block = T7S_B0161`. The admitted horizon contains 455 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 220 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2549,3 +2549,41 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.64. [B0160](../02%20Readings/
 | `EDGE-0852` | `LESSON_SELF_DISCOVERY_TO_RECIPROCAL_GRATITUDE` | Final thanks in `012` returns her present understanding to the enabling recruitment relation. |
 
 `T7S_B0160_CLOSE-20261011`: twelve events and fourteen typed edges; the pupil's reception remains local and attributed, with no total cross-chapter chronology or new recruitment.
+
+## B0161 Rena's possible recommendation and conditional dual pursuit
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.65. [B0161](../02%20Readings/T7S_B0161_DEEP_READING.md) owns the complete A/B/C locator key and prospective committed B0160 entering boundary. The possible recommendation, one-week deliberation, optional live and conditional decision form one causal envelope. Local week/tomorrow intervals are explicit; no total order against Main or earlier i-n-g is supplied. Adviser, schoolgirls and viewer reception remain attributed/local roles.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0161-001` | On club day off Rena enjoys Nanasta work; classmate assumes professional future; another conveys adviser summons. | A:P0–19; `KNOW-0491`. Classmate assumption not settled career; adviser meeting unshown. |
+| `EV-B0161-002` | Ferb offers existing upbeat song, reports QOP composition benefiting other work and promises data for Player/Jeda. | A:P20–34; `KNOW-0492`. Delivery/composition not heard or independently confirmed; no permanent trio. |
+| `EV-B0161-003` | Rena reports recommendation might follow continued high-jump results; assesses athletics as loved but not prospective profession and anticipates university/idol conflict. | A:P35–77; `KNOW-0493`. Explicitly no issued recommendation; talent ceiling and university constraints are her assessments. |
+| `EV-B0161-004` | One week of circular thought affects club focus; chance café-area meeting brings distracted Rena to Ferb/Jeda before rehearsal and tomorrow's stream. | B:P0–34; `KNOW-0494`. Local interval, no exact calendar date or cure from exercise. |
+| `EV-B0161-005` | Ferb/Jeda state musical aims while qualifying future certainty; Rena recalls Kyoko/Honoka opening unexpected idol route. | B:P35–63; `KNOW-0495`. Present commitment and possible change coexist; no abandoned music career. |
+| `EV-B0161-006` | Three seek Player's experience; he reports prior hesitation, present non-regret and desire to work with idols, then challenges no-regret criterion and validates plural loves. | B:P64–111; `KNOW-0496`. Situated testimony, not guaranteed career formula or future foresight. |
+| `EV-B0161-007` | Jeda proposes tomorrow's stream as change of pace; Player raises preparation concern, confirms optionality, obtains Rena's assent and advances today's schedule. | B:P112–139; `KNOW-0497`. One present choice/adjustment, no long-term university coordination. |
+| `EV-B0161-008` | Rena remains nervous after one-night practice; peers praise rehearsal; readiness and narration lead through black transitions into aftermath. | C:P0–16; `KNOW-0498`. Actual stage act elided, no heard song/choreography verdict. |
+| `EV-B0161-009` | Peers/Player report success, good viewer response and chemistry; Rena admits positioning errors but rejects mistake-based explanation of tears. | C:P17–37; `KNOW-0499`. Attributed reception and reassurance, not independent viewer/technical evidence. |
+| `EV-B0161-010` | Rena recalls athletic defeat through wish for more practice, higher jumps and better dance and voices both loves; Ferb calls both indispensable. | C:P38–52; `KNOW-0500`. Frustrated improvement-desire, not denial of reported success or completed cure. |
+| `EV-B0161-011` | If recommended, Rena intends university without quitting idols, wants to try both within capacity despite difficulty/regret; others support and she feels a little relieved. | C:P53–68; `KNOW-0501`. Recommendation still undecided; no admission, sustainable dual-career proof or accommodation plan. |
+| `EV-B0161-012` | Player praises smile; Rena/peers tease him for apparent flirting and he denies intention; familiar banter returns. | C:P69–86; `KNOW-0502`. Local interaction, not established romance or eliminated logistical problem. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0853` | `CLASSMATE_ASSUMPTION_TO_PROFESSIONAL_FUTURE_QUESTION` | `001` exposes a professional expectation Rena has not adopted; no causation of the adviser proposal claimed. |
+| `EDGE-0854` | `REPORTED_QOP_CREATIVITY_TO_CROSS_WORK_SONG_OFFER` | `002` supplies existing song for planned stream; Ferb attributes spillover to QOP, with delivery unshown. |
+| `EDGE-0855` | `POSSIBLE_RECOMMENDATION_TO_DUAL_PURSUIT_CONFLICT` | `003` turns prospective opportunity into anticipated constraint, not confirmed university prohibition. |
+| `EDGE-0856` | `UNRESOLVED_DELIBERATION_TO_DISTRACTION` | `003` persists into reported one-week rumination and club inattention in `004`. |
+| `EDGE-0857` | `PEER_DISCLOSURE_TO_QUALIFIED_CAREER_COMPARISON` | `005` counters Rena's assumption that others possess definitive answers; future change remains hypothetical. |
+| `EDGE-0858` | `UNEXPECTED_IDOL_ROUTE_TO_NEW_POSSIBILITY_PRECEDENT` | Rena's Kyoko/Honoka recollection in `005` supports openness without predicting a specific later occupation. |
+| `EDGE-0859` | `PEER_LIMITED_FORESIGHT_TO_ADULT_EXPERIENCE_REQUEST` | `005` leads three to ask Player in `006`; testimony not universal adult authority. |
+| `EDGE-0860` | `PLAYER_HESITATION_ACCOUNT_TO_NO_REGRET_CRITERION_CHALLENGE` | `006` distinguishes particular present commitment from regret-proof future choice. |
+| `EDGE-0861` | `RUMINATION_AND_FAILED_ROUTINE_RESPITE_TO_OPTIONAL_LIVE` | `007` proposes different activity after high jump/jogging cannot readily interrupt this concern. |
+| `EDGE-0862` | `RENA_ASSENT_TO_PREPARATION_SCHEDULE_ADJUSTMENT` | Her affirmative choice in `007` precedes Player advancing today's schedule; no coercive treatment or future plan. |
+| `EDGE-0863` | `SHORT_PREPARATION_TO_CHALLENGE_AND_REPORTED_RESULT` | `008` leads through performance ellipsis to success reports in `009`, not independently certified technique. |
+| `EDGE-0864` | `TEARS_AND_MISREADING_TO_DUAL_ATTACHMENT_DISCLOSURE` | Rena rejects mistake explanation in `009`, then articulates unfinished improvement and both loves in `010`. |
+| `EDGE-0865` | `DUAL_ATTACHMENT_TO_CAPACITY_BOUNDED_ATTEMPT` | `010` grounds conditional university-and-idol choice in `011` despite anticipated regret. |
+| `EDGE-0866` | `SUPPORTED_PRESENT_CHOICE_TO_FAMILIAR_BANTER` | Support/little relief in `011` precedes joking in `012`; future compatibility remains open. |
+
+`T7S_B0161_CLOSE-20261011`: twelve events and fourteen typed edges. The present decision closes; recommendation, future scheduling, performance technique and long-term outcome do not.

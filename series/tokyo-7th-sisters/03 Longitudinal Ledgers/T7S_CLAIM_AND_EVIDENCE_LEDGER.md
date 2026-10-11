@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.61"
+version: "11.62"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 217 complete i-n-g primary documents / T7S_B0080–T7S_B0160; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 220 complete i-n-g primary documents / T7S_B0080–T7S_B0161; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-11
@@ -20,13 +20,13 @@ last_updated: 2026-10-11
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 81 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 82 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 751`; `revisions = 42`; `predictions = 7`; `AV_reviews = 107`; `literary_findings = 751`. Claims are bounded to their stated B0001 through B0160 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 81 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 757`; `revisions = 42`; `predictions = 7`; `AV_reviews = 108`; `literary_findings = 757`. Claims are bounded to their stated B0001 through B0161 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 82 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2582,3 +2582,27 @@ Owner and A/B/C locator key: [B0160](../02%20Readings/T7S_B0160_DEEP_READING.md)
 - Outcome: `REVIEWED` for selected exact static resources and complete native page-state segmentation. Two hundred forty-three dialogue-associated voice-reference pages, BGM/SFX and actual prosody remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`. Reported idol recollection is not a viewed stage performance.
 
 `T7S_B0160_CLOSE-20261011`: six bounded claims and one static/native AV review; no universal idol definition, pupil recruitment, cured anxiety, listened voice, specialist or monograph promotion. Full 2034 release remains incomplete.
+
+## B0161 plural vocations, unfinished improvement and anticipated regret
+
+Owner and A/B/C locator key: [B0161](../02%20Readings/T7S_B0161_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.65. B0085's renewed dual perfection and B0123's capacity/refusal/banter are bounded comparisons, not rewritten freezes or total chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0161-001` | `BOUNDED_INFERENCE`; D1; high | Possible opportunity creates real deliberation before an offer exists; university conflict/professional ceiling are Rena's assessments. | A:P50–74; C:P55–67. No scholarship, admission, confirmed university ban or insincere dilemma. |
+| `CL-B0161-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Peers' present musical aims and Player's situated choice do not make plural attachment inferior; apparent career certainty remains contingent. | B:P35–111. Rival: indecision is immaturity or Ferb/Jeda abandon music; present commitment persists. |
+| `CL-B0161-003` | `FORMAL_INTERPRETATION`; D1; high | Reported success followed by tears/correction reveals unfinished practice-desire, not a technically proved failure or choice of idols over athletics. | C:P17–52. Act elided; reported audience response and positioning errors remain attributed. |
+| `CL-B0161-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Title's no-regret promise is qualified: frustrated improvement-desire differs from anticipated regret, which can coexist with a capacity-bounded present attempt. | B:P98–111; C:P38–68. No regret-free future, praise of regret itself, or durable cure of B0085 perfection pressure. |
+| `CL-B0161-005` | `BOUNDED_INFERENCE`; D1; high | Consequential support preserves voluntary choice and creates one preparation opening; later encouragement does not prove sustainable university/idol coordination. | B:P112–139; C:P53–68. Rival: coerced stage treatment or talent guarantees everything; no permanent trio/accommodation plan. |
+| `CL-B0161-006` | `FORMAL_INTERPRETATION`; D1; moderate-high | Comic manager teasing restores familiar interaction after vulnerable speech while the practical future remains open. | B:P80–111; C:P67–86. Rival: worry was performative or romance confirmed; manager denies intention, recommendation pending. |
+
+### AV-0108 — Rena's school and coordinated costume states around an elided live
+
+- Questions/claims: whether success chooses one vocation, tears prove technical failure, coordinated clothes create permanent unit, student silhouette supplies identity, or cue references prove delivery; `CL-B0161-001`–`006`.
+- Priority/modality: `AV-B` for complete native page states and eight selected exact static resources; `AV-D` for performed voice, BGM/SFX sound, continuous live/choreography, viewer comments and future outcomes.
+- Selection: Rena `adv_chara_125_01_02` / `_05`, `125_02_01` / `_03` / `_07`; Ferb `127_05_01`; Jeda `137_05_05`; generic schoolgirl `025_01`. Registry/source/output hashes and exact native face offsets were checked before parent contact-sheet inspection on 2026-10-11.
+- Observed: Rena's blouse/red neck ribbon/checked skirt over dark shorts and footwear prop contrast with purple/lime/white costume and headband; hair continuity remains. Selected `_03`/`_07` faces visibly include tears. Ferb/Jeda share costume palette; Jeda winks. Gray uniform outline is generic, not personal portrait. Static expressions do not certify psychological cause or technical ability.
+- Native occurrence: all 305 pages reviewed. Command-only A:P11,18–19,77; B:P0,4,14–17,72–75,139; C:P0,9–11,15–16,86. C:P11–15 black-state narration elides act; C:P16 returns to room. B:P124/C:P44 `adv_shake` is authored effect, not observed runtime bodily movement. BGM placement does not prove heard emotional color.
+- Outcome: `REVIEWED` for selected exact static resources and complete native page-state segmentation; source-lock 12.65 binds receipts. Two hundred twenty-six dialogue-associated voice pages plus title cues, actual sound/prosody and live remain unreviewed and `BOUND_BY_CLAIM_RESTRICTION`. Audio input capability is unsupported in this analysis session, not a waiver of the performed-voice release requirement.
+
+`T7S_B0161_CLOSE-20261011`: six bounded claims and one static/native AV review. No confirmed recommendation, universal regret doctrine, successful dual career, romance, permanent trio, actually viewed live, listened voice, specialist or monograph promotion. Full 2034 release remains incomplete.

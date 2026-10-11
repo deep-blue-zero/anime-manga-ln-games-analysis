@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.61"
+version: "11.62"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 217 complete i-n-g primary documents / T7S_B0080–T7S_B0160; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 220 complete i-n-g primary documents / T7S_B0080–T7S_B0161; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-11
@@ -20,13 +20,13 @@ last_updated: 2026-10-11
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 81 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 82 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`identity_routes = 98`; `character_states = 80`; `epistemic_states = 490`; `directional_relationship_states = 677`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0160, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 98`; `character_states = 80`; `epistemic_states = 502`; `directional_relationship_states = 685`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0161, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3764,3 +3764,45 @@ The [B0160](../02%20Readings/T7S_B0160_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0677` | Unnamed returning girl → Honoka, **after-class thanks and present idol aspiration** | Reports hidden interest and says she wants idol work like her teacher. C:P110–128. Reciprocal `REL-0676`; chapter-local role, no stable identity/future accomplishment. |
 
 `T7S_B0160_CLOSE-20261011`: twelve epistemic states and eight relationship directions. Existing identities/characters/units remain; all twenty-nine readiness decisions retain their earlier horizons. No monograph or multimodal maturity is promoted.
+
+## B0161 Rena's plural commitments and qualified peer support
+
+The [B0161](../02%20Readings/T7S_B0161_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.65, binds these additions. Rena `IDENTITY-0084` / `CHAR-0064` / `araki-rena`, Ferb `IDENTITY-0078` / `CHAR-0060` / `seto-ferb`, Jeda `IDENTITY-0047` / `CHAR-0036` / `jeda-diamond`, Player `IDENTITY-0001` / `CHAR-0001`, Nanastar `UNIT-0002` and QOP `UNIT-0015` retain their existing handles. Compound speakers are not new identities; two schoolgirls share generic art and remain chapter-local roles. Kyoko/Honoka are recalled enabling acquaintances, not present participants.
+
+| Existing stable ID / local role | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0064` / Rena | Questions professional future, reports possible recommendation and rumination, seeks comparison, voluntarily joins live, voices both loves and conditionally tries university plus idols despite likely regret. | A:P0–77; B:P0–139; C:P0–86. No awarded recommendation/admission, fixed talent limit, perfect dual-success guarantee or durable anxiety cure. |
+| `CHAR-0060` / Ferb | Reports QOP composition spillover, offers song, describes desired composing/band life with possible future change, helps live and recognizes both activities as indispensable to Rena. | A:P20–34; B:P35–71,123–139; C:P4–6,17–65,78–85. Self-characterization not exhaustive capability; data delivery and technical act unshown. |
+| `CHAR-0036` / Jeda | Describes singing vocation for now, qualifies certainty, proposes stream, assesses Rena's sense and covers reported positioning errors, offers optimism and joins banter. | B:P35–71,119–139; C:P1–85. Encouragement/coverage report not future guarantee or inspected choreography. |
+| `CHAR-0001` / Player | Reports seeking idol work with hesitation; values present collaboration, challenges regret-proof criterion, confirms live assent, adjusts schedule and supports dual attempt. | B:P76–139; C:P7–86. No certainty about future, university accommodation contract or admitted romantic intention. |
+| Unnamed schoolgirls/adviser/viewers | Schoolgirl A assumes professional future, B conveys summons; Rena reports adviser possibility; Player reports favorable viewer response. | A:P0–17,50–74; C:P20–22. Attributed/local roles, no uniquely resolved pupil/adviser identity or inspected comments. |
+| `UNIT-0002` / Nanastar | Hosts present peer/manager consultation and one schedule adjustment around an unusual three-person stream. | A:P20–77; B:P64–139; C:P0–86. No permanent trio or long-term dual-study policy. |
+| `UNIT-0015` / QOP | Ferb attributes enjoyable composition and beneficial cross-work effect to its creative activity. | A:P27–30. Report only; no new membership, heard work or institution-wide causal measurement. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0491` | Classmate A assumes professional destination; Rena is surprised; schoolgirl B conveys adviser summons. | A:P0–19. No settled plan or direct adviser interview. |
+| `KNOW-0492` | Ferb knows existing song, reports composition going well and becoming more enjoyable, and attributes cross-work benefit to QOP; Player/Jeda accept planned use and promised data. | A:P20–34. Delivery and acoustic qualities not independently established. |
+| `KNOW-0493` | Rena reports possible recommendation and explicitly says none exists; gives own assessment of professional limits/university conflict. | A:P35–77. Situated evaluation and expectation, not verified institutional rule. |
+| `KNOW-0494` | Rena reports one week without answer and impaired club focus; peers notice distraction before tomorrow's stream. | B:P0–34. Club day off/relative interval, not calendar reconstruction. |
+| `KNOW-0495` | Ferb/Jeda state current aims yet acknowledge new possibilities; Rena recalls Kyoko/Honoka making idols imaginable. | B:P35–63. Present wishes, not career guarantees or abandoned commitments. |
+| `KNOW-0496` | Player reports hesitation and present non-regret but unknown future; Rena hears plural loves need not be bad. | B:P64–111. Personal testimony, not universal career advice. |
+| `KNOW-0497` | Rena knows short preparation window and explicitly chooses live; Player accepts optionality and changes today's schedule. | B:P112–139. Local informed assent, no future logistical agreement. |
+| `KNOW-0498` | Rena feels practice insufficient despite peers' rehearsal praise; all declare readiness before elided act. | C:P0–16. No independently viewed/heard live performance. |
+| `KNOW-0499` | Peers/Player report success/response; Rena admits positioning errors but corrects others' explanation of tears. | C:P17–37. Reported reception; tears do not certify technical failure. |
+| `KNOW-0500` | Rena recognizes wish for greater practice/improvement in both domains, loves both, and rejects eventual forced choice; Ferb acknowledges dual importance. | C:P38–52. Frustrated longing, not choice against athletics or complete emotional cure. |
+| `KNOW-0501` | Rena conditionally intends university while continuing idols, anticipates difficulty/regret; others support and she feels a little relief. | C:P53–68. Recommendation undecided; no sustainable dual-career proof. |
+| `KNOW-0502` | Rena/Jeda/Ferb interpret Player's praise playfully as flirting; he denies intention; peers recognize familiar banter. | C:P69–86. Contested joke, not established romance or final career settlement. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0678` | Ferb → Rena, **qualified career comparison and performance collaboration** | Invites conversation, names contingent musical aims, supports live and both loves. B:P5–71,123–139; C:P4–65. Reciprocal `REL-0679`; optimism not sustainable timetable. |
+| `REL-0679` | Rena → Ferb, **seeking comparison and disclosing unfinished desire** | Hears music/band account, chooses collaboration, names dual attachment and thanks support. B:P18–71,132–138; C:P23–68. Reciprocal `REL-0678`; no exclusive reliance. |
+| `REL-0680` | Jeda → Rena, **open possibilities, optional invitation and local coverage** | Qualifies vocation, suggests live, praises rehearsal, reports covering errors and encourages dual attempt. B:P35–71,119–138; C:P1–68. Reciprocal `REL-0681`; no forced appearance or technique guarantee. |
+| `REL-0681` | Rena → Jeda, **voluntary collaboration and corrected interpretation** | Receives suggestions, assents, admits errors but clarifies tears, states both loves and thanks support. B:P35–71,131–138; C:P23–68. Reciprocal `REL-0680`; no new permanent unit. |
+| `REL-0682` | Player → Rena, **situated testimony and support for chosen attempt** | Admits hesitation, challenges no-regret criterion, asks voluntary preference, adjusts preparation and supports both pursuits. B:P76–139; C:P53–86. Reciprocal `REL-0683`; no guaranteed future or romantic intention admitted. |
+| `REL-0683` | Rena → Player, **requesting experience, declaring preference and teasing** | Seeks work account, explicitly chooses live, asks to try university plus idols and resumes playful challenge. B:P64–139; C:P53–86. Reciprocal `REL-0682`; decision remains hers, joke not romance. |
+| `REL-0684` | Ferb → Jeda, **shared creative preparation and contingent future discussion** | Offers existing song, promises data and jointly discusses possibilities/stream. A:P20–34; B:P35–71,123–139. Reciprocal `REL-0685`; no new long-term duo/trio contract. |
+| `REL-0685` | Jeda → Ferb, **responsive musical collaboration and peer coordination** | Receives song offer, affirms positive spillover, shares qualified aspirations and proposes Rena's inclusion. A:P20–34; B:P35–71,119–139; C:P17–22,64–65. Reciprocal `REL-0684`; reported chemistry not permanent unit formation. |
+
+`T7S_B0161_CLOSE-20261011`: twelve epistemic states and eight relationship directions. No stable identity or unit is added. All twenty-nine earlier readiness decisions, including Ferb's NANASUTA-bounded R2, retain their horizons; no monograph/multimodal maturity is promoted.
