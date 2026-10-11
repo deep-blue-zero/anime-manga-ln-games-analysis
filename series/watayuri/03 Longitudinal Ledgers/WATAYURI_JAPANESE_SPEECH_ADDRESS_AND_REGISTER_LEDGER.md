@@ -4,14 +4,14 @@ artifact_id: WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.9"
+version: "0.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V08 mainline through V08 Shift 41/i158, also latest depicted present; packaged shorts separately bounded; V09–V14 inventory only"
+source_boundary: "Japanese V01–V09 mainline through V09 Shift 46/i134, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH
 
 **Update and revision rule.** Update when a feature recurs, switches under meaningful conditions or contradicts a working speech model. Preserve original wording/locator and distinguish observation from claim; cross-link performance when a script appears to condition register. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V08 mainline through V08 Shift 41/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2 and 41.5 remain separately bounded; V04 EX is promotional. V01–V07 sections retain their earlier states; dated V08 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V09 mainline through V09 Shift 46/i134, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5 and 46.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V08 sections retain their earlier states; dated V09 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -364,3 +364,36 @@ Excerpts are deliberately minimal and serve specific interpretive distinctions. 
 The volume’s speech development is not simply from lying to truth. Hime can reveal something true about herself while using it to support a false conclusion; Mitsuki can speak a true desire at an unwelcome moment; a softer request can carry a real boundary; and role language can express an ordinary commitment. A written-speech model must preserve the proposition and interactional function of a line, not merely classify it by politeness or by whether the character is wearing a costume.
 
 The useful comparative pattern for Hime is a movement from indirect scheduling and global refusal toward a specific list. For Mitsuki, it is a movement from asking for a legible overall answer toward accepting that a legible answer may distinguish acts and times. Neither pattern proves that the character will henceforth speak explicitly under every stress condition.
+
+
+<a id="v09"></a>
+## V09 — Current additions and transitions — 2026-10-10
+
+**V09 evidence key:** source-map key `V09`, Japanese witness `1ul9LBhBmBD31tMYQZG5vHs17KLlDwjrK`, SHA-256 `598985a717491a8df61d8919884e49a828fa6422ef78a925f534ec1faac491d4`. The [frozen V09 reading](../02%20Sequential%20Readings/WATAYURI_V09_DEEP_READING.md#speech) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V09; WY1–WY8 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 46/i134. Shift 46.5/i136–143 has finer chronology OPEN. Afterword/credits i144–146, separate one-shot i147–162 with closing page i163, and edition/bonus matter i164–168 do not advance the mainline endpoint. The one-shot’s characters remain outside Watayuri continuity. Accepted V06 and V08 corrections and all earlier frozen states remain intact.
+
+### Written Japanese speech, address, and register
+
+These are written-language observations, not voice-performance claims. Minimal forms are retained only where their wording or attribution matters.
+
+| ID | Speaker / context / small form | What the written evidence supports | Alternative or limit / locator |
+| --- | --- | --- | --- |
+| **WY9-JP01** | Kanoko to Sumika; `営業中だけ` | A restriction by business context rather than a total rejection of the pact or all physical proximity. | Exact scope still needs mutual interpretation. i015, i021; native i015. |
+| **WY9-JP02** | Sumika’s timing rejoinder | Uses the literal business-hours condition to defend a personally desired inscription/close presentation. | Not proof that every private use of the role has been accepted. i027–028. |
+| **WY9-JP03** | Sumika, off-duty consultation | Elegant elder-sister manner switches to ordinary schoolgirl humor; Kanoko responds with amusement. | A shared register joke, not an actual return to salon audience. i038, native. |
+| **WY9-JP04** | Kanoko’s `現状` problem | The status quo is discussed as something vulnerable to Hime’s changing feelings, not only to present workplace changes. | Hime’s future is not guaranteed by the present rejection. i039–043. |
+| **WY9-JP05** | Nene’s correction and qualification | Challenges generalization, redirects the question toward Sumika, then leaves room for error. | Experience does not make her every inference certain. i049–058. |
+| **WY9-JP06** | Sumika; sisterly feeling versus `恋愛感情` | Contrasts morally approved protectiveness with a feared selfish category. | Her evaluation is not narrator endorsement of all romance as harmful. i059, i096–097. |
+| **WY9-JP07** | Sumika’s inner “not mine” distinction | The addressee/possession language identifies competitive investment in a particular smile. | Not actual ownership, and not a statement that Kanoko never smiles at her. i071–074. |
+| **WY9-JP08** | Chapter title `芽生えていたから` | Retrospective aspect fits recognition of a developing state rather than Nene creating it at the instant of naming. | Title supports formal interpretation, not exact onset dating. i077. |
+| **WY9-JP09** | Mai; `乙女の心臓` and the elder’s choice | Explicitly describes a marriage proposal to the younger and the elder choosing to let her go. | Fictional script, not an actual choice already made by Sumika. i081, native. |
+| **WY9-JP10** | Kanoko’s reference to `私の気持ち` | The phrase briefly permits Sumika’s hoped-for association, then is specified as Hime-related consultation. | Actual speaker clarification outranks the listener’s dream-derived expectation. i089–091. |
+| **WY9-JP11** | Sumika’s assurance and withdrawal | Noninterference in Kanoko’s love coexists with stopping consultations like the present one. | Do not paraphrase as a ban on the feeling or an unlimited refusal ever to help. i095–097. |
+| **WY9-JP12** | Graduate / actual ordinary name | 五影堂葉子 is the café-facing identity; 後藤葉子 appears on the slip. | Same subject, not a new person; no contact-handle transcription needed. i104, i122. |
+| **WY9-JP13** | Nene’s closed relationship versus `会いたい` | Direct verbal closure and later meeting request have different moments and audiences. | Do not silently substitute one for the other; a meeting wish is not a relationship contract. i112–113, i125. |
+| **WY9-JP14** | Goeidō’s address and apology explanation | Familiar address to Sumika through Kanoko and appeal to unstoppable love make the request personally persuasive. | Persuasiveness is not proof of either sincere accountability or wholly fabricated regret. i121–123. |
+| **WY9-JP15** | Sumika’s angry generalization / Mai’s moderation | Sharp denunciation contrasts with operationally bounded customer language and the opening-time pause. | Written force is not an acoustic measurement; total claim exceeds verified present motive. i128–134. |
+| **WY9-JP16** | Supplement’s competing sister definitions | Help, admiration, mutual growth and romance-subtracted closeness share one word without identical content. | No single reply becomes everyone’s private definition. S46.5/i138–143. |
+
+The most consequential switch is not simply polite versus rude speech. It is the shift between role-backed promises that make Sumika seem reliably available and private language that she cannot give Kanoko without changing the relationship. Her brusquer withdrawal does not supply all that withheld information. Kanoko can therefore hear a real boundary while misidentifying its cause. [JP03/JP06/JP10–11.]
+
+The visitor similarly moves between legible institutional address and private familiar names. That movement gives her access to the café’s shared history without necessarily granting her access to its former participants. The language should be traced by audience: a graduate’s pleasant salon manner, an apology account to an intermediary, and a direct conversation with the intended recipient are not interchangeable events. [JP12–15.]

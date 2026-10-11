@@ -4,14 +4,14 @@ artifact_id: WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.9"
+version: "0.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V08 mainline through V08 Shift 41/i158, also latest depicted present; packaged shorts separately bounded; V09–V14 inventory only"
+source_boundary: "Japanese V01–V09 mainline through V09 Shift 46/i134, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AN
 
 **Update and revision rule.** Update on a script change, explicit audience shift, recurring role/private leakage or consequential role-mediated change in relationship. Keep role adoption and private effect separately time-indexed. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V08 mainline through V08 Shift 41/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2 and 41.5 remain separately bounded; V04 EX is promotional. V01–V07 sections retain their earlier states; dated V08 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V09 mainline through V09 Shift 46/i134, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5 and 46.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V08 sections retain their earlier states; dated V09 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -230,3 +230,32 @@ These thirteen records identify actor, audience, script and private consequence 
 The most important V08 correction to a simple mask model occurs twice. Hime uses a true account of acting to tell a false story about indifference; Mitsuki uses an effortful kind manner to make a real commitment. Neither “mask removed” nor “mask retained” determines sincerity. The better unit of analysis is the particular proposition, its audience, the conduct that supports or contradicts it, and what the performance enables the people to do.
 
 The institution also does more than one thing. It places Hime and Mitsuki in an emotionally costly public birthday, provides scripts that let others help, gives their renewed relation a name, and later withdraws a pose when it is refused. Those actions belong to one workplace but do not justify one undifferentiated conclusion about its ethical character. The causal account must remain local enough to explain both pressure and accommodation.
+
+
+<a id="v09"></a>
+## V09 — Current additions and transitions — 2026-10-10
+
+**V09 evidence key:** source-map key `V09`, Japanese witness `1ul9LBhBmBD31tMYQZG5vHs17KLlDwjrK`, SHA-256 `598985a717491a8df61d8919884e49a828fa6422ef78a925f534ec1faac491d4`. The [frozen V09 reading](../02%20Sequential%20Readings/WATAYURI_V09_DEEP_READING.md#performance) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V09; WY1–WY8 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 46/i134. Shift 46.5/i136–143 has finer chronology OPEN. Afterword/credits i144–146, separate one-shot i147–162 with closing page i163, and edition/bonus matter i164–168 do not advance the mainline endpoint. The one-shot’s characters remain outside Watayuri continuity. Accepted V06 and V08 corrections and all earlier frozen states remain intact.
+
+### Persona, role, and performance increments
+
+Performance records own scripts and audiences; psychological category and pair status remain in the claims and relationship homes.
+
+| ID | Actor / setting / audience | Script, adoption, deviation and effect | Limits / links |
+| --- | --- | --- | --- |
+| **WY9-PER01** | Hime/Mitsuki; interview | Mitsuki supplies a missing institutional cue so the pair preserves a coherent public appearance. i001. | Shared role competence, not spontaneous Hime knowledge. O01. |
+| **WY9-PER02** | Whole staff; non-opening workday | Media, meetings and ordinary shifts have different audiences and staffing expectations. i005–011. | Worker time is not identical to guest-facing time; no total workload estimate. |
+| **WY9-PER03** | Sumika/Kanoko; newcomer demonstration | Intimate sister image teaches a fiction whose private applicability Kanoko immediately limits. i013–015. | Demonstration is not proof of welcome private intimacy. |
+| **WY9-PER04** | Mai/staff; album event | Trip/interior photographs become randomly allocated, signed merchandise; staff obtain prints too. i015–028. | Consumer product, personal keepsake and affective evidence are different uses. |
+| **WY9-PER05** | Sumika; autograph exchange | Validates Kanoko’s individual style, then requests an affectionate private inscription under business-hours cover. i025–028. | Useful mentoring does not authorize every personal use of the role. |
+| **WY9-PER06** | Hime; guests and friends | Pleasing presentation expresses actual enjoyment of praise; private three-person preference remains sincere. i029–035. | No role/public binary that automatically assigns one side falsehood. |
+| **WY9-PER07** | Sumika; off-duty consultation | Elegant elder-sister reassurance switches back to ordinary schoolgirl speech and produces shared amusement. i038. | Actual affective connection, not proof of romantic reciprocity. |
+| **WY9-PER08** | Kanoko/Sumika; photo-story request | Improvised forest anecdote gives guests an attractive explanation of a real photograph. i063–067. | Invented backstory is not the actual production history. |
+| **WY9-PER09** | Sumika; private self-model | “Only protective sister” and later “will not make it romantic” regulate interpretation and permitted conduct. i059–079, i093–097. | A self-prescription, not evidence that the feeling has been extinguished. |
+| **WY9-PER10** | Blumen pair; festival planning | Formal pair status determines leading roles in an adapted story about an elder letting a younger sister go. i080–084. | Planned dramatic outcome is not actual pair dissolution or completed rehearsal. |
+| **WY9-PER11** | Mai/Goeidō; salon | Graduate identity permits legible customer hospitality while hiding or simplifying actual staff history. i103–110, i127–128. | Not rehiring, not all guests fully informed. Extra/i165 is a separate explanatory witness. |
+| **WY9-PER12** | Goeidō; changing audiences | Casual nostalgia before Mai becomes claimed apology purpose before Kanoko; personal address softens the intermediary request. i108–109, i121–123. | Motive remains unverified; audience adaptation alone is not proof of total fabrication. |
+| **WY9-PER13** | Sumika/Mai; staff briefing | Protective-café language motivates exclusion demands; managerial customer-role distinction limits the intervention. i126–134. | Policy decision is local, not evidence that the past is harmless. |
+| **WY9-PER14** | All sisters / Haruko; supplement | Competing personal definitions coexist under one institutional label. S46.5/i136–143. | No singular authoritative psychological definition; mainline chronology not advanced. |
+
+The role is neither a disposable lie nor a reliable boundary around feeling. It gives Sumika a legitimate place from which to act helpfully and a respectable language for desires she cannot accept as romantic. It also gives Kanoko a way to accept help while limiting when ceremonial closeness should occur. The tension is internal to the role’s usefulness: the same structure that makes a relationship possible can obscure what its participants now need from it. [PER03/PER07/PER09/PER14.]
