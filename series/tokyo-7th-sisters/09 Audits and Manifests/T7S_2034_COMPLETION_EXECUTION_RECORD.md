@@ -4,7 +4,7 @@ artifact_id: T7S_2034_COMPLETION_EXECUTION_RECORD
 artifact_type: analytical_execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -28,7 +28,7 @@ The owner authorizes continuous analysis of the remaining 2034 material through 
 - Reconciled base commit: `82214c26b3ccb8f23bad011e9dbbdde5e4c29508`; remote source observed at `e9644c298f744206cd015cf23ecc5347d10183f9`; incorporated main at `9cd7a70853c40806f1a16fd957e9791dd14a7789`. Reconciliation preserves the complete T7S tree.
 - Corpus alias: `c20260909-r484`; witness: `T7S_GAME_OFFLINE_JA_R484`. The immutable source bindings remain unchanged.
 - First candidate: `T7S_B0160`, native i-n-g chapter `301320`, Honoka / `TEACHING ME`, episodes `612201701`–`612201703`. The native chapter is a proposed causal boundary subject to complete source review.
-- Current run state: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0163`. Completed source units in this program: **4**; completed primary episodes: **12**. The i-n-g checkpoint is 4/22 chapters; the terminal boundary remains the complete 2034 era release.
+- Current run state: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0164`. Completed source units in this program: **5**; completed primary episodes: **15**. The i-n-g checkpoint is 5/22 chapters; the terminal boundary remains the complete 2034 era release.
 
 The [B0100–B0159 record](T7S_B0100_B0159_EXECUTION_RECORD.md), its [audit](T7S_B0100_B0159_COMPLETION_AUDIT.md), and frozen readings retain their historical authorization. Their statements that chapter `301320` was outside that run remain true at that boundary. This new authorization does not rewrite those freezes.
 
@@ -95,6 +95,7 @@ After interruption, recover the actual Git/source-lock/entrypoint high-water mar
 | `T7S_B0161_CLOSE` | Native chapter `301330`; `T7S_B0161`; 3 primary documents | Complete bounded text/native/static case; full 2034 release remains `IN_PROGRESS` |
 | `T7S_B0162_CLOSE` | Native chapter `301340`; `T7S_B0162`; 3 primary documents | Complete bounded text/native/static case; full 2034 release remains `IN_PROGRESS` |
 | `T7S_B0163_CLOSE` | Native chapter `301350`; `T7S_B0163`; 3 primary documents | Complete bounded text/native/static case; full 2034 release remains `IN_PROGRESS` |
+| `T7S_B0164_CLOSE` | Native chapter `301360`; `T7S_B0164`; 3 primary documents | Complete bounded text/native/static case; full 2034 release remains `IN_PROGRESS` |
 
 ## B0160 closeout receipt
 
@@ -111,3 +112,7 @@ After interruption, recover the actual Git/source-lock/entrypoint high-water mar
 ## B0163 closeout receipt
 
 [T7S_B0163](../02%20Readings/T7S_B0163_DEEP_READING.md): Ferb voluntarily accepts a changed cute-song brief as a musical challenge. Watching peers fails to supply a ready-made method and exceeds Rona's comfort; Kyoko's chosen, time-bounded help does not authorize the later unbriefed lesson change. Ferb asks Ayumu for first-person practice, renews an aspiration toward listeners beyond the client, then reports about a week's training, the nonidentity of two cute idioms and Player-relayed delight. She thanks her helpers but temporarily declines this kind of work because poekyun took long to shake. No actual song, public CM, direct client reaction, confirmed romance or listened voice is established. All 287 pages, 267 text records and 20 command-only pages are reviewed; 16 exact selected static assets/composites were inspected. Source-lock 12.67 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 241 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies outside declared current summaries. Coverage moves 3 records while preserving the other 1587 effective records. The current program has closed 4 source units / 12 primary episodes; 748 eligible story episodes plus supplemental and release obligations remain. This transaction is locally closed after required verification; publication remains separate.
+
+## B0164 closeout receipt
+
+[T7S_B0164](../02%20Readings/T7S_B0164_DEEP_READING.md): Chacha's temporary school visit for a drama role moves from detached excursion and literary expectations to valuing particular classmates. Admiration makes reciprocal conversation difficult; peer talk and a farewell gift lead her to recognize enjoyment and want a better reply. She publicly thanks the classmates through a streamed guest appearance, then asks whether her feelings reached them. Player reassures without direct reception evidence; she calls his certainty groundless but chooses to believe and renews their partnership. No completed drama, confirmed classmate viewing/reply, equal reciprocity, permanent social cure, romance or listened voice is established. All 417 pages, 348 text records and 69 command-only pages are reviewed; 14 exact selected static assets/composites were inspected. Source-lock 12.68 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 272 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies outside declared current summaries. Coverage moves 3 records while preserving the other 1587 effective records. The current program has closed 5 source units / 15 primary episodes; 745 eligible story episodes plus supplemental and release obligations remain. This transaction is locally closed after required verification; publication remains separate.
