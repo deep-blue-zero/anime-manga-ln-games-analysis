@@ -4,29 +4,29 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.60"
+version: "11.61"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 214 complete i-n-g primary documents / T7S_B0080–T7S_B0159; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 217 complete i-n-g primary documents / T7S_B0080–T7S_B0160; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-26
+last_updated: 2026-10-11
 ---
 
 # Tokyo 7th Sisters claim and evidence ledger
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 26 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 81 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 745`; `revisions = 42`; `predictions = 7`; `AV_reviews = 106`; `literary_findings = 745`. Claims are bounded to their stated B0001 through B0159 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 80 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 751`; `revisions = 42`; `predictions = 7`; `AV_reviews = 107`; `literary_findings = 751`. Claims are bounded to their stated B0001 through B0160 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 81 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2557,3 +2557,28 @@ Owner and A/B/C locator key: [B0159](../02%20Readings/T7S_B0159_DEEP_READING.md)
 - Outcome: `REVIEWED` for seven selected exact resources and all native page-state segmentation. Three hundred thirty dialogue-associated voice pages, BGM/SFX, full old film, audition/casting file and future acting work remain unauditioned/unavailable and `BOUND_BY_CLAIM_RESTRICTION`.
 
 `T7S_B0159_CLOSE-20260926`: six bounded claims and one AV review; no nepotism/fairness verdict, technical acting ranking, romance promotion, specialist or monograph promotion.
+
+## B0160 teaching technique, own words and one pupil's light
+
+Owner and A/B/C locator key: [B0160](../02%20Readings/T7S_B0160_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.64. B0084 and B0122 are bounded Honoka comparisons, not a total chronological sequence or rewritten freeze.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0160-001` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Own words require responsibility for believed content, not refusal of method coaching; assisted preparation can preserve Honoka's authorship. | A:P33–75; B:P85–107. Rival: authenticity means learning alone or letting manager dictate ideal. |
+| `CL-B0160-002` | `BOUNDED_INFERENCE`; D1; high | Apparent composure does not prove absence of nerves; adult self-disclosure supports proceeding while tense, not permanent cure. | B:P47–84; C:P0–29. Sisara's interior anxiety is reported, not proved by image/unheard voice. |
+| `CL-B0160-003` | `FORMAL_INTERPRETATION`; D1; high | Rehearsal questions, Miwako's calibration and actual pupil questions make teaching reciprocal clarification, not delivery of finished doctrine. | B:P20–46; C:P45–93. No universal child-psychology or pedagogy claim. |
+| `CL-B0160-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; moderate-high | Honoka locates light in ordinary peers' committed desire; one girl's response permits tentative local self-recognition without universal idol essence. | C:P57–93,110–141. Boy's beauty response resists beauty-irrelevant reading; no literal power/all-class conversion/body-image cure. |
+| `CL-B0160-005` | `BOUNDED_INFERENCE`; D1; high | Girl reports family humming beside media stigma; lesson encourages voicing a pre-existing wish despite anticipated ridicule. | C:P110–128. No direct mother/broadcast, actual parental suppression, named song or new recruit. |
+| `CL-B0160-006` | `FORMAL_INTERPRETATION`; D1; moderate-high | Public register adjustment, hunger/ramen and gratitude retain an ordinary person within the teacher/idol role; own words need not be unchanging register. | C:P25–29,57–93,129–174. No listened dialect/prosody; meal unshown, no sincerity negation. |
+
+### AV-0107 — Honoka's clothing states and generic classroom presentation
+
+- Questions/claims: whether static confidence proves inner ease, clothing creates a new identity, pupil art supplies a biography, cue resources prove prosody, or light is literal; `CL-B0160-001`–`006`.
+- Priority/modality: `AV-B` for all native page states and seven selected exact static resources; `AV-D` for performed voice, BGM/SFX sound, full classroom playback and later outcomes.
+- Selection: Honoka `adv_chara_124_01_05` / `_04`, `124_02_01` / `_05`; Miwako `134_01_01`; Sisara `136_01_03`; generic boy `024_01`. Registry-hash checks and native-offset layered composites precede direct contact-sheet inspection.
+- Reviewer/tool/date: parent analyst, direct visual inspection after exact hash/occurrence/native-field verification, 2026-10-11; source-lock 12.64 binds seven asset receipts. All 360 pages and twenty-six command-only pages reviewed.
+- Observed: Honoka's blue blouse/red bow/checked skirt/bag and pink-jacket/white-top/dark-skirt states retain hair/ornament continuity across worried/smiling expressions. Miwako has glasses/books and Sisara a light blouse/blue trousers. Boy art is a gray capped outline without a personal face. These features cannot certify hidden anxiety, expertise or a pupil identity.
+- Native occurrence: command-only A:P16–17,76; B:P0,4,103,107; C:P0–1,20–24,94–97,109,142,162,164–167,174. School sequence distinguishes corridor, classroom, outdoor response and final thanks; authored cues/shakes are not inspected runtime timing.
+- Outcome: `REVIEWED` for selected exact static resources and complete native page-state segmentation. Two hundred forty-three dialogue-associated voice-reference pages, BGM/SFX and actual prosody remain unauditioned and `BOUND_BY_CLAIM_RESTRICTION`. Reported idol recollection is not a viewed stage performance.
+
+`T7S_B0160_CLOSE-20261011`: six bounded claims and one static/native AV review; no universal idol definition, pupil recruitment, cured anxiety, listened voice, specialist or monograph promotion. Full 2034 release remains incomplete.

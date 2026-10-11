@@ -4,16 +4,16 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.60"
+version: "11.61"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 214 complete i-n-g primary documents / T7S_B0080–T7S_B0159; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 217 complete i-n-g primary documents / T7S_B0080–T7S_B0160; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-26
+last_updated: 2026-10-11
 ---
 
 # Tokyo 7th Sisters story chronology and causal state ledger
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 703`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 831`; `last_closed_block = T7S_B0159`. The admitted horizon contains 449 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 214 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 715`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 845`; `last_closed_block = T7S_B0160`. The admitted horizon contains 452 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 217 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2511,3 +2511,41 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.61. [B0159](../02%20Readings/
 | `EDGE-0838` | `PLAYER_DISTINCT_NAME_TO_IDOL_RECOMMITMENT` | He affirms Kyoko is herself; she chooses next work, not guaranteed career. |
 
 `T7S_B0159_CLOSE-20260926`: ten events and fourteen typed edges; mother identity is attributed, casting motive and acted performance remain unverified.
+
+## B0160 Honoka learns to teach and receives one pupil's response
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.64. [B0160](../02%20Readings/T7S_B0160_DEEP_READING.md) owns the complete A/B/C locator key. The native chapter's invitation, rehearsal, classroom and after-class response form one causal envelope. No total fictional order against earlier i-n-g chapters or Main is supplied; B0159 is an execution boundary only. The unnamed pupils/teacher remain chapter-local roles.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0160-001` | Honoka worries over invited elementary-school idol lesson; Player reports regular professional visits and teacher's fandom. | A:P0–15,18–30; `KNOW-0479`. Invitation, not proof of all pupils' idol knowledge. |
+| `EV-B0160-002` | Honoka wants words she herself believes rather than a ready-made answer; adults speculate about children's perception. | A:P33–60; `KNOW-0480`. Accepting support is compatible with content authorship; no universal child-psychology fact. |
+| `EV-B0160-003` | Miwako offers method coaching, not dictated content; Honoka accepts strict lessons. | A:P61–75; `KNOW-0481`. Teaching technique distinguished from personal conviction. |
+| `EV-B0160-004` | Rehearsal corrects stiff greeting then intense self-introduction. | B:P1–19; `KNOW-0482`. Age17/birthday5/28 self-report does not date chapter; mock pupils not real reception. |
+| `EV-B0160-005` | Sisara/Player's mock questions expose assumed vocabulary; Miwako requests gradual practice and Honoka loses confidence. | B:P20–46; `KNOW-0483`. Sisara models named young peers, not actual classroom testimony. |
+| `EV-B0160-006` | Miwako/Sisara report their own nerves; coaches accept Honoka's tension and continue preparation for next week. | B:P47–84; `KNOW-0484`. Cool face is not absence of anxiety; no instant habituation/cure. |
+| `EV-B0160-007` | Sisara suggests first idol encounter as content; Honoka finds direction and asks thinking time; help continues voluntarily. | B:P85–107; `KNOW-0485`. Adults' optimism remains prospective. |
+| `EV-B0160-008` | Teacher introduces Honoka; silence/beauty joke unsettle opening, then girl asks why she became idol. | C:P0–56; `KNOW-0486`. Player watches from corridor; coaches at other jobs, not lesson witnesses. |
+| `EV-B0160-009` | Honoka recalls ordinary peers' committed desires as light, voices wish to be light for someone, clarifies metaphor after literal-power question. | C:P57–93; `KNOW-0487`. Retrospective partial motive, unnamed examples, no literal power or viewed stage. |
+| `EV-B0160-010` | Girl returns after class and reports mother humming, hidden idol interest and feared ridicule, then voices idol wish; Honoka recognizes possible local light. | C:P98–141; `KNOW-0488`. Girl report, not actual parental ridicule, recruitment or entire class conversion. |
+| `EV-B0160-011` | Honoka's hunger interrupts reflection; she requests ramen and leads peers onward. | C:P142–164; `KNOW-0489`. Meal intended, not depicted; no general manager-pay rule. |
+| `EV-B0160-012` | Honoka thanks Player for finding her; he thanks her for joining Nanasta. | C:P165–174; `KNOW-0490`. Reciprocal gratitude, no romance or later career guarantee. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0839` | `TEACHER_INVITATION_TO_HONOKA_PREPARATION` | Reported teacher fandom helps explain commission in `EV-B0160-001`; no general school demand. |
+| `EDGE-0840` | `OWN_WORDS_TO_METHOD_CONTENT_DISTINCTION` | `EV-B0160-002` leads Miwako to offer coaching rather than dictate ideal in `003`. |
+| `EDGE-0841` | `COACHING_ACCEPTANCE_TO_REHEARSAL` | Honoka consents to strict preparation, then tests greeting/self-introduction in `004`. |
+| `EDGE-0842` | `MOCK_QUESTIONS_TO_ASSUMPTION_EXPOSURE` | Sisara/Player expose vocabulary gaps in `005`; no actual pupil reaction. |
+| `EDGE-0843` | `PRACTICE_DIFFICULTY_TO_SCAFFOLDING_DISPUTE` | Miwako calibrates questions to Honoka's confidence in `005`. |
+| `EDGE-0844` | `REPORTED_NERVES_TO_ACCEPTED_TENSE_PRACTICE` | Coaches disclose anxiety and continue preparation in `006`, not certify cure. |
+| `EDGE-0845` | `CONTENT_UNCERTAINTY_TO_FIRST_ENCOUNTER_PROMPT` | Sisara's suggestion in `007` gives Honoka a direction and thinking time. |
+| `EDGE-0846` | `CLASS_QUESTION_TO_HONOKA_ORIGIN_ACCOUNT` | Actual girl's question in `008` opens recollection in `009`. |
+| `EDGE-0847` | `ORDINARY_ASPIRATION_TO_LIGHT_METAPHOR` | Honoka interprets peers' resolve/stage appearance, not literal illumination, in `009`. |
+| `EDGE-0848` | `LITERAL_POWER_QUESTION_TO_METAPHOR_CLARIFICATION` | Boy's question about idols' techniques/powers elicits explicit figurative explanation in `009`. |
+| `EDGE-0849` | `HIDDEN_INTEREST_AND_LESSON_TO_VOICED_ASPIRATION` | Girl reports pre-existing interest and lesson's local encouragement in `010`; no sole-origin claim. |
+| `EDGE-0850` | `PUPIL_THANKS_TO_TENTATIVE_SELF_RECOGNITION` | Honoka wonders if she has been someone's light and says she likes idols in `010`. |
+| `EDGE-0851` | `TEACHING_INTERVAL_TO_HUNGER_CODA` | Miwako notes Honoka has not eaten while teaching; Honoka requests ramen in `011`, with no completed meal. |
+| `EDGE-0852` | `LESSON_SELF_DISCOVERY_TO_RECIPROCAL_GRATITUDE` | Final thanks in `012` returns her present understanding to the enabling recruitment relation. |
+
+`T7S_B0160_CLOSE-20261011`: twelve events and fourteen typed edges; the pupil's reception remains local and attributed, with no total cross-chapter chronology or new recruitment.

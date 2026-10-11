@@ -4,29 +4,29 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.60"
+version: "11.61"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 214 complete i-n-g primary documents / T7S_B0080–T7S_B0159; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 217 complete i-n-g primary documents / T7S_B0080–T7S_B0160; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-26
+last_updated: 2026-10-11
 ---
 
 # Tokyo 7th Sisters entity state ledger
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 26 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 81 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`identity_routes = 98`; `character_states = 80`; `epistemic_states = 478`; `directional_relationship_states = 669`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0159, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 98`; `character_states = 80`; `epistemic_states = 490`; `directional_relationship_states = 677`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0160, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3723,3 +3723,44 @@ The [B0159](../02%20Readings/T7S_B0159_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0669` | Kyoko → Asuna/Juri, **reported daughterly respect and comparison** | Names her mother, studies original, recognizes skill and separates own work from legacy. A:P103–123; B:P102–103; C:P133–159. No reciprocal mother state inferred. |
 
 `T7S_B0159_CLOSE-20260926`: ten epistemic states, six reciprocal directions plus one reported one-way mother relation, one reported identity and character state; no invented reciprocal maternal intention.
+
+## B0160 Honoka's teaching agency and supported nervousness
+
+The [B0160](../02%20Readings/T7S_B0160_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.64, binds these updates. Honoka `IDENTITY-0083` / `CHAR-0063` / `saionji-honoka`, Miwako `IDENTITY-0043` / `CHAR-0070` / `asami-miwako`, Sisara `IDENTITY-0041` / `CHAR-0034` / `kawasumi-shisara`, Player `CHAR-0001` and Nanastar `UNIT-0002` retain their existing handles. No pupil/teacher identity is minted from generic art; Honoka's recalled ordinary peers are unnamed examples, not resolved cast members.
+
+| Existing stable ID / local role | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0063` / Honoka | Wants personally believed content, accepts method coaching, rehearses, teaches while nervous, reports first inspiration, receives girl's thanks, recognizes possible light and reciprocal recruitment gratitude. | A:P0–75; B:P1–107; C:P0–174. No permanent confidence/body-image cure, universal doctrine, new booking or listened prosody. |
+| `CHAR-0070` / Miwako | Separates method/content, calibrates rehearsal, admits nerves, offers voluntary help/messages and arrives after lesson; hopes for girl's future idol meeting. | A:P33–75; B:P1–107; C:P10–11,98–141. Not eyewitness to lesson; no guarantee of future reunion. |
+| `CHAR-0034` / Sisara | Roleplays literal child questions, admits inner panic despite cool appearance, encourages sincere effort and first-encounter content, sends message and arrives afterward. | A:P44–75; B:P20–107; C:P10–11,98–141. Her child-perception claims are situated speculation, not educational law. |
+| `CHAR-0001` / Player | Explains commission, roleplays pupil, supports effort, observes lesson from corridor, reports enjoyment and exchanges thanks after ramen invitation. | A:P18–60; B:P20–84; C:P0–174. Does not supply Honoka's convictions or certify all-class change. |
+| Unnamed teacher and pupils | Teacher introduces/manages questions; boy's beauty/literal-power remarks and girl's reason question shape lesson; returning girl states hidden interest and idol wish. | C:P17–93,110–128. Chapter-local roles; no named identity, actual parental ridicule or future career. |
+| `UNIT-0002` / Nanastar | Provides peer/manager preparation and messages around external school work; Honoka values joining. | A:P18–75; B:P1–107; C:P0–174. No school partnership contract, pupil recruitment or new standing unit. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0479` | Player knows school commission and reports teacher fandom; Honoka knows she wants to accept but is uncertain how/what to teach. | A:P0–30. No class-wide prior interest. |
+| `KNOW-0480` | Honoka wants words she believes; Player/Sisara hypothesize children detect borrowed words. | A:P33–60. Belief and speculation distinguished. |
+| `KNOW-0481` | Miwako identifies method/content distinction; Honoka explicitly accepts coaching. | A:P61–75. Learning does not relinquish authorship. |
+| `KNOW-0482` | Honoka offers age/birthday/habits in practice; coaches find presentation too stiff/intense. | B:P1–19. Self-report, no chapter date or actual pupil verdict. |
+| `KNOW-0483` | Mock questions reveal vocabulary assumptions; Sisara explains modeled young peers and Miwako calls for gradual practice. | B:P20–46. Rehearsal evidence only. |
+| `KNOW-0484` | Miwako/Sisara disclose anxiety, Sisara distinguishes appearance/interior, and Honoka accepts continued practice with modest confidence. | B:P47–84. No performed-voice corroboration or cure. |
+| `KNOW-0485` | Honoka finds a content direction after first-encounter prompt and asks thinking time; coaches volunteer further help. | B:P85–107. Pre-lesson optimism not outcome. |
+| `KNOW-0486` | Honoka encounters silence/beauty response and infers limited idol familiarity; teacher facilitates girl's question; Player observes from corridor. | C:P0–56. Local response, no generational survey; coaches absent. |
+| `KNOW-0487` | Honoka reports ordinary peers as initial light/inspiration, voices someone-directed goal, and clarifies figurative use. | C:P57–93. Partial retrospective motive; peers/performances unnamed and uninspected. |
+| `KNOW-0488` | Girl reports mother's humming, TV stigma, feared ridicule and new willingness to state idol wish; Honoka tentatively recognizes local influence. | C:P98–141. Mother/media reports not direct scenes; no all-class conversion. |
+| `KNOW-0489` | Miwako notes Honoka has not eaten while teaching; Honoka names desired ramen shop and peers joke about Player paying. | C:P142–164. Meal unshown; forgetting not stated; no general payment rule. |
+| `KNOW-0490` | Honoka thanks Player for finding her; Player thanks her joining Nanasta. | C:P165–174. Present reciprocal gratitude, not romance. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0670` | Miwako → Honoka, **method coaching and calibrated reassurance** | Separates how/content, teaches practice, admits anxiety and offers voluntary help. A:P33–75; B:P1–107. Reciprocal `REL-0671`; no ownership of convictions. |
+| `REL-0671` | Honoka → Miwako, **consented learning and thanks** | Accepts strict coaching and recognizes assistance while retaining content responsibility. A:P61–75; B:P1–107; C:P98–141. Reciprocal `REL-0670`; not compulsory debt. |
+| `REL-0672` | Sisara → Honoka, **challenging rehearsal and situated encouragement** | Literal mock questions, inner-nerves disclosure and first-idol prompt help preparation. B:P20–107. Reciprocal `REL-0673`; stress-test intensity locally disputed. |
+| `REL-0673` | Honoka → Sisara, **receiving peer technique without abandoning her answer** | Learns from questions/disclosure, takes prompt and later receives visit. B:P20–107; C:P98–141. Reciprocal `REL-0672`; no complete anxiety cure. |
+| `REL-0674` | Player → Honoka, **opportunity, effort-based confidence and reciprocal thanks** | Explains job, practices/observes, supports, then thanks her joining. A:P18–60; B:P20–84; C:P0–174. Reciprocal `REL-0675`; no dictated doctrine. |
+| `REL-0675` | Honoka → Player, **recognized recruitment and supported self-authorship** | Thanks existing help and final discovery/scouting while speaking for herself. A:P33–60; C:P165–174. Reciprocal `REL-0674`; no exclusive dependence/romance. |
+| `REL-0676` | Honoka → unnamed returning girl, **example and tentative recognition** | Describes origin/goal and listens to girl's own aspiration; wonders if she has been light. C:P57–93,110–141. Reciprocal `REL-0677`; no recruitment/ownership of future. |
+| `REL-0677` | Unnamed returning girl → Honoka, **after-class thanks and present idol aspiration** | Reports hidden interest and says she wants idol work like her teacher. C:P110–128. Reciprocal `REL-0676`; chapter-local role, no stable identity/future accomplishment. |
+
+`T7S_B0160_CLOSE-20261011`: twelve epistemic states and eight relationship directions. Existing identities/characters/units remain; all twenty-nine readiness decisions retain their earlier horizons. No monograph or multimodal maturity is promoted.
