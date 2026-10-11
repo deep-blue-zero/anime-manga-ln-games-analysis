@@ -1,6 +1,96 @@
 {
   "schema": "repository-test-catalog/v1",
   "tests": {
+    "test_nightly_integration.CleanupTests.test_transient_cleanup_preserves_success_and_never_replays_remote_mutations": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Retry only ENOTEMPTY disposal while preserving the successful result, exact receipts, and one reconciliation push, PR creation, protected merge, and audit dispatch."
+    },
+    "test_nightly_integration.CleanupTests.test_persistent_cleanup_fails_after_bounded_attempts_without_losing_receipts": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Fail after three ENOTEMPTY cleanup attempts without rewriting verified integration receipts or repeating remote mutations."
+    },
+    "test_nightly_integration.CleanupTests.test_other_cleanup_errors_fail_immediately_even_after_a_retry": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Propagate non-ENOTEMPTY cleanup errors immediately, including after a transient ENOTEMPTY, without repeating remote mutations."
+    },
+    "test_nightly_integration.CleanupTests.test_transient_cleanup_does_not_turn_failed_operations_into_success": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Retain blocked and failed post-merge results after successful cleanup retry, including the exact integrated-but-unverified receipt."
+    },
+    "test_nightly_integration.CleanupTests.test_persistent_cleanup_keeps_original_operation_failure_in_report": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Retain the original post-merge audit failure and integration SHA when bounded cleanup also fails."
+    },
+    "test_nightly_integration.CleanupTests.test_unhandled_original_exception_survives_successful_cleanup_retry": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Preserve the original unhandled exception or interruption and traceback after successful cleanup retry."
+    },
+    "test_nightly_integration.CleanupTests.test_simultaneous_operation_and_cleanup_exceptions_are_both_preserved": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Expose both original and cleanup exceptions with their tracebacks and preserve the original cause when cleanup exhausts its retry budget."
+    },
+    "test_nightly_integration.CleanupTests.test_real_pack_directory_race_is_removed_on_retry": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Reproduce a late file appearing during real pack-directory removal and verify that retry removes the entire disposable tree."
+    },
+    "test_nightly_integration.RealGitTests.test_automatic_maintenance_is_disabled_only_in_disposable_graph": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Use real Git to verify local maintenance and automatic-GC settings override inherited configuration without changing it."
+    },
     "test_governance_authority.PublicGovernanceInvariantTests.test_historical_character_registry_matches_reviewed_snapshot": {
       "group": "regression",
       "smoke": false,
