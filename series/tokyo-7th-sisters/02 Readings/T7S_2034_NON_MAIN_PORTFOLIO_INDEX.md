@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.63"
+version: "2.64"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and its audit retain their completed boundaries. The active [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed 3 source blocks / 9 episodes; i-n-g coverage is 223/280 episodes across 83 chapters, with 57 i-n-g episodes remaining. The next authorized but unread chapter is `301350` / **きゅんきゅん♥ソングライティング** / 瀬戸ファーブ, episodes `612202001 / 612202002 / 612202003`, assigned B0163. Supplemental, multimodal, character and era-release obligations remain active.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and its audit retain their completed boundaries. The active [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed 4 source blocks / 12 episodes; i-n-g coverage is 226/280 episodes across 84 chapters, with 54 i-n-g episodes remaining. The next authorized but unread chapter is `301360` / **2week School Life** / 鳳チャチャ, episodes `612202101 / 612202102 / 612202103`, assigned B0164. Supplemental, multimodal, character and era-release obligations remain active.
 
 ## Closed first i-n-g tranche
 
@@ -148,3 +148,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The histor
 | [T7S_B0160](T7S_B0160_DEEP_READING.md) | `301320` / 西園ホノカ / TEACHING ME | `612201701 / 612201702 / 612201703` | `COMPLETE_BOUNDED` |
 | [T7S_B0161](T7S_B0161_DEEP_READING.md) | `301330` / 荒木レナ / サムデイ・ノー・リグレット | `612201801 / 612201802 / 612201803` | `COMPLETE_BOUNDED` |
 | [T7S_B0162](T7S_B0162_DEEP_READING.md) | `301340` / 二川ミミ / 運命の人 | `612201901 / 612201902 / 612201903` | `COMPLETE_BOUNDED` |
+| [T7S_B0163](T7S_B0163_DEEP_READING.md) | `301350` / 瀬戸ファーブ / きゅんきゅん♥ソングライティング | `612202001 / 612202002 / 612202003` | `COMPLETE_BOUNDED` |

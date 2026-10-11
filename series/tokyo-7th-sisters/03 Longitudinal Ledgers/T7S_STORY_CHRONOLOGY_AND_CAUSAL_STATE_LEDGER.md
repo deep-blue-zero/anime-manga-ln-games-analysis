@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.63"
+version: "11.64"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 223 complete i-n-g primary documents / T7S_B0080–T7S_B0162; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 226 complete i-n-g primary documents / T7S_B0080–T7S_B0163; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-11
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 739`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 873`; `last_closed_block = T7S_B0162`. The admitted horizon contains 458 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 223 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 750`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 885`; `last_closed_block = T7S_B0163`. The admitted horizon contains 461 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 226 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2625,3 +2625,38 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.66. [B0162](../02%20Readings/
 | `EDGE-0880` | `SERIOUS_FATE_REDEFINITION_TO_TEASING_REUSE_AND_REAFFIRMATION` | `012` repeats relational phrase without confirming mutual romance or future certainty. |
 
 `T7S_B0162_CLOSE-20261011`: twelve events and fourteen typed edges. The search's purpose and present choice close; the diviner's whereabouts and Mimi's eventual search action do not.
+
+## B0163 Ferb's changed commission and situated cute-song experiment
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.67. [B0163](../02%20Readings/T7S_B0163_DEEP_READING.md) owns the complete A/B/C key and prospective committed B0162 entering boundary. Changed brief, accepted challenge, unsuccessful spectator search, requested practice and retrospective outcome form one causal envelope. C:P93 reports roughly a week of training; the native cuts and that account supply local order, not chronology against other chapters. Client, sponsor and cast remain attributed offscreen roles; Yumeno's remark is recalled by Ferb, not a new present scene.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0163-001` | Ferb enjoys a developing old-style rock phrase; Player reports a changed commission for a new-snack web CM, sponsor-driven cast change and a client who allows refusal. | A:P0–54; `KNOW-0515`. Song unfinished, shelving possible; sponsor/client circumstances mediated by Player; his relationship reassurance is interrupted, not a completed guarantee. |
+| `EV-B0163-002` | Ferb stops the proposed refusal and accepts to test herself when the board is overturned, saying she will not abandon music midway; Kyoko recognizes competitiveness and Player goes to relay acceptance. | A:P55–69; `KNOW-0516`. Voluntary local choice despite a real mismatch, not proof of unlimited genre competence, completed contract or safe general client policy. |
+| `EV-B0163-003` | Seeking a cute model, Ferb studies and praises Kyoko, who leaves; Ferb follows and learns Kyoko was surprised by sudden praise rather than offended. | A:P70–91; B:P1–9; `KNOW-0517`. Composition context and fluster coexist; no confirmed romance or authoritative definition of femininity. |
+| `EV-B0163-004` | Kyoko offers to help find a reference around the mall only until her Nanasta lesson; Ferb thanks her and they notice Rona. | B:P10–17; `KNOW-0518`. Explicitly chosen and time-bounded assistance, not permission to alter Kyoko's later lesson. |
+| `EV-B0163-005` | Rona distributes new-product flyers, offers recommendations and reports other products' popularity while admitting she has not tried the spicy dragon-fruit flavor; Ferb appraises her uniform and the peers' conversation as cute. | B:P18–43; `KNOW-0519`. Rona's account is not verified customer research; Ferb's protective/girl-like appraisal is her perspective, not Rona's consent or essential nature. |
+| `EV-B0163-006` | Ferb requests to observe Rona working but begins a very close stare without shown assent; Rona objects and exits. Kyoko says not to chase because of work, requires follow-up and corrects Ferb's gender generalization to excessive proximity; the coda shows Ferb apologizing. | B:P44–75; C:P94–95; `KNOW-0520`. The later apology is locally performed; Rona's future offer in `011` cannot retroactively authorize this encounter. |
+| `EV-B0163-007` | Back at Nanasta after an unsuccessful search, Kyoko reaffirms her own choice to help. Ayumu reports a forthcoming shared live, introduces poekyun as something felt, and Ferb asks her to teach it; Ayumu goes to request a lesson change. | C:P1–38; `KNOW-0521`. Future live is unperformed; Ferb requests instruction, not a settled equivalence between poekyun and the client brief or blanket assent for Kyoko. |
+| `EV-B0163-008` | Native preparation cuts lead into Ferb's embarrassed practice and demonstration. Ayumu qualifies shyness rather than simply excluding it; returning Kyoko learns from Ayumu that Player changed the lesson and asks what happens to scheduled dance. Ferb apologizes. | C:P39–74; `KNOW-0522`. Permission is Ayumu's offscreen report; Kyoko lacked shown prior notice. Demonstration is practice, not an inspected commissioned song or proof of technical mastery. |
+| `EV-B0163-009` | Ferb says she cannot turn back, renews the challenge and expands her stated aim from pleasing the client to impressing everyone who hears the song; she continues with Ayumu while Kyoko voices exasperation. | C:P75–89; `KNOW-0523`. Listener effect is aspiration, not achieved reception; Kyoko's headache line supplies no diagnosis or resolved scheduling agreement. |
+| `EV-B0163-010` | After a native coda cut, Ferb recounts roughly a week's training, distinguishes poepoe-kyun from kyapikyapi-kyunkyun, thinks the experience nevertheless informed this song, and reports great delight relayed through Player. She thanks Ayumu and Kyoko. | C:P90–108; `KNOW-0524`. Retrospective self-assessment and mediated reception, not direct client inspection, public CM release, heard music or proof that training alone caused success. |
+| `EV-B0163-011` | Ferb proposes going home to compose something new; Ayumu offers further training and Rona offers not to flee next time. Ferb appreciates their intent but declines this type for a while, partly as unlike her style and because poekyun took long to shake. | C:P109–117; `KNOW-0525`. Future offers/new composition remain prospective; temporary limit, not permanent incapacity, settled consent to all gazes or durable conversion into a cute persona. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0881` | `REPORTED_CHANGED_BRIEF_WITH_REFUSAL_OPTION_TO_VOLUNTARY_CHALLENGE` | `001` supplies mismatch and an offered exit; `002` is Ferb's active acceptance, not forced self-betrayal. |
+| `EDGE-0882` | `ACCEPTED_CHALLENGE_TO_CUTE_REFERENCE_SEARCH` | `002` motivates `003`; praise and attention do not themselves produce a complete method or genre definition. |
+| `EDGE-0883` | `SURPRISE_CORRECTION_TO_TIME_BOUNDED_HELP` | Kyoko's B:P6–8 explanation in `003` precedes her chosen offer in `004`; a local clarification, not universal permission. |
+| `EDGE-0884` | `BOUNDED_MALL_SEARCH_TO_WORKING_PEER_APPRAISAL` | `004` encounters Rona's work and situated product talk in `005`, rather than a purpose-made research subject. |
+| `EDGE-0885` | `OBSERVATION_REQUEST_WITHOUT_SHOWN_ASSENT_TO_CLOSE_GAZE_AND_REFUSAL` | `005` leads into `006`; a request and helpful motive do not establish permission before the stare. |
+| `EDGE-0886` | `WORK_BOUNDARY_AND_PROXIMITY_CORRECTION_TO_LOCAL_FOLLOWUP` | `006` separates immediate non-pursuit, Kyoko's required follow-up and the later C:P95 apology; no durable protocol or retroactive authorization. |
+| `EDGE-0887` | `UNSUCCESSFUL_SPECTATOR_SEARCH_TO_REQUESTED_FIRSTPERSON_PRACTICE` | `007` replaces searching for a ready-made model with Ferb's own request to experience Ayumu's idiom. |
+| `EDGE-0888` | `REQUESTED_INSTRUCTION_TO_REPORTED_LESSON_CHANGE_WITH_UNBRIEFED_PEER` | `007` enters `008`; Ferb's assent and Ayumu's reported Player permission do not supply Kyoko's prior agreement. |
+| `EDGE-0889` | `EMBARRASSED_PRACTICE_AND_SCHEDULING_OBJECTION_TO_RENEWED_AMBITION` | `008` is followed by `009`; comic determination does not resolve the displaced dance lesson or prove achieved reception. |
+| `EDGE-0890` | `LOCAL_PRACTICE_TO_RETROSPECTIVE_DURATION_AND_NONIDENTITY` | `009` reaches the C:P90–93 coda in `010`; roughly a week is reported and the two kyun idioms are explicitly distinguished. |
+| `EDGE-0891` | `NONIDENTICAL_IDIOMS_WITH_TENTATIVE_TRANSFER_AND_MEDIATED_DELIGHT` | `010` places Ferb's belief that practice informed the song beside Player-relayed reception; neither establishes exclusive causation or inspected musical quality. |
+| `EDGE-0892` | `REPORTED_SUCCESS_AND_GRATITUDE_TO_TEMPORARY_GENRE_LIMIT` | `010` leads to `011`; appreciative reciprocal offers coexist with Ferb's bounded refusal and lingering-practice account. |
+
+`T7S_B0163_CLOSE-20261011`: eleven events and twelve typed edges. The chapter's commission experiment and reported reception close; public CM, future live/new composition, performed music and durable consent/work policy do not.
