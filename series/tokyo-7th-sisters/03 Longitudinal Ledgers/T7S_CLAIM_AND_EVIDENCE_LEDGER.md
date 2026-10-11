@@ -4,7 +4,7 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.66"
+version: "11.67"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -1634,7 +1634,8 @@ Owner and A/B/C locator key: [B0120](../02%20Readings/T7S_B0120_DEEP_READING.md)
 ### AV-0067 — Ayumu's register/costume and unreviewed café event
 
 - Questions/claims: whether selected static states/native transitions prove Victorian authenticity, actual tea cause, legal contract, customer response, event performance or enduring Chacha service; `CL-B0120-001`–`004`.
-- Priority/modality: `AV-B` for native-state/still review; `AV-D` for historical, contractual and reported-event restrictions.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: historical, contractual and reported-event restrictions.
 - Selection: Ayumu ordinary `adv_chara_122_01_01` and formal maid `adv_chara_122_03_04`; Miwako `adv_chara_134_01_01`; Chacha `adv_chara_128_01_01`; Kazumi `adv_chara_146_01_01`; Coney `adv_chara_002_04_03`. All 162 native pages and seventeen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.22 binds six media receipts.
 - Observed: Ayumu's selected ordinary and formal bodies differ visibly; Miwako, Chacha, Kazumi and Coney bodies bind selected roles. A costume is no authenticity proof.
@@ -1657,7 +1658,8 @@ Owner and A/B/C locator key: [B0121](../02%20Readings/T7S_B0121_DEEP_READING.md)
 ### AV-0068 — Kyoko's fear states and unreviewed TV production
 
 - Questions/claims: whether static variants, native shakes/flashes and post-shoot dialogue prove measured fear, ghost activity, physical injury, abandoned-hospital safety, full broadcast performance, audience size or privacy outcome; `CL-B0121-001`–`004`.
-- Priority/modality: `AV-B` for native-state/still review; `AV-D` for supernatural, safety, shoot and broadcast restrictions.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: supernatural, safety, shoot and broadcast restrictions.
 - Selection: Kyoko `adv_chara_123_01_01` and alarmed `adv_chara_123_01_08`; Ei `adv_chara_131_01_01`; Saori `adv_chara_145_01_01`; Makoto `adv_chara_144_02_03`; Tomoe `adv_chara_120_01_05`. All 185 native pages and nineteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.23 binds six media receipts.
 - Observed: selected Kyoko expressions differ; Tomoe's selected tearful state aligns with her crying reveal. Stills do not time a startle, establish injury or display an external location.
@@ -1680,7 +1682,8 @@ Owner and A/B/C locator key: [B0122](../02%20Readings/T7S_B0122_DEEP_READING.md)
 ### AV-0069 — Honoka's role expressions and unreviewed drama
 
 - Questions/claims: whether selected stills/native transitions prove Honoka's consent to Yumeno's directions, actual dating, physical intimacy, screen acting quality, audience response or practice's exclusive causal effect; `CL-B0122-001`–`004`.
-- Priority/modality: `AV-B` for native-state/still review; `AV-D` for consent, relationship and reported-performance restrictions.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: consent, relationship and reported-performance restrictions.
 - Selection: Honoka `adv_chara_124_01_01`, `adv_chara_124_01_03`, `adv_chara_124_01_04`; Rena `adv_chara_125_01_01`; Kyoko `adv_chara_123_01_01`; Yumeno `adv_chara_133_01_03`. All 180 native pages and fifteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.24 binds six media receipts.
 - Observed: three Honoka expressions appear with the same outfit; Yumeno's selected heart imagery is her expressivity, not another actor's assent. Static sprites cannot establish a date or delivered acting quality.
@@ -1703,7 +1706,8 @@ Owner and A/B/C locator key: [B0123](../02%20Readings/T7S_B0123_DEEP_READING.md)
 ### AV-0070 — Rena's letter object and unauditioned work/meeting
 
 - Questions/claims: whether native object/stills prove inner letter text, sender motives, song error, private meeting details, romance outcome, Coney's suppressed identity or lasting senior support; `CL-B0123-001`–`004`.
-- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for letter-content, performed-work and reported-meeting restrictions.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: letter-content, performed-work and reported-meeting restrictions.
 - Selection: Rena `adv_chara_125_01_01`, worried `adv_chara_125_01_04`, returning `adv_chara_125_01_03`; Kyoko `adv_chara_123_01_02`; Honoka `adv_chara_124_01_03`; Coney `adv_chara_002_03_09`; foreground envelope `adv_obj_0111`. All 174 native pages and thirteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.25 binds seven media receipts.
 - Observed: envelope exterior bears `荒木レナ様`; Rena's selected expressions vary. Neither exposes the letter's inner text nor supplies the senior's direct speech.
@@ -1726,7 +1730,8 @@ Owner and A/B/C locator key: [B0124](../02%20Readings/T7S_B0124_DEEP_READING.md)
 ### AV-0071 — Mimi's substitute work and unreviewed threat response
 
 - Questions/claims: whether selected stills/native fields prove clinical diagnosis, accounting authority, stream quality, Rona attack, effective alarm, actual apprehension/police transfer or permanent Coney reliance; `CL-B0124-001`–`004`.
-- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for illness, work, safety and retrospective-incident restrictions.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: illness, work, safety and retrospective-incident restrictions.
 - Selection: Mimi `adv_chara_126_01_01`/`126_01_05`; Rona `adv_chara_005_01_04`; Tomoe `adv_chara_120_01_04`; Kyoko `adv_chara_123_01_01`; Xiao `adv_chara_147_01_05`; Coney `adv_chara_002_07_02`; Holocom objects `adv_obj_0027`/`0026`. All 192 native pages and eighteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.26 binds nine media receipts.
 - Observed: selected bodies bind helper, performers and warning messenger; Holocom objects depict active-message and no-answer states. They cannot locate Rona or prove a threat event. No arrest image is shown.
@@ -1749,7 +1754,8 @@ Owner and A/B/C locator key: [B0125](../02%20Readings/T7S_B0125_DEEP_READING.md)
 ### AV-0072 — Ferb with/without bass and unauditioned ad melody
 
 - Questions/claims: whether selected sprites/native transitions prove injury severity, actual rest, consent to surveillance, clinical healing, technical composition quality, delivered commercial or permanent work-balance change; `CL-B0125-001`–`004`.
-- Priority/modality: `AV-B` for native-state/still review; `AV-D` for injury, consent, performed-music and commission restrictions.
+- Priority/modality: `AV-B` for native-state/still review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: injury, consent, performed-music and commission restrictions.
 - Selection: Ferb `adv_chara_127_01_03` with large bass case and `adv_chara_127_02_02`/`127_02_01` without it; Miu `adv_chara_129_01_01`/`129_01_03`; Kazumi `adv_chara_146_01_02`. All 149 native pages and thirteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.27 binds six media receipts.
 - Observed: selected Ferb state changes remove the large case while keeping everyday bag; Miu/Kazumi bodies bind the companions. Stills do not show treatment or how the emerging melody sounds.
@@ -1772,7 +1778,8 @@ Owner and A/B/C locator key: [B0126](../02%20Readings/T7S_B0126_DEEP_READING.md)
 ### AV-0073 — broken tofu, detective costume and unreviewed health state
 
 - Questions/claims: whether selected stills/native effects prove Saori's death/injury severity, river mechanism, road collision, Coney culpability, Player's consent or safe recovery; `CL-B0126-001`–`004`.
-- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for medical, coercion and crime restrictions.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: medical, coercion and crime restrictions.
 - Selection: Chacha `adv_chara_128_01_03` and detective `adv_chara_128_02_04`; Kajika `adv_chara_013_01_06`; Saori `adv_chara_145_01_01`; Makoto `adv_chara_144_01_04`; Madoka `adv_chara_121_01_03`; Hime `adv_chara_006_01_19`; Coney `adv_chara_002_03_06`; tofu object `adv_obj_0117`. All 228 native pages and eighteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.28 binds nine media receipts.
 - Observed: detective clothing marks Chacha's performance; broken tofu object shows fragments. Neither is a forensic or health assessment, and selected Saori body does not certify consciousness at every page.
@@ -1795,7 +1802,8 @@ Owner and A/B/C locator key: [B0127](../02%20Readings/T7S_B0127_DEEP_READING.md)
 ### AV-0074 — Miu's Holocom contact and unreviewed friend conversation
 
 - Questions/claims: whether selected stills/native object prove sender, message text, friend's reaction, final stream quality, enduring friendship or a negotiated schedule; `CL-B0127-001`–`004`.
-- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` for external-friend, performance and schedule restrictions.
+- Priority/modality: `AV-B` for native-state/still/object review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: external-friend, performance and schedule restrictions.
 - Selection: Miu `adv_chara_129_02_04`, `129_02_01`, `129_02_05`; Murasaki `adv_chara_149_01_01`; Honoka `adv_chara_124_01_01`; Coney `adv_chara_002_03_01`; Holocom `adv_obj_0027`. All 160 native pages and seventeen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.29 binds seven media receipts.
 - Observed: Miu's expressions vary while Holocom object shows an active interface, not sender/text. No outside friend body or message content is selected/shown.
@@ -1818,7 +1826,8 @@ Owner and A/B/C locator key: [B0128](../02%20Readings/T7S_B0128_DEEP_READING.md)
 ### AV-0075 — Monaka's school disguise and school-life visibility
 
 - Questions/claims: whether outfit stills establish enrollment, visitor authorization, spoken-language fluency, a school live, or the acting result; `CL-B0128-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for school authorization, actual event, performed delivery and filmed-scene restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: school authorization, actual event, performed delivery and filmed-scene restrictions.
 - Selection: Monaka `adv_chara_130_01_02`, `130_02_01`, `130_02_04`; Ferb `127_01_01`; Jedah `137_01_01`; Kazumi `146_01_01`; Musubi `004_01_07`, `004_01_11`. All 185 native pages and nineteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.30 binds eight media receipts.
 - Observed: Monaka's blazer/skirt, glasses and accessories make a schoolgirl presentation visible against her ordinary outfit; peer outfits are distinct. Stills do not establish student status, access permission, others' consent or full scene timing.
@@ -1841,7 +1850,8 @@ Owner and A/B/C locator key: [B0129](../02%20Readings/T7S_B0129_DEEP_READING.md)
 ### AV-0076 — Ei's staged transformation and unseen recording
 
 - Questions/claims: whether sprite/animation states prove literal magic, complete acting quality, filming consent, video circulation or a contracted official show; `CL-B0129-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed audio, recording, rights and official-work restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed audio, recording, rights and official-work restrictions.
 - Selection: Ei `adv_chara_131_01_03`, `131_02_05`, `131_03_01`; Manon `132_01_02`; Saori `144_02_02`, `144_04_03`; Jedah `137_04_04`; Sisara `136_04_04`. All 156 native pages and thirteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.31 binds eight media receipts.
 - Observed: Ei's everyday sprite, heroine costume and translucent glowing overlay are distinct; Saori, Jedah and Sisara appear in crafted villain costumes. These are authored presentation states, not proof of a supernatural possession or a filmed video file.
@@ -1865,7 +1875,8 @@ Owner and A/B/C locator key: [B0130](../02%20Readings/T7S_B0130_DEEP_READING.md)
 ### AV-0077 — mall trip sprites and unreviewed live show
 
 - Questions/claims: whether selected stills prove family status, heat severity, child-stage assent, full show content, sleep-talk referent or Magiko/Mikola identity; `CL-B0130-001`–`005`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for safety, stage consent, full performance and family-identity restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: safety, stage consent, full performance and family-identity restrictions.
 - Selection: Manon `adv_chara_132_01_01`, `132_01_03`, `132_01_04`; Momoka `007_02_03`, `007_02_05`; Coney `002_05_03`, `002_03_11`. All 208 native pages and twenty-seven command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.32 binds seven media receipts.
 - Observed: expression/attire variants for the two attendees and Coney's host-like presentation. No full mall crowd, medical measurement, Magiko action, custody record or consent exchange appears in these selected composites.
@@ -1889,7 +1900,8 @@ Owner and A/B/C locator key: [B0131](../02%20Readings/T7S_B0131_DEEP_READING.md)
 ### AV-0078 — Yumeno's manner variants and elided accident action
 
 - Questions/claims: whether expression/heart variants prove separate identities, orientation, kiss contact, injury mechanism, shock therapy or Hime's consent; `CL-B0131-001`–`005`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for exact accident, performed audio, medical and consent restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: exact accident, performed audio, medical and consent restrictions.
 - Selection: Yumeno `adv_chara_133_01_02`, `133_02_07`, `133_01_03`; Hime `006_01_12`, `006_01_03`; Ferb `127_02_01`; Xiao `147_01_01`; Coney `002_03_02`. All 188 native pages and twenty-nine command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.33 binds eight media receipts.
 - Observed: Yumeno's heart-framed prior/returned sprites contrast with a reserved post-amnesia sprite. The selected stills do not show accident trajectories, kiss contact, medical exam or Hime's assent to earlier conduct.
@@ -1912,7 +1924,8 @@ Owner and A/B/C locator key: [B0132](../02%20Readings/T7S_B0132_DEEP_READING.md)
 ### AV-0079 — festival-attendee costumes and unreviewed crowd/music
 
 - Questions/claims: whether selected sprites establish exact moshing, crowd size, musical quality, injury absence, publicity consent or a booked new trio; `CL-B0132-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed music, physical crowd safety, media and offer restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed music, physical crowd safety, media and offer restrictions.
 - Selection: Miwako `adv_chara_134_01_01`, `134_02_05`; Ferb `127_03_01`; Sumire `008_06_01`; Yumeno `133_04_01`; Jedah `137_03_05`; Coney `002_01_01`. All 193 native pages and fourteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.34 binds seven media receipts.
 - Observed: Miwako shifts from ordinary to festival attire, with peers likewise costumed as attendees; this does not put Nanasta on the KUONJI stage. No crowd-density, article, contract or full band performance is visible in selected stills.
@@ -1935,7 +1948,8 @@ Owner and A/B/C locator key: [B0133](../02%20Readings/T7S_B0133_DEEP_READING.md)
 ### AV-0080 — adult-model aspiration and selected speaker sprites
 
 - Questions/claims: whether native visuals show Tasha becoming adult, a completed makeup lesson, the clay object, body-contact consent or new work; `CL-B0133-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed voice, bodily interaction beyond dialogue, future job and safeguarding restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed voice, bodily interaction beyond dialogue, future job and safeguarding restrictions.
 - Selection: Tasha `adv_chara_135_01_01`, `135_01_03`; Mimi `126_01_01`; Miu `129_02_04`; Miwako `134_01_01`; Matsuri `138_01_04`. All 172 native pages and ten command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.35 binds six media receipts.
 - Observed: Tasha's two stills retain a blue outfit with altered expression/pose; older models and Matsuri are visually distinguishable. These stills show no adult transformation, makeup outcome, touch geometry, privacy practice or work assignment.
@@ -1958,7 +1972,8 @@ Owner and A/B/C locator key: [B0134](../02%20Readings/T7S_B0134_DEEP_READING.md)
 ### AV-0081 — first-live and paired comedy presentation
 
 - Questions/claims: whether visuals prove technical failure root cause, successful joke delivery, crowd-wide reception, durable duo identity or song quality; `CL-B0134-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed songs/voice, complete audience and technical-cause restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed songs/voice, complete audience and technical-cause restrictions.
 - Selection: Haru `adv_chara_003_06_15`; Tomoe `120_01_02`, `120_03_04`; Shisara `136_01_01`, `136_03_04`. All 174 native pages and 29 command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.36 binds five media receipts.
 - Observed: Tomoe/Shisara shift from ordinary presentation to coordinated polka-dot comedy suits; this supports a staged joint act but not a permanent registered unit. Static stills do not carry joke timing, performed song, outage engineering or whole-audience response.
@@ -1981,7 +1996,8 @@ Owner and A/B/C locator key: [B0135](../02%20Readings/T7S_B0135_DEEP_READING.md)
 ### AV-0082 — rehearsal sprites and pre-event yukata
 
 - Questions/claims: whether native visuals establish dance mastery, public event, sister's photograph contents or promised video; `CL-B0135-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed rhythm/dance, audience and future-footage restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed rhythm/dance, audience and future-footage restrictions.
 - Selection: Jedah `adv_chara_137_01_02`, `137_02_05`; Hime `006_01_04`; Manon `132_01_02`; Tasha `135_01_02`; Shirayuki `148_01_03`. All 163 native pages and seventeen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.37 binds six media receipts.
 - Observed: Jedah shifts from school-style clothes to a pink floral yukata; helpers are identifiable in their ordinary static sprites. No full public dance, complete movement, sister photo, spectator or Holocon footage appears in the selected stills.
@@ -2004,7 +2020,8 @@ Owner and A/B/C locator key: [B0136](../02%20Readings/T7S_B0136_DEEP_READING.md)
 ### AV-0083 — agent role-play and watcher-reveal sprites
 
 - Questions/claims: whether visual states prove real weapons, a secret group, Yumeno's disguise, consent or actual bystander harm beyond dialogue; `CL-B0136-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed voice, real weapon/organization and long-term safety restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed voice, real weapon/organization and long-term safety restrictions.
 - Selection: Matsuri `adv_chara_138_01_04`, `138_02_02`; Momoka `007_07_01`; Yumeno silhouette `133_03_01`, identified `133_01_02`; Rona `005_02_01`; Ayumu `122_03_01`; Musubi `004_01_10`. All 185 native pages and 31 command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.38 binds eight media receipts.
 - Observed: Matsuri/Momoka have camouflage and gun-like accessories in agent art, while the watcher first appears as a black silhouette and later as Yumeno. Static role-play art does not verify acquired real weapons, an organization or a separate silhouetted subject. Rona/Ayumu visuals identify the affected mall workers, not their complete encounter.
@@ -2027,7 +2044,8 @@ Owner and A/B/C locator key: [B0137](../02%20Readings/T7S_B0137_DEEP_READING.md)
 ### AV-0084 — designer and friend sprites across departure/return
 
 - Questions/claims: whether selected stills prove employer offer, completed dresses, creative quality, tears' full duration, next-day reactivation or future career; `CL-B0137-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed show/music, employer terms and future work restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed show/music, employer terms and future work restrictions.
 - Selection: Rishuri `adv_chara_139_01_01`, `139_01_03`; Sui `009_03_05`, `009_03_12`; Rona `005_01_01`; Mimi `126_01_01`; Jedah `137_01_02`. All 199 native pages and fifteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.39 binds seven media receipts.
 - Observed: Rishuri retains sewing-themed dress with changed expression; Sui's selected stills retain outfit with expression change, and other peers are identifiable. These do not show internship contract, full fashion-show garments, overseas workspace, all grief or actual resumed work.
@@ -2050,7 +2068,8 @@ Owner and A/B/C locator key: [B0138](../02%20Readings/T7S_B0138_DEEP_READING.md)
 ### AV-0085 — Saori, Sawara and a non-individuated girl sprite
 
 - Questions/claims: whether native visuals show actual fall geometry, injury severity, a named/individualized child, grief resolution or completed backstage meeting; `CL-B0138-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed song, accident engineering/medicine and later reconciliation restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed song, accident engineering/medicine and later reconciliation restrictions.
 - Selection: Saori `adv_chara_012_01_01`, `012_03_01`; Sawara `144_01_02`, `144_03_02`; Coney `002_03_03`; girl `022_01` (a one-layer, two-suffix asset). All 161 native pages and nineteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing including the one-layer exception, and direct visual inspection, 2026-09-26; source-lock 12.40 binds six media receipts.
 - Observed: Saori/Sawara have ordinary/stage variants; the girl's image is a generic line-art placeholder, not a reliable likeness. No detailed fall, medical evaluation, complete grief expression or final meeting appears in selected stills.
@@ -2073,7 +2092,8 @@ Owner and A/B/C locator key: [B0139](../02%20Readings/T7S_B0139_DEEP_READING.md)
 ### AV-0086 — child quartet and older-observer static states
 
 - Questions/claims: whether native visuals establish complete choreography, supernatural aid, exact snack placement, guardian-safety plan, actual hug geometry or future SOL continuity; `CL-B0139-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed song/dance/crowd, safety plan and long-horizon unit restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed song/dance/crowd, safety plan and long-horizon unit restrictions.
 - Selection: Shirayuki `adv_chara_148_01_01`, `148_01_03`; Shinju `014_01_05`; Manon `132_01_02`; Tasha `135_01_02`; Mimi `126_01_05`; Miwako `134_01_04`; Hime `006_01_19`. All 141 native pages and fifteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.41 binds eight media receipts.
 - Observed: four younger performers and three older observers are distinguishable; Shirayuki's chosen stills change expression within the same costume. The static selection does not show full stage technique, literal zashiki-warashi, snacks, safety staffing or consent to touch.
@@ -2096,7 +2116,8 @@ Owner and A/B/C locator key: [B0140](../02%20Readings/T7S_B0140_DEEP_READING.md)
 ### AV-0087 — festival collaborators and omitted cover performance
 
 - Questions/claims: whether static native art certifies the performed cover, whole audience response, cat charm's efficacy, actual changing-room act, spirit or full stage choreography; `CL-B0140-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for song/crowd/rights/supernatural restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: song/crowd/rights/supernatural restrictions.
 - Selection: Murasaki `adv_chara_149_01_03`, `149_01_04`; Ferb `127_02_01`; Yumeno `133_01_01`; Ei `131_01_03`; Rishuri `139_01_01`; Makoto `145_01_02`; Shirayuki `148_01_01`. All 153 native pages and nineteen command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.42 binds eight media receipts.
 - Observed: the seven named collaborators are visually distinguishable in selected static designs; two Murasaki stills are close expression variants. No still contains the performed song, student-fan interiority, made charm, full crowd or literal spirit. Generic repeated `adv_chara_025_01` at A:P40 does not identify two fans.
@@ -2119,7 +2140,8 @@ Owner and A/B/C locator key: [B0141](../02%20Readings/T7S_B0141_DEEP_READING.md)
 ### AV-0088 — expressive variants and character-bento object
 
 - Questions/claims: whether selected visuals verify literal Player omnipresence, clinical change, actual sleep/contact volume, permanent Sumire conversion, bento coercion or a dream boundary; `CL-B0141-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for voice, mental state, contact policy and dream-frame restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: voice, mental state, contact policy and dream-frame restrictions.
 - Selection: Sumire `adv_chara_008_01_11`, `008_01_13`; Makoto `145_01_03`, `145_01_02`; Haru `003_02_10`; Yumeno `133_05_05`; Coney `002_03_08`; lunch object `adv_obj_0112`. All 147 native pages and twenty-one command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing and direct visual inspection, 2026-09-26; source-lock 12.43 binds eight media receipts.
 - Observed: selected Makoto/Sumire expressions differ, and the pink-box lunch depicts a face matching the spoken character-bento reveal. Neither facial art nor object diagnoses Makoto, establishes literal possession or proves Sumire's future behavior.
@@ -2142,7 +2164,8 @@ Owner and A/B/C locator key: [B0142](../02%20Readings/T7S_B0142_DEEP_READING.md)
 ### AV-0089 — bar facade, role silhouettes and Kazumi/Murasaki stills
 
 - Questions/claims: whether visual stills certify labor terms, customer's conduct beyond dialogue, actual poured drink, quoted author, song performance, mother/patron individualized likeness or long-term reading shift; `CL-B0142-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for song, labor terms, rights/legality and future habit restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: song, labor terms, rights/legality and future habit restrictions.
 - Selection: Kazumi `adv_chara_146_01_01`, `146_01_02`; Murasaki `149_01_01`; Chacha `128_01_01`; Honoka `124_01_01`; mother generic `037_01`; regular generic `027_01`; `EZ Bar` facade `adv_obj_0078`. All 172 native pages and twenty-one command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.44 binds eight media receipts.
 - Observed: Kazumi/Murasaki/Chacha/Honoka are distinguishable; `037_01` and `027_01` are generic line-art woman/man placeholders, not individualized portraits. Bar facade reads `EZ Bar` but cannot disclose employment conditions or music.
@@ -2165,7 +2188,8 @@ Owner and A/B/C locator key: [B0143](../02%20Readings/T7S_B0143_DEEP_READING.md)
 ### AV-0090 — Xiao role-expression stills and film/physical-action gap
 
 - Questions/claims: whether static art verifies filmed seduction, contact geometry, injury, performed vocal shift, complete movie, role safeguards or true cause of Xiao's heartbeat; `CL-B0143-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for film, contact, minor-role safety, voice and affect restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: film, contact, minor-role safety, voice and affect restrictions.
 - Selection: Xiao `adv_chara_147_01_01`, `147_01_03`, `147_01_04`, `147_01_05`; Susu `011_01_08`; Miu `129_02_03`; Makoto `145_01_02`; generic director `040_01`. All 133 native pages and twenty-three command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.45 binds eight media receipts.
 - Observed: Xiao has one costume and several static expression variants; Susu/Miu/Makoto are distinct. Director is a line-art role placeholder. Nothing in selected stills proves force, injury, consent, spoken tone or a completed filmed scene.
@@ -2188,7 +2212,8 @@ Owner and A/B/C locator key: [B0144](../02%20Readings/T7S_B0144_DEEP_READING.md)
 ### AV-0091 — costume echo and everyday-object states
 
 - Questions/claims: whether native visuals establish actual missed show, psychic mechanism, purchases, frog taxonomy, completed cleaning, song/audience or future stages; `CL-B0144-001`–`004`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for dream mechanism, transactions, performance and future schedule restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: dream mechanism, transactions, performance and future schedule restrictions.
 - Selection: Haru schoolwear `adv_chara_003_01_15`, dream outfit `003_09_04`, later outfit `003_09_05`; Shizuka `010_01_02`; Hime `006_01_05`; Shinju `014_01_06`; Sawara `012_01_01`; Musubi `004_01_17`; facade `adv_obj_0150`, tofu memo `0151`, cat pen `0152`. All 276 native pages and forty-two command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.46 binds eleven media receipts.
 - Observed: dream and later stage Haru share `003_09` costume body with different facial states. `7 MART`, tofu pad and pen are exact product/facade appearances, not purchase receipts. No selected frog asset, equipment failure mechanism, song or crowd.
@@ -2212,7 +2237,8 @@ Owner and A/B/C locator key: [B0145](../02%20Readings/T7S_B0145_DEEP_READING.md)
 ### AV-0092 — Musubi's role/stage sprite states and unreviewed performance
 
 - Questions/claims: whether native states establish distinct rehearsal/school/live settings, individualized critic/council likenesses, performed-song quality, formal election completion or a health/workload cure; `CL-B0145-001`–`005`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for audio, institutional and future-work restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: audio, institutional and future-work restrictions.
 - Selection: Musubi school `adv_chara_004_01_22`, training `004_06_22`, live `004_04_08`; Susu training `011_05_05`; Shizuka school `010_01_09`; Coney `002_03_01`; generic female role states `026_01`, `025_01`; Haru school `003_02_08`. All 450 native pages and sixty-five command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.47 binds nine media receipts.
 - Observed: Musubi's outfits visibly partition school/training/live; unnamed school-role drawings are generic and cannot be promoted to unique named portraits. Later audience exchange is staged text/sprite state, not heard music or a ballot.
@@ -2236,7 +2262,8 @@ Owner and A/B/C locator key: [B0146](../02%20Readings/T7S_B0146_DEEP_READING.md)
 ### AV-0093 — Rona's roles and the trainee's generic silhouette
 
 - Questions/claims: whether native images individualize girl, show consent/guardian/venue clearance, certify song quality, or document a new Nanastar member; `CL-B0146-001`–`005`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for performed music, child/venue safeguards and future outcome restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed music, child/venue safeguards and future outcome restrictions.
 - Selection: Rona stage `adv_chara_005_07_01`, ordinary `005_01_04` and park `005_01_01`; trainee generic `023_01`; Coney `002_07_01`; Haru stage `003_06_04`; Kajika stage `013_03_01`; Musubi school `004_01_05`. All 317 native pages and forty-four command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.48 binds eight media receipts.
 - Observed: Rona has scene-distinct stage and ordinary states; `023_01` is a generic pigtail line-art role icon, not a named/aged/unique portrait or link to B0138 child. No still certifies the park sound, consent process, permit or later contest song.
@@ -2260,7 +2287,8 @@ Owner and A/B/C locator key: [B0147](../02%20Readings/T7S_B0147_DEEP_READING.md)
 ### AV-0094 — Hime's continuous dress and changed hair presentation
 
 - Questions/claims: whether native states distinguish new Hime identity from presentation, show mother's portrait, prove Kuonji kinship, reveal camera contents or certify injury/security outcome; `CL-B0147-001`–`005`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for voice/music, kinship, maternal perspective and incident disposition limits.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: voice/music, kinship, maternal perspective and incident disposition limits.
 - Selection: Hime school `adv_chara_006_01_01`, long-wig party `006_07_01`, chase `006_06_01`, short-hair party `006_08_01`; Shizuka party `010_04_01`; Coney training `002_12_01`; father `028_01`, brother `029_01`, sister `030_01`; guest `038_01`; intruder `041_01`; tofu-shop foreground `adv_obj_0008`; Sui school `009_03_01`. All 425 native pages and eighty-three command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.49 binds thirteen media receipts.
 - Observed: long wig and short hair attach to same Hime dress/body presentation; role characters are generic line art. `adv_obj_0008` is tofu shop facade, not inspectable mother portrait. Camera sprite indicates carried apparatus, not photo contents or completed custody.
@@ -2284,7 +2312,8 @@ Owner and A/B/C locator key: [B0148](../02%20Readings/T7S_B0148_DEEP_READING.md)
 ### AV-0095 — Holocom and generic clinical presentation
 
 - Questions/claims: whether native visuals show actual prices, trade receipts, clinical chart, work contract or recovery; `CL-B0148-001`–`005`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for market/legal, medical follow-up and sponsor-contract restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: market/legal, medical follow-up and sponsor-contract restrictions.
 - Selection: Momoka `adv_chara_007_02_01`, `007_01_01`; Musubi `004_01_06`; Sumire `008_01_01`; Sawara `012_01_01`; Kajika `013_01_01`; Shinju `014_01_01`; clinician role `027_01`; Holocom `adv_obj_0027`. All 339 native pages and thirty-eight command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.50 binds nine media receipts.
 - Observed: Momoka has two ordinary outfit/face states, not a second identity; Holocom prop is a generic device, not a legible brokerage or medical record. Clinician is non-individuated line art.
@@ -2308,7 +2337,8 @@ Owner and A/B/C locator key: [B0149](../02%20Readings/T7S_B0149_DEEP_READING.md)
 ### AV-0096 — Sumire's prior stage and solo-day states
 
 - Questions/claims: whether static assets show performed solo, audience verdict, Player injury details, a concrete confession or future comparison to Seven Sisters; `CL-B0149-001`–`005`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for song, injury and unstated relationship restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: song, injury and unstated relationship restrictions.
 - Selection: Sumire earlier stage `adv_chara_008_05_02`, ordinary `008_01_08`, solo-day `008_07_01`; Coney `002_03_01`; Haru stage `003_06_04`; Hime stage `006_03_01`; Rona stage `005_07_01`; generic clinical role `027_01`. All 420 native pages and seventy-nine command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.51 binds eight media receipts.
 - Observed: Sumire's stage/ordinary/solo-day bodies remain one subject; selected costume indicates preparation, not heard performed solo. The generic clinical silhouette supplies no injury mechanism or diagnosis.
@@ -2332,7 +2362,8 @@ Owner and A/B/C locator key: [B0150](../02%20Readings/T7S_B0150_DEEP_READING.md)
 ### AV-0097 — Sui outfit states and generic Masaru role icons
 
 - Questions/claims: whether native art individuates Masaru, proves exact age/meet timing, certifies aquatic safety or resolves romance/gender/privacy; `CL-B0150-001`–`005`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for child-sport/guardian, privacy and future relationship restrictions.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: child-sport/guardian, privacy and future relationship restrictions.
 - Selection: Sui school `adv_chara_009_03_01`, swim `009_04_01`, outing casual `009_08_01`; Masaru generic ordinary `042_01` and swim-flashback `043_01`; Susu `011_01_01`; Shinju `014_01_01`; Sumire `008_01_01`; Shizuka `010_01_01`; Momoka `007_02_01`; Kajika `013_01_01`. All 439 native pages and eighty-one command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.52 binds eleven media receipts.
 - Observed: Sui's school/swim/casual outfit states retain one person; Masaru's two one-layer line-art variants are generic and cannot identify age or separate boys. Outing art cannot establish permission, supervision or private romance.
@@ -2356,7 +2387,8 @@ Owner and A/B/C locator key: [B0151](../02%20Readings/T7S_B0151_DEEP_READING.md)
 ### AV-0098 — Shizuka's staged return and generic production icon
 
 - Questions/claims: whether stage costume individuates a new Shizuka, whether generic production art identifies the sponsor, whether art/performance alone proves a consent or contract remedy; `CL-B0151-001`–`005`.
-- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` for unreviewed performed audio, full broadcast, contract, ratings and future bookings.
+- Priority/modality: `AV-B` for native-state and selected static review; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: unreviewed performed audio, full broadcast, contract, ratings and future bookings.
 - Selection: Shizuka school/formal `adv_chara_010_01_01` and `_09`, stage `010_02_10`; Coney `002_03_01` and `_05_03`; Haru stage `003_06_10` and `_05`; Sawara stage `012_03_01`; generic `040_01`. All 374 native pages and forty-three command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.53 binds nine media receipts.
 - Observed: Shizuka retains recognizable presentation across school and stage; costume supports physical studio presence, not a new identity. Haru's expression states mark public insistence. Generic production-role figure does not identify the sponsor or chief.
@@ -2380,7 +2412,8 @@ Owner and A/B/C locator key: [B0152](../02%20Readings/T7S_B0152_DEEP_READING.md)
 ### AV-0099 — audition notice, holocom and Susu costume states
 
 - Questions/claims: whether the notice establishes exact selection terms, art establishes actual dance quality, tutu defines a relationship, or the holocom supplies a complete communications record; `CL-B0152-001`–`005`.
-- Priority/modality: `AV-B` for native-state and ten selected static resources; `AV-D` for performed ballet/audio, scoring, health/nutrition and minor-manager boundary restrictions.
+- Priority/modality: `AV-B` for native-state and ten selected static resources; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed ballet/audio, scoring, health/nutrition and minor-manager boundary restrictions.
 - Selection: Susu casual `adv_chara_011_01_06`, training suit `011_05_15`, practice dress `011_06_08`, ornate tutu expressions `011_07_10`/`_06`; Musubi athletic `004_06_06`, Haru school `003_02_10`, Sawara casual `012_01_06`; special-audition notice `adv_obj_0153`, holocom `adv_obj_0027`. All 353 native pages and fifty-eight command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.54 binds ten media receipts.
 - Observed: Susu's clothing and expression shift across training, audition and private scene while identity remains continuous. Notice confirms an audition graphic, not signed terms. Holocom depicts message/call mediation, not external score. Costume does not make ballet performance or romance visible.
@@ -2404,7 +2437,8 @@ Owner and A/B/C locator key: [B0153](../02%20Readings/T7S_B0153_DEEP_READING.md)
 ### AV-0100 — Sawara's trip outfits and generic holocom
 
 - Questions/claims: whether still art proves recovery, photo contents, holocom unlocking or sending, and whether yukata/bath staging changes consent; `CL-B0153-001`–`005`.
-- Priority/modality: `AV-B` for native-state and nine selected static resources; `AV-D` for uninspected photographs, phone logs, performance audio, private bodily image and labor records.
+- Priority/modality: `AV-B` for native-state and nine selected static resources; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: uninspected photographs, phone logs, performance audio, private bodily image and labor records.
 - Selection: Sawara casual `adv_chara_012_01_01`, travel `012_05_01`/`_06`, inn/bath yukata `012_06_01`/`_04`; Shinju `014_01_03`, Haru `003_01_04`, Coney `002_03_11`; generic holocom `adv_obj_0027`. All 283 native pages and thirty-two command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.55 binds nine media receipts.
 - Observed: Sawara's travel/yukata designs mark location/scene phases, not a change of actor. Holocom item is a generic device, not the actual photographed face, naked body, unlock record or sent-message confirmation. No nude image is inspected or required.
@@ -2428,7 +2462,8 @@ Owner and A/B/C locator key: [B0154](../02%20Readings/T7S_B0154_DEEP_READING.md)
 ### AV-0101 — Kajika's recorded address and unpictured correspondents
 
 - Questions/claims: whether art identifies petitioners, letters or club status, and whether Kajika's costume/expressions prove recipient response or Sawara's viewing approval; `CL-B0154-001`–`005`.
-- Priority/modality: `AV-B` for native-state and nine selected static resources; `AV-D` for uninspected letters/signatures, edited/delivered video, audience response and performed audio.
+- Priority/modality: `AV-B` for native-state and nine selected static resources; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: uninspected letters/signatures, edited/delivered video, audience response and performed audio.
 - Selection: Kajika school `adv_chara_013_01_06`, recording states `013_05_05`/`_11`; Sawara `012_01_01`; Haru `003_01_05`, Shinju `014_01_03`, Musubi `004_01_01`, Momoka `007_02_01`, Coney `002_03_01`. All 239 native pages and twenty-two command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.56 binds nine media receipts.
 - Observed: Kajika's anxious school and smiling/startled recording states remain one person. Peers are distinct speakers; no petitioner portrait, full letter, signed roster or delivered-screen state is established. Sawara appears in a separate scene, not as evidence of Kajika's advance approval.
@@ -2452,7 +2487,8 @@ Owner and A/B/C locator key: [B0155](../02%20Readings/T7S_B0155_DEEP_READING.md)
 ### AV-0102 — frog variants and the unverified stone gate
 
 - Questions/claims: whether static gold/green frog variants prove external magic, whether stone depicts a beacon, or whether Shinju's tears settle dream versus reality; `CL-B0155-001`–`005`.
-- Priority/modality: `AV-B` for native-state and ten selected static resources; `AV-D` for external ontology, environmental effect, site status and performed audio.
+- Priority/modality: `AV-B` for native-state and ten selected static resources; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: external ontology, environmental effect, site status and performed audio.
 - Selection: frog `adv_chara_152_02_01`, glowing `152_04_01`, ordinary green `152_06_01`; Shinju `014_01_01`/`_06`; Sui `009_03_01`, Sumire `008_01_01`, Kajika `013_01_01`, Sawara `012_01_01`; stone `adv_obj_0154`. All 311 native pages and fifty-four command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.57 binds ten media receipts.
 - Observed: stylized frog appears green and gold on rock states, and plain stone has no visible verified mechanism. Native art illustrates the ambiguous encounter, not an external-world witness. Shinju's expression changes do not certify physical encounter.
@@ -2476,7 +2512,8 @@ Owner and A/B/C locator key: [B0156](../02%20Readings/T7S_B0156_DEEP_READING.md)
 ### AV-0103 — Tomoe's two presentations and generic friend icons
 
 - Questions/claims: whether art proves individualized friend identity, musical exactness, original-song quality, airport permission or emotional cure; `CL-B0156-001`–`005`.
-- Priority/modality: `AV-B` for native-state and ten selected static resources; `AV-D` for performed songs/audio, lyrics/score, venue documents and later outcomes.
+- Priority/modality: `AV-B` for native-state and ten selected static resources; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed songs/audio, lyrics/score, venue documents and later outcomes.
 - Selection: Tomoe school `adv_chara_120_01_01`/`_06`, stage `120_04_01`/`_06`; unnamed friend's generic student `025_01`; Murasaki `149_01_01`, Sisara `136_01_01`, Haru `003_02_01`; generic adult-woman role `037_01`; holocom `adv_obj_0027`. All 374 native pages and forty-two command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.58 binds ten media receipts.
 - Observed: Tomoe's school/stage expression states are one performer. The friend/mother icons are generic roles, not personalized portraits or evidence of names. Holocom image cannot authenticate the concluding phone conversation or public metrics.
@@ -2500,7 +2537,8 @@ Owner and A/B/C locator key: [B0157](../02%20Readings/T7S_B0157_DEEP_READING.md)
 ### AV-0104 — Madoka's performer/role costumes and generic production roles
 
 - Questions/claims: whether art proves Kanna as real person, actual gang violence, production-worker identity, injury policy, full acted-film quality, career or romance; `CL-B0157-001`–`005`.
-- Priority/modality: `AV-B` for native-state and eleven selected exact static resources; `AV-D` for full performance/film, contracts, labor safeguards, release and later outcomes.
+- Priority/modality: `AV-B` for native-state and eleven selected exact static resources; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: full performance/film, contracts, labor safeguards, release and later outcomes.
 - Selection: Madoka idol/ordinary `adv_chara_121_01_01`, anxious school `121_02_03`, fictional Kanna costume `121_03_12`; Kyoko `123_01_01`, Honoka `124_01_01`, Xiao `147_01_01`, Hime `006_01_01`, Sumire `008_01_01`, Kajika `013_01_01`; generic production/adult `027_01`, dark-suited `033_01`. All 330 native pages and forty-four command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.59 binds eleven media receipts.
 - Observed: Madoka's three presentation states are one performer playing Kanna; costume changes do not create another real-world person. Generic adult icons do not identify the director, Nagase actor or actual criminals.
@@ -2524,7 +2562,8 @@ Owner and A/B/C locator key: [B0158](../02%20Readings/T7S_B0158_DEEP_READING.md)
 ### AV-0105 — Ayumu's rest state and ensemble expressions
 
 - Questions/claims: whether static art confirms fever source, altered voice, infection path, clinical recovery, performed stage or exclusive bond; `CL-B0158-001`–`005`.
-- Priority/modality: `AV-B` for native-state and eight selected exact static resources; `AV-D` for performed voice, diagnosis/transmission, clinical care and future concert.
+- Priority/modality: `AV-B` for native-state and eight selected exact static resources; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed voice, diagnosis/transmission, clinical care and future concert.
 - Selection: Ayumu `adv_chara_122_01_01`, ill/closed-eyed `122_05_07`, pajama/rest `122_06_06`; Sisara `136_01_04`/`_03`; Musubi `004_01_05`; Susu `011_01_15`; Coney `002_03_01`. All 261 native pages and thirty-two command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.60 binds eight media receipts.
 - Observed: Ayumu's clothing/expression change tracks narrated rest without medical measurement. Peers' distinct art remains ordinary; it cannot establish altered voice, a pathogen or actual stage performance.
@@ -2549,7 +2588,8 @@ Owner and A/B/C locator key: [B0159](../02%20Readings/T7S_B0159_DEEP_READING.md)
 ### AV-0106 — three friends, absent mother and unseen audition
 
 - Questions/claims: whether sprites identify Asuna/Juri or selected newcomer, prove stage-to-real romance, rank acted-film quality, establish casting motive, or guarantee emotional recovery; `CL-B0159-001`–`006`.
-- Priority/modality: `AV-B` for native-state and seven selected exact static resources; `AV-D` for original film, audition tape/rubric, performed voice and later outcomes.
+- Priority/modality: `AV-B` for native-state and seven selected exact static resources; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: original film, audition tape/rubric, performed voice and later outcomes.
 - Selection: Kyoko `adv_chara_123_01_01`, crying `123_01_09`, determined `123_01_05`; Honoka `124_01_01`/`_04`; Rena `125_01_01`/`_02`. All 431 native pages and thirty-nine command-only pages reviewed.
 - Reviewer/tool/date: exact registry-hash resolution, native-offset compositing for layered sprites and direct visual inspection, 2026-09-26; source-lock 12.61 binds seven media receipts.
 - Observed: three distinct performers and Kyoko's expression states. No selected art directly depicts her mother, auditionee or panel; expressions do not authenticate quality, motive or durable internal change.
@@ -2574,7 +2614,8 @@ Owner and A/B/C locator key: [B0160](../02%20Readings/T7S_B0160_DEEP_READING.md)
 ### AV-0107 — Honoka's clothing states and generic classroom presentation
 
 - Questions/claims: whether static confidence proves inner ease, clothing creates a new identity, pupil art supplies a biography, cue resources prove prosody, or light is literal; `CL-B0160-001`–`006`.
-- Priority/modality: `AV-B` for all native page states and seven selected exact static resources; `AV-D` for performed voice, BGM/SFX sound, full classroom playback and later outcomes.
+- Priority/modality: `AV-B` for all native page states and seven selected exact static resources; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed voice, BGM/SFX sound, full classroom playback and later outcomes.
 - Selection: Honoka `adv_chara_124_01_05` / `_04`, `124_02_01` / `_05`; Miwako `134_01_01`; Sisara `136_01_03`; generic boy `024_01`. Registry-hash checks and native-offset layered composites precede direct contact-sheet inspection.
 - Reviewer/tool/date: parent analyst, direct visual inspection after exact hash/occurrence/native-field verification, 2026-10-11; source-lock 12.64 binds seven asset receipts. All 360 pages and twenty-six command-only pages reviewed.
 - Observed: Honoka's blue blouse/red bow/checked skirt/bag and pink-jacket/white-top/dark-skirt states retain hair/ornament continuity across worried/smiling expressions. Miwako has glasses/books and Sisara a light blouse/blue trousers. Boy art is a gray capped outline without a personal face. These features cannot certify hidden anxiety, expertise or a pupil identity.
@@ -2599,7 +2640,8 @@ Owner and A/B/C locator key: [B0161](../02%20Readings/T7S_B0161_DEEP_READING.md)
 ### AV-0108 — Rena's school and coordinated costume states around an elided live
 
 - Questions/claims: whether success chooses one vocation, tears prove technical failure, coordinated clothes create permanent unit, student silhouette supplies identity, or cue references prove delivery; `CL-B0161-001`–`006`.
-- Priority/modality: `AV-B` for complete native page states and eight selected exact static resources; `AV-D` for performed voice, BGM/SFX sound, continuous live/choreography, viewer comments and future outcomes.
+- Priority/modality: `AV-B` for complete native page states and eight selected exact static resources; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed voice, BGM/SFX sound, continuous live/choreography, viewer comments and future outcomes.
 - Selection: Rena `adv_chara_125_01_02` / `_05`, `125_02_01` / `_03` / `_07`; Ferb `127_05_01`; Jeda `137_05_05`; generic schoolgirl `025_01`. Registry/source/output hashes and exact native face offsets were checked before parent contact-sheet inspection on 2026-10-11.
 - Observed: Rena's blouse/red neck ribbon/checked skirt over dark shorts and footwear prop contrast with purple/lime/white costume and headband; hair continuity remains. Selected `_03`/`_07` faces visibly include tears. Ferb/Jeda share costume palette; Jeda winks. Gray uniform outline is generic, not personal portrait. Static expressions do not certify psychological cause or technical ability.
 - Native occurrence: all 305 pages reviewed. Command-only A:P11,18–19,77; B:P0,4,14–17,72–75,139; C:P0,9–11,15–16,86. C:P11–15 black-state narration elides act; C:P16 returns to room. B:P124/C:P44 `adv_shake` is authored effect, not observed runtime bodily movement. BGM placement does not prove heard emotional color.
@@ -2624,7 +2666,8 @@ Owner and A/B/C key: [B0162](../02%20Readings/T7S_B0162_DEEP_READING.md), witnes
 ### AV-0109 — Mimi's present and recruit-suit states within a narrated recollection
 
 - Questions/claims: effortless competence, prophecy corroboration, generic-person continuity, confirmed romance, heard affect; `CL-B0162-001`–`007`.
-- Priority/modality: `AV-B` for complete native states and fourteen selected exact static resources; `AV-D` for performed voice, BGM/SFX sound, continuous gesture/timing, verified diviner whereabouts and future outcomes.
+- Priority/modality: `AV-B` for complete native states and fourteen selected exact static resources; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed voice, BGM/SFX sound, continuous gesture/timing, verified diviner whereabouts and future outcomes.
 - Selection: Mimi `adv_chara_126_01_01`–`_06`, `126_02_04` / `_05`; Tomoe `120_01_01` / `_04`; Haru `003_02_08`; Musubi `004_01_22`; Ei `131_01_02`; generic `037_01`. Registry/source/output hashes and native face offsets checked before parent contact-sheet inspection on 2026-10-11. Reading binds receipt/provenance/contact digests and native anchors.
 - Observed: Mimi's light jacket, lace-edged white top, floral shorts and shoulder bag contrast with recalled dark recruit suit/large bag, while hair/hand-near-face pose continue. Selected faces include winks/closed-eye/open-eye states. Tomoe holds a cup, Haru raises fists, Ei's bag has ornaments; none proves inner attitude, supernatural power or total character essence. Generic gray outline is not a unique identity and does not join A's passerby to B's friend.
 - Native occurrence: all 306 pages reviewed. Command-only A:P32–33,61; B:P0,12,15–18,63–66,77–78,82–85,95; C:P0,5,16,65–67,77–79,107–108,122–125,147. C:P65–79 frames narrated recall; C:P86–88 briefly returns to street during interpretation, C:P89 restores room; C:P122–125 leads to next-morning coda. Placeholder filenames are not identities; `adv_shake` is authored effect, BGM-reference absence not heard silence.
@@ -2649,7 +2692,8 @@ Owner and A/B/C key: [B0163](../02%20Readings/T7S_B0163_DEEP_READING.md), witnes
 ### AV-0110 — Ferb's practice-body changes and selected collaborator states
 
 - Questions/claims: spectatorship/participation, close-gaze comfort, lesson change, idiom equivalence, musical/reception success and romantic affect; `CL-B0163-001`–`007`.
-- Priority/modality: `AV-B` for complete native states and sixteen exact selected static composites actually inspected by the parent analyst; `AV-D` for performed voice, BGM/SFX sound, continuous gesture/timing, heard song/lyrics and public CM outcome.
+- Priority/modality: `AV-B` for complete native states and sixteen exact selected static composites actually inspected by the parent analyst; `AV-D` only for adequately supported native wording, explicit event order and attributed-report claims.
+- Evidence limits retained: performed voice, BGM/SFX sound, continuous gesture/timing, heard song/lyrics and public CM outcome.
 - Selection: Ferb `adv_chara_127_01_01` / `_09`, `127_02_01`, `127_07_01` / `_06` / `_08` / `_03`; Kyoko `123_01_01` / `_05` / `_06`; Rona `005_02_04` / `_12` / `_02`, `005_01_10`; Ayumu `122_01_03` / `_05`. Source/body/face/output hashes and native face offsets are bound by the exact selected-static receipt. The reading owns concrete parent-inspected features, receipt/provenance/contact digests and native occurrence anchors; filenames alone do not assign feelings or identity change.
 - Parent-inspected contrast: Ferb keeps the same green hoodie, shirt/tie and pleated-skirt outfit across `127_01`, `127_02` and `127_07`: the first includes an instrument case and shoulder bag, the second the bag without case, and the practice body neither. It is not a maid/new costume. Selected faces include pink cheeks and a wink/smile. Rona's work body has a cream jacket, plaid skirt and ribbon, not an apron; the coda body changes to a ruffled top/green skirt/bag. Kyoko's hand-at-hip dress body and Ayumu's face-framing fingers remain static poses; cheek/eye/mouth variations do not prove romance, continuous gesture or heard affect.
 - Native occurrence: all 287 pages reviewed. Command-only A:P41–42,69,89,91; B:P0,58,74,76; C:P0,13,39–42,89–92,117. A:P41–42 title/subtitle cuts, B:P58 Rona fade, C:P39–42 preparation/lesson cut and C:P89–92 retrospective-coda cut are authored segmentation, not independently observed runtime motion. Ferb's `127_07` body remains in the coda; costume continuity cannot prove elapsed-time length or durable psychological transformation.
