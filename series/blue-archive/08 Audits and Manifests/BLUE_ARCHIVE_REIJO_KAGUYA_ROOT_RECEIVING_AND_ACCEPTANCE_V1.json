@@ -1,0 +1,264 @@
+{
+  "schema": "BLUE_ARCHIVE_REIJO_KAGUYA_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md",
+  "current_scope": "355required/29 mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_current_source_beforeimage_witness": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+  "dated_current_source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+  "accepted_first_milestone_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      109,
+      114
+    ],
+    "new_packages": 6,
+    "after_complete_ROOT_install": 114,
+    "characters": 94,
+    "directed_relationships": 10,
+    "ensembles": 4,
+    "institutions": 6,
+    "named_duties_after_complete_ROOT_install": 10,
+    "published_before_successor": 108,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later115plus": "EXCLUDED_FROM_FIXED_CANONICAL_PROPOSAL",
+    "automatic_chain_at_capture": "PENDING_SOURCE_RUN38088131512; no current-head final audit claimed by assembler"
+  },
+  "current_source108_normal_push_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json",
+      "bytes": 4922,
+      "sha256": "a55fc9943ff45172f26549ed152eec6fe580598bb9a2e1aaca15cc8a880df6f6",
+      "git_blob_oid_of_actual_bytes": "db0d144911893dd58b5f9a6e81454e2130274f35",
+      "immutable_transport_path": "immutable_originals/ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_SOURCE108_NORMAL_PUSH_REMOTE_READBACK_V1",
+      "status": "PASS_NORMAL_PUSH_EXACT_REMOTE_SOURCE_TREE_PARENT_AND36_PATHS",
+      "checked_UTC": "2026-10-10T21:38:15.536917+00:00",
+      "remote_refs": {
+        "series/blue-archive": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+        "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128"
+      },
+      "source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+      "source_parents": [
+        "bf5ded30464ab39f78f71e79ecc7494654c25faa"
+      ],
+      "changed_paths": [
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKONA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VALKYRIE_INSTITUTIONAL_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_PACKAGE_ACCEPTANCE_INDEX.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md"
+      ],
+      "tracked_and_index_clean": true,
+      "untracked39_stats_preserved": true,
+      "untracked_and_UNBOUND_contents": "UNREAD_UNHASHED",
+      "ROOTaccepted_packages": 113,
+      "published_packages": 108,
+      "merged_packages": 89,
+      "next_merge_milestone": 178,
+      "automatic_chain": "PENDING_SOURCE_RUN38088131512",
+      "new_analytical_credit": 0,
+      "full_goal_status": "ACTIVE_INCOMPLETE"
+    }
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "All original pending/local/bf5/source101/source113/count/custody/receiving fields retain creation-time meanings. Exact complete operative ROOT acceptance governs literary judgment; current source108afb and merged89 are separately bound. Later115+ acceptance is outside this fixed snapshot. No retroactive author/provider/source or independent-reading credit.",
+  "original_exact_tuple": {
+    "path": "ROOT_REIJO_KAGUYA_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json",
+    "bytes": 5377,
+    "sha256": "1798ae190afb7d29c74d78b1a0999886ad0c25c419c997f49adbde87b5c7c3c9",
+    "git_blob_oid_of_actual_bytes": "6dedc8c8c0b28ddc0001a2a5cfc5b5201728a2ab",
+    "immutable_transport_path": "immutable_originals/ROOT_REIJO_KAGUYA_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_REIJO_KAGUYA_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1",
+    "checked_UTC": "2026-10-10T21:40:01.271037+00:00",
+    "decision": "ACCEPT_COMPLETE_BIDIRECTIONAL_RELATIONSHIP_WITH_LIMITS",
+    "existing_home": "P3-REL-REIJO-KAGUYA",
+    "source_responsibility": "HYS::significant_responsibilities::12",
+    "mandatory_named_duties": [],
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 37758,
+      "lines": 148,
+      "sha256": "4cfe2c42abc0c6edea7cfc6b9c021adb2ef72bf74a967ebc91bdd0566c295dfd"
+    },
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md",
+    "immutable_author_freeze": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_DIRECTED_SYNTHESIS_FROZEN_OUTPUT_MANIFEST_V1.json",
+      "bytes": 4360,
+      "sha256": "8ec463f7cc9d0c6966e4063d5f1995689c33eb5196a8635481aa4ffbd04325a2"
+    },
+    "ROOT_actual_receiving": {
+      "whole_body": "0b0ce1L1–77 /1208b7L78–148EOF, personally complete operative body; no substantive correction identified.",
+      "complete_meaningful_receipt_fields": "959b0d authority/history/directions/sixends; b3b4bb allfive adequate source scopes, tenprivate/fourMM, sevenfullrivals and14originalOPEN effects;9e17e2claims0–14/9442ab15–29/42072530–43 plus actual receiving/debt fields.",
+      "whole_companions": "f3074a28readable/75freeze/61metadata probe; all through actual EOF.",
+      "source_credit": "Adequate current G340 and Reijo checkpoint means, prior839/840 whole with fresh precisely scoped context, shared current adoption/Reijo clauses only. ROOT previously received consequential source meanings through accepted character/institution studies; this reception of attributed custody does not create new primary or blanket whole560 credit."
+    },
+    "semantic_grounds": [
+      "Both artists bring independently valuable craft, desired recognition and hoped-for company; confidence can also make a third person’s stated purpose harder to hear. Kisaki respects aspirations; reciprocal approval between rivals is unproved.",
+      "Reijo’s work-constrained research membership refusal is actually respected. Kaguya’s art, independent procedural criticism and categorical headship refusal retain positive contrary force without clearing her coercive methods or imposing Kai-only motivation.",
+      "Private near-insults remain thought, proposed force is not an enacted duel, absent-Kaguya assessment is not dyadic persuasion. Children/Kokona’s wanted activity and actual fear, Kisaki’s loudness and her own apology retain independent recipient costs.",
+      "Actual apologies and collective exercise begin; trend stays hedged. Resumed theatre and festival coexist with secrecy and personnel costs and provide no printed dyadic reconciliation, clinical recovery, restriction rescission or technical certification.",
+      "Reijo’s food-shape attention to children differs from her own sweets/welcome pleasure. Her rest, mental-discipline embarrassment, genre company, wanted protection and tentative closeness matter intrinsically and supply comparative context rather than invented Kaguya meetings.",
+      "Seven serious rival arguments, six ending constraints, fifteen inherited actor seams, separate identities and all14originalOPEN effects permit complete bounded literature while other full-cast homes remain required."
+    ],
+    "finite_checks": {
+      "receipt_dictionary_binding_occurrences": 40,
+      "unique_dictionary_pairs": 39,
+      "four_frozen_payloads_exact": 4,
+      "current_afb_analytical_owners_exact": 5,
+      "explicit_previous_files_preserved": 8,
+      "prior_metadata_bindings": 8,
+      "saved_nonempty_joins": 91,
+      "complete_claim_paragraphs": 44,
+      "rivals": 7,
+      "finite_ends": 6,
+      "adequate_private_duties": 10,
+      "wholeMM_carriers": 4,
+      "original_OPEN_gap_effects": 14,
+      "required355_home_current_pending": true
+    },
+    "canonical_preservation_requirement": "Preserve all148 operative lines, both full directions,44complete claim/rival paragraphs, sixends, all14originalOPEN effects and exact private/source-mode/attribution boundaries. Current113/101/89 and bf5 chain labels are dated original producer reports; current publication108/sourceafb is recorded separately. Full original receipts and controls require exact qualifying transports and fullinverse at adoption.",
+    "progress": {
+      "previous_ROOTaccepted_packages": 113,
+      "new_directed_relationship_package": 1,
+      "total_ROOTaccepted_packages": 114,
+      "character_packages": 94,
+      "directed_relationship_packages": 10,
+      "ensemble_packages": 4,
+      "institution_packages": 6,
+      "ROOTaccepted_named_duties": 10,
+      "published_source_packages": 108,
+      "published_and_merged_packages": 89,
+      "next_merge_milestone": 178,
+      "canonical_adoption": "PENDING_SUCCESSOR_AFTER_FIXED102_TO108"
+    },
+    "all14_original_gaps": "OPEN",
+    "R_Git_provider_writes": false,
+    "new_primary_native_raw_QA_AV_model_identity_credit": 0,
+    "full_goal_status": "ACTIVE_INCOMPLETE"
+  },
+  "public_reference_translation": "All fields survive exact reference translation with full literal inverses and immutable C originals. Original tuples bind original bytes, not this derivative. Complete attachment parts are explicit finite public fields, not omitted content.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 40512,
+    "sha256": "aeeb130fd45f3f765a2f52c99a2fad1cf494ce2c8276d94dbb714e71620fed5f",
+    "git_blob_oid_of_actual_bytes": "6b86049a9fb26e844faceeb386ffc323a2a74f05"
+  },
+  "authority_framing_changes": {
+    "historical_frontmatter_fields": [
+      "ROOT_acceptance",
+      "artifact_type",
+      "canonical_adoption",
+      "canonical_completion_credit",
+      "canonical_home",
+      "canonical_target",
+      "counts_as_ROOT_accepted_completed",
+      "do_not_use_as_current_authority",
+      "generation",
+      "publication_state",
+      "root_acceptance",
+      "stage_state",
+      "status",
+      "version"
+    ],
+    "inserted_current_boundary": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS at the disclosed author/peer/ROOT scopes. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_REIJO_KAGUYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_REIJO_KAGUYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending, local, bf5/source101 and count statements remain creation-time history. Current published108 source `afb38a20d3714cb0ed7d22013cd7dfc86ad3226b`/tree `8564fbd3afb822096dec0984b5be597f39bddc9b` has an exact ROOT normal-push remote readback; its source→housekeeping→final automatic chain is pending at this capture, and this assembler grants no exact-head integration readiness. Merged89/main `b76b4373e6d0526bc78ce00bb673dba9e536c128` and the completed first25% milestone are separately bound. This fixed six-package109–114 proposal takes effect only through complete ROOT installation, yielding114 (94 character,10 directed relationship,4 ensemble,6 institution) and10 completed non-denominator named duties. Later115+ review/acceptance is excluded from this snapshot. Required355 packages/29 duties across25parents/384homes, next178 milestone, all14 original OPEN gaps and model0 remain unchanged. Mechanical transport supplies no new literary, source, primary, native, raw, QA, performed, independent, identity, scope or model credit. **Package-specific operative qualification:** All148 original lines, both directions, ten adequate Reijo private duties/four wholeMM and source-local Kaguya/public roles survive. Craft aspirations and actual collective exercise coexist with coercion, fear and unresolved dyadic reconciliation. No invented shared private intimacy or universal identity joins. Dated113/101/89 producer labels remain history; the separately bound current source is108afb.",
+    "all_original_literary_paragraphs_unchanged_except_exact_link_translation": true
+  },
+  "mandatory_operative_qualification": "All148 original lines, both directions, ten adequate Reijo private duties/four wholeMM and source-local Kaguya/public roles survive. Craft aspirations and actual collective exercise coexist with coercion, fear and unresolved dyadic reconciliation. No invented shared private intimacy or universal identity joins. Dated113/101/89 producer labels remain history; the separately bound current source is108afb."
+}

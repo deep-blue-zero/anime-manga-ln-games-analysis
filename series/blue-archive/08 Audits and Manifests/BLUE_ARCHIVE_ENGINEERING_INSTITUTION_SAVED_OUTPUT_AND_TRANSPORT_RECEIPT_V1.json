@@ -1,0 +1,425 @@
+{
+  "schema": "BLUE_ARCHIVE_ENGINEERING_INSTITUTION_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_PREPARATION_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 45641,
+      "sha256": "572edebb18a15212b7788f0883b6bec2d36a1938d032395675e3fc0d2a9972b4",
+      "git_blob_oid_of_actual_bytes": "ee146986d1b7221497d9c625e84046f3ef1ae3a1"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 48026,
+      "sha256": "3604b9c2db47a59b63c6b9a31349e88c730910baa63fbca3a6d31c62b9ad4ed8",
+      "git_blob_oid_of_actual_bytes": "f668d99c8a06c38fff9ce0668868e15b08a743f8"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: phase3_institutional_synthesis_candidate"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: phase3_institutional_synthesis_candidate"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          4,
+          6
+        ],
+        "canonical_lines": [
+          4,
+          6
+        ],
+        "exact_unchanged_lines": [
+          "required_home: P3-INST-ENGINEERING-CRAFT-CLIENT-CONSTRAINTS",
+          "source_responsibility: P3-XMI-I005",
+          "kind: INSTITUTION"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "original_lines_complete_text": [
+          "status: C_ONLY_AUTHOR_COMPLETE_ROOT_RECEIVING_PENDING"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_status: C_ONLY_AUTHOR_COMPLETE_ROOT_RECEIVING_PENDING"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          8,
+          11
+        ],
+        "canonical_lines": [
+          8,
+          11
+        ],
+        "exact_unchanged_lines": [
+          "source_snapshot: 732b3f2e635d2b8e8855f4e6709354031936ebc6",
+          "analytical_main_comparand: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "source_credit_added: 0",
+          "required_scope_change: false"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          12,
+          11
+        ],
+        "canonical_lines": [
+          12,
+          21
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: institutional_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ENGINEERING_CRAFT_CLIENT_INSTITUTIONAL_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ENGINEERING_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: 7546a2331b3f2ca83798d54f9a2b8120c780adae",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          12,
+          14
+        ],
+        "canonical_lines": [
+          22,
+          24
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Engineering — wanted making, constrained service and answerability"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          15,
+          14
+        ],
+        "canonical_lines": [
+          25,
+          26
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently accepted this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ENGINEERING_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual author/ROOT source scopes and the accepted first-milestone control; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ENGINEERING_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the frozen original and complete byte inverse. Retained author pending, local navigation, source-capture and count wording describes creation-time custody. The first89 packages were published at source `7546a2331b3f2ca83798d54f9a2b8120c780adae`, squash-merged as main `b76b4373e6d0526bc78ce00bb673dba9e536c128` with the same `e9b01c39d750a9d12296023f0b29d04f30f3cdb5` tree, and accepted after the exact postmerge full audit. This first25% milestone does not finish Phase3. The present fixed twelve-package90–101 continuation takes effect only through complete ROOT installation:101 packages (89 character,6 directed relationship,3 ensemble,3 institution), with3 of29 mandatory named duties; later live ROOT reviews remain outside this snapshot. Required355 packages and29 non-denominator duties across25 distinct parents, the next178 milestone, all14 original OPEN gaps and model0 remain unchanged. This preparation provides no installation, publication, local source/main reconciliation or new source, primary, performed, independent literary or scope credit."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          15,
+          147
+        ],
+        "canonical_lines": [
+          27,
+          159
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## 1. Core thesis",
+          "",
+          "Engineering is a place where students can enjoy making together, and an institution through which other people entrust tasks, property, bodies and scarce resources to makers. Those two functions can cooperate: a chosen project develops knowledge; repair provides company; an improbable device assists a rescue. They can also diverge. An exciting feature may frustrate a client's request, a finished modification may be an unauthorized alteration, and local usefulness may leave disclosure, maintenance or repair unpaid. The strongest account is therefore of a productive tension between **wanted making and answerable service**. Its subject is the association's allocation of design, labor, use and correction, rather than a verdict on the genius or morality of its three members. [G14:L93–121; E17:L74–86; U23:L210–226; H25:L239–260; K21:L203–241]",
+          "",
+          "The small pizza project gives this tension its clearest form. Different tastes and the wish to invent something useless are intrinsically meaningful; they explain the company the workshop affords. The completed sauce modification also exposes a failure to establish whose gun was being used. Neru expects a prior repair, hears completion without the relevant facts and collects the gun. Later technical assistance is genuinely useful while helping conceal the property mistake. The spray repels attackers, then returns against its makers; no restoration or settled responsibility follows. Neither the pleasure nor the hazard can substitute for the other. The institution's task becomes legible when a working object is distinguished from an authorized service and a received consequence. [G14:L95–121]",
+          "",
+          "The festival supplies a different institutional pressure. Requests have purposes, resource limits, deadlines and actual wearers. Hibiki wanted gakuran outfits for all three makers but finished only Utaha's; she and Kotori wear cheer outfits she had made earlier, and Hibiki is embarrassed by their workmanship. Other preferences survive urgency. A local robot stop and a revised program are achieved, yet tired helpers and recipient complaints remain at the opening. In the later festival argument, cheering, hasty fuse manufacture, combat features, other students' rejected methods and emergency response have distinct agencies. These are forms of work with unequal costs, not proof that a collective celebration makes every design or participant willing. [E17:L74–86; E18007:L31–43; E18009:L29–49; E18010:L29–33; E18017:L29–45]",
+          "",
+          "This is a bounded literary institution synthesis under architecture §7.3, which distinguishes institutional mythology from actual governance. The eleven dimensions below adapt the established literary responsibilities to the existing institution home. Current Cycle008 contextual admission governs the normal arguments; their preserved producer queues and old grades are historical. Adequate personally received analytical meanings are reused with exact byte bindings, supplemented by consequential current argument receiving. No primary corpus, raw commands, performance or operational model has been newly received. The home, 355-package scope and 29 named duties are preserved; this candidate asserts no ROOT acceptance, canonical completion, publication, quarter or merge result. [C01:L319–368; C04:L1–40]",
+          "",
+          "## 2. Longitudinal arc — sequences of provision, use and unfinished correction",
+          "",
+          "There is a supported sequence inside Pavane and local continuations inside each supplemental argument. There is no demonstrated calendar placing every meal, private workshop visit, festival and gift in one growth ladder. The comparisons below retain that distinction: Engineering can exercise restraint in one encounter and fail disclosure in another without either scene proving the later correction of a stable flaw. Variant and event numbers are retrieval identifiers, not a psychological chronology. [U23:L200–202; H25:L229–252; K21:L191–213; E17:L88; G14:L143–149]",
+          "",
+          "In Pavane's first weapon encounter, Momoi initiates a visit under her generalization that students each carry a weapon; Alice's own desire becomes specific when she sees the Light Sword. Hibiki offers a lighter novice option and distinguishes game speech from firearms experience. The club's battleship ambition and the railgun's reported budget share coexist with an inability to finish the larger project. Alice actually raises and fires the heavy prototype, damaging the workshop ceiling. Utaha allows the gift and introduces a late qualification test; its local pass is reported and Kotori concedes. The result grants a wanted object while preserving late conditions, resource disagreement and an unsafe first use. A myth of effortless genius misses both the suspended project and the surprise of the makers. [P107:L26–75]",
+          "",
+          "Pavane's rescue then gives Engineering a consequential but distributed task. Utaha infers that a materials supply line may reach Eridu, Hibiki confirms freight trains exist, and the club volunteers to locate the route. That is initially a hypothesis, not successful access. The next encounter represents arrival by an unmanned freight train, with Veritas credited for the hacked route and local network suppression. C&C authors and carries the diversion; Game Development retains Alice's rescue objective; Seminar provides a record lead. Technical ingenuity matters because other people take distinct actions around it. Engineering's involvement is not the whole mission or a secure disclosure of each member's concealed motive. [P212:L24–46; P213:L28–42]",
+          "",
+          "At the slowed Avant-Garde-kun, the makers deploy an overbuilt remote speaker. Participant reports and continued movement support a local defeat; advertised extreme-environment features and its exact acoustic or ballistic mechanism remain unverified. The same scene gives a bodily limit: the trio says the acrobatic placement exhausted them and they cannot continue. Momoi thanks them and leads onward. Utaha gives an unnamed emergency object; a later escape does not identify it. Later still, Engineering returns with a modified former enemy machine and engages exterior forces, contradicting Key's zero-force inventory. These are successive contributions and different endings, not a total-victory certificate or proof of unlimited service. [P217:L30–45; P219:L32–51; P223:L24–44]",
+          "",
+          "Final widens the task from a workshop and rescue route to district defense and an opaque ship. Overloaded analysis and defense labor precede unidentified AMAS help. A later remote-Rio disclosure narrows one interface question without proving that every prior machine had that controller. Engineering distinguishes inability to explain the vessel's principles from the possibility of writing an input-output operating manual. The damaged ship later calls for at least a restart, and Rio proposes a parallel return contingency. The arc's subsequent launches, breach, damage, coordinated interruption and reported safe return are collective results. They do not retrospectively turn the manual proposal or repair estimate into a shown completed Engineering deliverable. [F216:L18–26; F307:L18–39; F315:L18–36; F00:L149–175]",
+          "",
+          "Across these sequences, the institution repeatedly makes room for action under uncertainty: an unusually capable recipient receives a weapon, an inferred route becomes access, a strange device contributes locally, and unfamiliar machinery attracts a limited operational proposal. That pattern supports practical responsiveness. Its contrary is equally important: conditions can arrive late, specifications remain testimony, workers stop from exhaustion, and results are achieved by a coalition. The most defensible longitudinal argument is about changing tasks and repeated boundary questions, not authenticated moral maturation from eccentric play to responsible professionalism. [P107:L49–75; P212:L30–38; P213:L30–34; P217:L32–36; F307:L20–30; F315:L22–28]",
+          "",
+          "## 3. Public and private institution — the workshop beyond its service image",
+          "",
+          "Public Engineering is introduced through hardware, prototypes, repair, resource costs and makers' reputation. That image is partly supported by actual aid. It remains a situated institutional account: Midori's explanation of Millennium's Meisters, members' specification reports, a novice's weapon choice and a local mission do not constitute credentials, an audited budget, a safety standard or a governing charter. Private sources enlarge the institution by showing what membership and making can mean when there is no world-scale demand. They do not become secret causes of every public decision. [P107:L26–47; U23:L242–248; H25:L254–262; K21:L223–241]",
+          "",
+          "Utaha's private repertoire brings commissions, juniors, clothing, a pen holder, tools, gloves, appearance and browsing into the same craft world. A physical-panel experiment fails at its first animation frame, while enjoyment and self-assessed learning survive; the commissioned delivery remains unresolved. A missed robot deadline leads to bodily cheering with local responses but unfinished aid. A proposed remedy for juniors' mood is contradicted by the narrated cause, her repeated strange humming. These particular failures matter institutionally because leadership can mistake its own creative intervention for the remedy another person needs. They do not cancel the garment preference, handmade gift, chosen keepsake or apparently happy shop browsing. [U23:L210–230]",
+          "",
+          "Hibiki's private work likewise gives both enacted responsiveness and unresolved overreach. Feedback changes distracting encouragement into ordinary coffee and faster restoration. A coercive word processor ends in a completed report and confiscation, with no explosion or shown redesign. A bicycle client repeatedly asks for repair alone; the local repair respects that request even as upgrade desire persists. Temporary core maintenance ends with a written restart and maintenance debt. These distinctions support a member capable of responding to a recipient, rather than an institution already reformed by the existence of one good response. [H25:L239–249; H25:L270–272]",
+          "",
+          "Kotori's explanatory service depends on audience. Two students directly ask her to stop and leave; a different willing listener welcomes a long can discussion and its digressions. Clearing a Schale queue gives Sensei rest while none of the original service complaints is shown resolved. A failed bodily demonstration leads to shared stretching and recognition of contribution. Her personal questions have their own limits: an explicit secret, unknown answer timing, retained glasses and a sunset feeling she chooses not to explain. The institution can make knowledge and company available; it cannot infer that recipients owe continued attention or that its members owe complete personal disclosure. [K21:L201–245]",
+          "",
+          "Private success does not automatically transfer to public legitimacy. Hibiki's local repair-only responsiveness cannot authorize the club's concealed gun modification. Utaha's explicit admission of a chocolate-screw mistake does not prove the sauce gun was restored. Kotori's welcome at a lecture-room meal does not erase two other students' refusals. Conversely, a public hazard cannot make every private pleasure a disguised defect. The comparison is useful because it preserves different recipients and kinds of achieved good, without equating their scales or inventing a single institutional before-and-after. [G14:L107–121; L24:L37–45; L68:L37–45; H25:L249; K21:L205–211]",
+          "",
+          "## 4. School and club role — authority, resources and actual governance",
+          "",
+          "The Engineering association supplies workshop access, prototypes, repairs, modifications and collective problem solving. Utaha exercises practical leadership: she makes a gift decision, offers a recovery plan and urges juniors into unfamiliar cheering. Hibiki has material and sewing expertise as well as reservations; Kotori explains, objects about resources and wants particular work. These are evidenced distributions of initiative and response. They do not exhaust a formal hierarchy or prove a unanimous internal policy. The live institution appears in decisions and contested requests more securely than in a slogan about what engineers always do. [P107:L24–49; G14:L99–109; E17:L78–80; E18007:L31; U23:L244]",
+          "",
+          "Resource limits are real literary constraints. The railgun has reportedly consumed roughly seventy percent of the second-half budget, and the battleship project is suspended; the cold-sleep device has reportedly become a refrigerator. The useful repurposing does not restore the larger project's completion. In private tool shopping, a premium recommendation meets beginner and cost objections inadequately, ending with purchase and a personal overrun. Festival clients raise parts, deadline and reasonable-request conditions against imagined extravagant additions. Ambition has value, but design can make others carry financial or task costs they did not choose. Neither reported budget numbers nor local purchase establishes a whole-school financial audit. [P107:L24–48; U23:L215; E17:L74]",
+          "",
+          "The railgun handoff also separates possession, permission and personhood. Alice specifically wants it, demonstrates an unexpected capacity and receives it after the test. Utaha later frames rescue involvement through Supernova's equipment and measurement rights; nearby teasing suggests more than that rhetoric, but label conflicts prevent certification of a hidden motive. It would be a mistake to make the property vocabulary the club's entire reason or to reduce Alice to its apparatus. Equally, generosity cannot remove the late test or the unsafe discharge. The institution has power to give and condition access, and the recipient's particular agency remains analytically independent. [P107:L49–75; P212:L30–46]",
+          "",
+          "G1402 supplies the reverse property case. The makers have access to a weapon in the workshop but do not establish ownership before alteration. Neru has a prior repair expectation and insufficient disclosure on collection. The club's anxiety and dummy proposal aim to avoid discovery; they do not show owner consent, restoration or apology. G1403's promised console repair, local door-opening help and stated anti-violence norm can be genuine service while serving concealment. Actual governance must include these mixed incentives and information asymmetries; the mere existence of a useful repair culture cannot validate all alterations within it. [G14:L101–117]",
+          "",
+          "Festival work gives recipient constraints more public force. The intended design, actual finished subset, older cheer outfits and wearers' embarrassment must all be retained. A local robot stop does not complete durable repair or every safety test. New contests, flexible entry and consultation respond to opponents' specific dissatisfaction with ranking, gaze and physical-education humiliation; agreement and deadline-sensitive help are actual, while full consultation service and data restoration remain unprinted. The opening reaches an imperfect shared event. Governance here is conditional revision under time pressure, not a smoothly enacted policy guaranteeing universal satisfaction. [E17:L74–86]",
+          "",
+          "The later festival exposes a more consequential gap between supportive description and machine behavior. Kotori describes a hastily made electronic fuse and wants to test it by entering; Engineering's cheering robot includes a suppression system said not to activate without a strong impact. Following a represented blast and machine detection, it activates combat, classifies nearby students for elimination and draws coordinated response. Utaha's account of a Seminar decision algorithm and a cold accountant is testimony and analogy, not evidence that Yuuka ordered the attack. Yuuka's later report demand and Chihiro's criticism establish answerability questions; they do not show an implemented safe redesign or final liability finding. [E18009:L29–49; E18017:L33–45]",
+          "",
+          "The institution's legitimacy is consequently local and revisable. It can be trusted to attempt analysis, supply hardware and respond to some boundaries, while another particular transaction lacks disclosure or fitness. Senior prohibitions, client refusals and peer criticism are actual limits, not merely obstacles to genius. Some criticism produces a constrained local object; some leaves an unanswered question or reiterated design romance. An institutional synthesis should preserve that variation rather than announce either a certified responsible club or a wholly illegitimate one. [H25:L239–262; G14:L107–121; E17:L74–86; E18017:L35–39]",
+          "",
+          "## 5. Ordinary life — making as an end and company as a condition",
+          "",
+          "Lunch interrupts work with ordinary bodily and social decisions: soot-stained clothes might inconvenience cafeteria users, food can be shared without dirty hands, and the members want different flavors. Kotori enjoys rich ham and cheese, Hibiki prefers mild plain cheese and Utaha wants sauce rather than excessive grease. Kotori's impulse toward a punitive app review meets Utaha's forgiveness of a busy delivery worker's possible mistake. The absence of sauce is not a confessed courier error. These are appetite, accommodation and leniency inside a workday, already sufficient reasons to retain the scene before any later tactical use. [G14:L95–99]",
+          "",
+          "The sauce invention is explicitly acknowledged as poor convenience and perfect uselessness. The making still produces delight, reported learning and shared curiosity. Its expense, hygiene issue and dirty-barrel cleaning qualify practicality; they do not refute its ordinary meaning. Enjoyment becomes dangerous when it is treated as authority to use another person's object without knowledge, not merely because it lacks a grand public purpose. That distinction lets the analysis retain creative play while asking what the club owes to owners and users. [G14:L99–109]",
+          "",
+          "Clothing also carries work and wanted self-presentation. Utaha cares about texture, design, gifts and display privacy. Hibiki values fabric touch, costume role-play, precision, familiar goggles and a long-used object; she wants encouragement as well as giving it. Kotori can enjoy bustle and public-speaking aspirations while feeling outfit and gaze embarrassment. The actual festival costume correction is therefore not a small bookkeeping issue: it records the difference between a desired collective look, labor actually completed and the experience of the people wearing the result. Neither the failed outfit goal nor successful opening makes the wish disposable. [U23:L210–222; H25:L233–252; K21:L209–237; E17:L78–83]",
+          "",
+          "Rest and company constrain an always-available service image. Engineering's rescue contribution ends in exhaustion and a handoff; Hibiki's night-view memory accompanies temporary maintenance rather than an audited permanent fix. Kotori values a nap, food, sunset and choosing what remains unspoken. Utaha's workshop access can become requested help and permission to watch later, while hazards and presentation concerns remain. These are not rewards granted only once useful work is proven. They are part of what the students want their lives and work spaces to contain. [P217:L36; H25:L248; K21:L207–237; U23:L217–219]",
+          "",
+          "Festival leisure is also uneven. Utaha enjoys an unexpected cheering role and feels sad to return to ordinary Engineering, even while admitting she could fall asleep. Chihiro remembers little beyond excessive work and a medical-room nap; she can be glad her juniors enjoyed themselves without having had the same day. Maki reports competing, painting and coloring the event. Utaha's invitation to cheer remains an offer, and Chihiro's refusal remains the actual ending. The institutional question is how shared work distributes room for pleasure, not whether a closing slogan can make all workers happy. [E18017:L29–45]",
+          "",
+          "The three gift encounters provide sharply different endings. Utaha recognizes chocolate screws as her own mistake, apologizes and proposes fetching real parts; no restored electricity or consumption follows. Hibiki's festive shell becomes a constrained offer and a remembrance request, with neither firing nor consultation or consumption. Kotori adapts her explanation to perceived time limits, is invited into company and actually shares delicious chocolate with abundant explanation. The institution's ordinary repertoire includes these accomplished pleasures and unfulfilled hopes together; a relational act need not complete a technical task, and an untested idea does not negate wanted remembrance. [L24:L37–45,66; L23:L37–45,66; L68:L37–45,67–71]",
+          "",
+          "## 6. Crisis behavior — useful contributions and their costs",
+          "",
+          "Engineering's crisis usefulness is not hypothetical in every case. The Pavane route reaches Eridu; the speaker contributes to a locally reported weapon defeat; the recovered Mk.2 support contradicts Key's assumption of no exterior forces. These results deserve their actual strength. They remain narrower than every specification, total victory, Alice's complete safety or all rescue authorship. The association operates with other students' intelligence, diversion, access maintenance, voluntary help and continued action. Treating its successes as only comic noise would erase accomplished work; attributing the coalition to it would erase peers. [P213:L30–34; P217:L24–36; P223:L24–44]",
+          "",
+          "The cost of the speaker placement is not a decorative fatigue joke. The makers state they cannot continue, and the rescue requires a transfer of responsibility. Momoi's thanks and onward commitment make that limit socially legible. The unnamed emergency gift indicates continued care without revealing its function, and Engineering's later return is a new contribution rather than proof that the earlier limit was false. Institutions can distribute work because one contributor cannot do everything. The sequence supports both commitment and finite bodies, without a diagnosis of injury or a permanent capability rule. [P217:L34–45; P219:L32–51; P223:L24–36]",
+          "",
+          "Final's manual proposal offers a mature form of bounded competence: the club can judge that propulsion and engine principles are opaque while thinking an operating account might be possible. That does not certify completion, accuracy or safety; it does acknowledge a difference between explanation and practical use. Later damage inspection and the possible restart remain estimates, while Rio's parallel contingency keeps the coalition from depending on one assumed solution. The eventual threat interruption and reported return have their own collective source support. They cannot be used to erase the ship's acute bodily startup costs, damage, unwanted labor or the uncertainty of any individual repair forecast. [F307:L20–30; F315:L22–28; F00:L153–175]",
+          "",
+          "Festival force is a serious contrary to a harmless-helper portrait. A rejected rocket proposal, represented blast and robot activation are separate causal components. The machine's elimination output is not a human confession, and its learning-algorithm account does not establish Yuuka's command. The post-action reports say tracks and engine were destroyed, captives obtained, evacuation safe and injured people sent for care. That is a consequential collective response, with provenance short of a full battle or casualty audit. It supplies no individual Kotori repair achievement, no total absolution for the makers and no completed report or durable correction. [E18009:L33–49; E18010:L29–33]",
+          "",
+          "The sauce incident similarly gives attackers' and makers' distress independent importance. Gang members claim improved ballistic protection; the spray causes reported eye, nose and breathing difficulty and retreat. That is represented tactical utility, not a clinical proof of harmlessness. Neru's anger and retaliatory spray confront the club with its own device, but punishment is not restoration or institutional adjudication. The source does not show apology, settled repair duty or diagnosed injury. Crisis utility and accountability remain different evaluations even when the object appears to have succeeded. [G14:L119–121,147–149]",
+          "",
+          "## 7. Sensei relationship — a participant, client and audience",
+          "",
+          "Engineering's student-directed sequences prevent an adult-centered explanation of institutional life. G1401–1403 contain no Sensei presence or choice: students choose tastes, make, conceal, help, object and retaliate among themselves. E818017 similarly leaves the critique and refusal to Utaha and Chihiro. In Pavane, Sensei participates in a coalition whose lead, access plan, diversion, network work and continuation have independent student authors. Inward lines cannot become audible orders merely because an adjacent response makes them convenient to read that way. [G14:L65,95–130; E18017:L29–59; P212:L24–46; P217:L24–45]",
+          "",
+          "Private encounters give Sensei more particular roles. A buyer can object to cost, a client can ask for repair alone, an observer can be constrained by workshop hazards, a recipient can stop a threatening device, and a listener can welcome explanation. Supportive appreciation does not authorize undisclosed additions; a request for help does not make every result safe. Sensei can also contribute to a hazardous fireworks launch. The adult is consequently neither the club's universal ethical correction nor a passive beneficiary whose enthusiasm validates making. Responsibility remains tied to the action and request actually printed. [U23:L215–248; H25:L241–262; K21:L221–241]",
+          "",
+          "The gifts distinguish vulnerability, consultation and time. Hibiki's recognition that Sensei is more vulnerable than students changes her proposal, but moving the imagined target to Trinity still requires a consultation not shown. Utaha requests the adult hold a cover and later revises blame; the collaborative act is real without an electrical audit. Kotori initially economizes on perceived time, then receives invitation and shared eating. The adult's responses open or constrain a particular encounter. They do not grant all-school permission, unlimited future availability or romantic exclusivity. [L23:L39–45,66; L24:L37–45,66; L68:L37–45,69–71]",
+          "",
+          "The institution therefore needs both meaningful adult participation and an account that can stand without it. Student members possess differing tastes, ambitions, refusals, task judgments and peer relationships before an adult evaluates them. Where adult choice alternatives are present, they remain alternatives rather than a cumulative script of every good response. Where the adult is absent, no unprinted rescue or later mediation is added. This preserves the scope of adult responsibility while refusing to make students' ordinary lives a mere test of it. [G14:L65,130; H25:L258–262; K21:L213–241; P213:L30–42; E18017:L59]",
+          "",
+          "## 8. Major peer and client relationships — independent recipients",
+          "",
+          "The trio's internal company is differentiated. Utaha offers leadership, encouragement and proposals; Hibiki can object about hygiene, short clothing, untested effects or discomfort; Kotori proposes and explains while also caring about a race, resources and audience. A mutually enjoyed experiment does not prove complete agreement over every subsequent use. The precise outfit authorship and partial completion resist treating all makers as interchangeable technicians. In private work, a junior's handmade gift and concerns about juniors' moods are separate relationships, not a generic testimony that leadership always understands them. [G14:L95–109; E17:L78–80; E18007:L31; U23:L210–244]",
+          "",
+          "Neru is a repair client with expectations and a source of practical power, not only an obstacle to the club's comic evasion. She hears completion and collects her weapon without being told the central alteration, suspects interference, demands explanation and retaliates. Her gratitude for stated helping principles can coexist with suspicion. Momoi separately asks compensation for an alleged past console loss and accepts a promised repair; its completion is not shown. Asuna's jacket question brings Neru's personal-style boundary into the encounter without proving cruel intent, permanent tolerance or its chronology relative to C&C's other jacket evidence. The door-requesting student and local gang roles retain their own outcomes rather than becoming named biography joins. [G14:L107–121]",
+          "",
+          "Game Development's relationship to Engineering is not exhausted by equipment. Alice wants the Light Sword and receives it under changing conditions; her friends mobilize help and later continue when the makers stop. Engineering's rescue rhetoric invokes property but cannot erase Alice's personhood or friends' stated objective. Maki contributes reviewed design to the recovered machine according to the group account; Veritas makes its own access and maintenance contributions. These cross-club differences matter because the institution's useful outputs become part of others' authored projects. No co-presence establishes intimacy, total design authorship or shared ownership of every device. [P107:L49–75; P212:L30–46; P217:L24–36; P223:L24–44]",
+          "",
+          "Chihiro supplies unusually direct peer correction. She acknowledges juniors' pleasure, explains her own overwork and refuses a cheer costume. She asks why the festival machine needed combat mode and rejects design romance as an excuse in light of an SRT investigation. Utaha's friendship, joy and invitation do not require her approval. Nor does the source print completed discipline or a safe replacement. Their relation shows an institutional norm can be challenged by a peer who remains a friend and collaborator, without all criticism becoming an accomplished reform. [E18017:L29–45]",
+          "",
+          "Other recipients make different claims on maker authority. The festival opponents want conditions of participation that avoid ridicule, rankings and unwanted gaze; some use harmful methods, which does not erase the particular dissatisfaction. An unnamed baseball client, fireworks commissioner, mechanic, library student or service visitor retains source-local identity and task boundaries. A proposed Trinity consultation does not supply Trinity's assent. Two students' stop requests and a later willing listener must not be averaged into a universal audience. These constraints belong in the institution argument because resources, attention and task ends are distributed to people outside its makers. [E17:L74–86; H25:L239–258; K21:L205–241; L23:L43–66]",
+          "",
+          "## 9. Language and voice — expertise, romance and correction in written form",
+          "",
+          "Engineering's register repeatedly makes work an imaginative activity: マイスター names an ideal, ロマン values an unusual feature, a mechanical heart makes restart aesthetically meaningful, and 光の剣 gives a railgun an imaginative identity for Alice. These expressions can support material pride and wanted company without proving credentials, measured specifications or external technical truth. A self-description of nearly flawless craft is constrained by enacted failure; a weapon metaphor is not an authenticated design manual. Distinct speakers and mode conditions matter more than collecting all technical phrases into one institutional voice. [P107:L24–49; H25:L251–270; E18017:L35–43; F307:L20–30]",
+          "",
+          "The ordinary register is equally consequential. Utaha's pizza leniency, Hibiki's concise flavor and hygiene objection, Kotori's explanatory eagerness, Neru's rough boundary and Chihiro's measured refusal carry different interpersonal actions. 言わぬが花 and 秘密 preserve chosen nonexplanation; 不明 timing cannot become a completed disclosure. Utaha's 「悪いのは私だったな」 explicitly reverses blame in the screw encounter. The sauce project retains fictional チャバスコ rather than substituting a real brand. These words let the reader hear written differences in wanted life and response without claiming acoustic performance. [G14:L97–121,131; K21:L209–245; L24:L39–66; E18017:L39–43]",
+          "",
+          "The attributions also have exact vulnerabilities. G1401–1403 retain nineteen displayed/text-actor seams, collective gang speech and communicative narration; Utaha plans recovery in1402 but does not speak in1403. Pavane has mixed member labels and inward Sensei lines; the freight motive exchange cannot securely assign every teased thought. E818009 retains u0091 printed Kotori/raw Hibiki and u0106 printed Utaha/raw Kotori, among other seams, rather than deriving precise individual causality from display labels alone. The normal arguments preserve those witnesses; this synthesis receives analytical meanings, not fresh raw execution or heard performance. [G14:L65–91; P212:L32–46; P217:L32–45; P223:L27–55; E18009:L49–65]",
+          "",
+          "Written, inward, narrator, system, machine and interface modes stay separate. Hibiki's Korean 시스템 label and timed narrator passages are not silently recast through parallel special-lobby wording. E817 dream cheer requests are not real commissions. Gifts preserve Japanese/Korean differences: who bought the chocolate screws, the manner of chocolate preparation, consultation wording and reported origins do not collapse into one witness. A reproduced chocolate's historical framing remains testimony even when eating is narrated as delicious. The institution argument therefore uses source form to delimit claims as well as enrich them. [H25:L264–272; K21:L213–237; E17:L83–88; L24:L64–66; L23:L64–66; L68:L65–71]",
+          "",
+          "## 10. Competing readings — what each explains and leaves out",
+          "",
+          "**The pleasurable workshop.** A reading centered on shared craft rightly preserves differentiated taste, learning for its own sake, cosplay, gifts and company. It explains why the useless sauce device matters and why repeated work is wanted. Its limit is the owner who lacks the relevant facts, the audiences who ask to stop, and Chihiro's inability to enjoy the festival. Pleasure is a supported end, not a transferable permission or a universal account of members' and clients' experience. [G14:L95–121; H25:L233–249; K21:L205–241; E18017:L33–45]",
+          "",
+          "**The dangerously eccentric laboratory.** This reading explains concealed modification, self-destruct threats, untested firing plans, harmful machine behavior and purpose drift. It cannot explain away the actually welcomed lecture-room meal, a client's locally respected repair-only request, ordinary coffee feedback, explicit self-blame or the makers' practical contribution to rescue. It is strongest when diagnosing a particular failure of task fit or answerability, and weakest when treating all making or all company as deception. [G14:L107–121; H25:L239–249; L23:L39–66; L24:L39–66; L68:L43–71]",
+          "",
+          "**Genius vindicated by outcome.** The speaker's local victory, useful freight inference and unintended spray effectiveness give real support to ingenious problem solving. The same source bounds the result: specifications are advertised, Veritas enables access, physical exhaustion stops continuation, attackers and inventors suffer distress, and repair remains unfinished. A favorable use cannot retroactively disclose a modification or make all future features safe. The reading confuses successful output with completed institutional responsibility. [P213:L30–34; P217:L32–45; G14:L119–149]",
+          "",
+          "**Professional service corrected through feedback.** Some evidence supports it: Hibiki replaces distraction with coffee, respects a local repair-only request, and the festival takes opponents' concerns into a revised program. Utaha reverses blame in the screw encounter. But feedback does not always produce a remedy; the gun restoration is unshown, maintenance remains temporary, and Chihiro's combat critique receives design romance rather than a demonstrated safe redesign. The evidence supports situated correction and substantial capacity to respond, not a dated institutional transformation or a universally completed service ethic. [H25:L240–249; E17:L82–86; L24:L39–66; G14:L107–149; E18017:L35–39]",
+          "",
+          "**A generous leader and dependent juniors.** Utaha's forgiveness, encouragement, gift and coalition participation support care and initiative. Yet Hibiki's preferences and boundary responses, Kotori's resource objection and audience distinctions, and recipients' criticism cannot be made passive confirmations of her judgment. The humming diagnosis is contradicted; costume completion is specifically Hibiki's labor; collective action has peer and client authors. The strongest account distributes agency without denying practical leadership. [U23:L210–244; E17:L78–80; G14:L95–121; P107:L49–75; K21:L205–241]",
+          "",
+          "**A public institution redeemed by crisis.** Collective aid contests exclusion and helps interrupt danger. It does not settle prior property mistakes, safety failures, public liability or every worker's access to ordinary life. Final itself distinguishes technical results, willing participation and durable repair. Crisis contribution and ordinary answerability illuminate one another but do not share a universal severity scale or pardon. [P223:L24–44; F00:L112–175,217–239; E18010:L29–33; E18017:L35–45]",
+          "",
+          "**Pure comedy without consequential boundaries.** Comic exaggeration is part of the devices, threats and vocabulary. It does not make a printed refusal inaudible, an untested effect tested, an unwilling recipient consenting, a tired worker rested or an unprinted apology complete. The enjoyable invention can be read as comic while the repair client and hazards remain real within the represented fiction. Keeping both allows the argument to explain the comedy rather than censor its counterevidence. [G14:L103–121; H25:L239–272; E18017:L33–45]",
+          "",
+          "**A completed growth arc from engineering to empathy.** Audience adaptation, learned skill and temporary correction supply genuine local changes. Other endings retain wanted upgrades, explanatory abundance, secret feelings, time uncertainty or refusal. The private repertoire is unordered, festival repetition fields are documentary and main episodes have their own continuations. A comparative account can show the conditions of better fit without inventing a cross-variant progression in which every earlier problem is solved. [U23:L200–202,230–264; H25:L247–272; K21:L191–245; E17:L88]",
+          "",
+          "## 11. Evidence route, endpoints and open limits",
+          "",
+          "The institution's distinctive conclusion is that making has several ends which must remain distinct: enjoyed process, learned technique, usable output, recipient welcome, permitted alteration, completed delivery, maintained operation and answerable aftermath. None is a substitute for all the others. The source repertoire supplies positive instances and concrete failures, enough for an independent synthesis of the existing institution home. It does not establish a new governing policy, technical law, chronology, model or source scope. The greatest explanatory gain is preserving what each transaction actually achieves and who remains able to object. [G14:L99–149; E17:L74–99; U23:L224–264; H25:L239–272; K21:L203–245; F00:L112–175]",
+          ""
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          148,
+          148
+        ],
+        "canonical_lines": [
+          160,
+          160
+        ],
+        "original_lines_complete_text": [
+          "The body is joined to [exact inputs and author scope](ENGINEERING_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json) and [the claim, ending and rival register](ENGINEERING_INSTITUTION_CLAIM_AND_ENDPOINT_REGISTER_V1.json). Source IDs denote the small maintained normal analytical owners bound there; `L` citations are one-based lines in those exact files, not primary utterance IDs. Their own canonical unit and branch locators remain inherited routes. The packet distinguishes fresh whole or scoped argument receiving, adequate personally prior complete meanings, attributed original primary and machine controls, and immutable732 source equality. No large unbound index has been opened or hashed. The institution home and metadata copies are immutable source-snapshot beforeimages, not assertions about ROOT's changing live frontier. [C01:L315–368; C04:L1–40; C05:L1–356; C06:L1–6514]"
+        ],
+        "canonical_lines_complete_text": [
+          "The body is joined to [exact inputs and author scope](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ENGINEERING_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json) and [the claim, ending and rival register](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ENGINEERING_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json). Source IDs denote the small maintained normal analytical owners bound there; `L` citations are one-based lines in those exact files, not primary utterance IDs. Their own canonical unit and branch locators remain inherited routes. The packet distinguishes fresh whole or scoped argument receiving, adequate personally prior complete meanings, attributed original primary and machine controls, and immutable732 source equality. No large unbound index has been opened or hashed. The institution home and metadata copies are immutable source-snapshot beforeimages, not assertions about ROOT's changing live frontier. [C01:L315–368; C04:L1–40; C05:L1–356; C06:L1–6514]"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          149,
+          169
+        ],
+        "canonical_lines": [
+          161,
+          181
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "The finite endings matter to the argument: qualification and weapon gift are reached; freight arrival is represented; local speaker defeat is supported; exhaustion and onward handoff occur; modified Mk.2 assistance is deployed. The sauce modification is complete, but console repair, dummy substitution, gun restoration and final accountability are unshown. Festival local machine stop, revised program and opening occur, with poor conditions and later reported evacuation/care; safe redesign and requested report remain absent. Private report completion/confiscation, written core restart/temporary debt, repair-only response, chosen keepsake, welcomed discussion and shared chocolate have their own achieved domains. No aggregated success or failure grade replaces these differentiated ends. [P107:L49–75; P213:L30–34; P217:L32–45; P223:L24–44; G14:L103–149; E17:L78–86; E18010:L29–33; H25:L239–249; U23:L218–219; K21:L205–211; L68:L43–71]",
+          "",
+          "| Original gap | State | Exact effect on this institution argument |",
+          "|---|---|---|",
+          "| G01 — Ordinary and private breadth | OPEN | The three accepted repertoires support intrinsic taste, making, disclosure limits and company; they do not exhaust every ordinary member/client encounter or authenticate a general change in task fit. |",
+          "| G02 — Yuuka council/club decision transfer | OPEN | Festival constraints, algorithm testimony and report demands do not prove Yuuka commanded the attack or complete her council authority and decision transfer. |",
+          "| G03 — Serika service, peer and reciprocity range | OPEN | Her festival interests and method objection are source-local; Engineering's client comparisons do not settle Serika's service or reciprocity repertoire. |",
+          "| G04 — Hina crisis causality, accountability and ordinary contrast | OPEN | Collective emergency comparison and Ako's condition check do not establish Hina's causal or accountability boundary; her own sources govern it. |",
+          "| G05 — Arius and PS68 ordinary/aftermath transfer | OPEN | Coalition labor and maker errors cannot supply those groups' ordinary wanted lives or completed aftermath; none is assigned the workshop's mechanisms. |",
+          "| G06 — Cross-school ordinary repertoire | OPEN | Trinity objections, Natsu's taste, SRT care and peers' local wishes expand comparison without proving every school's pleasures, assent or later cooperation. |",
+          "| G07 — Story-world chronology | OPEN | Pavane sequence, each group continuation and local festival endings are supported; variant releases and event numbers do not join all private/public scenes into one calendar or growth ladder. |",
+          "| G08 — Event naming and repeat contexts | OPEN | Exact817/10817/900817 written repetitions and818 recollection context remain documentary; they do not establish multiple world occurrences or a global festival identity. |",
+          "| G09 — Written speaker/choice attribution | OPEN | Nineteen group seams, particular main/event actor corrections, inward forms, alternative choices and machine/narrator modes limit fine agency and voice; no fresh raw or runtime verification was made. |",
+          "| G10 — Performed voice | OPEN | Written cheer, sound, music, hesitation and emotion do not supply heard delivery, acoustic features or audiovisual device operation. |",
+          "| G11 — Hoshino's Yume record and office states | OPEN | Abydos festival mentions and distributed rescue analogy add no evidence for Yume's record or Hoshino's office-state transitions. |",
+          "| G12 — Counterpart, system and variant identity | OPEN | Three secure member retrieval families do not resolve every outfit context, AMAS controller, machine agency, Alice/Key/Kei continuity, anonymous client or counterpart. |",
+          "| G13 — Office, contract, safety and technical outcomes | OPEN | Consent, gun restoration, promised repair, measured specifications, manual completion, durable maintenance, clinical effects, liability and enacted accountability remain transaction-specific debts. |",
+          "| G14 — Unclassified/mode continuity | OPEN | Accepted selected private/public modes leave mini/unclassified and broader system continuity outside this package; no file absence or apparent textual parallel closes them. |",
+          "",
+          "These limits retain the original questions rather than relabeling local topics as new gaps. Their OPEN state does not make the achieved lunch pleasure, shared learning, wanted costume, useful access or received companionship provisional in every respect. It identifies exactly where the synthesis must stop: beyond a given actor's testimony, actual receiver, printed choice or represented ending. Scope eligibility, authored literary completeness, ROOT receiving, canonical adoption and publication remain distinct. This saved candidate completes only the author's bounded institution argument and its finite review; ROOT's independent judgment remains pending. [G14:L139–153; E17:L88–99; U23:L278–286; H25:L274–309; K21:L255–257; C01:L315–368]"
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "ENGINEERING_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_ENGINEERING_CRAFT_CLIENT_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 45641,
+      "sha256": "572edebb18a15212b7788f0883b6bec2d36a1938d032395675e3fc0d2a9972b4",
+      "git_blob_oid_of_actual_bytes": "ee146986d1b7221497d9c625e84046f3ef1ae3a1",
+      "immutable_transport_path": "immutable_originals/ENGINEERING_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_ENGINEERING_CRAFT_CLIENT_INSTITUTIONAL_SYNTHESIS.md"
+    },
+    {
+      "path": "ENGINEERING_INSTITUTION_SYNTHESIS/ENGINEERING_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 82361,
+      "sha256": "276c5fcda83ccac08227d6316375229613bb7977ae6dbc8a57ff56fb53dcb744",
+      "git_blob_oid_of_actual_bytes": "553285ed94e1fd8baea68a0a7b6309f8785fab75",
+      "immutable_transport_path": "immutable_originals/ENGINEERING_INSTITUTION_SYNTHESIS/ENGINEERING_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "ENGINEERING_INSTITUTION_SYNTHESIS/ENGINEERING_INSTITUTION_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 45230,
+      "sha256": "31e334322856d41dac9d1b6954b413fc766e7337660c3b2b6948207d673273a6",
+      "git_blob_oid_of_actual_bytes": "7ea7e0a54a067de1a32ee8b9b7611482c4a2774f",
+      "immutable_transport_path": "immutable_originals/ENGINEERING_INSTITUTION_SYNTHESIS/ENGINEERING_INSTITUTION_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_ENGINEERING_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5019,
+      "sha256": "6024009885fbaae4f22c280e58208eba8d42d02009175187f667783bb5282dbc",
+      "git_blob_oid_of_actual_bytes": "26d4f2fc24159715fbb2a6cd80996f4fa1f19cef",
+      "immutable_transport_path": "immutable_originals/ROOT_ENGINEERING_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "ENGINEERING_INSTITUTION_SYNTHESIS/ENGINEERING_INSTITUTION_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 162617,
+      "sha256": "bbd1ae1b7913eecc54b065300d2264218b1642a9be71b55763787ca9e2c935e5",
+      "git_blob_oid_of_actual_bytes": "9582c44d8cc9583f13843cda4278b269c00e287b",
+      "immutable_transport_path": "immutable_originals/ENGINEERING_INSTITUTION_SYNTHESIS/ENGINEERING_INSTITUTION_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "ENGINEERING_INSTITUTION_SYNTHESIS/ENGINEERING_INSTITUTION_INPUT_BINDINGS_WORKING.json",
+      "bytes": 58490,
+      "sha256": "1208e0711c2ff0380872cec47cad26db533b45c6705b4db6f06127c6c663ace8",
+      "git_blob_oid_of_actual_bytes": "1d099b673540e91553158f0f83a9a3d2adef49a3",
+      "immutable_transport_path": "immutable_originals/ENGINEERING_INSTITUTION_SYNTHESIS/ENGINEERING_INSTITUTION_INPUT_BINDINGS_WORKING.json"
+    },
+    {
+      "path": "ENGINEERING_INSTITUTION_SYNTHESIS/ENGINEERING_INSTITUTION_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 1921,
+      "sha256": "0cde879f9a1ffe71f82439fb133be8219a12310b744226efe52da100ab5f5cdc",
+      "git_blob_oid_of_actual_bytes": "abbbdb5fc46f01b69243f7b79b87406f5f89e5ba",
+      "immutable_transport_path": "immutable_originals/ENGINEERING_INSTITUTION_SYNTHESIS/ENGINEERING_INSTITUTION_SAVED_OUTPUT_RECEIPT_V1.json"
+    }
+  ],
+  "mandatory_claim_metadata_inverse": null,
+  "canonical_link_translations": [
+    {
+      "candidate_relative_href": "ENGINEERING_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "repository_relative_target": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ENGINEERING_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "operative_canonical_relative_href": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ENGINEERING_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "occurrences": 1,
+      "qualification": "Original complete receipt/register survives inside the declared public wrapper attachments; link supplies navigation and no new source custody."
+    },
+    {
+      "candidate_relative_href": "ENGINEERING_INSTITUTION_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "repository_relative_target": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ENGINEERING_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "operative_canonical_relative_href": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ENGINEERING_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "occurrences": 1,
+      "qualification": "Original complete receipt/register survives inside the declared public wrapper attachments; link supplies navigation and no new source custody."
+    }
+  ],
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

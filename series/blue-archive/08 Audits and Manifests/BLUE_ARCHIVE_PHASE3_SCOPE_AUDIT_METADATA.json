@@ -28,7 +28,7 @@
  ],
  "main43_retrieval_witnesses": "COMPLETE_ARGUMENT_AND_SOURCE_SCOPED_DISPOSITION_ACCEPTED_WITH_LIMITS",
  "quarter_reached": true,
- "progress_percentage": "NOT_REPORTED;89fixedsixteenfirstquarterpublicationbatchafterROOTinstallation;installedliterarythresholdonly;goal25milestonependingpublicationauthorizedmergeexactpostmergeaudit;laterliveROOTacceptancesseparate",
+ "progress_percentage": "NOT_REPORTED;fixed128afterROOTinstallation;published1255933ExactChainPASS;merged89first25complete;next178;later129plusseparate",
  "opening_candidate_responsibility_rows": 761,
  "new_source_local_or_non_character_headers": 27,
  "completed_owner_roster_reviews": 105,
@@ -48,7 +48,7 @@
   "P3-XMI-R001"
  ],
  "initial_761_still_pending_rows": 0,
- "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29ACCEPTED_WITH_LIMITS;89SIXTEEN_PACKAGE_INSTALLED_LITERARY_THRESHOLD_ONLY_GOAL25_MILESTONE_PENDING_PUBLICATION_AUTHORIZED_MERGE_POSTMERGE_AUDIT",
+ "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29_25PARENTS_ACCEPTED_WITH_LIMITS;FIRST25_MILESTONE_COMPLETE_AT_MERGED89;128_FIXED_THREE_SUCCESSOR_AFTER_ROOT_INSTALL",
  "accepted_literary_character_packages": [
   "Asuna",
   "Toki",
@@ -133,7 +133,19 @@
   "Kirino",
   "Shigure",
   "Mel",
-  "Momiji"
+  "Momiji",
+  "Cherino",
+  "Tomoe",
+  "Marina",
+  "Kisaki",
+  "Rumi",
+  "Reijo",
+  "Saya",
+  "Mina",
+  "Kokona",
+  "Shun",
+  "Kaguya: Shanhaijing source-scoped character",
+  "Rigatoni: source-scoped impunity, hostages, answering actors and bounded arrest"
  ],
  "millennium_v2_eligibility_arguments_adopted": [
   "Akane",
@@ -159,15 +171,27 @@
   "P3-XMI-R004",
   "P3-XMI-R005"
  ],
- "package_tracking_rows": 116,
- "completed_literary_packages": 89,
- "completed_literary_character_packages": 84,
- "completed_literary_directed_relationship_packages": 4,
+ "package_tracking_rows": 152,
+ "completed_literary_packages": 128,
+ "completed_literary_character_packages": 96,
+ "completed_literary_directed_relationship_packages": 16,
  "accepted_literary_directed_relationship_packages": [
   "Noa–Yuuka: privacy, memory and wanted company",
   "Meg–Kasumi: craft, care and leverage",
   "Kirara–Erika: exploration, privacy and broadcasting",
-  "Kazusa–Reisa: company, refusal and directed boundaries"
+  "Kazusa–Reisa: company, refusal and directed boundaries",
+  "Sora–customers–Sensei: recognition within paid routine",
+  "Mel–Momiji: craft, privacy and reciprocal correction",
+  "Shanhaijing Rumi: particular care and different answers",
+  "Mina–Reijo: craft, accusations and incomplete correction",
+  "Shun–Kokona: wanted closeness and unequal care",
+  "Reijo–Kaguya: rival crafts and answering recipients",
+  "Saya and recipients: care, inquiry and technical limits",
+  "Hina–Ako: service and independent wants",
+  "Fuuka–Juri: reciprocal care, reassurance and unequal burden",
+  "Gourmet Club and Fuuka: requests, refusals and new agreements",
+  "Kayoko–Ako: PS68 and Pandemonium boundaries",
+  "Haruka, Aru and Mutsuki: repayment, recognition and independent wants"
  ],
  "historical_pre_full_scope_frontier": {
   "eligible_package_denominator": "NOT_YET_FIXED; complete census adjudication required before progress thresholds",
@@ -182,8 +206,22 @@
  },
  "N_frozen": true,
  "required_named_sections": 29,
- "completed_required_named_sections_after_ROOT_install": 1,
- "completed_named_section_ids": ["P3-SECTION-HINA-ICE-POP-GIFT-PRIVACY"],
+ "completed_required_named_sections_after_ROOT_install": 13,
+ "completed_named_section_ids": [
+  "P3-SECTION-HINA-ICE-POP-GIFT-PRIVACY",
+  "P3-SECTION-YUUKA-CC-FISCAL-CHOSEN-OCCUPATION",
+  "P3-SECTION-AKANE-NERU-APPEARANCE-RECIPIENT-BOUNDARY",
+  "P3-SECTION-MISUZU-CORRECTIONAL-GUEST-WORK-RECOGNITION",
+  "P3-REL-KISAKI-RUMI",
+  "P3-REL-REIJO-RUMI",
+  "P3-SECTION-SHUN-10144",
+  "P3-SECTION-SUIKO-NAGOMI-YOUKO-INDIVIDUAL-QUESTIONS",
+  "P3-REL-MAKOTO-IBUKI",
+  "P3-REL-IROHA-IBUKI",
+  "P3-REL-ARU-HARUKA",
+  "P3-REL-MUTSUKI-HARUKA",
+  "P3-ENSEMBLE-PS68-BELONGING"
+ ],
  "required_scope_authority": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
  "ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
  "required_package_counts": {
@@ -208,8 +246,8 @@
   "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_DISPOSITIONS_PART_02_V3.json"
  ],
  "required_package_index_rows": 355,
- "legacy_package_tracking_rows": 116,
- "canonical_persistence_qualification": "ROOT independently accepted the fixed sixteen complete bounded responsibilities Airi, Kazusa, Shizuko, Fina, Umika, Natsu, Yoshimi, Kanna, Fubuki, Nodoka, Kazusa–Reisa, Kirino, Shigure, Sweets belonging, Mel and Momiji WITH LIMITS. The predecessor 73 canonical packages (70 character and 3 directed relationships) and Hina named section are source-published at 732b3f2e635d2b8e8855f4e6709354031936ebc6, with a verified actual source → housekeeping → final exact-head chain. This proof concerns the predecessor, not this successor installation or publication. Only the fixed sixteen packages 74–89 obtain persistence through complete ROOT installation, giving 89 packages (84 character,4 directed relationships,1 ensemble) and 1 of 29 mandatory named sections; later live ROOT reviews remain outside this fixed snapshot. The installed literary count reaches the first threshold of 89 only after complete ROOT installation. The goal25% milestone remains INCOMPLETE pending successful successor publication and its actual exact-head chain, an explicitly authorized main merge, and the exact postmerge audit. Current published packages remain 73 before this successor publication; main integration remains pending.355 required packages,29 mandatory named sections across25 distinct parent packages,89/178/267/355 thresholds,788 navigation responsibilities,105 owner duties and all60 original tracker questions remain unchanged. Shizuko uses the mandatory166-line supplemented body, Umika the169-line payment-corrected body, Nodoka the187-line MINI/gift supplemented body, and Fubuki operativeV2 custody/association receipts. Kazusa requires the separate narrow Natsu-imitation author erratum, whose original bytes and exact inverse remain preserved; the immutable ROOT operative qualification accepts its exact narrow application. Kazusa–Reisa retains two independent directions and eleven source-link translations only. Sweets belonging is a distinct ensemble argument with six source-link translations only, separate from individual character and directed relationship completions. Shigure, Mel and Momiji retain their ROOT-accepted original bodies. The empty dated Meru A133 navigation route remains unjoined and unchanged. Current public wrappers distinguish historical author/pending/source-capture states from actual ROOT acceptance and retain full originals, supplements, claim associations and source scopes. Reference, status and home normalization adds no source, primary, performance, independent literary, model, scope or denominator credit. All fourteen original literal gaps remain OPEN; model0 and the existing named-section completion remain unchanged. Publication and main integration are separate actions. The ten74–83 V1 template and dated85/87 successor snapshots remain immutable history. Later packages, including the temporary band, are excluded from this fixed first-quarter tranche.",
+ "legacy_package_tracking_rows": 152,
+ "canonical_persistence_qualification": "ROOT independently adjudicated the fixed three existing responsibilities126–128 WITH LIMITS: Haruka/Aru/Mutsuki repayment and recognition with two independently substantial directed sections; PS68 command/finance/public responsibility with independently substantial belonging; and the source-scoped Rigatoni character. Complete ROOT installation persists128 packages (96character,16directed relationship,5ensemble,11institution) and13 completed non-denominator named duties. The three named completions belong inside two counted parents; no extra child package rows are added. The eight exact beforeimages bind published125 source 5933ee5e3859049509357c06e739ef91e0e7c98c/tree e6b570d622c4a56f6b98c29c9eb78e2e90025618 via the separately preserved ROOT C custody receipt. This source has a separately bound ROOTaccepted complete source→housekeeping→final actual-source automatic chain. Main b76b4373e6d0526bc78ce00bb673dba9e536c128 contains89 merged packages; the first25% milestone remains independently complete after its exact full postmerge audit. The successor128 remains uninstalled/unpublished by this preparation and needs its own publication chain and integration. 355required packages/29mandatory duties across25distinct parents/384homes, thresholds89/178/267/355,788heterogeneous candidate rows,105owner duties, 1107 admitted literal source units and all60 original tracker questions are unchanged. All149 historical acceptance rows remain byte-for-byte; three exact parent homes append for152legacy tracker rows, which are not the denominator. The candidate file stays byte-identical; exactly three existing named rows gain their already ROOT-adjudicated full-argument completion and the other26 rows stay exact. Original literary paragraphs, source grades, claim/end/rival meanings, Haruka six-payload freeze, PS68 full43-file/25-dependency manifest and Rigatoni operativeV2 four-payload/full14-file inventory survive complete public-safe translations and inverses. Ordinary wishes, gardening, company, food, work, objections, independent recipients and unfinished repair remain intrinsic. All14original gaps stay OPEN; model0 is unchanged. Dated producer pending/source114/120/125/count/custody statements retain creation-time meanings. Later129+ is excluded. Mechanical transport adds no literary, primary, performed, independent, identity, source admission, scope, package, named-duty or milestone credit. Phase3 remains ACTIVE toward178; ROOT alone installs, validates, publishes and integrates.",
  "source_units_in_selected_public_census": 1107,
  "literal_source_local_header_routes": 8326,
  "literal_choice_routes": 742,
@@ -217,17 +255,801 @@
  "verbatim_attributed_argument_receiving_declarations": 128,
  "all14_gaps": "OPEN;claim-specific",
  "primary_performance_or_model_credit_added": 0,
- "completed_literary_ensemble_packages": 1,
+ "completed_literary_ensemble_packages": 5,
  "accepted_literary_ensemble_packages": [
-  "Sweets belonging: unequal knowledge, wanted company and recipient boundaries"
+  "Sweets belonging: unequal knowledge, wanted company and recipient boundaries",
+  "Sweets temporary band: unequal making and recipient audience",
+  "C&C differentiated company: contested belonging and ordinary company",
+  "Pandemonium–Ibuki: different directions of company and care",
+  "Gourmet Club: differentiated pleasure and unreliable mutual care"
  ],
- "quarter_reached_qualification": "Installed89 literary count threshold only, effective only after full ROOT installation; not goal25% milestone completion.",
- "goal_quarter_milestone_complete": false,
- "goal_quarter_milestone_remaining_prerequisites": [
-  "Successful successor publication and actual source/housekeeping/final exact-head chain",
-  "Explicitly authorized main merge",
-  "Exact postmerge integration audit"
+ "quarter_reached_qualification": "First89 milestone remains independently complete after merge/full exact postmerge audit; published1255933 exact source-housekeeping-final chain ROOTaccepted; fixed126–128 C-only proposal not installed or published.",
+ "goal_quarter_milestone_complete": true,
+ "goal_quarter_milestone_remaining_prerequisites": [],
+ "currently_source_published_packages_before_successor_publication": 125,
+ "main_integration": "FIRST89_MERGED_b76b4373e6d0526bc78ce00bb673dba9e536c128_POSTMERGE_AUDIT_ROOT_ACCEPTED;SOURCE125_PUBLISHED_5933_EXACT_CHAIN_PASS;SUCCESSOR126_TO128_NOT_YET_INTEGRATED",
+ "completed_literary_institution_packages": 11,
+ "accepted_literary_institution_packages": [
+  "Justice Task Force: work, leisure and answerability",
+  "Engineering: craft, clients and recipient constraints",
+  "C&C: student operative labor and chosen occupation",
+  "Valkyrie: duty, rest and independent recipients; substantial Misuzu role",
+  "Genryumon: tradition and unchosen office",
+  "Meihua: care, time and independent recipients",
+  "Prefect Team: protection, information and force",
+  "School Lunch: work, resources and answering recipients",
+  "Pandemonium Society: roles, resources and selective care",
+  "Hot Springs Development Department: work and answering recipients",
+  "PS68: command, finance, responsibility and contested belonging"
  ],
- "currently_source_published_packages_before_successor_publication": 73,
- "main_integration": "PENDING"
+ "goal_quarter_milestone_ROOT_control": {
+  "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "audit_run": 38080340801,
+  "original_exact_tuple": {
+   "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+   "bytes": 2282,
+   "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+   "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+   "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+  },
+  "complete_ROOTaccepted_payload": {
+   "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+   "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+   "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+   "goal25_complete": true,
+   "merged_PR": 147,
+   "merged_UTC": "2026-10-10T19:34:27Z",
+   "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+   "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+   "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+   "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+   "merged_packages": 89,
+   "required_packages": 355,
+   "required_named_duties": 29,
+   "distinct_named_parent_packages": 25,
+   "milestones": [
+    89,
+    178,
+    267,
+    355
+   ],
+   "next_milestone": 178,
+   "ROOT_reviewed_total_at_this_receipt": 102,
+   "full_goal_status": "ACTIVE_INCOMPLETE",
+   "postmerge_receipt": {
+    "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+    "bytes": 6847,
+    "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+    "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+   },
+   "postmerge_run": 38080340801,
+   "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+   "tests": 292,
+   "skipped": 0,
+   "archive_outcome": "success",
+   "profile": "full",
+   "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+   "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+   "all14_original_gaps": "OPEN",
+   "new_literary_primary_AV_model_or_identity_credit": 0,
+   "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+   "unbound9": "UNREAD_UNHASHED",
+   "R_Git_provider_mutations": false,
+   "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+  }
+ },
+ "currently_main_integrated_packages_before_successor_publication": 89,
+ "current_source101_publication_ROOT_control": {
+  "original_exact_tuple": {
+   "path": "ROOT_BF5_SOURCE101_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+   "bytes": 6382,
+   "sha256": "743572c2bc26772af1ea96adcefc54ca816589e33f744609332fcf89e7afae93",
+   "git_blob_oid_of_actual_bytes": "d489a3694d6585608ac1b6aa5e724bbb7f50ed30",
+   "immutable_transport_path": "immutable_originals/ROOT_BF5_SOURCE101_PUBLICATION_CHAIN_ACCEPTANCE_V1.json"
+  },
+  "complete_ROOTaccepted_payload": {
+   "schema": "BLUE_ARCHIVE_ROOT_BF5_SOURCE101_PUBLICATION_CHAIN_ACCEPTANCE_V1",
+   "checked_UTC": "2026-10-10T20:49:14.806799+00:00",
+   "status": "PASS_EXACT_CURRENT_SOURCE_HOUSEKEEPING_AND_FINAL_AUTOMATIC_CHAIN",
+   "decision": "ACCEPT_SOURCE101_COMPLETE_PUBLICATION_CHAIN_ANALYSIS_AND_NEXT_PUBLICATION_PREPARATION_MAY_CONTINUE",
+   "source": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+   "tree": "f84fb33df77dfcef9fb7270cb4d1064f6ec9c898",
+   "parent": "2714c7a67a34b7d6857db0ee84f95e77db943ece",
+   "unchanged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+   "source_packages": 101,
+   "merged_packages": 89,
+   "ROOTaccepted_packages_at_receipt": 108,
+   "ROOTaccepted_named_duties": 6,
+   "scope": "355required/29named/25parents unchanged",
+   "next_merge_milestone": 178,
+   "source_housekeeping_final_runs": [
+    {
+     "id": 38083519002,
+     "name": "Repository audit",
+     "event": "push",
+     "head_sha": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+     "status": "completed",
+     "conclusion": "success",
+     "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38083519002",
+     "created_at": "2026-10-10T20:22:53Z",
+     "updated_at": "2026-10-10T20:37:35Z"
+    },
+    {
+     "id": 38084477394,
+     "name": "Global index housekeeping",
+     "event": "workflow_run",
+     "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+     "status": "completed",
+     "conclusion": "success",
+     "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38084477394",
+     "created_at": "2026-10-10T20:37:36Z",
+     "updated_at": "2026-10-10T20:37:57Z"
+    },
+    {
+     "id": 38084498788,
+     "name": "Repository audit",
+     "event": "repository_dispatch",
+     "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+     "status": "completed",
+     "conclusion": "success",
+     "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38084498788",
+     "created_at": "2026-10-10T20:37:56Z",
+     "updated_at": "2026-10-10T20:45:40Z"
+    }
+   ],
+   "exact_execution_witnesses": [
+    {
+     "role": "SOURCE",
+     "actual_audited_commit": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+     "archive_outcome": "success",
+     "requested_profile": "shadow",
+     "executed_profile": "full",
+     "tests_run": 292,
+     "skipped": 0,
+     "errors": 0,
+     "failures": 0,
+     "selection_enabled": false,
+     "archive_report_actual_log_range": [
+      284,
+      448
+     ],
+     "test_report_actual_log_range": [
+      451,
+      2053
+     ],
+     "complete_log": {
+      "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 331377,
+      "lines": 2144,
+      "sha256": "124c59a764730f3d72ff1ed47b6917219966cd961f53c144388dcab34f522032",
+      "git_blob_oid_of_actual_bytes": "4b1813c87a645f07bc2f22a789b4c47a47c12069"
+     }
+    },
+    {
+     "role": "HOUSEKEEPING",
+     "actual_source": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+     "actual_dispatched_commit": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+     "source_audit_conclusion": "success",
+     "result": "NO_OP_UNCHANGED_BRANCH_BOUNDARIES_VERIFIED_NO_GENERATED_CHILD",
+     "complete_log": {
+      "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 44330,
+      "lines": 267,
+      "sha256": "70b581792c7f736b322b839dd07b13a65414d22d1dcb185585cb2ee51310d9a2",
+      "git_blob_oid_of_actual_bytes": "07ff5c7bc8275d57b089ea813d5775ba28badc3f"
+     }
+    },
+    {
+     "role": "FINAL_FULL_AUDIT",
+     "actual_audited_commit": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+     "archive_outcome": "success",
+     "requested_profile": "shadow",
+     "executed_profile": "full",
+     "tests_run": 292,
+     "skipped": 0,
+     "errors": 0,
+     "failures": 0,
+     "selection_enabled": false,
+     "archive_report_actual_log_range": [
+      284,
+      443
+     ],
+     "test_report_actual_log_range": [
+      446,
+      2048
+     ],
+     "complete_log": {
+      "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 330841,
+      "lines": 2139,
+      "sha256": "bb41ac4855043469c3a53f33f773c87d0756a90b3617d8bfa87db7c50234b706",
+      "git_blob_oid_of_actual_bytes": "83de2ae3c16e0e55b5f8b78707e705e6b85c4a73"
+     }
+    }
+   ],
+   "exact_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/bf5ded30464ab39f78f71e79ecc7494654c25faa",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 56063339987,
+    "node_id": "SC_kwDOUJ9ads8AAAANDaKt0w",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38084498788",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-10T20:45:38Z",
+    "updated_at": "2026-10-10T20:45:38Z"
+   },
+   "capture": {
+    "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_BF5_SOURCE101_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+    "bytes": 34400,
+    "sha256": "6b54917675b46d5409208c1ea86c55548a5a31adcf52807d7c1acbee467358d0"
+   },
+   "ROOT_actual_receiving": "207b19 actual remote source/main/tree/parent and all selected source+housekeeping runtime lines;68921b actual final audit/source status and selected literal292/OK/profile/skip0 lines.0e60f4 reconstructs actual complete executed archive/test reports and separates runtime values from displayed workflow code; both archive successes/full292/zero-skipped and real housekeeping source/dispatched SHA received. Broad72d0fb/afcd72/4ec729 regex output clipped and grants no additional receiving; exact bounded report reconstruction supplies needed evidence. Full complete saved logs and all selected lines byte-verified. Displayed main workflow head b76 is not the audited source commit.",
+   "first25_milestone_complete": true,
+   "new_merge_or_milestone_effect": "NONE; milestone50 at178 remains future",
+   "repository_Git_provider_mutations": 0,
+   "new_literary_source_performed_model_credit": 0,
+   "UNBOUND9": "UNREAD_UNHASHED",
+   "untracked39": "STAT_ONLY_PRESERVATION",
+   "full_goal_status": "ACTIVE_INCOMPLETE"
+  }
+ },
+ "existing_two_CC_named_index_synchronization": {
+  "original_exact_ROOT98_tuple": {
+   "path": "ROOT_CC_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+   "bytes": 6462,
+   "sha256": "09b7f7fd1d6c8e2629fc26119e249c16348f5c2ae5958d8eb82d6894af1aa8b1",
+   "git_blob_oid_of_actual_bytes": "0422e6c49ae73892f35db75c5147703fa5bbbe24",
+   "immutable_transport_path": "immutable_originals/ROOT_CC_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "actual_complete_prior_named_adjudications": [
+   {
+    "section_id": "P3-SECTION-YUUKA-CC-FISCAL-CHOSEN-OCCUPATION",
+    "decision": "ACCEPT_COMPLETE_NAMED_BOUNDARY_WITH_LIMITS",
+    "full_paragraphs": 8,
+    "saved_range": [
+     59,
+     76
+    ],
+    "grounds": "Full fiscal/municipal purpose, reported internal delegation and acknowledgment, actual Neru information gap and refusal, compressed café outcome, thanks, rejected permanent occupation and distinct Seminar comparison are substantial linked arguments. Reported commitment and internal rule do not establish a legal instrument or free earlier Neru agreement. Heading credit is not used."
+   },
+   {
+    "section_id": "P3-SECTION-AKANE-NERU-APPEARANCE-RECIPIENT-BOUNDARY",
+    "decision": "ACCEPT_COMPLETE_NAMED_BOUNDARY_WITH_LIMITS",
+    "full_paragraphs": 5,
+    "saved_range": [
+     77,
+     88
+    ],
+    "grounds": "Akane own pleasure and initiative meet Neru actual jacket refusal and separately allowed hair arrangement. Intrinsic private preferences and other members differing clothing pleasure cannot decide Neru assent. Preparation, actual opening and correction of service vocabulary retain achieved and unfinished consequences. This is the full required directed recipient argument within its institution parent, adding zero denominator package."
+   }
+  ],
+  "literary_credit_added": 0
+ },
+ "current_source108_publication_ROOT_control": {
+  "original_exact_tuple": {
+   "path": "ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json",
+   "bytes": 4922,
+   "sha256": "a55fc9943ff45172f26549ed152eec6fe580598bb9a2e1aaca15cc8a880df6f6",
+   "git_blob_oid_of_actual_bytes": "db0d144911893dd58b5f9a6e81454e2130274f35",
+   "immutable_transport_path": "immutable_originals/ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json"
+  },
+  "complete_ROOTaccepted_payload": {
+   "schema": "BLUE_ARCHIVE_ROOT_SOURCE108_NORMAL_PUSH_REMOTE_READBACK_V1",
+   "status": "PASS_NORMAL_PUSH_EXACT_REMOTE_SOURCE_TREE_PARENT_AND36_PATHS",
+   "checked_UTC": "2026-10-10T21:38:15.536917+00:00",
+   "remote_refs": {
+    "series/blue-archive": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+    "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128"
+   },
+   "source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+   "source_parents": [
+    "bf5ded30464ab39f78f71e79ecc7494654c25faa"
+   ],
+   "changed_paths": [
+    "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKONA_CHARACTER_MONOGRAPH.md",
+    "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+    "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+    "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md",
+    "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+    "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VALKYRIE_INSTITUTIONAL_SYNTHESIS.md",
+    "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+    "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+    "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+    "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_PACKAGE_ACCEPTANCE_INDEX.csv",
+    "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md"
+   ],
+   "tracked_and_index_clean": true,
+   "untracked39_stats_preserved": true,
+   "untracked_and_UNBOUND_contents": "UNREAD_UNHASHED",
+   "ROOTaccepted_packages": 113,
+   "published_packages": 108,
+   "merged_packages": 89,
+   "next_merge_milestone": 178,
+   "automatic_chain": "PENDING_SOURCE_RUN38088131512",
+   "new_analytical_credit": 0,
+   "full_goal_status": "ACTIVE_INCOMPLETE"
+  }
+ },
+ "current_source114_complete_chain_ROOT_control": {
+  "original_exact_tuple": {
+   "path": "ROOT_7A_SOURCE114_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+   "bytes": 6318,
+   "sha256": "57b258715c04daebe7214aa9c489d500084e140a8acd0e43909bf25ec9c92c09",
+   "git_blob_oid_of_actual_bytes": "b612264f75505fd5a897db6e3457326443b457f3",
+   "immutable_transport_path": "immutable_originals/ROOT_7A_SOURCE114_PUBLICATION_CHAIN_ACCEPTANCE_V1.json"
+  },
+  "complete_ROOTaccepted_payload": {
+   "schema": "blue-archive/root-7a114-complete-publication-chain-acceptance/v1",
+   "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+   "checked_UTC": "2026-10-10T22:49:27.754056+00:00",
+   "source": "7a146891ad9ffd999b2c4377d66a73313217a510",
+   "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+   "source_tree": "b726ef7a1a3a103d3011cf708a169eb8c7d659df",
+   "source_parent": [
+    "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b"
+   ],
+   "original_capture": {
+    "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_7A_SOURCE114_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+    "bytes": 34450,
+    "sha256": "d7fbd82856043c199d8928d3ab63690127088dd3b4f66b4b31647705f76086b0",
+    "git_blob_sha1": "8c8f6496fe019ecfacf903e0d6e1e12dade9944d"
+   },
+   "runs_and_actual_execution": [
+    {
+     "role": "SOURCE",
+     "run": {
+      "id": 38091335960,
+      "name": "Repository audit",
+      "event": "push",
+      "head_sha": "7a146891ad9ffd999b2c4377d66a73313217a510",
+      "status": "completed",
+      "conclusion": "success",
+      "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38091335960",
+      "created_at": "2026-10-10T22:25:00Z",
+      "updated_at": "2026-10-10T22:35:53Z"
+     },
+     "complete_log": {
+      "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 344274,
+      "lines": 2204,
+      "sha256": "905f4a7797f8d53228c2dea7a1aa08bf71023fbe2b5b083e076dff4615ccdd6a",
+      "git_blob_oid_of_actual_bytes": "553eb9b00b506b30458cb9fdbb0dfe205d2a215f"
+     },
+     "actual_archive_outcome": "success",
+     "actual_archive_SHA": "7a146891ad9ffd999b2c4377d66a73313217a510",
+     "actual_execution": {
+      "commit": "7a146891ad9ffd999b2c4377d66a73313217a510",
+      "outcome": "success",
+      "requested_profile": "shadow",
+      "executed_profile": "full",
+      "selection_enabled": false,
+      "discovered_tests": 292,
+      "tests_run": 292,
+      "errors": 0,
+      "failures": 0,
+      "expected_failures": 0,
+      "unexpected_successes": 0,
+      "skipped": 0
+     }
+    },
+    {
+     "role": "HOUSEKEEPING",
+     "run": {
+      "id": 38092024428,
+      "name": "Global index housekeeping",
+      "event": "workflow_run",
+      "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "completed",
+      "conclusion": "success",
+      "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38092024428",
+      "created_at": "2026-10-10T22:35:54Z",
+      "updated_at": "2026-10-10T22:36:16Z"
+     },
+     "complete_log": {
+      "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 44321,
+      "lines": 267,
+      "sha256": "9e1477d7c778ebb127ff4f6b50669810071ac8d262389ec7bc86602505903555",
+      "git_blob_oid_of_actual_bytes": "be0bfcc3c83e6f8bc4697a5117d4675801fa6726"
+     },
+     "actual_noop_and_dispatch_witnesses": [
+      {
+       "line": 265,
+       "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-10T22:36:13.8552034Z PASS: dispatched the full audit for 7a146891ad9ffd999b2c4377d66a73313217a510"
+      },
+      {
+       "line": 266,
+       "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-10T22:36:13.8554382Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+      }
+     ]
+    },
+    {
+     "role": "FINAL_FULL_AUDIT",
+     "run": {
+      "id": 38092046337,
+      "name": "Repository audit",
+      "event": "repository_dispatch",
+      "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "completed",
+      "conclusion": "success",
+      "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38092046337",
+      "created_at": "2026-10-10T22:36:15Z",
+      "updated_at": "2026-10-10T22:47:00Z"
+     },
+     "complete_log": {
+      "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 343706,
+      "lines": 2199,
+      "sha256": "744d67ee3d90d5ed1d15537ce30f1a04b94eda923aef3a796b6669d2747c3d32",
+      "git_blob_oid_of_actual_bytes": "18d57210e8c3af956d99c96f61d1bae977d00a8a"
+     },
+     "actual_archive_outcome": "success",
+     "actual_archive_SHA": "7a146891ad9ffd999b2c4377d66a73313217a510",
+     "actual_execution": {
+      "commit": "7a146891ad9ffd999b2c4377d66a73313217a510",
+      "outcome": "success",
+      "requested_profile": "shadow",
+      "executed_profile": "full",
+      "selection_enabled": false,
+      "discovered_tests": 292,
+      "tests_run": 292,
+      "errors": 0,
+      "failures": 0,
+      "expected_failures": 0,
+      "unexpected_successes": 0,
+      "skipped": 0
+     }
+    }
+   ],
+   "exact_final_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/7a146891ad9ffd999b2c4377d66a73313217a510",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 56066576592,
+    "node_id": "SC_kwDOUJ9ads8AAAANDdQQ0A",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38092046337",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-10T22:46:57Z",
+    "updated_at": "2026-10-10T22:46:57Z"
+   },
+   "ROOT_actual_execution_summary_receiving": "2df931 complete actual source and final292full zero failure/error/skip executed7a archiveSUCCESS; actualhouse265–266 dispatch/noop; exactfinalstatus56066576592 success; all remote refs/tree/parent exact. Whole logs preserved, no whole log human reading claim.",
+   "whole_log_human_reading_claim": false,
+   "progress": "Published114/merged89; ROOTaccepted118 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+   "source_or_repository_mutations": 0,
+   "all14_original_gaps": "OPEN_UNCHANGED",
+   "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+  }
+ },
+ "prior_current_control_qualification": "Earlier source120 and pending125 controls keep exact creation-time capture meanings; source125 completed chain qualification is appended, not retroactively rewritten.",
+ "current_source120_complete_chain_ROOT_control": {
+  "original_exact_tuple": {
+   "path": "ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+   "bytes": 6858,
+   "sha256": "7217d639a9209d16e7a3d7c27fced79ccb2e08bbae8ad0c40d7a08f56d343d6d",
+   "git_blob_oid_of_actual_bytes": "bcd927b29365cff78b8e28d733763a5a2b437c2c",
+   "immutable_transport_path": "immutable_originals/ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json"
+  },
+  "complete_ROOTaccepted_payload": {
+   "schema": "blue-archive/root-c690120-complete-publication-chain-acceptance/v1",
+   "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+   "checked_UTC": "2026-10-11T00:42:41.595999+00:00",
+   "source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+   "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+   "source_tree": "40b006f65bd1c98422d9093d08f53696c2d54cc9",
+   "source_parent": [
+    "7a146891ad9ffd999b2c4377d66a73313217a510"
+   ],
+   "original_capture": {
+    "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_C690_SOURCE120_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+    "bytes": 34429,
+    "sha256": "45f0fbdc5bb6e88e93db97888c0570ceee55aa9170c6880a03f4f709c65f847b",
+    "git_blob_sha1": "898fc20e8509c2b210b47e7e1b373a1c1fe8071b"
+   },
+   "runs_and_actual_execution": [
+    {
+     "role": "SOURCE",
+     "run": {
+      "id": 38097801331,
+      "name": "Repository audit",
+      "event": "push",
+      "head_sha": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+      "status": "completed",
+      "conclusion": "success",
+      "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38097801331",
+      "created_at": "2026-10-11T00:15:20Z",
+      "updated_at": "2026-10-11T00:26:25Z"
+     },
+     "complete_log": {
+      "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 353030,
+      "lines": 2244,
+      "sha256": "ec766b4f99df95d91de98049e45882d3311d727ed6fa9066efedbca1f1be5b37",
+      "git_blob_oid_of_actual_bytes": "cc70012f043ac63db0acff5f95718f4e64d424f3"
+     },
+     "actual_archive_outcome": "success",
+     "actual_archive_SHA": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+     "actual_execution": {
+      "commit": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+      "outcome": "success",
+      "requested_profile": "shadow",
+      "executed_profile": "full",
+      "selection_enabled": false,
+      "discovered_tests": 292,
+      "tests_run": 292,
+      "errors": 0,
+      "failures": 0,
+      "expected_failures": 0,
+      "unexpected_successes": 0,
+      "skipped": 0
+     }
+    },
+    {
+     "role": "HOUSEKEEPING",
+     "run": {
+      "id": 38098429126,
+      "name": "Global index housekeeping",
+      "event": "workflow_run",
+      "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "completed",
+      "conclusion": "success",
+      "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38098429126",
+      "created_at": "2026-10-11T00:26:27Z",
+      "updated_at": "2026-10-11T00:26:48Z"
+     },
+     "complete_log": {
+      "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 44323,
+      "lines": 267,
+      "sha256": "15fbc74bd61138feacd0d351b982d232ea86292b5550900c85534aca1fc081ce",
+      "git_blob_oid_of_actual_bytes": "c013d6291bf41cb0898d1e429556359b001b951c"
+     },
+     "actual_noop_and_dispatch_witnesses": [
+      {
+       "line": 265,
+       "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T00:26:46.7803771Z PASS: dispatched the full audit for c6908f2dba6f3b379bb84679fdd01175ac5894da"
+      },
+      {
+       "line": 266,
+       "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T00:26:46.7805459Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+      }
+     ]
+    },
+    {
+     "role": "FINAL_FULL_AUDIT",
+     "run": {
+      "id": 38098449169,
+      "name": "Repository audit",
+      "event": "repository_dispatch",
+      "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "completed",
+      "conclusion": "success",
+      "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38098449169",
+      "created_at": "2026-10-11T00:26:48Z",
+      "updated_at": "2026-10-11T00:41:30Z"
+     },
+     "complete_log": {
+      "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 352428,
+      "lines": 2239,
+      "sha256": "8b6d654325e5e649bee4e4f9bd4abad334884d85ca962dbc2561c238afc1cd3b",
+      "git_blob_oid_of_actual_bytes": "f7c3e52814a2183238990a405c98d5f92a6b708a"
+     },
+     "actual_archive_outcome": "success",
+     "actual_archive_SHA": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+     "actual_execution": {
+      "commit": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+      "outcome": "success",
+      "requested_profile": "shadow",
+      "executed_profile": "full",
+      "selection_enabled": false,
+      "discovered_tests": 292,
+      "tests_run": 292,
+      "errors": 0,
+      "failures": 0,
+      "expected_failures": 0,
+      "unexpected_successes": 0,
+      "skipped": 0
+     }
+    }
+   ],
+   "exact_final_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/c6908f2dba6f3b379bb84679fdd01175ac5894da",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 56069295882,
+    "node_id": "SC_kwDOUJ9ads8AAAANDf2PCg",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38098449169",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-11T00:41:26Z",
+    "updated_at": "2026-10-11T00:41:26Z"
+   },
+   "ROOT_actual_execution_summary_receiving": "ROOT independently received complete actual executed summaries ffe50d after capture9459ab: source38097801331 and final38098449169 actually audited c6908f2dba6f3b379bb84679fdd01175ac5894da, each292 discovered and292 run, full profile, selection disabled, zero errors/failures/skips/expected failures/unexpected successes. House38098429126 supplies both exact no-op boundary and final dispatch witnesses. All runs/jobs/steps succeeded; final exact-source status56069295882 points to38098449169. Remote sourcec690/tree40b006f65bd1c98422d9093d08f53696c2d54cc9/parent7a146891ad9ffd999b2c4377d66a73313217a510 and mainb76 are captured. Whole logs retained and verified, without whole-log human reading claim. Published120, ROOTaccepted125, merged89 remain distinct; no new analytical or milestone credit.",
+   "whole_log_human_reading_claim": false,
+   "progress": "Published120/merged89; ROOTaccepted125 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+   "source_or_repository_mutations": 0,
+   "all14_original_gaps": "OPEN_UNCHANGED",
+   "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+  }
+ },
+ "current_source125_complete_chain_ROOT_control": {
+  "original_exact_tuple": {
+   "path": "ROOT_5933_SOURCE125_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+   "bytes": 6067,
+   "sha256": "b5a025b1958cfa8a08e0e629fb717fa8b6798cff77628b55ce5ec2516a392285",
+   "git_blob_oid_of_actual_bytes": "40e3bcdbdccd017bbc2760b4a6394f9d1f8de5fc",
+   "immutable_transport_path": "immutable_originals/ROOT_5933_SOURCE125_PUBLICATION_CHAIN_ACCEPTANCE_V1.json"
+  },
+  "complete_ROOTaccepted_payload": {
+   "schema": "blue-archive/root-5933125-complete-publication-chain-acceptance/v1",
+   "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+   "checked_UTC": "2026-10-11T01:58:48.077877+00:00",
+   "source": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+   "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+   "source_tree": "e6b570d622c4a56f6b98c29c9eb78e2e90025618",
+   "source_parent": [
+    "c6908f2dba6f3b379bb84679fdd01175ac5894da"
+   ],
+   "original_capture": {
+    "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_5933_SOURCE125_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+    "bytes": 34450,
+    "sha256": "6b95193c1198831daf874d47595b7ec51ce60f85bedadd49e1c7ef8dead49218",
+    "git_blob_sha1": "dd331b3b4987a3f4a7c21dbcce35c229a6a843e8"
+   },
+   "runs_and_actual_execution": [
+    {
+     "role": "SOURCE",
+     "run": {
+      "id": 38102191860,
+      "name": "Repository audit",
+      "event": "push",
+      "head_sha": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+      "status": "completed",
+      "conclusion": "success",
+      "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38102191860",
+      "created_at": "2026-10-11T01:32:42Z",
+      "updated_at": "2026-10-11T01:47:43Z"
+     },
+     "complete_log": {
+      "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 359172,
+      "lines": 2272,
+      "sha256": "18ec5a000a17e67b7e8a30cd4d125105a083b281f44d9f0f5b177edc05a84873",
+      "git_blob_oid_of_actual_bytes": "a3aa4d3cd5ec102332d8675433fb6f82c46ae464"
+     },
+     "actual_archive_outcome": "success",
+     "actual_archive_SHA": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+     "actual_execution": {
+      "commit": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+      "outcome": "success",
+      "requested_profile": "shadow",
+      "executed_profile": "full",
+      "selection_enabled": false,
+      "discovered_tests": 292,
+      "tests_run": 292,
+      "errors": 0,
+      "failures": 0,
+      "expected_failures": 0,
+      "unexpected_successes": 0,
+      "skipped": 0
+     }
+    },
+    {
+     "role": "HOUSEKEEPING",
+     "run": {
+      "id": 38103024197,
+      "name": "Global index housekeeping",
+      "event": "workflow_run",
+      "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "completed",
+      "conclusion": "success",
+      "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103024197",
+      "created_at": "2026-10-11T01:47:45Z",
+      "updated_at": "2026-10-11T01:48:05Z"
+     },
+     "complete_log": {
+      "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 44358,
+      "lines": 267,
+      "sha256": "9aab774b9d1e452463ee7aba2f91de8ffd15747c41aa1e6c53a65e6c885a41ed",
+      "git_blob_oid_of_actual_bytes": "fcd993f48bad8d54a98be762d444dab15a5b431b"
+     },
+     "actual_noop_and_dispatch_witnesses": [
+      {
+       "line": 265,
+       "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T01:48:03.3420005Z PASS: dispatched the full audit for 5933ee5e3859049509357c06e739ef91e0e7c98c"
+      },
+      {
+       "line": 266,
+       "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T01:48:03.3421274Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+      }
+     ]
+    },
+    {
+     "role": "FINAL_FULL_AUDIT",
+     "run": {
+      "id": 38103041900,
+      "name": "Repository audit",
+      "event": "repository_dispatch",
+      "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "completed",
+      "conclusion": "success",
+      "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103041900",
+      "created_at": "2026-10-11T01:48:04Z",
+      "updated_at": "2026-10-11T01:55:53Z"
+     },
+     "complete_log": {
+      "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 358656,
+      "lines": 2267,
+      "sha256": "5952f303becb464fec3fdd9b13984acddbf301022717e62b3dfadfc0bfa4f0a0",
+      "git_blob_oid_of_actual_bytes": "86e7805cbef04bcb9b120a6159e22ab08069e0d7"
+     },
+     "actual_archive_outcome": "success",
+     "actual_archive_SHA": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+     "actual_execution": {
+      "commit": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+      "outcome": "success",
+      "requested_profile": "shadow",
+      "executed_profile": "full",
+      "selection_enabled": false,
+      "discovered_tests": 292,
+      "tests_run": 292,
+      "errors": 0,
+      "failures": 0,
+      "expected_failures": 0,
+      "unexpected_successes": 0,
+      "skipped": 0
+     }
+    }
+   ],
+   "exact_final_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/5933ee5e3859049509357c06e739ef91e0e7c98c",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 56070978939,
+    "node_id": "SC_kwDOUJ9ads8AAAANDhc9ew",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103041900",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-11T01:55:51Z",
+    "updated_at": "2026-10-11T01:55:51Z"
+   },
+   "ROOT_actual_execution_summary_receiving": "4af798",
+   "whole_log_human_reading_claim": false,
+   "progress": "Published125/merged89; ROOTaccepted128 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+   "source_or_repository_mutations": 0,
+   "all14_original_gaps": "OPEN_UNCHANGED",
+   "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+  }
+ }
 }

@@ -1,0 +1,2560 @@
+{
+  "schema": "BLUE_ARCHIVE_PANDEMONIUM_IBUKI_ENSEMBLE_INPUT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_PANDEMONIUM_IBUKI_ENSEMBLE_RELATIONSHIP_SYNTHESIS.md",
+  "current_scope": "355required/29 mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_current_source_beforeimage_witness": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+  "dated_current_source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+  "accepted_first_milestone_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      109,
+      114
+    ],
+    "new_packages": 6,
+    "after_complete_ROOT_install": 114,
+    "characters": 94,
+    "directed_relationships": 10,
+    "ensembles": 4,
+    "institutions": 6,
+    "named_duties_after_complete_ROOT_install": 10,
+    "published_before_successor": 108,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later115plus": "EXCLUDED_FROM_FIXED_CANONICAL_PROPOSAL",
+    "automatic_chain_at_capture": "PENDING_SOURCE_RUN38088131512; no current-head final audit claimed by assembler"
+  },
+  "current_source108_normal_push_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json",
+      "bytes": 4922,
+      "sha256": "a55fc9943ff45172f26549ed152eec6fe580598bb9a2e1aaca15cc8a880df6f6",
+      "git_blob_oid_of_actual_bytes": "db0d144911893dd58b5f9a6e81454e2130274f35",
+      "immutable_transport_path": "immutable_originals/ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_SOURCE108_NORMAL_PUSH_REMOTE_READBACK_V1",
+      "status": "PASS_NORMAL_PUSH_EXACT_REMOTE_SOURCE_TREE_PARENT_AND36_PATHS",
+      "checked_UTC": "2026-10-10T21:38:15.536917+00:00",
+      "remote_refs": {
+        "series/blue-archive": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+        "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128"
+      },
+      "source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+      "source_parents": [
+        "bf5ded30464ab39f78f71e79ecc7494654c25faa"
+      ],
+      "changed_paths": [
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKONA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VALKYRIE_INSTITUTIONAL_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_PACKAGE_ACCEPTANCE_INDEX.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md"
+      ],
+      "tracked_and_index_clean": true,
+      "untracked39_stats_preserved": true,
+      "untracked_and_UNBOUND_contents": "UNREAD_UNHASHED",
+      "ROOTaccepted_packages": 113,
+      "published_packages": 108,
+      "merged_packages": 89,
+      "next_merge_milestone": 178,
+      "automatic_chain": "PENDING_SOURCE_RUN38088131512",
+      "new_analytical_credit": 0,
+      "full_goal_status": "ACTIVE_INCOMPLETE"
+    }
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "All original pending/local/bf5/source101/source113/count/custody/receiving fields retain creation-time meanings. Exact complete operative ROOT acceptance governs literary judgment; current source108afb and merged89 are separately bound. Later115+ acceptance is outside this fixed snapshot. No retroactive author/provider/source or independent-reading credit.",
+  "original_exact_tuple": {
+    "path": "PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/PANDEMONIUM_ENSEMBLE_SOURCE_AND_RECEIVING_RECEIPT_V1.json",
+    "bytes": 116924,
+    "sha256": "8f47cfb1120200cc8043253ba289f76b6b6fa4ff318e5b086910184cf9449c33",
+    "git_blob_oid_of_actual_bytes": "631e8a474b2da94826710a01d8b5d7eb5f31b160",
+    "immutable_transport_path": "immutable_originals/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/PANDEMONIUM_ENSEMBLE_SOURCE_AND_RECEIVING_RECEIPT_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "status": "AUTHOR_COMPLETE_FOR_DECLARED_WRITTEN_SYNTHESIS_SCOPE_PENDING_ROOT_FULL_RECEIVING",
+    "artifact": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/BLUE_ARCHIVE_PANDEMONIUM_IBUKI_ENSEMBLE_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 78229,
+      "sha256": "2b3d5da8ea84d87f38d2c33417ca6b79dd7600bd2dca3ad7e70797799caf4f15",
+      "content_git_blob_sha1": "7f31551b230316cff1a25feb04c7a3bb939abe0b",
+      "splitlines": 338
+    },
+    "existing_parent": {
+      "required_package_id": "P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS",
+      "kind": "ENSEMBLE",
+      "subject_or_question": "P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS",
+      "source_responsibility_refs": "GEHENNA::significant_relationship_and_institution_responsibilities::8",
+      "mandatory_named_section_ids": "P3-REL-MAKOTO-IBUKI|P3-REL-IROHA-IBUKI",
+      "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+      "canonical_path": "",
+      "persistence_state": "UNACCEPTED",
+      "remote_publication": "NOT_YET_PUBLISHED",
+      "main_integration": "NOT_YET_INTEGRATED",
+      "completed_after_ROOT_install": "false",
+      "required_count": "1"
+    },
+    "literal_partition_home_rows": [
+      {
+        "home_index": 273,
+        "literal_home": {
+          "home_key": "P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS",
+          "kind": "ENSEMBLE",
+          "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+          "source_responsibility_refs": [
+            "GEHENNA::significant_relationship_and_institution_responsibilities::8"
+          ],
+          "literary_rationale": [
+            "Makoto↔Ibuki and Iroha↔Ibuki distinct directions, home partition for ROOT"
+          ],
+          "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "counts_as_completed": false,
+          "proposed_denominator_entry": true
+        }
+      },
+      {
+        "home_index": 274,
+        "literal_home": {
+          "home_key": "P3-REL-MAKOTO-IBUKI",
+          "kind": "DIRECTED_RELATIONSHIP",
+          "recommended_allocation": "PROPOSED_REQUIRED_SUBSTANTIAL_SECTION",
+          "source_responsibility_refs": [
+            "GEHENNA::significant_relationship_and_institution_responsibilities::8"
+          ],
+          "literary_rationale": [
+            "Full required semantic question named by original cohort argument and allocation prose, distinct actors/recipients/contrary evidence preserved"
+          ],
+          "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "counts_as_completed": false,
+          "proposed_denominator_entry": false,
+          "required_receiving_home": "P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS",
+          "section_rationale": "Full Makoto→Ibuki direction and recipient subsection; selective care/child wishes differ from Iroha"
+        }
+      },
+      {
+        "home_index": 275,
+        "literal_home": {
+          "home_key": "P3-REL-IROHA-IBUKI",
+          "kind": "DIRECTED_RELATIONSHIP",
+          "recommended_allocation": "PROPOSED_REQUIRED_SUBSTANTIAL_SECTION",
+          "source_responsibility_refs": [
+            "GEHENNA::significant_relationship_and_institution_responsibilities::8"
+          ],
+          "literary_rationale": [
+            "Full required semantic question named by original cohort argument and allocation prose, distinct actors/recipients/contrary evidence preserved"
+          ],
+          "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "counts_as_completed": false,
+          "proposed_denominator_entry": false,
+          "required_receiving_home": "P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS",
+          "section_rationale": "Full Iroha→Ibuki direction and recipient subsection; rest and practical care differ from Makoto"
+        }
+      }
+    ],
+    "literal_named_duty_index_rows": [
+      {
+        "section_id": "P3-REL-MAKOTO-IBUKI",
+        "parent_package_id": "P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS",
+        "source_responsibility_refs": "GEHENNA::significant_relationship_and_institution_responsibilities::8",
+        "scope_acceptance": "ROOT_ACCEPTED_WITH_LIMITS",
+        "literary_completion": "NOT_DISCHARGED_BY_HEADING_OR_SCOPE_RECORD",
+        "required_full_argument": "Full required semantic question named by original cohort argument and allocation prose, distinct actors/recipients/contrary evidence preserved"
+      },
+      {
+        "section_id": "P3-REL-IROHA-IBUKI",
+        "parent_package_id": "P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS",
+        "source_responsibility_refs": "GEHENNA::significant_relationship_and_institution_responsibilities::8",
+        "scope_acceptance": "ROOT_ACCEPTED_WITH_LIMITS",
+        "literary_completion": "NOT_DISCHARGED_BY_HEADING_OR_SCOPE_RECORD",
+        "required_full_argument": "Full required semantic question named by original cohort argument and allocation prose, distinct actors/recipients/contrary evidence preserved"
+      }
+    ],
+    "allocation": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_PANDEMONIUM_ENSEMBLE_AND_TWO_NAMED_DUTIES_AUTHOR_ALLOCATION_V1.json",
+      "bytes": 2196,
+      "sha256": "490421c38ff4867b1f540a7b8c1684439344427583dc2649a75125b83662c848",
+      "content_git_blob_sha1": "4830dd1da3d1d1c0fca6f14f4d2c67c085b5f311",
+      "splitlines": 24
+    },
+    "architecture_exact_inspected_contract": {
+      "repository_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "complete_inspected_lines": [
+        {
+          "line": 313,
+          "text": "# 7. `04 Specialist Synthesis`"
+        },
+        {
+          "line": 314,
+          "text": ""
+        },
+        {
+          "line": 315,
+          "text": "Specialist documents should exist only when they have a distinct analytical responsibility and enough evidence density to justify independent retrieval."
+        },
+        {
+          "line": 316,
+          "text": ""
+        },
+        {
+          "line": 317,
+          "text": "Recommended families are below. These are **categories, not mandatory empty folders**."
+        },
+        {
+          "line": 318,
+          "text": ""
+        },
+        {
+          "line": 319,
+          "text": "## 7.1 Character monographs"
+        },
+        {
+          "line": 320,
+          "text": ""
+        },
+        {
+          "line": 321,
+          "text": "Naming:"
+        },
+        {
+          "line": 322,
+          "text": ""
+        },
+        {
+          "line": 323,
+          "text": "```text"
+        },
+        {
+          "line": 324,
+          "text": "BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md"
+        },
+        {
+          "line": 325,
+          "text": "BLUE_ARCHIVE_HOSHINO_CHARACTER_MONOGRAPH.md"
+        },
+        {
+          "line": 326,
+          "text": "```"
+        },
+        {
+          "line": 327,
+          "text": ""
+        },
+        {
+          "line": 328,
+          "text": "A monograph should synthesize all relevant source classes but retain source-type labels."
+        },
+        {
+          "line": 329,
+          "text": ""
+        },
+        {
+          "line": 330,
+          "text": "Required sections:"
+        },
+        {
+          "line": 331,
+          "text": ""
+        },
+        {
+          "line": 332,
+          "text": "- core thesis;"
+        },
+        {
+          "line": 333,
+          "text": "- longitudinal arc;"
+        },
+        {
+          "line": 334,
+          "text": "- public/private self;"
+        },
+        {
+          "line": 335,
+          "text": "- school/club role;"
+        },
+        {
+          "line": 336,
+          "text": "- ordinary life;"
+        },
+        {
+          "line": 337,
+          "text": "- crisis behavior;"
+        },
+        {
+          "line": 338,
+          "text": "- Sensei relationship;"
+        },
+        {
+          "line": 339,
+          "text": "- major peer relationships;"
+        },
+        {
+          "line": 340,
+          "text": "- language/voice;"
+        },
+        {
+          "line": 341,
+          "text": "- competing readings;"
+        },
+        {
+          "line": 342,
+          "text": "- evidence route."
+        },
+        {
+          "line": 343,
+          "text": ""
+        },
+        {
+          "line": 344,
+          "text": "A mature monograph owns the literary and psychological argument: development, causality, self-report versus action, narrative function, relationships, language, contradictions, and interpretive disputes. It may explain an accepted reconstruction mechanism and link rule IDs, but it must not maintain a competing operational rule set."
+        },
+        {
+          "line": 345,
+          "text": ""
+        },
+        {
+          "line": 346,
+          "text": "## 7.2 Relationship syntheses"
+        },
+        {
+          "line": 347,
+          "text": ""
+        },
+        {
+          "line": 348,
+          "text": "Examples:"
+        },
+        {
+          "line": 349,
+          "text": ""
+        },
+        {
+          "line": 350,
+          "text": "```text"
+        },
+        {
+          "line": 351,
+          "text": "BLUE_ARCHIVE_<A>_<B>_RELATIONSHIP_SYNTHESIS.md"
+        },
+        {
+          "line": 352,
+          "text": "BLUE_ARCHIVE_<ENSEMBLE>_RELATIONSHIP_SYNTHESIS.md"
+        },
+        {
+          "line": 353,
+          "text": "```"
+        },
+        {
+          "line": 354,
+          "text": ""
+        },
+        {
+          "line": 355,
+          "text": "Create only for narratively significant relationships."
+        },
+        {
+          "line": 356,
+          "text": ""
+        },
+        {
+          "line": 357,
+          "text": "## 7.3 School / institutional syntheses"
+        },
+        {
+          "line": 358,
+          "text": ""
+        },
+        {
+          "line": 359,
+          "text": "Examples:"
+        },
+        {
+          "line": 360,
+          "text": ""
+        },
+        {
+          "line": 361,
+          "text": "```text"
+        },
+        {
+          "line": 362,
+          "text": "BLUE_ARCHIVE_ABYDOS_INSTITUTIONAL_SYNTHESIS.md"
+        },
+        {
+          "line": 363,
+          "text": "BLUE_ARCHIVE_GE HENNA...  # use verified canonical romanization before creating"
+        },
+        {
+          "line": 364,
+          "text": "```"
+        },
+        {
+          "line": 365,
+          "text": ""
+        },
+        {
+          "line": 366,
+          "text": "Do not guess canonical ASCII spellings. If romanization is uncertain, use a verified project identifier or delay file creation."
+        },
+        {
+          "line": 367,
+          "text": ""
+        },
+        {
+          "line": 368,
+          "text": "Institutional synthesis should distinguish school mythology from actual governance."
+        }
+      ],
+      "rule": "Distinct responsibility and adequate evidence density; narratively significant relationship. Eleven character dimensions are used as a completeness check, not falsely quoted as a mandated §7.2 eleven-heading schema."
+    },
+    "scope_and_count_boundary": {
+      "existing_parent_count": 1,
+      "existing_non_denominator_named_duties": 2,
+      "new_home_count": 0,
+      "new_denominator_count": 0,
+      "literal_named_row_kinds": [
+        "DIRECTED_RELATIONSHIP",
+        "DIRECTED_RELATIONSHIP"
+      ],
+      "full_current_scope_qualified": "355 counted homes /29 required non-denominator duties /25 distinct parents; 18 SECTION-kind rows are a different predicate"
+    },
+    "inputs": [
+      {
+        "input_id": "PS01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/001_BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 57532,
+        "sha256": "3f22db6cbdcd4e184f44bec9a1574fd26226e294694d05cff37c7ff6dbd4530d",
+        "content_git_blob_sha1": "ef5733fa79c59f3ef48312e176b88596c22f36e4",
+        "actual_current_task_receiving": "CURRENT_ADOPTION_SUBSTANTIVE_BODY_420_TO_602_COMPLETE",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "lines": [
+              420,
+              506
+            ],
+            "output": "3ac57b",
+            "scope": "complete connected current adoption/private body portion; source_ID frontmatter not fresh whole metadata"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "lines": [
+              507,
+              602
+            ],
+            "output": "7f215b",
+            "scope": "complete connected argument ending throughEOF; actual full maintained substantive body420–602 fresh received"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/002_BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 38643,
+        "sha256": "caddd6c0c1ec580c91a7115d65c1619ebfb8f5fae399222d999043be479ed349",
+        "content_git_blob_sha1": "1f22aa11f3d42f4e4c18cd2009781abe3e0e818b",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              1,
+              96
+            ],
+            "output": "1804ee",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              97,
+              184
+            ],
+            "output": "db01d8",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: EVENT_833_PHASE2_CONTEXTUALIZATION"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          },
+          {
+            "line": 18,
+            "text": "source_boundary: \"Complete selected 10 written event objects; qualified analytical receiving complete with limits; formal admission unchanged\""
+          },
+          {
+            "line": 19,
+            "text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+          },
+          {
+            "line": 42,
+            "text": "Global witness/version recovery follows the [source-class crosswalk](../../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md), parser0.2.0, pinned electricgoat/ba-data@jp. Canonical hashes are inherited metadata from the existing object owner, not newly computed source proofs."
+          },
+          {
+            "line": 78,
+            "text": "G base BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/EVENT/EVENT_833/"
+          },
+          {
+            "line": 80,
+            "text": "For001–005 these are source routes bound by the prior adequate producer authority, not a new primary receiving claim. The personally received006–010 headers print electricgoat/ba-data commit a038020f1f5ac02dcfe76962426d38f86414cdd8, DB/ScenarioScriptExcelTable2.json, parser0.2.0, canonical_source_representation. No fresh hash was made. The current event index release2024-01-24 11:00 is provenance, not an absolute story calendar. Source-order001 is literalプロローグ;顔合わせ,002 literal第1話;協力要請,003第2話;準備開始,004第3話;議長の要求,005第4話;議長の哲学,006第5話;議長の広報戦略,007第6話;議長の決断,008第7話;パーティー当日,009エピローグ;パーティー開始;010 has an empty title and written video instruction. Preserve the ordinal/title offset."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/003_BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 28709,
+        "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+        "content_git_blob_sha1": "68db40033aca83ee8ecfa3b1d7e60c329fb0b1a6",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              1,
+              149
+            ],
+            "output": "ecb61d",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: EVENT_835_PHASE2_CONTEXTUALIZATION"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          },
+          {
+            "line": 24,
+            "text": "source_boundary: \"Complete selected 16 written event objects; qualified analytical receiving complete with limits; formal admission unchanged\""
+          },
+          {
+            "line": 25,
+            "text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+          },
+          {
+            "line": 48,
+            "text": "Global witness/version recovery follows the [source-class crosswalk](../../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md), parser0.2.0, pinned electricgoat/ba-data@jp. Canonical hashes are inherited metadata from the existing object owner, not newly computed source proofs."
+          },
+          {
+            "line": 75,
+            "text": "ROOT completed all sixteen declared objects BA:event:835:001–016 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, parser0.2.0, including every printed choice and final utterance. This is the exact existing mandatory scope, not an expanded appearance census. The opening001–002 were received in7eb191;003–004 in20d1d5;005–008 in26fd39;009–011 in e44f7e;012–015 in c4da0c;016 through u0107/EOF in c1506c. No raw, audiovisual, proof, helper or source-hash replay was used. All sixteen remain formally AVAILABLE_NOT_REVIEWED/UNADMITTED until a separate admission decision. Their qualified analytical review is complete with the following limits."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/004_BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 51286,
+        "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+        "content_git_blob_sha1": "5e81647430fe2a3a99df3b94096b18421f903a33",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              1,
+              135
+            ],
+            "output": "c96fda",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              136,
+              220
+            ],
+            "output": "805331",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              221,
+              273
+            ],
+            "output": "76fc26",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: EVENT_860_PHASE2_CONTEXTUALIZATION"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          },
+          {
+            "line": 35,
+            "text": "source_boundary: \"Complete selected 27 written event objects; qualified analytical receiving complete with limits; formal admission unchanged\""
+          },
+          {
+            "line": 36,
+            "text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+          },
+          {
+            "line": 59,
+            "text": "Global witness/version recovery follows the [source-class crosswalk](../../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md), parser0.2.0, pinned electricgoat/ba-data@jp. Canonical hashes are inherited metadata from the existing object owner, not newly computed source proofs."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/005_BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+        "bytes": 25362,
+        "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+        "content_git_blob_sha1": "17e378db57541ef25cb16e08f9a4db4e4111bc51",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+            "lines": [
+              1,
+              154
+            ],
+            "output": "a25d1d",
+            "scope": "whole accepted argument throughEOF"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: GROUP_1901_1902"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          },
+          {
+            "line": 8,
+            "text": "source_boundary: \"Complete canonical Japanese group objects at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z; 4 scenes, 216 structured utterances including 3 locations, 213 canonical text anchors, 298 raw records, 0 formal choice groups and 0 displayed options\""
+          },
+          {
+            "line": 9,
+            "text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+          },
+          {
+            "line": 24,
+            "text": "The entire canonical Japanese objects named below, their story/utterance metadata, choice records where present and raw script/control records were inspected. They belong to the pinned source class `group`; no projection bundle, localization, plot synopsis or later franchise knowledge substitutes for the complete sequence. Primary provenance is `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`, game `v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1`, parser `0.2.0`, ingestion generation `BA_REFRESH_20260928T032248159554Z`. The generation root is `corpus/GENERATIONS/BA_REFRESH_20260928T032248159554Z` within the separately governed corpus pipeline."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_CHECKPOINT.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_CHECKPOINT.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/006_BLUE_ARCHIVE_MAIN_S2_V002_C001_CHECKPOINT.md",
+        "bytes": 11846,
+        "sha256": "5f54c08ed6f23e2940bf614fd1d439ffda1e8e4b51738cadb35fceb2bf9a571d",
+        "content_git_blob_sha1": "04b0a1d2b81a4bfc4ac359f3576ace34d2e8a25b",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_CHECKPOINT.md",
+            "lines": [
+              1,
+              61
+            ],
+            "output": "4a126f",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C001"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:001:001 through BA:main:series2:002:001:017 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; 43 newly inserted V001 C003 units pending separate backfill; side-source classes not admitted"
+          },
+          {
+            "line": 20,
+            "text": "This checkpoint reconciles all **seventeen sequential readings** `BA:main:series2:002:001:001`–`017` at audited `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`. It inherits the [S2 V001 C001 checkpoint](../SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_C001_CHECKPOINT.md) and [source reconciliation](../../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md). Completed coverage is **402 / 480** canonical main units. The 43 newly inserted V001 C003 units still await their separate earlier-order backfill; this is not a contiguous 480-unit prefix. Group, event, bond, MomoTalk, profile, performed voice, adaptation and wiki sources remain outside the admitted boundary. The next forward row is `BA:main:series2:002:002:001` / `MAIN_S2_V002_C002_E001`. The internal S2 volume index is not an official display number."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E001_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E001_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/007_BLUE_ARCHIVE_MAIN_S2_V002_C001_E001_DEEP_READING.md",
+        "bytes": 6176,
+        "sha256": "9661c11f60e8245080ac638e49cf1e85cd3f50bcab8f1c06aecc6ef10c2b5e77",
+        "content_git_blob_sha1": "cb42dcfd28688b7a3ecc7928792a0ac5a60fc321",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E001_DEEP_READING.md",
+            "lines": [
+              1,
+              37
+            ],
+            "output": "3f2506",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C001_E001"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:001:001 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V001 C001 checkpoint; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:001:001` is admitted: two scenes/raw group `211010`, 87 printed numbered units (scene 001 `u:0001-0002`; scene 002 `u:0002-0086`) and no Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_001/EPISODE_001.md` in generation `BA_REFRESH_20260928T032248159554Z`. E002 remains unopened. Two Gehenna students A/B drive the recurring confrontation and receive narrow separate `UNMODELED` routes; student D's two repeated bystander lines do not create a new subject here."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_CHECKPOINT.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_CHECKPOINT.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/008_BLUE_ARCHIVE_MAIN_S2_V002_C002_CHECKPOINT.md",
+        "bytes": 12531,
+        "sha256": "0f436b2ac99019fa337263d05f9ea1778d44afbe790e7692ca8d8e381e1ca499",
+        "content_git_blob_sha1": "48e6fbf86e746444a79a9d37ca54ce1ce70e4d6e",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_CHECKPOINT.md",
+            "lines": [
+              1,
+              62
+            ],
+            "output": "4a126f",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:001 through BA:main:series2:002:002:021 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; 43 newly inserted V001 C003 units pending separate backfill; side-source classes not admitted"
+          },
+          {
+            "line": 20,
+            "text": "This checkpoint reconciles all **twenty-one sequential readings** `BA:main:series2:002:002:001`–`021` at audited `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`. It inherits the [S2 V002 C001 checkpoint](BLUE_ARCHIVE_MAIN_S2_V002_C001_CHECKPOINT.md) and [source reconciliation](../../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md). Completed coverage is **423 / 480** canonical main units. The 43 newly inserted V001 C003 units still await separate earlier-order backfill, so this is not a contiguous 480-unit prefix. Group, event, bond, MomoTalk, profile, performed voice, adaptation and wiki sources remain outside the admitted boundary. The next forward row is `BA:main:series2:003:001:001` / `MAIN_S2_V003_C001_E001`. The internal S2 volume index is not an official display number."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS09",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E001_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E001_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/009_BLUE_ARCHIVE_MAIN_S2_V002_C002_E001_DEEP_READING.md",
+        "bytes": 6486,
+        "sha256": "9a7effe00b7fb96f8afd407ac5209b69fd4398a8ddeced5a317d3c3d1fd5199e",
+        "content_git_blob_sha1": "601f6a7a546174645c809f46635a4414f401d956",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E001_DEEP_READING.md",
+            "lines": [
+              1,
+              37
+            ],
+            "output": "3f2506",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E001"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:001 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after canonical S2 V002 C001 checkpoint; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:001` is admitted: one scene/raw group `212010`, 143 printed numbered units (`u:0001-0143`) and ten Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_001.md` in generation `BA_REFRESH_20260928T032248159554Z`. E002 remains unopened. The source extends Satsuki's E017 explanation but remains **one participant's retrospective testimony plus present hypotheses**, without recovered experiment files or a controlled signal test."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS10",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E005_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E005_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/010_BLUE_ARCHIVE_MAIN_S2_V002_C002_E005_DEEP_READING.md",
+        "bytes": 5702,
+        "sha256": "27da2cdfdac95e5f9e635fba0f3a0e62a18ecaec877455723fefec05f665f63a",
+        "content_git_blob_sha1": "73bb7e05cef3a42fbe208513e995a11c6201956d",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E005_DEEP_READING.md",
+            "lines": [
+              1,
+              34
+            ],
+            "output": "6bdd19",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E005"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:005 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E004; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:005` is admitted: one scene/raw group `212050`, 106 printed numbered units (`u:0002-0107`) and no Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_005.md` in generation `BA_REFRESH_20260928T032248159554Z`. E006 remains unopened. The episode confirms expressed internal dissent and Iroha's spoken resignation from Pandemonium, while leaving a formal personnel record and subsequent practical status uninspected."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS11",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E008_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E008_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/011_BLUE_ARCHIVE_MAIN_S2_V002_C002_E008_DEEP_READING.md",
+        "bytes": 5056,
+        "sha256": "04715c20cf2d304a28b3621e705c9e7f690627b45278bcbc23db0d0a760c9330",
+        "content_git_blob_sha1": "41312eb050455eb7bbc872bb393a7d209d5588ae",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E008_DEEP_READING.md",
+            "lines": [
+              1,
+              34
+            ],
+            "output": "d75a5c",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E008"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:008 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E007; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:008` is admitted: one scene/raw group `212080`, 90 printed numbered units (`u:0001-0090`) and no Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_008.md` in generation `BA_REFRESH_20260928T032248159554Z`. E009 remains unopened. This unit confirms more consequences of Iroha's departure and a direct ideological interview, without showing a phone contact's identity, a published article or an attack."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS12",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E009_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E009_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/012_BLUE_ARCHIVE_MAIN_S2_V002_C002_E009_DEEP_READING.md",
+        "bytes": 5204,
+        "sha256": "7d5d069adaac1d642d8e6a7286e34fb7c1d0d9c2a0a95f04e3f80209f1a8a084",
+        "content_git_blob_sha1": "e82b4d4cfdba1d9bfdaccce9124c4baaad9e5624",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E009_DEEP_READING.md",
+            "lines": [
+              1,
+              34
+            ],
+            "output": "d75a5c",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E009"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:009 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E008; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:009` is admitted: one scene/raw group `212090`, 64 printed numbered units (`u:0001-0064`) and eight Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_009.md` in generation `BA_REFRESH_20260928T032248159554Z`. E010 remains unopened. Satsuki supplies new first-person institutional testimony and an external-actor hypothesis, while narration explicitly says the experiment **did not occur**."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS13",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E010_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E010_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/013_BLUE_ARCHIVE_MAIN_S2_V002_C002_E010_DEEP_READING.md",
+        "bytes": 5092,
+        "sha256": "a5f9cc1bd3c79575b445b06163ba3fe7523db00a22bef0e67e7a4fc83ccda940",
+        "content_git_blob_sha1": "6fd57505915b759252f057b285a7ad69f0239f6c",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E010_DEEP_READING.md",
+            "lines": [
+              1,
+              34
+            ],
+            "output": "d75a5c",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E010"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:010 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E009; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:010` is admitted: one scene/raw group `212100`, 94 printed numbered units (`u:0001-0094`) and three Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_010.md` in generation `BA_REFRESH_20260928T032248159554Z`. E011 remains unopened. This unit assembles a resistance-minded group and identifies a possible place to seek signal evidence; it does not inspect the broadcast room, measure a frequency or reverse anyone's altered behavior."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS14",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E011_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E011_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/014_BLUE_ARCHIVE_MAIN_S2_V002_C002_E011_DEEP_READING.md",
+        "bytes": 5310,
+        "sha256": "7ac0ebe9ceb9af399b7d437376bf12d72828dd70b290cfe92a157ae3e7a44b51",
+        "content_git_blob_sha1": "5d23e3eff3bbb6f95bd6b8eaf767b43ff5498419",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E011_DEEP_READING.md",
+            "lines": [
+              1,
+              37
+            ],
+            "output": "6bdd19",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E011"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:011 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E010; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:011` is admitted: one scene/raw group `212110`, 111 printed numbered units (`u:0001-0111`) and no Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_011.md` in generation `BA_REFRESH_20260928T032248159554Z`. E012 remains unopened. The scene centers Ibuki's present choice and an unidentified log-like memory passage. Do not convert the latter into a fully audited historical record or a confirmed mechanism diagnosis."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS15",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E013_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E013_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/015_BLUE_ARCHIVE_MAIN_S2_V002_C002_E013_DEEP_READING.md",
+        "bytes": 4983,
+        "sha256": "9e10d9d9a1ae45f7bff9c6d569312502cd3662c61bafda40c678a02e396a983f",
+        "content_git_blob_sha1": "6ed44388dee49fb1761a44c493fda974f1736d0d",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E013_DEEP_READING.md",
+            "lines": [
+              1,
+              32
+            ],
+            "output": "6bdd19",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E013"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:013 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E012; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:013` is admitted: one scene/raw group `212130`, 71 printed numbered units (`u:0001-0071`) and eleven Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_013.md` in generation `BA_REFRESH_20260928T032248159554Z`. E014 remains unopened. The episode **does** show Sensei physically in a cell, isolated from outside, which changes E012's proposed “protection” into completed confinement. Shoko directly says she recommended it to both Makoto and Hina; the text does not print a written order, exact briefing content or cell administration."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS16",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E014_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E014_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/016_BLUE_ARCHIVE_MAIN_S2_V002_C002_E014_DEEP_READING.md",
+        "bytes": 7143,
+        "sha256": "3985ded54fbb1e0ee3d18900c1ffdecaff4c328f25d29752dcbfafad6f9d72cf",
+        "content_git_blob_sha1": "a361e08cbf20eafa9ec9fb0f62ae21dc203a1f72",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E014_DEEP_READING.md",
+            "lines": [
+              1,
+              36
+            ],
+            "output": "3f2506",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E014"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:014 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E013; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:014` is admitted: one scene/raw group `212140`, 176 printed numbered units (`u:0001-0176`) and no Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_014.md` in generation `BA_REFRESH_20260928T032248159554Z`. E015 remains unopened. The episode cuts between a covert coalition plan, Fuuka's kitchens and Makoto's strategy room. It contains two new event-local speakers, an unnamed **Pandemonium ration-demand messenger** and an unnamed **Prefect ration-demand officer**. Do not merge them with E004/E012 generic officials or each other."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS17",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/017_BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+        "bytes": 5222,
+        "sha256": "982ab1a9083ef593cdc3e9517e4a32ed4e8a175c0e4b3899aa8956fd78574740",
+        "content_git_blob_sha1": "73cbe1ddacc3d18eaaafa3e7b5b12d6473659317",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+            "lines": [
+              1,
+              34
+            ],
+            "output": "2b4864",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E015"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:015 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E014; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:015` is admitted: one scene/raw group `212150`, 114 printed numbered units (`u:0001-0114`) and no Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_015.md` in generation `BA_REFRESH_20260928T032248159554Z`. E016 remains unopened. The episode advances a proposed broadcast-room plan and adds Erika/Kirara's willing assistance, then Chiaki's report accelerates the group's decision. It does not show entry, bypass, signal measurement, counterbroadcast, chemical weapon production or attack."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS18",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E016_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E016_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/018_BLUE_ARCHIVE_MAIN_S2_V002_C002_E016_DEEP_READING.md",
+        "bytes": 5755,
+        "sha256": "2fd971afece388fab193b707aaeb1b32a017850543995f0e521e80d6f3a4f848",
+        "content_git_blob_sha1": "e774dea300bb88c732c07e6a3a38e664824fb0cc",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E016_DEEP_READING.md",
+            "lines": [
+              1,
+              36
+            ],
+            "output": "04561a",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E016"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:016 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E015; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:016` is admitted: two printed scenes across raw groups `212160|212161|212162`, 94 numbered units (scene 001 `u:0001-0093`, scene 002 `u:0001`) and two Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_016.md` in generation `BA_REFRESH_20260928T032248159554Z`. E017 remains unopened. The scene starts amid alarm and rescue, flashes back “30 minutes earlier” at `scene:001:u:0033` for the plan, then resumes the assault. The terminal second scene is only a next-episode cue. Keep that chronology distinct from printed order."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS19",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/019_BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+        "bytes": 9189,
+        "sha256": "b44db980586ea8a5dfc6b562bda71cfbb00aa5fb3ea91b4a2e3ade0617fa6a03",
+        "content_git_blob_sha1": "d7902f1ebd40e3e188674a35484b14650127b1cb",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+            "lines": [
+              1,
+              42
+            ],
+            "output": "04561a",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E018"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:018 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E017; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:018` is admitted: one scene/raw group `212180`, 320 printed numbered units (`u:0001-0320`) and three Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_018.md` in generation `BA_REFRESH_20260928T032248159554Z`. E019 remains unopened. The episode is the first direct confession of Shoko's role in the mind-control crisis and the first represented counterbroadcast with broad local reversal. It also introduces a severe fail-safe claim that is **not established as an inevitable outcome** by the observed ending. The closing narration says the NK Ultra incident ends here, while explicitly saying much remains to be settled."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS20",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E019_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E019_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/020_BLUE_ARCHIVE_MAIN_S2_V002_C002_E019_DEEP_READING.md",
+        "bytes": 6937,
+        "sha256": "441ff589c38e735330c452e0a18678f2fcdc9f606c2df46cf37be8c9eaf353fc",
+        "content_git_blob_sha1": "992e3cf283d81df9b4d8a76ebde2bd0856e87676",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E019_DEEP_READING.md",
+            "lines": [
+              1,
+              40
+            ],
+            "output": "2b4864",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E019"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:019 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E018; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:019` is admitted: one scene/raw group `212190`, 247 printed numbered units (`u:0001-0247`) and six Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_019.md` in generation `BA_REFRESH_20260928T032248159554Z`. E020 remains unopened. The episode supplies the immediate social and institutional aftermath of E018's local recovery, with public apologies and promises but without a completed property return, injury audit or accountability disposition."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS21",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E021_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E021_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/021_BLUE_ARCHIVE_MAIN_S2_V002_C002_E021_DEEP_READING.md",
+        "bytes": 6317,
+        "sha256": "5948af7a623a507c716ba2023f142d81027e4308d24be11524d5ea64bd37b32f",
+        "content_git_blob_sha1": "29426befb69e11ec0ed481a7fbef3f646cf1fcda",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E021_DEEP_READING.md",
+            "lines": [
+              1,
+              35
+            ],
+            "output": "04561a",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_C002_E021"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:series2:002:002:021 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after S2 V002 C002 E020; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:series2:002:002:021` is admitted: one scene/raw group `212210`, 103 printed numbered units (`u:0001-0103`) and sixteen Sensei choice groups. Route: `02_CANONICAL_STORIES/MAIN/SERIES2/VOLUME_002/CHAPTER_002/EPISODE_021.md` in generation `BA_REFRESH_20260928T032248159554Z`. This is the final unit of S2 V002 C002; the narration explicitly says `炎と影編;To be Continued in Chapter 3`. The chapter's local NK Ultra reversal is settled by E018 narration, while E021 makes clear that trauma, accountability and the Thunder Emperor's legacy continue."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS22",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/022_BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 64961,
+        "sha256": "545a9d71b8ff27ee449408de7924258aff4481d88b516a077d1ec025834399f1",
+        "content_git_blob_sha1": "05843ddb489270bdafbb96eec23b0a7936c5e586",
+        "actual_current_task_receiving": "EXACT_BOUND_NAVIGATION_CONTEXT_COPY_ONLY_NOT_NEWLY_RECEIVED_OR_USED_AS_SUBSTANTIVE_WARRANT",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS23",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/023_BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+        "bytes": 18854,
+        "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+        "content_git_blob_sha1": "908ea487500b136a1d7753b20f87e8e323acedd0",
+        "actual_current_task_receiving": "EXACT_BOUND_NAVIGATION_CONTEXT_COPY_ONLY_NOT_NEWLY_RECEIVED_OR_USED_AS_SUBSTANTIVE_WARRANT",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V003_C003"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main-story BA:main:003:003:001 through BA:main:003:003:025, read after MAIN_V003_C002 checkpoint and without V003 C004 or side-source evidence"
+          },
+          {
+            "line": 20,
+            "text": "This checkpoint reconciles twenty-five sequential V003 C003 readings, seven longitudinal ledgers, the main-story crosswalk and character coverage index at **149 / 310** canonical main units. The Japanese source is pinned to `electricgoat/ba-data@jp` commit `cbe3fd623c2aab9e781ba0ce0483bc77c68bff86`. The Prologue, V001 C001/C002, V002 C001/C002 and V003 C001/C002 checkpoints remain prior authorities. No V003 C004 episode, group/event/bond/MomoTalk/profile backfill, performed voice, adaptation, wiki or later revelation is admitted. The chapter's epilogue is evidence of continuing lives and threats, not a license to close every legal, medical or political question."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS24",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E004_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E004_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/024_BLUE_ARCHIVE_MAIN_V003_C003_E004_DEEP_READING.md",
+        "bytes": 7680,
+        "sha256": "c05ea3e7f42bfa0d5cb0cb91e078091b6d6bccfad1a006cbf6a03a561fba64a2",
+        "content_git_blob_sha1": "8c73b4bd930ead79983564fface53a8b8397ff98",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E004_DEEP_READING.md",
+            "lines": [
+              1,
+              57
+            ],
+            "output": "b01d85",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V003_C003_E004"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:003:003:004, read after committed C003 E003 and without C003 E005 or side-source evidence"
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS25",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E006_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E006_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/025_BLUE_ARCHIVE_MAIN_V003_C003_E006_DEEP_READING.md",
+        "bytes": 9841,
+        "sha256": "d5a07768734f36ab24cf36c2d3e092a36c1ba62eafa08d1124e56725caa7384b",
+        "content_git_blob_sha1": "ad4f40ba07b5c85784bcc7ffaefca56e6b95231d",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E006_DEEP_READING.md",
+            "lines": [
+              1,
+              69
+            ],
+            "output": "b01d85",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V003_C003_E006"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:003:003:006, read after committed C003 E005 and without C003 E007 or side-source evidence"
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS26",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E007_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E007_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/026_BLUE_ARCHIVE_MAIN_V003_C003_E007_DEEP_READING.md",
+        "bytes": 9373,
+        "sha256": "00dcf0416077a0287cf264094652b30102f6d8492c65969d1e045570e2561bc5",
+        "content_git_blob_sha1": "5928dd4b48c2deabf036c26f23f06d76023248fb",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E007_DEEP_READING.md",
+            "lines": [
+              1,
+              65
+            ],
+            "output": "b01d85",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V003_C003_E007"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:003:003:007, read after committed C003 E006 and without C003 E008 or side-source evidence"
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS27",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E008_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E008_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/027_BLUE_ARCHIVE_MAIN_V003_C003_E008_DEEP_READING.md",
+        "bytes": 6601,
+        "sha256": "298da18c286c4c923e5ad6c9143a3a2da5cd6af87d8298dbe8e64aba8c282669",
+        "content_git_blob_sha1": "39f895056212b04980bcb9010382e3ed827ece3d",
+        "actual_current_task_receiving": "EXACT_BOUND_NAVIGATION_CONTEXT_COPY_ONLY_NOT_NEWLY_RECEIVED_OR_USED_AS_SUBSTANTIVE_WARRANT",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V003_C003_E008"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:003:003:008, read after committed C003 E007 and without C003 E009 or side-source evidence"
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS28",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E010_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E010_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/028_BLUE_ARCHIVE_MAIN_V003_C003_E010_DEEP_READING.md",
+        "bytes": 9391,
+        "sha256": "f378301e2032268d5094b8e4b32eeadc2c32e8a614cbb438cf7b7ec6e324d3bd",
+        "content_git_blob_sha1": "2f4152c9c8c68390751e8403d55832bdc9a28c0c",
+        "actual_current_task_receiving": "EXACT_BOUND_NAVIGATION_CONTEXT_COPY_ONLY_NOT_NEWLY_RECEIVED_OR_USED_AS_SUBSTANTIVE_WARRANT",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V003_C003_E010"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:003:003:010, read after committed C003 E009 and without C003 E011 or side-source evidence"
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS29",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/029_BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md",
+        "bytes": 10050,
+        "sha256": "0b058069cac89d2d0b6eda4eb7dcbd5dca34e2d6bc34427f488bfcebe03b26f9",
+        "content_git_blob_sha1": "29c48ca794c0f76a8791291a82d8800553ef7c6a",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md",
+            "lines": [
+              1,
+              61
+            ],
+            "output": "6631f5",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V003_C003_E016"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:003:003:016, read after committed C003 E015 and without C003 E017 or side-source evidence"
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS30",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E025_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E025_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/030_BLUE_ARCHIVE_MAIN_V003_C003_E025_DEEP_READING.md",
+        "bytes": 6566,
+        "sha256": "214a1ba781d7b0a904a82952269166448f359add29458dd1107f2107d7362185",
+        "content_git_blob_sha1": "36fc2b35c61dc30c19e6e4c46010549220297b8d",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E025_DEEP_READING.md",
+            "lines": [
+              1,
+              49
+            ],
+            "output": "6631f5",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V003_C003_E025"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:003:003:025, read after committed C003 E024 and without C003 checkpoint synthesis, C004 source or side-source evidence"
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS31",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/031_BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md",
+        "bytes": 18759,
+        "sha256": "4a3cd456d3cd21d1b1b60efc6e33c930fd162a72eee1685a82fa89c1515ab59f",
+        "content_git_blob_sha1": "1942836782f92baa7d56aeb9f4be2ca830c63f84",
+        "actual_current_task_receiving": "EXACT_BOUND_NAVIGATION_CONTEXT_COPY_ONLY_NOT_NEWLY_RECEIVED_OR_USED_AS_SUBSTANTIVE_WARRANT",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V003_C004"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main-story BA:main:003:004:001 through BA:main:003:004:027, read after MAIN_V003_C003 checkpoint and without V004 C001 or side-source evidence"
+          },
+          {
+            "line": 20,
+            "text": "This checkpoint reconciles twenty-seven sequential V003 C004 readings, seven longitudinal ledgers, the main-story crosswalk and character coverage index at **176 / 310** canonical main units. The Japanese source is pinned to `electricgoat/ba-data@jp` commit `cbe3fd623c2aab9e781ba0ce0483bc77c68bff86`. Prologue, V001 C001/C002, V002 C001/C002 and V003 C001/C002/C003 checkpoints remain prior authorities. No V004 C001 episode, group/event/bond/MomoTalk/profile backfill, performed voice, adaptation, wiki or later revelation is admitted. E027 closes this chapter's source sequence; it does not resolve every procedure, health question or future threat."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS32",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/032_BLUE_ARCHIVE_MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 22890,
+        "sha256": "96507ac2f5e534c43137b6212f66021bbd8c27292fca112b68aa2e6d6caf745c",
+        "content_git_blob_sha1": "c423835d3d7eb81faa85baff4b50e6b9b6104d92",
+        "actual_current_task_receiving": "EXACT_BOUND_NAVIGATION_CONTEXT_COPY_ONLY_NOT_NEWLY_RECEIVED_OR_USED_AS_SUBSTANTIVE_WARRANT",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS33",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E018_DEEP_READING.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E018_DEEP_READING.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/033_BLUE_ARCHIVE_MAIN_V100_C002_E018_DEEP_READING.md",
+        "bytes": 3882,
+        "sha256": "5e94ba5305402e49242f6225b04ca5029cfa0e0a45bfa97a42b2d0fa8b088271",
+        "content_git_blob_sha1": "df775bf6ab9c5e626dc797422e2bab6676aaa39a",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E018_DEEP_READING.md",
+            "lines": [
+              1,
+              34
+            ],
+            "output": "6631f5",
+            "scope": "whole accepted maintained analytical argument throughEOF in listed contiguous portions; no new underlying primary or performance credit"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V100_C002_E018"
+          },
+          {
+            "line": 6,
+            "text": "status: active_provisional"
+          },
+          {
+            "line": 7,
+            "text": "source_boundary: Canonical Japanese main story BA:main:100:002:018 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, read after V100 C002 E017; 43 newly inserted V001 C003 units separately pending backfill; side sources not admitted"
+          },
+          {
+            "line": 18,
+            "text": "Only `BA:main:100:002:018` is admitted: two scenes/raw groups `102180|102185`, 86 numbered units including next card, no Sensei choice. Route: `02_CANONICAL_STORIES/MAIN/VOLUME_100/CHAPTER_002/EPISODE_018.md` in generation `BA_REFRESH_20260928T032248159554Z`. E019 remains unopened. Especially Scene 002 has role/voice swaps across Ibuki, Izuna, Tsukuyo and Makoto; local outcome is safer than fine-grained speaker reconstruction."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS34",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/034_BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "content_git_blob_sha1": "4712932e1058e7babcc693932caedcfd1a076622",
+        "actual_current_task_receiving": "EXACT_BOUND_NAVIGATION_CONTEXT_COPY_ONLY_NOT_NEWLY_RECEIVED_OR_USED_AS_SUBSTANTIVE_WARRANT",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          },
+          {
+            "line": 72,
+            "text": "source_boundary: \"Accepted MAIN checkpoints and qualified complete supplemental analyses at a038020f1f5ac02dcfe76962426d38f86414cdd8; admission remains cycles001–007 pending cumulative transaction\""
+          },
+          {
+            "line": 73,
+            "text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      },
+      {
+        "input_id": "PS35",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "repository_current_source": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/035_BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 93829,
+        "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+        "content_git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+        "actual_current_task_receiving": "WHOLE_ANALYTICAL_OWNER_ACTUALLY_RECEIVED_WITH_RECORDED_DISPLAY_RECOVERY",
+        "primary_or_performance_credit": 0,
+        "source_class": "ADMITTED_MAINTAINED_ANALYTICAL_ARGUMENT_OR_BOUND_CONTEXT_COPY",
+        "actual_receiving_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              1,
+              120
+            ],
+            "output": "a3e07b",
+            "scope": "whole first portion"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              121,
+              230
+            ],
+            "output": "f68b05",
+            "scope": "display clipped172–184; not complete alone"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              172,
+              180
+            ],
+            "output": "a25365",
+            "scope": "bounded clipping recovery"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              181,
+              184
+            ],
+            "output": "54c8ae",
+            "scope": "remaining bounded clipping recovery"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              231,
+              286
+            ],
+            "output": "a25365",
+            "scope": "complete Ibuki trilogy/connected account portion"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "lines": [
+              287,
+              344
+            ],
+            "output": "de4857",
+            "scope": "complete conclusion and EOF; whole maintained344 actual receiving with clipping recovery"
+          }
+        ],
+        "literal_dated_producer_pin_and_status_fields": [
+          {
+            "line": 4,
+            "text": "scope: MINI32_PHASE2_CONTEXTUALIZATION"
+          },
+          {
+            "line": 6,
+            "text": "status: canonical"
+          },
+          {
+            "line": 40,
+            "text": "source_boundary: \"Exact selected32;30 present canonical whole readings plus2 effective argument reuses; no new admission or performed voice\""
+          },
+          {
+            "line": 41,
+            "text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+          },
+          {
+            "line": 72,
+            "text": "Absolute locator roots: R = series/blue-archive; W = external working receiving archive (not published here); generation = BA_REFRESH_20260928T032248159554Z. Every abbreviated source/argument/ledger route below resolves against these exact roots; no route denotes a new installed artifact."
+          },
+          {
+            "line": 76,
+            "text": "Canonical routes for all32 are individually positively bound by the exact story metadata rows to generation BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MINI/MINI_<ID>.md. Metadata titles/counts/person lists are documentary leads, not source-body receiving. Printed source provenance for new primary is electricgoat/ba-data@a038020f1f5ac02dcfe76962426d38f86414cdd8, DB/ScenarioScriptExcelTable1.json, parser0.2.0; no fresh source hash or raw/native/AV audit was performed. Historical FIRST/SECOND, exposure, custody, independence, lineage and original ownership remain UNKNOWN."
+          }
+        ],
+        "current_status_qualification": "Dated producer admission/frontier/backfill/read-next labels retained historically; current Cycle008 and adopted series controls govern. No dated label is promoted merely by source-copy availability."
+      }
+    ],
+    "actual_complete_input_count": 28,
+    "complete_public_analytical_owner_count": 27,
+    "private_substantive_scope": "PS01 lines420–602 actually received; source_ID metadata1–419 not fresh whole inspected",
+    "navigation_only_ids": [
+      "PS22",
+      "PS23",
+      "PS27",
+      "PS28",
+      "PS31",
+      "PS32",
+      "PS34"
+    ],
+    "primary_performance_credit": 0,
+    "underlying_original_private_MM_replayed_fresh": false,
+    "primary_ambiguity_replay": "None required for current candidate; consequential E860 apology ambiguity resolved from complete accepted current argument L144–146, no raw replay",
+    "exact_current_committed_verification": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/AUTHOR_CURRENT_BF5_35_INPUT_EXACT_VERIFICATION_V1.json",
+      "bytes": 18416,
+      "sha256": "e747ab22afe9399b61f2a7f6f8c413a2aad86d7f4a843602cf72f2ece99f126d",
+      "content_git_blob_sha1": "6a74b126b2a421172f522cdf8b73a9bca8efd435",
+      "splitlines": 326
+    },
+    "prior_custody": "Own frozen Gehenna census at its qualified scopes, not newly independent primary receiving; no transferred ROOT or sibling primary credit",
+    "execution_profile": {
+      "reasoning_class": "DEEP_SYNTHESIS",
+      "model_effort": "inherits current parent; no unobserved model/settings asserted",
+      "tool_runtime": "owner workstation local filesystem",
+      "arrangement": "LOCAL_ONLY bounded source-access exception explicitly allocated by ROOT; human discontinued external artifact handoff",
+      "text_transport_processing_inspection": "VERIFIED at listed small admitted analytical copies/ranges",
+      "audio_or_continuous_AV": "NOT_ASSIGNED_NOT_INSPECTED",
+      "canonical_R_Git_provider_writing": "ROOT_ONLY_NOT_ASSIGNED_TO_AUTHOR",
+      "paid_external_calls": 0
+    },
+    "policy_reread_outputs": {
+      "AGENTS": "b1d526",
+      "authority_state": "19d21a",
+      "authority_scope": "8c327e",
+      "analytical_routing189_to260": "ce2415",
+      "reasoning_policy": "b75c37 first portion plus3b6456 remaining with23032c clipped252–255 recovery",
+      "topology_complete": "fd0d8a",
+      "long_series_complete": "d98092",
+      "handoff_contract": "b75c37 complete final197-line owner with output truncation not extended to a whole four-policy credit"
+    },
+    "frozen_allocation_plan_files": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_ALLOCATION_AND_SOURCE_PLAN_V1/ALLOCATION_SCOPE_AND_SEMANTIC_SOURCE_PLAN_V1.json",
+        "bytes": 36697,
+        "sha256": "87e3f31bc4e1d32ecbd961262e3f52dbcdaca3b80c575ab9d6d98967cec4d149",
+        "content_git_blob_sha1": "bb714a9510893f1104ccca53979f2413ec112309",
+        "splitlines": 739
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_ALLOCATION_AND_SOURCE_PLAN_V1/AUTHOR_COMPLETE_PROPOSAL_MEANING_RECEIVING_RECEIPT_V1.json",
+        "bytes": 2960,
+        "sha256": "52735e2da5e6fc6d62572d253fcbebce1ae847431a7c709c9921e32c3f25c794",
+        "content_git_blob_sha1": "bf6a694baa6bcc5cb46eb86d6adf8a21ef4362f5",
+        "splitlines": 53
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_ALLOCATION_AND_SOURCE_PLAN_V1/build_metadata_proposal.py",
+        "bytes": 24168,
+        "sha256": "e49565dccb2dd680b5c42b6c03fa1f478827f64c54b9fd99c825510c7f2e2609",
+        "content_git_blob_sha1": "2e6f0e020268e74e10b0fc46815fb95a91daa5b1",
+        "splitlines": 266
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_ALLOCATION_AND_SOURCE_PLAN_V1/EXACT_INPUT_SCOPE_AND_CUSTODY_RECEIPT_V1.json",
+        "bytes": 50348,
+        "sha256": "c5d728a6cca0c85e9c71ed0f7152fdf50f493066a6ad88877afa0dfe4294c76d",
+        "content_git_blob_sha1": "12ffbd2e42ba7c007bffbaf8ca8a87d81da4c231",
+        "splitlines": 661
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_ALLOCATION_AND_SOURCE_PLAN_V1/EXACT_METADATA_ALLOCATION_PROPOSAL_MANIFEST_V1.json",
+        "bytes": 4001,
+        "sha256": "0dfdda3976390615bbc91c18e6e72c4bbe345a81f27ae108272c477eb9206a5e",
+        "content_git_blob_sha1": "845ba554c95e1e9e8d57124ca85dfa7d97f064a1",
+        "splitlines": 63
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_ALLOCATION_AND_SOURCE_PLAN_V1/FINAL_METADATA_PROPOSAL_FREEZE_V1.json",
+        "bytes": 4564,
+        "sha256": "508cfe36f31e65d0a749dcd00eaa5026cb7cacdc2956d87c8c2e726fe3d6efa8",
+        "content_git_blob_sha1": "8feba34822109df389461c03041a9c7b74fa8868",
+        "splitlines": 71
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_ALLOCATION_AND_SOURCE_PLAN_V1/FINITE_BINDING_SCOPE_AND_PRESERVATION_VERIFICATION_V1.json",
+        "bytes": 1145,
+        "sha256": "325179290655895548c9db54975331c93b1b4d8fe232c382d2e609ec41475d10",
+        "content_git_blob_sha1": "0a6a3609339a952613e693882da8812886ed8d2a",
+        "splitlines": 21
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_ALLOCATION_AND_SOURCE_PLAN_V1/PUBLIC_OWNER_ROUTE_UNION_V1.json",
+        "bytes": 271293,
+        "sha256": "576fda39a718c0617551ef095ba4be996d12892c9f074e92554a272185530508",
+        "content_git_blob_sha1": "4ebd2743c3ecaffe53e4a507dbde267692d69a67",
+        "splitlines": 4627
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_ALLOCATION_AND_SOURCE_PLAN_V1/ROOT_ALLOCATION_AND_SOURCE_PLAN_GUIDE_V1.md",
+        "bytes": 14747,
+        "sha256": "5b9f027cbca2107fb418ae601a3ced10fa8a2c2db64f1110e2a3e53330f8a0fc",
+        "content_git_blob_sha1": "2643d42fc17791d5e3d13647d2253a4aa047d495",
+        "splitlines": 104
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_ALLOCATION_AND_SOURCE_PLAN_V1/verify_and_freeze_metadata_proposal.py",
+        "bytes": 7160,
+        "sha256": "b7ba996a3ddb9d5f34185025d994a1c191672da5c7c101d587420d4e12224dfb",
+        "content_git_blob_sha1": "de1b55d1a26b2966ccefc2f3ea8e1b8e6ba81d4b",
+        "splitlines": 103
+      }
+    ],
+    "current_new_source_model_count_acceptance_credit": 0,
+    "next_owner": "ROOT independent complete argument and exact input review; no automatic acceptance from author verification"
+  },
+  "public_reference_translation": "All fields survive exact reference translation with full literal inverses and immutable C originals. Original tuples bind original bytes, not this derivative. Complete attachment parts are explicit finite public fields, not omitted content.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PANDEMONIUM_IBUKI_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 362009,
+      "sha256": "575e444af03fb97a9521bdb521e0449293519f88c266fe0dbf2561655599b0d8",
+      "git_blob_oid_of_actual_bytes": "0e591521b4924e8a8838e319ce915fc5565945c7",
+      "attachment_names": [
+        "AUTHOR_CURRENT_BF5_35_INPUT_EXACT_VERIFICATION_V1.json",
+        "AUTHOR_PANDEMONIUM_COMPLETE_FINITE_VERIFICATION_V1.json",
+        "AUTHOR_PRESEAL_SOURCE_PRECISION_CORRECTIONS_V1.json",
+        "AUTHOR_PRESEAL_UNSEALED_DRAFT_HISTORY.md",
+        "PANDEMONIUM_ENSEMBLE_AUTHOR_COMPLETE_RECEIVING_RECEIPT_V1.json",
+        "PANDEMONIUM_ENSEMBLE_CONSEQUENTIAL_ENDPOINT_ARGUMENTS_V1.json",
+        "PANDEMONIUM_ENSEMBLE_FINAL_CANDIDATE_MANIFEST_V1.json"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PANDEMONIUM_IBUKI_ENSEMBLE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 680016,
+      "sha256": "eda0b34b7d36bbd9739c57d93f4d4d82f491cad7d6136435b753caf98458a710",
+      "git_blob_oid_of_actual_bytes": "56f01faa22751343f7decb7a7bea4affaf3b6f11",
+      "attachment_names": [
+        "PANDEMONIUM_ENSEMBLE_SAVED_PARAGRAPH_AND_CLAIM_REGISTER_V1.json",
+        "ROOT_PANDEMONIUM_COMPACT_SEMANTIC_RECEIVING_PROJECTION_V1.json",
+        "ROOT_PANDEMONIUM_COMPLETE_RECEIVING_GUIDE_V1.md",
+        "WORKING_SOURCE_RECEIVING_STATE_V1.json"
+      ]
+    }
+  ],
+  "complete_frozen_manifest": {
+    "status": "FROZEN_AUTHOR_CANDIDATE_EXACT_DELIVERY_NOT_ROOT_ACCEPTANCE",
+    "manifest": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/PANDEMONIUM_ENSEMBLE_FINAL_CANDIDATE_MANIFEST_V1.json",
+      "relative_path": "PANDEMONIUM_ENSEMBLE_FINAL_CANDIDATE_MANIFEST_V1.json",
+      "bytes": 29471,
+      "sha256": "772323b8bc8a395cb83f71394ca692a8590c932b9742b8b0142b997e419ba8d7",
+      "content_git_blob_sha1": "00da68fc6bffccb0a36f7879eb8d79e72fdae698"
+    },
+    "file_count_excluding_freeze": 49,
+    "files": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/AUTHOR_CURRENT_BF5_35_INPUT_EXACT_VERIFICATION_V1.json",
+        "relative_path": "AUTHOR_CURRENT_BF5_35_INPUT_EXACT_VERIFICATION_V1.json",
+        "bytes": 18416,
+        "sha256": "e747ab22afe9399b61f2a7f6f8c413a2aad86d7f4a843602cf72f2ece99f126d",
+        "content_git_blob_sha1": "6a74b126b2a421172f522cdf8b73a9bca8efd435",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/AUTHOR_PANDEMONIUM_COMPLETE_FINITE_VERIFICATION_V1.json",
+        "relative_path": "AUTHOR_PANDEMONIUM_COMPLETE_FINITE_VERIFICATION_V1.json",
+        "bytes": 10101,
+        "sha256": "28bde11e2f4a715b259315b45c4e0e12e3079844fbb91605424447d36ac413b3",
+        "content_git_blob_sha1": "c478d9f471bc602938531bea8121df15ee4878b2",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/AUTHOR_PRESEAL_SOURCE_PRECISION_CORRECTIONS_V1.json",
+        "relative_path": "AUTHOR_PRESEAL_SOURCE_PRECISION_CORRECTIONS_V1.json",
+        "bytes": 51018,
+        "sha256": "ce5cb1dc9447333b9c65b3d377c3761e79c910a51a867e6456fc25d55c798a1b",
+        "content_git_blob_sha1": "e92169b993a322cc68c199de8ba7943b5da51b45",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/AUTHOR_PRESEAL_UNSEALED_DRAFT_HISTORY.md",
+        "relative_path": "AUTHOR_PRESEAL_UNSEALED_DRAFT_HISTORY.md",
+        "bytes": 77969,
+        "sha256": "658dfe4f8598fee957dbd11a61a3507aed6d2ce2bd43b94cb0ab5267b4fc072d",
+        "content_git_blob_sha1": "8281ea00adfac92175faa9199b4f52f86c5bf3e5",
+        "role": "DATED_UNSEALED_HISTORY_NOT_OPERATIVE_BODY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/BLUE_ARCHIVE_PANDEMONIUM_IBUKI_ENSEMBLE_RELATIONSHIP_SYNTHESIS.md",
+        "relative_path": "BLUE_ARCHIVE_PANDEMONIUM_IBUKI_ENSEMBLE_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 78229,
+        "sha256": "2b3d5da8ea84d87f38d2c33417ca6b79dd7600bd2dca3ad7e70797799caf4f15",
+        "content_git_blob_sha1": "7f31551b230316cff1a25feb04c7a3bb939abe0b",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/001_BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "relative_path": "exact_admitted_analytical_inputs/001_BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 57532,
+        "sha256": "3f22db6cbdcd4e184f44bec9a1574fd26226e294694d05cff37c7ff6dbd4530d",
+        "content_git_blob_sha1": "ef5733fa79c59f3ef48312e176b88596c22f36e4",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/002_BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+        "relative_path": "exact_admitted_analytical_inputs/002_BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 38643,
+        "sha256": "caddd6c0c1ec580c91a7115d65c1619ebfb8f5fae399222d999043be479ed349",
+        "content_git_blob_sha1": "1f22aa11f3d42f4e4c18cd2009781abe3e0e818b",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/003_BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+        "relative_path": "exact_admitted_analytical_inputs/003_BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 28709,
+        "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+        "content_git_blob_sha1": "68db40033aca83ee8ecfa3b1d7e60c329fb0b1a6",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/004_BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+        "relative_path": "exact_admitted_analytical_inputs/004_BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 51286,
+        "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+        "content_git_blob_sha1": "5e81647430fe2a3a99df3b94096b18421f903a33",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/005_BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/005_BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+        "bytes": 25362,
+        "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+        "content_git_blob_sha1": "17e378db57541ef25cb16e08f9a4db4e4111bc51",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/006_BLUE_ARCHIVE_MAIN_S2_V002_C001_CHECKPOINT.md",
+        "relative_path": "exact_admitted_analytical_inputs/006_BLUE_ARCHIVE_MAIN_S2_V002_C001_CHECKPOINT.md",
+        "bytes": 11846,
+        "sha256": "5f54c08ed6f23e2940bf614fd1d439ffda1e8e4b51738cadb35fceb2bf9a571d",
+        "content_git_blob_sha1": "04b0a1d2b81a4bfc4ac359f3576ace34d2e8a25b",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/007_BLUE_ARCHIVE_MAIN_S2_V002_C001_E001_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/007_BLUE_ARCHIVE_MAIN_S2_V002_C001_E001_DEEP_READING.md",
+        "bytes": 6176,
+        "sha256": "9661c11f60e8245080ac638e49cf1e85cd3f50bcab8f1c06aecc6ef10c2b5e77",
+        "content_git_blob_sha1": "cb42dcfd28688b7a3ecc7928792a0ac5a60fc321",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/008_BLUE_ARCHIVE_MAIN_S2_V002_C002_CHECKPOINT.md",
+        "relative_path": "exact_admitted_analytical_inputs/008_BLUE_ARCHIVE_MAIN_S2_V002_C002_CHECKPOINT.md",
+        "bytes": 12531,
+        "sha256": "0f436b2ac99019fa337263d05f9ea1778d44afbe790e7692ca8d8e381e1ca499",
+        "content_git_blob_sha1": "48e6fbf86e746444a79a9d37ca54ce1ce70e4d6e",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/009_BLUE_ARCHIVE_MAIN_S2_V002_C002_E001_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/009_BLUE_ARCHIVE_MAIN_S2_V002_C002_E001_DEEP_READING.md",
+        "bytes": 6486,
+        "sha256": "9a7effe00b7fb96f8afd407ac5209b69fd4398a8ddeced5a317d3c3d1fd5199e",
+        "content_git_blob_sha1": "601f6a7a546174645c809f46635a4414f401d956",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/010_BLUE_ARCHIVE_MAIN_S2_V002_C002_E005_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/010_BLUE_ARCHIVE_MAIN_S2_V002_C002_E005_DEEP_READING.md",
+        "bytes": 5702,
+        "sha256": "27da2cdfdac95e5f9e635fba0f3a0e62a18ecaec877455723fefec05f665f63a",
+        "content_git_blob_sha1": "73bb7e05cef3a42fbe208513e995a11c6201956d",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/011_BLUE_ARCHIVE_MAIN_S2_V002_C002_E008_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/011_BLUE_ARCHIVE_MAIN_S2_V002_C002_E008_DEEP_READING.md",
+        "bytes": 5056,
+        "sha256": "04715c20cf2d304a28b3621e705c9e7f690627b45278bcbc23db0d0a760c9330",
+        "content_git_blob_sha1": "41312eb050455eb7bbc872bb393a7d209d5588ae",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/012_BLUE_ARCHIVE_MAIN_S2_V002_C002_E009_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/012_BLUE_ARCHIVE_MAIN_S2_V002_C002_E009_DEEP_READING.md",
+        "bytes": 5204,
+        "sha256": "7d5d069adaac1d642d8e6a7286e34fb7c1d0d9c2a0a95f04e3f80209f1a8a084",
+        "content_git_blob_sha1": "e82b4d4cfdba1d9bfdaccce9124c4baaad9e5624",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/013_BLUE_ARCHIVE_MAIN_S2_V002_C002_E010_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/013_BLUE_ARCHIVE_MAIN_S2_V002_C002_E010_DEEP_READING.md",
+        "bytes": 5092,
+        "sha256": "a5f9cc1bd3c79575b445b06163ba3fe7523db00a22bef0e67e7a4fc83ccda940",
+        "content_git_blob_sha1": "6fd57505915b759252f057b285a7ad69f0239f6c",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/014_BLUE_ARCHIVE_MAIN_S2_V002_C002_E011_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/014_BLUE_ARCHIVE_MAIN_S2_V002_C002_E011_DEEP_READING.md",
+        "bytes": 5310,
+        "sha256": "7ac0ebe9ceb9af399b7d437376bf12d72828dd70b290cfe92a157ae3e7a44b51",
+        "content_git_blob_sha1": "5d23e3eff3bbb6f95bd6b8eaf767b43ff5498419",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/015_BLUE_ARCHIVE_MAIN_S2_V002_C002_E013_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/015_BLUE_ARCHIVE_MAIN_S2_V002_C002_E013_DEEP_READING.md",
+        "bytes": 4983,
+        "sha256": "9e10d9d9a1ae45f7bff9c6d569312502cd3662c61bafda40c678a02e396a983f",
+        "content_git_blob_sha1": "6ed44388dee49fb1761a44c493fda974f1736d0d",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/016_BLUE_ARCHIVE_MAIN_S2_V002_C002_E014_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/016_BLUE_ARCHIVE_MAIN_S2_V002_C002_E014_DEEP_READING.md",
+        "bytes": 7143,
+        "sha256": "3985ded54fbb1e0ee3d18900c1ffdecaff4c328f25d29752dcbfafad6f9d72cf",
+        "content_git_blob_sha1": "a361e08cbf20eafa9ec9fb0f62ae21dc203a1f72",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/017_BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/017_BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+        "bytes": 5222,
+        "sha256": "982ab1a9083ef593cdc3e9517e4a32ed4e8a175c0e4b3899aa8956fd78574740",
+        "content_git_blob_sha1": "73cbe1ddacc3d18eaaafa3e7b5b12d6473659317",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/018_BLUE_ARCHIVE_MAIN_S2_V002_C002_E016_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/018_BLUE_ARCHIVE_MAIN_S2_V002_C002_E016_DEEP_READING.md",
+        "bytes": 5755,
+        "sha256": "2fd971afece388fab193b707aaeb1b32a017850543995f0e521e80d6f3a4f848",
+        "content_git_blob_sha1": "e774dea300bb88c732c07e6a3a38e664824fb0cc",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/019_BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/019_BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+        "bytes": 9189,
+        "sha256": "b44db980586ea8a5dfc6b562bda71cfbb00aa5fb3ea91b4a2e3ade0617fa6a03",
+        "content_git_blob_sha1": "d7902f1ebd40e3e188674a35484b14650127b1cb",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/020_BLUE_ARCHIVE_MAIN_S2_V002_C002_E019_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/020_BLUE_ARCHIVE_MAIN_S2_V002_C002_E019_DEEP_READING.md",
+        "bytes": 6937,
+        "sha256": "441ff589c38e735330c452e0a18678f2fcdc9f606c2df46cf37be8c9eaf353fc",
+        "content_git_blob_sha1": "992e3cf283d81df9b4d8a76ebde2bd0856e87676",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/021_BLUE_ARCHIVE_MAIN_S2_V002_C002_E021_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/021_BLUE_ARCHIVE_MAIN_S2_V002_C002_E021_DEEP_READING.md",
+        "bytes": 6317,
+        "sha256": "5948af7a623a507c716ba2023f142d81027e4308d24be11524d5ea64bd37b32f",
+        "content_git_blob_sha1": "29426befb69e11ec0ed481a7fbef3f646cf1fcda",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/022_BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "relative_path": "exact_admitted_analytical_inputs/022_BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 64961,
+        "sha256": "545a9d71b8ff27ee449408de7924258aff4481d88b516a077d1ec025834399f1",
+        "content_git_blob_sha1": "05843ddb489270bdafbb96eec23b0a7936c5e586",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/023_BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+        "relative_path": "exact_admitted_analytical_inputs/023_BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+        "bytes": 18854,
+        "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+        "content_git_blob_sha1": "908ea487500b136a1d7753b20f87e8e323acedd0",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/024_BLUE_ARCHIVE_MAIN_V003_C003_E004_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/024_BLUE_ARCHIVE_MAIN_V003_C003_E004_DEEP_READING.md",
+        "bytes": 7680,
+        "sha256": "c05ea3e7f42bfa0d5cb0cb91e078091b6d6bccfad1a006cbf6a03a561fba64a2",
+        "content_git_blob_sha1": "8c73b4bd930ead79983564fface53a8b8397ff98",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/025_BLUE_ARCHIVE_MAIN_V003_C003_E006_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/025_BLUE_ARCHIVE_MAIN_V003_C003_E006_DEEP_READING.md",
+        "bytes": 9841,
+        "sha256": "d5a07768734f36ab24cf36c2d3e092a36c1ba62eafa08d1124e56725caa7384b",
+        "content_git_blob_sha1": "ad4f40ba07b5c85784bcc7ffaefca56e6b95231d",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/026_BLUE_ARCHIVE_MAIN_V003_C003_E007_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/026_BLUE_ARCHIVE_MAIN_V003_C003_E007_DEEP_READING.md",
+        "bytes": 9373,
+        "sha256": "00dcf0416077a0287cf264094652b30102f6d8492c65969d1e045570e2561bc5",
+        "content_git_blob_sha1": "5928dd4b48c2deabf036c26f23f06d76023248fb",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/027_BLUE_ARCHIVE_MAIN_V003_C003_E008_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/027_BLUE_ARCHIVE_MAIN_V003_C003_E008_DEEP_READING.md",
+        "bytes": 6601,
+        "sha256": "298da18c286c4c923e5ad6c9143a3a2da5cd6af87d8298dbe8e64aba8c282669",
+        "content_git_blob_sha1": "39f895056212b04980bcb9010382e3ed827ece3d",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/028_BLUE_ARCHIVE_MAIN_V003_C003_E010_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/028_BLUE_ARCHIVE_MAIN_V003_C003_E010_DEEP_READING.md",
+        "bytes": 9391,
+        "sha256": "f378301e2032268d5094b8e4b32eeadc2c32e8a614cbb438cf7b7ec6e324d3bd",
+        "content_git_blob_sha1": "2f4152c9c8c68390751e8403d55832bdc9a28c0c",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/029_BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/029_BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md",
+        "bytes": 10050,
+        "sha256": "0b058069cac89d2d0b6eda4eb7dcbd5dca34e2d6bc34427f488bfcebe03b26f9",
+        "content_git_blob_sha1": "29c48ca794c0f76a8791291a82d8800553ef7c6a",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/030_BLUE_ARCHIVE_MAIN_V003_C003_E025_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/030_BLUE_ARCHIVE_MAIN_V003_C003_E025_DEEP_READING.md",
+        "bytes": 6566,
+        "sha256": "214a1ba781d7b0a904a82952269166448f359add29458dd1107f2107d7362185",
+        "content_git_blob_sha1": "36fc2b35c61dc30c19e6e4c46010549220297b8d",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/031_BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md",
+        "relative_path": "exact_admitted_analytical_inputs/031_BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md",
+        "bytes": 18759,
+        "sha256": "4a3cd456d3cd21d1b1b60efc6e33c930fd162a72eee1685a82fa89c1515ab59f",
+        "content_git_blob_sha1": "1942836782f92baa7d56aeb9f4be2ca830c63f84",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/032_BLUE_ARCHIVE_MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "relative_path": "exact_admitted_analytical_inputs/032_BLUE_ARCHIVE_MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 22890,
+        "sha256": "96507ac2f5e534c43137b6212f66021bbd8c27292fca112b68aa2e6d6caf745c",
+        "content_git_blob_sha1": "c423835d3d7eb81faa85baff4b50e6b9b6104d92",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/033_BLUE_ARCHIVE_MAIN_V100_C002_E018_DEEP_READING.md",
+        "relative_path": "exact_admitted_analytical_inputs/033_BLUE_ARCHIVE_MAIN_V100_C002_E018_DEEP_READING.md",
+        "bytes": 3882,
+        "sha256": "5e94ba5305402e49242f6225b04ca5029cfa0e0a45bfa97a42b2d0fa8b088271",
+        "content_git_blob_sha1": "df775bf6ab9c5e626dc797422e2bab6676aaa39a",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/034_BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "relative_path": "exact_admitted_analytical_inputs/034_BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "content_git_blob_sha1": "4712932e1058e7babcc693932caedcfd1a076622",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/exact_admitted_analytical_inputs/035_BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "relative_path": "exact_admitted_analytical_inputs/035_BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 93829,
+        "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+        "content_git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+        "role": "EXACT_ADMITTED_ANALYTICAL_INPUT_COPY"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/PANDEMONIUM_ENSEMBLE_AUTHOR_COMPLETE_RECEIVING_RECEIPT_V1.json",
+        "relative_path": "PANDEMONIUM_ENSEMBLE_AUTHOR_COMPLETE_RECEIVING_RECEIPT_V1.json",
+        "bytes": 7700,
+        "sha256": "76bf21dc62b73ad88859ef39aae0c34a435adbbaecf1a9b71368f8f444615fad",
+        "content_git_blob_sha1": "6f678351bb120d788cab09d48c568b85cd39123c",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/PANDEMONIUM_ENSEMBLE_CONSEQUENTIAL_ENDPOINT_ARGUMENTS_V1.json",
+        "relative_path": "PANDEMONIUM_ENSEMBLE_CONSEQUENTIAL_ENDPOINT_ARGUMENTS_V1.json",
+        "bytes": 153194,
+        "sha256": "d8fcca0909773ec446291aa8658940601f5f073727b9ff096b45cb3247d89282",
+        "content_git_blob_sha1": "155c5f5abe83db9e058fb627b99c48c6af5bc02e",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/PANDEMONIUM_ENSEMBLE_SAVED_PARAGRAPH_AND_CLAIM_REGISTER_V1.json",
+        "relative_path": "PANDEMONIUM_ENSEMBLE_SAVED_PARAGRAPH_AND_CLAIM_REGISTER_V1.json",
+        "bytes": 460323,
+        "sha256": "590b30ed8c577044346efee668a2afe4a0539b1c9167842e34405b5b28a5484f",
+        "content_git_blob_sha1": "a8bcaddf76c4cf42cf4d9435b41d4435362da0f9",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/PANDEMONIUM_ENSEMBLE_SOURCE_AND_RECEIVING_RECEIPT_V1.json",
+        "relative_path": "PANDEMONIUM_ENSEMBLE_SOURCE_AND_RECEIVING_RECEIPT_V1.json",
+        "bytes": 116924,
+        "sha256": "8f47cfb1120200cc8043253ba289f76b6b6fa4ff318e5b086910184cf9449c33",
+        "content_git_blob_sha1": "631e8a474b2da94826710a01d8b5d7eb5f31b160",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/ROOT_PANDEMONIUM_COMPACT_SEMANTIC_RECEIVING_PROJECTION_V1.json",
+        "relative_path": "ROOT_PANDEMONIUM_COMPACT_SEMANTIC_RECEIVING_PROJECTION_V1.json",
+        "bytes": 100318,
+        "sha256": "d2c6cff484ef1d2517f8f181cf5782070ae8c434df506de1572df4ca40fff380",
+        "content_git_blob_sha1": "b42cb84d5c62ca7b2c2d66d9b11fb5038462f569",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/ROOT_PANDEMONIUM_COMPLETE_RECEIVING_GUIDE_V1.md",
+        "relative_path": "ROOT_PANDEMONIUM_COMPLETE_RECEIVING_GUIDE_V1.md",
+        "bytes": 4776,
+        "sha256": "44c2d508938ebe7aa576f88fb84d09c1c79ac9e6449dd658503f3a4b0589163d",
+        "content_git_blob_sha1": "ca2cc3380c2ddfaf27b94f27946e553b84fa2023",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/verify_pandemonium_finite.py",
+        "relative_path": "verify_pandemonium_finite.py",
+        "bytes": 7639,
+        "sha256": "b57beb73b70005e26f01c43049e4d84d3b39de89b19fa4abd42e3d85bce58834",
+        "content_git_blob_sha1": "0cfe8979825bd426056744fa01f3421147949300",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/WORKING_SOURCE_RECEIVING_STATE_V1.json",
+        "relative_path": "WORKING_SOURCE_RECEIVING_STATE_V1.json",
+        "bytes": 50873,
+        "sha256": "b5ac03b4b9a319dd5baebfcf28959b00cb8dc1003634fcd6f9852b95ea0f40d3",
+        "content_git_blob_sha1": "0c5c19db12d6d86c94d1bebe4ccc272cc7653ed8",
+        "role": "AUTHOR_CANDIDATE_RECEIVING_OR_VERIFICATION_PAYLOAD"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/PANDEMONIUM_ENSEMBLE_FINAL_CANDIDATE_MANIFEST_V1.json",
+        "relative_path": "PANDEMONIUM_ENSEMBLE_FINAL_CANDIDATE_MANIFEST_V1.json",
+        "bytes": 29471,
+        "sha256": "772323b8bc8a395cb83f71394ca692a8590c932b9742b8b0142b997e419ba8d7",
+        "content_git_blob_sha1": "00da68fc6bffccb0a36f7879eb8d79e72fdae698"
+      }
+    ],
+    "directory": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS",
+    "all_opened_files_below_1MiB": true,
+    "unbound_or_unpublished_content_reads_hashes": 0,
+    "new_primary_performance_model_count_credit": 0,
+    "R_Git_provider_mutations": 0
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/PANDEMONIUM_ENSEMBLE_FINAL_FREEZE_V1.json",
+    "bytes": 30081,
+    "sha256": "bdd5146c867435bf066ac157bf9405f861e9796d3129e81078135301c452d25f",
+    "git_blob_oid_of_actual_bytes": "774385b05986ebc6fd23bdda63eed5df0e834361",
+    "immutable_transport_path": "immutable_originals/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/PANDEMONIUM_ENSEMBLE_FINAL_FREEZE_V1.json"
+  },
+  "original_body_exact_tuple": {
+    "path": "PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/BLUE_ARCHIVE_PANDEMONIUM_IBUKI_ENSEMBLE_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 78229,
+    "sha256": "2b3d5da8ea84d87f38d2c33417ca6b79dd7600bd2dca3ad7e70797799caf4f15",
+    "git_blob_oid_of_actual_bytes": "7f31551b230316cff1a25feb04c7a3bb939abe0b",
+    "immutable_transport_path": "immutable_originals/PANDEMONIUM_IBUKI_ENSEMBLE_SYNTHESIS/BLUE_ARCHIVE_PANDEMONIUM_IBUKI_ENSEMBLE_RELATIONSHIP_SYNTHESIS.md"
+  },
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_PANDEMONIUM_IBUKI_ENSEMBLE_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 81066,
+    "sha256": "6eb393ff3f1367ab857b6805950c20edcca4ec916cee8ee27b81f5fcee07cca3",
+    "git_blob_oid_of_actual_bytes": "0be146a8cf97cba4d087352b26bf1bfba73bb9c5"
+  },
+  "canonical_link_translations": [],
+  "mandatory_operative_qualification": "The operative original is338 lines, including both substantial Makoto→Ibuki and Iroha→Ibuki directions. These named DIRECTED_RELATIONSHIP-kind duties add no counted parent. All29 preseal precision inverses and unsealed-history qualifications survive. Actual apologies, refused plans, chosen company and local rescue remain distinct from promises, dreams, reports and unprinted repair. Five character portraits and institutional work cannot proxy this ensemble."
+}

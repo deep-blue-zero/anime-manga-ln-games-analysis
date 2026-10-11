@@ -12,7 +12,7 @@ merge_approval: RESERVED
 source_boundary: "Accepted textual analytical meanings at main2e2018d0d62d91e3e0a5e7681f72a31cec08e02c, with qualified historical c1f14d5120c29209ca571fea8d7cfbe111076ec5 and original earlier MAIN producer pins retained at their declared scopes; current scope control355/29; performed material unreceived"
 artifact_type: character_monograph
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 do_not_use_as_current_authority: false
 canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md
@@ -22,9 +22,12 @@ ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL
 updated: 2026-10-10
 supersedes: []
 superseded_by: []
+limited_maintenance_receipt: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_BIRTHDAY_CURRENT_NORMAL_PRECISION_AND_FULL_INVERSE_V1.json
 ---
 
 # Hina — the wanted life of a powerful, answerable student
+
+**Limited maintenance — 2026-10-10.** Version1.1 corrects only the birthday atmosphere sentence against the current MINI32 argument. The [precision record and complete inverse](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HINA_BIRTHDAY_CURRENT_NORMAL_PRECISION_AND_FULL_INVERSE_V1.json) preserves the complete version1.0 beforeimage. All other literary claims and the package, named-duty, source and model credit remain unchanged.
 
 ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HINA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HINA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Source publication, main integration, separately required directed/institutional packages and full eligible-cast completion remain separate.
 
@@ -146,7 +149,7 @@ Hina's own power can likewise intrude on Sensei. GROUP1102 first supplies apolog
 
 The E021 aftermath does give Sensei's reassurance and Hina's renewed resolve, embarrassment and request that he remain beside her. These are local relational acts and commitments; the exclusive alternatives are not a single inspected playthrough. Printed heart-voice lines receiving replies do not establish an acoustic inaudibility rule. Most importantly, reassuring the powerful student is not the same activity as consulting the people affected by her institution. A literary reading can see why the reassurance helps her continue while still requiring separate accountability. [MA §§2,5]
 
-The case against an exclusively adult-authored transformation is direct. Ako handles work with peers, Hina praises that reliance, and she initiates an invitation to share the campfire. Kisaki, Rumi, Mina, Ako, Chinatsu and others author a birthday occasion; Reijo challenges the claim that the teacher's arrival transformed the atmosphere because it was already lively. Meg's offered snack is accepted with thanks without an adult turn. Hina's own volunteering and parole petition are not shown as commands by Sensei. The teacher is important, but importance neither makes every other relation derivative nor proves that ordinary agency exists only when he is present. [E818016; MINI05030; G3502; E848023; V006C003]
+The case against an exclusively adult-authored transformation is direct. Ako handles work with peers, Hina praises that reliance, and she initiates an invitation to share the campfire. Kisaki, Rumi, Mina, Ako, Chinatsu and others author a birthday occasion; Reijo challenges the claim that the teacher's arrival transformed the atmosphere; the current MINI32 argument describes the earlier atmosphere as cold. Meg's offered snack is accepted with thanks without an adult turn. Hina's own volunteering and parole petition are not shown as commands by Sensei. The teacher is important, but importance neither makes every other relation derivative nor proves that ordinary agency exists only when he is present. [E818016; MINI05030; G3502; E848023; V006C003]
 
 The literary consequence is a relationship of desired finite access rather than total availability. Hina can want special listening and some private attention, be disappointed or embarrassed, object and later laugh, help and receive help. A romantic reading has evidence in dedication, affect and wanted company, but the monograph does not adjudicate a permanent exclusive romance, future guarantees or unrestricted intimacy. Preserving that uncertainty does not downgrade the scenes: the actual work, rest, pleasure, refusal and reciprocal invitation already constitute substantial relationship meaning.
 

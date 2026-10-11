@@ -1,0 +1,186 @@
+{
+  "schema": "BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+  "current_scope": "355 required packages;29 non-denominator mandatory substantial named duties across25 distinct parent packages; literal kinds18 SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE",
+  "dated_source_beforeimage_witness": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "dated_source_tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "accepted_merged_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "commit_custody_qualification": "7546 source and b76 squash main have the same e9 tree; distinct commit and audit custody is preserved. This preparer performed no fetch, local reconciliation, merge or new remote observation.",
+  "fixed_preparation_snapshot": {
+    "packages": [
+      90,
+      101
+    ],
+    "new_packages": 12,
+    "after_complete_ROOT_install": 101,
+    "characters": 89,
+    "directed_relationships": 6,
+    "ensembles": 3,
+    "institutions": 3,
+    "named_duties_after_complete_ROOT_install": 3,
+    "previous_merged_packages": 89,
+    "next_milestone": 178,
+    "later_live_acceptances_excluded": true
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "Original pending/local/counter/source-capture/receiving fields retain creation-time meaning. The separate complete ROOT acceptance controls current literary judgment; the accepted milestone control supersedes only earlier first-milestone pending states. No author physical source receiving is inferred retrospectively.",
+  "original_exact_tuple": {
+    "path": "ROOT_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5209,
+    "sha256": "9d484ac64a8648a1ffa6f61f71c16d3319f865476eb7149749d6ec3160d70727",
+    "git_blob_oid_of_actual_bytes": "fe60acc4c9692c55996dbc99522d9be94c0db2c9",
+    "immutable_transport_path": "immutable_originals/ROOT_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_COMPLETE_DIRECTED_RELATIONSHIP_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_DIRECTED_RELATIONSHIP_BOUNDARY_WITH_LIMITS",
+    "mandatory_operative_body": "162-line original as-is; metadata and two link-only canonical translations",
+    "frozen_payloads": 4,
+    "exact_small_R_inputs": 4,
+    "adequate_literary_method_R_owners": 2,
+    "historical_C_inputs": 3,
+    "prior_frozen_payloads_preserved": 47,
+    "paragraph_joins": 61,
+    "endpoints": 25,
+    "rivals": 10,
+    "sections": 11,
+    "link_only_canonical_translations": 2,
+    "fourteen_original_literal_gaps": "OPEN",
+    "ROOT_actual_receiving": {
+      "whole_body": [
+        "e24d0c1–60",
+        "a545fc61–115",
+        "5ebb59116–162EOF"
+      ],
+      "all_source_scopes_and_controls": "f55b89 all meaningful controls/home/five directions/2links/14gaps;92dcad all4 R scopes;133665 all3 historicalC scopes;d8bc20 all4 actual exact R tuples and current/historical scope qualification",
+      "all25_endpoints": [
+        "b438c80–13",
+        "96230d13–25EOF"
+      ],
+      "all10_rivals": "5ebb59 complete ten whole arguments;3a3feb all ten complete rival/claim joins and first SC001",
+      "complete_saved_author_controls": "886a5f whole50 saved and schema;3a3feb all nonrepeated authorfreeze fields/all4 outputs and all nonprojection claim/precision/overlap/provenance fields; exact47-preserved and61-join proof is separate from prose receiving",
+      "complete_necessary_normal_meaning": "1874f9 current MINI32 §6 L134–152 complete all three MINI040 object meanings/endings, not fresh whole344/all32 original primaries. aeb314 complete historical producer authority63–80; b438c8 current1–62 includes55/60 qualified current admitted controls superseding earlier pending labels.",
+      "no_new_credit": "Copied exact source tuples and present control rows are binding, not source admission, original-primary/raw/native/QA/audio/video, original-author independence, whole344 or full851 credit."
+    },
+    "semantic_grounds": [
+      "Paid daily shop work and sincere recognition coexist. Wages, routine, cleaning, meals, gifts, comfort, holiday wishes and chosen company remain intrinsic evidence.",
+      "All five recipient directions remain independent: Hina can refuse schedule disclosure while offering guidance, Kazusa can give an actual macaron/apology while setting limits, Yuuka provides conditional answerability without global incompetence, Miyako thanks and declines a meal while choosing Sensei, Sensei repairs gift attribution while failing initially to communicate.",
+      "Actual promotion drink, macaron gift, practical turkey receipt and opened light warm fitting gloves retain finite positive ends. Turkey/macaron consumption, future guidance/holiday/coupon repayment and completed next meal are unprinted.",
+      "Rumor, actor labels, shifts, inverted speaker cases, Miyako-like Sora label, choice alternatives and recalled earlier phrases stay qualified. Recalled phrases do not prove physical attendance, and two alternatives do not become a single enacted measurement protocol.",
+      "Gift happiness and continued suspicion coexist. Material fit does not settle every privacy concern, blanket observational permission, universal adult virtue, romance or permanent access entitlement.",
+      "One already allocated broader Sora customers/Sensei directed home is accepted; character, institutional, wholeMAIN and other directed packages remain distinct. All ten serious rivals, eleven dimensions and fourteen OPEN limits survive."
+    ],
+    "scope_denominator": "355 required packages plus29 mandatory named sections unchanged;788 navigation identities unchanged",
+    "progress": {
+      "previous_ROOTaccepted_packages": 90,
+      "new_directed_relationship_package": 1,
+      "total_ROOTaccepted_packages": 91,
+      "character_packages": 84,
+      "directed_relationship_packages": 5,
+      "ensemble_packages": 2,
+      "published_remote_packages": 73,
+      "published_source_commit": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+      "canonical_persistence": "PENDING_NEXT_EXACT_CANONICAL_ADOPTION",
+      "first_quarter": "EXCLUDED_FROM_FIXED74_TO89",
+      "goal_25_percent_complete": false
+    },
+    "new_primary_native_raw_QA_AV_model_credit": 0,
+    "nine_unbound_large": "UNOPENED_UNREAD_UNHASHED",
+    "R_Git_provider_writes": false,
+    "main_integration": "NONE",
+    "checked_at": "2026-10-10T17:37:13.390522+00:00",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SORA_CUSTOMERS_SENSEI/BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 36913,
+      "lines": 162,
+      "sha256": "2778d459d5f35578e62b547aa38e33cd2d1724e173c6c87656c4b9241652d1ad"
+    },
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+    "existing_home": "P3-REL-SORA-CUSTOMERS-SENSEI",
+    "current_main_comparisons": {
+      "same": 1,
+      "architecture_different_qualified": 1,
+      "scope_controls_not_on_main": 2
+    }
+  },
+  "public_reference_translation": "Every original field survives exact reference translation. Original tuples bind original bytes, not derivative bytes; full immutable C transports and literal inverses are retained.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SORA_CUSTOMERS_SENSEI_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 39283,
+    "sha256": "7cf2ba978e64f2ba43ec76bf61a6ed335ed1c9a2816d0958b0daf16422f50f38",
+    "git_blob_oid_of_actual_bytes": "39d923c012088f97611b2e9f731824dc78b3eca6"
+  },
+  "authority_framing_changes": [
+    {
+      "kind": "CURRENT_ROOT_AUTHORITY_FRAMING_ONLY",
+      "before": "complete bounded literary candidate; independent ROOT receiving and canonical adoption pending.",
+      "after": "frozen complete bounded literary argument; ROOT independently accepted WITH LIMITS; canonical persistence begins only through complete ROOT installation.",
+      "occurrences": 1
+    }
+  ],
+  "mandatory_operative_qualification": "162-line original as-is; metadata and two link-only canonical translations"
+}
