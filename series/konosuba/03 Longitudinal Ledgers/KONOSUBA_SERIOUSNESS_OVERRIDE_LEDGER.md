@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V09
+scope: V01-V10
 ledger_role: seriousness_override
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V09 main narrative
+source_boundary: Japanese main-series light novels through V10 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Seriousness Override Ledger — Through V09
+# KONOSUBA Seriousness Override Ledger — Through V10
 
 ## Purpose
 
@@ -328,3 +328,66 @@ His later regret and continued desire are explicit, so the episode does not impl
 ## General V09 refinement
 
 Seriousness reorders priorities through particular people, roles, histories, and perceived stakes. It may restore cooperation, recruit pride into competent labor, prevent an action, make a painful action possible, or redirect intimacy into care. It does not erase competing impulses, guarantee sound procedure, or finish the emotional work at the same instant as the practical problem.
+
+
+# V10 Update
+
+**Evidence boundary:** V10 Japanese main narrative only. Pr/C1/C2/C3/C4/C5/Ep = `text/part0009.html`–`text/part0015.html`; all-body paragraph locators include blank/image paragraphs. V10–V12 remains open under frozen Gen03. “Seriousness” tracks changed priorities or control, not a permanently improved personality.
+
+## SO-V10-01 — A concrete personal objection can change Kazuma's method
+
+When Megumin explicitly objects to the selective attention he gives Iris, Kazuma becomes flustered and offers to find another method rather than compel the whole party to accept the escort job. Megumin then agrees because Iris matters to her too. His concern is therefore negotiable within a valued relationship, although his inner future-marriage caveat for Iris immediately qualifies his unambiguous “only a sister” self-description. (C1 P0175–0196.)
+
+Later, Iris physically removes him from the prince's vicinity, explains the financial stakes and asks restraint for her sake. He suppresses his anger, yet resumes negotiation with an apology that includes a threat to unleash the other companions. **Care changes the immediate method; it does not necessarily produce gentle language or abandon coercion.** (C3 P0649–0662.) This distinction preserves the adverse Kazuma-care voice window in J01 while recognizing actual restraint.
+
+## SO-V10-02 — Darkness's state duty begins coercively and changes after a personal argument
+
+Her initial response to the diplomatic risk is to imprison Kazuma for three days and, when that fails, plan to drug him through the visit. The source explicitly supplies a state-related reason; reducing these events to frustrated sexual desire would omit her expressed duty. Yet her method also creates a situation in which intimacy, embarrassment and control struggles displace the official purpose. (C1 P0053–0073; C2 P0046–0054; C3 P0332–0447.)
+
+After Kazuma distinguishes unwanted marriage from Iris's own freely desired choice and recalls rescuing Darkness from a forced marriage, she abandons the restraint plan, promises to take responsibility, and offers family backing. Her reluctance to surrender the pendant persists. This is a priority negotiation between duty, trust and personal history, not proof that her institutional concerns disappear or that the resulting oversight is sound. (C3 P0452–0474.)
+
+## SO-V10-03 — Iris's request activates real assistance without guaranteeing sober judgment
+
+Kazuma's sustained work supports Iris's aid mission: he uses information heard in town to reopen the negotiation, benefits from Darkness's intelligence about the prince, conducts repeated coin contests, and later develops a casino route. He promises help before the final success is secure. His independent motives include possession of the brother role, retaliation, personal display and rewards; the instrumental help remains real. (C3 P0613–0643; C4 P0017–0020, P0139–0154, P0244–0293; C5 P0207–0239, P0247–0342.)
+
+The failed nighttime false-flag plan is part of the same attempt and must remain in the account. Good intentions do not erase the loud Explosion, undead complication, arrest and subsequent use of noble power to stop scrutiny. (C4 P0286–0342, P0474–0481.) The strongest model is entrusted responsiveness with variable method quality, not automatic wise leadership.
+
+## SO-V10-04 — Protection is clearest when action and allocation precede the speech
+
+Against the golden dragon, Darkness moves forward while the others freeze, draws attention with Decoy and asks Iris to attack safely behind her. She explicitly recognizes her own offensive limitation. Kazuma then assigns Explosion as a contingency, Aqua buffs Darkness and Iris, and Iris executes the kill. (C5 P0097–0126, P0147–0148.)
+
+This is a strong local duty override because positioning, attention control and risk allocation are visible before or alongside the lofty family framing. It does not demonstrate that Darkness could withstand every attack the dragon might have made: the dragon hesitates and Iris's decisive strike arrives first (P0118–0126). Nor does retaining Explosion as a contingency establish an actual terminal Explosion test or a known grave-harm-to-companion trigger for M03/M05.
+
+## SO-V10-05 — Aqua's reluctant bargaining can end in useful execution
+
+Aqua protests the dragon mission and tries to extract a promise that her religion become the state religion. Iris's personal request, assurance of protection and explicit need for support precede her agreement. During the encounter Aqua actually applies defense and attack support while complaining about Kazuma's limited participation. (C5 P0032–0043, P0102–0111.)
+
+Fear and self-regard are not absent; they coexist with completed domain work. This is a task-specific execution observation. It does not by itself provide A03's sustained recognition-linked ownership pattern, and the accompanying speech does not supply enough practical directives to confirm a battle-service register shift under J01. Her earlier fugu failure remains a separate availability failure despite real poison immunity (C1 P0252–0279).
+
+## SO-V10-06 — A threat to Iris changes Darkness's use of the captive situation
+
+After recognizing the false Kazuma, Darkness still enjoys the hostage/restraint scenario and requests a particular cruel line from him. The fact that a situation is involuntary therefore does not automatically suppress this motive. Her embarrassment becomes acute when the real Kazuma sees the display. (C5 P0567–0579.)
+
+When Ragcraft announces an intention to harm Iris, Darkness struggles, attempts to batter the closet, and then uses her teeth to move Kazuma's gag. After he understands, they coordinate Tinder and her superior strength to escape. Here protecting another changes her action, while Kazuma's momentary sexual reading of their proximity is corrected by her practical purpose. (C5 P0612–0618, P0622–0657.) The former D02 audience branch is meaningful, but coercive control alone is not a sufficient predictor of refusal.
+
+## SO-V10-07 — Urgency does not remove every digression or guarantee rescue primacy
+
+Kazuma and Darkness hurry to find Iris, but he stops to question why Darkness came to his room and converts her admission into sexual teasing. Aqua and Megumin's accusations about the double create a further argument before he explains the threat. The party's rescue intent is real, and its progress is imperfect. Iris delivers the decisive attack as Kazuma and Darkness try to open her door; they see the defeated infiltrator afterward without having intervened. (C5 P0659–0707.)
+
+Consequently, do not attribute the final neutralization to their rescue effort, infer the exact seduction offered to Iris, or turn the earlier fake-Megumin visit into actual Megumin's intimate initiative. Their escape cooperation is independently valuable without inflating the causal share of the final kill.
+
+## SO-V10-08 — Compassion can redirect another person's choice without proving the narrator's whole interpretation
+
+After the chancellor discloses the agreement with the Demon Army, Iris acknowledges the prince's survival problem, offers to preserve relations and asks him not to look so distressed. Levi then makes a fresh gamble on Belzerg defeating the Demon King. This sequence gives a concrete compassionate intervention and a changed decision. (C5 P0418–0464.)
+
+Kazuma describes her as unable to be selfish and unusually perceptive. Preserve that as his appraisal alongside her actual assertive conduct: repeated visits, powerful challenges, forced entry and a direct monster-slaying offer earlier in the same mission (C3 P0686–0695; C4 P0562–0610). Her perception that Levi did not truly hate her is later consistent with his admitted distancing strategy, but it does not make every claimed judgment of people infallible (C5 P0754; Ep P0029–0032). I02's exact private-wish/duty-conflict conjunction is not supplied merely by this kindness or by the marriage plot.
+
+## SO-V10-09 — The narrowed tears hypothesis is not a general moral certificate
+
+The toileting scene depicts Darkness as near tears/tearful-eyed while Kazuma continues the interaction and admits enjoying the harassment (C1 P0123–0132). The nighttime confrontation produces humiliation and a broken-off, crying-like utterance from Darkness while Megumin intensifies the bullying (C3 P0447–0451). Neither passage unambiguously establishes that Kazuma notices actual shedding tears during his own personal intimate/teasing pursuit; the latter's overt active tormentor is Megumin. Retain these as distress boundaries and potential interpretive uncertainties, **not as a successful K04 interruption or an invented stronger trigger**.
+
+A game opponent is described as crying/half-crying, casino staff plead, and Kazuma continues exploiting the situations (C3 P0210–0216; C5 P0283, P0299, P0384–0398). Those are actual adverse observations against universal kindness, but the people are not valued companions in K04's specified interaction. On the exact frozen compound trigger, V10 does not provide a clear matched K04 test. This does not rehabilitate the earlier harassment or make the absence of a narrow trigger permission to ignore other refusals.
+
+## V10 seriousness conclusion
+
+Concrete requests and specific endangered relationships can reorganize behavior, but competing motives and flawed procedures survive the reorganization. The main protective changes are visible in Iris's own agency, Darkness's positioning and escape initiative, Aqua's performed support, and Kazuma's persistent help plus tactical revision. The volume also preserves harassment, coercive status use, defensive narration and competitive interference. No uniform “serious personality” replaces the comic one, and no future behavior has been inferred from unread volumes.

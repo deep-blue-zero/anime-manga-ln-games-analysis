@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V09
+scope: V01-V10
 ledger_role: humor_mechanics
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V09 main narrative
+source_boundary: Japanese main-series light novels through V10 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Humor Mechanics Ledger — Through V09
+# KONOSUBA Humor Mechanics Ledger — Through V10
 
 ## Core V01 mechanisms
 
@@ -370,3 +370,64 @@ The sequence does not end solely through an external interruption: after the int
 No load-bearing V09 motive claim above requires an event to be classified as wholly nonliteral H4. Supernatural repair, restraint, and destructive magic operate as causal facts within this novel. Exact comic magnitude and bodily timing receive H2/H3 limits where appropriate; their fantasy status alone is not grounds for discarding them.
 
 Major comic sequences remain predominantly situational, causal, status-based, and pragmatic. Two local form-sensitive effects deserve explicit preservation: the different readings of the written charm/babysitting term, and the additive particle used in the recognition inference. The latter is especially consequential to the emotional resolution, but is not a major comic sequence and therefore does not by itself overturn MG02-J02's narrower prediction about humor. (part0010.xhtml P0061, P0116; part0014.xhtml P0179, P0537.)
+
+
+# V10 Update
+
+**Evidence boundary:** verified Japanese V10 main narrative only. Locator map: Pr = `text/part0009.html`; C1 = `part0010.html`; C2 = `part0011.html`; C3 = `part0012.html`; C4 = `part0013.html`; C5 = `part0014.html`; Ep = `part0015.html`, all under `text/`. P numbers count every body paragraph, including blanks/images; only text was inspected. V10 is the first volume of the still-open V10–V12 tranche, with Gen03 unchanged.
+
+## HM-V10-01 — A dependency becomes leverage, then receives a misleading account
+
+Darkness's attempt to prevent diplomatic trouble physically binds Kazuma and promises comprehensive care. He exploits the resulting toileting problem, first presents it as unavoidable necessity, and subsequently calls the preceding activity enjoyable sexual harassment. Aqua's overheard fragments let him report the encounter as attempted molestation. This is a continuous reversal of who controls the practical situation, followed by control of the story about it. The bodily difficulty becomes real inside the scene without vindicating the coercive framing he adds. (C1 P0053–0149, especially P0088–0090, P0123–0132, P0139–0149.)
+
+**H1:** the request for assistance, her protests and his admitted enjoyment are direct behavioral evidence. **H2:** the elaborate chamber-pot escalation amplifies an exploitable power reversal. **H3:** the exact morning bodily obstruction is an occasion-specific complication, not a stable rule that future restraint must produce the same result. Her near-tears/tearful-eyed descriptions must not be promoted into a proved actual-tear Gen03-K04 trigger; the continued harassment remains adverse to a broader refusal-sensitive or distress-sensitive character claim.
+
+## HM-V10-02 — Useful capacity fails at the surrounding dependency
+
+Aqua's assurance that her divine clothing blocks poison does not fail on its stated mechanism. She passes out drunk while the other three require the antidote she had promised, and the party subsequently seeks an Eris church. A godlike capacity is defeated by an ordinary availability problem. The conversion-by-poison proposal and the image of Aqua as an old man enjoying fin sake remain nested jokes within this meal's continuous safety premise. (C1 P0216–0271; explicit rescue account P0276–0279.)
+
+**H1:** agreeing to provide antidotes, drinking and later absence from the needed service are relevant decisions. **H2:** the converging slurred speech and collective near-wipeout amplify the dependency failure. The text's poison immunity and magical cure are diegetic capacities, not H4 merely because they are supernatural. Local **L0** causal mechanism, with **L1** articulatory degradation and **L2** competence-only compliments (P0241–0243).
+
+## HM-V10-03 — Protectors, teachers and experts are repeatedly displaced
+
+Iris destroys the roadblock that the escort should handle; Darkness's portable mansion makes Kazuma's camping plan redundant; magical perception, water and concealment interrupt Megumin's fieldcraft lesson; Iris's dragon attack precedes Explosion. These are related role reversals with different causes, not evidence that every displaced person lacks ability. Kazuma still teaches cooking, Darkness later draws the dragon, and Megumin's explosive option is retained as a contingency. (C2 P0194–0261, P0264–0294; C5 P0046–0089, P0097–0126, P0147–0157.)
+
+**H1:** role assignment and actual execution are strong competence evidence. **H2:** repeated claims that the guards are unnecessary amplify the social embarrassment. **H3:** the exact timing by which a particular specialist loses the finishing blow should not become a guaranteed rule. Megumin's stammering before the dragon and her retrospective insistence that she deliberately conceded credit must be read together (C5 P0103, P0150–0157).
+
+## HM-V10-04 — Public dignity can conceal exploitation or ignorance
+
+Ordinary fried rice, rice toppings and crayfish become discoveries for Iris and Darkness. Aqua's rudimentary meal wins deferential praise, while Megumin's initially distrusted crayfish is actually well prepared and enjoyed. The social rank of the eaters, the prestige of a food name and cooking ability are not equivalent. Separately, borrowed noble credentials coerce a teleport shopkeeper, stop an investigation and force continued casino play. Sentimental equality rhetoric does not remove the costs transferred to others. (C2 P0297–0445; C1 P0288–0321; C4 P0474–0481; C5 P0299–0309.)
+
+The food sequences are chiefly **L0–L2**, with food-culture context separately flagged. **H1** covers witnessed preparation, tasting, payment and credential use; **H2** covers the repeated awe surrounding tiny domestic discoveries and the reach of status intimidation. Calling crayfish “lobster” and admitting that “secret recipe” was merely a phrase are character claims, not independent culinary facts (C2 P0383, P0444).
+
+## HM-V10-05 — Outsourcing responsibility succeeds only at transferring its costs
+
+The women and their suitors expect jealousy. Kazuma instead transfers the day's supervision to the men and escapes. The reunion supplies the costs: a sand-bath endurance casualty, destroyed farm stock and vanished expensive furnishings. His initial forecast that the companions would cause trouble gains support, but that does not excuse encouraging the men to accept responsibility, withholding what he anticipates, or joining the flight from reimbursement. (C3 P0052–0170, P0228–0230, P0254–0267, P0290–0323.)
+
+**H1:** his reasoning and subsequent departure are explicit; the reimbursement plea is actually made and the group actually flees. **H2:** three tailored disasters compress each companion's preferences into an exaggerated result. **H3:** the exact trio and coincidence of their offscreen signals are comic construction, not a probability estimate. The feat of making furnishings disappear is not H4; the material bill preserves it as a real event, while the mechanism of the disappearance is not explained.
+
+## HM-V10-06 — A reliable instrument is mistaken for an unrestricted truth oracle
+
+The bell interrogation distinguishes sincerely held belief, deliberate deception, magical detection limits and social credibility. Darkness's refusal supplies her own family name; Megumin's beliefs fail to ring the bell; Aqua's true goddess claim is dismissed after several false claims also produced silence. Darkness explains the self-belief limit (C4 P0432), and Aqua explains her aura's interference and the exceptional conscience-paining lie that can still register (P0466–0470). The farewell references then ring repeatedly (P0496–0507).
+
+**H1:** the bell sounds or remains silent, characters make specified claims, and the examiner changes conduct. **H2:** an escalating failure of reassurance makes Kazuma's defense socially worse. **H3:** exact ringing timing and the examiner's reactions are local outcomes. Neither silence nor sound independently proves every proposition in a compound utterance: the sequence does not verify Megumin's former-life identity, Aqua's guardian role, moral purity, or a globally accurate character assessment. (C4 P0349–0507.)
+
+## HM-V10-07 — Wording can expose a real exploit without requiring Japanese-only translation
+
+Kazuma asks where the coin is, allows the visible fists to imply two alternatives, and keeps the coin in a pocket. The prince's eventual recognition changes his view of the contests but does not force him to accept another political wager. The primary mechanism is a portable **L2** implicature exploit: “where” versus “which hand” preserves it. Exact words still matter. Levi later asks the fair binary version, 「コインはどっちにある？」; that is a serious reciprocal callback, not another joke merely because its wording is important. (C4 P0181, P0244–0284, especially P0263–0269; C5 P0459–0464.)
+
+Kazuma's eventual casino plan replaces this trick with observed gambling wins attributed to his luck and institutional protection. His unseen-win summary does not prove that Eris actively intervenes, nor does Aqua's placement of a losing bet independently establish a measured causal effect of her luck on his. His explanations and the observed wins/loss must remain separate. (C5 P0269–0342.)
+
+## HM-V10-08 — Familiar flaws become an authentication mechanism
+
+The impersonator offers romantic speech while missing Kazuma's social position, agitation and gaze. Darkness recognizes the mismatch, yet enjoys a coercive fantasy until seeing that the real Kazuma witnessed it; when Iris is threatened, her response shifts to escape and protection. Kazuma's epilogue claim that only Iris detected the double is immediately corrected by Darkness. The joke uses stable interaction knowledge, not merely a visual resemblance. (C5 P0546–0579, P0612–0657; Ep P0024–0032.)
+
+**H1:** detection, the hostage threat, requested wording, embarrassment and escape cooperation occur. **H2:** parody turns sexual unreliability into an identifying signature. **H3:** the precise impersonator errors are not a universal test for impostors. Apparent Megumin's earlier seduction is Ragcraft's performance and cannot become evidence of actual Megumin's willingness, voice baseline or consent (C5 P0488–0544, P0585).
+
+## H4 and distribution calibration
+
+The narration's declarations that time stops (C5 P0740, P0750), broad superlatives and impossible-to-count affective magnitudes are stronger **H4** candidates than literal spells, living vegetables, buffs or transformations. Local exaggeration qualifies intensity; it does not erase the actions it frames. Actual tears or pleading by a game opponent and casino staff are **H1** observations, while Kazuma's continuation blocks a generic “distress always stops him” conclusion (C3 P0207–0216; C5 P0283, P0299, P0384–0398). These are outside K04's valued-companion intimate/teasing conjunction, not favorable tests of it.
+
+The **final audited V10 census contains 112 episodes/candidates: 106 clear L0–L2, 1 clear L3, 1 mixed and 4 uncertain**, with conservative local L0–L2 bounds **94.64%–99.11%**. The original 105-episode boundary-before-classification snapshot (SHA-256 `fe23a22171efd1b6c7953292a41d38b670bf8941f8eba5f5fe0982c435e0c429`) and its 101/1/1/2 distribution remain historical. A separate full audit of 96 uncovered ranges identified seven supplementary candidates; their boundaries were sealed before supplementary classification (SHA-256 `b848131ec2757e04b18d4189e9363b616974a5786343cb93d03fe29d5186c526`). Five add clear L0–L2 cases and two remain eligibility-uncertain. No original L class changed. Source-description corrections and all added IDs are recorded explicitly.
+
+The complete source-order registry, cultural flags, ordinary-equivalent tests, original/final counts and near-miss decisions are in the canonical `../02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md`, **Appendix A**; the fixed J01 comparisons are in **§8.4**. Short lexical/name jokes remain represented, and all four uncertain cases remain in the denominator. **MG03-J02 stays PARTIAL / TRANCHE_OPEN** until the complete V10–V12 pool is read and coded. Neither a local majority nor the coverage correction creates a new freeze or model generation.

@@ -5,7 +5,7 @@ scope: V01-V17
 ledger_role: model_prediction_validation
 generation: MODEL_GEN_0.3
 status: active_provisional
-source_boundary: Gen 0.1 predictions and outcomes preserved; Gen 0.2 V07-V09 predictions and historical wording preserved with tranche adjudication complete through V09; Gen 0.3 V10-V12 predictions frozen after V09 before V10 exposure
+source_boundary: Gen 0.1 predictions and outcomes preserved; Gen 0.2 V07-V09 predictions and historical wording preserved with tranche adjudication complete through V09; Gen 0.3 V10-V12 predictions frozen after V09 before V10 exposure; V10 local outcomes appended without changing the freeze; V10-V12 tranche open; V11 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ do_not_use_as_current_authority: false
 
 This ledger preserves falsifiable behavioral predictions at the moment they are made so later volumes can test rather than retrospectively rewrite the character models.
 
-**Current freeze:** Model Generation 0.3, derived from V01-V09 after prospective adjudication of Gen 0.2. **Outcome state:** V07-V09 complete; V10-V12 predictions frozen before V10 exposure, with outcomes and adjudications blank.
+**Current freeze:** Model Generation 0.3, derived from V01-V09 after prospective adjudication of Gen 0.2. **Outcome state:** V07-V09 complete; the original Gen03 V10-V12 predictions and all 25 original Outcome/Adjudication fields remain frozen and blank. A separate V10 local addendum records 6 CONFIRMED, 6 PARTIAL and 13 NOT_TESTED. V11/V12 remain unopened; the V10-V12 tranche is OPEN.
 
 **Contamination rule:** The predictions below were written before canonical analysis of V04. They may not be reworded after later evidence appears. Later evidence must be entered only in the outcome/adjudication fields.
 
@@ -1157,3 +1157,225 @@ All 25 Outcome and 25 Adjudication fields remain blank. V10 is next only after v
 ## Gen 0.3 freeze state
 
 These 25 predictions are the complete Gen 0.3 set for V10–V12. No outcome or adjudication field above is populated. V10 remains unopened in this session. The next analyst must retrieve and preserve this exact block before the first V10 narrative exposure and append evidence without rewriting its triggers, confidence, boundaries or disconfirmation language.
+
+
+# V10 Local Prospective Validation — Frozen Model Generation 0.3
+
+**Status:** V10 local adjudication complete; V10–V12 tranche OPEN. This is the first prospective volume against the 25 predictions frozen after V09. It is an additive outcome record, not a new model generation, tranche checkpoint or replacement freeze. V11 and V12 remain UNOPENED in this analytical continuation; V11 is the next unit only after new authorization and its continuation/source gate.
+
+**Prospective provenance:** the exact Gen03 prediction block was retrieved, read and preserved before V10 narrative exposure. It remains **45,675 UTF-8 bytes**, SHA-256 **`ebe83ef5dc87fc2e85f8f711e2ba373239d4eea4fd14f466537dbd3625d76150`**. The frozen model remains **17,746 bytes**, SHA-256 **`dfd92578ddef97eeaf942a6a5d713f37a84678abc9433bce05d36d2ec659d85a`**. All original prediction wording, confidence, disconfirmation language and 25 blank Outcome/25 blank Adjudication fields are preserved. The preceding freeze-state statement that V10 was unopened is a historical statement about the freeze session, not the live state after this append. Gen01/Gen02 wording, all historical outcomes and the V09 receiving correction RC-V09-01 remain intact.
+
+**Source/evidence scope:** verified Japanese V10 EPUB, **1,630,298 bytes**, SHA-256 **`8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733`**. Complete sequential reading covered only `text/part0009.html`–`text/part0015.html`: prologue, Chapters 1–5 and epilogue, **3,026 all-body paragraphs**. `Pr`, `C1`–`C5` and `Ep` below map to those seven files in order; `P####` counts every body `<p>`, including blank/image-only paragraphs. Ruby base and reading pairs were retained for exact-language verification. The narrative text was read completely before coding, without gaps. Illustrations were not visually inspected. Afterword, ebook bonus, other paratext, V11+, withheld side narrative and external series knowledge do not contribute evidence. Earlier-volume findings are inherited canonical evidence, not fresh earlier-primary rereadings. This is a session exposure control, not a claim about pretraining.
+
+**V10 results:** **6 CONFIRMED, 6 PARTIAL, 13 NOT_TESTED, 0 AMBIGUOUS, 0 FALSIFIED.** These are local coverage judgments, not an accuracy score or a completed-tranche verdict. Missing trigger conjuncts do not count as successful predictions. A zero whole-row falsification count does not erase local failures, contrary components, poor planning or untested branches. The strict local convention reserves NOT_TESTED for incomplete clean triggers even when adjacent behavior is informative; PARTIAL is used for actual branch coverage or an explicitly incomplete comparative/distributional claim.
+
+| Prediction | V10 outcome | Main boundary |
+|---|---|---|
+| MG03-K01 | PARTIAL | Search/delegation supported; exact new-capability revision branch incompletely tested. |
+| MG03-K02 | CONFIRMED | Concrete entrusted need recruits sustained help. |
+| MG03-K03 | CONFIRMED | Reward-salient success accompanies expanded pursuit/exposure; duty remains a rival motive. |
+| MG03-K04 | NOT_TESTED | Actual-tears conjunction not cleanly established; wider distress insensitivity remains adverse. |
+| MG03-A01 | CONFIRMED | Engaged familiar support works; fugu readiness failure remains separate. |
+| MG03-A02 | CONFIRMED | Direct follower/status insult disrupts diplomatic restraint. |
+| MG03-A03 | NOT_TESTED | One admired meal does not establish repeated post-recognition service. |
+| MG03-A04 | NOT_TESTED | Maintenance/maximal-shortcut conjunction absent. |
+| MG03-M01 | PARTIAL | Identity activation clear; known companion-utility priority not isolated. |
+| MG03-M02 | NOT_TESTED | No self-attributed substantial exclusive-build burden. |
+| MG03-M03 | NOT_TESTED | Capacity shown; prospective safe geometry/resource/exit arrangement unshown. |
+| MG03-M04 | NOT_TESTED | No personally valued decisive-harm target. |
+| MG03-M05 | NOT_TESTED | No clear knowingly grave companion-risk Explosion choice. |
+| MG03-M06 | NOT_TESTED | Additional reward hunting is not a fully matched sustained weakening operation. |
+| MG03-D01 | CONFIRMED | Defensive contribution and costly escape protect others. |
+| MG03-D02 | PARTIAL | Audience aversion supported; coercive control also enjoyed. |
+| MG03-D03 | NOT_TESTED | No incompatible demand on continued party membership. |
+| MG03-E01 | PARTIAL | Deployment repair supported; alternative-provider/comparative branches incomplete. |
+| MG03-E02 | NOT_TESTED | Temporary separation does not meet the durable relationship-loss trigger. |
+| MG03-J01 | PARTIAL | Multiple fixed mappings supported; some mappings remain untested. |
+| MG03-J02 | PARTIAL | V10 contribution only; formal pooled V10–V12 result remains open. |
+| MG03-Y01 | NOT_TESTED | Useful accompaniment reported; invitation/accepted-role sequence unshown. |
+| MG03-CE01 | NOT_TESTED | No observed Chris/Eris cumulative service-burden choice. |
+| MG03-I01 | CONFIRMED | Trusted ordinary access expands visible agency. |
+| MG03-I02 | NOT_TESTED | Self-restriction visible; exact original-wish/duty conjunction incomplete. |
+
+## MG03-K01 — Indirect construction of a solution, with explicit resource limits
+
+- **V10 outcome:** PARTIAL.
+- **Trigger and evidence:** aid negotiations give Kazuma serious institutional stakes without direct sovereign power. Prince decision authority, favorable economic information and noble credentials are available before use (C3 P0235–0247, P0464–0479, P0618–0643). He redirects the negotiation, exploits the precisely worded coin-location rule (C4 P0139–0197, P0257–0279), and subsequently uses casino access, luck and status leverage (C5 P0203–0213, P0243–0342). At the dragon he assigns reserve fire and support after Darkness independently initiates her decoy role (C5 P0097–0111). In captivity he adapts ignition to Darkness's greater strength after she initiates gag removal (C5 P0622–0660).
+- **Adverse or untested branches:** indirect search and delegation are supported. Revision after a specifically newly learned capability invalidates the first plan is not cleanly replicated; changed political information and failure of brute force support flexibility without supplying that exact condition. The false-flag raid fails before infiltration (C4 P0318–0337); the later capture plan fails when his threat frightens its targets into escape (C5 P0347–0372). Iris defeats Ragcraft as the would-be rescuers try to open her door, before they can intervene (C5 P0699–0707).
+- **Causal/model disposition:** PRESERVE/STRENGTHEN indirect search and bounded delegation; OPEN the exact capability-revision branch. Noble privilege, exceptional luck, Iris's force and Darkness's initiative remain independent contributors. Frozen HIGH confidence is preserved, not globally revalidated by one observed branch.
+
+## MG03-K02 — Concrete entrusted need recruits effort before certainty
+
+- **V10 outcome:** CONFIRMED.
+- **Trigger and evidence:** Iris explicitly requests restraint because aid is essential (C3 P0651–0656); Darkness entrusts her protection to Kazuma when barred from the next meeting (C4 P0012–0020); Megumin later asks him to help the discouraged Iris (C5 P0216–0227). Kazuma has feasible information, negotiation and gaming contributions before a complete funding route is known. He returns across the negotiations, joins the dragon expedition, and keeps searching after its reward fails to meet the goal (C4 P0097–0108, P0244–0293; C5 P0097–0126, P0191–0236, P0243–0408).
+- **Adverse or untested branches:** mixed status, retaliation and intimate reward motives coexist with help. The original escort acceptance alone does not establish that Iris already disclosed an unwanted marriage (C1 P0042–0046). Several methods are poorly judged or unsuccessful; this prediction concerns substantive contribution, not guaranteed success or ethically sound means.
+- **Causal/model disposition:** STRENGTHEN concrete entrusted-help mechanism; retain HIGH confidence and the distinction between commitment, plan quality and outcome. No comfort-based abandonment appears in the matched requests.
+
+## MG03-K03 — Success-linked personal reward can expand pursuit
+
+- **V10 outcome:** CONFIRMED, bounded causal attribution.
+- **Trigger and evidence:** card-game success, gamer excitement and dominance are visible before he demands further opponents and continues for hours (C3 P0193–0226). At the casino, repeated color wins, others' awe and his superior treatment of Darkness precede larger numbered bets (C5 P0279–0299); successful status leverage and Iris's admiration precede the next numbered wager (P0301–0322). Continued pressure on the state casino follows over several days (P0376–0399).
+- **Adverse or untested branches:** the casino still serves an unmet aid objective, so duty and exploitation of favorable odds compete with reward continuation. Kazuma rejects Megumin's proposed all-in recovery after a loss (C5 P0339–0342); he also explains why a gambling career would expose him without current protection (P0313–0318). Neither is a clean unchanged pursuit following newly rewarding success without a new threat/context. The false-flag raid was already a fallback plan (C4 P0293), so it is not clean evidence that success newly created escalation. Additional offensive aid was part of the original mission, not automatically scope inflation.
+- **Causal/model disposition:** STRENGTHEN the bounded success/reward tendency; preserve MODERATE-HIGH confidence. Do not make exceptional luck or narrator-attributed bad luck into a controlled causal experiment.
+
+## MG03-K04 — Noticed actual tears can interrupt intimate or teasing pursuit
+
+- **V10 outcome:** NOT_TESTED.
+- **Trigger and evidence:** no clean conjunction of noticed actual companion tears, Kazuma's immediate intimate/teasing reward pursuit, and an available safe pause is established. Darkness is described as near crying or tearful-eyed during the bodily-care sequence (C1 P0123, P0132, P0144), while his earlier enjoyment of harassment is explicit (P0130). C3 P0447 gives sob-like vocalization during Megumin's humiliation but no explicit tears; Kazuma is complicit and gloating (P0448–0451).
+- **Adverse or untested branches:** these interactions remain adverse to any broader distress-stopping or consent-reliability claim. Urgent bodily need complicates the first pause condition but does not excuse later teasing generally. Aqua's crying over used alcohol is not followed by a shown continued intimate/teasing pursuit by Kazuma (C2 P0445, P0458). The crying game opponent is a stranger (C3 P0210). The late apparent Megumin seduction is Ragcraft's impersonation (C5 P0500–0534), not real Megumin vulnerability.
+- **Causal/model disposition:** OPEN; retain MODERATE confidence in the newly narrowed hypothesis without strengthening it. Missing actual-tears evidence is not proof that distress was absent or acceptable.
+
+## MG03-A01 — Established specialist ability appears under a well-defined task
+
+- **V10 outcome:** CONFIRMED within the established domains.
+- **Trigger and evidence:** Aqua releases magical restraints that Darkness regarded as unremovable (C1 P0097–0100, P0143–0144). Iris requests support for the dragon and Kazuma assigns it; Aqua supplies defense and attack enhancement (C5 P0040–0042, P0102–0111). Support before the return-route confrontation is reported at C5 P0358. Water provision is immediately effective (C5 P0056–0059).
+- **Adverse or untested branches:** fugu care fails because Aqua drinks herself asleep; the party reaches the Eris church (C1 P0222, P0234–0255, P0259–0279). No engaged antidote cast fails, but the serious readiness failure remains visible. Her ambiguous chancellor detection and later failure to identify the impostor limit broader diagnostic claims (C3 P0594–0602; C5 P0682–0694; Ep P0024–0032).
+- **Causal/model disposition:** PRESERVE/STRENGTHEN engaged familiar specialist ability, HIGH confidence. Keep execution quality, availability and general perception separate; no new-domain competence is granted.
+
+## MG03-A02 — A direct prestige contest can displace an assigned purpose
+
+- **V10 outcome:** CONFIRMED.
+- **Trigger and evidence:** diplomatic restraint is an identifiable constraint before a courtier compares Aqua's followers to troublesome monsters (C3 P0491–0493, P0564–0569). She demands an apology and faction acknowledgment; the prince's fear and later exclusion order show consequences for the assignment (P0570, P0698).
+- **Adverse or untested branches:** in the interrogation, gratitude and identification as an archpriest lead to divine self-revelation, renewed confinement and rejection of the bell's apparent reliability (C4 P0444–0461). This is a useful recognition-driven analogue but lacks an overt insulting challenge. Costly disappearance performance (C3 P0318–0321) lacks a shown preceding prestige challenge; gambling losses are not automatically status-contest tests. The castle-flag stunt is externally restrained, not independent self-regulation.
+- **Causal/model disposition:** STRENGTHEN the direct follower/status challenge mechanism, preserving HIGH confidence and uncertainty about severity. Competence can coexist with failure to protect the assigned goal.
+
+## MG03-A03 — Recognition attached to real service can sustain it
+
+- **V10 outcome:** NOT_TESTED for repeated continuation.
+- **Trigger and evidence:** Aqua volunteers to cook after seeing others admired, supplies quick meals and teaches Iris, then receives specific praise for practical knowledge (C2 P0308–0314, P0321–0359). Beneficiaries and actual useful service are clear.
+- **Adverse or untested branches:** recognition mainly follows the meal; repeated subsequent service opportunities under that aligned recognition structure are not narrated. Three dishes in one meal do not establish repeated post-recognition continuation. Promised further instruction is not shown delivery. Later food-duty bargaining also remains prospective (Ep P0007, P0019–0020). Dragon support lacks an observed repeated service/recognition sequence. No missing opportunity is converted to failure.
+- **Causal/model disposition:** PRESERVE inherited MODERATE-HIGH confidence; OPEN the prospective sustained-performance test. Record the admired meal as single-task evidence without promoting it to validation of the repeated-work claim or voluntary ownership across time.
+
+## MG03-A04 — Unvalued maintenance with an available maximal shortcut
+
+- **V10 outcome:** NOT_TESTED.
+- **Trigger and evidence:** no episode jointly establishes low-valued repetitive maintenance, an attractive available one-step maximal alternative, and the absence of an already salient learned analogue or external constraint.
+- **Adverse or untested branches:** quick tuna-mayo preparation is not high-power systems intervention; fugu/antidote planning is not established tedious maintenance. Repeated tea purification to obtain an omen (C4 P0008–0009) is repeated ritual, not a maximal shortcut replacing a maintenance burden. Food-duty bargaining supplies no available high-power alternative.
+- **Causal/model disposition:** OPEN; retain MODERATE inherited confidence and unvalidated status. Speed or bad judgment alone does not complete the trigger.
+
+## MG03-M01 — Core-specialty challenge can outweigh ordinary companion cost
+
+- **V10 outcome:** PARTIAL.
+- **Trigger and evidence:** after Iris's named dragon-killing technique, Megumin claims Explosion could also have won, objects to the apparent superior/imitative name and demands Iris not use it again (C5 P0147–0157). Specialist identity, competition and denial of equivalence are explicit.
+- **Adverse or untested branches:** Kazuma had already ordered reserve Explosion to preserve the valuable corpse (C5 P0102), and Megumin later invokes that preservation as her reason for yielding credit (P0150). The explicit identity challenge follows the victory. There is no subsequent concrete choice isolating the rival technique's known necessary companion utility against her objection. Cost-aware non-casting before the identity cue is not falsification; later verbal rivalry does not fully confirm cost priority. The farm has property cost without an explicit identity challenge (C3 P0312–0321); pedagogical frustration is not automatically Explosion identity (C5 P0052–0082).
+- **Causal/model disposition:** STRENGTHEN identity activation, preserving HIGH confidence in that branch; OPEN ordinary companion-utility priority at MODERATE confidence. Retain RC-V09-01 and the earlier local cost-inhibition failure without retroactive rescue.
+
+## MG03-M02 — Internally accepted contribution guilt can reopen the build
+
+- **V10 outcome:** NOT_TESTED.
+- **Trigger and evidence:** no direct Megumin conclusion identifies her exclusive build as a substantial cause of inability to contribute to valued companions.
+- **Adverse or untested branches:** fear of the dragon (C5 P0103–0106), frustrated instruction and loss of finishing credit do not establish build-attributed contribution guilt. She continues claiming her spell could have solved the dragon (P0150–0157). Cooking competence is a separate useful role, not an observed costly role change caused by accepted build burden.
+- **Causal/model disposition:** OPEN; preserve MODERATE-HIGH inherited confidence and the still-unvalidated changed-role extension. No absence-based failure or analogy-based confirmation.
+
+## MG03-M03 — Safe separated targets expose reliable artillery
+
+- **V10 outcome:** NOT_TESTED under the complete deployment trigger.
+- **Trigger and evidence:** the farm report establishes a dense high-XP target group destroyed by Explosion (C3 P0312–0313); depleted Megumin is afterward carried by Darkness (P0294–0295). A later paid remnant hunt is reported (C4 P0155). These support technical capacity.
+- **Adverse or untested branches:** neither report establishes the pre-cast safe separation, resource and exit/carry plan. An afterward carry is not evidence of a prior arrangement. The guide's shock and property compensation demand remain real collateral (C3 P0312, P0321); neither proves blast-zone bodily injury nor licenses assumed safe geometry. The nocturnal diversion has a plan but incomplete geometry/exit evidence and ends in arrest (C4 P0318–0337). Dragon reserve artillery is assigned but not fired (C5 P0102–0126, P0147–0157).
+- **Causal/model disposition:** PRESERVE HIGH inherited tactical-efficacy confidence; OPEN clean prospective safe-deployment replication. Separate capacity, harmful target choice and complete trigger coverage.
+
+## MG03-M04 — A valued target creates a separate firing constraint
+
+- **V10 outcome:** NOT_TESTED.
+- **Trigger and evidence:** no task requires decisive harm to someone independently established as personally valued by Megumin through a significant relationship.
+- **Adverse or untested branches:** farm creatures are called cute by the guide, not established as cherished by Megumin (C3 P0312). The dragon is an impersonal opponent. Rivalry with Iris is not a task requiring decisive harm to her. Both pre-action relational friction and post-action emotional cost remain untested.
+- **Causal/model disposition:** OPEN; retain MODERATE confidence. No cross-person replication is inferred from the absence of a new valued-target conflict.
+
+## MG03-M05 — Explicit serious companion harm remains a guarded prediction
+
+- **V10 outcome:** NOT_TESTED.
+- **Trigger and evidence:** no scene clearly establishes before Megumin's choice that the best tactical Explosion use knowingly exposes a current valued companion to grave bodily harm, with risk magnitude and alternatives specified.
+- **Adverse or untested branches:** dragon reserve fire is conditional and unused. Farm destruction, the nighttime diversion and castle threats have collateral or goal-risk implications, but the frozen explicit grave direct companion-harm conjunction is not supplied (C3 P0312–0321; C4 P0318–0337, P0593–0600). These events are not declared harmless after the fact.
+- **Causal/model disposition:** OPEN; preserve guarded MODERATE confidence in the narrowed Gen03 hypothesis. Do not back-project its extra conditions onto the broader Gen02 prediction.
+
+## MG03-M06 — Repeated rewarding fire can become its own objective
+
+- **V10 outcome:** NOT_TESTED; reward-extension analogue retained.
+- **Trigger and evidence:** high experience motivates the first farm destruction (C3 P0312), and the next day Megumin pays with Darkness's allowance to hunt remaining creatures (C4 P0155). Additional specialty-reward seeking is directly supported.
+- **Adverse or untested branches:** the first encounter is a recreational visit followed by opportunistic blasting; the second is paid hunting. No sustained operation with repeated safe deployment and a weakening original instrumental objective is independently established. Calling the outing a declining military mission would rewrite the trigger after observing the response.
+- **Causal/model disposition:** OPEN the exact prediction; retain MODERATE confidence. Preserve the adjacent-domain reward mechanism as a candidate without converting it into formal replication.
+
+## MG03-D01 — Protector contribution survives fear and finite endurance
+
+- **V10 outcome:** CONFIRMED.
+- **Trigger and evidence:** Darkness independently interposes, activates Decoy and directs Iris toward safe attack when the dragon threatens the group (C5 P0097–0100); she stands firm after support (P0105–0119). Under hostage pressure she requests Kazuma's safety, then actively struggles when Iris is threatened, initiates gag removal and accepts fire on her bonds so her strength can free them (C5 P0567–0574, P0612–0662).
+- **Adverse or untested branches:** enjoyment accompanies restraint, but does not replace needed defense once she has a feasible response. Earlier restraint/drugging of Kazuma is flawed protective procedure, not ethically validated by its aim (C1 P0055–0073; C2 P0046–0050; C3 P0444–0465). Iris ultimately defeats the assassin independently; Darkness's commitment is not identical to sole causal responsibility for survival.
+- **Causal/model disposition:** STRENGTHEN costly defensive contribution, HIGH confidence. Preserve capacity limits, mixed reward and procedural error as separate mechanisms.
+
+## MG03-D02 — Agency, audience and belonging determine aversion
+
+- **V10 outcome:** PARTIAL, with adverse agency-component evidence.
+- **Trigger and evidence:** a private restraint/care situation acquires an explicitly feared witness and rumor risk (C1 P0135–0147), followed by public denials (P0205–0214). A private drugging/seduction attempt acquires Megumin's witnessing accusation (C3 P0425–0454). Protest and concealment track independently visible audience changes.
+- **Adverse or untested branches:** in the later encounter Darkness sought a private visit to thank Kazuma (C5 P0665–0669), identifies an impersonator and encounters real hostage coercion (P0552–0574), yet welcomes restraint and requests humiliation in Kazuma's voice. Reduced control alone does not reliably produce aversion; do not exclude the case because she enjoys it. Discovering that real Kazuma witnessed the performance produces explicit shame (P0576–0581), supporting the audience branch within the same sequence. Durable belonging insecurity is untested.
+- **Causal/model disposition:** PRESERVE/STRENGTHEN audience/meaning sensitivity; keep reduced-control generalization OPEN and revision-bearing. Do not let audience confirmation erase contrary agency evidence or assert that pain alone works as coercion. The repeated matched-case threshold for whole-row falsification is not met. Frozen component confidences remain unchanged.
+
+## MG03-D03 — Incompatible obligations recruit costly preservation attempts
+
+- **V10 outcome:** NOT_TESTED.
+- **Trigger and evidence:** royal orders and Kazuma's conduct conflict, generating coercive prevention, negotiation and eventual backing (C1 P0055–0073; C2 P0046–0050; C3 P0444–0479). Continued party membership is not itself placed in concrete conflict.
+- **Adverse or untested branches:** exclusion from future audiences leads to temporary information gathering while Kazuma escorts Iris (C3 P0698; C4 P0012–0020), not loss of membership or an incompatible family/party commitment. These analogues cannot supply the frozen durability requirement.
+- **Causal/model disposition:** OPEN; retain MODERATE-HIGH confidence inherited chiefly from V07. No early acceptance/rejection of the full duty–membership mechanism.
+
+## MG03-E01 — Explicit task organization improves deployment but is not sufficient
+
+- **V10 outcome:** PARTIAL.
+- **Trigger and evidence:** in captivity unstructured struggle fails, then Darkness initiates gag release and Kazuma supplies a sequenced ignition/strength handoff that frees them (C5 P0622–0662). At the dragon, roles and targets are specified before execution: Darkness decoys, Aqua buffs, Iris attacks and Megumin remains reserve (C5 P0097–0126). These support visible capability-aligned deployment.
+- **Adverse or untested branches:** fugu care lacks timely availability (C1 P0222–0279); the organized false flag is unprepared for the encountered undead and ends in arrest (C4 P0318–0337); a capture plan is defeated by Kazuma's excessive intimidation (C5 P0347–0372). Removing casino interference may improve discipline, but changing wagers and luck confound a controlled comparison (C5 P0324–0342). Darkness and Iris originate important useful actions, yet a fully comparable substitute provider organizing several specialists independently of Kazuma is not demonstrated. The church rescue lacks narrated operational detail, and Iris's solo assassin defeat is not a multi-specialist handoff test.
+- **Causal/model disposition:** PRESERVE/STRENGTHEN bounded deployment repair; OPEN alternative-provider adequacy and comparative Kazuma dependence. Keep HIGH confidence in the scoped mechanism without claiming necessity, sufficiency, equal contribution or sole leadership.
+
+## MG03-E02 — Durable efficient separation incurs attachment costs
+
+- **V10 outcome:** NOT_TESTED.
+- **Trigger and evidence:** Kazuma explicitly seeks one day away from the others, expects reunion and returns (C3 P0081–0170). Work allocations also preserve membership.
+- **Adverse or untested branches:** jealousy, surprise and manipulation during the day split are real but lack meaningful permanence. Iris's career-gambler suggestion does not establish a feasible efficient reorganization credibly removing a core relationship; Kazuma immediately identifies absent protection and targeting risk (C5 P0311–0318).
+- **Causal/model disposition:** OPEN; preserve HIGH inherited attachment confidence without counting temporary separation as another durable test.
+
+## MG03-J01 — Register tracks an independently established active role
+
+- **V10 outcome:** PARTIAL, scored by the fixed mappings.
+- **Trigger and evidence:** independent actions/stakes supply the role before language scoring. Megumin's direct jealous appeal replaces baited banter (C1 P0174–0196); explicit rivalry with Iris recruits Explosion self-defense (C5 P0147–0157). Aqua's cooking instruction supplies limited service-authority evidence (C2 P0321–0359), while the direct follower insult recruits apology demands (C3 P0564–0570). Darkness's physical interposition precedes protector/noble assertions (C5 P0097–0110); public witness/accusation contexts recruit direct denial (C1 P0139–0151, P0205–0214; C3 P0425–0454). Iris's displayed defeat precedes Kazuma's ordinary reassurance and offer (C5 P0216–0239).
+- **Adverse or untested branches:** the finalized fixed register preserves J01-V10-07 (Darkness's dignity-threat response is adverse/mixed), J01-V10-09 (Kazuma restrains violence but resumes a coercive apology), J01-V10-12 (no demonstrated increase from already institutional speech), and J01-V10-05 (battle service is performed, but comparable practical directives are insufficient). J01-V10-11 adds no independent positive continuation trial. Darkness's belonging-insecurity/acceptance-request mapping remains untested. Aqua's meal-service window is short and retains status play. The apparent vulnerable Megumin scene at C5 P0500–0534 is impersonation and cannot validate her voice. The role must not be inferred only from the form being scored; care behavior is not a substitute for a missing language outcome.
+- **Causal/model disposition:** PRESERVE/STRENGTHEN supported mappings, OPEN untested mappings, retain HIGH general role-conditioning confidence. See `../02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md` §8.4 and Appendix A for the finalized voice/humor coding details; this row does not invent census counts or audio evidence.
+
+## MG03-J02 — Comic episodes are predominantly portable or pragmatic
+
+- **V10 outcome:** PARTIAL; formal V10–V12 pooled result OPEN.
+- **Trigger and evidence:** the frozen universe is a complete census across all three authorized tranche volumes. V10 alone supplies only the first contribution. The V10 episode registry and language-sensitive cases are documented in `../02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md` §8.4 and Appendix A, with the original boundary-before-classification snapshot preserved, an independently audited coverage supplement fixed before its classification, and clear L0–L2, clear L3, mixed and uncertain cases kept separate. The coverage correction and original versus final denominators are explicit; no existing episode class is changed.
+- **Adverse or untested branches:** no V11/V12 narrative is read, so neither a favorable V10 pattern nor an independently completed V10 census closes the pooled prediction. Brief verbal/written-form jokes must remain eligible. Form-sensitive candidates include the misunderstood game/divine titles (C2 P0477–0492), Explode/Explosion rivalry (C5 P0147–0157), and genre shorthand puncturing the hero pose (C5 P0238–0239). The coin-location loophole (C4 P0263–0269) requires exact semantic preservation but is not automatically Japanese-specific. Cultural dependence is a separate flag.
+- **Causal/model disposition:** OPEN at MODERATE confidence; preserve the frozen majority, ambiguity, tie and empty-set rules. No counts are supplied here independently of the actual registry, and no Gen02 qualitative judgment is retroactively quantified.
+
+## MG03-Y01 — Inclusion and a useful role recruit Yunyun's competent participation
+
+- **V10 outcome:** NOT_TESTED.
+- **Trigger and evidence:** Yunyun carries depleted Megumin home and has been accompanying her walks (C1 P0171–0173), showing useful ongoing participation.
+- **Adverse or untested branches:** the text does not display an explicit invitation/accepted offer plus role-access decision, preparation or response. No indifferent refusal or technical failure occurs either.
+- **Causal/model disposition:** OPEN; preserve MODERATE-HIGH inherited confidence and limited candidate status. A brief participation report does not establish the complete affiliation-mediated mechanism.
+
+## MG03-CE01 — Conscientious service can exceed Chris/Eris's preferred burden
+
+- **V10 outcome:** NOT_TESTED.
+- **Trigger and evidence:** the Eris church provides off-page aid after fugu poisoning (C1 P0279), but Chris/Eris personally handling cumulative requests beyond an explicitly preferred burden is not observed.
+- **Adverse or untested branches:** Kazuma's memory of the lucky friend and hope for help at the casino (C5 P0269–0277) are not direct evidence of divine intervention, service burden or inability to refuse. No known self-set boundary can be scored either way.
+- **Causal/model disposition:** OPEN; retain MODERATE confidence. Do not attribute the wins to Eris as an established cause.
+
+## MG03-I01 — Safe nondeferential interaction expands Iris's agency
+
+- **V10 outcome:** CONFIRMED.
+- **Trigger and evidence:** Iris expressly contrasts repeated denied cooking requests at the castle with the present opportunity; Kazuma treats her as a learner and lets her participate (C2 P0270–0306). Aqua/Megumin then teach ordinary food preparation, and Iris eagerly catches ingredients and learns (P0321–0347, P0369–0415). Informal competition with Megumin (P0135–0148), a direct night-escort request and refusal of co-sleeping (P0459–0476) further establish ordinary agency. Formal introduction/negotiation supplies observed public-role comparison (C3 P0520–0533, P0606–0617).
+- **Adverse or untested branches:** reduced royal correction does not mean no witnesses. Public duty itself becomes increasingly assertive; the model must not reduce Iris to permanent public passivity. The final ordinary sibling address (Ep P0053–0060) supports intimacy but is not the sole proof of agency.
+- **Causal/model disposition:** STRENGTHEN the inherited nondeferential-access mechanism at MODERATE-HIGH confidence. Keep social freedom, combat capability and competent public duty distinct; no adult or future romantic commitment is inferred.
+
+## MG03-I02 — An expressed wish may be narrowed by understood royal duty
+
+- **V10 outcome:** NOT_TESTED under the strict original-wish/duty conjunction.
+- **Trigger and evidence:** Iris stays behind to prepare/rest for the meeting (C3 P0025–0035), while Darkness says she had looked forward to coming; the epilogue notes work prevented touring (Ep P0034). This is clear duty-linked self-restriction, but her original personal wish specifically to sightsee is not directly voiced or equivalently specified. Looking forward to coming can concern the mission or travel together.
+- **Adverse or untested branches:** cooking desire and royal prohibition are explicit (C2 P0274), but the observed choice expands participation after context relaxes, rather than making a smaller request under active conflicting duty. Her wish that Kazuma stay and promise to serve the country are aligned, not clearly conflicting (C2 P0501). The adventure wish is realized by the mission (C5 P0046–0047). Engagement, relief at dissolution, and the final friendship refusal do not authorize inventing a prior unwanted duty or hidden romantic wish (C3 P0677–0678; C5 P0754–0758).
+- **Causal/model disposition:** OPEN; preserve MODERATE-HIGH inherited confidence without new full validation. Retain observed self-restraint as a bounded analogue, not a failure and not a completed trigger.
+
+## Causal and inheritance controls after V10
+
+Levi's support reversal occurs **before** Ragcraft is exposed. The neutrality arrangement is disclosed and Iris reassures the prince at C5 P0418–0453; he proposes the final fair wager and commitment at P0454–0464; continued defense plus offensive support are already agreed at P0475–0477. Ragcraft's identity is revealed later that night at P0585, with public acknowledgment the next morning at P0711–0734. The exposure strengthens gratitude and the alliance, but cannot be backdated as the cause of the initial aid decision. Casino pressure, Iris's prowess and her compassionate response are separate contributing evidence, not a single demonstrated sufficient cause.
+
+The dragon outcome retains its actual allocation: Darkness initiates decoy, Aqua supplies buffs, Iris delivers the terminal attack, Kazuma assigns some phases, and Megumin remains unused reserve. Their necessity is not separately quantified. In captivity Darkness supplies the first gag-release idea, Kazuma adapts ignition to her strength, and Iris independently defeats the attacker as Kazuma and Darkness try to open her door, before they can intervene. The source gives no exact off-page proposition from Ragcraft to Iris, so none is invented.
+
+**Continuation:** all Gen03 frozen bytes and blank scoring fields remain preserved; this append is the V10 local record. V11 is next, **UNOPENED and awaiting new authorization**. The V10–V12 tranche remains OPEN, no `KONOSUBA_V10-V12_CHECKPOINT.md` is claimed complete, and no Gen04 model or V13–V15 prediction freeze is created. After an authorized continuation, retain the same 25 predictions and append later evidence with all adverse/untested branches visible.

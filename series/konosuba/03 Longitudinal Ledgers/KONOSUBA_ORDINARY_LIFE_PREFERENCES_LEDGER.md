@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V09
+scope: V01-V10
 ledger_role: ordinary_life_preferences
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V09 main narrative
+source_boundary: Japanese main-series light novels through V10 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Ordinary-Life and Preferences Ledger — Through V09
+# KONOSUBA Ordinary-Life and Preferences Ledger — Through V10
 
 ## Purpose
 
@@ -386,3 +386,54 @@ Chomusuke's changed bathing behavior and apparent growth follow the confrontatio
 ## Household state after V09
 
 Shared membership continues through conflict, gifts, games, food, care, teasing, attraction, and unresolved boundaries. Mutual Kazuma/Megumin affection is clearer, but their own separate perspectives leave the couple label unconfirmed. The return-home state is therefore an altered relationship within a continuing household, with grief and future expectations still active—not a completed conversion of the ensemble into a settled courtship arrangement. (part0014.xhtml P0827–0847; part0015.xhtml P0003–0007, P0051–0062; part0016.xhtml P0003–0009.)
+
+
+# V10 Update
+
+**Evidence boundary:** Japanese V10 main narrative only. Pr/C1/C2/C3/C4/C5/Ep correspond to `text/part0009.html`–`text/part0015.html`, using all-body P numbers. Observed preferences, self-reports, temporary incentives and unverified predictions are distinguished. V10 is the first volume of the open V10–V12 tranche; no future state is assumed.
+
+## Kazuma
+
+- **Household rhythm and comfort:** he wakes close to noon when Darkness has bound him; the promise of three days' food and care makes the imposed stay temporarily attractive. He keeps a chamber pot because leaving a warm winter bed is unpleasant, explicitly a convenience preference rather than inability to use a toilet. During travel he tentatively attributes sleeplessness to the unfamiliar pillow, and he cools drinking water with Freeze. These are concrete comfort practices rather than a universal refusal to act. (C1 P0053–0078, P0113–0115; C2 P0449–0457.)
+- **Practical skills and curiosity:** cooking, escape and newly learned lip-reading are identified among his small skills. Lip-reading was acquired with idle curiosity about gossip, then becomes useful for private conversations and whispered rewards. Its utility should not be retroactively substituted for the original motive. (C1 P0034; C2 P0051–0056; C3 P0476–0481.)
+- **Cooking and food:** he takes the camp cooking role partly to recover brotherly standing, prepares fried rice, gyoza and egg soup with Iris, and is caught out by the living cabbage. His stated aim is to offer something unfamiliar to a princess and simple enough for him to make. He recognizes rice toppings as ordinary food and crayfish as distinct from prestigious lobster, initially evades the latter, then enjoys the finished dish. (C2 P0264–0294, P0299–0317, P0332–0359, P0380–0392, P0426–0444.)
+- **Fugu and limits of enjoyment:** he says he had never eaten fugu in Japan, takes confidence from Aqua's healing ability, enjoys the meal intensely and describes his own limited food vocabulary. After the near-poisoning he says he would prefer no more fugu. This is a within-volume change following an adverse experience, not an immutable dislike from the outset. (C1 P0240–0245, P0257–0279.)
+- **Tourism and games:** he wants sightseeing and freedom from supervising companions, enjoys exploring an unfamiliar city, joins a card tournament after recognizing a familiar game structure, spends for strong cards and enjoys an oppressive winning combo. His pleasure in gaming and winning is directly shown; the claim that it was a sporting “good match” conflicts with the opponent's actual distress. (C3 P0038–0048, P0081–0104, P0174–0226, especially P0201–0216.)
+- **Sexual leisure and attention:** during his solo excursion he searches for a local equivalent of the sexual-service business. He notices bodies and tests flirtatious opportunities, but actual Megumin's direct jealousy produces fluster rather than smooth confidence. C3 P0113 says they are not yet dating; the later apparent-Megumin visit is an impostor and supplies no mutual relationship advance. (C3 P0455–0463; C1 P0175–0198; C5 P0488–0544, P0585.)
+- **Gambling as a bounded career choice:** he enjoys games, but says a permanent gambling career would attract danger and that continuing greed generally goes badly. For the present mission he relies on royal/noble backing and the military-funding purpose. Preserve those stated constraints alongside his obvious pleasure and harsh treatment of casino staff. His declaration that he wants to adventure to defeat the Demon King is performed for Iris after his internal practical explanation. (C5 P0280–0320, P0376–0411.)
+- **Gift selection:** he buys a cheap child's ring as a fallback after wanting a costly substitute for Iris's stolen ring, forgets to find something dearer, and gives Megumin crackers that cost more. Iris values the particular ring; Megumin wants the kind of relational gift, not compensation by price. The text identifies Aqua's stone as something Kazuma merely thinks might contain gold, not verified ore. Darkness's gift is deferred while she drives, with no later handover shown in the authorized ending. (C3 P0268–0284; Ep P0034–0051; Pr P0004–0015.)
+
+## Aqua
+
+- **Food and alcohol:** she chooses fugu, enjoys fin sake and the fish's rich parts, and gets drunk before providing the promised antidotes. Her divine clothing's poison immunity is not alcohol immunity. She brings an expensive bottle for the journey, loses it when Megumin uses it in cooking, and cries over that loss. Her initial reluctance to eat crayfish changes to asking for more after tasting it. (C1 P0216–0223, P0247–0279; C2 P0403–0405, P0426–0445, P0458.)
+- **Low-effort domestic knowledge:** she offers tuna-mayonnaise rice, furikake and raw-egg rice as quick dishes, mentions chili oil and proposes instruction in extracting cream from an ice-cream lid. The source records both practical know-how and pleasure in impressing the sheltered pair. Kazuma reports that she ordinarily dislikes cooking duty; the epilogue's exchange of duty includes her threat to supply natto rice for every meal. (C2 P0310–0314, P0324–0359; Ep P0007, P0019–0020.)
+- **Tourism and display:** she chooses the front view in the carriage, then begs to move when speed and cockpit exposure become frightening. She wants the casino, gourmet food and expensive drink, accepts strangers' hospitality and performs at a high-end restaurant using its furnishings. Enjoyment of the performance does not eliminate the missing-property bill. (C2 P0153–0155, P0170–0188; C3 P0038, P0149–0151, P0316–0323.)
+- **Gambling and money:** she repeatedly brews tea until a favorable omen appears, loses her initial allowance, sells valuable parts gathered from Iris's kills, resists sharing the proceeds, seeks loans and asks to follow Kazuma's winning bets. These are distinct observed money choices, not a claim that every available resource is always spent immediately. (C4 P0008–0009, P0155, P0223–0239; C5 P0280–0281, P0324–0336; Ep P0007.)
+- **Pet care:** she arranges care for Emperor Zell and Chomusuke before travel, speaks of the dragon she believes Zell to be, wants money for a souvenir, and accepts a stone because she likes its shape. The text preserves her beliefs about the pet without independently verifying them. Her request to leave during Iris's castle assault cites missing the pet, while Kazuma reads it as an exit attempt. (C1 P0280–0286; C5 P0036–0038, P0335–0336; C4 P0581–0583; Ep P0046–0049.)
+
+## Megumin
+
+- **Food gathering and cooking:** she gathers crayfish, knows a soaking procedure and decides the clear stream makes that unnecessary, then makes soup, grilled crayfish and a spicy preparation. Kazuma explicitly observes efficient work and connects it to caring for a younger sister. Iris's admiration induces her to take on even the serving. Those are observed actions and narrator explanation; “family secret recipe” is retracted as a phrase she simply wanted to use. (C2 P0369–0377, P0395–0418, P0443–0444.)
+- **Eating and thrift:** she readily eats the fugu and the simple rice toppings and enjoys food that the elite diners treat as exotic. When she says adventure earnings are entrusted to Kazuma, she uses that arrangement to perform public humility; the speech is still a self-report of the arrangement, while her embellished recruitment story is immediately challenged by his memory. (C1 P0226–0238; C2 P0360; C2 P0025–0034.)
+- **Excursion interests:** she wants a powerful staff from the city's equipment shops. She destroys the farm's high-experience monsters and later spends money supplied by Darkness to hunt survivors. This supports an attractive experience/Explosion reward, but does not establish every compound condition of frozen M06's repeated safe casts and weakened mission goal. (C3 P0039, P0311–0313; C4 P0155.)
+- **Peer play and status:** Iris and Megumin exchange letters/maintain a private play organization as described in their conversations; they compete for carriage seats and play on terms of obeying the winner. Megumin calls Iris her subordinate/left arm and wants to teach or display skill to her. Kazuma's “children playing at a secret base” is his reading of their claims, not independent access to all offscreen activities. (C2 P0140–0150, P0217–0225; C5 P0048–0082.)
+- **Affection and desired gifts:** she actually states jealousy and wants attention from Kazuma, then accepts the escort job out of care for Iris. At the end she asks whether a relational gift is also available for her and is disappointed by the crackers despite their price. This is a preference for a type of attention, not evidence that she dislikes the food itself. Apparent later-bedroom willingness belongs to Ragcraft and is excluded from her preference record. (C1 P0175–0196; Ep P0041–0045; Pr P0011–0015; C5 P0488–0585.)
+
+## Darkness
+
+- **Recreation and endurance:** she explicitly likes sand baths and becomes competitive when a man proposes enduring one longer than she can. His hospitalization and her satisfied return measure very different limits; do not generalize her tolerance to companions. She also enjoys high-speed driving and notes the cockpit's particular vulnerability. (C3 P0294–0309; C2 P0172–0177.)
+- **Domestic preferences and learning:** she and Iris sincerely enjoy ordinary dishes and regard short preparation time as useful. Her enthusiasm for rice toppings and crayfish is directly represented, although the grand food-review performance overstates her knowledge of the animal's identity. (C2 P0304–0317, P0349–0356, P0420–0423.)
+- **Sexual fantasy and specific embarrassment:** she welcomes restraint/torture scenarios in the interrogation and with the recognized impostor, yet the real Kazuma witnessing her requested performance embarrasses her. This is an audience distinction, not a blanket rule that involuntary control or all humiliation is unwanted. Her intended later thanks was, by her own account, something softer than the intercourse/night-visit accusation Kazuma makes. (C4 P0307, P0349–0380; C5 P0567–0579, P0665–0672.)
+- **Public identity and resources:** misuse of her family name by the group repeatedly distresses her; she pays the teleport fare to prevent further imposition, gathers negotiation information in town and provides companions spending money. Noble privilege is not a limitless shared resource she unambiguously welcomes others using. (C1 P0299–0315; C4 P0012–0018, P0146–0155, P0235–0239.)
+- **Intimacy, trust and service:** she says she wants time alone with Kazuma during the proposed detention, mixes a duty-related sedative plan with revealing clothing, then later makes a separate private visit intended as thanks. Those motives and methods must remain distinct. The episode does not establish an agreed couple relationship, and the fake Kazuma's love declaration is not his consent or proposal. (C1 P0075–0078; C3 P0332–0447; C5 P0546–0562, P0665–0672.)
+
+## Iris
+
+- **Hands-on curiosity:** she wants to cook but says the castle prevents it as servants' work. She welcomes permission to help, takes ingredient gathering as enjoyable novelty, remembers his invented stories and asks for company navigating the dark. These are direct requests and activities in the less formal journey setting. Kazuma's inference that she avoided lighting a lamp to spare sleepers remains an inference. (C2 P0270–0294, P0386–0389, P0413–0415, P0464–0476, P0482–0494.)
+- **Play and possessions:** she carries and values the bamboo toy Kazuma gave her, offers to lend it for a day and later three days, and initially imagines it as valuable enough for a political/game concession. She enjoys the travel view, games and imagined adventuring. The old gift's value and the new ring's value are relationally consistent without requiring an adult market-price model. (C4 P0091–0092, P0166–0170; C2 P0135–0150, P0179–0182; C5 P0044–0050; Ep P0034–0060.)
+- **Food and equipment:** ordinary fried rice, chips, rice toppings and gathered crayfish are pleasurable discoveries. She says she received the powerful family sword after asking because its sheath was pretty; this is her stated selection reason, not a full history of why the royal family gave it to her. (C2 P0211–0216, P0300–0317, P0337–0350, P0423.)
+- **Affiliation and agency:** she strongly values Kazuma's company, self-initiates repeated negotiations, agrees to support his casino plan and finally thanks him with the more familiar お兄ちゃん. Her final offer of perpetual friendship to Levi declines the revived marriage expectation. Warmth, deference and royal duty coexist with assertive agency; neither the address nor the ring by itself establishes a formal romantic union. (C3 P0686–0695; C5 P0255–0262, P0749–0758; Ep P0022–0023, P0055–0060.)
+
+## Household and relationship boundary
+
+The volume adds shared travel, domestic teaching, games, gifts and recurrent arguments to the household model. Price is a poor substitute for the desired kind of gift; institutional rank is a poor predictor of everyday knowledge; and enjoyment may change after experience, as with the meal outcomes. The existing ensemble remains together at the ending. Neither the apparent seduction by a double nor the affectionate final address should be converted into an agreed couple status, permanent moral reform or a prediction of future events.
