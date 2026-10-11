@@ -1,0 +1,1103 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_INSTALLATION_PENDING",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+    "bytes": 59979,
+    "sha256": "3a108a0d06e49316b00a353d86519dc8a0104bf30ac53a5f458e19f4b6a58ba5",
+    "git_blob_oid_of_actual_bytes": "8c4d0b16f9769134b6eca605ab0000270faa511d",
+    "lines": 162
+  },
+  "historical_frozen_claim_and_endpoint_register": {
+    "schema": "KOTORI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_REVIEW_PENDING",
+    "body": {
+      "file": "BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+      "byte_count": 58396,
+      "line_count": 151,
+      "sha256": "6a151ab4e7d74addd9a61e337811bc2d73d7662ff808d5f1fc4c1d1edf3375e0",
+      "actual_byte_blob_oid": "ee6ff7156dc2539bd46632495315e8508f44f78e"
+    },
+    "all_eleven_sections": [
+      {
+        "line": 22,
+        "heading": "## 1. Core thesis"
+      },
+      {
+        "line": 30,
+        "heading": "## 2. Longitudinal arc and legitimate ordering"
+      },
+      {
+        "line": 40,
+        "heading": "## 3. Public self, private self, and interpretation"
+      },
+      {
+        "line": 50,
+        "heading": "## 4. Millennium and Engineering: knowledge, resources and ownership"
+      },
+      {
+        "line": 60,
+        "heading": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling"
+      },
+      {
+        "line": 72,
+        "heading": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair"
+      },
+      {
+        "line": 84,
+        "heading": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits"
+      },
+      {
+        "line": 96,
+        "heading": "## 8. Major peers and independent recipients"
+      },
+      {
+        "line": 108,
+        "heading": "## 9. Japanese written voice and source-mode limits"
+      },
+      {
+        "line": 118,
+        "heading": "## 10. Competing readings and evidential judgment"
+      },
+      {
+        "line": 130,
+        "heading": "## 11. Evidence route, open gaps and completeness"
+      }
+    ],
+    "complete_saved_paragraph_joins": [
+      {
+        "saved_paragraph_id": "KOTORI-P001",
+        "saved_line": 24,
+        "section": "## 1. Core thesis",
+        "paragraph_sha256": "953776ff48215009944d33dd4d02bb7233984ef54d9aa36f265614e08fa56562",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "16002:002/003/005/006/015;10076:006;L201–245"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P002",
+        "saved_line": 26,
+        "section": "## 1. Core thesis",
+        "paragraph_sha256": "27b6867b9e0c1e61868b96d735fcb97931394b1948e371542996e79bf280c8e5",
+        "source_ids": [
+          "G14",
+          "L68",
+          "P107"
+        ],
+        "inline_locators": [
+          "1401–1403, device pleasure and disputed ownership",
+          "scene002u0044–0148;scene003u0001–0014",
+          "810:068u0011–0029"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P003",
+        "saved_line": 28,
+        "section": "## 1. Core thesis",
+        "paragraph_sha256": "3e1c14de162a38b776331df44a20f6cf6006533a192c6b0bf5676e6385cf8180",
+        "source_ids": [
+          "G14",
+          "K21"
+        ],
+        "inline_locators": [
+          "10076:003/006;16002:015;written10076/16002;L205–237",
+          "1402–1403, concealment and retaliation"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P004",
+        "saved_line": 32,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "4fc4ea2c3aa97c9aa4639746f92cdba389aaec27765f493354afe0764ca3e5dc",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "10076:002u0017–0056/thread100760010;003u0002–0052/thread100760170;005u0014–0036/thread100760330"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P005",
+        "saved_line": 34,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "ca792f55d5e63bd341bd2d9f50fe868316a0dbdbb0b673ac6423481d339df37e",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "L191–213;16002:002/003/005/006/015;10076:006"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P006",
+        "saved_line": 36,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "f5b3b929dac5d5dad8697560452b3241a077e4f7bc78147ac6147584d71c4949",
+        "source_ids": [
+          "P107",
+          "P212",
+          "P213",
+          "P217",
+          "P223"
+        ],
+        "inline_locators": [
+          "scene002u0002–0148;scene003u0001–0014",
+          "u0047–0082",
+          "u0036–0055",
+          "scene002u0032–0052",
+          "u0018–0047"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P007",
+        "saved_line": 38,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "69c8923bd8de1ec8e8493b2d12660fed5a26f2c900d132ee2e7bf7944f9ae65d",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "F00",
+          "L68"
+        ],
+        "inline_locators": [
+          "817:006–011;L78–83",
+          "u0019–0040",
+          "u0058–0140",
+          "u0001–0018",
+          "L162–175;310–337",
+          "u0016–0029"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P008",
+        "saved_line": 42,
+        "section": "## 3. Public self, private self, and interpretation",
+        "paragraph_sha256": "de248e5cab7f040284d0bddc98c74d0423fd595d06b343bd709a7261dc57ba6c",
+        "source_ids": [
+          "E18009",
+          "F216",
+          "P107"
+        ],
+        "inline_locators": [
+          "scene002u0044–0105",
+          "u0058–0067",
+          "u0001–0014"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P009",
+        "saved_line": 44,
+        "section": "## 3. Public self, private self, and interpretation",
+        "paragraph_sha256": "75039b2579e390a2afeaff5f926f87691d508185c9252de49776c2adc6bc0a40",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "16002:006u0001–0058/thread160020260;L209–241"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P010",
+        "saved_line": 46,
+        "section": "## 3. Public self, private self, and interpretation",
+        "paragraph_sha256": "36d6234d884302ed5bd4d01273b4b8396cda98e2cf12d9e5f806d33f4dd93f26",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "16002:005u0001–0055/thread160020130, especiallymessage160020240:1296"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P011",
+        "saved_line": 48,
+        "section": "## 3. Public self, private self, and interpretation",
+        "paragraph_sha256": "406d2036ca92bdd6995b68c83c9e3d23ae9062186f832dc42dc6818da8c1ff18",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "10076:006u0011–0021/0033/0049/0059–0065;thread100760480"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P012",
+        "saved_line": 52,
+        "section": "## 4. Millennium and Engineering: knowledge, resources and ownership",
+        "paragraph_sha256": "ee0deab9ba9aa7e5f3fd86c39ee49dc3842ef32f069ba201bef45d16d7ed938c",
+        "source_ids": [
+          "P107"
+        ],
+        "inline_locators": [
+          "scene001u0002–0011;scene002u0044–0148;scene003u0001–0014"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P013",
+        "saved_line": 54,
+        "section": "## 4. Millennium and Engineering: knowledge, resources and ownership",
+        "paragraph_sha256": "00722873f4a07bce98a0b63aab80276f147cd6bfb821d245aa42789eb89eca8f",
+        "source_ids": [
+          "G14"
+        ],
+        "inline_locators": [
+          "1401u0007/0016–0025/0050–0054;1402u0024–0061"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P014",
+        "saved_line": 56,
+        "section": "## 4. Millennium and Engineering: knowledge, resources and ownership",
+        "paragraph_sha256": "87813e50d38d266027824b5eb7b626745b6d288a1278f6cef6a4618832b46737",
+        "source_ids": [
+          "G14"
+        ],
+        "inline_locators": [
+          "1403, particularlyu0013–0038 andu0072;currentL70–125"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P015",
+        "saved_line": 58,
+        "section": "## 4. Millennium and Engineering: knowledge, resources and ownership",
+        "paragraph_sha256": "447a33942f05f61f22d0d73b84e0dcfe5b0739f79995115e61b84bb30e3c69c0",
+        "source_ids": [
+          "E18009",
+          "E18010"
+        ],
+        "inline_locators": [
+          "u0058–0067/0079–0140;declaredactorwitnessesu0091/0106",
+          "u0001–0018"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P016",
+        "saved_line": 62,
+        "section": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling",
+        "paragraph_sha256": "a449ea762ff254f308ccfc2aaa43364943b6205b308985366a640c395143b149",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "16002:002u0041–0053;003u0027–0040/thread160020090"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P017",
+        "saved_line": 64,
+        "section": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling",
+        "paragraph_sha256": "1e6a7fd26f3068968cc29e75c0af0f7caa3f65eaa03c95e10d44068f49e23cdc",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "10076:003u0017–0052/thread100760170;006u0011–0065"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P018",
+        "saved_line": 66,
+        "section": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling",
+        "paragraph_sha256": "431aaecfa00a1da1e5e60602dbd1da589d71a499f000bf3ed54c85ed19bbd111",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "10076:005u0014–0036/thread100760330;16002:015u0013–0056/thread160020380"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P019",
+        "saved_line": 68,
+        "section": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling",
+        "paragraph_sha256": "73e3a9708337df77d53ff6f0f2ba1333a6e96e529b926b7a6773bd4563848618",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "written10076:6484–6513;written16002:1718–1750 andfallback000001/000002;costume1900917201context817/10817/900817"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P020",
+        "saved_line": 70,
+        "section": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling",
+        "paragraph_sha256": "eef92a2a2d25f67a0622852edfa211c7edd0eaaa7334d5e9461a1c84e9cdc4b0",
+        "source_ids": [
+          "L68"
+        ],
+        "inline_locators": [
+          "810:068u0001–0029, choices001/003 andJP/KRqualifications"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P021",
+        "saved_line": 74,
+        "section": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair",
+        "paragraph_sha256": "2368215f9fdd837fef78c1da6cd69849b21cd9ef2aa229a899a4ae9daadc6af5",
+        "source_ids": [
+          "P212",
+          "P213"
+        ],
+        "inline_locators": [
+          "u0047–0082, particularlyu0072–0078",
+          "u0036–0055"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P022",
+        "saved_line": 76,
+        "section": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair",
+        "paragraph_sha256": "5125ebc03501d4ade3eb0406628541dadef5686321ca98d056a594d8e96bfeb5",
+        "source_ids": [
+          "P217",
+          "P219",
+          "P223"
+        ],
+        "inline_locators": [
+          "scene002u0032–0052",
+          "u0078–0084",
+          "u0018–0047"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P023",
+        "saved_line": 78,
+        "section": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair",
+        "paragraph_sha256": "e114ccaa708d77ee6e2b90c27b0b6daa73caf2cedd317023fe22d7b5542fe21d",
+        "source_ids": [
+          "E18007",
+          "E18009",
+          "E18010"
+        ],
+        "inline_locators": [
+          "u0019–0040",
+          "u0058–0140",
+          "u0001–0018"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P024",
+        "saved_line": 80,
+        "section": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair",
+        "paragraph_sha256": "296a5fa5d6f60efe16f539e41ec3c384e0b32ee32c59c6e9c3b45a77fe68736b",
+        "source_ids": [
+          "F00",
+          "F216",
+          "F307",
+          "F315"
+        ],
+        "inline_locators": [
+          "u0001–0014",
+          "u0001–0019",
+          "u0027–0076",
+          "L162–175;207–239;310–337"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P025",
+        "saved_line": 82,
+        "section": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair",
+        "paragraph_sha256": "01571d49110ce29bdd2ac6c8c8d8ca0dbd7a1aded7f7209e90e61178a368931c",
+        "source_ids": [
+          "E17",
+          "E18010",
+          "L68",
+          "P107",
+          "P223"
+        ],
+        "inline_locators": [
+          "scene003u0001–0014",
+          "u0018–0047",
+          "L78–83",
+          "u0001–0018",
+          "u0028–0029"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P026",
+        "saved_line": 86,
+        "section": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits",
+        "paragraph_sha256": "b35d46ef60f8944c7d8789f2ed6e5d1f76db4774dc03b78772c33d67b235839e",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "10076:002u0017–0056, choices002/003;wholethread100760010"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P027",
+        "saved_line": 88,
+        "section": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits",
+        "paragraph_sha256": "6a255b260e0793fc7cfb87ff54571dd0f8c4aa69b350454d0a3cac78e1c06208",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "10076:003u0002–0052/wholethread100760170;005u0001–0036/wholethread100760330"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P028",
+        "saved_line": 90,
+        "section": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits",
+        "paragraph_sha256": "3ebb03569a9dc7028a283da807f3cac7b90d2115d452e3ed4b0d6b2735fe7a25",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "16002:002u0009/choice003;003u0001–0040/wholethread160020090"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P029",
+        "saved_line": 92,
+        "section": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits",
+        "paragraph_sha256": "cc5903c12b25a6ad53fd667d54d74777dba5b7e85c4d7b0a97916997551c1093",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "16002:005/006/015 andcompletecodas;10076:006u0059–0065"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P030",
+        "saved_line": 94,
+        "section": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits",
+        "paragraph_sha256": "d46d93db4f7c8fa4721470662f6123f0ce9e313085f33801b1fcdf6116a7eaf1",
+        "source_ids": [
+          "G14",
+          "L68",
+          "P107"
+        ],
+        "inline_locators": [
+          "u0001–0029",
+          "1401–1403, noSenseiaction",
+          "noSenseiaction"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P031",
+        "saved_line": 98,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "fd30773ca18686ad4cd4e2b057df34755302bbac59e2fcee9b227f9553bd05bf",
+        "source_ids": [
+          "G14",
+          "P107"
+        ],
+        "inline_locators": [
+          "scene002u0002–0148",
+          "1401–1403,19declaredactorseams"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P032",
+        "saved_line": 100,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "093ebf6fe4bf638000e1c6d1df53c4e6c9523f7a330a4e561c23f07ff176767d",
+        "source_ids": [
+          "P107"
+        ],
+        "inline_locators": [
+          "scene001u0002–0011;scene002u0012–0148;scene003u0001–0014"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P033",
+        "saved_line": 102,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "4d77384df5c2cb76da5e61abc242ff8787707bc155583fb65d74051bb36fee23",
+        "source_ids": [
+          "G14"
+        ],
+        "inline_locators": [
+          "1402u0024–0061;1403u0013–0072"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P034",
+        "saved_line": 104,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "c9665c46fd50833bfb5ef6d0609c789449fb8414bf083f38a97c9d8316691ad6",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009"
+        ],
+        "inline_locators": [
+          "817:006/007;L78–79",
+          "u0019–0040",
+          "u0029–0057/0123–0140"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P035",
+        "saved_line": 106,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "e7bbf9807850d3d6bdb015f2535ea9ad9e2f5d2fa8805be09a29a9ba1948b2e2",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "16002:002u0017–0030;005u0001–0055;015u0049–0055;10076:003u0002–0035"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P036",
+        "saved_line": 110,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "4fc454343cc747e0ff6e0e5641c446648981618f9eaf1867c5aa5b17786daea4",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "L231–245;10076:003/005/006;16002:002/005/006"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P037",
+        "saved_line": 112,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "6f72dd7f96b1e7617df3a47e5efc7914fce1546dcfc65d353ef1510d4808afec",
+        "source_ids": [
+          "K21"
+        ],
+        "inline_locators": [
+          "L213;10076:002/005/006;16002:005/006/015"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P038",
+        "saved_line": 114,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "fbba764097e93aead8bbeb564187f6f42ebeb287cb05c31afa9765028a864a24",
+        "source_ids": [
+          "E18009",
+          "G14",
+          "P107",
+          "P212"
+        ],
+        "inline_locators": [
+          "declared19actorseams",
+          "declaredwitnessesu0091/0106",
+          "u0072–0078",
+          "boundaryandscene002/003anomalies"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P039",
+        "saved_line": 116,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "8a7d545a6e3c5e2aab2bfdb6dcac5db0833dd4e930c6967f0b8b6c7d0b12a2a6",
+        "source_ids": [
+          "K21",
+          "L68"
+        ],
+        "inline_locators": [
+          "whole810:068argument,JP/KRparagraphandu0001–0029",
+          "writtencontextandL213–237"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P040",
+        "saved_line": 120,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "45cd77f32dacc610fd505874245897a1d9e37033b1959a90b23403166aae17b5",
+        "source_ids": [
+          "K21",
+          "L68"
+        ],
+        "inline_locators": [
+          "10076:002/003/005/006;16002:002/003/005/006",
+          "u0011–0029"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P041",
+        "saved_line": 122,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "901f15c7ee827707d18681ba2150836941942c58febeb91cbf455dd0a0772c8f",
+        "source_ids": [
+          "G14",
+          "K21"
+        ],
+        "inline_locators": [
+          "16002:002u0041–0053;003u0027–0040;10076:003u0017–0052",
+          "1401,foodandprojectpleasure"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P042",
+        "saved_line": 124,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "78462b76a7af95d0fc471efd06774652302db5d8b4c4323e50c471c0076ba8ff",
+        "source_ids": [
+          "E18009",
+          "F307",
+          "G14",
+          "P107",
+          "P217"
+        ],
+        "inline_locators": [
+          "scene002/003",
+          "1402/1403",
+          "u0058–0140",
+          "scene002u0032–0052",
+          "u0001–0019"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P043",
+        "saved_line": 126,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "a378fa2fd1a71169dfa669d4f69f4e2852b67f506e970dfc9b7553e2e0fa8e5d",
+        "source_ids": [
+          "K21",
+          "L68",
+          "P107"
+        ],
+        "inline_locators": [
+          "L191–213;10076:006;16002:006",
+          "scene003u0001–0014",
+          "u0011–0029"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P044",
+        "saved_line": 128,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "eec9929f59ed93c61aecb3b263b5a24d8a677d1b44aef0a61cab060a1162c130",
+        "source_ids": [
+          "G14",
+          "K21",
+          "L68"
+        ],
+        "inline_locators": [
+          "L201–245;completeprivateendings",
+          "1401–1403",
+          "u0028–0029"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P045",
+        "saved_line": 132,
+        "section": "## 11. Evidence route, open gaps and completeness",
+        "paragraph_sha256": "4f16fbb49f03aadba30f2b4b4ae07de0698723d4ce62aea8f67203468b7964c5",
+        "source_ids": [
+          "A04",
+          "E10",
+          "E18",
+          "F00",
+          "K21",
+          "PW"
+        ],
+        "inline_locators": [
+          "L142–157",
+          "L23–40currentauthorityonly",
+          "CurrentCycle008authority",
+          "Current810normalcomparison",
+          "CurrentPavaneacceptednormalmeaning",
+          "CurrentFinalacceptednormalmeaning"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "KOTORI-P046",
+        "saved_line": 134,
+        "section": "## 11. Evidence route, open gaps and completeness",
+        "paragraph_sha256": "6f6830b8d37faee439ed8e92eecb32803737575233c18b33eb463c8a5c9f56d4",
+        "source_ids": [
+          "A01",
+          "A02",
+          "A03",
+          "C06"
+        ],
+        "inline_locators": [
+          "Architecture7.1,all11dimensions",
+          "Methodandsourcecustody",
+          "Originalfourteengaps",
+          "355/29scopeauthority,allocationnotcompletion"
+        ],
+        "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      }
+    ],
+    "consequential_endpoint_review": [
+      {
+        "id": "KOTORI-E01",
+        "source_id": "K01",
+        "locators": "10076:002u0017–0056; whole thread100760010",
+        "affirmative_ending": "Actual shared stretching and easier movement; complete coda credits her initiative as useful",
+        "contrary_or_unfinished_tail": "Failed demonstration and pain; initial surprise assistance; no lasting physical or clinical competence",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E02",
+        "source_id": "K02",
+        "locators": "10076:003u0002–0052; whole thread100760170",
+        "affirmative_ending": "Empty queue, adult rest and wanted company until appointment",
+        "contrary_or_unfinished_tail": "Customer departure is Kotori report; complaints not shown resolved; alternatives not fused; complete coda retains uncertainty",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E03",
+        "source_id": "K03",
+        "locators": "10076:005u0014–0036; whole thread100760330",
+        "affirmative_ending": "Actual narrated sleep, company and renewed energy, with later embarrassed trust",
+        "contrary_or_unfinished_tail": "Inward adult account licenses topic rather than certified whole speech; full revival report is not clinical causation",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E04",
+        "source_id": "K04",
+        "locators": "10076:006u0011–0065; whole thread100760480",
+        "affirmative_ending": "Sports difficult but bustle enjoyed; actual sunset admiration and firm refusal to explain",
+        "contrary_or_unfinished_tail": "Tentative loneliness and skepticism about adult uniqueness framing; italic closing company request not accepted on page; no added coda",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E05",
+        "source_id": "K05",
+        "locators": "16002:002u0009/0017–0030/0041–0053; whole thread160020010",
+        "affirmative_ending": "Explicit wish for recipient understanding and continued shared joy",
+        "contrary_or_unfinished_tail": "Two actual stop requests and departures; lecture hall is an aspiration, not actual audience; renewed talk gives no proven adult flight",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E06",
+        "source_id": "K06",
+        "locators": "16002:003u0027–0040; whole thread160020090",
+        "affirmative_ending": "Enjoyable narrated digression for nearly an hour; actual continuation until her satisfaction",
+        "contrary_or_unfinished_tail": "Past listener flight is reported; universal rejection and adult kindness motive are her inferences; no unlimited attention contract",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E07",
+        "source_id": "K07",
+        "locators": "16002:005u0037–0055; whole thread160020130/message160020240:1296",
+        "affirmative_ending": "Actual adult non-return, solved-it message and explicit secret",
+        "contrary_or_unfinished_tail": "Anonymous girl not joined to Kotori; interrupted analogy is not full confession; no enacted peer counseling or proven bathroom destination",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E08",
+        "source_id": "K08",
+        "locators": "16002:006u0043–0058; whole thread160020260",
+        "affirmative_ending": "Actual departure/non-return, unknown completion estimate and delay until ready",
+        "contrary_or_unfinished_tail": "No immediate final answer; narrator/inward modes retained; no absence of all hobbies or clinical mute diagnosis",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E09",
+        "source_id": "K09",
+        "locators": "16002:015u0013–0056; whole thread160020380",
+        "affirmative_ending": "Hesitant account, glasses kept for unnamed happy effect, actual chat and light meal",
+        "contrary_or_unfinished_tail": "Repair report is not an optical test; familiar people fleeing is her report; no fixed romance, mechanism or added coda",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E10",
+        "source_id": "K10",
+        "locators": "Written10076:profile/6484–6513",
+        "affirmative_ending": "Crowds, speaking, outfit gaze condition, birthday remembrance and bodily difference",
+        "contrary_or_unfinished_tail": "Written repertoire is not an enacted annual diary; no presumed consent to touch or new clinical scene",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E11",
+        "source_id": "K11",
+        "locators": "Written16002:profile/1718–1750/fallback000001/000002",
+        "affirmative_ending": "Knowledge light qualified against glitter; candy limits, learning, questions and unfinished self-story",
+        "contrary_or_unfinished_tail": "Machine trouble explanation is not repair; no invented fallback numbers, enacted weapon use or continuous growth ladder",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E12",
+        "source_id": "K12",
+        "locators": "Costume1900917201:10076:context817/10817/900817",
+        "affirmative_ending": "Written cheering, question, completion feeling and contact embarrassment within13/13/9 contexts",
+        "contrary_or_unfinished_tail": "No actual poking, energy result or three enacted events; no added shorter-set lines or biography from empty profile",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E13",
+        "source_id": "L68",
+        "locators": "810:068u0001–0029; choices001/003",
+        "affirmative_ending": "Purposeful chocolate reproduction, invited company, actual delicious shared eating and abundant explanation",
+        "contrary_or_unfinished_tail": "Origin authenticity and recipe unverified; no fixed reform law; Japanese/Korean differences and invitation alternatives retained",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E14",
+        "source_id": "G14",
+        "locators": "1401–1403; current153-line argument",
+        "affirmative_ending": "Differentiated taste, enjoyed making, completed device, ownership discovery and confrontation",
+        "contrary_or_unfinished_tail": "19 actor seams; initial ownership assumption is not early knowledge; concealment is not Neru assent; console repair promise unacted; harm/liability unclosed",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E15",
+        "source_id": "E17",
+        "locators": "817:006/007/008–011; currentL78–83",
+        "affirmative_ending": "Only Utaha gakuran complete; earlier Hibiki/Kotori clothes; specific explanation wish and reached opening",
+        "contrary_or_unfinished_tail": "Not all three new costumes fulfilled; no unanimous pleasure or permanent robot repair",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E16",
+        "source_id": "E18007",
+        "locators": "818:007u0019–0040",
+        "affirmative_ending": "Kotori cheering versus race commitment; independent Hanae useful-care and Hibiki unease",
+        "contrary_or_unfinished_tail": "No single Engineering doctrine or proven fun for everyone",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E17",
+        "source_id": "E18009",
+        "locators": "818:009u0058–0140; actoru0091/u0106",
+        "affirmative_ending": "Hurried fuse, testing wish, robot failure, response and report demand",
+        "contrary_or_unfinished_tail": "No Kotori attribution of raw Hibiki line; no Yuuka attack order, separately shown rocket firing or final battle result",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E18",
+        "source_id": "E18010",
+        "locators": "818:010u0001–0018",
+        "affirmative_ending": "Collective actual evacuation, captives and injured care; track/engine destruction report",
+        "contrary_or_unfinished_tail": "No secure Kotori turn or new appearance credit; total injury count, permanent repair and liability stay unclosed",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E19",
+        "source_id": "P107",
+        "locators": "V002C001E007scene002u0044–0148; scene003u0001–0014",
+        "affirmative_ending": "Budget/material limits, unsafe indoor firing and ceiling damage; actual passed test, Kotori concession and Alice possession",
+        "contrary_or_unfinished_tail": "Numbers reported rather than measured; late condition is not clearly disclosed advance consent; precise test tactics unprinted",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E20",
+        "source_id": "P212/P213",
+        "locators": "V002C002E012u0047–0082/u0072–0078; E013u0036–0055",
+        "affirmative_ending": "Conditional group freight plan and consequent arrival",
+        "contrary_or_unfinished_tail": "Role flips prevent certified Kotori hidden motive; no complete-system stealth, calibrated forecast or solitary route authorship",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E21",
+        "source_id": "P217/P219/P223",
+        "locators": "V002C002E017scene002u0032–0052; E019u0078–0084; E023u0018–0047",
+        "affirmative_ending": "Local victory, group reported exhaustion, handoff and later actual return/help",
+        "contrary_or_unfinished_tail": "Inward adult promise is not secure whole speech; unnamed Utaha gift not Kotori gift or proven escape cause; technical audit and total defeat unshown",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E22",
+        "source_id": "F216/F307",
+        "locators": "V100C002E016u0001–0014; C003E007u0001–0019",
+        "affirmative_ending": "Kotori control question after Himari denial; Engineering limited manual proposal",
+        "contrary_or_unfinished_tail": "Unidentified AMAS not all Rio; proposal not finished manual, reverse-engineering or safe-engine certification",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "KOTORI-E23",
+        "source_id": "F315/F00",
+        "locators": "V100C003E015u0027–0076; F00L162–175/207–239/310–337",
+        "affirmative_ending": "Collective Final repair and survival context at the complete accepted normal boundary",
+        "contrary_or_unfinished_tail": "No Kotori sole rescue authorship, all-person recovery or implementation of all engineering promises",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      }
+    ],
+    "rival_review": {
+      "whole_section": 10,
+      "readings": [
+        "compulsive explanation",
+        "perfect helper",
+        "attention seeking",
+        "pure self-sacrifice",
+        "technical genius",
+        "incompetent engineer",
+        "linear reform",
+        "no learning",
+        "romantic confession",
+        "adult rescue",
+        "institution only"
+      ],
+      "judgment": "The complete prose preserves wanted mutual understanding and ordinary goods alongside actual refusal, secrecy, delay, successful gift adaptation, public costs, ownership and uncertain knowledge. No verdict follows from stakes, model grade, school or source count."
+    },
+    "all_fourteen_OPEN_gaps": {
+      "G01": {
+        "original_topic": "Ordinary and private breadth",
+        "state": "OPEN",
+        "saved_table_line": 138
+      },
+      "G02": {
+        "original_topic": "Yuuka council/club decision transfer",
+        "state": "OPEN",
+        "saved_table_line": 139
+      },
+      "G03": {
+        "original_topic": "Serika service, peer and reciprocity range",
+        "state": "OPEN",
+        "saved_table_line": 140
+      },
+      "G04": {
+        "original_topic": "Hina crisis causality, accountability and ordinary contrast",
+        "state": "OPEN",
+        "saved_table_line": 141
+      },
+      "G05": {
+        "original_topic": "Arius and PS68 ordinary/aftermath transfer",
+        "state": "OPEN",
+        "saved_table_line": 142
+      },
+      "G06": {
+        "original_topic": "Cross-school ordinary repertoire",
+        "state": "OPEN",
+        "saved_table_line": 143
+      },
+      "G07": {
+        "original_topic": "Story-world chronology",
+        "state": "OPEN",
+        "saved_table_line": 144
+      },
+      "G08": {
+        "original_topic": "Event naming and repeat contexts",
+        "state": "OPEN",
+        "saved_table_line": 145
+      },
+      "G09": {
+        "original_topic": "Written speaker/choice attribution",
+        "state": "OPEN",
+        "saved_table_line": 146
+      },
+      "G10": {
+        "original_topic": "Performed voice",
+        "state": "OPEN",
+        "saved_table_line": 147
+      },
+      "G11": {
+        "original_topic": "Hoshino's Yume record and office states",
+        "state": "OPEN",
+        "saved_table_line": 148
+      },
+      "G12": {
+        "original_topic": "Counterpart, system and variant identity",
+        "state": "OPEN",
+        "saved_table_line": 149
+      },
+      "G13": {
+        "original_topic": "Office, contract, safety and technical outcomes",
+        "state": "OPEN",
+        "saved_table_line": 150
+      },
+      "G14": {
+        "original_topic": "Unclassified/mode continuity",
+        "state": "OPEN",
+        "saved_table_line": 151
+      }
+    },
+    "ROOT_acceptance": "PENDING",
+    "relation_institution_namedsection_N_quarter_credit": 0
+  },
+  "historical_coordinates": "Original coordinates stay frozen. Complete canonical saved-line mappings govern current retrieval without retroactive source or other-package credit.",
+  "canonical_saved_line_mapping": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOTORI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_source_or_literary_credit": 0
+}

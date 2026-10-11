@@ -1,0 +1,3089 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_INPUT_AND_AUTHOR_SCOPE_RECEIPT_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Hibiki",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 5f0a24b56557f308e9cef31c7d1c2d58406ef49a, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 85340,
+    "sha256": "d2c57833a6964ff79163124cdb67f160ed5fa5e896509adf83e3347fdb0bb1eb",
+    "git_blob_oid_of_actual_bytes": "d36074b9eb73cbeadb8950f146d8db45af7017a5",
+    "lines": 1584,
+    "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1",
+    "status": "AUTHOR_SOURCE_SCOPE_COMPLETE_ROOT_REVIEW_PENDING",
+    "package": "P3-CHAR-HIBIKI",
+    "typed_family": "P3-F092",
+    "dated_route": "P3-A069",
+    "person_key": "BA_PERSON_HIBIKI",
+    "variants": [
+      16010,
+      20000
+    ],
+    "costume": "1900906601:character:16010",
+    "body": {
+      "file": "BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+      "byte_count": 52132,
+      "line_count": 160,
+      "sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+      "actual_byte_blob_oid": "4acf0ec5752c70a3697ad8f086fdc4fd0e3d096d"
+    },
+    "proposed_canonical_home": "series/blue-archive/04 Specialist Syntheses/CHARACTERS/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+    "required_home": {
+      "home_key": "P3-CHAR-HIBIKI",
+      "kind": "CHARACTER",
+      "source_responsibility_refs": [
+        "P3-F092"
+      ],
+      "allocation_is_completion": false,
+      "scope_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "selected_home_reading_only": true
+    },
+    "frozen_selection_snapshot": "92184703994a1950a5660654ce52d8516dbe9bf5",
+    "analytical_main_comparand": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "architecture": "Current1.12 differs from main1.11 while retaining11 substantive requirements; method1.10. Exact exceptions below; mutable ROOT progress excluded.",
+    "input_tuple_factoring": "A historical comparison marked same_bytes references all four tuple fields of that current input. Exceptions print their exact historical tuple; absent controls do not claim presence. No historical worktree tuple confusion.",
+    "inputs": [
+      {
+        "source_id": "A01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "author_receiving_scope": "Current required eleven sections L322–344 personally received fb4f2f; current1.12 equalsc1 but main1.11 differs, eleven requirements unchanged",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": false,
+            "tuple_reference": "EXACT_HISTORICAL_EXCEPTION",
+            "historical_tuple": {
+              "byte_count": 51287,
+              "line_count": 849,
+              "sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+              "actual_byte_blob_oid": "685661b716fd0032997883efeb294425b0816c18"
+            }
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "A02",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "byte_count": 53414,
+        "line_count": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "actual_byte_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "author_receiving_scope": "Applicable entire L327–379 minimum sources/required dimensions/ordinary before crisis personally received31a0cb; prior necessary comparison/counterreading controls retained",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "A03",
+        "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "byte_count": 79178,
+        "line_count": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "actual_byte_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "author_receiving_scope": "Prior personally received all fourteen literal definitions L31–44 in Noa frozen source receipt C03, with G13/G14 recoveryf0f49c; reused at exact current tuple",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "A04",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "byte_count": 19463,
+        "line_count": 113,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "actual_byte_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "author_receiving_scope": "Prior complete current113-line Cycle008 admission/control argument reused from frozen Trinity/Noa custody; not fresh primary",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "C05",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "byte_count": 461112,
+        "line_count": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "author_receiving_scope": "Selected exact Hibiki required-home object and Engineering companions only. No whole355 literary receiving; actual355/29 allocation is not completion.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": false,
+            "qualification": "Later scoped control; no claimed historical presence or equality"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": false,
+            "qualification": "Later scoped control; no claimed historical presence or equality"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "C06",
+        "repository_relative_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+        "byte_count": 21833,
+        "line_count": 289,
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "actual_byte_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1",
+        "author_receiving_scope": "Prior exact current ROOT V3 scope acceptance355/29 with zero allocation completion and all14OPEN reused; no new ROOT adjudication or whole review credit",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": false,
+            "qualification": "Later scoped control; no claimed historical presence or equality"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": false,
+            "qualification": "Later scoped control; no claimed historical presence or equality"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E17",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "byte_count": 15844,
+        "line_count": 99,
+        "sha256": "4bbb3e21eb2959d3a06f1f0fb4b66111017a6d7e113283d7b32f7dd66aee852e",
+        "actual_byte_blob_oid": "779b22f9d700bbcfe2e8aa38e628217ed9891858",
+        "author_receiving_scope": "Adequate personally prior whole corrected99-line current817 normal meaning, including actual costume partial fulfillment, local robot stop, revised program and opening. Utaha fresh consequential60–99EOF retained as already received scope; no new817 primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E10",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "byte_count": 46462,
+        "line_count": 316,
+        "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+        "actual_byte_blob_oid": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2",
+        "author_receiving_scope": "Adequate prior whole316-line current810 normal contextual comparison reused. Current boundedL290 gift projection a01d02 is a locator only; the complete023 small analytical owner L23 was then personally received. Historical gift intake qualified by this normal owner and Cycle008.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "PW",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 33564,
+        "line_count": 257,
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "actual_byte_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "author_receiving_scope": "Adequate prior personally whole257-line accepted Pavane normal argument da983a1–115/9c6161116–257 reused, with current bounded40–100 routes. Necessary five complete C002 small individual arguments separately bound; no fresh whole MAIN primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F00",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 49292,
+        "line_count": 452,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "actual_byte_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "author_receiving_scope": "Adequate prior personally whole452-line accepted Final normal argument reused, with current207–239/310–337 and collective ending routes already received during Utaha. Three necessary complete individual owners separately bound; no fresh primary or every-person recovery claim.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "G14",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "byte_count": 24487,
+        "line_count": 153,
+        "sha256": "2f196a0f37e8bb018bf29b953b20f233be8bcbd829936448dcc51728d45a84b2",
+        "actual_byte_blob_oid": "5af18f683c454059385397183a8822af7c9f7058",
+        "author_receiving_scope": "Personally complete current153-line accepted Engineering group argument1072461–85/af6af986–153EOF. Hibiki consequential70–125 with actor seams newly completely received eab894. Allthree ordinary/device/ownership/retaliation arguments, qualified exact attribution; no fresh group primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 109502,
+        "line_count": 534,
+        "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+        "actual_byte_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66",
+        "author_receiving_scope": "SCOPED CURRENT AUTHORITY AND ROUTING ONLY: currentL23–40 actually completely received6b5060, not whole534 checkpoint. Utaha-specific positive routing was received for her and is not a Hibiki appearance proof. Hibiki comparisons use the separately whole received007/009/010/017 analytical arguments below.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18007",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "byte_count": 8542,
+        "line_count": 68,
+        "sha256": "4dc7f8921e4962faf3dae333742524bf0b2e4ad48008e3f8128d2b0f7181c1fa",
+        "actual_byte_blob_oid": "6e44f7ef305c8b634e4a493f1184b3a13970a3f0",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicit physicalEOF; precise choices, raw-command refinements, contrary recipients and ending. Actual fresh analytical receiving by engineering_read_episode_working.py, no primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18009",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "byte_count": 8127,
+        "line_count": 70,
+        "sha256": "668e7dd8623b83263bf83fc5738703752ac81065ef3192293bfb91ece637fb28",
+        "actual_byte_blob_oid": "4313276d4c06791f015f0edaa2e3aa85eb1f08dd",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicit physicalEOF; precise choices, raw-command refinements, contrary recipients and ending. Actual fresh analytical receiving by engineering_read_episode_working.py, no primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18010",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "byte_count": 7590,
+        "line_count": 66,
+        "sha256": "e5a1f1842a7a6791c90c82a067d700b54dda14a0eebebc2a26eef421add49bcf",
+        "actual_byte_blob_oid": "f63c12ac184bc7fe83491869fec55f4fb788a7f5",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicit physicalEOF; precise choices, raw-command refinements, contrary recipients and ending. Actual fresh analytical receiving by engineering_read_episode_working.py, no primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18017",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "byte_count": 6807,
+        "line_count": 59,
+        "sha256": "246577ca6434bb42420e89200267cde4c1c347210f2056f18ef0047b667b21e6",
+        "actual_byte_blob_oid": "8a0da842a1a3e2a448a99e3928da1e8f8a0256a6",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicit physicalEOF; precise choices, raw-command refinements, contrary recipients and ending. Actual fresh analytical receiving by engineering_read_episode_working.py, no primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P212",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "byte_count": 11241,
+        "line_count": 77,
+        "sha256": "41a3b59d29497baf1b336a212e376eea921ae3f1f00e345c4de4071987fb830e",
+        "actual_byte_blob_oid": "e21a57cb3b916b02dff14e98b59f1296cd6b4cc8",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P213",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md",
+        "byte_count": 9575,
+        "line_count": 72,
+        "sha256": "f855463a73fe432f6d98c55f921604e55ae643c9b472817e2c0876d42df7dc96",
+        "actual_byte_blob_oid": "86829cde73fcf167ccf0166e22fb7fdee08c6ce5",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P217",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "byte_count": 10259,
+        "line_count": 75,
+        "sha256": "2e0f08a62820cb98953d2b6aa13f19eef6299c95abf04266e1246af91a2a80b8",
+        "actual_byte_blob_oid": "b9a6fd3f5b0196887f8a55411a63ca6f68106d70",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P219",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E019_DEEP_READING.md",
+        "byte_count": 9028,
+        "line_count": 70,
+        "sha256": "7c8bd1a797da200a4d2022db0ada22f0c24f47fbea40094aa8eaa7b34ea89d1e",
+        "actual_byte_blob_oid": "c61adbf485220454d78092669fdaafb191db6557",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P223",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "byte_count": 10620,
+        "line_count": 77,
+        "sha256": "26d08a3839c57f51aee0a98ce26c97eb6f54f72f28ecbb4280acd1e1c56ea2cf",
+        "actual_byte_blob_oid": "92ab9cf967d913d49e09fae6c09eef0d119d2650",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F216",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md",
+        "byte_count": 2316,
+        "line_count": 26,
+        "sha256": "cc8bffc658943c6f8b51984c30e63bbcb0f11b8764ef43d518e3c1109a111bef",
+        "actual_byte_blob_oid": "b4b08dd331cba4f7a57948aa20dbde82617139df",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F307",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+        "byte_count": 6643,
+        "line_count": 39,
+        "sha256": "341fac9070d15a90f4d180c2402d57f43e811af5cd1a455be2afb42f4f18fe2c",
+        "actual_byte_blob_oid": "40c7685c7e73c5c05a594d380110e919d0c165c7",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F315",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E015_DEEP_READING.md",
+        "byte_count": 5125,
+        "line_count": 36,
+        "sha256": "10a6d3b598fca1e4d8e68986daa27a9e16d48aeb2c443e271e759e4959ff65c1",
+        "actual_byte_blob_oid": "71c473bfe50b6d43d70ffc3080a259d3df981f9e",
+        "author_receiving_scope": "Personally complete current small accepted individual analytical argument through explicitEOF; consequential literary thesis, full endpoint, role/inward/alternative/technical-report limits. Producer next-unread boundary retained as historical; no primarybody replay.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H25",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "byte_count": 36275,
+        "line_count": 309,
+        "sha256": "7360c47f1a8784d6db1e4724edb416ae12236da1c56a7bb6c18f4c546830e87b",
+        "actual_byte_blob_oid": "c77e1bb0831acb2082af351d5939484522015063",
+        "author_receiving_scope": "Personally complete current309-line normal account388c63L1–161/1e2aaf162–235/51e41d236–309EOF. All25 selected objects joined in14 complete ordinary arguments, codas, contrary recipients and written contexts; original14 sole analytical owners independently whole received below, zero25 fresh primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "L23",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_023_80000023_DEEP_READING.md",
+        "byte_count": 7915,
+        "line_count": 68,
+        "sha256": "caae32d7e337d4e558766df71bfb6f4ce981fdf0ed4db86895e04567f1552fd3",
+        "actual_byte_blob_oid": "45a356ac86185caeea5422d2dcb6094305496448",
+        "author_receiving_scope": "Personally complete current68-line small accepted analytical gift argument through physicalEOF c2090d. Includes untested field power, recipient vulnerability, unperformed Trinity consultation, two alternatives, offered shell, wanted remembrance and taste qualification; JP/KR differences retained. Historical producer intake governed by E10 and Cycle008; no primary body or performed credit.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      }
+    ],
+    "local_complete_original_analytical_owners": [
+      {
+        "source_id": "H01",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_BOND_16010_E002_PAIRED_DEEP_READING.md",
+        "byte_count": 10268,
+        "line_count": 97,
+        "sha256": "dd255614ef1e5bc0c1a32b98d2457517aeea66ecb422dcf7367417a36eae9827",
+        "actual_byte_blob_oid": "7e2188bb58559d02f0fb5e5d3eacff38f129b50d",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/HIBIKI/BLUE_ARCHIVE_HIBIKI_BOND_16010_E002_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:16010:002",
+          "BA:momotalk:16010:thread:160100010"
+        ],
+        "personally_received_character_span": [
+          0,
+          10110
+        ],
+        "actual_complete_emission": "bf81d7",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H02",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_BOND_16010_E003_PAIRED_DEEP_READING.md",
+        "byte_count": 10906,
+        "line_count": 97,
+        "sha256": "bf942f6a294e29e35875177abaea1e2b74258de38effb07b3cdbd7197ffaea66",
+        "actual_byte_blob_oid": "91224e654030aa3d2ef848eedea94b12a341ef20",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/HIBIKI/BLUE_ARCHIVE_HIBIKI_BOND_16010_E003_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:16010:003",
+          "BA:momotalk:16010:thread:160100090"
+        ],
+        "personally_received_character_span": [
+          0,
+          10736
+        ],
+        "actual_complete_emission": "88017e",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H03",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_BOND_16010_E005_PAIRED_DEEP_READING.md",
+        "byte_count": 10850,
+        "line_count": 99,
+        "sha256": "933db5afeae29b3bcd96b5b563c89e984402ba08944a09a237714666d88817c1",
+        "actual_byte_blob_oid": "6846157e552157e00520d81407511bdb2393a2a9",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/HIBIKI/BLUE_ARCHIVE_HIBIKI_BOND_16010_E005_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:16010:005",
+          "BA:momotalk:16010:thread:160100160"
+        ],
+        "personally_received_character_span": [
+          0,
+          10704
+        ],
+        "actual_complete_emission": "3b29d7",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H04",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_BOND_16010_E006_PAIRED_DEEP_READING.md",
+        "byte_count": 10647,
+        "line_count": 97,
+        "sha256": "b1df1bc393b5344245e5430603d5144d1fe4c67c10ce5c0beda46746d8470015",
+        "actual_byte_blob_oid": "4cae83921043e71c9e20c841153ffc38af7ac5b6",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/HIBIKI/BLUE_ARCHIVE_HIBIKI_BOND_16010_E006_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:16010:006",
+          "BA:momotalk:16010:thread:160100210"
+        ],
+        "personally_received_character_span": [
+          0,
+          10497
+        ],
+        "actual_complete_emission": "1ee760",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H05",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_BOND_20000_E002_PAIRED_DEEP_READING.md",
+        "byte_count": 10884,
+        "line_count": 101,
+        "sha256": "febb0464b5d45dc6474b8deb8fcf04bed51cc903073dd6bdbc5c35dd19d97862",
+        "actual_byte_blob_oid": "42ed8d1ddcc520cb00789b26eb75abae9c829941",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/HIBIKI/BLUE_ARCHIVE_HIBIKI_BOND_20000_E002_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:20000:002",
+          "BA:momotalk:20000:thread:200000010"
+        ],
+        "personally_received_character_span": [
+          0,
+          10676
+        ],
+        "actual_complete_emission": "97198c",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H06",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_BOND_20000_E003_PAIRED_DEEP_READING.md",
+        "byte_count": 11293,
+        "line_count": 99,
+        "sha256": "2f50420058986321778d0a85516db5d822496cbc2192600d1fb542d00c084b5c",
+        "actual_byte_blob_oid": "fee46f073c3a8ed11392cec14ee17a07d735b3e6",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/HIBIKI/BLUE_ARCHIVE_HIBIKI_BOND_20000_E003_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:20000:003",
+          "BA:momotalk:20000:thread:200000090"
+        ],
+        "personally_received_character_span": [
+          0,
+          11105
+        ],
+        "actual_complete_emission": "465f7f",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H07",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_BOND_20000_E005_PAIRED_DEEP_READING.md",
+        "byte_count": 11012,
+        "line_count": 89,
+        "sha256": "b9530cf174019824e88231e2e50563fc81b88bec67972f8502ee12e0624236c0",
+        "actual_byte_blob_oid": "1f5c16e768dfbc85ff24fdda55543a9ab907ed90",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/HIBIKI/BLUE_ARCHIVE_HIBIKI_BOND_20000_E005_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:20000:005",
+          "BA:momotalk:20000:thread:200000180"
+        ],
+        "personally_received_character_span": [
+          0,
+          10874
+        ],
+        "actual_complete_emission": "0b48c4",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H08",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_BOND_20000_E006_PAIRED_DEEP_READING.md",
+        "byte_count": 9560,
+        "line_count": 87,
+        "sha256": "8f718eca6410ad7daf7203800c414232e23ec03892f0d3680a4fc5a9a90d93ed",
+        "actual_byte_blob_oid": "14f0bb925a6d2a4a706f2452a910b6c4cec58929",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/HIBIKI/BLUE_ARCHIVE_HIBIKI_BOND_20000_E006_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:20000:006",
+          "BA:momotalk:20000:thread:200000260"
+        ],
+        "personally_received_character_span": [
+          0,
+          9424
+        ],
+        "actual_complete_emission": "aa570a",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H09",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_BOND_20000_E008_PAIRED_DEEP_READING.md",
+        "byte_count": 9408,
+        "line_count": 91,
+        "sha256": "ba88bc21d53cae7bd03db89b9ddb81561a7f28f8086c71a5de385429fe002baf",
+        "actual_byte_blob_oid": "ded787563a72b0f7a73aeb2f1231dc7f030fee7a",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/HIBIKI/BLUE_ARCHIVE_HIBIKI_BOND_20000_E008_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:20000:008",
+          "BA:momotalk:20000:thread:200000360"
+        ],
+        "personally_received_character_span": [
+          0,
+          9294
+        ],
+        "actual_complete_emission": "a3f1bd",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H10",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_BOND_20000_E009_PAIRED_DEEP_READING.md",
+        "byte_count": 9955,
+        "line_count": 87,
+        "sha256": "5009edafc327cb3361c16c5bf46855e6a6f46a1ae1f4aa74fb13607a2e0aae2a",
+        "actual_byte_blob_oid": "334def9116eada0c9837026504f688ae23a35d78",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/HIBIKI/BLUE_ARCHIVE_HIBIKI_BOND_20000_E009_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:20000:009",
+          "BA:momotalk:20000:thread:200000440"
+        ],
+        "personally_received_character_span": [
+          0,
+          9843
+        ],
+        "actual_complete_emission": "b48ffb",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H11",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_BOND_20000_E015_PAIRED_DEEP_READING.md",
+        "byte_count": 9224,
+        "line_count": 85,
+        "sha256": "e714ba96d5e68035a569b7d487b1f9b6942d11c7c86f1ada428c156ce4e18c32",
+        "actual_byte_blob_oid": "59939357be9d4f580d0e537cb6c3b98dc5660deb",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/HIBIKI/BLUE_ARCHIVE_HIBIKI_BOND_20000_E015_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:20000:015",
+          "BA:momotalk:20000:thread:200000510"
+        ],
+        "personally_received_character_span": [
+          0,
+          9120
+        ],
+        "actual_complete_emission": "0008a8",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H12",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_VARIANT_16010_WRITTEN_DATA_DEEP_READING.md",
+        "byte_count": 8554,
+        "line_count": 83,
+        "sha256": "7f37d842ef9fb32489e34c4589ab8bf0e6772f049ba55a3e9cd847cf21185cee",
+        "actual_byte_blob_oid": "fb9e750c56805acf8679d21d612fe89bd8573cb1",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/HIBIKI/BLUE_ARCHIVE_HIBIKI_VARIANT_16010_WRITTEN_DATA_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:character_data:16010:profile_and_dialog"
+        ],
+        "personally_received_character_span": [
+          0,
+          8506
+        ],
+        "actual_complete_emission": "77ddd4",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H13",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_VARIANT_20000_WRITTEN_DATA_DEEP_READING.md",
+        "byte_count": 9483,
+        "line_count": 89,
+        "sha256": "9acca6344dcaa6c9b99e7255bc1023575b1baddc64cdfe6c53d71b1d07efe01d",
+        "actual_byte_blob_oid": "0265027e2ca7107c3799f15d59625a8447e2c8b6",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/HIBIKI/BLUE_ARCHIVE_HIBIKI_VARIANT_20000_WRITTEN_DATA_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:character_data:20000:profile_and_dialog"
+        ],
+        "personally_received_character_span": [
+          0,
+          9429
+        ],
+        "actual_complete_emission": "1900ff",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "H14",
+        "attachment_relative_path": "HIBIKI25_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_1c7f09d2/BLUE_ARCHIVE_HIBIKI_EVENT_COSTUME_1900906601_CHARACTER_16010_WRITTEN_DATA_DEEP_READING.md",
+        "byte_count": 9355,
+        "line_count": 87,
+        "sha256": "acb7175f2096bdc953f17c42470949d0a1f5ba54ad78f2b4c4f9277d6162d2e2",
+        "actual_byte_blob_oid": "d4b1939a6c40a3ad25821f65ab7858db53125179",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/HIBIKI/BLUE_ARCHIVE_HIBIKI_EVENT_COSTUME_1900906601_CHARACTER_16010_WRITTEN_DATA_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:character_data:event_costume:1900906601:character:16010"
+        ],
+        "personally_received_character_span": [
+          0,
+          9271
+        ],
+        "actual_complete_emission": "f98f31",
+        "through_physical_EOF": true,
+        "current_public_authority": "H25 plus Cycle008/A04, preserving historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      }
+    ],
+    "selected_original_binding_registry": {
+      "attachment_relative_path": "HIBIKI25_EXACT15_ACCEPTED_BODY_HOME_HEADER_ONLY_FORMAT_20261008_V1_70ae8c11/CURRENT_HIBIKI25_EXACT15_DERIVATIVE_MAP_AND_COMPLETE_FACTORED_LITERAL_HEADER_ROLE_VIEW_V1.json",
+      "byte_count": 107496,
+      "line_count": 2163,
+      "sha256": "2dc62fb58681dfb3680205b25c149ba21cae46bdfd8e70fa245df19e211ed65f",
+      "actual_byte_blob_oid": "148c0841919a67e1a42bf254cf8e7e08859772a4",
+      "receiving_scope": "Selected14 accepted-original/source-ID/home bindings and necessary factoring/header preview only; not fresh whole107496 metadata receiving or new original-owner acceptance."
+    },
+    "relative_links": [
+      {
+        "label": "H25:complete private and written account",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16010:003u0033–0048;005u0011–0044;006u0015–0033;20000:009scene002u0025–0038;015u0006–0016/0041–0062",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:002u0008–0037 and wholethread200000010, including200000080:1310",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16010:003whole160100090/u0018–0048;005whole160100160/u0011–0044;006whole160100210/u0002–0033",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:003scene002u0024–0051/whole200000090;009scene001u0015–0019/scene002u0025–0059 and whole200000440",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:008u0012–0038 and full1367–1370 coda;015u0006–0016/0049–0062;16010:002u0027–0034;D16010:ProfileIntroductionJp/CharacterGet4682",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "D20000:ProfileIntroductionJp;Cafe1685–1686;UILobby1694/1696–1699",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16010:003u0035–0040;20000:015u0041–0056",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16010:002u0013/0020–0034/0036–0048;D16010:UILobby4691/4694–4700",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:006whole200000260/messages1341–1343/u0052;16010:003u0047–0048",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:002u0005–0024;D20000:Cafe1685–1686",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "G1401u0007–0019/0044–0055;G1402u0002–0025, with current actor qualifications",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "G1402u0026–0055/0063–0064;G1403u0013–0023/0031–0045/0063–0079",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:009scene001u0013–0019/scene002u0025–0038/0056–0059",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16010:002u0005–0013/0020–0026/0036–0048 and whole160100010",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:015u0027–0037/0041–0056;D16010:UILobby4699–4700;D20000:UILobby1700–1706",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:008u0007–0020/0024–0038 and whole200000360/messages1367–1370",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:006u0021–0052 and complete1345–1354 coda;16010:006u0015–0033 and complete160100210",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "810:023u0002–0017/0018–0026;JP/KR limits and complete ending",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_023_80000023_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_023_80000023_DEEP_READING.md",
+        "source_id": "L23",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:003scene002u0003/0013–0037/0039–0051;whole200000090/messages1317–1323",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16010:005u0011–0017/0024–0039/0043–0044 and whole160100160",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:009scene001u0006/0015–0019;scene002u0015–0038",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "PavaneC002E012u0047–0082",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "source_id": "P212",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "E013u0036–0055",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md",
+        "source_id": "P213",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "E017scene002u0001–0052",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "source_id": "P217",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "E023u0018–0047",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "source_id": "P223",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "PW:complete normal contextual ending",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "source_id": "PW",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "FinalC002E016u0001–0014",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md",
+        "source_id": "F216",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "C003E007u0001–0019",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+        "source_id": "F307",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "C003E015u0027–0076",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E015_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E015_DEEP_READING.md",
+        "source_id": "F315",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "F00:complete accepted contextual ending",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "source_id": "F00",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "817:corrected006/008–011",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "source_id": "E17",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "818:007u0019–0040",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "source_id": "E18007",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "009u0079–0140",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "source_id": "E18009",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "010u0001–0018",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "source_id": "E18010",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "017u0017–0061",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "source_id": "E18017",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16010:002choice001/u0005–0008;20000:008choice004–005;015u0006–0016/choice014",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16010:003choice003–004/u0045–0048;20000:009scene002choice001–002/u0021–0038;015choice012–014/u0049–0062",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "D16010:UILobby4699–4700;16010:006u0023–0033;20000:006messages1341–1343;008messages1367–1370;009messages1380–1382",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "G1401–1403:complete argument and actual actor seams",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "817:006 and current correction scope",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "source_id": "E17",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "818:007 independent care",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "source_id": "E18007",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "017 independent afterstory responses",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md",
+        "source_id": "E18017",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:005u0003–0017/0031–0055/0063–0072 and whole200000180/messages1336–1337",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16010:002u0013/0022–0023/0027;20000:002u0013;015u0014/0049–0056;D20000:UILobby1696–1699",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "20000:003scene002u0051;005u0024–0025;006u0028–0039;16010:005u0028–0033;003choice004;20000:008choice004–005",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16010:003u0018–0032/0041;20000:009scene002u0031–0034/0045–0059;D20000:UILobbySpecial1708–1715;20000:005u0063–0065",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "Costume1900906601:16010:UIEventLobby000001–000035/UIEventShop000001–000018",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "H25:current whole normal authority and complete argument",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "H25",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      }
+    ],
+    "source_authority": "CurrentCycle008 admits registeredselectedscopeWITHLIMITS. Producer historical counts, intakes, pendingstates and unknown historical custody remain attributed and immutable. Whole pair arguments are evidence, not source-credit grants.",
+    "initial_complete_saved_body": {
+      "bytes": 50501,
+      "sha256": "b1cf10e19cd39ee56d606e6dd385006bb391d2b6c10c384499fc4cdce86244b3",
+      "characters": 50017,
+      "complete_character_ranges": [
+        [
+          0,
+          17000
+        ],
+        [
+          17000,
+          34000
+        ],
+        [
+          34000,
+          50017
+        ]
+      ],
+      "actual_emissions": [
+        "85cc1d",
+        "91fa09",
+        "4e0aa9"
+      ]
+    },
+    "final_wording_receiving": "Three citation/mode paragraphs actually receiveda7371f; new complete gift paragraph/publiccustody/gap row personally receiveda096b5 after completeL23c2090d. Final exact body is bound above; separate author seal follows actual full receipt readback.",
+    "excluded_negative_routes": "Fresh wholeE832 analytical owner had no positive Hibiki appearance and supplies no Hibiki action/endpoint credit. Mechanical positive810023 route was an inquiry aid; no mechanical metadata or primary reading credit inherited. Oversized810 checkpoint conservative guard rejected before content/hash; unused.",
+    "all_fourteen_OPEN_gaps": {
+      "G01": {
+        "original_topic": "ordinary/private breadth",
+        "state": "OPEN",
+        "saved_table_line": 145
+      },
+      "G02": {
+        "original_topic": "Yuuka council/club transfer",
+        "state": "OPEN",
+        "saved_table_line": 146
+      },
+      "G03": {
+        "original_topic": "Serika service/reciprocity",
+        "state": "OPEN",
+        "saved_table_line": 147
+      },
+      "G04": {
+        "original_topic": "Hina accountability/ordinary contrast",
+        "state": "OPEN",
+        "saved_table_line": 148
+      },
+      "G05": {
+        "original_topic": "Arius/PS68 aftermath",
+        "state": "OPEN",
+        "saved_table_line": 149
+      },
+      "G06": {
+        "original_topic": "cross-school ordinary",
+        "state": "OPEN",
+        "saved_table_line": 150
+      },
+      "G07": {
+        "original_topic": "chronology",
+        "state": "OPEN",
+        "saved_table_line": 151
+      },
+      "G08": {
+        "original_topic": "event names/repeats",
+        "state": "OPEN",
+        "saved_table_line": 152
+      },
+      "G09": {
+        "original_topic": "actor/choice attribution",
+        "state": "OPEN",
+        "saved_table_line": 153
+      },
+      "G10": {
+        "original_topic": "performed voice",
+        "state": "OPEN",
+        "saved_table_line": 154
+      },
+      "G11": {
+        "original_topic": "Hoshino/Yume record/office",
+        "state": "OPEN",
+        "saved_table_line": 155
+      },
+      "G12": {
+        "original_topic": "identity/system/variants",
+        "state": "OPEN",
+        "saved_table_line": 156
+      },
+      "G13": {
+        "original_topic": "office/contract/safety/technical outcomes",
+        "state": "OPEN",
+        "saved_table_line": 157
+      },
+      "G14": {
+        "original_topic": "unclassified/mode continuity",
+        "state": "OPEN",
+        "saved_table_line": 158
+      }
+    },
+    "nine_unbound_large": "UNREAD_UNHASHED_UNUSED",
+    "new_primary_raw_native_performed_model_independent_credit": 0,
+    "R_Git_provider_global_writes": 0,
+    "ROOT_acceptance": "PENDING",
+    "ROOT_adoption": "PENDING",
+    "scope_N_quarter_namedsection_relation_institution_credit": 0
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "current_required_home": "P3-CHAR-HIBIKI",
+  "root_exact_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIBIKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "fixed_publication_snapshot": "Nine already ROOT-accepted packages55–63 only; after full ROOT installation63=62characters+1directedrelationship. Later live ROOT reviews excluded.",
+  "historical_author_delivery_attachments": {
+    "HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json": {
+      "schema": "HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+      "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_REVIEW_PENDING",
+      "body": {
+        "file": "BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 52132,
+        "line_count": 160,
+        "sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+        "actual_byte_blob_oid": "4acf0ec5752c70a3697ad8f086fdc4fd0e3d096d"
+      },
+      "all_eleven_sections": [
+        {
+          "line": 23,
+          "heading": "## 1. Core thesis"
+        },
+        {
+          "line": 31,
+          "heading": "## 2. Longitudinal arc and legitimate ordering"
+        },
+        {
+          "line": 43,
+          "heading": "## 3. Public self, private self, and interpretation"
+        },
+        {
+          "line": 53,
+          "heading": "## 4. Millennium and Engineering: standards, resources and ownership"
+        },
+        {
+          "line": 63,
+          "heading": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure"
+        },
+        {
+          "line": 77,
+          "heading": "## 6. Crisis behavior: limits, responsibility and actual endings"
+        },
+        {
+          "line": 91,
+          "heading": "## 7. Relationship with Sensei: requests, feedback and reciprocity"
+        },
+        {
+          "line": 101,
+          "heading": "## 8. Major peers and independent recipients"
+        },
+        {
+          "line": 111,
+          "heading": "## 9. Japanese written voice and source-mode limits"
+        },
+        {
+          "line": 121,
+          "heading": "## 10. Competing readings and evidential judgment"
+        },
+        {
+          "line": 135,
+          "heading": "## 11. Evidence route, open gaps and completeness"
+        }
+      ],
+      "complete_saved_paragraph_joins": [
+        {
+          "saved_paragraph_id": "HIBIKI-P001",
+          "saved_line": 25,
+          "section": "## 1. Core thesis",
+          "paragraph_sha256": "86d9940545f78ac6610cdccd683ae48a69ecd5e577e2f53a1c691fd499d3c384",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "H25:complete private and written account"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P002",
+          "saved_line": 27,
+          "section": "## 1. Core thesis",
+          "paragraph_sha256": "edde45a4684a58c6d7591afe494d3a12a564c5d2c5c15d63e82eea34d5f42be6",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "16010:003u0033–0048;005u0011–0044;006u0015–0033;20000:009scene002u0025–0038;015u0006–0016/0041–0062"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P003",
+          "saved_line": 29,
+          "section": "## 1. Core thesis",
+          "paragraph_sha256": "a431d0d353f9851dfb123afe7a943bcad9eff9c8d27e726044c8d3a955451f5d",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017",
+            "F00",
+            "G14",
+            "H25",
+            "L23",
+            "PW"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P004",
+          "saved_line": 33,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "dd1a66a5ef010ca693c8df2c8c18436aa0898ecc19a2857063dc31401916682c",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:002u0008–0037 and wholethread200000010, including200000080:1310"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P005",
+          "saved_line": 35,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "7587dbb06fa26561ce1c09bdc3b0e1a750965bf381b17bc68cd05e38287a4c05",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "16010:003whole160100090/u0018–0048;005whole160100160/u0011–0044;006whole160100210/u0002–0033"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P006",
+          "saved_line": 37,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "b99b8f3874532be6ac8a836b1fd3d553c6ea806debe76cb23fba3c0a764b04fa",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:003scene002u0024–0051/whole200000090;009scene001u0015–0019/scene002u0025–0059 and whole200000440"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P007",
+          "saved_line": 39,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "9cc9034348ca45eeb7eae53faf94c123e7b8aa991585348a52da5e751278401b",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:008u0012–0038 and full1367–1370 coda;015u0006–0016/0049–0062;16010:002u0027–0034;D16010:ProfileIntroductionJp/CharacterGet4682"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P008",
+          "saved_line": 41,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "1cb51f2d4ee5cef21d45f6bd07fba2acff7457b769bfd83d21453357f3cc81a9",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017",
+            "F00",
+            "G14",
+            "H25",
+            "L23",
+            "PW"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P009",
+          "saved_line": 45,
+          "section": "## 3. Public self, private self, and interpretation",
+          "paragraph_sha256": "ca6b7d2c52c9c20412bd1eb22f2ed3b590de4c324e61fc05b56ebc6718e869d3",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "D20000:ProfileIntroductionJp;Cafe1685–1686;UILobby1694/1696–1699"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P010",
+          "saved_line": 47,
+          "section": "## 3. Public self, private self, and interpretation",
+          "paragraph_sha256": "554bcd9f3797a1c7162b69b1094d1a586f0e4a3d3c0f770561625acb1bfd1491",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "16010:003u0035–0040;20000:015u0041–0056"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P011",
+          "saved_line": 49,
+          "section": "## 3. Public self, private self, and interpretation",
+          "paragraph_sha256": "68386ba9441a3517c2ecf277543ef10a073d65e49b9de0f4dd28e6b55191f3b1",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "16010:002u0013/0020–0034/0036–0048;D16010:UILobby4691/4694–4700"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P012",
+          "saved_line": 51,
+          "section": "## 3. Public self, private self, and interpretation",
+          "paragraph_sha256": "7e5f8c106be25b0acdf957a3d276041ef93bce4ce5055fba7a9c1abc15f1f905",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:006whole200000260/messages1341–1343/u0052;16010:003u0047–0048"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P013",
+          "saved_line": 55,
+          "section": "## 4. Millennium and Engineering: standards, resources and ownership",
+          "paragraph_sha256": "c7c80eb10db6b499767409d3154b78d749c99f98f879fb07e49d910405d0c03a",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:002u0005–0024;D20000:Cafe1685–1686"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P014",
+          "saved_line": 57,
+          "section": "## 4. Millennium and Engineering: standards, resources and ownership",
+          "paragraph_sha256": "dd88d5f9e686c3b3237d7442e67003249ee37d7448a4f386a703a889449cfcdb",
+          "source_ids": [
+            "G14"
+          ],
+          "inline_locators": [
+            "G1401u0007–0019/0044–0055;G1402u0002–0025, with current actor qualifications"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P015",
+          "saved_line": 59,
+          "section": "## 4. Millennium and Engineering: standards, resources and ownership",
+          "paragraph_sha256": "330f7308e7890d0b49934a758649e27c2e8c56dcecb937a23ffb5d24606dd0ff",
+          "source_ids": [
+            "G14"
+          ],
+          "inline_locators": [
+            "G1402u0026–0055/0063–0064;G1403u0013–0023/0031–0045/0063–0079"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P016",
+          "saved_line": 61,
+          "section": "## 4. Millennium and Engineering: standards, resources and ownership",
+          "paragraph_sha256": "894de61ef1d2893c88ff47261ba4000ed55576d1ace923582a23bb2641d23480",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:009scene001u0013–0019/scene002u0025–0038/0056–0059"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P017",
+          "saved_line": 65,
+          "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+          "paragraph_sha256": "a8159987dc800b04152abdd82a58dfb264c3bd860bfb99d3e83b733690465168",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "16010:002u0005–0013/0020–0026/0036–0048 and whole160100010"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P018",
+          "saved_line": 67,
+          "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+          "paragraph_sha256": "afcf0eb1848854340dc6c7b478a7805228765a002f0c7e4e5af7c8882ee86c98",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:015u0027–0037/0041–0056;D16010:UILobby4699–4700;D20000:UILobby1700–1706"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P019",
+          "saved_line": 69,
+          "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+          "paragraph_sha256": "2113eb26f6df92b9da3e4820ba55ca868a484ea013b512dab20e1cc28fb89586",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:008u0007–0020/0024–0038 and whole200000360/messages1367–1370"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P020",
+          "saved_line": 71,
+          "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+          "paragraph_sha256": "825744070902d4233cfe708649aa7ca237fc4f261a0666843a7816ad9bb0f1fd",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:006u0021–0052 and complete1345–1354 coda;16010:006u0015–0033 and complete160100210"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P021",
+          "saved_line": 73,
+          "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+          "paragraph_sha256": "8c3cc0f04e34f67c7dcfe8114d315405bb8363be35a57dd612788e3ef2046c52",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017",
+            "F00",
+            "G14",
+            "H25",
+            "L23",
+            "PW"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P022",
+          "saved_line": 75,
+          "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+          "paragraph_sha256": "75c7bece4f9631faf33f72c844f3b8f75361428d2156b2116eaa4927fd2d88fb",
+          "source_ids": [
+            "L23"
+          ],
+          "inline_locators": [
+            "810:023u0002–0017/0018–0026;JP/KR limits and complete ending"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P023",
+          "saved_line": 79,
+          "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+          "paragraph_sha256": "c04e24a79b62b2b808bbd67e6b5f51048479e9d914d3aaa20c65aba8ca28ab1b",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:003scene002u0003/0013–0037/0039–0051;whole200000090/messages1317–1323"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P024",
+          "saved_line": 81,
+          "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+          "paragraph_sha256": "56ce7e566245c5294368873549ee9a42ebcc6c2b56c06e825a7ed0b4a0b45f6c",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "16010:005u0011–0017/0024–0039/0043–0044 and whole160100160"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P025",
+          "saved_line": 83,
+          "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+          "paragraph_sha256": "a9a744ab280a9c6f7050010745c4918155b3eda32bbe996a3c2af145ecc73bbe",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:009scene001u0006/0015–0019;scene002u0015–0038"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P026",
+          "saved_line": 85,
+          "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+          "paragraph_sha256": "fb65745f4d1d2dadf17813bd7d6bcfc7b8f409590c5ae9b854850bf4bcd719da",
+          "source_ids": [
+            "P212",
+            "P213",
+            "P217",
+            "P223",
+            "PW"
+          ],
+          "inline_locators": [
+            "PavaneC002E012u0047–0082",
+            "E013u0036–0055",
+            "E017scene002u0001–0052",
+            "E023u0018–0047",
+            "PW:complete normal contextual ending"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P027",
+          "saved_line": 87,
+          "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+          "paragraph_sha256": "996f5b5a528cb179262c434c6902beccc80c0d0f5ddae9cb18cc54182d0340c0",
+          "source_ids": [
+            "F00",
+            "F216",
+            "F307",
+            "F315"
+          ],
+          "inline_locators": [
+            "FinalC002E016u0001–0014",
+            "C003E007u0001–0019",
+            "C003E015u0027–0076",
+            "F00:complete accepted contextual ending"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P028",
+          "saved_line": 89,
+          "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+          "paragraph_sha256": "579f9e49e8e24969c5afc2df08aa3bb16e757f6609c016c22e384d80549e0da9",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017"
+          ],
+          "inline_locators": [
+            "817:corrected006/008–011",
+            "818:007u0019–0040",
+            "009u0079–0140",
+            "010u0001–0018",
+            "017u0017–0061"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P029",
+          "saved_line": 93,
+          "section": "## 7. Relationship with Sensei: requests, feedback and reciprocity",
+          "paragraph_sha256": "68d3efc5ef80fb93271ac0c580398b336db9c5b4e31727ccc4f55d04fd46dee8",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "16010:002choice001/u0005–0008;20000:008choice004–005;015u0006–0016/choice014"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P030",
+          "saved_line": 95,
+          "section": "## 7. Relationship with Sensei: requests, feedback and reciprocity",
+          "paragraph_sha256": "ce8a37d31db9a4e92f76930a7d9c6d96e49dcaf832028262e0d1fb9c5f1cb699",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "16010:003choice003–004/u0045–0048;20000:009scene002choice001–002/u0021–0038;015choice012–014/u0049–0062"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P031",
+          "saved_line": 97,
+          "section": "## 7. Relationship with Sensei: requests, feedback and reciprocity",
+          "paragraph_sha256": "66774d7846280fbef5c847452987d406ddb8298516a17d6dff3a8639dc6c48b1",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "D16010:UILobby4699–4700;16010:006u0023–0033;20000:006messages1341–1343;008messages1367–1370;009messages1380–1382"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P032",
+          "saved_line": 99,
+          "section": "## 7. Relationship with Sensei: requests, feedback and reciprocity",
+          "paragraph_sha256": "77341d1fc572e54a822900b982560a8c31b64ee8bba16e20a1ada31e0013ab08",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017",
+            "F00",
+            "G14",
+            "H25",
+            "L23",
+            "PW"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P033",
+          "saved_line": 103,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "42c04eb8a1770ce4c9660d1b7fcadf66315a96de3b880888ddb753571bcdac19",
+          "source_ids": [
+            "G14"
+          ],
+          "inline_locators": [
+            "G1401–1403:complete argument and actual actor seams"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P034",
+          "saved_line": 105,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "1b49873ed614c99d29bd7bcefa101bb66c3bd792caa968d91d0997f0473fbb19",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18017"
+          ],
+          "inline_locators": [
+            "817:006 and current correction scope",
+            "818:007 independent care",
+            "017 independent afterstory responses"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P035",
+          "saved_line": 107,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "083d54f4ec4e33e60a2afe124669aca85f61445f87f7547b18101ef05517939c",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:005u0003–0017/0031–0055/0063–0072 and whole200000180/messages1336–1337"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P036",
+          "saved_line": 109,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "df2c4fe116d4555c22aee01e553d5a6f48ff4ce8062f00d9d664badd00cf3a36",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017",
+            "F00",
+            "G14",
+            "H25",
+            "L23",
+            "PW"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P037",
+          "saved_line": 113,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "4d46bcfb250cb6854f5f26b16bdf70c02fead49f4c7300ca559ad57fa95cc156",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "16010:002u0013/0022–0023/0027;20000:002u0013;015u0014/0049–0056;D20000:UILobby1696–1699"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P038",
+          "saved_line": 115,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "40c92324a2a5547d971daf8f9afd4cf6c20a8f3b89632003f277b80eb7e5c582",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "20000:003scene002u0051;005u0024–0025;006u0028–0039;16010:005u0028–0033;003choice004;20000:008choice004–005"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P039",
+          "saved_line": 117,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "7c2c9636283f394a6ba0cdf0b3e5df364cfaed02e86ae109832641efca6b8abe",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "16010:003u0018–0032/0041;20000:009scene002u0031–0034/0045–0059;D20000:UILobbySpecial1708–1715;20000:005u0063–0065"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P040",
+          "saved_line": 119,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "983f51f3b4104757e0bcc0c77e8ee7605fb15d99f64dfac90fa6a99abdad9c99",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "Costume1900906601:16010:UIEventLobby000001–000035/UIEventShop000001–000018"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P041",
+          "saved_line": 123,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "3f74c0ca9377a81085ee5a511373406cd5329197773be1535d52438620f9f454",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017",
+            "F00",
+            "G14",
+            "H25",
+            "L23",
+            "PW"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P042",
+          "saved_line": 125,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "06be20615ebac663ea74c352838cfafb7c2d00676260f11bd45a10ea0dc9953d",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017",
+            "F00",
+            "G14",
+            "H25",
+            "L23",
+            "PW"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P043",
+          "saved_line": 127,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "f278d7414f8a9a435c73668a3886bea6b9ce78ec39087e83e76420b9a9bffe99",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017",
+            "F00",
+            "G14",
+            "H25",
+            "L23",
+            "PW"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P044",
+          "saved_line": 129,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "9a9cfa8e0d9f5d00323c694881cb7f580cf84b37246db2bcd0ac40132d5f52f2",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017",
+            "F00",
+            "G14",
+            "H25",
+            "L23",
+            "PW"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P045",
+          "saved_line": 131,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "c2fced287f8067973fe1f0cd45b85c68041c4481d7a75a7f432127c3592fec55",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017",
+            "F00",
+            "G14",
+            "H25",
+            "L23",
+            "PW"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P046",
+          "saved_line": 133,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "a9b8e7cbf690b51d730a4ab5104c59ad3205095361c5553f1cacf1f14cdeafb4",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "E18017",
+            "F00",
+            "G14",
+            "H25",
+            "L23",
+            "PW"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P047",
+          "saved_line": 137,
+          "section": "## 11. Evidence route, open gaps and completeness",
+          "paragraph_sha256": "1092cc05cfe413394c04ed213e9629418644410862afe2c812d2484058afdb34",
+          "source_ids": [
+            "H25"
+          ],
+          "inline_locators": [
+            "H25:current whole normal authority and complete argument"
+          ],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P048",
+          "saved_line": 139,
+          "section": "## 11. Evidence route, open gaps and completeness",
+          "paragraph_sha256": "e7724ea46e6b0e535413f0d15cd1ade4f3dd1c1c5ba32481d17b0ccacfe26499",
+          "source_ids": [
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "C05",
+            "C06",
+            "H25",
+            "L23"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P049",
+          "saved_line": 141,
+          "section": "## 11. Evidence route, open gaps and completeness",
+          "paragraph_sha256": "8bde135f9ed535c44fea5da8cc447f8b215b3964c9ab7fa807d6d629e10deece",
+          "source_ids": [
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "C05",
+            "C06",
+            "H25",
+            "L23"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "HIBIKI-P050",
+          "saved_line": 160,
+          "section": "## 11. Evidence route, open gaps and completeness",
+          "paragraph_sha256": "f2b0573dd0c7881bcdc428e3d2386b547318a89127804ef5016fa5318004a4f7",
+          "source_ids": [
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "C05",
+            "C06",
+            "H25",
+            "L23"
+          ],
+          "inline_locators": [],
+          "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        }
+      ],
+      "consequential_endpoint_review": [
+        {
+          "id": "HIBIKI-E01",
+          "source_id": "H01",
+          "locators": "16010:002u0036–0048;complete160100010",
+          "affirmative_ending": "Joint material/curtain selection and wanted role/costume",
+          "contrary_or_unfinished_tail": "No finished coat/curtains, verified fictional fibers or heard inward42",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E02",
+          "source_id": "H02",
+          "locators": "16010:003u0041–0048;complete160100090",
+          "affirmative_ending": "Apology and ordinary coffee followed by actual narrated faster full data recovery and rumor",
+          "contrary_or_unfinished_tail": "No rumor truth, special uniform causal experiment or resolved public misunderstanding",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E03",
+          "source_id": "H03",
+          "locators": "16010:005u0027–0044;complete160100160",
+          "affirmative_ending": "Stated fear-based deadline scheme; actually rapid completed report and confiscation",
+          "contrary_or_unfinished_tail": "No explosion, verified timing mechanism, safer redesign or universal motive",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E04",
+          "source_id": "H04",
+          "locators": "16010:006u0015–0033;complete160100210",
+          "affirmative_ending": "Own recorded lullaby, personal happiness and narrator-supplied deep sleep",
+          "contrary_or_unfinished_tail": "No heard singing, clinical remedy, answered total safety questions or universal reform",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E05",
+          "source_id": "H05",
+          "locators": "20000:002u0019–0035;complete200000010",
+          "affirmative_ending": "Repair report qualified for a while and future help invitation",
+          "contrary_or_unfinished_tail": "No approved self-destruct addition, permanent fix, verified senior rule or later explosion",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E06",
+          "source_id": "H06",
+          "locators": "20000:003u0037–0051;complete200000090",
+          "affirmative_ending": "Choice-qualified launching, represented blast/Tower impact and complete later mixed report coda",
+          "contrary_or_unfinished_tail": "No actual client delivery, all observers assent, property repair, audited harm count or settled liability",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E07",
+          "source_id": "H07",
+          "locators": "20000:005u0044–0072;complete200000180messages1336–1337",
+          "affirmative_ending": "Foul objection and improvement promise; future test/delivery, qualified actual club acceptance and useful-making joy",
+          "contrary_or_unfinished_tail": "No acted Mach2/fire/splitting/electrical attack, anonymous club join to Rei or proven sole cause",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E08",
+          "source_id": "H08",
+          "locators": "20000:006u0021–0052;complete200000260messages1345–1354",
+          "affirmative_ending": "Rejected pillow, non-striking Bluetooth pipe, Hibiki report of near-immediate sleep and later sales/fashion reports",
+          "contrary_or_unfinished_tail": "No clinical endpoint, dream contents, universal adoption or factual imagined whole-school pipe trend",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E09",
+          "source_id": "H09",
+          "locators": "20000:008u0024–0038;complete200000360messages1367–1370",
+          "affirmative_ending": "Actual plain shared shelter followed by wet-shoulder thanks and two-umbrella reflection",
+          "contrary_or_unfinished_tail": "No completed book, certified empathy law, abandoned novel umbrella habit or exclusive romance",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E10",
+          "source_id": "H10",
+          "locators": "20000:009scene002u0025–0059;complete200000440messages1380–1382",
+          "affirmative_ending": "System all13-core connection/restart, temporary maintenance, achieved night view and wanted memory",
+          "contrary_or_unfinished_tail": "No solitary total authorship, permanent integrity, automatic narrator-to-Hibiki actor rewrite or performed sound",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E11",
+          "source_id": "H11",
+          "locators": "20000:015u0027–0056;complete200000510",
+          "affirmative_ending": "Explicit no-self-destruct goggles, tentative attachment and wanted preservation",
+          "contrary_or_unfinished_tail": "No repair/upgrade enactment, adult final analogy as action, object ownership-to-person consent or fixed variant stage",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E12",
+          "source_id": "H12",
+          "locators": "D16010:Introduction;4681–4713",
+          "affirmative_ending": "Wanted receiving of birthday cheering, nontechnical help and concentration hedge within eight written fields",
+          "contrary_or_unfinished_tail": "Not continuous enacted annual diary, heard tone, performed teasing or harmonized old-profile chronology",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E13",
+          "source_id": "H13",
+          "locators": "D20000:Introduction;1684–1715",
+          "affirmative_ending": "Making-as-life, feedback, company, received gifts and mechanical-metaphor repertoire",
+          "contrary_or_unfinished_tail": "No factual perfect engineering, acted Mach4, invented special-scene placement or native actor repair",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E14",
+          "source_id": "H14",
+          "locators": "Costume1900906601:16010:000001–000053",
+          "affirmative_ending": "53 written contexts with recognition hope, unfinished practice, busy-shop postponement and reciprocal thanks",
+          "contrary_or_unfinished_tail": "Not three world events, completed costume/training schedule, guaranteed leftovers or coerced participation",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E15",
+          "source_id": "G14",
+          "locators": "GROUP1401–1403;currentL70–125",
+          "affirmative_ending": "Differentiated tastes, completed sauce device, ownership discovery/concealment and later distress/retaliation",
+          "contrary_or_unfinished_tail": "No early knowing choice of owner gun, Neru informed assent, restored property, death or settled liability; exact actor seams retained",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E16",
+          "source_id": "E17",
+          "locators": "817:006/008–011;currentL78–83",
+          "affirmative_ending": "Partial costume fulfillment, local machine stop, revised program and reached festival opening",
+          "contrary_or_unfinished_tail": "No all students pleased, complete robot restoration or performed hearing",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E17",
+          "source_id": "E18007",
+          "locators": "818:007u0019–0040",
+          "affirmative_ending": "Utaha encouragement, Hibiki question about fun for everyone and independent Hanae useful-care reply",
+          "contrary_or_unfinished_tail": "Hanae care is not Utaha/Hibiki doctrine; no unanimous festival pleasure",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E18",
+          "source_id": "E18009",
+          "locators": "818:009u0079–0140",
+          "affirmative_ending": "Robot active after represented blast; Hibiki technical conditions/prediction, punitive detection and committee response",
+          "contrary_or_unfinished_tail": "No witnessed individual rocket firing, Yuuka attack order, proven designed motive or full battle endpoint",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E19",
+          "source_id": "E18010",
+          "locators": "818:010u0001–0018",
+          "affirmative_ending": "Track/engine destruction report, actual evacuation/captives and injured care",
+          "contrary_or_unfinished_tail": "No total injury count, permanent technical repair or fulfilled liability",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E20",
+          "source_id": "E18017",
+          "locators": "818:017u0017–0061",
+          "affirmative_ending": "Hibiki task for Chihiro, peer criticism and actual refusal ending",
+          "contrary_or_unfinished_tail": "No accepted costume, total participation, resolved SRT investigation or imposed body judgment truth",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E21",
+          "source_id": "L23",
+          "locators": "810:023u0002–0017/0018–0026",
+          "affirmative_ending": "Recipient vulnerability and danger/interschool alternatives revise proposal; offered shell, wanted remembrance and qualified taste",
+          "contrary_or_unfinished_tail": "No firing, eating, Trinity consultation, tested power or harmonized JP/KR particulars",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E22",
+          "source_id": "P212/P213",
+          "locators": "V002C002E012u0047–0082;E013u0036–0055",
+          "affirmative_ending": "Conditional freight inference within distributed work followed by direct arrival",
+          "contrary_or_unfinished_tail": "No calibrated hidden-route forecast, proved solitary authorship or all-system invisibility",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E23",
+          "source_id": "P217/P219/P223",
+          "locators": "V002C002E017scene002u0001–0052;E019u0078–0084;E023u0018–0047",
+          "affirmative_ending": "Local weapon defeat and exhausted handoff; unnamed gift remains distinct; later escape and renewed help",
+          "contrary_or_unfinished_tail": "No invented gift-caused escape, permanent injury, audited device specs or total containment",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "HIBIKI-E24",
+          "source_id": "F216/F307/F315/F00",
+          "locators": "V100C002E016u0001–0014;C003E007u0001–0019;E015u0027–0076;F00L162–175",
+          "affirmative_ending": "Overloaded defenses, unidentified AMAS operator, stated vessel limits and limited manual/repair contingency within collective ending",
+          "contrary_or_unfinished_tail": "No all-AMAS-to-Rio join, immediately achieved restart, Hibiki sole rescue authorship or every person recovered",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        }
+      ],
+      "rival_review": {
+        "whole_section": 10,
+        "readings": [
+          "perfectengineering",
+          "incompetentcomic",
+          "benevolenthelper",
+          "dominationonly",
+          "completefixedreform",
+          "nolearning",
+          "selfsacrificeonly",
+          "selfexpressiononly",
+          "romance",
+          "teacherrescue",
+          "disciplineonly",
+          "celebrationonly"
+        ],
+        "judgment": "Useful making as enjoyed identity and reciprocal needs, with uneven revision and independent recipients. Full serious contrary cases and actual ends are joined in the prose; sourcecounts, school, model grade and stakes supply no verdict."
+      },
+      "all_fourteen_OPEN_gaps": {
+        "G01": {
+          "original_topic": "ordinary/private breadth",
+          "state": "OPEN",
+          "saved_table_line": 145
+        },
+        "G02": {
+          "original_topic": "Yuuka council/club transfer",
+          "state": "OPEN",
+          "saved_table_line": 146
+        },
+        "G03": {
+          "original_topic": "Serika service/reciprocity",
+          "state": "OPEN",
+          "saved_table_line": 147
+        },
+        "G04": {
+          "original_topic": "Hina accountability/ordinary contrast",
+          "state": "OPEN",
+          "saved_table_line": 148
+        },
+        "G05": {
+          "original_topic": "Arius/PS68 aftermath",
+          "state": "OPEN",
+          "saved_table_line": 149
+        },
+        "G06": {
+          "original_topic": "cross-school ordinary",
+          "state": "OPEN",
+          "saved_table_line": 150
+        },
+        "G07": {
+          "original_topic": "chronology",
+          "state": "OPEN",
+          "saved_table_line": 151
+        },
+        "G08": {
+          "original_topic": "event names/repeats",
+          "state": "OPEN",
+          "saved_table_line": 152
+        },
+        "G09": {
+          "original_topic": "actor/choice attribution",
+          "state": "OPEN",
+          "saved_table_line": 153
+        },
+        "G10": {
+          "original_topic": "performed voice",
+          "state": "OPEN",
+          "saved_table_line": 154
+        },
+        "G11": {
+          "original_topic": "Hoshino/Yume record/office",
+          "state": "OPEN",
+          "saved_table_line": 155
+        },
+        "G12": {
+          "original_topic": "identity/system/variants",
+          "state": "OPEN",
+          "saved_table_line": 156
+        },
+        "G13": {
+          "original_topic": "office/contract/safety/technical outcomes",
+          "state": "OPEN",
+          "saved_table_line": 157
+        },
+        "G14": {
+          "original_topic": "unclassified/mode continuity",
+          "state": "OPEN",
+          "saved_table_line": 158
+        }
+      },
+      "ROOT_acceptance": "PENDING",
+      "relation_institution_namedsection_N_quarter_credit": 0
+    },
+    "HIBIKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json": {
+      "schema": "HIBIKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1",
+      "body": {
+        "file": "BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 52132,
+        "line_count": 160,
+        "sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+        "actual_byte_blob_oid": "4acf0ec5752c70a3697ad8f086fdc4fd0e3d096d"
+      },
+      "format": "UTF8_LF_NO_BOM_ONE_FINAL_LF",
+      "eleven_sections": [
+        {
+          "line": 23,
+          "heading": "## 1. Core thesis"
+        },
+        {
+          "line": 31,
+          "heading": "## 2. Longitudinal arc and legitimate ordering"
+        },
+        {
+          "line": 43,
+          "heading": "## 3. Public self, private self, and interpretation"
+        },
+        {
+          "line": 53,
+          "heading": "## 4. Millennium and Engineering: standards, resources and ownership"
+        },
+        {
+          "line": 63,
+          "heading": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure"
+        },
+        {
+          "line": 77,
+          "heading": "## 6. Crisis behavior: limits, responsibility and actual endings"
+        },
+        {
+          "line": 91,
+          "heading": "## 7. Relationship with Sensei: requests, feedback and reciprocity"
+        },
+        {
+          "line": 101,
+          "heading": "## 8. Major peers and independent recipients"
+        },
+        {
+          "line": 111,
+          "heading": "## 9. Japanese written voice and source-mode limits"
+        },
+        {
+          "line": 121,
+          "heading": "## 10. Competing readings and evidential judgment"
+        },
+        {
+          "line": 135,
+          "heading": "## 11. Evidence route, open gaps and completeness"
+        }
+      ],
+      "saved_nonempty_paragraph_count": 50,
+      "saved_joins_receipt": "HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "source_scope_receipt": "HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "relative_link_count": 49,
+      "relative_link_resolution": "Proposedcanonical04SpecialistSyntheses/CHARACTERS home, finite exact Rtargets, no absolute sourcepaths",
+      "consequential_endpoints": 24,
+      "all_fourteen_gaps": "OPEN_AT_ORIGINAL_LITERAL_TOPICS",
+      "author_saved_scope": "Actual complete initial savedbody and all narrow changedparagraphs received. All final receipts require complete actual readback before separate author freeze. Binding and joins do not establish ROOT literary acceptance.",
+      "ROOT_review_and_adoption": "PENDING",
+      "credits_added": 0
+    },
+    "HIBIKI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json": {
+      "schema": "HIBIKI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1",
+      "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_REVIEW_PENDING",
+      "package": "P3-CHAR-HIBIKI",
+      "frozen_payloads": [
+        {
+          "file": "BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 52132,
+          "line_count": 160,
+          "sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+          "actual_byte_blob_oid": "4acf0ec5752c70a3697ad8f086fdc4fd0e3d096d"
+        },
+        {
+          "file": "HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 85340,
+          "line_count": 1584,
+          "sha256": "d2c57833a6964ff79163124cdb67f160ed5fa5e896509adf83e3347fdb0bb1eb",
+          "actual_byte_blob_oid": "d36074b9eb73cbeadb8950f146d8db45af7017a5"
+        },
+        {
+          "file": "HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 51519,
+          "line_count": 1163,
+          "sha256": "1e8402d124304fa6efb6a9743a55480cf31bf6afc5d25493476abcb43ecb4c26",
+          "actual_byte_blob_oid": "19601edb504649d9432490eb541d4580f6df9c5d"
+        },
+        {
+          "file": "HIBIKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 2319,
+          "line_count": 67,
+          "sha256": "7f88419113a4c70fbdf61ecd480d99a600ecd9af5162dc9bb42d9c24e9975466",
+          "actual_byte_blob_oid": "d0b03c0c9871898dfa6740a7cf9bf7736a42f2f8"
+        }
+      ],
+      "complete_saved_body_receiving": {
+        "initial_sha256": "b1cf10e19cd39ee56d606e6dd385006bb391d2b6c10c384499fc4cdce86244b3",
+        "initial_bytes": 50501,
+        "initial_characters": 50017,
+        "actual_complete_character_spans": [
+          [
+            0,
+            17000,
+            "85cc1d"
+          ],
+          [
+            17000,
+            34000,
+            "91fa09"
+          ],
+          [
+            34000,
+            50017,
+            "4e0aa9"
+          ]
+        ],
+        "first_narrow_corrections": "a7371f fully received all three changed citation/mode paragraphs before final gift addition; no unreceived revision",
+        "final_additions": "a096b5 fully received actual final gift L75, public-custody L139, G08 L152. Addition follows personally complete currentL23c2090d, no inherited primary credit.",
+        "final_sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+        "completeness": "Whole initial saved body plus every exact changed paragraph and final ending; exact saved joins bind current final body, no count substitution for literary receiving."
+      },
+      "complete_source_receipt_receiving": {
+        "characters": 84604,
+        "spans": [
+          [
+            0,
+            16000,
+            "d3723c"
+          ],
+          [
+            16000,
+            32000,
+            "a2a7b4"
+          ],
+          [
+            32000,
+            48000,
+            "24adea"
+          ],
+          [
+            48000,
+            64000,
+            "428740"
+          ],
+          [
+            64000,
+            80000,
+            "ac6d2f"
+          ],
+          [
+            80000,
+            84604,
+            "097ba8"
+          ]
+        ],
+        "through_EOF": true
+      },
+      "complete_claim_register_receiving": {
+        "characters": 51229,
+        "spans": [
+          [
+            0,
+            16000,
+            "cd8405"
+          ],
+          [
+            16000,
+            32000,
+            "89fd54"
+          ],
+          [
+            32000,
+            48000,
+            "fb80fc"
+          ],
+          [
+            48000,
+            51229,
+            "d16f96"
+          ]
+        ],
+        "through_EOF": true
+      },
+      "complete_saved_receipt_receiving": "d16f96 whole67 lines through EOF",
+      "author_literary_review": {
+        "distinct_thesis": "Making is a enjoyed way to help and live, while encouragement, company and preservation are wanted for herself. Uneven local learning and different recipient purposes qualify the offer; neither genius nor failure exhausts her.",
+        "ordinary_intrinsic_wants": "Fabric touch, scientist-role imagination, sewing, cosplay recognition, mild cheese, coffee, sleep, secret dream, psychology book, plain shelter, wet shoulder thanks, night view, precious memory, birthday cheering and kept goggles remain intrinsic evidence.",
+        "serious_contraries": "Untested projectile and qualified taste, imposed self-destruct deadline, actual confiscation, Tower impact, senior restraint, temporary maintenance, ownership concealment, independent peer discomfort and Chihiro refusal survive real competence and kindness.",
+        "private_endpoints": "All fourteen sole accepted analytical arguments personally received through physical EOF, including complete MomoTalk codas and written-mode contexts. Data recovery, report completion/confiscation, narrated versus reported sleep, report-only repair, restart/debt, future test, actual shared shelter and wanted keeping remain distinct.",
+        "public_endpoints": "Complete gift ends in offering without firing/eating; Pavane distributed inference/arrival and local defeat/escape stay distinct from hidden gift causation; festival care/damage/evacuation/actual refusal and complete Final accepted ending retain peer authorship and unfinished repair.",
+        "rivals": "Full section10 compares perfect inventor, incompetence, benevolent helper, domination, complete reform, no learning, usefulness dependence, self-expression, romance, teacher rescue, institution discipline and celebration readings against exact contrary outcomes.",
+        "actor_and_source_modes": "System/narrator/inward/machine/UI/choice seams remain attributed; group actor disagreements do not certify disputed idiolect; written singing is not heard performance. JP/KR gift differences remain unharmonized. Costume labels and releases are not a growth ladder.",
+        "source_join_qualification": "Exact paragraph hashes and source-ID lists are projection/retrieval aids, not automated semantic proof or custody transfer. Every bound full literary paragraph and all24 endpoint fields were actually received; source qualifications remain explicit.",
+        "current_authority": "Current Cycle008/H25 and public normal meaning govern preserved historical producer intake and counts, without retroactive primary/author custody grants. E18 is current scoped authority only; E832 has no positive Hibiki action and is unused."
+      },
+      "finite_verification": {
+        "R_inputs": 26,
+        "local_sole_analytical_inputs": 14,
+        "saved_paragraph_joins": 50,
+        "relative_links_from_proposed_canonical_home": 49,
+        "complete_endpoint_reviews": 24,
+        "architecture_sections": 11,
+        "literal_original_gaps_OPEN": 14,
+        "format": "UTF8_LF_NO_BOM_ONE_FINAL_LF_UNDER_1_MIB"
+      },
+      "prior_frozen_Utaha_witnesses_unchanged": [
+        {
+          "file": "BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 50384,
+          "line_count": 154,
+          "sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+          "actual_byte_blob_oid": "069e67eea0c5332679383e11cd4ce089a6488ad7"
+        },
+        {
+          "file": "UTAHA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 92196,
+          "line_count": 1668,
+          "sha256": "1445d750de0d9f4bdba9b52e0e7330ea37ad897a1d7fe1549406eb7db47d64b7",
+          "actual_byte_blob_oid": "741ca8130aa9ff9be47b29791afcb59a27e23369"
+        },
+        {
+          "file": "UTAHA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 42473,
+          "line_count": 1023,
+          "sha256": "821768e525f4b6c63acf64208be7e031a94ff6ec34c2d789d0782fe379be3acd",
+          "actual_byte_blob_oid": "d00a93c3cb03fb34c28c5115bda283c1ed3882ce"
+        },
+        {
+          "file": "UTAHA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 2332,
+          "line_count": 67,
+          "sha256": "89498c5b29248d994d5ed8b23f84242c5e1049afb1bee64f5ba40567889c3681",
+          "actual_byte_blob_oid": "f20e8acb4f86219bc99ce39a97bb381b07f68452"
+        },
+        {
+          "file": "UTAHA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+          "byte_count": 8028,
+          "line_count": 193,
+          "sha256": "3f7b403ba76b4de5bb79ff30bcf904650b5b1aae3cc4a808036cffc58bea0d7e",
+          "actual_byte_blob_oid": "c1497a2374f73ce0287d0e8509e4e55304c139ff"
+        }
+      ],
+      "source_snapshot": "92184703994a1950a5660654ce52d8516dbe9bf5",
+      "historical_comparands": "dbabb/c1/main2e exact current inputs are factored by explicit reference. Architecture main1.11 differs; later V3 controls absent in c1/main are explicitly not present. No worktree-versus-historical-blob confusion.",
+      "mutable_ROOT_live_progress": "EXCLUDED_FROM_AUTHOR_LITERARY_EVIDENCE",
+      "nine_UNBOUND_large_files": "UNREAD_UNHASHED_UNUSED",
+      "ROOT_literary_acceptance": "PENDING",
+      "ROOT_canonical_adoption": "PENDING",
+      "new_primary_raw_native_performed_model_independent_scope_N_quarter_namedsection_relation_institution_credit": 0,
+      "R_Git_provider_global_writes": 0
+    }
+  },
+  "all_complete_immutable_author_transport_tuples": [
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 52132,
+      "sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+      "git_blob_oid_of_actual_bytes": "4acf0ec5752c70a3697ad8f086fdc4fd0e3d096d",
+      "lines": 160,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "ROOT_HIBIKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 13110,
+      "sha256": "2e1979d07ac52e4dd80c181ccf173d25f676f045a2a2d626d8e7f01830d65eac",
+      "git_blob_oid_of_actual_bytes": "df496dd135d6db8abec2b09fc8a6f7c60b4a55a9",
+      "lines": 194,
+      "immutable_transport_path": "immutable_originals/ROOT_HIBIKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 85340,
+      "sha256": "d2c57833a6964ff79163124cdb67f160ed5fa5e896509adf83e3347fdb0bb1eb",
+      "git_blob_oid_of_actual_bytes": "d36074b9eb73cbeadb8950f146d8db45af7017a5",
+      "lines": 1584,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 51519,
+      "sha256": "1e8402d124304fa6efb6a9743a55480cf31bf6afc5d25493476abcb43ecb4c26",
+      "git_blob_oid_of_actual_bytes": "19601edb504649d9432490eb541d4580f6df9c5d",
+      "lines": 1163,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 2319,
+      "sha256": "7f88419113a4c70fbdf61ecd480d99a600ecd9af5162dc9bb42d9c24e9975466",
+      "git_blob_oid_of_actual_bytes": "d0b03c0c9871898dfa6740a7cf9bf7736a42f2f8",
+      "lines": 67,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 8525,
+      "sha256": "104e47aceb6e4a9a6eac628764367903cccfa5d787477fd508d9e6a3b214bcae",
+      "git_blob_oid_of_actual_bytes": "0457eb8709ed87ba62c60cb0ae030054039bf1a7",
+      "lines": 190,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    }
+  ],
+  "stable_original_gap_alignment": null,
+  "immutable_ROOT_count_cause_qualification": null,
+  "mandatory_private_semantic_erratum_public_projection": null,
+  "source_credit_rule": "All complete/bounded author and ROOT scopes remain exactly attributed. Finite complete frozen witnesses and exact source-copy tuples are preservation transports, not independently rereceived primary or narrative evidence. Current wrappers qualify original pending labels without editing originals."
+}

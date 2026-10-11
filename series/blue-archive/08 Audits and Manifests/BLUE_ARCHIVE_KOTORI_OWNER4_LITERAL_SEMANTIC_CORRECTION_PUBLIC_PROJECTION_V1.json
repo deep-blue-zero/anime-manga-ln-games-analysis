@@ -1,0 +1,25 @@
+{
+  "schema": "BLUE_ARCHIVE_KOTORI_OWNER4_LITERAL_SEMANTIC_CORRECTION_PUBLIC_PROJECTION_V1",
+  "status": "ROOT_ACCEPTED_EXISTING_CORRECTION_WITH_LIMITS",
+  "character_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+  "original_private_erratum_exact_tuple": {
+    "path": "../KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER4_LITERAL_SEMANTIC_CORRECTION_V1.json",
+    "bytes": 1579,
+    "sha256": "3c080748830f1dac5898ead6206f1ec89e658b98724631904ae821bdc80e8edd",
+    "git_blob_oid_of_actual_bytes": "3b5f115a36c8ebd57251b92bdf679419877a510c",
+    "lines": 16,
+    "immutable_transport_path": "immutable_originals/PARENT_WORKING_ATTACHMENT/KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER4_LITERAL_SEMANTIC_CORRECTION_V1.json"
+  },
+  "public_safe_semantic_projection": {
+    "source_locator": "BA:bond:10076:006:scene:001:u:0011",
+    "old": "enjoyed bustle despite disliking sport",
+    "current": "enjoyed bustle despite finding sports difficult",
+    "reason": "苦手 distinguishes aptitude/difficulty from aversion; no athletic diagnostic or erased pleasure"
+  },
+  "original_format_qualification": "The1579-byte private JSON with CR and local-origin path remains exactly immutable in C-only transport. This public object is only the previously accepted semantic projection; it does not publish or rewrite the private original.",
+  "actual_custody_qualification": "Whole historical erratum and current author/ROOT receiving stay attributed to their exact source receipts; ROOT2301f5 is complete erratum receiving, not new primary narrative.",
+  "ROOT_character_acceptance_public_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOTORI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "source_credit_added": 0,
+  "all14_gaps": "OPEN_UNCHANGED",
+  "new_package_or_scope_credit": 0
+}

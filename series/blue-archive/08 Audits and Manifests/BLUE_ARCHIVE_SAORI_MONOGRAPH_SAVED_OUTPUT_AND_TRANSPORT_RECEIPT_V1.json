@@ -1,0 +1,1454 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-SAORI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+    "bytes": 49197,
+    "sha256": "a4adedf9161996c4d47b3d2cfd5dd29c33d0e4c45c0553dd327132c89cdcf13f",
+    "git_blob_oid_of_actual_bytes": "9a65ddd7fa24f20aac6f427f94d8581ffbc06673"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "ARIUS_MONOGRAPHS/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+      "bytes": 47772,
+      "sha256": "0b16efbad9f94c9478823ba02c4cab60ef36367a5ce2be9d3002900afeb9df65",
+      "git_blob_oid_of_actual_bytes": "2ec8dce69ffdcf6ab15ec057ce27e40e0fe8602f",
+      "lines": 216
+    },
+    {
+      "path": "ROOT_SAORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 3310,
+      "sha256": "af21a613210a0c948b2c24b67a3f074848908a15ec67460dedebb12f6222fefc",
+      "git_blob_oid_of_actual_bytes": "a0258e240a1ddf02cbf19d5f9c48bcda3c6dcdad",
+      "lines": 49
+    },
+    {
+      "path": "ARIUS_MONOGRAPHS/SAORI_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 88019,
+      "sha256": "5117b604e16e65f94dc730eca16dca3a5c9cc5c631ea3a1e93770928f91501af",
+      "git_blob_oid_of_actual_bytes": "59a75d373f24d97ae45e29d1dbef8eb576e8b93e",
+      "lines": 1899
+    },
+    {
+      "path": "ARIUS_MONOGRAPHS/SAORI_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 1903,
+      "sha256": "fbf1d36c4db044e4af34eb7ed42b72b88b0be773e1a175c0060e6d48a5b75af6",
+      "git_blob_oid_of_actual_bytes": "1c17c1bb272d21086dec045ed49c882cf4f0c70e",
+      "lines": 37
+    },
+    {
+      "path": "ARIUS_MONOGRAPHS/SAORI_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 7485,
+      "sha256": "c23510cb951146e1287588b4e8cacc995055699074724b75b8c7323a78dfc827",
+      "git_blob_oid_of_actual_bytes": "9ab9043ac3a70dc024a2c37db7e68cb099f82e97",
+      "lines": 44
+    },
+    {
+      "path": "ARIUS_MONOGRAPHS/SAORI_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 3828,
+      "sha256": "18d0acadc34bde20cf3d0904486329010b8acaa224ae78d3c89bee2835ae86dd",
+      "git_blob_oid_of_actual_bytes": "b84d16645021e83182f4ff6e50054b2b0e32081f",
+      "lines": 59
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAORI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAORI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only authority/frontmatter/current-scope framing, ROOT acceptance paragraph and explicitly disclosed historical-to-current status are changed. All original substantive body lines not named in the exact changed ranges are byte-equal and exhaustively mapped through EOF.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "87f878993ea3bf0ee222898bd809c8c7f29e2eb900439dce1337a6e7153dc372",
+      "line_text": "character: \"錠前サオリ / Saori\""
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "1558ff6aaef4272d49cd8dd5f5f4746d292333a137aae91cbd7c796b6e412b9c",
+      "line_text": "person_scope: \"BA_PERSON_SAORI;10048/10101/10116;costumes1900928001→10101 and1900936101→10116\""
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 5,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 6,
+      "line_sha256": "2084413932021b66232c019d7d67e81ba2cf005acb31f12c32acb13608a5283c",
+      "line_text": "architecture: \"1.12, section7.1, eleven required dimensions\""
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 7,
+      "line_sha256": "2b4c71a3936349b6920c14d8d0327b826ca56d5e7944bc878548abba1650fe54",
+      "line_text": "analytical_base: \"2e2018d0d62d91e3e0a5e7681f72a31cec08e02c\""
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 8,
+      "line_sha256": "c8ef145b6da8758b2dd4f184f0c6454d958b15d80fcfd350803c0682bf3d65dd",
+      "line_text": "historical_source_witness: \"c1f14d5120c29209ca571fea8d7cfbe111076ec5\""
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 9,
+      "line_sha256": "a7128a3b6afa054c49654fbcb14fcbdd61123b6ed5e0cac56e74d54399bb96b6",
+      "line_text": "japanese_supplemental_source: \"a038020f1f5ac02dcfe76962426d38f86414cdd8\""
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "a5c6a6f6d35e74d504aff97ebed35466fbf3734cd2283f3d083ff5f7e900efef",
+      "line_text": "authority_quartet: \"Current Cycle008 source admission; ROOT qualified complete analytical receiving with limits; historical reading order/independence UNKNOWN; performed voice UNRECEIVED\""
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 11,
+      "line_sha256": "9a617651700ff8dd8ff049867a059b3c1a042db91c29bf2c53729584856164f4",
+      "line_text": "scope: \"Bounded literary synthesis; all14 gaps OPEN; no operational model, denominator or milestone credit\""
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 12,
+      "line_sha256": "8fecbb6a3875013f0e9b08c2e80984516ba9166974308b35a91a124bb697c029",
+      "line_text": "date: \"2026-10-10\""
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 28,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 29,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 30,
+      "line_sha256": "d84e9662d339936432feff7eda472e51573126ed25715a209543f3403e6dc1a3",
+      "line_text": "# Saori: useful work, chosen attachments and the price of a future"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 31,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 35,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 36,
+      "line_sha256": "478d10a9ae9cd93a41f4918847bf56b3192a410604d4b5332da1abeec51ed7c5",
+      "line_text": "## 1. Core thesis: usefulness can open a life without determining its worth"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 37,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 38,
+      "line_sha256": "51b2eb9e42122136c185be026413223a4c1c3e24e7c0e96ba55334563bd066ae",
+      "line_text": "Saori repeatedly meets institutions and people who value what she can do while discounting what she needs. Her military training makes her usable under coercive command, attractive as a guard, productive as a laborer and vulnerable to assignments she does not fully understand. The available future becomes richer when usefulness ceases to be the only measure: a broken mask can remain a companion, transient drawing can please someone, a walk can be enjoyed before it provides samples, and dance practice can matter after a paid scene is cancelled. None of those ends requires permanent employment security to be worth doing. [V003C003/C004; BA:bond:10048:002/003/005/015;10101:002/003;10116:003 and wholeMM101160130.]"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 40,
+      "line_sha256": "ef0f1129d2005b2d9b419c21d2e00eda222e7eef5d8fc01844f9fd61cd8d4d1d",
+      "line_text": "Her agency is nevertheless not a story of innocent intentions against a uniformly malicious world. She participates in serious violence and contests Azusa’s acquired life; later professional work includes a troubling coercive method and disagreement over its acceptability. Nor is every acceptance of help free of pressure. The strongest development is a growing repertoire of answerable choices: she can seek knowledge, terminate a deal, refuse pictures, choose quieter company, accept a meal, value clothing and repay care in a form another person can negotiate. These acts widen what she may do without erasing responsibility for what she has done. [V003C003E021–024/C004; EVENT834E009–015; private ten complete pairs.]"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 42,
+      "line_sha256": "5396bb8ac96f6478dcc5d2f1786e9982f5a665d95f6797a3a82b93aeee068773",
+      "line_text": "The central tension is economic as well as interpersonal. Opening an account and reporting later wages are real positive changes, while arrears, unread contracts, interrupted work, failed transfer and renewed exploitation remain. Self-blame may express her commitment to learning, but it cannot establish that every predatory demand was her fault. Conversely, an exploitative context cannot automatically justify how she treats every recipient of her work. The customer who seems opportunistic still voices a boundary; the employer’s approval does not certify her method as safe. [10048:002/003/005;10101:002;EVENT834E010–012.]"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 44,
+      "line_sha256": "8f3d9ae3ab29f92198a1e506e63c0ea4a1f27c6ee36fc8e4cc850e9af94cf3cb",
+      "line_text": "Her future therefore has concrete contents and continuing costs. The analysis must hold a valued object, skilled labor, taste, privacy, company and public accountability together. A mature Saori argument cannot end at either “rescued former antagonist” or “competent mercenary.” Both roles matter, and neither describes the whole range of her chosen life. [Complete current Saori25; V006C003; FinalC002E015/C004E010.]"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 46,
+      "line_sha256": "b2d4e5f88b4385b89434a6e4b8ecc3deedc79bf537c0df6a6272f0d5f282c5ed",
+      "line_text": "## 2. Longitudinal development: admitting harms, choosing life, learning specific things"
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 48,
+      "line_sha256": "3df4336fab03e67499995d2105e7c1c9fc797db7bf80b386012621fc9a6b2081",
+      "line_text": "V003C003 makes Saori an actor in an attack whose consequences cannot be softened into misunderstanding. The treaty gathering is struck, students and Sensei suffer severe injury, and Arius uses disputed authority claims while school groups struggle to protect and treat people. Saori’s interpretation that Azusa might be excluded from Trinity is interested rhetoric beside Sakurako’s stronger formal declaration of admission. Her resentment of Azusa’s acquired life and threat to negate it encounter direct resistance from Koharu, Hanako and Azusa. Azusa’s learning, friends and prior narrator-certified exam pass do not belong to Saori to revoke. [V003C003E006–012/021–024, complete chapter argument.]"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 50,
+      "line_sha256": "e68701b10c3cf36d0fb43df556257247eacf9dc24d9e3facba78d9796a26a0f2",
+      "line_text": "Atsuko’s protection of injured Saori and rejection of learned hatred supply a different Arius position. Saori’s survival after the blast is not assent to that position; the Squad’s escape is not a safe haven or immunity from pursuit. These distinctions matter because an early possibility of flight cannot be relabeled completed moral conversion. The chapter leaves an actual threatened future and an unexecuted lethal pursuit order. [V003C003E016/024–025.]"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 52,
+      "line_sha256": "05be3fabf3d34cd02212bef4782819849557b3a43a01e85db02b72787ed5af7a",
+      "line_text": "V003C004 moves the conflict toward choosing a life without cancelling wrongdoing. Beatrice’s bargain and broken reprieve expose the inadequacy of making oneself endlessly expendable to save companions. Saori breaks with that bargain, seeks aid and participates in rescue; Mika’s hostility, subsequent restraint and the wider coalition remain independent. The future-desire discussion qualifies her over-totalized blame while retaining admitted harms. Mika’s mercy is not a court verdict, and Sensei’s willingness to help is not a complete institutional settlement. [V003C004, especiallyE025–027 and complete accepted chapter checkpoint.]"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 54,
+      "line_sha256": "1ffd69a1f8273e8a1bf9a3a85342de3fd12d86459018900d12def94c0a2427be",
+      "line_text": "Saori’s departure gives separation an actual endpoint. Companions can support a distinct future and still experience insecurity or want continued contact. A work-seeking scene and exploitative wage declaration prevent the public ending from certifying a secure new livelihood. Final repeats the distinction: the Squad answers a call and offers rear-guard assistance, while Hanako’s bounded acceptance recognizes a shared important person; later contact wishes accompany Saori’s independent travel and an employer’s threat of fifty-six unpaid hours. The confrontation itself is not printed. [V003C004E027; FinalC002E015/C004E010.]"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 56,
+      "line_sha256": "3e9e6ae863bb83ab3cf7728dacd00285ac9a81ccf9ce371d9af5656b4c638ead",
+      "line_text": "V006 lets former wrongdoing and self-valued life coexist more explicitly. Saori can retain her former self, admit its wrongs and decide that her own life matters. Subaru’s criticism that returnees neglect those who stayed is substantive contrary evidence, not a minor obstacle whose only function is to be reassured. Maia’s independent attachment and grievance similarly resist a single Squad account of repair. Surrender, convictions, sentences and parole are reported without innocence; the precise order and adult’s responsibilities remain uninspected. [V006C001–003, complete maintained and chapter arguments.]"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 58,
+      "line_sha256": "52bf7eb1a6a7d2f40197288c1da1461664535877ad07161b64f11a3a6c3576f0",
+      "line_text": "The real classroom, sat test and celebration have value before the institutional record is complete. Saori’s contract-review and uniform ideas are prospective participation, not secured employment or an inspected charter. Different reports of scores and exam terminology constrain formal-standing claims. The person who knew combat and sought livelihood can now propose ways to support a common future; the texts do not show every proposal funded, authorized and completed. [V006C003E009–010.]"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 60,
+      "line_sha256": "5fa0b52f8ed7735e006b97fc9578163e6e9a715f903a20bfddfd08f3995aa7c9",
+      "line_text": "The private sequence adds locally linked learning rather than a universal cure. The first account request is followed by small talk referring to the newly made account. A stated lesson about written contracts is then contradicted by an unread assignment. Mask repair supplies a successful different kind of work. Summer sound gathering leads to tentative processing but failed transmission; dress practice leads to a cancelled professional scene and later separately reported modeling wages. These are meaningful local continuities. Release order and variant numbering do not date them against Main parole or make every newer costume a later stage of mental recovery. [10048:002/003/005/015;10101:003 and wholeMM101010060;10116:003/005 and whole associated messages.]"
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 62,
+      "line_sha256": "69238c287d16f2e0819b5a46de6e319632b975a3bac3350ab20f88d130e1b1ec",
+      "line_text": "## 3. Public and private characterization: the former fighter can want ordinary attention"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 64,
+      "line_sha256": "d856b7e4ce82bfe81dcf3b8d3341f3942565392964241bc1fa557ed8e72108a2",
+      "line_text": "Saori’s public appearances expose command, violence, protection and responsibility. Her private self-descriptions often retain the vocabulary of utility, burden, effort and ignorance. It would be mistaken to read those descriptions as exhaustive narrator diagnoses. Saying she knows only battle in a dance encounter records how she understands her inexperience there; the complete private repertoire also shows conversation, repair, sound work, drawing, dressing and gratitude. The profile’sHobbyなし is a real field, but cannot erase these actual chosen interests or be silently edited into a formal registered hobby. [V003;10048 private;10116:003; written10048/10101/10116.]"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 66,
+      "line_sha256": "a75b3c14b3e0943f89ab89b29f48aa6ce7a653442cacb3a0bcef1237f7c1a867",
+      "line_text": "The bank request begins with unstable shelter and pessimism about a back-alley future. That statement deserves attention as a feeling and judgment; it is not narrative destiny. Ordinary weather small talk then becomes something she wants to practice. This desire is neither a tactical necessity nor proof of incompetence. It supplies another purpose for speaking to the adult. The broken mask similarly begins as issued equipment but is revalued as a companion she wants to retain even after failure. Attachment adds worth where instrumental evaluation would discard. [10048:002 and wholeMM100480010;10048:003 and wholeMM100480120;10048:015:u:0018–0023.]"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 68,
+      "line_sha256": "8591c1e848097c035d01761ae9d12d264553c1a3d594ddcacdc0b4fe4b9b51d3",
+      "line_text": "Private visibility has an especially concrete limit. Saori can seek modeling advice, wear a dress, appreciate help and still repeatedly refuse a personal photograph. The later meal encounter permits pictures on a condition that they not be shown to others. A change in local willingness is real; earlier refusals remain real. Desire to be seen in one context neither proves unrestricted exhibition nor grants the observer a right to publish the pictures. [10116:002 and wholeMM101160010;10116:005:u:0052–0055 and wholeMM101160290.]"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 70,
+      "line_sha256": "52bd3ffa3085aa7caa666aeaf722466a2a90d868bf6711608b8072829d80180c",
+      "line_text": "Her written thoughts about a possible dress aspiration and wanting a special occasion should be compared with her direct uncertainty, not certified as a diagnosed secret. The third-person profile says she appears to like the dress; the meal episode gives a chosen important occasion, a wish to change when the clothing seems inappropriate, and acceptance of a setting in which its sincerity can be received. The narrated relocation does not identify a venue. Taste and embarrassment remain particular rather than proving a universal inability to socialize. [Written10116;10116:005:u:0009–0030.]"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 72,
+      "line_sha256": "887953dbc7e24128ed8737606bedec6d7c6df5501afbe80880ba0f4f44e900c6",
+      "line_text": "Public/private synthesis also requires keeping vulnerability and responsibility separate. Being tricked in a labor contract does not cancel the violence she has enacted; responsibility for that violence does not make every later exploitation deserved. Self-blame is sometimes an excessive general explanation for both. The monograph can recognize real wrongs and challenge that excess without producing acquittal, diagnosis or a prediction that she will always be deceived. [V003C004;10048:003/005;EVENT834E012–015.]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 74,
+      "line_sha256": "6aa2de63866cef3cd70a2ed9ac3e7a8fda4d1c41e351f6b13cac7967546aadf3",
+      "line_text": "## 4. School, club and institution: access, labor and unfinished repair"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 76,
+      "line_sha256": "a77ac7c99154c64c692188022b78d4f1ca3eef8757894b103080180ae6fe9683",
+      "line_text": "The bank encounter makes institutional access conditional on increasingly useful labor. An advertised service becomes demands for identity, guarantor, employment knowledge, a guard test and exclusive work. Saori’s demonstration is real, but no quantified combat specification or inspected banking law follows. She ends the proposed deal; frightened promises then lead to a narrator-confirmed account. That positive endpoint is narrower than a paid guard contract, lawful guarantor liability or a completely fair transaction. [10048:002:u:0015–0118, withu0104 actor-role seam retained.]"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 78,
+      "line_sha256": "9ac643d72c0363d101e61aa197e0c44bc684f52419873ac4077d9c108171ac07",
+      "line_text": "The construction job sharpens the difference between productive work and paid recognition. Saori reports three unpaid days and misunderstanding a contract. The foreman acknowledges exceptional productivity while calling it volunteering and offering pay only for remaining future work. Saori completes the task with adult help; the foreman confirms completion and promises payment. The record does not supply the exact amount, the earlier arrears or a signed fair contract. Absence of overt physical force does not remove need and asymmetrical knowledge from the choice. [10048:003:u:0008/0018/0032–0044/0055–0064;u0053/0057 role seams.]"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 80,
+      "line_sha256": "54b74955aa7d465406858cdd42fcb57a6b50acc1ef65c0b0c572344c2c446c7a",
+      "line_text": "The next written assignment shows why acquiring a document is an incomplete lesson. She obtained a contract but had not read its contents, and the assignment’s expendable-solo-fighter interpretation is mediated and qualified. Rumors about Black Market factions are not a verified war. Sensei finds her injured, and narration completes ramen and slow departure; it does not complete wages, adjudication, recovery or contractual education. Treating this as proof of her sole fault would adopt the very over-totalized explanation the broader public argument challenges. [10048:005:u:0016–0068; wholeMM100480250.]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 82,
+      "line_sha256": "775ca413eac15e7a9f4b31d9558ebfc23346bbf37680fb5b349775f50edfad09",
+      "line_text": "EVENT834 supplies a distinct professional setting. Conditional voice recognition atE008 becomes Kayoko’s explicit naming atE009. Saori states work and guard purposes, and the prepared dress is part of an assignment, not a gift or title of ownership. Apology, employer reliance, coercive method, dispute, assistance and safe-escape testimony occur in the sequence. Neither client speech nor an appreciative judgment certifies fair wages, safe technique or durable alliance. The final objection to treating exploitation as merely “such days” keeps economic failure morally legible alongside hospitality and cooperation. [EVENT834E008–015, complete current38-object argument.]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 84,
+      "line_sha256": "935a18170f02c0c04e445f7017234321bb4778514619915dd1e6543a69f27430",
+      "line_text": "The public institutional future is also unfinished. V006 reports surrender and parole, shows schooling and permits proposed contract-review/uniform participation. Actual study need not wait for a certified charter to be meaningful; the charter and resources still require their own analysis. Surrounding Trinity care and sponsorship GROUP contexts remain relevant without inventing a Squad-owned sequence or membership. Separate anonymous residents’ experiences and Subaru’s staying-side critique prevent “Arius restored” from becoming a substitute for actual repair witnesses. [V006C001–003; accepted V003/V006 GROUP relevance scopes.]"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 86,
+      "line_sha256": "990fa891246fa9d59cb346717726084952b0370ec58748954ea96873d918e161",
+      "line_text": "Employment in the creative scenes has different evidence grades. Restaurant service is shown; cooking the dish is not separately established, and payment is Saori’s report. A dress-model job and dance photograph are proposed, while pose research and practice actually occur. The dance scene is later cancelled. A later modeling cover, pay and gifted dress are reported, with future commissions still prospective. The festival stage occurs in narrative text, but wage pursuit remains unfinished. A detailed livelihood specialist must retain these grades; employment labels alone cannot supply a single stable career. [10101:002/005;10116:002/003/005;EVENT838E015–021.]"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 88,
+      "line_sha256": "8b408a761479807c892ce4ed648cb2ab8afbe5f64518e3dcd2d53f2eb956f833",
+      "line_text": "## 5. Ordinary life: a repaired companion, transient art and practice without utility"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 90,
+      "line_sha256": "f37db1a94ca0522fb0790e5f0954bc45cc79776bba06f41b2e595f688ebb4c69",
+      "line_text": "The mask is the clearest material challenge to empty usefulness. Saori says it was issued when she first entered combat, but the current scene values it as a companion after its filter fails. She wants this object rather than an available replacement. Her past origin report does not authenticate a military record; the present attachment is direct. Failed shop visits, a minimum-year estimate and her own failed attempt make the adult’s subsequent research and part substitution concrete work. Days later she reports that the filter operates. That is an actual recipient-tested success in the narrative, with no technical or medical protection certification. [10048:015:u:0008/0018–0023/0028–0078, complete Japanese recovery.]"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 92,
+      "line_sha256": "743bb5660f0e4e2d126c9a121b0d3b2032c71d117503433d8e12b8c1738a6e25",
+      "line_text": "The repayment promise becomes a request that she visit Schale for play and company. Formal alternatives distinguish duty help from working together; they do not establish every possible duty was performed. Inward adult lines retain their response seam. The narrator’s final pleasant time is an achieved ordinary endpoint, while future maintenance and less tense visits remain wishes. The scene values a chosen past object without requiring Saori to return to its former command structure or discard the past entirely to deserve a future. [10048:015:u:0079–0099 and all formal groups.]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 94,
+      "line_sha256": "e7a10d5a7975d19efe7183c4d82f18c4ceffa9bfda68fa6af64794520565b8f5",
+      "line_text": "Ketchup art asks a different question about duration. Saori wonders why one would labor on something soon consumed; Sensei’s happiness supplies another value. A customer’s cat/rabbit complaint and free-food demand appear opportunistic, but the customer’s requests to wait or stop still matter. Saori’s self-blame and repeated redrawing cannot be idealized as harmless service. The one-hour and later four-hour references are not silently added into a precise unprinted total. Her payment report and future practice are distinct from audited wages and demonstrated mastery. Transient art and the recipient’s boundaries belong in the same analysis. [10101:002:u:0022/0059/0070/0078–0080.]"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 96,
+      "line_sha256": "1c51a50b9fa9555bc84e6cff412307e083afd9cd326be52ec5358c28faebb8f6",
+      "line_text": "Gathering festival sounds makes creative labor enjoyable without making every sound successfully delivered. Cooking, waves and insects are selected materials; a wave-recording failure and the adult’s wet slip remain adverse. Saori’s concern for his safety is explicit and narrower than a clinical assessment. The unhurried walk allows a felt freedom from being chased and an unusually ample time. That testimony is meaningful without establishing a corpus-first experience or universal safety. Her forgotten work does not invalidate pleasure, and she retains the right to withhold the exact job until later. [10101:003:u:0048–0070.]"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 98,
+      "line_sha256": "9fb7cdb6e4485b9129ef9dcabd0f8208f67a4951287823654078902ebd68f7d8",
+      "line_text": "The whole message tail is essential. After the W15 launch endpoint, processing and a tentative good result are reported; transfer then fails because of capacity. Future in-person listening is proposed. No successful file receipt or native performance has been inspected. The work and company can still be substantial. Cutting the thread at its BOND launch would create a falsely completed delivery and impoverish the distinction between making something, transmitting it and enjoying its making. [WholeMM101010060: units060–180, messages080–220; processing130/quality140/failure170/capacity200/future210 areMessageId suffixes.]"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 100,
+      "line_sha256": "82449417cd473d106a07e36c2a66bf42d108a73448a305a51f9a68d0b81d405e",
+      "line_text": "The after-stage celebration combines actual achievement with another incomplete plan. Narration and spectators support a stage performance in text; Saori seeks feedback and receives fun/energized alternatives. She declines a crowded staff party because of cleanup and discomfort. Juice, empty seats and company become a quieter celebration. Her admission of insufficient energy or food qualifies saying she feels revived. Agreement to go for a meal is not a narrated meal or completed cleanup. A preference for quiet here does not diagnose permanent social incapacity. [10101:005:u:0001–0038.]"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 102,
+      "line_sha256": "f006952499361501829865a085157913c536a29ade835d3908d8b3a24b17de83",
+      "line_text": "Dress practice and later thanks show boundaries changing locally. Pose research actually happens, while personal photograph requests are repeatedly refused, including in the whole message tail. Dance partnership is requested only if the adult is willing; waist discomfort is voiced before later agreement. Narration confirms practice, but the whole message reports cancellation of the professional dance scene. The private memory and possible future use remain valuable without turning the cancelled scene into completed work. [10116:002:u:0044–0054 and wholeMM101160010;10116:003:u:0017–0054 and wholeMM101160130, complete tail recovered.]"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 104,
+      "line_sha256": "4be5a7a92f805436c0326ad8a4cbfd84dc5767d387ce5299fefd29bd2995e814",
+      "line_text": "In the later thanks encounter Saori wants a change, uses the dress for a meaningful occasion and negotiates reciprocity around the adult’s ordinary-food preference. A fashion magazine, cover work, wages and a gifted dress are her reports. Personal pictures are now permitted but explicitly restricted from other viewers. Narration confirms many pictures and an enjoyed meal; the whole message afterword retains privacy and future gratitude. This is a different local endpoint, not permission retroactively borrowed for earlier requests. [10116:005:u:0009–0055, complete Japanese recovery; wholeMM101160290.]"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 106,
+      "line_sha256": "2f5c792cc21a3d97ce91d83ab477cab774f08371f5d6500e9fda79c88669941e",
+      "line_text": "EVENT810’s costly gift adds a further correction to usefulness and obligation. Saori acts on false advice that only the finest chocolate conveys thanks and that cheap gifts sever ties or declare war. The difficult work and injuries are reported but not examined. Sensei places blame with the unidentified deceiver and explains handmade gifts as an option, not a new duty. Actual relaxed shared eating follows. Reciprocity becomes a chosen relation rather than another unlimited labor demand; future craft, treatment and durable economic repair are absent. [EVENT810E078, complete accepted deep argument and current102-object contextual owner.]"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 108,
+      "line_sha256": "321a7417799dc8b673c04e91172cf87e4eba10736a1a87131329239e3eb0eb82",
+      "line_text": "## 6. Crisis behavior: coercion matters, and recipients remain separate"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 110,
+      "line_sha256": "88f4495e80515b5fe393e8ffb80d8ea9237a7d010e3dc7abefcae7c6b2fce0ed",
+      "line_text": "The public attack contains both learned hatred and chosen harmful acts. Atsuko’s statement that hatred was taught opposes an essential Arius identity; it does not independently identify every instructor or eliminate Saori’s decisions. Injured recipients and Azusa’s chosen belonging remain consequential. Saori’s resentment of a life acquired outside the Squad is a direct adverse case for the idea that protection necessarily respects a companion’s autonomy. Koharu and Hanako answer by insisting on the effort and life Saori cannot erase. [V003C003E021–024.]"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 112,
+      "line_sha256": "e0ff864ddc2ecd75a3e22133535b148b678ea5d82c35b891b851cefd726a1d99",
+      "line_text": "Breaking Beatrice’s bargain is therefore a meaningful decision rather than evidence that no earlier decision mattered. A promise to rescue companions through self-expenditure meets a ruler who does not keep her side. Seeking aid and choosing rescue permit another future, while mercy and the living Squad do not issue a legal acquittal. Saori’s injuries and Sensei’s vulnerability also prevent an omnipotent-fighter or omnipotent-adult explanation. The chapter’s changing results depend on several persons, not a single guaranteed rescue rule. [V003C003E011–016;V003C004.]"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 114,
+      "line_sha256": "9a427770e20383c2a210869006a4286b2dd0a58165047d19ef75a394db6dc5c6",
+      "line_text": "The bank demonstration and dangerous assignment show competence used under asymmetrical conditions. A performed guard task does not imply secure employment, and an injured fighter accustomed to pain is not medically safe. In the unread-contract episode, adult food insistence responds to need yet includes pressure; the narrated meal does not prove all resulting harms repaired. Crisis can expose why care is needed and still leave its particular means answerable. [10048:002;10048:005:u:0016–0068.]"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 116,
+      "line_sha256": "813479ef71b22ee3a507ba78dd310a23555db8eb16f3610fceb95c0bc6776936",
+      "line_text": "EVENT834’s escort work provides a serious later countercase. Saori apologizes after an employer complaint and states preparedness, while authored hit/fall/gear/popup writing supports a troubling coercive-method concern. The popup content is uninspected; an exact technique or diagnosis would be invented. Employer certainty questions do not specifically authorize that later method, and her “good/perfect” appraisal is not an independent safety certificate. Kayoko’s rejection and other companions’ different responses retain meaningful disagreement. [EVENT834E010–012.]"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 118,
+      "line_sha256": "a19e524f55a0e8906972ba03eae24007f33089b2961a2655aeeeb13374da41bd",
+      "line_text": "Cooperation with PS68 is local and partial. Saori fears use and disposal, Aru announces aid under mixed professional motives, and Saori reports receiving help. Plans, retreat, warnings and a heavy-bin proposal culminate in an aftermath containing reported safe escape and collapsed-theater news, with suspected cause, custody and unpaid balance remaining qualified. The result is neither a completed rescue monopoly nor a blanket harmless collaboration. It gives both gratitude and exploitation dissent actual standing. [EVENT834E012–015.]"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 120,
+      "line_sha256": "856b066dbb7988942093526786c6150d366a5f218707143d464d7afdaef1737b",
+      "line_text": "The festival adds a different conflict between protection and another person’s choice. Squad activity shields Saori’s stage opportunity but includes coercion, and her own wish to discover a new performance feeling matters. Later company with companions does not retrospectively license all earlier restrictions or prove every prior individual action safely attributed. Her explicit refusal to demand that companions always accommodate one another is a positive relational limit within this complicated care. Wage pursuit the following morning remains unfinished. [EVENT838E004–021, withE017–021 after the stage and beforeE016.]"
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 122,
+      "line_sha256": "437de334a256ca18cfc79ebc15620c56207da17b965c962a91a131f32ac9d46e",
+      "line_text": "V006’s critique of returning actors gives public responsibility another form. Saori can value her life while retaining wrongdoing and receiving political criticism from those who stayed. Real schooling and surrender establish participation; they do not automatically settle resources, all residents’ consent or every former harm. Final’s conditional cooperation similarly permits useful action without unlimited trust. The crisis repertoire becomes broader and more reflective, with no basis for a universal future-response model. [V006C001–003;FinalC002E015.]"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 124,
+      "line_sha256": "145b9a978cc6e714e2e34870c372e0b0c262a554057a7c83ff1472ab92bd9268",
+      "line_text": "## 7. Sensei relationship: support, reciprocity and local permission"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 126,
+      "line_sha256": "0680e0749fa6e7496fac466b0cf52f2b7dad662e4f42a2e2ac62c6b36dfdd4d4",
+      "line_text": "Saori repeatedly asks the adult for practical help and worries about burden. Account access, advice, search, repair, sampling, pose research and dance partnership are different kinds of request. The adult’s willingness allows something besides an exclusively expendable role. Saori’s contributions also matter: demonstrated work, offered effort, safety concern, gratitude, a magazine and desired shared meals. A relation with this breadth is not adequately described as unilateral rescue, even where material asymmetry remains. [Complete ten BOND/wholeMM pairs.]"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 128,
+      "line_sha256": "de7c8a9cf0d254e2e0c8a5b05d4f878778ad8eb0e62fb6fa07829d8db8db1de0",
+      "line_text": "The adult can help without turning mistakes into moral destiny. At the costly chocolate encounter he locates responsibility with the deceiver and qualifies handmaking as optional. In construction he actually helps finish the remaining task, without adjudicating arrears. At the mask he takes Saori’s chosen object seriously and does difficult research; recipient-reported function and narrated pleasant time are actual endpoints. Those acts are substantial while durable economic or institutional protection remains unproved. [EVENT810E078;10048:003/015.]"
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 130,
+      "line_sha256": "f911c9c9239269b1a86bcddfa9a2cb2e4b5afb73d10e2f51a68bab149f4304c4",
+      "line_text": "Support also has pressured edges. The injured food encounter includes hesitation and firm adult insistence. The mask repayment conversation jokingly invokes an unlimited promise before settling on welcome visits; its endpoint is not a sexual act or unrestricted assent. Repeated picture requests in dress preparation meet refusals. The dance waist objection remains consequential before later local agreement. A teacher’s generosity cannot be used as a transferable permission slip for photographs, contact, publicity or expensive repayment. [10048:005/015;10116:002/003/005.]"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 132,
+      "line_sha256": "dace1b44af8151390e3c27198572b39956085b46191d720900b854ca001ba855",
+      "line_text": "Saori herself formulates an especially clear reciprocal option when she asks for a dance partner only if willing and allows refusal. She can request strongly because she trusts the adult while still giving him a choice. The completed practice and later cancellation then make worth separable from paid use. Formal adult alternatives value fun or a private memory; both remain alternatives rather than cumulative performed speeches. The whole message’s future-use thought is a hope, not proof of professional success. [10116:003:u:0017–0018/0054;wholeMM101160130:messages340–440.]"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 134,
+      "line_sha256": "8a1c783f0e7fab7e8035c1b501a77a1a8408b57019323f981592ce47340b80b1",
+      "line_text": "Later photo permission must remain at its exact scale. She permits pictures, forbids showing them to others and then enjoys food after many photographs are narrated. The secrecy condition persists in the whole afterword. Her report that modeling has become familiar supports her own local account of changing comfort; the analyst has neither the images nor a general permission for future pictures. Her earlier refusals do not become mistakes to correct in retrospect. [10116:005:u:0035/0052–0055;wholeMM101160290:messages670–680.]"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 136,
+      "line_sha256": "00354cf8fb72aa45e074bfe7a2de00153d306d5eff9b4702b806298365de3a9b",
+      "line_text": "Public support remains accountable to others too. Azusa’s life cannot be forfeited to console Saori, Mika’s mercy belongs to Mika, and legal petition or responsibility under parole has uninspected terms. Sensei’s willingness to continue is meaningful without absorbing all causal credit or imposing one answer to Subaru and Maia. The ordinary visits and wanted food give precise purposes to presence; the public harms and recipients keep presence ethically answerable. [V003C003/C004;V006C001–003.]"
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 138,
+      "line_sha256": "5d95db7ae0230d06088ca99aa1c8ac11734e1614b608ed96950661d898d0e4d1",
+      "line_text": "## 8. Peers: protecting someone includes letting a different life remain different"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 140,
+      "line_sha256": "104ef8e079fb0d6df2b2f2d348caeafd88e9856c401713bfbabd5d038a8d7570",
+      "line_text": "Azusa presents the sharpest adverse relation. Saori interprets her acquired Trinity life through grievance and tries to negate it; the remedial friends insist on its reality. The formal student declaration and prior exam pass are stronger witnesses than Saori’s interested classification claim. Azusa’s own refusal and learning give a chosen life its independent standing. Later moral possibility for Saori cannot erase those claims, and no permanent reconciliation is installed here. [V003C003E001–005/013–024;V003C004 comparison.]"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 142,
+      "line_sha256": "175c173d9c137b0648d667e29860b160055b6625425252d1ab276b99f59b303d",
+      "line_text": "Atsuko is simultaneously a person Saori seeks to protect and an interlocutor with her own account of hatred, flowers, company and future. Her protection of Saori after the blast and later rescue needs do not merge their agency. A garden that dies and a mask that works provide particularly useful contrary material outcomes for their chosen care. Both objects can be valued without a common success rule. Atsuko’s withheld picture and Saori’s later conditional photo permission are also distinct boundaries. [V003C003E016/024;V003C004;Atsuko10042:006/26013:005;Saori10048:015/10116:005.]"
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 144,
+      "line_sha256": "56ed03d95522546a317130737ef795de3b600ff5886bed6c47c9a1976cc6977b",
+      "line_text": "Misaki and Hiyori have separate wants inside the festival company. Misaki’s difficulty with crowded, bright and noisy settings cannot be erased by a successful stage or group photograph. Hiyori’s interest in a photo opportunity can outweigh a magazine alternative without destroying her fashion interest elsewhere. Saori tells a companion that always accommodating another is unnecessary; the statement becomes a meaningful limit on the very group companionship she is accepting. Actual photos and distribution give the ending weight, while different comfort levels remain. [EVENT838E017–021;EVENT853E008 only at actual Arius bridge scope.]"
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 146,
+      "line_sha256": "2dcbcdcae808d02764c80da83d4d33d3826519136f9ea687be0eeb448be7a302",
+      "line_text": "Mika contributes hostility and mercy, not a simple tool for Saori’s redemption. Her capacity to stop or delay and later refrain is an independent decision within a conflict involving admitted harms and excessive self-blame. A literary account can recognize its importance without converting forgiveness into court disposition. Hanako’s Final acceptance is also bounded: shared concern permits a local coalition rather than permanent innocence or unrestricted trust. [V003C004;FinalC002E015.]"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 148,
+      "line_sha256": "1e057e027459a135ecd3418cfc3077a158c5764d8a8f5ae134ba31a461c3e23d",
+      "line_text": "PS68 complicates professional respect. Kayoko recognizes Saori and recalls contact, Aru’s professional rationale can coexist with useful help, and teammates can praise capacity while disagreeing about means. Saori’s appreciative assessment is subjective, and Aru’s pace admonition exposes imperfect coordination. The final hospitality includes actual shared seating and exploitation dissent. Permanent alliance, fair contract and repaired debts require stronger witnesses than good will at that table. [EVENT834E009–015.]"
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 150,
+      "line_sha256": "c16c84d027e2f51e583b7cdd1bd71248d94c133d61e1571e4b3f9edb7fa5bcfd",
+      "line_text": "Subaru and Maia prevent the returned Squad’s future from becoming the sole Arius perspective. Criticism of neglecting those who stayed and attachment to a different source of care remain independent. Saori’s new self-value and proposals can enter that disagreement rather than resolve it by existing. Anonymous residents, workers, customers and employers similarly remain source-local actors. Sharing a place or repeated role label is not a global identity join or proof of one unanimous school position. [V006C001–003;private/event source-mode controls.]"
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 151,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 152,
+      "line_sha256": "67755f8f1098c401f3cb6bfbab17731ec8321f184b8fb2f7f6c30ae459a17072",
+      "line_text": "The written references to future beach visits, companions’ dresses, a household ledger and gift-funded thanks provide Saori’s thoughts about peers. They do not complete Azusa, Misaki or Hiyori’s private account, nor prove future gifts delivered. Keeping each recipient independent permits real reciprocity rather than making everyone evidence of Saori’s progress. The separate character and directed relationship duties remain required Phase3 work. [Written10101/10116, complete accepted contexts.]"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 153,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 154,
+      "line_sha256": "87a6b69e6e677f15432a63b7de2f6daebc7acf1c08da81bf65c237ea2d9eccd2",
+      "line_text": "## 9. Written register: effort and command coexist with tentative ordinary wants"
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 155,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 156,
+      "line_sha256": "c948a0bc77d159a23536d3a313c8a7fb54483c220a9cc4a2a6c562593077fd69",
+      "line_text": "All three profiles give錠前サオリ, second-year status, age17, September3,167cm andHobbyなし. Those fields remain exact source conditions. BaseStatus努力あるのみ and the profile’s account of cold means, passionate aspects, guerrilla skill and limited ordinary knowledge are characterization, not independently validated capability or the whole person’s essence. A monograph should retain the declared no-hobby field while receiving actual chosen sound, dance, drawing and clothing interests. Neither field nor scene should overwrite the other. [character_data10048/10101/10116.]"
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 157,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 158,
+      "line_sha256": "8c1afa76f22f764884fb2f23efc68366144a370a6fe2d66e3dfaaa35bb8db37e",
+      "line_text": "Base10048 hasUITitle4416,CharacterGet4417,Cafe4418–4422,Lobby4423–4447,Lobby24448–4472,Weapon4473 andSpecial4474–4483. The actual sequence anomaly at4454 is:line:000001; no corrected ID is invented. Existential worth, command orientation, utility, birthday uncertainty, holiday futility, cold and pain supply contrary material beside later quiet company. Special injury wording can parallel a BOND scene without proving a second injury event or audible performance. [Complete written10048 argument.]"
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 160,
+      "line_sha256": "51efdd953d176791b4de4722be558db41cba39b8c7bf1088a9e496e646e8668e",
+      "line_text": "Summer10101 hasUITitle1/Get1,Cafe1–5,Lobby1–24 with a repeatedLobby2 block,Weapon1 andSpecial1–7. Stage language, wages, household accounting and companion comments widen interests but remain particular written addresses. Future birthday music, wage-funded gifts, an Azusa beach visit, carol samples and listening requests are not completed deliveries or native singing. The special stage context supplies a parallel register, not another independently observed show. [Complete written10101 argument.]"
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 161,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 162,
+      "line_sha256": "e489a9bd99460d9f64958a7c6f6cb8495495efb06581620d942555d1b6e4fa83",
+      "line_text": "Dress10116 hasUITitle1/Get1,Cafe1–5,Lobby1–17 with repeatedLobby2,Weapon1 andSpecial1–8. Third-person apparent liking and fashion aspiration coexist with direct attention discomfort and ordinary-wear wishes. Changed birthday meaning, an undisclosed prayer, Christmas closeness and costume play are precise additions to repertoire, not a guarantee of romance or a globally measured recovery. The dance-special echo does not reinstate the cancelled paid scene. [Complete written10116 argument.]"
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 163,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 164,
+      "line_sha256": "7534fa3f0a94a1b998ccb91f2f7fa6ea36ad357b300054830ede02ee2afda108",
+      "line_text": "Costume1900928001 belongs to10101, with emptyProfile. Its838/10838 blocks haveUIEventLobby andUIEventMiniGameMission, while900838 has only initial/idle Lobby material. Saori’s mission class differs from Atsuko’sUIEventMission. Costume1900936101 belongs to10116, also with emptyProfile;834/10834/900834 have Lobby only and noMission class. Work cautions coexist with a wish to keep wearing the dress after an operation and an objection to lightly given compliments. A block alias does not establish another operation or authenticate the unprinted ending. [Both complete selected costume arguments.]"
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 165,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 166,
+      "line_sha256": "71d9f4e57f28024500066349936f3cc24f877673f0f41b77ebf0434352a57cfd",
+      "line_text": "Register analysis must retain mode and attribution. Inward Sensei text receives responses without being automatically repaired into audible speech or telepathy. Formal choices are alternatives. Saori10048:002u104,10048:003u53/57 and EVENT834’s native/raw seams restrict exact isolated assignments; narrator endpoints and transaction-level conclusions remain usable. Written sound gathering and a stage description are not received audio, and pictures described in text have not been visually inspected. [Current complete private and EVENT834 mode arguments.]"
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 167,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 168,
+      "line_sha256": "27661f1a5969139f781fd1d3554166891643db94016b776867932e0234319132",
+      "line_text": "Effort, apology, thanks, resolve, hesitation and blunt limits supply a bounded interaction repertoire. They do not establish a performed pitch, emotional diagnosis, unconditional obedience or a response law. The most useful written continuity is that requests, judgments and gratitude can become more particular while privacy and uncertainty remain. The next specialist register work must preserve those conditions rather than collapse a profile and every scene into a single voice model."
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 169,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 170,
+      "line_sha256": "08030db13115e1be9ff8d8cc4c56936b6ebd2c6db218097d58a39d43f6d34026",
+      "line_text": "## 10. Competing readings and serious contrary evidence"
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 171,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 172,
+      "line_sha256": "01a4a7443fd27be273008f4ae181b3420e4d03cafecf93958d3d10e4057538ee",
+      "line_text": "**“Saori is only an instrument of indoctrination.”** Learned hatred and coerced command are material causes, while Atsuko’s dissent prevents an essential Arius hatred theory. Saori nonetheless makes harmful decisions and tries to erase Azusa’s separate life. Both causes and responsibility must remain. Her later choices make agency more visible; they do not create it for the first time or retrospectively eliminate earlier agency. [V003C003/C004.]"
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 173,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 174,
+      "line_sha256": "a349c9bdabd6fe02cdb45b1c9cf830eb39483604143636aacafd1cd1e5f48406",
+      "line_text": "**“Her future is earned by becoming sufficiently useful.”** Productive labor, military skill, creative jobs and gratitude give this reading abundant evidence. The chosen broken mask, an unhurried walk, quiet company and cancelled dance practice resist usefulness as the sole criterion. Exploitation also demonstrates that useful labor does not reliably produce fair recognition. A future can include work without requiring perpetual service as its moral admission fee. [10048:003/015;10101:003/005;10116:003.]"
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 175,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 176,
+      "line_sha256": "a9eabac18edf2c4e07546f3124b411584021ae44f3128d9b4bbd0cc64d585dcc",
+      "line_text": "**“Repeated deception proves a uniformly incompetent person.”** Unread contracts, wrong custom advice and service inexperience are real. Guard work, terminating a bad deal, practice, actual bank access and later reported paid modeling are contrary. In addition, deceivers possess agency and asymmetrical access. Competence must be described by task and witness; no universal grade can be derived from comic repetition or self-blame. [10048:002/003/005;EVENT810E078;10116:005.]"
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 177,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 178,
+      "line_sha256": "f73ce20b74c485bcfeb18d6d04a2896cf8f814adfdb9b7029026d8d08523aa17",
+      "line_text": "**“Private warmth cancels public harm.”** Pleasant endpoints and widened interests are substantial evidence, yet Azusa’s belonging, injured recipients, convictions and disputed escort means retain responsibility. A valued object or quiet meal is a real good without functioning as universal absolution. That coexistence is central to a character whose future must remain ethically possible and answerable. [V003/V006;EVENT834;private pairs.]"
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 179,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 180,
+      "line_sha256": "ce6ec3a963d498cd1d69e2e148b4d14ce8e87c17656fae731a8a82df05bb9f56",
+      "line_text": "**“A professional dress and later photographs settle all earlier consent.”** Preparation, gratitude and future hope do not override repeated refusals. Later permission is specific and conditioned on privacy; narrated photography proves local completion while publication remains forbidden. The change in comfort is meaningful because each stage retains its own boundary. [10116:002/005 and whole message tails.]"
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 181,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 182,
+      "line_sha256": "0fd10c6341be5aef1eb9c254f00c7ce8604c9ef4b1045407479e4c0b44d85ab0",
+      "line_text": "**“Learning succeeds only when the work is delivered.”** A cancelled dance scene and failed sound transfer make professional outcomes limited. Actual practice, selected samples, enjoyed time and future-use hopes remain distinct positive effects. Turning those into completed job delivery would invent a result; discarding them as worthless would adopt the exclusive-utility measure the mask scene contests. [10101:003 wholeMMtail;10116:003 wholeMMtail;10048:015.]"
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 183,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 184,
+      "line_sha256": "7e1a16cda1bf07db515e772c833283ac1b8c8f041804a6aeb899b090f775493c",
+      "line_text": "**“PS68 cooperation or stage pleasure proves secure ordinary reintegration.”** Assistance, local cooperation, applause, shared seating and safe-escape reports are positive. Disputed methods, unsafe disposal questions, client arrest/unpaid balances and later wage pursuit are equally real limits. No permanent alliance, housing, fair-pay system or post-parole placement follows. [EVENT834E009–015;EVENT838E015–021;V006.]"
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 185,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 186,
+      "line_sha256": "7d0564b7bc5d0574a751e96c63b424eaa8a239ed0c1e94fcd2667eedee6c0023",
+      "line_text": "**“Only total blame keeps accountability serious.”** Saori admits wrongs, and independent recipients have claims she cannot remove. Total blame becomes inadequate when it treats deception, unpaid work, every companion’s suffering and every failed job as hers alone. The texts permit her to value life while remaining answerable. That is neither innocence nor a diagnosis: it is the difficult moral room in which specific future choices can occur. [V003C004;V006C003;10048:003/005;EVENT810E078.]"
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 187,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 188,
+      "line_sha256": "9949ccdb1e1b965202bd9c7563b413061017d024e0174cf270668acbd84aec2f",
+      "line_text": "The resulting thesis keeps usefulness, ownership and responsibility in tension. Saori’s wider repertoire is visible in completed work, chosen company, refusal and revised judgment. Its worth does not depend on a promised universally secure future, and its risks do not require denying any of its achieved goods."
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 189,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 190,
+      "line_sha256": "bc975ad429ca5f09919dfd2aaf8e7733fb081bc6cc2f8e4aaeca382f8f169580",
+      "line_text": "## 11. Evidence routes, fourteen open gaps and completion boundary"
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 191,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 192,
+      "line_sha256": "7ee600a47d4b405c3c9bb27a1643fadc853ef1c50a3c87a0614496fd4d33cc29",
+      "line_text": "Proposed canonical target:`series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md`. This local file awaits ROOT’s independent complete receiving and semantic adoption. The exact receipt preserves source tuples, manually received saved paragraphs, metadata boundaries and historical authority claims."
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 193,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 194,
+      "line_sha256": "4a0ee5f296b4be4f9fb41d82dd85cef21d6a54952605b9be70403ce42508e8f2",
+      "line_text": "| Source responsibility | Exact route or IDs | Meaning and boundary |"
+    },
+    {
+      "frozen_line": 181,
+      "canonical_line": 195,
+      "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+      "line_text": "|---|---|---|"
+    },
+    {
+      "frozen_line": 182,
+      "canonical_line": 196,
+      "line_sha256": "4b074e65b47dc9c05d1f930987119b8c983f95304ce22a32b6d5f24883abb7a5",
+      "line_text": "| Saori25 | `02 Sequential Readings/BOND/BLUE_ARCHIVE_SAORI_ATSUKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md`, current semantic211–660 | Ten complete BOND/wholeMM pairs and five written objects. Atsuko17 separate; old draft/admission/Phase2 text historically qualified byCycle008. |"
+    },
+    {
+      "frozen_line": 183,
+      "canonical_line": 197,
+      "line_sha256": "10b94e000dc77da112a883fc57ae2154370e0c9b07bea8a365a0c33cd9a1a2cc",
+      "line_text": "| Base10048 | BOND002/003/005/015; wholeMM100480010/120/250/320 | Account access, productive unpaid work, unread contract/injury/ramen, chosen mask and actual repair report. |"
+    },
+    {
+      "frozen_line": 184,
+      "canonical_line": 198,
+      "line_sha256": "4ced59980ace9cb55e4fc36894e1b6aa74f76768f117673302be26bd73eeafce",
+      "line_text": "| Summer10101 | BOND002/003/005; wholeMM101010010/060/190 | Transient drawing and recipient boundary, sample making/failed transmission, actual stage and quiet celebration with future meal. |"
+    },
+    {
+      "frozen_line": 185,
+      "canonical_line": 199,
+      "line_sha256": "8805501507181c82211442feee3eb7f853fe1e43c04dd73dbd48cc87216accd5",
+      "line_text": "| Dress10116 | BOND002/003/005; wholeMM101160010/130/290 | Refused pictures, actual dance/cancelled job, later reported wages/cover/dress and completed private meal/photos. |"
+    },
+    {
+      "frozen_line": 186,
+      "canonical_line": 200,
+      "line_sha256": "35385ea41591cb61db8c163bf3bf79cb979e7540ff756d8844b4f9f1d85ad29c",
+      "line_text": "| Written5 | character_data10048/10101/10116; costumes1900928001/1900936101 | Exact contexts, no-hobby field, source-local role and personal wants. No performed voice, generic alias multiplication or inspected images. |"
+    },
+    {
+      "frozen_line": 187,
+      "canonical_line": 201,
+      "line_sha256": "ac40f2ed969b010d8ac3116dcbbb30f4998e091aac634e101155f6fc4fbfa612",
+      "line_text": "| V003 | Complete maintained account and completeC003/C004 checkpoints | Harm, independent Azusa, learned hatred, broken bargain, accountability and future separation. Historical Japanesecbe witness distinct from supplementala038. |"
+    },
+    {
+      "frozen_line": 188,
+      "canonical_line": 202,
+      "line_sha256": "55cf08959d47b54cf0b7bc73f79f8e3bc2352e28c28f7e5d8ac910399560347b",
+      "line_text": "| V006 | Complete maintained account and three chapter checkpoints | Self-valued life, independent stayers’ critique, surrender/parole, actual schooling and provisional work/institution ideas. |"
+    },
+    {
+      "frozen_line": 189,
+      "canonical_line": 203,
+      "line_sha256": "d6b28ba84972c5a8c070dcb86525468c933ac2d0e68b5d0a63623c9ba659f91f",
+      "line_text": "| Final | Complete maintained account and four chapter checkpoints;C002E015/C004E010 | Conditional coalition, independent travel/contact and unfinished employer confrontation. |"
+    },
+    {
+      "frozen_line": 190,
+      "canonical_line": 204,
+      "line_sha256": "b8907a7f7840a0ef8f7c432e565dd95bc43a18f13d2c9b08cf21a338093f0781",
+      "line_text": "| EVENT834 | Complete38-object checkpoint,001–015 and094–116 | Work, cooperation, harmful method and exploitation dissent, all quiet encounters received; no new whole38-primary credit. |"
+    },
+    {
+      "frozen_line": 191,
+      "canonical_line": 205,
+      "line_sha256": "a124f1114d2140b95537161cbdae672c2689fdc8cca87eec5c8c99bbbf5d941b",
+      "line_text": "| EVENT838 | Complete21-object checkpoint reused | Stage, work/peer conflict, distinct company, actual photos and later unfinished wages;E017–021 precedeE016 locally. |"
+    },
+    {
+      "frozen_line": 192,
+      "canonical_line": 206,
+      "line_sha256": "9a1ed0203c01ed4d60c08b793853c46ccfe4734160b77f265ac234eb01e12b16",
+      "line_text": "| EVENT810 | Complete102-object contextual owner reused; completeE078 deep argument | Costly thanks, false advice, optional future craft and actual shared chocolate. |"
+    },
+    {
+      "frozen_line": 193,
+      "canonical_line": 207,
+      "line_sha256": "b9641dde3844f537a99c0b8a248ce370282f0528e842a50f64a0cac549ea110d",
+      "line_text": "| GROUP context | Accepted V003/V006 relevance argument at declared scope | Surrounding care/sponsorship; no fictitious Squad membership or substituted private history. |"
+    },
+    {
+      "frozen_line": 194,
+      "canonical_line": 208,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 195,
+      "canonical_line": 209,
+      "line_sha256": "346aca156bd730a974515cd538a91db9aca301255a9bb74dba09c1b9473be120",
+      "line_text": "All original fourteen gaps remain **OPEN**, with the following consequences for this monograph."
+    },
+    {
+      "frozen_line": 196,
+      "canonical_line": 210,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 197,
+      "canonical_line": 211,
+      "line_sha256": "2de4f85d2d83b3546884cfc60f7ed41fe4fad6f501cd276db39916331ed435d2",
+      "line_text": "| Gap | Claim-specific limit and witness needed for stronger claims |"
+    },
+    {
+      "frozen_line": 198,
+      "canonical_line": 212,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 199,
+      "canonical_line": 213,
+      "line_sha256": "62ab44f631c632c1337d5bbb56e9e5ccb1dd34f063d587654106f4f9e433948a",
+      "line_text": "| G01 ordinary/private | Complete25 supplies meaningful tastes, craft, work and boundaries. Later listening, maintenance, commissions and fulfilled promises require actual endpoints; cancelled work and refusal remain legitimate limits. |"
+    },
+    {
+      "frozen_line": 200,
+      "canonical_line": 214,
+      "line_sha256": "d997ff625c05a29eeb3379746c13a19415e62c543369ee344028f1aa0d73d89c",
+      "line_text": "| G02 Yuuka | Shared themes of work or event company do not establish a Saori/Yuuka directed relation or transferred complete private coverage. |"
+    },
+    {
+      "frozen_line": 201,
+      "canonical_line": 215,
+      "line_sha256": "fa80a700d7edcdf1ff6e9183e2b3d9fd433347e16b25079cf83c2c024a24124e",
+      "line_text": "| G03 Serika | Labor comparisons do not certify Serika’s own work history, wages or a shared remedy; independent full evidence is required. |"
+    },
+    {
+      "frozen_line": 202,
+      "canonical_line": 216,
+      "line_sha256": "55f79bfb269dca9aa1f91ad68c4e0f105ca49a3441abebbc56ff1c97c5d0336f",
+      "line_text": "| G04 Hina | Parallel crisis burdens do not authenticate Saori/Hina causal repair or a joined chronology. Actual routed encounters must govern. |"
+    },
+    {
+      "frozen_line": 203,
+      "canonical_line": 217,
+      "line_sha256": "334f1279f342509e25b3e0d0948f2dfcf52b07bdef66e9a90bcc93896b586920",
+      "line_text": "| G05 Arius/PS68 | Saori’s actual work/cooperation and separate peers are received. Durable wages, residence, security, repair and each recipient’s full history remain distinct duties. |"
+    },
+    {
+      "frozen_line": 204,
+      "canonical_line": 218,
+      "line_sha256": "382d1aca677d72cb70db6ca25bc7cf194ba00c4f49692657c88b8a11f43df1b7",
+      "line_text": "| G06 cross-school | Azusa/Hanako/PS68 actual bridges support bounded relations. Mere shared actors, readership or quiet event comparisons create no blanket affiliation. |"
+    },
+    {
+      "frozen_line": 205,
+      "canonical_line": 219,
+      "line_sha256": "e288c6945ad8ec87eca15644adc96efb7448d6a172362dda69f621651cdc046d",
+      "line_text": "| G07 chronology | Previous account/job, local days and whole-message codas remain links. No global Main/private/event/Final calendar or post-parole job placement follows. |"
+    },
+    {
+      "frozen_line": 206,
+      "canonical_line": 220,
+      "line_sha256": "ee90e121c2b3bcb0e3da3953f1034347ab8e33276598e6ca694b78338d058cff",
+      "line_text": "| G08 names/local IDs | Event-level title nulls, local terminal title and repeated costume blocks retain their own scopes. Numbers do not establish extra operations or years. |"
+    },
+    {
+      "frozen_line": 207,
+      "canonical_line": 221,
+      "line_sha256": "df1c2092b982398de55e122918321c834297b7dd6b44a15c84929cb6b453b835",
+      "line_text": "| G09 attribution/choices | All private alternatives/tails remain represented; named Saori role seams and EVENT834 native/raw differences restrict isolated utterance/method assignments. Exact repair needs local native/raw witnesses. |"
+    },
+    {
+      "frozen_line": 208,
+      "canonical_line": 222,
+      "line_sha256": "a434bf1964c6160636f236fc8853ffc5a129f125667ad916c6dc342d305f1a49",
+      "line_text": "| G10 audiovisual | Stage, sound, dress, pictures, blush and pauses are written. Native voice, musical quality, gesture and image composition require admitted performed or visual evidence. |"
+    },
+    {
+      "frozen_line": 209,
+      "canonical_line": 223,
+      "line_sha256": "5d2a657d14c87cca295e029f2b0f4bcf33cffbb376491f80f832767056a90910",
+      "line_text": "| G11 records/office | Proposed contract-review/uniform roles, reports of tests and interim structures lack an inspected charter, gradebook, budget or complete mandate. |"
+    },
+    {
+      "frozen_line": 210,
+      "canonical_line": 224,
+      "line_sha256": "abbcd1626ec92e6d6b1a1c9332e9b62042657a922e4a2b3b2703e665b787ecc9",
+      "line_text": "| G12 identity/variants | Exact錠前サオリ/person key and10048/10101/10116 are comparative scopes; costumes bind their declared variants. No synchronized body-development history or duplicate person count follows. |"
+    },
+    {
+      "frozen_line": 211,
+      "canonical_line": 225,
+      "line_sha256": "0a0791a20d4caf6f49a191f8e128286f4de225fe9e0eb654fe358617733363e7",
+      "line_text": "| G13 legal/technical/clinical | Account opening, injury, reported filter operation, wages, coercive writing and parole do not certify bank law, liability, protection, recovery, exact escort technique or fair pay. |"
+    },
+    {
+      "frozen_line": 212,
+      "canonical_line": 226,
+      "line_sha256": "e9831fee2cb1e2532d960b72240d0aa8f923e6a27130068929d667c59b3ba558",
+      "line_text": "| G14 modes | Report, plan, promise, inward response, narrator completion, options and hidden asides stay separate. Later photo permission does not rewrite refusal; cancelled dance or failed transfer stays limited. |"
+    },
+    {
+      "frozen_line": 213,
+      "canonical_line": 227,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 214,
+      "canonical_line": 228,
+      "line_sha256": "637fb16c8c42ac31bdc7551bf391772efd1855c957799dab4c2d4f6f968e5993",
+      "line_text": "No mandatory recovery is known to remain for the bounded propositions asserted here. The necessary complete Japanese mask and later meal objects and whole dance message confirm the consequential chosen attachment, actual positive endings, privacy condition and cancelled-work afterword. Exact attribution seams are retained at the level where they limit the claim. Stronger clinical, legal, technical, chronological and performed propositions would require the specified additional witnesses."
+    },
+    {
+      "frozen_line": 215,
+      "canonical_line": 229,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        11,
+        11
+      ],
+      "canonical_lines": [
+        10,
+        9
+      ],
+      "frozen_text": [
+        "generation: \"BA_REFRESH_20260928T032248159554Z\""
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        13,
+        13
+      ],
+      "canonical_lines": [
+        11,
+        10
+      ],
+      "frozen_text": [
+        "status: \"LOCAL_CANDIDATE; ROOT whole receiving and canonical adoption pending\""
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        16,
+        15
+      ],
+      "canonical_lines": [
+        13,
+        27
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "source_generation: BA_REFRESH_20260928T032248159554Z",
+        "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+        "source_boundary: \"Accepted textual analytical meanings at main2e2018d0d62d91e3e0a5e7681f72a31cec08e02c, with qualified historical c1f14d5120c29209ca571fea8d7cfbe111076ec5 and original earlier MAIN producer pins retained at their declared scopes; current scope control355/29; performed material unreceived\"",
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        20,
+        20
+      ],
+      "canonical_lines": [
+        32,
+        34
+      ],
+      "frozen_text": [
+        "The twenty-five selected Saori objects consist of ten BOND episodes, ten complete associated MomoTalk objects and five written objects. Atsuko’s seventeen objects share their maintained owner but remain Atsuko’s responsibility. This synthesis receives Saori’s complete current private argument and personally complete relevant Main/Final/event arguments, including the complete thirty-eight-object EVENT834 owner. Selected consequential Japanese recovery checks the chosen mask, the later meal/photo boundary and the whole cancelled-dance message. The receipt identifies actual scopes; source commits, narrative times, release dates and current adoption are distinct. This file is a local candidate for independent ROOT receiving."
+      ],
+      "canonical_text": [
+        "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAORI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAORI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Source publication, main integration, separately required directed/institutional packages and full eligible-cast completion remain separate.",
+        "",
+        "The twenty-five selected Saori objects consist of ten BOND episodes, ten complete associated MomoTalk objects and five written objects. Atsuko’s seventeen objects share their maintained owner but remain Atsuko’s responsibility. This synthesis receives Saori’s complete current private argument and personally complete relevant Main/Final/event arguments, including the complete thirty-eight-object EVENT834 owner. Selected consequential Japanese recovery checks the chosen mask, the later meal/photo boundary and the whole cancelled-dance message. The receipt identifies actual scopes; source commits, narrative times, release dates and current adoption are distinct. ROOT independently received and accepted the complete bounded literary argument with limits."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        216,
+        216
+      ],
+      "canonical_lines": [
+        230,
+        230
+      ],
+      "frozen_text": [
+        "This candidate’s completion does not complete full Phase3. Directed Saori–Azusa, Saori–Atsuko, Squad-peer, Maia/Subaru, PS68 and Sensei relationships; the differentiated Arius ensemble; livelihood/institution repair; and separate register/ethics responsibilities remain required justified specialist work. ROOT alone receives and adopts, reconciles responsibilities and determines upstream integration/merge milestones. No model, registry, denominator, quarter, publication or merge result is claimed by this monograph."
+      ],
+      "canonical_text": [
+        "This monograph’s completion does not complete full Phase3. Directed Saori–Azusa, Saori–Atsuko, Squad-peer, Maia/Subaru, PS68 and Sensei relationships; the differentiated Arius ensemble; livelihood/institution repair; and separate register/ethics responsibilities remain required justified specialist work. ROOT alone receives and adopts, reconciles responsibilities and determines upstream integration/merge milestones. No model, registry, denominator, quarter, publication or merge result is claimed by this monograph."
+      ]
+    }
+  ],
+  "source_argument_and_endpoint_credit": "Accepted original literary meanings/endings/recipient bounds and ROOT scopes retain their declared credit. Transport and public framing add zero literary, primary, performed, independent or identity-join credit.",
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "full_required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "no_separate_directed_institution_ensemble_completion": true
+}

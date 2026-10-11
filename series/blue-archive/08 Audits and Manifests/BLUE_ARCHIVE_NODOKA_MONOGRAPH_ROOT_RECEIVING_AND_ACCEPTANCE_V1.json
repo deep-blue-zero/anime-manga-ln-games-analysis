@@ -1,0 +1,164 @@
+{
+  "schema": "BLUE_ARCHIVE_NODOKA_PUBLIC_ROOT_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Nodoka",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 732b3f2e635d2b8e8855f4e6709354031936ebc6, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "ROOT_NODOKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 6257,
+    "sha256": "0e8dc36e9a64da22626fd035cb8f205db73207b57f30b5f0bca1ecd3d2d2dabc",
+    "git_blob_oid_of_actual_bytes": "0e843e504f88d709978b04bd6382b4e8f845f181",
+    "lines": 97,
+    "immutable_transport_path": "immutable_originals/ROOT_NODOKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_NODOKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "checked_at": "2026-10-10T16:33:44.832535+00:00",
+    "status": "PASS_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH_SUPPLEMENTED_CANDIDATE_V1.md",
+      "bytes": 53369,
+      "lines": 187,
+      "sha256": "391dfa9481b7509d92f222b5c743b31d893637a306f1ecf9894047ab4d16b9f3"
+    },
+    "preserved_original": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 46415,
+      "lines": 171,
+      "sha256": "69e1307fb4f2176aa95777c4bc1975c7fa2662da91560787beac930225c5d1dc"
+    },
+    "existing_home": "P3-CHAR-NODOKA/P3-F125/BA_PERSON_NODOKA/26006|20010",
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+    "mandatory_operative_body": "187-line supplemented candidate; original171 immutable",
+    "original_finite_bindings": {
+      "unique_pairs": 199,
+      "occurrences": 222,
+      "historical_comparisons": 66,
+      "nonempty_line_joins": 107,
+      "prior_payloads_preserved": 149,
+      "separate_supplements_preserved": 8
+    },
+    "supplement_finite_bindings": {
+      "unique_pairs": 12,
+      "occurrences": 16,
+      "historical_comparisons": 9,
+      "immutable_original_five": 5,
+      "inserted_paragraphs": 8,
+      "inserted_lines": 16,
+      "five_insertion_anchors": [
+        74,
+        110,
+        148,
+        154,
+        171
+      ],
+      "inverse_exact_original171": true
+    },
+    "sections": 11,
+    "fourteen_original_literal_gaps": "OPEN",
+    "ROOT_actual_receiving": {
+      "whole_original_body": [
+        "b70bf01–60",
+        "ae83e161–115",
+        "27d4d8116–171EOF"
+      ],
+      "whole_addition_and_controls": "d3b0ca whole30/all8 paragraphs;8047f6 whole255 supplemental receipt;0ecef1 whole37 manifest; original readable c99afe39EOF, ba543a52EOF,61e5e1 controls/private/claims/home scopes,bdaba3 whole117 probe",
+      "operative187_receiving_basis": "Whole original171 plus every complete new paragraph and independent exact insertion/inverse; no invented fresh whole187 replay",
+      "whole_private22_checkpoint": [
+        "db29b81–95",
+        "c2838896–190EOF"
+      ],
+      "whole_public_arguments": [
+        "5f572a GROUP130138EOF",
+        "0a704c GROUP280143EOF",
+        "ee8683 Final29EOF and currentE808100EOF",
+        "38534e currentE829160EOF",
+        "b6a9ef currentE802103EOF with meaningful L73–74 clipping repaired4379e2"
+      ],
+      "complete_specific_supplement_sources": "e801fa MINI106–124 full three-object meaning;314576 whole70 historical E810027, subordinate to current owner;872838 currentE810243–316EOF adequate reuse from Fubuki82",
+      "current13_label": "E808 current13 is retained historical meaning/lineage authority label explicitly present in normal-owner L66, not source count; selected12 responsibility objects L68/L100. Author confirmed distinction.",
+      "adequate_inherited_scope": "Own complete private/public accepted analytical arguments remain inherited with recorded scope. No fresh whole495 RedWinter checkpoint, whole344 MINI, whole102 gifts, raw/native/QA/performed text credit."
+    },
+    "semantic_grounds": [
+      "Attention has different objects: wanted skies, clothing, food and rest; inquiry, audience fit and chosen work; petitions and defense; hospitality and adult recognition. Care does not erase surveillance, recipient refusal or adverse methods.",
+      "Protests, telescope/meteor continuations and cake/visits have actual finite endings. Sanctions and returned administration remain distinct from lawful procedure, proportionality or permanent liberation; a burned petition does not become a failed unseen delivery.",
+      "Nodoka identifies comfort and cost problems during inspection, yet volunteers and accepts a warned untested bargain. Actual installation, restraint, refused release, removed equipment and returned227 costs supply contrary evidence rather than an automatic competence or benevolence verdict.",
+      "Pudding, heat/cold, clothing and shared quiet have intrinsic significance. Hospitality ideals do not erase unaffordable services, varied guest tastes, failed lodging or independent recipients.",
+      "Rare cacao is acquired; a future recipe remains unmade. Actual adult bites, recognized care and return gift coexist with apparent inability to consume half. Locale distinctions and future butter/sugar intentions remain bounded.",
+      "Adult refusal of alcohol is respected; Chinatsu refusal and departure remain her own ending. Local disaster, actual permission and Meg’s blast qualify home and service claims; quiet bath does not restore the prior housing.",
+      "Embedded fiction, quoted documents, actorless messages, identity/variant controls and unknown actors retain their layers. Written preference does not establish enacted romance, universal consent, global chronology or performed voice.",
+      "All six rival readings and fourteen original OPEN limits survive. Separate directed, ensemble, institutional and convergence obligations receive no completion credit from this character package."
+    ],
+    "scope_denominator": "355 required packages plus29 mandatory named sections unchanged;788 navigation identities unchanged",
+    "progress": {
+      "previous_ROOTaccepted_packages": 82,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 83,
+      "character_packages": 80,
+      "directed_relationship_packages": 3,
+      "published_remote_packages": 73,
+      "published_source_commit": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+      "canonical_Nodoka_persistence": "PENDING_NEXT_EXACT_CANONICAL_ADOPTION",
+      "first_quarter_threshold": 89,
+      "quarter_reached": false
+    },
+    "new_primary_native_raw_QA_AV_model_credit": 0,
+    "nine_unbound_large": "UNOPENED_UNREAD_UNHASHED",
+    "R_Git_provider_writes": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 55650,
+    "sha256": "71d20533bf0ac4b8e489f265b7af3b840daf702f685e1dfeb693c762b197eddb",
+    "git_blob_oid_of_actual_bytes": "11e53544350223fb48b630924ae1fcfa3f82b354",
+    "lines": 197
+  },
+  "original_author_body_tuple": {
+    "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 46415,
+    "sha256": "69e1307fb4f2176aa95777c4bc1975c7fa2662da91560787beac930225c5d1dc",
+    "git_blob_oid_of_actual_bytes": "f3a3e7bde40a262ebedac21e8c2653d658db3ca7",
+    "lines": 171,
+    "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md"
+  },
+  "operative_ROOTaccepted_body_tuple": {
+    "path": "RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH_SUPPLEMENTED_CANDIDATE_V1.md",
+    "bytes": 53369,
+    "sha256": "391dfa9481b7509d92f222b5c743b31d893637a306f1ecf9894047ab4d16b9f3",
+    "git_blob_oid_of_actual_bytes": "871240789898db9d4582c9217c4050ed6455fc45",
+    "lines": 187,
+    "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH_SUPPLEMENTED_CANDIDATE_V1.md"
+  },
+  "fixed_publication_snapshot": {
+    "prior_source_packages": 73,
+    "fixed_new_packages": 16,
+    "fixed_total_after_complete_ROOT_install": 89,
+    "characters": 84,
+    "directed_relationships": 4,
+    "ensembles": 1,
+    "goal25_milestone_complete": false,
+    "installed_literary_threshold_effective_only_after_complete_ROOT_install": true,
+    "currently_source_published_before_successor": 73,
+    "main_integration": "PENDING",
+    "required_packages": 355,
+    "mandatory_named_sections": 29,
+    "named_sections_completed": 1,
+    "later_live_reviews_separate": true
+  },
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": []
+}

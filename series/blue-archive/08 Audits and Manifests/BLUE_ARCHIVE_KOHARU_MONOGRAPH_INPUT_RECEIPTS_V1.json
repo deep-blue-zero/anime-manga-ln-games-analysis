@@ -1,0 +1,425 @@
+{
+  "schema": "BLUE_ARCHIVE_PHASE3_KOHARU_SOURCE_AND_AUTHOR_SCOPE_V1",
+  "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_RECEIVING_PENDING",
+  "created": "2026-10-10",
+  "package": "P3-CHAR-KOHARU",
+  "candidate": "P3-F109",
+  "dated_route": "P3-A017",
+  "literal_identity": "BA_PERSON_KOHARU",
+  "variants": [
+    "10020",
+    "16013"
+  ],
+  "main_comparator": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+  "declared_source_snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+  "HEAD_at_binding": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+  "root_worktree_distinction": "Enumerated accepted analytical inputs only; no whole current ROOT worktree equality asserted. ROOT reported seven accepted working monographs while c1 published four at dispatch; this historical distinction is not a new verification of current metadata. Architecture1.12 differs from main1.11; decoded eleven-section requirements319–344 unchanged.",
+  "modern_source_pin": {
+    "repository": "electricgoat/ba-data@jp",
+    "commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+    "generation": "BA_REFRESH_20260928T032248159554Z",
+    "parser": "0.2.0",
+    "historical_eden_checkpoint_witnesses": "Historical cbe3fd source pin retained by owners, not silently recertified by this author"
+  },
+  "original_producer_provenance": "Accepted small analytical owners retain their own historical source pins. Current byte equality does not recertify all producer fields against the modern pin.",
+  "inputs": [
+    {
+      "source_id": "M01",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md",
+      "byte_count": 14840,
+      "line_count": 95,
+      "sha256": "1884c699f3b631cbb33e299a32bc7fcc93cf9802886a4f31dd35811e5e36af2f",
+      "worktree_content_blob_oid": "311369917282e22c379544ee9c549a1120ac1cc3",
+      "declared_c1_blob_oid": "311369917282e22c379544ee9c549a1120ac1cc3",
+      "main_blob_oid": "311369917282e22c379544ee9c549a1120ac1cc3",
+      "main_sha256": "1884c699f3b631cbb33e299a32bc7fcc93cf9802886a4f31dd35811e5e36af2f",
+      "main_byte_count": 14840,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole1–95; all17 episode arguments/endpoints/attribution controls",
+      "receiving_records": [
+        "fbea4a"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "M02",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md",
+      "byte_count": 18645,
+      "line_count": 104,
+      "sha256": "97133f4cf5a2c78d8f7d41828edd036be217bf729a853c6eb3a44804be316379",
+      "worktree_content_blob_oid": "4676b49e703c8c8463784a1a3f59473208693e4a",
+      "declared_c1_blob_oid": "4676b49e703c8c8463784a1a3f59473208693e4a",
+      "main_blob_oid": "4676b49e703c8c8463784a1a3f59473208693e4a",
+      "main_sha256": "97133f4cf5a2c78d8f7d41828edd036be217bf729a853c6eb3a44804be316379",
+      "main_byte_count": 18645,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole1–104; complete20 episode arguments/endpoints/attribution controls",
+      "receiving_records": [
+        "655502"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "M03",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+      "byte_count": 18854,
+      "line_count": 96,
+      "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+      "worktree_content_blob_oid": "908ea487500b136a1d7753b20f87e8e323acedd0",
+      "declared_c1_blob_oid": "908ea487500b136a1d7753b20f87e8e323acedd0",
+      "main_blob_oid": "908ea487500b136a1d7753b20f87e8e323acedd0",
+      "main_sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+      "main_byte_count": 18854,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole1–96; complete25 episode arguments/endpoints/attribution controls Fresh30–75 consequential protection and ending98df5c.",
+      "receiving_records": [
+        "b84f88",
+        "98df5c"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "M04",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md",
+      "byte_count": 18759,
+      "line_count": 99,
+      "sha256": "4a3cd456d3cd21d1b1b60efc6e33c930fd162a72eee1685a82fa89c1515ab59f",
+      "worktree_content_blob_oid": "1942836782f92baa7d56aeb9f4be2ca830c63f84",
+      "declared_c1_blob_oid": "1942836782f92baa7d56aeb9f4be2ca830c63f84",
+      "main_blob_oid": "1942836782f92baa7d56aeb9f4be2ca830c63f84",
+      "main_sha256": "4a3cd456d3cd21d1b1b60efc6e33c930fd162a72eee1685a82fa89c1515ab59f",
+      "main_byte_count": 18759,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole1–99; complete27 episode arguments/endpoints/attribution controls Fresh25–70 consequential rescue and ending98df5c.",
+      "receiving_records": [
+        "323681",
+        "98df5c"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "V03",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C003_CHECKPOINT.md",
+      "byte_count": 17067,
+      "line_count": 82,
+      "sha256": "81e43fb20fbb76ccb3243e562d0216839f573c08fe6e720c078614550beadb88",
+      "worktree_content_blob_oid": "0a578c6e22e5cb7e8cf02669ff1722d5a9024b90",
+      "declared_c1_blob_oid": "0a578c6e22e5cb7e8cf02669ff1722d5a9024b90",
+      "main_blob_oid": "0a578c6e22e5cb7e8cf02669ff1722d5a9024b90",
+      "main_sha256": "81e43fb20fbb76ccb3243e562d0216839f573c08fe6e720c078614550beadb88",
+      "main_byte_count": 17067,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole1–82; all10 chapter arguments; proposed building/history/political changes versus actual study/test/tea Fresh42–54 actual E009–E010 endpoints9fa280.",
+      "receiving_records": [
+        "c110e9",
+        "9fa280"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "L01",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_E004_DEEP_READING.md",
+      "byte_count": 9417,
+      "line_count": 57,
+      "sha256": "33a48dbbaaaa030c49ea30f1747969854fbf911b4ae3a69e2418f4299c3a403e",
+      "worktree_content_blob_oid": "4e96fd35312f4670f30a8a77295bce707f238a73",
+      "declared_c1_blob_oid": "4e96fd35312f4670f30a8a77295bce707f238a73",
+      "main_blob_oid": "4e96fd35312f4670f30a8a77295bce707f238a73",
+      "main_sha256": "33a48dbbaaaa030c49ea30f1747969854fbf911b4ae3a69e2418f4299c3a403e",
+      "main_byte_count": 9417,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole1–57; exact three-session Mika hearing disposition, public protest and unprinted fight outcome Whole accepted57-line argument freshly received6dc6c0.",
+      "receiving_records": [
+        "d0e0aa",
+        "6dc6c0"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "C01",
+      "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "byte_count": 52261,
+      "line_count": 851,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "worktree_content_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+      "declared_c1_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+      "main_blob_oid": "685661b716fd0032997883efeb294425b0816c18",
+      "main_sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+      "main_byte_count": 51287,
+      "same_c1": true,
+      "same_main": false,
+      "inspected_scope": "319–344 exact eleven-section mature character monograph architecture",
+      "receiving_records": [
+        "17488f"
+      ],
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "C02",
+      "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+      "byte_count": 53414,
+      "line_count": 840,
+      "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+      "worktree_content_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+      "declared_c1_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+      "main_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+      "main_sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+      "main_byte_count": 53414,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "327–379,485–509,606–639 relevant complete-story, audience/choice, comparison and counterreading requirements",
+      "receiving_records": [
+        "85dec8"
+      ],
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "C03",
+      "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+      "byte_count": 79178,
+      "line_count": 354,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+      "worktree_content_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+      "declared_c1_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+      "main_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+      "main_sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+      "main_byte_count": 79178,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "31–44 all14 literal gap registrations andOPEN boundaries; G13–14 recovered separately",
+      "receiving_records": [
+        "757011",
+        "f0f49c"
+      ],
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "C04",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+      "byte_count": 19463,
+      "line_count": 113,
+      "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+      "worktree_content_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+      "declared_c1_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+      "main_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+      "main_sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+      "main_byte_count": 19463,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Previously received complete current Cycle008 argument113lines; current3940 contextual admission supersedes producer pending intake without adding primary credit",
+      "receiving_records": [
+        "Frozen Trinity V1 complete control receipt"
+      ],
+      "custody_credit": "CONTROL_SCOPE_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "K01",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/KOHARU/BLUE_ARCHIVE_KOHARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_count": 42695,
+      "line_count": 321,
+      "sha256": "369992d3bc94361ae0b40016fc389cafcb6f7612b627c238388dffb2b363de1b",
+      "worktree_content_blob_oid": "e67e50bdbbecde896c795533db8b10b483a54d4d",
+      "declared_c1_blob_oid": "e67e50bdbbecde896c795533db8b10b483a54d4d",
+      "main_blob_oid": "e67e50bdbbecde896c795533db8b10b483a54d4d",
+      "main_sha256": "369992d3bc94361ae0b40016fc389cafcb6f7612b627c238388dffb2b363de1b",
+      "main_byte_count": 42695,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole111–321 current qualification and complete accepted private/written literary argument, all seven paired story/message endpoints, three written objects, rivals and public qualifications. Earlier frozen TrinityV1 S04 scope remains111–321; fresh111–220 and221–321. Producer primary credit remains attributed.",
+      "receiving_records": [
+        "673163",
+        "6e89eb",
+        "current_qualification_receive_20261009",
+        "54b1bf",
+        "213819"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_PRIVATE_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "L02",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_053_80000053_DEEP_READING.md",
+      "byte_count": 7837,
+      "line_count": 71,
+      "sha256": "ed4f48559ac306d92e096e0f60af5b6ec9f925ff146e3d2cd09d7f34d549772b",
+      "worktree_content_blob_oid": "89bd95f38d5e550ea206fa9a001d038deb1eae1d",
+      "declared_c1_blob_oid": "89bd95f38d5e550ea206fa9a001d038deb1eae1d",
+      "main_blob_oid": "89bd95f38d5e550ea206fa9a001d038deb1eae1d",
+      "main_sha256": "ed4f48559ac306d92e096e0f60af5b6ec9f925ff146e3d2cd09d7f34d549772b",
+      "main_byte_count": 7837,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole1–71 complete accepted gift argument, all material claims, requests, anger, raw-mode qualifications and Japanese/Korean endpoint difference. No native/audiovisual or primary-control credit added.",
+      "receiving_records": [
+        "98df5c"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_EPISODE_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "E01",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_828/BLUE_ARCHIVE_EVENT_828_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_count": 37570,
+      "line_count": 1306,
+      "sha256": "789b6a465f259ac2d427c9d9722102b449388c278943b04e51c3ab19f1a2997d",
+      "worktree_content_blob_oid": "5dd3f44ddb19c316cf7b2f8d8e298ad867056d04",
+      "declared_c1_blob_oid": "5dd3f44ddb19c316cf7b2f8d8e298ad867056d04",
+      "main_blob_oid": "5dd3f44ddb19c316cf7b2f8d8e298ad867056d04",
+      "main_sha256": "789b6a465f259ac2d427c9d9722102b449388c278943b04e51c3ab19f1a2997d",
+      "main_byte_count": 37570,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Previously complete36–40/634–1306 fifteen episode meanings and controls; fresh634–943 complete all fifteen meanings with full local endings/locators/recipient limits. Literal whole-owner roster remains pending.",
+      "receiving_records": [
+        "0af6dd",
+        "ef8f45",
+        "0a7b23",
+        "9fa280"
+      ],
+      "custody_credit": "COMPLETE_MEANING_REUSE_LITERAL_ROSTER_PENDING",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    }
+  ],
+  "author_review": {
+    "body": "BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+    "whole_saved_readback": "bc1f09: all132 lines throughEOF",
+    "changed_passages_readback": "ba02d2: final23/31/115 all received; explicitly preserve represented intimidation choices versus one selected course",
+    "literary_verdict": "AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "rivals": "Comedy-only/harmless reset; total growth/cure; reliable vigilant protector versus incapable-only; teacher-exclusive trust/romance or total exploitation. Each supported and limited in body section10.",
+    "ordinary_wants": "Learning, intended apology, chosen cookies and special gift, negotiated rest, sea scenery, stars, dreamed food, quiet company and pool gathering have intrinsic value.",
+    "recipient_and_endpoint_scope": "Failed first tutoring and apology; actual later basics and91; unconsciousness and frightened recipient; offered cookies not narrated eaten; tide local return; stars/collision/dawn; Valentine actual adult enjoyment with unresolved distress; Mika care/accessories and ongoing hostility; actual island pool thanks not swim; current Arius study/test not Koharu score or graduation.",
+    "root_literary_receiving": "PENDING",
+    "root_adoption": "PENDING",
+    "independent": false
+  },
+  "all_fourteen_gaps": [
+    {
+      "id": "G01",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G02",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G03",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G04",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G05",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G06",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G07",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G08",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G09",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G10",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G11",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G12",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G13",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    },
+    {
+      "id": "G14",
+      "state": "OPEN",
+      "claim_specific_effect": "Body132 and claim register; scope retained, no inferred closure."
+    }
+  ],
+  "receiving_recovery": "Initial C-only broad eligibility display26fa2b clipped. Exact three-family clauses/fields recoveredcaf0d8/12ed29; no whole unread section credit. Event810 title discovery3b2869 read only size-guarded first40 lines of small admitted owners; full consequential Koharu owner separately received98df5c.",
+  "group_and_related_event_scope": "No direct Koharu GROUP allocation in received family. Private metadata Event810/828/841/848/852 and unclassified843 associations do not automatically prove appearances or impose invented plot/identity joins. Complete previously received public/event meanings retain their earlier scope; this monograph makes no new consequential claim from unreceived852/843 sources. Separate event literal-roster duties are not completed by this literary package.",
+  "original_primary_credit_added": 0,
+  "unbound_large_reads_or_hashes": 0,
+  "performed_credit": 0,
+  "repository_or_global_writes": 0,
+  "N_frozen": false,
+  "quarter_claimed": false,
+  "external_handoff": false,
+  "canonical_derivative_custody": {
+    "state": "ROOT_ACCEPTED_WITH_LIMITS",
+    "frozen_author_bytes": 20605,
+    "frozen_author_sha256": "7a5871eb7ccf060dcab2b4c9c3c32eb249e37eb1571d974f43917f6b2c886147",
+    "root_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "source_reference_translation": "Repository-relative analytical paths, external selected corpus refs and immutable local witness refs preserve exact original tuples/scopes without publishing machine paths or claiming public availability. Historical author statuses are not current acceptance."
+  }
+}

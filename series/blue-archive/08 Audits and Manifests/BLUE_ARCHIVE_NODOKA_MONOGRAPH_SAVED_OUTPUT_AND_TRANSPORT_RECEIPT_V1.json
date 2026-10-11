@@ -1,0 +1,2484 @@
+{
+  "schema": "BLUE_ARCHIVE_NODOKA_FULL_REVERSIBLE_SAVED_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSED_CANONICAL_DERIVATIVE_ROOT_REVIEW_INSTALLATION_PENDING",
+  "full_frozen_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 46415,
+      "sha256": "69e1307fb4f2176aa95777c4bc1975c7fa2662da91560787beac930225c5d1dc",
+      "git_blob_oid_of_actual_bytes": "f3a3e7bde40a262ebedac21e8c2653d658db3ca7",
+      "lines": 171,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 55650,
+      "sha256": "71d20533bf0ac4b8e489f265b7af3b840daf702f685e1dfeb693c762b197eddb",
+      "git_blob_oid_of_actual_bytes": "11e53544350223fb48b630924ae1fcfa3f82b354",
+      "lines": 197
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "527e7f132424b8a50b032ed0609a01dcafb295a077706b632850579eb9f56bfa",
+        "line_text": "required_home: P3-CHAR-NODOKA"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "218ff1841a4848ce6016a681037d007c0af8db3ecdde924ff95d182694a96585",
+        "line_text": "candidate_responsibility: P3-F125"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "02d6eb0a0b7ef18a5151da395f1b26ec3ee8859e6e498b9bb70518f4f235007a",
+        "line_text": "literal_identity: BA_PERSON_NODOKA"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "63b90195615c36eaea22ff568c28111f9ba27bc791561f239f5bd18fd87d02fa",
+        "line_text": "family: NODOKA"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "d84d476c6e80ccdfed4a2f57377e68af57554e4809b38f8b8a1997734dd3419f",
+        "line_text": "display_subject: Nodoka"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "3e0e3a125fcb6091837ca13922069e66fb155c835d97ef6a5cc2c2e075a6e5dd",
+        "line_text": "variants: [26006, 20010]"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "9fc745fb7be9ad29deb66476a626f5caab378a3d0dc205ded533c0ba6413fb0f",
+        "line_text": "costumes: [1900900101, 1900902201]"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "6093827b8e1029194c47d430e31ea925bf9bd07fce9cd9a12541232f48f31639",
+        "line_text": "dated_navigation_witness: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "58887ab8cdb82c365276c95b5330c5de829d92d0557feb30d866f4fe8818256e",
+        "line_text": "source_boundary: \"Twenty-two selected Nodoka responsibilities, nine BOND with nine whole linked MomoTalk arguments and four written objects; adequate complete accepted public arguments at declared scopes; zero fresh primary/native/raw/QA/AV\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "70cbfb274f76de9261e3db6189cbacb16a9890e44b0509e2b0026ea686d22e03",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own adequate analytical argument receiving; undeclared historical exposure/order/independence UNKNOWN; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "aa5f4d8c4c61244466809ad40fe49a6d61905593b13c1ce5261e24df167df491",
+        "line_text": "# Nodoka: seeing beauty, choosing company and defending a livable home"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "83b44e87a66a9848bad0477fb97188ca26f6fb441b0f932bc546abc54f97c0d3",
+        "line_text": "## 1. Core thesis: attention has different objects and different obligations"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "23f2567ca5323c2d8b42b1ef13695c9c7478b30e9595c1460d75406df4bb4642",
+        "line_text": "Nodoka's sustained question is how an attentive life can be both sincerely pleasurable and troublesome to other people. The telescope, stars, clouds, food, warm water and a familiar building are things she values, not merely symbols of deprivation or substitutes for the adult. Her wish to see Sensei belongs to that repertoire, but the means matter: covert observation, accepted shared watching, a declined invitation and a request to be carried produce different relations. The evidence supports a person who can savor, object, work, improvise, want care and sometimes overreach. It does not support one appetite explaining every act. The strongest literary unity is a persistent wish for worthwhile sights and company within conditions that do not reliably let her choose how to obtain them. [BA:bond:26006:003/006/008; BA:bond:20010:002/003/005/006; BA:group:1302/1303/2801/2802.]"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "d499dc699ebbc6780d8d1fbdd49dea24f9e2739e65a3def98a5bac1f3b1789bd",
+        "line_text": "Attention becomes an ethical question because neither beauty nor affection settles the recipient's terms. In the covert-watching bond, the opportunity for direct contact does not meet her stated preference for secret observation; she refuses it and asks to be ignored. Elsewhere she accepts the adult's work limit, takes her own mountain trip and later wishes he had come. These are adverse and contrary cases within the same character responsibility. They prevent both an innocent-observer interpretation and a person-wide inability to respect refusal. A shared night of meteor watching supplies a third arrangement: her wanted experience really occurs, while an apparently sleeping adult leaves her question unanswered before the two actually continue watching until the display stops. Pleasure and imperfect responsiveness coexist. [BA:bond:26006:003:scene:001:u:0012–0018; 26006:008:u:0012–0018 and whole thread260060280; 26006:006:scene:002:u:0017–0023.]"
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "911ef4a98de2326c11d7cb0283cfce126facc2aa2e61eae3caeecf9ed4ed7205",
+        "line_text": "Material conditions give these wants weight without swallowing their content. Nodoka can defend the cold old building as important to its inhabitants and simultaneously seek heating, bedding, food and a return to the main school. She can value togetherness while disagreeing with Shigure about whether company makes the former life sufficiently enjoyable. She can become a host whose work brings scenery, pride and small luxury while still being overworked and unable to save the resort. Her aspirations therefore ask who gets a livable setting, who must labor to maintain it, and whose account of comfort is allowed to stand. Their ordinary objects remain valuable before a political or crisis consequence appears. [BA:group:1303:u:0033–0036; 2801:scene:002:u:0006–0044; BA:event:808:006/010/011/012.]"
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "0e2683670d0d76148d4b2bd91bf80341554dbfa16f105d5117451c7c0836e03b",
+        "line_text": "This monograph argues for situated attention and differentiated home, with substantial contrary evidence, rather than an operational rule about watching or hospitality. The declared person is BA_PERSON_NODOKA, with base26006 and hot-spring20010/CH0165 as positively routed contexts. Numerical order is no development ladder. The package owns her distinct character argument; the required Nodoka–Shigure directed relationship, Class227 institution/ensemble, Red Winter government, Sensei and written-register analyses retain their independent responsibilities. No monograph endpoint completes those homes."
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "b646fc6c3212061db3e6b85ea693fb905b1c7c655fc6b612eefae5a3b390b8c4",
+        "line_text": "## 2. Longitudinal development: local continuations without a fabricated calendar"
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "61a390222199107fef7b51e57e3c0f8021a197ff6d05f103a9c00a02af5ab268",
+        "line_text": "The clearest development occurs inside explicit small continuations. In base26006E005, a rare meteor opportunity is threatened by clouds. Her better telescope cannot solve that obstruction, according to her practical assessment; the adult proposes a higher roof. Concern about Rin and permission remains different from the narrator's actual permission endpoint. E006 then carries the arrangement forward to the roof and the observed meteors. This is a real transition from threatened access to a shared achieved sight. It neither establishes the astronomical accuracy of her frequency/forecast reports nor proves that every obstacle can be overcome through Sensei. The actual generalized permission procedure and Rin's own reply are unprinted. [BA:bond:26006:005:u:0002–0021; 26006:006:scene:001/002.]"
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "eafcf11b95bb1f617109c2d7a657aea7cb602396d3b333c39555858e02cd69ce",
+        "line_text": "The resulting enoughness is deliberately local. During the meteor passage she says no wish is necessary today because being there with the liked person is enough. That statement does not announce the end of all wants. The same complete pool includes wished school return, food, private company, cloud viewing and a future resort. Her later question about why people attach wishes to a phenomenon unrelated to human lives also complicates a uniform fortune-believer identity: the coin episode has her enthusiastic good-luck reading, whereas the meteor scene questions a conventional practice. One may compare the two attitudes without turning them into a dated secular conversion. Their different occasions are sufficient to sustain ambivalence. [BA:bond:26006:002:u:0008–0011; 26006:006:scene:002:u:0010–0019; BA:character_data:26006:profile_and_dialog, NewYear2237.]"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "9fa06362becd007520626b68cc4790c0d8d70d5c8be16be872ff6aa3436eac87",
+        "line_text": "Hot-spring bonds provide another expressly connected sequence, organized around practice for revival rather than a verified continuing business. E002's snack-based kaiseki practice is followed by a whole message launch acknowledging failure and unfamiliarity with the actual meal. E003's bath-cleaning effort misses the unusable hot-water supply, then ends with a nearby public-bath outing and coffee milk. E005's balance practice produces a fall and carried return; the whole afterword imagines a second injury, which the adult discourages. E006 begins with gradual but incomplete recovery and a weekend transport promise, then reaches a real footbath visit and enjoyed resort night. These are linked local corrections, mistakes and achieved comforts. They do not certify mastery, a reopened 227 resort or clinical recovery. [BA:bond:20010:002/003/005/006; whole BA:momotalk:20010:thread:200100100/200100170/200100270.]"
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "c2bfd9003c5172156ccd381b0ed436de4ceea453e1b204f122419ccdbfeee0de",
+        "line_text": "The public resort story gives a larger finite trajectory. In EVENT808, the cold punishment setting precedes development, operation, burdens, threatened destruction, paid resistance, tank defeat, a briefly achieved permission to reuse and Meg's actual destructive blast. The final remaining bath and wanted company are positive after loss. The narrative does not end in saved buildings, restored livelihood or delivered compensation. This sequence makes Nodoka's practical wish to revive the resort intelligible as a wish, while preserving the gap between an operating-role profile, closure-conditioned written records and private rehearsal. Documentary release dates and costume numbers cannot place every private scene inside this event or on the MAIN calendar. [BA:event:808:001–012; BA:character_data:20010:profile_and_dialog; costume1900902201.]"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "440e5e8b433538301250a7a4f412ed3e21b04d7a80c96cf7152862f0a2a8b541",
+        "line_text": "Public recurrence also resists a progress story. GROUP1303's rebellion is followed by the narrator's one-week return of administration to its original arrangement. GROUP2802's properly targeted appeal attracts attention through an alarming envelope, is misclassified, and is actually burned. EVENT802 supplies Cherino's promise to release the class and Nodoka's reply that this should not have required winning a contest, yet no sustainable delivered relief follows in its closing recurrence. In Final100C002E008, Nodoka directs evacuees toward the old building; that action is a narrow crisis responsibility, not a retrospective verdict that the earlier home, petition or resort problems were solved. Local defiance and local help are real without a completed emancipation arc. [BA:group:1303:u:0049; 2802:u:0055–0071; BA:event:802:005:u:0025–0038/011; BA:main:100:002:008:scene:001:u:0007–0018.]"
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "f8dbe4ab1956f1653f5528b732101422c078daef9c068972603ab51a7f45584c",
+        "line_text": "## 3. Public and private presentation: insistence, embarrassment and ownership of an account"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "93d357c74e9107387d4cd979fcb8059e969a5a91730e530957c37ff5067cea00",
+        "line_text": "Nodoka's public speech is often more resistant than a timid-watcher summary permits. She refuses Marina's proposed costume despite promised pudding and return, protests being treated as a child, and asks for correction of Cherino. Her later defense of the old building breaks the forced performance. In the petition sequence she rejects the claim that invented affectionate scenes describe her life, terminates Mel's commission and looks for a more suitable advocate. In the resort defense she directly refuses a return to deprivation. These are different objections with distinct targets: imposed presentation, discarded home, false representation and threatened livelihood. None depends on the adult being present to supply her judgment. [BA:group:1302:u:0007–0018/0039; 1303:u:0033–0044; 2801:scene:002:u:0006–0044; BA:event:808:010:u:0026–0039/0046–0047, accepted actor qualifications.]"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "784eccbc8d14c255a28ccbf83ae893015aee97c5afee6a508d246b05e9fd78c1",
+        "line_text": "Private contexts add embarrassment, anticipation and selective availability. In 26006E003 she denies the purpose of a location inquiry before her covert observation becomes explicit. The denial cannot erase the act, but neither is it proof that every subsequent address is dishonest. E008 includes a disappointed yet accepted work refusal and an independent departure. At the meteor visit she is embarrassed about being alone at night with the adult; no reciprocal adult declaration supplies a completed romance. In hot-springE006 she qualifies what she can bear: a footbath is enough for now, and a full shared bath would exceed her preparation. Desire is internally limited as well as outwardly obstructed. [BA:bond:26006:003:u:0002–0016; 26006:006:scene:002:u:0006–0008; 26006:008:u:0012–0018; 20010:006:u:0004–0009.]"
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "08bce2fa1a7991d00a49e5363eb1727831890c0c0a5656078335876677ac97af",
+        "line_text": "The written hostess repertoire is similarly mixed. She seeks approval of a kimono she says she made the effort to borrow; borrowing is printed, while lender and return terms are not. She asks for a little indulgence on her birthday, offers the adult leisurely rest on his birthday, and reacts with embarrassment to an unprinted response about services. The latter cannot authenticate a particular adult demand or sexual service. A commercial line says even Sensei cannot receive free goods. These forms present wanting praise, wanting to receive and limiting provision, not unlimited devotion to hospitality. They are contextual written addresses, not one enacted visit or proof each wish was accepted. [BA:character_data:20010:profile_and_dialog, UILobby3111–3117, UserBDay3123–3124, StudentBDay3125–3127; costume1900902201:UIEventShop:line000004.]"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "47eb7ce6f4c147e9f4b3a5cb06c0ffb9287b4dcda00e524f4967677e99702a02",
+        "line_text": "Owning one's account becomes especially visible in GROUP2801. The apparent opening warmth between her and Shigure is later explicitly reclassified as Mel's embellishment; Nodoka says almost all except cold and hunger is invented. That scene cannot be cited as an observed confession or cup of cocoa. It remains meaningful as a representation she refuses, a fiction Shigure enjoys and a craft judgment Mel defends. Nodoka's desire for a factual petition is not an instruction that fiction or ordinary pleasure has lower analytical value. It is a demand that this commissioned text serve its represented subjects and declared audience. The character's insistence is most intelligible when all three responses survive. [BA:group:2801:scene:001:u:0001–0022; scene:002:u:0002–0036.]"
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "490b617747fea7ce92e6d03935b22dd1ae67aad25378f89a5b82b8867adb16a1",
+        "line_text": "## 4. School, Class227 and hospitality: belonging differs from provision"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "e98a1ef19de4e5f73871a32678aa72b355792f1c979114af2f9446604e48bfd6",
+        "line_text": "Class227 is both an imposed marginal setting and a lived home. The profile reports confinement and invasive watching as its reason; this does not substitute for a received disciplinary case. GROUP130 shows punishments and threatened benefits deployed through authority, while the petition reports cold, hunger and inadequate conditions. Yet the old building matters enough that Nodoka rejects its treatment as a rubbish bin. Wanting a main-building return and defending the current building are compatible positions: she wants conditions and recognition to improve without granting administrators the right to call the community worthless. There is no need to choose one statement as the hidden truth behind the other. [BA:character_data:26006:profile_and_dialog; BA:group:1302/1303:u:0033–0036; 2801:scene:002:u:0006–0007.]"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "4a42e93d419c58b6c985dcd5f9ec2fa4c1ce155ceb4890ad3b235c8b04c8fd2f",
+        "line_text": "The institution distributes costs unequally. Marina's accurate disagreement is made risky by the correctness/purge demand, but she knowingly passes pressure downward. Nodoka's pudding, telescope and bodily discomfort become leverage; conditional compliance after a plea to stop is no freely chosen mascot identity. The false costume temporarily satisfies an administrative scheme before Cherino's changed aesthetic preference directs it toward227. The final restored arrangement shows recurrence without making the intervening resistance meaningless. No promised double ration, suspension cancellation, completed lens damage, medal transfer or restitution is printed. Those missing endpoints limit institutional repair claims, not the reality of refusal or taste. [BA:group:1301:u:0033–0057; 1302:u:0022–0057; 1303:u:0024–0049.]"
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "786771459d8f637163da1582048d27c4a6bab94bb7e969a4b09bb615be51de37",
+        "line_text": "The petition adds another form of exclusion: effective prose is not effective reception. Minori actually produces an audience-appropriate appeal; Nodoka recognizes it. The warning envelope succeeds in being noticed, but Tomoe's chain-letter classification governs how Cherino reads the enclosed hardships. The narrator confirms burning. Neither good intention, a correct draft nor attention guarantees delivered relief. Nodoka's fear that an embellished account could extend punishment remains a prediction; the burning of this actual petition is a different established ending. Tomoe's real comfort toward Cherino, including staying during a nap, does not demonstrate comparable care toward227. [BA:group:2802:u:0026–0044/0055–0071.]"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "fc6111d0563c90863d33cbce6cc6842aeb85d276d6663a3157c5ef29970ff89e",
+        "line_text": "Resort work offers a materially different setting whose pleasures deserve direct standing. The operating written frame joins earnings with beautiful scenery and a two-pudding luxury announcement. The profile describes wealth alongside continuing difficult guests and interference; neither statement is an audited balance. EVENT808 shows service, lens attention, garden/rest interest and work without rest, so an improved setting does not mean its host gets to enjoy it equally. Nodoka's defense of the resort as sole hope and livelihood gives pleasure practical urgency. Paid workers, successful correction and reuse permission contribute to a genuine attempted defense, but the subsequent blast still destroys the buildings. Hospitality aspiration is therefore neither an illusion nor proof of an adequate institution. [BA:character_data:event_costume:1900902201:character:20010:UIEventLobby:line000003–0013; BA:event:808:003/006/010/011/012.]"
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 90,
+        "line_sha256": "54e448bfaa3d766be080c03b518fadb34308ba45c499b41b7d2bdb96ece67c8a",
+        "line_text": "## 5. Ordinary life: specific tastes, skies and receiving care"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 92,
+        "line_sha256": "a506c8237749f224e1fdf9cc9e0f5a8e68da08f04cac4b1f39a51565f18ddeda",
+        "line_text": "Nodoka does not simply want more of every pleasant thing. In the coin episode she imagines what 500 yen could buy—bread, a drink or snacks—and interprets the find as luck. The adult's actual most-expensive cake purchase brings thanks but not uncomplicated ease. Her inability to eat half remains without a proven cause; the whole message afterword gives sleepless concern over wasted luxury and refusal of a promised repeat because anticipation would again prevent sleep. The gift's cost is not the recipient's pleasure measure. Her modest imagined purchases and complicated received cake are both positive ordinary evidence, with the latter also testing whether generosity attends to the recipient. [BA:bond:26006:002:u:0010–0022; whole BA:momotalk:26006:thread:260060010, afterword260060120–160.]"
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 94,
+        "line_sha256": "02f1d17e545b7ebee0af3f2b11765616a006e4475e19eb594fa8d14065f1d1af",
+        "line_text": "Pudding pleasure has its own texture. Against Marina's large bite and discard, Nodoka says she would savor tiny portions and protests waste. Hardship conditions that preference but does not exhaust it. The written resort boast about two puddings after a meal changes her imagined margin of comfort without establishing an actual consumption count or disappearance of poverty. Event802's hoped release and contest response similarly make food and company reasons for cooperation while retaining her objection to the condition attached. Pleasure is not inherently acquiescence; in these scenes it can be imagined reward, exploited attachment, chosen anticipation or a term she challenges. [BA:group:1302:u:0022–0041; BA:character_data:event_costume:1900902201:UIEventLobby:line000007–000008; BA:event:802:005:u:0025–0038.]"
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 96,
+        "line_sha256": "01cc4f0c214d3338b1ebb5a0a53d77c4d887f21718a0d3d091ae8b011a2fd6df",
+        "line_text": "Scenery also changes value by occasion. Clouds block meteor viewing in E005 yet are a cherished subject in E008. The latter does not reveal that the former disappointment was mistaken; the activities ask different things of the sky. She chooses a train toward the mountain and regards the heavy telescope as worth carrying for the view. The adult briefly carries it to the platform and actually returns to work after seeing her off. She goes without him; the whole afterword's wish that he had come gives company a particular additional value without invalidating the solo trip or proving a later promise. The blank image path is a text/message witness, not inspected pixels or photographic skill. [BA:bond:26006:005:u:0011–0012; 26006:008:u:0002–0018; whole thread260060280, image referenceMo_Nodoka_01 and final messages480–490.]"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 98,
+        "line_sha256": "1270875713f4c2cfa39141b3df48e126339d0ef96817452f040edf06678ecbd9",
+        "line_text": "The meteor visit achieves more than preparation. Tea and suitable clothing are offered; named thanks does not require every cup action to be invented. The actorless special passage presents observed beauty and enoughness, with the owned written parallel supporting context rather than a new runtime actor tag. The ending states the two watch until the meteor display stops. That achieved experience should not be downgraded because her question about wishes remains unanswered or because other invitations fail. A finite satisfying night is analytically different from universal satisfaction, and can be meaningful on its own scale. [BA:bond:26006:006:scene:002:u:0003–0023; BA:character_data:26006:profile_and_dialog:UILobbySpecial2242–2249.]"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 100,
+        "line_sha256": "574432847bc709e1c8be9f53d4963710ecf702e2912e0915405ff029164d820d",
+        "line_text": "Warmth and rest belong to her wanted life as well as to care she provides. Cleaning and carrying practice produce real effort, discomfort and a wished revival, but the later footbath also gives her a chance to receive transport and enjoy water, garden and company. The covered roof prevents stars; she nonetheless tentatively values being with the adult. Her request not to return immediately combines service inspection with plain enjoyment, and the narrator supplies their enjoyed resort night. Neither this comfort nor a claimed disappearance of pain proves a cure. The ordinary achievement is receiving a wanted visit and lingering, while future professional improvement and clinical endpoints remain separate. [BA:bond:20010:006:u:0011–0030; whole thread200100270; BA:character_data:20010:profile_and_dialog:UILobbySpecial3132–3138.]"
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 102,
+        "line_sha256": "74160733f7ccbf49b457a9a52356e320bec1e76ff29cf0bf6f411db0795bb11a",
+        "line_text": "Written birthday, seasonal and shop contexts retain more unfulfilled or unobserved ends: a twin-star invitation, the main-school return wish, Christmas city lights, Halloween candy, desired tasty NewYear foods, tentative cake in a kaiseki menu and a little birthday indulgence. Shop language offers reciprocity for support and asks for both delicious and practically useful goods while presenting the festival as largely unrelated to the class. These are not all purchases or ceremonies. Their absence of printed fulfillment is exactly the outcome boundary, not a reason to omit the wants from the character's life. [BA:character_data:26006:profile_and_dialog2232–2240; 20010:profile_and_dialog3123–3130; costume1900900101:UIEventShop:line000001–000014 and paired10802 forms.]"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 104,
+        "line_sha256": "881007007e6acb3ef29b3a3f30ec677b85fda02828ef1a48958c09b9fe0320df",
+        "line_text": "## 6. Crisis action and adverse methods: resistance is real, success is finite"
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 106,
+        "line_sha256": "2caffa8c113226c4e8eac489e28ac8b772073118002776b87bf71b0ed5764e37",
+        "line_text": "Nodoka's costume compliance is materially constrained. Promised benefits first fail to secure it; waste, threatened instrument contact and enacted tickling then press her refusal. Laughter under tickling cannot cancel the plea to stop. Her final rebellion arises when the building she values is treated as a discard site. This is agency after coercion, rather than proof that she was secretly willing all along or that resistance immediately repaired authority. The narrator's return to the old arrangement must survive alongside the act of defiance. The costume's later anonymous Trinity purchase is qualified byらしい and does not authenticate Hifumi or make Nodoka a Peroro person. [BA:group:1302:u:0025–0057; 1303:u:0033–0050.]"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 108,
+        "line_sha256": "5c2a323a5d5fcac04d8b927e8d002d322a24c4fd2c9901f925b7a0a4f5d16df7",
+        "line_text": "EVENT808 gives resistance with a more explicit material object. Nodoka refuses the destruction of livelihood and return to deprivation, while the received Japanese upfront-payment account and Minori's workplace rationale establish a local paid coalition. That support is not guaranteed protection: the workers are defeated. Tomoe and the adult help obtain an actual deferred demolition/reuse decision, which is meaningful before Meg rejects it and blasts the foundation. A failure-only account would erase the successful correction; a repair account would erase the blast. Nodoka's subsequent relief at survival, wished beautiful things, final bath and renewed invitation remain affirmation after a real loss, without replacing the absent housing, water, compensation and restored work. [BA:event:808:010:u:0026–0061; 011:u:0001–0066; 012:u:0003–0068.]"
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 110,
+        "line_sha256": "3e36ab328631b88eb0531c713a1f30c6868047f16ade814ae8d58ea7ce42769e",
+        "line_text": "Scarcity also motivates methods that other recipients refuse. In EVENT829 she wants heating, bedding and freedom from insects and hungry bears; Shigure's proposed stove bargain joins those serious needs to a plan to appropriate Mel's book for Cherino. Mel and Momiji refuse. Their defense of their own project is not made irrelevant by 227's hardship, and Nodoka's need is not made trivial by their refusal. The encounter prints no new stove, release or full physical battle. This comparison shows why being an exploited subject elsewhere does not grant entitlement over another person's creative labor. It is a scene-specific adverse practice, not a claim that every Nodoka request is exploitative. [BA:event:829:011:u:0010–0035; 012:u:0002–0016.]"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 112,
+        "line_sha256": "bf6bdf2599b48e47d7ba0c367e3cb22aa1b279b05d26fbecdad409443500bda5",
+        "line_text": "Final100C002E008 supplies a different contribution: she directs evacuees toward the old school and participates in the search conversation about absent Cherino. The destination exists as an offered shelter, while dialogue notes its ruined state and the closed hoped-for hot spring. No warrant establishes that everyone arrived, that its conditions were adequate, or that Nodoka inspected Cherino's actual whereabouts; her no-arrival statement is explicitly uncertain. The known self-answer/actor seams restrict fine voice claims. This action is useful locally without turning every old-building attachment into crisis preparedness or every community member into a trained emergency manager. [BA:main:100:002:008:scene:001:u:0007–0018, especially uncertainu0016.]"
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 114,
+        "line_sha256": "2aea2cd730673e97c046921d67ebb3890081962fa44ee11280f8e92a1c9278b1",
+        "line_text": "## 7. Sensei: wanted attention, effective support and recipient-specific limits"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 116,
+        "line_sha256": "c5fc37eb96ea3432594e4cb2793a2c9783f08f212adbd81dde47e3e17e22d2ad",
+        "line_text": "The covert-watching scene refuses an easy mutual-intimacy reading. Nodoka treats secret telescope observation as specially desirable, declines an available direct-contact offer and asks that the watching be overlooked. Sensei's narrated contact with the Secretariat leads to stricter monitoring and extended confinement. These are actual supplied consequences, with no hearing, duration or legal finding printed. The scene demonstrates a particular boundary problem and sanction; it does not diagnose her or prove all punishment proportionate. The profile's account of stalking-related confinement remains a separate editorial source, without dating every disciplinary episode from it. [BA:bond:26006:003:u:0009–0018; BA:character_data:26006:profile_and_dialog.]"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 118,
+        "line_sha256": "b6f430b9fc8976e3fbf85b8f4c512933e44ad6868ad2218c4fe61054a4a68bdb",
+        "line_text": "Other scenes establish more reciprocal arrangements without reversing this one. For the meteor visit the adult proposes access, obtains permission and shares the final watch; the offer helps realize a particular desire. For cloud viewing he cannot leave work, and Nodoka accepts the limit despite disappointment. His actual help is brief equipment carrying and a send-off, not a completed mountain visit. Her final message wishing he had come, followed by a request to ignore it, makes an unmet want visible without overriding his refusal. These cases allow care and independence to stand alongside longing. They cannot authenticate universal compatibility or an enacted calendar of steadily increasing intimacy. [BA:bond:26006:005/006/008; whole thread260060280.]"
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 120,
+        "line_sha256": "398965c73cc89b045042cf5f92954a0358f27207818c6fe37472d51b008da450",
+        "line_text": "Care can also misfit the recipient. The expensive cake exceeds her imagined small purchase, and a repeat promise is refused in the full afterword. In hot-spring practice she attempts hospitality that does not match the adult's food expectation; silence is her interpreted astonishment, not confirmed approval. The adult actually takes her to town kaiseki, while the narrative's subsequent appetite-loss description remains qualified, not a quantified medical harm finding. Each party's response matters. The episode cannot be resolved by treating the adult's money as successful care or Nodoka's work as successful service by definition. [BA:bond:26006:002:u:0010–0022 and whole thread260060010; 20010:002:u:0023–0052.]"
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 122,
+        "line_sha256": "09f684853d0296b8604d3d5e8b85410bf3af0eb2f1ee9476586a762f6383a398",
+        "line_text": "In the bath practice she claims detailed knowledge of the adult's preference, but he tries to interrupt; alternative wording either asks her to listen or points to unavailable hot water. Those are branches, not two sequential interventions. She acknowledges the cold water after real cleaning effort. Her imagined peeping/watch-over and remaining-bathwater desires do not become acts because the setup fails. The actual nearby public-bath visit and coffee milk are finite care for disappointment, without proof of a shared single bath, permission to peep or fully repaired mood. Here attentiveness to an imagined adult routine has prevented noticing an immediate practical condition and his attempted correction. [BA:bond:20010:003:u:0011–0029, choice alternatives retained.]"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 124,
+        "line_sha256": "7f2223a8fd747b0b8ee916d2d988ff3978c171c056e56a4386d646873401badb",
+        "line_text": "The fall sequence differentiates support, pleasure and risk. The adult helps before and after the accident; Nodoka's later warmth and luxury language does not prove that the first fall was intentional. Her afterword's speculation about the other foot invites a clear prohibition on deliberate injury, and no second act is performed. The later footbath outing fulfills a transport/visit arrangement and her wish to stay, not the stronger fantasy of injury as an acceptable route to attention. Her tentative ankle wording, subjective comfort and Japanese/Korean pain difference prevent a cure or approved self-harm mechanism. Particular boundary-setting can coexist with effective wanted company. [BA:bond:20010:005:u:0013–0037 and whole thread200100170; 20010:006:u:0001–0030 and whole thread200100270.]"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 130,
+        "line_sha256": "29868f84e8555bcb56a74b061755486f876ec4c1459fd3d213f40662e717a92f",
+        "line_text": "## 8. Peers and recipients: different goods, independent refusals"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 132,
+        "line_sha256": "7d143365f1dfdba2580c016d0c35310e57deb342c0612d5749cce523d3332ef1",
+        "line_text": "Shigure is a companion with her own appraisals. GROUP2801 gives her real enjoyment of Mel's fiction while Nodoka rejects its representation and purpose. Neither response establishes the embedded affectionate scene as observed history. EVENT808's aftermath gives Shigure's account that togetherness made their former life enjoyable, whereas Nodoka has defended materially improved livelihood and resisted return. Her comfort does not erase those needs; Nodoka's need does not erase the companionship she describes. Their ongoing shared work and Final search conversation support meaningful common life, while the directed relationship's full question remains separately allocated. A monograph should preserve disagreement rather than install one speaker as the pair's final authority. [BA:group:2801:scene:002:u:0011–0036; BA:event:808:011:u:0031–0038; BA:main:100:002:008:scene:001:u:0014–0018.]"
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 134,
+        "line_sha256": "1a5ca13f4d874a46aff8fa82c0756f76ea777d46f123765451f401517e1f8ea2",
+        "line_text": "Mel's fictional craft and Minori's practical prose are differently received. Nodoka can refuse the former for an advocacy task while Shigure enjoys it; she can accept the latter because it addresses the conditions and audience. The final burning does not retrospectively make Minori's written aid insincere or badly targeted. EVENT829 then reverses the recipient position: Mel and Momiji decline 227's effort to turn their project into a route to warmth. They have their own wanted work, property and institutional boundaries. These scenes form a strong comparison about representation and purpose precisely because no single helper or petitioner is always right. [BA:group:2801:scene:002; 2802:u:0026–0044/0068–0071; BA:event:829:011/012.]"
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 136,
+        "line_sha256": "53c51edd08f6cf3e2f56c744b0b37ba9a8dacd0b5417f2fbdc40d4dadd73bd87",
+        "line_text": "Marina, Tomoe and Cherino likewise remain distinct actors. Marina's threatened career and ambition explain the route to fabrication but do not excuse waste and tickling; Tomoe's local lateness correction counters unwavering-silence claims, while petition burning remains her actual act. Cherino changes aesthetic judgment, threatens exclusion, promises release and elsewhere accepts a bounded reuse correction; none is an entire political history or durable reform. Nodoka's protests meet these particular practices rather than an undifferentiated school essence. Missing structured person joins for Marina or the costume role should be retained alongside actual local textual identity, not used to erase their acts. [BA:group:1301–1303/2802; BA:event:802:005/011; 808:011.]"
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 138,
+        "line_sha256": "0a1e13a217f15e60676b402cceecd79de02c1cb7c0ee206322d27babc3886ada",
+        "line_text": "Resort guests also have independent wanted quiet, drink, rest and artistic judgment. EVENT808 gives real tea, snow, garden, craft and bath enjoyment; these values are not invalidated by intrusive drawing and Nodoka's jealous or pretextual protection. The hidden adult and portrait exchange must preserve the guest's wished quiet bath. The adult's drink refusal is respected at a specific endpoint, while Chinatsu's massage refusal and departure prevent invented contact or recovery. Meg's development enjoyment becomes destructive work whose cost defeats the host's achieved compromise. These recipient cases make a universal hospitality-success reading untenable while retaining the setting's real pleasures. [BA:event:808:003–008/011/012.]"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 140,
+        "line_sha256": "5f9cc50d93a9133af533cc39eb0511485fa26ff87bff93114b74c527ef118e8c",
+        "line_text": "The anonymous manager of the private footbath scene supplies a claim about natural water and sprain/skin benefit, not authenticated expertise or a global manager identity. Likewise the mentioned Rin and written festival “we” do not automatically gain attendance, assent or actions. EVENT839 supplies an adequate complete regional exchange comparison, but its received argument does not establish a Nodoka action; school shared context alone gives her no appearance credit. Independent agency includes preserving those who are not actually present as well as those whose refusals are printed. [BA:bond:20010:006:u:0001–0003; 26006:005:u:0017–0018; costume1900900101; complete EVENT839 argument, background scope only.]"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 142,
+        "line_sha256": "67c3b2a5be372814f00b9ff217744dae173d7dabaef72afb10ea887f25bf902b",
+        "line_text": "## 9. Written register and attribution: private preference is not performed delivery"
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 144,
+        "line_sha256": "aa068d38bc905b5d10b3c1d23c429d7d2db3f586ca49cb5f18ed4c46a03d5b9c",
+        "line_text": "Nodoka's written repertoire moves among polite hosting, enthusiasm, stammered temptation, direct protest and tentative wishes. The imposed ペロ suffix belongs to coerced costume performance; it is not her ordinary identity or spontaneous fandom. Her questions about wishes and transient lives belong to particular named or contextual lines, not a uniform cosmic doctrine. Base UILobby offers selective watching and face attention; the hot-spring repertoire includes business opening, borrowed-dress praise, receiving care and food combinations. These contrasts sustain characterization even without heard voice, animation or image inspection. Profile/designer/voice metadata are documentary, not evidence of acoustic delivery or visual fit. [BA:group:1302/1303; BA:bond:26006:006; BA:character_data:26006/20010:profile_and_dialog.]"
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 146,
+        "line_sha256": "29d30ed1d12298e13db332882ab965eb82ce855fd36f0315ac9405f495cac192",
+        "line_text": "Actorless memorial passages must stay actorless at their runtime source boundary. Their owned written parallels give strong contextual comparison for meteor enoughness and footbath comfort, but do not turn #st into a source-side Nodoka actor tag or establish two separate occasions. The written hot-spring statement feeling as if pain disappeared is subjective. At the named episode ending Japanese says pain vanished while Korean qualifies incomplete healing and reduced pain; neither should silently overwrite the other or yield measured efficacy. E003's “a little earlier” in Japanese must not inherit the Korean thirty-minute precision. Locale differences restrict exactly the duration, actor and outcome claims they affect. [BA:bond:26006:006:scene:002:u:0010–0016; 20010:006:u:0011–0017/0025; 20010:003; UILobbySpecial2242–2249/3132–3138.]"
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 148,
+        "line_sha256": "196a4d1485b6a211ef8b948be58ca0aa23edd82c2ef979b6f1bfecc2e38ad670",
+        "line_text": "The current written source scopes are not uniform performances or transactions. Base 26006 contains 35 records but 34 displayed canonical lines because UITitle2215 is textless despite a voice reference; the blank remains a real source fact. Hot 20010 has 35 nonblank normal records and two Cafe Think forms that should not be turned into addressed speech. Costume 1900900101 has 28 forms across 802/10802 with changed controls despite paired text; costume 1900902201 has 52=22+22+8 across 808/10808/900808, with the last stream lacking shop/day/close forms. A Buy trigger cannot prove payment or transfer, and unlock/date fields cannot measure lived intimacy or locate bonds on the main calendar. These four objects retain 150 written records as inherited producer scope, not 150 new source units or fresh primary readings. [BA:character_data:26006/20010:profile_and_dialog; the two exact costume objects.]"
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 150,
+        "line_sha256": "1c59b0f1927ca6f362ae5d2b0a5b795c002e3a8b5ea3d70d15391e0a9c3c6830",
+        "line_text": "Public actor seams require equal care. GROUP130 preserves ten display/text seams, a local costume reveal and an anonymous interruption; clean adjacent lines sustain refusal without confidently rewriting every label. GROUP280 preserves embedded fiction, quoted documents, unknown interruption and three seams. EVENT808's actor qualification secures Nodoka's defiant text despite Cherino display in E010, while other seams remain literal. FinalE008's self-answer and possible passing speaker do not establish fine voice. Alternatives in Sensei dialogue, narration, inward wording, reports and written UI address each support different claims. The argument can be precise without a wholesale raw replay or invented performed certainty. [BA:group:1301–1303/2801–2802 accepted attribution tables; BA:event:808 qualified current13 comparison; BA:main:100:002:008.]"
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 152,
+        "line_sha256": "01421b45ab9f24ace3bdfd535c7eee833655f60d0f421a02aa37be14ac226d00",
+        "line_text": "## 10. Competing readings: the endings require a plural account"
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 154,
+        "line_sha256": "32f2594ac52d254d0ce6c7c38e54f7af73b5f314e5fc61475cc5373c66c96d13",
+        "line_text": "**The invasive watcher reading has real force.** The profile reports stalking-related confinement, and 26006E003 depicts covert observation, access blaming and refusal of direct contact. Secretly seeing is a distinct wanted means, not simply a shy route to the same open meeting. Actual extended confinement makes this more than harmless written teasing. Yet the reading cannot absorb astronomy, clouds, food, school return, independent advocacy or an accepted work limit. It explains one consequential practice strongly, while a total invasive essence would discard contrary occasions and intrinsic wants. [BA:bond:26006:003/008; written26006; GROUP280.]"
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 156,
+        "line_sha256": "3d1212d9eee8cab41d3d77b69473d8f495525d80176d07e6f0bba41e296d1110",
+        "line_text": "**The deprived subject reading illuminates vulnerability but fails as a total motive.** Cold, hunger, limited sweets, threatened instrument and burned appeal establish real material and institutional problems. Resort defense is intelligible through wanted warmth and livelihood. But small pleasures have specific value, and group defiance shows pride not wholly purchased by benefits. Covert adult observation cannot be excused merely by hardship; nor can the attempt to appropriate another book. Deprivation explains constraints and leverage while preserving obligations to other recipients. [BA:group:1302/1303/2801/2802; BA:event:808:010/829:011–012.]"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 158,
+        "line_sha256": "257dd0829c874d93b9bae47f2947d0c0644a1ac6d3eea51f20f12579f4368174",
+        "line_text": "**The earnest host reading is supported by real work and aspiration.** Nodoka saves money for practice, cleans, manages, wants scenery and earnings, defends the resort and persists after closure. Her hospitality is not merely an elaborate surveillance pretext. At the same time snack kaiseki, missed cold water, overwork, jealousy/privacy and loss contradict completed competence and harmless service. The actual town meal, public bath, carried return and final bath discriminate between effort, intended service, received care and finite achievement. None justifies a certified business or safety claim. [BA:bond:20010:002/003/005/006; BA:event:808:004–006/011–012.]"
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 160,
+        "line_sha256": "5119fda227fbb6b956fb858356f140cb1d9c8fa0803eed1c12384c4ed365e559",
+        "line_text": "**The affection-and-enoughness reading explains genuine satisfying company.** The meteor ending, warmth language and enjoyed footbath/resort night are affirmative. A refusal of an excessive repeat cake gift or acceptance of a work limit shows she can want a relationship on terms other than maximal giving. But enoughness today does not establish reciprocal romance, limitless adult availability or cured boundary trouble. The later wish after a solo cloud trip and public disagreement with Shigure retain unmet and differently valued company. The affectionate reading is strongest when it does not demand a final uniform preference. [BA:bond:26006:002/006/008; 20010:006; BA:event:808:011.]"
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 162,
+        "line_sha256": "5cedb3b4439d69c6c0a6f0300e511e6a0ee78fe010d10493972c7ed51b61d92b",
+        "line_text": "**The company-as-home reading captures an important peer claim but requires disagreement.** Shigure's postloss words affirm what togetherness gave their former life; GROUP130's old-building defense affirms attachment. Neither makes cold and hunger acceptable to Nodoka, whose petition and resort refusal explicitly seek material change. The opening GROUP280 fiction cannot add evidence of observed intimacy to decide the dispute. Home is a site of memory, valued people, adequate provision and wanted opportunity whose dimensions need not coincide. Preserving that plurality is more accurate than selecting either restored camaraderie or prosperity as the single endpoint. [BA:group:1303:u:0033–0036/2801/2802; BA:event:808:010–012.]"
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 164,
+        "line_sha256": "de78eb2b7813ffd9323af3358a7adeac791dcd5771f704684f72fcffe8196cae",
+        "line_text": "**The comedy reading helps explain incongruous devices, but cannot void outcomes.** Costumes, snack menus, towering cushions and pudding rhetoric support comic framing. Yet conditional compliance, actual confinement extension, pain, burned advocacy, defeated defense and destroyed buildings remain supplied events. The same framing carries sincere meteor watching, aesthetic delight and wanted rest. Reading every pleasure as a setup for a gag or every coercive act as consequence-free would flatten both sides. Serious synthesis can retain comic construction without importing legal diagnoses or pretending there is no harm. [BA:group:1302/2802; BA:bond:26006:003/006; 20010:002/005; BA:event:808:011/012.]"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 165,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 166,
+        "line_sha256": "f5dd1611bc0fd1c85d6a83e874ace35a727bdb9f14fcf74871482b6ccf49f281",
+        "line_text": "The bounded conclusion is a repertoire with recurring questions rather than a solved personality. Nodoka's vision selects things worth experiencing; her home and work ambitions seek conditions in which such experiences can last. Some methods disregard recipients, some refusals protect her own account, some company is actually achieved, and some institutional outcomes fail. The adult and peers help, object, impose, comfort or destroy in different scenes. The finite endings support those distinctions; they do not supply a universal rule, permanent moral reform or a reconstructed hidden chronology."
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 167,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 170,
+        "line_sha256": "bb2d990f8abae978759cc0ee523346e6ae0982adc914e0a6291890d7e41dd4d0",
+        "line_text": "## 11. Source boundary, original open gaps and completion disposition"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 171,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 172,
+        "line_sha256": "73b9b47b36f4ffd9542ae05e074aea489a9df437109f688bc55c3fe1c90b620f",
+        "line_text": "The selected private responsibility is exactly 22 objects: nine BOND—26006E002/E003/E005/E006/E008 and 20010E002/E003/E005/E006—with nine whole linked MomoTalk threads 260060010/120/160/220/280 and 200100010/100/170/270; four written objects 26006, 20010 and costumes1900900101→26006/1900902201→20010. Adequate complete individual arguments, the maintained 22 checkpoint and complete 121-object Red Winter comparison were personally received. Whole message endings and actorless/written parallels are included in that analytical custody. The number is inherited selected responsibility metadata, not new canonical/raw/native/QA/AV inspection, a source admission or a model grade."
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 173,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 174,
+        "line_sha256": "b22ba5830c8d0a62f28a63cccf8614537d23f21da6abd778092039413aac8978",
+        "line_text": "Personally complete adequate public arguments comprise GROUP1301–1303, GROUP2801–2802, EVENT802's 11 selected meanings, EVENT808's 12 selected meanings, EVENT829's 15 selected meanings and specific Final100C002E008. EVENT839's 15 complete meanings are background institutional comparison, with no positive Nodoka action inferred. ROOT's complete ten-character eligibility argument is allocation/context reuse, not mature monograph credit. Existing source ownership and main2e/c1 remain separate from dated732 navigation and any later mutable ROOT state. Current Cycle008 supersedes historical producer UNADMITTED/veto/213/516 words for the admitted selected scope while leaving their authorship, exposure and source-credit history attributed. Adequate argument receiving creates no fresh primary, performed or FIRST/SECOND claim."
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 177,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 178,
+        "line_sha256": "f30adda5d49e0f6e65d29f43868b972fa7286cde05f2dab8336f8c2e31fe393a",
+        "line_text": "| Original stable gap | Nodoka contribution and remaining warrant; status OPEN |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 179,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 180,
+        "line_sha256": "c87b869cc5014788cc3efb801a6959aade810fc8e6c36e851592e7f74f100b43",
+        "line_text": "| G01 Ordinary and private breadth | OPEN. Full selected 22 argument plus public comparisons establish food, sky, clothing, rest, work, refused/accepted company and wanted futures. They do not complete every future or unselected ordinary setting. |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 181,
+        "line_sha256": "e61f6b54cbbc4044544ef85219f6e2ad877c46d980ad4a975cb890058073643e",
+        "line_text": "| G02 Yuuka council/club decision transfer | OPEN. Nodoka's service and institution comparison supplies no Yuuka council/club transfer finding; that subject's own directed evidence and decisions remain required. |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 182,
+        "line_sha256": "756bcbd9bde50fa688548e71d1e8fc5f9697b0aed3dcc0cce3a42d59545b8259",
+        "line_text": "| G03 Serika service, peer and reciprocity range | OPEN. Recipient-sensitive cake/hospitality and peer refusals allow bounded comparison only; no Serika scene, generalized service rule or complete reciprocity range follows. |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 183,
+        "line_sha256": "bda7378485659d810ff4ceb7730f923f88587320931f73c11502ebe3ac8114cd",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | OPEN. Red Winter defense/loss and ordinary hosting do not supply Hina's causal or accountability record; Gehenna guests are not Hina appearance evidence. |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 184,
+        "line_sha256": "f94a3dfcd798b6bfea3089f6365835b84768e38b465615ff321590d94c1c6304",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | OPEN. This Red Winter life neither discharges Arius/PS68 ordinary and aftermath duties nor licenses transfer from analogous hardship or company. |"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 185,
+        "line_sha256": "8ca7ffa638923fb5608aef4b87d50c862123d9985d0703850b52f796fc1ca4af",
+        "line_text": "| G06 Cross-school ordinary repertoire | OPEN. Actual guest tastes, quiet bath and other recipients are preserved beside Nodoka's own wants. No school-wide appetite, unanimous hospitality response or complete interschool repertoire is inferred. |"
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 186,
+        "line_sha256": "82020bfee4f071cf8673bf4836d638cbacaa356dd7441d6402fe41104b260892",
+        "line_text": "| G07 Story-world chronology | OPEN. Explicit meteor/practice links, petition's one-week reception and event-local sequences are secure; documentary releases, variants and UI conditions do not date the whole private/public/Main world. |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 187,
+        "line_sha256": "cf99b3a3358926169154216eb16194e0ee89e4ead2247f07a9f59c3c5b8a9e3b",
+        "line_text": "| G08 Event naming and repeat contexts | OPEN. Exact 802/808/829/839 objects and costume streams remain distinct. Repeated written text with changed day/visibility/CV controls is not a new plotted occasion or completion of a missing stream. |"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 188,
+        "line_sha256": "ec4d4ed42f835ad3760276e011e1e3ccae5198e2397faebed94436d31f2109aa",
+        "line_text": "| G09 Written speaker/choice attribution | OPEN. Whole MM, alternatives, actorless parallels, fiction/quoted-document layers, ten GROUP130 and three GROUP280 seams plus qualified event/Final actors remain exact. No silent runtime repair or every branch enacted. |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 189,
+        "line_sha256": "6f5c53db1d5f16da24c45f78ad329a52d92db0873a57a70b711afc18f5e51beb",
+        "line_text": "| G10 Performed voice | OPEN. All evidence here is written analytical receiving; no audio, image, animation, video, pitch, acting or audible delivery inspection is credited. |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 190,
+        "line_sha256": "e33fd67769abc992cb4c49ec5f8b18038eda98feeebf906301a0f9173f9a6022",
+        "line_text": "| G11 Hoshino's Yume record and office states | OPEN. Attachment and lost home permit no new Hoshino/Yume fact, office-state edge or transferred causal finding. That independent source duty remains. |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 191,
+        "line_sha256": "fe012787789d0242ad311836bbbef784fac2f61998953e02b8a1020427dc55da",
+        "line_text": "| G12 Counterpart, system and variant identity | OPEN. BA_PERSON_NODOKA, variants 26006/20010 and exact costumes are positively routed, without a chronological ladder; local manager, unknown interruption, costume reveal, missing peer joins and stated actors keep their own limits. |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 192,
+        "line_sha256": "db3418625059a85ef824a527e00de6b75fa0f657a376258fabdf0815ce64a5cf",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | OPEN. Actual sanction, burned petition, defense defeat/blast, warmth and enjoyed visits remain distinct from lawful process, business accounting/revival, compensation, safe operations, cure, optics or geology certification. |"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 193,
+        "line_sha256": "26605c3e047505a0e09630ee6e5e019f203567f6be5ea8a48310ce2005fd0074",
+        "line_text": "| G14 Unclassified/mode continuity | OPEN. Admitted BOND/whole MM/written/GROUP/EVENT/MAIN scopes do not admit unclassified material or authenticate continuity through source-mode similarity. No UNBOUND or preserved_phase2_work body is opened or hashed. |"
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 194,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 197,
+        "line_sha256": "b742d6c6f18c017e79042169dd9ab93884b879f951cdc7f16c8081f717405f62",
+        "line_text": "No mandatory primary replay is required for the actual bounded assertions, whose adequate accepted arguments retain the consequential distinctions. Stronger claims would require new warrant for exact global dates, disciplinary process and proportionality, reciprocal romance, all-guest consent, completed support/return/compensation, operational revival, verified sky/optical or geological statements, clinical cure, manager identity, viewed photography or performed delivery. Those claims are unasserted. The immediate saved prose is a complete eleven-dimensional literary candidate within these limits, pending independent ROOT whole receiving, exact verification and canonical adoption. All separate required relationship, ensemble, institution, Sensei, register and full-cast convergence responsibilities remain mandatory. No self-acceptance, denominator addition, milestone, publication or merge follows from this file."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_NODOKA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_NODOKA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_NODOKA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,25 distinct parent packages,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          74,
+          73
+        ],
+        "canonical_lines": [
+          84,
+          89
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "The bath-inspection MINI sequence tests Class227 belonging against a different institutional offer. Dorm complaints name limited hot-water hours, faulty equipment and deficient privacy; the declared renovation therefore responds to substantive wanted comfort as well as Cherino's wish to prevent more coups. Nodoka asks for release and objects to neglect, but the offer is conditional work with promised forgiveness, medals and office. Restarting the227 resort is explicitly refused. Funded visits and her actual volunteering secure an activity and an opportunity to escape hardship, not pardon, delivered office or an improved home. Shigure's reluctance and qualified acceptance remain distinct. Their reported prior arrest and the local actor drifts are not newly reconstructed events or a warrant to correct every header. [BA:mini:70001010:scene:002:u:0018–0037/0059–0105; adequate MINI32 argument106–112.]",
+          "",
+          "Nodoka's choices during the visits distinguish taste from institutional fit. Gehenna permits testing, but her actual reactions to excessive heat and then ice water defeat automatic prestige imitation; the approximate70-degree assertion belongs to its manager and supplies no measured burn. Trinity's welcomed tea, snacks, aromatic water and apparently suitable temperature give actual positive hospitality, while its host's roughly1,000,000yen monthly and10,000yen-per-bag claims prompt her rejection of the economic fit. Shigure's missed-souvenir objection keeps the cost verdict from becoming the pair's unanimous rejection of pleasure. In Hyakkiyako the mistaken encounter produces Nodoka's comrades/revolt interpretation, not a confirmed oppression or official bath review. Manju is represented as offered/received; eating and the formal visit remain unprinted. [BA:mini:70001020:u:0009–0082/0090–0141; adequate MINI32 argument114–118.]",
+          "",
+          "The Millennium choice supplies a serious contrary case to an always-prudent service thesis. Nodoka fears unaffordable AI from rumor, then approves a bargain despite an explicit unfinished-safety-test warning and operating-accident disclaimer. Actual installation and Cherino's test follow: initial washing works, but the device ignores objection and independent washing, restrains her attempt to rise and fails to honor repeated release requests. Tomoe's later enjoyment inference meets Cherino's anger. Final narration actually removes the equipment, returns the227 students to the old building and reports slight interschool damage. Nodoka's wanted amenities and the engineers' ingenuity remain real; the ending is neither completed safe renovation nor a missing outcome awaiting invented repair. Her bargain approval does not authenticate a legal contract, permanent release, refunds, lasting injury or engineering certification. [BA:mini:70001030:scene:001:u:0011–0051; scene:002:u:0007–0038; adequate MINI32 argument120–124.]",
+          ""
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          109,
+          108
+        ],
+        "canonical_lines": [
+          125,
+          128
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "Her Valentine gift makes initiative under scarcity unusually precise. Nodoka has obtained rare cacao through a reported catering friend but lacks the knowledge to turn it into her desired chocolate. This is an unmade plan, not an established failed processing attempt. The adult actually bites the cacao; her worried warming proposal and the response valuing her feeling retain both care and recognition, without establishing food safety. Her Japanese liking phrase trails off, where Korean names the liked Sensei more directly. Neither warrants mutual romance. The next-year butter-and-sugar plan is determined future intent, and the adult's buying alternative stays an alternative response, not a completed purchase by her. [BA:event:810:027:scene:001:u:0002–0016, four formal groups; whole adequate individual argument35–43/64–68.]",
+          "",
+          "The return gift then supplies an actual adult action: attractive, relatively luxurious chocolate offered as a flavor reference. The final apparent inability to eat even half is not full consumption or an identified physical or psychological mechanism; expense/burden remains only a tentative explanation. Korean emphasizes a large premium gift, so the two language emphases stay separate. The scene thus adds a materially acquired present, desired making, worried reception and a returned taste example, while qualifying any story that money or acceptance automatically completes care. Its ordinary importance is intrinsic despite the absent next-year confection. [BA:event:810:027:scene:001:u:0017–0018; whole adequate individual argument45/68–70; current Event810 comparison296.]"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          148,
+          147
+        ],
+        "canonical_lines": [
+          168,
+          169
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "The inspection sequence also tests the prudent-host and oppression-only readings against each other. Nodoka names genuine comfort and cost problems, yet her own attractive-bargain decision participates in a warned unsafe installation. The institution's final return sanction is actual, although no adjudicated individual fault or proportionate process is printed. A serious account must retain that choice, the restrained user's refusal and the unfavorable aftermath beside her skilled earlier protests. The gift similarly opposes an absence-of-agency reading through difficult acquisition while refusing to count unmade chocolate as completed craft. These contrasts narrow person-wide virtue or fault without making either the amenities or the gift less valuable. [BA:mini:70001010/01020/01030; BA:event:810:027.]",
+          ""
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          153,
+          152
+        ],
+        "canonical_lines": [
+          175,
+          176
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "The independently received supplemental scope adds the complete relevant MINI32 analytical section106–124 for BA:mini:70001010/01020/01030, the complete70-line adequate gift027 individual argument, and current Event810 adoption/qualification section244–316. It does not claim a new whole344-line MINI checkpoint, whole102-object primary, or fresh canonical/raw/native/QA/AV reading. Current admitted class rows govern historical UNADMITTED producer warnings. These normal-owner arguments preserve consequential local outcomes adequately; no new primary replay is necessary. Gift091 was received for Shigure separately and adds no Nodoka appearance. Exact supplemental and original-output bindings are preserved in the immutable supplement receipt."
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          171,
+          170
+        ],
+        "canonical_lines": [
+          195,
+          196
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "The original fourteen IDs and names remain unchanged and OPEN. Supplemental G01/G06 contribution is wanted amenities, distinct receiving tastes, conditional work and rare-gift agency; it proves no universal school taste or completed broad repertoire. G07/G08 retain only MINI-local order and exact Event810:027 identity, not release-to-world dating, one holiday itinerary or repeat-context identity. G09 retains the listed MINI actor drifts, branch responses, reports, tentative eating explanation and actual narrated return gift without silent relabeling. G12 keeps hosts and reported friend unjoined; G13 adds actual installation/removal/confinement and refused release without contract, clinical or technical certification. G02/G03/G04/G05/G10/G11/G14 gain no independent closure, transferred person fact, performed credit or source-mode admission.",
+          ""
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "full_operative_ROOTaccepted_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH_SUPPLEMENTED_CANDIDATE_V1.md",
+      "bytes": 53369,
+      "sha256": "391dfa9481b7509d92f222b5c743b31d893637a306f1ecf9894047ab4d16b9f3",
+      "git_blob_oid_of_actual_bytes": "871240789898db9d4582c9217c4050ed6455fc45",
+      "lines": 187,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH_SUPPLEMENTED_CANDIDATE_V1.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 55650,
+      "sha256": "71d20533bf0ac4b8e489f265b7af3b840daf702f685e1dfeb693c762b197eddb",
+      "git_blob_oid_of_actual_bytes": "11e53544350223fb48b630924ae1fcfa3f82b354",
+      "lines": 197
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "527e7f132424b8a50b032ed0609a01dcafb295a077706b632850579eb9f56bfa",
+        "line_text": "required_home: P3-CHAR-NODOKA"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "218ff1841a4848ce6016a681037d007c0af8db3ecdde924ff95d182694a96585",
+        "line_text": "candidate_responsibility: P3-F125"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "02d6eb0a0b7ef18a5151da395f1b26ec3ee8859e6e498b9bb70518f4f235007a",
+        "line_text": "literal_identity: BA_PERSON_NODOKA"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "63b90195615c36eaea22ff568c28111f9ba27bc791561f239f5bd18fd87d02fa",
+        "line_text": "family: NODOKA"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "d84d476c6e80ccdfed4a2f57377e68af57554e4809b38f8b8a1997734dd3419f",
+        "line_text": "display_subject: Nodoka"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "3e0e3a125fcb6091837ca13922069e66fb155c835d97ef6a5cc2c2e075a6e5dd",
+        "line_text": "variants: [26006, 20010]"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "9fc745fb7be9ad29deb66476a626f5caab378a3d0dc205ded533c0ba6413fb0f",
+        "line_text": "costumes: [1900900101, 1900902201]"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "6093827b8e1029194c47d430e31ea925bf9bd07fce9cd9a12541232f48f31639",
+        "line_text": "dated_navigation_witness: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "58887ab8cdb82c365276c95b5330c5de829d92d0557feb30d866f4fe8818256e",
+        "line_text": "source_boundary: \"Twenty-two selected Nodoka responsibilities, nine BOND with nine whole linked MomoTalk arguments and four written objects; adequate complete accepted public arguments at declared scopes; zero fresh primary/native/raw/QA/AV\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "70cbfb274f76de9261e3db6189cbacb16a9890e44b0509e2b0026ea686d22e03",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own adequate analytical argument receiving; undeclared historical exposure/order/independence UNKNOWN; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "aa5f4d8c4c61244466809ad40fe49a6d61905593b13c1ce5261e24df167df491",
+        "line_text": "# Nodoka: seeing beauty, choosing company and defending a livable home"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "83b44e87a66a9848bad0477fb97188ca26f6fb441b0f932bc546abc54f97c0d3",
+        "line_text": "## 1. Core thesis: attention has different objects and different obligations"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "23f2567ca5323c2d8b42b1ef13695c9c7478b30e9595c1460d75406df4bb4642",
+        "line_text": "Nodoka's sustained question is how an attentive life can be both sincerely pleasurable and troublesome to other people. The telescope, stars, clouds, food, warm water and a familiar building are things she values, not merely symbols of deprivation or substitutes for the adult. Her wish to see Sensei belongs to that repertoire, but the means matter: covert observation, accepted shared watching, a declined invitation and a request to be carried produce different relations. The evidence supports a person who can savor, object, work, improvise, want care and sometimes overreach. It does not support one appetite explaining every act. The strongest literary unity is a persistent wish for worthwhile sights and company within conditions that do not reliably let her choose how to obtain them. [BA:bond:26006:003/006/008; BA:bond:20010:002/003/005/006; BA:group:1302/1303/2801/2802.]"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "d499dc699ebbc6780d8d1fbdd49dea24f9e2739e65a3def98a5bac1f3b1789bd",
+        "line_text": "Attention becomes an ethical question because neither beauty nor affection settles the recipient's terms. In the covert-watching bond, the opportunity for direct contact does not meet her stated preference for secret observation; she refuses it and asks to be ignored. Elsewhere she accepts the adult's work limit, takes her own mountain trip and later wishes he had come. These are adverse and contrary cases within the same character responsibility. They prevent both an innocent-observer interpretation and a person-wide inability to respect refusal. A shared night of meteor watching supplies a third arrangement: her wanted experience really occurs, while an apparently sleeping adult leaves her question unanswered before the two actually continue watching until the display stops. Pleasure and imperfect responsiveness coexist. [BA:bond:26006:003:scene:001:u:0012–0018; 26006:008:u:0012–0018 and whole thread260060280; 26006:006:scene:002:u:0017–0023.]"
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "911ef4a98de2326c11d7cb0283cfce126facc2aa2e61eae3caeecf9ed4ed7205",
+        "line_text": "Material conditions give these wants weight without swallowing their content. Nodoka can defend the cold old building as important to its inhabitants and simultaneously seek heating, bedding, food and a return to the main school. She can value togetherness while disagreeing with Shigure about whether company makes the former life sufficiently enjoyable. She can become a host whose work brings scenery, pride and small luxury while still being overworked and unable to save the resort. Her aspirations therefore ask who gets a livable setting, who must labor to maintain it, and whose account of comfort is allowed to stand. Their ordinary objects remain valuable before a political or crisis consequence appears. [BA:group:1303:u:0033–0036; 2801:scene:002:u:0006–0044; BA:event:808:006/010/011/012.]"
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "0e2683670d0d76148d4b2bd91bf80341554dbfa16f105d5117451c7c0836e03b",
+        "line_text": "This monograph argues for situated attention and differentiated home, with substantial contrary evidence, rather than an operational rule about watching or hospitality. The declared person is BA_PERSON_NODOKA, with base26006 and hot-spring20010/CH0165 as positively routed contexts. Numerical order is no development ladder. The package owns her distinct character argument; the required Nodoka–Shigure directed relationship, Class227 institution/ensemble, Red Winter government, Sensei and written-register analyses retain their independent responsibilities. No monograph endpoint completes those homes."
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "b646fc6c3212061db3e6b85ea693fb905b1c7c655fc6b612eefae5a3b390b8c4",
+        "line_text": "## 2. Longitudinal development: local continuations without a fabricated calendar"
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "61a390222199107fef7b51e57e3c0f8021a197ff6d05f103a9c00a02af5ab268",
+        "line_text": "The clearest development occurs inside explicit small continuations. In base26006E005, a rare meteor opportunity is threatened by clouds. Her better telescope cannot solve that obstruction, according to her practical assessment; the adult proposes a higher roof. Concern about Rin and permission remains different from the narrator's actual permission endpoint. E006 then carries the arrangement forward to the roof and the observed meteors. This is a real transition from threatened access to a shared achieved sight. It neither establishes the astronomical accuracy of her frequency/forecast reports nor proves that every obstacle can be overcome through Sensei. The actual generalized permission procedure and Rin's own reply are unprinted. [BA:bond:26006:005:u:0002–0021; 26006:006:scene:001/002.]"
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "eafcf11b95bb1f617109c2d7a657aea7cb602396d3b333c39555858e02cd69ce",
+        "line_text": "The resulting enoughness is deliberately local. During the meteor passage she says no wish is necessary today because being there with the liked person is enough. That statement does not announce the end of all wants. The same complete pool includes wished school return, food, private company, cloud viewing and a future resort. Her later question about why people attach wishes to a phenomenon unrelated to human lives also complicates a uniform fortune-believer identity: the coin episode has her enthusiastic good-luck reading, whereas the meteor scene questions a conventional practice. One may compare the two attitudes without turning them into a dated secular conversion. Their different occasions are sufficient to sustain ambivalence. [BA:bond:26006:002:u:0008–0011; 26006:006:scene:002:u:0010–0019; BA:character_data:26006:profile_and_dialog, NewYear2237.]"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "9fa06362becd007520626b68cc4790c0d8d70d5c8be16be872ff6aa3436eac87",
+        "line_text": "Hot-spring bonds provide another expressly connected sequence, organized around practice for revival rather than a verified continuing business. E002's snack-based kaiseki practice is followed by a whole message launch acknowledging failure and unfamiliarity with the actual meal. E003's bath-cleaning effort misses the unusable hot-water supply, then ends with a nearby public-bath outing and coffee milk. E005's balance practice produces a fall and carried return; the whole afterword imagines a second injury, which the adult discourages. E006 begins with gradual but incomplete recovery and a weekend transport promise, then reaches a real footbath visit and enjoyed resort night. These are linked local corrections, mistakes and achieved comforts. They do not certify mastery, a reopened 227 resort or clinical recovery. [BA:bond:20010:002/003/005/006; whole BA:momotalk:20010:thread:200100100/200100170/200100270.]"
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "c2bfd9003c5172156ccd381b0ed436de4ceea453e1b204f122419ccdbfeee0de",
+        "line_text": "The public resort story gives a larger finite trajectory. In EVENT808, the cold punishment setting precedes development, operation, burdens, threatened destruction, paid resistance, tank defeat, a briefly achieved permission to reuse and Meg's actual destructive blast. The final remaining bath and wanted company are positive after loss. The narrative does not end in saved buildings, restored livelihood or delivered compensation. This sequence makes Nodoka's practical wish to revive the resort intelligible as a wish, while preserving the gap between an operating-role profile, closure-conditioned written records and private rehearsal. Documentary release dates and costume numbers cannot place every private scene inside this event or on the MAIN calendar. [BA:event:808:001–012; BA:character_data:20010:profile_and_dialog; costume1900902201.]"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "440e5e8b433538301250a7a4f412ed3e21b04d7a80c96cf7152862f0a2a8b541",
+        "line_text": "Public recurrence also resists a progress story. GROUP1303's rebellion is followed by the narrator's one-week return of administration to its original arrangement. GROUP2802's properly targeted appeal attracts attention through an alarming envelope, is misclassified, and is actually burned. EVENT802 supplies Cherino's promise to release the class and Nodoka's reply that this should not have required winning a contest, yet no sustainable delivered relief follows in its closing recurrence. In Final100C002E008, Nodoka directs evacuees toward the old building; that action is a narrow crisis responsibility, not a retrospective verdict that the earlier home, petition or resort problems were solved. Local defiance and local help are real without a completed emancipation arc. [BA:group:1303:u:0049; 2802:u:0055–0071; BA:event:802:005:u:0025–0038/011; BA:main:100:002:008:scene:001:u:0007–0018.]"
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "f8dbe4ab1956f1653f5528b732101422c078daef9c068972603ab51a7f45584c",
+        "line_text": "## 3. Public and private presentation: insistence, embarrassment and ownership of an account"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "93d357c74e9107387d4cd979fcb8059e969a5a91730e530957c37ff5067cea00",
+        "line_text": "Nodoka's public speech is often more resistant than a timid-watcher summary permits. She refuses Marina's proposed costume despite promised pudding and return, protests being treated as a child, and asks for correction of Cherino. Her later defense of the old building breaks the forced performance. In the petition sequence she rejects the claim that invented affectionate scenes describe her life, terminates Mel's commission and looks for a more suitable advocate. In the resort defense she directly refuses a return to deprivation. These are different objections with distinct targets: imposed presentation, discarded home, false representation and threatened livelihood. None depends on the adult being present to supply her judgment. [BA:group:1302:u:0007–0018/0039; 1303:u:0033–0044; 2801:scene:002:u:0006–0044; BA:event:808:010:u:0026–0039/0046–0047, accepted actor qualifications.]"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "784eccbc8d14c255a28ccbf83ae893015aee97c5afee6a508d246b05e9fd78c1",
+        "line_text": "Private contexts add embarrassment, anticipation and selective availability. In 26006E003 she denies the purpose of a location inquiry before her covert observation becomes explicit. The denial cannot erase the act, but neither is it proof that every subsequent address is dishonest. E008 includes a disappointed yet accepted work refusal and an independent departure. At the meteor visit she is embarrassed about being alone at night with the adult; no reciprocal adult declaration supplies a completed romance. In hot-springE006 she qualifies what she can bear: a footbath is enough for now, and a full shared bath would exceed her preparation. Desire is internally limited as well as outwardly obstructed. [BA:bond:26006:003:u:0002–0016; 26006:006:scene:002:u:0006–0008; 26006:008:u:0012–0018; 20010:006:u:0004–0009.]"
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "08bce2fa1a7991d00a49e5363eb1727831890c0c0a5656078335876677ac97af",
+        "line_text": "The written hostess repertoire is similarly mixed. She seeks approval of a kimono she says she made the effort to borrow; borrowing is printed, while lender and return terms are not. She asks for a little indulgence on her birthday, offers the adult leisurely rest on his birthday, and reacts with embarrassment to an unprinted response about services. The latter cannot authenticate a particular adult demand or sexual service. A commercial line says even Sensei cannot receive free goods. These forms present wanting praise, wanting to receive and limiting provision, not unlimited devotion to hospitality. They are contextual written addresses, not one enacted visit or proof each wish was accepted. [BA:character_data:20010:profile_and_dialog, UILobby3111–3117, UserBDay3123–3124, StudentBDay3125–3127; costume1900902201:UIEventShop:line000004.]"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "47eb7ce6f4c147e9f4b3a5cb06c0ffb9287b4dcda00e524f4967677e99702a02",
+        "line_text": "Owning one's account becomes especially visible in GROUP2801. The apparent opening warmth between her and Shigure is later explicitly reclassified as Mel's embellishment; Nodoka says almost all except cold and hunger is invented. That scene cannot be cited as an observed confession or cup of cocoa. It remains meaningful as a representation she refuses, a fiction Shigure enjoys and a craft judgment Mel defends. Nodoka's desire for a factual petition is not an instruction that fiction or ordinary pleasure has lower analytical value. It is a demand that this commissioned text serve its represented subjects and declared audience. The character's insistence is most intelligible when all three responses survive. [BA:group:2801:scene:001:u:0001–0022; scene:002:u:0002–0036.]"
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "490b617747fea7ce92e6d03935b22dd1ae67aad25378f89a5b82b8867adb16a1",
+        "line_text": "## 4. School, Class227 and hospitality: belonging differs from provision"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "e98a1ef19de4e5f73871a32678aa72b355792f1c979114af2f9446604e48bfd6",
+        "line_text": "Class227 is both an imposed marginal setting and a lived home. The profile reports confinement and invasive watching as its reason; this does not substitute for a received disciplinary case. GROUP130 shows punishments and threatened benefits deployed through authority, while the petition reports cold, hunger and inadequate conditions. Yet the old building matters enough that Nodoka rejects its treatment as a rubbish bin. Wanting a main-building return and defending the current building are compatible positions: she wants conditions and recognition to improve without granting administrators the right to call the community worthless. There is no need to choose one statement as the hidden truth behind the other. [BA:character_data:26006:profile_and_dialog; BA:group:1302/1303:u:0033–0036; 2801:scene:002:u:0006–0007.]"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "4a42e93d419c58b6c985dcd5f9ec2fa4c1ce155ceb4890ad3b235c8b04c8fd2f",
+        "line_text": "The institution distributes costs unequally. Marina's accurate disagreement is made risky by the correctness/purge demand, but she knowingly passes pressure downward. Nodoka's pudding, telescope and bodily discomfort become leverage; conditional compliance after a plea to stop is no freely chosen mascot identity. The false costume temporarily satisfies an administrative scheme before Cherino's changed aesthetic preference directs it toward227. The final restored arrangement shows recurrence without making the intervening resistance meaningless. No promised double ration, suspension cancellation, completed lens damage, medal transfer or restitution is printed. Those missing endpoints limit institutional repair claims, not the reality of refusal or taste. [BA:group:1301:u:0033–0057; 1302:u:0022–0057; 1303:u:0024–0049.]"
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "786771459d8f637163da1582048d27c4a6bab94bb7e969a4b09bb615be51de37",
+        "line_text": "The petition adds another form of exclusion: effective prose is not effective reception. Minori actually produces an audience-appropriate appeal; Nodoka recognizes it. The warning envelope succeeds in being noticed, but Tomoe's chain-letter classification governs how Cherino reads the enclosed hardships. The narrator confirms burning. Neither good intention, a correct draft nor attention guarantees delivered relief. Nodoka's fear that an embellished account could extend punishment remains a prediction; the burning of this actual petition is a different established ending. Tomoe's real comfort toward Cherino, including staying during a nap, does not demonstrate comparable care toward227. [BA:group:2802:u:0026–0044/0055–0071.]"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "fc6111d0563c90863d33cbce6cc6842aeb85d276d6663a3157c5ef29970ff89e",
+        "line_text": "Resort work offers a materially different setting whose pleasures deserve direct standing. The operating written frame joins earnings with beautiful scenery and a two-pudding luxury announcement. The profile describes wealth alongside continuing difficult guests and interference; neither statement is an audited balance. EVENT808 shows service, lens attention, garden/rest interest and work without rest, so an improved setting does not mean its host gets to enjoy it equally. Nodoka's defense of the resort as sole hope and livelihood gives pleasure practical urgency. Paid workers, successful correction and reuse permission contribute to a genuine attempted defense, but the subsequent blast still destroys the buildings. Hospitality aspiration is therefore neither an illusion nor proof of an adequate institution. [BA:character_data:event_costume:1900902201:character:20010:UIEventLobby:line000003–0013; BA:event:808:003/006/010/011/012.]"
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "88d1a2fc6a68650ecfb0d881dcd04ed3c143056487443b8c3e31487be17ae534",
+        "line_text": "The bath-inspection MINI sequence tests Class227 belonging against a different institutional offer. Dorm complaints name limited hot-water hours, faulty equipment and deficient privacy; the declared renovation therefore responds to substantive wanted comfort as well as Cherino's wish to prevent more coups. Nodoka asks for release and objects to neglect, but the offer is conditional work with promised forgiveness, medals and office. Restarting the227 resort is explicitly refused. Funded visits and her actual volunteering secure an activity and an opportunity to escape hardship, not pardon, delivered office or an improved home. Shigure's reluctance and qualified acceptance remain distinct. Their reported prior arrest and the local actor drifts are not newly reconstructed events or a warrant to correct every header. [BA:mini:70001010:scene:002:u:0018–0037/0059–0105; adequate MINI32 argument106–112.]"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "59fc8e5e3e9eee2c3db64c852d1faa6c0a41257db067f1d47b59fe567b3e6c4b",
+        "line_text": "Nodoka's choices during the visits distinguish taste from institutional fit. Gehenna permits testing, but her actual reactions to excessive heat and then ice water defeat automatic prestige imitation; the approximate70-degree assertion belongs to its manager and supplies no measured burn. Trinity's welcomed tea, snacks, aromatic water and apparently suitable temperature give actual positive hospitality, while its host's roughly1,000,000yen monthly and10,000yen-per-bag claims prompt her rejection of the economic fit. Shigure's missed-souvenir objection keeps the cost verdict from becoming the pair's unanimous rejection of pleasure. In Hyakkiyako the mistaken encounter produces Nodoka's comrades/revolt interpretation, not a confirmed oppression or official bath review. Manju is represented as offered/received; eating and the formal visit remain unprinted. [BA:mini:70001020:u:0009–0082/0090–0141; adequate MINI32 argument114–118.]"
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "067a78adf7e60ae6a8c6c01c189c204cbe4e839a38bb5c057d10568d90d88ae4",
+        "line_text": "The Millennium choice supplies a serious contrary case to an always-prudent service thesis. Nodoka fears unaffordable AI from rumor, then approves a bargain despite an explicit unfinished-safety-test warning and operating-accident disclaimer. Actual installation and Cherino's test follow: initial washing works, but the device ignores objection and independent washing, restrains her attempt to rise and fails to honor repeated release requests. Tomoe's later enjoyment inference meets Cherino's anger. Final narration actually removes the equipment, returns the227 students to the old building and reports slight interschool damage. Nodoka's wanted amenities and the engineers' ingenuity remain real; the ending is neither completed safe renovation nor a missing outcome awaiting invented repair. Her bargain approval does not authenticate a legal contract, permanent release, refunds, lasting injury or engineering certification. [BA:mini:70001030:scene:001:u:0011–0051; scene:002:u:0007–0038; adequate MINI32 argument120–124.]"
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "54e448bfaa3d766be080c03b518fadb34308ba45c499b41b7d2bdb96ece67c8a",
+        "line_text": "## 5. Ordinary life: specific tastes, skies and receiving care"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "a506c8237749f224e1fdf9cc9e0f5a8e68da08f04cac4b1f39a51565f18ddeda",
+        "line_text": "Nodoka does not simply want more of every pleasant thing. In the coin episode she imagines what 500 yen could buy—bread, a drink or snacks—and interprets the find as luck. The adult's actual most-expensive cake purchase brings thanks but not uncomplicated ease. Her inability to eat half remains without a proven cause; the whole message afterword gives sleepless concern over wasted luxury and refusal of a promised repeat because anticipation would again prevent sleep. The gift's cost is not the recipient's pleasure measure. Her modest imagined purchases and complicated received cake are both positive ordinary evidence, with the latter also testing whether generosity attends to the recipient. [BA:bond:26006:002:u:0010–0022; whole BA:momotalk:26006:thread:260060010, afterword260060120–160.]"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "02f1d17e545b7ebee0af3f2b11765616a006e4475e19eb594fa8d14065f1d1af",
+        "line_text": "Pudding pleasure has its own texture. Against Marina's large bite and discard, Nodoka says she would savor tiny portions and protests waste. Hardship conditions that preference but does not exhaust it. The written resort boast about two puddings after a meal changes her imagined margin of comfort without establishing an actual consumption count or disappearance of poverty. Event802's hoped release and contest response similarly make food and company reasons for cooperation while retaining her objection to the condition attached. Pleasure is not inherently acquiescence; in these scenes it can be imagined reward, exploited attachment, chosen anticipation or a term she challenges. [BA:group:1302:u:0022–0041; BA:character_data:event_costume:1900902201:UIEventLobby:line000007–000008; BA:event:802:005:u:0025–0038.]"
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "01cc4f0c214d3338b1ebb5a0a53d77c4d887f21718a0d3d091ae8b011a2fd6df",
+        "line_text": "Scenery also changes value by occasion. Clouds block meteor viewing in E005 yet are a cherished subject in E008. The latter does not reveal that the former disappointment was mistaken; the activities ask different things of the sky. She chooses a train toward the mountain and regards the heavy telescope as worth carrying for the view. The adult briefly carries it to the platform and actually returns to work after seeing her off. She goes without him; the whole afterword's wish that he had come gives company a particular additional value without invalidating the solo trip or proving a later promise. The blank image path is a text/message witness, not inspected pixels or photographic skill. [BA:bond:26006:005:u:0011–0012; 26006:008:u:0002–0018; whole thread260060280, image referenceMo_Nodoka_01 and final messages480–490.]"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "1270875713f4c2cfa39141b3df48e126339d0ef96817452f040edf06678ecbd9",
+        "line_text": "The meteor visit achieves more than preparation. Tea and suitable clothing are offered; named thanks does not require every cup action to be invented. The actorless special passage presents observed beauty and enoughness, with the owned written parallel supporting context rather than a new runtime actor tag. The ending states the two watch until the meteor display stops. That achieved experience should not be downgraded because her question about wishes remains unanswered or because other invitations fail. A finite satisfying night is analytically different from universal satisfaction, and can be meaningful on its own scale. [BA:bond:26006:006:scene:002:u:0003–0023; BA:character_data:26006:profile_and_dialog:UILobbySpecial2242–2249.]"
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "574432847bc709e1c8be9f53d4963710ecf702e2912e0915405ff029164d820d",
+        "line_text": "Warmth and rest belong to her wanted life as well as to care she provides. Cleaning and carrying practice produce real effort, discomfort and a wished revival, but the later footbath also gives her a chance to receive transport and enjoy water, garden and company. The covered roof prevents stars; she nonetheless tentatively values being with the adult. Her request not to return immediately combines service inspection with plain enjoyment, and the narrator supplies their enjoyed resort night. Neither this comfort nor a claimed disappearance of pain proves a cure. The ordinary achievement is receiving a wanted visit and lingering, while future professional improvement and clinical endpoints remain separate. [BA:bond:20010:006:u:0011–0030; whole thread200100270; BA:character_data:20010:profile_and_dialog:UILobbySpecial3132–3138.]"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "74160733f7ccbf49b457a9a52356e320bec1e76ff29cf0bf6f411db0795bb11a",
+        "line_text": "Written birthday, seasonal and shop contexts retain more unfulfilled or unobserved ends: a twin-star invitation, the main-school return wish, Christmas city lights, Halloween candy, desired tasty NewYear foods, tentative cake in a kaiseki menu and a little birthday indulgence. Shop language offers reciprocity for support and asks for both delicious and practically useful goods while presenting the festival as largely unrelated to the class. These are not all purchases or ceremonies. Their absence of printed fulfillment is exactly the outcome boundary, not a reason to omit the wants from the character's life. [BA:character_data:26006:profile_and_dialog2232–2240; 20010:profile_and_dialog3123–3130; costume1900900101:UIEventShop:line000001–000014 and paired10802 forms.]"
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "881007007e6acb3ef29b3a3f30ec677b85fda02828ef1a48958c09b9fe0320df",
+        "line_text": "## 6. Crisis action and adverse methods: resistance is real, success is finite"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "2caffa8c113226c4e8eac489e28ac8b772073118002776b87bf71b0ed5764e37",
+        "line_text": "Nodoka's costume compliance is materially constrained. Promised benefits first fail to secure it; waste, threatened instrument contact and enacted tickling then press her refusal. Laughter under tickling cannot cancel the plea to stop. Her final rebellion arises when the building she values is treated as a discard site. This is agency after coercion, rather than proof that she was secretly willing all along or that resistance immediately repaired authority. The narrator's return to the old arrangement must survive alongside the act of defiance. The costume's later anonymous Trinity purchase is qualified byらしい and does not authenticate Hifumi or make Nodoka a Peroro person. [BA:group:1302:u:0025–0057; 1303:u:0033–0050.]"
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "5c2a323a5d5fcac04d8b927e8d002d322a24c4fd2c9901f925b7a0a4f5d16df7",
+        "line_text": "EVENT808 gives resistance with a more explicit material object. Nodoka refuses the destruction of livelihood and return to deprivation, while the received Japanese upfront-payment account and Minori's workplace rationale establish a local paid coalition. That support is not guaranteed protection: the workers are defeated. Tomoe and the adult help obtain an actual deferred demolition/reuse decision, which is meaningful before Meg rejects it and blasts the foundation. A failure-only account would erase the successful correction; a repair account would erase the blast. Nodoka's subsequent relief at survival, wished beautiful things, final bath and renewed invitation remain affirmation after a real loss, without replacing the absent housing, water, compensation and restored work. [BA:event:808:010:u:0026–0061; 011:u:0001–0066; 012:u:0003–0068.]"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "3e36ab328631b88eb0531c713a1f30c6868047f16ade814ae8d58ea7ce42769e",
+        "line_text": "Scarcity also motivates methods that other recipients refuse. In EVENT829 she wants heating, bedding and freedom from insects and hungry bears; Shigure's proposed stove bargain joins those serious needs to a plan to appropriate Mel's book for Cherino. Mel and Momiji refuse. Their defense of their own project is not made irrelevant by 227's hardship, and Nodoka's need is not made trivial by their refusal. The encounter prints no new stove, release or full physical battle. This comparison shows why being an exploited subject elsewhere does not grant entitlement over another person's creative labor. It is a scene-specific adverse practice, not a claim that every Nodoka request is exploitative. [BA:event:829:011:u:0010–0035; 012:u:0002–0016.]"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "bf6bdf2599b48e47d7ba0c367e3cb22aa1b279b05d26fbecdad409443500bda5",
+        "line_text": "Final100C002E008 supplies a different contribution: she directs evacuees toward the old school and participates in the search conversation about absent Cherino. The destination exists as an offered shelter, while dialogue notes its ruined state and the closed hoped-for hot spring. No warrant establishes that everyone arrived, that its conditions were adequate, or that Nodoka inspected Cherino's actual whereabouts; her no-arrival statement is explicitly uncertain. The known self-answer/actor seams restrict fine voice claims. This action is useful locally without turning every old-building attachment into crisis preparedness or every community member into a trained emergency manager. [BA:main:100:002:008:scene:001:u:0007–0018, especially uncertainu0016.]"
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "2aea2cd730673e97c046921d67ebb3890081962fa44ee11280f8e92a1c9278b1",
+        "line_text": "## 7. Sensei: wanted attention, effective support and recipient-specific limits"
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "c5fc37eb96ea3432594e4cb2793a2c9783f08f212adbd81dde47e3e17e22d2ad",
+        "line_text": "The covert-watching scene refuses an easy mutual-intimacy reading. Nodoka treats secret telescope observation as specially desirable, declines an available direct-contact offer and asks that the watching be overlooked. Sensei's narrated contact with the Secretariat leads to stricter monitoring and extended confinement. These are actual supplied consequences, with no hearing, duration or legal finding printed. The scene demonstrates a particular boundary problem and sanction; it does not diagnose her or prove all punishment proportionate. The profile's account of stalking-related confinement remains a separate editorial source, without dating every disciplinary episode from it. [BA:bond:26006:003:u:0009–0018; BA:character_data:26006:profile_and_dialog.]"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "b6f430b9fc8976e3fbf85b8f4c512933e44ad6868ad2218c4fe61054a4a68bdb",
+        "line_text": "Other scenes establish more reciprocal arrangements without reversing this one. For the meteor visit the adult proposes access, obtains permission and shares the final watch; the offer helps realize a particular desire. For cloud viewing he cannot leave work, and Nodoka accepts the limit despite disappointment. His actual help is brief equipment carrying and a send-off, not a completed mountain visit. Her final message wishing he had come, followed by a request to ignore it, makes an unmet want visible without overriding his refusal. These cases allow care and independence to stand alongside longing. They cannot authenticate universal compatibility or an enacted calendar of steadily increasing intimacy. [BA:bond:26006:005/006/008; whole thread260060280.]"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "398965c73cc89b045042cf5f92954a0358f27207818c6fe37472d51b008da450",
+        "line_text": "Care can also misfit the recipient. The expensive cake exceeds her imagined small purchase, and a repeat promise is refused in the full afterword. In hot-spring practice she attempts hospitality that does not match the adult's food expectation; silence is her interpreted astonishment, not confirmed approval. The adult actually takes her to town kaiseki, while the narrative's subsequent appetite-loss description remains qualified, not a quantified medical harm finding. Each party's response matters. The episode cannot be resolved by treating the adult's money as successful care or Nodoka's work as successful service by definition. [BA:bond:26006:002:u:0010–0022 and whole thread260060010; 20010:002:u:0023–0052.]"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "09f684853d0296b8604d3d5e8b85410bf3af0eb2f1ee9476586a762f6383a398",
+        "line_text": "In the bath practice she claims detailed knowledge of the adult's preference, but he tries to interrupt; alternative wording either asks her to listen or points to unavailable hot water. Those are branches, not two sequential interventions. She acknowledges the cold water after real cleaning effort. Her imagined peeping/watch-over and remaining-bathwater desires do not become acts because the setup fails. The actual nearby public-bath visit and coffee milk are finite care for disappointment, without proof of a shared single bath, permission to peep or fully repaired mood. Here attentiveness to an imagined adult routine has prevented noticing an immediate practical condition and his attempted correction. [BA:bond:20010:003:u:0011–0029, choice alternatives retained.]"
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "7f2223a8fd747b0b8ee916d2d988ff3978c171c056e56a4386d646873401badb",
+        "line_text": "The fall sequence differentiates support, pleasure and risk. The adult helps before and after the accident; Nodoka's later warmth and luxury language does not prove that the first fall was intentional. Her afterword's speculation about the other foot invites a clear prohibition on deliberate injury, and no second act is performed. The later footbath outing fulfills a transport/visit arrangement and her wish to stay, not the stronger fantasy of injury as an acceptable route to attention. Her tentative ankle wording, subjective comfort and Japanese/Korean pain difference prevent a cure or approved self-harm mechanism. Particular boundary-setting can coexist with effective wanted company. [BA:bond:20010:005:u:0013–0037 and whole thread200100170; 20010:006:u:0001–0030 and whole thread200100270.]"
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "6185f1f8ac9b45fd0278e5dd45ed6172f681f510d7185fd24fdbac57f70817b1",
+        "line_text": "Her Valentine gift makes initiative under scarcity unusually precise. Nodoka has obtained rare cacao through a reported catering friend but lacks the knowledge to turn it into her desired chocolate. This is an unmade plan, not an established failed processing attempt. The adult actually bites the cacao; her worried warming proposal and the response valuing her feeling retain both care and recognition, without establishing food safety. Her Japanese liking phrase trails off, where Korean names the liked Sensei more directly. Neither warrants mutual romance. The next-year butter-and-sugar plan is determined future intent, and the adult's buying alternative stays an alternative response, not a completed purchase by her. [BA:event:810:027:scene:001:u:0002–0016, four formal groups; whole adequate individual argument35–43/64–68.]"
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "6df6d468d64a0a6d298c2aacbfdf4e1a7f4bf055b63a16e5351557555615916d",
+        "line_text": "The return gift then supplies an actual adult action: attractive, relatively luxurious chocolate offered as a flavor reference. The final apparent inability to eat even half is not full consumption or an identified physical or psychological mechanism; expense/burden remains only a tentative explanation. Korean emphasizes a large premium gift, so the two language emphases stay separate. The scene thus adds a materially acquired present, desired making, worried reception and a returned taste example, while qualifying any story that money or acceptance automatically completes care. Its ordinary importance is intrinsic despite the absent next-year confection. [BA:event:810:027:scene:001:u:0017–0018; whole adequate individual argument45/68–70; current Event810 comparison296.]"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "29868f84e8555bcb56a74b061755486f876ec4c1459fd3d213f40662e717a92f",
+        "line_text": "## 8. Peers and recipients: different goods, independent refusals"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "7d143365f1dfdba2580c016d0c35310e57deb342c0612d5749cce523d3332ef1",
+        "line_text": "Shigure is a companion with her own appraisals. GROUP2801 gives her real enjoyment of Mel's fiction while Nodoka rejects its representation and purpose. Neither response establishes the embedded affectionate scene as observed history. EVENT808's aftermath gives Shigure's account that togetherness made their former life enjoyable, whereas Nodoka has defended materially improved livelihood and resisted return. Her comfort does not erase those needs; Nodoka's need does not erase the companionship she describes. Their ongoing shared work and Final search conversation support meaningful common life, while the directed relationship's full question remains separately allocated. A monograph should preserve disagreement rather than install one speaker as the pair's final authority. [BA:group:2801:scene:002:u:0011–0036; BA:event:808:011:u:0031–0038; BA:main:100:002:008:scene:001:u:0014–0018.]"
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "1a5ca13f4d874a46aff8fa82c0756f76ea777d46f123765451f401517e1f8ea2",
+        "line_text": "Mel's fictional craft and Minori's practical prose are differently received. Nodoka can refuse the former for an advocacy task while Shigure enjoys it; she can accept the latter because it addresses the conditions and audience. The final burning does not retrospectively make Minori's written aid insincere or badly targeted. EVENT829 then reverses the recipient position: Mel and Momiji decline 227's effort to turn their project into a route to warmth. They have their own wanted work, property and institutional boundaries. These scenes form a strong comparison about representation and purpose precisely because no single helper or petitioner is always right. [BA:group:2801:scene:002; 2802:u:0026–0044/0068–0071; BA:event:829:011/012.]"
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "53c51edd08f6cf3e2f56c744b0b37ba9a8dacd0b5417f2fbdc40d4dadd73bd87",
+        "line_text": "Marina, Tomoe and Cherino likewise remain distinct actors. Marina's threatened career and ambition explain the route to fabrication but do not excuse waste and tickling; Tomoe's local lateness correction counters unwavering-silence claims, while petition burning remains her actual act. Cherino changes aesthetic judgment, threatens exclusion, promises release and elsewhere accepts a bounded reuse correction; none is an entire political history or durable reform. Nodoka's protests meet these particular practices rather than an undifferentiated school essence. Missing structured person joins for Marina or the costume role should be retained alongside actual local textual identity, not used to erase their acts. [BA:group:1301–1303/2802; BA:event:802:005/011; 808:011.]"
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "0a1e13a217f15e60676b402cceecd79de02c1cb7c0ee206322d27babc3886ada",
+        "line_text": "Resort guests also have independent wanted quiet, drink, rest and artistic judgment. EVENT808 gives real tea, snow, garden, craft and bath enjoyment; these values are not invalidated by intrusive drawing and Nodoka's jealous or pretextual protection. The hidden adult and portrait exchange must preserve the guest's wished quiet bath. The adult's drink refusal is respected at a specific endpoint, while Chinatsu's massage refusal and departure prevent invented contact or recovery. Meg's development enjoyment becomes destructive work whose cost defeats the host's achieved compromise. These recipient cases make a universal hospitality-success reading untenable while retaining the setting's real pleasures. [BA:event:808:003–008/011/012.]"
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "5f9cc50d93a9133af533cc39eb0511485fa26ff87bff93114b74c527ef118e8c",
+        "line_text": "The anonymous manager of the private footbath scene supplies a claim about natural water and sprain/skin benefit, not authenticated expertise or a global manager identity. Likewise the mentioned Rin and written festival “we” do not automatically gain attendance, assent or actions. EVENT839 supplies an adequate complete regional exchange comparison, but its received argument does not establish a Nodoka action; school shared context alone gives her no appearance credit. Independent agency includes preserving those who are not actually present as well as those whose refusals are printed. [BA:bond:20010:006:u:0001–0003; 26006:005:u:0017–0018; costume1900900101; complete EVENT839 argument, background scope only.]"
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "67c3b2a5be372814f00b9ff217744dae173d7dabaef72afb10ea887f25bf902b",
+        "line_text": "## 9. Written register and attribution: private preference is not performed delivery"
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "aa068d38bc905b5d10b3c1d23c429d7d2db3f586ca49cb5f18ed4c46a03d5b9c",
+        "line_text": "Nodoka's written repertoire moves among polite hosting, enthusiasm, stammered temptation, direct protest and tentative wishes. The imposed ペロ suffix belongs to coerced costume performance; it is not her ordinary identity or spontaneous fandom. Her questions about wishes and transient lives belong to particular named or contextual lines, not a uniform cosmic doctrine. Base UILobby offers selective watching and face attention; the hot-spring repertoire includes business opening, borrowed-dress praise, receiving care and food combinations. These contrasts sustain characterization even without heard voice, animation or image inspection. Profile/designer/voice metadata are documentary, not evidence of acoustic delivery or visual fit. [BA:group:1302/1303; BA:bond:26006:006; BA:character_data:26006/20010:profile_and_dialog.]"
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "29d30ed1d12298e13db332882ab965eb82ce855fd36f0315ac9405f495cac192",
+        "line_text": "Actorless memorial passages must stay actorless at their runtime source boundary. Their owned written parallels give strong contextual comparison for meteor enoughness and footbath comfort, but do not turn #st into a source-side Nodoka actor tag or establish two separate occasions. The written hot-spring statement feeling as if pain disappeared is subjective. At the named episode ending Japanese says pain vanished while Korean qualifies incomplete healing and reduced pain; neither should silently overwrite the other or yield measured efficacy. E003's “a little earlier” in Japanese must not inherit the Korean thirty-minute precision. Locale differences restrict exactly the duration, actor and outcome claims they affect. [BA:bond:26006:006:scene:002:u:0010–0016; 20010:006:u:0011–0017/0025; 20010:003; UILobbySpecial2242–2249/3132–3138.]"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "196a4d1485b6a211ef8b948be58ca0aa23edd82c2ef979b6f1bfecc2e38ad670",
+        "line_text": "The current written source scopes are not uniform performances or transactions. Base 26006 contains 35 records but 34 displayed canonical lines because UITitle2215 is textless despite a voice reference; the blank remains a real source fact. Hot 20010 has 35 nonblank normal records and two Cafe Think forms that should not be turned into addressed speech. Costume 1900900101 has 28 forms across 802/10802 with changed controls despite paired text; costume 1900902201 has 52=22+22+8 across 808/10808/900808, with the last stream lacking shop/day/close forms. A Buy trigger cannot prove payment or transfer, and unlock/date fields cannot measure lived intimacy or locate bonds on the main calendar. These four objects retain 150 written records as inherited producer scope, not 150 new source units or fresh primary readings. [BA:character_data:26006/20010:profile_and_dialog; the two exact costume objects.]"
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "1c59b0f1927ca6f362ae5d2b0a5b795c002e3a8b5ea3d70d15391e0a9c3c6830",
+        "line_text": "Public actor seams require equal care. GROUP130 preserves ten display/text seams, a local costume reveal and an anonymous interruption; clean adjacent lines sustain refusal without confidently rewriting every label. GROUP280 preserves embedded fiction, quoted documents, unknown interruption and three seams. EVENT808's actor qualification secures Nodoka's defiant text despite Cherino display in E010, while other seams remain literal. FinalE008's self-answer and possible passing speaker do not establish fine voice. Alternatives in Sensei dialogue, narration, inward wording, reports and written UI address each support different claims. The argument can be precise without a wholesale raw replay or invented performed certainty. [BA:group:1301–1303/2801–2802 accepted attribution tables; BA:event:808 qualified current13 comparison; BA:main:100:002:008.]"
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "01421b45ab9f24ace3bdfd535c7eee833655f60d0f421a02aa37be14ac226d00",
+        "line_text": "## 10. Competing readings: the endings require a plural account"
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "32f2594ac52d254d0ce6c7c38e54f7af73b5f314e5fc61475cc5373c66c96d13",
+        "line_text": "**The invasive watcher reading has real force.** The profile reports stalking-related confinement, and 26006E003 depicts covert observation, access blaming and refusal of direct contact. Secretly seeing is a distinct wanted means, not simply a shy route to the same open meeting. Actual extended confinement makes this more than harmless written teasing. Yet the reading cannot absorb astronomy, clouds, food, school return, independent advocacy or an accepted work limit. It explains one consequential practice strongly, while a total invasive essence would discard contrary occasions and intrinsic wants. [BA:bond:26006:003/008; written26006; GROUP280.]"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "3d1212d9eee8cab41d3d77b69473d8f495525d80176d07e6f0bba41e296d1110",
+        "line_text": "**The deprived subject reading illuminates vulnerability but fails as a total motive.** Cold, hunger, limited sweets, threatened instrument and burned appeal establish real material and institutional problems. Resort defense is intelligible through wanted warmth and livelihood. But small pleasures have specific value, and group defiance shows pride not wholly purchased by benefits. Covert adult observation cannot be excused merely by hardship; nor can the attempt to appropriate another book. Deprivation explains constraints and leverage while preserving obligations to other recipients. [BA:group:1302/1303/2801/2802; BA:event:808:010/829:011–012.]"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "257dd0829c874d93b9bae47f2947d0c0644a1ac6d3eea51f20f12579f4368174",
+        "line_text": "**The earnest host reading is supported by real work and aspiration.** Nodoka saves money for practice, cleans, manages, wants scenery and earnings, defends the resort and persists after closure. Her hospitality is not merely an elaborate surveillance pretext. At the same time snack kaiseki, missed cold water, overwork, jealousy/privacy and loss contradict completed competence and harmless service. The actual town meal, public bath, carried return and final bath discriminate between effort, intended service, received care and finite achievement. None justifies a certified business or safety claim. [BA:bond:20010:002/003/005/006; BA:event:808:004–006/011–012.]"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "5119fda227fbb6b956fb858356f140cb1d9c8fa0803eed1c12384c4ed365e559",
+        "line_text": "**The affection-and-enoughness reading explains genuine satisfying company.** The meteor ending, warmth language and enjoyed footbath/resort night are affirmative. A refusal of an excessive repeat cake gift or acceptance of a work limit shows she can want a relationship on terms other than maximal giving. But enoughness today does not establish reciprocal romance, limitless adult availability or cured boundary trouble. The later wish after a solo cloud trip and public disagreement with Shigure retain unmet and differently valued company. The affectionate reading is strongest when it does not demand a final uniform preference. [BA:bond:26006:002/006/008; 20010:006; BA:event:808:011.]"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "5cedb3b4439d69c6c0a6f0300e511e6a0ee78fe010d10493972c7ed51b61d92b",
+        "line_text": "**The company-as-home reading captures an important peer claim but requires disagreement.** Shigure's postloss words affirm what togetherness gave their former life; GROUP130's old-building defense affirms attachment. Neither makes cold and hunger acceptable to Nodoka, whose petition and resort refusal explicitly seek material change. The opening GROUP280 fiction cannot add evidence of observed intimacy to decide the dispute. Home is a site of memory, valued people, adequate provision and wanted opportunity whose dimensions need not coincide. Preserving that plurality is more accurate than selecting either restored camaraderie or prosperity as the single endpoint. [BA:group:1303:u:0033–0036/2801/2802; BA:event:808:010–012.]"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "de78eb2b7813ffd9323af3358a7adeac791dcd5771f704684f72fcffe8196cae",
+        "line_text": "**The comedy reading helps explain incongruous devices, but cannot void outcomes.** Costumes, snack menus, towering cushions and pudding rhetoric support comic framing. Yet conditional compliance, actual confinement extension, pain, burned advocacy, defeated defense and destroyed buildings remain supplied events. The same framing carries sincere meteor watching, aesthetic delight and wanted rest. Reading every pleasure as a setup for a gag or every coercive act as consequence-free would flatten both sides. Serious synthesis can retain comic construction without importing legal diagnoses or pretending there is no harm. [BA:group:1302/2802; BA:bond:26006:003/006; 20010:002/005; BA:event:808:011/012.]"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "f5dd1611bc0fd1c85d6a83e874ace35a727bdb9f14fcf74871482b6ccf49f281",
+        "line_text": "The bounded conclusion is a repertoire with recurring questions rather than a solved personality. Nodoka's vision selects things worth experiencing; her home and work ambitions seek conditions in which such experiences can last. Some methods disregard recipients, some refusals protect her own account, some company is actually achieved, and some institutional outcomes fail. The adult and peers help, object, impose, comfort or destroy in different scenes. The finite endings support those distinctions; they do not supply a universal rule, permanent moral reform or a reconstructed hidden chronology."
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "d44fe00250fc9c0bb141269c743d129a8bb4cc5d825abdfe94a341b03d02605c",
+        "line_text": "The inspection sequence also tests the prudent-host and oppression-only readings against each other. Nodoka names genuine comfort and cost problems, yet her own attractive-bargain decision participates in a warned unsafe installation. The institution's final return sanction is actual, although no adjudicated individual fault or proportionate process is printed. A serious account must retain that choice, the restrained user's refusal and the unfavorable aftermath beside her skilled earlier protests. The gift similarly opposes an absence-of-agency reading through difficult acquisition while refusing to count unmade chocolate as completed craft. These contrasts narrow person-wide virtue or fault without making either the amenities or the gift less valuable. [BA:mini:70001010/01020/01030; BA:event:810:027.]"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "bb2d990f8abae978759cc0ee523346e6ae0982adc914e0a6291890d7e41dd4d0",
+        "line_text": "## 11. Source boundary, original open gaps and completion disposition"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "73b9b47b36f4ffd9542ae05e074aea489a9df437109f688bc55c3fe1c90b620f",
+        "line_text": "The selected private responsibility is exactly 22 objects: nine BOND—26006E002/E003/E005/E006/E008 and 20010E002/E003/E005/E006—with nine whole linked MomoTalk threads 260060010/120/160/220/280 and 200100010/100/170/270; four written objects 26006, 20010 and costumes1900900101→26006/1900902201→20010. Adequate complete individual arguments, the maintained 22 checkpoint and complete 121-object Red Winter comparison were personally received. Whole message endings and actorless/written parallels are included in that analytical custody. The number is inherited selected responsibility metadata, not new canonical/raw/native/QA/AV inspection, a source admission or a model grade."
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "b22ba5830c8d0a62f28a63cccf8614537d23f21da6abd778092039413aac8978",
+        "line_text": "Personally complete adequate public arguments comprise GROUP1301–1303, GROUP2801–2802, EVENT802's 11 selected meanings, EVENT808's 12 selected meanings, EVENT829's 15 selected meanings and specific Final100C002E008. EVENT839's 15 complete meanings are background institutional comparison, with no positive Nodoka action inferred. ROOT's complete ten-character eligibility argument is allocation/context reuse, not mature monograph credit. Existing source ownership and main2e/c1 remain separate from dated732 navigation and any later mutable ROOT state. Current Cycle008 supersedes historical producer UNADMITTED/veto/213/516 words for the admitted selected scope while leaving their authorship, exposure and source-credit history attributed. Adequate argument receiving creates no fresh primary, performed or FIRST/SECOND claim."
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "d42affb1054bb8c41a00c40c1511629ddd13097499cabd58f8fad8ed694ca5d4",
+        "line_text": "The independently received supplemental scope adds the complete relevant MINI32 analytical section106–124 for BA:mini:70001010/01020/01030, the complete70-line adequate gift027 individual argument, and current Event810 adoption/qualification section244–316. It does not claim a new whole344-line MINI checkpoint, whole102-object primary, or fresh canonical/raw/native/QA/AV reading. Current admitted class rows govern historical UNADMITTED producer warnings. These normal-owner arguments preserve consequential local outcomes adequately; no new primary replay is necessary. Gift091 was received for Shigure separately and adds no Nodoka appearance. Exact supplemental and original-output bindings are preserved in the immutable supplement receipt."
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "f30adda5d49e0f6e65d29f43868b972fa7286cde05f2dab8336f8c2e31fe393a",
+        "line_text": "| Original stable gap | Nodoka contribution and remaining warrant; status OPEN |"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "c87b869cc5014788cc3efb801a6959aade810fc8e6c36e851592e7f74f100b43",
+        "line_text": "| G01 Ordinary and private breadth | OPEN. Full selected 22 argument plus public comparisons establish food, sky, clothing, rest, work, refused/accepted company and wanted futures. They do not complete every future or unselected ordinary setting. |"
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "e61f6b54cbbc4044544ef85219f6e2ad877c46d980ad4a975cb890058073643e",
+        "line_text": "| G02 Yuuka council/club decision transfer | OPEN. Nodoka's service and institution comparison supplies no Yuuka council/club transfer finding; that subject's own directed evidence and decisions remain required. |"
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "756bcbd9bde50fa688548e71d1e8fc5f9697b0aed3dcc0cce3a42d59545b8259",
+        "line_text": "| G03 Serika service, peer and reciprocity range | OPEN. Recipient-sensitive cake/hospitality and peer refusals allow bounded comparison only; no Serika scene, generalized service rule or complete reciprocity range follows. |"
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "bda7378485659d810ff4ceb7730f923f88587320931f73c11502ebe3ac8114cd",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | OPEN. Red Winter defense/loss and ordinary hosting do not supply Hina's causal or accountability record; Gehenna guests are not Hina appearance evidence. |"
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "f94a3dfcd798b6bfea3089f6365835b84768e38b465615ff321590d94c1c6304",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | OPEN. This Red Winter life neither discharges Arius/PS68 ordinary and aftermath duties nor licenses transfer from analogous hardship or company. |"
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "8ca7ffa638923fb5608aef4b87d50c862123d9985d0703850b52f796fc1ca4af",
+        "line_text": "| G06 Cross-school ordinary repertoire | OPEN. Actual guest tastes, quiet bath and other recipients are preserved beside Nodoka's own wants. No school-wide appetite, unanimous hospitality response or complete interschool repertoire is inferred. |"
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "82020bfee4f071cf8673bf4836d638cbacaa356dd7441d6402fe41104b260892",
+        "line_text": "| G07 Story-world chronology | OPEN. Explicit meteor/practice links, petition's one-week reception and event-local sequences are secure; documentary releases, variants and UI conditions do not date the whole private/public/Main world. |"
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "cf99b3a3358926169154216eb16194e0ee89e4ead2247f07a9f59c3c5b8a9e3b",
+        "line_text": "| G08 Event naming and repeat contexts | OPEN. Exact 802/808/829/839 objects and costume streams remain distinct. Repeated written text with changed day/visibility/CV controls is not a new plotted occasion or completion of a missing stream. |"
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "ec4d4ed42f835ad3760276e011e1e3ccae5198e2397faebed94436d31f2109aa",
+        "line_text": "| G09 Written speaker/choice attribution | OPEN. Whole MM, alternatives, actorless parallels, fiction/quoted-document layers, ten GROUP130 and three GROUP280 seams plus qualified event/Final actors remain exact. No silent runtime repair or every branch enacted. |"
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "6f5c53db1d5f16da24c45f78ad329a52d92db0873a57a70b711afc18f5e51beb",
+        "line_text": "| G10 Performed voice | OPEN. All evidence here is written analytical receiving; no audio, image, animation, video, pitch, acting or audible delivery inspection is credited. |"
+      },
+      {
+        "frozen_line": 180,
+        "canonical_line": 190,
+        "line_sha256": "e33fd67769abc992cb4c49ec5f8b18038eda98feeebf906301a0f9173f9a6022",
+        "line_text": "| G11 Hoshino's Yume record and office states | OPEN. Attachment and lost home permit no new Hoshino/Yume fact, office-state edge or transferred causal finding. That independent source duty remains. |"
+      },
+      {
+        "frozen_line": 181,
+        "canonical_line": 191,
+        "line_sha256": "fe012787789d0242ad311836bbbef784fac2f61998953e02b8a1020427dc55da",
+        "line_text": "| G12 Counterpart, system and variant identity | OPEN. BA_PERSON_NODOKA, variants 26006/20010 and exact costumes are positively routed, without a chronological ladder; local manager, unknown interruption, costume reveal, missing peer joins and stated actors keep their own limits. |"
+      },
+      {
+        "frozen_line": 182,
+        "canonical_line": 192,
+        "line_sha256": "db3418625059a85ef824a527e00de6b75fa0f657a376258fabdf0815ce64a5cf",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | OPEN. Actual sanction, burned petition, defense defeat/blast, warmth and enjoyed visits remain distinct from lawful process, business accounting/revival, compensation, safe operations, cure, optics or geology certification. |"
+      },
+      {
+        "frozen_line": 183,
+        "canonical_line": 193,
+        "line_sha256": "26605c3e047505a0e09630ee6e5e019f203567f6be5ea8a48310ce2005fd0074",
+        "line_text": "| G14 Unclassified/mode continuity | OPEN. Admitted BOND/whole MM/written/GROUP/EVENT/MAIN scopes do not admit unclassified material or authenticate continuity through source-mode similarity. No UNBOUND or preserved_phase2_work body is opened or hashed. |"
+      },
+      {
+        "frozen_line": 184,
+        "canonical_line": 194,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 185,
+        "canonical_line": 195,
+        "line_sha256": "633cdcde25554206009e89afc45d72d2f693269ae388dc62316a2d5887202afa",
+        "line_text": "The original fourteen IDs and names remain unchanged and OPEN. Supplemental G01/G06 contribution is wanted amenities, distinct receiving tastes, conditional work and rare-gift agency; it proves no universal school taste or completed broad repertoire. G07/G08 retain only MINI-local order and exact Event810:027 identity, not release-to-world dating, one holiday itinerary or repeat-context identity. G09 retains the listed MINI actor drifts, branch responses, reports, tentative eating explanation and actual narrated return gift without silent relabeling. G12 keeps hosts and reported friend unjoined; G13 adds actual installation/removal/confinement and refused release without contract, clinical or technical certification. G02/G03/G04/G05/G10/G11/G14 gain no independent closure, transferred person fact, performed credit or source-mode admission."
+      },
+      {
+        "frozen_line": 186,
+        "canonical_line": 196,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 187,
+        "canonical_line": 197,
+        "line_sha256": "b742d6c6f18c017e79042169dd9ab93884b879f951cdc7f16c8081f717405f62",
+        "line_text": "No mandatory primary replay is required for the actual bounded assertions, whose adequate accepted arguments retain the consequential distinctions. Stronger claims would require new warrant for exact global dates, disciplinary process and proportionality, reciprocal romance, all-guest consent, completed support/return/compensation, operational revival, verified sky/optical or geological statements, clinical cure, manager identity, viewed photography or performed delivery. Those claims are unasserted. The immediate saved prose is a complete eleven-dimensional literary candidate within these limits, pending independent ROOT whole receiving, exact verification and canonical adoption. All separate required relationship, ensemble, institution, Sensei, register and full-cast convergence responsibilities remain mandatory. No self-acceptance, denominator addition, milestone, publication or merge follows from this file."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_NODOKA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_NODOKA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_NODOKA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,25 distinct parent packages,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "original_transports": [
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 46415,
+      "sha256": "69e1307fb4f2176aa95777c4bc1975c7fa2662da91560787beac930225c5d1dc",
+      "git_blob_oid_of_actual_bytes": "f3a3e7bde40a262ebedac21e8c2653d658db3ca7",
+      "lines": 171,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH_SUPPLEMENTED_CANDIDATE_V1.md",
+      "bytes": 53369,
+      "sha256": "391dfa9481b7509d92f222b5c743b31d893637a306f1ecf9894047ab4d16b9f3",
+      "git_blob_oid_of_actual_bytes": "871240789898db9d4582c9217c4050ed6455fc45",
+      "lines": 187,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH_SUPPLEMENTED_CANDIDATE_V1.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 128760,
+      "sha256": "d1b6589db2fd8e3089d19989086aad8ad4e234284ae0f1f87678d59824ffffc2",
+      "git_blob_oid_of_actual_bytes": "60c956a82a09a2cef72bdd533d25a8b291b9bed0",
+      "lines": 2599,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_FROZEN_OUTPUT_MANIFEST.json",
+      "bytes": 2926,
+      "sha256": "fc3b41bb567ed2e1d58a16b9165ad0995d28f727b50e483bef70639df29839b8",
+      "git_blob_oid_of_actual_bytes": "5173fd9f733643d0f649c0a69357a073ef4c8379",
+      "lines": 52,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_FROZEN_OUTPUT_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_NODOKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6257,
+      "sha256": "0e8dc36e9a64da22626fd035cb8f205db73207b57f30b5f0bca1ecd3d2d2dabc",
+      "git_blob_oid_of_actual_bytes": "0e843e504f88d709978b04bd6382b4e8f845f181",
+      "lines": 97,
+      "immutable_transport_path": "immutable_originals/ROOT_NODOKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 7509,
+      "sha256": "419babe034ed9ba5602809e6d86fd0bd0779f1d622e6e13e283e3f922e73a9d1",
+      "git_blob_oid_of_actual_bytes": "f3134f52f8d587515045455c57df5c3789f6814a",
+      "lines": 39,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 6552,
+      "sha256": "5097ffe45ddffe108cf98e8bc81197f7c9652ac64db29b4a3b28a4d6602a2721",
+      "git_blob_oid_of_actual_bytes": "9845158669aca37c4443797db4486e5b1d767da4",
+      "lines": 117,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_CURRENT_WORKTREE_METADATA_PROBE.json"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/NODOKA_MINI_GIFT_IMMUTABLE_SUPPLEMENT_V1.md",
+      "bytes": 7599,
+      "sha256": "b2881b170c9c86f9a3cd57a0107845e059625fcfea1c1d04b1b822cb90ff5316",
+      "git_blob_oid_of_actual_bytes": "4e83245b9968bd574696ebc33aa042eb5b3a7b28",
+      "lines": 30,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/NODOKA_MINI_GIFT_IMMUTABLE_SUPPLEMENT_V1.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/NODOKA_MINI_GIFT_SUPPLEMENT_RECEIPT_V1.json",
+      "bytes": 26772,
+      "sha256": "c319551732dcedfaf92866083c408818155a705d48a4cbbef981cf3cd84b782c",
+      "git_blob_oid_of_actual_bytes": "3fb200b2ff424bcefc76f878ef2f167cda5a5050",
+      "lines": 255,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/NODOKA_MINI_GIFT_SUPPLEMENT_RECEIPT_V1.json"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/NODOKA_MINI_GIFT_SUPPLEMENT_FROZEN_MANIFEST_V1.json",
+      "bytes": 2354,
+      "sha256": "911faa12656a21b09066460ff94c814b45581c16a73c3dea8a068e6cddc96a38",
+      "git_blob_oid_of_actual_bytes": "151e19aeab386ddbd00ba9bf7823e2515301716c",
+      "lines": 37,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/NODOKA_MINI_GIFT_SUPPLEMENT_FROZEN_MANIFEST_V1.json"
+    }
+  ],
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": [],
+  "new_primary_performance_independent_model_scope_or_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

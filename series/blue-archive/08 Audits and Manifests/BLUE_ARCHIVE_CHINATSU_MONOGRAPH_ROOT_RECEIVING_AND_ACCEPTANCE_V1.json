@@ -1,0 +1,134 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Chinatsu",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHINATSU_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_CHINATSU_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 6004,
+    "sha256": "b336c3aad59dc11cda61b6b2002b0b77efa2ca356cfa09694750d8c790c72065",
+    "git_blob_oid_of_actual_bytes": "8a89bc5ed25b5fca11fc8546a46465e3619bf3cd",
+    "lines": 78
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_CHINATSU_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "4cc933ccf30a0a45e7d37ff03f0495df3e3685608203c40537eaf0989d7a627a",
+    "frozen_core_payloads_verified": 10,
+    "small_copied_input_bindings_verified": 59,
+    "current_R_and_historical_source_equal_inputs": 42,
+    "selected_private_canonical_bindings_verified_without_new_primary_credit": 21,
+    "saved_blocks_exactly_joined": 135,
+    "claims_source_and_body_exactly_joined": 36,
+    "source_link_paths_verified": 13,
+    "source_link_occurrences_verified": 14,
+    "substantial_sections": 11,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "ROOT_actual_receiving": {
+      "whole_body": [
+        "a528991–80",
+        "da313a81–160",
+        "557e43161–240",
+        "d95d83241–312EOF"
+      ],
+      "whole_readable_receipt": "11507234EOF",
+      "all_input_scope_and_control_fields": [
+        "b82402allnonarraycontrols",
+        "7b9a83inputs0–9fullfields",
+        "64406cinputs0–29completefile/id/scope/receivingfields",
+        "c33fd0inputs30–58completefile/id/scope/receivingfields",
+        "984d17explicitindex11tupleequalclaim001; preliminary misrecalled disagreement withdrawn without mutation"
+      ],
+      "all_claim_fields": [
+        "8b6253claims001–018",
+        "868645claims019–036; repeated source tuples and saved paragraphs independently joined"
+      ],
+      "fresh_complete_arguments": [
+        "17409acheckpoint1–60",
+        "164512checkpoint61–111EOF",
+        "348df0contextualV2all83EOF",
+        "c88610whole89ROOToriginalacceptance",
+        "938958G1901–90",
+        "5e27a5G19091–154EOF",
+        "1935ebgift81006173EOF",
+        "531f07S2C2E00235EOF",
+        "0ab5e6S2C2E02035EOF"
+      ],
+      "adequate_prior_meanings": "Prior complete accepted private21/final13 literature, ROOT source-specific acceptance and fresh whole checkpoint/contextualV2 adequately ground nine pairs/three written objects. Twelve author individual whole readings remain attributed; no new ROOT all12individualbody/518typed/811raw/native/QA credit. MAIN480, whole current Gehenna/E804/E808/E810/E811/E833/E835/E844/MINI literary meanings and prior Hina/Ako/Iori public accounts are adequate within their declared actor/recipient/locale/ordering/ending scopes. Positive28MAIN/33routes remains finite retrieval and attributed author scopes, not ROOT wholeowners or global absence.",
+      "historical_qualification": "Original1bb/source external accepted-but-unadmitted/pending/frontier/maintenance/merge-reserved states remain dated; Cycle008 and currentPhase3 govern. Source inputs actualdbabb equalold1bb without transferring mutable registry snapshot or primarycustody. Source-byte checks do not prove narrative receiving."
+    },
+    "semantic_grounds": [
+      "Tea, ribbon, hiphop, actual varied ordinaryday, redcolor, private laughter, cute things, books, shopping, company, wanted bath and missed bath retain intrinsic value. Chosen formerdepartment help is distinguished from unwanted papers; no compulsory leisure or joyless caregiver model.",
+      "Finished halfpapers and actual sorting reduce local burden; declined dailyhelp retains occasionalinvitation. Actual bathcomfort and repeatedribbonthanks give finite outcomes without permanent cure, fiscal/titlecertification, futurevisit or globalvariantcalendar.",
+      "Gratitude and liking coexist with cookie stoprequest, actualcatchup/calmconversation and unprintedcontent; massageproposal is refused and Chinatsuleaves. Actorless#st and inwardThink are not heardconfession or enactedassault/resuscitation.",
+      "Chosen transfer to reach injuries sooner retains Senaspride/successionhope and Chinatsuregard. Direct challenge to conquest keeps student/civilian harm visible without treating medicalanalogy as diagnosis or warranted violence.",
+      "Early enforcement/proposedexplanation/latefiringwarning and procedural harsharrest/propertydelay are adverse institutionalparticipation; Ako use of report doesnotassign Chinatsu design or completeforeknowledge.",
+      "Actual resistance and seniorreversal preserve individualroles/Ioriinjury/speakerdrift; Hinasclarity is not Chinatsurecovery. Sena ownwords/sophistryselfcritique and proposedjointinspection coexist with reassurance without performedinspection/restitution/cognitiveaudit.",
+      "Teamholiday imposes labor with tiredacquiescence versus Iorirefusal. E844 painfulawakening objections and finiteinjuryassessment/actualreturn remain separate from validatedmechanism or allrepair. Comicform and happyfoodendings do noterase refusal or costs.",
+      "Precise G1902display/textseams are001u0002Makoto/Ako,001u0057Chinatsu/Iori,003u0058Makoto/Iroha; clean0059retains finalfundingproposalprocessing. Explicitmonographcorrection qualifies G20 shortenedmisnumbering without frozenowneredit or newrawcredit.",
+      "Sparsepublicrecipients/Hasumirecognition/firefighting/festivalhelp/birthdayagency remain local; no generic-lettermerge/allpeergratefulaudience or soloFinalvictory.",
+      "DirectedSena/Prefectensemble/institution/Sensei/register duties remain separatelyrequired; thischaracterhome createsonecompletion only."
+    ],
+    "source_authority": "Cycle0083940supplemental/480MAIN withlimits; all14OPEN/model0",
+    "scope": "355packages/29namedsections unchanged; requiredP3-CHAR-CHINATSU/F082/A099 with emptydatedrawjoin preserved",
+    "progress": {
+      "previous_ROOTaccepted_packages": 50,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 51,
+      "character_packages": 50,
+      "directed_relationship_packages": 1,
+      "published_packages": 43,
+      "published_source_commit": "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1",
+      "published_source_audit_chain": "PASS_EXACT_SOURCE_HOUSEKEEPING_NOOP_FINAL",
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "quarter_reached": false
+    },
+    "new_primary_raw_performance_model_credit": 0,
+    "nine_unbound_large": "UNREAD_UNHASHED",
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-CHINATSU",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHINATSU_CHARACTER_MONOGRAPH.md",
+    "bytes": 72401,
+    "sha256": "59e7ae8fcaf77788952e9d231a37c7df1f528b46cab2911c0d9052d7718c751c",
+    "git_blob_oid_of_actual_bytes": "ae31b9f9dab0c67c3492b6d2618429011b8808c3"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This draft owns the substantial eleven-section literary argument",
+      "new": "This monograph owns the substantial eleven-section literary argument",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "old": "writing this candidate creates no additional required home, frozen denominator, accepted monograph or milestone credit. ROOT must independently receive and decide adoption.",
+      "new": "the original candidate writing created no additional required home, frozen denominator, accepted monograph or milestone credit. ROOT subsequently received and accepted this complete character argument with limits; canonical persistence follows complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "old": "The Sena–Chinatsu direction, Prefect working ensemble, institutional authority/resource/care allocation and Sensei ethics/register homes require their own complete arguments.",
+      "new": "The Sena–Chinatsu direction, Prefect working ensemble, institutional authority/resource/care allocation and Sensei ethics/register questions remain distinct analytical responsibilities requiring complete arguments within the applicable existing catalog. Their mention creates no new counted home; in particular this monograph does not invent a separate Sena–Chinatsu package.",
+      "kind": "EXPLICIT_ROOT_SCOPE_QUALIFICATION"
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHINATSU_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHINATSU_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior47-package source publication base is `92184703994a1950a5660654ce52d8516dbe9bf5`; frozen author/control/progress snapshots below retain their dated meaning. Execution requires ROOT’s successful actual exact-head audit chain."
+  ],
+  "exact_added_retrieval_title": null,
+  "fixed_publication_snapshot": "Seven accepted packages48–54 only; after complete ROOT installation54=53characters+1directedrelationship; later liveROOT acceptances excluded",
+  "current_scope_qualification": "Sena–Chinatsu and broader care duties are analytical responsibilities. No new counted Sena–Chinatsu home, section or completion follows."
+}

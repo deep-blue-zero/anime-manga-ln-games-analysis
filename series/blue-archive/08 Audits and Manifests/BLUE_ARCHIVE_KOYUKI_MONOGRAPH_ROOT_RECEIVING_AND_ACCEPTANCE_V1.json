@@ -1,0 +1,118 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Koyuki",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_KOYUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 4056,
+    "sha256": "0c57e255dcbbda763f03eea797c2ac4a626a6de898f6d521ddefc7413a44d506",
+    "git_blob_oid_of_actual_bytes": "66a338bff7df404125670a41e0fc8ea04212140a",
+    "lines": 73
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_KOYUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "0bd143fb3005f57427b6196077b28b4bd1e0d736de12bcd1af9712083d0657e0",
+    "frozen_payloads_verified": 4,
+    "complete_current_R_bindings_verified": 13,
+    "explicit_historical_comparison_tuples_verified": 48,
+    "local_prior_bindings_verified": 3,
+    "representative_frozen_witnesses_verified": 3,
+    "paragraphs_exactly_joined": 65,
+    "source_links_resolved": 7,
+    "source_endpoint_arguments": 16,
+    "substantial_sections": 11,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "ROOT_actual_receiving": {
+      "whole_body": [
+        "9ace05 lines1–110",
+        "9c132b lines111–220EOF"
+      ],
+      "complete_source_controls": [
+        "58bd1b complete controls",
+        "f61d83 inputs0–5",
+        "687ee6 inputs5–13 with whole clipped row9 repaired5b6a6e",
+        "0bf349 all3localprior",
+        "58bfc3 all7canonical source links"
+      ],
+      "complete_claim_fields": [
+        "831b1f claims0–33",
+        "8cdcaa claims33–65",
+        "cffe73 all16endpoint arguments/all11headers/all14gaps"
+      ],
+      "whole_output_receipts": [
+        "4b9947 saved67linesEOF",
+        "b2c6bc freeze82linesEOF",
+        "4f80ab saved complete projection",
+        "373f27 freeze repeated complete projection"
+      ],
+      "fresh_complete_consequential_arguments": [
+        "117983 private ownerL152–253",
+        "77c718 private ownerL254–320EOF",
+        "2e5274 FinalC002E00457linesEOF",
+        "ad7aed FinalC002E01731linesEOF",
+        "7ea014 E806103linesEOF"
+      ],
+      "existing_adequate_argument_scope": "Prior ROOT E842 whole149lines73fd59/d1ace17; Final working/E821 complete declared analytical argument scopes; exact custody comparison does not grant new narrative reading.",
+      "receiving_limits": "No fresh whole first151 lines of private owner source-control metadata, physical whole109k claim JSON, primary source narrative, raw field QA or performance credit. Row9 clipped output repaired completely."
+    },
+    "semantic_grounds": [
+      "Wanted company, comfort, sweets, manga, chosen object meanings, games and remembered clover meanings have intrinsic value alongside public work capacity and institutional duties.",
+      "Ordinary demands and gratitude retain simultaneous dissent. Resource expenditure, privacy loopholes, forgotten errands, failed plans and recipient protests remain actual contrary evidence.",
+      "Koyuki cipher success is corroborated in the local Final episode; Noa assignment judgment does not independently establish exclusive capability, completed later unlocking, lawful custody or willingness for further labor.",
+      "White Rabbit remains an explicit local event name with unresolved upstream identity joins. Ten whole paired codas and three written repertoires are an admitted selected repertoire, with four unclassified routes eligible but unread.",
+      "Proposed escape, reported custody and unstated mechanisms remain proposals or reports. No luck law, clinical laziness diagnosis, permanent care cure, exact release chronology, performed delivery, model or prediction follows."
+    ],
+    "current_analytical_base": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+    "historical_source_audit_pending_wording": "Dated author source status; exact current publication chain now PASS in separate ROOT receipt",
+    "source_authority": "Cycle008 current admitted3940 supplemental/480MAIN; historical producer prose preserved as history",
+    "progress": {
+      "previous_ROOTaccepted_packages": 41,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 42,
+      "character_packages": 41,
+      "directed_relationship_packages": 1,
+      "published_packages": 36,
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "quarter_reached": false
+    },
+    "scope": "355 packages/29 named sections unchanged; required home P3-CHAR-KOYUKI-CH0198",
+    "new_primary_raw_performance_model_credit": 0,
+    "nine_unbound_large": "UNREAD_UNHASHED",
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-KOYUKI-CH0198",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 46195,
+    "sha256": "0f62794a5c02e29c0f7f817bf57bb12b5f89f6728057134906ec7936926337bb",
+    "git_blob_oid_of_actual_bytes": "f671c92bce3cb691f6d4006b018344d8e3eb9c47"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This draft adds no primary, raw or performed evidence, reconstruction model, prediction, canonical persistence or completion credit.",
+      "new": "This canonical derivative adds no primary, raw or performed evidence, reconstruction model or prediction. ROOT independently accepted the complete literary argument with limits; canonical persistence and package progress follow the complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "old": "ROOT must independently receive and decide this character synthesis before any canonical or progress promotion.",
+      "new": "ROOT independently received and accepted this complete character synthesis with limits; canonical persistence and progress take effect only after the complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ]
+}

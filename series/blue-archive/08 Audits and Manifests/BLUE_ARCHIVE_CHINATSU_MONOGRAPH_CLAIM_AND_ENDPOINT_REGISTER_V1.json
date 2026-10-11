@@ -1,0 +1,1345 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHINATSU_CHARACTER_MONOGRAPH.md",
+    "bytes": 72401,
+    "sha256": "59e7ae8fcaf77788952e9d231a37c7df1f528b46cab2911c0d9052d7718c751c",
+    "git_blob_oid_of_actual_bytes": "ae31b9f9dab0c67c3492b6d2618429011b8808c3"
+  },
+  "historical_frozen_claim_and_endpoint_register": {
+    "kind": "CHINATSU_CLAIM_AND_ENDPOINT_SOURCE_REGISTER_V1",
+    "body_binding": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PREFECT_MONOGRAPHS/CHINATSU/BLUE_ARCHIVE_CHINATSU_CHARACTER_MONOGRAPH.md",
+      "bytes": 70648,
+      "sha256": "4cc933ccf30a0a45e7d37ff03f0495df3e3685608203c40537eaf0989d7a627a",
+      "git_blob_oid_of_actual_bytes": "c91d1d617712f63e6c0849eb3992bb90532f1e48",
+      "physical_lines": 312
+    },
+    "input_receipt_path": "CHINATSU_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "claims": [
+      {
+        "claim_id": "CHINATSU-LIT-001",
+        "label": "Chosen transfer",
+        "claim": "Chinatsu explains a move closer to injuries; chosen help does not imply the new institution fixes every response gap.",
+        "source_mode": "SELF_REPORT_AND_ACTUAL_SHOWN_DIALOGUE",
+        "source_input_refs": [
+          11,
+          31
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_26000_E015_DEEP_READING.md",
+            "bytes": 8864,
+            "sha256": "d056c6df720d52098199f07548907b59a31ee0836e58b131babdd0f40a14f029",
+            "git_blob_oid_of_actual_bytes": "4a324d0a6cfe51151acdbb444350c3dc8f052041",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "bytes": 4655,
+            "sha256": "fee3693f064b66211324aa362aa14f126586eae8449f41c1c1b26220dc17e1cd",
+            "git_blob_oid_of_actual_bytes": "831af4fdb955225e7bdf42828a58a127b6f389d1",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT_SMALL_ANALYTICAL_OWNER_TO_EOF"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P032",
+          "section": 4,
+          "start_line": 81,
+          "end_line": 81,
+          "text": "The strongest positive evidence for her role comes from her own explanation of leaving Emergency Medicine. In 26000E015 she says someone had to respond and she could not leave it alone; S2C002E002 confirms the wish to reach repeated casualties sooner. Those are located decisions about where her work would help. Sena's concealed hope for future succession gives the choice an interpersonal cost without making it a betrayal. Chinatsu remembers the former department as busy, fulfilling and difficult. She does not report that its people were uniformly bad or that the Prefects solved every problem the move addressed.\n",
+          "sha256_text_utf8": "05167630c3cb6726d50e8073ede5b006ce52d86db5bca47bdc4542964e7cdc01",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Former-department affection and difficult colleagues remain; no permanent labor solution.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-002",
+        "label": "Intrinsic ordinary day",
+        "claim": "The varied shared outing actually occurs, including hip-hop; no major plot consequence is required.",
+        "source_mode": "ACTUAL_NARRATED_OUTING",
+        "source_input_refs": [
+          8
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_26000_E003_DEEP_READING.md",
+            "bytes": 8384,
+            "sha256": "ae722e870c89d7dc779820ef0a5e38ed42e9eabe1e0c35762e226402e8c22f22",
+            "git_blob_oid_of_actual_bytes": "abd30da7b32e00fcb8e8779c42a502eae3ca5678",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P040",
+          "section": 5,
+          "start_line": 97,
+          "end_line": 97,
+          "text": "The day off in 26000E003 is unusually valuable because its accumulation is the event. She likes quiet reading spaces but chooses company and a varied outing. She complains about good yet reckless colleagues and the difficulty of getting them to listen. The actual hand-taking, games, tea, hip-hop and shopping show that a disciplined worker can want movement and sociability as well as quiet. The day contains no major event that must justify its existence. Her hesitation around the adult's enthusiasm and jokes belongs to its negotiated company; it is not proof that she disliked the whole day or offered a fully settled romantic declaration.\n",
+          "sha256_text_utf8": "52eb76ebd80921e7993608e6959b6abf69f79653c7e06ee89fdff88991f655d2",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No settled confession, absolute MAIN date or complete cure.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-003",
+        "label": "Finished papers and frequency limit",
+        "claim": "Half-load help and finished task are actual; daily-help frequency is declined while occasional help remains possible.",
+        "source_mode": "ACTUAL_LOCAL_TASK_AND_REFUSAL",
+        "source_input_refs": [
+          7
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_26000_E002_DEEP_READING.md",
+            "bytes": 8255,
+            "sha256": "d98db1fc177fdf9b24333972eaba5b991224202cbfe3b54181085eae7895dc8f",
+            "git_blob_oid_of_actual_bytes": "1694e17416040d52ab17a32bd4aa7d8a3f0ebc68",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P043",
+          "section": 5,
+          "start_line": 103,
+          "end_line": 103,
+          "text": "In 26000E002, the adult helps with half the papers. The task is finished that day and relief is represented. The stair warning and her report that others do not notice the amount reveal how reliable output can make load invisible. The adult's daily-help proposal is refused because its frequency would burden them; occasional help when free is accepted. This is a material limit, not a token modest refusal to be overridden until she agrees. Its exact negotiated form gives reciprocity a workable scale.\n",
+          "sha256_text_utf8": "f4ffe2c0057aacbcbbc720a5e30a13de3a2b14f9c4119e1c7df2055256245900",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Her choice must not be read as a modest invitation to ignore her limit.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-004",
+        "label": "Missed bath",
+        "claim": "Actual finished papers do not become achieved rest; the bath is missed.",
+        "source_mode": "ACTUAL_LOCAL_TASK_AND_UNACHIEVED_PLEASURE",
+        "source_input_refs": [
+          3
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_10030_E002_DEEP_READING.md",
+            "bytes": 9300,
+            "sha256": "f30a2e27b34fc358a10840e4f5b5c67ca096546b12f0d56d94dbb39128d8e9c8",
+            "git_blob_oid_of_actual_bytes": "ac1c0196ce29bd569857287170e9dd468c92f0ac",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P045",
+          "section": 5,
+          "start_line": 107,
+          "end_line": 107,
+          "text": "10030E002 gives a less successful rest endpoint. The holiday gift and unclaimed work reach her at a place where she is comfortable working. She says she is not fatigued or hurt, but those statements are not clinical measurements. The adult suggests rest or postponement through choices and can refuse reciprocal overwork. Nevertheless, the papers are actually finished before sunset and the bath is missed. Companionship and efficient shared work are genuine; successful rest is not. A helpful adult can improve the work experience without protecting the time that was meant for another pleasure.\n",
+          "sha256_text_utf8": "24422c20e2deec50aeb062570935371fe55ffca7c71a6084308d961eefb614aa",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Not fatigued/hurt is her report, not clinical measurement.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-005",
+        "label": "Tea and company",
+        "claim": "An actual shared afternoon coexists with acknowledged overpreparation and a request not to tease.",
+        "source_mode": "ACTUAL_COMPANY_AND_ALTERNATIVE_CHOICES",
+        "source_input_refs": [
+          4
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_10030_E003_DEEP_READING.md",
+            "bytes": 8507,
+            "sha256": "793f3b490402dac96a76497caecddc8fa20dc98f9c0818e5f9a0b219f9edbca9",
+            "git_blob_oid_of_actual_bytes": "c6dde6d07827eee87ac530eed893c47830001e37",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P028",
+          "section": 3,
+          "start_line": 73,
+          "end_line": 73,
+          "text": "The tea scene 10030E003 similarly allows both service and company. She initially supplies more tea than needed and then recognizes the excess. The actual afternoon is shared. A branch about wanting tea and a branch about wanting to see her are alternative adult framings, not one cumulative confession. Her request not to tease matters even where embarrassment and goodwill are visible. Overenthusiastic usefulness is an interpretable motive, not a complete physiological or developmental explanation.\n",
+          "sha256_text_utf8": "b8533affc233d49f90dad72e6aae901e6aa9f093f370989b2f437b961b4ee3d0",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Tea/wanted company adult replies are alternatives, not cumulative confession.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-006",
+        "label": "Particular ribbon",
+        "claim": "Chosen ribbon pleasure, received adult gift and thanks are retained beside unease about accepting unearned gifts.",
+        "source_mode": "ACTUAL_GIFT_RECEIVING_AND_WANTS",
+        "source_input_refs": [
+          5
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_10030_E005_DEEP_READING.md",
+            "bytes": 8749,
+            "sha256": "d0d9ad52cbf7e5cf95a538680a739088ee84582e87dce8400a3ce4a8f18e3aa7",
+            "git_blob_oid_of_actual_bytes": "ffd441626c00ee19279adbdb445505bab3ef1f6e",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P047",
+          "section": 5,
+          "start_line": 111,
+          "end_line": 111,
+          "text": "10030E005 turns souvenir selection into a problem of others' different tastes and her own modest want. She worries about a colleague's holiday labor, considers what will please particular peers and likes an understated ribbon. Someone else's dislike of Peroron is not her universal preference. An explosion-labelled bath additive remains a prospective product description. The group price difficulty is not a complete personal budget audit. The adult's offered ribbon is actually received with thanks. She objects to accepting what she has not earned and promises to treasure it. The wish and gift are real; a lifetime of future preservation is not observed.\n",
+          "sha256_text_utf8": "8877075462912690283f8ddfa226c87d32f3d8ede91b15d3eabd0af680a5f88d",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Lifetime preservation, peer receipt, explosion product effects and audited budget not shown.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-007",
+        "label": "Local gift continuation",
+        "claim": "10030E006 explicitly thanks the10030E005 ribbon gift; this is a local chronology bridge.",
+        "source_mode": "POSITIVE_LOCAL_BEFORE_AFTER",
+        "source_input_refs": [
+          5,
+          6
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_10030_E005_DEEP_READING.md",
+            "bytes": 8749,
+            "sha256": "d0d9ad52cbf7e5cf95a538680a739088ee84582e87dce8400a3ce4a8f18e3aa7",
+            "git_blob_oid_of_actual_bytes": "ffd441626c00ee19279adbdb445505bab3ef1f6e",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          },
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_10030_E006_DEEP_READING.md",
+            "bytes": 9030,
+            "sha256": "5335cd2c4ea405eadfc1a6e43bef346241eeedd6b23ffbfff0d63c3fd5a949c1",
+            "git_blob_oid_of_actual_bytes": "1eb387c8c0c43b431ed05fdd1177c03bb8e44cc3",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P022",
+          "section": 2,
+          "start_line": 61,
+          "end_line": 61,
+          "text": "There is one particularly clear private bridge: 10030E005's ribbon gift is explicitly thanked in 10030E006. The bridge supports local continuity between those two stories. It does not place every 26000 scene before every 10030 scene. Release order, episode suffixes, UI requirements and the Hot Springs profile's Red Winter setting do not construct a single vacation itinerary. The 10030 bath booking scene itself uses a Gehenna inn context; the difference must survive the comparison rather than be flattened into travel narration.\n",
+          "sha256_text_utf8": "8cdb7dfc671cb61c1be90febe4d05d4ae1e38ed634f39f24dc17c44df1776e66",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No every26000-before10030 or RedWinter-to-Gehenna itinerary.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-008",
+        "label": "Actual bath with conditional future",
+        "claim": "Bath enjoyment and reported relief occur; future relation conditionals and near-overheating constrain flawless care.",
+        "source_mode": "ACTUAL_PLEASURE_SELF_REPORT_AND_FUTURE_FORM",
+        "source_input_refs": [
+          6,
+          12
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_10030_E006_DEEP_READING.md",
+            "bytes": 9030,
+            "sha256": "5335cd2c4ea405eadfc1a6e43bef346241eeedd6b23ffbfff0d63c3fd5a949c1",
+            "git_blob_oid_of_actual_bytes": "1eb387c8c0c43b431ed05fdd1177c03bb8e44cc3",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          },
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_CHARACTER_DATA_10030_DEEP_READING.md",
+            "bytes": 8165,
+            "sha256": "e627fbf1a27cbe85ae211a663a5fa4be1d93316bcbc5b3a50084f778e4319053",
+            "git_blob_oid_of_actual_bytes": "483d8bfb4e403f08a450a221d504dc8aeca039d4",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_WRITTEN_ANALYTICAL_ARGUMENT_TO_EOF; MODES/CONDITIONS_RETAINED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P049",
+          "section": 5,
+          "start_line": 115,
+          "end_line": 115,
+          "text": "The bath and reported relief in 10030E006 are actual within the story; the second-bath proposal, warning against overdoing it and near-overheating prevent a perfect-care conclusion. Conditional future words in the MemorialLobby forms imagine a possible later relation without replacing the current one. Red Winter profile scenery and the Gehenna inn are kept apart. Unlike the missed bath elsewhere, this scene gives her an enjoyed bodily comfort. Both deserve an independent description.\n",
+          "sha256_text_utf8": "06e605ae77b14b93094b7f216af931eb32dd0292819707007f29a85b50dda729",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No clinical cure, fabricated booking scheme or changed mutual relationship.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-009",
+        "label": "Real sorting and inward privacy",
+        "claim": "The adult arrives for actual work; Hina has approved decisions; sorting precedes inward awareness and venue revision.",
+        "source_mode": "ACTUAL_WORK_THEN_INWARD_AND_FUTURE_MESSAGES",
+        "source_input_refs": [
+          10
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_26000_E006_DEEP_READING.md",
+            "bytes": 8521,
+            "sha256": "01e0efc389d0e3fc79bedfe560f6583300771724521b206b157d8afff1cb4dd9",
+            "git_blob_oid_of_actual_bytes": "6e57379dd6596e7fd0497078de1b516ffcaa9137",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P027",
+          "section": 3,
+          "start_line": 71,
+          "end_line": 71,
+          "text": "A recurring source of hesitation is how a wish will be interpreted. The 26000E006 visit is requested for actual work; the adult arrives promptly and sorting is genuinely done. Hina has already approved the substantive decisions. Chinatsu later becomes newly conscious of the private room and the time together. That inward movement does not prove she planned the entire working visit as a romantic strategy. Her subsequent messages reconsider the venue and still leave the old room available. A revision of a future invitation is represented; another visit is not. The ending's inward `私だけ` retains the uncertainty of what is hers alone.\n",
+          "sha256_text_utf8": "caac5cb93a0d1feffbc9bf14f2ef6e784bde730f23cb2f4ce20cb9dcd82c9aa5",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Not planned romance, whole governance work or another performed visit.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-010",
+        "label": "Half-day endpoint",
+        "claim": "Half a day or more, clean lived-in room and folding-bed use are maintained without stronger property or fatigue claims.",
+        "source_mode": "ACTUAL_LOCAL_DURATION_AND_SETTING",
+        "source_input_refs": [
+          10
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_26000_E006_DEEP_READING.md",
+            "bytes": 8521,
+            "sha256": "01e0efc389d0e3fc79bedfe560f6583300771724521b206b157d8afff1cb4dd9",
+            "git_blob_oid_of_actual_bytes": "6e57379dd6596e7fd0497078de1b516ffcaa9137",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P044",
+          "section": 5,
+          "start_line": 105,
+          "end_line": 105,
+          "text": "The 26000E006 room scene records half a day or more of sorting. It should not be intensified into strictly more than half a day, an overnight stay, complete exhaustion or a proved fever. The room is described as clean and lived in; the folding bed and use overnight do not establish property ownership or a separate permanent residence. Her apology for the room and later consciousness of privacy are significant in themselves. These are ordinary spatial and interpersonal facts, rather than clues requiring a solved romantic plot.\n",
+          "sha256_text_utf8": "b27f8dd477040dced55a61d7f5b3989fc38a6e143bc40a5a4cead053dc0415d9",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Not strictly more than half a day, overnight adult stay, title ownership or proved fever.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-011",
+        "label": "Adult collapse and care",
+        "claim": "Chinatsu reports finding/transport/exam, qualified likely fatigue; actual refusal of immediate work and limited help.",
+        "source_mode": "RETROSPECTIVE_CARE_REPORT_ACTUAL_REFUSAL",
+        "source_input_refs": [
+          9
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_26000_E005_DEEP_READING.md",
+            "bytes": 8315,
+            "sha256": "906c9dfaf12fe16bed3a77b72905960e2d98c3e03a1249ed7bbe0c5580cb5ae5",
+            "git_blob_oid_of_actual_bytes": "8d155152642cd1b04ac1f3354c98aac7fcf69d5e",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P068",
+          "section": 7,
+          "start_line": 153,
+          "end_line": 153,
+          "text": "26000E005 reverses the helping direction. The adult is found unconscious, and Chinatsu's account supplies transport, examination and a likely fatigue explanation. These are her retrospective report and qualified assessment. Her refusal to endorse an immediate return to work is actual. The possibility of physically stopping the adult is conditional language, not a represented administered injection or bodily restraint. She offers simple paperwork assistance rather than taking over the adult's larger decisions. Her personal worry and wish to repay earlier help have their own force, while the adult's access to care should not depend on supplying romantic reassurance.\n",
+          "sha256_text_utf8": "bf7ebec547e306261935b773847b906ce2267b8cad4cf3cfe3fe1312c9235eef",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Conditional physical stop is not performed injection or restraint; no permanent recovery test.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-012",
+        "label": "Gift disclosure and stop",
+        "claim": "Particular present happiness and repeated slip coexist with direct stop request, retreat and actual calm talk.",
+        "source_mode": "ACTUAL_GIFT_SPEECH_STOP_AND_NARRATED_TALK",
+        "source_input_refs": [
+          53,
+          19
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_061_80000061_DEEP_READING.md",
+            "bytes": 7937,
+            "sha256": "767139ff4e2b137569f06d25b342b227017a6e3e0d5afbc2185239b380964636",
+            "git_blob_oid_of_actual_bytes": "2e29fe501706bb8a786e37494ec4184358340782",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED73_LINE_GIFT_ANALYTICAL_ARGUMENT_TO_EOF; NONCURRENT_PRODUCER_STATUS_RETAINED_UNDER_CURRENT_NORMAL810_ACCEPTED_COMPARISON"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "bytes": 46462,
+            "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+            "git_blob_oid_of_actual_bytes": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2",
+            "actual_receiving_scope": "PRIOR_PERSONALLY_COMPLETE_RESIDUAL26_NORMAL_ARGUMENT; FRESH285_316EOF_RELEVANT_SCOPE"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P029",
+          "section": 3,
+          "start_line": 75,
+          "end_line": 75,
+          "text": "Gift 810061 intensifies this problem of exposure. She brings a particular fortune-cookie message about present happiness, qualifies the date's communicative force and acknowledges gratitude and liking. Another cookie yields the same slip. The adult asks more; she directly requests that the opening stop and retreats. Narration actually records catching up and calmly talking, so the ending is not an endlessly unresolved chase. The conversation's contents are unprinted. Neither a manufactured census of every cookie nor full emotional resolution follows. Her wish to communicate something carefully and her wish to regulate how much is exposed are compatible parts of the same act.\n",
+          "sha256_text_utf8": "4cad680f715448e2ef6710edf035cc3ca12f2f75a7e13945ee4a7cb74e149514",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "All-cookie manufacture census, conversation content and full emotional resolution unprinted.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-013",
+        "label": "Massage refusal and contrary thought",
+        "claim": "Actual refusal/leave is independent of the profile inward proposal to make someone faint before artificial respiration.",
+        "source_mode": "ACTUAL_REFUSAL_VERSUS_UNPERFORMED_THINK",
+        "source_input_refs": [
+          18,
+          13
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_808/BLUE_ARCHIVE_EVENT_808_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "bytes": 16468,
+            "sha256": "aa1a4e877dd00016b6f9a177339a81e2c52664e00582c52701c206f59765530c",
+            "git_blob_oid_of_actual_bytes": "36b57a18749b2661669c5aae1dc8981799e22da0",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT_NORMAL_ANALYTICAL_OWNER_TO_EOF"
+          },
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_CHARACTER_DATA_26000_DEEP_READING.md",
+            "bytes": 8483,
+            "sha256": "9b000243b68fe5a7956a8d0adc35831b8c7ad09057dac36b9f0f930be19d355f",
+            "git_blob_oid_of_actual_bytes": "468279ecf672625c3933b13f19be2b2f14628a7a",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_WRITTEN_ANALYTICAL_ARGUMENT_TO_EOF; MODES/CONDITIONS_RETAINED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P072",
+          "section": 7,
+          "start_line": 161,
+          "end_line": 161,
+          "text": "EVENT808 makes a bodily boundary especially clear: she refuses the adult's massage proposal and leaves. The refusal is actual and needs no inferred hostile attitude toward every form of company. Her wanted bath and concern about the chair's enjoyment coexist with it. The base profile's injection dislike and contrary Think sequence also prevent a one-directional view of bodily vulnerability. Think 1331–1332 imagine first making someone faint and then giving artificial respiration, followed by a Talk denial of thinking about anything. The imagined initiation is ethically troubling within her written persona. It is not an executed assault or resuscitation and must not be presented as one. The difference between thought and act protects accuracy without making the thought analytically disposable.\n",
+          "sha256_text_utf8": "64f15b8ed53260b1d950a0281206ab2fb0d89de1ee4d13a094b7d1bd048da7c4",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No blanket permission, enacted knockout or resuscitation; thought still contrary evidence.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-014",
+        "label": "Written ordinary preferences",
+        "claim": "Needle dislike, private laughter, red Christmas without blood, books and cute animals retain distinct source modes.",
+        "source_mode": "WRITTEN_PROFILE_AND_CONDITIONAL_UI",
+        "source_input_refs": [
+          13
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_CHARACTER_DATA_26000_DEEP_READING.md",
+            "bytes": 8483,
+            "sha256": "9b000243b68fe5a7956a8d0adc35831b8c7ad09057dac36b9f0f930be19d355f",
+            "git_blob_oid_of_actual_bytes": "468279ecf672625c3933b13f19be2b2f14628a7a",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_WRITTEN_ANALYTICAL_ARGUMENT_TO_EOF; MODES/CONDITIONS_RETAINED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P051",
+          "section": 5,
+          "start_line": 119,
+          "end_line": 119,
+          "text": "The written base profile gives injections as a dislike, laughter in private as a habit and Christmas red as something explicitly distinguished from blood. Those details counter a reductive claim that everything in her life is medical or violent. Philosophy books identify an interest without a doctrine; cute animals are an official description without authorizing every inferred object in her room. Birthday and anniversary lines can express wanted company, hand-holding or gratitude without proving that a specific annual meeting occurred. A trigger is a condition of written address, not automatically an enacted dated encounter.\n",
+          "sha256_text_utf8": "cebd24f3788c87181b851ab25d3f0c0cd409ff6469ec0d7897f99aedab79b93a",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No heard acting, enacted birthday or identified poster animal.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-015",
+        "label": "Costume route",
+        "claim": "Written808/10808/900808 contexts support conditional readiness, support and limited wanted idle company.",
+        "source_mode": "WRITTEN_CONDITIONAL_SOURCE_FORM",
+        "source_input_refs": [
+          14
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_EVENT_COSTUME_1900902101_WRITTEN_CONTEXT_DEEP_READING.md",
+            "bytes": 7935,
+            "sha256": "998c5b52c85cde0df9948cbb51c3b02b1ba63ea20252ec73427c07d29bec706e",
+            "git_blob_oid_of_actual_bytes": "d8e669b78f1a8bc318dc256a72405562c9c3361c",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_WRITTEN_ANALYTICAL_ARGUMENT_TO_EOF; MODES/CONDITIONS_RETAINED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P052",
+          "section": 5,
+          "start_line": 121,
+          "end_line": 121,
+          "text": "The event costume 1900902101:10030 belongs to 808/10808/900808 written contexts. It must not be reassigned to 804 because the same person appears there. Readiness, support, focus on business and objections to joking coexist with a limited statement that idle company is not unwelcome. Progress, cleanup and help are conditional lines, not completed operations. Repeated contexts are not three independently enacted meetings, and missing closing lines in one context do not prove the world lacked cleanup.\n",
+          "sha256_text_utf8": "971ee2bcb0fd167e4fa1f1d83b8a4c8c079fe080e27341b18e855325c3267a6e",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Not EVENT804, three enacted encounters or executed cleanup.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-016",
+        "label": "Prologue risk and invitation",
+        "claim": "Student-adult bodily asymmetry, successful local coordination and later invitation establish initial recognition.",
+        "source_mode": "SHOWN_PUBLIC_DIALOGUE_AND_LOCAL_CONTINUATION",
+        "source_input_refs": [
+          41,
+          42
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md",
+            "bytes": 39570,
+            "sha256": "e315e97c10dacb5657afe71346d97e695c0517cba36069981c8d4dbb8d8600d3",
+            "git_blob_oid_of_actual_bytes": "39c65a623e14f357b444e24962f4bfbb7fb90a16",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md",
+            "bytes": 62219,
+            "sha256": "a9ee0377845b03ec86eee9337bcc93c19b3d3127af3dc89efb6dd8c473c7d40c",
+            "git_blob_oid_of_actual_bytes": "801e03f9403aff057fe428b2ae41ad0f109e2eff",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P012",
+          "section": 2,
+          "start_line": 41,
+          "end_line": 41,
+          "text": "The prologue supplies a first public role rather than a mature intimacy. At `BA:main:000:001:001:scene:004`, Chinatsu explains that, unlike the students, Sensei could face a life-threatening risk from one bullet. Yuuka's pain and fear of scarring prevent this contrast from meaning that students cannot be hurt. Chinatsu's contribution gives command an embodied condition: the nominal adult leader requires student protection while coordinating their action. The operation succeeds, and the next prologue unit includes her invitation to visit Gehenna. An invitation opens future contact; it is not evidence of an already developed private relationship or consent to arbitrary later interventions.\n",
+          "sha256_text_utf8": "9b164f097bc9153b3df9edf714913860572e5846ad50e6b2bef1a524e065c5c9",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Not harmless bullets, mature intimacy or permission for later interventions.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-017",
+        "label": "Failed early restraint",
+        "claim": "Chinatsu proposes explanation, recognizes Schale and tries to stop firing, without successfully preventing the coercion.",
+        "source_mode": "SHOWN_FIELD_ATTEMPT_AND_FAILURE",
+        "source_input_refs": [
+          43
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md",
+            "bytes": 56763,
+            "sha256": "cc1ccc04c567ef448345482a3d249a8a69df2ac8a2dc7e03b49403c2727a2a47",
+            "git_blob_oid_of_actual_bytes": "2e47cb5a854b063ca60e6173f8f062b5f605cf60",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_ANALYTICAL_OWNER1_1426_EOF"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P013",
+          "section": 2,
+          "start_line": 43,
+          "end_line": 43,
+          "text": "The first Abydos field confrontation shows the distance between procedural preference and effective restraint. In [V001C001E020](../../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md), she inquires about the other students and proposes explaining matters before coercion. When an apparently civilian adult appears, she recognizes Schale and tries to stop the response; firing occurs before her warning can stop it. Her later assessment of the team's mistake does not amount to a full apology to Abydos or a legal acknowledgment of its autonomy. The local actors' jurisdictional refusal remains their own. A calm voice inside an armed operation is not sufficient proof that the operation itself has become respectful.\n",
+          "sha256_text_utf8": "17ef4cb02aefa3de44cf406932d3cf92e139acd35d0ee9a3bbb02ff00760baae",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Not legal apology, respect for all territorial agency or recipient safety guaranteed.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-018",
+        "label": "Report is not authorization",
+        "claim": "Ako uses Chinatsu report and designs concealed custody; later Hina correction and withdrawal are separate acts.",
+        "source_mode": "REPORT_USE_SHOWN_COMMAND_AND_LATER_CORRECTION",
+        "source_input_refs": [
+          44,
+          45
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md",
+            "bytes": 51402,
+            "sha256": "fd051ff1a6ce453f8f1c603641df16c783c2ce4605312bc6e2feaf5f25ae27e8",
+            "git_blob_oid_of_actual_bytes": "e39cfebe5cb231507df5986cc1f48ca1bf750053",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C002_E002_DEEP_READING.md",
+            "bytes": 26347,
+            "sha256": "29f4e463b698b8383006e60ee64b2827f48a0f503109252e63c6fb2e81e57bcc",
+            "git_blob_oid_of_actual_bytes": "ce7c5dd0d463fbb890b328e195ec8b95ae44693b",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P014",
+          "section": 2,
+          "start_line": 45,
+          "end_line": 45,
+          "text": "The following chapter distinguishes her report from Ako's use of it. V001C002E001 explicitly makes Chinatsu's information part of Ako's security inquiry, while Ako designs and conceals the custody operation. Information supplied by a subordinate is not automatic authorization of everything a superior subsequently does. Hina's correction, suspension of Ako, apology and withdrawal in E002 are real later public events. Chinatsu's quiet exchange and glare supply internal differentiation, with severe speaker drift around withdrawal quarantined. These do not produce a separate shown Chinatsu disciplinary hearing or prove that she foresaw every element of Ako's plan.\n",
+          "sha256_text_utf8": "e18c3478fb705c7491a5eea32c46c4b474d02a2d89b3d288e279c204a84f06a6",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No Chinatsu design of whole plan, foresight or separate disciplinary hearing.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-019",
+        "label": "Harsh arrest and promised return",
+        "claim": "Chinatsu procedural participation is within actual harsh arrest; confiscated truffle return is promised in a month, not shown.",
+        "source_mode": "ACTUAL_ARREST_AND_UNFULFILLED_PROCEDURAL_PROMISE",
+        "source_input_refs": [
+          15
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+            "bytes": 36852,
+            "sha256": "2215aa4cb0f6b7092939f775ac72e12361e6fa58ce9d4087f7686d10d3c9a2d3",
+            "git_blob_oid_of_actual_bytes": "2f1bce821c37ec76c58b0422fdc13da135258009",
+            "actual_receiving_scope": "PRIOR_PERSONALLY_COMPLETE_GEHENNA_ARGUMENT; FRESH_COMPLETE_CONSEQUENTIAL_SECTIONS26_98_135_166_181_198_218_220"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P036",
+          "section": 4,
+          "start_line": 89,
+          "end_line": 89,
+          "text": "Procedure itself requires scrutiny. In GROUP1101, she asks the pursued Gourmet members not to resist within Hina's harsh arrest sequence. The source prints arrest, without clinical injury or a complete sanction record. In 1102 she explains that the truffle will be returned after checking criminal relevance, estimating a month. The promised return is not performed; the time matters to people who valued freshness. Her explanation is not equivalent to the club's approval of the delay. The group sequence gives a real limit to any interpretation of her as merely a benign mediator standing outside enforcement.\n",
+          "sha256_text_utf8": "30fa6feee436e64c641764f1b5951827ca72a02f91dbc9b10aac323a8fb1e57e",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Comic form does not supply injury audit, consensual delay or completed sanction.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-020",
+        "label": "Political audit and limits",
+        "claim": "Earlier represented revisions coexist with final95%/zero plan requiring processing; Hina departure and reported aftermath distinct.",
+        "source_mode": "REPRESENTED_AUDIT_PROPOSED_FINAL_OUTCOME_HEDGED_REPORT",
+        "source_input_refs": [
+          16
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+            "bytes": 25362,
+            "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+            "git_blob_oid_of_actual_bytes": "17e378db57541ef25cb16e08f9a4db4e4111bc51",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT154_LINE_ANALYTICAL_OWNER; SOURCE_STORY_LAYERS_AND3_ACTOR_SEAMS"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P035",
+          "section": 4,
+          "start_line": 87,
+          "end_line": 87,
+          "text": "The audit represents reductions and reallocations but explicitly leaves the final roughly 95% and next-year-zero plan requiring formal processing. Hina leaves after Ako's report; the destructive-looking aftermath is something said to have followed. Neither the budget's permanent destruction nor a specific observed shooter is supplied. These limits prevent a tempting story in which arbitrary power proves that the diligent medic can do nothing, or a later explosion proves complete successful correction. Chinatsu's caution is a situated response to practical resource constraints; the final institutional settlement remains unshown.\n",
+          "sha256_text_utf8": "5659c98c14e5eca523118f50c326352dfc9ef5b355f42f80bc81b6174bfaedba",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No executed treasury change, observed shooter or completed political remedy.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-021",
+        "label": "Boundary and professional quiet",
+        "claim": "Strength requires limits; reported reduced injury/papers is a professional good without inspected cause or count.",
+        "source_mode": "ACTUAL_POLICY_STATEMENT_AND_LOCAL_REPORT",
+        "source_input_refs": [
+          25,
+          27
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E001_DEEP_READING.md",
+            "bytes": 6176,
+            "sha256": "9661c11f60e8245080ac638e49cf1e85cd3f50bcab8f1c06aecc6ef10c2b5e77",
+            "git_blob_oid_of_actual_bytes": "cb42dcfd28688b7a3ecc7928792a0ac5a60fc321",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E011_DEEP_READING.md",
+            "bytes": 6657,
+            "sha256": "23bfd331dd0658c2349ce38fb1eb29d029e498a389ca0392f1c85c58543f0494",
+            "git_blob_oid_of_actual_bytes": "79e13a6075b1cd0a7b694462e9d0ff038ca22f46",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P016",
+          "section": 2,
+          "start_line": 49,
+          "end_line": 49,
+          "text": "S2V002 initially presents an ordinary institutional principle and then tests it under altered senior leadership. In C001E001, Chinatsu says force requires honoring a boundary; Hina connects that to preserving Gehenna freedom without total regulation. The ordinary policy declaration is useful evidence of what the later resistance recalls. It does not establish an audited history of perfect enforcement. E011 gives Chinatsu's reported decline in injury and paperwork. Quiet work and fewer injured students are genuine professional goods. Their reported improvement has no inspected denominator or isolated cause, and cannot be substituted for the later revelation of a coercive political program.\n",
+          "sha256_text_utf8": "8305d63c181906c808f08fc65ff36f40855cac7a6588566abfd1057790176b5d",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Not perfect enforcement history or quietness validating a coercive program.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-022",
+        "label": "Relief subject correction",
+        "claim": "Seniors align with conquest; juniors dissent; clarity/fatigue relief is Hina self-report, not Chinatsu.",
+        "source_mode": "SHOWN_DISAGREEMENT_AND_SPECIFIC_SELF_REPORT",
+        "source_input_refs": [
+          28,
+          29
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E016_DEEP_READING.md",
+            "bytes": 5936,
+            "sha256": "1a1dca914b3f37b1f2ae96856d9ad0c9de0b3224bbd04abd9cf79d81503737dc",
+            "git_blob_oid_of_actual_bytes": "88a70e39b5516bd798dbc3d36f318a3a6a91140a",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E017_DEEP_READING.md",
+            "bytes": 7065,
+            "sha256": "20c9e7505f3009034b3b4d2f012a2d02b19034b1d8e4c4d582bfd519605943a2",
+            "git_blob_oid_of_actual_bytes": "4020a13df46c7d43b7fb805b9914e0c5afadf3a7",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P017",
+          "section": 2,
+          "start_line": 51,
+          "end_line": 51,
+          "text": "C001E016–017 changes the public situation. Hina and Ako align with conquest, while Chinatsu and Iori are surprised and dissent. Chinatsu's account of Hina's earlier fear of abusing strength is distinct from Iori's formulation that her guns should protect ordinary students from arbitrary violence. The extraordinary clarity and fatigue relief in E017 belong to Hina's self-report; they are not a Chinatsu recovery. When an institutional leader feels relief, a subordinate still has reason to question the action producing it. This is a consequential contrast between improved subjective functioning and acceptable public purpose.\n",
+          "sha256_text_utf8": "0d6bb375efc5b6b9cfc31a76fcfb63d11c07e190dc8618c538274a5ea9904ad8",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No single group psychology or Chinatsu clinical recovery.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-023",
+        "label": "Sena care disagreement",
+        "claim": "Genuine mentor/colleague history persists while Chinatsu questions conquest and harm to students/civilians.",
+        "source_mode": "DIRECT_DYAD_TESTIMONY_AND_ETHICAL_CHALLENGE",
+        "source_input_refs": [
+          31,
+          11
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "bytes": 4655,
+            "sha256": "fee3693f064b66211324aa362aa14f126586eae8449f41c1c1b26220dc17e1cd",
+            "git_blob_oid_of_actual_bytes": "831af4fdb955225e7bdf42828a58a127b6f389d1",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT_SMALL_ANALYTICAL_OWNER_TO_EOF"
+          },
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_26000_E015_DEEP_READING.md",
+            "bytes": 8864,
+            "sha256": "d056c6df720d52098199f07548907b59a31ee0836e58b131babdd0f40a14f029",
+            "git_blob_oid_of_actual_bytes": "4a324d0a6cfe51151acdbb444350c3dc8f052041",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P018",
+          "section": 2,
+          "start_line": 53,
+          "end_line": 53,
+          "text": "The complete dyad in [S2V002C002E002](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md) makes the disagreement personally costly. Sena remembers wanting Chinatsu eventually to lead Emergency Medicine, and Chinatsu explains that she left to reach casualties sooner, not because Sena or the club failed her. Sena's pride and trust remain sincere on the page. They coexist with Sena's changed analogy: Kivotos as a patient, conquest as treatment and casualties as surgical bleeding. Chinatsu asks about students and civilians rather than allowing professional affection to settle the analogy's legitimacy. Her wish to bring Sena back preserves a relationship while refusing its present political conclusion. Familiar trusting eyes are a perception, not a test proving an unchanged psychological mechanism underneath.\n",
+          "sha256_text_utf8": "21f71b6ee8d9d6d987dadc944847d0cb9f55a83948d1955ef81de8c5724e358a",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Familiar eyes not preserved mechanism, medical diagnosis or necessity of violence.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-024",
+        "label": "Injured Iori and joint refusal",
+        "claim": "Juniors confront chair; Iori injuries explicit; joint boundary stronger than precise corrupted turn attribution.",
+        "source_mode": "ACTUAL_RESISTANCE_AND_LOCAL_RECOVERY_CONTEXT",
+        "source_input_refs": [
+          37,
+          38
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E017_DEEP_READING.md",
+            "bytes": 5659,
+            "sha256": "d46940e1868bd8be00867ad9f8f6299a583c0719d205ced88868f71c846c1372",
+            "git_blob_oid_of_actual_bytes": "b94090d61047a24fd5168b0b502ae3283d409653",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT_SMALL_ANALYTICAL_OWNER_TO_EOF"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+            "bytes": 9189,
+            "sha256": "b44db980586ea8a5dfc6b562bda71cfbb00aa5fb3ea91b4a2e3ade0617fa6a03",
+            "git_blob_oid_of_actual_bytes": "d7902f1ebd40e3e188674a35484b14650127b1cb",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT_SMALL_ANALYTICAL_OWNER_TO_EOF; POSITIVE_LITERAL_CONTEXT_NOT_INVENTED_INDIVIDUAL_ACT"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P019",
+          "section": 2,
+          "start_line": 55,
+          "end_line": 55,
+          "text": "The subsequent operation gives dissent practical costs. Plans, diversion and combat lead to the juniors confronting their chair in C002E017, with Iori's injuries explicitly recognized. Chinatsu and Iori recall the limit that Hina herself taught. Several polite turns are printed under Iori, so the joint boundary argument is firmer than a precise per-line allocation. Permission to rest is represented; completed treatment and restored readiness are not. E018 then gives a genuine local reversal and narrated closure of the NK Ultra incident, with Shoko's predicted inevitable destruction contradicted for recovered speakers. It does not provide an individual Chinatsu cognitive examination or every casualty's repair.\n",
+          "sha256_text_utf8": "06c04384389165127bac120928889435603e16c3b0de0c4161b1f66f403ff0a6",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No both-juniors clinical grades, readiness audit, willpower-only antidote or total victim repair.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-025",
+        "label": "Sena words and proposed inspection",
+        "claim": "Sena names sophistry and refuses erasure; Chinatsu reassurance coexists with joint-inspection/relay proposal.",
+        "source_mode": "DIRECT_ACCOUNTABILITY_AND_FUTURE_PROPOSAL",
+        "source_input_refs": [
+          39,
+          40
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E019_DEEP_READING.md",
+            "bytes": 6937,
+            "sha256": "441ff589c38e735330c452e0a18678f2fcdc9f606c2df46cf37be8c9eaf353fc",
+            "git_blob_oid_of_actual_bytes": "992e3cf283d81df9b4d8a76ebde2bd0856e87676",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md",
+            "bytes": 6284,
+            "sha256": "b34bcd9795960392094b70713bc37f60d7f70533651da167f84625c8fc2fe5a1",
+            "git_blob_oid_of_actual_bytes": "f7c1f247fbc6f44a939e9eb363ba710025e15838",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT_SMALL_ANALYTICAL_OWNER_TO_EOF"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P020",
+          "section": 2,
+          "start_line": 57,
+          "end_line": 57,
+          "text": "E019's accountability and E020's medical dyad must follow that recovery in the shown chapter order. Hina acknowledges her conduct and says action must answer for it. Sena remembers her own words, calls them sophistry and refuses the idea that they simply vanish. Chinatsu's reassurance does not erase that insistence. Sena proposes a joint inspection and Chinatsu intends to relay it. The proposal is an important institutional direction, and it is still a proposal. No inspection results, punishment, restitution or durable recurrence prevention can be inserted as the ending.\n",
+          "sha256_text_utf8": "ecb978a1f84890d87eada62f3702130594756a9bf2087f7a8365909d1ceaf964",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No performed inspection, restitution, sanction or durable recurrence prevention.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-026",
+        "label": "Eden vulnerability and help",
+        "claim": "Injured speaking Chinatsu accepts direction/aid; Hasumi recognition and later readiness remain source-scoped.",
+        "source_mode": "SHOWN_VULNERABILITY_RELATION_AND_READINESS",
+        "source_input_refs": [
+          47,
+          48,
+          49
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E018_DEEP_READING.md",
+            "bytes": 6085,
+            "sha256": "9ee4a1a5567665aaa8691c1f35e6bc8fc11875de45d850a437e9a22966a53bfa",
+            "git_blob_oid_of_actual_bytes": "257c9205388504c65b7df2d8888466fba626abc2",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E020_DEEP_READING.md",
+            "bytes": 3581,
+            "sha256": "74ce9fa8c36283090f09edc7a8da7dcae0f369c7d432aae04e1037a63a4927f4",
+            "git_blob_oid_of_actual_bytes": "a540a9367ea213aadad6967b172437faad48ecbb",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E021_DEEP_READING.md",
+            "bytes": 4199,
+            "sha256": "6cdc61197299860b771b019dbafbd6d3c1f19068e64c717b3d5c50eb1d431820",
+            "git_blob_oid_of_actual_bytes": "3d7db5c79d9caaef759f27e581d520e722e3085a",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P056",
+          "section": 6,
+          "start_line": 129,
+          "end_line": 129,
+          "text": "The Eden contexts offer useful cooperation with physical vulnerability still visible. V003C003E018 has Chinatsu injured, speaking and ordered by Sena to lie down. A corpse joke is not death; the text does not specify a clinical grade or prove complete recovery. In E020, recognition between Chinatsu and Hasumi and accepted aid make a cross-school connection useful amid danger. A reference to earlier acquaintance is a limited history, not a complete friendship timeline. E021's ready support and information do not prove every proposed contribution was executed or that all medical outcomes were good. These episodes preserve her as someone who both helps and can need help.\n",
+          "sha256_text_utf8": "a63af2aca35b8a9991093bb599716d095965decef2672d0a3399923192e4d08e",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "Not death, exact injury grade, complete recovery, whole prior friendship or every proposal executed.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-027",
+        "label": "Overworked holiday team",
+        "claim": "Chair holiday transfers labor; tired acquiescence differs from Iori refusal and36hour/allnight burden remains.",
+        "source_mode": "REPRESENTED_WORKLOAD_AND_DIFFERENT_RECIPIENT_CHOICES",
+        "source_input_refs": [
+          17
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "bytes": 16956,
+            "sha256": "3d6fbcf33bdd9e838d973de99a7c63aa1170cf038af5ace59b2255798cdfbe4a",
+            "git_blob_oid_of_actual_bytes": "dd42a515742142cca823fa1d94231f34df0ffbf3",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT_NORMAL_ANALYTICAL_OWNER_TO_EOF"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P059",
+          "section": 6,
+          "start_line": 135,
+          "end_line": 135,
+          "text": "EVENT804 presents another institutional hazard: sincere protection of Hina's rest moves labor onto her colleagues. Chinatsu's cautious preparation and eventual tired acquiescence are distinct from Iori's refusal. Later claims that everyone should have rested collide with the represented 36-hour/all-night burden and the answer that there is no time to rest. Compliance under this arrangement does not prove freely welcomed extra work. The event gives no universal clinical assessment, but it gives enough practical asymmetry to prevent describing the holiday simply as a successful team-care program. Her dislike of burdening the adult elsewhere is not proof that she can always refuse a superior's burden here.\n",
+          "sha256_text_utf8": "fddea9b840cc30ef4f2df8602426a98370051eee693144d446f32f8986631717",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No free blanket extra-work consent, all-peer rest or universal clinical state.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-028",
+        "label": "Qualified injury care",
+        "claim": "Accident interpretation acknowledges unknown; Iori life-not-endangered is in-world assessment and later return actual.",
+        "source_mode": "ASSESSMENT_AND_ACTUAL_RECOVERED_PARTICIPATION",
+        "source_input_refs": [
+          23
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 23127,
+            "sha256": "726724e475449815e8143b5e4ef5006d1b83a5740d8a58bc814df05b1319c1c7",
+            "git_blob_oid_of_actual_bytes": "7cdbef68c7c18446fbf40fdc6d14c3eea48372f8",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT119_LINE_NORMAL_ANALYTICAL_OWNER_TO_EOF"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P060",
+          "section": 6,
+          "start_line": 137,
+          "end_line": 137,
+          "text": "EVENT844 gives a more pointed medical comparison. Chinatsu listens to Juri and distinguishes an accident from a malicious attack without pretending to fully understand the creature. When Iori is found unconscious, Chinatsu and Sena assess her life as not endangered; Sena qualifies her taste-based explanation. Those are in-world judgments. The later return of Iori is actual participation, stronger than mere optimistic prognosis, without proving every proposed medical mechanism. Chinatsu's role includes uncertainty as well as reassurance.\n",
+          "sha256_text_utf8": "95af2cc182f2512a5b54dd5d04ac6e7690b5237b99de717e4de01d3c7250cd88",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No certified taste-cause or every medical hypothesis validated.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-029",
+        "label": "Painful treatment objection",
+        "claim": "Recipient protest, adult/Fuuka objections and Chinatsu method question constrain Sena universal applicability.",
+        "source_mode": "ACTUAL_UNWANTED_PAIN_AND_OBJECTION",
+        "source_input_refs": [
+          23
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 23127,
+            "sha256": "726724e475449815e8143b5e4ef5006d1b83a5740d8a58bc814df05b1319c1c7",
+            "git_blob_oid_of_actual_bytes": "7cdbef68c7c18446fbf40fdc6d14c3eea48372f8",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT119_LINE_NORMAL_ANALYTICAL_OWNER_TO_EOF"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P061",
+          "section": 6,
+          "start_line": 139,
+          "end_line": 139,
+          "text": "The painful awakening in E006 keeps the recipient's protest, the adult's and Fuuka's objections, and Chinatsu's question about using a method intended for other situations. Sena's universal-applicability assertion is not validated. Chinatsu's challenge has particular force because it comes from someone trained by and still respecting Sena. Yet she also participates in a familiar Gehenna repertoire of reassurance, and the event repeatedly tests claims that frequent emergencies are therefore insignificant. Objection is a good local act; it does not certify that she can independently prevent every mistreatment.\n",
+          "sha256_text_utf8": "97e28e315b878b698db7ed6d578cb2d5e53e3ff5a67180e78df25a0ce0756bde",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No validated medical advice, harmlessness or ability to prevent every case.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-030",
+        "label": "Damage forecast not result",
+        "claim": "Chinatsu forecasts risk; event later actual restraint/delegation/collective response and shared food differ.",
+        "source_mode": "QUALIFIED_FORECAST_VERSUS_COMPLETED_LOCAL_OUTCOMES",
+        "source_input_refs": [
+          23
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 23127,
+            "sha256": "726724e475449815e8143b5e4ef5006d1b83a5740d8a58bc814df05b1319c1c7",
+            "git_blob_oid_of_actual_bytes": "7cdbef68c7c18446fbf40fdc6d14c3eea48372f8",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT119_LINE_NORMAL_ANALYTICAL_OWNER_TO_EOF"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P062",
+          "section": 6,
+          "start_line": 141,
+          "end_line": 141,
+          "text": "Her forecast of obstructed targeting, city damage and political response when Ako mobilizes excessive guns is also prospective. The event later supplies actual restraint, bounded command transfer, Juri's decoy and a coordinated firing response. Chinatsu's forecast should not become an already observed destroyed city. The food creature's disposal and the incident's narrated end do not supply comprehensive victim, café or infrastructure repair. Juri's later offered pancakes include express refusal permission and actual accepted shared eating. That endpoint is important to the care comparison: effective help and renewed accomplishment do not require erasing recipient fear or imagining permanent safety.\n",
+          "sha256_text_utf8": "8ea48ff4750499d8f2a0f0f01f8b3528a1d35bc9887ffec94b4f8ff740045abf",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No destroyed whole city, universal food safety or completed all-victim repair.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-031",
+        "label": "Cross-school ordinary aid",
+        "claim": "Care protects enjoyment; nearby meeting leads to firefighting and reported substantial extinguishing/resumed occasion.",
+        "source_mode": "LOCAL_COOPERATION_AND_REPORTED_SUCCESS",
+        "source_input_refs": [
+          20,
+          22
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_811/BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "bytes": 21750,
+            "sha256": "8eb34eb0d4788b0fa54f62a5de5ba6f96d358978b47c42bff0182ad41ef37745",
+            "git_blob_oid_of_actual_bytes": "6f85372add8a9402297c5911b8c5f562f486e69e",
+            "actual_receiving_scope": "PRIOR_PERSONALLY_COMPLETE_HYAKKIYAKO_SHANHAIJING_NORMAL_OWNER; FRESH_COMPLETE74_126EOF"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 28709,
+            "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+            "git_blob_oid_of_actual_bytes": "68db40033aca83ee8ecfa3b1d7e60c329fb0b1a6",
+            "actual_receiving_scope": "PRIOR_PERSONALLY_COMPLETE_HYAKKIYAKO_SHANHAIJING_OWNER; FRESH_COMPLETE109_149EOF"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P063",
+          "section": 6,
+          "start_line": 143,
+          "end_line": 143,
+          "text": "EVENT811 and 835 show public care with different ambitions. In 811E010, nearby cross-school checking and adjustment help protect the enjoyment of others; missing capacity prompts aid rather than proving a complete central plan. In 835E015, Chinatsu and Iori arrive from a nearby meeting to help fight a fire. The report of substantial extinguishing and the resumed occasion are local successes. All damage, clinical outcomes and compensation are not audited. These episodes are valuable because concern can serve somebody's ordinary gathering as well as a military emergency.\n",
+          "sha256_text_utf8": "5d8f581d97e2d7b2daf88d7c9db4d9f28cc1bb211b2364de0a033d922a08bb14",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No perfect plan, global MAIN calendar, audited all damage or compensation.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-032",
+        "label": "Birthday and performance pleasure",
+        "claim": "Actual birthday/party pleasure, refused massage and written praise of Hina performance remain at their source modes.",
+        "source_mode": "ACTUAL_LOCAL_PLEASURE_WRITTEN_PRAISE_NO_AV",
+        "source_input_refs": [
+          24,
+          21,
+          18
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 93829,
+            "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+            "git_blob_oid_of_actual_bytes": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+            "actual_receiving_scope": "PRIOR_PERSONALLY_COMPLETE_GEHENNA_YUUKA_MINI32_ARGUMENT; FRESH_COMPLETE148_170_BIRTHDAY_SUBSECTION"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 38643,
+            "sha256": "caddd6c0c1ec580c91a7115d65c1619ebfb8f5fae399222d999043be479ed349",
+            "git_blob_oid_of_actual_bytes": "1f22aa11f3d42f4e4c18cd2009781abe3e0e818b",
+            "actual_receiving_scope": "PRIOR_PERSONALLY_COMPLETE18_EVENT_HOME_PARTITION_NORMAL_OWNER; FRESH_COMPLETE121_184EOF"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_808/BLUE_ARCHIVE_EVENT_808_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "bytes": 16468,
+            "sha256": "aa1a4e877dd00016b6f9a177339a81e2c52664e00582c52701c206f59765530c",
+            "git_blob_oid_of_actual_bytes": "36b57a18749b2661669c5aae1dc8981799e22da0",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT_NORMAL_ANALYTICAL_OWNER_TO_EOF"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P053",
+          "section": 5,
+          "start_line": 123,
+          "end_line": 123,
+          "text": "Public ordinary scenes broaden the account rather than only furnishing exceptions to crisis. In EVENT808 she wants the chair and bath to be enjoyable but refuses an adult massage and leaves. MINI05010–030 gives gift exchange, cake, karaoke mediation and a locally successful birthday occasion; the date lacks a year and does not date a MAIN transition. Reported incense effects are not certified sedation. In EVENT833, her praise belongs to the actual differentiated written responses to Hina's performance and the renewed party, while the video cue itself remains uninspected. Enjoyment and interrupted labor share a world. Neither should be deleted to create an uninterrupted tragedy or an untroubled comedy.\n",
+          "sha256_text_utf8": "4f6de3d5eb9f62da1e25fb20860213a1e567b454dfad6df2393047a5a7fa98bc",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No year/main-date anchor, clinical incense guarantee, heard music or whole-night outcome.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-033",
+        "label": "Final contextual limit",
+        "claim": "Response allocation, inward appreciation and sky montage are preserved without inventing individual final victory.",
+        "source_mode": "ASSIGNMENT_INWARD_APPRAISAL_ENSEMBLE_CONTEXT",
+        "source_input_refs": [
+          50,
+          51,
+          52
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E002_DEEP_READING.md",
+            "bytes": 8889,
+            "sha256": "d630c4abc79e08951a469e0f45703bca766026750a09e433ae6b14cb1ed54d8d",
+            "git_blob_oid_of_actual_bytes": "cf44268b1ea44a1ead03cf47bf0335b637d8adf9",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E011_DEEP_READING.md",
+            "bytes": 3302,
+            "sha256": "fefc7ae9097903e1d793e57482da2c617144f31831d7751870d79c06834685bf",
+            "git_blob_oid_of_actual_bytes": "7215152a0ab5079c39f0b8f64ac1637597675bbc",
+            "actual_receiving_scope": "PERSONALLY_RECEIVED_ALL_COMPLETE_CHARACTER_NAME_BEARING_PARAGRAPHS; NOT_WHOLE_OWNER_CLAIM"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E016_DEEP_READING.md",
+            "bytes": 7713,
+            "sha256": "e63d4a03696ab0d250ba75747a92de85b769a9d0e66e5f076dda0fc1fb379561",
+            "git_blob_oid_of_actual_bytes": "90e4fd95f70f1791b08bd199cbbd86cc9502024e",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT_SMALL_ANALYTICAL_OWNER_TO_EOF; POSITIVE_LITERAL_CONTEXT_NOT_INVENTED_INDIVIDUAL_ACT"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P064",
+          "section": 6,
+          "start_line": 145,
+          "end_line": 145,
+          "text": "Final's district allocation and changing-sky montage are narrower evidence. V100C002E002 assigns Gehenna response with Sena and Chinatsu amid label inversions; it does not narrate a completed whole-district evacuation by her. C002E011's inward appreciation of Hina's strength does not define other students as weak or dispensable. C003E016 has the changing-sky ground montage in a technically reversed ship situation; a literal header retrieves the context without proving a separately developed Chinatsu act from the whole ensemble summary. These scenes belong to the positive audit and to the character's public context, but their brevity must not be enlarged into a solo final victory.\n",
+          "sha256_text_utf8": "c47d4fa67e0847a17702888ad038ea619007b4a7b85485eaa01a6138c318da3c",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No whole evacuation, verified solo operation or secure named turn from drift.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-034",
+        "label": "Exact group seam correction",
+        "claim": "Complete G1902 preserves display/text actor distinctions and corrects two misnumbered G20 abbreviated routes.",
+        "source_mode": "EXACT_ACCEPTED_RAW_WITNESS_ATTRIBUTED_NOT_REPLAYED",
+        "source_input_refs": [
+          16,
+          56
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+            "bytes": 25362,
+            "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+            "git_blob_oid_of_actual_bytes": "17e378db57541ef25cb16e08f9a4db4e4111bc51",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_CURRENT154_LINE_ANALYTICAL_OWNER; SOURCE_STORY_LAYERS_AND3_ACTOR_SEAMS"
+          },
+          {
+            "source_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "bytes": 57532,
+            "sha256": "3f22db6cbdcd4e184f44bec9a1574fd26226e294694d05cff37c7ff6dbd4530d",
+            "git_blob_oid_of_actual_bytes": "ef5733fa79c59f3ef48312e176b88596c22f36e4",
+            "actual_receiving_scope": "PRIOR_PERSONALLY_COMPLETE_GEHENNA_CENSUS_ARGUMENT; CURRENT_COMPLETE_CHINATSU_NAMED_CLAUSES_FRESHLY_RECEIVED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P096",
+          "section": 9,
+          "start_line": 209,
+          "end_line": 209,
+          "text": "The final manager record in 10030E006 is raw local append order, not a new reconstructed chronological scene position chosen by suffix sorting. Similar care applies to GROUP1902. At scene 001u0002 the display actor is Makoto but the text-bearing command is Ako; at 001u0057 Chinatsu is displayed and Iori bears the text; at 003u0058 Makoto is displayed and Iroha bears the text. The clean next line separately supports the formal-processing limitation. The current Gehenna convergence's shortened seam clause misplaces two of these as 1901; the complete group witness supplies the exact 1902 routes. This monograph retains that explicit correction as an added source-specific record, without changing the frozen earlier owner.\n",
+          "sha256_text_utf8": "dc7faae9f3bc61ad4ef51eb33af83dc829a18e6b0567cb89611c6cb7b0e84381",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No silent canonical rewrite, new raw reading or transfer from generic G26 family label.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-035",
+        "label": "Actorless timed limits",
+        "claim": "Character-associated special UI parallels wording, but empty actor #st not heard confession; #na/inward/choices remain distinct.",
+        "source_mode": "WRITTEN_MODE_AND_BOUNDED_LINGUISTIC_PARALLEL",
+        "source_input_refs": [
+          6,
+          10,
+          12,
+          13
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_10030_E006_DEEP_READING.md",
+            "bytes": 9030,
+            "sha256": "5335cd2c4ea405eadfc1a6e43bef346241eeedd6b23ffbfff0d63c3fd5a949c1",
+            "git_blob_oid_of_actual_bytes": "1eb387c8c0c43b431ed05fdd1177c03bb8e44cc3",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          },
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_BOND_26000_E006_DEEP_READING.md",
+            "bytes": 8521,
+            "sha256": "01e0efc389d0e3fc79bedfe560f6583300771724521b206b157d8afff1cb4dd9",
+            "git_blob_oid_of_actual_bytes": "6e57379dd6596e7fd0497078de1b516ffcaa9137",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_MAINTAINED_ANALYTICAL_ARGUMENT_TO_EOF_INCLUDING_FULL_MESSAGE_TAIL; PRIOR_PRIMARY_CUSTODY_ATTRIBUTED"
+          },
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_CHARACTER_DATA_10030_DEEP_READING.md",
+            "bytes": 8165,
+            "sha256": "e627fbf1a27cbe85ae211a663a5fa4be1d93316bcbc5b3a50084f778e4319053",
+            "git_blob_oid_of_actual_bytes": "483d8bfb4e403f08a450a221d504dc8aeca039d4",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_WRITTEN_ANALYTICAL_ARGUMENT_TO_EOF; MODES/CONDITIONS_RETAINED"
+          },
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_CHARACTER_DATA_26000_DEEP_READING.md",
+            "bytes": 8483,
+            "sha256": "9b000243b68fe5a7956a8d0adc35831b8c7ad09057dac36b9f0f930be19d355f",
+            "git_blob_oid_of_actual_bytes": "468279ecf672625c3933b13f19be2b2f14628a7a",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_WRITTEN_ANALYTICAL_ARGUMENT_TO_EOF; MODES/CONDITIONS_RETAINED"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P095",
+          "section": 9,
+          "start_line": 207,
+          "end_line": 207,
+          "text": "The actorless timed `#st` passages in 10030E006 and 26000E006 require particular care. Character-associated UILobbySpecial 3064–3069 and 1345–1355 can supply a bounded linguistic parallel. They do not retrospectively place a heard Chinatsu actor on the bond's empty-actor sequence. Numbered inward markers inside a record are not necessarily formal choice groups. Named `#na`, narration, thought, options and dialogue remain separate. A body paragraph that interpreted them all as a continuous aloud confession would give the adult knowledge the source does not establish.\n",
+          "sha256_text_utf8": "65ee9efe16491deb08e6d0e7cb0b21432744df2d3835200f24916c7525c39c2b",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No performance, adult audience knowledge or numbered-marker formal-group inflation.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      },
+      {
+        "claim_id": "CHINATSU-LIT-036",
+        "label": "Whole comparative responsibility",
+        "claim": "F082/A099 and same positive person variants form one character home; all14 OPEN and directed/institution duties remain separate.",
+        "source_mode": "LITERARY_CANDIDATE_SCOPE_NOT_ACCEPTANCE",
+        "source_input_refs": [
+          0,
+          1,
+          55
+        ],
+        "exact_source_input_tuples": [
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_independent_parent_review_resume_architecture_20261002_v1/coherent_final13/series/blue-archive/02 Sequential Readings/BOND/CHINATSU/BLUE_ARCHIVE_CHINATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 19130,
+            "sha256": "57232d9849303bbaaa4d98c56fcbbcb341f1a71fb46b8fd9955b61f6d0b312c1",
+            "git_blob_oid_of_actual_bytes": "ed690c535234c57782a1b17a80c8fcec17b0e96b",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_ACCEPTED_EXTERNAL_ANALYTICAL_ARGUMENT_TO_EOF; NONCURRENT_R_DRAFT_NOT_PROMOTED"
+          },
+          {
+            "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/chinatsu_ROOT_new_G09_E011_E017_contextualization_20261004_v1/PRIVATE_NEW_CHINATSU_PRIVATE021_FINAL013_G09_MAIN_E011_E017_CONTEXTUALIZATION_LOCATOR_SUCCESSOR_V2.md",
+            "bytes": 12964,
+            "sha256": "f3ab0635018ef26072a1eea489cda58d56bbdce5d9e6b29a5006cca1e2cc40b0",
+            "git_blob_oid_of_actual_bytes": "01eeae71d0ccb20ff6ce1b6a65c3ca8f634de80f",
+            "actual_receiving_scope": "PERSONALLY_COMPLETE_ACCEPTED_EXTERNAL_ANALYTICAL_ARGUMENT_TO_EOF; NONCURRENT_R_DRAFT_NOT_PROMOTED"
+          },
+          {
+            "source_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "bytes": 52261,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+            "git_blob_oid_of_actual_bytes": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+            "actual_receiving_scope": "GOVERNANCE_PRIOR_WHOLE; CURRENT302_363_REQUIRED11SECTIONS_VISIBLE_COMPLETE"
+          }
+        ],
+        "canonical_candidate_paragraph": {
+          "block_id": "CHINATSU-P123",
+          "section": 11,
+          "start_line": 263,
+          "end_line": 263,
+          "text": "This draft owns the substantial eleven-section literary argument for `P3-CHAR-CHINATSU`, positively joined family F082 and dated retrieval A099, retaining the latter's empty raw person join. The two variants supply one character responsibility, not two independent people or an invented variant chronology. The current full-cast 355/29 scope remains an attributed accepted governance context; writing this candidate creates no additional required home, frozen denominator, accepted monograph or milestone credit. ROOT must independently receive and decide adoption. Directed relationships, Prefect ensemble and care/governance institutions remain separate analytical responsibilities even where their evidence is discussed here.\n",
+          "sha256_text_utf8": "95baa53adcd2483ec8a656c9b8b3f65e5c8d9781c7f264ba1ecd092449c7ac4b",
+          "terminal_LF_is_actual_text": true,
+          "receiving": "ACTUAL_FULL_SAVED_BODY_RECEIVED; EXACT_MATCH_NOT_NEW_SOURCE_CREDIT"
+        },
+        "contrary_or_outcome_limit": "No denominator/milestone/model promotion, absent-source filter or completion of other homes.",
+        "status": "BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+        "operational_model_rule": false
+      }
+    ],
+    "all14_gaps": "OPEN; bodysection11 exact fourteen rows",
+    "credit": "Claim/body join and precise source scopes; no new primary/source/model/other-home completion."
+  },
+  "historical_coordinates": "Original paragraph/claim coordinates remain frozen. Complete canonical saved-line mappings govern current retrieval; explicit authority/scope framing supplies no retroactive source or other package credit.",
+  "canonical_saved_line_mapping": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHINATSU_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_source_or_literary_credit": 0
+}
