@@ -3216,5 +3216,26 @@
     "git_blob_oid_of_actual_bytes": "7047e8b8d82c41641a785e2ebff2eb6bb3360025"
   },
   "canonical_link_translations": [],
-  "mandatory_operative_qualification": "All194 literary lines,47 claim paragraphs, ten end tests and nine rivals retain both directions, wanted company/service, independent peers and actual refusals.22 source qualifications retain their individual whole/scoped custody. The birthday source note specifies earlier cold atmosphere and actual successful party separately; the exact inherited Hina sentence correction is maintenance, not another package."
+  "mandatory_operative_qualification": "All194 literary lines,47 claim paragraphs, ten end tests and nine rivals retain both directions, wanted company/service, independent peers and actual refusals.22 source qualifications retain their individual whole/scoped custody. The birthday source note specifies earlier cold atmosphere and actual successful party separately; the exact inherited Hina sentence correction is maintenance, not another package. 2026-10-11 operative correction: Hina mistakes Ako's invitation for Ako's disguised leave request and apologizes that Ako should not have to lie for time off. Ako's imagined report is twenty-thousand characters, not words; it remains an internal demand. See operative_source_consistency_correction and its versioned register; historical wording is retained without current endorsement of these corrected details.",
+  "operative_source_consistency_correction": {
+    "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+    "correction_ids": [
+      "BA-SC-20261011-01",
+      "BA-SC-20261011-06"
+    ],
+    "qualification": "Hina mistakes Ako's invitation for Ako's disguised leave request and apologizes that Ako should not have to lie for time off. Ako's imagined report is twenty-thousand characters, not words; it remains an internal demand.",
+    "effective_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_HINA_AKO_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 46691,
+      "sha256": "e77e71657099e4980358dd518ec7b23e62d716cd2bf24d16ceb2cd633e79dfb3",
+      "git_blob_oid_of_actual_bytes": "bfa46c17ec4e705c02ff26917b79b8d916da121f"
+    },
+    "prior_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_HINA_AKO_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 46344,
+      "sha256": "04bdc37df0072cf17cff41793b2fd816ebb0bec4cd4ba63469021c7773522309",
+      "git_blob_oid_of_actual_bytes": "7047e8b8d82c41641a785e2ebff2eb6bb3360025"
+    },
+    "preservation": "Original author/ROOT payloads, receipt decisions, source and paragraph hashes, attachment tuples, authority-framing snapshots and complete inverse ranges remain historical and unchanged. This dated correction governs current claim/endpoint use and the effective body binding; earlier canonical tuples and exact-unchanged-line labels describe the pre-correction snapshot. It does not claim new ROOT receiving, primary/media inspection, source admission, character identity, package, model, milestone or integration credit."
+  }
 }
