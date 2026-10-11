@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import copy
+import errno
 import hashlib
 import io
 import json
@@ -18,6 +19,7 @@ sys.path.insert(0, str(ROOT / 'tools'))
 from nightly_integration import (
     AUDIT, AUDIT_WORKFLOW, AUTHOR, COMMITTER, GENERATED, OWNER, REPOSITORY,
     ApiError, Blocked, GitError, GitHub, Graph, Halt, Integrator, main, protection_method, scoped_paths,
+    temporary_graph_directory,
 )
 from character_index_core import GitSnapshot, SnapshotEntry
 from validate_repository import validate_nightly_integration
@@ -665,7 +667,213 @@ class PreviewResultTests(unittest.TestCase):
                 self.assertNotIn('::warning::', output)
 
 
+class CleanupTests(unittest.TestCase):
+    def invoke(self, errors, *, outcome='success', original=None):
+        # Exercise the real CLI, integration, and receipt paths without network.
+        worker = Integrator(FakeAPI(), graph_mock(), preview=False, controller_sha=B)
+        worker.graph.ancestor.side_effect = lambda base, head: base == B and head == G
+        worker.graph.reconcile_commit.return_value = G
+        def pushed(branch, sha, token):
+            worker.api.source = sha
+            worker.api.pr['head']['sha'] = sha
+        worker.graph.push.side_effect = pushed
+        request, pages = worker.api.request, worker.api.pages
+        created = False
+        def request_with_creation(method, path, payload=None):
+            nonlocal created
+            if (method, path) == ('POST', 'pulls'):
+                created = True
+                worker.api.writes.append((method, path, payload))
+                return worker.api.pr
+            return request(method, path, payload)
+        worker.api.request = request_with_creation
+        worker.api.pages = lambda path: pages(path) if path == 'branches' or created else []
+        if outcome == 'blocked':
+            status = worker.api.status
+            worker.api.status = lambda sha: {'id': 1, 'state': 'failure'} if sha == S else status(sha)
+        elif outcome == 'post_failure':
+            worker.api.post_failure = True
+        if original is not None:
+            worker.run = mock.Mock(side_effect=original)
+
+        with tempfile.TemporaryDirectory() as directory:
+            temporary = tempfile.TemporaryDirectory(dir=directory)
+            remove = temporary._rmtree
+            pending, receipts = list(errors), []
+            def cleanup(*args, **kwargs):
+                receipts.append((Path('nightly-integration-report.json').read_bytes(),
+                                 Path('summary.md').read_bytes()))
+                if pending:
+                    raise pending.pop(0)
+                return remove(*args, **kwargs)
+            previous = Path.cwd()
+            result, failure = None, None
+            try:
+                os.chdir(directory)
+                with mock.patch.dict(os.environ, {
+                    'GITHUB_REPOSITORY': REPOSITORY, 'GITHUB_SHA': B,
+                    'GITHUB_REF': 'refs/heads/main', 'GITHUB_ACTIONS': 'true',
+                    'OWNER_TOKEN': 'test', 'GITHUB_STEP_SUMMARY': 'summary.md',
+                }), mock.patch.object(sys, 'argv', ['nightly_integration', '--mode', 'apply', '--branch', 'series/a']), \
+                        mock.patch('nightly_integration.Graph'), \
+                        mock.patch('nightly_integration.Integrator', return_value=worker), \
+                        mock.patch('nightly_integration.tempfile.TemporaryDirectory', return_value=temporary), \
+                        mock.patch.object(temporary, '_rmtree', side_effect=cleanup) as removal, \
+                        mock.patch('nightly_integration.time.sleep') as sleep, \
+                        mock.patch('sys.stdout', new_callable=io.StringIO) as output:
+                    try:
+                        result = main()
+                    except BaseException as exc:
+                        failure = exc
+                report_bytes = Path('nightly-integration-report.json').read_bytes()
+                summary = Path('summary.md').read_bytes()
+                self.assertTrue(all(pair == (report_bytes, summary) for pair in receipts))
+                self.assertIn(report_bytes.decode(), output.getvalue())
+                if failure is None or failure is original:
+                    self.assertFalse(Path(temporary.name).exists())
+            finally:
+                os.chdir(previous)
+                temporary.cleanup()
+        return result, failure, json.loads(report_bytes), worker, removal.call_count, sleep.call_args_list
+
+    def assert_single_integration(self, worker):
+        worker.graph.push.assert_called_once_with('series/a', G, worker.api.token)
+        self.assertEqual([(method, path) for method, path, _ in worker.api.writes], [
+            ('POST', 'pulls'), ('PUT', 'pulls/8/merge'), ('POST', 'dispatches'),
+        ])
+        self.assertEqual(worker.api.writes[1][2], {'sha': G, 'merge_method': 'merge'})
+        self.assertEqual(worker.api.writes[2][2], {
+            'event_type': 'audit-generated-commit', 'client_payload': {'commit_sha': M, 'branch': 'main'},
+        })
+
+    def test_transient_cleanup_preserves_success_and_never_replays_remote_mutations(self):
+        errors = [OSError(errno.ENOTEMPTY, 'Directory not empty', 'pack') for _ in range(2)]
+        result, failure, report, worker, attempts, sleeps = self.invoke(errors)
+        self.assertEqual((result, failure, attempts, sleeps), (0, None, 3, [mock.call(1), mock.call(1)]))
+        self.assertEqual(len(report['branches']), 1)
+        row = report['branches'][0]
+        self.assertEqual((row['outcome'], row['pr'], row['final_source_sha'], row['integration_sha']),
+                         ('merged_verified', 8, G, M))
+        self.assert_single_integration(worker)
+
+    def test_persistent_cleanup_fails_after_bounded_attempts_without_losing_receipts(self):
+        error = OSError(errno.ENOTEMPTY, 'Directory not empty', 'pack')
+        result, failure, report, worker, attempts, sleeps = self.invoke([error] * 3)
+        self.assertIsNone(result)
+        self.assertIs(failure, error)
+        self.assertEqual((attempts, sleeps), (3, [mock.call(1), mock.call(1)]))
+        self.assertEqual(report['branches'][0]['outcome'], 'merged_verified')
+        self.assertEqual(report['branches'][0]['integration_sha'], M)
+        self.assert_single_integration(worker)
+
+    def test_other_cleanup_errors_fail_immediately_even_after_a_retry(self):
+        for code in (errno.EACCES, errno.EIO, errno.ENOENT):
+            for transient_first in (False, True):
+                with self.subTest(code=code, transient_first=transient_first):
+                    error = OSError(code, 'cleanup failed')
+                    errors = ([OSError(errno.ENOTEMPTY, 'race')] if transient_first else []) + [error]
+                    result, failure, report, worker, attempts, sleeps = self.invoke(errors)
+                    self.assertIsNone(result)
+                    self.assertIs(failure, error)
+                    self.assertEqual(attempts, len(errors))
+                    self.assertEqual(sleeps, [mock.call(1)] if transient_first else [])
+                    self.assertEqual(report['branches'][0]['outcome'], 'merged_verified')
+                    self.assert_single_integration(worker)
+
+    def test_transient_cleanup_does_not_turn_failed_operations_into_success(self):
+        for outcome in ('blocked', 'post_failure'):
+            with self.subTest(outcome=outcome):
+                result, failure, report, worker, attempts, sleeps = self.invoke(
+                    [OSError(errno.ENOTEMPTY, 'race')], outcome=outcome)
+                self.assertEqual((result, failure, attempts, sleeps), (1, None, 2, [mock.call(1)]))
+                if outcome == 'blocked':
+                    self.assertEqual(report['branches'][0]['outcome'], 'blocked')
+                    self.assertEqual(worker.api.writes, [])
+                    worker.graph.push.assert_not_called()
+                else:
+                    self.assertEqual(report['branches'][0]['outcome'], 'integrated_unverified')
+                    self.assertEqual(report['branches'][0]['integration_sha'], M)
+                    self.assertEqual(report['branches'][-1]['outcome'], 'halted')
+                    self.assertIn('post-merge audit failed', report['branches'][-1]['detail'])
+                    self.assert_single_integration(worker)
+
+    def test_persistent_cleanup_keeps_original_operation_failure_in_report(self):
+        error = OSError(errno.ENOTEMPTY, 'race')
+        _, failure, report, worker, attempts, _ = self.invoke([error] * 3, outcome='post_failure')
+        self.assertIs(failure, error)
+        self.assertEqual(attempts, 3)
+        self.assertEqual(report['branches'][0]['outcome'], 'integrated_unverified')
+        self.assertEqual(report['branches'][0]['integration_sha'], M)
+        self.assertIn('post-merge audit failed', report['branches'][-1]['detail'])
+        self.assert_single_integration(worker)
+
+    def test_unhandled_original_exception_survives_successful_cleanup_retry(self):
+        for original in (RuntimeError('unexpected operation failure'), KeyboardInterrupt()):
+            with self.subTest(original=type(original).__name__):
+                result, failure, _, worker, attempts, _ = self.invoke(
+                    [OSError(errno.ENOTEMPTY, 'race')], original=original)
+                self.assertIsNone(result)
+                self.assertIs(failure, original)
+                self.assertIsNotNone(original.__traceback__)
+                self.assertEqual(attempts, 2)
+                worker.run.assert_called_once_with('series/a')
+                self.assertEqual(worker.api.writes, [])
+
+    def test_simultaneous_operation_and_cleanup_exceptions_are_both_preserved(self):
+        for original in (RuntimeError('unexpected operation failure'), KeyboardInterrupt()):
+            with self.subTest(original=type(original).__name__):
+                cause = ValueError('original cause')
+                original.__cause__ = cause
+                cleanup_error = OSError(errno.ENOTEMPTY, 'race')
+                _, failure, _, worker, attempts, _ = self.invoke([cleanup_error] * 3, original=original)
+                self.assertIsInstance(failure, BaseExceptionGroup)
+                self.assertEqual(failure.exceptions, (original, cleanup_error))
+                self.assertIs(original.__cause__, cause)
+                self.assertIsNotNone(original.__traceback__)
+                self.assertIsNotNone(cleanup_error.__traceback__)
+                self.assertEqual(attempts, 3)
+                worker.run.assert_called_once_with('series/a')
+                self.assertEqual(worker.api.writes, [])
+
+    def test_real_pack_directory_race_is_removed_on_retry(self):
+        remove, raced = os.rmdir, False
+        with mock.patch('nightly_integration.time.sleep') as sleep:
+            with temporary_graph_directory() as directory:
+                pack = Path(directory) / 'objects' / 'pack'
+                pack.mkdir(parents=True)
+                (pack / 'old.pack').write_bytes(b'old')
+                def late_write(path, *args, **kwargs):
+                    nonlocal raced
+                    if path == 'pack' and not raced:
+                        raced = True
+                        (pack / 'late.pack').write_bytes(b'late')
+                    return remove(path, *args, **kwargs)
+                patch = mock.patch('os.rmdir', side_effect=late_write)
+                patch.start()
+                self.addCleanup(patch.stop)
+            patch.stop()
+        self.assertTrue(raced)
+        self.assertFalse(Path(directory).exists())
+        sleep.assert_called_once_with(1)
+
+
 class RealGitTests(unittest.TestCase):
+    def test_automatic_maintenance_is_disabled_only_in_disposable_graph(self):
+        with tempfile.TemporaryDirectory() as temp:
+            directory = Path(temp)
+            config = directory / 'global-config'
+            inherited = b'[maintenance]\n\tauto = true\n[gc]\n\tauto = 1\n'
+            config.write_bytes(inherited)
+            graph_path = directory / 'graph'
+            graph_path.mkdir()
+            with mock.patch.dict(os.environ, {'GIT_CONFIG_GLOBAL': str(config), 'GIT_CONFIG_NOSYSTEM': '1'}):
+                graph = Graph(graph_path)
+                self.assertEqual(graph.git('config', '--show-scope', '--get', 'maintenance.auto'), 'local\tfalse')
+                self.assertEqual(graph.git('config', '--show-scope', '--get', 'gc.auto'), 'local\t0')
+                self.assertEqual(graph.git('config', '--global', '--get', 'maintenance.auto'), 'true')
+                self.assertEqual(graph.git('config', '--global', '--get', 'gc.auto'), '1')
+            self.assertEqual(config.read_bytes(), inherited)
+
     def test_squashed_tip_with_later_main_index_edit_is_already_integrated(self):
         with tempfile.TemporaryDirectory() as temp:
             graph = Graph(Path(temp))
