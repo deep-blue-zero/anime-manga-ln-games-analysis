@@ -4,13 +4,13 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.73"
+version: "12.74"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 244 non-Main i-n-g episodes / T7S_B0080–T7S_B0169 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 247 non-Main i-n-g episodes / T7S_B0080–T7S_B0170 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-12
@@ -41,19 +41,19 @@ substantive_findings_at_bootstrap: false
 execution_scope: continuous_sequential_remaining_2034_to_era_release
 sequential_execution:
   mode: continuous_sequential
-  latest_operation: T7S_B0169_CLOSE
+  latest_operation: T7S_B0170_CLOSE
   status: ACTIVE
   authorized_start: T7S_B0160
   terminal_boundary: T7S_STACK_2034_ERA_RELEASE_COMPLETE
-  committed_high_water: T7S_B0169
-  completed_run_blocks: 10
+  committed_high_water: T7S_B0170
+  completed_run_blocks: 11
   remaining_run_blocks: NOT_FIXED_RELEASE_REQUIREMENTS_GOVERN
   confirmation_between_units: false
   execution_record: "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md"
-  next_candidate_episode_id: "612202701"
-  next_candidate_family_layer_id: "200270"
-  next_candidate_native_chapter_layer_id: "301420"
-  next_candidate_status: "AUTHORIZED_REMAINING_2034_RUN_NOT_CONSUMED: B0170; terminal boundary is complete 2034 era release"
+  next_candidate_episode_id: "612202801"
+  next_candidate_family_layer_id: "200280"
+  next_candidate_native_chapter_layer_id: "301430"
+  next_candidate_status: "AUTHORIZED_REMAINING_2034_RUN_NOT_CONSUMED: B0171; terminal boundary is complete 2034 era release"
 major_story_structures:
   T7S_STACK_2034:
     native_main_group: "2034年"
@@ -62,7 +62,7 @@ major_story_structures:
     native_main_families_total: 11
     closed_main_families: 11
     remaining_main_family_layer_ids: []
-    current_semantic_horizon: "through complete EPISODE NANASUTA / T7S_B0079 plus first 90 complete i-n-g chapters / T7S_B0080–T7S_B0169"
+    current_semantic_horizon: "through complete EPISODE NANASUTA / T7S_B0079 plus first 91 complete i-n-g chapters / T7S_B0080–T7S_B0170"
     eligible_non_main_closeout: ROUTING_AUDIT_COMPLETE
     non_main_portfolio_status: IN_PROGRESS
     declared_character_release: NOT_STARTED
@@ -81,7 +81,7 @@ major_story_structures:
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds the full remaining source and analytical obligations. [B0169](02%20Readings/T7S_B0169_DEEP_READING.md) is the closed checkpoint: Yumeno turns ordinary tea service, cake sharing, encouragement over a cat photograph and QOP's arrival into elaborate romantic scenarios while her doujinshi manuscript fails to advance. Actual kindness, questions, denials and distress resist the invented relationships. Matsuri permits imagination but forbids bothering Tasha; familiarity and reported tolerance do not establish unlimited consent or absence of costs. Player's zero-page observation qualifies the claim that imagination does not interfere with work without disproving every band-work report. A nocturnal represented rebuke becomes jealousy and confession, reversing Yumeno from spectator to desired participant and recombining her earlier motifs. Its precise sleep onset is unmarked: the opening admonition is not certified waking history, and the romantic pivot is not a sleep timestamp. The morning frame shows Yumeno asleep beside a blank manuscript. Coney corroborates lodging permission for promised productivity, then accepts a happy-looking face as consolation; Player attends to the work and attempts waking at his stated ten in the morning. No actual waking, submission, printer response, real confession, kiss, reciprocal romance or reflective reform is shown. The case preserves imaginative pleasure, actual social limits and unfinished authorship without promoting readiness or performed-channel evidence. The current program has closed 10 source blocks / 30 primary episodes; 730 eligible story episodes plus supplemental and release work remain. The next authorized but unread chapter is `301420` / **アルコール・ラプソディー** / 浅見ミワコ, episodes `612202701 / 612202702 / 612202703`, assigned B0170. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
+**Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds the full remaining source and analytical obligations. [B0170](02%20Readings/T7S_B0170_DEEP_READING.md) is the closed checkpoint: An adult gathering offers Miwako peer company beyond her teaching role, with QOP's sister-like bond and Mimi's practical advice supplying distinct forms of older-person care. Mimi's partner joke is corrected to a photograph of a car rented with friends, not an actual lover or sole ownership. Companionship remains valuable, but the stated moderation boundary is not maintained: refill pressure, repeated grievance and comfort requests burden Player, while Murasaki ultimately undertakes cleanup rather than the abandonment he anticipates. Coney's tracking claim and Player's unverified Rona/snack report remain attributed; her removal does not resolve the adults' continuing demands. Water, provisional assessment, rest plans and escort allocation are local care, not a medical cure. During the route toward home, Player carries Miwako and receives her fear that only the teacher container makes her useful. Her report of affectionate pupils and his supportive assessment resist that fear without supplying pupil testimony. She hesitates, accepts local reassurance and asks to remain supported a little longer; no home arrival, romance or durable reform is shown. The next morning differentiates Miwako's absent recall, Matsuri's limited recall and Mimi's uncertain impression. Miwako's parenthesized question receives actual replies; Player leaves the disclosure unrepeated and acknowledges Miwako herself. Face-preserving discretion is a bounded interpretation, not proof of no disclosure, recovered memory, others' overhearing or lasting repair. Existing character horizons, supplementation, actual listening and full 2034 release obligations remain intact. The current program has closed 11 source blocks / 33 primary episodes; 727 eligible story episodes plus supplemental and release work remain. The next authorized but unread chapter is `301430` / **Моя семья** / ターシャ・ロマノフスキー, episodes `612202801 / 612202802 / 612202803`, assigned B0171. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
 
 ## Governing and cumulative homes
 
@@ -234,16 +234,16 @@ Reader-facing Latin spelling follows first-party evidence: **Coney Rokusaki** in
 | Scope | Inventoried | Semantically screened | Factually reconstructed | Closely analyzed | Integrated state |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Main | 364 | 235 | 235 | 235 | 235 |
-| Sub | 755 | 744 | 244 | 244 | 244 |
+| Sub | 755 | 744 | 247 | 247 | 247 |
 | Event | 231 | 231 | 0 | 0 | 0 |
 | Additional scripts / logical occurrences | 228 unique scripts | 219 unique scripts | 86 / 87 | 86 / 87 | 86 / 87 |
 | Supplemental records | 30,991 | 26,844 | 0 | 0 | 0 |
 
 Screening counts are recomputed from the logical ledger, expanding shard-local defaults. The Sub screening count includes the one excluded crossover episode; only 743 Sub episodes belong to the eligible 2034 portfolio. Supplemental screening counts use active leaf tranches only and do not double-count the two inactive split parents. Screening/routing is not reconstruction or audiovisual review.
 
-The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA. Recommendation ranks 1–235 are now admitted without a hole. EPISODE 3.0's 42 qualified family-`200070` documents `{611100101–611100902, 611101001–611101704}` remain chapter-defined and are not duplicated: ranks 161–162 carry its first two records and ranks 179–218 carry its remaining forty. NANASUTA is the distinct family-`200120` range `1013100101–1013100306` at ranks 219–235. Eighty-seven additional inline movie-transcript occurrences are consumed only as attachments to their invoking AXiS, EPISODE 0.7, EPISODE 5.0, or EPISODE 6.0 pages; one Episode 6.0 source document is invoked in two contexts and the coverage ledger preserves both logical occurrences. The 244 T7S_B0080–T7S_B0169 Sub documents are also consumed; remaining eligible Sub/Event resources are screened/routed but not yet reconstructed, and supplemental integration remains incomplete.
+The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA. Recommendation ranks 1–235 are now admitted without a hole. EPISODE 3.0's 42 qualified family-`200070` documents `{611100101–611100902, 611101001–611101704}` remain chapter-defined and are not duplicated: ranks 161–162 carry its first two records and ranks 179–218 carry its remaining forty. NANASUTA is the distinct family-`200120` range `1013100101–1013100306` at ranks 219–235. Eighty-seven additional inline movie-transcript occurrences are consumed only as attachments to their invoking AXiS, EPISODE 0.7, EPISODE 5.0, or EPISODE 6.0 pages; one Episode 6.0 source document is invoked in two contexts and the coverage ledger preserves both logical occurrences. The 247 T7S_B0080–T7S_B0170 Sub documents are also consumed; remaining eligible Sub/Event resources are screened/routed but not yet reconstructed, and supplemental integration remains incomplete.
 
-Across B0001–B0169 the repository contains 169 bounded readings, 830 causal events, 25 world states, 47 threads, 971 typed edges, 98 identity routes, 80 character states, 603 epistemic states, 773 directional relationships, 28 unit/institution states, 29 retained R2 readiness decisions, 814 literary claims, 42 revisions, seven frozen predictions, and 116 AV-review records. The i-n-g horizon totals 244 primary episodes / 19,177 pages / 17,011 text records / 2,166 command-only pages / 13,064 dialogue-associated voice-reference pages. Per-unit source-lock receipts bind reviewed static assets and exact modality limits. No total order among chapters or against Main, performed-audio claim, monograph, or specialist synthesis is promoted.
+Across B0001–B0170 the repository contains 170 bounded readings, 846 causal events, 25 world states, 47 threads, 991 typed edges, 98 identity routes, 80 character states, 619 epistemic states, 795 directional relationships, 28 unit/institution states, 29 retained R2 readiness decisions, 822 literary claims, 42 revisions, seven frozen predictions, and 117 AV-review records. The i-n-g horizon totals 247 primary episodes / 19,450 pages / 17,258 text records / 2,192 command-only pages / 13,225 dialogue-associated voice-reference pages. Per-unit source-lock receipts bind reviewed static assets and exact modality limits. No total order among chapters or against Main, performed-audio claim, monograph, or specialist synthesis is promoted.
 
 ## Major-story-structure transition state
 
@@ -307,7 +307,7 @@ The [seven EPISODE 6.0 readings](02%20Readings/T7S_B0070_DEEP_READING.md) follow
 
 The [three EPISODE NANASUTA readings](02%20Readings/T7S_B0077_DEEP_READING.md) follow Kyoko and Ferb through film-image strain and person-specific rehearsal; Sumire and Kazumi through privacy breach, mutual misreading, sexist television framing, and mismatch-compatible coordination; and Haru, Shirayuki, and a child fan through weather disruption, support, failed reception, disclosure, labor, and repair. Their [compact synthesis](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_NARRATIVE_SYNTHESIS.md) owns causal, character, knowledge, relationship, unit, and world-state closeout. The promoted [arc deep reading](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_ARC_DEEP_READING.md) independently reads the title triptych—hand offered, shoulder wetted, small umbrella—as a formal account of care that is partial, revisable, directional, and limited by reception. Rain repeatedly suspends a planned route so ordinary micro-infrastructure can become visible. Deleting the arc reading would erase the cross-chapter relation among specific attention, non-assimilative coordination, and failed-but-circulating care.
 
-There is no remaining candidate within the admitted series-`100020` 2034 Main recommendation range. The i-n-g portfolio closes 90 chapters through `T7S_B0169`. The [2034 completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) authorizes the full remaining 2034 work. The next authorized but unread chapter is `301420` / **アルコール・ラプソディー** / 浅見ミワコ, episodes `612202701 / 612202702 / 612202703`, assigned B0170. Physical source order is a routing axis, not total chronology, and no 2053 semantics are authorized.
+There is no remaining candidate within the admitted series-`100020` 2034 Main recommendation range. The i-n-g portfolio closes 91 chapters through `T7S_B0170`. The [2034 completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) authorizes the full remaining 2034 work. The next authorized but unread chapter is `301430` / **Моя семья** / ターシャ・ロマノフスキー, episodes `612202801 / 612202802 / 612202803`, assigned B0171. Physical source order is a routing axis, not total chronology, and no 2053 semantics are authorized.
 
 EPISODE NANASUTA is the final closed Main family **inside the still-unfinished 2034 stack**, not a route toward immediate 2053 continuation. The complete 2034 release obligations above must be resolved before the era audit can make a 2053 prerequisite decision eligible. No request to “continue to the next major unit” may be interpreted as authority to cross into 2053 while its semantic-admission status remains blocked.
 
@@ -488,3 +488,5 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-10-11 — V1 / 12.72: close T7S_B0168; advance the remaining-2034 program to 9 source blocks / 27 episodes and i-n-g coverage to 241/280; retain the full era-release endpoint and route the next obligation.
 
 - 2026-10-12 — V1 / 12.73: close T7S_B0169; advance the remaining-2034 program to 10 source blocks / 30 episodes and i-n-g coverage to 244/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-12 — V1 / 12.74: close T7S_B0170; advance the remaining-2034 program to 11 source blocks / 33 episodes and i-n-g coverage to 247/280; retain the full era-release endpoint and route the next obligation.
