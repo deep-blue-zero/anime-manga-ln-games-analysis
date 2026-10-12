@@ -1,0 +1,101 @@
+---
+title: "Medalist — Source Identity, Scope and Publication Reconnaissance"
+artifact_id: "MEDALIST_SOURCE_AND_SCOPE_MAP"
+artifact_type: "source_inventory"
+series: "Medalist / メダリスト"
+series_id: "medalist"
+generation: "MEDALIST_BOOTSTRAP_V1"
+version: "0.1"
+status: "active_provisional"
+scope: "Evidence-plane routing, source identity, admission stages, locators and publication boundary"
+canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_AND_SCOPE_MAP.md"
+source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
+created: "2026-10-11"
+review_status: "OWNER_REVIEW_PENDING"
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: true
+recommended_reasoning_class: "BOUNDED_STANDARD"
+---
+
+# Source and scope map
+
+This is the canonical source-identity and scope record. It does not interpret the manga. Reconnaissance date: **2026-10-11, America/New_York**; provider timestamps may read 2026-10-12 UTC. Only metadata and public publication records were inspected. No source EPUB/CBZ was downloaded, authenticated or narratively opened.
+
+## Canonical routes and duplicate-root check
+
+The analytical root is `series/medalist/`; the sole entrypoint is [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). At starting main `238fed779661f6a5a49d6a70034a6183d17ca175`, no Medalist canonical home/alias was found in the series registry, corpus index, root/path inventory or migration crosswalk. Drive searches for Medalist/メダリスト returned the new evidence folder and unrelated mentions, not an established Medalist analytical architecture. The complete fetched historical `MANGA_ANIME_DRIVE_INDEX.md` (ID `1o1oJ-LM7FgIzX-x8XQB34ucKYx-TeR8-`) contained no Medalist match and retained the active Git epoch-1 pointer. This is a bounded repository/index search, not a claim to have searched every private conversation.
+
+| Evidence routing object | Stable Drive ID | Verified role |
+| --- | --- | --- |
+| Canonical evidence root | `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy` | Primary/derived evidence plane under live Git routing policy. |
+| Medalist folder | `1LkDT3QktWHcaO3trg5562Jly4uDWQqBx` | Direct child of evidence root; confirmed by search metadata. |
+| Japanese EPUBs | `1Ia6iImQH3iI4FR6Z9-I2cFwa7u3toHCC` | Three visible candidate objects; file metadata confirmed this parent. |
+| English CBZs | `1khkLRk__3REmj9gqb-2QRqOA0Xfk2iOx` | Twelve visible translation candidates. |
+| Source Audit and Manifests | `1wM22Yp2oMHVvYLzOyPwfML9txl4r-Ig0` | Empty at bounded direct-child listing. No checksum/import manifest read. |
+| Shared evidence inventory | `1bfPi00AKmELjeXmdCudU_4HqOknTIOODANEi12GDJFw` | Latest recorded verification 2026-09-30; no Medalist entry at read time. |
+
+The new folder is newer than the shared inventory's baseline. Record that routing lag; this bootstrap does not edit the shared inventory, Drive organization, migration crosswalk or authority records. IDs are public-safe routing metadata under repository controls; resolve them through the connected Drive service. Full private Drive URLs, acquisition paths and transport tokens are excluded from Git.
+
+## Visible source objects
+
+| Source key | Exact filename | Drive file ID | Bytes | Provider MIME |
+| --- | --- | --- | ---: | --- |
+| MD-MG-JP-TB-V013-W01 | `Medalist - Volume 13 [Japanese].epub` | `1ZurT7W0r8c9JatVe15ziXnfYDPfaNmd2` | 94,128,894 | application/epub+zip |
+| MD-MG-JP-TB-V014-W01 | `Medalist - Volume 14 [Japanese].epub` | `1muyhWS4KS-ERSLSqM9t0R06CtB2oS4uK` | 115,194,640 | application/epub+zip |
+| MD-MG-JP-TB-V015-W01 | `Medalist - Volume 15 [Japanese].epub` | `1k_M910KnNmC1Q309YY1A8cAkqZbAn3zG` | 98,048,078 | application/epub+zip |
+| MD-MG-EN-TB-V001-W01 | `Medalist - Volume 01 [English].cbz` | `1kO90RUf9iRaDjPN0rODjv3XEujQTRzDV` | 440,690,151 | application/x-cbz |
+| MD-MG-EN-TB-V002-W01 | `Medalist - Volume 02 [English].cbz` | `1lSaL5RQn64sng4VbckniF2_QweU4qiee` | 440,109,734 | application/x-cbz |
+| MD-MG-EN-TB-V003-W01 | `Medalist - Volume 03 [English].cbz` | `1yTZZ0w1HEnPF3374NGKKn8xXVljEoV5U` | 400,741,843 | application/x-cbz |
+| MD-MG-EN-TB-V004-W01 | `Medalist - Volume 04 [English].cbz` | `1zYxNZKMyVut8052EVxERFoMs7dVjgSLB` | 452,294,077 | application/x-cbz |
+| MD-MG-EN-TB-V005-W01 | `Medalist - Volume 05 [English].cbz` | `1e9Ne49ZF4ujWLqghTF4piz-lirXFGdN-` | 486,552,224 | application/x-cbz |
+| MD-MG-EN-TB-V006-W01 | `Medalist - Volume 06 [English].cbz` | `1ujbaLmnBb6PwKwfjJBFoirRiP2vlRKM5` | 486,815,367 | application/x-cbz |
+| MD-MG-EN-TB-V007-W01 | `Medalist - Volume 07 [English].cbz` | `1QgUkgZGykHXlyBlR3RYB2RiGPoGys4WK` | 455,399,881 | application/x-cbz |
+| MD-MG-EN-TB-V008-W01 | `Medalist - Volume 08 [English].cbz` | `1Xgvf5DSdzIVJe-fSM7kQYtt_Q9HrQTtm` | 440,075,326 | application/x-cbz |
+| MD-MG-EN-TB-V009-W01 | `Medalist - Volume 09 [English].cbz` | `1cu0JHw2kNqhIWcHqHLVzABtpf5p3f2tK` | 474,191,616 | application/x-cbz |
+| MD-MG-EN-TB-V010-W01 | `Medalist - Volume 10 [English].cbz` | `1O107KXxAEW_SiqWdA1JSUYeXx61mYZJ0` | 353,804,557 | application/x-cbz |
+| MD-MG-EN-TB-V011-W01 | `Medalist - Volume 11 [English].cbz` | `1_ATC9YnJG9f2Dpx36T8YCvW-ihLiuyAP` | 204,576,469 | application/x-cbz |
+| MD-MG-EN-TB-V012-W01 | `Medalist - Volume 12 [English].cbz` | `1q4oQS2Ip7NbjX1vCYup07WwfAc4P3JcD` | 167,263,395 | application/x-cbz |
+
+All rows are `INVENTORY_VISIBLE` only. MIME type, name and byte size were returned by folder listings; the Japanese file metadata additionally confirmed parent and modified time. Volume/language labels are **filename assertions**, not verified OPF/colophon or translation-credit metadata. Edition, imprint/source vendor, chapter range, printed pagination and SHA-256 are unknown for every object. Requested Japanese checksum fields were not returned by the connector. No byte-equivalence claim is made.
+
+Japanese filenames V13–V15 do not establish a complete source chain. **Japanese V01–V12 are not visible in the inspected Medalist evidence subfolder.** English V01–V12 cannot substitute for them. No magazine-only source or complete anime evidence was discovered in the bounded Medalist folder inspection. No local or prior-conversation attachment is assumed accessible. A file added later is a new inventory observation, not a retrospective change to this snapshot.
+
+## Publication reconnaissance, with separate confidence
+
+| Record | Observation and source | Boundary that remains unverified |
+| --- | --- | --- |
+| `MD-PUB-001` | The publisher's [Medalist series page](https://afternoon.kodansha.co.jp/c/medalist.html) identifies つるまいかだ and Afternoon serialization and lists V15 as the latest featured volume. Its V15 news entry is dated 2026-07-22, corroborated by [Kodansha's July release calendar](https://www.kodansha.co.jp/comic/calendar/202607). | V15 is the latest collected volume identified in these official records as of this check; not an assurance against an unindexed future announcement. |
+| `MD-PUB-002` | [Comic DAYS' Afternoon catalog](https://comic-days.com/magazine) lists Score 61, 螺旋の途中②, at 2026-06-25. The [individual installment metadata](https://comic-days.com/episode/12207421983877873709) independently displays the label/date. | Public catalog visibility is not proof that no later magazine chapter exists. No chapter narrative was opened. |
+| `MD-PUB-003` | [Afternoon's current issue page](https://afternoon.kodansha.co.jp/afternoon/) identifies the 2026 November issue released September 25; its listed contents omit Medalist. | Absence from one issue does not establish an uninterrupted hiatus, its reason or a complete serialization history. July/August and other issue witnesses need verification. |
+| `MD-PUB-004` | The supplied prompt reports V15 ending with Score 61, 螺旋の途中. | **OWNER_REPORTED_PENDING_TOC_VERIFICATION**. V15 TOC/spine and ending Score were not independently inspected; its first Score and complete range remain unknown. Do not promote the supplied boundary into a source lock. |
+| `MD-PUB-005` | [The manga's official X post](https://x.com/medalist_AFT/status/2095710148224561663), dated September 4, 2026, was verified through X's own oEmbed endpoint after direct page retrieval returned 403. The official account's returned text announces a production-related hiatus and preparations toward resumption. | **PRIMARY_NOTICE_TEXT_VERIFIED** for the returned excerpt; the attached notice image was not inspected. No resumption date was supplied in that excerpt. A verified notice does not independently settle the complete magazine ceiling or current resumption status. |
+| `MD-PUB-006` | The official [anime event record](https://medalist-pr.com/tv/special/s2-event-spe2026.html) identifies both S1 and S2 and a later film announcement. | Adaptation metadata only. Neither episodes nor film are admitted; no manga-to-episode mapping or complete AV coverage is established. |
+
+Publisher descriptions and search snippets incidentally exposed later narrative summaries. Those summaries were not adopted as findings. A future prospective reader records that exposure and uses only admitted manga evidence. The public serialized **observed listing boundary** is Score 61; the **complete magazine publication boundary** and **V15 chapter range** remain unresolved.
+
+## Identity, admission and extension
+
+Use source keys `MD-MG-JP-TB-VNNN-W01` for exact collected witnesses, `MD-MG-JP-SER-SNNN-W01` for magazine/serial witnesses, `MD-MG-EN-TB-VNNN-W01` for translation witnesses and `MD-AN-JP-S01-E###-W01` for adaptation episodes. These are project-local provenance keys, not global character IDs. A replacement edition/changed byte object gets a new W number with its predecessor retained.
+
+For each admitted object record ID/provider revision where exposed; verified volume, language, publisher/edition/colophon; size/hash and hash basis; container/order checks; Score coverage; source/derivative relations; locator version; continuity/component; authorization; coverage and limitations. New magazine-only Scores can append after verified placement without pretending a tankōbon exists. Later collection gets a separate edition crosswalk; compare changes and preserve serial freezes.
+
+| Dimension | Current state | Evidence required for advancement |
+| --- | --- | --- |
+| Inventory visible | 3 JP EPUB and 12 EN CBZ candidates | Metadata listing; does not authenticate contents. |
+| Structurally verified | 0 | Actual container/metadata/image order and integrity checks with recoverable receipt. |
+| Admitted for analysis | 0 | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
+| Narratively inspected | 0 | Actual source-content inspection with coverage record. |
+| Sequentially completed | 0 | Closed reading, affected ledgers, immutable freeze and verified persistence/publication state. |
+| Published serialization boundary | Score 61 observed listing; full magazine ceiling unresolved | Independent publication witnesses; not inferred from analytical progress. |
+
+These are independent dimensions: a verified public chapter listing does not authenticate a private EPUB. Admission or inspection of a later witness never implies earlier unit completion.
+
+## Durable manga locator contract
+
+A locator tuple contains `source_key, witness_id/revision/hash_basis, volume, verified_score, component, locator_version, spine_ordinal, spine_href, image_occurrence_ordinal, image_href, panel_id, balloon_id, print_page_if_verified, limitations`. Coordinates are one-based and distinguish image **occurrences** from unique files; covers, ads, duplicates and spreads retain their positions. Define exact spine/XHTML/image ordering from the actual source before V01.
+
+Default panel convention, once verified on a page: `P01…` in Japanese reading order, with exceptions annotated; balloon `B01…` within that panel. A disputed order/spread records a bounding description rather than invented certainty. Cropped/rotated/split derivatives retain links to the original occurrence and transformation. Printed pagination remains null until matched visually; digital index equals neither page number nor publication order by assumption.
+
+The frozen reading owns `MD-EV-…` observation rows and short diagnostic Japanese/gloss notes; the claims ledger owns interpretation/revision IDs; this map owns source identity/admission; the visual ledger owns recurring formal features. Locator maps/images, EPUBs, CBZs, OCR and raw processing output remain in evidence/working planes. Keep only sanitized IDs, hashes, retrieval conventions and interpretation in Git. A failed source access/locator round trip blocks the affected analysis; do not repair it from a review or localization.
