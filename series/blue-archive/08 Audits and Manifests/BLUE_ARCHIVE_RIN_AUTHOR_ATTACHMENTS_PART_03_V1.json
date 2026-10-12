@@ -8256,4 +8256,329 @@
     }
   ],
   "no_new_literary_or_source_credit": 0
+,
+  "current_source_consistency_qualification_FIRST15_20261012_V1": {
+  "schema": "EXACT_CURRENT_FROZEN_MEANING_QUALIFICATIONS_V1",
+  "source": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+  "status": "ROOT_CURRENT_SEMANTIC_QUALIFICATION_ACCEPTED_WITH_LIMITS",
+  "original_all_literals_hashes_decisions_inverses": "PRESERVED",
+  "new_credit": 0,
+  "judgments": [
+    {
+      "id": "RIN-O38",
+      "owner_ref": 38,
+      "current_qualification": "Rin’s selected gift BA:event:810:003:120 and work/fatigue context are positive direct ordinary evidence. Conditional gift presentation is not an independent BOND/MM family or a performed selector calendar.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/8/complete_original_payload/rows/38/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "c3d01aa53d2500b4fbee285a32099c8ef1f5a59a9d23914c6fbd08af7a10c4ae",
+          "before_literal": "Rin’s selected gift102 and work/fatigue context are positive direct ordinary evidence. Conditional gift presentation is not an independent BOND/MM family or a performed selector calendar.",
+          "qualification_only_do_not_replace_literal": true
+        },
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/10/complete_original_payload/rows/38/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "c3d01aa53d2500b4fbee285a32099c8ef1f5a59a9d23914c6fbd08af7a10c4ae",
+          "before_literal": "Rin’s selected gift102 and work/fatigue context are positive direct ordinary evidence. Conditional gift presentation is not an independent BOND/MM family or a performed selector calendar.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O71",
+      "owner_ref": 71,
+      "current_qualification": "RABBIT investigation, coastguard work/rest and coastal-village participation retain institutional pressure, commercial/citizen constraints and an unprinted full accountability tail; official help cannot certify every recipient repaired.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/8/complete_original_payload/rows/71/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "aa125d9f1d08d0fc30bc5a93c591312ddc2f3709d860cbb6b7cde648b2a4dd70",
+          "before_literal": "Police ordinary rest/work and resort participation retain institutional pressure, commercial/citizen constraints and an unprinted full accountability tail; official help cannot certify every recipient repaired.",
+          "qualification_only_do_not_replace_literal": true
+        },
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/10/complete_original_payload/rows/71/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "aa125d9f1d08d0fc30bc5a93c591312ddc2f3709d860cbb6b7cde648b2a4dd70",
+          "before_literal": "Police ordinary rest/work and resort participation retain institutional pressure, commercial/citizen constraints and an unprinted full accountability tail; official help cannot certify every recipient repaired.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O73",
+      "owner_ref": 73,
+      "current_qualification": "Creator-reader work, books and gratitude coexist with refused appropriation, forced carrying and unfinished publication/profit; material implementation and wanted company need independent endpoints.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/8/complete_original_payload/rows/73/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "f07817190406f6bf3a23f12c9006c9f850620aadd8cf4cd0eb69c8070a88284d",
+          "before_literal": "Creator-reader work, books and gratitude coexist with refused ratios, forced carrying and unfinished publication/profit; material implementation and wanted company need independent endpoints.",
+          "qualification_only_do_not_replace_literal": true
+        },
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/10/complete_original_payload/rows/73/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "f07817190406f6bf3a23f12c9006c9f850620aadd8cf4cd0eb69c8070a88284d",
+          "before_literal": "Creator-reader work, books and gratitude coexist with refused ratios, forced carrying and unfinished publication/profit; material implementation and wanted company need independent endpoints.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O75",
+      "owner_ref": 75,
+      "current_qualification": "Engineering contribution and ordinary maker-client wants retain volunteered aid versus assumed skill/permission; a product or local win does not finish safety or recipient agency.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/8/complete_original_payload/rows/75/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "e42507dbc030155a61e0933a9f4290b027e28aecd0264235583e12d996dffc55",
+          "before_literal": "Engineering/festival contribution and ordinary maker-client wants retain volunteered aid versus assumed skill/permission; a product or local win does not finish safety or recipient agency.",
+          "qualification_only_do_not_replace_literal": true
+        },
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/10/complete_original_payload/rows/75/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "e42507dbc030155a61e0933a9f4290b027e28aecd0264235583e12d996dffc55",
+          "before_literal": "Engineering/festival contribution and ordinary maker-client wants retain volunteered aid versus assumed skill/permission; a product or local win does not finish safety or recipient agency.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O79",
+      "owner_ref": 79,
+      "current_qualification": "Hyakkiyako school-trip/festival pleasures and hosting duties keep actual aid and revived companionship distinct from ritual history, collective assent and permanent institutional reform.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/8/complete_original_payload/rows/79/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "423810020436d90422adc05f136f6d943b37085d00e3169bc46c56dfa423c636",
+          "before_literal": "Hyakka/Ninja ordinary river/play and leadership duties keep actual aid and revived companionship distinct from ritual history, collective assent and permanent institutional reform.",
+          "qualification_only_do_not_replace_literal": true
+        },
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/10/complete_original_payload/rows/79/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "423810020436d90422adc05f136f6d943b37085d00e3169bc46c56dfa423c636",
+          "before_literal": "Hyakka/Ninja ordinary river/play and leadership duties keep actual aid and revived companionship distinct from ritual history, collective assent and permanent institutional reform.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O84",
+      "owner_ref": 84,
+      "current_qualification": "Shanhaijing art, service and succession keep self-authored membership and refusal separate from an umbrella institution or collective identity; local victories leave public-story and authority limits.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/8/complete_original_payload/rows/84/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "5eef00099513b88f69a873b477ec35e43e400385f0b3a5865259ccfb93e3f2bf",
+          "before_literal": "Hyakka/Ninja ordinary art, service and succession keep self-authored membership and refusal separate from an umbrella institution or collective identity; local victories leave public-story and authority limits.",
+          "qualification_only_do_not_replace_literal": true
+        },
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/10/complete_original_payload/rows/84/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "5eef00099513b88f69a873b477ec35e43e400385f0b3a5865259ccfb93e3f2bf",
+          "before_literal": "Hyakka/Ninja ordinary art, service and succession keep self-authored membership and refusal separate from an umbrella institution or collective identity; local victories leave public-story and authority limits.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O25",
+      "owner_ref": 25,
+      "current_qualification": "Hot Springs chosen digging, proposed work/rest reciprocity, wanted baths and spontaneous snack sharing retain practical skill and company beside coercive labor, exposure and recipient limits. Accepted local help is not unlimited requisition; neither vignette warrants the copied chosen-reading detail.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/8/complete_original_payload/rows/25/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "5af70773d0af5f5a46e773484d613dded12e4807107155a10b6934db3b8d19f1",
+          "before_literal": "Hot Springs technical craft, chosen reading/company and divergent worker duties test usefulness against exposure and workload; accepted local help is not unlimited requisition.",
+          "qualification_only_do_not_replace_literal": true
+        },
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/10/complete_original_payload/rows/25/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "5af70773d0af5f5a46e773484d613dded12e4807107155a10b6934db3b8d19f1",
+          "before_literal": "Hot Springs technical craft, chosen reading/company and divergent worker duties test usefulness against exposure and workload; accepted local help is not unlimited requisition.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O87",
+      "owner_ref": 87,
+      "current_qualification": "Seia and Rio’s qualification/self-proof wishes coexist with C&C accompaniment, Neru’s direct refusals and Karin’s information request. Wanted company and negotiated one-week participation retain independent value without blanket consent, completed accountability or restored prophecy.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/8/complete_original_payload/rows/87/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "ce219b437e2358ab033d05f16660ac28001388596cd18954fe34b9bdb3aab9ba",
+          "before_literal": "C&C self-proof and ordinary company coexist with protective control and constrained recipients; neither competence nor affection finishes informed permission.",
+          "qualification_only_do_not_replace_literal": true
+        },
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/10/complete_original_payload/rows/87/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "ce219b437e2358ab033d05f16660ac28001388596cd18954fe34b9bdb3aab9ba",
+          "before_literal": "C&C self-proof and ordinary company coexist with protective control and constrained recipients; neither competence nor affection finishes informed permission.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-FRAME-L180",
+      "owner_ref": null,
+      "current_qualification": "**Source629 current interpretation qualification — 2026-10-12.** This is a dated predecessor adoption/publication account. At the audited source629 boundary the fixed133 canonical homes are present (100 character,16 directed relationship,5 ensemble,12 institution;13 named duties unchanged). Original acceptance decisions, preparation/pending statements, source128 tuples and earlier milestone counters remain historical witnesses. This source-consistency review does not certify a new provider/main validation result, new completion or source/identity/model credit; all14 original gaps remain OPEN.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/7/complete_original_payload/physical_lines_keepends/165",
+          "exact_value": false,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "3e6fe2b987aee5d89f31f0297e28373e693a744ff6fe7e0f458b0045442ec438",
+          "before_literal": "Creation-time producer statements about old pending queues or earlier family/frontier totals are historical text inside maintained owners. The current scope and allocation govern this C-only argument. The exact analytical input snapshot is5933; later source128 publication and Aoi129 acceptance are dated ROOT coordination, not a new source-content verification by this author or an additional package awarded here. This candidate is for independent ROOT literary and finite receiving. It does not publish, integrate, count itself, close a milestone or change355 packages/29 duties/25 parents/384 homes. [allocation; source receipt]",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-FRAME-FOOD-L15",
+      "owner_ref": null,
+      "current_qualification": "The publication-pending label is original author-stage history; the preserved bounded ROOT acceptance and canonical source629 custody govern current status without a new provider/main certification.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/7/complete_original_payload/physical_lines_keepends/14",
+          "exact_value": false,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "10013c2306e0caf9052508fc6a13e5930fb97f27a4eb69619e21f0baaef14872",
+          "before_literal": "repository_publication: ROOT_ONLY_PENDING",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-FRAME-FOOD-L92",
+      "owner_ref": null,
+      "current_qualification": "Rin retrospectively reports eating a remembered food, and Rin loses the first chess game to Kaya. Both want another game; second result is unprinted. Neither food delivery nor Kaya eating nor political acquittal is established.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+          "json_pointer": "/complete_author_attachments/7/complete_original_payload/physical_lines_keepends/77",
+          "exact_value": false,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "35decb67461535c8e591afd100315f6940e7d5febf44d5ab2ce12d1e5e0d5aa4",
+          "before_literal": "Kaya's food and chess encounter has a similarly particular value. The first chess loss belongs to its shown occasion; a second result remains unknown. An old friend's company can be wanted while political conflict and Kaya's stated future intentions persist. Receiving or sharing a meal does not acquit an earlier act, settle the confidence procedure, or mean Rin has adopted a friend's governing views. It makes the relation more difficult and more humanly specific than either permanent hostility or an effortless reconciliation would allow. [S1]",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    }
+  ],
+  "public_register_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+    "json_pointer": "/first15_independent_receiving_fragment/canonical_additive_control_actions/11",
+    "record_id": "FIRST15-CONTROL-12"
+  },
+  "reviewed_proposed_current_body": {
+    "bytes": 51552,
+    "sha256": "48e40dbdacb2f30b959f9e42975494ce49a185cdc4732e216e376d49eb2a7bcf",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIN_CHARACTER_MONOGRAPH.md"
+  },
+  "prepared_status_preserved": "C_ONLY_ROOT_MANUAL_ADOPTION_REQUIRED"
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_author_attachments/7/complete_original_payload/physical_lines_keepends/35",
+      "retained_value_utf8_sha256": "da66679513ca3bc58e5c3ecd9d2f822d03b184f61d68cedf47774fce4d55c673",
+      "finding_ids": [
+        "P30-P3-CHAR-M014-ROOT_SEVEN_SEEDS_VERIFIED_BOUNDED_BODY_PROPOSALS_AND_FULL_INVERSES_V1-129",
+        "P30-SEED_HEINE_KAYA_RIN_SOURCE_PURPOSE-SEED_BDEF_EXACT_CURRENT_REPETITION_NAVIGATION_V1",
+        "P30-P3-CHAR-M031-L50"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 41729,
+      "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b",
+      "lines": 184,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 40860,
+        "sha256": "8611e8f9dacfb0f7d0d402abfa4de7123b49cb299d3fdc1963a9435e2df583e8"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 41729,
+        "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIN_CHARACTER_MONOGRAPH.md",
+      "bytes": 51552,
+      "sha256": "48e40dbdacb2f30b959f9e42975494ce49a185cdc4732e216e376d49eb2a7bcf",
+      "lines": 213,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 50839,
+        "sha256": "3d1c284b47f13c13e71deb2ce696c2597f6fa0f64d97615de4b0cc6488d021a8"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 51552,
+        "sha256": "48e40dbdacb2f30b959f9e42975494ce49a185cdc4732e216e376d49eb2a7bcf"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

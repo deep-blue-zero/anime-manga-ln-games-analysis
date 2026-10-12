@@ -4354,4 +4354,87 @@
     }
   ],
   "mandatory_operative_qualification": "Preserve all167 final original lines and exact body inverse. Transport both adjacent source/claim links through an explicit reviewed derivative. Keep both distinct full named directions, private normal adequate scopes, source7546 versus new same-tree main/head, historical individualgift120 versus current canonical hash difference, qualified actor carriers and all fourteen OPEN gap meanings. No monograph proxy completion."
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/canonical_body_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "1a9846f464c7d2d8b67d3fc199a313710e00adeb137338bd7e0bbc2778456da8",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 41996,
+        "sha256": "1a9846f464c7d2d8b67d3fc199a313710e00adeb137338bd7e0bbc2778456da8"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 42046,
+        "sha256": "376edb5e0b438d6d947530324de997b06f8aa9dcb5ea0fc5fe0d0a4f9fae9083"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/historical_author_or_ROOT_payload/inputs/15/actual_author_custody",
+      "retained_value_utf8_sha256": "1340160dd75ad436c78230b98af79c3b3506404dfb69958a711de077a708b659",
+      "finding_ids": [
+        "P30-P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS-ROOT_RUMI_TWO_LINE_HASH_KIND_PRECISION_NINE_FIELDS_FULL_INVERSE_OWN_VERIFICATION_V1-125"
+      ]
+    },
+    {
+      "json_pointer": "/historical_author_or_ROOT_payload/gift_source_route_precision",
+      "retained_value_utf8_sha256": "a68f3488bd4a372cb39e92ae8c1fd1284384258ae8c3e90049aca82509042377",
+      "finding_ids": [
+        "P30-P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS-ROOT_RUMI_TWO_LINE_HASH_KIND_PRECISION_NINE_FIELDS_FULL_INVERSE_OWN_VERIFICATION_V1-125"
+      ]
+    },
+    {
+      "json_pointer": "/mandatory_operative_qualification",
+      "retained_value_utf8_sha256": "88167b2a8c6621983f15ea2fd976f8cd1193a08f3083a7ec6056460af6d7b3aa",
+      "finding_ids": [
+        "P30-P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS-ROOT_RUMI_TWO_LINE_HASH_KIND_PRECISION_NINE_FIELDS_FULL_INVERSE_OWN_VERIFICATION_V1-125"
+      ]
+    },
+    {
+      "json_pointer": "/canonical_body_exact_tuple",
+      "retained_value_utf8_sha256": "8d34d3bf7bd2dcbf40d675dc8836e833d8bff260046ca6928c2fc4684c0a62e2",
+      "finding_ids": [
+        "P30-BODYBIND-P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 42046,
+      "sha256": "376edb5e0b438d6d947530324de997b06f8aa9dcb5ea0fc5fe0d0a4f9fae9083",
+      "lines": 179,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 42046,
+        "sha256": "376edb5e0b438d6d947530324de997b06f8aa9dcb5ea0fc5fe0d0a4f9fae9083"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 42046,
+        "sha256": "376edb5e0b438d6d947530324de997b06f8aa9dcb5ea0fc5fe0d0a4f9fae9083"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

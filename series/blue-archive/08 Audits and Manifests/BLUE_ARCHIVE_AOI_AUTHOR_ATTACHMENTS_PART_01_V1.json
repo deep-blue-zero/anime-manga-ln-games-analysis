@@ -7045,4 +7045,87 @@
     }
   ],
   "no_new_literary_or_source_credit": 0
+,
+  "current_source_consistency_qualification_FIRST15_20261012_V1": {
+  "schema": "EXACT_CURRENT_FROZEN_MEANING_QUALIFICATIONS_V1",
+  "source": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+  "status": "ROOT_CURRENT_SEMANTIC_QUALIFICATION_ACCEPTED_WITH_LIMITS",
+  "original_all_literals_hashes_decisions_inverses": "PRESERVED",
+  "new_credit": 0,
+  "judgments": [
+    {
+      "id": "AOI-O75-substantive_role_disposition",
+      "owner_ref": 75,
+      "current_qualification": "Sensei’s afternoon rest is interrupted by Eimi’s request; the subsequent inward passage is a retrospective briefing. Engineering/visitor help retains actual enjoyment and recipient bodily/technical limits; this is not Eimi’s rest wish.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_AOI_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+          "json_pointer": "/complete_author_attachments/1/complete_original_payload/owner_reviews/75/substantive_role_disposition",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "b87f01f08d2b5905ec30a9fc045b36654f56910f71712b712912207268b7e3c5",
+          "before_literal": "Eimi requested rest interrupted by travel/technical contingency retains inward briefing and field-support limits.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "AOI-O94-substantive_role_disposition",
+      "owner_ref": 94,
+      "current_qualification": "Wild Hunt school enforcers control exhibition entry, caffeine and confiscated mug access; these are not Veritas actions. Wanted art/taste/work retain independent value; mug return remains promised, not achieved.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_AOI_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+          "json_pointer": "/complete_author_attachments/1/complete_original_payload/owner_reviews/94/substantive_role_disposition",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "0d4078e4439b1c3c4a22e23716d61bdb01f84e4bf1b80e07604a47038cc9c2fe",
+          "before_literal": "Veritas entry/caffeine rules and seized ceramic mug expose service/control costs beside different pleasure.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    }
+  ],
+  "public_register_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+    "json_pointer": "/first15_independent_receiving_fragment/canonical_additive_control_actions/0",
+    "record_id": "FIRST15-CONTROL-01"
+  },
+  "reviewed_proposed_current_body": {
+    "bytes": 43533,
+    "sha256": "e2051f0401e053b897ee479b09d3bc593f14a727b4f38ab902cfd9f85397bc40",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md"
+  },
+  "prepared_status_preserved": "C_ONLY_ROOT_MANUAL_ADOPTION_REQUIRED"
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload/owner_reviews/26/substantive_role_disposition",
+      "retained_value_utf8_sha256": "4ce1ba9b8fd8f35479c825f1a33cc421fc8dbb033cc549bca985fd353c7a57dc",
+      "finding_ids": [
+        "P30-OWNER26_OWNER90_ISOLATED_SOURCE_PURPOSE-ROOT_OWNER26_OWNER90_TEN_EXACT_CURRENT_FROZEN_SOURCE_PURPOSE_QUALIFICATIONS_ADOPTION_V1-186"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload/owner_reviews/90/substantive_role_disposition",
+      "retained_value_utf8_sha256": "e6821e91f1fa321bbad89156f78e2cc7820eb43574da0e906f72e98806d7bfb6",
+      "finding_ids": [
+        "P30-OWNER26_OWNER90_ISOLATED_SOURCE_PURPOSE-ROOT_OWNER26_OWNER90_TEN_EXACT_CURRENT_FROZEN_SOURCE_PURPOSE_QUALIFICATIONS_ADOPTION_V1-191"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

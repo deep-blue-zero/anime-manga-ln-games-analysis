@@ -486,4 +486,138 @@
     "model_grade_effect": "UNCHANGED",
     "main_integration": "NOT_YET_INTEGRATED"
   }
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/canonical_derivative/packages/Mika/sha256",
+      "preserved_literal_sha256_value": "1f624e03da8e7aa8c9fe6f3ac6906f7f80bca2315784f7a7ab2090c3744e9b67",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 25016,
+        "sha256": "1f624e03da8e7aa8c9fe6f3ac6906f7f80bca2315784f7a7ab2090c3744e9b67"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 25220,
+        "sha256": "6af86d89d0c72d75d5da2bcdcb6863cc376cbcf87ba6f55de60994ed36858820"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    },
+    {
+      "preserved_original_pointer": "/canonical_derivative/packages/Nagisa/sha256",
+      "preserved_literal_sha256_value": "4f2547d787261f3c2d1884c5d92584c07d14a5ec92c0bd2fd670352df7bc5bd7",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 26931,
+        "sha256": "4f2547d787261f3c2d1884c5d92584c07d14a5ec92c0bd2fd670352df7bc5bd7"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 27135,
+        "sha256": "1ac4ebd98397fbee0d43660c8686fa8af073b6c57625c3020fae54c843c57d5a"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    },
+    {
+      "preserved_original_pointer": "/canonical_derivative/packages/Seia/sha256",
+      "preserved_literal_sha256_value": "d37c1a6a056375952d9343c68f932423b26104c44464cdbf0e09f6dfe5772d12",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 24692,
+        "sha256": "d37c1a6a056375952d9343c68f932423b26104c44464cdbf0e09f6dfe5772d12"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 24945,
+        "sha256": "71661cdd2944ba906d7261133d895c5c92bf4c2592b07ed740205ec2dda50175"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/canonical_derivative/packages/Mika",
+      "retained_value_utf8_sha256": "aa12c43b7ca6f79a0e2d0796e800a23898abc670ac41b160535bc00d6342b188",
+      "finding_ids": [
+        "P30-BODYBIND-P3-CHAR-MIKA-CH0069"
+      ]
+    },
+    {
+      "json_pointer": "/canonical_derivative/packages/Nagisa",
+      "retained_value_utf8_sha256": "d2fb54adc66cdbc46fc3466aa29c220533e288c4d1e1621c3e3fedf2fb799429",
+      "finding_ids": [
+        "P30-BODYBIND-P3-CHAR-NAGISA"
+      ]
+    },
+    {
+      "json_pointer": "/canonical_derivative/packages/Seia",
+      "retained_value_utf8_sha256": "c493be2fc6bf3db6d16e7eaf05bccddd8bc1ac63c652a1e1db007f6e3ad93c0f",
+      "finding_ids": [
+        "P30-BODYBIND-P3-CHAR-SEIA-CH0070"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 25220,
+      "sha256": "6af86d89d0c72d75d5da2bcdcb6863cc376cbcf87ba6f55de60994ed36858820",
+      "lines": 130,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 25220,
+        "sha256": "6af86d89d0c72d75d5da2bcdcb6863cc376cbcf87ba6f55de60994ed36858820"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 25220,
+        "sha256": "6af86d89d0c72d75d5da2bcdcb6863cc376cbcf87ba6f55de60994ed36858820"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+      "bytes": 27135,
+      "sha256": "1ac4ebd98397fbee0d43660c8686fa8af073b6c57625c3020fae54c843c57d5a",
+      "lines": 137,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 27135,
+        "sha256": "1ac4ebd98397fbee0d43660c8686fa8af073b6c57625c3020fae54c843c57d5a"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 27135,
+        "sha256": "1ac4ebd98397fbee0d43660c8686fa8af073b6c57625c3020fae54c843c57d5a"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+      "bytes": 24945,
+      "sha256": "71661cdd2944ba906d7261133d895c5c92bf4c2592b07ed740205ec2dda50175",
+      "lines": 133,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 24945,
+        "sha256": "71661cdd2944ba906d7261133d895c5c92bf4c2592b07ed740205ec2dda50175"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 24945,
+        "sha256": "71661cdd2944ba906d7261133d895c5c92bf4c2592b07ed740205ec2dda50175"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

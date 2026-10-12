@@ -6391,4 +6391,124 @@
     }
   ],
   "no_new_literary_or_source_credit": 0
+,
+  "current_source_consistency_qualification_FIRST15_20261012_V1": {
+  "schema": "EXACT_CURRENT_FROZEN_MEANING_QUALIFICATIONS_V1",
+  "source": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+  "status": "ROOT_CURRENT_SEMANTIC_QUALIFICATION_ACCEPTED_WITH_LIMITS",
+  "original_all_literals_hashes_decisions_inverses": "PRESERVED",
+  "new_credit": 0,
+  "judgments": [
+    {
+      "id": "KAYA-FRAME-L184",
+      "owner_ref": null,
+      "current_qualification": "**Source629 current interpretation qualification — 2026-10-12.** This is a dated predecessor adoption/publication account. At the audited source629 boundary the fixed133 canonical homes are present (100 character,16 directed relationship,5 ensemble,12 institution;13 named duties unchanged). Original acceptance decisions, preparation/pending statements, source128 tuples and earlier milestone counters remain historical witnesses. This source-consistency review does not certify a new provider/main validation result, new completion or source/identity/model credit; all14 original gaps remain OPEN.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_KAYA_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+          "json_pointer": "/complete_author_attachments/1/complete_original_payload/saved_nonempty_line_joins/114/text",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "45ef740eb1fc06870e741e262efa702a38190a347cbef12f9d0a7cdfde101d9f",
+          "before_literal": "This candidate presents a complete bounded literary argument for the existing character responsibility, subject to independent ROOT receiving. It grants no current completion, publication, merge, denominator, prediction or model credit. Its eleven dimensions, ordinary ends and strong contrary cases remain source-specific; all fourteen stable gaps stay OPEN. Further warranted directed, institutional and individual character packages remain separate required work across the full eligible cast.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    }
+  ],
+  "public_register_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+    "json_pointer": "/first15_independent_receiving_fragment/canonical_additive_control_actions/4",
+    "record_id": "FIRST15-CONTROL-05"
+  },
+  "reviewed_proposed_current_body": {
+    "bytes": 48102,
+    "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md"
+  },
+  "prepared_status_preserved": "C_ONLY_ROOT_MANUAL_ADOPTION_REQUIRED"
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload/nine_rivals/3/full_saved_row",
+      "retained_value_utf8_sha256": "5b0415fbfea2a6645ca3280c4055fc43dc74d6b13d6666df9d9cd224d2a48dd0",
+      "finding_ids": [
+        "P30-P3-CHAR-M014-ROOT_SEVEN_SEEDS_VERIFIED_BOUNDED_BODY_PROPOSALS_AND_FULL_INVERSES_V1-131",
+        "P30-SEED_HEINE_KAYA_RIN_SOURCE_PURPOSE-SEED_BDEF_EXACT_CURRENT_REPETITION_NAVIGATION_V1",
+        "P30-P3-CHAR-M017-L135"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload/saved_nonempty_line_joins/73/text",
+      "retained_value_utf8_sha256": "5b0415fbfea2a6645ca3280c4055fc43dc74d6b13d6666df9d9cd224d2a48dd0",
+      "finding_ids": [
+        "P30-P3-CHAR-M014-ROOT_SEVEN_SEEDS_VERIFIED_BOUNDED_BODY_PROPOSALS_AND_FULL_INVERSES_V1-131",
+        "P30-SEED_HEINE_KAYA_RIN_SOURCE_PURPOSE-SEED_BDEF_EXACT_CURRENT_REPETITION_NAVIGATION_V1",
+        "P30-P3-CHAR-M017-L135"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload/claims/4/full_saved_argument",
+      "retained_value_utf8_sha256": "c6f2110283345cf6a8160d59d27a00d9852cb17ab4dc7c4685e8cb4e967a81d7",
+      "finding_ids": [
+        "P30-P3-CHAR-M014-ROOT_SEVEN_SEEDS_VERIFIED_BOUNDED_BODY_PROPOSALS_AND_FULL_INVERSES_V1-132",
+        "P30-SEED_HEINE_KAYA_RIN_SOURCE_PURPOSE-SEED_BDEF_EXACT_CURRENT_REPETITION_NAVIGATION_V1",
+        "P30-P3-CHAR-M017-L52"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload/saved_nonempty_line_joins/29/text",
+      "retained_value_utf8_sha256": "c6f2110283345cf6a8160d59d27a00d9852cb17ab4dc7c4685e8cb4e967a81d7",
+      "finding_ids": [
+        "P30-P3-CHAR-M014-ROOT_SEVEN_SEEDS_VERIFIED_BOUNDED_BODY_PROPOSALS_AND_FULL_INVERSES_V1-132",
+        "P30-SEED_HEINE_KAYA_RIN_SOURCE_PURPOSE-SEED_BDEF_EXACT_CURRENT_REPETITION_NAVIGATION_V1",
+        "P30-P3-CHAR-M017-L52"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 41729,
+      "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b",
+      "lines": 184,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 40860,
+        "sha256": "8611e8f9dacfb0f7d0d402abfa4de7123b49cb299d3fdc1963a9435e2df583e8"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 41729,
+        "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 48102,
+      "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab",
+      "lines": 184,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 47294,
+        "sha256": "7b0dafe1d5053b1f79e5323a9a92b28fe78fc4fd2c46dfb7385b027621ec5ec8"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 48102,
+        "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

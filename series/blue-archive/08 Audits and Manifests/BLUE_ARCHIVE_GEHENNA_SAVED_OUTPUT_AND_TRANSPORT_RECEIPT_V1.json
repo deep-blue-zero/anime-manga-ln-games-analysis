@@ -798,4 +798,158 @@
     "unreviewed_postmerge_audit_PASS_claimed": false,
     "new_literary_primary_native_raw_QA_AV_admission_identity_scope_count_model_credit_from_transport": 0
   }
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/complete_original_to_canonical_inverse/canonical_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "c34a3d70ff85e9351fc7eb086af24943e193a045bb74a8df5e2539a49c176ff9",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 49807,
+        "sha256": "c34a3d70ff85e9351fc7eb086af24943e193a045bb74a8df5e2539a49c176ff9"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 50042,
+        "sha256": "47ecfba0fa82c1322291df83f97bbb4fbba0963dcc5c55aeb574bda65ee0327e"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/6/exact_unchanged_lines/3",
+      "retained_value_utf8_sha256": "803385dadaf7506f1ee15eb120de88099a053f58855297423370a6c8a4af4628",
+      "finding_ids": [
+        "P30-P3-INST-GEHENNA-FREEDOM-ROOT_GEHENNA_COMPLETE_DECLARED_AUDIT_COMBINED_BODY_FULL_INVERSES_AND_CURRENT_QUALIFICATIONS_V2-GF001_QUIET_SHRINE_ASSOCIATION",
+        "P30-P3-INST-GEHENNA-FREEDOM-L28"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/6/exact_unchanged_lines/29",
+      "retained_value_utf8_sha256": "370563e527452d97604e8e3f39cd41b9bcf9a480822d0e3b6ef9f90a91f64fba",
+      "finding_ids": [
+        "P30-P3-INST-GEHENNA-FREEDOM-ROOT_GEHENNA_COMPLETE_DECLARED_AUDIT_COMBINED_BODY_FULL_INVERSES_AND_CURRENT_QUALIFICATIONS_V2-GF012_CAMPFIRE_ASSOCIATION_AND_INVITATION_LIMIT",
+        "P30-P3-INST-GEHENNA-FREEDOM-L54"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/6/exact_unchanged_lines/69",
+      "retained_value_utf8_sha256": "8c8b47f9634940f2611ab151bfdd9a4d1e1ca3dc4edeaec9ea459a11a48585ec",
+      "finding_ids": [
+        "P30-P3-INST-GEHENNA-FREEDOM-ROOT_GEHENNA_COMPLETE_DECLARED_AUDIT_COMBINED_BODY_FULL_INVERSES_AND_CURRENT_QUALIFICATIONS_V2-INST008_GF028_SHARED_STADIUM_SNACK",
+        "P30-P3-INST-GEHENNA-FREEDOM-L94"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/6/exact_unchanged_lines/99",
+      "retained_value_utf8_sha256": "bd4c6de3442ae7e2617c7afff25c2c9d6d4da2a7d9a69ecb47bf087d5ad59dd3",
+      "finding_ids": [
+        "P30-P3-INST-GEHENNA-FREEDOM-ROOT_GEHENNA_COMPLETE_DECLARED_AUDIT_COMBINED_BODY_FULL_INVERSES_AND_CURRENT_QUALIFICATIONS_V2-GF040_ASSOCIATION",
+        "P30-P3-INST-GEHENNA-FREEDOM-ROOT_GEHENNA_COMPLETE_DECLARED_AUDIT_COMBINED_BODY_FULL_INVERSES_AND_CURRENT_QUALIFICATIONS_V2",
+        "P30-P3-INST-GEHENNA-FREEDOM-L124"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/6/exact_unchanged_lines/45",
+      "retained_value_utf8_sha256": "6870f342f1e28e21ffcda218e83ded82401c5d6d5d1713fb53825220c26ae5dc",
+      "finding_ids": [
+        "P30-P3-INST-GEHENNA-FREEDOM-ROOT_GEHENNA_COMPLETE_DECLARED_AUDIT_COMBINED_BODY_FULL_INVERSES_AND_CURRENT_QUALIFICATIONS_V2-INST010_GF018_CITED_QUOTA_UNESTABLISHED",
+        "P30-P3-INST-GEHENNA-FREEDOM-L70"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/6/exact_unchanged_lines/5",
+      "retained_value_utf8_sha256": "1e17de17b5fe9897d94df20acfb4048b6b53264106968c11dd1960b42ffbc837",
+      "finding_ids": [
+        "P30-P3-INST-GEHENNA-FREEDOM-ROOT_GEHENNA_COMPLETE_DECLARED_AUDIT_COMBINED_BODY_FULL_INVERSES_AND_CURRENT_QUALIFICATIONS_V2",
+        "P30-P3-CHAR-M014-ROOT_SEVEN_SEEDS_VERIFIED_BOUNDED_BODY_PROPOSALS_AND_FULL_INVERSES_V1-128",
+        "P30-P3-INST-GEHENNA-FREEDOM-L30"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/6/exact_unchanged_lines/57",
+      "retained_value_utf8_sha256": "fc1c2de7e2c132368a8fcefc9f58ca5884e260ef6db69c6551afdf54f83607c6",
+      "finding_ids": [
+        "P30-P3-INST-GEHENNA-FREEDOM-ROOT_GEHENNA_COMPLETE_DECLARED_AUDIT_COMBINED_BODY_FULL_INVERSES_AND_CURRENT_QUALIFICATIONS_V2",
+        "P30-P3-CHAR-M014-ROOT_SEVEN_SEEDS_VERIFIED_BOUNDED_BODY_PROPOSALS_AND_FULL_INVERSES_V1-128",
+        "P30-P3-INST-GEHENNA-FREEDOM-L82"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/6/exact_unchanged_lines/67",
+      "retained_value_utf8_sha256": "5269433e87a10cf72041e186e485853463486a20bcc21e99e0f554a771ce4455",
+      "finding_ids": [
+        "P30-P3-INST-GEHENNA-FREEDOM-ROOT_GEHENNA_COMPLETE_DECLARED_AUDIT_COMBINED_BODY_FULL_INVERSES_AND_CURRENT_QUALIFICATIONS_V2",
+        "P30-P3-INST-GEHENNA-FREEDOM-L92"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/6/exact_unchanged_lines/131",
+      "retained_value_utf8_sha256": "698a94808ec6282276a29e330162ab21751c70721cae36e8de17eeb60f07fd92",
+      "finding_ids": [
+        "P30-P3-INST-GEHENNA-FREEDOM-ROOT_GEHENNA_COMPLETE_DECLARED_AUDIT_COMBINED_BODY_FULL_INVERSES_AND_CURRENT_QUALIFICATIONS_V2",
+        "P30-P3-CHAR-M014-ROOT_SEVEN_SEEDS_VERIFIED_BOUNDED_BODY_PROPOSALS_AND_FULL_INVERSES_V1-134",
+        "P30-P3-INST-GEHENNA-FREEDOM-L156"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/6/exact_unchanged_lines/91",
+      "retained_value_utf8_sha256": "9ee4d779392d59165d464119a58e132a99d3d17116389415d43ce478c2eb58d9",
+      "finding_ids": [
+        "P30-P3-INST-GEHENNA-FREEDOM-ROOT_GEHENNA_COMPLETE_DECLARED_AUDIT_COMBINED_BODY_FULL_INVERSES_AND_CURRENT_QUALIFICATIONS_V2-GF037_DISTINCT_ACTOR_AND_FRAMING_PRECISION",
+        "P30-P3-INST-GEHENNA-FREEDOM-L116"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+      "bytes": 50042,
+      "sha256": "47ecfba0fa82c1322291df83f97bbb4fbba0963dcc5c55aeb574bda65ee0327e",
+      "lines": 202,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 50042,
+        "sha256": "47ecfba0fa82c1322291df83f97bbb4fbba0963dcc5c55aeb574bda65ee0327e"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 50042,
+        "sha256": "47ecfba0fa82c1322291df83f97bbb4fbba0963dcc5c55aeb574bda65ee0327e"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 41729,
+      "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b",
+      "lines": 184,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 40860,
+        "sha256": "8611e8f9dacfb0f7d0d402abfa4de7123b49cb299d3fdc1963a9435e2df583e8"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 41729,
+        "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

@@ -1155,4 +1155,66 @@
   "all14_gaps": "OPEN_UNCHANGED",
   "assembler_new_primary_performance_or_independent_literary_credit": 0,
   "other_required_package_completion": false
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/canonical_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "34bc492ffac01608e6a5bb359cb06eeceeacffa8f54d9e9ab51b4e5a5a849ff2",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 42295,
+        "sha256": "34bc492ffac01608e6a5bb359cb06eeceeacffa8f54d9e9ab51b4e5a5a849ff2"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 42309,
+        "sha256": "23fcb8a403e5a263d5ec6d0aaf94b3d59fade71af5f2d6614126cfbda7042db5"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/exact_unchanged_saved_line_joins/98/line_text",
+      "retained_value_utf8_sha256": "e0151766d888de1ac587a8b55e7a8953e1f4b9a668840c4719066b5a8313c521",
+      "finding_ids": [
+        "P30-P3-CHAR-IROHA-L115"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+      "bytes": 42309,
+      "sha256": "23fcb8a403e5a263d5ec6d0aaf94b3d59fade71af5f2d6614126cfbda7042db5",
+      "lines": 185,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 42309,
+        "sha256": "23fcb8a403e5a263d5ec6d0aaf94b3d59fade71af5f2d6614126cfbda7042db5"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 42309,
+        "sha256": "23fcb8a403e5a263d5ec6d0aaf94b3d59fade71af5f2d6614126cfbda7042db5"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

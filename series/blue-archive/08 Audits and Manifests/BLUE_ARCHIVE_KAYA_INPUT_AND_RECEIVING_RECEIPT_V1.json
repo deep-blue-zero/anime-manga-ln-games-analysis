@@ -1332,4 +1332,102 @@
     "unreviewed_postmerge_audit_PASS_claimed": false,
     "new_literary_primary_native_raw_QA_AV_admission_identity_scope_count_model_credit_from_transport": 0
   }
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/canonical_body_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "114817fe48a42bbf55b23eed78ad8840a828a43c8ea702affa1cb4dd040526f7",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 47142,
+        "sha256": "114817fe48a42bbf55b23eed78ad8840a828a43c8ea702affa1cb4dd040526f7"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 48102,
+        "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "current_source_consistency_qualification_FIRST15_20261012_V1": {
+  "schema": "EXACT_CURRENT_FROZEN_MEANING_QUALIFICATIONS_V1",
+  "source": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+  "status": "ROOT_CURRENT_SEMANTIC_QUALIFICATION_ACCEPTED_WITH_LIMITS",
+  "original_all_literals_hashes_decisions_inverses": "PRESERVED",
+  "new_credit": 0,
+  "judgments": [
+    {
+      "id": "KAYA-CHESS-SCALAR-9",
+      "owner_ref": null,
+      "current_qualification": "The first chess loss is Rin’s loss to Kaya. Existing current84/165 and ROOT substantive acceptance already retain Kaya’s win; no second result, political acquittal or invented meal consumption follows.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_KAYA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+          "json_pointer": "/mandatory_operative_qualification",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "327dd79ae0d4cc2a1a2de4bcfece990360941bb29c90bfa60e5ec4481682d04d",
+          "before_literal": "The operative Schale offer/refusal is V004C002E008; old C001E008 purpose/route fields remain literal historical inverses and C001E008’s RABBIT comparison remains separate. The whole first body and its single L52 correction are preserved. Final committee, false escort, General divergence, unknown objects and Rin aftermath retain different endpoints; old-friend company and a first chess loss neither acquit coercion nor prove a second result. Heine E005, owner104 and Aoi unsaved-draft qualifications remain visible.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    }
+  ],
+  "public_register_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+    "json_pointer": "/first15_independent_receiving_fragment/canonical_additive_control_actions/6",
+    "record_id": "FIRST15-CONTROL-07"
+  },
+  "reviewed_proposed_current_body": {
+    "bytes": 48102,
+    "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md"
+  },
+  "prepared_status_preserved": "C_ONLY_ROOT_MANUAL_ADOPTION_REQUIRED"
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/canonical_body_exact_tuple",
+      "retained_value_utf8_sha256": "3d374fd418c932b14dd2d7b613ac99d1fc968d09452abf9e33ff892fd992bec2",
+      "finding_ids": [
+        "P30-BODYBIND-P3-CHAR-M017"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 48102,
+      "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab",
+      "lines": 184,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 47294,
+        "sha256": "7b0dafe1d5053b1f79e5323a9a92b28fe78fc4fd2c46dfb7385b027621ec5ec8"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 48102,
+        "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

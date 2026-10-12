@@ -1248,4 +1248,15 @@
   "unreviewed_postmerge_audit_PASS_claimed": false,
   "new_literary_primary_native_raw_QA_AV_admission_identity_scope_count_model_credit_from_transport": 0
  }
+,
+  "current_phase3_source_consistency_audit_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "coverage_ledger": "series/blue-archive/08 Audits and Manifests/SOURCE_CONSISTENCY_COVERAGE_20261012_V1/PUBLIC_ALL133_CONCISE_COVERAGE_INDEX_V72.json",
+  "body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "wrapper_current_bindings_and_recovery": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "analytical_frontier": "UNCHANGED133/355;13/29_NAMED;FIRST89_COMPLETE;NEXT178;MODELS0;ALL14_OPEN",
+  "inspection_grade": "ALL133_DECLARED_ACCEPTED_ANALYTICAL_CONTEXTS_WITH_EXPLICIT_PRIMARY_WRITTEN_EXCEPTIONS_AND_FINE_DEFERRED_CLAIMS",
+  "publication": "EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_WITNESSES_REQUIRED_SEPARATELY",
+  "PR153": "DRAFT_HOLD_PRE178;MERGE_RESERVED"
+}
 }

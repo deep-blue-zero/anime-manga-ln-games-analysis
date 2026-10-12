@@ -477,4 +477,63 @@
     "unreviewed_postmerge_audit_PASS_claimed": false,
     "new_literary_primary_native_raw_QA_AV_admission_identity_scope_count_model_credit_from_transport": 0
   }
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/complete_original_to_canonical_inverse/canonical_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "16fd2642da5abc36944df3433e4b6972ff771f69541bd0e9abe43dac9278bb96",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 42921,
+        "sha256": "16fd2642da5abc36944df3433e4b6972ff771f69541bd0e9abe43dac9278bb96"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 43533,
+        "sha256": "e2051f0401e053b897ee479b09d3bc593f14a727b4f38ab902cfd9f85397bc40"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "current_source_consistency_qualification_FIRST15_20261012_V1": {
+  "schema": "EXACT_CURRENT_FROZEN_MEANING_QUALIFICATIONS_V1",
+  "source": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+  "status": "ROOT_CURRENT_SEMANTIC_QUALIFICATION_ACCEPTED_WITH_LIMITS",
+  "original_all_literals_hashes_decisions_inverses": "PRESERVED",
+  "new_credit": 0,
+  "judgments": [
+    {
+      "id": "AOI-FRAME-L36",
+      "owner_ref": null,
+      "current_qualification": "**Source629 current interpretation qualification — 2026-10-12.** This is a dated predecessor adoption/publication account. At the audited source629 boundary the fixed133 canonical homes are present (100 character,16 directed relationship,5 ensemble,12 institution;13 named duties unchanged). Original acceptance decisions, preparation/pending statements, source128 tuples and earlier milestone counters remain historical witnesses. This source-consistency review does not certify a new provider/main validation result, new completion or source/identity/model credit; all14 original gaps remain OPEN.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_AOI_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+          "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/7/canonical_lines_complete_text/1",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "e4fc65ef8f0c23c8988df0992f5a22a3fbc450a5c23437c7908fc44f53ba5165",
+          "before_literal": "**Current reconciliation and fixed133 adoption boundary — 2026-10-11.** ROOT reconciled the local source at 16b038cc400805d15cfeb799d048e1d20ba9290d/tree 2e64442a6b80cea9d67143d690378bd01932cc88 with current main 87aeee05a161d716fe840a0dd5d5517d9c646df9. PR148 integrated published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246 at 150a85e49a2b6d5fbd0c402d06c3070ea945d0cd with exact whole-tree preservation. Current main contains128 integrated packages and the [seven PR152 corrections](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json) govern applicable current interpretation. The earlier first25% milestone at89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 remains completed history. The separately accepted source128 automatic chain remains its dated source witness; no unreviewed current-main postmerge audit is claimed. This fixed five-package proposal still requires full ROOT installation, then its own publication/validation sequence:133=100character+16directedrelationship+5ensemble+12institution,13named unchanged; current published128/main128 and next178 stay separate. Original bodies, source grades and all14OPEN/model0 remain unchanged; the preceding proposal is preserved with full byte inverses.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    }
+  ],
+  "public_register_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+    "json_pointer": "/first15_independent_receiving_fragment/canonical_additive_control_actions/1",
+    "record_id": "FIRST15-CONTROL-02"
+  },
+  "reviewed_proposed_current_body": {
+    "bytes": 43533,
+    "sha256": "e2051f0401e053b897ee479b09d3bc593f14a727b4f38ab902cfd9f85397bc40",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md"
+  },
+  "prepared_status_preserved": "C_ONLY_ROOT_MANUAL_ADOPTION_REQUIRED"
+}
 }
