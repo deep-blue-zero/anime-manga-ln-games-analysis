@@ -5,12 +5,13 @@ artifact_type: "analytical_method"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.1"
+version: "0.2"
 status: "active_provisional"
 scope: "Primary-source observation, interpretation, prospective state and evidence standards"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_ANALYTICAL_METHOD.md"
 source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
 created: "2026-10-11"
+updated: "2026-10-12"
 review_status: "OWNER_REVIEW_PENDING"
 supersedes: []
 superseded_by: []
@@ -28,6 +29,23 @@ This method decides how to observe and judge the Japanese manga by Tsurumaikada.
 Japanese collected and serialized manga constitute the primary continuity. Use one authenticated Japanese tankōbon edition as the default sequential witness; magazine chapters, official digital serialization, revised editions, bonuses and colophons retain separate witness identities. A collected revision governs a reading of that edition without erasing what its earlier magazine witness established. Compare both when a material difference exists. Record whether a statement describes continuity, an edition-specific rendering, or publication history.
 
 The [source map](MEDALIST_SOURCE_AND_SCOPE_MAP.md) separates source inventory, structural verification, admission, narrative inspection, sequential closure and public publication boundaries. Anime S1/S2 belong to adaptation continuity; creator/publisher commentary to supplemental evidence; localization to translation witnesses; reception to secondary interpretation. None fills an absent Japanese volume or silently supplies a character's manga history. The present V15/Score 61 lead does not authorize skipping to V13 or reading V01–V15 retrospectively.
+
+## Fanbook and other supplemental source authority
+
+Classify an official fanbook by component rather than assigning the whole book one literary rank. The COTE guidebook precedent supplies the four core distinctions DATA, RATING, EDITORIAL and FICTION; Medalist additionally distinguishes attributed creator commentary and technical reference. These are source layers, orthogonal to the observation/inference/confidence labels below. Classifications here are a future contract, not a claim that either available fanbook contains every class.
+
+| Source layer | Permitted use and limit |
+| --- | --- |
+| `FB-DATA` | Explicit documentary facts such as dated biographical fields, chronology or recorded results; attribute them to the fanbook and retain scope/date. A documentary record does not automatically settle a disputed depicted event. |
+| `FB-RATING` | Measurements, evaluations or rankings if present; retain evaluator, date, axes and observation conditions. A score or result is not total competence, personality or human worth. |
+| `FB-EDITORIAL` | Retrospective profiles, relationship captions, summaries and official framing; compare with richer manga evidence rather than importing the caption as a motive or timeless trait. |
+| `FB-FICTION` | Verified creator-authorized bonus manga or other new fiction, with continuity and disclosure position established. It is literary evidence in its own witness, not merely editorial commentary; gag, crossover or unresolved-continuity material remains labeled accordingly. |
+| `FB-CREATOR` | Attributed creator interviews or production commentary; evidence for the stated intention/process. Intent, depicted effect and a character's knowledge remain separate. |
+| `FB-TECHNICAL` | Attributed skating explanations or reference material; distinguish the book's explanation from in-story statements and independently verified external knowledge. Real-world applicability still requires the technical/date/category checks below. |
+
+Inventory component form as well: original/reprinted manga, profile, interview, illustration, table, explanation or promotion. Reprints cross-reference the prior witness and do not supply another independent context. Illustrations may support a bounded visual claim, not an assumed mainline event; promotional/later-territory components have explicit exclusions. Unknown attribution or continuity stays unresolved.
+
+Encounter supplements at their verified analytical position under the architecture's checkpoint rule. Preserve story chronology, publication chronology, analytical disclosure order and character knowledge separately. A newly disclosed old fact is not automatically new character development. A fanbook adds to or revises current interpretation through an attributed later observation; it never silently replaces an earlier manga freeze or grants a character the reader's later knowledge.
 
 ## Evidence grammar
 

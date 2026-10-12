@@ -5,12 +5,13 @@ artifact_type: "source_unit_reading_specification"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.1"
+version: "0.2"
 status: "active_provisional"
 scope: "Reusable prospective source-unit transaction and completion contract"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_UNIT_READING_SPEC.md"
 source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
 created: "2026-10-11"
+updated: "2026-10-12"
 review_status: "OWNER_REVIEW_PENDING"
 supersedes: []
 superseded_by: []
@@ -50,6 +51,21 @@ Before substantive inspection, record the current Git base, owner authorization,
 Each canonical observation has `MD-EV-VNN-####` (or `MD-EV-SNNN-####` for serial units), plus: source key, locator, component/continuity, inspected feature, speaker/observer, story-time certainty, evidence class, identification confidence, limits and linked claims. Short Japanese text/gloss/ambiguity appears here when needed. Ledgers reference this row rather than owning a second observation. Material claims have stable `MD-CL-####` IDs and exact versions.
 
 An exit freeze `MD-FR-VNN` records: entering freeze, admitted witness set, coverage endpoint, claim-version list, affected ledger row/version references, unresolved questions/prediction IDs, actual inspection limitations and next candidate. The reading contains a compact state snapshot, not merely links to mutable current rows. Preserve earlier versions and qualifiers even when subsequent ledger views advance. A source-unit's completed receipt is recovered from the Git commit containing it; no commit claims to contain its own SHA.
+
+## Fanbook paratext-audit transaction
+
+Future full-book artifacts use `02 Sequential Readings/MEDALIST_FB01_PARATEXT_AUDIT.md` and `MEDALIST_FB02_PARATEXT_AUDIT.md`, matching stable artifact IDs and structured `artifact_type: guidebook_paratext_audit`. They are governed substantive source readings: the CLOSED lock and authorization rules apply. Create them only for actual admitted work, not as bootstrap placeholders or numbered manga volumes. A deliberately bounded component audit states its narrower identity/scope and cannot claim whole-book completion.
+
+Apply the mandatory contract with these supplemental acceptance tests:
+
+1. Verify source/hash/edition, component inventory, coverage basis, `admit_after` and actual documentary/fiction inspection capabilities. Inventory excluded reprints, teasers or unknown-continuity material; do not imply that inventoried means read/admitted.
+2. Enter from the completed manga-only freeze at the verified checkpoint, plus any already admitted supplements. Name prior claim/ledger versions, exposure and exclusions. The book's analytical position differs from the story date of any event it describes.
+3. Audit every admitted component under the method's `FB-DATA / FB-RATING / FB-EDITORIAL / FB-FICTION / FB-CREATOR / FB-TECHNICAL` layers. Preserve attribution, exact image/paragraph/panel locators and confidence; OCR alone cannot authenticate a documentary claim. New bonus fiction receives narrative/form/character analysis where verified; reprinted scenes do not count as independent evidence.
+4. Produce an explicit retrospective delta register: `later observation/locator + source layer + prior claim/version + earlier best inference + new evidence + PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN + affected homes/versions + unresolved limits`. Distinguish new facts, corroboration, summary, changed framing and surviving conflict; separate story time, disclosure and character knowledge.
+5. Reconcile materially affected ledgers/readiness, review dependent arguments and certify no-change homes. Keep manga-only freezes and original predictions intact. Source observations remain solely in the fanbook audit; domain ledgers link them.
+6. Freeze the combined state and close source/entrypoint/publication records. An admitted subset with excluded later components does not certify excluded content covered. Partial inspection preserves the high-water mark but cannot claim full audit completion.
+
+Fanbook observations use `MD-EV-FB01-####` or `MD-EV-FB02-####`; completed full-book freezes use `MD-FR-FB01` or `MD-FR-FB02`. Component-scoped records append their declared component scope to avoid colliding with full-book IDs. Record entering freeze, unchanged completed mainline manga endpoint, admitted component/witness set, supplemental endpoint, exact active claim/ledger versions, unresolved debts and next candidate. Later manga transactions identify this combined entering state while retaining the earlier manga-only freeze as historical truth. Completion increments supplemental progress separately from completed manga readings.
 
 ## Closeout and interruption
 

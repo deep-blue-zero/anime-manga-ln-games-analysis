@@ -5,12 +5,13 @@ artifact_type: "current_state_corpus_map"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.1"
+version: "0.2"
 status: "active_provisional"
 scope: "Single project entrypoint, initiation state, current authority and next permitted operation"
 canonical_home: "series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md"
 source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
 created: "2026-10-11"
+updated: "2026-10-12"
 review_status: "OWNER_REVIEW_PENDING"
 supersedes: []
 superseded_by: []
@@ -65,6 +66,13 @@ sequential_execution:
   committed_high_water_mark: null
   next_candidate_operation: V01
   run_state: NOT_AUTHORIZED
+supplemental_execution:
+  scheduled_units: [FB01, FB02]
+  admission_positions_status: HOLD_COVERAGE_UNVERIFIED
+  authorized_start: null
+  completed_paratext_audits: 0
+  committed_high_water_mark: null
+  run_state: NOT_AUTHORIZED
 ```
 
 Preliminary reconnaissance is sufficient for design; the true source gaps below remain unresolved. The seven day-one instruments exist with schemas and **zero evidence rows**. This is foundation completion, not satisfaction of owner approval, source admission or an OPEN gate. No `02 Sequential Readings/` directory/reading exists.
@@ -82,16 +90,21 @@ Preliminary reconnaissance is sufficient for design; the true source gaps below 
 
 | Boundary | Current fact |
 | --- | --- |
-| Inventory | Japanese filenames V13–V15; English filenames V01–V12, metadata-visible only |
+| Inventory | Drive snapshot: Japanese V13–V15 and English V01–V12; local addendum: Japanese V01–V15 containers plus Official Fanbook 01/02, filenames/sizes only |
 | Structurally verified / admitted / narratively inspected / closed | 0 / 0 / 0 / 0 |
 | Planned primary sequence | Japanese V01 onward, one authenticated volume per transaction |
-| Missing first-source route | Japanese V01–V12 not visible in the inspected evidence subfolder; localization cannot substitute |
+| First-source route | Owner-supplied local V01–V12 candidates now visible; authentication, derivative/source relation, coverage and admission still pending |
+| Supplemental source positions | FB01/FB02 inventory-visible; each coverage boundary and admit_after null/unverified; zero completed fanbook audits |
 | Public collected record | V15 latest identified by official publisher records at reconnaissance |
 | Public serialized record | Score 61 listing dated 2026-06-25; full magazine ceiling unresolved |
 | V15 chapter range / hiatus | Owner-reported Score 61 ending needs TOC verification; official September 4 hiatus text verified through X oEmbed; resumption status remains unverified |
 | Adaptation | S1/S2 planned distinct lane; no admitted episode/audio/video or manga crosswalk |
 
 These facts do not establish completed narrative coverage, an explanation beyond the notice's stated production circumstances, or a finished-series boundary. Later snippets returned by publication searches remain prior-exposure disclosures, not findings.
+
+## Supplemental checkpoint route
+
+The [architecture fanbook checkpoint](00%20Frameworks%20and%20Methods/MEDALIST_SYNTHESIS_ARCHITECTURE.md#fanbook-admission-checkpoints), [source schedule](00%20Frameworks%20and%20Methods/MEDALIST_SOURCE_AND_SCOPE_MAP.md#local-inventory-addendum-and-supplemental-schedule-2026-10-12) and [paratext-audit contract](00%20Frameworks%20and%20Methods/MEDALIST_SOURCE_UNIT_READING_SPEC.md#fanbook-paratext-audit-transaction) now cover FB01/FB02. Each enters after its verified manga cutoff is closed and frozen, then contributes an independently frozen supplemental delta before combined boundary synthesis. The numeric cutoffs remain pending verification; neither V15 nor a book number supplies them. Mainline manga completion and supplemental completion are tracked separately. There are no fanbook findings or audit artifacts yet.
 
 ## Initialized longitudinal responsibilities
 
@@ -109,9 +122,13 @@ Each home defines stable record IDs, trigger, evidence/confidence, links and his
 
 All authored Markdown is `active_provisional` with complete authority metadata. The local [.repository descriptor](.repository/series-registry.json) declares `project_initiation_gate: REQUIRED`, `PRESENT_VERIFIED` entrypoint structure and `PRESENT_UNREVIEWED` materialization. Housekeeping owns global routing; the author does not edit global series/corpus or character outputs. Branch publication and main integration do not constitute owner architectural approval.
 
-Owner review should settle the volume transaction with whole-Score serial exceptions, seven-home design/combined character-readiness responsibility, preservation of original prospective freezes, four-channel sport evidence, conditional specialist/model gates and deferred AV scope. Recommended defaults are specified in the architecture and receipt. An explicit later acceptance transaction can promote appropriate artifacts and open the lock only after all applicable initiation requirements; approving the design does not make an absent Japanese V01 available.
+Owner review should settle the volume transaction with whole-Score serial exceptions, seven-home design/combined character-readiness responsibility, preservation of original prospective freezes, four-channel sport evidence, conditional specialist/model gates, fanbook source classification/checkpoint/reconciliation rules and deferred AV scope. Recommended defaults are specified in the architecture and receipt. An explicit later acceptance transaction can promote appropriate artifacts and open the lock only after all applicable initiation requirements; approving the design does not authenticate or admit a filename-visible Japanese V01.
 
 Preferred future topology is staged: local primary reading/ledgers; fresh cloud substantial synthesis at a pinned boundary; local required evidence completion, reconciliation and authorized Git publication. Shared capability state at bootstrap: Drive/Git metadata retrieval verified; source bytes/container/page/Japanese text inspection not exercised; audio/continuous AV not exercised. Source availability and actual perception must be checked per stage. No literal model/effort or account allowance is inferred.
+
+## Architecture revision record
+
+2026-10-12, version 0.2: incorporated the owner-selected COTE guidebook pattern into the method, architecture, source map, reading specification and reconstruction contract; recorded newly observed local source filenames. Kept the seven ledgers and historical bootstrap receipt unchanged. No source contents admitted/inspected, no readings completed and no owner approval inferred. The original bootstrap is now present on main through reviewed PR #155 (`4a3a9cb5422ff5e817fff1603ef61c5d428e6a23`); that publication does not open the analytical lock. This amendment's commit and exact-head audits remain externally recoverable through Git history/status.
 
 ## Higher-level governing controls
 

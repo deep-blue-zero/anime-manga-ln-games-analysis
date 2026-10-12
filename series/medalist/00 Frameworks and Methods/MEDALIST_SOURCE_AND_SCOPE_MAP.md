@@ -5,12 +5,13 @@ artifact_type: "source_inventory"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.1"
+version: "0.2"
 status: "active_provisional"
 scope: "Evidence-plane routing, source identity, admission stages, locators and publication boundary"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_AND_SCOPE_MAP.md"
 source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
 created: "2026-10-11"
+updated: "2026-10-12"
 review_status: "OWNER_REVIEW_PENDING"
 supersedes: []
 superseded_by: []
@@ -60,7 +61,28 @@ The new folder is newer than the shared inventory's baseline. Record that routin
 
 All rows are `INVENTORY_VISIBLE` only. MIME type, name and byte size were returned by folder listings; the Japanese file metadata additionally confirmed parent and modified time. Volume/language labels are **filename assertions**, not verified OPF/colophon or translation-credit metadata. Edition, imprint/source vendor, chapter range, printed pagination and SHA-256 are unknown for every object. Requested Japanese checksum fields were not returned by the connector. No byte-equivalence claim is made.
 
-Japanese filenames V13–V15 do not establish a complete source chain. **Japanese V01–V12 are not visible in the inspected Medalist evidence subfolder.** English V01–V12 cannot substitute for them. No magazine-only source or complete anime evidence was discovered in the bounded Medalist folder inspection. No local or prior-conversation attachment is assumed accessible. A file added later is a new inventory observation, not a retrospective change to this snapshot.
+Japanese filenames V13–V15 did not establish a complete source chain in the 2026-10-11 Drive snapshot. **Japanese V01–V12 were not visible in that inspected Medalist evidence subfolder.** English V01–V12 cannot substitute for them. No magazine-only source or complete anime evidence was discovered in that bounded folder inspection. Local sources were not inspected for that snapshot; the later observation below records newly established access without changing the historical Drive result.
+
+## Local inventory addendum and supplemental schedule (2026-10-12)
+
+The owner supplied the local Medalist title directory. A direct filename/size listing establishes an available local candidate route `MD-LOCAL-001`; its private absolute path stays in the working-plane receipt, outside public Git. Local disk is an approved alternative evidence surface under repository routing. Filename visibility does not authenticate edition, content or continuity. No local container, manga page, fanbook profile/interview or bonus fiction has been opened for this addendum.
+
+| Local candidates | Observed format/count | Admission limitation |
+| --- | --- | --- |
+| Japanese V01–V07 and V10–V12 | 10 CBZ files | Container order, parent source/derivation, edition and complete coverage unverified. |
+| Japanese V08–V09 | 2 EPUB files | OPF/spine, edition and complete coverage unverified. |
+| Japanese V13–V15 | 3 EPUB and 3 CBZ files | Relation between formats and byte equivalence to the Drive EPUBs unverified; equal names/sizes are insufficient. |
+| Official Fanbook 01 | `Medalist - Official Fanbook 01 [Japanese].epub`, 72,171,652 bytes | Candidate `MD-SUP-JP-FB01-W01`; contents/coverage/attribution/continuity unverified. |
+| Official Fanbook 02 | `Medalist - Official Fanbook 02 [Japanese].epub`, 82,359,592 bytes | Candidate `MD-SUP-JP-FB02-W01`; contents/coverage/attribution/continuity unverified. |
+
+This resolves the location/visibility gap for Japanese V01–V12, not their authentication or admission. The 18 local volume containers and two fanbooks are physical file observations, not 20 independent literary witnesses. Authenticate any CBZ transformation against its parent and recoverable page/order mapping; allocate a separate witness or derivative identity only after verifying the relation. Do not silently equate a local file with a Drive object.
+
+| Candidate unit | covered_manga_boundary | admit_after | Current disposition |
+| --- | --- | --- | --- |
+| `FB01` | null — unverified | null — unverified | `HOLD_COVERAGE_UNVERIFIED`; inventory-visible; unauthenticated, unadmitted, uninspected |
+| `FB02` | null — unverified | null — unverified | `HOLD_COVERAGE_UNVERIFIED`; inventory-visible; unauthenticated, unadmitted, uninspected |
+
+Before advancing either row, record exact witness/hash and edition, actual component/spine/page ranges, attribution and source layer, continuity, coverage endpoint and its verification basis, analytical reading position, entering manga-only freeze, authorized includes/excludes, actual access limitations, completed audit/freeze and publication receipt. Scope-dependent subsets have their own disposition and do not close the whole-book row. Authentication and component mapping may be prepared early; substantive admission follows the architecture checkpoint and owner gate. Book number, release date and the current V15 publication lead do not supply the missing cutoffs.
 
 ## Publication reconnaissance, with separate confidence
 
@@ -77,13 +99,13 @@ Publisher descriptions and search snippets incidentally exposed later narrative 
 
 ## Identity, admission and extension
 
-Use source keys `MD-MG-JP-TB-VNNN-W01` for exact collected witnesses, `MD-MG-JP-SER-SNNN-W01` for magazine/serial witnesses, `MD-MG-EN-TB-VNNN-W01` for translation witnesses and `MD-AN-JP-S01-E###-W01` for adaptation episodes. These are project-local provenance keys, not global character IDs. A replacement edition/changed byte object gets a new W number with its predecessor retained.
+Use source keys `MD-MG-JP-TB-VNNN-W01` for exact collected witnesses, `MD-MG-JP-SER-SNNN-W01` for magazine/serial witnesses, `MD-MG-EN-TB-VNNN-W01` for translation witnesses, `MD-SUP-JP-FBNN-W01` for fanbook witnesses and `MD-AN-JP-S01-E###-W01` for adaptation episodes. These are project-local provenance keys, not global character IDs. A replacement edition/changed byte object gets a new W number with its predecessor retained.
 
 For each admitted object record ID/provider revision where exposed; verified volume, language, publisher/edition/colophon; size/hash and hash basis; container/order checks; Score coverage; source/derivative relations; locator version; continuity/component; authorization; coverage and limitations. New magazine-only Scores can append after verified placement without pretending a tankōbon exists. Later collection gets a separate edition crosswalk; compare changes and preserve serial freezes.
 
 | Dimension | Current state | Evidence required for advancement |
 | --- | --- | --- |
-| Inventory visible | 3 JP EPUB and 12 EN CBZ candidates | Metadata listing; does not authenticate contents. |
+| Inventory visible | Drive snapshot: 3 JP EPUB + 12 EN CBZ; local addendum: 18 JP volume containers + 2 JP fanbooks, not deduplicated across surfaces | Metadata listing; does not authenticate contents or prove witness equivalence. |
 | Structurally verified | 0 | Actual container/metadata/image order and integrity checks with recoverable receipt. |
 | Admitted for analysis | 0 | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
 | Narratively inspected | 0 | Actual source-content inspection with coverage record. |
@@ -91,6 +113,10 @@ For each admitted object record ID/provider revision where exposed; verified vol
 | Published serialization boundary | Score 61 observed listing; full magazine ceiling unresolved | Independent publication witnesses; not inferred from analytical progress. |
 
 These are independent dimensions: a verified public chapter listing does not authenticate a private EPUB. Admission or inspection of a later witness never implies earlier unit completion.
+
+## Supplemental locator extension
+
+Fanbook locators retain the exact witness, component ID and locator version without an invented manga volume/Score. Reuse ordered spine/XHTML/image-occurrence/panel coordinates for image-based material; where actual text-bearing XHTML exists, define deterministic component/paragraph locators tied to that original resource. A fixed-layout page image is authoritative for its printed wording; OCR is a search aid, not replacement Japanese evidence. Do not assume either available fanbook is text-bearing or mixed-format until inspected. Every quoted/profile/bonus-fiction claim needs a tested locator to its actual primary surface. Reprints cross-reference the prior original; translated or transformed text remains a labeled derivative.
 
 ## Durable manga locator contract
 
