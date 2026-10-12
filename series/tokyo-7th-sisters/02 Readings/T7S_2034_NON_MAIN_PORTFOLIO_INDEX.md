@@ -4,13 +4,13 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.60"
+version: "2.70"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
 routing_audit: "../09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md"
 created: 2026-09-24
-last_updated: 2026-09-26
+last_updated: 2026-10-12
 do_not_use_as_literary_evidence: true
 ---
 
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 60/60 blocks; i-n-g coverage is 214/280 episodes across 80 chapters. The sixty reading units are closed; final run integration and publication audit are still required. Chapter 301320 remains outside this authorization.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and its audit retain their completed boundaries. The active [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed 10 source blocks / 30 episodes; i-n-g coverage is 244/280 episodes across 90 chapters, with 36 i-n-g episodes remaining. The next authorized but unread chapter is `301420` / **アルコール・ラプソディー** / 浅見ミワコ, episodes `612202701 / 612202702 / 612202703`, assigned B0170. Supplemental, multimodal, character and era-release obligations remain active.
 
 ## Closed first i-n-g tranche
 
@@ -140,3 +140,18 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0157](T7S_B0157_DEEP_READING.md) | `301290` / 榎並マドカ / ナナスタ任侠伝 ～姉妹仁義～ | `612201401 / 612201402 / 612201403` | `COMPLETE_BOUNDED` |
 | [T7S_B0158](T7S_B0158_DEEP_READING.md) | `301300` / 折笠アユム / ぽえ☆ぽえ★パンデミック | `612201501 / 612201502 / 612201503` | `COMPLETE_BOUNDED` |
 | [T7S_B0159](T7S_B0159_DEEP_READING.md) | `301310` / 上杉・ウエバス・キョーコ / You are Today | `612201601 / 612201602 / 612201603` | `COMPLETE_BOUNDED` |
+
+## Remaining 2034 i-n-g checkpoint
+
+| Block | Chapter | Episodes | Status |
+| --- | --- | --- | --- |
+| [T7S_B0160](T7S_B0160_DEEP_READING.md) | `301320` / 西園ホノカ / TEACHING ME | `612201701 / 612201702 / 612201703` | `COMPLETE_BOUNDED` |
+| [T7S_B0161](T7S_B0161_DEEP_READING.md) | `301330` / 荒木レナ / サムデイ・ノー・リグレット | `612201801 / 612201802 / 612201803` | `COMPLETE_BOUNDED` |
+| [T7S_B0162](T7S_B0162_DEEP_READING.md) | `301340` / 二川ミミ / 運命の人 | `612201901 / 612201902 / 612201903` | `COMPLETE_BOUNDED` |
+| [T7S_B0163](T7S_B0163_DEEP_READING.md) | `301350` / 瀬戸ファーブ / きゅんきゅん♥ソングライティング | `612202001 / 612202002 / 612202003` | `COMPLETE_BOUNDED` |
+| [T7S_B0164](T7S_B0164_DEEP_READING.md) | `301360` / 鳳チャチャ / 2week School Life | `612202101 / 612202102 / 612202103` | `COMPLETE_BOUNDED` |
+| [T7S_B0165](T7S_B0165_DEEP_READING.md) | `301370` / 逢原ミウ / こう、踏み込んで | `612202201 / 612202202 / 612202203` | `COMPLETE_BOUNDED` |
+| [T7S_B0166](T7S_B0166_DEEP_READING.md) | `301380` / 雲巻モナカ / 見つけたいもの | `612202301 / 612202302 / 612202303` | `COMPLETE_BOUNDED` |
+| [T7S_B0167](T7S_B0167_DEEP_READING.md) | `301390` / 逝橋エイ / エイ・ザ・ストレンジ | `612202401 / 612202402 / 612202403` | `COMPLETE_BOUNDED` |
+| [T7S_B0168](T7S_B0168_DEEP_READING.md) | `301400` / 星柿マノン / マノン絵日記 | `612202501 / 612202502 / 612202503` | `COMPLETE_BOUNDED` |
+| [T7S_B0169](T7S_B0169_DEEP_READING.md) | `301410` / 堺屋ユメノ / ユメノ・スイッチ | `612202601 / 612202602 / 612202603` | `COMPLETE_BOUNDED` |
