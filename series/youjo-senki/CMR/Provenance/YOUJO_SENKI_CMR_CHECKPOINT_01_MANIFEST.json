@@ -61,15 +61,15 @@
     },
     {
       "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_DRIVE_DISPOSITION.jsonl",
-      "bytes": 54969,
-      "sha256": "fcf8f226f3f7f400e4ca24e77b0d9001639d8b6852f8b4ec6b7ef49877a14708",
+      "bytes": 55083,
+      "sha256": "524d1eb9022d2bef84539ffea2604bd335454d6718dc65ef477c70f095a8fa09",
       "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
       "representation": "NEW_AUTHORED_ANALYTICAL_INDEX_OR_AUDIT"
     },
     {
       "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md",
-      "bytes": 16621,
-      "sha256": "599b59fcf20cf2121d1f38cb4f93d96f6fda9547298187683659db835360b697",
+      "bytes": 16968,
+      "sha256": "4eab051a95863a8c9eea83f4484af1560b9714e0fbd76ef7a93ab852947220c0",
       "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
       "representation": "NEW_AUTHORED_ANALYTICAL_INDEX_OR_AUDIT"
     },
