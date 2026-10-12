@@ -3,7 +3,7 @@ series: YOUJO_SENKI
 artifact_type: corpus_map
 scope: V01-V14 mature V2 synthesis + active Character Modeling and Reconstruction layer
 generation: V2_CMR
-version: '2.7'
+version: '2.8'
 status: active_provisional
 source_boundary: Original Japanese light novels Volumes 01-14
 current_entrypoint: CURRENT_STATE_AND_CORPUS_MAP.md
@@ -14,14 +14,14 @@ cmr_root: 1z-U_tluPeOwMuRIVzEbQOOxrI1cYlMK4
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-updated: '2026-08-23T20:45:00-04:00'
+updated: '2026-10-11'
 ---
 
 # YOUJO SENKI — CURRENT STATE AND CORPUS MAP
 
 ## 1. Current state
 
-*Youjo Senki* has one canonical analytical Drive root with three distinct responsibility layers:
+*Youjo Senki* uses this Git series root as its current analytical entrypoint. The preserved Drive routes below identify the original analytical provenance, primary sources, and bulk CMR evidence:
 
 - **Analytical root:** `17UvtZCM9QBQdFtqKjDsebZfQXsuB2idH`
 - **Mature V2 analysis:** `V2 Analysis` — `1q1xEv83Ld8KGENT_cZTN3OhAzjoFqzzs`
@@ -123,6 +123,10 @@ Key retrieval homes:
 
 ## 5. Active CMR architecture
 
+The Git-readable CMR route is [CMR/README.md](CMR/README.md). The first controlled port preserves the governing method, historical readiness audit, complete original-Drive disposition, deterministic integrity receipts, and all 676 inherited V01-V12 analytical diagnostics. See [diagnostic navigation](CMR/Diagnostics/YOUJO_SENKI_TANYA_DIAGNOSTIC_NAVIGATION.md) for documented fields, source coordinates, and thematic retrieval. This port is `active_provisional`; it does not certify a finished model or change the frozen V2 corpus. Method promotion and the former-Drive pointer update remain pending verified main integration.
+
+The Drive folder architecture below remains the provenance and evidence map; analytical models and relationship/QA derivatives will use the Git CMR route when actually emitted.
+
 ### `06 Character Modeling and Reconstruction`
 Drive: `1z-U_tluPeOwMuRIVzEbQOOxrI1cYlMK4`
 
@@ -199,6 +203,7 @@ The simulator must therefore model the causal chain rather than a single flatten
 
 ### Method
 
+- Controlled Git method candidate: [YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md](CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md); its complete v1.1 substantive body is preserved from verified Drive bytes. The Git preface declares responsibilities and the pending promotion boundary. The former Drive object remains an explicitly identified predecessor rather than an unlabeled competing current copy.
 - CMR method: **v1.1 established, active provisional**. The v1.1 refinement formalizes speech reconstruction as `private appraisal -> communicative objective -> speech act -> relationship/role constraint -> register -> surface wording`, adds speech-specific diagnostic fields, mandatory low-stakes speech oversampling, no-shared-hierarchy professional-peer handling, character-specific speech hazards, and Document 12 as the translation-sensitive lexical warning layer.
 
 ### Source extraction
@@ -240,6 +245,8 @@ Important scope controls:
 The first modeling roster is now frozen for this generation: Tanya first; Lergen/Visha/Zettour as transfer priorities after Tanya QA; bounded specialists only within audited domains.
 
 ### Tanya evidence pilot - CMR-2 active
+
+The [interpretive navigation](CMR/Diagnostics/YOUJO_SENKI_TANYA_DIAGNOSTIC_NAVIGATION.md) now exposes every inherited V01-V12 diagnostic in three inspectable Git JSONL slices. All stable IDs, substantive English channel/condition/ceiling fields, and exact source hashes/coordinates are preserved or explicitly mapped; Japanese passage anchors remain in Drive. Legacy overall confidence is not a separately adjudicated speaker/focalizer score. This migration revalidates source routes and frozen hashes; it does not claim a new semantic reread of every prior scene.
 
 - **CMR-2A candidate retrieval: COMPLETE.** The deterministic broad-recall pass reduced the 63,812-row CMR-0 source index to **1,200** Tanya candidate centers distributed across V01-V14.
 - Candidate-pool SHA-256: `8344b6196565645cfe373d3468fa4f3c618d1c4d3afb363667c64a073a5c469a`.

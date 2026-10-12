@@ -1,0 +1,204 @@
+{
+  "schema": "youjo-senki/cmr-checkpoint-manifest/v1",
+  "tranche_id": "YOUJO_SENKI_CMR_PORT_CHECKPOINT_01_20261011",
+  "state": "REVIEWED_CANDIDATE_PUBLICATION_AND_INTEGRATION_NOT_YET_CERTIFIED",
+  "authorization_basis": "User explicitly requested completion of the named execution mandate, including eligible continuing-series branch publication; this package concretizes that authorized bounded scope. It does not claim a separate approval of an unprovided hash or permit policy exceptions.",
+  "repository": "deep-blue-zero/anime-manga-ln-games-analysis",
+  "baseline_main_commit": "238fed779661f6a5a49d6a70034a6183d17ca175",
+  "expected_remote_main": "238fed779661f6a5a49d6a70034a6183d17ca175",
+  "expected_remote_series_head": null,
+  "target_ref": "refs/heads/series/youjo-senki",
+  "normal_push_refspec": "HEAD:refs/heads/series/youjo-senki",
+  "commit_message": "feat(youjo-senki): port controlled CMR method and Tanya V01-V12 diagnostics",
+  "approved_author_identity": "peipw <50891441+peipw@users.noreply.github.com>",
+  "approved_committer_identity": "peipw <50891441+peipw@users.noreply.github.com>",
+  "authority_epoch": 1,
+  "authority_state": "ACTIVE_STABILIZING",
+  "authority_scope_sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916",
+  "writable_and_staged_allowlist": [
+    "series/youjo-senki/CURRENT_STATE_AND_CORPUS_MAP.md",
+    "series/youjo-senki/CMR/README.md",
+    "series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR1_READINESS_BASELINE.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_DRIVE_DISPOSITION.jsonl",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_INTEGRITY_REPRODUCTION_AUDIT.md",
+    "series/youjo-senki/CMR/Provenance/TANYA_INTERPRETIVE_FIELD_MAPPING.json",
+    "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V01_V04.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V05_V08.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V09_V12.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/YOUJO_SENKI_TANYA_DIAGNOSTIC_NAVIGATION.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_CHECKPOINT_01_MANIFEST.json"
+  ],
+  "artifacts": [
+    {
+      "path": "series/youjo-senki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 21730,
+      "sha256": "da31efd0b04de19041279e701a227ee4e4d624daf4302266d6546764543b62c5",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "TARGETED_CURRENT_STATE_PATCH"
+    },
+    {
+      "path": "series/youjo-senki/CMR/README.md",
+      "bytes": 7144,
+      "sha256": "6ed6d5cde5f019f4bbdb957e88a6d3d9343344f8a69432128dab5b32663aa51f",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "NEW_AUTHORED_ANALYTICAL_INDEX_OR_AUDIT"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md",
+      "bytes": 46188,
+      "sha256": "b06afe861523ae9128a2c663f73fb1f71a53b4baeb973dd254f5f470f93ba43c",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "DECLARED_METHOD_BODY_MIGRATION"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR1_READINESS_BASELINE.md",
+      "bytes": 28832,
+      "sha256": "1376c6a798ea8fad7117adeaf64a8322a6bb495cf7a6fb1c29758c5834343859",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "DECLARED_READINESS_BODY_MIGRATION"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_DRIVE_DISPOSITION.jsonl",
+      "bytes": 54969,
+      "sha256": "fcf8f226f3f7f400e4ca24e77b0d9001639d8b6852f8b4ec6b7ef49877a14708",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "NEW_AUTHORED_ANALYTICAL_INDEX_OR_AUDIT"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md",
+      "bytes": 16621,
+      "sha256": "599b59fcf20cf2121d1f38cb4f93d96f6fda9547298187683659db835360b697",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "NEW_AUTHORED_ANALYTICAL_INDEX_OR_AUDIT"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_INTEGRITY_REPRODUCTION_AUDIT.md",
+      "bytes": 10112,
+      "sha256": "426317ffc936c165b08a318015eb5a445f60cfb7081dea0a9a9158ae5acba7b9",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "NEW_AUTHORED_ANALYTICAL_INDEX_OR_AUDIT"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/TANYA_INTERPRETIVE_FIELD_MAPPING.json",
+      "bytes": 15331,
+      "sha256": "cb86d2474684ef5685f35e72285913a07fb998312ad8d96a89f5f2202905cff9",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "NEW_AUTHORED_ANALYTICAL_INDEX_OR_AUDIT"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V01_V04.jsonl",
+      "bytes": 743411,
+      "sha256": "300a02bf7b773a754df12b3082d46c6294307aebe72b5b726f585905ce387408",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "CONTROLLED_INTERPRETIVE_DIAGNOSTIC"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V05_V08.jsonl",
+      "bytes": 729396,
+      "sha256": "e9503850f4079a622e62868656e37d2faf05280def973d83ad4b398858f94875",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "CONTROLLED_INTERPRETIVE_DIAGNOSTIC"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V09_V12.jsonl",
+      "bytes": 914914,
+      "sha256": "ce8c501b2892f82c95fffdaec7b84d072d7c6ed3025134a7b76a572b9e69e321",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "CONTROLLED_INTERPRETIVE_DIAGNOSTIC"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/YOUJO_SENKI_TANYA_DIAGNOSTIC_NAVIGATION.md",
+      "bytes": 18664,
+      "sha256": "27cd02f506efb73cfea7cd4090a701e322f866c1879078657293589bfdf10a95",
+      "disposition": "CANONICAL_GIT_ANALYTICAL_DERIVATIVE_OR_CONTROLLED_MIGRATION",
+      "representation": "NEW_AUTHORED_ANALYTICAL_INDEX_OR_AUDIT"
+    }
+  ],
+  "manifest_self_hash": "Excluded from its own recursive artifact list; bound by the Git blob/commit and private SHA256 completion receipt.",
+  "source_snapshot": {
+    "current_cmr_files": 20,
+    "exact_small_current_originals": 19,
+    "giant_locator": "Exact deterministic reconstruction, not giant current-Drive-body download",
+    "source_epubs": 14,
+    "epub_lock": "All local SHA256/size/ZIP CRC/OPF validations pass; live Drive identities/names/sizes verified",
+    "frozen_v12_ledger_sha256": "4391f1042668cdc2148f6e09b975317cb5ab9d20c9e0e1679d491c450a8e6fa0",
+    "frozen_v12_index_sha256": "1240953f6174375e64ddf1eb44af83954984a438c4b2fbc5d8869dabcf42ce68",
+    "candidate_pool_sha256": "8344b6196565645cfe373d3468fa4f3c618d1c4d3afb363667c64a073a5c469a",
+    "locator_sha256": "c84fa4c8e0251730887b51913a8f32ea68c39be68ff4adae8d995d49292f5cfe",
+    "complete_disposition_ref": "YOUJO_SENKI_CMR_DRIVE_DISPOSITION.jsonl"
+  },
+  "semantic_validation": {
+    "676_prior_ids": "PRESERVED",
+    "40_substantive_fields": "PRESERVED_OR_EXPLICITLY_MAPPED",
+    "17_microquotation_transformations": "ROOT_INDEPENDENTLY_REVIEWED",
+    "2497_source_routes": "HASH_AND_MEMBER_TUPLE_VALIDATED",
+    "inherited_actor_certainty": "NOT_SEPARATELY_SCORED_LEGACY",
+    "novel_scene_text_in_git": false,
+    "frozen_v2_files_changed": false
+  },
+  "rights_privacy_size_review": {
+    "decision": "ELIGIBLE_AUTHORED_OR_INTERPRETIVE_TEXT_ONLY_NO_EXCEPTION",
+    "analytical_material": "User-established CMR methodology and source-adjudicated analytical findings; contextual English microquotation mappings exclude novel passage text.",
+    "source_media_and_bulk": "REFERENCE_DRIVE; raw EPUBs, locator/candidate/diagnostic exports, source-derived extraction scripts and private caches are excluded.",
+    "size": "Every exact new/edited artifact is under1MiB; no binary, source-media or size exception invoked.",
+    "privacy": "No local acquisition path, authenticated download URL, secret or personal workspace data in candidates.",
+    "revisions": "Unavailable older reference-only payloads have explicit visibility limits; no missing selected-current migration bytes are hidden."
+  },
+  "provider_readback_at_candidate_review": {
+    "repository_id": 1352620662,
+    "visibility": "public",
+    "default_branch": "main",
+    "owner_collaborator_only": "deep-blue-zero/admin",
+    "invitations": 0,
+    "deploy_keys": 0,
+    "rulesets": [
+      {
+        "id": 21946617,
+        "name": "Protect activation tags",
+        "target": "tag",
+        "enforcement": "active"
+      }
+    ],
+    "actions_permissions": {
+      "enabled": true,
+      "allowed_actions": "all",
+      "sha_pinning_required": false
+    },
+    "provider_controls_mutated": false
+  },
+  "validation_contract": [
+    "Reverify exact candidate and immutable source hashes; named path and unchanged V2 proof.",
+    "Author preflight current/index with routing-preflight series/youjo-senki using exact repository-pinned dependency versions.",
+    "Full staged path/diff, owner identity, size, strict UTF8/LF/NFC and whitespace review.",
+    "Recheck main and stable remote refs immediately before ordinary nonforced push.",
+    "Verify published commit/tree/complete changed-file set and clean full clone; no source-media/bulk objects admitted.",
+    "Wait for successful exact source audit, completed housekeeping and Repository integration audit on the exact final descendant before any subsequent author push.",
+    "Owner-governed main integration and method/pointer promotion are separately verified."
+  ],
+  "mechanical_correction_envelope": "Named paths only: broken links, encoding/whitespace, unambiguous schema/coordinate serialization errors that do not change substantive interpretation, source selection, disposition, authority or policy. Any semantic/source/rights/exception change requires a separately reviewed replacement package.",
+  "prohibited_operations": [
+    "Global governance/authority/capability/character registry/generated-index authorship",
+    "V2 rewriting",
+    "Raw Japanese/bulk source bytes in Git",
+    "Force or force-with-lease/history rewrite",
+    "Direct main commit or owner-control bypass",
+    "Drive evidence mutation in this checkpoint"
+  ],
+  "remaining_work": [
+    "Tanya V13/V14 complete cumulative closure and source review",
+    "All-volume non-destructive rule consolidation",
+    "Tanya mature operational model and independent QA",
+    "Transfer priorities and remaining evidence-supported roster",
+    "Directed relationship register, ensembleQA and discovery handoff",
+    "Final branch audits, owner-governed integration state and method predecessor-pointer resolution"
+  ],
+  "candidate_gate_repair": {
+    "superseded_unpublished_package_sha256": "a9e4f0f21dad7ae946d55c067baab286e5d786ee162daf97a4e145b522505080",
+    "reason": "Git reserved evidence/ for raw acquisition; repository publication gate rejects new external GoogleDriveURL literals.",
+    "changes": "Only new analytical directory/path tokens and source-ID wrappers changed. Novel anchors, original hashes/IDs, analytical findings, authority and provider controls remain unchanged.",
+    "publication_safe_source_navigation": "Original verified Drive IDs plus linked local disposition index, exact EPUB/member/paragraph hashes and typed routes.",
+    "initial_partial_gate": "FAILED_UNQUALIFIED;9of13 paths were staged after ignore rejection. No commit or push occurred; it cannot certify this corrected candidate."
+  }
+}
