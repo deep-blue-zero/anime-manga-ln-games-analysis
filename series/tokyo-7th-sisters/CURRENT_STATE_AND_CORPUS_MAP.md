@@ -4,16 +4,16 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.76"
+version: "12.77"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 253 non-Main i-n-g episodes / T7S_B0080–T7S_B0172 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 256 non-Main i-n-g episodes / T7S_B0080–T7S_B0173 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-12
+last_updated: 2026-10-13
 project_initialization:
   status: canonical
   architecture_lifecycle: EVOLVING
@@ -41,19 +41,19 @@ substantive_findings_at_bootstrap: false
 execution_scope: continuous_sequential_remaining_2034_to_era_release
 sequential_execution:
   mode: continuous_sequential
-  latest_operation: T7S_B0172_CLOSE
+  latest_operation: T7S_B0173_CLOSE
   status: ACTIVE
   authorized_start: T7S_B0160
   terminal_boundary: T7S_STACK_2034_ERA_RELEASE_COMPLETE
-  committed_high_water: T7S_B0172
-  completed_run_blocks: 13
+  committed_high_water: T7S_B0173
+  completed_run_blocks: 14
   remaining_run_blocks: NOT_FIXED_RELEASE_REQUIREMENTS_GOVERN
   confirmation_between_units: false
   execution_record: "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md"
-  next_candidate_episode_id: "612203001"
-  next_candidate_family_layer_id: "200300"
-  next_candidate_native_chapter_layer_id: "301450"
-  next_candidate_status: "AUTHORIZED_REMAINING_2034_RUN_NOT_CONSUMED: B0173; terminal boundary is complete 2034 era release"
+  next_candidate_episode_id: "612203101"
+  next_candidate_family_layer_id: "200310"
+  next_candidate_native_chapter_layer_id: "301460"
+  next_candidate_status: "AUTHORIZED_REMAINING_2034_RUN_NOT_CONSUMED: B0174; terminal boundary is complete 2034 era release"
 major_story_structures:
   T7S_STACK_2034:
     native_main_group: "2034年"
@@ -62,7 +62,7 @@ major_story_structures:
     native_main_families_total: 11
     closed_main_families: 11
     remaining_main_family_layer_ids: []
-    current_semantic_horizon: "through complete EPISODE NANASUTA / T7S_B0079 plus first 93 complete i-n-g chapters / T7S_B0080–T7S_B0172"
+    current_semantic_horizon: "through complete EPISODE NANASUTA / T7S_B0079 plus first 94 complete i-n-g chapters / T7S_B0080–T7S_B0173"
     eligible_non_main_closeout: ROUTING_AUDIT_COMPLETE
     non_main_portfolio_status: IN_PROGRESS
     declared_character_release: NOT_STARTED
@@ -81,7 +81,7 @@ major_story_structures:
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds the full remaining source and analytical obligations. [B0172](02%20Readings/T7S_B0172_DEEP_READING.md) is the closed checkpoint: Sisara accepts a returning main-model event for Nanasta's conditional mini-live opportunity after ordinary companion banter and unexplained hesitation. Unidentified magazine hostility remains unassigned. Former-agency model Mayuka challenges idol labor and threatens her; Ei defends the category and Sisara restrains escalation for distressed Manon. A checked disclosure frames earlier model pressure, Mayuka support, an imposed successor path, unsupported uncertainty and departure without telling her. Sisara misreads booking loss as the grievance. Choosing current peer work, she apologizes and defends friends while offering broad self-directed harassment acceptance, retaining a self-punishment tension. Mayuka corrects the grievance toward admiration and lost companionship, admits possible reliance and exchanges competitive commitments; this is partial repair. Player receives incomplete resolution, not proven whole private hearing. Narrated runway return, black ordinary reflection, audience expression comparison, Mayuka's aside and Sisara's inner future step preserve distinct frames and knowledge. Limited live occurrence is inferred, not full roster/set/technical quality. No actually heard audio/runtime, complete forgiveness, new unit/readiness or mature release follows; full2034 remains open and2053 blocked. The current program has closed 13 source blocks / 39 primary episodes; 721 eligible story episodes plus supplemental and release work remain. The next authorized but unread chapter is `301450` / **ワールドデビュー！？** / ジェダ・ダイヤモンド, episodes `612203001 / 612203002 / 612203003`, assigned B0173. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
+**Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds the full remaining source and analytical obligations. [B0173](02%20Readings/T7S_B0173_DEEP_READING.md) is the closed checkpoint: Jeda's urgent unexplained fan encounter is mistaken for an emergency before Ridley Camelot's guest offer turns shared drama/film enthusiasm into wanted work. Her own small-lines estimate meets a demanding script/stunt schedule; after recognizing its cost she renews her choice, and Player supports it through apologetic rescheduling labor that keeps him away from filming. A represented final Jeda/Kajika take and attributed praise establish bounded work/reception. The undisclosed Nanasta music opportunity prompts Player to recast her insistence as institutional self-sacrifice. Jeda corrects him: she wanted the hybrid action role, linked to cinema memories with Papa and younger sisters, and wants work her family can proudly see. Group benefit remains welcome but secondary; local self-age17 and family reception stay qualified. Apology permits differing costume taste; several months later the source narrates streaming, shared viewing and Haru☆Jika recognition/odd music-action fit. This is limited diegetic release/use, not heard synchronization, actual video, complete licensing/global metrics, new unit history or mature character release. Full2034 stays incomplete and2053 blocked. The current program has closed 14 source blocks / 42 primary episodes; 718 eligible story episodes plus supplemental and release work remain. The next authorized but unread chapter is `301460` / **アイドルファンタジー777 ～そして伝説へ～** / 三森マツリ, episodes `612203101 / 612203102 / 612203103`, assigned B0174. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
 
 ## Governing and cumulative homes
 
@@ -234,16 +234,16 @@ Reader-facing Latin spelling follows first-party evidence: **Coney Rokusaki** in
 | Scope | Inventoried | Semantically screened | Factually reconstructed | Closely analyzed | Integrated state |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Main | 364 | 235 | 235 | 235 | 235 |
-| Sub | 755 | 744 | 253 | 253 | 253 |
+| Sub | 755 | 744 | 256 | 256 | 256 |
 | Event | 231 | 231 | 0 | 0 | 0 |
 | Additional scripts / logical occurrences | 228 unique scripts | 219 unique scripts | 86 / 87 | 86 / 87 | 86 / 87 |
 | Supplemental records | 30,991 | 26,844 | 0 | 0 | 0 |
 
 Screening counts are recomputed from the logical ledger, expanding shard-local defaults. The Sub screening count includes the one excluded crossover episode; only 743 Sub episodes belong to the eligible 2034 portfolio. Supplemental screening counts use active leaf tranches only and do not double-count the two inactive split parents. Screening/routing is not reconstruction or audiovisual review.
 
-The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA. Recommendation ranks 1–235 are now admitted without a hole. EPISODE 3.0's 42 qualified family-`200070` documents `{611100101–611100902, 611101001–611101704}` remain chapter-defined and are not duplicated: ranks 161–162 carry its first two records and ranks 179–218 carry its remaining forty. NANASUTA is the distinct family-`200120` range `1013100101–1013100306` at ranks 219–235. Eighty-seven additional inline movie-transcript occurrences are consumed only as attachments to their invoking AXiS, EPISODE 0.7, EPISODE 5.0, or EPISODE 6.0 pages; one Episode 6.0 source document is invoked in two contexts and the coverage ledger preserves both logical occurrences. The 253 T7S_B0080–T7S_B0172 Sub documents are also consumed; remaining eligible Sub/Event resources are screened/routed but not yet reconstructed, and supplemental integration remains incomplete.
+The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA. Recommendation ranks 1–235 are now admitted without a hole. EPISODE 3.0's 42 qualified family-`200070` documents `{611100101–611100902, 611101001–611101704}` remain chapter-defined and are not duplicated: ranks 161–162 carry its first two records and ranks 179–218 carry its remaining forty. NANASUTA is the distinct family-`200120` range `1013100101–1013100306` at ranks 219–235. Eighty-seven additional inline movie-transcript occurrences are consumed only as attachments to their invoking AXiS, EPISODE 0.7, EPISODE 5.0, or EPISODE 6.0 pages; one Episode 6.0 source document is invoked in two contexts and the coverage ledger preserves both logical occurrences. The 256 T7S_B0080–T7S_B0173 Sub documents are also consumed; remaining eligible Sub/Event resources are screened/routed but not yet reconstructed, and supplemental integration remains incomplete.
 
-Across B0001–B0172 the repository contains 172 bounded readings, 884 causal events, 25 world states, 47 threads, 1041 typed edges, 99 identity routes, 81 character states, 657 epistemic states, 836 directional relationships, 28 unit/institution states, 29 retained R2 readiness decisions, 844 literary claims, 42 revisions, seven frozen predictions, and 119 AV-review records. The i-n-g horizon totals 253 primary episodes / 20,164 pages / 17,909 text records / 2,255 command-only pages / 13,636 dialogue-associated voice-reference pages. Per-unit source-lock receipts bind reviewed static assets and exact modality limits. No total order among chapters or against Main, performed-audio claim, monograph, or specialist synthesis is promoted.
+Across B0001–B0173 the repository contains 173 bounded readings, 904 causal events, 25 world states, 47 threads, 1067 typed edges, 101 identity routes, 83 character states, 677 epistemic states, 860 directional relationships, 28 unit/institution states, 29 retained R2 readiness decisions, 856 literary claims, 42 revisions, seven frozen predictions, and 120 AV-review records. The i-n-g horizon totals 256 primary episodes / 20,526 pages / 18,234 text records / 2,292 command-only pages / 13,840 dialogue-associated voice-reference pages. Per-unit source-lock receipts bind reviewed static assets and exact modality limits. No total order among chapters or against Main, performed-audio claim, monograph, or specialist synthesis is promoted.
 
 ## Major-story-structure transition state
 
@@ -307,7 +307,7 @@ The [seven EPISODE 6.0 readings](02%20Readings/T7S_B0070_DEEP_READING.md) follow
 
 The [three EPISODE NANASUTA readings](02%20Readings/T7S_B0077_DEEP_READING.md) follow Kyoko and Ferb through film-image strain and person-specific rehearsal; Sumire and Kazumi through privacy breach, mutual misreading, sexist television framing, and mismatch-compatible coordination; and Haru, Shirayuki, and a child fan through weather disruption, support, failed reception, disclosure, labor, and repair. Their [compact synthesis](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_NARRATIVE_SYNTHESIS.md) owns causal, character, knowledge, relationship, unit, and world-state closeout. The promoted [arc deep reading](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_ARC_DEEP_READING.md) independently reads the title triptych—hand offered, shoulder wetted, small umbrella—as a formal account of care that is partial, revisable, directional, and limited by reception. Rain repeatedly suspends a planned route so ordinary micro-infrastructure can become visible. Deleting the arc reading would erase the cross-chapter relation among specific attention, non-assimilative coordination, and failed-but-circulating care.
 
-There is no remaining candidate within the admitted series-`100020` 2034 Main recommendation range. The i-n-g portfolio closes 93 chapters through `T7S_B0172`. The [2034 completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) authorizes the full remaining 2034 work. The next authorized but unread chapter is `301450` / **ワールドデビュー！？** / ジェダ・ダイヤモンド, episodes `612203001 / 612203002 / 612203003`, assigned B0173. Physical source order is a routing axis, not total chronology, and no 2053 semantics are authorized.
+There is no remaining candidate within the admitted series-`100020` 2034 Main recommendation range. The i-n-g portfolio closes 94 chapters through `T7S_B0173`. The [2034 completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) authorizes the full remaining 2034 work. The next authorized but unread chapter is `301460` / **アイドルファンタジー777 ～そして伝説へ～** / 三森マツリ, episodes `612203101 / 612203102 / 612203103`, assigned B0174. Physical source order is a routing axis, not total chronology, and no 2053 semantics are authorized.
 
 EPISODE NANASUTA is the final closed Main family **inside the still-unfinished 2034 stack**, not a route toward immediate 2053 continuation. The complete 2034 release obligations above must be resolved before the era audit can make a 2053 prerequisite decision eligible. No request to “continue to the next major unit” may be interpreted as authority to cross into 2053 while its semantic-admission status remains blocked.
 
@@ -494,3 +494,5 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-10-12 — V1 / 12.75: close T7S_B0171; advance the remaining-2034 program to 12 source blocks / 36 episodes and i-n-g coverage to 250/280; retain the full era-release endpoint and route the next obligation.
 
 - 2026-10-12 — V1 / 12.76: close T7S_B0172; advance the remaining-2034 program to 13 source blocks / 39 episodes and i-n-g coverage to 253/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-13 — V1 / 12.77: close T7S_B0173; advance the remaining-2034 program to 14 source blocks / 42 episodes and i-n-g coverage to 256/280; retain the full era-release endpoint and route the next obligation.
