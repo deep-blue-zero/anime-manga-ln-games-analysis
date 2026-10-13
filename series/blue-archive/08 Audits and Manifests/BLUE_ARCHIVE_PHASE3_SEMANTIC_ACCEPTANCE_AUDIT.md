@@ -1,9 +1,9 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: semantic_acceptance_audit
-scope: "Phase3 fixed133 after ROOT installation;100CHAR/16REL/5ENS/12INST;13named unchanged;published128ea923 exactchainPASS;main128 integrated through PR148;PR152 corrections adopted;first25 milestone89 completed history;355/29/25/384 unchanged;later134+ excluded"
+scope: "Current source/main133; ROOT accepted GSC134 WITH LIMITS; after complete install100CHAR/16REL/5ENS/13INST and14named; final persistence/publication pending;355/29/25/384 unchanged;next178"
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 source_boundary: "Accepted textual meanings at main 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c preserved by reconciliation c5f85a6921067abf031a920dbab7d84e12361b89; Phase 3 controls 2927442fef0daa17df1098d82bb62e0d8a46f19f; Japanese a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z"
 supersedes: []
@@ -12,10 +12,23 @@ do_not_use_as_current_authority: false
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md
 recommended_reasoning_class: DEEP_SYNTHESIS
 created: 2026-10-09
-updated: 2026-10-10
+updated: 2026-10-13
 ---
 
 # Blue Archive Phase 3 — semantic acceptance of literary packages
+
+## Current verified133 and prepared GSC134 adoption — 2026-10-13
+
+ROOT has accepted the complete GSC and Schale institution and its substantial civic Ayumu recovery request WITH LIMITS, with the six exact current purpose qualifiers for O025, O071, O073, O075, O079 and O087. The existing verified source and main each contain 133 packages and 13 completed named duties. Complete ROOT installation of this prepared package will yield 134 local packages (100 character, 16 directed relationship, 5 ensemble and 13 institution) and 14 completed named duties; GSC134 is not yet remotely published or integrated. Required scope remains 355 packages, 29 substantial named duties across 25 parents, 384 homes and 788 heterogeneous navigation rows. First89 milestone history remains complete; next178 is unreached. All14 original claim-specific gaps remain OPEN and models remain0.
+
+ROOT verified source `e748bf863ac674b3b215a9c132dbffb8533b1b43`, integrated main `0ed395926cca502fe1461d8c172330baab99e70e` and local ordinary reconciliation `3715f58bf1a61b7c191860eabad4382d8f0daafb` at the identical complete tree `5d24a375ffe80e3cefaa023bc101253f008970fb`. The preceding all133 source audit completed its SOURCE→HOUSEKEEPING→FINAL chain, and ROOT accepted two main audits with all301 mandatory tests and zero skips. The exact C beforeimage capture at `2026-10-13T01:03:42.819279+00:00` preserves the current bytes and index identities; this preparation performs no provider or Git operation. Those prior exact-head results do not certify the future GSC134 publication.
+
+The whole institution and civic argument retains actual work, contested office, independent choices and finite outcomes. Ayumu reports continuing damage, Aoi aid approval and available execution capacity while Rin remains suspended; Teacher aid is requested without a reply and three-student participation is prospective. No payment, completed reconstruction or reinstatement is invented. Ordinary food, games, rest, making, taste, reading and company remain intrinsic ends. O025 excludes only unsupported reading specificity in its two vignettes; independently evidenced Kasumi reading remains. O102 keeps EVENT861 hospitality/navigation/debt/extraction/rescue/work separate from MAIN_S2_V003 Sammy grief, and the owner68 fresh-scope fix stays unchanged. PR151, PR152 seven corrections/43 fields, all133 current qualifiers, frozen author payloads, original tuples and complete inverses remain governing.
+
+[GSC institution](../04%20Specialist%20Synthesis/Institutional%20Syntheses/BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md); [ROOT receiving](BLUE_ARCHIVE_GSC_SCHALE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json); [six current purpose qualifiers](BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json); [all133 source audit](BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json).
+
+Earlier count, source, pending-operation and PR-hold wording below remains dated custody at its original capture. This current boundary succeeds those operational states while preserving all literary decisions and evidence grades. GSC134 final persistence acceptance remains subject to ROOT’s review of the complete composed candidate, exact installation and its own publication chain. The GSC differentiated-work/practical-care parent, M008 and Minato retain separate responsibilities.
+
 
 ## 1. Responsibility and current decision
 
