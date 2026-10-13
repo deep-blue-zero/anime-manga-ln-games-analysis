@@ -2,17 +2,18 @@
 series: IMOSAE
 artifact_type: ledger
 ledger_type: character_and_relationship_state
-scope: V01-V13
+scope: V01-V14
 generation: V1
-status: active_provisional
-source_boundary: Japanese numbered light novels read through V13
-current_reading_boundary: V13
+status: canonical
+source_boundary: Japanese numbered light novels read through V14; nested fiction and paratext separately classed
+current_reading_boundary: V14
+checkpoint_freeze: IMOSAE_V13-V14_END_STATE_CHECKPOINT.md
 normalized_text_version: IMOSAE-JP-LN-NORM-1.0
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-version: '1.12'
-date: '2026-08-20'
+version: '1.13'
+date: '2026-10-12'
 ---
 
 # IMOSAE Character and Relationship State Ledger
@@ -433,15 +434,15 @@ V12 distinguishes re-owning a relation from restoring an old state. Itsuki/Nayut
 
 | Character / relation | V13 transition | Current V13 state | Evidence |
 |---|---|---|---|
-| 羽島伊月 | **MAJOR STRENGTHEN / integration enters public practice** | Itsuki finishes legacy sister series through legitimate calculated craft while `L↔Rデイズ` publicly integrates old passion and acquired technique. He consents to Kyo publishing the private Nayuta manuscript, rewrites it as `主人公になりたい`, sees it become his largest reception event, and chooses incremental self-authored continuation. He proposes to Nayuta; her answer is narratively elided as obvious. | IM-V13-E143–E197, E359–E398, E503–E624 |
-| 可児那由多 | **STRENGTHEN / stable primary commitment with broadened attachments** | Nayuta remains reconciled with Itsuki, declines to keep reading his craft-only legacy-series endings, supports the new work, consents to public circulation of the private manuscript, and is explicitly described as romantically attracted to Kyo. She is the recipient of Itsuki's proposal. | IM-V13-E143–E197, E503–E624 |
-| 白川京 | **MAJOR PHASE CHANGE / aspiration → exercised editorial authority** | Kyo enters Branch Hill, works under Ayane, acquires Izumi on creator-specific trust, makes real communication/authority mistakes, sees `暗黒騎士` succeed, develops a distinct editor ideal rather than copying Ayane, acknowledges romantic attraction to Haruto while prioritizing professional self-recognition, and becomes editor of `主人公になりたい`. | IM-V13-E010–E109, E275–E398, E399–E578 |
-| 羽島千尋 | **MAJOR STRENGTHEN / community and romantic resilience** | Chihiro enters university/TRPG life from personal interest, creates a fake-boyfriend lie to stabilize a male-heavy circle, accepts that she cannot bear responsibility for every response to truth, plans correction, confesses to Haruto again, and is rejected again without identity collapse. | IM-V13-E197–E264 |
-| 不破春斗 | **MAJOR STRENGTHEN / communicative care and explicit Kyo confession** | Haruto rejects Chihiro again, articulates distributed community maintenance and responsibility limits, defines `ほうれんそう` as repeatable editor minimum, then explicitly confesses to Kyo. He receives mutual-attraction acknowledgment plus deferred readiness and voluntarily chooses to wait. | IM-V13-E197–E264, E399–E463 |
-| 三田洞彩音 | **MAJOR STRENGTHEN / distinct editor grammar** | Ayane trains Kyo, explains constraints, mediates the Kyo/Izumi conflict through context and relationship rather than pure command, and exemplifies a style Kyo cannot simply copy. Her professional strength coexists with unresolved hostility toward Jogamine. | IM-V13-E010–E109, E359–E398 |
-| 和泉颯太 / 神坂蒼真 / 漬物ステーキ | **RETURN / new professional route** | Former GF newcomer returns through web fiction, accepts Branch Hill only if Kyo is editor, relives authority distrust, accepts revision after mediated repair, and sees `暗黒騎士` receive an early reprint. | IM-V13-E198–E274, E359–E398, E503–E578 |
-| 土岐健次郎 | **STRENGTHEN / developmental succession becomes imaginable** | Toki recognizes `L↔Rデイズ` as `変化ではなく、昇華`, sees Itsuki need less corrective intervention, and supports Kyo's later cross-label publication of the private manuscript despite sadness. | IM-V13-E359–E398, E503–E578 |
-| 海津真騎那 / 八坂顕 ↔ アシュリー | **MAJOR STRENGTHEN / chosen interdependence institutionalized** | The pair marry on Yuu's death anniversary. Yuu remains central to the wedding's memorial composition; continuation does not require replacement/forgetting. | IM-V13-E579–E608 |
+| 羽島伊月 | **MAJOR STRENGTHEN / integration enters public practice** | Itsuki finishes legacy sister series through legitimate calculated craft while `L↔Rデイズ` publicly integrates old passion and acquired technique. He consents to Kyo publishing the private Nayuta manuscript, rewrites it as `主人公になりたい`, sees it become his largest reception event, and chooses incremental self-authored continuation. He proposes to Nayuta; her answer is narratively elided as obvious. | IM-V13-E100–E154, E300–E339, E492–E596 |
+| 可児那由多 | **STRENGTHEN / stable primary commitment with broadened attachments** | Nayuta remains reconciled with Itsuki, declines to keep reading his craft-only legacy-series endings, supports the new work, consents to public circulation of the private manuscript, and is explicitly described as romantically attracted to Kyo. She is the recipient of Itsuki's proposal. | IM-V13-E100–E154, E492–E596 |
+| 白川京 | **MAJOR PHASE CHANGE / aspiration → exercised editorial authority** | Kyo enters Branch Hill, works under Ayane, acquires Izumi on creator-specific trust, makes real communication/authority mistakes, sees `暗黒騎士` succeed, develops a distinct editor ideal rather than copying Ayane, acknowledges romantic attraction to Haruto while prioritizing professional self-recognition, and becomes editor of `主人公になりたい`. | IM-V13-E010–E099, E155–E194, E260–E299, E352–E426, E427–E566 |
+| 羽島千尋 | **MAJOR STRENGTHEN / community and romantic resilience** | Chihiro enters university/TRPG life from personal interest, creates a fake-boyfriend lie to stabilize a male-heavy circle, accepts that she cannot bear responsibility for every response to truth, plans correction, confesses to Haruto again, and is rejected again without identity collapse. | IM-V13-E001–E009, E195–E249 |
+| 不破春斗 | **MAJOR STRENGTHEN / communicative care and explicit Kyo confession** | Haruto rejects Chihiro again, articulates distributed community maintenance and responsibility limits, defines `ほうれんそう` as repeatable editor minimum, then explicitly confesses to Kyo. He receives mutual-attraction acknowledgment plus deferred readiness and voluntarily chooses to wait. | IM-V13-E195–E249, E427–E491 |
+| 三田洞彩音 | **MAJOR STRENGTHEN / distinct editor grammar** | Ayane trains Kyo, explains constraints, mediates the Kyo/Izumi conflict through context and relationship rather than pure command, and exemplifies a style Kyo cannot simply copy. Her professional strength coexists with unresolved hostility toward Jogamine. | IM-V13-E010–E099, E352–E426 |
+| 和泉颯太 / 神坂蒼真 / 漬物ステーキ | **RETURN / new professional route** | Former GF newcomer returns through web fiction, accepts Branch Hill only if Kyo is editor, relives authority distrust, accepts revision after mediated repair, and sees `暗黒騎士` receive an early reprint. | IM-V13-E155–E194, E260–E299, E352–E426 |
+| 土岐健次郎 | **STRENGTHEN / developmental succession becomes imaginable** | Toki recognizes `L↔Rデイズ` as `変化ではなく、昇華`, sees Itsuki need less corrective intervention, and supports Kyo's later cross-label publication of the private manuscript despite sadness. | IM-V13-E300–E339, E492–E566 |
+| 海津真騎那 / 八坂顕 ↔ アシュリー | **MAJOR STRENGTHEN / chosen interdependence institutionalized** | The pair marry on Yuu's death anniversary. Yuu remains central to the wedding's memorial composition; continuation does not require replacement/forgetting. | IM-V13-E567–E577 |
 
 ### V13 relationship transitions
 
@@ -459,3 +460,46 @@ V13 makes character self-authorship public. Kyo's professional identity is teste
 ## Next update gate
 
 V14 is next and must use V14 alone as new semantic evidence. After V14, create the mandatory V13-V14 end checkpoint before full-series synthesis.
+
+
+## V14 — character and relationship delta / final mainline state
+
+Authority: canonical V14 reading plus the frozen V13–V14 checkpoint. New evidence is V14 only; existing volume rows remain prospective history. Current retrieval uses primary-name corrections in the [errata](../06%20Evidence%20and%20Indexes/IMOSAE_PRIMARY_IDENTITY_AND_NORMALIZATION_ERRATA.md).
+
+| Character / relation | V14 transition | Actual endpoint and evidence ceiling | Evidence |
+|---|---|---|---|
+| 羽島伊月 | STRENGTHEN / REVISE | Married father; seven well-selling standalones still face masterpiece comparison; addressed new fantasy and award achieved; rival's sequel judged greater; final childish reaction keeps ethical growth incomplete | `IM-V14-E003` `IM-V14-E019` `IM-V14-E022` `IM-V14-E025` `IM-V14-E046` |
+| 可児那由多 / 本田和子 / 羽島和子 | REVISE | Content domestic parent considering retirement; chooses new writing and requests domestic support; answering sequel adds new experience; actual pregnancy | `IM-V14-E019` `IM-V14-E023` `IM-V14-E024` `IM-V14-E048` |
+| 白川京 / Miyako | REVISE / STRENGTHEN | Recognized specialized editor/agent, self-recognized professional effort, finite publication gate, actual dating; some failed fits and concentrated workload remain | `IM-V14-E012` `IM-V14-E008` `IM-V14-E024` |
+| 羽島千尋 | STRENGTHEN | Technical research/graduate path, continued hurt and chosen move onward, incisive reader, secret astronaut/doctoral ambition; no achieved astronaut career | `IM-V14-E005` `IM-V14-E010` `IM-V14-E045` `IM-V14-E047` |
+| 不破春斗 / 晴彦 | REVISE | Experienced writer/judge and genuine invitation; jealousy and deliberately false report coexist; dating actual, cohabitation blocked | `IM-V14-E002` `IM-V14-E006` `IM-V14-E009` `IM-V14-E024` |
+| 土岐健次郎 | REVISE / STRENGTHEN | Remains GF editor; names missed masterpiece and changed causal role; differentiated rivalry/continuity with Miyako | `IM-V14-E014` |
+| 海津真騎那 / 八坂顕 | STRENGTHEN | New terrain and film success, family-first priorities, delegated adaptations, Yuu memory continues | `IM-V14-E015` |
+| 八坂アシュリー | STRENGTHEN | Mother/spouse and Kazuko friend; continuing memory and concern for Itsuki; no proof child is a replacement | `IM-V14-E015` `IM-V14-E025` |
+| 恵那刹那 / ぷりけつ | REVISE | Improved phone/deadline/craft practices and returned collaboration; objectification persists; absent Chihiro response unknown | `IM-V14-E021` `IM-V14-E024` |
+| 三国山蚕 / 熊野愛果 | STRENGTHEN | Independent manga/doujin work and adult partnership; privacy/noise/housing negotiations, family acceptance later reported | `IM-V14-E016` `IM-V14-E017` `IM-V14-E024` |
+| 三田洞彩音 / Ayane | STRENGTHEN | Vice-chief, mediator and distinct editor contrast; no exhaustive private-motive access | `IM-V14-E012` `IM-V14-E013` |
+| 神戸聖 / Gōdo; 城ヶ峰信長 / Shirogamine | PRESERVE / REVISE | Costly cultivation and autonomy/exit remain opposed credible views; partial recognition does not end disagreement | `IM-V14-E013` |
+| 相生初 / Ui; 笠松青葉 / Aoba | PRESERVE / STRENGTHEN | Different output/study priorities; Ui later reportedly steps aside; neither future nor full private state guaranteed | `IM-V14-E002` `IM-V14-E003` `IM-V14-E024` |
+| 和泉颯太 / 神坂蒼真 / 漬物ステーキ | STRENGTHEN | Sōta Izumi continues work after return; former pen name Misaka Sōma and current Tsukemono Steak are same writer | `IM-V14-E003` `IM-V14-E012` |
+| 木曽撫子 / Nadeshiko, nickname Nadeko | REVISE | Actual novice restores writing for Shiori; later angry at unauthorized portrait; future adult professional career draft-only | `IM-V14-E011` `IM-V14-E044` |
+| 羽島啓輔・棗・栞 / 宙 / 八坂優羽 | STRENGTHEN with boundary | Repeated family support; actual Sora two and Yū young child; projected teenage interiority/romance not actual | `IM-V14-E004` `IM-V14-E042` `IM-V14-E043` |
+| 宙の妹 | NEW TF / OPEN FUTURE | Actual unborn younger sister; no birth/name/later identity supplied | `IM-V14-E048` |
+
+### Directional relationship deltas
+
+- Itsuki wants both wife and rival writer; Nayuta states her own desire and support requirement. Successful response does not confer ownership or settle all earlier dependence.
+- Miyako's promise belongs to her: publication whether or not superior. Haruto's success-gated LINE report belongs to him and is explicitly false.
+- Chihiro helps move Haruto/Miyako forward because indefinite possibility hurts. He feels guilt but is not obliged to reciprocate. Reported stepping aside does not prove emotional extinction.
+- Toki's loss remains his loss. Miyako's respect preserves differentiated possibilities without reversing the past.
+- Ashley/Kaizu's care includes warning about Itsuki's dangerous intensity despite success.
+- Chihiro's care includes refusal and criticism, and her goal remains hers to disclose.
+- Itsuki's enjoyment of Nadeshiko's hurt is adverse relational evidence; no later apology shown.
+
+### Actual/draft separation
+
+The frame returns to Sora currently two. Teenage Sora/Yū/Shiori, Nadeshiko's future career, Miyako CEO, Chihiro achieved astronaut/divorce, Takashina troupe/coaching and Kaede are inside Itsuki's manuscript. They may be analyzed as represented possibilities; do not add them to this ledger's actual final state. Chihiro's secret goal and Kazuko's pregnancy are actual.
+
+### Next update gate
+
+The numbered-mainline state is frozen by the fifth checkpoint. Later source admission needs a labeled horizon. Retrospective specialist/model work must retain these directional and knowledge limits.
