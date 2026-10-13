@@ -31,7 +31,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Love Live! Superstar!!](../series/love-live-superstar/) — `series/love-live-superstar/`
 - [Lycoris Recoil](../series/lycoris-recoil/) — `series/lycoris-recoil/`
 - [Maebashi Witches](../series/maebashi-witches/) — `series/maebashi-witches/`
-- [Medalist / メダリスト](../series/medalist/) — `series/medalist/` — Japanese manga-primary INITIAL architecture awaiting owner review; sequential-analysis lock CLOSED. Seven cumulative schemas initialized with zero narrative findings/readings. Visible source metadata and unresolved source/admission boundaries are recorded in the canonical entrypoint.
+- [Medalist / メダリスト](../series/medalist/) — `series/medalist/` — Owner-approved Japanese manga-primary foundation; V01 Scores 1–3 and own-volume material closed with seven ledgers and MD-FR-V01. EVOLVING architecture, OPEN project gate; single-operation V01 run COMPLETED. V02, fanbooks and adaptation remain unauthorized and unadmitted.
 - [Monogatari Series](../series/monogatari-series/) — `series/monogatari-series/`
 - [Mushoku Tensei](../series/mushoku-tensei/) — `series/mushoku-tensei/` — Sequential analysis of the published Japanese light novels, with source locks, volume readings, six longitudinal ledgers and bounded reconstruction models. The canonical entrypoint records exact coverage, publication/audit gates and the authorized V15 terminal boundary; private primary evidence remains in Drive.
 - [My Hero Academia](../series/my-hero-academia/) — `series/my-hero-academia/`
