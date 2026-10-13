@@ -1,0 +1,16 @@
+{
+  "series_id": "silent-witch",
+  "stable_slug": "silent-witch",
+  "canonical_title": "Silent Witch: Secrets of the Silent Witch",
+  "media": [
+    "LIGHT_NOVEL"
+  ],
+  "repository_path": "series/silent-witch/",
+  "canonical_entrypoint": "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_SILENT_WITCH_BOOTSTRAP_V1",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Japanese-LN INITIAL architecture bootstrap for owner review; source inventory qualified and day-one master ledger initialized with zero narrative findings. Sequential-analysis lock CLOSED; primary and deterministic derived evidence remain outside Git."
+}
