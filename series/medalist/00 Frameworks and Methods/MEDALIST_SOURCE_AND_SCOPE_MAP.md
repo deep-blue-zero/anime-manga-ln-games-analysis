@@ -5,14 +5,14 @@ artifact_type: "source_inventory"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.3"
+version: "0.4"
 status: "canonical"
 scope: "Evidence-plane routing, source identity, admission stages, locators and publication boundary"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_AND_SCOPE_MAP.md"
-source_boundary: "Owner-approved foundation; Japanese V01 witness admitted as delivered; zero closed readings at activation"
+source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "OWNER_APPROVED_FOUNDATION_0.2"
+review_status: "AUTHOR_REVIEWED_V01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -66,7 +66,7 @@ Japanese filenames V13–V15 did not establish a complete source chain in the 20
 
 ## Local inventory addendum and supplemental schedule (2026-10-12)
 
-The owner supplied the local Medalist title directory. A direct filename/size listing establishes an available local candidate route `MD-LOCAL-001`; its private absolute path stays in the working-plane receipt, outside public Git. Local disk is an approved alternative evidence surface under repository routing. Filename visibility does not authenticate edition, content or continuity. No local container, manga page, fanbook profile/interview or bonus fiction has been opened for this addendum.
+The owner supplied the local Medalist title directory. A direct filename/size listing establishes an available local candidate route `MD-LOCAL-001`; its private absolute path stays in the working-plane receipt, outside public Git. Local disk is an approved alternative evidence surface under repository routing. Filename visibility does not authenticate edition, content or continuity. At this metadata-only addendum snapshot, no local container, manga page, fanbook profile/interview or bonus fiction had been opened. V01's later verification/closure is recorded separately below.
 
 | Local candidates | Observed format/count | Admission limitation |
 | --- | --- | --- |
@@ -89,11 +89,17 @@ Before advancing either row, record exact witness/hash and edition, actual compo
 
 Owner authorization: "I approve the revised foundation. Begin analysis/deep reading of Volume 1." Admission key `MD-MG-JP-TB-V001-W01`, local route `MD-LOCAL-001`, exact filename `Medalist - Volume 01 [Japanese].cbz`, **130,779,405 bytes**, SHA-256 **`df9a4c1c4fd3cb04313e42af5a26781e96c74652e315bbfda6b7d9a7d68ba0fe`**. The archive has 293 ordered image entries plus builder-generated ComicInfo.xml. The current run independently verified full ZIP CRC, decoded every image, and matched every original image hash/order against the retained build manifest. These are delivered-witness integrity claims, not a claim that the unofficial scan is identical to a publisher digital edition.
 
-The cover identifies Japanese Medalist Volume 1, つるまいかだ and AFTERNOON KC. The opening image 0004 identifies Score 1, 氷上の天才. Printing/colophon, exact printed pagination and the complete Score map remain pending direct mapping during the authorized volume reading; no absent data is invented. Archive image numbers are the governing locators. The padded wide cover is not automatically a double-page narrative spread. Page softness and a non-authorial site watermark are inspection limitations.
+The cover identifies Japanese Medalist Volume 1, つるまいかだ and AFTERNOON KC. The opening image 0004 identifies Score 1, 氷上の天才. The completed reading verifies Scores 1–3 and two Short Programs using the rear contents and inspected headings. No printing-date/edition colophon was found in the admitted witness; individual printed page markers/contents starts are verified where visible, without assuming a universal pagination offset. Archive image numbers are the governing locators. The padded wide cover is not automatically a double-page narrative spread. Page softness and a non-authorial site watermark are inspection limitations.
 
-The bounded candidate evidence set is image **0001–0233**, with main narrative and the book's own extras/paratext to be classified separately. Image **0234** was directly inspected only to confirm the unrelated Wandance first-chapter preview boundary; **0234–0293 are excluded** from Medalist evidence. No later Medalist volume, fanbook, adaptation or English translation is admitted. Internal component/Score mapping is part of the V01 transaction and will be frozen at closure.
+The admitted and completely inspected evidence set is image **0001–0233**, with main narrative and the book's own extras/paratext classified separately. Image **0234** was directly inspected only to confirm the unrelated Wandance first-chapter preview boundary; **0234–0293 are excluded** from Medalist evidence. No later Medalist volume, fanbook, adaptation or English translation is admitted. Internal component/Score mapping is frozen in the [V01 reading](../02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md); all 233 admitted images, including silent and blank material, were inspected.
 
 Capability probe: actual full-resolution local page-image inspection and readable Japanese text are available. During source/component verification, opening story images **0003–0004** and jacket gag images **0232–0233** were displayed before the OPEN record; preserve this incidental exposure, do not claim a blind entering reader or complete reading. Entering manga claims, predictions and character/ledger states remain empty. The [authorization/source receipt](../07%20Audits%20and%20Handoffs/MEDALIST_V01_AUTHORIZATION_AND_SOURCE_RECEIPT.md) preserves the activation snapshot; private source pages and full byte/locator manifests remain outside Git.
+
+## V01 closed component boundary
+
+The complete [reading/MD-FR-V01](../02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) closes V01 only. Scores 1, 2 and 3 occupy original images 0003–0071, 0073–0142 and 0143–0210 respectively. Profiles are at 0072 and 0211; dialect guidance at 0212; Short Programs 1 and 2 at 0213–0216 and 0217–0225. Domestic four-panel fiction/credits occupy 0226–0227, marketing 0228–0229, jacket/creator note/contents 0230–0231, jacket gags 0232–0233 and cover/blank 0001–0002. The rear contents confirms printed starts 001, 071, 141, 211 and 215. Mainline ends before 名港杯. V02 imagery in marketing is exposure only, excluded from mainline outcome and prediction evidence; no V02 file was opened.
+
+The local 16-batch visual checkpoint covers every admitted occurrence and retains original image hashes; private notes and media stay outside Git. The normalized logical ordered manifest SHA-256 is `94d23e14e6d77b8e85c75b478ba19d67d292bb9332c121f30a756a44eaeb6ec6`, distinct from receipt-file bytes. This source state does not authenticate printing, original binding geometry or a publisher digital edition. Own-volume paratext/bonus inspection increments no fanbook counter. The historical activation receipt and incidental-exposure account remain intact. Authored closure, publication and exact-head integration checks have distinct recovery evidence in Git/GitHub; no future green audit is asserted here.
 
 ## Publication reconnaissance, with separate confidence
 
@@ -117,10 +123,10 @@ For each admitted object record ID/provider revision where exposed; verified vol
 | Dimension | Current state | Evidence required for advancement |
 | --- | --- | --- |
 | Inventory visible | Drive snapshot: 3 JP EPUB + 12 EN CBZ; local addendum: 18 JP volume containers + 2 JP fanbooks, not deduplicated across surfaces | Metadata listing; does not authenticate contents or prove witness equivalence. |
-| Structurally verified | 1 delivered V01 witness; chapter/printing map pending | Actual container/metadata/image order and integrity checks with recoverable receipt. |
+| Structurally verified | 1 delivered V01 witness; component/Score map verified, printing unverified | Actual container/metadata/image order and integrity checks with recoverable receipt. |
 | Admitted for analysis | 1: V01 only, images 0001–0233 with component separation | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
-| Narratively inspected | 1 partial: incidental opening/jacket exposure; complete V01 reading not yet closed | Actual source-content inspection with coverage record. |
-| Sequentially completed | 0 | Closed reading, affected ledgers, immutable freeze and verified persistence/publication state. |
+| Narratively inspected | 1 complete: V01 images 0001–0233, mainline and classified own-volume material | Actual source-content inspection with coverage record. |
+| Sequentially completed | 1: V01, seven ledger updates and MD-FR-V01 | Closed reading, affected ledgers, immutable freeze and verified persistence/publication state. |
 | Published serialization boundary | Score 61 observed listing; full magazine ceiling unresolved | Independent publication witnesses; not inferred from analytical progress. |
 
 These are independent dimensions: a verified public chapter listing does not authenticate a private EPUB. Admission or inspection of a later witness never implies earlier unit completion.

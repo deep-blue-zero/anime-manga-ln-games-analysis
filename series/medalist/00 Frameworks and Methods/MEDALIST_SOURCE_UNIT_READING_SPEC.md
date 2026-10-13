@@ -5,14 +5,14 @@ artifact_type: "source_unit_reading_specification"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.3"
+version: "0.4"
 status: "canonical"
 scope: "Reusable prospective source-unit transaction and completion contract"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_UNIT_READING_SPEC.md"
-source_boundary: "Owner-approved foundation; Japanese V01 witness admitted as delivered; zero closed readings at activation"
+source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "OWNER_APPROVED_FOUNDATION_0.2"
+review_status: "AUTHOR_REVIEWED_V01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -72,4 +72,4 @@ Fanbook observations use `MD-EV-FB01-####` or `MD-EV-FB02-####`; completed full-
 
 Close one unit atomically: write the reading, update every materially affected ledger, source status and entrypoint, verify all named claims/locators, then validate and persist under the integration checklist. Partial inspection records the exact high-water mark within the unit but cannot advance the completed sequential boundary. Publication remains subject to source audit, housekeeping and final exact-head integration audit.
 
-Default future execution is `single_operation`. A continuous run requires a recoverable owner-authorized terminal boundary and independently closed/frozen units. After interruption, retrieve actual branch/head, entrypoint, last closed freeze, pending candidate and audit state before resuming. Later-source access is never evidence that an unfinished earlier unit completed. Historical bootstrap: zero completed readings and CLOSED lock. Current activation: owner-authorized V01 witness admitted, zero completed readings, OPEN initiation gate and single-operation V01 scope; the entrypoint owns live progress.
+Default future execution is `single_operation`. A continuous run requires a recoverable owner-authorized terminal boundary and independently closed/frozen units. After interruption, retrieve actual branch/head, entrypoint, last closed freeze, pending candidate and audit state before resuming. Later-source access is never evidence that an unfinished earlier unit completed. Historical bootstrap: zero completed readings and CLOSED lock. Historical activation: owner-authorized V01 witness admitted, zero completed readings, OPEN initiation gate and single-operation V01 scope. Current closure: one complete [V01 reading and MD-FR-V01](../02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md), seven reconciled ledgers, completed V01 operation and no later authorization; the entrypoint owns live progress.

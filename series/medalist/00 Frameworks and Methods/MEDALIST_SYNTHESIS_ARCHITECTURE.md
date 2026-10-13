@@ -5,14 +5,14 @@ artifact_type: "synthesis_architecture"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.3"
+version: "0.4"
 status: "canonical"
 scope: "Accumulation model, canonical responsibilities, promotion, convergence and completion"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SYNTHESIS_ARCHITECTURE.md"
-source_boundary: "Owner-approved foundation; Japanese V01 witness admitted as delivered; zero closed readings at activation"
+source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "OWNER_APPROVED_FOUNDATION_0.2"
+review_status: "AUTHOR_REVIEWED_V01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -23,7 +23,7 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 
 # Synthesis and corpus architecture
 
-This architecture defines what the prospective manga readings build. The [method](MEDALIST_ANALYTICAL_METHOD.md) governs how evidence is judged. Generation `MEDALIST_BOOTSTRAP_V1` began at lifecycle INITIAL with provisional authority and zero narrative findings. The owner has now approved the revised version-0.2 foundation; this is its canonical governing home. Lifecycle remains INITIAL at V01 activation, with no predecessor architecture superseded and no completed reading yet.
+This architecture defines what the prospective manga readings build. The [method](MEDALIST_ANALYTICAL_METHOD.md) governs how evidence is judged. Generation `MEDALIST_BOOTSTRAP_V1` began at lifecycle INITIAL with provisional authority and zero narrative findings. The owner has now approved the revised version-0.2 foundation; this is its canonical governing home. Lifecycle was INITIAL at V01 activation. The first completed V01 review moves it to EVOLVING; no predecessor architecture is superseded and the seven cumulative homes remain adequate.
 
 Higher-level authority is the live Git epoch/scope, initiation policy, authority/supersession policy, reasoning/capability and long-series policies, handoff/continuation contracts, source boundaries and repository checklist. [The current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) links those controls and is the only first-read project surface.
 
@@ -31,7 +31,7 @@ Higher-level authority is the live Git epoch/scope, initiation policy, authority
 
 The [source map](MEDALIST_SOURCE_AND_SCOPE_MAP.md) owns exact source identity, availability, admission and public publication reconnaissance. Japanese collected/serialized manga are primary continuity with edition-specific witnesses; numbered tankōbon volumes are the default sequence. Magazine-only chapters, delivery splits, collected revisions, bonuses and paratext are classified independently. Anime S1/S2, translation, creator/publisher supplements and reception are distinct evidence lanes. No complete manga/serialization ceiling is inferred from the visible Drive subset.
 
-Existing directories have actual responsibilities: `00 Frameworks and Methods/` holds five governing specifications; `03 Longitudinal Ledgers/` holds seven justified cumulative instruments; `07 Audits and Handoffs/` holds the bootstrap receipt. Future `02 Sequential Readings/`, `04 Character and Relationship Synthesis/` and `05 Specialist Synthesis/` arise only with real admitted/artifact-ready work. Checkpoints/audits remain in the audits area; a future release has an explicit scope manifest rather than a competing entrypoint. No empty directories or placeholder character/specialist files are created.
+Existing directories have actual responsibilities: `00 Frameworks and Methods/` holds five governing specifications; `03 Longitudinal Ledgers/` holds seven justified cumulative instruments; `07 Audits and Handoffs/` holds historical bootstrap and activation receipts; `02 Sequential Readings/` now holds the complete V01 reading. Future `04 Character and Relationship Synthesis/` and `05 Specialist Synthesis/` arise only with independently artifact-ready work. Checkpoints/audits remain in the audits area; a future release has an explicit scope manifest rather than a competing entrypoint. No empty directories or placeholder character/specialist files are created.
 
 Git contains interpretive Markdown, contracts and sanitized provenance. Drive and owner-approved local source holdings are alternative primary/derived evidence surfaces; temporary processing/transport artifacts remain in the working plane. The local route does not make source media part of analytical Git authority. Source authentication, narrative inspection, publication, semantic acceptance and integration are different states.
 
@@ -57,7 +57,7 @@ Evidence local to one unit with no recurring or downstream value remains in that
 | Exact page/balloon observations and short Japanese ambiguity notes | Frozen source-unit reading, not another cumulative ledger | All seven homes reference stable observation IDs/locators | Deferred; no reading |
 | Adaptation dialogue, acting, motion, sound, pacing and sequence divergence | Future scoped crosswalk and AV evidence matrix | Adaptation specialist after distinct source/capability admission | Deferred; no AV admission |
 
-These seven homes are required before the first reading because each prevents repeated reconstruction of a different recurring question. They do not require a row after every unit: inspect responsibility, update materially affected records and certify no-change cases in transaction closure.
+The matrix's day-one column is the historical empty initialization snapshot; current V01 records are linked from the entrypoint and frozen reading. These seven homes are required before the first reading because each prevents repeated reconstruction of a different recurring question. They do not require a row after every unit: inspect responsibility, update materially affected records and certify no-change cases in transaction closure.
 
 ## Ledger record and history contract
 
@@ -174,3 +174,15 @@ Version 0.1: INITIAL bootstrap; seven schemas and five governing specifications;
 Version 0.2 (2026-10-12): owner-directed COTE supplement precedent incorporated; fanbook source layers, independent audit/freeze, verified-boundary scheduling and synthesis reconciliation defined across method, source map, reading/reconstruction contracts and entrypoint. Local source filenames recorded separately from the earlier Drive snapshot. Seven ledger schemas and the historical bootstrap receipt are unchanged; no narrative evidence admitted, owner review remains pending and the lock remains CLOSED.
 
 Version 0.3 (2026-10-12): owner accepted the revised foundation and authorized V01 only. Current governing homes promoted to canonical; seven initialized ledger schemas retained without evidence rows at activation. Exact delivered V01 witness, exclusions, capability probe and initial exposure are recorded in the authorization/source receipt.
+
+Version 0.4 (2026-10-12): first V01 transaction completed with full admitted-image coverage, seven reconciled ledgers and MD-FR-V01. AUTHOR_REVIEWED evidence-driven lifecycle EVOLVING; foundation version 0.2 retains its separate owner approval. No new source-unit authorization or specialist/model promotion.
+
+## V01 evidence-driven architecture review
+
+The [closed V01 reading](../02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) exercises the approved transaction contract. All seven responsibilities receive material records; canonical observations remain only in that reading. Recognition/access, skill versus credential, context-specific confidence, directional peer/coach power and the distinction between imagined judgment and actual speech are retrievable through existing linked homes. Their recurrence does not require another ledger.
+
+Own-volume profiles, dialect guidance, bonus fiction, credits, creator note and marketing are classified within V01, with attribution and exclusions. Bonus fiction supplies MD-RT-0001–0003 within the first volume, before any earlier closed freeze exists; it does not justify invented prior claim versions. These are not fanbook audits and do not advance supplemental progress. Future fanbooks still require their own verified cutoff/admission, manga-only entering freeze, audit/delta and combined freeze.
+
+The first volume supports bounded protagonist and supporting-role arguments, not a validated behavioral model or full-series specialist. V01 readiness decisions remain distinct; no global character enrollment follows. The manga’s own 2019–2020 rule note is a season-identified in-story attribution, not external verification. Promotional future imagery is exposure, not a contest result or blind forecast basis. Printing and facing-page geometry gaps restrict those claims without blocking this delivered-witness reading.
+
+Lifecycle EVOLVING means the architecture has been tested against actual source evidence and remains open to justified later changes. It is not STABILIZED or a FROZEN release. V01 authorization is exhausted; listed V02 and fanbook candidates do not grant continuation.

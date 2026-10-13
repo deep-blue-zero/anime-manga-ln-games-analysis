@@ -5,14 +5,14 @@ artifact_type: "character_reconstruction_specification"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.3"
+version: "0.4"
 status: "canonical"
 scope: "Evidence density, monograph and behavioral-model promotion, constraints and validation"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_CHARACTER_RECONSTRUCTION_SPEC.md"
-source_boundary: "Owner-approved foundation; Japanese V01 witness admitted as delivered; zero closed readings at activation"
+source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "OWNER_APPROVED_FOUNDATION_0.2"
+review_status: "AUTHOR_REVIEWED_V01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -24,6 +24,8 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 # Character reconstruction contract
 
 This defines future character work; it is not a profile of Inori, Tsukasa or any other character. It is subordinate to [the global reconstruction specification](../../../characters/RECONSTRUCTION_CAPABILITY_SPEC.md). The [character/readiness ledger](../03%20Longitudinal%20Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md) has no subjects or assessments at bootstrap.
+
+The V01 closure now records separate evidence-based assessments in that ledger: bounded protagonist/supporting-role arguments, insufficient operational-model evidence and unresolved/excluded fanbooks for this manga-only scope. No character package, reconstruction rule or global capability is promoted by the reading. The contract below is unchanged.
 
 ## Separate promotion decisions
 

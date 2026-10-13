@@ -5,14 +5,14 @@ artifact_type: "analytical_method"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.3"
+version: "0.4"
 status: "canonical"
 scope: "Primary-source observation, interpretation, prospective state and evidence standards"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_ANALYTICAL_METHOD.md"
-source_boundary: "Owner-approved foundation; Japanese V01 witness admitted as delivered; zero closed readings at activation"
+source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "OWNER_APPROVED_FOUNDATION_0.2"
+review_status: "AUTHOR_REVIEWED_V01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -23,7 +23,7 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 
 # Analytical method
 
-This method decides how to observe and judge the Japanese manga by Tsurumaikada. The [synthesis architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md) allocates accumulated results; the [reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) defines transaction closure. The owner approved the revised version-0.2 foundation and authorized one complete V01 transaction. This canonical governing method retains the INITIAL design until the first evidence-driven architecture review; it does not authorize V02, fanbooks or adaptation sources. Source claims and the historical bootstrap remain distinct from this foundation approval.
+This method decides how to observe and judge the Japanese manga by Tsurumaikada. The [synthesis architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md) allocates accumulated results; the [reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) defines transaction closure. The owner approved the revised version-0.2 foundation and authorized one complete V01 transaction. The first evidence-driven V01 review now retains this method and the seven homes under an EVOLVING architecture; it does not authorize V02, fanbooks or adaptation sources. Source claims and the historical bootstrap remain distinct from this foundation approval.
 
 ## Witness hierarchy and scope
 
