@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.13"
+version: "1.14"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V14 closed (Scores 1–56, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V14_UPDATE"
+review_status: "AUTHOR_REVIEWED_V15_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -424,3 +424,36 @@ All feature and motif records below are version 1 through `MD-FR-V14`. In this s
 | MD-MOT-0011 — ice outside the rink (extended) | V14: EV-0022/0030 a film's lake; EV-0035 a sea | The lake is a film's and the sea a parody's | Water again stands beside the ice, at one remove | MD-CL-0012@14 |
 | MD-MOT-0012 — confinement and release (extended) | V14: EV-0029 a helper who lets go because he loves | It is a story within the story | Release is spoken as love | MD-CL-0026@7 |
 | MD-MOT-0003, 0004, 0007, 0008, 0010, 0013, 0014, 0015 | 0003: sugar before skating (EV-0021). 0004: none. 0007: a verdict of "no sense" refused for a child (EV-0014) and "no talent" refused as a premise (EV-0027). 0008: none. 0010: "absolutely" of the Olympic stage (EV-0010). 0013: none. 0014: none. 0015: none | — | Unchanged in kind | — |
+
+## V15 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V15`. In this section `EV-####` expands to the [V15 reading's](../02%20Sequential%20Readings/MEDALIST_V15_DEEP_READING.md#canonical-observations) `MD-EV-V15-####`. Locators are image occurrences in EPUB spine order. Order is verified. Facing-page geometry was not verified for any pair in this volume. Earlier tables are unchanged.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0133 | MD-MOT-0017; EV-0057 | 0001 | A colour jacket of the coach alone, hands clasped before his mouth, under a crow's wing and claws, with feathers at his hands | Puts the adult under the sign the volume gives to accusation | MD-CS-0320; MD-CL-0012@15/0031@1 | HIGH for construction |
+| MD-VF-0134 | MD-MOT-0017/0012; EV-0005 | 0020–0024 | A double Axel across full pages in which a costume's sequins flare and its colour turns from black to red; a transformed face thrust at the viewer over an ink burst | Makes a change of state coincide with a jump | MD-PERF-0117; MD-SK-0090; MD-CL-0012@15 | HIGH |
+| MD-VF-0135 | MD-MOT-0007/0017; EV-0007/0008 | 0028–0036 | A film told in its own panels, its captions set in framed boxes that merge with the skater's; a child in a corridor; a dress on a dummy before five figures | Lets a program's source speak the skater's accusation and its remedy | MD-CS-0313; MD-CL-0031@1/0026@8 | HIGH; cf. MD-VF-0130 |
+| MD-VF-0136 | MD-MOT-0005; EV-0010 | 0041 | A page of dark close-ups of the coach's eyes over his resolve to win, ending on his shadowed face with his pupil small behind him, looking at him | Shows the stake being set and being seen | MD-CS-0318; MD-CL-0028@5/0010@15 | HIGH |
+| MD-VF-0137 | MD-MOT-0006/0015; EV-0017 | 0066 | A full page of the heroine kneeling in her skates among broken crystal and heaped jewels before a white column, under a sentence about punishment | Draws an adult's inference as an image of the child | MD-CS-0319; MD-CL-0029@5 | HIGH; the image illustrates the trainer's words, not the heroine's |
+| MD-VF-0138 | MD-MOT-0007/0017; EV-0018 | 0068–0070 | A collage of the heroine's smiles over the years; the coach amid fragments of his own earlier sentences; a band lettered with a guilty verdict across his eyes; then a comic shoulder throw | Stages self-accusation and breaks it by farce | MD-CS-0320; MD-CL-0031@1 | HIGH |
+| MD-VF-0139 | MD-MOT-0014; EV-0019 | 0072 | A maze seen from above with small figures on its walls | Extends an earlier figure so that the watchers are also inside | MD-CS-0319; MD-CL-0017@11 | HIGH; cf. the V11 maze |
+| MD-VF-0140 | MD-MOT-0007; EV-0020/0035 | 0076, 0128 | A father's speech printed as illegible marks at its first recall and in clear type forty pages later | Makes the reader wait, with the rememberer, for a sentence that can be read only once nobody is to be judged | MD-CS-0326; MD-CL-0012@15/0010@15 | HIGH |
+| MD-VF-0141 | MD-MOT-0005; EV-0042 | 0159–0164 | A boy lit by a screen; a skater in black in flight; a full page of search bars over memories; a figure on a floor in the dark | Gives a wish as the record of its questions | MD-CS-0327; MD-CL-0010@15 | HIGH |
+| MD-VF-0142 | MD-MOT-0017/0001; EV-0034 | 0123–0127 | A body laid among flowers and bound by threads held in many hands; an engraving of gavels, pointing fingers and a dressmaker's dummy on a scaffold; a row of crows on a balustrade with one white bird | Draws distributed cause and the appetite for a culprit, in the iconography of the skater's film | MD-CS-0324; MD-CL-0031@1 | HIGH |
+| MD-VF-0143 | MD-MOT-0008/0011; EV-0040/0043 | 0149, 0167–0169 | A man at a rail under stars; two figures at a rail; two full pages of a lake at night without figures | Ends a confession on water and silence | MD-CS-0325; MD-CL-0012@15 | HIGH |
+| MD-VF-0144 | MD-MOT-0001/0012; EV-0047/0048/0050 | 0182–0195 | A pupil carried on a coach's back up a stairwell; set down; the two standing some steps apart; a father hunched while two sons gather dark lumps; a girl in a team jacket holding pale lumps, ringed by pointing and pressing hands, as a boy was ringed earlier | Makes carrying literal before it is discussed, and repeats one ring of hands around two children | MD-CS-0331/0332; MD-CL-0002@15/0027@7 | HIGH; cf. the boy at 0189 |
+| MD-VF-0145 | MD-MOT-0017/0002; EV-0052 | 0201–0208 | A hand pinning hair; an entrance under a spotlight; captions over a boy with a long ruler under crows, a girl skating among white doves, a nest in thorned branches, a hand raised to light; then a warm-up and a full-page jump with a second image at its apex | Closes the volume's argument in images of measure and colour and stops in mid-air | MD-CS-0334; MD-CL-0030@2/0013@15 | HIGH |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0017 — black and white: the colours of a verdict (new) | V15: EV-0057 a crow's wing over the coach; EV-0005 a costume from black to red; EV-0007 a piece named for a guilty verdict; EV-0034 sorting people into black and white, the original colour, a white crow; EV-0020/0035 crows on the wires of a childhood street; EV-0052 doves, and the rainbow between white and black. Earlier: V13's verdicts unlearned (MD-MOT-0007) | The costume does not turn white; the remedy offered is colour, not acquittal | Persons sorted by verdict, and the work's refusal of the sorting | Whether later volumes keep the figure; MD-CL-0031@1 |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V15: EV-0011 a bow; EV-0041 an embrace on the ice; EV-0043 a thump on the back; EV-0047 a pupil carried; EV-0052 hair pinned; rings of pointing hands around a boy and a girl | Carrying is contact she asks to end | Contact as care that can also be a weight | MD-CL-0002@15/0026@8 |
+| MD-MOT-0005 — seeing and being seen (extended) | V15: EV-0010 a pupil watching a vow; EV-0017 a child who reads adults' faces; EV-0021 acting that has been seen through; EV-0023 a readable face as strength; EV-0046 a child who sits up when her coach appears | The trainer names being seen through as the end of a method | Being read is now treated as a fact to be lived with | MD-CL-0028@5 |
+| MD-MOT-0006 — falling and getting up (extended) | V15: EV-0037 a boy's falls and a wish to disappear; EV-0051 the goal of getting up tied to guilt | No fall on the ice in the present | The obstacle to getting up is named as guilt | MD-CL-0019@12 |
+| MD-MOT-0007 — the verdict that returns (extended) | V15: EV-0035 a father's verdict on himself; neighbours' verdicts on a brother and a mother; EV-0037 a boy's verdict on himself; EV-0013 a girl's on a younger girl, withdrawn; EV-0034 a rule against verdicts | "Kind people" is counted a verdict too | Verdicts are traced to their sources and refused in principle | MD-CL-0031@1 |
+| MD-MOT-0012 — confinement and release (extended) | V15: EV-0004 a captive opening; EV-0008 a cage and a dress; EV-0050 "you would be living my life" | She declines the release he once offered | Release is redefined as each living her own life | MD-CL-0027@7 |
+| MD-MOT-0014 — the maze and the eye above (extended) | V15: EV-0019 supporters also stand in a maze | — | The eye above needs an eye above | MD-CL-0017@11 |
+| MD-MOT-0016 — the double and the water's surface (extended) | V15: EV-0046 she would let the double take her over; EV-0043 a lake that reflects towers and no face | The helper in her film leaves; the one in her life promises to stay and to have a life of his own | For her the double is a self she would yield to; the work does not endorse it | MD-CL-0029@5 |
+| MD-MOT-0002 — appraisal versus demonstrated movement (extended) | V15: EV-0002 a protocol read by a rival coach; EV-0052 a ruler that measured a boy | The ruler of V14 measured programs | Measure is bounded: programs, not persons | MD-CL-0030@2 |
+| MD-MOT-0003, 0004, 0008, 0009, 0010, 0011, 0013, 0015 | 0003: food bought with a patron and eaten gladly (EV-0045); sweets shared. 0004: an adult who asks to carry a regret (EV-0040). 0008: a night by a lake (EV-0043). 0009: a card game (EV-0029). 0010: "absolutely" of winning, to her mother and in his vow (EV-0010/0046). 0011: a lake (EV-0043). 0013: none. 0015: none by name; self-punishment as the old creed (EV-0017) | — | Unchanged in kind | — |

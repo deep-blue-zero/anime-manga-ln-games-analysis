@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.13"
+version: "1.14"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
-source_boundary: "Japanese V01–V14 closed (Scores 1–56, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V14_UPDATE"
+review_status: "AUTHOR_REVIEWED_V15_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -493,3 +493,27 @@ All rows are version 1 through `MD-FR-V14`. In this section `EV-####` expands to
 | MD-SK-0088 | Inori / her coaches / Score 54 | A mental run-through of the program, element by element, done on a journey and checked with her coach afterwards; she calls it a training devised with her teachers | DEPICTED practice; SELF_REPORT | EV-0004; MD-CL-0015@13 | HIGH that it is done; its design is not explained |
 
 The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V14`: a short program of 71.26 on a jump layout common to the field, with a level-4 step sequence and three level-4 spins; her quadruple is not shown, the segment not admitting one. Field frontier in this final as shown: short-program scores from 65.87 to 71.26 among five skaters, with the highest printed component totals at 30.36 and 30.22.
+
+## V15 evidence tables
+
+All rows are version 1 through `MD-FR-V15`. In this section `EV-####` expands to the [V15 observation](../02%20Sequential%20Readings/MEDALIST_V15_DEEP_READING.md#canonical-observations) `MD-EV-V15-####`. The competition opened in V14 has a completed short program and an unopened free skate at this freeze, which is the terminal boundary of the 2026-10-12 run. No external rule or medical document was consulted or admitted; the external-reference table remains empty. Scores are as printed. Earlier tables are unchanged.
+
+| Competition | Depicted identity / category / segment | Date / rule certainty | Source observations | External-rule refs / unresolved matches |
+| --- | --- | --- | --- | --- |
+| MD-COMP-0017 (short program complete; free skate not begun) | Junior Grand Prix Final, women, Beijing. **Short program, final order: 1 烏羽ダリア (Japan) 71.59; 2 結束いのり (Japan) 71.26; 3 Baek Horang (Korea) 71.24; 4 Belinda Bergamasco (Italy) 68.29; 5 Robin Chen (United States) 65.91; 6 Mia Ocelot (United States) 65.87.** Free skate: the six announced and the six-minute warm-up in progress | December; in-story statements added in V15: the result is the sum of two segments; a second-half combination carries a one-tenth bonus; a mixed zone ordered by sponsors' support | EV-0002/0009/0052 | No MD-EXT. The free skate, its start order and the result lie beyond the admitted boundary. Parts are not printed for the first and third scores. A preview in the V14 witness states a different outcome for the segment and is contradicted by these pages. |
+
+| Performance | Athlete / setting | Plan / attempt / depiction / call | Supplied score / result | Expressive aim / attributed response | Evidence / limits / correction |
+| --- | --- | --- | --- | --- | --- |
+| MD-PERF-0117 | MD-CHAR-0064 / MD-COMP-0017, short program, last to skate; music from a film, the piece's title meaning a guilty verdict; a self-made costume | Triple Lutz, landed; double Axel, during which the costume changes from black to red; step sequence, **level 4**; triple flip and triple toe loop in the bonus half, landed and judged fully rotated from the stands; spins not itemized; no error shown | **71.59**; first | Her own: a verdict on those who did not see her friend's suffering and on herself. Tsukasa beforehand: out of form this season. Her coach: a wall overcome | EV-0004/0005/0006/0007/0008/0009 |
+| MD-PERF-0118 | MD-CHAR-0001 as a high-school boy / a city beginners' class, entered without a club; self-made costume, music edit and choreography | One jump attempted four times for no credit by his own account; a protocol of minus fives; a sprained wrist | **9.46**; the only entrant in his class, so placed first with a certificate | The circle of hobbyists: alarm, a sense of betrayal, admiration of the costume; his own: a wish to disappear | EV-0037; MEMORY; no element list beyond his account |
+| MD-PERF-0119 | MD-CHAR-0001 with MD-CHAR-0006 / an ice-dance test in Yokohama | Dances well as a couple; asked to repeat alone; fails three times; passes at the fourth attempt after his working hours are relieved | Pass at the fourth attempt | Takamine: a partner's ability can make a candidate look better than he is | EV-0027/0032; MEMORY |
+| MD-PERF-0120 | MD-CHAR-0001 with MD-CHAR-0006 / the national championships, their last | Not depicted | Off the podium, her first miss in her career | Applause; her embrace | EV-0041; MEMORY; consistent with the accounts of this event given in V09 and V12 |
+
+| Technical transition | Athlete / coach / known after | Skill / prior limit / intervention / outcome | Channel / physical constraints / risk | Performance / evidence / claim version | Confidence / counterevidence / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-SK-0089 | Inori against Baek Horang / a rival coach / Score 57 | The margin of 0.02 attributed to a step sequence at level 4 against level 3 and to very high execution marks on spins, against a harder jump layout with a second-half combination | ATTRIBUTED appraisal from a live protocol | MD-PERF-0116/0115; EV-0002; MD-CL-0008@14/0005@14 | HIGH that he reads it so; the protocol's figures are not printed in full; first outside confirmation of the claim that her coach's allocation of training decides results |
+| MD-SK-0090 | Daria / Kyōboku / Scores 57–58 | A costume that changes colour inside a jump, self-made, which had been failing through the season and stiffening her movement; kept against advice; succeeds here | DEPICTED_PERFORMANCE; MEMORY of the advice; a risk to the jump acknowledged by both | MD-PERF-0117; EV-0005; MD-CL-0024@9/0030@2 | HIGH; how the device works is not explained |
+| MD-SK-0091 | Tsukasa as a young ice dancer / Takamine / Scores 59–60 | Knew the ideal movement from his teacher and could feel his deviation from it, without the practice time to close it; a test grade failed for want of hours and passed once he could sleep | SELF_REPORT; MEMORY | MD-PERF-0119; EV-0027/0032; MD-CL-0010@15/0017@11 | HIGH as remembered; consistent with MD-SK-0065 |
+| MD-SK-0092 | Inori / Tsukasa / Score 61 | The free-skate layout settled the night before with the quadruple Salchow included; she is carried upstairs to spare her legs; the gap to be made up is 0.33 | DEPICTED planning; a stated physical precaution | EV-0009/0047; MD-CL-0013@15 | HIGH that it is planned; nothing of it is skated within the boundary |
+
+The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V15`: unchanged from V14 for the heroine, a short program of 71.26; her quadruple is planned for the free skate and not shown. Field frontier in this final as shown: three short programs between 71.24 and 71.59.
