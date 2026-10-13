@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.3"
+version: "1.4"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V05 closed (Scores 1–19, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V04_UPDATE"
+review_status: "AUTHOR_REVIEWED_V05_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -169,3 +169,35 @@ All events below are version 1 through `MD-FR-V04`. In this section `EV-####` ex
 | Elite resources | ORG-0006 | MD-IN-0014/0029/0035/0037 | Hidden champion coach, frequent ballet, a promise. | The promise. |
 | Coach's means | Tsukasa | MD-IN-0018/0038 | Borrowed equipment and a second job. | — |
 | Others | As V03 | as before | Unchanged in V04. | — |
+
+## V05 evidence tables
+
+All events below are version 1 through `MD-FR-V05`. In this section `EV-####` expands to the [V05 reading's](../02%20Sequential%20Readings/MEDALIST_V05_DEEP_READING.md#canonical-observations) `MD-EV-V05-####`. New settings: MD-ORG-0020 愛西ライドFSC (head coach Gori; a "rising" club); MD-ORG-0021 熱海SC, a Shizuoka club without a local rink; MD-ORG-0022 the national federation's designated-skater scheme (強化選手); MD-ORG-0023 the other Chūbu clubs in the field (タクト豊橋FSC, 長久手フラワーFSC, 金沢21FSC, アイス敦賀FSC). MD-ORG-0006 is named 名港ウィンドFSC in this volume, with Sonidori as head coach. MD-ORG-0004, 邦和スポーツランド, hosts the block competition. Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0040 | Qualification, fifteen entrants | Competition day | Five places at the All-Japan Novice; a skater seeded at the Nagano camp is exempt; seeded skaters usually enter anyway | The event becomes a contest for the seats the seeded skater does not need; for strong clubs entry is a minimum, for Inori a feat | EV-0003/0007/0045; MD-COMP-0006; MD-CL-0013@5/0023@1 | HIGH as in-story statements; prior MD-IN-0031/0039 |
+| MD-IN-0041 | Novice A rules | Ceremony and event | Lutz, flip and loop all required, stated as unique to Novice A and meant to raise skaters for international competition; ten elements; three minutes ± ten seconds; three specified spins with minimum revolutions | A late starter must field all three harder take-offs at once | EV-0010/0017/0020/0021; MD-CL-0013@5 | HIGH as in-story statements; unverified externally |
+| MD-IN-0042 | ORG-0022, senior and junior skaters | Ceremony | About twenty women's singles skaters designated yearly across senior, junior and Novice A, in three ranks; practice slots and subsidies for competing abroad; the top rank is the previous All-Japan podium | Novice A skaters are told they are already counted as future national-team material | EV-0008/0010; MD-CL-0001@5/0011@5 | HIGH as in-story statements |
+| MD-IN-0043 | Olympic selection, Riina | Ceremony | This winter is an Olympic winter; for seniors this event is the first stage of selection; winning the All-Japan in such a season is described as the sure route; press cameras attend | A novice's casual question lands on people whose season depends on the day | EV-0009/0010; MD-CS-0067 | HIGH that it was said; selection rules are one skater's account |
+| MD-IN-0044 | Event procedure | Competition day | Coaches do not attend the opening ceremony; an athletes' oath; start order by lot afterwards; the first starter is applauded; a kiss-and-cry exists only at higher-level events; a streaming camera | A twelve-year-old meets the field without an adult; the draw shapes pressure and tactics | EV-0003/0011/0013/0018 | HIGH |
+| MD-IN-0045 | Scoring as stated | Event | Stated base values; a 1.1 multiplier on the last two of six jumping passes; a fall deduction of 0.50; a hand down taking most of the body's weight treated as a fall; spin level features; printed protocols with under-rotation, edge and invalid-element marks | Layout becomes an expected-value problem; errors and content are priced separately | EV-0017/0020/0021/0022/0024/0034/0038; MD-CL-0013@5/0008@4 | HIGH as in-story statements; refines MD-IN-0036's "second half" |
+| MD-IN-0046 | ORG-0006, its pupils | Eight years ago to the present | A club whose hallmark is finishing high-difficulty jumps in competition; an internal ranking spoken of by pupils and staff; after Hikaru's arrival six pupils quit citing talent; a bystander says the head coach "drew a winning child"; his first choreography went to his first pupil | The strongest club in the region is also where a prodigy's cost is counted | EV-0018/0030/0032/0033/0036; MD-CL-0001@5/0023@1 | HIGH that these are shown or said; no causal link to the head coach's conduct is shown; prior MD-IN-0014/0035 |
+| MD-IN-0047 | ORG-0021, Waka, her coach | Competition day | No rink in the prefecture; repeated drives to Nagoya by the coach; he weighs more ice time against travel and the parents' burden and leans toward camps | A structural handicap named by the adult carrying it; the child reads it as her debt and is told it is not | EV-0026; MD-CS-0073; MD-CL-0011@5 | HIGH |
+| MD-IN-0048 | ORG-0007, Kago, Meiko, Tsukasa | Past to competition day | A patron's support that was his wife's wish and a hope the couple shared from her hospital room; never repaid by a live performance; the recipient apologized for giving nothing back; the patron now says he was repaid by the recipient's passion and comes to watch his work | The meaning of the support changes for the recipient years after it was given | EV-0002/0012/0014/0015; MD-RL-0086/0087; MD-CL-0010@5/0011@5 | HIGH wording; prior MD-IN-0018/0038 and V01 patron rows |
+| MD-IN-0049 | Coaching authority over a layout: ORG-0006, ORG-0020, ORG-0002 | Night before and competition day | One coach accepts a pupil's proposal on a condition; one sets a plan, has it broken and adopts the result; one assistant readies a bouquet per pupil; one studies past protocols overnight | The layout is negotiated, and departures from it are absorbed, not punished | EV-0012/0016/0018/0024/0035/0039; MD-CL-0024@1 | HIGH; both pupil-initiated gambles shown ended in first place |
+| MD-IN-0050 | Spectators | Competition day | A patron and his daughter cannot read the sport and ask a stranger; a rink clerk explains it as a wager; two adults find they support the same skater | The work supplies its own guide for a lay viewer | EV-0017/0027; MD-CS-0085 | HIGH |
+| MD-IN-0051 | ORG-0010 and ORG-0016 resources, Yodaka, Hikaru | Qualifier week | Hikaru is taken to St Petersburg for instruction by a ballet master who knows her as Yodaka's student | Elite preparation continues abroad while the region contests the seats she does not need | EV-0006; MD-RL-0095; MD-CL-0016@4 | HIGH for the facts; purpose unstated; prior MD-IN-0029/0037 |
+
+### Current projection after V05
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| Qualification | Novice A, Chūbu | MD-IN-0040; MD-COMP-0006 | Five seats, thirteen of fifteen skated, leader 80.03. | The result. |
+| Novice A rules and scoring | The event | MD-IN-0041/0045 | Stated requirements, values, multiplier and deductions. | External verification. |
+| Designation and selection | Elite skaters | MD-IN-0031/0042/0043 | A ladder from Novice A to the national team, with a seed at its novice end. | How Novice A results feed it. |
+| Elite club and its cost | ORG-0006 | MD-IN-0046/0051 | Strongest club; hidden coach; training abroad; six departures. | Whether its adults register the cost. |
+| Access by geography | ORG-0021 | MD-IN-0047 | No local rink. | — |
+| Patronage | Tsukasa, Kago | MD-IN-0048 | A debt declared paid by the creditor. | The debtor's view. |
+| Authority over layout | Three clubs | MD-IN-0049 | Negotiated between coach and child. | Inori's layout. |
+| Others | As V04 | as before | Unchanged in V05. | — |

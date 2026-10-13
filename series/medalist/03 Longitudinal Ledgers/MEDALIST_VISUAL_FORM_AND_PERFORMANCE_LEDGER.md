@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.3"
+version: "1.4"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V05 closed (Scores 1–19, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V04_UPDATE"
+review_status: "AUTHOR_REVIEWED_V05_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -141,3 +141,31 @@ All feature and motif records below are version 1 through `MD-FR-V04`. In this s
 | MD-MOT-0007 — the verdict that returns (extended) | V04: EV-0023 "in the way" shown to be a repetition; EV-0035 and EV-0041 the coach's "take challenges lightly" used by Rio at two decisive moments | — | A sentence can return as a weight or as a tool; the same boy now carries one of each | MD-CL-0016@3/0021@2 |
 | MD-MOT-0008 — night and morning (new) | Chapter titles across V03–V04 (夜が嫌い, 夜に吠える, 夜を踊れ, 朝が来る); EV-0004 the park; EV-0015 the ridge; EV-0022 the car park; EV-0029 six in the morning; EV-0045 a moonlit window | Night is also when Yodaka teaches and when Hikaru looks out smiling | Within this arc, night holds what cannot be said by day and morning the act that follows | Held until it recurs outside the arc; MD-CL-0012@4 |
 | MD-MOT-0002, 0003, 0004 | No material V04 development beyond the test as appraisal without audience (EV-0042) | — | Unchanged in kind | — |
+
+## V05 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V05`. In this section `EV-####` expands to the [V05 reading's](../02%20Sequential%20Readings/MEDALIST_V05_DEEP_READING.md#canonical-observations) `MD-EV-V05-####`. Image order is verified. Facing-page geometry is verified for images 0050–0051 and 0180–0181 only. Earlier tables are unchanged.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0034 | MD-MOT-0009; EV-0001/0047 | Colour, 0003–0005; title art 0045, 0081 | Silhouetted skaters as stars; girls holding cards marked with jump abbreviations; five gilt chairs on a dais; a dealer and coins stamped success and error | Sets the volume's two governing images before the story resumes | MD-CL-0012@5/0023@1 | HIGH construction |
+| MD-VF-0035 | EV-0004/0030/0045 | 0017–0018; 0136; 0184 | A child drawn with her coach's expression and a caption naming the "possession"; another alone in a cubicle voicing two hand puppets; an under-jacket page billing the two against each other | Two versions of a self-supplied adult voice, comic in the first and private in the second | MD-CS-0063/0074; MD-CL-0002@5/0012@5 | HIGH; the pairing is confirmed by a creator aside |
+| MD-VF-0036 | EV-0006 | 0021–0024 | A cut from stunned faces in a hall to a blade in a dark rink; an unnamed grinning figure; a dusk shoreline with a man smoking | Answers "she is not here" with where she is, and keeps her coach at the edge of the frame | MD-CL-0012@5/0016@4 | HIGH |
+| MD-VF-0037 | EV-0008 | 0027–0029 | Shoes entering, then two full-page portraits under camera flashes, seen from a seated child's height | Gives senior skaters the scale of celebrity | MD-CL-0012@5 | HIGH |
+| MD-VF-0038 | EV-0013 | 0050–0051, one verified spread | Fifteen portraits with club and school year; a diagonal banner across both pages; the first group across the upper halves, the second across the lower | Makes the field a roster the reader can return to | MD-COMP-0006; MD-CL-0012@5 | HIGH; first verified facing pages in the run |
+| MD-VF-0039 | MD-MOT-0009; EV-0017 | 0069–0072 | A row of ten cards from start to goal; a strip of plus and minus marks summed to a total; a star chart of jump values; a coach and pupil over a layout sheet | Turns a rule set into a card game a lay viewer can follow | MD-IN-0045; MD-CL-0012@5/0013@5 | HIGH |
+| MD-VF-0040 | MD-MOT-0006; EV-0020/0021 | 0084–0104 | Four free skates interleaved; captions shared by all four; take-offs labelled with edge diagrams and base values; a ten-square element row under each; rule captions over spins; one full-page final pose seen from behind | Four clubs and four children think one thought; falling and recovering are shown as common, not individual | MD-PERF-0041–0044; MD-CL-0012@5/0005@4 | HIGH; assignment of some lines to a skater is by image |
+| MD-VF-0041 | MD-MOT-0002/0009; EV-0018/0022/0024/0025 | 0079–0080, 0106, 0108, 0110, 0115–0125 | Score boards with printed element codes beside faces; the five chairs redrawn with skaters seated and unseated; counters of jumps and spins remaining | Shows the standings as a picture and the gap between what was seen and what was called | MD-CL-0012@5/0013@5 | HIGH |
+| MD-VF-0042 | EV-0015 | 0059–0060 | The same hospital room in two panels, occupied and then with the bed stripped; a household altar; a man's hand over his face | States a death without a caption | MD-CS-0069/0070; MD-CL-0012@5/0010@5 | HIGH construction; the death is inferred from the image |
+| MD-VF-0043 | MD-MOT-0005/0007; EV-0032/0036/0037/0038 | 0144–0148, 0153–0164 | Black-gutter flashback; panels of another girl breaking into an approach; two puppets lying flat; a rejection and its replacement across a page turn; a full-page jump as a chain of figures; a panel of a rival's vow breaking into a step sequence; the stands rising | The decisive jump is framed by what she is thinking about and not by its mechanics | MD-PERF-0048; MD-CL-0012@5/0001@5 | HIGH |
+| MD-VF-0044 | MD-MOT-0001; EV-0041 | 0169–0171 | A collage of the field over a heartbeat; two fists on drawstrings; a full-page declaration; the volume ends before her skate | Loads the last page by withholding what thirteen other programs prepared the reader for | MD-CL-0012@5/0007@5 | HIGH |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0009 — cards, wagers and chairs (new) | V05: EV-0001 cards in the prologue; EV-0047 title art; EV-0017 the hand of ten; EV-0018 and EV-0025 the five chairs; EV-0025 "bet on herself"; chapter titles ギャンブル and 私のカード | Sekoma sets artistry aside to make the comparison; Yūna says the hardest worker does not win, which is the wager seen from inside | A program is a hand played under uncertainty for a limited number of seats | Held as this volume's organizing image until it recurs; MD-CL-0012@5/0023@1 |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V05: EV-0014 Kago catches her; EV-0015 his hand over his face; EV-0030 hands inside puppets; EV-0041 her fists on his drawstrings | The puppets are contact with someone who is not there | Contact marks tether before risk, and its absence is supplied by imitation | MD-CL-0012@5 |
+| MD-MOT-0004 — responsibility after helping (extended) | V05: EV-0015 Kago says the help was repaid; EV-0026 a coach refuses a child's sense of debt | Tsukasa answers release by passing the hope on | Helpers in this volume decline repayment; the helped keep trying to pay | MD-CL-0011@5/0010@5 |
+| MD-MOT-0005 — seeing and being seen (extended) | V05: EV-0014 a patron who never saw him skate; EV-0015 "my work cannot be seen"; EV-0037 "the strength to make him turn round"; EV-0017 a viewer who cannot read what he sees; EV-0035 a skater who cannot be read from data | Sekoma has watched every one of her events | Being believed in and being looked at are separated for the first time | MD-CL-0001@5/0012@5 |
+| MD-MOT-0006 — falling and getting up (extended) | V05: EV-0014 a slip on spilled ice; EV-0017 "how well can one avoid falling"; EV-0020 two falls and two recoveries; EV-0023 "sent where failing is the premise"; EV-0038 a hand down that may count as a fall | Two skaters are eliminated by first-jump falls they could not recover | Falling is generalized from one child's trial to the condition of the sport | MD-CL-0005@4 |
+| MD-MOT-0007 — the verdict that returns (extended) | V05: EV-0007 "at the All-Japan" re-read; EV-0025 a coach's praise recalled in mid-program; EV-0036 "a genius girl is born" intruding on an approach; EV-0038 Inori's vow returning in a rival's head | The returning sentence is as often a help as a weight | Sentences travel between children as well as from adults | MD-CL-0012@5 |
+| MD-MOT-0002, 0003, 0008 | 0002: protocols against depicted jumps (EV-0022). 0003: gags only. 0008: no night scene beyond the previous evening (EV-0012) | — | Unchanged in kind | — |

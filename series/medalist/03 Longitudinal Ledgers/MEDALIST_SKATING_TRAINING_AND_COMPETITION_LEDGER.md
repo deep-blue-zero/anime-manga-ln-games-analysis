@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.3"
+version: "1.4"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
-source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V05 closed (Scores 1–19, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V04_UPDATE"
+review_status: "AUTHOR_REVIEWED_V05_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -185,3 +185,36 @@ All rows are version 1 through `MD-FR-V04`. In this section `EV-####` expands to
 | MD-SK-0027 | Ryoka / Nachi / Score 15 | Triple Salchow and a triple and double landed | DEPICTED_PERFORMANCE | MD-PERF-0034; EV-0035 | HIGH single landings |
 
 The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V04`: badge grade 6 certified; double Axel landed in a test; triple Salchow and one triple and double landed once each in practice; no competition since the second 名港杯.
+
+## V05 evidence tables
+
+All rows are version 1 through `MD-FR-V05`. In this section `EV-####` expands to the [V05 observation](../02%20Sequential%20Readings/MEDALIST_V05_DEEP_READING.md#canonical-observations) `MD-EV-V05-####`. One competition is in progress at this freeze. No external rule or medical document was consulted or admitted; the external-reference table remains empty. Scores are as printed. Element codes are transcribed from printed protocol boards. Earlier tables are unchanged.
+
+| Competition | Depicted identity / category / segment | Date / rule certainty | Source observations | External-rule refs / unresolved matches |
+| --- | --- | --- | --- | --- |
+| MD-COMP-0006 (in progress: thirteen of fifteen skated) | 中部ブロック大会, the All-Japan Novice qualifier, at 邦和スポーツランド; Novice A girls free skate; fifteen entrants in groups of seven and eight; five qualify; Hikaru seeded and absent | End of September by the editorial page, a month after the grade-6 test; year not given. In-story statements: ten elements, six jumping passes, three spins, one step sequence; three minutes ± ten seconds; Lutz, flip and loop required; last two jumping passes × 1.1; fall −0.50. | EV-0002/0003/0007/0013/0017/0018/0020/0022/0024/0025/0026/0034/0039/0041 | No MD-EXT. Three scores (orders 9–11) and order 8's are not printed; fifth place lies between 67.4 and 72.62. |
+
+| Performance | Athlete / setting | Plan / attempt / depiction / call | Supplied score / result | Expressive aim / attributed response | Evidence / limits / correction |
+| --- | --- | --- | --- | --- | --- |
+| MD-PERF-0040 | MD-CHAR-0042 / MD-COMP-0006, order 1 | Protocol: 3Lz / 3S+2T / FSSp3 / 3S / StSq2 / 2F+2T+2Lo / LSp3 / 2A / 2Lo / CCoSp4; fall −0.50 (1). Depicted: opening triple Lutz landed; a later fall | **70.04**; first when announced | Coach: the opening jump raised the bar for all who follow | EV-0018/0023; she says she fell on a double Salchow, which the protocol does not list |
+| MD-PERF-0041 | 穴熊咲希奈 / order 2 | 3Lz< / 3F< / 2Lo / 2A+2T / FSSp4 / StSq2 / 3T+2T+2Lo<< / 3T<< / LSp3 / CCoSp4; fall −0.50 (1). Depicted: triple Lutz held, triple flip fallen | **69.98**; second | — | EV-0020/0022 |
+| MD-PERF-0042 | MD-CHAR-0043 / order 3 | 3F!<< / 3T+2T / 2Lo+2A<<+SEQ / 2Lo<< / LSp4 / FSSp4 / StSq2 / 2Fe / 3S* / CCoSp4; falls −1.50 (3). Depicted: opening triple flip fallen; a credited 3T+2T | **53.77**; fifth, then sixth; eliminated | Resolves to guard what she built with her coach | EV-0020/0021/0022/0026 |
+| MD-PERF-0043 | 庭取さな / order 4 | 3S+2Lo / 2A / FSSp2 / CCoSp3 / 3T< / 2Lo / StSq2 / 2Lz<<! / 2F+2T+2T / LSp4; fall −0.50 (1). Depicted: opening combination landed | **63.26**; third | — | EV-0020/0022 |
+| MD-PERF-0044 | 離洲くるみ / order 5 | 3Lo<< / 3T+2T / CCoSp4 / 3S / 2A+2T+2Lo / 2Lz / StSq2 / 2F / LSp4 / FSSp4; fall −0.50 (1). Depicted: opening triple loop fallen | **62.43**; fourth | — | EV-0020/0022 |
+| MD-PERF-0045 | MD-CHAR-0041 / order 6 | Planned with both combinations in the bonus zone. Depicted: 2A, 2F, 2Lo with a hand down or near fall, 3T fallen where a combination was due, then 2Lz+2A in sequence and 3T+2T+2Lo landed with the multiplier; closing spin level 4 | **72.62**; first | "One who cannot bet on herself cannot beat fate"; a performance in which individuality shines | EV-0024/0025; no protocol printed |
+| MD-PERF-0046 | MD-CHAR-0044 / order 7 | Not depicted | **49.86**; seventh; eliminated | — | EV-0026 |
+| MD-PERF-0047 | MD-CHAR-0046 / order 12 by inference | 3F< / 2Lze / 2A / FSSp4 / 2Loq / 3S+2T+2Loq / StSq2 / A in place of a planned 2A+3T (stated value 8.25) / CCoSp3V / LSp4. Fell before the take-off of the second back-loaded combination | **67.4**; seventh | — | EV-0034; order number not printed |
+| MD-PERF-0048 | MD-CHAR-0035 / order 13 | Planned opening 3Lz+2Lo. Depicted: **3Lz+3Lo landed**; 2Lo fallen, −0.50 (1) shown; 2F called with an edge error, hand down; 2A+2T+2Lo; StSq level 2; 3Lz and 2A landed with the multiplier; closing spin level 4 | **80.03**; first | Heroic choreography said to recall her coach; a standing ovation; "a second genius girl" | EV-0036/0037/0038/0039; total deductions not printed; no protocol |
+| MD-PERF-0049 | MD-CHAR-0010 / a rink in St Petersburg | An unspecified jump landed before a ballet master | None; "pass" | He accepts her as a pupil | EV-0006; not a competition |
+| MD-PERF-0050 | MD-CHAR-0004 / MD-COMP-0006, official practice | Skating speed remarked on by spectators | None | — | EV-0027; no element shown |
+
+| Technical transition | Athlete / coach / known after | Skill / prior limit / intervention / outcome | Channel / physical constraints / risk | Performance / evidence / claim version | Confidence / counterevidence / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-SK-0028 | Rinna / Sonidori / Score 17 | Hardest jump placed first under first-starter pressure and landed; a routine jump fallen later | DEPICTED_PERFORMANCE; IN_UNIVERSE_STATEMENT that the surest jump goes first and that stamina fades | MD-PERF-0040; EV-0017/0018; MD-CL-0005@4 | HIGH |
+| MD-SK-0029 | Manaka / Gori / Score 18 | Combinations moved to the last two jumping passes for the 1.1 multiplier, at her proposal, with a rule to jump the combination at the first doubt; one pass lost to a fall, both remaining combinations landed | DEPICTED_PERFORMANCE; IN_UNIVERSE_STATEMENT of the multiplier and of the risk (six to eight points on one failure); choreography not designed for late jumps | MD-PERF-0045; EV-0024/0025; MD-CL-0024@1/0008@4 | HIGH outcome; the safety rule was not what saved the program |
+| MD-SK-0030 | Yūna / Sonidori / Score 19 | Planned triple Lutz and double loop replaced in the air by a triple Lutz and triple loop; a fall and a hand down follow; the bonus-zone jumps are clean; the coach will rebuild the layout round the jump | DEPICTED_PERFORMANCE; IN_UNIVERSE_STATEMENT that the pairing is avoided at world level and that one other girl in Japan lands it | MD-PERF-0048; EV-0035/0037/0038/0039; MD-CL-0024@1/0008@4 | HIGH; her recent tendency to pop jumps is her own report |
+| MD-SK-0031 | Setsuna / Score 19 | Both combinations back-loaded; a fall before the second erases a planned 8.25 | Official in-story outcome; IN_UNIVERSE_STATEMENT of the planned value | MD-PERF-0047; EV-0034; MD-CL-0005@4 | HIGH |
+| MD-SK-0032 | Orders 2–5 / their coaches / Score 18 | Each opens with a triple she has staked the program on: two are held or landed with under-rotation called, two fall; by Tsukasa every skater so far attempts a jump never landed in competition | DEPICTED_PERFORMANCE; official protocols; ATTRIBUTED appraisal | MD-PERF-0041–0044; EV-0020/0022/0023; MD-CL-0005@4/0023@1 | HIGH for the calls; "never landed in competition" is his statement |
+| MD-SK-0033 | Inori / Tsukasa / Scores 17–19 | Entering content as at V04; layout prepared and re-checked the night before and not disclosed; a rival coach expects her to compete on holding a program together | IN_UNIVERSE_STATEMENT and ATTRIBUTED appraisal; no performance | MD-PERF-0050; EV-0012/0035/0041; MD-CL-0008@4/0004@4 | HIGH that this is all the page gives; her skate is not in V05 |
+
+The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V05`: unchanged for Inori since V04 (badge grade 6; double Axel landed in a test; triple Salchow and one triple and double landed once each in practice). Field frontier shown: a triple Lutz and triple loop landed in competition by Yūna; leading score 80.03 against a stated previous winning score of 76.

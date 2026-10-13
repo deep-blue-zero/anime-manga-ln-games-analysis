@@ -5,14 +5,14 @@ artifact_type: "relationship_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.3"
+version: "1.4"
 status: "canonical"
 scope: "Directional interpersonal interpretations and transitions among athletes, coaches, peers and families"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_RELATIONSHIP_RIVALRY_AND_MENTORSHIP_LEDGER.md"
-source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V05 closed (Scores 1–19, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V04_UPDATE"
+review_status: "AUTHOR_REVIEWED_V05_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -253,3 +253,56 @@ Tsukasa's exchanges with Nachi and with Shirone (invitation, shared work, taking
 | MD-PAIR-0022 / both | V04 | MD-RL-0077/0078 | A father whose words the son could not use. | Whether that changes. |
 | MD-PAIR-0023 / Sonidori→Yodaka | V04 | MD-RL-0085 | Familiar, bound by a promise. | Yodaka's side; the terms. |
 | Others | V03 or earlier | as before | Unchanged in V04. | — |
+
+## V05 evidence tables
+
+All transitions below are version 1 through `MD-FR-V05`. In this section `EV-####` expands to the [V05 reading's](../02%20Sequential%20Readings/MEDALIST_V05_DEEP_READING.md#canonical-observations) `MD-EV-V05-####`. New pair keys: MD-PAIR-0024 Yūna/Sonidori; MD-PAIR-0025 Yūna/Inori; MD-PAIR-0026 Yūna/Hikaru; MD-PAIR-0027 Riina/Inori; MD-PAIR-0028 Kago/Inori; MD-PAIR-0029 Manaka/Gori; MD-PAIR-0030 Riina/Yūna. Earlier tables are unchanged; the current projection is the last projection table in this document.
+
+| Transition | Pair / direction | Story time / known after | Dimensions / context | Action / options / effect | Evidence / knowledge / linked homes | Claim / confidence / alternatives | Prior / revision |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-RL-0086 | 0007 / Kago→Tsukasa | Competition day; Score 17 | Disclosure, release, attendance | Says he never saw him skate live, that he and his wife had hoped to, that Tsukasa's passion let him move forward; comes to watch his work. | EV-0014/0015; MD-CS-0069; MD-KN-0047 | MD-CL-0010@5/0011@5; HIGH. | V01 transitions on MD-PAIR-0007 |
+| MD-RL-0087 | 0007 / Tsukasa→Kago | Past and competition day; Score 17 | Debt, gratitude, entrusting | Once apologized in mourning dress for giving nothing back; now weeps, thanks him, and asks him to watch over Inori's skate as he watched over his own. | EV-0012/0015; MD-CS-0068/0070 | MD-CL-0010@5; HIGH wording; the occasion of the apology is inferred. | V01 transitions on MD-PAIR-0007 |
+| MD-RL-0088 | 0028 / Kago→Inori | Competition day; Score 17 | Gratitude, curiosity | Catches her when she slips; on learning who she is, says he wanted very much to meet her and thanks her; cheers her by name in practice. | EV-0014/0027 | MD-CL-0011@5; HIGH. | none |
+| MD-RL-0089 | 0028 / Inori→Kago | Competition day; Score 17 | Pride in her coach | Takes him for a fan and announces that Tsukasa is her coach; asks if he is the coach's father. | EV-0014 | MD-CL-0002@5; HIGH; brief. | none |
+| MD-RL-0090 | 0001 / Inori→Tsukasa | Competition day; Scores 16–19 | Modelling, gratitude, tether | Uses his manner to get through a ceremony he cannot attend; thanks him inwardly for the day; holds his drawstrings before her skate. | EV-0004/0041; MD-CS-0063/0079 | MD-CL-0002@5; HIGH. | MD-RL-0068 |
+| MD-RL-0091 | 0001 / Tsukasa→Inori | Competition day; Scores 16–19 | Responsibility, self-effacement, declaration | Says the coach's ability is tested from here; tells a third party that her performance is the whole of his work; tells her that today he will make her a gold medalist. | EV-0003/0015/0041; MD-CS-0070/0080 | MD-CL-0007@5/0010@5; HIGH wording; evaluation held. | MD-RL-0069 |
+| MD-RL-0092 | 0027 / Riina→Inori | Ceremony; Score 16 | Kindness, challenge | Shields her from a rebuke; answers honestly that rightness is unknown until one competes; removes the "someday" from her vow and tells her to prove herself today. | EV-0010; MD-CS-0067 | MD-CL-0001@5; HIGH. | none |
+| MD-RL-0093 | 0027 / Inori→Riina | Ceremony; Score 16 | Awe, bluntness, commitment | Asks her how to reach the Olympics; apologizes; vows before her to win the All-Japan; later cites this as a promise. | EV-0009/0010/0031; MD-CS-0066 | MD-CL-0002@5; HIGH. | none |
+| MD-RL-0094 | 0005 / Inori→Hikaru | Ceremony; Score 16 | Longing, inference | Looks for her; on learning of the seed, concludes that Hikaru believed she would qualify. | EV-0004/0007; MD-KN-0044 | MD-CL-0003@4; HIGH that she infers it; Hikaru's side unconfirmed. | MD-RL-0080 |
+| MD-RL-0095 | 0011 / Yodaka→Hikaru | Same period; Score 16 | Provision, distance | Has taken her to St Petersburg for ballet instruction; stands apart while she is taught. | EV-0006; MD-IN-0051 | MD-CL-0016@4; HIGH for the facts. | V03 transitions on MD-PAIR-0011 |
+| MD-RL-0096 | 0024 / Yūna→Sonidori | From age four to the free skate | Devotion, pride, want, defiance | Has been on the ice with him longest; reproduces his choreography; rehearses his praise with a puppet; vows to prove his club; wants the strength to make him turn round; breaks his plan; apologizes. | EV-0028/0030/0036/0037/0038/0039; MD-CS-0074/0076 | MD-CL-0001@5; HIGH wording; the object of "turn round" is unstated and taken as him. | none |
+| MD-RL-0097 | 0024 / Sonidori→Yūna | From her age four to the free skate | Choice, praise, authority, acceptance | Took her as his first pupil; gave her his first choreography; sets a conservative plan and encourages her; names the broken promise, accepts her apology, calls her a rascal, and plans around her jump. | EV-0031/0032/0035/0036/0039; MD-CS-0077 | MD-CL-0024@1; HIGH. How his attention is divided between her and Hikaru is not shown. | none |
+| MD-RL-0098 | 0025 / Yūna→Inori | Competition day; Score 19 | Wariness, parity, refusal | Tells her to forget what she overheard; answers her aim with "so do I"; during her skate resolves that a late starter who does not know the pain of being overtaken shall not win. | EV-0030/0031/0038; MD-CS-0076 | MD-CL-0022@2; HIGH wording; her picture of Inori is partial. | none |
+| MD-RL-0099 | 0025 / Inori→Yūna | Competition day; Score 19 | Curiosity, awe | Overhears and misreads the puppet scene; declares her aim in front of her; watches the triple Lutz and triple loop. | EV-0030/0031/0037 | MD-CL-0002@5; HIGH; her view after the skate is not given. | none |
+| MD-RL-0100 | 0026 / Yūna→Hikaru | From Hikaru's arrival | Measure, refusal of envy | Lost her place to her; resolved not to envy and to land a harder jump; claims seniority on the ice with their coach; lands the combination that made Hikaru's name. | EV-0028/0033/0036/0037; MD-CS-0075 | MD-CL-0023@1/0001@5; HIGH. | none |
+| MD-RL-0101 | 0030 / Riina→Yūna | Eight years ago to the present | Sponsorship, pride | Proposed that they be the club's number one and two and hold up their teacher; cheers her from the stands. | EV-0032/0038 | MD-CL-0023@1; HIGH; brief. | none |
+| MD-RL-0102 | 0029 / Gori→Manaka | Competition day; Score 18 | Conditional trust, affirmation | Accepts her proposal with a safety rule; had told her that attempting is how she grew; whirls her round in joy. | EV-0024/0025; MD-CS-0082 | MD-CL-0024@1; HIGH. | none |
+| MD-RL-0103 | 0029 / Manaka→Gori | Competition day; Score 18 | Initiative, reliance | Proposes the layout; when it is failing, draws on his remembered words. | EV-0024/0025; MD-CS-0072 | MD-CL-0024@1; HIGH. | none |
+| MD-RL-0104 | 0020 / Sonidori→Tsukasa | Competition day; Score 19 | Gratitude, professional regard | Thanks him again; singles out his pupil as the entrant whose growth defeats prediction. | EV-0031/0035 | MD-CL-0005@4; HIGH. | MD-RL-0082 |
+| MD-RL-0105 | 0020 / Tsukasa→Sonidori | Competition day; Score 19 | Respect, identification | Sees in Sonidori's first pupil what Inori is to him. | EV-0031 | MD-CL-0024@1; HIGH; one thought. | V03 transitions on MD-PAIR-0020 |
+| MD-RL-0106 | 0016 / both | Competition day; Scores 16 and 19 | Information, candour | Rio explains the seed and tells her who Yūna is; she tells him she means to win gold. | EV-0007/0031 | MD-CL-0021@2; HIGH. | MD-RL-0072/0073 |
+| MD-RL-0107 | 0008 / Sekoma→Inori | Competition day; Scores 17–19 | Constancy | Attends as he has every event; moved that she is in Novice A; remembers her news of grade 6; prays. | EV-0002/0027/0040; MD-CS-0085 | MD-CL-0011@5; HIGH. | V01 transitions on MD-PAIR-0008 |
+| MD-RL-0108 | 0003 / Hitomi→Tsukasa | Competition day; Score 16 | Appraisal | Thinks he has become a fine teacher; tends his nerves. | EV-0003 | MD-CL-0017@3; HIGH; brief. | MD-RL-0081 |
+| MD-RL-0109 | 0022 / Sonidori→Rio | After the test and before | Affection, intention | Embraces him in a recap panel; had meant him to start at six. | EV-0003/0031 | MD-CL-0021@2; MODERATE (a small comic panel and one remark). | MD-RL-0077 |
+
+Kijita's handling of Rinna, Kumano's of Waka, Iruka's rebuke of Inori and Marika's kindness are single-context and are carried as state events and institutional rows (MD-CS-0073/0084; MD-IN-0047/0049).
+
+### Current projection after V05
+
+| Pair / direction | Source endpoint | Active transition IDs | Current bounded state | Unknown reverse state / contradictions |
+| --- | --- | --- | --- | --- |
+| MD-PAIR-0001 / Tsukasa→Inori | V05 | MD-RL-0091 | Has staked his whole work on her skate and declared its result. | Does not know why she hurried; what the declaration rests on. |
+| MD-PAIR-0001 / Inori→Tsukasa | V05 | MD-RL-0090 | Carries him as an inner voice and holds on to him at the boards. | Still withholding her motive. |
+| MD-PAIR-0007 / Kago→Tsukasa | V05 | MD-RL-0086 | Repaid, by his own account, and present. | — |
+| MD-PAIR-0007 / Tsukasa→Kago | V05 | MD-RL-0087 | Grateful; passes the hope on to his pupil. | Whether he accepts the release. |
+| MD-PAIR-0005 / Inori→Hikaru | V05 | MD-RL-0094 | Believes Hikaru expects her at the All-Japan. | Hikaru's side unseen in V05. |
+| MD-PAIR-0011 / Yodaka→Hikaru | V05 | MD-RL-0095 | Provides the best instruction abroad and keeps apart. | Purpose. |
+| MD-PAIR-0024 / both | V05 | MD-RL-0096/0097 | A first pupil who wants to be turned toward, and a coach who absorbed her defiance. | Whether he knows what she wants. |
+| MD-PAIR-0025 / Yūna→Inori | V05 | MD-RL-0098 | An opponent she means to stop, judged on partial knowledge. | Inori's considered view of her. |
+| MD-PAIR-0026 / Yūna→Hikaru | V05 | MD-RL-0100 | The measure she has now matched in one jump. | Hikaru's awareness of her. |
+| MD-PAIR-0027 / both | V05 | MD-RL-0092/0093 | A senior's dare accepted. | — |
+| MD-PAIR-0028 / both | V05 | MD-RL-0088/0089 | Newly met; goodwill. | — |
+| MD-PAIR-0029 / both | V05 | MD-RL-0102/0103 | A pupil's gamble backed on a condition. | — |
+| MD-PAIR-0020 / both | V05 | MD-RL-0104/0105 | Mutual regard between rival coaches. | — |
+| MD-PAIR-0016 / both | V05 | MD-RL-0106 | Easy and candid. | — |
+| Others | V04 or earlier | as before | Unchanged in V05. | — |

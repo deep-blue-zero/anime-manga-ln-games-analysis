@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.3"
+version: "1.4"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V05 closed (Scores 1–19, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V04_UPDATE"
+review_status: "AUTHOR_REVIEWED_V05_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -203,3 +203,43 @@ New proposition keys: MD-PROP-0014 Tsukasa's singles badge grade; MD-PROP-0015 w
 | MD-RT-0020 | EV-0023, Score 13 | V03:EV-0046 "the one most in her way is you" | The sentence repeats an earlier refusal | — | MD-RV-0037; HIGH |
 | MD-RT-0021 | EV-0037, Score 15 | V01:EV-0003/0035 the worms | Her liking began with what the worms let her do | Comic frame; her own words | No revision; HIGH |
 | MD-RT-0022 | EV-0027, Score 14 | V01:EV-0005 Hitomi's offer of the assistant post | She knew his history and what the rink meant to him | — | No revision; HIGH |
+
+## V05 evidence tables
+
+All records below are version 1 through `MD-FR-V05`. In this section `EV-####` expands to the [V05 reading's](../02%20Sequential%20Readings/MEDALIST_V05_DEEP_READING.md#canonical-observations) `MD-EV-V05-####`; earlier volumes are written with their volume prefix. No calendar year is inferred. Earlier tables are unchanged.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0035 | Competition day, a month after the grade-6 test and at the end of September by the editorial page: arrival, opening ceremony, draw, first group of seven, second group through the thirteenth skater | Scores 16–19 / PRESENT | Inori, Tsukasa, the field; EV-0002–0041 | Score 17 begins the previous night and returns to the draw | HIGH; MD-CL-0013@5 |
+| MD-TM-0036 | The night before: Tsukasa's last check of the layout; Kago's memory | Score 17 / PRESENT placed after Score 16 | Tsukasa, Kago; EV-0012 | — | HIGH |
+| MD-TM-0037 | Tsukasa's competitive years and after: Meiko in hospital following his ice dance on television; her death; his apology in mourning dress; his career ends with Kago never having seen him live | Score 17 / MEMORY and Kago's account | Kago, Meiko, Tsukasa; EV-0002/0012/0014/0015 | The apology is placed at or after her funeral by inference from dress; its order relative to the end of his career is not fixed | MODERATE order, HIGH content; MD-CL-0010@5; refines MD-TM-0002/0010 |
+| MD-TM-0038 | The qualifier week: Hikaru in St Petersburg | Score 16 / PRESENT, cut from the ceremony | Hikaru, Yodaka, a ballet master; EV-0006 | Exact simultaneity with the ceremony is implied by the cut and not stated | HIGH that she is abroad during the event |
+| MD-TM-0039 | The preceding summer: Hikaru seeded at the Nagano camp | Score 16 / character statement | Rio's account; EV-0007 | — | HIGH as stated; links MD-IN-0031 |
+| MD-TM-0040 | Four years before: Riina, a new senior, wins the All-Japan in an Olympic season and goes to the Games; this winter is the next Olympic winter | Score 16 / SELF_REPORT; Score 19 / FLASHBACK | Riina; EV-0009/0010/0032 | — | HIGH as stated |
+| MD-TM-0041 | Eight years before: Sonidori, twenty-eight, wins Olympic silver; Yūna, a small child, watches on television and at four begins under him during his coach training; Riina is eleven; the pact | Score 19 / FLASHBACK with age captions | Yūna, Sonidori, Riina; EV-0032; EV-0002 for "two Olympics ago" | — | HIGH; consistent with V04:EV-0046 (thirty-six now) and with Riina at nineteen |
+| MD-TM-0042 | Some years later: Hikaru arrives at the club; five kinds of triple soon after; six pupils quit; Yūna loses her place | Score 19 / FLASHBACK | Yūna, Hikaru; EV-0033 | Against "five years ago" for Yodaka's first sight of Hikaru (MD-TM-0015): compatible, not dated here | HIGH relative; MD-CL-0023@1 |
+| MD-TM-0043 | Last year: Setsuna wins this event's Novice A with a score Sekoma gives as 76; this year is Hikaru's first in Novice A | Scores 18–19 / character statement and footnote | EV-0023/0034 | Whether 76 was Setsuna's score is implied by "last year's winner" in both places | HIGH as stated |
+| MD-TM-0044 | Two months before: the Lux camp, by Sonidori's thanks | Score 19 / character statement | EV-0031 | Agrees with a camp, a test a month later and the event a month after that | HIGH; confirms MD-TM-0028/0032 |
+
+New proposition keys: MD-PROP-0017 why Hikaru is absent and where she is; MD-PROP-0018 that Yūna's planned opening was a triple Lutz and double loop and that she meant to exceed it; MD-PROP-0019 that Yūna rehearses her coach's praise with puppets; MD-PROP-0020 what Kago's support meant to Kago.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0042 | PROP-0017 / Inori and the field | Opening ceremony | KNOWN absent, from the entry list; KNOWN seeded, from Rio; her whereabouts UNKNOWN to them | The field treats the day as its one opening | EV-0005/0007/0019; HIGH |
+| MD-KN-0043 | PROP-0017 / reader | Score 16 | KNOWN: St Petersburg, ballet, with Yodaka | The reader knows more than any character at the venue | EV-0006; HIGH |
+| MD-KN-0044 | The meaning of "at the All-Japan" / Inori | Opening ceremony | INFERRED: Hikaru believed on test day that she would qualify | Steadies her before the event | EV-0007 with V04:EV-0039; HIGH that she infers it; MODERATE that it is so |
+| MD-KN-0045 | PROP-0018 / Sonidori | Before and during Yūna's skate | KNOWN plan; UNKNOWN her intent; shown startled | His tactical model did not include his own pupil's defiance | EV-0035/0037/0039; HIGH |
+| MD-KN-0046 | PROP-0019 / Inori; both coaches | Before Yūna's skate | Inori OVERHEARD and misread it, and was told to forget; Sonidori and Tsukasa UNKNOWN, as the under-jacket page jokes of both pupils' imagined coaches | A rival holds a private fact about a rival | EV-0030/0045; HIGH |
+| MD-KN-0047 | PROP-0020 / Tsukasa | Competition day | Had BELIEVED he gave nothing back; now TOLD that his passion repaid it and that live watching was the couple's dream | He redirects the hope to his pupil's skate | EV-0012/0014/0015; HIGH; prior MD-PROP-0006 records |
+| MD-KN-0048 | PROP-0015 / Tsukasa | Through V05 | Still UNKNOWN that she hurried to shield him | Unchanged from MD-KN-0036 | No V05 evidence of disclosure; HIGH for the absence on the page |
+| MD-KN-0049 | Inori's competitive level / Sonidori | Before Yūna's skate | UNCERTAIN: "growing too fast for data"; EXPECTS consistency from what he saw at the test | The one entrant his planning cannot price | EV-0035; HIGH |
+| MD-KN-0050 | PROP-0008 / Riina, the press, the field | Opening ceremony | TOLD publicly: she will become an All-Japan gold medalist someday; later that she aims at gold today | Yūna carries the sentence into her own program | EV-0010/0031/0038; HIGH |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0023 | EV-0012/0015, Score 17 | V01:EV-0002/0037 his refusal of Kago's help and sense of being ineligible; MD-CL-0010@1 | The support was a dying wife's wish and a shared hope; he had apologized for defaulting on it | His V01 reasons stand; this adds their ground | MD-RV-0049; HIGH for the disclosure, MODERATE for the link |
+| MD-RT-0024 | EV-0007, Score 16 | V04:EV-0039 "at the All-Japan" and "やっぱり?" | Hikaru already knew she was seeded past the qualifier, so the appointment was the only one possible | Whether it also expressed belief in Inori is Inori's inference | MD-RV-0045; HIGH for the first, MODERATE for the second |
+| MD-RT-0025 | EV-0032/0033, Score 19 | V04:EV-0021 Hikaru's arrival, from Rio's side; V02 and V03 accounts of the elite club | The same arrival displaced an older girl and preceded six departures | Nothing shows Hikaru aware of this | MD-RV-0043; HIGH |
+| MD-RT-0026 | EV-0031, Score 19 | V04:EV-0046 Sonidori as father and coach | His first pupil was not his son; Rio began early because of her | — | No revision; HIGH |
+| MD-RT-0027 | EV-0021/0037, Scores 18–19 | V02's improvised broken-leg spin (MD-PERF-0011) and Hikaru's triple Lutz and triple loop there (MD-PERF-0013) | What was an improvisation at beginner grade is a catalogued level feature at Novice A; the combination shown without comment in V02 is now explained as the rarity that made her name | — | No revision; HIGH |
+| MD-RT-0028 | EV-0010, Score 16 | V01:EV-0018 her stated Olympic aim | An Olympian tells her the road has institutionally begun at Novice A | — | MD-RV-0044; HIGH |

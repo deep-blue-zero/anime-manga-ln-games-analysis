@@ -5,14 +5,14 @@ artifact_type: "current_state_corpus_map"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.8"
+version: "0.9"
 status: "canonical"
 scope: "Single project entrypoint, initiation state, current authority and next permitted operation"
 canonical_home: "series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md"
-source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V05 closed (Scores 1–19, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V04_UPDATE"
+review_status: "AUTHOR_REVIEWED_V05_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 continuation_owner_authorization: "2026-10-12 owner continuous_sequential authorization: V02 through the verified as-of-start publication boundary (V15, Score 61), then provisional syntheses"
 supersedes: []
@@ -28,7 +28,7 @@ Start here for `series/medalist/`, the continuing Japanese manga project for メ
 
 **SEQUENTIAL_ANALYSIS_LOCK = OPEN**
 
-**A `continuous_sequential` run is active: V02 through V15, one closed volume transaction at a time. Committed high-water mark: V04. Next candidate: V05.** The owner authorized this run on 2026-10-12; the [continuous-run receipt](07%20Audits%20and%20Handoffs/MEDALIST_CONTINUOUS_RUN_AUTHORIZATION_AND_SOURCE_RECEIPT.md) records the authorization, the dated publication ceiling (V15, ending at Score 61; no serial-only Score beyond it) and the structurally verified witnesses. [V01 deep reading and MD-FR-V01](02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) remain frozen and are not redone; the latest closed reading is [V04 / MD-FR-V04](02%20Sequential%20Readings/MEDALIST_V04_DEEP_READING.md), and the progress table below lists every closed unit. Fanbook coverage reconnaissance and audits are authorized only at a verified safe manga checkpoint; adaptation sources remain unauthorized. The historical single-operation V01 authorization is preserved in its own receipt.
+**A `continuous_sequential` run is active: V02 through V15, one closed volume transaction at a time. Committed high-water mark: V05. Next candidate: V06.** The owner authorized this run on 2026-10-12; the [continuous-run receipt](07%20Audits%20and%20Handoffs/MEDALIST_CONTINUOUS_RUN_AUTHORIZATION_AND_SOURCE_RECEIPT.md) records the authorization, the dated publication ceiling (V15, ending at Score 61; no serial-only Score beyond it) and the structurally verified witnesses. [V01 deep reading and MD-FR-V01](02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) remain frozen and are not redone; the latest closed reading is [V05 / MD-FR-V05](02%20Sequential%20Readings/MEDALIST_V05_DEEP_READING.md), and the progress table below lists every closed unit. Fanbook coverage reconnaissance and audits are authorized only at a verified safe manga checkpoint; adaptation sources remain unauthorized. The historical single-operation V01 authorization is preserved in its own receipt.
 
 ## Recoverable project initialization
 
@@ -55,20 +55,20 @@ project_initialization:
     - "03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
     - "03 Longitudinal Ledgers/MEDALIST_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md"
   substantive_sequential_findings_at_bootstrap: false
-  completed_sequential_readings: 4
+  completed_sequential_readings: 5
   owner_review_state: APPROVED_REVISED_FOUNDATION_0_2
   sequential_analysis_lock: OPEN
   lock_reason: OWNER_APPROVED_FOUNDATION_AND_AUTHORIZED_V01
   lock_reason_current_run: OWNER_AUTHORIZED_CONTINUOUS_SEQUENTIAL_V02_TO_V15
-  next_permitted_operation: "V05 complete volume transaction under the active continuous run"
+  next_permitted_operation: "V06 complete volume transaction under the active continuous run"
 sequential_execution:
   mode: continuous_sequential
   unit_type: japanese_tankobon_volume
   authorized_start: V02
   terminal_boundary: V15
   terminal_boundary_basis: "Verified publication ceiling at 2026-10-12: V15 collects through Score 61; no serial-only Score beyond it"
-  committed_high_water_mark: V04
-  next_candidate_operation: V05
+  committed_high_water_mark: V05
+  next_candidate_operation: V06
   next_candidate_authorization: AUTHORIZED_WITHIN_ACTIVE_RUN
   confirmation_between_units: false
   run_state: active
@@ -102,7 +102,7 @@ Preliminary reconnaissance is sufficient for design; the true source gaps below 
 | Boundary | Current fact |
 | --- | --- |
 | Inventory | Drive snapshot: Japanese V13–V15 and English V01–V12; local addendum: Japanese V01–V15 containers plus Official Fanbook 01/02, filenames/sizes only |
-| Structurally verified / admitted / narratively inspected / closed | 15 volume witnesses at container level / V01–V04 / all admitted images of V01–V04 / 4, latest MD-FR-V04 |
+| Structurally verified / admitted / narratively inspected / closed | 15 volume witnesses at container level / V01–V05 / all admitted images of V01–V05 / 5, latest MD-FR-V05 |
 | Planned primary sequence | Japanese V01 onward, one authenticated volume per transaction; V02–V15 authorized as one continuous run with fourteen separately closed transactions |
 | First-source route | V01 delivered CBZ integrity/component map verified, inspected and closed with original-image locators; printing unverified. V02–V15 delivered witnesses passed CRC, full image decode and hash checks at activation; none narratively inspected at that snapshot |
 | Supplemental source positions | FB01/FB02 inventory-visible; each coverage boundary and admit_after null/unverified; zero completed fanbook audits |
@@ -124,6 +124,7 @@ One row is appended when a volume transaction has closed locally: reading, seven
 | V02 | 4–7 | [V02](02%20Sequential%20Readings/MEDALIST_V02_DEEP_READING.md) / MD-FR-V02 | 1.1 | Closed 2026-10-13; first competition results; claims 0001–0013 at version 2, 0014–0018 new |
 | V03 | 8–11 | [V03](02%20Sequential%20Readings/MEDALIST_V03_DEEP_READING.md) / MD-FR-V03 | 1.2 | Closed 2026-10-13; first defeat, an injury and a one-year elision; fourteen claims advanced a version, 0019–0021 new |
 | V04 | 12–15 | [V04](02%20Sequential%20Readings/MEDALIST_V04_DEEP_READING.md) / MD-FR-V04 | 1.3 | Closed 2026-10-13; summer camp and grade-6 test, no competition; fifteen claims advanced a version, 0022 new |
+| V05 | 16–19 | [V05](02%20Sequential%20Readings/MEDALIST_V05_DEEP_READING.md) / MD-FR-V05 | 1.4 | Closed 2026-10-13; block competition in progress, thirteen of fifteen skated, protagonist's skate pending; fourteen claims advanced a version, 0023–0024 new |
 
 ## Supplemental checkpoint route
 
@@ -164,6 +165,8 @@ Preferred future topology is staged: local primary reading/ledgers; fresh cloud 
 2026-10-13, version 0.7: V03 closed. All 203 images inspected; Scores 8–11 read; seven ledgers reconciled to version 1.2; fourteen claims advanced with recorded revisions, four preserved and three registered; MD-FR-V03 frozen. The mainline passes through the West Japan meet (Inori second with 24.32), a jointly decided year without winter competitions that the manga elides, and a second 名港杯 at badge grade 5, and stands at Inori's vow to Rio. No infrastructure added; regional speech variety is noted as a recurring feature still served by observation rows.
 
 2026-10-13, version 0.8: V04 closed. All 203 images inspected; Scores 12–15 read; seven ledgers reconciled to version 1.3; fifteen claims advanced with recorded revisions, six preserved and one registered; MD-FR-V04 frozen. The mainline passes through the Tsuruga summer camp and the grade-6 badge test, with no competition held, and stands at entry to the Chūbu block competition. No infrastructure added; practice and test attempts are carried in the skating ledger's performance table with explicit labels.
+
+2026-10-13, version 0.9: V05 closed. All 187 images inspected; Scores 16–19 and one bonus Exhibition read; seven ledgers reconciled to version 1.4; fourteen claims advanced with recorded revisions, eight preserved and two registered; MD-FR-V05 frozen. The mainline stands inside the Chūbu block competition after the thirteenth of fifteen Novice A free skates, before the protagonist's. No infrastructure added; the first scored qualifier with printed protocols fitted the existing skating tables, and facing-page geometry was verified for two spreads.
 
 ## Higher-level governing controls
 
