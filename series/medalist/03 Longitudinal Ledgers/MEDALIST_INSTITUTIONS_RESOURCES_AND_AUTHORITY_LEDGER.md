@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.12"
+version: "1.13"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V13 closed (Scores 1–53, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V14 closed (Scores 1–56, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V13_UPDATE"
+review_status: "AUTHOR_REVIEWED_V14_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -472,3 +472,34 @@ A creator profile describes the household of MD-ORG-0010 as an old, strict house
 | Injury's economy | Aisai Ride | MD-IN-0117/0136 | A season, a final and a sponsor at risk. | Recovery. |
 | Informal gates | A coach's past | MD-IN-0137 | Help that forbade. | — |
 | Others | As V12 | as before | Unchanged in V13. | — |
+
+## V14 evidence tables
+
+All events below are version 1 through `MD-FR-V14`. In this section `EV-####` expands to the [V14 reading's](../02%20Sequential%20Readings/MEDALIST_V14_DEEP_READING.md#canonical-observations) `MD-EV-V14-####`. New settings: MD-ORG-0039, the Junior Grand Prix Final as held in Beijing together with the senior final; MD-ORG-0040, the world ranking as a points system. Earlier tables are unchanged. Descriptions are paraphrases.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0138 | ORG-0039, the final | December | Six junior women who qualified through the series; junior and senior finals share one arena and four days, with an opening ceremony and an exhibition day; a national party travels together with federation staff, in team dress, photographed on arrival; five of six senior women are from the same country | The protagonist competes as one of two national representatives at an event far larger than any she has entered | EV-0002/0005/0007/0012/0041; MD-COMP-0017; MD-CL-0013@14 | HIGH as shown; prior MD-IN-0125 |
+| MD-IN-0139 | ORG-0040, the world ranking | As taught, undated | Points are awarded by the grade of an event and the result, counted over the last three years; every place at this final earns points; the ranking matters for entry to senior internationals; the protagonist is 141st with 432 points beside rivals holding 475 to 2,194 | A second channel of standing, cumulative and independent of any single national result | EV-0003/0009/0030; MD-CL-0005@13/0011@14 | HIGH as stated; not checked externally |
+| MD-IN-0140 | Olympic selection and the age rule, restated | Same | One place to the national champion before the Games; up to three places, the number fixed by placements at the world championships; for the remaining places the world ranking weighs heavily, with conditions that vary by cycle; the senior age rule has not changed this cycle, and such changes are announced in the July after a Games, so that the protagonist's first eligible Games are seven years on, at twenty | A dream stated in V01 is given an administrative route with dates | EV-0003/0009; MD-CL-0013@14/0002@14 | HIGH as stated; prior MD-IN-0102/0118 |
+| MD-IN-0141 | The judging panel and the component mark | First day of the final | A score is the technical mark plus a component mark of three parts, each with listed criteria; judges work from printed sheets with banded ranges and enter marks on keypads; they are shown unmoved by an appeal from the ice | Artistic merit is settled by a shared standard that knowledge can largely read; a hall's enthusiasm and the panel's mark can part | EV-0014/0017/0018/0025/0031; MD-SK-0086; MD-CL-0030@1 | HIGH as stated and shown; the banded scale is only partly legible |
+| MD-IN-0142 | Coaching teams around four finalists | Same | A former ballet dancer who once coached an Olympic champion; a team that rebuilt a strategy on components after an injury; two coaches, one an Olympic champion and the skater's uncle, in open disagreement over whether to coach to the rules or to the crowd; a team that designs choreography to satisfy two criteria at once | Who decides a young skater's direction differs by team; in one case it is undecided and the skater has not been asked on the page | EV-0013/0015/0018/0019; MD-CS-0303/0304/0305; MD-CL-0024@8 | HIGH for what is said; the report of an unsettled policy is called a rumour |
+| MD-IN-0143 | ORG-0002, the labour behind one program | About three months earlier to the final | The head coach makes the choreography and diagnoses its weak component; the assistant coach devises and carries a training method, studying two colleagues who dance the piece; a former senior advises; a second coach joins the club and at the final withdraws to the stands; the club's trainer is requested by the federation for the final | A small club assembles the functions that larger teams hold, by borrowing and by one man's hours | EV-0001/0005/0026/0027/0038; MD-SK-0084; MD-CL-0017@10/0011@14 | HIGH; two items rest on a margin note and a strip; prior MD-IN-0128 |
+| MD-IN-0144 | Followers: ORG-0007 and the hall | First day of the final | A patron brings his daughter on a family trip and learns the scoring; a rink clerk travels with a banner; foreign spectators consult a live protocol and a ranking list and remark on the gap | Support that is not owed attends an event whose economy is points | EV-0005/0030/0032/0033/0034; MD-CL-0011@14/0001@14 | HIGH; one item is from a gag panel; prior MD-IN-0134 |
+| MD-IN-0145 | ORG-0032, an informal apprenticeship | The assistant coach's first weeks there | A self-taught newcomer who pays his own costs is held to basics by a coach and handed for steps to a senior skater, who teaches by ridicule and demands deference; another senior mediates | Teaching by peers fills what formal coaching does not, without any standard of manner | EV-0036/0037; MD-CS-0311/0312; MD-CL-0017@10/0010@14 | HIGH as told; a side chapter in a frame; prior MD-IN-0137 |
+
+Strips add that two boys of MD-ORG-0009 represent the country in the men's event, one of them also a pairs skater, and that the head coach of the protagonist's rival's former club, just out of hospital, travels to China with a senior skater (EV-0038). They are recorded as creator asides and add no story-page event.
+
+### Current projection after V14
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| The series final | December | MD-IN-0125/0136/0138; MD-COMP-0017 | Under way; the protagonist first after five of six short programs. | The sixth skater; the free skate. |
+| World ranking | The sport | MD-IN-0139 | A three-year points table on which the protagonist is 141st. | External verification; what this final adds. |
+| Olympic selection and age | Seven years on | MD-IN-0096/0102/0118/0140 | One place by title, others weighted by ranking; the age rule unchanged this cycle. | Whether the rule moves later. |
+| Judging | Component mark | MD-IN-0141 | A shared standard in three parts, largely legible to knowledge. | External verification; a rival view that skaters may change the rules. |
+| Coaching teams | The final's field | MD-IN-0142/0143 | Large teams, a divided one, and a small club that borrows. | — |
+| Expectation and support | A designated skater | MD-IN-0134/0144 | Followers travel; strangers look her up. | Her designation after November. |
+| The junior nationals | This season | MD-IN-0129/0131 | As at V13. | What the elimination cost her. |
+| Informal teaching | A coach's past | MD-IN-0137/0145 | Help that forbade, and help that mocked. | — |
+| Others | As V13 | as before | Unchanged in V14. | — |

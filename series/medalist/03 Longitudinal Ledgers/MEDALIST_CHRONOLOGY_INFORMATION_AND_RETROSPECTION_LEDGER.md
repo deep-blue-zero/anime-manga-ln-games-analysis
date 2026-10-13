@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.12"
+version: "1.13"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V13 closed (Scores 1–53, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V14 closed (Scores 1–56, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V13_UPDATE"
+review_status: "AUTHOR_REVIEWED_V14_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -594,3 +594,37 @@ New proposition keys: MD-PROP-0048 why Yodaka ended his coaching of Hikaru; MD-P
 | MD-RT-0095 | EV-0044/0045, Score 53 | V09:EV-0031 "I ended his dream"; V12:EV-0030 "but for me he would be here" | Answered: he resolved to coach before he met her, and names coaching her as his dream | She does not confess the belief | MD-RV-0220/0222; HIGH |
 | MD-RT-0096 | EV-0037/0040, Score 53 | V10:EV-0028 Gori's guess; V11's downgrade (MD-CL-0028@2) | She does read his face; what she reads is his distress, which she takes as a cost she caused | The guess's premise about deprivation is not revived | MD-RV-0221; HIGH |
 | MD-RT-0097 | EV-0047/0048/0049/0050, Score 53 | V10:EV-0021 Iruka's vow; V11:EV-0028/0036 her memory and her home | Her wish to be seen hurt by the friend who left; her coach's promise; her own refusal of pity | — | MD-RV-0215/0219; HIGH |
+
+## V14 evidence tables
+
+All records below are version 1 through `MD-FR-V14`. In this section `EV-####` expands to the [V14 reading's](../02%20Sequential%20Readings/MEDALIST_V14_DEEP_READING.md#canonical-observations) `MD-EV-V14-####`; earlier volumes are written with their volume prefix. No calendar year is inferred. Earlier tables are unchanged. Descriptions are paraphrases.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0110 | December: arrival in Beijing, by a caption one month after the All-Japan Junior; two days later the first day of the final: opening ceremony, six-minute warm-up, and the junior women's short program through its fifth skater | Scores 54–56 / PRESENT | EV-0002–0033 | Continues MD-TM-0106; the departure there was placed about a week before the final | HIGH for the sequence; the day of the month is not given |
+| MD-TM-0111 | About three months before the final, just after the Bangkok event: a diagnosis of the protagonist's component mark; the film watched and discussed; the start of training in decomposed expression | Score 56 / FLASHBACK inside her program | EV-0022/0026/0027 | After MD-COMP-0012 and before the series was decided in October; the film discussion is not dated against the diagnosis | HIGH for "three months" as captioned |
+| MD-TM-0112 | Tsukasa's first weeks at his ice-dance club: days of basics; a senior asked to teach him steps; two weeks of lessons; a rupture and an awkward truce | Short Program 7 / a story TOLD in the present by a club-mate | EV-0036/0037 | Falls inside MD-TM-0074, after his arrival and before he became a lead partner; follows the history of MD-TM-0108 | HIGH as told; "two weeks" is captioned |
+| MD-TM-0113 | Prospective time: the protagonist's first eligible Olympic Games, seven years on, when she is twenty; a rival's last junior season is the present one | Score 54–55 / statement | EV-0003/0019 | Agrees with MD-IN-0102 | HIGH as stated |
+| MD-TM-0114 | Outer time: serialization in the June 2023 issue (the side chapter) and the September to December 2025 issues; first impression 2026-01-22; a digital colophon dated 2026-01-01; the next volume advertised for late June 2026; a creator note that a second season of the animation is about to air | Colophons, notice, advertisement / statement | EV-0034/0039/0040 | The colophon dates are out of order for the fifth volume running | HIGH as stated |
+
+New proposition keys: MD-PROP-0051 that Daria thinks the protagonist presumptuous for meaning to skate for Iruka's share, and is tempted to trip her; MD-PROP-0052 that Tsukasa's rule of teaching as an equal began as a vow made against a senior's example; MD-PROP-0053 that the protagonist's expression is built by a method of decomposed gesture.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0136 | PROP-0051 / Daria; Inori; Tsukasa | First day of the final | HELD by Daria in an aside. Inori HEARS one word of it, does not understand it, and asks her coach; his answer is NOT SHOWN. After the protagonist's skate Daria begins to say something, UNFINISHED | The protagonist skates without knowing a team-mate's hostility | EV-0006/0016/0031; HIGH for each panel |
+| MD-KN-0137 | PROP-0053 / rivals and spectators; a team-mate | Three months earlier to the final | KNOWN to her coaches and to her; a team-mate who sees part of her preparation is told it is a trade secret; spectators and a backstage group judge the result and are NOT SHOWN to know the method | The method is treated by her as an advantage to be kept | EV-0004/0025/0026/0027; HIGH |
+| MD-KN-0138 | PROP-0052 / Inori; Tsukasa, Kōhei and Juna | The present, undated | TOLD to Inori second-hand by a club-mate as something that seems to have happened; the three men OVERHEAR and are embarrassed | The pupil learns the origin of her coach's manner as a comic story about adults who quarrel | EV-0037; HIGH as told; the teller is not identified |
+| MD-KN-0139 | What her coach said at the boards / Inori | Her short program | He SAYS it to himself; she is NOT SHOWN to hear. She SEES his celebration afterwards on a screen | Reassurance is given where it cannot be received; joy is received | EV-0023/0033; HIGH |
+| MD-KN-0140 | PROP-0033 and what she overheard in Yokohama / Tsukasa | Through V14 | Still NOT TOLD by her; nothing in the volume returns to it | The settlement of V13 stands incomplete in form | EV-0004/0033; HIGH for the absence; prior MD-KN-0131/0133 |
+| MD-KN-0141 | The segment's outcome / the reader | The freeze | The story pages SHOW her first with one skater to come. An advertisement in the volume STATES that she passed the segment in first place; it is editorial paratext and is not admitted as evidence | The reader of the volume is told more than the story has shown | EV-0033/0039; HIGH that the pages differ in kind |
+| MD-KN-0142 | PROP-0048 / Tsukasa and Inori; Riley Fox | Through V14 | Riley Fox is AT the final with another pupil; Tsukasa and Inori are still NOT SHOWN to know that Yodaka has left Hikaru | The news has had an occasion to travel and is not shown doing so | EV-0002/0013; HIGH for the absence; prior MD-KN-0129 |
+| MD-KN-0143 | Her world ranking and her series win / the protagonist; spectators; a backstage group | First day of the final | She had FORGOTTEN what the ranking is and is re-taught; spectators READ her rank from a list and are surprised; a backstage group KNOWS her as the winner in Austria | Her standing is better known to strangers than to herself | EV-0004/0009/0025/0030; HIGH |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0098 | EV-0022/0028/0029/0030, Score 56 | V11:EV-0019 and V13:EV-0003, the short program "to music from a film" with martial-arts choreography; MD-PERF-0097/0107 | The program always had a story: a boy trained by a ghost with his own face, who ends alone and able to love himself; the protagonist reads its first acts as her own | The story was not told at either earlier skate; how much of her reading she held then is not shown | MD-RV-0224/0237; HIGH that it is the program's story |
+| MD-RT-0099 | EV-0026/0027, Score 56 | V13:EV-0003, her performance side visibly improved at the All-Japan Junior; MD-SK-0071, a choreographic sequence scored poorly in Bangkok | The improvement had a method and three months of work behind it | The method did not prevent the collapse of V13 | MD-RV-0225/0228; HIGH |
+| MD-RT-0100 | EV-0037, Short Program 7 | V01 onward, his practice of explaining and asking; MD-CL-0004 | Given an origin: a vow made in tears against a senior who taught by ridicule | A side chapter told second-hand and comically | MD-RV-0228/0233; MODERATE as origin, HIGH as told |
+| MD-RT-0101 | EV-0012/0025, Scores 55–56 | V12:EV-0029, the six qualifiers listed by nationality; MD-COMP-0013 | The qualifiers are named with their placements; the protagonist's win was in Austria over Mia Ocelot | The Austria remark is by unidentified speakers | MD-RV-0231; HIGH for the table, MODERATE-HIGH for the venue |
+| MD-RT-0102 | EV-0004, Score 54 | V10:EV-0028 Gori's guess; MD-RT-0096 and MD-CL-0028@3 | A comic scene has her read his face as disappointment in her, which the guess described and V13's account did not | Comic register; he corrects it at once | MD-RV-0239; LOW-MODERATE |
+| MD-RT-0103 | EV-0005/0038, Score 54 and a strip | V13:EV-0051, the party at the airport | Of the three adults who left with her, one travels privately as a spectator and one serves the federation | The trainer's status is from a strip | MD-RV-0229; HIGH for Kōhei, MODERATE for the trainer |

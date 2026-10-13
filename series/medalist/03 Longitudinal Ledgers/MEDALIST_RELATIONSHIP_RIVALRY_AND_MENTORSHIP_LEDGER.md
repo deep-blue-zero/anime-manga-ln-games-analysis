@@ -5,14 +5,14 @@ artifact_type: "relationship_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.12"
+version: "1.13"
 status: "canonical"
 scope: "Directional interpersonal interpretations and transitions among athletes, coaches, peers and families"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_RELATIONSHIP_RIVALRY_AND_MENTORSHIP_LEDGER.md"
-source_boundary: "Japanese V01–V13 closed (Scores 1–53, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V14 closed (Scores 1–56, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V13_UPDATE"
+review_status: "AUTHOR_REVIEWED_V14_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -738,3 +738,43 @@ Hikaru's remembered thanks to Iruka for the back support, Daria's promotion, the
 | MD-PAIR-0033, 0003 | V13 | MD-RL-0314/0315/0316 | Two people who taught him what he then gave his pupil: a colleague this week, a partner years ago. | — |
 | MD-PAIR-0023 / Sonidori→Yodaka | V13 | MD-RL-0309 | A witness who wanted to protect him. | — |
 | Others | V12 or earlier | as before | Unchanged in V13. | — |
+
+## V14 evidence tables
+
+All transitions below are version 1 through `MD-FR-V14`. In this section `EV-####` expands to the [V14 reading's](../02%20Sequential%20Readings/MEDALIST_V14_DEEP_READING.md#canonical-observations) `MD-EV-V14-####`. New pair keys: MD-PAIR-0063 Kōhei/Yō; MD-PAIR-0064 Tsukasa/Juna; MD-PAIR-0065 Daria/Inori. Earlier tables are unchanged; the current projection is the last projection table in this document. Descriptions are paraphrases.
+
+| Transition | Pair / direction | Story time / known after | Dimensions / context | Action / options / effect | Evidence / knowledge / linked homes | Claim / confidence / alternatives | Prior / revision |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-RL-0323 | 0001 / Tsukasa→Inori | Arrival and first day of the final; Score 54 | Watchfulness, licence, self-explanation | Guards her on a first journey; tells her she can decide what kind of skater to be; when his face falls at a forgotten lesson, tells her at once that it meant his own failure to convey and not disappointment in her; names their second goal; remarks awkwardly that she has grown and tells her to let her jumps go. | EV-0002/0003/0004/0008; MD-CS-0298 | MD-CL-0027@6/0004@12; HIGH. | MD-RL-0312 |
+| MD-RL-0324 | 0001 / Inori→Tsukasa | Same; Score 54 | Face-reading, compliance in play | Reads his fallen face and apologizes for forgetting; gets up at his cue; shares how far her mental run-through has gone; tells him her height. | EV-0004/0008; MD-CS-0297/0299 | MD-CL-0028@4; HIGH; comic register. | MD-RL-0313 |
+| MD-RL-0325 | 0001 / Tsukasa→Inori | About three months earlier; Score 56 | Method, demonstration, labour | Devises a way to teach her expression by taking the gestures of feeling apart; throws the punch with her; explains each addition; studies colleagues' dancing and brings it back to her. | EV-0026/0027; MD-CS-0306; MD-SK-0084 | MD-CL-0004@12/0010@14; HIGH. | MD-RL-0323 |
+| MD-RL-0326 | 0001 / Inori→Tsukasa | Three months earlier and the short program; Score 56 | Observation, attribution of her strength | Knows two of his bodily habits that he did not; on the ice thinks that her strength is not hers alone, sees him as the ghost of her program's story, and thinks that he makes her strong; is moved by the choreography he sought with her and the steps he traced. | EV-0027/0028; MD-CS-0307/0308 | MD-CL-0026@7/0029@4; HIGH wording; the casting is hers and extends only as far as her captions. | MD-RL-0324 |
+| MD-RL-0327 | 0001 / Tsukasa→Inori | The short program; Score 56 | Restraint, joy | Says to himself at the boards that it is all right; celebrates the level call without reserve; weeps; towels and tissues at the kiss and cry. | EV-0023/0028/0030/0033; MD-CS-0309 | MD-CL-0010@14; HIGH; she is not shown to hear him. | MD-RL-0325 |
+| MD-RL-0328 | 0001 / Inori→Tsukasa | Kiss and cry; Score 56 | Pleasure in his face | Sees his celebration replayed and says that he was that glad for her. | EV-0033; MD-CS-0310 | MD-CL-0027@6; HIGH. | MD-RL-0326 |
+| MD-RL-0329 | 0065 / Daria→Inori | First day of the final; Scores 54 and 56 | Counsel, hidden resentment | Tells her to breathe and that scars make the facet; thinks her presumptuous for meaning to skate for Iruka's share, too innocent, and is tempted to trip her; begins to speak to her after her skate. | EV-0006/0031; MD-CS-0300; MD-KN-0136 | MD-CL-0024@8; HIGH wording; motive not given. | none |
+| MD-RL-0330 | 0065 / Inori→Daria | Same | Trust, incomprehension | Takes the counsel at face value and answers with her vow; hears a word she does not know and asks her coach what it means. | EV-0006/0016; MD-CS-0297 | MD-CL-0001@14; HIGH. | none |
+| MD-RL-0331 | 0063 / Kōhei→Yō | First day of the final; Scores 55–56 | Teaching | Starts from her belief that she has no sense for art; gives her the idea of a personal and a shared ruler; explains each component on a program in front of her; asks at the end how her view has changed. | EV-0014/0015/0017/0018/0019/0020/0032; MD-CS-0301 | MD-CL-0030@1; HIGH. | none |
+| MD-RL-0332 | 0063 / Yō→Kōhei | Same | Uptake | Recoils, then takes notes; reads his enthusiasm as a gauge of the mark; draws two conclusions of her own, about two coaches' rulers and about the people behind a skater. | EV-0014/0018/0032; MD-CS-0302 | MD-CL-0030@1; HIGH. | none |
+| MD-RL-0333 | 0037 / Kōhei→Tsukasa and Inori | Three months earlier and the final; Scores 54–56 | Service, credit, withdrawal | Danced the heroine's choreography as a model at his colleague's request; at the final steps back from assisting and watches; says their tenacity brought them there; wants to teach her to be a skater of high components. | EV-0005/0007/0015/0027; MD-CS-0301 | MD-CL-0011@14/0017@10; HIGH. | MD-RL-0321 |
+| MD-RL-0334 | 0003 / Hitomi→Tsukasa | About three months earlier; Score 56 | Diagnosis, authorship, service | Identifies Presentation as where their pupil's component mark has room; made the choreography; warns of the method's cost in time; dances the piece for his study. | EV-0026/0027 | MD-CL-0017@10/0004@12; HIGH; authorship is a margin note. | MD-RL-0316 |
+| MD-RL-0335 | 0064 / Juna→Tsukasa | Their youth and the present season; Short Program 7 and Score 56 | Instruction by ridicule; later advice | As a senior a year older teaches him steps with jokes at his expense and demands reverence; is hurt when he breaks out; years later is the source of advice on teaching expression. | EV-0027/0036/0037; MD-CS-0312 | MD-CL-0017@10; HIGH as told; the later advice is named only. | none |
+| MD-RL-0336 | 0064 / Tsukasa→Juna | Same | Compliance, rupture, a vow against the example | Welcomes the teaching and matches his senior's mood as a courtesy; cannot stop; throws him in a lift; vows to teach as an equal; years later asks his advice. | EV-0027/0036/0037; MD-CS-0311 | MD-CL-0010@14/0017@10; HIGH as told. | none |
+| MD-RL-0337 | 0031 / Inori→Iruka | Arrival and first day; Scores 54–55 | Absence, dedication, likeness | Wishes she could have seen the city with her; says she will skate for her share; likens another skater's performance to hers. | EV-0002/0006/0015; MD-CS-0297 | MD-CL-0001@14; HIGH. A parody stages a meeting and is not evidence. | MD-RL-0296 |
+| MD-RL-0338 | 0007 / Kago→Tsukasa | First day; Scores 55–56 | Patronage as witness | Travels with his daughter to watch; concludes from the lesson that the component mark is where his protégé's capacity as a coach shows; is astonished at the world the pair compete in. | EV-0005/0020/0032; MD-CS-0302 | MD-CL-0011@14; HIGH. | MD-RL-0134 |
+
+Baek Horang's thought of Iruka, Mia Ocelot's position between two coaches, Robin Chen's coach and Riley Fox, and the trainer's service to the federation are single-context and are carried as state events and institutional rows (MD-CS-0303/0304; MD-IN-0142/0143).
+
+### Current projection after V14
+
+| Pair / direction | Source endpoint | Active transition IDs | Current bounded state | Unknown reverse state / contradictions |
+| --- | --- | --- | --- | --- |
+| MD-PAIR-0001 / Tsukasa→Inori | V14 | MD-RL-0323/0325/0327 | Explains himself to her, has built her expression by method and labour, and rejoices openly. | Does not know the specific belief she held; has not unsaid his stake on her gold. |
+| MD-PAIR-0001 / Inori→Tsukasa | V14 | MD-RL-0324/0326/0328 | Still reads his face first; names him as the source of her strength without guilt; is pleased by his joy; claims the finish as her own. | Whether a film's ending in which the helper leaves bears on them is not said. |
+| MD-PAIR-0065 / Daria→Inori | V14 | MD-RL-0329 | Kind in speech, hostile in thought, with a sentence begun. | Her motive. |
+| MD-PAIR-0065 / Inori→Daria | V14 | MD-RL-0330 | Trusting; has heard the word and not understood it. | — |
+| MD-PAIR-0063 / both | V14 | MD-RL-0331/0332 | A lesson given and taken. | — |
+| MD-PAIR-0064 / both | V14 | MD-RL-0335/0336 | A bad first teacher whose pupil swore to be otherwise, and who is consulted years later. | How they were reconciled beyond an awkward truce. |
+| MD-PAIR-0037, 0003, 0007 | V14 | MD-RL-0333/0334/0338 | Colleagues who lent their bodies and judgment to one program, and a patron who watches. | — |
+| MD-PAIR-0031 / Inori→Iruka | V14 | MD-RL-0337 | Skating for an absent favourite's share. | Whether Iruka knows; whether her friend allows it. |
+| MD-PAIR-0005, 0011, 0050, 0057, 0060, 0062 | V13 | as before | Not advanced in V14; Hikaru is present only as the heroine's aim. | As at V13. |
+| Others | V13 or earlier | as before | Unchanged in V14. | — |

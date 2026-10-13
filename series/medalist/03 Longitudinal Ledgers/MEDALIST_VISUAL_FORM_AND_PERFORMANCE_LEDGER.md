@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.12"
+version: "1.13"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V13 closed (Scores 1–53, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V14 closed (Scores 1–56, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V13_UPDATE"
+review_status: "AUTHOR_REVIEWED_V14_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -393,3 +393,34 @@ All feature and motif records below are version 1 through `MD-FR-V13`. In this s
 | MD-MOT-0013 — light and shadow (extended) | V13: EV-0023 allowed to be strongest on the ice; EV-0025 called the light of hope by the one she feared to overshadow | — | The name is received as its bearer hoped | MD-CL-0023@9 |
 | MD-MOT-0014 — the maze and the eye above (extended) | V13: EV-0005 a coach who must watch; EV-0044 the maze and the second pair of eyes recalled as his reason to coach | — | The eye above is now tied to his own history of having had none | MD-CL-0010@13 |
 | MD-MOT-0002, 0003, 0004, 0008, 0009, 0010 | 0002: a score sheet's levels against a hall's applause (EV-0003/0005). 0003: a banana shared; ramen; sweets left (EV-0002/0047/0048). 0004: a guardian who entrusts a child onward (EV-0031). 0008: a night by a river (EV-0007). 0009: none. 0010: "absolutely had to win" (EV-0040) | — | Unchanged in kind | — |
+
+## V14 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V14`. In this section `EV-####` expands to the [V14 reading's](../02%20Sequential%20Readings/MEDALIST_V14_DEEP_READING.md#canonical-observations) `MD-EV-V14-####`. Locators are image occurrences in EPUB spine order. Order is verified. Facing-page geometry was not systematically verified; one title spread reads as a single composition across two occurrences. Image occurrences 0170–0254 of this witness belong to a different series and carry no record here. Earlier tables are unchanged.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0121 | MD-MOT-0005/0006; EV-0004 | 0010–0011 | A coach's face labelled as a comic face of regret; a pupil collapsed in the snow; then the same pupil rising in stages with her arms up at one word from him | Replays in comic key the reading of a face that was the crisis of the previous volume, and stages recovery as a gag | MD-CS-0297/0298; MD-CL-0028@4/0019@11 | HIGH; cf. MD-VF-0118 |
+| MD-VF-0122 | MD-MOT-0002; EV-0003/0009 | 0008, 0029–0030 | A staircase of years rising to a Games; a stepped pyramid assembled from a ranking table; a list on which the heroine's line sits beside four-figure totals | Gives a dream an administrative diagram | MD-IN-0139/0140; MD-CL-0005@13/0013@14 | HIGH |
+| MD-VF-0123 | MD-MOT-0009; EV-0012 | 0038–0039, read as one composition | Six rivals at a gaming table whose felt is marked with the three component names; chips; cards printed with jump codes; neon signs of metals and colours | Presents a scored segment as a game whose stakes are the criteria about to be explained | MD-COMP-0017; MD-CL-0012@14/0030@1 | HIGH for construction |
+| MD-VF-0124 | MD-MOT-0002; EV-0014/0015/0018/0019 | 0048–0055, 0069–0077 | Three plain shapes on a card; a rhythm counted and mis-counted; an arm in two positions against gravity; a figure traced on one foot; an upper and a lower body marked right and wrong; a spectator who glows or deflates with each program | Turns each rival's program into a worked example, and one spectator's face into a gauge | MD-SK-0086; MD-IN-0141; MD-CL-0030@1 | HIGH |
+| MD-VF-0125 | MD-MOT-0002/0005; EV-0017/0025/0031 | 0066, 0104–0105, 0131 | A wink at a row of faces that do not move; pens over printed mark sheets while criteria are spoken; a finger over a keypad | Shows the panel as people applying a printed standard | MD-IN-0141; MD-CL-0030@1 | HIGH; the banded scale is partly illegible |
+| MD-VF-0126 | MD-MOT-0016/0011; EV-0022/0023 | 0087–0088, 0095–0096 | A title page from behind the skater toward the judges; a ring of motion around a narcissus; the skater and a dark-haired inverse of herself joined at the blade over black water with lily pads; a downward look into a lake | States the program's subject as a double before the story is told | MD-PERF-0116; MD-CL-0012@14/0015@13 | HIGH |
+| MD-VF-0127 | MD-MOT-0006; EV-0024 | 0097–0103 | A combination seen from under the roof; an element box filled; then a panel of breaking glass holding the previous month's fall, a heartbeat, one word; a full page for the landing with an arm flung wide | Places a past failure on the approach to the same jump and lets the landing answer it | MD-SK-0085; MD-CL-0019@11 | HIGH; cf. MD-VF-0112 |
+| MD-VF-0128 | MD-MOT-0002; EV-0026/0027 | 0109–0113 | A punch drawn twice; labelled diagrams of stance, shoulder and breath; a small figure whose pose is annotated part by part | Draws feeling as a set of parts that can be taught | MD-SK-0084; MD-CL-0004@12 | HIGH |
+| MD-VF-0129 | MD-MOT-0016/0001; EV-0028 | 0114–0120 | A dark figure skating beside the heroine; a full page of her coach in practice clothes posed as the film's ghost; then pages in which the film's scenes, the home rink with two small figures and the arena are continuous; a checklist ticked in two columns | Makes her attribution of her strength a drawing, and merges where the steps were learned with where they are judged | MD-CS-0308; MD-CL-0026@7/0029@4/0008@13 | HIGH |
+| MD-VF-0130 | MD-MOT-0016/0012; EV-0029/0030 | 0121–0129 | A boy at the water's edge pleading with a figure who leaves; a landing over a kick that breaks glass; captions of the film's close under two spins; the heroine kneeling over her reflection beside a boy among narcissi; a final pose | Ends a program about a helper on the hero alone with his own face | MD-PERF-0116; MD-CL-0019@11/0026@7 | HIGH for construction; the application beyond the program is not made by the page |
+| MD-VF-0131 | MD-MOT-0005; EV-0033 | 0135–0138 | A replay of a jump; an arena screen showing a coach's celebration; a banner in the stands; a score graphic | Lets the pupil see her coach's joy as an image, in public | MD-CS-0310; MD-CL-0027@6 | HIGH |
+| MD-VF-0132 | MD-MOT-0011; EV-0035/0036/0037 | 0141–0148, 0149–0156 | A parody in which a rescue takes place under water among bubbles; a side chapter whose quarrel is lettered in English as a failure of communication and which ends by pulling back to its listening subjects | Uses the extras to stage a meeting the mainline withheld, in another world, and to frame a coach's origin as an anecdote | MD-CL-0012@14/0017@10 | HIGH; the parody is not continuity |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0016 — the double and the water's surface (new) | V07: a lake imagined as ice. V10: one girl takes another for her coach's likeness (V10:EV-0041). V13: a boot examined like a mirror; a likeness withdrawn (V13:EV-0015/0008). V14: EV-0022 a ghost with the hero's face that rose from a lake; EV-0023 a self at the bottom of a lake and a dark inverse joined at the blade; EV-0028 her coach drawn as the ghost; EV-0030 a reflection in the ice with only her own face | In V13 the double was another person's likeness and was renounced; here it is a helper who is loved and who leaves | A second self that strengthens and is then outgrown, seen in water or ice | Whether the helper's withdrawal is ever more than a film's; MD-CL-0026@7/0029@4 |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V14: EV-0026 a punch thrown side by side; EV-0033 a towel handed over | No embrace at the finish is drawn | Contact in this volume is instruction and care, not rescue | MD-CL-0004@12 |
+| MD-MOT-0002 — appraisal versus demonstrated movement (extended) | V14: EV-0014 a ruler of beauty; EV-0018 a hall and a panel that disagree; EV-0025 criteria spoken over skating; EV-0030 a rank that does not match a performance | The appraisal that disagrees with the hall is defended at length | Appraisal is given its fullest apparatus and its first sustained defence | MD-CL-0030@1/0005@13 |
+| MD-MOT-0005 — seeing and being seen (extended) | V14: EV-0004 a face read and explained; EV-0027 a pupil who has observed her coach's habits; EV-0032 people seen standing behind a skater; EV-0033 a coach seen on a screen | She reads disappointment where he meant self-reproach | Being seen is turned into a skill and a pleasure | MD-CL-0027@6/0028@4 |
+| MD-MOT-0006 — falling and getting up (extended) | V14: EV-0004 getting up as a gag; EV-0024 a fall remembered and not repeated; EV-0035 a parody's convalescent | No fall occurs | Recovery is shown from a memory, not from an error | MD-CL-0019@11 |
+| MD-MOT-0009 — cards, wagers and chairs (extended) | V14: EV-0012 a gaming table with jump cards and component felt | — | The wager is now on criteria | MD-CL-0012@14 |
+| MD-MOT-0011 — ice outside the rink (extended) | V14: EV-0022/0030 a film's lake; EV-0035 a sea | The lake is a film's and the sea a parody's | Water again stands beside the ice, at one remove | MD-CL-0012@14 |
+| MD-MOT-0012 — confinement and release (extended) | V14: EV-0029 a helper who lets go because he loves | It is a story within the story | Release is spoken as love | MD-CL-0026@7 |
+| MD-MOT-0003, 0004, 0007, 0008, 0010, 0013, 0014, 0015 | 0003: sugar before skating (EV-0021). 0004: none. 0007: a verdict of "no sense" refused for a child (EV-0014) and "no talent" refused as a premise (EV-0027). 0008: none. 0010: "absolutely" of the Olympic stage (EV-0010). 0013: none. 0014: none. 0015: none | — | Unchanged in kind | — |
