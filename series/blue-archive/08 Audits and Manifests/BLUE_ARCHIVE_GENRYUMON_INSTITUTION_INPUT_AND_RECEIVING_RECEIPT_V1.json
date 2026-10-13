@@ -4758,4 +4758,82 @@
     },
     "preserved": "Every frozen Genryumon body/source/ROOT field and original tuple immutable; derivative supplies full original-to-canonical inverse. No home/scope/literary/count change."
   }
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/canonical_body_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "1866a74bff9b1c930f82ff8576f404b850bffbeec0537d8b4604e4545267d661",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 45209,
+        "sha256": "1866a74bff9b1c930f82ff8576f404b850bffbeec0537d8b4604e4545267d661"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 45224,
+        "sha256": "d8535e8b667ba0a37f78c8f298b02478d9455e2658cc590ac24374bc31defca6"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_author_attachments/3/complete_original_payload/paragraphs/43/complete_saved_argument",
+      "retained_value_utf8_sha256": "bf192dda548254cd853b9ed89bba91f34d9969d6f8816dfe86febebe30eb23fe",
+      "finding_ids": [
+        "P30-P3-INST-SHANHAIJING-GENRYUMON-TRADITION-UNCHOSEN-OFFICE-ROOT_GENRYUMON_GI044_INDEPENDENTLY_VERIFIED_FULL_INVERSE_AND_PRECISE_THREE_CURRENT_FROZEN_POINTERS_V1-122",
+        "P30-P3-INST-SHANHAIJING-GENRYUMON-TRADITION-UNCHOSEN-OFFICE-L136"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/3/complete_original_payload/rivals/3/complete_positive_contrary_and_reasoned_revision",
+      "retained_value_utf8_sha256": "bf192dda548254cd853b9ed89bba91f34d9969d6f8816dfe86febebe30eb23fe",
+      "finding_ids": [
+        "P30-P3-INST-SHANHAIJING-GENRYUMON-TRADITION-UNCHOSEN-OFFICE-ROOT_GENRYUMON_GI044_INDEPENDENTLY_VERIFIED_FULL_INVERSE_AND_PRECISE_THREE_CURRENT_FROZEN_POINTERS_V1-123",
+        "P30-P3-INST-SHANHAIJING-GENRYUMON-TRADITION-UNCHOSEN-OFFICE-L136"
+      ]
+    },
+    {
+      "json_pointer": "/canonical_body_exact_tuple",
+      "retained_value_utf8_sha256": "39dfcd194a3e7fe6f1d904fd5bf91ae6d1cd0f2271b7bb03d2cfe29bcf596fef",
+      "finding_ids": [
+        "P30-BODYBIND-P3-INST-SHANHAIJING-GENRYUMON-TRADITION-UNCHOSEN-OFFICE"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+      "bytes": 45224,
+      "sha256": "d8535e8b667ba0a37f78c8f298b02478d9455e2658cc590ac24374bc31defca6",
+      "lines": 171,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 45224,
+        "sha256": "d8535e8b667ba0a37f78c8f298b02478d9455e2658cc590ac24374bc31defca6"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 45224,
+        "sha256": "d8535e8b667ba0a37f78c8f298b02478d9455e2658cc590ac24374bc31defca6"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

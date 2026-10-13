@@ -28,7 +28,7 @@ updated: 2026-10-10
 
 # Ayane: practical attention and the right to choose her own life
 
-ROOT accepted this whole eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_AYANE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern the decision. All fourteen gaps remain OPEN and claim-specific. Publication, main integration and full eligible-cast completion are separate; the denominator remains unfrozen.
+ROOT accepted this whole eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_AYANE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern the decision. All fourteen gaps remain OPEN and claim-specific. Publication, main integration and full eligible-cast completion are separate; the current separately accepted denominator is frozen at355.
 
 This complete local monograph candidate awaits ROOT's independent receiving and semantic adoption. It uses accepted textual arguments and explicitly necessary Japanese recovery; it does not create a reconstruction model, diagnose a person, settle institutional law or mark a full-cast milestone. Cycle005 and the current Cycle008 adoption govern the retained private and contextual meanings. Historical proposal language inside their accounts remains historical.
 

@@ -158,4 +158,17 @@
   },
   "mandatory_canonical_qualifications": [],
   "canonical_link_only_translations": []
+,
+  "current_source_consistency_audit_20261012": {
+  "register_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "register_fragment_pointer": "/last16_independent_receiving_fragment",
+  "record_ids": [
+    "last16-coverage-KANNA",
+    "last16-reference-KANNA-K029",
+    "last16-reference-KANNA-K037"
+  ],
+  "current_interpretation": "The separately current register qualifies named historical fields; it does not replace antecedent bodies, source scopes, tuples, statuses, counts or inverses.",
+  "current_body_exact_tuples": [],
+  "adoption": "ROOT_ACCEPTED_WITH_LIMITS_AT_EXPLICIT_ATTRIBUTED_GRADE"
+}
 }
