@@ -49,6 +49,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
 - [Shokugeki no Soma](../series/shokugeki-no-soma/) — `series/shokugeki-no-soma/`
 - [Shuukura](../series/shuukura/) — `series/shuukura/`
+- [Silent Witch: Secrets of the Silent Witch](../series/silent-witch/) — `series/silent-witch/` — Japanese-LN INITIAL architecture bootstrap for owner review; source inventory qualified and day-one master ledger initialized with zero narrative findings. Sequential-analysis lock CLOSED; primary and deterministic derived evidence remain outside Git.
 - [Solo Leveling](../series/solo-leveling/) — `series/solo-leveling/`
 - [Sound! Euphonium](../series/sound-euphonium/) — `series/sound-euphonium/`
 - [THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)](../series/the-idolmaster-cinderella-girls-2015-anime/) — `series/the-idolmaster-cinderella-girls-2015-anime/`
