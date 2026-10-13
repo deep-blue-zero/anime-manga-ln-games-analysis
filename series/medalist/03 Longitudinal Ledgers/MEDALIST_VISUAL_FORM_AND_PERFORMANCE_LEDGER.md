@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.6"
+version: "1.7"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V08 closed (Scores 1–32, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V07_UPDATE"
+review_status: "AUTHOR_REVIEWED_V08_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -225,3 +225,31 @@ All feature and motif records below are version 1 through `MD-FR-V07`. In this s
 | MD-MOT-0009 — cards, wagers and chairs (extended) | V07: EV-0005 cards acquired; EV-0006 all five triples as a hand; EV-0040 "the only card that could beat her"; EV-0038 a championship once staked | The specialist deals the same cards to everyone | The hand has changed; the wager is now the coach's | MD-CL-0008@6/0025@2 |
 | MD-MOT-0010 — the absolute (extended) | V07: EV-0015 her unfinished vow to recover; EV-0007 his vow to master a tool; EV-0020 each vowing the other will not be hurt; EV-0037 a senior's rule of refusal | At the lake he answers an absolute with "it is all right if you cannot" | Used by both for commitments to each other; declined by him when she offers an outcome | MD-CL-0007@7 |
 | MD-MOT-0002, 0003, 0004, 0008 | 0002: a ranking table against one landed jump (EV-0033, EV-0039). 0003: a meat bun and rice balls. 0004: a senior's care for the coach (EV-0043). 0008: the night drive and the lake (EV-0013–0016) | — | Unchanged in kind; night again holds what is not said by day | — |
+
+## V08 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V08`. In this section `EV-####` expands to the [V08 reading's](../02%20Sequential%20Readings/MEDALIST_V08_DEEP_READING.md#canonical-observations) `MD-EV-V08-####`. Locators are image occurrences in EPUB spine order. Order is verified. Facing-page geometry is verified for occurrences 0176–0177 only. Earlier tables are unchanged.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0066 | MD-MOT-0009; EV-0004 | 0013–0016 | A timetable diagram; a table of hands with cards being swapped; a run of coach-and-pupil pairs captioned with competing priorities | Presents official practice as a game of shown and hidden cards played by adults over children's heads | MD-IN-0078; MD-CL-0012@8/0013@8 | HIGH |
+| MD-VF-0067 | MD-MOT-0005; EV-0006 | 0020–0023 | A ring of silhouettes with lit eyes; heavy lettering pressing down on two small figures; a tiny skater at the centre of the stands | Draws attention itself as a weight | MD-CS-0147/0148; MD-CL-0012@8/0015@7 | HIGH |
+| MD-VF-0068 | MD-MOT-0001/0011; EV-0007 | 0024–0028 | A coat thrown off and drawstrings flung; a silhouette with the cord taut between two figures; the frozen lake returning with an inventory in captions; a full-page landing with a named jump | Repeats V07's method as ritual; the lake is now a place she can summon | MD-PERF-0071; MD-CL-0012@8 | HIGH; develops MD-VF-0063 |
+| MD-VF-0069 | EV-0016/0017 | 0053–0058 | A remembered child in comic rage; a coach crouched to her height; a dark inset of a weeping man and a fallen skater; then her bright face on an approach | Sets a doctrine against an unexplained cost and against the lightness it produces | MD-CS-0154; MD-CL-0026@1/0012@8 | HIGH; the inset is unidentified |
+| MD-VF-0070 | MD-MOT-0002; EV-0018/0019/0020 | 0059–0073 | A full-page triple Axel; an element row whose first square stays grey; a cartoon of one skater on a bicycle and the rest on foot; a landing diagram with quarter lines; an abrupt change of drawing style when the music changes | Shows a jump both landed and doubted; makes a scoring constraint a picture | MD-PERF-0074; MD-CL-0012@8/0005@7 | HIGH |
+| MD-VF-0071 | MD-MOT-0012; EV-0029/0031 | 0108–0114, 0119 | A dark room with a screen; a hall drawn without sound marks; a pianist's hands as an opening pose; a film's story as its own sequence, a vast room with a piano and a figure on the floor; a coated man leading a child through snow; an interstitial of a child at a tall window | Lays a story of confinement and release over two people without saying which is which | MD-CS-0165; MD-CL-0012@8/0016@7 | HIGH construction; the casting is given later by the choreographer |
+| MD-VF-0072 | EV-0030/0033/0035/0037/0038 | 0115–0150 | One program cut with the morning's decision, the music's history and a night road, so that each jump arrives with a cause | Applies to the rival the annotated-skate form used for the heroine in V06 | MD-PERF-0079; MD-CL-0012@8 | HIGH; cf. MD-VF-0045 |
+| MD-VF-0073 | MD-MOT-0012; EV-0039/0040 | 0152–0161 | Two full pages for one combination; a wolf's grin and a black shape crossing the frame; two skaters' figures superimposed; an allegorical page of a child among feathers; a page of many small figures | Turns a clean program into an image of one skater consuming another's past | MD-CS-0165; MD-CL-0012@8/0016@7 | HIGH; the image is one character's reading |
+| MD-VF-0074 | MD-MOT-0005; EV-0041 | 0162–0166 | Applause lettering filling a page and thinning to black; a score reflected in an eye; captions without a tail across three faces; the last clause beside the winner's smile; a tower of chairs earlier in the sequence | Makes a victory audible as rain and leaves its commentary without an owner | MD-COMP-0007; MD-CL-0012@8/0023@4/0026@1 | HIGH; the voice is unattributed |
+| MD-VF-0075 | EV-0042/0048 | 0167–0171; jacket | A man's reasoning in caption boxes against a dark ground; cross-cutting between a rail and a room with a screen; a low-angle full-height figure for the final vow; the volume ends before her skate, as V05 did | Repeats an earlier ending with the speakers exchanged and invites comparison | MD-CS-0167; MD-CL-0012@8/0007@8 | HIGH; cf. MD-VF-0044 |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0012 — confinement and release (new) | V08: EV-0025 a program whose titles mean a cage and a miniature garden; EV-0029 a confined dancer led out by a pianist; EV-0031 a child at a window; EV-0038 a rule that binds every night's practice; EV-0040 a wolf loosed. Earlier: V06 a man who could not live off the ice | The one who is called free of all burdens also weeps; competition, the public trial, is what the bound child calls easy | Enclosure attaches to both master and pupil, and release is drawn as appetite | Held until it recurs; MD-CL-0016@7/0026@1 |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V08: EV-0007 drawstrings thrown by him; EV-0029 hands that play the air; EV-0032 a skate set down on a telephone; EV-0042 a hand on a rail | Hikaru's contact with Tsukasa is a blade stopping a call | Contact is now also control | MD-CL-0012@8 |
+| MD-MOT-0005 — seeing and being seen (extended) | V08: EV-0006 a hall's gaze as weight; EV-0011 a technique taken at a glance; EV-0012 an agreement not to look; EV-0027 a demand to look; EV-0029 a watcher at a screen; EV-0030 a quadruple the hall could not read | The absent coach sees everything and is seen by no one | Looking is now tactical: withheld, stolen, insisted on | MD-CL-0004@7/0015@7 |
+| MD-MOT-0007 — the verdict that returns (extended) | V08: EV-0006 the champion's sentence about proof adopted by his challenger; EV-0042 a declaration returned with its terms reversed; EV-0026 "let us talk on the ice" | — | Sentences are now returned on purpose | MD-CL-0025@3/0002@8 |
+| MD-MOT-0009 — cards, wagers and chairs (extended) | V08: EV-0004 hands shown at practice; EV-0018 the Axel as a burden card; EV-0038 a tower of chairs with one girl on top | Riley Fox plays cards she has not looked at | The game is now played with open hands, and one player holds all the seats | MD-CL-0008@7/0023@4 |
+| MD-MOT-0010 — the absolute (extended) | V08: EV-0005 a bystander's certainty about a stranger's jump; EV-0006 and EV-0042 Inori's use of it for an intended success and for a wish; EV-0034 his denial repeated as self-steadying | The rule Hikaru lives under is an absolute in fact, never named with the word | She now uses the word of outcomes he will not | MD-CL-0007@8/0015@7 |
+| MD-MOT-0011 — ice outside the rink (extended) | V08: EV-0007 the lake summoned in a hall; EV-0032 skating on asphalt at night | — | Inori's outside ice is imagined and shared; Hikaru's is real and solitary | MD-CL-0003@7 |
+| MD-MOT-0002, 0003, 0004, 0006, 0008 | 0002: a board of values against a landing called short (EV-0020). 0003: none. 0004: a coach who holds what is loaded on his skater (EV-0017). 0006: a fall that would end a career, never shown (EV-0038). 0008: a night road (EV-0032) | — | Unchanged in kind | — |

@@ -5,14 +5,14 @@ artifact_type: "character_state_readiness_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.6"
+version: "1.7"
 status: "canonical"
 scope: "Time-indexed character interpretation, identity resolution and evidence-specific promotion readiness"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
-source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V08 closed (Scores 1–32, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V07_UPDATE"
+review_status: "AUTHOR_REVIEWED_V08_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -622,3 +622,92 @@ The seeded skaters 蝉丸ひまり and 大蜘蛛蘭, the other names in the nati
 | MD-RD-0040 | 0010 / supporting note / ambition in her own words | V05–V07 | Three statements across three volumes, all about mastery and possession; warm conduct toward Inori at two meetings and one unreadable moment. | No statement about a rival; her knowledge of her coach's design. | BOUNDED_PROVISIONAL for a supporting note only; author; 2026-10-13; MD-CL-0003@6 | First assessment above entry level. |
 
 MD-RD-0021, 0023, 0024, 0027 and 0032–0035 are unchanged. MD-CHAR-0052–0059 remain UNASSESSED for a dedicated artifact.
+
+## V08 evidence tables
+
+The [V08 reading and frozen state](../02%20Sequential%20Readings/MEDALIST_V08_DEEP_READING.md) own all `MD-EV-V08-…` observations. In this section `EV-####` expands to `MD-EV-V08-####`; earlier volumes are written with their volume prefix. Every new record is version 1, first known after V08. Claim references are the versions in force at `MD-FR-V08`. Earlier tables are unchanged; the current projection is the last projection table in this document. Global entity and subject IDs remain null for every row.
+
+### Identity updates to existing keys
+
+| Character key | V08 disclosure | Basis | Remaining limit |
+| --- | --- | --- | --- |
+| MD-CHAR-0001 | Worked a night job directing traffic to pay for the harness while his ribs were cracked; wears a suit Kago chose | EV-0032/0044 | The suit's price is a gag. |
+| MD-CHAR-0003 | Has taught herself to tell the six jumps apart and follows the event closely; her father sees her mother's love of skating in her | EV-0014 | — |
+| MD-CHAR-0007 | Travels to Aomori for the championship | EV-0003 | — |
+| MD-CHAR-0010 | Badge grade seven; start order eleven; gives the athletes' oath; often absent from school; trains alone at night on inline skates; a broadcast crew follows her | EV-0002/0003/0025/0032/0038 | — |
+| MD-CHAR-0012 | Named as a former pupil of Ryūgū who could jump a quadruple and never landed it in competition | EV-0005 | Stated by her former coach; she does not appear. |
+| MD-CHAR-0021 | Not present at the championship; watches by broadcast; still uses the towel Inori gave him; visits the Sonidori house | EV-0025/0026/0029/0044 | The last is a gag strip. |
+| MD-CHAR-0023 | Eleven, sixth grade; last year's Novice B silver medalist and twice second at that level; youngest of four sisters; three times Kinki block champion; start order six | EV-0001/0016/0022 | Profile fields. |
+| MD-CHAR-0032 | Promised to make Suzu first in the world and forbade her to carry others' hopes | EV-0017 | An inset memory of his is unidentified. |
+| MD-CHAR-0047 | Was Nachi Mario's coach | EV-0005 | — |
+| MD-CHAR-0056 | Lets pupils attempt what they picture succeeding; her club took the whole Tokyo podium; wants Tsukasa as a coach | EV-0008/0011 | The last is one thought. |
+| MD-CHAR-0058 | Start order eight; a grandfather who can again stand to watch; an improviser by profile | EV-0023/0043 | — |
+| MD-CHAR-0059 | Identified as レオニード・ソロキン, Leonid Sorokin: Yodaka's former choreographer and Hikaru's present one; by wording and motif the ballet master of V05 | EV-0025/0026/0035 | No caption equates the V05 scene. |
+
+### New keys
+
+| Character key | Source-spelled identity / alias basis | Continuity | First observation | Global IDs / unresolved identity |
+| --- | --- | --- | --- | --- |
+| MD-CHAR-0060 | 平新谷萌栄; Hiraniya Moe, caption with furigana; スターフォックスFSC | Japanese manga | EV-0011 | null/null |
+| MD-CHAR-0061 | 九猪桃子; Kokonoi Momoko, caption with furigana; 仙台スクエアFSC | Japanese manga | EV-0010 | null/null |
+| MD-CHAR-0062 | 大蜘蛛蘭; Ōgumo Ran, caption and profile with furigana; thirteen; 福岡パークFSC | Japanese manga | Named V07; EV-0023 | null/null |
+| MD-CHAR-0063 | 子出藤絃; Nedefuji Ito, caption with furigana; 蓮華茶FSC; one of three skating siblings | Japanese manga | Listed V07; EV-0021/0027 | null/null |
+
+The coaches named at the boards (梟木豊, 目城理世, 伊文里青紫, 家守朝緑, 蜻堂緋紗子, 日瀧常, 布袋野兎太, 蕨一, 西猯郡志), the skater 釈取, the seed 蝉丸ひまり and the siblings 環 and 唯 stay local to the reading and to the skating and institutions ledgers.
+
+### State events
+
+| State event | Character | Story time / revealed after | Change kind | Action / self-report / inference | Evidence / claim version | Confidence / alternatives | Prior / correction |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-CS-0144 | 0001 | Days before Niigata; Score 32 | REVEALED_NOT_NEW | Works nights on cracked ribs to pay for the harness and is ashamed to have it known; tells Hikaru his work is no sacrifice, that he does it for his own happiness whether Inori wins or loses, and that he will not make Inori pay one. | EV-0032/0037; MD-CL-0010@8/0007@8/0026@1 | HIGH wording. | MD-CS-0123 |
+| MD-CS-0145 | 0010 | Days before Niigata; Score 32 | REVEALED_NOT_NEW | Skating alone at night, stops a rival's coach from calling her guardian and asks him whether his second job is a sacrifice for his pupil; reports her coach's teaching that victory needs sacrifice; afterwards says to herself that in the end everyone is like that. | EV-0032/0037; MD-CL-0003@7/0016@7 | HIGH wording; the last line is open between wistful, dismissive and resigned readings. | MD-CS-0129 |
+| MD-CS-0146 | 0001 | Event day, morning; Score 29 | CONTEXT_CHANGE | Takes "unproven on the ice is the same as none" as the day's measure; has his pupil prove the quadruple in official practice to change the event's mood; throws her his drawstrings. | EV-0006/0007; MD-CL-0004@7/0025@3 | HIGH. | MD-CS-0140 |
+| MD-CS-0147 | 0004 | Event day, morning; Score 29 | CONTEXT_CHANGE | Under the whole hall's gaze, says it is as she had braced for and that this is the air Hikaru jumps in; runs her attention routine; lands the quadruple Salchow in her run-through. | EV-0006/0007; MD-CL-0015@7/0008@7 | HIGH; practice. | MD-CS-0141; MD-PERF-0071 |
+| MD-CS-0148 | 0047 | Event day; Score 29 | REVEALED_NOT_NEW | Says a pupil of his never landed her quadruple in competition and that only competition successes are recorded; names the gaze that presses such attempts down; would like to see this one done. | EV-0005/0006/0008; MD-CL-0005@7/0025@3 | HIGH. | V06 state |
+| MD-CS-0149 | 0061 | Event, group one; Score 30 | CONTEXT_CHANGE | Adopts Inori's block-closing combination and scores 85.88; resents the quadruple as a projectile. | EV-0010; MD-CL-0008@7 | HIGH. | none |
+| MD-CS-0150 | 0060 | Event, group one; Score 30 | CONTEXT_CHANGE | Attempts a quadruple Salchow after seeing Inori's arm position once; it opens to a single; skates the rest clean and leads for a time. | EV-0011; MD-CL-0004@7/0024@4 | HIGH. | none |
+| MD-CS-0151 | 0056 | Event; Score 30 | REVEALED_NOT_NEW | Permits a pupil's untested attempt on the ground that she herself often could do unpractised things and that a child's sense of "maybe I can" is to be valued. | EV-0011; MD-CL-0024@4/0026@1 | HIGH. | V07 state |
+| MD-CS-0152 | 0004 | Event, during group one; Score 30 | CONTEXT_CHANGE | Agrees to a division of roles in which her coach chooses the layout and she does not watch other skaters. | EV-0012; MD-CL-0002@8/0024@4 | HIGH. | MD-CS-0147 |
+| MD-CS-0153 | 0023 | Before and during her skate; Score 30 | REVEALED_NOT_NEW | Tells Ema she skates only for herself and cannot carry her feelings; tells Inori the centre of the podium will be hers; by her coach's account fell and practised more than anyone for the sake of standing in that centre. | EV-0013/0015/0016/0022; MD-CL-0026@1/0023@4 | HIGH. | V03 state |
+| MD-CS-0154 | 0032 | Remembered and present; Score 30 | REVEALED_NOT_NEW | Promised to make Suzu first in the world; forbade her to be a "good child" who needs others' reasons to skate; undertook to hold what would be loaded on her; keeps her layout after she fell on its hardest jump at practice. | EV-0013/0017/0020; MD-CL-0024@4/0026@1 | HIGH wording; an inset memory is unidentified. | V07 state |
+| MD-CS-0155 | 0023 | Her free skate; Score 30 | CONTEXT_CHANGE | Opens with a triple Axel marked for review; lands two triple-triple combinations; changes manner in mid-program; 110.55, first by more than twenty points. | EV-0018/0019/0020; MD-CL-0008@7/0005@7 | HIGH. | MD-CS-0153; MD-PERF-0074 |
+| MD-CS-0156 | 0024 | Event; Score 30 | REVEALED_NOT_NEW | Says she came to Aomori for herself, to see her target's best effort in person. | EV-0015; MD-CL-0020@2 | HIGH. | MD-CS-0135 |
+| MD-CS-0157 | 0011 | Event; Scores 31–32 | REVEALED_NOT_NEW | Tells Inori it is better not to watch Hikaru; once told Hikaru she had done enough and that his father disapproves and cannot oppose her coach; prays for her last jump. | EV-0024/0038/0039; MD-CL-0021@4 | HIGH. | MD-CS-0114 |
+| MD-CS-0158 | 0001 | Event, before Hikaru's skate; Score 31 | CONTEXT_CHANGE | Recognizes Inori's towel on Yodaka; declines to talk and says they will talk on the ice; tells Sorokin he believes his skater can outscore Hikaru. | EV-0026; MD-CL-0007@8/0025@3 | HIGH. | MD-CS-0146 |
+| MD-CS-0159 | 0004 | Event, before Hikaru's skate; Score 31 | DISPOSITION_CHANGE (candidate) | Returns to ask to watch Hikaru after all; shows composure at a rival's score; gives reasons: Hikaru will always be ahead of her on the same road and is her special rival; she wants to take the whole performance in and stand against it. | EV-0027; MD-CL-0002@8/0015@7 | HIGH wording. | MD-CS-0152 |
+| MD-CS-0160 | 0001 | Same; Score 31 | REVEALED_NOT_NEW | Does not refuse; restates the instruction as a common aid and not a prohibition; asks what reason she has found; lets her stay. | EV-0027/0028; MD-CL-0007@8/0024@4 | HIGH. | MD-CS-0158 |
+| MD-CS-0161 | 0035 | Event, group two; Scores 31–32 | CONTEXT_CHANGE | Skates clean with the triple Lutz and triple loop; praised for it by Hikaru, struggles visibly and answers with good wishes; 105.43; backstage asks why her coach makes only Hikaru do dangerous things; weeps at Hikaru's score. | EV-0028/0034/0041; MD-CL-0001@8/0023@4 | HIGH. | MD-CS-0094 |
+| MD-CS-0162 | 0010 | Event day; Scores 31–32 | REVEALED_NOT_NEW | Having seen Inori's quadruple, asks to open with one; says the assigned piece must be a step she needs; says she will challenge Yodaka; praises Yūna from the boards. | EV-0028/0033/0035; MD-CL-0003@7/0016@7 | HIGH wording. | MD-CS-0145 |
+| MD-CS-0163 | 0021 | Event day, remote; Scores 31–32 | REVEALED_NOT_NEW | Asleep and unreachable during her warm-up; then permits an untested quadruple and changes her last jump; watches on a screen; says it is Tsukasa's turn. | EV-0029/0033/0042; MD-CL-0016@7/0024@4/0025@3 | HIGH. | MD-CS-0142 |
+| MD-CS-0164 | 0010 | Remembered; Score 32 | REVEALED_NOT_NEW | Tells Rio of the rule that one fall in the nightly run-through ends her skating; finds competition easy by comparison; has no use for a self that would fail. | EV-0038/0039; MD-CL-0003@7/0016@7/0026@1 | HIGH wording. | MD-CS-0162; MD-PROP-0029 |
+| MD-CS-0165 | 0010 | Her free skate; Scores 31–32 | CONTEXT_CHANGE | Opens with a quadruple toe loop untried on that ice; is shown straining; closes with a triple Axel, Euler and triple Salchow; all ten elements credited; 128.98; smiles at a plush wolf. | EV-0030/0034/0039/0040/0041; MD-CL-0023@4/0008@7 | HIGH. | MD-CS-0164; MD-PERF-0079 |
+| MD-CS-0166 | 0022 | Event day; Scores 31–32 | REVEALED_NOT_NEW | As coach of record advises against the quadruple, refers the decision by telephone, and relays it; is blamed by rival coaches and doubted by his first pupil for it; by his son's account disapproves of the rule and cannot oppose it. | EV-0033/0034/0036/0038; MD-CL-0016@7 | HIGH. | MD-CS-0099 |
+| MD-CS-0167 | 0001 with 0004 | After Hikaru's score; Score 32 | CONTEXT_CHANGE | He reasons that the present layout secures a high place and a junior-championship entry and resolves to say so; she says she absolutely wants to beat Hikaru and asks him to believe in her once more; he says the layout will change; she vows to make him a gold medalist's coach. | EV-0042; MD-CL-0002@8/0007@8/0010@8/0015@7/0026@1 | HIGH wording; whether the reversal is sound is open. | MD-CS-0159/0160 |
+
+### Current projection after V08
+
+| Character | Current source boundary | Active state references | Bounded current formulation | Open contradictions |
+| --- | --- | --- | --- | --- |
+| MD-CHAR-0004 | V08/MD-FR-V08 | MD-CS-0147/0159/0167 | Entrant yet to skate, who proved her quadruple in practice under full attention, insisted on watching her rival, and has taken on her coach's standing as her own stake. | Attentive in practice; unconditional in wanting; layout unknown. |
+| MD-CHAR-0001 | V08/MD-FR-V08 | MD-CS-0144/0146/0160/0167 | Coach who says his work is its own good and that he will exact no sacrifice, and who has just set aside his own prudent judgment at his pupil's request. | Statement against act; a demonstration that armed rivals. |
+| MD-CHAR-0010 | V08/MD-FR-V08 | MD-CS-0145/0162/0164/0165 | Leader at 128.98 under a rule that makes practice the trial and competition the respite, who means to challenge her coach and was moved by Inori's jump. | What she meant on the road; whether surpassing him is escape or obedience. |
+| MD-CHAR-0021 | V08/MD-FR-V08 | MD-CS-0163 | Absent coach who governs by telephone, escalates risk, and keeps a child's towel. | Why the adults round him cannot oppose him. |
+| MD-CHAR-0022 | V08/MD-FR-V08 | MD-CS-0166 | Coach of record carrying blame for decisions that are not his. | — |
+| MD-CHAR-0023, 0032 | V08/MD-FR-V08 | MD-CS-0153/0154/0155 | A skater who carries nothing, second at 110.55 and in tears; a coach who holds her burdens. | His unexplained memory. |
+| MD-CHAR-0035 | V08/MD-FR-V08 | MD-CS-0161 | Clean at last, third, able to wish her rival well and unable to understand her coach. | — |
+| MD-CHAR-0011 | V08/MD-FR-V08 | MD-CS-0157 | Keeper of Hikaru's rule and her anxious supporter. | — |
+| MD-CHAR-0056, 0060, 0061 | V08/MD-FR-V08 | MD-CS-0149/0150/0151 | A permissive champion-coach and two skaters who copied Inori. | — |
+| MD-CHAR-0055, 0053, 0054 | V07 state | as before | Miku on the ice at the volume's end. | Her skate. |
+| Others | V07 or earlier | as before | Unchanged in V08. | — |
+
+### Readiness after V08
+
+| Readiness record | Character / target / domain | Boundary / scope | Context coverage / counterevidence | Gaps / tests | Assessment / reviewer / date | History / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-RD-0041 | 0004 / monograph / development to the middle of a national event | V01–V08 manga-only | Adds a method used under full attention, a reasoned override of her coach, and a vow that reverses his. | Her skate; the freeze falls mid-event, so V09 is the sound boundary. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0002@8/0015@7 | Extends MD-RD-0036. |
+| MD-RD-0042 | 0001 / monograph / coach identity, past and method | V01–V08 | Adds a stated purpose apart from results, a tactic and its recoil, and a judgment reversed at his pupil's request. | The reversal's outcome and his conduct after it; the same mid-event caution. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0004@7/0007@8/0010@8 | Extends MD-RD-0037. |
+| MD-RD-0043 | 0010 / supporting-character study / the prodigy's terms | V01–V08 | Her rule, her aims, her coach's doctrine, a complete program and its making; statements in her own voice across four volumes. | Her regard for Inori in words; what she meant on the road; her knowledge of the design for her career. | BOUNDED_PROVISIONAL for a supporting study; author; 2026-10-13; MD-CL-0003@7/0016@7 | Raises MD-RD-0040. |
+| MD-RD-0044 | Ensemble / comparative study / coaching doctrines on risk and burden | V02–V08 | Stated positions of Tsukasa, Yodaka, Sonidori, Gori, Kameganya, Riley Fox, Kōhei and Juna, with cases. | Several doctrines untested by a costly failure; outcomes of the present event. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0024@4/0025@3/0026@1 | First assessment. |
+| MD-RD-0045 | 0023 / supporting-character study / the unburdened contender | V03, V08 | One dense chapter, a doctrine, a program, a profile and her tears. | Her event is unfinished; little outside this volume. | INSUFFICIENT_EVIDENCE for a dedicated artifact; adequate for ensemble treatment; author; 2026-10-13; MD-CL-0026@1 | First assessment. |
+
+MD-RD-0033 (Yodaka) is extended by MD-CS-0163 and the disclosures in MD-CS-0145/0164 without a new record. MD-RD-0021, 0023, 0024, 0027, 0032, 0034, 0035, 0038 and 0039 are unchanged. MD-CHAR-0060–0063 remain UNASSESSED.

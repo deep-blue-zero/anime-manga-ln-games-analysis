@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.6"
+version: "1.7"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V08 closed (Scores 1–32, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V07_UPDATE"
+review_status: "AUTHOR_REVIEWED_V08_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -268,3 +268,37 @@ All events below are version 1 through `MD-FR-V07`. In this section `EV-####` ex
 | Family consent | Yuitsuka household | MD-IN-0064/0070 | Deliberated trust in the coach. | The middle-school endpoint. |
 | Attention and standing | Inori | MD-IN-0056/0076 | Earned by a title, multiplied by a jump, chosen by her. | Its effect on the day. |
 | Others | As V06 | as before | Unchanged in V07. | — |
+
+## V08 evidence tables
+
+All events below are version 1 through `MD-FR-V08`. In this section `EV-####` expands to the [V08 reading's](../02%20Sequential%20Readings/MEDALIST_V08_DEEP_READING.md#canonical-observations) `MD-EV-V08-####`. New setting: MD-ORG-0031, clubs of the national field first named in V08 (仙台スクエアFSC, 荒川グローFSC, and the coaching staffs of 岡山ティナFSC, 福岡パークFSC and やまびこFSC shown at the boards). Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0077 | The championship, its entrants | Event day | Thirty-six entrants in six groups; a resurfacing after the third; start order fixed at the previous day's ceremony; an athletes' oath given by the leading skater; a broadcast crew assigned to one entrant | The field is large, and one child is its public face before she skates | EV-0002/0003/0010; MD-COMP-0007; MD-CL-0013@8/0023@4 | HIGH |
+| MD-IN-0078 | Official practice | Event day, morning | A rehearsal on competition ice in start order with each program's music; coaches of other groups may watch; it tests the surface and exposes each skater's hand | Coaches scout and revise layouts; attention to rivals is taken from one's own pupil | EV-0004/0006/0008; MD-SK-0049; MD-CL-0013@8/0005@7 | HIGH as in-story statements |
+| MD-IN-0079 | The record, by a senior head coach | Event day | Many skaters have been able to jump a quadruple; only those who landed one in competition are remembered | A practice landing confers attention and no standing | EV-0005; MD-CL-0005@7/0025@3 | HIGH that it was said |
+| MD-IN-0080 | Scoring as stated | Event | Three grades of under-rotation; a compulsory Axel; at most two combinations with one of three jumps; posted values for combinations | A landed jump can be marked down at its landing; the triple Axel's worth includes release from a forced low-value pass | EV-0018/0020/0028; MD-SK-0050; MD-CL-0013@8 | HIGH as in-story statements; unverified externally; prior MD-IN-0045/0052 |
+| MD-IN-0081 | Diffusion of method | Event day | A block-winning combination is reused by a rival a month later; a quadruple's set-up is copied from one viewing at practice | Innovations do not stay with their authors | EV-0010/0011; MD-CL-0004@7/0008@7 | HIGH; prior MD-IN-0065 |
+| MD-IN-0082 | ORG-0028, its head coach | Event | A champion-coach permits untested attempts on a pupil's sense that she can; her club took its whole block podium | The permissive end of the range of coaching authority | EV-0011; MD-CL-0024@4 | HIGH |
+| MD-IN-0083 | ORG-0009, its head coach and assistants | Remembered and event day | A promise that the skater will carry no one's hopes and that the coach will hold what is loaded on her; layouts kept on the head coach's judgment after practice; assistants deliberate challenge jumps for others | A doctrine of unburdening inside the west's leading club | EV-0004/0013/0017; MD-CL-0026@1/0024@4 | HIGH; prior MD-IN-0074 |
+| MD-IN-0084 | ORG-0006 and ORG-0016, the hidden coach | Event day and as reported | The coach of record advises and relays; the actual coach decides layout by telephone from elsewhere; a nightly run-through in which one fall ends the pupil's skating; a taught doctrine of sacrifice; the coach's own signature music and choreographer assigned to her; rival coaches and the first pupil attribute the risk to the coach of record | The secret arrangement governs competition decisions and its costs fall on the man who fronts it | EV-0025/0033/0034/0036/0037/0038; MD-RL-0180/0196; MD-CL-0016@7/0024@4 | HIGH for what is shown and said; why the adults cannot oppose it is not given; prior MD-IN-0057/0058 |
+| MD-IN-0085 | ORG-0007, the patron's household | Event day and a gag | The patron and his daughter travel to the championship; she has studied the sport; he chose the coach's suit, apparently at more than the coach believes | Support continues in forms the recipient can accept | EV-0014/0044; MD-CL-0011@8 | HIGH for attendance; the suit is a gag; prior MD-IN-0048 |
+| MD-IN-0086 | ORG-0002, a coach's means | Days before Niigata | The assistant coach works nights directing traffic to pay for club equipment while injured | The harness was paid for by a second job | EV-0032; MD-CL-0010@8/0011@8 | HIGH; prior MD-IN-0068 |
+| MD-IN-0087 | Authority over Inori's layout | Event | By agreement the coach chooses from what he sees and the pupil does not watch; the pupil reopens the agreement with reasons and is allowed to watch; the coach's judgment for the safe layout is set aside at her request | Ownership of the decision shifts twice in an evening | EV-0012/0027/0042; MD-CL-0024@4/0002@8/0007@8 | HIGH; prior MD-IN-0075 |
+
+A creator note records that an animated adaptation of the series has been decided (EV-0046). It is a production fact outside this manga-only scope and is not analysed.
+
+### Current projection after V08
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| The championship | All-Japan Novice A | MD-IN-0072/0077/0078; MD-COMP-0007 | Thirty-six entrants; eleven scored; leader 128.98. | The remaining skates. |
+| Scoring | The event | MD-IN-0045/0052/0080 | Values, multiplier, execution marks, rotation grades, combination limits. | External verification. |
+| What counts | The record | MD-IN-0079 | Competition landings only. | — |
+| Diffusion | The field | MD-IN-0065/0081 | Tools and methods spread within weeks or hours. | — |
+| The hidden coach's regime | ORG-0006 | MD-IN-0057/0058/0084 | Remote authority, a terminal rule, a doctrine of sacrifice. | Why it cannot be opposed; its other party. |
+| Doctrines of load | Several clubs | MD-IN-0082/0083/0084 | Permit, unburden, or demand. | Outcomes for each at this event. |
+| Authority over layout | Lux | MD-IN-0087 | Coach's by agreement, pupil's by appeal. | The layout. |
+| Means and patronage | Tsukasa, Kago | MD-IN-0085/0086 | A second job and a quiet gift. | — |
+| Others | As V07 | as before | Unchanged in V08. | — |

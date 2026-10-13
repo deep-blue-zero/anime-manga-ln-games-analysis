@@ -5,14 +5,14 @@ artifact_type: "relationship_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.6"
+version: "1.7"
 status: "canonical"
 scope: "Directional interpersonal interpretations and transitions among athletes, coaches, peers and families"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_RELATIONSHIP_RIVALRY_AND_MENTORSHIP_LEDGER.md"
-source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V08 closed (Scores 1–32, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V07_UPDATE"
+review_status: "AUTHOR_REVIEWED_V08_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -425,3 +425,59 @@ Juna's teasing of Tsukasa and Tsukasa's curtness toward him, Yuki's thanks and h
 | MD-PAIR-0005 / Inori→Hikaru | V07 | MD-RL-0167 | Admires her and means to beat her. | — |
 | MD-PAIR-0002 / parents→Inori | V07 | MD-RL-0168 | Trust the coach with their daughter overnight after deliberation. | The middle-school endpoint. |
 | Others | V06 or earlier | as before | Unchanged in V07. | — |
+
+## V08 evidence tables
+
+All transitions below are version 1 through `MD-FR-V08`. In this section `EV-####` expands to the [V08 reading's](../02%20Sequential%20Readings/MEDALIST_V08_DEEP_READING.md#canonical-observations) `MD-EV-V08-####`. New pair keys: MD-PAIR-0041 Hikaru/Tsukasa; MD-PAIR-0042 Suzu/Kameganya; MD-PAIR-0043 Hikaru/Sorokin; MD-PAIR-0044 Suzu/Inori; MD-PAIR-0045 Suzu/Hikaru. Earlier tables are unchanged; the current projection is the last projection table in this document.
+
+| Transition | Pair / direction | Story time / known after | Dimensions / context | Action / options / effect | Evidence / knowledge / linked homes | Claim / confidence / alternatives | Prior / revision |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-RL-0169 | 0001 / Tsukasa→Inori | Event day, morning; Score 29 | Shared forecast, tether, tactic | Tells her the hall's pressure is what they predicted; throws her his drawstrings; sends her to prove the jump in practice. | EV-0006/0007; MD-CS-0146 | MD-CL-0004@7; HIGH. | MD-RL-0151 |
+| MD-RL-0170 | 0001 / Inori→Tsukasa | Event day, morning; Score 29 | Readiness, delight | Says she had braced for it; takes the cords; dances round him in his suit; hands him her plush to carry. | EV-0003/0006/0007 | MD-CL-0015@7; HIGH. | MD-RL-0152 |
+| MD-RL-0171 | 0001 / Tsukasa→Inori | During group one; Score 30 | Protection, division of labour | Proposes that he choose the layout from what he sees and that she not watch other skaters. | EV-0012; MD-CS-0152 | MD-CL-0024@4; HIGH. | MD-RL-0169 |
+| MD-RL-0172 | 0001 / Inori→Tsukasa | Before Hikaru's skate; Score 31 | Reasoned dissent | Returns to ask to watch Hikaru; shows composure as evidence; gives her reasons. | EV-0027; MD-CS-0159 | MD-CL-0002@8; HIGH. | MD-RL-0170 |
+| MD-RL-0173 | 0001 / Tsukasa→Inori | Before Hikaru's skate; Score 31 | Reasons over authority | Does not refuse; restates the instruction's purpose; asks for her reason; lets her stay. | EV-0027/0028; MD-CS-0160 | MD-CL-0007@8; HIGH. | MD-RL-0171 |
+| MD-RL-0174 | 0001 / Inori→Tsukasa | After Hikaru's score; Score 32 | Appeal, inversion | Says she absolutely wants to beat Hikaru; asks him to believe in her once more; vows to make him a gold medalist's coach. | EV-0042; MD-CS-0167 | MD-CL-0002@8/0026@1; HIGH wording. | MD-RL-0172 |
+| MD-RL-0175 | 0001 / Tsukasa→Inori | After Hikaru's score; Score 32 | Prudence set aside | Reasons for the safe layout and means to say so; on her appeal says the layout will change. | EV-0042; MD-CS-0167 | MD-CL-0007@8; HIGH wording; soundness open. | MD-RL-0173 |
+| MD-RL-0176 | 0041 / Hikaru→Tsukasa | Days before Niigata; Score 32 | Curiosity, testing | Stops him telephoning her guardian; asks to be seen home so they can talk; asks whether his job is a sacrifice for his pupil; leaves on a remark to herself. | EV-0032/0037; MD-CS-0145 | MD-CL-0003@7; HIGH; her purpose in asking is inferred. | none |
+| MD-RL-0177 | 0041 / Tsukasa→Hikaru | Days before Niigata; Score 32 | Care, candour | Chases an unaccompanied child at night; insists on an escort; answers her question plainly; hides his injury and his embarrassment. | EV-0032/0037; MD-CS-0144 | MD-CL-0010@8; HIGH. | none |
+| MD-RL-0178 | 0041 / Tsukasa→Hikaru | Her free skate; Scores 31–32 | Awe, interpretation | Judges her skating beyond the class; sees Yodaka in her; reads her as consuming what her coach gives. | EV-0030/0037/0040 | MD-CL-0003@7/0016@7; HIGH that he thinks so. | MD-RL-0177 |
+| MD-RL-0179 | 0011 / Hikaru→Yodaka | Remembered and event day; Scores 31–32 | Submission to terms, appropriation, challenge | Lives by his rule of one fall; takes the piece he reserved to himself as a required step; says she will challenge him; complains he slept through her warm-up. | EV-0033/0035/0038; MD-CS-0162/0164 | MD-CL-0016@7/0003@7; HIGH wording. | MD-RL-0164 |
+| MD-RL-0180 | 0011 / Yodaka→Hikaru | Remembered and event day; Scores 31–32 | Zero tolerance, doctrine, escalation | Sets the rule; teaches that victory needs sacrifice; assigns her his signature piece; permits an untested quadruple and raises her last jump; watches from elsewhere. | EV-0029/0033/0035/0037/0038; MD-CS-0163 | MD-CL-0016@7/0024@4/0026@1; HIGH. | MD-RL-0118 |
+| MD-RL-0181 | 0043 / Sorokin→Hikaru | Recent months; Score 32 and a gag | Partisanship, design | Asks whether she can take the piece from her master; declares himself on her side; recasts her as the pianist who led the dancer out; says he has given her magic; by a gag visits her household daily. | EV-0026/0029/0035/0044 | MD-CL-0016@7; HIGH. | V07 studio scene (MD-CS-0129) |
+| MD-RL-0182 | 0043 / Hikaru→Sorokin | Recent months; Score 32 | Use | Learns the piece's history from him; states her aim to him. | EV-0035 | MD-CL-0003@7; HIGH; brief. | none |
+| MD-RL-0183 | 0009 / Tsukasa→Yodaka | Event day; Scores 29 and 31 | Adoption of a measure, refusal of talk | Takes his sentence about proof as the day's standard; recognizes the towel; says they will talk on the ice. | EV-0006/0026; MD-CS-0146/0158 | MD-CL-0025@3; HIGH. | MD-RL-0115 |
+| MD-RL-0184 | 0009 / Yodaka→Tsukasa | Event day; Score 32 | Summons | Says to the broadcast that it is his turn. | EV-0042; MD-CS-0163 | MD-CL-0025@3; HIGH; one line. | MD-RL-0116 |
+| MD-RL-0185 | 0010 / Yodaka→Inori | From V02 to the present | An object kept | Still uses the towel she gave him. | EV-0026 | MD-CL-0016@7; HIGH as fact; no meaning assigned. | MD-RL-0165 |
+| MD-RL-0186 | 0005 / Hikaru→Inori | Event day; Scores 29, 31–32 | Emulation | A small smile in a corridor; having watched her quadruple, asks for one of her own; ends her program with Inori's combination raised by a jump. | EV-0003/0033/0039 | MD-CL-0003@7; HIGH for the first two; the choice of last jump was her coach's. | MD-RL-0166 |
+| MD-RL-0187 | 0005 / Inori→Hikaru | Event day; Scores 29, 31–32 | Rivalry declared, absorption | Thinks she skates in the air Hikaru always jumps in; names her a special rival for the whole road; means to study her and is entranced; calls it like magic; recognizes her own combination; says she absolutely wants to beat her. | EV-0006/0027/0034/0039/0042; MD-CS-0159 | MD-CL-0015@7/0003@7; HIGH. | MD-RL-0167 |
+| MD-RL-0188 | 0042 / Kameganya→Suzu | Remembered and event day; Score 30 | Promise, prohibition, shelter | Promises to make her first in the world; forbids her to carry others' hopes; undertakes to hold what is loaded on her; keeps her layout. | EV-0013/0017; MD-CS-0154 | MD-CL-0026@1/0024@4; HIGH. | none |
+| MD-RL-0189 | 0042 / Suzu→Kameganya | Remembered and event day; Score 30 | Demand, trust | Demanded to be made first; accepts his layout with "leave it to me"; is startled at his fury over a rival's jump. | EV-0013/0016/0036 | MD-CL-0026@1; HIGH. | none |
+| MD-RL-0190 | 0040 / both | Before and during the event; Score 30 | Refusal of borrowed feeling | Suzu declines to skate for Ema; Ema says she came for herself, to watch her target; Ema is glad at her score. | EV-0015/0020; MD-CS-0153/0156 | MD-CL-0026@1/0020@2; HIGH. | MD-RL-0162 |
+| MD-RL-0191 | 0044 / both | Event day; Score 30 | Old acquaintance, rivalry | Suzu loosens Inori's nerves, recalls their first meeting a year ago and tells her the podium's centre will be neither hers nor Hikaru's; Inori recalls a promise to become her rival too. | EV-0013 | MD-CL-0023@4; HIGH. | V03 meeting |
+| MD-RL-0192 | 0045 / Suzu→Hikaru | Event day; Scores 30 and 32 | Contest sought | Built a triple Axel to beat her; wants her to jump hers so that the contest is fair; weeps at her score. | EV-0039/0041 | MD-CL-0023@4; HIGH. | none |
+| MD-RL-0193 | 0026 / both | Event day; Scores 31–32 | Praise given and taken | Hikaru calls Yūna's combination beautiful; Yūna, after a visible struggle, thanks her and wishes her well; later weeps at her score. | EV-0028/0041; MD-CS-0161 | MD-CL-0001@8/0023@4; HIGH. | MD-RL-0100 |
+| MD-RL-0194 | 0024 / Yūna→Sonidori | Event day; Score 32 | Doubt | Asks why he makes only Hikaru do dangerous things and finds him unlike himself. | EV-0034; MD-KN-0077 | MD-CL-0016@7; HIGH. | MD-RL-0124 |
+| MD-RL-0195 | 0021 / Rio→Hikaru | Remembered and event day; Scores 31–32 | Anxiety, loyalty | Told her she had done enough; knows her rule; tells Inori not to watch her; prays for her last jump. | EV-0024/0038/0039; MD-CS-0157 | MD-CL-0021@4; HIGH. | MD-RL-0074 |
+| MD-RL-0196 | 0023 / Sonidori→Yodaka | Event day and as reported | Deference | Refers the layout decision to him and relays it; by his son's account cannot oppose him. | EV-0033/0038; MD-CS-0166 | MD-CL-0016@7; HIGH for the call; the second is a child's account. | MD-RL-0119 |
+
+Riley Fox's thought about Tsukasa, Ryūgū's remark about Nachi, Kago's choice of a suit and the meeting of Kago and Jakuzure in the stands are single-context and are carried as state events and institutional rows (MD-CS-0148/0151; MD-IN-0083/0085).
+
+### Current projection after V08
+
+| Pair / direction | Source endpoint | Active transition IDs | Current bounded state | Unknown reverse state / contradictions |
+| --- | --- | --- | --- | --- |
+| MD-PAIR-0001 / Tsukasa→Inori | V08 | MD-RL-0169/0173/0175 | Gives reasons, yields to hers, and has put his own judgment behind her wish. | Whether he should have; does not know why she hurried in V04. |
+| MD-PAIR-0001 / Inori→Tsukasa | V08 | MD-RL-0172/0174 | Argues with him as an equal on her own conduct and has made his standing her stake. | Still withholding her V04 motive in so many words. |
+| MD-PAIR-0041 / both | V08 | MD-RL-0176/0177/0178 | A rival's pupil who questioned him in private, and a coach who answered her honestly and now watches her in awe. | What she took from his answer. |
+| MD-PAIR-0011 / both | V08 | MD-RL-0179/0180 | A rule of one fall, a doctrine of sacrifice, a signature piece handed over, and a pupil who means to challenge the giver. | Whether he wants to be surpassed. |
+| MD-PAIR-0043 / both | V08 | MD-RL-0181/0182 | A choreographer on the pupil's side against his old collaborator. | — |
+| MD-PAIR-0009 / both | V08 | MD-RL-0183/0184 | The wager called in. | — |
+| MD-PAIR-0005 / Hikaru→Inori | V08 | MD-RL-0186 | Moved by her jump to match it. | Words. |
+| MD-PAIR-0005 / Inori→Hikaru | V08 | MD-RL-0187 | A rival for a career, studied and admired. | — |
+| MD-PAIR-0042 / both | V08 | MD-RL-0188/0189 | A coach who carries the load and a skater who carries none. | His memory. |
+| MD-PAIR-0044, 0045, 0040 | V08 | MD-RL-0190/0191/0192 | Suzu as friend who will not skate for others, acquaintance who has arrived, and challenger who wants a fair fight. | — |
+| MD-PAIR-0026 / both | V08 | MD-RL-0193 | Praise exchanged across an old rivalry. | — |
+| MD-PAIR-0024 / Yūna→Sonidori | V08 | MD-RL-0194 | Trust strained by what she cannot be told. | — |
+| MD-PAIR-0023 / Sonidori→Yodaka | V08 | MD-RL-0196 | Defers against his own advice. | Why. |
+| Others | V07 or earlier | as before | Unchanged in V08. | — |

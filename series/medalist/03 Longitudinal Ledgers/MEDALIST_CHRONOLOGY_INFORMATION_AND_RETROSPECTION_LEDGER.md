@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.6"
+version: "1.7"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V08 closed (Scores 1–32, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V07_UPDATE"
+review_status: "AUTHOR_REVIEWED_V08_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -335,3 +335,46 @@ New proposition keys: MD-PROP-0025 why the triple Lutz was lost; MD-PROP-0026 th
 | MD-RT-0043 | EV-0041, Score 28 | V06:EV-0046 Hikaru turning away; V04:EV-0039 "at the All-Japan" | The appointment is kept from her side: she has been waiting | The turning away is not explained | MD-RV-0079; HIGH for her present direction |
 | MD-RT-0044 | EV-0037, Score 28 | V02–V03 records of an unnamed former teacher (MD-CHAR-0027) | The teacher taught a rule that looks to the ability to jump at a chosen moment, and taught Kōhei and Juna as well | Still unnamed; Tsukasa will not speak of him | No revision; MODERATE-HIGH |
 | MD-RT-0045 | EV-0045 jacket copy against V06:EV-0052 | The V06 advertisement's line about a quadruple set over Yodaka and Hikaru | The line is the jump specialist's | The advertisement was exposure only and no claim relied on it | No revision; HIGH |
+
+## V08 evidence tables
+
+All records below are version 1 through `MD-FR-V08`. In this section `EV-####` expands to the [V08 reading's](../02%20Sequential%20Readings/MEDALIST_V08_DEEP_READING.md#canonical-observations) `MD-EV-V08-####`; earlier volumes are written with their volume prefix. No calendar year is inferred. Earlier tables are unchanged.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0065 | Championship day: the oath (previous day's ceremony, shown first); arrival; official practice in the morning; the event from early evening; groups one and two | Scores 29–32 / PRESENT | EV-0002–0042 | The oath belongs to the ceremony of V07's last pages | HIGH |
+| MD-TM-0066 | A few days before the Niigata drive: Tsukasa's night job; his meeting with Hikaru on a road | Score 32 / FLASHBACK in his narration | Tsukasa, Hikaru; EV-0032/0037 | After his fall and before the drive (MD-TM-0056 to 0058) | HIGH relative order |
+| MD-TM-0067 | The morning of the event: Hikaru asks for a quadruple; Sonidori telephones; Yodaka, asleep earlier, answers | Score 32 / FLASHBACK within the day | EV-0033 | After Inori's practice landing and before group two | HIGH |
+| MD-TM-0068 | Recent months: Sorokin makes Hikaru's program on Yodaka's old music; the studio conversation in which she says she will challenge her coach | Score 32 / FLASHBACK | EV-0035 | Continuous with V07's studio scene (MD-CS-0129); relative to V05's St Petersburg visit not fixed | HIGH content; MODERATE placement |
+| MD-TM-0069 | Yodaka's past: wins the world junior title at his first attempt with the piece and reserves it to himself | Score 32 / report by Sorokin | EV-0035 | Before the senior career summarized in V02 and V06 | HIGH as reported |
+| MD-TM-0070 | Suzu's past: twice second at the national level in the younger class; a promise from her head coach; three Kinki block titles; first meeting with Inori a year before this event | Score 30 / MEMORY and dialogue | EV-0001/0013/0016/0017 | The meeting is V03's (MD-TM-0016/0022) | HIGH |
+| MD-TM-0071 | An undated exchange between Hikaru and Rio at their club about the nightly rule | Score 32 / MEMORY | EV-0038 | Recent enough that both are in present-day dress; not otherwise placed | MODERATE placement, HIGH content |
+
+A parody page inside this volume dates the championship to a day that does not fit the chain of dates on V07's story pages (a week after a qualifier held on a twenty-fourth, with a few days remaining). The story pages are kept and the conflict is recorded without resolution (EV-0047; MD-TM-0059).
+
+New proposition keys: MD-PROP-0029 the rule that one fall in the nightly run-through ends Hikaru's skating; MD-PROP-0030 why Hikaru's program opened with a quadruple; MD-PROP-0031 what Tsukasa holds his work to be; MD-PROP-0032 that Inori's layout is to change.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0072 | PROP-0029 / Rio | Before the event | TOLD by Hikaru | He counsels Inori not to watch and prays for the last jump | EV-0038; HIGH |
+| MD-KN-0073 | PROP-0029 / Tsukasa, Inori, the field | Through V08 | NOT SHOWN to know; Tsukasa heard only the doctrine of sacrifice | They read her ease as temperament or genius | EV-0037; HIGH for the absence |
+| MD-KN-0074 | PROP-0007 and PROP-0030 / rival coaches and spectators | Event | BELIEVE Sonidori chose the risk; some suppose the quadruple was hidden | Their anger and their theory are both misdirected | EV-0033/0036; HIGH |
+| MD-KN-0075 | PROP-0030 / reader | Score 32 | KNOWN: requested that morning after Inori's practice landing; permitted by telephone | The reader knows Inori's jump caused it | EV-0033; HIGH |
+| MD-KN-0076 | PROP-0030 / Tsukasa and Inori | Event | UNKNOWN that her practice landing prompted it; Tsukasa notes only that the opening differs from practice | He does not learn that his tactic recoiled | EV-0030/0033; HIGH for the absence |
+| MD-KN-0077 | PROP-0007 / Yūna | Event | UNKNOWN; she sees that her coach is unlike himself where Hikaru is concerned | Her trust in him is strained by what she cannot be told | EV-0034; HIGH; prior MD-KN-0054 |
+| MD-KN-0078 | PROP-0031 / Hikaru | Days before Niigata | TOLD by Tsukasa: not a sacrifice; his own happiness; none to be exacted from his pupil | She has a rival coach's doctrine to set against her own coach's | EV-0037; HIGH |
+| MD-KN-0079 | The road conversation / Inori, Sonidori, Yodaka | Through V08 | NOT SHOWN to know of it | Tsukasa has carried it since before the drive | EV-0032; HIGH for the absence |
+| MD-KN-0080 | Suzu's competition form / Tsukasa | Event | MISTAKEN: expected her to drop the triple Axel after a fall at practice | His reading of the field is fallible on the day he must choose a layout | EV-0020; HIGH |
+| MD-KN-0081 | PROP-0032 / Tsukasa and Inori | End of V08 | DECIDED; the content is not disclosed to the reader | The volume ends on the decision | EV-0042; HIGH |
+| MD-KN-0082 | PROP-0015 / Tsukasa | Through V08 | Still UNKNOWN as a stated motive; her closing vow expresses it without explaining it | Unchanged from MD-KN-0071 | EV-0042; HIGH for the absence of disclosure |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0046 | EV-0038, Score 32 | V04:EV-0023 "a special promise"; V06:EV-0038 a contract; Hikaru's ease in V04–V07 | The pupil's side of the arrangement is a rule under which one practice fall is final, and competition is the easier setting | Reported by her to a peer; the coach's own statement of it is not shown | MD-RV-0110; HIGH |
+| MD-RT-0047 | EV-0033, Score 32 | V07:EV-0040 Yodaka deduces Inori's quadruple and considers a response | His response on the day is to grant his pupil's request for a quadruple and raise her last jump | He was asleep during her warm-up; the initiative was hers | MD-RV-0110; HIGH |
+| MD-RT-0048 | EV-0025/0026/0035, Scores 31–32 | V05:EV-0006 a ballet master abroad; V07:EV-0018 an unnamed choreographer | Both are Leonid Sorokin, Yodaka's former choreographer | No caption equates the V05 scene | No revision; HIGH by wording and motif |
+| MD-RT-0049 | EV-0037, Score 32 | V07:EV-0015/0016 the lakeside release and vow; V06:EV-0037 "my way of using my possibility" | Before the drive he had already told a third party that his work is its own good whatever the result | A statement, made while hiding an injury and a second job | MD-RV-0105; HIGH |
+| MD-RT-0050 | EV-0042, Score 32 | V05:EV-0041 his declaration; V04:EV-0012 her secret motive | She returns his sentence with subject and object exchanged, making his standing her aim | She still does not tell him the V04 motive | MD-RV-0099; HIGH |
+| MD-RT-0051 | EV-0005, Score 29 | V01–V02 accounts of Nachi's practice quadruple; MD-CL-0018@2 | Her former coach says she never landed it in competition | The page draws no link to her later creed | No revision; HIGH for the fact |
+| MD-RT-0052 | EV-0016/0017, Score 30 | V03 and V07 appearances of Suzu and Kameganya | Her motive and his doctrine predate everything shown of them | An inset memory of his is unexplained | No revision; registered in MD-CL-0026@1; HIGH |
+| MD-RT-0053 | EV-0026, Score 31 | V02:EV-0027 and its neighbours, the towel given in a stairwell | He has kept and uses it | No meaning is assigned on the page | No revision; HIGH as fact |
