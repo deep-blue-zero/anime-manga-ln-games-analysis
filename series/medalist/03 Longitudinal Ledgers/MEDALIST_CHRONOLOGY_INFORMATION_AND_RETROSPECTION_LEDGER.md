@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.11"
+version: "1.12"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V12 closed (Scores 1–48, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V13 closed (Scores 1–53, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V12_UPDATE"
+review_status: "AUTHOR_REVIEWED_V13_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -552,3 +552,45 @@ New proposition keys: MD-PROP-0045 the terms of the contract between Yodaka and 
 | MD-RT-0086 | EV-0030, Score 48 | V09:EV-0009 and V10:EV-0037, his former club and Takamine's Yokohama practice | The place is this arena; he was Hitomi's last partner; acquaintances thought he had left the sport | — | MD-RV-0184; HIGH |
 | MD-RT-0087 | EV-0020/0026, Score 47 | V09:EV-0029/0034/0036, Yodaka's reactions to her skate | His stated view now is boredom and contempt; his pupil explains it by his opinion of himself | Sits oddly with spoken praise a year earlier; may be a pose for his pupil | MD-RV-0190/0195; HIGH that it is said |
 | MD-RT-0088 | EV-0023, Score 47 | V10:EV-0034/0036 a hawk's eye and his self-recognition; V11:EV-0042 the offer | A third party confirms that he has a gift for reproduction like the rival's and says she wanted him as a demonstrator | Attributed appraisal | MD-RV-0184; HIGH that it is said |
+
+## V13 evidence tables
+
+All records below are version 1 through `MD-FR-V13`. In this section `EV-####` expands to the [V13 reading's](../02%20Sequential%20Readings/MEDALIST_V13_DEEP_READING.md#canonical-observations) `MD-EV-V13-####`; earlier volumes are written with their volume prefix. No calendar year is inferred. Earlier tables are unchanged. Descriptions are paraphrases.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0103 | All-Japan Junior, first day, evening: the protagonist's short program at about nine; the rest of the segment; that night by a river | Scores 49–50 / PRESENT | EV-0002–0010 | Continues MD-TM-0099 | HIGH |
+| MD-TM-0104 | The night before the free skate: Hikaru and Riley Fox change the choreography. Free-skate day: the last group; the result; that night at her club's rink, her coach's withdrawal | Scores 50–52 / PRESENT with one FLASHBACK | EV-0011–0030 | The night conversation is disclosed inside the program | HIGH |
+| MD-TM-0105 | Days after: a tea between Riley Fox and Sonidori; a press interview | Score 52 / PRESENT | EV-0031/0032 | — | HIGH relative order |
+| MD-TM-0106 | Late November to December in Nagoya: furious practice; a school day missed; a cracked blade; a fever; a hospital visit by her coach in her place; a blade bought; a platform; an amusement park until evening; a hospital visit by Mika; about a week before the final, a departure | Score 53 / PRESENT | EV-0034–0051 | The hospital scenes are intercut and not dated against the amusement park beyond "December" | HIGH for the sequence within each strand |
+| MD-TM-0107 | Hikaru's early childhood: orphaned; relatives and institutions; adopted at five; a teacher sent by adults who warned her off; her choice; a first lesson in an empty rink | Score 51–52 and a profile / MEMORY and creator statement | EV-0015/0016/0029/0033 | Precedes the plea recorded in MD-TM-0100; her arrival at the Sonidori house follows | HIGH content; the first items are from a profile |
+| MD-TM-0108 | Tsukasa's adolescence and early adulthood: a hobby circle at the Ōsu rink; years of hidden practice; leaving believing he had no talent; Yokohama; self-punishing training; Hitomi's rebuke; a resolve to coach after competing | Score 53 / his own account | EV-0042/0043/0052 | Fills MD-TM-0062 before the events of MD-TM-0074; no dates | HIGH as told |
+| MD-TM-0109 | Iruka's childhood: an aquarium wish; a coach evening her hacked hair and making a promise. Outer time: serialization in the March to June 2025 issues; first impression 2025-06-23; a digital colophon dated 2025-06-01 | Score 53 and colophons / MEMORY, statement | EV-0047/0049/0054 | Extends MD-TM-0093; the colophon dates are out of order for the fourth volume running | HIGH as shown and stated |
+
+New proposition keys: MD-PROP-0048 why Yodaka ended his coaching of Hikaru; MD-PROP-0049 that coaching Inori is Tsukasa's dream and no substitute, and that he resolved to coach before he met her; MD-PROP-0050 that Inori has been missing school to train.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0125 | Her elimination / the reader; Hikaru | Night of the short program | The board IMPLIES it; it is CONFIRMED only in her own words to Hikaru | The page withholds the statement of the result | EV-0006/0008; HIGH |
+| MD-KN-0126 | What she cannot bear / Hikaru; Tsukasa | Same night | TOLD to Hikaru: to be thought not in earnest. Tsukasa is NOT SHOWN to be told; he hears a version of it on the platform | Her exact fear is first given to her rival | EV-0008/0040; HIGH |
+| MD-KN-0127 | Hikaru's withdrawal of her reading of Inori / Hikaru; Riley Fox; Inori | Same night and the next | REACHED by Hikaru; TOLD to Riley Fox; Inori is told only that she is liked and skated for | Supersedes MD-KN-0120's premise from her side | EV-0008/0009/0018; HIGH |
+| MD-KN-0128 | PROP-0048 / Hikaru; Riley Fox, Sorokin, Takamine; the reader | The night of her title | TOLD by him: his road ends with letting coaches go. She INFERS that the concealment of his coaching was meant to allow this. The three adults WITNESS it. Whether the reason is complete is NOT KNOWN | The contract's sanction arrives as its fulfilment | EV-0028/0029/0030; HIGH that it is said; her inference is hers; prior MD-KN-0116/0121 |
+| MD-KN-0129 | PROP-0048 / Sonidori; Tsukasa and Inori | Through V13 | Sonidori is NOT SHOWN to be told at the tea; Tsukasa and Inori are NOT SHOWN to know | The other team leaves for the final unaware | EV-0031/0051; HIGH for the absence |
+| MD-KN-0130 | PROP-0050 / Tsukasa; her mother | Late November | SEEN by him at once; her mother, at work, is not shown to know until the platform | He is evaded and knows it | EV-0034/0038; HIGH |
+| MD-KN-0131 | PROP-0049 and PROP-0033 / Inori | December | TOLD on a platform that he gave up nothing, and NOT TAKEN IN; TOLD beside a bench with his history, and TAKEN IN: she restates it and draws its consequence. She does NOT STATE what she had believed | The belief recorded since V09 is answered by its supposed creditor and heard | EV-0038/0039/0044/0045; HIGH; prior MD-KN-0123 |
+| MD-KN-0132 | That his face has been her burden / Tsukasa; Inori | December | LEARNED by him from Gori and named a blind spot; she confirms the mechanism by asking why he only looks troubled | Joins V10's guess about his face to V11's account of her guilt | EV-0037/0040; HIGH; prior MD-KN-0099/0100 |
+| MD-KN-0133 | What she overheard in Yokohama / Tsukasa | December | NOT SHOWN to know that strangers' remarks about his short career fed her belief | He answers the belief without knowing its latest source | EV-0041; HIGH for the absence |
+| MD-KN-0134 | Mika's visit / Iruka; Mika | December | Iruka SEES and HEARS her; Mika supposes herself forgotten and is NOT SHOWN to know that she was seen or what she means to her | Contact without meeting | EV-0048; HIGH; prior MD-KN-0124 |
+| MD-KN-0135 | Iruka's injury and withdrawal / the public; Inori | December | ANNOUNCED; Inori was to have visited and was ill | The heroine goes to the final knowing its favourite is out | EV-0036/0050/0051; HIGH |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0089 | EV-0028/0029, Score 52 | V12:EV-0019/0038 the contract and "a loss ends it"; MD-CL-0016@11 | The sanction was never only a threat: the road's last step is the coach's removal, and it comes on a win | His motive beyond the statement is unknown | MD-RV-0212; HIGH that it is said |
+| MD-RT-0090 | EV-0029, Score 52 | V04–V12 the concealment of his coaching (MD-PROP-0007) | By his pupil's inference the concealment existed so that the role could be made not to have been | Her inference; he does not say so | MD-RV-0212; MODERATE |
+| MD-RT-0091 | EV-0015/0016, Score 51 | V12:EV-0019 her plea and his question | Before the plea he had warned her off and told her his skating would not make her happy; she chose him | Her memory | MD-RV-0212/0201; HIGH that she remembers so |
+| MD-RT-0092 | EV-0008/0009/0018, Scores 50–51 | V10:EV-0041 and V12:EV-0026, her reading of Inori as her coach's likeness; MD-CL-0025@5–@7 | Withdrawn by her: she had looked at him in the girl; what moved her was the girl's own | — | MD-RV-0201/0218; HIGH |
+| MD-RT-0093 | EV-0020, Score 51 | V08:EV-0030/0039 and V12, her raised-arm jumps | A long-kept variation is the mechanical basis of her quadruples | Another coach's reading | MD-RV-0205; HIGH that he reads it so |
+| MD-RT-0094 | EV-0042/0043/0052, Score 53 | V06 and V09–V10 accounts of his past; V09:EV-0046 sacrifice as the self-harm of the inferior; V10:EV-0036 "I denied my talent" | The source: adults whose help came with a verdict, his compliance, and a period of self-punishment that Hitomi ended | His own telling; a creator page softens the circle's part | MD-RV-0206/0219; HIGH |
+| MD-RT-0095 | EV-0044/0045, Score 53 | V09:EV-0031 "I ended his dream"; V12:EV-0030 "but for me he would be here" | Answered: he resolved to coach before he met her, and names coaching her as his dream | She does not confess the belief | MD-RV-0220/0222; HIGH |
+| MD-RT-0096 | EV-0037/0040, Score 53 | V10:EV-0028 Gori's guess; V11's downgrade (MD-CL-0028@2) | She does read his face; what she reads is his distress, which she takes as a cost she caused | The guess's premise about deprivation is not revived | MD-RV-0221; HIGH |
+| MD-RT-0097 | EV-0047/0048/0049/0050, Score 53 | V10:EV-0021 Iruka's vow; V11:EV-0028/0036 her memory and her home | Her wish to be seen hurt by the friend who left; her coach's promise; her own refusal of pity | — | MD-RV-0215/0219; HIGH |

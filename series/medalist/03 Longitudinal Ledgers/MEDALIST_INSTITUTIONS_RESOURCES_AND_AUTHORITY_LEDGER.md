@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.11"
+version: "1.12"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V12 closed (Scores 1–48, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V13 closed (Scores 1–53, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V12_UPDATE"
+review_status: "AUTHOR_REVIEWED_V13_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -439,3 +439,36 @@ Two creator notes are recorded as production statements: that a broadcast, a nov
 | A coach's standing | Lux | MD-IN-0128 | Staked by him on one result. | Whether he says so. |
 | Recruitment | Two clubs | MD-IN-0116 | The offer to the protagonist's coach is not revisited. | Outcome. |
 | Others | As V11 | as before | Unchanged in V12. | — |
+
+## V13 evidence tables
+
+All events below are version 1 through `MD-FR-V13`. In this section `EV-####` expands to the [V13 reading's](../02%20Sequential%20Readings/MEDALIST_V13_DEEP_READING.md#canonical-observations) `MD-EV-V13-####`. New setting: MD-ORG-0038, the adult hobby circle at the Ōsu rink with which Tsukasa skated as a boy. The household recorded as MD-ORG-0010 is described further by a creator profile. Earlier tables are unchanged. Descriptions are paraphrases.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0129 | ORG-0037, the cut | Mid-November | From junior level only the top twenty-four of the short program skate the free; a mark on the standings board shows who is already safe | A finalist of the international series is removed from her national championship after one segment | EV-0006/0008; MD-COMP-0016; MD-CL-0005@12/0013@13 | HIGH as stated; prior MD-IN-0127 |
+| MD-IN-0130 | Junior short-program rules, in operation | Same | A missed combination cannot be attached to a later jump, since the remaining jumps are required solo jumps | One opened jump costs a whole pass with no remedy | EV-0004; MD-SK-0078; MD-CL-0013@13 | HIGH as stated; prior MD-IN-0110/0126 |
+| MD-IN-0131 | What the event governs | Same | Entry to the senior national championships in December and selection for the world junior championships in March; a novice entrant is outside that selection | The champion gains nothing institutional by her effort; the eliminated skater's standing for both is in question | EV-0002/0020; MD-CL-0013@13/0022@9 | HIGH as stated; what it costs the protagonist is not shown; prior MD-IN-0127 |
+| MD-IN-0132 | ORG-0006 transplanted to ORG-0028: its end | The night of the title | The hidden coach ends his coaching of his own accord; the coach of record, the choreographer and the step teacher remain; the coach of record undertakes guardianship in a meeting with the former guardian | The arrangement recorded since V04 ceases to have a hidden coach | EV-0028/0030/0031; MD-CS-0280/0282/0283; MD-CL-0016@12/0011@13 | HIGH for his statement and departure; whether it is final is not shown; prior MD-IN-0120 |
+| MD-IN-0133 | A doctrine of peaking at ORG-0028 | Days after | A layout of three quadruples allowed once to a growing skater, against an agreement to limit quadruples when her growth stops | Risk is permitted by contract with the skater instead of forbidden or demanded | EV-0031; MD-SK-0082; MD-CL-0024@7/0022@9 | HIGH that it is said |
+| MD-IN-0134 | Public expectation of a designated skater | The championship and after | Spectators ask whether a failed skater practised; she fears being judged unfit to represent the country at the final; strangers hold banners for her regardless; she says she had to win because so much is staked on her | Standing conferred in V09 is experienced as a debt that a result can default on | EV-0011/0040; MD-CL-0001@13/0029@3 | HIGH; prior MD-IN-0096 |
+| MD-IN-0135 | A skater's school and a pair's founding rule | Late November | Never to miss school for practice, agreed at the start as a condition of aiming at the Olympics; broken by feigned illness; with her mother at work there is no one at home to check | A rule that tied the sport to an ordinary life is evaded when the result fails | EV-0034; MD-CL-0007@11/0014@8 | HIGH; the rule's origin is a caption; prior MD-IN-0108 |
+| MD-IN-0136 | Injury and its economy: ORG-0020 | December | A compound fracture ends a season and removes the favourite from the series final; a sponsorship already agreed must be renegotiated; anti-doping rules restrict treatment for a psychogenic symptom; the list for the final is updated and the next skater on points is promoted | One accident costs a title, a final, ranking and money, and gives another skater a place | EV-0036/0050/0051; MD-CL-0022@9/0011@13 | HIGH that it is reported |
+| MD-IN-0137 | ORG-0038, an informal gate | Tsukasa's adolescence | Adults who shared knowledge and ice free of charge with a self-taught boy and forbade him to practise jumps as too tall, too late and too poor; he complied for years, so none of them saw what he could do | Free help came with a verdict; a real instructor, which cost money, would have refuted it | EV-0042/0043/0052; MD-CS-0293; MD-CL-0010@13/0011@13 | HIGH that he says so; a creator page adds that they still share the rink and that he bears no grudge |
+
+A creator profile describes the household of MD-ORG-0010 as an old, strict house that adopted an orphan at five and whose elderly head proposed an athlete's life for her (EV-0033). It is recorded as a creator statement and adds no story-page event.
+
+### Current projection after V13
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| The junior nationals | This season | MD-IN-0127/0129/0131; MD-COMP-0016 | Won by a novice for the second year; the protagonist cut after the short program. | Order below first; consequences for her. |
+| Junior rules | Short program | MD-IN-0110/0126/0130 | A common layout, one exception, and no recovery. | External verification. |
+| The series final | December | MD-IN-0125/0136 | One finalist withdrawn, one promoted; the protagonist travelling. | The event. |
+| The hidden coach's regime | Ended | MD-IN-0084/0120/0132 | Its coach has left; its pupil is in her coach of record's care. | Whether he returns. |
+| Risk and growth | Several clubs | MD-IN-0106/0133 | Prevent, refuse needless cost, burn, or permit once and limit. | The limit in practice. |
+| Expectation | A designated skater | MD-IN-0096/0134 | Felt as obligation; contradicted by strangers' support. | Her designation after this result. |
+| School and sport | Lux | MD-IN-0135 | A founding rule broken and restated. | Compliance. |
+| Injury's economy | Aisai Ride | MD-IN-0117/0136 | A season, a final and a sponsor at risk. | Recovery. |
+| Informal gates | A coach's past | MD-IN-0137 | Help that forbade. | — |
+| Others | As V12 | as before | Unchanged in V13. | — |
