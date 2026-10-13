@@ -5,14 +5,14 @@ artifact_type: "claim_revision_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.14"
+version: "1.15"
 status: "canonical"
 scope: "Material interpretive claim versions, competing hypotheses, genuine predictions and downstream amendments"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V15_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -1011,3 +1011,41 @@ All dependents named in the prior version of each revised claim were reviewed. T
 ### Predictions at V15
 
 No `MD-PR` record is added. V15 is the terminal unit of the active run; the competition in progress at its end is not resolved within the admitted evidence. Open questions MD-OQ-V15-01–08 are frozen in the reading. No later-source outcome was inspected.
+
+## FB01 evidence tables
+
+Claim versions below were formulated after the paratext audit of Official Fanbook 01 and are frozen in `MD-FR-FB01`. In this section `EV-####` expands to the [audit's observations](../02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB01-####`. The mainline boundary is unchanged at V15. Supplemental evidence is cited with its source layer; a creator statement in this book is the author's conception as reported by an editorial writer and dated to October 2024. Earlier formulations above are retained unchanged as history. The current claim view selects **version 16 of MD-CL-0011 and 0013; version 15 of MD-CL-0001, 0002, 0010 and 0012; version 14 of MD-CL-0005, 0008 and 0015; version 13 of MD-CL-0003, 0004 and 0016; version 12 of MD-CL-0007 and 0019; version 11 of MD-CL-0017 and 0022; version 10 of MD-CL-0014; version 9 of MD-CL-0023, 0024 and 0025; version 8 of MD-CL-0026; version 7 of MD-CL-0027; version 6 of MD-CL-0021; version 5 of MD-CL-0028 and 0029; version 3 of MD-CL-0006 and 0009; version 2 of MD-CL-0018, 0020 and 0030; version 1 of MD-CL-0031**.
+
+### Current versions of advanced claims
+
+| Claim / version | Formulation / class / scope | First boundary | Evidence / counterevidence / alternatives | Confidence / test | Current home / dependencies |
+| --- | --- | --- | --- | --- | --- |
+| MD-CL-0003@13 | **INFERENCE, with supplemental corroboration:** the formulation of version 12 stands. A creator box written before Volumes 12 and 13 describes the prodigy as designed to keep her rank inside a group, to mind her position, never to defy her two adults, and not to think her coach always right; a short manga shows her taste for frills and a household that indulges it while her coach stays outside; a storyboard has a rival refuse to excuse herself by calling her special. The disclosures of Volumes 12 and 13, that her manner was an act and that she hid behind her coach, were thus part of her conception from early on and not a late turn. | FB01 | EV-0013/0023/0025 (FB-CREATOR, FB-FICTION); V01–V15 basis retained. | As version 12; the supplement adds no event. | Relationships/character; MD-RT-0117 |
+| MD-CL-0006@3 | **EVALUATION, with supplemental background:** the evaluation of version 2 stands. A creator box gives the child's stance toward adult-backed children a family cause: parents who eloped and divorced, years with a rough father under another name, a child blamed for every trouble. A storyboard shows her at six meeting her coach as a paying customer who wants no manners taught and accepting a wager that the weaker obeys the stronger. Her V01 condition on friendship was one instance of a settled way of dealing with people. | FB01 | EV-0016/0024 (FB-CREATOR; FB-FICTION at storyboard weight); V01–V02 basis retained. | MODERATE. | Claims |
+| MD-CL-0009@3 | **EVALUATION, revised by background:** her coach's control of a grade is now seen beside two further facts at a creator's weight. Her own skating ended when her body changed in adolescence. And her club exists on the backing of the head coach she left and of her one pupil's mother, with the stated purpose of being a place where any child can go on skating. The concern about agency in version 2 is unchanged; the stake behind it is larger than a small club's margin. | FB01 | EV-0017/0024; V02 basis retained. | MODERATE. | Claims; MD-IN-0157 |
+| MD-CL-0011@16 | **EVALUATION:** the formulation of version 15 stands and is strengthened from outside the story. Two creator boxes describe adults who did little for a boy when it counted and made it good later: a rink clerk who admits a poor child without questions out of regret for a poor boy he once ignored, and a patron's family that could only back a schoolboy quietly. A third reports that the adult coach himself was added to the series after an editor asked what the adults were doing while two children faced a hard fate. A short manga shows a mother's daily driving as the plain condition of a child's practice. The work's interest in late and unowed adult help is thus a matter of design as well as of plot. | FB01 | EV-0010/0011/0012/0020/0022 (FB-CREATOR, FB-FICTION); V15 basis retained. Counter: the clerk's boy is unnamed; one box differs from a V15 story page on what the patron's wife knew, and the story governs. | MODERATE-HIGH. | Institutions/relationships; MD-IN-0155/0156; MD-RT-0115/0116 |
+| MD-CL-0013@16 | **INFERENCE:** the mainline boundary is unchanged at V15 and Score 61. The admitted evidence set now includes one official supplement, whose coverage is bounded by three statements on its own pages: a story overview through Volume 12, and character and program matter through Volume 4. Its adaptation pages are excluded. Its publication chronology gives release dates for Volumes 6 to 12 that equal the print first-impression dates this project recorded, which supports reading the earlier dates in digital colophons as a convention of the digital edition; no witness states this. Its program reconstructions agree with every recorded score. | FB01 | EV-0001/0026/0027. | HIGH for the boundary. | Source; MD-TM-0123 |
+| MD-CL-0014@10 | **INFERENCE, revised by a creator statement:** the family's quiet care has, by the author's reported conception, a history of unspoken sacrifice inside it. The elder daughter stopped skating to lighten her mother's load when her small sister needed care, and wept; her mother and sister took the tears for grief over a setback. The mother, raised unloved in a household of two, resolved to be otherwise, over-identifies with the younger daughter who resembles her, and resists each new attempt in order to spare her; she makes the costumes herself and drives her to the rink every day. None of this is on a story page. If it holds, the heroine's wish in Volume 15 to vanish into her gift for everyone's sake has a precedent in her own house that she does not know, and her picture of a skater who stopped is a misreading shared with her mother. | FB01 | EV-0005/0006/0007/0008/0022 (FB-CREATOR; FB-FICTION); V01–V15 basis retained. Counter: reported, dated to October 2024 and expressly revisable; the manga has not confirmed it. | MODERATE as a statement of conception; not to be used as a story fact. | Character/relationships; MD-KN-0154; MD-RT-0114; MD-RD-0077 |
+| MD-CL-0016@13 | **INFERENCE:** the formulation of version 12 stands; his motive beyond his stated reason remains unknown. The supplement adds context at a creator's weight. He is said to smoke partly as self-harm, so that he could not return to competition once he had resolved to stop; to keep one telephone contact, which is not his pupil's; to be kept out of the playful side of her skating and to watch it with mixed feelings; and to be fond of his friend's son. An editorial gloss reads his retirement at twenty as following from proof achieved. A man who bars his own return is consistent with one who removes himself from a pupil; the page that would connect the two does not exist. | FB01 | EV-0003/0014/0023; V13 basis retained. | HIGH for what is said and done in the manga; LOW for motive, unchanged. | Character/relationships; MD-RT-0117 |
+
+### Preserved without a new version
+
+MD-CL-0001@15, 0002@15, 0004@13, 0005@14, 0007@12, 0008@14, 0010@15 (four brothers and other particulars are recorded as identity data, with one erratum; nothing bears on the formulation), 0012@15, 0015@14, 0017@11, 0018@2, 0019@12, 0020@2, 0021@6, 0022@11, 0023@9, 0024@9 and 0026@8 (a biography for one adult's doctrine is recorded in the character ledger as a counter-voice), 0025@9, 0027@7, 0028@5, 0029@5, 0030@2 and 0031@1 were reviewed against the supplement and stand as written.
+
+### Revisions recorded at FB01
+
+| Revision | Prior → new version | Transition / reason / known after | Evidence / alternatives | Affected homes / disposition | Closure / unresolved debt |
+| --- | --- | --- | --- | --- | --- |
+| MD-RV-0263 | MD-CL-0003@12 → @13 | STRENGTHEN; design-side corroboration written before V12–V13; FB01 | EV-0013/0023/0025 | Character, chronology updated | Closed |
+| MD-RV-0264 | MD-CL-0006@2 → @3 | STRENGTHEN; a family cause and a first meeting; FB01 | EV-0016/0024 | Character updated | Storyboard weight |
+| MD-RV-0265 | MD-CL-0009@2 → @3 | REVISE; a coach's own failed body and a club's backers; FB01 | EV-0017/0024 | Character, institutions updated | Storyboard weight |
+| MD-RV-0266 | MD-CL-0011@15 → @16 | STRENGTHEN; two adults' reparations and the stated origin of the adult coach; FB01 | EV-0011/0012/0020 | Institutions, chronology updated | One conflict of degree with V15, kept |
+| MD-RV-0267 | MD-CL-0013@15 → @16 | REVISE; a supplement admitted with bounded coverage; publication dates corroborated; FB01 | EV-0001/0027 | Source map, chronology updated | Colophon convention unstated |
+| MD-RV-0268 | MD-CL-0014@9 → @10 | REVISE; a creator statement of the sister's motive and the mother's history; FB01 | EV-0006/0007 | Character, relationships, chronology, readiness updated | Unconfirmed by the manga |
+| MD-RV-0269 | MD-CL-0016@12 → @13 | REVISE; context for a man who bars his own return; motive still open; FB01 | EV-0014/0023 | Character, chronology updated | Motive open |
+
+All dependents named in the prior version of each revised claim were reviewed. No revision in this section rests on evidence later than the mainline boundary, and none alters a manga-only freeze.
+
+### Predictions at FB01
+
+No `MD-PR` record is added. The supplement states no outcome beyond Volume 12.

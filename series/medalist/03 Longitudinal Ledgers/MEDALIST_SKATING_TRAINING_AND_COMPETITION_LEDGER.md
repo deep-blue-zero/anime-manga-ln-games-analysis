@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.14"
+version: "1.15"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V15_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -517,3 +517,7 @@ All rows are version 1 through `MD-FR-V15`. In this section `EV-####` expands to
 | MD-SK-0092 | Inori / Tsukasa / Score 61 | The free-skate layout settled the night before with the quadruple Salchow included; she is carried upstairs to spare her legs; the gap to be made up is 0.33 | DEPICTED planning; a stated physical precaution | EV-0009/0047; MD-CL-0013@15 | HIGH that it is planned; nothing of it is skated within the boundary |
 
 The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V15`: unchanged from V14 for the heroine, a short program of 71.26; her quadruple is planned for the free skate and not shown. Field frontier in this final as shown: three short programs between 71.24 and 71.59.
+
+## FB01 evidence tables
+
+In this section `EV-####` expands to the [Official Fanbook 01 paratext audit's](../02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB01-####`. No material change. The supplement reconstructs four programs already recorded here (two at the Meikō Cup, two at the West Japan meet) with start orders, element lists and scores; every score agrees with the existing rows (EV-0026). Its primer on classes, badge grades and the season agrees with the in-story statements recorded from V10 to V15 and is the fanbook's own summary for one season's rules (EV-0002). It is not admitted as an external rule reference, and the external-reference table remains empty. Earlier tables are unchanged.

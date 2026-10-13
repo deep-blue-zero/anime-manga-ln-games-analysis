@@ -5,14 +5,14 @@ artifact_type: "character_state_readiness_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.14"
+version: "1.15"
 status: "canonical"
 scope: "Time-indexed character interpretation, identity resolution and evidence-specific promotion readiness"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V15_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -1290,3 +1290,36 @@ Baek Horang's coach, a federation staff member, the hobby circle's members, Tsuk
 | MD-RD-0076 | Ensemble / comparative study / adult doctrines on burden, risk and blame | V02–V15 | Adds Takamine, Meiko, Kanayumi and Kago on support as participation and on blame; Kyōboku on a risk backed against his advice; Tsukasa's revision of his own creed. | Outcomes at the final. | BOUNDED_PROVISIONAL, strongly supported; author; 2026-10-13; MD-CL-0024@9/0025@9/0026@8/0031@1 | Extends MD-RD-0044. |
 
 MD-RD-0071 (the component mark) is extended by one counter-case and one outside appraisal. MD-RD-0067 (Hikaru), 0061 (Yodaka) and 0059 (Iruka) are unchanged in assessment; Iruka's gains one institutional fact. A role-gap audit across all keys is owed before synthesis and is not performed in this ledger.
+
+## FB01 evidence tables
+
+The [Official Fanbook 01 paratext audit](../02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md) owns all `MD-EV-FB01-…` observations. In this section `EV-####` expands to `MD-EV-FB01-####`. The supplement is admitted at `MD-FR-V15` and frozen as `MD-FR-FB01`; its own coverage ends at V12. Rows below are supplemental identity data at the stated source layer. Creator rows are statements of the author as reported by the book's editorial writer and dated by it to October 2024; they are not story-page events and create no state event. Earlier tables are unchanged.
+
+### Supplemental identity data
+
+| Character key | FB01 disclosure | Layer / basis | Limit |
+| --- | --- | --- | --- |
+| MD-CHAR-0001 | Twenty-six at first appearance; born 4 September; 186 cm; the second of four brothers, in order Hajime, Tsukasa, Makoto, Ken; both parents living; an admirer of the tall Sonidori out of a complex about his height; once dropped his partner, the origin of his muscle training | FB-DATA, FB-CREATOR; EV-0009 | Reported conception. |
+| MD-CHAR-0004 | Born 16 April; 134 cm at eleven; poor school marks, arithmetic especially, and quick at score arithmetic; unpaid remedial lessons from her teacher Harada | FB-DATA, FB-CREATOR; EV-0004 | — |
+| MD-CHAR-0007 | Given name Nozomi; maiden name Himizu; raised by an unmotherly mother in a household of two; over-identifies with her younger daughter; makes the costumes by hand as care | FB-CREATOR; EV-0005/0006/0008 | Reported conception. |
+| MD-CHAR-0008 | Reached badge grade 6 and won her block in Novice B; fractured a bone in sixth grade; stopped in order to lighten her mother's load, which her mother and sister took for a setback; now wants to be an announcer | FB-CREATOR; EV-0007 | Not on any story page; the heroine is not shown to know. |
+| MD-CHAR-0018 | A university lecturer who came to the post from a waterworks company by way of amateur soil study | FB-CREATOR; EV-0005 | — |
+| MD-CHAR-0002, 0017, 0003 | Meiko, by the box, recognized at once that the boy who helped her was a skater and the family backed him quietly; Kōichi's firm began as an odd-jobs company; after Meiko's death Tsukasa stayed on and cared for Yō | FB-CREATOR; EV-0010/0011 | The first item differs in degree from V15 story pages, which govern. |
+| MD-CHAR-0005 | Given name Mamoru; sixty-five; a former ice-hockey player; helps the heroine out of regret over a boy at the same rink whom he once did not help | FB-DATA, FB-CREATOR; EV-0020 | The boy is unnamed; identity with MD-CHAR-0001 is this ledger's inference. |
+| MD-CHAR-0010 | Born 31 January; conceived as a keeper of rank within a group who never defies her two adults and does not think her coach always right; dislikes adults who seem lax | FB-DATA, FB-CREATOR; EV-0013 | Written before V12–V13. |
+| MD-CHAR-0021 | Born 30 December; 176 cm; smokes partly as self-harm so as not to return to competition; one telephone contact, Sonidori; fond of Rio since his birth | FB-DATA, FB-CREATOR; EV-0014 | Reported conception. |
+| MD-CHAR-0022, 0051, 0011 | Sonidori born 4 May, 186 cm; Ava represented the United States and retired on marriage; Rio born 20 November, trilingual | FB-DATA, FB-CREATOR; EV-0015 | — |
+| MD-CHAR-0006, 0027 | Hitomi twenty-eight, born 6 February; her father coached Hitomi, Yodaka and Tsukasa, was named successor at Lux Higashiyama and does not want to coach there | FB-DATA, FB-CREATOR, FB-EDITORIAL; EV-0015 | — |
+| MD-CHAR-0013, 0012 | Ryoka: a childhood under another surname with a rough father, blamed for every trouble; Nachi: a designated skater whose changing body ended her jumps, formerly an assistant coach at Meijō Crown | FB-CREATOR; EV-0016/0017 | — |
+| MD-CHAR-0032 | Heir of a temple who skated on his parishioners' support and continued because his younger brother took the temple | FB-CREATOR; EV-0019 | — |
+| MD-CHAR-0067, 0079, 0033 | Kyōboku coached Yodaka, could not do it well and feels guilt; Tobiyama Ai is his wife; the Fukuoka trainer of V03 is Kanayumi Miho | FB-CREATOR, FB-EDITORIAL; EV-0021 | — |
+
+**Erratum.** The V15 identity row for MD-CHAR-0001 above reads "the second of three sons". It should read the second of four. Volume 15's story pages show one elder and two younger brothers, and EV-0009 names all four. The frozen V15 reading does not state a number and is unaffected.
+
+### Readiness after FB01
+
+| Readiness record | Character / target / domain | Boundary / scope | Context coverage / counterevidence | Gaps / tests | Assessment / reviewer / date | History / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-RD-0077 | 0004, 0001 and the Yuitsuka family / monographs and relationship study / effect of a supplement | V01–V15 with FB01 | Adds creator-reported back story for the sister and mother, a second adult's regret about the coach as a boy, and the stated origin of the coach's role. | All of it is reported conception; none is known to the heroine on the page. | BOUNDED_PROVISIONAL unchanged; a monograph may cite these as creator statements and may not build a trait on them; author; 2026-10-13; MD-CL-0014@10/0011@16 | Extends MD-RD-0072/0073/0074. |
+
+MD-RD-0076 (adult doctrines) gains one biography, for the doctrine that forbids a pupil to carry other people's wishes. MD-RD-0067 and 0061 gain design-side corroboration.

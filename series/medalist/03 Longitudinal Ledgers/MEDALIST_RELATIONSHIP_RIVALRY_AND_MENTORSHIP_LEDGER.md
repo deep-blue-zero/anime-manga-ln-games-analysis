@@ -5,14 +5,14 @@ artifact_type: "relationship_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.14"
+version: "1.15"
 status: "canonical"
 scope: "Directional interpersonal interpretations and transitions among athletes, coaches, peers and families"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_RELATIONSHIP_RIVALRY_AND_MENTORSHIP_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V15_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -830,3 +830,13 @@ Yō's contrivance of the walk, Baek Horang's coach's regard for the heroine's co
 | MD-PAIR-0009 / Tsukasa→Yodaka | V15 | MD-RL-0362 | The origin of his skating and of his solitude. | — |
 | MD-PAIR-0005, 0011, 0050, 0057, 0060, 0062 | V13 | as before | Not advanced in V15. | As at V13. |
 | Others | V14 or earlier | as before | Unchanged in V15. | — |
+
+## FB01 evidence tables
+
+In this section `EV-####` expands to the [Official Fanbook 01 paratext audit's](../02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB01-####`. No transition row is added: the supplement reports creator conceptions and bonus fiction and shows no dated act between two people that the mainline lacks. Three annotations are recorded against existing pairs. Earlier tables and the V15 projection are unchanged.
+
+| Pair | Annotation | Layer / basis | Limit |
+| --- | --- | --- | --- |
+| MD-PAIR-0002 Inori/mother, with her sister | The mother is said to resist her younger daughter's attempts because she sees herself in her; the sister is said to have stopped skating to spare the mother, unknown to both; a short manga shows the mother driving her to the rink daily | FB-CREATOR, FB-FICTION; EV-0006/0007/0022 | Reported conception; fiction at its own weight. |
+| MD-PAIR-0007 Tsukasa/Kago and MD-PAIR-0069 Tsukasa/Meiko | By the box the wife knew he skated from the first and the family backed him quietly; MD-RL-0352 and 0350 record, from V15, that they first learned of it in Yokohama | FB-CREATOR; EV-0010 | Conflict of degree; the story pages govern. |
+| MD-PAIR-0011 Yodaka/Hikaru | A short manga and a box place him outside her play and say she does not think him always right | FB-FICTION, FB-CREATOR; EV-0013/0023 | Before V12–V13. |

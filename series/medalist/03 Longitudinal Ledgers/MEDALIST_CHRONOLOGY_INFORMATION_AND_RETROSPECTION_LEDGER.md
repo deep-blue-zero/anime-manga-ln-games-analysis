@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.14"
+version: "1.15"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V15_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -670,3 +670,27 @@ New proposition keys: MD-PROP-0054 the trainer's account, that Inori feels she s
 | MD-RT-0111 | EV-0007/0012/0013, Scores 57–58 | V14:EV-0006/0031, a hostile aside and an unfinished sentence; MD-PROP-0051 | The hostility was fear for an injured friend and an old guilt; the sentence was an apology | — | MD-RV-0256; HIGH |
 | MD-RT-0112 | EV-0010/0045/0049, Scores 58 and 61 | V09:EV-0046, sacrifice as the self-harm of the inferior; V12:EV-0031, pride staked on her gold | He held the creed for others and practised its opposite on himself; he sees it and recalls the girl who accused him | The afternoon's vow shows the practice an hour before the insight | MD-RV-0257; HIGH |
 | MD-RT-0113 | EV-0009, Score 58 | V14:EV-0033 and EV-0039, a provisional lead and a preview's statement | The lead did not hold; the preview was wrong | — | MD-RV-0244/0250; HIGH |
+
+## FB01 evidence tables
+
+In this section `EV-####` expands to the [Official Fanbook 01 paratext audit's](../02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB01-####`. The supplement's analytical position is after `MD-FR-V15`; the story time of what it describes is earlier. No calendar year of the story is inferred. Earlier tables are unchanged.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0122 | Mika's skating: badge grade 6 and a block title in Novice B; a fracture in sixth grade; a withdrawal in middle school, when the heroine was at kindergarten | Creator box / reported statement | EV-0007 | Agrees with the eight-year age gap recorded at V02 | HIGH as stated; not a story-page event |
+| MD-TM-0123 | Outer time: serialization from the magazine's July 2020 issue; release dates of Volumes 1–12; this book's first impression 2025-01-22 and digital colophon 2025-02-01; the author's remarks dated to October 2024 | Publication chronology, colophons / statement | EV-0001/0027 | The release dates of Volumes 6–12 equal the print first-impression dates recorded from their colophons | HIGH as stated |
+
+New proposition key: MD-PROP-0058 that Mika stopped skating to lighten her mother's burden.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0154 | PROP-0058 / Mika; her mother; Inori; the reader of the manga | Through V15 | STATED by a creator box only. By the same box her mother and Inori BELIEVE she grieved over a setback. No story page tells any of them, or the reader, otherwise | The heroine's model of a skater who stopped rests on a misreading, if the conception holds | EV-0007; HIGH that it is stated; revisable |
+| MD-KN-0155 | That the boy skated / Meiko and Kōichi | His high-school years | The box says Meiko KNEW at once and the family backed him without saying so. V15 story pages have Kōichi say they first learned of it in Yokohama and Meiko say she had guessed | A conflict of degree between a 2024 conception and a 2026 story page | EV-0010; the story governs; prior MD-KN-0150 |
+| MD-KN-0156 | Who the boy at the rink was / Sekoma; Tsukasa | Through V15 | The box gives the clerk's regret and does not name the boy; neither man is shown to know the other's part | An inference of this ledger joins it to the coach's boyhood at that rink | EV-0020; MODERATE-HIGH for the identification |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0114 | EV-0007, FB01 | V02 and V13, the sister who stopped after a fracture; V15:EV-0046, a wish to vanish into a gift | A reported motive: she stopped to spare her mother; the family misread it | Creator conception; unknown to the heroine | MD-RV-0268; HIGH that it is stated |
+| MD-RT-0115 | EV-0020, FB01 | V01, a clerk who admits a child for worms; V15:EV-0036, a boy at that rink's counter | The admission was an adult's reparation | The boy is unnamed | MD-RV-0266; MODERATE-HIGH |
+| MD-RT-0116 | EV-0012, FB01 | V01 onward, an adult coach as the heroine's supporter; MD-CL-0031@1 | The role was created to answer where the adults were | A statement of design | MD-RV-0266; HIGH as stated |
+| MD-RT-0117 | EV-0013/0014, FB01 | V12–V13, a manner that was an act; a coach who left | Both were conceived so before those volumes; smoking is said to bar his own return | Resolves nothing about his reason for leaving | MD-RV-0263/0269; HIGH as stated |

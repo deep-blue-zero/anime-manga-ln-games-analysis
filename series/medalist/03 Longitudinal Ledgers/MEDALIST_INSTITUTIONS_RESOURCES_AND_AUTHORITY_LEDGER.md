@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.14"
+version: "1.15"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V15_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -534,3 +534,15 @@ All events below are version 1 through `MD-FR-V15`. In this section `EV-####` ex
 | A household under a verdict | A coach's childhood | MD-IN-0150 | The source of his rule that he must cost no one anything. | The family now. |
 | Injury's economy | Aisai Ride | MD-IN-0136/0148 | A season, a final, 850 points and a sponsor. | Recovery. |
 | Others | As V14 | as before | Unchanged in V15. | — |
+
+## FB01 evidence tables
+
+In this section `EV-####` expands to the [Official Fanbook 01 paratext audit's](../02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB01-####`. Rows are at the stated source layer and are not story-page events. Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0155 | ORG-0002, a small club's ice | The heroine's fifth-grade year, undated | Hired ice on two evenings a week and one dawn session; otherwise public sessions; skaters below a badge grade cannot join federation-run hired sessions; a parent drives the child from school each day; about two hours twenty minutes on an ordinary day | A beginner's progress is bounded by hours a family and a club can supply | EV-0022; MD-CL-0011@16/0014@10 | FB-FICTION by the author; HIGH as drawn; prior MD-IN-0005 |
+| MD-IN-0156 | ORG-0001, a rink desk | Before V01 and at V01 | A clerk who once watched a boy without money come daily and did nothing; later admits a girl without asking questions and teaches her the basics himself | An informal gate opened as reparation | EV-0020; MD-CL-0011@16/0031@1 | FB-CREATOR; HIGH as stated; the boy is unnamed; prior MD-IN-0151 |
+| MD-IN-0157 | ORG-0002 and ORG-0035, a club's succession; ORG-0008, a club's backers | Before V01 | The head coach's father was named successor to the previous coach, does not wish to coach there, and his daughter runs the club; a two-person club exists on the support of its pupil's mother and the blessing of the head coach its founder left | Small clubs depend on a family's or a patron's willingness | EV-0015/0017/0024; MD-CL-0009@3 | FB-CREATOR, FB-EDITORIAL; HIGH as stated |
+
+A creator box reports that the series was first conceived with a child as the heroine's supporter and that an adult coach was introduced after an editor asked what the adults were doing (EV-0012). It is a statement of design and adds no institutional event.

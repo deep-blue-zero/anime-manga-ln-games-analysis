@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.14"
+version: "1.15"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V15_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -457,3 +457,7 @@ All feature and motif records below are version 1 through `MD-FR-V15`. In this s
 | MD-MOT-0016 — the double and the water's surface (extended) | V15: EV-0046 she would let the double take her over; EV-0043 a lake that reflects towers and no face | The helper in her film leaves; the one in her life promises to stay and to have a life of his own | For her the double is a self she would yield to; the work does not endorse it | MD-CL-0029@5 |
 | MD-MOT-0002 — appraisal versus demonstrated movement (extended) | V15: EV-0002 a protocol read by a rival coach; EV-0052 a ruler that measured a boy | The ruler of V14 measured programs | Measure is bounded: programs, not persons | MD-CL-0030@2 |
 | MD-MOT-0003, 0004, 0008, 0009, 0010, 0011, 0013, 0015 | 0003: food bought with a patron and eaten gladly (EV-0045); sweets shared. 0004: an adult who asks to carry a regret (EV-0040). 0008: a night by a lake (EV-0043). 0009: a card game (EV-0029). 0010: "absolutely" of winning, to her mother and in his vow (EV-0010/0046). 0011: a lake (EV-0043). 0013: none. 0015: none by name; self-punishment as the old creed (EV-0017) | — | Unchanged in kind | — |
+
+## FB01 evidence tables
+
+No material change. The [Official Fanbook 01 paratext audit](../02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md) records cover art, promotional illustration, costume design settings and four pieces of bonus fiction, two of them rough storyboards. None was analysed as page form: the promotional art is not narrative, the storyboards are unfinished, and the two finished short manga are brief comic pieces whose construction adds no feature or motif record. The costume settings are creator statements and are linked from the character ledger. Earlier tables are unchanged.
