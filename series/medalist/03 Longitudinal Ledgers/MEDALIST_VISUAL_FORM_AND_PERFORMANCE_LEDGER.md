@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.0"
+version: "1.1"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
+source_boundary: "Japanese V01–V02 closed (Scores 1–7, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-12"
-review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+updated: "2026-10-13"
+review_status: "AUTHOR_REVIEWED_V02_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -68,3 +68,28 @@ All feature/motif records are version 1 through `MD-FR-V01`. `EV-####` expands t
 | MD-MOT-0002 — appraisal versus demonstrated movement | EV-0001/0007/0013/0015/0016/0021/0026: genius framing, trial, imagined judgments, celebrity shift and moving figures | Diagrams supply explicit explanation; technically successful jump still precedes program freeze | Form lets the reader compare credential/judgment language with embodied capacity and contextual response | Future recurrence needed for full-series mechanism; MD-CL-0012@1; first version |
 | MD-MOT-0003 — food and choice | EV-0025/0031: cake/taiyaki training alternatives and reprise; EV-0036/0037: actual sushi support conflict | Title-page cats/restaurant props and parfait comedy are not literal training alternatives | Food offers accessible strategy shorthand; later meals additionally stage unequal care and acceptance | Different source contexts/uses retained; MD-CL-0008@1/0012@1; first version |
 | MD-MOT-0004 — responsibility after helping | EV-0035/0036/0037: Sekoma's creature-feeding responsibility analogy and Kago's responsibility to continue help | Threat, unsolicited intervention and Tsukasa's boundary refusal; creator note is intention, not independent action | Repeated worded/comic analogy ties hidden care to obligation while preserving its intrusion | Adult recipient/child pupil options differ; MD-CL-0011@1; first version |
+
+## V02 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V02`. In this section `EV-####` expands to the [V02 reading's](../02%20Sequential%20Readings/MEDALIST_V02_DEEP_READING.md#canonical-observations) `MD-EV-V02-####`. Image order is verified; facing-page geometry is not, so "sequence" means the inspected image sequence. The V01 tables above are unchanged and remain the `MD-FR-V01` state.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0009 | MD-MOT-0002; EV-0009/0011/0018/0024 | First at 0035 with a printed legend; recurs through Scores 4–6 | A captioned row of squares, one per element, filled for added credit, reduced credit, review or error; a stamp for an invalid element | Carries an official running result through silent pages and separates the body's action from the panel's record; alternatively a reader aid with no claim to match any real protocol sheet | MD-PERF-0011/0012/0013; MD-CL-0012@2/0013@2 | HIGH construction; some squares hard to read in this scan; new in V02 |
+| MD-VF-0010 | EV-0008/0009 | Score 4 program pages 0031–0042 | Melody written as vertical sound-lettering; borderless overlapping figures on white; a large smiling close-up at "なんて楽しいんだろう" | Presents the program as continuous and bright; cannot convey tempo or timing against the music | MD-PERF-0011; MD-CL-0012@2 | HIGH; contrast case MD-VF-0013 |
+| MD-VF-0011 | MD-MOT-0005; EV-0006 | 0024–0027 | Full-height reflected figure in costume; the chapter's largest lettering; a foreshortened hand toward a dark silhouette | Makes self-recognition an act of seeing oneself from outside; alternatively a conventional resolve beat | MD-CS-0018; MD-CL-0002@2/0012@2 | HIGH construction, MODERATE effect |
+| MD-VF-0012 | MD-MOT-0002/0005; EV-0009/0024/0041 | 0039, 0099, 0165 | Stroboscopic chain of one skater along a path, three times: under remembered instruction; with spectators unable to find the preparation; beneath a close-up of the coach's eyes | Same device, three owners of knowledge: the skater's training, the watchers' incomprehension, the coach's perception | MD-PERF-0011/0013/0016; MD-SK-0013; MD-CL-0012@2/0017@1 | HIGH; figure counts are not frame counts; extends MD-VF-0003/0006 |
+| MD-VF-0013 | EV-0024/0026/0047/0048 | 0097–0101, 0109–0121, 0181–0189 | Black grounds, slit lighting, narrowing strips of a face; Yodaka's pages the darkest in the book | Marks a different regime of skating and authority; must not be read as a moral coding of Hikaru, who is cheerful when she speaks | MD-PERF-0013; MD-CS-0028/0029; MD-CL-0012@2/0016@1 | HIGH tonal contrast, MODERATE meaning |
+| MD-VF-0014 | EV-0028/0029 | 0115–0121 | A black panel with one balloon; emphasis dots on 貴方 and 何者; a pointing finger; three heartbeat pages; a full-page face with vertical lettering | Slows the exchange to single utterances and gives the coach's answer the weight the verdict had | MD-RL-0029/0031/0032; MD-CL-0010@2/0012@2 | HIGH |
+| MD-VF-0015 | MD-MOT-0005; EV-0044 | 0172–0176 | Captions about erasing the self that cannot do it run across the pupil's covered face and the coach's eyes; hands lowered; "見るんだ"; a full-page jump | One text serves two subjects, making their difficulty the same difficulty; the grammar leaves whose thought each caption is partly open | MD-CS-0026/0027; MD-CL-0017@1/0012@2 | HIGH construction; attribution of individual captions MODERATE |
+| MD-VF-0016 | MD-MOT-0005/0006; EV-0047/0048 | 0184–0188 | A child hanging inverted behind the visitor; her body filling the frame with the champion small below; a crouched barefoot landing; an eye band; a full-page portrait with a caption | Inverts scale between prodigy and champion and renders a drop as a controlled landing | MD-CS-0028/0029; MD-CL-0016@1 | HIGH |
+| MD-VF-0017 | MD-MOT-0005; EV-0012/0001 | 0056 against 0003/0006 | As she bows, panels of a toddler clapping and a small child holding a soft toy; the prologue showed small Inori holding a soft toy while watching her sister | Answers the prologue's question by composition: she is now watched by a child | MD-CS-0019; MD-CL-0012@2 | MODERATE; the link is compositional, uncaptioned |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V02: EV-0006 reaching hand; EV-0013 fist bump; EV-0012 adult hand toward the final pose; EV-0019 Nachi's hands on Ryoka's wrist; EV-0020 offered hand on the podium | V01's coercive grip remains the control; in V02 every instance is offered and accepted | Contact continues to mark a shared undertaking; in V02 it also repairs the friendship the V01 grip damaged | MD-CL-0012@2; second version of the interpretation |
+| MD-MOT-0002 — appraisal versus demonstrated movement (extended) | V02: EV-0003 judge in practice; EV-0009 judge and element row; EV-0018 invalid stamp; EV-0024 sheet versus choreography; EV-0028 verdict on a grade | The element row is itself appraisal drawn as form; a correct ruling can cost a clean jump | Forecasts and credentials are repeatedly set against what a body then does, and official appraisal is given its own visual channel | MD-CL-0012@2/0001@2 |
+| MD-MOT-0003 — food and choice | No material V02 occurrence beyond gags | — | Unchanged from V01 | — |
+| MD-MOT-0004 — responsibility after helping | V02: EV-0007 and EV-0029, the coach's promise to keep teaching and his lifetime pledge | Yodaka's "until I get bored" (EV-0048) is the stated opposite | Obligation after helping is now voiced by the coach toward the pupil, with a foil | MD-CL-0011@2/0010@2 |
+| MD-MOT-0005 — seeing and being seen (new) | EV-0003/0006/0010/0012/0041/0044/0048: judged from practice; "私を見てて"; a mother who had not seen; audience children; the coach's eye; "見るんだ"; a beast's gaze | Yodaka forecasts before looking and reverses once he looks; the judge sees accurately and misattributes | Judgments made after looking are the ones the volume lets stand | Needs recurrence beyond V02; MD-CL-0012@2/0001@2 |
+| MD-MOT-0006 — falling and getting up (new) | EV-0004/0008/0026/0034/0048 with V01's leap: warm-up falls, the fallen Axel and the smile, the staircase, repeated double attempts, the drop from the eaves | Ryoka does not fall; her loss is a ruling | A fall is drawn as something to be answered, by a catch, a rise or a landing | Possible structural motif; hold until later volumes; MD-CL-0005@2 |

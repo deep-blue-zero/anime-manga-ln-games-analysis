@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.0"
+version: "1.1"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
-source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
+source_boundary: "Japanese V01–V02 closed (Scores 1–7, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-12"
-review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+updated: "2026-10-13"
+review_status: "AUTHOR_REVIEWED_V02_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -81,3 +81,35 @@ All rows are version 1 through `MD-FR-V01`, Japanese collected-witness continuit
 | --- | --- | --- | --- | --- |
 
 No external-rule/medical document was used or admitted, so no fabricated MD-EXT row appears. The manga's explicit 2019–2020 note identifies its attribution, not an independently verified reference. Official-rule or biomechanical comparison remains UNRESOLVED if requested later; present regulations must not be backfilled into this freeze. Current demonstrated frontier is beginner pass, program-continuity progress and a flying sit training execution, with double reliability and every 名港杯 outcome unresolved.
+
+## V02 evidence tables
+
+All rows are version 1 through `MD-FR-V02`. In this section `EV-####` expands to the [V02 observation](../02%20Sequential%20Readings/MEDALIST_V02_DEEP_READING.md#canonical-observations) `MD-EV-V02-####`. Awarded numbers are those announced or shown on a scoreboard in the manga. No external rule or medical document was consulted or admitted for V02, so the external-reference table stays empty and every rule is an in-story statement. The V01 tables above are unchanged and remain the `MD-FR-V01` state.
+
+| Competition | Depicted identity / category / segment | Date / rule certainty | Source observations | External-rule refs / unresolved matches |
+| --- | --- | --- | --- | --- |
+| MD-COMP-0001 (completed) | 名港杯 (a banner reads 第10回 … 名古屋港杯争奪 …), 邦和スポーツランド; beginner girls free skate; 18 starters in at least three groups | "The 12th", summer; year and month not given. Start order by lot at the opening ceremony; four-minute practice; judging from the practice; first jumps must be four different kinds. | EV-0003/0004/0007/0008/0009/0011/0012/0014/0016/0017/0018/0019/0020 | No MD-EXT. All rules attributed to the manga. |
+| MD-COMP-0002 | Same event; Novice B girls free skate, 18:20 start; Novice boys at 20:00 | Same day, evening. Ten-element row shown for Hikaru. | EV-0023/0024/0025 | No MD-EXT. Category totals not comparable with beginner totals. |
+| MD-COMP-0003 (begun, no result) | 西日本小中学生大会, Kyoto; grade-1 slot; venue sign partly cropped, reading …カデミー京都アイスアリーナ | "Next month" from the day after the badge test; before summer ends. In-story statements: past grade-1 winners average in the eighteens; grade 1 adds a step sequence and a higher component factor. | EV-0030/0033/0039/0043/0045 | No MD-EXT. Entry list and results not shown. |
+
+| Performance | Athlete / competition / segment | Plan / attempt / depiction / call | Supplied score / components / deductions / result | Expressive aim / attributed response | Evidence / limits / correction |
+| --- | --- | --- | --- | --- | --- |
+| MD-PERF-0010 | MD-CHAR-0004 / MD-COMP-0001 / four-minute practice | Axel fallen (toe pick, per coach); a second jump fallen; flying sit spin dropped | Not scored; a judge had just rated her the best skater in the group | Coach checks for pain, moves to off-ice timing | EV-0003/0004; second jump's type not named |
+| MD-PERF-0011 | 0004 / MD-COMP-0001 / free skate, start 12, music Holst "Jupiter" | 1A fallen; 1Lo landed; 1Lz and 1A sequence landed; 1F landed; flying sit spin with unplanned broken-leg variation, eight counted turns | **12.64**; first when announced and at the ceremony; element row: reduced, review, added, added, added | "なんて楽しいんだろう"; judge on speed and stroke; coach's thought that she chased the win to the end | EV-0008/0009/0011/0012/0014/0020; no component split; about one minute by the board |
+| MD-PERF-0012 | MD-CHAR-0013 / MD-COMP-0001 / free skate, start 18 | 1A and 1Lz with added credit; planned 2S and 1A, executed 2S alone; full 2S and 1A repeated cleanly; repeat ruled invalid | **11.17**; third | Audience pleasure in her rhythm; judge calls the repeat the cleanest of the day | EV-0017/0018/0019; some mark squares not securely legible |
+| MD-PERF-0013 | MD-CHAR-0010 / MD-COMP-0002 / free skate, start 2, music Saint-Saëns "Danse macabre" | 3Lz and 3Lo combination with added credit, no visible preparation; other elements not itemized | **97.23**; winner (first skater 78.44) | Crowd response "like a senior"; Tsukasa: every movement a highlight | EV-0024/0025; sheet lists grade 6 |
+| MD-PERF-0014 | 0004 / practice, Score 7 | Double attempts fall repeatedly and deteriorate within a session | None | Coach suggests stopping; she continues | EV-0034; jump type not named on these pages |
+| MD-PERF-0015 | 0004 and MD-CHAR-0024 / grade-1 badge test | Single Salchow shown for both | **Pass** for both | Inori calm; Ema's jump looks unhurried to her | EV-0038; remaining test content not drawn |
+| MD-PERF-0016 | MD-CHAR-0024 / demonstration | Double Salchow landed cleanly on request | None | Jakuzure: clean in the air and on landing | EV-0041; one instance |
+| MD-PERF-0017 | 0004 / practice six days before MD-COMP-0003 | Step-out, then **double loop landed** and named | None | Coach's fist; her astonishment | EV-0044; one landing, repeatability unknown |
+
+| Technical transition | Athlete / coach / known after | Skill / prior limit / intervention / outcome | Channel / physical constraints / risk | Performance / evidence / claim version | Confidence / counterevidence / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-SK-0008 | Inori / Tsukasa / Score 4 | Reliable singles and spin fail in the warm-up; off-ice timing check and a rehearsed image of success; program then mostly executed | DEPICTED_PERFORMANCE plus IN_UNIVERSE_STATEMENT (toe pick, unfamiliar ice, arm timing); no injury | MD-PERF-0010/0011; EV-0004/0005/0007; MD-CL-0005@2/0004@2 | HIGH events; cause of the recovery not isolated (permission, off-ice work, adrenaline, her own reframing all present) |
+| MD-SK-0009 | Inori / self-initiated / Score 4 | Broken-leg variation mentioned once and deferred; inserted by the skater in competition; credited | DEPICTED_PERFORMANCE; judge's surprise and positive mark are in-story; lay claim that it offsets the fall is ANALYTICAL_INFERENCE by spectators | MD-PERF-0011; EV-0011/0013; MD-CL-0002@2/0008@2 | HIGH; one occasion |
+| MD-SK-0010 | Ryoka / Nachi / Score 5 | Combination breaks; taught recovery (attach the Axel to the last flip) not retrieved; repetition violates the stated rule | DEPICTED_PERFORMANCE plus IN_UNIVERSE_STATEMENT of the rule; recovery practice had been skipped by her own admission | MD-PERF-0012; EV-0018/0019; MD-CL-0005@2/0013@2 | HIGH; V01's above-ninety-percent claim met one failed competition trial, which is not a rate |
+| MD-SK-0011 | Inori / Tsukasa / Score 7 | Double unreliable; video review and a three-segment timing model; legs late, then head leading; one double loop landed | DEPICTED_PERFORMANCE; IN_UNIVERSE_STATEMENT of the model and diagnosis; fatigue and falling shown, no injury | MD-PERF-0014/0017; EV-0034/0044; MD-CL-0004@2 | HIGH one landing; her earlier solo landing is self-report only |
+| MD-SK-0012 | Inori / Tsukasa / Score 7 | Grade 1 passed; target in the twenties for Kyoto using two kinds of double | IN_UNIVERSE_STATEMENT of averages and grade-1 scoring; ANALYTICAL_INFERENCE limited to noting that the second double is not shown | MD-COMP-0003; MD-PERF-0015; EV-0033/0038 | HIGH stated plan; outcome absent |
+| MD-SK-0013 | Tsukasa as analyst / attested by Jakuzure / Score 7 | Diagnoses by predicting motion from posture and reasoning from the difference; complete diagnosis of Inori's double and a single-viewing correction for Ema | IN_UNIVERSE_STATEMENT by two coaches; origin in ice dance is Jakuzure's hedged guess | MD-PERF-0016; EV-0040/0041; MD-CL-0004@2/0017@1 | HIGH that the appraisal was given; MODERATE on mechanism; efficacy of the Ema correction not shown |
+
+The external-reference table above still has no rows. The repetition rule, the GOE range, the grade-1 scoring note and the practice-period judging note are candidates for later verification against the applicable season's official documents, and until that is done they carry no real-world claim. Demonstrated frontier at `MD-FR-V02`: beginner champion, grade 1, competition-executed singles through Axel, a flying sit spin with variation, one practice double loop.

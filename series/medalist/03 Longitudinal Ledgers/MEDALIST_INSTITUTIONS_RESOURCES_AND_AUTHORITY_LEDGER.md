@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.0"
+version: "1.1"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
+source_boundary: "Japanese V01–V02 closed (Scores 1–7, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-12"
-review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+updated: "2026-10-13"
+review_status: "AUTHOR_REVIEWED_V02_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -74,3 +74,37 @@ All events are version 1 through `MD-FR-V01`; `EV-####` expands to the [reading'
 | MD-ORG-0001 hidden access | Earlier Inori, age seven onward | MD-IN-0007 | Clerk subsidy revealed retrospectively. | Duration/management knowledge and authority unverified. |
 | MD-ORG-0008 material support | Ryoka's preparation | MD-IN-0008 | Independence rhetoric includes maternal/coaching support. | No full household model or medical judgment. |
 | MD-ORG-0007 patron resources | Tsukasa's earlier/current contexts | MD-IN-0009 | Continuing support, return accepted after boundary conflict. | Exact timing, long-term dependence and Meiko history unresolved. |
+
+## V02 evidence tables
+
+All events below are version 1 through `MD-FR-V02`. In this section `EV-####` expands to the [V02 reading's](../02%20Sequential%20Readings/MEDALIST_V02_DEEP_READING.md#canonical-observations) `MD-EV-V02-####`. Setting updates: MD-ORG-0006's full name is disclosed as 名港ウィンドFSC, head coach 鴗鳥慎一郎 (an announced 名港スポーツランドFSC is a different club and gets no key). New settings: MD-ORG-0009 蓮華茶FSC, Kyoto; MD-ORG-0010 Hikaru's adoptive household, unnamed, referred to by its attendants as 当家; MD-ORG-0011 the West Japan meet and its Kyoto arena; MD-ORG-0012 名城クラウンFSC, Ryoka's former club and the runner-up's club. Fictional clubs are not equated with the real venues thanked in the credits. The V01 tables above are unchanged and remain the `MD-FR-V01` state.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0010 | ORG-0004 event officials, all entrants | Competition day; Score 4 | Start order drawn by lot the previous day; four-minute practice; judges assess from the practice period | Skaters cannot choose order; a bad practice is already seen by the panel | EV-0003/0004; MD-COMP-0001 | HIGH as in-story procedure; no external check; no prior |
+| MD-IN-0011 | ORG-0003 mother, ORG-0002 coach, Inori | Between practice and skate; Score 4 | A parent asks the coach to remove program difficulty; the coach keeps the content on stated evidence; the child states her own wish | The program is skated as planned and exceeded; who would have decided had the child stayed silent is not shown | EV-0005/0006/0007; MD-RL-0023/0024; MD-CL-0014@1/0007@2 | HIGH; the mother's reasons were substantive; prior MD-IN-0002 |
+| MD-IN-0012 | ORG-0004 judges, Ryoka | Free skate; Score 5 | Stated rule that a beginner program's first jumps be four different kinds; a repeated combination is ruled invalid | A clean element earns nothing; placement falls to third | EV-0018/0019; MD-SK-0010; MD-CL-0005@2/0013@2 | HIGH ruling as depicted; real-world rule unverified; no prior |
+| MD-IN-0013 | ORG-0005 Nachi, Ryoka | Disclosed Score 5 and profile | The club has one pupil; running costs are marginal; private ice was rarely possible; Nachi is trying to recruit | The coach's livelihood rests on one child's continued attendance | EV-0016/0021; MD-RL-0027; MD-CS-0023; MD-CL-0009@2 | HIGH stated condition; budget figures absent; prior MD-IN-0006/0008 |
+| MD-IN-0014 | ORG-0006, ORG-0010, Yodaka, Hikaru | Five years earlier to present | An Olympic champion coaches and choreographs privately while the program sheet names the club's head coach in both roles; late-night lessons after competition; an adoptive household with attendants and the means to summon him; television crews attend her event | Resources of a different order from any other child shown | EV-0023/0024/0027/0047; MD-RL-0033; MD-KN-0017/0019; MD-CL-0001@2/0016@1 | HIGH facts as depicted; reason for the sheet's naming UNRESOLVED; no prior |
+| MD-IN-0015 | Yodaka's standing, Inori, Tsukasa | Stairwell; Score 6 | A medalist's verdict on a beginner, issued on her grade; the coach has no comparable credential and is asked who he is | The coach contests the verdict and names its weight; no institutional consequence follows | EV-0028/0029; MD-RL-0029/0031/0032; MD-CL-0001@2/0016@1 | HIGH; informal authority only; no prior |
+| MD-IN-0016 | ORG-0009, ORG-0002, coaches | Badge-test visit; Score 7 | A stated norm that clubs do not share hard-won method; Hitomi enforces it; Jakuzure waives it by choice; 蓮華茶 called the strongest club in the country | Knowledge passes between competitors for the same slot | EV-0039/0041; MD-RL-0035/0036/0040; MD-CL-0011@2/0017@1 | HIGH speech; "strongest" is Hitomi's statement; one instance does not change the norm; no prior |
+| MD-IN-0017 | Badge and competition ladder, Inori, Ema | After 名港杯; Short Program 3 / Score 7 | A grade-1 test already applied for; a meet whose entry closes the next day; grade determines the slot and the scoring structure; Ema travels to another city to sit a test missed through illness | Passing the test is the gate to the Kyoto entry | EV-0030/0033/0038/0039; MD-COMP-0003; MD-SK-0012 | HIGH as stated; no prior |
+| MD-IN-0018 | ORG-0007 Kago household, Tsukasa | Undated; gag strip and Score 7 | He rents a spare room and pays; a tablet for video review is borrowed from Kago; a former teacher once offered to lend training costs | The recipient sets a boundary by paying; help continues on smaller terms | EV-0034/0042/0050; MD-RL-0018; MD-CL-0011@2 | HIGH glosses; amounts absent; whether he accepted the teacher's loan is not shown; prior MD-IN-0009 |
+| MD-IN-0019 | ORG-0008 Ryoka's family | Profile | Parents eloped against opposition; mother taken back by the grandfather; raised by her father alone until six; now reconciled and living with the mother's family under a new surname | A history of adults in conflict around the child | EV-0021; MD-CS-0022; MD-CL-0006@2 | HIGH as attributed profile fields; not independently depicted; no prior |
+
+### Current projection after V02
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| Late-start path | Tsukasa's history | MD-IN-0001 | Unchanged; a former teacher's belief and offered loan now attested. | Whether the loan was taken. |
+| MD-ORG-0003 parental support | Inori through V02 | MD-IN-0002/0011 | Commitment to the Olympic aim after a contested request. | Endpoint unwithdrawn in words; costs unstated. |
+| Rental and preparation resources | Depicted preparation | MD-IN-0003/0018 | Scarce ice; borrowed equipment; rent paid. | Budgets absent. |
+| Parent and status recognition | Osu group; a judge; a medalist | MD-IN-0004/0015 | Status still steers recognition; a judge credits the head coach; a medalist forecasts from grade. | Not a general social claim. |
+| MD-ORG-0004 competition | 名港杯, completed | MD-IN-0005/0010/0012 | Procedure and one decisive rule as stated in-story. | Official rule matching unverified. |
+| MD-ORG-0005 one-pupil club | Nachi and Ryoka | MD-IN-0006/0013 | Credential control now seen against a disclosed livelihood stake. | Grade decision and viability open. |
+| MD-ORG-0001 hidden access | Earlier Inori | MD-IN-0007 | Unchanged. | — |
+| MD-ORG-0008 family | Ryoka | MD-IN-0008/0019 | Material support with a conflicted history. | Profile fields only. |
+| MD-ORG-0007 patron resources | Tsukasa | MD-IN-0009/0018 | Help continues inside a boundary he sets. | Long-term arrangement unknown. |
+| MD-ORG-0006 and MD-ORG-0010 elite resources | Hikaru | MD-IN-0014 | Concealed champion coaching and household means. | Why the coaching is unlisted. |
+| Cross-club knowledge | ORG-0002 and ORG-0009 | MD-IN-0016 | Shared once, against a stated norm. | Durability. |
+| Badge ladder and Kyoto entry | Inori, Ema | MD-IN-0017 | Grade 1 obtained; meet entered. | Field and results. |
