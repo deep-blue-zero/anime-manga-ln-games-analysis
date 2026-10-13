@@ -347,4 +347,72 @@
   "canonical_link_translations": [],
   "new_completion_credit": 0,
   "all14_original_gaps": "OPEN_UNCHANGED"
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/complete_original_to_canonical_inverse/canonical_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "743004645d8ec0d114c4eae1dd046d8ded9a7c8c6bf9142d5bd313edbe321684",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 42150,
+        "sha256": "743004645d8ec0d114c4eae1dd046d8ded9a7c8c6bf9142d5bd313edbe321684"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 42140,
+        "sha256": "8960dae37de7c6b75f637812addbe42b709f642002cf95fcbf35548376511db3"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "middle12_source_consistency_current_qualification_20261012_v1": {
+  "current_qualification_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDDLE12_CURRENT_CONTEXT_AND_PRECISE_CORRECTIONS_20261012_V1.json",
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "qualified_existing_original_pointers": [
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/6/exact_unchanged_lines/3",
+      "retained_value_utf8_sha256": "cad466796002d4dce72dacce5195185ec980cf13ef732a531bc78264d0c7e43a",
+      "finding_ids": [
+        "M12-P3-CHAR-MINA-FROZEN-10"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/canonical_exact_tuple",
+      "retained_value_utf8_sha256": "dfae3c962025131312fdfbb49c65352d474a6164753fa5071f3ffd3d4e001168",
+      "finding_ids": [
+        "M12-BODYBIND-P3-CHAR-MINA"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 42140,
+      "sha256": "8960dae37de7c6b75f637812addbe42b709f642002cf95fcbf35548376511db3",
+      "lines": 186,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 42140,
+        "sha256": "8960dae37de7c6b75f637812addbe42b709f642002cf95fcbf35548376511db3"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 42140,
+        "sha256": "8960dae37de7c6b75f637812addbe42b709f642002cf95fcbf35548376511db3"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "frozen_originals_receipts_hashes_and_inverse": "UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_model_identity_credit": 0,
+  "prior_PR152_layer": "PRESERVED_UNCHANGED",
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDDLE12_FIVE_LINE_BODY_DIFFERENTIAL_INVERSES_20261012_V1.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDDLE12_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

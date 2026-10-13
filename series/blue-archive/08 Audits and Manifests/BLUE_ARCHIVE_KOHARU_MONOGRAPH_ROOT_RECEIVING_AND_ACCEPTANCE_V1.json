@@ -120,4 +120,42 @@
   "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json",
   "public_claim_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
   "historical_receiving_flags_retained": "N, publication and main state refer to the dated receiving event; current full-cast scope is separately indexed."
+,
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/candidate_sha256",
+      "retained_value_utf8_sha256": "22f61eee3ccfb21ce51a64cdef6c1f953eb11115ba08eb541b58dfdc58906d01",
+      "finding_ids": [
+        "P30-P3-CHAR-KOHARU-KOHARU_CURRENT_PROVENANCE_ARTIFACT_KIND_QUALIFICATION_V1"
+      ]
+    },
+    {
+      "json_pointer": "/canonical_derivative/frozen_author_bytes",
+      "retained_value_utf8_sha256": "b68156934c2ade8e634b6b68e1090fd7229867f9d715426b3f03f3c93ec22cdb",
+      "finding_ids": [
+        "P30-P3-CHAR-KOHARU-KOHARU_CURRENT_PROVENANCE_ARTIFACT_KIND_QUALIFICATION_V1"
+      ]
+    },
+    {
+      "json_pointer": "/canonical_derivative/frozen_author_sha256",
+      "retained_value_utf8_sha256": "22f61eee3ccfb21ce51a64cdef6c1f953eb11115ba08eb541b58dfdc58906d01",
+      "finding_ids": [
+        "P30-P3-CHAR-KOHARU-KOHARU_CURRENT_PROVENANCE_ARTIFACT_KIND_QUALIFICATION_V1"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

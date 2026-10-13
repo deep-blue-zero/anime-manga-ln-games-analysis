@@ -39,4 +39,27 @@
   "new_completed_package": false,
   "all14_gaps": "OPEN_UNCHANGED",
   "new_model_prediction_or_performance_credit": 0
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/canonical_corrected_body_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "8615f1b27f21014e86e4c07c3e1afe3e6b1e0288970ab58106670f05d8297530",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 68564,
+        "sha256": "8615f1b27f21014e86e4c07c3e1afe3e6b1e0288970ab58106670f05d8297530"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 68966,
+        "sha256": "499d2cc5633091e0b8ec5425d2db95405a87146688c59246f045409e69f3033e"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+}
 }
