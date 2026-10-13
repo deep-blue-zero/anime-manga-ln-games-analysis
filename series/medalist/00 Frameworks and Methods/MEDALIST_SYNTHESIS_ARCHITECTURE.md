@@ -5,13 +5,15 @@ artifact_type: "synthesis_architecture"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.1"
-status: "active_provisional"
+version: "0.5"
+status: "canonical"
 scope: "Accumulation model, canonical responsibilities, promotion, convergence and completion"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SYNTHESIS_ARCHITECTURE.md"
-source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
+source_boundary: "Architecture contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
-review_status: "OWNER_REVIEW_PENDING"
+updated: "2026-10-12"
+review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,7 +23,7 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 
 # Synthesis and corpus architecture
 
-This architecture defines what the prospective manga readings build. The [method](MEDALIST_ANALYTICAL_METHOD.md) governs how evidence is judged. Generation `MEDALIST_BOOTSTRAP_V1` begins at lifecycle **INITIAL** with **active_provisional** authority, pending owner review, zero narrative findings and no predecessor architecture superseded. `canonical_home` identifies the sole intended home; it does not claim owner approval or promotion to canonical status.
+This architecture defines what the prospective manga readings build. The [method](MEDALIST_ANALYTICAL_METHOD.md) governs how evidence is judged. Generation `MEDALIST_BOOTSTRAP_V1` began at lifecycle INITIAL with provisional authority and zero narrative findings. The owner has now approved the revised version-0.2 foundation; this is its canonical governing home. Lifecycle was INITIAL at V01 activation. The first completed V01 review moves it to EVOLVING; no predecessor architecture is superseded and the seven cumulative homes remain adequate.
 
 Higher-level authority is the live Git epoch/scope, initiation policy, authority/supersession policy, reasoning/capability and long-series policies, handoff/continuation contracts, source boundaries and repository checklist. [The current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) links those controls and is the only first-read project surface.
 
@@ -29,9 +31,9 @@ Higher-level authority is the live Git epoch/scope, initiation policy, authority
 
 The [source map](MEDALIST_SOURCE_AND_SCOPE_MAP.md) owns exact source identity, availability, admission and public publication reconnaissance. Japanese collected/serialized manga are primary continuity with edition-specific witnesses; numbered tankōbon volumes are the default sequence. Magazine-only chapters, delivery splits, collected revisions, bonuses and paratext are classified independently. Anime S1/S2, translation, creator/publisher supplements and reception are distinct evidence lanes. No complete manga/serialization ceiling is inferred from the visible Drive subset.
 
-Existing directories have actual responsibilities: `00 Frameworks and Methods/` holds five governing specifications; `03 Longitudinal Ledgers/` holds seven justified cumulative instruments; `07 Audits and Handoffs/` holds the bootstrap receipt. Future `02 Sequential Readings/`, `04 Character and Relationship Synthesis/` and `05 Specialist Synthesis/` arise only with real admitted/artifact-ready work. Checkpoints/audits remain in the audits area; a future release has an explicit scope manifest rather than a competing entrypoint. No empty directories or placeholder character/specialist files are created.
+Existing directories have actual responsibilities: `00 Frameworks and Methods/` holds five governing specifications; `03 Longitudinal Ledgers/` holds seven justified cumulative instruments; `07 Audits and Handoffs/` holds historical bootstrap and activation receipts; `02 Sequential Readings/` now holds the complete V01 reading. Future `04 Character and Relationship Synthesis/` and `05 Specialist Synthesis/` arise only with independently artifact-ready work. Checkpoints/audits remain in the audits area; a future release has an explicit scope manifest rather than a competing entrypoint. No empty directories or placeholder character/specialist files are created.
 
-Git contains interpretive Markdown, contracts and sanitized provenance. Drive contains primary/derived evidence; temporary processing/transport artifacts remain in the working plane. Source authentication, narrative inspection, publication, semantic acceptance and integration are different states.
+Git contains interpretive Markdown, contracts and sanitized provenance. Drive and owner-approved local source holdings are alternative primary/derived evidence surfaces; temporary processing/transport artifacts remain in the working plane. The local route does not make source media part of analytical Git authority. Source authentication, narrative inspection, publication, semantic acceptance and integration are different states.
 
 ## Accumulation and single-home rule
 
@@ -55,7 +57,7 @@ Evidence local to one unit with no recurring or downstream value remains in that
 | Exact page/balloon observations and short Japanese ambiguity notes | Frozen source-unit reading, not another cumulative ledger | All seven homes reference stable observation IDs/locators | Deferred; no reading |
 | Adaptation dialogue, acting, motion, sound, pacing and sequence divergence | Future scoped crosswalk and AV evidence matrix | Adaptation specialist after distinct source/capability admission | Deferred; no AV admission |
 
-These seven homes are required before the first reading because each prevents repeated reconstruction of a different recurring question. They do not require a row after every unit: inspect responsibility, update materially affected records and certify no-change cases in transaction closure.
+The matrix's day-one column is the historical empty initialization snapshot; current V01 records are linked from the entrypoint and frozen reading. These seven homes are required before the first reading because each prevents repeated reconstruction of a different recurring question. They do not require a row after every unit: inspect responsibility, update materially affected records and certify no-change cases in transaction closure.
 
 ## Ledger record and history contract
 
@@ -71,7 +73,29 @@ The frozen exit state stores the claim and domain-row versions actually in force
 
 One volume is a transaction, not merely one prose file. Internal processing chunks do not grant later evidence. V01 begins with no narrative findings. A partial volume never advances the completed boundary. For magazine-only material, verify exact chapter identity/placement and complete delivery first; the method permits a whole Score transaction without inventing a collected-volume boundary.
 
-The continuation policy defaults future requests to `single_operation`; a bounded continuous run needs owner authorization and individually closed transactions. Next-candidate metadata does not authorize a reading. The bootstrap leaves `SEQUENTIAL_ANALYSIS_LOCK = CLOSED` and owner review as the next permitted operation.
+The continuation policy defaults future requests to `single_operation`; a bounded continuous run needs owner authorization and individually closed transactions. Next-candidate metadata does not authorize a reading. The historical bootstrap left `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`. Owner approval and V01 source verification now permit the entrypoint to record OPEN for one V01 transaction. An OPEN project gate does not authorize later volumes or supplements.
+
+## Fanbook admission checkpoints
+
+Official Fanbook 01 and 02 are separate candidate source units `FB01` and `FB02`. Their filenames are visible locally, but their contents, continuity, coverage and admission positions remain unverified. A fanbook number or release date does not establish a manga cutoff. The source map owns each book's component inventory, `covered_manga_boundary`, `admit_after`, basis and disposition; the reading specification owns the future audit transaction. No placeholder audit or extra fanbook ledger is required.
+
+The default order, after owner review and source admission, is:
+
+`manga through verified boundary B → freeze manga-only state at B → eligible fanbook paratext audit → reconcile supplemental delta and freeze combined state → next manga unit or scoped synthesis`.
+
+Set B to the last manga unit whose information the admitted components presuppose or reveal, including any serial-only coverage. Establish it from verified source structure, official coverage statements and a bounded source-mapping receipt; record incidental exposure. If it falls inside a collected volume, default to the end of that complete volume. If coverage cannot be bounded, keep `admit_after: null` and `HOLD_COVERAGE_UNVERIFIED`; even reaching V15 does not by itself make the book safe to admit. FB02 receives its own decision rather than inheriting FB01's cutoff.
+
+Authenticate source/container/locator metadata early without interpreting profiles, interviews or bonus manga. The full fanbook is normally read at the first eligible closed checkpoint. A partial component admission requires a separately declared bounded scope with exact includes/excludes and its own closure; it does not certify the full book complete. Out-of-boundary teasers remain inventoried and excluded, as in the COTE guidebook audits. A scheduled book is a separate authorized transaction, not an automatic side effect of a manga-only execution request. Default sequencing completes the due audit before advancing past its checkpoint; an explicit reviewed deferral records a manga-only boundary and exclusions.
+
+The audit compares the prior manga-only claim versions with what each admitted component adds, corroborates, merely summarizes, recontextualizes or disputes. Use the method's source layers; documentary/editorial material does not silently overrule primary manga, while verified bonus fiction receives its own literary evidence identity. Record unresolved conflicts and limits. The claims ledger owns `MD-RV-…` revisions, chronology/information owns temporal or knowledge effects, and existing character/relationship/sport/institution/visual homes receive only material changes. The audit owns original observations. Preserve earlier freezes and prediction text.
+
+A supplemental closure has an independent `MD-FR-FB01` or `MD-FR-FB02`, admitted witness/components and revised claim/ledger versions. Keep the completed mainline manga boundary unchanged while advancing the admitted evidence set and supplemental progress. Record both manga-only and combined boundaries in subsequent readings and synthesis manifests.
+
+Before boundary character/specialist or integrated synthesis, reconcile every relevant scheduled supplement or explicitly scope it out with a reason and effect on readiness. Preliminary manga-only studies remain possible with truthful limits; unresolved fanbook coverage cannot be reported as completed supplemental integration. This prevents both early spoiler leakage and omission of late official material from a claimed combined synthesis.
+
+### Verified COTE design precedent
+
+Reference snapshot: `series/classroom-of-the-elite` at `f89d3efa5b8b0dbe6331d3dc977d03bd458358bb`. Its [First File audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f89d3efa5b8b0dbe6331d3dc977d03bd458358bb/series/classroom-of-the-elite/02%20Year%201%20Definitive%20Second%20Pass/01A%20Guidebook%20Paratext%20Audits/COTE_Y1_FIRST_FILE_PARATEXT_AUDIT.md) is positioned after Y1V11.5, before year-boundary specialist synthesis. Its [Second List audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f89d3efa5b8b0dbe6331d3dc977d03bd458358bb/series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/01A%20Guidebook%20Paratext%20Audits/COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md) follows Y2V12.5, protects earlier local truth, and excludes the Year-3 teaser. Both distinguish documentary page images from text-bearing bonus fiction. Transfer that source classification, deliberate late placement and reconciliation workflow; do not transfer COTE's school-year cutoffs, ratings or literary conclusions into Medalist. Medalist's numerical fanbook cutoffs remain a source-verification question.
 
 ## Character, relationship and specialist promotion
 
@@ -94,7 +118,7 @@ A specialist begins from a meaningful closed tranche whose exact boundary and ex
 
 ## Synthesis dependencies and convergence
 
-`closed sequential tranche → coverage/ledger reconciliation → architecture/role-gap audit → locator/claim stabilization → character/relationship and justified specialists → cross-specialist contradiction review → bounded integrated synthesis → validation/release audit`.
+`closed manga tranche → due supplemental audit or explicit exclusion → coverage/ledger reconciliation → architecture/role-gap audit → locator/claim stabilization → character/relationship and justified specialists → cross-specialist contradiction review → bounded integrated synthesis → validation/release audit`.
 
 Technical/rule and structural conditions precede claims that evaluate coaching strategy or resource effects. Character/knowledge/relationship states inform psychology and mentorship; neither can infer unseen performance. Sport and visual specialists feed artistry/identity; they retain distinct evidence channels. Adaptation comparison follows verified manga/episode mapping and AV completion. A behavioral model is optional and independently validated; simulation readiness is not a prerequisite for literary synthesis.
 
@@ -123,6 +147,7 @@ Record material amendments in this architecture's revision history and entrypoin
 | Gate | Required distinction |
 | --- | --- |
 | Sequential-source completion | Exact authorized witness/unit scope completely inspected and transactions closed; not all published/available material by assumption |
+| Supplemental checkpoint | Every due admitted component audited/reconciled, or explicitly deferred/excluded with a bounded manga-only scope; independent freeze and mainline boundary retained |
 | Longitudinal reconciliation | Affected histories/projections, readiness, locators, predictions and source/entrypoint state consistent through that endpoint |
 | Specialist readiness | Independent question and adequate channel/evidence density after role-gap/claim review |
 | Integrated/full-series readiness | Specialists converge and high-impact disputes/debts are resolved or responsibly bounded; an ongoing-series checkpoint is not a finished-work claim |
@@ -145,3 +170,21 @@ Current entrypoint and projections remain mutable through targeted edits. Comple
 ## Revision history
 
 Version 0.1: INITIAL bootstrap; seven schemas and five governing specifications; owner review pending; zero admitted or completed narrative units.
+
+Version 0.2 (2026-10-12): owner-directed COTE supplement precedent incorporated; fanbook source layers, independent audit/freeze, verified-boundary scheduling and synthesis reconciliation defined across method, source map, reading/reconstruction contracts and entrypoint. Local source filenames recorded separately from the earlier Drive snapshot. Seven ledger schemas and the historical bootstrap receipt are unchanged; no narrative evidence admitted, owner review remains pending and the lock remains CLOSED.
+
+Version 0.3 (2026-10-12): owner accepted the revised foundation and authorized V01 only. Current governing homes promoted to canonical; seven initialized ledger schemas retained without evidence rows at activation. Exact delivered V01 witness, exclusions, capability probe and initial exposure are recorded in the authorization/source receipt.
+
+Version 0.4 (2026-10-12): first V01 transaction completed with full admitted-image coverage, seven reconciled ledgers and MD-FR-V01. AUTHOR_REVIEWED evidence-driven lifecycle EVOLVING; foundation version 0.2 retains its separate owner approval. No new source-unit authorization or specialist/model promotion.
+
+Version 0.5 (2026-10-12): owner authorized `continuous_sequential` V02–V15, conditional fanbook audits and provisional boundary syntheses. No responsibility, ledger or dependency changes. Front-matter source boundary now defers to the entrypoint so it does not go stale at each closure. Earlier statements here that V02 or supplements are unauthorized record the V01-only scope and are retained as history; the entrypoint owns live authorization.
+
+## V01 evidence-driven architecture review
+
+The [closed V01 reading](../02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) exercises the approved transaction contract. All seven responsibilities receive material records; canonical observations remain only in that reading. Recognition/access, skill versus credential, context-specific confidence, directional peer/coach power and the distinction between imagined judgment and actual speech are retrievable through existing linked homes. Their recurrence does not require another ledger.
+
+Own-volume profiles, dialect guidance, bonus fiction, credits, creator note and marketing are classified within V01, with attribution and exclusions. Bonus fiction supplies MD-RT-0001–0003 within the first volume, before any earlier closed freeze exists; it does not justify invented prior claim versions. These are not fanbook audits and do not advance supplemental progress. Future fanbooks still require their own verified cutoff/admission, manga-only entering freeze, audit/delta and combined freeze.
+
+The first volume supports bounded protagonist and supporting-role arguments, not a validated behavioral model or full-series specialist. V01 readiness decisions remain distinct; no global character enrollment follows. The manga’s own 2019–2020 rule note is a season-identified in-story attribution, not external verification. Promotional future imagery is exposure, not a contest result or blind forecast basis. Printing and facing-page geometry gaps restrict those claims without blocking this delivered-witness reading.
+
+Lifecycle EVOLVING means the architecture has been tested against actual source evidence and remains open to justified later changes. It is not STABILIZED or a FROZEN release. V01 authorization is exhausted; listed V02 and fanbook candidates do not grant continuation.
