@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.4"
+version: "1.5"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V05 closed (Scores 1–19, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V06 closed (Scores 1–23, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V05_UPDATE"
+review_status: "AUTHOR_REVIEWED_V06_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -201,3 +201,37 @@ All events below are version 1 through `MD-FR-V05`. In this section `EV-####` ex
 | Patronage | Tsukasa, Kago | MD-IN-0048 | A debt declared paid by the creditor. | The debtor's view. |
 | Authority over layout | Three clubs | MD-IN-0049 | Negotiated between coach and child. | Inori's layout. |
 | Others | As V04 | as before | Unchanged in V05. | — |
+
+## V06 evidence tables
+
+All events below are version 1 through `MD-FR-V06`. In this section `EV-####` expands to the [V06 reading's](../02%20Sequential%20Readings/MEDALIST_V06_DEEP_READING.md#canonical-observations) `MD-EV-V06-####`. New settings: MD-ORG-0024 the Aichi designated practice for All-Japan Novice qualifiers, held at the Nagakute rink on a slot drawn by lot; MD-ORG-0025 the 名古屋アイスフェスタ, a local show in which the prefecture's novice and junior skaters perform beside leading skaters. MD-ORG-0012, 名城クラウンFSC, is identified in V06 as the oldest club in Nagoya and the one where Mika skated. Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0052 | Scoring as stated: execution marks | Block day | Six positive criteria for a jump; each step from +1 to +5 adds a tenth of base value; three compulsory criteria to exceed +3; deduction items subtract; highest and lowest judges dropped; an uninterrupted program credited | A skater with lower content can outscore higher content by quality; said to be a senior's route | EV-0005/0006/0009; MD-SK-0035; MD-CL-0013@6/0008@5 | HIGH as in-story statements; unverified externally; prior MD-IN-0045 |
+| MD-IN-0053 | Qualification, the Chūbu block | Block day | Five advance on the result sheet; one skater withdrawn and advanced by recommendation; in the boys' class two entrants advance without a contest | The seats are filled; last year's champion is not among them | EV-0020/0021/0040/0043; MD-COMP-0006 | HIGH; prior MD-IN-0040 |
+| MD-IN-0054 | The national tier, by a rival coach | Night of the block | Six regional blocks feed the All-Japan Novice; for four years, Hikaru aside, its first ten have come from two of them; a triple Lutz is called the absolute condition for its podium | Regional coaches treat the winner's method as a shared resource against the dominant blocks | EV-0023; MD-COMP-0007; MD-CL-0013@6 | HIGH that it was said; one coach's account |
+| MD-IN-0055 | ORG-0024, the qualifiers | A week after the block | Attendance limited to the prefecture's All-Japan Novice entrants; the block's judges advise after each run-through; private rink slots are scarce and drawn by lot, often in the small hours; a junior attends by exception | Selected ice and expert comment as a consequence of advancing | EV-0042/0043/0044; MD-CL-0011@6/0001@6 | HIGH |
+| MD-IN-0056 | Support as a return on results: Tsukasa, Inori | Planned from the summer camp; stated after the block | The coach aims at first place, not qualification, because standing and expectation bring support; names it the medal's real reward; a jump specialist in demand among top skaters comes for the regional champion; she is taught that strength must be proven to be increased | Help follows proof; the same expectation is named by a rival as a risk to her | EV-0025/0042/0046/0049; MD-RL-0114; MD-CL-0011@6/0007@6/0025@1 | HIGH that this is his stated design; its yield is untested; prior MD-IN-0033 |
+| MD-IN-0057 | ORG-0006, ORG-0016, Sonidori, Yodaka, the regional coaches | From Hikaru's arrival to the present | A letter from Yodaka asked that his part in her coaching be kept wholly secret and that Sonidori look after her daily life; Sonidori keeps it by his own choice, to protect them both; his assistant and peers attribute her strength to him and to endowment | The public coach does the visible daily and competition work and carries the credit uneasily | EV-0024/0026/0027; MD-RL-0119/0122; MD-CL-0016@5 | HIGH that it was said; the principal reason was interrupted; prior MD-IN-0037 |
+| MD-IN-0058 | The arrangement with Yodaka | As reported and as he states | By Sonidori's hearsay, the request to coach came with a private slot in which Yodaka could skate alone; by Yodaka, a contract, made because the child had the aptitude | A retired champion obtains hidden ice; a child obtains an exclusive coach | EV-0033/0038; MD-RL-0118; MD-CL-0016@5 | HIGH that each was said; the requesting party is not named |
+| MD-IN-0059 | ORG-0002, Tsukasa's practice and standing | Disclosed on block day | Practice weighted to skating and steps, with about fifteen minutes of jumps by one pupil's account; daily landing logs kept and later tabulated by condition; instruction tested on his own body; on the night he wins, peers ask for his method and seat him at the head of their table | A beginner-badge instructor is treated by the region's coaches as holding something they need | EV-0007/0014/0023; MD-CL-0004@5 | HIGH; the allocation is Rio's description; prior MD-IN-0034 |
+| MD-IN-0060 | ORG-0012, a parent, a trainee coach | Years before the story | A mother brings a small child wanting a professional to say she cannot do it; a trainee understands and refuses the child | A club's entrance used to close a door at a parent's wish | EV-0008; MD-CS-0090/0115; MD-CL-0001@6/0014@3 | HIGH that he recalls it so |
+| MD-IN-0061 | Ice shows as a career, ORG-0025 | Present and past | A cast member who can do a backflip is valued; an assistant coach still appears as a guest; a local show once put Mika on the ice beside leading skaters and drew another child into the sport; Yodaka supplies a recording and says a word from Sonidori would secure an audition | An alternative to coaching exists for Tsukasa and is declined | EV-0036/0037/0047/0051; MD-CL-0010@6 | HIGH; Sonidori privately doubts he has such influence |
+| MD-IN-0062 | Class progression | Stated at the designated practice | Three of the five qualifiers move to junior next year; a junior of sixteen represents the country in a Junior Grand Prix series; a university-attached high school has its own rink | The next class is harder whatever happens at the All-Japan | EV-0044; MD-CL-0013@6 | HIGH as stated |
+| MD-IN-0063 | The region's clubs, by profile | Background | Three large Nagoya clubs; the oldest has sponsored a new club's founding and has many assistants; one head coach revived a dissolved club; a choreographing couple serves most of one club's pupils; an assistant gives visiting lessons at another prefecture's club at weekends | Expertise and patronage move between clubs that compete | EV-0051/0054; MD-CL-0011@6 | HIGH as profile fields |
+| MD-IN-0064 | ORG-0003, the Yuitsuka household | Years before the story | The elder daughter's skating ended with a fracture in jump practice; the mother then sought to keep the younger from the ice | The household's prohibition had an injury behind it | EV-0047; MD-CS-0116; MD-CL-0014@3 | HIGH as Inori's memory; the mother's own account is not given; prior V01 household rows |
+
+### Current projection after V06
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| Qualification | Novice A, Chūbu | MD-IN-0053; MD-COMP-0006 | Complete; five advance, one by recommendation besides. | — |
+| The national tier | All-Japan Novice | MD-IN-0054; MD-COMP-0007 | Scheduled; said to be dominated by two blocks and to require a triple Lutz for the podium. | External verification; the event itself. |
+| Scoring | The event | MD-IN-0045/0052 | Base values, multiplier, deductions and execution marks as stated. | External verification. |
+| Support earned by results | Inori, the qualifiers | MD-IN-0055/0056 | Designated practice, judges' advice, a specialist. | What it yields in two weeks. |
+| The hidden coach | ORG-0006 | MD-IN-0057/0058 | Secrecy asked by letter and kept by choice; private ice in exchange for coaching. | The requesting party; the principal reason. |
+| Coaching method and standing | Tsukasa | MD-IN-0059 | Skating-weighted practice, logs, strategy; sought out by peers. | Any formal consequence of his badge. |
+| Entry and exit | Clubs, shows | MD-IN-0060/0061/0064 | A refused child, an injured sister, a show career declined. | — |
+| Class progression and club network | The region | MD-IN-0062/0063 | Junior next year; patronage among rival clubs. | — |
+| Others | As V05 | as before | Unchanged in V06. | — |

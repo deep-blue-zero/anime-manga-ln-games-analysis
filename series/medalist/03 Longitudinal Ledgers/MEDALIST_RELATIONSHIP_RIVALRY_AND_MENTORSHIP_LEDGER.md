@@ -5,14 +5,14 @@ artifact_type: "relationship_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.4"
+version: "1.5"
 status: "canonical"
 scope: "Directional interpersonal interpretations and transitions among athletes, coaches, peers and families"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_RELATIONSHIP_RIVALRY_AND_MENTORSHIP_LEDGER.md"
-source_boundary: "Japanese V01–V05 closed (Scores 1–19, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V06 closed (Scores 1–23, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V05_UPDATE"
+review_status: "AUTHOR_REVIEWED_V06_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -306,3 +306,64 @@ Kijita's handling of Rinna, Kumano's of Waka, Iruka's rebuke of Inori and Marika
 | MD-PAIR-0020 / both | V05 | MD-RL-0104/0105 | Mutual regard between rival coaches. | — |
 | MD-PAIR-0016 / both | V05 | MD-RL-0106 | Easy and candid. | — |
 | Others | V04 or earlier | as before | Unchanged in V05. | — |
+
+## V06 evidence tables
+
+All transitions below are version 1 through `MD-FR-V06`. In this section `EV-####` expands to the [V06 reading's](../02%20Sequential%20Readings/MEDALIST_V06_DEEP_READING.md#canonical-observations) `MD-EV-V06-####`. New pair keys: MD-PAIR-0031 Inori/Iruka; MD-PAIR-0032 Yotsuha/Yūna; MD-PAIR-0033 Tsukasa/Gori; MD-PAIR-0034 Inori/Main. Earlier tables are unchanged; the current projection is the last projection table in this document.
+
+| Transition | Pair / direction | Story time / known after | Dimensions / context | Action / options / effect | Evidence / knowledge / linked homes | Claim / confidence / alternatives | Prior / revision |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-RL-0110 | 0001 / Tsukasa→Inori | Before her skate; Score 20 | Declared aim, shared responsibility, belief | Says he can make her win but not alone; asks for her resolve; prays over his own words; says he believes; hands the skate to her; thinks that today he leads. | EV-0003/0004; MD-CS-0086 | MD-CL-0007@6; HIGH wording. | MD-RL-0091 |
+| MD-RL-0111 | 0001 / Inori→Tsukasa | Before her skate; Score 20 | Trust tested and given | Asks whether he believes it too; on his answer takes the task as hers. | EV-0003; MD-CS-0087 | MD-CL-0002@6; HIGH. | MD-RL-0090 |
+| MD-RL-0112 | 0001 / Tsukasa→Inori | Kiss-and-cry and a week later | Consolation of a past grief, delight | Tells her they will sit there often enough to paint over the sad mornings; praises her for a week because he missed the moment. | EV-0019/0042 | MD-CL-0015@5; HIGH. | MD-RL-0110 |
+| MD-RL-0113 | 0001 / Inori→Tsukasa | Kiss-and-cry to the next week | Disclosure, moderation, appeal | Tells him the childhood dream; asks him to stop praising; brings him her count of days without quite asking. | EV-0019/0042/0049; MD-CS-0093/0112 | MD-CL-0002@6; HIGH. | MD-RL-0111 |
+| MD-RL-0114 | 0001 / Tsukasa→Inori | Next day; Score 23 | Candour, plan, provision | States the size of the task; says it is not impossible and was foreseen; presents outside help as the reward of her win. | EV-0049; MD-CS-0113 | MD-CL-0007@6/0017@4; HIGH. | MD-RL-0112 |
+| MD-RL-0115 | 0009 / Tsukasa→Yodaka | Night of the block; Score 22 | Admiration, opposition, use | Sees him skate in person; learns from his jumps; declines his route; corrects his memory; tells him there is no absolute; accepts his test. | EV-0030/0032/0034/0037/0039; MD-CS-0103/0105 | MD-CL-0025@1/0010@6; HIGH. | V02 transitions on MD-PAIR-0009 |
+| MD-RL-0116 | 0009 / Yodaka→Tsukasa | Night of the block; Score 22 | Appraisal, instruction, dismissal, challenge | Remembers him; asks his history; denies him the word talent; teaches him a backflip; supplies an audition recording; calls coaching backstage work; allows he may be a good coach; says the dream will fail; sets the All-Japan as the test. | EV-0035/0036/0037/0038/0039; MD-CS-0104/0106 | MD-CL-0016@5/0025@1; HIGH wording; contempt and a form of respect both fit. | V02 transitions on MD-PAIR-0009 |
+| MD-RL-0117 | 0010 / Yodaka→Inori | Night of the block; Score 22 | Dismissal by programme | Calls her a child who cannot tell right from left; says her dream will not come true because Hikaru will win everything. | EV-0037/0038 | MD-CL-0016@5; HIGH wording. | V02 transitions on MD-PAIR-0010 |
+| MD-RL-0118 | 0011 / Yodaka→Hikaru | As he states | Selection, design | Contracted to coach her because she had the aptitude; intends that she win gold at every competition for life. | EV-0038; MD-IN-0058 | MD-CL-0016@5/0023@2; HIGH wording. | MD-RL-0095 |
+| MD-RL-0119 | 0023 / Sonidori→Yodaka | Past to the night of the block | Protection, admiration, friendship | Accepted his request; keeps his secret by choice; asks after his jet lag; books ice to skate with him; wants another to see how he skates now. | EV-0027/0030/0032/0033; MD-CS-0099 | MD-CL-0016@5; HIGH. | MD-RL-0085 |
+| MD-RL-0120 | 0023 / Yodaka→Sonidori | Past to the night of the block | Reliance, familiarity, control | Asked him by a courteous letter for secrecy and for the child's care; calls him 慎一郎くん; stops him talking; borrows his telephone and his standing. | EV-0027/0028/0036 | MD-CL-0016@5; HIGH. | none |
+| MD-RL-0121 | 0020 / Sonidori→Tsukasa | Night of the block; Scores 21–22 | Inquiry, trust, hospitality | Asks why he built for gold; infers that he knows the secret and thanks him for silence; takes him home; lends him his boots; calls him a person of great talent. | EV-0025/0026/0031/0035; MD-KN-0052/0055 | MD-CL-0024@2; HIGH. | MD-RL-0104 |
+| MD-RL-0122 | 0020 / Tsukasa→Sonidori | Night of the block; Score 21 | Discretion, affirmation | Says nothing at dinner; tells him he is doing a coach's work and should not be misunderstood. | EV-0024/0026; MD-CS-0098 | MD-CL-0016@5; HIGH. | MD-RL-0105 |
+| MD-RL-0123 | 0024 / Sonidori→Yūna | Block day; Scores 20–21 | Regret withheld, solidarity | Privately regrets the broken plan a little; tells her she is not alone and will have a layout built for her jump. | EV-0009/0022; MD-CS-0096 | MD-CL-0024@2; HIGH. | MD-RL-0097 |
+| MD-RL-0124 | 0024 / Yūna→Sonidori | Block day; Score 21; profile | Compliance, attachment | Accepts his plan for the All-Japan; by profile, is secretly in love with him. | EV-0022/0041 | MD-CL-0001@6; HIGH for the first; the second is an editorial statement. | MD-RL-0096 |
+| MD-RL-0125 | 0032 / Yotsuha→Yūna | Since six clubmates left | Admiration, dependence | Stayed in the sport because Yūna did not give up; wanted her to have the gold. | EV-0022; MD-CS-0095 | MD-CL-0023@2; HIGH. | none |
+| MD-RL-0126 | 0032 / Yūna→Yotsuha | Block day; Score 21 | Comfort | Answers her tears by saying she is good at chasing. | EV-0022; MD-CS-0094 | MD-CL-0022@3; HIGH. | none |
+| MD-RL-0127 | 0025 / Yūna→Inori | Block day and a week later | Rivalry | Beaten by her by 1.17; at practice resolves that the block is not everything and lands her combination. | EV-0020/0045 | MD-CL-0022@3; HIGH for conduct; no words about Inori in V06. | MD-RL-0098 |
+| MD-RL-0128 | 0005 / Inori→Hikaru | Designated practice and after | Longing, sober appraisal, intent | Rejoices at sharing selected ice; judges her extraordinary in fact; begins to say her name; wants two jumps in order to fight her. | EV-0043/0045/0046/0049; MD-CS-0107/0112 | MD-CL-0003@5/0015@5; HIGH. | MD-RL-0094 |
+| MD-RL-0129 | 0005 / Hikaru→Inori | Designated practice | Ease, attention, withdrawal | Waves; stops over her after a fall and asks if she is all right; turns away without answering her name; leaves early. | EV-0043/0046/0047; MD-CS-0108 | MD-CL-0003@5; HIGH conduct; meaning open. | MD-RL-0079 |
+| MD-RL-0130 | 0031 / Iruka→Inori | Designated practice | Contempt turning to liking | Insults her through her sister; lays down the rule against "if"; laughs at her answer; by a gag strip, had found her oddly endearing since the ceremony. | EV-0048/0050; MD-CS-0111 | MD-CL-0025@1; HIGH for the story pages. | V05 ceremony rebuke |
+| MD-RL-0131 | 0031 / Inori→Iruka | Designated practice | Fear, study, defiance | Is frightened; resolves to watch her; stops her to defend Mika; makes a vow to her face. | EV-0043/0044/0048; MD-CS-0110 | MD-CL-0002@6; HIGH. | none |
+| MD-RL-0132 | 0013 / Inori→Mika | Childhood to present | Admiration, loyalty | Began skating for her; remembers the injury; will not hear her called bad at jumps. | EV-0047/0048 | MD-CL-0014@3/0002@6; HIGH. | V02 transitions on MD-PAIR-0013 |
+| MD-RL-0133 | 0034 / Main→Inori | Designated practice | Fellow feeling | Watches her from a distance; approaches on the strength of Mika; finds they began for the same reason. | EV-0043/0047 | MD-CL-0011@6; HIGH; brief. | none |
+| MD-RL-0134 | 0007 / Kago→Tsukasa | Block day; Score 20 | Understanding | Hears what Tsukasa's skating has become in a pupil; guesses he will credit being chosen; stands and applauds. | EV-0009/0010/0016; MD-CS-0091 | MD-CL-0010@6; HIGH. | MD-RL-0086 |
+| MD-RL-0135 | 0008 / Sekoma→Inori | Block day; Score 20 | Advocacy, vigil | Brings banners; explains her strategy to a stranger; resolves to watch to the end whatever the score; weeps. | EV-0002/0005/0006/0017 | MD-CL-0011@6; HIGH. | MD-RL-0107 |
+| MD-RL-0136 | 0017 / Rio→Tsukasa | Block day and a week later | Attachment, respect, candour | Explains his method to himself with approval; admits he could not bear it; wants him as a house guest; quarrels with Inori over him. | EV-0007/0043; MD-CS-0114 | MD-CL-0021@3; HIGH. | MD-RL-0071 |
+| MD-RL-0137 | 0033 / Gori→Tsukasa | Block day and a week later | Professional appraisal, criticism | Sees what the last combination required; seeks his method at dinner; later judges the strategy a long-term mistake and thinks he overlooked its risk. | EV-0013/0023/0046; MD-CS-0109 | MD-CL-0008@5/0024@2; HIGH that he thinks so. | none |
+| MD-RL-0138 | 0003 / Hitomi→Tsukasa | Kiss-and-cry; Score 21 | Correction | Pushes him into the coach's seat he tried to give her. | EV-0018; MD-CS-0092 | MD-CL-0010@6; HIGH; comic. | MD-RL-0108 |
+| MD-RL-0139 | 0002 / mother→Inori | Years earlier and present | Fear, presence | Once sought a professional's "impossible"; attends, has one friend, celebrates at home. | EV-0008/0017/0043; MD-CS-0115 | MD-CL-0014@3; HIGH for the present. | V03 transitions on MD-PAIR-0002 |
+
+The three assistant coaches' dinner with Tsukasa, Kijita's testimony about Sonidori and Rio's remark about Hikaru's whereabouts are single-context and are carried in the institutions and chronology ledgers (MD-IN-0054/0059; MD-KN-0054).
+
+### Current projection after V06
+
+| Pair / direction | Source endpoint | Active transition IDs | Current bounded state | Unknown reverse state / contradictions |
+| --- | --- | --- | --- | --- |
+| MD-PAIR-0001 / Tsukasa→Inori | V06 | MD-RL-0110/0112/0114 | Believes aloud, plans ahead of her, tells her the arithmetic, and delights in her. | Does not know why she hurried in V04. |
+| MD-PAIR-0001 / Inori→Tsukasa | V06 | MD-RL-0111/0113 | Tests his belief before taking it; confides an old grief; steadies his excess. | Still withholding her V04 motive. |
+| MD-PAIR-0009 / Tsukasa→Yodaka | V06 | MD-RL-0115 | Admirer, learner and declared opponent. | — |
+| MD-PAIR-0009 / Yodaka→Tsukasa | V06 | MD-RL-0116 | Regards him as wasted ability and has set him a test. | Whether the recording was respect or removal. |
+| MD-PAIR-0011 / Yodaka→Hikaru | V06 | MD-RL-0118 | A contract and a design for her whole career. | Her knowledge of it. |
+| MD-PAIR-0023 / both | V06 | MD-RL-0119/0120 | Friends; one protects, the other relies and controls. | The unfinished reason. |
+| MD-PAIR-0020 / both | V06 | MD-RL-0121/0122 | Mutual trust across rival clubs, with a shared secret. | — |
+| MD-PAIR-0024 / both | V06 | MD-RL-0123/0124 | A coach who stands by a lost gamble; a pupil attached beyond what he is shown to know. | — |
+| MD-PAIR-0005 / Inori→Hikaru | V06 | MD-RL-0128 | Wants the fight and knows the distance. | — |
+| MD-PAIR-0005 / Hikaru→Inori | V06 | MD-RL-0129 | Easy at a distance; turned away at close range. | Meaning. |
+| MD-PAIR-0025 / Yūna→Inori | V06 | MD-RL-0127 | A rival to be caught. | Her words about Inori. |
+| MD-PAIR-0031 / both | V06 | MD-RL-0130/0131 | A senior amused into regard by a novice who answered back. | — |
+| MD-PAIR-0032 / both | V06 | MD-RL-0125/0126 | One stayed because of the other. | — |
+| MD-PAIR-0033 / Gori→Tsukasa | V06 | MD-RL-0137 | Respect for the result, criticism of the plan. | Tsukasa's view of Gori. |
+| MD-PAIR-0002 / mother→Inori | V06 | MD-RL-0139 | Present and supportive, with a disclosed past refusal. | The middle-school endpoint. |
+| MD-PAIR-0007, 0008, 0017 | V06 | MD-RL-0134/0135/0136 | Unchanged in kind; each deepened by one scene. | — |
+| Others | V05 or earlier | as before | Unchanged in V06. | — |

@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.4"
+version: "1.5"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
-source_boundary: "Japanese V01–V05 closed (Scores 1–19, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V06 closed (Scores 1–23, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V05_UPDATE"
+review_status: "AUTHOR_REVIEWED_V06_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -218,3 +218,36 @@ All rows are version 1 through `MD-FR-V05`. In this section `EV-####` expands to
 | MD-SK-0033 | Inori / Tsukasa / Scores 17–19 | Entering content as at V04; layout prepared and re-checked the night before and not disclosed; a rival coach expects her to compete on holding a program together | IN_UNIVERSE_STATEMENT and ATTRIBUTED appraisal; no performance | MD-PERF-0050; EV-0012/0035/0041; MD-CL-0008@4/0004@4 | HIGH that this is all the page gives; her skate is not in V05 |
 
 The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V05`: unchanged for Inori since V04 (badge grade 6; double Axel landed in a test; triple Salchow and one triple and double landed once each in practice). Field frontier shown: a triple Lutz and triple loop landed in competition by Yūna; leading score 80.03 against a stated previous winning score of 76.
+
+## V06 evidence tables
+
+All rows are version 1 through `MD-FR-V06`. In this section `EV-####` expands to the [V06 observation](../02%20Sequential%20Readings/MEDALIST_V06_DEEP_READING.md#canonical-observations) `MD-EV-V06-####`. The block competition left in progress at `MD-FR-V05` is completed here. No external rule or medical document was consulted or admitted; the external-reference table remains empty. Scores are as printed. Earlier tables are unchanged.
+
+| Competition | Depicted identity / category / segment | Date / rule certainty | Source observations | External-rule refs / unresolved matches |
+| --- | --- | --- | --- | --- |
+| MD-COMP-0006 (completed) | 中部ブロック大会, Novice A girls free skate, 邦和スポーツランド. Final: 1 結束いのり 81.20; 2 八木夕凪 80.03; 3 炉場愛花 72.62; 4 古部多まいん 71.22; 5 申川りんな 70.04; 6 穴熊咲希奈 69.98; 7 都中伊のと 69.02; 8 武田桃芽 68.37; 9 足利刹那 67.40; 10 蟹江ほなみ 64.00; 11 庭取さな 63.26; 12 離洲くるみ 62.43; 13 牛川四葉 53.77; 14 庭取ひな 50.12; 15 海月和香 49.86. The first five advance. 狼嵜光 is recorded as withdrawn and advances by recommendation. Novice A boys at the same event: 鴗鳥理凰 first, 犬飼総太 second, of two entrants | End of September; year not given. In-story statements added in V06: execution marks of +1 to +5 at ten percent of base value each, six criteria, a trimmed average of judges; an Euler permits a Salchow as the third jump of a combination; an uninterrupted program earns credit. | EV-0005/0006/0012/0015/0020/0021/0022/0040/0043 | No MD-EXT. Closes the three unprinted scores and the fifth-place mark left open in V05. No protocol or component marks are printed for the winner. |
+| MD-COMP-0007 (scheduled) | 全日本ノービス選手権, Novice A; fed by six regional blocks | "Next month" from the night of the block; about two weeks from the story's endpoint. By a rival coach, its first ten places have gone to two blocks for four years, Hikaru aside, and a triple Lutz is the condition for its podium. | EV-0023/0039/0049 | No MD-EXT. Not held in V06. |
+
+| Performance | Athlete / setting | Plan / attempt / depiction / call | Supplied score / result | Expressive aim / attributed response | Evidence / limits / correction |
+| --- | --- | --- | --- | --- | --- |
+| MD-PERF-0051 | MD-CHAR-0004 / MD-COMP-0006, order 14, music from an animated film | 3Lo; 3S+2T; 2Lz; LSp level 4; 2F (five judges shown at +2, +2, +3, +2, +1, trimmed average +2); a sixth element not shown, by elimination the flying spin; StSq level 3; 3T with the 1.1 multiplier; 2A+1Eu+3S with the multiplier; CCoSp level 4. Every square of the element row white | **81.20**; first; narrated as the first clean skate of the event | A second standing ovation; a rival assistant: the best skating here | EV-0005/0006/0009/0012/0015/0020; no protocol printed; one element unseen |
+| MD-PERF-0052 | 庭取ひな / MD-COMP-0006, order 15 | Not depicted | **50.12**; fourteenth | She had wanted not to fall once | EV-0020 |
+| MD-PERF-0053 | MD-CHAR-0021 / private night session at the competition rink | Skating at speed; a multi-rotation jump landed; a backflip landed | None | Sonidori: better than when he competed | EV-0032/0036; jump type not named |
+| MD-PERF-0054 | MD-CHAR-0001 / same session, borrowed singles boots | Falls on stepping out and on a first jump; repeats a Lutz take-off, improving by watching; lands a backflip at the first attempt after one demonstration | None | Sonidori's wonder; Yodaka: he knows he is rare | EV-0031/0034/0036; no multi-rotation jump shown landed |
+| MD-PERF-0055 | MD-CHAR-0001 / a park at night, before the block | A rotation jump on the ground, filmed, to test what he will teach | None | "It turns just by shifting" | EV-0014; flashback; off the ice |
+| MD-PERF-0056 | MD-CHAR-0037 / designated practice, run-through | Junior program with high jumps and a deep backward-leaning spread eagle | None | Novices' awe; her coach's approval | EV-0044 |
+| MD-PERF-0057 | MD-CHAR-0010 / designated practice | Triple Axel landed | None | Inori: she is extraordinary in fact | EV-0045 |
+| MD-PERF-0058 | MD-CHAR-0035 and other qualifiers / designated practice | Yūna: triple Lutz and triple loop landed, called stable by a rival coach. Rinna, Manaka: triple Lutz landed. Main: nearly | None | "The block is not everything" | EV-0045 |
+| MD-PERF-0059 | MD-CHAR-0004 / designated practice | An unnamed triple fallen four times; then continuous skating for the rest of the session | None | Coach: the timing is improving | EV-0046/0047 |
+
+| Technical transition | Athlete / coach / known after | Skill / prior limit / intervention / outcome | Channel / physical constraints / risk | Performance / evidence / claim version | Confidence / counterevidence / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-SK-0034 | Inori / Tsukasa / Score 20 | A triple loop acquired in the two months after the camp and placed first; her hardest jump | DEPICTED_PERFORMANCE; ATTRIBUTED inference that she has nothing harder | MD-PERF-0051; EV-0005; MD-CL-0008@5 | HIGH for the landing; how it was acquired is not shown |
+| MD-SK-0035 | Inori / Tsukasa / Score 20 | Execution marks pursued on every element in place of added difficulty; said to be a senior's strategy; made possible by a practice allocation weighted to skating and steps under a coach from ice dance | IN_UNIVERSE_STATEMENT of the rules; ATTRIBUTED appraisal by Sekoma, Rio and a rival assistant; DEPICTED_PERFORMANCE | MD-PERF-0051; EV-0005/0006/0007/0008; MD-CL-0008@5/0004@5 | HIGH that this is the stated mechanism; component marks never shown; by Rio the method is hard to bear |
+| MD-SK-0036 | Inori / Tsukasa / Score 20 | The closing pass built as double Axel, Euler and triple Salchow in the bonus zone, on a jump with a perfect landing record in her coach's logs across recorded conditions | DEPICTED_PERFORMANCE; the record is a practice record tabulated by the coach; earlier shin pain appears as one variable | MD-PERF-0051; EV-0012/0013/0014; MD-CL-0007@6/0004@5 | HIGH for the outcome; the warrant is an induction; rival coaches judged the choice extreme |
+| MD-SK-0037 | Inori / Tsukasa / Score 23 | No triple flip or triple Lutz landed in any setting shown; four falls at the designated practice; a jump specialist engaged | DEPICTED_PERFORMANCE; ATTRIBUTED estimate by Gori (zero percent against a rival's thirty to forty); IN_UNIVERSE_STATEMENT that a Lutz is the condition for a national podium; she then skates a session without stopping | MD-PERF-0059; EV-0023/0046/0047/0049; MD-CL-0008@5/0019@4 | HIGH for the absence; the percentages are a rival's schematic |
+| MD-SK-0038 | Tsukasa / stated to Inori / Score 23 | A three-stage model of a new jump: land it once; raise the rate until it can enter a layout; then make it a combination or earn execution marks | IN_UNIVERSE_STATEMENT, with stated values (triple Axel 8.0; her closing combination 8.1) | EV-0049; MD-CL-0004@5/0013@6 | HIGH as his statement |
+| MD-SK-0039 | Tsukasa / by watching Yodaka and Sonidori / Score 22 | A singles Lutz take-off improved within one session; a backflip reproduced from one demonstration | DEPICTED_PERFORMANCE; dance-trained body in singles boots; falls | MD-PERF-0054; EV-0034/0036; MD-CL-0004@5 | HIGH that it is shown; what he can transmit of it is untested |
+| MD-SK-0040 | Yūna / Sonidori / Scores 21 and 23 | The triple Lutz and triple loop, landed once in competition with errors after it, is stable in practice a week later; her coach commits to a layout built round it | DEPICTED_PERFORMANCE; ATTRIBUTED appraisal by Gori | MD-PERF-0058; EV-0022/0045; MD-CL-0024@2 | HIGH for practice; the new layout is not shown |
+
+The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V06`: Inori's competition-proven triples are loop, Salchow and toe loop, with a double Axel, Euler and triple Salchow combination; she is regional champion at 81.20 by a clean program; she has no triple flip or Lutz. Field frontier shown: a triple Axel by Hikaru in practice; a stable triple Lutz and triple loop by Yūna; triple Lutzes by two further qualifiers.

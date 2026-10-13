@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.4"
+version: "1.5"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V05 closed (Scores 1–19, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V06 closed (Scores 1–23, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V05_UPDATE"
+review_status: "AUTHOR_REVIEWED_V06_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -243,3 +243,51 @@ New proposition keys: MD-PROP-0017 why Hikaru is absent and where she is; MD-PRO
 | MD-RT-0026 | EV-0031, Score 19 | V04:EV-0046 Sonidori as father and coach | His first pupil was not his son; Rio began early because of her | — | No revision; HIGH |
 | MD-RT-0027 | EV-0021/0037, Scores 18–19 | V02's improvised broken-leg spin (MD-PERF-0011) and Hikaru's triple Lutz and triple loop there (MD-PERF-0013) | What was an improvisation at beginner grade is a catalogued level feature at Novice A; the combination shown without comment in V02 is now explained as the rarity that made her name | — | No revision; HIGH |
 | MD-RT-0028 | EV-0010, Score 16 | V01:EV-0018 her stated Olympic aim | An Olympian tells her the road has institutionally begun at Novice A | — | MD-RV-0044; HIGH |
+
+## V06 evidence tables
+
+All records below are version 1 through `MD-FR-V06`. In this section `EV-####` expands to the [V06 reading's](../02%20Sequential%20Readings/MEDALIST_V06_DEEP_READING.md#canonical-observations) `MD-EV-V06-####`; earlier volumes are written with their volume prefix. No calendar year is inferred. Earlier tables are unchanged.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0045 | Block day continued and its night: Inori's free skate, the result, the locker rooms, a coaches' dinner, the bridge, the Sonidori house, a booked session at the competition rink | Scores 20–22 / PRESENT | EV-0002–0028, 0030–0040 | The closing captions of Score 22 are unplaced in time | HIGH; continues MD-TM-0035 |
+| MD-TM-0046 | Before the block: Tsukasa tests a jump on the ground and films it; studies and re-tabulates her practice logs | Score 20 / FLASHBACK | Tsukasa; EV-0014 | Relative to the night of V05:EV-0012, not fixed; the logs span the months since she learned the Salchow | HIGH that it precedes the block |
+| MD-TM-0047 | Tsukasa in middle school: sees Yodaka on television; public sessions on rental skates; imitation from video and books | Score 22 / FLASHBACK in his narration | Tsukasa; EV-0029 | — | HIGH; confirms MD-TM-0013 and refines MD-TM-0001 ("from fourteen") |
+| MD-TM-0048 | Tsukasa's competitive span: began in earnest at twenty; entered competitions in the seasons at twenty-three and twenty-four; then tried for an ice-show cast | Score 22 / report at second hand | Sonidori citing Hitomi; EV-0035 | Consistent with the All-Japan appearance and with the failed audition two years on at twenty-six (MD-TM-0002) | HIGH as reported; MD-CL-0010@6 |
+| MD-TM-0049 | Yodaka: retires at twenty, with a press conference; cannot settle to life off the ice; receives a request to coach with private ice attached; writes to Sonidori; brings the child to his door; recently abroad and back | Scores 21–22 / FLASHBACK images and report | Yodaka, Sonidori, Hikaru; EV-0027/0030/0033/0035 | Order of the request and the letter is implied, not stated; "five years ago" for his first sight of the child stands (MD-TM-0015) | MODERATE order, HIGH content as reported; MD-CL-0016@5 |
+| MD-TM-0050 | Inori's early childhood: watches Mika in a local ice show; Mika breaks a bone in jump practice and stops; a recurring dream of the kiss-and-cry; her mother takes her to 名城クラウン and she is refused | Scores 20, 21 and 23 / MEMORY and a third party's recollection | Inori, Mika, mother, Senba; EV-0008/0019/0047 | Order among these is not fixed; all precede her skating with Sekoma at seven or lie near it | HIGH content, LOW order; refines MD-TM-0003/0011 |
+| MD-TM-0051 | Yūna's club: six leave at once after Hikaru's arrival and a seventh nearly follows; last year Yūna is fifth at this event | Score 21 / SELF_REPORT | Yotsuha, Yūna; EV-0022 | — | HIGH as stated; extends MD-TM-0042 |
+| MD-TM-0052 | A week after the block: the designated practice, at night | Score 23 / PRESENT | EV-0042–0048 | — | HIGH |
+| MD-TM-0053 | The next day: she counts about two weeks to the All-Japan; a jump specialist arrives | Score 23 / PRESENT | EV-0049 | Her arithmetic is shown; the dates are not legible | HIGH for "next day"; MODERATE for the interval |
+| MD-TM-0054 | Forward markers: the All-Japan Novice "next month" from block night; Iruka's Junior Grand Prix event the week after the practice; three qualifiers enter junior next year | Scores 21 and 23 / character statements | EV-0023/0039/0044 | — | HIGH as stated |
+
+By the editorial page Yodaka's verdict at the first 名港杯 was "last summer", so the mainline from V02 to this endpoint spans about fifteen months (EV-0001).
+
+New proposition keys: MD-PROP-0021 what Tsukasa's declaration rested on and what the gold was for; MD-PROP-0022 that Tsukasa and Yodaka had met and clashed; MD-PROP-0023 that Mika's skating ended in injury and that the mother sought a refusal; MD-PROP-0024 what Yodaka intends for Hikaru.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0051 | PROP-0021 / the rival coaches | Block day | UNKNOWN; they infer that only a conviction of complete success could justify the layout; a week later one concludes the coach overlooked its cost | Their appraisal names the risk without knowing the warrant or the purpose | EV-0013/0046; HIGH |
+| MD-KN-0052 | PROP-0021 / Sonidori | Night of the block | INFERRED that the layout aimed at gold alone; TOLD the reason | He is the first to hear it | EV-0025; HIGH |
+| MD-KN-0053 | PROP-0021 / Inori | Before her skate; then the day after the practice | TOLD before skating only that he was confident and believed; TOLD more than a week later that the deficit was foreseen at the camp and that support was the aim | She skated the layout without knowing what it was to buy | EV-0003/0049; HIGH |
+| MD-KN-0054 | PROP-0007 / the regional coaches, including Sonidori's assistant | Night of the block | UNKNOWN that Yodaka coaches Hikaru | Tsukasa stays silent at the table | EV-0024; HIGH |
+| MD-KN-0055 | That Tsukasa knows PROP-0007 / Sonidori | Night of the block | INFERRED from his answer and his silence; confirmed by his reaction | Leads to the disclosures that follow | EV-0026; HIGH |
+| MD-KN-0056 | PROP-0022 / Sonidori | Night of the block | UNKNOWN; he introduces the two as strangers | He brings together two men with a history | EV-0030; HIGH |
+| MD-KN-0057 | PROP-0022 / Yodaka | Night of the block | KNOWN: "I remember you" | His offer and his challenge are made to a known opponent | EV-0037; HIGH |
+| MD-KN-0058 | PROP-0024 / Tsukasa, with Sonidori present | Night of the block | TOLD by Yodaka: gold at every competition for life | Reframes the V02 verdict as a programme | EV-0038; HIGH wording |
+| MD-KN-0059 | PROP-0024 / Hikaru | Through V06 | NOT SHOWN whether she knows | Her conduct toward Inori cannot be read against it | No V06 evidence; HIGH for the absence |
+| MD-KN-0060 | PROP-0023 / Inori; Senba and Ryūgū; Iruka and Main | Block day and the practice | Inori KNOWN from memory; the coaches KNOW her as Mika's sister and one knows the refusal; Iruka and Main KNOW Mika as a skater | A family history is common knowledge in the regional sport and new to the reader | EV-0008/0047/0048; HIGH |
+| MD-KN-0061 | PROP-0015 / Tsukasa | Through V06 | Still UNKNOWN that she hurried in V04 to shield him | Unchanged from MD-KN-0048 | No V06 evidence of disclosure; HIGH for the absence |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0029 | EV-0003/0014/0025, Scores 20–21 | V05:EV-0041 the declaration; MD-CL-0007@5 | The sentence was chosen, hedged in the minutes before, backed by a tested layout and aimed at support | A safer layout would have qualified her | MD-RV-0062; HIGH |
+| MD-RT-0030 | EV-0029, Score 22 | V04:EV-0025 and the inference that he formed his skating by eye from Yodaka; MD-CL-0004@4 | The inference is narrated as fact | — | MD-RV-0060; HIGH |
+| MD-RT-0031 | EV-0029, Score 22 | V01:EV-0007 his words to the child with the manual | What he gave her unasked is what he had wanted said to him | His V01 denial of coaching to soothe regret is not withdrawn | MD-RV-0064; HIGH for the parallel |
+| MD-RT-0032 | EV-0038, Score 22 | V02:EV-0028 Yodaka's verdict on Inori; MD-CL-0016@1 | The verdict follows from a design for Hikaru and was never an estimate of Inori | He also calls Inori's goal reckless in itself | MD-RV-0070; HIGH |
+| MD-RT-0033 | EV-0033/0035, Score 22 | V03:EV-0046 Rio's taunt that he ran from skating; MD-CL-0016@2 | By a friend's account he could not leave it | Hearsay; his own reason for retiring is withheld | MD-RV-0070; MODERATE |
+| MD-RT-0034 | EV-0008/0047, Scores 20 and 23 | V01:EV-0006 the mother's opposition; V03:EV-0008 "I knew this happens" | The opposition followed an elder daughter's injury and once took the form of seeking a refusal | The mother's account is not given | MD-RV-0068; HIGH for the facts as recalled |
+| MD-RT-0035 | EV-0027/0033, Scores 21–22 | V04:EV-0023 "a special promise" | Its terms on Sonidori's side and, by report, on Yodaka's | The party who approached Yodaka is unnamed | MD-RV-0070; HIGH that it was said |
+| MD-RT-0036 | EV-0020/0021, Score 21 | V05:EV-0034 and the partial standings at MD-FR-V05 | Three unprinted scores, the fifth-place mark and one family name's reading are supplied | — | MD-RV-0067; HIGH |
+| MD-RT-0037 | EV-0037, Score 22 | The V02 record that his eye had to be pointed out to him (MD-PROP-0010) | A hostile expert infers that he knows his ability is rare | One observer's inference from a calm face | No revision; MODERATE |
+| MD-RT-0038 | EV-0041, profile | V05:EV-0037 "the strength to make him turn round"; MD-CL-0001@5 | The want is given a romantic colouring by an editorial statement | Not on a story page | MD-RV-0057; MODERATE |
