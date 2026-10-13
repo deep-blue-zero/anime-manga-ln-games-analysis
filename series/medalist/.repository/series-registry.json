@@ -8,9 +8,9 @@
   "repository_path": "series/medalist/",
   "canonical_entrypoint": "series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md",
   "canonical_entrypoint_status": "PRESENT_VERIFIED",
-  "materialization_status": "PRESENT_UNREVIEWED",
+  "materialization_status": "PRESENT_REVIEWED",
   "migration_scope": "GIT_NATIVE_POST_CUTOVER_MEDALIST_BOOTSTRAP_20261011",
   "authority_status": "GIT_PRIMARY",
   "project_initiation_gate": "REQUIRED",
-  "catalog_note": "Japanese manga-primary INITIAL architecture awaiting owner review; sequential-analysis lock CLOSED. Seven cumulative schemas initialized with zero narrative findings/readings. Visible source metadata and unresolved source/admission boundaries are recorded in the canonical entrypoint."
+  "catalog_note": "Owner-approved Japanese manga-primary foundation; V01 delivered witness admitted and single-operation analysis authorized. OPEN initiation gate, zero closed readings at activation; fanbooks and later sources remain unadmitted."
 }

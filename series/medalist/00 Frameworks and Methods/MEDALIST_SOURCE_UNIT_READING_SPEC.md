@@ -5,14 +5,15 @@ artifact_type: "source_unit_reading_specification"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.2"
-status: "active_provisional"
+version: "0.3"
+status: "canonical"
 scope: "Reusable prospective source-unit transaction and completion contract"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_UNIT_READING_SPEC.md"
-source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
+source_boundary: "Owner-approved foundation; Japanese V01 witness admitted as delivered; zero closed readings at activation"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "OWNER_REVIEW_PENDING"
+review_status: "OWNER_APPROVED_FOUNDATION_0.2"
+foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -22,7 +23,7 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 
 # Source-unit reading specification
 
-This specification defines future transaction outputs under the [method](MEDALIST_ANALYTICAL_METHOD.md) and [architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md). It is not a V01 reading or a populated template. No sequential artifact exists at bootstrap.
+This owner-approved specification defines transaction outputs under the [method](MEDALIST_ANALYTICAL_METHOD.md) and [architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md). It is not a V01 reading or a populated template. No sequential artifact exists at bootstrap.
 
 ## Identity and admission
 
@@ -71,4 +72,4 @@ Fanbook observations use `MD-EV-FB01-####` or `MD-EV-FB02-####`; completed full-
 
 Close one unit atomically: write the reading, update every materially affected ledger, source status and entrypoint, verify all named claims/locators, then validate and persist under the integration checklist. Partial inspection records the exact high-water mark within the unit but cannot advance the completed sequential boundary. Publication remains subject to source audit, housekeeping and final exact-head integration audit.
 
-Default future execution is `single_operation`. A continuous run requires a recoverable owner-authorized terminal boundary and independently closed/frozen units. After interruption, retrieve actual branch/head, entrypoint, last closed freeze, pending candidate and audit state before resuming. Later-source access is never evidence that an unfinished earlier unit completed. Current bootstrap: zero completed readings; no narrative admission; `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`.
+Default future execution is `single_operation`. A continuous run requires a recoverable owner-authorized terminal boundary and independently closed/frozen units. After interruption, retrieve actual branch/head, entrypoint, last closed freeze, pending candidate and audit state before resuming. Later-source access is never evidence that an unfinished earlier unit completed. Historical bootstrap: zero completed readings and CLOSED lock. Current activation: owner-authorized V01 witness admitted, zero completed readings, OPEN initiation gate and single-operation V01 scope; the entrypoint owns live progress.

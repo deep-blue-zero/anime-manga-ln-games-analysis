@@ -5,14 +5,15 @@ artifact_type: "current_state_corpus_map"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.2"
-status: "active_provisional"
+version: "0.3"
+status: "canonical"
 scope: "Single project entrypoint, initiation state, current authority and next permitted operation"
 canonical_home: "series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md"
-source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
+source_boundary: "Owner-approved foundation; Japanese V01 witness admitted as delivered; zero closed readings at activation"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "OWNER_REVIEW_PENDING"
+review_status: "OWNER_APPROVED_FOUNDATION_0.2"
+foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -22,27 +23,27 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 
 # Medalist — current state and corpus map
 
-Start here for `series/medalist/`, the continuing Japanese manga project for メダリスト by つるまいかだ. Branch: `series/medalist`. This **INITIAL**, **active_provisional** foundation is prepared for owner review. No method, architecture or character conclusion is claimed owner-approved/canonically promoted.
+Start here for `series/medalist/`, the continuing Japanese manga project for メダリスト by つるまいかだ. Branch: `series/medalist`. The owner approved the revised version-0.2 foundation and authorized a single complete V01 reading. Current governing homes are canonical; lifecycle is INITIAL at activation. Approval of the method/schema does not pre-approve new character or interpretive conclusions.
 
-**SEQUENTIAL_ANALYSIS_LOCK = CLOSED**
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN**
 
-**Next permitted operation: owner review of this architecture and explicit approval or revision before any sequential unlock.** Metadata/source authentication may be prepared while CLOSED within separately authorized scope; it is not a manga reading. Japanese V01 source access and admission must be resolved before V01 can begin.
+**Next permitted operation: complete the owner-authorized Japanese V01 deep-reading transaction.** Delivered-witness integrity, local image access and Japanese inspection have been verified; the book's chapter/component map is completed during this reading. Scope is V01 only. V02, fanbooks and adaptation remain unauthorized.
 
 ## Recoverable project initialization
 
 ```yaml
 project_initialization:
-  status: active_provisional
+  status: canonical
   bootstrap_generation: MEDALIST_BOOTSTRAP_V1
   base_origin_main: "238fed779661f6a5a49d6a70034a6183d17ca175"
   architecture_lifecycle: INITIAL
   governing_method: "00 Frameworks and Methods/MEDALIST_ANALYTICAL_METHOD.md"
   synthesis_architecture: "00 Frameworks and Methods/MEDALIST_SYNTHESIS_ARCHITECTURE.md"
-  method_status: active_provisional
-  architecture_status: active_provisional
+  method_status: canonical
+  architecture_status: canonical
   source_reconnaissance_complete: true
   source_reconnaissance_status: "METADATA_AND_PUBLICATION_RECONNAISSANCE_COMPLETE_WITH_EXPLICIT_GAPS"
-  source_authentication_status: NOT_PERFORMED
+  source_authentication_status: V01_DELIVERED_WITNESS_INTEGRITY_VERIFIED_PRINTING_MAP_PENDING
   required_ledgers_initialized: true
   required_day_one_infrastructure:
     - "03 Longitudinal Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
@@ -54,18 +55,18 @@ project_initialization:
     - "03 Longitudinal Ledgers/MEDALIST_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md"
   substantive_sequential_findings_at_bootstrap: false
   completed_sequential_readings: 0
-  owner_review_state: PENDING
-  sequential_analysis_lock: CLOSED
-  lock_reason: OWNER_BOOTSTRAP_REVIEW_AND_APPROVAL_PENDING
-  next_permitted_operation: "Owner architecture review; explicit approval or revision before sequential unlock"
+  owner_review_state: APPROVED_REVISED_FOUNDATION_0_2
+  sequential_analysis_lock: OPEN
+  lock_reason: OWNER_APPROVED_FOUNDATION_AND_AUTHORIZED_V01
+  next_permitted_operation: "Complete authorized V01 only: source reading, ledger updates, exit freeze and publication"
 sequential_execution:
   mode: single_operation
   unit_type: japanese_tankobon_volume
-  authorized_start: null
-  terminal_boundary: null
+  authorized_start: V01
+  terminal_boundary: V01
   committed_high_water_mark: null
   next_candidate_operation: V01
-  run_state: NOT_AUTHORIZED
+  run_state: ACTIVE
 supplemental_execution:
   scheduled_units: [FB01, FB02]
   admission_positions_status: HOLD_COVERAGE_UNVERIFIED
@@ -75,7 +76,7 @@ supplemental_execution:
   run_state: NOT_AUTHORIZED
 ```
 
-Preliminary reconnaissance is sufficient for design; the true source gaps below remain unresolved. The seven day-one instruments exist with schemas and **zero evidence rows**. This is foundation completion, not satisfaction of owner approval, source admission or an OPEN gate. No `02 Sequential Readings/` directory/reading exists.
+Preliminary reconnaissance is sufficient for design; the true source gaps below remain unresolved. The seven day-one instruments exist with schemas and **zero evidence rows**. The owner approval and delivered V01 admission are now recorded; the OPEN gate and ACTIVE operation are limited to V01. No evidence row or completed reading exists at activation. No `02 Sequential Readings/` directory/reading exists.
 
 ## Governing route
 
@@ -91,9 +92,9 @@ Preliminary reconnaissance is sufficient for design; the true source gaps below 
 | Boundary | Current fact |
 | --- | --- |
 | Inventory | Drive snapshot: Japanese V13–V15 and English V01–V12; local addendum: Japanese V01–V15 containers plus Official Fanbook 01/02, filenames/sizes only |
-| Structurally verified / admitted / narratively inspected / closed | 0 / 0 / 0 / 0 |
+| Structurally verified / admitted / narratively inspected / closed | 1 delivered witness / 1 V01 / incidental partial V01 exposure / 0 |
 | Planned primary sequence | Japanese V01 onward, one authenticated volume per transaction |
-| First-source route | Owner-supplied local V01–V12 candidates now visible; authentication, derivative/source relation, coverage and admission still pending |
+| First-source route | V01 delivered CBZ integrity verified and admitted with original-image locators; printing/complete chapter map pending reading; V02–V12 remain candidates |
 | Supplemental source positions | FB01/FB02 inventory-visible; each coverage boundary and admit_after null/unverified; zero completed fanbook audits |
 | Public collected record | V15 latest identified by official publisher records at reconnaissance |
 | Public serialized record | Score 61 listing dated 2026-06-25; full magazine ceiling unresolved |
@@ -120,15 +121,17 @@ Each home defines stable record IDs, trigger, evidence/confidence, links and his
 
 ## Authority, execution and owner-review decisions
 
-All authored Markdown is `active_provisional` with complete authority metadata. The local [.repository descriptor](.repository/series-registry.json) declares `project_initiation_gate: REQUIRED`, `PRESENT_VERIFIED` entrypoint structure and `PRESENT_UNREVIEWED` materialization. Housekeeping owns global routing; the author does not edit global series/corpus or character outputs. Branch publication and main integration do not constitute owner architectural approval.
+Current governing Markdown is canonical with complete authority metadata and OWNER_APPROVED_FOUNDATION_0.2 review. The bootstrap receipt preserves its historical provisional snapshot; new source findings require their own evidence/confidence and author review. The local [.repository descriptor](.repository/series-registry.json) declares `project_initiation_gate: REQUIRED`, `PRESENT_VERIFIED` entrypoint structure and `PRESENT_REVIEWED` foundation materialization. Housekeeping owns global routing; the author does not edit global series/corpus or character outputs. Branch publication and main integration do not constitute owner architectural approval.
 
-Owner review should settle the volume transaction with whole-Score serial exceptions, seven-home design/combined character-readiness responsibility, preservation of original prospective freezes, four-channel sport evidence, conditional specialist/model gates, fanbook source classification/checkpoint/reconciliation rules and deferred AV scope. Recommended defaults are specified in the architecture and receipt. An explicit later acceptance transaction can promote appropriate artifacts and open the lock only after all applicable initiation requirements; approving the design does not authenticate or admit a filename-visible Japanese V01.
+The owner has accepted those version-0.2 design choices: collected-volume transactions with bounded serial exceptions, seven cumulative homes, historical freezes, four-channel skating evidence, separate readiness gates, fanbook checkpoints and deferred adaptation. The [V01 authorization/source receipt](07%20Audits%20and%20Handoffs/MEDALIST_V01_AUTHORIZATION_AND_SOURCE_RECEIPT.md) records direct approval, delivered-witness checks, incidental exposure and V01-only execution. No later reading follows automatically from this approval.
 
-Preferred future topology is staged: local primary reading/ledgers; fresh cloud substantial synthesis at a pinned boundary; local required evidence completion, reconciliation and authorized Git publication. Shared capability state at bootstrap: Drive/Git metadata retrieval verified; source bytes/container/page/Japanese text inspection not exercised; audio/continuous AV not exercised. Source availability and actual perception must be checked per stage. No literal model/effort or account allowance is inferred.
+Preferred future topology is staged: local primary reading/ledgers; fresh cloud substantial synthesis at a pinned boundary; local required evidence completion, reconciliation and authorized Git publication. Historical bootstrap capability state was metadata-only. V01 now verifies local bytes/container decoding and actual original-image/Japanese text inspection; audio/continuous AV remain unexercised. Source availability and actual perception must be checked per stage. No literal model/effort or account allowance is inferred.
 
 ## Architecture revision record
 
 2026-10-12, version 0.2: incorporated the owner-selected COTE guidebook pattern into the method, architecture, source map, reading specification and reconstruction contract; recorded newly observed local source filenames. Kept the seven ledgers and historical bootstrap receipt unchanged. No source contents admitted/inspected, no readings completed and no owner approval inferred. The original bootstrap is now present on main through reviewed PR #155 (`4a3a9cb5422ff5e817fff1603ef61c5d428e6a23`); that publication does not open the analytical lock. This amendment's commit and exact-head audits remain externally recoverable through Git history/status.
+
+2026-10-12, version 0.3: owner approved the revised foundation and authorized V01 only; current governing homes promoted, OPEN recorded after delivered-witness verification, seven ledger schemas retained empty at activation. Structural inspection exposed the opening prologue and jacket gags; that exposure is explicitly retained.
 
 ## Higher-level governing controls
 

@@ -5,14 +5,15 @@ artifact_type: "synthesis_architecture"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.2"
-status: "active_provisional"
+version: "0.3"
+status: "canonical"
 scope: "Accumulation model, canonical responsibilities, promotion, convergence and completion"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SYNTHESIS_ARCHITECTURE.md"
-source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
+source_boundary: "Owner-approved foundation; Japanese V01 witness admitted as delivered; zero closed readings at activation"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "OWNER_REVIEW_PENDING"
+review_status: "OWNER_APPROVED_FOUNDATION_0.2"
+foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -22,7 +23,7 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 
 # Synthesis and corpus architecture
 
-This architecture defines what the prospective manga readings build. The [method](MEDALIST_ANALYTICAL_METHOD.md) governs how evidence is judged. Generation `MEDALIST_BOOTSTRAP_V1` begins at lifecycle **INITIAL** with **active_provisional** authority, pending owner review, zero narrative findings and no predecessor architecture superseded. `canonical_home` identifies the sole intended home; it does not claim owner approval or promotion to canonical status.
+This architecture defines what the prospective manga readings build. The [method](MEDALIST_ANALYTICAL_METHOD.md) governs how evidence is judged. Generation `MEDALIST_BOOTSTRAP_V1` began at lifecycle INITIAL with provisional authority and zero narrative findings. The owner has now approved the revised version-0.2 foundation; this is its canonical governing home. Lifecycle remains INITIAL at V01 activation, with no predecessor architecture superseded and no completed reading yet.
 
 Higher-level authority is the live Git epoch/scope, initiation policy, authority/supersession policy, reasoning/capability and long-series policies, handoff/continuation contracts, source boundaries and repository checklist. [The current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) links those controls and is the only first-read project surface.
 
@@ -72,7 +73,7 @@ The frozen exit state stores the claim and domain-row versions actually in force
 
 One volume is a transaction, not merely one prose file. Internal processing chunks do not grant later evidence. V01 begins with no narrative findings. A partial volume never advances the completed boundary. For magazine-only material, verify exact chapter identity/placement and complete delivery first; the method permits a whole Score transaction without inventing a collected-volume boundary.
 
-The continuation policy defaults future requests to `single_operation`; a bounded continuous run needs owner authorization and individually closed transactions. Next-candidate metadata does not authorize a reading. The bootstrap leaves `SEQUENTIAL_ANALYSIS_LOCK = CLOSED` and owner review as the next permitted operation.
+The continuation policy defaults future requests to `single_operation`; a bounded continuous run needs owner authorization and individually closed transactions. Next-candidate metadata does not authorize a reading. The historical bootstrap left `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`. Owner approval and V01 source verification now permit the entrypoint to record OPEN for one V01 transaction. An OPEN project gate does not authorize later volumes or supplements.
 
 ## Fanbook admission checkpoints
 
@@ -171,3 +172,5 @@ Current entrypoint and projections remain mutable through targeted edits. Comple
 Version 0.1: INITIAL bootstrap; seven schemas and five governing specifications; owner review pending; zero admitted or completed narrative units.
 
 Version 0.2 (2026-10-12): owner-directed COTE supplement precedent incorporated; fanbook source layers, independent audit/freeze, verified-boundary scheduling and synthesis reconciliation defined across method, source map, reading/reconstruction contracts and entrypoint. Local source filenames recorded separately from the earlier Drive snapshot. Seven ledger schemas and the historical bootstrap receipt are unchanged; no narrative evidence admitted, owner review remains pending and the lock remains CLOSED.
+
+Version 0.3 (2026-10-12): owner accepted the revised foundation and authorized V01 only. Current governing homes promoted to canonical; seven initialized ledger schemas retained without evidence rows at activation. Exact delivered V01 witness, exclusions, capability probe and initial exposure are recorded in the authorization/source receipt.

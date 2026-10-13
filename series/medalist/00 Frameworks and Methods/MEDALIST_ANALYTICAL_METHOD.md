@@ -5,14 +5,15 @@ artifact_type: "analytical_method"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.2"
-status: "active_provisional"
+version: "0.3"
+status: "canonical"
 scope: "Primary-source observation, interpretation, prospective state and evidence standards"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_ANALYTICAL_METHOD.md"
-source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
+source_boundary: "Owner-approved foundation; Japanese V01 witness admitted as delivered; zero closed readings at activation"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "OWNER_REVIEW_PENDING"
+review_status: "OWNER_APPROVED_FOUNDATION_0.2"
+foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -22,7 +23,7 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 
 # Analytical method
 
-This method decides how to observe and judge the Japanese manga by Tsurumaikada. The [synthesis architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md) allocates accumulated results; the [reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) defines transaction closure. This is an `INITIAL`, `active_provisional` foundation awaiting owner review. It establishes no narrative conclusions and authorizes no manga reading.
+This method decides how to observe and judge the Japanese manga by Tsurumaikada. The [synthesis architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md) allocates accumulated results; the [reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) defines transaction closure. The owner approved the revised version-0.2 foundation and authorized one complete V01 transaction. This canonical governing method retains the INITIAL design until the first evidence-driven architecture review; it does not authorize V02, fanbooks or adaptation sources. Source claims and the historical bootstrap remain distinct from this foundation approval.
 
 ## Witness hierarchy and scope
 
@@ -113,4 +114,4 @@ Follow the source map's locator contract: immutable witness key + volume + verif
 
 Before harmonizing an apparent contradiction, test time, perspective, incomplete knowledge, deception, remembered versus shown events, edition revision, localization and adaptation differences, paratext scope and genuine inconsistency. Register competing accounts when no test settles them. Material changes use `PRESERVE / STRENGTHEN / REVISE / DOWNGRADE / REJECT / OPEN` in the claims ledger.
 
-A reading completes only when full admitted coverage, claims/counterevidence, affected ledgers, readiness implications, locators, prediction adjudication and frozen exit state are consistent and the repository transaction closes. [The reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) supplies the reusable contract. Missing primary access holds the affected reading unavailable; summaries and later witnesses cannot repair it. The sequential lock remains CLOSED until explicit owner approval and all applicable initiation/admission requirements.
+A reading completes only when full admitted coverage, claims/counterevidence, affected ledgers, readiness implications, locators, prediction adjudication and frozen exit state are consistent and the repository transaction closes. [The reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) supplies the reusable contract. Missing primary access holds the affected reading unavailable; summaries and later witnesses cannot repair it. The entrypoint now records an OPEN initiation gate and a single-operation V01 authorization after owner approval and source verification. Each later source still requires its own authorization; completed local truth and current ledger interpretation remain separately recoverable.

@@ -5,14 +5,15 @@ artifact_type: "source_inventory"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.2"
-status: "active_provisional"
+version: "0.3"
+status: "canonical"
 scope: "Evidence-plane routing, source identity, admission stages, locators and publication boundary"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_AND_SCOPE_MAP.md"
-source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
+source_boundary: "Owner-approved foundation; Japanese V01 witness admitted as delivered; zero closed readings at activation"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "OWNER_REVIEW_PENDING"
+review_status: "OWNER_APPROVED_FOUNDATION_0.2"
+foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -22,7 +23,7 @@ recommended_reasoning_class: "BOUNDED_STANDARD"
 
 # Source and scope map
 
-This is the canonical source-identity and scope record. It does not interpret the manga. Reconnaissance date: **2026-10-11, America/New_York**; provider timestamps may read 2026-10-12 UTC. Only metadata and public publication records were inspected. No source EPUB/CBZ was downloaded, authenticated or narratively opened.
+This is the canonical source-identity and scope record. It does not interpret the manga. Reconnaissance date: **2026-10-11, America/New_York**; provider timestamps may read 2026-10-12 UTC. That historical snapshot inspected only metadata and public publication records; no source EPUB/CBZ was authenticated or narratively opened then. The current V01 admission below is a separate, later operation.
 
 ## Canonical routes and duplicate-root check
 
@@ -84,6 +85,16 @@ This resolves the location/visibility gap for Japanese V01–V12, not their auth
 
 Before advancing either row, record exact witness/hash and edition, actual component/spine/page ranges, attribution and source layer, continuity, coverage endpoint and its verification basis, analytical reading position, entering manga-only freeze, authorized includes/excludes, actual access limitations, completed audit/freeze and publication receipt. Scope-dependent subsets have their own disposition and do not close the whole-book row. Authentication and component mapping may be prepared early; substantive admission follows the architecture checkpoint and owner gate. Book number, release date and the current V15 publication lead do not supply the missing cutoffs.
 
+## V01 admitted delivered witness
+
+Owner authorization: "I approve the revised foundation. Begin analysis/deep reading of Volume 1." Admission key `MD-MG-JP-TB-V001-W01`, local route `MD-LOCAL-001`, exact filename `Medalist - Volume 01 [Japanese].cbz`, **130,779,405 bytes**, SHA-256 **`df9a4c1c4fd3cb04313e42af5a26781e96c74652e315bbfda6b7d9a7d68ba0fe`**. The archive has 293 ordered image entries plus builder-generated ComicInfo.xml. The current run independently verified full ZIP CRC, decoded every image, and matched every original image hash/order against the retained build manifest. These are delivered-witness integrity claims, not a claim that the unofficial scan is identical to a publisher digital edition.
+
+The cover identifies Japanese Medalist Volume 1, つるまいかだ and AFTERNOON KC. The opening image 0004 identifies Score 1, 氷上の天才. Printing/colophon, exact printed pagination and the complete Score map remain pending direct mapping during the authorized volume reading; no absent data is invented. Archive image numbers are the governing locators. The padded wide cover is not automatically a double-page narrative spread. Page softness and a non-authorial site watermark are inspection limitations.
+
+The bounded candidate evidence set is image **0001–0233**, with main narrative and the book's own extras/paratext to be classified separately. Image **0234** was directly inspected only to confirm the unrelated Wandance first-chapter preview boundary; **0234–0293 are excluded** from Medalist evidence. No later Medalist volume, fanbook, adaptation or English translation is admitted. Internal component/Score mapping is part of the V01 transaction and will be frozen at closure.
+
+Capability probe: actual full-resolution local page-image inspection and readable Japanese text are available. During source/component verification, opening story images **0003–0004** and jacket gag images **0232–0233** were displayed before the OPEN record; preserve this incidental exposure, do not claim a blind entering reader or complete reading. Entering manga claims, predictions and character/ledger states remain empty. The [authorization/source receipt](../07%20Audits%20and%20Handoffs/MEDALIST_V01_AUTHORIZATION_AND_SOURCE_RECEIPT.md) preserves the activation snapshot; private source pages and full byte/locator manifests remain outside Git.
+
 ## Publication reconnaissance, with separate confidence
 
 | Record | Observation and source | Boundary that remains unverified |
@@ -106,9 +117,9 @@ For each admitted object record ID/provider revision where exposed; verified vol
 | Dimension | Current state | Evidence required for advancement |
 | --- | --- | --- |
 | Inventory visible | Drive snapshot: 3 JP EPUB + 12 EN CBZ; local addendum: 18 JP volume containers + 2 JP fanbooks, not deduplicated across surfaces | Metadata listing; does not authenticate contents or prove witness equivalence. |
-| Structurally verified | 0 | Actual container/metadata/image order and integrity checks with recoverable receipt. |
-| Admitted for analysis | 0 | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
-| Narratively inspected | 0 | Actual source-content inspection with coverage record. |
+| Structurally verified | 1 delivered V01 witness; chapter/printing map pending | Actual container/metadata/image order and integrity checks with recoverable receipt. |
+| Admitted for analysis | 1: V01 only, images 0001–0233 with component separation | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
+| Narratively inspected | 1 partial: incidental opening/jacket exposure; complete V01 reading not yet closed | Actual source-content inspection with coverage record. |
 | Sequentially completed | 0 | Closed reading, affected ledgers, immutable freeze and verified persistence/publication state. |
 | Published serialization boundary | Score 61 observed listing; full magazine ceiling unresolved | Independent publication witnesses; not inferred from analytical progress. |
 
