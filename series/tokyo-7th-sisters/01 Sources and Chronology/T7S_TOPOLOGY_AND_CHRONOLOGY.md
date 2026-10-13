@@ -4,13 +4,13 @@ artifact_id: T7S_TOPOLOGY_AND_CHRONOLOGY
 artifact_type: source_topology_and_chronology
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.75"
+version: "12.76"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 259 non-Main i-n-g documents / T7S_B0080–T7S_B0174 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 262 non-Main i-n-g documents / T7S_B0080–T7S_B0175 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-13
@@ -242,7 +242,7 @@ The [completion audit](../09%20Audits%20and%20Manifests/T7S_EPISODE_NANASUTA_COM
 
 The [passed routing audit](../09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) partitions every Sub/Event episode, every non-catalog scenario resource, and every supplemental record without asserting a fabricated cross-family chronology. It admits 743 Sub and 231 Event episodes to the 2034 portfolio horizon; holds eleven 2053-side birthday episodes behind the release gate; and separates one explicit Hololive crossover. Native parent links remain topology edges rather than `BEFORE` claims.
 
-The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns the factual-home schedule. T7S_B0174 closes native Sub/i-n-g chapter `301460` with 3 complete primary documents, 279 pages and 56 command-only pages. The next authorized but unread chapter is `301470` / **リシュリママの子離れ** / 前園リシュリ, episodes `612203201 / 612203202 / 612203203`, assigned B0175. No cross-chapter temporal relation is inferred.
+The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns the factual-home schedule. T7S_B0175 closes native Sub/i-n-g chapter `301470` with 3 complete primary documents, 289 pages and 38 command-only pages. The next authorized but unread chapter is `301480` / **たまには誰も傷つかない一日** / 夜舞サヲリ, episodes `612203301 / 612203302 / 612203303`, assigned B0176. No cross-chapter temporal relation is inferred.
 
 ## First twenty i-n-g targeted cases
 
@@ -250,7 +250,7 @@ The mandated source-routing sequence opens with native Sub top layer `100010` an
 
 Table order records the prescribed analytical route, not a total diegetic chronology. Each front episode precedes its paired back episode; no broader before/after relation among the twenty chapters or against Main is inferred without independent dialogue evidence. All command states and forty selected first/last protagonist composites were reviewed. Performed voice, singing, BGM, and SFX remain unauditioned.
 
-The active [remaining-2034 execution record](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds the full 2034 source and analytical release obligations. It has closed 15 source units through T7S_B0174; 21 i-n-g episodes and 715 eligible story episodes in total remain, alongside supplemental and release work. The completed B0100–B0159 record retains its historical scope. All 2053 semantic sources remain blocked.
+The active [remaining-2034 execution record](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds the full 2034 source and analytical release obligations. It has closed 16 source units through T7S_B0175; 18 i-n-g episodes and 712 eligible story episodes in total remain, alongside supplemental and release work. The completed B0100–B0159 record retains its historical scope. All 2053 semantic sources remain blocked.
 
 ## Revision history
 
@@ -430,3 +430,5 @@ The active [remaining-2034 execution record](../09%20Audits%20and%20Manifests/T7
 - 2026-10-13: close T7S_B0173; preserve chapter-local order and all earlier topology/chronology history; continue toward the complete 2034 release.
 
 - 2026-10-13: close T7S_B0174; preserve chapter-local order and all earlier topology/chronology history; continue toward the complete 2034 release.
+
+- 2026-10-13: close T7S_B0175; preserve chapter-local order and all earlier topology/chronology history; continue toward the complete 2034 release.
