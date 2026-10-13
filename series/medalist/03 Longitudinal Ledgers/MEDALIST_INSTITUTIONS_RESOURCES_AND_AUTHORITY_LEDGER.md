@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.1"
+version: "1.2"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V02 closed (Scores 1–7, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V02_UPDATE"
+review_status: "AUTHOR_REVIEWED_V03_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -108,3 +108,36 @@ All events below are version 1 through `MD-FR-V02`. In this section `EV-####` ex
 | MD-ORG-0006 and MD-ORG-0010 elite resources | Hikaru | MD-IN-0014 | Concealed champion coaching and household means. | Why the coaching is unlisted. |
 | Cross-club knowledge | ORG-0002 and ORG-0009 | MD-IN-0016 | Shared once, against a stated norm. | Durability. |
 | Badge ladder and Kyoto entry | Inori, Ema | MD-IN-0017 | Grade 1 obtained; meet entered. | Field and results. |
+
+## V03 evidence tables
+
+All events below are version 1 through `MD-FR-V03`. In this section `EV-####` expands to the [V03 reading's](../02%20Sequential%20Readings/MEDALIST_V03_DEEP_READING.md#canonical-observations) `MD-EV-V03-####`. New settings: MD-ORG-0013 スター広島FSC, a club centred on speed skating; MD-ORG-0014 岡山ティナFSC; MD-ORG-0015 福岡パークFSC; MD-ORG-0016 the Sonidori household. MD-ORG-0011's arena is now named in full as 京都宇治アイスアリーナ. Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0020 | Qualification ladder, all competitive skaters | Stated at the Kyoto meet | Block competition, then West or East Japan championship, then All-Japan; grade 6 for girls' Novice A and grade 4 for boys'; boys' grade 6 needs a triple and double; the double Axel gates girls' grade 6 | Badge grade decides which events a child may enter | EV-0004/0047/0051; MD-COMP-0003; MD-CL-0013@3 | HIGH as in-story statements; unverified externally; prior MD-IN-0017 |
+| MD-IN-0021 | ORG-0011 officials, entrants | Meet day | Five-minute practice; thirty seconds to start; schedule can run early; withdrawal can wait to the last moment | A late arrival is survivable only by margin | EV-0008/0014/0023 | HIGH as stated |
+| MD-IN-0022 | ORG-0002, Tsukasa, Hitomi, Inori | Meet day | The head coach is away with ice-dance pupils; the assistant leaves to fetch equipment; no club coach is present | A rival club's coach covers; the assistant is later rebuked | EV-0007/0008/0013/0042; MD-RL-0042/0052/0054; MD-CL-0004@3 | HIGH |
+| MD-IN-0023 | Transport and travel, the Yuitsuka family | Meet day | Equipment left on a train; recovery ten stations away; bus, taxi and train times as the mother computes them | The coach runs; by the author's aside a taxi to the far station was fastest | EV-0006/0007/0015 | HIGH as stated |
+| MD-IN-0024 | ORG-0009 head coach, Jakuzure, Ema | A year before the meet | About twenty children join each year and most clear the first grades at once; the head coach proposes referring a slow child elsewhere, citing her welfare; the assistant objects | She stays; her load is controlled; she wins | EV-0033/0035/0042; MD-CS-0041/0042; MD-CL-0001@3/0020@1 | HIGH that it was proposed; whether concern or selection, UNRESOLVED |
+| MD-IN-0025 | ORG-0015, a trainer, Kanna | Meet day | A club employs a trainer who watches a pupil's load and asks the coach to intervene | A resource Lux is not shown to have | EV-0012/0017 | HIGH |
+| MD-IN-0026 | ORG-0013 and ORG-0014, Seira, Miho, Ritsuki | Announced at the meet | Two skaters leave a speed-skating club for a figure-skating club to concentrate | Rivals become clubmates | EV-0039/0058 | HIGH |
+| MD-IN-0027 | ORG-0002, Tsukasa and Inori | Five days after the meet | No winter competitions; badge promotion as the target; a year to build | Decided jointly | EV-0043; MD-CS-0039; MD-CL-0007@3/0019@1 | HIGH |
+| MD-IN-0028 | ORG-0002, Tsukasa | A year later | Training period complete; formally an instructor; still one pupil; trial lessons | His standing rests on one result | EV-0048/0049; MD-CL-0017@2 | HIGH |
+| MD-IN-0029 | ORG-0006, ORG-0016, Yodaka, Sonidori, Hikaru, Rio | Stated in V03 | Yodaka's coaching is non-public; Sonidori is the listed coach; Hikaru lives in the Sonidori house; the public credits Sonidori for her | Rio lives inside the arrangement and resents it | EV-0002/0046/0054/0057; MD-KN-0029/0030; MD-CL-0016@2/0021@1 | HIGH facts; reason for secrecy UNRESOLVED; prior MD-IN-0014 |
+| MD-IN-0030 | ORG-0006 and ORG-0002, Sonidori, Hitomi, Tsukasa, Rio | Score 11 | A head coach places his own son with another club for a week, and the camp, at the son's wish; the receiving head coach assigns her first-year instructor | Cross-club placement by courtesy between coaches | EV-0049/0050; MD-RL-0054/0060; MD-CL-0011@3 | HIGH |
+
+### Current projection after V03
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| Badge and qualification ladder | Inori, Rio, Ryoka, Ema | MD-IN-0017/0020 | Grade 5 reached; grade 6 and the double Axel next; route to All-Japan stated. | External verification. |
+| Competition procedure | Kyoto meet | MD-IN-0010/0012/0021 | Stated procedures; none decisive here except timing. | — |
+| Lux coaching cover | ORG-0002 | MD-IN-0022/0028 | Two coaches; one now formally an instructor; cover failed once. | Prevention measures promised, not shown. |
+| MD-ORG-0003 parental support | Inori through V03 | MD-IN-0002/0011/0023 | Travels and supports. | Endpoint unmentioned. |
+| MD-ORG-0009 selection pressure | Ema | MD-IN-0024 | A slow developer kept on by an assistant's advocacy. | The head coach's motive. |
+| Club resources elsewhere | ORG-0013–0015 | MD-IN-0025/0026 | Trainers, specialist clubs, transfers. | — |
+| Year plan | Inori and Tsukasa | MD-IN-0027 | A winter without competition, then four grades. | The year unshown. |
+| Hikaru's arrangement | ORG-0006, ORG-0016 | MD-IN-0014/0029 | Hidden champion coach, listed medalist coach, shared household. | Why. |
+| Cross-club courtesy | Lux, 蓮華茶, 名港ウィンド | MD-IN-0016/0030 | Cover, shared history, a placement. | — |
+| MD-ORG-0005, 0007, 0008, 0001 | As V02 | MD-IN-0006/0013, 0009/0018, 0008/0019, 0003/0007 | Unchanged; Ryoka at grade 5. | — |

@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.1"
+version: "1.2"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V02 closed (Scores 1–7, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V02_UPDATE"
+review_status: "AUTHOR_REVIEWED_V03_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -93,3 +93,27 @@ All feature and motif records below are version 1 through `MD-FR-V02`. In this s
 | MD-MOT-0004 — responsibility after helping | V02: EV-0007 and EV-0029, the coach's promise to keep teaching and his lifetime pledge | Yodaka's "until I get bored" (EV-0048) is the stated opposite | Obligation after helping is now voiced by the coach toward the pupil, with a foil | MD-CL-0011@2/0010@2 |
 | MD-MOT-0005 — seeing and being seen (new) | EV-0003/0006/0010/0012/0041/0044/0048: judged from practice; "私を見てて"; a mother who had not seen; audience children; the coach's eye; "見るんだ"; a beast's gaze | Yodaka forecasts before looking and reverses once he looks; the judge sees accurately and misattributes | Judgments made after looking are the ones the volume lets stand | Needs recurrence beyond V02; MD-CL-0012@2/0001@2 |
 | MD-MOT-0006 — falling and getting up (new) | EV-0004/0008/0026/0034/0048 with V01's leap: warm-up falls, the fallen Axel and the smile, the staircase, repeated double attempts, the drop from the eaves | Ryoka does not fall; her loss is a ruling | A fall is drawn as something to be answered, by a catch, a rise or a landing | Possible structural motif; hold until later volumes; MD-CL-0005@2 |
+
+## V03 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V03`. In this section `EV-####` expands to the [V03 reading's](../02%20Sequential%20Readings/MEDALIST_V03_DEEP_READING.md#canonical-observations) `MD-EV-V03-####`. Image order is verified; facing-page geometry is not. Earlier tables are unchanged.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0018 | MD-MOT-0002; EV-0017/0018/0021/0036 | From 0055; recurs through Scores 9–10 | A two-column ladder of jump names ranked by value with each skater's content marked; a ranking board ruled with a line labelled a wall | Makes the fairness of the defeat legible to a reader with no skating knowledge; alternatively exposition | MD-PERF-0018–0025; MD-CL-0012@3/0013@3 | HIGH; extends MD-VF-0009 |
+| MD-VF-0019 | MD-MOT-0006; EV-0017/0018/0029/0031 | 0056, 0059, 0097–0098, 0102 | A hole in the ice shown being made, remarked on, tripping one skater, then taking the protagonist down after her program | A physical cause planted across forty pages so that the injury owes nothing to her skating | MD-PERF-0019/0020/0024; MD-CL-0012@3 | HIGH |
+| MD-VF-0020 | MD-MOT-0007; EV-0009/0011/0052 | 0025, 0035, 0179 | A dark borderless panel repeating Yodaka's sentence, breaking into a moment of effort or pleasure, for two different children | Shows a verdict as an intrusion and the two verdicts as one kind of act | MD-CS-0032/0044; MD-CL-0016@2/0012@3 | HIGH |
+| MD-VF-0021 | MD-MOT-0005; EV-0011/0012 | 0034–0041 | An off-ice run-through drawn with the full grammar of a performance and given a silent watcher | Treats a private act of resolve as skating | MD-CS-0033; MD-CL-0002@3 | HIGH construction, MODERATE effect |
+| MD-VF-0022 | EV-0027 | 0086–0091 | Wide horizontal strips, one gesture each; the remembered hand from V01 | The layout slows as the text says slow movement stays in the eye | MD-SK-0016; MD-CL-0008@3/0012@3 | HIGH |
+| MD-VF-0023 | EV-0037 | 0119 | A small figure stooping for one bright thing; a distant figure with a full basket | Her understanding of accumulated work given as an image | MD-RL-0057; MD-CL-0020@1 | HIGH construction; the volume's only extended metaphor |
+| MD-VF-0024 | EV-0040/0041/0039 | 0130, 0136, 0138 | An empty second step in the podium photograph; a still full page for the vow, seated, bandaged; a medal hung in a train seat | Withholds the ceremony and gives the resolution stillness, against V02's reflection page in motion | MD-CS-0040; MD-CL-0019@1/0012@3 | HIGH; contrast MD-VF-0011 |
+| MD-VF-0025 | EV-0044/0045/0053 | 0146–0148, 0181–0183 | Black bands with a month and "the following year"; a full-page night jump seen in a boy's glasses | A year is elided in two bands; Yodaka's skating is shown only as someone else's memory | MD-TM-0023/0024; MD-CL-0016@2 | HIGH |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V03: EV-0006 mother's hand on her head; EV-0022 drawstrings tied in a bow; EV-0029 carried; EV-0041 medal hung; EV-0054 the fist bump printed under a suggestion to change coach | — | Contact still marks the shared undertaking, and is now what a rival's argument is set against | MD-CL-0012@3 |
+| MD-MOT-0002 — appraisal versus demonstrated movement (extended) | V03: EV-0017–0021 the wall; EV-0036 Ema above the ladder; EV-0052 praise by pedigree against a jump that is his own | Here appraisal is accurate: the scores match what is shown | The volume makes official appraisal trustworthy so that the loss cannot be explained away | MD-CL-0012@3/0001@3 |
+| MD-MOT-0005 — seeing and being seen (extended) | V03: EV-0011 she saw him tremble; EV-0012 the watcher at the fence; EV-0037 she sees what Ema's skating is made of; EV-0051 he sees Rio's jump is not his father's; EV-0053 "見た?" | Bystanders see Rio and Hikaru through a false credit | Accurate seeing continues to be what changes minds; Yodaka uses seeing as instruction | MD-CL-0001@3/0012@3 |
+| MD-MOT-0006 — falling and getting up (extended) | V03: EV-0023 fall before the music; EV-0029 fall after it; EV-0047 double Axel falls | The defeat itself involves no fall in the program | Falls bracket a clean performance; the loss comes from elsewhere | MD-CL-0005@3 |
+| MD-MOT-0007 — the verdict that returns (new) | EV-0009/0011/0052 | Tsukasa's sentence returns too (EV-0011, EV-0054) and is used as a resource | Adult sentences persist in children as intrusions or as resources, depending on what was said | Needs recurrence; MD-CL-0016@2/0015@2 |
+| MD-MOT-0003, 0004 | V03: taiyaki named again in the plan (EV-0005); Jakuzure's promise to Ema (EV-0034) | — | Unchanged in kind | — |

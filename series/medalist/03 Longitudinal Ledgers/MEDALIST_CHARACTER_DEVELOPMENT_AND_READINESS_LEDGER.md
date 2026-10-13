@@ -5,14 +5,14 @@ artifact_type: "character_state_readiness_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.1"
+version: "1.2"
 status: "canonical"
 scope: "Time-indexed character interpretation, identity resolution and evidence-specific promotion readiness"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
-source_boundary: "Japanese V01–V02 closed (Scores 1–7, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V02_UPDATE"
+review_status: "AUTHOR_REVIEWED_V03_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -191,3 +191,78 @@ Other announced entrants (柊木咲, 平野優香, 桐谷ジュリア, 坂城み
 | MD-RD-0013 | 0007 / monograph / supporting role | V01–V02 | Refusal, limit, request, self-account, commitment; EV-0005/0010/0014. | Ordinary independent behaviour; the endpoint's formal status. | BOUNDED_PROVISIONAL for a supporting-role account; author; 2026-10-13; MD-CL-0014@1 | Extends MD-RD-0007. |
 
 MD-CHAR-0021, 0010 as an independent subject, 0022–0027 and 0008 are UNASSESSED or INSUFFICIENT_EVIDENCE for any dedicated artifact at this boundary; no row is added for them.
+
+## V03 evidence tables
+
+The [V03 reading and frozen state](../02%20Sequential%20Readings/MEDALIST_V03_DEEP_READING.md) own all `MD-EV-V03-…` observations. In this section `EV-####` expands to `MD-EV-V03-####`; earlier volumes are written `V01:EV-####` or `V02:EV-####`. Every new record is version 1, first known after V03. Claim references are the versions in force at `MD-FR-V03`. Earlier tables are unchanged; the current projection is the last projection table in this document. Global entity and subject IDs remain null for every row.
+
+### Identity updates to existing keys
+
+| Character key | V03 disclosure | Basis | Remaining limit |
+| --- | --- | --- | --- |
+| MD-CHAR-0003 | Yō is sickly, often misses school, sometimes feigns illness; now in sixth grade, the same school year as Inori | EV-0057 | No condition named. |
+| MD-CHAR-0010 | Hikaru lives in the Sonidori household and has since about seven; second All-Japan Novice B title with a triple Axel; badge grade 7; a Kansai verb form in a gag | EV-0044/0054/0057 | Still no interior access. |
+| MD-CHAR-0011 | Full name 鴗鳥理凰; fifth grade at the Kyoto meet's date and a year older by Score 11; badge grade 5; American mother | EV-0002/0050/0057 | — |
+| MD-CHAR-0022 | Sonidori is an Olympic silver medalist; Hikaru's listed coach while Yodaka's role is non-public | EV-0002/0049/0050 | His own view of the arrangement unstated. |
+| MD-CHAR-0027 | The former teacher is shared by Tsukasa and Hitomi (恩師) and is on good terms with Okayama's head coach | EV-0058 | Still unnamed and unseen. |
+| MD-CHAR-0013 | Ryoka is ten and at grade 5 a year on | EV-0047 | Consistent with Nachi's "nine" in V02; the V02 profile's "eight" likely predates a birthday. |
+
+### New keys
+
+| Character key | Source-spelled identity / alias basis | Continuity | First observation | Global IDs / unresolved identity |
+| --- | --- | --- | --- | --- |
+| MD-CHAR-0028 | 獅子堂星羅; Shishidō Seira, caption; fifth grade; スター広島FSC, moving to 岡山ティナFSC | Japanese manga | EV-0003 | null/null; daughter of a national-team speed skater by spectators' report |
+| MD-CHAR-0029 | 黒澤美豹; Kurosawa Miho, caption with furigana みいひ in a pencil gag; fifth grade; same clubs as Seira | Japanese manga | EV-0003 | null/null |
+| MD-CHAR-0030 | 小熊梨月; Oguma Ritsuki, caption; fourth grade; 岡山ティナFSC | Japanese manga | EV-0003 | null/null; an elder brother appears unnamed |
+| MD-CHAR-0031 | 鬼寅カンナ; Kitora Kanna, announced; second grade per a judge; 福岡パークFSC | Japanese manga | EV-0016/0017 | null/null |
+| MD-CHAR-0032 | 亀金谷澄覚; Kameganya Chōkaku, caption with furigana; head coach of 蓮華茶FSC | Japanese manga | EV-0003 | null/null |
+| MD-CHAR-0033 | Trainer employed by 福岡パークFSC, unnamed; a woman with glasses and a long braid | Japanese manga | EV-0012; role EV-0017 | null/null |
+
+Coaches named only in the profile page (布袋野蕨一, 布袋野兎太, 梟木豊, 目城理世, 伊太刀小五郎), Rio's mother, Suzu's sisters and other announced entrants stay local to the reading.
+
+### State events
+
+| State event | Character | Story time / revealed after | Change kind | Action / self-report / inference | Evidence / claim version | Confidence / alternatives | Prior / correction |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-CS-0032 | 0004 | Meet morning; Score 8 | CONTEXT_CHANGE | Loses her skates on a train; blames herself ("私また…", "こんな私で"); Yodaka's sentence intrudes; she postpones self-reproach so as to be able to skate. | EV-0006/0009; MD-CL-0015@2 | HIGH. | MD-CS-0026 |
+| MD-CS-0033 | 0004 | Alone outside; Score 8 | DISPOSITION_CHANGE (candidate) | Decides not to wait for encouragement; describes a place for failure always prepared for her; chooses to be the self her coach believed in. | EV-0011/0012; MD-CL-0002@3/0015@2 | HIGH wording; whether this is a lasting change is the open point. | MD-CS-0032 |
+| MD-CS-0034 | 0007 | Meet morning; Score 8 | CONTEXT_CHANGE | Self-reproach checked; forbids herself to sigh; supports; moderates the warm-up in the coach's absence. | EV-0006/0008; MD-CL-0014@2 | HIGH conduct. | MD-CS-0020 |
+| MD-CS-0035 | 0001 | Meet morning; Score 8 | CONTEXT_CHANGE | Runs for the skates, leaving his pupil coachless; criticizes his own decision; is rebuked. | EV-0007/0013/0015/0042; MD-CL-0004@3/0007@3/0017@2 | HIGH events; the author's aside confirms a better option existed. | MD-CS-0027 |
+| MD-CS-0036 | 0001 | At the boards; Score 9 | CONTEXT_CHANGE | Declines her proposed escalation and explains in scoring terms. | EV-0022; MD-CL-0007@3 | HIGH. | MD-CS-0035 |
+| MD-CS-0037 | 0004 | Free skate; Score 9 | KNOWLEDGE_CHANGE | Finds the weight-over-blade feel her coach had described; keeps it at a cost; derives a rule of slow movement from his V01 dance; reframes missing strength as room to grow. | EV-0023/0024/0025/0027; MD-CL-0002@3/0008@3 | HIGH. | MD-CS-0033; MD-SK-0015 |
+| MD-CS-0038 | 0004 | First-aid room; Score 10 | REVEALED_NOT_NEW | Had trained two days on shin pain she took for muscle soreness; protests rest because she is behind. | EV-0032; MD-CL-0015@2 | HIGH speech. | MD-CS-0037; MD-KN-0027 |
+| MD-CS-0039 | 0001 | First-aid room to five days later; Score 10 | CONTEXT_CHANGE | Orders rest against her wish; apologizes to her for what the coaching side lacked; decides with her on a winter without competitions; states the aim is not to catch up fastest. | EV-0032/0040/0043; MD-CL-0007@3/0010@3 | HIGH. | MD-CS-0036 |
+| MD-CS-0040 | 0004 | Train home; Score 10 | DISPOSITION_CHANGE (candidate) | Accepts that the time lost cannot be recovered, refuses it as a reason to give up, renounces haste and sadness about it. | EV-0037/0040; MD-CL-0019@1 | HIGH wording; durability tested only by an unshown year and bent in Score 11. | MD-CS-0038 |
+| MD-CS-0041 | 0024 | Years before to the meet; Score 10 | REVEALED_NOT_NEW | Years at beginner grade, growth pain, overtraining, food refusal, two failed tests; resolved never to hate skating; wins with content no rival has; thinks it only natural. | EV-0033/0034/0035/0036/0037/0042; MD-CL-0020@1 | HIGH events; mechanism is her coach's account. | none |
+| MD-CS-0042 | 0025 | A year before to five days after; Score 10 | REVEALED_NOT_NEW | Objected to referring Ema elsewhere; promised to make her a skater at any height; set rest as her task; credits her alone. | EV-0033/0034/0035/0042; MD-CL-0020@1/0017@2 | HIGH. | MD-CS-0031 |
+| MD-CS-0043 | 0004 | A year later; Scores 10–11 | CONTEXT_CHANGE | Twelve, grade 5, 名港杯 champion at that grade; working on the double Axel; judged by her coach to be strong against "can't". | EV-0045/0047; MD-CL-0019@1/0004@3 | HIGH outcome; the year itself unshown. | MD-CS-0040 |
+| MD-CS-0044 | 0011 | Night and at Lux; Score 11 | REVEALED_NOT_NEW | Confronts Yodaka; wants distance from him; calls himself talentless and finished; has failed the grade-6 test repeatedly; panics at specific praise; advises Inori to change coach; wishes he could speak as she does. | EV-0046/0049/0050/0052/0053/0054/0055; MD-CL-0021@1/0001@3 | HIGH speech and facts; inner account LOW-MODERATE (one chapter). | none |
+| MD-CS-0045 | 0004 | Locker room; Score 11 | UNRESOLVED | In anger vows a double Axel, this year's All-Japan Novice A, a win over Hikaru, and a triple and double before Rio to prove her coach. | EV-0054/0055/0056; MD-CL-0019@1/0010@3 | HIGH wording; relation to MD-CS-0040 unresolved. | MD-CS-0043 |
+| MD-CS-0046 | 0021 | Night; Score 11 and memory | UNRESOLVED | Leaves his purpose unstated; reacts to "ran away"; tells Rio he is the obstacle; still jumps, by demonstration, for Hikaru. | EV-0002/0046/0053; MD-CL-0016@2 | HIGH events; motive UNRESOLVED. | MD-CS-0028 |
+
+### Current projection after V03
+
+| Character | Current source boundary | Active state references | Bounded current formulation | Open contradictions |
+| --- | --- | --- | --- | --- |
+| MD-CHAR-0004 | V03/MD-FR-V03 | MD-CS-0040/0043/0045 | Grade-5 champion who has lost once, accepted an unrecoverable gap, and can supply her own belief; self-blame still arrives first. | The train vow against the Score 11 vow; the year unshown. |
+| MD-CHAR-0001 | V03/MD-FR-V03 | MD-CS-0035/0036/0039 | Instructor with a year's result, a record of one costly impulse and several corrections, and a stated preference for building over catching up. | Still learns his own soundness from others; now the object of his pupil's vow. |
+| MD-CHAR-0007 | V03/MD-FR-V03 | MD-CS-0034 | Supportive under a mishap, checking her own reflex. | Endpoint unmentioned; unaware of the unpaid entries. |
+| MD-CHAR-0024 | V03/MD-FR-V03 | MD-CS-0041 | Slow, self-built winner who treats her work as ordinary. | Whether growth pain persists. |
+| MD-CHAR-0025 | V03/MD-FR-V03 | MD-CS-0042 | Patient, credit-refusing coach inside a selective club. | His standing with his head coach. |
+| MD-CHAR-0011 | V03/MD-FR-V03 | MD-CS-0044 | Credentialed and skilled, convinced he is finished. | Technical versus motivational cause; what his family knows. |
+| MD-CHAR-0021 | V03/MD-FR-V03 | MD-CS-0046 | Hidden coach who teaches by demonstration and wounds a second child. | Purpose; the meaning of "ran away". |
+| MD-CHAR-0010 | V03/MD-FR-V03 | MD-CS-0029 plus identity update | Twice national novice champion with a triple Axel, living in her listed coach's house. | No interior. |
+| MD-CHAR-0013 / 0012 | V02 state with V03 update | MD-CS-0022 / 0023 | Ryoka at grade 5; otherwise unchanged. | Who decided the advance. |
+
+### Readiness after V03
+
+| Readiness record | Character / target / domain | Boundary / scope | Context coverage / counterevidence | Gaps / tests | Assessment / reviewer / date | History / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-RD-0014 | 0004 / monograph / development through a defeat and a year | V01–V03 manga-only | Win, loss, injury, solitude, a peer's challenge; EV-0012/0027/0040/0056; persistent self-blame and the Score 11 vow counter a clean growth story. | The training year unshown; non-evaluative life thin; fanbooks excluded. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0002@3/0015@2/0019@1 | Extends MD-RD-0008. |
+| MD-RD-0015 | 0004 / operational model / response to setback | V01–V03 | Failed warm-up, fall, loss, injury, provocation: five distinct setbacks with distinguishable responses. | No held-out test; one loss. | BOUNDED_PROVISIONAL for this domain only; author; 2026-10-13 | Revises MD-RD-0009 from INSUFFICIENT_EVIDENCE; no MD-RULE written. |
+| MD-RD-0016 | 0001 / monograph / coach identity, error and correction | V01–V03 | Run, refusal, rest, apology, year plan, endorsements; EV-0013/0022/0032/0040/0043. | Self-trust without confirmation; a decision under the new vow. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0004@3/0007@3/0010@3/0017@2 | Extends MD-RD-0010. |
+| MD-RD-0017 | 0001 / operational model / decisions when pupil's wish and welfare diverge | V01–V03 | One clear divergence resolved toward welfare; one escalation refused; one impulsive error. | Small number of cases; no test under direct pressure from the Yodaka rivalry. | BOUNDED_PROVISIONAL for this domain only; author; 2026-10-13 | Revises MD-RD-0011; no MD-RULE written. |
+| MD-RD-0018 | 0024 with 0025 / dyadic study / a slow developer and her coach | V02–V03 | Flashbacks, competition, the coach's retrospective account; EV-0033–0037/0042. | Ema's interior is brief; the head coach's view is one scene. | BOUNDED_PROVISIONAL for a dyadic study; author; 2026-10-13; MD-CL-0020@1 | First assessment. |
+| MD-RD-0019 | 0007 / monograph / supporting role | V01–V03 | Adds conduct under a mishap. | Ordinary independent behaviour; the endpoint. | BOUNDED_PROVISIONAL for a supporting-role account; author; 2026-10-13; MD-CL-0014@2 | Extends MD-RD-0013. |
+
+MD-CHAR-0011, 0021, 0010, 0022 and 0028–0033 are UNASSESSED or INSUFFICIENT_EVIDENCE for a dedicated artifact at this boundary. MD-RD-0012 (Ryoka with Nachi) is unchanged.

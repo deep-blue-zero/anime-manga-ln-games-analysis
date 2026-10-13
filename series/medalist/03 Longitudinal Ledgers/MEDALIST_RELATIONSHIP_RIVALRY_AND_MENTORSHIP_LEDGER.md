@@ -5,14 +5,14 @@ artifact_type: "relationship_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.1"
+version: "1.2"
 status: "canonical"
 scope: "Directional interpersonal interpretations and transitions among athletes, coaches, peers and families"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_RELATIONSHIP_RIVALRY_AND_MENTORSHIP_LEDGER.md"
-source_boundary: "Japanese V01–V02 closed (Scores 1–7, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V02_UPDATE"
+review_status: "AUTHOR_REVIEWED_V03_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -147,3 +147,57 @@ All transitions below are version 1 through `MD-FR-V02`. In this section `EV-###
 | MD-PAIR-0012 / both directions | V02 | MD-RL-0035/0036 | Friendly rivals who share knowledge. | One meeting. |
 | MD-PAIR-0013 / Mika→Inori | V02 | MD-RL-0037 | Open advocate. | Inori→Mika limited to childhood admiration (EV-0001/0006). |
 | MD-PAIR-0014 / Jakuzure→Ema | V02 | MD-RL-0041 | Invested first-generation coach. | Ema→Jakuzure unobserved. |
+
+## V03 evidence tables
+
+All transitions below are version 1 through `MD-FR-V03`. In this section `EV-####` expands to the [V03 reading's](../02%20Sequential%20Readings/MEDALIST_V03_DEEP_READING.md#canonical-observations) `MD-EV-V03-####`. New pair keys: MD-PAIR-0015 Inori/Ema; MD-PAIR-0016 Inori/Rio; MD-PAIR-0017 Tsukasa/Rio; MD-PAIR-0018 Yodaka/Rio; MD-PAIR-0019 Seira/Miho; MD-PAIR-0020 Tsukasa/Sonidori. Earlier tables are unchanged; the current projection is the last projection table in this document.
+
+| Transition | Pair / direction | Story time / known after | Dimensions / context | Action / options / effect | Evidence / knowledge / linked homes | Claim / confidence / alternatives | Prior / revision |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-RL-0042 | 0001 / Tsukasa→Inori | Meet morning; Score 8 | Sacrifice, absence | Runs for her skates; tells her that guiding her to her goal is his job; leaves her with no coach present. | EV-0007/0013; MD-CS-0035 | MD-CL-0004@3/0007@3; HIGH; well meant and, by his own account, questionable. | MD-RL-0038 |
+| MD-RL-0043 | 0001 / Inori→Tsukasa | Meet morning; Score 8 | Guilt, borrowed belief | Apologizes for making him help "someone like me"; alone, recalls his words and his trembling before Yodaka and chooses the self he believed in; tells him she is ready because of him. | EV-0009/0011/0012/0014; MD-KN-0025 | MD-CL-0002@3/0015@2; HIGH. | MD-RL-0039 |
+| MD-RL-0044 | 0001 / Inori→Tsukasa | At the boards; Score 9 | Initiative, deference to reasons | Proposes adding a double; accepts his refusal after reading his face; ties his drawstrings in a bow. | EV-0022 | MD-CL-0002@3/0007@3; HIGH. | MD-RL-0043 |
+| MD-RL-0045 | 0001 / Tsukasa→Inori | At the boards; Score 9 | Refusal with explanation | Declines the escalation, gives a scoring reason and two things to attend to, says she can win clean. | EV-0022; MD-CS-0036 | MD-CL-0007@3; HIGH. | MD-RL-0042 |
+| MD-RL-0046 | 0001 / Inori→Tsukasa | Free skate; Score 9 | Learning from his example | Finds in her own body what he had told her; derives a rule from his V01 dance and applies it under fatigue. | EV-0024/0027; MD-CS-0037 | MD-CL-0004@3/0008@3; HIGH. | MD-RL-0044 |
+| MD-RL-0047 | 0001 / Tsukasa→Inori | First-aid room and train; Score 10 | Welfare decision, accountability | Orders rest against her wish; carries her; apologizes for the coaching side; hangs her medal. | EV-0029/0032/0040/0041; MD-CS-0039 | MD-CL-0007@3/0010@3; HIGH. | MD-RL-0045 |
+| MD-RL-0048 | 0001 / Inori→Tsukasa | Train; Score 10 | Disclosure of a resolution | Tells him what she understood about the gap and what she will do with it; had not volunteered her shin pain until asked. | EV-0032/0040; MD-KN-0027 | MD-CL-0019@1; HIGH; the late disclosure reads as misclassification, not concealment, at MODERATE confidence. | MD-RL-0046 |
+| MD-RL-0049 | 0001 / both | Five days later and the following year | Joint decision, dialogue | They decide together to skip winter competitions; a year on, technical talk is two-sided and he judges her strong against "can't". | EV-0043/0047 | MD-CL-0002@3/0004@3; HIGH. | MD-RL-0047/0048 |
+| MD-RL-0050 | 0002 / Mother→Inori | Meet day; Score 8 | Support under a mishap | Checks her own self-reproach; promises support; moderates the warm-up; travels with her. | EV-0006/0008; MD-CS-0034 | MD-CL-0014@2; HIGH. | MD-RL-0023 |
+| MD-RL-0051 | 0002 / Inori→Mother | Meet day; Score 8 | Apology, reliance | Apologizes for losing things again; accepts her help. | EV-0006 | MD-CL-0015@2; HIGH. | MD-RL-0024 |
+| MD-RL-0052 | 0012 / Jakuzure→Tsukasa | Meet day and five days later | Cover, rebuke, shared account | Supports his pupil in his absence; scolds him; accepts his apology; tells him Ema's history. | EV-0008/0013/0042; MD-CS-0042 | MD-CL-0011@3/0017@2; HIGH. | MD-RL-0036 |
+| MD-RL-0053 | 0012 / Tsukasa→Jakuzure | Same | Debt, repair, learning | Apologizes in person with a gift; takes Ema's story as grounds for his own plan; expects to meet him at All-Japan. | EV-0042/0043; MD-CS-0039 | MD-CL-0017@2; HIGH. | MD-RL-0035 |
+| MD-RL-0054 | 0003 / Hitomi→Tsukasa | Meet aftermath and a year later | Rebuke, endorsement | Scolds him severely for leaving his pupil; a year on recommends him to Sonidori on his record. | EV-0042/0049 | MD-CL-0004@3/0017@2; HIGH; the rebuke is reported, not shown. | MD-RL-0040 |
+| MD-RL-0055 | 0014 / Jakuzure→Ema | A year before to the meet | Advocacy, patience | Objects to referring her away; promises to make her a skater at any height; sets rest as her task; credits her. | EV-0033/0034/0035/0042 | MD-CL-0020@1; HIGH. | MD-RL-0041 |
+| MD-RL-0056 | 0014 / Ema→Jakuzure | Same | Trust, candour | Tells him she has stopped eating and why; tells him she will never hate skating. | EV-0034/0035 | MD-CL-0020@1; HIGH; brief. | none |
+| MD-RL-0057 | 0015 / Inori→Ema | Meet day; Score 10 | Recognition of distance, respect | Thought they were near each other; sees accumulated skating; stays injured to watch her. | EV-0032/0037 | MD-CL-0019@1/0020@1; HIGH. | none |
+| MD-RL-0058 | 0015 / Ema→Inori | Meet day; Score 10 | Concern | Worries about her being carried off; wonders if her leg hurt "like mine". | EV-0033 | MD-CL-0020@1; MODERATE (one thought). | none |
+| MD-RL-0059 | 0018 / both | Night; Score 11 | Hostility, wounding | Rio demands Yodaka leave and says he ran from skating; Yodaka tells him he is the one in Hikaru's way. | EV-0046/0052/0053; MD-CS-0044/0046 | MD-CL-0016@2/0021@1; HIGH words; motives UNRESOLVED. | none |
+| MD-RL-0060 | 0017 / Tsukasa→Rio | Lux; Score 11 | Specific recognition | Sees his jump as unlike his father's; praises what is his own; looks forward to him. | EV-0051/0052 | MD-CL-0001@3/0004@3; HIGH. | none |
+| MD-RL-0061 | 0017 / Rio→Tsukasa | Lux; Score 11 | Distrust of an unknown record | Prefers the head coach; is thrown by the praise; calls him irresponsible; questions his record to Inori. | EV-0049/0052/0054 | MD-CL-0021@1; HIGH speech. | none |
+| MD-RL-0062 | 0016 / both | Lux; Score 11 | Friction, challenge, envy | Rio does not remember her and tells her to change coach; she answers in anger with a vow to prove her coach; he wishes he could speak as she does. | EV-0050/0054/0055/0056; MD-CS-0044/0045 | MD-CL-0019@1/0021@1/0010@3; HIGH. | none |
+
+Pair MD-PAIR-0019 (Seira/Miho) and MD-PAIR-0020 (Tsukasa/Sonidori) have one observed exchange each and are recorded in the projection without separate transitions: Miho took up figure skating first and resents being followed while Seira openly admires her (EV-0010/0013/0019); Sonidori bows to Tsukasa as a parent and addresses him correctly, and Tsukasa is an admirer since boyhood (EV-0049/0050/0051).
+
+### Current projection after V03
+
+| Pair / direction | Source endpoint | Active transition IDs | Current bounded state | Unknown reverse state / contradictions |
+| --- | --- | --- | --- | --- |
+| MD-PAIR-0001 / Tsukasa→Inori | V03 | MD-RL-0047/0049 | Protects her long-term welfare against her wish, explains his refusals, owns his errors, decides with her. | His response to her new vow. |
+| MD-PAIR-0001 / Inori→Tsukasa | V03 | MD-RL-0048/0049/0062 | Believes in herself through his belief; accepts his reasons; now stakes a jump on his reputation. | Whether proving him will override her own pace. |
+| MD-PAIR-0002 / Mother→Inori | V03 | MD-RL-0050 | Practical, self-checking support. | Endpoint unmentioned. |
+| MD-PAIR-0002 / Inori→Mother | V03 | MD-RL-0051 | Reliant and apologetic. | — |
+| MD-PAIR-0003 / Hitomi→Tsukasa | V03 | MD-RL-0054 | Holds him to account and vouches for him. | — |
+| MD-PAIR-0003 / Tsukasa→Hitomi | V01 | MD-RL-0010 | Unchanged. | — |
+| MD-PAIR-0004 / both | V02, with V03 glimpse | MD-RL-0025/0026 | Friends; both at grade 5 in different categories. | — |
+| MD-PAIR-0005 / Inori→Hikaru | V03 | MD-RL-0030 | Unchanged in kind; "one more grade" until they can meet; "beat Hikaru" said twice. | — |
+| MD-PAIR-0005 / Hikaru→Inori | V01 | MD-RL-0013 | No evidence since V01. | Open. |
+| MD-PAIR-0006 / both | V02 | MD-RL-0027/0028 | Unchanged. | — |
+| MD-PAIR-0012 / both | V03 | MD-RL-0052/0053 | Friendly rivals with a debt honoured. | — |
+| MD-PAIR-0014 / both | V03 | MD-RL-0055/0056 | Patient coach and candid pupil. | — |
+| MD-PAIR-0015 / both | V03 | MD-RL-0057/0058 | Mutual regard across a large gap in accumulated work. | Ema's view of Inori as a rival unstated. |
+| MD-PAIR-0016 / both | V03 | MD-RL-0062 | Antagonism with a note of envy. | One scene. |
+| MD-PAIR-0017 / both | V03 | MD-RL-0060/0061 | A coach who sees him and a boy who distrusts being seen. | One week's placement just begun. |
+| MD-PAIR-0018 / both | V03 | MD-RL-0059 | Open hostility. | Yodaka's reasons. |
+| MD-PAIR-0019 / both | V03 | none | Clubmates: admiration one way, resentment the other. | Thin. |
+| MD-PAIR-0020 / both | V03 | none | Parental courtesy from a medalist; boyhood admiration from the coach. | Thin. |
+| MD-PAIR-0009, 0010, 0011, 0013 and 0007, 0008 | V02 or V01 | as before | Unchanged, except that Yodaka's sentence to Inori is shown still active in her (EV-0009/0011) and Sekoma is shown supporting her in person (EV-0016). | — |

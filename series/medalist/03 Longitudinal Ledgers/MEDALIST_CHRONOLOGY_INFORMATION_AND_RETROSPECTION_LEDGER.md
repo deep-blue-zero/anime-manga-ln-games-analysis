@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.1"
+version: "1.2"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V02 closed (Scores 1–7, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V02_UPDATE"
+review_status: "AUTHOR_REVIEWED_V03_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -128,3 +128,41 @@ New proposition keys: MD-PROP-0007 who actually coaches and choreographs Hikaru;
 | MD-RT-0008 | EV-0050, gag gloss | V01:EV-0037 Meiko remembered; MD-CHAR-0017 | Resolves that she is Yō's late mother | Cause and date still unknown | No claim revision; HIGH |
 | MD-RT-0009 | EV-0022/0026/0047 compared with V01:EV-0011 | V01 unnamed smoking adult; MD-CHAR-0020 | The figure outside the badge venue very probably is Yodaka, by drawing | No text links them; a lookalike is not excluded | No claim revision; MODERATE-HIGH visual match |
 | MD-RT-0010 | EV-0050, gag strip | V01:EV-0003 the leap; V01 profile speed field | An authorial gag attributes Inori's lack of fear of height and speed to Mika's rough games | Comic register; not a developmental study | No claim revision; MODERATE |
+
+## V03 evidence tables
+
+All records below are version 1 through `MD-FR-V03`. In this section `EV-####` expands to the [V03 reading's](../02%20Sequential%20Readings/MEDALIST_V03_DEEP_READING.md#canonical-observations) `MD-EV-V03-####`; earlier volumes are written `V01:EV-####` or `V02:EV-####`. No calendar year is inferred from colophon or advertisement dates. Earlier tables are unchanged.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0019 | West Japan meet day, summer holidays with one week left: train, lost skates, the run, grade-1 girls from 11:30, Inori about 12:20 in group 3, Ema last in group 4, ceremony, novice events, train home | Scores 8–10 / PRESENT with a same-morning FLASHBACK | EV-0003–0041 | Clock times are the characters' estimates | HIGH sequence; MD-CL-0019@1 |
+| MD-TM-0020 | Inori at seven taught to glide backward by Sekoma | Score 9 / FLASHBACK | EV-0025 | Same period as V01's Short Program 1 | HIGH; links MD-TM-0003 |
+| MD-TM-0021 | Ema: skating from five; quick early progress; growth spurt, pain and overtraining; years at beginner grade; a referral proposed "one year ago" when she was in third grade; two failed grade-1 tests; recovery | Score 10 / FLASHBACK and Jakuzure's later account | EV-0033/0034/0035/0042 | Order of the failed tests relative to the referral talk not fixed | HIGH relative; MD-CL-0020@1 |
+| MD-TM-0022 | Five days after the meet: Uji; sprain healed; decision on the winter | Score 10 / PRESENT | EV-0042/0043 | — | HIGH |
+| MD-TM-0023 | October of that year: All-Japan Novice; Hikaru's triple Axel and second title | Score 10 / caption | EV-0044 | — | HIGH as reported |
+| MD-TM-0024 | "The following year": second 名港杯; Inori twelve, sixth grade, grade 5; Yō also in sixth grade | Score 10 and gag / PRESENT after an elision | EV-0045/0057 | About twelve months after MD-TM-0012; the training year is not shown | HIGH for the gap's order of size; MD-CL-0019@1 |
+| MD-TM-0025 | Shortly after: Rio's night confrontation; Sonidori's request; Rio's first day at Lux; a camp "next week" | Score 11 / PRESENT with Rio's winter MEMORY | EV-0046–0056 | Whether the confrontation precedes the request by days or weeks is not stated | HIGH order; MD-CL-0021@1 |
+| MD-TM-0026 | Hikaru and Rio at seven: she is "new" in the Sonidori house and practising with Sonidori | Gag strip / RETROSPECTIVE gloss | EV-0057 | Against V02's "five years before" visit by Yodaka: she was about six then, by her present age; the two fit loosely | MODERATE (gag); links MD-TM-0015 |
+
+New proposition keys: MD-PROP-0011 that Inori has leg pain; MD-PROP-0012 that Tsukasa was afraid when he faced Yodaka; MD-PROP-0013 that Rio has repeatedly failed the grade-6 test.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0025 | PROP-0012 / Inori | Since the stairwell; stated at the Kyoto meet | KNOWN from watching him tremble | Part of what she draws on alone | EV-0011; HIGH |
+| MD-KN-0026 | PROP-0005 / mother | Kyoto meet | UNKNOWN: she thinks Sekoma simply befriended her daughters | He fears discovery and tells a partial truth | EV-0016; HIGH; prior MD-KN-0012/0013 |
+| MD-KN-0027 | PROP-0011 / Inori | Two days before the meet onward | KNOWN as a sensation, MISTAKEN as to kind (taken for muscle soreness) | Trains through it; mentions it only when asked | EV-0032; HIGH speech |
+| MD-KN-0028 | PROP-0011 / Tsukasa | First-aid room | UNKNOWN until then; KNOWN after | Orders rest; apologizes | EV-0032/0040; HIGH |
+| MD-KN-0029 | PROP-0007 / the public and bystanders | Throughout | BELIEVED that Sonidori coaches Hikaru; the editorial page states the true arrangement is not public | Sonidori and Rio receive credit and comparison on a false premise | EV-0002/0054; HIGH; refines MD-KN-0019 |
+| MD-KN-0030 | PROP-0007 / Rio | Throughout | KNOWN: he lives in the house and has watched the night lessons | His resentment and his sense that others are naive | EV-0046/0053/0054; HIGH |
+| MD-KN-0031 | PROP-0007 / Rio about Inori | Locker room | Did not expect an outsider to know; learns that she does | Shock; the argument shifts | EV-0054; HIGH |
+| MD-KN-0032 | PROP-0013 / bystanders, Inori | Score 11 | UNKNOWN to those who praise him; not shown told to Inori | His "can't" is spoken without its basis | EV-0054; HIGH for the record card, MODERATE on who knows |
+| MD-KN-0033 | Ema's standing / Inori | Before and during Ema's skate | BELIEVED near her own level because they passed on the same day; corrected by watching | Her account of the gap on the train | EV-0037/0040; HIGH |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0011 | EV-0033–0035/0042, Score 10 | V02:EV-0037–0039/0041 Ema as an unhurried, secure jumper; MD-FR-V02 | Her ease is the end of a long detour through injury and failed tests | Her feel for jumping was real from the start by her coach's account; MD-CS-0041 | MD-CL-0020@1; HIGH |
+| MD-RT-0012 | EV-0034/0042, Score 10 | V02:EV-0042 Jakuzure's "don't hurry" | His advice to Tsukasa repeats what he told Ema | —; MD-CS-0042 | No claim revision; HIGH |
+| MD-RT-0013 | EV-0002/0046/0054, V03 | V02:EV-0024 the sheet naming Sonidori; MD-CL-0016@1 | The naming is a deliberate non-disclosure, known inside the household | Reason still absent; MD-IN-0029 | MD-RV-0026; HIGH fact |
+| MD-RT-0014 | EV-0025, Score 9 | V01:EV-0035 Sekoma's subsidy | He also taught her on the ice at seven | —; MD-CL-0011@3 | No revision; HIGH |
+| MD-RT-0015 | EV-0057, gag gloss | V02:EV-0047–0049 the adoptive household | Hikaru's daily home since about seven is the Sonidori house | How this relates to the adoptive household is not stated; MD-CHAR-0010 | No revision; MODERATE |
+| MD-RT-0016 | EV-0047 with EV-0045 | V02:EV-0019/0021 Ryoka's age | Ten a year on, so nine at the first 名港杯 or just after | Profile field likely fixed earlier | No revision; MODERATE-HIGH |
