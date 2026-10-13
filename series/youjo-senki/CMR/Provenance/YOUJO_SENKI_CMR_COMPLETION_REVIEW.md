@@ -6,13 +6,17 @@ canonical_home: Git
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-promotion_status: PROPOSED_PENDING_VERIFIED_MAIN_INTEGRATION
+promotion_status: "VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS"
 updated: '2026-10-13'
+analytical_body_authority: "VERIFIED_ACCEPTED_MAIN_WITH_LIMITS"
+native_predecessor_pointers: "VERIFIED_NATIVE_CUTOVER"
+accepted_analytical_main_sha: "813cc91553f99e2de7c357794897bb8c59b2f548"
+authority_promotion_record: "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json"
 ---
 
 # V01–V14 CMR completion and changeset review
 
-**Analytical completion: COMPLETE_WITH_LIMITS.** This review covers the continued operational corpus beneath the [CMR entrypoint](../README.md), not a replacement of the mature V2 literary synthesis. Publication, exact final branch audit, owner-governed integration and former-Drive authority cutover remain separate gates. The reviewed reconciliation base is `21e55b90f18106f6dc87a5692646c3b66e5a84cb`, incorporating main `bf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad` through an ordinary merge.
+**Analytical completion: COMPLETE_WITH_LIMITS.** This review covers the continued operational corpus beneath the [CMR entrypoint](../README.md), not a replacement of the mature V2 literary synthesis. The [authority promotion receipt](YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) now verifies the previously accepted analytical tree at main `813cc91553f99e2de7c357794897bb8c59b2f548` and the six completed native predecessor pointers. It certifies those completed events; later publication of the wrapper/receipt is determined by exact Git/CI history and final handoff, with no future own-commit SHA. The reviewed reconciliation base is `21e55b90f18106f6dc87a5692646c3b66e5a84cb`, incorporating main `bf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad` through an ordinary merge.
 
 | Responsibility | Completed result | Exact artifact route |
 |---|---|---|
@@ -31,10 +35,10 @@ Complete substantive artifacts were read by their authors and independent review
 
 The six maintained document diffs were reviewed in full with trustworthy beforeimages. The method retains its complete original substantive body; only its Git wrapper routes change. The fifteen V2 files and mature current-state literary sections remain byte-identical. Bounded model/header/index repairs preserve unaffected body text, source catalogs, ceilings and historical predictions through exact inverses. Six newly identified specialist procedure failures remain in the frozen-original ensemble history; their current successors receive a separate nonblind process qualification.
 
-Every delivered path is separately classified in the [exact-path delivery manifest](YOUJO_SENKI_CMR_DELIVERY_MANIFEST.json). Eligible material comprises interpretation, conditional rules, paraphrased diagnostics, models, typed source navigation, relations, methodological/provenance audits and actual QA. No EPUB, bulk Japanese corpus/locator TSV, private reserve input/expected outcome, local working dump, binary, prohibited Drive URL or global registry/governance authoring belongs to this changeset. All files remain below 1 MiB; no size exception or ignore bypass is used. Original source evidence stays in its verified Drive home.
+The [final current delivery manifest](YOUJO_SENKI_CMR_FINAL_DELIVERY_MANIFEST.json) binds current wrappers, authority records and unchanged analytical packages. The original [accepted analytical manifest](YOUJO_SENKI_CMR_DELIVERY_MANIFEST.json) remains byte-identical historical verification for the previously accepted tree. Bounded authority-wrapper metadata/routing changes are separately bound by the [precise patch trace](YOUJO_SENKI_CMR_AUTHORITY_PROMOTION_WRAPPER_PATCH_TRACE.json). Eligible material comprises interpretation, conditional rules, paraphrased diagnostics, models, typed source navigation, relations, methodological/provenance audits and actual QA. No EPUB, bulk Japanese corpus/locator TSV, private reserve input/expected outcome, local working dump, binary, prohibited Drive URL or global registry/governance authoring belongs to this changeset. All files remain below 1 MiB; no size exception or ignore bypass is used. Original source evidence stays in its verified Drive home.
 
 ## Limits that remain part of the finished result
 
 All seven original frozen-before-selected-revelation source continuations remain **PARTIAL**. Wider source familiarity was disclosed; they are not novel-wide blind tests. Nonblind regressions, the 76-case ensemble and forty-one new Japanese probes are **NONEMPIRICAL**. Generated sentences are **NONCANONICAL_GENERATED_SURFACE**, judged separately for decision, communicative objective, speech act, role, disclosure and grammar/register. No aggregate accuracy, canonical sentence equivalence or unrestricted private simulation is claimed.
 
-Recognition-only subjects do not gain imagined private dialogue. Missing core direction cells remain not yet audited, not absent relationships. Unknown fate, recipient assent, promised outcomes, ordinary preferences and Tanya attraction/orientation remain constrained rather than completed by invention. These are evidence ceilings, not unfinished mandatory repair work. Publication and authority promotion must be certified by the later exact-SHA receipts.
+Recognition-only subjects do not gain imagined private dialogue. Missing core direction cells remain not yet audited, not absent relationships. Unknown fate, recipient assent, promised outcomes, ordinary preferences and Tanya attraction/orientation remain constrained rather than completed by invention. These are evidence ceilings, not unfinished mandatory repair work. The authority promotion receipt verifies the accepted analytical tree and native cutover without changing these limits. Exact Git/CI history and final handoff determine later wrapper publication/integration; this artifact does not self-certify a future followup commit.

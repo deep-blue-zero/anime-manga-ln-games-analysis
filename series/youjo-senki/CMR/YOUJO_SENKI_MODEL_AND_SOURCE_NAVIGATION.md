@@ -7,14 +7,18 @@ canonical_home: series/youjo-senki/CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.m
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-promotion_status: PROPOSED_PENDING_VERIFIED_MAIN_INTEGRATION
+promotion_status: "VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS"
+analytical_body_authority: "VERIFIED_ACCEPTED_MAIN_WITH_LIMITS"
+native_predecessor_pointers: "VERIFIED_NATIVE_CUTOVER"
+accepted_analytical_main_sha: "813cc91553f99e2de7c357794897bb8c59b2f548"
+authority_promotion_record: "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json"
 ---
 
 # Completed models, source ceilings and retrieval
 
 The admitted roster contains **29 packages: 2 full-spectrum models with domain limits, 23 domain-bounded models, and 4 recognition profiles**. These are the materially supported subjects audited in this continuation, not an exhaustive named-person census. Unexamined figures remain `NOT_YET_AUDITED`. Confidence describes source grounding; it is not a probability of predicting a new scene.
 
-Use the model, its claim index and its versioned QA together. Original failures, held-out partial predictions and later nonblind repair regressions remain separate records. Metadata-only and lexical-navigation successors do not earn a fresh blind score. The [machine navigation](Provenance/YOUJO_SENKI_COMPLETED_MODEL_NAVIGATION.jsonl) binds the current package bytes, stable claim IDs and separately versioned QA. Its first-row `current_qa_qualification_catalog` binds report/case/trace hashes; each actor selects the applicable records through `current_qa_qualification_refs`. Original QA keeps its own routes and byte bindings. The delivery manifest records final release hashes.
+Use the model, its claim index and its versioned QA together. Original failures, held-out partial predictions and later nonblind repair regressions remain separate records. Metadata-only and lexical-navigation successors do not earn a fresh blind score. The [machine navigation](Provenance/YOUJO_SENKI_COMPLETED_MODEL_NAVIGATION.jsonl) binds the current package bytes, stable claim IDs and separately versioned QA. Its first-row `current_qa_qualification_catalog` binds report/case/trace hashes; each actor selects the applicable records through `current_qa_qualification_refs`. Original QA keeps its own routes and byte bindings. The [final current delivery manifest](Provenance/YOUJO_SENKI_CMR_FINAL_DELIVERY_MANIFEST.json) records current wrappers, authority records and unchanged analytical packages. The [original accepted manifest](Provenance/YOUJO_SENKI_CMR_DELIVERY_MANIFEST.json) remains byte-identical historical verification for the accepted analytical tree; the [authority wrapper patch trace](Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION_WRAPPER_PATCH_TRACE.json) binds the bounded later metadata/routing changes.
 
 | Subject / operational home | Source class / confidence | Claims / original QA | Principal ceiling |
 |---|---|---|---|
@@ -56,7 +60,7 @@ The six specialist metadata successors are qualified by [independent metadata re
 
 Current construction and scoped QA are **complete with limits**. The [separately qualified current ensemble release](QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA.md), [76-case ledger](QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA_CASES.jsonl) and [17-application repair trace](QA/YOUJO_SENKI_ENSEMBLE_APPLICATION_REPAIR_TRACE.json) retain the original failed ensemble qualification, all 76 frozen payloads, their recorded failures/partials and the separately traced repairs. The current six-model process acceptance does not rescore that original suite or any of the seven source continuations. Generated Japanese is illustrative noncanonical QA material, with grammar/register/ownership and decision/disclosure judged separately; it is neither quotation nor diagnostic evidence.
 
-Model and original-QA `promotion_status` fields retain their construction/evaluation snapshots. Actual publication, verified main integration and native-Drive authority cutover are controlled by separately verified release/promotion receipts; all remain pending here. No header is mass-rewritten to manufacture a later authority state, and source classes, confidence and ceilings remain unchanged.
+Model and original-QA `promotion_status` fields retain their construction/evaluation snapshots. The [authority promotion receipt](Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) verifies the previously accepted analytical tree at main `813cc91553f99e2de7c357794897bb8c59b2f548` and completed native predecessor pointers. No model/header mass rewrite, source-confidence upgrade or prediction rescore follows. This receipt certifies those completed events; its later wrapper publication is governed by exact Git/CI history and the final handoff, without an invented own-commit SHA.
 
 ## Follow a claim to Japanese evidence
 
