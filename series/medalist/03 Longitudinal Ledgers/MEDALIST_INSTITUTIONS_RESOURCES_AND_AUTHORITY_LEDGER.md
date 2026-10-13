@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.9"
+version: "1.10"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V10 closed (Scores 1–40, Short Programs 1–5, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V11 closed (Scores 1–45, Short Programs 1–6, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V10_UPDATE"
+review_status: "AUTHOR_REVIEWED_V11_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -370,3 +370,39 @@ A creator note records that the artwork is produced with assistants by remote co
 | The hidden coach's regime | ORG-0006 | MD-IN-0057/0058/0084/0107 | Unchanged in its terms; now staffed by the rival's teacher and known to one more adult. | As before. |
 | Household | The Yuitsukas | MD-IN-0108 | A mother at work, a sister as escort. | — |
 | Others | As V09 | as before | Unchanged in V10. | — |
+
+## V11 evidence tables
+
+All events below are version 1 through `MD-FR-V11`. In this section `EV-####` expands to the [V11 reading's](../02%20Sequential%20Readings/MEDALIST_V11_DEEP_READING.md#canonical-observations) `MD-EV-V11-####`. New setting: MD-ORG-0036, the first event of the Junior Grand Prix series in Bangkok, held at a training rink on the fifth floor of a shopping mall, with a hotel and a federation party of four skaters, their coaches, chaperones and staff. Earlier tables are unchanged. Descriptions are paraphrases.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0109 | ORG-0034, the series | As stated in Score 41 | More than a hundred entrants and six finalists per discipline; points of fifteen, thirteen, eleven, nine and seven by place across at most two events; federations assign entries from skaters' stated availability and may change them | A skater cannot choose her opponents; the protagonist's first event is against the reigning winner of the series; fourth place yields nine points | EV-0002/0003/0038; MD-COMP-0012; MD-CL-0013@11 | HIGH as in-story statements; prior MD-IN-0099 |
+| MD-IN-0110 | Junior short-program rules this season | As stated in Scores 42–43 | A solo triple Lutz; a solo double Axel with the triple Axel not permitted; a combination that does not repeat the solo jump; junior more restricted than senior for the sake of development | Skaters with all five triples skate one layout; rare jumps confer nothing in this segment | EV-0014/0024; MD-SK-0069; MD-CL-0008@10/0013@11 | HIGH as stated; prior MD-IN-0100 |
+| MD-IN-0111 | Judging as stated | Event 1 | Nine judges, one of the skater's nationality; execution marks averaged after the highest and lowest are discarded; a jump a quarter short keeps its base value and loses execution marks | A top mark from one judge is seen and does not count; a foreign newcomer is known to the panel only by what she does | EV-0019/0020/0031; MD-CL-0005@10/0013@11 | HIGH as stated; prior MD-IN-0090 |
+| MD-IN-0112 | Junior free-skate rules | As stated in Score 45 | A choreographic sequence in place of the step sequence, with one base value and no level | The protagonist's signature element has no slot in the longer segment | EV-0043; MD-SK-0071; MD-CL-0008@10 | HIGH as stated |
+| MD-IN-0113 | ORG-0036, a national team abroad | Late August | Two women and two men sent; coaches, a trainer, family chaperones and federation staff travel; free movement outside fixed sessions; meals arranged at the hotel; skaters advised to keep to familiar food; a habit, taught at the camp, of leaving the door open when an adult visits a skater's room; a representative's small lapse treated as a matter of national standing | The event is managed as conditioning from departure; conduct is held to a representative's standard | EV-0012/0013/0015/0032/0051; MD-CL-0011@11/0013@11 | HIGH; prior MD-IN-0103 |
+| MD-IN-0114 | ORG-0002, its adults | From about June | A medical trainer shared with the Fukuoka club attends twice a week and travels to competitions; the second coach examines new elements; the head coach and second coach join by video from home; the assistant coach assigns himself the part of never braking | Functions that one coach once held alone are divided among four adults | EV-0003/0005/0011/0016/0033; MD-CS-0239/0240; MD-CL-0011@11/0024@6 | HIGH; prior MD-IN-0104 |
+| MD-IN-0115 | Rinks as a resource: Nagoya's shared ice and ORG-0028 | Stated in Score 45 | Several clubs share one rink in Nagoya, so run-throughs over the whole ice are scarce; the Tokyo club has its own rink with ice reserved for competitors, in-house trainers, ballet and classes, and by its head's account lower total costs | A difference of environment is offered as the cause of a scoring weakness and as the reason to transfer | EV-0043/0044/0047; MD-SK-0071; MD-CL-0011@11/0008@10 | HIGH that it is said; the causal claim is conjecture by one coach's own description; prior MD-IN-0073 |
+| MD-IN-0116 | ORG-0028 and ORG-0002, recruitment | Event 1, night | An Olympic champion offers a rival club's assistant coach a post, with his pupil to follow, in her own room among her supporters and without the other club's head coach; a pupil of hers puts the same proposal to the skater as a test of seriousness; her club's mothers keep a group channel in her support | The offer is neither accepted nor refused; the coach will not answer without the skater and her family and names a small club's concentration of adults as its strength | EV-0042/0044/0046/0047; MD-CS-0244/0245/0246; MD-CL-0011@11/0007@10/0025@6 | HIGH; whether the setting was designed is a witness's open question |
+| MD-IN-0117 | ORG-0020 and a coach's household | Years to the present | A club founded round one abandoned child; her parents pay her fees and are kept at a distance arranged by her coach; she lives in the dormitory of a school with a rink; the coach's wife acts as chaperone; a sponsorship contract is planned when she turns senior | A coach's household does the work of a family, and fees are both support and injury | EV-0036/0037/0040; MD-CS-0237/0242; MD-CL-0011@11/0026@4 | HIGH for her account; several fields are from a creator profile; prior MD-IN-0063 |
+| MD-IN-0118 | The senior age limit | Past to present, as told | Lowered from seventeen to fifteen after the Olympics at which Yodaka retired, then restored; a sixteen-year-old won the Olympics in the interval; a junior born in August is kept from last year's Games | Eligibility is a moving rule that makes one champion and excludes another | EV-0038; MD-CL-0022@7/0013@11 | HIGH as in-story history; the page states that it is fiction; prior MD-IN-0102 |
+| MD-IN-0119 | ORG-0006 and ORG-0016 | Summer | The seeded skater rests an injury and skips her block; her coach of record collapses in mid-season; she announces her departure from the club for Tokyo; the hidden coach is at a Tokyo coach's door | The arrangement described at MD-IN-0084 loses its front | EV-0008/0048/0049; MD-CS-0247; MD-CL-0016@10/0003@10 | HIGH for each fact; the destination club is inferred; prior MD-IN-0107 |
+
+A creator note records that the Bangkok chapters were researched on a visit (EV-0054). It is a production fact; it supports the venue detail and is not analysed.
+
+### Current projection after V11
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| The series | This season | MD-IN-0099/0109 | One event skated; fourth; nine points by the stated table. | Her second event; the standings. |
+| Junior rules | Both segments | MD-IN-0100/0110/0112 | A fixed short-program jump set; no step sequence in the free skate. | External verification. |
+| Judging | The event | MD-IN-0090/0111 | Nine judges, trimmed marks, a quarter-short call. | — |
+| Rinks | Nagoya and Tokyo | MD-IN-0115 | Shared ice against a club's own. | Whether the difference explains her sequence. |
+| Recruitment | Two clubs | MD-IN-0116 | An open offer; a second, apparently successful, acquisition of the other side's prodigy. | Both outcomes. |
+| Lux | Its adults | MD-IN-0104/0114 | Four adults with divided functions and a shared trainer. | — |
+| A coach's household | Aisai Ride | MD-IN-0117 | Guardianship in fact. | — |
+| Age limits | The sport | MD-IN-0102/0118 | Seventeen now; once fifteen. | Whether it moves again. |
+| The hidden coach's regime | ORG-0006 | MD-IN-0084/0107/0119 | Its front has fallen ill and been left. | Its new form. |
+| Team travel | The federation | MD-IN-0113 | Conditioning and conduct as part of the event. | — |
+| Others | As V10 | as before | Unchanged in V11. | — |

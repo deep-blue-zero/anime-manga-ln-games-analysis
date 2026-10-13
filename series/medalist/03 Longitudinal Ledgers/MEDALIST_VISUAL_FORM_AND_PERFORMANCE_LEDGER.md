@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.9"
+version: "1.10"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V10 closed (Scores 1–40, Short Programs 1–5, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V11 closed (Scores 1–45, Short Programs 1–6, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V10_UPDATE"
+review_status: "AUTHOR_REVIEWED_V11_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -310,3 +310,30 @@ All feature and motif records below are version 1 through `MD-FR-V10`. In this s
 | MD-MOT-0012 — confinement and release (extended) | V10: EV-0040 "a person who can live only on the ice"; EV-0041 chains on the challenger; EV-0008 a chrysalis | The image of binding passes from the champion's pupil to her rival | Enclosure is now drawn on the one who chose it | MD-CL-0003@9/0027@2 |
 | MD-MOT-0013 — light and shadow (extended) | V10: EV-0012 a rival who once looked like an angel and now looks pitch black; EV-0039 a champion who takes care not to overawe | The darkness is in the beholder | The shadow is now seen from under it | MD-CL-0023@6 |
 | MD-MOT-0002, 0003, 0004, 0006, 0008, 0011 | 0002: execution marks against content; a title without the decisive jump (EV-0004/0049). 0003: rice balls fed in silence (EV-0020). 0004: a coach who leaves in order to protect (EV-0024). 0006: falls at a selection that still selects (EV-0010). 0008: a night of talk and a morning of jumps (EV-0022/0029). 0011: none | — | Unchanged in kind | — |
+
+## V11 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V11`. In this section `EV-####` expands to the [V11 reading's](../02%20Sequential%20Readings/MEDALIST_V11_DEEP_READING.md#canonical-observations) `MD-EV-V11-####`. Locators are image occurrences in CBZ order. Order is verified. Facing-page geometry was not verified for any pair in this volume. Earlier tables are unchanged.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0095 | EV-0005/0007/0045 | 0015–0017, 0023–0025, 0173 | A rescue drawn as chivalry with roses; a kneeling man thrown three days running; in the last chapter an Olympic champion kneeling to the same man, who begs her not to | A gag set up in the first chapter argues, in the last, that abasement burdens its recipient | MD-CS-0225/0244; MD-CL-0012@11 | HIGH |
+| MD-VF-0096 | MD-MOT-0009; EV-0012/0016 | 0041, 0056 | A board-game track from flight to free skate; a status bar that falls with travel, a held bladder and a bad draw | Presents an overseas event as attrition of a body before any jump | MD-SK-0072; MD-CL-0012@11/0013@11 | HIGH |
+| MD-VF-0097 | MD-MOT-0002; EV-0019–0024 | 0066–0089 | A row of seven element boxes filled as each skater performs; printed panels of base values; card rows that match across skaters | Lets the reader see identical layouts filled differently | MD-PERF-0097/0099; MD-CL-0012@11/0008@10 | HIGH |
+| MD-VF-0098 | MD-MOT-0009; EV-0023/0024 | 0082, 0088–0089 | A pyramid of ornate chairs with treasure chests of points, the heroine on top before a crowd of backs; cards with a rarity grade crossed out; two creatures of different training levels | Shows her for the first time in the seat the series gave her rival, and turns a rule into a collecting game she already knows | MD-CS-0234; MD-CL-0012@11/0023@7 | HIGH; develops V08's tower of chairs |
+| MD-VF-0099 | MD-MOT-0005; EV-0027/0029 | 0096–0117 | Three full pages for a rival's short program: a sea-witch among jewelled tentacles, a collage with the heroine drawn very small at its centre, a bent-back finish; an anatomical aside on the weight of the head | Gives the series' leading junior the scale previously reserved for the prodigy, and locates her difference in the neck | MD-PERF-0098; MD-CL-0012@11/0008@10 | HIGH |
+| MD-VF-0100 | EV-0028 | 0108–0109 | Captions of her creed over a dark collage of a cluttered room, a clock, scissors and a child's eye; then a bright memory panel; then a small figure alone on an empty rink | States a home by images only and sets a promise against its absence | MD-CS-0236; MD-CL-0012@11/0022@7 | HIGH construction; the home is not explained on these pages |
+| MD-VF-0101 | EV-0031/0032 | 0122–0126 | A protocol sheet shown as a document with one mark circled; a worked average; a man performing a rival's passage in a hotel room; a caption box for a voice heard as empty | Uses a score sheet and a body as two kinds of record | MD-CS-0238; MD-CL-0012@11/0010@11 | HIGH |
+| MD-VF-0102 | MD-MOT-0011/0001; EV-0034/0035/0036 | 0128–0137 | A girl with her back against a closed door; a balcony over lit walls; a pool from above; two figures on a ring, feet together; a small child receiving jewels from a man whose shirt is studded with them; hands joined; fireworks | Stages a confession in water and draws her fear of taking as a picture of gifts | MD-CS-0241/0242; MD-CL-0012@11/0029@1 | HIGH |
+| MD-VF-0103 | EV-0038/0046/0049 | 0139–0143, 0166–0177, 0180–0185 | A chapter that opens on another woman's Olympics and gives the heroine's result as a caption; an offer cross-cut between a suite of bouquets and a laundry room, each refusal inset with an image from an earlier volume; a closing run of a hospital room, a door at night, a laughing face and a girl on a crossing | Withholds a performance, pairs two answers, and ends on the rival's move | MD-COMP-0012; MD-CL-0012@11/0025@6 | HIGH |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V11: EV-0005 a signboard caught; EV-0018 drawstrings gripped; EV-0026 a chin lifted; EV-0036 a hand taken in a pool; EV-0045 knees on a carpet | The comforting hand is the younger girl's | Contact now runs from the protected to the unprotected | MD-CL-0029@1 |
+| MD-MOT-0003 — food and choice (extended) | V11: EV-0013 food that cannot be eaten abroad and sweets given away; EV-0024 the first volume's taiyaki as the name of a strategy; EV-0040 presents chosen at a market | — | Food is now conditioning, and the old image of a safe plan names what everyone does | MD-CL-0008@10 |
+| MD-MOT-0005 — seeing and being seen (extended) | V11: EV-0019 nine strangers judging; EV-0025 a chair everyone is chasing; EV-0026 "one cannot see the ice looking down"; EV-0027 a skater whose eyes are not what she steers by; EV-0032 a voice recognized as empty | He hears what he once could not see | Attention now includes listening for uptake | MD-CL-0004@10/0027@3 |
+| MD-MOT-0009 — cards, wagers and chairs (extended) | V11: EV-0023 chairs with point chests; EV-0024 rare cards barred and trained cards winning; EV-0014 the strongest card does not win | The heroine on the top chair wishes, for a moment, that others would fall | The game has become one of upkeep | MD-CL-0008@10/0023@7 |
+| MD-MOT-0011 — ice outside the rink (extended) | V11: EV-0019 a film's lake from which a double rises; EV-0034 a lake remembered on a balcony; EV-0035 a pool at night; EV-0027 a mermaid's sea | The water here is not frozen | Her imagined ice has a warm counterpart in which things are said | MD-CL-0029@1 |
+| MD-MOT-0013 — light and shadow (extended) | V11: EV-0025 the thought that the one who shines would never wish others ill; EV-0028 lines of light by which a skater finds herself | She idealizes the rival who, in V09, owned her shadow | Light is now also orientation | MD-CL-0023@7 |
+| MD-MOT-0014 — the maze and the eye above (extended) | V11: EV-0010 a body she does not know; EV-0027 control without sight; EV-0032 a program reproduced from one viewing and a wish to give that away | The first step toward self-observation comes from a quota, not from his teaching | The faculty is shown in two bodies and not yet transmitted | MD-CL-0010@11 |
+| MD-MOT-0002, 0004, 0006, 0007, 0008, 0010, 0012 | 0002: identical content, different marks (EV-0030). 0004: a trainer who answers for a harm she could not prevent (EV-0006). 0006: a fall reported and not drawn (EV-0043). 0007: a first-volume sentence about staking a life returned as her reason to wait (EV-0046). 0008: a night of confidences (EV-0034–0036). 0010: his word for a goal he will serve (EV-0003). 0012: none | — | Unchanged in kind | — |

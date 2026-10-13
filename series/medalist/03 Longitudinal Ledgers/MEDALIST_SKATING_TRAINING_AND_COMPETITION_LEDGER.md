@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.9"
+version: "1.10"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
-source_boundary: "Japanese V01–V10 closed (Scores 1–40, Short Programs 1–5, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V11 closed (Scores 1–45, Short Programs 1–6, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V10_UPDATE"
+review_status: "AUTHOR_REVIEWED_V11_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -380,3 +380,31 @@ All rows are version 1 through `MD-FR-V10`. In this section `EV-####` expands to
 | MD-SK-0066 | Hikaru / Takamine; Yodaka / Scores 37 and 40 | A step-sequence teacher requested by letter in order to reach level 4; landings lighter after growth; lower-back pain in practice | OBSERVATION; ATTRIBUTED appraisal by Tsukasa; SELF_REPORT of pain | EV-0002/0038/0043; MD-CL-0003@9/0008@9 | HIGH; her step level under the new teaching is not shown |
 
 The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V10`: Inori's competition-credited content is unchanged from `MD-FR-V09`; in practice she has one clean triple Lutz at the camp and has not trained the quadruple since her growing pains began. No junior competition has been shown. Field frontier: a junior woman's triple Lutz of exceptional height; in memory, a man's quadruple Lutz at the top execution mark.
+
+## V11 evidence tables
+
+All rows are version 1 through `MD-FR-V11`. In this section `EV-####` expands to the [V11 observation](../02%20Sequential%20Readings/MEDALIST_V11_DEEP_READING.md#canonical-observations) `MD-EV-V11-####`. This is the protagonist's first junior competition and her first abroad. Her free skate is reported by a third party and not depicted; rows that rest on that report say so. No external rule or medical document was consulted or admitted; the external-reference table remains empty. One page carries the work's own notice that its skating history is fiction. Scores are as printed. Earlier tables are unchanged.
+
+| Competition | Depicted identity / category / segment | Date / rule certainty | Source observations | External-rule refs / unresolved matches |
+| --- | --- | --- | --- | --- |
+| MD-COMP-0012 | Junior Grand Prix series, Event 1, Bangkok; women's singles; short program and free skate on consecutive days; thirty entrants; a rink on the fifth floor of a shopping mall. **Final places: 1 岡崎いるか (Japan); 2 a skater representing the United States; 3 a skater representing France; 4 結束いのり (Japan).** Short-program scores printed: Iruka 73.83; Inori 65.28 (first to skate); a Mongolian skater 55.21; a French skater 54.72 | Late August of the protagonist's first middle-school year, by a creator aside that places the return on 30 August; year not given. In-story statements added in V11: the series points table; junior short-program requirements; a quarter-short call; trimmed averaging of nine judges' marks; a choreographic sequence without levels in the junior free skate | EV-0003/0016/0022/0024/0030/0038/0043/0055 | No MD-EXT. No free-skate or total score is printed; the medalists from the United States and France are not named; the protagonist's place after the short program is not printed. |
+
+| Performance | Athlete / setting | Plan / attempt / depiction / call | Supplied score / result | Expressive aim / attributed response | Evidence / limits / correction |
+| --- | --- | --- | --- | --- | --- |
+| MD-PERF-0096 | MD-CHAR-0004 / home rink, about two weeks before the event | Triple flip and triple toe loop, three landed in three attempts under a senior coach's test | None | Her second coach consents to the season's goal | EV-0011; practice |
+| MD-PERF-0097 | MD-CHAR-0004 / MD-COMP-0012, short program, start order one; music from a film; martial-arts choreography | Triple flip and triple toe loop, the second jump called a quarter short with a negative execution mark; triple Lutz, landed; flying sit spin, level 4; step sequence, **level 4**; double Axel from a counter in the bonus half with a twizzle after it, one judge's plus four discarded; layback spin, level 4; change-foot combination spin, level 4. Printed base values 9.50, 5.90, 3.00, 3.90, 3.63, 2.70, 3.50 | **65.28**; provisional leader for a long stretch | Commentators: a leading newcomer; the hall warms to her | EV-0019/0020/0021/0022/0031; no technical or component subtotal is printed |
+| MD-PERF-0098 | MD-CHAR-0037 / MD-COMP-0012, short program; music from a circus show | Triple Lutz from a spread eagle, of exceptional height; double Axel with a butterfly after the landing; step sequence with two clusters; triple flip and triple toe loop last for the bonus with an unplanned added flourish; change-foot combination spin, level 4; a spin variation of unusual flexibility | **73.83**; first | Tsukasa: free head and exact tracings; commentary: a model of execution; Inori cheers | EV-0027/0029/0030; not every element's call is printed |
+| MD-PERF-0099 | A skater representing Mongolia and a skater representing France / MD-COMP-0012, short program | Each shows a triple Lutz, a double Axel and a triple flip and triple toe loop; each falls once | **55.21**; **54.72** | Inori: stage presence far beyond her own | EV-0024; unnamed |
+| MD-PERF-0100 | MD-CHAR-0004 / MD-COMP-0012, free skate | **Reported, not depicted.** By plan one quadruple Salchow, landed; triple Lutz, a fall; a triple flip in combination called for an edge error; a choreographic sequence scored poorly, her movement stiff | Not printed; fourth overall | Riley Fox and Jakuzure: her true quality did not come out | EV-0038/0042/0043; a rival coach's summary, uncontradicted by her own coach |
+| MD-PERF-0101 | MD-CHAR-0056 / an Olympic free skate years earlier | A quadruple flip landed as the last jump | Olympic gold at sixteen | — | EV-0038; remembered; in-story history |
+
+| Technical transition | Athlete / coach / known after | Skill / prior limit / intervention / outcome | Channel / physical constraints / risk | Performance / evidence / claim version | Confidence / counterevidence / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-SK-0067 | Inori / Kanayumi and Tsukasa / Score 41 | Training under knee pain reorganized: taping, rest days, a daily quota of attempts at a new element, and analysis after each failure in place of immediate repetition | SELF_REPORT of pain since February, eased and returned; ATTRIBUTED prescription and maxim | EV-0008/0010; MD-CL-0004@10/0015@10 | HIGH; extends MD-SK-0062 |
+| MD-SK-0068 | Inori / Tsukasa, tested by Kōhei / Score 41 | A triple flip and triple toe loop acquired and admitted to the layout on three landings in three | DEPICTED_PERFORMANCE; an explicit condition of success | MD-PERF-0096/0097; EV-0011/0020; MD-CL-0007@10/0024@6 | HIGH; in competition the second jump was a quarter short |
+| MD-SK-0069 | The junior field / Scores 42–44 | Under this season's rules skaters with five triples show the same three short-program passes; outcomes turn on execution marks, bonus placement, ornament after landings and carriage | IN_UNIVERSE_STATEMENT; DEPICTED comparison of two programs with identical jump content and an eight-point gap | MD-PERF-0097/0098/0099; EV-0014/0024/0030; MD-CL-0008@10/0005@10 | HIGH as stated and shown; extends MD-SK-0063 |
+| MD-SK-0070 | Inori / Scores 43 and 45 | The triple Lutz landed in a competition for the first time, from a held outside edge, and fallen in the next segment; the triple flip's take-off edge called in the free skate | DEPICTED_PERFORMANCE for the first; REPORT for the others | MD-PERF-0097/0100; EV-0020/0043; MD-CL-0005@10/0008@10 | HIGH for the short program; the free skate is a report; prior MD-SK-0064; an edge-attention mark on the flip appeared on her V09 protocol |
+| MD-SK-0071 | Inori / Tsukasa; Riley Fox / Score 45 | The junior free skate has a choreographic sequence in place of the step sequence, with no level; hers scored poorly; both coaches attribute it to too little rehearsal with music across a full rink, which a shared rink limits | IN_UNIVERSE_STATEMENT; ATTRIBUTED diagnosis, called conjecture by her coach | MD-PERF-0100; EV-0043/0046/0047; MD-CL-0008@10/0011@11 | MODERATE for the cause; HIGH that both hold it |
+| MD-SK-0072 | Inori / Kanayumi and Tsukasa / Score 42 | Competition routines added: eye exercises, an amino-acid drink before and after, taping, and a breathing image for making a foreign hall familiar; conditioning from the moment of travel treated as part of the event | ATTRIBUTED method; DEPICTED_PERFORMANCE of the routine; she slept and ate well | EV-0012/0016/0018; MD-CL-0004@10 | HIGH that the routine was used; its effect is not isolated |
+
+The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V11`: Inori's competition-credited content now includes, in a junior international, a triple Lutz, a triple flip and triple toe loop with a quarter-short second jump, a level-4 step sequence and, by report, a quadruple Salchow in the free skate; her flip's edge and her choreographic sequence are named weaknesses. Field frontier among junior women as shown: a short program of 73.83 on the same jump content.

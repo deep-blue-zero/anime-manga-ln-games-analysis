@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.9"
+version: "1.10"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V10 closed (Scores 1–40, Short Programs 1–5, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V11 closed (Scores 1–45, Short Programs 1–6, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V10_UPDATE"
+review_status: "AUTHOR_REVIEWED_V11_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -472,3 +472,43 @@ The history between Iruka and Mika is learned by Inori at the camp from a junior
 | MD-RT-0070 | EV-0028/0044, Scores 39–40 | V01, a child alone in a classroom reading adults; V04:EV-0038, the cold feeling; V09:EV-0040, composure offered to her coach | Two adults propose that these formed the instrument of her rapid growth | Offered as a guess and as a question; her learning by delight is equally attested (V04:EV-0038; V09:EV-0028) | Registered as MD-CL-0028@1; LOW-MODERATE |
 | MD-RT-0071 | EV-0049–0052, Short Program 5 | V09:EV-0042–0049, the night after her defeat; V03–V04, Rio's standard | On the following day a clubmate won the boys' title and she defended its worth to him | — | MD-RV-0149/0150; HIGH |
 | MD-RT-0072 | EV-0031/0036, Scores 39–40 | V06:EV-0037, "you know you are rare" and "my way of using my possibility"; V09:EV-0046, sacrifice as the reflex of inferiority | He now holds that he denied a real faculty out of inferiority and wasted it | His inference, prompted by another man's metaphor and one jump | MD-RV-0141/0153; HIGH that he thinks so |
+
+## V11 evidence tables
+
+All records below are version 1 through `MD-FR-V11`. In this section `EV-####` expands to the [V11 reading's](../02%20Sequential%20Readings/MEDALIST_V11_DEEP_READING.md#canonical-observations) `MD-EV-V11-####`; earlier volumes are written with their volume prefix. No calendar year is inferred. Earlier tables are unchanged. Descriptions are paraphrases.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0089 | The weeks between the camp and the first event: the assignment to Event 1; two weeks out, a forced rest day; the trainer's first sessions; the new combination tested | Score 41 / PRESENT | EV-0003–0011 | "Within a month" at the assignment and "two weeks" at the rest day; her knee pain is said to have begun in February, eased, and returned after the camp | HIGH |
+| MD-TM-0090 | Event 1 in Bangkok: arrival and a look at the rink; official practice and the draw next morning; the short program in mid-afternoon local time; the free skate the following day; a free day and the men's free skate; a team dinner; the return to Japan | Scores 42–45 and an aside / PRESENT, with the free skate elided | EV-0012–0047, 0055 | Late August: an under-jacket comic places the return on the thirtieth; the short program falls on a weekday by a caption in Japan | HIGH for the sequence; the date is from a creator aside |
+| MD-TM-0091 | V03's West Japan meet seen from another side: a trainer notices the protagonist's landings, sets out to warn her, and is knocked unconscious before her skate | Score 41 / FLASHBACK | EV-0006 | Inside MD-TM-0016 and its neighbours | HIGH as told |
+| MD-TM-0092 | About June: Tsukasa's visits to the Fukuoka club on successive days and the trainer's consent. V10's camp, first day and night: a misread timetable, a reprimand, a night in Hitomi's room | Score 41 and Short Program 6 / FLASHBACK and retrospective side story | EV-0007, 0051, 0052 | The first completes MD-TM-0084; the second lies inside MD-TM-0085 | HIGH |
+| MD-TM-0093 | Iruka's past: skating begun to cover a parent's lie; a friendship and a promise at the first rink; a second club left; abandonment and adoption into a coach's care as the first pupil of his new club; a dormitory; a part-time job | Score 44 and a profile / MEMORY, testimony, creator profile | EV-0028/0036/0037 | Extends MD-TM-0086; no dates | HIGH as told; profile fields are paratext |
+| MD-TM-0094 | Older public history: the Olympics at which Yodaka retired; the senior age limit lowered to fifteen; Riley Fox's Olympic title at sixteen and her retirement; the limit restored to seventeen; an Olympics "last year" that Iruka was too young to enter | Score 45 / report with the work's own fiction notice | EV-0038 | Places Yodaka's retirement before Riley Fox's title; consistent with MD-TM-0069 and 0087 | HIGH as in-story history |
+| MD-TM-0095 | In Japan, about the time of the Bangkok event and after: Sonidori's collapse and hospital stay; Hikaru's return to full training the day before her visit; her announcement; an undated night scene at a door in Tokyo; an undated image of her in a new uniform | Score 45 / PRESENT, intercut; the last two undated | EV-0048/0049 | News of the collapse reaches Bangkok on the night of the offer; the door scene shows Riley Fox, who is in Bangkok that night, so it is earlier or later, most plausibly later | HIGH for the hospital scene's placement; LOW for the last two |
+
+New proposition keys: MD-PROP-0041 that a trainer recognized the protagonist's shin splints before her fall in V03; MD-PROP-0042 that Inori is ashamed of being protected and fears what she costs her coach; MD-PROP-0043 that Riley Fox has offered Tsukasa a post with Inori to follow; MD-PROP-0044 that Hikaru is leaving Meikō Wind for Tokyo.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0105 | PROP-0041 / Tsukasa, Hitomi, Inori | From the trainer's introduction | TOLD by her; in V03 none of them knew that anyone had seen it coming | It is his ground for wanting this trainer above others | EV-0005/0006/0007; HIGH |
+| MD-KN-0106 | The junior short-program rules / Inori; Tsukasa | Event 1 | She had been TOLD repeatedly since February and had not taken it in; she had attributed the absence of a quadruple to her knees; she UNDERSTANDS in the leader's chair. He SEES that it had not arrived | The first time she herself recognizes the failure of instruction that he diagnosed in V10 | EV-0024/0025; HIGH; prior MD-KN-0099 |
+| MD-KN-0107 | PROP-0042 / Iruka; Tsukasa | Night after the short program | Iruka is TOLD in full. Tsukasa is NOT TOLD; he has inferred that she holds in her feelings for others' sake | Her fullest self-account goes to a rival | EV-0034/0035/0036/0045; HIGH; prior MD-KN-0098 |
+| MD-KN-0108 | His faculty and his wish to give it / Inori | Same night | She SEES him reproduce a program from one viewing and had heard of it from Rio; she is NOT SHOWN to know that he means to give it to her | She wishes for the ability so as to improve faster | EV-0032; HIGH |
+| MD-KN-0109 | Her empty assent; her discounting of his praise / Tsukasa | Weeks before and during the event | KNOWN to him, the first from three years' acquaintance and the second from colleagues' explanation | He stops a session instead of repeating; he delegates caution | EV-0009/0032/0033; HIGH |
+| MD-KN-0110 | PROP-0043 / Jakuzure, Riley Fox's attendants; Inori; Hitomi and Kōhei | Event 1, night | Jakuzure and the attendants WITNESS it; Inori HEARS the proposal from a team-mate and is not shown to know it was put to her coach; the Lux head coach is absent and NOT SHOWN to know | The pair answer separately and alike | EV-0042/0044/0046; HIGH |
+| MD-KN-0111 | The protagonist's free skate / the reader | Score 45 | KNOWN only by a rival coach's summary and by the final place; no score is printed | The series withholds a performance of hers for the first time | EV-0038/0043; HIGH |
+| MD-KN-0112 | PROP-0044 / Sonidori; Tsukasa, Inori, the Bangkok party | Score 45 | Sonidori is TOLD by her. The Bangkok party LEARNS only of his collapse; they are NOT SHOWN to know of her departure | The heroine does not know that her rival has moved | EV-0047/0048/0049; HIGH |
+| MD-KN-0113 | PROP-0040 / the Nagoya clubs; Sonidori | Before Event 1 | Now common knowledge as rest for a sore back; Sonidori asks after it | Narrows MD-KN-0103: the adults know of the pain, though not shown to know of the nightly regime | EV-0008/0048; HIGH; prior MD-KN-0103/0104 |
+| MD-KN-0114 | Her homesickness and her nights beside her mother / Hitomi; Tsukasa | V10's camp onward | Hitomi KNOWS and agrees to keep it; Tsukasa is deliberately NOT TOLD | One more thing kept from him for her own sake | EV-0052; HIGH |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0073 | EV-0006, Score 41 | V03's fall and shin injury; MD-PROP-0011; his self-blame for not seeing it | A trained eye saw the signs beforehand and was stopped by chance; the injury was foreseeable to expertise the pair did not have | Told in a comic register | MD-RV-0170/0166; HIGH that it is told |
+| MD-RT-0074 | EV-0002, Score 41 | V10:EV-0011/0052, in which Hikaru and Rio remain novices | Birth months explain the classes: the girls are a school year together and a skating class apart | — | MD-RV-0158/0166; HIGH |
+| MD-RT-0075 | EV-0024/0032, Scores 43–44 | V10:EV-0027/0028, teaching that did not get through | Her side of it: information without a hook in experience, and assent given without uptake | Does not exclude V10's readings | MD-RV-0159/0177; HIGH |
+| MD-RT-0076 | EV-0028/0037, Score 44 and a profile | V10:EV-0015/0019/0021 and V06:EV-0048, Iruka and Mika | The praised child's companion was Mika; the promise was daily company; the home she came from explains what it meant | The home is shown in images and a profile only | MD-RV-0167/0172; HIGH that she remembers so |
+| MD-RT-0077 | EV-0034/0035/0036, Score 44 | V09:EV-0031, "I ended his dream"; V10:EV-0040, her creed; V10's hypothesis MD-CL-0028@1 | In her own account the motive is guilt at being protected and fear of what she costs others | Said to a peer at night after a defeat | MD-RV-0177/0178; HIGH wording |
+| MD-RT-0078 | EV-0038, Score 45 | V07–V08 Riley Fox's club and fluency; V10:EV-0002, "if the age limits do not change again" | Her title at sixteen and immediate retirement to Japan; the rule that allowed it has been reversed | In-story history under a fiction notice | MD-RV-0166/0172; HIGH |
+| MD-RT-0079 | EV-0048/0049, Score 45 | V10:EV-0034/0035, a former coach's testimony and a guardian's fear; V10:EV-0002, an old teacher's question | Each is enacted: the pupil leaves a club as her coach left his | The destination and terms are not stated | MD-RV-0158/0169/0175; HIGH for the departure |
+| MD-RT-0080 | EV-0052, Short Program 6 | V10:EV-0006, her mother's return to work; V10's camp | The mother who stopped travelling has been sleeping beside her; behind the camp's successes she was homesick and disorganized | — | MD-RV-0167/0176; HIGH |
