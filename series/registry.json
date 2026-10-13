@@ -593,7 +593,7 @@
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_SILENT_WITCH_BOOTSTRAP_V1",
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
-      "catalog_note": "Japanese-LN INITIAL architecture bootstrap for owner review; source inventory qualified and day-one master ledger initialized with zero narrative findings. Sequential-analysis lock CLOSED; primary and deterministic derived evidence remain outside Git."
+      "catalog_note": "Owner-accepted Japanese-LN INITIAL foundation; V01 byte-locked with validated locators retained locally at owner direction. Day-one master ledger has zero narrative findings; sequential-analysis lock CLOSED. Primary and deterministic derived evidence remain outside Git."
     },
     {
       "series_id": "solo-leveling",
