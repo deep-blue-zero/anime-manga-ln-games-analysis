@@ -6217,4 +6217,57 @@
     }
   },
   "source_credit_rule": "Whole and bounded author/ROOT receiving is attributed exactly in preserved original records. Mechanical adoption adds zero new source receiving. Izumi retains one necessary partial canonical recovery u21–42/G9–11 with zero whole-primary credit; Iori retains two complete small written-source checks at their original declared bounds. No source custody is rewritten as zero merely because this assembler does not replay it."
+,
+  "middle12_source_consistency_current_qualification_20261012_v1": {
+  "current_qualification_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDDLE12_CURRENT_CONTEXT_AND_PRECISE_CORRECTIONS_20261012_V1.json",
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "qualified_existing_original_pointers": [
+    {
+      "json_pointer": "/historical_author_delivery_attachments/AKO_SAVED_SECTION_AND_PARAGRAPH_RECEIVING_INDEX_V1.json/blocks/43/text",
+      "retained_value_utf8_sha256": "ed86cd9ddf7dae86834f7f0841675df50c7c087e60fd1db0ce8edab5c08417ce",
+      "finding_ids": [
+        "M12-P3-CHAR-AKO-FROZEN-1"
+      ]
+    },
+    {
+      "json_pointer": "/historical_author_delivery_attachments/AKO_SAVED_SECTION_AND_PARAGRAPH_RECEIVING_INDEX_V1.json/blocks/17/text",
+      "retained_value_utf8_sha256": "6bd68bca76b530d38cab623808cb979c928a1068e2cc7d4daf9cbbf48451e3f8",
+      "finding_ids": [
+        "M12-P3-CHAR-AKO-FROZEN-3"
+      ]
+    },
+    {
+      "json_pointer": "/historical_author_delivery_attachments/AKO_SAVED_SECTION_AND_PARAGRAPH_RECEIVING_INDEX_V1.json/blocks/58/text",
+      "retained_value_utf8_sha256": "d9bd26f51d2f555ded6ee21236162d37cfe3f1a99aab4a1c93487accd57a6198",
+      "finding_ids": [
+        "M12-P3-CHAR-AKO-FROZEN-5"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 68628,
+      "sha256": "f338d863306d27fc89aae9cabe886f29d859d1bf41d9902ae233d046bb66a84b",
+      "lines": 286,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 68628,
+        "sha256": "f338d863306d27fc89aae9cabe886f29d859d1bf41d9902ae233d046bb66a84b"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 68628,
+        "sha256": "f338d863306d27fc89aae9cabe886f29d859d1bf41d9902ae233d046bb66a84b"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "frozen_originals_receipts_hashes_and_inverse": "UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_model_identity_credit": 0,
+  "prior_PR152_layer": "PRESERVED_UNCHANGED",
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDDLE12_FIVE_LINE_BODY_DIFFERENTIAL_INVERSES_20261012_V1.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDDLE12_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

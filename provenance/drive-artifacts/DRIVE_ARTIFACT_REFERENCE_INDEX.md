@@ -656,3 +656,41 @@ These two documents were cited for routing and historical reconnaissance. This r
 This dated section covers the original cited set only. Later or otherwise uncited intake is not inventoried, authenticated or admitted by this repair. The source map's earlier observations, including its then-visible Japanese V01–V12 absence, remain historical statements rather than a new assertion about today's folder contents.
 
 The [Medalist entrypoint](../../series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md) remains `INITIAL`, `active_provisional` and `OWNER_REVIEW_PENDING`, with `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`. Structurally verified, admitted, narratively inspected and sequentially completed source units remain zero; the seven longitudinal ledgers retain zero evidence rows. Owner architecture review remains the next permitted operation. This metadata repair does not promote analytical authority, unlock sources or change any Medalist analytical artifact.
+
+## Youjo Senki CMR primary-source reference routing - 2026-10-12
+
+This section indexes fourteen source EPUBs, their source-audit manifest and the source folder used by the published Youjo Senki CMR continuation. The operational references are recorded in the pinned [integrity reproduction audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/44660b7e1f0feefbe1f1e30bcfac35ae669b843d/series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_INTEGRITY_REPRODUCTION_AUDIT.md#L20-L43), [CMR retrieval instructions](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/44660b7e1f0feefbe1f1e30bcfac35ae669b843d/series/youjo-senki/CMR/README.md#L34-L46) and [diagnostic source-navigation contract](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/44660b7e1f0feefbe1f1e30bcfac35ae669b843d/series/youjo-senki/CMR/Diagnostics/YOUJO_SENKI_TANYA_DIAGNOSTIC_NAVIGATION.md#L43-L68). The source-folder route also predates that continuation on `main`.
+
+Provider metadata was verified on 2026-10-12 at 22:25 UTC: the exact names, IDs, MIME types, file byte sizes and returned parent IDs below matched the cited objects. This is metadata verification only. The metadata response did not expose version or checksum fields; no new Drive-body download, source-byte hash verification, language authentication or narrative reading is claimed. The locked hashes in the pinned integrity audit remain that audit's historical source-integrity evidence.
+
+### Source folder
+
+| Exact provider name | Drive folder ID | Provider MIME | Returned parent ID |
+| --- | --- | --- | --- |
+| `Youjo Senki` | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` | `application/vnd.google-apps.folder` | `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy` |
+
+### Source EPUBs and audit manifest
+
+| Cited role | Exact provider name | Drive file ID | Provider MIME | Provider bytes | Returned parent ID |
+| --- | --- | --- | --- | ---: | --- |
+| `V01` | `Youjo Senki - Volume 01.epub` | `1U8EVl8O36c0UNufRZ8FyECQn1OdX66O3` | `application/epub+zip` | 4336476 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V02` | `Youjo Senki - Volume 02.epub` | `1FDlbddgXsbMIM3owNB1gl-Sevri9qkkm` | `application/epub+zip` | 18107855 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V03` | `Youjo Senki - Volume 03.epub` | `1rf02o6MhrDg3ZZ5MRAcFl351P9RJVIOy` | `application/epub+zip` | 4415642 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V04` | `Youjo Senki - Volume 04.epub` | `1drbI91vxz7KlHmg18bRQcHqZi0TERZFr` | `application/epub+zip` | 16201497 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V05` | `Youjo Senki - Volume 05.epub` | `1gr_NDKTkXiuuJxin59jav-EpzL9nC_tU` | `application/epub+zip` | 19322381 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V06` | `Youjo Senki - Volume 06.epub` | `1kDkWgFZxp-FFXNPRaKGUpBSLsw3bs1U4` | `application/epub+zip` | 17194950 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V07` | `Youjo Senki - Volume 07.epub` | `1Vod5TbjC9RhC8LUrLnYx8kNDmUfl05gx` | `application/epub+zip` | 16373031 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V08` | `Youjo Senki - Volume 08.epub` | `1yQtGtiZhfEJiQwUQaDXt6jJdmYwe8Eqb` | `application/epub+zip` | 14295126 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V09` | `Youjo Senki - Volume 09.epub` | `1pCgiYrXBISzrIuHVMTuxZTZZ9WQ8i0PZ` | `application/epub+zip` | 1762494 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V10` | `Youjo Senki - Volume 10.epub` | `1tym5uP66m2NI9CY-Rw5luqx1CVBCl1MN` | `application/epub+zip` | 20774463 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V11` | `Youjo Senki - Volume 11.epub` | `1zQw9hDWovkBGhA3KzGcBPC1jdGcolEyQ` | `application/epub+zip` | 24762051 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V12` | `Youjo Senki - Volume 12.epub` | `1pDDFx2jWBxJ0rCzYXQnPEy4TBnyZaeVK` | `application/epub+zip` | 21178558 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V13` | `Youjo Senki - Volume 13.epub` | `1-kQGGtMKjv5GODAY2Xdbx-7PxGJ7lEm4` | `application/epub+zip` | 22572251 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| `V14` | `Youjo Senki - Volume 14.epub` | `1YHzsVf_qrg9_rqm2QjqTsUyzhKC0Navc` | `application/epub+zip` | 24047512 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+| Primary-source audit | `audit_manifest.json` | `1JXarPgypYVSdzAexUyyOa4qH8mxlyHcx` | `application/json` | 8798 | `1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g` |
+
+### Reference and preservation boundary
+
+The EPUBs and audit payload remain outside Git. These entries provide sanitized reference routing; they do not change the source boundary, analytical conclusions, frozen evidence, migration crosswalks or existing CMR object records. Historical migration counts and dispositions remain historical.
+
+At this indexing checkpoint, the cited CMR continuation remains held in [draft PR 154](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/154). This metadata repair does not integrate that analysis, certify its models or QA, or promote its authority. Its analytical completion and review obligations remain separate.
