@@ -5,10 +5,11 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.0"
+version: "1.1"
+last_updated: "2026-10-13"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction"
-source_boundary: "Architecture bootstrap and source reconnaissance only; no narrative source unit analyzed."
+source_boundary: "Accepted pre-reading foundation and Japanese LN V01 technical source lock; no narrative source unit analyzed."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md"
 supersedes: []
@@ -25,13 +26,13 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 One corpus under `series/silent-witch/` builds distinct products: substantial sequential volume readings; longitudinal state; character, relationship and specialist arguments; an integrated published-LN synthesis through an authorized boundary; optionally bounded textual-history/adaptation studies; and separately validated reconstruction models. None substitutes for another.
 
-The single first-read surface is [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). The [analytical method](SW_ANALYTICAL_METHOD.md) governs how evidence is read; this architecture governs where accumulated knowledge goes. The [character method](SW_CHARACTER_RECONSTRUCTION_METHOD.md) governs future behavior/speech models, and the [volume template](SW_VOLUME_READING_TEMPLATE.md) assists production. These V1 documents are current-eligible branch methodology for owner review. Main integration, semantic owner acceptance, and permission to read are distinct pending acts.
+The single first-read surface is [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). The [analytical method](SW_ANALYTICAL_METHOD.md) governs how evidence is read; this architecture governs where accumulated knowledge goes. The [character method](SW_CHARACTER_RECONSTRUCTION_METHOD.md) governs future behavior/speech models, and the [volume template](SW_VOLUME_READING_TEMPLATE.md) assists production. The owner accepted these V1 documents, and their paired responsibilities/day-one homes passed the V01 preparation review. Main integration and permission to read remain distinct from that acceptance. The latest owner instruction retains the locator package locally and holds the gate CLOSED.
 
 Architecture lifecycle is INITIAL. No predecessor is superseded. Live authority records, the [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), archive authority, continuation, execution/handoff, publication, and integration controls outrank local defaults. Creating this corpus does not change the epoch-1 migration boundary.
 
 ## 2. Source model and storage planes
 
-The [source/continuity map](../01%20Source%20Lock%20and%20Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md) owns identities, integrity qualifications, exclusions, and admission. Numbered Japanese LN I–XII form the intended prospective primary track. No individual unit is execution-admitted or locked yet. Published IV -after-, IX -extra-, and -another- upper/lower are inventoried separate supplemental units. Web main N8356GA, web gaiden N5194GP, and shared-world Rosalie N8978FV have distinct witness and continuity identities. No correspondence or harmonization is assumed.
+The [source/continuity map](../01%20Source%20Lock%20and%20Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md) owns identities, integrity qualifications, exclusions, and admission. Numbered Japanese LN I–XII form the intended prospective primary track. V01 is now technically byte-locked with validated local locators under [its dedicated receipt](../01%20Source%20Lock%20and%20Inventory/SW_LNJP_V01_SOURCE_LOCK.md). No individual unit is execution-admitted for narrative reading; the other units remain unlocked. Published IV -after-, IX -extra-, and -another- upper/lower are inventoried separate supplemental units. Web main N8356GA, web gaiden N5194GP, and shared-world Rosalie N8978FV have distinct witness and continuity identities. No correspondence or harmonization is assumed.
 
 Publication date/order, diegetic placement, reader disclosure order, and admission order are independent fields. A prequel's early story time does not make it safe before V01. A short-story collection can contain multiple temporal positions and spoilers. Admission requires an explicit unit/story boundary and safe knowledge limit rather than numeric interpolation.
 
@@ -47,6 +48,8 @@ Git holds interpretation, methods, public-safe routing, state, and provenance. G
 | Character reconstruction method | Model identity, bounded domains, diagnostics, testing, and abstentions. |
 | Volume reading template | Reusable output contract; no completed volume or findings. |
 | Source/continuity map | Source objects, qualification of checks, exclusions, lane admission, recovery. |
+| V01 source lock | Exact supplied V01 byte/edition/resource identity, technical channel inventory and local derivative seals. |
+| V01 foundation/gate report | Owner acceptance, semantic foundation/day-one checks and the explicit CLOSED hold. |
 | Master longitudinal ledger | Sole pre-split cumulative analytical state, claims/revisions, predictions, and local readiness. |
 | Bootstrap report | Historical design rationale, observed precedents, accesses, checks, limitations, and handoff gates. |
 | Bootstrap path manifest | Exact approved authored path set and bootstrap-generation identity. |
@@ -161,4 +164,4 @@ Material amendment records lifecycle/revision, reason, evidence/dependencies, tr
 
 The numbered collection is not proof that the published LN series has reached a terminal ending. A synthesis through XII or any authorized high-water mark remains a bounded synthesis of that publication boundary. Future releases, new witnesses and reopened analysis require new scope decisions.
 
-Entrypoint, source map and cumulative state are mutable through targeted verified patches. Frozen unit interpretations/checkpoints and release artifacts retain historical boundaries. Preserve superseded thinking with explicit reciprocal authority metadata when a genuine successor exists; do not create archival placeholders now. SEQUENTIAL_ANALYSIS_LOCK remains CLOSED for this bootstrap.
+Entrypoint, source map and cumulative state are mutable through targeted verified patches. Frozen unit interpretations/checkpoints and release artifacts retain historical boundaries. Preserve superseded thinking with explicit reciprocal authority metadata when a genuine successor exists; do not create archival placeholders now. SEQUENTIAL_ANALYSIS_LOCK remains CLOSED by the owner’s explicit instruction after V01 technical preparation; the entrypoint owns its live state. Source lock does not establish a deep reading.

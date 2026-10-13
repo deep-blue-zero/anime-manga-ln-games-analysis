@@ -5,10 +5,11 @@ artifact_type: source_scope_inventory
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.0"
+version: "1.1"
+last_updated: "2026-10-13"
 status: canonical
-scope: "Public-safe reconnaissance inventory, witness lanes, exclusions and recovery"
-source_boundary: "Architecture bootstrap and source reconnaissance only; no narrative source unit analyzed."
+scope: "Public-safe collection inventory, V01 technical lock, witness lanes, exclusions and recovery"
+source_boundary: "Accepted pre-reading foundation and Japanese LN V01 technical source lock; no narrative source unit analyzed."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md"
 supersedes: []
@@ -16,18 +17,26 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 source_reconnaissance_complete: true
-source_lock_state: NOT_LOCKED
+source_lock_state: V01_BYTE_LOCKED_OTHER_UNITS_NOT_LOCKED
+v01_locator_retention: LOCAL_ONLY_OWNER_REQUEST
+sequential_analysis_lock: CLOSED
 ---
 
 # Source and continuity map
 
-## Verified reconnaissance boundary and its limits
+## V01 technical lock and current boundary
+
+The owner accepted the bootstrap and authorized Japanese LN V01 technical validation. The [V01 source lock](SW_LNJP_V01_SOURCE_LOCK.md) now records an independently retrieved 17,235,698-byte archive with exact matching SHA-256, colophon ver.003, complete resource/spine/XHTML/image checks, faithful normalization and verified element/paragraph/image routes. Its reproducible derivative package remains local at the owner’s explicit request; no Drive derivative upload occurred. The [foundation/gate report](../08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) verifies the accepted pair and both day-one homes. The sequential gate remains CLOSED; no literary unit has been analyzed.
+
+Only V01 has been byte-locked. The dated bootstrap reconnaissance below remains qualified historical evidence for the rest of the collection.
+
+## Verified bootstrap reconnaissance boundary and its limits
 
 On 2026-10-12 the connector listed and read metadata for all 18 direct objects in [the specified source folder](#recovery-and-future-ingestion-dependency): twelve numbered Japanese-LN EPUBs, four companion EPUBs, and the retained [AUDIT_REPORT.md](#recovery-and-future-ingestion-dependency) and [audit_manifest.json](#recovery-and-future-ingestion-dependency). Both audit artifacts were fetched; the complete schema-v2 manifest was decoded and its inventory, metadata, integrity, correction history and exclusion fields inspected.
 
 All 16 EPUB names, byte sizes and parent-folder identities matched the retained manifest. Their summed listed size is 300,683,047 bytes. This establishes current accessible object identity and correspondence with the reported collection, not independently reverified archive bytes or literary coverage.
 
-This session did **not** download/re-hash EPUBs, rerun CRC/resource/XHTML/image decoding or language scans, run EPUBCheck or reader-app rendering, compare against official editions, normalize narrative text, build paragraph locators, or read a volume. Requested checksum metadata was not exposed by the connector response. SHA-256 values below are **reported retained-manifest fingerprints**, not newly computed EPUB hashes. Preliminary reconnaissance is sufficient for architecture; all source locks remain NOT_LOCKED.
+The bootstrap did **not** download/re-hash EPUBs, rerun CRC/resource/XHTML/image decoding or language scans, run EPUBCheck or reader-app rendering, compare against official editions, normalize narrative text, build paragraph locators, or read a volume. Requested checksum metadata was not exposed by the connector response. SHA-256 values below are **reported retained-manifest fingerprints**, not newly computed EPUB hashes. Preliminary reconnaissance was sufficient for architecture; all source locks were NOT_LOCKED at that bootstrap boundary. V01’s subsequent independently rerun checks are recorded separately above.
 
 The retained audit reports 16 CRC passes, resolved resources/spines/XHTML, 505 decoded raster images, and 2,637,195 extractable characters screened as Japanese with sampled prose review. Those are prior checks. Counts include paratext/previews and exclude ruby readings; they are not narrative coverage or manual semantic-completeness measures. The manifest reports no exact primary duplicates or gaps inside the supplied I–XII integer range. This bootstrap does not certify the full publication catalog.
 
@@ -58,7 +67,7 @@ Edition/language boundary: supplied reflowable EPUB witnesses whose retained eff
 | another-02 | 16hDoUt0JyMZ28brTuDxfoxT6-Wdn1L9h | 17,222,919 | `ac2cf27be4b48363d5bca1f28458464a89564867719eb802005e9018036fa403` |
 | extra-09 | 1W5gi94fwkJ-no5NuEYdfy8h2n4J1rDcr | 31,848,077 | `ec2157d37e9eb301ed6d2e2eebe2adee215c22a354189bed7485ea8485f1c943` |
 
-Each stable ID resolves through the supplied source folder and Drive's file-ID retrieval route. Source hashes and IDs identify a witness; they do not grant public access or redistribution. A later lock records the actual retrieval/hash/edition/locator checks and reconciles any changed bytes.
+Each stable ID resolves through the supplied source folder and Drive's file-ID retrieval route. Source hashes and IDs identify a witness; they do not grant public access or redistribution. V01’s listed hash is now independently verified against the retrieved bytes; the other fifteen remain retained-manifest reports. A later lock for another unit must record its actual retrieval/hash/edition/locator checks and reconcile any changed bytes.
 
 ## Retained integrity qualifications
 
@@ -74,7 +83,7 @@ Each stable ID resolves through the supplied source folder and Drive's file-ID r
 
 | Lane | Identity / continuity | Current analytical admission |
 |---|---|---|
-| Numbered published Japanese LN | `SW-LNJP-V<NN>`; intended I–XII primary track | DESIGNATED_PRIMARY_TRACK; individual lock and execution admission pending. No unit analyzed. |
+| Numbered published Japanese LN | `SW-LNJP-V<NN>`; intended I–XII primary track | DESIGNATED_PRIMARY_TRACK; V01 byte-locked with local locators, other individual locks pending. Narrative execution admission pending for every unit. No unit analyzed. |
 | Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | INVENTORIED_UNADMITTED; not fractional numbered volumes. |
 | Original web main | [N8356GA](https://ncode.syosetu.com/n8356ga/), サイレント・ウィッチ | METADATA_RECONNOITERED_UNADMITTED; separate web witness, no episode ingestion/comparison. |
 | Web gaiden | [N5194GP](https://ncode.syosetu.com/n5194gp/), サイレント・ウィッチ（外伝） | METADATA_RECONNOITERED_UNADMITTED; distinct supplemental web corpus, contains later/end-state disclosures. |
@@ -119,8 +128,8 @@ Repository publication controls prohibit Google Drive URLs in Git artifacts. The
 | AUDIT_REPORT.md | `1bXhAGOSzRO6BECVIG_cp4jDH-Oj57ysL` |
 | audit_manifest.json | `12uKVr1bAXZKlhYBzlGntvN5kNLDetjzU` |
 
-These IDs and the per-EPUB IDs above are recovery identifiers, not redistributed source contents. For future V01 lock, retrieve only the exact V01 witness, compare actual hash/size to main-01, verify source/edition and narrative exclusions, establish faithful paragraph and illustration routes, round-trip the mapping, and retain deterministic outputs in governed Drive evidence.
+These IDs and the per-EPUB IDs above are recovery identifiers, not redistributed source contents. The [V01 technical lock](SW_LNJP_V01_SOURCE_LOCK.md#stable-external-evidence) has completed exact retrieval/hash/size, edition, source-channel, resource and locator checks. Its local derivative package is identified by SHA-256 in that lock. The owner selected local retention and a CLOSED gate, so no new Drive derivative ID exists. A future session must recover and verify the local package or obtain separately authorized retention; any next-unit source lock repeats its own checks.
 
 Web ingestion is a future dependency on the separately commissioned Narou downloader. It must deliver source-identified, revision/time-bound snapshots and reliable episode/pagination coverage before comparison admission. This bootstrap implements no scraper, modifies no downloader project, and performs no text-to-text crosswalk.
 
-Unresolved: acquisition/readback of actual next-unit bytes; edition/normalization/locator infrastructure; V01 source lock; supplement story-level safe order; web ingestion and version crosswalk; any later medium admission. Narrative high-water mark is PRE_V01 across every lane.
+Held or unresolved: owner-directed CLOSED sequential gate; locally retained V01 locator-package recovery in a future session; other-unit acquisition/edition/locator locks; supplement story-level safe order; web ingestion/version crosswalk; any later medium admission. V01 technical byte lock is complete, while narrative high-water mark remains PRE_V01 across every lane.

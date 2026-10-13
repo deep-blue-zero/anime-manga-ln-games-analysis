@@ -694,3 +694,18 @@ Provider metadata was verified on 2026-10-12 at 22:25 UTC: the exact names, IDs,
 The EPUBs and audit payload remain outside Git. These entries provide sanitized reference routing; they do not change the source boundary, analytical conclusions, frozen evidence, migration crosswalks or existing CMR object records. Historical migration counts and dispositions remain historical.
 
 At this indexing checkpoint, the cited CMR continuation remains held in [draft PR 154](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/154). This metadata repair does not integrate that analysis, certify its models or QA, or promote its authority. Its analytical completion and review obligations remain separate.
+
+## Silent Witch V01 source-lock reference routing
+
+On 2026-10-13 UTC, the [V01 technical source lock](../../series/silent-witch/01%20Source%20Lock%20and%20Inventory/SW_LNJP_V01_SOURCE_LOCK.md#stable-external-evidence) independently retrieved and verified the exact source bytes and retained manifest. The [source map](../../series/silent-witch/01%20Source%20Lock%20and%20Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md#recovery-and-future-ingestion-dependency) retains the wider qualified collection inventory. These are new technical references, not amendments to frozen migration crosswalks or historical disposition counts.
+
+| Cited object | Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID |
+|---|---|---|---|---|
+| Source folder | Silent Witch | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` | application/vnd.google-apps.folder | `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy` |
+| V01 witness | Secrets of the Silent Witch - Volume 01 [Japanese].epub | `132fYBc7_pAdS0Z0zI3NQW3QwjjQFYrG9` | application/epub+zip / 17,235,698 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| Retained manifest | audit_manifest.json | `12uKVr1bAXZKlhYBzlGntvN5kNLDetjzU` | application/json / 644,164 | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+| Retained report | AUDIT_REPORT.md | `1bXhAGOSzRO6BECVIG_cp4jDH-Oj57ysL` | text/markdown / 10,763 at bootstrap metadata verification | `1WNMgxj2Du9HCSkNkhq5cw7YCFufX1qQL` |
+
+The computed V01 SHA-256 is `d3d8cca8fc271f29cc96a56e7e92b898bfebe4f744b9f3fd424fd8789686968d`, matching the retained fingerprint. The manifest body SHA-256 is `2ddd2ec5721e77658ae25d2534e2e7b93ac1dd475ce015c8d82ccf9a2b9c26da`. Current metadata for V01, the manifest and source folder matched their observed identities; the report remains the already verified bootstrap reference.
+
+The derivative `SW-LNJP-V01_FIDELITY_LOCATORS_V1.zip` remains local, SHA-256 `33fade35c657bd95b120878b613d999d61dad2569f1a10e9418a76a7bd656f1e`. The owner explicitly chose local retention and a CLOSED gate after upload approval was rejected. No derivative Drive ID, uploaded source, narrative reading, changed source bytes or OPEN execution is claimed. Raw text, locator maps and images remain outside Git. The [foundation/gate report](../../series/silent-witch/08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) records the acceptance, checks and stop.
