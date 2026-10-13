@@ -146,4 +146,61 @@
   },
   "mandatory_canonical_qualifications": [],
   "canonical_link_only_translations": []
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/canonical_body_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "9dd4784eb77cc219e70335a6e59e2452b7313049093cd0a11718b8f2518bc9f6",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 49339,
+        "sha256": "9dd4784eb77cc219e70335a6e59e2452b7313049093cd0a11718b8f2518bc9f6"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 49395,
+        "sha256": "c1b78a3c41301fedb47d53c7a520ab7e813705c63dbd4c2efaa322bb3d9ae646"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "current_source_consistency_audit_20261012": {
+  "register_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "register_fragment_pointer": "/last16_independent_receiving_fragment",
+  "record_ids": [
+    "last16-body-SHIGURE",
+    "last16-coverage-SHIGURE",
+    "last16-qualification-03",
+    "last16-qualification-04",
+    "last16-qualification-05"
+  ],
+  "current_interpretation": "The separately current register qualifies named historical fields; it does not replace antecedent bodies, source scopes, tuples, statuses, counts or inverses.",
+  "current_body_exact_tuples": [
+    {
+      "subject": "SHIGURE",
+      "public_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
+      "historical_current_before_exact_tuple": {
+        "bytes": 49339,
+        "sha256": "9dd4784eb77cc219e70335a6e59e2452b7313049093cd0a11718b8f2518bc9f6"
+      },
+      "proposed_reviewed_corrected_body_exact_tuple": {
+        "bytes": 49395,
+        "sha256": "c1b78a3c41301fedb47d53c7a520ab7e813705c63dbd4c2efaa322bb3d9ae646"
+      },
+      "old_wrapper_tuple_fields": "RETAINED_UNCHANGED_AS_ANTECEDENT_METADATA",
+      "conditional_precomposition_tuple_preserved": {},
+      "effective_composed_body_tuple": {
+        "bytes": 49395,
+        "sha256": "c1b78a3c41301fedb47d53c7a520ab7e813705c63dbd4c2efaa322bb3d9ae646"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "adoption": "ROOT_ACCEPTED_WITH_LIMITS_AT_EXPLICIT_ATTRIBUTED_GRADE"
+}
 }

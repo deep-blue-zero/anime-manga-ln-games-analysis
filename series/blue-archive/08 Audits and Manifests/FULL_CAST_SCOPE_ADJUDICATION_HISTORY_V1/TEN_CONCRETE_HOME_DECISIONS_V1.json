@@ -182,4 +182,38 @@
   "new_complete_primary_narrative_credit": 0,
   "all14_original_gaps": "OPEN"
  }
+,
+  "current_source_consistency_audit_20261012": {
+  "register_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "register_fragment_pointer": "/last16_independent_receiving_fragment",
+  "record_ids": [
+    "last16-body-SHIROKO",
+    "last16-qualification-07",
+    "last16-qualification-08",
+    "last16-qualification-09"
+  ],
+  "current_interpretation": "The separately current register qualifies named historical fields; it does not replace antecedent bodies, source scopes, tuples, statuses, counts or inverses.",
+  "current_body_exact_tuples": [
+    {
+      "subject": "SHIROKO",
+      "public_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIROKO_CHARACTER_MONOGRAPH.md",
+      "historical_current_before_exact_tuple": {
+        "bytes": 49189,
+        "sha256": "b91b6ae191826d8154e9ebbea76f4a4fa7142a3a8303b53597c3c39b8730ba3f"
+      },
+      "proposed_reviewed_corrected_body_exact_tuple": {
+        "bytes": 49530,
+        "sha256": "2bef2e6faff2235e44908861980b0a1dc0541a7ba11cdaf6c5acd21434760a0d"
+      },
+      "old_wrapper_tuple_fields": "RETAINED_UNCHANGED_AS_ANTECEDENT_METADATA",
+      "conditional_precomposition_tuple_preserved": {},
+      "effective_composed_body_tuple": {
+        "bytes": 49530,
+        "sha256": "2bef2e6faff2235e44908861980b0a1dc0541a7ba11cdaf6c5acd21434760a0d"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "adoption": "ROOT_ACCEPTED_WITH_LIMITS_AT_EXPLICIT_ATTRIBUTED_GRADE"
+}
 }

@@ -759,4 +759,27 @@
   },
   "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYANE_MONOGRAPH_INPUT_RECEIPTS_V1.json",
   "source_reference_translation": "External selected corpus and immutable local witness refs preserve exact original tuples/scopes without publishing machine paths."
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/canonical_derivative/sha256",
+      "preserved_literal_sha256_value": "ebba91ce506679f592f11456260279e5c95bffee3421e3f2488d346af4bdaa3c",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYANE_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 42320,
+        "sha256": "ebba91ce506679f592f11456260279e5c95bffee3421e3f2488d346af4bdaa3c"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 42347,
+        "sha256": "58b5d2d711f26b00b05a74683ebf20ca4b3d44cad929fb103a818f9855b05be3"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+}
 }
