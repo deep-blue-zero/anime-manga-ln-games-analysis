@@ -5,11 +5,11 @@ artifact_type: "analytical_method"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.4"
+version: "0.5"
 status: "canonical"
 scope: "Primary-source observation, interpretation, prospective state and evidence standards"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_ANALYTICAL_METHOD.md"
-source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
+source_boundary: "Method contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
 updated: "2026-10-12"
 review_status: "AUTHOR_REVIEWED_V01_UPDATE"
@@ -23,7 +23,7 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 
 # Analytical method
 
-This method decides how to observe and judge the Japanese manga by Tsurumaikada. The [synthesis architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md) allocates accumulated results; the [reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) defines transaction closure. The owner approved the revised version-0.2 foundation and authorized one complete V01 transaction. The first evidence-driven V01 review now retains this method and the seven homes under an EVOLVING architecture; it does not authorize V02, fanbooks or adaptation sources. Source claims and the historical bootstrap remain distinct from this foundation approval.
+This method decides how to observe and judge the Japanese manga by Tsurumaikada. The [synthesis architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md) allocates accumulated results; the [reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) defines transaction closure. The owner approved the revised version-0.2 foundation and authorized one complete V01 transaction. The first evidence-driven V01 review now retains this method and the seven homes under an EVOLVING architecture; it does not authorize V02, fanbooks or adaptation sources. Source claims and the historical bootstrap remain distinct from this foundation approval. Version 0.5 note: on 2026-10-12 the owner authorized a continuous V02–V15 run and conditional fanbook audits; the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns that live authorization and progress. Statements in this document that V02 or the fanbooks are unauthorized describe the earlier V01-only scope. The method itself is unchanged.
 
 ## Witness hierarchy and scope
 

@@ -5,11 +5,11 @@ artifact_type: "synthesis_architecture"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.4"
+version: "0.5"
 status: "canonical"
 scope: "Accumulation model, canonical responsibilities, promotion, convergence and completion"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SYNTHESIS_ARCHITECTURE.md"
-source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
+source_boundary: "Architecture contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
 updated: "2026-10-12"
 review_status: "AUTHOR_REVIEWED_V01_UPDATE"
@@ -176,6 +176,8 @@ Version 0.2 (2026-10-12): owner-directed COTE supplement precedent incorporated;
 Version 0.3 (2026-10-12): owner accepted the revised foundation and authorized V01 only. Current governing homes promoted to canonical; seven initialized ledger schemas retained without evidence rows at activation. Exact delivered V01 witness, exclusions, capability probe and initial exposure are recorded in the authorization/source receipt.
 
 Version 0.4 (2026-10-12): first V01 transaction completed with full admitted-image coverage, seven reconciled ledgers and MD-FR-V01. AUTHOR_REVIEWED evidence-driven lifecycle EVOLVING; foundation version 0.2 retains its separate owner approval. No new source-unit authorization or specialist/model promotion.
+
+Version 0.5 (2026-10-12): owner authorized `continuous_sequential` V02–V15, conditional fanbook audits and provisional boundary syntheses. No responsibility, ledger or dependency changes. Front-matter source boundary now defers to the entrypoint so it does not go stale at each closure. Earlier statements here that V02 or supplements are unauthorized record the V01-only scope and are retained as history; the entrypoint owns live authorization.
 
 ## V01 evidence-driven architecture review
 

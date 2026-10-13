@@ -5,14 +5,14 @@ artifact_type: "source_inventory"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.4"
+version: "0.5"
 status: "canonical"
 scope: "Evidence-plane routing, source identity, admission stages, locators and publication boundary"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_AND_SCOPE_MAP.md"
 source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+review_status: "AUTHOR_REVIEWED_CONTINUOUS_RUN_ACTIVATION"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -101,6 +101,31 @@ The complete [reading/MD-FR-V01](../02%20Sequential%20Readings/MEDALIST_V01_DEEP
 
 The local 16-batch visual checkpoint covers every admitted occurrence and retains original image hashes; private notes and media stay outside Git. The normalized logical ordered manifest SHA-256 is `94d23e14e6d77b8e85c75b478ba19d67d292bb9332c121f30a756a44eaeb6ec6`, distinct from receipt-file bytes. This source state does not authenticate printing, original binding geometry or a publisher digital edition. Own-volume paratext/bonus inspection increments no fanbook counter. The historical activation receipt and incidental-exposure account remain intact. Authored closure, publication and exact-head integration checks have distinct recovery evidence in Git/GitHub; no future green audit is asserted here.
 
+## Continuous-run witness register (from 2026-10-12)
+
+The owner's 2026-10-12 `continuous_sequential` authorization covers Japanese V02–V15. The [continuous-run receipt](../07%20Audits%20and%20Handoffs/MEDALIST_CONTINUOUS_RUN_AUTHORIZATION_AND_SOURCE_RECEIPT.md) holds each container's bytes, SHA-256 and activation-time checks; this register owns each unit's progressive state. A row changes only when its own transaction closes. "Structural" means full ZIP CRC, complete image decode and a container hash matching the retained prior audit manifest; it is not narrative inspection.
+
+| Unit / source key | Container / image occurrences | Verified Scores and components | Admitted images / exclusions | State |
+| --- | --- | --- | --- | --- |
+| V02 / MD-MG-JP-TB-V002-W01 | CBZ / 203 | pending reading | pending | Structural only |
+| V03 / MD-MG-JP-TB-V003-W01 | CBZ / 203 | pending reading | pending | Structural only |
+| V04 / MD-MG-JP-TB-V004-W01 | CBZ / 203 | pending reading | pending | Structural only |
+| V05 / MD-MG-JP-TB-V005-W01 | CBZ / 187 | pending reading | pending | Structural only |
+| V06 / MD-MG-JP-TB-V006-W01 | CBZ / 205 | pending reading | pending | Structural only |
+| V07 / MD-MG-JP-TB-V007-W01 | CBZ / 203 | pending reading | pending | Structural only |
+| V08 / MD-MG-JP-TB-V008-W01 | EPUB / 187 | navigation: Scores 29–32; pending reading | pending | Structural only |
+| V09 / MD-MG-JP-TB-V009-W01 | EPUB / 203 | navigation: Scores 33–36; pending reading | pending | Structural only |
+| V10 / MD-MG-JP-TB-V010-W01 | CBZ / 203 | pending reading | pending | Structural only |
+| V11 / MD-MG-JP-TB-V011-W01 | CBZ / 203 | pending reading | pending | Structural only |
+| V12 / MD-MG-JP-TB-V012-W01 | CBZ / 171 | pending reading | pending | Structural only |
+| V13 / MD-MG-JP-TB-V013-W01 | EPUB / 203 | navigation: Scores 49–53; pending reading | pending | Structural only |
+| V14 / MD-MG-JP-TB-V014-W01 | EPUB / 256 | navigation: Scores 54–56, an exhibition piece and a Short Program; pending reading | pending; navigation names a different series' sample after the contents page | Structural only |
+| V15 / MD-MG-JP-TB-V015-W01 | EPUB / 221 | navigation: Scores 57–61; pending reading | pending | Structural only |
+
+Local CBZ alternates for V13–V15 take keys `MD-MG-JP-TB-V013-W02`, `-V014-W02` and `-V015-W02`. They match the EPUBs in image count and share no byte-identical image with them, so page equivalence is unproved; they are collation aids, not admitted witnesses. The local V13–V15 EPUB sizes equal the Drive listing sizes above; byte identity with the Drive objects was not checked in this run and is not claimed. Both fanbook containers passed the same structural checks and remain `HOLD_COVERAGE_UNVERIFIED`.
+
+EPUB witnesses use locator version `medalist-epub-spine-image-occurrence-v1`: one-based spine ordinal, spine document, one-based image occurrence and image resource, then Score/component and panel region. Each spine document in these fixed-layout books holds exactly one image, so the two ordinals coincide. CBZ witnesses keep `medalist-cbz-image-occurrence-v1`.
+
 ## Publication reconnaissance, with separate confidence
 
 | Record | Observation and source | Boundary that remains unverified |
@@ -111,8 +136,14 @@ The local 16-batch visual checkpoint covers every admitted occurrence and retain
 | `MD-PUB-004` | The supplied prompt reports V15 ending with Score 61, 螺旋の途中. | **OWNER_REPORTED_PENDING_TOC_VERIFICATION**. V15 TOC/spine and ending Score were not independently inspected; its first Score and complete range remain unknown. Do not promote the supplied boundary into a source lock. |
 | `MD-PUB-005` | [The manga's official X post](https://x.com/medalist_AFT/status/2095710148224561663), dated September 4, 2026, was verified through X's own oEmbed endpoint after direct page retrieval returned 403. The official account's returned text announces a production-related hiatus and preparations toward resumption. | **PRIMARY_NOTICE_TEXT_VERIFIED** for the returned excerpt; the attached notice image was not inspected. No resumption date was supplied in that excerpt. A verified notice does not independently settle the complete magazine ceiling or current resumption status. |
 | `MD-PUB-006` | The official [anime event record](https://medalist-pr.com/tv/special/s2-event-spe2026.html) identifies both S1 and S2 and a later film announcement. | Adaptation metadata only. Neither episodes nor film are admitted; no manga-to-episode mapping or complete AV coverage is established. |
+| `MD-PUB-007` | Observed 2026-10-12: the official Afternoon [August 2026 issue page](https://afternoon.kodansha.co.jp/afternoon/2026/08.html), on sale 2026-06-25, lists メダリスト among its contents. The official [September](https://afternoon.kodansha.co.jp/afternoon/2026/09.html) (2026-07-24) and [October](https://afternoon.kodansha.co.jp/afternoon/2026/10.html) (2026-08-25) issue pages and the current [November issue page](https://afternoon.kodansha.co.jp/afternoon/) (2026-09-25) omit it. | Three consecutive complete official contents lists, so the August 2026 issue is the last magazine appearance before the snapshot. The December issue, expected 2026-10-23, is after the snapshot and unobserved. |
+| `MD-PUB-008` | Observed 2026-10-12: [Comic DAYS' Afternoon catalog](https://comic-days.com/magazine) still shows `score61 螺旋の途中②`, dated 2026-06-25, as the series' latest entry. The publisher [series page](https://afternoon.kodansha.co.jp/c/medalist.html) still lists V15 (2026-07-22) as the latest volume, with no later release notice. | Agrees with `MD-PUB-007`. A catalog listing alone would not prove a ceiling; the issue contents lists do that work. |
+| `MD-PUB-009` | The delivered V15 EPUB navigation lists Scores 57–61, ending with Score 61. A publisher product-record excerpt returned by search states first publication in Afternoon 2026 January and March–August issues. | Resolves `MD-PUB-004` at the navigation level; page-level confirmation belongs to the V15 reading. The product page refused direct retrieval, so the excerpt is MODERATE corroboration only. |
+| `MD-PUB-010` | A [news report](https://news.denfaminicogamer.jp/news/2609042p) dated 2026-09-04 relays the official account's hiatus notice, worded "制作上の都合により", with preparation toward resumption and no date. | Secondary relay consistent with `MD-PUB-005`; the primary endpoint refused retrieval on 2026-10-12. No resumption announcement was found at the snapshot. |
 
 Publisher descriptions and search snippets incidentally exposed later narrative summaries. Those summaries were not adopted as findings. A future prospective reader records that exposure and uses only admitted manga evidence. The public serialized **observed listing boundary** is Score 61; the **complete magazine publication boundary** and **V15 chapter range** remain unresolved.
+
+That sentence is the 2026-10-11 state. As of the **2026-10-12 terminal snapshot** (`MD-PUB-007`–`010`), the magazine publication boundary is Score 61 in the August 2026 issue, the collected boundary is V15, and the two coincide: no serial-only Score exists beyond V15. The active run's terminal boundary is therefore V15. This is a dated ceiling for one authorized run, not a finished-series claim; a resumption chapter or later volume is new material requiring a new authorization.
 
 ## Identity, admission and extension
 
@@ -123,11 +154,11 @@ For each admitted object record ID/provider revision where exposed; verified vol
 | Dimension | Current state | Evidence required for advancement |
 | --- | --- | --- |
 | Inventory visible | Drive snapshot: 3 JP EPUB + 12 EN CBZ; local addendum: 18 JP volume containers + 2 JP fanbooks, not deduplicated across surfaces | Metadata listing; does not authenticate contents or prove witness equivalence. |
-| Structurally verified | 1 delivered V01 witness; component/Score map verified, printing unverified | Actual container/metadata/image order and integrity checks with recoverable receipt. |
+| Structurally verified | 1 delivered V01 witness with component/Score map verified, printing unverified; 14 further volume witnesses (V02–V15) and 2 fanbook containers at container level only | Actual container/metadata/image order and integrity checks with recoverable receipt. |
 | Admitted for analysis | 1: V01 only, images 0001–0233 with component separation | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
 | Narratively inspected | 1 complete: V01 images 0001–0233, mainline and classified own-volume material | Actual source-content inspection with coverage record. |
 | Sequentially completed | 1: V01, seven ledger updates and MD-FR-V01 | Closed reading, affected ledgers, immutable freeze and verified persistence/publication state. |
-| Published serialization boundary | Score 61 observed listing; full magazine ceiling unresolved | Independent publication witnesses; not inferred from analytical progress. |
+| Published serialization boundary | Score 61, August 2026 issue; ceiling fixed at the 2026-10-12 snapshot by official issue contents | Independent publication witnesses; not inferred from analytical progress. |
 
 These are independent dimensions: a verified public chapter listing does not authenticate a private EPUB. Admission or inspection of a later witness never implies earlier unit completion.
 

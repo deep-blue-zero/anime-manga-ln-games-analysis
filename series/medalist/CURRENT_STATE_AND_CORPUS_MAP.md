@@ -5,15 +5,16 @@ artifact_type: "current_state_corpus_map"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.4"
+version: "0.5"
 status: "canonical"
 scope: "Single project entrypoint, initiation state, current authority and next permitted operation"
 canonical_home: "series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md"
 source_boundary: "Japanese V01 Scores 1–3 and own-volume material closed; 233 admitted images; fanbooks/later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-12"
-review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+review_status: "AUTHOR_REVIEWED_CONTINUOUS_RUN_ACTIVATION"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
+continuation_owner_authorization: "2026-10-12 owner continuous_sequential authorization: V02 through the verified as-of-start publication boundary (V15, Score 61), then provisional syntheses"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -27,7 +28,7 @@ Start here for `series/medalist/`, the continuing Japanese manga project for メ
 
 **SEQUENTIAL_ANALYSIS_LOCK = OPEN**
 
-**The authorized V01 operation is complete. Next: review the closed V01 state; obtain new owner authorization before another source reading.** [V01 deep reading and MD-FR-V01](02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) cover all 233 admitted images, Scores 1–3 and separately classified own-volume material. The project initiation gate remains OPEN because its foundation is satisfied; this does not extend the completed single-operation authorization. V02, fanbooks and adaptation remain unauthorized.
+**A `continuous_sequential` run is active: V02 through V15, one closed volume transaction at a time. Committed high-water mark: V01. Next candidate: V02.** The owner authorized this run on 2026-10-12; the [continuous-run receipt](07%20Audits%20and%20Handoffs/MEDALIST_CONTINUOUS_RUN_AUTHORIZATION_AND_SOURCE_RECEIPT.md) records the authorization, the dated publication ceiling (V15, ending at Score 61; no serial-only Score beyond it) and the structurally verified witnesses. [V01 deep reading and MD-FR-V01](02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) remain the frozen entering state and are not redone. Fanbook coverage reconnaissance and audits are authorized only at a verified safe manga checkpoint; adaptation sources remain unauthorized. The historical single-operation V01 authorization is preserved in its own receipt.
 
 ## Recoverable project initialization
 
@@ -58,23 +59,31 @@ project_initialization:
   owner_review_state: APPROVED_REVISED_FOUNDATION_0_2
   sequential_analysis_lock: OPEN
   lock_reason: OWNER_APPROVED_FOUNDATION_AND_AUTHORIZED_V01
-  next_permitted_operation: "Review closed V01; no further source reading without new owner authorization"
+  lock_reason_current_run: OWNER_AUTHORIZED_CONTINUOUS_SEQUENTIAL_V02_TO_V15
+  next_permitted_operation: "V02 complete volume transaction under the active continuous run"
 sequential_execution:
-  mode: single_operation
+  mode: continuous_sequential
   unit_type: japanese_tankobon_volume
-  authorized_start: V01
-  terminal_boundary: V01
+  authorized_start: V02
+  terminal_boundary: V15
+  terminal_boundary_basis: "Verified publication ceiling at 2026-10-12: V15 collects through Score 61; no serial-only Score beyond it"
   committed_high_water_mark: V01
   next_candidate_operation: V02
-  next_candidate_authorization: NOT_AUTHORIZED
-  run_state: COMPLETED
+  next_candidate_authorization: AUTHORIZED_WITHIN_ACTIVE_RUN
+  confirmation_between_units: false
+  run_state: active
+  prior_run: "single_operation V01, COMPLETED"
 supplemental_execution:
   scheduled_units: [FB01, FB02]
   admission_positions_status: HOLD_COVERAGE_UNVERIFIED
-  authorized_start: null
+  authorized_start: "Coverage reconnaissance and conditional audit at a verified safe manga checkpoint"
   completed_paratext_audits: 0
   committed_high_water_mark: null
-  run_state: NOT_AUTHORIZED
+  run_state: AUTHORIZED_CONDITIONAL_NOT_STARTED
+synthesis_execution:
+  authorized_scope: "Provisional character, relationship, specialist and integrated syntheses at the locked boundary"
+  run_state: NOT_STARTED
+  series_state: ONGOING
 ```
 
 Preliminary reconnaissance is sufficient for design; the true source gaps below remain unresolved. The seven day-one instruments were empty at activation. All seven now contain version-1 V01 records, including separate readiness decisions, and the real `02 Sequential Readings/` home contains one complete reading with `MD-FR-V01`. The authorization/source receipt preserves its zero-reading activation snapshot. The completed boundary is V01, including its own bonus fiction and attributed paratext; this is not whole-series or fanbook completion. Repository publication/audit evidence is recovered from the containing commits and exact-head GitHub statuses, not preclaimed in prose.
@@ -94,15 +103,24 @@ Preliminary reconnaissance is sufficient for design; the true source gaps below 
 | --- | --- |
 | Inventory | Drive snapshot: Japanese V13–V15 and English V01–V12; local addendum: Japanese V01–V15 containers plus Official Fanbook 01/02, filenames/sizes only |
 | Structurally verified / admitted / narratively inspected / closed | 1 delivered witness / 1 V01 / complete 233-image V01 / 1 V01 with MD-FR-V01 |
-| Planned primary sequence | Japanese V01 onward, one authenticated volume per transaction |
-| First-source route | V01 delivered CBZ integrity/component map verified, inspected and closed with original-image locators; printing unverified; V02 onward remain unauthorized candidates |
+| Planned primary sequence | Japanese V01 onward, one authenticated volume per transaction; V02–V15 authorized as one continuous run with fourteen separately closed transactions |
+| First-source route | V01 delivered CBZ integrity/component map verified, inspected and closed with original-image locators; printing unverified. V02–V15 delivered witnesses passed CRC, full image decode and hash checks at activation; none narratively inspected at that snapshot |
 | Supplemental source positions | FB01/FB02 inventory-visible; each coverage boundary and admit_after null/unverified; zero completed fanbook audits |
 | Public collected record | V15 latest identified by official publisher records at reconnaissance |
-| Public serialized record | Score 61 listing dated 2026-06-25; full magazine ceiling unresolved |
-| V15 chapter range / hiatus | Owner-reported Score 61 ending needs TOC verification; official September 4 hiatus text verified through X oEmbed; resumption status remains unverified |
+| Public serialized record | Score 61 (second installment, August 2026 issue, on sale 2026-06-25) is the last serialized installment; official September–November 2026 issue contents omit the series |
+| V15 chapter range / hiatus | V15 witness navigation lists Scores 57–61, to be confirmed page by page when V15 is read; hiatus announced 2026-09-04 with no resumption found at the 2026-10-12 snapshot |
+| Terminal boundary of the active run | V15 / Score 61, fixed at 2026-10-12; later publication needs a new authorization |
 | Adaptation | S1/S2 planned distinct lane; no admitted episode/audio/video or manga crosswalk |
 
 V01 is the sole completed narrative boundary. These facts do not establish later narrative coverage, an explanation beyond the notice's stated production circumstances, or a finished-series boundary. Later snippets returned by publication searches remain prior-exposure disclosures, not findings.
+
+## Continuous-run progress
+
+One row is appended when a volume transaction has closed locally: reading, seven-ledger reconciliation, freeze and source-map advancement in one commit. Publication and exact-head audit evidence is recovered from Git history and GitHub statuses, not asserted here.
+
+| Unit | Scores | Reading / freeze | Ledger versions at freeze | State |
+| --- | --- | --- | --- | --- |
+| V01 | 1–3 | [V01](02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) / MD-FR-V01 | 1.0 | Closed under the earlier single-operation run |
 
 ## Supplemental checkpoint route
 
@@ -135,6 +153,8 @@ Preferred future topology is staged: local primary reading/ledgers; fresh cloud 
 2026-10-12, version 0.3: owner approved the revised foundation and authorized V01 only; current governing homes promoted, OPEN recorded after delivered-witness verification, seven ledger schemas retained empty at activation. Structural inspection exposed the opening prologue and jacket gags; that exposure is explicitly retained.
 
 2026-10-12, version 0.4: complete V01 witness inspected and interpreted; seven ledgers reconciled and MD-FR-V01 frozen. Architecture moves to EVOLVING without adding infrastructure. Mainline ends before the competition; bonus fiction recontextualizes access/support. No later source or fanbook admitted. The single-operation run is COMPLETED; V02 is an unauthorized candidate.
+
+2026-10-12, version 0.5: owner authorized `continuous_sequential` execution from V02 through the verified as-of-start publication boundary, conditional fanbook audits and provisional boundary syntheses. Publication ceiling fixed at V15 / Score 61 from official issue contents, the catalog listing and the V15 witness navigation; no serial-only unit exists. Fourteen target witnesses and both fanbook containers structurally verified without narrative inspection. A second locator version covers the fixed-layout EPUB witnesses. The four specification documents now state their source boundary by reference to this entrypoint instead of naming a volume, so they do not go stale at each closure; their analytical contracts are unchanged. No infrastructure added; lifecycle stays EVOLVING. Paragraphs above that describe V02 or the fanbooks as unauthorized are version-0.3/0.4 history.
 
 ## Higher-level governing controls
 
