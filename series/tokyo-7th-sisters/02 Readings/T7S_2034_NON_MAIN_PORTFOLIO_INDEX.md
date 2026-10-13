@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.74"
+version: "2.75"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and its audit retain their completed boundaries. The active [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed 14 source blocks / 42 episodes; i-n-g coverage is 256/280 episodes across 94 chapters, with 24 i-n-g episodes remaining. The next authorized but unread chapter is `301460` / **アイドルファンタジー777 ～そして伝説へ～** / 三森マツリ, episodes `612203101 / 612203102 / 612203103`, assigned B0174. Supplemental, multimodal, character and era-release obligations remain active.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and its audit retain their completed boundaries. The active [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed 15 source blocks / 45 episodes; i-n-g coverage is 259/280 episodes across 95 chapters, with 21 i-n-g episodes remaining. The next authorized but unread chapter is `301470` / **リシュリママの子離れ** / 前園リシュリ, episodes `612203201 / 612203202 / 612203203`, assigned B0175. Supplemental, multimodal, character and era-release obligations remain active.
 
 ## Closed first i-n-g tranche
 
@@ -159,3 +159,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The histor
 | [T7S_B0171](T7S_B0171_DEEP_READING.md) | `301430` / ターシャ・ロマノフスキー / Моя семья | `612202801 / 612202802 / 612202803` | `COMPLETE_BOUNDED` |
 | [T7S_B0172](T7S_B0172_DEEP_READING.md) | `301440` / 川澄シサラ / さよならシンデレラガール | `612202901 / 612202902 / 612202903` | `COMPLETE_BOUNDED` |
 | [T7S_B0173](T7S_B0173_DEEP_READING.md) | `301450` / ジェダ・ダイヤモンド / ワールドデビュー！？ | `612203001 / 612203002 / 612203003` | `COMPLETE_BOUNDED` |
+| [T7S_B0174](T7S_B0174_DEEP_READING.md) | `301460` / 三森マツリ / アイドルファンタジー777 ～そして伝説へ～ | `612203101 / 612203102 / 612203103` | `COMPLETE_BOUNDED` |
