@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.5"
+version: "1.6"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
-source_boundary: "Japanese V01–V06 closed (Scores 1–23, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V06_UPDATE"
+review_status: "AUTHOR_REVIEWED_V07_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -251,3 +251,39 @@ All rows are version 1 through `MD-FR-V06`. In this section `EV-####` expands to
 | MD-SK-0040 | Yūna / Sonidori / Scores 21 and 23 | The triple Lutz and triple loop, landed once in competition with errors after it, is stable in practice a week later; her coach commits to a layout built round it | DEPICTED_PERFORMANCE; ATTRIBUTED appraisal by Gori | MD-PERF-0058; EV-0022/0045; MD-CL-0024@2 | HIGH for practice; the new layout is not shown |
 
 The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V06`: Inori's competition-proven triples are loop, Salchow and toe loop, with a double Axel, Euler and triple Salchow combination; she is regional champion at 81.20 by a clean program; she has no triple flip or Lutz. Field frontier shown: a triple Axel by Hikaru in practice; a stable triple Lutz and triple loop by Yūna; triple Lutzes by two further qualifiers.
+
+## V07 evidence tables
+
+All rows are version 1 through `MD-FR-V07`. In this section `EV-####` expands to the [V07 observation](../02%20Sequential%20Readings/MEDALIST_V07_DEEP_READING.md#canonical-observations) `MD-EV-V07-####`. The protagonist does not compete in V07. Qualifiers elsewhere are entered as reported. Practice attempts are entered in the performance table and labelled. No external rule or medical document was consulted or admitted; the external-reference table remains empty. Earlier tables are unchanged.
+
+| Competition | Depicted identity / category / segment | Date / rule certainty | Source observations | External-rule refs / unresolved matches |
+| --- | --- | --- | --- | --- |
+| MD-COMP-0007 (at its opening ceremony) | 全日本ノービス選手権, Novice A, at FLAT HACHINOHE, Aomori; opening ceremony in a hotel ballroom. Six seeded skaters: 狼嵜光, 鹿本すず, 胡荒亜子, 小雀白花, 蝉丸ひまり, 大蜘蛛蘭 | About a month after the Chūbu block; one week after the last practice scene. In-story statements: four jump types compulsory; top placers may enter the same season's junior championship. | EV-0030/0033/0036/0041 | No MD-EXT. No skating shown. Start order appears only in an advertisement and is not recorded. |
+| MD-COMP-0008 | Kinki block, Novice A girls free skate. First 鹿本すず, over 100; seventh 大和絵馬, 80.01; six advance | The 24th of the month, the last of six blocks. In-story statement: where a block has seeded skaters, more places advance. | EV-0030/0031 | No MD-EXT. Other placings not given. |
+| MD-COMP-0009 | Other blocks as reported: Tokyo (the 10th), first 胡荒亜子; Hokkaidō–Tōhoku, first 亜昼美玖, second 小雀白花. With MD-COMP-0006 and MD-COMP-0008 these feed a national table compiled by Tsukasa: 1 鹿本すず 101.23; 2 亜昼美玖 91.10; 3 胡荒亜子 90.44; 13 結束いのり 81.20; 14 八木夕凪 80.03; 15 大和絵馬 80.01; other rows partly hidden | Same month. | EV-0030/0033/0034 | No MD-EXT. The table assumes scores from different panels are comparable. |
+
+| Performance | Athlete / setting | Plan / attempt / depiction / call | Supplied score / result | Expressive aim / attributed response | Evidence / limits / correction |
+| --- | --- | --- | --- | --- | --- |
+| MD-PERF-0060 | MD-CHAR-0010 / MD-COMP-0005, Novice A free skate, seen on an archive stream | Content not itemized | **101.16**; first | Her coach's opponent studies it | EV-0001; recorded under the second 名港杯 |
+| MD-PERF-0061 | MD-CHAR-0001 / public session | A single Lutz as a demonstration of timing | None | Onlookers impressed; his pupil secretly thrilled | EV-0002 |
+| MD-PERF-0062 | MD-CHAR-0004 / club session with a harness | Triple flip and triple Lutz landed in the harness, then both without it; repeated that evening | None | "The arc is over"; the specialist: it happens often | EV-0005/0006; first landings; not seen again unaided as triples in V07 |
+| MD-PERF-0063 | MD-CHAR-0015 / club session, harness operated by Tsukasa | Double Axel landed | None | Tears; she will not quit | EV-0007 |
+| MD-PERF-0064 | 0004 / Niigata, private session | In the harness: a triple Salchow; a double Lutz with Tsukasa hoisting; a triple Lutz only with strong assistance; quad-speed rotation; repeated early openings. Unaided: one landing after a quad attempt | None; called "the first successful landing" by the specialist and a landed quadruple by her coach | Children crowd the glass | EV-0019/0020/0021/0022/0025/0028/0035; one landing |
+| MD-PERF-0065 | 0004 / home rink, days after the fall | Lutz landed with one rotation only; repeated falls on the triple | None | Coach turns her to components | EV-0011 |
+| MD-PERF-0066 | 0004 / Nagoya public session, after Niigata | **Quadruple Salchow** landed, named on the page; the first of a three-jump test | None | Strangers: more than Hikaru | EV-0039; the test's result is not shown |
+| MD-PERF-0067 | MD-CHAR-0055 / Niigata | Triple Lutz landed in the harness; twizzles with clean tracing in her program | None | Tsukasa: coached to each fingertip | EV-0033/0036 |
+| MD-PERF-0068 | MD-CHAR-0024 / MD-COMP-0008, last skater | Ten-element free skate; element row with one deduction; a triple Lutz landed and one fall, by her coach; closing spin level 4 | **80.01**; seventh; does not advance | Coach: tightened a touch early; the Lutz her best | EV-0031 |
+| MD-PERF-0069 | MD-CHAR-0023 / MD-COMP-0008 | Not depicted | Over 100; first, about ten points clear | "A monster" | EV-0031/0033 |
+| MD-PERF-0070 | MD-CHAR-0001 / club session | Hoisting with his own harness; a fall on a rut while holding the pole | None | — | EV-0007/0008; injury |
+
+| Technical transition | Athlete / coach / known after | Skill / prior limit / intervention / outcome | Channel / physical constraints / risk | Performance / evidence / claim version | Confidence / counterevidence / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-SK-0041 | Inori / Uobuchi / Score 24 | No triple flip or Lutz; a harness places her on the rotation axis; both landed, then landed unaided, in one session | DEPICTED_PERFORMANCE; IN_UNIVERSE_STATEMENT that the harness corrects the axis and does not add flight, and that such gains are common in his teaching; ATTRIBUTED appraisal that her precision and rotation speed come from her coach's training | MD-PERF-0062; EV-0004/0005/0023; MD-CL-0008@6/0004@6 | HIGH for the landings; first landings only |
+| MD-SK-0042 | Inori / after her coach's fall / Score 25 | The triple Lutz reduced to a single; diagnosed as an unconscious release of the body's tightening before take-off; a double recovered with her coach hoisting; a triple only with strong assistance | DEPICTED_PERFORMANCE; ATTRIBUTED diagnosis by the specialist, who names the condition and prescribes technique and repetition; her own stated fear of falling, from two remembered fractures | MD-PERF-0064/0065; EV-0011/0021/0025; MD-CL-0019@5 | HIGH that these are shown and said; recovery of the triple is not shown |
+| MD-SK-0043 | Inori / Uobuchi and Tsukasa / Score 26 | A quadruple Salchow begun by a higher arm swing that uses rotational pull; early opening from fear; redirected to fine sensory attention; one unaided landing; repeated once at home | DEPICTED_PERFORMANCE; IN_UNIVERSE_STATEMENT that a quad needs faster rotation in the same flight, tightening at the best instant and opening at the last, and that a mistimed landing can break the leg; stated values 9.7 against 5.9 for a triple Lutz | MD-PERF-0064/0066; EV-0022/0023/0025/0027/0028/0039; MD-CL-0008@6/0015@6 | HIGH for two landings; rate unknown |
+| MD-SK-0044 | Tsukasa / Uobuchi / Scores 24 and 26 | Learns to operate a harness by watching, then under instruction; told that jumps with distance drag the pole and cause accidents and that the operator must yield to the skater's motion | DEPICTED_PERFORMANCE; IN_UNIVERSE_STATEMENT that the tool is unregulated and rib fractures are common; cracked ribs; barred from exertion | MD-PERF-0070; EV-0007/0008/0010/0020; MD-CL-0017@5/0024@3 | HIGH |
+| MD-SK-0045 | Tsukasa / deciding on the quad / Score 28 | No log of the jump exists; a senior proposes three consecutive landings in motion; the test's original form, from their teacher, looks only at the third attempt; a clubmate says once was enough for him; he decides the quad goes in | IN_UNIVERSE_STATEMENT and ATTRIBUTED doctrine; DEPICTED first jump of the test | MD-PERF-0066; EV-0037/0038/0039; MD-CL-0004@6/0007@7 | HIGH that this is the stated basis; the warrant is thin beside his V06 logs |
+| MD-SK-0046 | Miku / Kōhei / Score 27 | A quadruple toe loop offered while she is still light; declined by her coach in favour of completeness and avoiding deductions | ATTRIBUTED appraisal by the specialist; the coach's stated reasons, including that he does not know a quad's risk | MD-PERF-0067; EV-0034/0038; MD-CL-0024@3 | HIGH |
+| MD-SK-0047 | Ema / Jakuzure / Score 27 | From grade 1 in V03 to a Novice A program with a triple Lutz; tightened early on one element; one fall | DEPICTED_PERFORMANCE; official outcome | MD-PERF-0068; EV-0031; MD-CL-0020@2 | HIGH; the year between is not shown |
+
+The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V07`: Inori's competition-proven content is unchanged from V06. In practice she has first landings of a triple flip, a triple Lutz and a quadruple Salchow; the Lutz stands at a double unaided on the last page that shows it. Field frontier shown or reported: two skaters above 100; three more at about 90; a triple Lutz in the programs of an eliminated skater and of an unseeded block champion.

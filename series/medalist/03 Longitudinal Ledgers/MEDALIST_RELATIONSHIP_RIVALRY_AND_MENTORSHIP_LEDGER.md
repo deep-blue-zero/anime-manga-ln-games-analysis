@@ -5,14 +5,14 @@ artifact_type: "relationship_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.5"
+version: "1.6"
 status: "canonical"
 scope: "Directional interpersonal interpretations and transitions among athletes, coaches, peers and families"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_RELATIONSHIP_RIVALRY_AND_MENTORSHIP_LEDGER.md"
-source_boundary: "Japanese V01–V06 closed (Scores 1–23, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V06_UPDATE"
+review_status: "AUTHOR_REVIEWED_V07_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -367,3 +367,61 @@ The three assistant coaches' dinner with Tsukasa, Kijita's testimony about Sonid
 | MD-PAIR-0002 / mother→Inori | V06 | MD-RL-0139 | Present and supportive, with a disclosed past refusal. | The middle-school endpoint. |
 | MD-PAIR-0007, 0008, 0017 | V06 | MD-RL-0134/0135/0136 | Unchanged in kind; each deepened by one scene. | — |
 | Others | V05 or earlier | as before | Unchanged in V06. | — |
+
+## V07 evidence tables
+
+All transitions below are version 1 through `MD-FR-V07`. In this section `EV-####` expands to the [V07 reading's](../02%20Sequential%20Readings/MEDALIST_V07_DEEP_READING.md#canonical-observations) `MD-EV-V07-####`. New pair keys: MD-PAIR-0035 Tsukasa/Uobuchi; MD-PAIR-0036 Inori/Uobuchi; MD-PAIR-0037 Tsukasa/Kōhei; MD-PAIR-0038 Miku/Kōhei; MD-PAIR-0039 Inori/Miku; MD-PAIR-0040 Ema/Suzu. Earlier tables are unchanged; the current projection is the last projection table in this document.
+
+| Transition | Pair / direction | Story time / known after | Dimensions / context | Action / options / effect | Evidence / knowledge / linked homes | Claim / confidence / alternatives | Prior / revision |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-RL-0140 | 0001 / Tsukasa→Inori | Two weeks before; Score 24 | Demonstration, self-doubt | Jumps for her to show timing; misreads her calm; tells her a real jumper will now look after her. | EV-0002/0003; MD-CS-0117 | MD-CL-0004@6; HIGH; comic. | MD-RL-0114 |
+| MD-RL-0141 | 0001 / Inori→Tsukasa | Same; Score 24 | Delight concealed for his sake | Keeps a straight face so that he will go on demonstrating. | EV-0002; MD-CS-0118; MD-KN-0064 | MD-CL-0002@7; HIGH; comic. | MD-RL-0113 |
+| MD-RL-0142 | 0001 / Tsukasa→Inori | The fall and after; Scores 24–25 | Protection at his own cost, minimizing | Holds the pole so it cannot strike her; asks first if she is hurt; tells her not to worry; keeps a bright face. | EV-0008/0010; MD-CS-0123 | MD-CL-0010@7; HIGH. | MD-RL-0140 |
+| MD-RL-0143 | 0001 / Inori→Tsukasa | After the fall; Score 25 | Guilt, vigilance | Apologizes in tears; asks if it hurts; watches him bow to her mother; sees his unguarded face from the van. | EV-0010/0011/0014; MD-CS-0124/0126 | MD-CL-0002@7/0015@6; HIGH. | MD-RL-0141 |
+| MD-RL-0144 | 0001 / Inori→Tsukasa | The night drive; Score 25 | Play, gratitude, repayment offered | Talks with him about things other than skating for the first time; thanks him; begins to promise recovery by tomorrow. | EV-0013/0015 | MD-CL-0002@7; HIGH. | MD-RL-0143 |
+| MD-RL-0145 | 0001 / Tsukasa→Inori | Lake Suwa; Score 25 | Release from an outcome, companionship | Declines the promise; describes skating on a frozen lake and rinks all over the country; says it is all right if she cannot jump tomorrow; carries her. | EV-0015; MD-CS-0127 | MD-CL-0007@7; HIGH wording. | MD-RL-0142 |
+| MD-RL-0146 | 0001 / Inori→Tsukasa | Lake Suwa; Score 25 | Unsought recognition | Half asleep, tells him he must have been born to skate. | EV-0016 | MD-CL-0001@7/0010@7; HIGH wording; she does not know its weight. | MD-RL-0144 |
+| MD-RL-0147 | 0001 / Tsukasa→Inori | Lake Suwa; Score 25 | Recognition returned as purpose | Weeps; vows, to her asleep, to make her a skater the world calls born to it. | EV-0016; MD-CS-0128 | MD-CL-0007@7/0010@7; HIGH wording. | MD-RL-0145 |
+| MD-RL-0148 | 0001 / Inori→Tsukasa | Niigata; Score 26 | Protectiveness, consent | Objects that the harness injured him; accepts once told he has chosen it knowing the risk; vows to jump upward so that he will not fall. | EV-0020 | MD-CL-0002@7/0024@3; HIGH. | MD-RL-0146 |
+| MD-RL-0149 | 0001 / Inori→Tsukasa | Niigata; Score 26 | Reliance on his method | Asks him to set out both options as he taught her before choosing. | EV-0024; MD-CS-0132 | MD-CL-0002@7; HIGH. | MD-RL-0148 |
+| MD-RL-0150 | 0001 / Tsukasa→Inori | Niigata; Score 26 | Explanation, unconditional commitment, redirection | Explains each branch and offers to repeat it; says he will make her win whichever she chooses; later tells her not to wish too hard and asks her to teach him what she feels. | EV-0024/0027; MD-CS-0134 | MD-CL-0007@7/0004@6; HIGH wording. | MD-RL-0147 |
+| MD-RL-0151 | 0001 / Tsukasa→Inori | Return journey; Score 28 | Warning | Tells her the quad will make her the centre of attention and that neither of them should mind how adults change. | EV-0039 | MD-CL-0007@7; HIGH. | MD-RL-0150 |
+| MD-RL-0152 | 0001 / Inori→Tsukasa | Return journey; Score 28 | Disclosure of a reason | Tells him she chose the quad on purpose, to be someone not beaten by attention. | EV-0039; MD-CS-0141 | MD-CL-0002@7/0015@6; HIGH. | MD-RL-0149 |
+| MD-RL-0153 | 0035 / Uobuchi→Tsukasa | Scores 24 and 26 | Instruction, candour, regard | Explains his tool and trade; gives Lux priority; hands him the pole and teaches hoisting; states the risk plainly; credits his dance-bred training for her readiness. | EV-0004/0006/0020/0023; MD-CS-0119 | MD-CL-0011@7/0017@5; HIGH. | none |
+| MD-RL-0154 | 0035 / Tsukasa→Uobuchi | Scores 24–26 | Astonishment, reliance, learning | Protests the speed; buys the same tool; sends video for advice; drives overnight to reach him; takes instruction while injured. | EV-0005/0007/0012/0020; MD-CS-0121/0131 | MD-CL-0017@5; HIGH. | none |
+| MD-RL-0155 | 0036 / Uobuchi→Inori | Scores 24 and 26 | Technique, desensitizing, offer | Puts her on her axis; talks about the drive before asking for a jump; names what she has stopped doing; offers a choice of jumps; tells her many children are stopped the same way and to look for a landmark. | EV-0004/0019/0021/0023/0025 | MD-CL-0004@6; HIGH. | none |
+| MD-RL-0156 | 0036 / Inori→Uobuchi | Scores 24 and 26 | Delight, trust, disclosure | Enjoys the harness; tells him and her coach together what she is afraid of. | EV-0004/0025; MD-CS-0130 | MD-CL-0002@7; HIGH. | none |
+| MD-RL-0157 | 0037 / Kōhei→Tsukasa | Niigata; Score 28 and a gag | Fellowship, counsel, care | Greets him as an old junior; offers a test for a new jump; argues for completeness and against an unknown risk; says he has not changed; keeps him overnight and feeds him. | EV-0035/0037/0038/0043; MD-CS-0138 | MD-CL-0011@7/0025@2; HIGH. | none |
+| MD-RL-0158 | 0037 / Tsukasa→Kōhei | Niigata; Score 28 | Affection, deference, dissent | Overjoyed to meet him; calls him a senior who taught him much; hears him out and decides the other way. | EV-0035/0038; MD-CS-0140 | MD-CL-0010@7; HIGH. | none |
+| MD-RL-0159 | 0038 / Miku→Kōhei | From age four; Score 27 | Trust, delegation | Has skated with him since she was four; hands him the decision on a quad; will not regret a plan that is his. | EV-0034/0035; MD-CS-0137 | MD-CL-0024@3; HIGH. | none |
+| MD-RL-0160 | 0038 / Kōhei→Miku | From her age four; Scores 27–28 | Care, caution | Decides against the quad; explains to a friend that she cannot continue once the rink closes; coaches her as a near-equal. | EV-0034/0036; MD-CS-0138 | MD-CL-0024@3; HIGH. | none |
+| MD-RL-0161 | 0039 / both | Niigata; Scores 27–28 | Quick friendship, exchanged aims | Miku helps with homework and apologizes for a clubmate; Inori tells her she means to beat Hikaru; Miku tells her she is stopping after this season. | EV-0035/0036 | MD-CL-0022@4; HIGH. | none |
+| MD-RL-0162 | 0040 / Ema→Suzu | Kinki block; Score 27 | Admiration, distance | Regards her as the elder who brought her into skating; finds that the nearer she gets, the farther off she is. | EV-0031; MD-CS-0135 | MD-CL-0023@3; HIGH. | none |
+| MD-RL-0163 | 0014 / both | Kinki block; Score 27 | Candour, shared restart | Jakuzure names one fault and one best and will not blame the field; Ema tells him not to console her and asks him to keep her company in starting over. | EV-0031; MD-CS-0135/0136 | MD-CL-0020@2/0024@3; HIGH. | V03 transitions on MD-PAIR-0014 |
+| MD-RL-0164 | 0011 / Hikaru→Yodaka | Same period; Score 26 | Appropriation | Studies his competitive programs in secret, wanting all of what he knows and not only what he gives. | EV-0018; MD-CS-0129 | MD-CL-0016@6/0003@6; HIGH wording. | V03 transitions on MD-PAIR-0011 |
+| MD-RL-0165 | 0010 / Yodaka→Inori | Days before the event; Score 28 | Reappraisal | Deduces her quad unprompted and calls it the only card that could beat Hikaru. | EV-0040; MD-CS-0142 | MD-CL-0016@6; HIGH. | MD-RL-0117 |
+| MD-RL-0166 | 0005 / Hikaru→Inori | Opening ceremony; Score 28 | Welcome, expectation | Seeks her out before anyone else and says she has been waiting. | EV-0041; MD-CS-0143 | MD-CL-0003@6; HIGH conduct. | MD-RL-0129 |
+| MD-RL-0167 | 0005 / Inori→Hikaru | Niigata; Score 28 | Admiration, aim, curiosity | Tells a new friend that Hikaru is the one she admires and means to beat; wonders what Hikaru's relation to her coach is like. | EV-0035/0036; MD-KN-0068 | MD-CL-0003@6/0015@6; HIGH. | MD-RL-0128 |
+| MD-RL-0168 | 0002 / parents→Inori and coach | Nine days before; Score 25 | Deliberated trust | With the head coach, agree to an overnight drive with Tsukasa alone; her mother telephones during it; her father brings her home. | EV-0009/0013/0039 | MD-CL-0014@4; HIGH; the deliberation is an author's note. | MD-RL-0139 |
+
+Juna's teasing of Tsukasa and Tsukasa's curtness toward him, Yuki's thanks and her later encouragement of Inori, Riley Fox and her pupil, and Rio's attendance on Hikaru are single-context and are carried as state events and in the institutions ledger (MD-CS-0122/0139/0140; MD-IN-0073).
+
+### Current projection after V07
+
+| Pair / direction | Source endpoint | Active transition IDs | Current bounded state | Unknown reverse state / contradictions |
+| --- | --- | --- | --- | --- |
+| MD-PAIR-0001 / Tsukasa→Inori | V07 | MD-RL-0142/0145/0147/0150/0151 | Protects her at his own cost, has released her from an outcome and committed himself to one, and has told her how he wants her to jump. | Does not know why she hurried in V04. |
+| MD-PAIR-0001 / Inori→Tsukasa | V07 | MD-RL-0143/0146/0148/0152 | Shields him, has seen him unguarded, has told him he was born to skate, and gives him her reasons. | Still withholding her V04 motive. |
+| MD-PAIR-0035 / both | V07 | MD-RL-0153/0154 | A specialist and a coach who became his pupil for a morning. | — |
+| MD-PAIR-0036 / both | V07 | MD-RL-0155/0156 | Technician and a child who told him her fear. | — |
+| MD-PAIR-0037 / both | V07 | MD-RL-0157/0158 | Old clubmates on opposite sides of a question about risk, now rival coaches. | — |
+| MD-PAIR-0038 / both | V07 | MD-RL-0159/0160 | A team of near-equals with a season left. | Whether she would have wanted the quad. |
+| MD-PAIR-0039 / both | V07 | MD-RL-0161 | New friends and coming opponents. | — |
+| MD-PAIR-0040 / Ema→Suzu | V07 | MD-RL-0162 | Follower of a clubmate who is pulling away. | Suzu's view. |
+| MD-PAIR-0014 / both | V07 | MD-RL-0163 | Coach and pupil restarting together. | — |
+| MD-PAIR-0011 / Hikaru→Yodaka | V07 | MD-RL-0164 | Takes more than she is given. | His knowledge of it; her knowledge of his design. |
+| MD-PAIR-0010 / Yodaka→Inori | V07 | MD-RL-0165 | Treats her as a problem with one solution. | His response. |
+| MD-PAIR-0005 / Hikaru→Inori | V07 | MD-RL-0166 | Has been waiting for her. | Interior. |
+| MD-PAIR-0005 / Inori→Hikaru | V07 | MD-RL-0167 | Admires her and means to beat her. | — |
+| MD-PAIR-0002 / parents→Inori | V07 | MD-RL-0168 | Trust the coach with their daughter overnight after deliberation. | The middle-school endpoint. |
+| Others | V06 or earlier | as before | Unchanged in V07. | — |

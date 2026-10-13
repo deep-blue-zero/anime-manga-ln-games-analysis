@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.5"
+version: "1.6"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V06 closed (Scores 1–23, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V06_UPDATE"
+review_status: "AUTHOR_REVIEWED_V07_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -235,3 +235,36 @@ All events below are version 1 through `MD-FR-V06`. In this section `EV-####` ex
 | Entry and exit | Clubs, shows | MD-IN-0060/0061/0064 | A refused child, an injured sister, a show career declined. | — |
 | Class progression and club network | The region | MD-IN-0062/0063 | Junior next year; patronage among rival clubs. | — |
 | Others | As V05 | as before | Unchanged in V06. | — |
+
+## V07 evidence tables
+
+All events below are version 1 through `MD-FR-V07`. In this section `EV-####` expands to the [V07 reading's](../02%20Sequential%20Readings/MEDALIST_V07_DEEP_READING.md#canonical-observations) `MD-EV-V07-####`. New settings: MD-ORG-0026 Uobuchi's freelance jump-coaching practice; MD-ORG-0027 十南町レイクFSC and its ageing rink in Niigata; MD-ORG-0028 スターフォックスFSC, Tokyo; MD-ORG-0029 やまびこFSC in the north; MD-ORG-0030 the All-Japan Novice venue, FLAT HACHINOHE in Aomori, with a hotel ballroom for its opening ceremony. The old club of Tsukasa, Kōhei and Juna is shown in title art and a flashback and is not named. Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0065 | ORG-0026, clubs nationwide | Stated at Lux | A travelling specialist who corrects the rotation axis with a pole harness and sells knowledge renewed across the country; neutral toward clubs; skaters with a major event ahead get priority; by his profile he strengthens every club's rivals alike and has no attachment to results | Two triples in a day are routine for those he reaches; the regional champion's title bought an early place in his queue | EV-0003/0004/0005/0006/0042; MD-SK-0041; MD-CL-0011@7/0005@6 | HIGH; the profile is an editorial layer; prior MD-IN-0056 |
+| MD-IN-0066 | Club structure in Japan, by the specialist | Stated at Lux | Abroad jump and skating coaches are separate; in Japan many clubs run only if one coach teaches everything | Borrowed expertise is a structural need and not one coach's weakness | EV-0006; MD-CL-0017@5/0011@7 | HIGH as his statement |
+| MD-IN-0067 | The harness as a technology | Lux and Niigata | No course and no licence; the operator bears all risk and learns by feel; jumps with distance are hard to hoist; rib fractures are common among users | A coach buys one himself, is injured, and is then taught properly | EV-0007/0008/0020; MD-SK-0044; MD-CL-0024@3 | HIGH as in-story statements |
+| MD-IN-0068 | ORG-0002, a coach's own means | A few days after the specialist's visit | The assistant coach pays for a harness personally because he may not be able to use it and will not charge the club; uses it for all pupils | A resource enters the club at a poor man's expense | EV-0007; MD-CL-0011@7; MD-CS-0121 | HIGH; price not given; prior MD-IN-0038 |
+| MD-IN-0069 | Badge grades and jumps, Yuki | Same session | A pupil in her examination year cannot pass grade 6 or enter junior competition without a double Axel and had decided to stop | One jump at the needed time keeps her in the sport | EV-0007; MD-CS-0122; MD-CL-0022@4 | HIGH |
+| MD-IN-0070 | ORG-0003, ORG-0002, the adults | Nine days before the event | With a father away, a mother unable to leave work and the head coach committed to ice-dance pupils, the adults deliberate and agree that the assistant coach will drive the child overnight alone; he sets rules for the night; the mother telephones; the father brings her home by train | A child travels with her coach by considered consent | EV-0009/0013/0039; MD-RL-0168; MD-CL-0014@4 | HIGH; the deliberation is given in an author's note |
+| MD-IN-0071 | ORG-0027, its skaters | Niigata | An old provincial rink where private ice is very cheap and public sessions are empty; a club of one elite girl and small boys from the rink's hockey team; the rink closes this year | Unlimited ice made a national-level skater; its loss ends her career | EV-0019/0035/0036; MD-CS-0137; MD-CL-0001@7/0022@4 | HIGH as stated; "a common story" is her coach's phrase; prior MD-IN-0047/0055 |
+| MD-IN-0072 | The national tier | The month of the blocks | Six regional blocks on set dates; six seeded skaters named; more places advance where a block has seeds; top placers at the All-Japan Novice may enter the same season's junior championship; a television feature presents the field; the venue is in Aomori | A national ranking can be compiled in which the Chūbu champion is thirteenth | EV-0030/0031/0033/0036; MD-COMP-0007/0008/0009; MD-CL-0013@7/0005@6 | HIGH as in-story statements; unverified externally; prior MD-IN-0054 |
+| MD-IN-0073 | ORG-0028 and ORG-0029 | Same month | A four-year-old Tokyo club led by an Olympic champion from abroad already places skaters on podiums in every class; a northern child learned on a garden rink her grandfather made | New and old routes into the sport set side by side | EV-0030; MD-CL-0001@7 | HIGH as broadcast narration and a child's dream |
+| MD-IN-0074 | ORG-0009, its head coach | A week after the Kinki block | Layouts are fixed only after watching named rivals at official practice | A reactive doctrine of planning at the west's leading club | EV-0032; MD-CL-0024@3 | HIGH |
+| MD-IN-0075 | Authority over a new jump: ORG-0002, ORG-0027 | Niigata | A specialist puts the choice to coach and pupil; one pupil has both branches explained and chooses; another delegates to her coach as owner of strategy; a test inherited from a shared teacher judges by the third attempt; one senior calls adult caution ego and another calls untested hope recklessness | The decision's owner differs by team and is argued openly | EV-0024/0034/0037/0038; MD-CL-0024@3/0002@7 | HIGH; prior MD-IN-0049 |
+| MD-IN-0076 | Public attention, Inori | The days before the event | Within about two weeks a child absent from the selection camp is known across the field for a quadruple; her coach warns her that adults will treat her differently; she says she chose that | Standing is conferred by one jump faster than by a regional title | EV-0039/0041; MD-CL-0001@7/0015@6 | HIGH; prior MD-IN-0056 |
+
+### Current projection after V07
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| The national tier | All-Japan Novice | MD-IN-0054/0072; MD-COMP-0007 | Six blocks, six seeds, a venue in Aomori; opening ceremony held. | The event; external verification. |
+| Specialist expertise | All clubs | MD-IN-0065/0066/0067 | A neutral travelling technician with an unregulated tool. | Whether rivals drew the same benefit. |
+| Lux's means | ORG-0002 | MD-IN-0059/0068 | Skating-weighted practice, logs, and now a harness its assistant paid for. | — |
+| Access by geography | Provincial rinks | MD-IN-0047/0071 | No rink in one prefecture; a closing rink in another. | What becomes of the skater. |
+| Grades and classes | Club pupils | MD-IN-0036/0062/0069 | Jumps gate grades, grades gate classes. | — |
+| Authority over layout | Several teams | MD-IN-0049/0074/0075 | Negotiated, delegated or deferred, by team. | Inori's layout on the day. |
+| Family consent | Yuitsuka household | MD-IN-0064/0070 | Deliberated trust in the coach. | The middle-school endpoint. |
+| Attention and standing | Inori | MD-IN-0056/0076 | Earned by a title, multiplied by a jump, chosen by her. | Its effect on the day. |
+| Others | As V06 | as before | Unchanged in V07. | — |

@@ -5,14 +5,14 @@ artifact_type: "source_inventory"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.0"
+version: "1.1"
 status: "canonical"
 scope: "Evidence-plane routing, source identity, admission stages, locators and publication boundary"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_AND_SCOPE_MAP.md"
-source_boundary: "Japanese V01–V06 closed (Scores 1–23, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V06_UPDATE"
+review_status: "AUTHOR_REVIEWED_V07_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -121,6 +121,10 @@ The complete [V05 reading/MD-FR-V05](../02%20Sequential%20Readings/MEDALIST_V05_
 
 The complete [V06 reading/MD-FR-V06](../02%20Sequential%20Readings/MEDALIST_V06_DEEP_READING.md) closes V06. Admission key `MD-MG-JP-TB-V006-W01`, local route `MD-LOCAL-001`, `Medalist - Volume 06 [Japanese].cbz`, 99,993,702 bytes, SHA-256 `7ecbf94f03960c6a28879692a5241c76765cb99889da5be426cd5b8fe4777ee9`; 205 ordered image entries plus builder-generated ComicInfo.xml. Colour illustrations are at 0003–0004, a title page at 0005 and an editorial athletes-and-coaches page with a story recap at 0006. Scores 20, 21 and 23 begin on story pages at images 0007, 0063 and 0147; Score 22 begins with title art at 0101; story pages end at 0061, 0099, 0144 and 0186. Pencil gags are at 0062, 0100 and 0145; a profile at 0146; four-panel gags at 0187–0189; profiles of the block competition's skaters and coaches at 0190–0193; Volume 7 promotion at 0194–0195; a print colophon with a serialization notice at 0196; jacket flaps with contents and a creator note at 0197–0198; under-jacket material at 0199–0200 and 0203; the jacket back and full jacket at 0201–0202; a fiction notice at 0204; the digital colophon at 0205; cover and blank at 0001–0002. The contents page gives printed starts 005, 061, 099 and 145: image equals printed page plus two at every verified anchor. Facing-page geometry was not verified for any pair in this volume. This is the first witness in the run to carry a print colophon: メダリスト6, first impression 2022-07-22, Kodansha, collecting work from the April to July 2022 issues of the magazine; the digital colophon reads メダリスト(6), issued 2022-08-01 with the marker "(02)". The mainline completes the Chūbu block competition and its night, passes to a designated practice a week later, and ends at image 0186 on the following day, about two weeks before the All-Japan Novice. The Volume 7 advertisement is exposure only. All 205 images were inspected; private notes and media stay outside Git.
 
+## V07 closed component boundary
+
+The complete [V07 reading/MD-FR-V07](../02%20Sequential%20Readings/MEDALIST_V07_DEEP_READING.md) closes V07. Admission key `MD-MG-JP-TB-V007-W01`, local route `MD-LOCAL-001`, `Medalist - Volume 07 [Japanese].cbz`, 95,119,576 bytes, SHA-256 `fc4b9defb25939f446ab22822d9b2340e1decf9f2f92b02f493584b17d36deb4`; 203 ordered image entries plus builder-generated ComicInfo.xml. This witness has no colour front matter, title page or editorial introduction: the cover and a blank are at 0001–0002 and Score 24 begins on a story page at image 0003. Score 25 begins at 0037 with three colour story pages (0037–0039) and an author's note (0040); Score 26 begins on a story page at 0073; Scores 27 and 28 begin with title art at 0123 and 0150; story pages end at 0036, 0071, 0122, 0149 and 0186. Pencil pages are at 0072 and 0187; a profile at 0188; four-panel gags at 0189–0191; Volume 8 promotion at 0192–0193; a print colophon with a serialization notice at 0194; jacket flaps with contents and a creator note at 0195–0196; under-jacket material at 0197–0198 and 0201; the jacket back and full jacket at 0199–0200; a fiction notice at 0202; the digital colophon at 0203. The contents flap gives printed starts 001, 035, 071, 121 and 148: image equals printed page plus two at every verified anchor. Facing-page geometry is verified for images 0192–0193, a single spread with the lower-numbered image on the right; it is unverified elsewhere. The print colophon reads メダリスト7, first impression 2022-12-22, Kodansha, collecting work from the August to December 2022 issues of the magazine; the digital colophon reads メダリスト(7), issued 2022-12-01 with the marker "(01)". The mainline runs from about two weeks before the All-Japan Novice to its opening ceremony and ends at image 0186. The Volume 8 advertisement is exposure only. All 203 images were inspected; private notes and media stay outside Git.
+
 ## Continuous-run witness register (from 2026-10-12)
 
 The owner's 2026-10-12 `continuous_sequential` authorization covers Japanese V02–V15. The [continuous-run receipt](../07%20Audits%20and%20Handoffs/MEDALIST_CONTINUOUS_RUN_AUTHORIZATION_AND_SOURCE_RECEIPT.md) holds each container's bytes, SHA-256 and activation-time checks; this register owns each unit's progressive state. A row changes only when its own transaction closes. "Structural" means full ZIP CRC, complete image decode and a container hash matching the retained prior audit manifest; it is not narrative inspection.
@@ -132,7 +136,7 @@ The owner's 2026-10-12 `continuous_sequential` authorization covers Japanese V02
 | V04 / MD-MG-JP-TB-V004-W01 | CBZ / 203 | Scores 12–15; no Short Program; colour prologue, editorial introduction page, profiles, sketches, gags, jacket, colophon (issued 2022-01-01, digital-edition marker 03) | All 0001–0203 admitted and inspected; no foreign preview; Volume 5 advertisement 0196–0197 excluded as evidence | Closed, MD-FR-V04 |
 | V05 / MD-MG-JP-TB-V005-W01 | CBZ / 187 | Scores 16–19; one bonus "Exhibition" parody; no Short Program; colour prologue, editorial introduction page, author's page, jacket and under-jacket material, colophon (issued 2022-08-01, digital-edition marker 03) | All 0001–0187 admitted and inspected; no foreign preview; Volume 6 advertisement 0180–0181 excluded as evidence | Closed, MD-FR-V05 |
 | V06 / MD-MG-JP-TB-V006-W01 | CBZ / 205 | Scores 20–23; no Short Program or Exhibition; colour illustrations, editorial introduction page, pencil gags, profiles, four-panel gags, jacket and under-jacket material, print colophon (first impression 2022-07-22) and digital colophon (issued 2022-08-01, marker 02) | All 0001–0205 admitted and inspected; no foreign preview; Volume 7 advertisement 0194–0195 excluded as evidence | Closed, MD-FR-V06 |
-| V07 / MD-MG-JP-TB-V007-W01 | CBZ / 203 | pending reading | pending | Structural only |
+| V07 / MD-MG-JP-TB-V007-W01 | CBZ / 203 | Scores 24–28; no Short Program or Exhibition; no colour front matter or editorial page; three colour story pages inside Score 25, an author's note page, pencil pages, a profile, four-panel gags, jacket and under-jacket material, print colophon (first impression 2022-12-22) and digital colophon (issued 2022-12-01, marker 01) | All 0001–0203 admitted and inspected; no foreign preview; Volume 8 advertisement 0192–0193 excluded as evidence | Closed, MD-FR-V07 |
 | V08 / MD-MG-JP-TB-V008-W01 | EPUB / 187 | navigation: Scores 29–32; pending reading | pending | Structural only |
 | V09 / MD-MG-JP-TB-V009-W01 | EPUB / 203 | navigation: Scores 33–36; pending reading | pending | Structural only |
 | V10 / MD-MG-JP-TB-V010-W01 | CBZ / 203 | pending reading | pending | Structural only |
@@ -175,9 +179,9 @@ For each admitted object record ID/provider revision where exposed; verified vol
 | --- | --- | --- |
 | Inventory visible | Drive snapshot: 3 JP EPUB + 12 EN CBZ; local addendum: 18 JP volume containers + 2 JP fanbooks, not deduplicated across surfaces | Metadata listing; does not authenticate contents or prove witness equivalence. |
 | Structurally verified | 1 delivered V01 witness with component/Score map verified, printing unverified; 14 further volume witnesses (V02–V15) and 2 fanbook containers at container level only | Actual container/metadata/image order and integrity checks with recoverable receipt. |
-| Admitted for analysis | V01–V06, each with component separation; image ranges are in the register and the per-volume component paragraphs | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
-| Narratively inspected | V01–V06 complete, mainline and classified own-volume material | Actual source-content inspection with coverage record. |
-| Sequentially completed | V01–V06, one freeze each (latest MD-FR-V06), each with seven ledger updates | Closed reading, affected ledgers, immutable freeze and verified persistence/publication state. |
+| Admitted for analysis | V01–V07, each with component separation; image ranges are in the register and the per-volume component paragraphs | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
+| Narratively inspected | V01–V07 complete, mainline and classified own-volume material | Actual source-content inspection with coverage record. |
+| Sequentially completed | V01–V07, one freeze each (latest MD-FR-V07), each with seven ledger updates | Closed reading, affected ledgers, immutable freeze and verified persistence/publication state. |
 | Published serialization boundary | Score 61, August 2026 issue; ceiling fixed at the 2026-10-12 snapshot by official issue contents | Independent publication witnesses; not inferred from analytical progress. |
 
 These are independent dimensions: a verified public chapter listing does not authenticate a private EPUB. Admission or inspection of a later witness never implies earlier unit completion.

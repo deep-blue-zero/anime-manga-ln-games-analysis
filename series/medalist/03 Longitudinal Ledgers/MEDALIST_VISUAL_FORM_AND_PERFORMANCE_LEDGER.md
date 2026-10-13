@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.5"
+version: "1.6"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V06 closed (Scores 1–23, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V06_UPDATE"
+review_status: "AUTHOR_REVIEWED_V07_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -197,3 +197,31 @@ All feature and motif records below are version 1 through `MD-FR-V06`. In this s
 | MD-MOT-0007 — the verdict that returns (extended) | V06: EV-0039 "retract", returned to its first speaker; EV-0038 the V02 verdict restated as a design; EV-0008 a professional "impossible" remembered by the man who gave it; EV-0011 his own declaration recalled during her skate | — | Verdicts now come back to those who issued them | MD-CL-0016@5/0025@1 |
 | MD-MOT-0009 — cards, wagers and chairs (extended) | V06: EV-0002 "her rare cards cannot match"; EV-0006 levelling the cards, the low overturning the high; EV-0013 a layout that needs certainty; EV-0016 "watching over a miracle"; EV-0048 "a world decided by probability" | Kago replaces the wager with a miracle; Yodaka denies the wager altogether | The image has become the vocabulary in which strategy is argued | MD-CL-0012@6/0025@1 |
 | MD-MOT-0003, 0004, 0006, 0008 | 0003: celebration meals in a gag. 0004: unchanged. 0006: falls in practice by coach and pupil (EV-0034, EV-0046). 0008: the night rink (EV-0031) under a chapter title meaning signal fire | — | Unchanged in kind | — |
+
+## V07 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V07`. In this section `EV-####` expands to the [V07 reading's](../02%20Sequential%20Readings/MEDALIST_V07_DEEP_READING.md#canonical-observations) `MD-EV-V07-####`. Image order is verified. Facing-page geometry is verified for images 0192–0193 only. Earlier tables are unchanged.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0056 | MD-MOT-0009; EV-0005 | 0022–0024 | Two landings in consecutive tiers; a banner declaring a training arc complete; cards stamped as acquired; a coach's shout that it is too fast | Disposes of an inherited problem as a joke and clears the volume for another subject | MD-PERF-0062; MD-CL-0012@7/0008@6 | HIGH |
+| MD-VF-0057 | EV-0002 | 0009–0012 | Paired interior monologues under bland faces, captioned as two people passing each other | Shows each managing the other's feelings and getting it wrong | MD-KN-0064; MD-CL-0012@7/0002@7 | HIGH; comic |
+| MD-VF-0058 | MD-MOT-0006; EV-0008 | 0033–0036 | A diagram of a jump with distance; a blade catching a rut; one panel of decision; a full-length fall; a last page of a man face down and a child saying his name | Reverses V03's hole in the ice: the coach falls | MD-CS-0123; MD-CL-0012@7/0010@7 | HIGH |
+| MD-VF-0059 | EV-0009 | 0037–0040 | Three colour story pages placed before the events they follow; then an author's pencil page accounting for an omitted scene | Puts the child's excitement ahead of the injury and guards the propriety of the journey | MD-IN-0070; MD-CL-0012@7/0014@4 | HIGH |
+| MD-VF-0060 | MD-MOT-0005; EV-0014 | 0056–0058 | An empty driver's seat; a small figure on a wall before a lit shore; a lowered face seen through the van's window by a child in the dark | She sees what he has kept from her; no caption says what it is | MD-KN-0065; MD-CL-0012@7 | HIGH |
+| MD-VF-0061 | MD-MOT-0007; EV-0016 | 0066–0069 | A stunned face; a long shadow; overlapping cropped lettering of older voices resolving into one large phrase; clenched teeth and tears; a black page of stars with two small figures and one sentence | Gives his past as fragments and his answer as a vow no one hears | MD-CS-0128; MD-CL-0010@7/0012@7 | HIGH for construction; individual fragments are partly illegible by design |
+| MD-VF-0062 | EV-0022/0026 | 0095–0096, 0111 | Whirl-lines and blurred panels with one word spread across a page in syllables; later a full page of jagged captions round a wild face | Makes fear and compulsion visible as loss of perception | MD-CS-0130/0133; MD-CL-0015@6/0019@5 | HIGH |
+| MD-VF-0063 | MD-MOT-0011; EV-0028 | 0114–0120 | A full-page frozen lake with a small figure and its reflection; still-life panels of a bench and an unclipped harness; a running inventory in captions; a blade's arc over a night horizon; "hold" four times and "open"; a full-page landing from below | Turns the previous night's image into the place she concentrates from; draws the jump as a line before a body | MD-PERF-0064; MD-CL-0012@7/0015@6 | HIGH; the link to the lakeside talk is inferred from EV-0015 |
+| MD-VF-0064 | EV-0030/0033 | 0124–0131, 0145 | A television feature with narration boxes; a coach shown as broadcast and then with noodles; a dream in dialect; a hand-compiled ranking on a tablet with the heroine's name thirteenth | Widens the frame to a national field and measures her against it in one image | MD-COMP-0009; MD-CL-0012@7/0005@6 | HIGH |
+| MD-VF-0065 | MD-MOT-0001; EV-0041 | 0182–0186 | A title card; a ballroom from above; bare feet on carpet; heads turning along rows; two tall matched portraits; a low view between chair legs under a chandelier | Ends on a pairing the jacket repeats in colour, with one sentence | MD-CS-0143; MD-CL-0012@7/0003@6 | HIGH |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0011 — ice outside the rink (new) | V07: EV-0015 a lake that freezes and cannot be skated; EV-0028 the lake as an inner place; EV-0030 a garden flooded by a grandfather; EV-0036 a rink that is closing; the chapter titles 氷の湖 and 消える銀盤 | Every landing still happens indoors under a roof | Ice as something given, played on or lost, set against ice as a place where proof is demanded | Held until it recurs; MD-CL-0012@7/0022@4 |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V07: EV-0004 a harness and pole; EV-0008 a hand that will not let go; EV-0015 a jacket over her shoulders; EV-0016 a child carried on a back; EV-0043 new drawstrings | The harness is contact through a tool and can injure | Contact now carries risk for the one who holds | MD-CL-0010@7/0012@7 |
+| MD-MOT-0005 — seeing and being seen (extended) | V07: EV-0002 a demonstration watched and a reaction hidden; EV-0014 a face seen unawares; EV-0027 "how finely you feel the world"; EV-0039 attention chosen; EV-0041 a room turning to look | Miku has been watched by no one and is excellent | Attention is something one gives to the ice and something one must bear from others | MD-CL-0015@6/0001@7 |
+| MD-MOT-0006 — falling and getting up (extended) | V07: EV-0008 the coach falls; EV-0011 her falls afterwards; EV-0025 fear of falling said aloud; EV-0031 "starting over is my speciality" | — | A fall can now be someone else's and still stop her | MD-CL-0019@5/0020@2 |
+| MD-MOT-0007 — the verdict that returns (extended) | V07: EV-0016 the judgment he wanted, given by his pupil; EV-0038 the champion's "you do not know" heard in a friend's caution | — | Verdicts return through people who do not know they are carrying them | MD-CL-0010@7/0025@2 |
+| MD-MOT-0009 — cards, wagers and chairs (extended) | V07: EV-0005 cards acquired; EV-0006 all five triples as a hand; EV-0040 "the only card that could beat her"; EV-0038 a championship once staked | The specialist deals the same cards to everyone | The hand has changed; the wager is now the coach's | MD-CL-0008@6/0025@2 |
+| MD-MOT-0010 — the absolute (extended) | V07: EV-0015 her unfinished vow to recover; EV-0007 his vow to master a tool; EV-0020 each vowing the other will not be hurt; EV-0037 a senior's rule of refusal | At the lake he answers an absolute with "it is all right if you cannot" | Used by both for commitments to each other; declined by him when she offers an outcome | MD-CL-0007@7 |
+| MD-MOT-0002, 0003, 0004, 0008 | 0002: a ranking table against one landed jump (EV-0033, EV-0039). 0003: a meat bun and rice balls. 0004: a senior's care for the coach (EV-0043). 0008: the night drive and the lake (EV-0013–0016) | — | Unchanged in kind; night again holds what is not said by day | — |

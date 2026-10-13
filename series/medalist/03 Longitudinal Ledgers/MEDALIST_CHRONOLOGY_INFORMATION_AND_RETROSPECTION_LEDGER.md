@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.5"
+version: "1.6"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V06 closed (Scores 1–23, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V06_UPDATE"
+review_status: "AUTHOR_REVIEWED_V07_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -291,3 +291,47 @@ New proposition keys: MD-PROP-0021 what Tsukasa's declaration rested on and what
 | MD-RT-0036 | EV-0020/0021, Score 21 | V05:EV-0034 and the partial standings at MD-FR-V05 | Three unprinted scores, the fifth-place mark and one family name's reading are supplied | — | MD-RV-0067; HIGH |
 | MD-RT-0037 | EV-0037, Score 22 | The V02 record that his eye had to be pointed out to him (MD-PROP-0010) | A hostile expert infers that he knows his ability is rare | One observer's inference from a calm face | No revision; MODERATE |
 | MD-RT-0038 | EV-0041, profile | V05:EV-0037 "the strength to make him turn round"; MD-CL-0001@5 | The want is given a romantic colouring by an editorial statement | Not on a story page | MD-RV-0057; MODERATE |
+
+## V07 evidence tables
+
+All records below are version 1 through `MD-FR-V07`. In this section `EV-####` expands to the [V07 reading's](../02%20Sequential%20Readings/MEDALIST_V07_DEEP_READING.md#canonical-observations) `MD-EV-V07-####`; earlier volumes are written with their volume prefix. No calendar year is inferred. Earlier tables are unchanged.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0055 | About two weeks before the All-Japan: Tsukasa studies Hikaru's summer score; demonstrates a Lutz; the specialist's evening session; two triples landed | Score 24 / PRESENT, continuing V06's endpoint | EV-0001–0006 | The specialist's visit is the "today" of V06's last page | HIGH |
+| MD-TM-0056 | A few days later: Tsukasa's own harness; Yuki's double Axel; his fall; cracked ribs found the next day | Score 24–25 / PRESENT | EV-0007–0010 | — | HIGH |
+| MD-TM-0057 | The following days, by a handwritten countdown from fifteen to nine: the Lutz lost; his apology to her mother; consultation by video | Score 25 / PRESENT | EV-0011/0012 | The countdown's start slightly overlaps MD-TM-0056 | HIGH for nine days at the drive |
+| MD-TM-0058 | Nine days before: the overnight drive, Lake Suwa, arrival in Niigata at about 6:40; the lesson; a quadruple landed; meeting old clubmates; return by train with her father while Tsukasa stays a night | Scores 25–28 / PRESENT, with three colour pages shown ahead of their place | EV-0009/0013–0016/0019–0029/0033–0038/0043 | The colour pages precede the fall in page order | HIGH |
+| MD-TM-0059 | The block season: Tokyo on the 10th, Kinki on the 24th, six blocks in all; a week after the Kinki block its leading club is days from the event | Score 27 / broadcast narration and PRESENT | EV-0030/0031/0032 | Whether the Kinki block precedes or follows the Niigata morning is not fixed; both lie inside the fortnight | HIGH for the dates as stated; MODERATE for their order against MD-TM-0058 |
+| MD-TM-0060 | After Niigata: a quadruple Salchow on home ice; Sonidori's call to Yodaka | Score 28 / PRESENT | EV-0039/0040 | Intercut with the return journey | HIGH |
+| MD-TM-0061 | One week later: the opening ceremony of the All-Japan Novice in Aomori | Score 28 / PRESENT with a title card | EV-0041 | — | HIGH |
+| MD-TM-0062 | Tsukasa's competitive past: turned away by clubs as a late starter; kept hold of skating by changing the dream's shape; at a club with Kōhei and Juna as seniors; staked all his remaining money on the championship at which Hitomi planned to retire | Scores 25 and 28 / MEMORY fragments and FLASHBACK | EV-0016/0029/0035/0038 | Consistent with "began in earnest at twenty; competed at twenty-three and twenty-four" (MD-TM-0048) | HIGH content, relative order only; MD-CL-0010@7; refines MD-TM-0002/0014 |
+| MD-TM-0063 | Team Ahiru: Miku on the ice with Kōhei and Juna from the age of four; the rink to close this year | Scores 27–28 / report and vignette | EV-0034/0035/0036 | — | HIGH as stated |
+| MD-TM-0064 | This summer: Hikaru's first Novice A free skate at the 名港杯, 101.16; Ema's rise from grade 1 to Novice A within about a year | Scores 24 and 27 / archive stream and PRESENT | EV-0001/0031 | The 名港杯 is the event of V03's closing chapter (MD-COMP-0005) | HIGH as stated |
+
+By this volume's markers the span from the Chūbu block to the All-Japan's opening ceremony is about a month.
+
+New proposition keys: MD-PROP-0025 why the triple Lutz was lost; MD-PROP-0026 that Tsukasa is in pain and worried; MD-PROP-0027 why Inori chose the quadruple; MD-PROP-0028 that Miku is stopping and her rink closing.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0062 | PROP-0025 / Uobuchi | Before and during the Niigata lesson | INFERRED from video that she releases her tightening; SUSPECTS fear of injury; declines to pursue the trigger | Prescribes technique and continued harness work | EV-0013/0021; HIGH |
+| MD-KN-0063 | PROP-0025 / Tsukasa | From the fall to Niigata | OBSERVES the regression and that she never used to fear falling; TOLD the mechanism; HEARS her name its two sources | Redirects her from outcomes, then from wanting | EV-0011/0021/0025/0027; HIGH |
+| MD-KN-0064 | Her delight at his demonstrations / Tsukasa | Two weeks before | MISTAKEN: reads her calm as disappointment | He resolves to become a better model | EV-0002; HIGH; comic |
+| MD-KN-0065 | PROP-0026 / Inori | After the fall; the drive | TOLD not to worry; then SEES him bow to her mother and sees his face by the lake | She tries to repay him with a promise | EV-0010/0011/0014/0015; HIGH |
+| MD-KN-0066 | The weight of "born to skate" / Inori | Lake Suwa | UNKNOWN to her; she is asleep for his answer | His vow is unheard | EV-0016; HIGH |
+| MD-KN-0067 | PROP-0027 / Tsukasa | Return journey | TOLD by her: on purpose, for the attention | Answers his warning before it is needed | EV-0039; HIGH |
+| MD-KN-0068 | PROP-0024 / Inori | Through V07 | UNKNOWN: she wonders what Hikaru's relation to her coach is like | She compares teams without the fact her coach holds | EV-0035; HIGH for the absence; prior MD-KN-0058 |
+| MD-KN-0069 | That Inori will attempt a quadruple Salchow / Yodaka, Sonidori, the national field | Days before the event | Yodaka DEDUCES it before being told; Sonidori has it by rumour; the field knows by the ceremony | The opponent's coach has time to respond | EV-0040/0041; HIGH |
+| MD-KN-0070 | PROP-0028 / Inori and Tsukasa | Niigata | TOLD by Miku and by Kōhei | Inori learns that not every rival skates for a medal | EV-0036; HIGH |
+| MD-KN-0071 | PROP-0015 / Tsukasa | Through V07 | Still UNKNOWN that she hurried in V04 to shield him | Unchanged from MD-KN-0061; three further things are kept from him for his sake in this volume and two of them come out | No V07 evidence of disclosure; HIGH for the absence |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0039 | EV-0005/0023, Scores 24 and 26 | V06:EV-0046 a rival coach's charge that completeness left two triples untrained; MD-CL-0008@5 | The missing triples come in one session, and an expert attributes her readiness for more to that same training | First landings only; the Lutz is then lost | MD-RV-0083; HIGH |
+| MD-RT-0040 | EV-0016, Score 25 | V06:EV-0029 "tell me if I have talent… no one wants me on the ice"; V01:EV-0007 | The verdict he once wanted is given to him, unknowing, by the child he gave it to | Her sentence is affection, not appraisal | MD-RV-0084; HIGH for the parallel |
+| MD-RT-0041 | EV-0038, Score 28 | V05:EV-0041 and V06:EV-0025 the declaration and its purpose; V02's account of his championship | He had once staked everything on a single championship to become a medalist | He lost that stake; the page presents it as character and not as warning | MD-RV-0082; HIGH |
+| MD-RT-0042 | EV-0031, Score 27 | V03:EV-0036 and its neighbours, Ema's win at grade 1; MD-CL-0020@1 | The detour her coach credited is claimed by her as a charm and a skill | She is still sometimes sad | MD-RV-0093; HIGH |
+| MD-RT-0043 | EV-0041, Score 28 | V06:EV-0046 Hikaru turning away; V04:EV-0039 "at the All-Japan" | The appointment is kept from her side: she has been waiting | The turning away is not explained | MD-RV-0079; HIGH for her present direction |
+| MD-RT-0044 | EV-0037, Score 28 | V02–V03 records of an unnamed former teacher (MD-CHAR-0027) | The teacher taught a rule that looks to the ability to jump at a chosen moment, and taught Kōhei and Juna as well | Still unnamed; Tsukasa will not speak of him | No revision; MODERATE-HIGH |
+| MD-RT-0045 | EV-0045 jacket copy against V06:EV-0052 | The V06 advertisement's line about a quadruple set over Yodaka and Hikaru | The line is the jump specialist's | The advertisement was exposure only and no claim relied on it | No revision; HIGH |

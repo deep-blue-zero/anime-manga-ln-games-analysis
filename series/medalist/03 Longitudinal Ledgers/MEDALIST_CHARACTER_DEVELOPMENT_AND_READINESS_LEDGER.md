@@ -5,14 +5,14 @@ artifact_type: "character_state_readiness_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.5"
+version: "1.6"
 status: "canonical"
 scope: "Time-indexed character interpretation, identity resolution and evidence-specific promotion readiness"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
-source_boundary: "Japanese V01–V06 closed (Scores 1–23, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V07 closed (Scores 1–28, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V06_UPDATE"
+review_status: "AUTHOR_REVIEWED_V07_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -528,3 +528,97 @@ Takeda Momoga, Tonakai Noto, Kanie Honami, the Niwatori twins, Umitsuki Waka's a
 | MD-RD-0035 | 0022 / supporting note / coaching manner, tactics and a kept secret | V03–V06 | Adds regret unspoken, a commitment after a loss, the secrecy's terms and his reasons. | The reason left unfinished. | BOUNDED_PROVISIONAL for a supporting note; author; 2026-10-13; MD-CL-0024@2/0016@5 | Extends MD-RD-0029. |
 
 MD-RD-0021, 0023, 0024 and 0027 are unchanged. MD-CHAR-0010 remains INSUFFICIENT_EVIDENCE for a dedicated artifact in her own voice; MD-CHAR-0036–0051 other than those assessed above remain UNASSESSED.
+
+## V07 evidence tables
+
+The [V07 reading and frozen state](../02%20Sequential%20Readings/MEDALIST_V07_DEEP_READING.md) own all `MD-EV-V07-…` observations. In this section `EV-####` expands to `MD-EV-V07-####`; earlier volumes are written with their volume prefix. Every new record is version 1, first known after V07. Claim references are the versions in force at `MD-FR-V07`. Earlier tables are unchanged; the current projection is the last projection table in this document. Global entity and subject IDs remain null for every row.
+
+### Identity updates to existing keys
+
+| Character key | V07 disclosure | Basis | Remaining limit |
+| --- | --- | --- | --- |
+| MD-CHAR-0001 | Second of four brothers (肇 above; 誠 and 健 below); as a competitor could not choose what he ate; staked all his remaining skating money on the championship at which his partner planned to retire; cracked ribs | EV-0010/0035/0038/0043 | The brothers are named in a gag strip. |
+| MD-CHAR-0004 | Thirteenth nationally by block score in her coach's table; her jumps travel | EV-0008/0033 | The table's comparability is assumed. |
+| MD-CHAR-0006 | Planned to retire at the championship she skated with Tsukasa; runs a designated practice for ice-dance pupils | EV-0009/0038 | The first is his statement in a flashback. |
+| MD-CHAR-0007 | Given name のぞみ confirmed in writing on a telephone screen | EV-0013 | — |
+| MD-CHAR-0010 | 101.16 in Novice A at this summer's 名港杯; one of six national seeds | EV-0001/0033 | — |
+| MD-CHAR-0015 | In her examination year; below grade 6; had been stuck on a double Axel since before the summer camp | EV-0007 | — |
+| MD-CHAR-0018 | Away on a business trip during the drive; brings Inori home from Niigata by train | EV-0009/0039 | — |
+| MD-CHAR-0023 | Kinki block champion with over 100 (101.23 in the table); a national seed; the clubmate who brought Ema into skating | EV-0031/0033 | — |
+| MD-CHAR-0024 | Now in Novice A; seventh at the Kinki block with 80.01 | EV-0031 | — |
+| MD-CHAR-0027 | The teacher was also Kōhei's and Juna's; taught a three-jump test in which the third attempt decides | EV-0037 | Identity with the teacher of V02–V03 is by context; still unnamed and unseen. |
+| MD-CHAR-0032 | Shown as a man of monastic bearing who fixes layouts after official practice | EV-0032 | — |
+
+### New keys
+
+| Character key | Source-spelled identity / alias basis | Continuity | First observation | Global IDs / unresolved identity |
+| --- | --- | --- | --- | --- |
+| MD-CHAR-0052 | 魚淵翔; Uobuchi Kakeru, caption and profile with furigana; thirty-two; freelance jump coach | Japanese manga | EV-0003 | null/null |
+| MD-CHAR-0053 | 鴨川洸平; Kamogawa Kōhei, caption with furigana; former ice dancer; head coach of 十南町レイクFSC; コウ to a clubmate | Japanese manga | EV-0019 (unnamed); named EV-0035 | null/null |
+| MD-CHAR-0054 | 白鳥珠那; Shiratori Juna, family name with furigana; ジュナ; former skater, television personality, choreographer | Japanese manga | EV-0030 (on a television); EV-0035 | null/null |
+| MD-CHAR-0055 | 亜昼美玖; Ahiru Miku, caption with furigana; a middle-schooler; 十南町レイクFSC | Japanese manga | EV-0019 (by given name); named EV-0033 | null/null |
+| MD-CHAR-0056 | ライリー・フォックス; Riley Fox; Olympic champion for the United States; head of スターフォックスFSC, Tokyo | Japanese manga | EV-0030 | null/null |
+| MD-CHAR-0057 | 胡荒亜子; Koara Ako, caption with furigana; twelve; スターフォックスFSC | Japanese manga | EV-0030 | null/null |
+| MD-CHAR-0058 | 小雀白花; Kosuzume Kiyoka, caption with furigana; eleven; やまびこFSC | Japanese manga | EV-0030 | null/null |
+| MD-CHAR-0059 | Hikaru's choreographer, unnamed; a man with tied hair, stubble and an earring who calls Yodaka ジュン and Sonidori 慎一郎 | Japanese manga | EV-0018 | null/null; identity with the ballet master of V05 is not established |
+
+The seeded skaters 蝉丸ひまり and 大蜘蛛蘭, the other names in the national table, the grandfather in Aomori, Kōhei's small pupils and an unnamed man with glasses at やまびこFSC stay local to the reading and to the skating ledger.
+
+### State events
+
+| State event | Character | Story time / revealed after | Change kind | Action / self-report / inference | Evidence / claim version | Confidence / alternatives | Prior / correction |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-CS-0117 | 0001 | Two weeks before the All-Japan; Score 24 | CONTEXT_CHANGE | Has begun demonstrating jumps for her since the block competition; takes her calm for disappointment and resolves to be a better model; says a teacher who can jump will look after her. | EV-0002/0003; MD-CL-0004@6/0010@7 | HIGH; comic register. | MD-CS-0113 |
+| MD-CS-0118 | 0004 | Same; Score 24 | CONTEXT_CHANGE | Conceals her delight at his demonstrations so that he will not be embarrassed into stopping; resolves that she too must change. | EV-0002; MD-CL-0002@7 | HIGH; comic register. | MD-CS-0112 |
+| MD-CS-0119 | 0052 | Same evening; Score 24 | REVEALED_NOT_NEW | Explains the harness as axis correction and his trade as knowledge renewed across the country; calls two new triples in a day common; stays a neutral freelance and admits that skaters with big events come first. | EV-0004/0005/0006/0042; MD-CL-0011@7/0005@6 | HIGH. | none |
+| MD-CS-0120 | 0004 | Same evening; Score 24 | CONTEXT_CHANGE | Lands a triple flip and a triple Lutz in the harness and without it; counts all five triples; sets triple-triple and a triple Axel as next walls. | EV-0005/0006; MD-CL-0008@6 | HIGH; first landings. | MD-CS-0118; MD-SK-0041 |
+| MD-CS-0121 | 0001 | A few days later; Score 24 | CONTEXT_CHANGE | Buys a harness with his own money for the club; learns its timing by watching; resolves to master it as a way for a non-jumper to coach jumps. | EV-0007; MD-CL-0017@5/0004@6 | HIGH. | MD-CS-0117 |
+| MD-CS-0122 | 0015 | Same session; Score 24 | DISPOSITION_CHANGE (candidate) | Lands a double Axel in the harness; says she had meant to quit if she could never enter junior competition and can now try again. | EV-0007; MD-CL-0022@4 | HIGH wording; one scene. | V01 identity rows |
+| MD-CS-0123 | 0001 | Same session; Score 24 | CONTEXT_CHANGE | Falling, keeps hold of the pole so that it cannot hit her, and takes the fall unbroken; winded; asks first whether she is hurt; cracked ribs; tells her not to worry. | EV-0008/0010; MD-CL-0010@7/0024@3 | HIGH. | MD-CS-0121 |
+| MD-CS-0124 | 0004 | Days after the fall; Score 25 | CONTEXT_CHANGE | Can land the Lutz with one rotation only; watches her coach bow to her mother; counts the days. | EV-0011/0012; MD-CL-0019@5/0015@6 | HIGH conduct; cause stated later. | MD-CS-0120 |
+| MD-CS-0125 | 0001 | Days after the fall; Score 25 | CONTEXT_CHANGE | Stops her checking outcomes and directs her to components; apologizes to her mother; consults the specialist; arranges an overnight drive with the adults' agreement. | EV-0009/0011/0012; MD-CL-0007@7/0017@5 | HIGH; what he said to her mother is not given. | MD-CS-0123 |
+| MD-CS-0126 | 0004 | The night drive; Score 25 | REVEALED_NOT_NEW | Giddy; says it is the first time they have talked about anything but skating; sees his unguarded face; begins a vow to recover by tomorrow. | EV-0013/0014/0015; MD-CL-0002@7 | HIGH. | MD-CS-0124 |
+| MD-CS-0127 | 0001 | Lake Suwa; Score 25 | REVEALED_NOT_NEW | Sits alone with a grave face; talks across her vow; says it is all right if she cannot jump tomorrow and that they will build it up together across the country; carries her to prove he is sturdy. | EV-0014/0015; MD-CL-0007@7 | HIGH wording. | MD-CS-0125 |
+| MD-CS-0128 | 0001 | Lake Suwa; Score 25 | REVEALED_NOT_NEW | At her half-asleep remark that he was born to skate, recalls being turned away and "clinging on" by changing the dream's shape; weeps; vows to make her a skater the world calls born to it. | EV-0016; MD-CL-0010@7/0001@7 | HIGH for the large lettering; cropped fragments not relied on singly. | MD-CS-0127; MD-RT-0040 |
+| MD-CS-0129 | 0010 | Same period; Score 26 | REVEALED_NOT_NEW | Stays behind in secret to study Yodaka's old programs; says she hates being ignorant of the world he saw and wants everything to be hers, beyond what she is given. | EV-0018; MD-CL-0003@6/0016@6 | HIGH wording. | MD-CS-0108 |
+| MD-CS-0130 | 0004 | Niigata; Score 26 | REVEALED_NOT_NEW | Starts at the harness; classes saying she is frightened as selfish and suppresses it; later says aloud that she fears falling because she remembers her sister and her coach breaking bones, and that her body will not obey. | EV-0019/0022/0025; MD-CL-0002@7/0019@5 | HIGH wording. | MD-CS-0126 |
+| MD-CS-0131 | 0001 | Niigata; Score 26 | CONTEXT_CHANGE | Takes the pole with cracked ribs, taught by the specialist; vows not to fall; had hoped only to recover the double Lutz. | EV-0020/0021; MD-CL-0017@5/0024@3 | HIGH. | MD-CS-0128 |
+| MD-CS-0132 | 0004 | Niigata; Score 26 | CONTEXT_CHANGE | Offered a triple Lutz restored or a quadruple Salchow begun, leans to the safer; asks her coach to set out both branches as he once taught her; chooses the quad. | EV-0023/0024; MD-CL-0002@7/0024@3 | HIGH. | MD-CS-0130 |
+| MD-CS-0133 | 0004 | Niigata; Score 26 | CONTEXT_CHANGE | With fifteen minutes left falls into compulsion and pleading; redirected, attends to sensation, takes off the harness, and lands unaided. | EV-0026/0027/0028; MD-CL-0015@6/0019@5 | HIGH; one landing. | MD-CS-0132; MD-PERF-0064 |
+| MD-CS-0134 | 0001 | Niigata; Score 26 | REVEALED_NOT_NEW | Tells her not to wish for success too much, that jumping is not magic, that she need not be frantic; asks her to teach him what a quad feels like and to jump for one more word. | EV-0027; MD-CL-0004@6/0007@7 | HIGH wording. | MD-CS-0131 |
+| MD-CS-0135 | 0024 | The 24th and after; Score 27 | CONTEXT_CHANGE | Seventh at the Kinki block with 80.01 and out; tells her coach not to console her; calls her first medal a charm and starting over her speciality; admits she is still sometimes sad; finds the block's winner farther away the closer she gets. | EV-0031; MD-CL-0020@2/0022@4/0023@3 | HIGH. | MD-CS-0042 |
+| MD-CS-0136 | 0025 | The 24th and after; Score 27 | REVEALED_NOT_NEW | Names one fault and one best; will not tell her the opponents were too strong; reframes an early wall as a head start; chafes at his head coach's improvisation. | EV-0031/0032; MD-CL-0024@3 | HIGH. | V03 state |
+| MD-CS-0137 | 0055 | Niigata; Scores 27–28 | REVEALED_NOT_NEW | Hands the decision on a quad to her coach as the owner of strategy; says her aim is one more month of skating; will stop when the season ends because the rink is closing. | EV-0034/0036; MD-CL-0024@3/0022@4 | HIGH. | none |
+| MD-CS-0138 | 0053 | Niigata; Scores 27–28 | REVEALED_NOT_NEW | Declines the quad; holds, as a former ice dancer, to completeness and avoiding deductions; says neither of them knows a quad's risk; tells Tsukasa he has not changed. | EV-0034/0036/0037/0038; MD-CL-0008@6/0024@3/0025@2 | HIGH. | none |
+| MD-CS-0139 | 0054 | Niigata; Score 28 | REVEALED_NOT_NEW | Teases Tsukasa; says a jump landed once went straight into competition in his day, that there is no right answer on the ice, and that adult caution is ego. | EV-0035/0037; MD-CL-0024@3 | HIGH. | none |
+| MD-CS-0140 | 0001 | Niigata and the past; Score 28 | DISPOSITION_CHANGE (candidate) | Curt and self-deprecating before a famous clubmate; hears Yodaka's verdict in a friend's caution; decides the quad goes in and that making it succeed is his task; once staked everything on one championship to earn a reason to continue. | EV-0035/0037/0038; MD-CL-0007@7/0008@6/0010@7/0025@2 | HIGH wording. | MD-CS-0134; MD-RT-0041 |
+| MD-CS-0141 | 0004 | Return and the following days; Score 28 | REVEALED_NOT_NEW | Lands a quadruple Salchow on home ice; says she chose it on purpose knowing it would bring attention, because one who is not beaten by attention can become the best in the world; states her goal as beating Hikaru. | EV-0036/0039; MD-CL-0002@7/0015@6 | HIGH. | MD-CS-0133 |
+| MD-CS-0142 | 0021 | Same days; Score 28 | REVEALED_NOT_NEW | Names the quadruple Salchow before he is told, as the only card that could beat Hikaru; considers what to do. | EV-0040; MD-CL-0016@6/0025@2 | HIGH. | MD-CS-0106 |
+| MD-CS-0143 | 0010 | Opening ceremony; Score 28 | CONTEXT_CHANGE | Walks barefoot past the field to Inori and says she has been waiting. | EV-0041; MD-CL-0003@6 | HIGH conduct. | MD-CS-0129 |
+
+### Current projection after V07
+
+| Character | Current source boundary | Active state references | Bounded current formulation | Open contradictions |
+| --- | --- | --- | --- | --- |
+| MD-CHAR-0004 | V07/MD-FR-V07 | MD-CS-0130/0132/0133/0141 | Entrant at her first national event with a quad landed twice in practice and a lost Lutz, who has named her fear aloud and chose exposure on purpose. | Frantic and attentive within one hour; layout unknown. |
+| MD-CHAR-0001 | V07/MD-FR-V07 | MD-CS-0123/0127/0128/0134/0140 | Injured coach who removed the demand for an outcome at night and committed to a quadruple by day, and who has been told by his pupil what he once needed to hear. | "All right if you cannot" beside "make it succeed"; his body; his silence about his teacher. |
+| MD-CHAR-0010 | V07/MD-FR-V07 | MD-CS-0129/0143 | Seeded favourite who wants everything her coach knows and has been waiting for Inori. | Whether she knows his design. |
+| MD-CHAR-0021 | V07/MD-FR-V07 | MD-CS-0142 | Has modelled Inori correctly and is deciding on a response. | The response. |
+| MD-CHAR-0052 | V07/MD-FR-V07 | MD-CS-0119 | Neutral technician who arms every club. | — |
+| MD-CHAR-0053, 0054, 0055 | V07/MD-FR-V07 | MD-CS-0137/0138/0139 | A three-person team on a closing rink, divided over risk. | Miku's result; whether the delegation holds. |
+| MD-CHAR-0024 | V07/MD-FR-V07 | MD-CS-0135 | Eliminated at 80.01 and starting over. | Sadness beside resolve. |
+| MD-CHAR-0015 | V07/MD-FR-V07 | MD-CS-0122 | Past a jump that nearly ended her skating. | Grade 6 still ahead. |
+| MD-CHAR-0035, 0022, 0011 | V06 state | as before | Unchanged in V07 beyond a table rank, a telephone call and a gag. | — |
+| MD-CHAR-0013, 0012, 0034 | V04 or earlier | as before | Unchanged in V07. | — |
+
+### Readiness after V07
+
+| Readiness record | Character / target / domain | Boundary / scope | Context coverage / counterevidence | Gaps / tests | Assessment / reviewer / date | History / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-RD-0036 | 0004 / monograph / development to the eve of a national event | V01–V07 manga-only | Adds her own account of fear and its sources, a deliberated choice with a stated reason, two modes of one pattern, a standing habit of shielding her coach. | The championship; the Lutz; whether naming fear holds; fanbooks excluded. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0002@7/0015@6/0019@5 | Extends MD-RD-0030. |
+| MD-RD-0037 | 0001 / monograph / coach identity, past and method | V01–V07 | Adds a staked championship, bodily self-disregard, a coaching act that states his method, a decision made without his usual data. | The decision's outcome; his teacher; his family. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0004@6/0007@7/0010@7 | Extends MD-RD-0031. |
+| MD-RD-0038 | 0001 with 0004 / relationship study / coach and pupil | V01–V07 | Mutual management of feeling; a first conversation outside the work; recognition passing from her to him; fear said and met; choices explained and made. | What each still keeps from the other; the event. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0002@7/0007@7/0010@7 | First dedicated assessment of the pair. |
+| MD-RD-0039 | 0024 / supporting-character study / the detour and the restart | V03, V07 | A history of injury and patience, a first medal, an elimination at a high score, her own formulation and its residue. | Two volumes far apart; her coach's plan from here. | BOUNDED_PROVISIONAL for a supporting study; author; 2026-10-13; MD-CL-0020@2 | Raises MD-RD-0018. |
+| MD-RD-0040 | 0010 / supporting note / ambition in her own words | V05–V07 | Three statements across three volumes, all about mastery and possession; warm conduct toward Inori at two meetings and one unreadable moment. | No statement about a rival; her knowledge of her coach's design. | BOUNDED_PROVISIONAL for a supporting note only; author; 2026-10-13; MD-CL-0003@6 | First assessment above entry level. |
+
+MD-RD-0021, 0023, 0024, 0027 and 0032–0035 are unchanged. MD-CHAR-0052–0059 remain UNASSESSED for a dedicated artifact.
