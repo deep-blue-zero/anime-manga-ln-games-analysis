@@ -2311,5 +2311,491 @@
     "merge_approval": "RESERVED",
     "all14_original_gaps": "OPEN",
     "models": 0
+  },
+  "current140_GSC_coffee_direction_corrective_latest_view_20261013_v1": {
+    "schema": "CURRENT140_SOURCE24FF_GSC_COFFEE_DIRECTION_DIAGNOSED_CORRECTIVE_LATEST_VIEW_V1",
+    "draft_stage": "CURRENT_MODULE_AND_DRAFT_METADATA_QA_ROOT_ADOPTION_BOUND;SEPARATE_FINAL_WITNESS_DELTA_QA_ROOT_FREEZE_INSTALLATION_PUBLICATION_REQUIRED",
+    "current_published_source_before_repair": {
+      "head": "24ff49e2bd71e2af0bc278d83dd4f97ae13341ce",
+      "tree": "7605f1f5872adfd93dc7a62bcbcf9be4fb645018",
+      "packages": 140,
+      "kinds": {
+        "CHARACTER": 104,
+        "DIRECTED_RELATIONSHIP": 17,
+        "ENSEMBLE": 5,
+        "INSTITUTION": 14
+      },
+      "named": 14,
+      "ROOT_actual_metadata_capture": "f7e853",
+      "SOURCE_run": 38461248503,
+      "SOURCE_runtime_at_ROOT_receiving_snapshot": "PENDING;THIS_COMPOSER_PERFORMED_NO_PROVIDER_QUERY",
+      "current24ff_FULL_SOURCE_HK_FINAL_closure_claimed": false
+    },
+    "current_main": {
+      "head": "bf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad",
+      "packages": 133,
+      "named": 13
+    },
+    "latest_view_override": "For current package/source/publication/readiness interpretation this new latest boundary governs over older dated M008140 conditional-install/source139 and prior2aa/639/f1f/bf7 preparation snapshots. Source24ff140 is actually published; M008 is persisted and source-published there. Earlier M008 creation/adoption/metadata pending statements and all old JSON top/nested/history/body/QA/inverse payloads remain exact dated evidence. Current24ff runtime completion and the new correction installation/publication are separately pending, never inferred from old2aa green.",
+    "current_diagnosed_actor_precision": "Adult prepares/tailors coffee to Ayumu; her thanks and liked adjustment anchor reception despite inward offer form. Ayumu reciprocally gives available grapefruit chocolate to adult; taste response, her relief and narrated shared chocolate/hardship are meaningful actual ends. Neither direction certifies global understanding, all documents, health cure, romance or permanent relief.",
+    "current_qualification_module": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+      "bytes": 59334,
+      "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+      "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+    },
+    "operative_rule_after_ROOT_approved_installation": "For each exact retained field bound below, current use applies the referenced module effective scalar as the actor-qualified interpretation. Original full literals, files, byte ranges, hashes, source/ROOT/QA decisions and inverse recipes remain unchanged. The approved module and these current metadata controls activate together only after positive distinct QA, ROOT actual adoption and exact installation. This corrects one diagnosed coffee-direction pattern and its16 repetitions, adding no package or source scope.",
+    "exact16_module_effective_scalar_bindings": [
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_01",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md",
+        "locator_kind": "MARKDOWN_PHYSICAL_LINE",
+        "physical_line": 72,
+        "JSON_pointer": null,
+        "retained_file_snapshot": {
+          "bytes": 52929,
+          "sha256": "df5fef4e2f40b752dcd665be404baf095f84afea35f22140a3cb525c22325ebd",
+          "git_blob_oid_of_actual_bytes": "91365f2536d57a2477ad388da0b905319114c12d"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 594,
+          "sha256": "258601f42363a70c5c615fc1d54a838915bcfa255c0cd0da47de64ecf4202fd7",
+          "git_blob_oid_of_actual_bytes": "75c46e444d2afa49f0fa8fd1128ee6a236b2d1e1"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/0/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_02",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md",
+        "locator_kind": "MARKDOWN_PHYSICAL_LINE",
+        "physical_line": 148,
+        "JSON_pointer": null,
+        "retained_file_snapshot": {
+          "bytes": 52929,
+          "sha256": "df5fef4e2f40b752dcd665be404baf095f84afea35f22140a3cb525c22325ebd",
+          "git_blob_oid_of_actual_bytes": "91365f2536d57a2477ad388da0b905319114c12d"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 669,
+          "sha256": "0042608dc5474fadacf5894509455e85df484a14f948e6e34c7efe16478764f3",
+          "git_blob_oid_of_actual_bytes": "14570510475939f28bc402518f3a60c97c30a2a8"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/1/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_03",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/items/1/complete_original_payload/paragraphs/16/complete_saved_paragraph",
+        "retained_file_snapshot": {
+          "bytes": 701276,
+          "sha256": "f11a25c45c20ae09fd9a49afa9098a4ec9ae03b4475ca3adf101f6c9483ff0c2",
+          "git_blob_oid_of_actual_bytes": "d288c224b9d61dc4dbdff91e3b9217be4884feb8"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 594,
+          "sha256": "258601f42363a70c5c615fc1d54a838915bcfa255c0cd0da47de64ecf4202fd7",
+          "git_blob_oid_of_actual_bytes": "75c46e444d2afa49f0fa8fd1128ee6a236b2d1e1"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/2/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_04",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/items/1/complete_original_payload/paragraphs/16/source_claim_limit",
+        "retained_file_snapshot": {
+          "bytes": 701276,
+          "sha256": "f11a25c45c20ae09fd9a49afa9098a4ec9ae03b4475ca3adf101f6c9483ff0c2",
+          "git_blob_oid_of_actual_bytes": "d288c224b9d61dc4dbdff91e3b9217be4884feb8"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 594,
+          "sha256": "258601f42363a70c5c615fc1d54a838915bcfa255c0cd0da47de64ecf4202fd7",
+          "git_blob_oid_of_actual_bytes": "75c46e444d2afa49f0fa8fd1128ee6a236b2d1e1"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/3/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_05",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/items/1/complete_original_payload/paragraphs/48/complete_saved_paragraph",
+        "retained_file_snapshot": {
+          "bytes": 701276,
+          "sha256": "f11a25c45c20ae09fd9a49afa9098a4ec9ae03b4475ca3adf101f6c9483ff0c2",
+          "git_blob_oid_of_actual_bytes": "d288c224b9d61dc4dbdff91e3b9217be4884feb8"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 669,
+          "sha256": "0042608dc5474fadacf5894509455e85df484a14f948e6e34c7efe16478764f3",
+          "git_blob_oid_of_actual_bytes": "14570510475939f28bc402518f3a60c97c30a2a8"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/4/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_06",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/items/1/complete_original_payload/paragraphs/48/source_claim_limit",
+        "retained_file_snapshot": {
+          "bytes": 701276,
+          "sha256": "f11a25c45c20ae09fd9a49afa9098a4ec9ae03b4475ca3adf101f6c9483ff0c2",
+          "git_blob_oid_of_actual_bytes": "d288c224b9d61dc4dbdff91e3b9217be4884feb8"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 669,
+          "sha256": "0042608dc5474fadacf5894509455e85df484a14f948e6e34c7efe16478764f3",
+          "git_blob_oid_of_actual_bytes": "14570510475939f28bc402518f3a60c97c30a2a8"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/5/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_07",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/items/2/complete_original_payload/complete_current_body_lines/56",
+        "retained_file_snapshot": {
+          "bytes": 701276,
+          "sha256": "f11a25c45c20ae09fd9a49afa9098a4ec9ae03b4475ca3adf101f6c9483ff0c2",
+          "git_blob_oid_of_actual_bytes": "d288c224b9d61dc4dbdff91e3b9217be4884feb8"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 594,
+          "sha256": "258601f42363a70c5c615fc1d54a838915bcfa255c0cd0da47de64ecf4202fd7",
+          "git_blob_oid_of_actual_bytes": "75c46e444d2afa49f0fa8fd1128ee6a236b2d1e1"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/6/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_08",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/items/2/complete_original_payload/complete_current_body_lines/132",
+        "retained_file_snapshot": {
+          "bytes": 701276,
+          "sha256": "f11a25c45c20ae09fd9a49afa9098a4ec9ae03b4475ca3adf101f6c9483ff0c2",
+          "git_blob_oid_of_actual_bytes": "d288c224b9d61dc4dbdff91e3b9217be4884feb8"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 669,
+          "sha256": "0042608dc5474fadacf5894509455e85df484a14f948e6e34c7efe16478764f3",
+          "git_blob_oid_of_actual_bytes": "14570510475939f28bc402518f3a60c97c30a2a8"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/7/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_09",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/items/3/complete_original_payload/complete_ranges/2/exact_unchanged_lines/13",
+        "retained_file_snapshot": {
+          "bytes": 701276,
+          "sha256": "f11a25c45c20ae09fd9a49afa9098a4ec9ae03b4475ca3adf101f6c9483ff0c2",
+          "git_blob_oid_of_actual_bytes": "d288c224b9d61dc4dbdff91e3b9217be4884feb8"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 594,
+          "sha256": "258601f42363a70c5c615fc1d54a838915bcfa255c0cd0da47de64ecf4202fd7",
+          "git_blob_oid_of_actual_bytes": "75c46e444d2afa49f0fa8fd1128ee6a236b2d1e1"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/8/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_10",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/items/3/complete_original_payload/complete_ranges/6/exact_unchanged_lines/7",
+        "retained_file_snapshot": {
+          "bytes": 701276,
+          "sha256": "f11a25c45c20ae09fd9a49afa9098a4ec9ae03b4475ca3adf101f6c9483ff0c2",
+          "git_blob_oid_of_actual_bytes": "d288c224b9d61dc4dbdff91e3b9217be4884feb8"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 669,
+          "sha256": "0042608dc5474fadacf5894509455e85df484a14f948e6e34c7efe16478764f3",
+          "git_blob_oid_of_actual_bytes": "14570510475939f28bc402518f3a60c97c30a2a8"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/9/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_11",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_BODY_BINDINGS_AND_RECOVERY_20261013_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/complete_body_reconstruction/held227_lines/68",
+        "retained_file_snapshot": {
+          "bytes": 231179,
+          "sha256": "9f0adb757211d903974656329f7f697968e828b68d6c704a4b19432e7e1e52ff",
+          "git_blob_oid_of_actual_bytes": "0f12bb83ef47838ea86c97c9df9325e954bd4489"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 594,
+          "sha256": "258601f42363a70c5c615fc1d54a838915bcfa255c0cd0da47de64ecf4202fd7",
+          "git_blob_oid_of_actual_bytes": "75c46e444d2afa49f0fa8fd1128ee6a236b2d1e1"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/10/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_12",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_BODY_BINDINGS_AND_RECOVERY_20261013_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/complete_body_reconstruction/held227_lines/144",
+        "retained_file_snapshot": {
+          "bytes": 231179,
+          "sha256": "9f0adb757211d903974656329f7f697968e828b68d6c704a4b19432e7e1e52ff",
+          "git_blob_oid_of_actual_bytes": "0f12bb83ef47838ea86c97c9df9325e954bd4489"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 669,
+          "sha256": "0042608dc5474fadacf5894509455e85df484a14f948e6e34c7efe16478764f3",
+          "git_blob_oid_of_actual_bytes": "14570510475939f28bc402518f3a60c97c30a2a8"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/11/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_13",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_BODY_BINDINGS_AND_RECOVERY_20261013_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/complete_body_reconstruction/current_lines/71",
+        "retained_file_snapshot": {
+          "bytes": 231179,
+          "sha256": "9f0adb757211d903974656329f7f697968e828b68d6c704a4b19432e7e1e52ff",
+          "git_blob_oid_of_actual_bytes": "0f12bb83ef47838ea86c97c9df9325e954bd4489"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 594,
+          "sha256": "258601f42363a70c5c615fc1d54a838915bcfa255c0cd0da47de64ecf4202fd7",
+          "git_blob_oid_of_actual_bytes": "75c46e444d2afa49f0fa8fd1128ee6a236b2d1e1"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/12/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_14",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_BODY_BINDINGS_AND_RECOVERY_20261013_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/complete_body_reconstruction/current_lines/147",
+        "retained_file_snapshot": {
+          "bytes": 231179,
+          "sha256": "9f0adb757211d903974656329f7f697968e828b68d6c704a4b19432e7e1e52ff",
+          "git_blob_oid_of_actual_bytes": "0f12bb83ef47838ea86c97c9df9325e954bd4489"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 669,
+          "sha256": "0042608dc5474fadacf5894509455e85df484a14f948e6e34c7efe16478764f3",
+          "git_blob_oid_of_actual_bytes": "14570510475939f28bc402518f3a60c97c30a2a8"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/13/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_15",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/complete_original_to_canonical_inverse/complete_ranges/10/exact_unchanged_lines/39",
+        "retained_file_snapshot": {
+          "bytes": 119241,
+          "sha256": "bc706fc37b62068efd9e897504b17596a90e46b48ddcec4a77a659a6bc94a854",
+          "git_blob_oid_of_actual_bytes": "028235a01f5480727bc3dca5484d1e7d2142f3a7"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 594,
+          "sha256": "258601f42363a70c5c615fc1d54a838915bcfa255c0cd0da47de64ecf4202fd7",
+          "git_blob_oid_of_actual_bytes": "75c46e444d2afa49f0fa8fd1128ee6a236b2d1e1"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/14/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      },
+      {
+        "finding_id": "GSC_COFFEE_RETAINED_16",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "locator_kind": "RETAINED_JSON_STRING_FIELD",
+        "physical_line": null,
+        "JSON_pointer": "/complete_original_to_canonical_inverse/complete_ranges/10/exact_unchanged_lines/115",
+        "retained_file_snapshot": {
+          "bytes": 119241,
+          "sha256": "bc706fc37b62068efd9e897504b17596a90e46b48ddcec4a77a659a6bc94a854",
+          "git_blob_oid_of_actual_bytes": "028235a01f5480727bc3dca5484d1e7d2142f3a7"
+        },
+        "retained_scalar_UTF8_tuple": {
+          "bytes": 669,
+          "sha256": "0042608dc5474fadacf5894509455e85df484a14f948e6e34c7efe16478764f3",
+          "git_blob_oid_of_actual_bytes": "14570510475939f28bc402518f3a60c97c30a2a8"
+        },
+        "operative_effective_scalar_pointer": "/complete_exact_sixteen_retained_public_fields_with_current_qualifications/15/full_effective_current_interpretation_of_retained_scalar_NOT_a_body_rewrite",
+        "scope": "Only adult coffee preparation→Ayumu preference/thanks and reciprocal Ayumu chocolate→adult appreciation. Preserve original published scalar/file/receipt/hash/fullinverse/decision; no clinical, all-work, romance, identity or further source-grade result."
+      }
+    ],
+    "complete_nine_original_artifact_tuples_frozen": [
+      {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md",
+        "bytes": 52929,
+        "sha256": "df5fef4e2f40b752dcd665be404baf095f84afea35f22140a3cb525c22325ebd",
+        "git_blob_oid_of_actual_bytes": "91365f2536d57a2477ad388da0b905319114c12d"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+        "bytes": 701276,
+        "sha256": "f11a25c45c20ae09fd9a49afa9098a4ec9ae03b4475ca3adf101f6c9483ff0c2",
+        "git_blob_oid_of_actual_bytes": "d288c224b9d61dc4dbdff91e3b9217be4884feb8"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+        "bytes": 470075,
+        "sha256": "dc97527f6b5f0f92bab94187f6e81327d1e4a0e2e7843e698426c0f8a118e992",
+        "git_blob_oid_of_actual_bytes": "3467300836b2795549b55aa679dd84a6c0dba87f"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+        "bytes": 409823,
+        "sha256": "0254e5cc98ef02c48c36039064ff9922afb846c0207ffadbb326c24725c5798c",
+        "git_blob_oid_of_actual_bytes": "5063f290d790eb917e4fe8e58b1c02857078d46d"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_BODY_BINDINGS_AND_RECOVERY_20261013_V1.json",
+        "bytes": 231179,
+        "sha256": "9f0adb757211d903974656329f7f697968e828b68d6c704a4b19432e7e1e52ff",
+        "git_blob_oid_of_actual_bytes": "0f12bb83ef47838ea86c97c9df9325e954bd4489"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+        "bytes": 61767,
+        "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+        "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "bytes": 363403,
+        "sha256": "b1062dbf9d7edff033fe770fd828af7f5db350e166531f50e9a0092430733793",
+        "git_blob_oid_of_actual_bytes": "58f8207d9e2357bb85527e1cada9142f853a745a"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "bytes": 76944,
+        "sha256": "c052732754a418157c1a5d72f746b6e51be34a21a0ce45b2e64fc8d79e8558d6",
+        "git_blob_oid_of_actual_bytes": "cb8417c53341565ed3d188f032403790300c0e88"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "bytes": 119241,
+        "sha256": "bc706fc37b62068efd9e897504b17596a90e46b48ddcec4a77a659a6bc94a854",
+        "git_blob_oid_of_actual_bytes": "028235a01f5480727bc3dca5484d1e7d2142f3a7"
+      }
+    ],
+    "actual_source_scope_and_selected_receiving": {
+      "admitted_maintained_written_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_093_80000093_DEEP_READING.md",
+        "bytes": 8943,
+        "sha256": "d120c527f225f0c5eaef17806ab8e9ee218711f56d294c82251e7b13fda03609",
+        "git_blob_oid_of_actual_bytes": "c9aa80d483567d270378a4d4bebdc063745fc8cd",
+        "physical_lines": 73,
+        "actual_adequate_connected_LOCATORS": [
+          "L43–47",
+          "L71–73",
+          "BA:event:810:093:scene:001:u:0019–0027; choice:006–007",
+          "BA:event:810:093:scene:001:u:0028–0044; choice:008–011"
+        ],
+        "actual_selected_receiving_attribution": [
+          "different-author b65875",
+          "author8d9dbb",
+          "ROOT a5c4a9"
+        ],
+        "grade": "Admitted maintained written analytical normal; original primary/control/raw/performance ownership remains attributed. No fresh primary/native/raw/AV replay."
+      },
+      "ROOT_selected_GIFT3": "a5c4a9",
+      "ROOT_selected_currentGSC_body72": "04c45b",
+      "ROOT_selected_currentGSC_body148": "63e7e9",
+      "grade": "Selected maintained written analytical argument and exact retained actor clause; no fresh fullsource/full105/primary/native/raw/AV receiving or global absence credit."
+    },
+    "module_saved_author_receiving_state": "ROOT_ADOPTED_CURRENT16_ACTOR_GRAMMAR_WITH_LIMITS;ORIGINAL_AUTHOR_MODULE_PENDING_STRINGS_ARE_DATED_HISTORY",
+    "module_QA_receipt_binding": {
+      "evidence_id": "INDEPENDENT_GSC_CURRENT59334_EXACT16_COFFEE_DIRECTION_FULL_RETAINED_POINTER_AND_GRAMMAR_INVERSE_QA_V1.json",
+      "bytes": 62504,
+      "sha256": "5259a994a5c41ebe3aeb6ea663366b9aa0db93c27e773a8ea5c3b41053ebe84a",
+      "git_blob_oid_of_actual_bytes": "dbcec30270b9216471459664fa1e537bac807fec",
+      "verdict": "PASS_CURRENT59334_MODULE_BOUNDED_SEMANTICS_AND_MECHANICS;EXACT4_METADATA_AND_ROOT_ADOPTION_INSTALLATION_PUBLICATION_SEPARATE",
+      "checks": 303,
+      "role": "IMMUTABLE_PRIVATE_RECEIVING_WITNESS;NOT_UNBOUND_PUBLIC_DEPENDENCY"
+    },
+    "ROOT_current_module_adoption_binding": {
+      "evidence_id": "ROOT_GSC_CURRENT16_MODULE_AND_EXACT4_COMPLETE_RECEIVING_ADOPTION_V1.json",
+      "bytes": 3580,
+      "sha256": "6c3a9bef84a841752991b9881e59eb0afcbf582160a7f350a2d4c5dc985ba4f7",
+      "git_blob_oid_of_actual_bytes": "60b35aaea5fd426ebdb41591ea342627ed28877e",
+      "decision": "ADOPT_CURRENT59334_EXACT16_ACTOR_GRAMMAR_QUALIFICATION_AND_ADDITIVE_EXACT4_MEANINGS_WITH_LIMITS_FOR_SEPARATE_FINAL_WITNESS_DELTA_QA_AND_EXACT5_FREEZE",
+      "role": "IMMUTABLE_PRIVATE_ROOT_RECEIVING_WITNESS;NOT_UNBOUND_PUBLIC_DEPENDENCY"
+    },
+    "current4_metadata_QA_and_ROOT_adoption": {
+      "independent_current_draft_QA": {
+        "evidence_id": "INDEPENDENT_GSC_CURRENT_EXACT4_GRAMMAR_PIN_METADATA_FULL12_RAW_RECOVERY_AND_OPERATIVE16_QUALIFICATION_QA_V1.json",
+        "bytes": 63855,
+        "sha256": "77207846bcf484b61679e2133aae31be280bff90e06e067e4fa8ee28427adff9",
+        "git_blob_oid_of_actual_bytes": "9566416cde989415a2f28b020690987dd47f6b71",
+        "verdict": "PASS_BOUNDED_CURRENT_EXACT4_DRAFT_SCOPE_MEANINGS_PINS_AND_ALL12_FULL_RAW_RECOVERIES;PENDING_ACTUAL_QA_ROOT_WITNESS_SUCCESSOR_FINAL_REVIEW",
+        "checks": 244,
+        "role": "IMMUTABLE_PRIVATE_RECEIVING_WITNESS;NOT_UNBOUND_PUBLIC_DEPENDENCY"
+      },
+      "ROOT_current_meaning_adoption": {
+        "evidence_id": "ROOT_GSC_CURRENT16_MODULE_AND_EXACT4_COMPLETE_RECEIVING_ADOPTION_V1.json",
+        "bytes": 3580,
+        "sha256": "6c3a9bef84a841752991b9881e59eb0afcbf582160a7f350a2d4c5dc985ba4f7",
+        "git_blob_oid_of_actual_bytes": "60b35aaea5fd426ebdb41591ea342627ed28877e",
+        "decision": "ADOPT_CURRENT59334_EXACT16_ACTOR_GRAMMAR_QUALIFICATION_AND_ADDITIVE_EXACT4_MEANINGS_WITH_LIMITS_FOR_SEPARATE_FINAL_WITNESS_DELTA_QA_AND_EXACT5_FREEZE",
+        "role": "IMMUTABLE_PRIVATE_ROOT_RECEIVING_WITNESS;NOT_UNBOUND_PUBLIC_DEPENDENCY"
+      },
+      "final_witness_binding_delta_QA": "SEPARATE_ACTUAL_POSITIVE_DELTA_QA_REQUIRED_BEFORE_ROOT_FINAL_FREEZE"
+    },
+    "blocking_freeze_state": "ACTUAL_MODULE_QA_CURRENT_DRAFT_METADATA_QA_AND_ROOT_RECEIVING_BOUND;READY_FOR_SEPARATE_POSITIVE_FINAL_WITNESS_DELTA_QA_AND_ROOT_EXACT5_FREEZE;ACTUAL_INSTALL_PRECHECK_PREFLIGHT_PUBLICATION_PENDING",
+    "saved_module_manifest_witness": {
+      "evidence_id": "GSC_COFFEE_EXACT16_CURRENT_MODULE_GRAMMAR_SUCCESSOR_EXACT1_MANIFEST_V2.json",
+      "bytes": 8166,
+      "sha256": "90e214f970661417893035dca006f28bacbaedd28219bf2373d3655b790961a9",
+      "git_blob_oid_of_actual_bytes": "cd5ee6ef4a0a762644235e93afa6dfaa53f173e6",
+      "role": "IMMUTABLE_PRIVATE_INPUT_WITNESS;NOT_UNBOUND_PUBLIC_DEPENDENCY"
+    },
+    "old_module_creation_stages": "All saved author-module and earlier metadata pending stage/role strings remain literal dated creation history; current bound303/244 positive independent QA and ROOT current adoption qualify them. Actual final delta QA/freeze/install/publication remain separate.",
+    "publication": "NEW_REPAIR_NOT_INSTALLED_OR_PUBLISHED;MANDATORY_PREFLIGHT_FRESH_PROVIDER_GATE_NORMAL_PUSH_AND_NEW_EXACT_HEAD_SOURCE_HK_FINAL_REQUIRED",
+    "runtime_separation": "Closed old2aa301/selectionfalse/fivezero/HK-noop/latestapp15368 status governs old2aa139 only; current24ff SOURCE38461248503 pending at ROOT snapshot, and no new coffee correction candidate receives any runtime green.",
+    "fixed_counts": {
+      "packages": 140,
+      "CHARACTER": 104,
+      "DIRECTED_RELATIONSHIP": 17,
+      "ENSEMBLE": 5,
+      "INSTITUTION": 14,
+      "named": 14
+    },
+    "required355_29_25_384_788": "UNCHANGED",
+    "next178": "UNREACHED",
+    "PR158": "OPEN_DRAFT_HOLD",
+    "merge_approval": "RESERVED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "new_package_named_parent_navigation_registry_admission_identity_model_source_reading_credit": 0,
+    "R_Git_provider_mutations_from_this_composer": false
   }
 }
