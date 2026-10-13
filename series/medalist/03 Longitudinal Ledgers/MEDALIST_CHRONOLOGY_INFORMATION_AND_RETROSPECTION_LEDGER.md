@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.8"
+version: "1.9"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V09 closed (Scores 1–36, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V10 closed (Scores 1–40, Short Programs 1–5, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V09_UPDATE"
+review_status: "AUTHOR_REVIEWED_V10_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -425,3 +425,50 @@ The rule under which Hikaru trains (MD-PROP-0029) remains unknown to Tsukasa and
 | MD-RT-0060 | EV-0045/0048, Score 36 | V04–V08 Hikaru's conduct toward Inori without words (MD-CL-0003@4–@7) | Her regard is stated: credit, a wish that Inori win, a likeness seen, and fear that Inori will not come for her | Stated to a third party | MD-RV-0117; HIGH |
 | MD-RT-0061 | EV-0051, Score 36 | V01, his promise at their first fist bump that people would want to bet on her; V05 the designated skaters | The promise is presented as kept in an institutional form | It arrives on a loss, eight months after he told her worth does not wait on expectation | MD-RV-0115/0123; HIGH |
 | MD-RT-0062 | EV-0011, Score 33 | V07:EV-0036 Miku stopping because the rink closes (MD-PROP-0028) | A further reason in her own words: she would not have others strain for her dream | Marked by her as only her own view | MD-RV-0130/0134; HIGH |
+
+## V10 evidence tables
+
+All records below are version 1 through `MD-FR-V10`. In this section `EV-####` expands to the [V10 reading's](../02%20Sequential%20Readings/MEDALIST_V10_DEEP_READING.md#canonical-observations) `MD-EV-V10-####`; earlier volumes are written with their volume prefix. No calendar year is inferred. Earlier tables are unchanged. Most of this volume is retrospective: it fills the elision recorded at V09 as MD-TM-0078 and adds one day to the events of MD-TM-0072.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0080 | The day after the All-Japan Novice girls' event: the boys' event; Rio's title; the Lux party and Hikaru present | Short Program 5 / RETROSPECTIVE side story placed last in the volume | EV-0049–0052 | Follows the night recorded in MD-TM-0072 | HIGH |
+| MD-TM-0081 | December: Tsukasa and Hitomi decide to seek a trainer for the club | Score 39 / FLASHBACK under a caption of "eight months earlier" | EV-0024 | Two months after the championship; counted back from the reunion that ended V09 | HIGH relative order |
+| MD-TM-0082 | February: Kōhei joins Lux; a handover; Tsukasa leaves that evening; the next day growing pains are diagnosed, a federation notice arrives and he telephones | Score 37 / FLASHBACK under a caption of "five months earlier" | EV-0003–0008 | The two relative captions place the reunion a month apart from each other | HIGH relative order |
+| MD-TM-0083 | Spring: graduation and middle school; her mother's return to full-time work; the Junior Grand Prix selection meeting, in the evening | Score 37 / montage and scene | EV-0006/0009 | The selection precedes the reunion; the designation as rank B is known by then | HIGH |
+| MD-TM-0084 | December to June: his search for a medical trainer; Fukuoka last | Score 39 / report | EV-0023/0024 | "After the season ended" to June, by his account | HIGH as reported |
+| MD-TM-0085 | The present: an aquarium meeting, undated; one month after the selection, a four-day camp in Osaka; some days later, the jacket and his resolve | Scores 37–40 / PRESENT | EV-0002/0010–0047 | The aquarium scene opens the volume and is not placed relative to the camp, at which its older man appears | HIGH for the camp sequence; the aquarium's date is open |
+| MD-TM-0086 | Years earlier: Iruka as a small child at Mika's club, playing with the infant Inori; promises between the two older girls; Mika's block title as a younger novice; a small child on rental skates praised for a double Salchow | Score 38 / MEMORY and report | EV-0015/0019/0020/0021 | Before Mika's fracture (MD-TM-0050); the praised child's companion is uncaptioned | HIGH content; MODERATE placement |
+| MD-TM-0087 | Older history: Yodaka changes coach yearly from his first novice season, spends one season with Kyōboku, is at some time taught by Takamine, and reaches the Olympics at twenty; Takamine coaches in Yokohama, is named successor to an earlier Lux, meets Tsukasa in Nagoya, then refuses to coach; Kōhei wins silver at Tsukasa's first national championships | Scores 37 and 40 and a profile / testimony and report | EV-0002/0014/0034/0037 | No dates; consistent with MD-TM-0062, 0069 and 0074 | HIGH as reported |
+| MD-TM-0088 | Statements about time: the reunion about nine months after the championship by this volume's captions; one character's "half a year" at the camp; the class year turns in July; serialization in the October 2023 to January 2024 issues; first impression 2024-03-22; a digital colophon dated 2024-03-01 | Captions, dialogue, colophons / statement | EV-0003/0011/0012/0024/0055 | V09's reading estimated the elision at about eight months; the captions here make it nine or ten; the character's figure fits neither; the two colophon dates are out of order | HIGH that each is printed; the disagreements are recorded and not resolved |
+
+New proposition keys: MD-PROP-0037 what Tsukasa did while away from Lux; MD-PROP-0038 that Takamine is Tsukasa's teacher, Hitomi's father, once Yodaka's teacher and now Hikaru's; MD-PROP-0039 that Inori holds gold to be the proof that she belongs on the ice; MD-PROP-0040 that Hikaru has back pain.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0094 | PROP-0035 / Inori | February | TOLD at a handover that he is leaving for a time and that her training will be reported to him; states her own rule in reply | Narrows MD-KN-0092: she knew the plan and its purpose; her V09 thought that her loss lay behind it stands as her reading | EV-0004/0005; HIGH; prior MD-KN-0092 |
+| MD-KN-0095 | PROP-0037 / the coaches at the camp; the reader | Camp, night one | TOLD by him and by the Fukuoka head coach | The content left unknown at V09 is supplied | EV-0023/0024; HIGH |
+| MD-KN-0096 | His fear at her growing pains / Inori | February onward | NOT SHOWN to know; he sounded cheerful on the telephone by design | She takes his prescription of basics as a verdict on her | EV-0008/0026; HIGH for the absence |
+| MD-KN-0097 | Her fall at the selection and her judgment that she could not grow / Tsukasa | Arrival at the camp | NOT SHOWN to be told; he praises what she achieved in his absence | He reads her constraint as shame over one jump | EV-0010/0028; HIGH for the absence |
+| MD-KN-0098 | PROP-0039 / Hikaru, the juniors in the room; Iruka in part; Tsukasa | Camp, days one and three | HEARD by Hikaru and bystanders; Iruka hears that the dream is not for herself alone; Tsukasa is NOT SHOWN to hear either | The pupil's creed is public among her rivals and unknown to her coach | EV-0016/0040; HIGH |
+| MD-KN-0099 | PROP-0033 and what blocks his teaching / Tsukasa | Camp | SEES that she presents results and solves alone; HYPOTHESIZES trouble over the Lutz; is OFFERED a reading by Gori; does not connect it with himself | The asymmetry of MD-CL-0027 persists with more of its surface visible to him | EV-0021/0028; HIGH; prior MD-KN-0084 |
+| MD-KN-0100 | Gori's reading and Tsukasa's later account of her / Inori | Through V10 | NOT SHOWN to know that adults have discussed what formed her | The readings are held about her and not with her | EV-0028/0044; HIGH for the absence |
+| MD-KN-0101 | PROP-0007 / Hitomi | Camp, day two | TOLD by her father in front of Sonidori and Tsukasa | One more adult knows; Kōhei and Inori are still not shown to | EV-0037; HIGH; prior MD-KN-0054 |
+| MD-KN-0102 | PROP-0038 / Tsukasa; Hikaru | Camp, day two | Tsukasa LEARNS that his teacher taught Yodaka and now teaches Hikaru; whether Hikaru knows that her new teacher taught her coach is asked in the aquarium and not answered | His one technical edge is being supplied to the other side by his own teacher | EV-0002/0037/0038; HIGH |
+| MD-KN-0103 | PROP-0040 / Iruka, a clubmate, Sonidori, Yodaka | Camp, day three | Iruka NOTICED; the clubmate is TOLD and is uneasy; Sonidori has NOT noticed by Hikaru's account; Yodaka NOT SHOWN | The adults who discussed hidden training loads two nights earlier do not know of this one | EV-0043; HIGH |
+| MD-KN-0104 | PROP-0029 / the coaches' room, Iruka, the clubmate | Through V10 | NOT SHOWN to know of the nightly rule; the clubmate cannot explain the pain from the prescribed training | The rule remains known only to Hikaru, Yodaka, Rio and the reader | EV-0025/0043; HIGH for the absence; prior MD-KN-0073 |
+
+The history between Iruka and Mika is learned by Inori at the camp from a junior and from Iruka herself (EV-0019/0021); Mika is not shown to know of Iruka's vow.
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0063 | EV-0004/0005, Score 37 | V09:EV-0050, her narration that he went to study and that she does not ask when he will return | The parting was a formal handover with tasks; not telephoning was her own rule, stated to him, for the sake of learning to do well without him | Her park-bench thought in V09 is not withdrawn | MD-RV-0136/0155; HIGH |
+| MD-RT-0064 | EV-0023/0024, Score 39 | V09:EV-0049/0050, "what can I do" and "to study"; MD-CL-0017@6 | The absence was a national search for a medical trainer, begun as an idea in December | — | MD-RV-0148; HIGH |
+| MD-RT-0065 | EV-0009/0010, Score 37 | V09:EV-0051, the designation as his first promise kept | The designation and an overseas assignment were both won in his absence, the second after a fall, while she judged that she had not grown | — | MD-RV-0135/0139; HIGH |
+| MD-RT-0066 | EV-0037, Score 40 | V02 and V07:EV-0017, an unnamed former teacher (MD-CHAR-0027); V01, Hitomi's offer of a post | The teacher is Hitomi's father, and Lux was his to inherit | Dates and the content of his teaching are not given | No claim revised on identity alone; HIGH |
+| MD-RT-0067 | EV-0002/0034, Scores 37 and 40 | V06:EV-0037 and V08:EV-0038, Yodaka's terms as a coach (MD-CL-0016@6–@8) | His method repeats his own formation: self-directed, with teachers sought for single skills and left | One former coach's testimony and one conversation | MD-RV-0147; HIGH that it is said |
+| MD-RT-0068 | EV-0019/0021, Score 38 | V06:EV-0047/0048, Iruka's contempt for Mika and Inori's defence | The contempt is a grievance: a childhood bond, promises, and a friend who stopped | Mika's account is absent | MD-RV-0145/0151; HIGH |
+| MD-RT-0069 | EV-0016/0040, Scores 38 and 40 | V09:EV-0041 his sentence in the playground; V09:EV-0048 her vow in a hotel room | She kept the permission to aim without praise and kept the demand for proof; the vow has become a stated creed | — | MD-RV-0135/0149/0155; HIGH |
+| MD-RT-0070 | EV-0028/0044, Scores 39–40 | V01, a child alone in a classroom reading adults; V04:EV-0038, the cold feeling; V09:EV-0040, composure offered to her coach | Two adults propose that these formed the instrument of her rapid growth | Offered as a guess and as a question; her learning by delight is equally attested (V04:EV-0038; V09:EV-0028) | Registered as MD-CL-0028@1; LOW-MODERATE |
+| MD-RT-0071 | EV-0049–0052, Short Program 5 | V09:EV-0042–0049, the night after her defeat; V03–V04, Rio's standard | On the following day a clubmate won the boys' title and she defended its worth to him | — | MD-RV-0149/0150; HIGH |
+| MD-RT-0072 | EV-0031/0036, Scores 39–40 | V06:EV-0037, "you know you are rare" and "my way of using my possibility"; V09:EV-0046, sacrifice as the reflex of inferiority | He now holds that he denied a real faculty out of inferiority and wasted it | His inference, prompted by another man's metaphor and one jump | MD-RV-0141/0153; HIGH that he thinks so |

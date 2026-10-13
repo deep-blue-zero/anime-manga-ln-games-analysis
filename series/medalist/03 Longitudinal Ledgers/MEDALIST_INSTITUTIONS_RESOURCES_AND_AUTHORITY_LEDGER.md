@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.8"
+version: "1.9"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V09 closed (Scores 1–36, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V10 closed (Scores 1–40, Short Programs 1–5, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V09_UPDATE"
+review_status: "AUTHOR_REVIEWED_V10_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -336,3 +336,37 @@ The acknowledgements record that the arc of Volumes 5 to 9 was researched and su
 | Expertise | The field | MD-IN-0065/0081/0091/0097 | Hired, shared, studied for, and convertible into judging. | What the coach learned. |
 | The hidden coach's regime | ORG-0006 | MD-IN-0057/0058/0084 | Unchanged; its pupil defends it and has set a test for it. | As before. |
 | Others | As V08 | as before | Unchanged in V09. | — |
+
+## V10 evidence tables
+
+All events below are version 1 through `MD-FR-V10`. In this section `EV-####` expands to the [V10 reading's](../02%20Sequential%20Readings/MEDALIST_V10_DEEP_READING.md#canonical-observations) `MD-EV-V10-####`. New settings: MD-ORG-0033, the federation's junior strengthening camp at a national training rink beside Kansai airport (関空アイスアリーナ as lettered); MD-ORG-0034, the Junior Grand Prix series and its national selection; MD-ORG-0035, the earlier Lux Higashiyama club and the Yokohama coaching practice of Takamine. Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0098 | ORG-0034, the federation's strengthening department | Spring | A selection meeting, held in the evening, at which skaters perform singly before a panel; those sent abroad are expected to reach the podium; overseas results count as evidence for Olympic selection | A skater is sent abroad before she is best at home; a fall at the meeting did not exclude the protagonist | EV-0007/0009/0010; MD-COMP-0011; MD-CL-0001@10/0005@9/0013@10 | HIGH as in-story statements; criteria are not shown |
+| MD-IN-0099 | ORG-0034, the series | As stated in Score 40 | Seven events in seven countries and a final; at most two events per skater; points from two events rank the field; six men and six women reach the final; last season's women's final won by a Japanese junior | The protagonist's stated goal is the final's title at her first attempt | EV-0019/0040/0047; MD-CL-0013@10 | HIGH as stated; unverified externally |
+| MD-IN-0100 | Junior competition rules | As stated in Score 38 | Two segments summed; three jumping passes in the short program; a required solo jump rotating yearly among loop, flip and Lutz; no quadruples for women in the short program; edge errors penalized; junior from thirteen to eighteen with badge grade six; the class year turns in July | The protagonist's novice trade of a quadruple for a Lutz becomes a liability | EV-0001/0011/0018; MD-SK-0063; MD-CL-0008@9/0013@10 | HIGH as in-story statements; prior MD-IN-0089 |
+| MD-IN-0101 | Execution marks as the junior currency | February, as stated by a coach | Six criteria; the first three cap the mark at plus three unless all are met; leading juniors collect large marks | Quality, not content, is named as what separates juniors | EV-0004; MD-SK-0061; MD-CL-0008@9 | HIGH as stated; prior MD-IN-0045 |
+| MD-IN-0102 | Olympic selection, as two men describe it | Present | At most three places, chosen by a committee from the national championships before the Games and the international record; the national champion selected automatically; seven years to the first Games a twelve-year-old can enter | One coach's plan is to remove the committee's discretion by winning every time | EV-0002/0008; MD-CS-0195; MD-CL-0016@9/0001@10 | HIGH as stated; the age rule is said to have changed before and may again |
+| MD-IN-0103 | ORG-0033, its participants | Four days in summer | Three groups; on-ice and off-ice lessons, classes on rules, nutrition and expression, a guest instructor from abroad, advice from federation staff, an open practice and interviews for the press; practice until late and early starts; selected novices attend; an earlier novice camp had taught interview technique to those eligible for it | Knowledge is distributed by eligibility; the protagonist lacks what an age limit kept from her | EV-0011/0017/0018/0038/0039; MD-CL-0011@10/0022@6 | HIGH; cf. the Nagano novice camp of V05 |
+| MD-IN-0104 | ORG-0002, its staffing and means | December to June | A second coach hired at a telephone call; a trainer funded from club fees, lessons having increased; a medical trainer obtained as a shared appointment with the Fukuoka club in exchange for the assistant coach's teaching there | The club acquires medical expertise by barter and the assistant coach is away for months to get it | EV-0003/0023/0024; MD-CS-0202; MD-CL-0011@10/0017@7 | HIGH; the trainer is not named or shown at work; prior MD-IN-0097 |
+| MD-IN-0105 | The accompanying coaches as a circle | Camp, night one | The same members every year, friends since their competitive days, who no longer trade knowledge at these evenings; a head coach reprimands his skater for kicking a chair on lent premises and threatens to withdraw her assignment | A newcomer's questions restart the exchange; discipline within a club is prompt and public among the adults | EV-0021/0022/0023; MD-CL-0011@10/0024@5 | HIGH; the threat is shown in an inset |
+| MD-IN-0106 | Growth and injury as a coaching problem | Camp, night one | A doctrine stated by a head coach: fear of losing jumps drives food restriction and unbroken training; energy deficiency damages bone; the aim is more precedents of uninjured careers; another notes that women's retirement age is rising | The room's young coaches agree; one skater's back pain goes unnoticed by her coach two days later | EV-0025/0026/0043; MD-CS-0211/0220; MD-CL-0022@6/0026@3 | HIGH that it was said; the medical content is the work's, with its own printed credit; one remark is unattributed |
+| MD-IN-0107 | ORG-0035, ORG-0002, ORG-0006 | Past and camp, day two | Lux Higashiyama succeeds an earlier club whose head named Takamine his successor; he refused to coach and his daughter became head coach; he now teaches the pupil of the hidden coach; the circle that knows of the hidden arrangement gains the Lux head coach | The two rival camps share one teacher; the secret is wider by one | EV-0037; MD-CS-0216/0217; MD-CL-0016@9/0025@5 | HIGH; dates are not given; one flashback label is ambiguous; prior MD-IN-0084 |
+| MD-IN-0108 | ORG-0003, the Yuitsuka household; the national uniform | Spring and after | The mother returns to full-time work and no longer travels to events; the elder sister escorts; a national-team jacket with federation and sponsor patches is delivered to the house | Family presence at competitions is withdrawn as public status is conferred | EV-0006/0045; MD-CS-0199; MD-CL-0014@5/0001@10 | HIGH; prior MD-IN-0070 |
+
+A creator note records that the artwork is produced with assistants by remote commission (EV-0055). It is a production fact and is not analysed.
+
+### Current projection after V10
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| Junior rules | The class | MD-IN-0089/0100/0101 | Two segments; a required Lutz this season; no quadruples for women in the short program; execution marks decisive. | External verification; next season's required jump. |
+| The series | Overseas juniors | MD-IN-0098/0099 | Selected for two events; a final for six. | Her events; the field abroad. |
+| Olympic selection | Seven years on | MD-IN-0096/0102 | Three places by committee; one by national title; junior results count. | Whether the age rule changes. |
+| The camp | Juniors and invited novices | MD-IN-0103 | Lessons, classes, advice, press. | — |
+| Lux | Staff and means | MD-IN-0104/0107 | Two coaches under a head coach who inherited the post; a shared medical trainer. | The trainer at work. |
+| The coaches' circle | The national field | MD-IN-0105/0106 | Closed, friendly, newly talking; a shared aim of uninjured careers. | Whether the aim reaches the one skater in pain. |
+| The hidden coach's regime | ORG-0006 | MD-IN-0057/0058/0084/0107 | Unchanged in its terms; now staffed by the rival's teacher and known to one more adult. | As before. |
+| Household | The Yuitsukas | MD-IN-0108 | A mother at work, a sister as escort. | — |
+| Others | As V09 | as before | Unchanged in V10. | — |

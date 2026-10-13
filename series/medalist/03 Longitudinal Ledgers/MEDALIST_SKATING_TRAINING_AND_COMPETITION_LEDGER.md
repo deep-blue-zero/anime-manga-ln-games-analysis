@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.8"
+version: "1.9"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
-source_boundary: "Japanese V01–V09 closed (Scores 1–36, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V10 closed (Scores 1–40, Short Programs 1–5, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V09_UPDATE"
+review_status: "AUTHOR_REVIEWED_V10_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -350,3 +350,33 @@ All rows are version 1 through `MD-FR-V09`. In this section `EV-####` expands to
 | MD-SK-0060 | Inori / Kōhei / about eight months later | Growth: taller, growing pains in a knee, jumps being recovered; a badge test the next day | DEPICTED_PERFORMANCE; SELF_REPORT of pain; ATTRIBUTED appraisal | MD-PERF-0088; EV-0050; MD-CL-0022@5 | HIGH that it is stated; which jumps are lost is not said |
 
 The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V09`: Inori's competition-credited content now includes two quadruple Salchows, one with a double toe loop, a triple flip, a triple loop in combination with a triple Salchow, three level-4 spins and a level-4 step sequence; her triple Lutz and triple Axel have been attempted in competition and not credited as such. Eight months on, some jumps are being recovered through growth. Field frontier in competition: unchanged at the top from V08, with a third credited triple Axel.
+
+## V10 evidence tables
+
+All rows are version 1 through `MD-FR-V10`. In this section `EV-####` expands to the [V10 observation](../02%20Sequential%20Readings/MEDALIST_V10_DEEP_READING.md#canonical-observations) `MD-EV-V10-####`. The protagonist does not compete in this volume. One national result for another skater and one selection outcome are recorded. No external rule or medical document was consulted or admitted; the external-reference table remains empty. A textbook credit printed on one page is the work's own citation. Scores are as printed. Earlier tables are unchanged.
+
+| Competition | Depicted identity / category / segment | Date / rule certainty | Source observations | External-rule refs / unresolved matches |
+| --- | --- | --- | --- | --- |
+| MD-COMP-0010 | 全日本ノービス選手権, Novice A boys, the same venue as MD-COMP-0007. **Champion: 鴗鳥理凰, 91.85**, a personal best. By spectators: the favoured skaters with triple Lutzes fell several times, nobody after him skated clean, and no boy passed 100 | The day after MD-COMP-0007; year not given | EV-0049/0052 | No MD-EXT. No other name, score or place is printed; his elements are not shown. |
+| MD-COMP-0011 | The Junior Grand Prix selection meeting, assessed by the federation's strengthening department; skaters perform singly before a panel. Named among those sent to two events: 烏羽ダリア, 胡荒亜子, 結束いのり | Spring of the following year, in the evening; in-story statements on what is selected for | EV-0007/0009/0010 | No MD-EXT. No scores or ranking are printed; the full list is not shown. A selection, not a competition with places. |
+
+| Performance | Athlete / setting | Plan / attempt / depiction / call | Supplied score / result | Expressive aim / attributed response | Evidence / limits / correction |
+| --- | --- | --- | --- | --- | --- |
+| MD-PERF-0089 | MD-CHAR-0004 / MD-COMP-0011 | A program before the panel with her coach's cords at her wrist; by her later account a fall on the triple Lutz | Selected for two events | Watched from above by two senior juniors | EV-0009/0010/0015; the fall is shown only in a flashback panel |
+| MD-PERF-0090 | MD-CHAR-0004 / camp, day one, before federation advisers | Triple Lutz attempts with falls; a take-off said to risk an edge call | None | An adviser: repetition will mark her as unable to do the jump | EV-0018; practice |
+| MD-PERF-0091 | MD-CHAR-0004 / camp, day two | A clean triple Lutz within the hour, after take-off drills at the boards | None | Her own response is flat; Hitomi is delighted | EV-0029/0030; one landing in practice |
+| MD-PERF-0092 | MD-CHAR-0001 / camp, day two, in ice-dance boots | A double Lutz landed within the hour from a standing start as a singles jumper | None | He is shaken at its ease; she is overjoyed | EV-0029/0031; practice |
+| MD-PERF-0093 | MD-CHAR-0037 / camp | A triple Lutz of unusual height | None | Inori: not normal for a woman; a series champion's jump | EV-0019; practice |
+| MD-PERF-0094 | MD-CHAR-0021 / a remembered competition during the season Kyōboku coached him | A quadruple Lutz with the top execution mark from every judge; a triple Axel taken directly into a flying camel spin and then a change-foot combination spin; a landing that does not sink | Not given | A hall that forgets to breathe; rivals: too dangerous; one: not a human feat | EV-0033/0034; remembered; event, date and segment unstated |
+| MD-PERF-0095 | MD-CHAR-0011 / MD-COMP-0010 | Not depicted; by Inori his hardest layout skated most beautifully; no triple Lutz | **91.85**; first | Applause; his own flatness | EV-0049/0050 |
+
+| Technical transition | Athlete / coach / known after | Skill / prior limit / intervention / outcome | Channel / physical constraints / risk | Performance / evidence / claim version | Confidence / counterevidence / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-SK-0061 | Inori / Tsukasa, then Kōhei / Score 37 | A junior programme: every credited jump tabulated; quality to be raised from a ceiling of plus three toward plus five, beginning with height; Kōhei works on height with her | IN_UNIVERSE_STATEMENT of six criteria and of the rule that the first three cap the mark | EV-0004/0019; MD-CL-0004@9/0008@9 | HIGH as stated; no execution marks are shown for her in this volume |
+| MD-SK-0062 | Inori / the absence months / Score 37 | Growth: marked height gain; growing pains in both knees in the evening; singles and basic turns prescribed; the quadruple cannot be trained; last autumn's layout is out of reach | SELF_REPORT; diagnosis reported by her mother; ATTRIBUTED prescription | EV-0006/0008/0010; MD-CL-0022@6/0015@9 | HIGH; extends MD-SK-0060 |
+| MD-SK-0063 | Inori / junior rules / Score 38 | The short program requires a solo Lutz this season and bars women's quadruples; the jump she skipped as a novice is compulsory and the one she learned instead cannot be used there | IN_UNIVERSE_STATEMENT; a chart showing every junior woman at the camp with a triple Lutz but her | EV-0018; MD-CL-0008@9/0013@10 | HIGH as stated; reverses the trade recorded at V07 (MD-SK-0043) |
+| MD-SK-0064 | Inori / Tsukasa and Hitomi / Scores 38–39 | The triple Lutz: failures traced to a take-off edge laid too deep to draw the free leg through; a flatter edge refused as a shortcut; instruction not taken up while she believed her skating inferior; recovered inside a contest by take-off drills and a toe placed close to the body | ATTRIBUTED diagnosis; SELF_REPORT of the belief; DEPICTED_PERFORMANCE | MD-PERF-0090/0091; EV-0027/0029/0030; MD-CL-0004@9/0008@9/0028@1 | HIGH for the sequence; one clean landing; prior MD-SK-0056 |
+| MD-SK-0065 | Tsukasa / himself / Scores 39–40 | A double Lutz acquired in an hour; a sense of his own movement that he identifies with the faculty a former coach ascribes to Yodaka; a resolve to teach its use | DEPICTED_PERFORMANCE; SELF_REPORT; ATTRIBUTED metaphor | MD-PERF-0092; EV-0031/0034/0036/0046; MD-CL-0010@10 | HIGH for the jump; the identification is his inference; prior MD-SK-0039 |
+| MD-SK-0066 | Hikaru / Takamine; Yodaka / Scores 37 and 40 | A step-sequence teacher requested by letter in order to reach level 4; landings lighter after growth; lower-back pain in practice | OBSERVATION; ATTRIBUTED appraisal by Tsukasa; SELF_REPORT of pain | EV-0002/0038/0043; MD-CL-0003@9/0008@9 | HIGH; her step level under the new teaching is not shown |
+
+The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V10`: Inori's competition-credited content is unchanged from `MD-FR-V09`; in practice she has one clean triple Lutz at the camp and has not trained the quadruple since her growing pains began. No junior competition has been shown. Field frontier: a junior woman's triple Lutz of exceptional height; in memory, a man's quadruple Lutz at the top execution mark.

@@ -5,14 +5,14 @@ artifact_type: "character_state_readiness_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.8"
+version: "1.9"
 status: "canonical"
 scope: "Time-indexed character interpretation, identity resolution and evidence-specific promotion readiness"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
-source_boundary: "Japanese V01–V09 closed (Scores 1–36, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V10 closed (Scores 1–40, Short Programs 1–5, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V09_UPDATE"
+review_status: "AUTHOR_REVIEWED_V10_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -790,3 +790,97 @@ No new key is allocated. The skater 紅熊寧々子, named on the designation li
 | MD-RD-0050 | 0055 with 0053 / supporting study / an ending and a creed | V07–V09 | A motive, a skate, a bench, a stated reason, a coach's creed and its source, and an afterword. | Little outside three volumes; her life after skating is one aside. | BOUNDED_PROVISIONAL for ensemble or short supporting treatment; author; 2026-10-13; MD-CL-0022@5/0026@2 | First assessment. |
 
 MD-RD-0044 (coaching doctrines) is extended by MD-CS-0172, 0176, 0181 and 0190 without a new record; several positions now have outcomes. MD-RD-0033 (Yodaka) gains only MD-CS-0182. MD-RD-0045 (Suzu) gains a final place and nothing else. MD-RD-0021, 0023, 0024, 0027, 0032, 0034, 0035 and 0039 are unchanged.
+
+## V10 evidence tables
+
+The [V10 reading and frozen state](../02%20Sequential%20Readings/MEDALIST_V10_DEEP_READING.md) own all `MD-EV-V10-…` observations. In this section `EV-####` expands to `MD-EV-V10-####`; earlier volumes are written with their volume prefix. Every new record is version 1, first known after V10. Claim references are the versions in force at `MD-FR-V10`. Earlier tables are unchanged; the current projection is the last projection table in this document. Global entity and subject IDs remain null for every row.
+
+Adult readings of a child that the volume offers as guesses are recorded below as what was said and by whom. They are not written into the projection as traits; `MD-CL-0028@1` holds them as a hypothesis.
+
+### Identity updates to existing keys
+
+| Character key | V10 disclosure | Basis | Remaining limit |
+| --- | --- | --- | --- |
+| MD-CHAR-0001 | Took leave from coaching between February and about June and visited clubs round the country in search of a medical trainer; now also gives regular skating lessons at the Fukuoka club; his teacher is named | EV-0023/0024/0037 | Dates are relative captions. |
+| MD-CHAR-0004 | Assigned to two Junior Grand Prix events; holds the national-team jacket | EV-0009/0045 | Which events is not said. |
+| MD-CHAR-0006 | Daughter of Takamine Shō; became head coach of Lux Higashiyama in his stead; married, her husband having taken the family name | EV-0037/0053 | The marriage is from a gag strip. |
+| MD-CHAR-0007 | Returned to full-time employment in the spring of Inori's first middle-school year; until then travelled to every away event | EV-0006 | — |
+| MD-CHAR-0008 | Given name written 実叶 (Mika); by a junior's report won the Chūbu block in Novice B; skated at Meijō Crown; called a genius by others | EV-0016/0019/0045 | The block title is second-hand. |
+| MD-CHAR-0010 | First-year middle-schooler still in the novice class by a footnote; taught steps by Takamine | EV-0011/0037/0038 | — |
+| MD-CHAR-0011 | Champion of the All-Japan Novice A boys' event with 91.85 | EV-0049 | — |
+| MD-CHAR-0021 | Changed coach every year from his first novice season; coached for one season by Kyōboku; once taught by Takamine; first eligible for the Olympics at twenty, as his pupil will be | EV-0002/0032/0034 | The first two are one former coach's testimony. |
+| MD-CHAR-0027 | **Identified:** 高峰匠, Takamine, addressed as Shō; Tsukasa's teacher and Hitomi's father; formerly an ice-dance coach in Yokohama with Olympic experience; successor-designate of an earlier Lux Higashiyama who then refused to coach | EV-0002/0037 | Family-name furigana in a caption; the given name's reading is from address and a gag. "Olympic experience" is from the letter's wording. |
+| MD-CHAR-0037 | Special designated skater from this season; winner of last season's Junior Grand Prix final; once a pupil at Meijō Crown; entered the senior national championships by recommendation | EV-0001/0013/0019 | — |
+| MD-CHAR-0040 | A middle-school teacher for ten years before coaching | EV-0053 | A gag strip. |
+| MD-CHAR-0053 | By profile disliked jumps after a childhood fall and did ice dance only; silver medalist at the national championships at which Tsukasa first competed; coach at Lux from February, mainly of adult beginners | EV-0003/0014 | Creator profile. |
+
+### New keys
+
+| Character key | Source-spelled identity / alias basis | Continuity | First observation | Global IDs / unresolved identity |
+| --- | --- | --- | --- | --- |
+| MD-CHAR-0064 | 烏羽ダリア; Karasuba Daria, caption with furigana on the family name; 岡山ティナFSC; a junior assigned to two Junior Grand Prix events | Japanese manga | EV-0009/0019 | null/null |
+| MD-CHAR-0065 | 高井原麒乃; Takaihara Kino, caption with furigana; 福岡パークFSC; a leading junior, 183 cm by caption | Japanese manga | EV-0015 | null/null |
+| MD-CHAR-0066 | 紅熊寧々子; Kurekuma Neneko, caption with furigana; 蓮華茶FSC; a leading junior; on V09's designation list | Japanese manga | Listed V09; EV-0015 | null/null |
+| MD-CHAR-0067 | 梟木豊; Kyōboku Yutaka, caption with furigana; head coach of 岡山ティナFSC; Yodaka's coach for one season | Japanese manga | Named at the boards V08; EV-0023/0032 | null/null |
+
+布袋野兎太 (Hotaino Tōta by furigana), head coach of the Fukuoka club, the shared medical trainer, who is not captioned in this volume, and the federation's advisers stay local to the reading and to the institutions ledger.
+
+### State events
+
+| State event | Character | Story time / revealed after | Change kind | Action / self-report / inference | Evidence / claim version | Confidence / alternatives | Prior / correction |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-CS-0195 | 0021 | Present, an aquarium; Score 37 | REVEALED_NOT_NEW | Has his pupil write to his old teacher for one skill; states that she will win every competition for seven years so that her Olympic place depends on no one's choice; to the objection that it is too long answers that he could. | EV-0002; MD-CL-0016@9/0025@5 | HIGH wording. | MD-CS-0182 |
+| MD-CS-0196 | 0027 | Same | REVEALED_NOT_NEW | Asks whether he is making her repeat his own path; counsels against compelling continuous victory because body and heart change; says growth is loss. | EV-0002; MD-CL-0022@6/0026@3 | HIGH wording. | V07 aside (V07:EV-0017) |
+| MD-CS-0197 | 0001 | February; Score 37 | CONTEXT_CHANGE | Brings in Kōhei; holds a handover; tabulates her credited jumps; sets two tasks; leaves that evening by his own decision, saying he hates it. | EV-0003/0004/0005; MD-CL-0004@9/0017@7 | HIGH. | MD-CS-0192 |
+| MD-CS-0198 | 0004 | February; Score 37 | DISPOSITION_CHANGE (candidate) | Sets herself a rule not to telephone him, so as to learn to do well in his absence and surprise him with growth; thinks that she hates the parting too; asks for his drawstrings; a day later says she is lonely. | EV-0005/0008; MD-CL-0002@10/0027@2 | HIGH wording. | MD-CS-0193 |
+| MD-CS-0199 | 0007 | February to spring; Score 37 | CONTEXT_CHANGE | Returns to full-time work and entrusts away events to the coaches; says the junior class is a world she does not know. | EV-0006/0007; MD-CL-0014@5 | HIGH. | MD-CS-0115 |
+| MD-CS-0200 | 0004 | February to spring; Score 37 | CONTEXT_CHANGE | Growing pains begin in both knees; told to work on singles and basic turns, wonders whether she is so poor that she must start again; is named for two overseas events and asks herself why. | EV-0006/0008/0009; MD-CL-0015@9/0022@6 | HIGH. | MD-CS-0198 |
+| MD-CS-0201 | 0053 | February onward; Score 37 | CONTEXT_CHANGE | Calls his new pupil by his old pupil's name, apologizes, and pledges to back her dream; explains what selection for overseas events requires; works with her on jump height. | EV-0005/0007/0008/0019; MD-CL-0011@10 | HIGH. | MD-CS-0194 |
+| MD-CS-0202 | 0001 | December to June, as told; Score 39 | REVEALED_NOT_NEW | Decides the club needs a trainer; searches the country for a medical trainer against a page of conditions; cannot forgive the thought of careless handling; could hardly get up on hearing of her growing pains and hid it on the telephone. | EV-0024/0026; MD-CL-0010@10/0017@7 | HIGH. | MD-CS-0197 |
+| MD-CS-0203 | 0004 | Arrival at the camp; Score 37 | CONTEXT_CHANGE | Reports to herself that she fell on the Lutz at the selection, cannot train the quadruple, could not skate last autumn's layout, and could not grow. | EV-0010; MD-CL-0015@9/0019@7 | HIGH. | MD-CS-0200 |
+| MD-CS-0204 | 0057 | Camp; Scores 37 and 40 | REVEALED_NOT_NEW | Declares that her aim is to beat Inori, because Hikaru has found something in her; later is crushed that a triple Axel did not make her special. | EV-0011/0042; MD-CL-0001@10/0023@6 | HIGH. | MD-CS-0185 |
+| MD-CS-0205 | 0004 | Camp, day one; Score 37 | CONTEXT_CHANGE | Cannot answer Hikaru's greeting; feels her as pitch black out of chagrin; hates a self that is standing still; cries; thinks there is no going back; resolves to leave the camp stronger and asks Iruka to model a junior who can fight abroad. | EV-0012/0013; MD-CL-0015@9/0019@7 | HIGH wording. | MD-CS-0203; MD-CS-0189 |
+| MD-CS-0206 | 0010 | Camp, days one and two; Scores 37 and 39 | CONTEXT_CHANGE | Greets Inori warmly; watches her leave in tears with a flushed smile; watches her closely the next morning; says she forgot to watch Tsukasa jump. | EV-0012/0029/0038; MD-CL-0003@9 | HIGH as shown; uncaptioned. | MD-CS-0191 |
+| MD-CS-0207 | 0037 | Camp, day one; Score 38 | REVEALED_NOT_NEW | Hides fondness for Inori behind insult; stills at the word genius; says those who quit in junior are the ones who grew heavy and ceased to be praised, and that nobody stops them; says Mika forgot their promises and quit, that she is angry, and that she will not speak to her until she has an Olympic gold medal; kicks a chair and later nurses the girl who covered for her. | EV-0015/0016/0019/0020/0021; MD-CL-0022@6/0026@3 | HIGH wording. | MD-CS-0176; MD-CS-0111 |
+| MD-CS-0208 | 0004 | Camp, day one; Score 38 | REVEALED_NOT_NEW | Objects to an insult as her coach taught; says she will not quit, that she may aim even if no one praises her, and that the dream is not for herself alone; feigns a fall to keep Iruka out of trouble; remembers her from infancy and offers to telephone her sister. | EV-0015/0016/0020/0021; MD-CL-0002@10/0027@2 | HIGH. | MD-CS-0205 |
+| MD-CS-0209 | 0004 | Camp, day one; Score 38 | CONTEXT_CHANGE | Meets rules under which her weakest jump is compulsory and her strongest barred; falls on the Lutz; is warned about her edge; hears her coach's analysis as one more correction; resolves to grow at double speed; returns unasked to old basic drills. | EV-0017/0018/0027; MD-CL-0015@9/0008@9 | HIGH for conduct; the reversion is his report. | MD-CS-0208 |
+| MD-CS-0210 | 0001 | Camp, day one; Scores 38–39 | REVEALED_NOT_NEW | Judges that she is treating him as someone to show results to and trying to solve alone; diagnoses the Lutz as an edge laid too deep and refuses the shortcut; says his teaching no longer gets through; asks senior coaches for help. | EV-0018/0021/0026/0027; MD-CL-0004@9/0027@2 | HIGH. | MD-CS-0202 |
+| MD-CS-0211 | 0040 | Camp, night one; Scores 38–39 | REVEALED_NOT_NEW | Says the loss of jumps in growth is half fact and half curse and that injury is now the common cause; wants more precedents of uninjured careers and no pain for children but that of competing; offers, as a guess, that Inori moves by adults' faces and listens to her coach because his cannot lie; says a failure to convey must never be put on the receiver; holds that a coach is another pair of eyes. | EV-0022/0025/0028/0030; MD-CL-0026@3/0028@1 | HIGH that it was said; his reading of her is explicitly tentative. | MD-CS-0109 |
+| MD-CS-0212 | 0067 | Camp, night one; Scores 39–40 | REVEALED_NOT_NEW | Says Yodaka corrected himself without video and saw his own career from above, needed no coach, and left before the season's end; felt an ornament beside him; regrets not telling him that a child needs an adult who stays. | EV-0032/0034; MD-CL-0016@9/0026@3 | HIGH that it was said; the hawk's eye is his metaphor. | none |
+| MD-CS-0213 | 0022 | Camp, night one; Score 40 | REVEALED_NOT_NEW | Says that if Hikaru wished to leave he could not hold her, and that her reliance on his household may be shown out of consideration. | EV-0035; MD-CL-0016@9 | HIGH wording. | MD-CS-0166 |
+| MD-CS-0214 | 0001 | Camp, night one and day two; Scores 39–40 | KNOWLEDGE_CHANGE (candidate) | Asks himself whether her strength was built on her lonely years; lands a double Lutz within the hour and is shaken at its ease; identifies the faculty described in Yodaka with his own sense of his movement; concludes that he had no guide, denied his talent out of inferiority, and may have wasted his weapon. | EV-0028/0031/0036; MD-CL-0010@10/0025@5/0028@1 | HIGH wording; each step is his inference. | MD-CS-0210; MD-CS-0190 |
+| MD-CS-0215 | 0004 | Camp, day two; Score 39 | CONTEXT_CHANGE | Accepts take-off drills inside a contest and from Hitomi; says she had thought her skating worse than everyone's; assembles the jump as a puzzle and lands a clean triple Lutz; feels little, because she ought to be able to; is overjoyed at his double. | EV-0029/0030/0031; MD-CL-0015@9/0004@9/0028@1 | HIGH. | MD-CS-0209 |
+| MD-CS-0216 | 0027 | Camp, day two; Score 40 | CONTEXT_CHANGE | Appears at the camp as Hikaru's teacher; tells his daughter that Yodaka coaches her; says this is the last time, that he realized too late he has no capacity to guide people, and that he is tidying up what he left undone. | EV-0037; MD-CL-0016@9/0017@7 | HIGH wording; what was left undone is not said. | MD-CS-0196 |
+| MD-CS-0217 | 0006 | Camp, day two; Score 40 | KNOWLEDGE_CHANGE | Learns from her father that Yodaka coaches Hikaru; recounts that she became head coach when he refused to; is vexed that he has taken another pupil. | EV-0037; MD-CL-0011@10 | HIGH. | V08 state |
+| MD-CS-0218 | 0010 | Camp, day three; Score 40 | REVEALED_NOT_NEW | Breaks her peers' quarantine to question Inori; asks on what grounds she believes in victory; recalls being told to become someone who can live only on the ice; concludes that Inori resembles Yodaka and that Tsukasa is her own kind; asks for a promise to win the series final; an unattached line says she can still wait. | EV-0039/0040/0041; MD-CL-0003@9/0025@5 | HIGH that she thinks it; the last line's speaker is by placement. | MD-CS-0206 |
+| MD-CS-0219 | 0004 | Camp, day three; Score 40 | REVEALED_NOT_NEW | States her goal as winning the series final; says she has never aimed at gold on grounds, cannot forgive a self that cannot take it, is on the ice thanks to the one who believes in her victory, and must go on proving with gold that she ought to be there; gives the promise asked. | EV-0040/0041; MD-CL-0001@10/0019@7/0027@2 | HIGH wording. | MD-CS-0215; MD-CS-0189 |
+| MD-CS-0220 | 0010 | Camp, day three; Score 40 | CONTEXT_CHANGE | Has lower-back pain in practice; accepts a support from Iruka, who tells her she is taking skating lightly; remarks that her coach has not noticed; has grown and lands more lightly. | EV-0038/0043; MD-CL-0003@9/0022@6 | HIGH. | MD-CS-0218 |
+| MD-CS-0221 | 0001 | After the camp; Score 40 | CONTEXT_CHANGE | Reads her practice log; concludes that her growth came from a concentration that pares her down and narrows her view; weeps at the national jacket and does not want her to lose it; resolves to hand on to her the use of the faculty he believes he has; renews the vow of gold abroad. | EV-0044/0045/0046/0047; MD-CL-0004@9/0010@10/0001@10 | HIGH. | MD-CS-0214 |
+| MD-CS-0222 | 0011 with 0004 | The day after the All-Japan Novice girls' event; Short Program 5 | CONTEXT_CHANGE | He skates a personal best, expects to be overtaken, wins when the favourites fall, and calls the title worthless beside Hikaru's and Inori's fourth place; she tells him not to make a fool of the gold medalist everyone aimed to be, and names his self-deprecation as a defence she knows; he weeps that he could not rejoice, calls her by her name, and tells the press he will aim at the title again. | EV-0049/0050/0051/0052; MD-CL-0021@5/0019@7 | HIGH. | MD-CS-0157; MD-CS-0189 |
+
+### Current projection after V10
+
+| Character | Current source boundary | Active state references | Bounded current formulation | Open contradictions |
+| --- | --- | --- | --- | --- |
+| MD-CHAR-0004 | V10/MD-FR-V10 | MD-CS-0198/0205/0208/0215/0219 | A junior assigned abroad, in pain and short of her autumn jumps, who holds that gold is how she proves she belongs on the ice, shows her coach results, and recovered a lost jump inside a game. | Quotes his release and refuses it; generous to a friend's gold on the morning after her own loss. |
+| MD-CHAR-0001 | V10/MD-FR-V10 | MD-CS-0202/0210/0214/0221 | Coach who answered defeat by finding a trainer, returned to find his words not arriving, and has decided that he wasted a faculty of his own and will give it to her. | Told her worth does not wait on proof; calls the jacket a decoration she must not lose. Does not know her creed. |
+| MD-CHAR-0010 | V10/MD-FR-V10 | MD-CS-0206/0218/0220 | Champion who sought out Inori, read her as her own coach's likeness, is acquiring the other team's weapon, and has a back that hurts. | Calls Tsukasa her own kind after calling Inori her own kind in V09. |
+| MD-CHAR-0021 | V10/MD-FR-V10 | MD-CS-0195 | Coach who was never coached, applying his own path to a child for seven years. | Whether he sees the cost his old coaches name. |
+| MD-CHAR-0027 | V10/MD-FR-V10 | MD-CS-0196/0216 | Teacher of both rival coaches, returned once to teach the rival's pupil, who denies his own capacity to guide. | What he left undone. |
+| MD-CHAR-0037 | V10/MD-FR-V10 | MD-CS-0207 | The leading junior, oriented by a vow toward a friend who stopped, who notices what coaches miss. | — |
+| MD-CHAR-0040, 0067, 0022 | V10/MD-FR-V10 | MD-CS-0211/0212/0213 | Three head coaches with a shared aim of protecting children from foreseeable harm and separate regrets. | One remark in their room has no fixed speaker. |
+| MD-CHAR-0011 | V10/MD-FR-V10 | MD-CS-0222 | National novice champion who learned to value his title from the girl who missed hers. | — |
+| MD-CHAR-0006, 0007, 0008, 0053 | V10/MD-FR-V10 | MD-CS-0199/0201/0217 | A head coach who now knows the secret; a mother back at work; a sister with a history of her own; a second coach settled in. | — |
+| Others | V09 or earlier | as before | Unchanged in V10. | — |
+
+### Readiness after V10
+
+| Readiness record | Character / target / domain | Boundary / scope | Context coverage / counterevidence | Gaps / tests | Assessment / reviewer / date | History / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-RD-0051 | 0004 / monograph / development into the junior class | V01–V10 manga-only | Adds her stated creed, a documented reversion and recovery, three adult readings and a counter-instance of generosity. | No junior result; the adult readings are guesses and must be weighed as such; nine months partly reconstructed. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0002@10/0015@9/0019@7/0028@1 | Extends MD-RD-0046. |
+| MD-RD-0052 | 0001 / monograph / coach identity, past and method | V01–V10 | Adds the content of his absence, his fear, a self-assessment of wasted talent, his teacher, and a new programme. | Whether the programme is coherent; his teacher's account of him. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0004@9/0010@10/0017@7 | Extends MD-RD-0047. |
+| MD-RD-0053 | 0001 with 0004 / relationship study / coach and pupil | V01–V10 | Adds an announced separation, her rule, a failure of instruction with its diagnosis and repair, and a creed he has not heard. | Disclosure by either. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0027@2/0002@10 | Extends MD-RD-0048. |
+| MD-RD-0054 | 0021 / supporting-character study / the champion who needed no coach | V02–V10 | A former coach's testimony, a remembered program, a plan in his own words, and two teachers. | His family; why he left each coach; his own account. | BOUNDED_PROVISIONAL for a supporting study; author; 2026-10-13; MD-CL-0016@9 | Raises MD-RD-0033. |
+| MD-RD-0055 | 0037 / supporting-character study / the leading junior and a broken promise | V05–V10 | A vow, a history with the protagonist's family, conduct toward two younger skaters. | One camp; Mika's side absent. | INSUFFICIENT_EVIDENCE for a dedicated artifact; adequate in outline for ensemble treatment; author; 2026-10-13; MD-CL-0022@6 | First assessment. |
+
+MD-RD-0049 (Hikaru) is extended by MD-CS-0218 and 0220 without a new record. MD-RD-0024 (Rio) is extended by MD-CS-0222. MD-RD-0044 (coaching doctrines) is extended by MD-CS-0196, 0211, 0212 and 0213. MD-RD-0050 (Miku and Kōhei) gains a profile and nothing else. MD-CHAR-0064–0066 remain UNASSESSED; MD-CHAR-0067 is a witness, not a study target.

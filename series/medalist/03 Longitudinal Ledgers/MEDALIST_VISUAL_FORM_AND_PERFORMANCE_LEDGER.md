@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.8"
+version: "1.9"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V09 closed (Scores 1–36, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V10 closed (Scores 1–40, Short Programs 1–5, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V09_UPDATE"
+review_status: "AUTHOR_REVIEWED_V10_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -282,3 +282,31 @@ All feature and motif records below are version 1 through `MD-FR-V09`. In this s
 | MD-MOT-0010 — the absolute (extended) | V09: EV-0032 compulsion at take-off; EV-0047 his word used for an escort home; EV-0048 her "never again" | He uses the word for protection only; she uses it for outcomes | The word has passed to her in the sense he refuses | MD-CL-0015@8/0019@6 |
 | MD-MOT-0011 — ice outside the rink (extended) | V09: EV-0020 the lake summoned twice in competition; EV-0042 the lake in a dream with fireworks and two skaters | — | The imagined ice is now also where she keeps him | MD-CL-0027@1 |
 | MD-MOT-0002, 0003, 0004, 0008, 0012 | 0002: base value against score, and a landed jump against its call (EV-0034/0039). 0003: a taiyaki eaten alone, and hunger after defeat (EV-0040/0050). 0004: a coach who stays beside a bench; a coach who leaves to learn (EV-0007/0050). 0008: a night of rain and a summer afternoon (EV-0044/0050). 0012: none | — | Unchanged in kind | — |
+
+## V10 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V10`. In this section `EV-####` expands to the [V10 reading's](../02%20Sequential%20Readings/MEDALIST_V10_DEEP_READING.md#canonical-observations) `MD-EV-V10-####`. Locators are image occurrences in CBZ order. Order is verified. Facing-page geometry was not verified for any pair in this volume. Earlier tables are unchanged.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0086 | EV-0003/0009/0024 | 0009, 0039, 0095 | A small strip in which two figures from the reunion that ended V09 stand for "now", with an arrow to an earlier pair, used to open and close flashbacks and to date them in months | Makes the previous volume's last page the fixed point from which this one counts backward | MD-TM-0081/0082; MD-CL-0012@10 | HIGH; a new device |
+| MD-VF-0087 | MD-MOT-0009; EV-0004/0057 | 0003, 0013–0018 | A title page of two girls lying head to head among scattered jump cards; cards dealt in rows by strength; a card re-inked; a card with five stars; sheets of stickers | Turns her record into a hand to be improved card by card, and puts the rival inside the same deck | MD-SK-0061; MD-CL-0012@10/0004@9 | HIGH; develops MD-VF-0078 |
+| MD-VF-0088 | EV-0008 | 0031–0033 | A chrysalis; a ledge of skaters above an arena; a full panel of the girl with butterfly wings beside the words for being chosen | Draws growth as metamorphosis at the moment it is also drawn as pain | MD-CS-0200; MD-CL-0012@10/0022@6 | HIGH |
+| MD-VF-0089 | MD-MOT-0013/0005; EV-0012 | 0049–0054 | A clean close-up of a greeting; then a face under black scrawled lettering; a page of interior speech; a flushed, smiling watcher; a head under a tap; a remembered pair of small girls laughing | Gives one side of a meeting no spoken reply | MD-CS-0205/0206; MD-CL-0012@10/0015@9 | HIGH |
+| MD-VF-0090 | MD-MOT-0014; EV-0030/0034/0036 | 0117–0118, 0136–0137, 0143 | A figure sprinting between high walls; the same maze seen from the air to the horizon; a bird of prey on a rafter above a rink; the coach drawn inside the walls while thinking about the bird | Sets two accounts of what a coach is for in one image, from inside and from above | MD-CS-0211/0212/0214; MD-CL-0012@10/0010@10 | HIGH |
+| MD-VF-0091 | EV-0033 | 0123–0135 | A black opening page; multiple-exposure figures; screens and photographers within the frame; two named jumps as full pages; two spins following a landing without a cut; bystanders' comments at the margins | The longest display given to an adult's skating, framed as one coach's memory of an exception | MD-PERF-0094; MD-CL-0012@10/0016@9 | HIGH |
+| MD-VF-0092 | MD-MOT-0012/0007; EV-0040/0041 | 0155–0159 | An extreme close-up for a question; two speakers lettered in one overlapping balloon with different pronouns; a full panel of the girl kneeling in chains with a bound figure behind her among ice crystals; joined hands; an unattached line | Lets one character hear another's past in a third person's words | MD-CS-0218/0219; MD-CL-0012@10/0003@9 | HIGH construction; whose words the line is, by placement |
+| MD-VF-0093 | MD-MOT-0001/0005; EV-0044/0045/0046 | 0166–0171 | A page of a child's handwriting; a jacket's patches in close-up; panels from the first volume reprinted very small behind her; a hand over one eye and the other eye lit; a hand reaching to a closed eye | Uses a document, an emblem and a quotation as three kinds of evidence in six pages | MD-CS-0221; MD-CL-0012@10/0001@10 | HIGH |
+| MD-VF-0094 | MD-MOT-0002; EV-0049/0052 | 0175–0180, 0190 | One scoreboard figure overlaid by yesterday's; a podium on which the winner looks stunned; a last panel of two small children holding hands on a rink | Ends a volume about growth as loss on a picture of what was promised before it | MD-COMP-0010; MD-CL-0012@10/0021@5 | HIGH |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0014 — the maze and the eye above (new) | V10: EV-0030 a skater sprinting through a maze and a coach looking down; EV-0034 a hawk's eye and a life seen from the air; EV-0036 a coach inside the walls with a self-made map; EV-0046 a resolve to hand on the use of the eye; the jacket's bird of prey. Earlier: V05 a diagnostic eye (MD-PROP-0010) | The one who had the view from above needed no coach and kept none; the teacher of both rival coaches says he cannot guide | Sight of oneself is drawn as the thing a coach supplies and as the thing that makes a coach unnecessary | Held until it recurs; MD-CL-0010@10/0016@9 |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V10: EV-0005 drawstrings left and later returned; EV-0009 cords wound round a wrist at a selection; EV-0041 a rival's hands taking hers for a promise; EV-0046 a hand reaching toward a closed eye; EV-0047 a fist bump | The hands that bind her to a promise are the rival's | Contact now also transmits and binds | MD-CL-0012@10 |
+| MD-MOT-0005 — seeing and being seen (extended) | V10: EV-0028 a child's gaze read as a search for disappointment, and eyes that slide away; EV-0034 a skater who could see himself; EV-0039 a room that watches two girls; EV-0043 a pain seen by a peer and not by a coach | The coach whose face "cannot lie" hid his fear on the telephone | Looking is now what the adults think she does to them, and what he wants to teach her to do to herself | MD-CL-0028@1/0027@2 |
+| MD-MOT-0007 — the verdict that returns (extended) | V10: EV-0016 his playground sentence quoted to an elder; EV-0031 the champion's sentence about talent returning at a jump; EV-0040 a command remembered | She returns his sentence and keeps its opposite | Sentences are now quoted selectively | MD-CL-0001@10/0025@5 |
+| MD-MOT-0009 — cards, wagers and chairs (extended) | V10: EV-0004 jumps as a hand; EV-0018 a required card and a forbidden one; EV-0047 thrones on a numbered podium for six | The card she holds highest cannot be played in one of two rounds | The game's rules have changed under her | MD-CL-0008@9 |
+| MD-MOT-0010 — the absolute (extended) | V10: EV-0002 "necessity, not other people"; EV-0024 his search for someone he can be absolutely sure of; EV-0040 a goal with no grounds | His absolute is again protective; the champion's is a plan | Certainty is claimed by one coach for outcomes and by the other for care | MD-CL-0025@5 |
+| MD-MOT-0012 — confinement and release (extended) | V10: EV-0040 "a person who can live only on the ice"; EV-0041 chains on the challenger; EV-0008 a chrysalis | The image of binding passes from the champion's pupil to her rival | Enclosure is now drawn on the one who chose it | MD-CL-0003@9/0027@2 |
+| MD-MOT-0013 — light and shadow (extended) | V10: EV-0012 a rival who once looked like an angel and now looks pitch black; EV-0039 a champion who takes care not to overawe | The darkness is in the beholder | The shadow is now seen from under it | MD-CL-0023@6 |
+| MD-MOT-0002, 0003, 0004, 0006, 0008, 0011 | 0002: execution marks against content; a title without the decisive jump (EV-0004/0049). 0003: rice balls fed in silence (EV-0020). 0004: a coach who leaves in order to protect (EV-0024). 0006: falls at a selection that still selects (EV-0010). 0008: a night of talk and a morning of jumps (EV-0022/0029). 0011: none | — | Unchanged in kind | — |
