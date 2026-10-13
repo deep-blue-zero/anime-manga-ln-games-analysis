@@ -5,13 +5,15 @@ artifact_type: "character_reconstruction_specification"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.1"
-status: "active_provisional"
+version: "0.5"
+status: "canonical"
 scope: "Evidence density, monograph and behavioral-model promotion, constraints and validation"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_CHARACTER_RECONSTRUCTION_SPEC.md"
-source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
+source_boundary: "Reconstruction contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
-review_status: "OWNER_REVIEW_PENDING"
+updated: "2026-10-12"
+review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -22,6 +24,8 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 # Character reconstruction contract
 
 This defines future character work; it is not a profile of Inori, Tsukasa or any other character. It is subordinate to [the global reconstruction specification](../../../characters/RECONSTRUCTION_CAPABILITY_SPEC.md). The [character/readiness ledger](../03%20Longitudinal%20Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md) has no subjects or assessments at bootstrap.
+
+The V01 closure now records separate evidence-based assessments in that ledger: bounded protagonist/supporting-role arguments, insufficient operational-model evidence and unresolved/excluded fanbooks for this manga-only scope. No character package, reconstruction rule or global capability is promoted by the reading. The contract below is unchanged.
 
 ## Separate promotion decisions
 
@@ -59,6 +63,10 @@ Written Japanese constraints include interlocutor-specific address, honorifics, 
 ## Readiness and validation
 
 The local ledger separately assesses monograph and model domains as `UNASSESSED / INSUFFICIENT_EVIDENCE / BOUNDED_PROVISIONAL / DOMAIN_READY`. Each assessment names source endpoint, context, independent evidence, counterevidence, omissions, test status and reviewer/date. The absence of a row means unassessed, not ready.
+
+Every proposed monograph/model scope declares the manga boundary and admitted supplemental set. Review relevant fanbook dispositions as `NOT_DUE / CLOSED_INTEGRATED / EXPLICITLY_EXCLUDED / UNRESOLVED`; NOT_DUE needs a verified later admission position. Complete due fanbook audits before claiming a combined boundary synthesis, or explicitly limit a provisional study to manga-only evidence with omissions and consequences for readiness. Unverified coverage is unresolved, not proof that a supplement is irrelevant.
+
+Editorial profiles and relationship captions do not replace observed behavior; ratings retain their evaluator/date/axes. Creator commentary supports attributed intent, not automatic interiority or character knowledge. Verified bonus fiction may add a distinct context, while reprints add no independent situation. A retrospective disclosure changes the current model through a named claim revision and knowledge boundary; it does not grant an earlier character later information or rewrite the earlier prospective rule/test.
 
 Use retrospective source reproduction, contrasting interlocutors/stakes, negative constraints and ordinary-life tests. Prospective tests must be frozen before later eligible evidence; specify an actual opportunity to test, an adjudication window and falsifier. No opportunity means `UNTESTED`. Model familiarity can contaminate holdouts; label remembered-source fitting honestly.
 

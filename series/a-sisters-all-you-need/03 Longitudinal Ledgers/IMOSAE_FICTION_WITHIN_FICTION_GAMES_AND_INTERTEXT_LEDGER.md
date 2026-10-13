@@ -2,17 +2,18 @@
 series: IMOSAE
 artifact_type: ledger
 ledger_type: fiction_within_fiction_games_and_intertext
-scope: V01-V13
+scope: V01-V14
 generation: V1
-status: active_provisional
-source_boundary: Japanese numbered light novels read through V13
-current_reading_boundary: V13
+status: canonical
+source_boundary: Japanese numbered light novels read through V14; nested fiction and paratext separately classed
+current_reading_boundary: V14
+checkpoint_freeze: IMOSAE_V13-V14_END_STATE_CHECKPOINT.md
 normalized_text_version: IMOSAE-JP-LN-NORM-1.0
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-version: '1.12'
-date: '2026-08-20'
+version: '1.13'
+date: '2026-10-12'
 ---
 
 # IMOSAE Fiction-within-Fiction, Games, and Intertext Ledger
@@ -501,3 +502,48 @@ The special-edition movie rewrite explicitly declares itself unrelated to the ma
 ### V13 intertext synthesis
 
 Fiction increasingly acts as **circulating recognition**: private autobiography becomes public narrative, Kyo learns about herself through being fictionalized, readers adopt `主人公` language, and parody exposes the dangers of over-literal authenticity categories.
+
+
+## V14 — fiction, games and intertext / final mainline horizon
+
+This ledger distinguishes a represented fictional event from an actual event in the containing narrative. TF can establish what a manuscript represents; LF remains linguistic fact. The final checkpoint and V14 reading govern current routes.
+
+### Nadeko's vampire manuscript
+
+Grand vampire narration is revealed as Nadeshiko reading a novice story to Shiori. Repeated superlatives, abrupt training, formulaic endings and 中略 are features of the embedded work. They are neither actual powers nor extraction loss. Honest professional feedback and one child's pleasure test different quality/value axes. `IM-V14-E011`
+
+### New addressed fantasy and answering sequel
+
+明日の君さえいればいい。 explicitly targets 可児那由多. Its irregular, violent fantasy is crafted to provoke a particular reader, while public responses vary. The Wodan/Ymir/Fenris/Tia world belongs to that book and its catalog. Powers and killings cannot become Itsuki's mainline deeds. `IM-V14-E020` `IM-V14-E022` `IM-V14-E072`
+
+どんな星空よりも、どんな思い出よりも is Nayuta's authored sequel set later inside the fantasy. It transforms love into several forms and affects the original's readership. The internal fourteen-year sequel setting is not an actual fourteen-year mainline jump. Represented permission and derivative-award treatment supply professional consequences. `IM-V14-E024` `IM-V14-E025`
+
+### Catalogs and games as distinct publication forms
+
+Kaizu's detective catalog and Kaiko's doujin catalog make created works materially retrievable. Character echoes can be interpreted, without assigning their crimes or fantasies to actual models. Sexual genre material is analyzed non-graphically. `IM-V14-E068` `IM-V14-E070`
+
+Metal Gear and betrayal-message allusions mediate actual creator/social interactions. They are comic frames, not evidence that game plots occurred or excuses for deceptive travel. `IM-V14-E003` `IM-V14-E006`
+
+### 青い小鳥たち: manuscript nested inside the final mainline
+
+The story initially appears to give teenage children's futures. The returned present establishes a short-story draft attributed to Itsuki's dream; Sora is currently two. Future wealth, medicine, careers and private motives remain represented inventions. The author afterword's possibility language does not authenticate them. `IM-V14-E042` `IM-V14-E050`
+
+The drama explanation through teacher/pupil labels is a narratorial inset, not newly canonical classroom dialogue. Kaede asks for a script after reading a specific play, and practical stage constraints matter. `IM-V14-E030` `IM-V14-E031`
+
+### TRPG-derived play: collaboration, concealed help and privilege
+
+Draft-Sora's prized play draws on Grancrest GM work with accomplished parent/peer players. Their deliberately supportive play adds characters and foreshadowing. His conclusion that he contributed nothing is hurt appraisal; collaborative origin does not by itself prove plagiarism. `IM-V14-E032`
+
+The fourth script shifts from a single star toward an ensemble. Structural flaws and staging revisions remain; spontaneous desire is not a universal substitute for craft. Coaching solves part of the team gap through privileged family access. Its “cheat” quality stays part of causality. `IM-V14-E034` `IM-V14-E035`
+
+果てなき挑戦者たち uses plural protagonists and 俺たち, transforming the father's public challenge. It is a play inside Itsuki's draft, not a real toddler's performance. The embedded ending 続かない is separate from the actual returned-present 完. `IM-V14-E037` `IM-V14-E041` `IM-V14-E049`
+
+### Fictional knowledge and final reader correction
+
+Sora's old literary medicine creates a false prognosis inside the imagined world. A fictional treatment and Kaede's performance of romantic obliviousness correct it. No completed cure, actual dating or real medical advice follows. `IM-V14-E036` `IM-V14-E040`
+
+Chihiro's actual critique rejects vague technology, invented convenient medicine, weak research and unauthorized real-person modeling. A writer's dream claim does not exempt a shared manuscript from craft or care. The final reader becomes a source of correction, while the successful author remains fallible. `IM-V14-E043` `IM-V14-E045` `IM-V14-E046`
+
+### Formal recurrence and open mechanism
+
+Private address, public circulation, collaborative games and protagonist language recur with different costs. IM-C036 remains OPEN: new draft evidence tests identity rehearsal formally but cannot certify actual adolescents' future formation. External bonus/audio/adaptation sources are deferred and require separate namespaces.

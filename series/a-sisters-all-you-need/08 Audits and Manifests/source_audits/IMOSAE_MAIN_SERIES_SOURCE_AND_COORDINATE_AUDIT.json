@@ -1,0 +1,297 @@
+{
+  "schema": "IMOSAE/main-series-source-and-coordinate-audit/v1",
+  "source_boundary": "fourteen locked Japanese numbered novels; external supplements deferred",
+  "raw": [
+    {
+      "volume": "V01",
+      "file": "A Sister's All You Need - Volume 01 [Japanese].epub",
+      "bytes": 17543612,
+      "sha256": "73d79276ea950d82d3338ab93b023473676855b9cc3759b32899d88f87cdca9b",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V02",
+      "file": "A Sister's All You Need - Volume 02 [Japanese].epub",
+      "bytes": 13148865,
+      "sha256": "5f942c7d2e1c14bbb0a55b81257e95dc776b70c28f872633084a93693a2488ff",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V03",
+      "file": "A Sister's All You Need - Volume 03 [Japanese].epub",
+      "bytes": 12108933,
+      "sha256": "edc655a6b440f7ee927cfc8ef09d72c5a8b950800dacf5d2ddff6e2e54c3b9d3",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V04",
+      "file": "A Sister's All You Need - Volume 04 [Japanese].epub",
+      "bytes": 3829274,
+      "sha256": "e753b87bd220f78575e43a89a1b9646c0cf2985d740805e9fe4822d9ef52e674",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V05",
+      "file": "A Sister's All You Need - Volume 05 [Japanese].epub",
+      "bytes": 9055624,
+      "sha256": "7f46b0c0f96dfed933fa46cbd1f4bab9d80b74808bdf566f0416f7a7b1c3af53",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V06",
+      "file": "A Sister's All You Need - Volume 06 [Japanese].epub",
+      "bytes": 15384271,
+      "sha256": "3c7e5338586227512ed16f9f9af7d31f3076403f3962b3e4f8945909c6dc5e9a",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V07",
+      "file": "A Sister's All You Need - Volume 07 [Japanese].epub",
+      "bytes": 19282376,
+      "sha256": "75f8f9f8cf6ba3bb58f395506280aeb0e5c54593c4bbe9248b3ecf6e115c8566",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V08",
+      "file": "A Sister's All You Need - Volume 08 [Japanese].epub",
+      "bytes": 35450423,
+      "sha256": "caec6062f4a5649762edbf3f2eb2265c99a8be7e4d54f03b6c0aae1cd19569f9",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V09",
+      "file": "A Sister's All You Need - Volume 09 [Japanese].epub",
+      "bytes": 31412256,
+      "sha256": "25661b4807c64202f6febc1c69646d09900b25e3281f8928b75d2d070a378cfd",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V10",
+      "file": "A Sister's All You Need - Volume 10 [Japanese].epub",
+      "bytes": 20944508,
+      "sha256": "69440a509c1aee946857b52994b1eab96a59bf7ecbb18a7da6bbf02253f5c06a",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V11",
+      "file": "A Sister's All You Need - Volume 11 [Japanese].epub",
+      "bytes": 28415419,
+      "sha256": "ae1f5cba5fca191e8d27a17658e7679567bc4018cde347001c84ef5a43f5f5d7",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V12",
+      "file": "A Sister's All You Need - Volume 12 [Japanese].epub",
+      "bytes": 5327450,
+      "sha256": "fbf988f8620b09d476a3d993ab6f931f6dc2db6fabb1cec8afd985c98c635e7f",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V13",
+      "file": "A Sister's All You Need - Volume 13 [Japanese].epub",
+      "bytes": 5741368,
+      "sha256": "70c62c02d882a8f7ada21657a03c0521ca1092bbbdc6e5e5d23e317419224737",
+      "sha256_and_zip_crc": "PASS"
+    },
+    {
+      "volume": "V14",
+      "file": "A Sister's All You Need - Volume 14 [Japanese].epub",
+      "bytes": 5035527,
+      "sha256": "86dd3d6ae2196f1255b9266003e0b6337ee5011e0d11d0a4d2afe25791d31fd5",
+      "sha256_and_zip_crc": "PASS"
+    }
+  ],
+  "normalized_sidecars": [
+    {
+      "volume": "V01",
+      "file": "IMOSAE_V01_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2809124,
+      "sha256": "bc35fb411a397bd6fcb9e42d48a319154dedbb48d714459e45c5e51c69ae3f4c",
+      "paragraphs": 2563,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 2081,
+      "gaiji": 76,
+      "format_annotations": 497,
+      "visual_anchors": 36
+    },
+    {
+      "volume": "V02",
+      "file": "IMOSAE_V02_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2841428,
+      "sha256": "0f9fd0debbdc8e337015ecffc442e5cc2e120055ad51b628c84e82b4ce20673b",
+      "paragraphs": 2577,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 1949,
+      "gaiji": 58,
+      "format_annotations": 528,
+      "visual_anchors": 29
+    },
+    {
+      "volume": "V03",
+      "file": "IMOSAE_V03_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2430054,
+      "sha256": "28500dde43f0eead05248c37f27891b13f16090c691a4efa32e1b4ecbaa29cc1",
+      "paragraphs": 2311,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 1811,
+      "gaiji": 30,
+      "format_annotations": 223,
+      "visual_anchors": 29
+    },
+    {
+      "volume": "V04",
+      "file": "IMOSAE_V04_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 3246815,
+      "sha256": "03563f02ec6a5118117e7b8b05b5e8ac1a5b0efef1c2970db368f89c82a50c5e",
+      "paragraphs": 2746,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 2781,
+      "gaiji": 42,
+      "format_annotations": 3231,
+      "visual_anchors": 30
+    },
+    {
+      "volume": "V05",
+      "file": "IMOSAE_V05_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2460941,
+      "sha256": "ae01655ec0231eb83980b2d0412ca901dacd9b6db2cb3bf19c59be0c77d73518",
+      "paragraphs": 2259,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 2231,
+      "gaiji": 28,
+      "format_annotations": 187,
+      "visual_anchors": 30
+    },
+    {
+      "volume": "V06",
+      "file": "IMOSAE_V06_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2536911,
+      "sha256": "37112fec68c6eee90a8d64c7d5aa8a4037bb767f031dba549c0ecbfba931a7b1",
+      "paragraphs": 2356,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 2157,
+      "gaiji": 70,
+      "format_annotations": 178,
+      "visual_anchors": 35
+    },
+    {
+      "volume": "V07",
+      "file": "IMOSAE_V07_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2976484,
+      "sha256": "29bd77683adcec2fd72d65f4d3a88e270e9dab688c7ba9da7be4e16f25e99bd1",
+      "paragraphs": 2754,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 2172,
+      "gaiji": 31,
+      "format_annotations": 330,
+      "visual_anchors": 39
+    },
+    {
+      "volume": "V08",
+      "file": "IMOSAE_V08_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2399054,
+      "sha256": "6d76e14c9d63a54f66c36f5d75eeee4e58fbe008f21bdd99590a20f1535a2c41",
+      "paragraphs": 2252,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 1677,
+      "gaiji": 32,
+      "format_annotations": 234,
+      "visual_anchors": 60
+    },
+    {
+      "volume": "V09",
+      "file": "IMOSAE_V09_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2618597,
+      "sha256": "c9c535a1ea5c872f4f65bd03777b84ebb5c4abc6a2355da369986630504b36a8",
+      "paragraphs": 2314,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 2005,
+      "gaiji": 118,
+      "format_annotations": 380,
+      "visual_anchors": 58
+    },
+    {
+      "volume": "V10",
+      "file": "IMOSAE_V10_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2495858,
+      "sha256": "7f08a153dd9717523eeeae704da5a1627fec68fc85bb17848fdfbb90a37e252e",
+      "paragraphs": 2350,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 1750,
+      "gaiji": 23,
+      "format_annotations": 198,
+      "visual_anchors": 38
+    },
+    {
+      "volume": "V11",
+      "file": "IMOSAE_V11_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2494973,
+      "sha256": "5f4ab5385d53d67827e2ce0ebcb780e5127ae7ef4a86582330c75e059ec19401",
+      "paragraphs": 2327,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 1826,
+      "gaiji": 19,
+      "format_annotations": 360,
+      "visual_anchors": 53
+    },
+    {
+      "volume": "V12",
+      "file": "IMOSAE_V12_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2903735,
+      "sha256": "7897d214e170810c219fd03c0b423e87b86cb27eb0b4cbe9c0bbcfc7f2d59177",
+      "paragraphs": 2547,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 2140,
+      "gaiji": 34,
+      "format_annotations": 2817,
+      "visual_anchors": 38
+    },
+    {
+      "volume": "V13",
+      "file": "IMOSAE_V13_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 3528595,
+      "sha256": "4aa48c13708723ac26e81abebc48d0d0bde015480ae8466220c507746b4f37e0",
+      "paragraphs": 3041,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 2320,
+      "gaiji": 44,
+      "format_annotations": 3351,
+      "visual_anchors": 43
+    },
+    {
+      "volume": "V14",
+      "file": "IMOSAE_V14_NORMALIZED_PARAGRAPHS.jsonl",
+      "bytes": 2739547,
+      "sha256": "d2317c0444d91981532ae072154bd16c07a57356a78df0f725090e666f781852",
+      "paragraphs": 2369,
+      "sha256_and_paragraph_invariants": "PASS",
+      "ruby": 2183,
+      "gaiji": 46,
+      "format_annotations": 2661,
+      "visual_anchors": 34
+    }
+  ],
+  "totals": {
+    "raw_files": 14,
+    "raw_bytes": 222679906,
+    "paragraphs": 34766,
+    "ruby": 29083,
+    "gaiji": 651,
+    "format_annotations": 15175,
+    "visual_anchors": 552,
+    "raster_members": 666,
+    "frozen_raster_asset_hash_matches": 666,
+    "frozen_non_gaiji_visual_assets": 562,
+    "evidence_units": 3666,
+    "coordinate_references": 3729,
+    "G005_occurrences": 2,
+    "original_epub_block_xpaths_resolved": 34766,
+    "inline_gaiji_asset_members": 104,
+    "unique_inline_gaiji_asset_hashes": 65
+  },
+  "raw_sidecar_invariants_visual_asset_sha_and_evidence_coordinate_resolution": "PASS",
+  "semantic_attribution_scope": "Mechanical route resolution does not certify interpretation. Contextual speaker/level review is reported in the separate release audit. Prior whole readings were not reauthored or all semantically reread here.",
+  "normalized_release_payload_scope": "All fourteen sidecars freshly hash-checked; V14 normalized MD checked in prospective audit. Earlier intake refreshed 15 of 32 release payloads; do not report every payload freshly re-fetched.",
+  "primary_source_media_or_full_narrative_in_git": false,
+  "G005_exception": "06 Evidence and Indexes/machine_readable/IMOSAE_G005_ANALYTICAL_EXCEPTION.json"
+}

@@ -5,13 +5,15 @@ artifact_type: "analytical_method"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.1"
-status: "active_provisional"
+version: "0.5"
+status: "canonical"
 scope: "Primary-source observation, interpretation, prospective state and evidence standards"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_ANALYTICAL_METHOD.md"
-source_boundary: "Architecture and metadata reconnaissance only; zero primary narrative units admitted or inspected"
+source_boundary: "Method contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
-review_status: "OWNER_REVIEW_PENDING"
+updated: "2026-10-12"
+review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,13 +23,30 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 
 # Analytical method
 
-This method decides how to observe and judge the Japanese manga by Tsurumaikada. The [synthesis architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md) allocates accumulated results; the [reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) defines transaction closure. This is an `INITIAL`, `active_provisional` foundation awaiting owner review. It establishes no narrative conclusions and authorizes no manga reading.
+This method decides how to observe and judge the Japanese manga by Tsurumaikada. The [synthesis architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md) allocates accumulated results; the [reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) defines transaction closure. The owner approved the revised version-0.2 foundation and authorized one complete V01 transaction. The first evidence-driven V01 review now retains this method and the seven homes under an EVOLVING architecture; it does not authorize V02, fanbooks or adaptation sources. Source claims and the historical bootstrap remain distinct from this foundation approval. Version 0.5 note: on 2026-10-12 the owner authorized a continuous V02–V15 run and conditional fanbook audits; the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns that live authorization and progress. Statements in this document that V02 or the fanbooks are unauthorized describe the earlier V01-only scope. The method itself is unchanged.
 
 ## Witness hierarchy and scope
 
 Japanese collected and serialized manga constitute the primary continuity. Use one authenticated Japanese tankōbon edition as the default sequential witness; magazine chapters, official digital serialization, revised editions, bonuses and colophons retain separate witness identities. A collected revision governs a reading of that edition without erasing what its earlier magazine witness established. Compare both when a material difference exists. Record whether a statement describes continuity, an edition-specific rendering, or publication history.
 
 The [source map](MEDALIST_SOURCE_AND_SCOPE_MAP.md) separates source inventory, structural verification, admission, narrative inspection, sequential closure and public publication boundaries. Anime S1/S2 belong to adaptation continuity; creator/publisher commentary to supplemental evidence; localization to translation witnesses; reception to secondary interpretation. None fills an absent Japanese volume or silently supplies a character's manga history. The present V15/Score 61 lead does not authorize skipping to V13 or reading V01–V15 retrospectively.
+
+## Fanbook and other supplemental source authority
+
+Classify an official fanbook by component rather than assigning the whole book one literary rank. The COTE guidebook precedent supplies the four core distinctions DATA, RATING, EDITORIAL and FICTION; Medalist additionally distinguishes attributed creator commentary and technical reference. These are source layers, orthogonal to the observation/inference/confidence labels below. Classifications here are a future contract, not a claim that either available fanbook contains every class.
+
+| Source layer | Permitted use and limit |
+| --- | --- |
+| `FB-DATA` | Explicit documentary facts such as dated biographical fields, chronology or recorded results; attribute them to the fanbook and retain scope/date. A documentary record does not automatically settle a disputed depicted event. |
+| `FB-RATING` | Measurements, evaluations or rankings if present; retain evaluator, date, axes and observation conditions. A score or result is not total competence, personality or human worth. |
+| `FB-EDITORIAL` | Retrospective profiles, relationship captions, summaries and official framing; compare with richer manga evidence rather than importing the caption as a motive or timeless trait. |
+| `FB-FICTION` | Verified creator-authorized bonus manga or other new fiction, with continuity and disclosure position established. It is literary evidence in its own witness, not merely editorial commentary; gag, crossover or unresolved-continuity material remains labeled accordingly. |
+| `FB-CREATOR` | Attributed creator interviews or production commentary; evidence for the stated intention/process. Intent, depicted effect and a character's knowledge remain separate. |
+| `FB-TECHNICAL` | Attributed skating explanations or reference material; distinguish the book's explanation from in-story statements and independently verified external knowledge. Real-world applicability still requires the technical/date/category checks below. |
+
+Inventory component form as well: original/reprinted manga, profile, interview, illustration, table, explanation or promotion. Reprints cross-reference the prior witness and do not supply another independent context. Illustrations may support a bounded visual claim, not an assumed mainline event; promotional/later-territory components have explicit exclusions. Unknown attribution or continuity stays unresolved.
+
+Encounter supplements at their verified analytical position under the architecture's checkpoint rule. Preserve story chronology, publication chronology, analytical disclosure order and character knowledge separately. A newly disclosed old fact is not automatically new character development. A fanbook adds to or revises current interpretation through an attributed later observation; it never silently replaces an earlier manga freeze or grants a character the reader's later knowledge.
 
 ## Evidence grammar
 
@@ -95,4 +114,4 @@ Follow the source map's locator contract: immutable witness key + volume + verif
 
 Before harmonizing an apparent contradiction, test time, perspective, incomplete knowledge, deception, remembered versus shown events, edition revision, localization and adaptation differences, paratext scope and genuine inconsistency. Register competing accounts when no test settles them. Material changes use `PRESERVE / STRENGTHEN / REVISE / DOWNGRADE / REJECT / OPEN` in the claims ledger.
 
-A reading completes only when full admitted coverage, claims/counterevidence, affected ledgers, readiness implications, locators, prediction adjudication and frozen exit state are consistent and the repository transaction closes. [The reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) supplies the reusable contract. Missing primary access holds the affected reading unavailable; summaries and later witnesses cannot repair it. The sequential lock remains CLOSED until explicit owner approval and all applicable initiation/admission requirements.
+A reading completes only when full admitted coverage, claims/counterevidence, affected ledgers, readiness implications, locators, prediction adjudication and frozen exit state are consistent and the repository transaction closes. [The reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) supplies the reusable contract. Missing primary access holds the affected reading unavailable; summaries and later witnesses cannot repair it. The entrypoint now records an OPEN initiation gate and a single-operation V01 authorization after owner approval and source verification. Each later source still requires its own authorization; completed local truth and current ledger interpretation remain separately recoverable.
