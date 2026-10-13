@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.7"
+version: "1.8"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V08 closed (Scores 1–32, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V09 closed (Scores 1–36, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V08_UPDATE"
+review_status: "AUTHOR_REVIEWED_V09_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -302,3 +302,37 @@ A creator note records that an animated adaptation of the series has been decide
 | Authority over layout | Lux | MD-IN-0087 | Coach's by agreement, pupil's by appeal. | The layout. |
 | Means and patronage | Tsukasa, Kago | MD-IN-0085/0086 | A second job and a quiet gift. | — |
 | Others | As V07 | as before | Unchanged in V08. | — |
+
+## V09 evidence tables
+
+All events below are version 1 through `MD-FR-V09`. In this section `EV-####` expands to the [V09 reading's](../02%20Sequential%20Readings/MEDALIST_V09_DEEP_READING.md#canonical-observations) `MD-EV-V09-####`. New setting: MD-ORG-0032, the club at which Tsukasa and Kōhei trained in ice dance, unnamed on the page and reached by Tsukasa from Nagoya. Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0088 | The championship, its entrants | Event day and evening | A final order with three medal places and a recognized fourth; a spectators' estimate that nothing under ninety would earn a junior recommendation; an award ceremony | A margin of 0.52 separates a medal from none | EV-0006/0037/0038/0039; MD-COMP-0007; MD-CL-0013@9 | HIGH for printed places; the threshold is a spectator's guess; prior MD-IN-0077 |
+| MD-IN-0089 | The season's calendar and classes | As stated in Score 33 and Score 36 | The Novice championship in October; the junior championship a month later with top novices recommended against skaters up to eighteen; Novice A for ages eleven and twelve, junior from thirteen | A novice's national result is also an entry ticket; a thirteen-year-old enters a class six years deep | EV-0003/0050; MD-CL-0013@9/0022@5 | HIGH as in-story statements; unverified externally; prior MD-IN-0072 |
+| MD-IN-0090 | Scoring as stated | Event | A combination judged as one unit; a downgrade when rotation is short by half a turn or more, valued as the jump one rotation lower with a very low execution mark; step sequences graded base and one to four on counted features; later errors read as interruptions that lower component marks | A jump the hall takes for landed can be worth less than the jump it replaced; a non-jump element can separate a skater from both leaders | EV-0016/0028/0034/0039; MD-SK-0057/0058; MD-CL-0013@9/0005@8 | HIGH as in-story statements; the last is flagged by its speakers as a guess; prior MD-IN-0080 |
+| MD-IN-0091 | The technical panel as a career | Event | A club coach is studying to qualify as a technical specialist, the official who counts features and calls levels | Coaching knowledge and judging knowledge are held by the same people; a coach can ask a friend to watch for what a panel will count | EV-0027/0028; MD-CS-0184; MD-CL-0004@8 | HIGH |
+| MD-IN-0092 | The kiss-and-cry and its access | Event | A bench used by each skater in turn, with a camera crew; passes that admit coaches and not friends | A skater's last minutes as a skater are spent on furniture the next entrant needs; one of her two adults cannot reach her | EV-0005/0007/0010; MD-CL-0022@5 | HIGH |
+| MD-IN-0093 | ORG-0027 and ORG-0002 | The season and the following months | A rink's closure ends a club and a skater's career; its head coach, appointed that year, takes a post at Lux Higashiyama | The closing rink's skater leaves the sport; its coach's knowledge moves to the protagonist's club | EV-0002/0050/0055; MD-CL-0022@5/0011@9 | HIGH; the move's terms are not given; prior MD-IN-0071 |
+| MD-IN-0094 | ORG-0032, sponsorship | Years earlier, as remembered | A late starter's route: savings with a deadline, and a medal at the national championships as the credential with which to ask for support | A single result decided whether a career could be financed; it failed | EV-0009; MD-CS-0173; MD-CL-0010@9/0011@9 | HIGH that it is remembered so; the sponsor and sums are not given |
+| MD-IN-0095 | Authority over Inori's layout | Five days before to her skate | The pupil adds a jump by secret practice and a stated condition met in the warm-up; in the program she changes two passes alone; the coach neither sanctions nor mentions it | Ownership of the decision passes to the pupil in two steps, the second without consent, and no cost is imposed by any adult | EV-0023/0030/0036; MD-CL-0024@5/0002@9/0007@9 | HIGH; prior MD-IN-0087 |
+| MD-IN-0096 | ORG-0022, the federation's designation | About eight months after the event | A published list by rank; rank B for Inori, with the silver and bronze medalists and another skater visible on the same list; junior results to count toward selection for the Olympic team | Standing is conferred on fourth place; the coach's reckoning that the advantages of a medal were lost is not borne out | EV-0049/0051; MD-CL-0011@9/0001@9 | HIGH as he reports the list; what rank B provides is as stated in V05; prior MD-IN-0056 |
+| MD-IN-0097 | ORG-0026 and ORG-0002, expertise in circulation | The event and the following months | A freelance specialist's pupils take third and fourth at the same event; a coach leaves his club to study while two colleagues carry his pupil | Expertise is hired, shared between rivals, and sought by leave of absence | EV-0038/0050; MD-CS-0186/0192; MD-CL-0017@6/0011@9 | HIGH; where the coach studied is not shown; prior MD-IN-0081 |
+
+The acknowledgements record that the arc of Volumes 5 to 9 was researched and supervised with named advisers and venues, and that two chapters were shortened by more than twenty pages (EV-0052). These are production facts; they inform the weight given to rule statements and to pacing and are not analysed further.
+
+### Current projection after V09
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| The championship | All-Japan Novice A | MD-IN-0077/0088; MD-COMP-0007 | Complete: 128.98, 110.55, 110.40, and the protagonist fourth at 109.88. | Ranks below fourth. |
+| Scoring | The event | MD-IN-0045/0052/0080/0090 | Values, multiplier, execution marks, rotation grades and downgrade, combination limits, step-sequence levels, component timing. | External verification. |
+| Calendar and classes | The season | MD-IN-0072/0089 | Novice in October, junior a month later; junior from thirteen. | The junior class in practice. |
+| Designation | The federation | MD-IN-0056/0096 | Rank B for the protagonist; junior results count toward Olympic selection. | What it provides to her in fact. |
+| Authority over layout | Lux | MD-IN-0087/0095 | The pupil's, by bargain and then by unilateral act, without sanction. | Whether this changes. |
+| Clubs and careers | Niigata, Lux | MD-IN-0071/0093 | A closed rink, an ended career, a coach absorbed elsewhere. | — |
+| Sponsorship | A coach's past | MD-IN-0094 | A medal as the price of support; unpaid. | Details. |
+| Expertise | The field | MD-IN-0065/0081/0091/0097 | Hired, shared, studied for, and convertible into judging. | What the coach learned. |
+| The hidden coach's regime | ORG-0006 | MD-IN-0057/0058/0084 | Unchanged; its pupil defends it and has set a test for it. | As before. |
+| Others | As V08 | as before | Unchanged in V09. | — |

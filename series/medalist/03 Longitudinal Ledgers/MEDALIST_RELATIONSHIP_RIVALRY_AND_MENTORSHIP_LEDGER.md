@@ -5,14 +5,14 @@ artifact_type: "relationship_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.7"
+version: "1.8"
 status: "canonical"
 scope: "Directional interpersonal interpretations and transitions among athletes, coaches, peers and families"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_RELATIONSHIP_RIVALRY_AND_MENTORSHIP_LEDGER.md"
-source_boundary: "Japanese V01–V08 closed (Scores 1–32, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V09 closed (Scores 1–36, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V08_UPDATE"
+review_status: "AUTHOR_REVIEWED_V09_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -481,3 +481,54 @@ Riley Fox's thought about Tsukasa, Ryūgū's remark about Nachi, Kago's choice o
 | MD-PAIR-0024 / Yūna→Sonidori | V08 | MD-RL-0194 | Trust strained by what she cannot be told. | — |
 | MD-PAIR-0023 / Sonidori→Yodaka | V08 | MD-RL-0196 | Defers against his own advice. | Why. |
 | Others | V07 or earlier | as before | Unchanged in V08. | — |
+
+## V09 evidence tables
+
+All transitions below are version 1 through `MD-FR-V09`. In this section `EV-####` expands to the [V09 reading's](../02%20Sequential%20Readings/MEDALIST_V09_DEEP_READING.md#canonical-observations) `MD-EV-V09-####`. New pair keys: MD-PAIR-0046 Inori/Kōhei; MD-PAIR-0047 Juna/Miku. Earlier tables are unchanged; the current projection is the last projection table in this document.
+
+| Transition | Pair / direction | Story time / known after | Dimensions / context | Action / options / effect | Evidence / knowledge / linked homes | Claim / confidence / alternatives | Prior / revision |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-RL-0197 | 0038 / Kōhei→Miku | Remembered and event; Score 33 | Invitation, patience, release | Invited a lonely child onto the ice; proposed a last shared aim when the rink was to close; lets her keep the bench until she can accept the end; thanks her for having chosen the ice and says she can shine anywhere. | EV-0002/0007/0010; MD-CS-0172 | MD-CL-0024@5/0022@5; HIGH. | MD-RL-0160 |
+| MD-RL-0198 | 0038 / Miku→Kōhei | Remembered and event; Score 33 | Gratitude, wish to vindicate | Thanks him for seeking a way for her; skates to leave a record that her coach was remarkable. | EV-0002/0003/0007; MD-CS-0168/0169 | MD-CL-0022@5; HIGH. | MD-RL-0159 |
+| MD-RL-0199 | 0047 / Juna→Miku | Remembered and event; Score 33 | Fellowship in a lost dream, release | Tells her he too wanted the Olympics and lacked the talent; tries to reach her without a pass; tells her the ice is not the only place she can shine. | EV-0002/0005/0010; MD-CS-0174 | MD-CL-0022@5; HIGH. | none |
+| MD-RL-0200 | 0047 / Miku→Juna | Remembered and event; Score 33 | Gratitude | Includes him in her thanks and in the record she means to leave. | EV-0002/0003 | MD-CL-0022@5; HIGH; brief. | none |
+| MD-RL-0201 | 0037 / Kōhei→Tsukasa | Years earlier, remembered; Score 33 | Admiration, grief | Watched him rise from nothing; stood on the podium the day he failed; drew from it the creed that talent has value only when used. | EV-0005/0009; MD-CS-0173 | MD-CL-0010@9; HIGH that he recalls it so. | MD-RL-0157 |
+| MD-RL-0202 | 0039 / both | Niigata, remembered, and event; Score 33 | Admiration, a contrast taken | Inori judges Miku's speed beyond her; Miku had told her why she is stopping; Inori answers in thought that she chose otherwise. | EV-0003/0011; MD-CS-0171/0175 | MD-CL-0026@2; HIGH. | MD-RL-0161 |
+| MD-RL-0203 | 0001 / Tsukasa→Inori | Before her skate; Score 34 | Resolve, choice handed over | Resolves never again to make her ask to be believed in; gives small corrections; tells her she has changed fate before, that nothing is fixed, and that the colour of the medal is hers to choose. | EV-0017/0018; MD-CS-0178 | MD-CL-0007@9; HIGH wording. | MD-RL-0175 |
+| MD-RL-0204 | 0001 / Inori→Tsukasa | Five days and one hour before; Score 34 | Secret repair, bargain | Re-learns in secret the jump he was hurt on; admits it; sets a condition under which he must include it. | EV-0023; MD-CS-0177 | MD-CL-0002@9/0027@1; HIGH. | MD-RL-0174 |
+| MD-RL-0205 | 0001 / Tsukasa→Inori | Same; Score 34 | Tact, evidence | Overhears the secret and lets her keep it; accepts the jump on a warm-up tally. | EV-0023; MD-CS-0178 | MD-CL-0004@8/0007@9; HIGH. | MD-RL-0203 |
+| MD-RL-0206 | 0001 / Inori→Tsukasa | Her skate; Score 35 | Inheritance | Skates her steps as something learned from watching him; at the Axel recalls his sentence and uses his old cue; resolves to win with the time spent with him. | EV-0028/0033; MD-CS-0179/0180 | MD-CL-0015@8/0004@8; HIGH. | MD-RL-0204 |
+| MD-RL-0207 | 0001 / Inori→Tsukasa | Her skate; Score 35 | Debt, unilateral act | Changes the plan without him; believes she ended his dream; stakes his wish with her own; refuses to end in guilt at having made him stop skating. | EV-0030/0031/0032; MD-CS-0180; MD-KN-0083 | MD-CL-0027@1/0002@9; HIGH wording. | MD-RL-0206 |
+| MD-RL-0208 | 0001 / Tsukasa→Inori | After her skate; Score 35 | Thanks without reproach | Calls it magnificent; thanks her for letting him watch from nearest; says nothing of the change. | EV-0030/0036; MD-CS-0181 | MD-CL-0007@9/0024@5; HIGH. | MD-RL-0205 |
+| MD-RL-0209 | 0001 / Inori→Tsukasa | That night; Score 36 | Apology, thanks, composure offered | Says she lied about the gold; says she is not downcast; thanks him for making her someone expected-of; keeps from him what she then tells her sister. | EV-0040/0043; MD-CS-0187/0189 | MD-CL-0002@9/0019@6; HIGH; the composure is partial, not false. | MD-RL-0207 |
+| MD-RL-0210 | 0001 / Tsukasa→Inori | That night; Score 36 | Worth apart from appraisal | Tells her she is not only what is evaluated and may aim at first without anyone's expectation; turns it into a joke about the medals he owes her. | EV-0041; MD-CS-0188 | MD-CL-0001@9/0027@1; HIGH wording. | MD-RL-0208 |
+| MD-RL-0211 | 0001 / Tsukasa→Inori | That night and the following months; Score 36 | Self-blame, absence, return | Judges the result his defeat; vouches to a rival for her hunger; leaves to study for her junior career; returns to tell her of her designation in person and frames it by his first promise. | EV-0044/0048/0049/0050/0051; MD-CS-0190/0192 | MD-CL-0017@6/0011@9; HIGH. | MD-RL-0210 |
+| MD-RL-0212 | 0001 / Inori→Tsukasa | The following months; Score 36 | Restraint, self-blame, anger, joy | Does not ask when he will return; saves her uniform to show him in person; supposes her loss sent him away; butts him until he apologizes; cries yes. | EV-0050/0051; MD-CS-0193; MD-KN-0092 | MD-CL-0027@1/0002@9; HIGH. | MD-RL-0209 |
+| MD-RL-0213 | 0041 / Hikaru→Tsukasa | That night; Score 36 | Accusation, care, concession, gratitude | Finds him in the rain; blames his doctrine for the lost medal; puts mud over his mouth and washes it off; asks whether he lacked nerve; accepts his answer; owns a debt for Rio; sets a year's test. | EV-0045/0046/0047/0048; MD-CS-0191 | MD-CL-0003@8/0026@2; HIGH wording. | MD-RL-0176 |
+| MD-RL-0214 | 0041 / Tsukasa→Hikaru | That night; Score 36 | Candour, protection | Answers a child's charges with his own history; asks leave before shouting; admits he is hurt; will not let her walk back alone. | EV-0046/0047/0049; MD-CS-0190 | MD-CL-0010@9/0026@2; HIGH. | MD-RL-0177/0178 |
+| MD-RL-0215 | 0005 / Hikaru→Inori | Event and that night; Scores 34–36 | Delight, credit, want of a rival, worry | Returns to watch her; laughs and is delighted; says her step sequence beat her own; wanted her to win; calls her strong because abnormal; fears she will not come at her in earnest. | EV-0014/0020/0021/0034/0045/0048; MD-CS-0183/0191 | MD-CL-0003@8; HIGH wording. | MD-RL-0186 |
+| MD-RL-0216 | 0005 / Inori→Hikaru | Remembered, event and that night; Scores 33–36 | Aim, address, vow | Remembers being found by her and invited to compete together; means to beat her properly; skates addressing her; measures her own layout against hers; swears not to lose again. | EV-0011/0013/0014/0031/0048; MD-CS-0175/0189 | MD-CL-0015@8/0003@8; HIGH. | MD-RL-0187 |
+| MD-RL-0217 | 0011 / Hikaru→Yodaka | That night; Score 36 | Defence, loyalty on terms | Asks whether his doctrine is being insulted; attributes her own stance on forgiveness to him; will not doubt him if Inori loses again in a year. | EV-0046/0048; MD-CS-0191 | MD-CL-0016@8/0025@4; HIGH wording. | MD-RL-0179 |
+| MD-RL-0218 | 0010 / Yodaka→Inori | Her skate; Score 35 | Appraisal, withdrawal | Says aloud that her step sequence is remarkable; looks grim at her base value; is gone before her score. | EV-0029/0034/0036; MD-CS-0182 | MD-CL-0016@8; HIGH as shown; LOW for meaning. | MD-RL-0185 |
+| MD-RL-0219 | 0010 / Inori→Yodaka | Remembered and her skate; Scores 34–35 | A verdict to overturn | Recalls his verdict beside Hikaru's invitation; names him as the one to whom she will prove that her coach's choice was not a loss. | EV-0013/0031 | MD-CL-0027@1/0025@4; HIGH wording. | MD-RL-0029 and MD-RL-0117, as received |
+| MD-RL-0220 | 0013 / both | Event and that night; Scores 34 and 36 | Support, confession, comfort | Mika holds a banner in the stands; Inori tells her, and not her coach, that only first would do; Mika holds her until she sleeps. | EV-0019/0042/0043/0049 | MD-CL-0019@6; HIGH. | MD-RL-0132 |
+| MD-RL-0221 | 0046 / both | About eight months later; Score 36 | Interim coaching | Kōhei runs her sessions, asks after her knee and tells her she is getting her jumps back; she reports the pain plainly. | EV-0050; MD-CS-0193/0194 | MD-CL-0022@5; HIGH; one scene. | none |
+
+Her mother's role as the only channel to the absent coach (EV-0050) continues MD-PAIR-0002 without a new transition. Tsukasa's request that Jakuzure watch the step sequence, the specialist's calls with two skaters, and Suzu's and Ako's standing beside Inori on the designation list are carried as state events and institutional rows (MD-CS-0184/0185/0186; MD-IN-0096/0097).
+
+### Current projection after V09
+
+| Pair / direction | Source endpoint | Active transition IDs | Current bounded state | Unknown reverse state / contradictions |
+| --- | --- | --- | --- | --- |
+| MD-PAIR-0001 / Tsukasa→Inori | V09 | MD-RL-0203/0208/0210/0211 | Hands her the choice, thanks her for an override that failed, tells her worth does not wait on expectation, and goes away to become of more use to her. | Does not know she believes she ended his dream or that she read his leaving as her fault. |
+| MD-PAIR-0001 / Inori→Tsukasa | V09 | MD-RL-0204/0207/0209/0212 | Skates to repay a loss he denies having suffered; shows him composure and keeps grief from him; waits without asking. | Has not heard his statements that he gave up nothing; her V04 motive is now known to the reader in full and not to him. |
+| MD-PAIR-0041 / both | V09 | MD-RL-0213/0214 | A champion who argued her coach's creed against him to his face, and a coach who answered from his own failure; she holds a debt to him and a test over him. | What his answer did to her; her tears. |
+| MD-PAIR-0005 / Hikaru→Inori | V09 | MD-RL-0215 | Wants her as a rival of her own kind and fears she is not hungry enough. | She did not see the hotel room. |
+| MD-PAIR-0005 / Inori→Hikaru | V09 | MD-RL-0216 | The one to beat, and the one who found her. | Does not know of the conversation under the bridge. |
+| MD-PAIR-0011 / Hikaru→Yodaka | V09 | MD-RL-0217 | Challenge and defence held together; loyalty with a dated condition. | His side is not shown in this volume. |
+| MD-PAIR-0010 / both | V09 | MD-RL-0218/0219 | A man she skates to refute, who praised one thing and left. | His view of her result. |
+| MD-PAIR-0038, 0047, 0039 | V09 | MD-RL-0197/0198/0199/0200/0202 | A skater released from debt by the two adults who brought her to the ice, and the foil against whom Inori defined her own choice. | — |
+| MD-PAIR-0037 / Kōhei→Tsukasa | V09 | MD-RL-0201 | Keeper of his history. | Whether they have spoken of it since. |
+| MD-PAIR-0013 / both | V09 | MD-RL-0220 | The one to whom the grief is told. | — |
+| MD-PAIR-0046 / both | V09 | MD-RL-0221 | A temporary coach and a growing pupil. | What he adds. |
+| Others | V08 or earlier | as before | Unchanged in V09. | — |

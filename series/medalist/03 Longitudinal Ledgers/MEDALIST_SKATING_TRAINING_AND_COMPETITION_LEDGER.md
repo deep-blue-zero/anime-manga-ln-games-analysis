@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.7"
+version: "1.8"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
-source_boundary: "Japanese V01–V08 closed (Scores 1–32, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V09 closed (Scores 1–36, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V08_UPDATE"
+review_status: "AUTHOR_REVIEWED_V09_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -320,3 +320,33 @@ All rows are version 1 through `MD-FR-V08`. In this section `EV-####` expands to
 | MD-SK-0053 | Inori / Tsukasa / Score 32 | A layout judged sufficient for a high place is to be changed in order to contest first; the new layout is not disclosed | IN_UNIVERSE reasoning by the coach and its reversal | EV-0042; MD-CL-0007@8/0008@7 | HIGH that the decision is stated; content unknown |
 
 The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V08`: Inori's competition-proven content is unchanged from V06; her quadruple Salchow has been landed three times on the page, all in practice; her triple Lutz is not shown in V08. Field frontier in competition: a quadruple toe loop and a triple Axel combination by Hikaru; a triple Axel by Suzu; six scores above 100.
+
+## V09 evidence tables
+
+All rows are version 1 through `MD-FR-V09`. In this section `EV-####` expands to the [V09 observation](../02%20Sequential%20Readings/MEDALIST_V09_DEEP_READING.md#canonical-observations) `MD-EV-V09-####`. The competition opened in V08 is completed here as far as the page shows it. No external rule or medical document was consulted or admitted; the external-reference table remains empty. The acknowledgements state that the arc was advised by people in the sport and that departures from fact are the author's; rule statements remain in-story. Scores are as printed. Earlier tables are unchanged.
+
+| Competition | Depicted identity / category / segment | Date / rule certainty | Source observations | External-rule refs / unresolved matches |
+| --- | --- | --- | --- | --- |
+| MD-COMP-0007 (completed as far as shown) | 全日本ノービス選手権, Novice A girls free skate, FLAT HACHINOHE. **Final medal places: 1 狼嵜光 128.98; 2 鹿本すず 110.55; 3 胡荒亜子 110.40; 4 結束いのり 109.88.** Other printed scores without a printed final rank: 八木夕凪 105.43; 小雀白花 102.44; 大蜘蛛蘭 102.03; 子出藤絃 101.10; 九猪桃子 85.88; 古部多まいん 81.02; 申川りんな 80.07; 釈取 79.55; 亜昼美玖 74.67 (eleventh when announced); 黒澤美豹 74.32 (thirteenth when announced). Start order 28 for Inori. An award ceremony at which fourth place is recognized | October of the season, by an in-story explainer; year not given. In-story statements added in V09: a combination judged as one unit; downgrade at half a turn or more short; step-sequence levels and criteria; timing of errors and component marks, by older skaters; the junior championship a month later with novices recommended | EV-0003/0006/0010/0017/0028/0037/0038/0039 | No MD-EXT. Twenty-two entrants have no printed score; ranks below fourth are not printed; no component marks are printed. |
+
+| Performance | Athlete / setting | Plan / attempt / depiction / call | Supplied score / result | Expressive aim / attributed response | Evidence / limits / correction |
+| --- | --- | --- | --- | --- | --- |
+| MD-PERF-0082 | MD-CHAR-0055 / MD-COMP-0007, start order twelve, directly after the leader | Triple Lutz opened to a single; a fall on a triple flip and triple toe loop; further errors; a triple flip, triple toe loop and double loop landed in the bonus position; layback spin level 4; four elements deducted and one under review | **74.67**; eleventh when announced | Meant as a record for her rink's adults; a rival coach: the air after an overwhelming skate; applause at the end | EV-0003/0004/0005/0006; not every element is shown |
+| MD-PERF-0083 | MD-CHAR-0004 / MD-COMP-0007, start order twenty-eight | Quadruple Salchow and double toe loop, credited; quadruple Salchow, credited; triple Lutz, a fall, judged fully rotated by her coach; layback spin level 4; triple flip, landed, with an edge-attention mark on the printed protocol; flying camel spin level 4; step sequence **level 4**; triple loop, Euler and triple Salchow, credited, in place of a planned solo loop; **triple Axel**, landed without a fall, reviewed and **downgraded**, in place of a planned combination from a double Axel; change-foot combination spin level 4. Stated base value 64.67 against the leader's 62.97 | **109.88**; fourth, 0.52 behind third | A spectator: faster than the leader; the leader's choreographer: love in each tracing; Yodaka: remarkable; the hall stands; an older skater: the Axel was a pebble | EV-0019–0039; no component marks; the base-value total is reproduced only with two unprinted values (reading's reconstruction) |
+| MD-PERF-0084 | MD-CHAR-0004 / MD-COMP-0007, warm-up before her group | Triple Lutz, three landed of four by her coach's notebook | None | The condition on which the jump entered the layout | EV-0023; practice |
+| MD-PERF-0085 | MD-CHAR-0004 / a public session at her home rink, five days before | Triple Lutz practised alone | None | Kept from her coach; overheard by him | EV-0023; practice; outcome of attempts not shown |
+| MD-PERF-0086 | MD-CHAR-0057 / MD-COMP-0007 | Not depicted; by caption the only clean program after the leader's, with a credited triple Axel | **110.40**; third | Thanks the jump specialist | EV-0038 |
+| MD-PERF-0087 | MD-CHAR-0029 and MD-CHAR-0050 / MD-COMP-0007 | Not depicted | **74.32**, thirteenth when announced; **81.02** | — | EV-0010/0017 |
+| MD-PERF-0088 | MD-CHAR-0004 / her home rink, about eight months later | A jump narrowly missed in practice; "getting back" jumps by her interim coach's account | None | — | EV-0050; the jump is not named |
+
+| Technical transition | Athlete / coach / known after | Skill / prior limit / intervention / outcome | Channel / physical constraints / risk | Performance / evidence / claim version | Confidence / counterevidence / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-SK-0054 | Inori / Tsukasa / Score 34 | The layout changed by agreement: two quadruple Salchows, one in combination; a triple Lutz in place of a double; a step sequence aimed at level 4; purpose, to approach the leader's tabulated base value. Resolves MD-SK-0053 | IN_UNIVERSE reasoning with a printed table of the leader's elements and values | MD-PERF-0083; EV-0019/0022/0023; MD-CL-0004@8/0007@9/0008@8 | HIGH; after two elements the stated comparison is 20.70 against 20.30 |
+| MD-SK-0055 | Inori / Score 34 | A double toe loop attached to the quadruple Salchow, possible because her best jump keeps its speed on landing | DEPICTED_PERFORMANCE; ATTRIBUTED explanation by her coach | MD-PERF-0083; EV-0021/0022; MD-CL-0008@8 | HIGH; first quadruples landed in competition |
+| MD-SK-0056 | Inori / Tsukasa / Scores 34–35 | The triple Lutz, lost after his injury, re-learned in secret, admitted on a three-of-four warm-up tally, placed third behind two quadruples by the rule that the hardest jumps go first, and fallen | DEPICTED_PERFORMANCE; ATTRIBUTED appraisal that fatigue after quadruples makes a fine-technique jump hardest there | MD-PERF-0083/0084/0085; EV-0023/0024/0025; MD-CL-0005@8/0002@9 | HIGH; not credited in competition; prior MD-SK-0042 |
+| MD-SK-0057 | Inori / Tsukasa / Score 35 | A step sequence prepared to the top level and awarded it, the first for a novice in eleven years by an older skater's account; both leaders received level 2 | IN_UNIVERSE_STATEMENT of criteria; DEPICTED_PERFORMANCE; official level | MD-PERF-0083; EV-0027/0028/0029/0039; MD-CL-0008@8/0004@8 | HIGH; the product of the skating foundation set in V04 |
+| MD-SK-0058 | Inori alone / Score 35 | Mid-program she spends the three-jump combination on the loop and attempts a triple Axel never shown in practice, on a cue her coach gave for the double two years earlier; landed without a fall and downgraded | DEPICTED_PERFORMANCE; official call; ATTRIBUTED judgment that it cost the podium | MD-PERF-0083; EV-0030/0031/0033/0034/0039; MD-CL-0002@9/0005@8/0015@8 | HIGH for the acts and the call; the cost is an appraisal consistent with stated rules, not computed |
+| MD-SK-0059 | Field / Score 36 | Four triple Axels attempted; the three credited belong to the three medalists; one specialist taught the bronze medalist's Axel and the fourth-placed skater's quadruple | Official outcomes; DEPICTED telephone calls | MD-PERF-0079/0074/0086/0083; EV-0038/0039; MD-CL-0008@8/0011@9 | HIGH; extends MD-SK-0050 |
+| MD-SK-0060 | Inori / Kōhei / about eight months later | Growth: taller, growing pains in a knee, jumps being recovered; a badge test the next day | DEPICTED_PERFORMANCE; SELF_REPORT of pain; ATTRIBUTED appraisal | MD-PERF-0088; EV-0050; MD-CL-0022@5 | HIGH that it is stated; which jumps are lost is not said |
+
+The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V09`: Inori's competition-credited content now includes two quadruple Salchows, one with a double toe loop, a triple flip, a triple loop in combination with a triple Salchow, three level-4 spins and a level-4 step sequence; her triple Lutz and triple Axel have been attempted in competition and not credited as such. Eight months on, some jumps are being recovered through growth. Field frontier in competition: unchanged at the top from V08, with a third credited triple Axel.

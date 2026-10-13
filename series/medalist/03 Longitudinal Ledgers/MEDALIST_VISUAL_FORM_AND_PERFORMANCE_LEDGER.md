@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.7"
+version: "1.8"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V08 closed (Scores 1–32, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V09 closed (Scores 1–36, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V08_UPDATE"
+review_status: "AUTHOR_REVIEWED_V09_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -253,3 +253,32 @@ All feature and motif records below are version 1 through `MD-FR-V08`. In this s
 | MD-MOT-0010 — the absolute (extended) | V08: EV-0005 a bystander's certainty about a stranger's jump; EV-0006 and EV-0042 Inori's use of it for an intended success and for a wish; EV-0034 his denial repeated as self-steadying | The rule Hikaru lives under is an absolute in fact, never named with the word | She now uses the word of outcomes he will not | MD-CL-0007@8/0015@7 |
 | MD-MOT-0011 — ice outside the rink (extended) | V08: EV-0007 the lake summoned in a hall; EV-0032 skating on asphalt at night | — | Inori's outside ice is imagined and shared; Hikaru's is real and solitary | MD-CL-0003@7 |
 | MD-MOT-0002, 0003, 0004, 0006, 0008 | 0002: a board of values against a landing called short (EV-0020). 0003: none. 0004: a coach who holds what is loaded on his skater (EV-0017). 0006: a fall that would end a career, never shown (EV-0038). 0008: a night road (EV-0032) | — | Unchanged in kind | — |
+
+## V09 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V09`. In this section `EV-####` expands to the [V09 reading's](../02%20Sequential%20Readings/MEDALIST_V09_DEEP_READING.md#canonical-observations) `MD-EV-V09-####`. Locators are image occurrences in EPUB spine order. Order is verified. Facing-page geometry was not verified for any pair in this volume. The acknowledgements say that Scores 35 and 36 were shortened by more than twenty pages from the storyboard; pacing in those chapters is read with that caution. Earlier tables are unchanged.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0076 | MD-MOT-0006; EV-0004/0005 | 0013–0021 | A jump drawn open; a fall; a rival coach's explanation over the hall; the leader walking away down a corridor; a remembered figure with his forehead on a locker laid beside the present coach | Shows a collapse as weather left by someone else and ties it to an older failure | MD-PERF-0082; MD-CL-0012@9/0023@5 | HIGH |
+| MD-VF-0077 | EV-0007/0010 | 0025–0030, 0036–0038 | Six pages on a bench: a list of sensations about to become useless, a small child in snow, an adult sitting down beside her | Gives an ending duration instead of an event | MD-CS-0170; MD-CL-0012@9/0022@5 | HIGH |
+| MD-VF-0078 | MD-MOT-0009; EV-0015 | 0048–0049 | Paired title art of two coaches as card-players, each with a skater as the hand; cards include jumps not attempted | States the event as a game between adults at the moment the child begins to play it herself | MD-CL-0012@9 | HIGH; title paratext, not layout evidence; facing geometry unverified |
+| MD-VF-0079 | MD-MOT-0001/0011; EV-0018/0020/0021/0022 | 0056–0082 | Drawstrings held; a printed table of a rival's elements; the frozen lake opened twice; two full-page quadruples; a board comparing two elements each | Makes the plan legible as arithmetic and the method as ritual | MD-PERF-0083; MD-CL-0012@9/0015@8 | HIGH; develops MD-VF-0068 |
+| MD-VF-0080 | EV-0023/0031 | 0083–0086, 0115–0118 | A program cut with its own causes: a secret practice, a bargain, a belief; each departure from the plan arrives with the reason for it | The annotated skate of V06 and V08, with the annotations now hers | MD-CS-0177/0180; MD-CL-0012@9/0002@9 | HIGH; cf. MD-VF-0045/0072 |
+| MD-VF-0081 | MD-MOT-0002; EV-0028/0029 | 0102–0110 | A diagram of counted features; tracings on the ice; a choreographer's face; a level called; one line from a dark room | Turns the least visible element into the volume's technical summit | MD-SK-0057; MD-CL-0012@9/0008@8 | HIGH |
+| MD-VF-0082 | MD-MOT-0010/0007; EV-0032/0033 | 0119–0124 | A page of jagged lettering round a wild face, repeating the layout of V07's page of compulsion; then one remembered sentence in a plain panel; then a cue from two years earlier | Stages two states of mind as two kinds of page and shows one interrupting the other | MD-CS-0180; MD-CL-0012@9/0015@8 | HIGH; cf. MD-VF-0062 |
+| MD-VF-0083 | MD-MOT-0005; EV-0034/0036/0037 | 0125–0142 | A low landing held upright; a caption of two sums; an ovation; an empty chair; facing tears; a cut to a podium with the centre figure named by the story and the others left to the next chapter | Withholds the result from the reader as the hall is withheld from it; the reading itself misidentified a figure here | MD-COMP-0007; MD-CL-0012@9 | HIGH; the correction is recorded in the reading |
+| MD-VF-0084 | MD-MOT-0011; EV-0042 | 0155–0164 | A dream in three registers: a schoolroom, a walk home ending at a bin, a frozen lake under fireworks with two skaters; waking tears | Rewrites her beginning as an invitation and sets it against the night's grief | MD-CS-0189; MD-CL-0012@9/0027@1 | HIGH; dream status is by framing |
+| MD-VF-0085 | MD-MOT-0013/0008; EV-0044–0050 | 0166–0185 | Rain throughout; a hand in a puddle, mud over a mouth, water poured over a face, a shout at the weather; an umbrella turned inside out as a girl speaks of light and shadow; a crescent moon; then the same girl, taller, between two panels | Makes an argument about doctrine physical, and passes eight months in a cut | MD-CS-0190/0191/0193; MD-CL-0012@9/0026@2 | HIGH |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0013 — light and shadow (new) | V09: EV-0007 a lit platform about to be left; EV-0010 "you can shine anywhere"; EV-0048 a champion who knows that a shadow falls when she shines. Earlier: the champion's given name; V08:EV-0041 a hall that pities whoever skates next | The skater undone by the shadow is told that light is available elsewhere; the one who casts it refuses to ask forgiveness | Brilliance is drawn as something that takes light from others, and the work lets both the casting and the consolation stand | Held until it recurs; MD-CL-0023@5 |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V09: EV-0018 drawstrings held; EV-0035 a closing gesture that asks to reach; EV-0046 mud pressed over a mouth and washed off; EV-0048 fists in a sheet; EV-0051 a remembered fist bump | The champion's touch both silences and tends | Contact now carries accusation and care in one act | MD-CL-0012@9 |
+| MD-MOT-0005 — seeing and being seen (extended) | V09: EV-0014 "watch me"; EV-0036 an empty chair; EV-0034 a jump the hall saw landed and the panel did not; EV-0048 composure misread at a ceremony | The one she most wanted to watch her had left | Being watched is asked for by name, and the watcher withdraws | MD-CL-0005@8/0016@8 |
+| MD-MOT-0006 — falling and getting up (extended) | V09: EV-0004 a fall that ends a career; EV-0024/0025 a fall that restores feeling to her legs; EV-0034 a jump not fallen and not credited | Staying upright is not success | The fall is no longer the unit of failure | MD-CL-0005@8 |
+| MD-MOT-0007 — the verdict that returns (extended) | V09: EV-0013 the stairwell verdict beside an invitation; EV-0031 a resolve to prove it wrong to its author; EV-0033 her coach's sentence returning at take-off; EV-0051 a first promise recalled | — | Sentences return as motives and as brakes | MD-CL-0025@4/0027@1 |
+| MD-MOT-0009 — cards, wagers and chairs (extended) | V09: EV-0015 coaches as card-players; EV-0012 a jewel to be used only when polished, and luck as an ally; EV-0032 "let the world bet on me"; EV-0039 a pebble; EV-0051 people who will want to bet on her | The card that lost was one nobody dealt | The child now plays her own hand and stakes someone else's wish | MD-CL-0002@9/0024@5 |
+| MD-MOT-0010 — the absolute (extended) | V09: EV-0032 compulsion at take-off; EV-0047 his word used for an escort home; EV-0048 her "never again" | He uses the word for protection only; she uses it for outcomes | The word has passed to her in the sense he refuses | MD-CL-0015@8/0019@6 |
+| MD-MOT-0011 — ice outside the rink (extended) | V09: EV-0020 the lake summoned twice in competition; EV-0042 the lake in a dream with fireworks and two skaters | — | The imagined ice is now also where she keeps him | MD-CL-0027@1 |
+| MD-MOT-0002, 0003, 0004, 0008, 0012 | 0002: base value against score, and a landed jump against its call (EV-0034/0039). 0003: a taiyaki eaten alone, and hunger after defeat (EV-0040/0050). 0004: a coach who stays beside a bench; a coach who leaves to learn (EV-0007/0050). 0008: a night of rain and a summer afternoon (EV-0044/0050). 0012: none | — | Unchanged in kind | — |

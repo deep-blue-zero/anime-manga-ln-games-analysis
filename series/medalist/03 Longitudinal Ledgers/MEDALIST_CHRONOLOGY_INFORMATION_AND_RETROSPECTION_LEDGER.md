@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.7"
+version: "1.8"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V08 closed (Scores 1–32, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V09 closed (Scores 1–36, Short Programs 1–4, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V08_UPDATE"
+review_status: "AUTHOR_REVIEWED_V09_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -378,3 +378,50 @@ New proposition keys: MD-PROP-0029 the rule that one fall in the nightly run-thr
 | MD-RT-0051 | EV-0005, Score 29 | V01–V02 accounts of Nachi's practice quadruple; MD-CL-0018@2 | Her former coach says she never landed it in competition | The page draws no link to her later creed | No revision; HIGH for the fact |
 | MD-RT-0052 | EV-0016/0017, Score 30 | V03 and V07 appearances of Suzu and Kameganya | Her motive and his doctrine predate everything shown of them | An inset memory of his is unexplained | No revision; registered in MD-CL-0026@1; HIGH |
 | MD-RT-0053 | EV-0026, Score 31 | V02:EV-0027 and its neighbours, the towel given in a stairwell | He has kept and uses it | No meaning is assigned on the page | No revision; HIGH as fact |
+
+## V09 evidence tables
+
+All records below are version 1 through `MD-FR-V09`. In this section `EV-####` expands to the [V09 reading's](../02%20Sequential%20Readings/MEDALIST_V09_DEEP_READING.md#canonical-observations) `MD-EV-V09-####`; earlier volumes are written with their volume prefix. No calendar year is inferred. Earlier tables are unchanged.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0072 | Championship day, continued: the twelfth skater through the twenty-eighth; the award ceremony; that night, a playground beside the arena, a hotel room, a riverbank in rain, a walk to another hotel | Scores 33–36 / PRESENT | EV-0003–0049 | The ceremony is shown before the protagonist's score is disclosed; the night scenes are intercut and their relative order is given by dialogue | HIGH |
+| MD-TM-0073 | Miku's past: a small child invited onto the ice; this year a closure notice, a new head coach, her decision to stop, and a team aim | Score 33 / FLASHBACK | EV-0002/0007 | Consistent with MD-TM-0063, which gives the age of four | HIGH |
+| MD-TM-0074 | Tsukasa's past at his former club: arrival from Nagoya without experience; within a year the lead partner; a deadline set by savings; failure at the national championships on a day Kōhei medalled | Score 33 / MEMORY of Kōhei | EV-0005/0009 | Fills MD-TM-0062 from a second witness; no dates | HIGH as remembered |
+| MD-TM-0075 | Inori at eleven: pitied by adults behind a door; found by Hikaru; Hikaru's hope and Yodaka's verdict on one page | Score 34 / FLASHBACK | EV-0013 | Belongs to the period of V01–V02; a scene not shown there in this form | HIGH content; MODERATE exact placement |
+| MD-TM-0076 | Five days before her skate: the triple Lutz practised alone at a public session, overheard by her coach. One hour before: her admission and condition. The warm-up: three of four | Score 34 / FLASHBACK within her program | EV-0023 | After the return from Niigata (MD-TM-0060) and before the opening ceremony (MD-TM-0061) for the first; event day for the others | HIGH |
+| MD-TM-0077 | Niigata, nine days before the event: Miku tells Inori why she is stopping | Score 33 / MEMORY | EV-0011 | Within MD-TM-0058; not shown in V07 | HIGH |
+| MD-TM-0078 | An elision of about eight months: from the night of the championship in October to early summer of the next school year. She is thirteen, in middle school and in the junior class. Within it, undated: her coach leaves to study; Kōhei joins Lux; she enters middle school in spring; the designation list is published; he returns the day before a badge test | Score 36 / ELLIPSIS with captions | EV-0049/0050/0051 | The length is inferred from October, the summer uniform and trees in full leaf; the page gives no number | HIGH that it is an elision of months; MODERATE for eight |
+| MD-TM-0079 | Calendar statements: the Novice championship in October and the junior championship in November; serialization of Scores 33–36 in the magazine's May and July to September 2023 issues; first impression 2023-10-23 | Score 33 explainer; colophon / statement | EV-0003/0054 | The October placement agrees with the chain on V07's story pages and not with V08's parody page (MD-TM-0059) | HIGH as stated |
+
+The second large elision of the series follows the pattern of the first (V03 to V04): a caption with an age and a class, and losses mentioned in passing. Its contents are listed as unknown in the frozen state.
+
+New proposition keys: MD-PROP-0033 that Inori ended Tsukasa's dream by becoming his pupil; MD-PROP-0034 that Inori re-learned the triple Lutz in secret and why; MD-PROP-0035 why Tsukasa left the club after the championship; MD-PROP-0036 what Tsukasa's last championship was for.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0083 | PROP-0033 / Inori | From some time after V04 to her skate | BELIEVES, by her own account pieced together from what people around her said | Both of her departures from the plan trace to it | EV-0031; HIGH that she believes it; whether it is true is disputed by MD-KN-0085 |
+| MD-KN-0084 | PROP-0033 as her belief, and PROP-0015 / Tsukasa | Through V09 | NOT SHOWN to know that she holds it; knows of the secret Lutz and its link to his injury | His playground answer addresses appraisal and not debt | EV-0023/0041; HIGH for the absence; prior MD-KN-0082 |
+| MD-KN-0085 | PROP-0031 / Inori | Through V09 | NOT SHOWN to have been told; he has said to Yodaka and twice to Hikaru that coaching is his own good and no sacrifice | The two hold incompatible accounts of the same event and neither has heard the other's | V06:EV-0037; V08:EV-0037; EV-0046; HIGH for the absence |
+| MD-KN-0086 | PROP-0034 / Tsukasa | Five days before | KNOWN by overhearing; she does not know he heard until she tells him herself | He lets the secret stand and accepts the jump on evidence | EV-0023; HIGH |
+| MD-KN-0087 | PROP-0032 / reader | Score 34 | DISCLOSED: two quadruples, a triple Lutz, a level-4 step sequence, a planned double Axel combination | Resolves MD-KN-0081 | EV-0019/0022/0023/0030; HIGH |
+| MD-KN-0088 | The second change of layout / Tsukasa, Hitomi | Mid-program | LEARN it as it happens; Hitomi supposes he ordered it and he says he did not | No adult consented to the triple Axel | EV-0030; HIGH |
+| MD-KN-0089 | The Axel's call / the hall, her coach, the reader | End of her skate to the next chapter | The hall and some spectators BELIEVE she may have won; the element is under review; the reader learns the downgrade and the place only after a podium is shown | The volume withholds the result from the reader for one chapter boundary | EV-0034/0036/0037/0039; HIGH |
+| MD-KN-0090 | Her grief and vow / Tsukasa, Hikaru | That night | He has heard her say she is not downcast and nonetheless vouches for her hunger; Hikaru, who saw her composed at the ceremony, DOUBTS it; neither sees the hotel room | His knowledge of her is shown to be better than what she told him | EV-0040/0043/0048; HIGH |
+| MD-KN-0091 | The conversation under the bridge / Inori, Yodaka, Sonidori | Through V09 | NOT SHOWN to know of it | A test has been set over her next year without her knowledge | EV-0045–0048; HIGH for the absence; cf. MD-KN-0079 |
+| MD-KN-0092 | PROP-0035 / Inori; Tsukasa | The months of his absence | She is TOLD he went to study for her junior career and SUPPOSES that her loss is the reason; he is NOT SHOWN to know she supposes it | She does not ask when he will return | EV-0049/0050; HIGH |
+| MD-KN-0093 | PROP-0036 / Kōhei; the reader; Inori | Score 33 | Kōhei KNOWS from having been there; the reader learns it; Inori is NOT SHOWN to know the terms of his last championship | Her belief about his dream is formed without this history | EV-0009; HIGH for the first two; absence for the third |
+
+The rule under which Hikaru trains (MD-PROP-0029) remains unknown to Tsukasa and Inori as far as shown; her description of Inori as able to throw everything away is offered without it.
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0054 | EV-0031, Score 35 | V04:EV-0012 her hidden reason for haste; V07 her guilt at his injury; V08:EV-0042 her vow | Beneath each stated motive is a belief that she ended his skating and must make that worth it | His own statements deny the loss; she has not heard them | MD-RV-0116; HIGH |
+| MD-RT-0055 | EV-0009, Score 33 | V06 and V07 accounts by Tsukasa of his career (MD-TM-0062; MD-CS-0140) | A clubmate supplies the terms: a beginner from Nagoya, a year, a deadline, a medal as credential, a failure at a point never missed | A memory, in the middle of another child's ending | MD-RV-0122; HIGH as remembered |
+| MD-RT-0056 | EV-0013, Score 34 | V01, her first meeting with Hikaru; V02:EV-0026 the stairwell | Adds a scene of adults pitying a late starter and places invitation and verdict side by side | Not shown in this form earlier; no contradiction | No revision; HIGH |
+| MD-RT-0057 | EV-0023, Score 34 | V07 the triple Lutz lost after his fall (MD-SK-0042); V08, in which the jump is absent | She had been repairing it alone for his sake | — | MD-RV-0116; HIGH |
+| MD-RT-0058 | EV-0033, Score 35 | V07:EV-0027 "a jump is not a magic" and the lesson against wishing too hard; V04:EV-0016 his teaching on the double Axel; V04:EV-0038 her farewell to the cold feeling | All three return inside one approach and decide how the jump is attempted | The decision to attempt it was made in the other state | MD-RV-0126; HIGH |
+| MD-RT-0059 | EV-0046, Score 36 | V08:EV-0037 "no sacrifice"; V06:EV-0037 "my way of using my possibility" | The refusal of sacrifice is given its ground: he paid everything once and lost, and reads such payment as self-harm from inferiority | Said to a child in an argument | MD-RV-0122; HIGH that it was said |
+| MD-RT-0060 | EV-0045/0048, Score 36 | V04–V08 Hikaru's conduct toward Inori without words (MD-CL-0003@4–@7) | Her regard is stated: credit, a wish that Inori win, a likeness seen, and fear that Inori will not come for her | Stated to a third party | MD-RV-0117; HIGH |
+| MD-RT-0061 | EV-0051, Score 36 | V01, his promise at their first fist bump that people would want to bet on her; V05 the designated skaters | The promise is presented as kept in an institutional form | It arrives on a loss, eight months after he told her worth does not wait on expectation | MD-RV-0115/0123; HIGH |
+| MD-RT-0062 | EV-0011, Score 33 | V07:EV-0036 Miku stopping because the rink closes (MD-PROP-0028) | A further reason in her own words: she would not have others strain for her dream | Marked by her as only her own view | MD-RV-0130/0134; HIGH |
