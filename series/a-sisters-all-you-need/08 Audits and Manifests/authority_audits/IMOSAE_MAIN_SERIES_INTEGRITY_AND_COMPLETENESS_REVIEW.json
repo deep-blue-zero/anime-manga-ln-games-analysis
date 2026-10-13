@@ -1,0 +1,539 @@
+{
+  "schema": "IMOSAE/local-release-integrity-review/v1",
+  "status": "PASS",
+  "candidate_author_base": "cb99d141317d51f9c47ee098c7a07982c07c3a20",
+  "eligible_changed_paths": [
+    "series/a-sisters-all-you-need/01 Source Lock and Inventory/IMOSAE_SUPPLEMENTAL_SOURCE_INVENTORY_AND_ACQUISITION_PLAN.md",
+    "series/a-sisters-all-you-need/02 Sequential Readings/Checkpoints/IMOSAE_V13-V14_END_STATE_CHECKPOINT.md",
+    "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V14_DEEP_READING.md",
+    "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_CHARACTER_AND_RELATIONSHIP_STATE_LEDGER.md",
+    "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_CLAIM_REVISION_LEDGER.md",
+    "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_CREATIVE_LABOR_CAREER_AND_INDUSTRY_LEDGER.md",
+    "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_FAMILY_IDENTITY_AND_SIBLINGHOOD_LEDGER.md",
+    "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_FICTION_WITHIN_FICTION_GAMES_AND_INTERTEXT_LEDGER.md",
+    "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_JAPANESE_VOICE_STYLE_AND_TERMINOLOGY_LEDGER.md",
+    "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_OPEN_QUESTIONS_LEDGER.md",
+    "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_VISUAL_PARATEXT_AND_ILLUSTRATION_LEDGER.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_COMEDY_SEXUALITY_VULGARITY_AND_BOUNDARIES_SPECIALIST_SYNTHESIS.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_CREATIVE_LABOR_AUTHORSHIP_AND_LN_INDUSTRY_SPECIALIST_SYNTHESIS.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_FAMILY_SIBLINGHOOD_AND_IDENTITY_SPECIALIST_SYNTHESIS.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_GAMES_TRPG_ALCOHOL_AND_SOCIAL_RITUAL_SPECIALIST_SYNTHESIS.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_ILLUSTRATION_PARATEXT_AND_MEDIA_REFLEXIVITY_SPECIALIST_SYNTHESIS.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_NARRATION_JAPANESE_VOICE_AND_INTERTEXT_SPECIALIST_SYNTHESIS.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_RELATIONSHIPS_INTIMACY_FRIENDSHIP_AND_ADULT_LIFE_SPECIALIST_SYNTHESIS.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_TALENT_EFFORT_SUCCESS_FAILURE_AND_SELF_WORTH_SPECIALIST_SYNTHESIS.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_CHIHIRO_HASHIMA_MONOGRAPH_V01-V14.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_ITSUKI_HASHIMA_MONOGRAPH_V01-V14.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_MIYAKO_SHIRAKAWA_MONOGRAPH_V01-V14.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_NAYUTA_KANI_MONOGRAPH_V01-V14.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHARACTER_MODEL_EVIDENCE_AND_QA.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHARACTER_READINESS_AUDIT.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHARACTER_RECONSTRUCTION_PROTOCOL.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_CHIHIRO_HASHIMA_RECONSTRUCTION_MODEL.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_HARUTO_FUWA_RECONSTRUCTION_MODEL.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_ITSUKI_HASHIMA_RECONSTRUCTION_MODEL.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_KENJIRO_TOKI_DOMAIN_MODEL.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_MIYAKO_SHIRAKAWA_RECONSTRUCTION_MODEL.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_NAYUTA_KANI_RECONSTRUCTION_MODEL.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_RECOGNITION_AND_ABSTENTION_PROFILES.md",
+    "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_SECONDARY_CHARACTER_DOMAIN_MODELS.md",
+    "series/a-sisters-all-you-need/05 Full-Series Synthesis/IMOSAE_COMPARATIVE_REFERENCE_AND_OPEN_QUESTIONS.md",
+    "series/a-sisters-all-you-need/05 Full-Series Synthesis/IMOSAE_CORE_CHARACTER_REFERENCE.md",
+    "series/a-sisters-all-you-need/05 Full-Series Synthesis/IMOSAE_FULL_SERIES_SYNTHESIS.md",
+    "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_ILLUSTRATION_LOCATOR_INDEX.md",
+    "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md",
+    "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_PRIMARY_IDENTITY_AND_NORMALIZATION_ERRATA.md",
+    "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_PRIMARY_SOURCE_LOCATOR_INDEX.md",
+    "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_REVIEWED_CHARACTER_DISCOVERY_EVIDENCE_HANDOFF.md",
+    "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_SUPPLEMENT_CROSSWALK.md",
+    "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+    "series/a-sisters-all-you-need/06 Evidence and Indexes/machine_readable/IMOSAE_EVIDENCE_ROUTE_INDEX.jsonl",
+    "series/a-sisters-all-you-need/06 Evidence and Indexes/machine_readable/IMOSAE_G005_ANALYTICAL_EXCEPTION.json",
+    "series/a-sisters-all-you-need/06 Evidence and Indexes/machine_readable/IMOSAE_REVIEWED_CHARACTER_DISCOVERY_EVIDENCE_HANDOFF.json",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_FIRST_PUBLICATION_COMPATIBILITY_TRANSFORMATION.json",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_FIRST_PUBLICATION_COMPATIBILITY_TRANSFORMATION.md",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_MAIN_SERIES_AUTHORITY_CAPABILITY_AND_BOUNDARY_AUDIT.md",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_MAIN_SERIES_INTEGRITY_AND_COMPLETENESS_REVIEW.json",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_MAIN_SERIES_INTEGRITY_AND_COMPLETENESS_REVIEW.md",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/contradiction_audits/IMOSAE_MAIN_SERIES_SEMANTIC_CHRONOLOGY_AND_COUNTERTHESIS_AUDIT.md",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/contradiction_audits/IMOSAE_V14_LEDGER_RECONCILIATION_VALIDATION.json",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/contradiction_audits/IMOSAE_V14_LEDGER_RECONCILIATION_VALIDATION.md",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/corpus_manifest/IMOSAE_MAIN_SERIES_RELEASE_MANIFEST.json",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/duplication_audits/IMOSAE_MAIN_SERIES_RESPONSIBILITY_AND_SUCCESSION_AUDIT.md",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/locator_validation/IMOSAE_V13-V14_CHECKPOINT_VALIDATION.json",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/locator_validation/IMOSAE_V13-V14_CHECKPOINT_VALIDATION.md",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/locator_validation/IMOSAE_V14_SOURCE_AND_READING_VALIDATION.json",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/locator_validation/IMOSAE_V14_SOURCE_AND_READING_VALIDATION.md",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/release_checksums/IMOSAE_MAIN_SERIES_RELEASE.sha256",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/source_audits/IMOSAE_MAIN_SERIES_SOURCE_AND_COORDINATE_AUDIT.json",
+    "series/a-sisters-all-you-need/08 Audits and Manifests/source_audits/IMOSAE_MAIN_SERIES_SOURCE_AND_COORDINATE_AUDIT.md",
+    "series/a-sisters-all-you-need/CURRENT_STATE_AND_CORPUS_MAP.md"
+  ],
+  "metadata": [
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/IMOSAE_SUPPLEMENTAL_SOURCE_INVENTORY_AND_ACQUISITION_PLAN.md",
+      "artifact_type": "source_inventory",
+      "scope": "supplemental_materials",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/Checkpoints/IMOSAE_V13-V14_END_STATE_CHECKPOINT.md",
+      "artifact_type": "checkpoint",
+      "scope": "V13-V14_end_state",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V14_DEEP_READING.md",
+      "artifact_type": "deep_reading",
+      "scope": "V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_CHARACTER_AND_RELATIONSHIP_STATE_LEDGER.md",
+      "artifact_type": "ledger",
+      "scope": "V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_CLAIM_REVISION_LEDGER.md",
+      "artifact_type": "claim_revision_ledger",
+      "scope": "V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_CREATIVE_LABOR_CAREER_AND_INDUSTRY_LEDGER.md",
+      "artifact_type": "ledger",
+      "scope": "V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_FAMILY_IDENTITY_AND_SIBLINGHOOD_LEDGER.md",
+      "artifact_type": "ledger",
+      "scope": "V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_FICTION_WITHIN_FICTION_GAMES_AND_INTERTEXT_LEDGER.md",
+      "artifact_type": "ledger",
+      "scope": "V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_JAPANESE_VOICE_STYLE_AND_TERMINOLOGY_LEDGER.md",
+      "artifact_type": "ledger",
+      "scope": "V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_OPEN_QUESTIONS_LEDGER.md",
+      "artifact_type": "ledger",
+      "scope": "V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_VISUAL_PARATEXT_AND_ILLUSTRATION_LEDGER.md",
+      "artifact_type": "ledger",
+      "scope": "V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_COMEDY_SEXUALITY_VULGARITY_AND_BOUNDARIES_SPECIALIST_SYNTHESIS.md",
+      "artifact_type": "specialist_synthesis",
+      "scope": "V01-V14_comedy_sexuality_vulgarity_and_boundaries",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_CREATIVE_LABOR_AUTHORSHIP_AND_LN_INDUSTRY_SPECIALIST_SYNTHESIS.md",
+      "artifact_type": "specialist_synthesis",
+      "scope": "V01-V14_creative_labor_authorship_and_LN_industry",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_FAMILY_SIBLINGHOOD_AND_IDENTITY_SPECIALIST_SYNTHESIS.md",
+      "artifact_type": "specialist_synthesis",
+      "scope": "V01-V14_family_siblinghood_and_identity",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_GAMES_TRPG_ALCOHOL_AND_SOCIAL_RITUAL_SPECIALIST_SYNTHESIS.md",
+      "artifact_type": "specialist_synthesis",
+      "scope": "V01-V14_games_TRPG_alcohol_and_social_ritual",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_ILLUSTRATION_PARATEXT_AND_MEDIA_REFLEXIVITY_SPECIALIST_SYNTHESIS.md",
+      "artifact_type": "specialist_synthesis",
+      "scope": "V01-V14_illustration_paratext_and_media_reflexivity",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_NARRATION_JAPANESE_VOICE_AND_INTERTEXT_SPECIALIST_SYNTHESIS.md",
+      "artifact_type": "specialist_synthesis",
+      "scope": "V01-V14_narration_Japanese_written_voice_and_intertext",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_RELATIONSHIPS_INTIMACY_FRIENDSHIP_AND_ADULT_LIFE_SPECIALIST_SYNTHESIS.md",
+      "artifact_type": "specialist_synthesis",
+      "scope": "V01-V14_relationships_intimacy_friendship_and_adult_life",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_TALENT_EFFORT_SUCCESS_FAILURE_AND_SELF_WORTH_SPECIALIST_SYNTHESIS.md",
+      "artifact_type": "specialist_synthesis",
+      "scope": "V01-V14_talent_effort_success_failure_and_self_worth",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_CHIHIRO_HASHIMA_MONOGRAPH_V01-V14.md",
+      "artifact_type": "character_monograph",
+      "scope": "CHIHIRO_HASHIMA_V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_ITSUKI_HASHIMA_MONOGRAPH_V01-V14.md",
+      "artifact_type": "character_monograph",
+      "scope": "ITSUKI_HASHIMA_V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_MIYAKO_SHIRAKAWA_MONOGRAPH_V01-V14.md",
+      "artifact_type": "character_monograph",
+      "scope": "MIYAKO_SHIRAKAWA_V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_NAYUTA_KANI_MONOGRAPH_V01-V14.md",
+      "artifact_type": "character_monograph",
+      "scope": "NAYUTA_KANI_V01-V14",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHARACTER_MODEL_EVIDENCE_AND_QA.md",
+      "artifact_type": "character_model_evidence_and_qa",
+      "scope": "V01-V14_project_local_models_and_recognition_limits",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHARACTER_READINESS_AUDIT.md",
+      "artifact_type": "character_readiness_audit",
+      "scope": "V01-V14_project_local_ensemble_readiness",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHARACTER_RECONSTRUCTION_PROTOCOL.md",
+      "artifact_type": "character_reconstruction_protocol",
+      "scope": "V01-V14_project_local_character_reconstruction",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_CHIHIRO_HASHIMA_RECONSTRUCTION_MODEL.md",
+      "artifact_type": "character_reconstruction_model",
+      "scope": "CHIHIRO_HASHIMA_V01-V14_actual_continuity",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_HARUTO_FUWA_RECONSTRUCTION_MODEL.md",
+      "artifact_type": "character_reconstruction_model",
+      "scope": "HARUTO_FUWA_V01-V14_actual_continuity",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_ITSUKI_HASHIMA_RECONSTRUCTION_MODEL.md",
+      "artifact_type": "character_reconstruction_model",
+      "scope": "ITSUKI_HASHIMA_V01-V14_actual_continuity",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_KENJIRO_TOKI_DOMAIN_MODEL.md",
+      "artifact_type": "character_reconstruction_model",
+      "scope": "KENJIRO_TOKI_V01-V14_editorial_and_work_linked_social_domains",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_MIYAKO_SHIRAKAWA_RECONSTRUCTION_MODEL.md",
+      "artifact_type": "character_reconstruction_model",
+      "scope": "MIYAKO_SHIRAKAWA_V01-V14_actual_continuity",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_NAYUTA_KANI_RECONSTRUCTION_MODEL.md",
+      "artifact_type": "character_reconstruction_model",
+      "scope": "NAYUTA_KANI_V01-V14_actual_continuity",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_RECOGNITION_AND_ABSTENTION_PROFILES.md",
+      "artifact_type": "character_recognition_profiles",
+      "scope": "V01-V14_source_significant_narrow_profiles_and_abstention",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_SECONDARY_CHARACTER_DOMAIN_MODELS.md",
+      "artifact_type": "character_reconstruction_model",
+      "scope": "V01-V14_secondary_ensemble_distinct_domain_models",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/05 Full-Series Synthesis/IMOSAE_COMPARATIVE_REFERENCE_AND_OPEN_QUESTIONS.md",
+      "artifact_type": "comparative_reference_and_open_questions",
+      "scope": "V01-V14_main_series_comparative_lenses_and_evidence_ceilings",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/05 Full-Series Synthesis/IMOSAE_CORE_CHARACTER_REFERENCE.md",
+      "artifact_type": "core_character_reference",
+      "scope": "V01-V14_verified_ensemble_reference",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/05 Full-Series Synthesis/IMOSAE_FULL_SERIES_SYNTHESIS.md",
+      "artifact_type": "full_series_synthesis",
+      "scope": "V01-V14_numbered_Japanese_main_series",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_ILLUSTRATION_LOCATOR_INDEX.md",
+      "artifact_type": "illustration_locator_index",
+      "scope": "V01-V14_classed_visual_retrieval_and_perception_scope",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md",
+      "artifact_type": "Japanese_passage_and_terminology_index",
+      "scope": "V01-V14_diagnostic_language_and_source_exceptions",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_PRIMARY_IDENTITY_AND_NORMALIZATION_ERRATA.md",
+      "artifact_type": "evidence_index",
+      "scope": "V01-V14_primary_identity_normalization_and_attribution_corrections",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_PRIMARY_SOURCE_LOCATOR_INDEX.md",
+      "artifact_type": "primary_source_locator_index",
+      "scope": "V01-V14_evidence_retrieval",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_REVIEWED_CHARACTER_DISCOVERY_EVIDENCE_HANDOFF.md",
+      "artifact_type": "reviewed_character_discovery_evidence_handoff",
+      "scope": "V01-V14_project_evidence_for_authorized_curation",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_SUPPLEMENT_CROSSWALK.md",
+      "artifact_type": "supplement_crosswalk",
+      "scope": "Numbered_mainline_release_and_explicit_external_deferrals",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+      "artifact_type": "volume_by_volume_evidence_ledger",
+      "scope": "V01-V14_retrieval_and_prospective_freeze_routes",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_FIRST_PUBLICATION_COMPATIBILITY_TRANSFORMATION.md",
+      "artifact_type": "first_publication_compatibility_transformation",
+      "scope": "Ten_new_unpublished_V1_artifacts_representation_only",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_MAIN_SERIES_AUTHORITY_CAPABILITY_AND_BOUNDARY_AUDIT.md",
+      "artifact_type": "authority_capability_and_source_boundary_audit",
+      "scope": "V01-V14_V1_release_and_project_local_reconstruction",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_MAIN_SERIES_INTEGRITY_AND_COMPLETENESS_REVIEW.md",
+      "artifact_type": "integrity_and_completeness_review",
+      "scope": "V01-V14_exact_analytical_release_payload",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/contradiction_audits/IMOSAE_MAIN_SERIES_SEMANTIC_CHRONOLOGY_AND_COUNTERTHESIS_AUDIT.md",
+      "artifact_type": "semantic_chronology_and_counterthesis_audit",
+      "scope": "V01-V14_load_bearing_claims_and_terminal_counterarguments",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/contradiction_audits/IMOSAE_V14_LEDGER_RECONCILIATION_VALIDATION.md",
+      "artifact_type": "audit",
+      "scope": "V14_eight_ledger_reconciliation",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/duplication_audits/IMOSAE_MAIN_SERIES_RESPONSIBILITY_AND_SUCCESSION_AUDIT.md",
+      "artifact_type": "responsibility_duplication_and_succession_audit",
+      "scope": "V1_main_series_mature_artifact_ownership",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/locator_validation/IMOSAE_V13-V14_CHECKPOINT_VALIDATION.md",
+      "artifact_type": "source_audit",
+      "scope": "V13-V14_checkpoint_freeze",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/locator_validation/IMOSAE_V14_SOURCE_AND_READING_VALIDATION.md",
+      "artifact_type": "source_audit",
+      "scope": "V14_prospective_reading_validation",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/source_audits/IMOSAE_MAIN_SERIES_SOURCE_AND_COORDINATE_AUDIT.md",
+      "artifact_type": "source_and_coordinate_audit",
+      "scope": "V01-V14_release_source_integrity_and_route_resolution",
+      "status": "canonical"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "artifact_type": "corpus_map",
+      "scope": "project_current_state",
+      "status": "canonical"
+    }
+  ],
+  "metadata_records_checked": 54,
+  "local_links_checked": 529,
+  "distinct_per_document_E_references_checked": 2434,
+  "unified_E_units": 3666,
+  "protected_history": [
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/Checkpoints/IMOSAE_V01-V03_CHECKPOINT.md",
+      "sha256": "fc0ee3d7803059ad7fcbb317333284533e8581c90a63b68d0fa64e2be5eff611",
+      "bytes": 50834,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/Checkpoints/IMOSAE_V04-V06_CHECKPOINT.md",
+      "sha256": "f8177b6f520eb43b31bc3f6cec0281cdaeb285c0a591824bbfa9fbf25d93e6f7",
+      "bytes": 46681,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/Checkpoints/IMOSAE_V07-V09_CHECKPOINT.md",
+      "sha256": "a7fce47d9d2a1a39c0e8cb4f739e1c49e02749fc00006153ef5d8c7bffab2e44",
+      "bytes": 70287,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/Checkpoints/IMOSAE_V10-V12_CHECKPOINT.md",
+      "sha256": "d276a1afd8a4e1947e6e8ee1145c5bfafde7e523cc74aeb89c15f97a7dfedf64",
+      "bytes": 65807,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V01_DEEP_READING.md",
+      "sha256": "d37b0837362138953c2ab61bcafa059ce2c8ddbb3ad21c9badda6337d1d5c866",
+      "bytes": 76628,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V02_DEEP_READING.md",
+      "sha256": "2e30c54b1dc6a2c232ceea4a2ad7f0c7b25280ec61a11898409a8057ce89e8e5",
+      "bytes": 92791,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V03_DEEP_READING.md",
+      "sha256": "7d341da769f2fefd7593dd1ed268ce231cb88c43e3da2b20facbeef6098eec7b",
+      "bytes": 110628,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V04_DEEP_READING.md",
+      "sha256": "0766d626b59c739f39a0186aa2572d738675db0f7a708412b661d97283a493b8",
+      "bytes": 95472,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V05_DEEP_READING.md",
+      "sha256": "c774aa3d56a210aa0cc81089872dbc832da62260adea8b45e569abf5d2c23434",
+      "bytes": 122806,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V06_DEEP_READING.md",
+      "sha256": "852ac4e1885b13931782817dabd6294c99261e998379cafc3f74e44c3c9d41cc",
+      "bytes": 92933,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V07_DEEP_READING.md",
+      "sha256": "eeeac9ada717f6ebfabd4f035c362abf62c85db8d8308d0d4b17e2cf9c4a2eaf",
+      "bytes": 86983,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V08_DEEP_READING.md",
+      "sha256": "dff1c5dac0eab9e186d36b39537643ca09a74db363fec07047697b86115fcf08",
+      "bytes": 114921,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V09_DEEP_READING.md",
+      "sha256": "d07415ff769f194cbe0b3ffbfd14be986098632e8fff31c75d8712734b62e49d",
+      "bytes": 156809,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V10_DEEP_READING.md",
+      "sha256": "6fa34b58b0396408ddd87e0423d10d0e5bffd4c334a19968a0ec09709236d4ad",
+      "bytes": 181092,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V11_DEEP_READING.md",
+      "sha256": "f009fd24ebe8e86b80b353d1ad12cb679af17dcfabca7fa2a659d9e39a6ce500",
+      "bytes": 159481,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V12_DEEP_READING.md",
+      "sha256": "a19308c8befb1b47bdd502561b70f885a2d18ff4ad03c6982c55128e4182ce89",
+      "bytes": 164308,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V13_DEEP_READING.md",
+      "sha256": "618831a4112c06ab4108e99cc64f7ec8b3ac7991916bcf9e751bab5a0be1611d",
+      "bytes": 211565,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_CHAR_KANI_NAYUTA_PROVISIONAL_MONOGRAPH_V01-V06.md",
+      "sha256": "0106ee7cc37e706678a1ef4800f6218ea6d7bad7eada46d7c8b81b5c7b8e4f28",
+      "bytes": 70873,
+      "result": "PASS"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_CHAR_KENJIRO_TOKI_PROVISIONAL_MONOGRAPH_V01-V06.md",
+      "sha256": "b2c9db225cbea44fa5e44a579cb91a3e443652a04ba463607a960c2b48a687bd",
+      "bytes": 77351,
+      "result": "PASS"
+    }
+  ],
+  "QA_cases": 58,
+  "QA_results": {
+    "PASS": 36,
+    "ABSTENTION_PASS": 16,
+    "REPAIRED_PASS": 6
+  },
+  "numbered_rule_references_checked": 54,
+  "completeness": {
+    "readings": 14,
+    "checkpoints": 5,
+    "ledgers": 8,
+    "mature_specialists": 8,
+    "terminals": 3,
+    "operational_subject_models": 17,
+    "mature_monographs": 4
+  },
+  "global_curated_outputs_unchanged": true,
+  "errors": [],
+  "limitations": "Mechanical integrity and routing; semantic review is separately recorded. No CI/integration result is claimed.",
+  "eight_ledgers_match_reviewed_Phase_B_transaction": true,
+  "publication_compatibility_transform": "Explicit new-artifact LF/opaque-ID corrections logged; nineteen historical bytes and RAW/NORM unchanged"
+}

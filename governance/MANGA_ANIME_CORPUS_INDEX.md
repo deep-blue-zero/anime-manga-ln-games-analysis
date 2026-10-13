@@ -31,7 +31,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Love Live! Superstar!!](../series/love-live-superstar/) — `series/love-live-superstar/`
 - [Lycoris Recoil](../series/lycoris-recoil/) — `series/lycoris-recoil/`
 - [Maebashi Witches](../series/maebashi-witches/) — `series/maebashi-witches/`
-- [Medalist / メダリスト](../series/medalist/) — `series/medalist/` — Japanese manga-primary INITIAL architecture awaiting owner review; sequential-analysis lock CLOSED. Seven cumulative schemas initialized with zero narrative findings/readings. Visible source metadata and unresolved source/admission boundaries are recorded in the canonical entrypoint.
+- [Medalist / メダリスト](../series/medalist/) — `series/medalist/` — Owner-approved Japanese manga-primary foundation; seven ledgers and one frozen reading per closed volume. EVOLVING architecture, OPEN project gate. Owner-authorized continuous run V02–V15 active from 2026-10-12 (publication ceiling V15 / Score 61); see the entrypoint for the committed high-water mark. Fanbooks held pending verified coverage; adaptation unadmitted.
 - [Monogatari Series](../series/monogatari-series/) — `series/monogatari-series/`
 - [Mushoku Tensei](../series/mushoku-tensei/) — `series/mushoku-tensei/` — Sequential analysis of the published Japanese light novels, with source locks, volume readings, six longitudinal ledgers and bounded reconstruction models. The canonical entrypoint records exact coverage, publication/audit gates and the authorized V15 terminal boundary; private primary evidence remains in Drive.
 - [My Hero Academia](../series/my-hero-academia/) — `series/my-hero-academia/`
@@ -49,6 +49,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
 - [Shokugeki no Soma](../series/shokugeki-no-soma/) — `series/shokugeki-no-soma/`
 - [Shuukura](../series/shuukura/) — `series/shuukura/`
+- [Silent Witch: Secrets of the Silent Witch](../series/silent-witch/) — `series/silent-witch/` — Owner-accepted Japanese-LN INITIAL foundation; V01 byte-locked with validated locators retained locally at owner direction. Day-one master ledger has zero narrative findings; sequential-analysis lock CLOSED. Primary and deterministic derived evidence remain outside Git.
 - [Solo Leveling](../series/solo-leveling/) — `series/solo-leveling/`
 - [Sound! Euphonium](../series/sound-euphonium/) — `series/sound-euphonium/`
 - [THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)](../series/the-idolmaster-cinderella-girls-2015-anime/) — `series/the-idolmaster-cinderella-girls-2015-anime/`
