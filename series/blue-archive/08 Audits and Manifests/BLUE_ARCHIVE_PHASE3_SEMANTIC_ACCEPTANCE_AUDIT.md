@@ -1,7 +1,7 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: semantic_acceptance_audit
-scope: "Current published source134/main133; Minato135 conditional after complete ROOT install101CHAR/16REL/5ENS/13INST;14named unchanged;355/29/25/384/788 unchanged;next178 unreached"
+scope: "Current ROOT-installed source139/14named; actual remote3495 source135/14named and main8cc 133/13named; new139 publication/CI unclaimed;355/29/25/384/788 fixed;next178 unreached"
 generation: V1
 version: "1.20"
 status: canonical
@@ -16,6 +16,26 @@ updated: 2026-10-13
 ---
 
 # Blue Archive Phase 3 — semantic acceptance of literary packages
+
+## Current four existing homes139 and verified remote135/main133 — 2026-10-13
+
+ROOT's completed current four existing-home acceptance and exact canonical installation yield139 persisted source-branch packages (103character,17directed relationship,5ensemble,14institution) and14 completed named duties. The four existing homes are Ami M039, Sammy M032, directed Odysseia–Sammy care and Odysseia institution; none adds a mandatory named section or a navigation responsibility. Actual published remote source3495ee6b4712c7ca4de25a75054d83863cccbf3f retains135 packages and14 named duties with ROOT-received complete exact-source SOURCE→HOUSEKEEPING→FINAL closure:301 mandatory SOURCE/FINAL tests, no selection, actual errors/failures/expected_failures/unexpected_successes/skipped all0, housekeeping no-op. Current main8cc68061d53b42c93dc4db22d70ab1e9ab520a68 retains133 packages and13 named duties. The local ordinary reconciliation af20ea775c7a774ae3cdce873570210329ebacdb/treeb63889e83c4db62e8384f99c136f4469a97e831d incorporates that main; this unpublished local merge and the new candidate are not certified green by remote3495's reports. The four new packages remain not remotely published or main-integrated and require their own actual publication and exact-source runtime witnesses. All135 earlier persisted packages, their accepted source meanings and complete original body/claim/rival/end/gap/receipt payloads remain preserved; earlier operational row fields are dated snapshots qualified by this current view. PR151 and PR152's seven corrections/43 retained-field qualifications, all133 source-consistency corrections and full inverse chains remain governing. Required355 packages/29 named duties across25 parents/384 homes and788 heterogeneous navigation rows stay fixed; first89 history stays complete, next178 UNREACHED, all14 original claim-specific gaps OPEN and models0. Ordinary rest, food, craft, toys, taste, reading, wanted fishing and company retain intrinsic ends; source-local agency, uncertainty and uncompleted outcomes do not become blanket consent or global absence. No source admission, primary/native/raw/AV, performed-voice, private identity join, registry/generated output, model or additional named/navigation credit is created by metadata. PR158 remains OPEN_DRAFT_HOLD before178; merge approval remains reserved. ROOT alone authorizes activation, installation and publication.
+
+| Existing home | Complete current analytical object | ROOT current receiving route |
+|---|---|---|
+| P3-CHAR-M039 | [Tomoshita Ami: deputy coordination, independent answers and finite care](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_TOMOSHITA_AMI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md) | [ROOT current receiving](BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json) |
+| P3-CHAR-M032 | [Sammy: represented animal agency, familiarity and bounded farewell](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_SAMMY_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md) | [ROOT current receiving](BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json) |
+| P3-REL-ODYSSEIA-SAMMY-CARE | [Odysseia and Sammy: directed care, clinical urgency and survivor responsibility](../04%20Specialist%20Synthesis/Relationship%20Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md) | [ROOT current receiving](BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) |
+| P3-INST-ODYSSEIA | [Odysseia: shared life and unequal decisions](../04%20Specialist%20Synthesis/Institutional%20Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md) | [ROOT current receiving](BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODYSSEIA_INSTITUTION_ROOT_CURRENT_COMPLETE_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json) |
+
+The declared ROOT receiving routes require their actual current final tuple bindings before activation; this preparation does not assert that a future repository object already exists. Earlier source134/Minato135 pending-operation paragraphs below remain verbatim dated capture history, qualified by this current view. Their original literary decisions, source extents, actor/mode limits and full inverse chains remain governing.
+
+### Retained complete prior frontmatter scope
+
+```text
+scope: "Current published source134/main133; Minato135 conditional after complete ROOT install101CHAR/16REL/5ENS/13INST;14named unchanged;355/29/25/384/788 unchanged;next178 unreached"
+```
+
 
 ## Current published GSC134 and conditional Minato135 — 2026-10-13
 

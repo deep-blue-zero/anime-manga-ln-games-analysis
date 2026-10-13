@@ -28,7 +28,7 @@
  ],
  "main43_retrieval_witnesses": "COMPLETE_ARGUMENT_AND_SOURCE_SCOPED_DISPOSITION_ACCEPTED_WITH_LIMITS",
  "quarter_reached": true,
- "progress_percentage": "NOT_REPORTED;CURRENT_PUBLISHED_SOURCE134_MAIN133;AFTER_COMPLETE_ROOT_MINATO_INSTALL135_NAMED14;NEXT178_UNREACHED;355_29_25_384_788_UNCHANGED",
+ "progress_percentage": "NOT_REPORTED;CURRENT_INSTALLED_SOURCE139_REMOTE_PUBLISHED135_MAIN133;NAMED14_SOURCE_13_MAIN;NEXT178_UNREACHED;355_29_25_384_788_UNCHANGED",
  "opening_candidate_responsibility_rows": 761,
  "new_source_local_or_non_character_headers": 27,
  "completed_owner_roster_reviews": 105,
@@ -48,7 +48,7 @@
   "P3-XMI-R001"
  ],
  "initial_761_still_pending_rows": 0,
- "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29_25PARENTS_ACCEPTED_WITH_LIMITS;FIRST89_MILESTONE_COMPLETE;CURRENT_PUBLISHED_SOURCE134_MAIN133;MINATO135_CONDITIONAL_AFTER_COMPLETE_ROOT_INSTALL;NEXT178_UNREACHED",
+ "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29_25PARENTS_ACCEPTED_WITH_LIMITS;FIRST89_HISTORY_COMPLETE;AFTER_COMPLETE_FOUR_ROOT_INSTALL_SOURCE139;ACTUAL_REMOTE135_MAIN133;NEXT178_UNREACHED",
  "accepted_literary_character_packages": [
     "Asuna",
     "Toki",
@@ -150,7 +150,9 @@
     "Heine: uncertain recollection, cooperative work and uncompleted private wants",
     "Kaya: coercive prescriptions, fallible authority and wanted company",
     "Rin: answerable obligation, ordinary pleasure and unfinished inquiry",
-    "Umiji Minato: captaincy, hospitality and choosing a farewell"
+    "Umiji Minato: captaincy, hospitality and choosing a farewell",
+    "Tomoshita Ami: deputy coordination, independent answers and finite care",
+    "Sammy: represented animal agency, familiarity and bounded farewell"
   ],
  "millennium_v2_eligibility_arguments_adopted": [
   "Akane",
@@ -176,10 +178,10 @@
   "P3-XMI-R004",
   "P3-XMI-R005"
  ],
- "package_tracking_rows": 159,
- "completed_literary_packages": 135,
- "completed_literary_character_packages": 101,
- "completed_literary_directed_relationship_packages": 16,
+ "package_tracking_rows": 163,
+ "completed_literary_packages": 139,
+ "completed_literary_character_packages": 103,
+ "completed_literary_directed_relationship_packages": 17,
  "accepted_literary_directed_relationship_packages": [
   "Noa–Yuuka: privacy, memory and wanted company",
   "Meg–Kasumi: craft, care and leverage",
@@ -196,7 +198,8 @@
   "Fuuka–Juri: reciprocal care, reassurance and unequal burden",
   "Gourmet Club and Fuuka: requests, refusals and new agreements",
   "Kayoko–Ako: PS68 and Pandemonium boundaries",
-  "Haruka, Aru and Mutsuki: repayment, recognition and independent wants"
+  "Haruka, Aru and Mutsuki: repayment, recognition and independent wants",
+    "Odysseia and Sammy: directed care, clinical urgency and survivor responsibility"
  ],
  "historical_pre_full_scope_frontier": {
   "eligible_package_denominator": "NOT_YET_FIXED; complete census adjudication required before progress thresholds",
@@ -252,8 +255,8 @@
   "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_DISPOSITIONS_PART_02_V3.json"
  ],
  "required_package_index_rows": 355,
- "legacy_package_tracking_rows": 159,
- "canonical_persistence_qualification": "Current verified source 130b9c1c230c928601041b9b8ef4f013d44b24e7 contains134 published packages and14 completed named duties; integrated main 0ed395926cca502fe1461d8c172330baab99e70e contains133 packages and13 named duties. GSC is published on the source branch with its exact-source SOURCE→HOUSEKEEPING→FINAL chain (301 mandatory SOURCE/FINAL tests, no selection; actual report counters errors, failures, expected_failures, unexpected_successes and skipped all0; HOUSEKEEPING no-op; FINAL38336834567). GSC remains unintegrated on main. This updates operational publication status only and adds no second GSC literary credit. ROOT has accepted the183-line Minato V4 argument WITH LIMITS and individually received all105 Minato-specific questions at26 contributor complete-normal and79 selected connected-account extents; ROOT report receiving and19 core-source extents stay separately attributed. Complete ROOT installation of this reviewed candidate will yield135 local packages (101character,16directed relationship,5ensemble,13institution), with14 completed named duties unchanged. Minato P3-CHAR-M040 has no mandatory named section, is not yet remotely published or integrated, and needs its own actual installation/readback and fresh exact-head publication chain. No future head/CI pass is asserted. Required355 packages/29 named duties across25 parents/384 homes and788 heterogeneous navigation rows are unchanged. First89 milestone history remains complete, next178 unreached, all14 original claim-specific gaps OPEN, models0. Frozen V3/57 IDs,51 unchanged claim texts,6 current successors and the new institutional paragraph retain full original/current bindings and inverse; the actual18 batch receipts plus ownO000/O036/O037 cover105 distinct owners. PR151, PR152 seven corrections43 fields, all133 current qualifications and every frozen source/receipt/rival/end/gap decision remain governing. Ordinary food, rest, craft, art, reading, company and recipients’ willingness/refusal retain intrinsic ends. No primary/native/raw/AV/source-admission/private identity/model or parent-completion credit is added. Sammy, Odysseia, the claimant and GSC/M008 questions remain separate. ROOT alone installs and publishes; merge approval remains reserved.",
+ "legacy_package_tracking_rows": 163,
+ "canonical_persistence_qualification": "ROOT's completed current four existing-home acceptance and exact canonical installation yield139 persisted source-branch packages (103character,17directed relationship,5ensemble,14institution) and14 completed named duties. The four existing homes are Ami M039, Sammy M032, directed Odysseia–Sammy care and Odysseia institution; none adds a mandatory named section or a navigation responsibility. Actual published remote source3495ee6b4712c7ca4de25a75054d83863cccbf3f retains135 packages and14 named duties with ROOT-received complete exact-source SOURCE→HOUSEKEEPING→FINAL closure:301 mandatory SOURCE/FINAL tests, no selection, actual errors/failures/expected_failures/unexpected_successes/skipped all0, housekeeping no-op. Current main8cc68061d53b42c93dc4db22d70ab1e9ab520a68 retains133 packages and13 named duties. The local ordinary reconciliation af20ea775c7a774ae3cdce873570210329ebacdb/treeb63889e83c4db62e8384f99c136f4469a97e831d incorporates that main; this unpublished local merge and the new candidate are not certified green by remote3495's reports. The four new packages remain not remotely published or main-integrated and require their own actual publication and exact-source runtime witnesses. All135 earlier persisted packages, their accepted source meanings and complete original body/claim/rival/end/gap/receipt payloads remain preserved; earlier operational row fields are dated snapshots qualified by this current view. PR151 and PR152's seven corrections/43 retained-field qualifications, all133 source-consistency corrections and full inverse chains remain governing. Required355 packages/29 named duties across25 parents/384 homes and788 heterogeneous navigation rows stay fixed; first89 history stays complete, next178 UNREACHED, all14 original claim-specific gaps OPEN and models0. Ordinary rest, food, craft, toys, taste, reading, wanted fishing and company retain intrinsic ends; source-local agency, uncertainty and uncompleted outcomes do not become blanket consent or global absence. No source admission, primary/native/raw/AV, performed-voice, private identity join, registry/generated output, model or additional named/navigation credit is created by metadata. PR158 remains OPEN_DRAFT_HOLD before178; merge approval remains reserved. ROOT alone authorizes activation, installation and publication.",
  "source_units_in_selected_public_census": 1107,
  "literal_source_local_header_routes": 8326,
  "literal_choice_routes": 742,
@@ -269,12 +272,12 @@
   "Pandemonium–Ibuki: different directions of company and care",
   "Gourmet Club: differentiated pleasure and unreliable mutual care"
  ],
- "quarter_reached_qualification": "First89 milestone history remains complete. Current source130b9 GSC134 exact full301 SOURCE→HOUSEKEEPING(no-op)→FINAL chain is ROOT accepted; current main0ed contains133 integrated packages. Minato V4/105 purpose meanings are accepted WITH LIMITS; exact companion receiving/install/publication remain their separate gates. Next178 remains unreached.",
+ "quarter_reached_qualification": "First89 milestone history remains complete. Actual published remote3495 has135 packages and14 named duties with ROOT-received exact complete301 SOURCE/HOUSEKEEPING-no-op/FINAL closure; main8cc retains133/13. Complete accepted four-home installation yields139/14 without new named duties; new publication chain and next178 remain pending. No unpublished af20/newcandidate green claim.",
  "goal_quarter_milestone_complete": true,
  "goal_quarter_milestone_remaining_prerequisites": [],
- "currently_source_published_packages_before_successor_publication": 134,
- "main_integration": "CURRENT_MAIN133_0ed395926cca502fe1461d8c172330baab99e70e;GSC134_PUBLISHED_SOURCE_130b9c1c230c928601041b9b8ef4f013d44b24e7_EXACT_FULL301_CHAIN_PASS_NOT_YET_MAIN_INTEGRATED;MINATO135_CONDITIONAL_COMPLETE_ROOT_INSTALL_NOT_YET_PUBLISHED_NOT_YET_INTEGRATED;MERGE_APPROVAL_RESERVED",
- "completed_literary_institution_packages": 13,
+ "currently_source_published_packages_before_successor_publication": 135,
+ "main_integration": "CURRENT_MAIN133_8cc68061d53b42c93dc4db22d70ab1e9ab520a68;ACTUAL_REMOTE_SOURCE135_3495ee6b4712c7ca4de25a75054d83863cccbf3f_EXACT_FULL301_SOURCE_CHAIN_ROOT_RECEIVED;AFTER_COMPLETE_FOUR_ROOT_INSTALL_LOCAL_SOURCE139;FOUR_NEW_PACKAGES_NOT_YET_PUBLISHED_NOT_YET_INTEGRATED;PR158_OPEN_DRAFT_HOLD;MERGE_APPROVAL_RESERVED",
+ "completed_literary_institution_packages": 14,
  "accepted_literary_institution_packages": [
   "Justice Task Force: work, leisure and answerability",
   "Engineering: craft, clients and recipient constraints",
@@ -288,7 +291,8 @@
   "Hot Springs Development Department: work and answering recipients",
   "PS68: command, finance, responsibility and contested belonging",
   "Gehenna: freedom, labor, protection and recipient answerability",
-  "GSC and Schale: finite administration and contested legitimacy"
+  "GSC and Schale: finite administration and contested legitimacy",
+    "Odysseia: shared life and unequal decisions"
  ],
  "goal_quarter_milestone_ROOT_control": {
   "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
@@ -1579,5 +1583,317 @@
     "frozen_history": "All prior133/134 preparation/runtime objects, PR151, PR152 seven corrections43 fields, all133 source-consistency payloads and GSC purpose qualifiers retained unchanged.",
     "parent_separation": "Sammy directed care, Odysseia institution, claimant, GSC practical-care/differentiated-work and M008 retain separate full responsibilities.",
     "candidate_installs_or_publishes_nothing": true
+  },
+ "prior135_current_top_fields_and_arrays_retained_as_dated_history_20261013_four_existing_homes_v1": {
+  "exact_beforeimage_tuple": {
+    "bytes": 80396,
+    "sha256": "5479c424a813ec3534b28a104f5449f0f8775badcf88ed50bdf99442666bf81e",
+    "git_blob_oid_of_actual_bytes": "3e5eb6e3b2442ff6e8ee800dba940efced285612"
+  },
+  "local_current_snapshot": "c600754976b6c53278d6136045d098904962d7af",
+  "complete_original_values": {
+    "completed_literary_packages": 135,
+    "completed_literary_character_packages": 101,
+    "completed_literary_directed_relationship_packages": 16,
+    "completed_literary_institution_packages": 13,
+    "package_tracking_rows": 159,
+    "legacy_package_tracking_rows": 159,
+    "currently_source_published_packages_before_successor_publication": 134,
+    "progress_percentage": "NOT_REPORTED;CURRENT_PUBLISHED_SOURCE134_MAIN133;AFTER_COMPLETE_ROOT_MINATO_INSTALL135_NAMED14;NEXT178_UNREACHED;355_29_25_384_788_UNCHANGED",
+    "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29_25PARENTS_ACCEPTED_WITH_LIMITS;FIRST89_MILESTONE_COMPLETE;CURRENT_PUBLISHED_SOURCE134_MAIN133;MINATO135_CONDITIONAL_AFTER_COMPLETE_ROOT_INSTALL;NEXT178_UNREACHED",
+    "canonical_persistence_qualification": "Current verified source 130b9c1c230c928601041b9b8ef4f013d44b24e7 contains134 published packages and14 completed named duties; integrated main 0ed395926cca502fe1461d8c172330baab99e70e contains133 packages and13 named duties. GSC is published on the source branch with its exact-source SOURCE→HOUSEKEEPING→FINAL chain (301 mandatory SOURCE/FINAL tests, no selection; actual report counters errors, failures, expected_failures, unexpected_successes and skipped all0; HOUSEKEEPING no-op; FINAL38336834567). GSC remains unintegrated on main. This updates operational publication status only and adds no second GSC literary credit. ROOT has accepted the183-line Minato V4 argument WITH LIMITS and individually received all105 Minato-specific questions at26 contributor complete-normal and79 selected connected-account extents; ROOT report receiving and19 core-source extents stay separately attributed. Complete ROOT installation of this reviewed candidate will yield135 local packages (101character,16directed relationship,5ensemble,13institution), with14 completed named duties unchanged. Minato P3-CHAR-M040 has no mandatory named section, is not yet remotely published or integrated, and needs its own actual installation/readback and fresh exact-head publication chain. No future head/CI pass is asserted. Required355 packages/29 named duties across25 parents/384 homes and788 heterogeneous navigation rows are unchanged. First89 milestone history remains complete, next178 unreached, all14 original claim-specific gaps OPEN, models0. Frozen V3/57 IDs,51 unchanged claim texts,6 current successors and the new institutional paragraph retain full original/current bindings and inverse; the actual18 batch receipts plus ownO000/O036/O037 cover105 distinct owners. PR151, PR152 seven corrections43 fields, all133 current qualifications and every frozen source/receipt/rival/end/gap decision remain governing. Ordinary food, rest, craft, art, reading, company and recipients’ willingness/refusal retain intrinsic ends. No primary/native/raw/AV/source-admission/private identity/model or parent-completion credit is added. Sammy, Odysseia, the claimant and GSC/M008 questions remain separate. ROOT alone installs and publishes; merge approval remains reserved.",
+    "quarter_reached_qualification": "First89 milestone history remains complete. Current source130b9 GSC134 exact full301 SOURCE→HOUSEKEEPING(no-op)→FINAL chain is ROOT accepted; current main0ed contains133 integrated packages. Minato V4/105 purpose meanings are accepted WITH LIMITS; exact companion receiving/install/publication remain their separate gates. Next178 remains unreached.",
+    "main_integration": "CURRENT_MAIN133_0ed395926cca502fe1461d8c172330baab99e70e;GSC134_PUBLISHED_SOURCE_130b9c1c230c928601041b9b8ef4f013d44b24e7_EXACT_FULL301_CHAIN_PASS_NOT_YET_MAIN_INTEGRATED;MINATO135_CONDITIONAL_COMPLETE_ROOT_INSTALL_NOT_YET_PUBLISHED_NOT_YET_INTEGRATED;MERGE_APPROVAL_RESERVED",
+    "accepted_literary_character_packages": [
+      "Asuna",
+      "Toki",
+      "Karin",
+      "Yuuka",
+      "Mika",
+      "Nagisa",
+      "Seia",
+      "Nonomi",
+      "Ayane",
+      "Serika",
+      "Azusa",
+      "Hifumi",
+      "Hanako",
+      "Hoshino",
+      "Shiroko",
+      "Subaru",
+      "Koharu",
+      "Ui",
+      "Hinata",
+      "Hasumi",
+      "Atsuko",
+      "Tsurugi",
+      "Saori",
+      "Mashiro",
+      "Misaki",
+      "Hiyori",
+      "Ichika",
+      "Hina",
+      "Aru",
+      "Mutsuki",
+      "Akane",
+      "Kayoko",
+      "Neru",
+      "Haruka",
+      "Noa",
+      "Fuuka",
+      "Juri",
+      "Ako",
+      "Haruna",
+      "Izumi",
+      "Koyuki",
+      "Iori",
+      "Akari",
+      "Junko",
+      "Chihiro",
+      "Hare",
+      "Kasumi",
+      "Meg",
+      "Kotama",
+      "Chinatsu",
+      "Makoto",
+      "Ibuki",
+      "Satsuki",
+      "Iroha",
+      "Maki",
+      "Sena",
+      "Chiaki",
+      "Kirara",
+      "Utaha",
+      "Hibiki",
+      "Erika",
+      "Kotori",
+      "Serina",
+      "Suzumi",
+      "Hanae",
+      "Reisa",
+      "Mine",
+      "Shimiko",
+      "Mari",
+      "Sakurako",
+      "Airi",
+      "Kazusa",
+      "Shizuko",
+      "Fina",
+      "Umika",
+      "Natsu",
+      "Yoshimi",
+      "Kanna",
+      "Fubuki",
+      "Nodoka",
+      "Kirino",
+      "Shigure",
+      "Mel",
+      "Momiji",
+      "Cherino",
+      "Tomoe",
+      "Marina",
+      "Kisaki",
+      "Rumi",
+      "Reijo",
+      "Saya",
+      "Mina",
+      "Kokona",
+      "Shun",
+      "Kaguya: Shanhaijing source-scoped character",
+      "Rigatoni: source-scoped impunity, hostages, answering actors and bounded arrest",
+      "Aoi: differentiated accounts, resource decisions and finite rest",
+      "Heine: uncertain recollection, cooperative work and uncompleted private wants",
+      "Kaya: coercive prescriptions, fallible authority and wanted company",
+      "Rin: answerable obligation, ordinary pleasure and unfinished inquiry",
+      "Umiji Minato: captaincy, hospitality and choosing a farewell"
+    ],
+    "accepted_literary_directed_relationship_packages": [
+      "Noa–Yuuka: privacy, memory and wanted company",
+      "Meg–Kasumi: craft, care and leverage",
+      "Kirara–Erika: exploration, privacy and broadcasting",
+      "Kazusa–Reisa: company, refusal and directed boundaries",
+      "Sora–customers–Sensei: recognition within paid routine",
+      "Mel–Momiji: craft, privacy and reciprocal correction",
+      "Shanhaijing Rumi: particular care and different answers",
+      "Mina–Reijo: craft, accusations and incomplete correction",
+      "Shun–Kokona: wanted closeness and unequal care",
+      "Reijo–Kaguya: rival crafts and answering recipients",
+      "Saya and recipients: care, inquiry and technical limits",
+      "Hina–Ako: service and independent wants",
+      "Fuuka–Juri: reciprocal care, reassurance and unequal burden",
+      "Gourmet Club and Fuuka: requests, refusals and new agreements",
+      "Kayoko–Ako: PS68 and Pandemonium boundaries",
+      "Haruka, Aru and Mutsuki: repayment, recognition and independent wants"
+    ],
+    "accepted_literary_institution_packages": [
+      "Justice Task Force: work, leisure and answerability",
+      "Engineering: craft, clients and recipient constraints",
+      "C&C: student operative labor and chosen occupation",
+      "Valkyrie: duty, rest and independent recipients; substantial Misuzu role",
+      "Genryumon: tradition and unchosen office",
+      "Meihua: care, time and independent recipients",
+      "Prefect Team: protection, information and force",
+      "School Lunch: work, resources and answering recipients",
+      "Pandemonium Society: roles, resources and selective care",
+      "Hot Springs Development Department: work and answering recipients",
+      "PS68: command, finance, responsibility and contested belonging",
+      "Gehenna: freedom, labor, protection and recipient answerability",
+      "GSC and Schale: finite administration and contested legitimacy"
+    ]
+  },
+  "role": "Complete prior current135/prepublication source134 runtime mutable fields kept as historical beforeimages. Their semantic/source limits stay operative; only current counts/publication-stage routing are qualified by the current139 boundary."
+},
+ "current139_four_existing_home_ROOT_adoption_and_persistence_boundary_20261013_v1": {
+  "schema": "CURRENT139_FOUR_EXISTING_HOME_ACCEPTANCE_AND_PERSISTENCE_BOUNDARY_V1",
+  "status": "ROOT_CURRENT_SOURCE_BRANCH139_WITH_LIMITS_AFTER_COMPLETE_ACCEPTANCE_AND_EXACT_INSTALLATION",
+  "after_complete_ROOT_install_packages": 139,
+  "after_install_kind_counts": {
+    "CHARACTER": 103,
+    "DIRECTED_RELATIONSHIP": 17,
+    "ENSEMBLE": 5,
+    "INSTITUTION": 14
+  },
+  "completed_named_duties": 14,
+  "four_existing_homes": [
+    "P3-CHAR-M039",
+    "P3-CHAR-M032",
+    "P3-REL-ODYSSEIA-SAMMY-CARE",
+    "P3-INST-ODYSSEIA"
+  ],
+  "mandatory_named_section_ids_for_each_four": "",
+  "named_and_navigation_indexes": "EXCLUDED_UNCHANGED",
+  "actual_preinstallation_local_HEAD": "af20ea775c7a774ae3cdce873570210329ebacdb",
+  "actual_preinstallation_local_tree": "b63889e83c4db62e8384f99c136f4469a97e831d",
+  "actual_published_remote_source": "3495ee6b4712c7ca4de25a75054d83863cccbf3f",
+  "actual_published_remote_source_packages": 135,
+  "actual_published_remote_source_named_duties": 14,
+  "actual_current_main": "8cc68061d53b42c93dc4db22d70ab1e9ab520a68",
+  "actual_current_main_packages": 133,
+  "actual_current_main_named_duties": 13,
+  "runtime_attribution": "ROOT-reported exact3495 chain is closed with full301 SOURCE/FINAL and housekeeping no-op. Metadata author inspected no Git/provider execution and transfers no pass to unpublished c600 or this candidate.",
+  "unpublished_local_reconciliation_and_newcandidate_runtime": "NOT_CERTIFIED_GREEN;NO_FUTURE_HEAD_OR_FULL_AUDIT_RESULTS_ASSERTED",
+  "four_new_package_remote_publication": "NOT_YET_PUBLISHED",
+  "four_new_package_main_integration": "NOT_YET_INTEGRATED",
+  "ROOT_receiving_final_current_bindings": [
+  {
+    "existing_home": "P3-CHAR-M039",
+    "primary_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOMOSHITA_AMI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "current_primary_body_tuple": {
+      "bytes": 32462,
+      "sha256": "9fb184bf938e53884cd9cf9a8a17a2ff0a3db27a02e21269e69269382dd1b1bd",
+      "git_blob_oid_of_actual_bytes": "df2042cc47acf76872507a043bc935ab824865ea"
+    },
+    "ROOT_declared_future_acceptance_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+    "current_role": "ACTUAL_SAVED_PUBLIC_CANDIDATE_SEMANTIC_ADOPTION_AND_ROOT_COMPLETE_COMPOSITION_REVIEW_BOUND;R_INSTALLATION_SEPARATE_PENDING",
+    "actual_final_ROOT_receiving_tuple": {
+      "bytes": 11750,
+      "sha256": "1202950f00a5318344643d15920ba969b5d7d54aa85f4de2fe8710d371f57a97",
+      "git_blob_oid_of_actual_bytes": "4dc64eddf866d24715eeeab2b736ef90fda50bc7"
+    },
+    "actual_final_ROOT_receiving_git_blob_oid": "4dc64eddf866d24715eeeab2b736ef90fda50bc7",
+    "actual_final_independent_current_argument_component_QA_tuple": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_INDEPENDENT_CURRENT_COMPLETE_BODY_ALL105_AND_PRESERVATION_REVIEW_V1.json",
+      "bytes": 240402,
+      "sha256": "e446122f7b2ab4ad002385275642cc67243076a2142378af8779148476871309",
+      "git_blob_oid_of_actual_bytes": "3aacf0e51bc65a62858053d3d30fd90c47e7ea03"
+    },
+    "current_receiving_state": "COMPLETE_ROOT_LITERARY_PURPOSE_AND_PUBLIC_COMPOSITION_RECEIVING_WITH_LIMITS;PHYSICAL_INSTALLATION_PENDING",
+    "stated_current_version_scope": "Ami currentV4 oneAP021 reporter successor,unchangedbody32462,completeindependentV2V3V4 history and105 purposes"
+  },
+  {
+    "existing_home": "P3-CHAR-M032",
+    "primary_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAMMY_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "current_primary_body_tuple": {
+      "bytes": 24887,
+      "sha256": "b3a06892f5078b34a6b307e6daaa0d17ea48dc7935b86e739830493ce543487f",
+      "git_blob_oid_of_actual_bytes": "62b2f9d19a95959843eb9b33c9b82de4732920d7"
+    },
+    "ROOT_declared_future_acceptance_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+    "current_role": "ACTUAL_SAVED_PUBLIC_CANDIDATE_SEMANTIC_ADOPTION_AND_ROOT_COMPLETE_COMPOSITION_REVIEW_BOUND;R_INSTALLATION_SEPARATE_PENDING",
+    "actual_final_ROOT_receiving_tuple": {
+      "bytes": 7587,
+      "sha256": "9ff257803e0b3e92ff466c8734fb37a38f408a2d2d96dd02c984471efb9beae7",
+      "git_blob_oid_of_actual_bytes": "b3e79adb2e24929a2745d33fdf9fd97e0ae09797"
+    },
+    "actual_final_ROOT_receiving_git_blob_oid": "b3e79adb2e24929a2745d33fdf9fd97e0ae09797",
+    "actual_final_independent_current_argument_component_QA_tuple": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_INDEPENDENT_CURRENT_BODY_ALL105_AND_PRESERVATION_REVIEW_V1.json",
+      "bytes": 213951,
+      "sha256": "723b7aff18148c28bf2b208e24f09624282e2e67c6296101a912452b1f409570",
+      "git_blob_oid_of_actual_bytes": "83814ebf964fd0939150d857f74472228bd04ddf"
+    },
+    "current_receiving_state": "COMPLETE_ROOT_LITERARY_PURPOSE_AND_PUBLIC_COMPOSITION_RECEIVING_WITH_LIMITS;PHYSICAL_INSTALLATION_PENDING",
+    "stated_current_version_scope": "Sammy unchanged accepted body22claims and105purposes;currentexact10V2 complete review/root/transport"
+  },
+  {
+    "existing_home": "P3-REL-ODYSSEIA-SAMMY-CARE",
+    "primary_repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+    "current_primary_body_tuple": {
+      "bytes": 26647,
+      "sha256": "19a7b0aab2f1096ad798d4a5b237035203190bf9cb1d2b8494a234bcaa062aca",
+      "git_blob_oid_of_actual_bytes": "618974b1a809b5a561be48dee4e76b59af561321"
+    },
+    "ROOT_declared_future_acceptance_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "current_role": "ACTUAL_SAVED_PUBLIC_CANDIDATE_SEMANTIC_ADOPTION_AND_ROOT_COMPLETE_COMPOSITION_REVIEW_BOUND;R_INSTALLATION_SEPARATE_PENDING",
+    "actual_final_ROOT_receiving_tuple": {
+      "bytes": 12718,
+      "sha256": "58fa5861fa0cbac6e1ea44d26c838f32ec24c48278e03bcd12982a84cfdf37d2",
+      "git_blob_oid_of_actual_bytes": "767094b5b01342f39364e6653ec06c44b3d64ee4"
+    },
+    "actual_final_ROOT_receiving_git_blob_oid": "767094b5b01342f39364e6653ec06c44b3d64ee4",
+    "actual_final_independent_current_argument_component_QA_tuple": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_CURRENT_COMPLETE_INDEPENDENT_REVIEW_V1.json",
+      "bytes": 150777,
+      "sha256": "79e1660b4d67e40d7f35da30a042488c18912ee744d7f71ecf7f442cc9aaf7ea",
+      "git_blob_oid_of_actual_bytes": "e0234fec9e50cd3620ed517f3f87fb63e21fead7"
+    },
+    "current_receiving_state": "COMPLETE_ROOT_LITERARY_PURPOSE_AND_PUBLIC_COMPOSITION_RECEIVING_WITH_LIMITS;PHYSICAL_INSTALLATION_PENDING",
+    "stated_current_version_scope": "CARE currentV4 allfiveprecisions;accepted41claims20contexts105purpose andcompleteV2V3lateV3V4history"
+  },
+  {
+    "existing_home": "P3-INST-ODYSSEIA",
+    "primary_repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md",
+    "current_primary_body_tuple": {
+      "bytes": 33349,
+      "sha256": "99fa75c73f38f08d79d6d1da8d79bac6b48aee3a4651103e220d8a9bc1714a26",
+      "git_blob_oid_of_actual_bytes": "4099606621ba8f7d18ba2f44b0a64143b4ef468f"
+    },
+    "ROOT_declared_future_acceptance_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODYSSEIA_INSTITUTION_ROOT_CURRENT_COMPLETE_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+    "current_role": "ACTUAL_SAVED_PUBLIC_CANDIDATE_SEMANTIC_ADOPTION_AND_ROOT_COMPLETE_COMPOSITION_REVIEW_BOUND;R_INSTALLATION_SEPARATE_PENDING",
+    "actual_final_ROOT_receiving_tuple": {
+      "bytes": 11228,
+      "sha256": "f80051b260bdd43d88de3d2ed560dcedd393caf3850e8798c2147bb5ff2e2d17",
+      "git_blob_oid_of_actual_bytes": "e53f3bb138d726f34ba02751c420341a4c1ef7c0"
+    },
+    "actual_final_ROOT_receiving_git_blob_oid": "e53f3bb138d726f34ba02751c420341a4c1ef7c0",
+    "actual_final_independent_current_argument_component_QA_tuple": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODYSSEIA_INSTITUTION_CURRENT_COMPLETE_INDEPENDENT_BODY_PURPOSE_AND_PRESERVATION_REVIEW_V1.json",
+      "bytes": 363132,
+      "sha256": "aa239287e1511402be75b48b31fefe283e22f9b601e6622d4b5043cfd95990b5",
+      "git_blob_oid_of_actual_bytes": "293d6abe9094e95d7a5550b566597b12fc4680bb"
+    },
+    "current_receiving_state": "COMPLETE_ROOT_LITERARY_PURPOSE_AND_PUBLIC_COMPOSITION_RECEIVING_WITH_LIMITS;PHYSICAL_INSTALLATION_PENDING",
+    "stated_current_version_scope": "ROOT currentbody33349/173 oneLFformat-onlysuccessor;all36claims105purposesunchanged;full174priorQA andcurrentdelta accepted"
   }
+],
+  "received_source_and_argument_scope": "Each existing home retains its current independently reviewed full argument and105 target-specific purpose fields at actual analytical/report receiving grades. ROOT and individual author/source/core scopes remain distinct; prior26whole79selected original meanings are attributed, not new whole105 primary replay.",
+  "prior_completed_package_count_preserved": 135,
+  "legacy_acceptance_tracking_rows": 163,
+  "fixed_scope_and_limits": {
+    "required_packages": 355,
+    "required_named_duties": 29,
+    "named_parents": 25,
+    "required_homes": 384,
+    "navigation_rows": 788,
+    "first_milestone": 89,
+    "next_milestone": 178,
+    "next_milestone_reached": false,
+    "all14_original_gaps": "OPEN",
+    "models": 0
+  },
+  "PR158": "OPEN_DRAFT_HOLD_BEFORE178",
+  "merge_approval": "RESERVED",
+  "frozen_history": "All existing nested metadata/control/audit/source-boundary objects remain at their original snapshot unchanged. Earlier current operational scalars/arrays are fully retained in additive history; no frozen object is silently retargeted.",
+  "current_receiving_or_QA_null_tuple_activation": "PROHIBITED;C-only manifest requires binding actual final four ROOT decisions/current independent QA and complete composed review before ROOT may activate this candidate."
+}
 }
