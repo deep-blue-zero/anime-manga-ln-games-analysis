@@ -28,7 +28,7 @@
  ],
  "main43_retrieval_witnesses": "COMPLETE_ARGUMENT_AND_SOURCE_SCOPED_DISPOSITION_ACCEPTED_WITH_LIMITS",
  "quarter_reached": true,
- "progress_percentage": "NOT_REPORTED;CONDITIONAL_COMPLETE_ROOT_INSTALL_SOURCE140_REMOTE_PUBLISHED139_MAIN133;NAMED14_SOURCE_13_MAIN;NEXT178_UNREACHED;355_29_25_384_788_UNCHANGED",
+ "progress_percentage": "NOT_REPORTED;AFTER_COMPLETE_ROOT_INSTALL_SOURCE141_NAMED15;ACTUAL_PUBLISHED_SOURCE140_NAMED14_MAIN133_NAMED13;NEXT178_UNREACHED;355_29_25_384_788_UNCHANGED",
  "opening_candidate_responsibility_rows": 761,
  "new_source_local_or_non_character_headers": 27,
  "completed_owner_roster_reviews": 105,
@@ -48,7 +48,7 @@
   "P3-XMI-R001"
  ],
  "initial_761_still_pending_rows": 0,
- "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29_25PARENTS_ACCEPTED_WITH_LIMITS;FIRST89_HISTORY_COMPLETE;AFTER_COMPLETE_M008_ROOT_INSTALL_SOURCE140;ACTUAL_REMOTE139_MAIN133;NEXT178_UNREACHED",
+ "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29_25PARENTS_ACCEPTED_WITH_LIMITS;FIRST89_HISTORY_COMPLETE;AFTER_COMPLETE_GSC_RELATIONSHIP_ROOT_INSTALL_SOURCE141_NAMED15;ACTUAL_REMOTE140_MAIN133;NEXT178_UNREACHED",
  "accepted_literary_character_packages": [
     "Asuna",
     "Toki",
@@ -179,10 +179,10 @@
   "P3-XMI-R004",
   "P3-XMI-R005"
  ],
- "package_tracking_rows": 164,
- "completed_literary_packages": 140,
+ "package_tracking_rows": 165,
+ "completed_literary_packages": 141,
  "completed_literary_character_packages": 104,
- "completed_literary_directed_relationship_packages": 17,
+ "completed_literary_directed_relationship_packages": 18,
  "accepted_literary_directed_relationship_packages": [
   "Noa–Yuuka: privacy, memory and wanted company",
   "Meg–Kasumi: craft, care and leverage",
@@ -200,7 +200,8 @@
   "Gourmet Club and Fuuka: requests, refusals and new agreements",
   "Kayoko–Ako: PS68 and Pandemonium boundaries",
   "Haruka, Aru and Mutsuki: repayment, recognition and independent wants",
-    "Odysseia and Sammy: directed care, clinical urgency and survivor responsibility"
+    "Odysseia and Sammy: directed care, clinical urgency and survivor responsibility",
+  "GSC differentiated work and recognition: finite mediation, practical care and dissent"
  ],
  "historical_pre_full_scope_frontier": {
   "eligible_package_denominator": "NOT_YET_FIXED; complete census adjudication required before progress thresholds",
@@ -215,7 +216,7 @@
  },
  "N_frozen": true,
  "required_named_sections": 29,
- "completed_required_named_sections_after_ROOT_install": 14,
+ "completed_required_named_sections_after_ROOT_install": 15,
  "completed_named_section_ids": [
   "P3-SECTION-HINA-ICE-POP-GIFT-PRIVACY",
   "P3-SECTION-YUUKA-CC-FISCAL-CHOSEN-OCCUPATION",
@@ -230,7 +231,8 @@
   "P3-REL-ARU-HARUKA",
   "P3-REL-MUTSUKI-HARUKA",
   "P3-ENSEMBLE-PS68-BELONGING",
-  "P3-SECTION-GSC-CIVIC-RECOVERY-AYUMU-REQUEST"
+  "P3-SECTION-GSC-CIVIC-RECOVERY-AYUMU-REQUEST",
+  "P3-SECTION-AYUMU-PRACTICAL-CARE-DISSENT-RECOGNITION"
  ],
  "required_scope_authority": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
  "ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
@@ -256,8 +258,8 @@
   "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_DISPOSITIONS_PART_02_V3.json"
  ],
  "required_package_index_rows": 355,
- "legacy_package_tracking_rows": 164,
- "canonical_persistence_qualification": "ROOT has completed current whole M008181/54/20/105 literary and target-specific receiving, supported CP103 Elina/Anna actor precision, and final exact11 public composition adoption WITH LIMITS (actual whole receiving2a5cf3; current independent QA critical7a419b). Actual approved ROOT installation of this one existing P3-CHAR-M008 home yields140 persisted packages (104CHAR/17REL/5ENS/14INST) and14 named duties; this C preparation creates no installation or credit. Actual published source2aa2a312c7087f490f6d119edab404f31a04e008/tree7d6d2fe8e832a91ec1baac72474462b70d90428e retains139/14 with ROOT-closed full301 SOURCE38449766510/HOUSEKEEPING38451877952 no-op/FINAL38451927189, selectionfalse and errors/failures/expected_failures/unexpected_successes/skipped all0; latest app15368 status56259359566. Current mainbf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad retains133/13. The four139 packages are actually published on that source; their unchanged earlier row-level publication/persistence fields and older3495/af20/8cc pending statements remain dated history qualified here. M008 and the Odysseia O103 qualification module remain unpublished and require ROOT exact installation/preflight/fresh provider controls/normal publication/new exact-head full chain. Apply the bound current Odysseia O103 module to its exact four retained pointers for current interpretation; all original files/scalars/source objects/hashes/inverses stay unchanged. PR151/PR152 seven corrections/43 retained-field qualifications and all133 corrections remain operative. Scope355/29/25/384/788, first89 history, next178 UNREACHED, all14OPEN/models0 and PR158 OPEN_DRAFT_HOLD/mergeReserved remain fixed. Ordinary food/company/rest/warmth/craft/reading/wanted fishing retain intrinsic value; no stakes or model filter, admission, native/raw/AV, identity/attendance/chronology/model/named/navigation/parent credit is added.",
+ "legacy_package_tracking_rows": 165,
+ "canonical_persistence_qualification": "ROOT has personally received the complete227-line current GSC relationship body, all66 paragraph/source/purpose/rival joins, all105 new five-field purpose meanings and15 target-specific source report results. The full11-dimension,22-paragraph Ayumu practical-care/dissent/recognition section is accepted WITH LIMITS and is distinct from the alreadycompleted GSC134 civic-request duty. The current ROOT acceptance component adds precise qualifications for five retained manual QA explanations (GWCLAIM026/027/028/045/046) while preserving every historical scalar, decision, grade and full original review. All ten other public components, including body,source15,purpose105 and literal66, are unchanged from the reviewed V3 composition. Original pending statements remain dated preparation history, governed by the current positive ROOT view. Only actual complete ROOT installation of this existing relationship home and its existing named section yields141packages (104CHAR/18REL/5ENS/14INST) and15named duties. Required355packages/29duties/25parents/384homes/788navigation rows remain fixed; first89 history complete, next178 UNREACHED,PR158 OPEN_DRAFT_HOLD,mergeapproval RESERVED,all14original claim-specific gaps OPEN,models0. Library,Seminar and Culinary are separate pending responsibilities. Everyday drinks,food,company,receiving,giving,rest,fear,wants and dissent retain intrinsic analytical value independent of stakes; no source grade, primary/native/raw/AV,identity,registry,reconstruction or model credit is added.",
  "source_units_in_selected_public_census": 1107,
  "literal_source_local_header_routes": 8326,
  "literal_choice_routes": 742,
@@ -273,11 +275,11 @@
   "Pandemonium–Ibuki: different directions of company and care",
   "Gourmet Club: differentiated pleasure and unreliable mutual care"
  ],
- "quarter_reached_qualification": "First89 history remains complete. Actual published2aa source139/14 has ROOT-closed full301 SOURCE/HOUSEKEEPING-no-op/FINAL, selectionfalse/fivezeros/latestapp15368 success. Mainbf7 remains133/13. M008 approved complete ROOT installation yields140/14; new publication chain/main integration remain pending;next178unreached.",
+ "quarter_reached_qualification": "First89 remains complete. Verified published source58a6fef2cd0cab67a5bf2125286e53d244979d27/tree35155af53cd670091b5cd5143ef88c3c95a20de2 contains140packages/14namedduties. Its complete SOURCE38465397779/HOUSEKEEPING38467149265 no-op/FINAL38467188920 chain passed301mandatory unique tests in SOURCE and FINAL, selectionfalse, failures/errors/expectedfailures/unexpectedsuccesses/skipped each0; exact latest status56269901730 from app15368. Current mainbf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad contains133packages/13named. This closed58a baseline does not certify the new141 candidate. GSC relationship publication, its own fresh exact-head sequence and main integration remain pending. Only actual complete ROOT installation of this existing relationship home and its existing named section yields141packages (104CHAR/18REL/5ENS/14INST) and15named duties. Required355packages/29duties/25parents/384homes/788navigation rows remain fixed; first89 history complete, next178 UNREACHED,PR158 OPEN_DRAFT_HOLD,mergeapproval RESERVED,all14original claim-specific gaps OPEN,models0. Library,Seminar and Culinary are separate pending responsibilities. Everyday drinks,food,company,receiving,giving,rest,fear,wants and dissent retain intrinsic analytical value independent of stakes; no source grade, primary/native/raw/AV,identity,registry,reconstruction or model credit is added.",
  "goal_quarter_milestone_complete": true,
  "goal_quarter_milestone_remaining_prerequisites": [],
- "currently_source_published_packages_before_successor_publication": 139,
- "main_integration": "CURRENT_MAIN133_bf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad;ACTUAL_REMOTE_SOURCE139_2aa2a312c7087f490f6d119edab404f31a04e008_EXACT_FULL301_CHAIN_ROOT_CLOSED;AFTER_COMPLETE_M008_ROOT_INSTALL_LOCAL_SOURCE140;M008_AND_ODY_O103_MODULE_NOT_YET_PUBLISHED_NOT_YET_INTEGRATED;PR158_OPEN_DRAFT_HOLD;MERGE_APPROVAL_RESERVED",
+ "currently_source_published_packages_before_successor_publication": 140,
+ "main_integration": "CURRENT_MAIN133_813cc91553f99e2de7c357794897bb8c59b2f548_NAMED13;LOCAL_RECONCILED23bb9da6b97ac44d7a7e3723110dd9f9bb5ffa91_PARENTS_SOURCE58A_MAIN813_BLUEBYTES_UNCHANGED;ACTUAL_REMOTE_SOURCE140_58a6fef2cd0cab67a5bf2125286e53d244979d27_NAMED14_EXACT_FULL301_CHAIN_CLOSED;AFTER_COMPLETE_GSC_INSTALL_SOURCE141_NAMED15;NEW_PUBLICATION_AND_RUNTIME_PENDING;PR158_OPEN_DRAFT_HOLD;MERGE_APPROVAL_RESERVED",
  "completed_literary_institution_packages": 14,
  "accepted_literary_institution_packages": [
   "Justice Task Force: work, leisure and answerability",
@@ -2797,5 +2799,166 @@
     "models": 0,
     "new_package_named_parent_navigation_registry_admission_identity_model_source_reading_credit": 0,
     "R_Git_provider_mutations_from_this_composer": false
+  }
+,
+  "prior140_current_top_fields_retained_as_dated_history_20261013_GSC_relationship_v1": {
+    "exact_beforeimage": {
+      "bytes": 160682,
+      "sha256": "7fc58ee1ef576b594deddd644aba763c95ca41b710152e951cd429e329485266",
+      "git_blob_oid_of_actual_bytes": "07474de4c604f91f858f20db9f502bbbd6cb0e3c"
+    },
+    "complete_original_values": {
+      "package_tracking_rows": 164,
+      "legacy_package_tracking_rows": 164,
+      "completed_literary_packages": 140,
+      "completed_literary_directed_relationship_packages": 17,
+      "accepted_literary_directed_relationship_packages": [
+        "Noa–Yuuka: privacy, memory and wanted company",
+        "Meg–Kasumi: craft, care and leverage",
+        "Kirara–Erika: exploration, privacy and broadcasting",
+        "Kazusa–Reisa: company, refusal and directed boundaries",
+        "Sora–customers–Sensei: recognition within paid routine",
+        "Mel–Momiji: craft, privacy and reciprocal correction",
+        "Shanhaijing Rumi: particular care and different answers",
+        "Mina–Reijo: craft, accusations and incomplete correction",
+        "Shun–Kokona: wanted closeness and unequal care",
+        "Reijo–Kaguya: rival crafts and answering recipients",
+        "Saya and recipients: care, inquiry and technical limits",
+        "Hina–Ako: service and independent wants",
+        "Fuuka–Juri: reciprocal care, reassurance and unequal burden",
+        "Gourmet Club and Fuuka: requests, refusals and new agreements",
+        "Kayoko–Ako: PS68 and Pandemonium boundaries",
+        "Haruka, Aru and Mutsuki: repayment, recognition and independent wants",
+        "Odysseia and Sammy: directed care, clinical urgency and survivor responsibility"
+      ],
+      "completed_required_named_sections_after_ROOT_install": 14,
+      "completed_named_section_ids": [
+        "P3-SECTION-HINA-ICE-POP-GIFT-PRIVACY",
+        "P3-SECTION-YUUKA-CC-FISCAL-CHOSEN-OCCUPATION",
+        "P3-SECTION-AKANE-NERU-APPEARANCE-RECIPIENT-BOUNDARY",
+        "P3-SECTION-MISUZU-CORRECTIONAL-GUEST-WORK-RECOGNITION",
+        "P3-REL-KISAKI-RUMI",
+        "P3-REL-REIJO-RUMI",
+        "P3-SECTION-SHUN-10144",
+        "P3-SECTION-SUIKO-NAGOMI-YOUKO-INDIVIDUAL-QUESTIONS",
+        "P3-REL-MAKOTO-IBUKI",
+        "P3-REL-IROHA-IBUKI",
+        "P3-REL-ARU-HARUKA",
+        "P3-REL-MUTSUKI-HARUKA",
+        "P3-ENSEMBLE-PS68-BELONGING",
+        "P3-SECTION-GSC-CIVIC-RECOVERY-AYUMU-REQUEST"
+      ],
+      "progress_percentage": "NOT_REPORTED;CONDITIONAL_COMPLETE_ROOT_INSTALL_SOURCE140_REMOTE_PUBLISHED139_MAIN133;NAMED14_SOURCE_13_MAIN;NEXT178_UNREACHED;355_29_25_384_788_UNCHANGED",
+      "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29_25PARENTS_ACCEPTED_WITH_LIMITS;FIRST89_HISTORY_COMPLETE;AFTER_COMPLETE_M008_ROOT_INSTALL_SOURCE140;ACTUAL_REMOTE139_MAIN133;NEXT178_UNREACHED",
+      "canonical_persistence_qualification": "ROOT has completed current whole M008181/54/20/105 literary and target-specific receiving, supported CP103 Elina/Anna actor precision, and final exact11 public composition adoption WITH LIMITS (actual whole receiving2a5cf3; current independent QA critical7a419b). Actual approved ROOT installation of this one existing P3-CHAR-M008 home yields140 persisted packages (104CHAR/17REL/5ENS/14INST) and14 named duties; this C preparation creates no installation or credit. Actual published source2aa2a312c7087f490f6d119edab404f31a04e008/tree7d6d2fe8e832a91ec1baac72474462b70d90428e retains139/14 with ROOT-closed full301 SOURCE38449766510/HOUSEKEEPING38451877952 no-op/FINAL38451927189, selectionfalse and errors/failures/expected_failures/unexpected_successes/skipped all0; latest app15368 status56259359566. Current mainbf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad retains133/13. The four139 packages are actually published on that source; their unchanged earlier row-level publication/persistence fields and older3495/af20/8cc pending statements remain dated history qualified here. M008 and the Odysseia O103 qualification module remain unpublished and require ROOT exact installation/preflight/fresh provider controls/normal publication/new exact-head full chain. Apply the bound current Odysseia O103 module to its exact four retained pointers for current interpretation; all original files/scalars/source objects/hashes/inverses stay unchanged. PR151/PR152 seven corrections/43 retained-field qualifications and all133 corrections remain operative. Scope355/29/25/384/788, first89 history, next178 UNREACHED, all14OPEN/models0 and PR158 OPEN_DRAFT_HOLD/mergeReserved remain fixed. Ordinary food/company/rest/warmth/craft/reading/wanted fishing retain intrinsic value; no stakes or model filter, admission, native/raw/AV, identity/attendance/chronology/model/named/navigation/parent credit is added.",
+      "quarter_reached_qualification": "First89 history remains complete. Actual published2aa source139/14 has ROOT-closed full301 SOURCE/HOUSEKEEPING-no-op/FINAL, selectionfalse/fivezeros/latestapp15368 success. Mainbf7 remains133/13. M008 approved complete ROOT installation yields140/14; new publication chain/main integration remain pending;next178unreached.",
+      "currently_source_published_packages_before_successor_publication": 139,
+      "main_integration": "CURRENT_MAIN133_bf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad;ACTUAL_REMOTE_SOURCE139_2aa2a312c7087f490f6d119edab404f31a04e008_EXACT_FULL301_CHAIN_ROOT_CLOSED;AFTER_COMPLETE_M008_ROOT_INSTALL_LOCAL_SOURCE140;M008_AND_ODY_O103_MODULE_NOT_YET_PUBLISHED_NOT_YET_INTEGRATED;PR158_OPEN_DRAFT_HOLD;MERGE_APPROVAL_RESERVED"
+    },
+    "role": "Complete dated previous current values, retained without rewriting historical objects."
+  },
+  "current141_GSC_relationship_and_named_Ayumu_ROOT_acceptance_boundary_20261013_v1": {
+    "schema": "ROOT_GSC_RELATIONSHIP141_NAMED_AYUMU15_CURRENT_ACCEPTANCE_AND_CONDITIONAL_INSTALL_BOUNDARY_V1",
+    "prepared_UTC": "2026-10-13T22:25:52.906696+00:00",
+    "ROOT_semantic_acceptance": "ACTUAL_ADOPTED_WITH_LIMITS",
+    "existing_home": "P3-REL-GSC-DIFFERENTIATED-WORK-RECOGNITION",
+    "existing_named_duty": "P3-SECTION-AYUMU-PRACTICAL-CARE-DISSENT-RECOGNITION",
+    "primary": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_AND_RECOGNITION_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 41660,
+      "sha256": "cc689587d9acde0a6ae3bdcaa3f1565b4b127b6cdf9ba700c0d6e694a15a17e6",
+      "git_blob_oid_of_actual_bytes": "e6990f23ed19a2183572409634d66badfedfec50"
+    },
+    "current_public_ROOT_positive_adoption": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_ROOT_CURRENT_TYPED_ARGUMENT_AND_SOURCE_PURPOSE_RECEIVING_STATUS_V1.json",
+      "bytes": 27213,
+      "sha256": "8a459b269081066aa600277fa99fe300df504e9b39c25ee2b7bfa2dc415420b3",
+      "git_blob_oid_of_actual_bytes": "0f20b1769e7d9aba1f1846c3e7cbce272500a367"
+    },
+    "current_public_transport_control": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_EXACT12_PENDING_ACCEPTANCE_AND_CONDITIONAL_PUBLIC_TRANSPORT_CONTROL_V1.json",
+      "bytes": 9858,
+      "sha256": "45e04b78f972694e5ab33e69c4a1bd0ec1ee48c111a85e52e4dcf478c91c0fd2",
+      "git_blob_oid_of_actual_bytes": "b0c45ff0834c78888055212fc9f4741a43f93cd6"
+    },
+    "complete_meaning_receiving": "ROOT has personally received the complete227-line current GSC relationship body, all66 paragraph/source/purpose/rival joins, all105 new five-field purpose meanings and15 target-specific source report results. The full11-dimension,22-paragraph Ayumu practical-care/dissent/recognition section is accepted WITH LIMITS and is distinct from the alreadycompleted GSC134 civic-request duty. The current ROOT acceptance component adds precise qualifications for five retained manual QA explanations (GWCLAIM026/027/028/045/046) while preserving every historical scalar, decision, grade and full original review. All ten other public components, including body,source15,purpose105 and literal66, are unchanged from the reviewed V3 composition. Original pending statements remain dated preparation history, governed by the current positive ROOT view.",
+    "published_runtime_baseline": "Verified published source58a6fef2cd0cab67a5bf2125286e53d244979d27/tree35155af53cd670091b5cd5143ef88c3c95a20de2 contains140packages/14namedduties. Its complete SOURCE38465397779/HOUSEKEEPING38467149265 no-op/FINAL38467188920 chain passed301mandatory unique tests in SOURCE and FINAL, selectionfalse, failures/errors/expectedfailures/unexpectedsuccesses/skipped each0; exact latest status56269901730 from app15368. Current mainbf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad contains133packages/13named. This closed58a baseline does not certify the new141 candidate. GSC relationship publication, its own fresh exact-head sequence and main integration remain pending.",
+    "scope_and_counts": "Only actual complete ROOT installation of this existing relationship home and its existing named section yields141packages (104CHAR/18REL/5ENS/14INST) and15named duties. Required355packages/29duties/25parents/384homes/788navigation rows remain fixed; first89 history complete, next178 UNREACHED,PR158 OPEN_DRAFT_HOLD,mergeapproval RESERVED,all14original claim-specific gaps OPEN,models0. Library,Seminar and Culinary are separate pending responsibilities. Everyday drinks,food,company,receiving,giving,rest,fear,wants and dissent retain intrinsic analytical value independent of stakes; no source grade, primary/native/raw/AV,identity,registry,reconstruction or model credit is added.",
+    "candidate_R_installation_at_preparation": "NOT_PERFORMED",
+    "new_source_publication_and_exact_head_runtime": "PENDING",
+    "current5_retained_reason_qualification_rule": "Resolve exact five preserved original QA pointers through current ROOT accepted reason qualifiers; all original values and decisions retain preparation-time roles.",
+    "all14_gaps": "OPEN",
+    "models": 0
+  }
+,
+  "prior_V4_main_integration_retained_as_dated_preparation_20261013_v5": {
+    "exact_V4_beforeimage": {
+      "bytes": 171693,
+      "sha256": "f861a8b11a1cb1a9c1b829d2e9b95b78e5da5ef5c0dfec0715d29576798baca4",
+      "git_blob_oid_of_actual_bytes": "f68b2cfc03080278df0c76b1307dae442d0484e6"
+    },
+    "complete_original_value": "CURRENT_MAIN133_bf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad_NAMED13;ACTUAL_PUBLISHED_SOURCE140_58a6fef2cd0cab67a5bf2125286e53d244979d27_NAMED14_EXACT_FULL301_CHAIN_CLOSED;AFTER_COMPLETE_GSC_RELATIONSHIP_ROOT_INSTALL_LOCAL_SOURCE141_NAMED15;NEW_GSC_RELATIONSHIP_PUBLICATION_AND_FRESH_CHAIN_PENDING;PR158_OPEN_DRAFT_HOLD;MERGE_APPROVAL_RESERVED",
+    "role": "Original actual bf7 preparation field; its exact full raw beforeimage retained privately and all7 inverses executed."
+  },
+  "current141_actual_main813_reconciled_preinstallation_and_completed_QA_boundary_20261013_v5": {
+    "schema": "ROOT_GSC141_ACTUAL_MAIN813_ORDINARY_RECONCILIATION_AND_COMPLETED_CANDIDATE_QA_BOUNDARY_V1",
+    "saved_UTC": "2026-10-13T22:53:37.071601+00:00",
+    "actual_preinstallation_local_source": "23bb9da6b97ac44d7a7e3723110dd9f9bb5ffa91",
+    "actual_preinstallation_local_tree": "906f5e6f7c5ca8e8a698fcc39b369277a3e2fc17",
+    "actual_local_parents": [
+      "58a6fef2cd0cab67a5bf2125286e53d244979d27",
+      "813cc91553f99e2de7c357794897bb8c59b2f548"
+    ],
+    "actual_current_main": "813cc91553f99e2de7c357794897bb8c59b2f548",
+    "main_Blue_packages": 133,
+    "main_Blue_named": 13,
+    "actual_remote_source_before_newpublication": "58a6fef2cd0cab67a5bf2125286e53d244979d27",
+    "remote_Blue_packages": 140,
+    "remote_Blue_named": 14,
+    "ordinary_reconciliation": "ROOT actual4601b3 clean owner-authored merge imports176 PR154 Youjo Senki paths exactly from current main; every Blue tracked byte/index row stays unchanged;39protected unpublished entries stat-only unchanged. Authority controls unchanged. Imported Markdown bytes use unchanged approved workflow whitespace treatment; no outside-root authored cleanup.",
+    "reconciliation_receipt": {
+      "private_witness_id": "ROOT_GSC141_MAIN813_CLEAN_ORDINARY_RECONCILIATION_PRECOMMIT_20261013_V1.json",
+      "bytes": 13596,
+      "sha256": "9d3e6bd7131f85585401d6dc1426e528682fa54ac8ecec5c9111a220aaf9ae64"
+    },
+    "reconciliation_author_preflight": {
+      "actual": "b7b9ad",
+      "result": "PASS",
+      "phase": "current",
+      "snapshot": "INDEX",
+      "paths": 7641,
+      "role": "Actual pure-main reconciliation author preflight only; new19 candidate needs its own author preflight and new exact-head full runtime."
+    },
+    "completed_current19_component_QA": {
+      "private_witness_id": "INDEPENDENT_GSC_CURRENT_V4_EXACT12_SHARED7_BOUNDED_MANUAL_COMPOSITION_RECOVERY_AND_DATED_FREEZE_LIMIT_QA_RECEIPT_V1.json",
+      "bytes": 11454,
+      "sha256": "81fb2693a4aee588e6e689cf400e043c0e0cf391a4528cdc2e04846c26deacbf",
+      "git_blob_oid_of_actual_bytes": "b9a48fa250021df61dd2b05e30a0eb58621458ef",
+      "actual_ROOT_whole_receiving": "77e62c",
+      "checks": 602,
+      "findings": 0,
+      "scope": "Exact dated current12 V4 and shared7 V4 full raw recovery/current aliases/count and gate review; new bounded reconciliation delta requires its own review."
+    },
+    "different_author_current5_reason_QA": {
+      "private_witness_id": "INDEPENDENT_GSC_CURRENT_EXACT5_ACTUAL_ACCEPTED_REASON_LITERAL_SCOPE_AND_FROZEN_POINTER_REVIEW_V1.json",
+      "bytes": 16265,
+      "sha256": "fd6878857399e86d36949a1a7411beeed57309ddc694164e4fdc7e49a9a18d70",
+      "git_blob_oid_of_actual_bytes": "8df4d6a5b58df29a651090094ee52049f8536b7f",
+      "actual_ROOT_whole_receiving": "bf91be",
+      "result": "PASS_WITH_LIMITS",
+      "findings": 0,
+      "scope": "Only actual five full paragraphs/accepted reason meanings/retained pointers and decisions. No all105 or source grade transfer."
+    },
+    "dated_bf7_and_stage_pending_fields": "All earlier bf7/main133,58a/source140 and component-QA/installation pending strings retain their exact preparation-time roles. This latest current boundary governs live reconciliation, completed602 composition and separate current5 semantic QA. Shared7 original beforeimages remain exactly unchanged through main import.",
+    "after_complete_actual_GSC_install_only": {
+      "packages": 141,
+      "CHARACTER": 104,
+      "DIRECTED_RELATIONSHIP": 18,
+      "ENSEMBLE": 5,
+      "INSTITUTION": 14,
+      "named": 15
+    },
+    "remaining_gates": "Bounded reconciliation delta review;ROOT final exact19 freeze and actual installation;mandatory new candidate preflight;fresh live controls and normalpush;ownnewheadSOURCE/HK/FINAL. No existing58a chain transfer to unpublished23bb or future141.",
+    "fixed_scope": "355/29/25/384/788;14OPEN;models0;178UNREACHED;PR158OPEN_DRAFT_HOLD;mergeapprovalRESERVED;Library/Seminar/Culinary separate pending."
   }
 }

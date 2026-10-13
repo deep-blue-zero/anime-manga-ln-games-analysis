@@ -1,9 +1,9 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: semantic_acceptance_audit
-scope: "ROOT-adopted M008140 conditional after complete installation104CHAR/17REL/5ENS/14INST; actual published2aa139/14named/mainbf7133/13; new140publication/CI unclaimed;355/29/25/384/788 fixed;next178 unreached"
+scope: "ROOT-adopted GSC relationship141 and named Ayumu15 conditional on actual complete installation104CHAR/18REL/5ENS/14INST; actual published58a140/14named/mainbf7133/13; new141publication/CI pending;355/29/25/384/788 fixed;next178 unreached"
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 source_boundary: "Accepted textual meanings at main 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c preserved by reconciliation c5f85a6921067abf031a920dbab7d84e12361b89; Phase 3 controls 2927442fef0daa17df1098d82bb62e0d8a46f19f; Japanese a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z"
 supersedes: []
@@ -16,6 +16,27 @@ updated: 2026-10-13
 ---
 
 # Blue Archive Phase 3 — semantic acceptance of literary packages
+
+
+## Current main813 reconciliation and GSC141 publication preparation — 2026-10-13
+
+ROOT has incorporated current main `813cc91553f99e2de7c357794897bb8c59b2f548` through the ordinary local merge `23bb9da6b97ac44d7a7e3723110dd9f9bb5ffa91` / tree `906f5e6f7c5ca8e8a698fcc39b369277a3e2fc17`. Its two parents are published source58a and current main813. All176 PR154 Youjo Senki paths are imported exactly; every tracked Blue Archive byte and all39 unpublished file statistics are preserved. Governing controls are unchanged. Reconciliation author preflight passed (INDEX,7641 paths); this local merge has no inherited full runtime certification. Current main retains133 packages/13 named duties, and remote source58a retains140/14.
+
+The current19-file GSC preparation passed distinct composition/recovery review (602 checks,zero findings; private receipt11454/SHA25681fb2693a4aee588e6e689cf400e043c0e0cf391a4528cdc2e04846c26deacbf). A different author also confirmed all five accepted review explanations against their actual paragraphs and preserved decisions (private receipt16265/SHA256fd6878857399e86d36949a1a7411beeed57309ddc694164e4fdc7e49a9a18d70;zero findings). These actual receiving witnesses qualify older QA-pending fields. Earlier bf7 and installation/push snapshots remain complete dated preparation history.
+
+Only complete ROOT installation of the accepted existing relationship and distinct existing Ayumu practical-care duty yields141 packages (104CHAR/18REL/5ENS/14INST) and15 named duties. The fresh bounded reconciliation delta still needs review, then final freeze, installation, candidate preflight, fresh live access checks, normal source publication and its own SOURCE/HOUSEKEEPING/FINAL sequence. The already closed58a301-test chain certifies its exact58a baseline only. Scope355/29/25/384/788,all14OPEN,models0,next178UNREACHED,PR158OPEN_DRAFT_HOLD and reserved merge approval stay fixed.
+
+## Current GSC relationship accepted, conditional source141 and verified published140 — 2026-10-13
+
+ROOT has personally received the complete227-line current GSC relationship body, all66 paragraph/source/purpose/rival joins, all105 new five-field purpose meanings and15 target-specific source report results. The full11-dimension,22-paragraph Ayumu practical-care/dissent/recognition section is accepted WITH LIMITS and is distinct from the alreadycompleted GSC134 civic-request duty. The current ROOT acceptance component adds precise qualifications for five retained manual QA explanations (GWCLAIM026/027/028/045/046) while preserving every historical scalar, decision, grade and full original review. All ten other public components, including body,source15,purpose105 and literal66, are unchanged from the reviewed V3 composition. Original pending statements remain dated preparation history, governed by the current positive ROOT view.
+
+Verified published source58a6fef2cd0cab67a5bf2125286e53d244979d27/tree35155af53cd670091b5cd5143ef88c3c95a20de2 contains140packages/14namedduties. Its complete SOURCE38465397779/HOUSEKEEPING38467149265 no-op/FINAL38467188920 chain passed301mandatory unique tests in SOURCE and FINAL, selectionfalse, failures/errors/expectedfailures/unexpectedsuccesses/skipped each0; exact latest status56269901730 from app15368. Current mainbf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad contains133packages/13named. This closed58a baseline does not certify the new141 candidate. GSC relationship publication, its own fresh exact-head sequence and main integration remain pending.
+
+Only actual complete ROOT installation of this existing relationship home and its existing named section yields141packages (104CHAR/18REL/5ENS/14INST) and15named duties. Required355packages/29duties/25parents/384homes/788navigation rows remain fixed; first89 history complete, next178 UNREACHED,PR158 OPEN_DRAFT_HOLD,mergeapproval RESERVED,all14original claim-specific gaps OPEN,models0. Library,Seminar and Culinary are separate pending responsibilities. Everyday drinks,food,company,receiving,giving,rest,fear,wants and dissent retain intrinsic analytical value independent of stakes; no source grade, primary/native/raw/AV,identity,registry,reconstruction or model credit is added.
+
+Current operative routes: [relationship argument](../04%20Specialist%20Synthesis/Relationship%20Syntheses/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_AND_RECOGNITION_RELATIONSHIP_SYNTHESIS.md); [ROOT complete receiving and five precise qualifications](BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_ROOT_CURRENT_TYPED_ARGUMENT_AND_SOURCE_PURPOSE_RECEIVING_STATUS_V1.json); [current transport and remaining gates](BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_EXACT12_PENDING_ACCEPTANCE_AND_CONDITIONAL_PUBLIC_TRANSPORT_CONTROL_V1.json). Current ROOT component is 27213 bytes / SHA256 8a459b269081066aa600277fa99fe300df504e9b39c25ee2b7bfa2dc415420b3. The old3580 ROOT coffee-module adoption governs only its prior16/exact4 correction responsibility and is not this complete relationship adoption.
+
+All older paragraphs, tables, IDs, source grades, original attachments,43 PR152 qualifications and PR151 controller repair remain complete history. Updated current readiness is governed by this newest section; no older dated pending snapshot overrides it.
 
 ## Latest current140/source24ff and diagnosed GSC coffee direction — 2026-10-13
 

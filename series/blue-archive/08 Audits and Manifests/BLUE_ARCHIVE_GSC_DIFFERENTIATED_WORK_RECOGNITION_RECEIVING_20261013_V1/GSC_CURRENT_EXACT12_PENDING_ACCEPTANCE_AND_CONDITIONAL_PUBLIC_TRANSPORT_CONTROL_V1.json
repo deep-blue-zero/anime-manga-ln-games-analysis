@@ -1,0 +1,146 @@
+{
+  "schema": "GSC_CURRENT_PUBLIC_EXACT12_PENDING_ACCEPTANCE_AND_CONDITIONAL_TRANSPORT_V1",
+  "prepared_UTC": "2026-10-13T21:00:27.637463+00:00",
+  "composer": "/root/minato_105_derivative",
+  "existing_home": "P3-REL-GSC-DIFFERENTIATED-WORK-RECOGNITION",
+  "existing_named_duty": "P3-SECTION-AYUMU-PRACTICAL-CARE-DISSENT-RECOGNITION",
+  "current_primary": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_AND_RECOGNITION_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 41660,
+    "sha256": "cc689587d9acde0a6ae3bdcaa3f1565b4b127b6cdf9ba700c0d6e694a15a17e6",
+    "git_blob_oid_of_actual_bytes": "e6990f23ed19a2183572409634d66badfedfec50"
+  },
+  "complete_eleven_other_current_public_component_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_AND_RECOGNITION_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 41660,
+      "sha256": "cc689587d9acde0a6ae3bdcaa3f1565b4b127b6cdf9ba700c0d6e694a15a17e6",
+      "git_blob_oid_of_actual_bytes": "e6990f23ed19a2183572409634d66badfedfec50"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT105_NEW_DIRECTED_PURPOSES_GW000_GW035_V1.json",
+      "bytes": 918557,
+      "sha256": "0c4670b7c916c72ec346a90c35e87a81ea8321c3d914559e9d5469a4186eee0a",
+      "git_blob_oid_of_actual_bytes": "9e8c7957b6ec7f48cad19c21d341407b3feac613"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT105_NEW_DIRECTED_PURPOSES_GW036_GW070_V1.json",
+      "bytes": 736828,
+      "sha256": "3f6babecdf67138f97716ebdad4a3fdb4f202daa766d2bf1090c9134a4b05d9e",
+      "git_blob_oid_of_actual_bytes": "ed80e95224ebe20904bc7a9ddde90aeada68bc7e"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT105_NEW_DIRECTED_PURPOSES_GW071_GW104_V1.json",
+      "bytes": 900863,
+      "sha256": "f30b05da800a64b73144a693db5175b4e941652fd419854aca8aca07385d6cff",
+      "git_blob_oid_of_actual_bytes": "c685703839ccfe18193b56ddbbcc4d2abc1bca9c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT15_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "bytes": 76828,
+      "sha256": "632aa675ca046d95b188440d373448bd8af97c2300d1d89c1e550a07db93df11",
+      "git_blob_oid_of_actual_bytes": "acd544a8987d5a2be9987f0d662d62aa97864be1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT105_DIRECTED_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 499329,
+      "sha256": "da643e17b322927344240a942bdcd2eaca8f227e5256d15acc5cc5a15738b4aa",
+      "git_blob_oid_of_actual_bytes": "386d8ae1242f9b8efea8324f7d798e63ddc708f0"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_LITERAL66_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 551017,
+      "sha256": "f7338f748d71c458ff8803edc5e821730eafe897faec8f8096372e67d3185edf",
+      "git_blob_oid_of_actual_bytes": "6d4586cac2c928729f8cd336d4ca7b4246048166"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 5234,
+      "sha256": "4986e7d9e16c8c4270b549333a0031c4b73e3698f8b4dcfc8d5e1bb0aa0c18f3",
+      "git_blob_oid_of_actual_bytes": "f48b23e4c2053ee7d300a4558edd1efa40390d75"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_COMPLETE_INDEPENDENT_LITERAL66_PURPOSE105_AND_QUALIFIED_HISTORY_REVIEW_V1.json",
+      "bytes": 661743,
+      "sha256": "82cb0a184fcc5f11dc0d9009a3771f43a7ec422b01bec9526aa56ff98b691604",
+      "git_blob_oid_of_actual_bytes": "f7c375222cb133ecf5a364c2f934249c5d8acaef"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_ROOT_CURRENT_TYPED_ARGUMENT_AND_SOURCE_PURPOSE_RECEIVING_STATUS_V1.json",
+      "bytes": 27213,
+      "sha256": "8a459b269081066aa600277fa99fe300df504e9b39c25ee2b7bfa2dc415420b3",
+      "git_blob_oid_of_actual_bytes": "0f20b1769e7d9aba1f1846c3e7cbce272500a367"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_DATED_PREPARATION_TUPLES_AND_SEMANTIC8_PRESERVATION_WITNESS_V1.json",
+      "bytes": 11070,
+      "sha256": "99a4803eeca377ac0c1a95fb52ec4b11c5b8f7069efd95ceb958d2245e27a9c7",
+      "git_blob_oid_of_actual_bytes": "1ca7b823dd7903d07f0d306cfc19c3ad9dd96eb5"
+    }
+  ],
+  "existing_published_dependency_NOT_staged": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 59334,
+    "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+    "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+  },
+  "old6136_new_corrector_staged": false,
+  "current_independent_complete_QA": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_COMPLETE_INDEPENDENT_LITERAL66_PURPOSE105_AND_QUALIFIED_HISTORY_REVIEW_V1.json",
+    "bytes": 661743,
+    "sha256": "82cb0a184fcc5f11dc0d9009a3771f43a7ec422b01bec9526aa56ff98b691604",
+    "git_blob_oid_of_actual_bytes": "f7c375222cb133ecf5a364c2f934249c5d8acaef"
+  },
+  "ROOT_actual_typed_receiving_status": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_ROOT_CURRENT_TYPED_ARGUMENT_AND_SOURCE_PURPOSE_RECEIVING_STATUS_V1.json",
+    "bytes": 27213,
+    "sha256": "8a459b269081066aa600277fa99fe300df504e9b39c25ee2b7bfa2dc415420b3",
+    "git_blob_oid_of_actual_bytes": "0f20b1769e7d9aba1f1846c3e7cbce272500a367"
+  },
+  "dated_private_tuples_and_full_payload_custody": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_DATED_PREPARATION_TUPLES_AND_SEMANTIC8_PRESERVATION_WITNESS_V1.json",
+    "bytes": 11070,
+    "sha256": "99a4803eeca377ac0c1a95fb52ec4b11c5b8f7069efd95ceb958d2245e27a9c7",
+    "git_blob_oid_of_actual_bytes": "1ca7b823dd7903d07f0d306cfc19c3ad9dd96eb5"
+  },
+  "acceptance_decision": "PENDING_ROOT_COMPLETE_NEW105_PURPOSES_SOURCE15_LITERAL66_AND_PUBLIC_COMPOSITION_REVIEW; no synthetic ROOT adoption",
+  "installation_publication_and_CI": "PENDING_NEW58A_FULL_CHAIN_AND_ROOT_CURRENT_GATES; no actual R installation, push or main integration",
+  "actual_current_counts_ROOT_reported": {
+    "source_packages": 140,
+    "source_named": 14,
+    "main_packages": 133,
+    "main_named": 13
+  },
+  "new141_or_named15_credit": 0,
+  "fixed_goal": "355/29/25/384/788,14OPEN,models0,next178 and merge approval reserved",
+  "all_original_source_receiving_grade_history": "Preserved literally at original scope; custody/CI never adds source meaning",
+  "public_path_hygiene_and_storage": "Every exact proposed file regular nonreparse strictUTF8LF below1MiB; private beforeimages and complete inverses remain C-only. No encoded full private payload in public JSON.",
+  "R_Git_provider_sharedmetadata_source_primary_model_mutations": "NONE"
+,
+  "ROOT_current_positive_acceptance_and_remaining_publication_gates_V1": {
+    "saved_UTC": "2026-10-13T22:20:28.469143+00:00",
+    "ROOT_current_acceptance_status": "ADOPTED_WRITTEN_RELATIONSHIP_AND_DISTINCT_COMPLETE_NAMED_AYUMU_ARGUMENT_WITH_LIMITS_AND_EXACT5_CURRENT_REASON_QUALIFICATIONS",
+    "ROOT_current_acceptance_component": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_ROOT_CURRENT_TYPED_ARGUMENT_AND_SOURCE_PURPOSE_RECEIVING_STATUS_V1.json",
+      "bytes": 27213,
+      "sha256": "8a459b269081066aa600277fa99fe300df504e9b39c25ee2b7bfa2dc415420b3",
+      "git_blob_oid_of_actual_bytes": "0f20b1769e7d9aba1f1846c3e7cbce272500a367"
+    },
+    "dated_old_pending_fields": "Preserved literally as preparation history; current acceptance is specified by this view and the current ROOT component.",
+    "body_all105_source15_literal66_and_full_history": "Ten other public component raw byte streams unchanged from V3_COMPLETE. Full all12 V3 beforeimages and executed inverses held privately. Original manual decisions/grades and all five historical reason scalars are preserved.",
+    "new_component_QA_and_R_installation_at_preparation": "PENDING; ROOT performs actual installation/publication gates. Semantic acceptance is actual and distinct from these remaining gates.",
+    "actual_preparation_R_source_counts": {
+      "packages": 140,
+      "named": 14
+    },
+    "after_complete_install_only": {
+      "packages": 141,
+      "CHARACTER": 104,
+      "DIRECTED_RELATIONSHIP": 18,
+      "ENSEMBLE": 5,
+      "INSTITUTION": 14,
+      "named": 15
+    },
+    "full_scope_and_authority": "355/29/25/384/788 unchanged;14OPEN;models0;178unreached;main133/13;mergeapprovalreserved;Library/Seminar/Culinary no credit."
+  }
+}
