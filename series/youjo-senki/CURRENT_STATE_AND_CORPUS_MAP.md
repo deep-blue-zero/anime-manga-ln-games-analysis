@@ -3,7 +3,7 @@ series: YOUJO_SENKI
 artifact_type: corpus_map
 scope: V01-V14 mature V2 synthesis + active Character Modeling and Reconstruction layer
 generation: V2_CMR
-version: '2.8'
+version: '2.9'
 status: active_provisional
 source_boundary: Original Japanese light novels Volumes 01-14
 current_entrypoint: CURRENT_STATE_AND_CORPUS_MAP.md
@@ -14,7 +14,7 @@ cmr_root: 1z-U_tluPeOwMuRIVzEbQOOxrI1cYlMK4
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-updated: '2026-10-11'
+updated: '2026-10-13'
 ---
 
 # YOUJO SENKI — CURRENT STATE AND CORPUS MAP
@@ -123,9 +123,9 @@ Key retrieval homes:
 
 ## 5. Active CMR architecture
 
-The Git-readable CMR route is [CMR/README.md](CMR/README.md). The first controlled port preserves the governing method, historical readiness audit, complete original-Drive disposition, deterministic integrity receipts, and all 676 inherited V01-V12 analytical diagnostics. See [diagnostic navigation](CMR/Diagnostics/YOUJO_SENKI_TANYA_DIAGNOSTIC_NAVIGATION.md) for documented fields, source coordinates, and thematic retrieval. This port is `active_provisional`; it does not certify a finished model or change the frozen V2 corpus. Method promotion and the former-Drive pointer update remain pending verified main integration.
+The Git-readable operational entrypoint is [CMR/README.md](CMR/README.md), with a [29-package model/readiness/source index](CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md). All 1,200 Tanya candidates through V14 are closed, yielding 814 textual diagnostics and 44 conditional rule families without changing the frozen V12 prefixes. All 29 models or recognition profiles and their original independent QA are present. Source support and new-scene prediction remain separate: seven actual held-out continuations are partial, synthetic applications are nonempirical, and repairs retain original judgments. Current bounded successor regressions and the separate ensemble release are complete with limits; original failures and partials remain versioned. The CMR layer remains `active_provisional`; it preserves the mature V2 corpus. Method promotion and former-Drive authority pointers await verified main integration.
 
-The Drive folder architecture below remains the provenance and evidence map; analytical models and relationship/QA derivatives will use the Git CMR route when actually emitted.
+The Drive folder architecture below is historical analytical provenance and the current primary/bulk evidence map. Git `CMR/Models`, `CMR/Relations` and `CMR/QA` own the emitted interpretive derivatives.
 
 ### `06 Character Modeling and Reconstruction`
 Drive: `1z-U_tluPeOwMuRIVzEbQOOxrI1cYlMK4`
@@ -151,39 +151,36 @@ Current canonical CMR source/evidence infrastructure:
 - `YOUJO_SENKI_CHARACTER_ALIAS_MAP.tsv` - Drive `1C95SxSuba7Fr9diTMyc1N8q58TbzxsLs`; canonical CMR-1 controlled retrieval aliases;
 - `YOUJO_SENKI_CHARACTER_RECONSTRUCTION_READINESS_METRICS.tsv` - Drive `13pEqvLZiv8Pc0SjvbsWSYpk_G4VMKZ0b`; quantitative CMR-1 retrieval proxies;
 - `YOUJO_SENKI_CMR1_READINESS_AUDIT_SCRIPT.py` - Drive `1keRBa1MAecQmFefKgmnUMroSeOarf1B1`; reproducible CMR-1 support;
-- `YOUJO_SENKI_CHARACTER_RECONSTRUCTION_READINESS_AUDIT.md` - Drive `1LYRzJS4AL6jHAmIAjkaOC-HIWQQdBp51`; qualitative readiness authority and CMR-2 handoff.
+- `YOUJO_SENKI_CHARACTER_RECONSTRUCTION_READINESS_AUDIT.md` - Drive `1LYRzJS4AL6jHAmIAjkaOC-HIWQQdBp51`; original first-audit readiness and CMR-2 handoff; current coverage is the separately versioned Git re-audit/supplement above.
 - `YOUJO_SENKI_TANYA_CMR2_CANDIDATE_SCENE_POOL.tsv` - Drive `1LRcSX-k739E4O4xQ2ImZnawzx6IylARo`; 1,200 broad-recall Tanya candidate centers across V01-V14; SHA-256 `8344b6196565645cfe373d3468fa4f3c618d1c4d3afb363667c64a073a5c469a`.
 - `YOUJO_SENKI_TANYA_CMR2_CANDIDATE_RETRIEVAL_SCRIPT.py` - Drive `1GZMXU-ulPFfKFKGrjl6GjXUYtqnorwg5`; reproducible CMR-2A retrieval support.
 - `YOUJO_SENKI_TANYA_CMR2_CANDIDATE_RETRIEVAL_MANIFEST.md` - Drive `1v3oLyOSuwD9WgZX_TvAPekRo20g4m_Rh`; CMR-2A completion/limitations and CMR-2B handoff.
-- `YOUJO_SENKI_TANYA_CMR2_ADJUDICATION_LEDGER.tsv` - Drive `1Eoz8hpJMoeksACmQgvJXntTEcYM-w20g`; cumulative candidate disposition ledger; V01-V12 currently **1,045/1,045** adjudicated; SHA-256 `4391f1042668cdc2148f6e09b975317cb5ab9d20c9e0e1679d491c450a8e6fa0`.
-- `YOUJO_SENKI_TANYA_CMR2_DIAGNOSTIC_EVIDENCE_INDEX.tsv` - Drive `1i1Ov7u5yGciH55j-04LxIR4CWck61-KH`; cumulative source-adjudicated evidence index; V01-V12 currently **676 diagnostics**; SHA-256 `1240953f6174375e64ddf1eb44af83954984a438c4b2fbc5d8869dabcf42ce68`.
+- `YOUJO_SENKI_TANYA_CMR2_ADJUDICATION_LEDGER.tsv` - Drive `1Eoz8hpJMoeksACmQgvJXntTEcYM-w20g`; current V01-V14 **1,200/1,200** closed candidate ledger; SHA-256 `47614760d6b14118bb507a086270d316af8c8a881ec10955ca362ebbccb526eb`. Exact frozen V12 copy: Drive `1aU4ZarOXLUnOV082bk4BEIxAe7NwwkyA`, original SHA-256 `4391f1042668cdc2148f6e09b975317cb5ab9d20c9e0e1679d491c450a8e6fa0`.
+- `YOUJO_SENKI_TANYA_CMR2_DIAGNOSTIC_EVIDENCE_INDEX.tsv` - Drive `1i1Ov7u5yGciH55j-04LxIR4CWck61-KH`; current V01-V14 **814 textual diagnostics**; SHA-256 `2b5fbc8caa711ee2c71a028a093b877df8b1335207352528cf9043d2349dc387`. Exact frozen V12 copy: Drive `1v67_7wmkiYnXE1LJ_okzpR9tNk8ANws9`, original SHA-256 `1240953f6174375e64ddf1eb44af83954984a438c4b2fbc5d8869dabcf42ce68`.
 - `YOUJO_SENKI_TANYA_CMR2B_ADJUDICATION_SCRIPT.py` - Drive `1whdImFw-vUblagWfpiqEmY58hT1vd3LZ`; reproducible cumulative V01-V12 build with frozen V01-V11-prefix preservation guards and validation; SHA-256 `23078662fed83e7aa8ba7c5e59fe9e0946a58ab75abab61a7de0a326e5e6909f`.
 - `YOUJO_SENKI_TANYA_CMR2B_ADJUDICATION_MANIFEST.md` - Drive `1JxHeRuCRltCmQsyIs2nQruzewx1U8Bmd`; v2.1 cumulative V01-V12 authority, preservation controls, limitations, and V13 handoff.
 
-Current active evidence work:
+Completed evidence-facing continuation:
 
-- cumulative Tanya candidate-adjudication ledger and diagnostic evidence index, with V01-V12 complete and V13-V14 pending;
-- future speech-act/interaction matrix;
-- future everyday-life/preferences/material-habits ledger.
+- current cumulative Tanya ledger/index close V01-V14 with immutable V12 copies and exact prefix guards;
+- current successor script: Drive `1p4PpUbQc80YJZLk2uXme_68cuSsEpIiA`; the original V12 script and manifest above remain historical;
+- [source append disposition](CMR/Provenance/YOUJO_SENKI_CMR_SOURCE_APPEND_DISPOSITION.jsonl) records twelve preserved/new/advanced evidence objects and complete readbacks;
+- [44-family rule register](CMR/Diagnostics/TANYA_OPERATIONAL_RULE_REGISTER.md) includes speech acts, everyday/material contrasts, counterevidence and inference ceilings.
 
 #### `02 Character Models`
 Drive: `1AMNfngVWTSm_4O0XadlJjHWjR8hMw21X`
 
-First required pilot:
-
-- `YOUJO_SENKI_TANYA_DEGURECHAFF_CHARACTER_RECONSTRUCTION_MODEL.md`.
-
-Other character models are gated by source-coverage audit.
+Historical Drive scaffold. Current [29 completed Git packages](CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md) include the Tanya pilot, three transfer priorities and all further subjects admitted by focused readiness audits.
 
 #### `03 Relationship Registers`
 Drive: `1TomsYaw1BmQMRp-JuMils2PeHzl375uo`
 
-Future home for the directional character relationship/register matrix.
+Historical Drive scaffold. Current [Git directional register](CMR/Relations/YOUJO_SENKI_DIRECTED_RELATIONSHIP_REGISTER.md) contains 77 separately sourced directed episodes and explicit unknown core cells.
 
 #### `04 QA and Simulation`
 Drive: `1dPqF3RjqawccCi8LA59QVMXsp2KDvH63`
 
-Future home for held-out validation, perturbation tests, adversarial caricature tests, cross-model consistency checks, and promotion audits.
+Historical Drive scaffold. Current Git QA routes are linked from the [model index](CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md#current-qa-qualifications); original partials, failures and nonblind regressions are preserved separately.
 
 ## 6. CMR governing principle
 
@@ -225,7 +222,7 @@ CMR-0 canonical artifacts are routed through `YOUJO_SENKI_CMR_SOURCE_EXTRACTION_
 
 CMR-1 completed a first production reconstruction-readiness pass over 20 recurring characters using the deterministic CMR-0 locator layer, a controlled alias map, reproducible retrieval metrics, contextual source review, and the mature V2 character/relationship syntheses.
 
-Current readiness classes:
+Historical initial twenty-subject readiness classes:
 
 - `FULL_SPECTRUM`: **Tanya Degurechaff** (`HIGH`); **Erich von Lergen** (`MODERATE_HIGH`).
 - high-confidence `DOMAIN_BOUNDED`: **Visha, Hans von Zettour, Matheus Johann Weiss, Grantz, Uger, Kurt von Rudersdorf, Drake, Mary Sue, Calandro, Loria**.
@@ -242,44 +239,42 @@ Important scope controls:
 - Josef remains recognition-only because the available source presentation is heavily mediated by satire, propaganda diction, reports, and other observers;
 - Visha is a promotion candidate if later targeted low-stakes/non-Tanya sampling broadens her support.
 
-The first modeling roster is now frozen for this generation: Tanya first; Lergen/Visha/Zettour as transfer priorities after Tanya QA; bounded specialists only within audited domains.
+The initial roster is historical. The [current re-audit](CMR/Provenance/YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md) and [supplement](CMR/Provenance/YOUJO_SENKI_SUPPLEMENTARY_CHARACTER_READINESS.md) admit 29 packages: 2 full-spectrum with limits, 23 domain-bounded and 4 recognition profiles. Meybert is narrowly promoted; nine additional supported subjects are included. Unexamined figures remain not yet audited. Tanya was constructed first and independently repaired/accepted before transfer authoring.
 
-### Tanya evidence pilot - CMR-2 active
+### Tanya evidence pilot - CMR-2 closed through V14
 
-The [interpretive navigation](CMR/Diagnostics/YOUJO_SENKI_TANYA_DIAGNOSTIC_NAVIGATION.md) now exposes every inherited V01-V12 diagnostic in three inspectable Git JSONL slices. All stable IDs, substantive English channel/condition/ceiling fields, and exact source hashes/coordinates are preserved or explicitly mapped; Japanese passage anchors remain in Drive. Legacy overall confidence is not a separately adjudicated speaker/focalizer score. This migration revalidates source routes and frozen hashes; it does not claim a new semantic reread of every prior scene.
+The [interpretive navigation](CMR/Diagnostics/YOUJO_SENKI_TANYA_DIAGNOSTIC_NAVIGATION.md) exposes all **814 textual diagnostics in five Git JSONL slices**. V13 adds 82 and V14 adds 56, including 26 missed high-salience cases. All 1,200 candidates close as 711 RETAIN, 433 MERGE and 56 REJECT. The [closure audit](CMR/Provenance/YOUJO_SENKI_TANYA_CMR2_V14_CLOSURE_AUDIT.md) records coverage, source certainty and preservation; the 44-family non-destructive consolidation preserves 815 typed crosswalk rows including a separate collective image witness. Historical confidence is not silently converted to speaker/focalizer certainty. The inherited V01-V12 route validation is not a claim to newly reread every legacy scene.
 
 - **CMR-2A candidate retrieval: COMPLETE.** The deterministic broad-recall pass reduced the 63,812-row CMR-0 source index to **1,200** Tanya candidate centers distributed across V01-V14.
 - Candidate-pool SHA-256: `8344b6196565645cfe373d3468fa4f3c618d1c4d3afb363667c64a073a5c469a`.
 - Candidate priorities: 388 `HIGH`, 762 `MEDIUM`, 50 `LOW`. Priority means adjudication usefulness, not evidentiary confidence.
 - Heuristic category/speech/relationship tags are retrieval cues only; they must not be promoted directly into claims.
-- **CMR-2B candidate adjudication: ACTIVE.** Volumes 01-12 are complete: **1,045/1,045** cumulative candidates adjudicated. V12 added 44 `RETAIN`, 12 `MERGE`, and 5 `REJECT` dispositions while preserving every V01-V11 row and identifier unchanged.
+- **Historical V12 CMR-2B checkpoint (preserved provenance):** Volumes 01-12 are complete: **1,045/1,045** cumulative candidates adjudicated. V12 added 44 `RETAIN`, 12 `MERGE`, and 5 `REJECT` dispositions while preserving every V01-V11 row and identifier unchanged.
 - The cumulative V01-V12 diagnostic index contains **676** source-adjudicated states. V12 added **60 states: 53 `HIGH`, 7 `MODERATE`**. V12 materially strengthens historical-glory versus civilian-legacy preferences, patriotism modeled without projection, unfamiliar-institution fallibility, career ambition under order constraints, context override of combat habits, familiar-unit humor and material reciprocity, enemy competence/aesthetic appreciation, developmental mentorship, audience-conditioned violent rhetoric, bounded tactical enjoyment, body/age observer effects, Tanya-Zettour modeling, Grantz advocacy and recorded dissent, retreat/casualty-reduction command logic, dynamic enemy learning, Uger peer-professional interaction, civilian-normalcy aspirations, subordinate-welfare advocacy, resource bargaining, and veteran intuition under uncertainty.
-- V13-V14 remain pending. The evidence pack remains `active_provisional`; the raw 676-state count exceeds the eventual 250-350 target by design, and all-volume deduplication/counterevidence review must wait until V14. V01 IDs `YS-TAN-CMR2-V01-001` through `055`, V02 IDs `YS-TAN-CMR2-V02-001` through `054`, V03 IDs `YS-TAN-CMR2-V03-001` through `046`, V04 IDs `YS-TAN-CMR2-V04-001` through `055`, V05 IDs `YS-TAN-CMR2-V05-001` through `059`, V06 IDs `YS-TAN-CMR2-V06-001` through `041`, V07 IDs `YS-TAN-CMR2-V07-001` through `053`, V08 IDs `YS-TAN-CMR2-V08-001` through `045`, V09 IDs `YS-TAN-CMR2-V09-001` through `069`, V10 IDs `YS-TAN-CMR2-V10-001` through `071`, V11 IDs `YS-TAN-CMR2-V11-001` through `068`, and V12 IDs `YS-TAN-CMR2-V12-001` through `060` are stable provenance identifiers. V12 does not close the attraction/orientation question; the V05 former-male-psyche/current-female-body dilemma remains OPEN / underdetermined and does not license a modern categorical gender-identity label.
+- **Historical planning snapshot, superseded by the V14 closure above:** V13-V14 remain pending. The evidence pack remains `active_provisional`; the raw 676-state count exceeds the eventual 250-350 target by design, and all-volume deduplication/counterevidence review must wait until V14. V01 IDs `YS-TAN-CMR2-V01-001` through `055`, V02 IDs `YS-TAN-CMR2-V02-001` through `054`, V03 IDs `YS-TAN-CMR2-V03-001` through `046`, V04 IDs `YS-TAN-CMR2-V04-001` through `055`, V05 IDs `YS-TAN-CMR2-V05-001` through `059`, V06 IDs `YS-TAN-CMR2-V06-001` through `041`, V07 IDs `YS-TAN-CMR2-V07-001` through `053`, V08 IDs `YS-TAN-CMR2-V08-001` through `045`, V09 IDs `YS-TAN-CMR2-V09-001` through `069`, V10 IDs `YS-TAN-CMR2-V10-001` through `071`, V11 IDs `YS-TAN-CMR2-V11-001` through `068`, and V12 IDs `YS-TAN-CMR2-V12-001` through `060` are stable provenance identifiers. V12 does not close the attraction/orientation question; the V05 former-male-psyche/current-female-body dilemma remains OPEN / underdetermined and does not license a modern categorical gender-identity label.
 
 ### Character models
 
-- Tanya: **CMR-2 evidence pilot active; model not yet emitted**;
-- Lergen/Visha/Zettour: **approved transfer priorities after Tanya QA, subject to their audited ceilings**;
-- other audited characters: **modeling allowed only within the CMR-1 readiness class/domain boundary**.
+All **29** admitted source-limited models/profiles are authored with **418 anchored claims**: [current package and source navigation](CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md). Full-spectrum does not authorize unsupported domestic or private domains; recognition is not full simulation.
 
 ### Relationship matrix
 
-- not yet emitted.
+The [77 directed episodes/register](CMR/Relations/YOUJO_SENKI_DIRECTED_RELATIONSHIP_REGISTER.md) include the core Tanya/Visha/Weiss/Grantz/Lergen/Zettour/Uger network and supported external counterparts. The 42 ordered core cells contain 24 direct, 3 partial and 15 not yet audited in this packet; absence of a witness is not an absent relationship.
 
 ### QA
 
-- held-out validation suite not yet emitted.
+All 29 original independent assessments are sealed. Seven actual frozen-before-revelation continuations remain partial; no novel-wide blindness or calibrated forecast accuracy is claimed. Tanya's first failure and all metadata/pipeline issues remain versioned alongside nonblind successor checks. The [four-pipeline regression](CMR/QA/FOUR_SPEECH_ACT_PIPELINE_REGRESSION_QA.md), [six-specialist process regression](CMR/QA/SIX_SPECIALIST_PIPELINE_REGRESSION_QA.md) and [separately qualified current ensemble release](CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA.md) are complete with limits. The [current ensemble ledger](CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA_CASES.jsonl) and [application repair trace](CMR/QA/YOUJO_SENKI_ENSEMBLE_APPLICATION_REPAIR_TRACE.json) retain the original failed 76-application suite and 17 separate application repairs; no original failure or source partial is rescored. Generated wording never enters the evidence corpus. Model and original-QA promotion fields remain construction/evaluation snapshots; separately verified release/promotion receipts govern actual publication/main/native-Drive authority, which remains pending.
 
 ## 8. Binding next steps
 
 1. **CMR-0 - COMPLETE:** deterministic source extraction and exact-locator build across V01-V14.
 2. **CMR-1 - COMPLETE:** controlled alias map + first production reconstruction-readiness audit for the recurring cast.
 3. **CMR-2A - COMPLETE:** 1,200-candidate broad-recall Tanya scene pool across V01-V14.
-4. **CMR-2B - ACTIVE:** V01-V12 adjudication complete; V13 next. Continue the same cumulative ledger/index through V14 while preserving earlier identifiers, then run cross-volume deduplication and counterevidence audit toward roughly 250-350 source-verified diagnostic states.
-5. **CMR-3 — Tanya reconstruction model** after CMR-2 evidence closure.
-6. **CMR-4 — Tanya held-out and adversarial QA**.
-7. **CMR-5 — transfer pilots** for Visha, Lergen, and Zettour if readiness supports them.
-8. **CMR-6 — directional relationship matrix and cross-model QA** after multiple models exist.
+4. **CMR-2B - COMPLETE:** all 1,200 candidates through V14; 814 textual diagnostics; frozen V12 prefixes and append provenance preserved; 44 conditional families with full non-destructive crosswalk.
+5. **CMR-3 - COMPLETE:** Tanya source-limited reconstruction model, 44 claims, separate written-voice controls.
+6. **CMR-4 - COMPLETE WITH LIMITS:** original independent failure/two partial continuations retained; repaired successor accepted by nonblind regression.
+7. **CMR-5 - COMPLETE WITH LIMITS:** Visha, Lergen, Zettour and all further admitted subjects; bounded successors are tracked separately.
+8. **CMR-6 - RELATIONSHIPS / CURRENT ENSEMBLE COMPLETE WITH LIMITS:** directed register and source-backed episode controls; exact-head publication, owner-governed main integration and former-Drive authority pointer cutover remain pending.
 
 ## 9. Recommended retrieval routes
 
@@ -297,7 +292,7 @@ For a character-reconstruction question:
 
 For generated hypothetical scenarios:
 
-> scenario state → retrieve canonical analogues → infer attention/appraisal → infer action → select relationship/state-appropriate register → generate dialogue → label inference boundaries
+> scenario state → retrieve canonical analogues → attention/private appraisal with explicit access limits → communicative objective → likely decision/action → speech act → relationship/role constraint → register → surface wording → label inference boundaries
 
 ## 10. Do not do
 

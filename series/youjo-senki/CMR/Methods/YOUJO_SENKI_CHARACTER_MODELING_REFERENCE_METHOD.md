@@ -37,11 +37,11 @@ The original Drive hierarchy named in Section XV and the body is retained as the
 | `00 Frameworks and Methods` | `CMR/Methods/` for eligible methodological authority |
 | `01 Evidence and Locators` | Drive for EPUBs, deterministic extracted text, raw locator/member/alias/metrics/candidate/diagnostic ledgers and audited source scripts; `CMR/Diagnostics/` for authored interpretive findings and compact navigation |
 | `02 Character Models` | `CMR/Models/` for source-limited operational models |
-| `03 Relationship Registers` | `CMR/Relationships/` for directional analytical registers |
+| `03 Relationship Registers` | `CMR/Relations/` for directional analytical registers |
 | `04 QA and Simulation` | `CMR/QA/` for analytical validation and uncertainty records |
 | Port, preservation, and authority reconciliation | `CMR/Provenance/` |
 
-These are responsibility allocations. Directories are populated only when real artifacts exist. Until the project CMR index is created, use the existing series entrypoint; no planned model or QA file is represented as already complete. The [port audit](../Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md) and [historical CMR1 baseline](../Provenance/YOUJO_SENKI_CMR1_READINESS_BASELINE.md) record the controlled transformations and intake evidence limits.
+These are responsibility allocations. The completed operational packages and their versioned QA are routed from [CMR/README.md](../README.md) and the [model/source index](../YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md). Use the series entrypoint to resolve the mature V2 responsibility and the current integration/promotion receipt; source readiness does not certify unrestricted hypothetical accuracy. The [port audit](../Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md) and [historical CMR1 baseline](../Provenance/YOUJO_SENKI_CMR1_READINESS_BASELINE.md) record the controlled transformations and intake evidence limits.
 
 <!-- Preserved v1.1 substantive method body begins below. -->
 

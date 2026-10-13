@@ -39,7 +39,7 @@ The source audit was `active_provisional` at the frozen Drive revision. Its twen
 
 The preserved body contains the original individual confidence labels, approved domains, representative exact locators, and negative constraints. Alias-hit counts and local-window metrics remain retrieval proxies. Apparent dialogue proximity never establishes actual speaker or focalizer. Unexamined additional figures remain `NOT_YET_AUDITED`; they do not become `INSUFFICIENT` by omission.
 
-The current reconstruction method is routed through [the proposed Git method](../Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md), with the original Drive source and proposed authority transition documented by [the port audit](YOUJO_SENKI_CMR_PORT_AUDIT.md). Use [the series current-state entrypoint](../../CURRENT_STATE_AND_CORPUS_MAP.md) for current work. A future current readiness/coverage artifact is a distinct analytical responsibility; no unpublished path is treated as available.
+The current reconstruction method is routed through [the Git method](../Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md), with original Drive provenance and the proposed authority transition documented by [the port audit](YOUJO_SENKI_CMR_PORT_AUDIT.md). Current coverage uses the distinct [readiness re-audit](YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md) and [supplement](YOUJO_SENKI_SUPPLEMENTARY_CHARACTER_READINESS.md); the [series entrypoint](../../CURRENT_STATE_AND_CORPUS_MAP.md) controls current routing. The original first-audit body below remains historical.
 
 <!-- Preserved original CMR1 first-audit substantive body begins below. -->
 
