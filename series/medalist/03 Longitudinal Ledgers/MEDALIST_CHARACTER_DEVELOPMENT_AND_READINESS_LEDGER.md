@@ -5,14 +5,14 @@ artifact_type: "character_state_readiness_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.15"
+version: "1.16"
 status: "canonical"
 scope: "Time-indexed character interpretation, identity resolution and evidence-specific promotion readiness"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -1323,3 +1323,37 @@ The [Official Fanbook 01 paratext audit](../02%20Sequential%20Readings/MEDALIST_
 | MD-RD-0077 | 0004, 0001 and the Yuitsuka family / monographs and relationship study / effect of a supplement | V01–V15 with FB01 | Adds creator-reported back story for the sister and mother, a second adult's regret about the coach as a boy, and the stated origin of the coach's role. | All of it is reported conception; none is known to the heroine on the page. | BOUNDED_PROVISIONAL unchanged; a monograph may cite these as creator statements and may not build a trait on them; author; 2026-10-13; MD-CL-0014@10/0011@16 | Extends MD-RD-0072/0073/0074. |
 
 MD-RD-0076 (adult doctrines) gains one biography, for the doctrine that forbids a pupil to carry other people's wishes. MD-RD-0067 and 0061 gain design-side corroboration.
+
+## FB02 evidence tables
+
+The [Official Fanbook 02 paratext audit](../02%20Sequential%20Readings/MEDALIST_FB02_PARATEXT_AUDIT.md) owns all `MD-EV-FB02-…` observations. In this section `EV-####` expands to `MD-EV-FB02-####`. The supplement is admitted at `MD-FR-FB01` and frozen as `MD-FR-FB02`; its story guide covers V05–V09 and its latest presupposed material is V10–V11. Creator rows are statements of the author as reported by the book's editorial writer and dated by it to September 2025, or working notes reproduced in facsimile; they are not story-page events and create no state event. Data sheets give ages at first appearance. Earlier tables are unchanged.
+
+### Supplemental identity data
+
+| Character key | FB02 disclosure | Layer / basis | Limit |
+| --- | --- | --- | --- |
+| MD-CHAR-0001 | In the period of V05–V09 lives at the Kagos' and cares for Yō daily; is spoken of by club parents as the partner with whom Hitomi's career ended; takes night traffic-control work when short of money; cuts his sleep. By the author: from boyhood wished that Yodaka would be his coach; has not accepted his past self; the series is to be his journey toward coming to like himself. By a timeline: went to skating classes in middle school; passed a beginner badge grade in high school; turned to ice dance at twenty; last championship at twenty-four | FB-CREATOR, FB-DATA; EV-0004/0023/0030 | Intent and conception; the timeline's reason for his leaving the hobby circle differs in colour from V15, which governs. |
+| MD-CHAR-0004 | In the period of V05–V09: an untidy room her mother resets monthly; daily drive from school; drafts for V09 give her the wish to repay those who protected her | FB-CREATOR, raw notes; EV-0003/0029 | Drafts are not the printed page. |
+| MD-CHAR-0007 | Once sensed that the child Iruka was in trouble at home, had her to the house and smoothed matters with her mother; her word caused a club to decline Inori's application | FB-CREATOR; EV-0010/0012 | Reported conception; a strip for the second item. |
+| MD-CHAR-0008 | Spoke to the child Iruka at their shared rink, saw that she was straining and drew her into her club; two skaters trace their start to her; her retirement was sudden | FB-CREATOR; EV-0009/0012 | Reported conception. |
+| MD-CHAR-0010 | Arranges her days around a midnight lesson two or three nights a week; fears above all failing to produce at it; has no friends at school; a smiling manner designed, by the author, as a mask | FB-CREATOR; EV-0006/0026 | For the period before V12. |
+| MD-CHAR-0021 | Nocturnal; skates alone most nights because he loves skating; speaks three languages; owns a flat in which he keeps his worn-out boots; leaves his pupil's daytime practice undirected on principle | FB-CREATOR; EV-0007 | Reported conception. |
+| MD-CHAR-0037 | A wealthy, outwardly happy home with parents who cannot attend to another's feelings; made her first good relationship by playing the good child; won the Junior Grand Prix Final at sixteen, by a table; dislikes birthday and Christmas cake | FB-CREATOR, FB-DATA; EV-0012/0027 | Reported conception. |
+| MD-CHAR-0040 | Forty-five; a former middle-school teacher who resigned from overwork; his wife is named Yasuko; they bear with Iruka's parents for her sake | FB-CREATOR, FB-DATA; EV-0012/0014 | — |
+| MD-CHAR-0055 | Her mother is dead; raised by her father, a lorry driver; stopped so as not to keep him working without rest | FB-CREATOR; EV-0016 | Reported conception. |
+| MD-CHAR-0053, 0054 | Kōhei twenty-eight, with a complex toward the junior who overtook him; Juna twenty-seven, whose clowning covers an inability to talk to people | FB-CREATOR, FB-DATA; EV-0017 | — |
+| MD-CHAR-0056 | Twenty-three at first appearance; asserts freedom in reaction to her childhood and performs her whole life; protected by her club's families | FB-CREATOR; EV-0018 | Agrees with the V13 profile. |
+| MD-CHAR-0064 | Sixteen at first appearance; born 7 July; makes her own costumes; would not change a layout to win | FB-CREATOR, FB-DATA; EV-0020 | Agrees with V15. |
+| MD-CHAR-0047, 0048 | Ryūgū: a history of not being understood and a purpose of giving people a place; Senba: once declined Inori's application | FB-CREATOR; EV-0010 | — |
+| MD-CHAR-0052, 0059 | Uobuchi: drilled to smile by an exploitative employer before becoming a jump coach; Sorokin: forty-eight, a ballet prodigy who left his company and was taken up by Yodaka | FB-CREATOR, FB-DATA; EV-0021 | — |
+| MD-CHAR-0035, 0036, 0038, 0041–0046, 0050, 0057, 0058, 0060–0063 | Ages, birthdays, heights and short back stories for the skaters and coaches of V05–V09 | FB-DATA, FB-CREATOR; EV-0008/0009/0011/0015/0018/0019/0021 | Not itemized here; the audit owns them. |
+
+No new key is allocated. Gori's wife is carried within MD-PAIR-0057. Skaters and coaches who appear only in this supplement's tables stay local to the audit.
+
+### Readiness after FB02
+
+| Readiness record | Character / target / domain | Boundary / scope | Context coverage / counterevidence | Gaps / tests | Assessment / reviewer / date | History / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-RD-0078 | 0001, 0004, 0010, 0021, 0037 and the comparative study / effect of a second supplement | V01–V15 with FB01 and FB02 | Adds the author's stated intent for the coach, made before V15; her stated position on sacrifice; creator-reported regimes for the prodigy and her coach; the favourite's home; two children who stop so as not to cost a parent; drafts giving the heroine the motive of repayment at eleven. | All creator-layer; intent is not event; nothing may be extended past the freeze. | BOUNDED_PROVISIONAL unchanged for every study; the coach's monograph may cite the author's intent as corroboration of MD-CL-0010@16 and must rest its argument on story pages; author; 2026-10-13; MD-CL-0010@16/0025@10/0026@9 | Extends MD-RD-0073/0076/0077. |
+
+Both scheduled supplements are now reconciled. The synthesis-readiness and role-gap audit is the next step and is not performed in this ledger.

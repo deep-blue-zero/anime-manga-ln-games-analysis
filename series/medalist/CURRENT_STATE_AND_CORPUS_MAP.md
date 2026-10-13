@@ -5,14 +5,14 @@ artifact_type: "current_state_corpus_map"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.10"
+version: "1.11"
 status: "canonical"
 scope: "Single project entrypoint, initiation state, current authority and next permitted operation"
 canonical_home: "series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 continuation_owner_authorization: "2026-10-12 owner continuous_sequential authorization: V02 through the verified as-of-start publication boundary (V15, Score 61), then provisional syntheses"
 supersedes: []
@@ -28,7 +28,7 @@ Start here for `series/medalist/`, the continuing Japanese manga project for メ
 
 **SEQUENTIAL_ANALYSIS_LOCK = OPEN**
 
-**A `continuous_sequential` run is active: V02 through V15, one closed volume transaction at a time. Committed high-water mark: V15, the run's terminal boundary; all fourteen volume transactions are closed. Official Fanbook 01 is audited at this checkpoint (MD-FR-FB01). Next candidate: the paratext audit of Official Fanbook 02, then the provisional syntheses; no manga unit beyond V15 is authorized.** The owner authorized this run on 2026-10-12; the [continuous-run receipt](07%20Audits%20and%20Handoffs/MEDALIST_CONTINUOUS_RUN_AUTHORIZATION_AND_SOURCE_RECEIPT.md) records the authorization, the dated publication ceiling (V15, ending at Score 61; no serial-only Score beyond it) and the structurally verified witnesses. [V01 deep reading and MD-FR-V01](02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) remain frozen and are not redone; the latest closed reading is [V15 / MD-FR-V15](02%20Sequential%20Readings/MEDALIST_V15_DEEP_READING.md), and the progress table below lists every closed unit. Fanbook coverage reconnaissance and audits are authorized only at a verified safe manga checkpoint; adaptation sources remain unauthorized. The historical single-operation V01 authorization is preserved in its own receipt.
+**A `continuous_sequential` run is active: V02 through V15, one closed volume transaction at a time. Committed high-water mark: V15, the run's terminal boundary; all fourteen volume transactions are closed. Official Fanbooks 01 and 02 are audited at this checkpoint (MD-FR-FB01, MD-FR-FB02). Next candidate: the synthesis-readiness and role-gap audit, then the provisional syntheses; no manga unit beyond V15 is authorized.** The owner authorized this run on 2026-10-12; the [continuous-run receipt](07%20Audits%20and%20Handoffs/MEDALIST_CONTINUOUS_RUN_AUTHORIZATION_AND_SOURCE_RECEIPT.md) records the authorization, the dated publication ceiling (V15, ending at Score 61; no serial-only Score beyond it) and the structurally verified witnesses. [V01 deep reading and MD-FR-V01](02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) remain frozen and are not redone; the latest closed reading is [V15 / MD-FR-V15](02%20Sequential%20Readings/MEDALIST_V15_DEEP_READING.md), and the progress table below lists every closed unit. Fanbook coverage reconnaissance and audits are authorized only at a verified safe manga checkpoint; adaptation sources remain unauthorized. The historical single-operation V01 authorization is preserved in its own receipt.
 
 ## Recoverable project initialization
 
@@ -60,7 +60,7 @@ project_initialization:
   sequential_analysis_lock: OPEN
   lock_reason: OWNER_APPROVED_FOUNDATION_AND_AUTHORIZED_V01
   lock_reason_current_run: OWNER_AUTHORIZED_CONTINUOUS_SEQUENTIAL_V02_TO_V15
-  next_permitted_operation: "Fanbook 02 paratext audit at the V15 checkpoint, then provisional syntheses, under the active continuous run; no manga unit beyond V15"
+  next_permitted_operation: "Synthesis-readiness and role-gap audit, then provisional syntheses at the V15 boundary with both fanbooks reconciled, under the active continuous run; no manga unit beyond V15"
 sequential_execution:
   mode: continuous_sequential
   unit_type: japanese_tankobon_volume
@@ -68,18 +68,18 @@ sequential_execution:
   terminal_boundary: V15
   terminal_boundary_basis: "Verified publication ceiling at 2026-10-12: V15 collects through Score 61; no serial-only Score beyond it"
   committed_high_water_mark: V15
-  next_candidate_operation: FB02_PARATEXT_AUDIT
+  next_candidate_operation: SYNTHESIS_READINESS_AND_ROLE_GAP_AUDIT
   next_candidate_authorization: AUTHORIZED_WITHIN_ACTIVE_RUN
   confirmation_between_units: false
   run_state: active
   prior_run: "single_operation V01, COMPLETED"
 supplemental_execution:
   scheduled_units: [FB01, FB02]
-  admission_positions_status: "FB01 admit_after V12, audited; FB02 coverage verified, admit_after V13, audit pending"
+  admission_positions_status: "FB01 admit_after V12, audited; FB02 admit_after V13, audited"
   authorized_start: "Coverage reconnaissance and conditional audit at a verified safe manga checkpoint"
-  completed_paratext_audits: 1
-  committed_high_water_mark: FB01
-  run_state: ACTIVE
+  completed_paratext_audits: 2
+  committed_high_water_mark: FB02
+  run_state: COMPLETED_BOTH_SCHEDULED_UNITS
 synthesis_execution:
   authorized_scope: "Provisional character, relationship, specialist and integrated syntheses at the locked boundary"
   run_state: NOT_STARTED
@@ -105,7 +105,7 @@ Preliminary reconnaissance is sufficient for design; the true source gaps below 
 | Structurally verified / admitted / narratively inspected / closed | 15 volume witnesses at container level / V01–V15 / all admitted images of V01–V15 / 15, latest MD-FR-V15 |
 | Planned primary sequence | Japanese V01 onward, one authenticated volume per transaction; V02–V15 authorized as one continuous run with fourteen separately closed transactions |
 | First-source route | V01 delivered CBZ integrity/component map verified, inspected and closed with original-image locators; printing unverified. V02–V15 delivered witnesses passed CRC, full image decode and hash checks at activation; none narratively inspected at that snapshot |
-| Supplemental source positions | FB01 admitted after V12 and audited in full (MD-FR-FB01); FB02 authenticated, coverage verified by reconnaissance (story guide Volumes 5–9, latest material presupposed Volumes 10–11, creator interviews of September 2025), admit_after V13, audit pending; one completed fanbook audit |
+| Supplemental source positions | FB01 admitted after V12 and audited in full (MD-FR-FB01); FB02 admitted after V13 and audited in full (MD-FR-FB02; story guide Volumes 5–9, latest material presupposed Volumes 10–11, creator interviews of September 2025); two completed fanbook audits; a third fanbook is anticipated by the second and is not in the delivered set |
 | Public collected record | V15 latest identified by official publisher records at reconnaissance |
 | Public serialized record | Score 61 (second installment, August 2026 issue, on sale 2026-06-25) is the last serialized installment; official September–November 2026 issue contents omit the series |
 | V15 chapter range / hiatus | V15 witness navigation lists Scores 57–61, to be confirmed page by page when V15 is read; hiatus announced 2026-09-04 with no resumption found at the 2026-10-12 snapshot |
@@ -136,6 +136,7 @@ One row is appended when a volume transaction has closed locally: reading, seven
 | V14 | 54–56, Exhibition 3, Short Program 7 | [V14](02%20Sequential%20Readings/MEDALIST_V14_DEEP_READING.md) / MD-FR-V14 | 1.13 | Closed 2026-10-13; the Junior Grand Prix Final opened, the protagonist first in its short program at 71.26 with one skater to come; the component mark explained; her program's story told; a different series' sample in the witness excluded; eighteen claims advanced a version, one new |
 | V15 | 57–61 | [V15](02%20Sequential%20Readings/MEDALIST_V15_DEEP_READING.md) / MD-FR-V15 | 1.14 | Closed 2026-10-13; terminal unit of the run; the short program completed with the protagonist second by 0.33; the coach's childhood and his faith in his own sacrifice; the pupil's belief said to him by her; a promise in a stairwell; the free skate unopened; twenty-two claims advanced a version, one new |
 | FB01 | supplement; own coverage through V12 | [FB01 audit](02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md) / MD-FR-FB01 | 1.15 | Audited 2026-10-13 at the V15 checkpoint; 171 image occurrences inspected, adaptation pages excluded; creator-reported back story for the heroine's sister and mother, a second adult's regret about the coach as a boy, the stated origin of the adult coach; one conflict of degree with V15 kept; seven claims advanced a version, none new; the mainline boundary unchanged |
+| FB02 | supplement; story guide V05–V09, latest material presupposed V10–V11 | [FB02 audit](02%20Sequential%20Readings/MEDALIST_FB02_PARATEXT_AUDIT.md) / MD-FR-FB02 | 1.16 | Audited 2026-10-13 at the V15 checkpoint; 203 image occurrences inspected; third-party and adaptation material excluded; the author's stated intent for the coach and position on sacrifice, creator-reported regimes and homes, complete result tables, a relative chronology; one conflict of colour with V15 kept; nine claims advanced a version, none new; the mainline boundary unchanged |
 
 ## Supplemental checkpoint route
 
@@ -200,6 +201,8 @@ Preferred future topology is staged: local primary reading/ledgers; fresh cloud 
 2026-10-13, version 1.9: V15 closed, the terminal unit of the continuous run. All 221 image occurrences of the EPUB witness inspected; Scores 57–61 read; seven ledgers reconciled to version 1.14; twenty-two claims advanced with recorded revisions, eight preserved and one registered; MD-FR-V15 frozen. The mainline stands in the warm-up before the free skate of the Junior Grand Prix Final, at the publication ceiling fixed on 2026-10-12. Two judgements made at V13 and carried at V14 were withdrawn by recorded revision on this volume's evidence; a preview page in the V14 witness was found to be contradicted by story pages; no infrastructure was added, and the figure of sorting by black and white is registered as a motif. The sequential phase of the run is complete; fanbook coverage reconnaissance and the provisional syntheses remain.
 
 2026-10-13, version 1.10: Official Fanbook 01 admitted and audited at the V15 checkpoint. Coverage bounded at Volume 12 by three statements on its own pages and by complete inspection of 171 image occurrences; every component assigned a source layer; animation pages excluded. Seven ledgers reconciled to version 1.15, two with no material change; seven claims advanced with recorded revisions; one erratum entered in the character ledger; MD-FR-FB01 frozen. The mainline boundary is unchanged at V15 and Score 61. Official Fanbook 02 is authenticated and its coverage verified; its audit is next.
+
+2026-10-13, version 1.11: Official Fanbook 02 admitted and audited at the V15 checkpoint. Coverage bounded by its own headings and by complete inspection of 203 image occurrences; no event of Volume 14 or 15 found; every component assigned a source layer; a third-party collaboration, animation information and adaptation talk excluded. Seven ledgers reconciled to version 1.16, one with no material change; nine claims advanced with recorded revisions; MD-FR-FB02 frozen. An author's statement of intended direction for one character is recorded as intent and adopted as no prediction. Both scheduled supplements are closed; the mainline boundary is unchanged at V15 and Score 61. The synthesis-readiness and role-gap audit is next.
 
 ## Higher-level governing controls
 

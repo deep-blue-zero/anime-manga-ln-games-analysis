@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.15"
+version: "1.16"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -694,3 +694,26 @@ New proposition key: MD-PROP-0058 that Mika stopped skating to lighten her mothe
 | MD-RT-0115 | EV-0020, FB01 | V01, a clerk who admits a child for worms; V15:EV-0036, a boy at that rink's counter | The admission was an adult's reparation | The boy is unnamed | MD-RV-0266; MODERATE-HIGH |
 | MD-RT-0116 | EV-0012, FB01 | V01 onward, an adult coach as the heroine's supporter; MD-CL-0031@1 | The role was created to answer where the adults were | A statement of design | MD-RV-0266; HIGH as stated |
 | MD-RT-0117 | EV-0013/0014, FB01 | V12–V13, a manner that was an act; a coach who left | Both were conceived so before those volumes; smoking is said to bar his own return | Resolves nothing about his reason for leaving | MD-RV-0263/0269; HIGH as stated |
+
+## FB02 evidence tables
+
+In this section `EV-####` expands to the [Official Fanbook 02 paratext audit's](../02%20Sequential%20Readings/MEDALIST_FB02_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB02-####`; the first fanbook's observations are written `FB01:EV-####`. The supplement's analytical position is after `MD-FR-FB01`. No calendar year of the story is inferred; the supplement itself says that the story's world is a little in the future and differs from the real one. Earlier tables are unchanged.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0124 | A relative chronology against Winter Olympic years, here lettered A to E at four-year intervals. A: Yodaka's gold at twenty, with Sonidori competing; Tsukasa enters middle school at twelve and later sees the footage. Three years on: Tsukasa enters high school; Inori is born; Rio is born in November. B: Hikaru is born in January. Two years on: Tsukasa leaves high school at eighteen. C: Riley Fox's gold at sixteen; Sonidori's silver. The following year: the three children enter primary school; in December Tsukasa, twenty-four, and Hitomi, twenty-six, skate their last championship. D: Riina competes at fifteen. The following year: Inori, eleven, meets Tsukasa, twenty-six. The year after: Hikaru and Rio win Novice A; Iruka, sixteen, wins the series final in December. E: the three enter middle school; in summer Inori, thirteen, is designated | A table / statement | EV-0027 | Agrees with MD-TM-0113, 0119 and 0120. Sonidori's ages in the table (twenty at A, twenty-eight at C) do not fit his thirty-six at V05; unresolved | HIGH as stated; FB-DATA |
+| MD-TM-0125 | Outer time: interviews of September 2025; a conversation first printed in the magazine's August 2025 issue; first impression 2026-01-22; digital colophon 2026-01-01; afterword dated January 2026; a third fanbook anticipated | Notes, colophons / statement | EV-0001/0030/0031 | Published the same day as V14 and before V15's chapters were collected | HIGH as stated |
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0157 | That Mika and her mother sheltered Iruka, and why Mika left / Iruka; Mika; the mother; Inori | Through V15 | STATED by creator boxes in two fanbooks. Iruka is NOT SHOWN to know why Mika stopped; Mika supposes herself forgotten (V13); Inori is NOT SHOWN to know any of it | Three people hold parts of one history and none holds it all | EV-0012; FB01:EV-0007; HIGH that it is stated; prior MD-KN-0134/0154 |
+| MD-KN-0158 | Who the boy wished for / Tsukasa; Yodaka; the reader | V06 and V15 | The author STATES that the boy wished the champion would coach him. V15's story page leaves the wished-for person unnamed; Yodaka knew little of him and nothing of why he stopped | The author names what the page withholds | EV-0023; HIGH as stated; prior MD-KN-0150 |
+| MD-KN-0159 | The author's intent for the coach / the reader | August–September 2025 | STATED: he has not accepted his past self; the series is his journey toward coming to like himself. It is intent, made before the chapters of V15, and names no event | Corroborates a reading; forecasts nothing this ledger adopts | EV-0030; HIGH as stated |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0118 | EV-0030, FB02 | V15:EV-0035/0039/0045/0050, his childhood, diagnosis and promise; MD-CL-0010@15 | The arc was the author's stated design beforehand | Design is not proof that the pages realize it | MD-RV-0271; HIGH as stated |
+| MD-RT-0119 | EV-0026, FB02 | V09:EV-0046 and V15:EV-0049, the dispute over sacrifice; MD-CL-0025@9 | The author declines the creed in her own voice; the accusation of V09 was first the champion's | — | MD-RV-0276; HIGH as stated |
+| MD-RT-0120 | EV-0024, FB02 | V07, a child's remark at a lake; V15:EV-0035, a father's sentence | The remark was built to affirm his birth; the sentence it answers was disclosed eight volumes later | A collaborator finds the same remark cruel | MD-RV-0271; HIGH as stated |
+| MD-RT-0121 | EV-0029, FB02 | V09, her free skate; V15:EV-0048, a feeling she dates to middle school | Drafts for V09 already give her the wish to repay those who protected her | Drafts are not the printed page; her own dating stands | MD-RV-0278; MODERATE |
+| MD-RT-0122 | EV-0012/0016, FB02; FB01:EV-0007 | V09, a career that ends so that others need not strain; V13, a friend who left | Each stopping is given a parent it was meant to spare | Reported conception | MD-RV-0275/0277; HIGH as stated |

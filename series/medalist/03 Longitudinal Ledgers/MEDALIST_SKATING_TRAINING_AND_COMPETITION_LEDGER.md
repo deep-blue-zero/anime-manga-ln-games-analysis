@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.15"
+version: "1.16"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -521,3 +521,14 @@ The external-reference table still has no rows. Demonstrated frontier at `MD-FR-
 ## FB01 evidence tables
 
 In this section `EV-####` expands to the [Official Fanbook 01 paratext audit's](../02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB01-####`. No material change. The supplement reconstructs four programs already recorded here (two at the Meikō Cup, two at the West Japan meet) with start orders, element lists and scores; every score agrees with the existing rows (EV-0026). Its primer on classes, badge grades and the season agrees with the in-story statements recorded from V10 to V15 and is the fanbook's own summary for one season's rules (EV-0002). It is not admitted as an external rule reference, and the external-reference table remains empty. Earlier tables are unchanged.
+
+## FB02 evidence tables
+
+In this section `EV-####` expands to the [Official Fanbook 02 paratext audit's](../02%20Sequential%20Readings/MEDALIST_FB02_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB02-####`. No performance or technical row is added. Two existing competitions are annotated with data the supplement prints (FB-DATA, FB-TECHNICAL). The supplement is not an external rule reference, and the external-reference table remains empty. Earlier tables are unchanged.
+
+| Competition | Supplemental annotation | Basis | Limit |
+| --- | --- | --- | --- |
+| MD-COMP-0006 | A fifteen-place result table: places one to six and their scores as recorded here; then seventh 69.02, eighth 68.37, ninth 67.40, tenth 64.00, eleventh 63.26, twelfth 62.43, thirteenth 53.77, fourteenth 50.12, fifteenth 49.86. Ten-element lists for seven programs, the protagonist's among them with every element credited and a step sequence listed at level 3 | EV-0022 | Places and element lists the manga did not print are fanbook data. |
+| MD-COMP-0007 | A fifteen-place result table: the four places recorded here; then fifth 105.43, sixth 102.44, seventh 102.03, eighth 101.10, ninth 87.26, tenth 85.88, eleventh 81.02, twelfth 80.07, thirteenth 79.55, fourteenth 74.67, fifteenth 74.32. Ten-element lists for the silver medallist, the champion and the protagonist, agreeing with MD-PERF-0083 for the last | EV-0025 | As above. |
+
+A table in the supplement states that the skater of MD-CHAR-0037 won the Junior Grand Prix Final at sixteen, the December before the protagonist entered middle school (EV-0027). The manga calls her the series' champion; the supplement's statement is recorded as fanbook data.

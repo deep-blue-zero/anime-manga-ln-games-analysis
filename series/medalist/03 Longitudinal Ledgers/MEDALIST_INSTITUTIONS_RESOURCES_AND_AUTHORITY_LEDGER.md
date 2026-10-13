@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.15"
+version: "1.16"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -546,3 +546,15 @@ In this section `EV-####` expands to the [Official Fanbook 01 paratext audit's](
 | MD-IN-0157 | ORG-0002 and ORG-0035, a club's succession; ORG-0008, a club's backers | Before V01 | The head coach's father was named successor to the previous coach, does not wish to coach there, and his daughter runs the club; a two-person club exists on the support of its pupil's mother and the blessing of the head coach its founder left | Small clubs depend on a family's or a patron's willingness | EV-0015/0017/0024; MD-CL-0009@3 | FB-CREATOR, FB-EDITORIAL; HIGH as stated |
 
 A creator box reports that the series was first conceived with a child as the heroine's supporter and that an adult coach was introduced after an editor asked what the adults were doing (EV-0012). It is a statement of design and adds no institutional event.
+
+## FB02 evidence tables
+
+In this section `EV-####` expands to the [Official Fanbook 02 paratext audit's](../02%20Sequential%20Readings/MEDALIST_FB02_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB02-####`. Rows are at a creator's or documentary weight and are not story-page events. Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0158 | ORG-0002 and ORG-0007, an assistant coach's economy | The period of V05–V09 | Lodging at a patron's house in exchange for the care of a child and housework; one coached pupil and trial lessons; part-time work at the patron's firm and night traffic control; sleep cut to cover both; club parents who measure him against the head coach's lost results | A coach's total service is financed by a household and by his own body; the book calls the last not good | EV-0004; MD-CL-0010@16/0011@16 | FB-CREATOR; HIGH as stated; prior MD-IN-0153 |
+| MD-IN-0159 | ORG-0006, the hidden regime from inside | The period of V05–V09 | A midnight lesson of about an hour two or three nights a week; school missed the next day; daytime practice left undirected on the coach's policy; a pupil with no friends who fears failing the lesson | A child's week is organized around one adult's hour | EV-0006/0007; MD-CL-0016@14/0003@14 | FB-CREATOR; HIGH as stated; prior MD-IN-0084 |
+| MD-IN-0160 | Access and shelter among clubs and households | Years before V01 to V09 | A child from a harmful home drawn into a club by an older skater and sheltered by that skater's mother; a senior head coach who makes it his business to give people a place; a coach and his wife who keep on terms with a pupil's parents for her sake; an application declined on a mother's word; a skater who must stop because her one parent cannot be kept working | Who gets to skate, and who is looked after while skating, is settled between households | EV-0010/0012/0014/0016; MD-CL-0014@11/0022@12/0026@9 | FB-CREATOR; HIGH as stated |
+
+A table sets the story's events against Winter Olympic years without calendar years, under a statement that the story's world is a little in the future and differs from the real one (EV-0027). It is recorded in the chronology ledger.

@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.15"
+version: "1.16"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -461,3 +461,7 @@ All feature and motif records below are version 1 through `MD-FR-V15`. In this s
 ## FB01 evidence tables
 
 No material change. The [Official Fanbook 01 paratext audit](../02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md) records cover art, promotional illustration, costume design settings and four pieces of bonus fiction, two of them rough storyboards. None was analysed as page form: the promotional art is not narrative, the storyboards are unfinished, and the two finished short manga are brief comic pieces whose construction adds no feature or motif record. The costume settings are creator statements and are linked from the character ledger. Earlier tables are unchanged.
+
+## FB02 evidence tables
+
+No material change. The [Official Fanbook 02 paratext audit](../02%20Sequential%20Readings/MEDALIST_FB02_PARATEXT_AUDIT.md) records an illustration gallery, reproduced pages of the author's sketchbook with thumbnails for a sequence already analysed at V09, and an author-drawn crossover that is non-continuity by construction. None adds a feature or motif record. Two remarks are noted as context only: the author's statement that she drew the rain scene of V09 so that a mask would be seen to break (EV-0026), which agrees with MD-VF rows for that scene, and an assistant's remark that the series' nights are worked in light and shadow without mercy (EV-0032), which agrees with MD-MOT-0008. Earlier tables are unchanged.

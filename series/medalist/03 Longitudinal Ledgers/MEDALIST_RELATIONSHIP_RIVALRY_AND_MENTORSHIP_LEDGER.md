@@ -5,14 +5,14 @@ artifact_type: "relationship_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.15"
+version: "1.16"
 status: "canonical"
 scope: "Directional interpersonal interpretations and transitions among athletes, coaches, peers and families"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_RELATIONSHIP_RIVALRY_AND_MENTORSHIP_LEDGER.md"
-source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbook 01 audited (MD-FR-FB01); Fanbook 02 and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB01_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -840,3 +840,14 @@ In this section `EV-####` expands to the [Official Fanbook 01 paratext audit's](
 | MD-PAIR-0002 Inori/mother, with her sister | The mother is said to resist her younger daughter's attempts because she sees herself in her; the sister is said to have stopped skating to spare the mother, unknown to both; a short manga shows the mother driving her to the rink daily | FB-CREATOR, FB-FICTION; EV-0006/0007/0022 | Reported conception; fiction at its own weight. |
 | MD-PAIR-0007 Tsukasa/Kago and MD-PAIR-0069 Tsukasa/Meiko | By the box the wife knew he skated from the first and the family backed him quietly; MD-RL-0352 and 0350 record, from V15, that they first learned of it in Yokohama | FB-CREATOR; EV-0010 | Conflict of degree; the story pages govern. |
 | MD-PAIR-0011 Yodaka/Hikaru | A short manga and a box place him outside her play and say she does not think him always right | FB-FICTION, FB-CREATOR; EV-0013/0023 | Before V12–V13. |
+
+## FB02 evidence tables
+
+In this section `EV-####` expands to the [Official Fanbook 02 paratext audit's](../02%20Sequential%20Readings/MEDALIST_FB02_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB02-####`. No transition row is added. Four annotations are recorded against existing pairs at a creator's weight. Earlier tables and the V15 projection are unchanged.
+
+| Pair | Annotation | Layer / basis | Limit |
+| --- | --- | --- | --- |
+| MD-PAIR-0009 Tsukasa/Yodaka | By the author, the boy wished the champion would be his coach and tell him whether he had talent; on the night of V06 he heard it too late and parted from the boy who admired him | FB-CREATOR; EV-0023 | Reported; consistent with MD-RL-0362. |
+| MD-PAIR-0001 Tsukasa/Inori | By the author, her line at the lake in V07 was built as an affirmation of his having been born; a working note gives him a wish to repay her for a new road; drafts give her a wish to repay those who protected her | FB-CREATOR, raw notes; EV-0024/0028/0029 | Drafts are not the printed page. |
+| MD-PAIR-0050 Iruka/Mika, with the mother | Mika saw a straining child and drew her into a club of children; the mother sheltered her; Mika's sudden retirement parted them; a chart labels Iruka's feeling as admiration and anger | FB-CREATOR, FB-EDITORIAL; EV-0012/0013 | Reported conception. |
+| MD-PAIR-0011 Yodaka/Hikaru | Her days are organized by fear of failing his lesson; he leaves her daytime undirected on principle; the verdict she speaks in V09 was first written for him | FB-CREATOR; EV-0006/0007/0026 | For the period before V12. |
