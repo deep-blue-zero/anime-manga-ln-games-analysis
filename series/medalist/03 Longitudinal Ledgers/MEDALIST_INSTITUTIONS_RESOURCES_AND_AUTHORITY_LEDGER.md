@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.10"
+version: "1.11"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V11 closed (Scores 1–45, Short Programs 1–6, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V12 closed (Scores 1–48, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V11_UPDATE"
+review_status: "AUTHOR_REVIEWED_V12_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -406,3 +406,36 @@ A creator note records that the Bangkok chapters were researched on a visit (EV-
 | The hidden coach's regime | ORG-0006 | MD-IN-0084/0107/0119 | Its front has fallen ill and been left. | Its new form. |
 | Team travel | The federation | MD-IN-0113 | Conditioning and conduct as part of the event. | — |
 | Others | As V10 | as before | Unchanged in V11. | — |
+
+## V12 evidence tables
+
+All events below are version 1 through `MD-FR-V12`. In this section `EV-####` expands to the [V12 reading's](../02%20Sequential%20Readings/MEDALIST_V12_DEEP_READING.md#canonical-observations) `MD-EV-V12-####`. New setting: MD-ORG-0037, this season's All-Japan Junior championship at a Yokohama arena (新横浜スケートセンター as lettered). The same arena was the home rink of the ice-dance practice recorded as MD-ORG-0032 and, in part, MD-ORG-0035; those two keys describe one place, and the earlier rows are left as written. Earlier tables are unchanged. Descriptions are paraphrases.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0120 | ORG-0006, ORG-0016 and ORG-0028: a transfer | Late August to early September | The coach of record, in hospital, hands his ward to another head coach who accepts the same conditions as he did: rink time at night and concealment of the real coach; the choreographer and the step teacher move with her; the pupil asked an old coach how a transfer is done | The hidden arrangement survives its front's illness intact, in a richer club | EV-0003/0018; MD-CS-0250/0260; MD-CL-0016@11/0011@12 | HIGH; resolves the inference recorded at MD-IN-0119 |
+| MD-IN-0121 | ORG-0028, its regime | From September | A rink of its own; morning ice once a week; sleep prescribed; mostly off-ice work with video and posture checks; stretching after skating; every pupil a transfer and nearly all of one age; a doctrine of minding no one | A club organized against injury and against deference, now also housing a regime of nightly run-throughs | EV-0021/0022/0036/0037; MD-SK-0076; MD-CL-0022@8/0026@5 | HIGH; how the two regimes are reconciled is not shown; prior MD-IN-0115 |
+| MD-IN-0122 | ORG-0006, its staff and members | The season | Its head coach collapses from overwork after pupils multiplied, by parents' account chiefly on one skater's fame; he had added career interviews to his duties; a restricted-practice day is in force for at least one pupil; the departing skater is given a formal farewell | A leading club's capacity is exceeded by its own success; its best young skater leaves it | EV-0003/0008/0011; MD-CS-0250; MD-CL-0023@8/0011@12 | HIGH for what is said and shown |
+| MD-IN-0123 | A sports-course middle school and its dormitory | From September | A school chosen by the former guardian, with pupils from several sports and a dormitory with a matron | A thirteen-year-old lives away from any household; her former guardians remain her adults | EV-0012/0017; MD-CL-0011@12 | HIGH |
+| MD-IN-0124 | The season's calendar and entry rules | As diagrammed and stated | A seeded novice skips her block; novices are recommended to the junior nationals in a number set each year, three last season and eight this season by a creator note; medalists at the junior nationals are seeded the next year; series entries may be changed in mid-season | The protagonist's absence from last year's junior nationals is explained; her second series event was changed | EV-0015/0024/0025/0027; MD-CL-0013@12 | HIGH as stated; one item is a creator statement; prior MD-IN-0089/0109 |
+| MD-IN-0125 | ORG-0034, the series' outcome | Decided 17 October | Six women qualify: two with 30 points, two with 28, two with 24, the protagonist among the last | Her stated goal of the final's title remains open; one of the two leaders is injured a month before it | EV-0029/0039; MD-COMP-0013; MD-CL-0013@12 | HIGH for the table |
+| MD-IN-0126 | Junior short-program rules, refined | As stated in Score 48 | The solo Axel must be a double, but a triple Axel may be the first jump of the combination | The common layout binds every skater but one who can do that | EV-0034; MD-SK-0074; MD-CL-0008@11/0013@12 | HIGH as stated; qualifies MD-IN-0110 without replacing it |
+| MD-IN-0127 | ORG-0037, what the junior nationals are for and how they run | Mid-November | The result bears on designation and on entry to the world juniors and the senior nationals; juniors use it to decide whether, in what and how seriously to continue; start order is drawn; a warm-up is not stopped for an injured skater, and a withdrawal moves the order up | An event on which many futures depend proceeds past an injury to its leading entrant | EV-0032/0033/0039/0041; MD-CL-0013@12/0022@8 | HIGH as stated and shown |
+| MD-IN-0128 | ORG-0032 and ORG-0002: a coach's standing | Mid-November | The assistant coach of a small club returns to the rink where he competed, attends an opening ceremony on a guardian's pass, is recognized as someone thought to have left the sport, and privately ties his standing as a coach to one result on a day set by a rival's pupil | Professional standing is experienced as contingent on a single medal by the man who told his pupil that worth is not | EV-0028/0030/0031; MD-CS-0266; MD-CL-0010@12/0025@7 | HIGH |
+
+Two creator notes are recorded as production statements: that a broadcast, a novel and a guidebook accompany this volume (EV-0046), and that the author intends the rival's transfer not to read as the wrong path (EV-0016). The first is outside this manga-only scope; the second is used only as a statement of intent.
+
+### Current projection after V12
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| The hidden coach's regime | Now at ORG-0028 | MD-IN-0084/0119/0120 | Transplanted whole, with a new coach of record. | Whether she will oppose it; the further clause. |
+| Star Fox | Its pupils | MD-IN-0115/0121 | Rest, off-ice work, transfers of one age. | Two regimes for one pupil. |
+| Meikō Wind | Nagoya | MD-IN-0122 | Overstretched; its head recovering; its prodigy gone. | — |
+| The series | This season | MD-IN-0109/0125 | Six finalists; the protagonist qualified with a fourth and a first. | The final in December; one finalist injured. |
+| Junior rules | Short program | MD-IN-0110/0126 | A common layout with one exception. | External verification. |
+| The junior nationals | This season | MD-IN-0124/0127; MD-COMP-0016 | In progress: one score, one withdrawal. | The rest of the event. |
+| Entry and seeding | The federation | MD-IN-0124 | Recommendation numbers vary by year; medalists are seeded. | — |
+| A coach's standing | Lux | MD-IN-0128 | Staked by him on one result. | Whether he says so. |
+| Recruitment | Two clubs | MD-IN-0116 | The offer to the protagonist's coach is not revisited. | Outcome. |
+| Others | As V11 | as before | Unchanged in V12. | — |

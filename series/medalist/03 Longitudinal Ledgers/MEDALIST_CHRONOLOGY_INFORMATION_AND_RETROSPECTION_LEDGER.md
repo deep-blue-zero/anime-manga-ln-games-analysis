@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.10"
+version: "1.11"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V11 closed (Scores 1–45, Short Programs 1–6, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V12 closed (Scores 1–48, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V11_UPDATE"
+review_status: "AUTHOR_REVIEWED_V12_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -512,3 +512,43 @@ New proposition keys: MD-PROP-0041 that a trainer recognized the protagonist's s
 | MD-RT-0078 | EV-0038, Score 45 | V07–V08 Riley Fox's club and fluency; V10:EV-0002, "if the age limits do not change again" | Her title at sixteen and immediate retirement to Japan; the rule that allowed it has been reversed | In-story history under a fiction notice | MD-RV-0166/0172; HIGH |
 | MD-RT-0079 | EV-0048/0049, Score 45 | V10:EV-0034/0035, a former coach's testimony and a guardian's fear; V10:EV-0002, an old teacher's question | Each is enacted: the pupil leaves a club as her coach left his | The destination and terms are not stated | MD-RV-0158/0169/0175; HIGH for the departure |
 | MD-RT-0080 | EV-0052, Short Program 6 | V10:EV-0006, her mother's return to work; V10's camp | The mother who stopped travelling has been sleeping beside her; behind the camp's successes she was homesick and disorganized | — | MD-RV-0167/0176; HIGH |
+
+## V12 evidence tables
+
+All records below are version 1 through `MD-FR-V12`. In this section `EV-####` expands to the [V12 reading's](../02%20Sequential%20Readings/MEDALIST_V12_DEEP_READING.md#canonical-observations) `MD-EV-V12-####`; earlier volumes are written with their volume prefix. No calendar year is inferred. Earlier tables are unchanged. Descriptions are paraphrases.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0096 | Three days before the end of the summer holiday to 4 September: a public session; Sonidori's call from hospital; a room given away; the quarrel and the dance with Rio; the farewell at the club; the platform; the train | Score 46 / PRESENT, with a date caption for the last | EV-0002–0015 | Follows the Bangkok event at once; the hospital visit of V11 lies just before | HIGH |
+| MD-TM-0097 | Early September in Tokyo: a first day at school; a dinner; the contract restated; a first day at the club | Score 47 / FLASHBACK from mid-October | EV-0017–0023 | — | HIGH |
+| MD-TM-0098 | Before mid-October: the protagonist wins Event 7, the series being decided on 17 October; mid-October: the All-Japan Novice | Scores 47–48 / report, headline and scene | EV-0024/0025/0028/0029 | Her entry was moved from Event 6 to Event 7, so the calendar diagram of early September shows the earlier plan | HIGH for the dates stated |
+| MD-TM-0099 | Mid-November: the opening ceremony and draw of the All-Japan Junior; the next afternoon, the women's short program from about four o'clock; the freeze falls at the protagonist's opening pose | Scores 47–48 / PRESENT | EV-0025/0026/0028–0041 | The draw is shown in a flashback inside the short program | HIGH |
+| MD-TM-0100 | Hikaru's past: a name given by birth parents; a house that bears her family name, where holding back pleased; a plea to Yodaka in a room with snow at the windows; arrival at the Sonidori house six years before the present, already taught by him; a first birthday there | Score 46–47 and an aside / MEMORY, SELF_REPORT, creator aside | EV-0006/0009/0013/0019/0047 | The order of the earlier house, the plea and the arrival is not fixed; V04 put her arrival at about seven | HIGH content; LOW ordering of the earliest items |
+| MD-TM-0101 | Last season, retrospectively: three novices recommended to the All-Japan Junior; Hikaru, eleven, wins it with a quadruple toe loop; Iruka second, then winner of the series final in December and a medalist at the senior nationals | Score 47 and a creator note / article, captions, statement | EV-0025/0027 | Fills the elision recorded as MD-TM-0078 from the rival's side | HIGH as stated |
+| MD-TM-0102 | Older and outer time: Tsukasa's competitive years at the Yokohama rink as Hitomi's last partner; Yodaka's changes of club from his second year in the younger novice class; a season calendar from August to December; serialization in the October 2024 to January 2025 issues; first impression 2025-01-22; a digital colophon dated 2025-01-01 | Scores 46 and 48, colophons / report and statement | EV-0003/0015/0030/0046 | Consistent with MD-TM-0074 and 0087; the colophon dates are out of order for the third volume running | HIGH as stated |
+
+New proposition keys: MD-PROP-0045 the terms of the contract between Yodaka and Hikaru; MD-PROP-0046 that Hikaru's manner in the Sonidori house was an act; MD-PROP-0047 that Tsukasa takes this All-Japan Junior for the test set under the bridge and has staked his pride as a coach on it.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0115 | PROP-0044 / the reader; Meikō Wind; the national field | From late August to mid-October | CONFIRMED on story pages: Star Fox under Riley Fox; announced to her club at a farewell; public by the All-Japan Novice, where her new club's name is first taken for a misprint | Resolves MD-KN-0112's open half | EV-0003/0011/0017; HIGH |
+| MD-KN-0116 | PROP-0045 / Hikaru, Yodaka; Riley Fox; Tsukasa and Inori | Early September | KNOWN to the two; Riley Fox accepted "the same conditions" and watches their exchange, and is not shown to know the clauses; Tsukasa and Inori are NOT SHOWN to know | The other team does not know what a loss would cost her | EV-0018/0019/0020; HIGH; prior MD-KN-0104 |
+| MD-KN-0117 | PROP-0046 / Rio; the reader | Late August to 4 September | TOLD to Rio as fact and DISBELIEVED by him; the reader is then shown a memory that supports part of it and her solitary thought that the house was her home | Its truth is left double | EV-0006/0007/0013/0014; HIGH that each is shown |
+| MD-KN-0118 | The parents' account of Sonidori's collapse / Hikaru; Sonidori | Late August | OVERHEARD by her; he is NOT SHOWN to know she heard | She counts it among her shadows and does not name it to anyone as her reason | EV-0003/0009; HIGH |
+| MD-KN-0119 | PROP-0040 and its cause / Riley Fox; Hikaru | September | Riley INFERS that the injury came from practising under others' eyes out of guilt; Hikaru does not deny it and refuses to be ashamed | An outsider names what her guardian could not see | EV-0022; HIGH |
+| MD-KN-0120 | Yodaka's verdict on the other pair / Hikaru; Tsukasa and Inori | Early September | HEARD by her and inwardly rejected as to Inori; NOT KNOWN to them | He is contemptuous of a man who is still treating their wager as live | EV-0020/0026/0031; HIGH |
+| MD-KN-0121 | His refusal to ease her layout and "a loss here ends it" / Sorokin; Hikaru | The night of her fall | HEARD by Sorokin; NOT HEARD by her, who is telling herself that he is watching and she need only obey | Her obedience and his sanction are placed in adjoining panels without contact | EV-0038; HIGH |
+| MD-KN-0122 | PROP-0047, and that the arena was his rink / Tsukasa; Hitomi; Inori | Mid-November | He KNOWS and has told no one of the test; Hitomi hears his remark about pride and does not follow; Inori learns of the rink from Hitomi, not from him, and is NOT TOLD of the test | One more thing he has not said to her | EV-0030/0031; HIGH; prior MD-KN-0108 |
+| MD-KN-0123 | PROP-0033 / Inori; Tsukasa | Mid-November | She still BELIEVES that she cost him his skating, now in the form that he would be here but for her; strangers' remarks feed it; he is NOT SHOWN to know | The answers she was given in V11 did not reach this belief | EV-0030; HIGH; prior MD-KN-0107 |
+| MD-KN-0124 | Iruka's injury / Inori, Mika, Tsukasa; Hikaru; the reader | Mid-November | The first three SEE her down; Hikaru, backstage, LEARNS late from a club-mate; the reader is NOT SHOWN how it happened or what it is | The heroine starts knowing only that the leader is gone | EV-0039/0040/0041; HIGH |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0081 | EV-0003/0018, Scores 46–47 | V11:EV-0048/0049 and the labelled inference in MD-CL-0025@6 | The destination is confirmed as Riley Fox's club, with the hidden coach retained on the old conditions | — | MD-RV-0181/0190/0195; HIGH |
+| MD-RT-0082 | EV-0019/0020, Score 47 | V06:EV-0038 a contract; V08:EV-0038 a rule of one fall; V10:EV-0002 seven years of gold | One agreement, begun at a child's request, whose sanction is the coach's withdrawal and of which the run-through rule is a clause | The last clause is alluded to, not stated | MD-RV-0190; HIGH |
+| MD-RT-0083 | EV-0006/0007/0013/0014, Score 46 | V04's account by Rio of her arrival and of being overtaken; V10:EV-0035 Sonidori's guess that her reliance might be shown | Her side: deliberate adaptation and concealed ability from the first day; his side and her own solitary thought: that the life built so was real | Her speech is instrumental; no third witness | MD-RV-0181/0192; HIGH that both are on the page |
+| MD-RT-0084 | EV-0025, Score 47 | V09's elision (MD-TM-0078) and V10's account of the months | During it the rival won the national junior title at eleven and Iruka, second, went on to win the series final | — | MD-RV-0187/0193; HIGH |
+| MD-RT-0085 | EV-0027, creator note | V09:EV-0039/0049 fourth place and lost advantages | Only three novices were recommended that year, so fourth carried no junior entry | A creator statement, not a story page | MD-RV-0187; HIGH as statement |
+| MD-RT-0086 | EV-0030, Score 48 | V09:EV-0009 and V10:EV-0037, his former club and Takamine's Yokohama practice | The place is this arena; he was Hitomi's last partner; acquaintances thought he had left the sport | — | MD-RV-0184; HIGH |
+| MD-RT-0087 | EV-0020/0026, Score 47 | V09:EV-0029/0034/0036, Yodaka's reactions to her skate | His stated view now is boredom and contempt; his pupil explains it by his opinion of himself | Sits oddly with spoken praise a year earlier; may be a pose for his pupil | MD-RV-0190/0195; HIGH that it is said |
+| MD-RT-0088 | EV-0023, Score 47 | V10:EV-0034/0036 a hawk's eye and his self-recognition; V11:EV-0042 the offer | A third party confirms that he has a gift for reproduction like the rival's and says she wanted him as a demonstrator | Attributed appraisal | MD-RV-0184; HIGH that it is said |

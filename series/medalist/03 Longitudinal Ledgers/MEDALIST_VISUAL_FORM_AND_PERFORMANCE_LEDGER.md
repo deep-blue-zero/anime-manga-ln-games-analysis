@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.10"
+version: "1.11"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V11 closed (Scores 1–45, Short Programs 1–6, one Exhibition, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V12 closed (Scores 1–48, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V11_UPDATE"
+review_status: "AUTHOR_REVIEWED_V12_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -337,3 +337,30 @@ All feature and motif records below are version 1 through `MD-FR-V11`. In this s
 | MD-MOT-0013 — light and shadow (extended) | V11: EV-0025 the thought that the one who shines would never wish others ill; EV-0028 lines of light by which a skater finds herself | She idealizes the rival who, in V09, owned her shadow | Light is now also orientation | MD-CL-0023@7 |
 | MD-MOT-0014 — the maze and the eye above (extended) | V11: EV-0010 a body she does not know; EV-0027 control without sight; EV-0032 a program reproduced from one viewing and a wish to give that away | The first step toward self-observation comes from a quota, not from his teaching | The faculty is shown in two bodies and not yet transmitted | MD-CL-0010@11 |
 | MD-MOT-0002, 0004, 0006, 0007, 0008, 0010, 0012 | 0002: identical content, different marks (EV-0030). 0004: a trainer who answers for a harm she could not prevent (EV-0006). 0006: a fall reported and not drawn (EV-0043). 0007: a first-volume sentence about staking a life returned as her reason to wait (EV-0046). 0008: a night of confidences (EV-0034–0036). 0010: his word for a goal he will serve (EV-0003). 0012: none | — | Unchanged in kind | — |
+
+## V12 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V12`. In this section `EV-####` expands to the [V12 reading's](../02%20Sequential%20Readings/MEDALIST_V12_DEEP_READING.md#canonical-observations) `MD-EV-V12-####`. Locators are image occurrences in CBZ order. Order is verified. Facing-page geometry was not verified for any pair in this volume. The Exhibition is a parody in another genre and is recorded here as form only. Earlier tables are unchanged.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0104 | MD-MOT-0013; EV-0004/0009 | 0013–0016, 0033–0034 | A room of frills and toys being packed and given away; a dark collage of people leaving, a friend's tears, an ambulance and a falling skater under a caption about being swallowed; a figure among crouched silhouettes with a wolf's shape behind | Draws a child's inventory of the harm she thinks she does | MD-CS-0251/0254; MD-CL-0012@12/0023@8 | HIGH |
+| MD-VF-0105 | MD-MOT-0008; EV-0013/0014/0015 | 0040–0049 | A black-bordered memory that widens from a cake counter to a child on a man's shoulders over a harbour and a snow country; a train; hands on glass; a full-page figure at a carriage door | Lets a remembered welcome answer a speech that denied it, and ends a chapter on a resolve | MD-CS-0257/0258; MD-CL-0012@12/0003@11 | HIGH |
+| MD-VF-0106 | MD-MOT-0012; EV-0017 | 0053 | A full-page allegory: a woman in a wide hat with a fox's tail lowers a wolf's head over a girl who holds a birdcage, among coins, stars and bare branches | Presents a transfer as a costume put on by someone else, with the cage in the girl's own hands | MD-CS-0260; MD-CL-0012@12/0011@12 | HIGH |
+| MD-VF-0107 | MD-MOT-0013/0001; EV-0018/0019 | 0062–0068 | A table at which one guest's plate is carried away untouched; a small light crossing a terrace; cupped hands passing it to another's; a memory of a kneeling child and a kneeling man in a room with snow at tall windows | Sets a pupil's tenderness beside a coach's terms in one evening | MD-CS-0261/0262; MD-CL-0012@12/0016@11 | HIGH |
+| MD-VF-0108 | MD-MOT-0002; EV-0015/0024/0025/0028/0029 | 0005, 0047, 0084–0085, 0091, 0094–0096 | Results given as documents: a jump on a telephone screen, a season as a two-row calendar, a year-old article reread, a headline held in the hand, six finalists as a broadcast graphic | Reports the heroine's first international title and the rival's past title without drawing either | MD-COMP-0013/0015; MD-CL-0012@12/0005@11 | HIGH |
+| MD-VF-0109 | MD-MOT-0006; EV-0033/0034/0035 | 0111–0121 | Comic graphics of a field's dread; an opening with arms like wings in multiple exposure; a full-page combination; cards showing the one exception to a common layout; a full-page jump, then a small figure on the ice, a judge's hand on a button and a black square in a row of boxes | Stages the series' first fall by its prodigy as a row of boxes with one filled in | MD-PERF-0103; MD-CL-0012@12/0016@11 | HIGH |
+| MD-VF-0110 | MD-MOT-0010/0007; EV-0037/0039 | 0125–0126, 0134–0137 | A strip of three faces, the coach now, the coach in last year's rain and his opponent in the dark, under a two-part caption; later a wide view of a rink with one figure lying still while others skate | Addresses a creed to a contest, then shows what the creed also covers | MD-CS-0266/0269; MD-CL-0012@12/0025@7 | HIGH |
+| MD-VF-0111 | EV-0041/0043 | 0143–0144; 0147–0158 | A full page of the heroine alone at centre ice under lights and a last panel of her opening pose, the third volume to end so; then a fantasy parody in which the same cast are swordsmen, a restraint holds the rival's power, and a master says a guide has his pupil's gift | Withholds the skate again after two chapters given to the rival; the parody restates the volume's ideas as play | MD-CS-0270; MD-CL-0012@12 | HIGH; the parody is not continuity; cf. MD-VF-0044/0075 |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0013 — light and shadow (extended) | V12: a chapter title; EV-0009 a wolf that makes shadows and chases light; EV-0010 a boy who wants not to be a shadow beside her; EV-0015 a light of hope; EV-0018 a firefly; EV-0041 ice to make someone shine | The one she most overshadowed thanks her; the shadow she is surest of, a man's illness, is others' account | The motif is now the rival's own account of herself, and the volume answers it three times | MD-CL-0023@8/0003@11 |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V12: EV-0008 two children's hands in a dance; EV-0012 an embrace on a platform; EV-0019 a light passed between cupped hands; EV-0040 a skater carried on her coach's back | The coach's hands receive and do not give | Contact marks who offers something without terms | MD-CL-0026@5 |
+| MD-MOT-0005 — seeing and being seen (extended) | V12: EV-0002 a rival watched on a screen; EV-0007 a boy who can tell two laughs apart; EV-0022 practice done under club-mates' eyes; EV-0038 a pupil sure her coach is watching | The watching she counts on is not shown to be kind | Being seen is now a cause of injury and a ground of obedience | MD-CL-0023@8/0016@11 |
+| MD-MOT-0006 — falling and getting up (extended) | V12: EV-0035 the prodigy's first fall; EV-0039 a fall in a warm-up that ends an event; EV-0041 a wish to be hurt on the ice if anywhere | A fall chosen over a popped jump is called the better choice | The fall returns as the unit of risk, for the two skaters least expected to have one | MD-CL-0005@11/0022@8 |
+| MD-MOT-0007 — the verdict that returns (extended) | V12: EV-0020 "dull", pronounced on the heroine; EV-0031 a condition set a year ago, come due; EV-0014 a doctrine about sacrifice turned over on a train | The verdict is rejected by the pupil of the man who gives it | Verdicts now arrive on a calendar | MD-CL-0025@7 |
+| MD-MOT-0010 — the absolute (extended) | V12: EV-0019 gold at every competition; EV-0037 nothing absolute on the ice; EV-0038 a loss that ends everything | The two uses are printed minutes apart | The word's two owners are set against each other on the day of the test | MD-CL-0025@7 |
+| MD-MOT-0012 — confinement and release (extended) | V12: EV-0004 a room emptied; EV-0006 a part played for six years; EV-0017 a cage held by the one inside it; EV-0019 a contract | Release from one house is entry into the same contract elsewhere | Leaving is drawn as freedom and as the same terms renewed | MD-CL-0016@11/0003@11 |
+| MD-MOT-0014 — the maze and the eye above (extended) | V12: EV-0023 reproduction of a demonstrated form, and a coach's wall removed between two people | The gift is shared by the coach on the other side, who cannot use it so | The faculty is now described as a way of transmitting, not only of seeing | MD-CL-0010@12 |
+| MD-MOT-0002, 0003, 0004, 0008, 0009, 0011 | 0002: results reported without performances (EV-0024/0028). 0003: a cake declined in memory; a plate untouched (EV-0013/0018). 0004: a guardian who arranges a child's leaving (EV-0003). 0008: a night dinner and a November afternoon (EV-0018/0032). 0009: cards for the one exception to a layout (EV-0034). 0011: none | — | Unchanged in kind | — |
