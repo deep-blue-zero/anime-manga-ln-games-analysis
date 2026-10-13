@@ -5,14 +5,14 @@ artifact_type: "character_state_readiness_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.2"
+version: "1.3"
 status: "canonical"
 scope: "Time-indexed character interpretation, identity resolution and evidence-specific promotion readiness"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
-source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V03_UPDATE"
+review_status: "AUTHOR_REVIEWED_V04_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -266,3 +266,72 @@ Coaches named only in the profile page (布袋野蕨一, 布袋野兎太, 梟木
 | MD-RD-0019 | 0007 / monograph / supporting role | V01–V03 | Adds conduct under a mishap. | Ordinary independent behaviour; the endpoint. | BOUNDED_PROVISIONAL for a supporting-role account; author; 2026-10-13; MD-CL-0014@2 | Extends MD-RD-0013. |
 
 MD-CHAR-0011, 0021, 0010, 0022 and 0028–0033 are UNASSESSED or INSUFFICIENT_EVIDENCE for a dedicated artifact at this boundary. MD-RD-0012 (Ryoka with Nachi) is unchanged.
+
+## V04 evidence tables
+
+The [V04 reading and frozen state](../02%20Sequential%20Readings/MEDALIST_V04_DEEP_READING.md) own all `MD-EV-V04-…` observations. In this section `EV-####` expands to `MD-EV-V04-####`; earlier volumes are written with their volume prefix. Every new record is version 1, first known after V04. Claim references are the versions in force at `MD-FR-V04`. Earlier tables are unchanged; the current projection is the last projection table in this document. Global entity and subject IDs remain null for every row.
+
+### Identity updates to existing keys
+
+| Character key | V04 disclosure | Basis | Remaining limit |
+| --- | --- | --- | --- |
+| MD-CHAR-0001 | Singles badge grade: beginner, taken self-taught without a club; has a younger brother; works a clerical job overnight | EV-0011/0014/0047 | The teacher he "wishes he had met sooner" is still unnamed. |
+| MD-CHAR-0011 | Eleven, sixth grade; eighth at All-Japan Novice two years ago; a four-year-old sister; mother Brazilian-American, called エイヴァ by Hikaru; badge grade 6 at the end of V04 | EV-0019/0045/0046/0047 | — |
+| MD-CHAR-0018 | Inori's father drives her to the rink at night and envies her ease with her coach | EV-0004/0017 | Comic register. |
+| MD-CHAR-0021 | Novice record as recited by Tsukasa: triple Lutz and triple loop and a triple Axel in Novice B, seeded every year at the selection camp, four titles; called 純くん by Sonidori | EV-0023 | A character's statement, not a document. |
+| MD-CHAR-0022 | Thirty-six; retired at twenty-eight with an Olympic silver medal; father of two | EV-0046 | Profile fields. |
+| MD-CHAR-0013 | Fourth grade a year on; does her own hair | EV-0002/0017 | — |
+
+### New keys
+
+| Character key | Source-spelled identity / alias basis | Continuity | First observation | Global IDs / unresolved identity |
+| --- | --- | --- | --- | --- |
+| MD-CHAR-0034 | 白根琥珀; Shirone Kohaku, caption with furigana; twenty-one; instructor at a Nagoya ballet studio; シロ先生 | Japanese manga | EV-0030; named EV-0031 | null/null; the page assigns no gendered term and none is assumed |
+
+Rio's mother and small sister, Tsukasa's younger brother and named badge-test candidates stay local to the reading.
+
+### State events
+
+| State event | Character | Story time / revealed after | Change kind | Action / self-report / inference | Evidence / claim version | Confidence / alternatives | Prior / correction |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MD-CS-0047 | 0001 | Night park; Score 12 | CONTEXT_CHANGE | Tells his pupil the goal may be out of reach; rules out more volume on health grounds; revises his diagnosis on her evidence and retracts. | EV-0004/0006; MD-CL-0007@4/0004@4 | HIGH. | MD-CS-0039 |
+| MD-CS-0048 | 0004 | Night park; Score 12 | CONTEXT_CHANGE | Bases her ambition on having changed (growth, fitness, "no longer a child with nothing"); lands a double Axel off the ice; does not tell him the quarrel. | EV-0005; MD-CL-0002@4/0019@2 | HIGH. | MD-CS-0045 |
+| MD-CS-0049 | 0001 | Camp night 1; Score 12 | REVEALED_NOT_NEW | States his beginner grade without defence; remembers calling his self-taught years wasted; says he hesitated to coach for fear of this; vows alone to make both pupils jump the combination. | EV-0011/0014/0015; MD-CL-0010@4 | HIGH statements. | MD-CS-0047; MD-RT-0017/0018 |
+| MD-CS-0050 | 0004 | Camp night 1; Score 12 | REVEALED_NOT_NEW | Confides to Ryoka, as a secret from her coach, that she fears he will be blamed for her failures and wants to be strong enough to choose him. | EV-0012; MD-CL-0002@4/0010@4/0019@2 | HIGH wording. | MD-CS-0048; MD-KN-0036 |
+| MD-CS-0051 | 0004 | Camp days 2–3; Scores 12–15 | CONTEXT_CHANGE | Lands a double Axel, then a triple Salchow the same day; defers celebration by her coach's own rule; lands a triple and double last of three without distress. | EV-0016/0020/0035; MD-CL-0019@2 | HIGH; single landings. | MD-CS-0050; MD-SK-0021/0022 |
+| MD-CS-0052 | 0011 | Camp night 2; Score 13 | REVEALED_NOT_NEW | "I have everything, so I can blame nothing"; learns his standard is Yodaka's novice career; recalls being refused a lesson; concludes he was bound by an illusion. | EV-0021/0022/0023/0024; MD-CL-0021@2/0022@1 | HIGH wording; one night's account. | MD-CS-0044 |
+| MD-CS-0053 | 0001 | Camp night 2; Scores 13–14 | REVEALED_NOT_NEW | Skates Rio's program from one viewing; by Rio's judgment his skating is Yodaka's image; by Hitomi's account he had no record, an unmatched hold on the rink and a need to make the ice his place. | EV-0025/0026/0027; MD-CL-0004@4/0010@4/0017@3 | HIGH that these were said and shown; origin of the resemblance inferred. | MD-CS-0049 |
+| MD-CS-0054 | 0011 | Camp day 3; Scores 14–15 | DISPOSITION_CHANGE (candidate) | Comes early, addresses the coach by family name, writes one goal, lands a triple and double, claims the coach as his. | EV-0029/0035/0036; MD-CL-0021@2/0001@4 | HIGH events; durability unknown. | MD-CS-0052 |
+| MD-CS-0055 | 0013 | Camp day 3; Score 15 | KNOWLEDGE_CHANGE | Sees a four-year gap made by her own choice; resolves to win and make the choice right; lands a triple Salchow and a triple and double. | EV-0033/0035; MD-CL-0018@2/0022@1 | HIGH. | MD-CS-0022 |
+| MD-CS-0056 | 0004 | Last evening of camp; Score 15 | DISPOSITION_CHANGE (candidate) | Says the cold feeling let her work, that its role ends at grade 6, and that she owes her hated self goodbye and thanks; describes the present as drawn by what lies beyond difficulty. | EV-0033/0037/0038; MD-CL-0015@3 | HIGH wording; one good season. | MD-CS-0051 |
+| MD-CS-0057 | 0001 | Last evening of camp; Score 15 | KNOWLEDGE_CHANGE | Says the efforts of the self he hated have become his ally; denies that her earlier self was no good. | EV-0038; MD-CL-0010@4/0017@3/0022@1 | HIGH. | MD-CS-0053 |
+| MD-CS-0058 | 0010 | Test day; Score 15 | REVEALED_NOT_NEW | Recognizes Inori at once, is glad, appears to have expected her progress, promises to meet at the All-Japan. | EV-0039; MD-CL-0003@3 | HIGH conduct; interior still thin. | MD-CS-0029 |
+| MD-CS-0059 | 0004 | Test day; Score 15 | CONTEXT_CHANGE | Hands steady where they shook in V01; passes all three parts in one day; frightened while results are read. | EV-0040/0041/0043/0044/0045; MD-CL-0015@3/0005@3 | HIGH. | MD-CS-0056; MD-SK-0025 |
+| MD-CS-0060 | 0011 | Test day; Score 15 | CONTEXT_CHANGE | Passes grade 6 at the sixth sitting using the coach's phrase; grins openly; tells Inori she was good. | EV-0041/0044/0045; MD-CL-0021@2 | HIGH. | MD-CS-0054 |
+| MD-CS-0061 | 0022 | Past and test day | REVEALED_NOT_NEW | Told his small son to make do with him; spoke of a special promise; delegated his son to another coach; shows restrained pride; his own advice had gone unheard. | EV-0023/0040/0041/0046; MD-CL-0011@4/0016@3 | HIGH. | none |
+| MD-CS-0062 | 0021 | Years earlier | REVEALED_NOT_NEW | Told the small Rio, who asked for the same lesson as Hikaru, that he was in the way. | EV-0023; MD-CL-0016@3 | HIGH wording; ground unstated. | MD-CS-0046 |
+
+### Current projection after V04
+
+| Character | Current source boundary | Active state references | Bounded current formulation | Open contradictions |
+| --- | --- | --- | --- | --- |
+| MD-CHAR-0004 | V04/MD-FR-V04 | MD-CS-0050/0056/0059 | Grade-6 skater entered in the qualifier, who names her old driver as a phase ending, and who has begun to keep one thing from her coach for his sake. | Untested under a setback inside her last eligible year. |
+| MD-CHAR-0001 | V04/MD-FR-V04 | MD-CS-0047/0053/0057 | Coach with a beginner's badge and a skater's body of work, who tells the truth about limits, borrows expertise deliberately, and has begun to revalue his own past. | Acts for others, not for himself, by his partner's account; unaware of his pupil's motive. |
+| MD-CHAR-0011 | V04/MD-FR-V04 | MD-CS-0054/0060 | Grade-6 skater with a first triple, loosened from a standard he had not known he held. | Whether the change survives his return home. |
+| MD-CHAR-0013 | V04/MD-FR-V04 | MD-CS-0055 | Triple-jumping ten-year-old who means to justify her choices by winning. | The creed untested by a loss since V02. |
+| MD-CHAR-0010 | V04/MD-FR-V04 | MD-CS-0058 | Warm toward Inori and expecting her as a competitor. | Interior. |
+| MD-CHAR-0022 | V04/MD-FR-V04 | MD-CS-0061 | Humble medalist father who delegates what he cannot get heard. | The promise. |
+| MD-CHAR-0021 | V04/MD-FR-V04 | MD-CS-0046/0062 | Unchanged in kind; an earlier refusal and a stated promise added. | Purpose. |
+| MD-CHAR-0007, 0012, 0024, 0025 | V03 state | as before | Unchanged in V04. | — |
+
+### Readiness after V04
+
+| Readiness record | Character / target / domain | Boundary / scope | Context coverage / counterevidence | Gaps / tests | Assessment / reviewer / date | History / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-RD-0020 | 0004 / monograph / development through grade 6 | V01–V04 manga-only | Adds an honest prognosis received, a withheld motive, a new discipline, a self-described change of motive; the secret and the fear at the results counter a completed-growth story. | A setback inside the deadline; the elided year; fanbooks excluded. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0002@4/0015@3/0019@2 | Extends MD-RD-0014. |
+| MD-RD-0021 | 0004 / operational model / response to setback | V01–V04 | No new setback in V04; a lost informal contest taken lightly. | As MD-RD-0015. | BOUNDED_PROVISIONAL for this domain only; author; 2026-10-13 | Carries MD-RD-0015; no MD-RULE written. |
+| MD-RD-0022 | 0001 / monograph / coach identity, past and method | V01–V04 | His own account of his past; Hitomi's and Rio's testimony; decisions in the park and at camp; EV-0004/0011/0014/0025/0027/0038. | The unnamed teacher; how his skating was formed; a decision when his pupil's hidden motive surfaces. | BOUNDED_PROVISIONAL; author; 2026-10-13; MD-CL-0004@4/0007@4/0010@4/0017@3 | Extends MD-RD-0016. |
+| MD-RD-0023 | 0001 / operational model / decisions about pace and load | V01–V04 | Adds a veto of volume and a retraction on evidence. | No held-out case. | BOUNDED_PROVISIONAL for this domain only; author; 2026-10-13 | Carries MD-RD-0017; no MD-RULE written. |
+| MD-RD-0024 | 0011 / supporting-character study / inherited expectation | V03–V04 | Hostility, self-account, sealed memory, change, a certified pass; EV-0022/0023/0029/0045. | One arc of a month; his family's view; his return home. | BOUNDED_PROVISIONAL for a supporting-character study; author; 2026-10-13; MD-CL-0021@2 | First assessment. |
+
+MD-RD-0012, 0018 and 0019 are unchanged. MD-CHAR-0010, 0021, 0022 and 0034 remain UNASSESSED or INSUFFICIENT_EVIDENCE for a dedicated artifact.

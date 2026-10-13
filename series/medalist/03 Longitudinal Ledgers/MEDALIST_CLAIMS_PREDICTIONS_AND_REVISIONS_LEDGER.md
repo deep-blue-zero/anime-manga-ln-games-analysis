@@ -5,14 +5,14 @@ artifact_type: "claim_revision_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.2"
+version: "1.3"
 status: "canonical"
 scope: "Material interpretive claim versions, competing hypotheses, genuine predictions and downstream amendments"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md"
-source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V03_UPDATE"
+review_status: "AUTHOR_REVIEWED_V04_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -198,3 +198,63 @@ All dependents named in the prior version of each revised claim were reviewed.
 ### Predictions at V03
 
 No `MD-PR` record is added. V03's own advertisement states contents of the next volume. Open questions MD-OQ-V03-01–08 are frozen in the reading. No later-source outcome was inspected.
+
+## V04 evidence tables
+
+Claim versions below were formulated through V04 and are frozen in `MD-FR-V04`. In this section `EV-####` expands to the [V04 canonical observations](../02%20Sequential%20Readings/MEDALIST_V04_DEEP_READING.md#canonical-observations) `MD-EV-V04-####`; earlier volumes are written with their volume prefix. Earlier formulations above are retained unchanged as history. The current claim view selects **version 4 of MD-CL-0001, 0002, 0004, 0007, 0010, 0011, 0012 and 0013; version 3 of MD-CL-0003, 0005, 0008, 0015, 0016 and 0017; version 2 of MD-CL-0006, 0009, 0014, 0018, 0019 and 0021; version 1 of MD-CL-0020 and 0022**.
+
+### Current versions of advanced claims
+
+| Claim / version | Formulation / class / scope | First boundary | Evidence / counterevidence / alternatives | Confidence / test | Current home / dependencies |
+| --- | --- | --- | --- | --- | --- |
+| MD-CL-0001@4 | **INFERENCE:** as @3, with one addition now evidenced: recognition that attaches to what is a child's own can move a selected child whom inherited praise had fixed in place, and whether advice is heard depends on who gives it. Rio changed within days of being seen accurately by an adult with no stake in his pedigree, though the technical content was what his father had already told him. | V04 | EV-0022/0023/0029/0035/0045/0046; earlier basis retained. Counter: the change is a month old; his father's long groundwork is what made a quick result possible. | MODERATE. His conduct after returning to his father's coaching is the test. | Character, institutions; MD-CS-0052/0054/0060; MD-IN-0035 |
+| MD-CL-0002@4 | **INFERENCE:** Inori's agency now includes changing her coach's plan by producing evidence he lacked, holding him to his own standards, and deciding what he should and should not be told about her reasons. The last is new: a true reason is offered and the operative one is kept from him for his sake. | V04 | EV-0005/0012/0020/0033/0038. Alternatives for the withholding: tact; protectiveness; a first reluctance to burden an adult she depends on. | MODERATE-HIGH for the acts; the meaning of the withholding is open. | Character/relationships; MD-CS-0048/0050/0051; MD-RL-0064–0066; MD-KN-0036 |
+| MD-CL-0003@3 | **INFERENCE:** the Hikaru friendship is again evidenced from both sides. Hikaru recognizes Inori at once, is glad, appears to have expected her at this grade, and makes meeting at the All-Japan a promise; Inori tells her she is sorry to have kept her waiting. The distance in level is unchanged and Hikaru's interior remains thin. | V04 | EV-0021/0039/0047; earlier basis retained. | MODERATE for warmth and expectation; LOW for anything about what the rivalry means to her. | Relationships; MD-RL-0079/0080; MD-CS-0058 |
+| MD-CL-0004@4 | **INFERENCE:** at this boundary Tsukasa's pedagogy is a diagnostic and reconstructive eye joined to a deliberate assembly of other people's expertise. The eye is confirmed by a hostile witness and by two further demonstrations (a program memorized in one viewing; choreography supplied by inference). He holds a beginner's singles badge. For Rio he added no technique his father had not given; for Inori the decisive camp interventions were a guest's drill and his own correction after her evidence overturned his diagnosis. | V04 | EV-0006/0008/0011/0016/0025/0026/0032/0046; earlier basis retained. Counter: every camp gain is a single landing; his first diagnosis of the double Axel was wrong for months. | MODERATE-HIGH on the eye and the method; MODERATE on his causal share in any one result. | Sport/relationships/character; MD-SK-0020–0026; MD-IN-0033/0034; MD-CS-0047/0053 |
+| MD-CL-0007@4 | **EVALUATION:** he now tells his pupil when a goal may be out of reach, removes an unsafe option on his own authority, states the cost of the alternative, and retracts on evidence. His pre-performance words have moved from a promised result (V01) through permission to fail (V02) to a claim about what has already been built (V04). Absolutes survive in private, directed at his own effort. Criterion unchanged. | V04 | EV-0004/0006/0015/0042; earlier basis retained. Counter: the retraction restored the ambitious goal within minutes; whether he would have held the "difficult" line against her wish without new evidence is not shown. | MODERATE-HIGH. | Relationships/claims; MD-RL-0063/0069; MD-CS-0047 |
+| MD-CL-0010@4 | **UNRESOLVED (revised):** his regret is now stated and given a function. He called his self-taught years wasted and wished he had met a teacher sooner; the page ties this directly to his recognition of Inori; he hesitated to coach because he foresaw the credential challenge. His partner says he acts for others and cannot act for himself. A qualified witness judges his skating to be his idol's image. By the end of the volume he says the hated self's effort has become his ally. None of this contradicts his V01 denial that he coaches to soothe regret; it shows the regret as the source of his sight. The open question is what coaching does for a man who can only move on someone else's behalf, and what follows when he learns his pupil has been hurrying to shield him. | V04 | EV-0001/0010/0014/0015/0025/0027/0038; EV-0012 for her side; earlier basis retained. | UNRESOLVED on mechanism; HIGH on the stated facts. | Character; MD-CS-0049/0053/0057; MD-RL-0065/0081; MD-RD-0022; MD-OQ-V04-03/05 |
+| MD-CL-0011@4 | **EVALUATION:** enabling care now includes expertise lent across clubs and across arts, and a father who hands his son to another adult because his own words are not being heard. The coach's own means remain borrowed and thin. | V04 | EV-0008/0030/0036/0046/0047; earlier basis retained. | MODERATE. | Institutions/relationships; MD-IN-0033/0038; MD-RL-0077/0082 |
+| MD-CL-0012@4 | **INFERENCE:** form in V04 manages who knows what and what is left unsaid: cross-cutting between two rooms for one fact; a performance shown silently and then through three viewers; a decisive jump with the sound removed; a farewell to an earlier self as an uncaptioned image; chapter titles that pass from night to morning. | V04 | EV-0011/0012/0025/0026/0032/0043; earlier basis retained. | MODERATE for effects, HIGH for construction. | Visual; MD-VF-0026–0033; MD-MOT-0008 |
+| MD-CL-0013@4 | **INFERENCE:** V04 certifies outcomes only through a badge test and adds stated rules on eligibility by grade, the test's three parts, a second-half bonus, the compulsory Axel and the selection camp. No competition is held and no score is given. All remain inside the manga's frame. | V04 | EV-0008/0016/0034/0040/0042/0045. | HIGH for the boundary. | Sport/source; MD-COMP-0006; MD-PERF-0028–0039 |
+| MD-CL-0015@3 | **INFERENCE:** by her own account the deficit-driven motive is a phase with a function and a term. The cold feeling let her work; its role ends when she is no longer behind; the self that carried it is owed thanks. She describes her present as drawn by what lies beyond a difficulty. Visible signs agree in a season without setback: steady hands at a first-test venue, relief at starting a discipline from zero, equanimity at losing an informal race. Against: her hidden reason for hurrying is fear on another's behalf, and she is frightened while results are read. Still not established as a settled disposition. | V04 | EV-0005/0012/0033/0035/0037/0038/0040/0043/0044; earlier basis retained. | MODERATE. What moves her after grade 6, and how she meets a setback inside her last eligible year, is the test. | Character; MD-CS-0056/0059; MD-RD-0020 |
+| MD-CL-0016@3 | **INFERENCE:** as @2, with three additions: Sonidori says Yodaka coaches Hikaru under a special promise; Yodaka had told the small Rio he was in the way years before he said so again; and Yodaka's novice career, as recited, is the template against which Rio judged himself and the "trajectory" Hikaru is said to be following. Motive, the promise's terms and "the same road" remain unresolved. | V04 | EV-0021/0023/0024; earlier basis retained. | LOW-MODERATE beyond the stated pattern. | Character/relationships; MD-CS-0062; MD-RL-0076/0085; MD-IN-0037 |
+| MD-CL-0017@3 | **INFERENCE:** the reliance on others that V02 exposed has become a method: he invites a rival's coach and a ballet teacher and says why. His partner supplies the limit of this, that he moves for others and not for himself. He also revalues his own past within the volume, from "wasted" to "my ally", after using it in front of his pupils. | V04 | EV-0008/0010/0014/0030/0038; earlier basis retained. | MODERATE. | Character/relationships; MD-CS-0049/0057; MD-RL-0081; MD-IN-0033 |
+| MD-CL-0018@2 | **EVALUATION:** Nachi's creed is now spoken by Ryoka as her own answer to a gap she made herself: win, and the choice will have been right. It produces immediate effort and a triple, and it leaves her rightness dependent on results as before. Criterion unchanged. | V04 | EV-0033/0035; V02 basis retained. | MODERATE; untested by a loss since V02. | Relationships/character; MD-CS-0055 |
+| MD-CL-0019@2 | **INFERENCE:** the vow to Rio did not undo the vow on the train. Her coach met it with an honest prognosis and a cap on load; the plan changed method, not volume; she lost the informal race to land a triple and double and was unharmed by it; she met a discipline in which she was last with relief that she could begin. Her actual reason for the deadline was loyalty and was kept from him. The resolution held through a season in which nothing went wrong. | V04 | EV-0004/0005/0012/0033/0035/0038/0045; V03 basis retained. | MODERATE-HIGH for V04; durability under a setback untested. | Character; MD-CS-0048/0050/0051/0056; MD-OQ-V04-02 |
+| MD-CL-0021@2 | **INFERENCE:** Rio's belief that he was finished rested on an unrecognized standard, the novice career of the man who replaced him as Hikaru's teacher and refused to teach him. Named, the standard loosened; within a month he wrote a goal, landed a first triple in combination and passed a test he had failed five times. What he lacked was not instruction. His own formulation, that having everything leaves nothing to blame, is evidence of how his position felt and not a finding about advantage. | V04 | EV-0003/0013/0019/0021–0024/0029/0035/0041/0044–0046; V03 basis retained. Alternatives: a plateau that was ending anyway; relief at a week away from home. | MODERATE on the account; HIGH on the outcomes. | Character/relationships; MD-CS-0052/0054/0060; MD-RD-0024 |
+
+### New claim
+
+| Claim / version | Formulation / class / scope | First boundary | Evidence / counterevidence / alternatives | Confidence / test | Current home / dependencies |
+| --- | --- | --- | --- | --- | --- |
+| MD-CL-0022@1 | **INFERENCE:** V04 sets four answers to unrecoverable time beside one another. Inori accepts a lost start, begins from where she is, and thanks the self that lost it. Tsukasa moves from calling his self-taught years waste to calling them an ally. Rio, with no lost time, is the most immobilized until a mistaken standard is named. Ryoka resolves to win until a past choice becomes right. The volume does not rank them in words; it gives the first two its longest quiet scene and leaves the fourth unexamined. | V04 | EV-0014/0022/0027/0033/0035/0038 with V03:EV-0040. Counter: the comparison is the reading's construction from adjacent scenes; the characters do not compare themselves. | MODERATE. Later volumes that return to any of the four answers under pressure would test whether the pattern is designed. | Claims; MD-CL-0015@3/0018@2/0019@2/0021@2/0010@4 |
+
+### Preserved without a new version
+
+MD-CL-0005@3 (results and grades as weak evidence of level; consistent with a certified test in which one element needed a second attempt), MD-CL-0006@2 (the friendship with Ryoka continues and deepens), MD-CL-0008@3 (the foundation line continues in skating drills and ballet; no competitive result in V04), MD-CL-0009@2 (no new evidence on the grade decision; Nachi still has one pupil), MD-CL-0014@2 (parents in routine support; the endpoint still unmentioned) and MD-CL-0020@1 (Ema does not appear beyond a collage) were reviewed against V04 and stand as written.
+
+### Revisions recorded at V04
+
+| Revision | Prior → new version | Transition / reason / known after | Evidence / alternatives | Affected homes / disposition | Closure / unresolved debt |
+| --- | --- | --- | --- | --- | --- |
+| MD-RV-0028 | MD-CL-0001@3 → @4 | STRENGTHEN; new evidence; V04 | EV-0029/0045/0046 | Character, institutions updated | Closed |
+| MD-RV-0029 | MD-CL-0002@3 → @4 | REVISE; a withheld motive; V04 | EV-0005/0012 | Character, relationships, chronology updated | Closed; meaning open |
+| MD-RV-0030 | MD-CL-0003@2 → @3 | REVISE; her direction observed; V04 | EV-0039 | Relationships, character updated | Closed |
+| MD-RV-0031 | MD-CL-0004@3 → @4 | REVISE; new testimony and an authorial statement bounding credit; V04 | EV-0025/0046 | Sport, institutions, character updated | Closed |
+| MD-RV-0032 | MD-CL-0007@3 → @4 | REVISE; new conduct; V04 | EV-0004/0006/0042 | Relationships, character updated | Closed |
+| MD-RV-0033 | MD-CL-0010@3 → @4 | REVISE, still OPEN; later disclosure of his own account; V04 | EV-0014/0015/0027/0038 | Character, relationships, chronology, readiness updated | Open by design |
+| MD-RV-0034 | MD-CL-0011@3 → @4 | STRENGTHEN; V04 | EV-0008/0030/0046 | Institutions, relationships updated | Closed |
+| MD-RV-0035 | MD-CL-0012@3 → @4 | STRENGTHEN; new devices; V04 | EV-0012/0025/0043 | Visual updated | Closed; layout debt stands |
+| MD-RV-0036 | MD-CL-0013@3 → @4 | REVISE; test structure and eligibility; V04 | EV-0040/0045 | Sport, source map reviewed | Closed; external verification absent |
+| MD-RV-0037 | MD-CL-0016@2 → @3 | REVISE; later disclosure; V04 | EV-0023 | Character, relationships, institutions, chronology updated | Closed; motive open |
+| MD-RV-0038 | MD-CL-0015@2 → @3 | REVISE; her own reframing and consistent signs; V04 | EV-0038/0040 | Character, readiness updated | Closed; disposition question open |
+| MD-RV-0039 | MD-CL-0017@2 → @3 | REVISE; reliance become method; V04 | EV-0008/0010/0038 | Character, relationships, institutions updated | Closed |
+| MD-RV-0040 | MD-CL-0018@1 → @2 | REVISE; the creed adopted by the pupil; V04 | EV-0033/0035 | Character updated | Closed |
+| MD-RV-0041 | MD-CL-0019@1 → @2 | REVISE; the bent vow adjudicated; V04 | EV-0004/0012/0035 | Character, chronology updated | Closed for V04 |
+| MD-RV-0042 | MD-CL-0021@1 → @2 | REVISE; fuller account and outcomes; V04 | EV-0022/0023/0045 | Character, relationships, readiness updated | Closed |
+
+All dependents named in the prior version of each revised claim were reviewed.
+
+### Predictions at V04
+
+No `MD-PR` record is added. V04's own advertisement states contents of the next volume. Open questions MD-OQ-V04-01–08 are frozen in the reading. No later-source outcome was inspected.

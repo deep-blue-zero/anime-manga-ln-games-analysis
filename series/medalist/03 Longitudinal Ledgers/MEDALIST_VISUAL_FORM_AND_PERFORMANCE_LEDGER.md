@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.2"
+version: "1.3"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
-source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V03_UPDATE"
+review_status: "AUTHOR_REVIEWED_V04_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -117,3 +117,27 @@ All feature and motif records below are version 1 through `MD-FR-V03`. In this s
 | MD-MOT-0006 — falling and getting up (extended) | V03: EV-0023 fall before the music; EV-0029 fall after it; EV-0047 double Axel falls | The defeat itself involves no fall in the program | Falls bracket a clean performance; the loss comes from elsewhere | MD-CL-0005@3 |
 | MD-MOT-0007 — the verdict that returns (new) | EV-0009/0011/0052 | Tsukasa's sentence returns too (EV-0011, EV-0054) and is used as a resource | Adult sentences persist in children as intrusions or as resources, depending on what was said | Needs recurrence; MD-CL-0016@2/0015@2 |
 | MD-MOT-0003, 0004 | V03: taiyaki named again in the plan (EV-0005); Jakuzure's promise to Ema (EV-0034) | — | Unchanged in kind | — |
+
+## V04 evidence tables
+
+All feature and motif records below are version 1 through `MD-FR-V04`. In this section `EV-####` expands to the [V04 reading's](../02%20Sequential%20Readings/MEDALIST_V04_DEEP_READING.md#canonical-observations) `MD-EV-V04-####`. Image order is verified; facing-page geometry is not. Earlier tables are unchanged.
+
+| Feature record | Motif / observation IDs | Layout / order / inspection limits | Observable construction | Effect / alternatives | Linked homes / claim version | Confidence / recurrence / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-VF-0026 | EV-0001 | Colour, 0003–0004 | A road of light on a reflective plain; hands tracing a circle on ice; a portrait with a gloved hand entering | Frames the volume as a question about first steps on an unmade road; the speaker is not named | MD-CL-0010@4/0012@4 | HIGH construction, MODERATE attribution |
+| MD-VF-0027 | MD-MOT-0006; EV-0005 | 0022 | An off-ice jump drawn as a rotating cluster of figures in a night park | Gives a jump on the ground the visual status of one on ice | MD-PERF-0028; MD-CL-0012@4 | HIGH; cf. MD-VF-0021 |
+| MD-VF-0028 | EV-0011/0012 | 0045–0049 | Cutting between bath and futons, one question in each room, two answers set against each other | Exposes one fact from two sides and shows the reader what each party does not know | MD-KN-0034/0036; MD-CL-0012@4 | HIGH |
+| MD-VF-0029 | EV-0014/0015 | 0051–0056 | A manual in an adult's hands cut to a manual in a child's; a full-page run under stars with a shout as display lettering | States a link between two self-taught beginnings without a caption; turns anger into comedy | MD-RT-0018; MD-CL-0010@4 | HIGH |
+| MD-VF-0030 | EV-0016 | 0059 | A fantasy panel: the skater as a knight with a sword labelled with the jump's name | Makes an obligatory element a weapon | MD-PERF-0029; MD-CL-0012@4 | HIGH; isolated |
+| MD-VF-0031 | MD-MOT-0005; EV-0025/0026 | 0091–0096, 0098–0110 | Five nearly wordless pages; overlapping exposures; a ten-figure step strip; one image fusing the coach's figure with a dark one; a chapter break on the watcher's realization; the second half narrated by a pupil, then a partner | One performance shown through a sceptic, a devotee and a witness | MD-PERF-0032; MD-CL-0004@4/0012@4 | HIGH |
+| MD-VF-0032 | EV-0032 | 0132–0134 | A dancer's turns on a floor drawn with the machinery used for jumps on ice | Demonstrates before explaining | MD-PERF-0033; MD-CL-0012@4 | HIGH |
+| MD-VF-0033 | MD-MOT-0006; EV-0043/0045 | 0177–0183, 0189 | A full page of impact lettering, a still wide panel with no sound marks, a landing; a ticking checklist; a strip of sneakers and a full-page playground at dusk; a closing collage of rivals and a girl at a moonlit window | Removes sound at the decisive moment; stages a farewell to an earlier self without words | MD-PERF-0038; MD-CS-0056; MD-CL-0012@4/0015@3 | HIGH construction; the playground's meaning is inferred from EV-0038 |
+
+| Motif | Source span / active occurrences | Diagnostic counterexamples | Current bounded interpretation | Open meaning / revision |
+| --- | --- | --- | --- | --- |
+| MD-MOT-0001 — hands, contact and reaching (extended) | V04: EV-0006 fist bump; EV-0029 hands meeting over a goal sheet; EV-0042 drawstrings offered by him; EV-0044 a nudge from Rio; EV-0040 hands that no longer shake | — | Contact now also marks a second pupil's allegiance and a rival's regard | MD-CL-0012@4 |
+| MD-MOT-0005 — seeing and being seen (extended) | V04: EV-0006 "I was only looking at the ice"; EV-0025 Rio watches him skate; EV-0031 Inori learns by staring; EV-0023 a boy who asked to be taught and was told he was in the way | Ryoka sees the same skating and is unmoved, since she counts jumps | What a watcher values decides what the watcher sees | MD-CL-0001@4/0012@4 |
+| MD-MOT-0006 — falling and getting up (extended) | V04: EV-0015 the coach falls off a small cliff; EV-0016 falls before the double Axel; EV-0038 "I can believe I will get up" | — | Getting up is now something she says she trusts | MD-CL-0015@3 |
+| MD-MOT-0007 — the verdict that returns (extended) | V04: EV-0023 "in the way" shown to be a repetition; EV-0035 and EV-0041 the coach's "take challenges lightly" used by Rio at two decisive moments | — | A sentence can return as a weight or as a tool; the same boy now carries one of each | MD-CL-0016@3/0021@2 |
+| MD-MOT-0008 — night and morning (new) | Chapter titles across V03–V04 (夜が嫌い, 夜に吠える, 夜を踊れ, 朝が来る); EV-0004 the park; EV-0015 the ridge; EV-0022 the car park; EV-0029 six in the morning; EV-0045 a moonlit window | Night is also when Yodaka teaches and when Hikaru looks out smiling | Within this arc, night holds what cannot be said by day and morning the act that follows | Held until it recurs outside the arc; MD-CL-0012@4 |
+| MD-MOT-0002, 0003, 0004 | No material V04 development beyond the test as appraisal without audience (EV-0042) | — | Unchanged in kind | — |

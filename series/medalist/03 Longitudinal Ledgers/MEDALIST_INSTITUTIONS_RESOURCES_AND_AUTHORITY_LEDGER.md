@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.2"
+version: "1.3"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V03_UPDATE"
+review_status: "AUTHOR_REVIEWED_V04_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -141,3 +141,31 @@ All events below are version 1 through `MD-FR-V03`. In this section `EV-####` ex
 | Hikaru's arrangement | ORG-0006, ORG-0016 | MD-IN-0014/0029 | Hidden champion coach, listed medalist coach, shared household. | Why. |
 | Cross-club courtesy | Lux, 蓮華茶, 名港ウィンド | MD-IN-0016/0030 | Cover, shared history, a placement. | — |
 | MD-ORG-0005, 0007, 0008, 0001 | As V02 | MD-IN-0006/0013, 0009/0018, 0008/0019, 0003/0007 | Unchanged; Ryoka at grade 5. | — |
+
+## V04 evidence tables
+
+All events below are version 1 through `MD-FR-V04`. In this section `EV-####` expands to the [V04 reading's](../02%20Sequential%20Readings/MEDALIST_V04_DEEP_READING.md#canonical-observations) `MD-EV-V04-####`. New settings: MD-ORG-0017 the Tsuruga camp venue (ニューサンピア敦賀, named on signage and in a cooperation credit); MD-ORG-0018 the Nagoya ballet studio where Shirone teaches; MD-ORG-0019 the national novice selection camp held in Nagano. Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0031 | ORG-0019, novice skaters | Stated at camp | A yearly selection camp called the gateway of top skaters; a few twelve-year-olds per prefecture at grade 6 by a March deadline | Inori missed it for lack of grade and by age cannot attend again; Rio attends yearly and is never seeded | EV-0008/0022; MD-CL-0013@4/0001@4 | HIGH as in-story statement; unverified externally |
+| MD-IN-0032 | ORG-0002 at ORG-0017 | Camp, four days | Goal sheets set as homework; group lessons under limited ice time; coaches' rapid individual correction; pupils fill jump holes after practice; a barbecue supplied by parents | A club's ordinary machinery for a summer push | EV-0007/0009/0028/0036 | HIGH |
+| MD-IN-0033 | ORG-0002, ORG-0005, ORG-0018, Tsukasa | Camp | A jump coach from a rival club and a ballet instructor invited by the assistant coach; his stated reason is that the same advice lands differently from another speaker | Expertise the club lacks is borrowed for four days | EV-0008/0030/0031/0047; MD-CL-0011@4/0017@3 | HIGH; terms and fees not shown |
+| MD-IN-0034 | Coaching credentials, Tsukasa, Rio | Camp night 1 | The coach's singles badge is beginner; a pupil researches published results and challenges him; no rule is cited that a coach must hold a grade | The challenge has no institutional force and real social force | EV-0011/0012/0015; MD-CL-0004@4/0010@4 | HIGH |
+| MD-IN-0035 | ORG-0006, Rio, Hikaru | Stated at camp | A ballet teacher weekly at the club; every other day for these two | A standing resource Inori first meets at twelve | EV-0031; MD-CL-0001@4 | HIGH as Rio's statement |
+| MD-IN-0036 | Badge system, candidates | Test day | Grade 7 senior, grade 6 Novice A and junior, grade 5 Novice B; grade-6 test in three parts on one day, one failure in the free skate failing the grade; no announcement or applause | Passing is the gate to the qualifier; several candidates are sent away to try again | EV-0040/0042/0045; MD-CL-0013@4 | HIGH as in-story statements |
+| MD-IN-0037 | ORG-0006, ORG-0016, Sonidori, Yodaka | As reported from Rio's childhood | Yodaka coaches Hikaru under what Sonidori calls a special promise | Explains the non-public arrangement at one remove | EV-0023; MD-RL-0085; MD-CL-0016@3 | HIGH that it was said; parties and terms unknown; prior MD-IN-0029 |
+| MD-IN-0038 | ORG-0007 and Tsukasa's means | Throughout | A borrowed tablet and router; clothes handed down; an overnight clerical job after a rental session | The coach's resources remain thin a year on | EV-0047 with V02 and V03 basis; MD-CL-0011@4 | HIGH glosses; prior MD-IN-0018 |
+| MD-IN-0039 | Qualification, Inori | End of V04 | Entry to the Chūbu block competition fixed; by jacket copy this is her last eligible year for the All-Japan Novice | One opportunity | EV-0045/0048; MD-COMP-0006 | HIGH for the entry; the "last year" statement is paratext |
+
+### Current projection after V04
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| Badge and qualification ladder | Inori, Rio | MD-IN-0020/0036/0039 | Grade 6 held by both; qualifier entered. | External verification. |
+| Selection camp | Novice skaters | MD-IN-0031 | A gateway she can no longer use. | Its weight in later selection. |
+| Lux camp and borrowed expertise | ORG-0002 | MD-IN-0032/0033 | Ordinary club machinery plus two guests. | Whether guests return. |
+| Coaching credentials | Tsukasa | MD-IN-0028/0034 | Formal instructor with a beginner's singles badge. | Any institutional consequence. |
+| Elite resources | ORG-0006 | MD-IN-0014/0029/0035/0037 | Hidden champion coach, frequent ballet, a promise. | The promise. |
+| Coach's means | Tsukasa | MD-IN-0018/0038 | Borrowed equipment and a second job. | — |
+| Others | As V03 | as before | Unchanged in V04. | — |

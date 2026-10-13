@@ -5,14 +5,14 @@ artifact_type: "source_inventory"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.7"
+version: "0.8"
 status: "canonical"
 scope: "Evidence-plane routing, source identity, admission stages, locators and publication boundary"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_AND_SCOPE_MAP.md"
-source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V03_UPDATE"
+review_status: "AUTHOR_REVIEWED_V04_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -109,6 +109,10 @@ The complete [V02 reading/MD-FR-V02](../02%20Sequential%20Readings/MEDALIST_V02_
 
 The complete [V03 reading/MD-FR-V03](../02%20Sequential%20Readings/MEDALIST_V03_DEEP_READING.md) closes V03. Admission key `MD-MG-JP-TB-V003-W01`, local route `MD-LOCAL-001`, `Medalist - Volume 03 [Japanese].cbz`, 93,218,009 bytes, SHA-256 `784ace216c600128205017a37b0d6d5ab69600f736322185f67e68f4d0d17805`; 203 ordered image entries plus builder-generated ComicInfo.xml. Scores 8, 9, 10 and 11 begin at images 0003, 0051, 0103 and 0155; their story pages end at 0048, 0100, 0152 and 0191. A colour editorial page introducing athletes and coaches is at 0006. Pencil interstitials are at 0049–0050 and 0101–0102; profiles at 0153–0154; four-panel gags at 0192–0194; a gag and credits at 0195; Volume 4 promotion at 0196–0197; jacket copy, creator note, contents and front jacket at 0198–0199; jacket gags at 0200–0201; a fiction notice at 0202; the colophon at 0203; cover and blank at 0001–0002. The rear contents gives printed starts 001, 049, 101 and 153: image equals printed page plus two at every verified anchor, as in V02. The colophon reads メダリスト(3), issued 2022-03-01 with the marker "(03)", Kodansha, so this witness reproduces a later digital issue than V02's; any difference from the first issue is unknown. The mainline covers the West Japan meet, an elided year and its sequel, ending at image 0191. The Volume 4 advertisement is exposure only. All 203 images were inspected; private notes and media stay outside Git.
 
+## V04 closed component boundary
+
+The complete [V04 reading/MD-FR-V04](../02%20Sequential%20Readings/MEDALIST_V04_DEEP_READING.md) closes V04. Admission key `MD-MG-JP-TB-V004-W01`, local route `MD-LOCAL-001`, `Medalist - Volume 04 [Japanese].cbz`, 95,294,653 bytes, SHA-256 `b9608799a7358bbf63599d2d9f0f25bf6622091c7f39a304bbf44d8a8ff5bbfa`; 203 ordered image entries plus builder-generated ComicInfo.xml. A colour prologue is at 0003–0004, colour title art at 0005–0006, a title page at 0007 and an editorial athletes-and-coaches page with a story recap at 0008. Scores 12, 13, 14 and 15 begin with title pages at images 0009, 0065, 0097 and 0123; story pages end at 0062, 0096, 0121 and 0189. Pencil interstitials are at 0063–0064, 0122 and 0190; profiles at 0191–0192; four-panel gags at 0193–0195; Volume 5 promotion at 0196–0197; jacket copy, creator note, contents and front jacket at 0198–0199; jacket gags at 0200–0201; a fiction notice at 0202; the colophon at 0203; cover and blank at 0001–0002. The rear contents gives printed starts 007, 063, 095 and 121: image equals printed page plus two at every verified anchor. The colophon reads メダリスト(4), issued 2022-01-01 with the marker "(03)", Kodansha. The mainline covers the day of the vow, a four-day summer camp and, a month later, the grade-6 badge test, ending at image 0189 with entry to the block competition fixed. The Volume 5 advertisement is exposure only. All 203 images were inspected; private notes and media stay outside Git.
+
 ## Continuous-run witness register (from 2026-10-12)
 
 The owner's 2026-10-12 `continuous_sequential` authorization covers Japanese V02–V15. The [continuous-run receipt](../07%20Audits%20and%20Handoffs/MEDALIST_CONTINUOUS_RUN_AUTHORIZATION_AND_SOURCE_RECEIPT.md) holds each container's bytes, SHA-256 and activation-time checks; this register owns each unit's progressive state. A row changes only when its own transaction closes. "Structural" means full ZIP CRC, complete image decode and a container hash matching the retained prior audit manifest; it is not narrative inspection.
@@ -117,7 +121,7 @@ The owner's 2026-10-12 `continuous_sequential` authorization covers Japanese V02
 | --- | --- | --- | --- | --- |
 | V02 / MD-MG-JP-TB-V002-W01 | CBZ / 203 | Scores 4–7, Short Programs 3–4; profiles, sketches, gags, credits, jacket, colophon (issued 2021-02-01, digital-edition marker) | All 0001–0203 admitted and inspected; no foreign preview; Volume 3 advertisement 0196–0197 excluded as evidence | Closed, MD-FR-V02 |
 | V03 / MD-MG-JP-TB-V003-W01 | CBZ / 203 | Scores 8–11; no Short Program; editorial introduction page, profiles, sketches, gags, credits, jacket, colophon (issued 2022-03-01, digital-edition marker 03) | All 0001–0203 admitted and inspected; no foreign preview; Volume 4 advertisement 0196–0197 excluded as evidence | Closed, MD-FR-V03 |
-| V04 / MD-MG-JP-TB-V004-W01 | CBZ / 203 | pending reading | pending | Structural only |
+| V04 / MD-MG-JP-TB-V004-W01 | CBZ / 203 | Scores 12–15; no Short Program; colour prologue, editorial introduction page, profiles, sketches, gags, jacket, colophon (issued 2022-01-01, digital-edition marker 03) | All 0001–0203 admitted and inspected; no foreign preview; Volume 5 advertisement 0196–0197 excluded as evidence | Closed, MD-FR-V04 |
 | V05 / MD-MG-JP-TB-V005-W01 | CBZ / 187 | pending reading | pending | Structural only |
 | V06 / MD-MG-JP-TB-V006-W01 | CBZ / 205 | pending reading | pending | Structural only |
 | V07 / MD-MG-JP-TB-V007-W01 | CBZ / 203 | pending reading | pending | Structural only |
@@ -163,9 +167,9 @@ For each admitted object record ID/provider revision where exposed; verified vol
 | --- | --- | --- |
 | Inventory visible | Drive snapshot: 3 JP EPUB + 12 EN CBZ; local addendum: 18 JP volume containers + 2 JP fanbooks, not deduplicated across surfaces | Metadata listing; does not authenticate contents or prove witness equivalence. |
 | Structurally verified | 1 delivered V01 witness with component/Score map verified, printing unverified; 14 further volume witnesses (V02–V15) and 2 fanbook containers at container level only | Actual container/metadata/image order and integrity checks with recoverable receipt. |
-| Admitted for analysis | V01–V03, each with component separation; image ranges are in the register and the per-volume component paragraphs | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
-| Narratively inspected | V01–V03 complete, mainline and classified own-volume material | Actual source-content inspection with coverage record. |
-| Sequentially completed | V01–V03, one freeze each (latest MD-FR-V03), each with seven ledger updates | Closed reading, affected ledgers, immutable freeze and verified persistence/publication state. |
+| Admitted for analysis | V01–V04, each with component separation; image ranges are in the register and the per-volume component paragraphs | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
+| Narratively inspected | V01–V04 complete, mainline and classified own-volume material | Actual source-content inspection with coverage record. |
+| Sequentially completed | V01–V04, one freeze each (latest MD-FR-V04), each with seven ledger updates | Closed reading, affected ledgers, immutable freeze and verified persistence/publication state. |
 | Published serialization boundary | Score 61, August 2026 issue; ceiling fixed at the 2026-10-12 snapshot by official issue contents | Independent publication witnesses; not inferred from analytical progress. |
 
 These are independent dimensions: a verified public chapter listing does not authenticate a private EPUB. Admission or inspection of a later witness never implies earlier unit completion.

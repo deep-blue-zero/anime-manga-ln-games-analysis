@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.2"
+version: "1.3"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
-source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V03_UPDATE"
+review_status: "AUTHOR_REVIEWED_V04_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -149,3 +149,39 @@ Practice, not competition: Inori's double Axel is rotated and falls (EV-0047); R
 | MD-SK-0019 | Inori / Tsukasa / Score 11 | Double Axel as the barrier to grade 6; rotated, falling; diagnosis by a teacup analogy (tilting outward slows rotation; hold the central axis) | DEPICTED_PERFORMANCE and IN_UNIVERSE_STATEMENT | EV-0047; MD-CL-0004@3 | HIGH; outcome absent |
 
 Ema's history (EV-0033–0035/0042) is recorded as character and institutional state; its technical content is her content at MD-PERF-0025. Demonstrated frontier at `MD-FR-V03`: badge grade 5; all doubles below the Axel in competition; levelled spins and step sequence; double Axel not landed.
+
+## V04 evidence tables
+
+All rows are version 1 through `MD-FR-V04`. In this section `EV-####` expands to the [V04 observation](../02%20Sequential%20Readings/MEDALIST_V04_DEEP_READING.md#canonical-observations) `MD-EV-V04-####`. No competition is held in V04. Practice, demonstration and badge-test attempts are entered in the performance table and labelled as such. No external rule or medical document was consulted or admitted; the external-reference table remains empty. Earlier tables are unchanged.
+
+| Competition | Depicted identity / category / segment | Date / rule certainty | Source observations | External-rule refs / unresolved matches |
+| --- | --- | --- | --- | --- |
+| MD-COMP-0006 (entered, not held) | 中部ブロック大会, the All-Japan Novice A qualifier | After the grade-6 test, a month or more after the summer camp; year not given. | EV-0045 | No MD-EXT. |
+
+| Performance | Athlete / setting | Plan / attempt / depiction / call | Supplied score / result | Expressive aim / attributed response | Evidence / limits / correction |
+| --- | --- | --- | --- | --- | --- |
+| MD-PERF-0028 | MD-CHAR-0004 / off the ice, a park at night | Double Axel landed on the ground | None | Her coach revises his diagnosis | EV-0005 |
+| MD-PERF-0029 | 0004 / camp practice, day 2 | Double Axel landed on ice after falls; inside-edge landing corrected | None | "The first weapon" | EV-0016; one landing |
+| MD-PERF-0030 | 0004 / camp practice, day 2 evening | Triple Salchow landed | None | Celebration deferred | EV-0020; one landing |
+| MD-PERF-0031 | MD-CHAR-0011 / camp run-through | 2Lz+2T+2Lo clean; triple Salchow fallen | None | Coach praises the attempt | EV-0019 |
+| MD-PERF-0032 | MD-CHAR-0001 / camp, Rio's program from memory | Skating and step content, single Axel, flying camel spin; choreography after the jump supplied by inference | None | Children's amazement; Rio: Yodaka's image | EV-0025/0026/0027; no multi-rotation jump |
+| MD-PERF-0033 | MD-CHAR-0034 / studio floor | Three turns in the air from standing, landed in position | None | Demonstrates posture | EV-0032; not skating |
+| MD-PERF-0034 | MD-CHAR-0013 / camp practice, day 3 | Triple Salchow; then triple Salchow and double toe loop | None | Nachi's delight | EV-0035 |
+| MD-PERF-0035 | 0011 / camp practice, day 3 | Triple toe loop and double toe loop, his first landed triple | None | Coach in tears | EV-0035 |
+| MD-PERF-0036 | 0004 / camp practice, end of day 3 | A triple and double landed, type not stated | None | Third of three | EV-0035 |
+| MD-PERF-0037 | 0004 / camp run-through | Double Axel landed within the program to music | None | Coaches: it fitted | EV-0034 |
+| MD-PERF-0038 | 0004 / grade-6 badge test | Elements: double Axel landed on a second asking, a 2+2+2 named; short program completed without a fall; free skate with a landed double Axel and the remaining elements ticked | **Pass** in all three parts | Ballet hands; "one at a time" | EV-0041/0043/0045; a test, not a competition; no marks given |
+| MD-PERF-0039 | 0011 / grade-6 badge test | Short-program jump landed with a long run-out | **Pass**, sixth sitting | Examiner: careful, practised skating | EV-0041/0045 |
+
+| Technical transition | Athlete / coach / known after | Skill / prior limit / intervention / outcome | Channel / physical constraints / risk | Performance / evidence / claim version | Confidence / counterevidence / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-SK-0020 | Inori / Tsukasa / Score 12 | Missing double Axel attributed to strength; an off-ice landing shows the strength is present; diagnosis moves to technique | DEPICTED_PERFORMANCE and the coach's stated reasoning; training volume capped because of earlier shin pain | MD-PERF-0028; EV-0004/0005/0006; MD-CL-0004@4/0007@4 | HIGH |
+| MD-SK-0021 | Inori / Nachi and Tsukasa / Score 12 | Straight-lane jumping to counter centrifugal pull; landing-edge correction; double Axel landed | DEPICTED_PERFORMANCE; IN_UNIVERSE_STATEMENT of both diagnoses | MD-PERF-0029; EV-0008/0016 | HIGH one landing; which intervention mattered is not isolated |
+| MD-SK-0022 | Inori / self-described / Score 13 | "Only become the axis"; triple Salchow the same day; later a triple and double | DEPICTED_PERFORMANCE; IN_UNIVERSE_STATEMENT that double Axel and triple rotation speeds are close | MD-PERF-0030/0036; EV-0019/0020/0035 | HIGH single landings |
+| MD-SK-0023 | Inori / Shirone / Score 15 | Ballet posture and hands introduced; applied in the test | DEPICTED_PERFORMANCE; attributed teaching on posture as habit | MD-PERF-0038; EV-0031/0032/0041 | HIGH that it was applied; effect on marks unknown |
+| MD-SK-0024 | Inori / Tsukasa and Hitomi / Score 15 | Placement of the double Axel in the layout; set to music | IN_UNIVERSE_STATEMENT of the second-half bonus; DEPICTED_PERFORMANCE | MD-PERF-0037; EV-0034; MD-CL-0013@4 | HIGH |
+| MD-SK-0025 | Inori / Score 15 | Grade 6 passed at the first attempt in one day | Official in-story outcome | MD-PERF-0038; EV-0045 | HIGH |
+| MD-SK-0026 | Rio / Tsukasa / Scores 13–15 | No triple and five failed tests; first triple attempted, then landed in combination; grade 6 passed | DEPICTED_PERFORMANCE and official outcome; by the profile the technical advice was not new to him | MD-PERF-0031/0035/0039; EV-0019/0035/0045/0046; MD-CL-0021@2/0004@4 | HIGH outcomes; cause attributed, not isolated |
+| MD-SK-0027 | Ryoka / Nachi / Score 15 | Triple Salchow and a triple and double landed | DEPICTED_PERFORMANCE | MD-PERF-0034; EV-0035 | HIGH single landings |
+
+The external-reference table still has no rows. Demonstrated frontier at `MD-FR-V04`: badge grade 6 certified; double Axel landed in a test; triple Salchow and one triple and double landed once each in practice; no competition since the second 名港杯.

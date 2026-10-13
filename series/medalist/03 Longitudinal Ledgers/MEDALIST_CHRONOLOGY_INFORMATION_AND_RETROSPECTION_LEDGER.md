@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.2"
+version: "1.3"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
-source_boundary: "Japanese V01–V03 closed (Scores 1–11, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V04 closed (Scores 1–15, Short Programs 1–4, own-volume material); fanbooks and later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V03_UPDATE"
+review_status: "AUTHOR_REVIEWED_V04_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -166,3 +166,40 @@ New proposition keys: MD-PROP-0011 that Inori has leg pain; MD-PROP-0012 that Ts
 | MD-RT-0014 | EV-0025, Score 9 | V01:EV-0035 Sekoma's subsidy | He also taught her on the ice at seven | —; MD-CL-0011@3 | No revision; HIGH |
 | MD-RT-0015 | EV-0057, gag gloss | V02:EV-0047–0049 the adoptive household | Hikaru's daily home since about seven is the Sonidori house | How this relates to the adoptive household is not stated; MD-CHAR-0010 | No revision; MODERATE |
 | MD-RT-0016 | EV-0047 with EV-0045 | V02:EV-0019/0021 Ryoka's age | Ten a year on, so nine at the first 名港杯 or just after | Profile field likely fixed earlier | No revision; MODERATE-HIGH |
+
+## V04 evidence tables
+
+All records below are version 1 through `MD-FR-V04`. In this section `EV-####` expands to the [V04 reading's](../02%20Sequential%20Readings/MEDALIST_V04_DEEP_READING.md#canonical-observations) `MD-EV-V04-####`; earlier volumes are written with their volume prefix. No calendar year is inferred. Earlier tables are unchanged.
+
+| Event | Represented time / certainty | Disclosure order / kind | Participants / observation IDs | Ordering alternatives | Chronology confidence / claim / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-TM-0027 | The day of the vow: minutes after V03's endpoint, then an hour later in a park at night | Score 12 / PRESENT | Inori, Tsukasa, Rio, her father; EV-0003–0006 | — | HIGH; MD-CL-0019@2 |
+| MD-TM-0028 | The following week: four days at Tsuruga in the summer holidays; first night (bath, futons, ridge); second day (double Axel, triple Salchow) and night (Rio's account, the coach's skate); third day (goal sheet at six, ballet, triple and double combinations) and last evening | Scores 12–15 / PRESENT | EV-0007–0038 | Day boundaries are the reading's reconstruction from "day 2 night", "next morning" and "tomorrow morning it ends" | HIGH order, MODERATE day assignment |
+| MD-TM-0029 | Tsukasa's past: beginner test taken self-taught without a club; meets Hitomi with no record; pairs with her across a gap of more than ten years; All-Japan | Scores 12 and 14 / FLASHBACK and Hitomi's account | Tsukasa, Hitomi; EV-0014/0027 | Relative to "from fourteen" and "instruction about twenty" in V01: consistent; dates absent | HIGH relative; MD-CL-0010@4; refines MD-TM-0001 |
+| MD-TM-0030 | Rio's past: Hikaru arrives at about seven; he guides her; she goes to Yodaka; he asks for a lesson and is refused; eighth at All-Japan Novice two years before; five failed grade-6 sittings | Score 13 and test day / FLASHBACK, bystander report | Rio, Hikaru, Yodaka, Sonidori; EV-0019/0021/0023/0041 | Order of the refusal relative to her leaving not fixed | HIGH relative; MD-CL-0021@2; refines MD-TM-0026 |
+| MD-TM-0031 | Yodaka's novice career as recited | Score 13 / character statement | EV-0023 | — | MODERATE (statement); MD-CL-0016@3 |
+| MD-TM-0032 | One month after the camp: grade-6 test at the venue of her first badge test; meeting with Hikaru; entry to the block competition | Score 15 / PRESENT | EV-0039–0045 | — | HIGH |
+| MD-TM-0033 | Sonidori: retired at twenty-eight with a silver medal; now thirty-six | Profile | EV-0046 | So the medal is about eight years before the present, and Rio was a small child | HIGH as profile fields |
+| MD-TM-0034 | Ryoka quit ballet four years earlier after two days | Score 15 / SELF_REPORT | EV-0031/0033 | — | HIGH as stated |
+
+New proposition keys: MD-PROP-0014 Tsukasa's singles badge grade; MD-PROP-0015 why Inori wants grade 6 and the qualifier this year; MD-PROP-0016 the standard Rio measures himself against.
+
+| Knowledge record | Proposition / participant | Story boundary / known after | State / truth distinction / basis | Disclosure / action relevance | Evidence / confidence / prior / revision |
+| --- | --- | --- | --- | --- | --- |
+| MD-KN-0034 | PROP-0014 / Inori | Before the camp | KNOWN: he had told her | Rio's expectation that she would be disappointed fails | EV-0012; HIGH |
+| MD-KN-0035 | PROP-0014 / Rio | Camp night 1 | SUSPECTED below grade 6 from published results; KNOWN "beginner" on asking | His prepared follow-up is never delivered | EV-0011; HIGH |
+| MD-KN-0036 | PROP-0015 / Tsukasa | Night park onward | Told a true reason (she has changed); UNKNOWN that she fears he will be blamed | He plans as if the urgency were hers alone | EV-0005/0012; HIGH |
+| MD-KN-0037 | PROP-0015 / Ryoka | Camp night 1 | KNOWN: confided as a secret | She keeps it | EV-0012; HIGH |
+| MD-KN-0038 | PROP-0016 / Rio | Camp night 2 | UNKNOWN to himself until named; then accepted | His self-assessment loosens | EV-0022/0023/0024; HIGH that he says so |
+| MD-KN-0039 | PROP-0016 / Tsukasa | Camp night 2 | INFERRED from the details Rio listed | The question that opens the sealed memory | EV-0023; HIGH |
+| MD-KN-0040 | PROP-0007 / Rio | From childhood | KNOWN that Yodaka coaches Hikaru under a promise his father made or accepted | Part of what he cannot say to bystanders | EV-0023; HIGH |
+| MD-KN-0041 | Inori's progress / Hikaru | Test day | EXPECTED: "やっぱり?" | She had some basis for expecting Inori at grade 6 now; its source is not shown | EV-0039; MODERATE |
+
+| Retrospection | New observation / boundary | Earlier event / claim / freeze | Revealed history versus revised explanation | Counterevidence / affected homes | Revision / confidence |
+| --- | --- | --- | --- | --- | --- |
+| MD-RT-0017 | EV-0015, Score 12 | V01:EV-0005 his reluctance to coach; MD-CL-0010@1 | He hesitated because he foresaw the credential challenge | His V01 stated reason, fear of misleading a pupil, is not withdrawn | MD-RV-0033; HIGH |
+| MD-RT-0018 | EV-0014, Score 12 | V01:EV-0004/0007 the annotated manual and "君は十分偉いよ" | His recognition of Inori is tied by the page to his own self-taught years, which he called wasted | Compatible with his V01 denial of coaching to soothe regret | MD-RV-0033; HIGH for the visual link |
+| MD-RT-0019 | EV-0021/0046, Score 13 and profile | V01:EV-0012 Rio's insult; V03 hostility | He was Hikaru's first guide and is wary of newcomers by the profile's account | The profile is editorial | MD-RV-0042; MODERATE-HIGH |
+| MD-RT-0020 | EV-0023, Score 13 | V03:EV-0046 "the one most in her way is you" | The sentence repeats an earlier refusal | — | MD-RV-0037; HIGH |
+| MD-RT-0021 | EV-0037, Score 15 | V01:EV-0003/0035 the worms | Her liking began with what the worms let her do | Comic frame; her own words | No revision; HIGH |
+| MD-RT-0022 | EV-0027, Score 14 | V01:EV-0005 Hitomi's offer of the assistant post | She knew his history and what the rink meant to him | — | No revision; HIGH |
