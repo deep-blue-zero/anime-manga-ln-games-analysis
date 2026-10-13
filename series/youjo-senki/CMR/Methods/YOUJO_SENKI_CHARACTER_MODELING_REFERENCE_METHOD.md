@@ -22,11 +22,15 @@ source_drive_id: "16tMcTb0rZZ7U3gjidf6bzJ-TravNQcCh"
 source_drive_revision: "0B24avie5yJngSElKajFBL2hDaFE4Qm9vazUweGdMcldtT3BzPQ"
 source_sha256: "405d89789d730ec3ccdff1de020d318dc39c9910b36577d2b3e1f63a52737361"
 historical_drive_home: "Youjo Senki/06 Character Modeling and Reconstruction/00 Frameworks and Methods"
-promotion_status: PROPOSED_PENDING_VERIFIED_MAIN_INTEGRATION
-former_drive_pointer_update_status: NOT_PERFORMED
+promotion_status: "VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS"
+former_drive_pointer_update_status: "VERIFIED_NATIVE_CUTOVER"
+analytical_body_authority: "VERIFIED_ACCEPTED_MAIN_WITH_LIMITS"
+native_predecessor_pointers: "VERIFIED_NATIVE_CUTOVER"
+accepted_analytical_main_sha: "813cc91553f99e2de7c357794897bb8c59b2f548"
+authority_promotion_record: "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json"
 ---
 
-> **Git port proposal.** The complete v1.1 method body is preserved below. This branch artifact remains `active_provisional`; promotion of this analytical home awaits verified main integration. The original Drive method is the retained, revision-bound source for the port. Its planned pointer/supersession metadata update has not been performed.
+> **Verified analytical authority.** The complete v1.1 substantive method body below was accepted in main `813cc91553f99e2de7c357794897bb8c59b2f548`. The six native predecessor metadata/banner readbacks are verified. The [authority promotion receipt](../Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) binds those completed events and the preserved source-copy roles. It certifies the previously accepted analytical bodies and native pointers; later publication of this wrapper is determined by exact Git/CI history and the final handoff.
 
 The series first-read route remains [CURRENT_STATE_AND_CORPUS_MAP.md](../../CURRENT_STATE_AND_CORPUS_MAP.md). Mature literary interpretation remains in `series/youjo-senki/V2 Analysis/`, including the Japanese/English warning layer in Document 12. The original Japanese V01–V14 EPUBs and source-derived bulk evidence remain in Drive. This working Git method adds no source range, adaptation material, private-life facts, or completed model by its existence.
 
