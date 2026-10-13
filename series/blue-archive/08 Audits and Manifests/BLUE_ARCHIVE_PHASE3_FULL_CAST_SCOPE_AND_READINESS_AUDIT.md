@@ -7,7 +7,7 @@ drafted_against_commit: "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
 created: 2026-10-09
 updated: 2026-10-13
 generation: V1
-version: "1.15"
+version: "1.16"
 supersedes: []
 superseded_by: []
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md
@@ -17,6 +17,14 @@ do_not_use_as_current_authority: false
 ---
 
 # Phase 3 full-cast scope and readiness audit
+
+## Current published GSC134 and conditional Minato135 — 2026-10-13
+
+Current verified source 130b9c1c230c928601041b9b8ef4f013d44b24e7 contains134 published packages and14 completed named duties; integrated main 0ed395926cca502fe1461d8c172330baab99e70e contains133 packages and13 named duties. GSC is published on the source branch with its exact-source SOURCE→HOUSEKEEPING→FINAL chain (301 mandatory SOURCE/FINAL tests, no selection; actual report counters errors, failures, expected_failures, unexpected_successes and skipped all0; HOUSEKEEPING no-op; FINAL38336834567). GSC remains unintegrated on main. This updates operational publication status only and adds no second GSC literary credit. ROOT has accepted the183-line Minato V4 argument WITH LIMITS and individually received all105 Minato-specific questions at26 contributor complete-normal and79 selected connected-account extents; ROOT report receiving and19 core-source extents stay separately attributed. Complete ROOT installation of this reviewed candidate will yield135 local packages (101character,16directed relationship,5ensemble,13institution), with14 completed named duties unchanged. Minato P3-CHAR-M040 has no mandatory named section, is not yet remotely published or integrated, and needs its own actual installation/readback and fresh exact-head publication chain. No future head/CI pass is asserted. Required355 packages/29 named duties across25 parents/384 homes and788 heterogeneous navigation rows are unchanged. First89 milestone history remains complete, next178 unreached, all14 original claim-specific gaps OPEN, models0. Frozen V3/57 IDs,51 unchanged claim texts,6 current successors and the new institutional paragraph retain full original/current bindings and inverse; the actual18 batch receipts plus ownO000/O036/O037 cover105 distinct owners. PR151, PR152 seven corrections43 fields, all133 current qualifications and every frozen source/receipt/rival/end/gap decision remain governing. Ordinary food, rest, craft, art, reading, company and recipients’ willingness/refusal retain intrinsic ends. No primary/native/raw/AV/source-admission/private identity/model or parent-completion credit is added. Sammy, Odysseia, the claimant and GSC/M008 questions remain separate. ROOT alone installs and publishes; merge approval remains reserved.
+
+[Minato character](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md); [ROOT receiving](BLUE_ARCHIVE_UMIJI_MINATO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json); [current58 claim bindings](BLUE_ARCHIVE_UMIJI_MINATO_CURRENT_COMPLETE_CLAIM_REGISTER_V4.json); [qualified105 purposes](BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_CURRENT_ROOT_PURPOSE_INDEX_V1.json); [full recovery](BLUE_ARCHIVE_UMIJI_MINATO_CURRENT_CLAIM_BINDINGS_AND_RECOVERY_20261013_V1.json).
+
+The following earlier GSC134 preparation section is retained literally as its dated prepublication state. Its pending installation/publication and source133 wording is succeeded only by the factual operational boundary above. Historical all133 source-consistency/PR153 preparation text, complete literary decisions and source grades remain frozen; no additional GSC literary or named credit is created. The new Minato metadata remains a conditional C candidate until ROOT performs exact installation.
 
 ## Current verified133 and prepared GSC134 adoption — 2026-10-13
 
