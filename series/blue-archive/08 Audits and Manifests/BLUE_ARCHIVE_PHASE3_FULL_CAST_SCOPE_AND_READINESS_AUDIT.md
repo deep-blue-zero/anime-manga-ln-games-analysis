@@ -5,9 +5,9 @@ status: canonical
 source_boundary: "480 MAIN and3940 admitted selected supplemental objects; a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; Japanese textual evidence only"
 drafted_against_commit: "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
 created: 2026-10-09
-updated: 2026-10-13
+updated: 2026-10-14
 generation: V1
-version: "1.17"
+version: "1.18"
 supersedes: []
 superseded_by: []
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md
@@ -17,6 +17,21 @@ do_not_use_as_current_authority: false
 ---
 
 # Phase 3 full-cast scope and readiness audit
+
+
+## Current Library acceptance, conditional local142 and verified published141 — 2026-10-14
+
+ROOT accepts the complete221-line Library institutional argument WITH LIMITS, its52 full paragraph/source/purpose joins, all105 new five-field comparison meanings and11 declared maintained analytical input roles at their actual grades. All15 institutional dimensions, the full12-dimension Ui–Shimiko directed reading/craft/rest section,8 rivals and16 finite endpoints are received. Current LP094 separates Miyo's wanted romance novels and refusal of Teacher reading access from Ritsu's favorite-author/sculpture/material interests. Original105 source objects, grades, decisions, body, source inputs and historical QA remain preserved. Reading, craft, comfort and rest are intrinsic analytical goods; differing wants, objections and costs remain visible.
+
+Final15 public composition has distinct bounded different-author QA (9753 bytes/SHA2566b6f78318dba12b655f2bf45ca887027c6fbf8dfeeb48216be50237fff8ad961;446 mechanical checks/zero findings), with prior reviewer roles disclosed. Actual ROOT composed-byte acceptance (20005 bytes/SHA256c01be156b7d3fa0b7fa08f92ba5d90b9a830ffd7731730a6369947534616099e) independently executes exact32 private-locator token recovery, whole ROOT49881 inverse/forward, all13 other public noops and the sole control addition. Current positive ROOT route governs semantic adoption; old6042 and current14 pending statements remain dated history. Installation, staged preflight, live controls, push/readback and the new head's full SOURCE/HOUSEKEEPING/FINAL remain separate.
+
+Verified published source70db21c24b2a2e1e68b227b5ef278cfaeca32d3e/treec2e075588bfa7bd9e5eedf5b3913b7e60ded6d13 contains141 packages and15 named duties. Its fresh exact SOURCE38482931817/HOUSEKEEPING38484570750 no-op/FINAL38484600616 sequence passed301 discovered/run/unique tests in both audits, selectionfalse, failures/errors/expectedfailures/unexpectedsuccesses/skipped each0; latest final status56279749185 targets exact70db from app15368. ROOT verified the actual execution target and no-op boundary; no independent incoming event-ID causality is claimed. Current main6e139d9bb82fc9d07c16bbefd2b3f15211a691cb retains133 packages/13 named duties. Ordinary local merge3ca7fb38e3ccfc4478f7fe3a5a28393cc6edfb3f/treec02ce2206c8a6b8115dab78a7ccc179e90b9ab5a imports exactly12 approved PR164 Youjo Senki paths, preserving every Blue byte and all39 unpublished-file statistics. Its staged author preflight passed INDEX7657; this local merge is not yet pushed.
+
+Only complete sole ROOT installation of the existing Library home and its existing Ui–Shimiko named duty yields142 local packages (104CHAR/18REL/5ENS/15INST) and16 named duties. Published source remains141/15 and main133/13 before that new publication/integration. The required355 packages/29 named duties/25 parents/384 homes/788 navigation rows remain fixed; first89 history complete, next178 UNREACHED, PR158 OPEN_DRAFT_HOLD, merge approval RESERVED, all14 original claim-specific gaps OPEN, models0. Seminar, Culinary, Veritas, Publishing and art-commerce remain separate pending responsibilities. No extra required relationship package, primary/native/raw/AV source consumption, identity, curation, reconstruction or model credit is added.
+
+Current operative routes: [Library argument](../04%20Specialist%20Synthesis/Institutional%20Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md); [ROOT complete literary and purpose adoption](BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_ROOT_CURRENT_COMPLETE_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json); [current positive composition and remaining transport gates](BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT_PUBLIC_REVIEW_COMPOSITION_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json).
+
+Sixteen predecessor publication fields (7 required-table rows and9 legacy acceptance rows) are synchronized to exact already-published70db files and its completed audit chain. Complete original row bytes are privately recoverable; this status correction adds no semantic or package credit. All older prose, tables, IDs, original105 envelopes, source grades, prior decisions,43 PR152 current qualifications and PR151 controller repair remain complete dated history. The newest section governs current readiness; older pending snapshots do not override it.
 
 
 ## Current main813 reconciliation and GSC141 publication preparation — 2026-10-13

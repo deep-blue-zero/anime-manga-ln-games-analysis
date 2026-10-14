@@ -1,0 +1,465 @@
+{
+  "schema": "LIBRARY_CURRENT_PUBLIC_REVIEW_COMPOSITION_AND_CONDITIONAL_TRANSPORT_V1",
+  "composer": "/root/receive_middle_remaining",
+  "existing_required_home": "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER-SERVICE",
+  "existing_substantial_named_duty": "P3-REL-UI-SHIMIKO-READING-CRAFT-REST",
+  "stage": "C_ONLY_COMPLETE_REVIEW_DERIVATIVES_PREPARED; ROOT_CURRENT105_SOURCE52_ADOPTION_AND_FINAL_ACTIVATION_PENDING",
+  "exact13_components_before_this_control": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 42014,
+      "sha256": "48587c4ce60f0c215f47d6a9753c2252bff0c52ffc9e89f6d37e71da21d1b9c7",
+      "git_blob_oid_of_actual_bytes": "bc5ad7d907391fec1da2b2452f3b269caae56373",
+      "role": "EXACT_AUTHOR8_UNCHANGED"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+      "bytes": 404842,
+      "sha256": "5d91ab885752d130f83c46077b5cd0ea1bcfdfed1e71bf317ad525d8fe86e980",
+      "git_blob_oid_of_actual_bytes": "60333997872e210070c981862f47227a6dc0cfdd",
+      "role": "EXACT_AUTHOR8_UNCHANGED"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+      "bytes": 539685,
+      "sha256": "727f5ef277f15798f7348f3bff1ab17ec5c13880fe5dd54ad1f3a4f2b1c90528",
+      "git_blob_oid_of_actual_bytes": "1ec2acf83c536efcf395f7d8c0ab6a63c5824e6d",
+      "role": "EXACT_AUTHOR8_UNCHANGED"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+      "bytes": 693828,
+      "sha256": "574ceb0876c49038fdbedcb427c4e24c5e19d18e1195c35031f38cb2e2c5ede9",
+      "git_blob_oid_of_actual_bytes": "fbdd4bf7f8965d8cdac308a3122e5d95ee74f477",
+      "role": "CURRENT_LP094_ACTOR_READING_ACCESS_OR_EXACT_DEPENDENCY_SUCCESSOR_WITH_COMPLETE_ORIGINAL_RECOVERY"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 76805,
+      "sha256": "db7cc74f8086a497f4386c82b5a08f7ea39f9e977c39864f13c626f02308d65c",
+      "git_blob_oid_of_actual_bytes": "457cbaf42d52f89f3cb01da296fcede1f341a90b",
+      "role": "CURRENT_LP094_ACTOR_READING_ACCESS_OR_EXACT_DEPENDENCY_SUCCESSOR_WITH_COMPLETE_ORIGINAL_RECOVERY"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INPUT_SOURCE_GRADE_AND_CURRENT_QUALIFIER_RECEIVING_V1.json",
+      "bytes": 340825,
+      "sha256": "a1a21e54b133bc426652c1fca68e2559ac55277092fe3b222ac066bf14ac109f",
+      "git_blob_oid_of_actual_bytes": "a2f5160f76dd745ccc080378abcfa3935ce35cff",
+      "role": "EXACT_AUTHOR8_UNCHANGED"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_LITERAL52_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 813723,
+      "sha256": "b7d74ef5b4c378be6e3dc7e6eaf486b83a3590288962ceada85ddbe6bc5ba6f8",
+      "git_blob_oid_of_actual_bytes": "8360ae2e47fc8f94db51501485b2ee17206dc201",
+      "role": "CURRENT_LP094_ACTOR_READING_ACCESS_OR_EXACT_DEPENDENCY_SUCCESSOR_WITH_COMPLETE_ORIGINAL_RECOVERY"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_SAVED_BODY_AND_EXACT8_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 5275,
+      "sha256": "69e500732eab37561994f11d4caf261e31c7a578c98203d967a54a64d823a9e2",
+      "git_blob_oid_of_actual_bytes": "e0cd76bfc5b8cfb123dfce760bdce9c981f3add3",
+      "role": "CURRENT_LP094_ACTOR_READING_ACCESS_OR_EXACT_DEPENDENCY_SUCCESSOR_WITH_COMPLETE_ORIGINAL_RECOVERY"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_COMPLETE221_BODY_ONLY_LITERARY_REVIEW_V1.json",
+      "bytes": 151465,
+      "sha256": "29ea4efb4e780056ddf05bea8dffaaf0a74cc77b6a521650b53edd402404574b",
+      "git_blob_oid_of_actual_bytes": "e7b2c4eac728746f252b6c2a1682581ec31f66c5",
+      "role": "COMPLETE_PUBLIC_QA_PATH_ONLY_DERIVATIVE"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_CURRENT221_NEW105_LITERAL52_COMPLETE_COMPONENT_REVIEW_V1.json",
+      "bytes": 69857,
+      "sha256": "7517e7b08b6554cecdb259d7a42f70a5c2715a31a067dc1ff288f6d1ac02161c",
+      "git_blob_oid_of_actual_bytes": "2041fdcbf1090d9ddc3ef18c39c82058193e73d3",
+      "role": "COMPLETE_PUBLIC_QA_PATH_ONLY_DERIVATIVE"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_CURRENT_EXACT8_COMPLETE_EXECUTED_MECHANICAL_RECOVERY_REVIEW_V1.json",
+      "bytes": 934366,
+      "sha256": "ac97a8f333f8bd45ee1766db74391661f68776e234bd5a59a12a222c6df86240",
+      "git_blob_oid_of_actual_bytes": "9180625e33fc6f1aea0c2816a81b1d3ed884e51a",
+      "role": "COMPLETE_PUBLIC_QA_PATH_ONLY_DERIVATIVE"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_BODY_V1_V2_ORIGINAL_AUTHOR_RAW_FULL_INVERSE_V1.json",
+      "bytes": 97005,
+      "sha256": "f8d108d13053e26213b8a5a26c5ee377c3e050cf4ee08857e65fb2b4ba95f45b",
+      "git_blob_oid_of_actual_bytes": "b942df83033b753ac07cf230b29994cd0eb43d2e",
+      "role": "COMPLETE_ORIGINAL_AUTHOR_BODY_V1_V2_RAW_INVERSE_UNCHANGED"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_ROOT_RECEIVING_BODY_SCOPE_AND_REMAINING_ACCEPTANCE_GATES_V1.json",
+      "bytes": 6042,
+      "sha256": "5f6ddee03dac0a34039094eae41da6cad2d2d32812a49f62b09899df6cc9b281",
+      "git_blob_oid_of_actual_bytes": "b5747adf00e8a518822b8fa50e24a046db1ce7b8",
+      "role": "PRELIMINARY_ROOT_SCOPE_WITNESS_NOT_ADOPTION"
+    }
+  ],
+  "public_composition_count_including_this_control": 14,
+  "source_counts_or_named_credit_from_this_count": 0,
+  "original_author8_envelope": "Eight original author files remain exact. Their original transport exact8 and7 component pins are historical/current-at-that-author-stage, not silently rebound to this14-file review composition.",
+  "current_original_body_raw_recovery": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_BODY_V1_V2_ORIGINAL_AUTHOR_RAW_FULL_INVERSE_V1.json",
+    "bytes": 97005,
+    "sha256": "f8d108d13053e26213b8a5a26c5ee377c3e050cf4ee08857e65fb2b4ba95f45b",
+    "git_blob_oid_of_actual_bytes": "b942df83033b753ac07cf230b29994cd0eb43d2e",
+    "role": "Complete original V1/V2 author inverse bytes preserved; original/private filenames are documentary IDs, not invented published historical routes."
+  },
+  "complete_three_independent_review_roles": {
+    "body_only": "Full153036 middle52 body review, maintained source grades explicit; not all105 QA.",
+    "complete_literary_purpose_component": "Full70011 distinct m008 current221/105/52 complete manual receiving/decision; noROOT adoption.",
+    "complete_executed_mechanics": "Full9350212072-check proof retained at exact original executed author8 snapshot. Path-only public derivative adds no new independent/primary semantics and is not itself transformed-composition QA."
+  },
+  "preliminary_ROOT_scope": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_ROOT_RECEIVING_BODY_SCOPE_AND_REMAINING_ACCEPTANCE_GATES_V1.json",
+    "bytes": 6042,
+    "sha256": "5f6ddee03dac0a34039094eae41da6cad2d2d32812a49f62b09899df6cc9b281",
+    "git_blob_oid_of_actual_bytes": "b5747adf00e8a518822b8fa50e24a046db1ce7b8"
+  },
+  "current_runtime_attributed_snapshot": {
+    "source_commit": "58a6fef2cd0cab67a5bf2125286e53d244979d27",
+    "source_tree": "35155af53cd670091b5cd5143ef88c3c95a20de2",
+    "source_packages": 140,
+    "source_named": 14,
+    "main_ROOT_reported_prefix": "bf7",
+    "main_packages": 133,
+    "main_named": 13,
+    "source58a_full_runtime_chain": "PENDING_AT_THIS_DATED_PREPARATION_SNAPSHOT",
+    "attribution": "ROOT supplied operational snapshot, no Git/provider/CI certification or future Library green claim by composer."
+  },
+  "operative_published_GSC_coffee_comparator_qualification": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 59334,
+    "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+    "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679",
+    "scope": "Existing published GSC9 body72/148 and14 retained aliases ONLY; operative when that exact comparator is reused, no arbitrary Library/source field expansion or new wholeGSC receiving."
+  },
+  "frozen_source_61767_and105_objects": "All original object/actor/sourcebinding/grade/decision fields remain exact in unchangedauthor8, including original26whole79selected contributor framework. New Library target questions do not become directattendance or a freshwhole105-primary replay.",
+  "fixed_controls": {
+    "required_packages": 355,
+    "mandatory_named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "milestones": [
+      89,
+      178,
+      267,
+      355
+    ],
+    "all14": "OPEN",
+    "models": 0
+  },
+  "semantic_scope": "Oneexistinginstitution home with the existing substantial Ui-Shimiko directed section; noextra requiredREL package or named expansion, no142/named16 acceptance by preparation.",
+  "ROOT_future_final_acceptance_route": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_ROOT_CURRENT_COMPLETE_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+    "role": "DECLARED_FUTURE_ARTIFACT_PENDING_ROOT_ACTUAL_RECEIVING_AND_DECISION; NO_TUPLE_OR_EXISTENCE_CLAIM"
+  },
+  "publication_gates": [
+    "ROOT actualcurrent105/source/resolved52 receiving and immutable adoption",
+    "Final completecomposition independentQA",
+    "ROOT guardedactualcanonicalinstallation/preflight",
+    "Exactsource58a completechain before newpackagepublication",
+    "Actualfutureexacthead source-housekeeping-final validations and separatemainintegration"
+  ],
+  "merge_approval": "RESERVED",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "current_LP094_source_actor_and_reading_access_precision_and_historical_review_scope_V1": {
+    "schema": "LIBRARY_CURRENT_LP094_EXACT_ACTOR_READING_ACCESS_CORRECTION_AND_DEPENDENCY_SCOPE_V1",
+    "saved_UTC": "2026-10-13T23:14:03.647820+00:00",
+    "author": "/root/m008_composition_review",
+    "authority": "ROOT authorized bounded C-only correction of the new operative LP094; this author does not independently QA or adopt their correction.",
+    "single_new_meaning_scalar": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+      "JSON_pointer": "/records/23/own_new_positive_and_countermeaning",
+      "owner_id": "O094",
+      "library_purpose_id": "LP094",
+      "before": "Wild Hunt's Miyo occupies an unwanted trading head role yet revises plans and refuses deception; Ritsu's author/sculpture tastes, writing privacy and actual sweets/public comparison remain meaningful. Earnings are zero/job loss, while injuries/coercion/compromised trust and unprinted purchases/exit persist. Library title is no total preference or flawless authenticity audit.",
+      "after": "Wild Hunt's Miyo occupies an unwanted trading head role yet revises plans and refuses deception; Ritsu's favorite-author/sculpture/material interests, Miyo's wanted romance novels and refusal to let Teacher read one, and actual sweets/public comparison remain meaningful. Earnings are zero/job loss, while injuries/coercion/compromised trust and unprinted purchases/exit persist. Library title is no total preference or flawless authenticity audit.",
+      "reason": "Ritsu has favorite-author/sculpture/material interests. Miyo wanted romance novels and explicitly refuses Teacher's request to read one. This is reading access refusal, not a refusal to write. Historical O094 source/report wording is retained literally."
+    },
+    "maintained_source_binding": {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_850/BLUE_ARCHIVE_EVENT_850_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 28418,
+      "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+      "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83",
+      "physical_lines": 139,
+      "actual_own_selected_maintained_analytical_carrier_receiving": {
+        "physical_lines": [
+          81,
+          100
+        ],
+        "critical_line": 98,
+        "story_units": "007:u0063–0074",
+        "actual": "687a24",
+        "grade": "SELECTED_CONNECTED_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT; NO_PRIMARY_NATIVE_RAW_AV_OR_WHOLE_NORMAL_MEANING_PASS",
+        "ROOT_selected_receiving_attribution": "ROOT actualcfe900 and repeated4d1824; no transfer of ROOT receiving credit to this author."
+      }
+    },
+    "current_four_actor_dependency_components": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "bytes": 693828,
+        "sha256": "574ceb0876c49038fdbedcb427c4e24c5e19d18e1195c35031f38cb2e2c5ede9",
+        "git_blob_oid_of_actual_bytes": "fbdd4bf7f8965d8cdac308a3122e5d95ee74f477"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+        "bytes": 76805,
+        "sha256": "db7cc74f8086a497f4386c82b5a08f7ea39f9e977c39864f13c626f02308d65c",
+        "git_blob_oid_of_actual_bytes": "457cbaf42d52f89f3cb01da296fcede1f341a90b"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_LITERAL52_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+        "bytes": 813723,
+        "sha256": "b7d74ef5b4c378be6e3dc7e6eaf486b83a3590288962ceada85ddbe6bc5ba6f8",
+        "git_blob_oid_of_actual_bytes": "8360ae2e47fc8f94db51501485b2ee17206dc201"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_SAVED_BODY_AND_EXACT8_TRANSPORT_RECEIPT_V1.json",
+        "bytes": 5275,
+        "sha256": "69e500732eab37561994f11d4caf261e31c7a578c98203d967a54a64d823a9e2",
+        "git_blob_oid_of_actual_bytes": "e0cd76bfc5b8cfb123dfce760bdce9c981f3add3"
+      }
+    ],
+    "retained_original_control_fields_as_dated_composition_history": {
+      "original_author8_envelope": "Eight original author files remain exact. Their original transport exact8 and7 component pins are historical/current-at-that-author-stage, not silently rebound to this14-file review composition.",
+      "frozen_source_61767_and105_objects": "All original object/actor/sourcebinding/grade/decision fields remain exact in unchangedauthor8, including original26whole79selected contributor framework. New Library target questions do not become directattendance or a freshwhole105-primary replay.",
+      "four_changed_row_prior_roles": [
+        {
+          "JSON_pointer": "/exact13_components_before_this_control/3/role",
+          "before": "EXACT_AUTHOR8_UNCHANGED"
+        },
+        {
+          "JSON_pointer": "/exact13_components_before_this_control/4/role",
+          "before": "EXACT_AUTHOR8_UNCHANGED"
+        },
+        {
+          "JSON_pointer": "/exact13_components_before_this_control/6/role",
+          "before": "EXACT_AUTHOR8_UNCHANGED"
+        },
+        {
+          "JSON_pointer": "/exact13_components_before_this_control/7/role",
+          "before": "EXACT_AUTHOR8_UNCHANGED"
+        }
+      ],
+      "role": "These retained original stage statements describe the original author8/public14 snapshot; the bounded current actor/dependency successors are specified here."
+    },
+    "complete_preservation_rule": "All frozen original O094 and104 other new purposes, source binding/report/qualifier objects,body221/literal52/rivals8/ends16/gaps14 and all three prior QA/preliminaryROOT receipts remain literal. Original author8/public14 manifests and complete beforeimages are retained privately. No current LP094 reading-access meaning is projected back into historical writing-refusal wording.",
+    "current_review_and_adoption_boundary": "Prior complete body/purpose/component QA remains at its exact original snapshot. Fresh different-author QA of this authored LP094 correction and current aliases is PENDING; ROOT current complete adoption and installation/publication remain PENDING. The preliminaryROOT receipt is retained dated history; this correction creates no new ROOT receiving/adoption claim.",
+    "prior_current_runtime_snapshot": "All existing58a/bf7/pending runtime/count snapshots remain exact dated preparation. This C correction makes no live source/main/localHEAD or runtime-green assertion.",
+    "fixed_controls": {
+      "required_packages": 355,
+      "mandatory_named": 29,
+      "parents": 25,
+      "homes": 384,
+      "navigation": 788,
+      "all14": "OPEN",
+      "models": 0,
+      "next178": "UNREACHED",
+      "merge_approval": "RESERVED"
+    },
+    "source_qualification_roles": "Existing61767 common105 six-purpose qualifier scope remains separate from published59334 oldGSC9/body72/148 plus14aliases. No arbitrary source rewrite or new source/primary/identity credit.",
+    "scope_credit_from_this_correction": 0,
+    "R_Git_provider_shared_R_metadata_mutations": 0
+  },
+  "current15_actual_ROOT_positive_semantic_adoption_and_conditional_transport_view_V1": {
+    "schema": "LIBRARY_CURRENT15_ACTUAL_ROOT_POSITIVE_LITERARY_ACCEPTANCE_AND_CONDITIONAL_INSTALL_VIEW_V1",
+    "saved_actual_UTC": "2026-10-13T23:50:10.155222+00:00",
+    "composer": "/root/minato_105_derivative",
+    "stage": "C_ONLY_EXACT15_CURRENT_ROOT_LITERARY_WITH_LIMITS_ACCEPTANCE_COMPOSED;DISTINCT_AUTHOR_COMPOSITION_QA_ROOT_INSTALL_PUBLICATION_NEWHEAD_CI_AND_MAIN_INTEGRATION_SEPARATE",
+    "authority": "ROOT actual5ba02b semantic adoption, preserved at the exact new public route; this view adds no invented ROOT or independent QA receiving.",
+    "current14_components_before_this_control": [
+      {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+        "bytes": 42014,
+        "sha256": "48587c4ce60f0c215f47d6a9753c2252bff0c52ffc9e89f6d37e71da21d1b9c7",
+        "git_blob_oid_of_actual_bytes": "bc5ad7d907391fec1da2b2452f3b269caae56373",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "bytes": 404842,
+        "sha256": "5d91ab885752d130f83c46077b5cd0ea1bcfdfed1e71bf317ad525d8fe86e980",
+        "git_blob_oid_of_actual_bytes": "60333997872e210070c981862f47227a6dc0cfdd",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "bytes": 539685,
+        "sha256": "727f5ef277f15798f7348f3bff1ab17ec5c13880fe5dd54ad1f3a4f2b1c90528",
+        "git_blob_oid_of_actual_bytes": "1ec2acf83c536efcf395f7d8c0ab6a63c5824e6d",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "bytes": 693828,
+        "sha256": "574ceb0876c49038fdbedcb427c4e24c5e19d18e1195c35031f38cb2e2c5ede9",
+        "git_blob_oid_of_actual_bytes": "fbdd4bf7f8965d8cdac308a3122e5d95ee74f477",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+        "bytes": 76805,
+        "sha256": "db7cc74f8086a497f4386c82b5a08f7ea39f9e977c39864f13c626f02308d65c",
+        "git_blob_oid_of_actual_bytes": "457cbaf42d52f89f3cb01da296fcede1f341a90b",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INPUT_SOURCE_GRADE_AND_CURRENT_QUALIFIER_RECEIVING_V1.json",
+        "bytes": 340825,
+        "sha256": "a1a21e54b133bc426652c1fca68e2559ac55277092fe3b222ac066bf14ac109f",
+        "git_blob_oid_of_actual_bytes": "a2f5160f76dd745ccc080378abcfa3935ce35cff",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_LITERAL52_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+        "bytes": 813723,
+        "sha256": "b7d74ef5b4c378be6e3dc7e6eaf486b83a3590288962ceada85ddbe6bc5ba6f8",
+        "git_blob_oid_of_actual_bytes": "8360ae2e47fc8f94db51501485b2ee17206dc201",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_SAVED_BODY_AND_EXACT8_TRANSPORT_RECEIPT_V1.json",
+        "bytes": 5275,
+        "sha256": "69e500732eab37561994f11d4caf261e31c7a578c98203d967a54a64d823a9e2",
+        "git_blob_oid_of_actual_bytes": "e0cd76bfc5b8cfb123dfce760bdce9c981f3add3",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_COMPLETE221_BODY_ONLY_LITERARY_REVIEW_V1.json",
+        "bytes": 151465,
+        "sha256": "29ea4efb4e780056ddf05bea8dffaaf0a74cc77b6a521650b53edd402404574b",
+        "git_blob_oid_of_actual_bytes": "e7b2c4eac728746f252b6c2a1682581ec31f66c5",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_CURRENT221_NEW105_LITERAL52_COMPLETE_COMPONENT_REVIEW_V1.json",
+        "bytes": 69857,
+        "sha256": "7517e7b08b6554cecdb259d7a42f70a5c2715a31a067dc1ff288f6d1ac02161c",
+        "git_blob_oid_of_actual_bytes": "2041fdcbf1090d9ddc3ef18c39c82058193e73d3",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_CURRENT_EXACT8_COMPLETE_EXECUTED_MECHANICAL_RECOVERY_REVIEW_V1.json",
+        "bytes": 934366,
+        "sha256": "ac97a8f333f8bd45ee1766db74391661f68776e234bd5a59a12a222c6df86240",
+        "git_blob_oid_of_actual_bytes": "9180625e33fc6f1aea0c2816a81b1d3ed884e51a",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_BODY_V1_V2_ORIGINAL_AUTHOR_RAW_FULL_INVERSE_V1.json",
+        "bytes": 97005,
+        "sha256": "f8d108d13053e26213b8a5a26c5ee377c3e050cf4ee08857e65fb2b4ba95f45b",
+        "git_blob_oid_of_actual_bytes": "b942df83033b753ac07cf230b29994cd0eb43d2e",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_ROOT_RECEIVING_BODY_SCOPE_AND_REMAINING_ACCEPTANCE_GATES_V1.json",
+        "bytes": 6042,
+        "sha256": "5f6ddee03dac0a34039094eae41da6cad2d2d32812a49f62b09899df6cc9b281",
+        "git_blob_oid_of_actual_bytes": "b5747adf00e8a518822b8fa50e24a046db1ce7b8",
+        "role": "EXACT_CURRENT14_COMPONENT_UNCHANGED"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_ROOT_CURRENT_COMPLETE_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+        "bytes": 54709,
+        "sha256": "46c1f37e1c945fc65d9453de43063e65c318ec70189c2163822643c4e9025fd1",
+        "git_blob_oid_of_actual_bytes": "86ad93f55dbc19e672c2f894af7f2f8bdf2b0261",
+        "role": "ACTUAL_ROOT_COMPLETE221_LITERAL52_NEW105_SOURCE11_WITH_LIMITS_ADOPTION_PATH_ONLY_DERIVATIVE"
+      }
+    ],
+    "current_public_composition_count_including_this_control": 15,
+    "current_ROOT_semantic_adoption": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_ROOT_CURRENT_COMPLETE_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+      "bytes": 54709,
+      "sha256": "46c1f37e1c945fc65d9453de43063e65c318ec70189c2163822643c4e9025fd1",
+      "git_blob_oid_of_actual_bytes": "86ad93f55dbc19e672c2f894af7f2f8bdf2b0261",
+      "ROOT_decision": "ADOPT_COMPLETE_WRITTEN_INSTITUTION_AND_EXISTING_UI_SHIMIKO_SUBSTANTIAL_DIRECTED_NAMED_ARGUMENT_WITH_LIMITS;CURRENT_PUBLIC_COMPOSITION_ACTUAL_INSTALLATION_PUBLICATION_AND_MAIN_INTEGRATION_SEPARATE",
+      "basis": "Complete current221 body/52 literal arguments/all105 new five-field target purposes/11 declared analytical source-input roles, with exact actual receiving grades and actor-access LP094 acceptance preserved in this ROOT object."
+    },
+    "old_control_preservation": {
+      "original_current14_control": {
+        "bytes": 19014,
+        "sha256": "bafa0bba6814d68753e067e02ae53da398431f815121cd16c492bbff07437711",
+        "git_blob_oid_of_actual_bytes": "66f15e5f28aacaf25e4dc52a5dc23e8fcd0961ab"
+      },
+      "all_existing_fields_preserved": "All original stage/exact13/component-count14/author8/runtime58a-bf7/pending/future-route/QA-boundary fields remain literal dated history. This additive current15 view is operative for present transport and ROOT-positive status. Original QA decisions, scopes and hashes are not upgraded.",
+      "preliminary6042": "Exact retained earlier ROOT receiving-stage record, not current final acceptance; use the distinct current ROOT route above."
+    },
+    "current_operational_basis_ROOT_attributed": {
+      "source_commit": "70db21c24b2a2e1e68b227b5ef278cfaeca32d3e",
+      "source_tree": "c2e075588bfa7bd9e5eedf5b3913b7e60ded6d13",
+      "main_commit": "813cc91553f99e2de7c357794897bb8c59b2f548",
+      "persisted_source_packages": 141,
+      "persisted_source_named": 15,
+      "main_packages": 133,
+      "main_named": 13,
+      "completed_exact_source_chain": {
+        "opaque_private_witness_id": "private-witness:LIBRARY-PREPUBLICATION-GSC141-70DB-COMPLETE-CHAIN",
+        "bytes": 68279,
+        "sha256": "fcf0e1fb7332dcd8143f5dfcc035568083736bd026d5b59e47a6a51e76acbd96",
+        "git_blob_oid_of_actual_bytes": "e662897381afb8c64beeb0f8940c9b3684c58084",
+        "ROOT_decision": "ACCEPT_EXACT_FRESH_SOURCE_HOUSEKEEPING_FINAL_CHAIN",
+        "source": "70db21c24b2a2e1e68b227b5ef278cfaeca32d3e",
+        "source_tree": "c2e075588bfa7bd9e5eedf5b3913b7e60ded6d13",
+        "final_audited_commit": "70db21c24b2a2e1e68b227b5ef278cfaeca32d3e",
+        "final_tree": "c2e075588bfa7bd9e5eedf5b3913b7e60ded6d13",
+        "SOURCE_run": 38482931817,
+        "housekeeping_run": 38484570750,
+        "FINAL_run": 38484600616,
+        "housekeeping": "SUCCESS_NO_CHILD_NOOP70DB",
+        "SOURCE_FINAL": "SUCCESS_301_FULL_SELECTION_FALSE_FIVE_ZERO_COUNTERS",
+        "latest_final_status_id": 56279749185,
+        "attribution": "ROOT executed full exact chain verifier; this composer compares the saved bounded receipt. No new provider read, upstream event-ID causality or Library-newhead green assertion."
+      }
+    },
+    "dated_original_ROOT_gate_qualification": "Original ROOT final-audit-pending/gate strings are preserved at actual adoption time. The now-completed70db chain closes only that predecessor-chain gate; it certifies neither this uninstalled Library candidate nor its future pushed head.",
+    "current_remaining_gates": [
+      "Different-author complete15 composition/preservation review",
+      "ROOT separate acceptance of actual composed bytes",
+      "ROOT exact guarded installation with protected39stat-only preservation",
+      "Fresh required staged author preflight/checklist/identities/live provider checks and ordinary push",
+      "Exact remote raw readback and fresh Library-newhead SOURCE/HK/FINAL",
+      "Separate authorized milestone main integration; merge approval reserved"
+    ],
+    "current_Library_installation_publication_status": "NOT_INSTALLED_NOT_PUBLISHED;NO_LIBRARY_NEWHEAD_CI_OR_MAIN_CREDIT",
+    "conditional_only_after_actual_ROOT_Library_install": {
+      "source_required_packages": 142,
+      "named": 16,
+      "institution_packages": 15,
+      "other_counts_unchanged": true
+    },
+    "fixed_scope": {
+      "required": 355,
+      "named": 29,
+      "parents": 25,
+      "homes": 384,
+      "navigation": 788,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "178": "UNREACHED",
+      "all14_original_gaps": "OPEN",
+      "models": 0
+    },
+    "all_original14_gaps": "OPEN",
+    "models": 0,
+    "credit_from_preparation": {
+      "new_canonical_packages": 0,
+      "new_persisted_named": 0,
+      "new_primary_native_raw_AV_source_admission_identity_or_model": 0
+    },
+    "semantic_preservation": "Body221/52, all105 new meanings including corrected LP094, original105 source payloads/scopes26whole79selected, source11 grades, current61767 six qualifiers, published59334 narrow coffee16 dependency, rivals8/ends16/14OPEN, source/literal register and all prior QA are unchanged. Existing Ui–Shimiko named duty is substantial; no extra required REL package.",
+    "author_scope": "Author byte/field/custody verification only. Library author and prior Odysseia/common105/GSC review roles disclosed; no fresh source/primary/native/raw/AV or clean-room independence claim.",
+    "R_Git_provider_shared_metadata_operations": 0,
+    "protected39_or9UNBOUND_body_or_hash_reads": 0,
+    "merge_approval": "RESERVED"
+  }
+}
