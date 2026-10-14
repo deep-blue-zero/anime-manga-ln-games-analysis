@@ -5,7 +5,7 @@ artifact_type: master_longitudinal_ledger
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.18"
+version: "1.19"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exclusive pre-split cumulative state; Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes closed and reconciled into every typed section"
@@ -3202,6 +3202,21 @@ Records at ANOTHER-LOWER, reviewer the -another- (lower) sequential integrator, 
 | SW-RD-0054 | sw.louis; ANOTHER-LOWER exit | Domain-bounded model | INSUFFICIENT_EVIDENCE | Prequel arc complete. | Thin for adult self-representation outside the prequel. | Longitudinal transitions. | Synthesis. | — |
 | SW-RD-0055 | sw.rosalie, sw.glen; ANOTHER-LOWER exit | Domain-bounded model | INSUFFICIENT_EVIDENCE | Origins supplied. | Thin. | Synthesis. | Synthesis. | — |
 | SW-RD-0056 | all other identities; ANOTHER-LOWER exit | Any tier | INSUFFICIENT_EVIDENCE | Prequel figures. | Thin. | Own accounts. | Synthesis. | Keep thin entries thin. |
+
+Records at completion, from the [reconstruction-readiness assessment](../09%20Reconstruction%20Readiness/SW_RECONSTRUCTION_READINESS_ASSESSMENT.md), reviewer the sequential integrator, 2026-10-14. Evidence reviews only: no model, rule, profile or synthetic dialogue exists, no test has been run, and BOUNDED_PROVISIONAL and DOMAIN_READY are not awarded. States A to C are defined per subject in the assessment's section 3.
+
+| ID | Identity; state boundary | Tier considered | Readiness state | Evidence variety | Affirmative limitations | Missing evidence | Test route | Restrictions |
+|---|---|---|---|---|---|---|---|---|
+| SW-RD-0057 | sw.monica; states A to C, completion | Recognition profile | UNASSESSED. Evidence would support drafting and testing a profile per state. | Interior in every unit; twelve recipients; speech, silence and address recorded. | Comic register of interior; unnamed feeling at V12. | Adult speech with strangers. | Retrospective reproduction frozen at V08; negative-constraint checks. | No profile without separate authorization. |
+| SW-RD-0058 | sw.monica; A (school and mission), C (professional magic and teaching) | Domain-bounded model | UNASSESSED | Varied scenes, ordinary behaviour, recipient contrast, counterevidence. | As SW-RD-0057. | Ordinary detail in AFTER04 and EXTRA09 not fully sampled. | As SW-RD-0057; recipient contrasts. | Named contexts only. |
+| SW-RD-0059 | sw.monica; any state, intimacy and court politics; and across states | Domain-bounded model; fuller reconstruction | INSUFFICIENT_EVIDENCE | Thin for these domains. | Feelings left unnamed (SW-C-0093); no diagnosis. | Intimacy; court politics; adult life past one year. | Later units. | Must not name what the text leaves unnamed. |
+| SW-RD-0060 | sw.felix (Isaac Walker); A as persona, B, C | Recognition profile; domain-bounded model for C (apprenticeship, politics) | UNASSESSED | Public conduct and two registers; interior from V08. | Persona statements unreliable by design (SW-RD-0003). | Ordinary life in A from his viewpoint. | Frozen boundary at V08; leakage checks across it. | State A models observable conduct only. |
+| SW-RD-0061 | sw.felix (Isaac Walker); A interior, and across states | Domain-bounded model; fuller reconstruction | INSUFFICIENT_EVIDENCE | Interior before V08 withheld. | Motives withheld by design; the prophecy open (SW-P-0066). | Adult life after V12. | Later units. | No later knowledge in earlier states. |
+| SW-RD-0062 | sw.louis; A to C; and B (Corps, selection, courtship) | Recognition profile; domain-bounded model | UNASSESSED | Inside view in the prequel; voice and register well recorded; eleven recipients. | Violence uncondemned; must be neither softened nor endorsed. | — | Prequel-frozen model against numbered-track conduct, labelled retrospective. | Prequel states know nothing of the numbered track. |
+| SW-RD-0063 | sw.louis; C interior, and across states | Domain-bounded model; fuller reconstruction | INSUFFICIENT_EVIDENCE | Numbered-track view mostly external. | — | Adult interior; the years before V01. | Later units. | Bridge between B and C is inference. |
+| SW-RD-0064 | sw.cyril; A to C; and A to B (council and school) | Recognition profile; domain-bounded model | UNASSESSED | Sustained interior; family and council scenes; recipient contrast. | Mirror visible mainly to the reader (SW-C-0037). | Adult role after graduation. | Frozen boundary at V09; recipient contrasts. | No knowledge of Monica's history beyond what he is shown learning. |
+| SW-RD-0065 | sw.cyril; intimacy, and across states | Domain-bounded model; fuller reconstruction | INSUFFICIENT_EVIDENCE | Thin for intimacy. | Feeling unnamed; he cannot read his own heart (SW-C-0093). | Later units. | Later units. | Must not name the feeling. |
+| SW-RD-0066 | all other identities; completion | Any tier | INSUFFICIENT_EVIDENCE | Arc and prequel figures. | Several hold withheld knowledge. | Sustained interiors. | Later units. | Keep thin entries thin. |
 
 ## 9. Unit closure and acceptance — SW-U
 

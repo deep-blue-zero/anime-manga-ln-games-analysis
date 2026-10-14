@@ -5,7 +5,7 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.24"
+version: "1.25"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
@@ -16,7 +16,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-architecture_lifecycle: INITIAL
+architecture_lifecycle: STABILIZED
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -28,7 +28,7 @@ One corpus under `series/silent-witch/` builds distinct products: substantial se
 
 The single first-read surface is [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). The [analytical method](SW_ANALYTICAL_METHOD.md) governs how evidence is read; this architecture governs where accumulated knowledge goes. The [character method](SW_CHARACTER_RECONSTRUCTION_METHOD.md) governs future behavior/speech models, and the [volume template](SW_VOLUME_READING_TEMPLATE.md) assists production. The owner accepted these V1 documents, and their paired responsibilities/day-one homes passed the V01 preparation review. Main integration and permission to read remain distinct from that acceptance. The owner first retained the locator package locally and held the gate CLOSED; the owner’s later instruction, recorded 2026-10-14, keeps local retention and opens the gate for V01 only.
 
-Architecture lifecycle is INITIAL. No predecessor is superseded. Live authority records, the [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), archive authority, continuation, execution/handoff, publication, and integration controls outrank local defaults. Creating this corpus does not change the epoch-1 migration boundary.
+Architecture lifecycle was INITIAL from bootstrap and is STABILIZED from the 2026-10-14 completion note in section 10. No predecessor is superseded. Live authority records, the [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), archive authority, continuation, execution/handoff, publication, and integration controls outrank local defaults. Creating this corpus does not change the epoch-1 migration boundary.
 
 ## 2. Source model and storage planes
 
@@ -306,6 +306,8 @@ Performed after the last supplied unit closed, as section 9 requires. The [compl
 *Lifecycle.* The product homes `04` to `07` and `09` are added to section 3 as routes for products this architecture already requires; no responsibility, ledger, dependency or completion gate changes. The domain decisions replace the MONITOR states tabled at the V12 boundary. The architecture remains INITIAL until the integrated synthesis closes.
 
 *Reconciliation and arguments, 2026-10-14.* The [longitudinal reconciliation](../03%20Longitudinal%20Ledgers/SW_LONGITUDINAL_RECONCILIATION.md) satisfies the reconciliation gate. Every claim was tested by every later unit, none was rejected, the chronology holds as a partial order after the prequel correction, and twenty-eight apparent contradictions are classified, seven of them open. Its only ledger change is an alias note, with the ledger staying single. The three specialist arguments, four character monographs and the relationship arguments entered their homes after the integrator's checks. *Lifecycle.* No responsibility, ledger, dependency or completion gate changes.
+
+*Integrated synthesis and readiness, 2026-10-14.* The [integrated synthesis](../07%20Integrated%20Synthesis/SW_INTEGRATED_SYNTHESIS.md) reconciles the eight arguments into one bounded account. It resolves or bounds six disagreements between them without amending any. The [reconstruction-readiness assessment](../09%20Reconstruction%20Readiness/SW_RECONSTRUCTION_READINESS_ASSESSMENT.md) records SW-RD-0057 to SW-RD-0066 and awards no tier. With these, every product the architecture requires for the authorized boundary exists. The full-series synthesis gate is met at author level. Reconstruction remains assessment only: models need separate authorization. *Lifecycle.* The architecture moves from INITIAL to STABILIZED under the initiation policy (section 7.3). The synthesis responsibilities for Japanese LN V01 to V12 and the four companions are now known and filled. Any new admission, comparison lane or owner amendment that changes them is a material change and triggers an explicit review. The architecture is not FROZEN: no release has been declared.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 

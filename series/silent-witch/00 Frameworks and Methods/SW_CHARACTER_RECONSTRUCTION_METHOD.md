@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_method
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.1"
+version: "1.2"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Future Japanese-LN, continuity- and state-bounded operational models"
@@ -125,3 +125,5 @@ Global discovery and global reconstruction assessments remain separate, owner-co
 State at bootstrap: NO_SOURCE_UNIT_ANALYZED; zero identities modeled; zero readiness assessments; no recognition profile, domain model, fuller reconstruction or synthetic dialogue created.
 
 State at V01 closure, 2026-10-14: one source unit analyzed; sixteen local identities keyed in the master ledger; eight evidence reviews recorded as SW-RD-0001 to SW-RD-0008, none awarding a tier; zero identities modeled; no recognition profile, domain model, fuller reconstruction, rule ID or synthetic dialogue created.
+
+State at completion, 2026-10-14: sixteen source units analyzed; 179 local identities keyed; evidence reviews SW-RD-0001 to SW-RD-0066, the last ten from the [reconstruction-readiness assessment](../09%20Reconstruction%20Readiness/SW_RECONSTRUCTION_READINESS_ASSESSMENT.md); no tier awarded and no test run; zero identities modeled; no recognition profile, domain model, fuller reconstruction, rule ID or synthetic dialogue created.
