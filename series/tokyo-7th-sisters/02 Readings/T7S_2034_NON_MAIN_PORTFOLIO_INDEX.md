@@ -4,13 +4,13 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.77"
+version: "2.85"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
 routing_audit: "../09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md"
 created: 2026-09-24
-last_updated: 2026-10-13
+last_updated: 2026-10-14
 do_not_use_as_literary_evidence: true
 ---
 
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and its audit retain their completed boundaries. The active [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed 17 source blocks / 51 episodes; i-n-g coverage is 265/280 episodes across 97 chapters, with 15 i-n-g episodes remaining. The next authorized but unread chapter is `301490` / **有栖家の料理番** / 有栖シラユキ, episodes `612203401 / 612203402 / 612203403`, assigned B0177. Supplemental, multimodal, character and era-release obligations remain active.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 3, complete primary occurrences: 25; 324 Intimacy/669eligible story episodes and supplemental/multimodal/character/era-release obligations remain. The next authorized unread portfolio is B0185, 春日部ハル, route `NM-INTIMACY-200460` / native Sub family `200460`, 9 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
 
 ## Closed first i-n-g tranche
 
@@ -162,3 +162,18 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The histor
 | [T7S_B0174](T7S_B0174_DEEP_READING.md) | `301460` / 三森マツリ / アイドルファンタジー777 ～そして伝説へ～ | `612203101 / 612203102 / 612203103` | `COMPLETE_BOUNDED` |
 | [T7S_B0175](T7S_B0175_DEEP_READING.md) | `301470` / 前園リシュリ / リシュリママの子離れ | `612203201 / 612203202 / 612203203` | `COMPLETE_BOUNDED` |
 | [T7S_B0176](T7S_B0176_DEEP_READING.md) | `301480` / 夜舞サヲリ / たまには誰も傷つかない一日 | `612203301 / 612203302 / 612203303` | `COMPLETE_BOUNDED` |
+| [T7S_B0177](T7S_B0177_DEEP_READING.md) | `301490` / 有栖シラユキ / 有栖家の料理番 | `612203401 / 612203402 / 612203403` | `COMPLETE_BOUNDED` |
+| [T7S_B0178](T7S_B0178_DEEP_READING.md) | `301500` / 越前ムラサキ / 追い風のベクトル | `612203501 / 612203502 / 612203503` | `COMPLETE_BOUNDED` |
+| [T7S_B0179](T7S_B0179_DEEP_READING.md) | `301510` / 玉坂マコト / ナイトメア・オン・ポエットメイデン | `612203601 / 612203602 / 612203603` | `COMPLETE_BOUNDED` |
+| [T7S_B0180](T7S_B0180_DEEP_READING.md) | `301520` / 桂木カヅミ / 空に羽を広げる | `612203701 / 612203702 / 612203703` | `COMPLETE_BOUNDED` |
+| [T7S_B0181](T7S_B0181_DEEP_READING.md) | `301530` / シャオ・ヘイフォン / あなたのジンセイのメッセージ！ | `612203801 / 612203802 / 612203803` | `COMPLETE_BOUNDED` |
+
+## Intimacy occurrence portfolios
+
+Each family closes exact primary members with one qualified mini-case per occurrence; no menu-derived chronological ladder or multimodal maturity is implied.
+
+| Block | Native family and route | Complete occurrences | Status |
+| --- | --- | --- | --- |
+| [T7S_B0182](T7S_B0182_DEEP_READING.md) | `200740` / 川澄シサラ / `NM-INTIMACY-200740` | `401000002 / 401000006 / 401000830 / 401000926 / 401001078 / 401001186 / 401001382` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0183](T7S_B0183_DEEP_READING.md) | `200520` / 神城スイ / `NM-INTIMACY-200520` | `401000017 / 401000356 / 401000404 / 401000618 / 401000666 / 401000714 / 401000942 / 401000974 / 401001222` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0184](T7S_B0184_DEEP_READING.md) | `200480` / 角森ロナ / `NM-INTIMACY-200480` | `401000028 / 401000352 / 401000400 / 401000590 / 401000670 / 401000730 / 401000906 / 401001002 / 401001066` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
