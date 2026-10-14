@@ -5,7 +5,7 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.18"
+version: "1.19"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
@@ -250,6 +250,42 @@ The review decides that IX -extra- is admitted under the same supplemental place
 *V11 note, 2026-10-14.* V11 continues the second arc with another contained plot inside a frame of threat, and a non-human antagonist whose identity is withheld. The typed sections absorbed it without change: the antagonist entered the identity table under a neutral key, her bell entered the world section, and her plan entered the prospective questions. No architecture change is made.
 
 *V12 note, 2026-10-14.* V12 closes the numbered track. Its interlude discloses the antagonist's plan through a scene she shares with a spirit who dies, and the typed sections absorbed it: the spirit and the antagonist entered the identity table under neutral keys, with their identity recorded as implied. No architecture change is made. The supplemental-admission review for the -another- prequel follows at its admission.
+
+### Supplemental-admission and arc-boundary review — V12 boundary, 2026-10-14
+
+Performed before -another- upper is admitted, on V01 to V12 evidence, the two closed companions and the prequel's paratext only. Section 10 requires such a review before a supplemental admission, and the close of the numbered track is also an evidence-supported boundary.
+
+*Method fit.* Twelve numbered volumes and two companions were read under the method without strain. The standing practices hold:
+
+- fragments verified mechanically;
+- exposure disclosed at every entry freeze;
+- no registered predictions after exposure;
+- paratext kept apart from narrative.
+
+*Supplemental unit identity.* The prequel is read as two independent units in the Japanese LN lane, `SW-LNJP-ANOTHER-UPPER` and `SW-LNJP-ANOTHER-LOWER`. Each has its own observations and freezes, and every ledger record it adds cites its witness.
+
+*Prequel evidence.* Its story precedes V01, but it is read after V12, so its disclosures are retrospective by construction. Three rules apply:
+
+- A fact it gives about the past enters the ledger as REVEALED_NOT_NEW, under supplemental retrospection.
+- A revision event resting only on its evidence is labelled with its witness.
+- It never alters a frozen numbered reading or exit freeze.
+
+Where it agrees or disagrees with an account the numbered track gave, the reading records the comparison and does not harmonise it.
+
+*Cumulative homes.* The single master ledger is retained. Seven hundred and twenty-three revision events and one hundred and fifty-five identities have caused no section strain. The prequel's records enter existing responsibilities under its own record defaults.
+
+*Candidate specialist domains at the V12 boundary.*
+
+| Domain | Decision | Basis |
+|---|---|---|
+| Disclosure, knowledge and narrative withholding | MONITOR | It remains the largest body of evidence, now with an implied antagonist identity and withheld artefact knowledge; it is the strongest candidate at the checkpoint. |
+| Affiliative or romantic ambiguity | MONITOR | V12 states Isaac's love and gives Monica unnamed feelings concerning Cyril; the checkpoint decides. |
+| Masters, apprentices and transmission | MONITOR, new | V10 to V12 make the master–apprentice relation an organising subject (SW-C-0084); the prequel is expected to add Louis's own apprenticeship. |
+| Spirits, curses and the old era | MONITOR, new | The world section now holds calendar spirits, the gate of audience, curses as the abyss before monsters, and old-era devices. |
+| Expertise, mathematics and the constraints of magic | MONITOR | Unchanged. |
+| Withdrawal, coping and past harm without diagnosis | MONITOR, within SW-S and SW-C | Ray's family history is added; it stays non-diagnostic. |
+
+*Lifecycle.* Two domains are added to monitoring. No responsibility, ledger, dependency or completion gate changes. The checkpoint and evidence-gap review remains scheduled after the last admitted unit, -another- lower. The architecture remains INITIAL.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 
