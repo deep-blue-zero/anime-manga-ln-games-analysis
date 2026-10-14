@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0183; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0184; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-14
 ---
@@ -991,4 +991,49 @@ Nine complete family200520 occurrences, source-lock 12.89, witness `T7S_GAME_OFF
 | `REL-1018` | `kamishiro-sui → Nanasta` | Community recognition and family-shop provision inform desired support/belonging; not exhaustive care, labor/supply audit or maturity release. |
 
 Totals882KNOW/1018REL;102IDENTITY/84CHAR/28UNIT/29R2 unchanged. Prior histories remain exact. No new stable fan/shop-worker identities, clinical diagnosis, gender-totalization, calendar ordering or mature monograph.
+
+## B0184 Rona, reciprocal care and retained workplace
+
+Nine complete family200480 primary occurrences, source-lock 12.90, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. `IDENTITY-0008/tsunomori-rona` / `CHAR-0008`, Player, Coney, Haru/Musubi and prior units retain their identities and unresolved access/readiness. No new person identity/character/readiness. One bounded named workplace institution receives `UNIT-0029`.
+
+| Existing subject | Qualified new annotation | Prior state and access retained |
+| --- | --- | --- |
+| `CHAR-0008` / tsunomori-rona | Makes received care into food, praise, service and hopes to give courage; reports limited smiling/resilience/job improvement while devaluing a skill, withdrawing speech/praise and stumbling again. Retains VivaD work as a chosen part of idol origin. | Earlier formation distinguishes relational courage from exclusive Nicole copying; later self-authored return remains. Private presentations add local self-reports without curing vulnerability, settling concealed identity, verifying all managerial care or dating every occurrence. |
+
+| ID | Epistemic state | Native range and reliability |
+| --- | --- | --- |
+| `KNOW-0883` | Rona reports extra VivaD-made donuts brought for manager and offers private sharing/secrecy. | 028P1–5; strong for her report/offer, no observed consumption or recipient acceptance. |
+| `KNOW-0884` | Thinks Coney/Miu usually eat the donuts and manager misses out; corrects Nico-address to Coney. | 028P2; her ordinary-pattern assessment and literal correction, no complete food audit or settled disclosure. |
+| `KNOW-0885` | Feels smiling time has increased relative to crying through help. | 352P1–2; comparative, hedged self-report; no measured/permanent cure. |
+| `KNOW-0886` | Wants continuing attention, begins an unfinished return-directed phrase, withdraws it. | 352P3; directly authored desire/incompletion; missing confession content and reciprocal mind unavailable. |
+| `KNOW-0887` | Reports childhood beanbag-juggling ability but judges it useless for idol work against peers' skills. | 400P1–3; ability/work-value self-assessment, no objective incapacity test. |
+| `KNOW-0888` | Trusts manager for shared skill discovery and offers open-ended compliance in that request. | 400P4–5; no found skill, actual instructions or general consent. |
+| `KNOW-0889` | Calls Sisters concert video favorite and credits its courage with first steps and encounters. | 590P1–3; attributed memory/influence, no provided video/performance or exclusive causal proof. |
+| `KNOW-0890` | Reports daily manager-derived courage and hopes eventually to give him energy herself. | 590P4–5; present attribution/future aspiration, no fulfilled reciprocity. |
+| `KNOW-0891` | Thanks acceptance of shopping carrying role; detergent/rice remain on list. | 670P1; represented arrangement, no rendered goods or verified completed purchases. |
+| `KNOW-0892` | Remembers initial Haru/Musubi/self, credits lively Nanasta to manager alongside Coney, praises effort then apologizes. | 670P2–5; attributed memory/assessment and direct praise/withdrawal, no complete roster/sole cause or absent rank sensitivity. |
+| `KNOW-0893` | Asks about pickup again, asks waiting for shift end and calls him regular-customer-like. | 730P1–4; local uptake/proposal and simile, no audited frequency or actual customer status. |
+| `KNOW-0894` | Advertises matcha/strawberry bitter/astringent-sweet donut and offers service/attempts to please him. | 730P3–5; promotional taste claim/offer, no tasting, completed supply or general pricing/consent policy. |
+| `KNOW-0895` | Reports juicer break, getting wet, changing clothes and remaining stickiness. | 906P1; narrated mishap, no rendered spill or exact physical condition independently observed. |
+| `KNOW-0896` | Initially asserts self-drying, complies with care, finds his drying manner pleasant. | 906P2–3; specific uptake, no managerial authored turn/body or universal permission. |
+| `KNOW-0897` | Claims a little greater resilience since spending time with him and attributes it to help. | 906P4–5; preserve modest degree/dependence, no cure or guarantee of autonomous coping. |
+| `KNOW-0898` | Credits manager/Coney for varied jobs, enjoyment and improved work over early mistakes. | 1002P1–3; self-reported frequency/competence/causes, no independent job census or perfection. |
+| `KNOW-0899` | Attempts thanks, stumbles over his title and regrets doing so again at an important moment. | 1002P4–5; textual comic return, performed vocal delivery unlistened. |
+| `KNOW-0900` | Reports late shift/uniform, wants to keep VivaD job, recalls meeting Nico/Coney and manager there and values idol beginning. | 1066P1–5; present intention and attributed origin; no terms, future guarantee, exact dates or disclosure settlement. |
+
+| ID | Directional relationship | Qualified state and missing access |
+| --- | --- | --- |
+| `REL-1019` | `tsunomori-rona → player-protagonist` | Chooses private food, praise, service and hoped-for energy as repayment; desired exclusivity/local affection does not establish accepted acts or settled reciprocal romance. |
+| `REL-1020` | `tsunomori-rona → player-protagonist` | Requests attention/guidance and finds specific care pleasant; attributes partial improvement to support. Her trust/uptake gives no direct manager mind or blanket consent and preserves earlier safeguarding/information limits. |
+| `REL-1021` | `tsunomori-rona → rokusaki-connie-presented` | Recalled encounter, Nico-to-Coney corrections, usual food pattern and shared job/institution credit coexist; no newly settled Nicole disclosure or direct accountability. |
+| `REL-1022` | `tsunomori-rona → kasukabe-haru` | Names remembered initial group and encounter enabled by concert-derived courage; earlier reciprocal formation remains, no new own Haru response or dated reunion. |
+| `REL-1023` | `tsunomori-rona → tendoji-musubi` | Same bounded origin/encounter memory supplies peer belonging, no new reciprocal access or exhaustive group census. |
+| `REL-1024` | `tsunomori-rona → UNIT-0001 / Seven Sisters` | Favorite concert's remembered courage continues to matter as relational effect; no viewed footage or new exclusive imitation standard, and exact causal necessity remains her attribution. |
+| `REL-1025` | `tsunomori-rona → UNIT-0029 / VivaD workplace` | Values ongoing work and site of first encounters within idol identity, not abandonment of the ordinary role; future retention is desired rather than guaranteed. |
+
+| ID / institution | Bounded state | Warrant and retained limits |
+| --- | --- | --- |
+| `UNIT-0029` / `vivad-workplace` | Named `ビバド` workplace/location, rendered VivaD/VivaDo in admitted prose: Rona attributes donut-making, service, shifts/juicer mishap and recruitment/manager encounters to it, wants to keep the job and value her beginning. | 028P1–5;730P1–5;906P1;1066P1–5. Source-reported labor and origin make this institutional role warranted. No corporate/legal identity, owner, staff, pay, terms, schedule, actual shop interior, future guarantee or independent institutional voice is supplied. |
+
+Totals900KNOW/1025REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. Old ledger bodies and histories stay exact. No professional mastery, managerial sole causation, cured vulnerability, settled romance or mature monograph is promoted.
 <!-- T7S ENTITY STATE PAYLOAD END -->
