@@ -5,14 +5,14 @@ artifact_type: "character_state_readiness_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.17"
+version: "1.18"
 status: "canonical"
 scope: "Time-indexed character interpretation, identity resolution and evidence-specific promotion readiness"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_SYNTHESIS_RELEASE_UPDATE"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -1367,3 +1367,15 @@ Recorded at the release of the provisional syntheses at the combined boundary `M
 | MD-RD-0079 | 0004; 0001; 0001 with 0004; 0010 with 0021; three specialist domains; an integrated checkpoint / promoted provisional syntheses | V01–V15 with FB01 and FB02; series ongoing | Eight artifacts published under `04 Character and Relationship Synthesis/` and `05 Specialist Synthesis/`, each with a claims and counterevidence table and stated revision dependencies. | The final's result; conduct after it; everything in MD-OQ-V15-01–08. Seven of the eight artifacts were drafted by delegated agents from the frozen readings and ledgers; the integrator's review was mechanical for identifiers and targeted for prose, so local misdescription is not excluded. | Monographs and studies BOUNDED_PROVISIONAL. Operational reconstruction models INSUFFICIENT_EVIDENCE for every character: no `MD-RULE` record exists and none is promoted; a monograph confers no simulation readiness. author; 2026-10-13 | Extends MD-RD-0072–0078. Supporting studies of Okazaki Iruka, Karasuba Daria, Riley Fox, Sonidori Rio, Kamoto Suzu, Ryoka Miketa and Nachi Mario, and the Yuitsuka and Kago families are retained as readiness decisions without separate artifacts. |
 
 **Erratum (age).** By the profile page of Volume 13, Hikaru Kamisaki (MD-CHAR-0010) is twelve at the All-Japan Junior of that volume and at `MD-FR-V13` (born 31 January, in her first year of middle school). Prose in the V13 reading and rows in this and other ledgers that call her thirteen in Volumes 12 and 13 should be read as twelve. The frozen readings are not edited. No claim depends on the difference.
+
+## Independent source-review character errata and readiness (2026-10-14)
+
+The [audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md) owns the evidence and adversarial tests; the [speech audit](../07%20Audits%20and%20Handoffs/MEDALIST_JAPANESE_SPEECH_AND_INTERLOCUTOR_AUDIT_THROUGH_V15.md) owns located written-language examples. Preserve historical rows and stable keys. **MD-CS-0178** inherits V09 occurrence0086’s corrected one-session tally, four in five. **MD-CS-0279** must not make Inori’s light thought a received spoken answer to Hikaru’s private rival judgment. The age12 erratum above is independently confirmed at the V13 profile.
+
+| Readiness record | Character / target / domain | Boundary / scope | Context coverage / counterevidence | Gaps / tests | Assessment / reviewer / date | History / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-RD-0080 | MD-CHAR-0004 / Inori monograph, interlocutor evidence and conditional tendencies | V01–V15 with admitted fanbooks, ongoing | Original ambition/choice, defeat, private coach-protection, sensory practice, peer seriousness, mother/coach contrast and entrusted role; plain coach grammar and self-erasure hypothetical counter simple compliance/autonomy labels | Ordinary-life and institutional speech census; actual-error recovery, result after Final, durable uptake and behavior under new opposition | Descriptive BOUNDED_PROVISIONAL; located speech SUPPORTED_WITH_BOUND; adequately tested behavioral rules INSUFFICIENT_EVIDENCE; independent reviewer; 2026-10-14 | Extends MD-RD-0072/0074/0078/0079; no operational model |
+| MD-RD-0081 | MD-CHAR-0001 / Tsukasa monograph, speech and coaching tendencies | V01–V15 with admitted fanbooks, ongoing | Attested skill, listening/choice, bodily vetoes, mixed polite/plain pupil speech, adult debate, costly service, private self-critique and new commitment | Faculty origin unresolved; own memory/others’ diagnosis are not exclusive causation; kept promise and response after result unshown; transfer tests absent | Descriptive BOUNDED_PROVISIONAL; interlocutor patterns conditional; adequately tested behavioral rules INSUFFICIENT_EVIDENCE; independent reviewer; 2026-10-14 | Extends MD-RD-0073/0078/0079; no MD-RULE promotion |
+| MD-RD-0082 | MD-CHAR-0010 / Hikaru supporting study and possible separately scoped monograph | Effective story endpoint V13; creator supplements at own layers | Peer/mastery, public/mentor register, polite confrontation, instrumental presentation and real household attachment, private autonomy/rival judgment; age12 fixed | Post-departure daily life/guardianship and competition unshown; low-pressure peers/family/strangers under-sampled; durable autonomy and negative constraints untested | Descriptive BOUNDED_PROVISIONAL; speech SUPPORTED_WITH_BOUND; rules INSUFFICIENT_EVIDENCE. Enough evidence for a future narrowly scoped V01–V13 monograph, but no present responsibility gap requiring duplication; independent reviewer; 2026-10-14 | Extends MD-RD-0067/0078/0079. If later separately authorized, canonical home is existing hikaru-kamisaki directory; proposed responsibility is her own motives, interlocutor contrasts and counterexamples, retaining joint study’s relational/Yodaka responsibility. No automatic artifact created |
+
+These judgments separate psychological description, observed written-register contrasts and conditional tendencies from tested behavioral rules. The source reassessment is not held-out testing or a simulation evaluation. No operational MD-RULE record, additional monograph, unshown Grand Prix Final prediction or source beyond the admitted boundary is promoted.

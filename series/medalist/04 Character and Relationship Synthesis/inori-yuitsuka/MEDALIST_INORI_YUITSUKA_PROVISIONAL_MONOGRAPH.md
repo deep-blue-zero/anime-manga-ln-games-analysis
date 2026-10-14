@@ -5,7 +5,7 @@ artifact_type: "character_monograph"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.0"
+version: "1.1"
 status: "canonical"
 scope: "Developmental and psychological argument about Inori Yuitsuka (MD-CHAR-0004) from Score 1 to the warm-up before the free skate of the Junior Grand Prix Final; no operational model"
 canonical_home: "series/medalist/04 Character and Relationship Synthesis/inori-yuitsuka/MEDALIST_INORI_YUITSUKA_PROVISIONAL_MONOGRAPH.md"
@@ -16,8 +16,8 @@ entering_freeze: "MD-FR-FB02"
 series_state: "ONGOING"
 synthesis_state: "PROVISIONAL_THROUGH_VERIFIED_BOUNDARY"
 created: "2026-10-13"
-updated: "2026-10-13"
-review_status: "INTEGRATOR_REVIEWED_V1"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -193,13 +193,13 @@ Nozomi Yuitsuka, Inori's mother, first refused, by her own account out of fear o
 
 ## How Inori is with different people
 
-**Tsukasa Akeuraji, her coach.** Inori Yuitsuka addresses him by his given name with the teacher's title from the first lesson (`MD-EV-V01-0009`), holds the cords of his jacket before she skates, borrows his manner when alone (`MD-EV-V05-0004`), and has made his standing her stake since Volume 8. She manages what he sees. She wanted his face to share her anger and found worry (`MD-EV-V13-0040`). At the boundary each has said to the other what was withheld (`MD-RL-0359`, `MD-RL-0360`, `MD-RL-0361`).
+**Tsukasa Akeuraji, her coach.** Inori Yuitsuka addresses him by his given name with the teacher's title from the first lesson (`MD-EV-V01-0009`), holds the cords of his jacket before she skates, borrows his manner when alone (`MD-EV-V05-0004`), and has made his standing her stake since Volume 8. She manages what he sees. She wanted his face to share her anger and found worry (`MD-EV-V13-0040`). At the boundary each has disclosed present burdens and commitments (`MD-RL-0359`, `MD-RL-0360`, `MD-RL-0361`). Inori has not explicitly voiced the older belief that she ended his skating career, and accurate hearing does not establish that her burden has lifted (`MD-KN-0147`, `MD-KN-0153`).
 
 **Nozomi Yuitsuka, her mother.** The person to whom Inori first said what she wanted (`MD-RL-0024`), for whom she performs contentment after a loss, and to whom alone she says the thing about vanishing, then takes it back (`MD-RL-0358`).
 
 **Mika Yuitsuka, her sister.** Inori began skating for Mika, will not hear her called bad at jumps (`MD-RL-0132`, `MD-EV-V06-0048`), and keeps her grief for her (`MD-EV-V09-0043`). Mika's fracture is one of Inori's two sources of fear and one of three stopped skaters she thinks of on the bench (`MD-EV-V13-0041`).
 
-**Hikaru Kamisaki.** Friend before rival; then the measure. Inori named her a special rival for the whole road (`MD-EV-V08-0027`), checks an unworthy wish against what Hikaru would never feel (`MD-RL-0266`), cannot face her after failing, and calls her a light of hope (`MD-RL-0301`). Hikaru, for her part, withdrew her reading of Inori as the likeness of Hikaru's own coach, Yodaka Jun, after seeing that the laughter was for the adults (`MD-RL-0300`).
+**Hikaru Kamisaki.** Friend before rival; then the measure. Inori named her a special rival for the whole road (`MD-EV-V08-0027`), checks an unworthy wish against what Hikaru would never feel (`MD-RL-0266`), cannot face her after failing, and calls her a light of hope (`MD-RL-0301`). Hikaru, for her part, withdrew her reading of Inori as the likeness of Hikaru's own coach, Yodaka Jun, privately after seeing that the laughter was for the adults (`MD-RL-0300`; see its channel erratum). Hikaru’s strongest-self rival judgment and Inori’s light-of-hope thought remain separate interiors (`MD-EV-V13-0025`), alongside their actually spoken promise in the thicket.
 
 **Okazaki Iruka.** Fear, then defiance, then confidence. Inori took a fall to shield Iruka (`MD-EV-V10-0020`), confided her shame to her and took her hand (`MD-RL-0258`), was told by Iruka that she has a complex about being treasured, and now means to skate for Iruka's share and wears her hair after Iruka's (`MD-EV-V14-0006`, `MD-EV-V15-0053`, the last a strip).
 
@@ -211,7 +211,9 @@ With peers Inori is open, quick to repair and unresentful. With adults who care 
 
 ## Written Japanese
 
-The readings record wording, not sound. Inori Yuitsuka's Volume 4 wish turns on 選べる, to be able to choose; her Volume 9 answer to Ahiru Miku, a skater who quit for others' sake, is the plain past of the same verb. Her word for what gold supplies is 証明, proof, which passed to her from Yodaka Jun by way of Tsukasa Akeuraji. Her gratitude in Volume 9 is for being 期待される. The key word of Volume 13 is 本気. In the pool her words for herself are ずるい and 恥ずかしい, and Okazaki Iruka's word for what Inori has a complex about is 大事にされる. In Volume 14 her two captions turn on 力: not hers alone, then her own. To the press she uses 負担 for what she has been, 報いる for what she must do, and 許してもらえた of the self permitted to skate. To Tsukasa she says 役割 of what she thought she had been given. The term 冷たい気持ち is hers from Volume 4 and is reused by Tsukasa in Volume 13. She mishears a loan-word for resilience and later acts it out; she does not know Karasuba Daria's word for presumptuous and asks. An editorial aside notes that she has little dialect (`MD-EV-V01-0034`).
+The readings record wording, not sound. Inori Yuitsuka's Volume 4 wish turns on 選べる, to be able to choose; her Volume 9 answer to Ahiru Miku, a skater who quit for others' sake, is the plain past of the same verb. Her word for what gold supplies is 証明, proof, which passed to her from Yodaka Jun by way of Tsukasa Akeuraji. Her gratitude in Volume 9 is for being 期待される. The key word of Volume 13 is 本気. In the pool her words for herself are ずるい and 恥ずかしい, and Okazaki Iruka's word for what Inori has a complex about is 大事にされる. In Volume 14 her two captions turn on 力: not hers alone, then her own. To the press she uses 負担 for what she has been, 報いる for what she must do, and 許してもらえた of the self permitted to skate. To Tsukasa she says 役目 of the role she thought she had been entrusted with (`MD-EV-V15-0048`; original occurrence 0185). The term 冷たい気持ち is first hers in Volume 2’s Short Program 3 (`MD-EV-V02-0030`, bonus fiction); she bids it farewell on Volume 4’s story pages (`MD-EV-V04-0038`), and Tsukasa reuses it in Volume 13. She mishears a loan-word for resilience and later acts it out; she does not know Karasuba Daria's word for presumptuous and asks. An editorial aside notes that she has little dialect (`MD-EV-V01-0034`).
+
+Original dialogue supports an interlocutor contrast, with exceptions. She uses 私/わたし and 司先生 with polite requests to Tsukasa, but the gold exchange also gives the plain contracted question 先生も信じてる？ (`MD-EV-V06-0003`). Her V15 mother-facing reassurance has plain endings よ and さ; after Tsukasa arrives she replies 大丈夫です (`MD-EV-V15-0046`, occurrences 0175–0179). Formal grammar can carry an uncompromising refusal, as with Iruka and in the entrusted-role speech. These are located written-language findings, not a frequency census or response rule; the [speech/interlocutor audit](../../07%20Audits%20and%20Handoffs/MEDALIST_JAPANESE_SPEECH_AND_INTERLOCUTOR_AUDIT_THROUGH_V15.md) owns the diagnostic examples and exceptions.
 
 ## How the manga frames Inori
 
@@ -227,7 +229,7 @@ One image in Volume 15 is an adult's inference drawn as a picture of her and sho
 
 ## Competence versus confidence; limits
 
-Inori Yuitsuka's competence is documented by calls and outside appraisal: level-four step sequences at three events, the highest component total of the five who had then skated in the final's short program, and Baek Horang's coach, a rival coach, who reads a placing from Inori's levels and spins (`MD-CL-0008@13`, `MD-CL-0008@14`, `MD-SK-0089`). Her confidence in execution is real and trained (`MD-SK-0088`). Neither prevented November, and the foundation is not a guarantee (`MD-EV-V13-0005`).
+Inori Yuitsuka's competence is documented by calls and outside appraisal: level-four step sequences at three events, the highest printed component total among those who had then skated in the final’s short program; Baek Horang’s component breakdown is not printed, and Baek Horang's coach, a rival coach, who reads a placing from Inori's levels and spins (`MD-CL-0008@13`, `MD-CL-0008@14`, `MD-SK-0089`). Her confidence in execution is real and trained (`MD-SK-0088`). Neither prevented November, and the foundation is not a guarantee (`MD-EV-V13-0005`).
 
 Her demonstrated limits are these. Under a closing deadline her acceptance of limits has depended on someone else saying it (`MD-CL-0019@5`). She has not been shown recovering inside a program after an error since the aim was set. She trains through pain and has to be rationed (`MD-EV-V03-0032`, `MD-EV-V11-0010`). She cannot see her own habits of feeling and can name Tsukasa Akeuraji's (`MD-EV-V14-0027`). She does not take in what arrives as reassurance, and now says why.
 

@@ -5,7 +5,7 @@ artifact_type: "specialist_synthesis"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.0"
+version: "1.1"
 status: "canonical"
 scope: "Provisional directional study of MD-PAIR-0001 (Tsukasa Akeuraji, MD-CHAR-0001; Inori Yuitsuka, MD-CHAR-0004) through MD-FR-FB02: what passes between them in each direction, what each knows, and a shorter comparison with the other coach–skater pairs"
 canonical_home: "series/medalist/04 Character and Relationship Synthesis/MEDALIST_COACH_AND_PUPIL_RELATIONSHIP_STUDY.md"
@@ -16,8 +16,8 @@ entering_freeze: "MD-FR-FB02"
 series_state: "ONGOING"
 synthesis_state: "PROVISIONAL_THROUGH_VERIFIED_BOUNDARY"
 created: "2026-10-13"
-updated: "2026-10-13"
-review_status: "INTEGRATOR_REVIEWED_V1"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -89,7 +89,7 @@ A third element is a reading and not a belief. During his absence she supposed h
 
 ### What Tsukasa had said, and to whom
 
-Before Volume 13 Tsukasa had disclaimed sacrifice four times and never to Inori. To Kago Kōichi: his work cannot be seen and her performance is all of it (`MD-EV-V05-0015`). To Yodaka Jun: coaching is his way of using what he has (`MD-EV-V06-0037`). To Hikaru Kamisaki, twice: it was never a sacrifice, he did it for his own happiness, and he will not make Inori pay one (`MD-EV-V08-0037`, `MD-EV-V09-0046`). Tsukasa and Inori held incompatible accounts of one event and neither had heard the other's (`MD-KN-0085`).
+Before Volume 13 Tsukasa had described coaching and support in four relevant conversations, none depicted received by Inori. Their propositions differ; they are not four literal denials of sacrifice. To Kago Kōichi: his work cannot be seen and her performance is all of it (`MD-EV-V05-0015`). To Yodaka Jun: coaching is his way of using what he has (`MD-EV-V06-0037`). To Hikaru Kamisaki, twice: it was never a sacrifice, he did it for his own happiness, and he will not make Inori pay one (`MD-EV-V08-0037`, `MD-EV-V09-0046`). Tsukasa and Inori held incompatible accounts of one event and neither had heard the other's (`MD-KN-0085`).
 
 ### Three attempts
 
@@ -113,7 +113,7 @@ Three statements are made in one evening, and they are not the same statement.
 
 **Kanayumi Miho's, to Tsukasa.** Inori feels she skates at the sacrifice of his life. She reads adults' faces. He says he is happy whatever the result, and he suffers when she does not win, blames himself and pares himself further. Winning is her one means of lessening what he pays, and not winning is a punishment for having chosen skating (`MD-EV-V15-0017`; `MD-KN-0145`). Kanayumi has grounds: a shared room abroad and a year of watching. It is still an adult's inference, and the phrase about his life is Kanayumi's, as is the image of Inori among broken crystal that illustrates it (`MD-VF-0137`).
 
-**Inori's, to Tsukasa.** It is narrower and goes further (`MD-EV-V15-0048`; `MD-KN-0146`). She dates it to middle school. She names her mother Nozomi, who cannot come home for work, and Tsukasa, who agonizes and labours, and the kind people who work harder when she fails. Gold would repay everyone. Then she adds what no adult had guessed. To be told she need not strain is what she hates; it is like having her strength drained. She was glad in December because she thought he had at last entrusted her with a part (the readings record her word as 役割). She will not let go of skating whoever suffers. She wants to make him happy as he wants to make her happy. She will not be treated as weak. She wants to carry everything and still land lightly.
+**Inori's, to Tsukasa.** It is narrower and goes further (`MD-EV-V15-0048`; `MD-KN-0146`). She dates it to middle school. She names her mother Nozomi, who cannot come home for work, and Tsukasa, who agonizes and labours, and the kind people who work harder when she fails. Gold would repay everyone. Then she adds what no adult had guessed. To be told she need not strain is what she hates; it is like having her strength drained. She was glad in December because she thought he had at last entrusted her with a part (the original occurrence 0185 prints 役目, an entrusted role or duty; the frozen reading’s 役割 is corrected by erratum). She will not let go of skating whoever suffers. She wants to make him happy as he wants to make her happy. She will not be treated as weak. She wants to carry everything and still land lightly.
 
 She does not say that she ended his career. The older form of the belief is neither voiced nor withdrawn (`MD-KN-0147`).
 
@@ -258,7 +258,7 @@ After either, two things would count for more than the result: whether he asks f
 | Conclusion | Principal evidence | Strongest counterevidence or rival reading | What later evidence would decide | Confidence |
 | --- | --- | --- | --- | --- |
 | From V09 the pair of Tsukasa Akeuraji and Inori Yuitsuka was organized by an asymmetry of knowledge, now closed in form and open in effect. | `MD-CL-0027@1`–`@7`; `MD-KN-0083`/`0084`/`0085`; `MD-RL-0359`–`0361`; `MD-KN-0147`/`0148` | The silence may have been tact on both sides (`MD-EV-V11-0046`); the second resolution may be misread as the first was. | Conduct of each after a result of either colour; any later reference by Inori to the older belief. | HIGH for the form; no estimate for the effect |
-| The V13 bench was heard accurately by Inori and received as a commission; Tsukasa took his own words as a settlement. | `MD-EV-V15-0048`; `MD-EV-V15-0024`; `MD-RT-0104`; `MD-CL-0029@5` | It may have relieved her for a time (`MD-CL-0029@4`); her V15 account is one evening's. | Whether she ever describes December differently; her conduct after a loss. | HIGH that she says so; MODERATE that no relief occurred |
+| The V13 bench was heard accurately by Inori and received as a commission; Tsukasa took his own words as a settlement. | `MD-EV-V15-0048`; `MD-EV-V15-0024`; `MD-RT-0104`; `MD-CL-0029@6` | It may have relieved her for a time (`MD-CL-0029@4`); her V15 account is one evening's. | Whether she ever describes December differently; her conduct after a loss. | HIGH that she says so; MODERATE that no relief occurred |
 | Inori's belief had a factual basis; Tsukasa's disclaimer was sincere and incomplete. | The V09 reading on his V01 auditions; `MD-EV-V15-0021`/`0050`; creator layer `MD-CL-0010@16` | He says, with his history as evidence, that coaching is no substitute (`MD-EV-V13-0044`); the author's statement is intent, not event. | Whether he auditions, and how he then speaks of what he set aside. | MODERATE |
 | Speech from Tsukasa that Inori can take as a verdict does not arrive while she is concealing; indirect forms do. | `MD-EV-V10-0018`/`0029`; `MD-EV-V11-0010`; `MD-EV-V13-0039`/`0045`; `MD-KN-0106` | Direct instruction arrived in V01–V08 (`MD-RL-0149`) and in the stairwell; her own account of the Lutz is a misjudgement of herself. | Whether direct instruction arrives now that nothing is hidden. | MODERATE; conditional, not a trait |
 | Inori reads Tsukasa's face first and takes its cause on herself; the same face grounds her trust. | `MD-CL-0028@5`; `MD-KN-0132`; `MD-EV-V15-0017`/`0023`; `MD-VF-0136` | The valuation is Kanayumi Miho's judgement alone; V14's instance is comic (`MD-RT-0102`). | Her conduct when his face after a result confirms or contradicts his promise. | HIGH for the mechanism; MODERATE for the valuation |
@@ -277,3 +277,7 @@ A change to any of the following claim versions reopens the sections named.
 - `MD-CL-0024@9`, `MD-CL-0025@10`, `MD-CL-0026@9`, `MD-CL-0016@14`, `MD-CL-0003@14`, `MD-CL-0031@1`: the comparative section.
 - Readiness rows `MD-RD-0074`, `MD-RD-0076` and `MD-RD-0078`, and the V15 projection for `MD-PAIR-0001`.
 - Any admitted unit after Score 61 reopens the closing section and every table row that awaits a result.
+
+## Original-language review addendum (2026-10-14)
+
+The [speech/interlocutor audit](../07%20Audits%20and%20Handoffs/MEDALIST_JAPANESE_SPEECH_AND_INTERLOCUTOR_AUDIT_THROUGH_V15.md) adds received dialogue, private wording and written-register controls. The pair’s respectful forms of address coexist with plain grammar and direct disagreement; this gives no general rule that politeness means agreement. V13’s accurately repeated declaration and V15’s accurately repeated commitment establish reception of particular sentences, while their use and durable effect remain separate tests. The mother hears the film self-erasure hypothetical before Tsukasa’s arrival; reader access does not transfer it to him. The [source-fidelity audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md) owns this review’s corrections and preserves the older career-ending knowledge gap.

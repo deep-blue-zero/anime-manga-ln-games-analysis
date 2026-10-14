@@ -5,14 +5,14 @@ artifact_type: "claim_revision_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.17"
+version: "1.18"
 status: "canonical"
 scope: "Material interpretive claim versions, competing hypotheses, genuine predictions and downstream amendments"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_SYNTHESIS_RELEASE_UPDATE"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -1104,3 +1104,32 @@ Recorded at the release of the provisional syntheses at `MD-FR-FB02`. No claim v
 | Qualification | MD-CL-0026@3 and later | The doctrine that children should bear no pain but that of competing is stated on the page by Gori Seiji (MD-CHAR-0040), head coach of Okazaki Iruka's club. Version 3 left the speaker unnamed. | MD-EV-V10-0025 | None on the formulation. |
 
 No `MD-RV` record is created, since no version advances. No `MD-PR` record exists.
+
+## Independent source-fidelity correction records (2026-10-14)
+
+The [independent audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md) owns the 60-cluster staged reassessment and exact source locators. Earlier claim versions and freeze records remain unchanged. Only the material active numerical proposition in MD-CL-0012 advances; the other errors concern retained historical shorthand or derivative prose whose current claim formulation survives.
+
+### Current advanced claim
+
+| Claim / version | Formulation / class / scope | First boundary | Evidence / counterevidence / alternatives | Confidence / test | Current home / dependencies |
+| --- | --- | --- | --- | --- | --- |
+| MD-CL-0012@16 | **INFERENCE:** form in V15 is organized by one opposition, black and white against colour, and by delay. The jacket puts the coach under a crow's wing. A costume changes colour inside a jump. A father's speech is printed as a blur and released fifty-two page positions later (0076→0128; fifty-one intervening pages). A wish is a page of search bars. A death is threads in many hands, and the hunt for a culprit an engraving that borrows a skater's film. A confession ends on two pages of a lake with no one in it. Carrying is drawn before it is spoken of. The closing captions set a ruler and crows against doves and a rainbow, and the volume stops on a jump in a warm-up. Only one program is skated; most of the volume is two men talking. | V15 | EV-0005/0020/0034/0035/0042/0043/0047/0052/0057; earlier basis retained. | MODERATE for effects, HIGH for construction. The delay count and sampled single-page construction are directly rechecked; facing-page geometry remains unverified in this volume. | Visual; MD-VF-0133–0145; MD-MOT-0017 |
+
+| Revision | Prior → new version | Transition / reason / known after | Evidence / alternatives | Affected homes / disposition | Closure / unresolved debt |
+| --- | --- | --- | --- | --- | --- |
+| MD-RV-0279 | MD-CL-0012@15 → @16 | CORRECT; father-speech delay was called forty pages; original 0076→0128 is 52 page positions, 51 intervening; same MD-FR-FB02 boundary | MD-EV-V15-0020/0034/0035; MD-VF-0140; LC12 | Form, integrated and all eight current synthesis dependencies reviewed; active @15 citations advanced selectively | Numerical repair closed; physical facing/page-turn geometry remains unverified |
+
+### Retained-history errata and bounded derivative repairs
+
+| Record | Earliest affected authority / previous wording | Accepted correction / original witness | Current dependencies and version disposition |
+| --- | --- | --- | --- |
+| RC01 | Frozen V13 prose at MD-EV-V13-0025 calls Inori’s light thought an answer; MD-RL-0300 and MD-VF-0116 can imply receipt; integrated reversed the suitability direction | V13 Score52 0100–0102: Hikaru privately judges only her strongest self suitable for Inori; separate Inori interior and a visible hand do not communicate exclusivity | MD-CL-0003@14 survives; current syntheses repaired and ledger channel errata appended; MD-KN-0127 already separates knowledge correctly |
+| RC05 | MD-CL-0011@13 “withdrawn sponsor”; MD-CL-0022@9 sponsorship “taken” by accident | V13 Score53 0136 says agreements in principle require adjustment/renegotiation, not proved cancellation; MD-EV-V13-0036 and MD-IN-0136 already record this accurately | Read inherited basis in MD-CL-0011@16 and MD-CL-0022@12 with this erratum; no changed current thesis or new version |
+| LC02 | MD-CL-0008@13 and frozen V14 prose call 30.36 highest among five | V14 0046,0059,0071,0085–0086,0138 print four PCS breakdowns and five totals; 30.36 exceeds next printed30.22 by0.14; Baek PCS unprinted | Current skating/Inori narrowed; MD-CL-0008@14 concerns a rival’s placing appraisal and survives; MD-CL-0030@1 already says highest printed |
+| JC02 | Frozen MD-EV-V09-0023 and numeric domain rows say three in four | V09 Score34 0086 notebook shows O X O O O, four successes in five; one warm-up, not a stable rate | MD-CL-0004@8 and MD-CL-0007@9 cite the tally without wrong numeral and survive with corrected warrant; current specialist and domain errata repaired |
+| LC04 / speech SE07 | Frozen V15 Written Japanese transcribes 役割 | V15 Score61 0185 prints 役目, an entrusted role/duty | Current Inori, relationship and form noun repaired; meaning of MD-CL-0002@15 and MD-CL-0029@6 survives; older career-ending belief is not explicitly confessed |
+| EC07 / EC12 | Derivative cold naming placed in V04; spin milestones placed one event late | V02 SP3 0124–0125 names cold feeling; V04 recalls/farewells it. V03 Kyoto0095 prints FSSp1; second Meikō0159 prints FCSp2/LSp3/CCoSp4 | MD-CL-0015@14 and MD-CL-0008@14 unchanged; already correct observations/performance table preserved |
+| MC12 | Derivative universal practice→layout→call attributed as Tsukasa’s stages | V06 Score23 0182: first success, greater probability until layout possible, then combinations orGOE; omitted acquisitions remain omitted | MD-SK-0038 and frozen V06 correct; no new claim version |
+| JC06 / LC05; FC04 with JC12 | Derivative eye “resulted” from household, all strengths share one origin; four-year synopsis | Faculty attestation differs from causal origin; childhood strongly frames cost/debt but does not uniquely explain all strengths. Preserve V11 0126 three-year coaching testimony and age11→13 anchors without asserting exact elapsed years | MD-CL-0010@16 and MD-CL-0017@11 already carry memory, testimony and counterevidence bounds; lead prose brought into alignment |
+
+The prior 17.32-point correction is reverified against admitted V11 0081 and V13 EPUB0022; the distinct V09 novice FS gap is19.10. Existing age12 errata stand and current age prose follows the original V13 profile0125. Historical @5 versions remain historical; current adult burden dependencies use MD-CL-0029@6. No prediction, operational rule or new source freeze is added.
