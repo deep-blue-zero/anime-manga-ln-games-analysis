@@ -5,7 +5,7 @@ artifact_type: analytical_method
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.3"
+version: "1.4"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Japanese-primary published-LN prospective reading and evidence discipline"
@@ -38,6 +38,8 @@ Deterministic extraction must preserve paragraph and scene order, punctuation, J
 A locator records witness ID, source hash, exact chapter label, spine member, and paragraph/element anchor. Prefer native anchors where stable; otherwise define a one-based deterministic element rule, including handling of empty elements and scene separators. Round-trip ordinary dialogue, ruby-bearing text, a chapter boundary, and the final narrative passage to original XHTML. Record the normalizer version and projection/map hashes in the evidence plane. Reader-app reflow pages are not printed pagination. Printed page numbers may be cited only when genuinely established.
 
 Use witness grammar `SW-LNJP-V<NN>` and observation grammar `SW-E-LNJP-V<NN>-<sequence>`; supplements and web snapshots get separate witness IDs. These are prospective identifier patterns, not existing observations. The volume reading owns compact analytical observation records and recoverable locators. Raw text, paragraph maps, alignment tables, full image sets, and extraction databases remain governed Drive evidence.
+
+Refer to established characters by name in analytical prose; a role, title or epithet is used when it carries the point, such as the Silent Witch as a reputation experienced by people who do not know Monica, or Felix’s royal status where it matters. Preserve the source’s concealments and knowledge boundaries: name a figure the unit later identifies only while stating what the earlier scene’s participants knew, and never resolve an identity the ledger records as inference. Before semantic acceptance, apply a bounded name-and-reference check to the synopsis, at least one substantial close-reading section and the exit freeze. This implements the corpus-wide named-subject and referential-clarity standard maintained in the [analytical handoff and integration contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md); where that contract states the standard, it governs.
 
 Quote only wording necessary to test an interpretation, reproduce it exactly, identify speaker/focalizer and locator, and label any analyst translation. A translation is an aid, not an independent Japanese witness. Keep public excerpts brief and proportionate. Illustrations, captions, design material, author notes, and prose are different evidence channels. Record actual visual inspection; never infer voice-actor delivery, acoustic prosody, or uninspected visual detail from prose.
 

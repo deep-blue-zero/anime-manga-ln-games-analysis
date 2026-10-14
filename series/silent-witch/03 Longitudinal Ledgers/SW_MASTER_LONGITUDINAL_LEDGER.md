@@ -59,7 +59,7 @@ The common fields apply to all sections. The following field lists define each s
 | Local key | Japanese name and aliases in V01 | Identity notes |
 |---|---|---|
 | sw.monica | モニカ・エヴァレット; 〈沈黙の魔女〉; cover name モニカ・ノートン; 同期殿, 子リス, ノートン会計 | One person under two names; the cover is known to her confidants only. |
-| sw.felix | フェリクス・アーク・リディル; 第二王子; 生徒会長; マスター to his spirit | Prologue watcher identification is inference only, SW-C-0006. |
+| sw.felix | フェリクス・アーク・リディル; 第二王子; 生徒会長; マスター to Wildianu | Prologue watcher identification is inference only, SW-C-0006. |
 | sw.louis | ルイス・ミラー; 〈結界の魔術師〉 | — |
 | sw.cyril | シリル・アシュリー; 生徒会副会長; adopted son of the ハイオーン marquisate | — |
 | sw.nero | ネロ; human-form alias バーソロミュー・アレクサンダー | Nature undisclosed. |
@@ -136,7 +136,7 @@ Records at V01:
 | SW-R-0010 | Felix → Monica | Suspect, pet, game; useful accountant. | Suspicion without fear → keeps her close. | Rank and charm; stakes his office on her. | Tests her; conceals much; kisses her cheek. | Asymmetric; his aims withheld. | 036, 063, 069, 073, 075, 078, 088 |
 | SW-R-0011 | Monica → Cyril | Fear of his temper; admiration of his striving. | Fear → admiration. | Accepts his training. | Anonymous treatment and brooch repair. | One-sided care; he does not know. | 089, 101, 114 |
 | SW-R-0012 | Cyril → Monica | Hostility for disrespect to Felix → professional recognition. | Distrust → qualified respect; private suspicion. | Supervises, investigates on her behalf. | Nearly checks her hand; interrupted. | Developing; his goal is Felix’s and his family’s approval. | 057, 080, 091, 111, 114 |
-| SW-R-0013 | Felix → Cyril | Trusts his fairness; protects him. | — | Assigns him to Monica deliberately. | Hides his spirit from him. | Partial disclosure only. | 103, 120 |
+| SW-R-0013 | Felix → Cyril | Trusts his fairness; protects him. | — | Assigns him to Monica deliberately. | Hides Wildianu from him. | Partial disclosure only. | 103, 120 |
 | SW-R-0014 | Cyril → Felix | Devoted loyalty; seeks recognition. | Total trust. | Defends him with force. | Unaware of Felix’s secrets. | Asymmetric knowledge. | 023, 096 |
 | SW-R-0015 | Felix → Elliott | Uses his vigilance. | — | Lies to him about the night. | — | Partial disclosure. | 079 |
 | SW-R-0016 | Elliott → Felix | Watchful friend; resents solo risks. | — | Sets traps on his behalf. | — | — | 036, 061 |
@@ -359,6 +359,7 @@ Records at V01:
 | Remaining mandatory evidence | None. |
 | Remaining optional evidence | Publisher-original EPUB comparison; printed pagination; web and companion comparisons, each requiring authorization. |
 | Architecture review | First closed-volume review recorded in the synthesis architecture; one master ledger remains adequate; no split. |
+| Editorial revision | 2026-10-14: reading version 1.1 named-subject and referential-clarity repair, with one recorded erratum aligning the synopsis to SW-C-0009; no claim, observation, locator, quotation or freeze changed; two ledger cells in SW-S identities and SW-R-0013 clarified from “his spirit” to Wildianu. See the V01 named-subject editorial audit. |
 
 ## Write, amend, and split rules
 

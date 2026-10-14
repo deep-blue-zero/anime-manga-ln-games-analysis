@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.3"
+version: "1.4"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Single canonical first-read surface; accepted foundation, V01 closed under the owner’s V01-only authorization, next unit not authorized"
@@ -85,6 +85,7 @@ The owner explicitly accepted the ten-file V1 bootstrap. Its paired method/archi
 | [V01 preparation path manifest](08%20Audits%20and%20Manifests/SW_V01_READINESS_PATH_MANIFEST.json) | Nine-path bounded preparation tranche; no narrative reading. |
 | [V01 deep reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md) | Complete Japanese-primary V01 reading: coverage, synopsis, close reading, observations 001–132, claims, open questions, exit freeze. Frozen at V01. |
 | [V01 reading path manifest](08%20Audits%20and%20Manifests/SW_V01_READING_PATH_MANIFEST.json) | Exact path set and state of the V01 gate-opening and closure transaction. |
+| [V01 named-subject editorial audit](08%20Audits%20and%20Manifests/SW_V01_NAMED_SUBJECT_EDITORIAL_AUDIT.md) | Bounded referential-clarity repair of the V01 reading, version 1.1, with one erratum; no claim, locator or freeze changed. |
 | [Character reconstruction method](00%20Frameworks%20and%20Methods/SW_CHARACTER_RECONSTRUCTION_METHOD.md) | Future state/domain models and noncircular validation; V01 evidence reviews recorded in the ledger; no model created. |
 | [Master longitudinal ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) | Sole cumulative home; V01 records in all nine typed sections. |
 | [Volume reading template](00%20Frameworks%20and%20Methods/SW_VOLUME_READING_TEMPLATE.md) | Reusable deep-reading contract; explicitly not V01. |

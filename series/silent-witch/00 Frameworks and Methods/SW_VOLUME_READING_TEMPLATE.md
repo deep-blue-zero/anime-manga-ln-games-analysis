@@ -5,7 +5,8 @@ artifact_type: volume_reading_template
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.0"
+version: "1.1"
+last_updated: "2026-10-14"
 status: canonical
 scope: "Reusable production contract; never an actual V01 reading"
 source_boundary: "Architecture bootstrap and source reconnaissance only; no narrative source unit analyzed."
@@ -73,7 +74,7 @@ Freeze the reached LN-only boundary: established changes, unresolved questions, 
 
 ## 11. Closure receipt
 
-Record full admitted coverage; source/locator/wording checks; prose/image/paratext inspection separately; semantic review; ledger reconciliation; readiness changes or abstentions; durable transaction; entrypoint advancement; and unresolved mandatory versus optional evidence.
+Record full admitted coverage; source/locator/wording checks; prose/image/paratext inspection separately; semantic review, including the method’s name-and-reference check with its sampled sections and material findings; ledger reconciliation; readiness changes or abstentions; durable transaction; entrypoint advancement; and unresolved mandatory versus optional evidence.
 
 Use truthful separate fields for local authorship, semantic acceptance, committed closure, branch push, author preflight, housekeeping, exact-head Repository integration audit, and main integration. Git history or a later receipt records a containing commit; never invent a self-referential commit hash. A partial reading cannot advance the high-water mark.
 
