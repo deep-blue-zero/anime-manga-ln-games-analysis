@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.22"
+version: "1.23"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
 locked_units: [V02, V03, V04, AFTER04, V05, V06, V07, V08, V09, EXTRA09, SW-LNJP-V10, SW-LNJP-V11]
-literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14; V09 COMPLETE_CLOSED_2026-10-14; EXTRA09 COMPLETE_CLOSED_2026-10-14; V10 COMPLETE_CLOSED_2026-10-14"
+literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14; V09 COMPLETE_CLOSED_2026-10-14; EXTRA09 COMPLETE_CLOSED_2026-10-14; V10 COMPLETE_CLOSED_2026-10-14; V11 COMPLETE_CLOSED_2026-10-14"
 ---
 
 # Japanese LN source lock register
@@ -776,3 +776,5 @@ The technical-sample receipt and the retained audit's stored samples were not di
 | block-map.jsonl | `acc2a16fe200005e9d9f3cb6681f7e7f30aec2dbc44e9f6f82570227fa8bc6e2` |
 | element-locators.jsonl | `23d11b682db061143291d40d93218f72b5a836db52587fd294e02d9b3cfb956e` |
 | validation.json | `8ca09110bb909c0da20919c7fd4237ddb137994a7289e3ca783e1fdaa568c4ea` |
+
+**Use in the V11 reading.** Twenty-four of the twenty-nine image resources were viewed, including the map, the character list and, after the narrative, the full jacket. The cover, title page, store image and the two preview images were not viewed. S28 proved to be a map of the kingdom and is used as paratext; it was not reclassified. The [V11 reading](../02%20Sequential%20Readings/SW_V11_DEEP_READING.md) cites 269 distinct locators, all present in the element map, and quotes 8 short fragments, each verified in the base text of a cited block.

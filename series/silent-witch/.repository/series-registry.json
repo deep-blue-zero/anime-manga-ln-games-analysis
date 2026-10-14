@@ -12,5 +12,5 @@
   "migration_scope": "GIT_NATIVE_POST_CUTOVER_SILENT_WITCH_BOOTSTRAP_V1",
   "authority_status": "GIT_PRIMARY",
   "project_initiation_gate": "REQUIRED",
-  "catalog_note": "Owner-accepted Japanese-LN INITIAL foundation; V01 byte-locked with locally retained, reverified locators. Japanese LN V01 to V10 and the companions IV -after- and IX -extra- read in full and closed; continuous sequential run through all supplied Japanese works authorized 2026-10-14 and active; master ledger reconciled; high-water mark V10; V11 next. Primary and deterministic derived evidence remain outside Git."
+  "catalog_note": "Owner-accepted Japanese-LN INITIAL foundation; V01 byte-locked with locally retained, reverified locators. Japanese LN V01 to V11 and the companions IV -after- and IX -extra- read in full and closed; continuous sequential run through all supplied Japanese works authorized 2026-10-14 and active; master ledger reconciled; high-water mark V11; V12 next. Primary and deterministic derived evidence remain outside Git."
 }
