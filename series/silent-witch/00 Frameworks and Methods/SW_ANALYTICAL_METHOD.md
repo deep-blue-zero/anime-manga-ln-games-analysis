@@ -5,11 +5,11 @@ artifact_type: analytical_method
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.1"
-last_updated: "2026-10-13"
+version: "1.5"
+last_updated: "2026-10-14"
 status: canonical
 scope: "Japanese-primary published-LN prospective reading and evidence discipline"
-source_boundary: "Accepted pre-reading foundation and Japanese LN V01 technical source lock; no narrative source unit analyzed."
+source_boundary: "Accepted foundation; Japanese LN V01 read and closed under this method; the method itself contains no source findings."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/00 Frameworks and Methods/SW_ANALYTICAL_METHOD.md"
 supersedes: []
@@ -25,7 +25,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 Read the published Japanese light novels as literature, preserving the mechanisms by which a scene produces action, knowledge, feeling, and reader response. This method governs source inspection and inference. The [synthesis architecture](SW_SYNTHESIS_ARCHITECTURE.md) owns cumulative destinations and completion gates; the [character method](SW_CHARACTER_RECONSTRUCTION_METHOD.md) owns future operational reconstruction. The [template](SW_VOLUME_READING_TEMPLATE.md) implements these responsibilities without proving a reading occurred.
 
-The canonical route is [the current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md). Live repository authority and [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) govern execution. The owner has accepted this current-eligible method and its paired architecture. V01 has a technical source lock; the current entrypoint records the owner’s subsequent decision to keep its locator package local and leave SEQUENTIAL_ANALYSIS_LOCK = CLOSED. Gate readiness and an explicit source-unit reading instruction remain distinct; no narrative findings exist.
+The canonical route is [the current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md). Live repository authority and [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) govern execution. The owner has accepted this current-eligible method and its paired architecture. V01 has a technical source lock. The owner first kept its locator package local and held SEQUENTIAL_ANALYSIS_LOCK = CLOSED; a later owner instruction, recorded 2026-10-14, opened the lock for V01 only after the source and original package were recovered and reverified. The current entrypoint owns the live lock state. Gate readiness and an explicit source-unit reading instruction remain distinct, and opening the gate establishes no narrative finding. V01 has since been read and closed under this method; its findings live in the V01 reading and the master ledger, not here.
 
 ## 1. Japanese primary evidence and source fidelity
 
@@ -38,6 +38,8 @@ Deterministic extraction must preserve paragraph and scene order, punctuation, J
 A locator records witness ID, source hash, exact chapter label, spine member, and paragraph/element anchor. Prefer native anchors where stable; otherwise define a one-based deterministic element rule, including handling of empty elements and scene separators. Round-trip ordinary dialogue, ruby-bearing text, a chapter boundary, and the final narrative passage to original XHTML. Record the normalizer version and projection/map hashes in the evidence plane. Reader-app reflow pages are not printed pagination. Printed page numbers may be cited only when genuinely established.
 
 Use witness grammar `SW-LNJP-V<NN>` and observation grammar `SW-E-LNJP-V<NN>-<sequence>`; supplements and web snapshots get separate witness IDs. These are prospective identifier patterns, not existing observations. The volume reading owns compact analytical observation records and recoverable locators. Raw text, paragraph maps, alignment tables, full image sets, and extraction databases remain governed Drive evidence.
+
+Refer to established characters by name in analytical prose; a role, title or epithet is used when it carries the point, such as the Silent Witch as a reputation experienced by people who do not know Monica, or Felix’s royal status where it matters. Preserve the source’s concealments and knowledge boundaries: name a figure the unit later identifies only while stating what the earlier scene’s participants knew, and never resolve an identity the ledger records as inference. Before semantic acceptance, apply a bounded name-and-reference check to the synopsis, at least one substantial close-reading section and the exit freeze. This implements the corpus-wide named-subject and referential-clarity standard maintained in the [analytical handoff and integration contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md); where that contract states the standard, it governs.
 
 Quote only wording necessary to test an interpretation, reproduce it exactly, identify speaker/focalizer and locator, and label any analyst translation. A translation is an aid, not an independent Japanese witness. Keep public excerpts brief and proportionate. Illustrations, captions, design material, author notes, and prose are different evidence channels. Record actual visual inspection; never infer voice-actor delivery, acoustic prosody, or uninspected visual detail from prose.
 
@@ -83,7 +85,7 @@ Separate what happens, what a participant thinks happened, why someone acts, how
 
 For a load-bearing inference preserve support, strongest rival explanation, disconfirming evidence, uncertainty, and the observation that could change it. Absence becomes negative evidence only when the declared inspected range and expected opportunity make absence meaningful. Missing access is an evidence gap, not proof that a trait or event is absent. An untested expectation remains UNTESTED.
 
-Use the master ledger's PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT, and OPEN revision events. Preserve the earlier formulation and its evidence boundary. A contradiction may result from ignorance, deception, chronology, focalization, witness revision, translation, paratext, or genuine inconsistency; retain alternatives until inspection supports adjudication.
+Use the [claims and revisions ledger](../03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md)'s PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT, and OPEN revision events under its claim-review contract (section 3). Review every applicable claim at each unit, record the review in the unit's receipt, and write an event only for a material result or a significant decision to preserve. Preserve the earlier formulation and its evidence boundary. A contradiction may result from ignorance, deception, chronology, focalization, witness revision, translation, paratext, or genuine inconsistency; retain alternatives until inspection supports adjudication.
 
 ## 5. Close reading as prose and social action
 
@@ -111,7 +113,7 @@ For each recurring lens ask what concrete mechanism the current volume supplies 
 
 A volume closes only after complete declared coverage, a readable causal synopsis, sustained diagnostic analysis, verified consequential wording/locators, entry and exit freezes, claim/prediction adjudication, and material updates to every required cumulative responsibility. Record an explained no-material-update where appropriate. Preserve unresolved mandatory evidence as a blocker to the corresponding completion claim.
 
-The [master ledger](../03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) preserves cumulative changes; the entrypoint advances only after coherent durable closure. Distinguish inspection, semantic acceptance, transaction persistence/commit, branch publication, housekeeping, exact-head audit, and main integration.
+The [master ledger](../03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) and the [claims and revisions ledger](../03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md) preserve cumulative changes; the entrypoint advances only after coherent durable closure. Distinguish inspection, semantic acceptance, transaction persistence/commit, branch publication, housekeeping, exact-head audit, and main integration.
 
 Evaluate explanatory depth, evidence specificity, temporal/epistemic discipline, meaningful counterinterpretations, and literary readability. Sparse plot bullets or generic character lists cannot satisfy a deep reading. No arbitrary word quota or maximum imposes compression, and length alone proves nothing. Preserve enough connected prose to develop significant arguments.
 

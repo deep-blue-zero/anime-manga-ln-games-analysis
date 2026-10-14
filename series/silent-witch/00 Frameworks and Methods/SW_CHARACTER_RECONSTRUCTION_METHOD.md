@@ -5,7 +5,8 @@ artifact_type: character_reconstruction_method
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.0"
+version: "1.3"
+last_updated: "2026-10-14"
 status: canonical
 scope: "Future Japanese-LN, continuity- and state-bounded operational models"
 source_boundary: "Architecture bootstrap and source reconnaissance only; no narrative source unit analyzed."
@@ -117,8 +118,12 @@ A scenario specification states character/state/continuity, participants, knowle
 
 Accept a proposed tier only after the model's scope, evidence trail, ordinary behavior, recipient specificity, counterevidence, uncertainty and test history support that tier. Keep thin supporting characters explicitly thin. Preserve alternatives that cannot be discriminated.
 
-Use the master claim/revision history for material mechanism changes and preserve rule IDs/testing history. A consequential failure may expose wrong knowledge, recipient conditioning, applicability or causal model; record affected monographs and dependencies. Do not rewrite earlier prospective freezes to make the model appear predictive.
+Use the claim/revision history in the [claims and revisions ledger](../03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md) for material mechanism changes and preserve rule IDs/testing history. A consequential failure may expose wrong knowledge, recipient conditioning, applicability or causal model; record affected monographs and dependencies. Do not rewrite earlier prospective freezes to make the model appear predictive.
 
 Global discovery and global reconstruction assessments remain separate, owner-controlled responsibilities. No populated global capability file or A–E grade is an output of this bootstrap. Future assessment requires specific authorization and exact committed evidence binding.
 
-Present state: NO_SOURCE_UNIT_ANALYZED; zero identities modeled; zero readiness assessments; no recognition profile, domain model, fuller reconstruction or synthetic dialogue created.
+State at bootstrap: NO_SOURCE_UNIT_ANALYZED; zero identities modeled; zero readiness assessments; no recognition profile, domain model, fuller reconstruction or synthetic dialogue created.
+
+State at V01 closure, 2026-10-14: one source unit analyzed; sixteen local identities keyed in the master ledger; eight evidence reviews recorded as SW-RD-0001 to SW-RD-0008, none awarding a tier; zero identities modeled; no recognition profile, domain model, fuller reconstruction, rule ID or synthetic dialogue created.
+
+State at completion, 2026-10-14: sixteen source units analyzed; 179 local identities keyed; evidence reviews SW-RD-0001 to SW-RD-0066, the last ten from the [reconstruction-readiness assessment](../09%20Reconstruction%20Readiness/SW_RECONSTRUCTION_READINESS_ASSESSMENT.md); no tier awarded and no test run; zero identities modeled; no recognition profile, domain model, fuller reconstruction, rule ID or synthetic dialogue created.
