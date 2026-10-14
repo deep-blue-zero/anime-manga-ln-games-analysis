@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.3"
+version: "1.4"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -17,7 +17,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
-locked_units: [V02, V03]
+locked_units: [V02, V03, V04]
 literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14"
 ---
 
@@ -149,3 +149,58 @@ Common limitations: each witness is a supplied reflowable EPUB whose equivalence
 | validation.json | `465a3e1055d5f7a7b2ca870c84f0c44cd42fbe1e835955de75bba94ea5182b3d` |
 
 **Use in the V03 reading.** Every admitted image was viewed at source resolution; the full jacket was first viewed after the narrative had been read. The [V03 reading](../02%20Sequential%20Readings/SW_V03_DEEP_READING.md) cites 362 distinct locators, all present in the element map, and quotes 121 short fragments, each verified in the base text of a cited block. The classes held under full reading; no member was reclassified. A batch display put the text of preview members S36–S39 on screen; it was not used, and the exclusion is unchanged.
+
+## V04 — `SW-LNJP-V04`
+
+*Locked 2026-10-14, before any V04 narrative member was rendered for reading. The inspection suppressed the opening text of narrative-length members. The technical-sample receipt was displayed during the lock, which put two prologue passages on screen; the V04 entry freeze discloses them.*
+
+| Field | Verified value |
+|---|---|
+| Collection filename | Secrets of the Silent Witch - Volume 04 [Japanese].epub |
+| Bytes / SHA-256 | 17,309,899 / `a80f90953d625d304ae724a9b05a8c93ad3392e8bfd23e9edaeb6d0f9642fcfc`; equal to the source-map row and the retained audit. |
+| OPF title / creator | サイレント・ウィッチ IV　沈黙の魔女の隠しごと / 依空 まつり |
+| Publisher / imprint | 株式会社ＫＡＤＯＫＡＷＡ / カドカワBOOKS |
+| Identifier | `B0B7R87LDV`, an ASIN, not an ISBN. |
+| Electronic publication / revision | Colophon: 2022-08-10, ver.001. |
+| Declared print basis | First edition, 2022-08-10. |
+| Package form | Converted witness, like V01 and V03: OPF credits UnpackKindleS ver.20220126 and records modification 2022-10-24. |
+| Archive | 89 members, CRC pass. 86 manifest resources; 46 XHTML documents, 44 declaring Japanese and the image-only cover undeclared; 7 stylesheets; 115 local references resolved, none external; 32 images decoded. |
+| Navigation | EPUB nav 16 entries; NCX 13; the in-book linked contents 16, the publisher contents a further 2. |
+
+**Spine and admission classes.** Paths share the prefix `OEBPS/Text/`.
+
+| Spine | Member(s) | Class / admission |
+|---|---|---|
+| 1 | p-cover | Source-identifying cover. |
+| 2–4 | p-fmatter-001 to 003 | Colour frontispieces; visual channel. |
+| 5 | p-caution | Publisher notice; excluded. |
+| 6–10 | p-toc-001, p-titlepage, p-001 credits, p-toc-002 illustrated contents, p-toc-003 linked contents | Source-identifying paratext. |
+| 11 | p-002 | Prologue. |
+| 12 | p-003 | Narrative illustration. |
+| 13–20 | p-004 to p-011 | Chapters one to eight, in order. |
+| 21 | p-012 | Narrative illustration inside chapter eight. |
+| 22 | p-013 | Narrative continuation of chapter eight. |
+| 23–25 | p-014 to p-016 | Chapters nine to eleven. |
+| 26 | p-017 | Epilogue. |
+| 27 | p-018 | Illustrated secret-episode heading. |
+| 28 | p-019 | In-volume supplemental narrative, the secret episode. |
+| 29–34 | p-020 to p-025 | Image-only character reference. |
+| 35 | p-026 | Afterword, with one image. |
+| 36 | p-999 | Image-only back-matter page outside the retained audit’s preview boundary; classified as image paratext by structure and to be viewed after the narrative, when its class is confirmed or corrected. |
+| 37–41 | p-027 to p-031 | **Unrelated publisher preview**: 異世界ウォーキング　～エレージア王国編～, electronic trial edition. Exactly the five members in the retained audit; 235 blocks excluded. |
+| 42 | p-allcover-001 | Full jacket; source-identifying paratext, not viewed before reading. |
+| 43 | p-colophon | Edition paratext. |
+| 44–45 | p-colophon2, p-bookwalker | Rights notice and store image; excluded. |
+
+**Normalization.** 10,509 body elements and 4,581 blocks round-tripped. The narrative projection holds 4,229 blocks, 158,062 characters including line breaks and image placeholders. 1,443 ruby elements retained. Technical samples: S11:E000120, S11:E000011, S13:E000004, S26:E000397, S28:E000291. A second build reproduced the package SHA-256.
+
+| Local object | SHA-256 |
+|---|---|
+| SW-LNJP-V04_FIDELITY_LOCATORS_V1.zip; 18,492,474 bytes | `5ca9e2fbe7229789a1e2bdf8d0630ab2f4469a480c184a4a377e71481ba79978` |
+| package-manifest.json | `60d32c796c0a8d930ba4278cb2e4703c5ceef620b1e958316f005e9fe175a1f7` |
+| normalizer.py (generalized driver) | `4bd298eb44220135ecc55311accc4b712b9b0ee13857d485ee090192254fd5ff` |
+| volume-config.json | `b82e5e56b9a34865cf7e3eee95f0624ebdaa6dfbb743f608b93db77980d6a3bf` |
+| narrative-base.txt | `a9f752817b9ac82d62dda961c9c7a9032a4d42566f936d391e9b6e6d400c75b7` |
+| block-map.jsonl | `92ab20f3a3295863136592523800678ca224dedbfc215af414dcbe10427dc64c` |
+| element-locators.jsonl | `c621adf1f98d33511e9b61dd27e458835912074a6ad91f7a0e50c0151f91921f` |
+| validation.json | `5200c04630d633735be8b23243bebdd177dc8e7539ba46d4d8f6cc1c4e5637a4` |
