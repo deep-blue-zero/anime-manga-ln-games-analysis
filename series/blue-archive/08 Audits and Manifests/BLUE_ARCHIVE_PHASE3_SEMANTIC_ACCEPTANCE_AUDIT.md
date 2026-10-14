@@ -1,9 +1,9 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: semantic_acceptance_audit
-scope: "Publishing complete institution ROOT accepted WITH LIMITS;conditional local146/16;actual sourceA729145/16/main67133/13;new publication/CI pending;355/29/25/384/788 fixed;next178 unreached"
+scope: "Art commerce institution and ONE existing ensemble duty ROOT accepted WITH LIMITS;conditional local147/17;actual sourceC5_146/16/main67_133/13;new publication/CI pending;355/29/25/384/788 fixed;next178 unreached"
 generation: V1
-version: "1.26"
+version: "1.27"
 status: canonical
 source_boundary: "Accepted textual meanings at main 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c preserved by reconciliation c5f85a6921067abf031a920dbab7d84e12361b89; Phase 3 controls 2927442fef0daa17df1098d82bb62e0d8a46f19f; Japanese a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z"
 supersedes: []
@@ -16,6 +16,21 @@ updated: 2026-10-14
 ---
 
 # Blue Archive Phase 3 — semantic acceptance of literary packages
+
+
+## Current Art commerce acceptance, conditional local147 and verified published146 — 2026-10-14
+
+ROOT accepts Art commerce and unchosen headship WITH LIMITS at its existing institution home. The complete224-line argument contains52 substantial paragraphs,15 institution dimensions,ONE embedded named ensemble duty with12 substantial dimensions,8 serious rivals and16 finite endpoints. Miyo exercises real decisions while contesting office and wanting dissolution; Fuyu's ethical refusal, commercial initiative and risk objection remain distinct; Ritsu's sculpture, literary affection and tasted cake have intrinsic value; Hiromi's fatigue, affection and uneven knowledge identify her own recipient costs. Actual public art response and café pleasure coexist with zero earnings, financial loss, coercive means and unfinished repair.
+
+ROOT personally received the whole224/all52 argument and whole139-line maintained EVENT850 written account through EOF, all105 new five-field comparisons and105 different-author QA reasons, all52 source/question/purpose joins and52 QA reasons,12 pre-draft source questions,15 institution dimensions,ONE12-dimension named duty,8 rivals,16 endpoints,14 OPEN gaps and55 operative controls. Producer twelve primary units and original common105 contributor26whole/79selected grades remain attributed. Miyo refuses Teacher reading her wanted romance novels; Ritsu's sculpture/materials/favorite-author affection are separate. Hiromi's mistaken belief and Miyo's inward apology do not establish spoken reassurance, discovery, informed consent, café presence or repaired trust. Retained initial 'Ritsu founder enthusiasm' is historical preparer wording, not established founding; current origin/first-meeting evidence remains unreceived. Wanted fishing is not established as achieved in the received O042 report; this is not global disproof. Sora's wage motive is intrinsic, not achieved payroll. No low-stakes, school, name-frequency, model or attendance filter excludes ordinary evidence.
+
+Actual ROOT signed62531/SHA0085e3599450d21241e87f4ea9e2ea5b5ba7a8ac0cf1b3f3eb1df9460de2e885 accepts exactV4 current8 meanings for public15 metadata composition. ROOT executed10255 raw/schema predicates with0 findings, including both full8-stage raw inverses/forwards,all11 frozen original envelopes,3 prior carriers,original source-receipt8 locator recovery and complete224 literal graph. Original guardV1's tuple-schema error was repaired in its own immutable helperV2 without candidate/source/QA edits. Only exact14 approved QA delivery VALUES may become opaque; every key, original scope, decision,grade,reason,tuple and canonical alias remains. The proposed229 body changes necessary frontmatter only:52 substantive paragraphs and525 purpose meanings stay literal;live body tuples/positions move while source139/frozen105 physical locators do not. Original224 reconstruction and original body-only QA remain explicitly dated; current229 reconstruction is separate. Distinct public15 composition QA and ROOT composed-byte adoption remain operational gates.
+
+Verified published sourcec5ce4c5d6dbeaf717d97488ce1c052bd450b8701/treea4bc69f25a7622ca3b46ae13742ab4975d4145cf contains146 packages/16 named duties, including Publishing and all four Library corrections. SOURCE38542525482,HOUSEKEEPING38544509937 actual SHA-bound no-op and FINAL38544548944 succeeded. Both actual full audits ran the same301 unique discovered tests, selection disabled and all five counters zero. Latest trusted GitHub Actions status56311832231/app15368 is success and targets that FINAL. Dispatcher main metadata does not identify analytical execution; no independent incoming-event run-ID causality or whole-log human-reading claim is made. Current upstream main67b2a064714c099204636764a24aabc9ca58f2e6 retains133 packages/13 named duties. This certificate governs c5 only; future Art publication needs its own exact-head chain.
+
+Only complete sole ROOT installation of reviewed Art public15/shared7 yields147 local packages (104CHAR/18REL/5ENS/20INST) and17 named duties. At this C-only preparation actual source is146/16 and upstream main133/13. Art occupies existing home315/required row299; its ONE P3-ENSEMBLE-MIYO-FUYU-RITSU-HIROMI duty changes existing named row16, not12 duties or an extra required ENS package. One legacy tracking append yields170. All other354 required rows,28 named rows and169 prior legacy rows stay literal. Fixed355 required/29 named/25 parents/384 homes/788 navigation, first89 history and next178 UNREACHED remain. PR158 stays OPEN_DRAFT_HOLD; merge approval is reserved. All14 original gaps remain OPEN,models0. Hiromi,Wildhunt and I008 remain separate pending packages. Older current-status and pending-publication fields retain their dated preparation roles under this explicit current boundary.
+
+This C-only seven-file successor grants no R installation, remote publication, future runtime or main integration credit. Different-author public15/shared7 QA,final ROOT byte adoption/freeze,guarded exact22 installation,author preflight,fresh live controls,ordinary push/full raw readback and a fresh SOURCE/HOUSEKEEPING/FINAL sequence remain separate gates. ROOT is the sole repository/Git/provider/shared-metadata writer; housekeeping's five outputs and character curation's two outputs retain designated writers. The older localmain reference is separate from currentorigin/main and is not moved.
 
 
 ## Current Publishing acceptance, conditional local146 and verified published145 — 2026-10-14
