@@ -5,11 +5,11 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.2"
+version: "1.3"
 last_updated: "2026-10-14"
 status: canonical
-scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction"
-source_boundary: "Accepted pre-reading foundation and Japanese LN V01 technical source lock; no narrative source unit analyzed."
+scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review recorded"
+source_boundary: "Accepted foundation; Japanese LN V01 read and closed under it; first closed-volume review based on V01 only."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md"
 supersedes: []
@@ -49,7 +49,9 @@ Git holds interpretation, methods, public-safe routing, state, and provenance. G
 | Volume reading template | Reusable output contract; no completed volume or findings. |
 | Source/continuity map | Source objects, qualification of checks, exclusions, lane admission, recovery. |
 | V01 source lock | Exact supplied V01 byte/edition/resource identity, technical channel inventory and local derivative seals. |
-| V01 foundation/gate report | Owner acceptance, semantic foundation/day-one checks and the explicit CLOSED hold. |
+| V01 foundation/gate report | Owner acceptance, semantic foundation/day-one checks, the historical CLOSED hold and the V01-only gate opening with its entering freeze. |
+| V01 deep reading | Source-bearing V01 observations SW-E-LNJP-V01-001 to 132, coverage, synopsis, close reading and the exit freeze; frozen at its source boundary. |
+| V01 reading path manifest | Exact path set and state of the V01 transaction. |
 | Master longitudinal ledger | Sole pre-split cumulative analytical state, claims/revisions, predictions, and local readiness. |
 | Bootstrap report | Historical design rationale, observed precedents, accesses, checks, limitations, and handoff gates. |
 | Bootstrap path manifest | Exact approved authored path set and bootstrap-generation identity. |
@@ -161,6 +163,30 @@ Material amendment records lifecycle/revision, reason, evidence/dependencies, tr
 | Reconstruction readiness | Character method's identity/domain/evidence/test criteria; separate assessment authorization. |
 | Publication/audit | Author preflight, housekeeping, exact-head integration audit, and actual main merge distinguished. |
 | Release/freeze | Semantic acceptance, recorded source/claim boundary, verified publication, scoped immutable receipt. |
+
+### First closed-volume review — V01, 2026-10-14
+
+Performed after V01 closed, on V01 evidence only, as this section requires.
+
+*Method fit.* The method captured what V01 needed: Japanese wording at phrase level with locators, rotating focalization, a separate visual channel, a paratext channel that discloses more than the prose, and an exposure disclosure. One practice is now standing: verbatim Japanese in Git readings is limited to short phrase-level fragments, each checked mechanically against the sealed block map at its cited locator. It applies the method’s existing rule that public excerpts stay brief and proportionate; it is not a new evidence rule.
+
+*Cumulative homes.* All six cumulative dimensions received material V01 records in the master ledger. No dimension has outgrown it, no independent retrieval burden exists after one unit, and no specialist depends on a separate file. The ledger is not split.
+
+*Candidate specialist domains.*
+
+| Domain | Decision | Basis |
+|---|---|---|
+| Disclosure, knowledge and narrative withholding | MONITOR | Central to V01, with external focalization of power and printed silences; well held by SW-K and SW-F for now. |
+| Expertise, mathematics and the constraints of magic | MONITOR | Recurs in every chapter; SW-W and SW-S suffice at one unit. |
+| School, aristocratic institutions and available agency | MONITOR | Rank-as-truth, patronage and succession recur; mostly character belief so far. |
+| Loyalty, deception and self-authorship | MONITOR | Felix, Louis and the cover identity; motives withheld. |
+| Affiliative or romantic ambiguity | DEFER | V01 shows no romantic interest on Monica’s side, and Felix’s devotion is to the Silent Witch in the abstract; insufficient material. |
+| Japanese voice, silence, humour and ethical treatment | MONITOR | Recipient-conditioned speech and the comedy of coercion are strong; SW-S, SW-F and the reading suffice. |
+| Withdrawal, coping and past harm without diagnosis | MONITOR, within SW-S and SW-C | Unanticipated weight of associative evidence; must stay non-diagnostic and source-bounded. |
+
+*Lifecycle.* No responsibility, ledger, dependency or completion gate changes. The architecture remains INITIAL; this review records routes and decisions without amending the design.
+
+*Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 
 The numbered collection is not proof that the published LN series has reached a terminal ending. A synthesis through XII or any authorized high-water mark remains a bounded synthesis of that publication boundary. Future releases, new witnesses and reopened analysis require new scope decisions.
 

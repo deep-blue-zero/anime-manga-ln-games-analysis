@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.1"
+version: "1.2"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied V01 witness, usable source resources, faithful local derivatives and coverage routes"
@@ -21,7 +21,7 @@ source_lock_state: BYTE_LOCKED_LOCATORS_LOCAL_ONLY
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
 local_package_recovery: ORIGINAL_RECOVERED_AND_VERIFIED_2026-10-14
 sequential_analysis_lock: OPEN
-literary_inspection: AUTHORIZED_NOT_STARTED_AT_GATE_OPENING
+literary_inspection: COMPLETE_V01_CLOSED_2026-10-14
 ---
 
 # Japanese LN V01 source lock
@@ -60,7 +60,7 @@ Thirty-five spine documents declare Japanese; the image-only cover has no declar
 
 ## Source order and admission classes
 
-The complete spine is accounted for below. Paths use the common prefix `OEBPS/Text/`. This is technical inventory and a future coverage contract; every literary-inspection state remains NOT_STARTED.
+The complete spine is accounted for below. Paths use the common prefix `OEBPS/Text/`. This is technical inventory and a coverage contract. At the lock every literary-inspection state was NOT_STARTED; the [V01 deep reading](../02%20Sequential%20Readings/SW_V01_DEEP_READING.md#5-full-admitted-chapter-and-scene-coverage) has since completed inspection of every member under these classes.
 
 | Spine position | Member(s) | Class / future treatment |
 |---|---|---|
@@ -147,3 +147,5 @@ Not repeated in this session: ZIP CRC and resource resolution of the original ar
 A session-local reading projection was derived from the sealed block map for convenience. It prints each block with its element ordinal and shows ruby readings beside their base text. It is disposable working state, is not part of the sealed package, is not a new evidence seal, and is not published. Wording quoted in the V01 reading is checked against the sealed block map rather than against that projection.
 
 Local-only retention is unchanged. No EPUB, normalized text, locator map, image or derivative archive is added to Git or uploaded to Drive.
+
+**Use in the V01 reading.** All 24 image resources were viewed at source resolution from the package’s witness members, and their visual and image-only text content was inspected; image-only text is cited at the image element, which is the finest available locator. The reading cites 516 locators, all confirmed present in the element map, and quotes 64 short fragments, each confirmed verbatim in the base text of a block it cites. The class assignments in the table above held under full reading; no member needed reclassification.
