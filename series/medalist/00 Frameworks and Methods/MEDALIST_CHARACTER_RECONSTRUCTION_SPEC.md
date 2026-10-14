@@ -5,14 +5,14 @@ artifact_type: "character_reconstruction_specification"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.5"
+version: "0.6"
 status: "canonical"
 scope: "Evidence density, monograph and behavioral-model promotion, constraints and validation"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_CHARACTER_RECONSTRUCTION_SPEC.md"
 source_boundary: "Reconstruction contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
-updated: "2026-10-12"
-review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+updated: "2026-10-13"
+review_status: "AUTHOR_REVIEWED_NAMING_RULE_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -44,7 +44,7 @@ Counts are necessary retrieval indicators, not sufficient thresholds. Multiple q
 
 Distinguish stable dispositions from immediate state, vulnerability/coping from an isolated reaction, internal goals from imposed objectives, memories/self-account from witnessed past, competence from confidence, and demonstrated limitations from self-deprecation. Connect changes to identifiable events without assuming every difference is growth.
 
-A substantial monograph explains self-concept, motivations/fears/ambivalence, attention and appraisal, decision patterns, learning, ordinary behavior, interpersonal expectations, skating's significance, authority/agency, family/resources, speech/presentation, formal framing and limits. Answer each with evidence or explicit uncertainty; do not force absent domains into speculative prose.
+A substantial monograph explains self-concept, motivations/fears/ambivalence, attention and appraisal, decision patterns, learning, ordinary behavior, interpersonal expectations, skating's significance, authority/agency, family/resources, speech/presentation, formal framing and limits. Answer each with evidence or explicit uncertainty; do not force absent domains into speculative prose. Monographs, models and evidence indexes name their subjects and every other character under the method's [entity naming and referential clarity](MEDALIST_ANALYTICAL_METHOD.md#entity-naming-and-referential-clarity) rule.
 
 The operational model uses:
 

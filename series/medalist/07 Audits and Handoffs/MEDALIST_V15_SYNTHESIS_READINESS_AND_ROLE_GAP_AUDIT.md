@@ -72,17 +72,17 @@ The question for each candidate responsibility is whether the corpus supports an
 
 | Candidate | Evidence at the boundary | Decision |
 | --- | --- | --- |
-| Monograph: the heroine (MD-CHAR-0004) | Fifteen volumes of continuous focalization; four claims with twelve or more versions; readiness MD-RD-0072; her position at the freeze stated by her in three registers and untested | **PROMOTE**, BOUNDED_PROVISIONAL. Must present the freeze as open. |
-| Monograph: the coach (MD-CHAR-0001) | His history told four times on story pages, the last from its source; method documented case by case; readiness MD-RD-0073, the strongest in the corpus | **PROMOTE**, BOUNDED_PROVISIONAL. One test outstanding: conduct after a result. |
-| Relationship study: coach and pupil (MD-PAIR-0001) | Directional transitions in every volume; a knowledge history with two resolutions, the first of which this project misjudged; readiness MD-RD-0074 | **PROMOTE**. Must carry the correction of MD-RV-0259 and 0261. |
-| Supporting study: the rival and her coach (MD-CHAR-0010, 0021) | Dense through V13: a retraction, a performance of her own, a coach lost; absent from continuity in V14–V15; readiness MD-RD-0067 and 0061 | **PROMOTE as one bounded study**, through V13 with supplements. His motive stays open. |
+| Monograph: Inori Yuitsuka (MD-CHAR-0004) | Fifteen volumes of continuous focalization; four claims with twelve or more versions; readiness MD-RD-0072; her position at the freeze stated by her in three registers and untested | **PROMOTE**, BOUNDED_PROVISIONAL. Must present the freeze as open. |
+| Monograph: Tsukasa Akeuraji (MD-CHAR-0001) | His history told four times on story pages, the last from its source; method documented case by case; readiness MD-RD-0073, the strongest in the corpus | **PROMOTE**, BOUNDED_PROVISIONAL. One test outstanding: conduct after a result. |
+| Relationship study: Inori Yuitsuka and Tsukasa Akeuraji as pupil and coach (MD-PAIR-0001) | Directional transitions in every volume; a knowledge history with two resolutions, the first of which this project misjudged; readiness MD-RD-0074 | **PROMOTE**. Must carry the correction of MD-RV-0259 and 0261. |
+| Supporting study: Hikaru Kamisaki and Yodaka Jun (MD-CHAR-0010, 0021) | Dense through V13: Hikaru's retraction, a performance of her own, Yodaka's departure; absent from continuity in V14–V15; readiness MD-RD-0067 and 0061 | **PROMOTE as one bounded study**, through V13 with supplements. Yodaka's motive stays open. |
 | Specialist: skating, competition and expression | A complete competition record with printed scores; a technical progression; the component mark explained in-story; readiness MD-RD-0071 | **PROMOTE**. Four evidence channels kept apart; no external comparison. |
 | Specialist: manga form | 145 feature records and seventeen motifs across fifteen volumes | **PROMOTE**, with the geometry limit stated. |
 | Specialist: adult doctrines, institutions and burden | More than a dozen named adult positions with cases; two EVALUATION claims; readiness MD-RD-0076 | **PROMOTE**. No verdict beyond the ledger's own stated criteria. |
 | Integrated synthesis with a map of competing readings | The above converge on one problem, what a child owes for being supported; high-impact disputes can be bounded | **PROMOTE**, after cross-specialist review, as an ongoing-series checkpoint. |
-| Supporting studies: Iruka; Daria; Riley Fox; Rio; Suzu; Ryoka and her coach; the heroine's family; the patron's family | Each has a readiness row or a complete outline; none has enough independent situations for a separate argument that the studies above would not contain | **RETAIN as readiness decisions.** Treated inside the relationship, doctrine and integrated syntheses. |
+| Supporting studies: Okazaki Iruka; Karasuba Daria; Riley Fox; Sonidori Rio; Kamoto Suzu; Ryoka Miketa and Nachi Mario; the Yuitsuka family; the Kago family | Each has a readiness row or a complete outline; none has enough independent situations for a separate argument that the studies above would not contain | **RETAIN as readiness decisions.** Treated inside the relationship, doctrine and integrated syntheses. |
 | Dedicated rivalries and peer-network specialist | Peer relations are real and varied; the central rivalry is carried by the supporting study, the rest by the integrated synthesis | **RETAIN.** Reopen when the final is resolved. |
-| Competitive-psychology specialist | The heroine's two modes and her collapse are central; the collapse's cause is unstated and the next test is beyond the boundary | **RETAIN.** Treated inside her monograph. |
+| Competitive-psychology specialist | Inori's two modes and her collapse are central; the collapse's cause is unstated and the next test is beyond the boundary | **RETAIN.** Treated inside Inori's monograph. |
 | Character evidence indexes | The ledgers answer retrieval by key | **NOT NEEDED.** |
 | Operational reconstruction models and `MD-RULE` records | The boundary falls inside a competition; the principal change of Volume 15 is stated and untested; no frozen prospective test exists | **INSUFFICIENT_EVIDENCE. Not promoted** for any character. A readable monograph confers no simulation readiness. |
 | Adaptation and audiovisual specialist | No admitted source | **NOT AUTHORIZED.** |
@@ -98,13 +98,17 @@ The question for each candidate responsibility is whether the corpus supports an
 
 ## Corrections the syntheses must carry
 
-- The judgement at Volume 13 that the coach's declaration was a durable answer to the heroine's guilt was withdrawn at Volume 15 (MD-RV-0259, MD-RV-0261).
-- MD-CL-0028 is a hypothesis about her formation that is not adopted; only its mechanism is established.
-- The trainer's account of what the heroine believes and the heroine's own statement differ and are both recorded (MD-KN-0145, 0146, 0147).
-- The coach is the second of four brothers (erratum at FB01).
-- The cause of the heroine's collapse at the All-Japan Junior is not stated by the work.
-- The champion-coach's motive for leaving his pupil is unknown beyond his stated reason.
+- The judgement at Volume 13 that Tsukasa's declaration was a durable answer to Inori's guilt was withdrawn at Volume 15 (MD-RV-0259, MD-RV-0261).
+- MD-CL-0028 is a hypothesis about Inori's formation that is not adopted; only its mechanism is established.
+- Kanayumi's account of what Inori believes and Inori's own statement differ and are both recorded (MD-KN-0145, 0146, 0147).
+- Tsukasa is the second of four brothers (erratum at FB01).
+- The cause of Inori's collapse at the All-Japan Junior is not stated by the work.
+- Yodaka's motive for leaving Hikaru is unknown beyond his stated reason.
 
 ## Next operation
 
 Author the promoted artifacts; review them against one another for contradiction; write the integrated synthesis; run the release and validation audit. Any source beyond Score 61 needs a new authorization and, on admission, a versioned update of every artifact whose dependencies it changes.
+
+## Naming note (2026-10-13)
+
+Before release this audit was revised to the method's [entity naming and referential clarity](../00%20Frameworks%20and%20Methods/MEDALIST_ANALYTICAL_METHOD.md#entity-naming-and-referential-clarity) rule: candidates and corrections now name the characters they concern. No input, decision or condition changed.

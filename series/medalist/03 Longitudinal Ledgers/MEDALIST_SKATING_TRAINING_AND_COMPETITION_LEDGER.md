@@ -539,4 +539,4 @@ Recorded at the release of the provisional syntheses at `MD-FR-FB02`. No row is 
 
 **Erratum (MD-COMP-0006, FB02 annotation).** The annotation in the FB02 section says that places seven to fifteen of the regional qualifier are fanbook data. They are not: the completed row for MD-COMP-0006 in the V06 section already records all fifteen places and scores from the manga. The fanbook's table agrees with it. What the supplement adds for that competition is ten-element lists for seven programs. For MD-COMP-0007 the annotation stands: places five to fifteen as a ranked table, and one score the manga did not print, are fanbook data.
 
-**Erratum (age).** The frontier paragraph of the V13 section calls the champion of the All-Japan Junior thirteen. By that volume's profile page she is twelve.
+**Erratum (age).** The frontier paragraph of the V13 section calls Hikaru Kamisaki, the champion of the All-Japan Junior, thirteen. By that volume's profile page she is twelve.

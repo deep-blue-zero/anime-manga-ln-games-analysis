@@ -470,7 +470,7 @@ No material change. The [Official Fanbook 02 paratext audit](../02%20Sequential%
 
 Recorded at the release of the provisional syntheses at `MD-FR-FB02`. No feature or motif record is added. Two errata were found by cross-specialist review, and one clarification is added; the rows above are not edited.
 
-**Erratum (MD-MOT-0015, first occurrence).** The motif table registered at V13 dates the heroine's naming of the cold feeling to Volume 4. She first names it in Volume 2, in Short Program 3 (MD-EV-V02-0030), and bids it farewell in Volume 4 (MD-EV-V04-0038). The span of the motif is therefore V02, V04, V10, V13 and V15.
+**Erratum (MD-MOT-0015, first occurrence).** The motif table registered at V13 dates Inori Yuitsuka's naming of the cold feeling to Volume 4. Inori first names it in Volume 2, in Short Program 3 (MD-EV-V02-0030), and bids it farewell in Volume 4 (MD-EV-V04-0038). The span of the motif is therefore V02, V04, V10, V13 and V15.
 
 **Erratum (the maze).** MD-VF-0139 and the V15 reading refer to "the V11 maze". The image is first recorded in Volume 10 (MD-VF-0090, MD-MOT-0014).
 
