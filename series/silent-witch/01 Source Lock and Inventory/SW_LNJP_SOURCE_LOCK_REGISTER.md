@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.12"
+version: "1.13"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
 locked_units: [V02, V03, V04, AFTER04, V05, V06, V07]
-literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14"
+literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14"
 ---
 
 # Japanese LN source lock register
@@ -440,3 +440,5 @@ Common limitations: each witness is a supplied reflowable EPUB whose equivalence
 | block-map.jsonl | `4a6e55d0364cdb56ad99e4a9e9ecbf17aaf1dd07511c6ab4e2d636fd0d105fb0` |
 | element-locators.jsonl | `404f38b27eaadf2d3c2b07810dae34494a0b903aedf89ff9e1162a15cd295371` |
 | validation.json | `9585fb7e8ef4e0dab627b4b609964b3e5d1574e33f207534f47d4759c4dec676` |
+
+**Use in the V07 reading.** Twenty-four of the thirty-three image resources were viewed at source resolution, including the full jacket after the narrative; the cover, title page, illustrated contents, store image, glyph and preview images were not viewed. S33, left to be confirmed on viewing, is a one-line notice that the story continues in VIII; its class is unchanged. The [V07 reading](../02%20Sequential%20Readings/SW_V07_DEEP_READING.md) cites 275 distinct locators, all present in the element map, and quotes 42 short fragments, each verified in the base text of a cited block. No member was reclassified.
