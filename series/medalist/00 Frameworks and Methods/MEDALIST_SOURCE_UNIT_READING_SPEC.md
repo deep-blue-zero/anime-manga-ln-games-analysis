@@ -5,14 +5,14 @@ artifact_type: "source_unit_reading_specification"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.5"
+version: "0.6"
 status: "canonical"
 scope: "Reusable prospective source-unit transaction and completion contract"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_UNIT_READING_SPEC.md"
 source_boundary: "Reading contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
-updated: "2026-10-12"
-review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+updated: "2026-10-13"
+review_status: "AUTHOR_REVIEWED_NAMING_RULE_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -32,6 +32,8 @@ Future collected-volume readings use `02 Sequential Readings/MEDALIST_VNN_DEEP_R
 Before substantive inspection, record the current Git base, owner authorization, source key/Drive ID, independently reproduced hash if available, edition identity, chapter range, locator version, admitted components and exclusions. Structural verification checks ZIP/container integrity, OPF metadata, every relevant manifest/spine reference, image order/resolution and sampled locator round trips without describing narrative. Metadata verification alone is not narrative inspection. Admission requires complete retrievable primary evidence, usable Japanese/page inspection, declared limitations and appropriate authorization.
 
 ## Mandatory section contract
+
+A reading or audit opened after 2026-10-13 names characters under the method's [entity naming and referential clarity](MEDALIST_ANALYTICAL_METHOD.md#entity-naming-and-referential-clarity) rule. Readings closed before that date are frozen and are not rewritten for it.
 
 | Section | Required content and acceptance test |
 | --- | --- |
