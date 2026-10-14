@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.26"
+version: "1.27"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
 locked_units: [V02, V03, V04, AFTER04, V05, V06, V07, V08, V09, EXTRA09, SW-LNJP-V10, SW-LNJP-V11, V12, ANOTHER-UPPER]
-literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14; V09 COMPLETE_CLOSED_2026-10-14; EXTRA09 COMPLETE_CLOSED_2026-10-14; V10 COMPLETE_CLOSED_2026-10-14; V11 COMPLETE_CLOSED_2026-10-14; V12 COMPLETE_CLOSED_2026-10-14"
+literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14; V09 COMPLETE_CLOSED_2026-10-14; EXTRA09 COMPLETE_CLOSED_2026-10-14; V10 COMPLETE_CLOSED_2026-10-14; V11 COMPLETE_CLOSED_2026-10-14; V12 COMPLETE_CLOSED_2026-10-14; ANOTHER-UPPER COMPLETE_CLOSED_2026-10-14"
 ---
 
 # Japanese LN source lock register
@@ -922,3 +922,5 @@ The technical-sample receipt and the retained audit's stored samples were not di
 | block-map.jsonl | `b480ff31dec2b2d83a0bad2f7bf9d835649fac293d6b0a6334cb4f27012c4d2f` |
 | element-locators.jsonl | `fff7f4817974062ddca52963dd827e58ffaea98b0e1ddc204b0fc2cd3639a343` |
 | validation.json | `526d00cb34a98beed033198ec9918c20d5f8f52b7e97f3317e285c2db3e8a4cb` |
+
+**Use in the -another- (upper) reading.** Twenty-two of the thirty-one image resources were viewed, including the colour frontispieces, the eleven narrative illustrations, the character list, the illustrated contents and, after the narrative, the full jacket. The cover, title page, an inline glyph, the letters notice, the four preview images and the store image were not viewed. No member was reclassified. The [-another- (upper) reading](../02%20Sequential%20Readings/SW_ANOTHER_UPPER_DEEP_READING.md) cites 257 distinct locators, all present in the element map, and quotes 10 short fragments, each verified in the base text of a cited block.
