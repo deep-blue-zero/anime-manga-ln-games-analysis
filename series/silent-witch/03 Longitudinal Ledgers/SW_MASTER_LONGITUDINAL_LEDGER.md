@@ -5,11 +5,11 @@ artifact_type: master_longitudinal_ledger
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.2"
+version: "1.3"
 last_updated: "2026-10-14"
 status: canonical
-scope: "Exclusive pre-split cumulative state; Japanese LN V01 and V02 closed and reconciled into every typed section"
-source_boundary: "Japanese LN V01 and V02, witnesses SW-LNJP-V01 and SW-LNJP-V02, closed; no other source unit in any lane analyzed."
+scope: "Exclusive pre-split cumulative state; Japanese LN V01 to V03 closed and reconciled into every typed section"
+source_boundary: "Japanese LN V01 to V03, witnesses SW-LNJP-V01 to SW-LNJP-V03, closed; no other source unit in any lane analyzed."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md"
 supersedes: []
@@ -26,23 +26,23 @@ This is the single pre-split cumulative analytical home specified by [the archit
 
 ```yaml
 longitudinal_state:
-  state: V02_CLOSED
-  committed_high_water_mark: V02
-  analyzed_units: [SW-LNJP-V01, SW-LNJP-V02]
-  frozen_units: [SW-LNJP-V01, SW-LNJP-V02]
-  literary_observations: 252  # V01 reading 001..132; V02 reading SW-E-LNJP-V02-001..120
-  local_character_identities: 31
+  state: V03_CLOSED
+  committed_high_water_mark: V03
+  analyzed_units: [SW-LNJP-V01, SW-LNJP-V02, SW-LNJP-V03]
+  frozen_units: [SW-LNJP-V01, SW-LNJP-V02, SW-LNJP-V03]
+  literary_observations: 391  # V01 reading 001..132; V02 reading 001..120; V03 reading SW-E-LNJP-V03-001..139
+  local_character_identities: 47
   character_models: 0
-  readiness_assessments: 12  # evidence reviews SW-RD-0001..0012; no tier awarded
-  claim_records: 26
-  revision_records: 18  # SW-CR-0001..0018, all at V02 closure
-  prediction_records: 20  # prospective questions SW-P-0001..0020; zero predictions registered
+  readiness_assessments: 16  # evidence reviews SW-RD-0001..0016; no tier awarded
+  claim_records: 34
+  revision_records: 44  # SW-CR-0001..0018 at V02 closure; SW-CR-0019..0044 at V03 closure
+  prediction_records: 26  # prospective questions SW-P-0001..0026; two retired with reason at V03; zero predictions registered
   split_ledger_paths: []
   sequential_analysis_lock: OPEN
   sequential_analysis_lock_scope: CONTINUOUS_RUN_AUTHORIZED_2026-10-14
 ```
 
-The initialization state, preserved here as history, was NO_SOURCE_UNIT_ANALYZED at PRE_V01 with every count at zero. Those zero records were truthful absence of analysis, not findings about the novel. The records below were appended at V01 closure on 2026-10-14 from the [V01 deep reading](../02%20Sequential%20Readings/SW_V01_DEEP_READING.md). They contain no simulated dialogue and no material from any later unit. Records marked as V02 records were appended at V02 closure on 2026-10-14 from the [V02 deep reading](../02%20Sequential%20Readings/SW_V02_DEEP_READING.md) under the same rule.
+The initialization state, preserved here as history, was NO_SOURCE_UNIT_ANALYZED at PRE_V01 with every count at zero. Those zero records were truthful absence of analysis, not findings about the novel. The records below were appended at V01 closure on 2026-10-14 from the [V01 deep reading](../02%20Sequential%20Readings/SW_V01_DEEP_READING.md). They contain no simulated dialogue and no material from any later unit. Records marked as V02 records were appended at V02 closure on 2026-10-14 from the [V02 deep reading](../02%20Sequential%20Readings/SW_V02_DEEP_READING.md) under the same rule, and records marked as V03 records at V03 closure on 2026-10-14 from the [V03 deep reading](../02%20Sequential%20Readings/SW_V03_DEEP_READING.md).
 
 ## Common record contract
 
@@ -55,6 +55,8 @@ The common fields apply to all sections. The following field lists define each s
 **V01 record defaults.** Unless a row says otherwise, every V01 record has: continuity Japanese LN main track; witness and source unit `SW-LNJP-V01`; diegetic interval from three months after the Worgan dragon to one week after Thornley’s arrest; disclosure boundary V01; created and last updated at V01 closure, 2026-10-14; no supersession. The canonical observation reference is the `obs.` number in the [V01 reading](../02%20Sequential%20Readings/SW_V01_DEEP_READING.md#614-observation-register), meaning `SW-E-LNJP-V01-<nnn>`. The evidence route is that observation, then its locator, then the locally retained sealed locator package. Evidence classes use the method’s grammar abbreviated as OTE, CRB, NP, SI, WH, SP, NE, CON and UQ. Romanized names are analyst conveniences.
 
 **V02 record defaults.** Every V02 record has: continuity Japanese LN main track; witness and source unit `SW-LNJP-V02`; diegetic interval from about two weeks after Monica’s enrolment to about six weeks after it, the evening of the delivery day; disclosure boundary V02; created and last updated at V02 closure, 2026-10-14; no supersession unless stated. Its `obs.` numbers refer to the [V02 reading](../02%20Sequential%20Readings/SW_V02_DEEP_READING.md#618-observation-register), meaning `SW-E-LNJP-V02-<nnn>`, and its bare locators to `SW-LNJP-V02`. A V01 observation cited in a V02 record is written `V01 obs. nnn`.
+
+**V03 record defaults.** Every V03 record has: continuity Japanese LN main track; witness and source unit `SW-LNJP-V03`; diegetic interval from about a week after Casey’s removal, some six weeks into the mission, to the morning after the Coalrapton bell-ringing festival, with a prologue set at Minerva some years earlier and a secret episode shortly after the festival; disclosure boundary V03; created and last updated at V03 closure, 2026-10-14; no supersession unless stated. Its `obs.` numbers refer to the [V03 reading](../02%20Sequential%20Readings/SW_V03_DEEP_READING.md#619-observation-register), meaning `SW-E-LNJP-V03-<nnn>`, and its bare locators to `SW-LNJP-V03`. Earlier observations are written `V01 obs. nnn` or `V02 obs. nnn`.
 
 **Local identities at V01.** These keys resolve inspected identity only and are not global enrollments.
 
@@ -94,8 +96,29 @@ The common fields apply to all sections. The following field lists define each s
 | sw.eliane | エリアーヌ; エリアーヌ・ハイアット | Felix’s second cousin; house given variously, V02 reading section 8.8. Not on stage. |
 | sw.lionel | ライオネル | First prince. Not on stage. |
 | sw.count-bright | ブライト伯爵 | Casey’s father. Not on stage except in memory. |
-| sw.monica-father | モニカの父 | Unnamed. Known from memory and delirium. |
+| sw.monica-father | モニカの父; named ヴェネディクト・レイン at V03 | Unnamed until V03, where his book names him, SW-C-0032. Known otherwise from memory and delirium. |
 | sw.monica-uncle | 叔父 | Unnamed; the man in the V01 dream, SW-C-0003. |
+
+**Local identities added at V03.**
+
+| Local key | Japanese name and aliases in V03 | Identity notes |
+|---|---|---|
+| sw.bernie | バーニー・ジョーンズ; アンバード伯爵家の次男 | Minerva student and chess captain; the Minerva friend of V01–V02, SW-C-0027. |
+| sw.rutherford | ギディオン・ラザフォード | Minerva professor; Monica’s laboratory head. In memory only. |
+| sw.robert | ロベルト・ヴィンケル | Randall exchange student at the temple-affiliated academy. |
+| sw.benjamin | ベンジャミン・モールディング | Serendia third-year; chess team. |
+| sw.redding | レディング | Teacher of the temple-affiliated academy. |
+| sw.pittman | ユージン・ピットマン | Minerva teacher; dead; his body was used to stage the impostor’s suicide, SW-C-0031. |
+| sw.yuan | ユアン | Imperial agent; impersonated Pittman by body magic. Assigned names only as given in the text. |
+| sw.heidi | ハイディ | Yuan’s pupil and partner. |
+| sw.duke-clockford | ダライアス・ナイトレイ; クロックフォード公爵 | Felix’s maternal grandfather; first on stage at V03. |
+| sw.bartholomeus | バルトロメウス; バルトロメウス・バール | Imperial craftsman; forger of the V02 crest. |
+| sw.porter | ポーター; pen name ダスティン・ギュンター | Bookseller and novelist; friend of Monica’s father. |
+| sw.doris | ドリス | Prostitute at Madam Cassandra’s house. |
+| sw.cassandra | マダム・カサンドラ | Proprietor of the house. |
+| sw.irene | アイリーン | Named in Felix’s dream as the mother of the boy addressed as Felix. Not on stage. |
+| sw.felix-page | 従者の少年 | Felix’s attendant in Elliott’s memory and the page in Felix’s dream; whether these are one person is not stated. Unnamed. |
+| sw.felix-friend | 友人 | The friend whose wish Felix pursues; presumed dead by Monica. Unnamed; no identity with any other key is asserted, SW-C-0022. |
 
 ## 1. Character state and speech — SW-S
 
@@ -159,6 +182,31 @@ Records at V02:
 | SW-S-0043 | sw.isabelle | Theatrical admirer → also a deliberate policy-maker for Monica’s protection. | REVEALED_NOT_NEW | Debt to the Silent Witch → villainess performance as deterrence → mirrored revenge. | Stage villainess in public, devotee in private. | 052, 055 | CRB | R: enjoyment of the role. U: none. |
 | SW-S-0044 | sw.glen, sw.maclaggan, sw.bridget, sw.neil | Thin entries: Glen, generous, loud, powerful and imprecise, rule-bending; MacLaggan, fond teacher with poor eyesight and unstated knowledge; Bridget, clever and cold, unconvinced; Neil, kind, competent, sensitive about height and his engagement. | REVEALED_NOT_NEW | — | — | 015, 016, 018, 039, 041, 089 | OTE, CRB | Keep explicitly thin. |
 
+Records at V03:
+
+| ID | Key | State before → after | Kind | Process: perception → appraisal/affect → options → act/speech → consequence | Persona/private; recipient; register | Obs. | Class | Rival; uncertainty |
+|---|---|---|---|---|---|---|---|---|
+| SW-S-0045 | sw.monica | History before Minerva and at Minerva disclosed: a long silence; the friend Bernie who needed her dependence; the shortened-chant occasion; selection via Rutherford; an adoptive mother; father named Venedict Rain; repeated beatings by the uncle; scars. | REVEALED_NOT_NEW | Others’ memories and her own; the father’s book found. | Prologue in Bernie’s view; book scene private. | 003–009, 023, 105, 106, 121, 133 | OTE, CRB | R: Bernie’s retrospection is self-serving. U: passage from uncle to guardian. |
+| SW-S-0046 | sw.monica | Wanted Bernie’s approval for years → renounces it after defending Lana. | DISPOSITION_CHANGE | Friend insulted → anger → full declaration → renunciation; eyes no longer reflect him. | To Bernie, before Lana; plain form. | 042–046 | OTE | R: momentary. U: durability, SW-P-0025. |
+| SW-S-0047 | sw.monica | Asks nothing for herself → asks for a wish, names a selfish motive, reaches out first. | DISPOSITION_CHANGE | Wager → wish; theft → mourning motive; Felix hurt → offers her hand as a ghost. | To Felix as Ike; to the tool. | 025, 088, 097, 100 | OTE | R: festival exception. U: persistence. |
+| SW-S-0048 | sw.monica | Cannot fly → flies by riding technique; computes combat; casts mind interference on a tool. | REVEALED_NOT_NEW; capacity extended | Necessity → fear → recalled lessons → improvised method. | Alone; Lynn by voice. | 095–099 | OTE, NP | R: none. U: none. |
+| SW-S-0049 | sw.monica | Fear of people and touch unchanged; numbers used to bear people; secrecy toward friends continues. | UNRESOLVED | Touch → stiffening; crowds → memory; friends → partial accounts. | — | 013, 058, 076, 087, 117, 130 | OTE, CRB | R: none. U: none. |
+| SW-S-0050 | sw.felix | Wish withheld → a ten-year vow to inscribe the name Felix Arc Ridill in history; must become king without wanting it; magic study forbidden to him; nights in the town gathering the duke’s malcontents. | REVEALED_NOT_NEW | Duke’s contempt → emptied obedience; special day → vow restated. | 私 to the duke and of kingship. | 061, 065, 082, 101, 103 | OTE | R: ordinary ambition. U: why the vow and the prohibition. |
+| SW-S-0051 | sw.felix | Taming game → Ike: laughter, 僕, the ghost conceit, permission to value the book, mourning a friend; then the pendant as possession and farewell, and the prince’s smile restored. | RELATIONSHIP_CHANGE | Finds her → masks → kindness to her fear → morning test and gift. | 僕 as Ike; 私 resumes. | 078, 087, 100, 107, 109, 118–122 | OTE, CRB | R: performance. U: attachment’s object, SW-C-0029. |
+| SW-S-0052 | sw.felix | Cluster extended: child in Elliott’s memory, dream of a boy called Felix and a page, dead friend, necessary scar, eye colours. | UNRESOLVED | — | Dream boy described from outside. | 018–020, 065, 070, 109, 112–114, 121 | OTE, CRB, UQ | No hypothesis, SW-C-0022. |
+| SW-S-0053 | sw.bernie | Rescuer and helper who needed her dependence → envious rival → knows her identity and mission and covers for her, demanding gratitude. | REVEALED_NOT_NEW; KNOWLEDGE_CHANGE | Envy → accusation → defeat → impostor → protective lie. | 僕; distant 貴女 throughout. | 001–009, 035, 042, 046, 050–056 | OTE, CRB | R: repentance vs possession, V03 section 8.2. U: motive. |
+| SW-S-0054 | sw.louis | Coercer and investor → also the source of the verdict that she is heartless and was chosen for it; investigator of the Empire’s role. | REVEALED_NOT_NEW | Memory of the dragon campaign → contempt and pity. | 私; candour with Casey. | 029, 072, 073, 123, 128, 130, 131 | CRB | R: his verdict is half right. U: none. |
+| SW-S-0055 | sw.mary | Named Sage → eldest, comic and wilful; reads Felix’s unreadable star; permits the theft; tests Monica; sees a star of loss near hers. | REVEALED_NOT_NEW | Stars → test → silence when questioned. | あたくし; playful register. | 067–071, 093, 115, 116 | CRB | R: protective intent. U: aim, SW-P-0024. |
+| SW-S-0056 | sw.elliott | Contempt for upstarts explained by his uncle’s ruin; warns Monica; remembers the child Felix. | REVEALED_NOT_NEW | Shame at castling → apology in effect → memory → warning. | 俺. | 017–022 | CRB | R: none. U: none. |
+| SW-S-0057 | sw.lana | Friend → armourer and defender who names Bernie’s envy. | REVEALED_NOT_NEW | Prepares Monica; intervenes; proud. | わたし; sharp to Bernie. | 032, 044, 049 | OTE | R: none. U: none. |
+| SW-S-0058 | sw.cyril, sw.claudia, sw.isabelle, sw.bridget | Thin: Cyril strongest duelist, self-blaming, protective; Claudia politically lucid, calls Felix a puppet; Isabelle explains the festival and gives up her wish; Bridget probes Monica’s education. | REVEALED_NOT_NEW | — | — | 015, 016, 038, 057, 059, 063, 066, 089 | OTE, CRB | Keep thin. |
+| SW-S-0059 | sw.benjamin, sw.robert, sw.maclaggan, sw.boyd, sw.redding | Thin: Benjamin’s musical chess; Robert’s proposal; MacLaggan’s emphasized remark; Boyd’s apology; Redding’s sneer. | REVEALED_NOT_NEW | — | — | 027, 037, 040, 047 | OTE | Keep thin. |
+| SW-S-0060 | sw.bartholomeus | Imperial craftsman exiled for striking his master; forger; victim of the tool; smitten with the “Silent Witch” he believes Lynn to be; takes the uniform commission. | REVEALED_NOT_NEW | — | 俺; rough. | 074, 077, 080, 090, 124 | OTE | R: none. U: none. |
+| SW-S-0061 | sw.porter | Curt bookseller and novelist; father’s friend; prices the book at two gold coins. | REVEALED_NOT_NEW | — | 僕. | 102, 106, 126 | OTE | R: none. U: SW-P-0026. |
+| SW-S-0062 | sw.yuan, sw.heidi | Imperial agent with an unstable face and his pupil; escape; intent to expose Felix’s and Monica’s secrets. | REVEALED_NOT_NEW | Defeat → analysis → identifies Monica as obstacle. | Yuan’s feminine register; Heidi stiff. | 051–053, 123, 125 | OTE | R: none. U: sponsor. |
+| SW-S-0063 | sw.duke-clockford | Reported power → on stage: commands the school, despises Felix in private. | REVEALED_NOT_NEW | — | 私; imperative. | 060, 061, 113 | OTE | R: none. U: aims. |
+| SW-S-0064 | sw.casey, sw.doris, sw.cassandra | Thin: Casey at the convent, concerned for Monica; Doris and Madam Cassandra as Felix’s night-town intermediaries. | REVEALED_NOT_NEW | — | — | 081–083, 127–131 | OTE | Keep thin. |
+
 ## 2. Directional relationships and obligations — SW-R
 
 Owns A-to-B relationship change; B-to-A is separate even within a shared episode.
@@ -219,6 +267,27 @@ Records at V02:
 | SW-R-0041 | Bridget → Felix | Probing, unseduced; childhood acquaintance. | Tests his memory. | — | Underwater exchange at tea. | Her own judgment of Monica. | 039 |
 | SW-R-0042 | Casey → Felix | Would-be assassin of the duke’s candidate. | — | Father’s order. | Thwarted. | Bright and Randall. | 080, 081 |
 
+Records at V03:
+
+| ID | Actor → recipient | Relation and actor’s aim | Trust and disclosure, before → after | Obligation, power, initiative | Concealment, conflict, repair | Reciprocity; independent goals | Obs. |
+|---|---|---|---|---|---|---|---|
+| SW-R-0043 | Monica → Bernie | Former friend; wanted his approval. | Longing and fear → renunciation; gratitude for his cover. | She defends Lana first. | Wants to apologize; asks why he protected her. | Asymmetric. | 028, 043, 045, 058 |
+| SW-R-0044 | Bernie → Monica | Envious former helper. | Contempt → knows her identity and mission; protects her cover. | Holds her secret. | Demands lifelong gratitude. | His own pride. | 004, 046, 054, 056 |
+| SW-R-0045 | Monica → Felix | Guard and, for one night, fellow ghost. | Wariness → gratitude and play; wants nothing from him. | She reaches out first. | Hides her identity and mission; keeps the pendant locked away. | No romantic interest shown. | 100, 107, 119, 120, 126 |
+| SW-R-0046 | Felix → Monica | Pet, fellow delinquent, keeper of Ike’s memory. | Suspected assassin → secret-sharer. | Pays for the book; gives the pendant. | Self-exposure at the throat; possessive gift. | Seeks to be remembered. | 087, 107, 118, 119 |
+| SW-R-0047 | Felix → the Silent Witch | Admiration he calls first love. | Papers collected; face never seen. | Plans to meet her as king. | — | Absorption in her magic. | 103, 104 |
+| SW-R-0048 | Duke Clockford → Felix | Commander and grandfather. | Public warmth; private contempt. | Commands the school; punished the boy through his page (dream). | — | The house’s authority. | 061, 113 |
+| SW-R-0049 | Felix → Duke Clockford | Obedient grandson outwardly. | Emptied compliance. | Gathers nobles who resent the duke. | Concealed. | Vow to the name. | 061, 082 |
+| SW-R-0050 | Felix → the friend | Mourner and promise-keeper. | — | Pursues the friend’s wish. | — | Unnamed friend, presumed dead. | 101, 109 |
+| SW-R-0051 | Monica → Lana | Friend defended. | Trust; credits her with steadiness. | Defends her against Bernie. | Still hides her identity. | Mutual. | 045 |
+| SW-R-0052 | Lana → Monica | Friend, armourer, defender. | Guesses without prying. | Dresses and defends her. | — | Mutual. | 032, 044, 049 |
+| SW-R-0053 | Elliott → Monica | Suspicious respect; warning. | — | Teaches by warning. | Apologizes in effect. | His code. | 017, 022 |
+| SW-R-0054 | Louis → Monica | Instrumental user who judges her heartless. | Unchanged. | Lends Lynn; reports. | Contemptuous verdict to Casey. | Mission. | 029, 131 |
+| SW-R-0055 | Mary → Monica | Colleague, user of her computations, tester. | — | Permits a crisis to test her. | Silent when questioned. | The stars’ reading. | 070, 093, 115, 116 |
+| SW-R-0056 | Casey → Monica | Former friend at a distance. | Concern. | Sends a package without her name. | Angered by Louis’s verdict. | — | 129, 131 |
+| SW-R-0057 | Porter → Monica’s father | Friend. | — | Values his book. | — | — | 106 |
+| SW-R-0058 | Yuan → Monica, Felix | Hunter of secrets. | — | Commissions a forged uniform. | — | Imperial mission. | 125 |
+
 ## 3. Chronology and epistemic state — SW-K
 
 Owns proposition-specific participant/reader knowledge and event/revelation order.
@@ -270,6 +339,22 @@ Records at V02:
 | SW-K-0032 | The duke plans war on Randall as a step to the Empire. | — | Believed by Casey and Count Bright via Randall nobles. | Unverified report. | No scene with the duke. | 081 |
 | SW-K-0033 | Claudia was following Monica over Neil. | Week before the poisoning. | Claudia, Monica, reader. | Stated by Claudia. | Whether she also suspects more, unknown. | 048, 050 |
 | SW-K-0034 | MacLaggan does or does not recognize Monica. | V02. | Unknown. | Unresolved. | His remark in the secret episode. | 016, 089 |
+
+Records at V03:
+
+| ID | Proposition | Anchors | Knower: status | Truth assessment | Change source; withheld information | Obs. |
+|---|---|---|---|---|---|---|
+| SW-K-0035 | Monica Norton is the Silent Witch. | V03 exit. | Known: Monica, Nero, Louis, Lynn, Isabelle and her house, Casey, Bernie, Mary. Probable: MacLaggan. Suspicion of something: Yuan. Not known: Felix, Cyril, the council, Lana, Claudia, Glen. | True. | Bernie by test. | 042, 047, 125 |
+| SW-K-0036 | Monica secretly guards Felix. | V03 exit. | Known: Louis, Lynn, Nero, Isabelle, Bernie. Not known: Felix, council. | True. | Bernie inferred from her commands. | 054 |
+| SW-K-0037 | Felix studies magic, admires the Silent Witch and goes out at night. | Festival night. | Known: Felix, Wildianu; Monica now knows the study, the admiration and the nights. | True. | Felix told her. | 065, 082, 103 |
+| SW-K-0038 | The impostor escaped; the body in the cell was the real Pittman. | Day after the festival. | Known: Louis, Lynn; Yuan, Heidi. Monica told in part. | True per Louis and Yuan. | Withheld from the school. | 122, 123, 125 |
+| SW-K-0039 | Mary let the tool be stolen. | Festival night. | Mary; Lynn infers. | Not denied. | Mary’s reason withheld. | 116 |
+| SW-K-0040 | The maid is the Silent Witch. | Festival night. | Believed by Bartholomeus. | False. | Overheard word. | 124 |
+| SW-K-0041 | Porter is Dustin Günther and was Venedict Rain’s friend. | Festival night and morning. | Monica, Porter. | True. | Nero’s book. | 106, 126 |
+| SW-K-0042 | Felix suspected Monica of being an assassin. | Festival night. | Felix, Monica. | True as stated. | Felix told her. | 118 |
+| SW-K-0043 | Ten-year markers: Felix’s vow; Mary’s unreadable star. Elliott met the child Felix at six. | About ten years before V03. | Respective speakers. | Stated. | Relation unstated. | 018, 065, 070 |
+| SW-K-0044 | Casey sent Monica a package. | After the festival. | Casey, Louis. | True. | Contents withheld. | 131 |
+| SW-K-0045 | Interval and dates: about two months into the mission; the tournament a week before the festival; the bell festival the next evening; Monica nearly seventeen; her father’s book burned five years ago; the black dragon about half a year ago. | V03. | Reader. | Partial order. | — | 024, 066, 099, 105, 129 |
 
 ## 4. Institutions, world and magic — SW-W
 
@@ -329,6 +414,25 @@ Records at V02:
 | SW-W-0039 | Academy life | Electives two of twenty-plus; dance and tea classes; cafeteria service billed to fees; fire needs application; festival play of the founding king and seven spirit kings. | Narrator, characters | — | — | S13:E000107; S16:E000056; S17:E000595–E000602; S22:E000029–E000031; S22:E000193–E000202 |
 | SW-W-0040 | Reference paratext kept apart | Card statements absent from the narrative. | Character cards | — | Not narrative evidence. | S30:E000004–S33:E000004 |
 
+Records at V03:
+
+| ID | Domain | Current formulation | Asserting source | Demonstration; conditions and costs | Exceptions; open points | Locators |
+|---|---|---|---|---|---|---|
+| SW-W-0041 | Minerva | Gideon Rutherford’s laboratory produces Sages; MacLaggan taught practical magic; the journal 『ミネルヴァの泉』 appears twice a year, mostly magic research. | Bernie, Monica, narrator | — | — | S11:E000457–E000459; S23:E000151–E000153 |
+| SW-W-0042 | Inter-school chess | Serendia, the temple-affiliated academy and Minerva, three a side; Serendia won last year. | Narrator, Redding | Tournament. | — | S15:E000587; S15:E000681 |
+| SW-W-0043 | Magic battle | Duel in a barrier that converts damage to mana drain; physical attacks nullified after a past abuse. | Felix | Cyril’s duel. | Past student unnamed. | S13:E000558–E000577 |
+| SW-W-0044 | Body magic | Forbidden worldwide except the Empire, Schwargald; dragonization grants scales, strength and speed with a weak brow; face alteration unstable after it. | Bernie, Louis, Yuan | Impostor. | — | S17:E000370–E000409; S26:E000574; S28:E000138–E000147 |
+| SW-W-0045 | Seven Sages | Roster complete: Silent, Barrier, Star-reading (eldest), Jewel (Emmanuel Darwin), Thorn (Raul), Cannon (Bradford), Abyss Curse (Ray). | Mary, Felix | — | Revises SW-W-0018’s unnamed seventh. | S19:E000131; S21:E000450 |
+| SW-W-0046 | Ancient tools | From an age of magic as mystery; unanalysable; wilful; irreparable; mostly national treasures. 〈星紡ぎのミラ〉 draws land mana, converts it to attack, manipulates low-resistance holders, kills male owners; sealed by a first-class barrier. | Louis, Mary, narrator | The theft and flight. | Sages resist its control. | S19:E000396–E000432; S20:E000026–E000037; S25:E000403 |
+| SW-W-0047 | Magic offering | Mana release returns gathered land mana to the sky; excess mana draws spirits and dragons and harms people. | Mary, narrator | Offering seen. | — | S19:E000171–E000180; S23:E000448–E000452 |
+| SW-W-0048 | Bell-ringing festival | Harvest thanks to the earth spirit king turned mourning for the dead loosed by the truant gatekeeper; animal costumes; bells; split pastry. | Isabelle, narrator | Coalrapton. | — | S18:E000438–E000475; S22:E000030; S23:E000459 |
+| SW-W-0049 | Detection and flight | Detection is a speciality whose reading takes experience; flight is mana-hungry; flying limits Monica to one further spell. | Narrator | Monica. | — | S21:E000687–E000703; S22:E000487; S22:E000586 |
+| SW-W-0050 | Mind interference | Quasi-forbidden, permitted only in specified situations; effective on a tool with a human will. | Narrator, Lynn | Dream on the tool. | Mary’s tolerance asserted by Lynn. | S22:E000579–E000583; S22:E000625–E000627 |
+| SW-W-0051 | Spirit contract | Requires the contractor’s innate element to match the spirit’s. | The page in Felix’s dream | — | Dream source. | S25:E000247 |
+| SW-W-0052 | Randall and the Empire | The 螺炎’s ruby came from the imperial Glocken mine, rarely exported; Louis fears an Empire–Randall alliance and war. | Louis | — | Hypothesis. | S28:E000112–E000154 |
+| SW-W-0053 | Coalrapton night town | Brothels and stalls; nobles meet there; Porter’s shop of academic and rare books. | Narrator | Festival night. | — | S21:E000115–E000197; S23:E000106–E000121; S23:E000280 |
+| SW-W-0054 | Convent refuge | Richerwood, in the northern mountains, shelters women with circumstances. | Narrator | Casey. | — | S28:E000024–E000025 |
+
 ## 5. Load-bearing claims and revision history — SW-C / SW-CR
 
 SW-C owns the current bounded formulation and its retrieval route. Fields: claim ID; question/domain; formulation; source/knowledge range; class; support; counterevidence; alternatives; confidence and reason; current transition/state; discriminating observation; dependent artifacts/IDs; revision references.
@@ -346,36 +450,44 @@ SW-CR owns append-only change events. Fields: revision ID; claim ID; earlier for
 
 An initial claim has no invented predecessor. It may begin OPEN or another justified initial assessment; a revision event requires an actual previous formulation. Preserve rejected claims for provenance rather than deleting their IDs. Normative criteria are explicit and separate from evidence confidence.
 
-Claim records. Rows SW-C-0001 to SW-C-0018 were registered at V01 and now show the current formulation after V02 review; their V01 wording is preserved in the revision records below. Rows SW-C-0019 onward were registered at V02.
+Claim records. Rows SW-C-0001 to SW-C-0018 were registered at V01, rows SW-C-0019 to SW-C-0026 at V02, and rows SW-C-0027 onward at V03. Every row shows the current formulation after V03 review; earlier wording is preserved in the revision records below.
 
 | ID | Question | Formulation | Range; class | Support | Counterevidence; alternatives | State; confidence | Discriminating observation | Dependents |
 |---|---|---|---|---|---|---|---|---|
-| SW-C-0001 | Origin of the silence | Chantless casting began as avoidance of speech, and silence and mastery are one mechanism; the avoidance has an earlier root in childhood punishment for speaking, while the public account explains the capacity as instant computation. | V01–V02; NP, SI | V01 obs. 007, 033; V02 obs. 011, 016, 045 | Capacity may exceed any cause; the public account is not false. | REVISE at V02 (SW-CR-0001); high. | Monica’s own account of how she learned it. | SW-S-0002; SW-S-0026 |
-| SW-C-0002 | Fear response | Pain, fear or exposure drive Monica into numerical absorption; the habit began as a vow to keep her father’s numbers. | V01–V02; NP | V01 obs. 014, 037, 071, 072, 085; V02 obs. 004, 038, 044 | Habit rather than defence. | STRENGTHEN at V02 (SW-CR-0002); high. | Fear without absorption. | SW-S-0003; SW-F-0006 |
-| SW-C-0003 | Past harm | The man in the V01 dream is Monica’s paternal uncle, who after her father’s execution beat her for reciting numbers and defending him and imposed silence about him in public. | V01–V02; CRB under drug, SI | V01 obs. 037, 040, 057–059; V02 obs. 045 | Drug distortion; V02 reading section 8.1. | REVISE at V02 (SW-CR-0003): identity resolved; duration and end OPEN. | Sober account or third-party report. | SW-S-0004; SW-S-0026; SW-P-0005 |
-| SW-C-0004 | Selection | The makeweight self-assessment is contradicted by Louis’s memory of the duel; the examiners’ ranking is unstated. | V01; CRB | obs. 013, 117 | Louis’s memory may be self-serving. | OPEN on examiners; high that her belief lacks support. Reviewed at V02: PRESERVE (SW-CR-0004). | Any examiner’s statement. | SW-S-0008; SW-K-0016 |
-| SW-C-0005 | Mission purpose | Stated protection; Monica doubts it; Louis reads surveillance, uses a decoy, chose Monica partly for her distrust of people, and calls himself first-prince because he dislikes the duke and Felix; the king is unshown. | V01–V02; CRB | V01 obs. 034, 119; V02 obs. 010, 096 | Protection and surveillance may coexist. | STRENGTHEN and partly REVISE at V02 (SW-CR-0005); king’s intent OPEN. | King or royal agent on stage. | SW-K-0005; SW-P-0007 |
-| SW-C-0006 | The watcher | The prologue’s watcher is Felix. | V01–V02; OTE | V01 obs. 003, 024, 122; V02 obs. 064, 088 | — | STRENGTHEN to OTE at V02 (SW-CR-0006). | — | SW-S-0012; SW-S-0034 |
-| SW-C-0007 | Felix’s divergence | Public and private selves diverge: he denies a talent for magic while studying it and hiding a spirit; he removes the duke’s placements while professing he cannot defy him; he must become king without wanting what is prepared for his name, holding the role while he bears it. | V01–V02; OTE, SI | V01 obs. 020, 062, 077, 078, 120; V02 obs. 014, 062, 065, 077 | Prudence rather than resistance. | STRENGTHEN at V02 (SW-CR-0007); motive OPEN. | Felix’s wish disclosed. | SW-S-0009; SW-S-0010; SW-S-0035; SW-C-0022 |
-| SW-C-0008 | Recognition by Felix | Felix has not identified Monica as the Silent Witch; at V02 exit he is searching the school for her and his search excludes Monica. | V01–V02 exit; OTE | V01 obs. 069, 122; V02 obs. 087 | — | STRENGTHEN at V02 (SW-CR-0008). | Felix witnessing her magic. | SW-P-0003; SW-P-0014 |
-| SW-C-0009 | Recognition by Cyril | Cyril holds an unverified suspicion from her hand and remark (V01), and at V02 links the forest mage with the Silent Witch; V02 shows no renewed link to Monica. | V01–V02 exit; SI, CRB | V01 obs. 111; V02 obs. 054 | Idle curiosity. | REVISE at V02 (SW-CR-0009). | Cyril acting on either link. | SW-P-0004; SW-S-0038 |
-| SW-C-0010 | Form of power | Awe at Monica’s power is narrated through external focalizers; from V02 her own viewpoint also narrates her power, as calculation under constraint. | V01–V02; SI | V01 obs. 002, 056, 098, 106, 117; V02 obs. 004, 025, 083, 086 | The V01 staircase anticipated this. | REVISE at V02 (SW-CR-0010). | — | SW-F-0001; SW-F-0010 |
-| SW-C-0011 | Rank and truth | The school treats rank as epistemic authority; Cyril’s inquiry is the first counterexample; at V02 rank is also used as a weapon of justice (Felix, Isabelle) and Elliott’s code ties rank to duty. | V01–V02; OTE, NP | V01 obs. 058, 091; V02 obs. 021, 024, 052, 053 | Cyril’s fairness may be exceptional. | STRENGTHEN at V02 (SW-CR-0011). | Further authorities’ conduct. | SW-W-0023; SW-S-0007 |
-| SW-C-0012 | Thornley’s crimes | Organized embezzlement; erased Aaron’s and Cyril’s memories; Selma’s manipulation inferred. | V01; CRB, OTE | obs. 022, 081, 108 | Selma acted alone. | Aaron and Cyril established; Selma inferred. Reviewed at V02: PRESERVE (SW-CR-0012). | Thornley’s interrogation results. | SW-K-0011; SW-K-0012 |
-| SW-C-0013 | Nero’s nature | Neither an ordinary cat nor, in Felix’s judgment, a spirit. | V01; CRB | obs. 072, 102 | Unusual familiar spirit. | OPEN. Reviewed at V02: PRESERVE (SW-CR-0013). | Disclosure of origin. | SW-P-0008 |
-| SW-C-0014 | Talent as curse | Monica regards her talent as a curse that took her father and friend; her father was executed as a heretic for forbidden research into the body as number, and the friend turned away when she mastered chantless magic. | V01–V02; CRB, NP | V01 obs. 090, 101; V02 obs. 034, 044 | Delirium distortion. | REVISE at V02 (SW-CR-0014); research OPEN. | Account of the research. | SW-S-0008; SW-S-0025; SW-P-0017 |
-| SW-C-0015 | Friendship | The bond with Lana rests on shared experience of being called boring and being out of place, and on mutual gestures of giving; Lana began from pride and stays from affection. | V01–V02; OTE, CRB | V01 obs. 031, 046, 083, 112; V02 obs. 008, 029, 031, 032 | Convenience on Lana’s side. | STRENGTHEN and REVISE at V02 (SW-CR-0015). | Disclosure strain. | SW-R-0007; SW-R-0008; SW-R-0023; SW-R-0024 |
-| SW-C-0016 | Comedy and harm | The comedy of coercion registers harm in most cases; the non-consensual kiss is unevaluated and unknown to its recipient. | V01; NE | obs. 010, 073, 076, 092 | The narration treats it as harmless play. Criterion: whether effect on the affected person is registered independent of tone. | Recorded. Reviewed at V02: PRESERVE; UNTESTED (SW-CR-0016). | Any later revisiting. | SW-F-0008 |
-| SW-C-0017 | Louis’s stance | Louis combines coercion with investment in her self-respect and his own pride; at V02 also gifts, an unknowing decoy, and a concession calculated to keep her cooperation. | V01–V02; CRB, SI | V01 obs. 011, 117, 118; V02 obs. 009, 010, 096, 099 | Pure self-interest. | STRENGTHEN at V02 (SW-CR-0017). | Louis acting against her interests. | SW-S-0017; SW-S-0036 |
-| SW-C-0018 | Source of perception | Monica’s numerical perception and comfort derive from her father’s teaching; she memorized his burning numbers as proof he lived and keeps his coffee pot. | V01–V02; NP, CRB | V01 obs. 026, 043, 044; V02 obs. 034, 044, 058 | Innate disposition. | STRENGTHEN at V02 (SW-CR-0018). | — | SW-S-0001; SW-S-0025 |
-| SW-C-0019 | Casey and the prologue | Casey Grove is the prologue’s unnamed conspirator, acting on Count Bright’s order with a 螺炎, from grievance at central neglect and gratitude to Randall; her friendship was begun instrumentally and its later reality is left ambivalent. | V02; OTE for identity, UQ for feeling | V02 obs. 027, 070, 079–082, 097, 111 | Partly genuine friendship. | Identity established; feeling OPEN. | Casey’s later testimony. | SW-S-0040; SW-P-0019 |
-| SW-C-0020 | Duty | Monica derives a concept of duty from Elliott’s noblesse oblige and transposes it to her roles as treasurer and Sage; the climax is narrated as acceptance of the title as responsibility. | V02; SI | V02 obs. 024, 033, 083, 084 | Compliance under pressure. | Strong inference. | Her conduct when duty and fear conflict again. | SW-S-0027 |
-| SW-C-0021 | Concealment of the attempt | Monica’s concealment is a political bargain using Louis’s factional logic, at a cost to Cyril and her conscience; the volume presents it sympathetically and leaves its justice unjudged. | V02; NE | V02 obs. 095, 096, 098 | Mercy as plain virtue. Criterion: costs to others registered. | Recorded. | Later consequences. | SW-F-0015 |
-| SW-C-0022 | Felix’s discontinuities | A cluster of unexplained details surrounds Felix’s identity and history: Bridget’s childhood test, his memory of a boy apologizing as a royal, the role held while he bears the name, the seer’s blindness to his star. No hypothesis is registered. | V02; UQ | V02 obs. 039, 049, 062, 093 | Ordinary nostalgia and rhetoric. | OPEN. | Any disclosure about his childhood. | SW-P-0016 |
-| SW-C-0023 | Affiliation | Monica says she cannot expect anything of anyone or be absorbed in anyone, while her conduct shows growing attachment; no romantic interest on her side is shown; Felix’s first-love-like absorption is directed at the Silent Witch as an idea. | V02; CRB, SI | V02 obs. 038, 057, 071, 088 | Her statement is accurate for romance. | Recorded. | Her own account of attachment. | SW-S-0031 |
-| SW-C-0024 | Mission and belonging | Louis chose Monica partly for her distrust of people and reads her attachment as a risk; Monica shares the warning that Monica Norton is temporary. | V02; CRB | V02 obs. 096; S18:E000792–E000798 | — | Recorded. | A conflict between friendship and mission. | SW-R-0034 |
-| SW-C-0025 | Isabelle’s method | Isabelle’s cover-bullying is a deliberate deterrence policy and her revenge mirrors the crime; the volume treats humiliation as justice. | V02; CRB, NE | V02 obs. 052–055 | Pure enjoyment of the role. | Recorded. | — | SW-F-0016 |
-| SW-C-0026 | Out of place | 場違い organizes the social plot through three outsiders by class or region, Monica, Lana and Casey, reversing from exclusion to self-gift. | V02; SI (form) | V02 obs. 003, 029, 031 | Common word. | Recorded. | Recurrence. | SW-F-0012 |
+| SW-C-0001 | Origin of the silence | Chantless casting began as avoidance of speech, and silence and mastery are one mechanism; the avoidance has an earlier root in childhood punishment for speaking and a long silence before Minerva; its occasion was a friend’s plan to shorten her chant, which she carried to no chant; the public account explains the capacity as instant computation. | V01–V03; NP, SI | V01 obs. 007, 033; V02 obs. 011, 016, 045; V03 obs. 003, 005–007 | Capacity may exceed any cause; the public account is not false. | REVISE at V02 (SW-CR-0001); high. V03: REVISE (SW-CR-0019). | Monica’s own account of how she learned it. | SW-S-0002; SW-S-0026 |
+| SW-C-0002 | Fear response | Pain, fear or exposure drive Monica into numerical absorption; the habit began as a vow to keep her father’s numbers, and she also uses it deliberately to compute combat and to make people bearable by turning them into numbers. | V01–V03; NP | V01 obs. 014, 037, 071, 072, 085; V02 obs. 004, 038, 044; V03 obs. 076, 096, 130 | Habit rather than defence. | STRENGTHEN at V02 (SW-CR-0002); high. V03: STRENGTHEN and REVISE (SW-CR-0020). | Fear without absorption. | SW-S-0003; SW-F-0006 |
+| SW-C-0003 | Past harm | The man in the V01 dream is Monica’s paternal uncle, who after her father’s execution beat her repeatedly for reciting numbers and for stating the worth of her father’s work, and imposed silence about him in public; scars remain on her back and touch still frightens her. | V01–V03; CRB under drug, SI | V01 obs. 037, 040, 057–059; V02 obs. 045; V03 obs. 106, 117, 121 | Drug distortion; V02 reading section 8.1. | REVISE at V02 (SW-CR-0003): identity resolved; duration and end OPEN. V03: STRENGTHEN (SW-CR-0021). | Sober account or third-party report. | SW-S-0004; SW-S-0026; SW-P-0005 |
+| SW-C-0004 | Selection | The makeweight self-assessment is contradicted by Louis’s memory of the duel; the examiners’ ranking is unstated. | V01–V03; CRB | obs. 013, 117; V03 obs. 023 | Louis’s memory may be self-serving. | OPEN on examiners; high that her belief lacks support. Reviewed at V02: PRESERVE (SW-CR-0004). V03: PRESERVE (SW-CR-0022). | Any examiner’s statement. | SW-S-0008; SW-K-0016 |
+| SW-C-0005 | Mission purpose | Stated protection; Monica doubts it; Louis reads surveillance, uses a decoy, chose Monica because she distrusts, fears and hates people and can therefore be merciless, and calls himself first-prince because he dislikes the duke and Felix; the king is unshown. | V01–V03; CRB | V01 obs. 034, 119; V02 obs. 010, 096; V03 obs. 131 | Protection and surveillance may coexist. | STRENGTHEN and partly REVISE at V02 (SW-CR-0005); king’s intent OPEN. V03: STRENGTHEN (SW-CR-0023). | King or royal agent on stage. | SW-K-0005; SW-P-0007 |
+| SW-C-0006 | The watcher | The prologue’s watcher is Felix. | V01–V03; OTE | V01 obs. 003, 024, 122; V02 obs. 064, 088 | — | STRENGTHEN to OTE at V02 (SW-CR-0006). V03: PRESERVE (SW-CR-0024). | — | SW-S-0012; SW-S-0034 |
+| SW-C-0007 | Felix’s divergence | Public and private selves diverge: he denies a talent for magic while studying it in secret because it is forbidden to him, and hides a spirit; he obeys the duke outwardly while removing his placements and gathering nobles who resent him; he must become king without wanting it, under a ten-year vow to inscribe the name Felix Arc Ridill in history; his time outside the role is a remainder he spends at night. | V01–V03; OTE, SI | V01 obs. 020, 062, 077, 078, 120; V02 obs. 014, 062, 065, 077; V03 obs. 061, 065, 082, 101, 103 | Prudence rather than resistance. | STRENGTHEN at V02 (SW-CR-0007); motive OPEN. V03: STRENGTHEN and partly REVISE (SW-CR-0025). | Felix’s wish disclosed. | SW-S-0009; SW-S-0010; SW-S-0035; SW-C-0022 |
+| SW-C-0008 | Recognition by Felix | Felix has not identified Monica as the Silent Witch; at V03 exit he admires the Witch’s magic as a first love, has never seen her face, spent the festival night with Monica, briefly suspected her of being an assassin, and still does not connect them. | V01–V03 exit; OTE | V01 obs. 069, 122; V02 obs. 087; V03 obs. 104, 118 | — | STRENGTHEN at V02 (SW-CR-0008). V03: STRENGTHEN (SW-CR-0026). | Felix witnessing her magic. | SW-P-0003; SW-P-0014 |
+| SW-C-0009 | Recognition by Cyril | Cyril holds an unverified suspicion from her hand and remark (V01), and at V02 links the forest mage with the Silent Witch; V02 shows no renewed link to Monica. | V01–V03 exit; SI, CRB | V01 obs. 111; V02 obs. 054 | Idle curiosity. | REVISE at V02 (SW-CR-0009). V03: PRESERVE; UNTESTED (SW-CR-0027). | Cyril acting on either link. | SW-P-0004; SW-S-0038 |
+| SW-C-0010 | Form of power | Awe at Monica’s power is narrated through external focalizers; from V02 her own viewpoint also narrates her power, as calculation under constraint; V03 extends this to sustained combat computation and gives her first chantless casting from a rival’s view. | V01–V03; SI | V01 obs. 002, 056, 098, 106, 117; V02 obs. 004, 025, 083, 086; V03 obs. 006, 096 | The V01 staircase anticipated this. | REVISE at V02 (SW-CR-0010). V03: STRENGTHEN (SW-CR-0028). | — | SW-F-0001; SW-F-0010 |
+| SW-C-0011 | Rank and truth | The school treats rank as epistemic authority; Cyril’s inquiry is the first counterexample; at V02 rank is also used as a weapon of justice (Felix, Isabelle) and Elliott’s code ties rank to duty; at V03 Elliott’s contempt for upstarts has a biographical root and he warns that talent crossing class walls is envied or used. | V01–V03; OTE, NP | V01 obs. 058, 091; V02 obs. 021, 024, 052, 053; V03 obs. 022, 037, 038 | Cyril’s fairness may be exceptional. | STRENGTHEN at V02 (SW-CR-0011). V03: STRENGTHEN (SW-CR-0029). | Further authorities’ conduct. | SW-W-0023; SW-S-0007 |
+| SW-C-0012 | Thornley’s crimes | Organized embezzlement; erased Aaron’s and Cyril’s memories; Selma’s manipulation inferred. | V01–V03; CRB, OTE | obs. 022, 081, 108; V03 obs. 092 | Selma acted alone. | Aaron and Cyril established; Selma inferred. Reviewed at V02: PRESERVE (SW-CR-0012). V03: PRESERVE (SW-CR-0030). | Thornley’s interrogation results. | SW-K-0011; SW-K-0012 |
+| SW-C-0013 | Nero’s nature | Neither an ordinary cat nor, in Felix’s judgment, a spirit. | V01–V03; CRB | obs. 072, 102 | Unusual familiar spirit. | OPEN. Reviewed at V02: PRESERVE (SW-CR-0013). V03: PRESERVE (SW-CR-0031). | Disclosure of origin. | SW-P-0008 |
+| SW-C-0014 | Talent as curse | Monica regards her talent as a curse that took her father and friend; her father, Venedict Rain, was executed as a heretic for forbidden research on heredity and magical properties five years before the present, and his book was burned; the friend, Bernie Jones, needed her dependence, turned away in envy when she mastered chantless magic, and sent her to the hut; at V03 she renounces his approval. | V01–V03; CRB, NP | V01 obs. 090, 101; V02 obs. 034, 044; V03 obs. 004, 007, 009, 045, 105 | Delirium distortion. | REVISE at V02 (SW-CR-0014); research OPEN. V03: REVISE (SW-CR-0032). | Account of the research. | SW-S-0008; SW-S-0025; SW-P-0017 |
+| SW-C-0015 | Friendship | The bond with Lana rests on shared experience of being called boring and being out of place, and on mutual gestures of giving; Lana began from pride and stays from affection; at V03 Lana arms and defends her, and Monica defends Lana first. | V01–V03; OTE, CRB | V01 obs. 031, 046, 083, 112; V02 obs. 008, 029, 031, 032; V03 obs. 032, 044, 045 | Convenience on Lana’s side. | STRENGTHEN and REVISE at V02 (SW-CR-0015). V03: STRENGTHEN (SW-CR-0033). | Disclosure strain. | SW-R-0007; SW-R-0008; SW-R-0023; SW-R-0024 |
+| SW-C-0016 | Comedy and harm | The comedy of coercion registers harm in most cases; the non-consensual kiss is unevaluated and unknown to its recipient. | V01–V03; NE | obs. 010, 073, 076, 092; V03 obs. 083, 118 | The narration treats it as harmless play. Criterion: whether effect on the affected person is registered independent of tone. | Recorded. Reviewed at V02: PRESERVE; UNTESTED (SW-CR-0016). V03: PRESERVE; kiss UNTESTED (SW-CR-0034). | Any later revisiting. | SW-F-0008 |
+| SW-C-0017 | Louis’s stance | Louis combines coercion with investment in her self-respect and his own pride; at V02 also gifts, an unknowing decoy, and a concession calculated to keep her cooperation; at V03 he lends Lynn and, to Casey, judges her a heartless witch. | V01–V03; CRB, SI | V01 obs. 011, 117, 118; V02 obs. 009, 010, 096, 099; V03 obs. 029, 034, 131 | Pure self-interest. | STRENGTHEN at V02 (SW-CR-0017). V03: STRENGTHEN (SW-CR-0035). | Louis acting against her interests. | SW-S-0017; SW-S-0036 |
+| SW-C-0018 | Source of perception | Monica’s numerical perception and comfort derive from her father’s teaching; she memorized his burning numbers as proof he lived and keeps his coffee pot; his book opens with the sentence that the world is made of numbers. | V01–V03; NP, CRB | V01 obs. 026, 043, 044; V02 obs. 034, 044, 058; V03 obs. 105 | Innate disposition. | STRENGTHEN at V02 (SW-CR-0018). V03: STRENGTHEN (SW-CR-0036). | — | SW-S-0001; SW-S-0025 |
+| SW-C-0019 | Casey and the prologue | Casey Grove is the prologue’s unnamed conspirator, acting on Count Bright’s order with a 螺炎, from grievance at central neglect and gratitude to Randall; her friendship was begun instrumentally; at V03 Count Bright claims sole responsibility, Louis suspects Randall and the Empire, and Casey asks after Monica and sends her a package, so that her feeling is evidenced as concern and its history remains OPEN. | V02–V03; OTE for identity, UQ for feeling | V02 obs. 027, 070, 079–082, 097, 111; V03 obs. 029, 128, 129, 131 | Partly genuine friendship. | Identity established; feeling OPEN. V03: STRENGTHEN and partly REVISE (SW-CR-0037). | Casey’s later testimony. | SW-S-0040; SW-P-0019 |
+| SW-C-0020 | Duty | Monica derives a concept of duty from Elliott’s noblesse oblige and transposes it to her roles as treasurer and Sage; at V03 duty is joined by a personal motive she calls selfish, that the bereaved be able to mourn as she could not. | V02–V03; SI | V02 obs. 024, 033, 083, 084; V03 obs. 088, 097 | Compliance under pressure. | Strong inference. V03: REVISE (SW-CR-0038). | Her conduct when duty and fear conflict again. | SW-S-0027 |
+| SW-C-0021 | Concealment of the attempt | Monica’s concealment is a political bargain using Louis’s factional logic, at a cost to Cyril and her conscience; the volume presents it sympathetically and leaves its justice unjudged; at V03 Cyril still blames himself and she cannot clear him. | V02–V03; NE | V02 obs. 095, 096, 098; V03 obs. 016 | Mercy as plain virtue. Criterion: costs to others registered. | Recorded. V03: STRENGTHEN (SW-CR-0039). | Later consequences. | SW-F-0015 |
+| SW-C-0022 | Felix’s discontinuities | A cluster of unexplained details surrounds Felix’s identity and history: Bridget’s childhood test; his memory of a boy apologizing as a royal; the role held while he bears the name; the seer’s blindness to his star from about ten years ago; Elliott’s memory of a sickly, clumsy, shy, light-eyed, star-loving child scarred in the side with a more poised attendant; a ten-year vow to inscribe the name in history; a dead friend whose wish he pursues; a dream of a boy called Felix, a page and a burned astronomy book; a necessary scar. No hypothesis is registered. | V02–V03; UQ | V02 obs. 039, 049, 062, 093; V03 obs. 018–020, 065, 070, 109, 112–114, 121 | Ordinary nostalgia and rhetoric. | OPEN. V03: STRENGTHEN in scope (SW-CR-0040). | Any disclosure about his childhood. | SW-P-0016 |
+| SW-C-0023 | Affiliation | Monica says she cannot expect anything of anyone or be absorbed in anyone, while her conduct shows growing attachment; no romantic interest on her side is shown; Felix’s first-love-like absorption is directed at the Silent Witch as an idea; the festival night is shown as companionship, mourning and play, and she tells him she wants nothing from him. | V02–V03; CRB, SI | V02 obs. 038, 057, 071, 088; V03 obs. 103, 111, 119; V03 reading section 8.1 | Her statement is accurate for romance. | Recorded. V03: STRENGTHEN (SW-CR-0041). | Her own account of attachment. | SW-S-0031 |
+| SW-C-0024 | Mission and belonging | Louis chose Monica for her distrust, fear and hatred of people, calls her heartless, and reads her attachment as a risk; Monica shares the warning that Monica Norton is temporary, and at V03 expected her false school life to end. | V02–V03; CRB | V02 obs. 096; S18:E000792–E000798; V03 obs. 055, 131 | — | Recorded. V03: STRENGTHEN (SW-CR-0042). | A conflict between friendship and mission. | SW-R-0034 |
+| SW-C-0025 | Isabelle’s method | Isabelle’s cover-bullying is a deliberate deterrence policy and her revenge mirrors the crime; the volume treats humiliation as justice. | V02–V03; CRB, NE | V02 obs. 052–055; V03 obs. 066, 089 | Pure enjoyment of the role. | Recorded. V03: PRESERVE (SW-CR-0043). | — | SW-F-0016 |
+| SW-C-0026 | Out of place | 場違い organizes the social plot through three outsiders by class or region, Monica, Lana and Casey, reversing from exclusion to self-gift. | V02–V03; SI (form) | V02 obs. 003, 029, 031; S15:E000845; S17:E000496 (incidental) | Common word. | Recorded. V03: PRESERVE (SW-CR-0044). | Recurrence. | SW-F-0012 |
+| SW-C-0027 | Bernie Jones | Bernie Jones is the Minerva friend; his help coexisted with a wish for her dependence; his envy ended the friendship and his curse began the hut life; in V03 he protects her cover while demanding gratitude. | V03; OTE for identity and acts, UQ for motive | V03 obs. 001–009, 042–046, 054, 056 | Repentance or possession, V03 reading section 8.2. | Identity established; motive OPEN. | His next act toward her. | SW-S-0053; SW-P-0025 |
+| SW-C-0028 | Mourning | Mourning organizes V03: Monica’s motive in the climax is that the bereaved be able to mourn as she could not; burned books and festival bells join her strand and Felix’s. | V03; SI (form) | V03 obs. 076–077, 088, 097, 105–109, 113 | Duty alone. | Strong inference. | Recurrence of the motive. | SW-F-0018 |
+| SW-C-0029 | Ike | Ike is a persona in which Felix shows Monica a self outside his role; her answering self-description as a ghost is her first outreach; he ends the persona with a gift framed as possession and farewell. | V03; CRB, SI | V03 obs. 078, 087, 100, 118–122 | Pure performance on his side. | Recorded. | Any return of Ike. | SW-S-0051; SW-R-0045; SW-R-0046 |
+| SW-C-0030 | The duke’s hold | The duke dominates Felix by contempt and, in Felix’s dream, by punishing those the boy cares for; Felix obeys outwardly while gathering nobles who resent the duke. | V03; OTE, SI | V03 obs. 061, 082, 113 | Felix’s compliance may be sincere. | Recorded; ground OPEN. | The source of the hold. | SW-P-0007; SW-R-0048; SW-R-0049 |
+| SW-C-0031 | Imperial agents | Yuan used imperial body magic, escaped by a staged suicide with the real Pittman’s body, and with Heidi has commissioned a forged Serendia uniform for the festival; Louis suspects a Randall–Empire alliance behind the 螺炎. | V03; OTE, CRB | V03 obs. 052, 123–125, 128 | A renegade agent. | Established for the agents; alliance OPEN. | The festival. | SW-P-0023; SW-W-0044; SW-W-0052 |
+| SW-C-0032 | The father | Monica’s father was Venedict Rain, author of a book on heredity and magical properties, executed for forbidden research five years before the present; his friend Porter is the novelist Dustin Günther; the character card gives Rain as Monica’s former surname. | V03; OTE, paratext for the surname | V03 obs. 105–106, 126, 133 | — | Established. | — | SW-P-0005; SW-P-0017 |
+| SW-C-0033 | Louis’s model of Monica | Louis’s model of Monica as a heartless witch who fears and hates people is half right, is contradicted by the volume’s narrative, and is the explicit ground of his choice of her. | V03; CRB, NE | V03 obs. 130–131 | Louis may be right about her toward strangers. Criterion: her conduct toward people in the same volume. | Recorded. | Louis observing her with friends. | SW-S-0054; SW-F-0021 |
+| SW-C-0034 | Mary’s test | Mary deliberately allowed the theft of the ancient tool, citing the stars’ guidance, and used the crisis to test Monica; the volume does not judge the risk to the town or the bystander. | V03; CRB, NE | V03 obs. 093, 116 | Protective foresight. Criterion: risks to third parties registered. | Recorded. | Mary’s own account. | SW-P-0024 |
 
 Revision records at V01: none. Every V01 claim was an initial formulation with no predecessor.
 
@@ -402,6 +514,37 @@ Revision records at V02, 2026-10-14, reviewer the V02 sequential integrator:
 | SW-CR-0017 | SW-C-0017 | Coercion combined with investment in her self-respect and his own pride. (V01) | STRENGTHEN | Louis combines coercion with investment in her self-respect and his own pride; at V02 also gifts, an unknowing decoy, and a concession calculated to keep her cooperation. (V02) | See V02 reading section 9.1. | V02 evidence | Later reinterpretation, not correction. |
 | SW-CR-0018 | SW-C-0018 | Monica’s numerical perception and comfort derive from her father’s teaching. (V01) | STRENGTHEN | Monica’s numerical perception and comfort derive from her father’s teaching; she memorized his burning numbers as proof he lived and keeps his coffee pot. (V02) | See V02 reading section 9.1. | V02 evidence | Later reinterpretation, not correction. |
 
+Revision records at V03, 2026-10-14, reviewer the V03 sequential integrator:
+
+| Revision | Claim | Earlier formulation and boundary | Transition | New formulation and boundary | Reason | Affected homes | Kind |
+|---|---|---|---|---|---|---|---|
+| SW-CR-0019 | SW-C-0001 | Chantless casting began as avoidance of speech, and silence and mastery are one mechanism; the avoidance has an earlier root in childhood punishment for speaking, while the public account explains the capacity as instant computation. (V02) | REVISE | Chantless casting began as avoidance of speech, and silence and mastery are one mechanism; the avoidance has an earlier root in childhood punishment for speaking and a long silence before Minerva; its occasion was a friend’s plan to shorten her chant, which she carried to no chant; the public account explains the capacity as instant computation. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0020 | SW-C-0002 | Pain, fear or exposure drive Monica into numerical absorption; the habit began as a vow to keep her father’s numbers. (V02) | STRENGTHEN and REVISE | Pain, fear or exposure drive Monica into numerical absorption; the habit began as a vow to keep her father’s numbers, and she also uses it deliberately to compute combat and to make people bearable by turning them into numbers. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0021 | SW-C-0003 | The man in the V01 dream is Monica’s paternal uncle, who after her father’s execution beat her for reciting numbers and defending him and imposed silence about him in public. (V02) | STRENGTHEN | The man in the V01 dream is Monica’s paternal uncle, who after her father’s execution beat her repeatedly for reciting numbers and for stating the worth of her father’s work, and imposed silence about him in public; scars remain on her back and touch still frightens her. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0022 | SW-C-0004 | The makeweight self-assessment is contradicted by Louis’s memory of the duel; the examiners’ ranking is unstated. (V02) | PRESERVE | Unchanged (V03) | No material new evidence; see V03 reading section 9.1. | — | Review, not change. |
+| SW-CR-0023 | SW-C-0005 | Stated protection; Monica doubts it; Louis reads surveillance, uses a decoy, chose Monica partly for her distrust of people, and calls himself first-prince because he dislikes the duke and Felix; the king is unshown. (V02) | STRENGTHEN | Stated protection; Monica doubts it; Louis reads surveillance, uses a decoy, chose Monica because she distrusts, fears and hates people and can therefore be merciless, and calls himself first-prince because he dislikes the duke and Felix; the king is unshown. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0024 | SW-C-0006 | The prologue’s watcher is Felix. (V02) | PRESERVE | Unchanged (V03) | No material new evidence; see V03 reading section 9.1. | — | Review, not change. |
+| SW-CR-0025 | SW-C-0007 | Public and private selves diverge: he denies a talent for magic while studying it and hiding a spirit; he removes the duke’s placements while professing he cannot defy him; he must become king without wanting what is prepared for his name, holding the role while he bears it. (V02) | STRENGTHEN and partly REVISE | Public and private selves diverge: he denies a talent for magic while studying it in secret because it is forbidden to him, and hides a spirit; he obeys the duke outwardly while removing his placements and gathering nobles who resent him; he must become king without wanting it, under a ten-year vow to inscribe the name Felix Arc Ridill in history; his time outside the role is a remainder he spends at night. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0026 | SW-C-0008 | Felix has not identified Monica as the Silent Witch; at V02 exit he is searching the school for her and his search excludes Monica. (V02) | STRENGTHEN | Felix has not identified Monica as the Silent Witch; at V03 exit he admires the Witch’s magic as a first love, has never seen her face, spent the festival night with Monica, briefly suspected her of being an assassin, and still does not connect them. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0027 | SW-C-0009 | Cyril holds an unverified suspicion from her hand and remark (V01), and at V02 links the forest mage with the Silent Witch; V02 shows no renewed link to Monica. (V02) | PRESERVE; UNTESTED | Unchanged (V03) | No material new evidence; see V03 reading section 9.1. | — | Review, not change. |
+| SW-CR-0028 | SW-C-0010 | Awe at Monica’s power is narrated through external focalizers; from V02 her own viewpoint also narrates her power, as calculation under constraint. (V02) | STRENGTHEN | Awe at Monica’s power is narrated through external focalizers; from V02 her own viewpoint also narrates her power, as calculation under constraint; V03 extends this to sustained combat computation and gives her first chantless casting from a rival’s view. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0029 | SW-C-0011 | The school treats rank as epistemic authority; Cyril’s inquiry is the first counterexample; at V02 rank is also used as a weapon of justice (Felix, Isabelle) and Elliott’s code ties rank to duty. (V02) | STRENGTHEN | The school treats rank as epistemic authority; Cyril’s inquiry is the first counterexample; at V02 rank is also used as a weapon of justice (Felix, Isabelle) and Elliott’s code ties rank to duty; at V03 Elliott’s contempt for upstarts has a biographical root and he warns that talent crossing class walls is envied or used. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0030 | SW-C-0012 | Organized embezzlement; erased Aaron’s and Cyril’s memories; Selma’s manipulation inferred. (V02) | PRESERVE | Unchanged (V03) | No material new evidence; see V03 reading section 9.1. | — | Review, not change. |
+| SW-CR-0031 | SW-C-0013 | Neither an ordinary cat nor, in Felix’s judgment, a spirit. (V02) | PRESERVE | Unchanged (V03) | No material new evidence; see V03 reading section 9.1. | — | Review, not change. |
+| SW-CR-0032 | SW-C-0014 | Monica regards her talent as a curse that took her father and friend; her father was executed as a heretic for forbidden research into the body as number, and the friend turned away when she mastered chantless magic. (V02) | REVISE | Monica regards her talent as a curse that took her father and friend; her father, Venedict Rain, was executed as a heretic for forbidden research on heredity and magical properties five years before the present, and his book was burned; the friend, Bernie Jones, needed her dependence, turned away in envy when she mastered chantless magic, and sent her to the hut; at V03 she renounces his approval. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0033 | SW-C-0015 | The bond with Lana rests on shared experience of being called boring and being out of place, and on mutual gestures of giving; Lana began from pride and stays from affection. (V02) | STRENGTHEN | The bond with Lana rests on shared experience of being called boring and being out of place, and on mutual gestures of giving; Lana began from pride and stays from affection; at V03 Lana arms and defends her, and Monica defends Lana first. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0034 | SW-C-0016 | The comedy of coercion registers harm in most cases; the non-consensual kiss is unevaluated and unknown to its recipient. (V02) | PRESERVE; kiss UNTESTED | Unchanged (V03) | No material new evidence; see V03 reading section 9.1. | — | Review, not change. |
+| SW-CR-0035 | SW-C-0017 | Louis combines coercion with investment in her self-respect and his own pride; at V02 also gifts, an unknowing decoy, and a concession calculated to keep her cooperation. (V02) | STRENGTHEN | Louis combines coercion with investment in her self-respect and his own pride; at V02 also gifts, an unknowing decoy, and a concession calculated to keep her cooperation; at V03 he lends Lynn and, to Casey, judges her a heartless witch. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0036 | SW-C-0018 | Monica’s numerical perception and comfort derive from her father’s teaching; she memorized his burning numbers as proof he lived and keeps his coffee pot. (V02) | STRENGTHEN | Monica’s numerical perception and comfort derive from her father’s teaching; she memorized his burning numbers as proof he lived and keeps his coffee pot; his book opens with the sentence that the world is made of numbers. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0037 | SW-C-0019 | Casey Grove is the prologue’s unnamed conspirator, acting on Count Bright’s order with a 螺炎, from grievance at central neglect and gratitude to Randall; her friendship was begun instrumentally and its later reality is left ambivalent. (V02) | STRENGTHEN and partly REVISE | Casey Grove is the prologue’s unnamed conspirator, acting on Count Bright’s order with a 螺炎, from grievance at central neglect and gratitude to Randall; her friendship was begun instrumentally; at V03 Count Bright claims sole responsibility, Louis suspects Randall and the Empire, and Casey asks after Monica and sends her a package, so that her feeling is evidenced as concern and its history remains OPEN. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0038 | SW-C-0020 | Monica derives a concept of duty from Elliott’s noblesse oblige and transposes it to her roles as treasurer and Sage; the climax is narrated as acceptance of the title as responsibility. (V02) | REVISE | Monica derives a concept of duty from Elliott’s noblesse oblige and transposes it to her roles as treasurer and Sage; at V03 duty is joined by a personal motive she calls selfish, that the bereaved be able to mourn as she could not. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0039 | SW-C-0021 | Monica’s concealment is a political bargain using Louis’s factional logic, at a cost to Cyril and her conscience; the volume presents it sympathetically and leaves its justice unjudged. (V02) | STRENGTHEN | Monica’s concealment is a political bargain using Louis’s factional logic, at a cost to Cyril and her conscience; the volume presents it sympathetically and leaves its justice unjudged; at V03 Cyril still blames himself and she cannot clear him. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0040 | SW-C-0022 | A cluster of unexplained details surrounds Felix’s identity and history: Bridget’s childhood test, his memory of a boy apologizing as a royal, the role held while he bears the name, the seer’s blindness to his star. No hypothesis is registered. (V02) | STRENGTHEN in scope | A cluster of unexplained details surrounds Felix’s identity and history: Bridget’s childhood test; his memory of a boy apologizing as a royal; the role held while he bears the name; the seer’s blindness to his star from about ten years ago; Elliott’s memory of a sickly, clumsy, shy, light-eyed, star-loving child scarred in the side with a more poised attendant; a ten-year vow to inscribe the name in history; a dead friend whose wish he pursues; a dream of a boy called Felix, a page and a burned astronomy book; a necessary scar. No hypothesis is registered. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0041 | SW-C-0023 | Monica says she cannot expect anything of anyone or be absorbed in anyone, while her conduct shows growing attachment; no romantic interest on her side is shown; Felix’s first-love-like absorption is directed at the Silent Witch as an idea. (V02) | STRENGTHEN | Monica says she cannot expect anything of anyone or be absorbed in anyone, while her conduct shows growing attachment; no romantic interest on her side is shown; Felix’s first-love-like absorption is directed at the Silent Witch as an idea; the festival night is shown as companionship, mourning and play, and she tells him she wants nothing from him. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0042 | SW-C-0024 | Louis chose Monica partly for her distrust of people and reads her attachment as a risk; Monica shares the warning that Monica Norton is temporary. (V02) | STRENGTHEN | Louis chose Monica for her distrust, fear and hatred of people, calls her heartless, and reads her attachment as a risk; Monica shares the warning that Monica Norton is temporary, and at V03 expected her false school life to end. (V03) | See V03 reading section 9.1. | V03 evidence | Later reinterpretation, not correction. |
+| SW-CR-0043 | SW-C-0025 | Isabelle’s cover-bullying is a deliberate deterrence policy and her revenge mirrors the crime; the volume treats humiliation as justice. (V02) | PRESERVE | Unchanged (V03) | No material new evidence; see V03 reading section 9.1. | — | Review, not change. |
+| SW-CR-0044 | SW-C-0026 | 場違い organizes the social plot through three outsiders by class or region, Monica, Lana and Casey, reversing from exclusion to self-gift. (V02) | PRESERVE | Unchanged (V03) | No material new evidence; see V03 reading section 9.1. | — | Review, not change. |
+
 ## 6. Prospective questions and predictions — SW-P
 
 Owns genuine prospective tests and open questions across source-unit boundaries.
@@ -419,7 +562,7 @@ Records at V01. All were frozen at V01 closure on 2026-10-14 in the reading’s 
 | SW-P-0003 | Will Felix connect Monica with the Silent Witch, and what would force it? | obs. 069, 122 | Felix witnessing or hearing of her magic. | None registered; see the bounded expectation in the reading’s section 10, which is not a prediction. | — | OPEN; pressure increased at V02 |
 | SW-P-0004 | Will Cyril verify his suspicion about her hand? | obs. 111 | Repeat of the glove scene; confrontation. | None. | — | OPEN |
 | SW-P-0005 | Who was the man in the dream; what happened to her father; how did talent take him? | obs. 037, 090 | Backstory disclosure. | None. | — | OPEN; largely answered at V02 |
-| SW-P-0006 | Who is the Minerva friend; does he return? | obs. 090 | A Minerva acquaintance appears. | None. | — | OPEN |
+| SW-P-0006 | Who is the Minerva friend; does he return? | obs. 090 | A Minerva acquaintance appears. | None. | — | RETIRED_WITH_REASON at V03: answered, Bernie Jones (V03 obs. 001–009). |
 | SW-P-0007 | What does the king intend, and what grounds the duke’s hold on Felix? | obs. 062, 119 | King or duke on stage. | None. | — | OPEN |
 | SW-P-0008 | What is Nero? | obs. 102 | Disclosure of origin or powers. | None. | — | OPEN; UNTESTED at V02 |
 | SW-P-0009 | Does Monica’s use of mind interference have consequences? | obs. 110 | Guild or Sage reaction. | None. | — | OPEN; UNTESTED at V02 |
@@ -439,12 +582,41 @@ Status notes and records at V02. None carries a predicted answer, for the same e
 | SW-P-0012 | V02: refusals, accusation and bargaining; still fails at a simple request. | V02 obs. 023, 043, 072, 095 | — | None. | — | OPEN |
 | SW-P-0013 | What does MacLaggan know about Monica and Glen? | V02 obs. 016, 089 | His conduct toward either. | None. | — | OPEN |
 | SW-P-0014 | What will Felix’s search for the Silent Witch lead him to do? | V02 obs. 087 | Felix scenes. | None. | — | OPEN |
-| SW-P-0015 | What is the tournament Boyd intends for Monica? | V02 obs. 089 | Chess scenes. | None. | — | OPEN |
+| SW-P-0015 | What is the tournament Boyd intends for Monica? | V02 obs. 089 | Chess scenes. | None. | — | RETIRED_WITH_REASON at V03: held (V03 obs. 037–050). |
 | SW-P-0016 | What explains the cluster around Felix in SW-C-0022? | V02 obs. 039, 049, 062, 093 | Any disclosure about his childhood. | None. | — | OPEN |
 | SW-P-0017 | What was her father’s forbidden research, and does it relate to the Empire’s legalization of body magic? | V02 obs. 034, 035, 044 | Backstory. | None. | — | OPEN |
 | SW-P-0018 | What event does Mary Harvey foresee? | V02 obs. 093 | — | None. | — | OPEN |
 | SW-P-0019 | Do Casey’s confession, Count Bright and the Randall connection have consequences? | V02 obs. 080, 081, 096 | Political scenes. | None. | — | OPEN |
 | SW-P-0020 | What does Claudia know or suspect beyond her jealousy? | V02 obs. 050, 118 | Claudia scenes. | None. | — | OPEN |
+
+Status notes and records at V03. None carries a predicted answer, for the same exposure reason.
+
+| ID | Frozen wording or V03 note | Basis | Target opportunity | Expected outcome | Weakening outcome | Status |
+|---|---|---|---|---|---|---|
+| SW-P-0001 | V03: no new evidence. | — | — | None. | — | OPEN |
+| SW-P-0002 | V03: the ten-year vow; the remainder is time outside the role before kingship; nights shown. | V03 obs. 065, 082, 101 | Why the vow. | None. | — | OPEN; partly answered |
+| SW-P-0003 | V03: he suspected her as an assassin instead; Yuan hunts both secrets. | V03 obs. 104, 118, 125 | — | None. | — | OPEN |
+| SW-P-0004 | V03: no Cyril viewpoint on either link. | — | — | None. | — | UNTESTED |
+| SW-P-0005 | V03: father named; book identified; adoptive mother mentioned; scars. | V03 obs. 023, 105, 121, 133 | Passage from uncle to guardian. | None. | — | OPEN; narrowed |
+| SW-P-0007 | V03: the duke on stage; contempt; the dream’s punishment by proxy. | V03 obs. 061, 113 | Ground of the hold; the king. | None. | — | OPEN; narrowed |
+| SW-P-0008 | V03: no disclosure. | — | — | None. | — | UNTESTED |
+| SW-P-0009 | V03: used again on the tool; tolerated in emergency per Lynn. | V03 obs. 099 | Institutional reaction. | None. | — | OPEN |
+| SW-P-0010 | V03: named Emmanuel Darwin; a brooch resembling Cyril’s bears his name. | V03 obs. 068, 085 | His appearance. | None. | — | OPEN; narrowed |
+| SW-P-0011 | V03: Elliott’s warning and memory; Bridget probes. | V03 obs. 017, 022, 038 | — | None. | — | OPEN |
+| SW-P-0012 | V03: sustained declarations to Bernie, the tool and Felix. | V03 obs. 045, 097, 100 | — | None. | — | OPEN |
+| SW-P-0013 | V03: emphasized remark on her other talents. | V03 obs. 047 | His conduct. | None. | — | OPEN; strong evidence he knows |
+| SW-P-0014 | V03: reads her papers; plans to meet her as king. | V03 obs. 103, 104 | — | None. | — | OPEN |
+| SW-P-0016 | V03: cluster extended. | V03 obs. 018–020, 065, 070, 109, 112–114, 121 | Any disclosure. | None. | — | OPEN; no hypothesis |
+| SW-P-0017 | V03: heredity and magical properties; no Empire link stated. | V03 obs. 105 | — | None. | — | OPEN |
+| SW-P-0018 | V03: the festival night as the country’s turning point. | V03 obs. 093 | — | None. | — | OPEN |
+| SW-P-0019 | V03: Louis’s alliance hypothesis; Casey’s package. | V03 obs. 128, 131 | — | None. | — | OPEN |
+| SW-P-0020 | V03: political reading of the duke. | V03 obs. 059 | — | None. | — | OPEN |
+| SW-P-0021 | What is in Casey’s package, and does it reach Monica? | V03 obs. 131 | Louis meeting Monica. | None. | — | OPEN |
+| SW-P-0022 | Whose is the star of loss beside Monica’s? | V03 obs. 115 | Mary scenes. | None. | — | OPEN |
+| SW-P-0023 | What will Yuan and Heidi do at the festival with a forged uniform? | V03 obs. 124, 125 | The festival. | None. | — | OPEN |
+| SW-P-0024 | Why did Mary let the tool be stolen, and what does she expect of Monica? | V03 obs. 093, 116 | Mary’s account. | None. | — | OPEN |
+| SW-P-0025 | What will Bernie do with his knowledge of her mission? | V03 obs. 054, 056 | Minerva scenes. | None. | — | OPEN |
+| SW-P-0026 | Does Porter know who Monica is? | V03 obs. 106 | Porter scenes. | None. | — | OPEN |
 
 ## 7. Literary form, motifs and evaluation — SW-F
 
@@ -480,6 +652,16 @@ Records at V02:
 | SW-F-0015 | Comedy and harm, V02 | Mercy and revenge played warmly; costs registered in the prose. | Harm to Cyril registered; revenge enjoyed. | Guilt tears; high laugh. | Chapter 8, epilogue. | All harmless. Criterion as SW-F-0008. | Normative continuity. | 052, 098 |
 | SW-F-0016 | Performance and roles | Characters act parts: villainess, prince, friend, decoy, transfer student. | Masks within masks. | Isabelle’s lessons; Elliott on actors; Felix’s name. | Throughout. | Genre convention. | Links cover, Felix and Casey. | 055, 062, 116, 119 |
 
+Records at V03:
+
+| ID | Feature | Mechanism | Focalization and withholding | Wording evidence | Function and recurrence | Rival reading | Promotion reason | Obs. |
+|---|---|---|---|---|---|---|---|---|
+| SW-F-0017 | Rival’s retrospective prologue | Monica’s origin as a Sage told inside the envious friend’s mind. | Her interior withheld; his self-indictment unintended. | Bernie’s looking away; the curse of the hut. | Prologue; answered in chapters 4–5. | Mere backstory. | Changes how the past is sourced. | 004, 007, 009 |
+| SW-F-0018 | Mourning frame | Bells, burned books and the dead recur across Monica’s and Felix’s strands. | Reader alone sees both strands. | The bell lore; the book burned twice. | Chapters 6–11. | Festival colour. | Organizes the climax’s motive. | 066, 088, 105, 108, 109, 113 |
+| SW-F-0019 | Masks and the ghost | Disguise as the condition of candour. | Felix’s 僕 and laughter under the mask; Monica’s outreach as a ghost. | Ike; the gatekeeper’s costume. | Chapters 8–11, epilogue. | Romance trope. | Governs the Felix relation. | 078, 087, 100, 122 |
+| SW-F-0020 | Repeated lines across viewpoints | A line spoken in one strand is repeated in another. | Links without stating identity. | The page’s line and Felix’s line about value. | Chapters 11 and its continuation. | Coincidence. | Technique of the Felix cluster. | 107, 112 |
+| SW-F-0021 | The authoritative wrong verdict | A knowing adult closes the volume with a judgment the reader has seen contradicted. | Dramatic irony against Louis. | Heartless witch; no feeling to expect. | Secret episode. | Louis is right about strangers. | Evaluative pattern. | 130, 131 |
+
 ## 8. Reconstruction readiness — SW-RD
 
 Owns local, domain-specific readiness decisions, not operational model rules or global grades.
@@ -509,6 +691,15 @@ Records at V02, reviewer the V02 sequential integrator, 2026-10-14. Evidence rev
 | SW-RD-0010 | sw.monica; V02 exit | Domain-bounded model | INSUFFICIENT_EVIDENCE | As above. | Two volumes; politics and romance thin. | Longitudinal transitions. | Later volumes. | — |
 | SW-RD-0011 | sw.felix; V02 exit | Any tier | INSUFFICIENT_EVIDENCE | Rich private scenes added. | Affirmative limitation: identity cluster unexplained; public statements unreliable. | Disclosure of SW-C-0022 matters. | Later disclosure. | Public behaviour is not interior evidence. |
 | SW-RD-0012 | sw.cyril, sw.louis, sw.elliott, sw.casey, sw.lana, sw.claudia, sw.isabelle and all other identities; V02 exit | Any tier | INSUFFICIENT_EVIDENCE | Cyril, Louis, Elliott and Lana gained viewpoint scenes. | Casey removed from the school. | More ordinary scenes. | Later volumes. | Keep thin entries thin. |
+
+Records at V03, reviewer the V03 sequential integrator, 2026-10-14. Evidence reviews only; no model, profile, dialogue or tier.
+
+| ID | Identity; state boundary | Tier considered | Readiness state | Evidence variety | Affirmative limitations | Missing evidence | Test route | Restrictions |
+|---|---|---|---|---|---|---|---|---|
+| SW-RD-0013 | sw.monica; V03 exit | Recognition profile | UNASSESSED. Evidence spans three volumes, a retrospective outside view, sustained declaration, mourning and combat. | Adequate for a future assessment. | Her past is mostly sourced through others’ memories and delirium. | Sage duty among peers; family. | Hold-out scenes from a later volume. | No profile without separate authorization. |
+| SW-RD-0014 | sw.monica; V03 exit | Domain-bounded model | INSUFFICIENT_EVIDENCE | As above. | Romance, politics and family still thin. | Longitudinal transitions. | Later volumes. | — |
+| SW-RD-0015 | sw.felix; V03 exit | Any tier | INSUFFICIENT_EVIDENCE | Extensive private scenes, a persona, a dream. | Affirmative limitation: identity cluster unexplained and extended; persona and role statements unreliable as interior evidence. | Disclosure of SW-C-0022 matters. | Later disclosure. | Public and persona behaviour are not interior evidence. |
+| SW-RD-0016 | sw.bernie, sw.louis, sw.mary, sw.elliott, sw.lana and all other identities; V03 exit | Any tier | INSUFFICIENT_EVIDENCE | Bernie, Louis, Mary, Elliott and Bartholomeus gained viewpoint scenes. | Most new identities appear in one volume. | More ordinary scenes. | Later volumes. | Keep thin entries thin. |
 
 ## 9. Unit closure and acceptance — SW-U
 
@@ -568,6 +759,31 @@ Records at V02:
 | Remaining mandatory evidence | None. |
 | Remaining optional evidence | Publisher-original comparison; printed pagination; web comparison. |
 | Architecture review | Not due: no supplemental admission, no ledger pressure; recorded as reviewed in the architecture at V02. |
+
+Records at V03:
+
+| Field | SW-U-V03 |
+|---|---|
+| Witness and unit | `SW-LNJP-V03`, Japanese LN Volume 03. |
+| Source lock and locator fidelity | Byte-locked 2026-10-14 in the source lock register; package built with the generalized driver; every quoted fragment and cited locator in the reading verified against the sealed block map. |
+| Prose coverage | Complete: prologue, eleven chapters with continuation, epilogue, secret episode. |
+| Image coverage | Complete: all 31 image resources accounted for; every admitted image viewed; preview images excluded. |
+| Paratext coverage | Complete: contents, credits, afterword, colophon, notices, jacket (viewed after reading); publisher preview excluded, with incidental on-screen display recorded. |
+| Inspection | Completed 2026-10-14. |
+| Semantic review | Author self-review with leakage check and name-and-reference check; owner acceptance not claimed. |
+| SW-S | SW-S-0045 to SW-S-0064. |
+| SW-R | SW-R-0043 to SW-R-0058. |
+| SW-K | SW-K-0035 to SW-K-0045. |
+| SW-W | SW-W-0041 to SW-W-0054. |
+| SW-C / SW-CR | SW-C-0027 to SW-C-0034; SW-CR-0019 to SW-CR-0044 on all earlier claims. |
+| SW-P | SW-P-0021 to SW-P-0026 added; two retired with reason; statuses noted; no predictions. |
+| SW-F | SW-F-0017 to SW-F-0021. |
+| SW-RD | SW-RD-0013 to SW-RD-0016, evidence reviews only. |
+| Exit freeze | `SW-FR-V03-EXIT` in the reading’s section 10. |
+| Durable closure | The commit that adds the V03 reading and these records; receipts in Git history. |
+| Remaining mandatory evidence | None. |
+| Remaining optional evidence | Publisher-original comparison; printed pagination; web comparison. |
+| Architecture review | Not due: no supplemental admission; one master ledger remains adequate; recorded as reviewed in the architecture at V03. |
 
 ## Write, amend, and split rules
 
