@@ -5,11 +5,11 @@ artifact_type: source_scope_inventory
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.1"
-last_updated: "2026-10-13"
+version: "1.22"
+last_updated: "2026-10-14"
 status: canonical
-scope: "Public-safe collection inventory, V01 technical lock, witness lanes, exclusions and recovery"
-source_boundary: "Accepted pre-reading foundation and Japanese LN V01 technical source lock; no narrative source unit analyzed."
+scope: "Public-safe collection inventory, V01 technical lock, local-collection fingerprint verification, witness lanes, exclusions and recovery"
+source_boundary: "Accepted foundation; Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read and closed; no other unit in any lane analyzed."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md"
 supersedes: []
@@ -17,18 +17,63 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 source_reconnaissance_complete: true
-source_lock_state: V01_BYTE_LOCKED_OTHER_UNITS_NOT_LOCKED
+source_lock_state: V01_V02_BYTE_LOCKED_LATER_UNITS_LOCKED_AT_THEIR_TRANSACTIONS
 v01_locator_retention: LOCAL_ONLY_OWNER_REQUEST
-sequential_analysis_lock: CLOSED
+local_collection_fingerprints: ALL_SIXTEEN_MATCH_2026-10-14
+sequential_analysis_lock: OPEN
 ---
 
 # Source and continuity map
 
 ## V01 technical lock and current boundary
 
-The owner accepted the bootstrap and authorized Japanese LN V01 technical validation. The [V01 source lock](SW_LNJP_V01_SOURCE_LOCK.md) now records an independently retrieved 17,235,698-byte archive with exact matching SHA-256, colophon ver.003, complete resource/spine/XHTML/image checks, faithful normalization and verified element/paragraph/image routes. Its reproducible derivative package remains local at the owner’s explicit request; no Drive derivative upload occurred. The [foundation/gate report](../08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) verifies the accepted pair and both day-one homes. The sequential gate remains CLOSED; no literary unit has been analyzed.
+The owner accepted the bootstrap and authorized Japanese LN V01 technical validation. The [V01 source lock](SW_LNJP_V01_SOURCE_LOCK.md) now records an independently retrieved 17,235,698-byte archive with exact matching SHA-256, colophon ver.003, complete resource/spine/XHTML/image checks, faithful normalization and verified element/paragraph/image routes. Its reproducible derivative package remains local at the owner’s explicit request; no Drive derivative upload occurred. The [foundation/gate report](../08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) verifies the accepted pair and both day-one homes. At that lock the sequential gate remained CLOSED and no literary unit had been analyzed; the subsection below records the later V01-only opening.
 
 Only V01 has been byte-locked. The dated bootstrap reconnaissance below remains qualified historical evidence for the rest of the collection.
+
+### Local collection verification and V01 admission, 2026-10-14
+
+The owner’s 2026-10-13 resume instruction named two access routes to one supplied collection: the owner’s local novel directory and the Drive folder identified under [recovery](#recovery-and-future-ingestion-dependency). They are routes, not separate textual witnesses. The local directory was accessible and was used; the Drive copies were not re-retrieved.
+
+The local directory was inventoried as found rather than assumed. It contains sixteen primary Japanese EPUBs — numbered 01–12, `Volume 04 After`, `Volume 09 Extra`, and `Another` Part 01 (Upper) and Part 02 (Lower) — together with the retained audit report and manifest, audit working records and scripts, an archive holding the two pre-correction originals of main IX and IX -extra-, and two acquisition working directories for the web main and web gaiden lanes whose chapter stores were empty at inspection. The audit records, archive originals and web directories were listed only; none was opened as a literary source.
+
+SHA-256 and byte size were computed locally for all sixteen primary EPUBs. **Every one equals the corresponding row of the inventory table below.** For V01 this confirms that the local copy, the copy retained beside the locator package and the 2026-10-13 Drive retrieval are the same bytes. For the other fifteen, the result upgrades their fingerprints from retained-manifest reports to locally recomputed hashes of the local copies; it is not a source lock. Their archives were not opened, so CRC, resource, edition, colophon, language and preview-boundary checks remain unperformed for this project, and their Drive copies were not rehashed in this session. No difference between local and Drive copies was observed, and none is asserted beyond what was actually compared.
+
+The original V01 locator package was recovered and reverified; see the [V01 source lock](SW_LNJP_V01_SOURCE_LOCK.md#recovery-verification-2026-10-14). On that basis the [gate report addendum](../08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) records `SEQUENTIAL_ANALYSIS_LOCK = OPEN` for Japanese LN V01 only. V01 was execution-admitted for one narrative reading. No other numbered volume, no companion and no web or adaptation witness is admitted, and hashing a companion file is not a reading of it.
+
+### V01 closure, 2026-10-14
+
+V01 has been read in full and closed. The [V01 deep reading](../02%20Sequential%20Readings/SW_V01_DEEP_READING.md) records coverage of all 36 spine members by class: fourteen main narrative members, the in-volume secret episode, every illustration and image-only reference page, and all paratext. Narrative high-water mark for the numbered Japanese LN lane: **V01**. Every other lane remains at no unit analyzed.
+
+The V01 afterword states that the book corresponds to the first three chapters of the sixteen-chapter web serial, substantially added to and revised, with revisions generally kinder to the heroine. That is an author’s claim about witness relationships. It is recorded here as a lead for any future authorized comparison and is not evidence about either text; no web text was read.
+
+### Continuous run and later locks, 2026-10-14
+
+The owner authorized a continuous run through every supplied work; the [current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md#continuous-run-authorized-2026-10-14) records the terminal boundary and the companion admission points. Each unit is locked at the start of its own transaction. Locks after V01 are recorded in the [source lock register](SW_LNJP_SOURCE_LOCK_REGISTER.md), with a shared procedure and a generalized normalizer driver proved equivalent to V01’s rules. V02 is locked there: hash equal to the row below, publisher-structured EPUB, colophon 2021-10-08 ver.001, unrelated publisher preview of four members confirmed and excluded. V02 was read in full and closed on 2026-10-14; its afterword places the book at web chapters four to six, a comparison lead only. V03 is locked there too: a converted witness, colophon 2022-02-10 ver.001, unrelated publisher preview of five members excluded. V03 was read in full and closed on 2026-10-14; its afterword says the book edition gives Monica challenges absent from the web version, a comparison lead only. V04 is locked there too: a converted witness, colophon 2022-08-10 ver.001, unrelated publisher preview of five members excluded, and a back-matter advertisement for IV -after- held as image paratext. V04 was read in full and closed on 2026-10-14; lane high-water mark V04. Its afterword says the web festival arc of about eighty thousand characters became the whole volume, a comparison lead only, and announces IV -after- as covering the time between the festival and the winter break. IV -after- is locked there as the supplemental unit `SW-LNJP-AFTER04`. It is the publisher’s own layout, not a converted witness, and keeps the mimetype ordering deviation noted below. Its unrelated publisher preview of four members is excluded. It is admitted after V04 under this placement audit:
+
+| Test | Evidence | Result |
+|---|---|---|
+| Publication order | V04 colophon 2022-08-10; IV -after- colophon 2022-10-07; V05 colophon 2023-02-10, checked for its date only. | After V04 and before V05. |
+| Author’s placement | V04 afterword: the companion covers the time between the festival and the winter break, and V05 is the winter-break arc. | Diegetically after V04 and before V05. |
+| Publisher’s placement | Catalogue description: newly written school-period episodes after the festival. | Consistent. |
+| Contents | Prologue, five interludes, four cases, epilogue, secret episode, character reference, afterword; titles only. | No label names a post-V04 event. |
+| Story level | Not checkable before reading without reading. | Each story’s diegetic markers checked in the reading’s section 10; a story outside the interval, or one presupposing an unread mainline event, is held out of the prospective ledger until that mainline unit closes. |
+
+Pre-reading exposure from the retained audit’s stored samples is disclosed in the companion’s entry freeze. IV -after- was read in full and closed on 2026-10-14. The story-level check in its reading found every case inside the interval, five retrospective scenes set earlier, and nothing to hold out. V05 follows. Its afterword calls the book a “4.5” and announces V05 as the winter-break arc, a placement lead only. V05 is locked there as a publisher-layout witness, colophon 2023-02-10 ver.001, with the same mimetype ordering deviation and an unrelated five-member publisher preview excluded; chapter seven carries part of its narrative as prose printed in images. V05 was read in full and closed on 2026-10-14. Its afterword says V06 returns to school life, a lead only. V06 is locked as a publisher-layout witness, colophon 2023-08-10 ver.001, with the same mimetype ordering deviation and an unrelated five-member publisher preview excluded. V06 was read in full and closed on 2026-10-14. Its afterword announces V07 for about the following winter, preceded by the upper volume of a two-part side story about Louis at Minerva; under the owner’s run instruction that companion is admitted only after V12, so the lead does not change the order. V07 is locked as a publisher-layout witness, colophon 2024-02-09 ver.001, with the same mimetype ordering deviation and an unrelated five-member publisher preview excluded. V07 was read in full and closed on 2026-10-14. Its afterword says the upper volume of the Louis side story is out and the lower is due in spring 2024; the companion remains deferred to after V12. V08 is locked as a publisher-layout witness, colophon 2024-08-09 ver.001, with the mimetype member first and an unrelated four-member publisher preview excluded. V08 was read in full and closed on 2026-10-14. Its afterword announces an anime adaptation in progress and gives no date for V09. The colophons of V09 (2025-02-10) and V10 (2025-07-10), read only for placement, put the companion IX -extra- (2025-06-10) after V09 and before V10. V09 is locked as a converted witness re-packaged by calibre, with low-resolution images and no publisher preview. V09 was read in full and closed on 2026-10-14; lane high-water mark V09. Its afterword announces a spring 2025 collection of bonus stories, which is IX -extra-, and a newly written V10 set in Southerndoor; the companion is admitted next. IX -extra- is locked as a converted EPUB 2 witness re-packaged by calibre, colophon 2025-06-10, with no navigation document and a dangling reader script; the driver was revised a second time. IX -extra- was read in full and closed on 2026-10-14; lane high-water mark EXTRA09. Its story-level check placed every story by its own markers: none after V09’s last scene, and one story set before the mission inside a chapter labelled New Year to the council. Two pieces are marked web-first in its provenance list; they were read as published in the volume, and the web lane was not consulted. Its afterword announces V10 for summer 2025, set in Southerndoor. V10 is locked as a publisher-layout EPUB 3 witness, colophon 2025-07-10 ver.001, with `mimetype` first and an unrelated five-member publisher preview excluded. V10 was read in full and closed on 2026-10-14; lane high-water mark V10. Its afterword says XI is being written, a lead only. V11 is locked as a publisher-layout EPUB 3 witness, colophon 2026-01-09 ver.001, with `mimetype` first and an unrelated five-member publisher preview excluded. V11 was read in full and closed on 2026-10-14; lane high-water mark V11. Its afterword says the next volume is being written, a lead only. V12 is locked as a publisher-layout EPUB 3 witness, colophon 2026-06-10 ver.001, with `mimetype` first, an unrelated four-member publisher preview and a letters notice excluded. V12 was read in full and closed on 2026-10-14; lane high-water mark V12, the last supplied numbered volume. Its afterword says the volume revises two side stories of the web serial, which stays outside the run, and that the next volume is being written; both are leads only.
+
+-another- upper is locked and admitted after V12, as the prequel rule requires: a publisher-layout witness whose OPF bears converter identifiers and no publisher field, colophon 2023-12-08 ver.001 naming KADOKAWA, `mimetype` not first, an unrelated five-member publisher preview and a letters notice excluded. It was read in full and closed on 2026-10-14; lane high-water mark -another- (upper). Its story-level check places the whole run and its prologue before V01. Its afterword names a short work narrated by Rosalie, posted before the web serial, as the book's origin, and announces the lower volume; both are leads only, and the web works stay outside the run.
+
+-another- lower is locked and admitted after the upper volume closed, as the prequel rule requires: a publisher-layout witness with a publisher field and a store identifier only, colophon 2024-04-10 ver.002 naming KADOKAWA, `mimetype` first, an unrelated five-member publisher preview and a letters notice excluded. Its contents give a prologue named for the Barrier Mage, eleven chapters, an epilogue, a secret episode named for the Sages' days, a character list and an afterword; its story-level placement is checked in its reading's section 10. It was read in full and closed on 2026-10-14; lane high-water mark -another- (lower), the last supplied work. Its story-level check places the whole run before V01. Its afterword mentions a comic adaptation and announces main volume VIII; both are leads only.
+
+| Test | Evidence | Result |
+|---|---|---|
+| Admission rule | The corpus map admits the -another- pair only after V12 closes, upper before lower. | V12 closed; upper admitted first. |
+| Publication order | Colophon 2023-12-08, between the numbered volumes; not used for placement. | Recorded only. |
+| Author's placement | V06's afterword: a Louis side story precedes V07 in publication; the subtitle names the Barrier Mage's rise. | A prequel to the numbered track. |
+| Contents | Prologue, thirteen chapters, epilogue, secret episode, character list, afterword; titles only. | School-period and early-career labels; none names a numbered-track event after V01. |
+| Story level | Not checkable before reading without reading. | Each part's diegetic markers checked in the reading's section 10; facts it discloses about the past are supplemental retrospection and do not revise frozen numbered readings. |
+
+Disclosure-order note for future admission decisions: this edition’s colour frontispieces and in-book character card disclose the heroine’s name and two later scenes before the prologue. Edition-level paratext can therefore pre-empt narrative withholding, and future companion audits should check image-only front matter as well as prose.
 
 ## Verified bootstrap reconnaissance boundary and its limits
 
@@ -83,8 +128,8 @@ Each stable ID resolves through the supplied source folder and Drive's file-ID r
 
 | Lane | Identity / continuity | Current analytical admission |
 |---|---|---|
-| Numbered published Japanese LN | `SW-LNJP-V<NN>`; intended I–XII primary track | DESIGNATED_PRIMARY_TRACK; V01 byte-locked with local locators, other individual locks pending. Narrative execution admission pending for every unit. No unit analyzed. |
-| Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | INVENTORIED_UNADMITTED; not fractional numbered volumes. |
+| Numbered published Japanese LN | `SW-LNJP-V<NN>`; intended I–XII primary track | DESIGNATED_PRIMARY_TRACK; V01 CLOSED 2026-10-14. V02–V12 admitted one at a time under the 2026-10-14 continuous run; V02 to V04 CLOSED 2026-10-14. Lane high-water mark V04. |
+| Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | AFTER04 read and closed after V04 (2026-10-14); EXTRA09 read and closed after V09 (2026-10-14); ANOTHER-UPPER read and closed after V12 (2026-10-14); ANOTHER-LOWER read and closed after ANOTHER-UPPER (2026-10-14); inside the continuous run at the admission points the corpus map records; not fractional numbered volumes. |
 | Original web main | [N8356GA](https://ncode.syosetu.com/n8356ga/), サイレント・ウィッチ | METADATA_RECONNOITERED_UNADMITTED; separate web witness, no episode ingestion/comparison. |
 | Web gaiden | [N5194GP](https://ncode.syosetu.com/n5194gp/), サイレント・ウィッチ（外伝） | METADATA_RECONNOITERED_UNADMITTED; distinct supplemental web corpus, contains later/end-state disclosures. |
 | Related Rosalie web work | [N8978FV](https://ncode.syosetu.com/n8978fv/), 記憶喪失軍医ロザリー・ヴェルデの考察 | RELATED_SHARED_WORLD_UNADMITTED; exact LN relationship not textually adjudicated. |
@@ -99,7 +144,7 @@ The four publisher product pages were checked for printed identity, release date
 
 | Companion | Verified publisher bibliography | Broad diegetic description | Analytical reading order |
 |---|---|---|---|
-| [IV -after-](https://www.kadokawa.co.jp/product/322204000191/) | 2022-10-07; ISBN 9784040746296 | Publisher positions newly written supplemental school-period episodes after the festival. Exact scene placement unverified here. | Decide only after relevant mainline freeze and unit/story spoiler audit; no automatic V04.5 insertion. |
+| [IV -after-](https://www.kadokawa.co.jp/product/322204000191/) | 2022-10-07; ISBN 9784040746296 | Publisher positions newly written supplemental school-period episodes after the festival. Exact scene placement unverified here. | Decide only after relevant mainline freeze and unit/story spoiler audit; no automatic V04.5 insertion. Decided at the V04 boundary (2026-10-14): released after V04 and before V05 (2023-02-10), and placed by the V04 afterword between the festival and the winter break; next unit after V04, subject to its placement audit. |
 | [IX -extra-](https://www.kadokawa.co.jp/product/322411000863/) | 2025-06-10; ISBN 9784040758541 | Collection combines previously published bonuses, new prose and character/design material; not one assumed story-time slot. | Story-level admission/crosswalk needed; no automatic placement from IX in the name. |
 | [-another- upper](https://www.kadokawa.co.jp/product/322307000843/) | 2023-12-08; ISBN 9784040752075 | Publisher identifies a prequel/spinoff centered on the barrier magician. | Prequel time is not safe prospective disclosure order; separate later authorization. |
 | [-another- lower](https://www.kadokawa.co.jp/product/322307000844/) | 2024-04-10; ISBN 9784040752082 | Publisher identifies the concluding prequel installment. | Preserve upper/lower unit identity; separately determine knowledge-safe boundary. |
@@ -132,4 +177,4 @@ These IDs and the per-EPUB IDs above are recovery identifiers, not redistributed
 
 Web ingestion is a future dependency on the separately commissioned Narou downloader. It must deliver source-identified, revision/time-bound snapshots and reliable episode/pagination coverage before comparison admission. This bootstrap implements no scraper, modifies no downloader project, and performs no text-to-text crosswalk.
 
-Held or unresolved: owner-directed CLOSED sequential gate; locally retained V01 locator-package recovery in a future session; other-unit acquisition/edition/locator locks; supplement story-level safe order; web ingestion/version crosswalk; any later medium admission. V01 technical byte lock is complete, while narrative high-water mark remains PRE_V01 across every lane.
+Resolved on 2026-10-14: the locally retained V01 locator package was recovered and verified, and the gate was opened for V01 only by owner instruction. Held or unresolved: every sequential authorization beyond V01; other-unit acquisition/edition/locator locks; supplement story-level safe order; web ingestion/version crosswalk; any later medium admission. V01 technical byte lock is complete. The numbered Japanese LN lane’s narrative high-water mark is V01 as of 2026-10-14; every other lane remains at no unit analyzed.

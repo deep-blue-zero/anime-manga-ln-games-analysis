@@ -5,7 +5,8 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.0"
+version: "1.2"
+last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied V01 witness, usable source resources, faithful local derivatives and coverage routes"
 source_boundary: "Japanese LN V01 technical source validation only; no narrative source unit analyzed."
@@ -18,13 +19,14 @@ do_not_use_as_literary_evidence: true
 witness_id: SW-LNJP-V01
 source_lock_state: BYTE_LOCKED_LOCATORS_LOCAL_ONLY
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
-sequential_analysis_lock: CLOSED
-literary_inspection: NOT_STARTED
+local_package_recovery: ORIGINAL_RECOVERED_AND_VERIFIED_2026-10-14
+sequential_analysis_lock: OPEN
+literary_inspection: COMPLETE_V01_CLOSED_2026-10-14
 ---
 
 # Japanese LN V01 source lock
 
-This locks the supplied witness `SW-LNJP-V01` to exact archive bytes and documents its technical preparation. It establishes neither literary coverage nor a frozen volume interpretation. The [current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md) remains PRE_V01; the [gate report](../08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) records owner acceptance and the subsequent instruction to keep the derivatives local and leave the sequential gate CLOSED.
+This locks the supplied witness `SW-LNJP-V01` to exact archive bytes and documents its technical preparation. It establishes neither literary coverage nor a frozen volume interpretation. The [current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md) remains PRE_V01; the [gate report](../08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) records owner acceptance and the subsequent instruction to keep the derivatives local and leave the sequential gate CLOSED. Its 2026-10-14 addendum records the later owner instruction that opened the gate for V01 only; the [recovery verification](#recovery-verification-2026-10-14) below is the technical part of that record.
 
 ## Witness and edition
 
@@ -58,7 +60,7 @@ Thirty-five spine documents declare Japanese; the image-only cover has no declar
 
 ## Source order and admission classes
 
-The complete spine is accounted for below. Paths use the common prefix `OEBPS/Text/`. This is technical inventory and a future coverage contract; every literary-inspection state remains NOT_STARTED.
+The complete spine is accounted for below. Paths use the common prefix `OEBPS/Text/`. This is technical inventory and a coverage contract. At the lock every literary-inspection state was NOT_STARTED; the [V01 deep reading](../02%20Sequential%20Readings/SW_V01_DEEP_READING.md#5-full-admitted-chapter-and-scene-coverage) has since completed inspection of every member under these classes.
 
 | Spine position | Member(s) | Class / future treatment |
 |---|---|---|
@@ -125,3 +127,25 @@ Recover the source through the authenticated Google Drive connector using the ob
 | Retained audit report | `1bXhAGOSzRO6BECVIG_cp4jDH-Oj57ysL` |
 
 The [source map](SW_SOURCE_AND_CONTINUITY_MAP.md#recovery-and-future-ingestion-dependency) and [Drive reference index](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md#silent-witch-v01-source-lock-reference-routing) provide public-safe recovery routes. A future session must recover and verify the local package or obtain separately authorized evidence retention before using its locators. Gate opening and V01 deep reading remain separate owner decisions. No numbered unit has been read, accepted or closed.
+
+That paragraph states the position at the 2026-10-13 lock. The section below records what a later session actually did.
+
+## Recovery verification, 2026-10-14
+
+The owner’s 2026-10-13 resume instruction directed local acquisition first, with the Drive collection as fallback. The local route succeeded, so nothing was downloaded.
+
+| Object | Verification in this session |
+|---|---|
+| Local V01 EPUB in the owner’s novel collection | 17,235,698 bytes; SHA-256 `d3d8cca8fc271f29cc96a56e7e92b898bfebe4f744b9f3fd424fd8789686968d`. Exact match to this lock. |
+| EPUB retained beside the locator package | Same SHA-256. The two local copies and the 2026-10-13 Drive retrieval are therefore the same bytes. |
+| `SW-LNJP-V01_FIDELITY_LOCATORS_V1.zip` | **Original package recovered.** 18,275,961 bytes; SHA-256 `33fade35c657bd95b120878b613d999d61dad2569f1a10e9418a76a7bd656f1e`. Exact match. No replacement package was generated. |
+| Six inner seals | Package manifest, normalizer, narrative base, block map, element-locator map and validation record recomputed after extraction; all six equal the table above. |
+| Witness members inside the package | Used as the fidelity authority for XHTML structure, ruby, emphasis and images during the reading. |
+
+Not repeated in this session: ZIP CRC and resource resolution of the original archive, the deterministic package rebuild, EPUBCheck and reader-app rendering. The first two were performed at the 2026-10-13 lock and are covered by the unchanged hashes; the last two remain unperformed limitations.
+
+A session-local reading projection was derived from the sealed block map for convenience. It prints each block with its element ordinal and shows ruby readings beside their base text. It is disposable working state, is not part of the sealed package, is not a new evidence seal, and is not published. Wording quoted in the V01 reading is checked against the sealed block map rather than against that projection.
+
+Local-only retention is unchanged. No EPUB, normalized text, locator map, image or derivative archive is added to Git or uploaded to Drive.
+
+**Use in the V01 reading.** All 24 image resources were viewed at source resolution from the package’s witness members, and their visual and image-only text content was inspected; image-only text is cited at the image element, which is the finest available locator. The reading cites 516 locators, all confirmed present in the element map, and quotes 64 short fragments, each confirmed verbatim in the base text of a block it cites. The class assignments in the table above held under full reading; no member needed reclassification.
