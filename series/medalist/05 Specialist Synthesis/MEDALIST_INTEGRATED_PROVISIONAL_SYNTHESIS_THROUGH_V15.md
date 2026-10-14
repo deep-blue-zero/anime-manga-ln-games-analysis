@@ -5,7 +5,7 @@ artifact_type: "specialist_synthesis"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.1"
+version: "1.2"
 status: "canonical"
 scope: "Bounded integrated account of the work's structure, stakes and central problem at the combined boundary, with a map of competing readings and unresolved questions"
 canonical_home: "series/medalist/05 Specialist Synthesis/MEDALIST_INTEGRATED_PROVISIONAL_SYNTHESIS_THROUGH_V15.md"
@@ -179,4 +179,4 @@ The boundary is `MD-FR-FB02`: the Japanese manga through Volume 15 and Score 61,
 
 ## Revision dependencies
 
-This synthesis depends on the claim versions in force at `MD-FR-FB02`: MD-CL-0001@15; 0002@15; 0003@14; 0004@13; 0005@14; 0007@12; 0008@14; 0010@16; 0011@16; 0012@15; 0014@11; 0016@14; 0019@12; 0022@12; 0024@9; 0025@10; 0026@9; 0027@7; 0028@5; 0029@6; 0030@2; 0031@1. A change to any of them reopens the sections that cite it.
+This synthesis depends on the following current claim versions at the unchanged `MD-FR-FB02` source boundary: MD-CL-0001@15; 0002@15; 0003@14; 0004@13; 0005@14; 0007@12; 0008@14; 0010@16; 0011@16; 0012@16; 0014@11; 0016@14; 0019@12; 0022@12; 0024@9; 0025@10; 0026@9; 0027@7; 0028@5; 0029@6; 0030@2; 0031@1. A change to any of them reopens the sections that cite it.

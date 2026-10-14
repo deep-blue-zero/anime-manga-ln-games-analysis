@@ -5,7 +5,7 @@ artifact_type: "audit"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.1"
+version: "1.2"
 status: "canonical"
 scope: "Staged original-source reassessment, governed corrections, visual verification, adversarial tests and reconstruction limits at the existing boundary"
 canonical_home: "series/medalist/07 Audits and Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md"
@@ -106,6 +106,10 @@ Root then inspected original V12/W01 CBZ0047–0049 at1125×1600 and rechecked t
 The correction advances `MD-CL-0023@9→@10` / `MD-RV-0280`, repairs both operative form passages and the form/Hikaru dependency sections, clarifies Inori's private naming, and appends visual/character/relationship history errata. The three affected syntheses advance to1.2; the other five remain1.1. The follow-up changes no freeze, source boundary, stable observation, prediction, readiness outcome or operational rule.
 
 The three V12 diagnostic pages were absent from the first489-page union and therefore increase the current distinct admitted inspection count to492 (V12:26→29; root:69→72; observer-page total521→524, with32 duplicates still removed). The existing27 formal visual sequences/199 occurrences and60 principal verdicts remain unchanged; these three pages are channel/wording checks, not a newly claimed formal sequence. The prior private489-page receipt is preserved; the current supplemental receipt records exact members, hashes, dimensions and actual perception, reflected in the sanitized manifest below. Frozen reading bodies and all pre-follow-up ledger rows are retained.
+
+### Final dependency-only propagation correction
+
+After publication9578d5c9805968b1223c9a9c3ff38e4d7362981e, the parent's independent read found that the integrated synthesis's active dependency list still used unprefixed0012@15 although its body citedMD-CL-0012@16. The initial dependency search had missed that shorthand token. The current list is corrected to0012@16, the integrated synthesis advances to1.2, and all eight revision-dependency sections are rechecked with both prefixed and shorthand IDs. The current version distribution is four syntheses1.2 and four1.1; the earlier three/five distribution above records the preceding light-motif tranche. This is propagation of the already accepted father-delay correction, not a new source interpretation or claim version. Counts remain60 principal clusters,27 formal sequences and492 distinct admitted Japanese pages; all frozen readings, ledger histories, source/readiness boundaries and the no-main hold are preserved. The separate correction starts its own exact-head publication validation sequence.
 
 ## Adversarial integrated-interpretation tests
 
