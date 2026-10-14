@@ -5,7 +5,7 @@ artifact_type: integrated_synthesis
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.0"
+version: "1.1"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Bounded integrated synthesis of the published Japanese light novel through V12 and the four supplied companions: one account that reconciles the three specialist arguments, the four character monographs and the relationship arguments, names their disagreements and resolves or bounds them, with an account of form and the open structure at the boundary"
@@ -32,7 +32,7 @@ It does three things:
 - It names the points where those arguments disagree, and resolves or bounds each one.
 - It sets out what stays open at the boundary.
 
-It does not summarise the arguments in turn, and it adds no new reading of the Japanese text. Every claim traces to the [master ledger](../03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) and to observations in the sequential readings, usually through one of the arguments:
+It does not summarise the arguments in turn, and it adds no new reading of the Japanese text. Every claim traces to the [master ledger](../03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md), or for `SW-C` and `SW-CR` IDs to the [claims and revisions ledger](../03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md) split from it after this synthesis was written, and to observations in the sequential readings, usually through one of the arguments:
 
 | Argument | Home |
 |---|---|

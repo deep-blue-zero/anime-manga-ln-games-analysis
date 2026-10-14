@@ -5,7 +5,7 @@ artifact_type: analytical_method
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.4"
+version: "1.5"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Japanese-primary published-LN prospective reading and evidence discipline"
@@ -85,7 +85,7 @@ Separate what happens, what a participant thinks happened, why someone acts, how
 
 For a load-bearing inference preserve support, strongest rival explanation, disconfirming evidence, uncertainty, and the observation that could change it. Absence becomes negative evidence only when the declared inspected range and expected opportunity make absence meaningful. Missing access is an evidence gap, not proof that a trait or event is absent. An untested expectation remains UNTESTED.
 
-Use the master ledger's PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT, and OPEN revision events. Preserve the earlier formulation and its evidence boundary. A contradiction may result from ignorance, deception, chronology, focalization, witness revision, translation, paratext, or genuine inconsistency; retain alternatives until inspection supports adjudication.
+Use the [claims and revisions ledger](../03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md)'s PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT, and OPEN revision events under its claim-review contract (section 3). Review every applicable claim at each unit, record the review in the unit's receipt, and write an event only for a material result or a significant decision to preserve. Preserve the earlier formulation and its evidence boundary. A contradiction may result from ignorance, deception, chronology, focalization, witness revision, translation, paratext, or genuine inconsistency; retain alternatives until inspection supports adjudication.
 
 ## 5. Close reading as prose and social action
 
@@ -113,7 +113,7 @@ For each recurring lens ask what concrete mechanism the current volume supplies 
 
 A volume closes only after complete declared coverage, a readable causal synopsis, sustained diagnostic analysis, verified consequential wording/locators, entry and exit freezes, claim/prediction adjudication, and material updates to every required cumulative responsibility. Record an explained no-material-update where appropriate. Preserve unresolved mandatory evidence as a blocker to the corresponding completion claim.
 
-The [master ledger](../03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) preserves cumulative changes; the entrypoint advances only after coherent durable closure. Distinguish inspection, semantic acceptance, transaction persistence/commit, branch publication, housekeeping, exact-head audit, and main integration.
+The [master ledger](../03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) and the [claims and revisions ledger](../03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md) preserve cumulative changes; the entrypoint advances only after coherent durable closure. Distinguish inspection, semantic acceptance, transaction persistence/commit, branch publication, housekeeping, exact-head audit, and main integration.
 
 Evaluate explanatory depth, evidence specificity, temporal/epistemic discipline, meaningful counterinterpretations, and literary readability. Sparse plot bullets or generic character lists cannot satisfy a deep reading. No arbitrary word quota or maximum imposes compression, and length alone proves nothing. Preserve enough connected prose to develop significant arguments.
 

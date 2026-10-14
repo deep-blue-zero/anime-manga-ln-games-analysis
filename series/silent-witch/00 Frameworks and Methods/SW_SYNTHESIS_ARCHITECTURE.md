@@ -5,7 +5,7 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.25"
+version: "1.26"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
@@ -61,7 +61,8 @@ Git holds interpretation, methods, public-safe routing, state, and provenance. G
 | Character and relationship arguments | `06 Character and Relationship Arguments/`: the character monographs and the relationship arguments the checkpoint warrants. |
 | Integrated synthesis | `07 Integrated Synthesis/`: the bounded published-LN synthesis through the authorized high-water mark. |
 | Reconstruction-readiness assessment | `09 Reconstruction Readiness/`: the subject-, state- and domain-specific readiness assessment; no model. |
-| Master longitudinal ledger | Sole pre-split cumulative analytical state, claims/revisions, predictions, and local readiness. |
+| Master longitudinal ledger | Cumulative analytical state for character, relationships, knowledge, world, prospective questions, form, local readiness and unit closure. It was the sole pre-split home until 2026-10-14. |
+| Claims and revisions ledger | `03 Longitudinal Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md`: load-bearing claims SW-C and their append-only revision events SW-CR, with current-view boundaries, review receipts and the claim-review contract; split from the master ledger on 2026-10-14. |
 | Bootstrap report | Historical design rationale, observed precedents, accesses, checks, limitations, and handoff gates. |
 | Bootstrap path manifest | Exact approved authored path set and bootstrap-generation identity. |
 | Series routing descriptor | Complete desired series row for designated housekeeping. |
@@ -75,6 +76,8 @@ Concealment, knowledge, role pressure, competence, and relationship conditioning
 The ledger owns cumulative interpretation, not a second copy of every scene. The volume reading owns the source-bearing observation. A record can link multiple typed records without duplicating their ownership: a disclosure event's participant knowledge belongs to knowledge state, its directional trust effect to relationships, and its hypothesized cause to claims.
 
 Split only when recurring evidence, independent retrieval/revision, separate specialist dependency, or conflicting ownership makes the combined home inadequate. Record the reason, exact transferred IDs, destination, and necessary material backfill. Preserve IDs/history and leave routes in the old home; do not maintain two live copies. Mere length or another project's folder count is insufficient.
+
+*Split, 2026-10-14.* Claims SW-C-0001 to SW-C-0104 and revision events SW-CR-0001 to SW-CR-0916 moved to the [claims and revisions ledger](../03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md). The reasons were independent revision pressure: every claim was reviewed and given an event at every unit, a cadence no other section has. They are also the primary route of every synthesis product, and they had grown to 58 per cent of the master file. No backfill was needed, and the master keeps a routing statement under the old heading. The other sections stay in the master; section 10 records the decision for each.
 
 ## 5. Observation-to-synthesis responsibility matrix
 
@@ -121,7 +124,7 @@ Mature claim -> master claim/revision ID -> canonical volume observation -> witn
 
 Maintain source order, diegetic order, revelation order, and participant knowledge separately. A character belief, third-party attribution, narrator presentation, and reader inference cannot collapse into one omniscient state. Later disclosure can be REVEALED_NOT_NEW rather than developmental change. Knowledge updates do not grant an earlier model later information.
 
-For revisions use PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT, or OPEN, retaining old wording, prior source boundary, new evidence/counterevidence, and affected downstream homes. Frozen sequential interpretations and checkpoints remain historical. Correct objective errors visibly and record downstream consequences; do not silently rewrite a prospective prediction.
+For revisions use PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT, or OPEN, retaining old wording, prior source boundary, new evidence/counterevidence, and affected downstream homes. From 2026-10-14 the claims ledger's claim-review contract governs when an event is written: every applicable claim is reviewed at each unit and the review is receipted, but a routine no-change review writes no event. Frozen sequential interpretations and checkpoints remain historical. Correct objective errors visibly and record downstream consequences; do not silently rewrite a prospective prediction.
 
 Cross-source contradiction taxonomy: chronology/admission mismatch; ignorance/deception; focalization/reliability; later revelation or textual revision; edition/normalization defect; translation variation; supplemental retrospection; adaptation/continuity divergence; creator-paratext conflict; genuine inconsistency; unresolved cause. Record both incompatible formulations with witness/unit/time and knowledge status. Validate source/locator identity first, then investigate causes. Significant conflicts require a bounded audit and claim/dependency review rather than forced reconciliation.
 
@@ -308,6 +311,14 @@ Performed after the last supplied unit closed, as section 9 requires. The [compl
 *Reconciliation and arguments, 2026-10-14.* The [longitudinal reconciliation](../03%20Longitudinal%20Ledgers/SW_LONGITUDINAL_RECONCILIATION.md) satisfies the reconciliation gate. Every claim was tested by every later unit, none was rejected, the chronology holds as a partial order after the prequel correction, and twenty-eight apparent contradictions are classified, seven of them open. Its only ledger change is an alias note, with the ledger staying single. The three specialist arguments, four character monographs and the relationship arguments entered their homes after the integrator's checks. *Lifecycle.* No responsibility, ledger, dependency or completion gate changes.
 
 *Integrated synthesis and readiness, 2026-10-14.* The [integrated synthesis](../07%20Integrated%20Synthesis/SW_INTEGRATED_SYNTHESIS.md) reconciles the eight arguments into one bounded account. It resolves or bounds six disagreements between them without amending any. The [reconstruction-readiness assessment](../09%20Reconstruction%20Readiness/SW_RECONSTRUCTION_READINESS_ASSESSMENT.md) records SW-RD-0057 to SW-RD-0066 and awards no tier. With these, every product the architecture requires for the authorized boundary exists. The full-series synthesis gate is met at author level. Reconstruction remains assessment only: models need separate authorization. *Lifecycle.* The architecture moves from INITIAL to STABILIZED under the initiation policy (section 7.3). The synthesis responsibilities for Japanese LN V01 to V12 and the four companions are now known and filled. Any new admission, comparison lane or owner amendment that changes them is a material change and triggers an explicit review. The architecture is not FROZEN: no release has been declared.
+
+*Ledger architecture correction, 2026-10-14.* This is a material change to cumulative homes, so it is recorded here as an explicit review under the STABILIZED lifecycle. The full record is the [ledger architecture correction report](../08%20Audits%20and%20Manifests/SW_LEDGER_ARCHITECTURE_CORRECTION_REPORT.md). The owner commissioned it after the run.
+
+- **Split.** Claims and revisions moved to the [claims and revisions ledger](../03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md), as recorded in section 4.
+- **Review contract.** A routine no-change claim review now writes no revision event and is receipted at unit closure.
+- **Character state.** The audit corrected 53 records against their readings and extended the change-kind vocabulary. DEVELOPMENT is retired; GOAL_CHANGE, CAPACITY_CHANGE and PERSISTENCE and five qualifiers are defined.
+- **Remaining sections.** SW-S: RETAIN and MONITOR. SW-K: RETAIN. SW-RD: MONITOR, with a split proposed only if reconstruction models are authorized. SW-P: RETAIN with an open-question index. SW-R: RETAIN and MONITOR, with an audit by the same method recommended. SW-W, SW-F and SW-U: RETAIN.
+- **Not changed.** The high-water mark, the lock and every frozen reading. Lifecycle remains STABILIZED.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 

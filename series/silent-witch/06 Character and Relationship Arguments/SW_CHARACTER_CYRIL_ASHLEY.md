@@ -5,7 +5,7 @@ artifact_type: character_monograph
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.0"
+version: "1.1"
 last_updated: "2026-10-14"
 status: canonical
 scope: "A character monograph on Cyril Ashley across the authorized boundary: his development, motives against conduct, his mirror of Monica's history, hidden care, effort and recognition, relationships, ordinary life, written speech, contradictions, thematic function and limits."
@@ -585,7 +585,7 @@ His temperament is constant. The monograph's answer is that his development lies
 - His relation to his own name and lineage changes (V05 obs. 155; V10 obs. 157).
 - His ability to say what he lacks grows (V10 obs. 157; V12 obs. 167).
 
-These are state changes recorded by the ledger as DEVELOPMENT from V05 onward (SW-S-0112, SW-S-0130, SW-S-0146, SW-S-0168, SW-S-0216, SW-S-0228). They are compatible with a constant temperament.
+These are state changes recorded by the ledger as DEVELOPMENT from V05 onward (SW-S-0112, SW-S-0130, SW-S-0146, SW-S-0168, SW-S-0216, SW-S-0228). They are compatible with a constant temperament. *Amendment, version 1.1:* the ledger audit of 2026-10-14 retired DEVELOPMENT as a change kind. It re-kinded SW-S-0216 as a relationship change toward Raul, in keeping with SW-C-0078, and SW-S-0228 as an unresolved, unnamed feeling. Neither is a change of temperament, so the conclusion stands.
 
 **4. "Cyril's feeling for Monica is romantic, and the text is building toward it."** There is evidence for this:
 

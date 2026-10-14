@@ -5,7 +5,7 @@ artifact_type: longitudinal_reconciliation
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.0"
+version: "1.1"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Cross-unit audit at sequential completion of the load-bearing claims and their revision histories, local identities, the master chronology in its three orders, knowledge states at the boundary, apparent contradictions classified by the architecture's taxonomy, and the open questions; with the targeted ledger edits the audit requires"
@@ -26,7 +26,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 The [synthesis architecture](../00%20Frameworks%20and%20Methods/SW_SYNTHESIS_ARCHITECTURE.md) sets a longitudinal-reconciliation gate before any full-series product: claims, state, chronology and unresolved contradictions must be consistent through the authorized boundary (section 10). The [completion checkpoint](../04%20Checkpoints%20and%20Reviews/SW_COMPLETION_CHECKPOINT_AND_EVIDENCE_GAP_REVIEW.md) assigns that gate to this document.
 
-This document reads the [master ledger](SW_MASTER_LONGITUDINAL_LEDGER.md) and does not replace it. The ledger remains the sole cumulative home. Where the audit found that a ledger record needed a note, the note is made in the ledger itself, by targeted edit, and listed in section 9. No frozen sequential reading is altered by this document.
+This document reads the [master ledger](SW_MASTER_LONGITUDINAL_LEDGER.md) and does not replace it. The ledger remains the sole cumulative home. *Routing note, version 1.1:* after this reconciliation the claims and revision events it audits in section 3 moved, unchanged in ID, to the [claims and revisions ledger](SW_CLAIMS_AND_REVISIONS_LEDGER.md); the findings below are unaffected. Where the audit found that a ledger record needed a note, the note is made in the ledger itself, by targeted edit, and listed in section 9. No frozen sequential reading is altered by this document.
 
 Sixteen units are reconciled, in admission order: V01 to V04, IV -after- (AFTER04), V05 to V09, IX -extra- (EXTRA09), V10 to V12, then the prequel volumes -another- (upper) and -another- (lower) (ANOTHER-UPPER, ANOTHER-LOWER).
 
