@@ -1,9 +1,9 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: semantic_acceptance_audit
-scope: "Art commerce institution and ONE existing ensemble duty ROOT accepted WITH LIMITS;conditional local147/17;actual sourceC5_146/16/main67_133/13;new publication/CI pending;355/29/25/384/788 fixed;next178 unreached"
+scope: "Hiromi existing character ROOT accepted WITH LIMITS;conditional local148/17;actual source45_147/17/main67_133/13;new publication/CI pending;355/29/25/384/788 fixed;next178 unreached"
 generation: V1
-version: "1.27"
+version: "1.28"
 status: canonical
 source_boundary: "Accepted textual meanings at main 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c preserved by reconciliation c5f85a6921067abf031a920dbab7d84e12361b89; Phase 3 controls 2927442fef0daa17df1098d82bb62e0d8a46f19f; Japanese a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z"
 supersedes: []
@@ -16,6 +16,21 @@ updated: 2026-10-14
 ---
 
 # Blue Archive Phase 3 — semantic acceptance of literary packages
+
+
+## Current Hiromi acceptance, conditional local148 and verified published147 — 2026-10-14
+
+ROOT accepts Hiromi at her existing source-scoped character home WITH LIMITS. The complete original167-line argument has42 substantial paragraphs,16 character concerns,8 serious rival readings and16 finite endpoints. Tired guard work, wanted rest, literary affection, mistaken belief, warning-sharing and material obstruction identify her own agency and costs. The interpretation retains positive reading and company goods beside unequal knowledge; it does not reduce her to an information obstacle.
+
+ROOT personally received the complete maintained139-line EVENT850 written account, all42 argument paragraphs and literal source/question/purpose joins, all105 new five-field comparisons and their actual independent QA reasons, all10 pre-draft source questions, character16/rival8/end16/gap14 and85 operative controls. Miyo's inward apology and safety wish are not spoken reassurance or Hiromi's discovery, forgiveness, medical result, cafe pleasure or repaired trust. Miyo's novels differ from Ritsu's sculpture/materials/author/cake interests. Hiromi's private history, Teacher relation and later continuity remain unreceived. Quiet evidence is intrinsically eligible; no stakes, school, name-frequency, attendance or model filter excludes it.
+
+Actual ROOT signed60783/SHAb354ef7482b51d8a06481a1c47e6fa9677bade5a10be8fba9ca78b36ab4da1bf accepts the exact original8 semantics for metadata-only public composition. ROOT executed4428 raw/schema predicates with0 findings. Public183 prepends16 frontmatter lines while preserving the entire original167 body and42 paragraphs;50 live body tuples,42 offsets and72 claim/end/gap line fields move, while source139 and frozen original105 locators do not. Only exact27 approved QA delivery VALUES may become opaque; every reason, key, alias, decision, grade and original tuple remains literal. V3 explicitly maps both header witness IDs to actual signed60783 and original QA294193/approved public293332, preserving original167 literary scopes separately from current183 metadata-byte review.
+
+Verified published source45e924770e6971bf44c8194588d455a71956772c/treeba420bb5630cff92da4f7b44376802094fa9a05d contains147 required packages and17 named duties, including Art commerce and the prior four Library attribution corrections. SOURCE38557506437, HOUSEKEEPING38558892903 with actual SHA45 unchanged-routing no-op, and FINAL38558929040 succeeded. Both full audits discovered and ran the same301 unique tests with selection disabled and all five result counters zero. Latest trusted status56320515684/app15368 targets that FINAL. Dispatcher main metadata is distinct from analytical execution. Current main67b2a064714c099204636764a24aabc9ca58f2e6 contains133/13. This certificate governs45 only; the Hiromi successor requires its own exact-commit chain.
+
+Only sole ROOT installation of reviewed Hiromi public15 and this shared7 successor yields148 local required packages (105CHAR/18REL/5ENS/20INST) with17 named duties. At this C-only preparation actual source is147/17 and main133/13. Hiromi updates existing required row333 and home335; she adds no named duty, new home or duplicate character. One legacy tracking append takes170 to171. All other354 required rows, all29 named rows and all170 prior legacy rows remain literal. Fixed355 required/29 named/25 parents/384 homes/788 navigation and first89 history remain; next178 is UNREACHED. PR158 stays OPEN/DRAFT/HOLD with merge approval reserved. All14 original gaps remain OPEN and models0. Wildhunt, Toki-GDD, Rio and I008 remain separate pending packages.
+
+This C-only successor grants no installation, remote publication, new runtime or main integration credit. Different-author current public15/shared7 metadata QA, final ROOT composed-byte adoption/freeze, guarded exact-path installation, author preflight, fresh live publication controls, ordinary push/full raw remote readback and a fresh SOURCE/HOUSEKEEPING/FINAL chain remain actual separate gates. ROOT remains sole repository, shared-metadata, Git and provider writer. Older pending/status fields and byte tuples retain dated preparation scopes under this explicit current boundary; the separate local main reference is preserved.
 
 
 ## Current Art commerce acceptance, conditional local147 and verified published146 — 2026-10-14
