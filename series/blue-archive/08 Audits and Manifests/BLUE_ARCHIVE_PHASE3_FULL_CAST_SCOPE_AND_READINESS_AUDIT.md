@@ -7,7 +7,7 @@ drafted_against_commit: "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
 created: 2026-10-09
 updated: 2026-10-14
 generation: V1
-version: "1.21"
+version: "1.22"
 supersedes: []
 superseded_by: []
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md
@@ -17,6 +17,21 @@ do_not_use_as_current_authority: false
 ---
 
 # Phase 3 full-cast scope and readiness audit
+
+
+## Current Publishing acceptance, conditional local146 and verified published145 — 2026-10-14
+
+ROOT accepts Publishing circulation and burdens WITH LIMITS: the complete232-line body,41 complete argument paragraphs,105 new five-field institution-purpose judgments,15 dimensions,8 rivals and16 finite ends. Wanted manuscripts, drawing, material access, reading, discussion and reader encounters are finite goods. Yakumo's planning, rail travel, rest, bento and limits; Takane's criticism, cooking, hockey, photos and private evening; and Mel's figures, tools, workroom, cafe desire and quiet readers retain intrinsic analytical value. These goods coexist with appropriation, false persona, carrying/work burdens and bargaining under reported foodlessness; achieved circulation does not retroactively certify permission, fair terms or universal benefit.
+
+ROOT personally received the whole232 body/all41 arguments, all525 new Publishing-specific fields and all146 linked manual QA reasons, all41 source-purpose joins and current INPUT16 operative boundaries, all15 dimension/8 rival/16 end/14 gap reasons. ROOT selected necessary maintained contexts from all4 core analytical carriers; author whole4, independent reviewer selected4 and underlying121/15/10/20 scopes remain attributed. The common105 original26whole/79selected scopes are preserved. ROOT's reused E850 selected81-100 distinguishes Miyo wanted romance-reading/refusal from Ritsu sculpture/material/favourite-author access without renewed primary reading. Food supplied before bargaining is not meal withholding; Yakumo food/timetable refusal is distinct from the adult perpetual-company/interview refusal. PS01L239 supports wage conflict/stopped work with no demonstrated payroll nonpayment or settlement. Wanted fishing and local release from endless repayment stay finite. Absent direct Publishing attendance or lower crisis stakes never automatically exclude evidence. No fresh normal105, primary/native/raw/AV, source admission, identity or model credit.
+
+Actual ROOT signed43197/SHA d6421614877fe38ed6ddf05d1d7bfcdffd7a9416f0e98fbd1c38d02ff3e37b85 accepts exactV2 body232/literal41/new105/selected4 with current distinct QA for metadata-only public14 composition. Its all six receiving gates are actually true. Original185812 body-only HOLD and two supported finding groups remain literal, qualified by the complete14550 exact3 repair review and current205175 full component QA. The proposed236 body changes only authority frontmatter; all41 arguments/all525 purpose fields stay literal, with54 body tuple updates,79 line locators plus4 and49 spans plus271, while three purpose parts are whole byte-noops. Only exact11 QA and exact3 signedROOT delivery scalar values may become opaque, with full original raw inverses and unchanged keys, decisions, scopes and logical selectors. ROOT executed1977 read-only raw/schema predicates with0 findings for all8 sparse recoveries, original11 frozen105 envelopes, original source4 report/4 locator reversals, body3 repair and literal-source-purpose graph. Different-author current public14 composition QA and final ROOT composed-byte adoption are separate gates.
+
+Verified published source a729478bf7942cc48d6c7a7e86528856590bfd75/tree e4b854d2c95329f3fe1a3ffac5d41aa7cb0f2ada contains145 packages/16 named duties, including Veritas and all four Library corrections. SOURCE38530946962, HOUSEKEEPING38532768816 actual no-op and FINAL38532812741 succeed. Both actual full audits ran301 identical unique discovered tests with selection disabled and all five outcome counters zero. Latest trusted GitHub Actions status56305244377/app15368 is success and targets exact FINAL38532812741. Dispatcher main metadata is separate from actual executed source; no direct incoming event-ID causality or human whole-log reading is claimed. Main67b2a064714c099204636764a24aabc9ca58f2e6 retains133 packages/13 named duties. This completed certificate governs a729 only; a future Publishing publication requires its own exact-head runtime chain.
+
+Only complete sole ROOT installation of the exact reviewed Publishing public14/shared7 yields146 local packages (104CHAR/18REL/5ENS/19INST), with16 named duties unchanged. At this preparation actual remote source is145/16 and main133/13. Publishing occupies existing home259/required row254; one legacy tracking append yields169. All other354 required rows, all168 prior legacy rows and the whole29-row named index remain unchanged. Fixed355 required/29 named/25 parents/384 homes/788 navigation, first89 completion history, next178 UNREACHED, PR158 OPEN_DRAFT_HOLD and reserved merge approval remain. All14 original gaps remain OPEN, models0. Art-Commerce, Hiromi, Wildhunt and I008 are separate pending packages. Preceding current-state blocks retain their dated preparation/publication scope.
+
+This C-only seven-file successor confers no installation, remote publication, future runtime or main integration credit. Different-author final composition/shared7 review, final ROOT byte adoption/freeze, guarded exact21 installation, applicable authorpreflight, fresh live controls, ordinary source push and full raw readback, and its own SOURCE/HOUSEKEEPING/FINAL chain remain separate operational gates. ROOT is the sole current repository/Git/provider/sharedmetadata writer; housekeeping's five outputs and character curation's two outputs retain their designated writers.
 
 
 ## Current Veritas acceptance, conditional local145 and verified published144 — 2026-10-14
