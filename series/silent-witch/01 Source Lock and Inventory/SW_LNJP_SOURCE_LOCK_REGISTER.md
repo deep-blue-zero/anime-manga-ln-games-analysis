@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.21"
+version: "1.22"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -17,7 +17,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
-locked_units: [V02, V03, V04, AFTER04, V05, V06, V07, V08, V09, EXTRA09, SW-LNJP-V10]
+locked_units: [V02, V03, V04, AFTER04, V05, V06, V07, V08, V09, EXTRA09, SW-LNJP-V10, SW-LNJP-V11]
 literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14; V09 COMPLETE_CLOSED_2026-10-14; EXTRA09 COMPLETE_CLOSED_2026-10-14; V10 COMPLETE_CLOSED_2026-10-14"
 ---
 
@@ -706,3 +706,73 @@ The technical-sample receipt and the retained audit's stored samples were not di
 | validation.json | `e081bbe32d778be9f85032588b5b0a1139b720e9d77cafbd2bce796ca761fa99` |
 
 **Use in the V10 reading.** Twenty-three of the twenty-nine image resources were viewed, including the map, the character list and, after the narrative, the full jacket. The cover, title page, store image and the three preview images were not viewed. S30 proved to be a map of the kingdom and is used as paratext; it was not reclassified. The [V10 reading](../02%20Sequential%20Readings/SW_V10_DEEP_READING.md) cites 210 distinct locators, all present in the element map, and quotes 21 short fragments, each verified in the base text of a cited block.
+
+## V11 — `SW-LNJP-V11`
+
+*Locked 2026-10-14, before any V11 narrative member was rendered for reading.*
+
+The inspection did the following:
+
+- It suppressed the opening text of narrative-length members.
+- It printed the navigation labels and the in-book contents. These give the prologue, twelve chapters, the epilogue, the secret episode, a character list and the afterword; the entry freeze discloses them.
+- It printed the publisher-preview boundary, with the preview's title and the opening of its blurb. The preview is an unrelated work.
+- It printed the opening lines of the publisher notices.
+
+The technical-sample receipt and the retained audit's stored samples were not displayed.
+
+| Field | Verified value |
+|---|---|
+| Collection filename | Secrets of the Silent Witch - Volume 11 [Japanese].epub |
+| Bytes / SHA-256 | 18,283,771 / `cb81975b7967cf61f050a7fea53b39b13d627eb70af56e26af025e85c4207a4a`; equal to the retained audit. |
+| OPF title / creators | サイレント・ウィッチ XI　沈黙の魔女の隠しごと / 依空　まつり, 藤実　なんな |
+| Publisher / imprint | 株式会社ＫＡＤＯＫＡＷＡ / カドカワBOOKS |
+| Identifier | A store e-code; no ISBN in the OPF. |
+| Electronic publication / revision | Colophon: electronic 2026-01-09, ver.001, based on the first print edition of 2026-01-10. OPF modification date 2026-01-09. |
+| Package form | Publisher layout, EPUB 3: `item/standard.opf`, a navigation document and an in-book linked contents. The `mimetype` member is first, uncompressed and correct. |
+| Archive | 90 members, CRC pass. 82 manifest resources; 45 XHTML documents; 29 image uses decoded; 116 local references resolved, none external. |
+| Navigation | Navigation document with 20 labels and 3 landmarks; in-book linked contents. |
+| Publisher preview | S36–S40, a trial edition of an unrelated title; excluded by class `publisher_preview`, 362 blocks; it matches the retained audit's promotional section. |
+
+**Spine and admission classes.** Paths share the prefix `item/xhtml/`.
+
+| Spine | Member(s) | Class / admission |
+|---|---|---|
+| 1 | p-cover | Source-identifying cover. |
+| 2–4 | p-fmatter-001 to 003 | Colour frontispieces; visual channel. |
+| 5 | p-caution | Publisher notice; excluded. |
+| 6 | p-toc-001 | Linked contents; source-identifying. |
+| 7 | p-titlepage | Source-identifying title page. |
+| 8 | p-001 | Credits; source-identifying. |
+| 9 | p-toc-002 | Illustrated contents image; source-identifying. |
+| 10 | p-toc-003 | Text contents; source-identifying. |
+| 11 | p-002 | Prologue. |
+| 12 | p-003 | Image-only page; narrative illustration. |
+| 13–24 | p-004 to p-015 | Chapters one to twelve. |
+| 25 | p-016 | Epilogue. |
+| 26 | p-017 | Image-only secret-episode heading; narrative illustration. |
+| 27 | p-018 | In-volume supplemental narrative, the secret episode. |
+| 28 | p-019 | Image-only page; narrative illustration, to be confirmed on viewing. |
+| 29–34 | p-020 to p-025 | Image-only character list; in-volume reference paratext. |
+| 35 | p-026 | Afterword. |
+| 36–40 | p-027 to p-031 | Unrelated publisher preview; excluded. |
+| 41 | p-allcover-001 | Full jacket; not viewed before reading. |
+| 42 | p-colophon | Edition paratext. |
+| 43–44 | p-colophon2, p-bookwalker | Rights notice and store image; excluded. |
+
+**Normalization.** The second revision of the generalized driver was used unchanged.
+
+- 7,352 body elements and 4,320 blocks round-tripped.
+- The narrative projection holds 3,837 blocks and 139,071 characters, excluding line delimiters.
+- 1,068 ruby elements are retained.
+- A second build reproduced the package SHA-256.
+
+| Local object | SHA-256 |
+|---|---|
+| SW-LNJP-V11_FIDELITY_LOCATORS_V1.zip; 19,274,462 bytes | `47bbefa0b90452380d688ddd910aa0b7bce34b2a36d9017352ac209236596650` |
+| package-manifest.json | `8fcb715d70fe49193f24f7623d000cedfba7857b4432015660403c793359c689` |
+| normalizer.py (generalized driver, second revision) | `6500076874627f9e0739d9dd76e6c49e33667f7c88f72db42e58b536ca3371b5` |
+| volume-config.json | `e1a76719284cc07affc0afba1f440b36d11cfb98c9ff0f460dc5ba757e57b6cc` |
+| narrative-base.txt | `f11fdce32e915e6ac8d4179df6cfbc3a950565a61c2f42f4eb6cf2d546b0eddd` |
+| block-map.jsonl | `acc2a16fe200005e9d9f3cb6681f7e7f30aec2dbc44e9f6f82570227fa8bc6e2` |
+| element-locators.jsonl | `23d11b682db061143291d40d93218f72b5a836db52587fd294e02d9b3cfb956e` |
+| validation.json | `8ca09110bb909c0da20919c7fd4237ddb137994a7289e3ca783e1fdaa568c4ea` |
