@@ -5,14 +5,14 @@ artifact_type: "character_state_readiness_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.16"
+version: "1.17"
 status: "canonical"
 scope: "Time-indexed character interpretation, identity resolution and evidence-specific promotion readiness"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
+review_status: "AUTHOR_REVIEWED_SYNTHESIS_RELEASE_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -1357,3 +1357,13 @@ No new key is allocated. Gori's wife is carried within MD-PAIR-0057. Skaters and
 | MD-RD-0078 | 0001, 0004, 0010, 0021, 0037 and the comparative study / effect of a second supplement | V01–V15 with FB01 and FB02 | Adds the author's stated intent for the coach, made before V15; her stated position on sacrifice; creator-reported regimes for the prodigy and her coach; the favourite's home; two children who stop so as not to cost a parent; drafts giving the heroine the motive of repayment at eleven. | All creator-layer; intent is not event; nothing may be extended past the freeze. | BOUNDED_PROVISIONAL unchanged for every study; the coach's monograph may cite the author's intent as corroboration of MD-CL-0010@16 and must rest its argument on story pages; author; 2026-10-13; MD-CL-0010@16/0025@10/0026@9 | Extends MD-RD-0073/0076/0077. |
 
 Both scheduled supplements are now reconciled. The synthesis-readiness and role-gap audit is the next step and is not performed in this ledger.
+
+## Provisional synthesis release records (2026-10-13)
+
+Recorded at the release of the provisional syntheses at the combined boundary `MD-FR-FB02`. No source was admitted and no state event is added. The [synthesis-readiness and role-gap audit](../07%20Audits%20and%20Handoffs/MEDALIST_V15_SYNTHESIS_READINESS_AND_ROLE_GAP_AUDIT.md) and the [release audit](../07%20Audits%20and%20Handoffs/MEDALIST_V15_PROVISIONAL_SYNTHESIS_RELEASE_AUDIT.md) own the decisions; this section records their effect on readiness.
+
+| Readiness record | Character / target / domain | Boundary / scope | Context coverage / counterevidence | Gaps / tests | Assessment / reviewer / date | History / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-RD-0079 | 0004; 0001; 0001 with 0004; 0010 with 0021; three specialist domains; an integrated checkpoint / promoted provisional syntheses | V01–V15 with FB01 and FB02; series ongoing | Eight artifacts published under `04 Character and Relationship Synthesis/` and `05 Specialist Synthesis/`, each with a claims and counterevidence table and stated revision dependencies. | The final's result; conduct after it; everything in MD-OQ-V15-01–08. Seven of the eight artifacts were drafted by delegated agents from the frozen readings and ledgers; the integrator's review was mechanical for identifiers and targeted for prose, so local misdescription is not excluded. | Monographs and studies BOUNDED_PROVISIONAL. Operational reconstruction models INSUFFICIENT_EVIDENCE for every character: no `MD-RULE` record exists and none is promoted; a monograph confers no simulation readiness. author; 2026-10-13 | Extends MD-RD-0072–0078. Supporting studies of Iruka, Daria, Riley Fox, Rio, Suzu, Ryoka and the two families are retained as readiness decisions without separate artifacts. |
+
+**Erratum (age).** By the profile page of Volume 13, MD-CHAR-0010 is twelve at the All-Japan Junior of that volume and at `MD-FR-V13` (born 31 January, in her first year of middle school). Prose in the V13 reading and rows in this and other ledgers that call her thirteen in Volumes 12 and 13 should be read as twelve. The frozen readings are not edited. No claim depends on the difference.

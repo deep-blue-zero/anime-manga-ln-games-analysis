@@ -5,14 +5,14 @@ artifact_type: "claim_revision_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.16"
+version: "1.17"
 status: "canonical"
 scope: "Material interpretive claim versions, competing hypotheses, genuine predictions and downstream amendments"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
+review_status: "AUTHOR_REVIEWED_SYNTHESIS_RELEASE_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -1091,3 +1091,16 @@ All dependents named in the prior version of each revised claim were reviewed. N
 ### Predictions at FB02
 
 No `MD-PR` record is added. The supplement contains an author's statement of the direction she intends for one character. It is recorded as intent in the chronology ledger (MD-KN-0159) and is not adopted as a prediction. Open questions MD-OQ-V15-01–08 stand unchanged.
+
+## Provisional synthesis release records (2026-10-13)
+
+Recorded at the release of the provisional syntheses at `MD-FR-FB02`. No claim version changes. The current claim view of `MD-FR-FB02` stands. Three errata and one qualification were found by cross-specialist review and are entered here; the rows above are not edited.
+
+| Record | Row | Correction or qualification | Basis | Effect |
+| --- | --- | --- | --- | --- |
+| Erratum | MD-CL-0005@12 | The phrase "nine points below her first international short program" is wrong. The printed scores are 65.28 (Bangkok) and 47.96 (All-Japan Junior), a difference of 17.32. | MD-PERF-0097, MD-PERF-0107 | The claim's sense is unchanged and stronger. MD-CL-0005@13 and @14 do not repeat the figure. |
+| Erratum | MD-CL-0022@9 and related prose | The champion of the All-Japan Junior in Volume 13 is twelve by that volume's profile page, not thirteen. | V13 profile, recorded at MD-EV-V13-0033 | None on any formulation. |
+| Qualification | MD-CL-0031@1 | The alternative-reading note counts "four independent speakers". Three are independent of one another within the volume: the patron, the trainer and the skater who reaches the position alone. The coach's statement follows his conversations with the first two and is an application. | MD-EV-V15-0013, 0023, 0034, 0051 | Confidence unchanged at MODERATE-HIGH; the count should be read as three independent speakers and one application. |
+| Qualification | MD-CL-0026@3 and later | The doctrine that children should bear no pain but that of competing is stated on the page by the head coach of the injured favourite's club, MD-CHAR-0040. Version 3 left the speaker unnamed. | MD-EV-V10-0025 | None on the formulation. |
+
+No `MD-RV` record is created, since no version advances. No `MD-PR` record exists.

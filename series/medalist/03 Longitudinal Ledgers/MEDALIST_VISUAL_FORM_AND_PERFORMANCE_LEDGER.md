@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.16"
+version: "1.17"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
+review_status: "AUTHOR_REVIEWED_SYNTHESIS_RELEASE_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -465,3 +465,15 @@ No material change. The [Official Fanbook 01 paratext audit](../02%20Sequential%
 ## FB02 evidence tables
 
 No material change. The [Official Fanbook 02 paratext audit](../02%20Sequential%20Readings/MEDALIST_FB02_PARATEXT_AUDIT.md) records an illustration gallery, reproduced pages of the author's sketchbook with thumbnails for a sequence already analysed at V09, and an author-drawn crossover that is non-continuity by construction. None adds a feature or motif record. Two remarks are noted as context only: the author's statement that she drew the rain scene of V09 so that a mask would be seen to break (EV-0026), which agrees with MD-VF rows for that scene, and an assistant's remark that the series' nights are worked in light and shadow without mercy (EV-0032), which agrees with MD-MOT-0008. Earlier tables are unchanged.
+
+## Provisional synthesis release records (2026-10-13)
+
+Recorded at the release of the provisional syntheses at `MD-FR-FB02`. No feature or motif record is added. Two errata were found by cross-specialist review, and one clarification is added; the rows above are not edited.
+
+**Erratum (MD-MOT-0015, first occurrence).** The motif table registered at V13 dates the heroine's naming of the cold feeling to Volume 4. She first names it in Volume 2, in Short Program 3 (MD-EV-V02-0030), and bids it farewell in Volume 4 (MD-EV-V04-0038). The span of the motif is therefore V02, V04, V10, V13 and V15.
+
+**Erratum (the maze).** MD-VF-0139 and the V15 reading refer to "the V11 maze". The image is first recorded in Volume 10 (MD-VF-0090, MD-MOT-0014).
+
+**Clarification (the Exhibition).** The parody is in three instalments, in Volumes 5, 12 and 14 (MD-EV-V05-0043 for the first). Each is classed as parody and not as continuity.
+
+The frozen readings are not edited.

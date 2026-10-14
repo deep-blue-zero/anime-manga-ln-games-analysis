@@ -5,14 +5,14 @@ artifact_type: "sports_technical_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.16"
+version: "1.17"
 status: "canonical"
 scope: "Technical/training progression, competition/performance records and external-rule applicability"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_SKATING_TRAINING_AND_COMPETITION_LEDGER.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
+review_status: "AUTHOR_REVIEWED_SYNTHESIS_RELEASE_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -532,3 +532,11 @@ In this section `EV-####` expands to the [Official Fanbook 02 paratext audit's](
 | MD-COMP-0007 | A fifteen-place result table: the four places recorded here; then fifth 105.43, sixth 102.44, seventh 102.03, eighth 101.10, ninth 87.26, tenth 85.88, eleventh 81.02, twelfth 80.07, thirteenth 79.55, fourteenth 74.67, fifteenth 74.32. Ten-element lists for the silver medallist, the champion and the protagonist, agreeing with MD-PERF-0083 for the last | EV-0025 | As above. |
 
 A table in the supplement states that the skater of MD-CHAR-0037 won the Junior Grand Prix Final at sixteen, the December before the protagonist entered middle school (EV-0027). The manga calls her the series' champion; the supplement's statement is recorded as fanbook data.
+
+## Provisional synthesis release records (2026-10-13)
+
+Recorded at the release of the provisional syntheses at `MD-FR-FB02`. No row is added. Two errata were found by cross-specialist review; the rows above are not edited.
+
+**Erratum (MD-COMP-0006, FB02 annotation).** The annotation in the FB02 section says that places seven to fifteen of the regional qualifier are fanbook data. They are not: the completed row for MD-COMP-0006 in the V06 section already records all fifteen places and scores from the manga. The fanbook's table agrees with it. What the supplement adds for that competition is ten-element lists for seven programs. For MD-COMP-0007 the annotation stands: places five to fifteen as a ranked table, and one score the manga did not print, are fanbook data.
+
+**Erratum (age).** The frontier paragraph of the V13 section calls the champion of the All-Japan Junior thirteen. By that volume's profile page she is twelve.
