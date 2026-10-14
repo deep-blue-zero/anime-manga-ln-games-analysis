@@ -42,9 +42,40 @@ The activation baseline is the immutable Git tree named by `activation_baseline_
 
 Completed terminal projects may retain accepted readings behind a CLOSED current lock through the governing policy's reviewed `terminal_closures` control. This is an exact path/SHA-256 preservation boundary, not an exemption for another source: the initialized foundation remains required, execution must be complete with no next operation, and any added, missing, altered or renamed reading fails. Do not shift the activation baseline or leave a completed run OPEN to satisfy validation. Future admission requires separate owner authorization and a reviewed closure-control amendment.
 
+A closure is one coordinated transaction over the entrypoint and the global control, under owner authorization covering both paths; a series- or study-scoped task cannot perform it and instead records the blocker under [Analytical corrections and procedural conflicts](#analytical-corrections-and-procedural-conflicts). A closure governs source admission and sealed-reading retention, not analytical revision. The governing policy's Section 3.8 defines the interim state, the readable terminal surfaces, and how corrections proceed under a closure.
+
 Work authored on a branch before enforcement, but absent from the baseline, is checked when that branch incorporates the controls. An earlier green audit using older controls is not certification under the new gate. For an existing mature/imported root, retain the legacy route through its current method and architecture. For a Git-native root, verify existing governing artifacts and required infrastructure, then record truthful initialization state in the current entrypoint. Dates alone do not grant an exemption, and neither shifting the baseline nor marking a bootstrap OPEN without verification is an acceptable repair.
 
 This transition checks present governing structure; it does not authorize redoing earlier readings, rewriting prospective freezes, or replacing mature bespoke documents for cosmetic consistency. Preserve adequate existing work and backfill only material evidence gaps under the governing source policy. If an import or material restart cannot be classified from the reviewed provenance, resolve that classification explicitly before integration rather than inventing a timestamp-based exception.
+
+## Analytical corrections and procedural conflicts
+
+This procedure implements Section 4.2 of `../CHATGPT_AUTHORITY_AND_ROUTING.md`: analytical accuracy and source fidelity are the substantive objectives, and controls exist to preserve them. It adds no write, source, publication, or merge authority.
+
+### Correcting analysis
+
+1. **Use the ordinary route first.** Correct a current claim in its canonical home through the project's established claim-revision system or the archive transition vocabulary (`PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT`, `OPEN`), keeping claim IDs, earlier formulations, and revision history recoverable. Correct a frozen reading, prospective freeze, source receipt, or closure-sealed artifact by an attributable erratum, claim revision, or superseding artifact, not by editing its bytes. Do not write retrospective corrections back as prospective knowledge.
+2. **Show an error, not a preference.** A substantive correction records source locators and provenance, material counterevidence and competing readings, remaining uncertainty, and whether each statement is observation, inference, hypothesis, or value judgment. Another session's or model's conclusion, or the correcting agent's confidence, is not evidence of error. Unresolved disagreement stays recorded as disagreement.
+3. **Record a blocked correction.** If a correction cannot be completed under the current authorization, do not leave the defective claim presented as unqualified current authority. Record the defect, affected claims, and exact blocker in the project's existing current-state, claim/revision, or audit home when the task's paths allow, and in the task report otherwise.
+
+### Resolving a conflict between a control and a correction
+
+A procedural conflict exists when a rule, validator check, or process demonstrably prevents an otherwise authorized, evidence-backed correction or forces a known error to persist. First determine whether the control is defective or is correctly requiring an authorization the task lacks; a scope or validation failure alone proves neither. A conflict proposal records:
+
+1. **Affected artifact and claim** — exact path, claim or section ID, and the statement, model, or result requiring correction.
+2. **Evidentiary basis** — supporting evidence, counterevidence, and uncertainty.
+3. **Conflicting control** — the exact rule, validator check with its failure output, or process.
+4. **Material consequence** — how compliance would degrade accuracy, preserve a known error, or prevent an otherwise authorized correction.
+5. **Ordinary remedies considered** — why existing correction, supersession, or amendment routes are insufficient.
+6. **Proposed remedy** — the narrowest sufficient change: an ordinary route, then an erratum or superseding version, then validator repair, then procedure amendment, and only then a bounded exception.
+7. **Authorization** — who must approve the remedy and the exact paths, controls, and duration it covers.
+8. **Preservation** — how existing evidence, historical records, and prior authority states remain recoverable.
+9. **Validation** — the applicable checks, any justified check change with its regression tests, and how the result will be verified.
+10. **Disposition** — corrected, superseded, blocked, or deferred, with remaining obligations and their owner.
+
+Keep the proposal in an existing home: the project's audit or current-state blocker record for a project-scoped conflict, and the commit and pull-request description of a governance or control amendment. No separate exception registry or ledger is required.
+
+**Proposal is not execution.** An agent may diagnose and propose within its current task scope. Executing a remedy requires owner authorization naming its exact scope; a diagnosis, a claim of improved accuracy, or a project-local declaration never grants it. An executed exception is narrow, bound to named paths and controls, reviewable, and preserves the original state; it is recorded with the authorizing change and validated like any other change. There is no general validation waiver: a machine-readable exception exists only as a reviewed, schema-bound control with regression tests, such as a `terminal_closures` record. Never weaken or suppress a failing check to pass a commit, or change tests merely to manufacture a passing result. A recurrent conflict calls for amending the procedure. When the remedy needs authorization the task lacks, preserve completed compliant work and report the exact blocker.
 
 ## Maintained documents: targeted edits
 
