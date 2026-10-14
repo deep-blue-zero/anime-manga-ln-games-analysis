@@ -4,7 +4,7 @@
   "artifact_type": "analytical_coverage_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "2.74",
+  "version": "2.78",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -27,18 +27,18 @@
     {
       "path": "T7S_COVERAGE_AND_ROUTING.jsonl",
       "role": "CURRENT_OR_CONSUMED",
-      "data_records": 574,
-      "bytes": 959013,
-      "sha256": "7fccd15fe3fcca839fc5e22729bfc5b025c2aa30ef9407ff2445f6685d91d2cb",
-      "membership_sha256": "2030b7f63b6c08537bcb79924a34ab5cb4d0edc97e5db3e5e9d61baec5b7f411"
+      "data_records": 586,
+      "bytes": 983292,
+      "sha256": "39d0c22410fb377a89099ca5f6465b7c74307f6ac5f99acfd1faa92162df4aec",
+      "membership_sha256": "4979db385f1ded9125f2b78d58c073bff0a267dcf07e0533a056015c76b03c72"
     },
     {
       "path": "T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl",
       "role": "ROUTED_OR_UNCONSUMED",
-      "data_records": 1016,
-      "bytes": 544347,
-      "sha256": "f793aa6a12405e1cffc153e61ebb43a79b444d5ff9b420937b257bea769fdf5b",
-      "membership_sha256": "31421b30159aae0c20bf3a1c71e33633bf748faf3bdb2de63f18d922ff35c96b"
+      "data_records": 1004,
+      "bytes": 536211,
+      "sha256": "cca9dda1624c8c5f79bb2c514619cbac00c4ed1c4c1a10ebf93212aa1139f3dc",
+      "membership_sha256": "714a2f538269dbb9c8167ceb9c93542888d70ee5e62c95cc3ed7b41cf4c2310e"
     }
   ],
   "transition": {
@@ -47,10 +47,10 @@
     "reason": "Preserve the complete authored ledger below the repository's per-file review threshold without dropping decisions, histories, routes, or defaults.",
     "semantic_change": "NONE"
   },
-  "current_effective_state_sha256": "38c37e766d4a7a215d2bd9188081622f3307cbe4ad116cc0da62116d64fbdc59",
+  "current_effective_state_sha256": "3661f641b2fe7c515818181631991cf8daf8e0075c7e79d01ca29470f03cd79f",
   "latest_state_transition": {
-    "operation": "T7S_B0172_CLOSE",
-    "date": "2026-10-12",
+    "operation": "T7S_B0176_CLOSE",
+    "date": "2026-10-13",
     "moved_scenario_records": 3,
     "unchanged_other_effective_records": 1587,
     "historical_shard_transition_preserved": true

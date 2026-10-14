@@ -4,16 +4,16 @@ artifact_id: T7S_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; governing architecture applied through the exact T7S_B0001–T7S_B0099 horizon; no 2053 or other unadmitted story source"
+source_boundary: "c20260909-r484; governing architecture through closed T7S_B0175 and entity storage representation V1; no new semantic source or2053 admission"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-24
+last_updated: 2026-10-13
 ---
 
 # Tokyo 7th Sisters synthesis architecture
@@ -279,7 +279,7 @@ Authority notation: **G** = governing/administrative, never literary evidence; *
 | B07 `T7S_TOPOLOGY_AND_CHRONOLOGY.md` | `source_topology_and_chronology`; families/spines | Native hierarchy, scoped era/release claims, dependencies and reading schedule | G metadata with typed sourced chronology assertions; mutable/revision history | Mandatory; B05/B06 and F |
 | B08 `T7S_COVERAGE_AND_ROUTING_MANIFEST.json` plus its two declared JSONL shards | `analytical_coverage_ledger_manifest` governing one logical `analytical_coverage_ledger`; exact source membership | Consumption/routing obligations and authoritative analytical homes; manifest-bound partition, hashes, and counts | G operational; mutable decisions with revision provenance; records move atomically between disjoint shards as their consumption state changes | Mandatory; B06/B07; source-ID seeds only at bootstrap |
 | B09 `T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md` | `story_causal_state_ledger`; all admitted story events | Event skeleton, world consequences, dependency and thread state | A after findings; append history/current revisions | Mandatory; B02/B03/B05–B07; zero findings initially |
-| B10 `T7S_ENTITY_STATE_LEDGER.md` | `entity_state_ledger`; characters, knowledge, relations, units | Typed current states/history, identity routing, reconstruction readiness, monograph maturity and separate capability coverage | A state plus G identity/readiness metadata; targeted mutable rows/history | Mandatory; B03–B07/B09; no invented initial psychology |
+| B10 `T7S_ENTITY_STATE_LEDGER.md` plus its entity-state manifest and ordered components | One logical `entity_state_ledger`; characters, knowledge, relations, units and readiness | Sole logical owner retains aggregate metadata/routing; delegated components own disjoint payload intervals under exact length/hash/order and whole-view binding | A state plus G identity/readiness metadata; preserve local horizons, stable history and one current copy | Mandatory; B03–B07/B09; reviewed lossless storage transition; no source or maturity promotion |
 | B11 `T7S_CLAIM_AND_EVIDENCE_LEDGER.md` | `claim_evidence_ledger`; claims/revisions/AV | Current claims, rivals, evidence and review queue | A; stable IDs, retained revisions | Mandatory; B02–B06; no interpretive findings initially |
 | B12 `T7S_BOOTSTRAP_AND_GATE_RECORD.md` | `project_initialization_record`; bootstrap generation | Base state, artifacts, checks, lock transition and source exposure | G; append verified observations, preserve prior gate history | Mandatory; all required bootstrap artifacts and X |
 | B13 `.repository/series-registry.json` | Repository series routing descriptor; this root | Register title/root/entrypoint and required initiation gate | G; mutable through governed routing process | Mandatory for real root; current schema, B01 and repository preflight |
@@ -438,3 +438,9 @@ The initialization lock and a major-story-structure transition gate answer diffe
 - 2026-09-13 — V1 / 1.4: apply the unchanged governing architecture through the complete T7S_B0076 / EPISODE 6.0 horizon; preserve EPISODE NANASUTA as the sole unopened 2034 Main family and keep 2053 semantic admission blocked.
 - 2026-09-13 — V1 / 1.5: apply the unchanged governing architecture through complete T7S_B0079 / EPISODE NANASUTA; mark all eleven admitted 2034 Main families closed while preserving every remaining 2034 release responsibility and the 2053 semantic block.
 - 2026-09-24 — V1 / 1.6: apply the architecture through T7S_B0099 and represent B08 as one manifest-bound logical coverage ledger over disjoint current-or-consumed and routed-or-unconsumed shards, with lossless effective-state and atomic-migration requirements.
+
+## Entity-state physical representation V1
+
+The [storage record](../09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md) and [manifest](../03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER_MANIFEST.json) govern B10 after its original owner approached1MiB. Three components retain all983,530 payload bytes, old horizons and120 heading routes; the owner retains counts, instructions and routing. Physical storage transfers once, with no second current owner or analytical promotion. Reassemble the exact bound logical view before interpreting or changing state. Source-lock bindings and complete native/author/publication checks govern cutover; monolithic readers must not interpret the routing wrapper as the complete ledger. Source, coverage, story and claim ownership remain unchanged.
+
+- 2026-10-13 —1.7: specify one manifest-bound logical entity ledger and exact component ownership at B0175; preserve payload/IDs/horizons/history/links and the full2034 endpoint. No semantic source, model or maturity is added.
