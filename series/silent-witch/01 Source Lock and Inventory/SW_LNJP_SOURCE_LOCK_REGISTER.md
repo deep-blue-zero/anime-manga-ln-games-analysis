@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.9"
+version: "1.10"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -17,7 +17,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
-locked_units: [V02, V03, V04, AFTER04, V05]
+locked_units: [V02, V03, V04, AFTER04, V05, V06]
 literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14"
 ---
 
@@ -327,3 +327,57 @@ Common limitations: each witness is a supplied reflowable EPUB whose equivalence
 | validation.json | `7bd58d40c1112e70724198511f4900e2502f9bfe45bccb0fa3d6225e8e2aa01a` |
 
 **Use in the V05 reading.** Twenty-four of the thirty-one image resources were viewed at source resolution, including the three image-set narrative members S20–S22, whose printed prose was paraphrased; the cover, title page, illustrated contents, store image, glyph and two preview images were not viewed. The full jacket was first viewed after the narrative. The [V05 reading](../02%20Sequential%20Readings/SW_V05_DEEP_READING.md) cites 220 distinct locators, all present in the element map, and quotes 51 short fragments, each verified in the base text of a cited block. No member was reclassified.
+
+## V06 — `SW-LNJP-V06`
+
+*Locked 2026-10-14, before any V06 narrative member was rendered for reading. The inspection suppressed the opening text of narrative-length members and printed the navigation's chapter titles, which the V06 entry freeze discloses. No narrative member was printed. The technical-sample receipt and the retained audit's stored samples were not displayed.*
+
+| Field | Verified value |
+|---|---|
+| Collection filename | Secrets of the Silent Witch - Volume 06 [Japanese].epub |
+| Bytes / SHA-256 | 21,414,746 / `7909cd94b71063033b96b49ec1f7c6b686f49edb637a43b187e500ebad3a7242`; equal to the source-map row and the retained audit. |
+| OPF title / creators | サイレント・ウィッチ VI　沈黙の魔女の隠しごと / 依空 まつり, 藤実 なんな |
+| Publisher / imprint | 株式会社ＫＡＤＯＫＡＷＡ / カドカワBOOKS |
+| Identifier | `04075090A14827500000`, a store electronic code, not an ISBN. |
+| Electronic publication / revision | Colophon: 2023-08-10, ver.001; OPF modification 2023-08-10. |
+| Declared print basis | First edition, 2023-08-10. |
+| Package form | The publisher's own layout, like IV -after- and V05. The OPF carries a third-party extraction credit. The `mimetype` member is uncompressed and correct but not first; the retained audit records the same deviation. |
+| Archive | 92 members, CRC pass. 89 manifest resources; 49 XHTML documents, 48 declaring Japanese; 8 stylesheets; 121 local references resolved, none external; 32 images decoded. |
+| Navigation | EPUB nav 23 entries; no NCX; the in-book linked contents 16. |
+
+**Spine and admission classes.** Paths share the prefix `item/xhtml/`.
+
+| Spine | Member(s) | Class / admission |
+|---|---|---|
+| 1 | p-cover | Source-identifying cover. |
+| 2–4 | p-fmatter-001 to 003 | Colour frontispieces; visual channel. |
+| 5 | p-caution | Publisher notice; excluded. |
+| 6–10 | p-toc-001, p-titlepage, p-001 credits, p-toc-002 illustrated contents, p-toc-003 linked contents | Source-identifying paratext. |
+| 11 | p-002 | Prologue. |
+| 12 | p-003 | Narrative illustration. |
+| 13–20 | p-004 to p-011 | Chapters one to eight. |
+| 21 | p-012 | Image-only spread inside chapter eight; narrative illustration. |
+| 22 | p-013 | Continuation of chapter eight, outside the linked contents; narrative by structure. |
+| 23–26 | p-014 to p-017 | Chapters nine to eleven and the epilogue. |
+| 27 | p-018 | Illustrated secret-episode heading. |
+| 28 | p-019 | In-volume supplemental narrative, the secret episode, with one image. |
+| 29 | p-020 | Image-only page after the secret episode; narrative illustration by structure, to be confirmed on viewing. |
+| 30–38 | p-021 to p-029 | Image-only character reference. |
+| 39 | p-030 | Afterword. |
+| 40–44 | p-031 to p-035 | **Unrelated publisher preview**: 泡沫に神は微睡む 1, electronic trial edition. Exactly the five members in the retained audit; 282 blocks excluded. |
+| 45 | p-allcover-001 | Full jacket; not viewed before reading. |
+| 46 | p-colophon | Edition paratext. |
+| 47–48 | p-colophon2, p-bookwalker | Rights notice and store image; excluded. |
+
+**Normalization.** 9,008 body elements and 4,630 blocks round-tripped. The narrative projection holds 4,237 blocks and 162,162 characters, excluding line delimiters. 1,612 ruby elements are retained. Technical samples: S11:E000022, S11:E000013, S13:E000004, S26:E000316, S28:E000156. A second build reproduced the package SHA-256 with the revised driver.
+
+| Local object | SHA-256 |
+|---|---|
+| SW-LNJP-V06_FIDELITY_LOCATORS_V1.zip; 21,082,034 bytes | `60690bbc9da0a594040f69bc2d26314319537d187e42581fa5cdbb970040502a` |
+| package-manifest.json | `fd50ea6bf57da2bbc0ecb57fc8395f7075af83570018655fb635e40bec2c149b` |
+| normalizer.py (generalized driver, revised) | `5ddc140dc21eff0eb70a6d99eaf715b9865a34d6eb9ab3ebfc23a59ec906b0f7` |
+| volume-config.json | `f17174705d808f8fb86bb26b3d4a9a07eb7ea3f47eea6b8d1aea8cb99b562deb` |
+| narrative-base.txt | `d8ee87b1a3ae6b61667bd5f654a821b672d6263efa113cb75cdcb1aa5a6bdd9a` |
+| block-map.jsonl | `a893f8137569672c2f15ed075e01547b65365faa6b16471a4b0ff15c61a9c975` |
+| element-locators.jsonl | `46310602671bafc5a06bd6016e130451bdba0a41502ba53276a46430c231eb7c` |
+| validation.json | `982f8933de50164cd1d9c7ec0eeb0d073543a5f9faf5ef9db7cfda20a611f9c6` |
