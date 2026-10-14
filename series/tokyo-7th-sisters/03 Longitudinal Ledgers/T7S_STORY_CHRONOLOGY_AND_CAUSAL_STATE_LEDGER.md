@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.79"
+version: "11.80"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 271 complete i-n-g primary documents / T7S_B0080–T7S_B0178; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 274 complete i-n-g primary documents / T7S_B0080–T7S_B0179; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-14
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1004`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1192`; `last_closed_block = T7S_B0178`. The admitted horizon contains 506 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 271 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1027`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1218`; `last_closed_block = T7S_B0179`. The admitted horizon contains 509 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 274 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3429,3 +3429,64 @@ Owner [B0178](../02%20Readings/T7S_B0178_DEEP_READING.md), authored reading SHA2
 | `EDGE-1199` | `EV-B0178-011` → `EV-B0178-015` | `CONTRASTED_ELIDED_TRIALS`; Different labelled/cued trials and role direction remain distinct; acoustic contrast unreceived. |
 
 Twenty events and24 edges retain every older body/edge/gap. No new WORLD/THREAD, total cross-chapter calendar, actual MV100 viewing, heard singing/choreography, permanent collaboration, analyst prediction or mature release is established. Scene reports, managerial-intent attribution and future commitments keep their frames.
+
+## B0179 competing promises and the maid's chosen return
+
+Owner [B0179](../02%20Readings/T7S_B0179_DEEP_READING.md), authored reading SHA256 `144a78984c52d02f2f9f294420dcfedb4d6dc1fe61c0ac11cc2f1d4f00658115`; complete chapter301510 A612203601 P0–47/B612203602 P0–86/C612203603 P0–157, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.85. Entering B0178/source-lock12.84 complete logical and physical boundaries remain pinned separately. Previous chronology/horizons remain bounded.
+
+| ID | Source range | Local event | Factual reconstruction and qualification |
+| --- | --- | --- | --- |
+| `EV-B0179-001` | A:P2–13 | Maid partner selected | Ayumu plans menus/songs and reveals Makoto as special maid partner; Makoto's investigation/password warning startles Player. Exact accessed system or successful exploit not established. |
+| `EV-B0179-002` | A:P14–25 | Growth requested and teaching delegated | Player asks about male-customer comfort; Makoto acknowledges fear and wants growth for her chosen brother, imagining dependence; Player supports growth and asks Ayumu to teach. Self-account and extreme fantasy do not certify diagnosis, cure or endorsement. |
+| `EV-B0179-003` | A:P28–47 | Competence and deferred address | Player narrates rapid growth; maid-clothing praise and embodied poe-kyun instruction lead to Ayumun request, but Makoto keeps Ayumu-san. Narrated progress and local dialogue, no complete physical lesson or sexual act. |
+| `EV-B0179-004` | B:P1–7 | Customer service displayed | Anonymous customers request attention; Makoto serves male/female-addressed visitors while Ayumu praises growth. Role labels do not establish stable customer identities or objective service quality. |
+| `EV-B0179-005` | B:P8–32 | An exclusive address within distributed service | Sumire/Shao visit after hearing from Player; Makoto reserves big brother for him while wishing other guests well; Ayumu praises unique rules, Sumire questions them and Shao values effort. Distinct actor appraisals; no blanket consent, measured satisfaction or general idol-service law. |
+| `EV-B0179-006` | B:P37–44 | Scheduling collision discovered | Ayumu thanks Makoto and raises an event one week later; Makoto recognizes conflict with the outing promise. One-week relation and discovery, not an exact calendar date. |
+| `EV-B0179-007` | B:P48–63 | Prior manager promise recalled | Office flashback shows Player first proposing a substitute, then promising to make time after Makoto's disappointment and reported makeup lesson; he expressly calls it work, not a date. Earlier event presented later; no verified overtime or mutual-romance agreement. |
+| `EV-B0179-008` | B:P67–83 | Teacher releases the joint obligation | Makoto cannot herself break Player's promise yet worries about Ayumu's; Ayumu says the event is unannounced/manageable and respects Makoto's only-one maid path. Local release/gratitude; does not prove later solo workload is costless. |
+| `EV-B0179-009` | B:P84–86 | Immediate song proposed | Ayumu proposes singing the event song now; Makoto agrees in maid speech, still using Ayumu-san, before fade. Assent and elision do not establish a complete heard song. |
+| `EV-B0179-010` | C:P1–11 | Outing with divided attention | Shopping outing begins; Makoto privately calls it date weather and remains drawn to the café while withholding explanation. Her private phrasing differs from Player's work framing. |
+| `EV-B0179-011` | C:P16–27 | Clothes choice and unusual knowledge | Makoto selects clothes after Player's praise and offers a tie he wanted; Player cannot remember telling her. No garment picture, exact information-access method or whole shopping process supplied. |
+| `EV-B0179-012` | C:P28–44 | Reported purchases and blocked café entry | Player reports good purchases/lunch and offers café entry; Makoto is happy yet says she cannot go in. Source report, not analyst receipt/taste verification; unresolved concern remains. |
+| `EV-B0179-013` | C:P45–62 | Another value becomes admissible | Player values Makoto's focus but says humans cannot attend only to their centre and can postpone him; Makoto finds both kindnesses difficult and asks whether another attachment can equal love. Self-account/permission and question, not a settled universal doctrine or reciprocal romance. |
+| `EV-B0179-014` | C:P63–76 | Chosen departure and public misreading | Makoto chooses to leave, receives Player's assent and says she loves him; anonymous passersby speculate and Player feels their gaze. No literal kinship, public adjudication or offscreen contact inferred. |
+| `EV-B0179-015` | C:P78–84 | Solo stage and bounded peer help | Sumire thinks Ayumu struggles to fill a planned duet; Shao/Sumire avoid impromptu replacement out of respect and plan later care. Attributed reception and proposed care, not objective heard technique or actual massage. |
+| `EV-B0179-016` | C:P85–101 | Return, account and accepted address | Makoto returns, claims sudden Player work, offers joint service, is welcomed and finally says Ayumun. Displayed return is factual; cancellation account conflicts with earlier departure and later receives a lie appraisal. |
+| `EV-B0179-017` | C:P102–109 | Cheering and performance elision | Customers call encouragement/requests, Shao/Sumire anticipate a good stage, then command-only clearing/fades omit performance. No complete heard song/choreography or accepted house visit. |
+| `EV-B0179-018` | C:P110–120 | Rest and differently informed appraisals | Apparently sleeping pair receive leaning/exertion/charm reports; Shao blames Player while Sumire suspects a lie and sees Makoto's companion loyalty. Sleep appearance and speaker-specific reception stay qualified pending later reveal. |
+| `EV-B0179-019` | C:P121–124 | Manager learns the conflict later | Player arrives, says he now understands Makoto's problem, welcomes apparent event success and proposes leaving sleepers alone. Later inference does not establish full early knowledge or independently measured stage success. |
+| `EV-B0179-020` | C:P125–142 | Apparent sleep-talk treated as evidence | Makoto invokes responsibility for unspecified prior acts; Player denies knowing; Sumire/Shao question and call him outside. Accusation and protective concern do not verify sex, coercion, pregnancy or confession. |
+| `EV-B0179-021` | C:P143–149 | Trap revealed and teaching reverses | Ayumu names pretended-sleep trap; Makoto explains opportunistic pursuit/creating established facts; Ayumu requests learning and Makoto accepts. Audience gains warrant for deliberate device; absent peers/Player are not shown receiving disclosure. |
+| `EV-B0179-022` | C:P150–152 | Chosen-idol rationale | Makoto links effort to having been chosen by Player as idols; Ayumu notices distant peer voices before fade. Participant rationale, not institutional authorization for deceptive claims or blanket romance consent. |
+| `EV-B0179-023` | C:P153–157 | Misunderstanding remains at exit | Peer accusation/Player's correction plea continue with cleared visible slots and shake/SFX declarations; Makoto returns open-eyed with final affection/fade. No completed confrontation, punishment, corrected misunderstanding or moral cure shown. |
+
+| ID | Qualified endpoints | Edge type and warrant |
+| --- | --- | --- |
+| `EDGE-1200` | `EV-B0179-001` → `EV-B0179-002` | `APTITUDE_TO_REQUESTED_TRAINING`; Invitation permits a practical comfort question; privacy implication remains distinct. |
+| `EDGE-1201` | `EV-B0179-002` → `EV-B0179-003` | `REQUEST_TO_LOCAL_TRAINING`; Supported growth leads to narrated competence and address difficulty, not diagnosed cure. |
+| `EDGE-1202` | `EV-B0179-003` → `EV-B0179-004` | `TRAINING_TO_SERVICE_DISPLAY`; Customer exchanges give local enacted service evidence. |
+| `EDGE-1203` | `EV-B0179-004` → `EV-B0179-005` | `SERVICE_AND_BOUNDARY_DISCLOSURE`; Appraisal clarifies exclusive address within attention to many customers. |
+| `EDGE-1204` | `EV-B0179-005` → `EV-B0179-006` | `WORK_TO_SCHEDULING_COLLISION`; Training closure introduces a future event that Makoto recognizes as conflicting. |
+| `EDGE-1205` | `EV-B0179-007` → `EV-B0179-006` | `PRIOR_PROMISE_EXPLAINS_LATER_DISCOVERY`; Flashback supplies earlier promise; source presentation order is not event order. |
+| `EDGE-1206` | `EV-B0179-006` → `EV-B0179-008` | `COLLISION_TO_RELEASE`; Competing obligations lead to Ayumu's local permission. |
+| `EDGE-1207` | `EV-B0179-008` → `EV-B0179-009` | `ENCOURAGEMENT_TO_SONG_PROPOSAL`; Release/gratitude precede proposed singing, without completed reception. |
+| `EDGE-1208` | `EV-B0179-007` → `EV-B0179-010` | `PROMISE_TO_OCCURRED_OUTING`; Later scene shows the outing without verifying every scheduling task. |
+| `EDGE-1209` | `EV-B0179-008` → `EV-B0179-010` | `RELEASE_WITH_REMAINING_CONCERN`; Permission to leave the stage does not remove attachment to Ayumu. |
+| `EDGE-1210` | `EV-B0179-010` → `EV-B0179-011` | `OUTING_ACTIVITY_WITH_PARTIAL_ACCESS`; Choice and tie knowledge occur within a partly observed shopping process. |
+| `EDGE-1211` | `EV-B0179-011` → `EV-B0179-012` | `REPORTED_OUTCOME_TO_ENTRY_QUESTION`; Purchase/lunch report and café gaze precede declined entry. |
+| `EDGE-1212` | `EV-B0179-012` → `EV-B0179-013` | `BLOCKED_ENTRY_TO_PRIORITY_DISCUSSION`; Player responds to explicit concern and Makoto's professed centre. |
+| `EDGE-1213` | `EV-B0179-013` → `EV-B0179-014` | `PERMISSION_TO_CHOSEN_DEPARTURE`; Plural value question becomes her local departure decision. |
+| `EDGE-1214` | `EV-B0179-014` → `EV-B0179-016` | `DEPARTURE_TO_RETURN`; Makoto's arrival at café follows her chosen departure, not verified sudden work. |
+| `EDGE-1215` | `EV-B0179-015` → `EV-B0179-016` | `INTENDED_PARTNER_RESTORED`; Observers' restraint is followed by the partner they decline to replace. |
+| `EDGE-1216` | `EV-B0179-003` → `EV-B0179-016` | `DEFERRED_ADDRESS_FULFILLED`; Ayumun becomes chosen address on return, not assumed earlier intimacy. |
+| `EDGE-1217` | `EV-B0179-016` → `EV-B0179-017` | `WELCOME_TO_RECEPTION_AND_ELISION`; Accepted collaboration receives cheers around an omitted stage. |
+| `EDGE-1218` | `EV-B0179-017` → `EV-B0179-018` | `ELIDED_STAGE_TO_REPORTED_AFTERSTATE`; Post-stage exertion/charm are attributed reports, not analyst performance reception. |
+| `EDGE-1219` | `EV-B0179-014` → `EV-B0179-018` | `DIRECT_DEPARTURE_SUPPORTS_LIE_APPRAISAL`; Earlier access supports Sumire's later suspicion while Shao remains differently informed. |
+| `EDGE-1220` | `EV-B0179-018` → `EV-B0179-019` | `LATER_MANAGER_ARRIVAL`; Player now infers the conflict; no retroactive full plan knowledge. |
+| `EDGE-1221` | `EV-B0179-019` → `EV-B0179-020` | `RESPECTFUL_EXIT_INTERRUPTED`; Proposed departure is interrupted by apparent involuntary testimony. |
+| `EDGE-1222` | `EV-B0179-020` → `EV-B0179-021` | `REVEAL_REVISES_EVIDENTIAL_FRAME`; Pretended-sleep disclosure recasts accusation without proving the implied act. |
+| `EDGE-1223` | `EV-B0179-003` → `EV-B0179-021` | `TEACHER_LEARNER_ROLE_INVERSION`; Initial maid teacher requests pursuit instruction from the former learner. |
+| `EDGE-1224` | `EV-B0179-021` → `EV-B0179-022` | `DEVICE_TO_ACTOR_RATIONALE`; Effort/choice language explains their framing, not authorization. |
+| `EDGE-1225` | `EV-B0179-022` → `EV-B0179-023` | `REVEALED_PLAN_UNDISCLOSED_TO_TARGETS`; Distant accusation continues; ending does not resolve misrecognition. |
+
+Twenty-three events/26 edges preserve all older bodies, IDs and seven inherited edge-number gaps. No new WORLD/THREAD or total calendar. Report, flashback, promise, inference, displayed action and deliberate false account remain distinct. No heard stage, verified sexual act, completed accusation outcome or mature release.

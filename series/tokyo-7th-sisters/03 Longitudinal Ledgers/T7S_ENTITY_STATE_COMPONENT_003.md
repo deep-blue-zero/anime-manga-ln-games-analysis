@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0178; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0179; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-14
 ---
@@ -724,4 +724,65 @@ Complete chapter301500 A/B/C, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260
 | `REL-0954` | QOP members → Tomoe, differentiated | **Varied learning wishes and pressure**: Murasaki offers coaching, Ferb music study, Matsuri games and Yumeno moe/sensation exchange. | C:P56–105; aggregate endpoint preserves speaker differences, not unified policy or unanimous consent. |
 
 No new IDENTITY/CHAR/UNIT/READY or R3 promotion. Same-person body/face variants, Coney's historical identity, institutional warmth, genre appraisal and stock graphic blush/hearts retain their own horizons and limits. No completed rescue, new romance or mature monograph is inferred.
+
+## B0179 plural commitments, service boundaries and the misleading apparent fact
+
+Complete chapter301510 A/B/C, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.85. All102 identity routes/84 characters, previous knowledge/relationships and sealed physical components remain exact. Twenty-three epistemic rows/16 directional relationships preserve report, partial access, promise, permission, inference and false account.
+
+| Stable subject | Bounded new annotation | Warrant and retained limits |
+| --- | --- | --- |
+| `CHAR-0001` / Player | Supports growth, makes a local work outing promise, respects Makoto's departure and later infers the café conflict; denies knowing the alleged acts and asks for correction. | A:P14–25/B:P48–63/C:P1–76,121–157; no reciprocal romance, exact scheduling burden or completed vindication. |
+| `CHAR-0013` / Sumire | Appraises service, warns against excess, respects the intended duet, suspects Makoto's cancellation account and then treats apparent sleep-talk as decisive evidence. | B:P8–32/C:P78–84,112–140,153; changing access/interpretation, not lie-detection authority or established guilt. |
+| `CHAR-0030` / Makoto | Learns maid service, reserves big-brother address, struggles between promises, admits another love-scale value and chooses café return/Ayumun; later deliberately traps Player through apparent sleep-talk. | A/B/C; growth of companionship coexists with privacy/pursuit concerns; no cure, verified implied act or mutual romance. |
+| `CHAR-0031` / Ayumu | Recognizes maid aptitude, teaches, releases partner with gratitude, welcomes return and receives Ayumun; later requests pursuit instruction after recognizing the trap. | A/B/C; local generosity and role inversion, not institutional endorsement or costless solo labor. |
+| `CHAR-0076` / Shao | Values Makoto's effort, corrects master/maid frame only partly, respects intended stage, plans care, initially blames Player and joins accusatory questioning. | B:P10–32/C:P81–84,113–154; partial knowledge and actor appraisals, not actual massage or verified wrongdoing. |
+| `UNIT-0016` / Citrus, retained prior formation | Makoto/Ayumu resume a locally chosen café partnership with delayed address and later teaching inversion. | B0035 prior formation; B0179 A/B/C; Citrus name/roster not reconstituted here, no complete heard duo or moral rehabilitation. |
+| `UNIT-0002` / Nanasta | Ayumu/Player permit choice and peers respect intended stage; Makoto values kindness, while false accusation shows imperfect shared knowledge. | C:P45–157; situated support/reputation cost, not complete consent/privacy/workload or mature institutional release. |
+
+| ID | Qualified knowledge holder | State and epistemic frame | Source |
+| --- | --- | --- | --- |
+| `KNOW-0782` | Ayumu | Reports privately targeting Makoto's maid aptitude and plans a special-partner event. `REPORTED_PRIOR_SELECTION_AND_PLAN`. | A:P2–13 |
+| `KNOW-0783` | Makoto/Player, distinct | Password warning suggests intrusive investigation; Player asks what was examined without receiving an exact mechanism. `IMPLICATION_AND_ADMITTED_INFORMATION_GAP`. | A:P6–9 |
+| `KNOW-0784` | Makoto | Acknowledges fear of male strangers and frames growth/service/dependence around her chosen big brother. `SELF_ACCOUNT_DESIRE_AND_FANTASY`. | A:P15–20 |
+| `KNOW-0785` | Player | Questions comfort, supports improvement without requiring it to be for him and delegates maid teaching. `QUALIFIED_SUPPORT_AND_REQUEST`. | A:P14–25 |
+| `KNOW-0786` | Player/Ayumu, distinct | Narrated rapid growth and costume/skill praise remain their evaluations. `RETROSPECTIVE_NARRATION_AND_APPRAISAL`. | A:P28–38 |
+| `KNOW-0787` | Ayumu/Makoto, distinct | Teacher requests Ayumun; learner cannot yet replace Ayumu-san. `REQUEST_AND_WITHHELD_LOCAL_ADDRESS`. | A:P41–46 |
+| `KNOW-0788` | Sumire/Shao, distinct | Hear training from Player, visit and evaluate growth/service transfer differently. `REPORTED_INFORMATION_AND_DIFFERENTIATED_APPRAISAL`. | B:P8–32 |
+| `KNOW-0789` | Makoto | Reserves big brother exclusively for Player while wishing other customers well. `EXPLICIT_SERVICE_BOUNDARY`. | B:P18–22 |
+| `KNOW-0790` | Ayumu/Sumire, distinct | Unique strict/frightening service receives marketing praise and a questioned maid ideal. `CONTESTED_ACTOR_SERVICE_APPRAISAL`. | B:P23–28 |
+| `KNOW-0791` | Makoto | Recognizes future café date as conflicting with earlier outing. `LOCAL_DISCOVERY_OF_COLLISION`. | B:P41–44 |
+| `KNOW-0792` | Makoto | Reports prior Murasaki makeup instruction and disappointment about substitute outing. `REPORTED_PRIOR_LESSON_AND_SELF_ACCOUNT`. | B:P50–56 |
+| `KNOW-0793` | Player | Revises substitute proposal to making time and explicitly frames shopping as work, not a date. `REVISED_COMMITMENT_AND_BOUNDARY`. | B:P49–63 |
+| `KNOW-0794` | Ayumu | Says event is unannounced/manageable and releases Makoto while valuing a different maid path. `SOURCE_REPORT_AND_LOCAL_RELEASE`. | B:P67–83 |
+| `KNOW-0795` | Makoto | Private date-weather phrasing and café attention differ from publicly withheld concern. `PRIVATE_PUBLIC_ACCESS_DISTINCTION`. | C:P1–11 |
+| `KNOW-0796` | Makoto/Player, distinct | Tie-wish knowledge surprises Player; purchases/lunch later receive his praise. `PARTIAL_INFORMATION_AND_REPORTED_OUTCOME`. | C:P16–37 |
+| `KNOW-0797` | Player | Infers a strong competing concern and permits himself to wait without knowing the whole café conflict. `BOUNDED_INFERENCE_AND_LOCAL_PERMISSION`. | C:P43–64 |
+| `KNOW-0798` | Makoto | Asks whether another value may equal love and chooses to leave; kindness makes the choice harder. `SELF_ACCOUNT_QUESTION_AND_CHOSEN_ACTION`. | C:P45–69 |
+| `KNOW-0799` | Passersby/Player, distinct | Anonymous speculation about relationship produces Player's felt public-gaze cost. `ATTRIBUTED_SPECULATION_AND_REACTION`. | C:P71–73 |
+| `KNOW-0800` | Sumire/Shao, distinct | Appraise solo-stage difficulty and decline impromptu replacement out of respect. `QUALIFIED_RECEPTION_AND_INTERVENTION_LIMIT`. | C:P78–84 |
+| `KNOW-0801` | Ayumu/Makoto, distinct | Sudden-work account accompanies return; welcome and Ayumun are actually exchanged. `DISPLAYED_REPAIR_WITH_QUALIFIED_ACCOUNT`. | C:P85–101 |
+| `KNOW-0802` | Shao/Sumire, distinct | Stage charm/cancellation blame compete with lie suspicion and fidelity interpretation. `UNEQUAL_ACCESS_AND_COMPETING_APPRAISALS`. | C:P110–120 |
+| `KNOW-0803` | Player/peers, distinct | Player now understands conflict, then denies alleged acts; peers treat apparent sleep-talk as evidence. `LATER_INFERENCE_DENIAL_AND_UNVERIFIED_ACCUSATION`. | C:P121–140 |
+| `KNOW-0804` | Makoto/Ayumu versus absent targets | Pretended-sleep trap and effort rationale are revealed to audience/partner; peers/Player continue misunderstanding at exit. `DIFFERENTIATED_REVEAL_AND_UNRESOLVED_FALSE_FRAME`. | C:P143–157 |
+
+| ID | Direction | Bounded state | Warrant and limits |
+| --- | --- | --- | --- |
+| `REL-0955` | Makoto → Ayumu | **Learner, promised partner and chosen companion**: Accepts teaching, worries about breaking joint promise, returns voluntarily and grants Ayumun; then agrees to teach pursuit. | A:P24–46/B:P67–85/C:P85–150; companionship does not erase deliberate trap. |
+| `REL-0956` | Ayumu → Makoto | **Aptitude recognition, release and welcome**: Invites maid learning, respects distinctive service, permits departure and welcomes late partner; later admires trap and requests learning. | A/B/C; generosity, solo burden and ethically qualified learning coexist. |
+| `REL-0957` | Player → Makoto | **Support and locally bounded permission**: Questions comfort, supports growth, makes work outing time, permits competing commitment and asks correction of accusation. | A:P14–25/B:P48–63/C:P43–66,134–157; no blanket schedule/romance consent or completed vindication. |
+| `REL-0958` | Makoto → Player | **Exclusive address with plural commitments and pursuit**: Seeks service/attention, respects his strain, calls love, chooses departure, then uses apparent sleep-talk to retain him. | A/B/C; unilateral love and manipulation, not literal kinship/mutual romance or verified implied act. |
+| `REL-0959` | Sumire → Makoto | **Peer appraisal and differentiated protection**: Supports training, warns about excess, respects intended stage, suspects lie and values fidelity; later questions Player on misleading testimony. | B:P8–32/C:P78–84,112–140; no universal plan knowledge. |
+| `REL-0960` | Makoto → Sumire | **Peer service and declared aspiration**: Welcomes visitor, receives service/idol appraisal and says growth is for special service to Player. | B:P9,20–30; local exchange, not fully disclosed romantic plan. |
+| `REL-0961` | Shao → Makoto | **Master admiration and peer support**: Values distinctive effort, supports stage partnership and appraises charm; her cancellation belief remains partial. | B:P10–32/C:P81–120; no complete managerial knowledge or actual care procedure. |
+| `REL-0962` | Makoto → Shao | **Local role correction and boundary**: Corrects master to maid and explains why big-brother category remains reserved while serving customers. | B:P11,20–22; address correction is not repudiation of prior training history. |
+| `REL-0963` | Player → Ayumu | **Teaching request and event recognition**: Asks her to teach service/stranger comfort and later welcomes apparent café success. | A:P22–25/C:P121–124; no universal pedagogical authority or verified event metrics. |
+| `REL-0964` | Ayumu → Player | **Event proposal and accepted teaching task**: Announces special partner and agrees to careful maid teaching at her shop. | A:P4,10–13,23; no disclosed whole later plan or consent to trap. |
+| `REL-0965` | Sumire → Shao | **Shared restraint and corrective interpretation**: Agrees not to replace duet, proposes later care and says the cancellation account is probably false. | C:P80–84,115–120; explanation does not give full trap knowledge. |
+| `REL-0966` | Shao → Sumire | **Considerate proposed help**: Shares duet concern, rejects intrusive stage entry and agrees to later massage/care. | C:P81–84; proposed action, not performed massage. |
+| `REL-0967` | Sumire → Player | **Partial information, inference and accusation**: Previously hears training, later checks his understanding and questions responsibility on apparent sleep-talk. | B:P13/C:P122–153; actor conviction not established guilt or completed confrontation. |
+| `REL-0968` | Shao → Player | **Misattributed blame and protective questioning**: Blames supposed cancellation, hears Sumire's correction, then questions unspecified responsibility/force. | C:P114–154; no independently verified act, prosecution or carried-out threat. |
+| `REL-0969` | Makoto/Ayumu → customers, differentiated | **Service and local joint stage**: Makoto attends visitors with an exclusive-address limit; Ayumu welcomes and the returned pair promise shared service. | B:P1–28/C:P78–105; no objective complete-stage reception or accepted private visit. |
+| `REL-0970` | Customers → Makoto/Ayumu, differentiated | **Requests and cheering**: Scene-labelled customers request attention, encourage performers and one asks for a house visit. | B:P1–6/C:P79,102–103; anonymous roles/no accepted visit or measured whole audience unanimity. |
+
+No new IDENTITY/CHAR/UNIT/READY or R3 promotion. Anonymous schematic reuse, clothes/face variants, reported makeup lesson, unilateral affection and false sleep-talk retain qualified local scope. No sex, clinical cure, reciprocal romance, completed confrontation or mature monograph inferred.
 <!-- T7S ENTITY STATE PAYLOAD END -->
