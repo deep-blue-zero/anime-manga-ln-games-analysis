@@ -143,6 +143,7 @@ Write a substantive orientation to established conclusions, important competing 
 - [ ] Manifest and hashes match the delivered bytes or unverified integrity is explicit.
 - [ ] Source boundaries and inspection statements are accurate.
 - [ ] Names, locators, tables, and substantial reasoning were checked for transfer defects.
+- [ ] The contract's section 15.6 name-and-reference check was performed on substantial analytical prose; sampled scope and material findings are recorded.
 - [ ] Required unresolved work and the next owner are explicit.
 - [ ] No claim of canonical promotion, publication, or tests exceeds observed results.
 
