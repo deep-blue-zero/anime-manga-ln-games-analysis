@@ -5,7 +5,7 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.3"
+version: "1.4"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review recorded"
@@ -49,6 +49,7 @@ Git holds interpretation, methods, public-safe routing, state, and provenance. G
 | Volume reading template | Reusable output contract; no completed volume or findings. |
 | Source/continuity map | Source objects, qualification of checks, exclusions, lane admission, recovery. |
 | V01 source lock | Exact supplied V01 byte/edition/resource identity, technical channel inventory and local derivative seals. |
+| Source lock register | The same responsibility for every unit locked after V01, one section per unit, with a shared procedure. |
 | V01 foundation/gate report | Owner acceptance, semantic foundation/day-one checks, the historical CLOSED hold and the V01-only gate opening with its entering freeze. |
 | V01 deep reading | Source-bearing V01 observations SW-E-LNJP-V01-001 to 132, coverage, synopsis, close reading and the exit freeze; frozen at its source boundary. |
 | V01 reading path manifest | Exact path set and state of the V01 transaction. |

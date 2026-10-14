@@ -5,7 +5,7 @@ artifact_type: source_scope_inventory
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.3"
+version: "1.4"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Public-safe collection inventory, V01 technical lock, local-collection fingerprint verification, witness lanes, exclusions and recovery"
@@ -17,7 +17,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 source_reconnaissance_complete: true
-source_lock_state: V01_BYTE_LOCKED_OTHER_UNITS_NOT_LOCKED
+source_lock_state: V01_V02_BYTE_LOCKED_LATER_UNITS_LOCKED_AT_THEIR_TRANSACTIONS
 v01_locator_retention: LOCAL_ONLY_OWNER_REQUEST
 local_collection_fingerprints: ALL_SIXTEEN_MATCH_2026-10-14
 sequential_analysis_lock: OPEN
@@ -46,6 +46,10 @@ The original V01 locator package was recovered and reverified; see the [V01 sour
 V01 has been read in full and closed. The [V01 deep reading](../02%20Sequential%20Readings/SW_V01_DEEP_READING.md) records coverage of all 36 spine members by class: fourteen main narrative members, the in-volume secret episode, every illustration and image-only reference page, and all paratext. Narrative high-water mark for the numbered Japanese LN lane: **V01**. Every other lane remains at no unit analyzed.
 
 The V01 afterword states that the book corresponds to the first three chapters of the sixteen-chapter web serial, substantially added to and revised, with revisions generally kinder to the heroine. That is an author’s claim about witness relationships. It is recorded here as a lead for any future authorized comparison and is not evidence about either text; no web text was read.
+
+### Continuous run and later locks, 2026-10-14
+
+The owner authorized a continuous run through every supplied work; the [current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md#continuous-run-authorized-2026-10-14) records the terminal boundary and the companion admission points. Each unit is locked at the start of its own transaction. Locks after V01 are recorded in the [source lock register](SW_LNJP_SOURCE_LOCK_REGISTER.md), with a shared procedure and a generalized normalizer driver proved equivalent to V01’s rules. V02 is locked there: hash equal to the row below, publisher-structured EPUB, colophon 2021-10-08 ver.001, unrelated publisher preview of four members confirmed and excluded.
 
 Disclosure-order note for future admission decisions: this edition’s colour frontispieces and in-book character card disclose the heroine’s name and two later scenes before the prologue. Edition-level paratext can therefore pre-empt narrative withholding, and future companion audits should check image-only front matter as well as prose.
 
@@ -102,8 +106,8 @@ Each stable ID resolves through the supplied source folder and Drive's file-ID r
 
 | Lane | Identity / continuity | Current analytical admission |
 |---|---|---|
-| Numbered published Japanese LN | `SW-LNJP-V<NN>`; intended I–XII primary track | DESIGNATED_PRIMARY_TRACK; V01 byte-locked with recovered local locators, admitted for one authorized reading, and CLOSED 2026-10-14. Lane high-water mark V01. V02–V12 locks and admissions pending and not authorized. |
-| Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | INVENTORIED_UNADMITTED; not fractional numbered volumes. |
+| Numbered published Japanese LN | `SW-LNJP-V<NN>`; intended I–XII primary track | DESIGNATED_PRIMARY_TRACK; V01 CLOSED 2026-10-14. V02–V12 admitted one at a time under the 2026-10-14 continuous run; V02 byte-locked. Lane high-water mark V01. |
+| Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | INVENTORIED_UNADMITTED; inside the continuous run at the admission points the corpus map records; not fractional numbered volumes. |
 | Original web main | [N8356GA](https://ncode.syosetu.com/n8356ga/), サイレント・ウィッチ | METADATA_RECONNOITERED_UNADMITTED; separate web witness, no episode ingestion/comparison. |
 | Web gaiden | [N5194GP](https://ncode.syosetu.com/n5194gp/), サイレント・ウィッチ（外伝） | METADATA_RECONNOITERED_UNADMITTED; distinct supplemental web corpus, contains later/end-state disclosures. |
 | Related Rosalie web work | [N8978FV](https://ncode.syosetu.com/n8978fv/), 記憶喪失軍医ロザリー・ヴェルデの考察 | RELATED_SHARED_WORLD_UNADMITTED; exact LN relationship not textually adjudicated. |

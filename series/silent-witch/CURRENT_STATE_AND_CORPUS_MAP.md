@@ -5,10 +5,10 @@ artifact_type: corpus_map
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.4"
+version: "1.5"
 last_updated: "2026-10-14"
 status: canonical
-scope: "Single canonical first-read surface; accepted foundation, V01 closed under the owner’s V01-only authorization, next unit not authorized"
+scope: "Single canonical first-read surface; accepted foundation, V01 closed; continuous sequential run authorized 2026-10-14 through every supplied Japanese LN work and the architecture’s synthesis products"
 source_boundary: "Japanese LN V01 read in full and closed; no other numbered volume, companion, web or adaptation witness analyzed."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
@@ -17,7 +17,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 architecture_lifecycle: INITIAL
-analytical_phase: V01_CLOSED_NEXT_UNIT_NOT_AUTHORIZED
+analytical_phase: CONTINUOUS_RUN_ACTIVE_V02_IN_PROGRESS
 committed_high_water_mark: V01
 project_initialization:
   status: canonical
@@ -36,7 +36,8 @@ project_initialization:
   required_day_one_infrastructure_initialized: true
   sequential_analysis_lock: OPEN
   lock_reason: OWNER_INSTRUCTION_2026-10-13_OPEN_FOR_JAPANESE_LN_V01_ONLY_AFTER_RECOVERY_AND_READINESS_VERIFICATION
-  lock_state_note: OPEN because the foundation gate is satisfied; the V01-only single operation is complete and authorizes nothing further
+  lock_state_note: OPEN because the foundation gate is satisfied; the V01-only single operation is complete; the owner’s 2026-10-14 continuous-run instruction now authorizes the units and products named under sequential_execution
+  run_authorization: OWNER_INSTRUCTION_2026-10-14_CONTINUOUS_THROUGH_ALL_SUPPLIED_WORKS_AND_SYNTHESIS
   substantive_sequential_findings_at_bootstrap: false
   numbered_volumes_analyzed: [V01]
   frozen_volumes: [V01]
@@ -48,24 +49,26 @@ project_initialization:
   v01_locator_retention: LOCAL_ONLY_OWNER_REQUEST
   v01_locator_recovery: ORIGINAL_PACKAGE_RECOVERED_AND_VERIFIED_2026-10-14
   sequential_gate_hold: RELEASED_FOR_V01_ONLY_BY_OWNER_INSTRUCTION_2026-10-13
-  next_permitted_operation: stop; V01 is closed; no source reading, companion admission or continuous run without new owner authorization
+  source_lock_register: 01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md
+  next_permitted_operation: V02 atomic transaction under the active continuous run
 sequential_execution:
-  mode: single_operation
+  mode: continuous_sequential
   unit_type: volume
-  authorized_start: V01
-  terminal_boundary: V01
+  authorized_start: V02
+  terminal_boundary: "V12 plus the four supplied companions at their recorded admission points, then the synthesis products the architecture requires"
   committed_high_water_mark: V01
   next_candidate_operation: V02
-  next_candidate_authorization: NOT_AUTHORIZED
-  confirmation_between_units: true
-  run_state: completed
+  next_candidate_authorization: AUTHORIZED_BY_ACTIVE_RUN
+  confirmation_between_units: false
+  run_state: active
+  previous_run: "single_operation V01, completed 2026-10-14"
 ---
 
 # Silent Witch current state and corpus map
 
 This is the single current entrypoint for **Silent Witch: Secrets of the Silent Witch**, Japanese **サイレント・ウィッチ 沈黙の魔女の隠しごと**, by **依空まつり**. Routing aliases: Silent Witch, Secrets of the Silent Witch, サイレント・ウィッチ. Stable root and continuing branch: `series/silent-witch`.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN, for Japanese LN V01 only, by the owner’s 2026-10-13 resume instruction.** The earlier owner-directed hold is preserved as history in the [gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md). Japanese LN V01 is byte-locked; its original local locator package was recovered and reverified before the gate opened. Narrative high-water mark at gate opening was PRE_V01. **Committed high-water mark now: V01.** The [V01 deep reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md) covers the whole volume and freezes its exit state as `SW-FR-V01-EXIT`; the [master ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) carries the reconciled cumulative state. The authorized single operation is complete. The lock stays OPEN because the foundation gate remains satisfied; that does not extend the authorization. V02–V12, the four companions, web witnesses and adaptations remain unauthorized. No character model or literary synthesis exists.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN, for Japanese LN V01 only, by the owner’s 2026-10-13 resume instruction.** The earlier owner-directed hold is preserved as history in the [gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md). Japanese LN V01 is byte-locked; its original local locator package was recovered and reverified before the gate opened. Narrative high-water mark at gate opening was PRE_V01. **Committed high-water mark now: V01.** The [V01 deep reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md) covers the whole volume and freezes its exit state as `SW-FR-V01-EXIT`; the [master ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) carries the reconciled cumulative state. That single operation is complete. **On 2026-10-14 the owner authorized a continuous sequential run**: “Proceed with V02 and sequential deep readings until all works are read, and all artifacts per the synthesis architecture are completed.” The [run record](#continuous-run-authorized-2026-10-14) below states how that instruction is resolved into a terminal boundary. Web witnesses and adaptations remain outside it. No character model or literary synthesis exists yet.
 
 ## Authority and current work
 
@@ -81,6 +84,7 @@ The owner explicitly accepted the ten-file V1 bootstrap. Its paired method/archi
 | [Synthesis architecture](00%20Frameworks%20and%20Methods/SW_SYNTHESIS_ARCHITECTURE.md) | Cumulative homes, specialist/reconstruction activation, dependencies and completion gates. |
 | [Source/continuity map](01%20Source%20Lock%20and%20Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md) | Qualified 16-EPUB inventory, V01 technical lock, separate witnesses and exclusions. |
 | [Japanese LN V01 source lock](01%20Source%20Lock%20and%20Inventory/SW_LNJP_V01_SOURCE_LOCK.md) | Exact archive/edition/resource validation, source-channel inventory and local locator seals. |
+| [Japanese LN source lock register](01%20Source%20Lock%20and%20Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md) | Shared lock procedure and one technical lock section per unit after V01; V02 locked. |
 | [V01 foundation/gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) | Explicit acceptance, paired-foundation/day-one verification, the historical owner-directed CLOSED hold, and the 2026-10-14 V01-only gate opening with its entering freeze. |
 | [V01 preparation path manifest](08%20Audits%20and%20Manifests/SW_V01_READINESS_PATH_MANIFEST.json) | Nine-path bounded preparation tranche; no narrative reading. |
 | [V01 deep reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md) | Complete Japanese-primary V01 reading: coverage, synopsis, close reading, observations 001–132, claims, open questions, exit freeze. Frozen at V01. |
@@ -103,7 +107,7 @@ Completed at gate opening: local source re-acquisition with an exact V01 hash ma
 
 Completed at V01 closure: full Japanese reading of every admitted V01 member and every image; the deep reading with 132 located observations, all quoted wording mechanically verified; reconciliation of all nine ledger sections; the first closed-volume architecture review, with no amendment and no ledger split; evidence reviews for reconstruction readiness without any model.
 
-Uncompleted or held: remote derivative retention, which the owner declined and the resume instruction again withholds; owner semantic acceptance of the V01 reading; every sequential-reading authorization beyond V01; other-volume source locks; web ingestion/comparison; supplemental/adaptation admission; all monographs, specialists, models and integrated synthesis. Technical source lock is not unit analysis or closure.
+Uncompleted or held: remote derivative retention, which the owner declined and the resume instruction again withholds; owner semantic acceptance of the V01 reading; V02–V12 and companion readings, now authorized under the continuous run but not yet performed; source locks after V02; web ingestion/comparison; supplemental/adaptation admission; all monographs, specialists, models and integrated synthesis. Technical source lock is not unit analysis or closure.
 
 ## Publication and audit state
 
@@ -122,14 +126,30 @@ The historical bootstrap report/manifest preserve the authorship-time state. The
 
 ## Next permitted operation
 
-**Stop. V01 is closed and nothing further is authorized.** The owner’s 2026-10-13 instruction authorized recovering the source and local package, opening the gate for V01 only, reading V01 in full, reconciling cumulative state, and validating and publishing to `series/silent-witch`. Those steps are done. The instruction did not authorize continuous V01–V12 execution, any companion or web witness, remote publication of raw source derivatives, or a merge into main, and none was performed. The entering freeze is in the [gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md); the exit freeze is in the [V01 reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md).
+**The V02 atomic transaction, under the continuous run recorded below.** Each later unit follows without a new instruction once its predecessor is committed and published through the full audit sequence.
 
-### Recommended V02 handoff (informational, not authorization)
+### Continuous run, authorized 2026-10-14
 
-A future V02 transaction, if authorized, should: recover this entrypoint, the ledger and `SW-FR-V01-EXIT`; perform V02’s own source lock, including the preview-exclusion boundary the retained audit reports for V02, and generate or recover V02 locators locally; write the reading’s prior-volume developments section from V01 alone before opening V02; carry the twelve open questions SW-P-0001 to SW-P-0012 and the eighteen claims as the entering state; and repeat the exposure disclosure and the phrase-level quotation practice. The two companions placed earliest in story time are a prequel pair; their story time does not make them safe before the numbered track.
+*Instruction.* “Proceed with V02 and sequential deep readings until all works are read, and all artifacts per the synthesis architecture are completed.” This resolves to `continuous_sequential` under the continuation policy, because it names a start and a completion boundary.
+
+*Interpretation of “all works”.* The sixteen Japanese EPUBs in the supplied collection: numbered V02–V12, and the four published companions, IV -after-, IX -extra- and -another- upper and lower. The web main, the web gaiden, the Rosalie web work, adaptations, translations and commentary are not works in the supplied collection; they stay outside the run unless the owner says otherwise.
+
+*Interpretation of “all artifacts per the synthesis architecture”.* After the last unit closes: a checkpoint and evidence-gap review; longitudinal reconciliation; specialist-domain decisions, with a substantial argument for each domain classified WARRANTED; character and relationship arguments where the architecture’s earning criteria are met; the integrated published-LN synthesis through the reached boundary; and a reconstruction-readiness assessment under the character method. A model is built only if that assessment finds the method’s criteria met. Main integration and any release remain separate owner decisions.
+
+*Companion admission points.* Recorded here so that no admission is improvised mid-run. A companion with a numbered anchor is admitted at its publication point, and never before its anchor volume closes: IV -after- after the last numbered volume published before 2022-10-07, which cannot be earlier than V04; IX -extra- likewise from its 2025-06-10 publication date, not earlier than V09. Dates are checked at the relevant volume locks. The -another- pair is a prequel; its disclosure prerequisites cannot be audited prospectively from the numbered track, so it is admitted only after V12 closes, upper before lower. Each admission still requires its own source lock, a spoiler and placement audit using closed units only, and the architecture review this framework requires before a supplemental admission. Companion findings enter the ledger labelled by witness, and they never alter a frozen numbered reading.
+
+*Stop conditions.* The continuation policy’s list applies: a missing or corrupt source, an unresolvable authority conflict, a contaminating source-boundary ambiguity, an unreconciled concurrent change, or another blocker needing owner judgment. Ordinary unit completion is not a stop.
+
+### Earlier single operation
+
+The owner’s 2026-10-13 instruction authorized recovering the source and local package, opening the gate for V01 only, reading V01 in full, reconciling cumulative state, and validating and publishing to `series/silent-witch`. Those steps are done. That instruction did not authorize continuous execution, companions, web witnesses, remote derivative publication or a main merge, and none was performed under it. The standing exclusions on derivative upload and main merge continue under the new run. The entering freeze is in the [gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md); the exit freeze is in the [V01 reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md).
+
+### V02 handoff, now in use
+
+The V02 transaction should: recover this entrypoint, the ledger and `SW-FR-V01-EXIT`; perform V02’s own source lock, including the preview-exclusion boundary the retained audit reports for V02, and generate or recover V02 locators locally; write the reading’s prior-volume developments section from V01 alone before opening V02; carry the twelve open questions SW-P-0001 to SW-P-0012 and the eighteen claims as the entering state; and repeat the exposure disclosure and the phrase-level quotation practice. The two companions placed earliest in story time are a prequel pair; their story time does not make them safe before the numbered track.
 
 ### Supplemental admission checkpoints
 
-The four companions stay unadmitted and outside the numbered sequence. Before any is considered: complete the mainline unit after which its content is safe; perform a story-level spoiler and placement audit using only already-closed units; record its separate source lock and witness identity; run the architecture review this framework requires before a supplemental admission; and obtain explicit owner authorization naming the companion and its admission point. IV -after- cannot be considered before V04 closes, and IX -extra- not before V09; the -another- prequels need their own disclosure-boundary decision whatever their story time.
+The four companions stay unadmitted and outside the numbered sequence until their recorded admission points in the continuous run. Before each is admitted: complete the mainline unit after which its content is safe; perform a story-level spoiler and placement audit using only already-closed units; record its separate source lock and witness identity; run the architecture review this framework requires before a supplemental admission; and record the owner authorization, which the 2026-10-14 run instruction supplies, with the admission point fixed above. IV -after- cannot be considered before V04 closes, and IX -extra- not before V09; the -another- prequels need their own disclosure-boundary decision whatever their story time.
 
 Future source inspection defaults to one atomic numbered volume unless the owner explicitly supplies a recoverable continuous terminal boundary. At interruption recover live files, exact commits and high-water mark; conversation memory does not advance coverage.
