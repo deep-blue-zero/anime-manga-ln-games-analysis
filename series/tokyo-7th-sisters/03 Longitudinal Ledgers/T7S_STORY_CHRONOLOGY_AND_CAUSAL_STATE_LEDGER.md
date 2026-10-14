@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.80"
+version: "11.81"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 274 complete i-n-g primary documents / T7S_B0080–T7S_B0179; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 277 complete i-n-g primary documents / T7S_B0080–T7S_B0180; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-14
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1027`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1218`; `last_closed_block = T7S_B0179`. The admitted horizon contains 509 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 274 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1052`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1246`; `last_closed_block = T7S_B0180`. The admitted horizon contains 512 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 277 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3490,3 +3490,68 @@ Owner [B0179](../02%20Readings/T7S_B0179_DEEP_READING.md), authored reading SHA2
 | `EDGE-1225` | `EV-B0179-022` → `EV-B0179-023` | `REVEALED_PLAN_UNDISCLOSED_TO_TARGETS`; Distant accusation continues; ending does not resolve misrecognition. |
 
 Twenty-three events/26 edges preserve all older bodies, IDs and seven inherited edge-number gaps. No new WORLD/THREAD or total calendar. Report, flashback, promise, inference, displayed action and deliberate false account remain distinct. No heard stage, verified sexual act, completed accusation outcome or mature release.
+
+## B0180 opening the role toward its viewers
+
+Owner [B0180](../02%20Readings/T7S_B0180_DEEP_READING.md), authored reading SHA256 `f0d2bbac7f85c439a723523c3485a047e0bf7c4abf22c33317e324d71b5cd77b`; complete chapter301520 A612203701 P0–86/B612203702 P0–110/C612203703 P0–159, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.86. Entering B0179/source-lock12.85 complete logical/physical boundaries remain pinned separately; prior chronology/horizons unchanged.
+
+| ID | Source range | Local event | Factual reconstruction and qualification |
+| --- | --- | --- | --- |
+| `EV-B0180-001` | A:P2–22 | Shoot access and distinct casting | Player arrives before filming, staff hurry preparation, Kazumi's producer offer differs from Miwako's audition and both ask for support. Source roles/reports, no complete schedule or unfair-treatment adjudication. |
+| `EV-B0180-002` | A:P23–36 | Prepared unfamiliar roles | Manager offers bounded advice; Miwako reports physical/role study, Kazumi reports novels/academic reading for scientist role. Fictional scientist/guard are not real credentials or independently completed research. |
+| `EV-B0180-003` | A:P38–44 | Withheld concern and optimistic expectation | Player privately remembers a director concern but reads motivation as reassuring before take transitions. His expectation, not analyst prediction or complete shared knowledge. |
+| `EV-B0180-004` | A:P45–63 | Opaque rejection and suspension | Repeated cuts lead to Kazumi's question; director refuses a precise answer, acknowledges better-than-expected work yet suspends her scenes for fatal lack. Production constraint and appraisal, not independently measured technique or proven pedagogical necessity. |
+| `EV-B0180-005` | A:P64–85 | Concern disclosed and solitude requested | Miwako praises acting; Player discloses prior reported opposition/production strategy; Kazumi asks to be alone and peers plan support. Attributed motives/awards and local boundary; no completed recovery. |
+| `EV-B0180-006` | B:P1–27 | Next-day inquiry and uncertain analogy | Coney joins after yesterday report; peer praise meets tutoring self-discovery analogy, explicitly uncertain director intent and rejected guard-role copying. Local yesterday link; no universal teaching doctrine or vindicated harshness. |
+| `EV-B0180-007` | B:P28–47 | Reference study and continued resolve | Kazumi brings broad SF/academic books, explains established forms/knowledge; peers offer limited reception while she seeks the missing thing despite casting concern. No exact novel titles, analyst reading or certified science. |
+| `EV-B0180-008` | B:P48–55 | Incomplete clue admitted | Coney senses a possible clue then says she does not know it. No retroactive omniscient answer. |
+| `EV-B0180-009` | B:P56–78 | Peer access paths | Musubi/Hime enter; Musubi suggests the already-tried depiction strategy and Hime hesitates over a household reference. Different knowledge/experience, not expert scientific counsel. |
+| `EV-B0180-010` | B:P79–94 | Gadora offered and viewing accepted | Hime names siblings' monster-film scientist, Coney promotes the series, adults contest its audience scope and Kazumi accepts a potentially useful work/home invitation; Musubi joins. Source film account, no literal monster near Nanasta or representative audience. |
+| `EV-B0180-011` | B:P98–110 | Household reception reframes reference | A short nested scientist quotation precedes siblings' enjoyment, adult realism criticism and Musubi's revision against unnecessary correction; Kazumi recognizes an opening. Tofu-shop Item/arcade art, no depicted scientist or complete analyst-watched film. |
+| `EV-B0180-012` | C:P1–6 | Renewed shoot with uncertain answer | Kazumi promises to give her all without assuring approval; director welcomes the response. Commitment, not guarantee of outcome. |
+| `EV-B0180-013` | C:P7–25 | Collaborative-expression views and visitor limit | Hime/Musubi dislike director manner; Coney respects many evaluation axes while admitting not knowing his character; Player asks visitors not to obstruct work. Actor argument and bounded access, not full institutional/consent audit. |
+| `EV-B0180-014` | C:P26–34 | Scene57 retry framed | Kazumi recalls the previously unapproved scene and resolves to try again before native reframing. Local repetition, not exact full rehearsal history. |
+| `EV-B0180-015` | C:P35–49 | Changed role and coactor improvisation | Kazumi performs grandiose scientific/data-obsession text; Miwako recognizes ad-lib, interprets director silence as continuing and responds in guard role. Written dramatic speech, not actual sacrifice/coercion, heard performance or blanket prior consent. |
+| `EV-B0180-016` | C:P50–67 | Local approval revises observer doubt | Player/Hime fear trouble, Musubi anticipates otherwise; director says OK/memorable, requests balance and continues; Kazumi thinks she could go further. Source appraisal/decision, not universal quality or unrestricted coactor burden. |
+| `EV-B0180-017` | C:P68–74 | Liveliness foregrounded | Clearing/white transition foregrounds Kazumi; Musubi/Player appraise enjoyment and Coney redirects attention to her face. Viewed still/source reception, not independently known inner joy or acoustic technique. |
+| `EV-B0180-018` | C:P75–95 | Day closes and spectator insight explained | Current shoot ends; Kazumi credits siblings' excitement more than copying the scientist, widens realism-only criterion and links entertainment to Nanasta practice. Self-account and local outcome, not complete film/public reception or rejected research. |
+| `EV-B0180-019` | C:P96–105 | Director's prior production and priority | Director recounts an idol film driven by publicity/agency returns/self-display, says he cannot satisfy everyone and prioritizes positive viewer impact. Attributed retrospective judgment/aspiration, not verified motives of all past participants. |
+| `EV-B0180-020` | C:P106–118 | Mutual recognition and future work | Kazumi now understands his reputation; director regrets not meeting an idol like her earlier and both agree to good work tomorrow before transition. Local recognition/commitment, no completed movie or erased first encounter. |
+| `EV-B0180-021` | C:P120–129 | Coactor cost, apology and reception | Miwako reports exertion/enjoyment, Kazumi thanks/apologizes for difficult ad-libs and a prop-bomb throw is reported. No native bomb Item/witnessed throw or unlimited future agreement. |
+| `EV-B0180-022` | C:P130–139 | Manager's first-discovery ideal | Player values new liveliness but regrets not discovering appeal first; peers tease confession/gigolo while he explains professional concern. Actor self-criticism/jokes, not reciprocal romance. |
+| `EV-B0180-023` | C:P140–150 | Possibilities credited as made together | Kazumi credits companions/manager/Nanasta, uses ground-to-sky metaphor and commits with Player to further development. Valued source account, not literal rescue/flight, sole ownership or guaranteed result. |
+| `EV-B0180-024` | C:P151–156 | New requests and title objection | Miwako wants making, Hime asks tofu development, Musubi objects to exclusion and Coney invents idol-builder title; Player rejects it. Prospective requests, no actual product or formal managerial title. |
+| `EV-B0180-025` | C:P157–159 | Place valued at exit | Kazumi calls Nanasta her lovely place before final fade. Participant warmth, not complete institutional adequacy or release. |
+
+| ID | Qualified endpoints | Edge type and warrant |
+| --- | --- | --- |
+| `EDGE-1226` | `EV-B0180-001` → `EV-B0180-002` | `ACCESS_TO_ROLE_PREPARATION`; Different casting routes accompany a shared unfamiliar-role task. |
+| `EDGE-1227` | `EV-B0180-002` → `EV-B0180-003` | `PREPARATION_TO_MANAGER_EXPECTATION`; Motivation appears reassuring despite withheld concern. |
+| `EDGE-1228` | `EV-B0180-003` → `EV-B0180-004` | `EXPECTATION_TESTED_BY_REJECTION`; Cuts/suspension defeat the local expectation without proving objective poor skill. |
+| `EDGE-1229` | `EV-B0180-004` → `EV-B0180-005` | `PRODUCTION_STOP_TO_DISCLOSURE`; Opaque appraisal precedes concern disclosure/solitude request. |
+| `EDGE-1230` | `EV-B0180-005` → `EV-B0180-006` | `EXPLICIT_RELATIVE_TIME_CONTINUATION`; B names yesterday's shoot; no global calendar inferred. |
+| `EDGE-1231` | `EV-B0180-006` → `EV-B0180-007` | `INQUIRY_TO_REFERENCE_INSPECTION`; Uncertain analogy gives way to actual described materials. |
+| `EDGE-1232` | `EV-B0180-007` → `EV-B0180-008` | `QUALITY_WITH_UNRESOLVED_CRITERION`; Praise/research leave the missing thing and Coney's clue incomplete. |
+| `EDGE-1233` | `EV-B0180-008` → `EV-B0180-009` | `NEW_PARTICIPANTS_NEW_ACCESS`; Peers join without receiving a solved plan. |
+| `EDGE-1234` | `EV-B0180-009` → `EV-B0180-010` | `HOUSEHOLD_EXPERIENCE_TO_INVITATION`; Hime's tentative memory becomes a locally accepted opportunity. |
+| `EDGE-1235` | `EV-B0180-010` → `EV-B0180-011` | `INVITATION_TO_PRESENTED_VIEWING`; Characters watch a brief textual excerpt/response frame; analyst full film remains unobserved. |
+| `EDGE-1236` | `EV-B0180-011` → `EV-B0180-012` | `INSIGHT_TO_RENEWED_COMMITMENT`; Recognition of an opening precedes return without guaranteed approval. |
+| `EDGE-1237` | `EV-B0180-012` → `EV-B0180-013` | `COMMITMENT_AND_OBSERVER_FRAME`; Visitors discuss collaborative expression while access remains bounded. |
+| `EDGE-1238` | `EV-B0180-004` → `EV-B0180-014` | `PREVIOUS_REJECTION_RETRIED`; C identifies scene57 as the previously unapproved scene. |
+| `EDGE-1239` | `EV-B0180-014` → `EV-B0180-015` | `RETRY_TO_CHANGED_ROLE_TEXT`; Preparation is expressed through different dramatic speech. |
+| `EDGE-1240` | `EV-B0180-015` → `EV-B0180-016` | `TRIAL_TO_LOCAL_APPROVAL`; Coactor response and surprising approval do not erase negotiation limits. |
+| `EDGE-1241` | `EV-B0180-013` → `EV-B0180-016` | `MULTIPLE_EVALUATION_AXES_MADE_VISIBLE`; Observer doubt and director acceptance remain different appraisals. |
+| `EDGE-1242` | `EV-B0180-016` → `EV-B0180-017` | `APPROVAL_TO_RECEPTION_OF_FACE`; Coney redirects attention after technique-oriented confusion. |
+| `EDGE-1243` | `EV-B0180-017` → `EV-B0180-018` | `DAY_END_TO_ACTOR_EXPLANATION`; Liveliness appraisal is followed by Kazumi's own account. |
+| `EDGE-1244` | `EV-B0180-011` → `EV-B0180-018` | `RETROSPECTIVELY_ATTRIBUTED_SPECTATOR_INSIGHT`; Kazumi later gives children's response priority over copying the scientist. |
+| `EDGE-1245` | `EV-B0180-007` → `EV-B0180-018` | `CRITERION_EXPANSION_WITHOUT_ERASING_RESEARCH`; Realism becomes one means rather than a repudiated method. |
+| `EDGE-1246` | `EV-B0180-018` → `EV-B0180-019` | `ACTOR_ACCOUNT_TO_DIRECTOR_HISTORY`; His retrospective report explains a stated value, not independently confirmed past motives. |
+| `EDGE-1247` | `EV-B0180-019` → `EV-B0180-020` | `DOCTRINE_TO_LOCAL_RECOGNITION`; Mutual understanding accompanies tomorrow's commitment. |
+| `EDGE-1248` | `EV-B0180-015` → `EV-B0180-021` | `IMPROVISATION_TO_REPORTED_COACTOR_COST`; Later exertion/enjoyment/apology retain separate frames and offscreen prop report. |
+| `EDGE-1249` | `EV-B0180-020` → `EV-B0180-021` | `LATER_PEER_EXCHANGE`; Recognition gives way to differentiated celebration, not complete film delivery. |
+| `EDGE-1250` | `EV-B0180-017` → `EV-B0180-022` | `OBSERVED_LIVELINESS_TO_MANAGER_REGRET`; Player's self-criticism concerns first discovery. |
+| `EDGE-1251` | `EV-B0180-022` → `EV-B0180-023` | `DISCOVERY_IDEAL_REFRAMED_AS_CREATION`; Kazumi values shared possibilities without granting exclusive authorship. |
+| `EDGE-1252` | `EV-B0180-023` → `EV-B0180-024` | `DEVELOPMENT_COMMITMENT_EXPANDS_REQUESTS`; New wishes remain prospective and manager's joke-title rejected. |
+| `EDGE-1253` | `EV-B0180-024` → `EV-B0180-025` | `DEMANDS_AND_PARTICIPANT_WARMTH`; Final lovely-place appraisal does not settle workload or every request. |
+
+Twenty-five events/28 edges preserve all older bodies, IDs and seven inherited edge-number gaps. No new WORLD/THREAD, full calendar, actual monster event, heard acting, completed movie/public impact, witnessed bomb throw or mature release. Performance role, report, uncertain inference, appraisal and prospective work remain distinct.

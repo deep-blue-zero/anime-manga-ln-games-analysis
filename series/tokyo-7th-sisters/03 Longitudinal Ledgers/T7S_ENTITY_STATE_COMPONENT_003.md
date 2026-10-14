@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0179; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0180; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-14
 ---
@@ -785,4 +785,70 @@ Complete chapter301510 A/B/C, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260
 | `REL-0970` | Customers → Makoto/Ayumu, differentiated | **Requests and cheering**: Scene-labelled customers request attention, encourage performers and one asks for a house visit. | B:P1–6/C:P79,102–103; anonymous roles/no accepted visit or measured whole audience unanimity. |
 
 No new IDENTITY/CHAR/UNIT/READY or R3 promotion. Anonymous schematic reuse, clothes/face variants, reported makeup lesson, unilateral affection and false sleep-talk retain qualified local scope. No sex, clinical cure, reciprocal romance, completed confrontation or mature monograph inferred.
+
+## B0180 research, viewer response and shared developmental possibility
+
+Complete chapter301520 A/B/C, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.86. Existing102 identities/84 characters, prior knowledge/relationships and sealed components remain exact. Twenty-four epistemic rows/20 directional relationships preserve private access, role frame, report, admitted lack, appraisal and prospective work.
+
+| Stable subject | Bounded new annotation | Warrant and retained limits |
+| --- | --- | --- |
+| `CHAR-0001` / Player | Withholds casting concern then discloses it, offers support, doubts changed acting and later regrets not discovering appeal first; accepts further-development commitment. | A/B/C; reports/inferences/manager ideal, no complete production knowledge, reciprocal romance or sole authorship. |
+| `CHAR-0003` / Coney | Admits an incomplete clue/director-personality gap, promotes Gadora, values collaborative expression and prompts attention to Kazumi's liveliness. | B:P2–55,75–89/C:P7–21,39–74,120–156; local counsel, not omniscient plan/restored Main command. |
+| `CHAR-0006` / Musubi | Offers already-tried depiction study without scientist experience, joins viewing, revises adult criticism toward child enjoyment and anticipates/values changed acting. | B:P56–109/C:P9–25,41–74,125,153; no expert scientific/acoustic judgment or full film reception. |
+| `CHAR-0009` / Hime | Hesitantly offers siblings' Gadora reference, invites viewing and supports a rehearsal she doubts; later requests tofu development. | B:P57–109/C:P8–25,40–63,123,152; household opportunity, no actual monster/world event or completed product. |
+| `CHAR-0035` / Kazumi | Retains researched preparation while seeking an opaque missing thing, learns from children's response, tries grandiose role/improvisation and credits shared Nanasta possibilities. | A/B/C; self-account/role/reception frames, no certified science, heard technique, confidence cure or actual flight. |
+| `CHAR-0070` / Miwako | Auditioned coactor and tutor appraises first acting, offers uncertain teaching analogy, responds to unexpected ad-lib and reports both exertion/enjoyment. | A/B/C; military role not credential, silence interpreted locally and prop-bomb report not witnessed action/blanket future consent. |
+| `UNIT-0002` / Nanasta | Shared reference access, coactor response and received support inform Kazumi's account of created possibilities; managerial withholding, unclear direction and expanded requests remain visible. | A/B/C; valued source account, no sole authorship, exhaustive consent/privacy/workload audit, completed film or mature institution release. |
+
+| ID | Qualified knowledge holder | State and epistemic frame | Source |
+| --- | --- | --- | --- |
+| `KNOW-0805` | Player/Kazumi/Miwako, distinct | Producer offer and audition supply different casting access; both performers receive stated support. `REPORTED_ACCESS_AND_LOCAL_COMMITMENT`. | A:P17–23 |
+| `KNOW-0806` | Kazumi/Miwako, distinct | Literary/scientific study and physical/role study are their preparation reports for fictional scientist/guard. `REPORTED_PREPARATION_AND_ROLE_FRAME`. | A:P25–33 |
+| `KNOW-0807` | Player | Privately recalls a director concern but initially expects motivation to suffice. `PRIVATE_UNSHARED_CONCERN_AND_EXPECTATION`. | A:P38–40 |
+| `KNOW-0808` | Director | Judges a fatal lack, refuses a precise answer and suspends Kazumi's scenes while acknowledging better-than-expected work. `OPAQUE_ACTOR_APPRAISAL_AND_CONSTRAINT`. | A:P45–63 |
+| `KNOW-0809` | Player | Discloses previously withheld reported casting opposition and attributes youth strategy/awards/anticipated friction. `REPORTED_HISTORY_AND_ATTRIBUTED_INTENTION`. | A:P68–78 |
+| `KNOW-0810` | Kazumi/peers, distinct | Shock/self-question and solitude request coexist with Miwako's praise and planned support. `DIFFERENTIATED_APPRAISAL_AND_LOCAL_BOUNDARY`. | A:P64–85 |
+| `KNOW-0811` | Miwako | Tutoring suggests self-discovery may matter, but she expressly cannot know whether director intended it. `UNCERTAIN_PEDAGOGICAL_ANALOGY`. | B:P14–20 |
+| `KNOW-0812` | Player/Miwako, distinct | Guard-role copying is considered then rejected as insufficient scientist guidance. `PROPOSAL_AND_ROLE_DIFFERENCE`. | B:P21–27 |
+| `KNOW-0813` | Kazumi/peers, distinct | Broad SF/academic materials and difficulty/quality judgments preserve preparation versus limited reception. `SOURCE_REPORT_AND_PARTIAL_RECEPTION`. | B:P28–43 |
+| `KNOW-0814` | Kazumi | Wants to find the missing thing even if casting prejudice contributes. `DECLARED_RESOLVE_WITH_UNRESOLVED_CAUSE`. | B:P44–47 |
+| `KNOW-0815` | Coney | Senses a clue then admits not knowing it. `ADMITTED_INCOMPLETE_KNOWLEDGE`. | B:P48–55 |
+| `KNOW-0816` | Musubi | Has not met a scientist and suggests depiction research already attempted. `ADMITTED_LACK_AND_REPEATED_STRATEGY`. | B:P68–73 |
+| `KNOW-0817` | Hime/Coney, distinct | Household Gadora reference and enthusiastic series/Tokyo-7th film account open a contested audience frame. `REPORTED_REFERENCE_AND_ACTOR_FANDOM`. | B:P74–89 |
+| `KNOW-0818` | Kazumi/Musubi/Hime, distinct | Potential usefulness is enough for accepted viewing/home invitation and Musubi's joining. `LOCAL_CHOICE_AND_ACCESS_OPPORTUNITY`. | B:P90–94 |
+| `KNOW-0819` | Siblings/Musubi/Hime, distinct | Enjoyment of nested scientist differs from adult realism criticism; Musubi declines unnecessary correction. `DIFFERENTIATED_VIEWER_RECEPTION`. | B:P99–108 |
+| `KNOW-0820` | Kazumi | Recognizes an opening; later says children's excitement mattered more than copying the scientist. `PRIVATE_RECOGNITION_AND_RETROSPECTIVE_SELF_ACCOUNT`. | B:P109/C:P82–93 |
+| `KNOW-0821` | Coney/peers, distinct | Collaborative expression across many axes is respected while director character stays unknown; manners still criticized. `ACTOR_ARGUMENT_AND_EXPLICIT_LIMIT`. | C:P7–18 |
+| `KNOW-0822` | Player/visitors, distinct | Visitor access is locally conditional on not obstructing crew; encouragement preserves no-intervention boundary. `STATED_ACCESS_LIMIT`. | C:P20–25 |
+| `KNOW-0823` | Miwako | Recognizes unexpected ad-lib and interprets director silence as continuing before joining the role exchange. `PRIVATE_INFERENCE_AND_LOCAL_COACTOR_RESPONSE`. | C:P37–46 |
+| `KNOW-0824` | Director/observers, distinct | Explicit OK/memorable/balance request revises Player/Hime doubt; Musubi tentatively anticipated acceptance. `DIFFERENTIATED_APPRAISAL_AND_REVISED_EXPECTATION`. | C:P50–67 |
+| `KNOW-0825` | Musubi/Player/Coney, distinct | Appraise face/liveliness and differ over how much acting manner matters. `ATTRIBUTED_RECEPTION_AND_VALUE`. | C:P68–74 |
+| `KNOW-0826` | Director | Recounts prior idol production and prioritizes positive viewer impact while conceding he cannot satisfy everyone. `RETROSPECTIVE_SOURCE_JUDGMENT_AND_DOCTRINE`. | C:P96–105 |
+| `KNOW-0827` | Kazumi/Miwako, distinct | Gratitude/apology and reported prop-bomb/exertion/enjoyment retain local workload and reception frames. `REPORTED_COST_AND_RECIPROCAL_RECOGNITION`. | C:P120–129 |
+| `KNOW-0828` | Player/Kazumi/peers, distinct | First-discovery regret meets shared-creation account; future development/requests and title objection leave outcomes open. `REFRAMED_MANAGER_IDEAL_AND_PROSPECTIVE_WORK`. | C:P130–159 |
+
+| ID | Direction | Bounded state | Warrant and limits |
+| --- | --- | --- | --- |
+| `REL-0971` | Kazumi → Player | **Professional confidence and attributed shared creation**: Receives support, seeks solitude, later challenges first-discovery guilt and commits to future possibilities. | A:P5–33,82/C:P140–150; no sole ownership or reciprocal romance. |
+| `REL-0972` | Player → Kazumi | **Support with uneven access and revised ideal**: Offers advice, withholds/discloses concern, doubts role change, notices appeal and accepts further development. | A/B/C; no omniscient discovery, guaranteed advice success or complete consent system. |
+| `REL-0973` | Kazumi → Miwako | **Coactor respect, surprise and gratitude**: Values audition/preparation, makes unexpected role prompts, thanks her response and apologizes for difficult ad-libs. | A:P20/B:P24/C:P35–49,127; acting demand not literal harm/blanket authority. |
+| `REL-0974` | Miwako → Kazumi | **Appraisal, inquiry and responsive acting**: Praises earlier acting, supplies uncertain tutoring analogy, joins ad-lib and reports effort/enjoyment. | A:P67/B:P8–42/C:P37–49,124–128; no unlimited future coactor consent. |
+| `REL-0975` | Director → Kazumi | **Opaque control then bounded recognition**: Rejects/suspends without precise explanation, later approves memorability/balance and proposes tomorrow's work. | A:P45–63/C:P4–6,53–60,79–115; no objective neutral skill verdict or erased harshness. |
+| `REL-0976` | Kazumi → director | **Question, experimental answer and revised respect**: Asks criterion, returns without guaranteed approval, explains spectator insight and agrees to further work. | A:P51–61/C:P5,35–115; local alignment not full vindication/published audience impact. |
+| `REL-0977` | Hime → Kazumi | **Household reference and encouragement**: Offers a hesitant Gadora clue, invites viewing and supports scene retry despite own doubts. | B:P74–108/C:P22,40,55,63; no formal acting expertise or full acceptance prediction. |
+| `REL-0978` | Kazumi → Hime | **Requested clue and accepted opportunity**: Asks for even a small hint, accepts home viewing and later credits sibling reception. | B:P77,91–109/C:P82–93; bounded host/audience contribution, not complete creator ownership. |
+| `REL-0979` | Musubi → Kazumi | **Limited research proposal and received change**: Proposes known depiction strategy, joins viewing, anticipates different result and praises new face/acting. | B:P68–109/C:P23,41,52,70–71,125; no scientific/acoustic authority. |
+| `REL-0980` | Kazumi → Musubi and peer viewers, qualified | **Received possibility and gratitude**: Accepts shared inquiry/viewing and later credits Nanasta companions with opening possibilities. | B:P67–109/C:P142–149; group account without newly invented private intimacy. |
+| `REL-0981` | Coney → Player | **Counsel, redirection and teasing**: Joins to help, admits uncertainty, defends Gadora and asks him to see Kazumi's liveliness, then teases idol-builder. | B:P2–55,82–89/C:P64–74,131–156; no complete early plan or formal new title. |
+| `REL-0982` | Player → Coney | **Limits on help and partial reevaluation**: Warns against amusement/crew obstruction, initially doubts children's film reference and later receives attention prompt. | B:P3–7,87–90/C:P20,62–74,156; does not settle every managerial boundary. |
+| `REL-0983` | Miwako → Player | **Equal support, evaluation and future request**: Asks support for auditioned role, shares concern/uncertain analogy and later teases regret/request for making. | A:P15–22/B:P10–42/C:P124–151; no confession or fulfilled request. |
+| `REL-0984` | Player → Miwako | **Stated support and received coactor evidence**: Includes her in support/advice and agrees first acting seemed credible; later hears effort/enjoyment report. | A:P19–24/B:P11–42/C:P120–129; no complete technical assessment or hidden prior permission. |
+| `REL-0985` | Coney → Hime | **Genre account and collaborative perspective**: Affirms household reference, praises Gadora and answers questions about many production axes. | B:P75,82–89/C:P10–18; fandom/respect attributed, director character unknown. |
+| `REL-0986` | Hime → Coney | **Questioned expertise and received perspective**: Notes fandom expertise, questions director value and listens to collaboration account. | B:P84/C:P8,14,19,40; no unqualified endorsement of harsh methods. |
+| `REL-0987` | Musubi → Coney | **Qualified correction and inquiry**: Checks all-adult claim against earlier some-adults wording and questions director-respect account. | B:P86,89/C:P9,11; speaker-specific limits, not comprehensive expertise. |
+| `REL-0988` | Coney → Musubi/Hime, qualified | **Respect amid admitted lack**: Explains expression across funders/staff/cast/audience while admitting not knowing director's personality. | C:P10–18; no private omniscient disclosure or institutional certification. |
+| `REL-0989` | Hime siblings → nested Gadora scientist | **Particular viewer enthusiasm**: Enjoy the recurring figure and resist adult correction of what entertains them. | B:P102–106; anonymous household audience, no representative public sample. |
+| `REL-0990` | Nested Gadora scientist → household viewers | **Textual entertainment stimulus**: Brief quoted greeting and Hime's recurring-evil-character description enter the watching frame. | B:P99–109; no actual full movie listened/watched by analyst or pictured scientist Item. |
+
+No new IDENTITY/CHAR/UNIT/READY or R3 promotion. Anonymous director/staff/sibling roles and nested fiction stay bounded; costume/face variants do not add persons or credentials. No heard acting, finished movie/public impact, witnessed prop throw, reciprocal romance or mature monograph inferred.
 <!-- T7S ENTITY STATE PAYLOAD END -->

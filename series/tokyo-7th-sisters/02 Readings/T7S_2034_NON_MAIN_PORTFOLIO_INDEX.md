@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.80"
+version: "2.81"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and its audit retain their completed boundaries. The active [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed 20 source blocks / 60 episodes; i-n-g coverage is 274/280 episodes across 100 chapters, with 6 i-n-g episodes remaining. The next authorized but unread chapter is `301520` / **空に羽を広げる** / 桂木カヅミ, episodes `612203701 / 612203702 / 612203703`, assigned B0180. Supplemental, multimodal, character and era-release obligations remain active.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and its audit retain their completed boundaries. The active [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed 21 source blocks / 63 episodes; i-n-g coverage is 277/280 episodes across 101 chapters, with 3 i-n-g episodes remaining. The next authorized but unread chapter is `301530` / **あなたのジンセイのメッセージ！** / シャオ・ヘイフォン, episodes `612203801 / 612203802 / 612203803`, assigned B0181. Supplemental, multimodal, character and era-release obligations remain active.
 
 ## Closed first i-n-g tranche
 
@@ -165,3 +165,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The histor
 | [T7S_B0177](T7S_B0177_DEEP_READING.md) | `301490` / 有栖シラユキ / 有栖家の料理番 | `612203401 / 612203402 / 612203403` | `COMPLETE_BOUNDED` |
 | [T7S_B0178](T7S_B0178_DEEP_READING.md) | `301500` / 越前ムラサキ / 追い風のベクトル | `612203501 / 612203502 / 612203503` | `COMPLETE_BOUNDED` |
 | [T7S_B0179](T7S_B0179_DEEP_READING.md) | `301510` / 玉坂マコト / ナイトメア・オン・ポエットメイデン | `612203601 / 612203602 / 612203603` | `COMPLETE_BOUNDED` |
+| [T7S_B0180](T7S_B0180_DEEP_READING.md) | `301520` / 桂木カヅミ / 空に羽を広げる | `612203701 / 612203702 / 612203703` | `COMPLETE_BOUNDED` |
