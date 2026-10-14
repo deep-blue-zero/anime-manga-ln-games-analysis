@@ -5,7 +5,7 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.22"
+version: "1.23"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
@@ -55,6 +55,12 @@ Git holds interpretation, methods, public-safe routing, state, and provenance. G
 | V01 reading path manifest | Exact path set and state of the V01 transaction. |
 | Later deep readings | One per closed unit, `SW_V<NN>_DEEP_READING.md`, each owning its observations and freezes; V02 to V12, IV -after-, IX -extra- and both -another- volumes closed. |
 | Continuous run path manifest | Run identity and one transaction entry per unit closed under the 2026-10-14 run. |
+| Completion checkpoint and evidence-gap review | `04 Checkpoints and Reviews/`: the synthesis-input snapshot, gap classification, ledger decision, final domain decisions, warranted targets, acceptance criteria and execution topology for the synthesis phase. |
+| Longitudinal reconciliation | `03 Longitudinal Ledgers/SW_LONGITUDINAL_RECONCILIATION.md`: cross-unit audit of claims, identities, chronology and contradictions at completion; reads the master ledger and does not replace it. |
+| Specialist arguments | `05 Specialist Arguments/`: one document per domain classified WARRANTED at the checkpoint. |
+| Character and relationship arguments | `06 Character and Relationship Arguments/`: the character monographs and the relationship arguments the checkpoint warrants. |
+| Integrated synthesis | `07 Integrated Synthesis/`: the bounded published-LN synthesis through the authorized high-water mark. |
+| Reconstruction-readiness assessment | `09 Reconstruction Readiness/`: the subject-, state- and domain-specific readiness assessment; no model. |
 | Master longitudinal ledger | Sole pre-split cumulative analytical state, claims/revisions, predictions, and local readiness. |
 | Bootstrap report | Historical design rationale, observed precedents, accesses, checks, limitations, and handoff gates. |
 | Bootstrap path manifest | Exact approved authored path set and bootstrap-generation identity. |
@@ -292,6 +298,12 @@ Where it agrees or disagrees with an account the numbered track gave, the readin
 *-another- (lower) admission, 2026-10-14.* The V12-boundary review covers both prequel volumes, and the upper volume's closure raised no method or architecture issue, so no new review is required. The lower volume is admitted under the same prequel rules, as `SW-LNJP-ANOTHER-LOWER`, with its own observations and freezes. It is the last supplied work; the checkpoint and evidence-gap review follows its closure.
 
 *-another- (lower) note, 2026-10-14.* The lower volume was absorbed by the typed sections without change; no claim is revised and no frozen reading is altered. Every supplied work is now read. The checkpoint and evidence-gap review is the next operation.
+
+### Completion checkpoint, 2026-10-14
+
+Performed after the last supplied unit closed, as section 9 requires. The [completion checkpoint and evidence-gap review](../04%20Checkpoints%20and%20Reviews/SW_COMPLETION_CHECKPOINT_AND_EVIDENCE_GAP_REVIEW.md) freezes the synthesis-input snapshot at the closure of -another- (lower) and records the corrected prequel interval. It retains the single master ledger. It classifies three domains WARRANTED: disclosure and withholding, numbers and magic, and masters and transmission. Three domains merge into the character and relationship arguments, and spirits, curses and the old era are deferred. It warrants four character monographs and one four-dyad relationship document.
+
+*Lifecycle.* The product homes `04` to `07` and `09` are added to section 3 as routes for products this architecture already requires; no responsibility, ledger, dependency or completion gate changes. The domain decisions replace the MONITOR states tabled at the V12 boundary. The architecture remains INITIAL until the integrated synthesis closes.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 

@@ -5,7 +5,7 @@ artifact_type: master_longitudinal_ledger
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.16"
+version: "1.17"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exclusive pre-split cumulative state; Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes closed and reconciled into every typed section"
@@ -82,7 +82,7 @@ The common fields apply to all sections. The following field lists define each s
 
 **ANOTHER-UPPER record defaults.** Every ANOTHER-UPPER record has: continuity Japanese LN supplemental prequel companion; witness and source unit `SW-LNJP-ANOTHER-UPPER`; diegetic interval from Louis's eleventh year in the northern brothel through his six Minerva years to his first month in the Magic Corps, with a prologue in his mid-twenties as head of the Corps and a secret episode after Carla's appointment, all before V01; disclosure boundary ANOTHER-UPPER; class REVEALED_NOT_NEW for every disclosure about the numbered track, which no record revises; created and last updated at the companion's closure, 2026-10-14; no supersession unless stated. Its `obs.` numbers refer to the [-another- (upper) reading](../02%20Sequential%20Readings/SW_ANOTHER_UPPER_DEEP_READING.md#610-observation-register), meaning `SW-E-LNJP-ANOTHER-UPPER-<nnn>`, and its bare locators to `SW-LNJP-ANOTHER-UPPER`. Earlier observations are written with their unit prefix.
 
-**ANOTHER-LOWER record defaults.** Every ANOTHER-LOWER record has: continuity Japanese LN supplemental prequel companion; witness and source unit `SW-LNJP-ANOTHER-LOWER`; diegetic interval from the Nadin flood a little over three years after Louis's graduation, through the following year's Sage selection and investiture, to his wedding half a year later and the honeymoon in Dangrots, with a secret episode in his early years as a Sage, all before V01; disclosure boundary ANOTHER-LOWER; class REVEALED_NOT_NEW for every disclosure about the numbered track, which no record revises; created and last updated at the companion's closure, 2026-10-14; no supersession unless stated. Its `obs.` numbers refer to the [-another- (lower) reading](../02%20Sequential%20Readings/SW_ANOTHER_LOWER_DEEP_READING.md#610-observation-register), meaning `SW-E-LNJP-ANOTHER-LOWER-<nnn>`, and its bare locators to `SW-LNJP-ANOTHER-LOWER`. Earlier observations are written with their unit prefix.
+**ANOTHER-LOWER record defaults.** Every ANOTHER-LOWER record has: continuity Japanese LN supplemental prequel companion; witness and source unit `SW-LNJP-ANOTHER-LOWER`; diegetic interval from the Nadin flood a little over three years after Louis's graduation, through the Sage selection about three years after the soirée, and the investiture, to his wedding half a year later and the honeymoon in Dangrots, with a secret episode in his early years as a Sage, all before V01; disclosure boundary ANOTHER-LOWER; class REVEALED_NOT_NEW for every disclosure about the numbered track, which no record revises; created and last updated at the companion's closure, 2026-10-14; no supersession unless stated. Its `obs.` numbers refer to the [-another- (lower) reading](../02%20Sequential%20Readings/SW_ANOTHER_LOWER_DEEP_READING.md#610-observation-register), meaning `SW-E-LNJP-ANOTHER-LOWER-<nnn>`, and its bare locators to `SW-LNJP-ANOTHER-LOWER`. Earlier observations are written with their unit prefix.
 
 **Local identities at V01.** These keys resolve inspected identity only and are not global enrollments.
 
@@ -1257,7 +1257,7 @@ Records at ANOTHER-LOWER:
 | SW-K-0157 | Birdland ordered the letters destroyed, drunk. | Years before the engagement. | Birdland, the steward. | True. | Louis, Rosalie. | 060 |
 | SW-K-0158 | Vivian asked Rutherford to take Louis. | Thirteen years earlier. | Rutherford; Louis, by report. | True. | — | 170 |
 | SW-K-0159 | Clockford crushed Louis's earlier candidacy. | The previous selection. | Felix, Elliott; Rutherford by inference. | True by report. | Louis, until told. | 036, 067 |
-| SW-K-0160 | Interval and dates. | The Nadin flood a little over three years after graduation; the selection in mid-冬中月 the next year; the wedding half a year later. | Reader. | Partial order. | — | 013, 058, 165 |
+| SW-K-0160 | Interval and dates. | The Nadin flood a little over three years after graduation; the soirée in mid-冬招月; the selection in mid-冬中月 about three years after the soirée; the wedding half a year later. Corrected 2026-10-14 from "the next year" (ANOTHER-LOWER reading, Corrections, 1.1). | Reader. | Partial order. | — | 013, 058, 165; S16:E000426 |
 
 ## 4. Institutions, world and magic — SW-W
 

@@ -5,7 +5,7 @@ artifact_type: deep_reading
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.0"
+version: "1.1"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Complete Japanese-primary reading of the prequel companion -another- 結界の魔術師の成り上がり〈下〉: prologue, eleven chapters, epilogue, in-volume secret episode, every narrative illustration, the colour frontispieces, the character list and every paratext channel except the excluded preview"
@@ -195,7 +195,7 @@ The entry record above is reproduced byte for byte from a scratch file. That fil
 
 ### 6.1 Placement, form and the frame
 
-The lower volume starts where the upper volume's prologue stood. The upper prologue showed Louis as head of the Corps, counting the jar and vowing to be a Sage (ANOTHER-UPPER obs. 006, 011, 012). The lower prologue shows how he became head: the Nadin flood, a little over three years after graduation (obs. 013). The run then reaches the Sage selection the following winter (obs. 058), the investiture (obs. 156) and a wedding half a year later (obs. 165). The epilogue travels back, in place, to the village (obs. 171). The two volumes together are a single story of a boy who becomes a Sage and gains a family, and the lower volume's last line says so (obs. 173), answering the upper's frame line (ANOTHER-UPPER obs. 014).
+The lower volume starts where the upper volume's prologue stood. The upper prologue showed Louis as head of the Corps, counting the jar and vowing to be a Sage (ANOTHER-UPPER obs. 006, 011, 012). The lower prologue shows how he became head: the Nadin flood, a little over three years after graduation (obs. 013). About three years then pass before the Sage selection in mid-冬中月 (obs. 058). Carla's resignation lies half a year before the soirée (S13:E000674) and about three and a half years before the selection (S16:E000426), and Glen, eleven when taken, is fourteen in the summer before it (S15:E000097). The investiture follows (obs. 156), and a wedding half a year later (obs. 165). The epilogue travels back, in place, to the village (obs. 171). The two volumes together are a single story of a boy who becomes a Sage and gains a family, and the lower volume's last line says so (obs. 173), answering the upper's frame line (ANOTHER-UPPER obs. 014).
 
 The book is structured as a mystery inside a romance. A fall, amnesia, a missing friend and a forged confession are set four days before an examination. Clues are planted early and paid off by name:
 
@@ -654,7 +654,7 @@ These are recorded as paratext only.
 - the Nadin flood: a little over three years after graduation (obs. 013);
 - the soirée: mid-冬招月 (S13:E000266);
 - Glen: confined, then apprenticed, at eleven, and fourteen by the engagement (obs. 039; S15:E000097);
-- the selection: mid-冬中月 (obs. 058);
+- the selection: mid-冬中月, about three years after the soirée (obs. 058; S16:E000426);
 - the wedding: half a year after the investiture (obs. 165);
 - the honeymoon: thirteen-odd years after Louis left the village (S24:E000031).
 
@@ -915,7 +915,7 @@ No prediction was registered at entry, so none is adjudicated.
 
 - **Publication.** The lower volume appeared in April 2024, after numbered VII; its afterword announces VIII (obs. 180). The admission order does not follow publication. This is recorded, not changed.
 - **Story level.** The whole run precedes V01, where Louis and Monica are already Sages and Monica lives in her hut. The epilogue's honeymoon follows the wedding half a year after the investiture. The secret episode is set in their early years as Sages. Nothing in the book is placed after V01's opening, and no numbered record is revised.
-- **Relative dating.** Felix is twelve or thirteen at the soirée a year before the selection (obs. 031), and Monica is fifteen at the selection (obs. 064). These are recorded as given; the reading draws no inference beyond V08, V09 and IX -extra-.
+- **Relative dating.** Felix is twelve or thirteen at the soirée, about three years before the selection (obs. 031; S16:E000426), and Monica is fifteen at the selection (obs. 064). These are recorded as given; the reading draws no inference beyond V08, V09 and IX -extra-.
 
 *Evidence limitations:*
 
@@ -952,3 +952,9 @@ The executed researcher of obs. 029 is recorded as unnamed. No name, event or re
 | Durable transaction | In Git history and CI receipts. Main integration is not performed by this author. |
 | Mandatory evidence outstanding | None for closure of -another- (lower). |
 | Optional evidence outstanding | Printed pagination; the cover, title-page, glyph and store images. |
+
+## Corrections
+
+| Version | Date | Correction |
+|---|---|---|
+| 1.1 | 2026-10-14 | The interval between the soirée of chapter one and the Sage selection was stated as about one year in sections 6.1 and 10. The text gives about three years: Carla's resignation lies half a year before the soirée (S13:E000674) and about three and a half years before the selection (S16:E000426), and Glen ages from eleven to fourteen in between (S15:E000097). Sections 6.1, 7.11 and 10 are corrected; the ledger's SW-K-0160 and ANOTHER-LOWER record defaults are corrected in the same commit. No claim, observation or freeze statement depends on the earlier figure. Found during the longitudinal reconciliation. |
