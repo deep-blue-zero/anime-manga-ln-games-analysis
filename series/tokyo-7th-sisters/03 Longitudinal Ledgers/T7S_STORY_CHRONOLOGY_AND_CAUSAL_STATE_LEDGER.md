@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.83"
+version: "11.84"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; seven complete Sisara Intimacy primary documents / T7S_B0182; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 16 Intimacy primary documents across 2 family portfolios / T7S_B0182–T7S_B0183; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-14
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1082`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1274`; `last_closed_block = T7S_B0182`. The admitted horizon contains 522 primary documents: 235 Main, 280 i-n-g and seven Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and seven independent Sisara Intimacy occurrences are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. The three new Sisara links are formal comparisons, with no before/after or causal sequence inferred. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1091`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1277`; `last_closed_block = T7S_B0183`. The admitted horizon contains 531 primary documents: 235 Main, 280 i-n-g and 16 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 16 Intimacy documents across 2 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3637,3 +3637,27 @@ Owner [B0182](../02%20Readings/T7S_B0182_DEEP_READING.md), reading SHA256 `f1749
 | `EDGE-1281` | `EV-B0182-003` ↔ `EV-B0182-007` | `RECIPROCAL_PLACE_EXPRESSION`; wanting her place and protecting his place are linked vocabulary; no literal causal dependency or mature reciprocity promoted. |
 
 No new WORLD/THREAD records or calendar/total chronology. Seven occurrence mini-cases plus three formal links yield1082EV/1274EDGE (maximum1281; seven old gaps retained),25WORLD/47THREAD. Main235/ING280 remain closed unchanged;7 Intimacy documents add bounded factual homes rather than a new Main/i-n-g chapter. Full2034 remains active/incomplete.
+
+## B0183 Sui's independent ordinary-life presentations
+
+Owner [B0183](../02%20Readings/T7S_B0183_DEEP_READING.md), reading SHA256 `2f1655275a443aa5ad3a4d60b79753c6d2e11e93af9a1c84446c560ac0fe3578`; complete family200520 / routeNM-INTIMACY-200520, nine exact scripts and primary ranges in reading, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, proposed source-lock 12.89. Entering B0182/source-lock12.88 complete23physical/control/entity view remains frozen. Every occurrence keeps source reports, appraisals, desire, question and permission distinct from independently observed outcomes.
+
+| ID | Full primary range | Factual mini-case | Frame and retained limit |
+| --- | --- | --- | --- |
+| `EV-B0183-001` | 401000017 P0–4 | Surprised by addressed fan-letter box, contrasts handwritten effort with digital alternatives, reports happy tears, credits manager for becoming a woman and considers her own gratitude letter. | `PRESENTED_ATTENTION_REPORT_AND_SELF_ATTRIBUTION`; no fan census, independently shown tears, sole managerial causation or completed letter. |
+| `EV-B0183-002` | 401000356 P0–3 | Questions change from prince preoccupation/becoming a girl, credits him, proposes ticket gift and tomorrow romantic-film outing, reports popularity by hearsay and requests lessons in love. | `APPRAISAL_INVITATION_AND_REPORTED_POPULARITY`; local tomorrow without calendar/cross-occurrence order; no acceptance, cinema visit or reciprocal confession. |
+| `EV-B0183-003` | 401000404 P0–5 | Fears unusual shopping request, seeks reassurance, asks cute swimsuit selection to his taste, permits fitting display and explicitly demands no touch. | `APPEARANCE_REQUEST_AND_SPECIFIC_BODILY_LIMIT`; no shown choice/fitting/agreement/breach, and looking permission does not waive touch restriction. |
+| `EV-B0183-004` | 401000618 P0–5 | Protests tickling addressed to Yumeno, thanks manager for shelter, reports body appraisal, indicates muscle/abdomen, reacts to closed-room propriety question and speculates boldness means becoming a woman. | `ADDRESSED_PROTEST_REPORTED_EXCHANGE_AND_GENDER_SPECULATION`; no their own text, shown tickling/display or objective transformation; protests remain limits. |
+| `EV-B0183-005` | 401000666 P0–5 | Reports Hime/Harumi-family store purchases, reflects on family support for Nanasta dining, wants to support manager, denies marriage meaning, tentatively imagines it and asks to disregard the aside. | `REPORTED_PROVISION_DESIRED_CARE_AND_QUALIFIED_ASIDE`; denial/possibility/withdrawal all retained; no exhaustive supplier census, proposal or reciprocal marriage. |
+| `EV-B0183-006` | 401000714 P0–5 | Reports anticipation of zoo invitation, distinguishes human men from admired male animals, asks animal-framing touch trial, immediately withdraws it/warns him to flee before a punch and apologizes. | `CONDITIONAL_EXPERIMENT_AND_REVOKED_PERMISSION`; no actually shown touch/punch or cure; her man-framing explanation remains attributed. |
+| `EV-B0183-007` | 401000942 P0–4 | Enjoys after-lesson triple ice cream, offers spoon feeding, initially permits mediated contact, recognizes possible indirect-kiss meaning, is embarrassed but tentatively comfortable and requests reciprocal feeding. | `SPECIFIC_MEDIATED_CONTACT_APPRAISAL_AND_REQUEST`; no direct kiss, fulfilled reciprocal feeding, universal permission or dated progress over006. |
+| `EV-B0183-008` | 401000974 P0–5 | Reports Rona dance practice/apology, argues difficulty warrants lessons and progress feels good, promises continued practice support, reports redness and wonders whether fatigue caused it. | `REPORTED_PEER_SUPPORT_AND_UNRESOLVED_RECEPTION`; Rona has no own reply; fatigue/innuendo remain alternatives, no certified cause or measured mastery. |
+| `EV-B0183-009` | 401001222 P0–5 | Requests cute affirmation, reports recurring comparison anxiety toward Shizuka/Sumire, reports community/manager reassurance, chooses trust and requests the words again. | `SELF_REPORT_ATTRIBUTED_REASSURANCE_AND_RENEWED_REQUEST`; no objective beauty judgment, permanent cure or complete reciprocal access. |
+
+| ID | Formal relation | Non-chronological qualification |
+| --- | --- | --- |
+| `EDGE-1282` | `EV-B0183-003` ↔ `EV-B0183-006` | `LOCAL_PERMISSION_AND_WITHDRAWAL_COMPARISON`; looking/no-touch and conditional direct experiment remain different contexts, no assumed sequence or achieved cure. |
+| `EDGE-1283` | `EV-B0183-006` ↔ `EV-B0183-007` | `DIRECT_VERSUS_MEDIATED_CONTACT_COMPARISON`; failed/revoked trial and tentative spoon comfort coexist, not a treatment ladder or universal incapacity. |
+| `EDGE-1284` | `EV-B0183-001` / `EV-B0183-002` ↔ `EV-B0183-009` | `RECURRING_GENDER_RECOGNITION_AND_AFFIRMATION_REQUEST`; self-credit/questions and recurring anxiety permit qualified comparison without erasing prince/ボク history. |
+
+No new WORLD/THREAD or calendar/total chronology. Nine occurrence mini-cases/three formal edges yield1091EV/1277EDGE (maximum1284; seven historical gaps retained),25WORLD/47THREAD. Main235/ING280 unchanged;16Intimacy primary documents in two complete family portfolios, total531. Full2034 remains active/incomplete.

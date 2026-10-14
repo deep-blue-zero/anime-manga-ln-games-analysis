@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0182; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0183; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-14
 ---
@@ -945,4 +945,50 @@ Complete seven-occurrence family200740, witness `T7S_GAME_OFFLINE_JA_R484`, corp
 | `REL-1010` | `kawasumi-shisara → Nanasta` | Seeks belonging through recognized work/companionship and supports retaining idol value/revival. Actor account, not complete institutional care/consent, completed recognition or mature release. |
 
 Totals864KNOW/1010REL;102IDENTITY/84CHAR/28UNIT/29R2 unchanged. No causal ordering among the seven presentations or against Main/i-n-g. Anonymous shop staff remain an attributed role within KNOW0862, with no new stable identity.
+
+## B0183 Sui's recognition, care and bodily limits
+
+Nine complete family200520 occurrences, source-lock 12.89, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Existing `IDENTITY-0017/kamishiro-sui` / `CHAR-0014`; `IDENTITY-0087/sakaiya-yumeno` / `CHAR-0069`; `IDENTITY-0008/tsunomori-rona` / `CHAR-0008`, Sumire/Shizuka, Player and units remain their prior identities. No new identity, character, unit or readiness decision.
+
+| Existing subject | Qualified new annotation | Prior state and access retained |
+| --- | --- | --- |
+| `CHAR-0014` / Sui | Femininity/appearance/love-learning questions coexist with ボク, athletic frankness, requested recognition, care and explicit contact limits. | Main prince-care/manager boundary failures and persistent response, SiSH complementary care/AXiS rescue, B0075 insecurity and B0150 mentorship/privacy retained. No total reversal, clinical cure or fixed menu chronology. |
+| `CHAR-0001` / Player | Addressed as recipient/companion, thanked, invited, asked to select/affirm/support and given specific bodily restrictions. | Only her reports/uptake; no own responses establish his choice, romantic reciprocity, completed conduct or blanket consent. |
+| `CHAR-0069` / Yumeno | Sui addresses ticklish protests and reports body-focused appraisal. | New scene qualification does not prove reformation, full reciprocal mind or permission from protest. |
+| `CHAR-0008` / Rona | Reported apology/redness in Sui's practice account; recipient of promised companionship. | No own reply, certified fatigue/embarrassment cause, measured mastery or altered readiness. |
+| `UNIT-0009` / SiSH; `UNIT-0002` / Nanasta | Shizuka/Sumire and wider community enter reported affirmation; family shops enter Sui's provision reflection. | No exhaustive institutional care/supplier census, universal consent or mature unit release. |
+
+| ID | Holder/frame | Qualified state | Source |
+| --- | --- | --- | --- |
+| `KNOW-0865` | Sui; `ATTENTION_REPORT_AND_APPRAISAL` | Marvels at handwritten fan letters despite digital alternatives; quantity/effort belongs to her account, not a fan census. | 401000017 P1–2 |
+| `KNOW-0866` | Sui; `SELF_ATTRIBUTION_AND_INTENDED_RECIPROCATION` | Reports happy tears, credits manager for becoming a woman and proposes gratitude writing despite low writing confidence; no completed letter/sole causal proof. | 401000017 P3–4 |
+| `KNOW-0867` | Sui; `QUESTIONED_GENDER_CHANGE` | Asks whether prince focus has changed and whether becoming a girl; question/credit does not establish total identity replacement. | 401000356 P1–2 |
+| `KNOW-0868` | Sui; `INVITATION_AND_HEARSAY` | Proposes tomorrow film/ticket gift and love lesson; popularity heard, no acceptance/calendar/date completion. | 401000356 P2–3 |
+| `KNOW-0869` | Sui; `APPEARANCE_REQUEST_AND_NORMALITY_CONCERN` | Fears shopping request seems strange, seeks reassurance and asks cute selection to his taste. | 401000404 P1–4 |
+| `KNOW-0870` | Sui; `SPECIFIC_LOOKING_PERMISSION_NO_TOUCH` | Allows fitting display while demanding promised no touch; no blanket waiver or completed fitting/agreement. | 401000404 P5 |
+| `KNOW-0871` | Sui; `ADDRESSED_PROTEST_AND_REPORTED_SHELTER` | Protests Yumeno's tickling/address, thanks manager for shelter and reports body appraisal; their own conduct/words unshown. | 401000618 P1–3 |
+| `KNOW-0872` | Sui; `PROPRIETY_UPTAKE_AND_GENDER_SPECULATION` | Indicates muscle/abdomen, reacts to propriety question and wonders if boldness signals womanhood; no objective transformation or depicted display. | 401000618 P3–5 |
+| `KNOW-0873` | Sui; `REPORTED_MATERIAL_PROVISION` | Hime/Harumi-family purchases prompt family-supported dining reflection, not exhaustive supplier proof. | 401000666 P1–2 |
+| `KNOW-0874` | Sui; `DESIRED_CARE_AND_QUALIFIED_MARRIAGE_ASIDE` | Wants to support manager; denies marriage meaning, imagines possibility and withdraws aside. All qualifications retained. | 401000666 P3–5 |
+| `KNOW-0875` | Sui; `REPORTED_OCCASION_AND_DIFFERENTIATED_DISCOMFORT` | Reports zoo anticipation/sleeplessness and distinguishes human men from admired male animals; no independent animal encounter/census. | 401000714 P1–2 |
+| `KNOW-0876` | Sui; `CONDITIONAL_TRIAL_AND_WITHDRAWAL` | Animal-framing contact experiment fails in her account; permission revoked, escape requested before punch; no shown touch/punch/cure. | 401000714 P3–5 |
+| `KNOW-0877` | Sui; `SPOON_MEDIATION_AND_EMBARRASSMENT` | Initially allows mediated contact, then sees possible indirect-kiss meaning and is embarrassed. | 401000942 P1–3 |
+| `KNOW-0878` | Sui; `TENTATIVE_TOLERANCE_AND_RECIPROCAL_REQUEST` | May be comfortable despite embarrassment; asks feeding back, without fulfilled exchange or universal touch permission. | 401000942 P4 |
+| `KNOW-0879` | Sui; `REPORTED_PRACTICE_AND_SUPPORT_ETHIC` | Rona apology motivates lessons/progress explanation and promised continued companionship; no measured mastery. | 401000974 P1–4 |
+| `KNOW-0880` | Sui; `RECEPTION_REPORT_AND_OPEN_CAUSE` | Reports Rona redness; wonders about fatigue. Fatigue/possible comic double meaning not certified as cause or sexual fact. | 401000974 P5 |
+| `KNOW-0881` | Sui; `RECURRING_COMPARISON_INSECURITY` | Shizuka/Sumire lady ideal sometimes provokes anxiety and cute question; no universal inferiority or objective beauty criterion. | 401001222 P1–2 |
+| `KNOW-0882` | Sui; `ATTRIBUTED_AFFIRMATION_CHOSEN_TRUST_AND_REQUEST` | Reports peer/community/manager affirmation, chooses trust and requests words again; insecurity not permanently closed. | 401001222 P3–5 |
+
+| ID | Directional relationship | Qualified state and missing access |
+| --- | --- | --- |
+| `REL-1011` | `kamishiro-sui → player-protagonist` | Thanks/credits, invites and seeks learning/appearance/affirmation while specifying/revoking contact permission and imagining care; no completed romance/cure. |
+| `REL-1012` | `player-protagonist → kamishiro-sui` | Her reports position him as companion/shelter/recipient and uptake-question source; his own replies, choices and exact conduct remain unavailable. |
+| `REL-1013` | `kamishiro-sui → sakaiya-yumeno` | Ticklish protests and reported body appraisal qualify the local interaction; protest is not blanket permission. |
+| `REL-1014` | `sakaiya-yumeno → kamishiro-sui` | Body-focused appraisal available through Sui's report; no own text/complete motive, accepted contact or reformation proved. |
+| `REL-1015` | `kamishiro-sui → tsunomori-rona` | Reports practice support, counters apology with a growth ethic and promises companionship; reciprocal outcome/mind unresolved. |
+| `REL-1016` | `tsunomori-rona → kamishiro-sui` | Apology/redness available only in Sui's account; no own response, confirmed cause or completed mastery. |
+| `REL-1017` | `kamishiro-sui → SiSH` | Shizuka/Sumire lady ideal and reported cute affirmation enter comparison/trust; no objective norm or all reciprocal appraisal. |
+| `REL-1018` | `kamishiro-sui → Nanasta` | Community recognition and family-shop provision inform desired support/belonging; not exhaustive care, labor/supply audit or maturity release. |
+
+Totals882KNOW/1018REL;102IDENTITY/84CHAR/28UNIT/29R2 unchanged. Prior histories remain exact. No new stable fan/shop-worker identities, clinical diagnosis, gender-totalization, calendar ordering or mature monograph.
 <!-- T7S ENTITY STATE PAYLOAD END -->
