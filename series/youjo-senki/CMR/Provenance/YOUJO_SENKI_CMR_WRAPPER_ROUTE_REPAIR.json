@@ -1,0 +1,49 @@
+{
+  "schema": "youjo-senki/wrapper-route-repair/v1",
+  "created_utc": "2026-10-13T20:33:17.171454+00:00",
+  "records": [
+    {
+      "route": "series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md",
+      "prior_sha256": "b06afe861523ae9128a2c663f73fb1f71a53b4baeb973dd254f5f470f93ba43c",
+      "current_sha256": "bfa0fcf1a2d4be515257ace22d9e74348cac0cea705dbf4f34be6fe64811026a",
+      "replacement": {
+        "old": "CMR/Relationships/",
+        "new": "CMR/Relations/",
+        "matches": 1
+      },
+      "inverse_exact_original_bytes": true,
+      "scope": "Git-added wrapper routing only; original method substantive body and frozen intake history unchanged"
+    },
+    {
+      "route": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md",
+      "prior_sha256": "4eab051a95863a8c9eea83f4484af1560b9714e0fbd76ef7a93ab852947220c0",
+      "current_sha256": "23ad74b5d6fabaf8e985d4498f3fef7e75f06474b03b87978da2d485b9d65b1d",
+      "replacement": {
+        "old": "CMR/Relationships",
+        "new": "CMR/Relations",
+        "matches": 1
+      },
+      "inverse_exact_original_bytes": true,
+      "scope": "Git-added wrapper routing only; original method substantive body and frozen intake history unchanged"
+    }
+  ],
+  "followup_current_navigation_patch": {
+    "route": "series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md",
+    "prior_sha256": "bfa0fcf1a2d4be515257ace22d9e74348cac0cea705dbf4f34be6fe64811026a",
+    "result_sha256": "3a32d7c4611e2b216e3283e4b6a7b6234e036ed005dd1fdb81e1902c2aab28c2",
+    "exact_old_text": "These are responsibility allocations. Directories are populated only when real artifacts exist. Until the project CMR index is created, use the existing series entrypoint; no planned model or QA file is represented as already complete.",
+    "exact_new_text": "These are responsibility allocations. The completed operational packages and their versioned QA are routed from [CMR/README.md](../README.md) and the [model/source index](../YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md). Use the series entrypoint to resolve the mature V2 responsibility and the current integration/promotion receipt; source readiness does not certify unrestricted hypothetical accuracy.",
+    "inverse_exact_prior_bytes": true,
+    "original_v11_substantive_body_unchanged": true
+  },
+  "readiness_baseline_wrapper_route_repair": {
+    "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR1_READINESS_BASELINE.md",
+    "scope": "One wrapper paragraph only; original first-audit body and allmetadata unchanged",
+    "before_sha256": "1376c6a798ea8fad7117adeaf64a8322a6bb495cf7a6fb1c29758c5834343859",
+    "after_sha256": "8561999c94fefa68f497d527c14895b41e29ecbc51a67843c4772b61bb1ee13e",
+    "exact_old_text": "The current reconstruction method is routed through [the proposed Git method](../Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md), with the original Drive source and proposed authority transition documented by [the port audit](YOUJO_SENKI_CMR_PORT_AUDIT.md). Use [the series current-state entrypoint](../../CURRENT_STATE_AND_CORPUS_MAP.md) for current work. A future current readiness/coverage artifact is a distinct analytical responsibility; no unpublished path is treated as available.",
+    "exact_new_text": "The current reconstruction method is routed through [the Git method](../Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md), with original Drive provenance and the proposed authority transition documented by [the port audit](YOUJO_SENKI_CMR_PORT_AUDIT.md). Current coverage uses the distinct [readiness re-audit](YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md) and [supplement](YOUJO_SENKI_SUPPLEMENTARY_CHARACTER_READINESS.md); the [series entrypoint](../../CURRENT_STATE_AND_CORPUS_MAP.md) controls current routing. The original first-audit body below remains historical.",
+    "inverse_exact": true,
+    "preserved_substantive_body_sha256": "ed9dd9a46a94eddead7f85c154e5b2027490916e4197a5d24728b22b2bf48542"
+  }
+}

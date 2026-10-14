@@ -1,0 +1,243 @@
+{
+  "schema": "youjo-senki/authority-promotion-wrapper-patch-trace/v1",
+  "artifact_type": "precise_authority_wrapper_patch_trace",
+  "status": "active_provisional",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "scope": "Eight metadata/banner/current-routing wrappers only; actual accepted analytical body/native pointer event bound separately. This trace does not self-certify later wrapper publication.",
+  "accepted_analytical_main_sha": "813cc91553f99e2de7c357794897bb8c59b2f548",
+  "proof_receipt_hashes": {
+    "main_sha256": "b7041f53c2aa4e92f433495790cea3f8e4fe4b14406e14624f8834ca69b02495",
+    "native_sha256": "fd666293e25884a22821fbb5c3bf6068443e8a31aae70e43c18a31bac5d7ab26",
+    "accepted_main_sha": "813cc91553f99e2de7c357794897bb8c59b2f548"
+  },
+  "records": [
+    {
+      "path": "series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md",
+      "before_bytes": 46350,
+      "before_sha256": "3a32d7c4611e2b216e3283e4b6a7b6234e036ed005dd1fdb81e1902c2aab28c2",
+      "candidate_bytes": 46862,
+      "candidate_sha256": "b17420519b0825752649d8bef4f4a3cff155773c3e489d248fa521a197c45d40",
+      "exact_inverse_PASS": true,
+      "operations": [
+        {
+          "kind": "FRONTMATTER_ONLY",
+          "exact_old_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_type: character_modeling_reference_method\nscope: V01-V14\nsource_media: Japanese light novels\nsource_boundary: \"Original Japanese Youjo Senki light novels Volumes 01-14 in Drive source folder 1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g\"\ngeneration: V2_CMR\nversion: \"1.1\"\nstatus: active_provisional\ncanonical_home: \"series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md\"\nprimary_source_root: \"1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g\"\nprimary_source_audit_manifest: \"1JXarPgypYVSdzAexUyyOa4qH8mxlyHcx\"\ntranslation_audit_ledger: \"1mQno_ayho-R3jacL374LrNamAe_Sbkf0\"\nparent_analysis_status: \"Mature V2 interpretation remains Git-primary at series/youjo-senki/V2 Analysis; CMR is subordinate reconstruction infrastructure.\"\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\nartifact_id: YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD\nport_revision: \"1\"\nport_date: 2026-10-11\nsource_drive_id: \"16tMcTb0rZZ7U3gjidf6bzJ-TravNQcCh\"\nsource_drive_revision: \"0B24avie5yJngSElKajFBL2hDaFE4Qm9vazUweGdMcldtT3BzPQ\"\nsource_sha256: \"405d89789d730ec3ccdff1de020d318dc39c9910b36577d2b3e1f63a52737361\"\nhistorical_drive_home: \"Youjo Senki/06 Character Modeling and Reconstruction/00 Frameworks and Methods\"\npromotion_status: PROPOSED_PENDING_VERIFIED_MAIN_INTEGRATION\nformer_drive_pointer_update_status: NOT_PERFORMED\n---\n",
+          "exact_new_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_type: character_modeling_reference_method\nscope: V01-V14\nsource_media: Japanese light novels\nsource_boundary: \"Original Japanese Youjo Senki light novels Volumes 01-14 in Drive source folder 1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g\"\ngeneration: V2_CMR\nversion: \"1.1\"\nstatus: active_provisional\ncanonical_home: \"series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md\"\nprimary_source_root: \"1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g\"\nprimary_source_audit_manifest: \"1JXarPgypYVSdzAexUyyOa4qH8mxlyHcx\"\ntranslation_audit_ledger: \"1mQno_ayho-R3jacL374LrNamAe_Sbkf0\"\nparent_analysis_status: \"Mature V2 interpretation remains Git-primary at series/youjo-senki/V2 Analysis; CMR is subordinate reconstruction infrastructure.\"\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\nartifact_id: YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD\nport_revision: \"1\"\nport_date: 2026-10-11\nsource_drive_id: \"16tMcTb0rZZ7U3gjidf6bzJ-TravNQcCh\"\nsource_drive_revision: \"0B24avie5yJngSElKajFBL2hDaFE4Qm9vazUweGdMcldtT3BzPQ\"\nsource_sha256: \"405d89789d730ec3ccdff1de020d318dc39c9910b36577d2b3e1f63a52737361\"\nhistorical_drive_home: \"Youjo Senki/06 Character Modeling and Reconstruction/00 Frameworks and Methods\"\npromotion_status: \"VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS\"\nformer_drive_pointer_update_status: \"VERIFIED_NATIVE_CUTOVER\"\nanalytical_body_authority: \"VERIFIED_ACCEPTED_MAIN_WITH_LIMITS\"\nnative_predecessor_pointers: \"VERIFIED_NATIVE_CUTOVER\"\naccepted_analytical_main_sha: \"813cc91553f99e2de7c357794897bb8c59b2f548\"\nauthority_promotion_record: \"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json\"\n---\n"
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "> **Git port proposal.** The complete v1.1 method body is preserved below. This branch artifact remains `active_provisional`; promotion of this analytical home awaits verified main integration. The original Drive method is the retained, revision-bound source for the port. Its planned pointer/supersession metadata update has not been performed.",
+          "exact_new_utf8_text": "> **Verified analytical authority.** The complete v1.1 substantive method body below was accepted in main `813cc91553f99e2de7c357794897bb8c59b2f548`. The six native predecessor metadata/banner readbacks are verified. The [authority promotion receipt](../Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) binds those completed events and the preserved source-copy roles. It certifies the previously accepted analytical bodies and native pointers; later publication of this wrapper is determined by exact Git/CI history and the final handoff."
+        }
+      ],
+      "protected_substantive_suffix_sha256": "c4429b93bf8999adc0d96a106a7d60551a8b8b08cf5f56b55d2f8f39e2edf8c5"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR1_READINESS_BASELINE.md",
+      "before_bytes": 28910,
+      "before_sha256": "8561999c94fefa68f497d527c14895b41e29ecbc51a67843c4772b61bb1ee13e",
+      "candidate_bytes": 29361,
+      "candidate_sha256": "915ca92fb6836f10a1e0e4498b0d1702027d8af4dee6a3bd39ba2a03ef358604",
+      "exact_inverse_PASS": true,
+      "operations": [
+        {
+          "kind": "FRONTMATTER_ONLY",
+          "exact_old_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_type: historical_readiness_baseline\nscope: V01-V14\ngeneration: V2_CMR\nversion: \"1.0\"\nstatus: historical_legacy\nsource_boundary: \"Original Japanese Youjo Senki light novels Volumes 01-14\"\ngoverning_method: \"YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md v1.1\"\ncmr0_manifest: \"YOUJO_SENKI_CMR_SOURCE_EXTRACTION_MANIFEST.md\"\ncmr0_locator_index: \"YOUJO_SENKI_CMR_SOURCE_LOCATOR_INDEX.tsv\"\nsecondary_context: \"Mature V2 Documents 02, 03, and 04; secondary analysis informs interpretation but does not override Japanese-source coverage\"\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: true\nartifact_id: YOUJO_SENKI_CMR1_READINESS_BASELINE\ncanonical_home: \"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR1_READINESS_BASELINE.md\"\nport_revision: \"1\"\nport_date: 2026-10-11\nsource_drive_id: \"1LYRzJS4AL6jHAmIAjkaOC-HIWQQdBp51\"\nsource_drive_revision: \"0B24avie5yJngQ3BBWHVLcXRXQXRleW5KWkR2Nis0dzBTdEpzPQ\"\nsource_sha256: \"30ace4c0f4a0b03aa003aea8e7377cb1595450bed326451908a59bf13c5c3417\"\nsource_status_at_freeze: active_provisional\nbaseline_role: FIRST_20_SUBJECT_AUDIT_ONLY\npromotion_status: PROPOSED_GIT_PROVENANCE_PENDING_VERIFIED_MAIN_INTEGRATION\nformer_drive_pointer_update_status: NOT_PERFORMED\n---\n",
+          "exact_new_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_type: historical_readiness_baseline\nscope: V01-V14\ngeneration: V2_CMR\nversion: \"1.0\"\nstatus: historical_legacy\nsource_boundary: \"Original Japanese Youjo Senki light novels Volumes 01-14\"\ngoverning_method: \"YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md v1.1\"\ncmr0_manifest: \"YOUJO_SENKI_CMR_SOURCE_EXTRACTION_MANIFEST.md\"\ncmr0_locator_index: \"YOUJO_SENKI_CMR_SOURCE_LOCATOR_INDEX.tsv\"\nsecondary_context: \"Mature V2 Documents 02, 03, and 04; secondary analysis informs interpretation but does not override Japanese-source coverage\"\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: true\nartifact_id: YOUJO_SENKI_CMR1_READINESS_BASELINE\ncanonical_home: \"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR1_READINESS_BASELINE.md\"\nport_revision: \"1\"\nport_date: 2026-10-11\nsource_drive_id: \"1LYRzJS4AL6jHAmIAjkaOC-HIWQQdBp51\"\nsource_drive_revision: \"0B24avie5yJngQ3BBWHVLcXRXQXRleW5KWkR2Nis0dzBTdEpzPQ\"\nsource_sha256: \"30ace4c0f4a0b03aa003aea8e7377cb1595450bed326451908a59bf13c5c3417\"\nsource_status_at_freeze: active_provisional\nbaseline_role: FIRST_20_SUBJECT_AUDIT_ONLY\npromotion_status: \"VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS\"\nformer_drive_pointer_update_status: \"VERIFIED_NATIVE_CUTOVER\"\nanalytical_body_authority: \"VERIFIED_ACCEPTED_MAIN_WITH_LIMITS\"\nnative_predecessor_pointers: \"VERIFIED_NATIVE_CUTOVER\"\naccepted_analytical_main_sha: \"813cc91553f99e2de7c357794897bb8c59b2f548\"\nauthority_promotion_record: \"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json\"\n---\n"
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "The current reconstruction method is routed through [the Git method](../Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md), with original Drive provenance and the proposed authority transition documented by [the port audit](YOUJO_SENKI_CMR_PORT_AUDIT.md). Current coverage uses the distinct [readiness re-audit](YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md) and [supplement](YOUJO_SENKI_SUPPLEMENTARY_CHARACTER_READINESS.md); the [series entrypoint](../../CURRENT_STATE_AND_CORPUS_MAP.md) controls current routing. The original first-audit body below remains historical.",
+          "exact_new_utf8_text": "The current reconstruction method is routed through [the Git method](../Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md). The [authority promotion receipt](YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) verifies accepted main `813cc91553f99e2de7c357794897bb8c59b2f548` and the native predecessor pointers. Current coverage uses the distinct [readiness re-audit](YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md), [supplement](YOUJO_SENKI_SUPPLEMENTARY_CHARACTER_READINESS.md) and [29-package navigation](../YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md). This initial twenty-subject body remains historical provenance with its current-authority veto; native cutover does not promote its old classes or metrics into current coverage."
+        }
+      ],
+      "protected_substantive_suffix_sha256": "c54277b69af9cf5e94f5b1e844225150dd0e10ced98fccd450111fd6798d8226"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md",
+      "before_bytes": 16964,
+      "before_sha256": "23ad74b5d6fabaf8e985d4498f3fef7e75f06474b03b87978da2d485b9d65b1d",
+      "candidate_bytes": 17894,
+      "candidate_sha256": "d4dfc76aea49b01739120cfbd414fc8c3a3362aa28838d2841c90bfe4b3afb80",
+      "exact_inverse_PASS": true,
+      "operations": [
+        {
+          "kind": "FRONTMATTER_ONLY",
+          "exact_old_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_id: YOUJO_SENKI_CMR_PORT_AUDIT\nartifact_type: analytical_port_and_authority_audit\nscope: \"CMR intake freeze; Japanese LN V01-V14\"\ngeneration: V2_CMR\nversion: \"1.0\"\nstatus: active_provisional\ncanonical_home: \"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md\"\nsnapshot_date: 2026-10-11\nrepository_base_commit: \"238fed779661f6a5a49d6a70034a6183d17ca175\"\npromotion_status: PROPOSED_PENDING_VERIFIED_MAIN_INTEGRATION\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\n---\n",
+          "exact_new_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_id: YOUJO_SENKI_CMR_PORT_AUDIT\nartifact_type: analytical_port_and_authority_audit\nscope: \"CMR intake freeze; Japanese LN V01-V14\"\ngeneration: V2_CMR\nversion: \"1.0\"\nstatus: active_provisional\ncanonical_home: \"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md\"\nsnapshot_date: 2026-10-11\nrepository_base_commit: \"238fed779661f6a5a49d6a70034a6183d17ca175\"\npromotion_status: \"VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS\"\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\nanalytical_body_authority: \"VERIFIED_ACCEPTED_MAIN_WITH_LIMITS\"\nnative_predecessor_pointers: \"VERIFIED_NATIVE_CUTOVER\"\naccepted_analytical_main_sha: \"813cc91553f99e2de7c357794897bb8c59b2f548\"\nauthority_promotion_record: \"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json\"\n---\n"
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "# Youjo Senki CMR Drive inventory and controlled analytical port audit",
+          "exact_new_utf8_text": "# Youjo Senki CMR Drive inventory and controlled analytical port audit\n\n> **Intake snapshot with verified later authority.** The body below records the 2026-10-11 intake; its branch-proposal, pending-work and unperformed-pointer statements describe that historical boundary. The [current authority promotion receipt](YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) verifies the previously accepted analytical tree at main `813cc91553f99e2de7c357794897bb8c59b2f548` and completed native predecessor-pointer cutover. The frozen 25-item intake and 12-row source append dispositions retain their original identities and bytes. This wrapper does not claim that its own later publication is already integrated."
+        }
+      ],
+      "protected_substantive_suffix_sha256": null
+    },
+    {
+      "path": "series/youjo-senki/CMR/README.md",
+      "before_bytes": 8372,
+      "before_sha256": "35adb2cf2e38c46b3ff33d8d35c22d87a9e7a960df0e458e0bc374a5c9d61fe6",
+      "candidate_bytes": 9568,
+      "candidate_sha256": "0dc9ac85890acc0250f6e258bb7eea98ecfcd247c245884b4c424daf40c7ec76",
+      "exact_inverse_PASS": true,
+      "operations": [
+        {
+          "kind": "FRONTMATTER_ONLY",
+          "exact_old_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_type: reconstruction_corpus_index\nscope: Japanese LN V01-V14 source closure and bounded operational reconstruction\nstatus: active_provisional\ncanonical_home: Git\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\nupdated: '2026-10-13'\n---\n",
+          "exact_new_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_type: reconstruction_corpus_index\nscope: Japanese LN V01-V14 source closure and bounded operational reconstruction\nstatus: active_provisional\ncanonical_home: Git\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\nupdated: '2026-10-13'\nanalytical_body_authority: \"VERIFIED_ACCEPTED_MAIN_WITH_LIMITS\"\nnative_predecessor_pointers: \"VERIFIED_NATIVE_CUTOVER\"\naccepted_analytical_main_sha: \"813cc91553f99e2de7c357794897bb8c59b2f548\"\nauthority_promotion_record: \"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json\"\npromotion_status: \"VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS\"\n---\n"
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "| Method | Complete v1.1 body preserved with explicit Git routing; promotion and predecessor pointers await verified main integration | [Method](Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md) |",
+          "exact_new_utf8_text": "| Method | Complete v1.1 analytical body accepted in verified main; native predecessor pointers verified; source and inference limits retained | [Method](Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md), [authority promotion](Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) |"
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "| Publication / promotion | Branch proposal; exact-head publication and owner-governed integration remain separately certified | [Port audit](Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md) |",
+          "exact_new_utf8_text": "| Publication / promotion | Previously accepted analytical tree and native-pointer event verified; later wrapper/receipt publication follows exact Git/CI history and final handoff | [Authority promotion receipt](Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) |\n| Current delivery / accepted snapshot | Final-current manifest binds current wrappers, authority records and unchanged analytical packages; the original accepted manifest remains byte-identical historical verification | [Final current delivery](Provenance/YOUJO_SENKI_CMR_FINAL_DELIVERY_MANIFEST.json), [accepted analytical snapshot](Provenance/YOUJO_SENKI_CMR_DELIVERY_MANIFEST.json) |"
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "The method's Git wrapper keeps its substantive predecessor body intact and labels the old Drive folder map as provenance. Canonical method promotion remains pending a verified main result and explicit predecessor-pointer update. This branch checkpoint may be read as provisional analytical work, but it is not evidence that integration has occurred. Frozen model/original-QA promotion fields are historical construction/evaluation snapshots; separately verified release/promotion receipts control actual Git/main publication and native-Drive authority cutover.",
+          "exact_new_utf8_text": "The method's Git wrapper preserves its substantive predecessor body and identifies the old Drive folder map as provenance. The [authority promotion receipt](Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) verifies the accepted analytical tree at main `813cc91553f99e2de7c357794897bb8c59b2f548` and the six completed native predecessor metadata/banner readbacks. Source-derived bulk remains Drive-primary; former analytical copies are explicitly routed source/provenance homes. Frozen model/original-QA promotion fields remain construction/evaluation snapshots. Neither these completed authority events nor publication of this wrapper changes source classes, confidence, ceilings or original predictions. Exact Git/CI history and final handoff determine later wrapper publication/integration; this record supplies no future own-commit SHA."
+        }
+      ],
+      "protected_substantive_suffix_sha256": null
+    },
+    {
+      "path": "series/youjo-senki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "before_bytes": 25416,
+      "before_sha256": "79785e4623ea8ec4343ccdebb2264d5bd14b766e04740d8f5c81c0d7d337e59c",
+      "candidate_bytes": 26591,
+      "candidate_sha256": "69da672fdb3ae27691a9550f170ccd5d9027cfeaae03d08c716efedf9f9fc60f",
+      "exact_inverse_PASS": true,
+      "operations": [
+        {
+          "kind": "FRONTMATTER_ONLY",
+          "exact_old_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_type: corpus_map\nscope: V01-V14 mature V2 synthesis + active Character Modeling and Reconstruction layer\ngeneration: V2_CMR\nversion: '2.9'\nstatus: active_provisional\nsource_boundary: Original Japanese light novels Volumes 01-14\ncurrent_entrypoint: CURRENT_STATE_AND_CORPUS_MAP.md\nanalysis_root: 17UvtZCM9QBQdFtqKjDsebZfQXsuB2idH\nv2_analysis_root: 1q1xEv83Ld8KGENT_cZTN3OhAzjoFqzzs\nprimary_source_root: 1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g\ncmr_root: 1z-U_tluPeOwMuRIVzEbQOOxrI1cYlMK4\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\nupdated: '2026-10-13'\n---\n",
+          "exact_new_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_type: corpus_map\nscope: V01-V14 mature V2 synthesis + active Character Modeling and Reconstruction layer\ngeneration: V2_CMR\nversion: '2.9'\nstatus: active_provisional\nsource_boundary: Original Japanese light novels Volumes 01-14\ncurrent_entrypoint: CURRENT_STATE_AND_CORPUS_MAP.md\nanalysis_root: 17UvtZCM9QBQdFtqKjDsebZfQXsuB2idH\nv2_analysis_root: 1q1xEv83Ld8KGENT_cZTN3OhAzjoFqzzs\nprimary_source_root: 1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g\ncmr_root: 1z-U_tluPeOwMuRIVzEbQOOxrI1cYlMK4\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\nupdated: '2026-10-13'\nanalytical_body_authority: \"VERIFIED_ACCEPTED_MAIN_WITH_LIMITS\"\nnative_predecessor_pointers: \"VERIFIED_NATIVE_CUTOVER\"\naccepted_analytical_main_sha: \"813cc91553f99e2de7c357794897bb8c59b2f548\"\nauthority_promotion_record: \"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json\"\npromotion_status: \"VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS\"\n---\n"
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "The post-synthesis CMR layer remains `active_provisional` derived infrastructure and does **not** supersede, rename, renumber, or silently mutate V2.",
+          "exact_new_utf8_text": "The previously accepted post-synthesis CMR analytical tree and native predecessor-pointer cutover are verified in [the authority promotion receipt](CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md). CMR does **not** supersede, rename, renumber, or silently mutate V2."
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "The CMR layer remains `active_provisional`; it preserves the mature V2 corpus. Method promotion and former-Drive authority pointers await verified main integration.",
+          "exact_new_utf8_text": "The accepted CMR analytical tree at main `813cc91553f99e2de7c357794897bb8c59b2f548` and native predecessor pointers are verified by [the authority promotion receipt](CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md). The mature V2 corpus, source classes and domain ceilings remain unchanged. Later publication of this wrapper is determined by exact Git/CI history and final handoff."
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "Governing home for:\n\n- `YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md` — Drive `16tMcTb0rZZ7U3gjidf6bzJ-TravNQcCh`.",
+          "exact_new_utf8_text": "Retained source-method copy with verified native pointer to the [accepted Git method](CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md):\n\n- `YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md` — Drive `16tMcTb0rZZ7U3gjidf6bzJ-TravNQcCh`; original substantive body preserved, analytical authority routed to Git."
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "separately verified release/promotion receipts govern actual publication/main/native-Drive authority, which remains pending.",
+          "exact_new_utf8_text": "the [authority promotion receipt](CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) verifies the previously accepted analytical tree and native pointers. Later wrapper publication/integration follows exact Git/CI history and final handoff."
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "exact-head publication, owner-governed main integration and former-Drive authority pointer cutover remain pending.",
+          "exact_new_utf8_text": "the previously accepted analytical tree and completed native authority pointers are bound by the [promotion receipt](CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md); later wrapper/receipt publication follows exact Git/CI history and final handoff."
+        }
+      ],
+      "protected_substantive_suffix_sha256": null
+    },
+    {
+      "path": "series/youjo-senki/CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md",
+      "before_bytes": 17840,
+      "before_sha256": "52d9b58248b9d476d34560c1ffcf9cf35dc96d86baa52b83610419c74d74ce23",
+      "candidate_bytes": 18775,
+      "candidate_sha256": "960aff949e47543a137983b30668c07866b77170eff701fa0ccfa27f0e477637",
+      "exact_inverse_PASS": true,
+      "operations": [
+        {
+          "kind": "FRONTMATTER_ONLY",
+          "exact_old_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_type: reconstruction_model_index\nstatus: active_provisional\nsource_boundary: Original Japanese LN V01-V14\ncanonical_home: series/youjo-senki/CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\npromotion_status: PROPOSED_PENDING_VERIFIED_MAIN_INTEGRATION\n---\n",
+          "exact_new_utf8_text": "---\nseries: YOUJO_SENKI\nartifact_type: reconstruction_model_index\nstatus: active_provisional\nsource_boundary: Original Japanese LN V01-V14\ncanonical_home: series/youjo-senki/CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\npromotion_status: \"VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS\"\nanalytical_body_authority: \"VERIFIED_ACCEPTED_MAIN_WITH_LIMITS\"\nnative_predecessor_pointers: \"VERIFIED_NATIVE_CUTOVER\"\naccepted_analytical_main_sha: \"813cc91553f99e2de7c357794897bb8c59b2f548\"\nauthority_promotion_record: \"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json\"\n---\n"
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "Model and original-QA `promotion_status` fields retain their construction/evaluation snapshots. Actual publication, verified main integration and native-Drive authority cutover are controlled by separately verified release/promotion receipts; all remain pending here. No header is mass-rewritten to manufacture a later authority state, and source classes, confidence and ceilings remain unchanged.",
+          "exact_new_utf8_text": "Model and original-QA `promotion_status` fields retain their construction/evaluation snapshots. The [authority promotion receipt](Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) verifies the previously accepted analytical tree at main `813cc91553f99e2de7c357794897bb8c59b2f548` and completed native predecessor pointers. No model/header mass rewrite, source-confidence upgrade or prediction rescore follows. This receipt certifies those completed events; its later wrapper publication is governed by exact Git/CI history and the final handoff, without an invented own-commit SHA."
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "The delivery manifest records final release hashes.",
+          "exact_new_utf8_text": "The [final current delivery manifest](Provenance/YOUJO_SENKI_CMR_FINAL_DELIVERY_MANIFEST.json) records current wrappers, authority records and unchanged analytical packages. The [original accepted manifest](Provenance/YOUJO_SENKI_CMR_DELIVERY_MANIFEST.json) remains byte-identical historical verification for the accepted analytical tree; the [authority wrapper patch trace](Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION_WRAPPER_PATCH_TRACE.json) binds the bounded later metadata/routing changes."
+        }
+      ],
+      "protected_substantive_suffix_sha256": null
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_COMPLETED_MODEL_NAVIGATION.jsonl",
+      "before_bytes": 62486,
+      "before_sha256": "6aa22a7123a7cbd3d8c204121b95c2476fb2aede3baaca4a7f471d881cc8f48a",
+      "candidate_bytes": 63227,
+      "candidate_sha256": "dc06a948cadd49ec3777c969e340ad4d45d4624d19491eca07d050a53340b027",
+      "exact_inverse_PASS": true,
+      "operations": [
+        {
+          "kind": "FIRST_ROW_SUFFIX_FIELD_ADDITION",
+          "added_field": "artifact_authority",
+          "exact_added_utf8_text": ",\"artifact_authority\":{\"analytical_body_authority\":\"VERIFIED_ACCEPTED_MAIN_WITH_LIMITS\",\"native_predecessor_pointers\":\"VERIFIED_NATIVE_CUTOVER\",\"accepted_analytical_main_sha\":\"813cc91553f99e2de7c357794897bb8c59b2f548\",\"authority_promotion_record\":\"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json\",\"accepted_main_proof_sha256\":\"b7041f53c2aa4e92f433495790cea3f8e4fe4b14406e14624f8834ca69b02495\",\"native_cutover_proof_sha256\":\"fd666293e25884a22821fbb5c3bf6068443e8a31aae70e43c18a31bac5d7ab26\",\"scope\":\"Previously accepted analytical tree and completed native pointer event only; model/QA construction snapshots and domain ceilings unchanged. Later wrapper publication follows exact Git/CI history and final handoff.\"}",
+          "old_first_line_sha256": "d001048740f8d9ae273c8b7d1f2dcf6ed47c506ecacc85d327ae059fa34a6aa6",
+          "new_first_line_sha256": "9ff990e0a4035235e477c76e5a0f98c3e8b2af246f5af599bab4556dc0ad23db",
+          "all_other28_lines_exact": true
+        }
+      ],
+      "protected_substantive_suffix_sha256": null
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_COMPLETION_REVIEW.md",
+      "before_bytes": 5900,
+      "before_sha256": "b7bc574454b23b0dc799f35c826d22a1bb6ff68172b81f3f41ec9dc7031d628f",
+      "candidate_bytes": 7023,
+      "candidate_sha256": "823349185849c5a6f30b65aaa5e58849be691c473032f09268099eab792258db",
+      "exact_inverse_PASS": true,
+      "operations": [
+        {
+          "kind": "FRONTMATTER_ONLY",
+          "exact_old_utf8_text": "---\nartifact_type: completion_changeset_review\nseries_id: YOUJO_SENKI\nstatus: active_provisional\ncanonical_home: Git\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\npromotion_status: PROPOSED_PENDING_VERIFIED_MAIN_INTEGRATION\nupdated: '2026-10-13'\n---\n",
+          "exact_new_utf8_text": "---\nartifact_type: completion_changeset_review\nseries_id: YOUJO_SENKI\nstatus: active_provisional\ncanonical_home: Git\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\npromotion_status: \"VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS\"\nupdated: '2026-10-13'\nanalytical_body_authority: \"VERIFIED_ACCEPTED_MAIN_WITH_LIMITS\"\nnative_predecessor_pointers: \"VERIFIED_NATIVE_CUTOVER\"\naccepted_analytical_main_sha: \"813cc91553f99e2de7c357794897bb8c59b2f548\"\nauthority_promotion_record: \"series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json\"\n---\n"
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "Publication, exact final branch audit, owner-governed integration and former-Drive authority cutover remain separate gates.",
+          "exact_new_utf8_text": "The [authority promotion receipt](YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) now verifies the previously accepted analytical tree at main `813cc91553f99e2de7c357794897bb8c59b2f548` and the six completed native predecessor pointers. It certifies those completed events; later publication of the wrapper/receipt is determined by exact Git/CI history and final handoff, with no future own-commit SHA."
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "Every delivered path is separately classified in the [exact-path delivery manifest](YOUJO_SENKI_CMR_DELIVERY_MANIFEST.json).",
+          "exact_new_utf8_text": "The [final current delivery manifest](YOUJO_SENKI_CMR_FINAL_DELIVERY_MANIFEST.json) binds current wrappers, authority records and unchanged analytical packages. The original [accepted analytical manifest](YOUJO_SENKI_CMR_DELIVERY_MANIFEST.json) remains byte-identical historical verification for the previously accepted tree. Bounded authority-wrapper metadata/routing changes are separately bound by the [precise patch trace](YOUJO_SENKI_CMR_AUTHORITY_PROMOTION_WRAPPER_PATCH_TRACE.json)."
+        },
+        {
+          "kind": "PRECISE_WRAPPER_OR_STATUS_TEXT",
+          "exact_old_utf8_text": "Publication and authority promotion must be certified by the later exact-SHA receipts.",
+          "exact_new_utf8_text": "The authority promotion receipt verifies the accepted analytical tree and native cutover without changing these limits. Exact Git/CI history and final handoff determine later wrapper publication/integration; this artifact does not self-certify a future followup commit."
+        }
+      ],
+      "protected_substantive_suffix_sha256": null
+    }
+  ],
+  "new_authority_artifacts": [
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json",
+      "bytes": 12897,
+      "sha256": "4f8431a132ea8d24b44b239cbbec55ec459ff5f0e3826b3abcd990f0cac260de"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md",
+      "bytes": 3946,
+      "sha256": "d40370ec135a4139db89ba44157e1f85c5fdfc18acfbb14399bd5bb8093e38cb"
+    }
+  ],
+  "original_intake25_sourceappend12_delivery_models_indices_QA_V2_global_preserved": true,
+  "new_source_or_reserved_access": false,
+  "self_sha256": "Excluded from this trace; exact self bytes bound by candidate package, staging/readback and Git blob/tree."
+}
