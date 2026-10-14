@@ -1400,6 +1400,36 @@ PROJECT_INITIALIZATION_ALIASES = {
 }
 
 
+def _initialization_yaml_blocks(
+    text: str, path: str
+) -> list[tuple[int, Any, str | None]]:
+    """Return recognized fenced initialization blocks as (index, value, error).
+
+    A fenced YAML block is an initialization surface only when its top level
+    declares ``project_initialization``. The lock reader and the terminal
+    closure reader share this recognition so that one entrypoint cannot be
+    read differently by two parts of the same gate.
+    """
+
+    blocks: list[tuple[int, Any, str | None]] = []
+    for index, match in enumerate(
+        re.finditer(r"(?ms)^```ya?ml[ \t]*\n(.*?)^```[ \t]*$", text), start=1
+    ):
+        body = match.group(1)
+        if not re.search(r"(?m)^project_initialization\s*:", body):
+            continue
+        try:
+            loaded = _restricted_yaml_load(
+                body if body.endswith("\n") else body + "\n",
+                f"{path}:project_initialization_block[{index}]",
+            )
+        except DomainError as exc:
+            blocks.append((index, None, str(exc)))
+            continue
+        blocks.append((index, loaded, None))
+    return blocks
+
+
 def _project_initialization_state(
     data: bytes, path: str
 ) -> tuple[dict[str, Any], list[str]]:
@@ -1427,19 +1457,9 @@ def _project_initialization_state(
         text = data.decode("utf-8", "strict")
     except UnicodeDecodeError as exc:
         return {}, [f"{path}: invalid UTF-8 initialization state: {exc}"]
-    for index, match in enumerate(
-        re.finditer(r"(?ms)^```ya?ml[ \t]*\n(.*?)^```[ \t]*$", text), start=1
-    ):
-        body = match.group(1)
-        if not re.search(r"(?m)^project_initialization\s*:", body):
-            continue
-        try:
-            loaded = _restricted_yaml_load(
-                body if body.endswith("\n") else body + "\n",
-                f"{path}:project_initialization_block[{index}]",
-            )
-        except DomainError as exc:
-            errors.append(str(exc))
+    for index, loaded, block_error in _initialization_yaml_blocks(text, path):
+        if block_error is not None:
+            errors.append(block_error)
             continue
         nested = (
             loaded.get("project_initialization")
@@ -1659,6 +1679,16 @@ def _validate_initialization_contract(
     return errors
 
 
+# `complete` is the established closure token; `completed` is the run-state
+# vocabulary of the sequential execution scope and continuation policy.
+TERMINAL_RUN_STATES = frozenset({"complete", "completed"})
+TERMINAL_STATE_SECTIONS = (
+    "project_initialization",
+    "sequential_execution",
+    "supplemental_execution",
+)
+
+
 def _validate_terminal_corpus(
     snapshot: GitSnapshot,
     entrypoint_path: str,
@@ -1708,35 +1738,63 @@ def _validate_terminal_corpus(
         return errors  # The initialization contract reports the missing entrypoint.
     try:
         front = _yaml_front_matter(entry.data, entrypoint_path) or {}
+        text = entry.data.decode("utf-8", "strict")
     except DomainError as exc:
         return errors + [str(exc)]
-    initialization = front.get("project_initialization", {})
-    execution = front.get("sequential_execution", {})
-    for mapping, field in (
-        (initialization, "next_permitted_operation"),
-        (execution, "next_candidate_operation"),
+    except UnicodeDecodeError as exc:
+        return errors + [f"{entrypoint_path}: invalid UTF-8 terminal state: {exc}"]
+    # Terminal state is read from the same surfaces as the lock: front matter
+    # and recognized fenced initialization blocks. Every statement of a field
+    # must agree; a non-mapping section or a contradiction fails closed.
+    surfaces: list[Mapping[str, Any]] = [front]
+    surfaces.extend(
+        loaded
+        for _index, loaded, block_error in _initialization_yaml_blocks(text, entrypoint_path)
+        if block_error is None and isinstance(loaded, Mapping)
+    )
+    sections = {
+        name: [surface[name] for surface in surfaces if name in surface]
+        for name in TERMINAL_STATE_SECTIONS
+    }
+    problems: list[str] = []
+
+    def declared(section: str, field: str) -> Any:
+        values = sections[section]
+        if any(not isinstance(value, Mapping) for value in values):
+            problems.append(f"terminal {section} must be a mapping wherever declared")
+            return None
+        stated = [value[field] for value in values if field in value]
+        if any(value != stated[0] for value in stated[1:]):
+            problems.append(f"contradictory terminal declarations for {section}.{field}")
+            return None
+        return stated[0] if stated else None
+
+    for section, field in (
+        ("project_initialization", "next_permitted_operation"),
+        ("sequential_execution", "next_candidate_operation"),
     ):
-        value = mapping.get(field) if isinstance(mapping, Mapping) else None
+        value = declared(section, field)
         if not isinstance(value, str) or re.fullmatch(r"NONE(?:_[A-Z0-9]+)*", value) is None:
             errors.append(f"{entrypoint_path}: terminal closure requires {field} NONE")
-    if not isinstance(execution, Mapping) or execution.get("run_state") != "complete":
+    run_state = declared("sequential_execution", "run_state")
+    if not isinstance(run_state, str) or run_state not in TERMINAL_RUN_STATES:
         errors.append(f"{entrypoint_path}: terminal closure requires run_state complete")
-    if closure["supplemental_execution_required"] or "supplemental_execution" in front:
-        supplemental = front.get("supplemental_execution")
-        current = (
-            supplemental.get("current_state")
-            if isinstance(supplemental, Mapping) else None
-        )
+    if closure["supplemental_execution_required"] or sections["supplemental_execution"]:
+        current = declared("supplemental_execution", "current_state")
+        admission = declared("supplemental_execution", "other_narrative_admission")
         if (
-            not isinstance(current, str)
+            not sections["supplemental_execution"]
+            or not isinstance(current, str)
             or re.fullmatch(r"CLOSED(?:_[A-Z0-9]+)*", current) is None
-            or supplemental.get("other_narrative_admission") != "NOT_AUTHORIZED"
+            or admission != "NOT_AUTHORIZED"
         ):
             errors.append(
                 f"{entrypoint_path}: terminal supplemental execution must be CLOSED "
                 "with no other admission"
             )
-    if re.search(r"SEQUENTIAL_ANALYSIS_LOCK\s*=\s*OPEN\b", entry.data.decode("utf-8"), re.I):
+    for problem in dict.fromkeys(problems):
+        errors.append(f"{entrypoint_path}: {problem}")
+    if re.search(r"SEQUENTIAL_ANALYSIS_LOCK\s*=\s*OPEN\b", text, re.I):
         errors.append(f"{entrypoint_path}: terminal closure contradicts prose lock OPEN")
     return errors
 

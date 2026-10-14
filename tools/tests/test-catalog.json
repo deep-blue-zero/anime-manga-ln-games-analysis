@@ -2231,6 +2231,56 @@
       ],
       "purpose": "Accept an offline staged closure against the recorded historical commit independently of a different HEAD."
     },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_reads_recognized_initialization_block_like_the_lock": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Read terminal state from the fenced initialization block the lock reader recognizes, accept the continuation-policy completed token, and keep every terminal requirement."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_fails_closed_on_contradictory_or_malformed_surfaces": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Reject terminal state that front matter and an initialization block state differently or that is not a mapping, while permitting agreeing restatement."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_completed_run_requires_reviewed_global_closure_to_close_its_lock": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Medalist regression: completion metadata alone cannot close a post-baseline lock, a reviewed global closure can, and a closed run cannot remain OPEN."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_permits_evidence_backed_revision_without_admission": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Permit ledger, erratum, and synthesis revision under a closure while rejecting in-place reading edits, sequentially typed corrections, and untyped corrections in a reading directory."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_series_local_exception_declarations_cannot_create_terminal_authority": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Ignore project-local or unrecognized exception and closure declarations and reject exception fields inside a reviewed closure record."
+    },
     "test_project_initiation_gate.ProjectInitiationGateTests.test_current_repository_examples_remain_compatible": {
       "group": "live_corpus",
       "smoke": false,

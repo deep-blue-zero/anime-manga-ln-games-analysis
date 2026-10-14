@@ -2,12 +2,12 @@
 title: Manga / Anime Project Initiation and Architecture Policy
 artifact_id: MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY
 artifact_type: project_initiation_architecture_policy
-version: 1.4
+version: 1.5
 status: canonical
 generation: V1
 scope: corpus-wide analytical project initiation and architecture governance
 created: 2026-08-27
-last_updated: 2026-09-13
+last_updated: 2026-10-14
 maintainer: ChatGPT + user
 source_boundary: "Corpus-wide governance for new and existing anime, manga, light-novel, novel, game, and related analytical projects"
 supersedes: null
@@ -222,6 +222,18 @@ Before that point:
 This is an operational gate, not a claim about source completeness. Preliminary source auditing and architecture work can proceed while the lock is closed.
 
 At a completed authorized terminal boundary, close the current lock and record completion and no next permitted/candidate source operation. Historical OPEN authorization remains in its original receipts; it does not authorize another source at handoff. A reviewed `terminal_closures` record in `governance/repository-controls/project-initiation-gate.json` may preserve the exact paths and SHA-256 bytes of accepted sequential readings behind the CLOSED lock without moving the activation baseline. The recorded `completion_commit` must resolve to a commit in the local Git validation context; every frozen seal must match a regular evidence blob in that historical tree. Missing history fails closed without fetching or substituting staged/current bytes. Each closure explicitly declares the boolean `supplemental_execution_required`; when true, the current entrypoint must retain a structured supplemental lane that is CLOSED with `other_narrative_admission: NOT_AUTHORIZED`. A present supplemental lane is checked even when not required. The validator still requires the current method, architecture and initialized infrastructure, and rejects missing, altered or additional readings, an OPEN current lock, or resumed execution. A new source scope requires separate owner authorization and a reviewed closure-control amendment; source completion or unresolved analytical questions do not reopen the gate.
+
+### Source admission, historical retention, and analytical revision
+
+The lock and a terminal closure govern two of three distinct responsibilities:
+
+- **Source admission** — whether another primary narrative unit may be admitted and analyzed. It requires owner authorization under the [sequential execution scope and continuation policy](MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and, for a governed project, an OPEN lock. An OPEN lock is a precondition, never itself an authorization to admit a source.
+- **Historical retention** — whether previously accepted readings remain preserved, identifiable, and valid within their historical authorization boundary. Frozen readings are not analytically rewritten; at a completed boundary a reviewed `terminal_closures` record byte-seals them behind the CLOSED lock.
+- **Analytical revision** — whether interpretations, ledgers, models, and syntheses derived from already admitted evidence may be corrected or superseded. Neither the lock nor a closure governs it. It follows the architecture's claim-revision behavior (Section 5.8), the archive authority policy, and the repository [correction procedure](../policies/CHANGE_INTEGRATION_CHECKLIST.md#analytical-corrections-and-procedural-conflicts).
+
+A project can therefore be CLOSED to new admission, retain verified readings, and still correct its interpretations within the admitted corpus. Under a closure, a correction of a sealed reading is an erratum, claim revision, or superseding synthesis with a non-sequential `artifact_type`. It does not edit sealed bytes, carry a sequential type, or sit untyped in a sequential-reading directory; the validator treats each of those as alteration or admission. A complete replacement reading of an admitted unit cannot be machine-distinguished from a new unit, so it requires owner authorization and a reviewed closure-control amendment, like admission. The seal covers only artifacts the gate classifies as sequential readings; other frozen artifacts, such as differently typed paratext audits, remain protected by their project freeze rules and Git history.
+
+A closure is one coordinated transaction: the entrypoint's CLOSED terminal state and the global closure record land together under owner authorization covering both paths. A series- or study-scoped task cannot perform it. Until it lands, such a task keeps truthful completion state (completed run, no next operation, no admission authorized) and records the blocker; its retained OPEN value confers no admission authority and does not satisfy the terminal requirement. The validator reads terminal state from YAML front matter or the recognized fenced `project_initialization` block, the same surfaces it reads for the lock, and every statement of a field must agree: `project_initialization.next_permitted_operation` and `sequential_execution.next_candidate_operation` are `NONE` or an uppercase `NONE_` token; `sequential_execution.run_state` is `complete` or the continuation policy's `completed`; and a supplemental lane states `current_state` as `CLOSED` or an uppercase `CLOSED_` token, with `other_narrative_admission: NOT_AUTHORIZED`.
 
 ---
 
@@ -855,6 +867,13 @@ This policy exists so that the corpus never again reaches the end of a long sequ
 ---
 
 # Changelog
+
+## v1.5 — 2026-10-14 — Admission, retention, and revision at terminal closure
+
+- Separated source admission, historical retention, and analytical revision in Section 3.8, and stated how corrections proceed under a terminal closure without admitting a source or editing sealed readings.
+- Recorded the reviewed `terminal_closures` control, added on 2026-10-04, as one coordinated entrypoint and global-control transaction, with the disclosed interim state for a scope-limited task.
+- Stated the surfaces and tokens the validator reads for terminal state, including the continuation policy's `completed` run state.
+- Preserved the initiation lock, foundation requirements, closure seals, and owner-authorization boundaries.
 
 ## v1.4 — 2026-09-13 — Hybrid execution ownership
 

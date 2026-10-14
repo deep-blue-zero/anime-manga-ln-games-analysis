@@ -1,7 +1,7 @@
 ---
 document_role: chatgpt_authority_bootstrap
 document_status: ACTIVE_STABILIZING
-document_revision: 2.6-authority-epoch-1
+document_revision: 2.7-authority-epoch-1
 schema_version: 1
 repository_provider: GitHub
 provider_confirmed: true
@@ -133,6 +133,19 @@ The Git repository is not blanket authority over everything in either Drive root
 - convenience ZIPs and frozen release binaries retained in Drive;
 - extraction/packaging tooling unless separately approved;
 - Drive-native semantics explicitly classified `DRIVE_NATIVE_PRIMARY`.
+
+### 4.2 Analytical fidelity and procedural corrigibility
+
+The repository exists to produce source-grounded literary, narrative, character, relationship, thematic, and comparative analysis. Accuracy and fidelity to admitted source evidence are its substantive objectives. Authority records, gates, freezes, validators, and publication controls are instruments that preserve the reliability, reproducibility, provenance, and integrity of that analysis. They must not be used to obstruct legitimate corrections or keep a known analytical error in force.
+
+Procedure and accuracy are not interchangeable. A procedurally compliant artifact or a passing validator does not establish that an interpretation is accurate. A substantiated correction does not by itself authorize bypassing validation, scope, or authority controls.
+
+- **Duty of correction.** When material evidence shows that a current analytical claim is erroneous, materially incomplete, misleading, or no longer supportable, correct or supersede it through a legitimate route. Do not knowingly keep a defective claim as unqualified current authority merely to satisfy a procedure. When correction is blocked, keep the defect and the exact blocker recorded where current state is read until it is resolved. A correction rests on source evidence: locators and provenance, material counterevidence, and stated uncertainty. Ordinary interpretive disagreement, an agent's confidence, or disagreement between Claude, Codex, ChatGPT, or other sessions is not by itself evidence of error; competing supported readings are recorded, not overwritten.
+- **Procedural corrigibility.** Procedures are also subject to evidence-based review. When a control demonstrably obstructs an otherwise authorized, evidence-backed correction, select the narrowest sufficient remedy: an existing permitted correction route; a superseding version or targeted erratum; repair of a validator that does not implement its governing text; amendment of the governing procedure; or, only where these are inadequate, a narrowly scoped, documented exception. A recurrent conflict is a procedure defect to amend, not a reason to repeat exceptions. A scope or validation blocker does not by itself prove a control defective; a control that correctly requires coordinated authorization is working.
+- **Historical integrity.** Current authority and historical evidence are different objects. Frozen readings, prospective predictions, source receipts, closure seals, and decision records are not silently rewritten because later analysis improved. Correct them through attributable errata, claim revisions, or superseding artifacts that keep the original state and an auditable revision chain, unless a separately authorized procedure permits modification (Section 8.4). Corrigibility never authorizes falsifying a historical knowledge boundary.
+- **Authorization boundaries.** A claim of improved accuracy is not owner authorization. This principle never lets an agent self-authorize source acquisition or narrative admission; work outside its authorized source or file scope; publication of restricted, private, or ineligible content; modification of frozen evidence; modification of repository-global controls from a series- or study-scoped task; bypass of protected-branch, identity, provenance, or publication controls; suppression of failing validation; or rewriting of Git history. An agent may diagnose a conflict and propose a remedy within its current scope; the diagnosis is not new write authority.
+
+The operational correction and conflict procedure is in `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` under "Analytical corrections and procedural conflicts". Sequential-lock and terminal-closure semantics, including how corrections proceed after source admission closes, are in Section 3.8 of `governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`.
 
 ## 5. Repository hierarchy
 
