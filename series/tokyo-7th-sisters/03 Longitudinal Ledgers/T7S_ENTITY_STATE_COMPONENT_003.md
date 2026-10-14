@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0186; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0187; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-14
 ---
@@ -1133,4 +1133,48 @@ Eight complete family200610 primary documents, source-lock 12.92, witness `T7S_G
 | `REL-1040` | `player-protagonist → chapter-local photographer` | P137unspecified request is later related to an alternative magazine photo through his account of contact/review/advocacy. No complete editorial authority, consulted preference, consent chain or visible image; generic camera art not stable identity. |
 
 Totals946KNOW/1040REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged.28new epistemic states/8relations and qualified updates preserve all older ledger bodies/history/access. Mother/peers remain offscreen and staff local. No readiness, specialist or mature monograph promotion.
+
+## B0187 Shizuka, learning and situated initiative
+
+Nine complete family200530 primary occurrences, source-lock 12.93, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. `IDENTITY-0018/kuonji-shizuka` / `CHAR-0015` retains unresolved machine binding and existing household/SiSH/Nanasta history. Existing grandfather19/CHAR16, Mana20/CHAR17, Haru4/CHAR4 and Matsuri88/CHAR71 routes remain; no new person/character/unit/readiness identity is inferred from reports or labels.
+
+| Existing subject | Qualified new annotation | Prior state and access retained |
+| --- | --- | --- |
+| `CHAR-0015` / kuonji-shizuka | Credits new experience, offers tea/care/rest, seeks local food/technology help, values being found and arcade spectatorship, and offers a family escort. Uneven practical skill, unfinished personal address and possible reception mismatch remain. | Chosen outward purpose, reciprocal SiSH care, unit desire, family coercion/permission, resource/consent costs and disclosure/consultation issues remain. No universal passivity/mastery, unlimited permission, reciprocal romance or maturity promotion. |
+
+| ID | Epistemic state | Native range and reliability |
+| --- | --- | --- |
+| `KNOW-0947` | Credits fresh enjoyable days and learning beyond school to manager. | 057P1; her experience/attribution, no exhaustive cause or measured learning. |
+| `KNOW-0948` | Calls manager kind/reliable and says grandfather apparently likes him greatly. | 057P2; appraisal/qualified report, no own grandfather turn or universal permission. |
+| `KNOW-0949` | Leaves her parallel personal predicate incomplete, says she seems feverish and closes politely. | 057P3; literal self-description and embarrassed-affection/deflection readings coexist; no confirmed fever/confession. |
+| `KNOW-0950` | Says usual tea prepared and today's blend offered only to manager. | 061P1–2; stated preparation/exclusivity, no observed drinking or all-time exclusive service. |
+| `KNOW-0951` | Claims recovery/alerting/prevention ingredients and strong flavor, asks slow drinking. | 061P3; attributed tea claims/instruction, no verified ingredients/effect or medical approval. |
+| `KNOW-0952` | Frames manager self-care as matter for others and offers dedicated tea every day. | 061P4–5; role rhetoric/prospective care, no body ownership, daily enactment or agreement. |
+| `KNOW-0953` | Reports yearly quiet grandfather retreat and permitted idleness amid lessons/practice/study. | 412P1–3; her schedule/permission account, no external year/date or unlimited liberty. |
+| `KNOW-0954` | Wants shared retreat/day of idleness and playfully imagines taking him by car without holiday. | 412P4–5; invitation/conditional joke, no trip/abduction, leave or assent. |
+| `KNOW-0955` | Reports losing location during Nanasta exploration and normally following a companion. | 468P1–3; situated disorientation/habit account, no universal incapacity or deliberate loss. |
+| `KNOW-0956` | Welcomes encounter, conditionally values being sought and expects future finding. | 468P3–5; personal appraisal/question/expectation, no own search response or guaranteed capability. |
+| `KNOW-0957` | Takes up kebab name, reports smell and uncertainty about eating without furniture/chopsticks. | 674P1–3; shopping address/uptake/local etiquette gap, no rendered stall/food or heard manager explanation. |
+| `KNOW-0958` | Welcomes implied teaching offer, wants purchase and continued unfamiliar-world guidance. | 674P4–5; uptake/desire, no actual purchase/eating or settled reciprocal plan. |
+| `KNOW-0959` | Wrong app/repeated trouble and calls prompt desire to learn rather than summoning manager every error. | 702P1–3; stated uncertainty/burden/self-reliance aim, no completed manager help or proved subsequent mastery. |
+| `KNOW-0960` | Reports Haru-group teaching one function, asks a smile and textually identifies a two-shot. | 702P4–5; attributed instruction/textual photo act; no rendered pixels, peer own turn or separate shutter SFX. |
+| `KNOW-0961` | Asks how to set that photo as wallpaper. | 702P5; unresolved operation/request, no completed installation or manager own answer. |
+| `KNOW-0962` | Reports arcade visual dazzling/ringing/fatigue and quick gameovers in racing/fighting games. | 946P1/3; self-reported sensory effects/results, no heard sound, diagnosis or objective ranking. |
+| `KNOW-0963` | Treats Matsuri's apparent daily arcade enjoyment as puzzling and asks what training explains it. | 946P2; attributed premise/rhetorical inference, no independently verified routine/training. |
+| `KNOW-0964` | Enjoys watching manager's zombie game, appraises him as brave/impressive and asks return. | 946P4–5; spectatorship/appraisal/request, no actual game footage, violence or completed future visit. |
+| `KNOW-0965` | Notices evening after absorbed practice and plans freshening before brother dinner. | 1018P1–2; self-reported absorption/schedule, 汗を流す is washing/freshening here, not more exercise; no dinner enactment. |
+| `KNOW-0966` | Proposes introduction, attributes brother's earlier Mana fandom, predicts conversational fit and offers escort. | 1018P3–5; absent unnamed brother role/report/inference/offer; no fresh brother speech/name, own manager reply or completed introduction. |
+| `KNOW-0967` | Reports classmates' apparent butler inference and her explanation of life entrusted to important manager. | 1146P1–3; hedged/quoted account; no new butler identity or classmates' independently supplied belief. |
+| `KNOW-0968` | Invokes grandfather trust, reports congratulations and reads them as idol/meeting celebration. | 1146P4–5; own interpretation beside possible couple-misunderstanding rival, no verified classmates' motives/engagement. |
+
+| ID | Directional relationship | Qualified state and missing access |
+| --- | --- | --- |
+| `REL-1041` | `kuonji-shizuka → player-protagonist` | Credits guidance, offers exclusive care/sharedrest/familyescort, values attention and spectating, makes personal-photo/life-entrustment address. No manager-authored counterpart update, reciprocal romance, universal capability or assent to every proposal. |
+| `REL-1042` | `kuonji-shizuka → kuonji-grandfather` | Attributes affection/trust and a yearly exception for idleness; earlier affection/coercive authority remain. No new own grandfather turn, permission for every proposed trip or erased household pressure. |
+| `REL-1043` | `kuonji-shizuka → kasukabe-haru` | Attributes instruction of one photo function to Haru and others, preserving ongoing technical gaps. No Haru-authored counterpart turn or universal device mastery. |
+| `REL-1044` | `kuonji-shizuka → mimori-matsuri` | Imagines training behind Matsuri's apparently daily arcade enjoyment while Shizuka's own pleasure comes through spectatorship. No Matsuri own speech, new training fact or proved everyday routine. |
+| `REL-1045` | `kuonji-shizuka → reported unnamed older brother role` | Reports planned meal and earlier Mana fandom, predicts manager compatibility and offers introduction. Existing offstage family reference remains unresolved; no new identity/character route, brother counterpart state or completed meeting. |
+| `REL-1046` | `kuonji-shizuka → reported unnamed classmates` | Attributes inquiry, apparent butler inference/surprise/congratulations and supplies her own interpretation. Collective stays unnamed/unindividuated, without a new unit or own classmate turns/settled motives. |
+
+Totals968KNOW/1046REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. Mana is a reported brother-interest reference, not supplied a new own turn or literal sister status; no new reverse relationship is fabricated. Existing reciprocal links, older histories and READY0008 remain exact; no mature monograph promoted.
 <!-- T7S ENTITY STATE PAYLOAD END -->
