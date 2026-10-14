@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.10"
+version: "1.11"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
 locked_units: [V02, V03, V04, AFTER04, V05, V06]
-literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14"
+literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14"
 ---
 
 # Japanese LN source lock register
@@ -381,3 +381,5 @@ Common limitations: each witness is a supplied reflowable EPUB whose equivalence
 | block-map.jsonl | `a893f8137569672c2f15ed075e01547b65365faa6b16471a4b0ff15c61a9c975` |
 | element-locators.jsonl | `46310602671bafc5a06bd6016e130451bdba0a41502ba53276a46430c231eb7c` |
 | validation.json | `982f8933de50164cd1d9c7ec0eeb0d073543a5f9faf5ef9db7cfda20a611f9c6` |
+
+**Use in the V06 reading.** Twenty-five of the thirty-two image resources were viewed at source resolution, including the full jacket after the narrative; the cover, title page, illustrated contents, store image, glyph and two preview images were not viewed. S29, left to be confirmed on viewing, is a one-line notice that the story continues in VII; its class is unchanged. The [V06 reading](../02%20Sequential%20Readings/SW_V06_DEEP_READING.md) cites 293 distinct locators, all present in the element map, and quotes 41 short fragments, each verified in the base text of a cited block. No member was reclassified.
