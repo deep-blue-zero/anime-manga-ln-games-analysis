@@ -5,7 +5,7 @@ artifact_type: master_longitudinal_ledger
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.17"
+version: "1.18"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exclusive pre-split cumulative state; Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes closed and reconciled into every typed section"
@@ -364,6 +364,8 @@ The common fields apply to all sections. The following field lists define each s
 | sw.baries | バリエス侯爵 | Soirée host; ore for magic tools. Named only. |
 
 **Identity notes extended at ANOTHER-LOWER.** sw.louis became Corps head and the Barrier Mage after the Nadin flood, a Sage with sw.monica, and married sw.rosalie (obs. 013, 156, 165). sw.lynn is the wind upper spirit リィンズベルフィード, contracted with Louis to be near sw.carla and loving an unnamed human (obs. 050, 095). sw.glen was a Minerva student whose runaway destroyed Rutherford's laboratory, then Louis's apprentice (obs. 038–041). sw.bernie appears as バーニー・ジョーンズ guiding sw.monica at Minerva (obs. 046). sw.monica is fifteen at the selection and a Sage with Louis (obs. 064, 156). sw.adolf-farron, the Wind-Hand Mage, is arrested for attempted murder (obs. 155). sw.owen-wright is First Unit vice-captain (obs. 075). sw.felix appears at twelve or thirteen with sw.elliott (obs. 031, 036). sw.adeline retired for sw.ray; sw.sabrina-roseberg died; sw.raul-sister held the seat briefly; sw.raul succeeded at sixteen (obs. 069). sw.graham-sanders and sw.birdland-verde retired together (obs. 143, 156). sw.woodman lobbies for deregulating body-manipulation magic (obs. 029); no identity with sw.hilda-ally is asserted.
+
+**Identity notes reconciled at completion, 2026-10-14.** The [longitudinal reconciliation](SW_LONGITUDINAL_RECONCILIATION.md), section 4, finds that sw.wilma and sw.vilma are one person, the first queen, Lionel's mother and a Randall princess. sw.wilma is the primary key and sw.vilma its alias; neither key is deleted. sw.ice-spirit (Romaria, V07 obs. 068) and sw.winter-ice-spirit (V12) are distinct and are not merged. sw.winter-ice-spirit and sw.bell-girl remain two keys with an implied, not stated, identity. Products use the English forms Bernie, Isabelle and Roseburg for sw.bernie, sw.isabelle and the house of sw.raul; the readings' variants Barney, Isabel and Roseberg are recorded there and not corrected in the frozen readings.
 
 The AFTER04 retrospective interlude also shows a 従者の少年 serving the child Felix at Duke Clockford’s house. It is recorded under sw.felix-page’s scope note only as a further appearance of an unnamed attendant; whether it is the same person is not stated, SW-C-0022.
 
@@ -3609,6 +3611,8 @@ Records at ANOTHER-LOWER:
 ## Write, amend, and split rules
 
 The authorized sequential integrator appends source-bearing state and revision events after full unit inspection. Patch current claim/readiness views only with preserved prior events. Record every affected responsibility's material delta or explained no-update in the unit closeout. Coverage completion never mechanically promotes an inference or readiness level.
+
+The completion audit of claims, identities, chronology and contradictions is the [longitudinal reconciliation](SW_LONGITUDINAL_RECONCILIATION.md). It reads this ledger and does not replace it; any ledger change it requires is made here by targeted edit and listed in its section 9.
 
 Correct an objective error through an explicit correction event retaining old/new evidence routes and affected homes. Later reinterpretation is a source-bounded revision, not a rewrite of the historical freeze. If a record cannot be supported, defer or mark uncertainty rather than padding a table.
 

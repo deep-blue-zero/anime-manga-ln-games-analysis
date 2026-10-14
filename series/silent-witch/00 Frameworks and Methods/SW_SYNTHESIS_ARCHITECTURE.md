@@ -5,7 +5,7 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.23"
+version: "1.24"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
@@ -304,6 +304,8 @@ Where it agrees or disagrees with an account the numbered track gave, the readin
 Performed after the last supplied unit closed, as section 9 requires. The [completion checkpoint and evidence-gap review](../04%20Checkpoints%20and%20Reviews/SW_COMPLETION_CHECKPOINT_AND_EVIDENCE_GAP_REVIEW.md) freezes the synthesis-input snapshot at the closure of -another- (lower) and records the corrected prequel interval. It retains the single master ledger. It classifies three domains WARRANTED: disclosure and withholding, numbers and magic, and masters and transmission. Three domains merge into the character and relationship arguments, and spirits, curses and the old era are deferred. It warrants four character monographs and one four-dyad relationship document.
 
 *Lifecycle.* The product homes `04` to `07` and `09` are added to section 3 as routes for products this architecture already requires; no responsibility, ledger, dependency or completion gate changes. The domain decisions replace the MONITOR states tabled at the V12 boundary. The architecture remains INITIAL until the integrated synthesis closes.
+
+*Reconciliation and arguments, 2026-10-14.* The [longitudinal reconciliation](../03%20Longitudinal%20Ledgers/SW_LONGITUDINAL_RECONCILIATION.md) satisfies the reconciliation gate. Every claim was tested by every later unit, none was rejected, the chronology holds as a partial order after the prequel correction, and twenty-eight apparent contradictions are classified, seven of them open. Its only ledger change is an alias note, with the ledger staying single. The three specialist arguments, four character monographs and the relationship arguments entered their homes after the integrator's checks. *Lifecycle.* No responsibility, ledger, dependency or completion gate changes.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 
