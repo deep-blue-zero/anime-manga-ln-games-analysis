@@ -4,7 +4,7 @@
   "artifact_type": "logical_entity_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.0",
+  "version": "1.1",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -12,13 +12,13 @@
   "do_not_use_as_literary_evidence": true,
   "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
   "current_owner_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-  "source_boundary": "Through complete235 Main documents and262 i-n-g episodes/B0175; this is only a physical representation change.",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 265 complete i-n-g primary documents / T7S_B0080–T7S_B0176; no other non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-    "physical_bytes": 32294,
-    "physical_sha256": "aa8b3fb7cfe5573bd9424baf59f392baacc531e7f81d018bb0598ba989c10616",
+    "physical_bytes": 32708,
+    "physical_sha256": "652dba399757a8f8f535f5294822aa91f6db3478d7a35935b0abc37e3067a7ae",
     "logical_prefix_bytes": 7454,
-    "logical_prefix_sha256": "25bd374ccd369a9128d37f4f8c5e1acbd41ac5899995209b802f365593a033f3",
+    "logical_prefix_sha256": "8f3458cd49e822599d42e3062b3f31b575f46fdf5901453ffba5cf5707a3cecf",
     "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
   },
   "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_ENTITY_STATE_COMPONENT_003",
-      "physical_bytes": 161897,
-      "physical_sha256": "f4eab9e2cfc3d5021cf3160fd77119521f36ae082c3445bd5500c2673b45657d",
-      "payload_offset_bytes": 691,
-      "payload_bytes": 161168,
-      "payload_sha256": "49208bb21bfa3d7b93ef87fefb0ae4938d4e220a560ab001115ab82c9a5007d8",
+      "physical_bytes": 176187,
+      "physical_sha256": "4e20417f52b53b146926454f1d5b7b3a9f0c269e4bc31959dce978e9ee2cc173",
+      "payload_offset_bytes": 711,
+      "payload_bytes": 175438,
+      "payload_sha256": "b4c3b799bf138ed9bf2f584d899f6391d6f0e98e2fc40f859e682a03cf6ae9b7",
       "preserved_original_interval": [
         829500,
         990668
@@ -73,11 +73,11 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 990984,
-  "logical_sha256": "1c5357d11925cec49dd081fe50998907bbe48c6f3ddb9b85576962d091484dbe",
+  "logical_bytes": 1005254,
+  "logical_sha256": "5e7e18da64ed39d23258e270a615f97b67837645d72337ddb23f2e07f927722a",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "last_source_high_water": "T7S_B0175",
+  "last_source_high_water": "T7S_B0176",
   "storage_transition": {
     "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
     "date": "2026-10-13",
@@ -810,7 +810,24 @@
       "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "component_anchor": "b0175-care-shared-independence-and-recipient-room",
       "heading": "B0175 care, shared independence and recipient room"
+    },
+    {
+      "original_anchor": "b0176-reciprocal-caution-and-shared-protection",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0176-reciprocal-caution-and-shared-protection",
+      "heading": "B0176 reciprocal caution and shared protection"
     }
   ],
-  "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent."
+  "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent.",
+  "latest_logical_append": {
+    "source_high_water": "T7S_B0176",
+    "date": "2026-10-13",
+    "logical_before_sha256": "1c5357d11925cec49dd081fe50998907bbe48c6f3ddb9b85576962d091484dbe",
+    "logical_after_sha256": "5e7e18da64ed39d23258e270a615f97b67837645d72337ddb23f2e07f927722a",
+    "addition_bytes": 14270,
+    "addition_sha256": "1d60d2ec67bda51e673524a6cbb5a7ec47611ea05a8eb24ba1f048501e517edf",
+    "unchanged_older_body_sha256": "7c708902e9a1d23fcedd4864900532f842497d59a0887b30bb3175c9d2c8907f",
+    "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+    "sealed_older_components_byte_exact": true
+  }
 }

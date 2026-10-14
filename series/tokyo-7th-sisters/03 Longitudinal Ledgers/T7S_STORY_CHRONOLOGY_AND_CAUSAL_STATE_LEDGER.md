@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.76"
+version: "11.77"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 262 complete i-n-g primary documents / T7S_B0080–T7S_B0175; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 265 complete i-n-g primary documents / T7S_B0080–T7S_B0176; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-13
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 944`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1120`; `last_closed_block = T7S_B0175`. The admitted horizon contains 497 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 262 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 964`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1144`; `last_closed_block = T7S_B0176`. The admitted horizon contains 500 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 265 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3257,3 +3257,61 @@ Entering B0174 head `70acd0777fc2460dc0062cf6a407cf40b0ab47b8`, T7S subtree `cac
 | `EDGE-1127` | `WORRY_RELIEF_TO_ATTRIBUTED_CHILD_ADULT_CODA` | `021`→`022`, C:P88/P95–98; self-account/perceived smile meet Mimi's interpretation/expectation. Local appraisal, not permanent outcome or frozen PRED adjudication. |
 
 Twenty-eight new IDs follow actual edge maximum1099; seven earlier gaps remain untouched. No new WORLD/THREAD, total chronology or historical REV/PRED verdict is created.
+
+## B0176 injury-free recording, reciprocal caution and shared protection
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.81. [B0176](../02%20Readings/T7S_B0176_DEEP_READING.md) owns complete chapter301480/family200330 reconstruction and interpretation: A=`612203301` / `ing3_102033_01.json__3424f97a7bbbdd81`, P0–57; B=`612203302` / `ing3_102033_02.json__f8303d2922b9714d`, P0–92; C=`612203303` / `ing3_102033_03.json__7c51d05a8d45d867`, P0–146. All document_ref=primary, inclusive zero-based page/log order; wording pointer /Pages/N/TextArea/Dialogue. Source-order1157–1159 supplies a local envelope, not a total calendar.
+
+Entering B0175 plus lossless storage head `9924be336d7cf80222edd1dd38b208ef9777df85`, source-lock12.80 SHA `33fa73173c5fdaa84698e1d645f47b27acd0924285c6da34959060e6858b8114`; prospective `f4426e0956ad3b0c30d424cfcab9f6b5f248c8af18c4b29db633e6c5cced8945`; receipt `5d02b129bce42a0262df4168f1225c434d32f935b9c1b7f0d957bebfe34f072e`. Complete manifest-bound entity state was frozen before extraction/review. All older bodies, identifiers, source frames and administrative receipts retain their bytes.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0176-001` | Ei checks Shao's rehearsal enthusiasm; Saori clarifies wanting an uninjured body in the coming pool/swimsuit PV after Player's non-dirty reassurance. Peers recognize the ordinary wish; Saori says lessons will switch her focus. | A:P2–30; `KNOW-0718`. Shao's breakfall confidence/uninjured-video recollection and Ei's comparison are attributed, not demonstrated skills, exhaustive footage or diagnosis. |
+| `EV-B0176-002` | Shao/Ei choose guarding through attention and company; Ei anticipates Saori's concern for them and Player agrees to keep the plan secret through filming. | A:P35–47; `KNOW-0719`. Local plan and secrecy; Ei's bad-luck constitution description is appraisal, no verified transfer law or risk elimination. |
+| `EV-B0176-003` | Saori reports showering, accepts dinner/walk invitation and later shares the recollected omelette enjoyment. | A:P48–57/B:P1–4; `KNOW-0720`. Assent/company/result reports, not viewed shower/cooking or every protective act completed. |
+| `EV-B0176-004` | Ei curbs Shao's rush; Shao asks matching pace under fatigue pretext, offers hands, and Saori invites Ei. Sharing-pain wording slips out and Ei redirects Saori's question. | B:P5–15; `KNOW-0721`. Voluntary contact plus concealed reason; no literal shared wound or actually viewed handholding motion. |
+| `EV-B0176-005` | Saori thanks companions; Shao's prevention comment prompts Ei's reminder. Ei presents daily company as rehearsal coordination, and Saori explicitly agrees. | B:P20–30; `KNOW-0722`. Local social/rehearsal assent, not all intervention terms disclosed or universal guarding consent. |
+| `EV-B0176-006` | Explicit next day reaches post-lesson departure; Player thinks Saori's wounds have not increased and the plan seems provisionally successful. | B:P33–41; `KNOW-0723`. Local time edge/perception, not exact whole calendar or medical clearance. |
+| `EV-B0176-007` | Saori worries cute clothes would be wasted because she might fall/tear them. Shao encourages her, Ei offers a rite with predicted partial effect, and Saori chooses a garment. | B:P46–57; `KNOW-0724`. Expanded choice; no actual rite/verified magic, identified new outfit, shop employment or transaction receipt. |
+| `EV-B0176-008` | Explicit further next day; Ei invites Player after his office work, and Saori asks a modest group bus outing toward a park. | B:P60–80; `KNOW-0725`. Accepted local invitation/request, no exact travel route/duration or destination arrival. |
+| `EV-B0176-009` | Shao sleeps on the bus, Ei becomes sleepy and Saori enjoys relaxed company/sunset city. Player notices her uninjured appearance; she reports fewer recent falls and anticipates the shoot. | B:P77–89; `KNOW-0726`. Textual sleep/perceptions/report plus static sunset bus; no heard sleep, actual ride motion or permanent cure. |
+| `EV-B0176-010` | Ei privately considers guarding successful; Shao's sleep-talk continues. | B:P90–92; `KNOW-0727`. Audience access to Ei's aside, not all participants' shared knowledge or confirmed complete protection. |
+| `EV-B0176-011` | On PV day, Saori's gratitude cues Player to confirm she understood guarding. He recognizes her caution for worried carers, asks about burden and accepts her stated enjoyment with uncertainty. | C:P1–20; `KNOW-0728`. Recipient perception/agency, not omniscient inner-burden verdict or proof she heard every private planner word. |
+| `EV-B0176-012` | Saori openly thanks Ei/Shao; they recognize she knew. Player offers not leaving her alone; renewed handholding accompanies rehearsal departure. | C:P21–42; `KNOW-0729`. Shared acknowledgment/promises, not extra-cast enumeration, permanent contract or exclusive rescue. |
+| `EV-B0176-013` | Filming is elided by fade/cast-clear controls. Staff alarms over a girl under fallen lighting; Ei identifies Saori, Shao places the incident after filming, and Saori reports a bump/precautionary bandaging/being lively. | C:P40–60; `KNOW-0730`. Ordinary static bandage variant returns; no watched PV/falling-light animation, named staff portrait or independent diagnosis. |
+| `EV-B0176-014` | Ei/Shao lament an injured day; Saori highlights achieving her smaller objective of recording an uninjured image. | C:P62–70; `KNOW-0731`. Character-reported filming objective achieved while broader protection fails; no injury-free whole day or verified technical film quality. |
+| `EV-B0176-015` | Saori recalls Ei's bad-luck description and interprets her robustness/injuries as sparing everyone else; Ei confirms the earlier remark, while peers react to the interpretation. | C:P71–80; `KNOW-0732`. Recollection is undated; no access to private A:P46 established. Sacrificial causal explanation is Saori's belief, not WORLD state. |
+| `EV-B0176-016` | Saori tries stepping, Ei asks rest, Saori stumbles and Player catches her. He apologizes for continued holding; she thanks and welcomes rescue. | C:P82–94; `KNOW-0733`. Text/cue-bracketed local rescue, no actual catch choreography, medical clearance or indefinite physical consent. |
+| `EV-B0176-017` | Saori notes Player's recurring catches; he credits local growth and asks who protects her, promising reciprocal reception and calling sole burden unfair. Her overwhelming happiness meets his uncertainty about apparent anger. | C:P95–109; `KNOW-0734`. Promise/ethical challenge and differentiated access; no proved metaphysics, exclusive saviour or performed emotion. |
+| `EV-B0176-018` | Shao/Ei ask Player to yield room, say his sole protective role would also be unfair and promise help; Saori receives the shared offers with happiness. | C:P110–119; `KNOW-0735`. Distributed reciprocal care, not future promises already fulfilled or formal new unit. |
+| `EV-B0176-019` | While leaving, Saori slips; Ei/Shao try to help and all three fall into the pool. Ei reports all safe, Shao enjoys the water and swimming is proposed. | C:P124–138; `KNOW-0736`. Witness/narration and immediate reassurance, not source-certified harm-free day, diagnosed severity or observed swimming. |
+| `EV-B0176-020` | Collective laughter accompanies Player's private separation of persistent misfortune from unhappiness; Saori closes on felt happiness. | C:P139–146; `KNOW-0737`. Local emotional coda, not risk-pattern eradication or permanent mature state. |
+
+| ID | Edge type | Supported relation and uncertainty |
+| --- | --- | --- |
+| `EDGE-1128` | `ORDINARY_UNINJURED_WISH_TO_COMPANION_GUARDING` | `001`→`002`, A:P16–47; peers recognize a usually ordinary wish and choose care. No validated prevention technique. |
+| `EDGE-1129` | `ANTICIPATED_RECIPIENT_CONCERN_TO_CONCEALED_PLAN` | Within `002`, A:P43–44; Ei predicts worry and Player accepts a filming-bound secret. Recipient's actual knowledge remains separately acquired. |
+| `EDGE-1130` | `GUARDING_INTENTION_TO_SOCIAL_OUTING_PRETEXT` | `002`→`003`, A:P48–53; dinner/walk offers ordinary company. No every future intervention licensed. |
+| `EDGE-1131` | `RUSH_CAUTION_TO_VOLUNTARY_PACE_AND_HANDS` | `003`→`004`, B:P5–11; fatigue pretext and accepted contact curb rushing. No performed movement or literal pain transfer. |
+| `EDGE-1132` | `ACCIDENTAL_PAIN_DISCLOSURE_TO_DIVERSION` | Within `004`, B:P11–15; Saori questions wording and Ei redirects. Does not prove complete ignorance. |
+| `EDGE-1133` | `COMPANIONSHIP_EXPLANATION_TO_DAILY_ASSENT` | `004`→`005`, B:P20–30; rehearsal reason accompanies explicit willingness. Scope of stated agreement retained. |
+| `EDGE-1134` | `EXPLICIT_NEXT_DAY_TO_PROVISIONAL_GUARD_APPRAISAL` | `005`→`006`, B:P33–41; narrator supplies local succession, Player qualified improvement. No medical or total chronology claim. |
+| `EDGE-1135` | `EXPECTED_CLOTHING_DAMAGE_TO_SELF_LIMITED_CHOICE` | Within `007`, B:P48–51; Saori's feared fall narrows willingness to wear cute clothes. Predicted tear, not completed damage. |
+| `EDGE-1136` | `FASHION_ENCOURAGEMENT_TO_GARMENT_CHOICE` | Within `007`, B:P50–55; peer support helps Saori choose. No precise purchased object represented. |
+| `EDGE-1137` | `OFFERED_RITE_TO_EXPRESSED_CONFIDENCE` | Within `007`, B:P52–55; Ei predicts some effect and Saori opts to try the garment. No enacted ritual or magical proof. |
+| `EDGE-1138` | `EXPLICIT_FURTHER_DAY_TO_INVITED_MANAGER_COMPANY` | `007`→`008`, B:P60–69; narrator transition and available Player. No inferred exact interval to subsequent PV day. |
+| `EDGE-1139` | `RECIPIENT_BUS_REQUEST_TO_RELAXED_SHARED_TIME` | `008`→`009`, B:P72–89; modest wish becomes represented bus company. No park-arrival/travel-speed fact. |
+| `EDGE-1140` | `LOCAL_IMPROVEMENT_TO_PRIVATE_GUARD_SUCCESS_APPRAISAL` | `009`→`010`, B:P86–92; Ei's thought follows reports/perception. No universal shared knowledge or final risk elimination. |
+| `EDGE-1141` | `ANTICIPATED_UNINJURED_IMAGE_TO_PV_DAY_READINESS` | `009`→`011`, B:P88/C:P1–5; Saori looks forward to filming. No earlier finished footage. |
+| `EDGE-1142` | `GUARD_SECRECY_TO_RECIPIENT_INFERENCE_CONFIRMATION` | `002`/`005`→`011`, C:P5–11; Player's question confirms Saori's understanding. Does not disclose when she heard every detail. |
+| `EDGE-1143` | `BURDEN_QUESTION_TO_QUALIFIED_ACCEPTANCE_OF_JOY` | Within `011`, C:P15–20; Saori denies burden and Player trusts her account. No omniscient effortless-care verdict. |
+| `EDGE-1144` | `PRIVATE_RECOGNITION_TO_PUBLIC_GUARD_THANKS` | `011`→`012`, C:P26–33; carers learn recipient knew and appreciated them. A real access delta. |
+| `EDGE-1145` | `FILMING_ELISION_TO_POST_SHOOT_INCIDENT_REPORT` | `012`→`013`, C:P40–54; cue cut and Shao's after-filming account order the local incident. No actually watched PV or falling light. |
+| `EDGE-1146` | `INCIDENT_TO_DIVERGENT_SUCCESS_BOUNDARIES` | `013`→`014`, C:P62–68; day-wide protection fails while Saori's narrower stated objective is achieved. Both retained. |
+| `EDGE-1147` | `UNDATED_RECALLED_REMARK_TO_SACRIFICIAL_INTERPRETATION` | Within `015`, C:P71–80; confirmed earlier saying is reinterpreted by Saori. No causal law, date or proof of overhearing private A:P46. |
+| `EDGE-1148` | `ROBUSTNESS_DISPLAY_TO_REST_WARNING_AND_CATCH` | `015`→`016`, C:P82–94; claim of being fine meets caution, stumble and rescue. No medical fitness finding. |
+| `EDGE-1149` | `LOCAL_CATCH_TO_QUESTION_OF_PROTECTOR_BURDEN` | `016`→`017`, C:P95–108; physical assistance leads to explicit reciprocity/unfairness language. Future guarantee remains promised. |
+| `EDGE-1150` | `MANAGER_RECIPROCITY_TO_PEER_REDISTRIBUTION` | `017`→`018`, C:P110–118; friends refuse exclusive protective responsibility. No new permanent organizational roster. |
+| `EDGE-1151` | `FAILED_POOL_RESCUE_TO_SHARED_HAPPINESS_CODA` | `019`→`020`, C:P133–146; reassurance/play/laughter meet persistent mishap. No disappearance of danger or harm-free whole day. |
+
+Current WORLD/THREAD pools remain25/47; no body-transfer law, clinic standard or total chapter order is added. B0041 possession and B0138 grief retain their own frames; comparison supplies no newly dated causal succession. `AV-0123` binds actual static review and preserves unlistened audio/unobserved runtime. Full2034 release remains ACTIVE/IN_PROGRESS;2053 blocked.
