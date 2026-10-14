@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.82"
+version: "11.83"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; seven complete Sisara Intimacy primary documents / T7S_B0182; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-14
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1075`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1271`; `last_closed_block = T7S_B0181`. The admitted horizon contains 515 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 280 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1082`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1274`; `last_closed_block = T7S_B0182`. The admitted horizon contains 522 primary documents: 235 Main, 280 i-n-g and seven Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and seven independent Sisara Intimacy occurrences are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. The three new Sisara links are formal comparisons, with no before/after or causal sequence inferred. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3615,3 +3615,25 @@ Owner [B0181](../02%20Readings/T7S_B0181_DEEP_READING.md), reading SHA256 `ae1ed
 | `EDGE-1278` | `EV-B0181-018` → `EV-B0181-023` | `COMMUNICATION_LIMIT_TO_DEVELOPMENTAL_HORIZON`; Failed reading informs an open goal, not completed communication. |
 
 No new WORLD/THREAD records and no total chronology are required. Twenty-three EV/25 edges append to unchanged bodies, yielding1075EV/1271EDGE (max1278, seven earlier gaps retained),25WORLD/47THREAD. The final declared i-n-g chapter is a bounded causal case and an intermediate completion checkpoint; the full2034 release remains active.
+
+## B0182 Sisara's seven ordinary-life presentations
+
+Owner [B0182](../02%20Readings/T7S_B0182_DEEP_READING.md), reading SHA256 `f1749ce6a2cb3ab53bd2a6e1ddf302e42fd78332e816a60d3a11594497fd1b2c`; complete family200740/routeNM-INTIMACY-200740, seven exact scripts/ranges in reading, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, proposed source-lock 12.88. Entering B0181/source-lock12.87 complete23 physical/logical control/entity boundary remains frozen. Each row is a qualified occurrence mini-case; represented account/desire is not automatically an independently observed world event.
+
+| ID | Complete source | Factual mini-case | Frame and retained consequence |
+| --- | --- | --- | --- |
+| `EV-B0182-001` | 401000002 P0–3 | Sisara values idols/Sisters/manager words and his warm/radiant circle, distinguishes enjoying observation from wanting beside it/him, and asks for a little selfishness. | `PRESENTED_APPRAISAL_DESIRE_REQUEST`; no manager answer, enacted negotiation or reciprocal romance. |
+| `EV-B0182-002` | 401000006 P0–5 | Reports favorite-café visit, habitual solitary window observation, current shared talk/view, unspecified past-like feeling, thanks and valued future time. | `REPORTED_OCCASION_AND_PREFERENCE`; no specified past partner/date or seen café seating;037 is outdoor plaza art. |
+| `EV-B0182-003` | 401000830 P0–5 | Appraises peers as rapidly resilient/idol-like, describes her perceived lack and wish for recognition/place, and requests help believing shared reach exceeds solo reach. | `ACTOR_EVALUATION_AND_ASPIRATION`; no universal peer invulnerability, objective deficit, achieved recognition or infallible manager. |
+| `EV-B0182-004` | 401000926 P0–5 | Critiques district novelty appetite/discarded older idols, values revival/preservation and credits managerial conviction with moving performers. | `SITUATED_CULTURAL_JUDGMENT_AND_SUPPORT`; not exhaustive industry/history proof or sole managerial causation. |
+| `EV-B0182-005` | 401001078 P0–5 | Reports falling asleep during script check, asks time/watching, describes herself modestly, requests ten more minutes/waking if needed and values quiet manager-present space. | `REPORT_QUESTION_LIMITED_REST_REQUEST`; no confirmed prolonged watching, tested alarm, visible nap, heard sleep-talk or blanket surveillance consent. |
+| `EV-B0182-006` | 401001186 P0–5 | Reports uneventful model work/continued expected tasks with stage-singing exception, then distinguishes companionship on return walk/current life and tentatively names pleasure. | `REPORTED_PROFESSIONAL_CONTINUITY_AND_RELATIONAL_DIFFERENCE`; no witnessed shoot/full labor terms, fixed total chronology or complete cure. |
+| `EV-B0182-007` | 401001382 P0–5 | Reports aroma shopping/staff recipe, offers intended fatigue/calm care, fears manager absence and commits to protecting his place/retaining his scent. | `REPORTED_PREPARATION_INTENDED_GIFT_PROTECTIVE_DESIRE`; no verified efficacy, perceived scent, shown gift transfer, reciprocal couple or guaranteed safety. |
+
+| ID | Formal link | Explicitly non-chronological qualification |
+| --- | --- | --- |
+| `EDGE-1279` | `EV-B0182-001` ↔ `EV-B0182-003` | `FORMAL_RECURRENCE_OF_RADIANCE_AND_PARTICIPATION`; observational pleasure/wanting beside light and recognition/belonging are comparable presentations; no before/after or achieved transformation inferred. |
+| `EDGE-1280` | `EV-B0182-002` ↔ `EV-B0182-006` | `CONTRAST_OF_SOLITARY_AND_SHARED_ORDINARY_SPACE`; reported café/return-walk companionship gives a recurring contrast without dating one against the other. |
+| `EDGE-1281` | `EV-B0182-003` ↔ `EV-B0182-007` | `RECIPROCAL_PLACE_EXPRESSION`; wanting her place and protecting his place are linked vocabulary; no literal causal dependency or mature reciprocity promoted. |
+
+No new WORLD/THREAD records or calendar/total chronology. Seven occurrence mini-cases plus three formal links yield1082EV/1274EDGE (maximum1281; seven old gaps retained),25WORLD/47THREAD. Main235/ING280 remain closed unchanged;7 Intimacy documents add bounded factual homes rather than a new Main/i-n-g chapter. Full2034 remains active/incomplete.

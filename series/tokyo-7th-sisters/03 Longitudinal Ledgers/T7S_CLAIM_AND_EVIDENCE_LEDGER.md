@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.83"
+version: "11.84"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; seven complete Sisara Intimacy primary documents / T7S_B0182; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-14
@@ -20,13 +20,13 @@ last_updated: 2026-10-14
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and the seven-occurrence Sisara Intimacy portfolio. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 949`; `revisions = 42`; `predictions = 7`; `AV_reviews = 128`; `literary_findings = 949`. Claims are bounded to their stated B0001 through B0181 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 957`; `revisions = 42`; `predictions = 7`; `AV_reviews = 129`; `literary_findings = 957`. Claims are bounded to their stated B0001 through B0182 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and the seven-occurrence Sisara Intimacy portfolio. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -3270,3 +3270,26 @@ Static selection `8a09b637c981323ce41ad33093e042452debaad13503148c3653cfbbd6e857
 Five original BG:004 mirrored practice studio,005 shared pastel lounge/kitchen rather than shown private bedroom,021 reusable outdoor festival stage rather than dated/named diegetic festival,03 title dots,076 office/dark windows. No exact address/calendar inferred. C57-61 sequence slots5/4/3/2/1 retains same147_04_06; declared reframing is not continuous played movement. Textual props/message and local song/dance appraisals are not pixel or acoustic proof.
 
 Native266AutoMoveFrame/BackGround,247Charas arrays2359slots409non-null,39Effect/242Sound/235TextArea/1Title/3SubTitle/noItem.187Layer1/222absent; all409lackposition/scale/rotation/color, tremblefalse/SlideIn-Out0. FadeIn0/1/.5,FadeOut0/.5/1/.336134464. No same-subject duplicate-slot pages.66unvoiced dialogues63PLAYER+3audience;169dialoguevoice pages+4title carriers A0/A1/B0/C0. No performed listening/runtime, medical cure, measured skill transfer, decoded personal sentence or reciprocal romance. Totals949CL/42REV/7PRED/128AV; full2034 release active/incomplete,2053 blocked.
+
+## B0182 participation, ordinary company and perspectival limits
+
+Owner [B0182](../02%20Readings/T7S_B0182_DEEP_READING.md), complete seven-member Sisara Intimacy family200740 with keys/ranges in reading, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.88. All claims distinguish presented account/appraisal/desire/request from independent observation; no prediction/revision/readiness promotion.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0182-001` | `SOURCE_FACT`; D0; high within frames | All seven occurrences receive complete factual mini-cases, preserving reports, cultural/self/peer appraisals, requests and intended gift/protection. | Seven complete native documents40pages33JP; EV001–007. Rival: every described action/date/response independently witnessed. Source frames/unshown manager replies retained. |
+| `CL-B0182-002` | `BOUNDED_INFERENCE`; D1; high within portfolio | Repeated radiance/place language connects wished participation and recognition to valued ordinary companionship and concern for his place. | 002/006/830/1186/1382. Rival: a menu-derived chronological cure or professional success solely produced by him. Formal links are explicitly non-chronological. |
+| `CL-B0182-003` | `SOURCE_FACT`; D0; high for appraisal frame | District novelty critique and peer rapid resilience belong to Sisara's judgments. | 830 P1–3/926 P1–5; EV003–004. Rival: exhaustive industry/world proof or universal peer invulnerability. Existing Main/earlier distress remain intact. |
+| `CL-B0182-004` | `BOUNDED_INFERENCE`; D1; high locally | Reported professional continuity can coexist with a meaningful change in shared ordinary space. | 006 P2–5/1186 P1–5. Rival: everything about work/life changed or companionship entails no change. No fully audited labor conditions/settled affect label. |
+| `CL-B0182-005` | `SOURCE_FACT`; D0; high for access limit | Only Sisara has response text; manager-facing questions/thanks/desires do not supply his own feeling or answer. | All33text/voice-reference pages; EV001–007. Rival: inferred reciprocal confession, guaranteed assistance or complete consent. |
+| `CL-B0182-006` | `SOURCE_FACT`; D0; high for request/report | Rest trust and a question about watching are not proof of actual surveillance, completed waking or blanket permission. | 1078 P1–5; EV005. Rival: manager certainly watched throughout, heard sleep-talk or clinically solved sleep/workload. |
+| `CL-B0182-007` | `SOURCE_FACT`; D0; high for attribution | Aroma recipe/benefits are reported preparation and intended care; protection is an expressed future commitment. | 1382 P1–5; EV007. Rival: verified therapeutic efficacy, perceived scent, completed gift transfer, physical intimacy or guaranteed safety. |
+| `CL-B0182-008` | `SOURCE_FACT`; D0; high for inspected representation | One fixed open-eyed portrait spans all33speaking pages; café report uses an outdoor-plaza backdrop and no Item depicts the gift. | All40headers/9projection lines/one portrait/six original BG. Rival: every utterance emotion, sleeping body, café seating or gift outcome directly shown; no heard performance/runtime. |
+
+| ID | Scoped modality review | Actual evidence and limits |
+| --- | --- | --- |
+| `AV-0129` | `STATIC_AND_NATIVE_BOUNDED_REVIEW; PERFORMED_AUDIO_NOT_LISTENED` | All40headers/33JP/7command-only/9projection lines,one occurring136_01_01 output viewed individually and six original BG viewed. Two underlying actor PNGs hash-bound, not independently viewed; contact not separately viewed. No game runtime, listened-to voice/music/SFX, perceived scent or mature character release. |
+
+Actor output `31d25641e42954c7cdb0be726d9333ce831a698bacc13ba4cc9c0c39a8d94069`; body `200a9e40c75a925f2991b38854443b5b026c20e01c466aef28b79b3904400bd3`; face `811e413aa7ef6a7078bcb69a5a7ef73dfa67a800303c20299fe590a8214f2658`; offset115,34. Native segments `3e4be9713f3ca3fc227d2c6cabd848e12781787f17b9629ef5dc98ce80e40625` and static selection `a4955cecb2e067974ac548b5ef045dfead0346312a221f0917f70517576f08aa`. Fixed cream ruffled blouse/blue-purple pants/hair-touch/open eyes/parted mouth/cheek color; no varied facial delivery, depicted nap or actual gift transfer.
+
+Original002office/004practice studio/023retail intersection/028sunset-colored MAISON mall/030river path and bridges/037outdoor tower plaza. Reused art supplies presentation, not exact date/address or café/model-shoot corroboration.40AutoMoveFrame/BackGround/Sound,7Effect/SubTitle,33Charas/TextArea,231slots33non-null same resource/slot3. All33frontfalse/speakertrue/tremblefalse/fades0/slides0; no Layer/position/scale/rotation/color.33dialoguevoice references/noextraTitlevoice; no Title/Item/choice/inline field. Totals957CL/42REV/7PRED/129AV. Full2034 release active/incomplete;2053 blocked.

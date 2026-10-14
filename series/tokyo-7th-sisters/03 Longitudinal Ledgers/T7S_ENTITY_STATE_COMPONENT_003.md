@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0181; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0182; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-14
 ---
@@ -909,4 +909,40 @@ Complete chapter301530 A/B/C, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260
 | `REL-1006` | `Nanasta → Shao` | Local peer lessons, permitted rest, manager visit and realized performance provide opportunities for reciprocal effort. Operational budgets/complete labor/privacy safeguards and mature institution release remain unverified. Reciprocal1005. |
 
 Totals after these additions:850KNOW/1006REL;102IDENTITY/84CHAR/28UNIT/29R2 unchanged. No new institutional/clinical facts, adulthood completion or performed-voice maturity. Existing Main and earlier i-n-g horizons remain intact.
+
+## B0182 Sisara's appraisal, shared space and intended care
+
+Complete seven-occurrence family200740, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.88. Existing `IDENTITY-0041/kawasumi-shisara` and `CHAR-0034` identify Sisara. Existing102 identities/84 characters and sealed histories remain exact; no diagnosis, model mastery or maturity/readiness change.
+
+| Stable subject | Bounded new annotation | Warrant and retained limits |
+| --- | --- | --- |
+| `CHAR-0034` / Sisara | Wants participation/recognition/place, values shared ordinary space, presents revival support, reports professional continuity and offers intended care/protective effort. | Seven independent occurrences; self-devaluation/appraisal and unshown responses remain. Earlier inner panic/professional conflict/B0172 and fantasy boundaries retained; no cure, reciprocal romance or menu-derived chronological ladder. |
+| `CHAR-0001` / Player | Is addressed, reported as companion and relied on for reach/quiet presence; receives requests, thanks and intended gift within Sisara's account. | No response text, complete feelings, clinical endorsement, blanket surveillance consent or sole authorship inferred. |
+| `UNIT-0002` / Nanasta | Peers/revival effort/shared presence enter Sisara's belonging and cultural-value account. | Her appraisal does not certify every peer's invulnerability, universal institutional care or mature institution release. |
+
+| ID | Knowledge holder/frame | Qualified state | Source |
+| --- | --- | --- | --- |
+| `KNOW-0851` | Sisara; `APPRAISAL_DESIRE_REQUEST` | Enjoying the radiant circle is no longer enough; she asks to stand beside it/him. No answer supplied. | 401000002 P1–3 |
+| `KNOW-0852` | Sisara; `REPORTED_OCCASION_AND_UNSPECIFIED_MEMORY` | Café habit/current companionship and past-like feeling belong to her account; past referent and manager response remain unknown. | 401000006 P1–5 |
+| `KNOW-0853` | Sisara; `GENERALIZING_PEER_APPRAISAL` | Peers appear quickly resilient/idol-like to her; not an objective all-peer rule. | 401000830 P1–2 |
+| `KNOW-0854` | Sisara; `SELF_COMPARISON_ASPIRATION_AND_TRUST` | Perceived lack, recognition/place desire and belief in shared reach prompt requested help. Success not completed. | 401000830 P3–5 |
+| `KNOW-0855` | Sisara; `SITUATED_CULTURAL_CRITIQUE` | District novelty appetite/old-idol disposal are her judgments, not exhaustive historical or market proof. | 401000926 P1–2 |
+| `KNOW-0856` | Sisara; `REVIVAL_VALUE_APPRAISAL` | Values old good things and attributes motivation to managerial conviction; Main history/other causes retained. | 401000926 P3–5 |
+| `KNOW-0857` | Sisara; `REPORTED_SLEEP_AND_SCRIPT_WORK` | Says she fell asleep while checking a script and asks the time; no observed nap/overwork diagnosis. | 401001078 P1–2 |
+| `KNOW-0858` | Sisara; `QUESTION_WITH_UNRESOLVED_OBSERVER_ACCESS` | Asks when he arrived/whether he watched and says she generally lacks sleep talk. Watching/heard sleep-talk not verified. | 401001078 P2–3 |
+| `KNOW-0859` | Sisara; `LIMITED_REQUEST_AND_EXPECTATION` | Requests ten minutes/waking if needed, expects quiet presence/no oversleep and likes their space. No actual alarm or blanket permission. | 401001078 P4–5 |
+| `KNOW-0860` | Sisara; `REPORTED_PROFESSIONAL_CONTINUITY` | Model work reportedly finishes normally; expected tasks continue, with stage singing named as difference. No witnessed shoot/full labor audit. | 401001186 P1–3 |
+| `KNOW-0861` | Sisara; `REPORTED_COMPANIONSHIP_AND_TENTATIVE_AFFECT_LABEL` | Return walk/current shared presence feels different; she asks if this is enjoyment. No settled universal happiness. | 401001186 P4–5 |
+| `KNOW-0862` | Sisara; `REPORTED_SHOPPING_AND_RECIPE_PREPARATION` | Names aromas and says shop staff helped a manager-suited gift recipe. No seen shop exchange/gift transfer. | 401001382 P1–3 |
+| `KNOW-0863` | Sisara; `INTENDED_BENEFIT_ATTRIBUTION` | Fatigue recovery/calm are intended recipe benefits in her account. No clinical efficacy or analyst-perceived scent. | 401001382 P4 |
+| `KNOW-0864` | Sisara; `FEARED_ABSENCE_AND_PROTECTIVE_COMMITMENT` | His potential loss threatens her place; she wants to protect his place/retain his scent. Future protection not guaranteed. | 401001382 P5 |
+
+| ID | Directional relationship | Bounded state and missing reciprocal access |
+| --- | --- | --- |
+| `REL-1007` | `kawasumi-shisara → player-protagonist` | Wants near him, reports valued companionship, requests help/rest and offers intended care while fearing absence. Her address/faith retains self-devaluation and open outcomes; no reciprocal romance or tested safeguard. |
+| `REL-1008` | `player-protagonist → kawasumi-shisara` | His reported companionship/quiet proximity are available through her account; her requests situate him as recipient. No response text establishes his feelings, decisions, surveillance conduct or endorsement of efficacy. |
+| `REL-1009` | `kawasumi-shisara → established-nanasta-performers` | Appraises resilience/radiance, compares her perceived lack and values shared presence. Generalizing idealization does not override their source-specific distress or prove all reciprocal appraisals. |
+| `REL-1010` | `kawasumi-shisara → Nanasta` | Seeks belonging through recognized work/companionship and supports retaining idol value/revival. Actor account, not complete institutional care/consent, completed recognition or mature release. |
+
+Totals864KNOW/1010REL;102IDENTITY/84CHAR/28UNIT/29R2 unchanged. No causal ordering among the seven presentations or against Main/i-n-g. Anonymous shop staff remain an attributed role within KNOW0862, with no new stable identity.
 <!-- T7S ENTITY STATE PAYLOAD END -->

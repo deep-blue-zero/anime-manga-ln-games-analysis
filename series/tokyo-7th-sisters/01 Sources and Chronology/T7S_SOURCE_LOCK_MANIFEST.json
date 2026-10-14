@@ -19,38 +19,38 @@
     {
       "path": "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_001.md",
       "artifact_id": "T7S_SOURCE_LOCK_COMPONENT_001",
-      "bytes": 393677,
-      "sha256": "ef2f2bae2f392befe3368f7334d6ce817167f1e1630bf7d90645e14445fec085",
+      "bytes": 387709,
+      "sha256": "aebd6ab9b8457223ceb36ec5bcc906a2980f9eb2d8cb7ed53905dc431acabf71",
       "payload_offset_bytes": 505,
-      "payload_bytes": 393135,
-      "payload_sha256": "b3ebbe59c033d15eb2d4be6f45aaa88063abbfb8875b018151a98ddb7dc3da17",
+      "payload_bytes": 387167,
+      "payload_sha256": "07d740936338a019eb4432f5c25af9529a224e4cddd112b674f783128354cb01",
       "logical_offset_bytes": 0
     },
     {
       "path": "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_002.md",
       "artifact_id": "T7S_SOURCE_LOCK_COMPONENT_002",
-      "bytes": 393687,
-      "sha256": "f466d3f59fe28a629f6e4064cf06dfc6ba8eb81c2fd1cb5096419c21afde8986",
+      "bytes": 393685,
+      "sha256": "57c83a57a9e652b2841a52c8cff64c96a513942ee60a5549a07957d57a5da46e",
       "payload_offset_bytes": 505,
-      "payload_bytes": 393145,
-      "payload_sha256": "22ad772379915600a30b90f460647da7b21db3d094e4374b2c91bd1cfdfda6ea",
-      "logical_offset_bytes": 393135
+      "payload_bytes": 393143,
+      "payload_sha256": "08a978ee7603dc17411f5298aceb632748b6bd2531e50d57194016dc27d9dde0",
+      "logical_offset_bytes": 387167
     },
     {
       "path": "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_003.md",
       "artifact_id": "T7S_SOURCE_LOCK_COMPONENT_003",
-      "bytes": 350272,
-      "sha256": "56a424c7002ccddaeb98e2a2a88391030c5cf0bd97533587609c9a8bcda8e00e",
+      "bytes": 370634,
+      "sha256": "af40142ebb2127bf308e8f0c772e1ac837c1da2dad689fbc5e220d870dd50990",
       "payload_offset_bytes": 505,
-      "payload_bytes": 349730,
-      "payload_sha256": "f0907b1ee9b77ee8c4a86438337868d0cfe941f565d0b1a34011d8719ab6619d",
-      "logical_offset_bytes": 786280
+      "payload_bytes": 370092,
+      "payload_sha256": "1716b10f4991e7f6c3ce37d55a230f3ddad4de7f6baead40249c82c9b3413e0b",
+      "logical_offset_bytes": 780310
     }
   ],
-  "logical_bytes": 1136010,
-  "logical_sha256": "d270255d52a52cd1c89a8adefcbc8b6c43f2c2e8256fdfc128f0bfae197cc211",
-  "logical_version": "12.87",
-  "source_high_water": "T7S_B0181",
+  "logical_bytes": 1150402,
+  "logical_sha256": "a682d96e82d4d0281687e5dd98a7bde4aca8528d1dc705acec5d86a614de45c8",
+  "logical_version": "12.88",
+  "source_high_water": "T7S_B0182",
   "reassembly": "Concatenate exact declared UTF8 byte payload intervals in order; physical wrappers are excluded. LogicalJSON is complete, including every older frozen integrity object.",
   "reader_projection_sha256": "4a7f37fef3ee4072d3694c3d055e2d8df51e2039f3bb8e40b26f43e2d7764f57",
   "transition": {

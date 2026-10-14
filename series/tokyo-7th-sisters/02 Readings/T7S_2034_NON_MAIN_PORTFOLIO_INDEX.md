@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.82"
+version: "2.83"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and its audit retain their completed boundaries. The active [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed 22 source blocks / 66 episodes; i-n-g coverage is 280/280 episodes across 102 chapters, with 0 i-n-g episodes remaining. The i-n-g lane is closed at 280/280 episodes. Continue the authorized character and occasion portfolios, then Legend Boss/Many merry party and complete Event envelopes; the era release requirements remain outstanding. Supplemental, multimodal, character and era-release obligations remain active.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its boundary. The [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has completed its B0160–B0181 i-n-g checkpoint:22source blocks/66episodes, bringing i-n-g to280/280 across102chapters. B0182 closes the first subsequent Intimacy portfolio: seven complete Sisara occurrences.342Intimacy/687total eligible story episodes remain; supplemental, multimodal, character and era-release obligations remain active. The next authorized, unread portfolio is B0183, Sui / 神城スイ, route `NM-INTIMACY-200520` / native Sub family `200520`, with nine complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
 
 ## Closed first i-n-g tranche
 
@@ -167,3 +167,11 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The histor
 | [T7S_B0179](T7S_B0179_DEEP_READING.md) | `301510` / 玉坂マコト / ナイトメア・オン・ポエットメイデン | `612203601 / 612203602 / 612203603` | `COMPLETE_BOUNDED` |
 | [T7S_B0180](T7S_B0180_DEEP_READING.md) | `301520` / 桂木カヅミ / 空に羽を広げる | `612203701 / 612203702 / 612203703` | `COMPLETE_BOUNDED` |
 | [T7S_B0181](T7S_B0181_DEEP_READING.md) | `301530` / シャオ・ヘイフォン / あなたのジンセイのメッセージ！ | `612203801 / 612203802 / 612203803` | `COMPLETE_BOUNDED` |
+
+## Intimacy occurrence portfolios
+
+Each family closes exact primary members with one qualified mini-case per occurrence; no menu-derived chronological ladder or multimodal maturity is implied.
+
+| Block | Native family and route | Complete occurrences | Status |
+| --- | --- | --- | --- |
+| [T7S_B0182](T7S_B0182_DEEP_READING.md) | `200740` / 川澄シサラ / `NM-INTIMACY-200740` | `401000002 / 401000006 / 401000830 / 401000926 / 401001078 / 401001186 / 401001382` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
