@@ -4,16 +4,16 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.78"
+version: "11.79"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 268 complete i-n-g primary documents / T7S_B0080–T7S_B0177; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 271 complete i-n-g primary documents / T7S_B0080–T7S_B0178; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-13
+last_updated: 2026-10-14
 ---
 
 # Tokyo 7th Sisters story chronology and causal state ledger
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 984`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1168`; `last_closed_block = T7S_B0177`. The admitted horizon contains 503 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 268 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1004`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1192`; `last_closed_block = T7S_B0178`. The admitted horizon contains 506 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 271 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3373,3 +3373,59 @@ Entering B0176/d558b089, source-lock12.81 SHA `659e10df13a68731c986bdaef8e8ce7f1
 | `EDGE-1175` | `PRIVATE_WHISPER_TO_PARTIAL_PUBLIC_TEASING` | Within `020`, C:P73–83; blush/partial phrase permit appraisals without complete access. No arbitrary transfer of secret knowledge. |
 
 No new WORLD or THREAD record. Regional report, family metaphor and future wish remain qualified; no total calendar or completed all-resident cooking program. All old ledger bodies/IDs/source horizons and frozen storage receipts remain byte-exact.
+
+## B0178 other directions and the work of finding one's colour
+
+Owner [B0178](../02%20Readings/T7S_B0178_DEEP_READING.md), authored reading SHA256 `4e775b4a63d034f922a3249c914e2afe0732f45c8a5938c89f31311810d66d86`; complete chapter301500, A612203501 P0–94/B612203502 P0–88/C612203503 P0–108, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.84. Entering source-lock12.83 is a lossless administrative successor of completed B0177; physical owner and complete logical SourceLock pins are distinct. Existing chapter/Main chronology remains bounded.
+
+| ID | Source range | Local event | Factual reconstruction and qualification |
+| --- | --- | --- | --- |
+| `EV-B0178-001` | A:P1–13 | Other direction proposed | Murasaki credits Ferb's first QOP shape and seeks Jeda's vocal learning; Jeda agrees but suggests a more different vector. Request, attribution and compatibility appraisal; no completed Jeda lesson. |
+| `EV-B0178-002` | A:P14–24 | Coach selection promised | Coney arrives, reports following Jeda and promises a suitable coach; Murasaki retains unease and expects interest. Reported tailing and observed promise; full intent remains undisclosed. |
+| `EV-B0178-003` | A:P31–55 | Unexpected coach accepts | Tomoe expected shop help; Murasaki values her singing, requests teaching and agrees to Murasaki-chan address; Tomoe accepts. Local role consent/address negotiation, not every later request. |
+| `EV-B0178-004` | A:P60–74 | Sincerity legitimates expertise | Tomoe praises skill but hesitates over individuality; Murasaki asks genuine criticism and Tomoe announces rigorous idol coaching. Held criticism and actor doctrine; no confidence cure. |
+| `EV-B0178-005` | A:P79–93 | Royal-road imitation demanded | Tomoe demands Haru-like steps, cute/loud voice and repeated777☆SISTERS MV viewing/report; Murasaki calls the lesson Spartan. Assignments and appraisal; MV100/viewings/report completion unknown. |
+| `EV-B0178-006` | B:P1–18 | Difficult smile and performance ethic | Cute pose/smile coaching leads Murasaki to value Haru/Musubi's demanding other-directed work; she also questions Tomoe's stage stiffness; SAKURA assigned. Character values and observed dialogue; no technical performance certification. |
+| `EV-B0178-007` | B:P23–40 | Concern meets concealed knowledge | Ferb reports absence/fatigue and guesses trouble; Player privately knows through Coney, publicly deflects, recommends waiting and feels secrecy's cost. Partial observation, speculation and private/public access separated. |
+| `EV-B0178-008` | B:P45–60 | Apology and hospitality | Tomoe apologizes for heating up; Murasaki accepts sincerity and offers a conditional shop walk/overnight invitation, which Tomoe accepts. Actual invitation/assent; sleeping later only reported. |
+| `EV-B0178-009` | B:P61–79 | Different solitude, shared commitment | Murasaki disputes talented-person distance through shared singing/commitment; both value companions and Player, with counterfactual folding/quitting accounts. Self-descriptions and institutional valuations, not alternate-history proof. |
+| `EV-B0178-010` | B:P82–87 | Reciprocal teaching requested | Tomoe requests adult-song learning; Murasaki agrees after showing her own result. Prospective commitment before later role inversion. |
+| `EV-B0178-011` | C:P1–20 | Cute result and MC | Labelled Laba x Laba line/cheer, native performance elision and cute MC lead to lesson appraisal; Tomoe insists on MC. Source enactment/account; complete song, sound and choreography unreceived. |
+| `EV-B0178-012` | C:P23–40 | Own style clarified | Tomoe discloses delayed preference for Murasaki's own singing; Murasaki formulates direction/colour distinction, recalls Ferb advice and attributes Coney's plan. Direct disclosure, prior-event report and attributed intent differentiated. |
+| `EV-B0178-013` | C:P41–45 | Unfinished colour supported | Tomoe says her colour is unfound/headwind; Murasaki values persistence and promises a push; Tomoe responds figuratively. Future support/confidence, not completed self-discovery. |
+| `EV-B0178-014` | C:P46–60 | Group and coach reversal revealed | Other observers appear; Murasaki calls local QOP with W/White and becomes Tomoe's coach. Local trial label; no permanent unit/roster change or universal viewing. |
+| `EV-B0178-015` | C:P61–69 | Joint trial appraised | Native elision precedes Matsuri/Murasaki praise, Ferb's qualified matching assessment and Tomoe's improvisation-limit account. Differentiated evaluations; no heard technical rock mastery. |
+| `EV-B0178-016` | C:P70–81 | Curiosity, teasing and reported trust | Ferb denies anger and seeks sounds she might not draw; Matsuri reads loneliness; Tomoe reports Murasaki's trust and Ferb conditionally forgives. Competing readings and report; no diagnosed romance/exclusivity. |
+| `EV-B0178-017` | C:P82–90 | Teaching expands beyond capacity | Yumeno's jealousy/innuendo, Matsuri's game wish and Ferb's idol-song interest accompany group-coaching proposal and Tomoe's capacity protest. Member-specific interests; no sexual act/game session/blanket consent. |
+| `EV-B0178-018` | C:P91–94 | Distributed prior planning credited | Coney credits Player's earlier all-QOP proposal; Player says he joined enjoyable mischief. Retrospective participant report; exact early decision timing unknown. |
+| `EV-B0178-019` | C:P95–100 | Tailwind valuation | Thanks and golden-experience appraisal accompany Murasaki's many-winds/QOP-growth and past/present refusal account. Source optimism; not analyst forecast or institutional release. |
+| `EV-B0178-020` | C:P102–108 | Reflection interrupted by care | Peers ask chords/games/moe, Tomoe appeals for help, Player forecasts possible vomiting and prompts return; Murasaki agrees before final fade. Overload explicit; actual vomiting/rescue/calm arrangement not shown. |
+
+| ID | Qualified endpoints | Edge type and warrant |
+| --- | --- | --- |
+| `EDGE-1176` | `EV-B0178-001` → `EV-B0178-002` | `REFRAMES_LEARNING_GOAL`; Compatibility is distinguished from another direction; no general ban on similar teachers. |
+| `EDGE-1177` | `EV-B0178-002` → `EV-B0178-003` | `SELECTION_PROMISE_AND_RESULT`; Promised coach becomes actual unexpected Tomoe; motive is not independently opened. |
+| `EDGE-1178` | `EV-B0178-003` → `EV-B0178-004` | `ROLE_LEGITIMATION`; Requested sincere teaching makes hesitant expertise speakable. |
+| `EDGE-1179` | `EV-B0178-004` → `EV-B0178-005` | `REQUEST_TO_RIGOR`; Tomoe's doctrine governs this lesson, not a universally validated rubric. |
+| `EDGE-1180` | `EV-B0178-005` → `EV-B0178-006` | `CONTINUED_PRACTICE_AND_APPRAISAL`; Instruction yields difficulty and respect; assigned MV completion is not inferred. |
+| `EDGE-1181` | `EV-B0178-006` → `EV-B0178-007` | `PRESENTED_COST_AND_PEER_CONCERN`; Ferb's observations follow lesson presentation; fatigue's sole cause not independently measured. |
+| `EDGE-1182` | `EV-B0178-007` → `EV-B0178-008` | `KNOWLEDGE_ASYMMETRY_TO_PRIVATE_EXCHANGE`; Concern/waiting and later walk occupy distinct access frames; disclosure is not retroactively supplied. |
+| `EDGE-1183` | `EV-B0178-006` → `EV-B0178-008` | `APOLOGY_AND_SINCERITY_ACCEPTANCE`; Late lesson apology leads to locally accepted hospitality. |
+| `EDGE-1184` | `EV-B0178-008` → `EV-B0178-009` | `CONVERSATIONAL_OPPORTUNITY`; Walking/invitation permits comparison of solitude and purpose. |
+| `EDGE-1185` | `EV-B0178-009` → `EV-B0178-010` | `COMMONALITY_TO_RECIPROCITY`; Recognized commitment accompanies Tomoe's request to learn. |
+| `EDGE-1186` | `EV-B0178-010` → `EV-B0178-011` | `DEFERRED_TEACHING_CONDITION`; Murasaki first presents her own result; no promise already fulfilled at request. |
+| `EDGE-1187` | `EV-B0178-011` → `EV-B0178-012` | `REASSESSMENT`; Preference disclosure revises imitation's success criterion. |
+| `EDGE-1188` | `EV-B0178-012` → `EV-B0178-013` | `ENCOURAGEMENT_WITHOUT_CLOSURE`; Direction theory supports Tomoe without erasing unfound colour. |
+| `EDGE-1189` | `EV-B0178-012` → `EV-B0178-014` | `APPLYING_LEARNING_WITH_OTHERS`; Murasaki calls the group; universal early spectator knowledge not inferred. |
+| `EDGE-1190` | `EV-B0178-010` → `EV-B0178-014` | `COACH_ROLE_INVERSION`; Tomoe's requested adult-song learning enters a local QOP trial. |
+| `EDGE-1191` | `EV-B0178-014` → `EV-B0178-015` | `TRIAL_TO_RECEPTION`; Elided performance receives several qualified evaluations. |
+| `EDGE-1192` | `EV-B0178-007` → `EV-B0178-016` | `PRIOR_CONCERN_LATER_REFRAMED`; Ferb's earlier uncertainty is not collapsed into later peer jealousy claims. |
+| `EDGE-1193` | `EV-B0178-016` → `EV-B0178-017` | `REPORTED_TRUST_AND_WIDER_INTEREST`; Trust report mediates affect; other members retain distinct wishes. |
+| `EDGE-1194` | `EV-B0178-017` → `EV-B0178-020` | `INTEREST_TO_OVERLOAD`; Several demands exceed Tomoe's stated capacity; no clinical cause inferred. |
+| `EDGE-1195` | `EV-B0178-018` → `EV-B0178-014` | `RETROSPECTIVE_ATTRIBUTED_PREPARATION`; Later account attributes earlier group enlargement to Player/Coney; speech order is not event order. |
+| `EDGE-1196` | `EV-B0178-019` → `EV-B0178-020` | `REFLECTION_INTERRUPTED`; Optimistic synthesis gives way to an immediate care prompt. |
+| `EDGE-1197` | `EV-B0178-001` → `EV-B0178-019` | `METAPHOR_AND_GOAL_REVISION`; New-wind goal returns as many supportive winds, without identity exchange. |
+| `EDGE-1198` | `EV-B0178-009` → `EV-B0178-019` | `VALUED_INSTITUTIONAL_POSSIBILITY`; Participant support accounts inform later gratitude, not comprehensive institution audit. |
+| `EDGE-1199` | `EV-B0178-011` → `EV-B0178-015` | `CONTRASTED_ELIDED_TRIALS`; Different labelled/cued trials and role direction remain distinct; acoustic contrast unreceived. |
+
+Twenty events and24 edges retain every older body/edge/gap. No new WORLD/THREAD, total cross-chapter calendar, actual MV100 viewing, heard singing/choreography, permanent collaboration, analyst prediction or mature release is established. Scene reports, managerial-intent attribution and future commitments keep their frames.

@@ -4,7 +4,7 @@
   "artifact_type": "logical_entity_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.2",
+  "version": "1.3",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -12,13 +12,13 @@
   "do_not_use_as_literary_evidence": true,
   "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
   "current_owner_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 268 complete i-n-g primary documents / T7S_B0080–T7S_B0177; no other non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 271 complete i-n-g primary documents / T7S_B0080–T7S_B0178; no other non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-    "physical_bytes": 33146,
-    "physical_sha256": "b0d27cca8722154424f1d6e81a06d681379fef4766053f9e0c4c6165f97dc2ce",
+    "physical_bytes": 33590,
+    "physical_sha256": "b42c90394acc3ad11f0e98cb6e8e61707917c408120348040196e4b6ebbd0498",
     "logical_prefix_bytes": 7454,
-    "logical_prefix_sha256": "5d3ee183d63b3a32d33ff7f0ea5aa4b00a0ac143c2af7e506d79cf42df65a073",
+    "logical_prefix_sha256": "2f2756088a77e1ff4f17778fb5c41c4337c4a68e5d48f2e3bb079c8e4ba439f5",
     "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
   },
   "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_ENTITY_STATE_COMPONENT_003",
-      "physical_bytes": 193766,
-      "physical_sha256": "68f1cc8206b03ea0c9b7d9538f5263dae8e3134b224ebf0f3cf6b7ee145a6440",
+      "physical_bytes": 205830,
+      "physical_sha256": "38a42173a7fb9c1ab83e3825c61bf64b1dc196f33d5c2b834aaa225cd2840402",
       "payload_offset_bytes": 711,
-      "payload_bytes": 193017,
-      "payload_sha256": "843e5d080e076f2d6cbce2eb350e1df7eb7caa993f443f4ae98a097a0f344276",
+      "payload_bytes": 205081,
+      "payload_sha256": "dd5cc8bf805b80d58e1fafe6df56214932a4ebb9d1e0179c9196e0a3d3d43bde",
       "preserved_original_interval": [
         829500,
         990668
@@ -73,11 +73,11 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1022833,
-  "logical_sha256": "4a606d18cdbdfbce7a48530b9eb16a5162cccb47cce9b04b90469d93a1769f90",
+  "logical_bytes": 1034897,
+  "logical_sha256": "cbec9927550539c8096176dce6ceebea34d69f28c6bd34ae4fc37b2993655f04",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "last_source_high_water": "T7S_B0177",
+  "last_source_high_water": "T7S_B0178",
   "storage_transition": {
     "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
     "date": "2026-10-13",
@@ -822,17 +822,23 @@
       "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "component_anchor": "b0177-family-taste-and-the-work-of-making-another-home",
       "heading": "B0177 family taste and the work of making another home"
+    },
+    {
+      "original_anchor": "b0178-reciprocal-musical-directions-and-bounded-capacity",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0178-reciprocal-musical-directions-and-bounded-capacity",
+      "heading": "B0178 reciprocal musical directions and bounded capacity"
     }
   ],
   "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent.",
   "latest_logical_append": {
-    "source_high_water": "T7S_B0177",
-    "date": "2026-10-13",
-    "logical_before_sha256": "5e7e18da64ed39d23258e270a615f97b67837645d72337ddb23f2e07f927722a",
-    "logical_after_sha256": "4a606d18cdbdfbce7a48530b9eb16a5162cccb47cce9b04b90469d93a1769f90",
-    "addition_bytes": 17579,
-    "addition_sha256": "89c19f5c6fd75a3c1cc6da4d5f4c1632d87674aa9cedeb6cf04492b68f36873e",
-    "unchanged_older_body_sha256": "cb425456a5af55843ad045fa57c09523fec041e1c7e7c15daa815d59dbc9dc8a",
+    "source_high_water": "T7S_B0178",
+    "date": "2026-10-14",
+    "logical_before_sha256": "4a606d18cdbdfbce7a48530b9eb16a5162cccb47cce9b04b90469d93a1769f90",
+    "logical_after_sha256": "cbec9927550539c8096176dce6ceebea34d69f28c6bd34ae4fc37b2993655f04",
+    "addition_bytes": 12064,
+    "addition_sha256": "e7caba8f63eaf152d7f7aff55b8a740991f7a75f78e09ff621f8e108be71ed5f",
+    "unchanged_older_body_sha256": "7379c8c469fe4990006c746b26d01023233b10b713dba10fbbd80199e42c009a",
     "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }

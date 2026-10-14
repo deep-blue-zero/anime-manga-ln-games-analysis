@@ -4,29 +4,29 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.79"
+version: "11.80"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 268 complete i-n-g primary documents / T7S_B0080–T7S_B0177; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 271 complete i-n-g primary documents / T7S_B0080–T7S_B0178; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-13
+last_updated: 2026-10-14
 ---
 
 # Tokyo 7th Sisters claim and evidence ledger
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 98 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 99 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 901`; `revisions = 42`; `predictions = 7`; `AV_reviews = 124`; `literary_findings = 901`. Claims are bounded to their stated B0001 through B0177 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 98 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 913`; `revisions = 42`; `predictions = 7`; `AV_reviews = 125`; `literary_findings = 913`. Claims are bounded to their stated B0001 through B0178 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 99 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -3150,3 +3150,32 @@ Owner [B0177](../02%20Readings/T7S_B0177_DEEP_READING.md), complete chapter30149
 - Performed boundary: NOT_LISTENED/NOT_OBSERVED. Earlier source-qualified probe returned AUDIO_INPUT_UNSUPPORTED/actually_listened=false; no identical unsupported probe is retried or counted as listening. Written dialect/tears/whisper, images, source names and hashes cannot certify prosody, timing, music/SFX, game composition or mature multimodal work.
 - Future performed targets: caution repair A4–25, private deliberation/invitation A36–66, first-taste qualification B9–26, divided craft instruction B31–72, persistence/anticipation B77–95, kitchen simile/reveal C9–40, tears/home C41–55, wider hospitality C56–66 and private/partial access C67–83. Actually received sound/sufficient runtime evidence required before performed claims.
 - One new reported identity/character remains qualified; no new world/thread/unit/readiness/REV/PRED/R3 or mature release. Full2034 remains active: remaining primary/supplemental leaves, principal/secondary and warranted longitudinal work, mature multimodal synthesis, era narrative/literary pair and independent completion/release audit.2053 blocked.
+
+## B0178 direction, reciprocity and the limits of tailwind
+
+Owner [B0178](../02%20Readings/T7S_B0178_DEEP_READING.md), complete chapter301500 with exact A/B/C script keys/ranges in the reading, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.84. Source doctrine, retrospective report, attributed intent and bounded inference remain separate. No analyst prediction adjudication or maturity promotion.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0178-001` | `SOURCE_FACT`; D0; high within frames | Complete case moves from compatible learning through unexpected coach/role legitimation, strict imitation, peer secrecy concern, reciprocal recognition, own-style reassessment, QOP trial and capacity interruption. | A:P0–94/B:P0–88/C:P0–108; EV-B0178-001–020. Rival: every song/MV/overnight/private plan independently observed. Elisions, reports and promises remain explicit. |
+| `CL-B0178-002` | `BOUNDED_INFERENCE`; D1; high locally | Another direction becomes a way of clarifying one's own form; reciprocity preserves difference rather than exchanging artistic identities. | A:P5–13/C:P23–45; EV-B0178-001/012/013. Rival: successful instruction is assimilation or wasted because original style remains preferred. Murasaki's explicit revision supports local formulation; not general aesthetic law. |
+| `CL-B0178-003` | `BOUNDED_INFERENCE`; D1; high locally | Legitimating Tomoe's expertise makes rigorous teaching possible without dissolving her social self-doubt. | A:P41–74/B:P46–66; EV003/004/008/009. Rival: coach mode reveals cured confidence or purely fraudulent skill. Apology/self-appraisal and continued request distinguish knowledge/ideal/enactment. |
+| `CL-B0178-004` | `SOURCE_FACT`; D0; high for assignment/appraisal | Royal-road prerequisites, Haru comparison and MV100/report demand are Tomoe's instructions; completion and universal technical validity are not shown. | A:P79–93/B:P1–18; EV005/006. Rival: analyst watched all MVs, learner completed100 viewings or doctrine objectively governs every genre. |
+| `CL-B0178-005` | `BOUNDED_INFERENCE`; D1; high locally | The shared purpose conversation revises talented-person distance through acknowledged solitary histories and received support, while preserving different self-descriptions. | B:P61–79; EV009. Rival: identical biography, independently verified counterfactual quitting or complete Nanasta adequacy. Source avowals support local commonality. |
+| `CL-B0178-006` | `SOURCE_FACT`; D0; high for access distinction | Ferb's worried observation and Player's concealed Coney information establish uneven access before group participation. | B:P23–40/C:P91–94; EV007/018. Rival: no concealment because advice is benevolent, everybody already informed or exact full early decision time known. |
+| `CL-B0178-007` | `SOURCE_FACT`; D0; high for qualification | Murasaki attributes nonexchangeable-appeal insight to Coney; Coney separately reports Player's all-QOP proposal. | C:P37–40,91–94; EV012/018. Rival: participant inference certifies an omniscient complete managerial design. |
+| `CL-B0178-008` | `BOUNDED_INFERENCE`; D1; high locally | The role inversion converts a one-way request into a local trial with multiple musical possibilities, not a new permanent unit. | B:P82–87/C:P46–69; EV010/014/015. Rival: QOP with W is a standing lineup or sudden praise certifies complete rock technique. Requests/label/evaluations remain bounded. |
+| `CL-B0178-009` | `SOURCE_FACT`; D0; high for competing views | Ferb's musical curiosity and anger denial, Matsuri's loneliness reading, Yumeno's jealousy and Tomoe's trust report stay distinct. | C:P70–89; EV016/017. Rival: all speakers know one concealed romantic motive or graphic blush/hearts prove it. |
+| `CL-B0178-010` | `BOUNDED_INFERENCE`; D1; high locally | Tomoe's explicit capacity plea interrupts the community's tailwind synthesis and returns reflection toward practical care. | C:P95–107; EV019/020. Rival: every enthusiastic request is already consensual benefit, actual vomiting or completed rescue. Ending agreement/fade retains unresolved execution. |
+| `CL-B0178-011` | `BOUNDED_INFERENCE`; D1; medium-high locally | Fixed bodies and context-specific face variants let musical role change remain legible without literal person/costume exchange. | A/B/C native149/120/127/133 and AV0125. Rival: stills certify performed singing/steps or sole emotion. Actual selected pixel review and declarations support symbolic comparison only. |
+| `CL-B0178-012` | `SOURCE_FACT`; D0; high for scope | This complete bounded text/native/selected-static case advances only chapter301500; full2034, actual listening and mature release remain outstanding. | Source receipt/freeze, all293 primary states,35 outputs/six originals; EV-B0178-001–020. Rival: i-n-g checkpoint or image hashes certify whole-era/multimodal completion. |
+
+## AV-0125 — Different musical directions through static continuity and elided trials
+
+Complete chapter301500/A P0–94/B P0–88/C P0–108, source-lock 12.84. All251 Japanese records/293 compact headers/63 projection lines actually read;35 actor outputs viewed on original-detail contact,149_01_05/120_01_04/127_01_07/133_05_05 additionally viewed individually; six original backgrounds viewed. Fortyfive source PNG inputs hash-bound, without individual-viewing claim.
+
+Murasaki149's fixed blonde/purple-haired white-top/dark-short body differs through five faces;05 is open-eyed and blushing during cute exercise, not a literal Haru/costume replacement. Tomoe120's clasped green-container pose survives narrowed-eye/grin04 and distressed05. Ferb127's instrument-case/hoodie and blush07 do not settle peer affect. Yumeno133_01's floating hearts disappear in133_05 body variant, without confirming another's romance; Jeda137, Matsuri138 and Coney002 retain native identity-qualified variants.
+
+Original098 is a neon karaoke-style booth,117 a brick jazz/live bar/piano platform,028 sunset mall,055 night crossing,002 office and03 pale title dots. These correct unsupported dance-studio/night-street guesses; no real address, public audience or venue license is inferred. Native C6–9/C61–64 black/clearing transitions elide performances; BGM039/040 are references, not received acoustic contrast. Title voice A38/A39/B0/C0 supplements236 dialogue voice pages;15 unvoiced dialogues allPLAYER. Eight fields,45 effects,598 non-null character objects with absent Layer/position/scale/rotation/color, false IsTremble and0 SlideIn/Out retain exact Fade declarations. No Item/same-subject duplicate-slot page.
+
+No actual voice/music/SFX listening, game playback, MV100 viewing, full vocal/choreographic assessment or mature audiovisual release. Image generation/hashes and actual viewing are distinct; future modality obligations remain active.

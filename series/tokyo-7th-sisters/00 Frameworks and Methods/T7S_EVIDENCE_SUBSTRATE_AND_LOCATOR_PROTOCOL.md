@@ -4,13 +4,13 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.81"
+version: "1.82"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0177; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
+source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0178; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-14
@@ -140,7 +140,7 @@ Packets record lock digest, exact membership and ranges, query/parameters, adapt
 
 ### Exact membership and initial coverage
 
-The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 589 current-or-consumed records and 1,001 routed-or-unconsumed records after B0177, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
+The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 592 current-or-consumed records and 998 routed-or-unconsumed records after B0178, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
 
 Each shard's META record declares its own field defaults. Expand every record with only its shard-local explicit defaults before interpretation; unknown record types or fields are validation failures. Record identity is `(record_type, script_id)` for `SCENARIO` and `(record_type, tranche_id)` for `SUPPLEMENTAL_TRANCHE`. When a routed record is consumed, move it atomically to the current-or-consumed shard while preserving its complete effective state, `decision_history`, and current decision fields. The manifest binds shard bytes, file hashes, membership hashes, record counts, partition rule, and the pre/post effective-state hash proving the split was lossless. A set of IDs alone is not evidence of reading.
 
@@ -334,3 +334,5 @@ Fresh prospective records capture the physical source-lock owner/manifest/compon
 Missing/indirect/foreign parts, stale hashes, unknown schemas, owner/version/horizon mismatches, wrong inherited defaults and duplicate/missing effective records stop use. Monolithic consumers must be adapted through reviewed fresh code/hash bindings before another source extraction or closeout. Every physical file and actual quoted native argument retains its existing limit. The [control-storage record](../09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) owns the administrative mapping; it admits no new primary source or2053 semantics.
 
 - 2026-10-14 —1.81: add full checked SourceLock/coverage retrieval after B0177; preserve all historical native/source boundaries and modality/release requirements.
+
+- 2026-10-14: migrate 3 complete T7S_B0178 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.

@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,9 +12,9 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0177; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0178; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
-last_updated: 2026-10-13
+last_updated: 2026-10-14
 ---
 
 <!-- T7S ENTITY STATE PAYLOAD BEGIN -->
@@ -657,4 +657,71 @@ All old state/history payload bytes remain unchanged. Current owner prefix, acti
 | `REL-0934` | Shirayuki → Sumire, **taste judgment and wider invitation** | Recognizes collective food effort as home and asks for others' home dishes while retaining private future promise. C:P26–83; reciprocal `REL-0933`. Invitation remains prospective; secrecy not universally disclosed. |
 
 `T7S_B0177_CLOSE-20261013` adds one qualified reported identity/character,22 epistemic states and20 directional relationship states, with six existing-character and Nanasta annotations. No new UNIT/READY/R3, mature monograph or specialist release. Full2034 remains active;2053 blocked. Entire prior logical body/order, sealed components, identity routes, older counts/horizons and frozen receipts retain exact prior bytes.
+
+## B0178 reciprocal musical directions and bounded capacity
+
+Complete chapter301500 A/B/C, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.84. Existing102 identity routes/84 character subjects and all older logical bodies/physical sealed components remain exact. Twenty-two new epistemic rows and20 directional relationships retain report, inference, doctrine, access and prospective limits.
+
+| Stable subject | Bounded new annotation | Warrant and retained limits |
+| --- | --- | --- |
+| `CHAR-0001` / Player | Privately knows through Coney while publicly deflecting Ferb; feels secrecy's cost, reports joining group mischief, receives gratitude and prompts return to overloaded Tomoe. | B:P23–40/C:P48,91–107; no full consent/privacy regime or completed rescue. |
+| `CHAR-0003` / Coney | Selects unexpected coach and later credits Player's group proposal; praises the experience. Murasaki separately attributes nonexchangeable-appeal insight to her. | A:P14–24/C:P49,92–101; no omniscient plan proof or rewritten Nicole/Main horizon. |
+| `CHAR-0029` / Tomoe | Initially doubts coach suitability, receives role legitimation, becomes rigorous idol teacher, apologizes and requests reciprocal adult-song learning. Admits preference for Murasaki's own style, performs an elided group trial and later appeals at capacity. | A/B/C; expertise, ideal, confidence and enactment remain distinct; earlier chosen leadership retained. |
+| `CHAR-0036` / Jeda | Accepts vocal learning but suggests a more different vector because compatibility makes teaching easier. | A:P1–24; no refusal, actual completed lesson or comparative acoustic analysis. |
+| `CHAR-0060` / Ferb | Worries about absence/fatigue, accepts waiting, later denies anger and asks about musical possibilities; conditional forgiveness follows Tomoe's trust report, then a chord question. | B:P24–38/C:P51–83,89,102; peer loneliness reading and stock blush do not establish hidden romance. |
+| `CHAR-0069` / Yumeno | Appraises gap moe, reports jealousy toward both overnight participants and proposes sensation/moe exchange with Tomoe. | C:P53,82–88,104; innuendo/graphic hearts not performed sex or proof of another's desire. |
+| `CHAR-0071` / Matsuri | Praises sudden group trial, teases Ferb about loneliness and wishes to game-train with Tomoe. | C:P52,65,72–76,86,103; own readings/proposals, no completed game session or universal peer knowledge. |
+| `CHAR-0074` / Murasaki | Legitimates another's teaching, struggles with imitation, accepts sincerity/hospitality and sees shared commitment. Learns another direction can clarify her own shape, promises support, reverses coaching into QOP trial and agrees to return when Tomoe is overwhelmed. | A/B/C; Coney-intent interpretation and institutional optimism attributed; own colour not exchanged or future duty completed. |
+| `UNIT-0015` / QOP | Murasaki attributes initial shape to Ferb, then a local QOP with W trial and differentiated peer inquiries widen musical possibilities. | A:P5/C:P46–105; no new standing unit/lineup, heard group quality, unanimous motive or permanent coaching policy. |
+| `UNIT-0002` / Nanasta | Participants value shared commitment, peers and Player; existing cross-unit relationships make local coaching available and also create secrecy/capacity problems. | B:P61–79/C:P91–107; source warmth does not prove comprehensive consent/privacy/workload or mature institution release. |
+
+| ID | Qualified knowledge holder | State and epistemic frame | Source |
+| --- | --- | --- | --- |
+| `KNOW-0760` | Murasaki | Credits Ferb with QOP's first shape and likes it while wanting her own new wind. `SOURCE_ATTRIBUTION_AND_DESIRE`. | A:P5–6 |
+| `KNOW-0761` | Jeda | Assesses compatibility as easy teaching and proposes a different vector, after agreeing to help. `SOURCE_APPRAISAL`. | A:P7–13 |
+| `KNOW-0762` | Coney | Reports tailing, hears request and promises a coach; entire deeper motive remains undisclosed. `OBSERVED_SPEECH_AND_REPORTED_ACTION`. | A:P14–24 |
+| `KNOW-0763` | Tomoe | Expected shop work and discovers the proposed coach role; accepts after Murasaki's encouragement/address negotiation. `REVISED_LOCAL_EXPECTATION`. | A:P34–55 |
+| `KNOW-0764` | Murasaki | Values previously heard Tomoe singing and requests honest instruction. `REPORTED_PRIOR_RECEPTION_AND_REQUEST`. | A:P45–50,68–70 |
+| `KNOW-0765` | Tomoe | Praises skill but hesitates over individuality, then adopts rigorous royal-road doctrine. `HELD_VIEW_AND_ACTOR_DOCTRINE`. | A:P62–89 |
+| `KNOW-0766` | Murasaki | Reads unexpected expertise and calls teaching Spartan; does not thereby certify doctrine or MV compliance. `PRIVATE_APPRAISAL`. | A:P88–93 |
+| `KNOW-0767` | Tomoe | Defines other-directed large/cute smile and hard work, while Murasaki questions her own stage stiffness. `ACTOR_VALUE_AND_CONTESTED_ENACTMENT`. | B:P2–18 |
+| `KNOW-0768` | Murasaki | Recognizes Haru/Musubi performance difficulty while admitting embarrassment. `LOCAL_REAPPRAISAL`. | B:P5–15 |
+| `KNOW-0769` | Ferb | Reports absence/fatigue and guesses trouble; accepts waiting without the full concealed plan. `PARTIAL_OBSERVATION_AND_SPECULATION`. | B:P26–38 |
+| `KNOW-0770` | Player | Privately says Coney informed him, publicly deflects knowledge and feels uneasy about secrecy. `PRIVATE_PUBLIC_ASYMMETRY`. | B:P30–40 |
+| `KNOW-0771` | Tomoe/Murasaki, distinct | Apology about heat and acceptance of sincerity precede conditional overnight invitation and assent. `DIFFERENTIATED_LOCAL_ACCOUNTS`. | B:P46–60 |
+| `KNOW-0772` | Murasaki | Sees shared solitary habits/song commitment; values companions/Player through a counterfactual folding account. `SELF_ACCOUNT_AND_COUNTERFACTUAL_VALUE`. | B:P62–78 |
+| `KNOW-0773` | Tomoe | Distinguishes loneliness, values being seen, offers counterfactual quitting and asks for adult-song learning. `SELF_ACCOUNT_AND_ADMITTED_LACK`. | B:P63–85 |
+| `KNOW-0774` | Tomoe | Prefers Murasaki's own singing and says effort delayed disclosure. `DELAYED_PREFERENCE_DISCLOSURE`. | C:P23–28 |
+| `KNOW-0775` | Murasaki | Distinguishes knowing direction from copying colour, recalls Ferb advice and attributes Coney's intended insight. `INTERPRETATION_REPORTED_PAST_AND_ATTRIBUTED_INTENT`. | C:P29–40 |
+| `KNOW-0776` | Tomoe | Says colour remains unfound/headwind; receives encouragement without finished discovery. `UNFINISHED_SELF_APPRAISAL`. | C:P41–45 |
+| `KNOW-0777` | Murasaki/observers, distinct | Calls out concealed others; actual appearances and Yumeno's appraisal do not establish everybody's full earlier viewing. `QUALIFIED_ACCESS_AND_REVEAL`. | C:P46–60 |
+| `KNOW-0778` | Tomoe/members, distinct | Sudden collaboration receives member evaluations while Tomoe reports improvisation limits. `DIFFERENTIATED_RECEPTION`. | C:P65–69 |
+| `KNOW-0779` | Ferb/peers, distinct | Musical curiosity/anger denial competes with loneliness/jealousy readings; Tomoe supplies reported trust. `COMPETING_INTERPRETATIONS_AND_MEDIATED_REPORT`. | C:P70–89 |
+| `KNOW-0780` | Coney/Player, distinct | Retrospectively credit group enlargement and enjoyable mischief; Murasaki values tailwinds. `REPORTED_PRIOR_PLANNING_AND_SOURCE_OPTIMISM`. | C:P91–100 |
+| `KNOW-0781` | Tomoe/Player/Murasaki, distinct | Capacity plea, forecast vomiting and agreement to return remain distinct; no completed calm/rescue shown. `EXPLICIT_LIMIT_AND_PROSPECTIVE_RESPONSE`. | C:P102–108 |
+
+| ID | Direction | Bounded state | Warrant and limits |
+| --- | --- | --- | --- |
+| `REL-0935` | Murasaki → Tomoe | **Sincere coaching trust and reciprocity**: Invites criticism, accepts rigor/sincerity, offers hospitality, promises adult-song help and becomes coach. | A:P45–74/B:P47–87/C:P29–67; local assent, not all later demands. |
+| `REL-0936` | Tomoe → Murasaki | **Teacher authority and delayed preference**: Accepts coach role, sets royal-road demands, later admits preferring own style and requests learning. | A:P51–93/B:P1–87/C:P23–45; no permanent confidence cure. |
+| `REL-0937` | Jeda → Murasaki | **Fellow-vocalist counsel**: Agrees to help yet suggests more different direction. | A:P2–13; no actual completed lesson or acoustic comparison. |
+| `REL-0938` | Murasaki → Jeda | **Compatible learning request**: Seeks Jeda vocal approach and accepts interesting alternate coach prospect. | A:P1–24; no rejection of Jeda's worth. |
+| `REL-0939` | Coney → Murasaki | **Arrangement and encouragement**: Selects coach, joins group and appraises experience. | A:P14–24/C:P49,92–101; motive partly Murasaki-attributed. |
+| `REL-0940` | Murasaki → Coney | **Trust, attributed insight and gratitude**: Expects interesting selection, interprets her intent and gives thanks. | A:P19–24/C:P37–40,95–100; no direct access to mind or erased Main accountability. |
+| `REL-0941` | Player → Ferb | **Waiting advice with concealment**: Deflects information he privately has, recommends time, feels secrecy's cost. | B:P25–40; no full informed-consent/privacy policy. |
+| `REL-0942` | Ferb → Player | **Concern and accepted patience**: Asks about Murasaki, accepts wait and intends to tell peers. | B:P24–38; no full plan received. |
+| `REL-0943` | Murasaki → Ferb | **Acknowledged coauthor and guarded trust**: Credits first QOP shape, recalls advice, apologizes for silence and objects to disclosed private praise. | A:P5/C:P35–36,70,79; no exclusive rights over musical direction. |
+| `REL-0944` | Ferb → Murasaki | **Curiosity with disputed affect**: Denies anger, seeks sounds she might not elicit and conditionally forgives. | C:P69–83; peers' loneliness reading remains attributed. |
+| `REL-0945` | Tomoe → Ferb | **Reported reassurance**: Reports Murasaki trusts Ferb's sound after repeated talk. | C:P77–80; offscreen report, not complete transcript. |
+| `REL-0946` | Ferb → Tomoe | **Qualified appraisal and inquiry**: Judges sudden matching acceptable and asks about chord progression. | C:P69,89,102; no global rock/teaching credential. |
+| `REL-0947` | Player → Murasaki | **Group support and practical care prompt**: Reports joining proposal, values current atmosphere and prompts return to Tomoe. | C:P48,91–107; rescue not shown completed. |
+| `REL-0948` | Murasaki → Player | **Received coordinating support**: Values manager presence, thanks him and agrees to return. | B:P76–78/C:P95–107; brother language not literal kinship/romance. |
+| `REL-0949` | Coney → Player | **Shared planning credit**: Credits his all-QOP proposal. | C:P92–93; retrospective participant account. |
+| `REL-0950` | Player → Coney | **Voluntary joining and assessment**: Says he joined enjoyable mischief and observes ripples. | C:P91,94; no universal benefit or consent proof. |
+| `REL-0951` | Yumeno → Tomoe | **Appraisal, jealousy and innuendo**: Gap-moe praise, jealousy toward both overnight participants, sensation/moe exchange proposals. | C:P53,85,88,104; no performed sexual act/accepted all proposals. |
+| `REL-0952` | Matsuri → Tomoe | **Performance praise and game interest**: Praises trial and wants game practice/play. | C:P65,86,103; proposed, not completed. |
+| `REL-0953` | Tomoe → QOP | **Bounded trial and capacity limit**: Participates in elided collaboration, reports improvisation strain and protests intense peer demands. | C:P54–69,90,102–105; local participation does not authorize every request. |
+| `REL-0954` | QOP members → Tomoe, differentiated | **Varied learning wishes and pressure**: Murasaki offers coaching, Ferb music study, Matsuri games and Yumeno moe/sensation exchange. | C:P56–105; aggregate endpoint preserves speaker differences, not unified policy or unanimous consent. |
+
+No new IDENTITY/CHAR/UNIT/READY or R3 promotion. Same-person body/face variants, Coney's historical identity, institutional warmth, genre appraisal and stock graphic blush/hearts retain their own horizons and limits. No completed rescue, new romance or mature monograph is inferred.
 <!-- T7S ENTITY STATE PAYLOAD END -->
