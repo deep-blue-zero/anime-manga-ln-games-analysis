@@ -461,5 +461,339 @@
     "R_Git_provider_shared_metadata_operations": 0,
     "protected39_or9UNBOUND_body_or_hash_reads": 0,
     "merge_approval": "RESERVED"
+  },
+  "current_LIB048_attribution_correction_20261014_V1": {
+    "schema": "BLUE_ARCHIVE_LIBRARY_LIB048_ATTRIBUTION_CORRECTION_AND_REVIEW_SCOPE_V1",
+    "prepared_UTC": "2026-10-14T01:43:11.399740+00:00",
+    "stage": "ISOLATED_PROPOSED_REPAIR; CURRENT_SOURCE_SERIALIZATION_REVIEW_AND_PUBLICATION_PENDING",
+    "authority": "Owner-authorized investigation and correction of the Library L159 attribution and required operative dependents only.",
+    "base_source_commit": "3d8730b7247a2b04f2eade10806e81d166e764db",
+    "claim_id": "LIB048",
+    "rival_id": "R04",
+    "physical_line": 159,
+    "before_phrase": "Ui's private-property/referral complaints",
+    "after_phrase": "Shimiko's reported private-property objection and Ui's visitor-referral complaint",
+    "reason": "The private-property objection belongs to Shimiko; the visitor-referral complaint belongs to Ui. Their distinct acts must not both be assigned to Ui.",
+    "evidence": [
+      {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+        "bytes": 33192,
+        "sha256": "47d9e9a4033de8d0a2213bd5ff49dc604a8a96e9668a523be7f68970c8e38919",
+        "git_blob_oid_of_actual_bytes": "3fdd31ac601c8885f174a69964def02ce3d19359",
+        "lines": [
+          64,
+          108
+        ],
+        "scope": "Accepted maintained analytical meanings: Shimiko's reported objection and Ui's referral complaint."
+      },
+      {
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_EPISODE_003_10010020_DEEP_READING.md",
+        "bytes": 14881,
+        "sha256": "43ddfe3dac8e4d2b3bcbd93e7113482780c06db222079e2d39c7ab2337668840",
+        "git_blob_oid_of_actual_bytes": "6bc8e48773455df342e913bfa0f634ef0a1da565",
+        "lines": [
+          29,
+          31
+        ],
+        "scope": "Complete accepted episode argument reread. L29 attributes the report of Shimiko's objection to Hinata; L31 attributes the referral complaint to Ui. No primary/performance rereading is claimed."
+      }
+    ],
+    "current_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 42054,
+      "sha256": "8c9f2865c1818a524ee69eeebc0f6927127d7b048f99a48aa26832b5fd37fa0d",
+      "git_blob_oid_of_actual_bytes": "ca05cf507a6dea58de4b47c3913ea12fea45fcc5",
+      "physical_lines": 221
+    },
+    "current_literal_register": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_LITERAL52_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 815563,
+      "sha256": "0bcccc60a22dcae053092f5ae3e314b76386094faadf7ecbc912239604add4fd",
+      "git_blob_oid_of_actual_bytes": "d96023210fddd9f7198a5773d071b29d9a2ffa69"
+    },
+    "current_LIB048_paragraph": {
+      "bytes": 460,
+      "sha256": "799f777bc2631c47259c82e71f660ffa7e384c3b6a359e632b1b05106aabd808",
+      "git_blob_oid_of_actual_bytes": "9946b335ea19da39ee1b973b06c7c2ba9e6fee4f"
+    },
+    "prior_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 42014,
+      "sha256": "48587c4ce60f0c215f47d6a9753c2252bff0c52ffc9e89f6d37e71da21d1b9c7",
+      "git_blob_oid_of_actual_bytes": "bc5ad7d907391fec1da2b2452f3b269caae56373"
+    },
+    "prior_register": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_LITERAL52_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 813723,
+      "sha256": "b7d74ef5b4c378be6e3dc7e6eaf486b83a3590288962ceada85ddbe6bc5ba6f8",
+      "git_blob_oid_of_actual_bytes": "8360ae2e47fc8f94db51501485b2ee17206dc201"
+    },
+    "prior_control": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT_PUBLIC_REVIEW_COMPOSITION_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json",
+      "bytes": 32213,
+      "sha256": "c03e096031a54a6bf5ad21cd2759f79ef085c2b59c837ad5a06139a3c981ee8d",
+      "git_blob_oid_of_actual_bytes": "4fc0db45a4f832858db10614e1e9ab2850cb4ab2"
+    },
+    "prior_complete_fields_role": "All earlier control fields and component tuples remain exact dated snapshots. Body/register tuples in those snapshots are not current after this correction; the two explicit current bindings above govern this proposed successor.",
+    "frozen_preservation": "The original V1/V2 full inverse, all three independent review files, preliminary ROOT receiving, final ROOT adoption, all 105 purposes and source records remain byte-identical. Their historical old paragraph and hashes are retained for provenance.",
+    "review_qualification": "Prior zero-findings and acceptance judgments are preserved at their exact prior bodies. They do not certify this correction, and the identified LIB048 attribution exception qualifies their use. This worker performed bounded author review only; fresh independent delta review and coordinated receiving remain pending.",
+    "review_scope": "Full current Library body read; Ui L64/L108 and the complete accepted EVENT812 episode003 argument checked; targeted changed fields and byte-preservation verified. No full 105-purpose or primary audiovisual reread, whole-corpus review, or additional finding repair is claimed.",
+    "unaffected_semantics": "All other Library lines, 51 other paragraph meanings, source joins, 105 purposes, identifiers, endpoints and gap states remain unchanged.",
+    "fixed_controls": {
+      "required_packages": 355,
+      "mandatory_named": 29,
+      "parents": 25,
+      "homes": 384,
+      "navigation": 788,
+      "all14": "OPEN",
+      "models": 0,
+      "milestone178": "UNREACHED"
+    },
+    "new_source_package_named_model_credit": 0,
+    "main_integration": "NOT_AUTHORIZED_BY_THIS_REPAIR",
+    "merge_approval": "RESERVED"
+  },
+  "current_LIB048_actual_ROOT_producer_adoption_20261014_V2": {
+    "schema": "BLUE_ARCHIVE_LIBRARY_LIB048_ACTUAL_ROOT_BOUNDED_PRODUCER_ADOPTION_V2",
+    "saved_UTC": "2026-10-14T02:04:16.526028+00:00",
+    "receiver": "ROOT",
+    "decision": "ROOT_ACCEPTS_ONE_ATTRIBUTION_CORRECTION_WITH_LIMITS;SEPARATE_DELTA_QA_FREEZE_INSTALL_AND_NEW_PUBLICATION_REQUIRED",
+    "exact_scope": "Library physical159/LIB048/R04; its saved fullbody and current body/paragraph tuples, plus operative review qualification. Other220 body lines,51 other paragraph meanings, all105 judgments/source joins/finite ends/gaps unchanged.",
+    "actual_source_head_at_receiving": "b8e157441faa5beb2e6a90964815164e9f2f9724",
+    "actual_source_tree_at_receiving": "f41333190499b83d801508c7a958fb26d2c5278b",
+    "current_main_at_receiving": "d1fb415d893ad3591263dfe5e11ba392ff7f564d",
+    "current_source_packages_named": "143/16",
+    "current_main_packages_named": "133/13",
+    "producer_3d_staged_tree_and_preflight_role": "The preceding current_LIB048_attribution_correction_20261014_V1 is preserved literally as a dated producer proposal based3d, stagedtree d62c23de38b50baa7f42a8c67f58e0f60a1a969f and7672-path isolated preflight. Its preparation/pending and original review facts are not current installation or runtime certification. This actual ROOT bounded source judgment governs the correction, with new independent delta and final install/publication gates remaining separate.",
+    "actual_current_beforeimages_all3_equal_producer_originals": true,
+    "before_phrase": "Ui's private-property/referral complaints",
+    "current_phrase": "Shimiko's reported private-property objection and Ui's visitor-referral complaint",
+    "manual_ROOT_reason": "The complete cited Ui64 and108 paragraphs in surrounding56-72/101-115 distinguish Shimiko reported property disagreement from Ui visitor-routing complaint. The complete connected maintained E81219-39 passage independently attributes the report to Hinata at29 and the complaint to Ui at31. Current Library159 incorrectly compresses both into Ui. Splitting the actors and retaining reported status is the smallest sufficient correction; the printed reporter remains unnamed in the replacement. The argument against a single library mind and all adjacent sites/recipient differences remain supported.",
+    "actual_ROOT_source_grade": "Two maintained written analytical arguments, selected Ui56-72/101-115 and E81219-39; Root does not claim whole Ui or whole E812 receiving from this correction. Producer whole Library/E812 receiving stays attributed. No new primary/raw/native/AV listening/viewing/consumption.",
+    "current_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 42054,
+      "sha256": "8c9f2865c1818a524ee69eeebc0f6927127d7b048f99a48aa26832b5fd37fa0d",
+      "git_blob_oid_of_actual_bytes": "ca05cf507a6dea58de4b47c3913ea12fea45fcc5",
+      "physical_lines": 221
+    },
+    "current_literal52_register": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_LITERAL52_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 815563,
+      "sha256": "0bcccc60a22dcae053092f5ae3e314b76386094faadf7ecbc912239604add4fd",
+      "git_blob_oid_of_actual_bytes": "d96023210fddd9f7198a5773d071b29d9a2ffa69"
+    },
+    "original_source_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 42014,
+      "sha256": "48587c4ce60f0c215f47d6a9753c2252bff0c52ffc9e89f6d37e71da21d1b9c7",
+      "git_blob_oid_of_actual_bytes": "bc5ad7d907391fec1da2b2452f3b269caae56373"
+    },
+    "historical_reviews_and_acceptance": "Original independent reviews, ROOT adoption/inverses, old hashes/literals and zero-findings decisions remain frozen at their earlier bodies. LIB048 is a supported exception qualifying those prior reviews; they do not certify this successor. No new full105 receiving or whole52 semantic replay is claimed.",
+    "source_runtime_sequence_at_receiving": "Seminar b8 SOURCE/HOUSEKEEPING/FINAL running separately; close before next normal author push. Its eventual green cannot certify the future correction head.",
+    "current_independent_delta_QA_and_final_ROOT_freeze": "REQUIRED_SEPARATE_GATES_PRIOR_TO_INSTALL",
+    "new_package_named_source_identity_reconstruction_model_milestone_credit": 0,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "PR158": "OPEN_DRAFT_HOLD",
+    "merge_approval": "RESERVED"
+  },
+  "current_Library_four_paragraph_attribution_ROOT_adoption_20261014_V3": {
+    "schema": "BLUE_ARCHIVE_LIBRARY_CURRENT_FOUR_PARAGRAPH_ACTUAL_ROOT_ATTRIBUTION_ADOPTION_V3",
+    "saved_UTC": "2026-10-14T02:23:41.042631+00:00",
+    "receiver": "ROOT",
+    "decision": "ROOT_ACCEPTS_FOUR_PARAGRAPH_SAME_ATTRIBUTION_CORRECTION_WITH_LIMITS;FINAL_DISTINCT_DELTA_QA_AND_INSTALL_PUBLICATION_REQUIRED",
+    "current_base_source": "b8e157441faa5beb2e6a90964815164e9f2f9724",
+    "current_main": "d1fb415d893ad3591263dfe5e11ba392ff7f564d",
+    "source_packages_named": "143/16",
+    "main_packages_named": "133/13",
+    "exact_affected_claims_and_modes": [
+      {
+        "line": 13,
+        "claim": "LIB003",
+        "disposition": "DEFINITE_SAME_REPORTER_ERROR",
+        "before": "Ui's report of Shimiko's objection to treating the library as private property",
+        "after": "Shimiko's reported objection to treating the library as private property",
+        "before_complete_paragraph": "Ui identifies herself as library manager and Committee chair, and Shimiko describes her exceptional ancient-text expertise. Those assertions establish represented roles and a reason to seek particular help. They do not prove that all spaces a librarian enters are the chair's property, that an expert owns every visitor's response, or that the reported magician epithet names supernatural power. Ui's report of Shimiko's objection to treating the library as private property is institutionally consequential precisely because it distinguishes the office, cared-for objects and a person's space. It remains reported disagreement, rather than a newly heard direct joint scene. [U:54/64–70/108/116; S:64/74–82/130; P:455/509]",
+        "after_complete_paragraph": "Ui identifies herself as library manager and Committee chair, and Shimiko describes her exceptional ancient-text expertise. Those assertions establish represented roles and a reason to seek particular help. They do not prove that all spaces a librarian enters are the chair's property, that an expert owns every visitor's response, or that the reported magician epithet names supernatural power. Shimiko's reported objection to treating the library as private property is institutionally consequential precisely because it distinguishes the office, cared-for objects and a person's space. It remains reported disagreement, rather than a newly heard direct joint scene. [U:54/64–70/108/116; S:64/74–82/130; P:455/509]"
+      },
+      {
+        "line": 105,
+        "claim": "LIB033",
+        "disposition": "DEFINITE_SAME_REPORTER_ERROR",
+        "before": "Ui reports Shimiko's objection to private-property treatment and complains about visitor referral",
+        "after": "Shimiko's objection to private-property treatment is reported, and Ui complains about visitor referral",
+        "before_complete_paragraph": "The received source-local relation already contains affiliation, referral and disagreement; it does not narrate a historically first meeting. Ui reports Shimiko's objection to private-property treatment and complains about visitor referral, while Shimiko identifies Ui's exceptional restoration expertise. These are positive directed meanings at reported and professional modes. They support an established relation with different access commitments, rather than permitting first-co-occurrence metadata, source filing order or a missing-book episode to manufacture an origin. [U:64/108; S:64/130; P:260–264/379/489/509]",
+        "after_complete_paragraph": "The received source-local relation already contains affiliation, referral and disagreement; it does not narrate a historically first meeting. Shimiko's objection to private-property treatment is reported, and Ui complains about visitor referral, while Shimiko identifies Ui's exceptional restoration expertise. These are positive directed meanings at reported and professional modes. They support an established relation with different access commitments, rather than permitting first-co-occurrence metadata, source filing order or a missing-book episode to manufacture an origin. [U:64/108; S:64/130; P:260–264/379/489/509]"
+      },
+      {
+        "line": 113,
+        "claim": "LIB035",
+        "disposition": "NARROW_AMBIGUOUS_OWNER_ATTRIBUTION_CLARIFICATION",
+        "before": "Ui's reported private-property disagreement is not interchangeable with her personal privacy condition",
+        "after": "Shimiko's reported private-property objection is not interchangeable with Ui's personal privacy condition",
+        "before_complete_paragraph": "Their connected grammar includes quiet requests, descriptions of competence, referral, scrutiny of access and responses to disturbance. Ui's reported private-property disagreement is not interchangeable with her personal privacy condition; Shimiko's public reading-room norms are not identical to the ancient-library door. The shared object language connects them without making every invitation mutual or every reader a committee member. The library relation becomes consequential through those specific directions and contexts, rather than simply their names appearing in the same source pool. [U:58/64/108; S:74–82/130; P:375–445/489/509]",
+        "after_complete_paragraph": "Their connected grammar includes quiet requests, descriptions of competence, referral, scrutiny of access and responses to disturbance. Shimiko's reported private-property objection is not interchangeable with Ui's personal privacy condition; Shimiko's public reading-room norms are not identical to the ancient-library door. The shared object language connects them without making every invitation mutual or every reader a committee member. The library relation becomes consequential through those specific directions and contexts, rather than simply their names appearing in the same source pool. [U:58/64/108; S:74–82/130; P:375–445/489/509]"
+      },
+      {
+        "line": 159,
+        "claim": "LIB048",
+        "disposition": "ORIGINAL_PRODUCER_R04_ACTOR_REPORT_SPLIT_RETAINED",
+        "current_complete_paragraph": "4. A single library mind reading takes shared affiliation and book care as one preference, rule or authority. The distinct sites, Shimiko's reported private-property objection and Ui's visitor-referral complaint, Shimiko's reader matching, EVENT851 rest cost and EVENT852 adjustment disagreement resist it. The relation is significant through different authors and recipients, not through compulsory sameness. [U:64/108; S:74–86/130; P:489/509; V:149; W:152]"
+      }
+    ],
+    "actual_ROOT_reason": "Current maintained E81229 reports Hinata as reporter of Shimiko private-property objection;31 gives Ui visitor-referral complaint. Ui64/108 retains that actor split without naming Ui as reporter. Separate selected Shimiko62-66/72-84/128-132 confirms professional/referral/library/rest distinctions and supplies no different Ui report. ROOT received current13/105/113 at51eca6 and sourceShimiko at05fcad; different-author current source investigation independently confirms13/105 definite and113 ambiguous wording. Reporter stays unnamed in all four corrected body passages, retaining reported mode and clear Ui privacy/referral ownership. No new joint direct scene is inferred.",
+    "actual_ROOT_source_grade": "Selected maintained written analytical arguments only:Ui56-72/101-115,E81219-39,Shimiko62-66/72-84/128-132. No whole-source replay, raw/native/primary/AV inspection or admission. Prior producer and independent grades remain attributed.",
+    "current_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 42056,
+      "sha256": "feba37b2a7d8748b62fb65044abcd454b8963843f98f4c6e9551e460ae952547",
+      "git_blob_oid_of_actual_bytes": "be4d5acf426c38db3caf9eb335a3a6181ca19cd7",
+      "physical_lines": 221
+    },
+    "current_literal52_register": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_LITERAL52_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 816764,
+      "sha256": "555c9c685f27d470fd2a44e6de82186af02574f89688cd80fb2d15abfc56eafc",
+      "git_blob_oid_of_actual_bytes": "fbe12628cb12967ece5ac89b7a9a6d0015d165ef"
+    },
+    "V2_body_and_register_dated_beforeimages": {
+      "body": {
+        "bytes": 42054,
+        "sha256": "8c9f2865c1818a524ee69eeebc0f6927127d7b048f99a48aa26832b5fd37fa0d",
+        "git_blob_oid_of_actual_bytes": "ca05cf507a6dea58de4b47c3913ea12fea45fcc5"
+      },
+      "register": {
+        "bytes": 815563,
+        "sha256": "0bcccc60a22dcae053092f5ae3e314b76386094faadf7ecbc912239604add4fd",
+        "git_blob_oid_of_actual_bytes": "d96023210fddd9f7198a5773d071b29d9a2ffa69"
+      }
+    },
+    "older_current_fields_role": "All prior control fields, original ROOT and independent reviews, R04-only producer proposal and ROOTV2 one-claim adoption remain literal dated snapshots. Their oldbody/register tuples and unchanged220/51 claims govern only those earlier versions. This V3 governs the complete current four-paragraph body/register. Prior zero-findings decisions are qualified by these supported exceptions, not recertified.",
+    "preserved_unaffected_scope": "All217 other body lines,48 other paragraph meanings,all105 current purposes/source inputs, original inverses/author/source grades,all16 finite ends/all14OPEN,identities and named count remain unchanged. Only current body/paragraph bindings propagate necessarily.",
+    "source_runtime_boundary": "Seminar b8 source run38498548758 is provider-completed successful; its housekeeping/final sequence remains separately pending exact verification at this preparation point. Close before next author push. That earlier green does not certify the future correction head.",
+    "fresh_distinct_delta_QA_ROOT_final_freeze_install_preflight_normal_push_and_exacthead301_chain": "REQUIRED_SEPARATE_GATES",
+    "new_package_named_source_identity_reconstruction_model_milestone_credit": 0,
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "PR158": "OPEN_DRAFT_HOLD",
+    "merge_approval": "RESERVED"
+  },
+  "current_Library_fourpassage_and_LIB003_reason_ROOT_control_20261014_V6": {
+    "schema": "LIBRARY_CURRENT_FOURPASSAGE_AND_ONE_AFFECTED_REASON_ROOT_OPERATIVE_CONTROL_V6",
+    "saved_UTC": "2026-10-14T02:35:59.038813+00:00",
+    "ROOT_decision": "ACCEPT_FOUR_SUPPORTED_CURRENT_PARAGRAPHS_AND_ONE_LIB003_INFERENTIAL_MIRROR_WITH_LIMITS;DISTINCT_FINAL_QA_AND_INSTALL_PUBLICATION_GATES_SEPARATE",
+    "actual_current_base_source": "b8e157441faa5beb2e6a90964815164e9f2f9724",
+    "current_main": "d1fb415d893ad3591263dfe5e11ba392ff7f564d",
+    "exact_affected_claims": [
+      "LIB003",
+      "LIB033",
+      "LIB035",
+      "LIB048"
+    ],
+    "body_lines": [
+      13,
+      105,
+      113,
+      159
+    ],
+    "body_raw_V5_noop": true,
+    "current_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 42056,
+      "sha256": "feba37b2a7d8748b62fb65044abcd454b8963843f98f4c6e9551e460ae952547",
+      "git_blob_oid_of_actual_bytes": "be4d5acf426c38db3caf9eb335a3a6181ca19cd7",
+      "physical_lines": 221
+    },
+    "current_literal52_register": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_LITERAL52_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 818475,
+      "sha256": "d4793a73cb4e7fb2fbf828c665a4e46c1ed7c34cf8ca1c43b7f2d8dec06efe21",
+      "git_blob_oid_of_actual_bytes": "9f767614d7c0d455ea2e0179ff001f33996e6549"
+    },
+    "one_reason_qualification": {
+      "schema": "LIBRARY_LIB003_CURRENT_REASON_TARGETED_ROOT_CORRECTION_WITH_EXACT_HISTORICAL_LITERAL_V6",
+      "claim": "LIB003",
+      "current_reason_pointer": "/all_complete_saved_paragraph_claims/2/manual_inferential_join/manual_join_reason",
+      "before_reason_exact": "Role assertions and Ui's report of a property disagreement locate authority without turning a title or epithet into ownership or supernatural power.",
+      "current_reason_exact": "Role assertions and Shimiko's reported property objection locate authority without turning a title or epithet into ownership or supernatural power.",
+      "current_reason_author": "ROOT",
+      "reason": "Necessary operative inferential mirror of the supported/owner-authorized body13 reporter correction. Shimiko is the reported objector; Ui is not the reporter. No new source claim, chapter, actor join, dimension, named duty or package.",
+      "historical_attribution": "Original author/reviewer fields and source joins retain their prior historical roles. The before_reason_exact above preserves the original literal; this current reason is ROOT corrected at the same accepted-derived grade. All other48 unaffectedparagraph meanings, all other current inferential reasons and all105 source/purpose records remain unchanged.",
+      "operative_control": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT_PUBLIC_REVIEW_COMPOSITION_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json",
+        "JSON_pointer": "/current_Library_fourpassage_and_LIB003_reason_ROOT_control_20261014_V6"
+      }
+    },
+    "prior_V5_current_reason_finding": "The prior provisional currentV5 semantic QA and its981 passing preservation checks did not certify this retained erroneous reason. Original receipts remain dated and the new final delta must review this one correction; no green is inherited.",
+    "prior_control_snapshots_role": "All preceding fields, including fourparagraph ROOTV3 authority and its V5 prepared tuple/217-otherlines/48-othermeanings qualifications, remain literal historical preparation/adoption snapshots. This current control governs the same fourparagraph body and the new one-reason register. Prior all-source-joins-unchanged notes are narrowed by the exact LIB003 mirror recorded here. Frozen original author105/reviews/ROOT adoption/inverses remain unchanged; the original reason is retained explicitly.",
+    "actual_semantic_source_grade": "Reuse adequate actual selected maintained Ui/E812/Shimiko reasoning from ROOT current fourparagraph control, not new whole52/105 normal/primary/native/AV receiving.",
+    "direct_owner_scope": "Correct all four passages (Recommended), explicit reply in this producer chat; this one affected reason is a necessary dependent within the same exact3 files. No additional finding or merge approval.",
+    "prior_Seminar_complete_exacthead_sequence": {
+      "source_and_final": "b8e157441faa5beb2e6a90964815164e9f2f9724",
+      "source_run": 38498548758,
+      "housekeeping_noop": 38499584803,
+      "final_run": 38499615824,
+      "all301_discovered_executed_unique_each_full_audit": true,
+      "selection_enabled": false,
+      "all_five_outcome_counters": 0,
+      "trusted_final_status_id": 56287720454,
+      "app_id": 15368,
+      "receipt_bytes": 67101,
+      "receipt_sha256": "c355181046798b5eb488f4925712a457c59739b457470e4b1704c1d629925025",
+      "future_correction_head_not_certified": true
+    },
+    "current_source_packages_named": "143/16",
+    "current_main_packages_named": "133/13",
+    "new_package_named_source_identity_reconstruction_model_milestone_credit": 0,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "PR158": "OPEN_DRAFT_HOLD",
+    "merge_approval": "RESERVED",
+    "fresh_QA_ROOT_final_freeze_install_preflight_livechecks_push_readback_SOURCE_HK_FINAL": "REQUIRED_SEPARATE_CURRENT_GATES"
+  },
+  "ROOT_current_main77bd_control_only_reconciliation_V7": {
+    "schema": "ROOT_LIBRARY_CURRENT_MAIN77BD_CONTROL_ONLY_RECONCILIATION_AND_QUALIFIED_PRIOR_V6_SEMANTIC_ACCEPTANCE_V1",
+    "UTC": "2026-10-14T03:05:30.314133+00:00",
+    "writer": "ROOT continuing series author; sole R/Git writer",
+    "current_candidate_base_commit": "a47c2d52264507052a3c1253b19c7fc53c74046b",
+    "current_candidate_base_tree": "764941a690b33740653511e44c21a66d5c902b23",
+    "current_main": "77bd3f60bff3898c7e3624f5732db9be96396640",
+    "remote_source_before_publication": "b8e157441faa5beb2e6a90964815164e9f2f9724",
+    "ordinary_clean_merge_parents": [
+      "b8e157441faa5beb2e6a90964815164e9f2f9724",
+      "77bd3f60bff3898c7e3624f5732db9be96396640"
+    ],
+    "actual_merge_preservation_receipt": {
+      "private_witness_id": "ROOT_MAIN77BD_ORDINARY_MERGE_RECEIPT_20261014_V1",
+      "bytes": 12298,
+      "sha256": "ba7847f88261d9b00791fd47e482ed423ea4d125388a8c3e5ba665ac21f6ee07",
+      "git_blob_oid_of_actual_bytes": "eebad2a22bea57fff5a46254607ae7b35c401779"
+    },
+    "approved_import_paths": 32,
+    "approved_existing_imports": 17,
+    "approved_new_imports": 15,
+    "generated_shared_routing_imports": 3,
+    "no_main_policy_or_Blue_changes": true,
+    "all7669_other_original_index_rows_and_all_tracked_Blue_blobs_preserved": true,
+    "protected39_unpublished_files": "STAT_ONLY_PRESERVED; NO_BODY_READ_OR_HASH",
+    "index_paths": 7701,
+    "actual_merge_index_author_preflight": "PASS_CURRENT_INDEX7701; distinct new correction preflight remains pending",
+    "current_Library_body_and_claim_register": "V6_BYTE_NOOPS; FOUR_OWNER_APPROVED_PASSAGES_AND_ONE_LIB003_OPERATIVE_REASON_UNCHANGED",
+    "prior_V6_base_and_main": "B8/D1 are dated beforeimages, not current merged-base certification",
+    "prior_semantic_review": "V6 distinct reviewer12812/743390069cdc27473dab556d970411852153642e5938434336e814ef7f2e0794,112 delta checks and adequate prior981 V5-to-B8 preservation checks remain at those exact scopes; no semantic replay or extra source credit",
+    "originals_and_historical_review_or_adoption_records": "ALL RETAINED; current qualification is additive and does not rewrite earlier decisions",
+    "prior_b8_exact_CI": "SOURCE38498548758/HK38499584803/FINAL38499615824 certify B8 only; neither this clean local merge nor future Library author commit is certified by them",
+    "current_publication_status": "NOT_INSTALLED; FRESH_V7_DELTA_QA,EXACT3_INSTALL,CURRENT7701_PREFLIGHT,OWNER_COMMIT,LIVE_PROVIDER_CHECK,PUSH,REMOTE_READBACK,NEW_SOURCE_HK_FINAL_SEQUENCE_PENDING",
+    "package_named_counts": "source143/16;main133/13; correction earns zero new packages or duties",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "new_primary_native_AV_source_or_identity_credit": 0,
+    "PR158": "OPEN_DRAFT_HOLD; next178 milestone unreached",
+    "merge_approval": "RESERVED"
   }
 }

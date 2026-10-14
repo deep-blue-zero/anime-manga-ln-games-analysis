@@ -10,7 +10,7 @@ Reading, making, sorting, sharing chocolate, coffee, company and sleep are subst
 
 ## 1. Formal authority: represented appointments do not supply a universal charter
 
-Ui identifies herself as library manager and Committee chair, and Shimiko describes her exceptional ancient-text expertise. Those assertions establish represented roles and a reason to seek particular help. They do not prove that all spaces a librarian enters are the chair's property, that an expert owns every visitor's response, or that the reported magician epithet names supernatural power. Ui's report of Shimiko's objection to treating the library as private property is institutionally consequential precisely because it distinguishes the office, cared-for objects and a person's space. It remains reported disagreement, rather than a newly heard direct joint scene. [U:54/64–70/108/116; S:64/74–82/130; P:455/509]
+Ui identifies herself as library manager and Committee chair, and Shimiko describes her exceptional ancient-text expertise. Those assertions establish represented roles and a reason to seek particular help. They do not prove that all spaces a librarian enters are the chair's property, that an expert owns every visitor's response, or that the reported magician epithet names supernatural power. Shimiko's reported objection to treating the library as private property is institutionally consequential precisely because it distinguishes the office, cared-for objects and a person's space. It remains reported disagreement, rather than a newly heard direct joint scene. [U:54/64–70/108/116; S:64/74–82/130; P:455/509]
 
 EVENT852 supplies a different formal act: Nagisa secretly commissions the teacher and Library Committee, permits JTF cooperation and appoints Shimiko temporary external advisor. The commission actually occurs in represented dialogue while the alleged intentional attack remains unproved. Later library approval changes local procedure; the exchange proposal remains represented and prospective. They do not authenticate a complete charter, unrestricted legal power, a treaty document or all future circulation. Appointment, practical decision and the reach of authority must remain separate claims. [W:106–112/150–159/173; S:84–86]
 
@@ -102,7 +102,7 @@ EVENT852 strengthens the thesis through a locally workable change with actual ne
 
 ### Origin and first meaningful contact
 
-The received source-local relation already contains affiliation, referral and disagreement; it does not narrate a historically first meeting. Ui reports Shimiko's objection to private-property treatment and complains about visitor referral, while Shimiko identifies Ui's exceptional restoration expertise. These are positive directed meanings at reported and professional modes. They support an established relation with different access commitments, rather than permitting first-co-occurrence metadata, source filing order or a missing-book episode to manufacture an origin. [U:64/108; S:64/130; P:260–264/379/489/509]
+The received source-local relation already contains affiliation, referral and disagreement; it does not narrate a historically first meeting. Shimiko's objection to private-property treatment is reported, and Ui complains about visitor referral, while Shimiko identifies Ui's exceptional restoration expertise. These are positive directed meanings at reported and professional modes. They support an established relation with different access commitments, rather than permitting first-co-occurrence metadata, source filing order or a missing-book episode to manufacture an origin. [U:64/108; S:64/130; P:260–264/379/489/509]
 
 ### Initial asymmetry
 
@@ -110,7 +110,7 @@ Ui has the represented chair role, guarded space and ancient-text specialty; Shi
 
 ### Recurring relational grammar
 
-Their connected grammar includes quiet requests, descriptions of competence, referral, scrutiny of access and responses to disturbance. Ui's reported private-property disagreement is not interchangeable with her personal privacy condition; Shimiko's public reading-room norms are not identical to the ancient-library door. The shared object language connects them without making every invitation mutual or every reader a committee member. The library relation becomes consequential through those specific directions and contexts, rather than simply their names appearing in the same source pool. [U:58/64/108; S:74–82/130; P:375–445/489/509]
+Their connected grammar includes quiet requests, descriptions of competence, referral, scrutiny of access and responses to disturbance. Shimiko's reported private-property objection is not interchangeable with Ui's personal privacy condition; Shimiko's public reading-room norms are not identical to the ancient-library door. The shared object language connects them without making every invitation mutual or every reader a committee member. The library relation becomes consequential through those specific directions and contexts, rather than simply their names appearing in the same source pool. [U:58/64/108; S:74–82/130; P:375–445/489/509]
 
 ### Conflict pattern
 
@@ -156,7 +156,7 @@ The teacher and Shimiko actually stop the EVENT852 clash and help formulate loca
 
 3. A flawless expert system reading can cite Ui's specialty and Shimiko's profiled collection knowledge and successful search. It cannot turn a profile into audited omniscience, a failed treasure into a found book, a referral into performed restoration, or an inner estimate into validated throughput. Competence remains positively located in different tasks and finite endings. [P:435–461; U:64–70; S:64/68/156; V:149]
 
-4. A single library mind reading takes shared affiliation and book care as one preference, rule or authority. The distinct sites, Ui's private-property/referral complaints, Shimiko's reader matching, EVENT851 rest cost and EVENT852 adjustment disagreement resist it. The relation is significant through different authors and recipients, not through compulsory sameness. [U:64/108; S:74–86/130; P:489/509; V:149; W:152]
+4. A single library mind reading takes shared affiliation and book care as one preference, rule or authority. The distinct sites, Shimiko's reported private-property objection and Ui's visitor-referral complaint, Shimiko's reader matching, EVENT851 rest cost and EVENT852 adjustment disagreement resist it. The relation is significant through different authors and recipients, not through compulsory sameness. [U:64/108; S:74–86/130; P:489/509; V:149; W:152]
 
 5. A service-and-productivity reading treats leisure as reward or fuel for work. The failed treasure's enjoyed company, personally wanted reading, bookmark/costume making, specific coffee, birthday alternative and actually good rest resist that reduction. Their value is intrinsic while they keep achieved, wanted and incomplete states. Neither political usefulness nor a high-stakes consequence is required. [P:268/381–461; U:40/74–82; S:90–100; W:169]
 
