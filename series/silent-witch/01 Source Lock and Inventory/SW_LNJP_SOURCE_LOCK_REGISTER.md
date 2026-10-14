@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.1"
+version: "1.2"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -17,7 +17,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
-locked_units: [V02]
+locked_units: [V02, V03]
 literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14"
 ---
 
@@ -94,3 +94,56 @@ Common limitations: each witness is a supplied reflowable EPUB whose equivalence
 | validation.json | `2d36de183e56661ca09d18ddd2954570162cbf06502b0bd8fe9eb379261698a4` |
 
 **Use in the V02 reading.** Every admitted image was viewed at source resolution; the [V02 reading](../02%20Sequential%20Readings/SW_V02_DEEP_READING.md) cites 479 distinct locators, all present in the element map, and quotes 29 short fragments, each verified in the base text of a cited block. The classes held under full reading; no member was reclassified.
+
+## V03 — `SW-LNJP-V03`
+
+*Locked 2026-10-14, before any V03 narrative member was rendered for reading. From V03 the technical inspection suppresses the opening text of narrative-length members; the V02 and V03 inspections did print 24-character heads, disclosed in each volume’s entry freeze.*
+
+| Field | Verified value |
+|---|---|
+| Collection filename | Secrets of the Silent Witch - Volume 03 [Japanese].epub |
+| Bytes / SHA-256 | 16,512,601 / `38989102ddc9848024e67fd9d241bb4a1d4b24db166d39b663c7311a2d86efa9`; equal to the source-map row and the retained audit. |
+| OPF title / creator | サイレント・ウィッチ III　沈黙の魔女の隠しごと / 依空 まつり |
+| Publisher / imprint | 株式会社ＫＡＤＯＫＡＷＡ / カドカワBOOKS |
+| Identifier | `B09R957MLJ`, an ASIN, not an ISBN. |
+| Electronic publication / revision | Colophon: 2022-02-10, ver.001. |
+| Declared print basis | First edition, 2022-02-10. |
+| Package form | Converted witness, like V01: OPF credits UnpackKindleS ver.20220126 and records modification 2022-07-16. |
+| Archive | 87 members, CRC pass. 84 manifest resources; 45 XHTML documents, 43 declaring Japanese and the image-only cover undeclared; 7 stylesheets; 119 local references resolved, none external; 31 images decoded. |
+| Navigation | EPUB nav 22 entries; NCX 19; the in-book linked contents 16, the publisher contents a further 2. |
+
+**Spine and admission classes.** Paths share the prefix `OEBPS/Text/`.
+
+| Spine | Member(s) | Class / admission |
+|---|---|---|
+| 1 | p-cover | Source-identifying cover. |
+| 2–4 | p-fmatter-001 to 003 | Colour frontispieces; visual channel. |
+| 5 | p-caution | Publisher notice; excluded. |
+| 6–10 | p-toc-001, p-titlepage, p-001 credits, p-toc-002 illustrated contents, p-toc-003 linked contents | Source-identifying paratext. |
+| 11 | p-002 | Prologue. |
+| 12 | p-003 | Narrative illustration. |
+| 13–23 | p-004 to p-014 | Chapters one to eleven, in order. |
+| 24 | p-015 | Narrative illustration. |
+| 25 | p-016 | Narrative continuation of chapter eleven. |
+| 26 | p-017 | Epilogue. |
+| 27 | p-018 | Illustrated secret-episode heading. |
+| 28 | p-019 | In-volume supplemental narrative, the secret episode. |
+| 29–34 | p-020 to p-025 | Image-only character reference. |
+| 35 | p-026 | Afterword. |
+| 36–40 | p-027 to p-031 | **Unrelated publisher preview**: 聖女じゃなかったので、王宮でのんびりご飯を作ることにしました, electronic trial edition. Exactly the five members in the retained audit; 331 blocks excluded. |
+| 41 | p-allcover-001 | Full jacket; source-identifying paratext. |
+| 42 | p-colophon | Edition paratext. |
+| 43–44 | p-colophon2, p-bookwalker | Rights notice and store image; excluded. |
+
+**Normalization.** 11,543 body elements and 5,036 blocks round-tripped. The narrative projection holds 4,620 blocks, 169,761 characters including line breaks and image placeholders. 1,618 ruby elements retained. Technical samples: S11:E000068, S11:E000013, S13:E000004, S26:E000740, S28:E000355. A second build reproduced the package SHA-256.
+
+| Local object | SHA-256 |
+|---|---|
+| SW-LNJP-V03_FIDELITY_LOCATORS_V1.zip; 17,795,276 bytes | `5110d9e3ef5e1272f3ee2e861abae78c46c62a0823fc70d07a64022f3ee16c84` |
+| package-manifest.json | `91c86a9f1f960e3069c9093fe00cb2ce6e121f9f90be638ed3a31ee3f425cff1` |
+| normalizer.py (generalized driver) | `4bd298eb44220135ecc55311accc4b712b9b0ee13857d485ee090192254fd5ff` |
+| volume-config.json | `4e352223b56997b0368ff6e50a2cb7cc5d9e913020fc95151e531e13ad139b92` |
+| narrative-base.txt | `77dd140c58402265f84b49435a0b439d51a12e7c20f9d33784040942721b4712` |
+| block-map.jsonl | `35578e64cc69039648d00fae67214d71e35a68c466341c1d1d61884ff026cb64` |
+| element-locators.jsonl | `f2c3f6849be534b48982d4349a7773f1f430f0dff47483a57cc0f849e0f1c2f6` |
+| validation.json | `465a3e1055d5f7a7b2ca870c84f0c44cd42fbe1e835955de75bba94ea5182b3d` |

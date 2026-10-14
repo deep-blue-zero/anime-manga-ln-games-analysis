@@ -5,8 +5,9 @@ artifact_type: deep_reading
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.0"
+version: "1.1"
 last_updated: "2026-10-14"
+editorial_revision: "1.1 post-closure disclosure of pre-reading inspection exposure; no claim, observation, locator, quotation or freeze changed"
 status: canonical
 scope: "Complete Japanese-primary reading of numbered LN Volume 02: prologue, eleven chapters, epilogue, in-volume secret episode, every illustration and every paratext channel; the unrelated publisher preview is excluded"
 source_boundary: "Japanese LN V01 and V02 only, witnesses SW-LNJP-V01 and SW-LNJP-V02; no later numbered volume, companion, web, adaptation, translation or commentary witness"
@@ -117,6 +118,8 @@ The secret episode follows Felix to the ruined fountain, where he overhears Loui
 - **Predictions:** none registered. The model reading this volume has disclosed pretraining familiarity with the franchise, so a prediction now would not be a blind test. The V01 bounded expectation, that someone such as Cyril approaches the truth about Monica before Felix, remains an unregistered hypothesis and will be discussed, not scored.
 
 The entry record above is reproduced byte for byte from the scratch file whose SHA-256, `79b3bc022ccf7b8e0e05520471b2930694476f8680bb993535f25da892eba80f`, was written into the message of commit `c0a6deac15247846760cf408d3dfe67bc2dd5437` at 2026-10-14T05:24Z, before the first V02 narrative member was rendered. Sections 2 and 4 of this reading, joined, are that file.
+
+**Post-closure disclosure, 2026-10-14.** The technical spine inspection used to classify members at the V02 lock printed the first 24 characters of every member. For narrative members these were the chapter headings, already listed in the contents, and one opening clause, the secret episode’s first words, about Felix leaving the council room. This was exposure before reading, not reading, and the entry record above does not mention it. No entry statement, claim or freeze depended on it. The inspection was changed for later units to suppress such text, and the V03 entry freeze discloses the same exposure for V03.
 
 ## 5. Full admitted chapter and scene coverage
 
