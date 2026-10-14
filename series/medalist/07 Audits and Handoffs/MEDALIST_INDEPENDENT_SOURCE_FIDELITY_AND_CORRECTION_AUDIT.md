@@ -5,7 +5,7 @@ artifact_type: "audit"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.0"
+version: "1.1"
 status: "canonical"
 scope: "Staged original-source reassessment, governed corrections, visual verification, adversarial tests and reconstruction limits at the existing boundary"
 canonical_home: "series/medalist/07 Audits and Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md"
@@ -39,11 +39,13 @@ An isolated H: checkout was used. [Draft PR167](https://github.com/deep-blue-zer
 
 ## Method, coverage and count rules
 
+**Owner's guiding principle: analytical accuracy and source fidelity take precedence over process.** Integrity procedures serve that goal. A known source-verified error must not remain current analytical authority merely because a routine process preserves its earlier wording. When a procedure obstructs a necessary correction, identify the exact conflict, use a narrow documented exception within the owner's authorized scope, preserve before/after evidence and provenance, and verify the resulting downstream meaning. Here current claims and syntheses are corrected while earlier formulations remain explicitly historical with operative errata. No procedural green result substitutes for original-source inspection. This principle does not supply missing evidence or expand the owner's separately stated source, path and no-main boundaries; unresolved operational status is reported truthfully.
+
 This is a **staged independent reassessment, not a blind study**. Existing syntheses, frozen readings and owner flags informed target selection. Readers inspected adequate original Japanese images and saved source accounts before their final comparisons; later targeted returns for numerical/protocol details are disclosed. Root reviewed the semantic records and corrected prose, and directly inspected the mandatory rival scene and other consequential late pages plus diagnostic cross-checks. A hash or identifier check is supplementary to that human-readable semantic work.
 
 All32 required corpus texts were read completely across the team:15 frozen manga readings,2 frozen fanbook audits,7 cumulative ledgers and8 syntheses. Current checklist/AGENTS/authority, entrypoint, method, architecture, reading/reconstruction specifications, source locks, readiness/role-gap/release audits and applicable publication policies were recovered. Complete text reading does not mean a new complete original-media reading. The receipt matrix distinguishes fully read text from selective additional reads and perception from byte processing.
 
-There are **60 distinct consequential principal clusters**, not60 citation IDs. Two overlapping proposals were consolidated:EC11 into LC05’s childhood/cost frame and JC12 into FC04’s duration test. JC06 separately tests the attested perceptual faculty and its unproved origin. Baseline formulations/current claim versions below refer to f81; the accepted output advances only MD-CL-0012@15→@16, with MD-RV-0279. Other current formulations survive with explicit historical errata or bounded derivative repairs.
+There are **60 distinct consequential principal clusters**, not60 citation IDs. Two overlapping proposals were consolidated:EC11 into LC05’s childhood/cost frame and JC12 into FC04’s duration test. JC06 separately tests the attested perceptual faculty and its unproved origin. Baseline formulations/current claim versions below refer to f81; the accepted output advances MD-CL-0012@15→@16 (MD-RV-0279) and MD-CL-0023@9→@10 (MD-RV-0280). The latter closes a remaining light-motif propagation defect found after the first author commit. Other current formulations survive with explicit historical errata or bounded derivative repairs.
 
 | Final verdict | Clusters |
 | --- | ---: |
@@ -56,9 +58,9 @@ There are **60 distinct consequential principal clusters**, not60 citation IDs. 
 
 Zero UNRESOLVED principal verdicts does not mean all interpretation is resolved:causal exclusivity, durable uptake, future conduct, hidden motives and physical facing geometry remain uncertain in the bounded records. FC04’s worker verdictCONTRADICTED is retained as prior judgment; the final verdict isOVERSTATED because the four-year statement lacks warrant without establishing a precise alternative elapsed duration.
 
-**Actual accepted original inspection:**489 distinct admitted Japanese image occurrences across all17locked witnesses. Reader counts before deduplication:early69,middle98,junior91,late114,speech/fanbook80,root69=521;32 repeated observer-page views are removed. The27 meaningful visual sequences cover199 distinct admitted original occurrences; additional pages support semantic/speech checks. Individual originals were1125×1600 or1530×2160 and displayed at original detail. Extraction alone is never counted as perception.
+**Actual accepted original inspection:**492 distinct admitted Japanese image occurrences across all17locked witnesses. Reader counts before deduplication:early69,middle98,junior91,late114,speech/fanbook80,root72=524;32 repeated observer-page views are removed. The27 meaningful visual sequences cover199 distinct admitted original occurrences; additional pages support semantic/speech checks. Individual originals were1125×1600 or1530×2160 and displayed at original detail. Extraction alone is never counted as perception.
 
-One witness-selection error was caught:the junior worker viewed three supplementary V13CBZ pages0022–0024 and initially mislabelled them W01. The CBZ is the unadmitted W02 collation aid, not byte-equivalent to the admitted EPUB. The earlier private packet and explicit correction are preserved; those three views are rejected from accepted evidence. Root independently inspected admitted W01 EPUB0022–0026 and verified47.96. Thus the actual total includes three rejected views outside the489 accepted Japanese occurrences. Eight late extraction-only pages are not that worker’s claimed views; separately attested root inspection covers its own coordinates.
+One witness-selection error was caught:the junior worker viewed three supplementary V13CBZ pages0022–0024 and initially mislabelled them W01. The CBZ is the unadmitted W02 collation aid, not byte-equivalent to the admitted EPUB. The earlier private packet and explicit correction are preserved; those three views are rejected from accepted evidence. Root independently inspected admitted W01 EPUB0022–0026 and verified47.96. Thus the actual total includes three rejected views outside the492 accepted Japanese occurrences. Eight late extraction-only pages are not that worker’s claimed views; separately attested root inspection covers its own coordinates.
 
 The owner later permitted higher-resolution English CBZ illustration/background cross-checks. Two auxiliary image resources, representing three matched page positions, were inspected separately:V03p093 at3450×4913 and V07combinedp116–117 at6900×4913. They match selected Japanese drawing details; translated speech/score overlays, whole-edition equivalence and Japanese physical binding gain no authority. English originals are locally present only throughV12. Japanese V13–V15 originals were adequate for the claims made; no unresolved source-access/resolution blocker remains in this sample.
 
@@ -75,6 +77,7 @@ The integrated sentence reversed direction and transformed interiority into a co
 | Defect / earliest authority | Accepted source resolution | Current repair / preserved history |
 | --- | --- | --- |
 |Rival direction/receipt:integrated, supporting, V13 rhetorical “answer”, RL0300/PAIR0005, CS0279,VF0116|Hikaru’s private strongest-self suitability; separate Inori thought; actual earlier promise received|Current integrated/supporting/Inori wording; explicit claims/relationship/character/chronology/visual errata. Frozen V13 untouched. |
+|Light-of-hope direction/receipt:form motif/key words, activeCL0023@9|V12Hikaru→herself; V13Inori→Hikaru; separate private formulations, no depicted hearing|CL0023@10/RV0280; form/Hikaru/Inori clarifications and light/channel errata; RC01 follow-up, no new cluster. |
 |Hikaru age13/unresolved derivatives despite later erratum|V13 profile0125 explicitly12, first-year middle school|Adult heading/body/dorm and supporting age resolved at that checkpoint. Earlier frozen projections and original release erratum retained. |
 |Spin milestones one event late|V03 Kyoto0095 FSSp1; secondMeikō0159 FCSp2/LSp3/CCoSp4|Skating narrative repaired; its accurate table and PERF0023/0027 preserved. |
 |Highest PCS of allfive|V14 four printed PCS totals; Inori30.36,next30.22;Baek71.24 has no component breakdown|Skating/Inori narrowed to highest printed; historicalCL0008@13 erratum, current0008@14/0030@2 survive. |
@@ -92,7 +95,17 @@ The integrated sentence reversed direction and transformed interiority into a co
 |Five identical adult answers / never bodily override / exhaustive judge information / total stairwell disclosure|Related propositions and methods differ;V03/V04/V13 bodily limits;selected score data;older career-ending belief unvoiced|Integrated bounded without replacement. Purpose/cost thesis survives as one organizing thread; genuine counterevidence remains. |
 |Current fanbook HOLD despite admitted audits|FB01/FB02 already admitted/frozen with coverage/exclusions|Source-map current register/status table repaired; earlier activation/reconnaissance history retained. |
 
-The numeric delay changes an active material claim, requiring@16. The other corrections do not rewrite past claim rows or allocate artificial new versions when the current formulation does not repeat the defect. All eight current dependency sections and claim tables were checked. All17frozen manga/fanbook texts and prior release/readiness audits remain byte-identical to the input; ledger bodies before appended addenda retain their historical rows. Source-boundary/method/architecture/reconstruction responsibility is unchanged.
+The numeric delay changes an active material claim, requiring0012@16; the light-motif receipt bound changes0023@9 to@10. The other corrections do not rewrite past claim rows or allocate artificial new versions when the current formulation does not repeat the defect. All eight current dependency sections and claim tables were checked. All17frozen manga/fanbook texts and prior release/readiness audits remain byte-identical to the input; ledger bodies before appended addenda retain their historical rows. Source-boundary/method/architecture/reconstruction responsibility is unchanged.
+
+### Light-motif propagation closure after the first author commit
+
+The first author commit, `1c27508547c52fd04159ea0bcbf7ee5d01c761fb`, repaired the mandatory suitability direction but left the form motif table (“the name received as hoped”), its key-word paragraph (“used by each girl of the other in V13”) and active `MD-CL-0023@9` insufficiently bounded. The parent's independent follow-up exposed that residual defect. This is disclosed rather than counted as a new principal cluster.
+
+Root then inspected original V12/W01 CBZ0047–0049 at1125×1600 and rechecked the previously viewed V13/W01 EPUB0101–0102. V12 dates the train departure to4September, maps the later November encounter and gives Hikaru's solitary resolve「希望の光に私はなるんだ」. The first-person subject is Hikaru and the intended light is herself. In V13, Inori privately regards Hikaru as the light that keeps illuminating her. The formulation is not Hikaru calling Inori that light, and no hearing of either private statement is depicted. The frozen V13 Written Japanese section already distinguishes heroine→rival from rival→herself; its rhetorical “answer” remains frozen and is governed by the channel errata.
+
+The correction advances `MD-CL-0023@9→@10` / `MD-RV-0280`, repairs both operative form passages and the form/Hikaru dependency sections, clarifies Inori's private naming, and appends visual/character/relationship history errata. The three affected syntheses advance to1.2; the other five remain1.1. The follow-up changes no freeze, source boundary, stable observation, prediction, readiness outcome or operational rule.
+
+The three V12 diagnostic pages were absent from the first489-page union and therefore increase the current distinct admitted inspection count to492 (V12:26→29; root:69→72; observer-page total521→524, with32 duplicates still removed). The existing27 formal visual sequences/199 occurrences and60 principal verdicts remain unchanged; these three pages are channel/wording checks, not a newly claimed formal sequence. The prior private489-page receipt is preserved; the current supplemental receipt records exact members, hashes, dimensions and actual perception, reflected in the sanitized manifest below. Frozen reading bodies and all pre-follow-up ledger rows are retained.
 
 ## Adversarial integrated-interpretation tests
 
@@ -125,7 +138,7 @@ The full diff must pass the live CHANGE_INTEGRATION_CHECKLIST, current/index rou
 
 The published source commit is recovered from the containing Git revision, rather than embedding its future hash in its own contents. Fresh source/main refs, author identity, exact explicit staged paths and ordinary branch ancestry must be checked immediately before commit/push. Only series/medalist is pushed, without force. Publication is complete only when exact-source full audit, required housekeeping and final exact-head Repository integration audit are confirmed; older301-test/main77bd receipts do not validate this new tranche. Exact run/head receipts and ending SHA belong in draftPR167 and the final handoff. The draft hold remains after validation.
 
-One pre-existing governance gap is disclosed:the Medalist entrypoint’s SEQUENTIAL_ANALYSIS_LOCK remainsOPEN although the run is complete, while the global terminal-closure control has no Medalist row. The owner authorized only series/medalist corrections, so this task does not change global controls or weaken the method. It is a separate governance follow-up, not an authorization to read more narrative.
+**Unresolved source-lock blocker, independently tested:** live initiation policy §3.8 requires the current lock to be CLOSED when the authorized terminal boundary is complete. OPEN has no different supported meaning for this admitted-evidence reassessment. Root staged an entrypoint-only CLOSED trial; native current/index routing preflight failed with “series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md: substantive sequential analysis requires sequential_analysis_lock OPEN”. Validator lines1925–1939 require OPEN for the fifteen classified manga readings introduced after the immutable activation baseline unless a reviewed terminal_closures record preserves them behind CLOSED. The global control currently has no Medalist row. A private concrete proposal seals exactly15 manga reading paths atf81, independently verifies both fanbooks unchanged (17 supporting seals), and marks supplemental execution required; fanbook audit roles are not incorrectly added to the sequential seal set. Root did not alter the baseline, validator or global control. After this diagnosis the owner explicitly answered “Keep series-only scope; report the lock blocker”. The published entrypoint therefore retains OPEN with this explicit inconsistency, completed/no-next-source state and CLOSED supplemental lane; it does not relabel OPEN as permission for reassessment or new source admission. A separately authorized, reviewed narrow global closure record plus matching terminal front-matter states is needed to close the source-admission gate. This specific follow-up remains blocked by scope, while the authorized source-fidelity corrections can pass existing publication validation.
 
 ## Remaining priorities, ranked by analytical consequence
 
@@ -134,7 +147,7 @@ One pre-existing governance gap is disclosed:the Medalist entrypoint’s SEQUENT
 3. **Causal origins and negative constraints:**distinguish retrospective diagnosis from unique cause of Tsukasa’s eye/ethics and Inori’s capacity; broaden counterexample/transfer tests before any operational rule proposal.
 4. **Visual geometry beyond the sample:**Japanese physical facing-page bindings/page turns and uninspected original sequences remain inherited descriptions. English packed spreads supply auxiliary matching, not universal equivalence.
 5. **Language sampling:**more ordinary/institutional/stranger/sibling speech, humor/roleplay versus habitual register and actual regional forms with exceptions. No acoustic reconstruction from print.
-6. **Governance follow-up:**resolve the existing terminal-closure/lock discrepancy under appropriate global authority while retaining this no-main hold.
+6. **Scoped governance blocker:**separately authorize/review the exact fifteen-seal Medalist terminal-closure record and synchronized terminal front-matter, then validate CLOSED without weakening controls or admitting new sources; retain this no-main hold. The owner explicitly kept this publication series-only after the failed narrow trial.
 
 ## Cluster records
 
@@ -1186,9 +1199,9 @@ Local EC/MC/JC/LC/FC/RC labels identify audit clusters, not new literary-evidenc
 
 **Stable authorities, baseline current versions:** MD-EV-V13-0025; MD-RL-0300; MD-RL-0301; MD-VF-0116; MD-KN-0127; MD-CL-0003@14; MD-CL-0023@9. Active visual0012 dependencies use@16 after this correction.
 
-**Original source locator(s):** MD-MG-JP-TB-V013-W01; 52; actually inspected original occurrence(s) 100; 101; 102; unballooned Hikaru first-person text, reaching hand, seated Inori and separate light thought. The witness/member manifest below resolves exact resources and hashes; Score/component and panel region are retained here.
+**Original source locator(s):** MD-MG-JP-TB-V013-W01; Score52; actually inspected original occurrence(s) 100; 101; 102; unballooned Hikaru first-person text, reaching hand, seated Inori and separate light thought. Follow-up: MD-MG-JP-TB-V012-W01; Score46; actually inspected original occurrences0047–0049, September4 train/season schedule and Hikaru’s private first-person resolve. The witness/member manifest below resolves exact resources and hashes; Score/component and panel region are retained here.
 
-**Diagnostic wording/observation:** あなたのライバルにふさわしいのは私だけ; 最強の私だけ.
+**Diagnostic wording/observation:** あなたのライバルにふさわしいのは私だけ; 最強の私だけ. Follow-up V12: 希望の光に私はなるんだ (Hikaru→herself); V13: Inori’s 私をずっと照らしてくれる / 希望の光だ (Inori→Hikaru).
 
 **Channel and knowledge:** Hikaru interior first-person/second-person address, separate Inori interior; gesture is visible but proposition is not depicted spoken. あなた refers to Inori, named いのりちゃん; 私 to Hikaru. Inori sees the skate/reaching gesture and previously heard the promise to skate for her. She is not shown hearing the exclusivity thought. Hikaru is not shown hearing Inori’s light thought or knowing her hidden debt.
 
@@ -1198,7 +1211,7 @@ Local EC/MC/JC/LC/FC/RC labels identify audit clusters, not new literary-evidenc
 
 **Strongest counterreading/uncertainty:** The hand can function as a nonverbal summons and her earlier spoken pledge reaches Inori. That does not reverse the judgment or make its private wording received. Calling the nearby light thought an answer can describe composition only.
 
-**Dependencies/disposition/final verification:** integrated rivalry passage; supporting study rivalry passages; MD-RL-0300; MD-PAIR-0005 V13 projection; MD-CS-0279; MD-VF-0116; frozen V13 prose. Correct both current syntheses, qualify Inori monograph rivalry wording, append retained-history channel/direction errata and a current relationship projection. Preserve MD-KN-0127’s already correct limit and current claim0003 formulation; no new claim version is needed for a derivative misattribution. Root accepted the correction or retained its stated bound after source-based comparison; all affected current formulations and historical erratum routes are represented in the correction register.
+**Dependencies/disposition/final verification:** integrated rivalry passage; supporting study rivalry passages; MD-RL-0300; MD-PAIR-0005 V13 projection; MD-CS-0279; MD-VF-0116; frozen V13 prose. Correct both current syntheses, qualify Inori monograph rivalry wording, append retained-history channel/direction errata and a current relationship projection. Preserve MD-KN-0127’s already correct limit and current claim0003 formulation. The rival-suitability derivative repair needs no0003 version. The later light-motif propagation review additionally found an active0023@9 receipt overstatement:0023@10/RV0280 correct it; form/Hikaru dependencies advance and visual/character/relationship light errata route the retained history. Root accepted the correction or retained its stated bound after source-based comparison; all affected current formulations and historical erratum routes are represented in the correction register.
 
 ### RC02 — Withdrawal of the Yodaka likeness is Hikaru’s recognition
 
@@ -1417,7 +1430,7 @@ This sanitized manifest retains exact selected source resources and hashes witho
 |V09/MD-MG-JP-TB-V009-W01|30|3ed1853cf7d76fbc182f8adb155969eb75f4fb0344a5eb64ed318b756ad5e816|
 |V10/MD-MG-JP-TB-V010-W01|22|c8386a98bb46255c6c197a8a81d47b820385950bd557c9c1cf27cfadeb8bb8c8|
 |V11/MD-MG-JP-TB-V011-W01|13|9a62b599a7f63ae05fb9de0cbf33b3599bc03232fb05c291ca0c1068cf513479|
-|V12/MD-MG-JP-TB-V012-W01|26|000a1e1b869f4654881985d31eff005660fab2b084fa1d7278b9317aeddee6a4|
+|V12/MD-MG-JP-TB-V012-W01|29|000a1e1b869f4654881985d31eff005660fab2b084fa1d7278b9317aeddee6a4|
 |V13/MD-MG-JP-TB-V013-W01|72|995df762df6d2dd376e581bc136dde9f473a601764dc7f6d67047c5ec26d4d75|
 |V14/MD-MG-JP-TB-V014-W01|50|57d1d9b915b3a375fa1dc5070aca376911c63bd857d12e11bbf2b6685209b960|
 |V15/MD-MG-JP-TB-V015-W01|63|ff5e8d1929625d2c35116ec32e18d33ef76a3204484ae6c5f55b9d57359531d9|
@@ -1715,6 +1728,9 @@ This sanitized manifest retains exact selected source resources and hashes witho
 |V12/0044|0044.jpg|08da1297cb95fcb6528c477ba80c68dd833e5376c8b3b6342803509e8c989233|1125; 1600|junior_sources|
 |V12/0045|0045.jpg|8c5ae37ba3777e8c9765e85819cbb823fbed51701f50f79683b6da40b097f6a8|1125; 1600|junior_sources|
 |V12/0046|0046.jpg|f07832b44dd107ec172f7f5cb18a940fc6da934c9b0bce316254c72df4440d78|1125; 1600|junior_sources|
+|V12/0047|0047.jpg|91f9ad07df24c9c7bc660628025816b544449cf6993f92f46ceee5a97ece3046|1125; 1600|root|
+|V12/0048|0048.jpg|c2fba8e9a9de42352f37a2822a3cc765afc5345cc3ebc71f58776ba7297296e3|1125; 1600|root|
+|V12/0049|0049.jpg|e3f048961e0205562a81e1409c8d1de720acdd4f5bb49e239e7f89084032512c|1125; 1600|root|
 |V12/0076|0076.jpg|7a4df79a0446b6f5f978df3eea45e547f31e41a9c5f778cae30548f703eca990|1125; 1600|junior_sources|
 |V12/0077|0077.jpg|a714fc3d480beac460fa9c85dec375b77477d5aaa68ba3544de322bb1d9c0efc|1125; 1600|junior_sources|
 |V12/0078|0078.jpg|1fb8d010756c6e72cd686b237691a18d3917648b31c31a726d243b40370edcc9|1125; 1600|junior_sources|

@@ -5,7 +5,7 @@ artifact_type: "relationship_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.17"
+version: "1.18"
 status: "canonical"
 scope: "Directional interpersonal interpretations and transitions among athletes, coaches, peers and families"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_RELATIONSHIP_RIVALRY_AND_MENTORSHIP_LEDGER.md"
@@ -861,3 +861,7 @@ The [audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY
 | MD-PAIR-0005, Hikaru→Inori / Inori→Hikaru | Effective story endpoint V13, with FB01/FB02 at own layers | Actual thicket promise to skate for Inori and observed free skate/gesture coexist with two separate private formulations; read MD-RL-0300/0301 through the erratum | Neither private exclusivity nor light thought is shown communicated; no post-V13 state filled |
 
 The V05 support/work declaration to Kago and V06 use-of-possibility account remain thematically relevant but are not both explicit sacrifice denials. Inori is not their depicted recipient. In the V15 received speech, the original entrusted-role word is 役目, not the frozen reading’s 役割. Receipt, interpretation and durable behavioral effect remain separate. The [speech audit](../07%20Audits%20and%20Handoffs/MEDALIST_JAPANESE_SPEECH_AND_INTERLOCUTOR_AUDIT_THROUGH_V15.md) owns located interlocutor examples; no parallel speech ledger or new relationship event is created.
+
+### Light-of-hope direction and receipt (2026-10-14)
+
+**MD-RL-0301 / MD-PAIR-0005:** Inori→Hikaru is the direction of the V13 private light-of-hope thought. The matching V12 phrase is Hikaru→herself, alone on the earlier V12 train (`MD-EV-V12-0015`, original0047–0049; `MD-EV-V13-0025`, original0101–0102). Neither Inori's knowledge of that earlier resolve nor Hikaru's hearing of Inori's thought is depicted. Read the retained “calls” wording as private naming; thematic correspondence does not establish received feedback or a reciprocal spoken exchange. The current projection above remains bounded by that channel limit; `MD-CL-0023@10` and `MD-RV-0280` own the corrected inference, without a new relationship event.

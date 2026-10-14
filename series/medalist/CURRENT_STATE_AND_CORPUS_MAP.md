@@ -5,7 +5,7 @@ artifact_type: "current_state_corpus_map"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.14"
+version: "1.15"
 status: "canonical"
 scope: "Single project entrypoint, initiation state, current authority and next permitted operation"
 canonical_home: "series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md"
@@ -28,7 +28,9 @@ Start here for `series/medalist/`, the continuing Japanese manga project for メ
 
 **SEQUENTIAL_ANALYSIS_LOCK = OPEN**
 
-**The `continuous_sequential` run authorized on 2026-10-12 is complete: V02 through V15, one closed volume transaction at a time. Committed high-water mark: V15, the run's terminal boundary; all fourteen volume transactions are closed. Official Fanbooks 01 and 02 are audited at this checkpoint (MD-FR-FB01, MD-FR-FB02). The provisional syntheses are released as eight artifacts, now at version 1.1 after the independent correction review (see the section below). The series is ONGOING and every synthesis is provisional through this boundary. Nothing further is authorized: a later volume or instalment, a third fanbook, the adaptation or operational models each need a new owner authorization.** The owner authorized this run on 2026-10-12; the [continuous-run receipt](07%20Audits%20and%20Handoffs/MEDALIST_CONTINUOUS_RUN_AUTHORIZATION_AND_SOURCE_RECEIPT.md) records the authorization, the dated publication ceiling (V15, ending at Score 61; no serial-only Score beyond it) and the structurally verified witnesses. [V01 deep reading and MD-FR-V01](02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) remain frozen and are not redone; the latest closed reading is [V15 / MD-FR-V15](02%20Sequential%20Readings/MEDALIST_V15_DEEP_READING.md), and the progress table below lists every closed unit. Fanbook coverage reconnaissance and audits were authorized only at a verified safe manga checkpoint; that checkpoint was V15 and both audits are complete. Adaptation sources remain unauthorized. The historical single-operation V01 authorization is preserved in its own receipt.
+The authorized source-admission run is complete. The retained OPEN value is a disclosed policy/validation blocker, not a different lock meaning for this reassessment. Live [initiation policy §3.8](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#38-sequential-analysis-lock) requires CLOSED at a completed terminal boundary. An entrypoint-only CLOSED trial failed native validation: “substantive sequential analysis requires sequential_analysis_lock OPEN”; the existing validator needs a reviewed Medalist terminal-closure record in the [global control](../../governance/repository-controls/project-initiation-gate.json) to preserve the fifteen post-baseline manga readings behind CLOSED. After that concrete diagnosis, the owner explicitly retained series-only commit scope and requested this blocker be reported. No global control is changed or weakened. The current owner-authorized source-fidelity reassessment and corrections use already admitted V01–V15/FB01–FB02 evidence at the same boundary; no next source admission is authorized. Historical OPEN authorization remains in its original receipts.
+
+**The `continuous_sequential` run authorized on 2026-10-12 is complete: V02 through V15, one closed volume transaction at a time. Committed high-water mark: V15, the run's terminal boundary; all fourteen volume transactions are closed. Official Fanbooks 01 and 02 are audited at this checkpoint (MD-FR-FB01, MD-FR-FB02). The provisional syntheses are released as eight artifacts, five at version1.1 and the Inori/Hikaru/form studies at1.2 after the independent correction review (see the section below). The series is ONGOING and every synthesis is provisional through this boundary. No further source admission or operational model is authorized: a later volume or instalment, a third fanbook, the adaptation or operational models each need a new owner authorization.** The owner authorized this run on 2026-10-12; the [continuous-run receipt](07%20Audits%20and%20Handoffs/MEDALIST_CONTINUOUS_RUN_AUTHORIZATION_AND_SOURCE_RECEIPT.md) records the authorization, the dated publication ceiling (V15, ending at Score 61; no serial-only Score beyond it) and the structurally verified witnesses. [V01 deep reading and MD-FR-V01](02%20Sequential%20Readings/MEDALIST_V01_DEEP_READING.md) remain frozen and are not redone; the latest closed reading is [V15 / MD-FR-V15](02%20Sequential%20Readings/MEDALIST_V15_DEEP_READING.md), and the progress table below lists every closed unit. Fanbook coverage reconnaissance and audits were authorized only at a verified safe manga checkpoint; that checkpoint was V15 and both audits are complete. Adaptation sources remain unauthorized. The historical single-operation V01 authorization is preserved in its own receipt.
 
 ## Recoverable project initialization
 
@@ -60,9 +62,9 @@ project_initialization:
   completed_sequential_readings: 15
   owner_review_state: APPROVED_REVISED_FOUNDATION_0_2
   sequential_analysis_lock: OPEN
-  # lock_reason is the activation-era reason (V01 only); lock_reason_current_run is the 2026-10-12 run, completed 2026-10-13.
+  # lock_reason preserves activation history; the current value reports completion and the blocked global closure repair.
   lock_reason: OWNER_APPROVED_FOUNDATION_AND_AUTHORIZED_V01
-  lock_reason_current_run: OWNER_AUTHORIZED_CONTINUOUS_SEQUENTIAL_V02_TO_V15
+  lock_reason_current_run: COMPLETED_BOUNDARY_CLOSURE_BLOCKED_BY_REVIEWED_GLOBAL_CONTROL_OUTSIDE_SCOPE
   next_permitted_operation: "None within the 2026-10-12 authorization; a later source unit, a third fanbook, the adaptation or operational models each need a new owner authorization"
 sequential_execution:
   mode: continuous_sequential
@@ -71,8 +73,8 @@ sequential_execution:
   terminal_boundary: V15
   terminal_boundary_basis: "Verified publication ceiling at 2026-10-12: V15 collects through Score 61; no serial-only Score beyond it"
   committed_high_water_mark: V15
-  next_candidate_operation: AWAIT_NEW_AUTHORIZATION
-  next_candidate_authorization: REQUIRES_NEW_OWNER_AUTHORIZATION
+  next_candidate_operation: NONE_AUTHORIZED_BOUNDARY_COMPLETE
+  next_candidate_authorization: NOT_AUTHORIZED
   confirmation_between_units: false
   run_state: completed
   prior_run: "single_operation V01, COMPLETED"
@@ -82,7 +84,9 @@ supplemental_execution:
   authorized_start: "Coverage reconnaissance and conditional audit at a verified safe manga checkpoint"
   completed_paratext_audits: 2
   committed_high_water_mark: FB02
-  run_state: COMPLETED_BOTH_SCHEDULED_UNITS
+  run_state: CLOSED
+  completion_status: COMPLETED_BOTH_SCHEDULED_UNITS
+  other_narrative_admission: NOT_AUTHORIZED
 synthesis_execution:
   authorized_scope: "Provisional character, relationship, specialist and integrated syntheses at the locked boundary"
   run_state: PROVISIONAL_V1_RELEASED
@@ -143,11 +147,11 @@ One row is appended when a volume transaction has closed locally: reading, seven
 | FB01 | supplement; own coverage through V12 | [FB01 audit](02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md) / MD-FR-FB01 | 1.15 | Audited 2026-10-13 at the V15 checkpoint; 171 image occurrences inspected, adaptation pages excluded; creator-reported back story for the heroine's sister and mother, a second adult's regret about the coach as a boy, the stated origin of the adult coach; one conflict of degree with V15 kept; seven claims advanced a version, none new; the mainline boundary unchanged |
 | FB02 | supplement; story guide V05–V09, latest material presupposed V10–V11 | [FB02 audit](02%20Sequential%20Readings/MEDALIST_FB02_PARATEXT_AUDIT.md) / MD-FR-FB02 | 1.16 | Audited 2026-10-13 at the V15 checkpoint; 203 image occurrences inspected; third-party and adaptation material excluded; the author's stated intent for the coach and position on sacrifice, creator-reported regimes and homes, complete result tables, a relative chronology; one conflict of colour with V15 kept; nine claims advanced a version, none new; the mainline boundary unchanged |
 
-## Provisional syntheses (version 1.1, through MD-FR-FB02)
+## Provisional syntheses (versions 1.1–1.2, through MD-FR-FB02)
 
 Released 2026-10-13. The series is ONGOING; every artifact is provisional through the verified boundary and reopens when a claim it depends on changes. The [readiness and role-gap audit](07%20Audits%20and%20Handoffs/MEDALIST_V15_SYNTHESIS_READINESS_AND_ROLE_GAP_AUDIT.md) pins the inputs and records what was promoted and what was not; the [release audit](07%20Audits%20and%20Handoffs/MEDALIST_V15_PROVISIONAL_SYNTHESIS_RELEASE_AUDIT.md) records production, review, contradictions and errata. No operational reconstruction model is promoted for any character.
 
-Corrected 2026-10-14 under the owner’s attached independent-review authorization. The [source-fidelity and correction audit](07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md) is the single second-pass authority: 60 distinct clusters, 27 actually viewed original-page sequences, retained-reading errata, claim0012@16 and readiness0080–0082. The [Japanese speech/interlocutor audit](07%20Audits%20and%20Handoffs/MEDALIST_JAPANESE_SPEECH_AND_INTERLOCUTOR_AUDIT_THROUGH_V15.md) owns the located written-language contrasts and routes conclusions to the existing studies. Both retain the same admitted narrative boundary; source-inspection limits and the excluded alternate witness are explicit. [Draft PR167](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/167) holds publication from automatic integration under live nightly policy; the owner forbids a main merge.
+Corrected 2026-10-14 under the owner’s attached independent-review authorization. The [source-fidelity and correction audit](07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md) is the single second-pass authority: 60 distinct clusters, 27 actually viewed original-page sequences, retained-reading errata, claims0012@16/0023@10 and readiness0080–0082. The Inori/Hikaru/form studies are1.2 after the light-thought propagation correction; the other five remain1.1. The [Japanese speech/interlocutor audit](07%20Audits%20and%20Handoffs/MEDALIST_JAPANESE_SPEECH_AND_INTERLOCUTOR_AUDIT_THROUGH_V15.md) owns the located written-language contrasts and routes conclusions to the existing studies. Both retain the same admitted narrative boundary; source-inspection limits and the excluded alternate witness are explicit. [Draft PR167](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/167) holds publication from automatic integration under live nightly policy; the owner forbids a main merge.
 
 | Artifact | Home | Status |
 | --- | --- | --- |
@@ -239,3 +243,5 @@ The topology preferred at design was staged: local primary reading/ledgers; fres
 - [Integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md), [branch lifecycle](../../governance/policies/BRANCH_LIFECYCLE.md), [housekeeping ownership](../../governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md) and [change obligations](../../governance/repository-controls/change-obligations.json).
 
 2026-10-14, version 1.14: independent original-source review and selective corrections under the full owner attachment. All fifteen manga readings, both fanbook audits, seven ledgers and eight current syntheses were read completely across the review team; original inspection was targeted, not a new full-volume reading. Eight synthesis versions advance to1.1; seven ledgers gain append-only errata/readiness, with only MD-CL-0012 advanced to@16 via MD-RV-0279. The source map’s stale current fanbook HOLD is repaired. The two new audits have distinct responsibilities. Frozen readings, prior audits and stable histories remain unchanged. No main merge, operational rule, automatic Hikaru monograph, later source or architecture replacement is authorized by this update. The existing sequential-lock/global terminal-closure mismatch is reported in the audit; this series-only correction does not alter global governance.
+
+2026-10-14, version1.15: source-verified follow-up closes the light-motif direction/receipt propagation defect exposed after author commit1c27508547c52fd04159ea0bcbf7ee5d01c761fb. Hikaru's V12 private resolve concerns herself; Inori's V13 private light thought concerns Hikaru; neither is shown hearing the other. Claim0023 advances to@10 with revision0280; form/Hikaru/Inori syntheses advance to1.2; claims/visual/character ledgers advance to1.19 and relationship ledger to1.18 through append-only records. The audit's current inspection count is492 after three newly viewed V12 original diagnostic pages;60 principal clusters and27 visual sequences remain unchanged. Frozen histories, the combined source boundary, readiness decisions and the draft no-main hold persist. The entrypoint-only CLOSED trial failed native validation; after review of the required global closure mechanism, the owner retained series-only scope and requested the unresolved lock blocker be reported. Supplemental execution is explicitly CLOSED, with no other narrative admission.

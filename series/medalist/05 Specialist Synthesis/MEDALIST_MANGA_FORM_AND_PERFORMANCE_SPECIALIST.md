@@ -5,7 +5,7 @@ artifact_type: "specialist_synthesis"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.1"
+version: "1.2"
 status: "canonical"
 scope: "How the manga represents skating performance, interior states and knowledge on static pages, synthesized from the project's recorded page descriptions through V15 and two fanbook audits"
 canonical_home: "series/medalist/05 Specialist Synthesis/MEDALIST_MANGA_FORM_AND_PERFORMANCE_SPECIALIST.md"
@@ -157,7 +157,7 @@ The table follows the ledger's own rows. "Span" is where the ledger records mate
 | `MD-MOT-0010` the absolute (verbal) | Registered V06; through V15 | Certainty of commitment against certainty of outcome; passes to Inori in the sense Tsukasa refuses (V08–V09) | A rule that is absolute in fact is never given the word |
 | `MD-MOT-0011` ice outside the rink | V07–V09, V11, V13–V15 | Ice given or lost against ice where proof is demanded; a lake Inori can summon (V08); where she keeps Tsukasa (V09); warm water where things are said (V11); a lake with no figures (V15) | Every landing happens under a roof; the V14 lake is a film's |
 | `MD-MOT-0012` confinement and release | V08, V10, V12–V15 | Enclosure on Yodaka and Hikaru alike, master and pupil; the same terms renewed (V12); a cage that opens from both sides (V13); each living her own life (V15) | The one called free also weeps; in V14 release is a story within the story |
-| `MD-MOT-0013` light and shadow | V09–V13 | Brilliance that takes light from others; Hikaru's own account (V12); the name received as hoped (V13) | The darkness is in the beholder |
+| `MD-MOT-0013` light and shadow | V09–V13 | Brilliance that takes light from others; Hikaru's private resolve to become a light of hope (V12); Inori privately names Hikaru that light (V13) | The darkness is in the beholder; the echoed name is visible to the reader, with no depicted receipt by either girl |
 | `MD-MOT-0014` the maze and the eye above | V10–V13, V15 | Self-sight as what a coach supplies and what makes one unnecessary; the eye above needs one too (V15) | Yodaka, who had the view from above, kept no coach |
 | `MD-MOT-0015` the cold feeling (verbal) | V02 bonus fiction; V04, V10, V13 | Loneliness, outgrown; then anger at the self | The two differ in kind |
 | `MD-MOT-0016` the double and the water's surface | V14–V15; antecedents V07, V10, V13 | A second self that strengthens and is outgrown; in V15 a self Inori would yield to, not endorsed by the work | In V13 the double was another's likeness and was renounced |
@@ -185,7 +185,7 @@ The counter-reading is that the ranking reflects the ledger's habits, since a mo
 
 ## Written Japanese
 
-This section draws only on the readings' "Written Japanese" sections. It concerns printed words. It establishes nothing about how any line sounds, and each of those sections says so.
+This section draws on the readings' "Written Japanese" sections and the targeted original-page checks recorded in the source-fidelity audit. It concerns printed words. It establishes nothing about how any line sounds, and each of those sections says so.
 
 **Words that change mouths.** The readings track a small vocabulary that moves between speakers, and the movement is where the argument is carried.
 
@@ -198,7 +198,7 @@ This section draws only on the readings' "Written Japanese" sections. It concern
 - 価値, worth: in Kamogawa Kōhei's creed in V09 with talent and use; in V15 twice in the speech of Tsukasa's father beside productivity, and then Tsukasa's own word as a boy, stripped of usefulness.
 - The cold feeling: in V13 Tsukasa's word for Inori's new state is the term first named in V02’s bonus chapter and revisited in the V04 farewell.
 
-Smaller transfers are recorded as well: a verb of choosing that is a potential in V04, a plain past in V09 and a passive in V10; and a phrase for a light of hope used by each girl of the other in V13.
+Smaller transfers are recorded as well: a verb of choosing that is a potential in V04, a plain past in V09 and a passive in V10; and 希望の光, a light of hope: Hikaru privately resolves to become one in V12 (`MD-EV-V12-0015`, 0047–0049); later Inori privately applies the phrase to Hikaru in V13 (`MD-EV-V13-0025`, 0101–0102). The direction is Hikaru→herself, then Inori→Hikaru. Neither girl is shown hearing the other formulation; the recurrence is a reader-visible echo, not a reciprocal naming exchange (`MD-CL-0023@10`; light/channel errata to `MD-MOT-0013`).
 
 **Chapter titles.** Titles are figures and sometimes literal facts. V03–V04 run from hating the night to morning coming, and the last is literally six in the morning. V06 uses a word for signal fire written with the character that begins Hikaru's family name; V12 opens on light and shadow, the first character being her given name. V13 has proof of being in earnest, and a mermaid and a blade. V14 reverts to plain event-and-segment titles. V15 uses a set phrase for glossy black hair that is also a crow's feather; a pastor and a lamb, where the name of Yō, Kago Kōichi's daughter, contains the character for sheep; and midway on a spiral, over a stairwell. Personal names follow an animal convention.
 
@@ -247,4 +247,4 @@ Two terms sometimes used for this material were not found in the corpus and are 
 
 ## Revision dependencies
 
-This study depends on `MD-CL-0012@16` throughout and reopens if it is revised. It also depends on `MD-CL-0013@17`, `MD-CL-0030@2`, `MD-CL-0031@1`, `MD-CL-0019@12`, `MD-CL-0026@9`, `MD-CL-0027@7`, `MD-CL-0029@6`, `MD-CL-0028@5` (as mechanism only), `MD-CL-0016@14`, `MD-CL-0023@9`, `MD-CL-0010@16`, `MD-CL-0017@11` and `MD-CL-0005@14`, and on revisions `MD-RV-0259` and `MD-RV-0261`. A change to the visual ledger's verified-geometry statements, or new `MD-VF` or `MD-MOT` rows after V15, reopens sections 1–8 and the motif ranking.
+This study depends on `MD-CL-0012@16` throughout and reopens if it is revised. It also depends on `MD-CL-0013@17`, `MD-CL-0030@2`, `MD-CL-0031@1`, `MD-CL-0019@12`, `MD-CL-0026@9`, `MD-CL-0027@7`, `MD-CL-0029@6`, `MD-CL-0028@5` (as mechanism only), `MD-CL-0016@14`, `MD-CL-0023@10`, `MD-CL-0010@16`, `MD-CL-0017@11` and `MD-CL-0005@14`, and on revisions `MD-RV-0259` and `MD-RV-0261`. A change to the visual ledger's verified-geometry statements, or new `MD-VF` or `MD-MOT` rows after V15, reopens sections 1–8 and the motif ranking.

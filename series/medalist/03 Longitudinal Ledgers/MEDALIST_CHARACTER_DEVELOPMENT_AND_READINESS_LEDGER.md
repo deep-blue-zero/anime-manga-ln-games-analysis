@@ -5,7 +5,7 @@ artifact_type: "character_state_readiness_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.18"
+version: "1.19"
 status: "canonical"
 scope: "Time-indexed character interpretation, identity resolution and evidence-specific promotion readiness"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md"
@@ -1379,3 +1379,7 @@ The [audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY
 | MD-RD-0082 | MD-CHAR-0010 / Hikaru supporting study and possible separately scoped monograph | Effective story endpoint V13; creator supplements at own layers | Peer/mastery, public/mentor register, polite confrontation, instrumental presentation and real household attachment, private autonomy/rival judgment; age12 fixed | Post-departure daily life/guardianship and competition unshown; low-pressure peers/family/strangers under-sampled; durable autonomy and negative constraints untested | Descriptive BOUNDED_PROVISIONAL; speech SUPPORTED_WITH_BOUND; rules INSUFFICIENT_EVIDENCE. Enough evidence for a future narrowly scoped V01–V13 monograph, but no present responsibility gap requiring duplication; independent reviewer; 2026-10-14 | Extends MD-RD-0067/0078/0079. If later separately authorized, canonical home is existing hikaru-kamisaki directory; proposed responsibility is her own motives, interlocutor contrasts and counterexamples, retaining joint study’s relational/Yodaka responsibility. No automatic artifact created |
 
 These judgments separate psychological description, observed written-register contrasts and conditional tendencies from tested behavioral rules. The source reassessment is not held-out testing or a simulation evaluation. No operational MD-RULE record, additional monograph, unshown Grand Prix Final prediction or source beyond the admitted boundary is promoted.
+
+### Light thought and self-resolve: retained-history clarification (2026-10-14)
+
+**MD-CS-0258 / MD-CS-0279:** Hikaru's light-of-hope resolve is private, self-directed V12 thought (`MD-EV-V12-0015`, original0047–0049); Inori's use of the phrase for Hikaru is separate private V13 thought (`MD-EV-V13-0025`, original0101–0102). Inori is not shown knowing the earlier resolve, and Hikaru is not shown hearing Inori's thought. Read “answers” in CS0279 as reader-visible composition only. The bounded current inference is `MD-CL-0023@10` / `MD-RV-0280`; the recorded actions and all earlier character/readiness rows are preserved. No new behavioral readiness or knowledge transfer is inferred.

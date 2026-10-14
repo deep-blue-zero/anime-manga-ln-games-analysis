@@ -5,7 +5,7 @@ artifact_type: "claim_revision_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.18"
+version: "1.19"
 status: "canonical"
 scope: "Material interpretive claim versions, competing hypotheses, genuine predictions and downstream amendments"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md"
@@ -1133,3 +1133,15 @@ The [independent audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOU
 | JC06 / LC05; FC04 with JC12 | Derivative eye “resulted” from household, all strengths share one origin; four-year synopsis | Faculty attestation differs from causal origin; childhood strongly frames cost/debt but does not uniquely explain all strengths. Preserve V11 0126 three-year coaching testimony and age11→13 anchors without asserting exact elapsed years | MD-CL-0010@16 and MD-CL-0017@11 already carry memory, testimony and counterevidence bounds; lead prose brought into alignment |
 
 The prior 17.32-point correction is reverified against admitted V11 0081 and V13 EPUB0022; the distinct V09 novice FS gap is19.10. Existing age12 errata stand and current age prose follows the original V13 profile0125. Historical @5 versions remain historical; current adult burden dependencies use MD-CL-0029@6. No prediction, operational rule or new source freeze is added.
+
+## Light-of-hope channel correction (2026-10-14)
+
+The first correction commit, `1c27508547c52fd04159ea0bcbf7ee5d01c761fb`, left the motif summary and the active inference below insufficiently bounded. This follow-up preserves all earlier claim versions, including the V14/V15 no-change reviews of `MD-CL-0023@9`; read that version's “received by the rival as she hoped” through this erratum. The source material and freeze are unchanged.
+
+| Claim version | Formulation / epistemic status | Known after | Evidence / alternatives | Confidence | Downstream responsibility |
+| --- | --- | --- | --- | --- | --- |
+| MD-CL-0023@10 | **INFERENCE:** Hikaru privately permits herself to be strongest on the ice and rejects retaining weakness as a bond. Inori privately thinks of Hikaru as the light of hope, the phrase Hikaru chose for herself on the V12 train. This reader-visible convergence supports Inori's admiration and Hikaru's aspiration; it does not establish that either girl heard the other formulation or received the name as intended feedback. The field cannot wish her to fail. Her triumph is still likened to a last flame, and her coach has left. | MD-FR-FB02, unchanged; retrospective channel repair | MD-EV-V12-0015, Score46 0047–0049; MD-EV-V13-0023/0025/0031, with0025 at0100–0102; MD-MOT-0013 channel erratum. Alternative: compositional correspondence can suggest mutual orientation without a literal exchange or durable resolution. | HIGH printed wording/channel; MODERATE-HIGH bounded interpretation; no inferred hearing | Hikaru supporting study and form specialist; MD-CS-0258/0278/0279, MD-RL-0301, MD-MOT-0013 |
+
+| Revision | Prior → new version | Transition / reason / known after | Evidence / alternatives | Affected homes / disposition | Closure / unresolved debt |
+| --- | --- | --- | --- | --- | --- |
+| MD-RV-0280 | MD-CL-0023@9 → @10 | CORRECT; active claim and derivative motif wording confused reader-visible correspondence with received naming; same MD-FR-FB02 boundary | V12 original0047–0049: Hikaru→herself; V13 original0101–0102: Inori→Hikaru, separate private thought | Hikaru/form active dependencies advance to@10; Inori wording clarified; visual/character/relationship errata appended; frozen readings and earlier rows unchanged | Direction/channel repair closed; actual receipt, durable uptake and later conduct remain unshown |

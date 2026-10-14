@@ -5,7 +5,7 @@ artifact_type: "character_monograph"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.1"
+version: "1.2"
 status: "canonical"
 scope: "Developmental and psychological argument about Inori Yuitsuka (MD-CHAR-0004) from Score 1 to the warm-up before the free skate of the Junior Grand Prix Final; no operational model"
 canonical_home: "series/medalist/04 Character and Relationship Synthesis/inori-yuitsuka/MEDALIST_INORI_YUITSUKA_PROVISIONAL_MONOGRAPH.md"
@@ -147,7 +147,7 @@ One element is disclosed and not explained: the inward disparagement that makes 
 
 Inori Yuitsuka's stated aims are stable and her own: the world's best, a gold medal, Hikaru Kamisaki, the Olympic stage seven years on (`MD-EV-V01-0018`, `MD-EV-V14-0010`). Her stated fears are specific. She fears falling because she remembers two fractures (`MD-EV-V07-0025`). She fears being thought not in earnest (`MD-EV-V13-0008`). She fears hurting people without knowing it (`MD-EV-V15-0013`). She does not fear failure or laughter, by her own word.
 
-The ambivalence lies between two accounts of why she skates. In one she is drawn: by what lies beyond a difficulty, by steps she loves, by Hikaru, whom she calls a light of hope (`MD-EV-V04-0038`, `MD-EV-V09-0028`, `MD-EV-V13-0025`). In the other she pays: for Tsukasa's choice, for her mother's absence, for many kind people's work. She does not experience these as opposed. `MD-CL-0015@14` puts it that she plans, calmly, to pay.
+The ambivalence lies between two accounts of why she skates. In one she is drawn: by what lies beyond a difficulty, by steps she loves, by Hikaru, whom she privately thinks of as a light of hope (`MD-EV-V04-0038`, `MD-EV-V09-0028`, `MD-EV-V13-0025`). In the other she pays: for Tsukasa's choice, for her mother's absence, for many kind people's work. She does not experience these as opposed. `MD-CL-0015@14` puts it that she plans, calmly, to pay.
 
 ## Attention and how she learns
 
@@ -199,7 +199,7 @@ Nozomi Yuitsuka, Inori's mother, first refused, by her own account out of fear o
 
 **Mika Yuitsuka, her sister.** Inori began skating for Mika, will not hear her called bad at jumps (`MD-RL-0132`, `MD-EV-V06-0048`), and keeps her grief for her (`MD-EV-V09-0043`). Mika's fracture is one of Inori's two sources of fear and one of three stopped skaters she thinks of on the bench (`MD-EV-V13-0041`).
 
-**Hikaru Kamisaki.** Friend before rival; then the measure. Inori named her a special rival for the whole road (`MD-EV-V08-0027`), checks an unworthy wish against what Hikaru would never feel (`MD-RL-0266`), cannot face her after failing, and calls her a light of hope (`MD-RL-0301`). Hikaru, for her part, withdrew her reading of Inori as the likeness of Hikaru's own coach, Yodaka Jun, privately after seeing that the laughter was for the adults (`MD-RL-0300`; see its channel erratum). Hikaru’s strongest-self rival judgment and Inori’s light-of-hope thought remain separate interiors (`MD-EV-V13-0025`), alongside their actually spoken promise in the thicket.
+**Hikaru Kamisaki.** Friend before rival; then the measure. Inori named her a special rival for the whole road (`MD-EV-V08-0027`), checks an unworthy wish against what Hikaru would never feel (`MD-RL-0266`), cannot face her after failing, and privately thinks of her as a light of hope (`MD-RL-0301`). Hikaru, for her part, withdrew her reading of Inori as the likeness of Hikaru's own coach, Yodaka Jun, privately after seeing that the laughter was for the adults (`MD-RL-0300`; see its channel erratum). Hikaru’s strongest-self rival judgment and Inori’s light-of-hope thought remain separate interiors (`MD-EV-V13-0025`), alongside their actually spoken promise in the thicket.
 
 **Okazaki Iruka.** Fear, then defiance, then confidence. Inori took a fall to shield Iruka (`MD-EV-V10-0020`), confided her shame to her and took her hand (`MD-RL-0258`), was told by Iruka that she has a complex about being treasured, and now means to skate for Iruka's share and wears her hair after Iruka's (`MD-EV-V14-0006`, `MD-EV-V15-0053`, the last a strip).
 
