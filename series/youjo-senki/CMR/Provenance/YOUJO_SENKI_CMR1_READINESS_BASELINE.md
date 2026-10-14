@@ -22,8 +22,12 @@ source_drive_revision: "0B24avie5yJngQ3BBWHVLcXRXQXRleW5KWkR2Nis0dzBTdEpzPQ"
 source_sha256: "30ace4c0f4a0b03aa003aea8e7377cb1595450bed326451908a59bf13c5c3417"
 source_status_at_freeze: active_provisional
 baseline_role: FIRST_20_SUBJECT_AUDIT_ONLY
-promotion_status: PROPOSED_GIT_PROVENANCE_PENDING_VERIFIED_MAIN_INTEGRATION
-former_drive_pointer_update_status: NOT_PERFORMED
+promotion_status: "VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS"
+former_drive_pointer_update_status: "VERIFIED_NATIVE_CUTOVER"
+analytical_body_authority: "VERIFIED_ACCEPTED_MAIN_WITH_LIMITS"
+native_predecessor_pointers: "VERIFIED_NATIVE_CUTOVER"
+accepted_analytical_main_sha: "813cc91553f99e2de7c357794897bb8c59b2f548"
+authority_promotion_record: "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json"
 ---
 
 > **Historical first-audit baseline.** The complete original CMR1 audit body and its source locators are preserved below. This Git artifact is `historical_legacy` with `do_not_use_as_current_authority: true`. It preserves how the initial twenty-subject roster was admitted; it does not substitute for the current source-adjudicated readiness/coverage reassessment, confer finished-model status, or permanently cap the discovered roster.
@@ -39,7 +43,7 @@ The source audit was `active_provisional` at the frozen Drive revision. Its twen
 
 The preserved body contains the original individual confidence labels, approved domains, representative exact locators, and negative constraints. Alias-hit counts and local-window metrics remain retrieval proxies. Apparent dialogue proximity never establishes actual speaker or focalizer. Unexamined additional figures remain `NOT_YET_AUDITED`; they do not become `INSUFFICIENT` by omission.
 
-The current reconstruction method is routed through [the Git method](../Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md), with original Drive provenance and the proposed authority transition documented by [the port audit](YOUJO_SENKI_CMR_PORT_AUDIT.md). Current coverage uses the distinct [readiness re-audit](YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md) and [supplement](YOUJO_SENKI_SUPPLEMENTARY_CHARACTER_READINESS.md); the [series entrypoint](../../CURRENT_STATE_AND_CORPUS_MAP.md) controls current routing. The original first-audit body below remains historical.
+The current reconstruction method is routed through [the Git method](../Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md). The [authority promotion receipt](YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) verifies accepted main `813cc91553f99e2de7c357794897bb8c59b2f548` and the native predecessor pointers. Current coverage uses the distinct [readiness re-audit](YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md), [supplement](YOUJO_SENKI_SUPPLEMENTARY_CHARACTER_READINESS.md) and [29-package navigation](../YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md). This initial twenty-subject body remains historical provenance with its current-authority veto; native cutover does not promote its old classes or metrics into current coverage.
 
 <!-- Preserved original CMR1 first-audit substantive body begins below. -->
 

@@ -9,13 +9,19 @@ status: active_provisional
 canonical_home: "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md"
 snapshot_date: 2026-10-11
 repository_base_commit: "238fed779661f6a5a49d6a70034a6183d17ca175"
-promotion_status: PROPOSED_PENDING_VERIFIED_MAIN_INTEGRATION
+promotion_status: "VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
+analytical_body_authority: "VERIFIED_ACCEPTED_MAIN_WITH_LIMITS"
+native_predecessor_pointers: "VERIFIED_NATIVE_CUTOVER"
+accepted_analytical_main_sha: "813cc91553f99e2de7c357794897bb8c59b2f548"
+authority_promotion_record: "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json"
 ---
 
 # Youjo Senki CMR Drive inventory and controlled analytical port audit
+
+> **Intake snapshot with verified later authority.** The body below records the 2026-10-11 intake; its branch-proposal, pending-work and unperformed-pointer statements describe that historical boundary. The [current authority promotion receipt](YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) verifies the previously accepted analytical tree at main `813cc91553f99e2de7c357794897bb8c59b2f548` and completed native predecessor-pointer cutover. The frozen 25-item intake and 12-row source append dispositions retain their original identities and bytes. This wrapper does not claim that its own later publication is already integrated.
 
 The intake inventory is closed for **20 files, five direct subfolders, and 32 retained file revisions** beneath the CMR Drive root (verified folder ID `1z-U_tluPeOwMuRIVzEbQOOxrI1cYlMK4`). Nineteen current small-file originals were obtained through authenticated, explicitly bounded raw-file compatibility and verified by exact SHA-256 and byte length. The 52,894,654-byte locator corpus was regenerated deterministically from the fourteen hash-matching source EPUBs; its current Drive body was not materialized. This distinction is preserved in the machine manifest.
 

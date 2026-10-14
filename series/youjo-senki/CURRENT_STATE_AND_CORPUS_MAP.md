@@ -15,6 +15,11 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 updated: '2026-10-13'
+analytical_body_authority: "VERIFIED_ACCEPTED_MAIN_WITH_LIMITS"
+native_predecessor_pointers: "VERIFIED_NATIVE_CUTOVER"
+accepted_analytical_main_sha: "813cc91553f99e2de7c357794897bb8c59b2f548"
+authority_promotion_record: "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json"
+promotion_status: "VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS"
 ---
 
 # YOUJO SENKI — CURRENT STATE AND CORPUS MAP
@@ -30,7 +35,7 @@ updated: '2026-10-13'
 
 The primary-source boundary is the original Japanese light novels **Volumes 01-14**. The source folder contains all fourteen EPUBs plus `audit_manifest.json`; thirteen are conformant EPUB containers and V02 has a known mimetype-order/compression irregularity while otherwise passing archive/container integrity checks.
 
-The mature V2 literary/full-series synthesis was completed on 2026-08-11 and is the current series-level analytical authority. Documents 00-12 are now present in the canonical `V2 Analysis` folder; Documents 00-11 were migrated with exact byte/hash verification and the user subsequently supplied the missing original `12_JAPANESE_ENGLISH_TRANSLATION_AUDIT_LEDGER.md`, now synced as Drive `1mQno_ayho-R3jacL374LrNamAe_Sbkf0`. The post-synthesis CMR layer remains `active_provisional` derived infrastructure and does **not** supersede, rename, renumber, or silently mutate V2.
+The mature V2 literary/full-series synthesis was completed on 2026-08-11 and is the current series-level analytical authority. Documents 00-12 are now present in the canonical `V2 Analysis` folder; Documents 00-11 were migrated with exact byte/hash verification and the user subsequently supplied the missing original `12_JAPANESE_ENGLISH_TRANSLATION_AUDIT_LEDGER.md`, now synced as Drive `1mQno_ayho-R3jacL374LrNamAe_Sbkf0`. The previously accepted post-synthesis CMR analytical tree and native predecessor-pointer cutover are verified in [the authority promotion receipt](CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md). CMR does **not** supersede, rename, renumber, or silently mutate V2.
 
 ## 2. Authority state
 
@@ -123,7 +128,7 @@ Key retrieval homes:
 
 ## 5. Active CMR architecture
 
-The Git-readable operational entrypoint is [CMR/README.md](CMR/README.md), with a [29-package model/readiness/source index](CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md). All 1,200 Tanya candidates through V14 are closed, yielding 814 textual diagnostics and 44 conditional rule families without changing the frozen V12 prefixes. All 29 models or recognition profiles and their original independent QA are present. Source support and new-scene prediction remain separate: seven actual held-out continuations are partial, synthetic applications are nonempirical, and repairs retain original judgments. Current bounded successor regressions and the separate ensemble release are complete with limits; original failures and partials remain versioned. The CMR layer remains `active_provisional`; it preserves the mature V2 corpus. Method promotion and former-Drive authority pointers await verified main integration.
+The Git-readable operational entrypoint is [CMR/README.md](CMR/README.md), with a [29-package model/readiness/source index](CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md). All 1,200 Tanya candidates through V14 are closed, yielding 814 textual diagnostics and 44 conditional rule families without changing the frozen V12 prefixes. All 29 models or recognition profiles and their original independent QA are present. Source support and new-scene prediction remain separate: seven actual held-out continuations are partial, synthetic applications are nonempirical, and repairs retain original judgments. Current bounded successor regressions and the separate ensemble release are complete with limits; original failures and partials remain versioned. The accepted CMR analytical tree at main `813cc91553f99e2de7c357794897bb8c59b2f548` and native predecessor pointers are verified by [the authority promotion receipt](CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md). The mature V2 corpus, source classes and domain ceilings remain unchanged. Later publication of this wrapper is determined by exact Git/CI history and final handoff.
 
 The Drive folder architecture below is historical analytical provenance and the current primary/bulk evidence map. Git `CMR/Models`, `CMR/Relations` and `CMR/QA` own the emitted interpretive derivatives.
 
@@ -135,9 +140,9 @@ This is a post-synthesis, source-grounded character reconstruction layer.
 #### `00 Frameworks and Methods`
 Drive: `1Ul_BbZkw9UkSOrDik3hmWVfcK84WWGvW`
 
-Governing home for:
+Retained source-method copy with verified native pointer to the [accepted Git method](CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md):
 
-- `YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md` — Drive `16tMcTb0rZZ7U3gjidf6bzJ-TravNQcCh`.
+- `YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md` — Drive `16tMcTb0rZZ7U3gjidf6bzJ-TravNQcCh`; original substantive body preserved, analytical authority routed to Git.
 
 #### `01 Evidence and Locators`
 Drive: `1aDiFqWjWHZ53xX-lBvjMLfA6eN89Z7SZ`
@@ -263,7 +268,7 @@ The [77 directed episodes/register](CMR/Relations/YOUJO_SENKI_DIRECTED_RELATIONS
 
 ### QA
 
-All 29 original independent assessments are sealed. Seven actual frozen-before-revelation continuations remain partial; no novel-wide blindness or calibrated forecast accuracy is claimed. Tanya's first failure and all metadata/pipeline issues remain versioned alongside nonblind successor checks. The [four-pipeline regression](CMR/QA/FOUR_SPEECH_ACT_PIPELINE_REGRESSION_QA.md), [six-specialist process regression](CMR/QA/SIX_SPECIALIST_PIPELINE_REGRESSION_QA.md) and [separately qualified current ensemble release](CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA.md) are complete with limits. The [current ensemble ledger](CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA_CASES.jsonl) and [application repair trace](CMR/QA/YOUJO_SENKI_ENSEMBLE_APPLICATION_REPAIR_TRACE.json) retain the original failed 76-application suite and 17 separate application repairs; no original failure or source partial is rescored. Generated wording never enters the evidence corpus. Model and original-QA promotion fields remain construction/evaluation snapshots; separately verified release/promotion receipts govern actual publication/main/native-Drive authority, which remains pending.
+All 29 original independent assessments are sealed. Seven actual frozen-before-revelation continuations remain partial; no novel-wide blindness or calibrated forecast accuracy is claimed. Tanya's first failure and all metadata/pipeline issues remain versioned alongside nonblind successor checks. The [four-pipeline regression](CMR/QA/FOUR_SPEECH_ACT_PIPELINE_REGRESSION_QA.md), [six-specialist process regression](CMR/QA/SIX_SPECIALIST_PIPELINE_REGRESSION_QA.md) and [separately qualified current ensemble release](CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA.md) are complete with limits. The [current ensemble ledger](CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA_CASES.jsonl) and [application repair trace](CMR/QA/YOUJO_SENKI_ENSEMBLE_APPLICATION_REPAIR_TRACE.json) retain the original failed 76-application suite and 17 separate application repairs; no original failure or source partial is rescored. Generated wording never enters the evidence corpus. Model and original-QA promotion fields remain construction/evaluation snapshots; the [authority promotion receipt](CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md) verifies the previously accepted analytical tree and native pointers. Later wrapper publication/integration follows exact Git/CI history and final handoff.
 
 ## 8. Binding next steps
 
@@ -274,7 +279,7 @@ All 29 original independent assessments are sealed. Seven actual frozen-before-r
 5. **CMR-3 - COMPLETE:** Tanya source-limited reconstruction model, 44 claims, separate written-voice controls.
 6. **CMR-4 - COMPLETE WITH LIMITS:** original independent failure/two partial continuations retained; repaired successor accepted by nonblind regression.
 7. **CMR-5 - COMPLETE WITH LIMITS:** Visha, Lergen, Zettour and all further admitted subjects; bounded successors are tracked separately.
-8. **CMR-6 - RELATIONSHIPS / CURRENT ENSEMBLE COMPLETE WITH LIMITS:** directed register and source-backed episode controls; exact-head publication, owner-governed main integration and former-Drive authority pointer cutover remain pending.
+8. **CMR-6 - RELATIONSHIPS / CURRENT ENSEMBLE COMPLETE WITH LIMITS:** directed register and source-backed episode controls; the previously accepted analytical tree and completed native authority pointers are bound by the [promotion receipt](CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md); later wrapper/receipt publication follows exact Git/CI history and final handoff.
 
 ## 9. Recommended retrieval routes
 
