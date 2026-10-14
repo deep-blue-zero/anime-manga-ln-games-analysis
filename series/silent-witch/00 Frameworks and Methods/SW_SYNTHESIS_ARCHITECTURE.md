@@ -5,11 +5,11 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.9"
+version: "1.10"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
-source_boundary: "Accepted foundation; Japanese LN V01 to V04 and the companion IV -after- read and closed under it; first closed-volume review based on V01 only; V02 to V04 notes recorded; supplemental-admission review at the V04 boundary recorded before IV -after-."
+source_boundary: "Accepted foundation; Japanese LN V01 to V05 and the companion IV -after- read and closed under it; first closed-volume review based on V01 only; V02 to V04 notes recorded; supplemental-admission review at the V04 boundary recorded before IV -after-."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md"
 supersedes: []
@@ -53,7 +53,7 @@ Git holds interpretation, methods, public-safe routing, state, and provenance. G
 | V01 foundation/gate report | Owner acceptance, semantic foundation/day-one checks, the historical CLOSED hold and the V01-only gate opening with its entering freeze. |
 | V01 deep reading | Source-bearing V01 observations SW-E-LNJP-V01-001 to 132, coverage, synopsis, close reading and the exit freeze; frozen at its source boundary. |
 | V01 reading path manifest | Exact path set and state of the V01 transaction. |
-| Later deep readings | One per closed unit, `SW_V<NN>_DEEP_READING.md`, each owning its observations and freezes; V02 to V04 and IV -after- closed. |
+| Later deep readings | One per closed unit, `SW_V<NN>_DEEP_READING.md`, each owning its observations and freezes; V02 to V05 and IV -after- closed. |
 | Continuous run path manifest | Run identity and one transaction entry per unit closed under the 2026-10-14 run. |
 | Master longitudinal ledger | Sole pre-split cumulative analytical state, claims/revisions, predictions, and local readiness. |
 | Bootstrap report | Historical design rationale, observed precedents, accesses, checks, limitations, and handoff gates. |
@@ -225,6 +225,8 @@ Performed before IV -after- is admitted, on V01 to V04 evidence and the companio
 *Lifecycle.* One decision changes: affiliative or romantic ambiguity moves from DEFER to MONITOR. Supplemental unit identity and the placement procedure are recorded as applications of the existing source-map admission rule. No responsibility, ledger, dependency or completion gate changes. The architecture remains INITIAL.
 
 *AFTER04 note, 2026-10-14.* IV -after- was reconciled into the single ledger with forty revision events, all PRESERVE or STRENGTHEN, seven new identities and no strain on any section. Companion records cite their own witness as the review required. The story-level placement check held nothing out. Affiliative or romantic ambiguity, now monitored, received only Felix’s attentions and Monica’s ignorance of the corsage. Disclosure and knowledge gained two withheld matters, Elliott’s second event and MacLaggan’s question about Glen. The cluster around Felix gained a childhood scene; no hypothesis is registered. No review trigger is met.
+
+*V05 note, 2026-10-14.* V05 was reconciled with forty-four revision events, six of them REVISE, ten new identities, one identity disclosed (the traitor) and no strain on any section. Disclosure and knowledge now carries the largest single body of evidence in the ledger: the familiar’s nature, the father’s framing, two withheld patrons and the densest cluster around Felix. Affiliative or romantic ambiguity gained Felix’s stated feelings toward the Silent Witch. Both are recorded for the first checkpoint; no review trigger is met.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 
