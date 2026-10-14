@@ -1,0 +1,73 @@
+{
+  "schema": "t7s-analysis/source-lock-storage-manifest/v1",
+  "artifact_id": "T7S_SOURCE_LOCK_MANIFEST",
+  "artifact_type": "source_lock_manifest",
+  "series": "Tokyo 7th Sisters",
+  "generation": "V1",
+  "version": "1.0",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "logical_artifact_id": "T7S_SOURCE_LOCK",
+  "current_owner_path": "01 Sources and Chronology/T7S_SOURCE_LOCK.json",
+  "complete": true,
+  "disjoint_payload_intervals": true,
+  "parts_count": 3,
+  "parts": [
+    {
+      "path": "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_001.md",
+      "artifact_id": "T7S_SOURCE_LOCK_COMPONENT_001",
+      "bytes": 393730,
+      "sha256": "a8f30b1373982cbeac2eda8acca35176ea9af7bb9a9cc265c9940132c5b545fc",
+      "payload_offset_bytes": 505,
+      "payload_bytes": 393188,
+      "payload_sha256": "5423d1e3d60c902c7e14a373553aa35133ec4b48f959804e5132a51298d37cd7",
+      "logical_offset_bytes": 0
+    },
+    {
+      "path": "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_002.md",
+      "artifact_id": "T7S_SOURCE_LOCK_COMPONENT_002",
+      "bytes": 393745,
+      "sha256": "e27e76b5bdf7bec0388cf19fd08296a19f5e7bf1110cb7cf71b769f27d4aa38b",
+      "payload_offset_bytes": 505,
+      "payload_bytes": 393203,
+      "payload_sha256": "3bbc241fb987f183e423ba7f7363df545989e978fe6b0ee0e88944c671949f03",
+      "logical_offset_bytes": 393188
+    },
+    {
+      "path": "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_003.md",
+      "artifact_id": "T7S_SOURCE_LOCK_COMPONENT_003",
+      "bytes": 228625,
+      "sha256": "eea0142d4836254412014760905d1610a15d6a4aab7b909985e032841a403114",
+      "payload_offset_bytes": 505,
+      "payload_bytes": 228083,
+      "payload_sha256": "cdff12c4a83d8261266f59b9cf0925b1fd535dca1c3bb19e0e05a18c088a275c",
+      "logical_offset_bytes": 786391
+    }
+  ],
+  "logical_bytes": 1014474,
+  "logical_sha256": "ae93c144d68e13ea8ec564bf5f8e6b3216eb285c9255fc3e060076ac5faf0119",
+  "logical_version": "12.83",
+  "source_high_water": "T7S_B0177",
+  "reassembly": "Concatenate exact declared UTF8 byte payload intervals in order; physical wrappers are excluded. LogicalJSON is complete, including every older frozen integrity object.",
+  "reader_projection_sha256": "4a7f37fef3ee4072d3694c3d055e2d8df51e2039f3bb8e40b26f43e2d7764f57",
+  "transition": {
+    "operation": "T7S_CONTROL_STORAGE_TRANSITION_V1",
+    "date": "2026-10-14",
+    "source_lock_before_version": "12.82",
+    "source_lock_after_version": "12.83",
+    "source_lock_before_physical_sha256": "3ab5dac232936bbec1a22651a4c310b76f20a0073f308b8eb190f298eb716abe",
+    "source_lock_before_logical_sha256": "3ab5dac232936bbec1a22651a4c310b76f20a0073f308b8eb190f298eb716abe",
+    "source_high_water_unchanged": "T7S_B0177",
+    "new_source_admission": "NONE",
+    "scope": "Whole SourceLock manifest-bound JSON fragments and five physical coverage role shards; entity/story/claims/readings/source media untouched.",
+    "all_older_integrity_serialized_bytes": "BYTE_EXACT",
+    "coverage_effective_state_sha256": "b23b2ba3e02322864739030fcb16fd7187803425d0673b9a1064dbb87279e13e",
+    "physical_file_limit": 1048576,
+    "native_quoted_utf16_limit": 28000,
+    "reader_sha256": "4a7f37fef3ee4072d3694c3d055e2d8df51e2039f3bb8e40b26f43e2d7764f57",
+    "storage_record": "09 Audits and Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md"
+  }
+}

@@ -4,16 +4,16 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.80"
+version: "1.81"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0177; exact coverage maintained as a manifest-bound logical ledger with two shards"
+source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0177; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-13
+last_updated: 2026-10-14
 ---
 
 # Tokyo 7th Sisters evidence substrate and locator protocol
@@ -315,10 +315,22 @@ For future script packets, repeat those checks for each explicitly admitted memb
 
 The [entity owner](../03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md), [manifest](../03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER_MANIFEST.json) and [storage record](../09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md) represent one authored logical entity ledger. Bind current source-lock `physical_storage.entity_state_ledger` path/hash, then verify manifest/owner/all component full-file and payload lengths/hashes, direct series-relative paths, ordering and whole logical-view hash before reading or deriving entering state. Read the owner prefix before its unique route marker plus every ordered payload; the wrapper alone is incomplete evidence. Payload offsets exclude component metadata rather than changing transferred prose. Source locators and relative references retain their bytes and directory.
 
-Admission freezes retain physical source-lock and entity owner/manifest/component fingerprints plus the exact logical-view fingerprint. Native-page checks and edition bindings remain independent. An administrative version change consumes no episode and retargets no old path. Missing parts, stale hashes, duplicate owners, unsupported representation or failed reconstruction stop use. Coverage still uses its original two-shard manifest; this entity change grants no general file-size or source-schema exception.
+Admission freezes retain physical source-lock and entity owner/manifest/component fingerprints plus the exact logical-view fingerprint. Native-page checks and edition bindings remain independent. An administrative version change consumes no episode and retargets no old path. Missing parts, stale hashes, duplicate owners, unsupported representation or failed reconstruction stop use. At that entity cutover, coverage retained its then two-shard representation; that historical change granted no general file-size or source-schema exception. The current control representation is defined below.
 
 - 2026-10-13 —1.78: add checked retrieval for B0175 entity storage; retain native authority, locator histories and modality/release gates.
 
 - 2026-10-13: migrate 3 complete T7S_B0176 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
 
 - 2026-10-13: migrate 3 complete T7S_B0177 records through explicit shard-local defaults; retain the original lossless-sharding proof and bind the new current state separately.
+
+## Analytical control-storage retrieval
+
+Bind the [physical SourceLock owner](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json), its exact [manifest](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK_MANIFEST.json) and every ordered source-lock component before reading any source-control field. Verify each full-file and payload length/hash, unique identity, contiguous logical byte interval, exact framing, direct series-relative path and final logical JSON length/hash. Check owner/manifest/logical version, witness, corpus alias and high-water agreement; use the separately reviewed reader projection. The original owner address remains the single current entrypoint; its wrapper is not the complete logical SourceLock. Binding its own manifest through the physical owner avoids a logical self-hash cycle.
+
+For [coverage](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), read all five declared JSONL components. Expand each row only with its own role's bound original META defaults; verify per-component counts/hashes and exact reassembly of both logical role views. Require the disjoint union of all1590 identities and the canonical effective-state digest. A null admitted horizon is a retained value, not a reason to exclude an active supplemental leaf. Separate source identity, narrative reconstruction, analytical integration and AV state fields keep their original meanings.
+
+Fresh prospective records capture the physical source-lock owner/manifest/components, the complete logical SourceLock fingerprint, all physical coverage shards and both whole logical role fingerprints/effective-state digest, together with the unchanged entity representation. Old freezes, receipts and path literals are historical and unmodified. Native equality, actually read Japanese/static evidence and performed audio/runtime observations remain separate. Source-lock12.83 is metadata storage only with B0177 unchanged.
+
+Missing/indirect/foreign parts, stale hashes, unknown schemas, owner/version/horizon mismatches, wrong inherited defaults and duplicate/missing effective records stop use. Monolithic consumers must be adapted through reviewed fresh code/hash bindings before another source extraction or closeout. Every physical file and actual quoted native argument retains its existing limit. The [control-storage record](../09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) owns the administrative mapping; it admits no new primary source or2053 semantics.
+
+- 2026-10-14 —1.81: add full checked SourceLock/coverage retrieval after B0177; preserve all historical native/source boundaries and modality/release requirements.

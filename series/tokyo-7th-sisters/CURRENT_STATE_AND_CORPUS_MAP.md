@@ -4,7 +4,7 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.82"
+version: "12.83"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -13,7 +13,7 @@ do_not_use_as_literary_evidence: true
 source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 268 non-Main i-n-g episodes / T7S_B0080–T7S_B0177 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-13
+last_updated: 2026-10-14
 project_initialization:
   status: canonical
   architecture_lifecycle: EVOLVING
@@ -83,7 +83,9 @@ major_story_structures:
 
 **Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds the full remaining source and analytical obligations. [B0177](02%20Readings/T7S_B0177_DEEP_READING.md) is the closed checkpoint: Shirayuki's nostalgic mother-attributed plums move from mistaken-anger repair and sharing to private nutrition/family-taste concern and an accepted reciprocal meal. The first dish is delicious and appreciated but unlike home; helpers recruit Hime/Sumire, reframe feeding-family purpose, divide flexible ingredient selection and stock instruction, and let a teacher learn a specific craft. Player's chores and recipient concern lead to locally accepted persistence through her practice analogy, followed by far-future giving/receiving thought. Exuberant original cooks complete work after advisers refrain from takeover; source-bound Item0157 reveals a meal recognized by Shirayuki as home with100 points. Unequal contribution is acknowledged. Tears mistaken for taste trouble become warm joy and Nanasta as another home; Hime's family-language reaction remains distinct. Shirayuki proposes other residents' home meals while peers retain difficulty/shared work. A private when-bigger daily-cooking promise to Player and peers' partial hearing/blush appraisals preserve conditional childhood wish and uneven access. One qualified reported mother identity/character is separate from reported elder sister, with no direct mother scene, literal kinship, realized partnership or completed all-resident program.43 viewed statics/four backgrounds and complete native/Japanese reading establish no heard audio/runtime or maturity. Full2034 remains active and2053 blocked. The current program has closed 18 source blocks / 54 primary episodes; 706 eligible story episodes plus supplemental and release work remain. The next authorized but unread chapter is `301500` / **追い風のベクトル** / 越前ムラサキ, episodes `612203501 / 612203502 / 612203503`, assigned B0178. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
 
-The entity ledger has a manifest-bound physical representation: its original address routes all ordered payload components and retains aggregate metadata. Read the complete bound logical view before interpreting or editing state. All983,530 transferred payload bytes, prior IDs/horizons/history and120 heading routes are preserved. Source-lock12.80 records a metadata-only storage boundary; B0175 remains analytical high-water, B0176/chapter301480 remains unconsumed, and full2034 release obligations remain active. Storage preparation/application/publication are governed separately by the [transition record](09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md).
+The entity ledger has a manifest-bound physical representation: its original address routes all ordered payload components and retains aggregate metadata. Read the complete bound logical view before interpreting or editing state. All983,530 transferred payload bytes, prior IDs/horizons/history and120 heading routes are preserved. At the metadata-only source-lock12.80 entity-storage cutover, B0175 was analytical high-water and B0176/chapter301480 was still unconsumed. Those historical receipt boundaries are unchanged; the current analytical high-water is B0177 and full2034 release obligations remain active. Storage preparation/application/publication are governed separately by the [transition record](09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md).
+
+Source-lock12.83 is a control-storage boundary at the unchanged B0177 horizon. Read the complete SourceLock JSON through its owner/manifest/three components and both complete coverage roles through their five physical components before capture, interpretation or another closeout. All115 older SourceLock integrity objects and1590 effective coverage records/defaults retain their bytes/values. The [control-storage record](09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) governs this mapping and separate consumer/native/author/publication gates. Complete those gates before B0178 extraction; no source, character maturity, listening or2053 admission is added.
 
 ## Governing and cumulative homes
 
@@ -93,9 +95,9 @@ The entity ledger has a manifest-bound physical representation: its original add
 | Responsibilities, promotion and completion | [T7S_SYNTHESIS_ARCHITECTURE.md](00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md) |
 | Conditional character reconstruction and R0–R5 | [T7S_CHARACTER_RECONSTRUCTION_PROTOCOL.md](00%20Frameworks%20and%20Methods/T7S_CHARACTER_RECONSTRUCTION_PROTOCOL.md) |
 | External evidence recovery and portable locators | [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md) |
-| Immutable witness/digest binding | [T7S_SOURCE_LOCK.json](01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json) |
+| Immutable witness/digest binding | [SourceLock physical owner](01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json) and [complete logical manifest/components](01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK_MANIFEST.json), governed by the [control-storage record](09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) |
 | Native topology, partial chronology and candidate order | [T7S_TOPOLOGY_AND_CHRONOLOGY.md](01%20Sources%20and%20Chronology/T7S_TOPOLOGY_AND_CHRONOLOGY.md) |
-| Exact inventory, consumption and routing | [logical coverage-ledger manifest](01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), binding the [current-or-consumed](01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl) and [routed-or-unconsumed](01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl) shards |
+| Exact inventory, consumption and routing | [logical coverage-ledger manifest](01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), binding three current-or-consumed and two routed-or-unconsumed components with complete role headers/defaults and1590 effective identities |
 | Passed 2034 non-Main eligibility gate | [T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md](09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) |
 | Non-Main portfolio router | [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) |
 | Closed first twenty i-n-g cases | [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) |
@@ -508,3 +510,5 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-10-13 — V1 / 12.81: close T7S_B0176; advance the remaining-2034 program to 17 source blocks / 51 episodes and i-n-g coverage to 265/280; retain the full era-release endpoint and route the next obligation.
 
 - 2026-10-13 — V1 / 12.82: close T7S_B0177; advance the remaining-2034 program to 18 source blocks / 54 episodes and i-n-g coverage to 268/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-14 — V1 / 12.83: preserve B0177 and every remaining2034 obligation while admitting only reviewed SourceLock/coverage physical representation; reframe the B0175 entity-storage statement as its historical cutover boundary.

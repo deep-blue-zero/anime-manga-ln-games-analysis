@@ -1,0 +1,8404 @@
+---
+title: Tokyo 7th Sisters source-lock logical component 1
+artifact_id: T7S_SOURCE_LOCK_COMPONENT_001
+artifact_type: source_lock_component
+series: Tokyo 7th Sisters
+generation: V1
+version: '1.0'
+status: canonical
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: true
+supersedes: []
+superseded_by: []
+---
+
+Ordered byte interval of the complete logical SourceLock; read only through its current owner and manifest. No primary-source payload.
+
+<!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
+{
+  "schema": "t7s-analysis/source-lock/v1",
+  "artifact_id": "T7S_SOURCE_LOCK",
+  "artifact_type": "source_lock",
+  "version": "12.83",
+  "generation": "V1",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "corpus_alias": "c20260909-r484",
+  "alias_mutability": "IMMUTABLE; add a new alias and crosswalk on any source/schema change",
+  "witness_id": "T7S_GAME_OFFLINE_JA_R484",
+  "source_class": "GAME_STORY",
+  "additional_source_layers": [
+    "GAME_SUPPLEMENTAL",
+    "GAME_PRESENTATION",
+    "LYRICS_GAME_MASTER"
+  ],
+  "continuity": "GAME; per-story diegetic mode and cross-witness identity require evidence",
+  "language": "ja",
+  "edition": {
+    "client": "preserved final offline Android client",
+    "package": "jp.ne.donuts.t7s",
+    "master_revision": 484,
+    "resource_revision": 100005,
+    "build_version": "Bound by external preservation manifest; no unverified version string supplied"
+  },
+  "scope_admission": "All 235 admitted 2034 Main primary documents and their bound inline/choice occurrences remain closed. The first 268 i-n-g episodes across 98 complete chapters are reconstructed through T7S_B0177. The continuous remaining-2034 program has closed 18 source blocks and 54 primary episodes; 706 eligible story episodes plus supplemental, multimodal and analytical release obligations remain. Its terminal boundary is the complete 2034 era release, not the 22-chapter i-n-g checkpoint. All 2053 semantic sources remain blocked; crossover sources remain outside the 2034 game-continuity release. Publication and final exact-head audit remain separate obligations.",
+  "analysis_horizon": {
+    "closed_blocks": [
+      "T7S_B0001",
+      "T7S_B0002",
+      "T7S_B0003",
+      "T7S_B0004",
+      "T7S_B0005",
+      "T7S_B0006",
+      "T7S_B0007",
+      "T7S_B0008",
+      "T7S_B0009",
+      "T7S_B0010",
+      "T7S_B0011",
+      "T7S_B0012",
+      "T7S_B0013",
+      "T7S_B0014",
+      "T7S_B0015",
+      "T7S_B0016",
+      "T7S_B0017",
+      "T7S_B0018",
+      "T7S_B0019",
+      "T7S_B0020",
+      "T7S_B0021",
+      "T7S_B0022",
+      "T7S_B0023",
+      "T7S_B0024",
+      "T7S_B0025",
+      "T7S_B0026",
+      "T7S_B0027",
+      "T7S_B0028",
+      "T7S_B0029",
+      "T7S_B0030",
+      "T7S_B0031",
+      "T7S_B0032",
+      "T7S_B0033",
+      "T7S_B0034",
+      "T7S_B0035",
+      "T7S_B0036",
+      "T7S_B0037",
+      "T7S_B0038",
+      "T7S_B0039",
+      "T7S_B0040",
+      "T7S_B0041",
+      "T7S_B0042",
+      "T7S_B0043",
+      "T7S_B0044",
+      "T7S_B0045",
+      "T7S_B0046",
+      "T7S_B0047",
+      "T7S_B0048",
+      "T7S_B0049",
+      "T7S_B0050",
+      "T7S_B0051",
+      "T7S_B0052",
+      "T7S_B0053",
+      "T7S_B0054",
+      "T7S_B0055",
+      "T7S_B0056",
+      "T7S_B0057",
+      "T7S_B0058",
+      "T7S_B0059",
+      "T7S_B0060",
+      "T7S_B0061",
+      "T7S_B0062",
+      "T7S_B0063",
+      "T7S_B0064",
+      "T7S_B0065",
+      "T7S_B0066",
+      "T7S_B0067",
+      "T7S_B0068",
+      "T7S_B0069",
+      "T7S_B0070",
+      "T7S_B0071",
+      "T7S_B0072",
+      "T7S_B0073",
+      "T7S_B0074",
+      "T7S_B0075",
+      "T7S_B0076",
+      "T7S_B0077",
+      "T7S_B0078",
+      "T7S_B0079",
+      "T7S_B0080",
+      "T7S_B0081",
+      "T7S_B0082",
+      "T7S_B0083",
+      "T7S_B0084",
+      "T7S_B0085",
+      "T7S_B0086",
+      "T7S_B0087",
+      "T7S_B0088",
+      "T7S_B0089",
+      "T7S_B0090",
+      "T7S_B0091",
+      "T7S_B0092",
+      "T7S_B0093",
+      "T7S_B0094",
+      "T7S_B0095",
+      "T7S_B0096",
+      "T7S_B0097",
+      "T7S_B0098",
+      "T7S_B0099",
+      "T7S_B0100",
+      "T7S_B0101",
+      "T7S_B0102",
+      "T7S_B0103",
+      "T7S_B0104",
+      "T7S_B0105",
+      "T7S_B0106",
+      "T7S_B0107",
+      "T7S_B0108",
+      "T7S_B0109",
+      "T7S_B0110",
+      "T7S_B0111",
+      "T7S_B0112",
+      "T7S_B0113",
+      "T7S_B0114",
+      "T7S_B0115",
+      "T7S_B0116",
+      "T7S_B0117",
+      "T7S_B0118",
+      "T7S_B0119",
+      "T7S_B0120",
+      "T7S_B0121",
+      "T7S_B0122",
+      "T7S_B0123",
+      "T7S_B0124",
+      "T7S_B0125",
+      "T7S_B0126",
+      "T7S_B0127",
+      "T7S_B0128",
+      "T7S_B0129",
+      "T7S_B0130",
+      "T7S_B0131",
+      "T7S_B0132",
+      "T7S_B0133",
+      "T7S_B0134",
+      "T7S_B0135",
+      "T7S_B0136",
+      "T7S_B0137",
+      "T7S_B0138",
+      "T7S_B0139",
+      "T7S_B0140",
+      "T7S_B0141",
+      "T7S_B0142",
+      "T7S_B0143",
+      "T7S_B0144",
+      "T7S_B0145",
+      "T7S_B0146",
+      "T7S_B0147",
+      "T7S_B0148",
+      "T7S_B0149",
+      "T7S_B0150",
+      "T7S_B0151",
+      "T7S_B0152",
+      "T7S_B0153",
+      "T7S_B0154",
+      "T7S_B0155",
+      "T7S_B0156",
+      "T7S_B0157",
+      "T7S_B0158",
+      "T7S_B0159",
+      "T7S_B0160",
+      "T7S_B0161",
+      "T7S_B0162",
+      "T7S_B0163",
+      "T7S_B0164",
+      "T7S_B0165",
+      "T7S_B0166",
+      "T7S_B0167",
+      "T7S_B0168",
+      "T7S_B0169",
+      "T7S_B0170",
+      "T7S_B0171",
+      "T7S_B0172",
+      "T7S_B0173",
+      "T7S_B0174",
+      "T7S_B0175",
+      "T7S_B0176",
+      "T7S_B0177"
+    ],
+    "in_progress_blocks": [],
+    "consumed_sources": [
+      {
+        "episode_id": "201000001",
+        "script_id": "scout_000_00_01.json__8df3fd723276f650",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          194
+        ],
+        "log_order_index": [
+          0,
+          194
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0001_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000101",
+        "script_id": "scout_001_01_01.json__254b557ec7fc6874",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          83
+        ],
+        "log_order_index": [
+          0,
+          83
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0002_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000102",
+        "script_id": "scout_001_01_02.json__09458c8085ef31d9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          55
+        ],
+        "log_order_index": [
+          0,
+          55
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0002_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000103",
+        "script_id": "scout_001_01_03.json__7a6b811a036468c1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          20
+        ],
+        "log_order_index": [
+          0,
+          20
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0002_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000104",
+        "script_id": "scout_001_02_02.json__2b6951e4d6892e58",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          87
+        ],
+        "log_order_index": [
+          0,
+          87
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0002_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000105",
+        "script_id": "scout_001_02_03.json__551444e212ba03fe",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          20
+        ],
+        "log_order_index": [
+          0,
+          20
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0002_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000106",
+        "script_id": "scout_001_03_02.json__ce38257b9b67fb5c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          72
+        ],
+        "log_order_index": [
+          0,
+          72
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0002_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000107",
+        "script_id": "scout_001_03_03.json__6c9c46d9f5089b53",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          40
+        ],
+        "log_order_index": [
+          0,
+          40
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0002_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000108",
+        "script_id": "scout_001_04_02.json__0e0dbad375b069ae",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          78
+        ],
+        "log_order_index": [
+          0,
+          78
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0002_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000109",
+        "script_id": "scout_001_04_03.json__f0513f9f19afcab2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          51
+        ],
+        "log_order_index": [
+          0,
+          51
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0002_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000201",
+        "script_id": "scout_002_01_01.json__8f8fabffc32c7073",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          52
+        ],
+        "log_order_index": [
+          0,
+          52
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0003_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000202",
+        "script_id": "scout_002_01_02.json__55676d2ad5ef2c13",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          87
+        ],
+        "log_order_index": [
+          0,
+          87
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0003_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000203",
+        "script_id": "scout_002_01_03.json__e5c20e5a610b1398",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          27
+        ],
+        "log_order_index": [
+          0,
+          27
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0003_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000204",
+        "script_id": "scout_002_02_02.json__ae4d824185f7e5e1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          57
+        ],
+        "log_order_index": [
+          0,
+          57
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0003_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000205",
+        "script_id": "scout_002_02_03.json__a88429b28dcb9b8f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          27
+        ],
+        "log_order_index": [
+          0,
+          27
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0003_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000206",
+        "script_id": "scout_002_03_02.json__e1393d21a142ba90",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          35
+        ],
+        "log_order_index": [
+          0,
+          35
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0003_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000207",
+        "script_id": "scout_002_03_03.json__8797358d3d63deb0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          28
+        ],
+        "log_order_index": [
+          0,
+          28
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0003_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000208",
+        "script_id": "scout_002_04_02.json__a60aa85928f9212b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          18
+        ],
+        "log_order_index": [
+          0,
+          18
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0003_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000209",
+        "script_id": "scout_002_04_03.json__1a497828ecc30a4f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0003_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000301",
+        "script_id": "scout_003_01_01.json__2261d2430958079b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          76
+        ],
+        "log_order_index": [
+          0,
+          76
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0004_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000302",
+        "script_id": "scout_003_01_02.json__54e23a6e18820bf4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          28
+        ],
+        "log_order_index": [
+          0,
+          28
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0004_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000303",
+        "script_id": "scout_003_01_03.json__b73499f303b4b1e4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          26
+        ],
+        "log_order_index": [
+          0,
+          26
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0004_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000304",
+        "script_id": "scout_003_02_02.json__2e39ba53a1fd9136",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          37
+        ],
+        "log_order_index": [
+          0,
+          37
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0004_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000305",
+        "script_id": "scout_003_02_03.json__0a73394d981960b9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          14
+        ],
+        "log_order_index": [
+          0,
+          14
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0004_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000306",
+        "script_id": "scout_003_03_02.json__4100baf0d22a17e9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          41
+        ],
+        "log_order_index": [
+          0,
+          41
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0004_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000307",
+        "script_id": "scout_003_03_03.json__7522b65ee7406e0a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          68
+        ],
+        "log_order_index": [
+          0,
+          68
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0004_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000308",
+        "script_id": "scout_003_04_02.json__3e25191da487f957",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          19
+        ],
+        "log_order_index": [
+          0,
+          19
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0004_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000309",
+        "script_id": "scout_003_04_03.json__ef9e6455cf6fa708",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          53
+        ],
+        "log_order_index": [
+          0,
+          53
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0004_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000401",
+        "script_id": "scout_004_01_01.json__9e26666955a9372f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000402",
+        "script_id": "scout_004_01_02.json__4c6b2ec4b7f43c93",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          28
+        ],
+        "log_order_index": [
+          0,
+          28
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000403",
+        "script_id": "scout_004_01_03.json__ee31a7a812eece40",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          29
+        ],
+        "log_order_index": [
+          0,
+          29
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000404",
+        "script_id": "scout_004_02_02.json__7975f18a06c661e1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          64
+        ],
+        "log_order_index": [
+          0,
+          64
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000405",
+        "script_id": "scout_004_02_03.json__a0971e385f1d543a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          15
+        ],
+        "log_order_index": [
+          0,
+          15
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000406",
+        "script_id": "scout_004_03_02.json__5e34150643ca454c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          62
+        ],
+        "log_order_index": [
+          0,
+          62
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000407",
+        "script_id": "scout_004_03_03.json__dbb1903e63342c48",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          20
+        ],
+        "log_order_index": [
+          0,
+          20
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000408",
+        "script_id": "scout_004_04_02.json__e64dada90214b4bb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          7
+        ],
+        "log_order_index": [
+          0,
+          7
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000409",
+        "script_id": "scout_004_04_03.json__1793a050a9549a77",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          35
+        ],
+        "log_order_index": [
+          0,
+          35
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000501",
+        "script_id": "scout_005_01_01.json__4d2f2a36f33a5173",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          53
+        ],
+        "log_order_index": [
+          0,
+          53
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0006_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000502",
+        "script_id": "scout_005_01_02.json__aac3190bc4ef6fca",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          37
+        ],
+        "log_order_index": [
+          0,
+          37
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0006_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000503",
+        "script_id": "scout_005_01_03.json__15786b998c7f9fd1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          24
+        ],
+        "log_order_index": [
+          0,
+          24
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0006_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000504",
+        "script_id": "scout_005_02_02.json__0851e6112f2729ba",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          41
+        ],
+        "log_order_index": [
+          0,
+          41
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0006_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000505",
+        "script_id": "scout_005_02_03.json__e8bd83b7adc8327d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          32
+        ],
+        "log_order_index": [
+          0,
+          32
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0006_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000506",
+        "script_id": "scout_005_03_02.json__abe2e8a765473f7b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          72
+        ],
+        "log_order_index": [
+          0,
+          72
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0006_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000507",
+        "script_id": "scout_005_03_03.json__88bbc9b65fe36285",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          23
+        ],
+        "log_order_index": [
+          0,
+          23
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0006_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000508",
+        "script_id": "scout_005_04_02.json__9d72b049233b6e11",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          31
+        ],
+        "log_order_index": [
+          0,
+          31
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0006_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000509",
+        "script_id": "scout_005_04_03.json__e23923cc376d76ec",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0006_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000601",
+        "script_id": "scout_006_01_01.json__6128561e1329882d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          72
+        ],
+        "log_order_index": [
+          0,
+          72
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0007_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000602",
+        "script_id": "scout_006_01_02.json__8d81e4f06fd7a7ed",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          66
+        ],
+        "log_order_index": [
+          0,
+          66
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0007_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000603",
+        "script_id": "scout_006_01_03.json__6505b37f6f2a7416",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          32
+        ],
+        "log_order_index": [
+          0,
+          32
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0007_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000604",
+        "script_id": "scout_006_02_02.json__b88305af605eba32",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          49
+        ],
+        "log_order_index": [
+          0,
+          49
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0007_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000605",
+        "script_id": "scout_006_02_03.json__53825ba661ede61d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          20
+        ],
+        "log_order_index": [
+          0,
+          20
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0007_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000606",
+        "script_id": "scout_006_03_02.json__f001e23f37cdf1f7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          58
+        ],
+        "log_order_index": [
+          0,
+          58
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0007_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000607",
+        "script_id": "scout_006_03_03.json__d47cde38b61980d3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          16
+        ],
+        "log_order_index": [
+          0,
+          16
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0007_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000608",
+        "script_id": "scout_006_04_02.json__2b62d71a77140c4e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          24
+        ],
+        "log_order_index": [
+          0,
+          24
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0007_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000609",
+        "script_id": "scout_006_04_03.json__3033ad3531143cb8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          55
+        ],
+        "log_order_index": [
+          0,
+          55
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0007_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000701",
+        "script_id": "scout_007_01_01.json__6dd916ae293fdd45",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          55
+        ],
+        "log_order_index": [
+          0,
+          55
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0008_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000702",
+        "script_id": "scout_007_01_02.json__916932870a3bda08",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          50
+        ],
+        "log_order_index": [
+          0,
+          50
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0008_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000703",
+        "script_id": "scout_007_01_03.json__84a46fae5efbd9c2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          22
+        ],
+        "log_order_index": [
+          0,
+          22
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0008_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000704",
+        "script_id": "scout_007_02_02.json__eaea021bb99bfa8f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          30
+        ],
+        "log_order_index": [
+          0,
+          30
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0008_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000705",
+        "script_id": "scout_007_02_03.json__260a2b8d11c8a9d5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          39
+        ],
+        "log_order_index": [
+          0,
+          39
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0008_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000706",
+        "script_id": "scout_007_03_02.json__8069e79e326f8ef7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          65
+        ],
+        "log_order_index": [
+          0,
+          65
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0008_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000707",
+        "script_id": "scout_007_03_03.json__53c754c5885568b0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          11
+        ],
+        "log_order_index": [
+          0,
+          11
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0008_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000708",
+        "script_id": "scout_007_04_02.json__39367e8ce46fee2b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          23
+        ],
+        "log_order_index": [
+          0,
+          23
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0008_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000709",
+        "script_id": "scout_007_04_03.json__731bff8409a73140",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          43
+        ],
+        "log_order_index": [
+          0,
+          43
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0008_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000801",
+        "script_id": "scout_008_01_01.json__baf782fe3895a172",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          85
+        ],
+        "log_order_index": [
+          0,
+          85
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0009_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000802",
+        "script_id": "scout_008_01_02.json__58048730010c9e27",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          40
+        ],
+        "log_order_index": [
+          0,
+          40
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0009_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000803",
+        "script_id": "scout_008_01_03.json__dfbb08387533fdda",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          40
+        ],
+        "log_order_index": [
+          0,
+          40
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0009_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000804",
+        "script_id": "scout_008_02_02.json__699e7e131d982858",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          70
+        ],
+        "log_order_index": [
+          0,
+          70
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0009_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000805",
+        "script_id": "scout_008_02_03.json__2c623aa0ceff2ca4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          42
+        ],
+        "log_order_index": [
+          0,
+          42
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0009_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000806",
+        "script_id": "scout_008_03_02.json__24bc8db40c0e6ee7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          28
+        ],
+        "log_order_index": [
+          0,
+          28
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0009_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000807",
+        "script_id": "scout_008_03_03.json__3b53c8f31ebab091",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          52
+        ],
+        "log_order_index": [
+          0,
+          52
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0009_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000808",
+        "script_id": "scout_008_04_02.json__f704f682fe66a92c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          60
+        ],
+        "log_order_index": [
+          0,
+          60
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0009_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000809",
+        "script_id": "scout_008_04_03.json__d4044792c1cfc032",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          64
+        ],
+        "log_order_index": [
+          0,
+          64
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0009_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000901",
+        "script_id": "scout_009_01_01.json__cda86bf05849cc41",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          64
+        ],
+        "log_order_index": [
+          0,
+          64
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0010_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000902",
+        "script_id": "scout_009_01_02.json__dd2af0b33816998f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          49
+        ],
+        "log_order_index": [
+          0,
+          49
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0010_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000903",
+        "script_id": "scout_009_01_03.json__51d373b97161d120",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          79
+        ],
+        "log_order_index": [
+          0,
+          79
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0010_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000904",
+        "script_id": "scout_009_02_02.json__0bea6f345e1864b5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          68
+        ],
+        "log_order_index": [
+          0,
+          68
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0010_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000905",
+        "script_id": "scout_009_02_03.json__3b9fd5c652ad4c1f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          28
+        ],
+        "log_order_index": [
+          0,
+          28
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0010_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000906",
+        "script_id": "scout_009_03_02.json__f8b6e70682695b60",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          38
+        ],
+        "log_order_index": [
+          0,
+          38
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0010_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000907",
+        "script_id": "scout_009_03_03.json__0483a20f9c1cd2d7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          34
+        ],
+        "log_order_index": [
+          0,
+          34
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0010_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000908",
+        "script_id": "scout_009_04_02.json__68a9ee5a6e67308b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          63
+        ],
+        "log_order_index": [
+          0,
+          63
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0010_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000909",
+        "script_id": "scout_009_04_03.json__5dbb0a9caddd6b69",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          87
+        ],
+        "log_order_index": [
+          0,
+          87
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0010_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201001001",
+        "script_id": "scout_010_01_01.json__2bafd0b1d471b1d0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          77
+        ],
+        "log_order_index": [
+          0,
+          77
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0011_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201001002",
+        "script_id": "scout_010_01_02.json__dddf9c85d0490a52",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          41
+        ],
+        "log_order_index": [
+          0,
+          41
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0011_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201001003",
+        "script_id": "scout_010_01_03.json__3e32b40d8b6e6799",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          18
+        ],
+        "log_order_index": [
+          0,
+          18
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0011_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201001004",
+        "script_id": "scout_010_02_02.json__4464c0fbeaedd2c3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          21
+        ],
+        "log_order_index": [
+          0,
+          21
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0011_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201001005",
+        "script_id": "scout_010_02_03.json__5e2bf76fea2c0d22",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          30
+        ],
+        "log_order_index": [
+          0,
+          30
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0011_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201001006",
+        "script_id": "scout_010_03_02.json__3b678f693991dbcd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0011_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201001007",
+        "script_id": "scout_010_03_03.json__32ada855357ccb9e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          11
+        ],
+        "log_order_index": [
+          0,
+          11
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0011_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201001008",
+        "script_id": "scout_010_04_02.json__7637432ae397c15b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          30
+        ],
+        "log_order_index": [
+          0,
+          30
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0011_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201001009",
+        "script_id": "scout_010_04_03.json__43265a8dbd039c5d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0011_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203000701",
+        "script_id": "legend_007_02.json__a68d38a9779f8100",
+        "document_ref": "primary",
+        "page_index": [0, 29],
+        "log_order_index": [0, 29],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0012_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203000702",
+        "script_id": "legend_007_03.json__4c9020376dbb8156",
+        "document_ref": "primary",
+        "page_index": [0, 22],
+        "log_order_index": [0, 22],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0012_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203000801",
+        "script_id": "legend_008_02.json__9f17f6688baaaf6a",
+        "document_ref": "primary",
+        "page_index": [0, 17],
+        "log_order_index": [0, 17],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0012_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203000802",
+        "script_id": "legend_008_03.json__7f8f50c55803da8f",
+        "document_ref": "primary",
+        "page_index": [0, 18],
+        "log_order_index": [0, 18],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0012_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203000901",
+        "script_id": "legend_009_02.json__42ec34bd105b6e8b",
+        "document_ref": "primary",
+        "page_index": [0, 20],
+        "log_order_index": [0, 20],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0012_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203000902",
+        "script_id": "legend_009_03.json__71aad3903b7ac1c8",
+        "document_ref": "primary",
+        "page_index": [0, 32],
+        "log_order_index": [0, 32],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0012_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001101",
+        "script_id": "legend_011_02.json__25563ff931861c02",
+        "document_ref": "primary",
+        "page_index": [0, 75],
+        "log_order_index": [0, 75],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0013_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001102",
+        "script_id": "legend_011_03.json__a0a1cca91020facc",
+        "document_ref": "primary",
+        "page_index": [0, 68],
+        "log_order_index": [0, 68],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0013_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001201",
+        "script_id": "legend_012_02.json__8e6dcef14c4305ff",
+        "document_ref": "primary",
+        "page_index": [0, 59],
+        "log_order_index": [0, 59],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0013_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001202",
+        "script_id": "legend_012_03.json__c28965a5bb8b5996",
+        "document_ref": "primary",
+        "page_index": [0, 90],
+        "log_order_index": [0, 90],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0013_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001301",
+        "script_id": "legend_013_02.json__de58aec7db26ab7c",
+        "document_ref": "primary",
+        "page_index": [0, 76],
+        "log_order_index": [0, 76],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0013_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001302",
+        "script_id": "legend_013_03.json__ef59778a8d431539",
+        "document_ref": "primary",
+        "page_index": [0, 111],
+        "log_order_index": [0, 111],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0013_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001401",
+        "script_id": "legend_014_02.json__1c2037a98dc8b35d",
+        "document_ref": "primary",
+        "page_index": [0, 143],
+        "log_order_index": [0, 143],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0014_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001402",
+        "script_id": "legend_014_03.json__ffe462bbf0785e61",
+        "document_ref": "primary",
+        "page_index": [0, 83],
+        "log_order_index": [0, 83],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0014_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001501",
+        "script_id": "legend_015_02.json__ba3df0b8cc48897f",
+        "document_ref": "primary",
+        "page_index": [0, 66],
+        "log_order_index": [0, 66],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0015_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001502",
+        "script_id": "legend_015_03.json__17736836e94930f1",
+        "document_ref": "primary",
+        "page_index": [0, 26],
+        "log_order_index": [0, 26],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0015_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001601",
+        "script_id": "legend_016_02.json__071ecb0f38d6f915",
+        "document_ref": "primary",
+        "page_index": [0, 36],
+        "log_order_index": [0, 36],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0015_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001602",
+        "script_id": "legend_016_03.json__b2eedd0e95971cc9",
+        "document_ref": "primary",
+        "page_index": [0, 100],
+        "log_order_index": [0, 100],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0015_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001701",
+        "script_id": "legend_017_02.json__50aad794fe31bf13",
+        "document_ref": "primary",
+        "page_index": [0, 27],
+        "log_order_index": [0, 27],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0016_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001702",
+        "script_id": "legend_017_03.json__2f34089142f568e7",
+        "document_ref": "primary",
+        "page_index": [0, 232],
+        "log_order_index": [0, 232],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0016_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001801",
+        "script_id": "legend_018_02.json__bb39fa943cabe378",
+        "document_ref": "primary",
+        "page_index": [0, 60],
+        "log_order_index": [0, 60],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0016_DEEP_READING.md"
+      },
+      {
+        "episode_id": "203001802",
+        "script_id": "legend_018_03.json__f1d29da81affbff9",
+        "document_ref": "primary",
+        "page_index": [0, 72],
+        "log_order_index": [0, 72],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0016_DEEP_READING.md"
+      },
+      {
+        "episode_id": "204001001", "script_id": "legend_010_02.json__b1b2b4dbdad42bdc", "document_ref": "primary",
+        "page_index": [0, 23], "log_order_index": [0, 23], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0017_DEEP_READING.md"
+      },
+      {
+        "episode_id": "204001002", "script_id": "legend_010_03.json__94635aeb1a19f25c", "document_ref": "primary",
+        "page_index": [0, 23], "log_order_index": [0, 23], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0017_DEEP_READING.md"
+      },
+      {
+        "episode_id": "311100101", "script_id": "ing_101001_01.json__aee671176e8678c5", "document_ref": "primary",
+        "page_index": [0, 143], "log_order_index": [0, 143], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0018_DEEP_READING.md"
+      },
+      {
+        "episode_id": "311100102", "script_id": "ing_101001_02.json__d5e94bf81d4ea1f8", "document_ref": "primary",
+        "page_index": [0, 226], "log_order_index": [0, 226], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0018_DEEP_READING.md"
+      },
+      {
+        "episode_id": "311100201", "script_id": "ing_101002_01.json__3868bda37a4b3670", "document_ref": "primary",
+        "page_index": [0, 112], "log_order_index": [0, 112], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0019_DEEP_READING.md"
+      },
+      {
+        "episode_id": "311100202", "script_id": "ing_101002_02.json__abce0b6bd9f5326d", "document_ref": "primary",
+        "page_index": [0, 96], "log_order_index": [0, 96], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0019_DEEP_READING.md"
+      },
+      {
+        "episode_id": "311100301", "script_id": "ing_101003_01.json__eb9bf6206cc5c6fd", "document_ref": "primary",
+        "page_index": [0, 72], "log_order_index": [0, 72], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0019_DEEP_READING.md"
+      },
+      {
+        "episode_id": "311100302", "script_id": "ing_101003_02.json__bc932834439006e3", "document_ref": "primary",
+        "page_index": [0, 111], "log_order_index": [0, 111], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0019_DEEP_READING.md"
+      },
+      {
+        "episode_id": "311100401", "script_id": "ing_101004_01.json__ed5b0677209bdb3a", "document_ref": "primary",
+        "page_index": [0, 95], "log_order_index": [0, 95], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0020_DEEP_READING.md"
+      },
+      {
+        "episode_id": "311100402", "script_id": "ing_101004_02.json__6163c67d943fabec", "document_ref": "primary",
+        "page_index": [0, 143], "log_order_index": [0, 143], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0020_DEEP_READING.md"
+      },
+      {
+        "episode_id": "311100501", "script_id": "ing_101005_01.json__dbae138ddbf98f64", "document_ref": "primary",
+        "page_index": [0, 62], "log_order_index": [0, 62], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0020_DEEP_READING.md"
+      },
+      {
+        "episode_id": "311100502", "script_id": "ing_101005_02.json__9aa3b9f92ea5795d", "document_ref": "primary",
+        "page_index": [0, 92], "log_order_index": [0, 92], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0020_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300101", "script_id": "ing_103001_01.json__43692b487b77c975", "document_ref": "primary",
+        "page_index": [0, 85], "log_order_index": [0, 85], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0021_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300102", "script_id": "ing_103001_02.json__6865a7d868127932", "document_ref": "primary",
+        "page_index": [0, 114], "log_order_index": [0, 114], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0021_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300201", "script_id": "ing_103002_01.json__7e5c7ccc08b98c04", "document_ref": "primary",
+        "page_index": [0, 112], "log_order_index": [0, 112], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0021_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300202", "script_id": "ing_103002_02.json__b6d61ab27b8e127c", "document_ref": "primary",
+        "page_index": [0, 125], "log_order_index": [0, 125], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0021_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300301", "script_id": "ing_103003_01.json__9b751760e9c22485", "document_ref": "primary",
+        "page_index": [0, 138], "log_order_index": [0, 138], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0022_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300302", "script_id": "ing_103003_02.json__cc39546930be1295", "document_ref": "primary",
+        "page_index": [0, 77], "log_order_index": [0, 77], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0022_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300401", "script_id": "ing_103004_01.json__60416e02dec37448", "document_ref": "primary",
+        "page_index": [0, 91], "log_order_index": [0, 91], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0022_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300402", "script_id": "ing_103004_02.json__785bb59a8e34675d", "document_ref": "primary",
+        "page_index": [0, 100], "log_order_index": [0, 100], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0022_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300501", "script_id": "ing_103005_01.json__6f6219c871343d4a", "document_ref": "primary",
+        "page_index": [0, 84], "log_order_index": [0, 84], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0022_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300502", "script_id": "ing_103005_02.json__9ef8b9a1700987f0", "document_ref": "primary",
+        "page_index": [0, 73], "log_order_index": [0, 73], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0022_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300601", "script_id": "ing_103006_01.json__04c231933e3cf52b", "document_ref": "primary",
+        "page_index": [0, 109], "log_order_index": [0, 109], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0023_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300602", "script_id": "ing_103006_02.json__7b2ee79f1e3d25b8", "document_ref": "primary",
+        "page_index": [0, 121], "log_order_index": [0, 121], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0023_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300701", "script_id": "ing_103007_01.json__b2a472c2f6d5c570", "document_ref": "primary",
+        "page_index": [0, 181], "log_order_index": [0, 181], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0023_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300702", "script_id": "ing_103007_02.json__116bfb0b754bcc77", "document_ref": "primary",
+        "page_index": [0, 121], "log_order_index": [0, 121], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0023_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300801", "script_id": "ing_103008_01.json__47182d09137e1f61", "document_ref": "primary",
+        "page_index": [0, 98], "log_order_index": [0, 98], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0024_DEEP_READING.md"
+      },
+      {
+        "episode_id": "313300802", "script_id": "ing_103008_02.json__b06a250e45fd5b23", "document_ref": "primary",
+        "page_index": [0, 111], "log_order_index": [0, 111], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0024_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100101", "script_id": "ing3_101001_01.json__854e3970d910a247", "document_ref": "primary",
+        "page_index": [0, 196], "log_order_index": [0, 196], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0025_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100102", "script_id": "ing3_101001_02.json__f40155e4c9840d18", "document_ref": "primary",
+        "page_index": [0, 239], "log_order_index": [0, 239], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0025_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100201", "script_id": "ing3_101002_01.json__7bf458b71b5a9eb8", "document_ref": "primary",
+        "page_index": [0, 144], "log_order_index": [0, 144], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0026_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100202", "script_id": "ing3_101002_02.json__64c295309156a35d", "document_ref": "primary",
+        "page_index": [0, 184], "log_order_index": [0, 184], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0026_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100301", "script_id": "ing3_101003_01.json__e512d9c27164bf2b", "document_ref": "primary",
+        "page_index": [0, 169], "log_order_index": [0, 169], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0027_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100302", "script_id": "ing3_101003_02.json__b6f2c97c60ced25c", "document_ref": "primary",
+        "page_index": [0, 199], "log_order_index": [0, 199], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0027_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100401", "script_id": "ing3_101004_01.json__916513554faa133c", "document_ref": "primary",
+        "page_index": [0, 92], "log_order_index": [0, 92], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0028_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100402", "script_id": "ing3_101004_02.json__19272d0ae770332f", "document_ref": "primary",
+        "page_index": [0, 162], "log_order_index": [0, 162], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0028_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100501", "script_id": "ing3_101005_01.json__47f74b8a7cfd4b0e", "document_ref": "primary",
+        "page_index": [0, 89], "log_order_index": [0, 89], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0029_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100502", "script_id": "ing3_101005_02.json__c825f4be8eee86f6", "document_ref": "primary",
+        "page_index": [0, 165], "log_order_index": [0, 165], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0029_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100601", "script_id": "ing3_101006_01.json__7f59fb406e04ea47", "document_ref": "primary",
+        "page_index": [0, 102], "log_order_index": [0, 102], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0030_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100602", "script_id": "ing3_101006_02.json__5fe55b2e4c176f05", "document_ref": "primary",
+        "page_index": [0, 183], "log_order_index": [0, 183], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0030_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100701", "script_id": "ing3_101007_01.json__44ad091d4b012f9e", "document_ref": "primary",
+        "page_index": [0, 218], "log_order_index": [0, 218], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0031_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100702", "script_id": "ing3_101007_02.json__45c439eb528518de", "document_ref": "primary",
+        "page_index": [0, 229], "log_order_index": [0, 229], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0031_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100801", "script_id": "ing3_101008_01.json__eab22ed01ba5a128", "document_ref": "primary",
+        "page_index": [0, 183], "log_order_index": [0, 183], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0032_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100802", "script_id": "ing3_101008_02.json__1d5f64c991210242", "document_ref": "primary",
+        "page_index": [0, 104], "log_order_index": [0, 104], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0032_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100901", "script_id": "ing3_101009_01.json__2cc0cc67018a9e92", "document_ref": "primary",
+        "page_index": [0, 108], "log_order_index": [0, 108], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0033_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611100902", "script_id": "ing3_101009_02.json__24f77f18796147f2", "document_ref": "primary",
+        "page_index": [0, 106], "log_order_index": [0, 106], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0033_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101001", "script_id": "ing3_101010_01.json__cf068674bbb96ca8", "document_ref": "primary",
+        "page_index": [0, 137], "log_order_index": [0, 137], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0034_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101002", "script_id": "ing3_101010_02.json__c48d8bf839c445ba", "document_ref": "primary",
+        "page_index": [0, 190], "log_order_index": [0, 190], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0034_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101101", "script_id": "ing3_101011_01.json__3b1a18690e714d74", "document_ref": "primary",
+        "page_index": [0, 278], "log_order_index": [0, 278], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0035_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101102", "script_id": "ing3_101011_02.json__158e2470d83a3a2d", "document_ref": "primary",
+        "page_index": [0, 664], "log_order_index": [0, 664], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0035_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101201", "script_id": "ing3_101012_01.json__0d54f04995eeb0c4", "document_ref": "primary",
+        "page_index": [0, 156], "log_order_index": [0, 156], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0036_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101202", "script_id": "ing3_101012_02.json__362290e00cbfbe15", "document_ref": "primary",
+        "page_index": [0, 447], "log_order_index": [0, 447], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0036_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101301", "script_id": "ing3_101013_01.json__dc909ba2ec38f022", "document_ref": "primary",
+        "page_index": [0, 325], "log_order_index": [0, 325], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0037_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101302", "script_id": "ing3_101013_02.json__47485ddb7f31e358", "document_ref": "primary",
+        "page_index": [0, 367], "log_order_index": [0, 367], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0037_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101401", "script_id": "ing3_101014_01.json__df3aa1cf5dc827d7", "document_ref": "primary",
+        "page_index": [0, 178], "log_order_index": [0, 178], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0038_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101402", "script_id": "ing3_101014_02.json__565af99feb4d2d46", "document_ref": "primary",
+        "page_index": [0, 179], "log_order_index": [0, 179], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0038_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101403", "script_id": "ing3_101014_03.json__d148f5920662628d", "document_ref": "primary",
+        "page_index": [0, 372], "log_order_index": [0, 372], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0038_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101404", "script_id": "ing3_101014_04.json__edba975bc3f42f24", "document_ref": "primary",
+        "page_index": [0, 356], "log_order_index": [0, 356], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0038_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101501", "script_id": "ing3_101015_00.json__a28f58d570bf8ceb", "document_ref": "primary",
+        "page_index": [0, 15], "log_order_index": [0, 15], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0039_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101502", "script_id": "ing3_101015_01.json__c91d4640e8c15248", "document_ref": "primary",
+        "page_index": [0, 103], "log_order_index": [0, 103], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0039_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101503", "script_id": "ing3_101015_02.json__d5edf63cbd8b3bb2", "document_ref": "primary",
+        "page_index": [0, 146], "log_order_index": [0, 146], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0039_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101504", "script_id": "ing3_101015_03.json__797dadda8880d887", "document_ref": "primary",
+        "page_index": [0, 182], "log_order_index": [0, 182], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0039_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101601", "script_id": "ing3_101016_00.json__c1b304506c1a057e", "document_ref": "primary",
+        "page_index": [0, 34], "log_order_index": [0, 34], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0040_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101602", "script_id": "ing3_101016_01.json__d9f526c3e5f8285b", "document_ref": "primary",
+        "page_index": [0, 102], "log_order_index": [0, 102], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0040_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101603", "script_id": "ing3_101016_02.json__7588cd94f7c1260f", "document_ref": "primary",
+        "page_index": [0, 107], "log_order_index": [0, 107], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0040_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101604", "script_id": "ing3_101016_03.json__a4ffaf7514637a30", "document_ref": "primary",
+        "page_index": [0, 145], "log_order_index": [0, 145], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0040_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101701", "script_id": "ing3_101017_00.json__2f5c66674298185c", "document_ref": "primary",
+        "page_index": [0, 63], "log_order_index": [0, 63], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0041_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101702", "script_id": "ing3_101017_01.json__730f1148f6549100", "document_ref": "primary",
+        "page_index": [0, 186], "log_order_index": [0, 186], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0041_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101703", "script_id": "ing3_101017_02.json__38871865ab0c3837", "document_ref": "primary",
+        "page_index": [0, 173], "log_order_index": [0, 173], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0041_DEEP_READING.md"
+      },
+      {
+        "episode_id": "611101704", "script_id": "ing3_101017_03.json__2bcbc3961329cf15", "document_ref": "primary",
+        "page_index": [0, 148], "log_order_index": [0, 148], "choice_scope": "NONE", "canonical_artifact": "02 Readings/T7S_B0041_DEEP_READING.md"
+      },
+      {"episode_id":"711100101","script_id":"ing4_101001_01.json__477e8ba9159abcb9","document_ref":"primary","page_index":[0,280],"log_order_index":[0,310],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0042_DEEP_READING.md"},
+      {"episode_id":"711100101","script_id":"vo_ing4_01_m01.json__f7aa20e4ca71d400","document_ref":"inline_movie_transcripts/0","page_index":[0,5],"log_order_index":[147,152],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0042_DEEP_READING.md"},
+      {"episode_id":"711100101","script_id":"vo_ing4_01_m02.json__3f9a5d44b4dafc66","document_ref":"inline_movie_transcripts/1","page_index":[0,6],"log_order_index":[221,227],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0042_DEEP_READING.md"},
+      {"episode_id":"711100101","script_id":"vo_ing4_01_m03.json__fd3f476b6ac71a4c","document_ref":"inline_movie_transcripts/2","page_index":[0,3],"log_order_index":[238,241],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0042_DEEP_READING.md"},
+      {"episode_id":"711100101","script_id":"vo_ing4_01_m04.json__289b8fd996218c82","document_ref":"inline_movie_transcripts/3","page_index":[0,12],"log_order_index":[250,262],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0042_DEEP_READING.md"},
+      {"episode_id":"711100102","script_id":"ing4_101002_01.json__f2b56be3aab55b20","document_ref":"primary","page_index":[0,292],"log_order_index":[0,303],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0043_DEEP_READING.md"},
+      {"episode_id":"711100102","script_id":"vo_ing4_02_m01.json__4712b612ccc07abd","document_ref":"inline_movie_transcripts/0","page_index":[0,10],"log_order_index":[214,224],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0043_DEEP_READING.md"},
+      {"episode_id":"711100103","script_id":"ing4_101003_01.json__e50e1177862e8568","document_ref":"primary","page_index":[0,327],"log_order_index":[0,327],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0044_DEEP_READING.md"},
+      {"episode_id":"711100104","script_id":"ing4_101004_01.json__0053ac3a10b99e93","document_ref":"primary","page_index":[0,350],"log_order_index":[0,350],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0045_DEEP_READING.md"},
+      {"episode_id":"711100105","script_id":"ing4_101005_01.json__aae7ff8430b948b4","document_ref":"primary","page_index":[0,287],"log_order_index":[0,302],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0046_DEEP_READING.md"},
+      {"episode_id":"711100105","script_id":"vo_ing4_05_m01.json__372e36a11860d3b8","document_ref":"inline_movie_transcripts/0","page_index":[0,10],"log_order_index":[254,264],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0046_DEEP_READING.md"},
+      {"episode_id":"711100105","script_id":"vo_ing4_05_m02.json__fbe96962b6c781b1","document_ref":"inline_movie_transcripts/1","page_index":[0,3],"log_order_index":[266,269],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0046_DEEP_READING.md"},
+      {"episode_id":"711100106","script_id":"ing4_101006_01.json__898dafd75a9df41f","document_ref":"primary","page_index":[0,317],"log_order_index":[0,317],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0047_DEEP_READING.md"},
+      {"episode_id":"711100107","script_id":"ing4_101007_01.json__37a99d153e868cea","document_ref":"primary","page_index":[0,450],"log_order_index":[0,485],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0048_DEEP_READING.md"},
+      {"episode_id":"711100107","script_id":"vo_ing4_07_m01.json__a805fbba4f71e28d","document_ref":"inline_movie_transcripts/0","page_index":[0,13],"log_order_index":[256,269],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0048_DEEP_READING.md"},
+      {"episode_id":"711100107","script_id":"vo_ing4_07_m02.json__71caf618435e9f6e","document_ref":"inline_movie_transcripts/1","page_index":[0,4],"log_order_index":[406,410],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0048_DEEP_READING.md"},
+      {"episode_id":"711100107","script_id":"vo_ing4_07_m03.json__6351c60c239daf9a","document_ref":"inline_movie_transcripts/2","page_index":[0,15],"log_order_index":[458,473],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0048_DEEP_READING.md"},
+      {"episode_id":"711100107","script_id":"vo_ing4_07_m04.json__1b7c095fe507e38b","document_ref":"inline_movie_transcripts/3","page_index":[0,0],"log_order_index":[486,486],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0048_DEEP_READING.md"},
+      {"episode_id":"711100108","script_id":"ing4_101008_01.json__6bafd1161d76d772","document_ref":"primary","page_index":[0,466],"log_order_index":[0,497],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0049_DEEP_READING.md"},
+      {"episode_id":"711100108","script_id":"vo_ing4_08_m01.json__b4b1e9fd300c9f6d","document_ref":"inline_movie_transcripts/0","page_index":[0,8],"log_order_index":[87,95],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0049_DEEP_READING.md"},
+      {"episode_id":"711100108","script_id":"vo_ing4_08_m03.json__9953013b0988e85d","document_ref":"inline_movie_transcripts/1","page_index":[0,14],"log_order_index":[118,132],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0049_DEEP_READING.md"},
+      {"episode_id":"711100108","script_id":"vo_ing4_08_m04.json__a7f0ce777bcdd475","document_ref":"inline_movie_transcripts/2","page_index":[0,4],"log_order_index":[253,257],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0049_DEEP_READING.md"},
+      {"episode_id":"711100108","script_id":"vo_ing4_08_m05.json__5159714c0b0c1855","document_ref":"inline_movie_transcripts/3","page_index":[0,0],"log_order_index":[259,259],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0049_DEEP_READING.md"},
+      {"episode_id":"711100108","script_id":"vo_ing4_08_m06.json__fd5942dede353260","document_ref":"inline_movie_transcripts/4","page_index":[0,0],"log_order_index":[261,261],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0049_DEEP_READING.md"},
+      {"episode_id":"711100108","script_id":"vo_ing4_08_m07.json__83015f53241eb182","document_ref":"inline_movie_transcripts/5","page_index":[0,0],"log_order_index":[498,498],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0049_DEEP_READING.md"},
+      {"episode_id":"711100109","script_id":"ing4_101009_01.json__b8f2d0ac479f8d39","document_ref":"primary","page_index":[0,434],"log_order_index":[0,434],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0050_DEEP_READING.md"},
+      {"episode_id":"711100110","script_id":"ing4_101010_01.json__af51ad906a2a6447","document_ref":"primary","page_index":[0,290],"log_order_index":[0,337],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0051_DEEP_READING.md"},
+      {"episode_id":"711100110","script_id":"vo_ing4_10_m01.json__73753bd0db7ce914","document_ref":"inline_movie_transcripts/0","page_index":[0,46],"log_order_index":[234,280],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0051_DEEP_READING.md"},
+      {"episode_id":"711100111","script_id":"ing4_101011_01.json__4ea97a7241063c8c","document_ref":"primary","page_index":[0,663],"log_order_index":[0,663],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0052_DEEP_READING.md"},
+      {"episode_id":"711100112","script_id":"ing4_101012_01.json__aa6f2b167ba8cb3f","document_ref":"primary","page_index":[0,603],"log_order_index":[0,681],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0053_DEEP_READING.md"},
+      {"episode_id":"711100112","script_id":"vo_ing4_12_m01.json__933f67c3e38ff760","document_ref":"inline_movie_transcripts/0","page_index":[0,7],"log_order_index":[2,9],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0053_DEEP_READING.md"},
+      {"episode_id":"711100112","script_id":"vo_ing4_12_m02.json__01f60b7acb9877af","document_ref":"inline_movie_transcripts/1","page_index":[0,69],"log_order_index":[481,550],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0053_DEEP_READING.md"},
+      {"episode_id":"711100112","script_id":"vo_ing4_12_m03.json__0cc65e839db998cb","document_ref":"inline_movie_transcripts/2","page_index":[0,9],"log_order_index":[682,691],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0053_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"ing4_101013_01.json__7125c61cf09c61bb","document_ref":"primary","page_index":[0,855],"log_order_index":[0,1372],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m01.json__901a821e060d651a","document_ref":"inline_movie_transcripts/0","page_index":[0,47],"log_order_index":[2,49],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m02.json__690b1efeee5929cd","document_ref":"inline_movie_transcripts/1","page_index":[0,61],"log_order_index":[368,429],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m03.json__bc6215ffa2ae47bf","document_ref":"inline_movie_transcripts/2","page_index":[0,40],"log_order_index":[433,473],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m04.json__f46bec58f8ee6ddd","document_ref":"inline_movie_transcripts/3","page_index":[0,42],"log_order_index":[537,579],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m05.json__3d01c73428bf7040","document_ref":"inline_movie_transcripts/4","page_index":[0,43],"log_order_index":[595,638],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m06.json__46ed6f774f7f7859","document_ref":"inline_movie_transcripts/5","page_index":[0,57],"log_order_index":[652,709],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m07.json__cb7cfc6fd9a92100","document_ref":"inline_movie_transcripts/6","page_index":[0,57],"log_order_index":[757,814],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m08.json__17287e2ca453181e","document_ref":"inline_movie_transcripts/7","page_index":[0,32],"log_order_index":[842,874],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m09.json__6c54c8ba898fe973","document_ref":"inline_movie_transcripts/8","page_index":[0,13],"log_order_index":[902,915],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m10.json__cc2d2e4f4d54738f","document_ref":"inline_movie_transcripts/9","page_index":[0,33],"log_order_index":[918,951],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m11.json__46c71255351afe55","document_ref":"inline_movie_transcripts/10","page_index":[0,81],"log_order_index":[954,1035],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"711100113","script_id":"vo_ing4_13_m12.json__8d41f45e352412f1","document_ref":"inline_movie_transcripts/11","page_index":[0,20],"log_order_index":[1373,1393],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0054_DEEP_READING.md"},
+      {"episode_id":"101000101","script_id":"memory_0001.json__156050967bac492b","document_ref":"primary","page_index":[0,71],"log_order_index":[0,71],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0055_DEEP_READING.md"},
+      {"episode_id":"101000201","script_id":"memory_0002.json__36704e788320f889","document_ref":"primary","page_index":[0,64],"log_order_index":[0,64],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0056_DEEP_READING.md"},
+      {"episode_id":"101000301","script_id":"memory_0003.json__654a8471e3003c54","document_ref":"primary","page_index":[0,65],"log_order_index":[0,65],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0057_DEEP_READING.md"},
+      {"episode_id":"101000401","script_id":"memory_0004.json__0c38e39cd3d26582","document_ref":"primary","page_index":[0,55],"log_order_index":[0,55],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0058_DEEP_READING.md"},
+      {"episode_id":"101000501","script_id":"memory_0005.json__c5abf5bd9a60ab29","document_ref":"primary","page_index":[0,77],"log_order_index":[0,77],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0059_DEEP_READING.md"},
+      {"episode_id":"101000601","script_id":"memory_0006.json__7996cc421a8086e0","document_ref":"primary","page_index":[0,197],"log_order_index":[0,197],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0060_DEEP_READING.md"},
+      {"episode_id":"811100101","script_id":"ing07_101001_01.json__cb6ea25c05263a53","document_ref":"primary","page_index":[0,715],"log_order_index":[0,740],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0061_DEEP_READING.md"},
+      {"episode_id":"811100101","script_id":"vo_ing07_01_m01.json__497b6252e21bf9a5","document_ref":"inline_movie_transcripts/0","page_index":[0,19],"log_order_index":[2,21],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0061_DEEP_READING.md"},
+      {"episode_id":"811100101","script_id":"vo_ing07_01_m02.json__2c967b33212dae2f","document_ref":"inline_movie_transcripts/1","page_index":[0,4],"log_order_index":[542,546],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0061_DEEP_READING.md"},
+      {"episode_id":"811100101","script_id":"vo_ing07_01_m04.json__5f0424489ce43062","document_ref":"inline_movie_transcripts/2","page_index":[0,4],"log_order_index":[741,745],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0061_DEEP_READING.md"},
+      {"episode_id":"811100102","script_id":"ing07_101002_01.json__c7fbe8922e81715d","document_ref":"primary","page_index":[0,821],"log_order_index":[0,893],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0062_DEEP_READING.md"},
+      {"episode_id":"811100102","script_id":"vo_ing07_02_m01.json__a3615f22b646a6b0","document_ref":"inline_movie_transcripts/0","page_index":[0,0],"log_order_index":[2,2],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0062_DEEP_READING.md"},
+      {"episode_id":"811100102","script_id":"vo_ing07_02_m02.json__8b0dc2a21ff1aa38","document_ref":"inline_movie_transcripts/1","page_index":[0,60],"log_order_index":[201,261],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0062_DEEP_READING.md"},
+      {"episode_id":"811100102","script_id":"vo_ing07_02_m03.json__700b0e97d03762aa","document_ref":"inline_movie_transcripts/2","page_index":[0,7],"log_order_index":[329,336],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0062_DEEP_READING.md"},
+      {"episode_id":"811100102","script_id":"vo_ing07_02_m04.json__8683cec4db077a28","document_ref":"inline_movie_transcripts/3","page_index":[0,1],"log_order_index":[347,348],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0062_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"ing07_101003_01.json__3920f6253c3cf0d8","document_ref":"primary","page_index":[0,946],"log_order_index":[0,1099],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m01.json__25a67f3862668154","document_ref":"inline_movie_transcripts/0","page_index":[0,2],"log_order_index":[99,101],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m02.json__4d306607ee6f4753","document_ref":"inline_movie_transcripts/1","page_index":[0,13],"log_order_index":[175,188],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m03.json__87ccc3a3731dc78f","document_ref":"inline_movie_transcripts/2","page_index":[0,3],"log_order_index":[200,203],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m04.json__e54be2f40e470742","document_ref":"inline_movie_transcripts/3","page_index":[0,7],"log_order_index":[206,213],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m06.json__5213fbee3e422685","document_ref":"inline_movie_transcripts/4","page_index":[0,0],"log_order_index":[248,248],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m07.json__486e89ae75789b44","document_ref":"inline_movie_transcripts/5","page_index":[0,2],"log_order_index":[731,733],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m08.json__ed3d4d8da018c5c5","document_ref":"inline_movie_transcripts/6","page_index":[0,31],"log_order_index":[736,767],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m09.json__8a98fbeed5225aa6","document_ref":"inline_movie_transcripts/7","page_index":[0,16],"log_order_index":[863,879],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m10.json__b26d48b7574b198b","document_ref":"inline_movie_transcripts/8","page_index":[0,2],"log_order_index":[882,884],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m11.json__b6808b36f6c1fe68","document_ref":"inline_movie_transcripts/9","page_index":[0,37],"log_order_index":[992,1029],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m12.json__de751f6338e9e8df","document_ref":"inline_movie_transcripts/10","page_index":[0,2],"log_order_index":[1066,1068],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m13.json__dadf0106c35e09b0","document_ref":"inline_movie_transcripts/11","page_index":[0,26],"log_order_index":[1071,1097],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m14.json__39d2681306879559","document_ref":"inline_movie_transcripts/12","page_index":[0,0],"log_order_index":[1100,1100],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"911100101","script_id":"ing5_101001_01.json__57ff347fca3ff268","document_ref":"primary","page_index":[0,435],"log_order_index":[0,465],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0064_DEEP_READING.md"},
+      {"episode_id":"911100101","script_id":"vo_ing5_01_m01.json__91c64fa0e6fec776","document_ref":"inline_movie_transcripts/0","page_index":[0,29],"log_order_index":[2,31],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0064_DEEP_READING.md"},
+      {"episode_id":"911100102","script_id":"ing5_101002_01.json__6248aae83e80da96","document_ref":"primary","page_index":[0,488],"log_order_index":[0,488],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0065_DEEP_READING.md"},
+      {"episode_id":"911100103","script_id":"ing5_101003_01.json__04d02f6a74ea68e3","document_ref":"primary","page_index":[0,337],"log_order_index":[0,337],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0066_DEEP_READING.md"},
+      {"episode_id":"911100104","script_id":"ing5_101004_01.json__13fa2499cace0ef3","document_ref":"primary","page_index":[0,523],"log_order_index":[0,525],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0067_DEEP_READING.md"},
+      {"episode_id":"911100104","script_id":"vo_ing5_04_m01.json__1ef3aa122a8cc4c0","document_ref":"inline_movie_transcripts/0","page_index":[0,0],"log_order_index":[314,314],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0067_DEEP_READING.md"},
+      {"episode_id":"911100104","script_id":"vo_ing5_04_m02.json__e35623b6859448cd","document_ref":"inline_movie_transcripts/1","page_index":[0,0],"log_order_index":[452,452],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0067_DEEP_READING.md"},
+      {"episode_id":"911100105","script_id":"ing5_101005_01.json__6602e90241c4f392","document_ref":"primary","page_index":[0,569],"log_order_index":[0,584],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0068_DEEP_READING.md"},
+      {"episode_id":"911100105","script_id":"vo_ing5_05_m01.json__4cff4ce73c3f0b56","document_ref":"inline_movie_transcripts/0","page_index":[0,0],"log_order_index":[244,244],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0068_DEEP_READING.md"},
+      {"episode_id":"911100105","script_id":"vo_ing5_05_m02.json__6585ff477b82205f","document_ref":"inline_movie_transcripts/1","page_index":[0,13],"log_order_index":[482,495],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0068_DEEP_READING.md"},
+      {"episode_id":"911100106","script_id":"ing5_101006_01.json__eb2955368702d435","document_ref":"primary","page_index":[0,847],"log_order_index":[0,924],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0069_DEEP_READING.md"},
+      {"episode_id":"911100106","script_id":"vo_ing5_06_m01.json__f987b945d953b733","document_ref":"inline_movie_transcripts/0","page_index":[0,11],"log_order_index":[210,221],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0069_DEEP_READING.md"},
+      {"episode_id":"911100106","script_id":"vo_ing5_06_m02.json__635366355da72fe2","document_ref":"inline_movie_transcripts/1","page_index":[0,6],"log_order_index":[646,652],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0069_DEEP_READING.md"},
+      {"episode_id":"911100106","script_id":"vo_ing5_06_m03.json__3beed1a096c9ef79","document_ref":"inline_movie_transcripts/2","page_index":[0,3],"log_order_index":[733,736],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0069_DEEP_READING.md"},
+      {"episode_id":"911100106","script_id":"vo_ing5_06_m04.json__11b7ae84a14f0447","document_ref":"inline_movie_transcripts/3","page_index":[0,53],"log_order_index":[869,922],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0069_DEEP_READING.md"},
+      {"episode_id":"911100106","script_id":"vo_ing5_06_m05.json__35b65bb8aa25f6e2","document_ref":"inline_movie_transcripts/4","page_index":[0,0],"log_order_index":[925,925],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0069_DEEP_READING.md"},
+      {"episode_id":"1011100101","script_id":"ep6_101001_01.json__6a27ccf6a33d8ee9","document_ref":"primary","page_index":[0,476],"log_order_index":[0,567],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0070_DEEP_READING.md"},
+      {"episode_id":"1011100101","script_id":"vo_ep6_01_m01.json__a8270f514b91dd75","document_ref":"inline_movie_transcripts/0","page_index":[0,75],"log_order_index":[2,77],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0070_DEEP_READING.md"},
+      {"episode_id":"1011100101","script_id":"vo_ep6_01_m02.json__bf0be11d365f27a2","document_ref":"inline_movie_transcripts/1","page_index":[0,0],"log_order_index":[79,79],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0070_DEEP_READING.md"},
+      {"episode_id":"1011100101","script_id":"vo_ep6_01_m03.json__e6fd031c9d5203ac","document_ref":"inline_movie_transcripts/2","page_index":[0,0],"log_order_index":[131,131],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0070_DEEP_READING.md"},
+      {"episode_id":"1011100101","script_id":"vo_ep6_01_m04.json__73cd24444446e42d","document_ref":"inline_movie_transcripts/3","page_index":[0,12],"log_order_index":[243,255],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0070_DEEP_READING.md"},
+      {"episode_id":"1011100102","script_id":"ep6_101002_01.json__43e9fe4379734e7b","document_ref":"primary","page_index":[0,734],"log_order_index":[0,768],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0071_DEEP_READING.md"},
+      {"episode_id":"1011100102","script_id":"vo_ep6_02_m01.json__71a4bbd8a97649bf","document_ref":"inline_movie_transcripts/0","page_index":[0,33],"log_order_index":[217,250],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0071_DEEP_READING.md"},
+      {"episode_id":"1011100103","script_id":"ep6_101003_01.json__2580f1b80aee8151","document_ref":"primary","page_index":[0,895],"log_order_index":[0,895],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0072_DEEP_READING.md"},
+      {"episode_id":"1011100104","script_id":"ep6_101004_01.json__dfabd04f952de85f","document_ref":"primary","page_index":[0,1330],"log_order_index":[0,1333],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0073_DEEP_READING.md"},
+      {"episode_id":"1011100104","script_id":"vo_ep6_04_m01.json__3fe7e9f773676184","document_ref":"inline_movie_transcripts/0","page_index":[0,0],"log_order_index":[878,878],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0073_DEEP_READING.md"},
+      {"episode_id":"1011100104","script_id":"vo_ep6_04_m03.json__b4f35030a82bf1bf","document_ref":"inline_movie_transcripts/1","page_index":[0,0],"log_order_index":[959,959],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0073_DEEP_READING.md"},
+      {"episode_id":"1011100104","script_id":"vo_ep6_04_m02.json__b66bf6139a1f0c7c","document_ref":"inline_movie_transcripts/2","page_index":[0,0],"log_order_index":[1018,1018],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0073_DEEP_READING.md"},
+      {"episode_id":"1011100105","script_id":"ep6_101005_01.json__c056353eaf7feb79","document_ref":"primary","page_index":[0,1304],"log_order_index":[0,1308],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0074_DEEP_READING.md"},
+      {"episode_id":"1011100105","script_id":"vo_ep6_05_m01.json__ce46f0aaae6c2681","document_ref":"inline_movie_transcripts/0","page_index":[0,0],"log_order_index":[63,63],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0074_DEEP_READING.md"},
+      {"episode_id":"1011100105","script_id":"vo_ep6_05_m03.json__bd1007e664d61cb7","document_ref":"inline_movie_transcripts/1","page_index":[0,0],"log_order_index":[636,636],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0074_DEEP_READING.md"},
+      {"episode_id":"1011100105","script_id":"vo_ep6_05_m02.json__42b33c15b2f49579","document_ref":"inline_movie_transcripts/2","page_index":[0,0],"log_order_index":[839,839],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0074_DEEP_READING.md"},
+      {"episode_id":"1011100105","script_id":"vo_ep6_04_m02.json__b66bf6139a1f0c7c","document_ref":"inline_movie_transcripts/3","page_index":[0,0],"log_order_index":[1056,1056],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0074_DEEP_READING.md"},
+      {"episode_id":"1011100106","script_id":"ep6_101006_01.json__103d9606d2ad8c45","document_ref":"primary","page_index":[0,2076],"log_order_index":[0,2266],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0075_DEEP_READING.md"},
+      {"episode_id":"1011100106","script_id":"vo_ep6_06_m04.json__0987f0551d94011d","document_ref":"inline_movie_transcripts/0","page_index":[0,0],"log_order_index":[2,2],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0075_DEEP_READING.md"},
+      {"episode_id":"1011100106","script_id":"vo_ep6_06_m01.json__3405f086e9a79315","document_ref":"inline_movie_transcripts/1","page_index":[0,28],"log_order_index":[1630,1658],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0075_DEEP_READING.md"},
+      {"episode_id":"1011100106","script_id":"vo_ep6_06_m03.json__b2868c40a942c035","document_ref":"inline_movie_transcripts/2","page_index":[0,117],"log_order_index":[1746,1863],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0075_DEEP_READING.md"},
+      {"episode_id":"1011100106","script_id":"vo_ep6_06_m02.json__8ebd294144ee3fa9","document_ref":"inline_movie_transcripts/3","page_index":[0,41],"log_order_index":[2111,2152],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0075_DEEP_READING.md"},
+      {"episode_id":"1011100107","script_id":"ep6_101007_01.json__57f2c3c61f3fe5c1","document_ref":"primary","page_index":[0,1911],"log_order_index":[0,2155],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
+      {"episode_id":"1011100107","script_id":"vp_ep6_07_m08.json__01b7feb22ef679a9","document_ref":"inline_movie_transcripts/0","page_index":[0,0],"log_order_index":[3,3],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
+      {"episode_id":"1011100107","script_id":"vp_ep6_07_m01.json__5ecbef3f4e4f3b6a","document_ref":"inline_movie_transcripts/1","page_index":[0,133],"log_order_index":[1337,1470],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
+      {"episode_id":"1011100107","script_id":"vp_ep6_07_m02.json__0126aa9b265beaae","document_ref":"inline_movie_transcripts/2","page_index":[0,39],"log_order_index":[1708,1747],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
+      {"episode_id":"1011100107","script_id":"vp_ep6_07_m03.json__b22845bbcf825555","document_ref":"inline_movie_transcripts/3","page_index":[0,10],"log_order_index":[1751,1761],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
+      {"episode_id":"1011100107","script_id":"vp_ep6_07_m04.json__e7f96aad46eb6ce1","document_ref":"inline_movie_transcripts/4","page_index":[0,32],"log_order_index":[2092,2124],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
+      {"episode_id":"1011100107","script_id":"vp_ep6_07_m05.json__7f107ccbd031175d","document_ref":"inline_movie_transcripts/5","page_index":[0,22],"log_order_index":[2127,2149],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
+      {"episode_id":"1011100107","script_id":"vp_ep6_07_m06.json__5341c73a29abc80f","document_ref":"inline_movie_transcripts/6","page_index":[0,0],"log_order_index":[2152,2152],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
+      {"episode_id":"1011100107","script_id":"vp_ep6_07_m07.json__5bc1f599d50d2985","document_ref":"inline_movie_transcripts/7","page_index":[0,0],"log_order_index":[2155,2155],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
+      {"episode_id":"1013100101","script_id":"ep2034_001_01.json__44fe713c41e7d31a","document_ref":"primary","page_index":[0,134],"log_order_index":[0,134],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0077_DEEP_READING.md"},
+      {"episode_id":"1013100102","script_id":"ep2034_001_02.json__e4b4ffcdfbd6e432","document_ref":"primary","page_index":[0,83],"log_order_index":[0,83],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0077_DEEP_READING.md"},
+      {"episode_id":"1013100103","script_id":"ep2034_001_03.json__af56b70570ddb055","document_ref":"primary","page_index":[0,70],"log_order_index":[0,70],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0077_DEEP_READING.md"},
+      {"episode_id":"1013100104","script_id":"ep2034_001_04.json__6d67767f172c03ac","document_ref":"primary","page_index":[0,75],"log_order_index":[0,75],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0077_DEEP_READING.md"},
+      {"episode_id":"1013100105","script_id":"ep2034_001_05.json__6ea6de08456eac86","document_ref":"primary","page_index":[0,134],"log_order_index":[0,134],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0077_DEEP_READING.md"},
+      {"episode_id":"1013100201","script_id":"ep2034_002_01.json__7392e3442e131d5d","document_ref":"primary","page_index":[0,21],"log_order_index":[0,21],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100202","script_id":"ep2034_002_02.json__55de5acfb7188b02","document_ref":"primary","page_index":[0,150],"log_order_index":[0,150],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100203","script_id":"ep2034_002_03.json__c37d13dd81379a7b","document_ref":"primary","page_index":[0,112],"log_order_index":[0,112],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100204","script_id":"ep2034_002_04.json__673fa6e01f3dd04d","document_ref":"primary","page_index":[0,69],"log_order_index":[0,69],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100205","script_id":"ep2034_002_05.json__db643a27865d4d98","document_ref":"primary","page_index":[0,83],"log_order_index":[0,83],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100206","script_id":"ep2034_002_06.json__62c03830e327b9aa","document_ref":"primary","page_index":[0,157],"log_order_index":[0,157],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100301","script_id":"ep2034_003_01.json__a0cd015d030307b4","document_ref":"primary","page_index":[0,44],"log_order_index":[0,44],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"},
+      {"episode_id":"1013100302","script_id":"ep2034_003_02.json__88e18d0c46092fc1","document_ref":"primary","page_index":[0,102],"log_order_index":[0,102],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"},
+      {"episode_id":"1013100303","script_id":"ep2034_003_03.json__1972f8d20f337e10","document_ref":"primary","page_index":[0,94],"log_order_index":[0,94],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"},
+      {"episode_id":"1013100304","script_id":"ep2034_003_04.json__03283170c87b3144","document_ref":"primary","page_index":[0,106],"log_order_index":[0,106],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"},
+      {"episode_id":"1013100305","script_id":"ep2034_003_05.json__1a88a2d92699fe2e","document_ref":"primary","page_index":[0,141],"log_order_index":[0,141],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"},
+      {"episode_id":"1013100306","script_id":"ep2034_003_06.json__7b60c33a07974b17","document_ref":"primary","page_index":[0,76],"log_order_index":[0,76],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"},
+      {
+        "episode_id": "202001101",
+        "script_id": "scout_041_01_01.json__5574dd10d3af0d42",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          39
+        ],
+        "log_order_index": [
+          0,
+          39
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0080_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001102",
+        "script_id": "scout_041_01_03.json__d5f035a78e7c3749",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          50
+        ],
+        "log_order_index": [
+          0,
+          50
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0080_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001201",
+        "script_id": "scout_042_01_01.json__99ecd1a35abb3284",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          52
+        ],
+        "log_order_index": [
+          0,
+          52
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0081_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001202",
+        "script_id": "scout_042_01_03.json__3ce4ba12c291e605",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          87
+        ],
+        "log_order_index": [
+          0,
+          87
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0081_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001301",
+        "script_id": "scout_043_01_01.json__c8047e6f485f6073",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          82
+        ],
+        "log_order_index": [
+          0,
+          82
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0082_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001302",
+        "script_id": "scout_043_01_03.json__7722f6c116884eab",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          88
+        ],
+        "log_order_index": [
+          0,
+          88
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0082_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001401",
+        "script_id": "scout_044_01_01.json__15644133881b9cd3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          62
+        ],
+        "log_order_index": [
+          0,
+          62
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0083_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001402",
+        "script_id": "scout_044_01_03.json__f525848d0ec3add8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          69
+        ],
+        "log_order_index": [
+          0,
+          69
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0083_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001501",
+        "script_id": "scout_045_01_01.json__37c43e7ffd1d0144",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          35
+        ],
+        "log_order_index": [
+          0,
+          35
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0084_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001502",
+        "script_id": "scout_045_01_03.json__251e15c016a5ba2a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          79
+        ],
+        "log_order_index": [
+          0,
+          79
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0084_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001601",
+        "script_id": "scout_046_01_01.json__685807f4f1866805",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          51
+        ],
+        "log_order_index": [
+          0,
+          51
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0085_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001602",
+        "script_id": "scout_046_01_03.json__11d9d0d57d3a83f5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          70
+        ],
+        "log_order_index": [
+          0,
+          70
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0085_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001701",
+        "script_id": "scout_047_01_01.json__89c3073b14531e33",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          49
+        ],
+        "log_order_index": [
+          0,
+          49
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0086_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001702",
+        "script_id": "scout_047_01_03.json__54aa3d0b0654c8f1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          46
+        ],
+        "log_order_index": [
+          0,
+          46
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0086_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001801",
+        "script_id": "scout_048_01_01.json__dc5be3a33a92189a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          77
+        ],
+        "log_order_index": [
+          0,
+          77
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0087_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001802",
+        "script_id": "scout_048_01_03.json__0d4aa734e59e3689",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          58
+        ],
+        "log_order_index": [
+          0,
+          58
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0087_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001901",
+        "script_id": "scout_049_01_01.json__e8451ec6cf0a9cd4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          75
+        ],
+        "log_order_index": [
+          0,
+          75
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0088_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202001902",
+        "script_id": "scout_049_01_03.json__614dd483932cbf10",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          106
+        ],
+        "log_order_index": [
+          0,
+          106
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0088_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002001",
+        "script_id": "scout_050_01_01.json__9f5ac0f4e17c3780",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          60
+        ],
+        "log_order_index": [
+          0,
+          60
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0089_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002002",
+        "script_id": "scout_050_01_03.json__7fe92c3e3b420639",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          66
+        ],
+        "log_order_index": [
+          0,
+          66
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0089_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002101",
+        "script_id": "scout_051_01_01.json__7a2a6e6369f8adcf",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          55
+        ],
+        "log_order_index": [
+          0,
+          55
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0090_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002102",
+        "script_id": "scout_051_01_03.json__d5c812ea91329291",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          51
+        ],
+        "log_order_index": [
+          0,
+          51
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0090_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002201",
+        "script_id": "scout_052_01_01.json__69531669a998774b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          71
+        ],
+        "log_order_index": [
+          0,
+          71
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0091_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002202",
+        "script_id": "scout_052_01_03.json__8df1e6c179838968",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          82
+        ],
+        "log_order_index": [
+          0,
+          82
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0091_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002301",
+        "script_id": "scout_081_01_01.json__50d9050e014846c9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          47
+        ],
+        "log_order_index": [
+          0,
+          47
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0092_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002302",
+        "script_id": "scout_081_01_03.json__f3b0ad95a2c8a6dd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          68
+        ],
+        "log_order_index": [
+          0,
+          68
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0092_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002401",
+        "script_id": "scout_082_01_01.json__312179e87ee349d1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          79
+        ],
+        "log_order_index": [
+          0,
+          79
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0093_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002402",
+        "script_id": "scout_082_01_03.json__a477648aa044487c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          80
+        ],
+        "log_order_index": [
+          0,
+          80
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0093_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002501",
+        "script_id": "scout_083_01_01.json__54047400e2aaad03",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          46
+        ],
+        "log_order_index": [
+          0,
+          46
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0094_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002502",
+        "script_id": "scout_083_01_03.json__7386a76042693404",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0094_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002601",
+        "script_id": "scout_084_01_01.json__50cbc54adcd47aa2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          68
+        ],
+        "log_order_index": [
+          0,
+          68
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0095_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002602",
+        "script_id": "scout_084_01_03.json__688044377d8e400b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          71
+        ],
+        "log_order_index": [
+          0,
+          71
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0095_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002701",
+        "script_id": "scout_085_01_01.json__a2f0c4ae2baade70",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          57
+        ],
+        "log_order_index": [
+          0,
+          57
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0096_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002702",
+        "script_id": "scout_085_01_03.json__f05ff0a67c90bd89",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          80
+        ],
+        "log_order_index": [
+          0,
+          80
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0096_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002801",
+        "script_id": "scout_086_01_01.json__ce53371e0698251e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          74
+        ],
+        "log_order_index": [
+          0,
+          74
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0097_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002802",
+        "script_id": "scout_086_01_03.json__0325ce74c3cefe45",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          89
+        ],
+        "log_order_index": [
+          0,
+          89
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0097_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002901",
+        "script_id": "scout_087_01_01.json__ddf6e3b435c36987",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          50
+        ],
+        "log_order_index": [
+          0,
+          50
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0098_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202002902",
+        "script_id": "scout_087_01_03.json__f9601d404d6b0182",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          71
+        ],
+        "log_order_index": [
+          0,
+          71
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0098_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003001",
+        "script_id": "scout_088_01_01.json__8768cd44ae2c6eca",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          27
+        ],
+        "log_order_index": [
+          0,
+          27
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0099_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003002",
+        "script_id": "scout_088_01_03.json__bbf43e5db5b24503",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          69
+        ],
+        "log_order_index": [
+          0,
+          69
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0099_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003101",
+        "script_id": "scout_089_01_01.json__db528778e1db1b91",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          57
+        ],
+        "log_order_index": [
+          0,
+          57
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0100_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003102",
+        "script_id": "scout_089_01_03.json__b1a455e04bfec1c7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0100_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003201",
+        "script_id": "scout_090_01_01.json__07d007bf25ac5813",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          42
+        ],
+        "log_order_index": [
+          0,
+          42
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0101_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003202",
+        "script_id": "scout_090_01_03.json__b2fb98338c660450",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          58
+        ],
+        "log_order_index": [
+          0,
+          58
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0101_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003301",
+        "script_id": "scout_091_01_01.json__0ce11fbbdf461338",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          44
+        ],
+        "log_order_index": [
+          0,
+          44
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0102_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003302",
+        "script_id": "scout_091_01_03.json__57bf6ec7b72c72e3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          57
+        ],
+        "log_order_index": [
+          0,
+          57
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0102_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003401",
+        "script_id": "scout_092_01_01.json__73aec676bb89afce",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          57
+        ],
+        "log_order_index": [
+          0,
+          57
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0103_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003402",
+        "script_id": "scout_092_01_03.json__c228b1e149183f9d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          71
+        ],
+        "log_order_index": [
+          0,
+          71
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0103_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003501",
+        "script_id": "scout_121_01_01.json__73d48f19cb3dba05",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          41
+        ],
+        "log_order_index": [
+          0,
+          41
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0104_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003502",
+        "script_id": "scout_121_01_03.json__1efa5946f6e2df85",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          68
+        ],
+        "log_order_index": [
+          0,
+          68
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0104_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003601",
+        "script_id": "scout_122_01_01.json__762d610266ff8b28",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0105_DEEP_READING.md"
+      },
+      {
+        "episode_id": "202003602",
+        "script_id": "scout_122_01_03.json__733d0712033d4864",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          53
+        ],
+        "log_order_index": [
+          0,
+          53
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0105_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200101",
+        "script_id": "ing_102001_01.json__e88d17661720a7ec",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          41
+        ],
+        "log_order_index": [
+          0,
+          41
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0106_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200102",
+        "script_id": "ing_102001_02.json__4f48c1bce9742f9e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          53
+        ],
+        "log_order_index": [
+          0,
+          53
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0106_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200103",
+        "script_id": "ing_102001_03.json__8ce51bbfb37035f3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          77
+        ],
+        "log_order_index": [
+          0,
+          77
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0106_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200201",
+        "script_id": "ing_102002_01.json__9e22e1b2840eecec",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          66
+        ],
+        "log_order_index": [
+          0,
+          66
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0107_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200202",
+        "script_id": "ing_102002_02.json__c768773976f3d960",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          50
+        ],
+        "log_order_index": [
+          0,
+          50
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0107_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200203",
+        "script_id": "ing_102002_03.json__0dba75f141a30695",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          137
+        ],
+        "log_order_index": [
+          0,
+          137
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0107_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200301",
+        "script_id": "ing_102003_01.json__4c864df5f4550bc3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0108_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200302",
+        "script_id": "ing_102003_02.json__c8650ab62e623abd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          64
+        ],
+        "log_order_index": [
+          0,
+          64
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0108_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200303",
+        "script_id": "ing_102003_03.json__99725c66af249e2b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          80
+        ],
+        "log_order_index": [
+          0,
+          80
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0108_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200401",
+        "script_id": "ing_102004_01.json__add42eb31242af87",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          54
+        ],
+        "log_order_index": [
+          0,
+          54
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0109_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200402",
+        "script_id": "ing_102004_02.json__0ed3607d15105c24",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          37
+        ],
+        "log_order_index": [
+          0,
+          37
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0109_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200403",
+        "script_id": "ing_102004_03.json__23e1c3cef3b2e3e3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          80
+        ],
+        "log_order_index": [
+          0,
+          80
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0109_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200501",
+        "script_id": "ing_102005_01.json__1b971e66e111c22e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          58
+        ],
+        "log_order_index": [
+          0,
+          58
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0110_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200502",
+        "script_id": "ing_102005_02.json__bb95a4bec962cfb0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          46
+        ],
+        "log_order_index": [
+          0,
+          46
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0110_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200503",
+        "script_id": "ing_102005_03.json__5e0031bd3180189e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          27
+        ],
+        "log_order_index": [
+          0,
+          27
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0110_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200601",
+        "script_id": "ing_102006_01.json__3ad223e841f150fa",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          51
+        ],
+        "log_order_index": [
+          0,
+          51
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0111_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200602",
+        "script_id": "ing_102006_02.json__a3a6d9fcf2c88fc4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          39
+        ],
+        "log_order_index": [
+          0,
+          39
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0111_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200603",
+        "script_id": "ing_102006_03.json__2b2b92ee6a8c3535",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          103
+        ],
+        "log_order_index": [
+          0,
+          103
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0111_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200701",
+        "script_id": "ing_102007_01.json__ae7fe6e91532e45c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          49
+        ],
+        "log_order_index": [
+          0,
+          49
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0112_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200702",
+        "script_id": "ing_102007_02.json__8eb4895f3e2425f6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          52
+        ],
+        "log_order_index": [
+          0,
+          52
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0112_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200703",
+        "script_id": "ing_102007_03.json__0cd008f9558d2f52",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          70
+        ],
+        "log_order_index": [
+          0,
+          70
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0112_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200801",
+        "script_id": "ing_102008_01.json__29c53004fe9e4559",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          66
+        ],
+        "log_order_index": [
+          0,
+          66
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0113_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200802",
+        "script_id": "ing_102008_02.json__00d1853f4a2e9660",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          45
+        ],
+        "log_order_index": [
+          0,
+          45
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0113_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200803",
+        "script_id": "ing_102008_03.json__ee132d916d5e737e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          88
+        ],
+        "log_order_index": [
+          0,
+          88
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0113_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200901",
+        "script_id": "ing_102009_01.json__dc0bbd76e10afcd7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          72
+        ],
+        "log_order_index": [
+          0,
+          72
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0114_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200902",
+        "script_id": "ing_102009_02.json__a4c5c25706c5fb2d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          96
+        ],
+        "log_order_index": [
+          0,
+          96
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0114_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312200903",
+        "script_id": "ing_102009_03.json__f19b0636a99c04de",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          80
+        ],
+        "log_order_index": [
+          0,
+          80
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0114_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201001",
+        "script_id": "ing_102010_01.json__16b79b30edef372b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0115_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201002",
+        "script_id": "ing_102010_02.json__546c4ad6dbb521a4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          77
+        ],
+        "log_order_index": [
+          0,
+          77
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0115_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201003",
+        "script_id": "ing_102010_03.json__0029607168c30667",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          73
+        ],
+        "log_order_index": [
+          0,
+          73
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0115_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201101",
+        "script_id": "ing_102011_01.json__a9b92accd4908d59",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          59
+        ],
+        "log_order_index": [
+          0,
+          59
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0116_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201102",
+        "script_id": "ing_102011_02.json__87033737887480f6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          75
+        ],
+        "log_order_index": [
+          0,
+          75
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0116_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201103",
+        "script_id": "ing_102011_03.json__653c9be217a621d5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          70
+        ],
+        "log_order_index": [
+          0,
+          70
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0116_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201201",
+        "script_id": "ing_102012_01.json__35f16ad3de27654f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0117_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201202",
+        "script_id": "ing_102012_02.json__dfded2ccfe9fc872",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0117_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201203",
+        "script_id": "ing_102012_03.json__3c0f277de16f74e0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          92
+        ],
+        "log_order_index": [
+          0,
+          92
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0117_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201301",
+        "script_id": "ing_102013_01.json__91d426ea53103878",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          35
+        ],
+        "log_order_index": [
+          0,
+          35
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0118_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201302",
+        "script_id": "ing_102013_02.json__74c2ebdeb21ac1d1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          49
+        ],
+        "log_order_index": [
+          0,
+          49
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0118_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201303",
+        "script_id": "ing_102013_03.json__0e7130ff5bd2e570",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          69
+        ],
+        "log_order_index": [
+          0,
+          69
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0118_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201401",
+        "script_id": "ing_102014_01.json__a9d4cdcc1c366bcb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          55
+        ],
+        "log_order_index": [
+          0,
+          55
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0119_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201402",
+        "script_id": "ing_102014_02.json__886babd6975ad5d6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          89
+        ],
+        "log_order_index": [
+          0,
+          89
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0119_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201403",
+        "script_id": "ing_102014_03.json__38884bf3da8b94e8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          37
+        ],
+        "log_order_index": [
+          0,
+          37
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0119_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201501",
+        "script_id": "ing_102015_01.json__49c5506b92e5fd2a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          37
+        ],
+        "log_order_index": [
+          0,
+          37
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0120_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201502",
+        "script_id": "ing_102015_02.json__9f8a3258e7e0193c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          44
+        ],
+        "log_order_index": [
+          0,
+          44
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0120_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201503",
+        "script_id": "ing_102015_03.json__9c86365e07234036",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          78
+        ],
+        "log_order_index": [
+          0,
+          78
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0120_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201601",
+        "script_id": "ing_102016_01.json__6a3387496207339a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          45
+        ],
+        "log_order_index": [
+          0,
+          45
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0121_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201602",
+        "script_id": "ing_102016_02.json__0aa105417e5c72d7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          34
+        ],
+        "log_order_index": [
+          0,
+          34
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0121_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201603",
+        "script_id": "ing_102016_03.json__86bf88a58ac97f8b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          103
+        ],
+        "log_order_index": [
+          0,
+          103
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0121_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201701",
+        "script_id": "ing_102017_01.json__6524976942515a88",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          64
+        ],
+        "log_order_index": [
+          0,
+          64
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0122_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201702",
+        "script_id": "ing_102017_02.json__af9de771e7d24268",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          62
+        ],
+        "log_order_index": [
+          0,
+          62
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0122_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201703",
+        "script_id": "ing_102017_03.json__9269ca9fa20133f9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          51
+        ],
+        "log_order_index": [
+          0,
+          51
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0122_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201801",
+        "script_id": "ing_102018_01.json__c9ad97d5edfa8210",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          59
+        ],
+        "log_order_index": [
+          0,
+          59
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0123_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201802",
+        "script_id": "ing_102018_02.json__ca87f74f9956e9fb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          41
+        ],
+        "log_order_index": [
+          0,
+          41
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0123_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201803",
+        "script_id": "ing_102018_03.json__51d1ba1eac5e38f6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          71
+        ],
+        "log_order_index": [
+          0,
+          71
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0123_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201901",
+        "script_id": "ing_102019_01.json__3058a3892b9799e0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          62
+        ],
+        "log_order_index": [
+          0,
+          62
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0124_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201902",
+        "script_id": "ing_102019_02.json__69995a424d0fb9b8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0124_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312201903",
+        "script_id": "ing_102019_03.json__215acac05ea7137e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          79
+        ],
+        "log_order_index": [
+          0,
+          79
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0124_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202001",
+        "script_id": "ing_102020_01.json__1de22b624ed0446c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          32
+        ],
+        "log_order_index": [
+          0,
+          32
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0125_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202002",
+        "script_id": "ing_102020_02.json__5aa980740c304030",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          45
+        ],
+        "log_order_index": [
+          0,
+          45
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0125_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202003",
+        "script_id": "ing_102020_03.json__8018795fc8a42d7a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          69
+        ],
+        "log_order_index": [
+          0,
+          69
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0125_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202101",
+        "script_id": "ing_102021_01.json__c48279d6528646f1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0126_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202102",
+        "script_id": "ing_102021_02.json__ae76d53b850bf0c1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          109
+        ],
+        "log_order_index": [
+          0,
+          109
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0126_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202103",
+        "script_id": "ing_102021_03.json__ea5bf566af50809c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          55
+        ],
+        "log_order_index": [
+          0,
+          55
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0126_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202201",
+        "script_id": "ing_102022_01.json__23d4e5e8076b3159",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          49
+        ],
+        "log_order_index": [
+          0,
+          49
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0127_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202202",
+        "script_id": "ing_102022_02.json__fbf9c63477d465c5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0127_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202203",
+        "script_id": "ing_102022_03.json__4e4a1773aab5a677",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          60
+        ],
+        "log_order_index": [
+          0,
+          60
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0127_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202301",
+        "script_id": "ing_102023_01.json__4136e55f49a6fb74",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          45
+        ],
+        "log_order_index": [
+          0,
+          45
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0128_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202302",
+        "script_id": "ing_102023_02.json__cd2b7d74c5de765b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          82
+        ],
+        "log_order_index": [
+          0,
+          82
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0128_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202303",
+        "script_id": "ing_102023_03.json__b3c1a7ea995ba81f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          55
+        ],
+        "log_order_index": [
+          0,
+          55
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0128_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202401",
+        "script_id": "ing_102024_01.json__d01ed3abe79e0f67",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          49
+        ],
+        "log_order_index": [
+          0,
+          49
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0129_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202402",
+        "script_id": "ing_102024_02.json__c15e16a5b0b79caf",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          29
+        ],
+        "log_order_index": [
+          0,
+          29
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0129_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202403",
+        "script_id": "ing_102024_03.json__0633a80b29da464f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          75
+        ],
+        "log_order_index": [
+          0,
+          75
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0129_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202501",
+        "script_id": "ing_102025_01.json__62547b6d86731171",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          89
+        ],
+        "log_order_index": [
+          0,
+          89
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0130_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202502",
+        "script_id": "ing_102025_02.json__5d048964744cf7cb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          71
+        ],
+        "log_order_index": [
+          0,
+          71
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0130_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202503",
+        "script_id": "ing_102025_03.json__afc290c8edbc4503",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          45
+        ],
+        "log_order_index": [
+          0,
+          45
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0130_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202601",
+        "script_id": "ing_102026_01.json__6250a1ce2a88b338",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          53
+        ],
+        "log_order_index": [
+          0,
+          53
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0131_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202602",
+        "script_id": "ing_102026_02.json__9375d418acb0d8ff",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          75
+        ],
+        "log_order_index": [
+          0,
+          75
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0131_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202603",
+        "script_id": "ing_102026_03.json__8c300ade23188b9b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          57
+        ],
+        "log_order_index": [
+          0,
+          57
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0131_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202701",
+        "script_id": "ing_102027_01.json__342025c83594abd7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          62
+        ],
+        "log_order_index": [
+          0,
+          62
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0132_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202702",
+        "script_id": "ing_102027_02.json__52e6d44621436223",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0132_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202703",
+        "script_id": "ing_102027_03.json__a728ed4c63113063",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          80
+        ],
+        "log_order_index": [
+          0,
+          80
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0132_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202801",
+        "script_id": "ing_102028_01.json__51f0b55864ab8f34",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          55
+        ],
+        "log_order_index": [
+          0,
+          55
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0133_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202802",
+        "script_id": "ing_102028_02.json__ae2cf71a104f3f22",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          33
+        ],
+        "log_order_index": [
+          0,
+          33
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0133_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202803",
+        "script_id": "ing_102028_03.json__6a94777f7e9e9904",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          81
+        ],
+        "log_order_index": [
+          0,
+          81
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0133_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202901",
+        "script_id": "ing_102029_01.json__dca94eb54425b40b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          31
+        ],
+        "log_order_index": [
+          0,
+          31
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0134_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202902",
+        "script_id": "ing_102029_02.json__5f55898827135cde",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          63
+        ],
+        "log_order_index": [
+          0,
+          63
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0134_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312202903",
+        "script_id": "ing_102029_03.json__efb270938a946f78",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          77
+        ],
+        "log_order_index": [
+          0,
+          77
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0134_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203001",
+        "script_id": "ing_102030_01.json__68950b2d6526cd4b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          42
+        ],
+        "log_order_index": [
+          0,
+          42
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0135_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203002",
+        "script_id": "ing_102030_02.json__49dd300de1ed1024",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          40
+        ],
+        "log_order_index": [
+          0,
+          40
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0135_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203003",
+        "script_id": "ing_102030_03.json__51b7768a5feec6dc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          78
+        ],
+        "log_order_index": [
+          0,
+          78
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0135_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203101",
+        "script_id": "ing_102031_01.json__11fe04a1d548b8e0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          75
+        ],
+        "log_order_index": [
+          0,
+          75
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0136_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203102",
+        "script_id": "ing_102031_02.json__371f2336f117e403",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          52
+        ],
+        "log_order_index": [
+          0,
+          52
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0136_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203103",
+        "script_id": "ing_102031_03.json__737ff4b13f4a334f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          55
+        ],
+        "log_order_index": [
+          0,
+          55
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0136_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203201",
+        "script_id": "ing_102032_01.json__296808264d296d9f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          71
+        ],
+        "log_order_index": [
+          0,
+          71
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0137_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203202",
+        "script_id": "ing_102032_02.json__1ed24d2821a152fa",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          43
+        ],
+        "log_order_index": [
+          0,
+          43
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0137_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203203",
+        "script_id": "ing_102032_03.json__3e4955df80d0f2c8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          82
+        ],
+        "log_order_index": [
+          0,
+          82
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0137_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203301",
+        "script_id": "ing_102033_01.json__bdfa2be747137cb8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          59
+        ],
+        "log_order_index": [
+          0,
+          59
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0138_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203302",
+        "script_id": "ing_102033_02.json__435a205fe14e8e15",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          42
+        ],
+        "log_order_index": [
+          0,
+          42
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0138_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203303",
+        "script_id": "ing_102033_03.json__8f39540cb0542654",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          57
+        ],
+        "log_order_index": [
+          0,
+          57
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0138_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203401",
+        "script_id": "ing_102034_01.json__a90cccaa92d8aec5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          42
+        ],
+        "log_order_index": [
+          0,
+          42
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0139_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203402",
+        "script_id": "ing_102034_02.json__f6dd30b188e8fcfc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          37
+        ],
+        "log_order_index": [
+          0,
+          37
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0139_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203403",
+        "script_id": "ing_102034_03.json__b55f97fb065c22f4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          59
+        ],
+        "log_order_index": [
+          0,
+          59
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0139_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203501",
+        "script_id": "ing_102035_01.json__e386cf4dc5d671da",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          40
+        ],
+        "log_order_index": [
+          0,
+          40
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0140_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203502",
+        "script_id": "ing_102035_02.json__0375709dd6a80432",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          69
+        ],
+        "log_order_index": [
+          0,
+          69
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0140_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203503",
+        "script_id": "ing_102035_03.json__519e2300dadad1bd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          41
+        ],
+        "log_order_index": [
+          0,
+          41
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0140_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203601",
+        "script_id": "ing_102036_01.json__d6f6fbf32e3f62e3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          49
+        ],
+        "log_order_index": [
+          0,
+          49
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0141_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203602",
+        "script_id": "ing_102036_02.json__5bbf91f75c88b7f0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          39
+        ],
+        "log_order_index": [
+          0,
+          39
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0141_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203603",
+        "script_id": "ing_102036_03.json__02f1c676ebd40c9a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          56
+        ],
+        "log_order_index": [
+          0,
+          56
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0141_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203701",
+        "script_id": "ing_102037_01.json__4eec3d5059bfbde9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          64
+        ],
+        "log_order_index": [
+          0,
+          64
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0142_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203702",
+        "script_id": "ing_102037_02.json__417fa74381a9d816",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          53
+        ],
+        "log_order_index": [
+          0,
+          53
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0142_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203703",
+        "script_id": "ing_102037_03.json__c0af14e2be84245f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          52
+        ],
+        "log_order_index": [
+          0,
+          52
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0142_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203801",
+        "script_id": "ing_102038_01.json__72fde96adf8012ac",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          31
+        ],
+        "log_order_index": [
+          0,
+          31
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0143_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203802",
+        "script_id": "ing_102038_02.json__b3af1443a3a4335c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          38
+        ],
+        "log_order_index": [
+          0,
+          38
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0143_DEEP_READING.md"
+      },
+      {
+        "episode_id": "312203803",
+        "script_id": "ing_102038_03.json__c4768948bba9ee80",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0143_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200101",
+        "script_id": "ing3_102001_01.json__542bb424f1a4f19a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          92
+        ],
+        "log_order_index": [
+          0,
+          92
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0144_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200102",
+        "script_id": "ing3_102001_02.json__97b4f8bb7230c5af",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          85
+        ],
+        "log_order_index": [
+          0,
+          85
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0144_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200103",
+        "script_id": "ing3_102001_03.json__3d214c380978e21f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          96
+        ],
+        "log_order_index": [
+          0,
+          96
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0144_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200201",
+        "script_id": "ing3_102002_01.json__0cb9d3190c08cfd0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          94
+        ],
+        "log_order_index": [
+          0,
+          94
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0145_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200202",
+        "script_id": "ing3_102002_02.json__2c27306569ab2062",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          185
+        ],
+        "log_order_index": [
+          0,
+          185
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0145_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200203",
+        "script_id": "ing3_102002_03.json__8e267eba9365f1cd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          168
+        ],
+        "log_order_index": [
+          0,
+          168
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0145_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200301",
+        "script_id": "ing3_102003_01.json__ea2f54bad67fbd41",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          63
+        ],
+        "log_order_index": [
+          0,
+          63
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0146_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200302",
+        "script_id": "ing3_102003_02.json__6ece0ab1fddda651",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          107
+        ],
+        "log_order_index": [
+          0,
+          107
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0146_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200303",
+        "script_id": "ing3_102003_03.json__249df5ee371188f1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          144
+        ],
+        "log_order_index": [
+          0,
+          144
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0146_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200401",
+        "script_id": "ing3_102004_01.json__ce10787e289bf5f4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          158
+        ],
+        "log_order_index": [
+          0,
+          158
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0147_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200402",
+        "script_id": "ing3_102004_02.json__c08733a3ab401d8b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          136
+        ],
+        "log_order_index": [
+          0,
+          136
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0147_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200403",
+        "script_id": "ing3_102004_03.json__b29fb47374a7f958",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          128
+        ],
+        "log_order_index": [
+          0,
+          128
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0147_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200501",
+        "script_id": "ing3_102005_01.json__25a0be9cbf0e3e87",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          121
+        ],
+        "log_order_index": [
+          0,
+          121
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0148_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200502",
+        "script_id": "ing3_102005_02.json__bb609a698248eb31",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          76
+        ],
+        "log_order_index": [
+          0,
+          76
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0148_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200503",
+        "script_id": "ing3_102005_03.json__3569c33fe73c847e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          139
+        ],
+        "log_order_index": [
+          0,
+          139
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0148_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200601",
+        "script_id": "ing3_102006_01.json__7110a79fd0286fdd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          85
+        ],
+        "log_order_index": [
+          0,
+          85
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0149_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200602",
+        "script_id": "ing3_102006_02.json__d391d9e765a48348",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          129
+        ],
+        "log_order_index": [
+          0,
+          129
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0149_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200603",
+        "script_id": "ing3_102006_03.json__4876734b3f04c450",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          203
+        ],
+        "log_order_index": [
+          0,
+          203
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0149_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200701",
+        "script_id": "ing3_102007_01.json__4c27c4ae333965da",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          204
+        ],
+        "log_order_index": [
+          0,
+          204
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0150_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200702",
+        "script_id": "ing3_102007_02.json__4491c282f2ab5d13",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          83
+        ],
+        "log_order_index": [
+          0,
+          83
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0150_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200703",
+        "script_id": "ing3_102007_03.json__054d2ab6e7df46a6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          149
+        ],
+        "log_order_index": [
+          0,
+          149
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0150_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200801",
+        "script_id": "ing3_102008_01.json__bec930eefef27b24",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          69
+        ],
+        "log_order_index": [
+          0,
+          69
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0151_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200802",
+        "script_id": "ing3_102008_02.json__451be2edcd9db955",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          124
+        ],
+        "log_order_index": [
+          0,
+          124
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0151_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200803",
+        "script_id": "ing3_102008_03.json__6754e05fcb9352e6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          178
+        ],
+        "log_order_index": [
+          0,
+          178
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0151_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200901",
+        "script_id": "ing3_102009_01.json__11f6ade79587ae99",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          48
+        ],
+        "log_order_index": [
+          0,
+          48
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0152_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200902",
+        "script_id": "ing3_102009_02.json__9cfd0bc1632b9179",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          138
+        ],
+        "log_order_index": [
+          0,
+          138
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0152_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612200903",
+        "script_id": "ing3_102009_03.json__5b05fda7444f8663",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          164
+        ],
+        "log_order_index": [
+          0,
+          164
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0152_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201001",
+        "script_id": "ing3_102010_01.json__cd197c0b3549fc3c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          81
+        ],
+        "log_order_index": [
+          0,
+          81
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0153_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201002",
+        "script_id": "ing3_102010_02.json__69f48ff501438cfc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          107
+        ],
+        "log_order_index": [
+          0,
+          107
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0153_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201003",
+        "script_id": "ing3_102010_03.json__1999867c716144d5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          92
+        ],
+        "log_order_index": [
+          0,
+          92
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0153_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201101",
+        "script_id": "ing3_102011_01.json__0813ab72f129aee9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          87
+        ],
+        "log_order_index": [
+          0,
+          87
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0154_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201102",
+        "script_id": "ing3_102011_02.json__fb93780c159a2305",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          73
+        ],
+        "log_order_index": [
+          0,
+          73
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0154_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201103",
+        "script_id": "ing3_102011_03.json__10a681adde4bc4b4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          76
+        ],
+        "log_order_index": [
+          0,
+          76
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0154_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201201",
+        "script_id": "ing3_102012_01.json__0d2e329a170b80bb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          65
+        ],
+        "log_order_index": [
+          0,
+          65
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0155_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201202",
+        "script_id": "ing3_102012_02.json__33a3b7a370586b3d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          75
+        ],
+        "log_order_index": [
+          0,
+          75
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0155_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201203",
+        "script_id": "ing3_102012_03.json__2693d9fb12e39a4c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          168
+        ],
+        "log_order_index": [
+          0,
+          168
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0155_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201301",
+        "script_id": "ing3_102013_01.json__7d98ce676a311686",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0156_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201302",
+        "script_id": "ing3_102013_02.json__b155ac8e2a529b84",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          111
+        ],
+        "log_order_index": [
+          0,
+          111
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0156_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201303",
+        "script_id": "ing3_102013_03.json__21feb72f629ccfdd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          199
+        ],
+        "log_order_index": [
+          0,
+          199
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0156_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201401",
+        "script_id": "ing3_102014_01.json__986d3cb818f31a4b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          93
+        ],
+        "log_order_index": [
+          0,
+          93
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0157_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201402",
+        "script_id": "ing3_102014_02.json__a6ba1bc27dae1102",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          131
+        ],
+        "log_order_index": [
+          0,
+          131
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0157_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201403",
+        "script_id": "ing3_102014_03.json__216d42d2cd795d56",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          103
+        ],
+        "log_order_index": [
+          0,
+          103
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0157_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201501",
+        "script_id": "ing3_102015_01.json__1418e3ad3582452b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          109
+        ],
+        "log_order_index": [
+          0,
+          109
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0158_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201502",
+        "script_id": "ing3_102015_02.json__156583fe4122a722",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          51
+        ],
+        "log_order_index": [
+          0,
+          51
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0158_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201503",
+        "script_id": "ing3_102015_03.json__c0ce548e0bd98013",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          98
+        ],
+        "log_order_index": [
+          0,
+          98
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0158_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201601",
+        "script_id": "ing3_102016_01.json__5912db007a95f466",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          126
+        ],
+        "log_order_index": [
+          0,
+          126
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0159_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201602",
+        "script_id": "ing3_102016_02.json__b23f565417730cf8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          138
+        ],
+        "log_order_index": [
+          0,
+          138
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0159_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201603",
+        "script_id": "ing3_102016_03.json__aab46ed52cdcfb56",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          164
+        ],
+        "log_order_index": [
+          0,
+          164
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0159_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201701",
+        "script_id": "ing3_102017_01.json__ba8203f8c8ce1a86",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          76
+        ],
+        "log_order_index": [
+          0,
+          76
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0160_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201702",
+        "script_id": "ing3_102017_02.json__5ed4ee62ab8d6d4a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          107
+        ],
+        "log_order_index": [
+          0,
+          107
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0160_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201703",
+        "script_id": "ing3_102017_03.json__08e769106b88f648",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          174
+        ],
+        "log_order_index": [
+          0,
+          174
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0160_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201801",
+        "script_id": "ing3_102018_01.json__60ce71422d802a08",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          77
+        ],
+        "log_order_index": [
+          0,
+          77
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0161_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201802",
+        "script_id": "ing3_102018_02.json__0fa09ea18de32c43",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          139
+        ],
+        "log_order_index": [
+          0,
+          139
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0161_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201803",
+        "script_id": "ing3_102018_03.json__bf6cd330e907925d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          86
+        ],
+        "log_order_index": [
+          0,
+          86
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0161_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201901",
+        "script_id": "ing3_102019_01.json__5f39a875a44f905e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0162_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201902",
+        "script_id": "ing3_102019_02.json__1d78577273f46d24",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          95
+        ],
+        "log_order_index": [
+          0,
+          95
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0162_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612201903",
+        "script_id": "ing3_102019_03.json__ef1e4aa0425cc2be",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          147
+        ],
+        "log_order_index": [
+          0,
+          147
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0162_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202001",
+        "script_id": "ing3_102020_01.json__7fde10e94da097f2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          91
+        ],
+        "log_order_index": [
+          0,
+          91
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0163_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202002",
+        "script_id": "ing3_102020_02.json__7906da2ae93a23bc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          76
+        ],
+        "log_order_index": [
+          0,
+          76
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0163_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202003",
+        "script_id": "ing3_102020_03.json__4f2687dd37bd36d4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          117
+        ],
+        "log_order_index": [
+          0,
+          117
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0163_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202101",
+        "script_id": "ing3_102021_01.json__42aa81a340ee9add",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          148
+        ],
+        "log_order_index": [
+          0,
+          148
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0164_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202102",
+        "script_id": "ing3_102021_02.json__15b2ef5ca820c58b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          125
+        ],
+        "log_order_index": [
+          0,
+          125
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0164_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202103",
+        "script_id": "ing3_102021_03.json__94b2b69eb3f6e79c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          141
+        ],
+        "log_order_index": [
+          0,
+          141
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0164_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202201",
+        "script_id": "ing3_102022_01.json__5a94dedbf2132fc6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          100
+        ],
+        "log_order_index": [
+          0,
+          100
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0165_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202202",
+        "script_id": "ing3_102022_02.json__93e8aee8aa6282a2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          133
+        ],
+        "log_order_index": [
+          0,
+          133
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0165_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202203",
+        "script_id": "ing3_102022_03.json__dd1291cc9988e534",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          101
+        ],
+        "log_order_index": [
+          0,
+          101
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0165_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202301",
+        "script_id": "ing3_102023_01.json__ac3c61f2bd004eb9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          81
+        ],
+        "log_order_index": [
+          0,
+          81
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0166_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202302",
+        "script_id": "ing3_102023_02.json__4d9f5fc1c9be24e4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          197
+        ],
+        "log_order_index": [
+          0,
+          197
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0166_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202303",
+        "script_id": "ing3_102023_03.json__fef40207fbf54314",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          158
+        ],
+        "log_order_index": [
+          0,
+          158
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0166_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202401",
+        "script_id": "ing3_102024_01.json__d4fb376463d2af09",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          92
+        ],
+        "log_order_index": [
+          0,
+          92
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0167_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202402",
+        "script_id": "ing3_102024_02.json__ccf79ca92442091e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          35
+        ],
+        "log_order_index": [
+          0,
+          35
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0167_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202403",
+        "script_id": "ing3_102024_03.json__f9d1b9471f47a500",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          216
+        ],
+        "log_order_index": [
+          0,
+          216
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0167_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202501",
+        "script_id": "ing3_102025_01.json__e21973234e942efb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          121
+        ],
+        "log_order_index": [
+          0,
+          121
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0168_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202502",
+        "script_id": "ing3_102025_02.json__890a5d5a837f3cc4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          80
+        ],
+        "log_order_index": [
+          0,
+          80
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0168_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202503",
+        "script_id": "ing3_102025_03.json__e60b2467fc8393c4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          78
+        ],
+        "log_order_index": [
+          0,
+          78
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0168_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202601",
+        "script_id": "ing3_102026_01.json__d3bcc32c8309a46d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          108
+        ],
+        "log_order_index": [
+          0,
+          108
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0169_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202602",
+        "script_id": "ing3_102026_02.json__e0e9bac223479404",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          98
+        ],
+        "log_order_index": [
+          0,
+          98
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0169_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202603",
+        "script_id": "ing3_102026_03.json__db0bc04048ec054f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          106
+        ],
+        "log_order_index": [
+          0,
+          106
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0169_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202701",
+        "script_id": "ing3_102027_01.json__b202421651f894cf",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0170_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202702",
+        "script_id": "ing3_102027_02.json__5f6b98d93288967f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          66
+        ],
+        "log_order_index": [
+          0,
+          66
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0170_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202703",
+        "script_id": "ing3_102027_03.json__a4653af56c4653d5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          143
+        ],
+        "log_order_index": [
+          0,
+          143
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0170_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202801",
+        "script_id": "ing3_102028_01.json__20f0ef23e568e135",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          63
+        ],
+        "log_order_index": [
+          0,
+          63
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0171_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202802",
+        "script_id": "ing3_102028_02.json__898b37c8a888ad65",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          140
+        ],
+        "log_order_index": [
+          0,
+          140
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0171_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202803",
+        "script_id": "ing3_102028_03.json__16ed55e2bdb63afc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          120
+        ],
+        "log_order_index": [
+          0,
+          120
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0171_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202901",
+        "script_id": "ing3_102029_01.json__e04d7db18d8f843e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          89
+        ],
+        "log_order_index": [
+          0,
+          89
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0172_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202902",
+        "script_id": "ing3_102029_02.json__7ead762cd3ccd3dd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          95
+        ],
+        "log_order_index": [
+          0,
+          95
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0172_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612202903",
+        "script_id": "ing3_102029_03.json__67c4365b387c1af9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          201
+        ],
+        "log_order_index": [
+          0,
+          201
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0172_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203001",
+        "script_id": "ing3_102030_01.json__16bafd2c2fba979c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          130
+        ],
+        "log_order_index": [
+          0,
+          130
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0173_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203002",
+        "script_id": "ing3_102030_02.json__ba0ae5e6368cd820",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          57
+        ],
+        "log_order_index": [
+          0,
+          57
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0173_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203003",
+        "script_id": "ing3_102030_03.json__b597e3a2115d0900",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          172
+        ],
+        "log_order_index": [
+          0,
+          172
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0173_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203101",
+        "script_id": "ing3_102031_01.json__5f8cd19f29583665",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          90
+        ],
+        "log_order_index": [
+          0,
+          90
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0174_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203102",
+        "script_id": "ing3_102031_02.json__f99d4a58adbebec9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          88
+        ],
+        "log_order_index": [
+          0,
+          88
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0174_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203103",
+        "script_id": "ing3_102031_03.json__4ae1f5e862bf7b74",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          98
+        ],
+        "log_order_index": [
+          0,
+          98
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0174_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203201",
+        "script_id": "ing3_102032_01.json__eedfe3e85961d781",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0175_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203202",
+        "script_id": "ing3_102032_02.json__6e0db7dbffc2b07a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          126
+        ],
+        "log_order_index": [
+          0,
+          126
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0175_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203203",
+        "script_id": "ing3_102032_03.json__3c3531f16175a840",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          99
+        ],
+        "log_order_index": [
+          0,
+          99
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0175_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203301",
+        "script_id": "ing3_102033_01.json__3424f97a7bbbdd81",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          57
+        ],
+        "log_order_index": [
+          0,
+          57
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0176_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203302",
+        "script_id": "ing3_102033_02.json__f8303d2922b9714d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          92
+        ],
+        "log_order_index": [
+          0,
+          92
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0176_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203303",
+        "script_id": "ing3_102033_03.json__7c51d05a8d45d867",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          146
+        ],
+        "log_order_index": [
+          0,
+          146
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0176_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203401",
+        "script_id": "ing3_102034_01.json__dcde77651c668cbc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          67
+        ],
+        "log_order_index": [
+          0,
+          67
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0177_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203402",
+        "script_id": "ing3_102034_02.json__73936dd753ffab79",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          96
+        ],
+        "log_order_index": [
+          0,
+          96
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0177_DEEP_READING.md"
+      },
+      {
+        "episode_id": "612203403",
+        "script_id": "ing3_102034_03.json__ea11f48607d772d4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          84
+        ],
+        "log_order_index": [
+          0,
+          84
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0177_DEEP_READING.md"
+      }
+    ],
+    "next_candidate_episode_id": "612203501",
+    "next_candidate_native_chapter_layer_id": "301500",
+    "next_candidate_status": "AUTHORIZED_REMAINING_2034_RUN_NOT_CONSUMED: B0178; terminal boundary is complete 2034 era release",
+    "authorized_story_boundary_complete": false
+  },
+  "collection_manifest": {
+    "sha256": "f8127e578c3e350fca526b3f60315cedce2ef5de82d456d92962ca19364877b1",
+    "bytes": 1096631
+  },
+  "database": {
+    "sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+    "bytes": 5864910848,
+    "schema": "t7s-query-index/1",
+    "normalized_schema": "t7s-normalized-scenario/1",
+    "verification": "FULL_FILE_SHA256_MATCH_AT_BOOTSTRAP_AND_B0002_B0003_AND_B0003_CHAPTER_CLOSE_AND_B0004_CHAPTER_CLOSE_AND_B0005_CHAPTER_CLOSE_AND_B0006_CHAPTER_CLOSE_AND_B0007_OPENING_PREFLIGHT_AND_B0007_CHAPTER_CLOSE_PREFLIGHT_AND_B0008_CHAPTER_CLOSE_PREFLIGHT_AND_B0009_CHAPTER_CLOSE_PREFLIGHT_AND_B0010_OPENING_PREFLIGHT_AND_EPISODE_1_0_CLOSE_PREFLIGHT_AND_EPISODE_4U_CLOSE_PREFLIGHT_AND_NEXT_TWO_UNITS_CLOSE_PREFLIGHT_AND_EPISODE_3_0_CLOSE_PREFLIGHT_AND_EPISODE_4_0_AXIS_CLOSE_PREFLIGHT_AND_EPISODE_0_0_CLOSE_PREFLIGHT_AND_EPISODE_0_7_CLOSE_PREFLIGHT_AND_EPISODE_5_0_CLOSE_PREFLIGHT_AND_EPISODE_6_0_CLOSE_PREFLIGHT_AND_EPISODE_NANASUTA_CLOSE_PREFLIGHT"
+  },
+  "episode_catalog": {
+    "artifact_id": "corpus:catalog/episodes.jsonl",
+    "scope": "corpus",
+    "role": "catalog_authority",
+    "size": 7810590,
+    "sha256": "cda29102ec76a4242bcbb194a37a12453510e7ca6ccffe5478e4f1358b18e625"
+  },
+  "source_artifact_manifest": {
+    "artifact": "source_artifacts.json",
+    "sha256": "7c0ac41509af9520a98129d924e42654a515ba3818683bd679f72342b3a191e5",
+    "bytes": 569048
+  },
+  "source_artifact_manifest_recipe": {
+    "query": "SELECT * FROM source_artifacts ORDER BY artifact_id COLLATE BINARY",
+    "serialization": "array of objects in SQLite column order; Python json.dumps(ensure_ascii=False, indent=2), final LF, UTF-8 without BOM",
+    "scope_resolution": "archive, corpus, media roots configured outside Git; reject path escape"
+  },
+  "masters": [
+    {
+      "table": "m_scenario",
+      "sha256": "0409286e46697e8bfe474ec607b01c7065107ae1f0e4e161c4b316a49b129c65",
+      "bytes": 531744,
+      "rows": 1350
+    },
+    {
+      "table": "m_scenario_layer",
+      "sha256": "5fac27e3e6bea2381b29eaf95a72e5c5f1c78af502554b1b0cb62106dcefafdc",
+      "bytes": 169172,
+      "rows": 462
+    },
+    {
+      "table": "m_character",
+      "sha256": "dbda7389df987ffe150500efa0d33c6af59c734cdcd835c2ccf83c561e19f5cd",
+      "bytes": 53055,
+      "rows": 74
+    },
+    {
+      "table": "m_live_music",
+      "sha256": "c2bc4a78f7f466e05d322839106cf2ad11c59b4eac2fe038619f13a17e5c684d",
+      "bytes": 82388,
+      "rows": 229
+    },
+    {
+      "table": "m_live_music_meta",
+      "sha256": "0960e010321f8ec6486f4a1d7cab10daa43de64160f1fc3108b398b5f69e2606",
+      "bytes": 411962,
+      "rows": 217
+    }
+  ],
+  "supplemental_tranches": [
+    {
+      "namespace": "card_message",
+      "count": 25711,
+      "membership_sha256": "453e0d1ff03b844eca5bc14d33971cf2f13b2d8a7a568cd12225fb374f92af82",
+      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
+      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
+      "parameters": {
+        "namespace": "card_message"
+      }
+    },
+    {
+      "namespace": "character_voice",
+      "count": 5072,
+      "membership_sha256": "3325a8aae6e87f324a58c519c97e6178c44a5520e318d6bae1458cd8056f30ae",
+      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
+      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
+      "parameters": {
+        "namespace": "character_voice"
+      }
+    },
+    {
+      "namespace": "eplive_navigation",
+      "count": 7,
+      "membership_sha256": "46bad0dab6001391c29b4392594f2fa8057ac0716973c132fc835197e97a0dac",
+      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
+      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
+      "parameters": {
+        "namespace": "eplive_navigation"
+      }
+    },
+    {
+      "namespace": "solo_stage_message",
+      "count": 196,
+      "membership_sha256": "654fa6ec270c3baf262e6beb23c72f43762c751bad5de9217226aad8a63de0a3",
+      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
+      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
+      "parameters": {
+        "namespace": "solo_stage_message"
+      }
+    },
+    {
+      "namespace": "tutorial_ui_message",
+      "count": 5,
+      "membership_sha256": "d78d0fa1753c75bed104422cff5246cb9d97fb66c94459b675bf85dd2eaeaa15",
+      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
+      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
+      "parameters": {
+        "namespace": "tutorial_ui_message"
+      }
+    }
+  ],
+  "counts": {
+    "catalog_episodes": 1350,
+    "Main": 364,
+    "Sub": 755,
+    "Event": 231,
+    "scenario_resources": 1578,
+    "additional_scripts": 228,
+    "text_records": 94457,
+    "catalog_text_records": 91523,
+    "pages": 110527,
+    "supplemental_records": 30991,
+    "media_assets": 95395,
+    "wav": 69520,
+    "images": 25688,
+    "movies": 187,
+    "native_wave_identities": 69647,
+    "logical_movie_resources": 189,
+    "media_relation_rows": 699298
+  },
+  "collection_seal_scope": {
+    "output_files": 112440,
+    "output_bytes": 82983925341,
+    "output_scopes": 6,
+    "evidence_artifacts": 2023,
+    "meaning": "canonical collection output counts, not raw acquisition counts"
+  },
+  "capabilities": {
+    "native_text": "Native Japanese wording, presence flags and page/command context; no automatic resolved identity",
+    "media": "Canonical decoded assets and native candidate/occurrence links; no universal timing or playback proof",
+    "lyrics": "215 nonempty of 217 m_live_music_meta records; game-master wording, not full-recording alignment",
+    "runtime_validation": "Historical four-script sample: 49 unique observed pages, 47 dialogue and 2 title; not complete playback"
+  },
+  "integrity": {
+    "control_storage_transition_v1": {"operation":"T7S_CONTROL_STORAGE_TRANSITION_V1","date":"2026-10-14","source_lock_before_version":"12.82","source_lock_after_version":"12.83","source_lock_before_physical_sha256":"3ab5dac232936bbec1a22651a4c310b76f20a0073f308b8eb190f298eb716abe","source_lock_before_logical_sha256":"3ab5dac232936bbec1a22651a4c310b76f20a0073f308b8eb190f298eb716abe","source_high_water_unchanged":"T7S_B0177","new_source_admission":"NONE","scope":"Whole SourceLock manifest-bound JSON fragments and five physical coverage role shards; entity/story/claims/readings/source media untouched.","all_older_integrity_serialized_bytes":"BYTE_EXACT","coverage_effective_state_sha256":"b23b2ba3e02322864739030fcb16fd7187803425d0673b9a1064dbb87279e13e","physical_file_limit":1048576,"native_quoted_utf16_limit":28000,"reader_sha256":"4a7f37fef3ee4072d3694c3d055e2d8df51e2039f3bb8e40b26f43e2d7764f57","storage_record":"09 Audits and Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md"},
+    "b0177_close_verification": {"operation":"T7S_B0177_CLOSE","checked_at":"2026-10-13","status":"PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW","episode_ids":["612203401","612203402","612203403"],"source_bindings":[{"episode_id":"612203401","script_id":"ing3_102034_01.json__dcde77651c668cbc","source_sha256":"3b1d4be3bb685026297ef8257657d9a48a6ceb1ac2fead43c1ae680a8165a320","decoded_sha256":"017989cf7871cc36a67ec343659cb120ade1877f8eeb760abfb36474650cf518","normalized_sha256":"0e44fd0526ce5d51806a22c65ef3167027c8a80d6035acfcf1980158b527809e","structured_sha256":"0e44fd0526ce5d51806a22c65ef3167027c8a80d6035acfcf1980158b527809e","pages":68,"text_records":57,"command_only_pages":11,"voice_pages":39,"native_pages_verified":68},{"episode_id":"612203402","script_id":"ing3_102034_02.json__73936dd753ffab79","source_sha256":"ef67aa055f633380622d0a32be42b928de219cbab138c7c15ea92b5a269e510b","decoded_sha256":"5563590b7b49f2f070f049497f82fa430551f9b398274f0d3c5fb00d74da7b9c","normalized_sha256":"a18216e27d17faf29f496225505234ebab3b4f7142cf9befe41cef78bb9ccb1d","structured_sha256":"a18216e27d17faf29f496225505234ebab3b4f7142cf9befe41cef78bb9ccb1d","pages":97,"text_records":75,"command_only_pages":22,"voice_pages":57,"native_pages_verified":97},{"episode_id":"612203403","script_id":"ing3_102034_03.json__ea11f48607d772d4","source_sha256":"5549ef75c6b6596d14d1d9bb5467bc7946520e02a34788d8150d71ccaf081a7e","decoded_sha256":"cf8dc99dd9d3219901db74d5e66c19ebeb44a1cc7076b8e175be146326327d00","normalized_sha256":"ed47b4e5558511409084d7099656433405bdf6e29ae5bb3fd606235321e7fc52","structured_sha256":"ed47b4e5558511409084d7099656433405bdf6e29ae5bb3fd606235321e7fc52","pages":85,"text_records":72,"command_only_pages":13,"voice_pages":59,"native_pages_verified":85}],"totals":{"pages":250,"text_records":204,"command_only_pages":46,"voice_pages":155,"visual_refs":2106},"voice_count_basis":"Distinct dialogue log-order indexes with voice resource; title-only cues additional; no performed audio reviewed.","native_packet_sha256":"7d455f00adb1dd7707c206529f4ace23cc8cf2d942c440e498da463ab4d0bb6d","dialogue_packet_sha256":"76fdb9d61204ff5438cf15ea85f7b55c61a24970855de720653feef167584f4d","entering_repository_head":"d558b089674a45503cb3e439c9a71bef0ac57aaa","entering_source_lock_version":"12.81","entering_source_lock_sha256":"659e10df13a68731c986bdaef8e8ce7f1da4f984663f51ca5da2b4ed191abafd","entering_source_high_water":"T7S_B0176","prospective_boundary_sha256":"51058de853a78676fe8d8d14d39c90fbc5cd7ccc0c177b03150e08b20635c216","evidence_receipt_sha256":"2cac31a7536829330817c913542d32a676dfcd55435b95928407d3c2bad9ac9a","native_fields_projection_sha256":"912f7494a059962ae7528b3109344f618eb7b2d1cebc1422fcb6726eb33f5d08","visual_assets":[{"resource":"adv_chara_004_01_01","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_01.png","face_sha256":"95e34c62c3396b29b6716cf56c2dabd1af0752f0bb56e1f1a9735860ca0dac2c","native_face_offset":[194,74],"output_sha256":"d21f450fd21f3b0278a6a4d2d0bc099bb9cc7877d04a0c56bae2a56868935f88"},{"resource":"adv_chara_004_01_02","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_02.png","face_sha256":"5ae68c422bd34607ee7fe63a5043488e043c8ca43e8c5c40bc3c34124ca52338","native_face_offset":[194,74],"output_sha256":"cf9a04b8e67e3cdc2a41efabea06602553eb9cc3f7dd53e58340b0acc8a107a6"},{"resource":"adv_chara_004_01_05","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_05.png","face_sha256":"d33567411d5de61bb7060fa8c50ed1242c479810eafe455f0a1b8106fd7463a4","native_face_offset":[194,74],"output_sha256":"54e3487d89e826843cfb32c814eb2a27bd91293fcea2d3a2b9393a5dd9f775bd"},{"resource":"adv_chara_004_01_06","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_06.png","face_sha256":"2ed7745b3f1906230a645b992a93e8259f8fd0466efab7fe91237c02d74440e7","native_face_offset":[194,74],"output_sha256":"768a21438bdc393bae3afad31a52cb7669988a04282251c52576a5353b7de373"},{"resource":"adv_chara_004_01_07","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_07.png","face_sha256":"70378b0def42ea636a290d9f331afccb82c82df811d80c28f353d08ab5a3e44b","native_face_offset":[194,74],"output_sha256":"8b4b7fdf857db0be4aef3f3f9c0b6c9d78fb6645bdd9a2f6ffe24fc03501c010"},{"resource":"adv_chara_004_01_08","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_08.png","face_sha256":"7e70a547219f2df0e97f0fc05f1ab0456a0fd0d6b55f8ed99e07673fabdbf316","native_face_offset":[194,74],"output_sha256":"d39d378903d9d2e5e121c5c0f31825b6b3cbba87d19de4a6b2b839e7b3612044"},{"resource":"adv_chara_004_01_09","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_09.png","face_sha256":"037095c72a95cdc6913b285b476c73763f9d5f7f8f5a3a73149a2d91146fc0a4","native_face_offset":[194,74],"output_sha256":"8e75a5f609ea3f341b78c610fc04a3cb8fe53c8884986f536620f752dde9ce67"},{"resource":"adv_chara_004_01_11","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_11.png","face_sha256":"cf841e0d8f869f74800eb312e1b32d7e4489456ebf5514ca43a0d753210cbbc2","native_face_offset":[194,74],"output_sha256":"119de115ceebee886b60f467a8e77f4348c22e2f264d757035d05a752c091d1a"},{"resource":"adv_chara_004_01_12","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_12.png","face_sha256":"ccf54121bf174d8bdc145dedb96d53b110cfbb881e5e0a4bd078739cce7f4b2e","native_face_offset":[194,74],"output_sha256":"6d4ebb0aae92d93ecf03f1dc53193e039d8e245a2fade03819d2e16adbb4d526"},{"resource":"adv_chara_004_01_14","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_14.png","face_sha256":"a09fd9265da03ad981967f4f58f8954e23ea83dc3494cbe7cc740c5708914f0b","native_face_offset":[194,74],"output_sha256":"88857046818a0de752e5547399f88d9c31b85658c98f50827a3538fd5cf60ff0"},{"resource":"adv_chara_004_01_15","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_15.png","face_sha256":"fb3d84446ab35f032d5848525ead64140e20b09b6051e09a1efaebd73f7d9d46","native_face_offset":[194,74],"output_sha256":"56082cd3cbcd7876173e7c516781b6f3c2c2189722989cac435e4fda7e75c0a6"},{"resource":"adv_chara_004_01_19","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_19.png","face_sha256":"ef851aec459bf4fedb968b3e398cfc6000f977c0c0da7732a6df2f796e8d28d9","native_face_offset":[194,74],"output_sha256":"c9640e4971cfede24d46ff425a2b0ef653e7f41bedf263a72ab9e837618253c7"},{"resource":"adv_chara_004_01_20","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_20.png","face_sha256":"6a46ad722453d4b68dd907cfad85453c170f6cc360f1882a0d74ca2b75118619","native_face_offset":[194,74],"output_sha256":"50ca42724a4fad06a2cd0038ab7778c5f48f97bc49e6576f900063099229676d"},{"resource":"adv_chara_004_01_22","body":"adv_chara_004_01.png","body_sha256":"5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be","face":"adv_chara_004_01_22.png","face_sha256":"d2183810c0daea1272c02a7e88fbf2fe4b25419579692de5de56f3078a12ec49","native_face_offset":[194,74],"output_sha256":"fee7bb5c819408e7a92f203713028038124495f47fe575a4c5926c3831a7d465"},{"resource":"adv_chara_004_05_04","body":"adv_chara_004_05.png","body_sha256":"651d7a22320e425a802532660fdb19a88dedeeba590c6fc79da73b1429ef8f8a","face":"adv_chara_004_05_04.png","face_sha256":"92fd9395d32bac08a666cd4eb2c13e604e2c0ef9f2a307822ff87df781343cec","native_face_offset":[194,74],"output_sha256":"400967983f456b2fb29f08fef2f95ebb07183d3074ac2878a06dc5b4073a5529"},{"resource":"adv_chara_004_05_05","body":"adv_chara_004_05.png","body_sha256":"651d7a22320e425a802532660fdb19a88dedeeba590c6fc79da73b1429ef8f8a","face":"adv_chara_004_05_05.png","face_sha256":"5fc4d285df24cc9276ba8c21e77477b81f3230fbd7acabb38351072c948e24d8","native_face_offset":[194,74],"output_sha256":"474233d4fba9ceffd3c6b66d0fe8cdb346938700a2a66ac04dd87eadf0b0d72c"},{"resource":"adv_chara_004_05_07","body":"adv_chara_004_05.png","body_sha256":"651d7a22320e425a802532660fdb19a88dedeeba590c6fc79da73b1429ef8f8a","face":"adv_chara_004_05_07.png","face_sha256":"0cc6684584c8f44471aa81aa6cfcda64399ef26ad0c335cbdb68a7d77f0f13f6","native_face_offset":[194,74],"output_sha256":"bec7d3b23e735412af68f71bd9d11efe3b16ee67207e33d65cdcabda994d9a12"},{"resource":"adv_chara_004_05_20","body":"adv_chara_004_05.png","body_sha256":"651d7a22320e425a802532660fdb19a88dedeeba590c6fc79da73b1429ef8f8a","face":"adv_chara_004_05_20.png","face_sha256":"e47b6a29cbf0356aa95ff2f42a133818176c84e25a9bea256349683ff244ca8c","native_face_offset":[194,74],"output_sha256":"77ff9c3c201b15fe20f804f94c4b5cbbc946ec0c98a332e5d129dee477970a4d"},{"resource":"adv_chara_006_01_02","body":"adv_chara_006_01.png","body_sha256":"d40ded643748164bb05d319c4a3889a41f99d102a3fcfeb60675b59529a6c392","face":"adv_chara_006_01_02.png","face_sha256":"3466853a57ba9ab3990645269021b777126c0f47f3683a5d446863dc5278a2d9","native_face_offset":[134,91],"output_sha256":"adc6eec57dcaac27db0becfee2ca357b7cf6c40875afdf82c7c8fbe2a9753918"},{"resource":"adv_chara_006_01_04","body":"adv_chara_006_01.png","body_sha256":"d40ded643748164bb05d319c4a3889a41f99d102a3fcfeb60675b59529a6c392","face":"adv_chara_006_01_04.png","face_sha256":"dd096a9d2553de3cc6ed017456142d7e1d63f9d0f152452f2a356aae40c4674f","native_face_offset":[134,91],"output_sha256":"58d2c91aa2d15c4423ed4ff5339d7d4cbcb803b64b7ac3fae6fb10cefffed72a"},{"resource":"adv_chara_006_01_05","body":"adv_chara_006_01.png","body_sha256":"d40ded643748164bb05d319c4a3889a41f99d102a3fcfeb60675b59529a6c392","face":"adv_chara_006_01_05.png","face_sha256":"4358c5a3ca68737fd4b6a1afa0edc2094c8ba9ed3985d0d71dea87f59ceca6b8","native_face_offset":[134,91],"output_sha256":"b1605bd99b38c2eb79e4dc83c899affa69c635b1c323fa57b217f3e3d4826fa7"},{"resource":"adv_chara_006_01_06","body":"adv_chara_006_01.png","body_sha256":"d40ded643748164bb05d319c4a3889a41f99d102a3fcfeb60675b59529a6c392","face":"adv_chara_006_01_06.png","face_sha256":"bdfe8f4e759205169bcd1a26693f56b201a177a8ee4f6c4969ca2435efac8fcd","native_face_offset":[134,91],"output_sha256":"d942d4bac05503cc63ca479b57dfcc2ddefe38441171ce40f9d25daf63d3e7b5"},{"resource":"adv_chara_006_01_07","body":"adv_chara_006_01.png","body_sha256":"d40ded643748164bb05d319c4a3889a41f99d102a3fcfeb60675b59529a6c392","face":"adv_chara_006_01_07.png","face_sha256":"8c1f339f01592fd2a220a452901c4576b58565481aa31cb3a69b7d427599d336","native_face_offset":[134,91],"output_sha256":"f729edfa4ff7c5658b7eb40ff78c3527c0350312d2d8752e0ce1eeace110a5b9"},{"resource":"adv_chara_006_01_12","body":"adv_chara_006_01.png","body_sha256":"d40ded643748164bb05d319c4a3889a41f99d102a3fcfeb60675b59529a6c392","face":"adv_chara_006_01_12.png","face_sha256":"f36e7c9ec3fda34be7c6f8700fad84e397ddf74b2b2951b500d59366a7adf0d1","native_face_offset":[134,91],"output_sha256":"fe6f50beb87a906463a9bae1dd63d8b4faf704cb22159541330f9318a30fb68d"},{"resource":"adv_chara_006_01_14","body":"adv_chara_006_01.png","body_sha256":"d40ded643748164bb05d319c4a3889a41f99d102a3fcfeb60675b59529a6c392","face":"adv_chara_006_01_14.png","face_sha256":"a4819330ad410183ba1aee8b0ea9186fe722a38847a1d09f8d5b19002827cac5","native_face_offset":[134,91],"output_sha256":"0a092fef1f8e25123e31fe2e9f3d25ca09fac4331e56d804fac6cd878f5f8490"},{"resource":"adv_chara_006_01_15","body":"adv_chara_006_01.png","body_sha256":"d40ded643748164bb05d319c4a3889a41f99d102a3fcfeb60675b59529a6c392","face":"adv_chara_006_01_15.png","face_sha256":"2bf260e8397a5c5ba0bf5782bf69babce8ed3cae9bd3c50d31c358aa30989d24","native_face_offset":[134,91],"output_sha256":"d1d906e08d903f10b8edd7b8e4395cb4e956a783919ba620969efaf7b9621ea3"},{"resource":"adv_chara_006_01_17","body":"adv_chara_006_01.png","body_sha256":"d40ded643748164bb05d319c4a3889a41f99d102a3fcfeb60675b59529a6c392","face":"adv_chara_006_01_17.png","face_sha256":"ddd22046cc7fcc5ef0fffb9beef2e4c180ed099140d08bcc4ee69d790db5ddba","native_face_offset":[134,91],"output_sha256":"e34ccbdb63281eb8c2cd4d2555bb68036c38b10e3234b332c4aa3196f027d514"},{"resource":"adv_chara_008_01_01","body":"adv_chara_008_01.png","body_sha256":"a72bd127faade4229587eff774c6b319fd99e8221290d4cfbd61769441d8afa4","face":"adv_chara_008_01_01.png","face_sha256":"6cde466239545bdd5ef7cf3a50542c810e853eb59f7519d9d476f4bd59f0e0a0","native_face_offset":[166,84],"output_sha256":"5da4d642d552e04c85241ddb25ebfa6707dabb3e06e17c22083e7151dfc9e16b"},{"resource":"adv_chara_008_01_02","body":"adv_chara_008_01.png","body_sha256":"a72bd127faade4229587eff774c6b319fd99e8221290d4cfbd61769441d8afa4","face":"adv_chara_008_01_02.png","face_sha256":"1f06820770dbdbe057d0c94542c68d0c825df03dc8ae9887ec18a31cb8ab85c0","native_face_offset":[166,84],"output_sha256":"c042e0d18c4dca082a331b7cf20f57a0867e57edfbc9698178628eecf003126d"},{"resource":"adv_chara_008_01_03","body":"adv_chara_008_01.png","body_sha256":"a72bd127faade4229587eff774c6b319fd99e8221290d4cfbd61769441d8afa4","face":"adv_chara_008_01_03.png","face_sha256":"4ef21b05b42aa3e64dd5741c2d3f06e773733eeddbb71cdc98a56be3d22e0127","native_face_offset":[166,84],"output_sha256":"53c41138168f8a5b7337d8aa92b9ece2bd86df0181e0c5430475cb57c6f635a7"},{"resource":"adv_chara_008_01_04","body":"adv_chara_008_01.png","body_sha256":"a72bd127faade4229587eff774c6b319fd99e8221290d4cfbd61769441d8afa4","face":"adv_chara_008_01_04.png","face_sha256":"7e79c8b6fb99009aceae2126a9e5e49f584efe35836d60b6b7f55e6710351e36","native_face_offset":[166,84],"output_sha256":"25de8e6595dacd81aac02528c8ccbd1994e2696240fabacf0e3944dc7a771c60"},{"resource":"adv_chara_008_01_08","body":"adv_chara_008_01.png","body_sha256":"a72bd127faade4229587eff774c6b319fd99e8221290d4cfbd61769441d8afa4","face":"adv_chara_008_01_08.png","face_sha256":"f25f8e7458ddefe35e093699690893a1d19f5767c26bebc8f50f5e802fe9c5ef","native_face_offset":[166,84],"output_sha256":"cea0defa1de4ba0313630d1d7d52b832c1f31e9e35169dbb7427d2acc3719da3"},{"resource":"adv_chara_008_01_10","body":"adv_chara_008_01.png","body_sha256":"a72bd127faade4229587eff774c6b319fd99e8221290d4cfbd61769441d8afa4","face":"adv_chara_008_01_10.png","face_sha256":"1344c5f272131da270701710d75304f8728e7ba93579fe68b2984e617850c46c","native_face_offset":[166,84],"output_sha256":"3d15cb7f7179a3a9821a89c8c60e84ba8ae6b838e3c691b2d90016206510d41f"},{"resource":"adv_chara_008_01_11","body":"adv_chara_008_01.png","body_sha256":"a72bd127faade4229587eff774c6b319fd99e8221290d4cfbd61769441d8afa4","face":"adv_chara_008_01_11.png","face_sha256":"90bd4ef9754ef0bb4feb08a9f247f3f14eae229693e43ad72d542ec37440898f","native_face_offset":[166,84],"output_sha256":"e7f53af41f122b88fdce7e49f85229221a9d923457a9907d0681530eceb070e6"},{"resource":"adv_chara_134_01_01","body":"adv_chara_134_01.png","body_sha256":"59e54f3c7e045ef97681badac43daacab7c317c2456705c43ecd6e9021fcf960","face":"adv_chara_134_01_01.png","face_sha256":"fea863297cb5f0cc69f7afc53507625eb68936a5fd4e8d8a38edcf2b8dad8d11","native_face_offset":[96,67],"output_sha256":"a363b198ca80ebfe8335cd699850f068582b52cd7ebfff6f9bd1247a7de42a79"},{"resource":"adv_chara_134_01_02","body":"adv_chara_134_01.png","body_sha256":"59e54f3c7e045ef97681badac43daacab7c317c2456705c43ecd6e9021fcf960","face":"adv_chara_134_01_02.png","face_sha256":"0e2a245c6cd5bef66dc249e5e8998ea44807a7dab1f833857d7c46f1c97756ba","native_face_offset":[96,67],"output_sha256":"3f9d0df2d2d9e051c4c02b9cede951a47408ce2cc48e611fc0a49877eec876f9"},{"resource":"adv_chara_134_01_03","body":"adv_chara_134_01.png","body_sha256":"59e54f3c7e045ef97681badac43daacab7c317c2456705c43ecd6e9021fcf960","face":"adv_chara_134_01_03.png","face_sha256":"dbbf602de832c2040215f28fdb0baa0c5fe50cdd19dfa60e0b58900dd813447c","native_face_offset":[96,67],"output_sha256":"fd16c0c0860d376ed96722f5409543d7c964dcbfc072e00da46bed08257e9629"},{"resource":"adv_chara_134_01_04","body":"adv_chara_134_01.png","body_sha256":"59e54f3c7e045ef97681badac43daacab7c317c2456705c43ecd6e9021fcf960","face":"adv_chara_134_01_04.png","face_sha256":"453b64f5eef3b1ab03688bb90741b50da546046c326763e805c3fbba0084ff8e","native_face_offset":[96,67],"output_sha256":"f17fdfc684d675efe4eba6924cc956c3a65659c4979eb5255fa75561aa2988a9"},{"resource":"adv_chara_134_01_05","body":"adv_chara_134_01.png","body_sha256":"59e54f3c7e045ef97681badac43daacab7c317c2456705c43ecd6e9021fcf960","face":"adv_chara_134_01_05.png","face_sha256":"f29eb8e68e5b7ee2a10a3b3823c6facdeaffe5ed9033351b50871be48436a959","native_face_offset":[96,67],"output_sha256":"7dd2ad6c1247dc57385602addc9bb8e5d3072dff0bdcccf01e0236c2d4bcc585"},{"resource":"adv_chara_148_01_01","body":"adv_chara_148_01.png","body_sha256":"4ce7650d14226a78ef84e7be754b8b8600b9cff0d48dfd59a9ca03a3a9a029e4","face":"adv_chara_148_01_01.png","face_sha256":"9ebe31db2b7e89c6e81e25eebc43864dde38a46404a13c55e27e2207e9040f3a","native_face_offset":[112,96],"output_sha256":"e308635b1566fea246d92f4a6a8b2084632b8904a3def3639029ee73ddfc9353"},{"resource":"adv_chara_148_01_02","body":"adv_chara_148_01.png","body_sha256":"4ce7650d14226a78ef84e7be754b8b8600b9cff0d48dfd59a9ca03a3a9a029e4","face":"adv_chara_148_01_02.png","face_sha256":"7cad173b7de25029a7db1c1105f55b2ae602a066377c7aa2b3a2343b4b7bd193","native_face_offset":[112,96],"output_sha256":"df7a07f2b79226ef26b75ef9aab9ccb49082deab6ffe6880e68412a59fd9ec78"},{"resource":"adv_chara_148_01_03","body":"adv_chara_148_01.png","body_sha256":"4ce7650d14226a78ef84e7be754b8b8600b9cff0d48dfd59a9ca03a3a9a029e4","face":"adv_chara_148_01_03.png","face_sha256":"6ded9a9a7ba2f29e71dd1cf57276f9ab334207d361a230b9f6629d62184cb2dc","native_face_offset":[112,96],"output_sha256":"e3b2de86d548142516c59cb821ada3a095e02734ff6defd5dbc9b370737d8e16"},{"resource":"adv_obj_0157","body":"adv_obj_0157.png","body_sha256":"f94f6d3612635a5da9db308e4fbafef1af24300c06c51f93875d0b87fd2c4188","output_sha256":"0ea19a74182e595fb31c6ee9a9912f78177fc6c4032ca35401be264ced78d5ad"}],"coverage_effective_state_sha256":"b23b2ba3e02322864739030fcb16fd7187803425d0673b9a1064dbb87279e13e","execution_record":"09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md","boundary":"Complete chapter-local text/native state plus selected static review; no authored choice or inline movie; no later-source semantic evidence; performed audio unreviewed. Full 2034 release remains incomplete.","original_background_static_bindings":{"status":"ACTUALLY_VIEWED_STATIC_ONLY","source_binding_receipt_sha256":"0e4d2015bed35ba2855b0233c4c6a8748730f2f6d6a177d7b1458a657e05f3bf","count":4,"assets":[{"resource":"bg_002.jpg.enc","sha256":"3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f","representative_native_occurrence":{"episode_id":"612203402","page":30,"pointer":"/Pages/30/BackGround/FileName"}},{"resource":"bg_005.jpg.enc","sha256":"3fb088b1b9a764fd96643d5c694f8d157c82b9c8d85fb85073c037b8e57aec14","representative_native_occurrence":{"episode_id":"612203401","page":1,"pointer":"/Pages/1/BackGround/FileName"}},{"resource":"bg_029.jpg.enc","sha256":"ad7723032f9909e830947909a38225e70864874e394f9d51c862ad084d042349","representative_native_occurrence":{"episode_id":"612203402","page":50,"pointer":"/Pages/50/BackGround/FileName"}},{"resource":"bg_03.jpg.enc","sha256":"25c7d565a551ff57bc780f81e236ebb60b5f34fccfe4d5d21c6c7ffe6d80a6c1","representative_native_occurrence":{"episode_id":"612203401","page":0,"pointer":"/Pages/0/BackGround/FileName"}}],"separate_from_selected_static_receipt":true},"execution_reconciliation":{"base_commit":"f11afabce341e1a900280387f620d43e2f9df090","base_tree":"cfa606b32a1e46b5d41cbec5f95091c9cfb685d1","incorporated_main":"67b2a064714c099204636764a24aabc9ca58f2e6","preserved_prospective_head":"d558b089674a45503cb3e439c9a71bef0ac57aaa","unchanged_entering_t7s_subtree":"ebd8d0776406d1dbf147d2320d1de9499e4d6541","mode":"Automatic nightly1f6 reconciles77bd after preserved d558 freeze; local ordinary f11a merge additionally incorporates verified identical-full-tree squash67b2 from PR168. Entire entering T7S/source/entity bytes remain exact and frozen receipt/base literals unmodified.","byte_exact_closeout_adapter_sha256":"301804922b2ab294b7704a1312b7384e2027854bd0eef0174d76c53907c0e507"},"actual_root_review_sha256":"d162dbbbfa22bc9fc0c8a335a787e1a66fc8694dd0361079999044fcb9a2b66c","entity_storage_append":{"entering_manifest_sha256":"cbc92c0d079f0cf4c395799dba3105a3529fdab17bc42126dd603c8631d4f1a7","entering_logical_sha256":"5e7e18da64ed39d23258e270a615f97b67837645d72337ddb23f2e07f927722a","closing_manifest_sha256":"38909cd88b7b72a83c947a8c318c87e870fdffb47473aac69230541bcef7937b","closing_logical_sha256":"4a606d18cdbdfbce7a48530b9eb16a5162cccb47cce9b04b90469d93a1769f90","active_component":"03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md","sealed_older_components_byte_exact":true,"authoritative_entering_physical_fingerprints":"Bound by the unchanged prospective-boundary/evidence receipts."}},
+    "b0176_close_verification": {"operation":"T7S_B0176_CLOSE","checked_at":"2026-10-13","status":"PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW","episode_ids":["612203301","612203302","612203303"],"source_bindings":[{"episode_id":"612203301","script_id":"ing3_102033_01.json__3424f97a7bbbdd81","source_sha256":"53df4792d47f6ac8d5c9bdd3903fec718a0e8a1051f633b80070c763e8bb503e","decoded_sha256":"426c16945cc2f35274bfcd5cd6c7eae9f16ab1eb94e2c43aa6b8aa34513fc510","normalized_sha256":"0a16bedd9aec5e752d3f077787abe2e8832f0e13af3a8a4c7042db10cf1db7e5","structured_sha256":"0a16bedd9aec5e752d3f077787abe2e8832f0e13af3a8a4c7042db10cf1db7e5","pages":58,"text_records":50,"command_only_pages":8,"voice_pages":37,"native_pages_verified":58},{"episode_id":"612203302","script_id":"ing3_102033_02.json__f8303d2922b9714d","source_sha256":"3fa711ac5f3a2c2cdf4afbfcd3a8184320f35079524a0009255f51475623d42c","decoded_sha256":"f2fece39ef78a87eeb9d41b4e5f823abb976f0d2998ebcdbe03c185e136a3d5a","normalized_sha256":"1edd1243d55e238cc0d333018c8c0ddb9b99c95c9f698700036ec919de388434","structured_sha256":"1edd1243d55e238cc0d333018c8c0ddb9b99c95c9f698700036ec919de388434","pages":93,"text_records":70,"command_only_pages":23,"voice_pages":60,"native_pages_verified":93},{"episode_id":"612203303","script_id":"ing3_102033_03.json__7c51d05a8d45d867","source_sha256":"54e93d34df9376c6e24ff1894388d1a0533d2a0b0f5001032e03c8e7a5cfe69d","decoded_sha256":"47c6ae0a1eb9faba2b5f59b71bfb1490e1a1ebf59f5fb95fefe3c5169bd64b8d","normalized_sha256":"a968fea56bc3224bc83ab00f524c8d92fad741ae82aab108516af469cee4a5e8","structured_sha256":"a968fea56bc3224bc83ab00f524c8d92fad741ae82aab108516af469cee4a5e8","pages":147,"text_records":132,"command_only_pages":15,"voice_pages":90,"native_pages_verified":147}],"totals":{"pages":298,"text_records":252,"command_only_pages":46,"voice_pages":187,"visual_refs":3088},"voice_count_basis":"Distinct dialogue log-order indexes with voice resource; title-only cues additional; no performed audio reviewed.","native_packet_sha256":"007d7e5434b088124230b9424fcbac2933f042c786275ce94e9ccd5ddc93e72e","dialogue_packet_sha256":"e2c9831ae43e71f0ca191f2a3b229929048a17e7d66ae05a47ec070ababf19a8","entering_repository_head":"9924be336d7cf80222edd1dd38b208ef9777df85","entering_source_lock_version":"12.80","entering_source_lock_sha256":"33fa73173c5fdaa84698e1d645f47b27acd0924285c6da34959060e6858b8114","entering_source_high_water":"T7S_B0175","prospective_boundary_sha256":"f4426e0956ad3b0c30d424cfcab9f6b5f248c8af18c4b29db633e6c5cced8945","evidence_receipt_sha256":"5d02b129bce42a0262df4168f1225c434d32f935b9c1b7f0d957bebfe34f072e","native_fields_projection_sha256":"252f1b0636026b30a280eb53f7116f83d37c49cfb11a180047e0eb2b2e0af3a2","visual_assets":[{"resource":"adv_chara_040_01","body":"adv_chara_040_01.png","body_sha256":"b31a962e523ec3200fee06279c4f845898bfef5ccf12ae47eaccfad7a9b2eca0","output_sha256":"6ff3db2337ca97918b503b55cdb77e44b0e0a0883a138b868dc9cd33f55c9702"},{"resource":"adv_chara_131_01_01","body":"adv_chara_131_01.png","body_sha256":"1a9960701b204ddf456de522c3d4e51d2820a1870f85ee2e0bcb8edd55d7f867","face":"adv_chara_131_01_01.png","face_sha256":"6109a77e56396791f1323cbbd533e126d66d38d6a1a6d042951d88771c8fdfdc","native_face_offset":[118,62],"output_sha256":"5dd9f639c14366e982f568ba01e22c7bec3fcb5bfac4a0373bb5971e31862127"},{"resource":"adv_chara_131_01_02","body":"adv_chara_131_01.png","body_sha256":"1a9960701b204ddf456de522c3d4e51d2820a1870f85ee2e0bcb8edd55d7f867","face":"adv_chara_131_01_02.png","face_sha256":"7f03e0d3314d0c2afab82201ad65f8bc2a77090785852a8b6e4abebf79558ba4","native_face_offset":[118,62],"output_sha256":"453563153a59bbb0af4fd503d4d95bd2c29847215800c9dc45ec4ba3dfc9bc44"},{"resource":"adv_chara_131_01_03","body":"adv_chara_131_01.png","body_sha256":"1a9960701b204ddf456de522c3d4e51d2820a1870f85ee2e0bcb8edd55d7f867","face":"adv_chara_131_01_03.png","face_sha256":"57165766efb46361b4a3be3e6b8d573ca3cf5546082fa11ab4d5acf882c1dad8","native_face_offset":[118,62],"output_sha256":"7210555ae2077e689413a13884376a87b5b3a0c3294ee4c29badc384902a2113"},{"resource":"adv_chara_131_04_01","body":"adv_chara_131_04.png","body_sha256":"9a4c067cf2ca7186bf4a6e899e8a384897cd53292c9f30bb05141b6fb3ef5a11","face":"adv_chara_131_04_01.png","face_sha256":"bc6fb9f931e7c7f2da5890796a5eb8bd371a887f537fcb4c2190e4bef2e06069","native_face_offset":[118,62],"output_sha256":"f93ab02aaaa140adfdc47f7dcbd7fae1ffd9c054cfcebe55addb20ae93e7ccfb"},{"resource":"adv_chara_131_04_02","body":"adv_chara_131_04.png","body_sha256":"9a4c067cf2ca7186bf4a6e899e8a384897cd53292c9f30bb05141b6fb3ef5a11","face":"adv_chara_131_04_02.png","face_sha256":"ee7ddb1c82e95838202d406448138fb3e92787139439e5bccc8989e89ddfa90f","native_face_offset":[118,62],"output_sha256":"9f58e5b1bb8e27635b49fc2c0e02683180619b0603cb565d328dbc91b4ab2865"},{"resource":"adv_chara_131_04_03","body":"adv_chara_131_04.png","body_sha256":"9a4c067cf2ca7186bf4a6e899e8a384897cd53292c9f30bb05141b6fb3ef5a11","face":"adv_chara_131_04_03.png","face_sha256":"219ccae06a5e97e00352fb638fd5279250ee4842a69dbe06cdca2e2751f7a6a2","native_face_offset":[118,62],"output_sha256":"a92aeac25bfa9a58275afe8062eed02760d1ecc71a79f250024ccd0ed6e288df"},{"resource":"adv_chara_144_01_01","body":"adv_chara_144_01.png","body_sha256":"20fc6bc7ed22a88c88e06eb84b21be11f06fa69cfd7f19e0de37a95c939d9f1e","face":"adv_chara_144_01_01.png","face_sha256":"0053bcd17594dda6eaad535480776a89040ccd77a5dec68e97d01666651bf7c0","native_face_offset":[120,74],"output_sha256":"399bb9344c170367460db6429a432ce79587937a515b68b27ff185193fdc93bf"},{"resource":"adv_chara_144_01_02","body":"adv_chara_144_01.png","body_sha256":"20fc6bc7ed22a88c88e06eb84b21be11f06fa69cfd7f19e0de37a95c939d9f1e","face":"adv_chara_144_01_02.png","face_sha256":"65cd13cbe3a95acd7e20cdbbcbd9a481417d7a79465c58649391550c59ab0a21","native_face_offset":[120,74],"output_sha256":"73bb9a9c4e3ccdb50b9c9d3ee2ba518a537fdb31424f0a5f154b4edc4141a532"},{"resource":"adv_chara_144_01_08","body":"adv_chara_144_01.png","body_sha256":"20fc6bc7ed22a88c88e06eb84b21be11f06fa69cfd7f19e0de37a95c939d9f1e","face":"adv_chara_144_01_08.png","face_sha256":"89980d6146ead8fa1c855d9027d4b135ff14e46ddc6918a1b07352a7b27d4636","native_face_offset":[120,74],"output_sha256":"4a481117fd6f795375141551e66d387223609f922d1b9693783e606d869222d9"},{"resource":"adv_chara_144_02_01","body":"adv_chara_144_02.png","body_sha256":"b3add9963f1235965c9608f3f10913deb12de7f6cd76d94940c7d600839a104a","face":"adv_chara_144_02_01.png","face_sha256":"1432117f75a344a342a2e12ee5b7c13a1e52add2f3a2321604ca17aa20a546d5","native_face_offset":[120,74],"output_sha256":"837bc84e2c9baa6f39b14dca77ae38dc104002a45ea1303001f13093d703820d"},{"resource":"adv_chara_144_02_03","body":"adv_chara_144_02.png","body_sha256":"b3add9963f1235965c9608f3f10913deb12de7f6cd76d94940c7d600839a104a","face":"adv_chara_144_02_03.png","face_sha256":"3a09bb67961d44af0e4080584f305a8b9f48979d7f3d67100b65929c7e1b3e40","native_face_offset":[120,74],"output_sha256":"0553efa4e33b588ba26936e06cc0eccf69ed4d20653fe049b303e24a82efff91"},{"resource":"adv_chara_144_02_05","body":"adv_chara_144_02.png","body_sha256":"b3add9963f1235965c9608f3f10913deb12de7f6cd76d94940c7d600839a104a","face":"adv_chara_144_02_05.png","face_sha256":"3cf6a2de5f1435411f8dfe142467402b2992ce6605ab758cb32bba39b85f191c","native_face_offset":[120,74],"output_sha256":"c5944e5392e0ed86b9f57109ad4fca5f2595ac76e76970efaabe204f0b438ab5"},{"resource":"adv_chara_144_02_07","body":"adv_chara_144_02.png","body_sha256":"b3add9963f1235965c9608f3f10913deb12de7f6cd76d94940c7d600839a104a","face":"adv_chara_144_02_07.png","face_sha256":"469bcfe3052bd0e9994bcf47e90a7fa32719345ac49ae50eac444e299f42260c","native_face_offset":[120,74],"output_sha256":"27845668637942b093da663a0b0b0091b981b6c1f3f4ac106da69d11cbd5a99c"},{"resource":"adv_chara_144_05_01","body":"adv_chara_144_05.png","body_sha256":"881b6fd0cdf14fc751959c3f3c880983ae4ca9fa8c067146c35f0fb8f4b37413","face":"adv_chara_144_05_01.png","face_sha256":"e699654bbbe11cdf647ecefa9df9c0d7b091115e95635a1bfc6a1197a60d6a33","native_face_offset":[166,74],"output_sha256":"2e148c1b466f1152a63ae72492fdfd1e25fe2c6989b571a9e6daee2bfc3154da"},{"resource":"adv_chara_144_05_02","body":"adv_chara_144_05.png","body_sha256":"881b6fd0cdf14fc751959c3f3c880983ae4ca9fa8c067146c35f0fb8f4b37413","face":"adv_chara_144_05_02.png","face_sha256":"8e3e1459f5a1ab956488b9b3e2689f147a58e360d95de2bf13c4fec507b35765","native_face_offset":[166,74],"output_sha256":"ec71f8668d81e5049237ebb4655f65ec0a9cdcd6b83fd7e8fb8fd9e9e3041cf6"},{"resource":"adv_chara_144_05_03","body":"adv_chara_144_05.png","body_sha256":"881b6fd0cdf14fc751959c3f3c880983ae4ca9fa8c067146c35f0fb8f4b37413","face":"adv_chara_144_05_03.png","face_sha256":"6986589856430870a2bfb549ad15cf0c8e1ff42e288a9e6150dd8d2aa8e05725","native_face_offset":[166,74],"output_sha256":"abfc831b0f4d01abdc7f5648d529632087dcf69f7290213ae37331e2d28c7b56"},{"resource":"adv_chara_144_05_06","body":"adv_chara_144_05.png","body_sha256":"881b6fd0cdf14fc751959c3f3c880983ae4ca9fa8c067146c35f0fb8f4b37413","face":"adv_chara_144_05_06.png","face_sha256":"b8c8fe483e1c3b502def8dc99d11889088bf6b86eab571ed7893bb5e28ab872c","native_face_offset":[166,74],"output_sha256":"7d63cdc7b4a5e45295983957d67890567203b3286b729f9018b5e478e52e1034"},{"resource":"adv_chara_144_05_07","body":"adv_chara_144_05.png","body_sha256":"881b6fd0cdf14fc751959c3f3c880983ae4ca9fa8c067146c35f0fb8f4b37413","face":"adv_chara_144_05_07.png","face_sha256":"bd2d856c731fea789e42cf7bb3a2b07eca00f384868e209981a29b9fd7633f0f","native_face_offset":[166,74],"output_sha256":"eb4b616d8b34db7d28bc72a71054bc84d959b843b4444ffa1be9327d9b60dcc9"},{"resource":"adv_chara_144_05_08","body":"adv_chara_144_05.png","body_sha256":"881b6fd0cdf14fc751959c3f3c880983ae4ca9fa8c067146c35f0fb8f4b37413","face":"adv_chara_144_05_08.png","face_sha256":"719aeace430cd20d5591d156d9dc64aa49523998f1a4a6b76c77dbb483869e05","native_face_offset":[166,74],"output_sha256":"729981e6188fdff21c53dda31702257a244a740feb13ae321b53908cca588219"},{"resource":"adv_chara_144_06_01","body":"adv_chara_144_06.png","body_sha256":"7cbf7ac9186fc03b9a3539c49c1c36dc17f9e7a5856c589507ffd3333a15d5fa","face":"adv_chara_144_06_01.png","face_sha256":"7d0f75b219d90bbb1e683411b005191f74d464f74c957d34a3b4ba1f44265e3e","native_face_offset":[166,74],"output_sha256":"44a092f07badef575536eebc15a58e8ac234c0e2c561cc4167aa7956cf7abf33"},{"resource":"adv_chara_144_06_02","body":"adv_chara_144_06.png","body_sha256":"7cbf7ac9186fc03b9a3539c49c1c36dc17f9e7a5856c589507ffd3333a15d5fa","face":"adv_chara_144_06_02.png","face_sha256":"556f1545e68072e89255303dc948ae481bedb1ff5e069b269d5a12b4c1c0c7ce","native_face_offset":[166,74],"output_sha256":"2a31f466cabebcca7782860590baa08f6655f297443cc4b482330e4a096021fc"},{"resource":"adv_chara_144_06_03","body":"adv_chara_144_06.png","body_sha256":"7cbf7ac9186fc03b9a3539c49c1c36dc17f9e7a5856c589507ffd3333a15d5fa","face":"adv_chara_144_06_03.png","face_sha256":"7458655524976cff5c950e9b79ccad6d5a162be18b069107b84d5b74993a7884","native_face_offset":[166,74],"output_sha256":"03be369114a81aa64d794e09efaa9e86705c2b6aaec1d180efdfbbcd18f3ab45"},{"resource":"adv_chara_144_07_01","body":"adv_chara_144_07.png","body_sha256":"83a0b95600438f5e384cb60aaa8b0d029be42c9565eb5ef4a02ead0bb18116e2","face":"adv_chara_144_07_01.png","face_sha256":"70189c8a07df0b4370244a61436f4ac37234edab11de0129705912e402f979ce","native_face_offset":[166,74],"output_sha256":"b076bf44fde401b2531fb268799845e3350406c4f6d28c2535999ed6eb5ecbc6"},{"resource":"adv_chara_144_07_02","body":"adv_chara_144_07.png","body_sha256":"83a0b95600438f5e384cb60aaa8b0d029be42c9565eb5ef4a02ead0bb18116e2","face":"adv_chara_144_07_02.png","face_sha256":"75699d7a4d5448000ee052c21a06c54c0f04c15ee9447835c483215f538c6e6b","native_face_offset":[166,74],"output_sha256":"2ff133ffc16e1337eae56325b72344e75914e740a7c66af3aa8238b25d508a00"},{"resource":"adv_chara_144_07_03","body":"adv_chara_144_07.png","body_sha256":"83a0b95600438f5e384cb60aaa8b0d029be42c9565eb5ef4a02ead0bb18116e2","face":"adv_chara_144_07_03.png","face_sha256":"ef9add0068de415e8bf5a21d10f019075c72fb8362e713ff68097052bbeeb379","native_face_offset":[166,74],"output_sha256":"3f020177d78e752b9d2d76d124de2c607c5108400a5a5867e033a5ee0c79b36d"},{"resource":"adv_chara_144_07_07","body":"adv_chara_144_07.png","body_sha256":"83a0b95600438f5e384cb60aaa8b0d029be42c9565eb5ef4a02ead0bb18116e2","face":"adv_chara_144_07_07.png","face_sha256":"0d3dd8e5df131ed246e98f4a440818e193a34d5297afe982e9584d71533bef9d","native_face_offset":[166,74],"output_sha256":"613a39853fad981a82b95f14e1dd5c2188a67aa6fe6c2901212dc5183c27b3e4"},{"resource":"adv_chara_147_01_01","body":"adv_chara_147_01.png","body_sha256":"df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982","face":"adv_chara_147_01_01.png","face_sha256":"c97bdaea12f5d9f9bfb81e9ff25f5857cad50a11eb4fa75f0efd392c6f2c6874","native_face_offset":[209,62],"output_sha256":"08c669b14f3c489b3460361737a7d4d1e93fadd065a9f55b874701326f3956de"},{"resource":"adv_chara_147_01_03","body":"adv_chara_147_01.png","body_sha256":"df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982","face":"adv_chara_147_01_03.png","face_sha256":"b425dcb4e4aa81dee126a29a549706faa3ac8ed578ea2a62d61085fb2d4d42e7","native_face_offset":[209,62],"output_sha256":"ffc811201455c6317889d113ab65a7851d117424772b55baceecc61ffef2c255"},{"resource":"adv_chara_147_01_05","body":"adv_chara_147_01.png","body_sha256":"df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982","face":"adv_chara_147_01_05.png","face_sha256":"3c7fe6f30a65d203ac767fe46d4de76c5c0ac25de7327a57a7fd02f243fb49c1","native_face_offset":[209,62],"output_sha256":"642fecb3a5f8dce9bf90ca16ef600740b6f05b2e1bfec2faa7fb37de0121c0fc"},{"resource":"adv_chara_147_01_07","body":"adv_chara_147_01.png","body_sha256":"df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982","face":"adv_chara_147_01_07.png","face_sha256":"64aa373948667263317c13bd7e15f2551a4da5599e7910039973b58b7f85f428","native_face_offset":[209,62],"output_sha256":"281ac84561e1d58c2ecef8fa639a0a7d90e82cafac595d625eef698ccb87c438"},{"resource":"adv_chara_147_02_01","body":"adv_chara_147_02.png","body_sha256":"8b02c007b92b72d56dfcebe86834f0b03d7b30f42da41891d8d4fb8df6ab0400","face":"adv_chara_147_02_01.png","face_sha256":"1375d2e7001da49ba7b36bcfe08d3706a09cab92032c332d0c635f32edc20c8c","native_face_offset":[209,62],"output_sha256":"fbca9ef4cc773b43718674d8163dc1bd5b8a5a754056c6773da3478320d14ddf"},{"resource":"adv_chara_147_02_03","body":"adv_chara_147_02.png","body_sha256":"8b02c007b92b72d56dfcebe86834f0b03d7b30f42da41891d8d4fb8df6ab0400","face":"adv_chara_147_02_03.png","face_sha256":"b425dcb4e4aa81dee126a29a549706faa3ac8ed578ea2a62d61085fb2d4d42e7","native_face_offset":[209,62],"output_sha256":"ea0c17917465ad7082a24f80144a6b20418882325e6a7221b3087e799502eef1"},{"resource":"adv_chara_147_02_05","body":"adv_chara_147_02.png","body_sha256":"8b02c007b92b72d56dfcebe86834f0b03d7b30f42da41891d8d4fb8df6ab0400","face":"adv_chara_147_02_05.png","face_sha256":"ee907d330572ba4943c7f35afa541f4ad9aa7586214aa99051b06758f4b7b60b","native_face_offset":[209,62],"output_sha256":"c5a3f62ee75c6b7e2f21e0b50cea0b2ff10c8c559e85d9b9310a950d3c8db903"},{"resource":"adv_chara_147_02_07","body":"adv_chara_147_02.png","body_sha256":"8b02c007b92b72d56dfcebe86834f0b03d7b30f42da41891d8d4fb8df6ab0400","face":"adv_chara_147_02_07.png","face_sha256":"4db18632ba82af02e9c4e19da284debc4daff75ae96254501d7ea35cf11dc2c7","native_face_offset":[209,62],"output_sha256":"cc213df80c2d5aa1746ec0cda86eb4edf2491dc9df07250f026a76e0773152b6"}],"coverage_effective_state_sha256":"3661f641b2fe7c515818181631991cf8daf8e0075c7e79d01ca29470f03cd79f","execution_record":"09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md","boundary":"Complete chapter-local text/native state plus selected static review; no authored choice or inline movie; no later-source semantic evidence; performed audio unreviewed. Full 2034 release remains incomplete.","original_background_static_bindings":{"status":"ACTUALLY_VIEWED_STATIC_ONLY","source_binding_receipt_sha256":"f3025191b3d289e105c422c2ae1622772d506b5f45d3b05e22bcaeb34487ec50","count":7,"assets":[{"resource":"bg_002.jpg.enc","sha256":"3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f","representative_native_occurrence":{"episode_id":"612203301","page":34,"pointer":"/Pages/34/BackGround/FileName"}},{"resource":"bg_004.jpg.enc","sha256":"31b63d12811facf787b9292fd1787ab066f6a28322772586cc0ead59135c0c4a","representative_native_occurrence":{"episode_id":"612203301","page":1,"pointer":"/Pages/1/BackGround/FileName"}},{"resource":"bg_03.jpg.enc","sha256":"25c7d565a551ff57bc780f81e236ebb60b5f34fccfe4d5d21c6c7ffe6d80a6c1","representative_native_occurrence":{"episode_id":"612203301","page":0,"pointer":"/Pages/0/BackGround/FileName"}},{"resource":"bg_031.jpg.enc","sha256":"5572b02b47870495fe839f40ee8c490db0b9c2f91b45cfaefd9ecf03249705ad","representative_native_occurrence":{"episode_id":"612203302","page":0,"pointer":"/Pages/0/BackGround/FileName"}},{"resource":"bg_033.jpg.enc","sha256":"fea4b60e4bef19ee4bc7d590a65c3fd6852b0566c38b90e322c2d80bed3cbbeb","representative_native_occurrence":{"episode_id":"612203303","page":0,"pointer":"/Pages/0/BackGround/FileName"}},{"resource":"bg_051.jpg.enc","sha256":"ffb5acbc9e90e4a9a68f192abaa4ebe67c2091d37c3d2d9bf3f6565dcf8570c0","representative_native_occurrence":{"episode_id":"612203302","page":45,"pointer":"/Pages/45/BackGround/FileName"}},{"resource":"bg_059.jpg.enc","sha256":"0da24e115c0a084120def4acd35d05d73066f8457498cfa4337cb218943d26e7","representative_native_occurrence":{"episode_id":"612203302","page":77,"pointer":"/Pages/77/BackGround/FileName"}}],"separate_from_selected_static_receipt":true},"execution_reconciliation":{"base_commit":"9924be336d7cf80222edd1dd38b208ef9777df85","base_tree":"eebbb1acf5fa777d6186b48a028228b5ec247b87","incorporated_main":"d1fb415d893ad3591263dfe5e11ba392ff7f564d","preserved_prospective_head":"9924be336d7cf80222edd1dd38b208ef9777df85","unchanged_entering_t7s_subtree":"7fa31a5ca2ff8f2997a2e869872169aa19f2a39e","mode":"Execution predecessor equals the prospective freeze; current main was already incorporated before the metadata storage publication. No post-freeze main reconciliation was required for this candidate.","byte_exact_closeout_adapter_sha256":"301804922b2ab294b7704a1312b7384e2027854bd0eef0174d76c53907c0e507"},"actual_root_review_sha256":"f1395e56d696f6c84cdd26097ff3e3841e2f0dba9cd8f8f9e8324739b447d670","entity_storage_append":{"entering_manifest_sha256":"689b6c1d3144d8f12f27f344e2dd0db3d99fc58e15921d4f8d1245f161c2e241","entering_logical_sha256":"1c5357d11925cec49dd081fe50998907bbe48c6f3ddb9b85576962d091484dbe","closing_manifest_sha256":"cbc92c0d079f0cf4c395799dba3105a3529fdab17bc42126dd603c8631d4f1a7","closing_logical_sha256":"5e7e18da64ed39d23258e270a615f97b67837645d72337ddb23f2e07f927722a","active_component":"03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md","sealed_older_components_byte_exact":true,"authoritative_entering_physical_fingerprints":"Bound by the unchanged prospective-boundary/evidence receipts."}},
+    "b0175_close_verification": {"operation":"T7S_B0175_CLOSE","checked_at":"2026-10-13","status":"PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW","episode_ids":["612203201","612203202","612203203"],"source_bindings":[{"episode_id":"612203201","script_id":"ing3_102032_01.json__eedfe3e85961d781","source_sha256":"bbb3e84b6219a4b25b1ac6563e807782dadf3e9b0531b56c8b2fcc357c208f6a","decoded_sha256":"8c2d799b1e707be1248d848582339bb15f170a8928b1f7c0cd2feec27b00eeb2","normalized_sha256":"dbbb25d32a242f260f9f81c926cdfeaa5fc8141e16b641cc389a28c0d7e7b672","structured_sha256":"dbbb25d32a242f260f9f81c926cdfeaa5fc8141e16b641cc389a28c0d7e7b672","pages":62,"text_records":54,"command_only_pages":8,"voice_pages":30,"native_pages_verified":62},{"episode_id":"612203202","script_id":"ing3_102032_02.json__6e0db7dbffc2b07a","source_sha256":"2f75f9a84caa5e9d4a4c379038d929d61ceb622a996cfe1f627ab800535bc734","decoded_sha256":"4bfd6e0bf629a11de8fed90fb203c6e5ea9cd3d91be62f52ab48e410163c2080","normalized_sha256":"e85639cbb771124aec759a3573bcdb001ece01a07c88ca3bbc89c38dba79e4c2","structured_sha256":"e85639cbb771124aec759a3573bcdb001ece01a07c88ca3bbc89c38dba79e4c2","pages":127,"text_records":104,"command_only_pages":23,"voice_pages":93,"native_pages_verified":127},{"episode_id":"612203203","script_id":"ing3_102032_03.json__3c3531f16175a840","source_sha256":"eb2dc2ffccfa1965886861b41028246c71ed2614060fd0836971ab0ddc69aec7","decoded_sha256":"6dae0f6a32a1d0ccf2a1f57c88b5850c2acd330e4bcad51e0032db6aef5f1ad4","normalized_sha256":"5b1a99360cf84756bf8defc6ae1f21a7cce4e2b7630d01be403ba16233020333","structured_sha256":"5b1a99360cf84756bf8defc6ae1f21a7cce4e2b7630d01be403ba16233020333","pages":100,"text_records":93,"command_only_pages":7,"voice_pages":73,"native_pages_verified":100}],"totals":{"pages":289,"text_records":251,"command_only_pages":38,"voice_pages":196,"visual_refs":1883},"voice_count_basis":"Distinct dialogue log-order indexes with voice resource; title-only cues additional; no performed audio reviewed.","native_packet_sha256":"36f05c7130e0c940b9a9c35d3dcac16416e97ae2f5f3bc5f2bd8e8a2f38f6d1b","dialogue_packet_sha256":"a675f890f19f795d34f2af3198f74723f7744aa8f2e948cf8712b6e973116ad8","entering_repository_head":"70acd0777fc2460dc0062cf6a407cf40b0ab47b8","entering_source_lock_version":"12.78","entering_source_lock_sha256":"d8b0ed14e6197d9a710521d897f0f413b776410d0f923eb112183ae870e0165f","entering_source_high_water":"T7S_B0174","prospective_boundary_sha256":"211ade7454677ac74817b5bcf8a2fe5ee399cea10677e276c2a71aa1668dfb13","evidence_receipt_sha256":"58ad7d1ff81161a41c10545b2aa5b01492a060cee5f25089f3bf6c5a157c1145","native_fields_projection_sha256":"c94bd1aaec50d7a329e1e375d7392ee5365af7ae09057c8ce1bc973706aea885","visual_assets":[{"resource":"adv_chara_009_03_01","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_01.png","face_sha256":"3930e1f45971c7020b6faf9806089ec8aad2c2bb2d100c0270a687c519899f6a","native_face_offset":[109,85],"output_sha256":"b68b10b4530c261991b4afa29dd60a3716090e68734c8a2b542708567dd98343"},{"resource":"adv_chara_009_03_02","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_02.png","face_sha256":"b7a199eafdad5a8779657a7155338e1dfea0bdef71d13dafe6561b8d93094f81","native_face_offset":[109,85],"output_sha256":"8e5270f32164291bcfe10b40ba20dab120c64d5a6e95f5e2022bc1634130836c"},{"resource":"adv_chara_009_03_04","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_04.png","face_sha256":"51a2eb7accf18dccb3d11d9ad0bbd4324ac6fff584d27e37c60c688f7f019cc6","native_face_offset":[109,85],"output_sha256":"514ad3f7d797097b19783b4652b6e18f64fac914efbb8a0ba7d47f3750e03613"},{"resource":"adv_chara_009_03_05","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_05.png","face_sha256":"570cced2b6e3e60f61c3c52413b523ae163414814b4e02170811210c369a52c3","native_face_offset":[109,85],"output_sha256":"819de191090fdfae2393e4e56dd4e8b5dfbe623097cd04e418e7002327e37189"},{"resource":"adv_chara_009_03_06","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_06.png","face_sha256":"3a5a58ee5a77a476786db87bf715c6452be25003155c3c4b5c4c961398a07b0d","native_face_offset":[109,85],"output_sha256":"b3c033340de1c54495d5eaf059f9797c202ad3c8f1111d8089c66d6bb20cdcf7"},{"resource":"adv_chara_009_03_07","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_07.png","face_sha256":"f4909c35758c67fcdda7efb05692a12ce424eabe3462b2a3e0174fd6f9a546d6","native_face_offset":[109,85],"output_sha256":"41816362683516cce36da1b1069417095e196cf284980effa753ae2e1f826e8f"},{"resource":"adv_chara_009_03_08","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_08.png","face_sha256":"8a13ebaaa2668320fe1b74b08dd12f0a0f634193489ac59d7c548d83a92e2583","native_face_offset":[109,85],"output_sha256":"8c7b1afb15f3d22f02dd29fa7af1465890e47772e40a221ff6abc263180f11ab"},{"resource":"adv_chara_009_03_09","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_09.png","face_sha256":"8f8a49cd23e9292bc9e31fff68a9af9b231896e0ae3df6d32760fe7f959bcb63","native_face_offset":[109,85],"output_sha256":"5f2266f6231abaced9f1414360ebcd9d2aff6286a0e7903ca93cb2c73742bee7"},{"resource":"adv_chara_009_03_11","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_11.png","face_sha256":"1ea6b3e2dcedad4165e8aaf07f0acf128feaf1ce57956c37af3550ad579e2a07","native_face_offset":[109,85],"output_sha256":"e68678763f7748c2e62588f202ace2cb21517c30b44f4e837a8ae4dbe2f3bab1"},{"resource":"adv_chara_009_03_12","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_12.png","face_sha256":"8571371c4ff1ef4cfcde3dc25d0d26c96c9545731a97794152932c4ec203c165","native_face_offset":[109,85],"output_sha256":"156099a7209717a971a477b449f0d307c2121433dee5bcaefb21763fcf4337ab"},{"resource":"adv_chara_009_03_13","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_13.png","face_sha256":"20e4369a828dfda48232496e4ba3d3fda0e5e8bfb5d09cf162b348bc0b65318a","native_face_offset":[109,85],"output_sha256":"86ee63fb95f682fbf6162d8d99ba0779c5d475434890004b2b7ef884568b359d"},{"resource":"adv_chara_009_03_14","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_14.png","face_sha256":"a6aebcb60a6e32fbc216e3811e7dbf0f0e5cbdec22af8f02e325b3b3b0916914","native_face_offset":[109,85],"output_sha256":"6ae86652fd3e2fcb6bb79117ab7aec480c561a67986f0a865231395cd09f0071"},{"resource":"adv_chara_009_03_15","body":"adv_chara_009_03.png","body_sha256":"ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8","face":"adv_chara_009_03_15.png","face_sha256":"8dfd551978209e99bdafb626998286326fdd76bc7a63267853d8f326535b9486","native_face_offset":[109,85],"output_sha256":"b46dae30ae47d33b7e62001ab903b47db812919cb53795bf0ee26184aab12b67"},{"resource":"adv_chara_126_01_01","body":"adv_chara_126_01.png","body_sha256":"00ce923f755ee73078d66152d8d3d3bc5b0189a1d61173875e3443796d80e987","face":"adv_chara_126_01_01.png","face_sha256":"774420432ab233a6519985dfa12e34e197a97a5680a978723b6dcc7b10a7395e","native_face_offset":[67,59],"output_sha256":"49932c912ca5a89570312410bc57ba9f42ed947e5576332cefa5d7e8e0ba39b5"},{"resource":"adv_chara_126_01_02","body":"adv_chara_126_01.png","body_sha256":"00ce923f755ee73078d66152d8d3d3bc5b0189a1d61173875e3443796d80e987","face":"adv_chara_126_01_02.png","face_sha256":"f7b9ed569e18b5b5a9c4c7da2eb98b370e7eec99289153dd441cb5f2b85593b8","native_face_offset":[67,59],"output_sha256":"955008a2fd0372ab8caa24523be744262cd66f3fe9e0b5edaf5a449f7cbc7eff"},{"resource":"adv_chara_126_01_03","body":"adv_chara_126_01.png","body_sha256":"00ce923f755ee73078d66152d8d3d3bc5b0189a1d61173875e3443796d80e987","face":"adv_chara_126_01_03.png","face_sha256":"581ddbc7d5634434a0180304a51e977a3f12d00206bc184cfb7fb3f516ce0d4b","native_face_offset":[67,59],"output_sha256":"68634e7361b81c9515a0fe889f98a0e3c4827bf617a35c4fa2dc7405559d8eb3"},{"resource":"adv_chara_126_01_04","body":"adv_chara_126_01.png","body_sha256":"00ce923f755ee73078d66152d8d3d3bc5b0189a1d61173875e3443796d80e987","face":"adv_chara_126_01_04.png","face_sha256":"6627c2005ab1b885de1d94ab6022321623de37711b6abb86d33004bab20fd245","native_face_offset":[67,59],"output_sha256":"0cfc6ab0c7f55ffb4e73aeb21b595d7c7d94d672a6badba254c5dd7afc13114f"},{"resource":"adv_chara_126_01_05","body":"adv_chara_126_01.png","body_sha256":"00ce923f755ee73078d66152d8d3d3bc5b0189a1d61173875e3443796d80e987","face":"adv_chara_126_01_05.png","face_sha256":"a8a338ef42c4430026b134982eb7a2dbe278e43b24595cca0a435f3d98627167","native_face_offset":[67,59],"output_sha256":"f97c0857fb4390f47ef18d77693eec6458bc18895ce194a7654ab3556fd881ac"},{"resource":"adv_chara_139_01_01","body":"adv_chara_139_01.png","body_sha256":"4b3b72b680ffd52d354d5b64a16301f5112201a6b95341c8d32ff5cf2292071c","face":"adv_chara_139_01_01.png","face_sha256":"0a88cc98f6b9cdea573d01d9775412ba58496a866d68174830129daf891089e1","native_face_offset":[116,92],"output_sha256":"a509f37196869efc19f11ec11987dec0ea58513f3242b4e58a68a2d5d5d64cea"},{"resource":"adv_chara_139_01_02","body":"adv_chara_139_01.png","body_sha256":"4b3b72b680ffd52d354d5b64a16301f5112201a6b95341c8d32ff5cf2292071c","face":"adv_chara_139_01_02.png","face_sha256":"308681cf5436593c36b8ffd6d44a2c330ad7117c2db5395b0759198ce394d430","native_face_offset":[116,92],"output_sha256":"059db143cbc1c397f784ab1c7b7dfd4d410fc3866e021d3a750ae325f7f0cec6"},{"resource":"adv_chara_139_01_03","body":"adv_chara_139_01.png","body_sha256":"4b3b72b680ffd52d354d5b64a16301f5112201a6b95341c8d32ff5cf2292071c","face":"adv_chara_139_01_03.png","face_sha256":"3cc4f3f5002dbc16f7083d494fac297c7e6f08e40a001c4d2862f5090ead23bb","native_face_offset":[116,92],"output_sha256":"354e3b1a033ef48c8b4f688c0e379183ea4a551096e79e77d9b3cbaa20ddcb30"},{"resource":"adv_chara_139_01_04","body":"adv_chara_139_01.png","body_sha256":"4b3b72b680ffd52d354d5b64a16301f5112201a6b95341c8d32ff5cf2292071c","face":"adv_chara_139_01_04.png","face_sha256":"3363f0f7394a86294083e9e119c424ee0ca0bd9fd7a11e3610317dd079ea1e24","native_face_offset":[116,92],"output_sha256":"bf9a3c09eb3348b6d9bfdea6cf70def06919e2e91eb243a9871b7b52d33d0cf4"},{"resource":"adv_chara_139_01_05","body":"adv_chara_139_01.png","body_sha256":"4b3b72b680ffd52d354d5b64a16301f5112201a6b95341c8d32ff5cf2292071c","face":"adv_chara_139_01_05.png","face_sha256":"e1b040def340260e827761d2ba91fce72cb14be86e37ddab317494f4729ca98f","native_face_offset":[116,92],"output_sha256":"8a9c4900f08b06cfaf5e6b587cfd2d7668e8de435372e54828232c2b5a975bee"},{"resource":"adv_chara_145_01_01","body":"adv_chara_145_01.png","body_sha256":"e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2","face":"adv_chara_145_01_01.png","face_sha256":"a8045a092f539cf3ee1987c8dffe76439e50c7c42f382458e945c76fd79decc1","native_face_offset":[78,63],"output_sha256":"ea67105eeee5254b86289fbd17a03cc53cc4e36bd71c0b8ce536893aec1fddcf"},{"resource":"adv_chara_145_01_02","body":"adv_chara_145_01.png","body_sha256":"e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2","face":"adv_chara_145_01_02.png","face_sha256":"4ef3e561795beef0fe996afe979e12e2f638b74317bc24fcd3907c4808bf0b03","native_face_offset":[78,63],"output_sha256":"f2e6379db50f250a7c97442d6a1c396d802b2366dff3af87016ffab5f1b86239"},{"resource":"adv_chara_145_01_03","body":"adv_chara_145_01.png","body_sha256":"e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2","face":"adv_chara_145_01_03.png","face_sha256":"ede176c9694db9d0185ba6b876bb9ce18e45eecf08af097e1f91e0fc95444506","native_face_offset":[78,63],"output_sha256":"250c386302617c55e2909ea3ac9359cfdc855db715dd404c12f6c49a1fe09f0f"},{"resource":"adv_chara_145_01_04","body":"adv_chara_145_01.png","body_sha256":"e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2","face":"adv_chara_145_01_04.png","face_sha256":"c5f3bb014ac84cbde0b7f21531d83425cf1d750b8b42a3b59816c574d03c72b7","native_face_offset":[78,63],"output_sha256":"dfcd78341be78a177f8069e49b9d762eeb2cdfaa6380c22f5edb3d00e7f8be64"},{"resource":"adv_chara_145_01_05","body":"adv_chara_145_01.png","body_sha256":"e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2","face":"adv_chara_145_01_05.png","face_sha256":"6de4f844aee789bf5a6b8f88b8237fdf2b379991e2ba811046f39342110910d5","native_face_offset":[78,63],"output_sha256":"f5151edfb3b27fa9a1c0c17dc7b22f35c2db853febdb6730b9c91a596f3fe71d"},{"resource":"adv_chara_145_01_06","body":"adv_chara_145_01.png","body_sha256":"e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2","face":"adv_chara_145_01_06.png","face_sha256":"b52d114753d6e9c750089e429a4a99243a73cc9d1785e68f9b6f44087ec702ca","native_face_offset":[78,63],"output_sha256":"1bdb84872045d315d8bf9263c372f84417eba61f375a0826634a963079e5710d"},{"resource":"adv_chara_145_01_07","body":"adv_chara_145_01.png","body_sha256":"e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2","face":"adv_chara_145_01_07.png","face_sha256":"3619a7f8f5305d3831f66014a2a50ba56015caaca9e64ff78fa5f123c2fcda35","native_face_offset":[78,63],"output_sha256":"31a6124e7df3bdb0ad3b730b54590d90b531f030bbd12c6a11224c174852ce4f"},{"resource":"adv_chara_145_01_08","body":"adv_chara_145_01.png","body_sha256":"e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2","face":"adv_chara_145_01_08.png","face_sha256":"72d242a61f7cd5a0a5f35a37f6729f631a479610d799f5e7806a8faf6a4ee824","native_face_offset":[78,63],"output_sha256":"f05acbebe829c974d07dfeb33c3e2d001e769ab1454502e41b08be79f4278111"},{"resource":"adv_chara_145_01_09","body":"adv_chara_145_01.png","body_sha256":"e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2","face":"adv_chara_145_01_09.png","face_sha256":"1e07e02dd00c4c43509a81ebf84e764bc2e99c58e18214462e92551002701346","native_face_offset":[78,63],"output_sha256":"1925a479aca8edf9142a1e79eae7ce2fe1278c4af6900c79314015291a2438c7"},{"resource":"adv_chara_145_01_11","body":"adv_chara_145_01.png","body_sha256":"e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2","face":"adv_chara_145_01_11.png","face_sha256":"ddd35fa163bc2d1d23a08e6791e444b71ac64aa99cb49dd23db3ef51efc3e0c2","native_face_offset":[78,63],"output_sha256":"fc0d82545535d1dbc173a390c21d0b6a6472dee6f09ae42bcdf76298cf39c761"},{"resource":"adv_chara_145_01_13","body":"adv_chara_145_01.png","body_sha256":"e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2","face":"adv_chara_145_01_13.png","face_sha256":"f9e627e4e79aeea56cbcde4b1b439dbaba075541dafcd3b62da376924be19283","native_face_offset":[78,63],"output_sha256":"4090be012e7bb1b666a9b05f0a400c932b788f6638cc2ac4634a2eeca2a74569"}],"coverage_effective_state_sha256":"bbe96c7a10aeef8427ff30a067f5654fb20b1cb6e82559c1a70cdee3da942aa4","execution_record":"09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md","boundary":"Complete chapter-local text/native state plus selected static review; no authored choice or inline movie; no later-source semantic evidence; performed audio unreviewed. Full 2034 release remains incomplete.","execution_reconciliation":{"base_commit":"11be7223b5b3549005363e33f575726e39f7b117","base_tree":"318e7d61428842f4b97a16b258cc7211111ebba5","incorporated_main":"813cc91553f99e2de7c357794897bb8c59b2f548","preserved_prospective_head":"70acd0777fc2460dc0062cf6a407cf40b0ab47b8","unchanged_entering_t7s_subtree":"cac33249bf2f21229fa7f5a1e19dfca07716a684","byte_exact_closeout_adapter_sha256":"301804922b2ab294b7704a1312b7384e2027854bd0eef0174d76c53907c0e507"},"original_background_static_bindings":{"status":"ACTUALLY_VIEWED_STATIC_ONLY","source_binding_receipt_sha256":"9d94ca03b906417e1709834e5efd76992a95c956d952652b3968f8b2a797aac9","count":7,"assets":[{"resource":"bg_002.jpg.enc","sha256":"3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f","representative_native_occurrence":{"episode_id":"612203201","page":1,"pointer":"/Pages/1/BackGround/FileName"}},{"resource":"bg_004.jpg.enc","sha256":"31b63d12811facf787b9292fd1787ab066f6a28322772586cc0ead59135c0c4a","representative_native_occurrence":{"episode_id":"612203202","page":33,"pointer":"/Pages/33/BackGround/FileName"}},{"resource":"bg_005.jpg.enc","sha256":"3fb088b1b9a764fd96643d5c694f8d157c82b9c8d85fb85073c037b8e57aec14","representative_native_occurrence":{"episode_id":"612203203","page":10,"pointer":"/Pages/10/BackGround/FileName"}},{"resource":"bg_016.jpg.enc","sha256":"690cc253445329c4940e6453f528529843cf913bc2cdf52a5c18883b61f87136","representative_native_occurrence":{"episode_id":"612203202","page":88,"pointer":"/Pages/88/BackGround/FileName"}},{"resource":"bg_03.jpg.enc","sha256":"25c7d565a551ff57bc780f81e236ebb60b5f34fccfe4d5d21c6c7ffe6d80a6c1","representative_native_occurrence":{"episode_id":"612203201","page":0,"pointer":"/Pages/0/BackGround/FileName"}},{"resource":"bg_075.jpg.enc","sha256":"8a2093ddd0e9491eb1736935450ee4f7cdf57a72e50f6c19f62ecef5c8f73855","representative_native_occurrence":{"episode_id":"612203202","page":104,"pointer":"/Pages/104/BackGround/FileName"}},{"resource":"bg_080.jpg.enc","sha256":"3a7b21dfe98b6c9d84b548b92315d037fc025d11b8ee2a9b0de74360f443416a","representative_native_occurrence":{"episode_id":"612203202","page":75,"pointer":"/Pages/75/BackGround/FileName"}}],"separate_from_selected_static_receipt":true}},
+    "checked_at": "2026-09-14T00:00:00-04:00",
+    "bootstrap_record": "09 Audits and Manifests/T7S_BOOTSTRAP_AND_GATE_RECORD.md",
+    "database_hash": "Fully rehashed at bootstrap",
+    "collection_payloads": "No new full 83 GB collection rehash; retain original collection seal and recheck cited objects at use",
+    "locator_probes": {
+      "passed": 25,
+      "total": 25,
+      "receipt_sha256": "7717b914bb7ec25b901f45a6ffcebe26188bd9167cadd052444e810bec3d8feb",
+      "original_probe_tool_sha256": "b6da16c0e8a9da14594cc22604db88c628f7652bd276df952ba913b09233920b"
+    },
+    "first_block_query": {
+      "episode_id": "201000001",
+      "script_id": "scout_000_00_01.json__8df3fd723276f650",
+      "pages_verified": 195,
+      "text_pointers_verified": 190,
+      "packet_source_sha256": "a4d9b47d19b16a3829695a8c2da3b594ec13dcd303d7a9c4fd6917100e163939"
+    },
+    "bounded_packet_receipt": {
+      "artifact": "packets/B0001/receipt.json",
+      "sha256": "52d7a351f590e6b1ca7b2259c2dd3ce51f86beda882b12ced64419d1542ecbec",
+      "bytes": 1126
+    },
+    "bounded_continuation_verification": {
+      "checked_at": "2026-09-09T23:49:56-04:00",
+      "operation": "T7S_B0002_B0003",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "episodes_verified": 10,
+      "pages_verified": 568,
+      "text_pointers_verified": 536,
+      "voice_references_observed": 399,
+      "authored_choice_groups_verified": 1,
+      "source_sha256_by_script": {
+        "scout_001_01_01.json__254b557ec7fc6874": "4267631fc34d17cd01ff5ad0bf1e4ed9b6e5f7a99e882584428da222fdf47e8e",
+        "scout_001_01_02.json__09458c8085ef31d9": "fbbddceb8e762cfeccaa471d004250cd6ccb3f3d3349c35784f8221613322ee1",
+        "scout_001_01_03.json__7a6b811a036468c1": "a7c834f736c8046d255ba89568c32e958ea4cf922ac6e756bbe57386cea140b6",
+        "scout_001_02_02.json__2b6951e4d6892e58": "be0ae6ef253dcac7a18de7ca26f1028f834099e7387df5900748d907a8c82d81",
+        "scout_001_02_03.json__551444e212ba03fe": "92c8b8e4cd766270b89cbd250b910dc6a635856c2b63501cb77a36359a97ea22",
+        "scout_001_03_02.json__ce38257b9b67fb5c": "59ab2915b2207cb1d0b91f15da63ae5a8c7c74643b71fb9cefbaba34c19ce13c",
+        "scout_001_03_03.json__6c9c46d9f5089b53": "ab439c73eb9ebdea7dcf4ae8d86b9efe2f65e3f2ece8afc0c3163086cb275f90",
+        "scout_001_04_02.json__0e0dbad375b069ae": "cef245bf01dbebe0cb72b14bac06e505a06dd641766dcc49be95252684c511d8",
+        "scout_001_04_03.json__f0513f9f19afcab2": "ff198db999c8044c3d6f5930cc977debfdc1f1288f196f4aec39b455ec59ba4d",
+        "scout_002_01_01.json__8f8fabffc32c7073": "d0665437acbede8e436e47e63e8208d5cf04397e18dd83bcb47fde01100250f7"
+      },
+      "boundary": "Complete primary documents only through episode 201000201; episode 201000202 metadata identified but story content not opened"
+    },
+    "chapter_300030_close_verification": {
+      "checked_at": "2026-09-10T01:59:48-04:00",
+      "operation": "T7S_B0003_CHAPTER_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300030,
+      "episodes_verified": 9,
+      "newly_admitted_episodes": 8,
+      "pages_verified": 401,
+      "text_pointers_verified": 384,
+      "command_only_pages_verified": 17,
+      "voice_references_observed": 269,
+      "authored_choice_groups_verified": 1,
+      "authored_branch_pages_verified": 5,
+      "inline_child_documents": 0,
+      "source_sha256_by_script": {
+        "scout_002_01_01.json__8f8fabffc32c7073": "d0665437acbede8e436e47e63e8208d5cf04397e18dd83bcb47fde01100250f7",
+        "scout_002_01_02.json__55676d2ad5ef2c13": "0707d0528fdcb373f2a658f906dc7a7496583d19cdcde2d7379b0ba81e6dbc84",
+        "scout_002_01_03.json__e5c20e5a610b1398": "bf393eff5bfb2274f6b13ae2dedcce9f2fd4836a74edc0c0ca2e6ce5eea2abe2",
+        "scout_002_02_02.json__ae4d824185f7e5e1": "118c947808d370e4252bdd6d3f853a2e152290a5f7d6daf8247f9be9c80b108b",
+        "scout_002_02_03.json__a88429b28dcb9b8f": "40cded8916b3c14aebe5590e3091c85a0984403c187efd348199ef4f2f88c222",
+        "scout_002_03_02.json__e1393d21a142ba90": "6dba7e0a1bae3e583800295a33faefbdbfb569740ae41c0d3f4a66cf002d779b",
+        "scout_002_03_03.json__8797358d3d63deb0": "f24d7c5df27b8114d3a9efd5fceca5fde0fb09c6835c37b137b6b36b2b8af2ef",
+        "scout_002_04_02.json__a60aa85928f9212b": "cb2ae8472e2a6eb25bf51cd35bfa750c7edebb1a89b2c5e855c38eeb9803cd39",
+        "scout_002_04_03.json__1a497828ecc30a4f": "fb0d49f7d17821ebb998e414cc8cf88f8a522f0f60618967b6e84adff9792bae"
+      },
+      "boundary": "Complete native chapter 300030 through episode 201000209; episode 201000301 metadata identified as next candidate but its story content not opened"
+    },
+    "chapter_300040_close_verification": {
+      "checked_at": "2026-09-10T03:05:25-04:00",
+      "operation": "T7S_B0004_CHAPTER_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300040,
+      "episodes_verified": 9,
+      "newly_admitted_episodes": 9,
+      "pages_verified": 371,
+      "text_pointers_verified": 342,
+      "command_only_pages_verified": 29,
+      "voice_references_observed": 258,
+      "authored_choice_groups_verified": 1,
+      "authored_branch_pages_verified": 6,
+      "inline_child_documents": 0,
+      "selected_character_composites_verified": 7,
+      "face_position_artifact_sha256": "5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439",
+      "source_sha256_by_script": {
+        "scout_003_01_01.json__2261d2430958079b": "d447029f6048902f0b8aaec092ba6ab22b42838fc37fec534db8d26859500530",
+        "scout_003_01_02.json__54e23a6e18820bf4": "69fd65d6d86d2ece0e4f8e4acad47b021b6793262bbf3465b34358a8bd590187",
+        "scout_003_01_03.json__b73499f303b4b1e4": "8c55b5cbf531cdd781e64f4ea453f45c60969252dff80bc1170ea36bfb0aa5b8",
+        "scout_003_02_02.json__2e39ba53a1fd9136": "86e5dfed2e2ebf87cfa2be56318b29334948d0d7a06275a74d1ba82b6015e24c",
+        "scout_003_02_03.json__0a73394d981960b9": "cf2a25856572bae122f91602fa71580164a90fdc28d3ef9320b6125b3d7353f9",
+        "scout_003_03_02.json__4100baf0d22a17e9": "046f89f3d96c3a75214298d3107f68ebd7cf05ecefa4fdbfa441ec127a381cf0",
+        "scout_003_03_03.json__7522b65ee7406e0a": "e4b6bddb5829679749890bab2e676d2b5a947dbeb127cc92893b0f3b0b225039",
+        "scout_003_04_02.json__3e25191da487f957": "b471e4027264a4ea17ed6599b1dfb3911bec3f09ca155f87a924c98aea3af775",
+        "scout_003_04_03.json__ef9e6455cf6fa708": "a4534da0cc8db1debeebef715154bafcf5e509d7927ae781cb688ecd8af51fa3"
+      },
+      "boundary": "Complete native chapter 300040 through episode 201000309; episode 201000401 metadata identified as next candidate but its story content not opened"
+    },
+    "chapter_300050_close_verification": {
+      "checked_at": "2026-09-10T04:12:54-04:00",
+      "operation": "T7S_B0005_CHAPTER_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300050,
+      "episodes_verified": 9,
+      "newly_admitted_episodes": 9,
+      "pages_verified": 330,
+      "text_pointers_verified": 312,
+      "command_only_pages_verified": 18,
+      "voice_references_observed": 222,
+      "authored_choice_groups_verified": 1,
+      "authored_branch_pages_verified": 4,
+      "inline_child_documents": 0,
+      "selected_character_composites_verified": 6,
+      "face_position_artifact_sha256": "5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439",
+      "source_sha256_by_script": {
+        "scout_004_01_01.json__9e26666955a9372f": "0905573ddfb021e56c2be640e9cc37aee1d56783d712a219fbac404f5a8dfc64",
+        "scout_004_01_02.json__4c6b2ec4b7f43c93": "c153e85b38145430f411d43c6ca32397228e4a544280316be28ed8095dc78db6",
+        "scout_004_01_03.json__ee31a7a812eece40": "0bfda839df876e531e0094b45960f6b6b8bbe89c3571e1441c4c02cfe035f2c6",
+        "scout_004_02_02.json__7975f18a06c661e1": "120992b779fa161f30ab0dcc8311c3c179ed75a35b262abeb36d9c47683504c3",
+        "scout_004_02_03.json__a0971e385f1d543a": "f3b59207b79c80bf3eaae7d546f75260e085770a680aacb8537d43a9fbc0bffd",
+        "scout_004_03_02.json__5e34150643ca454c": "d7eda47db8ce9aba62c04dd016b4985a9830afd50b247dfdf7c18cb12eb20203",
+        "scout_004_03_03.json__dbb1903e63342c48": "d9da074b860a97bb70c3b01595629c8557a2d2b51f133a93ea8b472cc1ab0852",
+        "scout_004_04_02.json__e64dada90214b4bb": "821a990626336a59498893a454d56708e62cd87e00dadef0dbfba5c6e7bd90d6",
+        "scout_004_04_03.json__1793a050a9549a77": "8cc411ca2a905d6f1be0633c5487230a931f049cc73ac2c0dfdfc61d26724056"
+      },
+      "boundary": "Complete native chapter 300050 through episode 201000409; episode 201000501 metadata identified as next candidate but its story content not opened"
+    },
+    "chapter_300060_close_verification": {
+      "checked_at": "2026-09-10T05:30:25-04:00",
+      "operation": "T7S_B0006_CHAPTER_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300060,
+      "native_category": "Main",
+      "episodes_verified": 9,
+      "newly_admitted_episodes": 9,
+      "pages_verified": 370,
+      "text_pointers_verified": 349,
+      "command_only_pages_verified": 21,
+      "voice_references_observed": 289,
+      "authored_choice_groups_verified": 1,
+      "authored_branch_pages_verified": 4,
+      "inline_child_documents": 0,
+      "category_collision_exclusions_verified": 1,
+      "selected_character_composites_verified": 8,
+      "face_position_artifact_sha256": "5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439",
+      "source_sha256_by_script": {
+        "scout_005_01_01.json__4d2f2a36f33a5173": "0929363d4ecfb329eeecb91f596e3948dae5028ce1e9367e08f8040228cdcfcc",
+        "scout_005_01_02.json__aac3190bc4ef6fca": "1ff11025b943e43609ff9ce78b7045fdeca342cfacff4157a7001d1803d70d02",
+        "scout_005_01_03.json__15786b998c7f9fd1": "7c135d99582b396d8adf7ac80afe6cd6d311c6c9a510dd6a2004b093c2d83a5f",
+        "scout_005_02_02.json__0851e6112f2729ba": "f53ae6393939743a2d02050d2e4b7c8394070d8be6c5b005dbedeea24fe7f64b",
+        "scout_005_02_03.json__e8bd83b7adc8327d": "43f49e25eb6d40f7e2387e8693b805ce9b6e097453c30baa6665b40e28b81ada",
+        "scout_005_03_02.json__abe2e8a765473f7b": "64890514559705f7d31341f2d0641e48895a5d85fb843258883ba7acc9aa4e64",
+        "scout_005_03_03.json__88bbc9b65fe36285": "404cfaa81a145906d8af718928d8d808cfdba039f90c8b0a269e7f6577941ef5",
+        "scout_005_04_02.json__9d72b049233b6e11": "13f0640aeaf01356cd17d4df68713ccb5cbb309bde76a25d4c697897db763c62",
+        "scout_005_04_03.json__e23923cc376d76ec": "4f3eed973563dc6c57d2a0a5ee4e56e0ef352f2c4f6ad5b6adb1e9f077ec295d"
+      },
+      "boundary": "Complete native Main chapter 300060 through episode 201000509; identically numbered Sub layer 300060 excluded by category qualification; episode 201000601 metadata identified as next candidate but its story content not opened"
+    },
+    "chapter_300070_opening_verification": {
+      "checked_at": "2026-09-10T06:40:32-04:00",
+      "operation": "T7S_B0007_OPENING",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300070,
+      "native_category": "Main",
+      "episodes_verified": 1,
+      "newly_admitted_episodes": 1,
+      "pages_verified": 73,
+      "text_pointers_verified": 69,
+      "command_only_pages_verified": 4,
+      "voice_references_observed": 35,
+      "authored_choice_groups_verified": 0,
+      "authored_branch_pages_verified": 0,
+      "inline_child_documents": 0,
+      "selected_character_composites_verified": 6,
+      "face_position_artifact_sha256": "5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439",
+      "source_sha256_by_script": {
+        "scout_006_01_01.json__6128561e1329882d": "caf76a16aa7b0e059107e26c127d207f578caaf5251248831740403add39c7a7"
+      },
+      "boundary": "Only native Main episode 201000601 is admitted from chapter 300070; episode 201000602 metadata was identified as the next candidate but its story content was not opened"
+    },
+    "chapter_300070_close_verification": {
+      "checked_at": "2026-09-10T07:53:16-04:00",
+      "operation": "T7S_B0007_CHAPTER_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300070,
+      "native_category": "Main",
+      "episodes_verified": 9,
+      "newly_admitted_episodes": 8,
+      "pages_verified": 401,
+      "text_pointers_verified": 378,
+      "command_only_pages_verified": 23,
+      "voice_references_observed": 232,
+      "authored_choice_groups_verified": 1,
+      "authored_branch_pages_verified": 5,
+      "inline_child_documents": 0,
+      "category_collision_exclusions_verified": 1,
+      "selected_character_composites_verified": 13,
+      "face_position_artifact_sha256": "5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439",
+      "source_sha256_by_script": {
+        "scout_006_01_01.json__6128561e1329882d": "caf76a16aa7b0e059107e26c127d207f578caaf5251248831740403add39c7a7",
+        "scout_006_01_02.json__8d81e4f06fd7a7ed": "b57c2d72c4783323c97e4a01bea5bf9a7ce31786228124f12a60428699dd8c0a",
+        "scout_006_01_03.json__6505b37f6f2a7416": "882662bb32cc8a18dba6a1c3324730be8327dd7f521b1e1c628af53647c2d3f7",
+        "scout_006_02_02.json__b88305af605eba32": "959c2ff39768feb2208ce0c9a34d175882f34dd7d1e87271d67e409c22358890",
+        "scout_006_02_03.json__53825ba661ede61d": "8be24b1d5d14732c07c4314179e0cf20a21f5b4762ad99f1475b0dd67ebc8f75",
+        "scout_006_03_02.json__f001e23f37cdf1f7": "60d00aa0f30b8d832cdf50fe9e581b43eb2ae7b403b0f6f200f636ae7fd76f74",
+        "scout_006_03_03.json__d47cde38b61980d3": "6a88f18044610cfb95cfc22122987601270d0a467a073a503a8ec046c8d20261",
+        "scout_006_04_02.json__2b62d71a77140c4e": "dabb34da59b04a4f10526ed3f8238543db1dc8ba3c810392e2e07a98495eced7",
+        "scout_006_04_03.json__3033ad3531143cb8": "fafa09b88ef149c295b32d5317281f0ff4c5025cfb2155ba5051fad5ca55a76a"
+      },
+      "boundary": "Complete category-qualified native Main chapter 300070 through episode 201000609; Sub episode 402000201 sharing layer ID 300070 excluded; episode 201000701 metadata identified as next candidate but its story content not opened"
+    },
+    "chapter_300080_close_verification": {
+      "checked_at": "2026-09-10T09:09:28.7941743-04:00",
+      "operation": "T7S_B0008_CHAPTER_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300080,
+      "native_category": "Main",
+      "episodes_verified": 9,
+      "newly_admitted_episodes": 9,
+      "pages_verified": 347,
+      "text_pointers_verified": 323,
+      "command_only_pages_verified": 24,
+      "voice_references_observed": 263,
+      "authored_choice_groups_verified": 1,
+      "authored_branch_pages_verified": 5,
+      "inline_child_documents": 0,
+      "category_collision_exclusions_verified": 1,
+      "selected_character_composites_verified": 9,
+      "face_position_artifact_sha256": "5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439",
+      "source_sha256_by_script": {
+        "scout_007_01_01.json__6dd916ae293fdd45": "70405bf1ab2621fba9f2baa49f812820fe832596cc14be5065f2fd5d5c77e533",
+        "scout_007_01_02.json__916932870a3bda08": "fb9c147c267a7ace4d42ae5f712398c62dbc32f90be157efb47dc2bf0778455a",
+        "scout_007_01_03.json__84a46fae5efbd9c2": "ec9682a949f7629531c96beec02991d4ff7840fdaa62d446d7a2068a6e72382f",
+        "scout_007_02_02.json__eaea021bb99bfa8f": "947566c694d773f3ad86c7e3a4eadba38a6fcb15fe04f94b5710408118faf2a4",
+        "scout_007_02_03.json__260a2b8d11c8a9d5": "14b028c1fdd16576b7243ab70d300b0ae321494768273aefe556adea3b26649e",
+        "scout_007_03_02.json__8069e79e326f8ef7": "3f4ba17bc195d4764e94b2fde7b9fba720a1f82217ccd3713ea634c233c726fa",
+        "scout_007_03_03.json__53c754c5885568b0": "7fd1b8c094d3faa4e5e172a38f0c34f0e1a1034dfe33a1ac70c6fd8b3de376da",
+        "scout_007_04_02.json__39367e8ce46fee2b": "2396a12b2d8a694d928e445815707d7a36bb0b7008e0a853578bdd3fe2d9752f",
+        "scout_007_04_03.json__731bff8409a73140": "e4d63fefbd8a0122e54427adefd1ac6cd3125d6f554478ecacf91fa9a57055f5"
+      },
+      "boundary": "Complete category-qualified native Main chapter 300080 through episode 201000709; Sub episode 402000601 sharing layer ID 300080 excluded; episode 201000801 metadata identified as next candidate but its story content not opened"
+    },
+    "chapter_300090_close_verification": {
+      "checked_at": "2026-09-10T12:18:23.7226592-04:00",
+      "operation": "T7S_B0009_CHAPTER_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300090,
+      "native_category": "Main",
+      "episodes_verified": 9,
+      "newly_admitted_episodes": 9,
+      "pages_verified": 490,
+      "text_pointers_verified": 475,
+      "command_only_pages_verified": 15,
+      "voice_references_observed": 324,
+      "authored_choice_groups_verified": 1,
+      "authored_branch_pages_verified": 4,
+      "inline_child_documents": 0,
+      "category_collision_exclusions_verified": 1,
+      "selected_character_composites_verified": 9,
+      "face_position_artifact_sha256": "5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439",
+      "source_sha256_by_script": {
+        "scout_008_01_01.json__baf782fe3895a172": "da58fc0338a379f2e7b09e5aa01589602f31c7b4d84437250fd60f9852a1bf80",
+        "scout_008_01_02.json__58048730010c9e27": "59eeb8ce3d221a12dc3a5937748d75fbd160a28ced469566cf8d56559546fa7f",
+        "scout_008_01_03.json__dfbb08387533fdda": "bd945e5add98ec14a1c4f063ed605b765c6ae00d5fc3bd312fdbdccc85259774",
+        "scout_008_02_02.json__699e7e131d982858": "a767198afd2fc1e2d7cc519d5a9ee3b12046fdddbcb797b01ae7193c024c3e0d",
+        "scout_008_02_03.json__2c623aa0ceff2ca4": "429187e6f0de13769a74e10dbd3a8c8ae95197d644a14ae8d78336ae875ce313",
+        "scout_008_03_02.json__24bc8db40c0e6ee7": "8c56f92aa1b34d2e216adf502a691b26138844cab80ed4fa0b81404341d7f716",
+        "scout_008_03_03.json__3b53c8f31ebab091": "d7a719c238ff89073727a62d8208be3bfa303f9aa6cb1d6a67f87b011280af16",
+        "scout_008_04_02.json__f704f682fe66a92c": "20878518188853fcb2eb66ddfa7f19e1e40f60476d3f92d1093b3d4618f8f71a",
+        "scout_008_04_03.json__d4044792c1cfc032": "577f11f1b8388f5629155c9575b5739351aeac2c8f5c596fdc8849debab438d1"
+      },
+      "boundary": "Complete category-qualified native Main chapter 300090 through episode 201000809; Sub episode 402003701 sharing layer ID 300090 excluded; episode 201000901 was admitted separately as the tenth episode in the authorized sequence"
+    },
+    "chapter_300100_opening_verification": {
+      "checked_at": "2026-09-10T12:18:23.7226592-04:00",
+      "operation": "T7S_B0010_OPENING",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300100,
+      "native_category": "Main",
+      "episodes_verified": 1,
+      "newly_admitted_episodes": 1,
+      "pages_verified": 65,
+      "text_pointers_verified": 62,
+      "command_only_pages_verified": 3,
+      "voice_references_observed": 42,
+      "authored_choice_groups_verified": 0,
+      "authored_branch_pages_verified": 0,
+      "inline_child_documents": 0,
+      "category_collision_exclusions_verified": 1,
+      "selected_character_composites_verified": 3,
+      "face_position_artifact_sha256": "5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439",
+      "source_sha256_by_script": {
+        "scout_009_01_01.json__cda86bf05849cc41": "481c1260a547902a4f506025e01a781fc65acd407998e66a0cac07225efc7ac5"
+      },
+      "boundary": "Only native Main episode 201000901 is admitted from chapter 300100; Sub episode 402002901 sharing layer ID 300100 excluded; episode 201000902 metadata was identified as the next candidate but its story content was not opened"
+    },
+    "chapter_300100_close_verification": {
+      "checked_at": "2026-09-10T14:36:19.8818714-04:00",
+      "operation": "T7S_EPISODE_1_0_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300100,
+      "native_category": "Main",
+      "episodes_verified": 9,
+      "newly_admitted_episodes": 8,
+      "pages_verified": 519,
+      "text_pointers_verified": 505,
+      "command_only_pages_verified": 14,
+      "voice_references_observed": 380,
+      "authored_choice_groups_verified": 1,
+      "authored_branch_pages_verified": 5,
+      "inline_child_documents": 0,
+      "category_collision_exclusions_verified": 1,
+      "selected_character_composites_verified": 7,
+      "face_position_artifact_sha256": "5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439",
+      "source_sha256_by_script": {
+        "scout_009_01_01.json__cda86bf05849cc41": "481c1260a547902a4f506025e01a781fc65acd407998e66a0cac07225efc7ac5",
+        "scout_009_01_02.json__dd2af0b33816998f": "507b9cb27b0f3ab6d467e49058367ac67ecd9a6f420ba5e32e61539fece36b04",
+        "scout_009_01_03.json__51d373b97161d120": "5b7fe1db51976fba880ed307b9674bd4cf613027b1b3bb678a584ba7117bf85b",
+        "scout_009_02_02.json__0bea6f345e1864b5": "13c6d34d4e8c9069e4adaeff036668e8849f9150f82004395641140c521e0a91",
+        "scout_009_02_03.json__3b9fd5c652ad4c1f": "8855e9f83cc0ceeab1c07fc58a037e53f8a304560dbc193a1380fe19865de7ae",
+        "scout_009_03_02.json__f8b6e70682695b60": "0fdb4a9edb5fcaaf58db40d840641a5876933c7305a79d6b56f91d9cf0cb1b1a",
+        "scout_009_03_03.json__0483a20f9c1cd2d7": "0c7b7ebc4cd06739bb049c7d7edde1f019b6c827ba5bed95f1f95ba940d0acc6",
+        "scout_009_04_02.json__68a9ee5a6e67308b": "47b33ab2fbc2a658eb05cf65377c2e917ab6ebc0736545b122a94b1bd8a9d5b6",
+        "scout_009_04_03.json__5dbb0a9caddd6b69": "8cd836eada2c83f4d634be689a9bbe0c99b38f4f07cf2d83f4b22e9ede8c88f7"
+      },
+      "boundary": "Complete category-qualified native Main chapter 300100 through episode 201000909; Sub episode 402002901 sharing layer ID 300100 excluded"
+    },
+    "chapter_300110_close_verification": {
+      "checked_at": "2026-09-10T14:36:19.8818714-04:00",
+      "operation": "T7S_EPISODE_1_0_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300110,
+      "native_category": "Main",
+      "episodes_verified": 9,
+      "newly_admitted_episodes": 9,
+      "pages_verified": 346,
+      "text_pointers_verified": 322,
+      "command_only_pages_verified": 24,
+      "voice_references_observed": 263,
+      "authored_choice_groups_verified": 1,
+      "authored_branch_pages_verified": 4,
+      "inline_child_documents": 0,
+      "category_collision_exclusions_verified": 1,
+      "selected_character_composites_verified": 7,
+      "face_position_artifact_sha256": "5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439",
+      "source_sha256_by_script": {
+        "scout_010_01_01.json__2bafd0b1d471b1d0": "e0c7b11c935382f30cbd186b749ceb977920f2cf0443cb85fd6d49de54e7eabf",
+        "scout_010_01_02.json__dddf9c85d0490a52": "424db07ca28490aa2b3b1bd3d6846e0fb36667e8d5ba3cef4addfa1c08be129f",
+        "scout_010_01_03.json__3e32b40d8b6e6799": "04dc05a9b63180baef688395fc7d0bb2c3a4ee38ced9aed534fb5790bec05cc1",
+        "scout_010_02_02.json__4464c0fbeaedd2c3": "7a04662201c89d48d2873ea042043921dbafa558fea81b2ac12f29618c9ba668",
+        "scout_010_02_03.json__5e2bf76fea2c0d22": "82f8bc77675c491ccb19d4f1abb15523f4e21e59d50f6f3d019edcfa54070e54",
+        "scout_010_03_02.json__3b678f693991dbcd": "21a5d5214d15b362cf46255aa579fb29b2b0e337f50e2ee503d96b02672f9a0e",
+        "scout_010_03_03.json__32ada855357ccb9e": "b7a20f77cf9e19e749566f90ed69e3723b001385fe080e6130ef11e52f97fea7",
+        "scout_010_04_02.json__7637432ae397c15b": "0e82f1d1b4694fbd79fecdac44d8c0981b45c38e0d4b53353767d55506450e64",
+        "scout_010_04_03.json__43265a8dbd039c5d": "0ad87a8d4f95a879137a4f850695a6bfa71fa037700d2d70a17a4f29f9795e7e"
+      },
+      "boundary": "Complete category-qualified native Main chapter 300110 through episode 201001009 and the full EPISODE 1.0 story unit; Sub episode 402003001 sharing layer ID 300110 excluded; no later story content opened"
+    },
+    "episode_1_0_close_verification": {
+      "checked_at": "2026-09-10T14:36:19.8818714-04:00",
+      "operation": "T7S_EPISODE_1_0_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "family_layer_id": 200030,
+      "native_category": "Main",
+      "episodes_verified": 91,
+      "unique_source_hashes_verified": 91,
+      "pages_verified": 4285,
+      "text_pointers_verified": 4068,
+      "command_only_pages_verified": 217,
+      "native_voice_reference_pages_verified": 2968,
+      "authored_choice_groups_verified": 11,
+      "coverage_records_reconciled": 91,
+      "canonical_deep_readings": 11,
+      "arc_era_syntheses": 1,
+      "boundary": "Exact, hole-free category-qualified native Main EPISODE 1.0 family through episode 201001009; all primary pages and every authored choice branch consumed; no later or non-Main story source admitted"
+    },
+    "episode_4u_close_verification": {
+      "checked_at": "2026-09-12T15:00:00-04:00",
+      "operation": "T7S_EPISODE_4U_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "family_layer_id": 200040,
+      "native_category": "Main",
+      "episodes_verified": 22,
+      "unique_source_hashes_verified": 22,
+      "pages_verified": 1484,
+      "text_pointers_verified": 1388,
+      "command_only_pages_verified": 96,
+      "native_voice_reference_pages_verified": 1214,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 22,
+      "canonical_deep_readings": 5,
+      "arc_era_syntheses": 1,
+      "selected_character_composites_verified": 11,
+      "source_sha256_by_script": {
+        "legend_007_02.json__a68d38a9779f8100": "2606279aa66961ff25fa11403f5e527895cd536e898c98821ca2ff7294b4dcb6",
+        "legend_007_03.json__4c9020376dbb8156": "148860144c8b12a9233f9e245acfdc690eb6277778959a30c0b970c1c5536245",
+        "legend_008_02.json__9f17f6688baaaf6a": "b05ebca72513b549fa85ea28000dc1734669bb3ee32c1550516f22c39eca6b50",
+        "legend_008_03.json__7f8f50c55803da8f": "09994fa5220beaa47d17595432372354f8ca34ced0153cb93b70c619705611f4",
+        "legend_009_02.json__42ec34bd105b6e8b": "c681984e94a7c53060e03c44cbc0af05ec59283169bc7a91e59a601a7428bbde",
+        "legend_009_03.json__71aad3903b7ac1c8": "47aca50f3fbaf9e07b62bad7f258dfeca938eeb378fc1a1bdcc30846bdcd2264",
+        "legend_011_02.json__25563ff931861c02": "031b137d2e5be9c0c6a9e53396ab3318dadf3dfcc156865ed46f75058ed9949a",
+        "legend_011_03.json__a0a1cca91020facc": "4c25b03c371d9b2356c74ffd96373ce1b9fe2c3efc849e4a2580bac0baeea935",
+        "legend_012_02.json__8e6dcef14c4305ff": "c6f252082a2d5539f968cdf22d97fc5cbd1b4fe808c3dc1fdd98aa3b21f227f0",
+        "legend_012_03.json__c28965a5bb8b5996": "388b9465e6739215fcea44f86cd902bfd8c1605a7743eff27f80d7ed34c68bf9",
+        "legend_013_02.json__de58aec7db26ab7c": "05604ebae2807199584e308696a950049249b6e83412d6ce7019ecda4cb87438",
+        "legend_013_03.json__ef59778a8d431539": "fbd36d142249284717363bec4dab6f849fb4e16dadde834b7969c378f77ccbc0",
+        "legend_014_02.json__1c2037a98dc8b35d": "2604c6d96c4ab784d2c0cb714a61543bb8bd0b9d9eef673dfa5b87a003ec7cea",
+        "legend_014_03.json__ffe462bbf0785e61": "3965668175e92c160f3f0e36e703a90840b4cc4cfaaea2a2cda940ffbd8f3786",
+        "legend_015_02.json__ba3df0b8cc48897f": "fca58e7fad2e5edb45682656678e90f626c83e1047087b4e7aac2a56272cd667",
+        "legend_015_03.json__17736836e94930f1": "b2987658c48458a96d2537d3e65d438678752935d243c00896bf07a2b4064e2a",
+        "legend_016_02.json__071ecb0f38d6f915": "63e703cd041619eecc33312b3736533e649761f1d2284b8f22b2b75007d7b326",
+        "legend_016_03.json__b2eedd0e95971cc9": "b4dea17f25a6ed28c11e4b5b662fdee723bb0d5530c488c488948d4dd37305ae",
+        "legend_017_02.json__50aad794fe31bf13": "7d367aa2ae7ae217f80132d73f8997784beca77c2797566804a47eb7397049d2",
+        "legend_017_03.json__2f34089142f568e7": "4015f30d8d35d304024347e0ab4ea9ffc9e3e031f90971455508ee0a95a676ea",
+        "legend_018_02.json__bb39fa943cabe378": "384ecb0a743d530e64f54326f9dc2d31031d78f00624ee108a1f95318dbf140b",
+        "legend_018_03.json__f1d29da81affbff9": "6dbf485dc484eb764861e4790a9241ee39894409dd31746fa03cfa1fc8e2c434"
+      },
+      "boundary": "Exact, hole-free category-qualified native Main EPISODE.4U family through episode 203001802; all primary pages consumed; no authored choices; KARAKURI metadata identified as next boundary but no story content opened"
+    },
+    "episode_2_0_close_verification": {
+      "checked_at": "2026-09-12T18:00:00-04:00",
+      "operation": "T7S_NEXT_TWO_UNITS_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "family_layer_id": 200060,
+      "native_category": "Main",
+      "episodes_verified": 10,
+      "unique_source_hashes_verified": 10,
+      "pages_verified": 1162,
+      "text_pointers_verified": 1076,
+      "command_only_pages_verified": 86,
+      "native_voice_reference_pages_verified": 855,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 10,
+      "canonical_deep_readings": 3,
+      "arc_era_syntheses": 1,
+      "arc_deep_readings": 1,
+      "selected_character_composites_verified": 1,
+      "source_sha256_by_script": {
+        "ing_101001_01.json__aee671176e8678c5": "e6a8a31586242c0cc6d85e59e9d3bb2218f95f81e73812bc79dd1e3d9627a209",
+        "ing_101001_02.json__d5e94bf81d4ea1f8": "069d2ba901f4e719d200639c0441a0adc9dba4e729dacf25f3c9480241683f15",
+        "ing_101002_01.json__3868bda37a4b3670": "6e11ce07300e6ce0878ac6e229fba3bcd2984350568c4dbbc1c291195005eeba",
+        "ing_101002_02.json__abce0b6bd9f5326d": "d4efe2a0001eb1f79f6a9d6fbccab8282a38353d066d05f55238975cd6e89555",
+        "ing_101003_01.json__eb9bf6206cc5c6fd": "3507fdc11a834254d582c7fd5997f44524baeb7c3a47f1507ca976c0ce4eccc0",
+        "ing_101003_02.json__bc932834439006e3": "9ae18d693fbc2c24158c102194e98a18ba06576a3a929f6c84259a2f343bd7c0",
+        "ing_101004_01.json__ed5b0677209bdb3a": "e9d125bfb1d24fcf653ea6836345fc884c473f7424fd7a63c2205494372ded6c",
+        "ing_101004_02.json__6163c67d943fabec": "d6aea7116288ae76dc7e4c26da7d058d3cbdc5a26cd5f9a9419ffc09ae4bf431",
+        "ing_101005_01.json__dbae138ddbf98f64": "0e14fee34a5d014906188bba4e708795df68dad65ce2f1697c2d548e603a5fab",
+        "ing_101005_02.json__9aa3b9f92ea5795d": "0c2f3016cdbde2af5e7238e8040ea2f16f72659a9aade29c8ec32e940a3c204a"
+      },
+      "boundary": "Exact, hole-free category-qualified native Main EPISODE 2.0 family through episode 311100502; all primary pages consumed; no authored choices"
+    },
+    "karakuri_close_verification": {
+      "checked_at": "2026-09-12T18:00:00-04:00",
+      "operation": "T7S_NEXT_TWO_UNITS_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "family_layer_id": 200050,
+      "native_category": "Main",
+      "episodes_verified": 18,
+      "unique_source_hashes_verified": 18,
+      "pages_verified": 1804,
+      "text_pointers_verified": 1620,
+      "command_only_pages_verified": 184,
+      "native_voice_reference_pages_verified": 1338,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 18,
+      "canonical_deep_readings": 5,
+      "arc_era_syntheses": 1,
+      "arc_deep_readings": 1,
+      "selected_character_composites_verified": 7,
+      "selected_object_assets_verified": 2,
+      "source_sha256_by_script": {
+        "legend_010_02.json__b1b2b4dbdad42bdc": "d34ce784e922bf702034667b149ffcabe2df1316c81b34c5315fb4c8e7a37e3c",
+        "legend_010_03.json__94635aeb1a19f25c": "fac2f2b340313da9550f5a3eb115f677c7b8ad43266d26e6cddb273cf142c1b9",
+        "ing_103001_01.json__43692b487b77c975": "0305e06e9c18aa94533c745e7edf289de4a47f6d271929b886693c6dfa1544a9",
+        "ing_103001_02.json__6865a7d868127932": "f96ab120a933ab861b6a642ae3e096f77f87dda2c3b34c4e4873c949866c0a76",
+        "ing_103002_01.json__7e5c7ccc08b98c04": "6ae6df347420554412c37af1928569c5d2f0bde731dbf56b48615a1f91cf4817",
+        "ing_103002_02.json__b6d61ab27b8e127c": "5fd8714570c1ade58ac71604f5b955d21ff9c9b17e44d58eda737b8039132acf",
+        "ing_103003_01.json__9b751760e9c22485": "87b63fcefe130d965d2dad8fe89e3f0fcdf37821229a3b82bc9503a0f70a3bfd",
+        "ing_103003_02.json__cc39546930be1295": "e5932f818bc44a3c341452a1d13d7a6767c22f88e69073cbd1718556e734281b",
+        "ing_103004_01.json__60416e02dec37448": "d0a302429bbce0dba5f2dcf241327e579743f691c49578431664c37d94f82732",
+        "ing_103004_02.json__785bb59a8e34675d": "ac969833ecd6a0ac0340c1a33efad95b906015536c194d24de4841ee52f43f54",
+        "ing_103005_01.json__6f6219c871343d4a": "fa2e917bb644416ed5e5e8dcf2965473c3f234b982d35b70aad5e99a01ecbd52",
+        "ing_103005_02.json__9ef8b9a1700987f0": "345236532c82a7c4ce2bfc21b843b123b89c78c5bbca5733d36f2bfe324a43e7",
+        "ing_103006_01.json__04c231933e3cf52b": "1a172e2590383c234aac5ab3731ebfc320d80f58882170a49feda6c3bcf7df07",
+        "ing_103006_02.json__7b2ee79f1e3d25b8": "9db3895f63936e6ce912fd25a4503a3af39acd6bf56f61e583e82bdb7d18a3c6",
+        "ing_103007_01.json__b2a472c2f6d5c570": "da11387391671344b5dc2c40b77e357e958186aac8f573ed42ac4f4717034cf1",
+        "ing_103007_02.json__116bfb0b754bcc77": "8d07f9e045ad394413ce95897661fb0d396d9871587dca2d0a3ae6d9803580f9",
+        "ing_103008_01.json__47182d09137e1f61": "9e6206786846b73c2058d3ed57cd5a25c809747d1a5f748123877ee6c1d27de8",
+        "ing_103008_02.json__b06a250e45fd5b23": "083270c6e55f8441af4be331f6a5cf76557fc46ab4ef3ca28de8456d4c691242"
+      },
+      "boundary": "Exact, hole-free category-qualified native Main KARAKURI family through episode 313300802; all primary pages consumed; no authored choices; AXiS metadata is next but no story text opened"
+    },
+    "next_two_units_close_verification": {
+      "checked_at": "2026-09-12T18:00:00-04:00",
+      "operation": "T7S_NEXT_TWO_UNITS_CLOSE",
+      "recommendation_rank_range": [114, 141],
+      "episodes_verified": 28,
+      "pages_verified": 2966,
+      "text_pointers_verified": 2696,
+      "command_only_pages_verified": 270,
+      "native_voice_reference_pages_verified": 2193,
+      "authored_choice_groups_verified": 0,
+      "closed_blocks": ["T7S_B0017", "T7S_B0018", "T7S_B0019", "T7S_B0020", "T7S_B0021", "T7S_B0022", "T7S_B0023", "T7S_B0024"],
+      "next_candidate_episode_id": "711100101",
+      "boundary": "Recommendation-order prefix completed through rank 141, comprising complete EPISODE 2.0 and KARAKURI families; rank 142 AXiS episode 711100101 remains metadata-only"
+    },
+    "episode_3_0_close_verification": {
+      "checked_at": "2026-09-14T00:00:00-04:00",
+      "operation": "T7S_EPISODE_3_0_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "family_layer_id": 200070,
+      "native_category": "Main",
+      "episodes_verified": 42,
+      "unique_source_hashes_verified": 42,
+      "pages_verified": 7967,
+      "text_pointers_verified": 6793,
+      "command_only_pages_verified": 1174,
+      "native_voice_reference_pages_verified": 5601,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 42,
+      "canonical_deep_readings": 17,
+      "arc_era_syntheses": 1,
+      "arc_deep_readings": 1,
+      "selected_character_composites_verified": 4,
+      "bounded_packet_sha256": "2ea2427419b1c1094781240d21c94f55d228b9bb3756605aab1748811aeb0f3d",
+      "bounded_packet_receipt_sha256": "c79faba136859c89df09d4bad5fb6852f62c2c7f67dbb8ef3d3661ca5ecf2294",
+      "dialogue_export_sha256": "5b09e20874ee82cf44445bfc8c2452f5a0da25641d79f84dc9f31fbfa0f640e5",
+      "visual_reconstruction_receipt_sha256": "a599d5b83654b93b0eae86e4c5025b365b7ce2d8313bca082395b8ec937566e3",
+      "source_sha256_by_script": {
+        "ing3_101001_01.json__854e3970d910a247": "ee09ffb2404552089864245dd77572758a2b7c048811be8ecb1cda76b2be56d1",
+        "ing3_101001_02.json__f40155e4c9840d18": "d275a463fb970356b8ac971d540b8257cbc37595cae2b55ff1f9318b5589b508",
+        "ing3_101002_01.json__7bf458b71b5a9eb8": "7941aa64d9b980275c2dcfc630f4e74da809f4bb7719b2e180f3be5b9da24eb2",
+        "ing3_101002_02.json__64c295309156a35d": "fab6c46ee234db45afbfe5137d5e4e6cd47159afb587e2bb7bcc4b17d160282f",
+        "ing3_101003_01.json__e512d9c27164bf2b": "f0b953049cd758043b7b68e9744fd5e59fff44ef2a328c971a418d695948923d",
+        "ing3_101003_02.json__b6f2c97c60ced25c": "5187d702255a7c43b4f575434b3a17f0ba3523430eb2a6b708c5a459c1212ee4",
+        "ing3_101004_01.json__916513554faa133c": "8a515d1fba712edc01dbb7febe94414380dcebc67e9e1178c94d540101d6e332",
+        "ing3_101004_02.json__19272d0ae770332f": "41c723682754efd0798b493f425f8beaacb0dc3f2b15f132cf336c482009b55e",
+        "ing3_101005_01.json__47f74b8a7cfd4b0e": "abc64039abc9e636015debd2ae350bf612763041019c363ab7052b003b9358e8",
+        "ing3_101005_02.json__c825f4be8eee86f6": "2ac5d59d97b5886fded9493de653b7d0cf9260e20fc07543921d41f06ac7c422",
+        "ing3_101006_01.json__7f59fb406e04ea47": "f4e9743d0eca11af350c687788fd6f7cf8dfaa46bea0629970f46276784cf906",
+        "ing3_101006_02.json__5fe55b2e4c176f05": "0b6c9d96c8dee36189a27eb09eeffc5e2198d3754cd491b71ce8808b1892e82d",
+        "ing3_101007_01.json__44ad091d4b012f9e": "0bf516f54e60a6eb10cca44c019ec15526640dd1a48ba9930134b0f6022aa166",
+        "ing3_101007_02.json__45c439eb528518de": "c86663fed2e9457a21376c6c38180f59baec5086fd31ded637131855c5dce9ae",
+        "ing3_101008_01.json__eab22ed01ba5a128": "3d1a18567bb518477f3f2db7af78f6fed989e0df035fd8db0b9e0b34a643ebe5",
+        "ing3_101008_02.json__1d5f64c991210242": "fcd8e6c4a0106f7017b8fac75c1c735c800189a760c5ec32d668fd8fcebc1916",
+        "ing3_101009_01.json__2cc0cc67018a9e92": "50713a2a8e9d6eb6afa739a6501ddfd39c2d0501ac3c13b7419fd50d155b1d69",
+        "ing3_101009_02.json__24f77f18796147f2": "6fb90186e81ce87aca75b0c3d8f5a090b88c132a2d77a15a4a07db4a4b466bea",
+        "ing3_101010_01.json__cf068674bbb96ca8": "f99ad32e70828599667f5c195144efee2b038002f2d4e42d51764ada6e014d2a",
+        "ing3_101010_02.json__c48d8bf839c445ba": "81622f86b90c5a8dc1f75ec7151e2ff53e0a22f1ee409762ef77ec51d22fe2d7",
+        "ing3_101011_01.json__3b1a18690e714d74": "8b2d982719e2aba46766236c10f0c3a56d71aab56c86a1ce621b57636b240f1e",
+        "ing3_101011_02.json__158e2470d83a3a2d": "7c34f6d8574b67ef45cc56c565bec865c59c27c89da8aee2befd52f9856f85ba",
+        "ing3_101012_01.json__0d54f04995eeb0c4": "27914775c134060a9ec7d9e7f5e1e2ebc286f167a0fed325b905228d42a1ec94",
+        "ing3_101012_02.json__362290e00cbfbe15": "b7bd65453cb6badb9e36b8ea939727e6ebeab5b0a7be546c52c7f771f57ef33c",
+        "ing3_101013_01.json__dc909ba2ec38f022": "56bd26aba39b06fe8a3547fdb63eb0743dc1997030cbb40eb74cf32d846e0d4c",
+        "ing3_101013_02.json__47485ddb7f31e358": "fbf5d513e0173ef34637bec5acead279907b2d6a3ca32c1b31c36c2b3701e5bc",
+        "ing3_101014_01.json__df3aa1cf5dc827d7": "d57d92c4eefecdf1e68e060d0060bf817359e8fd08d38cd4c928056b1d5057ca",
+        "ing3_101014_02.json__565af99feb4d2d46": "2fb5545ff0828ced158e91ca371d593fbe82faf93c2596312b1407da18586142",
+        "ing3_101014_03.json__d148f5920662628d": "d4afa26f05d4f36f830e7654def2061d66d412ae016be001a4267b338c348dd8",
+        "ing3_101014_04.json__edba975bc3f42f24": "e6159cbc27ec248eb09579dfab4467a79778c66c251ec00f46e948662dea9b8e",
+        "ing3_101015_00.json__a28f58d570bf8ceb": "ede0053429772bdef59bbe93d0fbd220c6a27318cf1baf626a83493b7763cd64",
+        "ing3_101015_01.json__c91d4640e8c15248": "5f077a526dc08e8f3d6a977cf33290b9056e7e979c2e8b2e32e574218fac4820",
+        "ing3_101015_02.json__d5edf63cbd8b3bb2": "3d55887a499d1c0dffd967be19848efdcfc2177e0bde4ad8504d0bd81a47753d",
+        "ing3_101015_03.json__797dadda8880d887": "3c5935c12c95a283e86d2b1afa18c308d8661b8d910598cfd3c3b64686371ce4",
+        "ing3_101016_00.json__c1b304506c1a057e": "126d31968ff1047e10648cf0fc10adc00064eca3243aa8f9141a590e6c49cce5",
+        "ing3_101016_01.json__d9f526c3e5f8285b": "9e940715ef45783d23f077e03addb812310a735222e00652868d981ca2f27763",
+        "ing3_101016_02.json__7588cd94f7c1260f": "487ee58922217ed170dafaa19f3a2e7285e181a9aba95889b424b27b77aedfb8",
+        "ing3_101016_03.json__a4ffaf7514637a30": "3da3017d4cd880bb21719e1ff3cf8af9a053cdeea514cc98a4513c3bad794252",
+        "ing3_101017_00.json__2f5c66674298185c": "d247e4221f087a6985dbc7df4c7fa795b527987810ca6595e5cd68d67f046f74",
+        "ing3_101017_01.json__730f1148f6549100": "beea9d360d78328aff13c7d5319ed9152ee106a643727a5dfe6eab765ebb09bc",
+        "ing3_101017_02.json__38871865ab0c3837": "db653bc652c2211df803f0715be52e2af24ffcff3288a85ce760d275dac10efa",
+        "ing3_101017_03.json__2bcbc3961329cf15": "cffc90203f5496616623df794bcb73238f563d70e3d128b00b643431d9ba7a75"
+      },
+      "boundary": "Exact, hole-free category-qualified native Main EPISODE 3.0 family through episode 611101704; all primary pages consumed; no authored choices; AXiS episode 711100101 remains metadata-only and unopened"
+    },
+    "episode_4_0_axis_close_verification": {
+      "checked_at": "2026-09-12T00:00:00-04:00",
+      "operation": "T7S_EPISODE_4_0_AXIS_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "family_layer_id": 200080,
+      "native_category": "Main",
+      "recommendation_rank_range": [142, 154],
+      "source_order_index_range": [1175, 1187],
+      "primary_episodes_verified": 13,
+      "unique_primary_source_hashes_verified": 13,
+      "attached_inline_movie_transcripts_verified": 33,
+      "primary_document_pages_verified": 5627,
+      "attached_transcript_pages_verified": 797,
+      "flattened_episode_pages_verified": 6424,
+      "text_pointers_verified": 5779,
+      "command_only_pages_verified": 645,
+      "native_voice_reference_pages_verified": 4060,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 46,
+      "canonical_deep_readings": 13,
+      "arc_era_syntheses": 1,
+      "arc_deep_readings": 1,
+      "selected_character_composites_verified": 5,
+      "runtime_movie_files_resolved": 0,
+      "bounded_packet_sha256": "0d64916e6729026b0e70a26dde1b363d90e572b5775f6405cf83d37371ca2309",
+      "bounded_packet_receipt_sha256": "a138a286e55728d873be2f0b4519881222ea7de73cd4529e0116899f0ffc1a5c",
+      "dialogue_export_sha256": "952a2a97a5da4e63e14a09c2b3da71872efa6ec708851b561cbbd0667091b613",
+      "visual_reconstruction_receipt_sha256": "55a841caf53669bda5f9a5cae467bf29eddd4c7a3b5f7ed1b75cc143cd094306",
+      "source_sha256_by_script": {
+        "ing4_101001_01.json__477e8ba9159abcb9": "f152b2ba48dc83e6ed38f76da9cdc317c4c4be25f38c003b98d440b13aa078b8",
+        "ing4_101002_01.json__f2b56be3aab55b20": "3964a36adf8c4754cdc17fd22683f4ac970293f30a7410d5776d98cc1894d0fa",
+        "ing4_101003_01.json__e50e1177862e8568": "ade400a5c1f35176e13de8bbb96f7e3271adc767fcf7de8022d57ecbbe43a4a0",
+        "ing4_101004_01.json__0053ac3a10b99e93": "af10fed45c6798d44f57a5d8bd6a79446590eae9e25417dc91ccd86d358ec773",
+        "ing4_101005_01.json__aae7ff8430b948b4": "87eb049f1c43ecc17d12c58227fccb9d8b67574c4f8e2d7c969ff880f064f3d5",
+        "ing4_101006_01.json__898dafd75a9df41f": "bda74fbf1048a479a73d537325894c2fd5bb1b2554a8a34b5523208a13524567",
+        "ing4_101007_01.json__37a99d153e868cea": "cd3ba9de059bcf3c8ec6d3f9913c1a995c468cc01e371b915272a295757fda26",
+        "ing4_101008_01.json__6bafd1161d76d772": "0773d340d2c575295cf9e5d159bbb2ffca79d86cdd4b0170dc5dd55b1ec3c138",
+        "ing4_101009_01.json__b8f2d0ac479f8d39": "db45ae56017f1e02e6c23b53aa0fb88db77d1188c8a4431a48efa33d1de2a528",
+        "ing4_101010_01.json__af51ad906a2a6447": "d9070fe222e515afc14129ea669ef0d129d1ea88eaaf5125584f9bd3a8aa6efa",
+        "ing4_101011_01.json__4ea97a7241063c8c": "877e4a37222207efdb878dafda69c64093299af7b2bb5b27380c24a73862d5eb",
+        "ing4_101012_01.json__aa6f2b167ba8cb3f": "ae8531665626f2b7ea7b5c7fd14fee6488a225f344797079641dd3cf8c881f8e",
+        "ing4_101013_01.json__7125c61cf09c61bb": "3c01722c5932e69e0dab4a055e20c45684aa1354399cbb89d2964d283634f83b"
+      },
+      "boundary": "Exact, hole-free native Main EPISODE 4.0 AXiS family through episode 711100113; all primary pages and 33 invoked inline movie transcripts consumed; no authored choices; runtime movie files absent; EPISODE 5.0 episode 911100101 remains metadata-only and unopened"
+    },
+    "episode_0_0_close_verification": {
+      "checked_at": "2026-09-12T00:00:00-04:00",
+      "operation": "T7S_EPISODE_0_0_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "family_layer_id": 200010,
+      "native_category": "Main",
+      "recommendation_rank_range": [155, 160],
+      "source_order_index_range": [0, 5],
+      "episode_ids": ["101000101", "101000201", "101000301", "101000401", "101000501", "101000601"],
+      "primary_episodes_verified": 6,
+      "unique_primary_source_hashes_verified": 6,
+      "attached_inline_movie_transcripts_verified": 0,
+      "primary_document_pages_verified": 535,
+      "flattened_episode_pages_verified": 535,
+      "text_pointers_verified": 485,
+      "command_only_pages_verified": 50,
+      "native_voice_reference_pages_verified": 471,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 6,
+      "canonical_deep_readings": 6,
+      "arc_era_syntheses": 1,
+      "arc_deep_readings": 1,
+      "selected_character_composites_verified": 9,
+      "bounded_packet_sha256": "431699115e091e7cf9f65e69b3172cb4b51f0e503cb4e0fc002d168e05db0150",
+      "bounded_packet_receipt_sha256": "face520ffe02d79c96f9fc655a46e0f4b7e896180fe70b497ff856e5ff3e2bf0",
+      "dialogue_export_sha256": "4fcd29e2f5a85a34f5c97de3e22fc742016538062ab83fcf0175712887d61f95",
+      "visual_reconstruction_receipt_sha256": "e8fadc1c7013dbe8ce9cc32eaaf4b302b75c07e26c5c664816d5d4ed5292a868",
+      "visual_contact_sheet_sha256": "92094730d44f0c587b1ef5a45534d9fa8130e7584f99bac4f5d8052fa5ab4b35",
+      "face_position_artifact_sha256": "99efbf5def485478cfef6a6069a2396373141be36ae5781587d2ceaa4eb2fbbf",
+      "source_sha256_by_script": {
+        "memory_0001.json__156050967bac492b": "c06ab97cb9108518a904bb820472f54255243a307e2034c90b420a867ad8eb79",
+        "memory_0002.json__36704e788320f889": "78b8f5393b71e3c1ea8d751c5a562967038cc365c095ee67f66455573ae101ef",
+        "memory_0003.json__654a8471e3003c54": "3f6eeec9c9e0bdf75d9b4ddc8f77622ca11c3ac11e08d368510343a8bff9ee1f",
+        "memory_0004.json__0c38e39cd3d26582": "9e227b33d4b6b4837c38a16a4eaa81b1087cf3bf755108df019acc1f8e6e6b78",
+        "memory_0005.json__c5abf5bd9a60ab29": "824b8a0c256aaf543672dc0560a951966e85923ae7dadb173f29cb7bf2856f5c",
+        "memory_0006.json__7996cc421a8086e0": "1ec485bb8292969df76b07fa98d561394dc3de73c220f36736e64dfc5dfd2236"
+      },
+      "normalized_sha256_by_script": {
+        "memory_0001.json__156050967bac492b": "afd6708f96dba681eacd42c838b841e850186e775b55675ba61e7ac5c3ec26e8",
+        "memory_0002.json__36704e788320f889": "46f284af2c548b9a8db36f385fd421fcfd853db585b92d6546e01231e9b702e5",
+        "memory_0003.json__654a8471e3003c54": "2c54f68c590e1aee0389132525196bae4e24f22acc6c95bbdabdd99829ec3130",
+        "memory_0004.json__0c38e39cd3d26582": "d27a2cdfd637c9094e588fc20fd012c7957b9260eab15c11c5c88fe10015d8b4",
+        "memory_0005.json__c5abf5bd9a60ab29": "027c02f01a68760cd9597e46cb532d182377e6f468ce7a334c15bb9f43aa3256",
+        "memory_0006.json__7996cc421a8086e0": "989891d1f60a4beecdd26aab91882aeb009eab700803c5675e2f692804fa414a"
+      },
+      "boundary": "Exact, hole-free native Main EPISODE 0.0 family through episode 101000601; all primary pages consumed; no attached transcripts or authored choices; EPISODE 0.7 episode 811100101 remains metadata-only and unopened"
+    },
+    "episode_0_7_close_verification": {
+      "checked_at": "2026-09-12T00:00:00-04:00",
+      "operation": "T7S_EPISODE_0_7_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "family_layer_id": 200020,
+      "native_category": "Main",
+      "recommendation_rank_range": [163, 165],
+      "source_order_index_range": [1188, 1190],
+      "episode_ids": ["811100101", "811100102", "811100103"],
+      "primary_episodes_verified": 3,
+      "unique_primary_source_hashes_verified": 3,
+      "attached_inline_movie_transcripts_verified": 20,
+      "primary_document_pages_verified": 2485,
+      "flattened_episode_pages_verified": 2741,
+      "text_pointers_verified": 2358,
+      "command_only_pages_verified": 383,
+      "native_voice_reference_pages_verified": 1338,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 23,
+      "canonical_deep_readings": 3,
+      "arc_era_syntheses": 1,
+      "arc_deep_readings": 1,
+      "selected_character_composites_verified": 14,
+      "selected_backgrounds_verified": 10,
+      "blocking_movie_assets_sampled": 22,
+      "bounded_packet_sha256": "4dc4fb301d155440d49a455374518299f082fa70a953f2473be58f29cda2cdfe",
+      "bounded_packet_receipt_sha256": "4fed09ba1387abb65e583dd32c8903f10f826e9872a3138bd3ce668044c4010e",
+      "dialogue_export_sha256": "bec56886eb56b06c759c39f39d38e2fc52250f8b9b1050e759fe520be760207b",
+      "visual_reconstruction_receipt_sha256": "8139a5ae408aa40dca7b7ff46dfb265d94b789e60cf1b65b02fbd44debd4a5f9",
+      "character_contact_sheet_sha256": "0b7ef26fd5f00af9d8844f6ec61c4697d6ed85ef84ef42a2880bc07aa940b73e",
+      "background_contact_sheet_sha256": "18fec2a1b5e7f870ccf4aa8d00afa90ac277e81da803420afadebc143e1752f0",
+      "face_position_artifact_sha256": "99efbf5def485478cfef6a6069a2396373141be36ae5781587d2ceaa4eb2fbbf",
+      "blocking_movie_review_receipt_sha256": "a23d7ddadea81f42bd4ea46a72f36d47322c766239f0f4b54abd526323490286",
+      "blocking_movie_contact_sheet_sha256_by_episode": {
+        "811100101": "a5b5a3b4862a921a56ca37864b989aea659f62f3c180a90c2a6f800ebf303613",
+        "811100102": "827453f29f1a6328d655e1e6c541fc5aee510325caa9c0dc219034eda67283be",
+        "811100103": "726818abcdfcd0e06b04171fa9bbbec50580c6626d08763a4fbdba132e87592b"
+      },
+      "source_sha256_by_script": {
+        "ing07_101001_01.json__cb6ea25c05263a53": "f5a747927bcead416cef43309b11c148257132a73e6188279a40af8ffce50729",
+        "ing07_101002_01.json__c7fbe8922e81715d": "922f21478dd5dd69fbf544685c1e6cb8319184728843f48215f448cd0bf3f405",
+        "ing07_101003_01.json__3920f6253c3cf0d8": "92c87234900fd21711d047907b29722931aad2bb84f2a559865fb203e563a259"
+      },
+      "normalized_sha256_by_script": {
+        "ing07_101001_01.json__cb6ea25c05263a53": "7d6654974228bb20fd8202cc2184e1794de6725cf096a134aff49c5b27d84b10",
+        "ing07_101002_01.json__c7fbe8922e81715d": "805b1c823a96c372f42b8be3ab6b2725c114930d945086dc3e58fb0971f41194",
+        "ing07_101003_01.json__3920f6253c3cf0d8": "6212e448f82b18e0a04a4092abc649dd23e379ca72cfc9f29de97f5004dd5902"
+      },
+      "boundary": "Exact, hole-free native Main EPISODE 0.7 family through episode 811100103; all primary pages and 20 invoked inline movie transcripts consumed; 22 bound movie assets sampled; no authored choices; EPISODE 5.0 episode 911100101 remains metadata-only and unopened"
+    },
+    "episode_5_0_close_verification": {
+      "checked_at": "2026-09-12T00:00:00-04:00",
+      "operation": "T7S_EPISODE_5_0_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "family_layer_id": 200090,
+      "native_category": "Main",
+      "recommendation_rank_range": [166, 171],
+      "source_order_index_range": [1191, 1196],
+      "episode_ids": ["911100101", "911100102", "911100103", "911100104", "911100105", "911100106"],
+      "primary_episodes_verified": 6,
+      "unique_primary_source_hashes_verified": 6,
+      "attached_inline_movie_transcripts_verified": 10,
+      "primary_document_pages_verified": 3205,
+      "flattened_episode_pages_verified": 3330,
+      "text_pointers_verified": 2730,
+      "command_only_pages_verified": 600,
+      "native_voice_reference_pages_verified": 2371,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 16,
+      "canonical_deep_readings": 6,
+      "arc_era_syntheses": 1,
+      "arc_deep_readings": 1,
+      "selected_character_composites_verified": 14,
+      "selected_backgrounds_verified": 8,
+      "blocking_movie_assets_sampled": 10,
+      "bounded_packet_sha256": "ed09d301a6437482dd3078f13a66676eff5c8b64b4c01b93b7a880a559a837af",
+      "bounded_packet_receipt_sha256": "67ee21b633116a8fd37a229cbbc2f64ec83f032ee95f24ca3103c407c2f7fc0b",
+      "dialogue_export_sha256": "2ea9c42ccc4070357e95ae41b227b4c6429043eaa30fee1d10031a52616be06e",
+      "visual_reconstruction_receipt_sha256": "4a2b3f491acf5271541044966a36f9aa71d50ec97673b9ef59da13ca02757710",
+      "character_contact_sheet_sha256": "b12c5b87e216238052e2bab63495d1a35ccdf7a44df11b33d4a7abb30327eed3",
+      "background_contact_sheet_sha256": "08aa2413e2e88683be2b8127137ad8155d6c67e47006041a6e444c71c4d3c137",
+      "blocking_movie_review_receipt_sha256": "f4da76979cbc46ee2227cfcf4d93713a9d2ff20482cb9f8d9fa016996752ba26",
+      "blocking_movie_contact_sheet_sha256_by_episode": {
+        "911100101": "aa11f4e1f35bae78c39f7488e0a12dcb536077fb1e385a44451d93ccc1ddf88e",
+        "911100104": "b10fa906214976da3a8b7e4502fc11d4e7057322929eaae36cc0d6b5b2c7e0c8",
+        "911100105": "6edec378f96e1a9a0c81ba1eb57d10a92729d31b77acf18e42a36f1af943645d",
+        "911100106": "b6a74091f602ed23134661453039bf668ca4dd94e794115326fa4db2cf16cb05"
+      },
+      "source_sha256_by_script": {
+        "ing5_101001_01.json__57ff347fca3ff268": "b1a81bfc2cf665ae50c7013358ee393b1234c4eb518d613a28b85aa16b040ab1",
+        "ing5_101002_01.json__6248aae83e80da96": "ff65e3cafca477315903ef578e59deb6830c0fff07bc893a154852ca695c4581",
+        "ing5_101003_01.json__04d02f6a74ea68e3": "f97b2d79fc061ad5ad68ee4b083667a5ffba4734a75e7d487d5ff915973c186e",
+        "ing5_101004_01.json__13fa2499cace0ef3": "7542b905d408b2d47e09d77a221472f2c0fb87bf86d9e3a646ef109341fb0d59",
+        "ing5_101005_01.json__6602e90241c4f392": "1e1b9e5fc74abeebe637d5dad637e5737edfdba38bea3a29090ba92388422049",
+        "ing5_101006_01.json__eb2955368702d435": "53dbd585ccd493d0d1ac8203162adc19f3cf3885b8c0d59d621fb02118a8149d"
+      },
+      "normalized_sha256_by_script": {
+        "ing5_101001_01.json__57ff347fca3ff268": "f8efb9837720610a9dd48a57c381b2ec4bbba2c4f098a5e6b047ad7f03fec021",
+        "ing5_101002_01.json__6248aae83e80da96": "5fe93cb8e5d308967f6acd95f2623fb85363184eef079dd79c22e5022dac877a",
+        "ing5_101003_01.json__04d02f6a74ea68e3": "23dc895c2a02b7bf12cd811bcb0658a367e182f07db8caf9fc0a626786235494",
+        "ing5_101004_01.json__13fa2499cace0ef3": "8ba0dfcdf8b0e737ed24e6291f762f5fe0f43c32b141c64634aa346dbf33dd2e",
+        "ing5_101005_01.json__6602e90241c4f392": "8ac69ad94df536e249c6bb00183d10d9ea2bbce5564ee49ef63d71f4e6c9ab25",
+        "ing5_101006_01.json__eb2955368702d435": "ddccdc2ca41bd7cc1bb12cd3f45f61a7b1bd8f827b666e53bbbe729a75347a2d"
+      },
+      "boundary": "Exact, hole-free native Main EPISODE 5.0 family through episode 911100106; all primary pages and 10 invoked inline movie transcripts consumed; 10 bound movie assets sampled; no authored choices; EPISODE 6.0 episode 1011100101 remains metadata-only and unopened"
+    },
+    "episode_6_0_close_verification": {
+      "checked_at": "2026-09-13T00:00:00-04:00",
+      "operation": "T7S_EPISODE_6_0_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "derived_master_sqlite_sha256": "4471a3d66129100b7632d8d7190f0b677e9cc78a727336d661b76430348d1699",
+      "family_layer_id": 200100,
+      "native_category": "Main",
+      "recommendation_rank_range": [172, 178],
+      "source_order_index_range": [1197, 1203],
+      "episode_ids": ["1011100101", "1011100102", "1011100103", "1011100104", "1011100105", "1011100106", "1011100107"],
+      "primary_episodes_verified": 7,
+      "unique_primary_source_hashes_verified": 7,
+      "attached_inline_movie_transcripts_verified": 24,
+      "primary_document_pages_verified": 8733,
+      "attached_transcript_pages_verified": 566,
+      "flattened_episode_pages_verified": 9299,
+      "text_pointers_verified": 7989,
+      "command_only_pages_verified": 1310,
+      "native_voice_reference_pages_verified": 4675,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 31,
+      "canonical_deep_readings": 7,
+      "arc_era_syntheses": 1,
+      "arc_deep_readings": 1,
+      "selected_character_composites_verified": 19,
+      "selected_backgrounds_verified": 17,
+      "distinct_bound_movie_assets_sampled": 41,
+      "blocking_movie_assets_sampled": 23,
+      "loop_movie_assets_sampled": 18,
+      "movie_sampled_stills_verified": 123,
+      "bounded_packet_sha256": "96682b48de128f5e3a59f36adc9fea92bb0d27290ae7f528e2f1d8f24800c982",
+      "bounded_packet_receipt_sha256": "17cdb0ab5c3569ce57e1507f65d402c23feb02b91694c56ebdab2365d36b4925",
+      "dialogue_export_sha256": "8cc3f18dd0cc0f2a3f7c968526c7aadbd642ccbb300823ddaad2d930ef375f53",
+      "visual_reconstruction_receipt_sha256": "7cad6a5ddd18369ecc0a45256768e3b61046a048d8ca6d50f22108ecc5b59445",
+      "character_contact_sheet_sha256": "b8ee780524096adb3f688835f606d506a0c72bb6b85e313700f1ea7eb4f67531",
+      "background_contact_sheet_sha256": "b46bd14888e9b0d3c9fc6498970c5937f9dc25172c12b78f6996ab0c5332bde0",
+      "face_position_artifact_sha256": "99efbf5def485478cfef6a6069a2396373141be36ae5781587d2ceaa4eb2fbbf",
+      "movie_review_receipt_sha256": "d8bbd2cb370d995dc1da0da853979d5b33d9dacf3c8b864fa69821e81d41c3db",
+      "movie_contact_sheet_sha256_by_episode": {
+        "1011100101": "7a1e40dfd278024adc2c31fdf253c2acd58f2886a92d604b44fd00bd8fea2549",
+        "1011100102": "09799a57a881d2a1db92dd91828d11187c653d3402fad0910e647bbca4a8d49b",
+        "1011100103": "1c7253d0de25d0c6fe9351821316c47fc289f757efdb03af8ed7e2cf7ab6854c",
+        "1011100104": "0635412de763f532acaa78a626600f38379c06fc61be7599a8215f8eeed2a063",
+        "1011100105": "d13776d4d979ab459713e208680b425ee77c6e614df731742d27ebc5a44f77ae",
+        "1011100106": "13f85f9927c9716a84fcf08ba03f7f968c9eb49dd9194c0b61ad281ab835dc38",
+        "1011100107": "9c9482b31cca93de668f60ce62a3cc9af8aac0ce041671b12b8bedff9cc57d86"
+      },
+      "source_sha256_by_script": {
+        "ep6_101001_01.json__6a27ccf6a33d8ee9": "659391cce0cde047478d984251a38c07bb2bcbc3afc28fb633a603119e5d57e7",
+        "ep6_101002_01.json__43e9fe4379734e7b": "5569c56faf9c54a6a6e3f07fbef20914984f3e712a2d8756c6321c7a7c685f2a",
+        "ep6_101003_01.json__2580f1b80aee8151": "8dba8d0c259a2c9f5a63f7368e1d8db991395062959b92d13982a4f2588a2b40",
+        "ep6_101004_01.json__dfabd04f952de85f": "513a29bd64da2fa1a62ac07816884517ff86fc71d5c1b2f7af50a32870268d41",
+        "ep6_101005_01.json__c056353eaf7feb79": "4d7a4ed79201df4e1829f945fd00634be5a5995047bef710c58d9b6d916f05d4",
+        "ep6_101006_01.json__103d9606d2ad8c45": "65b621f6ec51c355cd2ae6f189661bd9bac3fcc80048f7d2fd70a983e76207af",
+        "ep6_101007_01.json__57f2c3c61f3fe5c1": "a890dd2f39c00cf946867f76c7577f465854d6983cc22dff885eaa4f0cf483f9"
+      },
+      "normalized_sha256_by_script": {
+        "ep6_101001_01.json__6a27ccf6a33d8ee9": "156f27f0a72d87af55c1f8b1a7e29875ac22759e2aaecefc7d3dfd045e26ef95",
+        "ep6_101002_01.json__43e9fe4379734e7b": "b5b332984c21dc55e08476a36734f5303f33694b4edea444a03eb7eeb18a94e7",
+        "ep6_101003_01.json__2580f1b80aee8151": "4bc5b84b58ef48b3a7e1a25b6d7ae6321d028035f41be69615cd2a646e151d28",
+        "ep6_101004_01.json__dfabd04f952de85f": "82f20b94b21d2d4339d207977eb250436df65c21e80d4d625c7dcb1937a815fe",
+        "ep6_101005_01.json__c056353eaf7feb79": "f3ced29fd9ade7c3ef64767703cbf506f5dfb17ed1019a155b57c4da6b0b69fc",
+        "ep6_101006_01.json__103d9606d2ad8c45": "2cbace1ed9a442aef7d69bb9d9aef0d7d546f45a8692dcdae086af51eb4ae4d5",
+        "ep6_101007_01.json__57f2c3c61f3fe5c1": "8408d0c01d52c85096275a46cfc77e12222bfce9e429b73c456b4a1e931db6a1"
+      },
+      "boundary": "Exact, hole-free native Main EPISODE 6.0 FINAL family through episode 1011100107; all primary pages and 24 invoked inline movie-transcript occurrences across 23 unique source documents consumed; all 41 distinct bound movies sampled; no authored choices. Post-close routing correction: episode 611100101 is already-consumed EPISODE 3.0 family 200070, not EPISODE NANASUTA; the actual NANASUTA boundary begins at 1013100101 / recommendation rank 219"
+    },
+    "episode_nanasuta_close_verification": {
+      "checked_at": "2026-09-13T00:00:00-04:00",
+      "operation": "T7S_EPISODE_NANASUTA_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "derived_master_sqlite_sha256": "4471a3d66129100b7632d8d7190f0b677e9cc78a727336d661b76430348d1699",
+      "family_layer_id": 200120,
+      "native_chapter_layer_ids": [301180, 301220, 301260],
+      "native_category": "Main",
+      "recommendation_rank_range": [219, 235],
+      "source_order_index_range": [1239, 1255],
+      "episode_ids": ["1013100101", "1013100102", "1013100103", "1013100104", "1013100105", "1013100201", "1013100202", "1013100203", "1013100204", "1013100205", "1013100206", "1013100301", "1013100302", "1013100303", "1013100304", "1013100305", "1013100306"],
+      "primary_episodes_verified": 17,
+      "unique_primary_source_hashes_verified": 17,
+      "attached_inline_movie_transcripts_verified": 0,
+      "primary_document_pages_verified": 1668,
+      "attached_transcript_pages_verified": 0,
+      "flattened_episode_pages_verified": 1668,
+      "text_pointers_verified": 1247,
+      "command_only_pages_verified": 421,
+      "native_voice_reference_pages_verified": 989,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 17,
+      "canonical_deep_readings": 3,
+      "arc_era_syntheses": 1,
+      "arc_deep_readings": 1,
+      "selected_character_composites_verified": 17,
+      "selected_backgrounds_verified": 9,
+      "distinct_bound_movie_assets_sampled": 0,
+      "bounded_packet_sha256": "861d8b47370267d56cb20450ca8ee224ec66fde0e9115b4dd17a5c5f0698e8bc",
+      "bounded_packet_receipt_sha256": "9ee3f9735276903a716a10ace5842be97108c111af0cc879a2806726e1b638cc",
+      "dialogue_export_sha256": "7eacc3b5d1ca24ec1c322a0a2b1eca6efc6bc09635505ed115c7fd88f0a83db6",
+      "visual_reconstruction_receipt_sha256": "774eb4367aa73843163016425834376a077fb9174df217f9a86a997e00c7f3ce",
+      "character_contact_sheet_sha256": "11751e0c4ea7e7f2bd68e0d18ee3c3840557c5487787b682dda1bda3d9de9b54",
+      "background_contact_sheet_sha256": "46ec56a91f5f79b9017907385c63b3a73deb7335767570377eebcb5150f08db7",
+      "face_position_artifact_sha256": "99efbf5def485478cfef6a6069a2396373141be36ae5781587d2ceaa4eb2fbbf",
+      "source_sha256_by_script": {
+        "ep2034_001_01.json__44fe713c41e7d31a": "3f4d24b7b5a81a41fc36f68b0758b479cd161f5f085b657dfdc82b86deb701f0",
+        "ep2034_001_02.json__e4b4ffcdfbd6e432": "fe35e0115b6a3ae8653e5bde9fd17eee37d17cd0bba20c36ffc8a71cbf2716a3",
+        "ep2034_001_03.json__af56b70570ddb055": "8a0fada96cd9df30645639a78b3d3a5c3770884ef42684565c52e01480053532",
+        "ep2034_001_04.json__6d67767f172c03ac": "a4fc8221050670efa7c65a865d43f07af50e502a72d3ef1ad9bd09d2423e2eec",
+        "ep2034_001_05.json__6ea6de08456eac86": "c420e54f5e71abd5f15a8ee702e2f9710ca0dff4a59c0eda7891e17220a6ba72",
+        "ep2034_002_01.json__7392e3442e131d5d": "18879605663a6fff637b71b7fbf261b899d8ecbefa496f8e9cb79c852c5fa568",
+        "ep2034_002_02.json__55de5acfb7188b02": "fcbb86b4c694c53379f4a40f449b8e8f0c4be1904e15becc9bcd63ea8b5a78bc",
+        "ep2034_002_03.json__c37d13dd81379a7b": "a791c2e23159bd24c6c7a98f7277a1db6af4077d017ed4825cdbf7d2bc8b8544",
+        "ep2034_002_04.json__673fa6e01f3dd04d": "e333f286ee55efd3e25ab7172fde023529364f82322ca3eab36668d0b0fa9aeb",
+        "ep2034_002_05.json__db643a27865d4d98": "5fe544d4732e3ab98df241dab329408f5d4ad66b8d0173463fa3278c84b98148",
+        "ep2034_002_06.json__62c03830e327b9aa": "889b7882310b1df70daf7ea923a814c2a67030db4f1621d596dcd70aa9b63808",
+        "ep2034_003_01.json__a0cd015d030307b4": "4a4ea863f48a9fcbd1c9d214a16a8d6a9783dd1adff86d5f9de2edbfc7f8d8ff",
+        "ep2034_003_02.json__88e18d0c46092fc1": "de320f8000c0589a6d16b52186d3bf1822b5df343b117d428ce0103a2974cb69",
+        "ep2034_003_03.json__1972f8d20f337e10": "3b1633a69b54f2041c9c846387e30e032ae3d57cec59075ab209989cf5cf44fc",
+        "ep2034_003_04.json__03283170c87b3144": "72889400c8fc15dc871eb6bbca081e6b3e69280d55b2437c23b65d046ebaf59e",
+        "ep2034_003_05.json__1a88a2d92699fe2e": "db9816e59b44e84a5b068bbd92bd2cce437ab332a8136c7dfb48c6a3358ae640",
+        "ep2034_003_06.json__7b60c33a07974b17": "237bdb97a35b10f7fb7a8b0d21c6cf4c958157631b5dbd95222ba22cf3ca053b"
+      },
+      "normalized_sha256_by_script": {
+        "ep2034_001_01.json__44fe713c41e7d31a": "d4c80c4ba9b8a0574f385a230a8fd449cd70aa12822c924da3598574b2f44361",
+        "ep2034_001_02.json__e4b4ffcdfbd6e432": "3096c85f4b247ffab1732fe9f2234f2259430b3f2b9cb2571722fb7325ccf71c",
+        "ep2034_001_03.json__af56b70570ddb055": "ee1164de5a747cfcdce514e17f8c9dbee56536a2fc1815e38b0e191b24f577d7",
+        "ep2034_001_04.json__6d67767f172c03ac": "033734e6a1130ccfdc80fb65172b0b5238bee1c358456c6ef4ba71eb7fbbd082",
+        "ep2034_001_05.json__6ea6de08456eac86": "9b55ebc3e270ba9476e09e64953f70da11d567acd8839b4fcc975cdb85dddf82",
+        "ep2034_002_01.json__7392e3442e131d5d": "ce7d560c23f16bb2b10e85a67ba73e150bde5e02a0c481a48b2ee05bcc746905",
+        "ep2034_002_02.json__55de5acfb7188b02": "3dbf07cec63a544859db36e49aec4721519309bb0236d98eb36640d8a47aabe0",
+        "ep2034_002_03.json__c37d13dd81379a7b": "467a1aef8926bfbfebb69d6bbd47a9331ac29bfe64afbb24866d612728fdbf64",
+        "ep2034_002_04.json__673fa6e01f3dd04d": "7e8231f377008c0041ee1b3477dc799eb6fb62c465e26dcdda6c7e1b4bc2570d",
+        "ep2034_002_05.json__db643a27865d4d98": "8cc9eef329533daac3aaeff9f9e8eb30fbe96d13551389f7f1b76e1c0f990788",
+        "ep2034_002_06.json__62c03830e327b9aa": "221bec95bde24d7451c5126a24fb85019e0ab255b247e20a9ab7cb38441f080a",
+        "ep2034_003_01.json__a0cd015d030307b4": "c98dae783e46fa009871d0bd636ef88fe8160e30f53caa676a2d4264fad94e83",
+        "ep2034_003_02.json__88e18d0c46092fc1": "ce64a9993f80e11004fd8e85c49cbe7e3d87ca22f7f24cd0ac642f20ce68aa2a",
+        "ep2034_003_03.json__1972f8d20f337e10": "53c73c4c701f08cd39d81508c0712a8969f04033dc1f45adda3bbd14e522920e",
+        "ep2034_003_04.json__03283170c87b3144": "0150eb2e6d418ba87b949160de3c9c301ea8e63fa3566c6aad0a3d4e02876d22",
+        "ep2034_003_05.json__1a88a2d92699fe2e": "e8e6b40c6a786dd08710b21f43a7634b0b34111f758c267be5a6d27cc26c66e6",
+        "ep2034_003_06.json__7b60c33a07974b17": "baed1db0712cca396006ffd6096d422dbb28509a1155f7eb22117ac5a56d240f"
+      },
+      "routing_correction": "The prior candidate 611100101 is already-consumed EPISODE 3.0 family 200070. NANASUTA is 1013100101 through 1013100306 at recommendation ranks 219–235; no source was reconsumed.",
+      "boundary": "Exact, hole-free native Main EPISODE NANASUTA family through episode 1013100306; all 1,668 primary pages consumed; no inline movie transcript or authored choice; all eleven admitted 2034 Main families now complete; no further series-100020 candidate exists and every 2053 semantic source remains blocked"
+    },
+    "non_main_eligibility_and_routing_audit_verification": {
+      "checked_at": "2026-09-24T00:00:00-04:00",
+      "operation": "T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON",
+      "screening_manifest_sha256": "fff84f8a0e0a5fa185df0782139a9ccb61a9ce1c23a65696ce3894e1aee257bc",
+      "screening_manifest_bytes": 155587,
+      "packet_files": 269,
+      "packet_bytes": 11417645,
+      "eligible_2034_sub_episodes": 743,
+      "eligible_2034_event_episodes": 231,
+      "eligible_2034_episode_membership_sha256": "afce2d28c27baa949bde41088be50720e4aa53874166946d9da032e191689c5c",
+      "blocked_2053_sub_episodes": 11,
+      "blocked_2053_episode_membership_sha256": "4f74c9c6fd33d37d49ef0af4eb4ee1f0d72d1f745067e0ed43b193919d4948c8",
+      "crossover_episodes": 1,
+      "crossover_episode_membership_sha256": "a3129428958e3333d4015dca7ec73ac7a49e3efd27557858e01be7d0547fd3a5",
+      "additional_2034_audited": 133,
+      "additional_2053_blocked": 9,
+      "additional_main_attachments_reconciled": 86,
+      "supplemental_records_partitioned": 30991,
+      "coverage_records_after_split": 1591,
+      "guardrail": "2053-blocked episode, additional-resource, and supplemental-message text was not emitted or consumed",
+      "boundary": "Eligibility and routing only; newly admitted 2034 non-Main sources remain unreconstructed and unintegrated until their assigned portfolios close"
+    },
+    "b0080_open_verification": {
+      "checked_at": "2026-09-24T00:00:00-04:00",
+      "operation": "T7S_B0080_OPEN",
+      "native_category": "Sub",
+      "native_top_layer_id": 100010,
+      "native_character_family_layer_id": 200130,
+      "native_chapter_layer_id": 300520,
+      "episode_ids": [
+        "202001101",
+        "202001102"
+      ],
+      "script_ids": [
+        "scout_041_01_01.json__5574dd10d3af0d42",
+        "scout_041_01_03.json__d5f035a78e7c3749"
+      ],
+      "primary_document_pages": 91,
+      "text_records_reconstructed": 78,
+      "command_only_pages_pending": 13,
+      "native_voice_reference_pages": 62,
+      "character_visual_refs_pending": 890,
+      "authored_choice_markers": 0,
+      "status": "SUPERSEDED_BY_T7S_ING_B0080_B0099_CLOSE",
+      "boundary": "Historical open receipt; all pending presentation and cumulative integration obligations were closed by T7S_ING_B0080_B0099_CLOSE."
+    },
+    "ing_b0080_b0099_close_verification": {
+      "checked_at": "2026-09-24T00:00:00-04:00",
+      "operation": "T7S_ING_B0080_B0099_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "selection_rule": "First 20 complete native i-n-g chapter layers in source order beginning with already-open chapter 300520; category Sub; top layer 100010.",
+      "block_ids": [
+        "T7S_B0080",
+        "T7S_B0081",
+        "T7S_B0082",
+        "T7S_B0083",
+        "T7S_B0084",
+        "T7S_B0085",
+        "T7S_B0086",
+        "T7S_B0087",
+        "T7S_B0088",
+        "T7S_B0089",
+        "T7S_B0090",
+        "T7S_B0091",
+        "T7S_B0092",
+        "T7S_B0093",
+        "T7S_B0094",
+        "T7S_B0095",
+        "T7S_B0096",
+        "T7S_B0097",
+        "T7S_B0098",
+        "T7S_B0099"
+      ],
+      "native_chapter_layer_ids": [
+        300520,
+        300530,
+        300540,
+        300550,
+        300560,
+        300570,
+        300580,
+        300590,
+        300600,
+        300610,
+        300620,
+        300630,
+        300640,
+        300650,
+        300660,
+        300670,
+        300680,
+        300690,
+        300700,
+        300710
+      ],
+      "episode_ids": [
+        "202001101",
+        "202001102",
+        "202001201",
+        "202001202",
+        "202001301",
+        "202001302",
+        "202001401",
+        "202001402",
+        "202001501",
+        "202001502",
+        "202001601",
+        "202001602",
+        "202001701",
+        "202001702",
+        "202001801",
+        "202001802",
+        "202001901",
+        "202001902",
+        "202002001",
+        "202002002",
+        "202002101",
+        "202002102",
+        "202002201",
+        "202002202",
+        "202002301",
+        "202002302",
+        "202002401",
+        "202002402",
+        "202002501",
+        "202002502",
+        "202002601",
+        "202002602",
+        "202002701",
+        "202002702",
+        "202002801",
+        "202002802",
+        "202002901",
+        "202002902",
+        "202003001",
+        "202003002"
+      ],
+      "primary_episodes_verified": 40,
+      "primary_document_pages_verified": 2624,
+      "text_records_verified": 2434,
+      "command_only_pages_verified": 190,
+      "native_voice_reference_pages_verified": 1866,
+      "visual_references_verified": 21356,
+      "authored_choice_groups_verified": 0,
+      "inline_movies_verified": 0,
+      "coverage_records_reconciled": 40,
+      "canonical_targeted_case_readings": 20,
+      "selected_character_composites_verified": 40,
+      "performed_audio_reviewed": false,
+      "episode_membership_sha256": "8093a07bbbbb082012cd77a08486c8d8fc113190d3046e756d791b49615404ec",
+      "tranche_manifest_sha256": "dce8b0793bea11ba03a0fc212fbf5cff769eecb72e07ed5b6356c9decd792c3b",
+      "static_review_receipt_sha256": "afd38529d60ac016a75c9c1113a6655ac17e62817b7c0b41bef1666f8fceeb9c",
+      "source_sha256_by_script": {
+        "scout_041_01_01.json__5574dd10d3af0d42": "51ce93cd52e49b41cd5934bf29ea62c4ead07334a155a6b428e71b6c7d481f7d",
+        "scout_041_01_03.json__d5f035a78e7c3749": "9a4ab386c2dadc458c9092ae49e0a706123f03a8a7ba2c1c36a76a44d26ace3c",
+        "scout_042_01_01.json__99ecd1a35abb3284": "15520bd7ee73f6c7699621adc15b583275fc0ec62565cd9f2e55ac702dc34ade",
+        "scout_042_01_03.json__3ce4ba12c291e605": "34d85fee74fa7fce560e1e0f80c2c452c93cb391f71033d63b9964231018d12c",
+        "scout_043_01_01.json__c8047e6f485f6073": "6e919c59e86d61b9cf5232f12c79cad7f0913fa798db0c243f5c5da4d83da382",
+        "scout_043_01_03.json__7722f6c116884eab": "2e4a30805169af879d05bc062088fa75b789c429a800d6a4953311366e4d2cf0",
+        "scout_044_01_01.json__15644133881b9cd3": "2d53f06a0301cc57882efb9f9a284eb6419318a6897bfc52de6b2c63f9a8928b",
+        "scout_044_01_03.json__f525848d0ec3add8": "67073e5c345ff3753ea63c500605a3dc16c2f5d25f9c74e86c56e827bba5dc8f",
+        "scout_045_01_01.json__37c43e7ffd1d0144": "fa23fd96d181cec5226630dba1fe1097b2cdfb10c2178aefa8c363dda04073c3",
+        "scout_045_01_03.json__251e15c016a5ba2a": "6f278166d2589b2d68f22e43e5228db03a4e1fb36c2ccbcbc22a4f590c8e77a3",
+        "scout_046_01_01.json__685807f4f1866805": "d61be0575b8be485630b4f18ac1f8bbecfff1a54d3215313367de7952a373aac",
+        "scout_046_01_03.json__11d9d0d57d3a83f5": "5d71732a64ec26e8780b0752442f6468fbcd68704c62c25f4d081c5503f694cf",
+        "scout_047_01_01.json__89c3073b14531e33": "bdd4b4d6ba279a2f63c7a75cdc01cbc48df6a63a0aacf70b9cc1cbd13b14ce85",
+        "scout_047_01_03.json__54aa3d0b0654c8f1": "cd78a510165edc52ca1c222ae2fbb764943aaddf6aee4bb0421e640992232f75",
+        "scout_048_01_01.json__dc5be3a33a92189a": "126d32b0c7986d20eb376451ddb8d1611a9ee8ba8d5dd097737158e842ce298c",
+        "scout_048_01_03.json__0d4aa734e59e3689": "7409dcfbe2704fcdd48f5132f493e718c0d2d7c05d898d34207dcce629cee774",
+        "scout_049_01_01.json__e8451ec6cf0a9cd4": "1482a2e545002c84ac75dfed5f762ecaba9986b19f2b46fbed4b66e0b87e12f3",
+        "scout_049_01_03.json__614dd483932cbf10": "24c2c5d41d1596a629ad2c584822d363ad043e55c63fd7f30bb6984ddf9d1457",
+        "scout_050_01_01.json__9f5ac0f4e17c3780": "6ca01aa3b2176850ebd358bf5561cdd7c5f06a8cb33dcba92cbb2cc4908b5116",
+        "scout_050_01_03.json__7fe92c3e3b420639": "999cb80dca3e5e8820bff89be03da26e09af7d55ea3add28b62a239af2e33640",
+        "scout_051_01_01.json__7a2a6e6369f8adcf": "7bdd385c36ea1e7876ba616b5e46457324a506895ef4b85bf9eb1f3f16986272",
+        "scout_051_01_03.json__d5c812ea91329291": "ede2381a4ec1d7402813e912a3a72a0ace984c3b6806ea53116dfcb0a4a780e6",
+        "scout_052_01_01.json__69531669a998774b": "d777cf4c0d35812cd4436bca0543b3fd8743be0db6698a6ec6a40f275bfff5ea",
+        "scout_052_01_03.json__8df1e6c179838968": "5038a4150c60fc0238ed02437bac1b564d34f72e560bc6a341d55d3ffdefe197",
+        "scout_081_01_01.json__50d9050e014846c9": "60ea33cf044c10809778c2f8fc264be3a1f04c1f92f27071bb349307c7dfd379",
+        "scout_081_01_03.json__f3b0ad95a2c8a6dd": "770269a69d69c06b4bc4322cdaf0111858c16215c1cb5427ba207570dd3d1649",
+        "scout_082_01_01.json__312179e87ee349d1": "2619905992ce689039de524f05907050f8c1079a76571f36e32bcb9a68b5a116",
+        "scout_082_01_03.json__a477648aa044487c": "6540af809884139517d0d112f0c7df332397e9f6587ab1ff6f83b53ffd21bb8c",
+        "scout_083_01_01.json__54047400e2aaad03": "301e6dceed69923112506aedbe012ad650920fa3132093ef85835f1ab3e307a5",
+        "scout_083_01_03.json__7386a76042693404": "70e0b6f4487ded60646f87a518d932fcd2ab18c8b032e158c72f10170aea9bc2",
+        "scout_084_01_01.json__50cbc54adcd47aa2": "d457916fe5f5a7ca95ac4eeb26d31df60fac495cf9b99474645c47cc6fe3786c",
+        "scout_084_01_03.json__688044377d8e400b": "82b469bd4eee058762ca94e6c2a31ed3475a114a295872369cdf29031eccc915",
+        "scout_085_01_01.json__a2f0c4ae2baade70": "6a0a7748718a4c62bc4494f08f29dc78b047072babd0602a995ce7a861d8e124",
+        "scout_085_01_03.json__f05ff0a67c90bd89": "4cd10da19c37df138530b7da048b289303aae9e7aa13606817861139cfbe81bc",
+        "scout_086_01_01.json__ce53371e0698251e": "82ad06720dd8f132e3b1dae28693de808bb443f5d0c20326e0b8cb79e34e5615",
+        "scout_086_01_03.json__0325ce74c3cefe45": "857331a4eb7265617809531e4c12ccecd7c1d8323e82a96247693255ad71a575",
+        "scout_087_01_01.json__ddf6e3b435c36987": "7e0e18acf505faae69e024581d1a90646eaa8554a51928877512a766cb075299",
+        "scout_087_01_03.json__f9601d404d6b0182": "eaefb9026d7ca71d2a825d29f6f0847604b24d42fbf692a45ac042226d4cc741",
+        "scout_088_01_01.json__8768cd44ae2c6eca": "fb3eda224533de81236c2832e47dec1c360072199f599f3f497781031bb333be",
+        "scout_088_01_03.json__bbf43e5db5b24503": "3d869c169190b4740dffa253ab2978df0f70c55f3b9703f1f4942d500d5bf207"
+      },
+      "normalized_sha256_by_script": {
+        "scout_041_01_01.json__5574dd10d3af0d42": "890bf2a112b0f976ad6dd4ea5123a0ff5e05661b050dbcb588680199be618eed",
+        "scout_041_01_03.json__d5f035a78e7c3749": "84fbd338446b44f0e996cc1b5bf31ad6b881cb9d9381686b80cfb5d17ee0a726",
+        "scout_042_01_01.json__99ecd1a35abb3284": "6c8b15d1e7b0fe069930221ed14d5f54b29484cf9212a337bd725aaf63564ea5",
+        "scout_042_01_03.json__3ce4ba12c291e605": "3970daa3ba56c66e0292b6ad93af0944670a569df8aa94e7af9d9ad208e746f3",
+        "scout_043_01_01.json__c8047e6f485f6073": "6bff208b58138fd55848128041ccbf095dffa7303d2b9911fd870cb504acb162",
+        "scout_043_01_03.json__7722f6c116884eab": "165ee98dbc915bf61126621148104d60179ff724cc53131d18a2bda6565c09bc",
+        "scout_044_01_01.json__15644133881b9cd3": "7a8c2497c204e170f6591de2d8754af3d3385fb54f402917fcc1d13ea4127df6",
+        "scout_044_01_03.json__f525848d0ec3add8": "c70ef18ac9ffa612b234d91b2613dcc3a87d98988c6683f4881f95d70cdb284a",
+        "scout_045_01_01.json__37c43e7ffd1d0144": "5de3668303dad3b9e165f8ebec875b6f0230b1d608e2e5916f1d17b71f0b5423",
+        "scout_045_01_03.json__251e15c016a5ba2a": "f6a209d4dea974bd7c602778f999f107f52e0afe9c49881da74e212bdc2d4254",
+        "scout_046_01_01.json__685807f4f1866805": "0d4621383784949d40165c3a950d76fec504d9b88b8a910620eab8c092b408e7",
+        "scout_046_01_03.json__11d9d0d57d3a83f5": "2acf27fed4e4fa50f51a90b4fb82f10d9533a943139a14c55f8f29a409557ddf",
+        "scout_047_01_01.json__89c3073b14531e33": "102248dd357d3076502da16b34ec3669ae1830e77063c6c4c6592c3c0a97741d",
+        "scout_047_01_03.json__54aa3d0b0654c8f1": "4abe4ded843129dce1754434176aa37d5062771e0d667910307b33fc90a5dd63",
+        "scout_048_01_01.json__dc5be3a33a92189a": "be7232edf34a8b17af76dadb6228295a1d28714c393d6e4d45c151b081aff9de",
+        "scout_048_01_03.json__0d4aa734e59e3689": "2b5047365fd0462b0eef5523531ebc660c41a108e2fd9ced26c7d6ac79ff92b2",
+        "scout_049_01_01.json__e8451ec6cf0a9cd4": "6cb1b58e9be98dce97e038f25a444cf1cd743461c638566b16dbbf48ff4f3a82",
+        "scout_049_01_03.json__614dd483932cbf10": "e3bd1c2fcb99bba256f5a582c7f1cd165634d1abd20096b2058f266a8a3162f2",
+        "scout_050_01_01.json__9f5ac0f4e17c3780": "1631ec3a7f73103bde5dc693799b9e7c8d0d61fc758b06c5d9d2f24f60e63fbe",
+        "scout_050_01_03.json__7fe92c3e3b420639": "da37e92dff5c31e5cae3b4edcef12fb4761bea5e0d0a19ee56e250da6a90ef42",
+        "scout_051_01_01.json__7a2a6e6369f8adcf": "07aeb7be601b1cea86b626e9f2c9434f06af8915a3a42f7cbf4e5f09582f6cd7",
+        "scout_051_01_03.json__d5c812ea91329291": "f21898341e1e62979b9736b96fc8e8d7ad1ae667f6e577e16c1c52269e9a8026",
+        "scout_052_01_01.json__69531669a998774b": "8904c641fb0efcbd250ae4d037552e11d2dc5ea406e1853b20a5e2cbcb226170",
+        "scout_052_01_03.json__8df1e6c179838968": "4df61034eed167a9de1519dc3ab482e569609f4e0e223bd0e45ad911a83110c0",
+        "scout_081_01_01.json__50d9050e014846c9": "0ce7c754acb88808fe99287930a0e5c5d26288f066a961e05a8fbe92a75d6961",
+        "scout_081_01_03.json__f3b0ad95a2c8a6dd": "de8168932f4f87c4161ffe7ea2a698621353559e61e76531216830c84e3bb1fe",
+        "scout_082_01_01.json__312179e87ee349d1": "d18a91cb49755b0f6a8733df7e40400897dd17d4762c8bd0e0efa159062f38f1",
+        "scout_082_01_03.json__a477648aa044487c": "1c3a5936c25d643e78b9d90046bd96b918ca1cc88f53769fb745d815ca13b3ec",
+        "scout_083_01_01.json__54047400e2aaad03": "0259083ff49688059ad7b4093247c65e23f9f77a09b633d3e95e9919cc512bb2",
+        "scout_083_01_03.json__7386a76042693404": "91be09804ece6f60cb95d7d75a8029ecbbd9b15b47a6731d9676fc1da22f0ebf",
+        "scout_084_01_01.json__50cbc54adcd47aa2": "452a430f0eadb86a5ec9f26d7584c2390655c442ea31989821bb0a2c7fc1f49b",
+        "scout_084_01_03.json__688044377d8e400b": "20665d9f7463594fdddb9442d3cecf654314e8e6551f025cd9fb65e57c35dcbe",
+        "scout_085_01_01.json__a2f0c4ae2baade70": "4a3e6cc1fe489cea69e61440b084209ab3ccb0663a15b9dbd956e06adf86d5df",
+        "scout_085_01_03.json__f05ff0a67c90bd89": "96c3df88e250cec0509c054b9922f0121fefa37e5e4699792d785eec9c02454f",
+        "scout_086_01_01.json__ce53371e0698251e": "dd3f591840b1f671cf5c00b339caf6d950c793a8cb42d32f28f66835c1f4fa61",
+        "scout_086_01_03.json__0325ce74c3cefe45": "3b67aeb841ec5b318198dbfd25d9808bbece6deadac8032c082f93d04b48d01e",
+        "scout_087_01_01.json__ddf6e3b435c36987": "84543aacfde9f656f21cb0f14b0ad17e9eeb1db99d92d711290f6032d41d0596",
+        "scout_087_01_03.json__f9601d404d6b0182": "53ac442085f8ccd2ad32509b8e40690964f2800981be029443f6dbecdb50fc1d",
+        "scout_088_01_01.json__8768cd44ae2c6eca": "689f699c1a827fc06ffa575f466cb369ed5586dbd82b5d3efc526b1699e235ac",
+        "scout_088_01_03.json__bbf43e5db5b24503": "f6995ae54e3da04f36d686a3e8c6f06b16fe4ace691580ac80c0a6d6e960ee91"
+      },
+      "boundary": "Exact first twenty complete native i-n-g chapter layers, T7S_B0080–T7S_B0099; every primary page and command-only state reviewed, two episodes per block, no choices or inline movies, performed audio explicitly unauditioned, no cross-chapter total chronology inferred."
+    },
+    "coverage_ledger_shard_transition": {
+      "checked_at": "2026-09-24T00:00:00-04:00",
+      "operation": "T7S_COVERAGE_LEDGER_SHARD_TRANSITION",
+      "logical_data_records": 1590,
+      "scenario_records": 1578,
+      "supplemental_tranche_records": 12,
+      "current_or_consumed_records": 361,
+      "routed_or_unconsumed_records": 1229,
+      "primary_path": "T7S_COVERAGE_AND_ROUTING.jsonl",
+      "primary_bytes": 530853,
+      "primary_sha256": "ba7d0f20be6138c72e89f35e1d6efcfb42faa7e3fee6103ba9d1e5d96447e00b",
+      "primary_membership_sha256": "c0ad7cc4a0c267aca2b7ec55b3bb42d3f16f90561295dca4a94ad05c0817be5e",
+      "routed_path": "T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl",
+      "routed_bytes": 688668,
+      "routed_sha256": "b3bfb469125aa05cfcf63c2646474a848ae39d679f3f0300b4d446e4ecff7724",
+      "routed_membership_sha256": "af17e208f415b0ed2624e6c6a1667acff6ba87932c4dda7408efa221be668af7",
+      "manifest_path": "T7S_COVERAGE_AND_ROUTING_MANIFEST.json",
+      "manifest_bytes": 2421,
+      "manifest_sha256": "1c3b5cecf8c3affb4e45ca38dc2503df47b4b2525b87ea1b626758df60007aab",
+      "effective_state_sha256_before": "a0d2d51ff77de76130112a845e2a226137788a83b0efa272624e18ff38b76302",
+      "effective_state_sha256_after": "a0d2d51ff77de76130112a845e2a226137788a83b0efa272624e18ff38b76302",
+      "disjoint": true,
+      "complete": true,
+      "semantic_change": "NONE",
+      "boundary": "The canonical coverage state is one logical ledger represented by the manifest and two disjoint shards; consume routed records by atomically preserving their effective state and history while moving them to the current-or-consumed shard."
+    },
+    "selected_media_recovery": [
+      {
+        "kind": "audio",
+        "asset_id": "wav:6520d70a302f4f72da934bcd51dccb5d361ee980ca136e0d04d547dd9ff3f248",
+        "sha256": "6520d70a302f4f72da934bcd51dccb5d361ee980ca136e0d04d547dd9ff3f248",
+        "origin_artifact": "media:audio_relations.jsonl",
+        "source_row_index": 0,
+        "document_ref": "primary",
+        "resolution_status": "decoded",
+        "review": "BYTE_AND_RELATION_RECOVERY_ONLY; NOT_LISTENED_OR_VIEWED"
+      },
+      {
+        "kind": "video",
+        "asset_id": "movie:38beabd1e25a6d24ebee9f937b8d4ad024667cc6f539c6a4ed447e7a501fb590",
+        "sha256": "38beabd1e25a6d24ebee9f937b8d4ad024667cc6f539c6a4ed447e7a501fb590",
+        "origin_artifact": "media:video_relations.jsonl",
+        "source_row_index": 0,
+        "document_ref": "primary",
+        "resolution_status": "copied_and_probed",
+        "review": "BYTE_AND_RELATION_RECOVERY_ONLY; NOT_LISTENED_OR_VIEWED"
+      }
+    ],
+    "b0100_close_verification": {
+      "operation": "T7S_B0100_CLOSE",
+      "checked_at": "2026-09-25",
+      "status": "PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW",
+      "episode_ids": [
+        "202003101",
+        "202003102"
+      ],
+      "source_bindings": [
+        {
+          "episode_id": "202003101",
+          "script_id": "scout_089_01_01.json__db528778e1db1b91",
+          "source_sha256": "77ce4edd2a02dfd43045b004b2f0631130d4b848aad82df8a3631d0cc06739cf",
+          "decoded_sha256": "c83737c24fe905ae122a398fcc9299d85c3541ef8064586020d549a134cc7156",
+          "normalized_sha256": "7bd13baaf3c0d2750f3fa9c1be2b21bcda31397b1e000dec12387e3a2f0ef1fe",
+          "structured_sha256": "7bd13baaf3c0d2750f3fa9c1be2b21bcda31397b1e000dec12387e3a2f0ef1fe",
+          "pages": 58,
+          "text_records": 49,
+          "command_only_pages": 9,
+          "voice_pages": 27,
+          "native_pages_verified": 58
+        },
+        {
+          "episode_id": "202003102",
+          "script_id": "scout_089_01_03.json__b1a455e04bfec1c7",
+          "source_sha256": "ec2ae7fb3026b65763b8e3c78d38331d854e5456f7751f0e94842a7d8f6c0aa0",
+          "decoded_sha256": "9c34e0c0785c31205e338efd36775ae0d1f7ef869cdf0213fe5607887e20f131",
+          "normalized_sha256": "701439c47e50013f1099c68e53b9cd8353e8ff2b074246a80481c7dc546ac271",
+          "structured_sha256": "701439c47e50013f1099c68e53b9cd8353e8ff2b074246a80481c7dc546ac271",
+          "pages": 49,
+          "text_records": 41,
+          "command_only_pages": 8,
+          "voice_pages": 27,
+          "native_pages_verified": 49
+        }
+      ],
+      "totals": {
+        "pages": 107,
+        "text_records": 90,
+        "command_only_pages": 17,
+        "voice_pages": 54,
+        "visual_refs": 970
+      },
+      "native_packet_sha256": "67b5b5ff23ffaf2ad1b365992580e04a1da0ae687ae00b73787f833499e2afe7",
+      "dialogue_packet_sha256": "b50ce4228a8befcd26f408a0bf51289b2a8ab0d99cab31512ba0a2c43cb84d51",
+      "visual_assets": [
+        {
+          "resource": "adv_chara_144_01_01",
+          "body": "adv_chara_144_01.png",
+          "body_sha256": "20fc6bc7ed22a88c88e06eb84b21be11f06fa69cfd7f19e0de37a95c939d9f1e",
+          "face": "adv_chara_144_01_01.png",
+          "face_sha256": "0053bcd17594dda6eaad535480776a89040ccd77a5dec68e97d01666651bf7c0",
+          "native_face_offset": [
+            120,
+            74
+          ],
+          "output_sha256": "399bb9344c170367460db6429a432ce79587937a515b68b27ff185193fdc93bf"
+        },
+        {
+          "resource": "adv_chara_144_01_02",
+          "body": "adv_chara_144_01.png",
+          "body_sha256": "20fc6bc7ed22a88c88e06eb84b21be11f06fa69cfd7f19e0de37a95c939d9f1e",
+          "face": "adv_chara_144_01_02.png",
+          "face_sha256": "65cd13cbe3a95acd7e20cdbbcbd9a481417d7a79465c58649391550c59ab0a21",
+          "native_face_offset": [
+            120,
+            74
+          ],
+          "output_sha256": "73bb9a9c4e3ccdb50b9c9d3ee2ba518a537fdb31424f0a5f154b4edc4141a532"
+        },
+        {
+          "resource": "adv_chara_144_01_03",
+          "body": "adv_chara_144_01.png",
+          "body_sha256": "20fc6bc7ed22a88c88e06eb84b21be11f06fa69cfd7f19e0de37a95c939d9f1e",
+          "face": "adv_chara_144_01_03.png",
+          "face_sha256": "2bab9ec0eddb5ca11051d49b2714267809d6965d75a56ca837d7147a40dadd55",
+          "native_face_offset": [
+            120,
+            74
+          ],
+          "output_sha256": "fce4fa840b78e077a55999b9fee26166bd8e611434d6931e5e29a8d639b83fdf"
+        },
+        {
+          "resource": "adv_obj_0069",
+          "body": "adv_obj_0069.png",
+          "body_sha256": "f260112b43f0be320b021020fe0300eca3c92c883ebaf92334e3097c604b1f0d",
+          "output_sha256": "a86095001df60d947da617149accedc57768ba17edaf1f263115a860641214cf"
+        }
+      ],
+      "coverage_effective_state_sha256": "e96f0bf0e651e3f3f75580e725b2b78c04b96c7227562650b679b6c80f703800",
+      "execution_record": "09 Audits and Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md",
+      "boundary": "All native pages and text pointers verified; selected static composites inspected; no authored choices or inline movies; performed audio not reviewed; no later-block semantic evidence used.",
+      "mechanical_correction": "Correct historical routed-membership transcription 87930c to 87932c after recomputation against unchanged pre-B0100 routed membership and the original manifest; historical file/effective-state hashes remain unchanged."
+    },
+    "b0101_close_verification": {
+      "operation": "T7S_B0101_CLOSE",
+      "checked_at": "2026-09-25",
+      "status": "PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW",
+      "episode_ids": [
+        "202003201",
+        "202003202"
+      ],
+      "source_bindings": [
+        {
+          "episode_id": "202003201",
+          "script_id": "scout_090_01_01.json__07d007bf25ac5813",
+          "source_sha256": "9df0e61c2ace9c351e5fe2430213ec897d7b66078e79f3472b9ebd341ed1af96",
+          "decoded_sha256": "f0c565e4c75c759a6f82ba020f334debd5ad05ec95d1f68304572e25174ebfa5",
+          "normalized_sha256": "b4fa457cbf588cd0f47b26ad5f1c5e76a15df01f25577a4b333cc534883a3bfb",
+          "structured_sha256": "b4fa457cbf588cd0f47b26ad5f1c5e76a15df01f25577a4b333cc534883a3bfb",
+          "pages": 43,
+          "text_records": 41,
+          "command_only_pages": 2,
+          "voice_pages": 31,
+          "native_pages_verified": 43
+        },
+        {
+          "episode_id": "202003202",
+          "script_id": "scout_090_01_03.json__b2fb98338c660450",
+          "source_sha256": "1226e9a13cbb1c67a52458c028b3c16fcbeb2f9dcb3319e57aebe585c016ce4e",
+          "decoded_sha256": "1b9a6abe982be7a8f7c28a37fabfa8cbb9c675e3ebeae3a20415d7765ef25cc8",
+          "normalized_sha256": "22f1f63d874d3de6371512e41a9aa10a57b564c9a566859dc495200f72c94a5b",
+          "structured_sha256": "22f1f63d874d3de6371512e41a9aa10a57b564c9a566859dc495200f72c94a5b",
+          "pages": 59,
+          "text_records": 54,
+          "command_only_pages": 5,
+          "voice_pages": 45,
+          "native_pages_verified": 59
+        }
+      ],
+      "totals": {
+        "pages": 102,
+        "text_records": 95,
+        "command_only_pages": 7,
+        "voice_pages": 76,
+        "visual_refs": 672
+      },
+      "voice_count_basis": "Distinct dialogue log-order indexes with voice resource; title-only cues additional; no performed audio reviewed.",
+      "native_packet_sha256": "a797fdecfe063a97541369329c8f892b6619042366588c61509b09d893c62476",
+      "dialogue_packet_sha256": "45414b9dce9be80e21d813f802810254d3bca8d293b07d3340e7a775cdf277b9",
+      "visual_assets": [
+        {
+          "resource": "adv_chara_148_01_01",
+          "body": "adv_chara_148_01.png",
+          "body_sha256": "4ce7650d14226a78ef84e7be754b8b8600b9cff0d48dfd59a9ca03a3a9a029e4",
+          "face": "adv_chara_148_01_01.png",
+          "face_sha256": "9ebe31db2b7e89c6e81e25eebc43864dde38a46404a13c55e27e2207e9040f3a",
+          "native_face_offset": [
+            112,
+            96
+          ],
+          "output_sha256": "e308635b1566fea246d92f4a6a8b2084632b8904a3def3639029ee73ddfc9353"
+        },
+        {
+          "resource": "adv_chara_148_01_02",
+          "body": "adv_chara_148_01.png",
+          "body_sha256": "4ce7650d14226a78ef84e7be754b8b8600b9cff0d48dfd59a9ca03a3a9a029e4",
+          "face": "adv_chara_148_01_02.png",
+          "face_sha256": "7cad173b7de25029a7db1c1105f55b2ae602a066377c7aa2b3a2343b4b7bd193",
+          "native_face_offset": [
+            112,
+            96
+          ],
+          "output_sha256": "df7a07f2b79226ef26b75ef9aab9ccb49082deab6ffe6880e68412a59fd9ec78"
+        },
+        {
+          "resource": "adv_chara_148_01_03",
+          "body": "adv_chara_148_01.png",
+          "body_sha256": "4ce7650d14226a78ef84e7be754b8b8600b9cff0d48dfd59a9ca03a3a9a029e4",
+          "face": "adv_chara_148_01_03.png",
+          "face_sha256": "6ded9a9a7ba2f29e71dd1cf57276f9ab334207d361a230b9f6629d62184cb2dc",
+          "native_face_offset": [
+            112,
+            96
+          ],
+          "output_sha256": "e3b2de86d548142516c59cb821ada3a095e02734ff6defd5dbc9b370737d8e16"
+        },
+        {
+          "resource": "adv_chara_009_03_02",
+          "body": "adv_chara_009_03.png",
+          "body_sha256": "ffc2406a944338eecacf731a83cc2ecfedce4b3e932bcbf3574528e5939035c8",
+          "face": "adv_chara_009_03_02.png",
+          "face_sha256": "b7a199eafdad5a8779657a7155338e1dfea0bdef71d13dafe6561b8d93094f81",
+          "native_face_offset": [
+            109,
+            85
+          ],
+          "output_sha256": "8e5270f32164291bcfe10b40ba20dab120c64d5a6e95f5e2022bc1634130836c"
+        },
+        {
+          "resource": "adv_chara_132_01_01",
+          "body": "adv_chara_132_01.png",
+          "body_sha256": "0d49191320a09a7eee93f32d7af333bd6edcbf5ec4259ea97bca67053a4f43d0",
+          "face": "adv_chara_132_01_01.png",
+          "face_sha256": "ef98328fec3d962d011f35666c3595ffd10fc839c49a2825993359daea0761d0",
+          "native_face_offset": [
+            58,
+            91
+          ],
+          "output_sha256": "b71fc3bb24fb825eb09e46085c6737d0c66ab4193c81765de9b7dc5ae09d6d76"
+        },
+        {
+          "resource": "adv_chara_011_01_06",
+          "body": "adv_chara_011_01.png",
+          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
+          "face": "adv_chara_011_01_06.png",
+          "face_sha256": "300b99809fe080a24c3803e10c451b06c95aacbd519cf4db7883ed5ae8aef5d6",
+          "native_face_offset": [
+            89,
+            54
+          ],
+          "output_sha256": "265da1873ada23d3876ae477923a70e2d8849383bee31407f9cb9dec78179271"
+        }
+      ],
+      "coverage_effective_state_sha256": "8d05f4028dfd0d5a249a5362257ba7f5b431e589b8635c37075d680c9f6ce53a",
+      "execution_record": "09 Audits and Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md",
+      "boundary": "Complete chapter-local text/native state plus selected static review; no authored choice or inline movie; no later-source semantic evidence; performed audio unreviewed."
+    },
+    "b0102_close_verification": {
+      "operation": "T7S_B0102_CLOSE",
+      "checked_at": "2026-09-25",
+      "status": "PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW",
+      "episode_ids": [
+        "202003301",
+        "202003302"
+      ],
+      "source_bindings": [
+        {
+          "episode_id": "202003301",
+          "script_id": "scout_091_01_01.json__0ce11fbbdf461338",
+          "source_sha256": "9790f6b47007bc0c4768e2d919416c32e5ed77fcf2269fd52a3c5918a04daa14",
+          "decoded_sha256": "b253e6485e389f1cd667029247b8eddfaacbe5ee09539543708df63b1812f36a",
+          "normalized_sha256": "faf0e245ce5be3c9379931b1c05d0b2669ee7e0958209deb6ab20f17c10afcd8",
+          "structured_sha256": "faf0e245ce5be3c9379931b1c05d0b2669ee7e0958209deb6ab20f17c10afcd8",
+          "pages": 45,
+          "text_records": 42,
+          "command_only_pages": 3,
+          "voice_pages": 32,
+          "native_pages_verified": 45
+        },
+        {
+          "episode_id": "202003302",
+          "script_id": "scout_091_01_03.json__57bf6ec7b72c72e3",
+          "source_sha256": "b3095699981e88dc83e8a7941f120603bd442afd9770cb3160888722ed3b873e",
+          "decoded_sha256": "282886ac8fcb1f415c578fc9b09e523fc9914e7f2f9994a7eb16ad84b53ab60e",
+          "normalized_sha256": "a32e9ddeea920d4fa110e3433cc0c7fa2bc891848c0bfbc85ddda163fe79db2f",
+          "structured_sha256": "a32e9ddeea920d4fa110e3433cc0c7fa2bc891848c0bfbc85ddda163fe79db2f",
+          "pages": 58,
+          "text_records": 53,
+          "command_only_pages": 5,
+          "voice_pages": 47,
+          "native_pages_verified": 58
+        }
+      ],
+      "totals": {
+        "pages": 103,
+        "text_records": 95,
+        "command_only_pages": 8,
+        "voice_pages": 79,
+        "visual_refs": 679
+      },
+      "voice_count_basis": "Distinct dialogue log-order indexes with voice resource; title-only cues additional; no performed audio reviewed.",
+      "native_packet_sha256": "4153e4ff76c42cf6762dc2608c25de56a5b78928b62f2a1ffe5aba6735bdbc56",
+      "dialogue_packet_sha256": "3e8728ec297980bcb3fd751a56912bf1d810adfe32da690be2e695ff295f331e",
+      "visual_assets": [
+        {
+          "resource": "adv_chara_149_01_01",
+          "body": "adv_chara_149_01.png",
+          "body_sha256": "99e954f4fe105fc93364cb6978bfe112dd69fe45e6f2cb11cee62fbf83b00624",
+          "face": "adv_chara_149_01_01.png",
+          "face_sha256": "bb5b4245ffe5fa87521be9d525e7ea0abbe50b196e62834094f210ce3046e4a5",
+          "native_face_offset": [
+            79,
+            59
+          ],
+          "output_sha256": "3f0f91931eb0fc25d2f20338942093f17e0a75e0df8b1ab54171209b685eff88"
+        },
+        {
+          "resource": "adv_chara_149_01_02",
+          "body": "adv_chara_149_01.png",
+          "body_sha256": "99e954f4fe105fc93364cb6978bfe112dd69fe45e6f2cb11cee62fbf83b00624",
+          "face": "adv_chara_149_01_02.png",
+          "face_sha256": "acd921623382b5c9cf86ee530ed78e9721f52a789288d30af9da7eeee21317d6",
+          "native_face_offset": [
+            79,
+            59
+          ],
+          "output_sha256": "0fe63728387fac7967c412e5ede5ac4d5df29fca61d6472da7c1744ae3583551"
+        },
+        {
+          "resource": "adv_chara_149_01_03",
+          "body": "adv_chara_149_01.png",
+          "body_sha256": "99e954f4fe105fc93364cb6978bfe112dd69fe45e6f2cb11cee62fbf83b00624",
+          "face": "adv_chara_149_01_03.png",
+          "face_sha256": "39a62df2370ea33491d48a23fbb67db4c1dee8624359207a202b938ca26da139",
+          "native_face_offset": [
+            79,
+            59
+          ],
+          "output_sha256": "703038416a4d8f2b11768850fae9901880f5181252133ddf7e7d099c02a7be36"
+        },
+        {
+          "resource": "adv_chara_149_01_04",
+          "body": "adv_chara_149_01.png",
+          "body_sha256": "99e954f4fe105fc93364cb6978bfe112dd69fe45e6f2cb11cee62fbf83b00624",
+          "face": "adv_chara_149_01_04.png",
+          "face_sha256": "89bde1ee7810d2d1788d6cc531b14129304b7420fc4defa1dbb38a81aa5aa880",
+          "native_face_offset": [
+            79,
+            59
+          ],
+          "output_sha256": "0e33bc4baac5cdfb68cf14d75b052bf5ba02c943202480a7062247ea168f02c1"
+        },
+        {
+          "resource": "adv_chara_002_07_02",
+          "body": "adv_chara_002_07.png",
+          "body_sha256": "e299b2ccb8f49c9014aa59242afb0c5fb260b54d819620e7d17728597f06c015",
+          "face": "adv_chara_002_07_02.png",
+          "face_sha256": "36f5de896b1f9324d2693ded5d0b7cf2a39df2520d7c1d0f22c7b80c07c9ba99",
+          "native_face_offset": [
+            132,
+            64
+          ],
+          "output_sha256": "763b90f28f302abc02baf72d1b434de6a810c051618de5a44f0fc725a68a6274"
+        },
+        {
+          "resource": "adv_chara_004_01_12",
+          "body": "adv_chara_004_01.png",
+          "body_sha256": "5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be",
+          "face": "adv_chara_004_01_12.png",
+          "face_sha256": "ccf54121bf174d8bdc145dedb96d53b110cfbb881e5e0a4bd078739cce7f4b2e",
+          "native_face_offset": [
+            194,
+            74
+          ],
+          "output_sha256": "6d4ebb0aae92d93ecf03f1dc53193e039d8e245a2fade03819d2e16adbb4d526"
+        },
+        {
+          "resource": "adv_obj_0078",
+          "body": "adv_obj_0078.png",
+          "body_sha256": "c822bc9d28ced7fd5efc82ddf611faaeacdd98383c96882b7bf20821bdf8ed80",
+          "output_sha256": "a31482b98b116e233f99cafac8dc41af452b8a22cd720f7af494d3c77c628fdc"
+        }
+      ],
+      "coverage_effective_state_sha256": "40010ae5286d824a10ecb809835ceaa7de178a3d46b0bc0259d5b61d1511cd48",
+      "execution_record": "09 Audits and Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md",
+      "boundary": "Complete chapter-local text/native state plus selected static review; no authored choice or inline movie; no later-source semantic evidence; performed audio unreviewed."
+    },
+    "b0103_close_verification": {
+      "operation": "T7S_B0103_CLOSE",
+      "checked_at": "2026-09-25",
+      "status": "PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW",
+      "episode_ids": [
+        "202003401",
+        "202003402"
+      ],
+      "source_bindings": [
+        {
+          "episode_id": "202003401",
+          "script_id": "scout_092_01_01.json__73aec676bb89afce",
+          "source_sha256": "4205c56b1f4ca4e7c8188440aa7a530f93f2d1ffefd25de0ef9ec2711665ca38",
+          "decoded_sha256": "a674262d4e9ec456bb6e11cdf4d896b797189f07dc942373349073592da78eca",
+          "normalized_sha256": "2ec53bf66d3302b26488cf0049ed280b2e050df01c46cc560aa9f92744367023",
+          "structured_sha256": "2ec53bf66d3302b26488cf0049ed280b2e050df01c46cc560aa9f92744367023",
+          "pages": 58,
+          "text_records": 51,
+          "command_only_pages": 7,
+          "voice_pages": 21,
+          "native_pages_verified": 58
+        },
+        {
+          "episode_id": "202003402",
+          "script_id": "scout_092_01_03.json__c228b1e149183f9d",
+          "source_sha256": "299a3aa3d684c4553f2842418718b8324adf2feeb65378d5d549094f5e7d5fa1",
+          "decoded_sha256": "2e885d022f1c37a9ffc1457807ed58d7214160ce96f5cd830f0c95be95aaed56",
+          "normalized_sha256": "2064cb47e50d28f74e399b1c3256e5ff1c714ab6ce61df0f8ce11e067cc26ba3",
+          "structured_sha256": "2064cb47e50d28f74e399b1c3256e5ff1c714ab6ce61df0f8ce11e067cc26ba3",
+          "pages": 72,
+          "text_records": 67,
+          "command_only_pages": 5,
+          "voice_pages": 41,
+          "native_pages_verified": 72
+        }
+      ],
+      "totals": {
+        "pages": 130,
+        "text_records": 118,
+        "command_only_pages": 12,
+        "voice_pages": 62,
+        "visual_refs": 859
+      },
+      "voice_count_basis": "Distinct dialogue log-order indexes with voice resource; title-only cues additional; no performed audio reviewed.",
+      "native_packet_sha256": "b88fba1b9bbaba32ee88e807069c670bdd39c4cbb6bb2dd28bd57ba52ad2a546",
+      "dialogue_packet_sha256": "a4228a58d0a3987f73a2211540179d0c0ebcab4171ae2bdf57aad580f6ce9a85",
+      "visual_assets": [
+        {
+          "resource": "adv_chara_145_01_01",
+          "body": "adv_chara_145_01.png",
+          "body_sha256": "e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2",
+          "face": "adv_chara_145_01_01.png",
+          "face_sha256": "a8045a092f539cf3ee1987c8dffe76439e50c7c42f382458e945c76fd79decc1",
+          "native_face_offset": [
+            78,
+            63
+          ],
+          "output_sha256": "ea67105eeee5254b86289fbd17a03cc53cc4e36bd71c0b8ce536893aec1fddcf"
+        },
+        {
+          "resource": "adv_chara_145_01_02",
+          "body": "adv_chara_145_01.png",
+          "body_sha256": "e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2",
+          "face": "adv_chara_145_01_02.png",
+          "face_sha256": "4ef3e561795beef0fe996afe979e12e2f638b74317bc24fcd3907c4808bf0b03",
+          "native_face_offset": [
+            78,
+            63
+          ],
+          "output_sha256": "f2e6379db50f250a7c97442d6a1c396d802b2366dff3af87016ffab5f1b86239"
+        },
+        {
+          "resource": "adv_chara_145_01_03",
+          "body": "adv_chara_145_01.png",
+          "body_sha256": "e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2",
+          "face": "adv_chara_145_01_03.png",
+          "face_sha256": "ede176c9694db9d0185ba6b876bb9ce18e45eecf08af097e1f91e0fc95444506",
+          "native_face_offset": [
+            78,
+            63
+          ],
+          "output_sha256": "250c386302617c55e2909ea3ac9359cfdc855db715dd404c12f6c49a1fe09f0f"
+        },
+        {
+          "resource": "adv_chara_145_01_04",
+          "body": "adv_chara_145_01.png",
+          "body_sha256": "e7e4e7d94dadbb80e074cefd5e23ff1fc6cd5fbe2b6f60c39e6ecab367a58bb2",
+          "face": "adv_chara_145_01_04.png",
+          "face_sha256": "c5f3bb014ac84cbde0b7f21531d83425cf1d750b8b42a3b59816c574d03c72b7",
+          "native_face_offset": [
+            78,
+            63
+          ],
+          "output_sha256": "dfcd78341be78a177f8069e49b9d762eeb2cdfaa6380c22f5edb3d00e7f8be64"
+        },
+        {
+          "resource": "adv_chara_002_04_05",
+          "body": "adv_chara_002_04.png",
+          "body_sha256": "938fccd1b7bf1b8316a3ebb3c1da299beba659c3e51c5bcbb7abea4c41bb627a",
+          "face": "adv_chara_002_04_05.png",
+          "face_sha256": "77535cae016ad3013ba64f2189c8a6f49584f928920a5b12c6e3276504ab1ed9",
+          "native_face_offset": [
+            132,
+            64
+          ],
+          "output_sha256": "ad4d2eca13636dd7d71e0e7bd428e67c3d1653fcf6e8b7312ac2dd3e0a3fc950"
+        },
+        {
+          "resource": "adv_chara_003_01_03",
+          "body": "adv_chara_003_01.png",
+          "body_sha256": "cfd3a3dd39c6fd67b6ffc63190a2da76e8d1ef5cedcb8eb895afd2a9bd870064",
+          "face": "adv_chara_003_01_03.png",
+          "face_sha256": "93a9a5a307de8f0bbd274e26dd966320a83ef4b76926376f6747db8801e68482",
+          "native_face_offset": [
+            98,
+            92
+          ],
+          "output_sha256": "bd1adc2a89fc090c3d171b2bd42b4ced859b152dd582cae30d31fadcbaccd7fb"
+        },
+        {
+          "resource": "adv_chara_133_01_04",
+          "body": "adv_chara_133_01.png",
+          "body_sha256": "ee3e5303e0e6ee798401ba7e6e276138169525925f4058c03f1d01ddd73fa7e5",
+          "face": "adv_chara_133_01_04.png",
+          "face_sha256": "ab8241d63657c77008b1e2bc1f25581962a46bff70e9b5223fcce0b6012d4149",
+          "native_face_offset": [
+            142,
+            66
+          ],
+          "output_sha256": "c7f1894752617462576a0a8c73068e76e132f610b955126fb169b9dd8b492df4"
+        },
+        {
+          "resource": "adv_obj_0027",
+          "body": "adv_obj_0027.png",
+          "body_sha256": "5f8f7e302456a74fb0b57ecbf770b18515cfba5aabadb7c692f2db788e7ed322",
+          "output_sha256": "a2cba3e2732a36e1ef0d6f4c3eee4f4072e570784eadafca4020d1b90da2cb93"
+        }
+      ],
+      "coverage_effective_state_sha256": "137b8d91ed0a6f6a40ee549c43f7c1dbec77a8295f3912dc9286640b8c0ce820",
+      "execution_record": "09 Audits and Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md",
+      "boundary": "Complete chapter-local text/native state plus selected static review; no authored choice or inline movie; no later-source semantic evidence; performed audio unreviewed."
+    },
+    "b0104_close_verification": {
+      "operation": "T7S_B0104_CLOSE",
+      "checked_at": "2026-09-25",
+      "status": "PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW",
+      "episode_ids": [
+        "202003501",
+        "202003502"
+      ],
+      "source_bindings": [
+        {
+          "episode_id": "202003501",
+          "script_id": "scout_121_01_01.json__73d48f19cb3dba05",
+          "source_sha256": "a7a484095b6b6624f666b89c66a0db9b1ec7c10bbccd3c3e5baf6706ba40cb4f",
+          "decoded_sha256": "c3c617ed40a6eed14f8f7c003c578917a02d00fa695793e6a34c5574f32b0528",
+          "normalized_sha256": "9418c7b5470a8f7c6c702b850cd1046a8f13805a1db137dddf3ee23bb4065874",
+          "structured_sha256": "9418c7b5470a8f7c6c702b850cd1046a8f13805a1db137dddf3ee23bb4065874",
+          "pages": 42,
+          "text_records": 39,
+          "command_only_pages": 3,
+          "voice_pages": 29,
+          "native_pages_verified": 42
+        },
+        {
+          "episode_id": "202003502",
+          "script_id": "scout_121_01_03.json__1efa5946f6e2df85",
+          "source_sha256": "a3b9a0faaafc51a55ce6cc6fdbf10d856e1eba476824bc3a0c709e5c7a59b2b9",
+          "decoded_sha256": "9c23341ce0603ee571783600abe045a94a6f0bb530101863ad4ba643296644ab",
+          "normalized_sha256": "67ac9c59f6fe4d0cb8105b937781bd8c3dbea8734f280f092c9bbf0547c742b5",
+          "structured_sha256": "67ac9c59f6fe4d0cb8105b937781bd8c3dbea8734f280f092c9bbf0547c742b5",
+          "pages": 69,
+          "text_records": 64,
+          "command_only_pages": 5,
+          "voice_pages": 58,
+          "native_pages_verified": 69
+        }
+      ],
+      "totals": {
+        "pages": 111,
+        "text_records": 103,
+        "command_only_pages": 8,
+        "voice_pages": 87,
+        "visual_refs": 721
+      },
+      "voice_count_basis": "Distinct dialogue log-order indexes with voice resource; title-only cues additional; no performed audio reviewed.",
+      "native_packet_sha256": "70fcb829f6521230aa38c8914119350cc71abb470b592e95f4a54b61eeb2e098",
+      "dialogue_packet_sha256": "294eec296198b4fb7db89d9f31d065c5b6bc5be3b15289d414c8ea8a6c2cff3b",
+      "visual_assets": [
+        {
+          "resource": "adv_chara_146_01_01",
+          "body": "adv_chara_146_01.png",
+          "body_sha256": "46fc3087e9a017bed96eb313d1311e9f939877b7d723a80efa91284489a7c112",
+          "face": "adv_chara_146_01_01.png",
+          "face_sha256": "801a2257357486bc74f1a57b3b5329afed804e5b0b0c8712d5d4c9ad690505fe",
+          "native_face_offset": [
+            81,
+            44
+          ],
+          "output_sha256": "d08286dce366a3675dbb094b32d19834b0e32a730faf6930c3e74bae930d9566"
+        },
+        {
+          "resource": "adv_chara_146_01_02",
+          "body": "adv_chara_146_01.png",
+          "body_sha256": "46fc3087e9a017bed96eb313d1311e9f939877b7d723a80efa91284489a7c112",
+          "face": "adv_chara_146_01_02.png",
+          "face_sha256": "ecf0b8ba7e74f17b5328b6e93c55795db32d7211eceedefe000b38d61f6e4a5b",
+          "native_face_offset": [
+            81,
+            44
+          ],
+          "output_sha256": "79551c4a5c3b39299498d0df479567bf99bf0436e1d75180e6aa314488a55a78"
+        },
+        {
+          "resource": "adv_chara_146_01_03",
+          "body": "adv_chara_146_01.png",
+          "body_sha256": "46fc3087e9a017bed96eb313d1311e9f939877b7d723a80efa91284489a7c112",
+          "face": "adv_chara_146_01_03.png",
+          "face_sha256": "3895f8ae5772a2e74e9e7c99b85b687b881de0b04d752937bd2533942f472b37",
+          "native_face_offset": [
+            81,
+            44
+          ],
+          "output_sha256": "90848e3ee257ebdfd45b59a89121e3670941a0fefd909aed189c99c12593e29f"
+        },
+        {
+          "resource": "adv_chara_005_01_09",
+          "body": "adv_chara_005_01.png",
+          "body_sha256": "5eacc7b48f482d043fd5ebcb64d978a16ea335fd2c83a4b641983d2938444f21",
+          "face": "adv_chara_005_01_09.png",
+          "face_sha256": "a28832f4321bb584428dadca33a32e415d6ad2721e64734cecd4a1fa86eeebd1",
+          "native_face_offset": [
+            76,
+            85
+          ],
+          "output_sha256": "405852b697f2f18672b5747a64b646390ee1704db0dd603652a5d0d0a05746cc"
+        },
+        {
+          "resource": "adv_chara_004_01_05",
+          "body": "adv_chara_004_01.png",
+          "body_sha256": "5d8b60092117906b699d98ccabfc88344ea61f82e9b27a23bec1fa15d0cb65be",
+          "face": "adv_chara_004_01_05.png",
+          "face_sha256": "d33567411d5de61bb7060fa8c50ed1242c479810eafe455f0a1b8106fd7463a4",
+          "native_face_offset": [
+            194,
+            74
+          ],
+          "output_sha256": "54e3487d89e826843cfb32c814eb2a27bd91293fcea2d3a2b9393a5dd9f775bd"
+        }
+      ],
+      "coverage_effective_state_sha256": "912ff29e3197594b146f4eaf3a31285d314317a2387b93f99f88cb35850c6cb6",
+      "execution_record": "09 Audits and Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md",
+      "boundary": "Complete chapter-local text/native state plus selected static review; no authored choice or inline movie; no later-source semantic evidence; performed audio unreviewed."
+    },
+    "b0105_close_verification": {
+      "operation": "T7S_B0105_CLOSE",
+      "checked_at": "2026-09-25",
+      "status": "PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW",
+      "episode_ids": [
+        "202003601",
+        "202003602"
+      ],
+      "source_bindings": [
+        {
+          "episode_id": "202003601",
+          "script_id": "scout_122_01_01.json__762d610266ff8b28",
+          "source_sha256": "52ed04697af7f00507cf09c1993bab8f1d1f08ef65db0f5b29e3b33ba7ccb59c",
+          "decoded_sha256": "bb27554edcc61142e1ab8e6b446d59be809f6e50f9eba614c1e10c7df0bb2c64",
+          "normalized_sha256": "e5e5d3619c567be7af6c9343df30fb009a85553b0352860fa7c25b39927206ff",
+          "structured_sha256": "e5e5d3619c567be7af6c9343df30fb009a85553b0352860fa7c25b39927206ff",
+          "pages": 49,
+          "text_records": 46,
+          "command_only_pages": 3,
+          "voice_pages": 46,
+          "native_pages_verified": 49
+        },
+        {
+          "episode_id": "202003602",
+          "script_id": "scout_122_01_03.json__733d0712033d4864",
+          "source_sha256": "a0204aa4924638f46912781041a30075e27057cd189760c567a5b61d4945a0e0",
+          "decoded_sha256": "b2c52796886008f653b6d1af550ccd4a1dd46bf61d6d653b83a3bde4b0a6498a",
+          "normalized_sha256": "dcb8d27d5becf5a3c6ee8fdbb7ce7f3d0865440a8fe0a721009048f1be8731b7",
+          "structured_sha256": "dcb8d27d5becf5a3c6ee8fdbb7ce7f3d0865440a8fe0a721009048f1be8731b7",
+          "pages": 54,
+          "text_records": 51,
+          "command_only_pages": 3,
+          "voice_pages": 41,
+          "native_pages_verified": 54
+        }
+      ],
+      "totals": {
+        "pages": 103,
+        "text_records": 97,
+        "command_only_pages": 6,
+        "voice_pages": 87,
+        "visual_refs": 686
+      },
+      "voice_count_basis": "Distinct dialogue log-order indexes with voice resource; title-only cues additional; no performed audio reviewed.",
+      "native_packet_sha256": "43798f075ac4a04b4f5be88c22cba2bada7914f8289ab383783c675afed1b41a",
+      "dialogue_packet_sha256": "9e5b2039180dce07df7fa1e4790431cdefa5a294395ecd82b1a0a06d50bd2b9e",
+      "visual_assets": [
+        {
+          "resource": "adv_chara_147_01_01",
+          "body": "adv_chara_147_01.png",
+          "body_sha256": "df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982",
+          "face": "adv_chara_147_01_01.png",
+          "face_sha256": "c97bdaea12f5d9f9bfb81e9ff25f5857cad50a11eb4fa75f0efd392c6f2c6874",
+          "native_face_offset": [
+            209,
+            62
+          ],
+          "output_sha256": "08c669b14f3c489b3460361737a7d4d1e93fadd065a9f55b874701326f3956de"
+        },
+        {
+          "resource": "adv_chara_147_01_03",
+          "body": "adv_chara_147_01.png",
+          "body_sha256": "df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982",
+          "face": "adv_chara_147_01_03.png",
+          "face_sha256": "b425dcb4e4aa81dee126a29a549706faa3ac8ed578ea2a62d61085fb2d4d42e7",
+          "native_face_offset": [
+            209,
+            62
+          ],
+          "output_sha256": "ffc811201455c6317889d113ab65a7851d117424772b55baceecc61ffef2c255"
+        },
+        {
+          "resource": "adv_chara_147_01_04",
+          "body": "adv_chara_147_01.png",
+          "body_sha256": "df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982",
+          "face": "adv_chara_147_01_04.png",
+          "face_sha256": "bbbb497cd064596c0e15191fae552209ae3fb9d3fb25e9f38677876ee95dfcbd",
+          "native_face_offset": [
+            209,
+            62
+          ],
+          "output_sha256": "d59081021329b6f06fd3583c40f5e4ec2e0f0e447708968ec9543615692d5411"
+        },
+        {
+          "resource": "adv_chara_008_01_02",
+          "body": "adv_chara_008_01.png",
+          "body_sha256": "a72bd127faade4229587eff774c6b319fd99e8221290d4cfbd61769441d8afa4",
+          "face": "adv_chara_008_01_02.png",
+          "face_sha256": "1f06820770dbdbe057d0c94542c68d0c825df03dc8ae9887ec18a31cb8ab85c0",
+          "native_face_offset": [
+            166,
+            84
+          ],
+          "output_sha256": "c042e0d18c4dca082a331b7cf20f57a0867e57edfbc9698178628eecf003126d"
+        },
+        {
+          "resource": "adv_obj_0075",
+          "body": "adv_obj_0075.png",
+          "body_sha256": "dd49de5a45d78f980bec89d8239fef3757617283433f1ceee852b61d73607c9b",
+          "output_sha256": "c7397c2ced2075fed5c1b4823ef92bdc9da7612099efedd26dbbdf2227f37bcc"
+        },
+        {
+          "resource": "adv_obj_0076",
+          "body": "adv_obj_0076.png",
+          "body_sha256": "c70c4345e264bddffca115c312a3b8cf2c52c671ade2cd7a4a2f65f63c05536f",
+          "output_sha256": "af83999ceca8970527d738a32dbe0887b4c58bfb2c3be17bdbe7b179f6d9e541"
+        },
+        {
+          "resource": "adv_obj_0077",
+          "body": "adv_obj_0077.png",
+          "body_sha256": "fc024044b72bf06c43abdc8caf8a7535ad53f670d960dea65a7ad5d56f56787e",
+          "output_sha256": "f2f452af304278fc6bbb55182a32f8d4e3f6555f16ebe0af20b7f5a928b04407"
+        }
+      ],
+      "coverage_effective_state_sha256": "5e978302ce4e7f00964f865bfc68965bb4660b58d37d4acacd4e410c28a3b53c",
+      "execution_record": "09 Audits and Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md",
+      "boundary": "Complete chapter-local text/native state plus selected static review; no authored choice or inline movie; no later-source semantic evidence; performed audio unreviewed."
+    },
+    "b0106_close_verification": {
+      "operation": "T7S_B0106_CLOSE",
+      "checked_at": "2026-09-25",
+      "status": "PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW",
+      "episode_ids": [
+        "312200101",
+        "312200102",
+        "312200103"
+      ],
+      "source_bindings": [
+        {
+          "episode_id": "312200101",
+          "script_id": "ing_102001_01.json__e88d17661720a7ec",
+          "source_sha256": "285dcc177b14f73b76fb2d99e8e9533bbb518c4f8ade5a64844c694269ca39b4",
+          "decoded_sha256": "1ea5d0dd99d64c9f297c4c5677721844376f66b0a39569752cb059630890ccda",
+          "normalized_sha256": "c76ff7312012d666a95368602013b3e26848ad21e4658057d5b1492ac11bfdde",
+          "structured_sha256": "c76ff7312012d666a95368602013b3e26848ad21e4658057d5b1492ac11bfdde",
+          "pages": 42,
+          "text_records": 38,
+          "command_only_pages": 4,
+          "voice_pages": 33,
+          "native_pages_verified": 42
+        },
+        {
+          "episode_id": "312200102",
+          "script_id": "ing_102001_02.json__4f48c1bce9742f9e",
+          "source_sha256": "2cba36aa2c37ba07051af6113d22f3ed4135ed528e444d6f66378741a938b3f9",
+          "decoded_sha256": "d961177eeed185b4216f6fda11f43ae4b6c7bbe31ca2f04dfaea1047c96c2dde",
+          "normalized_sha256": "7b6637f72238d013268da1dd69ff7c1a41ac6860845daf7af6e8b8e33c950085",
+          "structured_sha256": "7b6637f72238d013268da1dd69ff7c1a41ac6860845daf7af6e8b8e33c950085",
+          "pages": 54,
+          "text_records": 51,
+          "command_only_pages": 3,
+          "voice_pages": 33,
+          "native_pages_verified": 54
+        },
+        {
+          "episode_id": "312200103",
+          "script_id": "ing_102001_03.json__8ce51bbfb37035f3",
+          "source_sha256": "d6bb55226057fcac056d4e1e17b7791b2d46a23d9ace9ee5d5f2184466a6cd81",
+          "decoded_sha256": "6b07ef4d386a04d01d4a2fc0894ba9a385f07c555e1b06837148ecddeafba693",
+          "normalized_sha256": "1824ce329d8a2adbd5570b38a12b72fdbce02fce38159f801a4352d3a379d867",
+          "structured_sha256": "1824ce329d8a2adbd5570b38a12b72fdbce02fce38159f801a4352d3a379d867",
+          "pages": 78,
+          "text_records": 71,
+          "command_only_pages": 7,
+          "voice_pages": 51,
+          "native_pages_verified": 78
+        }
+      ],
+      "totals": {
+        "pages": 174,
+        "text_records": 160,
+        "command_only_pages": 14,
+        "voice_pages": 117,
+        "visual_refs": 1639
+      },
+      "voice_count_basis": "Distinct dialogue log-order indexes with voice resource; title-only cues additional; no performed audio reviewed.",
+      "native_packet_sha256": "3216cf0aca6efd72487233cfb28341a8e1fd102532d7b9ebefdde1fdbacbe094",
+      "dialogue_packet_sha256": "99a74d2d6c765f5113670f83944e63107148b0b89e5547832dc7e9ebfd61c61b",
+      "visual_assets": [
+        {
+          "resource": "adv_chara_003_02_04",
+          "body": "adv_chara_003_02.png",
+          "body_sha256": "81ca424b3db7ec06f59bdef201d73426c018b984f1b1864b82404efe3b25deb9",
+          "face": "adv_chara_003_02_04.png",
+          "face_sha256": "f8c2fc7bdcb9d87ff516ef86efbbf63740724fe8ad3c958329540dad27631df6",
+<!-- T7S SOURCE LOCK PAYLOAD END -->
