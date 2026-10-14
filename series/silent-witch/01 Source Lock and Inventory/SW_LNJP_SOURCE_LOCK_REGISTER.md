@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.17"
+version: "1.18"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -17,7 +17,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
-locked_units: [V02, V03, V04, AFTER04, V05, V06, V07, V08, V09]
+locked_units: [V02, V03, V04, AFTER04, V05, V06, V07, V08, V09, EXTRA09]
 literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14; V09 COMPLETE_CLOSED_2026-10-14"
 ---
 
@@ -556,3 +556,75 @@ Common limitations: each witness is a supplied reflowable EPUB whose equivalence
 | validation.json | `3008ae829ba2e825a9446353079685b3e21095010ec9d4e339fdcce358d0bce4` |
 
 **Use in the V09 reading.** Twenty-two of the twenty-seven image resources were viewed at the witness’s resolution, including the full jacket after the narrative, whose blurb is illegible. The cover, title page, illustrated contents, store image and S38 were not viewed. The afterword identifies S38 as the V10 preview page; it remains excluded and unviewed. The [V09 reading](../02%20Sequential%20Readings/SW_V09_DEEP_READING.md) cites 215 distinct locators, all present in the element map, and quotes 37 short fragments, each verified in the base text of a cited block. No member was reclassified.
+
+## IX -extra- — `SW-LNJP-EXTRA09`
+
+*Locked 2026-10-14, before any IX -extra- narrative member was rendered for reading.*
+
+- The inspection suppressed the opening text of narrative-length members.
+- It printed the chapter labels from the NCX and the in-book contents, which the companion's entry freeze discloses. The labels include each chapter's placement note.
+- It printed the opening line of the fan-letter notice.
+- One provenance page, S55, was classified by counting fixed words in it. The counted words were 初出, 特典, 店舗 and 書き下ろし; none of its text was printed.
+- The colophon date had been read at V08 closure.
+- The technical-sample receipt and the retained audit's stored samples were not displayed.
+
+| Field | Verified value |
+|---|---|
+| Collection filename | Secrets of the Silent Witch - Volume 09 Extra [Japanese].epub |
+| Bytes / SHA-256 | 31,848,077 / `ec2157d37e9eb301ed6d2e2eebe2adee215c22a354189bed7485ea8485f1c943`; equal to the source-map row and the retained audit. |
+| OPF title / creators | サイレント・ウィッチ IX -extra- 沈黙の魔女の短編集 / 依空 まつり, 藤実 なんな |
+| Publisher / imprint | 株式会社ＫＡＤＯＫＡＷＡ / カドカワBOOKS |
+| Identifier | A UUID only; no store code or ISBN in the OPF. |
+| Electronic publication / revision | Colophon: 2025-06-10, read as text; the normalizer's colophon fields are empty for this markup. The OPF carries an implausible early `dc:date` and a modification date of 2025-06-10, as the source map warned. |
+| Package form | A converted EPUB 2 witness: root `content.opf`, calibre 8.4.0 as book producer, a Sigil 2.4.2 marker, a calibre cover wrapper at the root, an NCX and no navigation document. 59 members reference a reader-specific script, `js/kobo.js`, that is absent from the archive. The `mimetype` member is first, uncompressed and correct; the retained audit agrees. |
+| Archive | 109 members, CRC pass. 106 manifest resources; 60 XHTML documents, 59 declaring Japanese and the calibre wrapper English; 2 stylesheets; 176 local references resolved, none external; 59 dangling script references counted; 43 images decoded. |
+| Navigation | No EPUB navigation document; NCX 15 entries; the in-book linked contents 12. |
+| Publisher preview | None; the retained audit lists no promotional section. |
+
+**Driver revision.** The generalized driver was revised a second time, for this witness only. Two changes were made:
+
+- A missing EPUB navigation document now yields no navigation entries instead of a failure.
+- Script references whose target is absent from the archive are counted and recorded as a limitation instead of failing; no text or image depends on them.
+
+Earlier packages keep the driver copy sealed inside them and are unaffected.
+
+**Spine and admission classes.** Paths share the prefix `item/xhtml/` except S01.
+
+| Spine | Member(s) | Class / admission |
+|---|---|---|
+| 1 | titlepage.xhtml (root) | Calibre cover wrapper; source-identifying. |
+| 2 | p-cover | Source-identifying cover. |
+| 3–4 | p-fmatter-001, 002 | Colour frontispieces; visual channel. |
+| 5 | p-titlepage | Source-identifying title page. |
+| 6 | p-caution | Publisher notice; excluded. |
+| 7 | p-toc-001 | Linked contents; source-identifying. |
+| 8 | p-001 | Image-only page before the design materials; visual channel, to be confirmed on viewing. |
+| 9–38 | p-002 to p-031 | Thirty image-only pages of character design materials; in-volume reference paratext. |
+| 39 | p-032 | Image-only collection title page; narrative illustration. |
+| 40 | p-033 | Prologue. |
+| 41 | p-034 | Image-only short-story-collection heading; narrative illustration. |
+| 42–48 | p-035, p-036, p-037 in two split members, p-038 to p-040 | Chapters one to five. |
+| 49 | p-041 | Image-only epilogue heading; narrative illustration. |
+| 50 | p-042 | Epilogue text. |
+| 51 | p-043 | Image-only page; narrative illustration, to be confirmed on viewing. |
+| 52 | p-044 | Image-only secret-episode heading; narrative illustration. |
+| 53 | p-045 | In-volume supplemental narrative, the secret episode. |
+| 54 | p-046 | Afterword. |
+| 55 | p-047 | Provenance list of the collected stories; paratext, read after the narrative. |
+| 56 | p-048 | Fan-letter notice; excluded. |
+| 57 | p-allcover-001 | Full jacket; not viewed before reading. |
+| 58 | p-colophon | Edition paratext. |
+| 59–60 | p-colophon2, p-bookwalker | Rights notice and store image; excluded. |
+
+**Normalization.** 15,885 body elements and 5,918 blocks round-tripped. The narrative projection holds 5,638 blocks and 154,075 characters, excluding line delimiters. 1,104 ruby elements are retained. Technical samples: S40:E000156, S40:E000017, S42:E000004, S50:E000352, S53:E000537. A second build reproduced the package SHA-256 with the twice-revised driver.
+
+| Local object | SHA-256 |
+|---|---|
+| SW-LNJP-EXTRA09_FIDELITY_LOCATORS_V1.zip; 33,196,194 bytes | `879b6dde8db56125f1289c73f91a33b1a8d9fd590a9b9d1e235ef6207219dc25` |
+| package-manifest.json | `de0ef4e2a9cf6d96d54c0bc5ab420fe009d773ed9e1c936a3a99253f40e4d434` |
+| normalizer.py (generalized driver, second revision) | `6500076874627f9e0739d9dd76e6c49e33667f7c88f72db42e58b536ca3371b5` |
+| volume-config.json | `e696cdf972d668dac13af99b97b76526a7a3b125e405a6c4d9968eaa3110fe20` |
+| narrative-base.txt | `4a550e5cf2989b097da6198bb01de51e6db40c99d23762be755da0d236ba76ce` |
+| block-map.jsonl | `d88429177c976cdca35f78c9264b0d3a21bec2102a1e3c13c529b54e1099f6e9` |
+| element-locators.jsonl | `33427aee87823ef3635bd17028001051191795289f1c80e1178ac5884116861c` |
+| validation.json | `c33c6b70cae2af8b876939fcb7f619139b6ba90f8abaf33edc37158dc684d793` |
