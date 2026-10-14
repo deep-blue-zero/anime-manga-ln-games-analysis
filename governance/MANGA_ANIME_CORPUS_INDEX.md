@@ -49,7 +49,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
 - [Shokugeki no Soma](../series/shokugeki-no-soma/) — `series/shokugeki-no-soma/`
 - [Shuukura](../series/shuukura/) — `series/shuukura/`
-- [Silent Witch: Secrets of the Silent Witch](../series/silent-witch/) — `series/silent-witch/` — Owner-accepted Japanese-LN INITIAL foundation; V01 byte-locked with locally retained, reverified locators. Japanese LN V01 to V06 and the companion IV -after- read in full and closed; continuous sequential run through all supplied Japanese works authorized 2026-10-14 and active; master ledger reconciled; high-water mark V06; V07 next. Primary and deterministic derived evidence remain outside Git.
+- [Silent Witch: Secrets of the Silent Witch](../series/silent-witch/) — `series/silent-witch/` — Owner-accepted Japanese-LN INITIAL foundation; V01 byte-locked with locally retained, reverified locators. Japanese LN V01 to V07 and the companion IV -after- read in full and closed; continuous sequential run through all supplied Japanese works authorized 2026-10-14 and active; master ledger reconciled; high-water mark V07; V08 next. Primary and deterministic derived evidence remain outside Git.
 - [Solo Leveling](../series/solo-leveling/) — `series/solo-leveling/`
 - [Sound! Euphonium](../series/sound-euphonium/) — `series/sound-euphonium/`
 - [THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)](../series/the-idolmaster-cinderella-girls-2015-anime/) — `series/the-idolmaster-cinderella-girls-2015-anime/`
