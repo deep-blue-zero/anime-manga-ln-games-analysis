@@ -5,11 +5,11 @@ artifact_type: source_scope_inventory
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.8"
+version: "1.9"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Public-safe collection inventory, V01 technical lock, local-collection fingerprint verification, witness lanes, exclusions and recovery"
-source_boundary: "Accepted foundation; Japanese LN V01 to V04 read and closed; IV -after- locked and admitted after V04, not yet read; no other unit in any lane analyzed."
+source_boundary: "Accepted foundation; Japanese LN V01 to V04 and the companion IV -after- read and closed; no other unit in any lane analyzed."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md"
 supersedes: []
@@ -59,7 +59,7 @@ The owner authorized a continuous run through every supplied work; the [current 
 | Contents | Prologue, five interludes, four cases, epilogue, secret episode, character reference, afterword; titles only. | No label names a post-V04 event. |
 | Story level | Not checkable before reading without reading. | Each story’s diegetic markers checked in the reading’s section 10; a story outside the interval, or one presupposing an unread mainline event, is held out of the prospective ledger until that mainline unit closes. |
 
-Pre-reading exposure from the retained audit’s stored samples is disclosed in the companion’s entry freeze.
+Pre-reading exposure from the retained audit’s stored samples is disclosed in the companion’s entry freeze. IV -after- was read in full and closed on 2026-10-14. The story-level check in its reading found every case inside the interval, five retrospective scenes set earlier, and nothing to hold out. Lane high-water mark AFTER04; V05 follows. Its afterword calls the book a “4.5” and announces V05 as the winter-break arc, a placement lead only.
 
 Disclosure-order note for future admission decisions: this edition’s colour frontispieces and in-book character card disclose the heroine’s name and two later scenes before the prologue. Edition-level paratext can therefore pre-empt narrative withholding, and future companion audits should check image-only front matter as well as prose.
 
@@ -117,7 +117,7 @@ Each stable ID resolves through the supplied source folder and Drive's file-ID r
 | Lane | Identity / continuity | Current analytical admission |
 |---|---|---|
 | Numbered published Japanese LN | `SW-LNJP-V<NN>`; intended I–XII primary track | DESIGNATED_PRIMARY_TRACK; V01 CLOSED 2026-10-14. V02–V12 admitted one at a time under the 2026-10-14 continuous run; V02 to V04 CLOSED 2026-10-14. Lane high-water mark V04. |
-| Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | AFTER04 locked and admitted after V04 (2026-10-14); the others INVENTORIED_UNADMITTED; inside the continuous run at the admission points the corpus map records; not fractional numbered volumes. |
+| Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | AFTER04 read and closed after V04 (2026-10-14); the others INVENTORIED_UNADMITTED; inside the continuous run at the admission points the corpus map records; not fractional numbered volumes. |
 | Original web main | [N8356GA](https://ncode.syosetu.com/n8356ga/), サイレント・ウィッチ | METADATA_RECONNOITERED_UNADMITTED; separate web witness, no episode ingestion/comparison. |
 | Web gaiden | [N5194GP](https://ncode.syosetu.com/n5194gp/), サイレント・ウィッチ（外伝） | METADATA_RECONNOITERED_UNADMITTED; distinct supplemental web corpus, contains later/end-state disclosures. |
 | Related Rosalie web work | [N8978FV](https://ncode.syosetu.com/n8978fv/), 記憶喪失軍医ロザリー・ヴェルデの考察 | RELATED_SHARED_WORLD_UNADMITTED; exact LN relationship not textually adjudicated. |

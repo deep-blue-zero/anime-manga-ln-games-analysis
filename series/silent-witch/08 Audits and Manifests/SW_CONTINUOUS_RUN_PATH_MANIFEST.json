@@ -156,6 +156,53 @@
           "series/silent-witch/.repository/series-registry.json"
         ]
       }
+    },
+    {
+      "unit": "AFTER04",
+      "unit_class": "supplemental_companion",
+      "witness_id": "SW-LNJP-AFTER04",
+      "source_epub_sha256": "101a1341d139a593c284010da5fb83f524183528ff4199d563346cb3254fc24a",
+      "derivative_package_sha256": "2b79b5d0db643b4999483ca2e43fc57fe9ceb03fdf6e21830a6582c81c6876e6",
+      "entry_record_sha256": "f8b7f36a3a0bcb5170e4463cbc5c1c637ceb3e33a13e970472092c017420f871",
+      "entry_freeze": "SW-FR-AFTER04-ENTRY",
+      "exit_freeze": "SW-FR-AFTER04-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_AFTER04_DEEP_READING.md",
+      "observations": "SW-E-LNJP-AFTER04-001..166",
+      "cited_locators_verified": 226,
+      "quoted_fragments_verified": 51,
+      "ledger_records_added": {
+        "SW-S": 18,
+        "SW-R": 15,
+        "SW-K": 9,
+        "SW-W": 8,
+        "SW-C": 4,
+        "SW-CR": 40,
+        "SW-P": 4,
+        "SW-F": 4,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "4ebee6ac262765512c29d234bdefc66cd59214ed",
+      "placement": "After V04 and before V05; story-level check: every case inside the festival-to-winter-break interval, five retrospective scenes, nothing held out",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_AFTER04_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
     }
   ],
   "scope_notes": [
