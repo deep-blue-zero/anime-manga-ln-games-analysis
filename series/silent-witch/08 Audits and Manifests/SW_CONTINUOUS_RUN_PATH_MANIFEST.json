@@ -1,0 +1,79 @@
+{
+  "schema": "silent-witch/continuous-run-path-manifest/v1",
+  "artifact_id": "SW_CONTINUOUS_RUN_PATH_MANIFEST",
+  "artifact_type": "sequential_transaction_path_manifest",
+  "generation": "V1",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "series_id": "silent-witch",
+  "stable_branch": "series/silent-witch",
+  "owner_instruction": "2026-10-14: proceed with V02 and sequential deep readings until all works are read, and all artifacts per the synthesis architecture are completed",
+  "run_mode": "continuous_sequential",
+  "terminal_boundary": "V12 plus the four supplied companions at their recorded admission points, then the synthesis products the architecture requires",
+  "standing_exclusions": [
+    "No upload of raw EPUBs, normalized text, locator maps, images or derivative archives to Git or Drive.",
+    "No merge into main by this author.",
+    "Web main, web gaiden, the Rosalie web work, adaptations, translations and commentary are outside the run."
+  ],
+  "authorization_commit": "c0a6deac15247846760cf408d3dfe67bc2dd5437",
+  "branch_head_before_run": "9c87c5400a9ab7a04e60681d8c8177e1f33af0aa",
+  "canonical_entrypoint": "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "source_lock_register": "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+  "derivative_retention": "LOCAL_ONLY_OWNER_REQUEST",
+  "drive_upload_performed": false,
+  "units": [
+    {
+      "unit": "V02",
+      "witness_id": "SW-LNJP-V02",
+      "source_epub_sha256": "aafafc8ff6ea9c722f007e3f559364ca25e1d3c61addb747466ea986f8864ab6",
+      "derivative_package_sha256": "61404a18dfb6fd197c33aef2a4c0aeda1df9b47868116930128174dd4ee6e9bf",
+      "entry_record_sha256": "79b3bc022ccf7b8e0e05520471b2930694476f8680bb993535f25da892eba80f",
+      "entry_freeze": "SW-FR-V02-ENTRY",
+      "exit_freeze": "SW-FR-V02-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V02_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V02-001..120",
+      "cited_locators_verified": 479,
+      "quoted_fragments_verified": 29,
+      "ledger_records_added": {
+        "SW-S": 20,
+        "SW-R": 20,
+        "SW-K": 14,
+        "SW-W": 16,
+        "SW-C": 8,
+        "SW-CR": 18,
+        "SW-P": 8,
+        "SW-F": 7,
+        "SW-RD": 4,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V02_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    }
+  ],
+  "scope_notes": [
+    "One manifest for the whole run; each unit appends one entry in its closure commit.",
+    "Existing files receive targeted patches; prior bytes and history preserved.",
+    "Verbatim Japanese is limited to short phrase-level fragments, each verified against the sealed block map.",
+    "Housekeeping and character outputs are not author-written; no main merge is performed."
+  ]
+}

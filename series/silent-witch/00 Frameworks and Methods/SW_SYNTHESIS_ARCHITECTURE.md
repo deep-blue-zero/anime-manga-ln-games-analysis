@@ -5,11 +5,11 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.4"
+version: "1.5"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review recorded"
-source_boundary: "Accepted foundation; Japanese LN V01 read and closed under it; first closed-volume review based on V01 only."
+source_boundary: "Accepted foundation; Japanese LN V01 and V02 read and closed under it; first closed-volume review based on V01 only; V02 note recorded."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md"
 supersedes: []
@@ -53,6 +53,8 @@ Git holds interpretation, methods, public-safe routing, state, and provenance. G
 | V01 foundation/gate report | Owner acceptance, semantic foundation/day-one checks, the historical CLOSED hold and the V01-only gate opening with its entering freeze. |
 | V01 deep reading | Source-bearing V01 observations SW-E-LNJP-V01-001 to 132, coverage, synopsis, close reading and the exit freeze; frozen at its source boundary. |
 | V01 reading path manifest | Exact path set and state of the V01 transaction. |
+| Later deep readings | One per closed unit, `SW_V<NN>_DEEP_READING.md`, each owning its observations and freezes; V02 closed. |
+| Continuous run path manifest | Run identity and one transaction entry per unit closed under the 2026-10-14 run. |
 | Master longitudinal ledger | Sole pre-split cumulative analytical state, claims/revisions, predictions, and local readiness. |
 | Bootstrap report | Historical design rationale, observed precedents, accesses, checks, limitations, and handoff gates. |
 | Bootstrap path manifest | Exact approved authored path set and bootstrap-generation identity. |
@@ -186,6 +188,8 @@ Performed after V01 closed, on V01 evidence only, as this section requires.
 | Withdrawal, coping and past harm without diagnosis | MONITOR, within SW-S and SW-C | Unanticipated weight of associative evidence; must stay non-diagnostic and source-bounded. |
 
 *Lifecycle.* No responsibility, ledger, dependency or completion gate changes. The architecture remains INITIAL; this review records routes and decisions without amending the design.
+
+*V02 note, 2026-10-14.* V02 was reconciled into the single ledger with eighteen revision events and no strain on any section; no review trigger was met, so no review was performed. Section 7 domains stay as decided at V01, with two observations for the next review: disclosure and knowledge now carries a resolved anonymity, a cluster of unexplained identity details around Felix and a concealed assassination attempt; and loyalty, deception and self-authorship gained an antagonist-friend and a concept of duty.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 

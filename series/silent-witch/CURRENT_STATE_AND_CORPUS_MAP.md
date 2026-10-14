@@ -5,11 +5,11 @@ artifact_type: corpus_map
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.5"
+version: "1.6"
 last_updated: "2026-10-14"
 status: canonical
-scope: "Single canonical first-read surface; accepted foundation, V01 closed; continuous sequential run authorized 2026-10-14 through every supplied Japanese LN work and the architecture’s synthesis products"
-source_boundary: "Japanese LN V01 read in full and closed; no other numbered volume, companion, web or adaptation witness analyzed."
+scope: "Single canonical first-read surface; accepted foundation, V01 and V02 closed; continuous sequential run authorized 2026-10-14 through every supplied Japanese LN work and the architecture’s synthesis products"
+source_boundary: "Japanese LN V01 and V02 read in full and closed; no other numbered volume, companion, web or adaptation witness analyzed."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
 supersedes: []
@@ -17,8 +17,8 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 architecture_lifecycle: INITIAL
-analytical_phase: CONTINUOUS_RUN_ACTIVE_V02_IN_PROGRESS
-committed_high_water_mark: V01
+analytical_phase: CONTINUOUS_RUN_ACTIVE_V02_CLOSED_V03_NEXT
+committed_high_water_mark: V02
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
@@ -39,10 +39,12 @@ project_initialization:
   lock_state_note: OPEN because the foundation gate is satisfied; the V01-only single operation is complete; the owner’s 2026-10-14 continuous-run instruction now authorizes the units and products named under sequential_execution
   run_authorization: OWNER_INSTRUCTION_2026-10-14_CONTINUOUS_THROUGH_ALL_SUPPLIED_WORKS_AND_SYNTHESIS
   substantive_sequential_findings_at_bootstrap: false
-  numbered_volumes_analyzed: [V01]
-  frozen_volumes: [V01]
+  numbered_volumes_analyzed: [V01, V02]
+  frozen_volumes: [V01, V02]
   v01_deep_reading: 02 Sequential Readings/SW_V01_DEEP_READING.md
-  committed_high_water_mark: V01
+  v02_deep_reading: 02 Sequential Readings/SW_V02_DEEP_READING.md
+  run_path_manifest: 08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json
+  committed_high_water_mark: V02
   owner_acceptance: ACCEPTED
   acceptance_boundary: explicit owner acceptance of SW_BOOTSTRAP_V1 in the bootstrap task
   v01_source_lock: 01 Source Lock and Inventory/SW_LNJP_V01_SOURCE_LOCK.md
@@ -50,14 +52,14 @@ project_initialization:
   v01_locator_recovery: ORIGINAL_PACKAGE_RECOVERED_AND_VERIFIED_2026-10-14
   sequential_gate_hold: RELEASED_FOR_V01_ONLY_BY_OWNER_INSTRUCTION_2026-10-13
   source_lock_register: 01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md
-  next_permitted_operation: V02 atomic transaction under the active continuous run
+  next_permitted_operation: V03 atomic transaction under the active continuous run
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V02
   terminal_boundary: "V12 plus the four supplied companions at their recorded admission points, then the synthesis products the architecture requires"
-  committed_high_water_mark: V01
-  next_candidate_operation: V02
+  committed_high_water_mark: V02
+  next_candidate_operation: V03
   next_candidate_authorization: AUTHORIZED_BY_ACTIVE_RUN
   confirmation_between_units: false
   run_state: active
@@ -68,7 +70,7 @@ sequential_execution:
 
 This is the single current entrypoint for **Silent Witch: Secrets of the Silent Witch**, Japanese **サイレント・ウィッチ 沈黙の魔女の隠しごと**, by **依空まつり**. Routing aliases: Silent Witch, Secrets of the Silent Witch, サイレント・ウィッチ. Stable root and continuing branch: `series/silent-witch`.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN, for Japanese LN V01 only, by the owner’s 2026-10-13 resume instruction.** The earlier owner-directed hold is preserved as history in the [gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md). Japanese LN V01 is byte-locked; its original local locator package was recovered and reverified before the gate opened. Narrative high-water mark at gate opening was PRE_V01. **Committed high-water mark now: V01.** The [V01 deep reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md) covers the whole volume and freezes its exit state as `SW-FR-V01-EXIT`; the [master ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) carries the reconciled cumulative state. That single operation is complete. **On 2026-10-14 the owner authorized a continuous sequential run**: “Proceed with V02 and sequential deep readings until all works are read, and all artifacts per the synthesis architecture are completed.” The [run record](#continuous-run-authorized-2026-10-14) below states how that instruction is resolved into a terminal boundary. Web witnesses and adaptations remain outside it. No character model or literary synthesis exists yet.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN, for Japanese LN V01 only, by the owner’s 2026-10-13 resume instruction.** The earlier owner-directed hold is preserved as history in the [gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md). Japanese LN V01 is byte-locked; its original local locator package was recovered and reverified before the gate opened. Narrative high-water mark at gate opening was PRE_V01. **Committed high-water mark now: V02.** The [V01 deep reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md) covers the whole volume and freezes its exit state as `SW-FR-V01-EXIT`; the [master ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) carries the reconciled cumulative state. That single operation is complete. **On 2026-10-14 the owner authorized a continuous sequential run**: “Proceed with V02 and sequential deep readings until all works are read, and all artifacts per the synthesis architecture are completed.” The [run record](#continuous-run-authorized-2026-10-14) below states how that instruction is resolved into a terminal boundary. Web witnesses and adaptations remain outside it. No character model or literary synthesis exists yet.
 
 ## Authority and current work
 
@@ -91,7 +93,9 @@ The owner explicitly accepted the ten-file V1 bootstrap. Its paired method/archi
 | [V01 reading path manifest](08%20Audits%20and%20Manifests/SW_V01_READING_PATH_MANIFEST.json) | Exact path set and state of the V01 gate-opening and closure transaction. |
 | [V01 named-subject editorial audit](08%20Audits%20and%20Manifests/SW_V01_NAMED_SUBJECT_EDITORIAL_AUDIT.md) | Bounded referential-clarity repair of the V01 reading, version 1.1, with one erratum; no claim, locator or freeze changed. |
 | [Character reconstruction method](00%20Frameworks%20and%20Methods/SW_CHARACTER_RECONSTRUCTION_METHOD.md) | Future state/domain models and noncircular validation; V01 evidence reviews recorded in the ledger; no model created. |
-| [Master longitudinal ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) | Sole cumulative home; V01 records in all nine typed sections. |
+| [V02 deep reading](02%20Sequential%20Readings/SW_V02_DEEP_READING.md) | Complete Japanese-primary V02 reading: coverage, synopsis, close reading, observations 001–120, claim revisions, open questions, exit freeze. Frozen at V02. |
+| [Continuous run path manifest](08%20Audits%20and%20Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json) | Run identity and one transaction entry per unit closed under it. |
+| [Master longitudinal ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) | Sole cumulative home; V01 and V02 records in all nine typed sections, with eighteen revision events. |
 | [Volume reading template](00%20Frameworks%20and%20Methods/SW_VOLUME_READING_TEMPLATE.md) | Reusable deep-reading contract; explicitly not V01. |
 | [Bootstrap report](08%20Audits%20and%20Manifests/SW_BOOTSTRAP_REPORT.md) | Design precedents, actual accesses/checks, limitations and acceptance gates. |
 | [Exact authored manifest](08%20Audits%20and%20Manifests/SW_BOOTSTRAP_PATH_MANIFEST.json) | Ten-path staging allowlist and bootstrap identity. |
@@ -126,7 +130,7 @@ The historical bootstrap report/manifest preserve the authorship-time state. The
 
 ## Next permitted operation
 
-**The V02 atomic transaction, under the continuous run recorded below.** Each later unit follows without a new instruction once its predecessor is committed and published through the full audit sequence.
+**The V03 atomic transaction, under the continuous run recorded below.** V02 is closed: the [V02 deep reading](02%20Sequential%20Readings/SW_V02_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V02-EXIT`, and the ledger is reconciled. Each later unit follows without a new instruction once its predecessor is committed and published through the full audit sequence.
 
 ### Continuous run, authorized 2026-10-14
 
