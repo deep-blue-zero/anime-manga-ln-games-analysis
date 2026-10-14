@@ -4,7 +4,7 @@
   "artifact_type": "logical_entity_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.1",
+  "version": "1.2",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -12,13 +12,13 @@
   "do_not_use_as_literary_evidence": true,
   "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
   "current_owner_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 265 complete i-n-g primary documents / T7S_B0080–T7S_B0176; no other non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 268 complete i-n-g primary documents / T7S_B0080–T7S_B0177; no other non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-    "physical_bytes": 32708,
-    "physical_sha256": "652dba399757a8f8f535f5294822aa91f6db3478d7a35935b0abc37e3067a7ae",
+    "physical_bytes": 33146,
+    "physical_sha256": "b0d27cca8722154424f1d6e81a06d681379fef4766053f9e0c4c6165f97dc2ce",
     "logical_prefix_bytes": 7454,
-    "logical_prefix_sha256": "8f3458cd49e822599d42e3062b3f31b575f46fdf5901453ffba5cf5707a3cecf",
+    "logical_prefix_sha256": "5d3ee183d63b3a32d33ff7f0ea5aa4b00a0ac143c2af7e506d79cf42df65a073",
     "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
   },
   "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_ENTITY_STATE_COMPONENT_003",
-      "physical_bytes": 176187,
-      "physical_sha256": "4e20417f52b53b146926454f1d5b7b3a9f0c269e4bc31959dce978e9ee2cc173",
+      "physical_bytes": 193766,
+      "physical_sha256": "68f1cc8206b03ea0c9b7d9538f5263dae8e3134b224ebf0f3cf6b7ee145a6440",
       "payload_offset_bytes": 711,
-      "payload_bytes": 175438,
-      "payload_sha256": "b4c3b799bf138ed9bf2f584d899f6391d6f0e98e2fc40f859e682a03cf6ae9b7",
+      "payload_bytes": 193017,
+      "payload_sha256": "843e5d080e076f2d6cbce2eb350e1df7eb7caa993f443f4ae98a097a0f344276",
       "preserved_original_interval": [
         829500,
         990668
@@ -73,11 +73,11 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1005254,
-  "logical_sha256": "5e7e18da64ed39d23258e270a615f97b67837645d72337ddb23f2e07f927722a",
+  "logical_bytes": 1022833,
+  "logical_sha256": "4a606d18cdbdfbce7a48530b9eb16a5162cccb47cce9b04b90469d93a1769f90",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "last_source_high_water": "T7S_B0176",
+  "last_source_high_water": "T7S_B0177",
   "storage_transition": {
     "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
     "date": "2026-10-13",
@@ -816,17 +816,23 @@
       "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "component_anchor": "b0176-reciprocal-caution-and-shared-protection",
       "heading": "B0176 reciprocal caution and shared protection"
+    },
+    {
+      "original_anchor": "b0177-family-taste-and-the-work-of-making-another-home",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0177-family-taste-and-the-work-of-making-another-home",
+      "heading": "B0177 family taste and the work of making another home"
     }
   ],
   "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent.",
   "latest_logical_append": {
-    "source_high_water": "T7S_B0176",
+    "source_high_water": "T7S_B0177",
     "date": "2026-10-13",
-    "logical_before_sha256": "1c5357d11925cec49dd081fe50998907bbe48c6f3ddb9b85576962d091484dbe",
-    "logical_after_sha256": "5e7e18da64ed39d23258e270a615f97b67837645d72337ddb23f2e07f927722a",
-    "addition_bytes": 14270,
-    "addition_sha256": "1d60d2ec67bda51e673524a6cbb5a7ec47611ea05a8eb24ba1f048501e517edf",
-    "unchanged_older_body_sha256": "7c708902e9a1d23fcedd4864900532f842497d59a0887b30bb3175c9d2c8907f",
+    "logical_before_sha256": "5e7e18da64ed39d23258e270a615f97b67837645d72337ddb23f2e07f927722a",
+    "logical_after_sha256": "4a606d18cdbdfbce7a48530b9eb16a5162cccb47cce9b04b90469d93a1769f90",
+    "addition_bytes": 17579,
+    "addition_sha256": "89c19f5c6fd75a3c1cc6da4d5f4c1632d87674aa9cedeb6cf04492b68f36873e",
+    "unchanged_older_body_sha256": "cb425456a5af55843ad045fa57c09523fec041e1c7e7c15daa815d59dbc9dc8a",
     "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }

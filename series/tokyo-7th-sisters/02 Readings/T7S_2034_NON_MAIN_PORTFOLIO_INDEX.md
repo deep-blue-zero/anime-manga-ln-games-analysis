@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.77"
+version: "2.78"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and its audit retain their completed boundaries. The active [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed 17 source blocks / 51 episodes; i-n-g coverage is 265/280 episodes across 97 chapters, with 15 i-n-g episodes remaining. The next authorized but unread chapter is `301490` / **有栖家の料理番** / 有栖シラユキ, episodes `612203401 / 612203402 / 612203403`, assigned B0177. Supplemental, multimodal, character and era-release obligations remain active.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The historical [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and its audit retain their completed boundaries. The active [remaining-2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed 18 source blocks / 54 episodes; i-n-g coverage is 268/280 episodes across 98 chapters, with 12 i-n-g episodes remaining. The next authorized but unread chapter is `301500` / **追い風のベクトル** / 越前ムラサキ, episodes `612203501 / 612203502 / 612203503`, assigned B0178. Supplemental, multimodal, character and era-release obligations remain active.
 
 ## Closed first i-n-g tranche
 
@@ -162,3 +162,4 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The histor
 | [T7S_B0174](T7S_B0174_DEEP_READING.md) | `301460` / 三森マツリ / アイドルファンタジー777 ～そして伝説へ～ | `612203101 / 612203102 / 612203103` | `COMPLETE_BOUNDED` |
 | [T7S_B0175](T7S_B0175_DEEP_READING.md) | `301470` / 前園リシュリ / リシュリママの子離れ | `612203201 / 612203202 / 612203203` | `COMPLETE_BOUNDED` |
 | [T7S_B0176](T7S_B0176_DEEP_READING.md) | `301480` / 夜舞サヲリ / たまには誰も傷つかない一日 | `612203301 / 612203302 / 612203303` | `COMPLETE_BOUNDED` |
+| [T7S_B0177](T7S_B0177_DEEP_READING.md) | `301490` / 有栖シラユキ / 有栖家の料理番 | `612203401 / 612203402 / 612203403` | `COMPLETE_BOUNDED` |

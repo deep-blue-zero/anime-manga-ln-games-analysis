@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.77"
+version: "11.78"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 265 complete i-n-g primary documents / T7S_B0080–T7S_B0176; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 268 complete i-n-g primary documents / T7S_B0080–T7S_B0177; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-13
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 964`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1144`; `last_closed_block = T7S_B0176`. The admitted horizon contains 500 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 265 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 984`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1168`; `last_closed_block = T7S_B0177`. The admitted horizon contains 503 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 268 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3315,3 +3315,61 @@ Entering B0175 plus lossless storage head `9924be336d7cf80222edd1dd38b208ef9777d
 | `EDGE-1151` | `FAILED_POOL_RESCUE_TO_SHARED_HAPPINESS_CODA` | `019`→`020`, C:P133–146; reassurance/play/laughter meet persistent mishap. No disappearance of danger or harm-free whole day. |
 
 Current WORLD/THREAD pools remain25/47; no body-transfer law, clinic standard or total chapter order is added. B0041 possession and B0138 grief retain their own frames; comparison supplies no newly dated causal succession. `AV-0123` binds actual static review and preserves unlistened audio/unobserved runtime. Full2034 release remains ACTIVE/IN_PROGRESS;2053 blocked.
+
+## B0177 family taste, distributed work and another home
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.82. [B0177](../02%20Readings/T7S_B0177_DEEP_READING.md) owns complete chapter301490/family200340 reconstruction and interpretation: A=`612203401` / `ing3_102034_01.json__dcde77651c668cbc`, P0–67; B=`612203402` / `ing3_102034_02.json__73936dd753ffab79`, P0–96; C=`612203403` / `ing3_102034_03.json__ea11f48607d772d4`, P0–84. All document_ref=primary, inclusive zero-based page/log order; wording pointer /Pages/N/TextArea/Dialogue. Source-order1160–1162 supplies a local envelope, not a total calendar.
+
+Entering B0176/d558b089, source-lock12.81 SHA `659e10df13a68731c986bdaef8e8ce7f1da4f984663f51ca5da2b4ed191abafd`; prospective `51058de853a78676fe8d8d14d39c90fbc5cd7ccc0c177b03150e08b20635c216`; receipt `2cac31a7536829330817c913542d32a676dfcd55435b95928407d3c2bad9ac9a`. Complete manifest-bound entity state was frozen before extraction/review. The automatic1f6ef268 execution reconciliation preserves the entire T7S subtree, prior source horizons and frozen prospective predecessor.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0177-001` | Hungry Player's delayed lunch prompts Musubi/Miwako's caution about an example to children; Shirayuki mistakes it for anger at her, and they clarify/apologize. | A:P2–15; `KNOW-0738`. Recipient's interpretation is corrected; no diagnosis, heard dialect or universal adult infallibility. |
+| `EV-B0177-002` | Shirayuki shares plums that she attributes to her mother's preparation/occasional mailing; Miwako reports prior tasting, Player/Musubi praise them and the child celebrates their family taste. | A:P16–25; `KNOW-0739`. Attributed mother route `IDENTITY-0102`/`CHAR-0084`; no pictured/directly witnessed mother, exact name or objective national ranking. |
+| `EV-B0177-003` | Miwako arranges a conversation away from Shirayuki, worries about heavy plum consumption/nutrition and considers family taste away from home; Musubi worries reduced stock, while Miwako/Player appraise sharing/pleasure. | A:P27–53; `KNOW-0740`–`0741`. Private access and differing appraisals; no medical assessment or one omniscient motive. |
+| `EV-B0177-004` | Helpers propose recreating family food; Player invites Shirayuki to advise through remembered taste, and she explicitly wants the meal. | A:P54–66; `KNOW-0742`. Local wish/assent, not knowledge of all private concerns or accomplished cooking. A66 joint cooks remain collective. |
+| `EV-B0177-005` | Miwako's regional internet recipe, Musubi's cutting questions and Player's reported boiling-over frame the first effort, encouraged by Shirayuki. | B:P1–4/9–14; `KNOW-0743`. Cooks' confidence and reported work; no observed complete cooking or universal competence. |
+| `EV-B0177-006` | Shirayuki calls the first dish delicious but unlike home. Helpers are disappointed; she appreciates the effort/wants more and denies forced eating when Player asks. | B:P9–23; `KNOW-0744`. Quality, gratitude and missed fidelity are distinct; no hidden dislike or independently sensed taste. |
+| `EV-B0177-007` | Helpers choose to persist/change approach and recruit Hime/Sumire; Sumire questions Player's domestic-capacity label. | B:P24–38; `KNOW-0745`. Revised method and local recruitment, not a new permanent cooking unit or gender duty. |
+| `EV-B0177-008` | Hime reports household cooking and reframes homely leftovers thinking toward feeding family delicious food; work divides between ingredient searching and stock instruction. | B:P39–46; `KNOW-0746`. Task-specific intervention, not complete household-work audit or guaranteed authenticity. |
+| `EV-B0177-009` | At the arcade, Musubi reports a snowy Tohoku home; Hime proposes soup/chicken/household tofu and flexible ingredients available locally. | B:P51–59; `KNOW-0747`. Regional report/inference and choices, not exact hometown, ethnography or all purchase receipts. |
+| `EV-B0177-010` | Sumire corrects dried-fish preparation, discovers Miwako's unfamiliarity and encourages learning. Miwako connects nutrition to teacher care. | B:P64–72; `KNOW-0748`. Local expertise/inversion, not global incompetence or nutritional efficacy. |
+| `EV-B0177-011` | Player washes/handles trash; Shirayuki worries everyone is exerting too much and says Nanasta meals suffice without the family recreation. | B:P77–84; `KNOW-0749`. Recipient care for helpers, not simple rejection or evidence she never wanted the meal. |
+| `EV-B0177-012` | Player asks to finish for the givers' feelings, compares it with Shirayuki's practice and receives her trust; waiting-for-meal talk introduces a far-future special person. | B:P85–95; `KNOW-0750`–`0751`. Locally accepted persistence/anticipation, no unlimited labor/acceptance license or current partner. |
+| `EV-B0177-013` | Ingredients/instruction are ready by report; Hime/Sumire encourage while leaving final cooking to the original helpers. | C:P1–4; `KNOW-0752`. Supported completion plan, not every action independently observed or advisers taking over. |
+| `EV-B0177-014` | Musubi/Miwako become exuberant; Player is surprised, Sumire likens them to TV professional chefs and Hime values Shirayuki's delight. | C:P9–18; `KNOW-0753`. Comic simile and appraisal. Repeated subject slots C9–13 create no extra people or profession. |
+| `EV-B0177-015` | Cast/fade/dark commands elide work; actual Item0157 is revealed at C24–27 PositionX0 with declared flash/shake/SFX. Shirayuki recognizes home taste and awards100. | C:P19–36; `KNOW-0754`; `AV-0124`. Recipient judgment plus source-bound illustration; no actually sensed flavor or rendered/heard performance. |
+| `EV-B0177-016` | Sumire points out Player mostly washed; Hime credits everyone's part and the cooks celebrate the recognized meal. | C:P35–40; `KNOW-0755`. Differentiated contributions, not equal work or universal cooking mastery; C35 remains joint speech. |
+| `EV-B0177-017` | Refill offer prompts Shirayuki's tears; Musubi first suspects bad taste, then the girl names warm joy and Nanasta as her home too. Miwako allows calm before explanation. | C:P41–50; `KNOW-0756`. Recipient correction/social-family recognition, not literal adoption, erased first home or heard sobbing. |
+| `EV-B0177-018` | Hime denies crying while admitting family-language vulnerability; others register the affect. | C:P51–55; `KNOW-0757`. Distinct textual reactions, no identical interiority or received voice emotion. |
+| `EV-B0177-019` | Shirayuki asks for all dorm residents' home meals; helpers acknowledge difficulty, mention Susu/Shao prospectively, admit cuisine limits/interest and require Player to work too. | C:P56–66; `KNOW-0758`. Wider request/intent and burden negotiation; no completed menus, absent residents attending or permanent policy. |
+| `EV-B0177-020` | Shirayuki wants to cook for a special person, privately promises Player daily meals when bigger and asks secrecy. Peers notice blush/hear part, Player deflects and Miwako appraises growing maidenhood. | C:P67–83; `KNOW-0759`. Conditional child wish/unequal access, not realized partnership, adult identity or everyone knowing the whisper. |
+
+| ID | Edge type | Supported relation and uncertainty |
+| --- | --- | --- |
+| `EDGE-1152` | `CAUTION_MISREAD_TO_EXPLICIT_REPAIR` | Within `001`, A:P4–15; recipient's fear prompts clarification/apology. No universal adult knowledge. |
+| `EDGE-1153` | `REPAIRED_EXCHANGE_TO_SHARED_FAMILY_TASTE` | `001`→`002`, A:P16–25; plums become a reconciliatory offer with mother attribution. No direct mother scene. |
+| `EDGE-1154` | `SHARED_PLUMS_TO_PRIVATE_CARE_DELIBERATION` | `002`→`003`, A:P27–53; nutrition/scarcity/family taste acquire different appraisals. Recipient absent from private exchange. |
+| `EDGE-1155` | `FAMILY_TASTE_CONCERN_TO_RECIPROCAL_MEAL_PROPOSAL` | `003`→`004`, A:P36–66; helpers choose recreation and return to recipient's explicit wish. No complete private motive disclosed. |
+| `EDGE-1156` | `ACCEPTED_GOAL_TO_MEMORY_ADVISER_ROLE` | Within `004`, A:P58–66; Shirayuki helps specify the target. Assent not accomplished result. |
+| `EDGE-1157` | `FIRST_RECIPE_EFFORT_TO_TASTE_TEST` | `005`→`006`, B:P1–23; confident preparation meets recipient's judgment. No independent analyst tasting. |
+| `EDGE-1158` | `DELICIOUSNESS_DIFFERENT_FROM_HOME_RECOGNITION` | Within `006`, B:P15–23; gratitude and pleasure coexist with failed fidelity. Neither statement erases the other. |
+| `EDGE-1159` | `MISSED_TARGET_TO_REVISED_HELP_AND_METHOD` | `006`→`007`, B:P24–38; helpers recruit rather than abandon. No permanent unit. |
+| `EDGE-1160` | `DOMESTIC_LABEL_TO_SPECIFIC_PURPOSE_REFRAMING` | `007`→`008`, B:P31–46; questioned label yields feeding-family criterion. Not a universal gender role. |
+| `EDGE-1161` | `DIVIDED_WORK_TO_INGREDIENT_AND_STOCK_TRACKS` | `008`→`009`+`010`, B:P41–72; shopping and instruction are complementary local tracks. No exact simultaneous clock. |
+| `EDGE-1162` | `REGIONAL_REPORT_TO_FLEXIBLE_INGREDIENT_PROPOSAL` | Within `009`, B:P51–59; Hime interprets reported snow-country food while using available choices. Exact origin/recipe unknown. |
+| `EDGE-1163` | `TEACHER_AS_NOVICE_TO_PEER_INSTRUCTION` | Within `010`, B:P64–72; Sumire corrects preparation and Miwako learns. Local hierarchy, not total competence reversal. |
+| `EDGE-1164` | `VISIBLE_EFFORT_TO_RECIPIENT_CONCERN` | `009`+`010`→`011`, B:P77–84; Shirayuki attends to helpers' burdens. She still values family taste. |
+| `EDGE-1165` | `RECIPIENT_CONCERN_TO_PRACTICE_ANALOGY_AND_TRUST` | `011`→`012`, B:P85–91; Player invokes her persistence and receives agreement. No unlimited work mandate. |
+| `EDGE-1166` | `WAITING_FOR_MEAL_TO_FUTURE_GIVING_THOUGHT` | Within `012`, B:P92–95; shared anticipation introduces far-future special person. No existing marriage. |
+| `EDGE-1167` | `REVISED_PREPARATION_TO_SUPPORTED_FINAL_COOKING` | `009`+`010`→`013`, C:P1–4; readiness is reported and advisers refrain from takeover. No exhaustive performed process. |
+| `EDGE-1168` | `ENERGETIC_COOKING_TO_COMIC_PROFESSIONAL_SIMILE` | `013`→`014`, C:P9–18; observers compare kitchen energy with television chefs. Not occupational promotion. |
+| `EDGE-1169` | `ELIDED_WORK_TO_NATIVE_MEAL_REVEAL` | `014`→`015`, C:P19–27; clearing/dark commands and Item0157 bind reveal. No actual runtime or complete recipe. |
+| `EDGE-1170` | `RECIPIENT_RECOGNITION_TO_COLLECTIVE_SUCCESS` | `015`→`016`, C:P26–40;100-point home-taste judgment enables celebration while contributions remain unequal. |
+| `EDGE-1171` | `REFILL_TEARS_TO_CORRECTED_JOY_AND_HOME` | `016`→`017`, C:P41–50; feared taste complaint becomes recipient's warm-family account. No literal kinship change. |
+| `EDGE-1172` | `HOME_RECOGNITION_TO_HELPER_AFFECT` | `017`→`018`, C:P51–55; Hime responds through denial/admission. Others' full inner states unknown. |
+| `EDGE-1173` | `ONE_HOME_MEAL_TO_PROSPECTIVE_ALL_RESIDENT_HOSPITALITY` | `017`+`018`→`019`, C:P56–66; recipient expands the invitation and peers reassert shared labor. Program remains prospective. |
+| `EDGE-1174` | `RECEIVED_CARE_TO_CONDITIONAL_PERSONAL_GIVING` | `012`+`017`→`020`, B:P92–95/C:P67–76; earlier anticipation returns as child's future promise. Not fulfilled adult obligation. |
+| `EDGE-1175` | `PRIVATE_WHISPER_TO_PARTIAL_PUBLIC_TEASING` | Within `020`, C:P73–83; blush/partial phrase permit appraisals without complete access. No arbitrary transfer of secret knowledge. |
+
+No new WORLD or THREAD record. Regional report, family metaphor and future wish remain qualified; no total calendar or completed all-resident cooking program. All old ledger bodies/IDs/source horizons and frozen storage receipts remain byte-exact.
