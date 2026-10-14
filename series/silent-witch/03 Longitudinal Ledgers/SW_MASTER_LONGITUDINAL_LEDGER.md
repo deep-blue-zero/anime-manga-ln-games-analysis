@@ -37,7 +37,8 @@ longitudinal_state:
   revision_records: 0
   prediction_records: 0
   split_ledger_paths: []
-  sequential_analysis_lock: CLOSED
+  sequential_analysis_lock: OPEN
+  sequential_analysis_lock_scope: JAPANESE_LN_V01_ONLY
 ```
 
 Zero records are truthful absence of analysis, not findings about the novel. The schemas below contain no fabricated scene rows, sample characters or simulated dialogue.

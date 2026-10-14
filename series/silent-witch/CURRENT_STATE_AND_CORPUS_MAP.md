@@ -5,11 +5,11 @@ artifact_type: corpus_map
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.1"
-last_updated: "2026-10-13"
+version: "1.2"
+last_updated: "2026-10-14"
 status: canonical
-scope: "Single canonical first-read surface; accepted foundation, V01 byte lock and owner-directed CLOSED gate"
-source_boundary: "Accepted pre-reading foundation and Japanese LN V01 technical source lock; no narrative source unit analyzed."
+scope: "Single canonical first-read surface; accepted foundation, V01 byte lock, recovered local locators and owner-authorized V01-only OPEN gate"
+source_boundary: "Accepted pre-reading foundation and Japanese LN V01 technical source lock; V01 admitted for one authorized reading; no narrative source unit analyzed at gate opening."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
 supersedes: []
@@ -17,7 +17,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 architecture_lifecycle: INITIAL
-analytical_phase: V01_BYTE_LOCKED_OWNER_HOLD
+analytical_phase: V01_READING_AUTHORIZED_GATE_OPEN
 committed_high_water_mark: PRE_V01
 project_initialization:
   status: canonical
@@ -34,38 +34,41 @@ project_initialization:
     - 01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md
     - 03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md
   required_day_one_infrastructure_initialized: true
-  sequential_analysis_lock: CLOSED
+  sequential_analysis_lock: OPEN
+  lock_reason: OWNER_INSTRUCTION_2026-10-13_OPEN_FOR_JAPANESE_LN_V01_ONLY_AFTER_RECOVERY_AND_READINESS_VERIFICATION
   substantive_sequential_findings_at_bootstrap: false
   numbered_volumes_analyzed: []
   frozen_volumes: []
   committed_high_water_mark: PRE_V01
   owner_acceptance: ACCEPTED
-  acceptance_boundary: explicit owner acceptance of SW_BOOTSTRAP_V1 in this task
+  acceptance_boundary: explicit owner acceptance of SW_BOOTSTRAP_V1 in the bootstrap task
   v01_source_lock: 01 Source Lock and Inventory/SW_LNJP_V01_SOURCE_LOCK.md
   v01_locator_retention: LOCAL_ONLY_OWNER_REQUEST
-  sequential_gate_hold: EXPLICIT_OWNER_DIRECTION_KEEP_LOCAL_AND_CLOSED
-  next_permitted_operation: stop; await separate owner instruction on evidence recovery, gate opening and V01 deep reading
+  v01_locator_recovery: ORIGINAL_PACKAGE_RECOVERED_AND_VERIFIED_2026-10-14
+  sequential_gate_hold: RELEASED_FOR_V01_ONLY_BY_OWNER_INSTRUCTION_2026-10-13
+  next_permitted_operation: complete the owner-authorized Japanese LN V01 deep-reading transaction only; stop at V01 closure
 sequential_execution:
   mode: single_operation
   unit_type: volume
-  authorized_start: null
-  terminal_boundary: null
+  authorized_start: V01
+  terminal_boundary: V01
   committed_high_water_mark: PRE_V01
-  next_candidate_operation: null
-  run_state: not_authorized
+  next_candidate_operation: V01
+  confirmation_between_units: true
+  run_state: active
 ---
 
 # Silent Witch current state and corpus map
 
 This is the single current entrypoint for **Silent Witch: Secrets of the Silent Witch**, Japanese **サイレント・ウィッチ 沈黙の魔女の隠しごと**, by **依空まつり**. Routing aliases: Silent Witch, Secrets of the Silent Witch, サイレント・ウィッチ. Stable root and continuing branch: `series/silent-witch`.
 
-**SEQUENTIAL_ANALYSIS_LOCK = CLOSED, by the owner’s explicit local-retention instruction.** Japanese LN V01 is byte-locked with validated local locators. Narrative high-water mark: **PRE_V01 / NO_SOURCE_UNIT_ANALYZED**. No numbered volume, companion, web unit, character model, or literary synthesis has been analyzed or frozen.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN, for Japanese LN V01 only, by the owner’s 2026-10-13 resume instruction.** The earlier owner-directed hold is preserved as history in the [gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md). Japanese LN V01 is byte-locked; its original local locator package was recovered and reverified before the gate opened. Narrative high-water mark at gate opening: **PRE_V01 / NO_SOURCE_UNIT_ANALYZED**. No numbered volume, companion, web unit, character model, or literary synthesis has been analyzed or frozen. The authorization covers one atomic V01 transaction; V02–V12, the four companions, web witnesses and adaptations remain unauthorized.
 
 ## Authority and current work
 
-The owner explicitly accepted the ten-file V1 bootstrap. Its paired method/architecture and exact two day-one state homes passed the [foundation review](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md). The [V01 source lock](01%20Source%20Lock%20and%20Inventory/SW_LNJP_V01_SOURCE_LOCK.md) records completed technical validation. The owner subsequently chose to retain the derivative package locally and leave the gate CLOSED. GitHub main remains the effective integrated analytical authority; branch publication, semantic acceptance and narrative-reading permission are distinct.
+The owner explicitly accepted the ten-file V1 bootstrap. Its paired method/architecture and exact two day-one state homes passed the [foundation review](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md). The [V01 source lock](01%20Source%20Lock%20and%20Inventory/SW_LNJP_V01_SOURCE_LOCK.md) records completed technical validation. The owner subsequently chose to retain the derivative package locally and leave the gate CLOSED. A later owner instruction, dated 2026-10-13, authorized recovery of the source and locators and the opening of the gate for V01 alone; local retention of raw source and derivatives is unchanged. GitHub main remains the effective integrated analytical authority; branch publication, semantic acceptance and narrative-reading permission are distinct.
 
-[The source map](01%20Source%20Lock%20and%20Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md) records actual Drive object/manifest access, reported versus rerun checks, witness lanes, exclusions and recovery links. Twelve numbered Japanese commercial LN EPUBs and four separately published companions are inventoried. I–XII are the intended primary prospective track. V01 alone is now source-byte-locked; no unit is execution-admitted for narrative reading. Companions, WN main/gaiden, related Rosalie web work, adaptations and other witnesses have separate admission statuses. This is not a complete franchise/publication audit.
+[The source map](01%20Source%20Lock%20and%20Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md) records actual Drive object/manifest access, reported versus rerun checks, witness lanes, exclusions and recovery links. Twelve numbered Japanese commercial LN EPUBs and four separately published companions are inventoried. I–XII are the intended primary prospective track. V01 alone is source-byte-locked and, from this gate opening, execution-admitted for one narrative reading; no other unit is admitted. Companions, WN main/gaiden, related Rosalie web work, adaptations and other witnesses have separate admission statuses. This is not a complete franchise/publication audit.
 
 ## Required read route
 
@@ -75,7 +78,7 @@ The owner explicitly accepted the ten-file V1 bootstrap. Its paired method/archi
 | [Synthesis architecture](00%20Frameworks%20and%20Methods/SW_SYNTHESIS_ARCHITECTURE.md) | Cumulative homes, specialist/reconstruction activation, dependencies and completion gates. |
 | [Source/continuity map](01%20Source%20Lock%20and%20Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md) | Qualified 16-EPUB inventory, V01 technical lock, separate witnesses and exclusions. |
 | [Japanese LN V01 source lock](01%20Source%20Lock%20and%20Inventory/SW_LNJP_V01_SOURCE_LOCK.md) | Exact archive/edition/resource validation, source-channel inventory and local locator seals. |
-| [V01 foundation/gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) | Explicit acceptance, paired-foundation/day-one verification and owner-directed CLOSED hold. |
+| [V01 foundation/gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) | Explicit acceptance, paired-foundation/day-one verification, the historical owner-directed CLOSED hold, and the 2026-10-14 V01-only gate opening with its entering freeze. |
 | [V01 preparation path manifest](08%20Audits%20and%20Manifests/SW_V01_READINESS_PATH_MANIFEST.json) | Nine-path bounded preparation tranche; no narrative reading. |
 | [Character reconstruction method](00%20Frameworks%20and%20Methods/SW_CHARACTER_RECONSTRUCTION_METHOD.md) | Future state/domain models and noncircular validation; no model created. |
 | [Master longitudinal ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) | One justified day-one cumulative home; typed schemas and zero literary records. |
@@ -90,7 +93,9 @@ Before changes, read live repository authority, integration checklist and this r
 
 Completed: the accepted paired method/architecture, independent future reconstruction contract, template, source map, one operational master ledger and single entrypoint; sufficient qualified collection reconnaissance; V01 actual acquisition/hash match, edition/colophon identification, resource/image validation, faithful normalization and independent locator round trips. The source lock and foundation report route the technical evidence. The master remains byte-identical with zero literary records.
 
-Uncompleted or held: remote derivative retention, which the owner declined; gate opening, explicitly held CLOSED; any sequential-reading authorization; all narrative readings and freezes; other-volume source locks; web ingestion/comparison; supplemental/adaptation admission; all monographs, specialists, models and integrated synthesis. Technical source lock is not unit analysis or closure.
+Completed at gate opening: local source re-acquisition with an exact V01 hash match, verification of all sixteen local EPUB fingerprints against the source map, recovery and seal verification of the original V01 locator package, and the explicit V01-only OPEN record.
+
+Uncompleted or held: remote derivative retention, which the owner declined and this instruction again withholds; the V01 narrative reading and freeze, now authorized and in progress; every sequential-reading authorization beyond V01; other-volume source locks; web ingestion/comparison; supplemental/adaptation admission; all monographs, specialists, models and integrated synthesis. Technical source lock is not unit analysis or closure.
 
 ## Publication and audit state
 
@@ -102,12 +107,12 @@ The historical bootstrap report/manifest preserve the authorship-time state. The
 | Owner semantic acceptance | ACCEPTED by explicit owner instruction. |
 | V01 source preparation | BYTE_LOCKED; archive/resource/fidelity checks pass; locators retained locally. |
 | Foundation/day-one verification | PASS; two required homes initialized; no literary state advanced. |
-| Derivative upload / sequential gate | NOT_UPLOADED / CLOSED, by owner direction. |
+| Derivative upload / sequential gate | NOT_UPLOADED, by standing owner direction / OPEN for V01 only since the 2026-10-14 gate-opening record. |
 | This tranche’s commit, preflight and CI | Required before closeout; actual receipts belong to resulting Git/CI history and local delivery receipt. |
 | Main integration | NOT_PERFORMED_BY_THIS_AUTHOR; verify later controlled integration separately. |
 
 ## Next permitted operation
 
-**Stop before V01 deep reading.** The owner accepted the foundation and received a completed technical V01 package, then expressly selected local retention and a CLOSED gate. Recover and verify the local package before any future use. A separate owner instruction must address gate opening and the V01 narrative-reading boundary; neither this source lock nor its publication authorizes that reading.
+**Complete the authorized Japanese LN V01 deep-reading transaction, then stop.** The owner’s 2026-10-13 instruction supplied the separate decision the earlier hold required: recover and verify the source and local package, open the gate for V01 only, read V01 in full, reconcile cumulative state, validate and publish to `series/silent-witch`. It does not authorize continuous V01–V12 execution, any companion or web witness, remote publication of raw source derivatives, or a merge into main. The entering freeze is recorded in the [gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) before narrative inspection begins.
 
 Future source inspection defaults to one atomic numbered volume unless the owner explicitly supplies a recoverable continuous terminal boundary. At interruption recover live files, exact commits and high-water mark; conversation memory does not advance coverage.

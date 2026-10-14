@@ -5,8 +5,8 @@ artifact_type: analytical_method
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.1"
-last_updated: "2026-10-13"
+version: "1.2"
+last_updated: "2026-10-14"
 status: canonical
 scope: "Japanese-primary published-LN prospective reading and evidence discipline"
 source_boundary: "Accepted pre-reading foundation and Japanese LN V01 technical source lock; no narrative source unit analyzed."
@@ -25,7 +25,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 Read the published Japanese light novels as literature, preserving the mechanisms by which a scene produces action, knowledge, feeling, and reader response. This method governs source inspection and inference. The [synthesis architecture](SW_SYNTHESIS_ARCHITECTURE.md) owns cumulative destinations and completion gates; the [character method](SW_CHARACTER_RECONSTRUCTION_METHOD.md) owns future operational reconstruction. The [template](SW_VOLUME_READING_TEMPLATE.md) implements these responsibilities without proving a reading occurred.
 
-The canonical route is [the current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md). Live repository authority and [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) govern execution. The owner has accepted this current-eligible method and its paired architecture. V01 has a technical source lock; the current entrypoint records the owner’s subsequent decision to keep its locator package local and leave SEQUENTIAL_ANALYSIS_LOCK = CLOSED. Gate readiness and an explicit source-unit reading instruction remain distinct; no narrative findings exist.
+The canonical route is [the current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md). Live repository authority and [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) govern execution. The owner has accepted this current-eligible method and its paired architecture. V01 has a technical source lock. The owner first kept its locator package local and held SEQUENTIAL_ANALYSIS_LOCK = CLOSED; a later owner instruction, recorded 2026-10-14, opened the lock for V01 only after the source and original package were recovered and reverified. The current entrypoint owns the live lock state. Gate readiness and an explicit source-unit reading instruction remain distinct, and opening the gate establishes no narrative finding.
 
 ## 1. Japanese primary evidence and source fidelity
 

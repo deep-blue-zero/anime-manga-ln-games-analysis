@@ -5,11 +5,11 @@ artifact_type: source_scope_inventory
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.1"
-last_updated: "2026-10-13"
+version: "1.2"
+last_updated: "2026-10-14"
 status: canonical
-scope: "Public-safe collection inventory, V01 technical lock, witness lanes, exclusions and recovery"
-source_boundary: "Accepted pre-reading foundation and Japanese LN V01 technical source lock; no narrative source unit analyzed."
+scope: "Public-safe collection inventory, V01 technical lock, local-collection fingerprint verification, witness lanes, exclusions and recovery"
+source_boundary: "Accepted pre-reading foundation and Japanese LN V01 technical source lock; V01 admitted for one authorized reading; no narrative source unit analyzed at gate opening."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md"
 supersedes: []
@@ -19,16 +19,27 @@ do_not_use_as_literary_evidence: true
 source_reconnaissance_complete: true
 source_lock_state: V01_BYTE_LOCKED_OTHER_UNITS_NOT_LOCKED
 v01_locator_retention: LOCAL_ONLY_OWNER_REQUEST
-sequential_analysis_lock: CLOSED
+local_collection_fingerprints: ALL_SIXTEEN_MATCH_2026-10-14
+sequential_analysis_lock: OPEN
 ---
 
 # Source and continuity map
 
 ## V01 technical lock and current boundary
 
-The owner accepted the bootstrap and authorized Japanese LN V01 technical validation. The [V01 source lock](SW_LNJP_V01_SOURCE_LOCK.md) now records an independently retrieved 17,235,698-byte archive with exact matching SHA-256, colophon ver.003, complete resource/spine/XHTML/image checks, faithful normalization and verified element/paragraph/image routes. Its reproducible derivative package remains local at the owner’s explicit request; no Drive derivative upload occurred. The [foundation/gate report](../08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) verifies the accepted pair and both day-one homes. The sequential gate remains CLOSED; no literary unit has been analyzed.
+The owner accepted the bootstrap and authorized Japanese LN V01 technical validation. The [V01 source lock](SW_LNJP_V01_SOURCE_LOCK.md) now records an independently retrieved 17,235,698-byte archive with exact matching SHA-256, colophon ver.003, complete resource/spine/XHTML/image checks, faithful normalization and verified element/paragraph/image routes. Its reproducible derivative package remains local at the owner’s explicit request; no Drive derivative upload occurred. The [foundation/gate report](../08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) verifies the accepted pair and both day-one homes. At that lock the sequential gate remained CLOSED and no literary unit had been analyzed; the subsection below records the later V01-only opening.
 
 Only V01 has been byte-locked. The dated bootstrap reconnaissance below remains qualified historical evidence for the rest of the collection.
+
+### Local collection verification and V01 admission, 2026-10-14
+
+The owner’s 2026-10-13 resume instruction named two access routes to one supplied collection: the owner’s local novel directory and the Drive folder identified under [recovery](#recovery-and-future-ingestion-dependency). They are routes, not separate textual witnesses. The local directory was accessible and was used; the Drive copies were not re-retrieved.
+
+The local directory was inventoried as found rather than assumed. It contains sixteen primary Japanese EPUBs — numbered 01–12, `Volume 04 After`, `Volume 09 Extra`, and `Another` Part 01 (Upper) and Part 02 (Lower) — together with the retained audit report and manifest, audit working records and scripts, an archive holding the two pre-correction originals of main IX and IX -extra-, and two acquisition working directories for the web main and web gaiden lanes whose chapter stores were empty at inspection. The audit records, archive originals and web directories were listed only; none was opened as a literary source.
+
+SHA-256 and byte size were computed locally for all sixteen primary EPUBs. **Every one equals the corresponding row of the inventory table below.** For V01 this confirms that the local copy, the copy retained beside the locator package and the 2026-10-13 Drive retrieval are the same bytes. For the other fifteen, the result upgrades their fingerprints from retained-manifest reports to locally recomputed hashes of the local copies; it is not a source lock. Their archives were not opened, so CRC, resource, edition, colophon, language and preview-boundary checks remain unperformed for this project, and their Drive copies were not rehashed in this session. No difference between local and Drive copies was observed, and none is asserted beyond what was actually compared.
+
+The original V01 locator package was recovered and reverified; see the [V01 source lock](SW_LNJP_V01_SOURCE_LOCK.md#recovery-verification-2026-10-14). On that basis the [gate report addendum](../08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) records `SEQUENTIAL_ANALYSIS_LOCK = OPEN` for Japanese LN V01 only. V01 is execution-admitted for one narrative reading. No other numbered volume, no companion and no web or adaptation witness is admitted, and hashing a companion file is not a reading of it.
 
 ## Verified bootstrap reconnaissance boundary and its limits
 
@@ -83,7 +94,7 @@ Each stable ID resolves through the supplied source folder and Drive's file-ID r
 
 | Lane | Identity / continuity | Current analytical admission |
 |---|---|---|
-| Numbered published Japanese LN | `SW-LNJP-V<NN>`; intended I–XII primary track | DESIGNATED_PRIMARY_TRACK; V01 byte-locked with local locators, other individual locks pending. Narrative execution admission pending for every unit. No unit analyzed. |
+| Numbered published Japanese LN | `SW-LNJP-V<NN>`; intended I–XII primary track | DESIGNATED_PRIMARY_TRACK; V01 byte-locked with recovered local locators and ADMITTED_FOR_ONE_AUTHORIZED_READING since 2026-10-14; other individual locks and every other admission pending. No unit analyzed at gate opening. |
 | Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | INVENTORIED_UNADMITTED; not fractional numbered volumes. |
 | Original web main | [N8356GA](https://ncode.syosetu.com/n8356ga/), サイレント・ウィッチ | METADATA_RECONNOITERED_UNADMITTED; separate web witness, no episode ingestion/comparison. |
 | Web gaiden | [N5194GP](https://ncode.syosetu.com/n5194gp/), サイレント・ウィッチ（外伝） | METADATA_RECONNOITERED_UNADMITTED; distinct supplemental web corpus, contains later/end-state disclosures. |
@@ -132,4 +143,4 @@ These IDs and the per-EPUB IDs above are recovery identifiers, not redistributed
 
 Web ingestion is a future dependency on the separately commissioned Narou downloader. It must deliver source-identified, revision/time-bound snapshots and reliable episode/pagination coverage before comparison admission. This bootstrap implements no scraper, modifies no downloader project, and performs no text-to-text crosswalk.
 
-Held or unresolved: owner-directed CLOSED sequential gate; locally retained V01 locator-package recovery in a future session; other-unit acquisition/edition/locator locks; supplement story-level safe order; web ingestion/version crosswalk; any later medium admission. V01 technical byte lock is complete, while narrative high-water mark remains PRE_V01 across every lane.
+Resolved on 2026-10-14: the locally retained V01 locator package was recovered and verified, and the gate was opened for V01 only by owner instruction. Held or unresolved: every sequential authorization beyond V01; other-unit acquisition/edition/locator locks; supplement story-level safe order; web ingestion/version crosswalk; any later medium admission. V01 technical byte lock is complete, while narrative high-water mark remains PRE_V01 across every lane.
