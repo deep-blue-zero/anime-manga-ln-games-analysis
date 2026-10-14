@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0180; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0181; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-14
 ---
@@ -851,4 +851,62 @@ Complete chapter301520 A/B/C, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260
 | `REL-0990` | Nested Gadora scientist → household viewers | **Textual entertainment stimulus**: Brief quoted greeting and Hime's recurring-evil-character description enter the watching frame. | B:P99–109; no actual full movie listened/watched by analyst or pictured scientist Item. |
 
 No new IDENTITY/CHAR/UNIT/READY or R3 promotion. Anonymous director/staff/sibling roles and nested fiction stay bounded; costume/face variants do not add persons or credentials. No heard acting, finished movie/public impact, witnessed prop throw, reciprocal romance or mature monograph inferred.
+
+## B0181 fear, reciprocal effort and qualified communication
+
+Complete chapter301530 A/B/C, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, source-lock 12.87. Existing102 identities/84 characters and sealed prior components remain exact. Twenty-two epistemic and16 directional relational additions preserve self-account, report, inference, limited reception and prospective development; no diagnosis/readiness/maturity promotion.
+
+| Stable subject | Bounded new annotation | Warrant and retained limits |
+| --- | --- | --- |
+| `CHAR-0001` / Player | Permits rest, asks before visiting, offers a liked-skill trial and proposes transfer; reports reciprocal peer effort, arranges gratitude live and cannot fully decode the new personal message. | A/B/C; care and stated refusal pressure coexist; universal effort/scouting explanation attributed, no full meaning or reciprocal romance. |
+| `CHAR-0018` / Suss | Offers ballet-informed help, permits rest, wants renewed shared lessons, locally receives thanks/praises coordination and invites manager-directed/shared writing. | A/B/C; differentiated migrant experience, no analyst-heard dance judgment or acquired language fluency. |
+| `CHAR-0066` / Chacha | Offers modest dance help without mastery guarantee, directs practical care, values lively expression and partly glosses/withholds personal text; illness joke retains its frame. | A/B/C; cultural generalization/self-reported constitution attributed, no new diagnosis or complete manager-message disclosure. |
+| `CHAR-0076` / Shao | Fear and missing progress lead to absence/private rejection inference; chosen calligraphy reveals self-recognized growth, gratitude live reaches peers, and failed personal decoding is accepted without giving up. | A/B/C; no clinical cure, measured skill transfer, perfect communication or completed adulthood. |
+| `UNIT-0002` / Nanasta | Peers' bounded help, permitted rest, manager visit and realized live supply contexts for reciprocal effort/shared practice. | A/B/C; no exhaustive consent/workload audit, certified performance/acquired fluency or mature institutional release. |
+
+| ID | Qualified knowledge holder | State and epistemic frame | Source |
+| --- | --- | --- | --- |
+| `KNOW-0829` | Shao/Suss/Chacha, distinct | Kicks are familiar but peers appraise mismatch with this song and distinguish interpretation from physical skill. `LOCAL_EXPRESSIVE_APPRAISAL`. | A:P2–17 |
+| `KNOW-0830` | Suss/peers | Suss reports ballet familiarity and intuitive approach; others hear her account. `SELF_REPORTED_EXPERIENCE`. | A:P14–18 |
+| `KNOW-0831` | Chacha/peers | Chacha reports modest Japanese dance, refuses guaranteed mastery and offers bounded help. `QUALIFIED_EXPERTISE_AND_COMMITMENT`. | A:P19–29 |
+| `KNOW-0832` | Shao/peers, distinct | Shao admits incomplete Japanese; Suss reports no same difficulty and Chacha attributes a language disadvantage. `DIFFERENTIATED_LANGUAGE_ACCOUNTS`. | A:P9–17 |
+| `KNOW-0833` | Shao/Player | Shao discloses missing her standard/next goal; Player receives it without a completed solution. `SELF_ACCOUNT_AND_MANAGER_ACCESS`. | A:P37–49 |
+| `KNOW-0834` | Player/source retrospective | Shao's cheerful tomorrow promise is followed by explicit next-day lesson absence. `REASSURANCE_AND_LATER_NARRATED_OUTCOME`. | A:P50–58 |
+| `KNOW-0835` | Suss/Chacha/Player | Rest is permitted; pressure concern remains inference and practical care requested. `PERMISSION_WITH_QUALIFIED_CONCERN`. | B:P1–13 |
+| `KNOW-0836` | Shao alone | Assumes peers are disappointed despite shown permission, doubts ability and misses parents. `PRIVATE_INFERENCE_AND_DESIRE`. | B:P18–21 |
+| `KNOW-0837` | Player/Shao | Entry permission and non-punitive response create access to her distress account. `ASKED_ACCESS_AND_DISCLOSURE`. | B:P22–37 |
+| `KNOW-0838` | Shao/Player | Reports fear of dance/body difficulty and guilt while resting. `SELF_REPORTED_DISTRESS_NOT_DIAGNOSIS`. | B:P28–37 |
+| `KNOW-0839` | Player/Shao | Manager asks for a liked skill; Shao states reluctance/inability to decline yet selects an alternative. `BOUNDED_REQUEST_WITH_PRESSURE`. | B:P38–47 |
+| `KNOW-0840` | Shao/Player | Calligraphy was practiced at home and feels calming in her account; manager accepts chosen practice. `SELF_REPORTED_FAMILIAR_PRACTICE`. | B:P47–60 |
+| `KNOW-0841` | Shao/Player | Freer writing is her comparative recognition, reinforced by praise. `SELF_COMPARISON_AND_LOCAL_RECEPTION`. | B:P61–68 |
+| `KNOW-0842` | Player/Shao | Cross-skill meaning/concentration and universal effort value are manager explanation/doctrine; scouting reason retrospective. `ATTRIBUTED_TRANSFER_AND_MAXIM`. | B:P69–81 |
+| `KNOW-0843` | Player/Shao | Peers' home-language study and companionship/migration motives are manager-reported, not directly observed acquired fluency. `REPORTED_RECIPROCAL_EFFORT`. | B:P82–87 |
+| `KNOW-0844` | Shao/Player | Shao revises useless-effort/rejection frame and requests gratitude through growth. `SELF_REVISION_AND_PROSPECTIVE_REQUEST`. | B:P77–92 |
+| `KNOW-0845` | Suss/Chacha/Player | Shadow/shodo and pen/brush misunderstandings are corrected; props supplied by dialogue. `PARTIAL_SETUP_ACCESS`. | C:P1–11 |
+| `KNOW-0846` | Shao/Suss/audience, distinct | Named 謝謝 and recognized thanks receive local textual response; no all-viewer mind access. `EXPLICIT_MESSAGE_AND_BOUNDED_RECEPTION`. | C:P12–32 |
+| `KNOW-0847` | Chacha/Suss | Brushwork/feeling and dance-song coordination are their appraisals, not analyst-heard/measured performance. `ACTOR_PERFORMANCE_APPRAISAL`. | C:P18–19,29–32 |
+| `KNOW-0848` | Player/Suss/Chacha/Shao, distinct | New text impresses but is unreadable to manager/Suss; provisional thanks differs from Shao's failed-delivery judgment. `AESTHETIC_ACCESS_WITH_SEMANTIC_GAP`. | C:P62–81 |
+| `KNOW-0849` | Chacha/Player | Only 我、想う、あなた is partly glossed then deliberately withheld; manager asks for more. `PARTIAL_TRANSLATION_AND_RETAINED_PRIVACY`. | C:P93–100 |
+| `KNOW-0850` | Shao/peers/Player, distinct | Shao commits continued imperfect expression/future learning; others infer strength with limited comprehension and privately permit a path. `BOUNDED_RESILIENCE_AND_PROSPECTIVE_DEVELOPMENT`. | C:P82–112 |
+
+| ID | Directional relationship | State and retained boundary |
+| --- | --- | --- |
+| `REL-0991` | `player-protagonist → Shao` | Permits rest/asks entry, offers liked-skill request, proposes transfer and supports live; cannot fully read her personal message. Manager influence remains visible in her stated inability to refuse; no blanket consent/sole authorship. Reciprocal0992. |
+| `REL-0992` | `Shao → player-protagonist` | Fears blame, accepts visit/request, chooses calligraphy and asks a live; attempts an embarrassed message and hopes future address will reach him. Missing full meaning, unequal role and prospective development remain; no reciprocal romance. Reciprocal0991. |
+| `REL-0993` | `alessandra-susu → Shao` | Ballet-informed assistance/rest permission becomes reception of public thanks, invitation to personal/shared writing and acceptance of incomplete decoding. Acquired home-language fluency remains report/unmeasured. Reciprocal0994. |
+| `REL-0994` | `Shao → alessandra-susu` | Values teaching, privately fears disappointment then receives reciprocal-effort report, offers named thanks and welcomes participation. Local recognition does not prove total understanding. Reciprocal0993. |
+| `REL-0995` | `otori-chacha → Shao` | Modest advice/bounded commitment, rest permission and calm writing counsel accompany received thanks and a partly protected personal message. No mastery guarantee, universal culture or clinical cure. Reciprocal0996. |
+| `REL-0996` | `Shao → otori-chacha` | Seeks mastery then accepts qualified help, revises imagined rejection, thanks her and welcomes writing/criticism. Gratitude is local; no exhaustive consent or deference. Reciprocal0995. |
+| `REL-0997` | `alessandra-susu → otori-chacha` | Reads reserve as care, cooperates in helping Shao and objects to the frightening illness joke. Peer interpretation/play, not proof of all motives or illness. Reciprocal0998. |
+| `REL-0998` | `otori-chacha → alessandra-susu` | Distinguishes Suss's intuitive/ballet experience, joins care and post-live writing while qualifying her own claims. No complete common expertise or formal leadership inferred. Reciprocal0997. |
+| `REL-0999` | `Shao → anonymous-live-audience` | Names 謝謝 and credits fans/companions for support sustaining effort. Source public address, not every viewer's response or measured musical quality. Reciprocal1000. |
+| `REL-1000` | `anonymous-live-audience → Shao` | Three collective text responses and qualified schematic spectator figures mark local approval. No newly minted identities, representative statistics or all-fan unanimity. Reciprocal0999. |
+| `REL-1001` | `player-protagonist → alessandra-susu` | Receives concern/visit responsibility, reports her language study and supports gratitude live; cannot decode later message with her. Reported motive is not direct language-lesson observation. Reciprocal1002. |
+| `REL-1002` | `alessandra-susu → player-protagonist` | Entrusts Shao visit, receives thanks and requests fair personal-message reception, addressing him as darling. Local play/address does not establish reciprocal romance or access to full intimate content. Reciprocal1001. |
+| `REL-1003` | `player-protagonist → otori-chacha` | Receives concrete-care challenge and seeks her help reading Shao's text, then accepts withheld explanation uneasily. Manager lacks full access; her illness joke is not a diagnosis. Reciprocal1004. |
+| `REL-1004` | `otori-chacha → player-protagonist` | Directs managerial care, joins message request, jokes illness, partly glosses/withholds text and proposes criticism. Protects a bounded unexplained remainder without proving every intention. Reciprocal1003. |
+| `REL-1005` | `Shao → Nanasta` | Moves from threatened progress/absence to gratitude toward supporters and desired shared practice/future learning. Her appraisal does not certify complete institutional care or cure. Reciprocal1006. |
+| `REL-1006` | `Nanasta → Shao` | Local peer lessons, permitted rest, manager visit and realized performance provide opportunities for reciprocal effort. Operational budgets/complete labor/privacy safeguards and mature institution release remain unverified. Reciprocal1005. |
+
+Totals after these additions:850KNOW/1006REL;102IDENTITY/84CHAR/28UNIT/29R2 unchanged. No new institutional/clinical facts, adulthood completion or performed-voice maturity. Existing Main and earlier i-n-g horizons remain intact.
 <!-- T7S ENTITY STATE PAYLOAD END -->

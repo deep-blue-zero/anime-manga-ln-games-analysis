@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.81"
+version: "11.82"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 277 complete i-n-g primary documents / T7S_B0080–T7S_B0180; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-14
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1052`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1246`; `last_closed_block = T7S_B0180`. The admitted horizon contains 512 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 277 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1075`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1271`; `last_closed_block = T7S_B0181`. The admitted horizon contains 515 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 280 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3555,3 +3555,63 @@ Owner [B0180](../02%20Readings/T7S_B0180_DEEP_READING.md), authored reading SHA2
 | `EDGE-1253` | `EV-B0180-024` → `EV-B0180-025` | `DEMANDS_AND_PARTICIPANT_WARMTH`; Final lovely-place appraisal does not settle workload or every request. |
 
 Twenty-five events/28 edges preserve all older bodies, IDs and seven inherited edge-number gaps. No new WORLD/THREAD, full calendar, actual monster event, heard acting, completed movie/public impact, witnessed bomb throw or mature release. Performance role, report, uncertain inference, appraisal and prospective work remain distinct.
+
+## B0181 effort, gratitude and the distance between words
+
+Owner [B0181](../02%20Readings/T7S_B0181_DEEP_READING.md), reading SHA256 `ae1eda72d527228aa2d1e6c37a20f7875ff13f371f141ac8a67c8dc5338f822e`; complete chapter301530 A612203801 P0–58/B612203802 P0–93/C612203803 P0–112. Witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.87. Entering B0180/source-lock12.86 complete logical/physical control/entity boundaries remain pinned separately; earlier chronology/horizons are preserved.
+
+| ID | Source range | Local event | Factual reconstruction and qualification |
+| --- | --- | --- | --- |
+| `EV-B0181-001` | A:P2–17 | Familiar skill meets expressive mismatch | Shao substitutes kicks for dance; peers distinguish choreography, interpretation and experience. Their musical/language appraisals are attributed, not heard technique or universal national deficit. |
+| `EV-B0181-002` | A:P18–32 | Bounded peer assistance | Suss recalls ballet and Chacha modest Japanese-dance experience, rejects guaranteed mastery and agrees to help. Local commitment/cultural account, not certified expertise or national rule. |
+| `EV-B0181-003` | A:P37–49 | A next goal becomes invisible | Shao values teaching yet reports missing her own standard and no visible wall/next goal; Player advises patience. No completed relief or clinical assessment. |
+| `EV-B0181-004` | A:P50–58 | Reassurance followed by absence | She worries about the manager's mood, promises tomorrow's practice and leaves; A57 explicitly says absence begins next day. Local relative-time sequence, not restored confidence or global calendar. |
+| `EV-B0181-005` | B:P1–13 | Rest allowed and practical care requested | Peers/Player permit rest, worry about continuing pressure and ask concrete care; they want renewed lessons. Concern/inference, not condemnation of rest or diagnosis. |
+| `EV-B0181-006` | B:P18–21 | Private rejection fear | Alone, Shao assumes disappointment, doubts competence and wishes to hear parents. Her belief conflicts with shown permission; no actual parent call. |
+| `EV-B0181-007` | B:P22–37 | Visit accepted and distress disclosed | Manager asks before entering, rejects punishment fear, hears communication/movement fear and guilt, and permits rest. Source account, not diagnosed disorder. |
+| `EV-B0181-008` | B:P38–52 | A liked skill selected | Player asks for a familiar pleasure; Shao says she cannot refuse his wish, avoids feared movement and chooses calligraphy. Accepted bounded activity with pressure visible; no blanket consent. |
+| `EV-B0181-009` | B:P53–68 | Freer writing recognized | Elided preparation changes clothes; Shao notices improvement and asks why. Self-comparison/manager praise, no readable writing image or measured skill. |
+| `EV-B0181-010` | B:P69–81 | Transfer explanation and effort doctrine | Player relates meaning/concentration across skills, states learning benefits life and recalls scouting; Shao revises useless-effort belief. Attributed explanation/doctrine, not universal proof. |
+| `EV-B0181-011` | B:P82–87 | Reciprocal linguistic effort reported | Player reports peers studying her home language and attributes companionship/migration sympathy; Shao recognizes mistaken effort frame. No witnessed language lesson or measured fluency. |
+| `EV-B0181-012` | B:P88–93 | Gratitude through growth requested | Shao wants to thank peers while demonstrating development and requests a live setup. Request, not yet realized performance. |
+| `EV-B0181-013` | C:P1–11 | Performance introduced through imperfect access | Shadow/shodo and pen/brush are corrected; peers describe large tools before Shao announces live. Props supplied by text, not native Item or visible calligraphy pixels. |
+| `EV-B0181-014` | C:P12–19 | Public thanks and local reception | Shao names 謝謝; crowd responds; Suss recognizes thanks/praises coordination and Chacha values brushwork/feeling. Textual local reception, not analyst-heard performance or all-viewer judgment. |
+| `EV-B0181-015` | C:P20–32 | Support made explicit | Shao credits supporters, manager names gratitude purpose and peers affirm receiving it. Bounded message receipt, not complete audience comprehension. |
+| `EV-B0181-016` | C:P37–50 | Another message invited | After live, Suss requests manager-directed writing, Chacha joins and Shao accepts with embarrassment. Local request, not reciprocal romance or unconditional permission. |
+| `EV-B0181-017` | C:P51–61 | A strained attempt chosen | Shao describes trembling/pressure; Player says not to force herself; she chooses a little forcing and writes. Situation-specific choice, not clinical cure or license to suppress fear. |
+| `EV-B0181-018` | C:P62–78 | Aesthetic impact without decoding | Manager/Suss cannot read impressive text; Chacha jokes illness; Player provisionally thanks; Shao judges communication failed. No new disease, complete meaning or successful delivery. |
+| `EV-B0181-019` | C:P79–85 | Failure receives a different consequence | Peers worry; Shao relates the failed message to results appearing elsewhere and rejects collapse over incomplete reception. Failure remains factual; no guaranteed future success. |
+| `EV-B0181-020` | C:P86–92 | Continued expression with limited recognition | Player asks what she means, Shao rejects presumptuous total understanding and commits effort; peers infer strength/smile with incomplete access. Bounded resilience, not omniscient shared understanding. |
+| `EV-B0181-021` | C:P93–100 | Meaning partly disclosed and withheld | Manager still asks; Chacha offers 我、想う、あなた then stops, protecting an unexplained remainder. No complete romantic translation or reciprocal confession. |
+| `EV-B0181-022` | C:P102–106 | Shared writing welcomed | Suss/Chacha request participation, including proposed criticism; Shao welcomes both. Invitation, not actual resulting messages or settled dyadic possession. |
+| `EV-B0181-023` | C:P107–112 | Adulthood and future address left open | Player privately permits a path until another wall; Shao refuses to hurry adulthood and hopes to learn effort/word distance and reach the addressed you. Prospective, not completed maturity. |
+
+| ID | Directed dependency | Qualification |
+| --- | --- | --- |
+| `EDGE-1254` | `EV-B0181-001` → `EV-B0181-002` | `EXPRESSIVE_PROBLEM_TO_BOUNDED_HELP`; Peer familiarity supplies assistance without guaranteeing mastery. |
+| `EDGE-1255` | `EV-B0181-002` → `EV-B0181-003` | `HELP_WITH_UNRESOLVED_STANDARD`; Teaching effort coexists with Shao's missing progress criterion. |
+| `EDGE-1256` | `EV-B0181-003` → `EV-B0181-004` | `REASSURANCE_WITHOUT_RESOLUTION`; Cheerful promise does not remove later absence. |
+| `EDGE-1257` | `EV-B0181-004` → `EV-B0181-005` | `EXPLICIT_NEXT_DAY_AND_REPEATED_ABSENCE`; A57 starts the local absence sequence; no complete calendar. |
+| `EDGE-1258` | `EV-B0181-005` → `EV-B0181-006` | `CONTRASTED_KNOWLEDGE_FRAMES`; Presented rest permission differs from her private rejection inference. |
+| `EDGE-1259` | `EV-B0181-006` → `EV-B0181-007` | `PRIVATE_FEAR_TO_ACCEPTED_VISIT`; Access changes after the manager asks and hears her account. |
+| `EDGE-1260` | `EV-B0181-007` → `EV-B0181-008` | `DISTRESS_TO_ALTERNATIVE_REQUEST`; Care creates a different task while refusal pressure remains stated. |
+| `EDGE-1261` | `EV-B0181-008` → `EV-B0181-009` | `CHOSEN_PRACTICE_TO_SELF_COMPARISON`; Calligraphy yields locally recognized change, with preparation elided. |
+| `EDGE-1262` | `EV-B0181-009` → `EV-B0181-010` | `SURPRISE_TO_ATTRIBUTED_TRANSFER`; Her question prompts the manager's explanation rather than analyst proof. |
+| `EDGE-1263` | `EV-B0181-010` → `EV-B0181-011` | `EFFORT_REFRAMED_RECIPROCALLY`; Peer language-study report expands who is making effort. |
+| `EDGE-1264` | `EV-B0181-011` → `EV-B0181-012` | `RECOGNIZED_SUPPORT_TO_LIVE_REQUEST`; Gratitude supplies the stated performance purpose. |
+| `EDGE-1265` | `EV-B0181-012` → `EV-B0181-013` | `REQUEST_TO_PRESENTED_SETUP`; C realizes the locally requested event, not every operational detail. |
+| `EDGE-1266` | `EV-B0181-013` → `EV-B0181-014` | `SETUP_TO_PUBLIC_MESSAGE`; Named thanks and source reception follow initial misunderstandings. |
+| `EDGE-1267` | `EV-B0181-014` → `EV-B0181-015` | `RECEPTION_TO_EXPLICIT_PURPOSE`; Peers acknowledge thanks; not every viewer's complete understanding. |
+| `EDGE-1268` | `EV-B0181-015` → `EV-B0181-016` | `PUBLIC_THANKS_TO_PRIVATE_REQUEST`; A successful local performance becomes the occasion for another message. |
+| `EDGE-1269` | `EV-B0181-016` → `EV-B0181-017` | `ACCEPTED_INVITATION_WITH_RETAINED_PRESSURE`; Embarrassed willingness and explicit permission not to force coexist. |
+| `EDGE-1270` | `EV-B0181-017` → `EV-B0181-018` | `ATTEMPT_TO_FAILED_DECODING`; Aesthetic praise does not establish reception of meaning. |
+| `EDGE-1271` | `EV-B0181-018` → `EV-B0181-019` | `FAILURE_REASSESSED`; The failed delivery remains present while its consequence changes. |
+| `EDGE-1272` | `EV-B0181-019` → `EV-B0181-020` | `REASSESSMENT_TO_ONGOING_COMMITMENT`; Continue despite incomplete access rather than certify a cure. |
+| `EDGE-1273` | `EV-B0181-020` → `EV-B0181-021` | `RESOLVE_WITH_UNEXPLAINED_MEANING`; Continued expression does not require full public disclosure. |
+| `EDGE-1274` | `EV-B0181-021` → `EV-B0181-022` | `WITHHELD_PRIVATE_TEXT_TO_SHARED_PRACTICE`; Peers may join without owning the missing message. |
+| `EDGE-1275` | `EV-B0181-022` → `EV-B0181-023` | `LOCAL_PARTICIPATION_TO_OPEN_FUTURE`; Future adulthood/next wall remain prospective. |
+| `EDGE-1276` | `EV-B0181-001` → `EV-B0181-010` | `CROSS_MEDIUM_LEARNING_EXPLANATION`; Manager connects interpretation/concentration to writing; attribution retained. |
+| `EDGE-1277` | `EV-B0181-005` → `EV-B0181-011` | `PEER_CARE_AND_REPORTED_RECIPROCITY`; Rest permission plus language-study report resist assumed rejection without proving fluency. |
+| `EDGE-1278` | `EV-B0181-018` → `EV-B0181-023` | `COMMUNICATION_LIMIT_TO_DEVELOPMENTAL_HORIZON`; Failed reading informs an open goal, not completed communication. |
+
+No new WORLD/THREAD records and no total chronology are required. Twenty-three EV/25 edges append to unchanged bodies, yielding1075EV/1271EDGE (max1278, seven earlier gaps retained),25WORLD/47THREAD. The final declared i-n-g chapter is a bounded causal case and an intermediate completion checkpoint; the full2034 release remains active.
