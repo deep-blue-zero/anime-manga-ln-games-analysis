@@ -547,6 +547,49 @@
           "series/silent-witch/.repository/series-registry.json"
         ]
       }
+    },
+    {
+      "unit": "V12",
+      "witness_id": "SW-LNJP-V12",
+      "source_epub_sha256": "91ed29af0e3031de6167f09952767a479ed87de5045d5fb11aec4b8060663c37",
+      "derivative_package_sha256": "0006b5eb48b33e768e471720edc1f753b039d77ede3e8cd903834fcbd40458e7",
+      "entry_record_sha256": "bf5bd6a3b9016b607471da9b1c28fcd4b7c8108abc4f07848e771d9526de6c84",
+      "entry_freeze": "SW-FR-V12-ENTRY",
+      "exit_freeze": "SW-FR-V12-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V12_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V12-001..223",
+      "cited_locators_verified": 250,
+      "quoted_fragments_verified": 8,
+      "ledger_records_added": {
+        "SW-S": 12,
+        "SW-R": 10,
+        "SW-K": 7,
+        "SW-W": 9,
+        "SW-C": 5,
+        "SW-CR": 89,
+        "SW-P": 4,
+        "SW-F": 3,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "97dfa8d9ff6e63da614af07da31c913be0c72404",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V12_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
     }
   ],
   "scope_notes": [

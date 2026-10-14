@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.24"
+version: "1.25"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
 locked_units: [V02, V03, V04, AFTER04, V05, V06, V07, V08, V09, EXTRA09, SW-LNJP-V10, SW-LNJP-V11, V12]
-literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14; V09 COMPLETE_CLOSED_2026-10-14; EXTRA09 COMPLETE_CLOSED_2026-10-14; V10 COMPLETE_CLOSED_2026-10-14; V11 COMPLETE_CLOSED_2026-10-14"
+literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14; V09 COMPLETE_CLOSED_2026-10-14; EXTRA09 COMPLETE_CLOSED_2026-10-14; V10 COMPLETE_CLOSED_2026-10-14; V11 COMPLETE_CLOSED_2026-10-14; V12 COMPLETE_CLOSED_2026-10-14"
 ---
 
 # Japanese LN source lock register
@@ -851,3 +851,5 @@ The technical-sample receipt and the retained audit's stored samples were not di
 | block-map.jsonl | `c7825bfbbf40c325ab9d34671f243edac2f73daba40ae1b123ea8170e906d5d4` |
 | element-locators.jsonl | `347c5d23fe3310f6658babaeb60f5a124fa9095bb012a4f4517662a28541809b` |
 | validation.json | `62931868cb19544393c4e96f33565130fd0e1a0d273d1912b2f9ba64d8761f8c` |
+
+**Use in the V12 reading.** Twenty-five of the thirty-two image resources were viewed, including the character list and, after the narrative, the full jacket. The cover, title page, store image, a contents glyph and the three preview images were not viewed. S36 proved to be the second page of the character list; its class holds. The [V12 reading](../02%20Sequential%20Readings/SW_V12_DEEP_READING.md) cites 250 distinct locators, all present in the element map, and quotes 8 short fragments, each verified in the base text of a cited block.
