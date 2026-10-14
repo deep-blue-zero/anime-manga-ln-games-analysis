@@ -5,14 +5,14 @@ artifact_type: "analytical_method"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.5"
+version: "0.6"
 status: "canonical"
 scope: "Primary-source observation, interpretation, prospective state and evidence standards"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_ANALYTICAL_METHOD.md"
 source_boundary: "Method contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
-updated: "2026-10-12"
-review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+updated: "2026-10-13"
+review_status: "AUTHOR_REVIEWED_NAMING_RULE_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -23,7 +23,7 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 
 # Analytical method
 
-This method decides how to observe and judge the Japanese manga by Tsurumaikada. The [synthesis architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md) allocates accumulated results; the [reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) defines transaction closure. The owner approved the revised version-0.2 foundation and authorized one complete V01 transaction. The first evidence-driven V01 review now retains this method and the seven homes under an EVOLVING architecture; it does not authorize V02, fanbooks or adaptation sources. Source claims and the historical bootstrap remain distinct from this foundation approval. Version 0.5 note: on 2026-10-12 the owner authorized a continuous V02–V15 run and conditional fanbook audits; the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns that live authorization and progress. Statements in this document that V02 or the fanbooks are unauthorized describe the earlier V01-only scope. The method itself is unchanged.
+This method decides how to observe and judge the Japanese manga by Tsurumaikada. The [synthesis architecture](MEDALIST_SYNTHESIS_ARCHITECTURE.md) allocates accumulated results; the [reading specification](MEDALIST_SOURCE_UNIT_READING_SPEC.md) defines transaction closure. The owner approved the revised version-0.2 foundation and authorized one complete V01 transaction. The first evidence-driven V01 review now retains this method and the seven homes under an EVOLVING architecture; it does not authorize V02, fanbooks or adaptation sources. Source claims and the historical bootstrap remain distinct from this foundation approval. Version 0.5 note: on 2026-10-12 the owner authorized a continuous V02–V15 run and conditional fanbook audits; the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns that live authorization and progress. Statements in this document that V02 or the fanbooks are unauthorized describe the earlier V01-only scope. The method itself is unchanged. Version 0.6 note: on 2026-10-13 the owner directed one editorial convention, added below as [entity naming and referential clarity](#entity-naming-and-referential-clarity); the evidence standards are unchanged, and the entrypoint still owns every statement of current boundary and authorization.
 
 ## Witness hierarchy and scope
 
@@ -63,6 +63,12 @@ Every consequential observation identifies the exact witness, local locator, spe
 | `UNRESOLVED` | Evidence gaps or surviving alternatives prevent adjudication. |
 
 Separate event, motive, narrative framing, creator intent and reception. The source depicting someone's belief does not establish its truth. Use qualitative confidence `HIGH / MODERATE / LOW / UNRESOLVED` with a reason for the particular proposition; transcription/identification confidence and interpretive confidence may differ. Confidence is not an invented probability or a substitute for a locator.
+
+## Entity naming and referential clarity
+
+Owner editorial instruction, 2026-10-13. In analytical prose, refer to a named character by the canonical name registered in the [character ledger](../03%20Longitudinal%20Ledgers/MEDALIST_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md) and not by a generic role label such as "the heroine", "the coach", "the prodigy" or "the champion", wherever the name improves referential clarity. Give the full registered name at the first mention in a major section where that reads naturally and the short established name afterwards, keeping the ledger's romanization and name order. Where two or more skaters, coaches or overlapping relationships are in play, repeat the name instead of relying on a pronoun or a label. Role terms remain correct where the role is itself the object of analysis: a contrast of coaching philosophies, a duty or power attached to an office, a character's position in the narrative. A person the admitted evidence leaves unnamed stays described and receives no imported name. A name disclosed after the event under discussion may be used; say when it was disclosed wherever that timing bears on the argument or on what a character knew. The purposes are clear prose, reliable retrieval by entity, and no archetypal framing the evidence has not earned.
+
+The rule governs synthesis and reconstruction artifacts and other new analytical text from its date. It is not a ground for rewriting frozen sequential readings, observation rows, source locators, claim versions or revision histories; role labels in those records stand as written and resolve through their `MD-CHAR` keys.
 
 ## Prospective transaction
 

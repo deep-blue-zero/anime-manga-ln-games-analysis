@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.11"
+version: "1.16"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
-source_boundary: "Japanese V01–V12 closed (Scores 1–48, Short Programs 1–6, two Exhibitions, own-volume material); fanbooks and later sources unadmitted"
+source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
 updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_V12_UPDATE"
+review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -439,3 +439,122 @@ Two creator notes are recorded as production statements: that a broadcast, a nov
 | A coach's standing | Lux | MD-IN-0128 | Staked by him on one result. | Whether he says so. |
 | Recruitment | Two clubs | MD-IN-0116 | The offer to the protagonist's coach is not revisited. | Outcome. |
 | Others | As V11 | as before | Unchanged in V12. | — |
+
+## V13 evidence tables
+
+All events below are version 1 through `MD-FR-V13`. In this section `EV-####` expands to the [V13 reading's](../02%20Sequential%20Readings/MEDALIST_V13_DEEP_READING.md#canonical-observations) `MD-EV-V13-####`. New setting: MD-ORG-0038, the adult hobby circle at the Ōsu rink with which Tsukasa skated as a boy. The household recorded as MD-ORG-0010 is described further by a creator profile. Earlier tables are unchanged. Descriptions are paraphrases.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0129 | ORG-0037, the cut | Mid-November | From junior level only the top twenty-four of the short program skate the free; a mark on the standings board shows who is already safe | A finalist of the international series is removed from her national championship after one segment | EV-0006/0008; MD-COMP-0016; MD-CL-0005@12/0013@13 | HIGH as stated; prior MD-IN-0127 |
+| MD-IN-0130 | Junior short-program rules, in operation | Same | A missed combination cannot be attached to a later jump, since the remaining jumps are required solo jumps | One opened jump costs a whole pass with no remedy | EV-0004; MD-SK-0078; MD-CL-0013@13 | HIGH as stated; prior MD-IN-0110/0126 |
+| MD-IN-0131 | What the event governs | Same | Entry to the senior national championships in December and selection for the world junior championships in March; a novice entrant is outside that selection | The champion gains nothing institutional by her effort; the eliminated skater's standing for both is in question | EV-0002/0020; MD-CL-0013@13/0022@9 | HIGH as stated; what it costs the protagonist is not shown; prior MD-IN-0127 |
+| MD-IN-0132 | ORG-0006 transplanted to ORG-0028: its end | The night of the title | The hidden coach ends his coaching of his own accord; the coach of record, the choreographer and the step teacher remain; the coach of record undertakes guardianship in a meeting with the former guardian | The arrangement recorded since V04 ceases to have a hidden coach | EV-0028/0030/0031; MD-CS-0280/0282/0283; MD-CL-0016@12/0011@13 | HIGH for his statement and departure; whether it is final is not shown; prior MD-IN-0120 |
+| MD-IN-0133 | A doctrine of peaking at ORG-0028 | Days after | A layout of three quadruples allowed once to a growing skater, against an agreement to limit quadruples when her growth stops | Risk is permitted by contract with the skater instead of forbidden or demanded | EV-0031; MD-SK-0082; MD-CL-0024@7/0022@9 | HIGH that it is said |
+| MD-IN-0134 | Public expectation of a designated skater | The championship and after | Spectators ask whether a failed skater practised; she fears being judged unfit to represent the country at the final; strangers hold banners for her regardless; she says she had to win because so much is staked on her | Standing conferred in V09 is experienced as a debt that a result can default on | EV-0011/0040; MD-CL-0001@13/0029@3 | HIGH; prior MD-IN-0096 |
+| MD-IN-0135 | A skater's school and a pair's founding rule | Late November | Never to miss school for practice, agreed at the start as a condition of aiming at the Olympics; broken by feigned illness; with her mother at work there is no one at home to check | A rule that tied the sport to an ordinary life is evaded when the result fails | EV-0034; MD-CL-0007@11/0014@8 | HIGH; the rule's origin is a caption; prior MD-IN-0108 |
+| MD-IN-0136 | Injury and its economy: ORG-0020 | December | A compound fracture ends a season and removes the favourite from the series final; a sponsorship already agreed must be renegotiated; anti-doping rules restrict treatment for a psychogenic symptom; the list for the final is updated and the next skater on points is promoted | One accident costs a title, a final, ranking and money, and gives another skater a place | EV-0036/0050/0051; MD-CL-0022@9/0011@13 | HIGH that it is reported |
+| MD-IN-0137 | ORG-0038, an informal gate | Tsukasa's adolescence | Adults who shared knowledge and ice free of charge with a self-taught boy and forbade him to practise jumps as too tall, too late and too poor; he complied for years, so none of them saw what he could do | Free help came with a verdict; a real instructor, which cost money, would have refuted it | EV-0042/0043/0052; MD-CS-0293; MD-CL-0010@13/0011@13 | HIGH that he says so; a creator page adds that they still share the rink and that he bears no grudge |
+
+A creator profile describes the household of MD-ORG-0010 as an old, strict house that adopted an orphan at five and whose elderly head proposed an athlete's life for her (EV-0033). It is recorded as a creator statement and adds no story-page event.
+
+### Current projection after V13
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| The junior nationals | This season | MD-IN-0127/0129/0131; MD-COMP-0016 | Won by a novice for the second year; the protagonist cut after the short program. | Order below first; consequences for her. |
+| Junior rules | Short program | MD-IN-0110/0126/0130 | A common layout, one exception, and no recovery. | External verification. |
+| The series final | December | MD-IN-0125/0136 | One finalist withdrawn, one promoted; the protagonist travelling. | The event. |
+| The hidden coach's regime | Ended | MD-IN-0084/0120/0132 | Its coach has left; its pupil is in her coach of record's care. | Whether he returns. |
+| Risk and growth | Several clubs | MD-IN-0106/0133 | Prevent, refuse needless cost, burn, or permit once and limit. | The limit in practice. |
+| Expectation | A designated skater | MD-IN-0096/0134 | Felt as obligation; contradicted by strangers' support. | Her designation after this result. |
+| School and sport | Lux | MD-IN-0135 | A founding rule broken and restated. | Compliance. |
+| Injury's economy | Aisai Ride | MD-IN-0117/0136 | A season, a final and a sponsor at risk. | Recovery. |
+| Informal gates | A coach's past | MD-IN-0137 | Help that forbade. | — |
+| Others | As V12 | as before | Unchanged in V13. | — |
+
+## V14 evidence tables
+
+All events below are version 1 through `MD-FR-V14`. In this section `EV-####` expands to the [V14 reading's](../02%20Sequential%20Readings/MEDALIST_V14_DEEP_READING.md#canonical-observations) `MD-EV-V14-####`. New settings: MD-ORG-0039, the Junior Grand Prix Final as held in Beijing together with the senior final; MD-ORG-0040, the world ranking as a points system. Earlier tables are unchanged. Descriptions are paraphrases.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0138 | ORG-0039, the final | December | Six junior women who qualified through the series; junior and senior finals share one arena and four days, with an opening ceremony and an exhibition day; a national party travels together with federation staff, in team dress, photographed on arrival; five of six senior women are from the same country | The protagonist competes as one of two national representatives at an event far larger than any she has entered | EV-0002/0005/0007/0012/0041; MD-COMP-0017; MD-CL-0013@14 | HIGH as shown; prior MD-IN-0125 |
+| MD-IN-0139 | ORG-0040, the world ranking | As taught, undated | Points are awarded by the grade of an event and the result, counted over the last three years; every place at this final earns points; the ranking matters for entry to senior internationals; the protagonist is 141st with 432 points beside rivals holding 475 to 2,194 | A second channel of standing, cumulative and independent of any single national result | EV-0003/0009/0030; MD-CL-0005@13/0011@14 | HIGH as stated; not checked externally |
+| MD-IN-0140 | Olympic selection and the age rule, restated | Same | One place to the national champion before the Games; up to three places, the number fixed by placements at the world championships; for the remaining places the world ranking weighs heavily, with conditions that vary by cycle; the senior age rule has not changed this cycle, and such changes are announced in the July after a Games, so that the protagonist's first eligible Games are seven years on, at twenty | A dream stated in V01 is given an administrative route with dates | EV-0003/0009; MD-CL-0013@14/0002@14 | HIGH as stated; prior MD-IN-0102/0118 |
+| MD-IN-0141 | The judging panel and the component mark | First day of the final | A score is the technical mark plus a component mark of three parts, each with listed criteria; judges work from printed sheets with banded ranges and enter marks on keypads; they are shown unmoved by an appeal from the ice | Artistic merit is settled by a shared standard that knowledge can largely read; a hall's enthusiasm and the panel's mark can part | EV-0014/0017/0018/0025/0031; MD-SK-0086; MD-CL-0030@1 | HIGH as stated and shown; the banded scale is only partly legible |
+| MD-IN-0142 | Coaching teams around four finalists | Same | A former ballet dancer who once coached an Olympic champion; a team that rebuilt a strategy on components after an injury; two coaches, one an Olympic champion and the skater's uncle, in open disagreement over whether to coach to the rules or to the crowd; a team that designs choreography to satisfy two criteria at once | Who decides a young skater's direction differs by team; in one case it is undecided and the skater has not been asked on the page | EV-0013/0015/0018/0019; MD-CS-0303/0304/0305; MD-CL-0024@8 | HIGH for what is said; the report of an unsettled policy is called a rumour |
+| MD-IN-0143 | ORG-0002, the labour behind one program | About three months earlier to the final | The head coach makes the choreography and diagnoses its weak component; the assistant coach devises and carries a training method, studying two colleagues who dance the piece; a former senior advises; a second coach joins the club and at the final withdraws to the stands; the club's trainer is requested by the federation for the final | A small club assembles the functions that larger teams hold, by borrowing and by one man's hours | EV-0001/0005/0026/0027/0038; MD-SK-0084; MD-CL-0017@10/0011@14 | HIGH; two items rest on a margin note and a strip; prior MD-IN-0128 |
+| MD-IN-0144 | Followers: ORG-0007 and the hall | First day of the final | A patron brings his daughter on a family trip and learns the scoring; a rink clerk travels with a banner; foreign spectators consult a live protocol and a ranking list and remark on the gap | Support that is not owed attends an event whose economy is points | EV-0005/0030/0032/0033/0034; MD-CL-0011@14/0001@14 | HIGH; one item is from a gag panel; prior MD-IN-0134 |
+| MD-IN-0145 | ORG-0032, an informal apprenticeship | The assistant coach's first weeks there | A self-taught newcomer who pays his own costs is held to basics by a coach and handed for steps to a senior skater, who teaches by ridicule and demands deference; another senior mediates | Teaching by peers fills what formal coaching does not, without any standard of manner | EV-0036/0037; MD-CS-0311/0312; MD-CL-0017@10/0010@14 | HIGH as told; a side chapter in a frame; prior MD-IN-0137 |
+
+Strips add that two boys of MD-ORG-0009 represent the country in the men's event, one of them also a pairs skater, and that the head coach of the protagonist's rival's former club, just out of hospital, travels to China with a senior skater (EV-0038). They are recorded as creator asides and add no story-page event.
+
+### Current projection after V14
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| The series final | December | MD-IN-0125/0136/0138; MD-COMP-0017 | Under way; the protagonist first after five of six short programs. | The sixth skater; the free skate. |
+| World ranking | The sport | MD-IN-0139 | A three-year points table on which the protagonist is 141st. | External verification; what this final adds. |
+| Olympic selection and age | Seven years on | MD-IN-0096/0102/0118/0140 | One place by title, others weighted by ranking; the age rule unchanged this cycle. | Whether the rule moves later. |
+| Judging | Component mark | MD-IN-0141 | A shared standard in three parts, largely legible to knowledge. | External verification; a rival view that skaters may change the rules. |
+| Coaching teams | The final's field | MD-IN-0142/0143 | Large teams, a divided one, and a small club that borrows. | — |
+| Expectation and support | A designated skater | MD-IN-0134/0144 | Followers travel; strangers look her up. | Her designation after November. |
+| The junior nationals | This season | MD-IN-0129/0131 | As at V13. | What the elimination cost her. |
+| Informal teaching | A coach's past | MD-IN-0137/0145 | Help that forbade, and help that mocked. | — |
+| Others | As V13 | as before | Unchanged in V14. | — |
+
+## V15 evidence tables
+
+All events below are version 1 through `MD-FR-V15`. In this section `EV-####` expands to the [V15 reading's](../02%20Sequential%20Readings/MEDALIST_V15_DEEP_READING.md#canonical-observations) `MD-EV-V15-####`. New setting: MD-ORG-0041, the household in which Tsukasa grew up. Earlier tables are unchanged. Descriptions are paraphrases. V15 is the terminal unit of the 2026-10-12 continuous run.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0146 | ORG-0039, the final after its first segment | December | Six short programs, the first three within 0.35; the result will be the sum of two segments; after skating, athletes pass a mixed zone in which cameras precede writers in an order said to follow sponsors' support, and coaches may be asked to comment | Two skaters of one country lead; the protagonist is second by 0.33 | EV-0002/0009/0014; MD-COMP-0017; MD-CL-0013@15/0005@14 | HIGH as shown and stated; prior MD-IN-0138 |
+| MD-IN-0147 | A coach's public standing | Same | The leader's coach is interviewed; the second-placed skater's assistant coach is told he is not needed and sent out; a rival's coach, reading the protocol, calls him a strategist and wishes to know him; he himself feels that he has no place except as a coach | Recognition among coaches precedes recognition by the press; his sense of self rests on the role | EV-0002/0014/0015; MD-CL-0010@15/0011@15 | HIGH; prior MD-IN-0128 |
+| MD-IN-0148 | ORG-0040, the ranking as a lifeline | As explained by a skater | This final and the world junior championships carry up to 850 points together; entry to the senior Grand Prix series depends on ranking and record; Olympic places other than the national champion's weigh the ranking just before the Games; a favourite injured before both events loses the points, enters senior competition without them, and has an Olympics three years on | An injury's cost is counted in points and years as well as in a season | EV-0012; MD-CL-0005@14/0022@11 | HIGH as stated; not checked externally; prior MD-IN-0139/0136 |
+| MD-IN-0149 | The national party's supervision of a skater's words | First evening of the final | A team-mate notices what a thirteen-year-old tells the press and takes it to the federation's trainer; federation staff are uneasy about her state of mind; the trainer takes it to her coach and offers herself as a third party to him | An institutional channel carries to a coach what his pupil had not told him | EV-0016/0017/0019; MD-KN-0145; MD-CL-0027@7/0011@15 | HIGH |
+| MD-IN-0150 | ORG-0041, a household under a verdict | Tsukasa's boyhood | A father driven from his company by harassment over his schooling and unable to work steadily; a mother gone out to work; an eldest son sitting an entrance examination as the father's last stronghold, with a vow to repay its cost; a second son minding the youngest; neighbours who call the eldest privileged and the mother heartless; the flat given up and the family divided between a grandmother's and an aunt's | A child learns that wanting costs money and that those who cost money are judged; he does not say what he wants | EV-0020/0035; MD-CS-0326; MD-CL-0010@15/0031@1 | HIGH as remembered |
+| MD-IN-0151 | ORG-0038, the hobby circle, told again | His adolescence | Adults who took in a boy sent by the rink's desk, advised him against jumps as too tall, and fed him; no rule of the rink forbade a beginner to jump; some city events then admitted unregistered entrants; they came to watch him, tended an injury, reproached and praised him, apologized next day, and were relieved when he left for a job | The gate of MD-IN-0137 was advice and good will, obeyed by a boy who could not ask and who hid what he did | EV-0036/0037/0038; MD-CL-0031@1/0017@11 | HIGH as remembered; an author's note says that registration through a recognized club is now required and that height does not preclude jumps; revises the colour of MD-IN-0137 without contradicting its facts |
+| MD-IN-0152 | ORG-0032, the price of ice dance for a late starter | His early twenties | A test grade within three years as the condition of competing; daily lessons costing about a young full-time worker's monthly pay; one lesson a week on his earnings; a loan and a reduced fee offered and declined; three jobs that removed his practice time; a teacher's doctrine that the sport is a team contest in which supporters are participants | The barrier was money and his refusal of help, not rejection; the doctrine that would have removed it was stated to him then | EV-0025/0026/0027; MD-CS-0321/0322; MD-CL-0011@15/0026@8 | HIGH as remembered; prior MD-IN-0145 |
+| MD-IN-0153 | ORG-0007, patronage in its actual order | His high-school years to his mid-twenties | Part-time work for three school years, with no knowledge of his skating; in Yokohama, where the family had moved for the wife's treatment and the business was strained, no sponsorship but live-in work minding a child, which gave him sleep and a passed test; the wife's death on the night of his last championship; afterwards the patron's pressure toward the ice show | Support came late, in kind and not in money, and ended in a bereavement; the patron counts it as a debt of his own | EV-0015/0031/0032/0041/0043; MD-CS-0323/0324; MD-CL-0011@15 | HIGH; clarifies the order of MD-IN-0009 |
+| MD-IN-0154 | The ice show as work | The present | Paid performance before an audience, distinct from competition and from ice dance; once failed by the coach at audition; now promised by him as something he will attempt again while remaining a coach | A coach's fulfilment is given a second ground apart from his pupil's results | EV-0050/0051/0053; MD-CS-0332; MD-CL-0010@15 | HIGH that it is promised; "some day" |
+
+### Current projection after V15
+
+| Institution / constraint | Effective scope | Active row references | Bounded current account | Unresolved implementation / external comparison |
+| --- | --- | --- | --- | --- |
+| The series final | December | MD-IN-0138/0146; MD-COMP-0017 | Short program complete; the protagonist second by 0.33; free skate unopened at the run's terminal boundary. | The result. |
+| World ranking and selection | The sport | MD-IN-0139/0140/0148 | A three-year table that makes one injury cost a senior debut. | External verification. |
+| Judging | Component mark | MD-IN-0141 | As at V14; a rival coach attributes a margin to levels and execution. | — |
+| A coach's standing | A small club | MD-IN-0128/0143/0147 | Recognized by a rival coach, not yet by the press; staked by him on a result that afternoon and loosened by a promise that night. | His conduct after a result. |
+| Supervision of a young skater | The national party | MD-IN-0149 | A team-mate, a trainer and staff notice and route a warning. | What the federation does. |
+| Support as participation | Several households and a club | MD-IN-0009/0152/0153 | Stated as doctrine by a teacher and a patron's wife; practised late and in kind. | — |
+| Informal gates | A coach's past | MD-IN-0137/0145/0151 | Help that advised wrongly, taught badly, and would have helped more if asked. | — |
+| A household under a verdict | A coach's childhood | MD-IN-0150 | The source of his rule that he must cost no one anything. | The family now. |
+| Injury's economy | Aisai Ride | MD-IN-0136/0148 | A season, a final, 850 points and a sponsor. | Recovery. |
+| Others | As V14 | as before | Unchanged in V15. | — |
+
+## FB01 evidence tables
+
+In this section `EV-####` expands to the [Official Fanbook 01 paratext audit's](../02%20Sequential%20Readings/MEDALIST_FB01_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB01-####`. Rows are at the stated source layer and are not story-page events. Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0155 | ORG-0002, a small club's ice | The heroine's fifth-grade year, undated | Hired ice on two evenings a week and one dawn session; otherwise public sessions; skaters below a badge grade cannot join federation-run hired sessions; a parent drives the child from school each day; about two hours twenty minutes on an ordinary day | A beginner's progress is bounded by hours a family and a club can supply | EV-0022; MD-CL-0011@16/0014@10 | FB-FICTION by the author; HIGH as drawn; prior MD-IN-0005 |
+| MD-IN-0156 | ORG-0001, a rink desk | Before V01 and at V01 | A clerk who once watched a boy without money come daily and did nothing; later admits a girl without asking questions and teaches her the basics himself | An informal gate opened as reparation | EV-0020; MD-CL-0011@16/0031@1 | FB-CREATOR; HIGH as stated; the boy is unnamed; prior MD-IN-0151 |
+| MD-IN-0157 | ORG-0002 and ORG-0035, a club's succession; ORG-0008, a club's backers | Before V01 | The head coach's father was named successor to the previous coach, does not wish to coach there, and his daughter runs the club; a two-person club exists on the support of its pupil's mother and the blessing of the head coach its founder left | Small clubs depend on a family's or a patron's willingness | EV-0015/0017/0024; MD-CL-0009@3 | FB-CREATOR, FB-EDITORIAL; HIGH as stated |
+
+A creator box reports that the series was first conceived with a child as the heroine's supporter and that an adult coach was introduced after an editor asked what the adults were doing (EV-0012). It is a statement of design and adds no institutional event.
+
+## FB02 evidence tables
+
+In this section `EV-####` expands to the [Official Fanbook 02 paratext audit's](../02%20Sequential%20Readings/MEDALIST_FB02_PARATEXT_AUDIT.md#canonical-observations) `MD-EV-FB02-####`. Rows are at a creator's or documentary weight and are not story-page events. Earlier tables are unchanged.
+
+| Event | Institution / actor / affected people | Story time / known after | Resource / rule / actual implementation | Options / decision / effect | Evidence / linked homes / claim | Confidence / alternatives / prior / revision |
+| --- | --- | --- | --- | --- | --- | --- |
+| MD-IN-0158 | ORG-0002 and ORG-0007, an assistant coach's economy | The period of V05–V09 | Lodging at a patron's house in exchange for the care of a child and housework; one coached pupil and trial lessons; part-time work at the patron's firm and night traffic control; sleep cut to cover both; club parents who measure him against the head coach's lost results | A coach's total service is financed by a household and by his own body; the book calls the last not good | EV-0004; MD-CL-0010@16/0011@16 | FB-CREATOR; HIGH as stated; prior MD-IN-0153 |
+| MD-IN-0159 | ORG-0006, the hidden regime from inside | The period of V05–V09 | A midnight lesson of about an hour two or three nights a week; school missed the next day; daytime practice left undirected on the coach's policy; a pupil with no friends who fears failing the lesson | A child's week is organized around one adult's hour | EV-0006/0007; MD-CL-0016@14/0003@14 | FB-CREATOR; HIGH as stated; prior MD-IN-0084 |
+| MD-IN-0160 | Access and shelter among clubs and households | Years before V01 to V09 | A child from a harmful home drawn into a club by an older skater and sheltered by that skater's mother; a senior head coach who makes it his business to give people a place; a coach and his wife who keep on terms with a pupil's parents for her sake; an application declined on a mother's word; a skater who must stop because her one parent cannot be kept working | Who gets to skate, and who is looked after while skating, is settled between households | EV-0010/0012/0014/0016; MD-CL-0014@11/0022@12/0026@9 | FB-CREATOR; HIGH as stated |
+
+A table sets the story's events against Winter Olympic years without calendar years, under a statement that the story's world is a little in the future and differs from the real one (EV-0027). It is recorded in the chronology ledger.
