@@ -5,11 +5,11 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.6"
+version: "1.7"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review recorded"
-source_boundary: "Accepted foundation; Japanese LN V01 to V03 read and closed under it; first closed-volume review based on V01 only; V02 and V03 notes recorded."
+source_boundary: "Accepted foundation; Japanese LN V01 to V04 read and closed under it; first closed-volume review based on V01 only; V02 to V04 notes recorded."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md"
 supersedes: []
@@ -53,7 +53,7 @@ Git holds interpretation, methods, public-safe routing, state, and provenance. G
 | V01 foundation/gate report | Owner acceptance, semantic foundation/day-one checks, the historical CLOSED hold and the V01-only gate opening with its entering freeze. |
 | V01 deep reading | Source-bearing V01 observations SW-E-LNJP-V01-001 to 132, coverage, synopsis, close reading and the exit freeze; frozen at its source boundary. |
 | V01 reading path manifest | Exact path set and state of the V01 transaction. |
-| Later deep readings | One per closed unit, `SW_V<NN>_DEEP_READING.md`, each owning its observations and freezes; V02 and V03 closed. |
+| Later deep readings | One per closed unit, `SW_V<NN>_DEEP_READING.md`, each owning its observations and freezes; V02 to V04 closed. |
 | Continuous run path manifest | Run identity and one transaction entry per unit closed under the 2026-10-14 run. |
 | Master longitudinal ledger | Sole pre-split cumulative analytical state, claims/revisions, predictions, and local readiness. |
 | Bootstrap report | Historical design rationale, observed precedents, accesses, checks, limitations, and handoff gates. |
@@ -192,6 +192,8 @@ Performed after V01 closed, on V01 evidence only, as this section requires.
 *V02 note, 2026-10-14.* V02 was reconciled into the single ledger with eighteen revision events and no strain on any section; no review trigger was met, so no review was performed. Section 7 domains stay as decided at V01, with two observations for the next review: disclosure and knowledge now carries a resolved anonymity, a cluster of unexplained identity details around Felix and a concealed assassination attempt; and loyalty, deception and self-authorship gained an antagonist-friend and a concept of duty.
 
 *V03 note, 2026-10-14.* V03 was reconciled into the single ledger with twenty-six revision events, sixteen new local identities and no strain on any section; no review trigger was met, so no review was performed. Observations for the next review: affiliative or romantic ambiguity, deferred at V01, now has a full volume of material (the festival night, the pendant, a named first love directed at the Silent Witch) and should be reconsidered; disclosure and knowledge has grown into a multi-holder secret with an antagonist’s suspicion; and the cluster around Felix (SW-C-0022) is now the largest unexplained body of evidence in the ledger. The first supplemental review falls before IV -after- is admitted.
+
+*V04 note, 2026-10-14.* V04 was reconciled with thirty-four revision events, two of them corrections of a V03 date formulation, fourteen new identities and no strain on any section. The arc boundary at the end of the festival and the coming admission of IV -after- both call for the review this framework requires before a supplemental admission; it is recorded with that admission.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 

@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.4"
+version: "1.5"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
 locked_units: [V02, V03, V04]
-literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14"
+literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14"
 ---
 
 # Japanese LN source lock register
@@ -204,3 +204,5 @@ Common limitations: each witness is a supplied reflowable EPUB whose equivalence
 | block-map.jsonl | `92ab20f3a3295863136592523800678ca224dedbfc215af414dcbe10427dc64c` |
 | element-locators.jsonl | `c621adf1f98d33511e9b61dd27e458835912074a6ad91f7a0e50c0151f91921f` |
 | validation.json | `5200c04630d633735be8b23243bebdd177dc8e7539ba46d4d8f6cc1c4e5637a4` |
+
+**Use in the V04 reading.** Every admitted image was viewed at source resolution; the jacket and the S36 back-matter image were first viewed after the narrative had been read, and S36 proved to be a publisher advertisement for IV -after-, confirming its class as image paratext excluded from narrative. The [V04 reading](../02%20Sequential%20Readings/SW_V04_DEEP_READING.md) cites 248 distinct locators, all present in the element map, and quotes 105 short fragments, each verified in the base text of a cited block. No member was reclassified. A search listing put one phrase of preview member S41 on screen; it was not used.

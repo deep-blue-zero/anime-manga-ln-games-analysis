@@ -112,6 +112,50 @@
           "series/silent-witch/.repository/series-registry.json"
         ]
       }
+    },
+    {
+      "unit": "V04",
+      "witness_id": "SW-LNJP-V04",
+      "source_epub_sha256": "a80f90953d625d304ae724a9b05a8c93ad3392e8bfd23e9edaeb6d0f9642fcfc",
+      "derivative_package_sha256": "5ca9e2fbe7229789a1e2bdf8d0630ab2f4469a480c184a4a377e71481ba79978",
+      "entry_record_sha256": "d7250af4195aaba6331175e683cae861022838f4e08fa72bce4a1f2395ed74f7",
+      "entry_freeze": "SW-FR-V04-ENTRY",
+      "exit_freeze": "SW-FR-V04-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V04_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V04-001..128",
+      "cited_locators_verified": 248,
+      "quoted_fragments_verified": 105,
+      "ledger_records_added": {
+        "SW-S": 20,
+        "SW-R": 16,
+        "SW-K": 12,
+        "SW-W": 12,
+        "SW-C": 6,
+        "SW-CR": 34,
+        "SW-P": 6,
+        "SW-F": 5,
+        "SW-RD": 4,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "ab7d76bc0260854be0cc3823406ebce5b4301695",
+      "companion_placement": "IV -after- next: released 2022-10-07, after V04 (2022-08-10) and before V05 (2023-02-10)",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V04_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
     }
   ],
   "scope_notes": [
