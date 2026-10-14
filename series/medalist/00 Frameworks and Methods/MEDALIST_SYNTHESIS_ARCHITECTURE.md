@@ -5,14 +5,14 @@ artifact_type: "synthesis_architecture"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.5"
+version: "0.6"
 status: "canonical"
 scope: "Accumulation model, canonical responsibilities, promotion, convergence and completion"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SYNTHESIS_ARCHITECTURE.md"
 source_boundary: "Architecture contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
-updated: "2026-10-12"
-review_status: "AUTHOR_REVIEWED_V01_UPDATE"
+updated: "2026-10-13"
+review_status: "AUTHOR_REVIEWED_NAMING_RULE_UPDATE"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -114,7 +114,7 @@ Specialists are **conditional responsibilities**, not a promised document list:
 | Artistic expression/identity | Multiple performances distinguish athlete aim, depicted expressivity, judging and audiences without presuming opposition | Sport + visual + character + claims |
 | Adaptation and AV performance | Admitted episode evidence, exact mapping, actually inspected required channels and tested divergent framing | Separate AV matrix/crosswalk + closed relevant manga territory |
 
-A specialist begins from a meaningful closed tranche whose exact boundary and exclusions are explicit. It must pose an independent question, make an argument, trace consequential claims, consider competing readings, and identify unresolved evidence. A single diagnostic case may support a bounded study, not a full-domain thesis. If support is thin, retain the responsibility as anticipated.
+A specialist begins from a meaningful closed tranche whose exact boundary and exclusions are explicit. It must pose an independent question, make an argument, trace consequential claims, consider competing readings, and identify unresolved evidence. A single diagnostic case may support a bounded study, not a full-domain thesis. If support is thin, retain the responsibility as anticipated. Character, relationship, specialist and integrated synthesis prose names its subjects under the method's [entity naming and referential clarity](MEDALIST_ANALYTICAL_METHOD.md#entity-naming-and-referential-clarity) rule.
 
 ## Synthesis dependencies and convergence
 
@@ -178,6 +178,8 @@ Version 0.3 (2026-10-12): owner accepted the revised foundation and authorized V
 Version 0.4 (2026-10-12): first V01 transaction completed with full admitted-image coverage, seven reconciled ledgers and MD-FR-V01. AUTHOR_REVIEWED evidence-driven lifecycle EVOLVING; foundation version 0.2 retains its separate owner approval. No new source-unit authorization or specialist/model promotion.
 
 Version 0.5 (2026-10-12): owner authorized `continuous_sequential` V02–V15, conditional fanbook audits and provisional boundary syntheses. No responsibility, ledger or dependency changes. Front-matter source boundary now defers to the entrypoint so it does not go stale at each closure. Earlier statements here that V02 or supplements are unauthorized record the V01-only scope and are retained as history; the entrypoint owns live authorization.
+
+Version 0.6 (2026-10-13): owner-directed entity naming convention adopted in the method; this document adds one cross-reference under promotion. No responsibility, ledger or dependency changes. Frozen readings and ledger histories are not rewritten for it.
 
 ## V01 evidence-driven architecture review
 
