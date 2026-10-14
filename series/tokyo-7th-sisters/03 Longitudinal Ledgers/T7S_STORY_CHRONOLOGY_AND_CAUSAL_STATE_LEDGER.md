@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.86"
+version: "11.87"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 34 Intimacy primary documents across 4 family portfolios / T7S_B0182–T7S_B0185; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 42 Intimacy primary documents across 5 family portfolios / T7S_B0182–T7S_B0186; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-14
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1109`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1283`; `last_closed_block = T7S_B0185`. The admitted horizon contains 549 primary documents: 235 Main, 280 i-n-g and 34 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 34 Intimacy documents across 4 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1126`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1290`; `last_closed_block = T7S_B0186`. The admitted horizon contains 557 primary documents: 235 Main, 280 i-n-g and 42 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 42 Intimacy documents across 5 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3709,3 +3709,39 @@ Owner [B0185](../02%20Readings/T7S_B0185_DEEP_READING.md), reading SHA256 `107e1
 | `EDGE-1290` | `EV-B0185-004` ↔ `EV-B0185-007` | `SIMILARITY_AND_HOBBY_DISTINCTION_COMPARISON`: playful agreement and insistence on difference negotiate being understood, without dating cases or proving manager interior state. |
 
 Totals1109EV/25WORLD/47THREAD/1283EDGE. MaximumEDGE1290 retains seven pre-existing non-active gaps; no renumbering or menu-derived total chronology.
+
+## B0186 Kyoko's requests and professional restraint
+
+Owner [B0186](../02%20Readings/T7S_B0186_DEEP_READING.md), reading SHA256 `10e83396e77a4e61cf1bd1e2b62e672c4ca6091d98af24828cf2fd5371b2bf86`; complete family200610 / routeNM-INTIMACY-200610, eight exact primary scripts/fullranges, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, proposed source-lock 12.92. Entering B0185/source-lock12.91 complete24physical/control/entity views remain frozen. A–G are seven independent short occurrences; H is the full238-page exepisode6489, never omitted by filename. Source/menu order is not unlock level or total chronology; H alone supplies a local workday and later pre-live sequence.
+
+| ID | Complete native range | Factual home | Frame and retained limit |
+| --- | --- | --- | --- |
+| `EV-B0186-001` | 401000046 P0–3 | Asks manager likes/skills, asserts wish to know him and promises to remember. | `REQUEST_FOR_PARTICULAR_KNOWLEDGE`; implied replies only, no specific learned answer/reciprocal confession. |
+| `EV-B0186-002` | 401000050 P0–5 | Enjoys idol work, credits own effort, speculates about another career and asks him to watch beside her. | `LABOR_PRIDE_WITH_DESIRED_WITNESS`; no technical rank, sole cause or literal unlimited growth. |
+| `EV-B0186-003` | 401000464 P0–5 | Reports others busy/shared recent routines, withdraws demand for novel talk and requests silent TV/laughter company. | `REVISED_FORM_OF_COMPANY`; no completed harmonious evening or universal shared history. |
+| `EV-B0186-004` | 401000810 P0–5 | Complains about waiting, notices hair/tie, tells him to crouch and says the adjustment is done, with future refusal. | `PRACTICAL_CARE_IN_IRRITATED_ADDRESS`; her lateness/behavior appraisal, no timed arrival/motion/permanent incapacity or caretaker role. |
+| `EV-B0186-005` | 401001034 P0–5 | Relays targeting rumor, explicitly jokes about recruiters, admits fear/concern for smaller children and requests manager protection. | `ATTRIBUTED_THREAT_AND_COLLECTIVE_RELIANCE`; no culprit/attack, verified only-man census, effective protocol or ethical absolution. |
+| `EV-B0186-006` | 401001206 P0–5 | Reports crepe-shop couple classification, insists on manager/idol distinction and denies grinning with itchy-nose explanation. | `EXTERNAL_CLASSIFICATION_AND_WRITTEN_AMBIVALENCE`; no couple agreement/direct other turn or sprite grin change. |
+| `EV-B0186-007` | 401001330 P0–5 | Complains seemingly privately about new recruits/gaze, asserts future work, discovers manager and calls speech drama practice. | `EXPOSURE_AND_ATTRIBUTED_RETRACTION`; explanation follows exposure, not independently marked fiction; no settled jealousy/romance or manager motive. |
+| `EV-B0186-008` | 401006489 P0–40 | Late script collection/workload/rest concern, acting/idol success and lost peer/unit time reports; Player offers packed-day accompaniment. | `WORKLOAD_REPORT_AND_SUPPORT_OFFER`; unspecified earlier incident unassigned, successes/scheduling attributed. |
+| `EV-B0186-009` | 401006489 P41–74 | Read-through fictional lines, director praise/invitation, Kyoko hesitates then declines concern; Player plans next-venue contact. | `REVISION_INVITED_AND_WITHHELD`; P59contact not shown completed, quoted accusation not confession, acting judgments attributed. |
+| `EV-B0186-010` | 401006489 P75–93 | Quiz PR stresses buddy rapport; Player recalls her liking competition and asks about omitted preference; she defends broad/memorable career strategy. | `PROMOTIONAL_RATIONALE_AND_RECALLED_PREFERENCE`; no original-work audit, guaranteed solo lead or complete promotion outcome. |
+| `EV-B0186-011` | 401006489 P94–113 | Efficient photo-session praise, checked selections, interest in unchecked file followed by acceptance after rejection explanation. | `INFERRED_PREFERENCE_AND_SELECTION_GATE`; pixels/criteria unknown, suppression first a manager inference. |
+| `EV-B0186-012` | 401006489 P114–140 | Player raises concern; Kyoko invokes adult non-burden responsibility and leaves; photographer praises her/Nanasta and receives an unspecified favor request. | `RESPONSIBILITY_ACCOUNT_AND_PARTIAL_INTERVENTION`; no unrestricted mind access or known request content atP137. |
+| `EV-B0186-013` | 401006489 P141–159 | Fictional villain-lady lines; film director praises role construction, asks for personal pride/freer acting and permits a break. | `COLLABORATOR_FEEDBACK`; no technical rank, continuous filmed performance or complete film reception. |
+| `EV-B0186-014` | 401006489 P160–204 | Warm tea request/giving; mother-model adult ideal; Player questions replacement; Kyoko declares surpassing mother, accepts creative particularity and proposes renewed acting/idol plan, privately thanks. | `RECIPIENT_AUTHORED_UPTAKE`; mother offscreen, P186universal response assurance not result, P204no sprite, no permanent cure. |
+| `EV-B0186-015` | 401006489 P205–216 | Later pre-live scene; Player relays staff energy praise, Kyoko reports vigorous negotiation/inclusion of her wishes. | `REPORTED_FRICTION_AND_RENEWED_WORK`; no universal agreement/effectiveness or inspected finished production. |
+| `EV-B0186-016` | 401006489 P217–227 | Recognizes sample magazine/photo surprise; Player reports noticing interest, photographer contact/image review and alternative request; peers reportedly wait. | `REPORTED_PHOTO_ADVOCACY_AND_REVEAL`; image pixels/editorial procedure/prior consent remain unavailable. |
+| `EV-B0186-017` | 401006489 P228–237 | Calls back toward live, vows brightest performance/audience smiles and commands his gaze; final fade/title/end. | `PRE_PERFORMANCE_ASPIRATION`; no live/song/actual audience response, motion or elapsed-time proof. |
+
+| ID | Relation | Chronology and causal qualification |
+| --- | --- | --- |
+| `EDGE-1291` | `EV-B0186-001` ↔ `EV-B0186-002` | `PARTICULAR_KNOWLEDGE_AND_ATTENDING_WITNESS_COMPARISON`; different requested goods, no date/order or reciprocal status. |
+| `EDGE-1292` | `EV-B0186-002` ↔ `EV-B0186-003` | `WORK_WITNESS_AND_QUIET_COMPANY_COMPARISON`; watching work and co-laughter remain distinct, not an ordered relationship progression. |
+| `EDGE-1293` | `EV-B0186-004` ↔ `EV-B0186-005` | `PRACTICAL_CARE_AND_PROTECTION_REQUEST_COMPARISON`; care moves in different directions without validating hierarchy or a safety protocol. |
+| `EDGE-1294` | `EV-B0186-007` ↔ `EV-B0186-009` | `POST_EXPOSURE_REHEARSAL_EXPLANATION_AND_MARKED_FICTION_COMPARISON`; G's claimed practice differs from H's explicitly quoted role lines; no total chronology. |
+| `EDGE-1295` | `EV-B0186-009` / `EV-B0186-010` / `EV-B0186-011` → `EV-B0186-014` | `LOCALLY_ORDERED_WITHHELD_PREFERENCES_AND_ADULT_ACCOUNT`; H's later self-explanation supports a bounded reading of earlier restraint, not infallible initial manager diagnosis or sole cause. |
+| `EDGE-1296` | `EV-B0186-013` → `EV-B0186-014` | `COLLABORATOR_INVITATION_AND_OWN_PLAN_UPTAKE`; director feedback precedes the conversation and authored plan withinH; multiple contributions, no guaranteed production result. |
+| `EDGE-1297` | `EV-B0186-011` → `EV-B0186-016` | `LOCALLY_ORDERED_PHOTO_INTEREST_AND_REPORTED_ALTERNATIVE`; coda returns to the earlier file, while pixels/permission/editorial chain remain uninspected. |
+
+Totals1126EV/25WORLD/47THREAD/1290EDGE; maximumEDGE1297 retains seven pre-existing non-active gaps.17new events are factual subcases covering every complete document, not17new source documents. No renumbering, world/thread promotion or menu-derived dates.

@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0185; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0186; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-14
 ---
@@ -1077,4 +1077,60 @@ Nine complete family200460 primary occurrences, source-lock 12.91, witness `T7S_
 | `REL-1032` | `kasukabe-haru → UNIT-0029 / vivad-workplace` | Names VivaD as source of Rona-provided donuts. This adds bounded food-source continuity to admitted workplace state, without legal/ownership/staffing/contract knowledge. |
 
 Totals918KNOW/1032REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. Unarin/Unako are reported mascots/keychains, not newly admitted human subjects. Old ledger bodies/histories and unresolved access remain exact; no mature monograph promoted.
+
+## B0186 Kyoko's bounded requests, craft and support
+
+Eight complete family200610 primary documents, source-lock 12.92, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Kyoko `IDENTITY-0077` / `CHAR-0059` / `uesugi-uebasu-kyoko`, Player `IDENTITY-0001` / `CHAR-0001`, mother `IDENTITY-0098` / `CHAR-0080` / `uesugi-asuna-midori-kawa-juri`, Rena `IDENTITY-0084` / `CHAR-0064` / `araki-rena`, Honoka `IDENTITY-0083` / `CHAR-0063` / `saionji-honoka`, Coney `IDENTITY-0003` / `CHAR-0003` / stable `rokusaki-connie-presented`, Nanasta `UNIT-0002` and Le☆S☆Ca `UNIT-0014` retain existing handles, access and readiness. Mother/peers are offscreen reported/recalled; production workers remain chapter-local roles despite generic sprites. Native machine identity-resolution remains unresolved.
+
+| Existing subject | Qualified annotation | Prior state/access retained |
+| --- | --- | --- |
+| `CHAR-0059` / Kyoko | Requests several forms of particular attention, supplies practical care and retains professional aspiration. H makes force toward manager coexist with withheld creative preferences under an adult ideal, then records her own renewed plans and reported negotiation. | B0077recipient-authored help, B0121fear/agency, B0159mother comparison and other admitted responsibilities remain bounded; no fixed essence, total chronology, confidence/fear/comparison cure or reciprocal romance. `READY-0027` stays R2_STATE_BOUNDED/MONOGRAPH_NOT_READY. |
+| `CHAR-0001` / Player | In H supplies accompaniment, partial judgments/questions, warm tea, creative reframing and reported photo advocacy. In short cases his replies are available only through Kyoko's uptake. | Own H thoughts are authored but not omniscient; contact/production permission/outcome gaps retained, no sole helper causation or permanent safeguarding authority. |
+| `CHAR-0080` / Asuna/Juri | Named as Kyoko's mother and ideal of responsible acting, then distinguished from Kyoko's aspiration to surpass her. | Existing reported identity link remains; no new direct appearance/current advice, independently audited ability, universal adult model or mother–daughter rupture. |
+| `UNIT-0014` / Le☆S☆Ca | Kyoko reports missed peer contact/live scheduling, and later approaches a planned live with Rena/Honoka waiting. | No performed live, actual schedule/governance record, repertoire review or production success; prior group/animal-program consent responsibilities remain. |
+| `UNIT-0002` / Nanasta | Provides manager relation, office support and reported staff/photographer-facing representation. | Rumored threat/protection request and advocacy do not establish a safeguarding or editorial policy, control of external productions or contractual recourse. |
+
+| ID | Epistemic state | Native range and access limit |
+| --- | --- | --- |
+| `KNOW-0919` | Kyoko asks about likes/skills and asserts desire to know more. | 046P1–3; request, no manager's specific answer learned. |
+| `KNOW-0920` | Promises remembering and incorporates an implied objection. | 046P2–3; her uptake/promise, no direct other turn or exclusive confession. |
+| `KNOW-0921` | Reports enjoying idol work after earlier dismissiveness, credits own effort and speculates about another career. | 050P1–3; self-appraisal, no rank/sole cause or proved alternative success. |
+| `KNOW-0922` | Requests his attending gaze/proximity and declares unlimited possible progress. | 050P4–5; desire/rhetoric, not unlimited demonstrated capacity. |
+| `KNOW-0923` | Reports others busy and mostly shared recent experiences. | 464P1–3; local report, no complete dated routine census. |
+| `KNOW-0924` | Withdraws demanded novelty and asks for quiet TV/co-laughter. | 464P2–5; revised request, no enacted evening or lasting harmony. |
+| `KNOW-0925` | Complains about waiting/laziness and observes hair/tie disorder. | 810P1–3; her appraisal, no measured delay or general incompetence. |
+| `KNOW-0926` | Instructs crouching, says grooming done and forbids future expectation. | 810P4–5; bounded help/declaration, no pictured motion or permanent caretaker/refusal. |
+| `KNOW-0927` | Relays suspicious-person rumor, then explicitly labels recruiter comparison a joke. | 1034P1–3; rumor and humor, no culprit/actual assault or recruitment adjudication. |
+| `KNOW-0928` | Names fear/smaller children and asks manager protection under only-man premise. | 1034P4–5; attributed premise/request, no institutional efficacy or verified gender census. |
+| `KNOW-0929` | Reports crepe-shop couple classification and denies it while incorporating an implied answer. | 1206P1–3; others' turns not independently supplied, no actual relationship status. |
+| `KNOW-0930` | Denies grinning, proposes itchy nose and repeats romantic possibility. | 1206P4–5; written ambivalence interpretive; fixedportrait/voice unheard, literal irritation remains rival. |
+| `KNOW-0931` | Complains seemingly privately about recruits/gaze while asserting own work and future ambition. | 1330P1–3; her address and later-discovered manager presence, no unheard-thought claim, manager motive or settled romance. |
+| `KNOW-0932` | Discovers manager, incorporates earlier-presence answer and claims drama practice/asks forgetting. | 1330P4–5; post-exposure explanation, no independent fiction marker or actual forgetting. |
+| `KNOW-0933` | Reports successful acting/idol workload and missed Rena/Honoka/unit scheduling. | 6489P2–30; participants' accounts, no verified career metrics or arc identity for earlier incident. |
+| `KNOW-0934` | Player admits paperwork and offers upcoming accompaniment; Kyoko permits watching. | 6489P8–46; direct conversation/offer, no exact timetable or complete external duties. |
+| `KNOW-0935` | Director praises/permits read-through revisions, Kyoko hesitates then declines; Player plans venue contact. | 6489P47–72; P50–51fiction, P59contact only prospective, no technical score. |
+| `KNOW-0936` | Player recalls competition preference; Kyoko defends broad/memorable PR and hopes for solo lead. | 6489P77–91; recalled content/promotional rationale, no original-work inspection or promised casting. |
+| `KNOW-0937` | Photographer describes checked/rejected files; Kyoko asks about unchecked data then accepts checked selection. | 6489P96–110; interest/suppression inference, no inspected photos/rejection criteria. |
+| `KNOW-0938` | Kyoko says adult duty forbids imposing preferences; Player asks photographer unspecified favor. | 6489P114–139; her rationale and observed request, its content not yet supplied. |
+| `KNOW-0939` | Film director praises construction and invites personal pride/freer acting, offers break. | 6489P142–156; P142–144fiction, professional judgment attributed, no whole-film audit. |
+| `KNOW-0940` | Requests warm tea, receives authored giving, defines adulthood through best work choices and mother ideal. | 6489P160–173; dialogue/giving and her model, no foreground cup or Asuna direct characterization. |
+| `KNOW-0941` | Player challenges adult mask/replacement; Kyoko declares own aspiration to surpass mother and accepts particularity. | 6489P174–189; own uptake, no permanent comparison cure or automatic helper authority. |
+| `KNOW-0942` | Player promises everyone's response; Kyoko renews actress/idol plans and privately thanks. | 6489P186–204; universal assurance not outcome, new plan not completed shoot; P204sprite-free. |
+| `KNOW-0943` | Later staff praise is relayed; Kyoko reports vigorous negotiation and incorporating wishes. | 6489P208–216; friction/participant reports, no every-colleague agreement or verified project efficacy. |
+| `KNOW-0944` | Recognizes sample magazine/photo surprise; Player reports photographer contact/review/alternative request. | 6489P217–225; actualpixels/editorial/priorconsent unavailable; account does not retroactively fill every step. |
+| `KNOW-0945` | Player says Rena/Honoka wait; Kyoko goes and vows shine/smiles/gaze. | 6489P226–234; offscreen peer state/pre-performance aspiration, no shown live or audience response. |
+| `KNOW-0946` | Native transitions distinguish role work/private reflection/later backstage and final title/end. | 6489P0–237; complete scalar/state review, no elapsed-time/clientmotion or performed sound inference. |
+
+| ID | Directional relationship | Qualified new state and missing access |
+| --- | --- | --- |
+| `REL-1033` | `uesugi-uebasu-kyoko → player-protagonist` | Requests knowledge/witness/company/protection, supplies grooming/rest concern, protests gaze, accepts specific support and thanks, then commands looking. Counterpart `REL-1034` supplies the independently authored reverse H direction. Diverse conditional forms, no mutual couple, automatic compliance, permanent dependence or universally justified demands. |
+| `REL-1034` | `player-protagonist → uesugi-uebasu-kyoko` | H offers accompaniment/tea, develops and tests partial concern, reframes particularity and reports photo advocacy. Counterpart `REL-1033` retains Kyoko's own requests/uptake; director contribution also retains agency. P59contact/permission/production outcomes not supplied, no sole cure or invented direct short-case replies. |
+| `REL-1035` | `uesugi-uebasu-kyoko → uesugi-asuna-midori-kawa-juri` | Takes mother as ideal of acting responsibility, then distinguishes aspiration to surpass from replacement. Reported offscreen ideal, no present mother's words/reciprocal response or permanent rupture/comparison resolution. |
+| `REL-1036` | `uesugi-uebasu-kyoko → araki-rena` | Reports missed contact/scheduling; later Player says she waits for live. No own new Rena turn, verified timeline, sharedknowledge of whole workday or performed show. |
+| `REL-1037` | `uesugi-uebasu-kyoko → saionji-honoka` | Same bounded missed-contact/live-companion report; existing handle retained without guessed spelling. No new own Honoka turn or witnessed workday/performance. |
+| `REL-1038` | `uesugi-uebasu-kyoko → UNIT-0014 / Le☆S☆Ca` | Reports difficulty arranging live, then directs aspiration toward planned group stage. No new membership/governance, completedlive or schedule record. |
+| `REL-1039` | `uesugi-uebasu-kyoko → chapter-local production collaborators` | Withholds read-through/photo preferences, receives director invitation and later reports vigorous negotiation. Local director/actress/host/photographer roles remain distinct without stable person IDs, universal consent, flawlesscraft or external institution promotion. |
+| `REL-1040` | `player-protagonist → chapter-local photographer` | P137unspecified request is later related to an alternative magazine photo through his account of contact/review/advocacy. No complete editorial authority, consulted preference, consent chain or visible image; generic camera art not stable identity. |
+
+Totals946KNOW/1040REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged.28new epistemic states/8relations and qualified updates preserve all older ledger bodies/history/access. Mother/peers remain offscreen and staff local. No readiness, specialist or mature monograph promotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->

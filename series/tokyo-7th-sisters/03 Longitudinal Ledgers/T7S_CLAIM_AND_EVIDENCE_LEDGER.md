@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.87"
+version: "11.88"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 34 Intimacy primary documents across 4 family portfolios / T7S_B0182–T7S_B0185; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 42 Intimacy primary documents across 5 family portfolios / T7S_B0182–T7S_B0186; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-14
@@ -20,13 +20,13 @@ last_updated: 2026-10-14
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 34 complete Intimacy primary documents across 4 family portfolios. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 42 complete Intimacy primary documents across 5 family portfolios. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 993`; `revisions = 42`; `predictions = 7`; `AV_reviews = 132`; `literary_findings = 993`. Claims are bounded to their stated B0001 through B0185 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 34 complete Intimacy primary documents across 4 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 1007`; `revisions = 42`; `predictions = 7`; `AV_reviews = 133`; `literary_findings = 1007`. Claims are bounded to their stated B0001 through B0186 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 42 complete Intimacy primary documents across 5 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -3370,3 +3370,30 @@ Owner [B0185](../02%20Readings/T7S_B0185_DEEP_READING.md), source-lock 12.91, wi
 | `AV-0132` | All49native objects/40Japanese/11projection lines; one portrait individually viewed, nativeoffset98,92/source receipts bound; two originals individually viewed.40speaking slot3 entries/280serializedslots,9title/whiteflash/se007 openings, allfrontfalse and BGM005/010 cues retained. | Two underlying actor PNGs hash-bound without separate viewing; contact not separately viewed. No voice/music/SFX listening, client layering/motion, rendered narrated props, manager/peer bodies, actual street encounter or maturity/era-release certification.002-start cues do not omit primary pages. |
 
 Totals993CL-B/42REV/7PRED/132AV; older claims/revisions/predictions remain exact, including separate historical claim baseline. Full2034 active/incomplete and every2053semantic source blocked.
+
+## B0186 particular attention, recipient authorship and retained limits
+
+Owner [B0186](../02%20Readings/T7S_B0186_DEEP_READING.md), source-lock 12.92, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, complete eight conditional documents. Claims use actually read217Japanese/278native page states/full projection/lossless values and actually viewed62contactresources/8individuals/15originalBG; no performed audio/runtime certification.
+
+| ID | Claim | Warrant and principal rival/limit |
+| --- | --- | --- |
+| `CL-B0186-001` | Complete family presents heterogeneous requests and one locally ordered extended case, rather than total relationship/career progress. | A–H/fullranges;7short plus238-pageH, nativeorder onlyroutes. Rival treating exepisode as omitted or menuorder as dates exceeds scope. |
+| `CL-B0186-002` | Asking to know particulars gives imperious address a precise relational object. | 046P1–3; question/desire/rememberpromise. No acquired answer, reciprocal confession or exclusive bond; persona label alone misses specificity. |
+| `CL-B0186-003` | Labor pride and desired witnessing coexist without sole causation. | 050P1–5; enjoyment/effort/alternative speculation/watchrequest. No literal unlimited growth, technical rank or managerial irrelevance/rescue monopoly. |
+| `CL-B0186-004` | Useful company can be revised from demanded novelty to shared quiet. | 464P1–5; overlapping routines/withdrawaltalk/TVlaughter. No actual perfect evening or rejection simply because talk is withdrawn. |
+| `CL-B0186-005` | Irritated grooming offers situated care and reverses a simple helper/dependent division. | 810P1–5; waiting/hair/tie/crouch/completionutterance. No timed delay, depicted adjustment, general managerial incapacity or permanent caretaker role. |
+| `CL-B0186-006` | Collective vulnerability is voiced through attributed rumor and a qualified protection request. | 1034P1–5; explicitjoke/fear/smallerchildren/onlymanpremise. No culprit/assault/protocol efficacy, endorsedgendernorm or recruitment absolution. |
+| `CL-B0186-007` | Couple misclassification and grin denial support written ambivalence without settling reciprocity. | 1206P1–5; anecdote/repetition/itchalternative, sameportraitall5lines. Literal irritation remains rival; no mutualcouple/own other turn or proven facial/prosodic change. |
+| `CL-B0186-008` | A rehearsal explanation after exposure remains character attribution, distinct from explicitly marked role speech. | 1330P1–5 versus6489P50–51/142–144. Neither allprecedingGfiction nor settledjealousromance/managerintent follows. |
+| `CL-B0186-009` | Forceful managerial address can coexist with withheld professional preference under an adult-duty model. | Hreadthrough/PR/photo andP114–173; her account plus earlier choices. Not universal assertiveness, proofeverydeferencewrong or abandonment of craft responsibility. |
+| `CL-B0186-010` | Specific proposals become useful through Kyoko's own uptake amid multiple collaborators. | HdirectorP149–156/PlayerP174–186/KyokoP179–204. Ownplan follows feedback; no sole helper cure, hidden fixed essence or guaranteed production result. |
+| `CL-B0186-011` | Mother-model adulthood can be revised without replacing or repudiating mother. | H169–193 with scopedB0159analysis; distinctsurpassaspiration. Mother offscreen, no currentadvice/verifiedideal/datedbridge or permanent comparison cure. |
+| `CL-B0186-012` | Photo advocacy is bounded attentive intervention with missing editorial access. | H103–110/137/217–225; revisedattention/contactaccount/reveal. Actualpixels, fulldecisionauthority, consultation/priorconsent not shown; warmth cannot retrospectively supply permission. |
+| `CL-B0186-013` | Negotiation and a pre-live gaze demand preserve friction and unfinished aspiration. | H208–237; staffenergyreport/vigorousbargaining/shinevow. P186universal response is assurance, no everystaffagreement, performedlive/song or observed audience outcome. |
+| `CL-B0186-014` | Native costume/face contrasts support local staging while repeated art limits verbal-affect proof. | 62sprites/15BG,8individualfacechecks; seven shortcasesfixed123_01_01,privateP204nosprite,genericstaff. No motionaltiming, fixedemotiondictionary, machineidentity, technicalacting or maturity/era certification. |
+
+| AV ID | Actually inspected evidence | Retained limits/responsibilities |
+| --- | --- | --- |
+| `AV-0133` | All278native page states/217Japanese/fullprojection and everylosslessfield/131array/278pagerow;62occurringsprite resources in6original-resolutioncontacts,8focusedindividualcomposites,15originalBGindividuallyviewed.267nonnull/2779slots; seven shortepisodes33fixedportraitspeakingpages; H238pages/184JP/54cmd. All field/fade/layer/speaker/cue/color/title/end variants retained. | Redundant1.47MBnative envelope not manuallyreadinfull; underlyingbody/facePNGhashboundnotseparatelyviewed. No voice/music/SFXlistening, runtime/layering/motion/timing, magazinepixels or renderedforegroundtea/script/grooming, completedproduction/live, monographpromotion/full2034closure. H's0voicefieldpages do not certify silentplayback; identityresolutionunresolved. |
+
+Totals1007CL-B/42REV/7PRED/133AV; olderclaims/revisions/predictions remain exact, with separatehistorical claimbaseline retained.14newboundedclaims/1AV do not promote readiness or2053admission. Full2034 remains active/incomplete.
