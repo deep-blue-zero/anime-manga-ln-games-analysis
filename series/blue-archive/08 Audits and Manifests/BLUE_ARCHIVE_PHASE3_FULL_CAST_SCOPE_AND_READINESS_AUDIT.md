@@ -7,7 +7,7 @@ drafted_against_commit: "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
 created: 2026-10-09
 updated: 2026-10-14
 generation: V1
-version: "1.26"
+version: "1.27"
 supersedes: []
 superseded_by: []
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md
@@ -18,6 +18,20 @@ do_not_use_as_current_authority: false
 
 # Phase 3 full-cast scope and readiness audit
 
+
+## Current Rio acceptance, conditional local151 and verified published150
+
+Rio's design, food preferences, gifts, making and negotiated company are intrinsically meaningful alongside her technical work. Particular care and wanted proximity do not erase hacking, surveillance, unilateral control, injury, unequal knowledge or demands for accountability. Requests, agreements, refusals and recipient answers retain actors and local chronology; inward or reported material is not universal assent, clinical cure or completed institutional repair.
+
+ROOT's actual original196/69 semantic adoption58225/SHAef7b71311cdde64382df80fe18d03e669f7b49f00a17386a5796908ab428df9d accepts exactly one existing Rio character home WITH LIMITS after complete69 argument/joins, all105 new five-field purposes, eleven architecture tracks, rival interpretations, finite endpoints, source-specific questions/results and all14 original gaps. Author/ROOT nine new whole maintained accounts2161 lines plus two prior whole382 retain2543; reviewer eight whole/three selected2290 and original common10526WHOLE79SELECTED remain separately attributed. No copy, hash, report or metadata change adds normal105, primary, native, raw, audiovisual or identity admission.
+
+Current094 retains Miyo's refusal of Teacher's requested reading access to her wanted romance novels; it does not assign novel authorship or refusal to share self-authored writing. Older held P041/P053/094 strings are dated original review history, with the actual currentV3 resolution separately preserved. Event843 agreement/unpacking under one-week/no-force terms does not establish fulfillment of the entire week. Event825 and843, narrow61767six/59334oldGSC16, wanted fishing/report scope and wage motive/not payroll retain finite distinctions. All69 literary paragraphs and all525 current target values remain literal.
+
+ROOT original public12 adoption6442/SHA67aa3525f26421e8f82bb80269416e81154babbe1f9b24e4a4e3196f9cbe645e remains preCONTROL-qualification history. Actual final12 adoption2409/SHA15dd88e22271dc7ea246550c5ca57e9521b53122d48367541ece568f784bfef0 follows the distinct focused final CONTROL review,356 actual checks/zero findings, and remains dated to the pre-link-format byte graph. Current formatting-successor external manifest10346/SHA869e33f502510bed0c8e84fc620870aecf1881cfa5cddb4ad4853e48881ec21a binds body59526/SHA0404ea9f2fff73fc809514eb0caac3c16c641fc83045db2fed503c660cf6bb1f at208 lines/title29/first34/last208 and formatting CONTROL27530/SHA7f5cc2929b2923e1da942b82102d3740dd4898b72e8e589d60333d5393b42306; the earlier first11-unchanged statement belongs to its pre-format adoption. Distinct current formatting-byte QA, ROOT byte adoption and preflight remain separate pending operations. The genuine new INPUT reports M008's completed prior review; original reviewer, analytical author, new reporter and noncryptographic ROOT workflow keep distinct roles. Original196/body69/current525 and entire frozen/raw inverse custody remain governing, without fictional fresh source or literary rereading.
+
+ROOT's complete remote19 beforeimage readback establishes published source6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d at150 required packages/18 named duties. Main133/13 at c47aff944b10956d996bf98ed715b820dc111221 is retained from the prior controlled main boundary, with no new main verification here. All earlier Toki150/8c149/other row and frontier pending strings remain verbatim dated operational history, qualified by this current view. The wider current150 source/semantic audit remains pending actual reconciliation. Earlier exact-head runtime witnesses do not certify an unpublished Rio successor.
+
+Only sole ROOT installation of reviewed Rio public12 plus this shared7 proposal yields conditional151 required packages (106CHAR/19REL/5ENS/21INST),18 named unchanged. It updates existing P3-CHAR-RIO-CH0158 requiredZERO42/ordinal43/CSV44 and partition home42/P3-F051, and the existing legacy Rio row in place;173 legacy rows stay fixed, no new home/named/navigation duty. Other354 required rows and all29 named rows remain literal. Fixed355/29/25/384/788 and first89 history remain; next178 UNREACHED with27 remaining after installation/all14OPEN/models0. Shared7 independent review/ROOT receiving, exact19 freeze, guarded installation/preflight, fresh publication controls, ordinary push/full readback and a fresh exact-head full runtime chain remain separate gates. Full eligible-cast Phase3 continues; Kei/I008 remain separate. PR158 OPEN/DRAFT/HOLD and merge RESERVED.
 
 ## Current Toki-GDD acceptance, conditional local150 and verified published149
 
