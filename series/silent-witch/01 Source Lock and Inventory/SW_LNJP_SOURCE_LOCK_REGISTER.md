@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.14"
+version: "1.15"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
 locked_units: [V02, V03, V04, AFTER04, V05, V06, V07, V08]
-literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14"
+literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14"
 ---
 
 # Japanese LN source lock register
@@ -495,3 +495,5 @@ Common limitations: each witness is a supplied reflowable EPUB whose equivalence
 | block-map.jsonl | `163f526d735f817bdecfe7faae2f487c34990c01323d41cb9db7e2b17d28bfe5` |
 | element-locators.jsonl | `d9bbd14a970be990216a950f4e3aee50749e6e573edba6fc0fdc21a5e6515830` |
 | validation.json | `8d1e3b71fd8571b94990ecf661d4ca4595d246eaa2af6790deb7259ac7fd09a7` |
+
+**Use in the V08 reading.** Twenty-five of the thirty-three image resources were viewed at source resolution, including the full jacket after the narrative; the cover, title page, illustrated contents, store image, glyph and three preview images were not viewed. S28 and S29, left to be confirmed on viewing, are a narrative plate of the robed Monica with Isabelle and a one-line notice that the story continues in IX; their classes are unchanged. The [V08 reading](../02%20Sequential%20Readings/SW_V08_DEEP_READING.md) cites 342 distinct locators, all present in the element map, and quotes 86 short fragments, each verified in the base text of a cited block. No member was reclassified.

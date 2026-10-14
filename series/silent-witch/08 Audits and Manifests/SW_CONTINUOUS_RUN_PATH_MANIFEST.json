@@ -332,6 +332,49 @@
           "series/silent-witch/.repository/series-registry.json"
         ]
       }
+    },
+    {
+      "unit": "V08",
+      "witness_id": "SW-LNJP-V08",
+      "source_epub_sha256": "89ff209d8fe16c76486772adb2fb926849ede965ebdc8e8a614bbf9dccb401e9",
+      "derivative_package_sha256": "7c78d938613bfc7ed40051b7d2fa2689c9d78e6ba4e8b9e97887ff0099af9c02",
+      "entry_record_sha256": "02cf5f9b23405dec6a4d34716bf2c3a7d5e95ca2a702b371f0043fa467fdb2b7",
+      "entry_freeze": "SW-FR-V08-ENTRY",
+      "exit_freeze": "SW-FR-V08-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V08_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V08-001..300",
+      "cited_locators_verified": 342,
+      "quoted_fragments_verified": 86,
+      "ledger_records_added": {
+        "SW-S": 18,
+        "SW-R": 14,
+        "SW-K": 12,
+        "SW-W": 8,
+        "SW-C": 6,
+        "SW-CR": 62,
+        "SW-P": 4,
+        "SW-F": 4,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "b1153a5f95e5166f346d11d2aa39def0eed3a200",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V08_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
     }
   ],
   "scope_notes": [
