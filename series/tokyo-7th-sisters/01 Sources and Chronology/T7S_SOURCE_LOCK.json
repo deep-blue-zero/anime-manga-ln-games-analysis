@@ -2,7 +2,7 @@
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "12.79",
+  "version": "12.80",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -21368,5 +21368,36 @@
     "LIVE_PERFORMANCE",
     "OFFICIAL_PARATEXT",
     "SECONDARY_REFERENCE"
+  ],
+  "physical_storage": {
+    "entity_state_ledger": {
+      "schema": "t7s-analysis/entity-state-storage-manifest/v1",
+      "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER_MANIFEST.json",
+      "sha256": "689b6c1d3144d8f12f27f344e2dd0db3d99fc58e15921d4f8d1245f161c2e241",
+      "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
+      "current_owner": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
+      "physical_component_caps_unchanged": true,
+      "reviewed_reader_projection_sha256": "66d5f4ec05205410240532ad038954c5360f4996a1378bd523368882a849c57a",
+      "current_binding_mutability": "Update only with the corresponding reviewed exact physical/logical state; immutable historical transition receipt remains separate."
+    }
+  },
+  "administrative_storage_transitions": [
+    {
+      "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
+      "date": "2026-10-13",
+      "record": "09 Audits and Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md",
+      "before_commit": "a10784a0242f15e4ff1eb80ea30dd2e9a6b3f60f",
+      "source_lock_before_version": "12.79",
+      "source_lock_before_sha256": "9081bade46ac4fdca8d3c2ecaf752133b4870ba37c9476d0b3ed4ce57d456416",
+      "source_lock_after_version": "12.80",
+      "source_admission": "NONE",
+      "semantic_state_change": "NONE",
+      "entity_before_bytes": 990668,
+      "entity_before_sha256": "ce60a912ce2bad54274b47e7eff0ee0862929d34eeefc191bc9ca3281f8d50fe",
+      "initial_entity_manifest_sha256": "689b6c1d3144d8f12f27f344e2dd0db3d99fc58e15921d4f8d1245f161c2e241",
+      "preserved_entity_payload_bytes": 983530,
+      "original_heading_routes": 120,
+      "source_b0175_full_publication_receipt_sha256": "1357692658552c4de634b0a96f83aa398ef531e85bec6bcad70158528f46ddc9"
+    }
   ]
 }

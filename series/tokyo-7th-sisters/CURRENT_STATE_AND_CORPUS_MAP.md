@@ -4,7 +4,7 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.79"
+version: "12.80"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -83,6 +83,8 @@ major_story_structures:
 
 **Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds the full remaining source and analytical obligations. [B0175](02%20Readings/T7S_B0175_DEEP_READING.md) is the closed checkpoint: Rishuri's voluntary building/clothing/household care frees busy Player to focus on work, while differently motivated Makoto/Sui/Mimi join. His passive self-account prompts private competing appraisals and concern for givers' need to spoil. A temporary dorm/self-care/craft experiment gains differentiated assent; explicit days later, nightmare comfort and tired Sui's rest show contextual reliance without measured duration or literal mother/puppy identity. Mimi appreciates a forgotten-holocon delivery but limits unnecessary time, admits her own reliance and mirrors Rishuri's Makoto advice. Rishuri asks kindness/adulthood meaning. Explicitly hypothetical family/partner/peer-support futures do not create present pregnancy/children/property or new identities. Player's actual visit, talent trust/request invitation and personally welcomed mushroom cake give the caregiver recipient room; puppy comparison reverses, she states a wish for care and continues shared hospitality. Baby context remains partially unclear to Player; Mimi's child/adult/future appraisal stays attributed, not durable reform or mature-model release. Offers, completed-result reports, private knowledge, dream, rest, future and reception remain distinct; no actual heard sound/runtime, new unit/world/thread/readiness/PRED/REV or2053 admission. Full2034 remains incomplete. The current program has closed 16 source blocks / 48 primary episodes; 712 eligible story episodes plus supplemental and release work remain. The next authorized but unread chapter is `301480` / **たまには誰も傷つかない一日** / 夜舞サヲリ, episodes `612203301 / 612203302 / 612203303`, assigned B0176. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
 
+The entity ledger has a manifest-bound physical representation: its original address routes all ordered payload components and retains aggregate metadata. Read the complete bound logical view before interpreting or editing state. All983,530 transferred payload bytes, prior IDs/horizons/history and120 heading routes are preserved. Source-lock12.80 records a metadata-only storage boundary; B0175 remains analytical high-water, B0176/chapter301480 remains unconsumed, and full2034 release obligations remain active. Storage preparation/application/publication are governed separately by the [transition record](09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md).
+
 ## Governing and cumulative homes
 
 | Responsibility | Current artifact |
@@ -99,7 +101,7 @@ major_story_structures:
 | Closed first twenty i-n-g cases | [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) |
 | First i-n-g tranche completion proof | [T7S_B0080_B0099_COMPLETION_AUDIT.md](09%20Audits%20and%20Manifests/T7S_B0080_B0099_COMPLETION_AUDIT.md) |
 | Causal events, world consequences and threads | [T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md) |
-| Character/knowledge/directional relationship/unit state and readiness | [T7S_ENTITY_STATE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md) |
+| Character/knowledge/directional relationship/unit state and readiness | [entity owner](03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md) and [complete logical manifest/components](03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER_MANIFEST.json), governed by the [storage record](09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md) |
 | Claims, rivals, revisions and modality review | [T7S_CLAIM_AND_EVIDENCE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md) |
 | Opening deep reading | [T7S_B0001_DEEP_READING.md](02%20Readings/T7S_B0001_DEEP_READING.md) |
 | Haru chapter deep reading | [T7S_B0002_DEEP_READING.md](02%20Readings/T7S_B0002_DEEP_READING.md) |
@@ -500,3 +502,5 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-10-13 — V1 / 12.78: close T7S_B0174; advance the remaining-2034 program to 15 source blocks / 45 episodes and i-n-g coverage to 259/280; retain the full era-release endpoint and route the next obligation.
 
 - 2026-10-13 — V1 / 12.79: close T7S_B0175; advance the remaining-2034 program to 16 source blocks / 48 episodes and i-n-g coverage to 262/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-13 — V1 /12.80: record entity storage V1 and complete-view routes; no source episode, analytical state, readiness/maturity or2053 gate changes.
