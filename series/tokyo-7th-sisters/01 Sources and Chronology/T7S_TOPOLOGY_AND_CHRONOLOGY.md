@@ -4,13 +4,13 @@ artifact_id: T7S_TOPOLOGY_AND_CHRONOLOGY
 artifact_type: source_topology_and_chronology
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.85"
+version: "12.86"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 280 non-Main i-n-g documents / T7S_B0080–T7S_B0181 and seven independent Sisara Intimacy occurrences / T7S_B0182 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated; Intimacy current aggregate 25 primary documents/3 family portfolios through T7S_B0184"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 280 non-Main i-n-g documents / T7S_B0080–T7S_B0181 and seven independent Sisara Intimacy occurrences / T7S_B0182 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated; Intimacy current aggregate 34 primary documents/4 family portfolios through T7S_B0185"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-14
@@ -242,7 +242,7 @@ The [completion audit](../09%20Audits%20and%20Manifests/T7S_EPISODE_NANASUTA_COM
 
 The [passed routing audit](../09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) partitions every Sub/Event episode, every non-catalog scenario resource, and every supplemental record without asserting a fabricated cross-family chronology. It admits 743 Sub and 231 Event episodes to the 2034 portfolio horizon; holds eleven 2053-side birthday episodes behind the release gate; and separates one explicit Hololive crossover. Native parent links remain topology edges rather than `BEFORE` claims.
 
-The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns factual homes. T7S_B0184 closes complete native Sub/Intimacy family200480 with9 primary occurrences/52pages/9command-only pages. Native menu/priority/source order routes execution, not actual unlock level/date or total chronology. The next authorized unread portfolio is B0185, 春日部ハル, route `NM-INTIMACY-200460` / native Sub family `200460`, 9 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
+The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns factual homes. T7S_B0185 closes complete native Sub/Intimacy family200460 with9 primary occurrences/49pages/9command-only pages. Native menu/priority/source order routes execution, not actual unlock level/date or total chronology. The next authorized unread portfolio is B0186, 上杉・ウエバス・キョーコ, route `NM-INTIMACY-200610` / native Sub family `200610`, 8 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
 
 ## First twenty i-n-g targeted cases
 
@@ -250,7 +250,7 @@ The mandated source-routing sequence opens with native Sub top layer `100010` an
 
 Table order records the prescribed analytical route, not a total diegetic chronology. Each front episode precedes its paired back episode; no broader before/after relation among the twenty chapters or against Main is inferred without independent dialogue evidence. All command states and forty selected first/last protagonist composites were reviewed. Performed voice, singing, BGM, and SFX remain unauditioned.
 
-The active [remaining-2034 execution record](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) retains the full release endpoint. Completed B0160–B0181 i-n-g checkpoint remains22units/66episodes. Intimacy closure 3portfolios/25primary documents throughT7S_B0184; 669eligible stories plus supplemental/release work remain. Historical B0100–B0159 scope is retained.2053semantics blocked.
+The active [remaining-2034 execution record](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) retains the full release endpoint. Completed B0160–B0181 i-n-g checkpoint remains22units/66episodes. Intimacy closure 4portfolios/34primary documents throughT7S_B0185; 660eligible stories plus supplemental/release work remain. Historical B0100–B0159 scope is retained.2053semantics blocked.
 
 ## Revision history
 
@@ -450,3 +450,5 @@ The active [remaining-2034 execution record](../09%20Audits%20and%20Manifests/T7
 - 2026-10-14: close T7S_B0183 complete occurrence-aware Intimacy family; preserve all prior chronology qualifications.
 
 - 2026-10-14: close T7S_B0184 complete occurrence-aware Intimacy family; preserve all prior chronology qualifications.
+
+- 2026-10-14: close T7S_B0185 complete occurrence-aware Intimacy family; preserve all prior chronology qualifications.

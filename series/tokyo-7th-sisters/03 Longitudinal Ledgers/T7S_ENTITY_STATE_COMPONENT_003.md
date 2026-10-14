@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0184; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0185; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-14
 ---
@@ -1036,4 +1036,45 @@ Nine complete family200480 primary occurrences, source-lock 12.90, witness `T7S_
 | `UNIT-0029` / `vivad-workplace` | Named `ビバド` workplace/location, rendered VivaD/VivaDo in admitted prose: Rona attributes donut-making, service, shifts/juicer mishap and recruitment/manager encounters to it, wants to keep the job and value her beginning. | 028P1–5;730P1–5;906P1;1066P1–5. Source-reported labor and origin make this institutional role warranted. No corporate/legal identity, owner, staff, pay, terms, schedule, actual shop interior, future guarantee or independent institutional voice is supplied. |
 
 Totals900KNOW/1025REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. Old ledger bodies and histories stay exact. No professional mastery, managerial sole causation, cured vulnerability, settled romance or mature monograph is promoted.
+
+## B0185 Haru, ordinary initiative and renewed aspiration
+
+Nine complete family200460 primary occurrences, source-lock 12.91, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. `IDENTITY-0004/kasukabe-haru` / `CHAR-0004` and all peer/Player/institution identities retain prior access/readiness and unresolved machine binding. No new identity, character, unit or readiness decision.
+
+| Existing subject | Qualified new annotation | Prior state and access retained |
+| --- | --- | --- |
+| `CHAR-0004` / kasukabe-haru | Chooses renewed idol aspiration, finds learning/ordinary labor/shared pleasures meaningful, defends approachability and hobby distinction, turns partial recognition into effort. Local fear, embarrassment and bodily self-rule conflict remain. | Formation/AXiS/postEP6/NANASUTA decisions, injury/treatment, reception limits, overwork/concealment and safeguarding remain. Gratitude does not absolve earlier recruitment coercion or supply universal confidence, sole managerial causation or reciprocal romance. |
+
+| ID | Epistemic state | Native range and reliability |
+| --- | --- | --- |
+| `KNOW-0901` | Reports unnamed usual black thing rustling during office cleaning and refuses saying/hearing name. | 039P1–4; reported occurrence/avoidance, species contextual rather than explicit. |
+| `KNOW-0902` | Asks manager to handle the problem, calls him only recourse and offers Gジェット. | 039P4–5; situated request/offer, no observed removal or general dependence. |
+| `KNOW-0903` | Reassures not quitting and deliberately announces renewed idol aspiration despite earlier dislike. | 350P1–2; self-authored declaration, no total career date or erased earlier refusal grounds. |
+| `KNOW-0904` | Credits manager, loves song/dance and asks continuing association with Nanasta's and her manager. | 350P2–3; attribution/desire/address, no sole cause, reciprocal romance or absolution. |
+| `KNOW-0905` | Reports85testpoints, Miwako/Musubi tutoring and feeling smarter. | 384P1–2; no subject/denominator, independently measured general ability or demonstrated cause. |
+| `KNOW-0906` | Finds idol-related learning amusing and proposes it as aspirant recruitment appeal. | 384P3–4; proposal only, no recruited person or institution-wide efficacy. |
+| `KNOW-0907` | Takes egg-flavor answer as matching hers and belly-first taiyaki answer as matching too. | 388P1–3; only her uptake, hidden egg flavor unresolved and manager own words unavailable. |
+| `KNOW-0908` | Declares perfect compatibility and shyness through food-preference play. | 388P4; her appraisal/affect, accommodation/hyperbole remain rivals; no couple agreement. |
+| `KNOW-0909` | Reports Hime/Momoka supply shopping, one-per-person paper bargain and excited call-everyone idea. | 448P1–3; attributed acts/promotion, no verified mass purchase or enduring sales policy. |
+| `KNOW-0910` | Attributes idol-image question to Momoka, favors approachability herself and asks manager opinion. | 448P3–5; quoted peer question within Haru's account, Momoka's settled position unknown; no own Momoka/manager response or consensus. |
+| `KNOW-0911` | Reports unwanted office papers and urges regular disposal. | 634P1; practical admonition, no personal manager neglect proved or completed disposal. |
+| `KNOW-0912` | Imagines communal roasted foods/bonfire and loses original topic. | 634P2–4; direct proposal/digression, no actual fire/feast or validated procedure. |
+| `KNOW-0913` | Reports searching many places without obtaining local Unarin keychain. | 682P1–2; her hobby/search/low-spirits account, no global scarcity proof. |
+| `KNOW-0914` | Identifies held keychain as Unako, explains eyes and insists collecting is serious. | 682P3–5; her mascot distinction, no rendered item, universal gender rule or human identity admission. |
+| `KNOW-0915` | Reports eating three Rona/VivaD donuts beyond two-limit/weight fear and recalls chocolate pleasure. | 1006P1–4; reported consumption/self-rule, no measured weight or same-batch chronology. |
+| `KNOW-0916` | Plans three times normal movement in today's streamed live to compensate. | 1006P5; future proposal, no performed action, health equivalence, diagnosis or manager approval. |
+| `KNOW-0917` | Reports shopping with unnamed friend and overheard recognition/nonrecognition on7109street. | 1062P1–3; bounded partial encounter, no audience census or supplied other speakers/identities. |
+| `KNOW-0918` | Feels down briefly, infers growing recognition and renews effort to become known. | 1062P4–5; her inference/aspiration, no verified trend, universal reception or guaranteed success. |
+
+| ID | Directional relationship | Qualified state and missing access |
+| --- | --- | --- |
+| `REL-1026` | `kasukabe-haru → player-protagonist` | Credits support for renewed aspiration, seeks local help and opinion, plays at compatibility and confesses a food-rule lapse. Diverse forms of trust/address do not supply manager mind, sole causation, universal dependence, couple agreement or ethical absolution. |
+| `REL-1027` | `kasukabe-haru → asami-miwako` | Attributes tutoring and felt learning benefit; prior educational protection/plural futures remain admitted context. No new tutor's own turn or measured causal efficacy. |
+| `REL-1028` | `kasukabe-haru → tendoji-musubi` | Same bounded attribution of tutoring supplies peer assistance, without a new own Musubi response or proved general intelligence gain. |
+| `REL-1029` | `kasukabe-haru → nonohara-hime` | Names Hime as supply-shopping companion; no independently supplied peer judgment, completed mass purchase or new reciprocal access. |
+| `REL-1030` | `kasukabe-haru → serizawa-momoka` | Attributes shopping companionship and an idol-image question, then states her own favorable view of approachability. Momoka's settled position remains unknown within Haru's report; no established disagreement or agency consensus. |
+| `REL-1031` | `kasukabe-haru → tsunomori-rona` | Attributes provision of VivaD donuts and enjoyment, without a new Rona turn or proof of B0184 private batch/date/recipient. |
+| `REL-1032` | `kasukabe-haru → UNIT-0029 / vivad-workplace` | Names VivaD as source of Rona-provided donuts. This adds bounded food-source continuity to admitted workplace state, without legal/ownership/staffing/contract knowledge. |
+
+Totals918KNOW/1032REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. Unarin/Unako are reported mascots/keychains, not newly admitted human subjects. Old ledger bodies/histories and unresolved access remain exact; no mature monograph promoted.
 <!-- T7S ENTITY STATE PAYLOAD END -->
