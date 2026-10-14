@@ -5,11 +5,11 @@ artifact_type: corpus_map
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.19"
+version: "1.20"
 last_updated: "2026-10-14"
 status: canonical
-scope: "Single canonical first-read surface; accepted foundation, V01 to V12 and the companions IV -after-, IX -extra- and -another- (upper) closed; continuous sequential run authorized 2026-10-14 through every supplied Japanese LN work and the architecture’s synthesis products"
-source_boundary: "Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and -another- (upper) read in full and closed; no other numbered volume, companion, web or adaptation witness analyzed."
+scope: "Single canonical first-read surface; accepted foundation, V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes closed; continuous sequential run authorized 2026-10-14 through every supplied Japanese LN work and the architecture’s synthesis products"
+source_boundary: "Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read in full and closed; every supplied work read; no web or adaptation witness analyzed."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
 supersedes: []
@@ -17,8 +17,8 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 architecture_lifecycle: INITIAL
-analytical_phase: CONTINUOUS_RUN_ACTIVE_ANOTHER_UPPER_CLOSED_ANOTHER_LOWER_NEXT
-committed_high_water_mark: ANOTHER-UPPER
+analytical_phase: CONTINUOUS_RUN_ACTIVE_ALL_SUPPLIED_WORKS_CLOSED_SYNTHESIS_NEXT
+committed_high_water_mark: ANOTHER-LOWER
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
@@ -41,8 +41,8 @@ project_initialization:
   substantive_sequential_findings_at_bootstrap: false
   numbered_volumes_analyzed: [V01, V02, V03, V04, V05, V06, V07, V08, V09, V10, V11, V12]
   frozen_volumes: [V01, V02, V03, V04, V05, V06, V07, V08, V09, V10, V11, V12]
-  companions_analyzed: [AFTER04, EXTRA09, ANOTHER-UPPER]
-  frozen_companions: [AFTER04, EXTRA09, ANOTHER-UPPER]
+  companions_analyzed: [AFTER04, EXTRA09, ANOTHER-UPPER, ANOTHER-LOWER]
+  frozen_companions: [AFTER04, EXTRA09, ANOTHER-UPPER, ANOTHER-LOWER]
   v01_deep_reading: 02 Sequential Readings/SW_V01_DEEP_READING.md
   v02_deep_reading: 02 Sequential Readings/SW_V02_DEEP_READING.md
   v03_deep_reading: 02 Sequential Readings/SW_V03_DEEP_READING.md
@@ -58,8 +58,9 @@ project_initialization:
   v11_deep_reading: 02 Sequential Readings/SW_V11_DEEP_READING.md
   v12_deep_reading: 02 Sequential Readings/SW_V12_DEEP_READING.md
   another_upper_deep_reading: 02 Sequential Readings/SW_ANOTHER_UPPER_DEEP_READING.md
+  another_lower_deep_reading: 02 Sequential Readings/SW_ANOTHER_LOWER_DEEP_READING.md
   run_path_manifest: 08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json
-  committed_high_water_mark: ANOTHER-UPPER
+  committed_high_water_mark: ANOTHER-LOWER
   owner_acceptance: ACCEPTED
   acceptance_boundary: explicit owner acceptance of SW_BOOTSTRAP_V1 in the bootstrap task
   v01_source_lock: 01 Source Lock and Inventory/SW_LNJP_V01_SOURCE_LOCK.md
@@ -67,14 +68,14 @@ project_initialization:
   v01_locator_recovery: ORIGINAL_PACKAGE_RECOVERED_AND_VERIFIED_2026-10-14
   sequential_gate_hold: RELEASED_FOR_V01_ONLY_BY_OWNER_INSTRUCTION_2026-10-13
   source_lock_register: 01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md
-  next_permitted_operation: -another- lower admission and atomic transaction under the active continuous run
+  next_permitted_operation: checkpoint and evidence-gap review, then the synthesis products, under the active continuous run
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V02
   terminal_boundary: "V12 plus the four supplied companions at their recorded admission points, then the synthesis products the architecture requires"
-  committed_high_water_mark: ANOTHER-UPPER
-  next_candidate_operation: ANOTHER_LOWER
+  committed_high_water_mark: ANOTHER-LOWER
+  next_candidate_operation: SYNTHESIS_CHECKPOINT
   next_candidate_authorization: AUTHORIZED_BY_ACTIVE_RUN
   confirmation_between_units: false
   run_state: active
@@ -122,8 +123,9 @@ The owner explicitly accepted the ten-file V1 bootstrap. Its paired method/archi
 | [V11 deep reading](02%20Sequential%20Readings/SW_V11_DEEP_READING.md) | Complete Japanese-primary V11 reading: coverage, synopsis, close reading, observations 001–240, claim revisions, open questions and exit freeze. Frozen at V11. |
 | [V12 deep reading](02%20Sequential%20Readings/SW_V12_DEEP_READING.md) | Complete Japanese-primary V12 reading: coverage including the interlude, synopsis, close reading, observations 001–223, claim revisions, open questions and exit freeze. Frozen at V12. |
 | [-another- (upper) deep reading](02%20Sequential%20Readings/SW_ANOTHER_UPPER_DEEP_READING.md) | Complete Japanese-primary reading of the prequel companion's upper volume: coverage including the secret episode and the character list, synopsis, close reading, observations 001–218, claim revisions, open questions, placement check and exit freeze. Frozen at -another- (upper). |
+| [-another- (lower) deep reading](02%20Sequential%20Readings/SW_ANOTHER_LOWER_DEEP_READING.md) | Complete Japanese-primary reading of the prequel companion's lower volume: coverage including the secret episode and the character list, synopsis, close reading, observations 001–181, claim revisions, open questions, placement check and exit freeze. Frozen at -another- (lower). |
 | [Continuous run path manifest](08%20Audits%20and%20Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json) | Run identity and one transaction entry per unit closed under it. |
-| [Master longitudinal ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) | Sole cumulative home; V01 to V12, IV -after-, IX -extra- and -another- (upper) records in all nine typed sections, with eight hundred and seventeen revision events. |
+| [Master longitudinal ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) | Sole cumulative home; V01 to V12, IV -after-, IX -extra- and both -another- volumes in all nine typed sections, with nine hundred and sixteen revision events. |
 | [Volume reading template](00%20Frameworks%20and%20Methods/SW_VOLUME_READING_TEMPLATE.md) | Reusable deep-reading contract; explicitly not V01. |
 | [Bootstrap report](08%20Audits%20and%20Manifests/SW_BOOTSTRAP_REPORT.md) | Design precedents, actual accesses/checks, limitations and acceptance gates. |
 | [Exact authored manifest](08%20Audits%20and%20Manifests/SW_BOOTSTRAP_PATH_MANIFEST.json) | Ten-path staging allowlist and bootstrap identity. |
@@ -139,7 +141,7 @@ Completed at gate opening: local source re-acquisition with an exact V01 hash ma
 
 Completed at V01 closure: full Japanese reading of every admitted V01 member and every image; the deep reading with 132 located observations, all quoted wording mechanically verified; reconciliation of all nine ledger sections; the first closed-volume architecture review, with no amendment and no ledger split; evidence reviews for reconstruction readiness without any model.
 
-Uncompleted or held: remote derivative retention, which the owner declined and the resume instruction again withholds; owner semantic acceptance of the V01 reading; the -another- (lower) reading, now authorized under the continuous run but not yet performed; source locks after -another- (upper); web ingestion/comparison; supplemental/adaptation admission; all monographs, specialists, models and integrated synthesis. Technical source lock is not unit analysis or closure.
+Uncompleted or held: remote derivative retention, which the owner declined and the resume instruction again withholds; owner semantic acceptance of the V01 reading; the synthesis products, now authorized under the continuous run but not yet performed; web ingestion/comparison; supplemental/adaptation admission; all monographs, specialists, models and integrated synthesis. Technical source lock is not unit analysis or closure.
 
 ## Publication and audit state
 
@@ -158,7 +160,7 @@ The historical bootstrap report/manifest preserve the authorship-time state. The
 
 ## Next permitted operation
 
-**The -another- lower admission and atomic transaction, under the continuous run recorded below.** -another- (upper) is closed: the [-another- (upper) deep reading](02%20Sequential%20Readings/SW_ANOTHER_UPPER_DEEP_READING.md) covers the whole companion volume and freezes `SW-FR-ANOTHER-UPPER-EXIT`, and the ledger is reconciled. Its placement check puts the run and its prologue before V01; it was admitted after V12 by the recorded rule, and no numbered reading is revised. The lower volume follows. Earlier, V12 closed: the [V12 deep reading](02%20Sequential%20Readings/SW_V12_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V12-EXIT`, and the ledger is reconciled. The numbered track is complete; the prequel -another- is admitted next, upper before lower, as the companion admission points below require. Earlier, V11 closed: the [V11 deep reading](02%20Sequential%20Readings/SW_V11_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V11-EXIT`, and the ledger is reconciled. V12 follows. Earlier, V10 closed: the [V10 deep reading](02%20Sequential%20Readings/SW_V10_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V10-EXIT`, and the ledger is reconciled. V11 follows. Earlier, IX -extra- closed: the [IX -extra- deep reading](02%20Sequential%20Readings/SW_EXTRA09_DEEP_READING.md) covers the whole companion and freezes `SW-FR-EXTRA09-EXIT`, and the ledger is reconciled. Its story-level check places every story by its own markers; none falls after V09’s last scene, and one chapter-label discrepancy is recorded. V10 follows. Earlier, V09 closed: the [V09 deep reading](02%20Sequential%20Readings/SW_V09_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V09-EXIT`, and the ledger is reconciled. The companion IX -extra- is admitted next at its 2025-06-10 publication point, then V10. Earlier, V08 closed: the [V08 deep reading](02%20Sequential%20Readings/SW_V08_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V08-EXIT`, and the ledger is reconciled. By the V09 and V10 colophons, the companion IX -extra- (2025-06-10) follows V09 and precedes V10. Earlier, V07 closed: the [V07 deep reading](02%20Sequential%20Readings/SW_V07_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V07-EXIT`. Before that, V06 closed: the [V06 deep reading](02%20Sequential%20Readings/SW_V06_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V06-EXIT`. Earlier still, V05 closed: the [V05 deep reading](02%20Sequential%20Readings/SW_V05_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V05-EXIT`, and the ledger is reconciled. Earlier, IV -after- closed: the [IV -after- deep reading](02%20Sequential%20Readings/SW_AFTER04_DEEP_READING.md) covers the whole companion and freezes `SW-FR-AFTER04-EXIT`; its story-level check found every case inside the interval between the festival and the winter break, five retrospective scenes and nothing held out; the ledger is reconciled. Earlier, at the V04 boundary, V04 was closed: the [V04 deep reading](02%20Sequential%20Readings/SW_V04_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V04-EXIT`, and the ledger is reconciled. Placement decided at the V04 boundary: IV -after- was released 2022-10-07, after V04 (2022-08-10) and before V05 (colophon 2023-02-10, checked for its date only), and V04’s afterword places its stories between the festival and the winter break; it is therefore the next unit, `SW-LNJP-AFTER04`, admitted after its story-level placement audit, separate source lock and the architecture review. V05 follows it. Each later unit follows without a new instruction once its predecessor is committed and published through the full audit sequence.
+**The checkpoint and evidence-gap review, then the synthesis products, under the continuous run recorded below.** Every supplied work is read and closed. -another- (lower) is closed: the [-another- (lower) deep reading](02%20Sequential%20Readings/SW_ANOTHER_LOWER_DEEP_READING.md) covers the whole companion volume and freezes `SW-FR-ANOTHER-LOWER-EXIT`, and the ledger is reconciled. Its placement check puts the run before V01; no numbered reading is revised. Earlier, -another- (upper) closed: the [-another- (upper) deep reading](02%20Sequential%20Readings/SW_ANOTHER_UPPER_DEEP_READING.md) covers the whole companion volume and freezes `SW-FR-ANOTHER-UPPER-EXIT`, and the ledger is reconciled. Its placement check puts the run and its prologue before V01; it was admitted after V12 by the recorded rule, and no numbered reading is revised. The lower volume follows. Earlier, V12 closed: the [V12 deep reading](02%20Sequential%20Readings/SW_V12_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V12-EXIT`, and the ledger is reconciled. The numbered track is complete; the prequel -another- is admitted next, upper before lower, as the companion admission points below require. Earlier, V11 closed: the [V11 deep reading](02%20Sequential%20Readings/SW_V11_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V11-EXIT`, and the ledger is reconciled. V12 follows. Earlier, V10 closed: the [V10 deep reading](02%20Sequential%20Readings/SW_V10_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V10-EXIT`, and the ledger is reconciled. V11 follows. Earlier, IX -extra- closed: the [IX -extra- deep reading](02%20Sequential%20Readings/SW_EXTRA09_DEEP_READING.md) covers the whole companion and freezes `SW-FR-EXTRA09-EXIT`, and the ledger is reconciled. Its story-level check places every story by its own markers; none falls after V09’s last scene, and one chapter-label discrepancy is recorded. V10 follows. Earlier, V09 closed: the [V09 deep reading](02%20Sequential%20Readings/SW_V09_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V09-EXIT`, and the ledger is reconciled. The companion IX -extra- is admitted next at its 2025-06-10 publication point, then V10. Earlier, V08 closed: the [V08 deep reading](02%20Sequential%20Readings/SW_V08_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V08-EXIT`, and the ledger is reconciled. By the V09 and V10 colophons, the companion IX -extra- (2025-06-10) follows V09 and precedes V10. Earlier, V07 closed: the [V07 deep reading](02%20Sequential%20Readings/SW_V07_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V07-EXIT`. Before that, V06 closed: the [V06 deep reading](02%20Sequential%20Readings/SW_V06_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V06-EXIT`. Earlier still, V05 closed: the [V05 deep reading](02%20Sequential%20Readings/SW_V05_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V05-EXIT`, and the ledger is reconciled. Earlier, IV -after- closed: the [IV -after- deep reading](02%20Sequential%20Readings/SW_AFTER04_DEEP_READING.md) covers the whole companion and freezes `SW-FR-AFTER04-EXIT`; its story-level check found every case inside the interval between the festival and the winter break, five retrospective scenes and nothing held out; the ledger is reconciled. Earlier, at the V04 boundary, V04 was closed: the [V04 deep reading](02%20Sequential%20Readings/SW_V04_DEEP_READING.md) covers the whole volume and freezes `SW-FR-V04-EXIT`, and the ledger is reconciled. Placement decided at the V04 boundary: IV -after- was released 2022-10-07, after V04 (2022-08-10) and before V05 (colophon 2023-02-10, checked for its date only), and V04’s afterword places its stories between the festival and the winter break; it is therefore the next unit, `SW-LNJP-AFTER04`, admitted after its story-level placement audit, separate source lock and the architecture review. V05 follows it. Each later unit follows without a new instruction once its predecessor is committed and published through the full audit sequence.
 
 ### Continuous run, authorized 2026-10-14
 

@@ -5,11 +5,11 @@ artifact_type: source_scope_inventory
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.21"
+version: "1.22"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Public-safe collection inventory, V01 technical lock, local-collection fingerprint verification, witness lanes, exclusions and recovery"
-source_boundary: "Accepted foundation; Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and -another- (upper) read and closed; -another- lower locked and admitted after the upper volume, not yet read; no other unit in any lane analyzed."
+source_boundary: "Accepted foundation; Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read and closed; no other unit in any lane analyzed."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md"
 supersedes: []
@@ -63,7 +63,7 @@ Pre-reading exposure from the retained audit’s stored samples is disclosed in 
 
 -another- upper is locked and admitted after V12, as the prequel rule requires: a publisher-layout witness whose OPF bears converter identifiers and no publisher field, colophon 2023-12-08 ver.001 naming KADOKAWA, `mimetype` not first, an unrelated five-member publisher preview and a letters notice excluded. It was read in full and closed on 2026-10-14; lane high-water mark -another- (upper). Its story-level check places the whole run and its prologue before V01. Its afterword names a short work narrated by Rosalie, posted before the web serial, as the book's origin, and announces the lower volume; both are leads only, and the web works stay outside the run.
 
--another- lower is locked and admitted after the upper volume closed, as the prequel rule requires: a publisher-layout witness with a publisher field and a store identifier only, colophon 2024-04-10 ver.002 naming KADOKAWA, `mimetype` first, an unrelated five-member publisher preview and a letters notice excluded. Its contents give a prologue named for the Barrier Mage, eleven chapters, an epilogue, a secret episode named for the Sages' days, a character list and an afterword; its story-level placement is checked in its reading's section 10.
+-another- lower is locked and admitted after the upper volume closed, as the prequel rule requires: a publisher-layout witness with a publisher field and a store identifier only, colophon 2024-04-10 ver.002 naming KADOKAWA, `mimetype` first, an unrelated five-member publisher preview and a letters notice excluded. Its contents give a prologue named for the Barrier Mage, eleven chapters, an epilogue, a secret episode named for the Sages' days, a character list and an afterword; its story-level placement is checked in its reading's section 10. It was read in full and closed on 2026-10-14; lane high-water mark -another- (lower), the last supplied work. Its story-level check places the whole run before V01. Its afterword mentions a comic adaptation and announces main volume VIII; both are leads only.
 
 | Test | Evidence | Result |
 |---|---|---|
@@ -129,7 +129,7 @@ Each stable ID resolves through the supplied source folder and Drive's file-ID r
 | Lane | Identity / continuity | Current analytical admission |
 |---|---|---|
 | Numbered published Japanese LN | `SW-LNJP-V<NN>`; intended I–XII primary track | DESIGNATED_PRIMARY_TRACK; V01 CLOSED 2026-10-14. V02–V12 admitted one at a time under the 2026-10-14 continuous run; V02 to V04 CLOSED 2026-10-14. Lane high-water mark V04. |
-| Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | AFTER04 read and closed after V04 (2026-10-14); EXTRA09 read and closed after V09 (2026-10-14); ANOTHER-UPPER read and closed after V12 (2026-10-14); ANOTHER-LOWER locked and admitted after ANOTHER-UPPER (2026-10-14); inside the continuous run at the admission points the corpus map records; not fractional numbered volumes. |
+| Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | AFTER04 read and closed after V04 (2026-10-14); EXTRA09 read and closed after V09 (2026-10-14); ANOTHER-UPPER read and closed after V12 (2026-10-14); ANOTHER-LOWER read and closed after ANOTHER-UPPER (2026-10-14); inside the continuous run at the admission points the corpus map records; not fractional numbered volumes. |
 | Original web main | [N8356GA](https://ncode.syosetu.com/n8356ga/), サイレント・ウィッチ | METADATA_RECONNOITERED_UNADMITTED; separate web witness, no episode ingestion/comparison. |
 | Web gaiden | [N5194GP](https://ncode.syosetu.com/n5194gp/), サイレント・ウィッチ（外伝） | METADATA_RECONNOITERED_UNADMITTED; distinct supplemental web corpus, contains later/end-state disclosures. |
 | Related Rosalie web work | [N8978FV](https://ncode.syosetu.com/n8978fv/), 記憶喪失軍医ロザリー・ヴェルデの考察 | RELATED_SHARED_WORLD_UNADMITTED; exact LN relationship not textually adjudicated. |

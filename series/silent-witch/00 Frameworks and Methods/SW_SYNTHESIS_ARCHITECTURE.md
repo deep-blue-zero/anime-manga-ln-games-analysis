@@ -5,11 +5,11 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.21"
+version: "1.22"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
-source_boundary: "Accepted foundation; Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and -another- (upper) read and closed under it; first closed-volume review based on V01 only; V02 to V04 notes recorded; supplemental-admission review at the V04 boundary recorded before IV -after-."
+source_boundary: "Accepted foundation; Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read and closed under it; first closed-volume review based on V01 only; V02 to V04 notes recorded; supplemental-admission review at the V04 boundary recorded before IV -after-."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md"
 supersedes: []
@@ -53,7 +53,7 @@ Git holds interpretation, methods, public-safe routing, state, and provenance. G
 | V01 foundation/gate report | Owner acceptance, semantic foundation/day-one checks, the historical CLOSED hold and the V01-only gate opening with its entering freeze. |
 | V01 deep reading | Source-bearing V01 observations SW-E-LNJP-V01-001 to 132, coverage, synopsis, close reading and the exit freeze; frozen at its source boundary. |
 | V01 reading path manifest | Exact path set and state of the V01 transaction. |
-| Later deep readings | One per closed unit, `SW_V<NN>_DEEP_READING.md`, each owning its observations and freezes; V02 to V12, IV -after-, IX -extra- and -another- (upper) closed. |
+| Later deep readings | One per closed unit, `SW_V<NN>_DEEP_READING.md`, each owning its observations and freezes; V02 to V12, IV -after-, IX -extra- and both -another- volumes closed. |
 | Continuous run path manifest | Run identity and one transaction entry per unit closed under the 2026-10-14 run. |
 | Master longitudinal ledger | Sole pre-split cumulative analytical state, claims/revisions, predictions, and local readiness. |
 | Bootstrap report | Historical design rationale, observed precedents, accesses, checks, limitations, and handoff gates. |
@@ -290,6 +290,8 @@ Where it agrees or disagrees with an account the numbered track gave, the readin
 *-another- (upper) note, 2026-10-14.* The prequel's upper volume was absorbed by the typed sections without change: its disclosures about the numbered track are recorded as REVEALED_NOT_NEW and no frozen reading is revised. It adds Louis's own apprenticeship under Rutherford and Majer to the masters-and-transmission domain (SW-C-0098), and one REVISE on an earlier claim (SW-C-0043). Prequel figures entered the identity table under neutral keys; the secret episode's honorific is not extended to the numbered track's withheld patron. No architecture change is made. The lower volume is admitted next; the checkpoint and evidence-gap review remains scheduled after it.
 
 *-another- (lower) admission, 2026-10-14.* The V12-boundary review covers both prequel volumes, and the upper volume's closure raised no method or architecture issue, so no new review is required. The lower volume is admitted under the same prequel rules, as `SW-LNJP-ANOTHER-LOWER`, with its own observations and freezes. It is the last supplied work; the checkpoint and evidence-gap review follows its closure.
+
+*-another- (lower) note, 2026-10-14.* The lower volume was absorbed by the typed sections without change; no claim is revised and no frozen reading is altered. Every supplied work is now read. The checkpoint and evidence-gap review is the next operation.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 
