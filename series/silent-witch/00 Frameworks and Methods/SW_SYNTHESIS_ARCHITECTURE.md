@@ -5,7 +5,7 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.20"
+version: "1.21"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
@@ -288,6 +288,8 @@ Where it agrees or disagrees with an account the numbered track gave, the readin
 *Lifecycle.* Two domains are added to monitoring. No responsibility, ledger, dependency or completion gate changes. The checkpoint and evidence-gap review remains scheduled after the last admitted unit, -another- lower. The architecture remains INITIAL.
 
 *-another- (upper) note, 2026-10-14.* The prequel's upper volume was absorbed by the typed sections without change: its disclosures about the numbered track are recorded as REVEALED_NOT_NEW and no frozen reading is revised. It adds Louis's own apprenticeship under Rutherford and Majer to the masters-and-transmission domain (SW-C-0098), and one REVISE on an earlier claim (SW-C-0043). Prequel figures entered the identity table under neutral keys; the secret episode's honorific is not extended to the numbered track's withheld patron. No architecture change is made. The lower volume is admitted next; the checkpoint and evidence-gap review remains scheduled after it.
+
+*-another- (lower) admission, 2026-10-14.* The V12-boundary review covers both prequel volumes, and the upper volume's closure raised no method or architecture issue, so no new review is required. The lower volume is admitted under the same prequel rules, as `SW-LNJP-ANOTHER-LOWER`, with its own observations and freezes. It is the last supplied work; the checkpoint and evidence-gap review follows its closure.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 
