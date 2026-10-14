@@ -97,7 +97,7 @@ The owner explicitly accepted the ten-file V1 bootstrap. Its paired method/archi
 | [Synthesis architecture](00%20Frameworks%20and%20Methods/SW_SYNTHESIS_ARCHITECTURE.md) | Cumulative homes, specialist/reconstruction activation, dependencies and completion gates. |
 | [Source/continuity map](01%20Source%20Lock%20and%20Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md) | Qualified 16-EPUB inventory, V01 technical lock, separate witnesses and exclusions. |
 | [Japanese LN V01 source lock](01%20Source%20Lock%20and%20Inventory/SW_LNJP_V01_SOURCE_LOCK.md) | Exact archive/edition/resource validation, source-channel inventory and local locator seals. |
-| [Japanese LN source lock register](01%20Source%20Lock%20and%20Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md) | Shared lock procedure and one technical lock section per unit after V01; V02 to V09, IV -after- and IX -extra- locked. |
+| [Japanese LN source lock register](01%20Source%20Lock%20and%20Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md) | Shared lock procedure and one technical lock section per unit after V01; V02 to V10, IV -after- and IX -extra- locked. |
 | [V01 foundation/gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) | Explicit acceptance, paired-foundation/day-one verification, the historical owner-directed CLOSED hold, and the 2026-10-14 V01-only gate opening with its entering freeze. |
 | [V01 preparation path manifest](08%20Audits%20and%20Manifests/SW_V01_READINESS_PATH_MANIFEST.json) | Nine-path bounded preparation tranche; no narrative reading. |
 | [V01 deep reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md) | Complete Japanese-primary V01 reading: coverage, synopsis, close reading, observations 001–132, claims, open questions, exit freeze. Frozen at V01. |
