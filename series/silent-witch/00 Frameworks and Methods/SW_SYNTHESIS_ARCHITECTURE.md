@@ -5,11 +5,11 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.7"
+version: "1.8"
 last_updated: "2026-10-14"
 status: canonical
-scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review recorded"
-source_boundary: "Accepted foundation; Japanese LN V01 to V04 read and closed under it; first closed-volume review based on V01 only; V02 to V04 notes recorded."
+scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
+source_boundary: "Accepted foundation; Japanese LN V01 to V04 read and closed under it; first closed-volume review based on V01 only; V02 to V04 notes recorded; supplemental-admission review at the V04 boundary recorded before IV -after-."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md"
 supersedes: []
@@ -193,7 +193,36 @@ Performed after V01 closed, on V01 evidence only, as this section requires.
 
 *V03 note, 2026-10-14.* V03 was reconciled into the single ledger with twenty-six revision events, sixteen new local identities and no strain on any section; no review trigger was met, so no review was performed. Observations for the next review: affiliative or romantic ambiguity, deferred at V01, now has a full volume of material (the festival night, the pendant, a named first love directed at the Silent Witch) and should be reconsidered; disclosure and knowledge has grown into a multi-holder secret with an antagonist’s suspicion; and the cluster around Felix (SW-C-0022) is now the largest unexplained body of evidence in the ledger. The first supplemental review falls before IV -after- is admitted.
 
-*V04 note, 2026-10-14.* V04 was reconciled with thirty-four revision events, two of them corrections of a V03 date formulation, fourteen new identities and no strain on any section. The arc boundary at the end of the festival and the coming admission of IV -after- both call for the review this framework requires before a supplemental admission; it is recorded with that admission.
+*V04 note, 2026-10-14.* V04 was reconciled with thirty-four revision events, two of them corrections of a V03 date formulation, fourteen new identities and no strain on any section. The arc boundary at the end of the festival and the coming admission of IV -after- both call for the review this framework requires before a supplemental admission; it is recorded with that admission, below.
+
+### Supplemental-admission and arc-boundary review — V04 boundary, 2026-10-14
+
+Performed before IV -after- is admitted, on V01 to V04 evidence and the companion's paratext only, as section 10 requires before a supplemental admission. The close of the festival in V04 is also the first evidence-supported arc boundary: V04's afterword calls it the end of the festival arc and announces V05 as the winter-break arc. This review serves both triggers.
+
+*Method fit.* Four volumes were read under the method without strain. The standing practices are now three: short fragments verified mechanically against the sealed block map; an exposure disclosure at every entry freeze; and no registered predictions after exposure. The companion is read with the same template, with one addition. Its §10 records a story-by-story placement check against the interval assigned before reading.
+
+*Supplemental unit identity.* IV -after- is an independent unit, `SW-LNJP-AFTER04`, in the Japanese LN lane. It is not a fractional volume. Its observations are `SW-E-LNJP-AFTER04-nnn`, and its freezes are `SW-FR-AFTER04-ENTRY` and `SW-FR-AFTER04-EXIT`. Every ledger record it adds cites that witness, so supplemental provenance stays retrievable by witness rather than by a separate home.
+
+*Cumulative homes.* The single master ledger is retained. Seventy-eight revision events across four volumes have caused no section strain, and the companion's discrete episodes are expected to add records under existing responsibilities. Two cautions apply to the companion's evidence:
+
+- A companion story set in an interval already closed can show ordinary time without changing a mainline claim. A revision event that rests only on companion evidence is labelled with the companion's witness.
+- Where the companion first discloses an earlier fact, the record is REVEALED_NOT_NEW, under supplemental retrospection in the contradiction taxonomy.
+
+*Placement.* Admission follows the rule recorded in the source and continuity map: publication order, with a story-level audit. The audit is recorded there. A story found outside the assigned interval, or one that presupposes an unread mainline event, is held out of the prospective ledger until the relevant mainline unit closes.
+
+*Candidate specialist domains at V04.*
+
+| Domain | Decision | Basis |
+|---|---|---|
+| Disclosure, knowledge and narrative withholding | MONITOR | Now the largest body of evidence: a multi-holder secret, an antagonist's capture aim, Louis's withheld hypothesis, the cluster around Felix (SW-C-0022) and an unidentified patron (SW-C-0039). SW-K and SW-C still hold it. It is the strongest candidate for a warranted specialist at the first checkpoint. |
+| Expertise, mathematics and the constraints of magic | MONITOR | Numbers as weapon and as limit (SW-C-0035); curse-casting and body magic added to SW-W. |
+| School, aristocratic institutions and available agency | MONITOR | Untitled origins, adopted heirs, ducal steering of a prince's marriage; well held by SW-W and SW-S. |
+| Loyalty, deception and self-authorship | MONITOR | Monica's chosen deception of her friends and her concealment from Louis; Felix's posthumous ambition. |
+| Affiliative or romantic ambiguity | MONITOR, from DEFER | Deferred at V01 for want of material. V03 and V04 supply it: the festival night and the pendant, Felix's stated attachment and jealousy, Cyril's disguised invitation, and recorded absence of romantic interest on Monica's side (SW-C-0023, SW-C-0037). There is now enough material to track; a specialist decision waits for the checkpoint. |
+| Japanese voice, silence, humour and ethical treatment | MONITOR | Speech gains and the comedy of coercion continue; the companion's comic register should be read under this domain. |
+| Withdrawal, coping and past harm without diagnosis | MONITOR, within SW-S and SW-C | V04 supplies the full account of the abuse and dissociation. It must remain non-diagnostic and source-bounded. Cyril's parallel history is held as character evidence, not as a typology. |
+
+*Lifecycle.* One decision changes: affiliative or romantic ambiguity moves from DEFER to MONITOR. Supplemental unit identity and the placement procedure are recorded as applications of the existing source-map admission rule. No responsibility, ledger, dependency or completion gate changes. The architecture remains INITIAL.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 

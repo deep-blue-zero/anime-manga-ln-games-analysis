@@ -5,11 +5,11 @@ artifact_type: source_scope_inventory
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.7"
+version: "1.8"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Public-safe collection inventory, V01 technical lock, local-collection fingerprint verification, witness lanes, exclusions and recovery"
-source_boundary: "Accepted foundation; Japanese LN V01 to V04 read and closed; no other unit in any lane analyzed."
+source_boundary: "Accepted foundation; Japanese LN V01 to V04 read and closed; IV -after- locked and admitted after V04, not yet read; no other unit in any lane analyzed."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md"
 supersedes: []
@@ -49,7 +49,17 @@ The V01 afterword states that the book corresponds to the first three chapters o
 
 ### Continuous run and later locks, 2026-10-14
 
-The owner authorized a continuous run through every supplied work; the [current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md#continuous-run-authorized-2026-10-14) records the terminal boundary and the companion admission points. Each unit is locked at the start of its own transaction. Locks after V01 are recorded in the [source lock register](SW_LNJP_SOURCE_LOCK_REGISTER.md), with a shared procedure and a generalized normalizer driver proved equivalent to V01’s rules. V02 is locked there: hash equal to the row below, publisher-structured EPUB, colophon 2021-10-08 ver.001, unrelated publisher preview of four members confirmed and excluded. V02 was read in full and closed on 2026-10-14; its afterword places the book at web chapters four to six, a comparison lead only. V03 is locked there too: a converted witness, colophon 2022-02-10 ver.001, unrelated publisher preview of five members excluded. V03 was read in full and closed on 2026-10-14; its afterword says the book edition gives Monica challenges absent from the web version, a comparison lead only. V04 is locked there too: a converted witness, colophon 2022-08-10 ver.001, unrelated publisher preview of five members excluded, and a back-matter advertisement for IV -after- held as image paratext. V04 was read in full and closed on 2026-10-14; lane high-water mark V04. Its afterword says the web festival arc of about eighty thousand characters became the whole volume, a comparison lead only, and announces IV -after- as covering the time between the festival and the winter break.
+The owner authorized a continuous run through every supplied work; the [current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md#continuous-run-authorized-2026-10-14) records the terminal boundary and the companion admission points. Each unit is locked at the start of its own transaction. Locks after V01 are recorded in the [source lock register](SW_LNJP_SOURCE_LOCK_REGISTER.md), with a shared procedure and a generalized normalizer driver proved equivalent to V01’s rules. V02 is locked there: hash equal to the row below, publisher-structured EPUB, colophon 2021-10-08 ver.001, unrelated publisher preview of four members confirmed and excluded. V02 was read in full and closed on 2026-10-14; its afterword places the book at web chapters four to six, a comparison lead only. V03 is locked there too: a converted witness, colophon 2022-02-10 ver.001, unrelated publisher preview of five members excluded. V03 was read in full and closed on 2026-10-14; its afterword says the book edition gives Monica challenges absent from the web version, a comparison lead only. V04 is locked there too: a converted witness, colophon 2022-08-10 ver.001, unrelated publisher preview of five members excluded, and a back-matter advertisement for IV -after- held as image paratext. V04 was read in full and closed on 2026-10-14; lane high-water mark V04. Its afterword says the web festival arc of about eighty thousand characters became the whole volume, a comparison lead only, and announces IV -after- as covering the time between the festival and the winter break. IV -after- is locked there as the supplemental unit `SW-LNJP-AFTER04`. It is the publisher’s own layout, not a converted witness, and keeps the mimetype ordering deviation noted below. Its unrelated publisher preview of four members is excluded. It is admitted after V04 under this placement audit:
+
+| Test | Evidence | Result |
+|---|---|---|
+| Publication order | V04 colophon 2022-08-10; IV -after- colophon 2022-10-07; V05 colophon 2023-02-10, checked for its date only. | After V04 and before V05. |
+| Author’s placement | V04 afterword: the companion covers the time between the festival and the winter break, and V05 is the winter-break arc. | Diegetically after V04 and before V05. |
+| Publisher’s placement | Catalogue description: newly written school-period episodes after the festival. | Consistent. |
+| Contents | Prologue, five interludes, four cases, epilogue, secret episode, character reference, afterword; titles only. | No label names a post-V04 event. |
+| Story level | Not checkable before reading without reading. | Each story’s diegetic markers checked in the reading’s section 10; a story outside the interval, or one presupposing an unread mainline event, is held out of the prospective ledger until that mainline unit closes. |
+
+Pre-reading exposure from the retained audit’s stored samples is disclosed in the companion’s entry freeze.
 
 Disclosure-order note for future admission decisions: this edition’s colour frontispieces and in-book character card disclose the heroine’s name and two later scenes before the prologue. Edition-level paratext can therefore pre-empt narrative withholding, and future companion audits should check image-only front matter as well as prose.
 
@@ -107,7 +117,7 @@ Each stable ID resolves through the supplied source folder and Drive's file-ID r
 | Lane | Identity / continuity | Current analytical admission |
 |---|---|---|
 | Numbered published Japanese LN | `SW-LNJP-V<NN>`; intended I–XII primary track | DESIGNATED_PRIMARY_TRACK; V01 CLOSED 2026-10-14. V02–V12 admitted one at a time under the 2026-10-14 continuous run; V02 to V04 CLOSED 2026-10-14. Lane high-water mark V04. |
-| Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | INVENTORIED_UNADMITTED; inside the continuous run at the admission points the corpus map records; not fractional numbered volumes. |
+| Published Japanese companions | Independent `SW-LNJP-AFTER04`, `SW-LNJP-EXTRA09`, `SW-LNJP-ANOTHER-UPPER/LOWER` | AFTER04 locked and admitted after V04 (2026-10-14); the others INVENTORIED_UNADMITTED; inside the continuous run at the admission points the corpus map records; not fractional numbered volumes. |
 | Original web main | [N8356GA](https://ncode.syosetu.com/n8356ga/), サイレント・ウィッチ | METADATA_RECONNOITERED_UNADMITTED; separate web witness, no episode ingestion/comparison. |
 | Web gaiden | [N5194GP](https://ncode.syosetu.com/n5194gp/), サイレント・ウィッチ（外伝） | METADATA_RECONNOITERED_UNADMITTED; distinct supplemental web corpus, contains later/end-state disclosures. |
 | Related Rosalie web work | [N8978FV](https://ncode.syosetu.com/n8978fv/), 記憶喪失軍医ロザリー・ヴェルデの考察 | RELATED_SHARED_WORLD_UNADMITTED; exact LN relationship not textually adjudicated. |

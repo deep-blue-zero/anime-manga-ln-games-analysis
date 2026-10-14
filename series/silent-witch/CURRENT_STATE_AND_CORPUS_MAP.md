@@ -54,7 +54,7 @@ project_initialization:
   v01_locator_recovery: ORIGINAL_PACKAGE_RECOVERED_AND_VERIFIED_2026-10-14
   sequential_gate_hold: RELEASED_FOR_V01_ONLY_BY_OWNER_INSTRUCTION_2026-10-13
   source_lock_register: 01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md
-  next_permitted_operation: IV -after- companion transaction (SW-LNJP-AFTER04) under the active continuous run, after its placement audit and architecture review
+  next_permitted_operation: IV -after- companion reading (SW-LNJP-AFTER04) under the active continuous run; its lock, placement audit and architecture review are recorded
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
@@ -88,7 +88,7 @@ The owner explicitly accepted the ten-file V1 bootstrap. Its paired method/archi
 | [Synthesis architecture](00%20Frameworks%20and%20Methods/SW_SYNTHESIS_ARCHITECTURE.md) | Cumulative homes, specialist/reconstruction activation, dependencies and completion gates. |
 | [Source/continuity map](01%20Source%20Lock%20and%20Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md) | Qualified 16-EPUB inventory, V01 technical lock, separate witnesses and exclusions. |
 | [Japanese LN V01 source lock](01%20Source%20Lock%20and%20Inventory/SW_LNJP_V01_SOURCE_LOCK.md) | Exact archive/edition/resource validation, source-channel inventory and local locator seals. |
-| [Japanese LN source lock register](01%20Source%20Lock%20and%20Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md) | Shared lock procedure and one technical lock section per unit after V01; V02 to V04 locked. |
+| [Japanese LN source lock register](01%20Source%20Lock%20and%20Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md) | Shared lock procedure and one technical lock section per unit after V01; V02 to V04 and IV -after- locked. |
 | [V01 foundation/gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md) | Explicit acceptance, paired-foundation/day-one verification, the historical owner-directed CLOSED hold, and the 2026-10-14 V01-only gate opening with its entering freeze. |
 | [V01 preparation path manifest](08%20Audits%20and%20Manifests/SW_V01_READINESS_PATH_MANIFEST.json) | Nine-path bounded preparation tranche; no narrative reading. |
 | [V01 deep reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md) | Complete Japanese-primary V01 reading: coverage, synopsis, close reading, observations 001–132, claims, open questions, exit freeze. Frozen at V01. |
