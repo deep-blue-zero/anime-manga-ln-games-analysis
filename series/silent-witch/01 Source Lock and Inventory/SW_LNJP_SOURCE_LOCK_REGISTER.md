@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.18"
+version: "1.19"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
 locked_units: [V02, V03, V04, AFTER04, V05, V06, V07, V08, V09, EXTRA09]
-literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14; V09 COMPLETE_CLOSED_2026-10-14"
+literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14; V09 COMPLETE_CLOSED_2026-10-14; EXTRA09 COMPLETE_CLOSED_2026-10-14"
 ---
 
 # Japanese LN source lock register
@@ -628,3 +628,5 @@ Earlier packages keep the driver copy sealed inside them and are unaffected.
 | block-map.jsonl | `d88429177c976cdca35f78c9264b0d3a21bec2102a1e3c13c529b54e1099f6e9` |
 | element-locators.jsonl | `33427aee87823ef3635bd17028001051191795289f1c80e1178ac5884116861c` |
 | validation.json | `c33c6b70cae2af8b876939fcb7f619139b6ba90f8abaf33edc37158dc684d793` |
+
+**Use in the IX -extra- reading.** Thirty-nine of the forty-three image resources were viewed, including all thirty pages of design materials and, after the narrative, the full jacket. The cover, the title page, the store image and an inline star glyph were not viewed. S08 proved to be a credits page and S51 a one-line continuation notice; neither was reclassified. The [IX -extra- reading](../02%20Sequential%20Readings/SW_EXTRA09_DEEP_READING.md) cites 205 distinct locators, all present in the element map, and quotes 12 short fragments, each verified in the base text of a cited block.

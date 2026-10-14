@@ -418,6 +418,49 @@
           "series/silent-witch/.repository/series-registry.json"
         ]
       }
+    },
+    {
+      "unit": "EXTRA09",
+      "witness_id": "SW-LNJP-EXTRA09",
+      "source_epub_sha256": "ec2157d37e9eb301ed6d2e2eebe2adee215c22a354189bed7485ea8485f1c943",
+      "derivative_package_sha256": "879b6dde8db56125f1289c73f91a33b1a8d9fd590a9b9d1e235ef6207219dc25",
+      "entry_record_sha256": "4526885eb2a17d8bb46890e5f65e4a7c4d923814eee1b762d65796e86d4ced7a",
+      "entry_freeze": "SW-FR-EXTRA09-ENTRY",
+      "exit_freeze": "SW-FR-EXTRA09-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_EXTRA09_DEEP_READING.md",
+      "observations": "SW-E-LNJP-EXTRA09-001..188",
+      "cited_locators_verified": 205,
+      "quoted_fragments_verified": 12,
+      "ledger_records_added": {
+        "SW-S": 10,
+        "SW-R": 8,
+        "SW-K": 6,
+        "SW-W": 6,
+        "SW-C": 4,
+        "SW-CR": 74,
+        "SW-P": 2,
+        "SW-F": 3,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "1157cdee1b42493d030d4e957612ee0379bf2eff",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_EXTRA09_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
     }
   ],
   "scope_notes": [
