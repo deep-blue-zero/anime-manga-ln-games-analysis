@@ -5,11 +5,11 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.13"
+version: "1.14"
 last_updated: "2026-10-14"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
-source_boundary: "Accepted foundation; Japanese LN V01 to V08 and the companion IV -after- read and closed under it; first closed-volume review based on V01 only; V02 to V04 notes recorded; supplemental-admission review at the V04 boundary recorded before IV -after-."
+source_boundary: "Accepted foundation; Japanese LN V01 to V09 and the companion IV -after- read and closed under it; first closed-volume review based on V01 only; V02 to V04 notes recorded; supplemental-admission review at the V04 boundary recorded before IV -after-."
 created: "2026-10-12"
 canonical_home: "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md"
 supersedes: []
@@ -53,7 +53,7 @@ Git holds interpretation, methods, public-safe routing, state, and provenance. G
 | V01 foundation/gate report | Owner acceptance, semantic foundation/day-one checks, the historical CLOSED hold and the V01-only gate opening with its entering freeze. |
 | V01 deep reading | Source-bearing V01 observations SW-E-LNJP-V01-001 to 132, coverage, synopsis, close reading and the exit freeze; frozen at its source boundary. |
 | V01 reading path manifest | Exact path set and state of the V01 transaction. |
-| Later deep readings | One per closed unit, `SW_V<NN>_DEEP_READING.md`, each owning its observations and freezes; V02 to V08 and IV -after- closed. |
+| Later deep readings | One per closed unit, `SW_V<NN>_DEEP_READING.md`, each owning its observations and freezes; V02 to V09 and IV -after- closed. |
 | Continuous run path manifest | Run identity and one transaction entry per unit closed under the 2026-10-14 run. |
 | Master longitudinal ledger | Sole pre-split cumulative analytical state, claims/revisions, predictions, and local readiness. |
 | Bootstrap report | Historical design rationale, observed precedents, accesses, checks, limitations, and handoff gates. |
@@ -233,6 +233,15 @@ Performed before IV -after- is admitted, on V01 to V04 evidence and the companio
 *V07 note, 2026-10-14.* V07 was reconciled with fifty-six revision events, four of them REVISE, nine new identities and no strain on any section. One identification was registered on textual usage, Emmanuel’s patron as Clockford (SW-C-0057); the claim section held it without a new record type. The Felix cluster grew by reports and beliefs that the claim and open-question sections hold without hypothesis; the identity table records the page and the physician as separate keys with no identity asserted. No review trigger is met.
 
 *V08 note, 2026-10-14.* V08 was reconciled with sixty-two revision events, fifteen of them REVISE, nine new identities and six new claims. The volume discloses in narration the identity held open since V02, the Felix cluster; the identity table carried it by keeping the person (sw.felix) separate from the original prince (sw.arc) and recording the disclosure as a note, without merging keys. The claim section absorbed the disclosure as one new claim with revisions to the dependent claims; fifteen prospective questions were retired with reason. This is the largest single reconciliation so far and is recorded for the first checkpoint. No review trigger is met; the next unit is V09, then the companion IX -extra- at its publication point.
+
+*V09 review, 2026-10-14.* Two review triggers coincide at V09: an evidence-supported arc boundary and the admission of the companion IX -extra-. The V09 text closes the arc that began at V01, and its afterword says so. The review finds the following:
+
+- The nine typed sections absorbed the arc without strain.
+- The identity table kept the person and the name apart through the V08 disclosure.
+- The claim and open-question sections carried the cluster to its resolution with thirty-nine questions retired with reason.
+- The converted V09 witness lowers image legibility; this is recorded as an evidence limitation, not an architecture change.
+
+The review decides that IX -extra- is admitted under the same supplemental placement rule used for IV -after-. Each of its stories is placed by its own internal chronology, and any story set after the V09 boundary is recorded as such without revising V09 records. No architecture change is made. The checkpoint and evidence-gap review remains scheduled after the last admitted unit.
 
 *Next review.* Before any supplemental admission, when a recurring dimension outgrows the ledger, or at an evidence-supported arc boundary, as already listed above.
 

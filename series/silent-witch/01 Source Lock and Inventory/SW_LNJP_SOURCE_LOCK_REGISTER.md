@@ -5,7 +5,7 @@ artifact_type: technical_source_lock
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.16"
+version: "1.17"
 last_updated: "2026-10-14"
 status: canonical
 scope: "Exact supplied witness, usable resources, admission classes and local derivative seals for each Japanese LN unit locked after V01"
@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 evidence_retention: LOCAL_ONLY_OWNER_REQUEST
 locked_units: [V02, V03, V04, AFTER04, V05, V06, V07, V08, V09]
-literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14"
+literary_inspection: "V02 COMPLETE_CLOSED_2026-10-14; V03 COMPLETE_CLOSED_2026-10-14; V04 COMPLETE_CLOSED_2026-10-14; AFTER04 COMPLETE_CLOSED_2026-10-14; V05 COMPLETE_CLOSED_2026-10-14; V06 COMPLETE_CLOSED_2026-10-14; V07 COMPLETE_CLOSED_2026-10-14; V08 COMPLETE_CLOSED_2026-10-14; V09 COMPLETE_CLOSED_2026-10-14"
 ---
 
 # Japanese LN source lock register
@@ -554,3 +554,5 @@ Common limitations: each witness is a supplied reflowable EPUB whose equivalence
 | block-map.jsonl | `36e0103be6ab5f988d385572a86ffc76183483d765df3a33767f685956741d16` |
 | element-locators.jsonl | `8cc6011eb86eddb457e6e923f1e2f8b524458d98e0ed752857a9dd4633110b6d` |
 | validation.json | `3008ae829ba2e825a9446353079685b3e21095010ec9d4e339fdcce358d0bce4` |
+
+**Use in the V09 reading.** Twenty-two of the twenty-seven image resources were viewed at the witness’s resolution, including the full jacket after the narrative, whose blurb is illegible. The cover, title page, illustrated contents, store image and S38 were not viewed. The afterword identifies S38 as the V10 preview page; it remains excluded and unviewed. The [V09 reading](../02%20Sequential%20Readings/SW_V09_DEEP_READING.md) cites 215 distinct locators, all present in the element map, and quotes 37 short fragments, each verified in the base text of a cited block. No member was reclassified.
