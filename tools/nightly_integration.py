@@ -231,6 +231,7 @@ class Integrator:
         self.wait_seconds = wait_seconds
         self.rows: list[dict] = []
         self.method = "merge"
+        self.access = "NOT_CHECKED"
 
     def check_time(self) -> None:
         if time.monotonic() >= self.deadline:
@@ -376,6 +377,27 @@ class Integrator:
             time.sleep(15)
         raise Halt("Already integrated, but explicit post-merge audit did not finish; further merges stopped")
 
+    def access_check(self) -> str:
+        """Confirm owner-only write access: no other collaborator, no pending invitation.
+
+        Apply halts when access is wider or unreadable. Preview never mutates,
+        so it records what it could read and continues.
+        """
+        try:
+            collaborators = self.api.pages("collaborators?affiliation=all")
+            invitations = self.api.pages("invitations")
+        except ApiError as exc:
+            if self.preview:
+                return f"UNVERIFIED: HTTP {exc.status}"
+            raise Halt("Collaborators and invitations are unreadable; owner-only access is unverified") from None
+        others = sum(1 for row in collaborators if not isinstance(row, dict) or row.get("login") != OWNER)
+        if others or invitations:
+            detail = f"{others} other collaborator(s) and {len(invitations)} pending invitation(s)"
+            if self.preview:
+                return "NOT_OWNER_ONLY: " + detail
+            raise Halt("Repository access is not owner-only: " + detail)
+        return "VERIFIED_OWNER_ONLY"
+
     def preflight(self) -> str:
         base = self.api.head("main")
         self.graph.fetch(base)
@@ -386,6 +408,8 @@ class Integrator:
         if not self.preview:
             if self.api.request("GET", "/user").get("login") != OWNER:
                 raise Halt("NIGHTLY_INTEGRATION_TOKEN must authenticate the repository owner")
+        self.access = self.access_check()
+        if not self.preview:
             self.method = protection_method(self.api.request("GET", "branches/main/protection"), self.api.request("GET", ""))
             status = self.api.status(base)
             if not status or status["state"] != "success" or not self.api.audit_run(base, status):
@@ -492,7 +516,7 @@ class Integrator:
         return merged
 
     def save(self) -> None:
-        report = json.dumps({"preview": self.preview, "branches": self.rows}, indent=2) + "\n"
+        report = json.dumps({"preview": self.preview, "access_check": self.access, "branches": self.rows}, indent=2) + "\n"
         Path("nightly-integration-report.json").write_text(report, encoding="utf-8")
         summary = os.environ.get("GITHUB_STEP_SUMMARY")
         if summary:

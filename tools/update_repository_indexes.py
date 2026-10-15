@@ -25,6 +25,12 @@ CHANGE_OBLIGATIONS = "governance/repository-controls/change-obligations.json"
 SERIES_README = "series/README.md"
 STUDIES_README = "studies/README.md"
 CORPUS_INDEX = "governance/MANGA_ANIME_CORPUS_INDEX.md"
+# Housekeeping's complete write set: the two registries and the three catalogs
+# rendered from them. Tools import this constant; the standalone nightly
+# controller keeps a copy that a regression test binds to it.
+ROUTING_OUTPUTS = frozenset(
+    {SERIES_REGISTRY, STUDY_REGISTRY, SERIES_README, STUDIES_README, CORPUS_INDEX}
+)
 SERIES_SCHEMA = "anime-manga-ln-games-analysis/series-registry/v2"
 STUDY_SCHEMA = "anime-manga-ln-games-analysis/study-registry/v1"
 

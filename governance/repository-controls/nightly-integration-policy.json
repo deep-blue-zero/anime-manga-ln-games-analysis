@@ -3,5 +3,5 @@
   "workflow": ".github/workflows/nightly-integration.yml",
   "controller": "tools/nightly_integration.py",
   "workflow_sha256": "9050cd394c626f87c9f8c8d2c4c73b1bb25fe1e41353d3c5b2305f2785c8dc13",
-  "controller_sha256": "59e97fbf15a72e014f4078845b7fb993d6cfe2ed0df95af6c64f5774d050ad07"
+  "controller_sha256": "9f52d530593e0bbb40d5bac195bb1d216e2add291bf6ca9f25505a29bab6a85a"
 }

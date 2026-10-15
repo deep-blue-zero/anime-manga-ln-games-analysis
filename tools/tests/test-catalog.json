@@ -1626,6 +1626,28 @@
       ],
       "purpose": "transport uses canonical repository metadata url"
     },
+    "test_nightly_integration.ControllerTests.test_apply_requires_owner_only_access_before_any_write": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "apply halts before any write unless collaborators and invitations show owner-only access"
+    },
+    "test_nightly_integration.ControllerTests.test_preview_records_access_without_halting": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "preview records unverified or wider access without halting or writing"
+    },
     "test_nightly_integration.ControllerTests.test_preview_transport_rejects_every_mutation": {
       "group": "synthetic_git",
       "smoke": false,
@@ -3037,6 +3059,16 @@
       ],
       "purpose": "repository audit requires character branch trigger"
     },
+    "test_validate_repository.PhaseValidationTests.test_repository_audit_requires_every_agent_branch_trigger": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "repository audit requires every agent branch trigger"
+    },
     "test_validate_repository.PhaseValidationTests.test_repository_audit_workflow_rejects_mutation_capability": {
       "group": "live_corpus",
       "smoke": false,
@@ -3146,6 +3178,56 @@
         "tools/*.py"
       ],
       "purpose": "selected non head commit controls identity history"
+    },
+    "test_validate_repository.PhaseValidationTests.test_commit_identity_policy_separates_author_and_committer_roles": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "commit identity policy separates author and committer roles"
+    },
+    "test_validate_repository.PhaseValidationTests.test_missing_entrypoints_must_equal_the_reviewed_allowlist": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "missing entrypoints must equal the reviewed allowlist"
+    },
+    "test_validate_repository.PhaseValidationTests.test_hazard_prefilters_never_skip_a_match": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "hazard prefilters never skip a match"
+    },
+    "test_validate_repository.PhaseValidationTests.test_one_authority_graph_serves_each_consumer": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "one authority graph serves each consumer"
+    },
+    "test_validate_repository.PhaseValidationTests.test_routing_output_set_has_one_definition": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "routing output set has one definition"
     },
     "test_validate_repository.PhaseValidationTests.test_percent_encoded_markdown_paths_decode_before_resolution": {
       "group": "live_corpus",
