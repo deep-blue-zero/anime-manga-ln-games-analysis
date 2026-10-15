@@ -3761,8 +3761,8 @@
   "literal69_register": {
     "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT196_COMPLETE_LITERAL69_CLAIM_SOURCE_QUESTION_PURPOSE_AND_LIMIT_REGISTER_V2.json",
     "bytes": 832413,
-    "sha256": "7fc287ed4f32b75c60824116ef55eccc030baf6cff91e12c2bfcb711c87cf624",
-    "git_blob_oid_of_actual_bytes": "f0710bc2a0660f24968bcf6569e763b1097c689c"
+    "sha256": "0bd21006df0537f021d176782d64cdc3f05e2f60a64235ed2e7c0bb0ef316f4e",
+    "git_blob_oid_of_actual_bytes": "93f7f418787a081399ed49f6e0cd425e172f2224"
   },
   "operative_qualifiers": {
     "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT20_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",

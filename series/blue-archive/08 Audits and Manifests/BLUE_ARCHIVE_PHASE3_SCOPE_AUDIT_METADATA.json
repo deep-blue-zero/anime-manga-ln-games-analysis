@@ -4002,8 +4002,8 @@
     "final_public_CONTROL": {
       "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT12_ROOT_SEMANTICALLY_ACCEPTED_METADATA_COMPOSITION_CONTROL_V1.json",
       "bytes": 27530,
-      "sha256": "7f5cc2929b2923e1da942b82102d3740dd4898b72e8e589d60333d5393b42306",
-      "git_blob_oid_of_actual_bytes": "b0b21326e4fa36c0a058c3250b6804b9d647618a"
+      "sha256": "940baff92921e18c367f51e22768576a29c794a74d037ff0fee499a8f916e413",
+      "git_blob_oid_of_actual_bytes": "d4881933f27f3282dcab81d76207171032bf661d"
     },
     "current6bf_complete_remote7_beforeimage_metadata": {
       "private_witness_id": "ROOT_RIO_SHARED7_CURRENT6BF_EXACT7_COMPLETE_REMOTE_C_BEFOREIMAGE_LOCATORS_V1",
@@ -4100,5 +4100,102 @@
       "current_formatting_byte_QA_ROOT_adoption_preflight_and_publication": "PENDING_SEPARATE_ACTUAL_ROOT_OPERATIONS",
       "new_semantic_source_model_count_merge": 0
     }
+  },
+  "current_Rio_deterministic_identity_binding_repair_20261015_V1": {
+    "schema": "RIO_CURRENT_IDENTITY_BINDING_REPAIR_AND_HISTORICAL_BOUNDARY_V1",
+    "reviewed_source_commit": "0003bcdb3d16fe075644762e20e60635e4d0bdb1",
+    "reconciled_main_commit": "4c9ca188e62850e21257848e480c1b41dfd0e5ac",
+    "scope": "Deterministic current identity bindings only. Analytical prose, original semantic decisions, historical receipts, encoded originals, and frozen custody records retain their exact values.",
+    "superseded_current_question_source1_pin": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_EXISTING_CHAR43_SOURCE1_EXACT11_AUTHOR_SOURCE_SPECIFIC_RECEIVING_V2.json",
+      "bytes": 75016,
+      "sha256": "9d7b3cda1bcc58c23a10779c2494f80b93a24bcfb424d12f222700bfbb2f9ad5",
+      "git_blob_oid_of_actual_bytes": "e827eec63c3cef39cb5bdba2211ab7486d731297"
+    },
+    "verified_current_source1": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_EXISTING_CHAR43_SOURCE1_EXACT11_AUTHOR_SOURCE_SPECIFIC_RECEIVING_V2.json",
+      "bytes": 75016,
+      "sha256": "8aac9b259d89e6e233875d91ce0dbd81c09f5377481e103116b22ac368167564",
+      "git_blob_oid_of_actual_bytes": "da9912f3c280a7304a54ab93e4751ac4b2eb6e64"
+    },
+    "source_specific_question_reference_count": 180,
+    "distinct_source_specific_questions": 19,
+    "literal_claim_records": 69,
+    "superseded_current_transport_register_pin": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT196_COMPLETE_LITERAL69_CLAIM_SOURCE_QUESTION_PURPOSE_AND_LIMIT_REGISTER_V2.json",
+      "bytes": 832409,
+      "sha256": "a3b164c64444a4a6ae1b6cf1c8896ab8e6d94cd22e8ec9d6805344220c5c0611",
+      "git_blob_oid_of_actual_bytes": "2d1f4459673aa1b7258f7d01586624962218388d"
+    },
+    "register_before_identity_repair": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT196_COMPLETE_LITERAL69_CLAIM_SOURCE_QUESTION_PURPOSE_AND_LIMIT_REGISTER_V2.json",
+      "bytes": 832413,
+      "sha256": "7fc287ed4f32b75c60824116ef55eccc030baf6cff91e12c2bfcb711c87cf624",
+      "git_blob_oid_of_actual_bytes": "f0710bc2a0660f24968bcf6569e763b1097c689c"
+    },
+    "current_dependency_components": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT196_COMPLETE_LITERAL69_CLAIM_SOURCE_QUESTION_PURPOSE_AND_LIMIT_REGISTER_V2.json",
+        "bytes": 832413,
+        "sha256": "0bd21006df0537f021d176782d64cdc3f05e2f60a64235ed2e7c0bb0ef316f4e",
+        "git_blob_oid_of_actual_bytes": "93f7f418787a081399ed49f6e0cd425e172f2224"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V2.json",
+        "bytes": 207782,
+        "sha256": "27e5b01e64a2fb341d021b178b8fbd18e322eb0ea8ea42c1c151ac8b0ae134d6",
+        "git_blob_oid_of_actual_bytes": "3541d6cf15d8ac94673e8351c4fecdad17a40c2f"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_EXACT8_SAVED_OUTPUT_WHOLE_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V2.json",
+        "bytes": 924616,
+        "sha256": "6bd17a5b5556d686a98e30eee1267d2becac2f7fcb384263d6f7feec0c997e09",
+        "git_blob_oid_of_actual_bytes": "6280e0bbe7863ab19448c6a36a878b79b3549a4c"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT12_PUBLIC_AUTHORITY_AND_ORIGINAL_RECOVERY_CUSTODY_V1.json",
+        "bytes": 107836,
+        "sha256": "f5ff17812aaccb3bc0fb0e0cc6839befeff713a42992e6705b63e20a0f697de5",
+        "git_blob_oid_of_actual_bytes": "447659430762913a5b5b801357d59c2518b32650"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT12_ROOT_SEMANTICALLY_ACCEPTED_METADATA_COMPOSITION_CONTROL_V1.json",
+        "bytes": 27530,
+        "sha256": "940baff92921e18c367f51e22768576a29c794a74d037ff0fee499a8f916e413",
+        "git_blob_oid_of_actual_bytes": "d4881933f27f3282dcab81d76207171032bf661d"
+      }
+    ],
+    "preserved_original_source1_tuple": {
+      "C_path": "private-witness:RIO-LOC-000e0fc91c1e9855c4da",
+      "bytes": 82255,
+      "sha256": "3077d14e0d799a071b1e5430db630783591acbd3abeb9484699564d27cf59c3f",
+      "git_blob_oid_of_actual_bytes": "890be7714f1f5c98b7bc445bbb0b1b698eba4dba"
+    },
+    "preserved_original_register_tuple": {
+      "C_path": "private-witness:RIO-LOC-6e048bbe46726b678621",
+      "bytes": 865531,
+      "sha256": "9c0874db29ead934a23923d3d20221ce98672434c2668f863f1bc0296f15d3b7",
+      "git_blob_oid_of_actual_bytes": "4f97704027b4579279030dd559616db4638a1662"
+    },
+    "dated_operational_snapshots_retained": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json",
+        "pointer": "/current151_Rio_ROOT_semantic_and_public12_byte_adoption_no_named_conditional_install_and_verified150_boundary_20261014_v1/current_one_link_format_repair_and_dated_pre_format_adoption_qualification_V1",
+        "role": "Unchanged dated formatting receipt; its current_CONTROL and external manifest describe that earlier formatting successor."
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT12_ROOT_SEMANTICALLY_ACCEPTED_METADATA_COMPOSITION_CONTROL_V1.json",
+        "pointer": "/current_metadata_link_format_repair_and_pre_format_authority_qualification_V1",
+        "role": "Unchanged dated formatting receipt and pre-format authority qualification."
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json",
+        "pointer": "/current151_Rio_ROOT_semantic_and_public12_byte_adoption_no_named_conditional_install_and_verified150_boundary_20261014_v1/complete_current_paragraphs",
+        "role": "Unchanged analytical and dated operational prose, including its exact earlier formatting identities."
+      }
+    ],
+    "preservation": "All fields outside the exact repaired current identity scalars and this additive boundary receipt are byte-preserved. The monograph, 69 complete literal paragraphs, 105 purpose records and 525 target values, Source1 questions and answers, source extents, original and historical records, custody encodings, and prior acceptance remain unchanged. Prior byte-adoption and CI receipts retain their original commit/byte scope.",
+    "new_semantic_source_primary_native_AV_identity_model_package_named_or_merge_credit": 0,
+    "PR158": "OPEN_DRAFT_HOLD; merge approval RESERVED"
   }
 }
