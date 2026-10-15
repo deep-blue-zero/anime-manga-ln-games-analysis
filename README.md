@@ -92,7 +92,7 @@ The live governance documents control when they differ from conversation memory,
 
 ## Repository status
 
-Git is the epoch-1 primary analytical authority for the exact scope declared in [authority scope](governance/AUTHORITY_SCOPE.json), subject to the narrower Drive-native and external-evidence roles recorded there. The live [authority state](governance/AUTHORITY_STATE.yaml) currently records the approved 14-day stabilization lifecycle; that record, rather than this summary, controls the current status.
+Git is the epoch-1 primary analytical authority for the exact scope declared in [authority scope](governance/AUTHORITY_SCOPE.json), subject to the narrower Drive-native and external-evidence roles recorded there. The live [authority state](governance/AUTHORITY_STATE.yaml) records that the owner accepted the epoch on 2026-10-15, after its 14-day stabilization period; that record, rather than this summary, controls the current status.
 
 The repository originated from a sealed Drive-to-Git migration covering 2,939 representations of 2,924 unique source artifacts across 37 series roots and two study roots. Those are historical cutover figures, not the current corpus size. Governed Git-native work and later imports have expanded the live corpus; use the [corpus index](governance/MANGA_ANIME_CORPUS_INDEX.md) and machine-readable [series](series/registry.json) and [study](studies/registry.json) registries for current coverage.
 
