@@ -1,6 +1,6 @@
 # Repository Pre-Commit Guidance
 
-This is the mandatory pre-commit contract for human, Codex, and ChatGPT changes to this repository. It complements `AGENTS.md` and the authority records; it does not expand repository, Drive, publication, or contributor authority.
+This is the mandatory pre-commit contract for every change to this repository, by a person or any agent. It complements `AGENTS.md` and the authority records; it does not expand repository, Drive, publication, or contributor authority.
 
 ## Before editing
 
@@ -13,40 +13,7 @@ For a stable series/study branch, read `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. 
 
 ## Project-initiation architecture gate
 
-Read `../source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md` before opening a new substantive analytical root or materially restarting an existing project. The machine boundary is `../repository-controls/project-initiation-gate.json`; a new or materially restarted root declares `project_initiation_gate: REQUIRED` in its series/study routing descriptor and exposes a recoverable `project_initialization` state from its canonical entrypoint.
-
-### Architecture/bootstrap state
-
-Architecture, source reconnaissance, source locking, corpus-map creation, method creation, synthesis-architecture creation, justified longitudinal-infrastructure initialization, and other pre-sequential setup may proceed while `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`. CLOSED is the safe default. A project may remain incomplete in this state, and it must not create empty ledgers or placeholder artifact classes merely for symmetry. Creating directories, routing files, or an entrypoint does not by itself satisfy the initiation gate.
-
-### Sequential-analysis state
-
-Before staging or committing the first substantive sequential deep reading for a governed project, verify all of the following:
-
-- the governing analytical/deep-reading method exists as a tracked regular artifact and is current-eligible under repository authority rules;
-- the governing synthesis/corpus architecture exists as a tracked regular artifact and is current-eligible under the same rules;
-- the canonical current-state/corpus-map entrypoint identifies both governing artifacts;
-- every day-one longitudinal artifact required by that architecture is initialized, with no requirement to invent analytically unnecessary infrastructure;
-- the entrypoint's initialization state explicitly records `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; and
-- the new sequential artifact carries an accurate structured `artifact_type` rather than relying on its filename to establish its role.
-
-An absent, CLOSED, malformed, or contradictory lock is a stop condition. OPEN is affirmative gate state, not a state inferred from the existence of a downstream reading. The validator recognizes substantive sequential roles through authority front matter and uses a narrow sequential-reading-directory fallback only to fail closed when such an artifact omits `artifact_type`.
-
-Roots present at the machine control's activation baseline retain policy-defined legacy compatibility: a mature/imported project is not required to adopt the new initialization block merely for cosmetic uniformity, but any newly added sequential artifact must still route through a current-eligible canonical entrypoint that identifies a current-eligible method and synthesis/corpus architecture. Git-native post-cutover roots are checked against the full initiation contract before their next newly added sequential artifact. A material restart must opt into the prospective contract through its routing descriptor; the prior root's existence is not evidence that a new analytical generation has passed the gate.
-
-When a project creates a bootstrap/initiation manifest, record at least its base state or bootstrap generation, governing method, governing synthesis architecture, canonical entrypoint, required day-one infrastructure state, sequential-analysis-lock state, whether substantive sequential findings existed at bootstrap, and the next permitted operation. Historical projects are not required to create a manifest retroactively. This record distinguishes path scaffolding from actual gate satisfaction.
-
-### Adoption boundary and work already on branches
-
-The activation baseline is the immutable Git tree named by `activation_baseline_commit`, not a publication date, commit timestamp, moving `main`, or the base of the current pull request. "Newly added sequential artifact" means a classified Markdown path absent from that baseline tree. A path already in the baseline is outside this gate's new-reading detection; the repository's other integrity and authority checks still apply. New paths remain subject to the gate after their first integration. Renaming or importing an older reading to a new path can therefore invoke the gate without implying that its analysis was recently written.
-
-A project at the end of an authorized run may retain accepted readings behind a CLOSED current lock through its own run stop, `<project root>/.repository/run-closure.json`; a project at its final source boundary uses the governing policy's reviewed `terminal_closures` control instead. Either is an exact path/SHA-256 preservation boundary, not an exemption for another source: the initialized foundation remains required, execution must be complete with no next operation, and any added, missing, altered or renamed reading fails. Do not shift the activation baseline to satisfy validation. The next run on a run stop needs owner authorization and sets the record to `REOPENED`, which keeps every seal; admission after a terminal closure needs separate owner authorization and a reviewed closure-control amendment.
-
-A closure is one transaction: the entrypoint's CLOSED state and its record land in the same commit. A series- or study-scoped task writes a run stop on its own branch; a terminal closure lands only through an owner-merged governance change, so a task that reaches the final boundary records a run stop and the blocker under [Analytical corrections and procedural conflicts](#analytical-corrections-and-procedural-conflicts). A closure governs source admission and sealed-reading retention, not analytical revision. The governing policy's Section 3.8 defines the interim state, the readable terminal surfaces, and how corrections proceed under a closure.
-
-Work authored on a branch before enforcement, but absent from the baseline, is checked when that branch incorporates the controls. An earlier green audit using older controls is not certification under the new gate. For an existing mature/imported root, retain the legacy route through its current method and architecture. For a Git-native root, verify existing governing artifacts and required infrastructure, then record truthful initialization state in the current entrypoint. Dates alone do not grant an exemption, and neither shifting the baseline nor marking a bootstrap OPEN without verification is an acceptable repair.
-
-This transition checks present governing structure; it does not authorize redoing earlier readings, rewriting prospective freezes, or replacing mature bespoke documents for cosmetic consistency. Preserve adequate existing work and backfill only material evidence gaps under the governing source policy. If an import or material restart cannot be classified from the reviewed provenance, resolve that classification explicitly before integration rather than inventing a timestamp-based exception.
+Before opening a new substantive analytical root, materially restarting a project, or staging a project's first substantive sequential reading, read Section 3 of `../source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`. Its Section 3.8 covers the lock, run stops and terminal closures, and Section 3.9 states what the validator enforces through `../repository-controls/project-initiation-gate.json`. An absent, CLOSED, malformed or contradictory lock stops a new sequential reading.
 
 ## Analytical corrections and procedural conflicts
 
@@ -107,17 +74,7 @@ These are authoring and verification requirements. Existing syntax and repositor
 
 ## Branch routing and cleanup
 
-- Continuing series analysis is written to `series/<stable-slug>` and periodically integrated into `main`.
-- Continuing cross-series or non-series study work is written to `studies/<stable-slug>` and periodically integrated into `main`.
-- Different series or study branches may advance concurrently. Work on the same analytical root must be serialized or explicitly reconciled before integration.
-- Cross-cutting governance or tooling work uses a narrowly named temporary branch such as `codex/<purpose>` or `chatgpt/<purpose>`.
-- Bootstrap, migration, repair, audit-remediation, experiment, and one-shot automation branches are temporary.
-- A temporary branch must be pruned after its intended content is verified on `origin/main`, the exact integration is recoverable, the `main` repository audit is green, and no intended artifact remains unique to the branch.
-- Use ancestry to verify merges and fast-forwards. For an approved squash or rebase, compare the complete tree or reviewed patch before deletion. Never bulk-delete branches merely because they are old or their pull requests are closed.
-- The reusable `character-registry` branch may remain while the recurring curation task is active; follow `CHARACTER_DISCOVERY_MAINTENANCE.md` for its two-file boundary and exact-head integration checks.
-- Stable series and study branches may remain while actively used. Apply the same verified pruning rule when one is retired.
-
-The full branch contract is `governance/policies/BRANCH_LIFECYCLE.md`.
+Branch names, retention and pruning follow [`BRANCH_LIFECYCLE.md`](BRANCH_LIFECYCLE.md): continuing `series/<stable-slug>` and `studies/<stable-slug>` branches, the reusable `character-registry` branch, and temporary agent branches that are pruned only after their exact tips are verified on a green `main`.
 
 ## Change obligations
 
@@ -135,6 +92,46 @@ The machine-readable form of this table is `governance/repository-controls/chang
 | Change policy, schema, validation, workflow, or authority controls | Run the affected focused tests and review the governance effect. Use the explicit full gate for executable validation, workflow, schema, publication-safety, or authority changes. Authority-scope changes require separate owner authorization. |
 
 Ordinary edits, additions, and deletions inside an existing registered analytical root do not require unrelated global registry or catalog churn solely because the path set changed. New or removed series/study roots and other semantic changes still activate the specific obligations above. `G3_BOOTSTRAP_TRACKED_PATHS.txt` remains immutable historical evidence; it is not the live inventory.
+
+## Execution profiles
+
+Both profiles start from the common workflow and preconditions in Section 8 of `../CHATGPT_AUTHORITY_AND_ROUTING.md` and end only when the post-integration `main` audit passes. Stable series/study branches also follow the [stable analytical branch profile](#stable-analytical-branch-profile) and the [publication sequence](#stable-analytical-publication-sequence).
+
+### GitHub API or connector mode
+
+1. fetch `main` and the exact target-branch head; confirm the selected branch is based on or explicitly reconciled with current `main`;
+2. fetch the complete current contents and blob SHA for every existing path to be changed at the captured commit; verify completeness before constructing any full-file replacement;
+3. confirm that the provider will record an author from `allowed_author_identities` and a committer from `allowed_committer_identities` in `governance/repository-controls/tracked-file-policy.json`; the GitHub server identity may be an allowed committer but is never an allowed author, and wildcard identity patterns are prohibited;
+4. create or reuse `series/<stable-slug>` for continuing series work, `studies/<stable-slug>` for continuing study work, or a narrow temporary agent branch (`codex/<purpose>`, `chatgpt/<purpose>` or `claude/<purpose>`) for cross-cutting or one-shot work;
+5. construct each candidate from the verified original plus targeted edits, review its complete diff, and write only the authorized paths using current blob SHAs for replacement safety and an atomic multi-file tree/commit when the connector supports it;
+6. treat the exact candidate Git tree as the live path inventory and update only the semantic outputs required by the obligation map; an ordinary path change inside an existing registered root does not require a global path-list projection;
+7. fetch the resulting commit and each changed file, compare remote contents with the reviewed candidates and the complete branch delta against the validated base; validate formatting, links, structured data, authority records, commit identity, generated outputs, and the exact changed-file set;
+8. use the owner-controlled integration route authorized for the change: a pull request when required, or an explicitly authorized ordinary non-forced integration into `main`; never infer merge authority from this handoff or a branch name;
+9. immediately before integration, recheck remote-head drift and confirm the reviewed branch delta is unchanged;
+10. after integration, fetch the resulting `main` head, verify that its tree or reviewed patch corresponds to the approved change, and require the `main` repository audit to complete successfully before declaring the Git transaction closed.
+
+This profile has no working tree or staging area. Complete verified source contents, exact base refs, blob identities, authorized path lists, commit and branch comparisons, any applicable PR diff, and post-integration `main` verification provide the equivalent safety controls.
+
+Follow the [connector-failure procedure](#github-connector-limits-and-failed-writes) after truncated reads, payload failures, timeouts, or ambiguous writes: inspect remote state before retrying, preserve already applied and concurrent changes, and use an approved Git-capable environment or report a precise blocker when a complete safe replacement is unavailable. Never substitute a summary, omit untouched sections, or repeatedly overwrite from a stale before-image.
+
+### Local clone mode
+
+1. fetch the target branch and inspect `git status`, the current branch, upstream tracking, and the exact base commit; stop on unrelated or ambiguous worktree changes;
+2. create or reuse `series/<stable-slug>` for continuing series work, `studies/<stable-slug>` for continuing study work, or a narrow temporary agent branch (`codex/<purpose>`, `chatgpt/<purpose>` or `claude/<purpose>`) for cross-cutting or one-shot work;
+3. edit only the authorized paths through targeted patches against the current files, preserving unaffected bytes and document history under the maintained-document rules;
+4. stage explicit paths with `git add -- <path>...`; never use `git add .`, a directory-wide add, or wildcard staging;
+5. run `python tools/prepare_commit.py --base origin/main --write-generated`, review its outputs, and stage each required generated path explicitly;
+6. run `python tools/prepare_commit.py --base origin/main --check`; add `--full` only when explicitly required or when changing executable validation, workflow, schema, publication-safety, or authority controls;
+7. inspect `git diff --cached --check`, the exact staged path list, file sizes, and the complete staged diff;
+8. commit the reviewed tree on the selected branch and recheck `origin/main` immediately before publication;
+9. use the owner-controlled integration route authorized for the change: a pull request when required, or an explicitly authorized ordinary non-forced fast-forward or compare-and-swap update of `main`;
+10. after integration, fetch the resulting `main` head, verify remote exactness, and require the `main` repository audit to complete successfully before declaring the Git transaction closed.
+
+An integration that materializes successfully but fails the post-integration `main` audit is not a completed transaction. Preserve the integrated content, treat the repository state as remediation for that change, and repair forward through the applicable routed branch or a narrow temporary remediation branch; do not rewrite published history merely to erase the failed integration commit.
+
+Do not create ordinary content directly on `main`, force-push, rewrite published history, delete protected refs, or broaden repository access. An owner-authorized integration may advance `main` normally from an exact reviewed branch; it may not bypass remote-drift checks or the final `main` audit.
+
+If authenticated GitHub access is unavailable, request connection/authorization or return a proposed patch. Do not silently write the analytical change to Drive.
 
 ## Stable analytical branch profile
 

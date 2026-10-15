@@ -80,7 +80,7 @@ Confirm that the work does not already have a canonical analytical root elsewher
 
 Required actions:
 
-- consult `MANGA_ANIME_DRIVE_INDEX.md`;
+- consult the corpus index (`governance/MANGA_ANIME_CORPUS_INDEX.md`) and the series and study registries (`series/registry.json`, `studies/registry.json`), and `MANGA_ANIME_DRIVE_INDEX.md` only for Drive-native or reference-only material;
 - search for existing series roots, aliases, prior generations, and current-state files;
 - identify the canonical analytical root;
 - identify the source/ingestion root or source location where applicable;
@@ -174,7 +174,9 @@ project_initialization:
   sequential_analysis_lock: open
 ```
 
-The exact key names may vary in mature projects, but the state must be recoverable without reconstructing it from conversation history.
+The exact key names may vary in mature projects, but the state must be recoverable without reconstructing it from conversation history. Section 3.8 names the spellings the validator reads.
+
+Keep the entrypoint about the present: current state, governing routes and the next permitted operation. When dated history accumulates, move it verbatim to a project changelog beside the entrypoint and link it, rather than deleting it. Do not record commit SHAs, workflow run IDs or publication status (such as `NOT_YET_PUBLISHED`) in entrypoint prose: Git history and the audit statuses own them, and prose copies go stale. Apply this at a project's next natural boundary, not as a corpus-wide sweep.
 
 ## 3.6 Required day-one longitudinal infrastructure initialized
 
@@ -238,9 +240,42 @@ The lock and a closure record govern two of three distinct responsibilities:
 
 A project can therefore be CLOSED to new admission, retain verified readings, and still correct its interpretations within the admitted corpus. Under a closure, a correction of a sealed reading is an erratum, claim revision, or superseding synthesis with a non-sequential `artifact_type`. It does not edit sealed bytes, carry a sequential type, or sit untyped in a sequential-reading directory; the validator treats each of those as alteration or admission. A complete replacement reading of an admitted unit cannot be machine-distinguished from a new unit, so it requires owner authorization and an amended seal in the governing closure record, like admission. The seal covers only artifacts the gate classifies as sequential readings; other frozen artifacts, such as differently typed paratext audits, remain protected by their project freeze rules and Git history.
 
-A closure is one transaction: the entrypoint's CLOSED terminal state and its closure record land in the same commit. A series- or study-scoped task writes a run stop itself; a terminal closure lands only through an owner-merged governance change, so a task that reaches the final boundary first records a run stop and the blocker. The validator reads terminal state from YAML front matter or the recognized fenced `project_initialization` block, the same surfaces it reads for the lock, and every statement of a field must agree: `project_initialization.next_permitted_operation` and `sequential_execution.next_candidate_operation` are `NONE` or an uppercase `NONE_` token; `sequential_execution.run_state` is `complete` or the continuation policy's `completed`; and a supplemental lane states `current_state` as `CLOSED` or an uppercase `CLOSED_` token, with `other_narrative_admission: NOT_AUTHORIZED`.
+A closure is one transaction: the entrypoint's CLOSED terminal state and its closure record land in the same commit. A series- or study-scoped task writes a run stop itself; a terminal closure lands only through an owner-merged governance change, so a task that reaches the final boundary first records a run stop and the blocker under the [correction and conflict procedure](../policies/CHANGE_INTEGRATION_CHECKLIST.md#analytical-corrections-and-procedural-conflicts). The validator reads terminal state from YAML front matter or the recognized fenced `project_initialization` block, the same surfaces it reads for the lock, and every statement of a field must agree: `project_initialization.next_permitted_operation` and `sequential_execution.next_candidate_operation` are `NONE` or an uppercase `NONE_` token; `sequential_execution.run_state` is `complete` or the continuation policy's `completed`; and a supplemental lane states `current_state` as `CLOSED` or an uppercase `CLOSED_` token, with `other_narrative_admission: NOT_AUTHORIZED`.
 
 Use one spelling for each state field so the validator and later readers see the same state: `project_initialization.sequential_analysis_lock`, `project_initialization.next_permitted_operation`, `sequential_execution.run_state`, `sequential_execution.next_candidate_operation`, `supplemental_execution.current_state` and `supplemental_execution.other_narrative_admission`. Variant keys such as `next_sequential_operation`, `next_operation` or `next_sequential_operation_authorization` are not read; replace them at the project's next boundary. Keep the fields consistent with each other: a `completed` run names no next candidate operation, an `active` run requires an OPEN lock, and a CLOSED lock with a run-closure or terminal-closure record requires a completed run.
+
+## 3.9 Repository enforcement
+
+This section states how the repository validator applies Sections 3.1-3.8. The machine boundary is `../repository-controls/project-initiation-gate.json`; a new or materially restarted root declares `project_initiation_gate: REQUIRED` in its series/study routing descriptor and exposes a recoverable `project_initialization` state from its canonical entrypoint.
+
+### 3.9.1 Architecture/bootstrap state
+
+Architecture, source reconnaissance, source locking, corpus-map creation, method creation, synthesis-architecture creation, justified longitudinal-infrastructure initialization, and other pre-sequential setup may proceed while `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`. CLOSED is the safe default. A project may remain incomplete in this state, and it must not create empty ledgers or placeholder artifact classes merely for symmetry. Creating directories, routing files, or an entrypoint does not by itself satisfy the initiation gate.
+
+### 3.9.2 Sequential-analysis state
+
+Before staging or committing the first substantive sequential deep reading for a governed project, verify all of the following:
+
+- the governing analytical/deep-reading method exists as a tracked regular artifact and is current-eligible under repository authority rules;
+- the governing synthesis/corpus architecture exists as a tracked regular artifact and is current-eligible under the same rules;
+- the canonical current-state/corpus-map entrypoint identifies both governing artifacts;
+- every day-one longitudinal artifact required by that architecture is initialized, with no requirement to invent analytically unnecessary infrastructure;
+- the entrypoint's initialization state explicitly records `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; and
+- the new sequential artifact carries an accurate structured `artifact_type` rather than relying on its filename to establish its role.
+
+An absent, CLOSED, malformed, or contradictory lock is a stop condition. OPEN is affirmative gate state, not a state inferred from the existence of a downstream reading. The validator recognizes substantive sequential roles through authority front matter and uses a narrow sequential-reading-directory fallback only to fail closed when such an artifact omits `artifact_type`.
+
+Roots present at the machine control's activation baseline retain policy-defined legacy compatibility: a mature/imported project is not required to adopt the new initialization block merely for cosmetic uniformity, but any newly added sequential artifact must still route through a current-eligible canonical entrypoint that identifies a current-eligible method and synthesis/corpus architecture. Git-native post-cutover roots are checked against the full initiation contract before their next newly added sequential artifact. A material restart must opt into the prospective contract through its routing descriptor; the prior root's existence is not evidence that a new analytical generation has passed the gate.
+
+When a project creates a bootstrap/initiation manifest, record at least its base state or bootstrap generation, governing method, governing synthesis architecture, canonical entrypoint, required day-one infrastructure state, sequential-analysis-lock state, whether substantive sequential findings existed at bootstrap, and the next permitted operation. Historical projects are not required to create a manifest retroactively. This record distinguishes path scaffolding from actual gate satisfaction.
+
+### 3.9.3 Adoption boundary and work already on branches
+
+The activation baseline is the immutable Git tree named by `activation_baseline_commit`, not a publication date, commit timestamp, moving `main`, or the base of the current pull request. "Newly added sequential artifact" means a classified Markdown path absent from that baseline tree. A path already in the baseline is outside this gate's new-reading detection; the repository's other integrity and authority checks still apply. New paths remain subject to the gate after their first integration. Renaming or importing an older reading to a new path can therefore invoke the gate without implying that its analysis was recently written.
+
+Work authored on a branch before enforcement, but absent from the baseline, is checked when that branch incorporates the controls. An earlier green audit using older controls is not certification under the new gate. For an existing mature/imported root, retain the legacy route through its current method and architecture. For a Git-native root, verify existing governing artifacts and required infrastructure, then record truthful initialization state in the current entrypoint. Dates alone do not grant an exemption, and neither shifting the baseline nor marking a bootstrap OPEN without verification is an acceptable repair.
+
+This transition checks present governing structure; it does not authorize redoing earlier readings, rewriting prospective freezes, or replacing mature bespoke documents for cosmetic consistency. Preserve adequate existing work and backfill only material evidence gaps under the governing source policy. If an import or material restart cannot be classified from the reviewed provenance, resolve that classification explicitly before integration rather than inventing a timestamp-based exception.
 
 ---
 
@@ -875,8 +910,11 @@ This policy exists so that the corpus never again reaches the end of a long sequ
 
 # Changelog
 
-## v1.6 — 2026-10-15 — Run stops and one state vocabulary
+## v1.6 — 2026-10-15 — Run stops, one state vocabulary, and the gate's enforcement text
 
+- Moved the repository-enforcement text for the gate from the change-integration checklist into Section 3.9, unchanged except for its headings and two closure paragraphs that restated Section 3.8.
+- Pointed project-root resolution (Section 3.1) at the corpus index and the series and study registries, keeping the Drive index for Drive-native material.
+- Added guidance to keep entrypoints about the present, with dated history moved verbatim to a project changelog (Section 3.5).
 - Added the project-local run stop (`.repository/run-closure.json`, CLOSED or REOPENED) for the end of an authorized run, validated like a terminal closure and written on the project's own branch.
 - Reserved the global `terminal_closures` record for a project's final source boundary; a project may not carry both.
 - Named the one spelling for each lock and run-state field and the consistency expected between them.

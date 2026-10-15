@@ -62,7 +62,7 @@ The boundary is therefore evidence versus interpretation, not simply raw versus 
 
 Work may run in local, cloud, or staged/parallel hybrid environments according to source scale, evidence modality, verified tool capabilities, reasoning requirements, and repository access. These environments are capability profiles, not analytical authority tiers. See the [execution-topology policy](governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md) and [long-series hybrid protocol](governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) for the current model.
 
-Canonical analytical state resides in repository artifacts and governed evidence/state—not in the conversational memory of any one ChatGPT, Work, or Codex session. Long-running work is checkpointed and handed off through durable project state.
+Canonical analytical state resides in repository artifacts and governed evidence/state—not in the conversational memory of any one agent session. Long-running work is checkpointed and handed off through durable project state.
 
 ## Repository layout
 
