@@ -378,21 +378,27 @@ class Integrator:
         raise Halt("Already integrated, but explicit post-merge audit did not finish; further merges stopped")
 
     def access_check(self) -> str:
-        """Confirm owner-only write access: no other collaborator, no pending invitation.
+        """Confirm owner-only write access before any write.
 
-        Apply halts when access is wider or unreadable. Preview never mutates,
-        so it records what it could read and continues.
+        No other collaborator, no pending invitation and no write-enabled
+        deploy key. Apply halts when access is wider or unreadable. Preview
+        never mutates, so it records what it could read and continues.
         """
         try:
             collaborators = self.api.pages("collaborators?affiliation=all")
             invitations = self.api.pages("invitations")
+            keys = self.api.pages("keys")
         except ApiError as exc:
             if self.preview:
                 return f"UNVERIFIED: HTTP {exc.status}"
-            raise Halt("Collaborators and invitations are unreadable; owner-only access is unverified") from None
+            raise Halt("Collaborators, invitations or deploy keys are unreadable; owner-only access is unverified") from None
         others = sum(1 for row in collaborators if not isinstance(row, dict) or row.get("login") != OWNER)
-        if others or invitations:
-            detail = f"{others} other collaborator(s) and {len(invitations)} pending invitation(s)"
+        writable_keys = sum(1 for row in keys if not isinstance(row, dict) or row.get("read_only") is not True)
+        if others or invitations or writable_keys:
+            detail = (
+                f"{others} other collaborator(s), {len(invitations)} pending invitation(s) "
+                f"and {writable_keys} write-enabled deploy key(s)"
+            )
             if self.preview:
                 return "NOT_OWNER_ONLY: " + detail
             raise Halt("Repository access is not owner-only: " + detail)

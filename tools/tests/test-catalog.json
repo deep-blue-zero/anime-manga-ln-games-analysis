@@ -1635,7 +1635,7 @@
         "governance/schemas/*",
         "governance/repository-controls/*"
       ],
-      "purpose": "apply halts before any write unless collaborators and invitations show owner-only access"
+      "purpose": "apply halts before any write unless collaborators, invitations and deploy keys show owner-only write access"
     },
     "test_nightly_integration.ControllerTests.test_preview_records_access_without_halting": {
       "group": "synthetic_git",

@@ -49,16 +49,18 @@ class FakeAPI:
         self.pr = pull()
         self.collaborators = [{'login': OWNER}]
         self.invitations = []
+        self.keys = [{'id': 3, 'read_only': True}]
         self.access_error = None
 
     def head(self, branch):
         return self.main if branch == 'main' else self.source
 
     def pages(self, path):
-        if path in ('collaborators?affiliation=all', 'invitations'):
+        if path in ('collaborators?affiliation=all', 'invitations', 'keys'):
             if self.access_error:
                 raise ApiError('GET', path, self.access_error)
-            return self.collaborators if path.startswith('collaborators') else self.invitations
+            return {'collaborators?affiliation=all': self.collaborators,
+                    'invitations': self.invitations, 'keys': self.keys}[path]
         if path == 'branches':
             return [{'name': name, 'commit': {'sha': S}} for name in ('series/a', 'codex/repair', 'character-registry', 'studies/b')]
         return [self.pr]
@@ -152,11 +154,16 @@ class ControllerTests(unittest.TestCase):
         self.assertEqual(worker.access, 'VERIFIED_OWNER_ONLY')
         cases = (
             ('collaborators', [{'login': OWNER}, {'login': 'someone-else'}],
-             'Repository access is not owner-only: 1 other collaborator(s) and 0 pending invitation(s)'),
+             'Repository access is not owner-only: 1 other collaborator(s), 0 pending invitation(s) '
+             'and 0 write-enabled deploy key(s)'),
             ('invitations', [{'id': 1}],
-             'Repository access is not owner-only: 0 other collaborator(s) and 1 pending invitation(s)'),
+             'Repository access is not owner-only: 0 other collaborator(s), 1 pending invitation(s) '
+             'and 0 write-enabled deploy key(s)'),
+            ('keys', [{'id': 3, 'read_only': True}, {'id': 4, 'read_only': False}],
+             'Repository access is not owner-only: 0 other collaborator(s), 0 pending invitation(s) '
+             'and 1 write-enabled deploy key(s)'),
             ('access_error', 403,
-             'Collaborators and invitations are unreadable; owner-only access is unverified'),
+             'Collaborators, invitations or deploy keys are unreadable; owner-only access is unverified'),
         )
         for field, value, message in cases:
             with self.subTest(field=field):
@@ -171,7 +178,7 @@ class ControllerTests(unittest.TestCase):
         cases = (
             ('access_error', 403, 'UNVERIFIED: HTTP 403'),
             ('collaborators', [{'login': 'someone-else'}],
-             'NOT_OWNER_ONLY: 1 other collaborator(s) and 0 pending invitation(s)'),
+             'NOT_OWNER_ONLY: 1 other collaborator(s), 0 pending invitation(s) and 0 write-enabled deploy key(s)'),
             ('invitations', [], 'VERIFIED_OWNER_ONLY'),
         )
         for field, value, expected in cases:
