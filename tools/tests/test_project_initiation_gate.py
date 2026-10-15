@@ -906,10 +906,14 @@ class ProjectInitiationGateTests(unittest.TestCase):
         else:
             run_git(self.history_root, "update-ref", "refs/remotes/origin/main", commit)
 
-    def main_with_run_closure(self, record: bytes) -> str:
-        """Commit main's registry and run-closure record over the accepted reading, without touching HEAD."""
+    def main_with_run_closure(self, record: bytes, control: dict | None = None) -> str:
+        """Commit main's registry, gate control and run-closure record over the accepted reading.
+
+        HEAD and the worktree are untouched; the commit only becomes main.
+        """
 
         registry = self.snapshot().entries["series/registry.json"].data
+        control_bytes = json.dumps(control if control is not None else self.control()).encode()
 
         with tempfile.TemporaryDirectory() as directory:
             env = dict(os.environ, GIT_INDEX_FILE=str(Path(directory) / "index"))
@@ -921,7 +925,11 @@ class ProjectInitiationGateTests(unittest.TestCase):
                 ).stdout.decode().strip()
 
             git("read-tree", self.completion_commit)
-            for target, data in ((self.run_closure, record), ("series/registry.json", registry)):
+            for target, data in (
+                (self.run_closure, record),
+                ("series/registry.json", registry),
+                (PROJECT_INITIATION_GATE_PATH, control_bytes),
+            ):
                 blob = git("hash-object", "-w", "--stdin", data=data)
                 git("update-index", "--add", "--cacheinfo", f"100644,{blob},{target}")
             tree = git("write-tree")
@@ -943,23 +951,27 @@ class ProjectInitiationGateTests(unittest.TestCase):
 
     def test_run_closure_seals_persist_relative_to_main(self) -> None:
         stop = self.run_closure_snapshot()
-        digest = json.loads(stop.entries[self.run_closure].data)["frozen_sequential_artifacts"][self.sequential]
+        record_bytes = stop.entries[self.run_closure].data
+        digest = json.loads(record_bytes)["frozen_sequential_artifacts"][self.sequential]
         continuity = "was dropped or re-sealed relative to main's run closure"
 
-        def with_releases(snapshot: GitSnapshot, release: dict | None) -> GitSnapshot:
+        def control_with_release(record_sha256: str, release_digest: str) -> dict:
             control = self.control()
-            if release is not None:
-                control["run_closure_amendments"] = {self.prefix: {
-                    "authorization": "Owner approved releasing SOURCE_UNIT_01 (fixture).",
-                    "release": release,
-                }}
-            snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
-                PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode()
-            )
+            control["run_closure_amendments"] = {self.prefix: {
+                "authorization": "Owner approved releasing SOURCE_UNIT_01 (fixture).",
+                "record_sha256": record_sha256,
+                "release": {self.sequential: release_digest},
+            }}
+            return control
+
+        def leave_run_stop() -> GitSnapshot:
+            snapshot = self.snapshot()  # ordinary OPEN gate, no run-closure record
+            snapshot.root = self.history_root
             return snapshot
 
+        record_sha256 = hashlib.sha256(record_bytes).hexdigest()
         try:
-            self.set_main(self.main_with_run_closure(stop.entries[self.run_closure].data))
+            self.set_main(self.main_with_run_closure(record_bytes))
             self.assertEqual(self.failures(stop), [])
             self.assertEqual(self.failures(self.run_closure_snapshot("REOPENED")), [])
 
@@ -976,15 +988,24 @@ class ProjectInitiationGateTests(unittest.TestCase):
             resealed.entries[self.run_closure] = SnapshotEntry(self.run_closure, "100644", json.dumps(record).encode())
             self.assert_failure_contains(self.failures(resealed), continuity)
 
-            # An owner-merged release of the exact sealed digest lets the project
-            # leave the run stop; the ordinary OPEN gate then applies in full.
-            released = with_releases(self.snapshot(), {self.sequential: digest})
-            released.root = self.history_root
-            self.assertEqual(self.failures(released), [])
-            # A release naming any other digest is spent or wrong and releases nothing.
-            stale = with_releases(self.snapshot(), {self.sequential: "0" * 64})
-            stale.root = self.history_root
-            self.assert_failure_contains(self.failures(stale), continuity)
+            # A release in the candidate's own control does not count.
+            self_granted = leave_run_stop()
+            self_granted.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+                PROJECT_INITIATION_GATE_PATH, "100644",
+                json.dumps(control_with_release(record_sha256, digest)).encode(),
+            )
+            self.assert_failure_contains(self.failures(self_granted), continuity)
+
+            # A release already on main, bound to main's exact record and seal,
+            # lets the project leave its run stop under the ordinary OPEN gate.
+            self.set_main(self.main_with_run_closure(record_bytes, control_with_release(record_sha256, digest)))
+            self.assertEqual(self.failures(leave_run_stop()), [])
+            # Bound to another record, or naming another digest, it releases nothing.
+            for bound, named in (("0" * 64, digest), (record_sha256, "0" * 64)):
+                with self.subTest(bound=bound[:8], named=named[:8]):
+                    self.set_main(self.main_with_run_closure(record_bytes, control_with_release(bound, named)))
+                    self.assert_failure_contains(self.failures(leave_run_stop()), continuity)
+            self.set_main(self.main_with_run_closure(record_bytes))
 
             # Moving or deregistering the root does not discard main's seals.
             moved = self.run_closure_snapshot()
@@ -1001,7 +1022,7 @@ class ProjectInitiationGateTests(unittest.TestCase):
         finally:
             self.set_main(self.completion_commit)
 
-    def test_run_closure_needs_main_and_cannot_seal_a_nested_root(self) -> None:
+    def test_run_closure_needs_main_and_covers_nested_roots(self) -> None:
         unlinked = self.run_closure_snapshot()
         del unlinked.entries[self.run_closure]
         try:
@@ -1012,11 +1033,12 @@ class ProjectInitiationGateTests(unittest.TestCase):
         finally:
             self.set_main(self.completion_commit)
 
+        # A closed parent covers readings under a nested registered root, even a
+        # legacy one whose own gate is not strict: a new nested reading is an
+        # addition to the parent's sealed corpus.
         nested_root = self.prefix + "Nested Project/"
         nested_reading = nested_root + "SOURCE_UNIT_N.md"
         snapshot = self.run_closure_snapshot()
-        data = authority_markdown("volume_deep_reading", "Nested")
-        snapshot.entries[nested_reading] = SnapshotEntry(nested_reading, "100644", data)
         registry = json.loads(snapshot.entries["series/registry.json"].data)
         registry["series"].append({
             "series_id": "nested", "stable_slug": "nested", "canonical_title": "Nested",
@@ -1026,30 +1048,30 @@ class ProjectInitiationGateTests(unittest.TestCase):
         snapshot.entries["series/registry.json"] = SnapshotEntry(
             "series/registry.json", "100644", json.dumps(registry).encode()
         )
-        failures = self.failures(snapshot)
-        # The parent's seal set excludes the nested root's readings ...
-        self.assertFalse(any("terminal sequential corpus differs" in failure for failure in failures), failures)
-        # ... and the parent's record may not seal them.
-        record = json.loads(snapshot.entries[self.run_closure].data)
-        record["frozen_sequential_artifacts"][nested_reading] = hashlib.sha256(data).hexdigest()
-        snapshot.entries[self.run_closure] = SnapshotEntry(self.run_closure, "100644", json.dumps(record).encode())
+        baseline = set(snapshot.entries) | {nested_root + "LEGACY_NOTES.md"}
+        snapshot.entries[nested_reading] = SnapshotEntry(
+            nested_reading, "100644", authority_markdown("volume_deep_reading", "Nested")
+        )
         self.assert_failure_contains(
-            self.failures(snapshot), f"which belongs to the nested registered root {nested_root}"
+            self.failures(snapshot, baseline), "terminal sequential corpus differs from reviewed closure"
         )
 
     def test_run_closure_amendments_and_orphans_fail_closed(self) -> None:
         cases = (
             ([], "run_closure_amendments must be an object"),
-            ({"../x/": {"authorization": "x", "release": {"x.md": "0" * 64}}}, "invalid project root"),
-            ({self.prefix: {"authorization": "", "release": {self.sequential: "0" * 64}}},
-             "needs a nonempty authorization and a nonempty release object"),
-            ({self.prefix: {"authorization": "x", "release": {}}},
-             "needs a nonempty authorization and a nonempty release object"),
-            ({self.prefix: {"authorization": "x", "seals": {self.sequential: None}}},
-             "needs a nonempty authorization and a nonempty release object"),
-            ({self.prefix: {"authorization": "x", "release": {"series/other/X.md": "0" * 64}}},
+            ({"../x/": {"authorization": "x", "record_sha256": "0" * 64, "release": {"x.md": "0" * 64}}},
+             "invalid project root"),
+            ({self.prefix: {"authorization": "", "record_sha256": "0" * 64, "release": {self.sequential: "0" * 64}}},
+             "needs a nonempty authorization, the record_sha256"),
+            ({self.prefix: {"authorization": "x", "record_sha256": "0" * 64, "release": {}}},
+             "needs a nonempty authorization, the record_sha256"),
+            ({self.prefix: {"authorization": "x", "release": {self.sequential: "0" * 64}}},
+             "needs a nonempty authorization, the record_sha256"),
+            ({self.prefix: {"authorization": "x", "record_sha256": "HEAD", "release": {self.sequential: "0" * 64}}},
+             "needs a nonempty authorization, the record_sha256"),
+            ({self.prefix: {"authorization": "x", "record_sha256": "0" * 64, "release": {"series/other/X.md": "0" * 64}}},
              "released path must be Markdown inside its project"),
-            ({self.prefix: {"authorization": "x", "release": {self.sequential: None}}},
+            ({self.prefix: {"authorization": "x", "record_sha256": "0" * 64, "release": {self.sequential: None}}},
              "release must name the sealed SHA-256"),
         )
         for amendments, expected in cases:

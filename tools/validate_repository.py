@@ -1414,16 +1414,17 @@ def _run_closure_amendments(
 ) -> tuple[dict[str, dict[str, str]], list[str]]:
     """Owner-merged releases of run-stop seals, keyed by registered project root.
 
-    Each entry is {"authorization": text, "release": {path: sealed SHA-256}}.
-    A release applies only while main's run stop seals that path with exactly
-    that digest, so it is spent as soon as main's seal changes.
+    Each entry is {"authorization": text, "record_sha256": SHA-256 of main's
+    run-closure.json bytes, "release": {path: sealed SHA-256}}. The gate reads
+    releases from main's control, and a release applies only while main's
+    record has exactly those bytes, so it lapses as soon as that record changes.
     """
 
     label = f"{PROJECT_INITIATION_GATE_PATH}.run_closure_amendments"
     raw = control.get("run_closure_amendments", {})
     if not isinstance(raw, Mapping):
         return {}, [f"{label} must be an object"]
-    releases: dict[str, dict[str, str]] = {}
+    releases: dict[str, tuple[str, dict[str, str]]] = {}
     errors: list[str] = []
     for prefix, entry in raw.items():
         item = f"{label}[{prefix!r}]"
@@ -1440,12 +1441,17 @@ def _run_closure_amendments(
             continue
         if (
             not isinstance(entry, Mapping)
-            or set(entry) != {"authorization", "release"}
+            or set(entry) != {"authorization", "record_sha256", "release"}
             or not _valid_nonempty_string(entry["authorization"])
+            or not isinstance(entry["record_sha256"], str)
+            or SHA256_RE.fullmatch(entry["record_sha256"]) is None
             or not isinstance(entry["release"], Mapping)
             or not entry["release"]
         ):
-            errors.append(f"{item}: needs a nonempty authorization and a nonempty release object")
+            errors.append(
+                f"{item}: needs a nonempty authorization, the record_sha256 of main's "
+                "run-closure.json, and a nonempty release object"
+            )
             continue
         released: dict[str, str] = {}
         for sealed_path, digest in entry["release"].items():
@@ -1459,7 +1465,7 @@ def _run_closure_amendments(
                 errors.append(f"{item}: release must name the sealed SHA-256 of {sealed_path}")
             else:
                 released[sealed_path] = digest
-        releases[prefix] = released
+        releases[prefix] = (entry["record_sha256"], released)
     return releases, errors
 
 
@@ -1522,8 +1528,10 @@ def _run_closure_base_commit(root: Path) -> str | None:
         return None
 
 
-def _base_run_closure_seals(root: Path, base_commit: str) -> dict[str, dict[str, str]]:
-    """Return {registered project root on main: {path: digest}} for main's run stops."""
+def _base_run_closure_seals(
+    root: Path, base_commit: str
+) -> dict[str, tuple[str, dict[str, str]]]:
+    """Return {registered root on main: (record SHA-256, {path: digest})} for main's run stops."""
 
     prefixes: set[str] = set()
     for registry_path, collection in (
@@ -1542,22 +1550,33 @@ def _base_run_closure_seals(root: Path, base_commit: str) -> dict[str, dict[str,
     listed = set(
         _git_paths(root, "ls-tree", "-r", "-z", "--name-only", base_commit, "--", "series", "studies")
     )
-    seals: dict[str, dict[str, str]] = {}
+    seals: dict[str, tuple[str, dict[str, str]]] = {}
     for prefix in sorted(prefixes):
         record_path = prefix + PROJECT_RUN_CLOSURE_NAME
         if record_path not in listed:
             continue
         try:
-            record = json.loads(run_git(root, "show", f"{base_commit}:{record_path}"))
+            data = run_git(root, "show", f"{base_commit}:{record_path}")
+            record = json.loads(data)
         except (DomainError, json.JSONDecodeError, UnicodeDecodeError):
             continue  # main failed its own audit; there is nothing valid to carry
         frozen = record.get("frozen_sequential_artifacts") if isinstance(record, Mapping) else None
         if isinstance(frozen, Mapping):
-            seals[prefix] = {
+            seals[prefix] = (hashlib.sha256(data).hexdigest(), {
                 key: value for key, value in frozen.items()
                 if isinstance(key, str) and isinstance(value, str)
-            }
+            })
     return seals
+
+
+def _base_run_closure_releases(root: Path, base_commit: str) -> dict[str, tuple[str, dict[str, str]]]:
+    """Releases recorded in main's gate control; a candidate's own entries never count."""
+
+    try:
+        control = json.loads(run_git(root, "show", f"{base_commit}:{PROJECT_INITIATION_GATE_PATH}"))
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError):
+        return {}
+    return _run_closure_amendments(control)[0] if isinstance(control, Mapping) else {}
 
 
 def _run_closure_on_main(
@@ -2219,7 +2238,6 @@ def validate_project_initiation_gate(
     if authority is None:
         authority = AuthorityGraph(snapshot)
     closures = control.get("terminal_closures", {})
-    releases = _run_closure_amendments(control)[0]
     registered_prefixes: set[str] = set()
     base_commit = _run_closure_base_commit(snapshot.root)
     if base_commit is None:
@@ -2227,9 +2245,11 @@ def validate_project_initiation_gate(
             f"project-initiation gate needs {RUN_CLOSURE_BASE_REF} to check run-stop "
             "continuity; fetch main first"
         )
-        base_seals: dict[str, dict[str, str]] = {}
+        base_seals: dict[str, tuple[str, dict[str, str]]] = {}
+        releases: dict[str, tuple[str, dict[str, str]]] = {}
     else:
         base_seals = _base_run_closure_seals(snapshot.root, base_commit)
+        releases = _base_run_closure_releases(snapshot.root, base_commit)
     current_seals_by_prefix: dict[str, Mapping[str, Any]] = {}
 
     rows: list[tuple[str, Mapping[str, Any]]] = []
@@ -2253,11 +2273,6 @@ def validate_project_initiation_gate(
             if isinstance(row, Mapping)
         )
 
-    all_prefixes = {
-        row.get("repository_path") for _label, row in rows
-        if _valid_nonempty_string(row.get("repository_path"))
-        and row["repository_path"].endswith("/")
-    }
     for label, row in rows:
         project_prefix = row.get("repository_path")
         if not _valid_nonempty_string(
@@ -2265,10 +2280,6 @@ def validate_project_initiation_gate(
         ) or not project_prefix.endswith("/"):
             continue
         registered_prefixes.add(project_prefix)
-        nested_roots = [
-            other for other in all_prefixes
-            if other != project_prefix and other.startswith(project_prefix)
-        ]
         closure = closures.get(project_prefix)
         local, local_state, local_errors = _load_project_run_closure(snapshot, project_prefix)
         errors.extend(local_errors)
@@ -2285,13 +2296,6 @@ def validate_project_initiation_gate(
         reopened = local if local is not None and local_state == "REOPENED" else None
         current_seals = (closure or reopened or {}).get("frozen_sequential_artifacts", {})
         current_seals_by_prefix[project_prefix] = current_seals
-        for sealed_path in current_seals:
-            inside = next((root for root in nested_roots if sealed_path.startswith(root)), None)
-            if inside is not None:
-                errors.append(
-                    f"{project_prefix}: closure seals {sealed_path}, which belongs to the "
-                    f"nested registered root {inside}"
-                )
         baseline_present = any(path.startswith(project_prefix) for path in baseline_paths)
         explicit_marker = row.get(marker_field)
         if explicit_marker is not None and explicit_marker != marker_value:
@@ -2336,20 +2340,16 @@ def validate_project_initiation_gate(
             or git_native or closure is not None or reopened is not None
         )
         entrypoint = row.get("canonical_entrypoint")
-        # A nested registered root seals its own readings; the parent's seal
-        # set excludes them (the parent's OPEN-gate scan still covers them).
-        own_sequential = {
-            path for path in terminal_sequential
-            if not any(path.startswith(root) for root in nested_roots)
-        }
+        # A closure covers every reading under its root, including readings of
+        # nested registered roots, exactly as the OPEN gate scan does.
         if closure is not None:
             errors.extend(
-                _validate_terminal_corpus(snapshot, entrypoint, closure, own_sequential)
+                _validate_terminal_corpus(snapshot, entrypoint, closure, terminal_sequential)
             )
         if reopened is not None:
             errors.extend(
                 _validate_sealed_readings(
-                    snapshot, entrypoint, reopened, own_sequential, exact=False
+                    snapshot, entrypoint, reopened, terminal_sequential, exact=False
                 )
             )
         if strict and (
@@ -2381,10 +2381,12 @@ def validate_project_initiation_gate(
             errors.append(f"project run closure has no registered project: {candidate}")
     # Every seal of a run stop on main survives, here or in a replacing terminal
     # closure, unless an owner-merged release names that exact sealed digest.
-    for prefix, sealed in sorted(base_seals.items()):
-        released = {
-            path for path, digest in releases.get(prefix, {}).items() if sealed.get(path) == digest
-        }
+    for prefix, (record_sha256, sealed) in sorted(base_seals.items()):
+        bound_record, release = releases.get(prefix, ("", {}))
+        released = (
+            {path for path, digest in release.items() if sealed.get(path) == digest}
+            if bound_record == record_sha256 else set()
+        )
         current = current_seals_by_prefix.get(prefix, {})
         for sealed_path, digest in sorted(sealed.items()):
             if sealed_path in released or current.get(sealed_path) == digest:
