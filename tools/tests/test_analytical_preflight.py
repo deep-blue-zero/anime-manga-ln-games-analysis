@@ -17,7 +17,8 @@ from character_index_core import AuthorityGraph, DomainError, GitSnapshot, Snaps
 from generate_character_index import render
 from update_repository_indexes import expected_outputs
 from validate_repository import (
-    validate_generated_index, validate_generated_repository_indexes,
+    _policy_from_snapshot, validate_bytes, validate_generated_index,
+    validate_generated_repository_indexes, validate_paths,
     validate_registered_root_topology, validate_series_registry,
 )
 
@@ -230,9 +231,11 @@ class AnalyticalPreflightTests(unittest.TestCase):
                 capture_output=True, text=True, check=False,
             )
             self.assertEqual(projected_tests.returncode, 0, projected_tests.stdout + projected_tests.stderr)
-            # The one CLI run above validated every byte of the projected
-            # candidate except the catalog render it defers. Check only what
-            # differs without preflight and after committing the projection.
+            # The CLI run above checks paths, bytes and identities before it
+            # projects routing, then everything else on the projection except
+            # the catalog render it defers. Check exactly that remainder here:
+            # the strict topology failure without preflight, and the committed
+            # projection's paths, bytes and catalogs.
             staged = GitSnapshot.from_index(root)
             self.assertIn(
                 "unregistered series root: series/example/",
@@ -250,6 +253,9 @@ class AnalyticalPreflightTests(unittest.TestCase):
             self.assertEqual(routing_preflight(complete, "series/example")[1], [])
             self.assertEqual(validate_registered_root_topology(complete), [])
             self.assertEqual(validate_generated_repository_indexes(complete), [])
+            policy = _policy_from_snapshot(complete)
+            self.assertEqual(validate_paths(complete, policy), [])
+            self.assertEqual(validate_bytes(complete, policy, "current"), [])
 
     def test_nonregular_descriptor_is_not_admissible(self) -> None:
         source = fixture()
