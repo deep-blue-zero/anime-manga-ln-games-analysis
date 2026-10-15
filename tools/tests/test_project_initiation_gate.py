@@ -766,7 +766,8 @@ class ProjectInitiationGateTests(unittest.TestCase):
 
     def test_series_local_exception_declarations_cannot_create_terminal_authority(self) -> None:
         # A series-scoped task cannot write the global closure control, and no
-        # project-local or unrecognized declaration substitutes for it.
+        # unrecognized declaration substitutes for it: only the schema-bound
+        # .repository/run-closure.json record is read from a project.
         reviewed = json.loads(self.terminal_snapshot().entries[PROJECT_INITIATION_GATE_PATH].data)
         snapshot = self.terminal_snapshot()
         snapshot.entries[PROJECT_INITIATION_GATE_PATH] = self.snapshot().entries[PROJECT_INITIATION_GATE_PATH]
@@ -797,6 +798,101 @@ class ProjectInitiationGateTests(unittest.TestCase):
             PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(reviewed).encode()
         )
         self.assert_failure_contains(self.failures(snapshot), "invalid terminal closure fields")
+
+    run_closure = prefix + ".repository/run-closure.json"
+
+    def run_closure_snapshot(self, state: str = "CLOSED") -> GitSnapshot:
+        """Move the reviewed terminal fixture's record into the project's own run closure."""
+
+        snapshot = self.terminal_snapshot()
+        closure = json.loads(snapshot.entries[PROJECT_INITIATION_GATE_PATH].data)["terminal_closures"][self.prefix]
+        snapshot.entries[PROJECT_INITIATION_GATE_PATH] = self.snapshot().entries[PROJECT_INITIATION_GATE_PATH]
+        record = {"schema": "anime-manga-ln-games-analysis/project-run-closure/v1", "state": state, **closure}
+        snapshot.entries[self.run_closure] = SnapshotEntry(
+            self.run_closure, "100644", (json.dumps(record, indent=2) + "\n").encode()
+        )
+        if state == "REOPENED":
+            # The next authorized run: the ordinary OPEN contract, no terminal state.
+            snapshot.entries[self.entrypoint] = self.snapshot().entries[self.entrypoint]
+        return snapshot
+
+    def test_project_run_closure_seals_a_completed_run_like_a_terminal_closure(self) -> None:
+        self.assertEqual(self.failures(self.run_closure_snapshot()), [])
+        later = self.prefix + "SOURCE_UNIT_02.md"
+        for mutation, expected in (
+            ("changed", "terminal frozen reading bytes changed"),
+            ("added", "terminal sequential corpus differs from reviewed closure"),
+            ("open", "requires sequential_analysis_lock CLOSED"),
+        ):
+            with self.subTest(mutation=mutation):
+                snapshot = self.run_closure_snapshot()
+                if mutation == "changed":
+                    entry = snapshot.entries[self.sequential]
+                    snapshot.entries[self.sequential] = SnapshotEntry(entry.path, entry.mode, entry.data + b"Edited.\n")
+                elif mutation == "added":
+                    snapshot.entries[later] = SnapshotEntry(later, "100644", authority_markdown("volume_deep_reading", "Second"))
+                else:
+                    entry = snapshot.entries[self.entrypoint]
+                    snapshot.entries[self.entrypoint] = SnapshotEntry(
+                        entry.path, entry.mode,
+                        entry.data.replace(b"sequential_analysis_lock: CLOSED", b"sequential_analysis_lock: OPEN"),
+                    )
+                self.assert_failure_contains(self.failures(snapshot), expected)
+
+    def test_reopened_run_closure_keeps_seals_while_the_next_run_adds_readings(self) -> None:
+        later = self.prefix + "SOURCE_UNIT_02.md"
+        snapshot = self.run_closure_snapshot("REOPENED")
+        self.assertEqual(self.failures(snapshot), [])
+        snapshot.entries[later] = SnapshotEntry(later, "100644", authority_markdown("volume_deep_reading", "Second"))
+        self.assertEqual(self.failures(snapshot), [])
+        for mutation, expected in (
+            ("changed", "terminal frozen reading bytes changed"),
+            ("retyped", "reopened run closure no longer finds sealed readings"),
+            ("missing", "terminal frozen reading bytes changed or are missing"),
+            ("closed", "requires sequential_analysis_lock OPEN"),
+        ):
+            with self.subTest(mutation=mutation):
+                snapshot = self.run_closure_snapshot("REOPENED")
+                snapshot.entries[later] = SnapshotEntry(later, "100644", authority_markdown("volume_deep_reading", "Second"))
+                if mutation == "changed":
+                    entry = snapshot.entries[self.sequential]
+                    snapshot.entries[self.sequential] = SnapshotEntry(entry.path, entry.mode, entry.data + b"Edited.\n")
+                elif mutation == "retyped":
+                    snapshot.entries[self.sequential] = SnapshotEntry(
+                        self.sequential, "100644", authority_markdown("reconstruction_checkpoint")
+                    )
+                elif mutation == "missing":
+                    del snapshot.entries[self.sequential]
+                else:
+                    snapshot.entries[self.entrypoint] = self.snapshot(state=self.state(lock="CLOSED")).entries[self.entrypoint]
+                self.assert_failure_contains(self.failures(snapshot), expected)
+
+    def test_project_run_closure_fails_closed_on_malformed_or_duplicate_records(self) -> None:
+        def mutated(change) -> list[str]:
+            snapshot = self.run_closure_snapshot()
+            record = json.loads(snapshot.entries[self.run_closure].data)
+            change(record)
+            snapshot.entries[self.run_closure] = SnapshotEntry(self.run_closure, "100644", json.dumps(record).encode())
+            return self.failures(snapshot)
+
+        cases = (
+            (lambda record: record.update(schema="other"), "run closure schema is not recognized"),
+            (lambda record: record.update(state="OPEN"), "run closure state must be CLOSED or REOPENED"),
+            (lambda record: record.update(waiver=True), "invalid terminal closure fields"),
+            (lambda record: record.update(completion_commit="HEAD"), "completion_commit must be a full commit ID"),
+            (lambda record: record["frozen_sequential_artifacts"].update({"series/other/X.md": "0" * 64}),
+             "artifact must be Markdown inside its project"),
+        )
+        for change, expected in cases:
+            with self.subTest(expected=expected):
+                self.assert_failure_contains(mutated(change), expected)
+        both = self.run_closure_snapshot()
+        both.entries[PROJECT_INITIATION_GATE_PATH] = self.terminal_snapshot().entries[PROJECT_INITIATION_GATE_PATH]
+        self.assert_failure_contains(self.failures(both), "cannot both be present")
+        nonregular = self.run_closure_snapshot()
+        entry = nonregular.entries[self.run_closure]
+        nonregular.entries[self.run_closure] = SnapshotEntry(entry.path, "120000", entry.data)
+        self.assert_failure_contains(self.failures(nonregular), "run closure must be a tracked regular")
 
     def test_current_repository_examples_remain_compatible(self) -> None:
         snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
