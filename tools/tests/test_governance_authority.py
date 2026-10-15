@@ -853,7 +853,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             series_registry["schema"],
             "anime-manga-ln-games-analysis/series-registry/v2",
         )
-        self.assertEqual(series_registry["status"], "GIT_PRIMARY_AUTHORITY_EPOCH_1_STABILIZING")
+        self.assertEqual(series_registry["status"], self.state["state"])
         series_ids = [row["series_id"] for row in series_registry["series"]]
         self.assertEqual(len(series_ids), len(set(series_ids)))
         self.assertTrue(

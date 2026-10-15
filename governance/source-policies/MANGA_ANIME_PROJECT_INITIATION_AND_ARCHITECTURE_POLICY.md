@@ -2,7 +2,7 @@
 title: Manga / Anime Project Initiation and Architecture Policy
 artifact_id: MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY
 artifact_type: project_initiation_architecture_policy
-version: 1.6
+version: 1.7
 status: canonical
 generation: V1
 scope: corpus-wide analytical project initiation and architecture governance
@@ -223,7 +223,7 @@ Before that point:
 
 This is an operational gate, not a claim about source completeness. Preliminary source auditing and architecture work can proceed while the lock is closed.
 
-When an authorized run completes, close the current lock and record completion and no next permitted/candidate source operation. Historical OPEN authorization remains in its original receipts; it does not authorize another source at handoff. Closing takes one of two records, and both seal the accepted readings:
+When an authorized run completes, record completion and no next permitted/candidate source operation. The architecture lock may remain OPEN between runs; this does not authorize another source at handoff. The continuation policy owns owner authorization and recoverable run scope. A routine pause or completed run does not require a new closure record or a global amendment. When additional byte-sealed retention is needed, close the lock with one of the following records; existing seals remain mandatory:
 
 - **Run stop.** At the end of a run that is not the project's final source boundary, the project records its own stop in `<project root>/.repository/run-closure.json` (schema `anime-manga-ln-games-analysis/project-run-closure/v1`, `state: CLOSED`) in the same commit that closes its lock. The record lives in the project's own root, so a series- or study-scoped task writes it on its stable branch and the nightly controller can integrate it. When the owner authorizes the next run, the project sets `state: REOPENED` and opens its lock: every sealed reading stays byte-checked against its seal while the run adds readings under the ordinary OPEN gate. When that run completes, the record returns to `CLOSED` with the new completion commit and the full set of readings. Do not delete the record to reopen. The validator compares the record with `main`'s record for the same registered root: every seal there must survive unchanged, in this record or in a terminal closure that replaces it, even if the root is moved or deregistered, unless `main`'s own `governance/repository-controls/project-initiation-gate.json` releases it through `run_closure_amendments`. A release names the SHA-256 of `main`'s current record, the reading, and the digest that record seals, with its authorization; it lapses as soon as `main`'s record changes, and a release added on the candidate branch itself does not count. Replacing a sealed reading therefore takes four steps: an owner-merged governance change records the release on `main`, the project leaves or reopens its run stop without that seal, it revises the reading under the OPEN lock and integrates it, and it seals the reading again when the run closes. The validator cannot tell who merged a release; housekeeping and the nightly controller refuse control paths, so it reaches `main` only through an owner-merged governance change. A closure covers every reading under its root, including readings of nested registered roots. The validator fails closed when `refs/remotes/origin/main` is unavailable; a checkout whose main remote has another name, or a mirror clone, creates that ref before validating. Adopting a run stop on a root that predates the gate classifies all its readings, including those in the activation baseline, so each must carry a structured `artifact_type` and be sealed. A project may instead keep its lock OPEN between runs while recording `run_state: completed` and no next candidate operation; its readings are then protected only by their freeze rules and Git history.
 - **Terminal closure.** At the project's final source boundary, a reviewed `terminal_closures` record in `governance/repository-controls/project-initiation-gate.json` replaces the run stop; the change that adds it removes the run-closure record, and the validator rejects a project carrying both. Reopening a terminally closed project requires separate owner authorization and a reviewed closure-control amendment; source completion or unresolved analytical questions do not reopen the gate.
@@ -275,7 +275,20 @@ The activation baseline is the immutable Git tree named by `activation_baseline_
 
 Work authored on a branch before enforcement, but absent from the baseline, is checked when that branch incorporates the controls. An earlier green audit using older controls is not certification under the new gate. For an existing mature/imported root, retain the legacy route through its current method and architecture. For a Git-native root, verify existing governing artifacts and required infrastructure, then record truthful initialization state in the current entrypoint. Dates alone do not grant an exemption, and neither shifting the baseline nor marking a bootstrap OPEN without verification is an acceptable repair.
 
-This transition checks present governing structure; it does not authorize redoing earlier readings, rewriting prospective freezes, or replacing mature bespoke documents for cosmetic consistency. Preserve adequate existing work and backfill only material evidence gaps under the governing source policy. If an import or material restart cannot be classified from the reviewed provenance, resolve that classification explicitly before integration rather than inventing a timestamp-based exception.
+This activation-baseline test checks present governing structure; it does not authorize redoing earlier readings, rewriting prospective freezes, or replacing mature bespoke documents for cosmetic consistency. Preserve adequate existing work and backfill only material evidence gaps under the governing source policy. If an import or material restart cannot be classified from the reviewed provenance, resolve that classification explicitly before integration rather than inventing a timestamp-based exception.
+
+
+### 3.9.4 Run-state consistency at admission
+
+The activation baseline remains immutable and continues to govern architecture adoption. Separately, the validator checks a candidate's new or changed sequential artifacts against fetched `refs/remotes/origin/main`, resolved once to an immutable commit; the preparation command's `--base` cannot select this boundary. An exact-commit audit of that main head compares with its first parent so integration does not erase the admission transaction. Already integrated readings do not become new admissions merely because the current run later completes. Replacing or retyping an existing path is not a way to hide admission, including at pre-activation paths.
+
+For a governed admission, the existing structured fields must agree: an OPEN lock, `run_state: active`, matching nonempty `next_permitted_operation` and `next_candidate_operation`, the continuation policy's mode, and recoverable `authorized_start` and `terminal_boundary`. A single-operation run has the same start and terminal unit. A completed run records both next fields as `NONE` or an uppercase `NONE_` token. Blocked, interrupted, missing, malformed or contradictory run state cannot admit a reading. Recognized run declarations in front matter and independent YAML fences must agree; deleting the execution block does not remove the check.
+
+A final admission transaction may record `complete` or `completed` when main already records the run active with consistent next operations and bounds, the candidate preserves its mode/start/terminal boundary, and its committed high-water mark reaches that terminal boundary. Otherwise publish the reading under truthful active state and record completion after acceptance. This is an existing run's completion, not an authorization to extend it.
+
+No-admission changes preserve accepted historical readings and permit retrospective claim revisions, syntheses and reconstruction. Existing inconsistent operational metadata need not be rewritten for an unrelated correction: consistency is checked when its operational fields change or admission is attempted. Mature legacy roots without structured run declarations retain their established architecture route; adopting or changing a declared run must be truthful. An existing CLOSED or terminal closure still enforces all its seals and final source boundary independently of this delta check.
+
+These checks establish machine-readable consistency, not owner approval or semantic source-range membership. Before executing, recover the current owner instruction and its permitted units from the existing run/checkpoint or handoff record under continuation Sections 3-5 and 12; a next-operation label or agent-written `active` field is not permission. Source-inventory membership, unit identity, and whether a declared operation actually falls within a prose or live-service boundary still require source-grounded review. The local check trusts the fetched main ref; the protected exact-head audit supplies the provider-controlled context. Do not replace that ref, shift the activation baseline, or change classification to conceal an admission. No new authorization ledger or signature system is created.
 
 ---
 
@@ -909,6 +922,12 @@ This policy exists so that the corpus never again reaches the end of a long sequ
 ---
 
 # Changelog
+
+## v1.7 — 2026-10-15 — Run-state consistency without routine seals
+
+- Makes an unsealed completed-run stop explicit and preserves optional run seals and required terminal seals.
+- Separates immutable architecture adoption from incoming admission checks, including active-to-completed transactions and historical compatibility.
+- Distinguishes state consistency from owner authorization and semantic source-scope review.
 
 ## v1.6 — 2026-10-15 — Run stops, one state vocabulary, and the gate's enforcement text
 

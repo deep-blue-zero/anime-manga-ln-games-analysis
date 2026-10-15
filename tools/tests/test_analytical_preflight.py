@@ -32,7 +32,8 @@ def entry(path: str, data: bytes) -> SnapshotEntry:
 
 
 def fixture(*, new_root: bool = True) -> GitSnapshot:
-    entries = {}
+    state_path = "governance/AUTHORITY_STATE.yaml"
+    entries = {state_path: entry(state_path, b"state: GIT_ACTIVE_ACCEPTED\n")}
     for namespace, schema in (
         ("series", "anime-manga-ln-games-analysis/series-registry/v2"),
         ("studies", "anime-manga-ln-games-analysis/study-registry/v1"),

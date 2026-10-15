@@ -188,16 +188,30 @@ Preserve each mature project's internal structure and canonical entrypoint. Do n
 
 ## 6. Mandatory first-read order
 
-For any analytical task after activation:
+Acquire the following universal context for every repository task, then add every applicable responsibility below **before** performing that operation. Section ranges include their subsections. Reuse verified context within a session while its governing revision and scope remain unchanged; reacquire changed rules after reconciliation. If responsibilities expand, acquire the additional context first. This is retrieval guidance into the canonical policies, not an alternative abbreviated policy hierarchy.
 
 1. read live `AGENTS.md`;
 2. fetch and validate live `governance/AUTHORITY_STATE.yaml` and `governance/AUTHORITY_SCOPE.json` under the applicable predicate in Section 2;
-3. read `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` and `governance/policies/BRANCH_LIFECYCLE.md` before proposing a write;
-4. read `governance/MANGA_ANIME_CORPUS_INDEX.md`;
-5. resolve the project through `series/registry.json` or `studies/registry.json`;
-6. require `canonical_entrypoint_status: PRESENT_VERIFIED`, then read the exact project-local `canonical_entrypoint` named by the registry; an explicit `MISSING` status is a stop condition, not permission to infer a substitute;
-7. read only the analysis, evidence, or Drive-native references needed for the task;
-8. consult `crosswalk/drive-to-git.jsonl` when source identity or historical provenance matters.
+3. read this document's Sections 2-4, 6-7 and 12 (activation, trust, authority, acquisition, routing and stops);
+4. before proposing a write, read the checklist's **Before editing** and follow its **Checklist acquisition by operation**, plus the applicable branch section of `governance/policies/BRANCH_LIFECYCLE.md`;
+5. for project work, resolve the exact row in `series/registry.json` or `studies/registry.json`, require `canonical_entrypoint_status: PRESENT_VERIFIED`, and read the full named project-local `canonical_entrypoint`; an explicit `MISSING` status is a stop condition, not permission to infer a substitute;
+6. read the project's governing method, architecture, source boundary and applicable evidence/claim obligations before analysis. Read the corpus index's relevant route when discovering or rerouting a project, and its complete catalogs when checking for an existing root before initiation; unrelated catalog rows need not enter an established project's working context;
+7. retrieve the analysis, evidence and source references required by the task, including `crosswalk/drive-to-git.jsonl` when source identity or historical provenance matters.
+
+| Responsibility actually undertaken | Additional canonical reading before the operation |
+|---|---|
+| Any substantial analytical execution | Analytical execution routing below; [reasoning policy](source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md) Sections 1-4, 8-9, 11-16, 18-19 and 21; [topology policy](source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md) Sections 1-6 and 8-11. Read reasoning Sections 5-7 when resolving a new configuration or relying on provider/cost facts, 10 for model migration, 17 for calibration, 20 for policy maintenance; topology Section 7 for transport/scale limits and 12 for topology evaluation. Required evidence capability checks remain mandatory. |
+| Continuing established sequential analysis | [Initiation policy](source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) Sections 2 and 3.8-3.9; [continuation policy](source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) Governing rule and Sections 1-6, 8-10, 12-13, adding Section 7 before interrupted-run recovery. Section 11 is explanatory examples. For long-series work, [long-series protocol](source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) Sections 1-2, 5 and 12-14; acquire the next phase's sections before entering it. |
+| Retrospective synthesis or character reconstruction without admission | Project method, architecture, admitted-source boundary and reconstruction/validation contract; initiation Sections 2 and 3.8; reasoning Section 15; long-series Sections 1-2, 6-8 and 10-14. Add Section 9 when multimodal completion is required. Continuation rules activate only if the operation also admits sources or recovers a sequential run. |
+| New project, material restart or architectural initialization | Entire [initiation policy](source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), relevant naming/archive and medium-specific method/specification rules; long-series Sections 1-4 and 12-14 when applicable. Add the sequential row before the first reading. |
+| Cross-session transfer, acceptance or authority promotion | [Handoff contract](source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md): Sections 1-7 and 10-14 plus 8 for producers and 9 for receivers; both when responsible for both sides. All semantic-acceptance provisions in that contract apply when accepting or promoting substantial analysis, including provisions added there by later reviewed changes. Use its existing template when a transfer is required. |
+| Character discovery/curation, or changes invalidating existing character references | [Character maintenance policy](policies/CHARACTER_DISCOVERY_MAINTENANCE.md) and the applicable authority/evidence specification in `characters/README.md`; curation branch section in the branch policy. Creating a character monograph alone is analytical work, not curation authority. |
+| Commit, publication or integration | This document's Section 8 introduction and 8.1, Section 10.1 and Section 13; applicable checklist sections; [publication policy](policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md). Stable analytical branches also read [housekeeping policy](policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md). Read the [nightly policy](policies/NIGHTLY_ANALYTICAL_INTEGRATION.md) when operating or changing that integration route. |
+| Repository-wide governance, controls or validation | The affected owning policies and control files in full, `governance/repository-controls/change-obligations.json`, [repository controls](policies/REPOSITORY_CONTROLS.md), [artifact eligibility](policies/ARTIFACT_ELIGIBILITY.md), [audit execution](policies/AUDIT_EXECUTION.md), affected validator/generator and regression tests; branch policy's Cross-cutting work and Temporary branches. Full validation remains required by the checklist. |
+| Frozen-artifact correction, supersession or control conflict | This document's Section 8.2; checklist's correction/conflict procedure; [archive authority policy](source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), applicable authority vocabulary in `characters/README.md`, and the artifact's freeze/source/closure controls. A source-boundary dispute also requires initiation Section 3.8 and continuation Sections 3-5 and 9. |
+| Authority recovery, epoch/scope mismatch or Drive-native operation | This document's Sections 2, 9-11 and 14; the linked epoch record and affected cutover/export policies. Historical migration records are retrieved for the actual recovery/provenance question, not as recurring operating instructions. |
+
+A policy link identifies ownership; it is not a demand to recursively read every linked file. A rule's prerequisites and cross-references become required when the operation depends on them. No project-specific method, freeze, source boundary, evidence requirement or publication control is made optional by this routing table. When a task cannot be bounded to the listed sections, read the owning policy in full.
 
 A `MISSING` series route is legitimate only when its `series_id` appears in the reviewed `allowed_missing_canonical_entrypoints` set in `governance/repository-controls/tracked-file-policy.json`. Any other `MISSING` route, or any stale allowlist entry with no corresponding missing route, is a repository-validation failure. The current epoch-1 reviewed exception is `shuukura` only.
 
@@ -239,7 +253,7 @@ Drive and local disk are alternative source/evidence surfaces. Selecting either 
 Before either execution profile:
 
 1. verify the applicable live Git-side authority predicate and authenticated repository access;
-2. read the corpus index, registry, and exact verified project entrypoint;
+2. acquire the project route and exact verified entrypoint under Section 6 when the change concerns a project; a cross-cutting change acquires the affected global owners instead;
 3. select the branch required by `governance/policies/BRANCH_LIFECYCLE.md`;
 4. identify the exact authorized paths and evaluate `governance/repository-controls/change-obligations.json` for every required same-change index, registry, crosswalk, or manifest update;
 5. preserve the established project architecture, source boundary, authority metadata, and provenance;
@@ -250,6 +264,8 @@ On stable `series/<stable-slug>` and `studies/<stable-slug>` branches, follow `g
 ### 8.1 Execution profiles and branches
 
 The two execution profiles, GitHub API or connector mode and local clone mode, are commit and publication procedure and live in the checklist's [execution profiles](policies/CHANGE_INTEGRATION_CHECKLIST.md#execution-profiles). Branch names, retention and pruning follow `governance/policies/BRANCH_LIFECYCLE.md`. A Git transaction closes only when the post-integration `main` audit passes.
+
+<a id="84-frozen-release-administrative-maintenance"></a>
 
 ### 8.2 Frozen-release administrative maintenance
 

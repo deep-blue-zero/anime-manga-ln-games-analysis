@@ -3368,6 +3368,237 @@
         "tools/*.py"
       ],
       "purpose": "current worktree snapshot fails closed until evidence is staged"
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_selected_history_matches_full_snapshot_without_reading_other_blobs": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/character_index_core.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_git_snapshot_io.py"
+      ],
+      "purpose": "Selected immutable paths preserve bytes and modes, exclude pathspec siblings and directories, and reject noneligible evidence types."
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_selected_history_still_requires_a_real_commit_even_for_empty_paths": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/character_index_core.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_git_snapshot_io.py"
+      ],
+      "purpose": "Missing history and noncommit objects cannot be hidden by empty path selection."
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_selected_history_does_not_cache_success_after_object_loss": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/character_index_core.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_git_snapshot_io.py"
+      ],
+      "purpose": "Historical object loss fails after a previous successful read; no stale-success cache."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_independent_execution_fences_cannot_hide_conflicts": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "terminal independent execution fences cannot hide conflicts."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completed_open_run_preserves_readings_but_rejects_new_admission": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "completed open run preserves readings but rejects new admission."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_active_bounded_run_can_admit_and_post_merge_check_agrees": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "active bounded run can admit and post merge check agrees."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_final_transaction_can_complete_existing_active_run_without_retroactive_failure": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "final transaction can complete existing active run without retroactive failure."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completed_state_cannot_launder_admission_in_post_merge_audit": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "completed state cannot launder admission in post merge audit."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_inconsistent_missing_and_ambiguous_run_fields_fail_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "inconsistent missing and ambiguous run fields fail closed."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_transition_cannot_expand_recorded_bounds": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "completion transition cannot expand recorded bounds."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_retrospective_correction_preserves_accepted_legacy_state": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "retrospective correction preserves accepted legacy state."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_existing_path_retyping_or_replacement_does_not_hide_admission": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "existing path retyping or replacement does not hide admission."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_missing_main_and_moved_activation_baseline_fail_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "missing main and moved activation baseline fail closed."
+    },
+    "test_repository_indexes.RepositoryIndexTests.test_authority_label_uses_live_selected_state_not_frozen_scope": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/update_repository_indexes.py",
+        "tools/tests/test_repository_indexes.py",
+        "governance/AUTHORITY_STATE.yaml",
+        "series/registry.json"
+      ],
+      "purpose": "authority label uses live selected state not frozen scope."
+    },
+    "test_repository_indexes.RepositoryIndexTests.test_authority_label_fails_closed_without_live_state": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/update_repository_indexes.py",
+        "tools/tests/test_repository_indexes.py",
+        "governance/AUTHORITY_STATE.yaml",
+        "series/registry.json"
+      ],
+      "purpose": "authority label fails closed without live state."
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_selected_history_ignores_commit_replacement_refs": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/character_index_core.py",
+        "tools/tests/test_git_snapshot_io.py"
+      ],
+      "purpose": "Historical commit identities cannot be substituted through local replacement refs."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_legacy_route_does_not_hide_partial_or_malformed_run_declarations": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Legacy absence is preserved while partial or malformed declared execution fails closed."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_entrypoint_relocation_cannot_drop_completed_run_state": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Moving or repointing a legacy entrypoint cannot discard a completed run, even when its displayed identity changes."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_legacy_entrypoint_relocation_preserves_absent_run_compatibility": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "A genuine legacy root without declared execution retains compatibility when its entrypoint moves, before and after integration."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_entrypoint_relocation_preserves_active_run_completion": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "A moved entrypoint retains the prior active run for a legitimate final admission transaction and exact-main audit."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_entrypoint_relocation_fails_closed_when_prior_state_is_unavailable": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Admission fails closed when the prior registered canonical entrypoint cannot be recovered."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_entrypoint_relocation_fails_closed_on_ambiguous_prior_identity": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Conflicting prior root and stable identity routes cannot supply an arbitrary admission history."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_final_transaction_rejects_prior_prose_closed_lock": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "A final admission cannot rely on prior structured OPEN/active state that conflicts with a prose CLOSED lock, before or after integration."
     }
   }
 }

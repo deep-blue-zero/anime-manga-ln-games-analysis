@@ -114,6 +114,7 @@ PROJECT_INITIATION_GATE_PATH = (
 PROJECT_INITIATION_GATE_SCHEMA = (
     "anime-manga-ln-games-analysis/project-initiation-gate/v1"
 )
+PROJECT_INITIATION_BASELINE = "2eec12ae1200d3aaaff3f754fd535808161226f8"
 GLOBAL_AUTOMATION_POLICY_PATH = (
     "governance/repository-controls/global-index-automation-policy.json"
 )
@@ -1336,6 +1337,8 @@ def _load_project_initiation_gate(
             f"{PROJECT_INITIATION_GATE_PATH}.activation_baseline_commit must be a "
             "full lowercase SHA-1 commit ID"
         )
+    elif baseline != PROJECT_INITIATION_BASELINE:
+        errors.append("project-initiation immutable activation baseline changed")
 
     marker = control.get("prospective_registry_marker")
     if not isinstance(marker, Mapping):
@@ -1632,8 +1635,8 @@ def project_initiation_baseline_paths(
     root: Path, control: Mapping[str, Any]
 ) -> set[str]:
     baseline = control.get("activation_baseline_commit")
-    if not isinstance(baseline, str):
-        raise DomainError("project-initiation activation baseline is unavailable")
+    if baseline != PROJECT_INITIATION_BASELINE:
+        raise DomainError("project-initiation immutable activation baseline changed or is unavailable")
     if run_git(root, "cat-file", "-t", baseline).decode("ascii").strip() != "commit":
         raise DomainError("project-initiation activation baseline is not a commit")
     return set(
@@ -1707,7 +1710,7 @@ PROJECT_INITIALIZATION_ALIASES = {
 
 
 def _initialization_yaml_blocks(
-    text: str, path: str
+    text: str, path: str, *, sections: tuple[str, ...] = ("project_initialization",)
 ) -> list[tuple[int, Any, str | None]]:
     """Return recognized fenced initialization blocks as (index, value, error).
 
@@ -1722,7 +1725,7 @@ def _initialization_yaml_blocks(
         re.finditer(r"(?ms)^```ya?ml[ \t]*\n(.*?)^```[ \t]*$", text), start=1
     ):
         body = match.group(1)
-        if not re.search(r"(?m)^project_initialization\s*:", body):
+        if not re.search(r"(?m)^(?:" + "|".join(map(re.escape, sections)) + r")\s*:", body):
             continue
         try:
             loaded = _restricted_yaml_load(
@@ -1995,6 +1998,116 @@ TERMINAL_STATE_SECTIONS = (
 )
 
 
+def _execution_state(data: bytes, path: str) -> tuple[dict[str, Any], list[str]]:
+    """Read existing run fields from front matter and independent YAML fences."""
+    state, errors = _project_initialization_state(data, path)
+    result = {"lock": state["lock"]} if "lock" in state else {}
+    try:
+        surfaces = [_yaml_front_matter(data, path) or {}]
+        for _index, value, error in _initialization_yaml_blocks(
+            data.decode("utf-8", "strict"), path,
+            sections=("project_initialization", "sequential_execution"),
+        ):
+            if error:
+                errors.append(error)
+            elif isinstance(value, Mapping):
+                surfaces.append(value)
+    except (DomainError, UnicodeDecodeError) as exc:
+        return result, errors + [f"{path}: invalid execution state: {exc}"]
+    for section, fields in (
+        ("project_initialization", ("next_permitted_operation",)),
+        ("sequential_execution", ("run_state", "mode", "authorized_start", "terminal_boundary",
+                                  "committed_high_water_mark", "next_candidate_operation")),
+    ):
+        declarations = [s[section] for s in surfaces if section in s]
+        if section == "sequential_execution" and declarations:
+            result["run_state"] = None  # A partial declaration is not legacy absence.
+        if any(not isinstance(s, Mapping) for s in declarations):
+            errors.append(f"{path}: {section} must be a mapping wherever declared")
+            continue
+        for field in fields:
+            values = [s[field] for s in declarations if field in s]
+            if values:
+                result[field] = values[0]
+                if any(v != values[0] for v in values[1:]):
+                    errors.append(f"{path}: contradictory execution declarations for {field}")
+    return result, errors
+
+
+def _validate_run_admission(
+    snapshot: GitSnapshot, entrypoint: str, previous: Any, *, admission: bool, strict: bool
+) -> list[str]:
+    """Check state consistency, never purport to authenticate owner permission."""
+    entry = snapshot.get(entrypoint)
+    if entry is None or not entry.qualifies_as_evidence:
+        return []  # The architecture gate reports this independently.
+    current, errors = _execution_state(entry.data, entrypoint)
+    prior, prior_errors = _execution_state(previous.data, entrypoint) if previous else ({}, [])
+    lock = current.get("lock")
+    lock = lock.casefold() if isinstance(lock, str) else None
+    none = lambda v: isinstance(v, str) and re.fullmatch(r"NONE(?:_[A-Z0-9]+)*", v) is not None
+    prose_closed = re.search(r"SEQUENTIAL_ANALYSIS_LOCK\s*=\s*CLOSED\b", entry.data.decode("utf-8", "replace"), re.I)
+    # Preserve accepted legacy inconsistencies until the operational fields
+    # change or a new reading is admitted. Retrospective prose edits are safe.
+    if not admission and current == prior and errors == prior_errors:
+        return []
+    if (not admission and "run_state" not in current and "run_state" not in prior
+            and not errors and not prior_errors):
+        return []
+    if (admission and not strict and "run_state" not in current and "run_state" not in prior
+            and not errors and not prior_errors and not prose_closed
+            and ("lock" not in current or lock == "open")
+            and not none(current.get("next_permitted_operation"))):
+        return []  # Mature legacy projects retain their existing architecture route.
+    run = current.get("run_state")
+    run = run if isinstance(run, str) else None
+    candidates = [current.get(k) for k in ("next_permitted_operation", "next_candidate_operation")]
+    if run not in {"active", "blocked", "interrupted_pending_recovery", *TERMINAL_RUN_STATES}:
+        errors.append(f"{entrypoint}: missing or unrecognized sequential_execution.run_state")
+    if run in TERMINAL_RUN_STATES and not all(none(v) for v in candidates):
+        errors.append(f"{entrypoint}: completed run requires both next operations NONE")
+    if run == "active":
+        if lock != "open" or any(not _valid_nonempty_string(v) or none(v) for v in candidates):
+            errors.append(f"{entrypoint}: active run requires OPEN lock and both next operations")
+        if candidates[0] != candidates[1]:
+            errors.append(f"{entrypoint}: active next permitted and candidate operations disagree")
+        if current.get("mode") not in ("single_operation", "continuous_sequential") or any(
+            not _valid_nonempty_string(current.get(k)) or none(current.get(k))
+            for k in ("authorized_start", "terminal_boundary")
+        ):
+            errors.append(f"{entrypoint}: active run requires mode and recoverable authorized bounds")
+        if current.get("mode") == "single_operation" and current.get("authorized_start") != current.get("terminal_boundary"):
+            errors.append(f"{entrypoint}: single_operation must have one authorized source unit")
+        if current.get("mode") == "single_operation" and candidates[1] != current.get("authorized_start"):
+            errors.append(f"{entrypoint}: single_operation next candidate exceeds its authorized unit")
+    if admission:
+        # The final transaction may close a run already recorded active on main.
+        # Its original bounds survive, and the high-water mark reaches the end.
+        closing = (
+            run in TERMINAL_RUN_STATES and not prior_errors and prior.get("run_state") == "active"
+            and isinstance(prior.get("lock"), str) and prior["lock"].casefold() == "open"
+            and previous is not None and not re.search(
+                r"SEQUENTIAL_ANALYSIS_LOCK\s*=\s*CLOSED\b", previous.data.decode("utf-8", "replace"), re.I
+            )
+            and prior.get("mode") in ("single_operation", "continuous_sequential")
+            and prior.get("next_permitted_operation") == prior.get("next_candidate_operation")
+            and _valid_nonempty_string(prior.get("next_candidate_operation"))
+            and not none(prior.get("next_candidate_operation"))
+            and (prior.get("mode") != "single_operation" or
+                 prior.get("authorized_start") == prior.get("terminal_boundary") == prior.get("next_candidate_operation"))
+            and all(_valid_nonempty_string(prior.get(k)) and not none(prior[k]) and current.get(k) == prior[k]
+                    for k in ("mode", "authorized_start", "terminal_boundary"))
+            and current.get("committed_high_water_mark") == current.get("terminal_boundary")
+        )
+        if run != "active" and not closing:
+            errors.append(f"{entrypoint}: new sequential admission requires an active authorized run; OPEN alone is insufficient")
+        if lock != "open":
+            errors.append(f"{entrypoint}: new sequential admission requires sequential_analysis_lock OPEN")
+        if prose_closed:
+            errors.append(f"{entrypoint}: new sequential admission contradicts prose lock CLOSED")
+    return errors
+
+
 def _validate_sealed_readings(
     snapshot: GitSnapshot,
     entrypoint_path: str,
@@ -2017,7 +2130,9 @@ def _validate_sealed_readings(
     # index/worktree. Missing history is a failure, never a network lookup or
     # permission to substitute the candidate bytes for the historical seal.
     try:
-        completion = GitSnapshot.from_commit(snapshot.root, closure["completion_commit"])
+        completion = GitSnapshot.from_commit(
+            snapshot.root, closure["completion_commit"], paths=frozen
+        )
     except DomainError as exc:
         errors.append(f"{entrypoint_path}: terminal completion_commit cannot be resolved: {exc}")
     else:
@@ -2078,11 +2193,13 @@ def _validate_terminal_corpus(
     # and recognized fenced initialization blocks. Every statement of a field
     # must agree; a non-mapping section or a contradiction fails closed.
     surfaces: list[Mapping[str, Any]] = [front]
-    surfaces.extend(
-        loaded
-        for _index, loaded, block_error in _initialization_yaml_blocks(text, entrypoint_path)
-        if block_error is None and isinstance(loaded, Mapping)
-    )
+    for _index, loaded, block_error in _initialization_yaml_blocks(
+        text, entrypoint_path, sections=TERMINAL_STATE_SECTIONS
+    ):
+        if block_error is not None:
+            errors.append(block_error)
+        elif isinstance(loaded, Mapping):
+            surfaces.append(loaded)
     sections = {
         name: [surface[name] for surface in surfaces if name in surface]
         for name in TERMINAL_STATE_SECTIONS
@@ -2273,6 +2390,58 @@ def validate_project_initiation_gate(
             if isinstance(row, Mapping)
         )
 
+    # The activation tree still owns architecture adoption. Admission is a
+    # separate delta against fetched main, pinned once per validation, never
+    # prepare_commit's caller-selected --base. A post-integration commit audit
+    # replays the main transaction against its first parent rather than self.
+    admission_tree: dict[str, tuple[str, str]] = {}
+    prior_rows: dict[str, list[Mapping[str, Any]]] = {}
+    history = None
+    if base_commit is not None:
+        try:
+            comparison = base_commit
+            if snapshot.identity == base_commit:
+                comparison = run_git(snapshot.root, "rev-parse", base_commit + "^1").decode().strip()
+            raw = run_git(snapshot.root, "ls-tree", "-r", "-z", "--full-tree", comparison)
+            for item in raw.split(b"\0"):
+                if item:
+                    metadata, path = item.split(b"\t", 1)
+                    mode, kind, oid = metadata.decode("ascii").split()
+                    if kind == "blob":
+                        admission_tree[path.decode("utf-8")] = (mode, oid)
+            history_paths = {row["canonical_entrypoint"] for _, row in rows
+                             if _valid_nonempty_string(row.get("canonical_entrypoint"))}
+            registries = GitSnapshot.from_commit(
+                snapshot.root, comparison, paths=(SERIES_REGISTRY_PATH, STUDY_REGISTRY_PATH)
+            )
+            for registry_path, collection in (
+                (SERIES_REGISTRY_PATH, "series"), (STUDY_REGISTRY_PATH, "studies"),
+            ):
+                entry = registries.get(registry_path)
+                if entry is None:
+                    continue
+                if not entry.qualifies_as_evidence:
+                    raise DomainError(f"{registry_path}: admission history registry is not regular")
+                registry = decode_json(entry.data, registry_path)
+                values = registry.get(collection) if isinstance(registry, Mapping) else None
+                if not isinstance(values, list):
+                    raise DomainError(f"{registry_path}: admission history registry has no {collection} list")
+                prior_rows[registry_path] = [value for value in values if isinstance(value, Mapping)]
+                history_paths.update(value["canonical_entrypoint"] for value in prior_rows[registry_path]
+                                     if _valid_nonempty_string(value.get("canonical_entrypoint")))
+            history = GitSnapshot.from_commit(snapshot.root, comparison, paths=history_paths)
+        except DomainError as exc:
+            errors.append(f"project-initiation admission history is unavailable: {exc}")
+
+    def unchanged_on_main(path: str, entry: Any) -> bool:
+        previous = admission_tree.get(path)
+        if previous is None or entry.mode != previous[0]:
+            return False
+        digest = hashlib.new("sha1" if len(previous[1]) == 40 else "sha256")
+        digest.update(b"blob " + str(len(entry.data)).encode("ascii") + b"\0")
+        digest.update(entry.data)
+        return digest.hexdigest() == previous[1]
+
     for label, row in rows:
         project_prefix = row.get("repository_path")
         if not _valid_nonempty_string(
@@ -2309,13 +2478,15 @@ def validate_project_initiation_gate(
             )
 
         new_sequential: list[str] = []
+        admissions: list[str] = []
         terminal_sequential: set[str] = set()
         for path, candidate in snapshot.entries.items():
             if (
-                (path in baseline_paths and closure is None and reopened is None)
-                or not path.startswith(project_prefix)
+                not path.startswith(project_prefix)
                 or not path.endswith(".md")
                 or not candidate.qualifies_as_evidence
+                or (path in baseline_paths and closure is None and reopened is None
+                    and unchanged_on_main(path, candidate))
             ):
                 continue
             classified, fallback, artifact_errors = _is_substantive_sequential_artifact(
@@ -2323,6 +2494,8 @@ def validate_project_initiation_gate(
             )
             errors.extend(artifact_errors)
             if classified:
+                if not unchanged_on_main(path, candidate):
+                    admissions.append(path)
                 if path not in baseline_paths:
                     new_sequential.append(path)
                 terminal_sequential.add(path)
@@ -2340,6 +2513,27 @@ def validate_project_initiation_gate(
             or git_native or closure is not None or reopened is not None
         )
         entrypoint = row.get("canonical_entrypoint")
+        if closure is None and _valid_nonempty_string(entrypoint) and history is not None:
+            # A moved/repointed entrypoint cannot erase a root's recorded run.
+            # Match its prior registry identity or root, never just its new path.
+            registry_path = label.split(":", 1)[0]
+            identity_field = "series_id" if registry_path == SERIES_REGISTRY_PATH else "study_id"
+            identity = row.get(identity_field)
+            previous_rows = [value for value in prior_rows.get(registry_path, [])
+                             if value.get("repository_path") == project_prefix or
+                             (_valid_nonempty_string(identity) and value.get(identity_field) == identity)]
+            previous = history.get(entrypoint)
+            if len(previous_rows) > 1:
+                errors.append(f"{entrypoint}: admission history has ambiguous prior project routes")
+            elif previous_rows:
+                previous_path = previous_rows[0].get("canonical_entrypoint")
+                previous = history.get(previous_path) if _valid_nonempty_string(previous_path) else None
+                if admissions and (previous is None or not previous.qualifies_as_evidence):
+                    errors.append(f"{entrypoint}: admission history prior canonical entrypoint is unavailable")
+            errors.extend(_validate_run_admission(
+                snapshot, entrypoint, previous,
+                admission=bool(admissions), strict=strict,
+            ))
         # A closure covers every reading under its root, including readings of
         # nested registered roots, exactly as the OPEN gate scan does.
         if closure is not None:
