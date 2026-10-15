@@ -17,7 +17,7 @@ from unittest import mock
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / 'tools'))
 from nightly_integration import (
-    AUDIT, AUDIT_WORKFLOW, AUTHOR, COMMITTER, GENERATED, OWNER, REPOSITORY,
+    AUDIT, AUDIT_INTEGRATION_ID, AUDIT_WORKFLOW, AUTHOR, COMMITTER, GENERATED, MAIN_RULESET_ID, OWNER, REPOSITORY,
     ApiError, Blocked, GitError, GitHub, Graph, Halt, Integrator, main, protection_method, scoped_paths,
     temporary_graph_directory,
 )
@@ -25,7 +25,18 @@ from character_index_core import GitSnapshot, SnapshotEntry
 from validate_repository import validate_nightly_integration
 
 B, S, M, G = 'b'*40, 'a'*40, 'c'*40, 'd'*40
-PROTECTION = {'required_status_checks': {'strict': True, 'contexts': [AUDIT]}, 'enforce_admins': {'enabled': True}}
+RULESET = {
+    'id': 25199066, 'target': 'branch', 'enforcement': 'active',
+    'conditions': {'ref_name': {'include': ['refs/heads/main'], 'exclude': []}},
+    'bypass_actors': [], 'current_user_can_bypass': 'never',
+    'rules': [
+        {'type': 'deletion'}, {'type': 'non_fast_forward'}, {'type': 'required_linear_history'},
+        {'type': 'required_status_checks', 'parameters': {
+            'strict_required_status_checks_policy': True,
+            'required_status_checks': [{'context': AUDIT, 'integration_id': 15368}],
+        }},
+    ],
+}
 METADATA = {'allow_merge_commit': True, 'allow_squash_merge': True}
 
 
@@ -51,6 +62,8 @@ class FakeAPI:
         self.invitations = []
         self.keys = [{'id': 3, 'read_only': True}]
         self.access_error = None
+        self.ruleset = copy.deepcopy(RULESET)
+        self.requests = []
 
     def head(self, branch):
         return self.main if branch == 'main' else self.source
@@ -80,12 +93,13 @@ class FakeAPI:
                 'actor': {'login': OWNER if sha == M else 'github-actions[bot]'}}
 
     def request(self, method, path, payload=None):
+        self.requests.append((method, path, payload))
         if method != 'GET':
             self.writes.append((method, path, payload))
         if path == '/user':
             return {'login': OWNER}
-        if path == 'branches/main/protection':
-            return PROTECTION
+        if path == f'rulesets/{MAIN_RULESET_ID}':
+            return self.ruleset
         if path == '':
             return METADATA
         if path == 'pulls/8':
@@ -122,7 +136,7 @@ class ControllerTests(unittest.TestCase):
         self.assertEqual(worker.process('series/a', S, B, row), M)
         self.assertEqual(row['outcome'], 'merged_verified')
         self.assertEqual(worker.api.writes, [
-            ('PUT', 'pulls/8/merge', {'sha': S, 'merge_method': 'merge'}),
+            ('PUT', 'pulls/8/merge', {'sha': S, 'merge_method': 'squash'}),
             ('POST', 'dispatches', {'event_type': 'audit-generated-commit', 'client_payload': {'commit_sha': M, 'branch': 'main'}}),
         ])
 
@@ -139,7 +153,7 @@ class ControllerTests(unittest.TestCase):
         cases = {
             '': f'https://api.github.com/repos/{REPOSITORY}',
             '/user': 'https://api.github.com/user',
-            'branches/main/protection': f'https://api.github.com/repos/{REPOSITORY}/branches/main/protection',
+            f'rulesets/{MAIN_RULESET_ID}': f'https://api.github.com/repos/{REPOSITORY}/rulesets/{MAIN_RULESET_ID}',
         }
         for path, expected in cases.items():
             with self.subTest(path=path), mock.patch('nightly_integration.urllib.request.urlopen') as transport:
@@ -285,14 +299,102 @@ class ControllerTests(unittest.TestCase):
             self.assertFalse(worker.generated_child(S, G))
 
     def test_protection_requires_strict_status_and_owner_enforcement(self):
-        self.assertEqual(protection_method(PROTECTION, METADATA), 'merge')
-        for field in ('required_status_checks', 'enforce_admins'):
-            invalid = copy.deepcopy(PROTECTION)
+        self.assertEqual(protection_method(RULESET, METADATA), 'squash')
+        for field in ('rules', 'bypass_actors', 'current_user_can_bypass'):
+            invalid = copy.deepcopy(RULESET)
             invalid.pop(field)
             with self.assertRaises(Halt):
                 protection_method(invalid, METADATA)
-        linear = dict(PROTECTION, required_linear_history={'enabled': True})
-        self.assertEqual(protection_method(linear, METADATA), 'squash')
+
+    def test_main_ruleset_requires_active_pinned_identity_and_exact_target(self):
+        changes = (
+            {'id': None}, {'id': MAIN_RULESET_ID + 1}, {'target': 'tag'},
+            {'enforcement': 'disabled'}, {'enforcement': 'evaluate'},
+            {'conditions': {'ref_name': {'include': ['refs/heads/*'], 'exclude': []}}},
+            {'conditions': {'ref_name': {'include': ['refs/heads/main', 'refs/heads/other'], 'exclude': []}}},
+            {'conditions': {'ref_name': {'include': ['refs/heads/main'], 'exclude': ['refs/heads/main']}}},
+        )
+        for value in (None, {}, *(dict(copy.deepcopy(RULESET), **change) for change in changes)):
+            with self.subTest(value=value), self.assertRaises(Halt):
+                protection_method(value, METADATA)
+
+    def test_main_ruleset_rejects_bypass_or_unverifiable_owner_enforcement(self):
+        for changes in (
+            {'bypass_actors': [{'actor_type': 'RepositoryRole', 'actor_id': 5, 'bypass_mode': 'always'}]},
+            {'bypass_actors': [{'actor_type': 'User', 'actor_id': 50891441, 'bypass_mode': 'pull_request'}]},
+            {'bypass_actors': None}, {'current_user_can_bypass': 'always'},
+            {'current_user_can_bypass': 'pull_request'}, {'current_user_can_bypass': None},
+        ):
+            with self.subTest(changes=changes), self.assertRaises(Halt):
+                protection_method(dict(copy.deepcopy(RULESET), **changes), METADATA)
+
+    def test_main_ruleset_requires_every_preservation_and_audit_rule(self):
+        for rule in RULESET['rules']:
+            invalid = copy.deepcopy(RULESET)
+            invalid['rules'] = [row for row in invalid['rules'] if row['type'] != rule['type']]
+            with self.subTest(missing=rule['type']), self.assertRaises(Halt):
+                protection_method(invalid, METADATA)
+        for rules in (None, [None], RULESET['rules'] + [RULESET['rules'][0]]):
+            with self.subTest(rules=rules), self.assertRaises(Halt):
+                protection_method(dict(copy.deepcopy(RULESET), rules=rules), METADATA)
+
+    def test_main_ruleset_requires_strict_audit_from_trusted_app(self):
+        for parameters in (
+            None, {}, {'strict_required_status_checks_policy': False},
+            {'strict_required_status_checks_policy': True, 'required_status_checks': []},
+            {'strict_required_status_checks_policy': True, 'required_status_checks': [{'context': 'other', 'integration_id': AUDIT_INTEGRATION_ID}]},
+            {'strict_required_status_checks_policy': True, 'required_status_checks': [{'context': AUDIT}]},
+            {'strict_required_status_checks_policy': True, 'required_status_checks': [{'context': AUDIT, 'integration_id': 42}]},
+        ):
+            invalid = copy.deepcopy(RULESET)
+            invalid['rules'][-1]['parameters'] = parameters
+            with self.subTest(parameters=parameters), self.assertRaises(Halt):
+                protection_method(invalid, METADATA)
+
+    def test_main_ruleset_requires_enabled_squash_without_merge_fallback(self):
+        self.assertEqual(protection_method(RULESET, {'allow_squash_merge': True, 'allow_merge_commit': False}), 'squash')
+        for metadata in (None, {}, {'allow_merge_commit': True}, {'allow_squash_merge': False}):
+            with self.subTest(metadata=metadata), self.assertRaises(Halt):
+                protection_method(RULESET, metadata)
+
+    def test_main_ruleset_is_checked_before_writes_and_rechecked_before_merge(self):
+        worker = self.worker()
+        self.assertEqual(worker.preflight(), B)
+        self.assertEqual(worker.api.writes, [])
+        self.assertEqual(worker.process('series/a', S, B, {}), M)
+        checks = [i for i, row in enumerate(worker.api.requests) if row[:2] == ('GET', f'rulesets/{MAIN_RULESET_ID}')]
+        merge = next(i for i, row in enumerate(worker.api.requests) if row[:2] == ('PUT', 'pulls/8/merge'))
+        self.assertEqual(len(checks), 2)
+        self.assertLess(checks[0], checks[1])
+        self.assertLess(checks[1], merge)
+        worker = self.worker()
+        worker.api.ruleset['enforcement'] = 'disabled'
+        with self.assertRaises(Halt):
+            worker.preflight()
+        self.assertEqual(worker.api.writes, [])
+
+    def test_main_ruleset_drift_stops_the_protected_merge(self):
+        worker = self.worker()
+        worker.preflight()
+        worker.api.ruleset['rules'][-1]['parameters']['strict_required_status_checks_policy'] = False
+        with self.assertRaises(Halt):
+            worker.process('series/a', S, B, {})
+        self.assertEqual(worker.api.writes, [])
+
+    def test_unreadable_main_ruleset_stops_apply_without_mutation(self):
+        for status in (403, 404):
+            worker = self.worker()
+            request = worker.api.request
+            def fail_ruleset(method, path, payload=None):
+                if path == f'rulesets/{MAIN_RULESET_ID}':
+                    raise ApiError(method, path, status)
+                return request(method, path, payload)
+            worker.api.request = mock.Mock(side_effect=fail_ruleset)
+            with self.subTest(status=status), self.assertRaises(ApiError):
+                worker.preflight()
+            self.assertEqual(worker.api.writes, [])
+            worker.graph.push.assert_not_called()
+            self.assertEqual(worker.api.request.call_args, mock.call('GET', f'rulesets/{MAIN_RULESET_ID}'))
 
     def test_scope_allows_only_named_root_and_reviewed_shared_paths(self):
         self.assertTrue(scoped_paths('series/a', {'series/a/doc.md'} | GENERATED))
@@ -793,7 +895,7 @@ class CleanupTests(unittest.TestCase):
         self.assertEqual([(method, path) for method, path, _ in worker.api.writes], [
             ('POST', 'pulls'), ('PUT', 'pulls/8/merge'), ('POST', 'dispatches'),
         ])
-        self.assertEqual(worker.api.writes[1][2], {'sha': G, 'merge_method': 'merge'})
+        self.assertEqual(worker.api.writes[1][2], {'sha': G, 'merge_method': 'squash'})
         self.assertEqual(worker.api.writes[2][2], {
             'event_type': 'audit-generated-commit', 'client_payload': {'commit_sha': M, 'branch': 'main'},
         })

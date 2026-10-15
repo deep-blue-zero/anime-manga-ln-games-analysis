@@ -20,6 +20,8 @@ from pathlib import Path
 REPOSITORY = "deep-blue-zero/anime-manga-ln-games-analysis"
 OWNER = "deep-blue-zero"
 AUDIT = "Repository integration audit"
+AUDIT_INTEGRATION_ID = 15368
+MAIN_RULESET_ID = 25199066
 AUDIT_WORKFLOW = ".github/workflows/repository-audit.yml"
 BRANCH = re.compile(r"^(series|studies)/[a-z0-9][a-z0-9-]*$")
 SHA = re.compile(r"^[0-9a-f]{40}$")
@@ -72,18 +74,33 @@ def scoped_paths(branch: str, paths: set[str]) -> bool:
     )
 
 
-def protection_method(protection: dict, repository: dict) -> str:
-    checks = protection.get("required_status_checks") or {}
-    contexts = set(checks.get("contexts", [])) | {item.get("context") for item in checks.get("checks", [])}
-    if AUDIT not in contexts or checks.get("strict") is not True:
-        raise Halt("main must require the integration audit and up-to-date branches")
-    if protection.get("enforce_admins", {}).get("enabled") is not True:
-        raise Halt("main protection must also apply to the owner/admin credential")
-    method = "squash" if protection.get("required_linear_history", {}).get("enabled", False) else "merge"
-    setting = "allow_merge_commit" if method == "merge" else "allow_squash_merge"
-    if not repository.get(setting, False):
-        raise Halt(f"The protection-compatible {method} method is not enabled")
-    return method
+def protection_method(ruleset: dict, repository: dict) -> str:
+    if (not isinstance(ruleset, dict) or ruleset.get("id") != MAIN_RULESET_ID
+            or ruleset.get("target") != "branch" or ruleset.get("enforcement") != "active"
+            or ruleset.get("conditions") != {"ref_name": {"include": ["refs/heads/main"], "exclude": []}}
+            or ruleset.get("bypass_actors") != [] or ruleset.get("current_user_can_bypass") != "never"):
+        raise Halt("The main ruleset must be active, target only main, and permit no owner/admin bypass")
+    entries = ruleset.get("rules")
+    if (not isinstance(entries, list) or any(not isinstance(rule, dict)
+            or not isinstance(rule.get("type"), str) for rule in entries)):
+        raise Halt("The main ruleset rules are unreadable")
+    rules = {rule["type"]: rule for rule in entries}
+    if len(rules) != len(entries) or not {
+        "deletion", "non_fast_forward", "required_linear_history", "required_status_checks"
+    } <= set(rules):
+        raise Halt("The main ruleset must preserve deletion, non-fast-forward, linear-history and audit gates")
+    parameters = rules["required_status_checks"].get("parameters")
+    if not isinstance(parameters, dict) or parameters.get("strict_required_status_checks_policy") is not True:
+        raise Halt("The main ruleset must require up-to-date branches")
+    checks = parameters.get("required_status_checks")
+    if not isinstance(checks, list) or not any(
+        isinstance(check, dict) and check.get("context") == AUDIT
+        and check.get("integration_id") == AUDIT_INTEGRATION_ID for check in checks
+    ):
+        raise Halt("The main ruleset must require the trusted integration audit")
+    if not isinstance(repository, dict) or repository.get("allow_squash_merge") is not True:
+        raise Halt("The ruleset-compatible squash method is not enabled")
+    return "squash"
 
 
 class GitHub:
@@ -230,7 +247,7 @@ class Integrator:
         self.deadline = time.monotonic() + budget
         self.wait_seconds = wait_seconds
         self.rows: list[dict] = []
-        self.method = "merge"
+        self.method = "squash"
         self.access = "NOT_CHECKED"
 
     def check_time(self) -> None:
@@ -416,7 +433,7 @@ class Integrator:
                 raise Halt("NIGHTLY_INTEGRATION_TOKEN must authenticate the repository owner")
         self.access = self.access_check()
         if not self.preview:
-            self.method = protection_method(self.api.request("GET", "branches/main/protection"), self.api.request("GET", ""))
+            self.method = protection_method(self.api.request("GET", f"rulesets/{MAIN_RULESET_ID}"), self.api.request("GET", ""))
             status = self.api.status(base)
             if not status or status["state"] != "success" or not self.api.audit_run(base, status):
                 raise Halt("The starting main commit does not have a successful independent audit")
@@ -482,8 +499,8 @@ class Integrator:
         if pr["head"]["sha"] != final:
             raise Blocked("PR head changed before merge")
         self.same_heads(branch, final, base)
-        # Strict admin-enforced protection closes the base race the REST SHA cannot.
-        method = protection_method(self.api.request("GET", "branches/main/protection"), self.api.request("GET", ""))
+        # The strict no-bypass main ruleset closes the base race the REST SHA cannot.
+        method = protection_method(self.api.request("GET", f"rulesets/{MAIN_RULESET_ID}"), self.api.request("GET", ""))
         if method != self.method:
             raise Halt("Merge configuration changed during integration")
         latest = self.api.status(final)

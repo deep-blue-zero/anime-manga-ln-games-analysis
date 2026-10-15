@@ -173,7 +173,7 @@ The full gate uses the timed regression runner described in [Audit execution rol
 
 1. Inspect the exact staged path list, diff, generated changes, and file sizes.
 2. Confirm the commit uses an approved owner author identity and an approved committer identity.
-3. Reread the provider controls your credential can read: `main` protection, the activation-tag ruleset, and both remote heads. Stop if any is absent or unverifiable. Collaborators, invitations and deploy keys are checked before integration by the nightly controller, and every access surface by the owner merging by hand (`PUBLICATION_AND_CONTRIBUTION_POLICY.md`).
+3. Reread the main ruleset `25199066`, activation-tag ruleset `21946617`, and both remote heads. Verify their live semantics under `PUBLICATION_AND_CONTRIBUTION_POLICY.md` using ruleset details. Stop if any is absent or unverifiable. Collaborators, invitations and deploy keys are checked before integration by the nightly controller, and every access surface by the owner merging by hand (`PUBLICATION_AND_CONTRIBUTION_POLICY.md`).
 4. Push normally without force. The owner-authorized nightly controller follows `NIGHTLY_ANALYTICAL_INTEGRATION.md` for clean reconciliation, protected PR integration, and explicit post-merge validation. For a stable analytical branch, require the final housekeeping result and its generated-commit audit when an automated child commit was produced. For other branches and `main`, require the full repository audit and successful `Repository integration audit` status for the exact remote commit. A passing author preflight with pending routing is not a passing integration gate.
 5. After integration, apply the verified branch-retention or pruning rule in `BRANCH_LIFECYCLE.md`.
 

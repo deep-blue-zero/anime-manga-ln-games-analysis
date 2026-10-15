@@ -8,8 +8,8 @@ The public, owner-maintained, epoch-1 Git-primary repository uses these controls
 - provider interfaces may permit issues, discussions, or pull-request proposals, but none confer upstream authority;
 - tracked automation is limited to the read-only repository-content audit, the default-branch, exact-output-allowlisted global index housekeeper, and the owner-authorized nightly analytical integrator under `NIGHTLY_ANALYTICAL_INTEGRATION.md`; every other workflow remains forbidden without separate review;
 - default branch `main`;
-- administrator-enforced `main` protection with linear history and force-push and branch deletion disabled, verified at G3 closure and requiring provider reread before every later public push;
-- an active `refs/tags/activation/**` ruleset blocking deletion and non-fast-forward updates, verified at G3 closure and requiring provider reread before use;
+- active main ruleset `25199066`, targeting exactly `refs/heads/main` without exclusions or owner/admin bypass, requiring linear history and strict up-to-date `Repository integration audit` from GitHub Actions app `15368`, and blocking deletion and non-fast-forward updates; reread its ruleset detail before every later public push. G3 provider-state bindings remain immutable historical evidence;
+- active activation-tag ruleset `21946617` blocking deletion and non-fast-forward updates to `refs/tags/activation/**` without bypass actors, verified at G3 closure and requiring provider reread before use;
 - repository-local `core.longpaths=true`, `core.autocrlf=false`, and `core.safecrlf=true`;
 - imported bytes are `-text` by default; generated controls are explicitly `text eol=lf`;
 - exact-path staging from a declared path list; wildcard staging and `git add .` are prohibited;
