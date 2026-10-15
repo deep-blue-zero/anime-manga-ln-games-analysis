@@ -2,10 +2,11 @@
 title: Manga / Anime Analytical Stage Handoff Template
 artifact_id: MANGA_ANIME_ANALYTICAL_STAGE_HANDOFF_TEMPLATE
 artifact_type: analytical_handoff_template
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: reusable operational template; not a populated analytical handoff
 created: 2026-09-13
+last_updated: 2026-10-15
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 canonical_home: governance/source-policies/templates/MANGA_ANIME_ANALYTICAL_STAGE_HANDOFF_TEMPLATE.md
@@ -146,6 +147,10 @@ Write a substantive orientation to established conclusions, important competing 
 - [ ] The contract's section 15.6 name-and-reference check was performed on substantial analytical prose; sampled scope and material findings are recorded.
 - [ ] Required unresolved work and the next owner are explicit.
 - [ ] No claim of canonical promotion, publication, or tests exceeds observed results.
+
+**Name-and-reference check sampled scope:** <Artifact IDs/paths and the actual sections sampled under section 15.6, including any extended relationship or actor-confusion review.>
+
+**Material name-and-reference findings:** <For each material finding, record its section/locator, section 15.6 classification (including nonblocking classifications such as `JUSTIFIED_ROLE_REFERENCE`), and supported repair or retained-use explanation. Record `none` when there are no material findings.>
 
 **Producer completion scope:** <What was actually completed.>
 
