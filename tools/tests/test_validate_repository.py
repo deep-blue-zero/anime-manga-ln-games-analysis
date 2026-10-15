@@ -61,6 +61,13 @@ from validate_repository import (  # noqa: E402
 
 
 class PhaseValidationTests(unittest.TestCase):
+    _registry_base: tuple[GitSnapshot, AuthorityGraph] | None = None
+
+    @classmethod
+    def tearDownClass(cls) -> None:
+        cls._registry_base = None  # release the cached corpus snapshot
+        super().tearDownClass()
+
     @staticmethod
     def p03_snapshot() -> GitSnapshot:
         snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
@@ -127,6 +134,27 @@ class PhaseValidationTests(unittest.TestCase):
         )
         return PhaseValidationTests.replace_entry(snapshot, path, data)
 
+    @classmethod
+    def registry_base(cls) -> tuple[GitSnapshot, AuthorityGraph]:
+        """One worktree snapshot and authority graph, built once for registry tests.
+
+        The graph reads only series/studies Markdown, so it is exact for any
+        snapshot that differs from this base only in series/registry.json.
+        """
+        if cls._registry_base is None:
+            snapshot = cls.p03_snapshot()
+            cls._registry_base = (snapshot, AuthorityGraph(snapshot))
+        return cls._registry_base
+
+    def registry_failures(self, snapshot: GitSnapshot) -> list[str]:
+        base, graph = self.registry_base()
+        changed = {
+            path for path in snapshot.entries.keys() | base.entries.keys()
+            if snapshot.get(path) != base.get(path)
+        }
+        self.assertLessEqual(changed, {"series/registry.json"})
+        return validate_series_registry(snapshot, graph)
+
     @staticmethod
     def replace_series_registry(snapshot: GitSnapshot, mutate) -> GitSnapshot:
         path = "series/registry.json"
@@ -138,8 +166,8 @@ class PhaseValidationTests(unittest.TestCase):
         return PhaseValidationTests.replace_entry(snapshot, path, data)
 
     def test_series_registry_entrypoint_routes_are_valid(self) -> None:
-        snapshot = self.p03_snapshot()
-        self.assertEqual(validate_series_registry(snapshot), [])
+        snapshot = self.registry_base()[0]
+        self.assertEqual(self.registry_failures(snapshot), [])
         registry = json.loads(
             snapshot.entries["series/registry.json"].data.decode("utf-8")
         )
@@ -151,7 +179,7 @@ class PhaseValidationTests(unittest.TestCase):
 
     def test_series_registry_rejects_an_untracked_verified_entrypoint(self) -> None:
         snapshot = self.replace_series_registry(
-            self.p03_snapshot(),
+            self.registry_base()[0],
             lambda registry: registry["series"][0].update(
                 {
                     "canonical_entrypoint": (
@@ -160,7 +188,7 @@ class PhaseValidationTests(unittest.TestCase):
                 }
             ),
         )
-        failures = validate_series_registry(snapshot)
+        failures = self.registry_failures(snapshot)
         self.assertTrue(
             any("is not a tracked regular Git blob" in failure for failure in failures),
             failures,
@@ -170,20 +198,20 @@ class PhaseValidationTests(unittest.TestCase):
         def remove_status(registry: dict) -> None:
             registry["series"][0].pop("canonical_entrypoint_status")
 
-        snapshot = self.replace_series_registry(self.p03_snapshot(), remove_status)
-        failures = validate_series_registry(snapshot)
+        snapshot = self.replace_series_registry(self.registry_base()[0], remove_status)
+        failures = self.registry_failures(snapshot)
         self.assertTrue(
             any("missing required fields" in failure for failure in failures), failures
         )
 
     def test_series_registry_rejects_a_non_string_entrypoint_status(self) -> None:
         snapshot = self.replace_series_registry(
-            self.p03_snapshot(),
+            self.registry_base()[0],
             lambda registry: registry["series"][0].update(
                 {"canonical_entrypoint_status": ["PRESENT_VERIFIED"]}
             ),
         )
-        failures = validate_series_registry(snapshot)
+        failures = self.registry_failures(snapshot)
         self.assertTrue(
             any("canonical_entrypoint_status must be one of" in failure for failure in failures),
             failures,
@@ -205,9 +233,9 @@ class PhaseValidationTests(unittest.TestCase):
             )
 
         snapshot = self.replace_series_registry(
-            self.p03_snapshot(), promote_historical_path
+            self.registry_base()[0], promote_historical_path
         )
-        failures = validate_series_registry(snapshot)
+        failures = self.registry_failures(snapshot)
         self.assertTrue(
             any(
                 "is not current-eligible" in failure
@@ -227,8 +255,8 @@ class PhaseValidationTests(unittest.TestCase):
                 "00_README_AND_CORPUS_MAP.md"
             )
 
-        snapshot = self.replace_series_registry(self.p03_snapshot(), add_path)
-        failures = validate_series_registry(snapshot)
+        snapshot = self.replace_series_registry(self.registry_base()[0], add_path)
+        failures = self.registry_failures(snapshot)
         self.assertTrue(
             any("must be null when status is MISSING" in failure for failure in failures),
             failures,
@@ -1309,8 +1337,7 @@ class PhaseValidationTests(unittest.TestCase):
             self.assertEqual(hazard_matches(data, patterns), expected, data)
 
     def test_one_authority_graph_serves_each_consumer(self) -> None:
-        snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
-        graph = AuthorityGraph(snapshot)
+        snapshot, graph = self.registry_base()
         with mock.patch("validate_repository.AuthorityGraph", side_effect=AssertionError("graph rebuilt")):
             self.assertEqual(validate_series_registry(snapshot, graph), [])
             self.assertEqual(validate_study_registry(snapshot, graph), [])
@@ -1653,23 +1680,14 @@ class PhaseValidationTests(unittest.TestCase):
 
             shutil.rmtree(temporary, onexc=clear_readonly)
 
-    def test_current_worktree_cli_fails_closed_until_evidence_is_staged(self) -> None:
-        result = subprocess.run(
-            [
-                sys.executable,
-                str(TOOLS / "validate_repository.py"),
-                "--phase",
-                "current",
-                "--snapshot",
-                "worktree",
-                "--repo",
-                str(ROOT),
-            ],
-            text=True,
-            capture_output=True,
+    def test_current_worktree_snapshot_fails_closed_until_evidence_is_staged(self) -> None:
+        # The CLI passes --snapshot worktree straight to this check; calling it
+        # directly avoids a full validator run for one expected failure.
+        snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        self.assertIn(
+            "worktree bytes cannot establish materialization; use an exact Git index or commit snapshot",
+            validate_generated_index(snapshot, "worktree"),
         )
-        self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
-        self.assertIn("worktree bytes cannot establish materialization", result.stdout)
 
 
 if __name__ == "__main__":
