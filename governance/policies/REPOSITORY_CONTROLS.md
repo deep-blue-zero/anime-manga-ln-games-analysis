@@ -4,7 +4,7 @@ The public, owner-maintained, epoch-1 Git-primary repository uses these controls
 
 - GitHub repository ID `1352620662`, owned by `deep-blue-zero`, with verified G3 public-visibility activation evidence recorded in `../repository-controls/public-activation-bindings.json`;
 - current visibility state of public, with `deep-blue-zero` as the sole upstream human writer and contributor;
-- policy prohibits external pull-request merge, patch import, cherry-pick, non-owner collaborator, or pending invitation; G3 closure found none, and the nightly integration controller rereads collaborators, invitations and deploy keys on every run and halts integration on any non-owner write access;
+- policy prohibits external pull-request merge, patch import, cherry-pick, non-owner collaborator, or pending invitation; G3 closure found none, and the nightly integration controller rereads collaborators, invitations and deploy keys on every run and halts integration on any non-owner collaborator, pending invitation or write-enabled deploy key;
 - provider interfaces may permit issues, discussions, or pull-request proposals, but none confer upstream authority;
 - tracked automation is limited to the read-only repository-content audit, the default-branch, exact-output-allowlisted global index housekeeper, and the owner-authorized nightly analytical integrator under `NIGHTLY_ANALYTICAL_INTEGRATION.md`; every other workflow remains forbidden without separate review;
 - default branch `main`;
