@@ -3319,7 +3319,7 @@
       ],
       "purpose": "populated index generates from index then checks after staging"
     },
-    "test_validate_repository.PhaseValidationTests.test_current_worktree_cli_fails_closed_until_evidence_is_staged": {
+    "test_validate_repository.PhaseValidationTests.test_current_worktree_snapshot_fails_closed_until_evidence_is_staged": {
       "group": "live_corpus",
       "smoke": false,
       "inputs": [
@@ -3327,7 +3327,7 @@
         "tools/tests/test_validate_repository.py",
         "tools/*.py"
       ],
-      "purpose": "current worktree cli fails closed until evidence is staged"
+      "purpose": "current worktree snapshot fails closed until evidence is staged"
     }
   }
 }
