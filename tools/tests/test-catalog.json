@@ -2301,7 +2301,37 @@
         "tools/validate_repository.py",
         "tools/character_index_core.py"
       ],
-      "purpose": "Ignore project-local or unrecognized exception and closure declarations and reject exception fields inside a reviewed closure record."
+      "purpose": "Ignore unrecognized project exception and closure declarations (only the schema-bound run-closure record is read) and reject exception fields inside a reviewed closure record."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_project_run_closure_seals_a_completed_run_like_a_terminal_closure": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "A CLOSED project run closure seals readings, rejects edits and additions, and requires the CLOSED terminal state exactly like a global terminal closure."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_reopened_run_closure_keeps_seals_while_the_next_run_adds_readings": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "A REOPENED run closure keeps every seal and its history check while the next run adds readings under the ordinary OPEN gate."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_project_run_closure_fails_closed_on_malformed_or_duplicate_records": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Reject malformed, nonregular, out-of-project, or unknown-state run closures and a project carrying both a run closure and a global terminal closure."
     },
     "test_project_initiation_gate.ProjectInitiationGateTests.test_current_repository_examples_remain_compatible": {
       "group": "live_corpus",

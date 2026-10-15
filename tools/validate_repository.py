@@ -1404,36 +1404,81 @@ def _load_project_initiation_gate(
             ) is None:
                 errors.append(f"{label}: invalid project root")
                 continue
-            if not isinstance(closure, Mapping) or set(closure) != {
-                "canonical_entrypoint", "completion_commit", "frozen_sequential_artifacts",
-                "supplemental_execution_required",
-            }:
-                errors.append(f"{label}: invalid terminal closure fields")
-                continue
-            commit = closure["completion_commit"]
-            if not isinstance(commit, str) or re.fullmatch(r"[0-9a-f]{40}", commit) is None:
-                errors.append(f"{label}: completion_commit must be a full commit ID")
-            if not isinstance(closure["supplemental_execution_required"], bool):
-                errors.append(f"{label}: supplemental_execution_required must be a boolean")
-            frozen = closure["frozen_sequential_artifacts"]
-            if not isinstance(frozen, Mapping) or not frozen:
-                errors.append(f"{label}: frozen_sequential_artifacts must be a nonempty object")
-                continue
-            for path in [closure["canonical_entrypoint"], *frozen]:
-                if not isinstance(path, str):
-                    errors.append(f"{label}: artifact path must be a string")
-                    continue
-                try:
-                    validate_repository_path(path)
-                except DomainError as exc:
-                    errors.append(f"{label}: invalid artifact path: {exc}")
-                    continue
-                if not path.startswith(prefix) or not path.endswith(".md"):
-                    errors.append(f"{label}: artifact must be Markdown inside its project: {path}")
-            for path, digest in frozen.items():
-                if not isinstance(digest, str) or SHA256_RE.fullmatch(digest) is None:
-                    errors.append(f"{label}: invalid frozen SHA-256 for {path}")
+            errors.extend(_closure_record_errors(label, prefix, closure))
     return (None if errors else control), errors
+
+
+CLOSURE_RECORD_FIELDS = frozenset({
+    "canonical_entrypoint", "completion_commit", "frozen_sequential_artifacts",
+    "supplemental_execution_required",
+})
+# A project's own stop at the end of an authorized run. It seals the readings
+# like a global terminal closure, lives on the project's branch, and is
+# reopened there (state REOPENED keeps the seals) when the owner authorizes
+# the next run. The global record is reserved for the final source boundary.
+PROJECT_RUN_CLOSURE_NAME = ".repository/run-closure.json"
+PROJECT_RUN_CLOSURE_SCHEMA = "anime-manga-ln-games-analysis/project-run-closure/v1"
+PROJECT_RUN_CLOSURE_STATES = frozenset({"CLOSED", "REOPENED"})
+
+
+def _closure_record_errors(label: str, prefix: str, closure: Any) -> list[str]:
+    """Shape checks shared by global terminal closures and project run closures."""
+
+    if not isinstance(closure, Mapping) or set(closure) != CLOSURE_RECORD_FIELDS:
+        return [f"{label}: invalid terminal closure fields"]
+    errors: list[str] = []
+    commit = closure["completion_commit"]
+    if not isinstance(commit, str) or re.fullmatch(r"[0-9a-f]{40}", commit) is None:
+        errors.append(f"{label}: completion_commit must be a full commit ID")
+    if not isinstance(closure["supplemental_execution_required"], bool):
+        errors.append(f"{label}: supplemental_execution_required must be a boolean")
+    frozen = closure["frozen_sequential_artifacts"]
+    if not isinstance(frozen, Mapping) or not frozen:
+        errors.append(f"{label}: frozen_sequential_artifacts must be a nonempty object")
+        return errors
+    for path in [closure["canonical_entrypoint"], *frozen]:
+        if not isinstance(path, str):
+            errors.append(f"{label}: artifact path must be a string")
+            continue
+        try:
+            validate_repository_path(path)
+        except DomainError as exc:
+            errors.append(f"{label}: invalid artifact path: {exc}")
+            continue
+        if not path.startswith(prefix) or not path.endswith(".md"):
+            errors.append(f"{label}: artifact must be Markdown inside its project: {path}")
+    for path, digest in frozen.items():
+        if not isinstance(digest, str) or SHA256_RE.fullmatch(digest) is None:
+            errors.append(f"{label}: invalid frozen SHA-256 for {path}")
+    return errors
+
+
+def _load_project_run_closure(
+    snapshot: GitSnapshot, prefix: str
+) -> tuple[Mapping[str, Any] | None, str | None, list[str]]:
+    """Return a project's own run closure record, its state, and any errors."""
+
+    path = prefix + PROJECT_RUN_CLOSURE_NAME
+    entry = snapshot.get(path)
+    if entry is None:
+        return None, None, []
+    if not entry.qualifies_as_evidence:
+        return None, None, [f"{path}: run closure must be a tracked regular non-LFS blob"]
+    try:
+        record = decode_json(entry.data, path)
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return None, None, [str(exc)]
+    if not isinstance(record, Mapping):
+        return None, None, [f"{path}: run closure must be a JSON object"]
+    errors: list[str] = []
+    if record.get("schema") != PROJECT_RUN_CLOSURE_SCHEMA:
+        errors.append(f"{path}: run closure schema is not recognized")
+    state = record.get("state")
+    if state not in PROJECT_RUN_CLOSURE_STATES:
+        errors.append(f"{path}: run closure state must be CLOSED or REOPENED")
+    body = {key: value for key, value in record.items() if key not in {"schema", "state"}}
+    errors.extend(_closure_record_errors(path, prefix, body))
+    return (None if errors else body), state, errors
 
 
 def project_initiation_baseline_paths(
@@ -1803,13 +1848,19 @@ TERMINAL_STATE_SECTIONS = (
 )
 
 
-def _validate_terminal_corpus(
+def _validate_sealed_readings(
     snapshot: GitSnapshot,
     entrypoint_path: str,
     closure: Mapping[str, Any],
     sequential_paths: set[str],
+    *,
+    exact: bool,
 ) -> list[str]:
-    """Retain only reviewed reading bytes; closure never admits another source."""
+    """Check sealed reading bytes against the completion commit and the candidate.
+
+    exact=True (a closed lock) also requires the sealed set to be the whole
+    sequential corpus; a reopened run may add readings but keeps every seal.
+    """
 
     errors: list[str] = []
     if entrypoint_path != closure["canonical_entrypoint"]:
@@ -1833,11 +1884,16 @@ def _validate_terminal_corpus(
                 errors.append(
                     f"{path}: terminal frozen seal does not match completion_commit tree"
                 )
-    if set(frozen) != sequential_paths:
+    if exact and set(frozen) != sequential_paths:
         errors.append(
             f"{entrypoint_path}: terminal sequential corpus differs from reviewed closure "
             f"(added={sorted(sequential_paths - set(frozen))}, "
             f"missing={sorted(set(frozen) - sequential_paths)})"
+        )
+    elif not exact and set(frozen) - sequential_paths:
+        errors.append(
+            f"{entrypoint_path}: reopened run closure no longer finds sealed readings "
+            f"(missing={sorted(set(frozen) - sequential_paths)})"
         )
     for path, digest in frozen.items():
         entry = snapshot.get(path)
@@ -1847,6 +1903,20 @@ def _validate_terminal_corpus(
             or hashlib.sha256(entry.data).hexdigest() != digest
         ):
             errors.append(f"{path}: terminal frozen reading bytes changed or are missing")
+    return errors
+
+
+def _validate_terminal_corpus(
+    snapshot: GitSnapshot,
+    entrypoint_path: str,
+    closure: Mapping[str, Any],
+    sequential_paths: set[str],
+) -> list[str]:
+    """Retain only reviewed reading bytes; closure never admits another source."""
+
+    errors = _validate_sealed_readings(
+        snapshot, entrypoint_path, closure, sequential_paths, exact=True
+    )
     entry = snapshot.get(entrypoint_path)
     if entry is None or not entry.qualifies_as_evidence:
         return errors  # The initialization contract reports the missing entrypoint.
@@ -2052,6 +2122,17 @@ def validate_project_initiation_gate(
             continue
         registered_prefixes.add(project_prefix)
         closure = closures.get(project_prefix)
+        local, local_state, local_errors = _load_project_run_closure(snapshot, project_prefix)
+        errors.extend(local_errors)
+        if local is not None and closure is not None:
+            errors.append(
+                f"{project_prefix}: a project run closure and a global terminal closure cannot "
+                "both be present; the global closure replaces the project record"
+            )
+            local = None
+        if local is not None and local_state == "CLOSED":
+            closure = local
+        reopened = local if local is not None and local_state == "REOPENED" else None
         baseline_present = any(path.startswith(project_prefix) for path in baseline_paths)
         explicit_marker = row.get(marker_field)
         if explicit_marker is not None and explicit_marker != marker_value:
@@ -2068,7 +2149,7 @@ def validate_project_initiation_gate(
         terminal_sequential: set[str] = set()
         for path, candidate in snapshot.entries.items():
             if (
-                (path in baseline_paths and closure is None)
+                (path in baseline_paths and closure is None and reopened is None)
                 or not path.startswith(project_prefix)
                 or not path.endswith(".md")
                 or not candidate.qualifies_as_evidence
@@ -2093,15 +2174,22 @@ def validate_project_initiation_gate(
         ].startswith(git_native_prefix)
         strict = (
             not baseline_present or explicit_marker == marker_value
-            or git_native or closure is not None
+            or git_native or closure is not None or reopened is not None
         )
         entrypoint = row.get("canonical_entrypoint")
         if closure is not None:
             errors.extend(
                 _validate_terminal_corpus(snapshot, entrypoint, closure, terminal_sequential)
             )
+        if reopened is not None:
+            errors.extend(
+                _validate_sealed_readings(
+                    snapshot, entrypoint, reopened, terminal_sequential, exact=False
+                )
+            )
         if strict and (
-            not baseline_present or explicit_marker == marker_value or new_sequential or closure is not None
+            not baseline_present or explicit_marker == marker_value or new_sequential
+            or closure is not None or reopened is not None
         ):
             errors.extend(
                 _validate_initialization_contract(
