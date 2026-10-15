@@ -2985,4 +2985,54 @@
       "git_blob_oid_of_actual_bytes": "ba1e3788e53e76bd558b25f1da52d4dd20663333"
     }
   }
+,
+  "current_O094_source_act_precision_and_corrected_operational_aliases_V1": {
+    "schema": "CURRENT_O094_TEACHER_READING_ACCESS_ACT_CORRECTION_AND_ORIGINAL_RECEIVING_SCOPE_QUALIFICATION_V1",
+    "corrective_author": "next_cast_source_preparation",
+    "state": "AUTHOR_CURRENT_CORRECTIVE_METADATA_WITH_ROOT_APPROVED_SOURCE_INTERPRETATION;CURRENT_CORRECTED_BYTE_QA_ROOT_ACCEPTANCE_AND_LIVE_HEAD_RECONCILIATION_PENDING",
+    "fixed_audit_source_head": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+    "accepted_finding_private_witness": {
+      "private_witness_id": "CURRENT_FIXED6BF_GW094_AND_AP094_SUPPORTED_READING_ACCESS_ACT_FINDING_AND_EXACT_THREE_VALUE_PROPOSAL_V1",
+      "bytes": 10265,
+      "sha256": "655e14a8e13979b6a123ed9f9e9cd08c2ffc322d5095a998d6fc7c97131a5309",
+      "git_blob_oid_of_actual_bytes": "919e089d13e7bd89d99bf9f8fed7b58dcd61e0ca"
+    },
+    "source_act": "Miyo refuses Teacher's request to read one of her wanted romance novels. This received locus does not assert refusal to write or to share authored romance writing.",
+    "exact_maintained_source_scope": {
+      "source_id": "EVENT850",
+      "physical_selected_lines": "81–100",
+      "decisive_physical_line": 98,
+      "normal_local_locus": "007:u0063–0074",
+      "original_complete_carrier_tuple": {
+        "bytes": 28418,
+        "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+        "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83"
+      },
+      "grade": "ADMITTED_MAINTAINED_ANALYTICAL_SELECTED_CONTEXT",
+      "author_actual_selected_receiving": "8652f7",
+      "whole139_primary_native_raw_AV_normal105_or_new_admission_credit": 0
+    },
+    "frozen_O094_and_old_review_interpretation": "Complete original common105 source/report records and prior QA/ROOT reasons remain literal at their original receiving scopes. For current O094 reuse, a historical writing/sharing-refusal phrase is interpreted only as the maintained Teacher reading-access refusal; no old writer/reviewer/ROOT decision is rewritten or claimed as a new review of corrected bytes.",
+    "ordinary_goods": "Wanted genre/typewriter/material,ordinary company,food/sweets and artistic recognition remain intrinsic evidence. Existing zero earnings,coercion,trust,environment and finite outcome limits are not changed.",
+    "all104_other_current_purposes_body_source_questions_rivals_ends_gaps_and_grades": "UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "original_QA_and_ROOT_decisions": "PRESERVED_LITERAL_DATED_PRE_CORRECTION_SCOPE;NO_FRESH_INDEPENDENT_REVIEW_OR_ROOT_BYTE_ADOPTION",
+    "R_Git_provider_or_new_package_named_source_identity_model_count_merge": 0,
+    "role": "CURRENT_REGISTER_SOURCE_USE_OVERRIDE",
+    "current_corrected_part_binding": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_PURPOSES_AP071_AP104_V1.json",
+      "bytes": 218766,
+      "sha256": "6c3a0dec558f85dc415cb27762ecfc159cc34d500ae34abe83c3b72f58d5b871",
+      "git_blob_oid_of_actual_bytes": "f67ab9f06d7fa32ce01dccd9c6c7b827ad9bdf10"
+    },
+    "canonical_neighbor_paths_no_hash_claim": [
+      "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_SOURCE_PURPOSE_INDEX_V1.json",
+      "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_COMPLETE_CLAIM_SOURCE_SCOPE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+      "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_SAVED_BODY_AUTHOR_VERIFICATION_V1.json",
+      "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json"
+    ],
+    "original_operative_V4_tuple_graph_role": "All existing operative_public_current_V4_qualification and original author checks remain exact pre-O094 snapshots. This appended qualification alone supplies the corrected current part. Old reciprocal index/register/current-author hashes are historical; canonical neighbor routes stay stable and no selfhash cycle is created.",
+    "current_corrective_author_actual_receiving": "a491af approved proposal;8652f7 selected maintained81–100;016790 core3 complete scalar readback"
+  }
 }
