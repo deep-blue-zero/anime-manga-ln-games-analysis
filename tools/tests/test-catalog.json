@@ -2351,7 +2351,17 @@
         "tools/validate_repository.py",
         "tools/character_index_core.py"
       ],
-      "purpose": "Seals in main's run closure survive deletion and re-sealing attempts unless an owner-merged amendment names the exact new digest; conversion to a terminal closure keeps them."
+      "purpose": "Seals in main's run closure survive deletion, re-sealing and root moves unless an owner-merged release names the exact sealed digest; a valid release lets the project leave its run stop, and conversion to a terminal closure keeps the seals."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_run_closure_needs_main_and_cannot_seal_a_nested_root": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "The gate fails closed without refs/remotes/origin/main, excludes a nested registered root's readings from its parent's seal set, and rejects a parent record that seals them."
     },
     "test_project_initiation_gate.ProjectInitiationGateTests.test_run_closure_amendments_and_orphans_fail_closed": {
       "group": "regression",
@@ -2361,7 +2371,7 @@
         "tools/validate_repository.py",
         "tools/character_index_core.py"
       ],
-      "purpose": "Malformed run_closure_amendments entries and run closures under unregistered roots fail validation."
+      "purpose": "Each malformed run_closure_amendments release fails with its specific error, and a run closure under an unregistered root fails validation."
     },
     "test_project_initiation_gate.ProjectInitiationGateTests.test_current_repository_examples_remain_compatible": {
       "group": "live_corpus",
