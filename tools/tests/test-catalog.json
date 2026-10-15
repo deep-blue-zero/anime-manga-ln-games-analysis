@@ -1778,7 +1778,7 @@
         "governance/schemas/*",
         "governance/repository-controls/*"
       ],
-      "purpose": "protection requires strict status and owner enforcement"
+      "purpose": "the active main ruleset requires strict trusted status and verifiable owner/admin enforcement"
     },
     "test_nightly_integration.ControllerTests.test_scope_allows_only_named_root_and_reviewed_shared_paths": {
       "group": "synthetic_git",
@@ -3599,6 +3599,86 @@
         "governance/repository-controls/project-initiation-gate.json"
       ],
       "purpose": "A final admission cannot rely on prior structured OPEN/active state that conflicts with a prose CLOSED lock, before or after integration."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_requires_active_pinned_identity_and_exact_target": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Missing, disabled, unpinned or incorrectly targeted main rulesets fail closed."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_rejects_bypass_or_unverifiable_owner_enforcement": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Every bypass actor and absent or permissive owner/admin enforcement blocks integration."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_requires_every_preservation_and_audit_rule": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Deletion, non-fast-forward, linear-history and audit rules remain mandatory; malformed or duplicate rules fail."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_requires_strict_audit_from_trusted_app": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "The required integration audit must be strict and bound to trusted GitHub Actions app 15368."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_requires_enabled_squash_without_merge_fallback": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Required linear history selects enabled squash merging without a merge-commit fallback."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_is_checked_before_writes_and_rechecked_before_merge": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Apply verifies the pinned main ruleset before writes and rechecks it before the protected merge."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_drift_stops_the_protected_merge": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "An unsafe main ruleset change after preflight blocks the merge without mutation."
+    },
+    "test_nightly_integration.ControllerTests.test_unreadable_main_ruleset_stops_apply_without_mutation": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Unreadable or missing pinned ruleset stops apply without fallback, push or remote mutation."
     }
   }
 }
