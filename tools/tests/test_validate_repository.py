@@ -4,6 +4,7 @@ import hashlib
 import importlib.util
 import json
 import os
+import random
 import shutil
 import stat
 import subprocess
@@ -18,6 +19,7 @@ ROOT = TOOLS.parent
 sys.path.insert(0, str(TOOLS))
 
 from character_index_core import (  # noqa: E402
+    AuthorityGraph,
     DomainError,
     GitSnapshot,
     SnapshotEntry,
@@ -27,8 +29,13 @@ from validate_repository import (  # noqa: E402
     G3_BOUND_COMMIT,
     G3_BOUND_TREE,
     G3_MANIFEST,
+    HAZARD_PREFILTERS,
     PROTECTED_HASHES,
+    PUBLICATION_PATTERNS,
+    SECRET_PATTERNS,
     active_migration_baseline_commit,
+    commit_identity_policy,
+    hazard_matches,
     identity_revision_for_snapshot,
     read_manifest_from_snapshot,
     require_g3_selection,
@@ -40,11 +47,14 @@ from validate_repository import (  # noqa: E402
     validate_global_index_automation,
     validate_bytes,
     validate_exact_set,
+    validate_generated_index,
     validate_markdown_links,
+    validate_missing_entrypoint_allowlist,
     validate_native_sheets,
     validate_named_whitespace_exceptions,
     validate_protected,
     validate_series_registry,
+    validate_study_registry,
     worktree_paths,
     worktree_snapshot,
 )
@@ -939,6 +949,20 @@ class PhaseValidationTests(unittest.TestCase):
         failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path, ".github/workflows/global-index-housekeeping.yml"]})
         self.assertIn("repository-audit workflow missing required contract:       - character-registry", failures)
 
+    def test_repository_audit_requires_every_agent_branch_trigger(self) -> None:
+        path = ".github/workflows/repository-audit.yml"
+        source = (ROOT / path).read_bytes()
+        for line in (b'      - "codex/**"\n', b'      - "chatgpt/**"\n', b'      - "claude/**"\n'):
+            with self.subTest(line=line):
+                self.assertIn(line, source)
+                changed = source.replace(line, b"", 1)
+                snapshot = GitSnapshot(ROOT, "IN_MEMORY", {path: SnapshotEntry(path, "100644", changed)})
+                failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path]})
+                self.assertIn(
+                    "repository-audit workflow missing required contract: " + line.decode().rstrip("\n"),
+                    failures,
+                )
+
     def test_repository_audit_workflow_rejects_mutation_capability(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         baseline = (ROOT / path).read_bytes()
@@ -1125,19 +1149,37 @@ class PhaseValidationTests(unittest.TestCase):
             git("add", "--", "fixture.txt")
             git("commit", "--quiet", "-m", "owner")
             owner_commit = git("rev-parse", "HEAD")
+            (temporary / "fixture.txt").write_text("server\n", encoding="utf-8", newline="\n")
+            git("add", "--", "fixture.txt")
+            git("commit", "--quiet", "--author", "GitHub <noreply@github.com>", "-m", "server-authored")
+            server_authored = git("rev-parse", "HEAD")
             git("config", "user.name", "Other")
             git("config", "user.email", "other@example.invalid")
             (temporary / "fixture.txt").write_text("other\n", encoding="utf-8", newline="\n")
             git("add", "--", "fixture.txt")
             git("commit", "--quiet", "-m", "other")
+            owner = {"name": "Owner", "email": "owner@example.invalid"}
+            server = {"name": "GitHub", "email": "noreply@github.com"}
             policy = {
-                "allowed_commit_identities": [
-                    {"name": "Owner", "email": "owner@example.invalid"}
-                ]
+                "allowed_author_identities": [owner],
+                "allowed_committer_identities": [owner, server],
+                "allowed_commit_identities": [owner, server],
             }
             selected = identity_revision_for_snapshot("commit", owner_commit)
             self.assertEqual(selected, owner_commit)
             self.assertEqual(validate_commit_identities(temporary, policy, selected), [])
+            self.assertEqual(
+                validate_commit_identities(temporary, policy, server_authored),
+                ["disallowed Git author identity: GitHub <noreply@github.com>"],
+            )
+            # The historical G3 policy lists only the compatibility set.
+            self.assertEqual(
+                validate_commit_identities(
+                    temporary, {"allowed_commit_identities": [owner, server]}, server_authored,
+                    role_split=False,
+                ),
+                [],
+            )
             self.assertTrue(
                 validate_commit_identities(
                     temporary,
@@ -1151,6 +1193,144 @@ class PhaseValidationTests(unittest.TestCase):
                 function(path)
 
             shutil.rmtree(temporary, onexc=clear_readonly)
+
+    def test_commit_identity_policy_separates_author_and_committer_roles(self) -> None:
+        owner = {"name": "Owner", "email": "owner@example.invalid"}
+        server = {"name": "GitHub", "email": "noreply@github.com"}
+        good = {
+            "allowed_author_identities": [owner],
+            "allowed_committer_identities": [owner, server],
+            "allowed_commit_identities": [owner, server],
+        }
+        authors, committers, errors = commit_identity_policy(good)
+        self.assertEqual(errors, [])
+        self.assertEqual(authors, {("Owner", "owner@example.invalid")})
+        self.assertEqual(committers, {("Owner", "owner@example.invalid"), ("GitHub", "noreply@github.com")})
+        variants = (
+            ({"allowed_author_identities": [owner, server], "allowed_commit_identities": [owner, server]},
+             "GitHub server identity must never be an allowed author"),
+            ({"allowed_committer_identities": [owner], "allowed_commit_identities": [owner]},
+             "GitHub server identity must be an allowed committer"),
+            ({"allowed_commit_identities": [owner]},
+             "allowed_commit_identities must equal the compatibility union of "
+             "allowed_author_identities and allowed_committer_identities"),
+            ({"allowed_author_identities": []}, "allowed_author_identities must be a nonempty list"),
+            ({"allowed_author_identities": [owner, owner]}, "duplicate identity in allowed_author_identities"),
+            ({"allowed_author_identities": [{"name": "Owner"}]},
+             "malformed allowed_author_identities entry: {'name': 'Owner'}"),
+        )
+        for change, expected in variants:
+            with self.subTest(expected=expected):
+                self.assertIn(expected, commit_identity_policy({**good, **change})[2])
+        live = json.loads((ROOT / "governance/repository-controls/tracked-file-policy.json").read_text(encoding="utf-8"))
+        self.assertEqual(commit_identity_policy(live)[2], [])
+
+    def test_missing_entrypoints_must_equal_the_reviewed_allowlist(self) -> None:
+        def registry(rows: list) -> GitSnapshot:
+            data = json.dumps({"series": rows}).encode("utf-8") + b"\n"
+            path = "series/registry.json"
+            return GitSnapshot(ROOT, "IN_MEMORY", {path: SnapshotEntry(path, "100644", data)})
+
+        missing = {"series_id": "alpha", "canonical_entrypoint_status": "MISSING"}
+        present = {"series_id": "beta", "canonical_entrypoint_status": "PRESENT_VERIFIED"}
+        policy = {"allowed_missing_canonical_entrypoints": ["alpha"]}
+        self.assertEqual(validate_missing_entrypoint_allowlist(registry([missing, present]), policy), [])
+        self.assertEqual(
+            validate_missing_entrypoint_allowlist(registry([present]), policy),
+            ["canonical-entrypoint MISSING set differs from reviewed allowlist; allowed=['alpha'], actual=[]"],
+        )
+        self.assertEqual(
+            validate_missing_entrypoint_allowlist(
+                registry([missing, {**present, "canonical_entrypoint_status": "MISSING"}]), policy
+            ),
+            ["canonical-entrypoint MISSING set differs from reviewed allowlist; "
+             "allowed=['alpha'], actual=['alpha', 'beta']"],
+        )
+        self.assertEqual(
+            validate_missing_entrypoint_allowlist(
+                registry([{"canonical_entrypoint_status": "MISSING"}]),
+                {"allowed_missing_canonical_entrypoints": []},
+            ),
+            ["MISSING series route without series_id"],
+        )
+        for bad in (None, "alpha", ["alpha", "alpha"], [""], [1]):
+            with self.subTest(allowlist=bad):
+                self.assertEqual(
+                    validate_missing_entrypoint_allowlist(
+                        registry([missing]), {"allowed_missing_canonical_entrypoints": bad}
+                    ),
+                    ["allowed_missing_canonical_entrypoints must be a unique string list"],
+                )
+
+    def test_hazard_prefilters_never_skip_a_match(self) -> None:
+        patterns = {**SECRET_PATTERNS, **PUBLICATION_PATTERNS}
+        self.assertLessEqual(set(HAZARD_PREFILTERS), set(patterns))
+        # Positive samples are assembled at run time so this file never matches them.
+        samples = {
+            "GitHub token": [b"gh" + b"s_" + b"A1" * 12, b"x gh" + b"r_" + b"z" * 20 + b" y"],
+            "AWS access key": [b"AK" + b"IA" + b"ABCDEFGHIJ012345"],
+            "Google API key": [b"AI" + b"za" + b"A" * 35],
+            "Google Drive URL": [b"HTTPS://" + b"DRIVE.Google" + b".com/x", b"https://" + b"docs.google" + b".com"],
+            "local absolute path": [b"see C" + b":\\Users", b"d" + b":/tmp", b"FILE" + b"://host/x"],
+            "personal email address": [
+                b"Someone" + b"@Gmail" + b".COM", b"a.b" + b"@googlemail" + b".co", b"x" + b"@yahoo" + b".fr",
+            ],
+        }
+        self.assertEqual(set(samples), set(HAZARD_PREFILTERS))
+        rng = random.Random(20261015)
+        noise = [b" ", b"\n", b"a", b"Z", b"0", b"_", b"-", b".", b":", b"/", b"\\", b"@", b"gh", b"google"]
+        for label, values in samples.items():
+            noisy_hits = 0
+            for value in values:
+                with self.subTest(label=label, value=value):
+                    self.assertIn(label, hazard_matches(value, patterns))
+                for _ in range(50):
+                    # Noise may legitimately break a match (a word character
+                    # defeats a trailing \b); the filtered and unfiltered scans
+                    # must still agree either way.
+                    data = (
+                        b"".join(rng.choice(noise) for _ in range(rng.randint(0, 6)))
+                        + value
+                        + b"".join(rng.choice(noise) for _ in range(rng.randint(0, 6)))
+                    )
+                    expected = [name for name, pattern in patterns.items() if pattern.search(data)]
+                    noisy_hits += label in expected
+                    with self.subTest(label=label, data=data):
+                        self.assertEqual(hazard_matches(data, patterns), expected)
+            self.assertGreater(noisy_hits, 0, label)
+        fragments = noise + [
+            b"p_", b"s_", b"AK", b"IA", b"AI", b"za", b"https://", b"drive.", b"docs.", b".com",
+            b"gmail", b"outlook", b"hotmail", b"yahoo", b"file", b"C", b"A" * 20, b"ABCDEFGHIJ012345",
+            b"DRIVE", b"GMAIL", b"FILE", b"HTTPS",
+        ]
+        for _ in range(5000):
+            data = b"".join(rng.choice(fragments) for _ in range(rng.randint(1, 40)))
+            expected = [name for name, pattern in patterns.items() if pattern.search(data)]
+            self.assertEqual(hazard_matches(data, patterns), expected, data)
+
+    def test_one_authority_graph_serves_each_consumer(self) -> None:
+        snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        graph = AuthorityGraph(snapshot)
+        with mock.patch("validate_repository.AuthorityGraph", side_effect=AssertionError("graph rebuilt")):
+            self.assertEqual(validate_series_registry(snapshot, graph), [])
+            self.assertEqual(validate_study_registry(snapshot, graph), [])
+            self.assertEqual(validate_generated_index(snapshot, "commit", graph), [])
+
+    def test_routing_output_set_has_one_definition(self) -> None:
+        import analytical_preflight
+        import nightly_integration
+        import update_repository_indexes
+        import validate_repository
+
+        expected = frozenset({
+            "governance/MANGA_ANIME_CORPUS_INDEX.md", "series/README.md", "series/registry.json",
+            "studies/README.md", "studies/registry.json",
+        })
+        self.assertEqual(update_repository_indexes.ROUTING_OUTPUTS, expected)
+        self.assertIs(analytical_preflight.ROUTING_OUTPUTS, update_repository_indexes.ROUTING_OUTPUTS)
+        self.assertEqual(validate_repository.GLOBAL_AUTOMATION_WRITE_PATHS, set(expected))
+        # The nightly controller is standalone and hash-bound, so it keeps a bound copy.
+        self.assertEqual(nightly_integration.GENERATED, expected)
 
     def test_percent_encoded_markdown_paths_decode_before_resolution(self) -> None:
         target = "series/example/A file (1)%.md"

@@ -47,11 +47,18 @@ class FakeAPI:
         self.post_failure = False
         self.merge_error = False
         self.pr = pull()
+        self.collaborators = [{'login': OWNER}]
+        self.invitations = []
+        self.access_error = None
 
     def head(self, branch):
         return self.main if branch == 'main' else self.source
 
     def pages(self, path):
+        if path in ('collaborators?affiliation=all', 'invitations'):
+            if self.access_error:
+                raise ApiError('GET', path, self.access_error)
+            return self.collaborators if path.startswith('collaborators') else self.invitations
         if path == 'branches':
             return [{'name': name, 'commit': {'sha': S}} for name in ('series/a', 'codex/repair', 'character-registry', 'studies/b')]
         return [self.pr]
@@ -138,6 +145,43 @@ class ControllerTests(unittest.TestCase):
                 self.assertEqual(GitHub('test', preview=True).request('GET', path), {})
                 request = transport.call_args.args[0]
                 self.assertEqual(request.full_url, expected)
+
+    def test_apply_requires_owner_only_access_before_any_write(self):
+        worker = self.worker()
+        self.assertEqual(worker.preflight(), B)
+        self.assertEqual(worker.access, 'VERIFIED_OWNER_ONLY')
+        cases = (
+            ('collaborators', [{'login': OWNER}, {'login': 'someone-else'}],
+             'Repository access is not owner-only: 1 other collaborator(s) and 0 pending invitation(s)'),
+            ('invitations', [{'id': 1}],
+             'Repository access is not owner-only: 0 other collaborator(s) and 1 pending invitation(s)'),
+            ('access_error', 403,
+             'Collaborators and invitations are unreadable; owner-only access is unverified'),
+        )
+        for field, value, message in cases:
+            with self.subTest(field=field):
+                api = FakeAPI()
+                setattr(api, field, value)
+                worker = self.worker(api)
+                with self.assertRaisesRegex(Halt, '^' + message.replace('(', r'\(').replace(')', r'\)') + '$'):
+                    worker.preflight()
+                self.assertEqual(api.writes, [])
+
+    def test_preview_records_access_without_halting(self):
+        cases = (
+            ('access_error', 403, 'UNVERIFIED: HTTP 403'),
+            ('collaborators', [{'login': 'someone-else'}],
+             'NOT_OWNER_ONLY: 1 other collaborator(s) and 0 pending invitation(s)'),
+            ('invitations', [], 'VERIFIED_OWNER_ONLY'),
+        )
+        for field, value, expected in cases:
+            with self.subTest(field=field):
+                api = FakeAPI()
+                setattr(api, field, value)
+                worker = self.worker(api, preview=True)
+                self.assertEqual(worker.preflight(), B)
+                self.assertEqual(worker.access, expected)
+                self.assertEqual(api.writes, [])
 
     def test_preview_transport_rejects_every_mutation(self):
         for method in ('POST', 'PUT', 'PATCH', 'DELETE'):
@@ -644,6 +688,7 @@ class PreviewResultTests(unittest.TestCase):
         result, report, output, worker = self.invoke('preview', Blocked('Audit pending 50%\r\nsecond line'))
         self.assertEqual(result, 0)
         self.assertTrue(report['preview'])
+        self.assertEqual(report['access_check'], 'NOT_CHECKED')
         self.assertEqual(report['branches'][0]['outcome'], 'blocked')
         self.assertEqual(worker.process.call_count, 2)
         self.assertIn('::warning::series/a: Audit pending 50%25%0D%0Asecond line\n', output)

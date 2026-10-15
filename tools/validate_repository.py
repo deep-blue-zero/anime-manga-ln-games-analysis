@@ -9,8 +9,6 @@ import json
 import os
 import re
 import shlex
-import subprocess
-import sys
 import unicodedata
 from pathlib import Path, PurePosixPath
 from typing import Any, Mapping
@@ -23,7 +21,6 @@ from character_index_core import (
     GitSnapshot,
     decode_json,
     decode_jsonl_with_lines,
-    load_json,
     render_schema_diagnostics,
     run_git,
     schema_diagnostics,
@@ -33,6 +30,7 @@ from character_index_core import (
 )
 from generate_character_index import render as render_character_index
 from audit_timing import AuditTimer, report_path, write_report
+from update_repository_indexes import ROUTING_OUTPUTS, expected_outputs
 
 
 WINDOWS_RESERVED = {
@@ -57,6 +55,23 @@ PUBLICATION_PATTERNS = {
     "personal email address": re.compile(
         rb"\b[A-Z0-9._%+-]+@(?:gmail|googlemail|outlook|hotmail|yahoo)\.[A-Z]{2,}\b",
         re.IGNORECASE,
+    ),
+}
+# Exact prefilters for the hazard patterns above: every match of a pattern
+# contains at least one of its literal needles (in ASCII-lowercased bytes when
+# the second field is true, which is how bytes IGNORECASE matching folds case).
+# A file without any needle cannot match, so its regex search is skipped. A
+# pattern without an entry is always searched.
+HAZARD_PREFILTERS: dict[str, tuple[tuple[bytes, ...], bool]] = {
+    "GitHub token": ((b"ghp_", b"gho_", b"ghu_", b"ghs_", b"ghr_"), False),
+    "AWS access key": ((b"AKIA",), False),
+    "Google API key": ((b"AIza",), False),
+    # Split literals keep this table from matching the pattern it filters.
+    "Google Drive URL": ((b"https://drive" b".google.com", b"https://docs" b".google.com"), True),
+    "local absolute path": ((b":/", b":\\"), False),
+    "personal email address": (
+        (b"@gmail.", b"@googlemail.", b"@outlook.", b"@hotmail.", b"@yahoo."),
+        True,
     ),
 }
 MARKDOWN_LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
@@ -108,13 +123,7 @@ GLOBAL_AUTOMATION_POLICY_SCHEMA = (
 AUDIT_WORKFLOW_PATH = ".github/workflows/repository-audit.yml"
 HOUSEKEEPING_WORKFLOW_PATH = ".github/workflows/global-index-housekeeping.yml"
 NIGHTLY_WORKFLOW_PATH = ".github/workflows/nightly-integration.yml"
-GLOBAL_AUTOMATION_WRITE_PATHS = {
-    "governance/MANGA_ANIME_CORPUS_INDEX.md",
-    "series/README.md",
-    "series/registry.json",
-    "studies/README.md",
-    "studies/registry.json",
-}
+GLOBAL_AUTOMATION_WRITE_PATHS = set(ROUTING_OUTPUTS)
 DJFW_TSV_WHITESPACE_ATTRIBUTE_RULE = (
     '"studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and '
     'Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/*.tsv" whitespace=-blank-at-eol'
@@ -267,6 +276,7 @@ def validate_audit_workflow(
         "      - character-registry",
         '      - "codex/**"',
         '      - "chatgpt/**"',
+        '      - "claude/**"',
         '      - "series/**"',
         '      - "studies/**"',
         "  repository_dispatch:",
@@ -859,6 +869,27 @@ def validate_named_whitespace_exceptions(
     return errors
 
 
+def hazard_matches(data: bytes, patterns: Mapping[str, re.Pattern[bytes]]) -> list[str]:
+    """Return the labels of hazard patterns found in data, skipping exact non-candidates."""
+
+    found: list[str] = []
+    lowered: bytes | None = None
+    for label, pattern in patterns.items():
+        prefilter = HAZARD_PREFILTERS.get(label)
+        if prefilter is not None:
+            needles, fold_case = prefilter
+            haystack = data
+            if fold_case:
+                if lowered is None:
+                    lowered = data.lower()
+                haystack = lowered
+            if not any(needle in haystack for needle in needles):
+                continue
+        if pattern.search(data):
+            found.append(label)
+    return found
+
+
 def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str) -> list[str]:
     errors: list[str] = []
     threshold = int(policy["review_threshold_bytes"])
@@ -880,12 +911,10 @@ def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str)
             errors.append(f"named text exception tuple mismatch: {path}")
         if len(data) > threshold and not exception_matches:
             errors.append(f"{phase} file exceeds 1 MiB review threshold: {path} ({len(data)} bytes)")
-        for label, pattern in SECRET_PATTERNS.items():
-            if pattern.search(data):
-                errors.append(f"possible {label} in {path}")
-        for label, pattern in PUBLICATION_PATTERNS.items():
-            if pattern.search(data):
-                errors.append(f"publication hazard ({label}) in {path}")
+        for label in hazard_matches(data, SECRET_PATTERNS):
+            errors.append(f"possible {label} in {path}")
+        for label in hazard_matches(data, PUBLICATION_PATTERNS):
+            errors.append(f"publication hazard ({label}) in {path}")
         suffix = Path(path).suffix.casefold()
         if suffix in text_extensions or Path(path).name in special_text:
             allow_bom = bool(exception_matches and exception["allow_utf8_bom"])
@@ -994,10 +1023,74 @@ def validate_markdown_links(snapshot: GitSnapshot) -> list[str]:
     return errors
 
 
-def validate_commit_identities(root: Path, policy: Mapping[str, Any], revision: str) -> list[str]:
-    allowed = {(item["name"], item["email"]) for item in policy["allowed_commit_identities"]}
-    raw = run_git(root, "log", revision, "--format=%an%x1f%ae%x1f%cn%x1f%ce%x1e")
+GITHUB_SERVER_IDENTITY = ("GitHub", "noreply@github.com")
+
+
+def _identity_set(policy: Mapping[str, Any], field: str, errors: list[str]) -> set[tuple[str, str]]:
+    rows = policy.get(field)
+    if not isinstance(rows, list) or not rows:
+        errors.append(f"{field} must be a nonempty list")
+        return set()
+    parsed: set[tuple[str, str]] = set()
+    valid_rows = 0
+    for row in rows:
+        if (
+            not isinstance(row, Mapping)
+            or set(row) != {"name", "email"}
+            or not all(isinstance(row[key], str) and row[key] for key in ("name", "email"))
+        ):
+            errors.append(f"malformed {field} entry: {row!r}")
+            continue
+        valid_rows += 1
+        parsed.add((row["name"], row["email"]))
+    if len(parsed) != valid_rows:
+        errors.append(f"duplicate identity in {field}")
+    return parsed
+
+
+def commit_identity_policy(
+    policy: Mapping[str, Any],
+) -> tuple[set[tuple[str, str]], set[tuple[str, str]], list[str]]:
+    """Return the allowed author and committer sets and any policy-shape errors.
+
+    Authors and committers are separate roles: the GitHub server identity may
+    commit (squash merges) but never author. allowed_commit_identities is kept
+    as the compatibility union of the two lists.
+    """
+
     errors: list[str] = []
+    authors = _identity_set(policy, "allowed_author_identities", errors)
+    committers = _identity_set(policy, "allowed_committer_identities", errors)
+    compatibility = _identity_set(policy, "allowed_commit_identities", errors)
+    if GITHUB_SERVER_IDENTITY in authors:
+        errors.append("GitHub server identity must never be an allowed author")
+    if GITHUB_SERVER_IDENTITY not in committers:
+        errors.append("GitHub server identity must be an allowed committer")
+    if compatibility != authors | committers:
+        errors.append(
+            "allowed_commit_identities must equal the compatibility union of "
+            "allowed_author_identities and allowed_committer_identities"
+        )
+    return authors, committers, errors
+
+
+def validate_commit_identities(
+    root: Path, policy: Mapping[str, Any], revision: str, *, role_split: bool = True
+) -> list[str]:
+    """Check every reachable author and committer against the policy.
+
+    The historical G3 policy predates the role split and lists only the
+    compatibility set, so G3 validation passes role_split=False.
+    """
+
+    if role_split:
+        allowed_authors, allowed_committers, errors = commit_identity_policy(policy)
+    else:
+        errors = []
+        allowed_authors = allowed_committers = _identity_set(
+            policy, "allowed_commit_identities", errors
+        )
+    raw = run_git(root, "log", revision, "--format=%an%x1f%ae%x1f%cn%x1f%ce%x1e")
     for record in raw.decode("utf-8", "strict").split("\x1e"):
         record = record.strip("\r\n")
         if not record:
@@ -1008,10 +1101,48 @@ def validate_commit_identities(root: Path, policy: Mapping[str, Any], revision: 
             continue
         author = (fields[0], fields[1])
         committer = (fields[2], fields[3])
-        if author not in allowed:
-            errors.append(f"non-owner Git author identity: {author[0]} <{author[1]}>")
-        if committer not in allowed:
-            errors.append(f"non-owner Git committer identity: {committer[0]} <{committer[1]}>")
+        if author not in allowed_authors:
+            errors.append(f"disallowed Git author identity: {author[0]} <{author[1]}>")
+        if committer not in allowed_committers:
+            errors.append(f"disallowed Git committer identity: {committer[0]} <{committer[1]}>")
+    return errors
+
+
+def validate_missing_entrypoint_allowlist(
+    snapshot: GitSnapshot, policy: Mapping[str, Any]
+) -> list[str]:
+    """Bind MISSING series entrypoints to the reviewed allowlist, in both directions."""
+
+    allowed = policy.get("allowed_missing_canonical_entrypoints")
+    if (
+        not isinstance(allowed, list)
+        or any(not isinstance(value, str) or not value for value in allowed)
+        or len(allowed) != len(set(allowed))
+    ):
+        return ["allowed_missing_canonical_entrypoints must be a unique string list"]
+    entry = snapshot.get("series/registry.json")
+    if entry is None:
+        return ["series/registry.json is absent; MISSING entrypoints cannot be checked"]
+    try:
+        registry = decode_json(entry.data, "series/registry.json")
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return [str(exc)]
+    rows = registry.get("series", []) if isinstance(registry, Mapping) else []
+    errors: list[str] = []
+    actual: set[str] = set()
+    for row in rows if isinstance(rows, list) else []:
+        if not isinstance(row, Mapping) or row.get("canonical_entrypoint_status") != "MISSING":
+            continue
+        series_id = row.get("series_id")
+        if not isinstance(series_id, str) or not series_id:
+            errors.append("MISSING series route without series_id")
+            continue
+        actual.add(series_id)
+    if actual != set(allowed):
+        errors.append(
+            "canonical-entrypoint MISSING set differs from reviewed allowlist; "
+            f"allowed={sorted(allowed)}, actual={sorted(actual)}"
+        )
     return errors
 
 
@@ -1060,7 +1191,9 @@ def validate_protected(snapshot: GitSnapshot) -> list[str]:
     return errors
 
 
-def validate_generated_index(snapshot: GitSnapshot, snapshot_kind: str) -> list[str]:
+def validate_generated_index(
+    snapshot: GitSnapshot, snapshot_kind: str, authority: AuthorityGraph | None = None
+) -> list[str]:
     registry = snapshot.get("characters/registry.jsonl")
     output = snapshot.get("CHARACTER_ANALYSIS_INDEX.md")
     if registry is None or output is None:
@@ -1076,7 +1209,8 @@ def validate_generated_index(snapshot: GitSnapshot, snapshot_kind: str) -> list[
             return [
                 "worktree bytes cannot establish materialization; use an exact Git index or commit snapshot"
             ]
-        rendered = render_character_index(records, AuthorityGraph(snapshot)).encode("utf-8")
+        graph = authority if authority is not None else AuthorityGraph(snapshot)
+        rendered = render_character_index(records, graph).encode("utf-8")
     except (DomainError, UnicodeDecodeError, ValueError) as exc:
         return [f"unable to render character index: {exc}"]
     if output.data != rendered:
@@ -1084,37 +1218,17 @@ def validate_generated_index(snapshot: GitSnapshot, snapshot_kind: str) -> list[
     return []
 
 
-def validate_generated_repository_indexes(
-    root: Path, snapshot_kind: str, commit: str | None, *, snapshot: GitSnapshot | None = None
-) -> list[str]:
-    if snapshot is not None:
-        from update_repository_indexes import expected_outputs
-
-        try:
-            stale = [
-                path for path, expected in expected_outputs(snapshot).items()
-                if snapshot.get(path) is None
-                or snapshot.entries[path].mode != "100644"
-                or snapshot.entries[path].data != expected
-            ]
-            return [f"generated repository indexes are out of date: {stale}"] if stale else []
-        except (DomainError, OSError, ValueError) as exc:
-            return [str(exc)]
-    command = [
-        sys.executable,
-        str(root / "tools" / "update_repository_indexes.py"),
-        "--check",
-        "--repo",
-        str(root),
-        "--snapshot",
-        snapshot_kind,
-    ]
-    if commit is not None:
-        command.extend(["--commit", commit])
-    result = subprocess.run(command, cwd=root, capture_output=True, text=True)
-    if result.returncode:
-        return [result.stderr.strip() or result.stdout.strip() or "repository index drift"]
-    return []
+def validate_generated_repository_indexes(snapshot: GitSnapshot) -> list[str]:
+    try:
+        stale = [
+            path for path, expected in expected_outputs(snapshot).items()
+            if snapshot.get(path) is None
+            or snapshot.entries[path].mode != "100644"
+            or snapshot.entries[path].data != expected
+        ]
+        return [f"generated repository indexes are out of date: {stale}"] if stale else []
+    except (DomainError, OSError, ValueError) as exc:
+        return [str(exc)]
 
 
 def _policy_from_snapshot(snapshot: GitSnapshot) -> Mapping[str, Any]:
@@ -1883,6 +1997,7 @@ def validate_project_initiation_gate(
     snapshot: GitSnapshot,
     baseline_paths: set[str],
     control: Mapping[str, Any] | None = None,
+    authority: AuthorityGraph | None = None,
 ) -> list[str]:
     """Enforce the prospective project-initiation gate without rewriting legacy roots."""
 
@@ -1903,7 +2018,8 @@ def validate_project_initiation_gate(
     marker_field = marker["field"]
     marker_value = marker["required_value"]
     git_native_prefix = compatibility["git_native_migration_scope_prefix"]
-    authority = AuthorityGraph(snapshot)
+    if authority is None:
+        authority = AuthorityGraph(snapshot)
     closures = control.get("terminal_closures", {})
     registered_prefixes: set[str] = set()
 
@@ -2008,7 +2124,9 @@ def validate_project_initiation_gate(
     return errors
 
 
-def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
+def validate_series_registry(
+    snapshot: GitSnapshot, authority: AuthorityGraph | None = None
+) -> list[str]:
     """Validate deterministic first-read routing for every registered series."""
 
     entry = snapshot.get(SERIES_REGISTRY_PATH)
@@ -2030,7 +2148,8 @@ def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
     if not isinstance(rows, list):
         errors.append(f"{SERIES_REGISTRY_PATH}.series must be an array")
         return errors
-    authority = AuthorityGraph(snapshot)
+    if authority is None:
+        authority = AuthorityGraph(snapshot)
 
     required = {
         "series_id",
@@ -2199,7 +2318,9 @@ def validate_registered_root_topology(snapshot: GitSnapshot) -> list[str]:
     return errors
 
 
-def validate_study_registry(snapshot: GitSnapshot) -> list[str]:
+def validate_study_registry(
+    snapshot: GitSnapshot, authority: AuthorityGraph | None = None
+) -> list[str]:
     entry = snapshot.get(STUDY_REGISTRY_PATH)
     if entry is None or not entry.qualifies_as_evidence:
         return [f"missing tracked regular study registry: {STUDY_REGISTRY_PATH}"]
@@ -2218,7 +2339,8 @@ def validate_study_registry(snapshot: GitSnapshot) -> list[str]:
     if not isinstance(rows, list):
         errors.append(f"{STUDY_REGISTRY_PATH}.studies must be an array")
         return errors
-    authority = AuthorityGraph(snapshot)
+    if authority is None:
+        authority = AuthorityGraph(snapshot)
     required = {
         "study_id",
         "stable_slug",
@@ -3465,7 +3587,12 @@ def validate_native_sheets(snapshot: GitSnapshot, require_schema: bool) -> list[
     return errors
 
 
-def validate_current_domain(root: Path, snapshot: GitSnapshot, require_schema: bool) -> list[str]:
+def validate_current_domain(
+    root: Path,
+    snapshot: GitSnapshot,
+    require_schema: bool,
+    authority: AuthorityGraph | None = None,
+) -> list[str]:
     errors: list[str] = []
     registry_entry = snapshot.get("characters/registry.jsonl")
     series_entry = snapshot.get("series/registry.json")
@@ -3511,7 +3638,8 @@ def validate_current_domain(root: Path, snapshot: GitSnapshot, require_schema: b
             return [
                 "schema-engine deferral is permitted only for an empty character registry"
             ]
-        authority = AuthorityGraph(snapshot)
+        if authority is None:
+            authority = AuthorityGraph(snapshot)
         errors.extend(authority.errors)
         errors.extend(
             validate_discovery_records(
@@ -3551,11 +3679,6 @@ def main() -> int:
     parser.add_argument("--routing-preflight", metavar="ANALYTICAL_BRANCH")
     parser.add_argument("--result-json", type=Path)
     parser.add_argument("--timings-json", type=Path)
-    parser.add_argument(
-        "--defer-schema-engine",
-        action="store_true",
-        help="H0-H5 diagnostic only; never valid for a final H6 receipt",
-    )
     parser.add_argument("--repo", type=Path)
     args = parser.parse_args()
     root = args.repo.resolve() if args.repo else Path(__file__).resolve().parents[1]
@@ -3572,9 +3695,9 @@ def main() -> int:
         elif kind == "commit" and commit is None:
             commit = run_git(root, "rev-parse", "HEAD").decode("ascii").strip()
         if args.routing_preflight and (
-            args.phase != "current" or kind not in {"index", "commit"} or args.defer_schema_engine
+            args.phase != "current" or kind not in {"index", "commit"}
         ):
-            raise DomainError("routing preflight requires a current Git index or exact commit with full schema validation")
+            raise DomainError("routing preflight requires a current Git index or exact commit")
         snapshot, paths = timer.call("snapshot", choose_snapshot, root, kind, commit)
         deferred_routing: list[str] = []
         policy = _policy_from_snapshot(snapshot)
@@ -3588,7 +3711,12 @@ def main() -> int:
         errors.extend(timer.call("paths", validate_paths, snapshot, policy))
         errors.extend(timer.call("bytes", validate_bytes, snapshot, policy, args.phase))
         revision = identity_revision_for_snapshot(kind, commit)
-        errors.extend(timer.call("identities", validate_commit_identities, root, policy, revision))
+        errors.extend(
+            timer.call(
+                "identities", validate_commit_identities, root, policy, revision,
+                role_split=args.phase == "current",
+            )
+        )
         if args.routing_preflight:
             from analytical_preflight import routing_preflight
 
@@ -3602,14 +3730,18 @@ def main() -> int:
             errors.extend(timer.call("housekeeping", validate_global_index_automation, snapshot, policy))
             errors.extend(timer.call("nightly_contract", validate_nightly_integration, snapshot))
             errors.extend(timer.call("whitespace_exceptions", validate_named_whitespace_exceptions, snapshot, policy))
+            # One authority graph serves every consumer of this snapshot; each
+            # builds its own only when called outside a validator run.
+            authority = timer.call("authority_graph", AuthorityGraph, snapshot)
             baseline_commit = active_migration_baseline_commit(snapshot)
             errors.extend(timer.call("authority_scope", validate_active_authority_scope, snapshot, baseline_commit))
             errors.extend(
                 timer.call("crosswalk", validate_crosswalk_closure, snapshot, baseline_commit=baseline_commit)
             )
-            errors.extend(timer.call("native_sheets", validate_native_sheets, snapshot, not args.defer_schema_engine))
-            errors.extend(timer.call("series_registry", validate_series_registry, snapshot))
-            errors.extend(timer.call("study_registry", validate_study_registry, snapshot))
+            errors.extend(timer.call("native_sheets", validate_native_sheets, snapshot, True))
+            errors.extend(timer.call("series_registry", validate_series_registry, snapshot, authority))
+            errors.extend(timer.call("missing_entrypoints", validate_missing_entrypoint_allowlist, snapshot, policy))
+            errors.extend(timer.call("study_registry", validate_study_registry, snapshot, authority))
             errors.extend(timer.call("root_topology", validate_registered_root_topology, snapshot))
             errors.extend(timer.call("obligations", validate_change_obligations, snapshot))
             project_gate_control, project_gate_control_errors = (
@@ -3625,23 +3757,18 @@ def main() -> int:
                                 root, project_gate_control
                             ),
                             project_gate_control,
+                            authority,
                         )
                     )
                 except DomainError as exc:
                     errors.append(str(exc))
-            errors.extend(timer.call("character_domain", validate_current_domain, root, snapshot, not args.defer_schema_engine))
-            if not args.defer_schema_engine:
-                generator_snapshot = "commit" if kind == "commit" else kind
-                errors.extend(timer.call("character_render", validate_generated_index, snapshot, generator_snapshot))
-                if not deferred_routing:
-                    errors.extend(
-                        timer.call("catalog_render", validate_generated_repository_indexes,
-                            root,
-                            generator_snapshot,
-                            commit if kind == "commit" else None,
-                            snapshot=snapshot,
-                        )
-                    )
+            errors.extend(timer.call("character_domain", validate_current_domain, root, snapshot, True, authority))
+            generator_snapshot = "commit" if kind == "commit" else kind
+            errors.extend(timer.call("character_render", validate_generated_index, snapshot, generator_snapshot, authority))
+            if not deferred_routing:
+                errors.extend(
+                    timer.call("catalog_render", validate_generated_repository_indexes, snapshot)
+                )
         if errors:
             for error in sorted(set(errors), key=lambda item: item.encode("utf-8")):
                 print(f"FAIL: {error}")
@@ -3662,14 +3789,9 @@ def main() -> int:
                 "authored content passed; the projected routing bytes are not committed"
             )
             return 0
-        suffix = (
-            " (schema engine explicitly deferred; generated-index CLI not independently invoked)"
-            if args.defer_schema_engine
-            else ""
-        )
         print(
             f"PASS: phase={args.phase} snapshot={snapshot.identity} "
-            f"paths={len(paths)}{suffix}"
+            f"paths={len(paths)}"
         )
         return 0
     except (DomainError, OSError, ValueError) as exc:
