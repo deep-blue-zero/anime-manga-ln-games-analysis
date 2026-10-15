@@ -1,7 +1,7 @@
 ---
 document_role: chatgpt_authority_bootstrap
-document_status: ACTIVE_STABILIZING
-document_revision: 2.7-authority-epoch-1
+document_status: ACTIVE_ACCEPTED
+document_revision: 2.8-authority-epoch-1
 schema_version: 1
 repository_provider: GitHub
 provider_confirmed: true
@@ -21,7 +21,7 @@ non_series_namespace: studies
 sheet_authoring_policy: DRIVE_NATIVE_CONTROLLED_THEN_VERIFIED_GIT_MERGE
 migration_evidence_folder_name: MANGA_ANIME_GIT_MIGRATION_EVIDENCE
 stabilization_days: 14
-audit_cadence: daily-lightweight-plus-full-day-0-7-14
+audit_cadence: exact-head-integration-plus-weekly-full
 analytical_drive_root_id: 18sF-o3T_7SUsaVb3zXwvjkYX9gtGXsf7
 source_drive_root_id: 1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy
 drive_master_index_name: MANGA_ANIME_DRIVE_INDEX.md
@@ -41,11 +41,11 @@ effective_at: 2026-09-02T14:20:11Z
 
 # ChatGPT Git Authority and Change-Routing Handoff
 
-**Supersession:** This revision supersedes `CHATGPT_GIT_AUTHORITY_AND_ROUTING_HANDOFF_DRAFT_INERT.md`. The earlier draft remains historical and must not be used as the live handoff.
+**Record:** Activation, stabilization and acceptance of epoch 1 are recorded in `governance/cutovers/AUTHORITY_EPOCH_1_ACTIVATION_RECORD.md`, including this document's supersession of the inert draft handoff.
 
-## Critical status: Git authority is active and stabilizing
+## Status: Git authority is active and accepted
 
-The epoch-1 activation tuple is live. The repository is now the primary analytical authority for the exact scope enumerated by `governance/AUTHORITY_SCOPE.json`; the Drive master index carries the matching active pointer and checksum. The 14-day stabilization period is heightened verification, not a moratorium on new Git-native analysis.
+The epoch-1 activation tuple is live. The repository is the primary analytical authority for the exact scope enumerated by `governance/AUTHORITY_SCOPE.json`; the Drive master index carries the matching activation pointer and checksum. The owner accepted the stabilized epoch on 2026-10-15, and migration is complete.
 
 This handoff routes changes but never supplies mutation authorization by itself. ChatGPT must still follow a current user instruction and verify the applicable live Git-side predicate before writing.
 
@@ -75,11 +75,13 @@ Before routing routine `GIT_PRIMARY` work, fetch the live repository records. Gi
 5. the protected activation tag resolves to the declared full activation commit;
 6. no newer rollback or recovery epoch supersedes the activation.
 
-The Drive-side activation evidence must be revalidated for a cutover, rollback, recovery, authority-epoch or authority-scope change, scheduled stabilization reconciliation, Drive-native refresh, or a reported authority mismatch. In those operations:
+The Drive-side activation evidence must be revalidated for a cutover, rollback, recovery, authority-epoch or authority-scope change, Drive-native refresh, or a reported authority mismatch. In those operations:
 
 1. the live Drive master index, read by stable Drive file ID, must contain a matching `GIT_ACTIVE_STABILIZING` or `GIT_ACTIVE_ACCEPTED` pointer;
 2. the Drive master-index bytes must match their checksum sidecar; and
 3. the Git record and Drive pointer must agree on repository, epoch, cutover ID, activation commit, tag, scope hash, and effective state.
+
+Until the owner updates the Drive pointer after the 2026-10-15 acceptance, a pointer reading `GIT_ACTIVE_STABILIZING` with an otherwise matching tuple is the expected state, not a mismatch.
 
 If a required Git-side condition is false, unavailable, stale, or ambiguous:
 
@@ -346,23 +348,7 @@ Its existing `MANGA_ANIME_DRIVE_INDEX.md_SHA256.txt` sidecar must be updated and
 
 Drive per-series indexes remain unchanged unless the owner separately authorizes targeted pointer banners. Their migrated Git copies use repository-relative links.
 
-### 10.3 Prepared Drive pointer template
-
-The following is a template, not an instruction to edit Drive:
-
-```yaml
-authority_pointer_schema: 1
-state: CUTOVER_PREPARED
-repository: deep-blue-zero/anime-manga-ln-games-analysis
-authority_epoch: <MONOTONIC_INTEGER>
-cutover_id: <UNIQUE_ID>
-candidate_commit: <FULL_COMMIT_OID>
-activation_tag: <PROTECTED_ANNOTATED_TAG>
-authority_scope_sha256: <SHA256>
-effective_at: null
-```
-
-The active block must contain the same tuple with `state: GIT_ACTIVE_STABILIZING` and a verified effective timestamp. The pointer and checksum sidecar must agree before authority is effective.
+The prepared pointer template used for activation is kept in the epoch-1 record (Section 14).
 
 ## 11. Cutover and rollback state meanings
 
@@ -398,49 +384,10 @@ Stop and request owner direction when:
 
 Do not repair authority ambiguity by guessing, copying to both systems, or choosing whichever system is easiest to edit.
 
-## 13. Activation checklist
+## 13. Ongoing verification
 
-This document may be changed from `DRAFT_INERT` only through the migration framework.
+After acceptance, verification is event-driven rather than daily: an exact-head `Repository integration audit` for every integration, the post-merge `main` audit that closes each Git transaction, the weekly scheduled full audit, unchanged-revision export-and-merge verification for every Drive-native change, and an immediate full audit on any anomaly. Misrouted analysis is preserved and reconciled; it is never automatically deleted or overwritten.
 
-- [x] Exact GitHub remote verified.
-- [x] Hardened framework approved.
-- [x] Inventory and classification reconciled by Drive ID.
-- [x] Authority scope contains no in-scope blockers.
-- [x] Candidate commit and protected annotated tag verified.
-- [x] Drive master-index before-image preserved.
-- [x] Drive pointer and SHA-256 sidecar updated and verified.
-- [x] Git and Drive activation tuples match exactly.
-- [x] Live handoff header populated with non-null cutover values.
-- [x] Separate user authorization for cutover recorded.
-- [x] Post-activation handoff commit reviewed and merged.
+## 14. Epoch-1 record
 
-All activation conditions passed for epoch 1. Any later mismatch triggers the fail-closed recovery behavior above.
-
-## 14. Approved stabilization operation
-
-Git is live for `GIT_PRIMARY` work throughout the approved 14-day stabilization period. Stabilization is heightened observation, not a moratorium on new analysis.
-
-Cadence:
-
-- Day 0: full post-cutover baseline audit;
-- Days 1–14: daily lightweight, read-only Drive/Git delta checks;
-- Day 7: full ID-level reconciliation and repository integrity audit;
-- Day 14: final full reconciliation and acceptance-readiness audit;
-- after every Git integration: targeted local or exact-tree validation followed by remote-head verification and the single full `main` repository audit; the originating transaction remains open until that audit passes;
-- after every Drive-native change: unchanged-revision export-and-merge verification;
-- on any anomaly: immediate triggered full audit.
-
-Daily audits distinguish expected Drive-native work, primary-source activity, evidence/binary storage, misrouted Git-primary analysis, and ambiguous changes. They do not require legitimate Drive activity to stop. Misrouted analysis is preserved and reconciled; it is never automatically deleted or overwritten.
-
-Final `GIT_ACTIVE_ACCEPTED` status requires zero unresolved severity-0/1 defects, one verified Git-native analytical change, one refresh test per Drive-native artifact class, successful rollback-readiness verification, and explicit owner acceptance.
-
-## 15. Active epoch-1 tuple
-
-- Authority epoch: `1`
-- Cutover ID: `g8-authority-epoch-1-20260902T134713Z`
-- Activation commit: `01561d0c9398917c1329501b798733041ab17e98`
-- Protected annotated tag: `activation/authority-epoch-1`
-- Authority scope SHA-256: `008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916`
-- Effective timestamp: `2026-09-02T14:20:11Z`
-
-The activation commit fixes the corpus boundary. Later commits on `main` may add governance records and authorized Git-primary analysis without changing that boundary; any new authority epoch requires a new protected activation tuple.
+The activation checklist, the stabilization plan, the prepared Drive pointer template and the active tuple are kept in `governance/cutovers/AUTHORITY_EPOCH_1_ACTIVATION_RECORD.md`; the tuple also stands in this document's front matter. The activation commit fixes the corpus boundary. Later commits on `main` may add governance records and authorized Git-primary analysis without changing that boundary; any new authority epoch requires a new protected activation tuple.
