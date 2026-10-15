@@ -227,11 +227,13 @@ Use a role label when it carries analytical work the name alone would not: a rep
 
 ### 15.5 Frozen and historical artifacts
 
-Correcting references in a frozen or historical analytical artifact follows the archive policy. A repair that only restores names or resolves ambiguity, leaving attribution, focalization, historical knowledge, claims, observations, locators and arguments unchanged, may be applied as a recorded editorial repair: increment the artifact's version and keep a record of what changed and why. A change that alters attribution, focalization, knowledge state or claim meaning is a substantive correction and uses the archive policy's revision vocabulary and a visible erratum; it is never folded silently into an editorial pass.
+Reference repairs in frozen or historical analytical material remain subject to existing edit authority, the archive policy, and the [frozen-release protections in routing section 8.4](../CHATGPT_AUTHORITY_AND_ROUTING.md#84-frozen-release-administrative-maintenance). This section grants no new edit authority. Do not edit artifacts declared byte-immutable, hash-locked or archival-locked, or assigned `NONE_FROZEN`; keep those artifacts unchanged and direct the repair to an already authorized separate erratum, wrapper or successor, as applicable. Incrementing a version does not waive any authority restriction or lock.
 
-### 15.6 Editorial verification before acceptance or promotion
+Where existing authority and protections permit the edit, a repair that only restores names or resolves ambiguity, leaving attribution, focalization, historical knowledge, claims, observations, locators and arguments unchanged, may be applied as a recorded editorial repair: increment the artifact's version and keep a record of what changed and why. A change that alters attribution, focalization, knowledge state or claim meaning is a substantive correction and uses the archive policy's revision vocabulary and a visible erratum; it is never folded silently into an editorial pass.
 
-Before semantic acceptance, authority promotion or integration of substantial analytical prose, perform a bounded name-and-reference check:
+### 15.6 Editorial verification before semantic acceptance, authority promotion, or integration
+
+Before semantic acceptance, authority promotion, or integration of substantial analytical prose, perform a bounded name-and-reference check:
 
 1. Sample the introduction or synopsis, at least one substantial middle section, and the concluding synthesis or exit state. For long, character-intensive documents, extend the sample to every major relationship and any section where actors could be confused.
 2. Ask: are known people consistently identifiable; are titles serving a purpose; is anyone reduced to a recurring archetype or functional label; are pronouns unambiguous; is concealment preserved where the source requires it; are speaker, thinker and recipient correctly attributed; does each description respect its knowledge boundary?
@@ -244,7 +246,7 @@ A mechanical scanner may list candidate labels for review. It must not certify c
 
 ### v1.1 - 2026-10-14 - Named subjects and referential clarity
 
-Adds section 15: the named-subject default, knowledge-boundary and concealment safeguards, attribution and purposeful-role rules, the treatment of reference repairs in frozen artifacts, and a bounded editorial check before acceptance or promotion. Links the check from producer closeout and semantic acceptance. No change to transfer, receipt or publication requirements.
+Adds section 15: the named-subject default, knowledge-boundary and concealment safeguards, attribution and purposeful-role rules, reference repairs subject to existing edit authority and frozen-artifact protections, and a bounded editorial check before semantic acceptance, authority promotion, or integration. Adds the producer-closeout check, the corresponding handoff-template checklist item, and a requirement to record sampled scope and material findings in the producer closeout, acceptance or integration record. Existing transfer and receipt formats, receipt-versus-semantic-acceptance distinctions, stage states, and publication controls remain unchanged.
 
 ### v1.0 - 2026-09-13 - Proposed initial contract
 
