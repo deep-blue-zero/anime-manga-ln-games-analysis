@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.12"
+version: "1.13"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0187; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0188; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-14
 ---
@@ -1177,4 +1177,52 @@ Nine complete family200530 primary occurrences, source-lock 12.93, witness `T7S_
 | `REL-1046` | `kuonji-shizuka → reported unnamed classmates` | Attributes inquiry, apparent butler inference/surprise/congratulations and supplies her own interpretation. Collective stays unnamed/unindividuated, without a new unit or own classmate turns/settled motives. |
 
 Totals968KNOW/1046REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. Mana is a reported brother-interest reference, not supplied a new own turn or literal sister status; no new reverse relationship is fabricated. Existing reciprocal links, older histories and READY0008 remain exact; no mature monograph promoted.
+
+## B0188 Hime, chosen presentation and situated reciprocity
+
+Nine complete family200490 primary occurrences, source-lock 12.94, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. `IDENTITY-0009/nonohara-hime` / `CHAR-0009` retains unresolved machine binding, existing family/shop/WNo4/Nanasta history and historical READY0004. Existing mother10/CHAR10, father11/CHAR11, Miu85/CHAR67, Mimi42/CHAR65, Haru4/CHAR4, Momoka15/CHAR12, Susu21/CHAR18, Coney3/CHAR3 and Rona8/CHAR8 routes are looked up rather than inferred from new resource tokens. Unnamed638manager and family/companion reports supply no new person/character/unit identity.
+
+| Existing subject | Qualified new annotation | Prior state and access retained |
+| --- | --- | --- |
+| `CHAR-0009` / nonohara-hime | Offers tasting/transport/food/clothing care and a future sports role, wants company/recognition and a chance to thank, chooses particular adornment, addresses mother through memory and checks a mother-like manner. Receiving help, rough speech/cuteness, burdened enjoyment and initiative coexist. | Formation's co-original speech/cuteness, chosen entry and separate costume/consent limits; grief, temporary material help, capacity complaints, collective care and unresolved long-term vocation/workload remain. No false-mask verdict, permanent parental duty, reciprocal romance or readiness/maturity promotion. |
+
+| ID | Epistemic state | Native range and reliability |
+| --- | --- | --- |
+| `KNOW-0969` | Acknowledges asking manager for shop help, says she made new nama-chocolate tofu and credits Miu's idea. | 068P1–3; request/product/idea report; no witnessed help/recipe, independently tested flavor or unprocessed-ingredient claim. |
+| `KNOW-0970` | Qualifies thank-you framing, discusses affection-bearing woman-to-man gifts and denies that meaning for her own offering. | 068P2/4–5; both qualifications remain; no confirmed romantic transfer, actual tasting/reply or reciprocal declaration. |
+| `KNOW-0971` | Reports family granting a free day and renewed two-person time; offers any bicycle destination because manager company matters. | 353P1–3; family/history report and explicit desired company, no actual transport/date, permanent labor policy or manager assent. |
+| `KNOW-0972` | Questions bicycle intervention then attributes oiling and improved condition to manager through uptake. | 392P1–2;そっか/やっぱり account, not depicted maintenance, own manager explanation or technical inspection. |
+| `KNOW-0973` | Requests a chance to thank and offers transport home or possible dinner. | 392P3–4; specific gratitude/request/offer, no general prior-permission rule or completed meal/ride. |
+| `KNOW-0974` | Trials today'sワタシ/adult register, calls reaction thin and reports Mimi's makeup instruction. | 456P1–3; local performance/appraisal/report, no changed native portrait or independently known manager feeling. |
+| `KNOW-0975` | Predicts beauty like mother within a few years and teases about later manager infatuation/regret. | 456P4–5; own future assertion, no actual interval/appearance, romantic answer or permanent linguistic replacement. |
+| `KNOW-0976` | Reports yesterday's grave visit with father and others and formal report of present idol activity to mother. | 638P1–2; retrospective local account; others not an explicit sibling roster, no independently depicted grave scene/date. |
+| `KNOW-0977` | Reports mentioning kind支配人, companions and an unnamedマネージャー, and feeling mother smiled. | 638P3; distinct role words and気がした impression; no newly named638manager or literal maternal response/assent. |
+| `KNOW-0978` | Concludes all-family recognition of idol activity and reassures manager. | 638P4; Hime's conclusion, not independent family testimony, unlimited work conditions, grief cure or lifelong vocational decision. |
+| `KNOW-0979` | Calls holiday town crowded and two-person time fresh. | 726P1; her setting/relational appraisal; unpopulated mall art is not a crowd census or exact prior-outing chronology. |
+| `KNOW-0980` | Reports accessory embarrassment/Haru's outsized suggestions, wants style sometimes and dislikes strongly maidenly choices. | 726P2–4; her report/taste, no Haru own judgment or universal feminine norm. |
+| `KNOW-0981` | Offers to wear a manager-selected accessory and search/enter glittering shops. | 726P4–5; conditional help and chosen intention, no selection/purchase/wearing or whole-image authority transfer. |
+| `KNOW-0982` | Invites manager and everyone to upcoming shopping-street festival for a break. | 986P1; group/future invitation, no actual attendance or exclusively private date. |
+| `KNOW-0983` | Plans mother's received/gifted yukata, asks to be seen and predicts it may not suit her. | 986P2–4; gift report/future exposure/self-doubt; no post-death bequest/date, actual yukata pixels or manager appraisal. |
+| `KNOW-0984` | Proposes riverbank fireworks if manager has time and asks to make memories. | 986P5; conditional prospect, no completed outing/memories or link dating all earlier occurrences. |
+| `KNOW-0985` | Announces washing/requested shower-room use, reports Momoka's spill on a costume and predicts a hand-wash remedy. | 1070P1–2; costume owner unspecified; no performed washing, observed shower use or proved stain removal. |
+| `KNOW-0986` | Complains of dorm laundry/Susu's scattered clothes, offers all washing and requests manager shirt, claiming skill. | 1070P3–4; her report/self-claim/offer, no shirt handover, recipient answers or permanent domestic allocation. |
+| `KNOW-0987` | Offers ironing/advises public dress, then jokes about too much mother-like manner. | 1070P5; prospective care and role self-check, no actual parental status, finished ironing or sustainable load verdict. |
+| `KNOW-0988` | Expresses fatigue/sweat/thirst, requests a drink and reports Coney's sudden noon-onward soccer. | 1258P1–2; text/self-report with burdened wording, no heard breath, independently viewed play or delivered refreshment. |
+| `KNOW-0989` | Appraises Nanasta sport as not bad and Rona's shot as weak, wishing manager had seen it. | 1258P3; enjoyment/peer appraisal/retrospective wish, no objective ranking, Rona own response or prior manager spectatorship. |
+| `KNOW-0990` | Invites next manager participation, conditionally offers goalkeeping and wants to return the support she usually receives. | 1258P4–5; receiving/catching metaphor and valuation, no completed goalkeeper work, participation answer, exhaustive support history or blanket bodily/romantic assent. |
+
+| ID | Directional relationship | Qualified state and missing access |
+| --- | --- | --- |
+| `REL-1047` | `nonohara-hime → player-protagonist` | Offers care/transport/possible food, wants company/recognition/a chance to thank, asks for help and proposes returning support. Gift denials, particular appearance tastes and future conditions remain; no manager-authored counterpart update, settled romance or acceptance of every offer. |
+| `REL-1048` | `nonohara-hime → aihara-miu` | Credits the new chocolate-tofu idea to Miu through her report. No Miu own turn, independently shown recipe collaboration or reverse relation. |
+| `REL-1049` | `nonohara-hime → futagawa-mimi` | Reports adult-looking makeup instruction and her own disappointment at thin reception. No Mimi own judgment, newly certified expertise or durable appearance policy. |
+| `REL-1050` | `nonohara-hime → hime-mother` | Invokes future resemblance, reports formal grave-side address/felt smile and a received yukata, and jokes about mother-like care. Existing remembered/deceased mother remains without a new own approval turn, resolved grief, gift date or inevitable inherited role. |
+| `REL-1051` | `nonohara-hime → hime-father` | Reports father-and-others at the grave; separately describes a family-granted free day. Father is not independently authored here; no enumerated companions, own standing permission or permanent household redistribution. |
+| `REL-1052` | `nonohara-hime → kasukabe-haru` | Describes Haru's accessory suggestions as too much while stating her own preferences. No Haru own response, actual shared shopping or general rejection of femininity. |
+| `REL-1053` | `nonohara-hime → serizawa-momoka` | Reports Momoka's ice-cream spill and offers a predicted clothing remedy. Costume ownership and executed care remain unspecified; no Momoka own response or fixed caretaker assignment. |
+| `REL-1054` | `nonohara-hime → alessandra-susu` | Complains of scattered clothes and proposes washing alongside a mother-like self-check. No Susu own reply, independently certified habit or sustainable domestic duty. |
+| `REL-1055` | `nonohara-hime → rokusaki-connie-presented` | Reports sudden soccer proposal/noon-onward participation with burdened language and later mixed enjoyment. No Coney own intention/reply or retrospective erasure of earlier pressure/consent limits. |
+| `REL-1056` | `nonohara-hime → tsunomori-rona` | Retrospectively appraises a weak soccer shot within enjoyable group sport and wishes manager had witnessed it. No Rona own perspective, objective technical grade, prior manager viewing or new lasting ability state. |
+
+Totals990KNOW/1056REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. All older directional/reciprocal histories remain exact; no new reverse relation is fabricated from reports, uptake or invitations. READY0004 stays its historical bounded decision; no mature monograph promoted.
 <!-- T7S ENTITY STATE PAYLOAD END -->
