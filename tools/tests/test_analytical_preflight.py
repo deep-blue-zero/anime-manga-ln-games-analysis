@@ -174,6 +174,20 @@ class AnalyticalPreflightTests(unittest.TestCase):
                 env=environment, capture_output=True, text=True, check=False,
             )
             self.assertEqual(clone.returncode, 0, clone.stderr)
+            # The gate reads run stops from main. A CI checkout has no local
+            # branches, so pin the clone's main to the source's explicitly.
+            source_main = subprocess.run(
+                ["git", "-C", str(TOOLS.parent), "rev-parse", "--verify", "-q",
+                 "refs/remotes/origin/main^{commit}"],
+                env=environment, capture_output=True, text=True, check=False,
+            ).stdout.strip() or subprocess.run(
+                ["git", "-C", str(TOOLS.parent), "rev-parse", "HEAD"],
+                env=environment, capture_output=True, text=True, check=True,
+            ).stdout.strip()
+            subprocess.run(
+                ["git", "-C", str(root), "update-ref", "refs/remotes/origin/main", source_main],
+                env=environment, capture_output=True, check=True,
+            )
             # A local full gate runs before commit: overlay its exact staged
             # candidate so nested CLIs do not accidentally test the old HEAD.
             candidate = GitSnapshot.from_index(TOOLS.parent)
