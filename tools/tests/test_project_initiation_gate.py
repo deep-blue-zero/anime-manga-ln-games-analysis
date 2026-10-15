@@ -2,7 +2,9 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
+import subprocess
 import sys
 import tempfile
 import unittest
@@ -61,6 +63,8 @@ class ProjectInitiationGateTests(unittest.TestCase):
         run_git(cls.history_root, "add", "--", cls.sequential)
         run_git(cls.history_root, "commit", "--quiet", "-m", "Accepted reading")
         cls.completion_commit = run_git(cls.history_root, "rev-parse", "HEAD").decode().strip()
+        # Run stops must name a commit on main; main is the accepted reading here.
+        run_git(cls.history_root, "update-ref", "refs/remotes/origin/main", cls.completion_commit)
         cls.reading_blob = run_git(cls.history_root, "rev-parse", f"HEAD:{cls.sequential}").decode().strip()
         reading.write_bytes(authority_markdown("volume_deep_reading", "Changed"))
         run_git(cls.history_root, "add", "--", cls.sequential)
@@ -893,6 +897,110 @@ class ProjectInitiationGateTests(unittest.TestCase):
         entry = nonregular.entries[self.run_closure]
         nonregular.entries[self.run_closure] = SnapshotEntry(entry.path, "120000", entry.data)
         self.assert_failure_contains(self.failures(nonregular), "run closure must be a tracked regular")
+
+    def set_main(self, commit: str | None) -> None:
+        if commit is None:
+            run_git(self.history_root, "update-ref", "-d", "refs/remotes/origin/main")
+        else:
+            run_git(self.history_root, "update-ref", "refs/remotes/origin/main", commit)
+
+    def main_with_run_closure(self, record: bytes) -> str:
+        """Commit the accepted reading plus a run-closure record, without touching HEAD."""
+
+        with tempfile.TemporaryDirectory() as directory:
+            env = dict(os.environ, GIT_INDEX_FILE=str(Path(directory) / "index"))
+
+            def git(*args: str, data: bytes | None = None) -> str:
+                return subprocess.run(
+                    ["git", "-C", str(self.history_root), *args], input=data, env=env,
+                    capture_output=True, check=True,
+                ).stdout.decode().strip()
+
+            git("read-tree", self.completion_commit)
+            blob = git("hash-object", "-w", "--stdin", data=record)
+            git("update-index", "--add", "--cacheinfo", f"100644,{blob},{self.run_closure}")
+            tree = git("write-tree")
+            return git("commit-tree", tree, "-p", self.completion_commit, "-m", "Run stop on main")
+
+    def test_run_closure_completion_commit_must_be_on_main(self) -> None:
+        snapshot = self.run_closure_snapshot()
+        record = json.loads(snapshot.entries[self.run_closure].data)
+        record["completion_commit"] = self.different_commit  # a later, unmerged commit
+        snapshot.entries[self.run_closure] = SnapshotEntry(self.run_closure, "100644", json.dumps(record).encode())
+        self.assert_failure_contains(self.failures(snapshot), "is not on main")
+        try:
+            self.set_main(None)
+            self.assert_failure_contains(
+                self.failures(self.run_closure_snapshot()), "needs refs/remotes/origin/main"
+            )
+        finally:
+            self.set_main(self.completion_commit)
+
+    def test_run_closure_seals_persist_relative_to_main(self) -> None:
+        stop = self.run_closure_snapshot()
+        try:
+            self.set_main(self.main_with_run_closure(stop.entries[self.run_closure].data))
+            continuity = "was dropped or re-sealed relative to main's run closure"
+            self.assertEqual(self.failures(stop), [])
+            self.assertEqual(self.failures(self.run_closure_snapshot("REOPENED")), [])
+
+            deleted = self.run_closure_snapshot()
+            del deleted.entries[self.run_closure]
+            self.assert_failure_contains(self.failures(deleted), continuity)
+
+            # Rewriting a sealed reading and its seal together is a replacement.
+            resealed = self.run_closure_snapshot()
+            edited = resealed.entries[self.sequential].data + b"Rewritten.\n"
+            resealed.entries[self.sequential] = SnapshotEntry(self.sequential, "100644", edited)
+            record = json.loads(resealed.entries[self.run_closure].data)
+            new_digest = hashlib.sha256(edited).hexdigest()
+            record["frozen_sequential_artifacts"][self.sequential] = new_digest
+            resealed.entries[self.run_closure] = SnapshotEntry(self.run_closure, "100644", json.dumps(record).encode())
+            self.assert_failure_contains(self.failures(resealed), continuity)
+
+            # Only an owner-merged amendment for that exact digest releases the old seal.
+            control = self.control()
+            control["run_closure_amendments"] = {self.prefix: {
+                "authorization": "Owner approved replacing SOURCE_UNIT_01 (fixture).",
+                "seals": {self.sequential: new_digest},
+            }}
+            resealed.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+                PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode()
+            )
+            self.assertFalse(any(continuity in failure for failure in self.failures(resealed)))
+            control["run_closure_amendments"][self.prefix]["seals"][self.sequential] = "0" * 64
+            resealed.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+                PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode()
+            )
+            self.assert_failure_contains(self.failures(resealed), continuity)
+
+            # Converting to a terminal closure keeps the seals and removes the record.
+            terminal = self.terminal_snapshot()
+            self.assertFalse(any(continuity in failure for failure in self.failures(terminal)))
+        finally:
+            self.set_main(self.completion_commit)
+
+    def test_run_closure_amendments_and_orphans_fail_closed(self) -> None:
+        for amendments in (
+            [],
+            {"../x/": {"authorization": "x", "seals": {"x.md": None}}},
+            {self.prefix: {"authorization": "", "seals": {self.sequential: None}}},
+            {self.prefix: {"authorization": "x", "seals": {}}},
+            {self.prefix: {"authorization": "x", "seals": {"series/other/X.md": None}}},
+            {self.prefix: {"authorization": "x", "seals": {self.sequential: "HEAD"}}},
+        ):
+            with self.subTest(amendments=amendments):
+                control = self.control()
+                control["run_closure_amendments"] = amendments
+                snapshot = self.snapshot()
+                snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+                    PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode()
+                )
+                self.assert_failure_contains(self.failures(snapshot), "run_closure_amendments")
+        orphan = "series/unregistered/.repository/run-closure.json"
+        snapshot = self.snapshot()
+        snapshot.entries[orphan] = SnapshotEntry(orphan, "100644", b"{}\n")
+        self.assert_failure_contains(self.failures(snapshot), "project run closure has no registered project")
 
     def test_current_repository_examples_remain_compatible(self) -> None:
         snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))

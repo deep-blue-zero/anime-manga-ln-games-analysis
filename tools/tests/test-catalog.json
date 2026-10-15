@@ -2333,6 +2333,36 @@
       ],
       "purpose": "Reject malformed, nonregular, out-of-project, or unknown-state run closures and a project carrying both a run closure and a global terminal closure."
     },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_run_closure_completion_commit_must_be_on_main": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "A run closure's completion commit must be an ancestor of refs/remotes/origin/main, and the check fails closed when that ref is missing."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_run_closure_seals_persist_relative_to_main": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Seals in main's run closure survive deletion and re-sealing attempts unless an owner-merged amendment names the exact new digest; conversion to a terminal closure keeps them."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_run_closure_amendments_and_orphans_fail_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Malformed run_closure_amendments entries and run closures under unregistered roots fail validation."
+    },
     "test_project_initiation_gate.ProjectInitiationGateTests.test_current_repository_examples_remain_compatible": {
       "group": "live_corpus",
       "smoke": false,

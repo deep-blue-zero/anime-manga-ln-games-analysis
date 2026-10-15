@@ -1405,7 +1405,58 @@ def _load_project_initiation_gate(
                 errors.append(f"{label}: invalid project root")
                 continue
             errors.extend(_closure_record_errors(label, prefix, closure))
+    errors.extend(_run_closure_amendments(control)[1])
     return (None if errors else control), errors
+
+
+def _run_closure_amendments(
+    control: Mapping[str, Any],
+) -> tuple[dict[str, dict[str, str | None]], list[str]]:
+    """Owner-merged amendments that let a run stop drop or re-seal named readings.
+
+    Each entry is {"authorization": text, "seals": {path: new SHA-256 or null}};
+    a listed path may keep its seal on main, take exactly the new digest, or
+    (for null) be dropped. Nothing else about a run stop may change.
+    """
+
+    label = f"{PROJECT_INITIATION_GATE_PATH}.run_closure_amendments"
+    raw = control.get("run_closure_amendments", {})
+    if not isinstance(raw, Mapping):
+        return {}, [f"{label} must be an object"]
+    amendments: dict[str, dict[str, str | None]] = {}
+    errors: list[str] = []
+    for prefix, entry in raw.items():
+        item = f"{label}[{prefix!r}]"
+        if not isinstance(prefix, str) or re.fullmatch(
+            r"(?:series|studies)/[a-z0-9][a-z0-9-]*/", prefix
+        ) is None:
+            errors.append(f"{item}: invalid project root")
+            continue
+        if (
+            not isinstance(entry, Mapping)
+            or set(entry) != {"authorization", "seals"}
+            or not _valid_nonempty_string(entry["authorization"])
+            or not isinstance(entry["seals"], Mapping)
+            or not entry["seals"]
+        ):
+            errors.append(f"{item}: needs a nonempty authorization and a nonempty seals object")
+            continue
+        seals: dict[str, str | None] = {}
+        for sealed_path, digest in entry["seals"].items():
+            if (
+                not isinstance(sealed_path, str)
+                or not sealed_path.startswith(prefix)
+                or not sealed_path.endswith(".md")
+            ):
+                errors.append(f"{item}: sealed path must be Markdown inside its project: {sealed_path!r}")
+            elif digest is not None and (
+                not isinstance(digest, str) or SHA256_RE.fullmatch(digest) is None
+            ):
+                errors.append(f"{item}: invalid SHA-256 for {sealed_path}")
+            else:
+                seals[sealed_path] = digest
+        amendments[prefix] = seals
+    return amendments, errors
 
 
 CLOSURE_RECORD_FIELDS = frozenset({
@@ -1451,6 +1502,69 @@ def _closure_record_errors(label: str, prefix: str, closure: Any) -> list[str]:
         if not isinstance(digest, str) or SHA256_RE.fullmatch(digest) is None:
             errors.append(f"{label}: invalid frozen SHA-256 for {path}")
     return errors
+
+
+# A run stop is written on a project's own branch, so the validator binds it to
+# main: the completion commit must already be on main (its readings passed the
+# OPEN gate there, and a squash merge keeps it reachable), and every seal in
+# main's record must survive unless the owner-merged control amends it.
+RUN_CLOSURE_BASE_REF = "refs/remotes/origin/main"
+RUN_CLOSURE_PATH_RE = re.compile(
+    r"((?:series|studies)/[a-z0-9][a-z0-9-]*/)\.repository/run-closure\.json"
+)
+
+
+def _run_closure_base_commit(root: Path) -> str | None:
+    try:
+        return run_git(
+            root, "rev-parse", "--verify", "-q", RUN_CLOSURE_BASE_REF + "^{commit}"
+        ).decode("ascii").strip()
+    except DomainError:
+        return None
+
+
+def _base_run_closure_seals(root: Path, base_commit: str) -> dict[str, dict[str, str]]:
+    """Return {project prefix: {path: digest}} for the run stops recorded on main."""
+
+    seals: dict[str, dict[str, str]] = {}
+    for candidate in _git_paths(
+        root, "ls-tree", "-r", "-z", "--name-only", base_commit, "--", "series", "studies"
+    ):
+        match = RUN_CLOSURE_PATH_RE.fullmatch(candidate)
+        if match is None:
+            continue
+        try:
+            record = json.loads(run_git(root, "show", f"{base_commit}:{candidate}"))
+        except (DomainError, json.JSONDecodeError, UnicodeDecodeError):
+            continue  # main failed its own audit; there is nothing valid to carry
+        frozen = record.get("frozen_sequential_artifacts") if isinstance(record, Mapping) else None
+        if isinstance(frozen, Mapping):
+            seals[match[1]] = {
+                key: value for key, value in frozen.items()
+                if isinstance(key, str) and isinstance(value, str)
+            }
+    return seals
+
+
+def _run_closure_on_main(
+    snapshot: GitSnapshot, prefix: str, record: Mapping[str, Any], base_commit: str | None
+) -> list[str]:
+    path = prefix + PROJECT_RUN_CLOSURE_NAME
+    commit = record["completion_commit"]
+    if base_commit is None:
+        return [
+            f"{path}: verifying completion_commit needs {RUN_CLOSURE_BASE_REF}; fetch main first"
+        ]
+    try:
+        merge_base = run_git(snapshot.root, "merge-base", commit, base_commit).decode("ascii").strip()
+    except DomainError as exc:
+        return [f"{path}: completion_commit cannot be compared with main: {exc}"]
+    if merge_base != commit:
+        return [
+            f"{path}: completion_commit {commit} is not on main ({RUN_CLOSURE_BASE_REF}); "
+            "name the commit on main that integrated the sealed readings"
+        ]
+    return []
 
 
 def _load_project_run_closure(
@@ -2091,7 +2205,12 @@ def validate_project_initiation_gate(
     if authority is None:
         authority = AuthorityGraph(snapshot)
     closures = control.get("terminal_closures", {})
+    amendments = _run_closure_amendments(control)[0]
     registered_prefixes: set[str] = set()
+    base_commit = _run_closure_base_commit(snapshot.root)
+    base_seals = (
+        _base_run_closure_seals(snapshot.root, base_commit) if base_commit is not None else {}
+    )
 
     rows: list[tuple[str, Mapping[str, Any]]] = []
     for registry_path, collection in (
@@ -2130,9 +2249,24 @@ def validate_project_initiation_gate(
                 "both be present; the global closure replaces the project record"
             )
             local = None
+        if local is not None:
+            errors.extend(_run_closure_on_main(snapshot, project_prefix, local, base_commit))
         if local is not None and local_state == "CLOSED":
             closure = local
         reopened = local if local is not None and local_state == "REOPENED" else None
+        current_seals = (closure or reopened or {}).get("frozen_sequential_artifacts", {})
+        allowed = amendments.get(project_prefix, {})
+        for sealed_path, digest in base_seals.get(project_prefix, {}).items():
+            current = current_seals.get(sealed_path)
+            if current == digest:
+                continue
+            if sealed_path in allowed and current == allowed[sealed_path]:
+                continue
+            errors.append(
+                f"{project_prefix}: sealed reading {sealed_path} was dropped or re-sealed "
+                f"relative to main's run closure; that needs an owner-merged "
+                f"run_closure_amendments entry in {PROJECT_INITIATION_GATE_PATH}"
+            )
         baseline_present = any(path.startswith(project_prefix) for path in baseline_paths)
         explicit_marker = row.get(marker_field)
         if explicit_marker is not None and explicit_marker != marker_value:
@@ -2209,6 +2343,10 @@ def validate_project_initiation_gate(
             )
     for prefix in set(closures) - registered_prefixes:
         errors.append(f"project-initiation terminal closure has no registered project: {prefix}")
+    for candidate in snapshot.entries:
+        match = RUN_CLOSURE_PATH_RE.fullmatch(candidate)
+        if match is not None and match[1] not in registered_prefixes:
+            errors.append(f"project run closure has no registered project: {candidate}")
     return errors
 
 
