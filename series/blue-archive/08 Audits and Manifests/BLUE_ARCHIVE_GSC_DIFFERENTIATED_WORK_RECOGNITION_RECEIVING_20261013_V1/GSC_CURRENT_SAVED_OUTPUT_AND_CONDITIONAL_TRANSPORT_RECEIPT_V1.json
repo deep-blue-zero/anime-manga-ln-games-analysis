@@ -24,9 +24,9 @@
     },
     {
       "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT105_NEW_DIRECTED_PURPOSES_GW071_GW104_V1.json",
-      "bytes": 900863,
-      "sha256": "f30b05da800a64b73144a693db5175b4e941652fd419854aca8aca07385d6cff",
-      "git_blob_oid_of_actual_bytes": "c685703839ccfe18193b56ddbbcc4d2abc1bca9c"
+      "bytes": 900892,
+      "sha256": "c4fa40f18473ac8d8fd93c608b73300da248d2208031318c180462956b56de1f",
+      "git_blob_oid_of_actual_bytes": "e5016f062c10f3f0deac0365d7b354e92647ee0f"
     },
     {
       "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT15_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
@@ -36,15 +36,15 @@
     },
     {
       "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT105_DIRECTED_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
-      "bytes": 499329,
-      "sha256": "da643e17b322927344240a942bdcd2eaca8f227e5256d15acc5cc5a15738b4aa",
-      "git_blob_oid_of_actual_bytes": "386d8ae1242f9b8efea8324f7d798e63ddc708f0"
+      "bytes": 499358,
+      "sha256": "cf366601d9505d90d6b76c511053a1eef7f931cb7c22d90026b2cd465d49fdbf",
+      "git_blob_oid_of_actual_bytes": "18dd021f6aaa250e25e090a21a1eda519fad0738"
     },
     {
       "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_LITERAL66_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
       "bytes": 551017,
-      "sha256": "f7338f748d71c458ff8803edc5e821730eafe897faec8f8096372e67d3185edf",
-      "git_blob_oid_of_actual_bytes": "6d4586cac2c928729f8cd336d4ca7b4246048166"
+      "sha256": "779150a2597123b4a0b146d3e137283b6f60c8bad5fcc398a5634f32e6393f0a",
+      "git_blob_oid_of_actual_bytes": "5401ec50cf5b358a0c8ca616c620eafc1dd7edc8"
     }
   ],
   "current_claims": 66,

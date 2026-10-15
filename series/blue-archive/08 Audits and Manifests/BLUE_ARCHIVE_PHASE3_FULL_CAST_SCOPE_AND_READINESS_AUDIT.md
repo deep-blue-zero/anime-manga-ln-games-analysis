@@ -7,7 +7,7 @@ drafted_against_commit: "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
 created: 2026-10-09
 updated: 2026-10-14
 generation: V1
-version: "1.27"
+version: "1.28"
 supersedes: []
 superseded_by: []
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md
@@ -17,6 +17,28 @@ do_not_use_as_current_authority: false
 ---
 
 # Phase 3 full-cast scope and readiness audit
+
+
+## Current Kei acceptance, conditional local152/19 and verified published151/18
+
+Kei's game preferences, design and making, desired equipment, rest, company and care are intrinsically meaningful evidence. Refusals, criticism of compulsory overwork, requests for distance and answers to particular company retain their own actors, modes and local chronology; affection or successful help does not authorize every prior or future request. Main `Key`/`<Key>`/`Kei.sav` history, two literal registry person keys and the unjoined EVENT80001 E141 event-local actor remain distinct. Alice is the Main rescue recipient and a separate comparator to contemporary Kei, not an interchangeable rescue subject.
+
+ROOT's actual private semantic adoption42220/SHA7d842b5fe736fe4e80b4c9841f6b014bbcc9cf05aeecac4aee81d81ff7262a44 accepts one existing bounded character parent WITH LIMITS after the complete73 argument, all105 new five-field purposes and525 current meanings, source questions/results, character11 and method16 tracks, eight serious rivals, sixteen finite endpoints and fourteen original gaps. The existing named gift-friction section is inside this parent, not an extra required relationship package. Source6 author scope is three new whole maintained accounts481 lines plus three prior whole268 lines; reviewer six whole maintained749 is separate. Original common10526WHOLE79SELECTED and narrow61767six/59334oldGSC16 qualifiers remain attributed; no fresh pool-wide primary/native/raw/AV or normal105 reading is claimed.
+
+The current named E141 argument preserves Sensei as the consumer and the event-local Kei as giver requesting return; continued consumption after the return demand is not retroauthorized by later thanks or admission. Local greeting/severe speech/narrator-unknown/choice seams stay written and local. Current O087 compares Rio's actual agreement to stay one week under the no-force terms, not proved fulfillment of the entire week. All73 reviewed literary paragraphs, all525 current target values, complete frozen source records and full old V1/V2/V3/V4 raw histories stay literal; corrected author clauses and original held review statements keep their dated scopes.
+
+ROOT final public12 byte adoption3205/SHAcfa79b1cacab2be1b80751d0db940cd0b2436f1261c83206f690a2db3d6be97c follows actual preappend adoption6015 and distinct focused finalCONTROL review651 checks/zero findings. Final external manifest9013/SHAbe8f96bfea58e026cf6ec9974d569a6a2a9f0a6535a0cb1b91db87c989ae89a4 binds body61002/SHAf3a900134a02161b82facfd95e7499ab76a32e9620269cc79dd3edd53968beb7 at197 lines/title21/first25/last197 and finalCONTROL14053/SHA9e9f7c3dc467c7edc4e6ac2268baee652d9facb4d1479f86dc8887eaf798cb1c; first11 are unchanged from the reviewed22328 composition. The genuine INPUT reports the prior completed independent908418 review while preserving its full payload and reporter/reviewer/author roles; actual ROOT workflow is noncryptographic. Metadata/path normalization and full inverses provide custody without new literary, source, identity, model or independence credit.
+
+ROOT's actual current0003 complete committed7 custody5450/SHA0545eceb3d397c4e1081bf1b9cb68293e150cd097895ce6458908dd9bfea4af2 establishes predecessor source0003bcdb3d16fe075644762e20e60635e4d0bdb1/treee0cd7f38eb5099c6e35629d541f09169aee3ea19 with151 required packages and18 named duties. ROOT separately reported publication/full19 remote blobs and all65 path-delta readback. The original6bf/Rio150-to151 pending strings and retained main133/13 boundary remain verbatim dated history. No fresh main package count or approved merge is inferred from the source's normal Main reconciliation. ROOT subsequently reported SOURCE38655364832 and HOUSEKEEPING38656199400 successful, with unchanged routing/no-op at source0003; FINAL38656232619 remains in progress. This proposal claims no completed301/exact-latest closure and no runtime certification of future Kei bytes. The broader current150 source/semantic consistency audit stays active, with the separate exact14 O094 correction frozen after completed distinct dependency QA and actual ROOT byte adoption; its installation/publication remain separate.
+
+Only sole ROOT installation of the reviewed Kei public12 plus this shared7 proposal yields conditional152 required packages (107CHAR/19REL/5ENS/21INST),19 named duties. It updates existing requiredZERO13/ordinal14/CSV15/home13/P3-M018|P3-F106 and named giftZERO4/ordinal5/CSV6/home250 inside the same parent, plus existing legacyZERO31/CSV33. Other354 required rows, other28 named rows and other172 legacy rows remain literal;173 legacy rows are not the denominator. Required355/29/25/384/788, first89 history, next178 UNREACHED with26 remaining after installation, all14OPEN and models0 remain fixed. Shared7 independent review/ROOT receiving/adoption, exact19 guards/install/preflight, current live publication controls, source push/full readback and a fresh exact-head full SOURCE/HOUSEKEEPING/FINAL chain remain separate operations. PR158 OPEN/DRAFT/HOLD; merge RESERVED.
+
+### Current O094 reading-access correction and accepted component routes
+
+Current O094 reading-access correction (2026-10-14): Miyo refuses Teacher’s request to read one of her wanted romance novels (maintained EVENT850 selected physical81–100, decisive98/007:u0063–0074); this establishes no refusal to write/share an authored novel and no authorship claim. Exactly three current GSC/Ami purpose meanings change, with eleven existing component successors, three original witnesses raw unchanged and an acyclic current reference graph. ROOT has actually accepted these fixed corrective bytes WITH LIMITS after distinct current dependency QA. The new shared current14 bindings govern operative reuse; the older GSC27213/Ami11750 receiving tuples, original frozen105 records, original QA/ROOT judgments and all creation-time pending statuses remain dated history. Ordinary wanted genre,typewriter,materials,food/company/art interests and financial/coercion/trust/outcome limits stay meaningful and unchanged. This correction adds no package/named/source/identity/model credit, completes no global150 audit, and does not itself perform installation,publication or exact-head CI. All14 gaps remain OPEN,models0,mergeapproval RESERVED.
+
+[GSC current corrective ROOT](BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_ROOT_CURRENT_TYPED_ARGUMENT_AND_SOURCE_PURPOSE_RECEIVING_STATUS_V1.json); [GSC current corrective CONTROL](BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_EXACT12_PENDING_ACCEPTANCE_AND_CONDITIONAL_PUBLIC_TRANSPORT_CONTROL_V1.json); [Ami current corrective ROOT](BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json).
+
 
 
 ## Current Rio acceptance, conditional local151 and verified published150
@@ -586,3 +608,12 @@ ROOT independently adjudicated the fixed five existing responsibilities129–133
 - **Kaya: coercive prescriptions, fallible authority and wanted company** (P3-CHAR-M017): immutable original 43380 bytes / 1bdc5b75cb3ba5ef181aefc423f50a9c17d3be062ce089627ee2ab8b48ef93c5; current reconciled canonical 47142 bytes / 114817fe48a42bbf55b23eed78ad8840a828a43c8ea702affa1cb4dd040526f7. [Receiving](BLUE_ARCHIVE_KAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json); [full inverse](BLUE_ARCHIVE_KAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json).
 - **Gehenna: freedom, labor, protection and recipient answerability** (P3-INST-GEHENNA-FREEDOM): immutable original 45804 bytes / 3222225364647872b9155875bb5fff6c69c1697cc1e49d81b4d8d54942b183e9; current reconciled canonical 49807 bytes / c34a3d70ff85e9351fc7eb086af24943e193a045bb74a8df5e2539a49c176ff9. [Receiving](BLUE_ARCHIVE_GEHENNA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json); [full inverse](BLUE_ARCHIVE_GEHENNA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json).
 - **Rin: answerable obligation, ordinary pleasure and unfinished inquiry** (P3-CHAR-M031): immutable original 46845 bytes / 232dfa22259dcd75f9ec24aad0d6e76336ef389180f535da565edfee96ff2723; current reconciled canonical 50790 bytes / 0718bf72cfaf3ce8efe89821919a49ef3031b006d9cf98f35b67846248c13efe. [Receiving](BLUE_ARCHIVE_RIN_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json); [full inverse](BLUE_ARCHIVE_RIN_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json).
+
+
+### Retained exact preceding active metadata statements before Kei152
+
+These statements are dated original metadata; current authority is the complete Kei boundary above.
+
+```text
+version: "1.27"
+```

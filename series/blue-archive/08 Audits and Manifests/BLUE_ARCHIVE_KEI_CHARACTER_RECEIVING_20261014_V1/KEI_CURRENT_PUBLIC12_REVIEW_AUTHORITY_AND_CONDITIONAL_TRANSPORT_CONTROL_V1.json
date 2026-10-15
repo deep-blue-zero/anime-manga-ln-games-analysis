@@ -1,0 +1,221 @@
+{
+  "schema": "KEI_CURRENT_PUBLIC12_ACTUAL_ROOT_SEMANTIC_AUTHORITY_AND_CONDITIONAL_COMPOSITION_CONTROL_V1",
+  "composer": "/root/next_cast_source_preparation",
+  "actual_created_UTC": "2026-10-14T22:29:41.185881+00:00",
+  "state": "C_ONLY_METADATA_COMPOSED_PENDING_DISTINCT_CURRENT_BYTE_QA_AND_ROOT_BYTE_ADOPTION",
+  "first11_actual_current_components": [
+    {
+      "role": "bounded_character_body_with_inside_named_gift",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KEI_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "relative_C_candidate_path": "candidate/series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KEI_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "bytes": 61002,
+      "sha256": "f3a900134a02161b82facfd95e7499ab76a32e9620269cc79dd3edd53968beb7",
+      "git_blob_oid_of_actual_bytes": "cbdb14997a381a543e11b2b8d06610e4d8ce283e"
+    },
+    {
+      "role": "purposes000_035",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP000_KEP035_V2.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP000_KEP035_V2.json",
+      "bytes": 454037,
+      "sha256": "c365301054bea2f4088c02d93a282e33cfb55a12b088d6a7e7a65e757d15455c",
+      "git_blob_oid_of_actual_bytes": "2d28ec002485b272f508dd338b0c5358620e0b92"
+    },
+    {
+      "role": "purposes036_070",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP036_KEP070_V2.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP036_KEP070_V2.json",
+      "bytes": 587884,
+      "sha256": "dfc905e032f385841bacde552d4a7e8c9577480078fb016a9b846cdf3716dc00",
+      "git_blob_oid_of_actual_bytes": "e437652c3e5bd8118073dc783f82c9d6cef05f7a"
+    },
+    {
+      "role": "purposes071_104",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP071_KEP104_V4.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP071_KEP104_V4.json",
+      "bytes": 745763,
+      "sha256": "0e174d86dc9ef10b0a94536384e17fdc7a2e8950a118b919d1d0b394bf9612e7",
+      "git_blob_oid_of_actual_bytes": "fd46331d54bba68b31cb2b88f3221d0b993a0311"
+    },
+    {
+      "role": "source1_existing_spine_and_exact6",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_PRIVATE19_AND_EVENT80001_E141_SOURCE1_CORE_AND_EXACT6_AUTHOR_SCOPE_RECEIVING_V1.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_PRIVATE19_AND_EVENT80001_E141_SOURCE1_CORE_AND_EXACT6_AUTHOR_SCOPE_RECEIVING_V1.json",
+      "bytes": 63757,
+      "sha256": "d5d09852b0aed69c5cd0f74b9e659deeaf814cf526843e1d66247f919d11a9b7",
+      "git_blob_oid_of_actual_bytes": "a7f7f4b23f175db945abf93a47273ba13f582ed6"
+    },
+    {
+      "role": "literal73_register",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "bytes": 694339,
+      "sha256": "fe1299f3ff04d9126541a824f4a4fd328d44d03f70248622a4d3b33ae2ab1296",
+      "git_blob_oid_of_actual_bytes": "0cbbb1d73684e16bb02640e897da6305fc0d6886"
+    },
+    {
+      "role": "all105_source_index",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V4.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V4.json",
+      "bytes": 537305,
+      "sha256": "dd538be0fe64c2ddfd04b0a1815aa1abd0a6a97b79c07121c480ef5a499a3c29",
+      "git_blob_oid_of_actual_bytes": "2cec273e37bb820fe3962bf65e563ec82c70c8ae"
+    },
+    {
+      "role": "transport",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_EXACT8_SAVED_OUTPUT_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V4.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_EXACT8_SAVED_OUTPUT_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V4.json",
+      "bytes": 681238,
+      "sha256": "e81d7135664e3692be66740e3291c99390841cb6692c62f9d6d40aa242e474dd",
+      "git_blob_oid_of_actual_bytes": "2d70ead3a40337412d7c1e25f28ed8979e489caa"
+    },
+    {
+      "role": "truthful_INPUT",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "bytes": 937935,
+      "sha256": "41af06a90b1a6381e3d86b7a5e2641c8818aacd97a182118478c70a4f758e699",
+      "git_blob_oid_of_actual_bytes": "82795b0a490d6e3f2004250edb17953bbcb43a74"
+    },
+    {
+      "role": "actual_future_ROOT_semantic_derivative",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 41458,
+      "sha256": "6261dc72080fb7ee906f2ab4524bfb53566187a1a7f2329bb9beb7252cfac33e",
+      "git_blob_oid_of_actual_bytes": "fd1ad9ee2a7ef3daea40baa539a0fce946dcc2f7"
+    },
+    {
+      "role": "NAV_private_witness_and_public_provenance",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT12_PUBLIC_PROVENANCE_NAVIGATION_AND_PRIVATE_WITNESS_DECLARATIONS_V1.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT12_PUBLIC_PROVENANCE_NAVIGATION_AND_PRIVATE_WITNESS_DECLARATIONS_V1.json",
+      "bytes": 187766,
+      "sha256": "c9487d7c78b3ff7f353805ca895da64fd592cb614ee435b3c98446cd7b34470e",
+      "git_blob_oid_of_actual_bytes": "d3b38677d5fab9336dbe7980eb88f3fa09f722c0"
+    }
+  ],
+  "actual_private_ROOT_semantic_authority": {
+    "witness_id": "KEI_CURRENT_V4_ACTUAL_SIGNED_ROOT_SEMANTIC_ADOPTION_WITH_LIMITS",
+    "bytes": 42220,
+    "sha256": "7d842b5fe736fe4e80b4c9841f6b014bbcc9cf05aeecac4aee81d81ff7262a44",
+    "git_blob_oid_of_actual_bytes": "c2122804a4126d7e75c6d09a1913a20b5de2ad66"
+  },
+  "actual_ROOT_plan303_composition_authority": {
+    "witness_id": "ROOT_KEI_ACTUAL_PLAN303_PUBLIC12_COMPOSITION_DISPATCH",
+    "bytes": 5214,
+    "sha256": "26e892ee64c5d181e365f703ad2e5bbfed0e7a211c34a7fd941fee024f046fbd",
+    "git_blob_oid_of_actual_bytes": "4720bb32f53a1e00384e586eda860ad3345bb36f"
+  },
+  "current_measured_geometry": {
+    "physical_lines": 197,
+    "bytes": 61002,
+    "title_line": 21,
+    "first_literal": 25,
+    "last_literal": 197,
+    "paragraphs": 73,
+    "header_lines": 20,
+    "source_physical_coordinates": "UNCHANGED_ORIGINAL_SOURCE6"
+  },
+  "original_body178_tuple": {
+    "bytes": 59968,
+    "sha256": "f253ba86e94b21fe31f8e742c35d6bedd559daf1d7e68e4f746f18e4a8331154",
+    "git_blob_oid_of_actual_bytes": "57d71c5716b89a1464821b4e07d69ee8d15d2ae0"
+  },
+  "header_lineage": {
+    "status": "active_provisional",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "current_actual_graph_scope": "Body six tuples, literal73 lines/offsets, index105 current3part tuples, transportfirst7, NAVfirst10 and CONTROLfirst11; no selfpins.",
+  "complete_original_creation_stage_and_tuple_qualification": "Every earlier pending-author/body/new105/ROOT string, original body178 codec, all original source/current-stage tuples, original common105 records and historical11/M0083/Minato3 inverse carriers remain dated source metadata. Live current derivatives are named separately; no equal-hash propagation into history.",
+  "actual_prior_QA_reporter_roles": "M008 is the actual old908418 component reviewer and its O087 proposal role remains disclosed. Current composer/reporter is original analytical author, not a new independent reviewer. Prior bodyQA191730/two wording qualifications and actual author244720/closure475725 retain full private custody.",
+  "literal_semantics": {
+    "all73": true,
+    "all525": true,
+    "source6_scope_and_questions": true,
+    "existing_named_gift_inside_same_required_parent": true,
+    "all_original_frozen105_objects": true
+  },
+  "ordinary_goods_and_rivals": "Preferences, making, food, gifts, negotiated company and care remain intrinsic with contrary requests/refusals and accountability limits, no stakes/name/school/attendance/model filter.",
+  "identity_modes_and_controls": "Separate registry keys/mainKey/Kei.sav/E141 unjoined actor; Main rescue Alice; event-local Kei giver/Sensei consumer; O087 actual agreement not fulfilledweek; O094 requested reading access not authorship; O042 report-wanted fishing not global absence; O104 wage motive not payroll; narrow61767six/59334oldGSC16 only original scopes.",
+  "grades": {
+    "author_core": "3NEW_WHOLE481_PLUS3PRIOR_WHOLE268",
+    "original_reviewer": "6WHOLE749",
+    "original_common105_ROOT": "26WHOLE79SELECTED_ATTRIBUTED_NOT_NEW_NORMAL105",
+    "new_primary_native_raw_AV_identity_model_admission": 0
+  },
+  "original_delivery_hygiene": "One safe original59968 body encoding remains literal. All303 approved whole scalar edits are reversible;132 original-parent private IDs preserve metadata roles. Four journal target tuples/existence remain unclaimed.",
+  "published_preparation_snapshot": {
+    "required": 150,
+    "named": 18,
+    "scope": "Dated ROOT5214 preparation baseline, not future persisted count"
+  },
+  "fixed355_29_25_384_788": [
+    355,
+    29,
+    25,
+    384,
+    788
+  ],
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "remaining_gates": [
+    "Different-author current composed-byte QA",
+    "ROOT current composed-byte receiving/adoption/freeze",
+    "Separate shared7 adoption/guarded installation/index/preflight/live controls",
+    "Ordinary push/full raw readback/new exact-head runtime"
+  ],
+  "R_Git_provider_shared_mutations": 0,
+  "canonical_count_added": 0,
+  "merge": "RESERVED",
+  "selfpin": "External manifest only.",
+  "ROOT_actual_current_public12_byte_acceptance_after_distinct_QA_V1": {
+    "ROOT": "/root",
+    "actual_UTC": "2026-10-14T22:57:58.656011+00:00",
+    "decision": "ROOT_ADOPTS_CURRENT197_PUBLIC12_WITH_LIMITS_AFTER_ACTUAL_COMPLETE_METADATA_AND_DISTINCT_QA",
+    "actual_preappend_ROOT_byte_adoption": {
+      "witness_id": "ROOT_KEI_CURRENT197_ACTUAL_BYTE_ADOPTION_20261014_V1",
+      "bytes": 6015,
+      "sha256": "d4ea5a6404557ff804614c9066c483dfde5d9d6bed27803c0053e570b136adb3",
+      "git_blob_oid_of_actual_bytes": "ac5117b549de113cabd7babfa659ac3679f13015"
+    },
+    "actual_preappend_external12_manifest": {
+      "bytes": 22328,
+      "sha256": "8d7979b36175980fcce4d1ea405b6b643022f88dcada7250bd30c09ad981a3a8",
+      "git_blob_oid_of_actual_bytes": "796fc5d1372e6427c448d2f89d11456dc2e25072"
+    },
+    "different_author_current_byte_QA": {
+      "reviewer": "/root/publishing_shared7_review",
+      "decision": "PASS_WITH_LIMITS",
+      "manual": {
+        "bytes": 22381,
+        "sha256": "c595e5d481370d9b693d09756060f9145fc412eee0d55afd7e01360946e3b36e",
+        "git_blob_oid_of_actual_bytes": "5d964115957a5e3088eaab796b2fc305a20b9cc0"
+      },
+      "mechanics": {
+        "bytes": 33546,
+        "sha256": "ea4661f94af93c08ec69f91433ba3de55e3201e027f3b7376c0412cd8191c90d",
+        "git_blob_oid_of_actual_bytes": "60894ab76b8903041eaa74338d8504036b680ae2"
+      },
+      "actual_checks": 160458,
+      "findings": []
+    },
+    "scope": "Earlier pending current byte QA/ROOT fields above are retained as dated construction history. Current exact12 metadata receiving and preappend ROOT byte adoption are actually complete with limits; all73/525/source6 meanings and source grades remain unchanged. This suffix is current metadata only and has separate final exact-byte review.",
+    "current_body": {
+      "bytes": 61002,
+      "sha256": "f3a900134a02161b82facfd95e7499ab76a32e9620269cc79dd3edd53968beb7",
+      "git_blob_oid_of_actual_bytes": "cbdb14997a381a543e11b2b8d06610e4d8ce283e"
+    },
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "canonical_count_added": 0,
+    "remaining_operations": [
+      "Focused final CONTROL suffix and unchangedfirst11 metadata verification",
+      "Final ROOT exact-byte freeze and shared7",
+      "Guarded installation/index/preflight/live controls",
+      "Ordinary push/fullraw readback/newhead SOURCE_HK_FINAL runtime"
+    ],
+    "R_Git_provider_shared_mutations": 0,
+    "merge": "RESERVED"
+  }
+}

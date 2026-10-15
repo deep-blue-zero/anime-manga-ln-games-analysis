@@ -7836,9 +7836,9 @@
   ],
   "current105_purpose_index": {
     "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT105_DIRECTED_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
-    "bytes": 499329,
-    "sha256": "da643e17b322927344240a942bdcd2eaca8f227e5256d15acc5cc5a15738b4aa",
-    "git_blob_oid_of_actual_bytes": "386d8ae1242f9b8efea8324f7d798e63ddc708f0"
+    "bytes": 499358,
+    "sha256": "cf366601d9505d90d6b76c511053a1eef7f931cb7c22d90026b2cd465d49fdbf",
+    "git_blob_oid_of_actual_bytes": "18dd021f6aaa250e25e090a21a1eda519fad0738"
   },
   "current15_source_receiving": {
     "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT15_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
