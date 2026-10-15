@@ -1,18 +1,18 @@
 # Repository operating card
 
-Start here. This card says what each role reads and may write; the linked documents own the rules.
+Start here. This card routes work; the linked documents own the rules. Acquire governance by the operation's actual responsibilities using the [task-dependent reading path](governance/CHATGPT_AUTHORITY_AND_ROUTING.md#6-mandatory-first-read-order), including additional sections before scope changes. A role label does not exempt an operation from its controls.
 
 ## Every session
 
 Read `governance/AUTHORITY_STATE.yaml` and `governance/AUTHORITY_SCOPE.json` before proposing or applying changes. Authority epoch 1 is active and owner-accepted; its activation record is `governance/cutovers/AUTHORITY_EPOCH_1_ACTIVATION_RECORD.md`. This repository is the primary analytical authority only for the exact hashed scope in `governance/AUTHORITY_SCOPE.json`. Native Google Sheets remain controlled Drive authoring surfaces whose revisions become effective only after verified export and Git merge; reference-only artifacts and the primary-source/extraction workspace remain outside Git authority.
 
-Routing, trust boundaries and stop conditions are in `governance/CHATGPT_AUTHORITY_AND_ROUTING.md`, which applies to every agent despite its path.
+Read routing Sections 2-4, 6-7 and 12 in `governance/CHATGPT_AUTHORITY_AND_ROUTING.md`, which applies to every agent despite its path. Its Section 6 selects the remaining context; a link alone does not require reading an unrelated policy in full.
 
 Analytical accuracy and fidelity to source evidence are the substantive objective; repository controls exist to preserve them. Correct demonstrated errors through legitimate routes, and when a control appears to block an evidence-backed correction, follow Section 4.2 of `governance/CHATGPT_AUTHORITY_AND_ROUTING.md` and the checklist's correction and conflict procedure. Diagnose and propose within scope; a diagnosis or claim of improved accuracy is never write, source, publication, or global-control authority.
 
 ## Every commit and push
 
-Before staging or committing, read and follow `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md`. Classify the change with `governance/repository-controls/change-obligations.json`. Stable analytical branches use the checklist's author preflight and may await housekeeping for five deterministic routing outputs; this is not integration readiness. Other changes use `python tools/prepare_commit.py --base origin/main --check` against the final staged index. Integration always requires the fully synchronized final commit and its successful `Repository integration audit` status. Character discovery may lag as expressly permitted by its maintenance policy.
+Before editing, staging, committing or pushing, acquire the applicable sections of `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` through its Before editing section. Classify the change with `governance/repository-controls/change-obligations.json`. Stable analytical branches use the checklist's author preflight and may await housekeeping for five deterministic routing outputs; this is not integration readiness. Other changes use `python tools/prepare_commit.py --base origin/main --check` against the final staged index. Integration always requires the fully synchronized final commit and its successful `Repository integration audit` status. Character discovery may lag as expressly permitted by its maintenance policy.
 
 Stage exact paths only: do not use `git add .` or wildcard staging. Push without force and never rewrite published history.
 

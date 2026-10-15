@@ -4,12 +4,18 @@ This is the mandatory pre-commit contract for every change to this repository, b
 
 ## Before editing
 
-1. Read `AGENTS.md`, `governance/AUTHORITY_STATE.yaml`, `governance/AUTHORITY_SCOPE.json`, and this checklist.
+1. Read `AGENTS.md`, `governance/AUTHORITY_STATE.yaml`, `governance/AUTHORITY_SCOPE.json`, and the applicable checklist sections selected below. The [task-dependent reading path](../CHATGPT_AUTHORITY_AND_ROUTING.md#6-mandatory-first-read-order) selects additional canonical context by responsibility.
 2. Begin from an up-to-date branch based on `origin/main`. Follow `BRANCH_LIFECYCLE.md` for the branch name and eventual pruning.
 3. Preserve the owner-only authorship policy, the Git/Drive authority boundary, artifact exclusions, and frozen migration records.
 4. Declare the intended paths. Never use `git add .`, wildcard staging, force-push, or history rewriting.
 
 For a stable series/study branch, read `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Author the named analytical root and required series/study routing descriptors; housekeeping owns five routing outputs. Character discovery belongs solely to the curation agent under `CHARACTER_DISCOVERY_MAINTENANCE.md`. It may supply a coordinated pre-merge repair on a source branch, but housekeeping may not write either character output.
+
+### Checklist acquisition by operation
+
+Before any edit, read **Before editing**, **Maintained documents: targeted edits** (the seven numbered requirements), **Branch routing and cleanup**, and **Change obligations**. Before a commit or push, also read **Execution profiles** and the applicable **Local clone mode** or **GitHub API or connector mode**, **Before and after publication**, and either **Stable analytical branch profile** plus **Stable analytical publication sequence** or **Local or cross-cutting profile**. Read **Squash-merge reconciliation** before that operation, including conflict repair.
+
+Read **Project-initiation architecture gate** before initiation, material restart or sequential admission; **Analytical corrections and procedural conflicts** before correcting analysis or resolving a control conflict; **Multi-session analytical candidates** before accepting transferred analysis; and **GitHub connector limits and failed writes** before connector mutation or recovery from an ambiguous write. Scope changes activate these sections before the new operation. This selects procedure from this contract; it does not replace or waive it.
 
 ## Project-initiation architecture gate
 

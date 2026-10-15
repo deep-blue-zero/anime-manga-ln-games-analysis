@@ -16,10 +16,12 @@ ROOT = TOOLS.parent
 sys.path.insert(0, str(TOOLS))
 
 from analytical_preflight import ROUTING_OUTPUTS, routing_preflight  # noqa: E402
-from character_index_core import GitSnapshot, SnapshotEntry, run_git  # noqa: E402
+from character_index_core import AuthorityGraph, GitSnapshot, SnapshotEntry, run_git  # noqa: E402
 from validate_repository import (  # noqa: E402
     PROJECT_INITIATION_GATE_PATH,
+    _is_substantive_sequential_artifact,
     _load_project_initiation_gate,
+    _validate_legacy_architecture_route,
     project_initiation_baseline_paths,
     validate_project_initiation_gate,
     worktree_paths,
@@ -82,7 +84,7 @@ class ProjectInitiationGateTests(unittest.TestCase):
                 "governance/source-policies/"
                 "MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
             ),
-            "activation_baseline_commit": "a" * 40,
+            "activation_baseline_commit": "2eec12ae1200d3aaaff3f754fd535808161226f8",
             "prospective_registry_marker": {
                 "field": "project_initiation_gate",
                 "required_value": "REQUIRED",
@@ -221,6 +223,15 @@ class ProjectInitiationGateTests(unittest.TestCase):
                 else b"# Substantive source-unit reading\n"
             )
             entries[path] = SnapshotEntry(path, "100644", data)
+        if (include_sequential and state != ""
+                and (marker or str(migration_scope).startswith("GIT_NATIVE_POST_CUTOVER_"))
+                and "sequential_execution:" not in (state or "")
+                and (state is None or "sequential_analysis_lock: OPEN" in state)):
+            entry = entries[self.entrypoint]
+            run = ("\n```yaml\nproject_initialization:\n  next_permitted_operation: V01\n"
+                   "sequential_execution:\n  mode: single_operation\n  authorized_start: V01\n"
+                   "  terminal_boundary: V01\n  next_candidate_operation: V01\n  run_state: active\n```\n")
+            entries[self.entrypoint] = SnapshotEntry(entry.path, entry.mode, entry.data + run.encode())
         return GitSnapshot(ROOT, "IN_MEMORY_PROJECT_GATE", entries)
 
     def failures(
@@ -373,6 +384,7 @@ class ProjectInitiationGateTests(unittest.TestCase):
                     include_method=False, include_architecture=False,
                     include_infrastructure=False,
                 )
+                snapshot.root = self.history_root
                 self.assertEqual(self.failures(snapshot, set(snapshot.entries)), [])
 
     def test_pre_enforcement_branch_reading_uses_baseline_paths_not_authored_date(self) -> None:
@@ -386,6 +398,9 @@ class ProjectInitiationGateTests(unittest.TestCase):
         )
         baseline = set(snapshot.entries) - {self.sequential}
         self.assert_failure_contains(self.failures(snapshot, baseline), 'requires sequential_analysis_lock OPEN')
+        # Separately preserve the exact reading already accepted on main.
+        snapshot.entries[self.sequential] = original
+        snapshot.root = self.history_root
         self.assertEqual(self.failures(snapshot, set(snapshot.entries)), [])
 
     def test_legacy_branch_reading_requires_routes_but_not_a_new_initialization_block(self) -> None:
@@ -413,6 +428,17 @@ class ProjectInitiationGateTests(unittest.TestCase):
             )
         )
         self.assert_failure_contains(failures, "requires sequential_analysis_lock OPEN")
+        # NTR's prospective checkpoints and supplemental postread freeze have
+        # different responsibilities from a source-unit deep reading. Their
+        # historical preservation is not permission to relabel them as one.
+        for kind, sequential in (("reconstruction_checkpoint", False),
+                                 ("supplemental_postread_freeze", False),
+                                 ("supplemental_deep_reading", True)):
+            path = self.prefix + "01 Sequential Readings/HISTORICAL.md"
+            entry = SnapshotEntry(path, "100644", authority_markdown(kind))
+            self.assertEqual(_is_substantive_sequential_artifact(
+                path, entry, self.control()["sequential_artifact_classification"]
+            ), (sequential, False, []))
 
     def test_untyped_sequential_directory_artifact_fails_closed(self) -> None:
         failures = self.failures(
@@ -579,6 +605,18 @@ class ProjectInitiationGateTests(unittest.TestCase):
                     PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode()
                 )
                 self.assert_failure_contains(self.failures(snapshot), "seal does not match completion_commit tree")
+
+    def test_terminal_independent_execution_fences_cannot_hide_conflicts(self) -> None:
+        for block in ("sequential_execution:\n  run_state: active\n",
+                      "sequential_execution: [\n",
+                      "supplemental_execution:\n  current_state: OPEN\n"):
+            with self.subTest(block=block):
+                snapshot = self.terminal_snapshot()
+                entry = snapshot.entries[self.entrypoint]
+                snapshot.entries[entry.path] = SnapshotEntry(
+                    entry.path, entry.mode, entry.data + ("\n```yaml\n" + block + "```\n").encode()
+                )
+                self.assertTrue(self.failures(snapshot))
 
     def test_terminal_closure_requires_declared_supplemental_lane(self) -> None:
         lane = (
@@ -1126,6 +1164,289 @@ class ProjectInitiationGateTests(unittest.TestCase):
             snapshot, project_initiation_baseline_paths(ROOT, control), control
         )
         self.assertEqual(failures, [])
+
+
+class RunAdmissionTests(unittest.TestCase):
+    def setUp(self) -> None:
+        self.temp = tempfile.TemporaryDirectory(prefix="run-admission-")
+        self.addCleanup(self.temp.cleanup)
+        self.root = Path(self.temp.name)
+        run_git(self.root, "init", "--quiet")
+        run_git(self.root, "config", "user.name", "Run fixture")
+        run_git(self.root, "config", "user.email", "run@example.invalid")
+        self.fixture = ProjectInitiationGateTests()
+        self.main = None
+        self.publish(self.candidate())
+
+    def candidate(self, run="completed", *, new=False, lock="OPEN") -> GitSnapshot:
+        f = self.fixture
+        snapshot = f.snapshot()
+        snapshot.root = self.root
+        operation = "V02" if run == "active" else "NONE_RUN_COMPLETE"
+        body = f.state(lock=lock) + (
+            "\n```yaml\nproject_initialization:\n"
+            f"  next_permitted_operation: {operation}\n"
+            "sequential_execution:\n  mode: continuous_sequential\n"
+            "  authorized_start: V01\n  terminal_boundary: V02\n"
+            f"  committed_high_water_mark: {'V01' if run == 'active' else 'V02'}\n"
+            f"  next_candidate_operation: {operation}\n  run_state: {run}\n```\n"
+        )
+        snapshot.entries[f.entrypoint] = SnapshotEntry(f.entrypoint, "100644", authority_markdown("corpus_map", body))
+        if new:
+            path = f.prefix + "SOURCE_UNIT_02.md"
+            snapshot.entries[path] = SnapshotEntry(path, "100644", authority_markdown("deep_reading", "New unit"))
+        return snapshot
+
+    def publish(self, snapshot):
+        run_git(self.root, "read-tree", "--empty")
+        for path, entry in snapshot.entries.items():
+            oid = run_git(self.root, "hash-object", "-w", "--stdin", input_bytes=entry.data).decode().strip()
+            run_git(self.root, "update-index", "--add", "--cacheinfo", f"{entry.mode},{oid},{path}")
+        tree = run_git(self.root, "write-tree").decode().strip()
+        parents = ["-p", self.main] if self.main else []
+        self.main = run_git(self.root, "commit-tree", tree, *parents, input_bytes=b"Fixture transaction\n").decode().strip()
+        run_git(self.root, "update-ref", "refs/remotes/origin/main", self.main)
+        return self.main
+
+    def failures(self, snapshot, baseline=None):
+        return validate_project_initiation_gate(snapshot, baseline or set())
+
+    def relocate_entrypoint(self, prior, *, data=None):
+        candidate = GitSnapshot(self.root, "RELOCATED_LEGACY_RUN", dict(prior.entries))
+        relocated = self.fixture.prefix + "MOVED_CURRENT_STATE.md"
+        candidate.entries.pop(self.fixture.entrypoint, None)
+        candidate.entries[relocated] = SnapshotEntry(
+            relocated, "100644", data if data is not None else
+            authority_markdown("corpus_map", self.fixture.state())
+        )
+        registry_path = "series/registry.json"
+        registry = json.loads(candidate.entries[registry_path].data)
+        registry["series"][0]["canonical_entrypoint"] = relocated
+        candidate.entries[registry_path] = SnapshotEntry(
+            registry_path, "100644", (json.dumps(registry) + "\n").encode()
+        )
+        reading = self.fixture.prefix + "SOURCE_UNIT_02.md"
+        candidate.entries[reading] = SnapshotEntry(reading, "100644", authority_markdown("deep_reading"))
+        return candidate, relocated
+
+    def test_completed_open_run_preserves_readings_but_rejects_new_admission(self):
+        self.assertEqual(self.failures(self.candidate()), [])
+        self.assertTrue(any("active authorized run" in e for e in self.failures(self.candidate(new=True))))
+
+    def test_active_bounded_run_can_admit_and_post_merge_check_agrees(self):
+        candidate = self.candidate("active", new=True)
+        self.assertEqual(self.failures(candidate), [])
+        head = self.publish(candidate)
+        self.assertEqual(self.failures(GitSnapshot.from_commit(self.root, head)), [])
+
+    def test_final_transaction_can_complete_existing_active_run_without_retroactive_failure(self):
+        self.publish(self.candidate("active"))
+        candidate = self.candidate(new=True)
+        self.assertEqual(self.failures(candidate), [])
+        head = self.publish(candidate)
+        self.assertEqual(self.failures(GitSnapshot.from_commit(self.root, head)), [])
+        self.assertEqual(self.failures(self.candidate(new=True)), [])
+
+    def test_completed_state_cannot_launder_admission_in_post_merge_audit(self):
+        head = self.publish(self.candidate(new=True))
+        errors = self.failures(GitSnapshot.from_commit(self.root, head))
+        self.assertTrue(any("active authorized run" in e for e in errors), errors)
+
+    def test_final_transaction_rejects_prior_prose_closed_lock(self):
+        prior = self.candidate("active")
+        entry = prior.entries[self.fixture.entrypoint]
+        prior.entries[entry.path] = SnapshotEntry(
+            entry.path, entry.mode, entry.data + b"\nSEQUENTIAL_ANALYSIS_LOCK = CLOSED\n"
+        )
+        self.publish(prior)
+        candidate = self.candidate(new=True)
+        errors = self.failures(candidate)
+        self.assertTrue(any("active authorized run" in error for error in errors), errors)
+        head = self.publish(candidate)
+        errors = self.failures(GitSnapshot.from_commit(self.root, head))
+        self.assertTrue(any("active authorized run" in error for error in errors), errors)
+
+    def test_inconsistent_missing_and_ambiguous_run_fields_fail_closed(self):
+        changes = (
+            (b"run_state: active", b"run_state: completed"),
+            (b"sequential_analysis_lock: OPEN", b"sequential_analysis_lock: CLOSED"),
+            (b"next_permitted_operation: V02", b"next_permitted_operation: V03"),
+            (b"next_candidate_operation: V02", b"next_candidate_operation: NONE"),
+            (b"  run_state: active\n", b""),
+            (b"run_state: active", b"run_state: {bad: value}"),
+            (b"mode: continuous_sequential", b"mode: []"),
+            (b"  terminal_boundary: V02\n", b""),
+            (b"mode: continuous_sequential", b"mode: single_operation"),
+            (b"mode: continuous_sequential\n  authorized_start: V01\n  terminal_boundary: V02", b"mode: single_operation\n  authorized_start: V01\n  terminal_boundary: V01"),
+            (b"sequential_execution:\n", b"sequential_execution: null\nignored:\n"),
+        )
+        for old, new in changes:
+            with self.subTest(old=old, new=new):
+                candidate = self.candidate("active", new=True)
+                entry = candidate.entries[self.fixture.entrypoint]
+                candidate.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(old, new))
+                self.assertTrue(self.failures(candidate))
+        candidate = self.candidate("active", new=True)
+        entry = candidate.entries[self.fixture.entrypoint]
+        extra = b"\n```yaml\nsequential_execution:\n  run_state: completed\n```\n"
+        candidate.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data + extra)
+        self.assertTrue(any("contradictory execution" in e for e in self.failures(candidate)))
+
+    def test_completion_transition_cannot_expand_recorded_bounds(self):
+        self.publish(self.candidate("active"))
+        candidate = self.candidate(new=True)
+        entry = candidate.entries[self.fixture.entrypoint]
+        candidate.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(b"V02", b"V03"))
+        self.assertTrue(any("active authorized run" in e for e in self.failures(candidate)))
+        for old, new in ((b"mode: continuous_sequential", b"mode: single_operation"),
+                         (b"authorized_start: V01", b"authorized_start: NONE")):
+            with self.subTest(invalid_prior=new):
+                prior = self.candidate("active")
+                entry = prior.entries[self.fixture.entrypoint]
+                prior.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(old, new))
+                self.publish(prior)
+                candidate = self.candidate(new=True)
+                entry = candidate.entries[self.fixture.entrypoint]
+                candidate.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(old, new))
+                self.assertTrue(any("active authorized run" in e for e in self.failures(candidate)))
+
+    def test_retrospective_correction_preserves_accepted_legacy_state(self):
+        candidate = self.candidate()
+        entry = candidate.entries[self.fixture.entrypoint]
+        # An existing inconsistent state is not a license to admit; nor does
+        # it force a corpus sweep before unrelated, evidence-backed correction.
+        legacy = entry.data.replace(b"run_state: completed", b"run_state: active")
+        candidate.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, legacy)
+        self.publish(candidate)
+        candidate.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, legacy + b"\nRetrospective correction route.\n")
+        correction = self.fixture.prefix + "ERRATUM.md"
+        candidate.entries[correction] = SnapshotEntry(correction, "100644", authority_markdown("claim_revision", "Evidence-backed correction"))
+        self.assertEqual(self.failures(candidate), [])
+        extra = self.fixture.prefix + "SOURCE_UNIT_02.md"
+        candidate.entries[extra] = SnapshotEntry(extra, "100644", authority_markdown("deep_reading"))
+        self.assertTrue(self.failures(candidate))
+
+    def test_legacy_route_does_not_hide_partial_or_malformed_run_declarations(self):
+        prior = self.fixture.snapshot(marker=False, migration_scope="IMPORTED_REVIEWED")
+        prior.root = self.root
+        self.publish(prior)
+        baseline = set(prior.entries)
+        for new_reading in (False, True):
+            candidate = GitSnapshot(self.root, "LEGACY_RUN", dict(prior.entries))
+            if new_reading:
+                path = self.fixture.prefix + "SOURCE_UNIT_02.md"
+                candidate.entries[path] = SnapshotEntry(path, "100644", authority_markdown("deep_reading"))
+            self.assertEqual(self.failures(candidate, baseline), [])
+            entry = prior.entries[self.fixture.entrypoint]
+            for declaration in ("sequential_execution: {}", "sequential_execution: null",
+                                "sequential_execution: [", "sequential_execution:\n  mode: single_operation"):
+                with self.subTest(new_reading=new_reading, declaration=declaration):
+                    candidate.entries[entry.path] = SnapshotEntry(
+                        entry.path, entry.mode, entry.data + ("\n```yaml\n" + declaration + "\n```\n").encode()
+                    )
+                    self.assertTrue(self.failures(candidate, baseline))
+
+        # Legacy absence never overrides an explicit stop or malformed lock.
+        candidate = GitSnapshot(self.root, "LEGACY_STOP", dict(prior.entries))
+        path = self.fixture.prefix + "SOURCE_UNIT_02.md"
+        candidate.entries[path] = SnapshotEntry(path, "100644", authority_markdown("deep_reading"))
+        for data in (
+            *(entry.data.replace(b"sequential_analysis_lock: OPEN", b"sequential_analysis_lock: " + value)
+              for value in (b"CLOSED", b"null", b"[]", b"UNKNOWN")),
+            entry.data + b"\nSEQUENTIAL_ANALYSIS_LOCK = CLOSED\n",
+            entry.data + b"\n```yaml\nproject_initialization:\n  next_permitted_operation: NONE\n```\n",
+        ):
+            with self.subTest(legacy_stop=data):
+                candidate.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, data)
+                self.assertTrue(self.failures(candidate, baseline))
+
+    def test_existing_path_retyping_or_replacement_does_not_hide_admission(self):
+        for original_type in ("claim_revision", "deep_reading"):
+            with self.subTest(original_type=original_type):
+                base = self.candidate()
+                path = self.fixture.prefix + "OLD.md"
+                base.entries[path] = SnapshotEntry(path, "100644", authority_markdown(original_type, "Old"))
+                self.publish(base)
+                base.entries[path] = SnapshotEntry(path, "100644", authority_markdown("deep_reading", "New unit"))
+                self.assertTrue(self.failures(base, set(base.entries)))
+
+    def test_entrypoint_relocation_cannot_drop_completed_run_state(self):
+        prior = self.fixture.snapshot(marker=False, migration_scope="IMPORTED_REVIEWED")
+        prior.root = self.root
+        prior.entries[self.fixture.entrypoint] = self.candidate().entries[self.fixture.entrypoint]
+        self.publish(prior)
+        candidate, relocated = self.relocate_entrypoint(prior)
+        self.assertEqual(_validate_legacy_architecture_route(
+            candidate, AuthorityGraph(candidate), self.fixture.prefix, relocated
+        ), [])
+        for identity in ("example", "renamed-example"):
+            with self.subTest(identity=identity):
+                registry_path = "series/registry.json"
+                registry = json.loads(candidate.entries[registry_path].data)
+                registry["series"][0]["series_id"] = identity
+                candidate.entries[registry_path] = SnapshotEntry(
+                    registry_path, "100644", (json.dumps(registry) + "\n").encode()
+                )
+                failures = self.failures(candidate, set(prior.entries))
+                self.assertTrue(any("active authorized run" in error for error in failures), failures)
+
+    def test_legacy_entrypoint_relocation_preserves_absent_run_compatibility(self):
+        prior = self.fixture.snapshot(marker=False, migration_scope="IMPORTED_REVIEWED")
+        prior.root = self.root
+        self.publish(prior)
+        candidate, _relocated = self.relocate_entrypoint(prior)
+        self.assertEqual(self.failures(candidate, set(prior.entries)), [])
+        head = self.publish(candidate)
+        self.assertEqual(self.failures(GitSnapshot.from_commit(self.root, head), set(prior.entries)), [])
+
+    def test_entrypoint_relocation_preserves_active_run_completion(self):
+        prior = self.fixture.snapshot(marker=False, migration_scope="IMPORTED_REVIEWED")
+        prior.root = self.root
+        prior.entries[self.fixture.entrypoint] = self.candidate("active").entries[self.fixture.entrypoint]
+        self.publish(prior)
+        candidate, _relocated = self.relocate_entrypoint(
+            prior, data=self.candidate().entries[self.fixture.entrypoint].data
+        )
+        self.assertEqual(self.failures(candidate, set(prior.entries)), [])
+        head = self.publish(candidate)
+        self.assertEqual(self.failures(GitSnapshot.from_commit(self.root, head), set(prior.entries)), [])
+
+    def test_entrypoint_relocation_fails_closed_when_prior_state_is_unavailable(self):
+        prior = self.fixture.snapshot(marker=False, migration_scope="IMPORTED_REVIEWED")
+        prior.root = self.root
+        del prior.entries[self.fixture.entrypoint]
+        self.publish(prior)
+        candidate, _relocated = self.relocate_entrypoint(prior)
+        failures = self.failures(candidate, set(prior.entries))
+        self.assertTrue(any("prior canonical entrypoint is unavailable" in error for error in failures), failures)
+
+    def test_entrypoint_relocation_fails_closed_on_ambiguous_prior_identity(self):
+        prior = self.fixture.snapshot(marker=False, migration_scope="IMPORTED_REVIEWED")
+        prior.root = self.root
+        registry_path = "series/registry.json"
+        registry = json.loads(prior.entries[registry_path].data)
+        registry["series"].append({**registry["series"][0], "series_id": "other",
+                                   "repository_path": "series/other/"})
+        prior.entries[registry_path] = SnapshotEntry(
+            registry_path, "100644", (json.dumps(registry) + "\n").encode()
+        )
+        self.publish(prior)
+        candidate, _relocated = self.relocate_entrypoint(prior)
+        registry = json.loads(candidate.entries[registry_path].data)
+        registry["series"] = [{**registry["series"][0], "series_id": "other"}]
+        candidate.entries[registry_path] = SnapshotEntry(
+            registry_path, "100644", (json.dumps(registry) + "\n").encode()
+        )
+        failures = self.failures(candidate, set(prior.entries))
+        self.assertTrue(any("ambiguous prior project routes" in error for error in failures), failures)
+
+    def test_missing_main_and_moved_activation_baseline_fail_closed(self):
+        run_git(self.root, "update-ref", "-d", "refs/remotes/origin/main")
+        self.assertTrue(any("needs refs/remotes/origin/main" in e for e in self.failures(self.candidate("active", new=True))))
+        with self.assertRaisesRegex(Exception, "immutable activation baseline"):
+            project_initiation_baseline_paths(self.root, {"activation_baseline_commit": self.main})
+
+
 
 
 if __name__ == "__main__":
