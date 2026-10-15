@@ -33,4 +33,4 @@ After those checks, delete the remote temporary branch and then its local counte
 
 ## Cross-cutting work
 
-Except for the continuing character curation branch above, repository-wide governance, tooling, or index changes use a narrowly named temporary branch such as `codex/<purpose>` or `chatgpt/<purpose>`. It must be pruned after verified integration. Do not route unrelated analytical content through a cross-cutting branch merely to avoid its series or study integration branch.
+Except for the continuing character curation branch above, repository-wide governance, tooling, or index changes use a narrowly named temporary branch under one of the audited agent prefixes: `codex/<purpose>`, `chatgpt/<purpose>` or `claude/<purpose>`. A branch under any other prefix receives no repository audit and so can never carry the required status. It must be pruned after verified integration. Do not route unrelated analytical content through a cross-cutting branch merely to avoid its series or study integration branch.

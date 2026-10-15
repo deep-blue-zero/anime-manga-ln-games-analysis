@@ -32,6 +32,8 @@ A local Windows comparison at main commit `72014aaf9446b3260acbd4dfc1a6c927ced57
 
 ## Remaining rollout gates
 
+**Status (2026-10-15): paused.** No gate below has advanced since this release on 2026-09-09. Reduced execution stays disabled and every audit runs every test. The catalog stays required, because the runner validates it and its groups define the mandatory set; a resumed rollout starts from these gates.
+
 Before reduced execution is implemented and activated, complete the assertion/dependency review, authenticated successful-baseline handling, curated failure-mutation comparisons, at least seven days and twenty representative shadow audits, and all required stabilization full audits. Coordinate any changes to reporter outputs, nightly baseline dispatch fields, and workflow contracts as reviewed changes. Source/final/post-merge roles must retain their independent certification requirements.
 
 Until then all coverage remains active. Rollback of the planner consists of selecting the full profile; rollback of reader behavior requires an ordinary reviewed code change. Timing thresholds are performance targets and do not cause correctness failures merely because a hosted runner is slow.

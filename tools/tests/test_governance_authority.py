@@ -755,11 +755,17 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ):
             with self.subTest(record_phrase=phrase):
                 self.assertIn(phrase, record)
-        self.assertIn("GitHub API or connector mode (ChatGPT)", routing)
-        self.assertIn("Local clone mode (Codex)", routing)
+        # The execution profiles are procedure and live in the checklist;
+        # the routing document points to them.
+        checklist = (
+            REPOSITORY_ROOT / "governance/policies/CHANGE_INTEGRATION_CHECKLIST.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("### GitHub API or connector mode\n", checklist)
+        self.assertIn("### Local clone mode\n", checklist)
+        self.assertIn("CHANGE_INTEGRATION_CHECKLIST.md#execution-profiles", routing)
         self.assertIn("primary/source-domain material in Drive", routing)
         self.assertIn("approved primary-source material on local disk", routing)
-        self.assertIn("git add -- <path>...", routing)
+        self.assertIn("git add -- <path>...", checklist)
 
     def test_public_activation_evidence_tuple_is_exact(self) -> None:
         publication = self.binding["repository_publication_activation"]
