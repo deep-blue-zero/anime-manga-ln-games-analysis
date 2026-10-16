@@ -8,7 +8,7 @@ generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
 version: '0.2'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
-source_boundary: Original Japanese prose novel; bounded EPUB witness verified through GO-U002; historical G0 admitted zero units
+source_boundary: Original Japanese prose novel; current bounded witness frontier owned by source map and entrypoint; historical G0 admitted zero units
 canonical_home: series/genocidal-organ/00 Frameworks and Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
 review_status: FOUNDATION_ACCEPTED_CONTINUATION_OWNER_AUTHORIZED

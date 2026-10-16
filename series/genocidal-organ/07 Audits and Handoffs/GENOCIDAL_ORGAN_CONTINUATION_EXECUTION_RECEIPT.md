@@ -7,22 +7,26 @@ series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
 version: '1.0'
 status: active_provisional
-scope: Owner-authorized continuous sequential run, first resumed checkpoint GO-U002
-source_boundary: GO-U002 complete; exclusive before spine 11 text/part0009.html; later narrative unread
+scope: Owner-authorized continuous sequential run, rolling execution receipt through GO-U003
+source_boundary: GO-U003 complete; exclusive before spine 12 text/part0010.html; later narrative unread
 canonical_home: series/genocidal-organ/07 Audits and Handoffs/GENOCIDAL_ORGAN_CONTINUATION_EXECUTION_RECEIPT.md
 created: '2026-10-16'
-review_status: GO_U002_SOURCE_SEMANTICS_AND_CONTROLS_ACCEPTED
+review_status: GO_U003_SOURCE_SEMANTICS_AND_CONTROLS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 ---
 
-# Continuous continuation — GO-U002 checkpoint
+# Continuous sequential continuation — rolling receipt
 
-The owner reviewed the pilot and requested continued analysis of this novel. The [current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) records that separate instruction as OPEN/active `continuous_sequential`, start GO-U002, terminal `GO_JP_EPUB_001_NATURAL_EPILOGUE_END`, confirmation between ordinary units false. The terminal is the natural narrative epilogue end of witness SHA-256 `a4107c01b69c0e8819818eabb0198cc62d4174aa173eb0ebdca3a0dbf93b7df0`, with all 44 structural obligations disposed, including trailing UNKNOWN classifications when reached. It is not a guessed final analytical ordinal. Actual high-water is GO-U002; both next fields GO-U003. Full coverage and downstream specialist, synthesis, reconstruction or comparative gates have not passed.
+## Historical GO-U002 authored checkpoint
 
-The first resumed unit pauses after publication validation for the coordinating operator’s protected active-checkpoint integration. No GO-U003 or later wording has been opened. Ordinary-unit continuation needs no new owner confirmation after that checkpoint; complete per-unit closeout and validation still govern.
+The following opening record preserves the GO-U002 checkpoint at its original frontier. The latest current frontier and later dated closeout are GO-U003/nextGO-U004; first-resume integration has passed.
+
+The owner reviewed the pilot and requested continued analysis of this novel. At that checkpoint, the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) recorded that separate instruction as OPEN/active `continuous_sequential`, start GO-U002, terminal `GO_JP_EPUB_001_NATURAL_EPILOGUE_END`, confirmation between ordinary units false. The terminal is the natural narrative epilogue end of witness SHA-256 `a4107c01b69c0e8819818eabb0198cc62d4174aa173eb0ebdca3a0dbf93b7df0`, with all 44 structural obligations disposed, including trailing UNKNOWN classifications when reached. It is not a guessed final analytical ordinal. At that checkpoint actual high-water was GO-U002 and both next fields GO-U003. Full coverage and downstream specialist, synthesis, reconstruction or comparative gates have not passed.
+
+The first resumed unit originally paused after publication validation for the coordinating operator’s protected active-checkpoint integration. At its GO-U002 exit, no GO-U003 or later wording had been opened. That checkpoint has now passed, as recorded in the durable index below. Ordinary-unit continuation needs no new owner confirmation after that checkpoint; complete per-unit closeout and validation still govern.
 
 ## Pilot preservation and targeted calibration
 
@@ -60,7 +64,7 @@ A separate controls reviewer checked OPEN/run/frontier fields, historical-state 
 
 ## Authored paths and publication boundary
 
-This transaction changes exactly ten project-local analytical paths: entrypoint; method; architecture; source map; three cumulative ledgers; GO-U002 reading; GO-U001 language addendum; this receipt. The descriptor remains PRESENT_REVIEWED without routing changes. Global catalogs, character curation, governance, original frozen bootstrap/pilot statements, raw EPUB and source derivatives are not authored outputs of this transaction.
+The historical GO-U002 transaction changed exactly ten project-local analytical paths: entrypoint; method; architecture; source map; three cumulative ledgers; GO-U002 reading; GO-U001 language addendum; this receipt. The descriptor remains PRESENT_REVIEWED without routing changes. Global catalogs, character curation, governance, original frozen bootstrap/pilot statements, raw EPUB and source derivatives are not authored outputs of this transaction.
 
 The pilot had already reached protected main `beeab47475f2cc5a8a9db9458462e03a879199e7`, whose exact audit succeeded. At initial resumption, remote stable tip `f8e21aa0030fb86c80618f731285af9009a809bc` and that main had identical full tree `1988b5f5710800a793dc9501afb40bc8ca47bd7e`. Ordinary local reconciliation `d2f469164a0404d7d72475068da859efaa73288f` preserves both parents and the identical tree; the equivalent Git Data API merge object is `b7b77cc2cf909435257c1ef447f3008e908e02e6`, also independently read back with those two parents/tree and allowed owner author/committer. The unpublished local checkpoint is retained separately. Before publication, fresh main advanced to `3caff8b0625f63ab073285c9841639248a946c50`. Its GO-root diff from the earlier baseline is empty. Clean ordinary reconciliation locally `f9daabbaf21ed1f135757eda458f8f3c2d68273a` and equivalent API object `3a2d14ab37bd382e93901103d72580130bb8f995` preserve b7 plus that main with identical full tree `aa0a6bc1f4d490322026d78ba17a071b0eef666f`; API parents/tree/allowed owner identity were read back. Final author preflight is performed in a detached candidate worktree at the exact API base. No published history is rewritten.
 
@@ -69,3 +73,21 @@ At receipt authoring, semantic/source closeout is accepted. Exact staged-index a
 The adopted bounded private verification bundle is retained in the approved original evidence collection with exact hash/readback recorded in the source map before publication. It contains only bounded source verification, current-unit renders, original-XML locators/coverage, source-only independent proof, noninterpretive gate timing/hash references and reproduction provenance; analytical freeze/prose/interpretive QA copies remain separately preserved. No runtime binaries, original EPUB duplicate or later prose is included. The original Drive source and its permissions remain unchanged.
 
 Verified source retention: Drive ID `1N98EmdsjhUK5mycn380iIyALRl5uDMzP`, canonical parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false; remote readback 3,975,969 bytes, SHA-256 `8c209bcfeb71edc1b509ff96b421df46ae77acb13fb62a3bbed2de2e55955ffc`. ZIP CRC, exact21 members and all20 manifest objects verified; manifest SHA-256 `8835c73a4a944f5a1dfdcea53f6830103f36601d45a123c7b47b9fcb99ec5316`. The source map records the same binding.
+
+## Durable completed-unit operational index
+
+Rows below record already completed publication/CI facts. A current unvalidated reading never supplies its own future audit result. Detailed private journal entries retain exact job-log proof excerpts; the compact bindings here preserve acceptance after transient scratch is gone.
+
+| Unit / frozen reading SHA-256 | Source evidence Drive ID / bundle SHA-256 | Authored / final accepted source head | Source / housekeeping / final exact audit | Actual full test result | Protected integration / explicit post-main |
+| --- | --- | --- | --- | --- | --- |
+| GO-U002 / `78e33b594e6724bcec55799231c39ac0fc55c007dbc2017018aa7f2c1173b70a` | `1N98EmdsjhUK5mycn380iIyALRl5uDMzP` / `8c209bcfeb71edc1b509ff96b421df46ae77acb13fb62a3bbed2de2e55955ffc`, full readback PASS/private | both `a9c9b29624b931b29f0747dd1c8560dd684b8332`; tree `b0eb9ff1a30c89abfb134f99a624121e45b82b46` | source38980515337/job117240031547; HK38981004693/job117241607444 NOOP/no child; final38981042052/job117241723380, actual AUDIT_COMMIT a9c9… | source and final each full352,0failures/0errors/0skips,selection=false; exact status success points final run | PR187 / controller38980705186 merged_verified, accessVERIFIED_OWNER_ONLY; main `cfddecb9b5b05ce7b5b25060673ed2e77639da6c`, identical source tree; explicit38981540401 actualcfddecb9… full352/0/0/0,selection=false, parent independently verified |
+
+## GO-U003 authored closeout
+
+The complete third subsection is read and source/form QA is performed within the GO-only context:40p/3empty/17ruby19rt/4,577raw body codepoints, all5RTLtiles and all36locators. The new reading owns10evidence records. Current cumulative state is37evidence/144narrative locators (+6calibration),14claims/6revisions,2predictions (1supported/1open),14subjects/20historical state andreadiness rows,10directional relations and16knowledge records. No later words, comparative/specialist work or character model is admitted. GO-PR002 is a new source-warranted conditional, not a retrofitted patrol forecast; tag function remains unobserved.
+
+The prior protected checkpoint is complete. Ordinary units now continue after their own source/HK/final exact-head checks without routine main integration pauses. GO-U003 publication/retention identifiers, exact exit seal and final frozen artifact hash are recorded below after actual acceptance; none is inferred from this authored closeout. No current source commit can certify its own future CI.
+
+GO-U003 exact exit seal: 2026-10-16T23:46:52.294755+00:00; selected-text SHA-256 `3f1354ffe70dd610fd3d2e76ee58a7395efc7880b715b60776ed74dd14d6dd76`, private JSON SHA-256 `231f5ae1751c725167baeb3fc99746dce31d97b5e109766375994296c38a5f28`. Frozen reading SHA-256 `bcf5df3ea68eb8d7bb3ca0f1ec74ff97939cae9c00b73d6640a2647ddd4e83d8`; source/semantic QA preapproval `33ccc8e6e1a4e849d90948d767fe480f8e0cae39cfab2104325f7383613b816b`, only review_status changed for acceptance. U001/U002 frozen hashes remain unchanged. Source retention/publication/CI for this current unit remain separately required.
+
+GO-U003 source retention is now independently verified: Drive ID `1uHXVL1QuqFryjPDtTnGzSfQxJZvLPUih`, parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false; full remote raw readback2,204,416 bytes, SHA-256 `b2b0d9ed7066ad6c23936066299af7b5495ab67eba0d1cf9c9c14adc6dacd18e`. ZIP CRC/safe paths/exact17members/all16manifest objects PASS; manifest SHA-256 `d330cf14c764b3ffc4b2493f3823e4f804f23b4241d2bae399019764c3e233ad`. No analytical prose is duplicated into this source-verification bundle. The current transaction changes exactly nine own project paths: current entrypoint, method, architecture, source map, three ledgers, GO-U003 reading and this rolling receipt. The GO-U001 calibration addendum and all earlier frozen readings are unchanged.
