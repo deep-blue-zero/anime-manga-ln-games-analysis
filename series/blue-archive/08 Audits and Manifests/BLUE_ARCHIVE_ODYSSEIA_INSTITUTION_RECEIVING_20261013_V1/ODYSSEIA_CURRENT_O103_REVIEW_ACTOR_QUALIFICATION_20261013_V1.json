@@ -1,0 +1,102 @@
+{
+  "schema": "BLUE_ARCHIVE_ODYSSEIA_CURRENT_O103_RETAINED_POINTER_ACTOR_QUALIFICATION_V1",
+  "dated": "2026-10-13T19:36:20.892524+00:00",
+  "package": "P3-INST-ODYSSEIA",
+  "owner": "O103",
+  "status": "ROOT_SUPPORTED_CURRENT_POINTER_QUALIFICATION_WITH_LIMITS;DIFFERENT_AUTHOR_RECEIVING_AND_ACTUAL_INSTALL_PENDING",
+  "application_rule": "For current use of the exact four retained fields below, apply these current actor qualifications. The complete original files, scalars, source bindings, hashes, receipt decisions and inverses remain unchanged and recoverable. This record is an operative successor to the single wrong actor attribution in the reviewer reason; the three positive-meaning fields receive explicit actor precision without another source or package credit.",
+  "current_positive_source_meaning": "Anna admits deliberately using fuel from fear of renewed public failure and wants warmth; Elina admits assuming provocation would motivate Anna because it motivates herself. Their mutual apology changes the conversation; property damage, injury, continued bodily complaints, restoration and race results remain distinct. Ordinary warmth, company and craft pleasure retain intrinsic value.",
+  "source": {
+    "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_862/BLUE_ARCHIVE_EVENT_862_CONTEXTUALIZATION_CHECKPOINT.md",
+    "bytes": 41110,
+    "sha256": "77ba72b65a0b43af2150ffbc19f30bd118dc75f3fa43bd0c8a1666deb33ded20",
+    "git_blob_oid_of_actual_bytes": "acefe4bccb5e2750419ad95f50c96de75594d1dc",
+    "exact_passage": "L147–150; EVENT862E011u25–63 versusu82–88",
+    "current_authority": "Cycle008 current adoptionL31–38 governs oldcreation/intake history",
+    "ROOT_actual_selected_receiving": "2fdaacL91–149;511e8bL31–44/150–157",
+    "ROOT_complete_retained_source_report_receiving": "325789",
+    "reading_boundary": "Selected consequential maintained analytical-normal context and complete retained O103 source-purpose report only; no whole232/15originalbody/primary/native/raw/AV credit"
+  },
+  "exact_retained_public_pointer_qualifications": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODYSSEIA_INSTITUTION_CURRENT_COMPLETE_INDEPENDENT_BODY_PURPOSE_AND_PRESERVATION_REVIEW_V1.json",
+      "json_pointer": "/all105_manual_source_specific_institution_judgments/103/reviewer_manual_meaning_and_finite_adoption_reason",
+      "retained_file_beforeimage": {
+        "bytes": 363132,
+        "sha256": "aa239287e1511402be75b48b31fefe283e22f9b601e6622d4b5043cfd95990b5",
+        "git_blob_oid_of_actual_bytes": "293d6abe9094e95d7a5550b566597b12fc4680bb"
+      },
+      "complete_retained_original_scalar": "Anna's admitted projection, warmth and mutual apology clarify different motives; property damage, injury and renewed hurt defeat completed restoration or lasting harmless growth.",
+      "retained_value_utf8_bytes": 178,
+      "retained_value_utf8_sha256": "592a6ee2bf100277cc01524c5c11ea52aa0d7b48d0483eb3ed22191110d11619",
+      "operation": "REVISE_ACTOR_BY_CURRENT_QUALIFICATION_ONLY;ORIGINAL_SCALAR_AND_FILE_BYTES_UNCHANGED",
+      "current_qualified_meaning": "Elina's admitted motivational projection, Anna's warmth and failure fear, and their mutual apology clarify different motives; property damage, injury and renewed hurt defeat completed restoration or lasting harmless growth.",
+      "source_mode": "Existing admitted maintained written analytical normal and accepted source-purpose report; no primary/native/AV replay"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODYSSEIA_INSTITUTION_CURRENT_COMPLETE_INDEPENDENT_BODY_PURPOSE_AND_PRESERVATION_REVIEW_V1.json",
+      "json_pointer": "/all105_manual_source_specific_institution_judgments/103/complete_current_positive_meaning",
+      "retained_file_beforeimage": {
+        "bytes": 363132,
+        "sha256": "aa239287e1511402be75b48b31fefe283e22f9b601e6622d4b5043cfd95990b5",
+        "git_blob_oid_of_actual_bytes": "293d6abe9094e95d7a5550b566597b12fc4680bb"
+      },
+      "complete_retained_original_scalar": "Anna's warmth/failure fear and Elina's different companionship motive become clearer through admitted projection and mutual apology.",
+      "retained_value_utf8_bytes": 132,
+      "retained_value_utf8_sha256": "38205b3549b8074355b948891c9e52760641f1bea29e14b8140868aafcde7cb5",
+      "operation": "CLARIFY_ACTOR_BY_CURRENT_QUALIFICATION_ONLY;ORIGINAL_SCALAR_AND_FILE_BYTES_UNCHANGED",
+      "current_qualified_meaning": "Anna's warmth and failure fear, Elina's different companionship motive and admitted motivational projection, and their mutual apology clarify different motives.",
+      "source_mode": "Existing admitted maintained written analytical normal and accepted source-purpose report; no primary/native/AV replay"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O080_O104_CURRENT_PURPOSES_V1.json",
+      "json_pointer": "/records/23/positive_meaning",
+      "retained_file_beforeimage": {
+        "bytes": 519960,
+        "sha256": "156397b49c4262db42decf03abe9e1535cc8e0de5133ca40f0bf20eed6769aec",
+        "git_blob_oid_of_actual_bytes": "c313608d36e0bebdd8daabde4a2dc334436f221a"
+      },
+      "complete_retained_original_scalar": "Anna's warmth/failure fear and Elina's different companionship motive become clearer through admitted projection and mutual apology.",
+      "retained_value_utf8_bytes": 132,
+      "retained_value_utf8_sha256": "38205b3549b8074355b948891c9e52760641f1bea29e14b8140868aafcde7cb5",
+      "operation": "CLARIFY_ACTOR_BY_CURRENT_QUALIFICATION_ONLY;ORIGINAL_SCALAR_AND_FILE_BYTES_UNCHANGED",
+      "current_qualified_meaning": "Anna's warmth and failure fear, Elina's different companionship motive and admitted motivational projection, and their mutual apology clarify different motives.",
+      "source_mode": "Existing admitted maintained written analytical normal and accepted source-purpose report; no primary/native/AV replay"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_CURRENT_PURPOSE_INDEX_V1.json",
+      "json_pointer": "/current105_records/103/positive_meaning",
+      "retained_file_beforeimage": {
+        "bytes": 334653,
+        "sha256": "364ac445a29a55f7aea96e4782969b06559dcd58bbf129c1244b3331d0a272d7",
+        "git_blob_oid_of_actual_bytes": "2714d9efedb09b87873ee470fc8b374a477a2244"
+      },
+      "complete_retained_original_scalar": "Anna's warmth/failure fear and Elina's different companionship motive become clearer through admitted projection and mutual apology.",
+      "retained_value_utf8_bytes": 132,
+      "retained_value_utf8_sha256": "38205b3549b8074355b948891c9e52760641f1bea29e14b8140868aafcde7cb5",
+      "operation": "CLARIFY_ACTOR_BY_CURRENT_QUALIFICATION_ONLY;ORIGINAL_SCALAR_AND_FILE_BYTES_UNCHANGED",
+      "current_qualified_meaning": "Anna's warmth and failure fear, Elina's different companionship motive and admitted motivational projection, and their mutual apology clarify different motives.",
+      "source_mode": "Existing admitted maintained written analytical normal and accepted source-purpose report; no primary/native/AV replay"
+    }
+  ],
+  "canonical_body_literal_claims_and_source_objects": "UNCHANGED;173-line33349/99fa75c73f38f08d79d6d1da8d79bac6b48aee3a4651103e220d8a9bc1714a26,36claims/all105sourcepayloads/gradeboundaries/rivals/endpoints stay exact",
+  "method_basis": "Existing seven-source-correction application rule and middle12 retained-pointer qualification mechanism; PR151 andPR152 seven/43 fields unchanged",
+  "published_receiving_basis": {
+    "source": "2aa2a312c7087f490f6d119edab404f31a04e008",
+    "tree": "7d6d2fe8e832a91ec1baac72474462b70d90428e",
+    "source_packages": 139,
+    "named": 14,
+    "main": "f1f094cc11edb2d8018701e3110b3269e6071409",
+    "main_packages": 133,
+    "main_named": 13,
+    "existing_source_chain": "Closed301fullSOURCE38449766510/HK38451877952noop/FINAL38451927189; not green for this uninstalled correction"
+  },
+  "literary_adjudication": "Correct the speaker of admitted motivational projection while preserving Anna warmth/fear, Elina company, mutual apology and material/recipient costs. No harmless growth, restitution or enduring mutual-understanding conclusion follows. The Odysseia comparison remains useful at finite grades.",
+  "different_author_current_qualification_QA": "PENDING",
+  "publication": "PENDING_NORMAL_ROOT_SOURCE_PUBLICATION_AND_FRESH_EXACT_HEAD_CHAIN",
+  "scope355_29_25_384_788": "UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_package_source_primary_identity_model_milestone_credit": 0,
+  "merge_approval": "RESERVED"
+}

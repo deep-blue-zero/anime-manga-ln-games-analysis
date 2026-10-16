@@ -1,0 +1,85 @@
+{
+  "schema": "LIBRARY_ROOT_ATTRIBUTED_CURRENT_BODY_RECEIVING_AND_REMAINING_ACCEPTANCE_SCOPE_V1",
+  "preparer": "/root/receive_middle_remaining",
+  "role": "PREPARATION_ONLY_ATTRIBUTED_ROOT_SCOPE; NOT_ROOT_SEMANTIC_ADOPTION_OR_CANONICAL_ACCEPTANCE",
+  "existing_required_home": "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER-SERVICE",
+  "existing_substantial_named_duty": "P3-REL-UI-SHIMIKO-READING-CRAFT-REST",
+  "unchanged_current_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 42014,
+    "sha256": "48587c4ce60f0c215f47d6a9753c2252bff0c52ffc9e89f6d37e71da21d1b9c7",
+    "git_blob_oid_of_actual_bytes": "bc5ad7d907391fec1da2b2452f3b269caae56373",
+    "physical_lines": 221
+  },
+  "ROOT_actual_whole_current_body_receiving_ATTRIBUTED": [
+    "871279 L1–85",
+    "b7b374 L86–160",
+    "e492d3 L161–221"
+  ],
+  "ROOT_all105_new_target_meanings_current_source_and_resolved52_receiving": "PENDING; not inferred from source tuples, independentQA verdict, reusedMinato/M008 meanings or CI.",
+  "ROOT_complete_literary_and_package_adoption": "PENDING; actual immutableROOT decision must be supplied before final canonical activation.",
+  "actual_different_author_reviews_at_their_complete_scopes": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_COMPLETE221_BODY_ONLY_LITERARY_REVIEW_V1.json",
+      "bytes": 151465,
+      "sha256": "29ea4efb4e780056ddf05bea8dffaaf0a74cc77b6a521650b53edd402404574b",
+      "git_blob_oid_of_actual_bytes": "e7b2c4eac728746f252b6c2a1682581ec31f66c5",
+      "original_private_review": {
+        "retained_private_witness_id": "private-witness:INDEPENDENT_LIBRARY_V2_WHOLE221_LITERAL52_NAMED12_RIVAL8_END16_AND_OPEN14_BODY_ONLY_REVIEW_V1.json",
+        "bytes": 153036,
+        "sha256": "98843bc04a29b29c113953cc0190d0223e80227f1582f7a4fe80d413a7b7c22a",
+        "git_blob_oid_of_actual_bytes": "88a429b4fcc774da2d5333765b0a4587e0b03cfa"
+      }
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_CURRENT221_NEW105_LITERAL52_COMPLETE_COMPONENT_REVIEW_V1.json",
+      "bytes": 69857,
+      "sha256": "7517e7b08b6554cecdb259d7a42f70a5c2715a31a067dc1ff288f6d1ac02161c",
+      "git_blob_oid_of_actual_bytes": "2041fdcbf1090d9ddc3ef18c39c82058193e73d3",
+      "original_private_review": {
+        "retained_private_witness_id": "private-witness:INDEPENDENT_LIBRARY_COMPLETE221_NEW105_PURPOSE_LITERAL52_EXACT8_FINAL_MANUAL_REASONS_AND_ACTUAL_QA_RECEIPT_V1.json",
+        "bytes": 70011,
+        "sha256": "676a21ac4766b12d7a2254c6498cd612d0200a787448c4bea970dfdbae456a07",
+        "git_blob_oid_of_actual_bytes": "74660c6febb1d83bfdce03c46c592ee994f3b6f4"
+      }
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_CURRENT_EXACT8_COMPLETE_EXECUTED_MECHANICAL_RECOVERY_REVIEW_V1.json",
+      "bytes": 934366,
+      "sha256": "ac97a8f333f8bd45ee1766db74391661f68776e234bd5a59a12a222c6df86240",
+      "git_blob_oid_of_actual_bytes": "9180625e33fc6f1aea0c2816a81b1d3ed884e51a",
+      "original_private_review": {
+        "retained_private_witness_id": "private-witness:INDEPENDENT_LIBRARY_CURRENT_EXACT8_LITERAL52_FULL105_FROZEN_FIELD_AND_DEDUP_SOURCE_SEGMENT_RECOVERY_EXECUTED_QA_V1.json",
+        "bytes": 935021,
+        "sha256": "d965f4514367160ac4bfb3a7d7fb7680cd58db665bcb236aaedac8bb99a524f2",
+        "git_blob_oid_of_actual_bytes": "15cec8b78e047a6c140bd61d2f179bdaa22fa9b3"
+      }
+    }
+  ],
+  "original_author_frozen_fields_role": "Author8 pending states, body2aa/f1f snapshot, exact8transport envelope and105source grades remain dated original. New composition progress qualifies only actual review preparation, without silently updating frozen statements or old hashes.",
+  "current_composition_runtime_snapshot_ROOT_attributed": {
+    "source_commit": "58a6fef2cd0cab67a5bf2125286e53d244979d27",
+    "source_tree": "35155af53cd670091b5cd5143ef88c3c95a20de2",
+    "source_packages": 140,
+    "source_named": 14,
+    "main_ROOT_reported_prefix": "bf7",
+    "main_packages": 133,
+    "main_named": 13,
+    "source58a_full_runtime_chain": "PENDING_AT_THIS_DATED_PREPARATION_SNAPSHOT",
+    "attribution": "ROOT supplied operational snapshot, no Git/provider/CI certification or future Library green claim by composer."
+  },
+  "existing_current_six_source_qualifier_layer": "Unchanged61767 payload and exact original source-input binding remains operative within its actual six-purpose scope.",
+  "current_published_GSC_coffee_comparator_qualification": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 59334,
+    "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+    "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679",
+    "scope": "Existing published GSC9 body72/148 and14 retained aliases ONLY; operative when that exact comparator is reused, no arbitrary Library/source field expansion or new wholeGSC receiving."
+  },
+  "source_and_independence_credit": "No new primary/native/raw/AV/source-admission/private identity/first-source credit. Composer authored noLibrary prose or105 meanings; own153036 is body-only QA, full105/component QA belongs to distinct m008_composition_review.",
+  "acceptance_publication_dependency": "Await actualROOT current105/source/52 receiving/adoption, final composition QA and exact source58a fullchain before this newpackage publication.",
+  "new_package_named_model_scope_credit_now": 0,
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "merge_approval": "RESERVED"
+}

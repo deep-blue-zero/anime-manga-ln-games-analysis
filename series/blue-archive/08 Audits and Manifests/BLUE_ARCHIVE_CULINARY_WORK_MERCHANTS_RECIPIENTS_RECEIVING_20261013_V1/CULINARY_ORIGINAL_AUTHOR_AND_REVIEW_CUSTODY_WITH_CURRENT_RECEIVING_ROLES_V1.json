@@ -1,0 +1,1031 @@
+{
+  "schema": "CULINARY_ORIGINAL_AUTHOR_REVIEW_ROOT_FULL_RAW_CUSTODY_AND_CURRENT_COMPOSITION_ROLES_V1",
+  "composer": "/root/m008_composition_review",
+  "composer_prior_role": "Semantic author35 purposes; original Middle body/core/70, Minato distinct full/successor QA and ROOT manual adoption retain attribution.",
+  "original_author_manifest": {
+    "bytes": 13919,
+    "sha256": "7f39b91c155276ddf67a29dbff1b26bb942ad5ad5746b04b48c168173572d437",
+    "git_blob_oid_of_actual_bytes": "96d663a2ff79c2813ad2fadaf963b4d762a1481b",
+    "evidence_id": "private-witness:CULINARY-ORIGINAL-CP104-AUTHOR-MANIFEST"
+  },
+  "original_author8": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_AND_RECIPIENTS_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 34965,
+      "sha256": "4f6694cea535ff73150bf5c34e01b4e335d237a6dc8f7f81df232348e92cbb67",
+      "git_blob_oid_of_actual_bytes": "c729779a291911e96fec32ed6e1ab14ce88559f2",
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-AUTHOR-0"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP000_CWCP035_V1.json",
+      "bytes": 260304,
+      "sha256": "9ff67829c589dd94cdfef42a337e6c2eb871a1c45f93f91925ec3ad8b5b50359",
+      "git_blob_oid_of_actual_bytes": "01ac7190afe6c9e7c651c3f4a9498082cf9e35fa",
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-AUTHOR-1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP036_CWCP070_V1.json",
+      "bytes": 519087,
+      "sha256": "61947a6d5df43403506237386cff83052765cecad7d5f236aa9d1e3cb4de282a",
+      "git_blob_oid_of_actual_bytes": "f5e2e83a53855e5fcb769159228742a053f4205d",
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-AUTHOR-2"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP071_CWCP104_V1.json",
+      "bytes": 561193,
+      "sha256": "4488ce73491989254436b484abc4b2acb6e51e1be4a04c36107b8c49aa687565",
+      "git_blob_oid_of_actual_bytes": "19a8785d2e0894bd52bd2608c826e30f2f519db4",
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-AUTHOR-3"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 132749,
+      "sha256": "f6ab62d4b75e598fda69f57fc4bff3cbc7f76ca681e10a6dc690b67bffceba7d",
+      "git_blob_oid_of_actual_bytes": "ed20e78f79445f500a965a77d49c1e5ea20b84d9",
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-AUTHOR-4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INPUT_SOURCE_GRADE_AND_CURRENT_QUALIFIER_RECEIVING_V1.json",
+      "bytes": 18677,
+      "sha256": "8604da4965fd43c878f2c637d65a48f6a2b453effc3b392f2624930c7738bb82",
+      "git_blob_oid_of_actual_bytes": "08ff7da38aad528a2096e23141e8fb964cd48026",
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-AUTHOR-5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_LITERAL40_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 392207,
+      "sha256": "caec20b5b72f7f957a396f6d9d4e963b0e16c6a2a5e1eba92820eec694115cf6",
+      "git_blob_oid_of_actual_bytes": "f008b667a4ab091f9b254920b0439fdb5a985880",
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-AUTHOR-6"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_SAVED_BODY_AND_EXACT8_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 7432,
+      "sha256": "a0472f9cac83aa502a837389e8665227f403410e8898c9676fdeacbcf7db2862",
+      "git_blob_oid_of_actual_bytes": "d5f578ddae4602e2cbc5f7aa397f3ea7c25905db",
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-AUTHOR-7"
+    }
+  ],
+  "original_ROOT390663": {
+    "bytes": 390663,
+    "sha256": "e8a417f68bf05ce7e27fe776e850f73cf4e64dbe60f6416f970f4475cd03ba19",
+    "git_blob_oid_of_actual_bytes": "b800a782dbf8e59e743233116679319cf2ffc23e",
+    "evidence_id": "private-witness:CULINARY-ROOT-ORIGINAL-MANUAL-ADOPTION"
+  },
+  "complete_original_QA": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INDEPENDENT_COMPLETE40_NEW105_SOURCE7_LITERARY_COMPONENT_REVIEW_V1.json",
+      "bytes": 448993,
+      "sha256": "b98b79a747fd58e237d3b0f58ba4959ae3573e3ee088685db1c318984727063e",
+      "git_blob_oid_of_actual_bytes": "5d49c75c04d89b945f7601ddf63662b67f0b03b8",
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-QA-0"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+      "bytes": 692151,
+      "sha256": "179ed33c9a1093e7c26320bf27b901a73ca5e0018a19fb142328cc5920febb68",
+      "git_blob_oid_of_actual_bytes": "ff8b588796b21fc611510e5f9a2cfbc8f75583a4",
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-QA-1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+      "bytes": 632818,
+      "sha256": "ba6f2910871f42b0aed68c77eef7b5fad3d4771d0ff4996f06e9f7bd5eaa18bc",
+      "git_blob_oid_of_actual_bytes": "7c88ef4f70fd2b877ad23059cc7d4d310c6762f7",
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-QA-2"
+    }
+  ],
+  "opaque_delivery_witnesses": [
+    {
+      "evidence_id": "private-witness:CULINARY-1C52BA76598D82AB5539E2E5",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_COMPLETE40_NEW105_SOURCE7_LITERARY_COMPONENT_REVIEW_V1.json",
+          "pointer": "/manifest/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/2/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 11654,
+        "sha256": "4151830303c6b67f850ef9d4c77a16db7cf65e99c02b0b1cdbfdcece5803a210",
+        "git_blob_oid_of_actual_bytes": "d2b941eaca843bd181fe91821062a3dfdd549e15"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-D7B609AFA567C0CF42A56E53",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_COMPLETE40_NEW105_SOURCE7_LITERARY_COMPONENT_REVIEW_V1.json",
+          "pointer": "/complete_executed_readback_and_preservation_evidence/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 699225,
+        "sha256": "e724bdbae442684eaad971bf0ca59d0a2c3c591b5322a1d9a1844580c2540826",
+        "git_blob_oid_of_actual_bytes": "befd6677a60d8cc911c1adc9d47ef16f0ffacb6c"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-5E71E7161D7A979FCC6B76BF",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/current_manifest/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/0/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/3/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 12816,
+        "sha256": "86933e1522b4ad2d787098202f3e9dad6a1746e0114a77073f7a7fb58210719c",
+        "git_blob_oid_of_actual_bytes": "93835ccec013c12e1953a83abafa893ea7001dcb"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-64CE25EBD3418B404FA26F4C",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/prior_complete_review/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/21/C_path"
+        },
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/independent_QA/original_complete40_105/path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 448993,
+        "sha256": "b98b79a747fd58e237d3b0f58ba4959ae3573e3ee088685db1c318984727063e",
+        "git_blob_oid_of_actual_bytes": "5d49c75c04d89b945f7601ddf63662b67f0b03b8"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-AF12FE05E9472BF40EEF1BC5",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/1/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 17560,
+        "sha256": "2926a9a139b8e8fffc1ef8e3e8a0f913be5bf6c5e5d6a2ea01006e3d1e734a48",
+        "git_blob_oid_of_actual_bytes": "f354dcda1aeeca6ceead2a4a69d08f20d2e74e84"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-FF3D71EA35F82931A8DAC84E",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/3/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 34965,
+        "sha256": "4f6694cea535ff73150bf5c34e01b4e335d237a6dc8f7f81df232348e92cbb67",
+        "git_blob_oid_of_actual_bytes": "c729779a291911e96fec32ed6e1ab14ce88559f2"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-94122E39394C1D9EC296CD1C",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/4/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/7/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 34965,
+        "sha256": "4f6694cea535ff73150bf5c34e01b4e335d237a6dc8f7f81df232348e92cbb67",
+        "git_blob_oid_of_actual_bytes": "c729779a291911e96fec32ed6e1ab14ce88559f2"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-E2A61649689EFAA1B5F291EF",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/5/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 260304,
+        "sha256": "9ff67829c589dd94cdfef42a337e6c2eb871a1c45f93f91925ec3ad8b5b50359",
+        "git_blob_oid_of_actual_bytes": "01ac7190afe6c9e7c651c3f4a9498082cf9e35fa"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-77E285B8D31D2E54DD6DA869",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/6/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/10/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 260304,
+        "sha256": "9ff67829c589dd94cdfef42a337e6c2eb871a1c45f93f91925ec3ad8b5b50359",
+        "git_blob_oid_of_actual_bytes": "01ac7190afe6c9e7c651c3f4a9498082cf9e35fa"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-6A539DCC87D83B9256B2C330",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/7/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 519087,
+        "sha256": "61947a6d5df43403506237386cff83052765cecad7d5f236aa9d1e3cb4de282a",
+        "git_blob_oid_of_actual_bytes": "f5e2e83a53855e5fcb769159228742a053f4205d"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-3F6879DEA6AD7F4081990561",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/8/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/13/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 519087,
+        "sha256": "61947a6d5df43403506237386cff83052765cecad7d5f236aa9d1e3cb4de282a",
+        "git_blob_oid_of_actual_bytes": "f5e2e83a53855e5fcb769159228742a053f4205d"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-9A060270CBA2425D5824DC88",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/9/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 561139,
+        "sha256": "b2d344c15ff82afd7ae2527c45ef9bd9429fd9149eebcc08f524f01564245513",
+        "git_blob_oid_of_actual_bytes": "e89dca294a560bdecf1a7d4cae10002d42706a65"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-128D676FC358C28A4026690C",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/10/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/16/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 561167,
+        "sha256": "36d9c3e32bbdbe64d20eabceb6d79c3553ca6ee5e5cfe053fe4ebfb99d214072",
+        "git_blob_oid_of_actual_bytes": "ff2e347b85e2bd2d824b3894bbcf37e494a6442f"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-3191C0B335DDF9E2E13E1469",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/11/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 132749,
+        "sha256": "e55194d6d2df3ab4affc88f243481b7ef83228af1249a489204dd41cce6cc72f",
+        "git_blob_oid_of_actual_bytes": "4981fd52f497fddf5d809f3c190861fdd8da9d78"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-A3950E44DBA06920546DB3B5",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/12/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/19/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 132749,
+        "sha256": "66a06a0ee84b3831ba0100de2643a5817bc1cf5e2441125254a694fe8bf7c3ab",
+        "git_blob_oid_of_actual_bytes": "386420b157ace583ffa8580b512e6f7c7f450a12"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-B4353E311E0F9D191812BA99",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/13/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 15970,
+        "sha256": "5dddcbe1d4350ac25ccd0e508d888f7088b6e4095d67e8da6f9ef7f4319de166",
+        "git_blob_oid_of_actual_bytes": "0d39a30ab455af7cc9dba18e268c1e83a94368f4"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-127F29C103D7D75333D1B542",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/14/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/22/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 15970,
+        "sha256": "5dddcbe1d4350ac25ccd0e508d888f7088b6e4095d67e8da6f9ef7f4319de166",
+        "git_blob_oid_of_actual_bytes": "0d39a30ab455af7cc9dba18e268c1e83a94368f4"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-8C22208179E5D0EB93164690",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/15/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 392207,
+        "sha256": "2498ff1714d9768a8b5422d7e2e264c10a8279e50852745a728457cb04fad73e",
+        "git_blob_oid_of_actual_bytes": "2ae9fbe72ac5b5c66f545032715d586245aa35e7"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-A25EAB490FEB580A0DC628AF",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/16/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/25/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 392207,
+        "sha256": "48a45aabd8c7f593d611521ddc39b26b033050606728bff3d5864f922a823a94",
+        "git_blob_oid_of_actual_bytes": "c1ed8fd957cc0848f7be792ccc65523f9bd1bb47"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-DE11F03F20FF72A33B0311E2",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/17/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 5911,
+        "sha256": "e54dec5e661c933928d53c3150a89e1103e48e609650cb77ea9eeb388a8bd1ee",
+        "git_blob_oid_of_actual_bytes": "e04271596f9b929212d1ef2c16225db071e6b4ce"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-40B59D6B707D7FBAEC3D7EC3",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/18/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/28/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 5911,
+        "sha256": "89b51bcbc2e7d2e2806d07d9cf001922b3067f7817f8335e71f5fdd45a2e5528",
+        "git_blob_oid_of_actual_bytes": "f4348b5bb7e449872039788798e84973bd41fc96"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-D241309A4717521D8D78A7E7",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/19/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 13280,
+        "sha256": "4dd1cb8eda19cf840945df4b7ab43b98e5b613d88fbdedb833d595c37fc85bc7",
+        "git_blob_oid_of_actual_bytes": "db37cbacf39891abe597c164643c55ac9838d2f9"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-9D9F040F76F5A23CA8FCF2DA",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/actual_input_pins/20/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 11654,
+        "sha256": "4151830303c6b67f850ef9d4c77a16db7cf65e99c02b0b1cdbfdcece5803a210",
+        "git_blob_oid_of_actual_bytes": "d2b941eaca843bd181fe91821062a3dfdd549e15"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-2ED8C88D45DAAF0803B46E3C",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/current_manifest/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/0/C_path"
+        },
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/manifest/path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 13919,
+        "sha256": "7f39b91c155276ddf67a29dbff1b26bb942ad5ad5746b04b48c168173572d437",
+        "git_blob_oid_of_actual_bytes": "96d663a2ff79c2813ad2fadaf963b4d762a1481b"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-DD5E30ACF0721C888E619C72",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/current_author_full_delta_proof/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/1/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 20262,
+        "sha256": "63093256d7edd716c544e161403ad1bc904330ecdebbef64b14db368031237d6",
+        "git_blob_oid_of_actual_bytes": "8735885b3ebc1c930d1a3163a0f28c7670f3f890"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-A1209C5FDFF52411E7CDFA6B",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/adequate_own_prior_QA/C_path"
+        },
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/4/C_path"
+        },
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/independent_QA/CP094_current_successor/path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 692151,
+        "sha256": "179ed33c9a1093e7c26320bf27b901a73ca5e0018a19fb142328cc5920febb68",
+        "git_blob_oid_of_actual_bytes": "ff8b588796b21fc611510e5f9a2cfbc8f75583a4"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-D944789629045D09519A3E2C",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/2/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 12816,
+        "sha256": "86933e1522b4ad2d787098202f3e9dad6a1746e0114a77073f7a7fb58210719c",
+        "git_blob_oid_of_actual_bytes": "93835ccec013c12e1953a83abafa893ea7001dcb"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-330F1E5F2F9065BA0CA677D0",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/5/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 34965,
+        "sha256": "4f6694cea535ff73150bf5c34e01b4e335d237a6dc8f7f81df232348e92cbb67",
+        "git_blob_oid_of_actual_bytes": "c729779a291911e96fec32ed6e1ab14ce88559f2"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-B1409A18F8FC3C4C26695130",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/6/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 34965,
+        "sha256": "4f6694cea535ff73150bf5c34e01b4e335d237a6dc8f7f81df232348e92cbb67",
+        "git_blob_oid_of_actual_bytes": "c729779a291911e96fec32ed6e1ab14ce88559f2"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-D0AB828CF32EE4B79A5E466A",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/8/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 260304,
+        "sha256": "9ff67829c589dd94cdfef42a337e6c2eb871a1c45f93f91925ec3ad8b5b50359",
+        "git_blob_oid_of_actual_bytes": "01ac7190afe6c9e7c651c3f4a9498082cf9e35fa"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-BB66257DB0267CB560B319B9",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/9/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 260304,
+        "sha256": "9ff67829c589dd94cdfef42a337e6c2eb871a1c45f93f91925ec3ad8b5b50359",
+        "git_blob_oid_of_actual_bytes": "01ac7190afe6c9e7c651c3f4a9498082cf9e35fa"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-8C340789C79B9190C8191F55",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/11/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 519087,
+        "sha256": "61947a6d5df43403506237386cff83052765cecad7d5f236aa9d1e3cb4de282a",
+        "git_blob_oid_of_actual_bytes": "f5e2e83a53855e5fcb769159228742a053f4205d"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-A6282541FFE1F5CAEB718DE7",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/12/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 519087,
+        "sha256": "61947a6d5df43403506237386cff83052765cecad7d5f236aa9d1e3cb4de282a",
+        "git_blob_oid_of_actual_bytes": "f5e2e83a53855e5fcb769159228742a053f4205d"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-8CB587D35DEF8BF4538B865C",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/14/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 561193,
+        "sha256": "4488ce73491989254436b484abc4b2acb6e51e1be4a04c36107b8c49aa687565",
+        "git_blob_oid_of_actual_bytes": "19a8785d2e0894bd52bd2608c826e30f2f519db4"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-86A7DEBA1343ECFB8195391B",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/15/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 561167,
+        "sha256": "36d9c3e32bbdbe64d20eabceb6d79c3553ca6ee5e5cfe053fe4ebfb99d214072",
+        "git_blob_oid_of_actual_bytes": "ff2e347b85e2bd2d824b3894bbcf37e494a6442f"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-63851F1D68B8C81BF5AFE5D0",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/17/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 132749,
+        "sha256": "f6ab62d4b75e598fda69f57fc4bff3cbc7f76ca681e10a6dc690b67bffceba7d",
+        "git_blob_oid_of_actual_bytes": "ed20e78f79445f500a965a77d49c1e5ea20b84d9"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-A6408A47C17BF4C0EA649CE4",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/18/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 132749,
+        "sha256": "66a06a0ee84b3831ba0100de2643a5817bc1cf5e2441125254a694fe8bf7c3ab",
+        "git_blob_oid_of_actual_bytes": "386420b157ace583ffa8580b512e6f7c7f450a12"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-B17E8EDC54067DFF6E32A811",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/20/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 18677,
+        "sha256": "8604da4965fd43c878f2c637d65a48f6a2b453effc3b392f2624930c7738bb82",
+        "git_blob_oid_of_actual_bytes": "08ff7da38aad528a2096e23141e8fb964cd48026"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-D3E282447800F8EC2DBB1401",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/21/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 15970,
+        "sha256": "5dddcbe1d4350ac25ccd0e508d888f7088b6e4095d67e8da6f9ef7f4319de166",
+        "git_blob_oid_of_actual_bytes": "0d39a30ab455af7cc9dba18e268c1e83a94368f4"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-DB533F47CABC14A39637FBC4",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/23/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 392207,
+        "sha256": "caec20b5b72f7f957a396f6d9d4e963b0e16c6a2a5e1eba92820eec694115cf6",
+        "git_blob_oid_of_actual_bytes": "f008b667a4ab091f9b254920b0439fdb5a985880"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-E0508A1F2BD7A6C99FF11C11",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/24/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 392207,
+        "sha256": "48a45aabd8c7f593d611521ddc39b26b033050606728bff3d5864f922a823a94",
+        "git_blob_oid_of_actual_bytes": "c1ed8fd957cc0848f7be792ccc65523f9bd1bb47"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-D382BC775E5F07726465F521",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/26/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 7432,
+        "sha256": "a0472f9cac83aa502a837389e8665227f403410e8898c9676fdeacbcf7db2862",
+        "git_blob_oid_of_actual_bytes": "d5f578ddae4602e2cbc5f7aa397f3ea7c25905db"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-9446E38B8BBCEE613CDCC82A",
+      "original_contexts": [
+        {
+          "document": "CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+          "pointer": "/all_input_pins/27/C_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 5911,
+        "sha256": "89b51bcbc2e7d2e2806d07d9cf001922b3067f7817f8335e71f5fdd45a2e5528",
+        "git_blob_oid_of_actual_bytes": "f4348b5bb7e449872039788798e84973bd41fc96"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-878D4D0E4667EA454704D65E",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/complete_exact8_current_author_components/0/candidate_relative_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 34965,
+        "sha256": "4f6694cea535ff73150bf5c34e01b4e335d237a6dc8f7f81df232348e92cbb67",
+        "git_blob_oid_of_actual_bytes": "c729779a291911e96fec32ed6e1ab14ce88559f2"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-44F722909B2370F7E5631A69",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/complete_exact8_current_author_components/1/candidate_relative_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 260304,
+        "sha256": "9ff67829c589dd94cdfef42a337e6c2eb871a1c45f93f91925ec3ad8b5b50359",
+        "git_blob_oid_of_actual_bytes": "01ac7190afe6c9e7c651c3f4a9498082cf9e35fa"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-87FF2DFDB9A9F308CE5C6FF1",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/complete_exact8_current_author_components/2/candidate_relative_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 519087,
+        "sha256": "61947a6d5df43403506237386cff83052765cecad7d5f236aa9d1e3cb4de282a",
+        "git_blob_oid_of_actual_bytes": "f5e2e83a53855e5fcb769159228742a053f4205d"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-96E30971E29179497692C6E1",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/complete_exact8_current_author_components/3/candidate_relative_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 561193,
+        "sha256": "4488ce73491989254436b484abc4b2acb6e51e1be4a04c36107b8c49aa687565",
+        "git_blob_oid_of_actual_bytes": "19a8785d2e0894bd52bd2608c826e30f2f519db4"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-48488A599FDF4C88E431965C",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/complete_exact8_current_author_components/4/candidate_relative_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 132749,
+        "sha256": "f6ab62d4b75e598fda69f57fc4bff3cbc7f76ca681e10a6dc690b67bffceba7d",
+        "git_blob_oid_of_actual_bytes": "ed20e78f79445f500a965a77d49c1e5ea20b84d9"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-C5ADF7F899AC7F577DE28BAE",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/complete_exact8_current_author_components/5/candidate_relative_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 18677,
+        "sha256": "8604da4965fd43c878f2c637d65a48f6a2b453effc3b392f2624930c7738bb82",
+        "git_blob_oid_of_actual_bytes": "08ff7da38aad528a2096e23141e8fb964cd48026"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-5195405C6BE9F608BC54DC1C",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/complete_exact8_current_author_components/6/candidate_relative_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 392207,
+        "sha256": "caec20b5b72f7f957a396f6d9d4e963b0e16c6a2a5e1eba92820eec694115cf6",
+        "git_blob_oid_of_actual_bytes": "f008b667a4ab091f9b254920b0439fdb5a985880"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-1192107F0F5203981844DE4E",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/complete_exact8_current_author_components/7/candidate_relative_path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 7432,
+        "sha256": "a0472f9cac83aa502a837389e8665227f403410e8898c9676fdeacbcf7db2862",
+        "git_blob_oid_of_actual_bytes": "d5f578ddae4602e2cbc5f7aa397f3ea7c25905db"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-70AE34B951AB0D6761DC5270",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/root_source_receiving_actual_complete_record/path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 6970,
+        "sha256": "b6f895c460ccb40b33ab83426c23c9db93ced5e4c23441cb5ce14bcef406981a",
+        "git_blob_oid_of_actual_bytes": "d75d62a77c52c43a7f360052437a04533f74fc21"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-F855176FE6D903757B482F8C",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/actual_105_meaning_receiving/path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 3976,
+        "sha256": "da016cc5b9925aa610be37a55115a201fbc9231a5bb4b36efbe369a80fc4072c",
+        "git_blob_oid_of_actual_bytes": "0d0b4647f31323288d714322e880e13ad9d2d771"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-96CCD4F14529BDAD8381899B",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/independent_QA/CP104_current_ambiguity_successor/path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 632818,
+        "sha256": "ba6f2910871f42b0aed68c77eef7b5fad3d4771d0ff4996f06e9f7bd5eaa18bc",
+        "git_blob_oid_of_actual_bytes": "7c88ef4f70fd2b877ad23059cc7d4d310c6762f7"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-AFF9C48B0DE33614B749B4C5",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/ROOT_independent_QA_personal_receiving/forty_joins_and_reasons/path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 18622,
+        "sha256": "9748a4ceb52593c2f49a591822804d62447034dbc6eff9aca632b6cb0039aa06",
+        "git_blob_oid_of_actual_bytes": "edae895246e1dbe7adaa927d8def76e6ae981377"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-26D9824E1C05E2470A193057",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/ROOT_independent_QA_personal_receiving/all105_distinct_reasons_two_current_scalar_QA/path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 5374,
+        "sha256": "2a591c3211d34b025c3f9ad31df24b3e27e4319204564f87fe8b6a130c842274",
+        "git_blob_oid_of_actual_bytes": "5162ead09ff9a5cd780f6d684cb5a6352a4b4016"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    },
+    {
+      "evidence_id": "private-witness:CULINARY-927EF531F5E42BB1096FC5B8",
+      "original_contexts": [
+        {
+          "document": "ACTUAL_ROOT_ORIGINAL390663",
+          "pointer": "/own_actual_current8_raw_recovery/path"
+        }
+      ],
+      "complete_referenced_private_witness": {
+        "bytes": 8089,
+        "sha256": "8f47a603e15fbe214285fac5557a0998579ab45d7f499efc8af232abaeec9b7d",
+        "git_blob_oid_of_actual_bytes": "6975d5d3c24f01b29741d517a8047ea571f4017a"
+      },
+      "role": "Complete original path/raw bytes private; opaque witness metadata only, not an unbound public source dependency."
+    }
+  ],
+  "preservation": "Full originalauthor8,3 QA and signedROOT390663 plus every directly referenced C witness copied privately. Sparse UTF8 operations/full inverses/forwards executed; historical grade/40/105/source7 and original11 common inputs/CP094/CP104 conclusions remain attributed.",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_literary_source_canonical_package_named_runtime_credit": 0
+}

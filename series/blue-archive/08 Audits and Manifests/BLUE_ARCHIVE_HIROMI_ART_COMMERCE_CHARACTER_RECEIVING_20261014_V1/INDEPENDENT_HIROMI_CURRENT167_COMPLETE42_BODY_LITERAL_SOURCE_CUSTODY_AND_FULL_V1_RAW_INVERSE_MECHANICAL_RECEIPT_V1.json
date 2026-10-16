@@ -1,0 +1,758 @@
+{
+  "schema": "INDEPENDENT_HIROMI_CURRENT167_COMPLETE42_BODY_ONLY_MECHANICAL_PRESERVATION_RECEIPT_V1",
+  "reviewer": "/root/m008_composition_review",
+  "author": "/root/minato_105_derivative",
+  "body": {
+    "bytes": 37729,
+    "sha256": "b7d396dd8993c8fb8ff1386bf22d250d7303386c18993d456570628064cfe14c",
+    "git_blob_oid_of_actual_bytes": "d534074256b548080789723b0f04ac2c29353732"
+  },
+  "manifest": {
+    "bytes": 6320,
+    "sha256": "c58e5cb687f3c0e8bde3663a17e992ec6d965e4225a2ab226057d75d66c6338b",
+    "git_blob_oid_of_actual_bytes": "00a52be8f97dab4b45bf6744d8b19a26f237d3a6"
+  },
+  "source_carrier": {
+    "bytes": 28418,
+    "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+    "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83"
+  },
+  "full_raw_inverse": {
+    "bytes": 80834,
+    "sha256": "4607cff181adfb42fa90c262a892e67c58188ffecadfd0ddc6a2cc40fac60909",
+    "git_blob_oid_of_actual_bytes": "84f6d2b4218b173f588d9ac59d98c4d4877f41a8"
+  },
+  "check_count": 182,
+  "failure_count": 0,
+  "checks": [
+    {
+      "check": "current_exactbody_pin",
+      "pass": true
+    },
+    {
+      "check": "167_lines_LF",
+      "pass": true
+    },
+    {
+      "check": "HC001/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC001/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC001/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC002/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC002/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC002/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC003/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC003/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC003/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC004/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC004/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC004/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC005/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC005/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC005/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC006/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC006/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC006/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC007/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC007/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC007/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC008/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC008/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC008/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC009/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC009/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC009/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC010/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC010/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC010/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC011/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC011/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC011/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC012/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC012/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC012/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC013/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC013/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC013/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC014/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC014/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC014/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC015/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC015/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC015/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC016/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC016/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC016/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC017/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC017/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC017/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC018/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC018/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC018/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC019/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC019/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC019/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC020/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC020/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC020/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC021/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC021/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC021/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC022/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC022/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC022/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC023/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC023/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC023/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC024/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC024/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC024/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC025/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC025/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC025/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC026/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC026/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC026/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC027/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC027/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC027/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC028/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC028/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC028/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC029/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC029/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC029/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC030/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC030/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC030/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC031/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC031/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC031/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC032/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC032/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC032/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC033/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC033/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC033/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC034/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC034/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC034/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC035/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC035/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC035/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC036/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC036/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC036/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC037/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC037/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC037/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC038/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC038/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC038/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC039/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC039/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC039/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC040/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC040/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC040/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC041/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC041/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC041/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "HC042/literal_complete",
+      "pass": true
+    },
+    {
+      "check": "HC042/literal_sha",
+      "pass": true
+    },
+    {
+      "check": "HC042/byte_offset",
+      "pass": true
+    },
+    {
+      "check": "42exact_unique",
+      "pass": true
+    },
+    {
+      "check": "16_actual_concerns_mapped",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/123",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/124",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/125",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/126",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/127",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/128",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/129",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/130",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/131",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/132",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/133",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/134",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/135",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/136",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/137",
+      "pass": true
+    },
+    {
+      "check": "complete16_finite_endpoints/138",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/146",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/147",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/148",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/149",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/150",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/151",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/152",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/153",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/154",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/155",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/156",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/157",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/158",
+      "pass": true
+    },
+    {
+      "check": "complete14_original_OPEN_gaps/159",
+      "pass": true
+    },
+    {
+      "check": "actual8rivals",
+      "pass": true
+    },
+    {
+      "check": "actual16ends14open",
+      "pass": true
+    },
+    {
+      "check": "actual_source_carrier_pin",
+      "pass": true
+    },
+    {
+      "check": "complete_oldbody_raw_custody",
+      "pass": true
+    },
+    {
+      "check": "complete_currentbody_raw_custody",
+      "pass": true
+    },
+    {
+      "check": "current_actual_op/FULL_LINE_REPLACE/6",
+      "pass": true
+    },
+    {
+      "check": "current_actual_op/FULL_LINE_REPLACE/5",
+      "pass": true
+    },
+    {
+      "check": "current_actual_op/FULL_LINE_REPLACE/4",
+      "pass": true
+    },
+    {
+      "check": "current_actual_op/FULL_LINE_REPLACE/3",
+      "pass": true
+    },
+    {
+      "check": "current_actual_op/EXACT_LITERAL_REPLACE/unreceived private pools, performed voice, exhaust",
+      "pass": true
+    },
+    {
+      "check": "current_actual_op/EXACT_LITERAL_REPLACE/a familiar peer is involved in thwarting work she ",
+      "pass": true
+    },
+    {
+      "check": "current_actual_op/EXACT_LITERAL_REPLACE/Hiromi is a tired guard deputy who also finds ease",
+      "pass": true
+    },
+    {
+      "check": "executed_full_V2_V1_inverse",
+      "pass": true
+    },
+    {
+      "check": "original_actual_op/EXACT_LITERAL_REPLACE",
+      "pass": true
+    },
+    {
+      "check": "original_actual_op/EXACT_LITERAL_REPLACE",
+      "pass": true
+    },
+    {
+      "check": "original_actual_op/EXACT_LITERAL_REPLACE",
+      "pass": true
+    },
+    {
+      "check": "original_actual_op/FULL_LINE_REPLACE",
+      "pass": true
+    },
+    {
+      "check": "original_actual_op/FULL_LINE_REPLACE",
+      "pass": true
+    },
+    {
+      "check": "original_actual_op/FULL_LINE_REPLACE",
+      "pass": true
+    },
+    {
+      "check": "original_actual_op/FULL_LINE_REPLACE",
+      "pass": true
+    },
+    {
+      "check": "executed_full_V1_V2_forward",
+      "pass": true
+    },
+    {
+      "check": "exact7_operations_three_scope_fourformat",
+      "pass": true
+    }
+  ],
+  "scope": "Literal/custody/raw inverse only. No literary/normal/primary/source/105/components/Rootadoption credit from mechanical checks."
+}

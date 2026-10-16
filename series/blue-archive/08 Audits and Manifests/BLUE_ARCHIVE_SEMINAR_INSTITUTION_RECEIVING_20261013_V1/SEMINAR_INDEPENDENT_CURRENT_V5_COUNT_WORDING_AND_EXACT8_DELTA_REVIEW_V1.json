@@ -1,0 +1,623 @@
+{
+  "schema": "INDEPENDENT_SEMINAR_V5_ONE_SOURCE_COUNT_WORDING_AND_REQUIRED_TYPED_DIGEST_ONLY_DELTA_QA_V1",
+  "UTC": "2026-10-13T23:33:04.405053+00:00",
+  "reviewer": "/root/receive_middle_remaining",
+  "current_manifest": {
+    "bytes": 20694,
+    "sha256": "b4b3ad1c2a2fe79c64f330c03d34fd4ecaec428e37be3e293dd4a7c46d78ea9b",
+    "git_blob_oid_of_actual_bytes": "37092910753c6509feef5f87edd1730a6cf92563"
+  },
+  "author_inverse_manifest": {
+    "bytes": 828469,
+    "sha256": "f84bd962fe4d4629d91d12ab16f8d37b233190028e65ad00e6c03313d60cff43",
+    "git_blob_oid_of_actual_bytes": "17ec7968dbd485f7faf8c122ed2ae13ad76aedf1"
+  },
+  "actual_bounded_checks": 94,
+  "checks": [
+    {
+      "check": "manifest exact",
+      "PASS": true
+    },
+    {
+      "check": "old V4 manifest qualification retained",
+      "PASS": true
+    },
+    {
+      "check": "inverse manifest exact",
+      "PASS": true
+    },
+    {
+      "check": "current full pin series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+      "PASS": true
+    },
+    {
+      "check": "prior full pin series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+      "PASS": true
+    },
+    {
+      "check": "current full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "prior full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "current full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "prior full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "current full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "prior full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "current full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "prior full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "current full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "prior full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "current full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "prior full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "current full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "prior full pin series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "exact8 fixed routes",
+      "PASS": true
+    },
+    {
+      "check": "body and three purposeparts byte exact",
+      "PASS": true
+    },
+    {
+      "check": "component inverse exact series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+      "PASS": true
+    },
+    {
+      "check": "inverse before exact actualV4 series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+      "PASS": true
+    },
+    {
+      "check": "after pin exact series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+      "PASS": true
+    },
+    {
+      "check": "complete body no-op inverse",
+      "PASS": true
+    },
+    {
+      "check": "component inverse exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "inverse before exact actualV4 series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "after pin exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "complete bounded fieldset series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV4 inverse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV5 forward series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "component inverse exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "inverse before exact actualV4 series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "after pin exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "complete bounded fieldset series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV4 inverse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV5 forward series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "component inverse exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "inverse before exact actualV4 series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "after pin exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "complete bounded fieldset series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV4 inverse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV5 forward series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "component inverse exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "inverse before exact actualV4 series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "after pin exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "complete bounded fieldset series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV4 inverse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV5 forward series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "component inverse exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "inverse before exact actualV4 series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "after pin exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "complete bounded fieldset series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV4 inverse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV5 forward series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "component inverse exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "inverse before exact actualV4 series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "after pin exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "complete bounded fieldset series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV4 inverse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV5 forward series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "component inverse exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "inverse before exact actualV4 series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "after pin exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "complete bounded fieldset series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV4 inverse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "entire raw actualV5 forward series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "PASS": true
+    },
+    {
+      "check": "one nonbinding source count scalar",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-011",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-012",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-013",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-014",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-015",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-016",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-017",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-024",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-025",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-026",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-018",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-019",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-020",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-021",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-022",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-023",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-010",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-001",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-002",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-003",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-004",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-005",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-006",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-007",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-008",
+      "PASS": true
+    },
+    {
+      "check": "historical private control remains exact private-witness:SEMINAR-OPAQUE-CONTROL-009",
+      "PASS": true
+    }
+  ],
+  "actual_complete8_field_and_raw_recovery_results": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+      "before": {
+        "bytes": 34184,
+        "sha256": "04b18aa48df7c22e0979b9d79027dca8bc6e58b698335b406f6fa152db603cb6",
+        "git_blob_oid_of_actual_bytes": "81707629a723710bef46f60a1cfe694ca2ec1e80"
+      },
+      "after": {
+        "bytes": 34184,
+        "sha256": "04b18aa48df7c22e0979b9d79027dca8bc6e58b698335b406f6fa152db603cb6",
+        "git_blob_oid_of_actual_bytes": "81707629a723710bef46f60a1cfe694ca2ec1e80"
+      },
+      "complete_actual_operations": [],
+      "raw_inverse_and_forward": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "before": {
+        "bytes": 386938,
+        "sha256": "5e0e58c8c96dfb1978dfc999aaba7d7d6d55f016cd52d3b4550d34aa5f33cb06",
+        "git_blob_oid_of_actual_bytes": "c0846a36ed349ff9bef4effa4a300fdb7a959c75"
+      },
+      "after": {
+        "bytes": 386938,
+        "sha256": "5e0e58c8c96dfb1978dfc999aaba7d7d6d55f016cd52d3b4550d34aa5f33cb06",
+        "git_blob_oid_of_actual_bytes": "c0846a36ed349ff9bef4effa4a300fdb7a959c75"
+      },
+      "complete_actual_operations": [],
+      "raw_inverse_and_forward": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "before": {
+        "bytes": 520895,
+        "sha256": "1afc545fb0f333d4dccd359986df7671561fee3858db93e9144af262b9409673",
+        "git_blob_oid_of_actual_bytes": "edb82a1602fa9d273f6326582db773a0b68c5bb6"
+      },
+      "after": {
+        "bytes": 520895,
+        "sha256": "1afc545fb0f333d4dccd359986df7671561fee3858db93e9144af262b9409673",
+        "git_blob_oid_of_actual_bytes": "edb82a1602fa9d273f6326582db773a0b68c5bb6"
+      },
+      "complete_actual_operations": [],
+      "raw_inverse_and_forward": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "before": {
+        "bytes": 677091,
+        "sha256": "f4da88f6a3445057c353ec56f722367c4f98b3719572bf871324e02d7a64776e",
+        "git_blob_oid_of_actual_bytes": "a413a114e3c067d77233f98335a5363e24b94c22"
+      },
+      "after": {
+        "bytes": 677091,
+        "sha256": "f4da88f6a3445057c353ec56f722367c4f98b3719572bf871324e02d7a64776e",
+        "git_blob_oid_of_actual_bytes": "a413a114e3c067d77233f98335a5363e24b94c22"
+      },
+      "complete_actual_operations": [],
+      "raw_inverse_and_forward": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "before": {
+        "bytes": 69574,
+        "sha256": "7aea6cda1840466ad86d9b160c143e585249e25a61cf8e2b432589bbd66b69d8",
+        "git_blob_oid_of_actual_bytes": "2dbf37331b35b95913f780d03262032a0b6db668"
+      },
+      "after": {
+        "bytes": 69574,
+        "sha256": "891c0ec012dd93b5d03c4200c8a6b7ebc94b11b8bc3145a4a9926469bbda7a6b",
+        "git_blob_oid_of_actual_bytes": "7236775aee1a8f59144b0aa38133531251a37152"
+      },
+      "complete_actual_operations": [
+        {
+          "pointer": "/current_author_selected_O071_O094_source_precision_qualification_V1/historical_roles",
+          "before": "V3 sourcegrade/own105 statements are dated precedingreceiving. New selected qualification governs only corrected currentsourceuse. Original105 payloads, grades, decisions, questions/counters/triggers and other102 newpurpose rows remain unchanged.",
+          "after": "V3 sourcegrade/own105 statements are dated precedingreceiving. New selected qualification governs only corrected currentsourceuse. Original105 payloads, grades, decisions, questions/counters/triggers and other103 newpurpose rows remain unchanged."
+        }
+      ],
+      "raw_inverse_and_forward": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "before": {
+        "bytes": 399747,
+        "sha256": "f4720e5ca66be550bc152f8aac3625d6e05df875d27d9c04bac8e8911b757865",
+        "git_blob_oid_of_actual_bytes": "d7e46b8616533027b7b3cb41bd72bb2fee940c37"
+      },
+      "after": {
+        "bytes": 399747,
+        "sha256": "0d36ecf66229b9418486c585a03b275629111c509473ec62af85180c2b29e38a",
+        "git_blob_oid_of_actual_bytes": "1a579a1ac2ddf04102f4bb4cf5287ef40be60cc6"
+      },
+      "complete_actual_operations": [
+        {
+          "pointer": "/current10_core_receiving/sha256",
+          "before": "7aea6cda1840466ad86d9b160c143e585249e25a61cf8e2b432589bbd66b69d8",
+          "after": "891c0ec012dd93b5d03c4200c8a6b7ebc94b11b8bc3145a4a9926469bbda7a6b"
+        },
+        {
+          "pointer": "/current10_core_receiving/git_blob_oid_of_actual_bytes",
+          "before": "2dbf37331b35b95913f780d03262032a0b6db668",
+          "after": "7236775aee1a8f59144b0aa38133531251a37152"
+        }
+      ],
+      "raw_inverse_and_forward": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "before": {
+        "bytes": 455876,
+        "sha256": "20d22c8a871d698fb07fa24cb630bd28950f500a15e1600c7760468e94d49805",
+        "git_blob_oid_of_actual_bytes": "00dd78a920fe71e2f3661a53d18eea3e6327bfe8"
+      },
+      "after": {
+        "bytes": 455876,
+        "sha256": "273817296a13e0b9c08ffd3c1147b94176ea01eb82937a189eb2618bd39538f0",
+        "git_blob_oid_of_actual_bytes": "67bd10859a06797766adc2301e98a03d4335c0a7"
+      },
+      "complete_actual_operations": [
+        {
+          "pointer": "/current_source10_receiving/sha256",
+          "before": "7aea6cda1840466ad86d9b160c143e585249e25a61cf8e2b432589bbd66b69d8",
+          "after": "891c0ec012dd93b5d03c4200c8a6b7ebc94b11b8bc3145a4a9926469bbda7a6b"
+        },
+        {
+          "pointer": "/current_source10_receiving/git_blob_oid_of_actual_bytes",
+          "before": "2dbf37331b35b95913f780d03262032a0b6db668",
+          "after": "7236775aee1a8f59144b0aa38133531251a37152"
+        },
+        {
+          "pointer": "/current105_purpose_index/sha256",
+          "before": "f4720e5ca66be550bc152f8aac3625d6e05df875d27d9c04bac8e8911b757865",
+          "after": "0d36ecf66229b9418486c585a03b275629111c509473ec62af85180c2b29e38a"
+        },
+        {
+          "pointer": "/current105_purpose_index/git_blob_oid_of_actual_bytes",
+          "before": "d7e46b8616533027b7b3cb41bd72bb2fee940c37",
+          "after": "1a579a1ac2ddf04102f4bb4cf5287ef40be60cc6"
+        }
+      ],
+      "raw_inverse_and_forward": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "before": {
+        "bytes": 10830,
+        "sha256": "395bc818ba3f7c4e08d4289ab9d882cd4e5896d8b6600f2daec19f8c7c6f1f41",
+        "git_blob_oid_of_actual_bytes": "363e98994fb9c5cad13dd74c50cee2a754ed65cf"
+      },
+      "after": {
+        "bytes": 10830,
+        "sha256": "3713af89674495ce92c3c18116ec204ba5ed9d52bec05c1455b02f67506f5880",
+        "git_blob_oid_of_actual_bytes": "44367ab80a112ce490645a115c2e4ed7aee2950f"
+      },
+      "complete_actual_operations": [
+        {
+          "pointer": "/current_first7_actual_component_pins/4/sha256",
+          "before": "7aea6cda1840466ad86d9b160c143e585249e25a61cf8e2b432589bbd66b69d8",
+          "after": "891c0ec012dd93b5d03c4200c8a6b7ebc94b11b8bc3145a4a9926469bbda7a6b"
+        },
+        {
+          "pointer": "/current_first7_actual_component_pins/4/git_blob_oid_of_actual_bytes",
+          "before": "2dbf37331b35b95913f780d03262032a0b6db668",
+          "after": "7236775aee1a8f59144b0aa38133531251a37152"
+        },
+        {
+          "pointer": "/current_first7_actual_component_pins/5/sha256",
+          "before": "f4720e5ca66be550bc152f8aac3625d6e05df875d27d9c04bac8e8911b757865",
+          "after": "0d36ecf66229b9418486c585a03b275629111c509473ec62af85180c2b29e38a"
+        },
+        {
+          "pointer": "/current_first7_actual_component_pins/5/git_blob_oid_of_actual_bytes",
+          "before": "d7e46b8616533027b7b3cb41bd72bb2fee940c37",
+          "after": "1a579a1ac2ddf04102f4bb4cf5287ef40be60cc6"
+        },
+        {
+          "pointer": "/current_first7_actual_component_pins/6/sha256",
+          "before": "20d22c8a871d698fb07fa24cb630bd28950f500a15e1600c7760468e94d49805",
+          "after": "273817296a13e0b9c08ffd3c1147b94176ea01eb82937a189eb2618bd39538f0"
+        },
+        {
+          "pointer": "/current_first7_actual_component_pins/6/git_blob_oid_of_actual_bytes",
+          "before": "00dd78a920fe71e2f3661a53d18eea3e6327bfe8",
+          "after": "67bd10859a06797766adc2301e98a03d4335c0a7"
+        },
+        {
+          "pointer": "/current_O071_O094_threefield_source_precision_successor_V1/source_receiving_qualification/sha256",
+          "before": "7aea6cda1840466ad86d9b160c143e585249e25a61cf8e2b432589bbd66b69d8",
+          "after": "891c0ec012dd93b5d03c4200c8a6b7ebc94b11b8bc3145a4a9926469bbda7a6b"
+        },
+        {
+          "pointer": "/current_O071_O094_threefield_source_precision_successor_V1/source_receiving_qualification/git_blob_oid_of_actual_bytes",
+          "before": "2dbf37331b35b95913f780d03262032a0b6db668",
+          "after": "7236775aee1a8f59144b0aa38133531251a37152"
+        }
+      ],
+      "raw_inverse_and_forward": true
+    }
+  ],
+  "supported_literal_count_judgment": "Three currentV4 semantic scalar changes affect two owners O071/O094, leaving103 other owner rows and522 other five-field semantic scalars unchanged. Source qualification now correctly states103.",
+  "one_actual_nonbinding_operation": {
+    "pointer": "/current_author_selected_O071_O094_source_precision_qualification_V1/historical_roles",
+    "before": "V3 sourcegrade/own105 statements are dated precedingreceiving. New selected qualification governs only corrected currentsourceuse. Original105 payloads, grades, decisions, questions/counters/triggers and other102 newpurpose rows remain unchanged.",
+    "after": "V3 sourcegrade/own105 statements are dated precedingreceiving. New selected qualification governs only corrected currentsourceuse. Original105 payloads, grades, decisions, questions/counters/triggers and other103 newpurpose rows remain unchanged."
+  },
+  "all_other_operations_role": "Only exact current typed bytes/SHA256/Gitblob propagation proven from actual current and prior8 files; no globalhash replacement or historicaltuple retargeting.",
+  "all_body231_32_and_105_purpose_semantics": "Entire body and all3 purpose parts byte-identical to independently reviewedV4. No repeat body/whole10/105 literary/source receiving or broad3736 gate from this metadata QA.",
+  "prior_full_literary_and_component_QA_role": "319911/b7e84f105cdf85b2c73f91f025450591538bc334c331041cd13a0c3126c1af38 and768822/e3884be7dc74cb1edbe244077990619c7364e98a4c898d61e9f794a688a206b5 remain dated unchanged and adequate for all unchanged meanings/controls.2106/c1e8580a count recommendation closes only operative currentV5 wording.",
+  "all26_historical_V4_private_controls_copied_exact": true,
+  "findings": [],
+  "decision": "METADATA_COUNT_AND_REQUIRED_CURRENT_GRAPH_DELTA_SUPPORTED_WITH_LIMITS;PRIOR_FULL_V4_LITERARY_QA_REMAINS_ADEQUATE;ROOT_ADOPTION_SEPARATE",
+  "sourcegrade_or_primary_native_raw_AV_package_named_model_ROOTadoption_credit": 0,
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "R_Git_provider_sharedmetadata_operations": 0,
+  "current_complete_executor_token_opacity_qualification_V4": {
+    "schema": "SEMINAR_COMPLETE_FINITE_EXECUTOR_TOKEN_ONLY_OPACITY_CURRENT_DERIVATIVE_SCOPE_V1",
+    "role": "Only declared executor-address token spans and three ordered ROOT QA label keys become opaque. The rest of each original check identity/reason/pass/grade/tuple string or value stays exact; source/core/body32/purpose105 meaning is unchanged. Full currentV3 and original review/ROOT raw inverses remain private.",
+    "finite_inventory_evidence": {
+      "evidence_id": "private-witness:SEMINAR-COMPLETE14-DELIVERY-SCALAR-AND-KEY-INVENTORY",
+      "bytes": 45993,
+      "sha256": "d00964a6d6c8d5223e8a49af013ea353b56ad860657e839e5fb4607adab41125",
+      "git_blob_oid_of_actual_bytes": "e22350a4d148d1937969644062f1fd95909ec065"
+    },
+    "new_literary_source_primary_native_raw_AV_ROOT_adoption_or_count_credit": 0,
+    "original_tuples_role": "All original QA/ROOT tuple objects remain dated source witnesses. Current path-only public file tuples are separately routed in control/custody; no historical hash silently rebound."
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "schema": "INDEPENDENT_ART_CURRENT_V4_EXACT8_FULL_ORIGINALS_BYTE_LITERALS_SOURCE_GRAPH_AND_PRIOR_REPAIR_RAW_RECOVERY_MECHANICAL_QA_V1",
+  "reviewer": "/root/receive_middle_remaining",
+  "manifest": {
+    "bytes": 29329,
+    "sha256": "5e840a758425888a271b3df85436af2656a9c9019d4fbbc77f035afaa2c1b1ac",
+    "git_blob_oid_of_actual_bytes": "632cc932ddcedc2948dace6a9e83bf1dcf247319"
+  },
+  "current8_pins": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ART_COMMERCE_AND_UNCHOSEN_HEADSHIP_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 48808,
+      "sha256": "a9ab2e1ae988746a19ec62042b551b0f9a794b513851417beda82a014dde2181",
+      "git_blob_oid_of_actual_bytes": "7879f8bbafe00219fe93e4b38844a10c9183f099"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+      "bytes": 391873,
+      "sha256": "7b7407d98be5b20400067ef7a6b4d51f82f9acca70925c556da292419b1fa728",
+      "git_blob_oid_of_actual_bytes": "918e98d18136c665d53a8bc4693acdfe5e7525a9"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+      "bytes": 527768,
+      "sha256": "6abe5fc6386a388aaa2f5b9c7ddf5c9743d0594733515076859a226d0b85b997",
+      "git_blob_oid_of_actual_bytes": "9557146271a097c59d53944d21df712531e43694"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+      "bytes": 688509,
+      "sha256": "8cac0e0b7ceea03a244853f10dcc16e8044daa89f985eb037da4dc1f4794e548",
+      "git_blob_oid_of_actual_bytes": "3df5f866402a22bfa8e48530b4ad3059ed17d277"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "bytes": 43230,
+      "sha256": "4c2b113ea8420050c41f9af628690636e75ef3be96e9802330387011c21ec228",
+      "git_blob_oid_of_actual_bytes": "b1d82fec283cef036b978a3e8b6dd526d0e82d62"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 196517,
+      "sha256": "ef8e1ca1f31894764532b2482ba55a780adef7b63a4c551e6389587b2a315afa",
+      "git_blob_oid_of_actual_bytes": "e81164d928e65ba3d9c1ebc663a3862371bd76db"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 460948,
+      "sha256": "16cf9305dd3e1503c56f4210653c5d5be9ebddf4f23f5af5049c94e63e241ee0",
+      "git_blob_oid_of_actual_bytes": "f67308bb57980acab2e0ca0d59210e76223bfb9f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 10643,
+      "sha256": "e877613e2594b16e539d5b0a28186848efbaf0737b0a8a45771c97e3a8d14518",
+      "git_blob_oid_of_actual_bytes": "d1a6a738a08935395fd57136b8f19625374e12ed"
+    }
+  ],
+  "check_count": 19877,
+  "failures": [],
+  "current_typed_bindings": 585,
+  "current_internal_pointer_refs": 585,
+  "credit": "Mechanical overlap/preservation validation only; no semantic receiving/primary/native/AV/ROOT acceptance/counts from checks. CurrentACP042 delta separately inspected; all105 prior report meanings/body scopes remain attributed.",
+  "complete_check_parts": [
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_00000_00649_V1.json",
+      "bytes": 169367,
+      "sha256": "df51d7bdf5a83888cb547379f667aec91c2f28196eee0c807c98e19d219cab9e",
+      "git_blob_oid_of_actual_bytes": "4c14283d653530c76dc11220580677192b3321e0"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_00650_01299_V1.json",
+      "bytes": 171647,
+      "sha256": "3ac61e85c38d6b31bde8d78ef2e1307f067ab4420b1e0f954b3ce8e371b036a9",
+      "git_blob_oid_of_actual_bytes": "91107730f6e426a451430c04c7609fd7b340acc6"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_01300_01949_V1.json",
+      "bytes": 172578,
+      "sha256": "c7d22e697c77439cacf2e82d66e60ead491fa96d772b2964e82c069d0ca818c7",
+      "git_blob_oid_of_actual_bytes": "9acbb7dd6520181be10afeb6104cea1ad574bc5e"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_01950_02599_V1.json",
+      "bytes": 172240,
+      "sha256": "0cc676f3ff19cdf5e3f38425262e9db9e80ebf0ce5fd950f2af0bb2bb65fc79e",
+      "git_blob_oid_of_actual_bytes": "ff9d3ec07eb096b7f101829df49ab8337821f412"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_02600_03249_V1.json",
+      "bytes": 171431,
+      "sha256": "2d28266eaa5979269cb2719fffc08c148c2747c2226857119465521ef1d13b5a",
+      "git_blob_oid_of_actual_bytes": "78f4e1bbd7c3b85b8ed359fb090061af4b5e9bcd"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_03250_03899_V1.json",
+      "bytes": 181734,
+      "sha256": "2c05a3e8ffae0833325f9c424ee0f3ad42a3e502835dbe8572c2b2b265844847",
+      "git_blob_oid_of_actual_bytes": "4edb528693ce2df95e9988ec6c7a8820ea233d7f"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_03900_04549_V1.json",
+      "bytes": 186929,
+      "sha256": "17cf0f5225e0ebf50dde633bd8e045a3c1cd7bdf4e7ada395f1364a2284b3b4b",
+      "git_blob_oid_of_actual_bytes": "b8b97440d243831c55079a0f9fecdb98fb8e5269"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_04550_05199_V1.json",
+      "bytes": 182533,
+      "sha256": "31817e01bad868f7412595ab915c00172918abd4d4ce0d56e9b868f3735c7e9a",
+      "git_blob_oid_of_actual_bytes": "2c34a81d9df3749c03b955ac75789a1e8bfe104f"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_05200_05849_V1.json",
+      "bytes": 183933,
+      "sha256": "3ad3dac4c66141916e5263be8ec79baff5c561ea27c192201bfecba36cfc9827",
+      "git_blob_oid_of_actual_bytes": "156f5f4d3698096ae12d702ed2a0361955f778a8"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_05850_06499_V1.json",
+      "bytes": 193610,
+      "sha256": "2b09bcaefb7c9e38c825392145366c3f945b43d420a7dab175cda67db4abf84f",
+      "git_blob_oid_of_actual_bytes": "8781d32d09470970b82db827d4263d706c50d58c"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_06500_07149_V1.json",
+      "bytes": 193467,
+      "sha256": "f10eb7e72c6cfed26c9a9f7e97e7db2b7da88a02738569998faf7c9121a6c0ca",
+      "git_blob_oid_of_actual_bytes": "a84ce38a200a82c581b8e8a41f1e0fba3e4dc0ee"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_07150_07799_V1.json",
+      "bytes": 200974,
+      "sha256": "782a3c8f63d47ea9445fbe5c9cc1ce857ee5b355e29b241a19ddfe611f08a75c",
+      "git_blob_oid_of_actual_bytes": "ff462552ce0b0fbfd2b8a5a7cf1f33e7e82359ff"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_07800_08449_V1.json",
+      "bytes": 195934,
+      "sha256": "256510985defce4d08c6775091034d7c3b519d60df85d0d40c0728fb73e9dc65",
+      "git_blob_oid_of_actual_bytes": "0e07b13601f39c39437e088959e439209a5a5b1b"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_08450_09099_V1.json",
+      "bytes": 198768,
+      "sha256": "214b12374519481994eecabc9b4358b8c039678c3cffd69a59ca76ee9b7d8831",
+      "git_blob_oid_of_actual_bytes": "c6be193cc763074e77444a39cb1273329b371f27"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_09100_09749_V1.json",
+      "bytes": 200076,
+      "sha256": "7f2e42997be2e23d3938dd2dddd28ca809e964018140393ee1e6d3886f13b265",
+      "git_blob_oid_of_actual_bytes": "002beda3bcffa2afe004b98600843db8d6d55e49"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_09750_10399_V1.json",
+      "bytes": 172724,
+      "sha256": "c5259832a08b0fae49c56dde755e039dfdb59f5ff3b5a9b9636319f1eabe00a5",
+      "git_blob_oid_of_actual_bytes": "df2b6dbd23d1975ee70a712d07e341400e5c9d49"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_10400_11049_V1.json",
+      "bytes": 122512,
+      "sha256": "ca6d2e81a8030894729204761929a81a2e42b5680e6fb81e87a6dbcb44292df9",
+      "git_blob_oid_of_actual_bytes": "c5113e9a51b9716d9f10cea6d604562a01ae33a2"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_11050_11699_V1.json",
+      "bytes": 122225,
+      "sha256": "d91264fc5f816f350e3d2f2283250503be4a5d536a6d4ccb5ef650ce59f8343b",
+      "git_blob_oid_of_actual_bytes": "13f02ac5174b11bf4f1fe8939f450d438bb5cd79"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_11700_12349_V1.json",
+      "bytes": 126522,
+      "sha256": "5033f1b5e91c1bf4754591f0e9ee3e4d7b4152ccada5ceb281d75fd2e93ec6e4",
+      "git_blob_oid_of_actual_bytes": "e130b6f1b0b472c5bda050dbea0e8c071e028ec7"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_12350_12999_V1.json",
+      "bytes": 159565,
+      "sha256": "6e7f7ab7118c66911cc92c4fbc93c4670a9d6432e8670d0d3598e218e88f58cb",
+      "git_blob_oid_of_actual_bytes": "8608ade50da9dc348c6185b08256266e5c784c50"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_13000_13649_V1.json",
+      "bytes": 160118,
+      "sha256": "2d2d354c2a92f3fc4daf7a08a6f4c4ae2fb40e013af573ffae1500e2750bae1d",
+      "git_blob_oid_of_actual_bytes": "9eded93d2c8cb049073a449828f01db76fa67a93"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_13650_14299_V1.json",
+      "bytes": 159990,
+      "sha256": "1697aa89afd15f7f952ca186675486ecb0c1915f83c930d665d7a34649f8d822",
+      "git_blob_oid_of_actual_bytes": "b651a741de0e4453d321455057b391e1dfa49f3e"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_14300_14949_V1.json",
+      "bytes": 158744,
+      "sha256": "5f146a140af469cb154b9e2c7b66ba20cb7c521c9fa6eefaba68f02cec8c071b",
+      "git_blob_oid_of_actual_bytes": "44a0c3c2c262de59f98cbcd36ebb0d824036731d"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_14950_15599_V1.json",
+      "bytes": 158695,
+      "sha256": "4d1f338df674d23c68b6e7eb9323f108f97fa594babb8d9a56470ae9081e2c09",
+      "git_blob_oid_of_actual_bytes": "2a901e2b6257dd34c3d75d6ad5fdd3da4e232d17"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_15600_16249_V1.json",
+      "bytes": 150669,
+      "sha256": "4824cea80c423574e3b6b9f853374cd7c2515f8c4895a475d4015b7b04c9de6e",
+      "git_blob_oid_of_actual_bytes": "4049fd7125f5936cd87273887ac497af1ee19709"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_16250_16899_V1.json",
+      "bytes": 55296,
+      "sha256": "e33f227ddb216baba39753cb8a755991d42a1b66461258b7db931ccd0e562cc1",
+      "git_blob_oid_of_actual_bytes": "7e68708798940462c269ea1c8ff323630b75a174"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_16900_17549_V1.json",
+      "bytes": 104767,
+      "sha256": "4600f391f5b24eb9e9481123dd9788b09a37615dea76380f52a7983074c59c7f",
+      "git_blob_oid_of_actual_bytes": "0855b4ec3935dae2df312d08c13060bc656738e8"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_17550_18199_V1.json",
+      "bytes": 119056,
+      "sha256": "8359aadca7c486a656ec36c9465671af9cbda4ad6b306c34c1c04793ccf132d6",
+      "git_blob_oid_of_actual_bytes": "3b8686c469cde95c0d0446d9bf035f0f99bae81b"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_18200_18849_V1.json",
+      "bytes": 157279,
+      "sha256": "d441494290b9819b59146c00864ab64c4fffe00f67e1d1b5e2925b86a1dc5cbc",
+      "git_blob_oid_of_actual_bytes": "cec1a420d44982f3b550ea0068f0baa2d7fa36ad"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_18850_19499_V1.json",
+      "bytes": 156846,
+      "sha256": "f1b88f728f4db3ca72072649edcffefa23f47cc143b0949e5d725bae286b54ec",
+      "git_blob_oid_of_actual_bytes": "23e49b392656f1b5dfba9ff2a1b0ef694f998bb1"
+    },
+    {
+      "relative_path": "ART_CURRENT_V4_COMPLETE_EXECUTED_MECHANICAL_CHECKS_19500_19876_V1.json",
+      "bytes": 88367,
+      "sha256": "ef0c14f7adf7c48568a03ab7a7eae5feb7d8b4346262a8a19c3a02871c506d37",
+      "git_blob_oid_of_actual_bytes": "915121e81adbde834134f83a835068eae5425511"
+    }
+  ]
+}
