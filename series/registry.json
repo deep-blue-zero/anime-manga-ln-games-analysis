@@ -177,6 +177,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "harmony",
+      "stable_slug": "harmony",
+      "canonical_title": "Harmony / ハーモニー",
+      "media": [
+        "NOVEL"
+      ],
+      "repository_path": "series/harmony/",
+      "canonical_entrypoint": "series/harmony/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_HARMONY_BOOTSTRAP_20261016",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive."
+    },
+    {
       "series_id": "henshin-metamorphosis",
       "stable_slug": "henshin-metamorphosis",
       "canonical_title": "Henshin - Metamorphosis",
