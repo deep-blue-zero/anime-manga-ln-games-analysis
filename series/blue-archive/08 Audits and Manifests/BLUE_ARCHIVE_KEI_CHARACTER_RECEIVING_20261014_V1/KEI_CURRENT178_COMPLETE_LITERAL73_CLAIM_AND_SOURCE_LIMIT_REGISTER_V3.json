@@ -2,9 +2,9 @@
   "schema": "KEI_CURRENT178_COMPLETE_LITERAL73_DIRECT_SOURCE_QUESTION_NEW_PURPOSE_FINITE_LIMIT_REGISTER_V1",
   "author": "/root/next_cast_source_preparation",
   "body": {
-    "bytes": 61002,
-    "sha256": "f3a900134a02161b82facfd95e7499ab76a32e9620269cc79dd3edd53968beb7",
-    "git_blob_oid_of_actual_bytes": "cbdb14997a381a543e11b2b8d06610e4d8ce283e"
+    "bytes": 61698,
+    "sha256": "d5ea48bb1fafd317af52fefc6fed7ee48d5d4bce2ae6434efd7a6a31714f4695",
+    "git_blob_oid_of_actual_bytes": "b6836cb47b72dfa70392d6f5723eefa513123a6f"
   },
   "existing_home": {
     "required": {
@@ -62,7 +62,7 @@
   "records": [
     {
       "paragraph_id": "KEI-P001",
-      "exact_current_physical_line": 25,
+      "exact_current_physical_line": 26,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P001] This argument belongs to the existing P3-CHAR-KEI-TWO-KEY-BOUNDED home and includes its existing P3-REL-KEI-SENSEI-GIFT-FRICTION section. Its evidence is six maintained analytical accounts, received at the grades recorded in the preceding readiness envelope: three newly whole received accounts and three unchanged accounts reused from my own prior whole receiving. It does not claim a fresh reading of the nineteen private primary objects, the original E141 script, a whole main arc, performed audio or visuals. The argument compares represented lives and acts while retaining the documentary uncertainty that the maintained sources themselves identify. It is a body for subsequent independent review, not an accepted package or a model. (KEI-S01 L58–66, L264–270; KQ01, KQ12.)\n",
       "literal_UTF8_bytes": 794,
       "literal_UTF8_sha256": "1553f9bc07dbeb1682b25147260aeba2c3acdf543807dfa816e38f07c66c27b0",
@@ -119,7 +119,7 @@
     },
     {
       "paragraph_id": "KEI-P002",
-      "exact_current_physical_line": 27,
+      "exact_current_physical_line": 28,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P002] The strongest bounded character claim is that the present private repertoire makes assigned usefulness inadequate as a complete account of Kei. A ribbon, a necklace, a selected invitation, the pleasure of making a game, an objection to cleaning and a wish for different praise have value within the scenes before they acquire any connection to danger or survival. This repertoire also contains burdens, controlling acts and refusals. Chosen care becomes legible through who asks for what and how the other person responds; it cannot be measured simply by how much service Kei provides. The earlier main-story function and the present repertoire therefore need a substantive comparison without a technical declaration that every named representation is one authenticated entity. (KEI-S01 L87–153; KEI-S03 L46–50; KEI-S04 L46–62; KQ02–06.)\n",
       "literal_UTF8_bytes": 857,
       "literal_UTF8_sha256": "a9c5d98b72f4e4c09fd761ed924cefd8952c371ec9d4a5108b07a031684ca8f0",
@@ -216,7 +216,7 @@
     },
     {
       "paragraph_id": "KEI-P003",
-      "exact_current_physical_line": 29,
+      "exact_current_physical_line": 30,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P003] The argument's positive reading is neither embarrassed denials alone nor a hidden, fully harmonious affection behind every objection. Kei can enjoy a relationship and still want release from a crowd, a different word of praise, an object returned or a hand kept away. She can criticize compulsory overwork while choosing to help. She can recognize a critic's temptation to substitute personal preferences for those of the makers while still contributing capable criticism. Such combinations are the substance of the character's represented agency. Their coherence depends on keeping acts, stated motives, reported capacities and inward or narrated reactions distinct instead of declaring that one recurring comic tone settles them all. (KEI-S01 L93–133, L137–143; KEI-S02 L34–48; KQ03–06.)\n",
       "literal_UTF8_bytes": 809,
       "literal_UTF8_sha256": "175363447bf5abf07a8328634b52d65418d004e0d1d76d2d8de16a4b0d503b55",
@@ -289,7 +289,7 @@
     },
     {
       "paragraph_id": "KEI-P004",
-      "exact_current_physical_line": 33,
+      "exact_current_physical_line": 34,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P004] The modern private account preserves BA_PERSON_CH0335 with variant10135, ケイ and printed Millennium/SPTF affiliation. It also preserves the separate BA_PERSON_CHAR_101350001 with variant101350001, 天童ケイ and empty registry school, club and development-name fields. Empty registry fields do not erase the second profile's authored content. That profile positively describes self-definition, an artificial-intelligence-to-AMAS trajectory, a defective sacrificial body and a current body, with frequent Game Development presence alongside SPTF membership. This is meaningful narrative identity writing. It does not silently fill the empty registry cells, collapse the two literal keys or authenticate every intermediate software and bodily step. (KEI-S01 L60–66, L137–139; KQ01, KQ08.)\n",
       "literal_UTF8_bytes": 807,
       "literal_UTF8_sha256": "d19c702d82db9a35b703a31ac6ce2fe5f5b2f19b48f489dc671511774748139f",
@@ -387,7 +387,7 @@
     },
     {
       "paragraph_id": "KEI-P005",
-      "exact_current_physical_line": 35,
+      "exact_current_physical_line": 36,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P005] A third strand is the main-story material: the unexplained <Key> folder, unattributed restoration text, a provisional separate Key voice, an inward adoption of the name Kei and the later Kei.sav finding. These are not interchangeable observations. A file label is not a speaking subject; a speaker's asserted function is not a verified architecture; a name adopted inwardly is not an external location or capability test; a small save file is not an authenticated survival certificate. Keeping the strands distinct gives the later profile a stronger, more honest interpretive role: it supplies a represented continuation that earlier readers did not yet possess, while leaving earlier uncertainty intelligible on the evidence available then. (KEI-S03 L32, L46–50, L87; KEI-S04 L46–50; KEI-S05 L28; KEI-S06 L38; KQ01, KQ09.)\n",
       "literal_UTF8_bytes": 839,
       "literal_UTF8_sha256": "a810c2491462abf0d6c9ab9e6a7edb54abbb553c75defd5eaea1b76994654b8a",
@@ -484,7 +484,7 @@
     },
     {
       "paragraph_id": "KEI-P006",
-      "exact_current_physical_line": 37,
+      "exact_current_physical_line": 38,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P006] The gift section adds a fourth source-local strand. EVENT80001 E141 prints a 케이 교복 speaker route with no person_id or student_variant_id. The maintained reading retains BA_SPEAKER_UCF00_UC774_UAD50_UBCF5 and two possible registry candidates without joining them. Its dialogue, character narration, unknown-speaker text and Sensei choice context remain distinct modes. The event can sustain a full argument about its local ケイ and Sensei interaction within this analytical home; that organizational choice does not resolve which literal registry key owns the act. The raw Event_Name80000 field is also not permission to rename or merge the event80001 responsibility. (KEI-S02 L22–30, L50–54; KQ01, KQ07, KQ12.)\n",
       "literal_UTF8_bytes": 736,
       "literal_UTF8_sha256": "9bf35c8d3dc9e2a9933328c6d4b8f238ac4e575fe778bfa0d495f18aa3a263f0",
@@ -563,7 +563,7 @@
     },
     {
       "paragraph_id": "KEI-P007",
-      "exact_current_physical_line": 39,
+      "exact_current_physical_line": 40,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P007] The sources support local sequences much more securely than a universal calendar. The private episodes contain their own requests, responses, aftermaths and message tails. The main checkpoints contain their own earlier and later events. The modern release date and E141's documentary availability window order publication or availability rather than every fictional action. Costume selectors, a Valentine setting and numerical scenario order cannot place all private, main and event scenes on one timeline. The current maintained copies captured at published8c are a documentary layer above older source pins and checkpoints, not a later date inside the story. The comparisons below are retrospective and explicitly bounded by these different temporal forms. (KEI-S01 L60, L72–83, L147–153; KEI-S02 L30; KEI-S03 L1–22; KQ09.)\n",
       "literal_UTF8_bytes": 843,
       "literal_UTF8_sha256": "6d6c31e165d14a7eedd12a0b7aaa25d9d1af9e54bacaa405ff514e47d17a5225",
@@ -609,7 +609,7 @@
     },
     {
       "paragraph_id": "KEI-P008",
-      "exact_current_physical_line": 43,
+      "exact_current_physical_line": 44,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P008] In V002 C001, the Game Development Club's ordinary work makes the later conflict about personhood intelligible. Shared creation, play, critique and a conditional room provide concrete goods before a dramatic rescue is needed. The special prize for TSC2 is real, while neither top-seven ranking nor an indefinite club charter follows. Alice's desired membership is distinct from being a credential, a decoy or a useful weapon. These are contextual comparisons rather than direct evidence of modern Kei attending those scenes. Their importance here is that the main narrative already supplies ways of valuing a person through chosen shared activity, making the later private preferences analytically central rather than surplus material after the crisis plot. (KEI-S03 L24–88; KQ02, KQ06.)\n",
       "literal_UTF8_bytes": 801,
       "literal_UTF8_sha256": "e55b7cfae629f9a758abfef41efcdb04f0bde2fbdf5a357aac20b453528c7c2e",
@@ -675,7 +675,7 @@
     },
     {
       "paragraph_id": "KEI-P009",
-      "exact_current_physical_line": 45,
+      "exact_current_physical_line": 46,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P009] The same chapter does not solve origins merely because the group acquires belonging. Restoration text and the AL-1S reference give the audience information whose speaker and causal reach remain uncertain. A terminal's recognition and refusal to reveal an origin, the password route and the separate undeciphered <Key> folder are different findings. The maintained account does not establish that Rio or Himari caused the folder, that it explains every restoration line or that the club knows the audience's information. Modern self-definition must therefore be compared with a real unresolved earlier inquiry. Treating the later name as a retroactive answer to every earlier technical question would flatten both the earlier suspense and the later character's present agency. (KEI-S03 L32, L46–50, L87, L131; KEI-S01 L149–153; KQ01, KQ09.)\n",
       "literal_UTF8_bytes": 855,
       "literal_UTF8_sha256": "736442ccb344617a71aaa941f858dee22028903fa535f4f269345e30ad8f34c0",
@@ -752,7 +752,7 @@
     },
     {
       "paragraph_id": "KEI-P010",
-      "exact_current_physical_line": 47,
+      "exact_current_physical_line": 48,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P010] V002 C002 brings actual harm into this comparison. The device incident damages the room and seriously injures Momoi; a coercive removal of Alice follows. Those outcomes cannot be dissolved by warm ordinary scenes or by the eventual rejection of a forced ending. Rio's threat forecast and exclusive remedy remain claims needing scrutiny, but the harmful effect is not thereby imaginary. For this Kei argument, the chapter prevents an easy inference that a represented capacity for company proves system safety. Conversely, actual danger does not prove that an assigned destructive function is the whole moral meaning of every later representation. The public history imposes obligations of distinction and repair rather than a permanent license to ignore ordinary wants. (KEI-S04 L38–44, L58–62; KQ06, KQ10.)\n",
       "literal_UTF8_bytes": 823,
       "literal_UTF8_sha256": "99f228baaac376928825c0652895695597384fd51a15f0e3b067e5b6f700ef75",
@@ -837,7 +837,7 @@
     },
     {
       "paragraph_id": "KEI-P011",
-      "exact_current_physical_line": 49,
+      "exact_current_physical_line": 50,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P011] At the chapter's concentrated identity conflict, Key is a provisional distinct speaking subject who denies Alice's friend-given name and asserts an assigned Princess function. The resource process, followers and city changes have consequential effects, while the quantities, protocol descriptions and world-end certainty remain Key's reports. Inside the mind-dive, selected images of real injuries support a pressure to make guilt into essence. Alice's fear of destroying Kivotos and wish to disappear are serious utterances in that coercive setting; they are not free, settled consent or destiny proven by the images. The comparison matters because the modern repertoire repeatedly resists another reduction of self to a role, even though the source grades do not authorize fusing every representation into one internal biography. (KEI-S04 L46–50, L58–62; KQ01, KQ05–06.)\n",
       "literal_UTF8_bytes": 890,
       "literal_UTF8_sha256": "c885ef2e373def3a3134541dcb825330bfd9d68203dd4b6d1d00f16133eb2f04",
@@ -940,7 +940,7 @@
     },
     {
       "paragraph_id": "KEI-P012",
-      "exact_current_physical_line": 51,
+      "exact_current_physical_line": 52,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P012] The friends answer Key's assigned conclusion with collectively made counterhistory: TSC2, club survival, play and a changed relation. Alice chooses to continue with them and be Alice. That in-space self-definition is a real endpoint, followed by an external ordinary return; it is not proof of Key deletion or global weapon safety. The rescue also depends on many agents' labor and injuries, not a solitary teacher's authorship. Present Kei's care and criticism are best compared with this plural, unfinished public history. Neither Alice's choice nor modern Kei's preferences erase containment, aftercare or accountability questions. Their ordinary goods remain meaningful because the choosing person is not exhausted by the hazard, not because the hazard has been demonstrated absent. (KEI-S04 L44–62, L74–85; KEI-S01 L149–153; KQ06, KQ10–11.)\n",
       "literal_UTF8_bytes": 865,
       "literal_UTF8_sha256": "3a064b141fd0bc3f1b12d668b1a0c424881dd56b55e8858e5109a935a16d0c72",
@@ -1061,7 +1061,7 @@
     },
     {
       "paragraph_id": "KEI-P013",
-      "exact_current_physical_line": 53,
+      "exact_current_physical_line": 54,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P013] The V100 C001 checkpoint supplies an inward speaker adopting Kei as a name. Alice's simple check cannot determine Key's absence, and the scene does not supply a location or capability test. This is a naming event at its printed mode, not an observation of a reconstructed body. Its retrospective relation to the modern profiles is interpretively useful: the name can be part of the represented continuity without making the earlier inward speech public knowledge or a verified chain of persistence. The language of self-definition therefore deserves positive weight, but that weight is specific to a narrative claim about a represented self, not a forensic claim about every object later carrying a related label. (KEI-S05 L26–28; KEI-S01 L139–153; KQ01, KQ05, KQ09.)\n",
       "literal_UTF8_bytes": 783,
       "literal_UTF8_sha256": "5eca6133773ff48af8b4fd5dc45a95823867cfa28a9de4014f043a304de551c1",
@@ -1142,7 +1142,7 @@
     },
     {
       "paragraph_id": "KEI-P014",
-      "exact_current_physical_line": 55,
+      "exact_current_physical_line": 56,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P014] V100 C004 ends this available technical strand with a small, unresolved object. Alice builds a model of a remembered shape, Momoi finds Kei.sav and Himari inspects roughly2KB without being able to establish that it is Key. Adding a memory function to the model is an actual intervention, with no revival promise. Modern profiles and remarks about a new body support a present continuation reading while leaving file provenance, reconstruction and physical continuity unverified. It would be a loss to dismiss the profiles as meaningless merely because authentication is absent; it would be an equal loss to convert their positive authored trajectory into the test Himari explicitly could not complete. The two claims can remain different and substantial. (KEI-S06 L36–38, L52; KEI-S01 L139–153; KQ01, KQ09–11.)\n",
       "literal_UTF8_bytes": 828,
       "literal_UTF8_sha256": "9b201e7c57f70d0cebed75b4081df96b6d3c8097daf49418d9b4ab4c4af9abdb",
@@ -1265,10 +1265,10 @@
     },
     {
       "paragraph_id": "KEI-P015",
-      "exact_current_physical_line": 59,
-      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P015] The private002 episode makes embodiment ordinary as well as consequential. Kei acknowledges that body change worked, rejects the former body and expresses a qualified liking for cuteness. Her stiffness is metaphorical at this grade; the rejected WE-40 suggestion does not create a medical recommendation. A qualified report about an earlier body being picked up or apparently disposed of, together with gratitude, remains her account rather than a verified disposal or reconstruction record. Within these limits the scene still establishes present preference. She can value the body and want a particular aesthetic change without those desires having to prove the origin of the body or its stable performance in every setting. (KEI-S01 L87–91; KQ02, KQ04–05.)\n",
-      "literal_UTF8_bytes": 775,
-      "literal_UTF8_sha256": "e276a7111ea0161ec29d806ba251ba6087cee4ab1845d489e50faa2bfc6462f9",
+      "exact_current_physical_line": 60,
+      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P015] The private002 episode makes embodiment ordinary as well as consequential. Kei acknowledges that body change worked, rejects the former body and expresses a qualified liking for cuteness. Her stiffness is metaphorical at this grade; the rejected WE-40 suggestion does not create a medical recommendation. Kei likens using her current body to picking up something that was lying around, and says that this body had apparently been destined for disposal. These are her qualified accounts, accompanied by gratitude; neither reports completed disposal or establishes a reconstruction record. Within these limits the scene still establishes present preference. She can value the body and want a particular aesthetic change without those desires having to prove the origin of the body or its stable performance in every setting. (KEI-S01 L87–91; KQ02, KQ04–05.)\n",
+      "literal_UTF8_bytes": 871,
+      "literal_UTF8_sha256": "dd1b27bada59a1502c44dc4234dc8e1844326b2dd1dda432a808ad6bbdb567bd",
       "complete_literal_source_clause_suffix": "(KEI-S01 L87–91; KQ02, KQ04–05.)",
       "direct_source1_codes_as_actually_written": [
         "KEI-S01"
@@ -1339,7 +1339,7 @@
     },
     {
       "paragraph_id": "KEI-P016",
-      "exact_current_physical_line": 61,
+      "exact_current_physical_line": 62,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P016] The wanted hair ribbon is a precise good. Sensei's grin produces retreat and objection, while asking Rio is proposed rather than enacted. No ribbon is obtained in the available scene. That incompletion does not make the want analytically negligible: it specifies how present appearance is her own project, including which response from another person she finds difficult. Reassurance or valuation of cuteness may be welcome in one respect while failing to answer the requested customization. The episode therefore separates being valued from getting the particular thing desired, and distinguishes a possible route to help from fulfilled help. A future purchase cannot be supplied simply because it would make a satisfying continuation. (KEI-S01 L89–91; KQ02–03, KQ11.)\n",
       "literal_UTF8_bytes": 785,
       "literal_UTF8_sha256": "24c5001b228f1082ed0d118a7db213f408ef28b7027f1281ecbd8814084eeea3",
@@ -1511,7 +1511,7 @@
     },
     {
       "paragraph_id": "KEI-P017",
-      "exact_current_physical_line": 63,
+      "exact_current_physical_line": 64,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P017] The written10135 lobby strengthens this issue through a distinct mode: praise confined to cuteness is challenged by a request for other words. Other lines combine resistance to infantilization with not disliking some exchanges. These are not contradictory if liking an interaction does not surrender control over its description. They also do not authorize a performed year of praise, gifts or seasonal scenes. The written mode gives an authored repertoire and a vocabulary for comparison with the private episode; it does not multiply one scene into every trigger's presumed occasion. The pleasure of standing, taste curiosity and relaxation in Cafe writing broaden embodiment beyond serving a function, without becoming examined health or a complete sensory history. (KEI-S01 L137–145; KQ02, KQ03, KQ08.)\n",
       "literal_UTF8_bytes": 820,
       "literal_UTF8_sha256": "d39c71abdf1db09b0c3c2b3df2deb9c846c9176f72e16478e677f2e7edafcf9b",
@@ -1646,7 +1646,7 @@
     },
     {
       "paragraph_id": "KEI-P018",
-      "exact_current_physical_line": 67,
+      "exact_current_physical_line": 68,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P018] Private003 begins from a mismatch between knowledge and the school situation. Classmates are surprised by what Kei knows; the broad knowledge, former maid-role preparation and Millennium research experience are represented through her accounts. Their presence makes a simple remedial explanation of school inadequate. Yet knowing subject matter does not answer every question of participation. School can offer company, invitations and shared activity alongside excessive demands from others. The episode's request to be rescued from eager classmates is therefore part of the educational situation, not evidence that education has become pointless. The character wants a manageable relation to other people, and the classroom's appetite for her capacity is not automatically the same good. (KEI-S01 L93–99; KQ02, KQ04, KQ06.)\n",
       "literal_UTF8_bytes": 839,
       "literal_UTF8_sha256": "78b1c88815da663a009b3a8ed54da09bce9d8374e7e00f436c6d2ca9583dab25",
@@ -1745,7 +1745,7 @@
     },
     {
       "paragraph_id": "KEI-P019",
-      "exact_current_physical_line": 69,
+      "exact_current_physical_line": 70,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P019] Sensei responds with popularity teasing rather than the requested rescue. Severe death rhetoric expresses comic anger in the maintained account and supplies neither an enacted attack nor a clinical finding. The underlying objection is concrete: company can be tiring, and one adult cannot be everyone's companion without limit. Kei's later consideration is carefully bounded by 考えてみます and the qualification that she has not said she will do it. A willingness to consider participation cannot be promoted to a promise of universal friendship. That distinction is ethically material because the scene tests whether social growth is offered as an invitation or demanded as a performance owed to the approving adult. (KEI-S01 L95–99; KQ03, KQ05–06.)\n",
       "literal_UTF8_bytes": 773,
       "literal_UTF8_sha256": "fccb0d214dfed2219e96fb2d0dcc7ff5f6afd9aecac4716bb6283f8311048dc9",
@@ -1875,7 +1875,7 @@
     },
     {
       "paragraph_id": "KEI-P020",
-      "exact_current_physical_line": 71,
+      "exact_current_physical_line": 72,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P020] The message afterword records invitations actually received and her acknowledgment that she did not dislike them. It does not record all invitations accepted. This is a genuine positive development: the earlier objection to overwhelming company has not required total isolation, and some welcome is admitted. The finite change is in receipt and evaluation, with the choice of future participation still hers. Both a hostility-only reading and a fully welcoming school narrative lose the shape of this outcome. Ordinary connection is valuable here because it can be selected and qualified, not because the scene proves that she will henceforth attend every social occasion or stop objecting to pressure. (KEI-S01 L93–99; KQ02–03, KQ10–11.)\n",
       "literal_UTF8_bytes": 756,
       "literal_UTF8_sha256": "c05b90c483e92abfdced3de574c8867af2dfc7895e9ef31cb851b04f93dc4666",
@@ -2010,7 +2010,7 @@
     },
     {
       "paragraph_id": "KEI-P021",
-      "exact_current_physical_line": 75,
+      "exact_current_physical_line": 76,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P021] Private005 again brings requests and approval into tension. Kei asks to be released by students while Sensei watches approvingly or reacts inwardly. The approval does not fulfill the release request. She can report that quests are not disliked while remaining unfamiliar with, or embarrassed by, the situation. These are different evaluations of an activity and its interpersonal handling. The guarded twinsister answer similarly cannot be turned into biological proof or a completed join with Alice. Keeping her explicit objection intact allows the later reward and invitation to be positive without rewriting the earlier demand for bodily or social space as mere decoration. (KEI-S01 L101–107; KQ01–03.)\n",
       "literal_UTF8_bytes": 721,
       "literal_UTF8_sha256": "0d5711d467a54d12d1994e44f93801fc10c078c42ab5bcae712afdfe6d55f364",
@@ -2100,7 +2100,7 @@
     },
     {
       "paragraph_id": "KEI-P022",
-      "exact_current_physical_line": 77,
+      "exact_current_physical_line": 78,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P022] The necklace is presented as an advance reward, and Kei asks whether receiving it is permitted and what it costs. Claims about material-club manufacture, artificial diamonds, storage and security retain their report grades. The object is nevertheless actually presented and received in the local account, and the delivery task is cleared. Those endpoints matter as concrete material recognition rather than being treated as a symbolic prop whose only purpose is to predict crisis loyalty. Attribution also matters: the 綺麗 line at005u0036 belongs to studentA; Kei's own evaluation follows at u0037–38. A meaningful gift argument does not need to transfer someone else's praise to her mouth. (KEI-S01 L103–107; KQ02–04, KQ11.)\n",
       "literal_UTF8_bytes": 746,
       "literal_UTF8_sha256": "48e07006ae4d516799529c17c224d04dac3aa41385e35c5ff7763ea6b091dce3",
@@ -2245,10 +2245,10 @@
     },
     {
       "paragraph_id": "KEI-P023",
-      "exact_current_physical_line": 79,
-      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P023] The arcade invitation is not an observed visit. A previously enjoyed outing is reported and acknowledged, while the present response 悪くありません is more guarded than Sensei's translation into liking it. Her protest preserves that difference. This is another local form of positive company whose terms should remain visible: she can value an experience without choosing the adult's strongest paraphrase of her feeling. It is also a useful limit on chronology. A past report, a current invitation and an unperformed future visit are three distinct temporal acts; they should not be compressed into one completed outing or used as an attendance gate for how seriously her ordinary preferences count. (KEI-S01 L105–107; KQ02–03, KQ09–11.)\n",
-      "literal_UTF8_bytes": 762,
-      "literal_UTF8_sha256": "764f10d855465b6da97a1a7274843c19fbe72a5dced2e4bdc5fe9342fb965401",
+      "exact_current_physical_line": 80,
+      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P023] The arcade invitation is not an observed visit. Earlier in private005, 悪くありません answers Sensei's question about school; her protest rejects his stronger paraphrase that she likes it. The later arcade exchange separately reports and acknowledges a previously enjoyed outing. Her qualified school assessment and the remembered pleasure both matter, but they evaluate different things: the school answer is not a response to the new arcade invitation. It is also a useful limit on chronology. A past report, a current invitation and an unperformed future visit are three distinct temporal acts; they should not be compressed into one completed outing or used as an attendance gate for how seriously her ordinary preferences count. (KEI-S01 L105–107; KQ02–03, KQ09–11.)\n",
+      "literal_UTF8_bytes": 796,
+      "literal_UTF8_sha256": "a818a26e3dc3d858872918e814843ff5044aa3c61ad99e0dd20a37c115213310",
       "complete_literal_source_clause_suffix": "(KEI-S01 L105–107; KQ02–03, KQ09–11.)",
       "direct_source1_codes_as_actually_written": [
         "KEI-S01"
@@ -2404,7 +2404,7 @@
     },
     {
       "paragraph_id": "KEI-P024",
-      "exact_current_physical_line": 83,
+      "exact_current_physical_line": 84,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P024] Private006 depicts game development as work in progress. Kei's schedule lookup and summons occur despite Sensei's objection, so her competence is also capable of pressing another person's privacy. The reported capacity does not confer a universal right of access. Within the game scene, alpha testing, collision work, misery and bugs are local work and unresolved conditions. An expansive alien-battle story draws criticism, and seeking another repair route is part of the discussion. No external project validation follows. The attraction of making and testing belongs in the character argument even while the scene remains unfinished: labor, criticism and pleasure in a work are intrinsically meaningful before a shipped game or formal title exists. (KEI-S01 L109–117; KQ02–04, KQ06.)\n",
       "literal_UTF8_bytes": 802,
       "literal_UTF8_sha256": "47f1b1a99803dbbf06a950a9fc285f8e334076ba9fc17f44f9be77b289ccd62b",
@@ -2549,7 +2549,7 @@
     },
     {
       "paragraph_id": "KEI-P025",
-      "exact_current_physical_line": 85,
+      "exact_current_physical_line": 86,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P025] Kei distinguishes art, engineering, programming and logs, and challenges Midori's overpromising. The distinction is a response to a particular team's uneven expectations rather than an independently certified measure of each member's competence. She explicitly rejects compulsory overwork. This makes the scene more than a demonstration of a capable helper: it asks which demands the group can legitimately place on one another, and how an appealing creative goal can expand beyond available labor. SPTF affiliation does not absorb all GDD contribution into an automatic duty, just as time spent helping does not by itself establish a formal transfer. The prospective small-club producer or odd-job title remains conditional at its source. (KEI-S01 L111–117, L139; KQ04, KQ06.)\n",
       "literal_UTF8_bytes": 791,
       "literal_UTF8_sha256": "ae7db10bac9f378bda1dea67638a6493172b18b3c5d083cd4240d6bd365df86b",
@@ -2800,10 +2800,10 @@
     },
     {
       "paragraph_id": "KEI-P026",
-      "exact_current_physical_line": 87,
-      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P026] The strongest self-critical turn is the recognition that a critic may substitute their own wants for those of the makers. Kei's capacity to identify problems is therefore accompanied by a limit on the ownership of the project. Accepting Sensei's feedback proposal is an actual choice within the represented scene, not a renunciation of criticism or a guarantee that the resulting game succeeds. This matters for agency because she is not merely either an expert enforcing a correct design or a servant forbidden to object. The available compromise retains criticism, maker preference and another person's suggestion as distinct contributions to a shared work. It is a local ethical adjustment, with later delivery still unprinted. (KEI-S01 L111–117; KQ03–06, KQ11.)\n",
-      "literal_UTF8_bytes": 781,
-      "literal_UTF8_sha256": "57a05080c08ddbd0e522bd3f4ca463d2f52bec51d6931a884ef17686591affcb",
+      "exact_current_physical_line": 88,
+      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P026] The strongest self-critical turn is the recognition that a critic may substitute their own wants for those of the makers. Kei's capacity to identify problems is therefore accompanied by a limit on the ownership of the project. Kei raises the difficulty of conveying feedback, agrees with the risk articulated in Sensei's written choice group, and explains that imposing on the makers would damage their relationship. This is recognition of a limit on her own criticism, not acceptance of a newly proposed feedback action or a guarantee that the resulting game succeeds. This matters for agency because she is not merely either an expert enforcing a correct design or a servant forbidden to object. The exchange retains criticism, maker preference and the teacher's understanding as distinct contributions to a shared work. It supports an interpretation of ethical self-restraint; a subsequent change in feedback practice or completed delivery is not shown. (KEI-S01 L111–117; KQ03–06, KQ11.)\n",
+      "literal_UTF8_bytes": 1007,
+      "literal_UTF8_sha256": "da81b82510003338956af80d877c6c4655ab73a3355f65795189966238815f29",
       "complete_literal_source_clause_suffix": "(KEI-S01 L111–117; KQ03–06, KQ11.)",
       "direct_source1_codes_as_actually_written": [
         "KEI-S01"
@@ -3034,10 +3034,10 @@
     },
     {
       "paragraph_id": "KEI-P027",
-      "exact_current_physical_line": 89,
-      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P027] The reported pleasure in everyone's happiness after completed work should not be applied prematurely to the current alpha. The narrative seam from enjoying herself toward diligent QA, together with gaps in the adult's memory and fatigue, keeps the work's cost visible. Pleasure in making can coexist with exhaustion; a comic transition does not prove that all labor has become healthy or freely chosen. The scene's finite positive is depicted work and a feedback route accepted under discussion. Its finite limits are bugs, ambitions, uneven labor and absent completion. This is sufficient for a substantial account of ordinary making, without a completed software model or a universal claim that the person now finds every service task fulfilling. (KEI-S01 L113–117; KQ02, KQ04–06, KQ11.)\n",
-      "literal_UTF8_bytes": 805,
-      "literal_UTF8_sha256": "f3f4c54e5ea9d9be71d64308d2cd13c433ed4fc726916c2c68eb67855a13268c",
+      "exact_current_physical_line": 90,
+      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P027] The reported pleasure in everyone's happiness after completed work should not be applied prematurely to the current alpha. The narrative seam from enjoying herself toward diligent QA, together with gaps in the adult's memory and fatigue, keeps the work's cost visible. Pleasure in making can coexist with exhaustion; a comic transition does not prove that all labor has become healthy or freely chosen. The scene's finite positive is depicted work and shared recognition of the risk in giving feedback. Its finite limits are bugs, ambitions, uneven labor and absent completion. This is sufficient for a substantial account of ordinary making, without a completed software model or a universal claim that the person now finds every service task fulfilling. (KEI-S01 L113–117; KQ02, KQ04–06, KQ11.)\n",
+      "literal_UTF8_bytes": 812,
+      "literal_UTF8_sha256": "a7f780c4a5dd93efcf1b23805e9246e000bfa398293fc3d5bf9ecc5be2d872e6",
       "complete_literal_source_clause_suffix": "(KEI-S01 L113–117; KQ02, KQ04–06, KQ11.)",
       "direct_source1_codes_as_actually_written": [
         "KEI-S01"
@@ -3202,7 +3202,7 @@
     },
     {
       "paragraph_id": "KEI-P028",
-      "exact_current_physical_line": 93,
+      "exact_current_physical_line": 94,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P028] Private008 depicts a recurring room task rather than a single definitive reform. Cleaning is repeated in less than three days, and comments about Yuzu, Midori and Alice are source-local assessments rather than diagnoses or rankings of household ability. Immediate improvement is reported; the three-day wager concerns a future condition. The detail matters because domestic order is both a material good and work someone performs. Treating the cleaned room as a warm tableau alone would erase the recurrence and uneven contribution. Treating it as exploitation alone would erase the represented care for a shared environment. The chapter supplies a negotiable practical relationship with an untested duration, not a permanent distribution of household duty. (KEI-S01 L119–123; KQ02, KQ04–06, KQ11.)\n",
       "literal_UTF8_bytes": 814,
       "literal_UTF8_sha256": "40cc7b95e3244132112db1c0f08ca039548c4b43ad45b7e1641ef351798e7fa7",
@@ -3316,7 +3316,7 @@
     },
     {
       "paragraph_id": "KEI-P029",
-      "exact_current_physical_line": 95,
+      "exact_current_physical_line": 96,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P029] Sensei's dirty room and batch-cleaning explanation prompt a direct objection. Kei's criticism concerns practical care and an asserted health concern at its represented mode; it is not an examined diagnosis. Sensei's apology and thanks are actual responses, and they count as positive recognition of the task. Yet being thanked cannot itself answer whether the work will recur or be distributed fairly. Her request that he call her rather than struggle alone, with the claim that two are faster, expresses wanted future help. It does not create lifelong domestic obligation or cancel later refusals. Care here is an offer with circumstances, not a resource the recipient may assume has become continuously available. (KEI-S01 L121–123; KQ03–06, KQ11.)\n",
       "literal_UTF8_bytes": 766,
       "literal_UTF8_sha256": "8400de48acff505274cabe70f2bf126f6cac669cd9efd92762ea230fda70beac",
@@ -3532,7 +3532,7 @@
     },
     {
       "paragraph_id": "KEI-P030",
-      "exact_current_physical_line": 97,
+      "exact_current_physical_line": 98,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P030] The comparison with Rio's room is a report within the private episode, not another observed scene that this body may invent. Repeated descriptions of Kei as cute frustrate a caregiver engaged in concrete work. Together with the lobby request for other praise, this shows why recognition has a content problem: being appreciated as an adorable presence does not necessarily acknowledge the task, skill, judgment or burden she is presenting. This does not make every instance of cuteness praise malicious. It makes its adequacy a question for the actual speaker and recipient. The material labor and the desired form of response both deserve to remain in the analysis. (KEI-S01 L121–123, L137; KQ02–04.)\n",
       "literal_UTF8_bytes": 717,
       "literal_UTF8_sha256": "46bf32ea2db4904100a10809ebb140ae4515a813d7ee44df3e946140dbdd058b",
@@ -3612,7 +3612,7 @@
     },
     {
       "paragraph_id": "KEI-P031",
-      "exact_current_physical_line": 101,
+      "exact_current_physical_line": 102,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P031] Private009 records both welcome and resistance to a sudden leap. Kei acknowledges happiness while rejecting the escalation. She critiques papers, security and mediation growth while insisting that an educator's work should remain; the documents are said to be finished. Claims about statistical procedure have no printed numbers or independent efficacy test. The scene accordingly gives evidence of chosen local work, critical judgment and a position on what the adult's role should include. It does not establish that she has audited Schale or can replace education with procedure. The near-exhaustion of Sensei also keeps an earlier objection to universal adult availability present in the ordinary working scene. (KEI-S01 L125–133; KQ03–06, KQ11.)\n",
       "literal_UTF8_bytes": 766,
       "literal_UTF8_sha256": "dacf34ee629e07836cdfdc733f03c56e1191a8bbcb3caadc6c8a83dd0bb59f49",
@@ -3720,7 +3720,7 @@
     },
     {
       "paragraph_id": "KEI-P032",
-      "exact_current_physical_line": 103,
+      "exact_current_physical_line": 104,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P032] The meal and accessory proposal is accepted after a check, while volunteering for the next day has several represented motives: adaptation, social practice, work, funds and the teacher. None should be treated as the unique hidden reason behind the others. No meal, accessory purchase or next-day shift is depicted in the available material. These are meaningful choices and anticipations, not accomplished rewards. Their value does not depend on later attendance being proven; their incompletion instead limits the endpoint. A character argument can take a wanted outing seriously while keeping the account open to a future contrary response, an altered plan or a purchase that the received source simply does not show. (KEI-S01 L127–133; KQ02–03, KQ05, KQ09–11.)\n",
       "literal_UTF8_bytes": 781,
       "literal_UTF8_sha256": "5c275495d45334f54b2327aecfa6c98bb75c6524242a0ddf71c4b178d483cbc9",
@@ -3883,7 +3883,7 @@
     },
     {
       "paragraph_id": "KEI-P033",
-      "exact_current_physical_line": 105,
+      "exact_current_physical_line": 106,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P033] The head-touch request at009u0057–58 is refused. The severe rhetoric accompanying the refusal must not become a clinical claim or an enacted death plan, but its comic presentation does not make the request accepted. Subsequent reassurance about remaining present and an explanation of fleeting visual fatigue are also different speech acts, with the explanation not establishing a bodily mechanism. The local consent boundary is especially important when later written forms appear to permit another kind of exchange. A reader should not use later pleasure, some welcomed touch elsewhere or a general affection thesis to override a refusal that the available scene explicitly represents. (KEI-S01 L129–145; KQ03, KQ05, KQ08.)\n",
       "literal_UTF8_bytes": 741,
       "literal_UTF8_sha256": "17958b26dcffc05a8b217a1e01dcf2613904e25d3e020a0317a319a4507b75f0",
@@ -4072,7 +4072,7 @@
     },
     {
       "paragraph_id": "KEI-P034",
-      "exact_current_physical_line": 107,
+      "exact_current_physical_line": 108,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P034] The company-and-survival speech at009u0073–82 crosses narration and a [log=케이 교복] written association. At this grade it is positive represented speech with a marked seam, not received performance or a proof of exact physical continuity. The つもり formulation and conditional intention not to abandon the world make a commitment toward presence, not an accomplished theorem of survival. This still has substantial character force: the speaker articulates an intention in relation to company rather than only obeying an assigned destructive purpose. The proper limit protects the value of the intention by keeping it her represented stance, rather than converting it into a prediction register whose reliability has not been tested. (KEI-S01 L129–153; KQ01, KQ05, KQ08–11.)\n",
       "literal_UTF8_bytes": 801,
       "literal_UTF8_sha256": "672685b96863543a164a6c65d0fa8db89d6c575c187380f99987d3819f0119e1",
@@ -4190,7 +4190,7 @@
     },
     {
       "paragraph_id": "KEI-P035",
-      "exact_current_physical_line": 109,
+      "exact_current_physical_line": 110,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P035] The actual slow return to Millennium and little-finger contact at009u0083–85 are stronger endpoints than a merely proposed outing. The message tail adds a dorm-arrival report and a forgotten daily game task. These ordinary details preserve an aftermath with company, a place to return and an incomplete routine; they do not authenticate a save file or authorize unrestricted future touch. The positive endpoint should be allowed its full scale. Someone who refuses one requested gesture can choose another form of contact and acknowledge welcome company. That local choice is not weakened by refusing to read it as permanent consent, a full health recovery or guaranteed continued survival in every future condition. (KEI-S01 L131–133; KQ02–03, KQ05, KQ11.)\n",
       "literal_UTF8_bytes": 775,
       "literal_UTF8_sha256": "f60e6c1a19459b7107fe49a2efecf0e18493ce17b2d3217bef54063a98e545dd",
@@ -4342,7 +4342,7 @@
     },
     {
       "paragraph_id": "KEI-P036",
-      "exact_current_physical_line": 113,
+      "exact_current_physical_line": 114,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P036] The two profiles provide different documentary supports. The10135 writing offers body, hobbies, taste and address contexts, including the stated fashion and gaming hobbies and the profile's represented denial. The separate 天童ケイ profile explicitly supplies a self-defining trajectory and apparent denial of an effective producer role, even though its contextual-line body is empty. Similar birthday, height and hobbies make comparison appropriate without erasing either key. The guarded twins explanation and birthday association with Alice remain distinct from biology. These modes can deepen the literary argument about a repertoire and a represented continuation while remaining inadequate to establish exact provenance, a medical age, complete institutional status or every intermediary mechanism. (KEI-S01 L137–139; KQ01, KQ04–05, KQ08.)\n",
       "literal_UTF8_bytes": 865,
       "literal_UTF8_sha256": "c848fae8cd5f884e83468781e16b5e017963f6f808c9670de8f088324ebed8e0",
@@ -4453,7 +4453,7 @@
     },
     {
       "paragraph_id": "KEI-P037",
-      "exact_current_physical_line": 115,
+      "exact_current_physical_line": 116,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P037] The special lobby repeats the009 company-and-survival speech at a written-only mode. Repetition gives a callback, not a second completed survival event. The weapon writing's account of distant starlight and coexistence of past and future is a represented explanation rather than independently verified physics. These examples show why modes are part of meaning, not merely technical storage. A recurrence can give emphasis to how the character is presented while adding no new occurrence to chronology. A conceptual explanation can be part of her voice without licensing an analyst to derive world laws or a physical reconstruction chain from it. (KEI-S01 L141, L151–153; KQ05, KQ08–09.)\n",
       "literal_UTF8_bytes": 703,
       "literal_UTF8_sha256": "054876a77f80d3cdf25e53c62aa46bd0089727a4a06ea90ff9e3aa9e45dbe35c",
@@ -4517,7 +4517,7 @@
     },
     {
       "paragraph_id": "KEI-P038",
-      "exact_current_physical_line": 117,
+      "exact_current_physical_line": 118,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P038] Four preserved costume objects print Event854 and repeat eighteen mission forms at different selectors. They retain urgency, shop management, desired return, continued supply, direction and some permitted purposeless calls alongside tickling or praise rhetoric. They are four documentary objects, not four observed missions or four occasions of consent. The local statement that she has not asked the teacher to stop patting cannot cancel009's concrete head-touch refusal. Conversely, the refusal does not erase every positive permission represented in the other mode. The analysis should preserve both at their settings and avoid a universal rule that a recurring name or a comic style makes every interaction interchangeable. (KEI-S01 L143; KQ03, KQ08–09.)\n",
       "literal_UTF8_bytes": 772,
       "literal_UTF8_sha256": "8cec852aacd68ea71c5aca19b585bae4975dba1a302a13fb1dd60662f1f93d78",
@@ -4606,7 +4606,7 @@
     },
     {
       "paragraph_id": "KEI-P039",
-      "exact_current_physical_line": 119,
+      "exact_current_physical_line": 120,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P039] The fifth costume object's Event855 selector is a positive written routing lead. Its rest, toothbrushing and inquiry about whether anything is wrong remain care speech and questions rather than examined health or an acquired event plot. The maintained account's formal inventory and bounded canonical-directory inquiry are qualified documentary findings, not global proof that no relevant story exists anywhere. The body therefore uses no unreceived855 story to complete Kei's history. Similarly the Event854 writing is not a substitute for an independently received whole event account. This restraint does not demote the quiet writing: it keeps the actual written wishes and permissions available at their own grade while leaving unreceived larger contexts unclaimed. (KEI-S01 L143–145; KQ08, KQ11.)\n",
       "literal_UTF8_bytes": 815,
       "literal_UTF8_sha256": "e4295b735f10341dacbf38088febf6f969e79c94e3c0dcca141eb5e89f20f43b",
@@ -4659,7 +4659,7 @@
     },
     {
       "paragraph_id": "KEI-P040",
-      "exact_current_physical_line": 123,
+      "exact_current_physical_line": 124,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P040] The following directed relationship argument is the existing P3-REL-KEI-SENSEI-GIFT-FRICTION section inside this character home. Its subject is the local interaction in EVENT80001 E141, not an authenticated join between the two private registry keys and not a completed longitudinal Kei–Sensei network. Its local actor is the event's unresolved ケイ speaker, its recipient and counterpart Sensei. The section has to account for an offered gift, an inferred making project, tasting, requests for silence and return, concrete cushion force, the recipient's disregard, later allowance and shared enjoyment. Each is needed to understand the finite change; a heading or a generalized affection label would not discharge this named duty. (KEI-S02 L22–54; KQ01, KQ07, KQ12.)\n",
       "literal_UTF8_bytes": 785,
       "literal_UTF8_sha256": "9594873f72d417b98e5e9ee55a5c01c25db5f81ec42ae7976923372fc03d52ed",
@@ -4732,7 +4732,7 @@
     },
     {
       "paragraph_id": "KEI-P041",
-      "exact_current_physical_line": 125,
+      "exact_current_physical_line": 126,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P041] The initiating act is a gift actually brought and handed over, accompanied by a claim that it is cheap commercial chocolate found nearby. The greeting ケイちゃん, the adult's exuberance and her wish to finish business and leave establish unequal presentations of the encounter before tasting begins. A practical transaction and a personally charged reception overlap, but neither supplies an exclusive hidden motive. The dialogue's denial of preparation matters because it is the version she initially offers to the recipient. The later failure does not entitle the analyst to remove that attempt at control from the scene or to supply a complete prior confection-making episode that the available witness does not depict. (KEI-S02 L34–36; KQ03, KQ07.)\n",
       "literal_UTF8_bytes": 771,
       "literal_UTF8_sha256": "bba7d15d0038536974a1ba87ac91657dd95def688459205869a645fb2f31840c",
@@ -4783,7 +4783,7 @@
     },
     {
       "paragraph_id": "KEI-P042",
-      "exact_current_physical_line": 127,
+      "exact_current_physical_line": 128,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P042] Sensei's observations about wrapping, shape and aroma, followed by tasting and salt, challenge the commercial claim. Kei's shock, sofa dive and character-narrated regret about not tasting, together with a later replacement promise and mistake admission, strongly support the handmade inference. The inference has a good source route while still differing from directly witnessed manufacture. The full process, the reason for the salt error and the labor's duration are not shown. Making remains intrinsically important at that finite grade: a person attempts a particular ordinary good for another person and cares about its quality and presentation, even though neither the production chain nor the eventual replacement can be completed from the received account. (KEI-S02 L36, L42, L46; KQ02, KQ04, KQ07.)\n",
       "literal_UTF8_bytes": 819,
       "literal_UTF8_sha256": "ceccc6c2b6ff5963fa8af5f72f0e40eb3406c29428c09f4836499444147472f5",
@@ -4916,7 +4916,7 @@
     },
     {
       "paragraph_id": "KEI-P043",
-      "exact_current_physical_line": 129,
+      "exact_current_physical_line": 130,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P043] The participants' goals diverge. The giver wants to control how her effort is perceived and wants the result to be properly good; the recipient enjoys uniqueness and the changing expressions that accompany its discovery. Gratitude can recognize effort while missing the giver's current wish to withdraw or improve the result. The scene's asymmetry is therefore about interpretive authority as well as possession of the chocolate. Sensei's enthusiastic account of what makes the gift valuable does not automatically decide what Kei must feel about the mistaken result. Her wish to present something well is an ordinary aesthetic and relational aim, with a failed outcome that still deserves her own evaluation. (KEI-S02 L34–48; KQ02–03, KQ07.)\n",
       "literal_UTF8_bytes": 758,
       "literal_UTF8_sha256": "2b85a5a369e93189b2f2ccda610b93c2accc3db14db3721e2093f8cd20c3990c",
@@ -5032,7 +5032,7 @@
     },
     {
       "paragraph_id": "KEI-P044",
-      "exact_current_physical_line": 131,
+      "exact_current_physical_line": 132,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P044] The offered tasting test elicits a demand for silence. Narration then depicts a thrown cushion and a desperate dodge. The concrete force is part of the interaction and should not be softened into mere embarrassment; it also does not establish an enacted killing or clinical disposition. The local sequence specifies a response to the adult's initiative rather than an undifferentiated trait of hostility. This is a useful limit on a psychologically totalizing reading: the text provides a refusal, an object thrown and a recipient response, with a later turn still to come. Neither comic framing nor the eventual pleasure removes the distinct actions that produce the friction. (KEI-S02 L38–40; KQ03, KQ05, KQ07.)\n",
       "literal_UTF8_bytes": 727,
       "literal_UTF8_sha256": "2c7399804d168175a54cf06179027675c3d100e03788529e242f3149a540d155",
@@ -5093,7 +5093,7 @@
     },
     {
       "paragraph_id": "KEI-P045",
-      "exact_current_physical_line": 133,
+      "exact_current_physical_line": 134,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P045] The return request is explicit and materially different from the demand for silence. Kei promises a better chocolate and asks why the adult clings to the current one. The reported one-in-the-world reason embarrasses her, and Sensei then flees while eating another bite. At this point appreciation conflicts with retrieval: the adult preserves and consumes the object that the giver wants back. The uniqueness explanation helps explain the recipient's attraction without fulfilling her request. A later admission of her own mistake does not transfer responsibility for this choice to her, and a replacement intention does not mean that replacement occurs. This finite conflict is the named duty's central contrary case. (KEI-S02 L38, L42, L46–48; KQ03, KQ07, KQ11.)\n",
       "literal_UTF8_bytes": 778,
       "literal_UTF8_sha256": "a5dfcdd217b18c8c771e8075dc7599302647b5f8174964149a95503cd3b17f02",
@@ -5246,7 +5246,7 @@
     },
     {
       "paragraph_id": "KEI-P046",
-      "exact_current_physical_line": 135,
+      "exact_current_physical_line": 136,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P046] The next deliciousness claim and salinity qualification intensify the outburst. The severe killing-and-death words, prohibitions on speech and dislike statement remain part of the printed language. Their evidentiary role is to show how forcefully the encounter is contested, not to justify a diagnosis, an enacted death or an unprinted plan. The actual cushion and continued eating give different kinds of support from the rhetoric. A careful relation argument can preserve the unpleasant language and the adult's disregard while allowing the next phase to count as a real change, rather than insisting that either the harsh words or the later smile must be the only truthful moment. (KEI-S02 L40–42; KQ03, KQ05, KQ07.)\n",
       "literal_UTF8_bytes": 733,
       "literal_UTF8_sha256": "2fc62c9df1ae57bdca797c25e7f54f15fab46416ea41d733bbb033530892d825",
@@ -5307,7 +5307,7 @@
     },
     {
       "paragraph_id": "KEI-P047",
-      "exact_current_physical_line": 137,
+      "exact_current_physical_line": 138,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P047] Suggestions for sweet-and-salty alternation or hot-weather salt intake occur through Kei's repetition of the adult's unprinted suggestions. They cannot be expanded into the adult's exact missing lines or medical advice. They do reveal a negotiated change in how the mistaken object might be used, provided the actor and mode are retained. The scene's move toward another use has interpretive value because failure does not automatically destroy all possible pleasure in the gift. It remains a local conversational and culinary accommodation, not a measured health benefit, a corrected recipe, a fully verified branch graph or proof that the earlier demand for return was unreasonable. (KEI-S02 L42, L52; KQ04–05, KQ07.)\n",
       "literal_UTF8_bytes": 733,
       "literal_UTF8_sha256": "92cbf8a517048e18dae6a2d39274264087992f743c08cfad6580938c25b370cb",
@@ -5374,7 +5374,7 @@
     },
     {
       "paragraph_id": "KEI-P048",
-      "exact_current_physical_line": 139,
+      "exact_current_physical_line": 140,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P048] Kei finally names her own mistake and regrets the missing taste check. The repeated thanks for the actual feeling are received, she says she will allow it, smiles and shares hidden sweets whose combination is unexpectedly good. These are positive endpoints, with her present allowance doing real work. The available relation is not frozen at the moment of refusal. Yet allowance now cannot make an earlier requested return disappear, and enjoyment now does not prove every pressure in the sequence acceptable. A meaningful repair reading must therefore be finite: immediate forgiveness and shared pleasure are supported, while the record does not establish a permanent settlement, a replacement gift or an explicit accounting for the disregarded request. (KEI-S02 L38–48; KQ03, KQ07, KQ11.)\n",
       "literal_UTF8_bytes": 804,
       "literal_UTF8_sha256": "389f0d39735569caab4e17d0cf9c6c341fac5f4e99863d0ebdfafc46ccd78f96",
@@ -5527,7 +5527,7 @@
     },
     {
       "paragraph_id": "KEI-P049",
-      "exact_current_physical_line": 141,
+      "exact_current_physical_line": 142,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P049] The language and mode details prevent the dialogue from becoming an uncomplicated transcript of two fully identified speakers. Character narration, ordinary dialogue, unknown-speaker text, inward material and choices retain separate roles. The unknown u0014 duplication of narrator u0015 does not create another person or event. Seven formal groups contain eight options, with only the first group paired; mismatched Japanese and Korean segment controls remain unrepaired. This argument uses the maintained local sequence without claiming identical branch meaning across locales or performance of the written speech. The mode boundaries are particularly important when reconstructing a recipient's response: a reported suggestion or inward line must not be silently converted into the exact words heard by the other person. (KEI-S02 L28, L52–54; KQ01, KQ07–09.)\n",
       "literal_UTF8_bytes": 877,
       "literal_UTF8_sha256": "febe65a811e9ba5aaa16b53622d24a8929cbcc660b42eb2c55b66147299722c6",
@@ -5610,7 +5610,7 @@
     },
     {
       "paragraph_id": "KEI-P050",
-      "exact_current_physical_line": 143,
+      "exact_current_physical_line": 144,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P050] The local chronology is a failed presentation, discovery through tasting, escalating request-and-response friction, continued consumption, an acknowledgment of error and present allowance with shared enjoyment. It supports a change within the scene without assigning the whole event a main-story date. The school-form label, Valentine context and direct embodied acts do not establish resurrection, a person-key join or a transition from the save-file uncertainty. Documentary scenario order and availability are not replacements for that missing relation. The section consequently offers a directed local history with causal and temporal detail, while leaving the stronger biographical placement unavailable. This limit preserves the gift as actual evidence instead of requiring it to certify the entire character's continuity before it can matter. (KEI-S02 L30, L34–54; KQ01, KQ07, KQ09.)\n",
       "literal_UTF8_bytes": 904,
       "literal_UTF8_sha256": "745d2586003e34c03f734c1a12f6bc1a12365c2a00825677e12bf676f9d9b60e",
@@ -5683,7 +5683,7 @@
     },
     {
       "paragraph_id": "KEI-P051",
-      "exact_current_physical_line": 145,
+      "exact_current_physical_line": 146,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P051] Two strong contrary readings each fail on specific acts. An affection-only reading explains effort, embarrassment, thanks and sharing but loses the silence and return demands, force and severe speech. A hostility-only reading explains refusals and anger but loses the gift's making inference, replacement promise, later allowance and actual pleasure. Comic characterization provides a register for their coexistence without proving every pressure harmless. The more adequate reading retains a gift project whose quality and reception are contested, then a finite accommodation. It can compare this local pattern with other private requests without claiming that the unjoined event actor's entire relation to Sensei has been independently reconstructed. (KEI-S02 L36–54; KEI-S01 L89–133; KQ03, KQ07, KQ10.)\n",
       "literal_UTF8_bytes": 821,
       "literal_UTF8_sha256": "dfb025096febd4cbc1e0bbd7f6787e124557148092e664f82d60300f457f0241",
@@ -5746,7 +5746,7 @@
     },
     {
       "paragraph_id": "KEI-P052",
-      "exact_current_physical_line": 147,
+      "exact_current_physical_line": 148,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P052] A stronger relationship claim would need additional evidence appropriate to the claim: explicit repair of the ignored request, a depicted replacement, a later response under a comparable demand, a sourced person join or a supported chronological connection. None is supplied by the present smile, by repeated written permissions elsewhere or by an analyst's expectation that the scene should end warmly. The section completes its local literary argument through the supported present allowance and enjoyment while keeping these triggers finite. It grants no symmetry, unrestricted consent, romance, universal trust or completed longitudinal dyad. The single named inside section remains one existing responsibility, with this full argument awaiting its own actual receiving and acceptance gate. (KEI-S02 L42–54; KEI-S01 L143–153; KQ07–12.)\n",
       "literal_UTF8_bytes": 857,
       "literal_UTF8_sha256": "59f157c534fa1a733fa240406b38a262c218299332cecc84301dae5f8355a546",
@@ -5844,10 +5844,10 @@
     },
     {
       "paragraph_id": "KEI-P053",
-      "exact_current_physical_line": 151,
-      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P053] Across the private material, care is offered, requested, criticized and sometimes appropriated. Kei asks for rescue, release and different praise; she also uses schedule access and summons against an objection. Sensei apologizes and thanks her over cleaning, proposes feedback and receives chosen company; he also teases, watches approvingly instead of releasing and disregards the gift return request in the event-local section. These directed acts cannot be reduced to a ledger of who is kind. They show that support can meet one need while overlooking another. Respect for agency requires particular responses to particular wishes, and the body cannot distribute a universal ethical certificate to either participant from a collection of warm endpoints. (KEI-S01 L93–133, L137; KEI-S02 L34–48; KQ03–06, KQ07.)\n",
-      "literal_UTF8_bytes": 830,
-      "literal_UTF8_sha256": "ef7f0ca3d45b79dd83ad4006bc6a8418c8eeba5125329eb9d4d8d4ea5f3eeec6",
+      "exact_current_physical_line": 152,
+      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P053] Across the private material, care is offered, requested, criticized and sometimes appropriated. Kei asks for rescue, release and different praise; she also uses schedule access and summons against an objection. Sensei apologizes and thanks her over cleaning, discusses the difficulty of feedback and receives chosen company; he also teases, watches approvingly instead of releasing and disregards the gift return request in the event-local section. These directed acts cannot be reduced to a ledger of who is kind. They show that support can meet one need while overlooking another. Respect for agency requires particular responses to particular wishes, and the body cannot distribute a universal ethical certificate to either participant from a collection of warm endpoints. (KEI-S01 L93–133, L137; KEI-S02 L34–48; KQ03–06, KQ07.)\n",
+      "literal_UTF8_bytes": 849,
+      "literal_UTF8_sha256": "35363dccef7dfeee22f9bbb3861285271e1f1fd2b7b67812e6f8d69eecce7221",
       "complete_literal_source_clause_suffix": "(KEI-S01 L93–133, L137; KEI-S02 L34–48; KQ03–06, KQ07.)",
       "direct_source1_codes_as_actually_written": [
         "KEI-S01",
@@ -5981,7 +5981,7 @@
     },
     {
       "paragraph_id": "KEI-P054",
-      "exact_current_physical_line": 153,
+      "exact_current_physical_line": 154,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P054] School and club affiliation similarly do not predetermine the person's full duty. The printed SPTF affiliation, frequent GDD help and conditional producer description give different kinds of institutional context. Classroom knowledge can be wanted by classmates without making Kei permanently available; a creative project can need criticism without making her its sole owner; a clean room can be good without appointing her its permanent cleaner. These distinctions explain why her service is not merely evidence of conformity to an old assigned function. Some service is chosen, some negotiated and some resisted. The available acts make that difference visible without proving a complete contract, formal appointment, durable reform or a universal rule for future work. (KEI-S01 L93–139; KQ04, KQ06, KQ11.)\n",
       "literal_UTF8_bytes": 823,
       "literal_UTF8_sha256": "ead96b737aa53132da65791855dec459937489728c3c52c5d298be7ffcb05629",
@@ -6159,7 +6159,7 @@
     },
     {
       "paragraph_id": "KEI-P055",
-      "exact_current_physical_line": 155,
+      "exact_current_physical_line": 156,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P055] The crisis comparison is narrower than a test of modern Kei under identical danger. The received main checkpoints contain Key's assigned-function conflict, Alice's choosing response, actual injuries and distributed rescue labor. They do not supply an unprinted crisis action by the current private registry person or authenticate the event-local actor. Modern body, work and survival writing can be compared with those themes, but comparable words are not equivalent events. The body therefore has a substantial crisis track through public history and its ethical implications, with the modern person's unobserved response to every extreme condition left open. This is a source responsibility limit rather than a reason to postpone ordinary life until another crisis appears. (KEI-S03 L32–50, L87; KEI-S04 L38–62; KEI-S01 L129–153; KQ01, KQ06, KQ09–11.)\n",
       "literal_UTF8_bytes": 873,
       "literal_UTF8_sha256": "774ab429fe351b1c3e9e7da34461e2284fb5975da1904c3039a46d005f9caf59",
@@ -6264,7 +6264,7 @@
     },
     {
       "paragraph_id": "KEI-P056",
-      "exact_current_physical_line": 157,
+      "exact_current_physical_line": 158,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P056] The recurring language of not-bad, not-disliked, consideration and intention is more precise than a blanket label of denial. It permits qualified positive evaluation without making maximal assent the measure of sincerity. The corrections to ケイちゃん, requests for a different kind of praise, a guarded family explanation and conditionally framed presence all preserve who controls a description. Humor often makes the friction readable, while the severe rhetoric, memory seams and concrete request failures demand limits on what humor explains. At this grade the analysis concerns written Japanese and the maintained readings' mode distinctions. Performed tone, bodily expression beyond the printed narrative and uniform cross-locale branch meaning remain outside its received evidence. (KEI-S01 L89–145, L248; KEI-S02 L28, L40–54; KQ03, KQ05, KQ08.)\n",
       "literal_UTF8_bytes": 873,
       "literal_UTF8_sha256": "b93e1fd9ae050bb1fca4c3ad93ee21403253db68bf84a0e176f4fff585c921df",
@@ -6327,10 +6327,10 @@
     },
     {
       "paragraph_id": "KEI-P057",
-      "exact_current_physical_line": 159,
-      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P057] The represented longitudinal development is therefore a comparison of states and repertoires, not a recovered continuous life history. Main classification and coercive function, inward naming, an unauthenticated file, modern authored self-definition and ordinary participation provide meaningful successive interpretive contexts. Their full diegetic placement and mechanism remain unresolved. Within the private sequence there are more secure local developments: consideration followed by received invitations, a material task and gift received, criticism adjusting to maker preference, cleaning acknowledged and company chosen after a refused gesture. These finite changes support depth without substituting the later profile for earlier source knowledge or making one late positive scene a universal forecast. (KEI-S01 L93–153; KEI-S03–06 at disclosed whole maintained scopes; KQ01, KQ09–11.)\n",
-      "literal_UTF8_bytes": 912,
-      "literal_UTF8_sha256": "f803c3aef821d6b83433757bc68c83831936826ddaba11b707ddef3ca70d9ea4",
+      "exact_current_physical_line": 160,
+      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P057] The represented longitudinal development is therefore a comparison of states and repertoires, not a recovered continuous life history. Main classification and coercive function, inward naming, an unauthenticated file, modern authored self-definition and ordinary participation provide meaningful successive interpretive contexts. Their full diegetic placement and mechanism remain unresolved. Within the private sequence there are more secure local developments: consideration followed by received invitations, a material task and gift received, criticism acknowledging maker preference, cleaning acknowledged and company chosen after a refused gesture. These finite changes support depth without substituting the later profile for earlier source knowledge or making one late positive scene a universal forecast. (KEI-S01 L93–153; KEI-S03–06 at disclosed whole maintained scopes; KQ01, KQ09–11.)\n",
+      "literal_UTF8_bytes": 913,
+      "literal_UTF8_sha256": "2de6fc93423ce5e575fd38496b768ada7666ae84e7dc29c460cd9b041743ed67",
       "complete_literal_source_clause_suffix": "(KEI-S01 L93–153; KEI-S03–06 at disclosed whole maintained scopes; KQ01, KQ09–11.)",
       "direct_source1_codes_as_actually_written": [
         "KEI-S01",
@@ -6441,7 +6441,7 @@
     },
     {
       "paragraph_id": "KEI-P058",
-      "exact_current_physical_line": 163,
+      "exact_current_physical_line": 164,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P058] Rival01 is the assigned-function reading: every later act expresses a system's utility, so preferences are merely decoration around useful service. The main Key voice's Princess claim gives this rival a serious starting point, and the modern repertoire certainly contains competent work. It fails as a complete interpretation because ribbon, broader praise, selective invitations, guarded pleasure and objections to overwork are not exhausted by serving a recipient. The critique of a critic's substituted wants is particularly resistant to a one-function account: it recognizes multiple agents with different ownership of a goal. This failure does not prove an unconstrained essence or dissolve the earlier danger; it makes assigned function an insufficient description of the available present repertoire. (KEI-S04 L46–62; KEI-S01 L89–117, L137–153; KQ02, KQ06, KQ10.)\n",
       "literal_UTF8_bytes": 888,
       "literal_UTF8_sha256": "6d8a722043f5150187c3bc979c9fbdeb2d994ca36116b8af8499a49f35c82c8c",
@@ -6519,7 +6519,7 @@
     },
     {
       "paragraph_id": "KEI-P059",
-      "exact_current_physical_line": 165,
+      "exact_current_physical_line": 166,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P059] Rival02 is the restored-and-harmless continuity reading. A later body, repeated name, self-defining profile and intended continued presence give it meaningful narrative support. Its overreach begins when narrative continuation becomes authentication of Kei.sav, a complete physical reconstruction chain or an all-clear on hazards. The earlier small-file inspection explicitly cannot establish that it is Key, and the main crisis endpoint does not test global safety. This body retains the profile's positive trajectory while rejecting those stronger conversions. A represented person can acquire present depth without the literary argument pretending to perform a technical test that neither its maintained sources nor its own receiving has performed. (KEI-S01 L139–153; KEI-S04 L50–62; KEI-S06 L38, L52; KQ01, KQ09–11.)\n",
       "literal_UTF8_bytes": 838,
       "literal_UTF8_sha256": "487c9958a0c80ab5ecb4ff9f083799cea86a136454fb8fb62b5b21fd6e28734a",
@@ -6607,7 +6607,7 @@
     },
     {
       "paragraph_id": "KEI-P060",
-      "exact_current_physical_line": 167,
+      "exact_current_physical_line": 168,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P060] Rival03 is uniformly welcoming school. It has a real positive basis in received invitations, not-disliked responses, gifts, shared work and continued presence. It fails when those positives erase the request for rescue from eager classmates, tiredness, selective participation and consideration without a promise. School can be a place where company is wanted and too much attention is burdensome. The private afterword provides an opening rather than proof that every invitation is accepted. This rival is useful because it tests whether an analysis values ordinary life only when it becomes unqualified happiness. The more adequate account values selective company and an ability to object as parts of that life, with no attendance quota required. (KEI-S01 L93–107; KQ02–03, KQ06, KQ10.)\n",
       "literal_UTF8_bytes": 805,
       "literal_UTF8_sha256": "476b3ac78aa15bdcd1efd9cd304f9152f82e066db39abada902e08f67a04e904",
@@ -6688,10 +6688,10 @@
     },
     {
       "paragraph_id": "KEI-P061",
-      "exact_current_physical_line": 169,
-      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P061] Rival04 is the perfectly sensitive mentor. Reassurance, proposed feedback, apology, thanks and chosen accompanied return give this view substantial local evidence. It fails against popularity teasing instead of rescue, approval instead of release, unwanted repetition of cuteness and the event recipient's continued eating after a return demand. The adverse cases do not invalidate every positive response; they show that a good intention or accepted company is not enough to certify responsiveness in every interaction. Kei's own pressure on the adult's schedule keeps the relation from becoming a one-directional moral caricature. Each initiative and response should retain its actor and direction, so that support and disregard can coexist without canceling one another. (KEI-S01 L95–133, L137; KEI-S02 L38–48; KQ03, KQ07, KQ10.)\n",
-      "literal_UTF8_bytes": 848,
-      "literal_UTF8_sha256": "c6c9cbdb7fcefdcd7afab330e90a8a3ba75dc647a6aa401c5bf0226807d54287",
+      "exact_current_physical_line": 170,
+      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P061] Rival04 is the perfectly sensitive mentor. Reassurance, understanding over feedback, apology, thanks and chosen accompanied return give this view substantial local evidence. It fails against popularity teasing instead of rescue, approval instead of release, unwanted repetition of cuteness and the event recipient's continued eating after a return demand. The adverse cases do not invalidate every positive response; they show that a good intention or accepted company is not enough to certify responsiveness in every interaction. Kei's own pressure on the adult's schedule keeps the relation from becoming a one-directional moral caricature. Each initiative and response should retain its actor and direction, so that support and disregard can coexist without canceling one another. (KEI-S01 L95–133, L137; KEI-S02 L38–48; KQ03, KQ07, KQ10.)\n",
+      "literal_UTF8_bytes": 858,
+      "literal_UTF8_sha256": "1800262a068a98aed7bbcb8fb1114b6ea10649ed28dd7d64ccf03d91733fb520",
       "complete_literal_source_clause_suffix": "(KEI-S01 L95–133, L137; KEI-S02 L38–48; KQ03, KQ07, KQ10.)",
       "direct_source1_codes_as_actually_written": [
         "KEI-S01",
@@ -6751,7 +6751,7 @@
     },
     {
       "paragraph_id": "KEI-P062",
-      "exact_current_physical_line": 171,
+      "exact_current_physical_line": 172,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P062] Rival05 is the willing permanent caretaker or producer. It can point to cleaning, game work, documents, future help offered and the profile's effective producer description. Its limit is the explicit rejection of compulsory overwork, uneven expectations, conditional small-club titles and a request that help be sought under particular circumstances. A proposed next-day shift is not an enacted employment history; a finished-document statement is not institutional ownership; an appreciated cleaning task is not lifelong conscription. The person is more than a pool of labor available to whichever group appreciates her. Chosen assistance is a real positive good precisely because the sources also let it have conditions, fatigue, negotiation and refusals. (KEI-S01 L109–139; KQ02–06, KQ10–11.)\n",
       "literal_UTF8_bytes": 813,
       "literal_UTF8_sha256": "052ea6a28f8a58aa7c6fe73b62d0e50746824a8111ebba3b4818113c170dad50",
@@ -6862,7 +6862,7 @@
     },
     {
       "paragraph_id": "KEI-P063",
-      "exact_current_physical_line": 173,
+      "exact_current_physical_line": 174,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P063] Rival06 is fundamental hostility disguised by a comic ending. Severe speech, refusals, a thrown cushion and embarrassment give it concrete evidence, and the argument must not treat those as nonexistent. It fails as a full account against invitations not disliked, actual receipt of a necklace, accepted feedback, offered help, welcome happiness, chosen contact and the event-local allowance with shared sweets. These positives need not be explained away as an analyst's projection. Neither do they require that all objections were insincere. A person can contest a particular request and enjoy company on other terms. The source permits that more discriminating reading while keeping the event actor unjoined and each local positive outcome finite. (KEI-S01 L97–133; KEI-S02 L38–48; KQ02–03, KQ05, KQ07, KQ10.)\n",
       "literal_UTF8_bytes": 828,
       "literal_UTF8_sha256": "3b71483065b63b0c74fba2312fcd5caeb844c5c1b904ffb6d1f5ce1fb427eb8b",
@@ -6945,7 +6945,7 @@
     },
     {
       "paragraph_id": "KEI-P064",
-      "exact_current_physical_line": 175,
+      "exact_current_physical_line": 176,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P064] Rival07 is rational competence as automatic correctness. Knowledge, procedure talk, QA and practical criticism make the rival plausible; the main Key voice also gives confident system reports. Its overreach is to turn reports into external validation and capacity into entitlement. The alpha has bugs and remains incomplete, a critic may substitute personal wants, schedules can be intrusively accessed and the chocolate has a quality failure with an unperformed taste check. None of these makes every competent act false. Together they prevent competence from settling ownership, ethics or outcome. The argument preserves real work while rejecting omniscience, independent statistical efficacy, health examination, recipe proof or technical safety derived from the character's confident language alone. (KEI-S01 L95, L109–133; KEI-S02 L36–48; KEI-S04 L48–60; KQ04–05, KQ10.)\n",
       "literal_UTF8_bytes": 895,
       "literal_UTF8_sha256": "d48a23bc73003476d214b2bf54676eb16e8aeb803fcc97d5dfd94b25ffe29800",
@@ -7028,7 +7028,7 @@
     },
     {
       "paragraph_id": "KEI-P065",
-      "exact_current_physical_line": 177,
+      "exact_current_physical_line": 178,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P065] Rival08 is universal forgiveness and completed belonging. Slow return, contact, profile continuation, repeated written permissions and a smiling gift endpoint offer a powerful warm arc. It fails if it certifies unrestricted touch, erased earlier requests, permanent repair, completed purchases, stable all-situation behavior or merged identity. The strongest available alternative is a finite, heterogeneous belonging: material and social goods are achieved in some settings, offered in others and resisted in still others. The present repertoire broadens the available interpretation without closing every source debt. That conclusion gives the warm endpoints their actual positive force while preserving the missing observations that a larger continuity or consent claim would require. (KEI-S01 L129–153, L264; KEI-S02 L38–54; KEI-S06 L38; KQ01, KQ03, KQ08–11.)\n",
       "literal_UTF8_bytes": 881,
       "literal_UTF8_sha256": "309ac5def3ef9cbc0513b9317f4ecc07735ab34ad8719fc176bda2cdd5f60cce",
@@ -7148,7 +7148,7 @@
     },
     {
       "paragraph_id": "KEI-P066",
-      "exact_current_physical_line": 181,
+      "exact_current_physical_line": 182,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P066] KE01–KE04 delimit four early outcomes. KE01 is002's acknowledged body-change result and qualified preference, with the requested ribbon still unobtained and the reported previous-body history unverified. KE02 is003's received invitations and not-disliked evaluation, without all invitations accepted or consideration made a promise. KE03 is005's cleared delivery task, not a generalized guarantee of future helpfulness. KE04 is the necklace actually presented and received, with manufacture, storage and security at their report grades and the studentA praise left with its speaker. These are separate positive observations or acknowledgments with different limits; the sequence does not require all four to prove the same identity, competence or institutional claim. (KEI-S01 L87–107; KQ01–04, KQ11.)\n",
       "literal_UTF8_bytes": 819,
       "literal_UTF8_sha256": "ce4d9153962aaf46653554c083566a7cfe7354fa4b65600329978e4f5dd46506",
@@ -7233,10 +7233,10 @@
     },
     {
       "paragraph_id": "KEI-P067",
-      "exact_current_physical_line": 183,
-      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P067] KE05–KE08 delimit company and making. KE05 is a current arcade invitation with a prior enjoyed outing reported and acknowledged; the new visit is not depicted. KE06 is the acceptance of a feedback proposal in006, not the success of every later design choice. KE07 is actual depicted alpha testing and QA work, with bugs, fatigue and completion unresolved. KE08 is immediate room improvement reported in008, not the outcome of the three-day wager or durable household reform. The endpoints are intentionally of different strengths. A proposal, an acceptance, work in progress and a report of improvement can each matter while remaining distinct from an accomplished visit, shipped game or stable result. (KEI-S01 L105–123; KQ02–04, KQ06, KQ11.)\n",
-      "literal_UTF8_bytes": 761,
-      "literal_UTF8_sha256": "b0e6c524cea3cd3d71498a60c248f077fc5516375eebc05c7768fe7f214c54e1",
+      "exact_current_physical_line": 184,
+      "complete_literal_current_paragraph_NOT_shortened": "[KEI-P067] KE05–KE08 delimit company and making. KE05 is a current arcade invitation with a prior enjoyed outing reported and acknowledged; the new visit is not depicted. KE06 is Kei's acknowledgment in006 that feedback can impose the critic's wishes on the makers, not acceptance of a new proposal, demonstrated revision of her practice or success of every later design choice. KE07 is actual depicted alpha testing and QA work, with bugs, fatigue and completion unresolved. KE08 is immediate room improvement reported in008, not the outcome of the three-day wager or durable household reform. The endpoints are intentionally of different strengths. An invitation, an acknowledgment, work in progress and a report of improvement can each matter while remaining distinct from an accomplished visit, shipped game or stable result. (KEI-S01 L105–123; KQ02–04, KQ06, KQ11.)\n",
+      "literal_UTF8_bytes": 877,
+      "literal_UTF8_sha256": "de433949e3a3b48e927c7f36155d52d64d816642068fd1270500f9f2652fb2e2",
       "complete_literal_source_clause_suffix": "(KEI-S01 L105–123; KQ02–04, KQ06, KQ11.)",
       "direct_source1_codes_as_actually_written": [
         "KEI-S01"
@@ -7316,7 +7316,7 @@
     },
     {
       "paragraph_id": "KEI-P068",
-      "exact_current_physical_line": 185,
+      "exact_current_physical_line": 186,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P068] KE09–KE12 delimit care and working recognition. KE09 is Sensei's actual apology and thanks in the cleaning context, without a demonstrated lasting redistribution of labor. KE10 is Kei's request that he call her rather than struggle alone, with its future helpfulness wanted rather than enacted as a permanent duty. KE11 is the009 statement that documents are finished, with no independent procedural or institutional audit. KE12 is acceptance of the meal/accessory proposal after a check, with neither purchase nor meal performed in the received selection. These endpoints should not be scaled up merely because their subjects are ordinary. Their actual forms specify how work is acknowledged and how desired company can remain prospective. (KEI-S01 L121–133; KQ02–06, KQ11.)\n",
       "literal_UTF8_bytes": 793,
       "literal_UTF8_sha256": "5448444348efe8dfc77cb39b8209b5be4175679aeef46f351aef1a3784d11aba",
@@ -7409,7 +7409,7 @@
     },
     {
       "paragraph_id": "KEI-P069",
-      "exact_current_physical_line": 187,
+      "exact_current_physical_line": 188,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P069] KE13–KE16 delimit the final private and gift outcomes. KE13 is next-day work volunteered with several represented motives, not an observed shift. KE14 combines the actual refused head-touch with a separately represented intention toward continued presence; it grants neither touch nor a survival theorem. KE15 is the slow accompanied return and little-finger contact, followed by the dorm-arrival report and forgotten daily-game task, without unrestricted future consent or save authentication. KE16 is E141's present allowance, smile and shared sweets after the mistake is acknowledged, without an accomplished replacement or explicit repair of the ignored return. These finite conclusions preserve both accomplished positives and unfulfilled or contrary acts as the sources actually give them. (KEI-S01 L127–153; KEI-S02 L38–54; KQ01–03, KQ07–11.)\n",
       "literal_UTF8_bytes": 871,
       "literal_UTF8_sha256": "0461c7ca7d0492b3a21e211ad5af02f9f6d45a013d107ec5fde114fdb0b4fae9",
@@ -7528,7 +7528,7 @@
     },
     {
       "paragraph_id": "KEI-P070",
-      "exact_current_physical_line": 191,
+      "exact_current_physical_line": 192,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P070] The original fourteen stronger-claim gaps remain OPEN; this body does not rename or close them. At the maintained account's own formulation, G01 and G06 gain an ordinary repertoire, objections and company; G07 and G08 retain placement,854/855 and repeated-mode boundaries; G09 retains speaker and role seams; G10 lacks performed audio or pixels; G12 retains counterpart, save-file and two-key limits; G13 gains local work, delivery and return without reform, recovery, systemic safety or authentication; and G14 preserves mode and narrative-continuity distinctions. G02–G05 and G11 cannot be closed by this character comparison. These are inherited stronger-claim controls at their attributed grade, not fourteen new findings produced by this body or an operational model admission. (KEI-S01 L264–270; KQ08–12.)\n",
       "literal_UTF8_bytes": 829,
       "literal_UTF8_sha256": "1f074d012f06c3195d7c696440535bc165dd4e7a15a92cc07708e4157ee25555",
@@ -7616,7 +7616,7 @@
     },
     {
       "paragraph_id": "KEI-P071",
-      "exact_current_physical_line": 193,
+      "exact_current_physical_line": 194,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P071] For the character's identity and chronology, stronger claims would require an explicit sourced join appropriate to the two person keys and the E141 actor, provenance adequate to Kei.sav and a demonstrated reconstruction chain if physical continuity is asserted. Global story placement would require source relations beyond release dates, selectors and thematic resemblance. The positive profile trajectory is already available and need not be withheld while those tests remain absent; what is withheld is the stronger authentication claim. Likewise future purchases, the ribbon, an arcade visit, next-day work, alpha completion and durable cleaning reform need their own later observations. No expectation of a conventional warm arc is evidence that the missing endpoint occurred. (KEI-S01 L60–66, L89–153; KEI-S02 L30, L54; KEI-S06 L38; KQ01, KQ09–11.)\n",
       "literal_UTF8_bytes": 871,
       "literal_UTF8_sha256": "bd97cc68ca7bbd3c48739d5ab00cc9dd6129fda5973329722d7d077336f8680f",
@@ -7697,7 +7697,7 @@
     },
     {
       "paragraph_id": "KEI-P072",
-      "exact_current_physical_line": 195,
+      "exact_current_physical_line": 196,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P072] For relationships and ordinary care, stronger claims would require explicit responses under comparable demands, evidence of repaired boundaries and observations of how labor remains chosen or is renegotiated. E141's local allowance and009's contact are already meaningful; neither supplies universal assent. Claims about classroom science, statistics, health, time or software would require an evidentiary route beyond represented explanations and confidence. These limits are claim-specific: they do not disqualify a taste, preference, request, criticism, act of making or chosen company from the literary argument. They identify what the available writing can sustain and what additional evidence a different, stronger assertion would need. The work remains an analysis of received representations rather than a prediction of unprinted behavior. (KEI-S01 L95–153; KEI-S02 L38–54; KQ02–05, KQ07–11.)\n",
       "literal_UTF8_bytes": 920,
       "literal_UTF8_sha256": "fc96d7817f01b1f5c643f471b1bae5cb0c6f6bd75092924e26088541d2d13b1a",
@@ -7822,7 +7822,7 @@
     },
     {
       "paragraph_id": "KEI-P073",
-      "exact_current_physical_line": 197,
+      "exact_current_physical_line": 198,
       "complete_literal_current_paragraph_NOT_shortened": "[KEI-P073] The available Kei argument thus concerns a represented self whose present repertoire exceeds an assigned function and whose care remains negotiated through ordinary wants, labor and actual recipient responses. Earlier harmful public history, technical uncertainty and the distinct registry and event strands remain part of the argument. So do achieved gifts, work, apology, welcomed invitations, chosen contact and immediate shared pleasure. The synthesis's depth lies in keeping those particulars related without making them interchangeable. It can complete a connected body for the one existing character home and its one existing named section while awaiting distinct review, any later new105/register work and ROOT's own receiving. It changes no acceptance count, source admission, model status or publication authority. (KEI-S01–06 at the exact disclosed maintained scopes; KQ01–12.)\n",
       "literal_UTF8_bytes": 904,
       "literal_UTF8_sha256": "452e95ee091004a2a3fbb4542fa0806f5a4ad05dfa2a79bbba60cc8b458b9c77",
@@ -8539,5 +8539,529 @@
     "complete_original_raw_inverse": "PRIVATE_FULL_ORIGINAL10_AND_COMPONENT_BODY_INVERSE",
     "source_physical_ranges": "UNCHANGED",
     "new_source_or_literary_receiving": 0
+  },
+  "current_source_fidelity_geometry_20261016": {
+    "correction_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_SOURCE_FIDELITY_CORRECTIONS_20261016.json",
+    "current_body_tuple": {
+      "bytes": 61698,
+      "sha256": "d5ea48bb1fafd317af52fefc6fed7ee48d5d4bce2ae6434efd7a6a31714f4695",
+      "git_blob_oid_of_actual_bytes": "b6836cb47b72dfa70392d6f5723eefa513123a6f"
+    },
+    "physical_lines": 198,
+    "actual73_current_layout": [
+      {
+        "paragraph_id": "KEI-P001",
+        "current_physical_line": 26,
+        "current_UTF8_offset": 1305,
+        "literal_UTF8_bytes": 794,
+        "literal_UTF8_sha256": "1553f9bc07dbeb1682b25147260aeba2c3acdf543807dfa816e38f07c66c27b0"
+      },
+      {
+        "paragraph_id": "KEI-P002",
+        "current_physical_line": 28,
+        "current_UTF8_offset": 2100,
+        "literal_UTF8_bytes": 857,
+        "literal_UTF8_sha256": "a9c5d98b72f4e4c09fd761ed924cefd8952c371ec9d4a5108b07a031684ca8f0"
+      },
+      {
+        "paragraph_id": "KEI-P003",
+        "current_physical_line": 30,
+        "current_UTF8_offset": 2958,
+        "literal_UTF8_bytes": 809,
+        "literal_UTF8_sha256": "175363447bf5abf07a8328634b52d65418d004e0d1d76d2d8de16a4b0d503b55"
+      },
+      {
+        "paragraph_id": "KEI-P004",
+        "current_physical_line": 34,
+        "current_UTF8_offset": 3808,
+        "literal_UTF8_bytes": 807,
+        "literal_UTF8_sha256": "d19c702d82db9a35b703a31ac6ce2fe5f5b2f19b48f489dc671511774748139f"
+      },
+      {
+        "paragraph_id": "KEI-P005",
+        "current_physical_line": 36,
+        "current_UTF8_offset": 4616,
+        "literal_UTF8_bytes": 839,
+        "literal_UTF8_sha256": "a810c2491462abf0d6c9ab9e6a7edb54abbb553c75defd5eaea1b76994654b8a"
+      },
+      {
+        "paragraph_id": "KEI-P006",
+        "current_physical_line": 38,
+        "current_UTF8_offset": 5456,
+        "literal_UTF8_bytes": 736,
+        "literal_UTF8_sha256": "9bf35c8d3dc9e2a9933328c6d4b8f238ac4e575fe778bfa0d495f18aa3a263f0"
+      },
+      {
+        "paragraph_id": "KEI-P007",
+        "current_physical_line": 40,
+        "current_UTF8_offset": 6193,
+        "literal_UTF8_bytes": 843,
+        "literal_UTF8_sha256": "6d6c31e165d14a7eedd12a0b7aaa25d9d1af9e54bacaa405ff514e47d17a5225"
+      },
+      {
+        "paragraph_id": "KEI-P008",
+        "current_physical_line": 44,
+        "current_UTF8_offset": 7063,
+        "literal_UTF8_bytes": 801,
+        "literal_UTF8_sha256": "e55b7cfae629f9a758abfef41efcdb04f0bde2fbdf5a357aac20b453528c7c2e"
+      },
+      {
+        "paragraph_id": "KEI-P009",
+        "current_physical_line": 46,
+        "current_UTF8_offset": 7865,
+        "literal_UTF8_bytes": 855,
+        "literal_UTF8_sha256": "736442ccb344617a71aaa941f858dee22028903fa535f4f269345e30ad8f34c0"
+      },
+      {
+        "paragraph_id": "KEI-P010",
+        "current_physical_line": 48,
+        "current_UTF8_offset": 8721,
+        "literal_UTF8_bytes": 823,
+        "literal_UTF8_sha256": "99f228baaac376928825c0652895695597384fd51a15f0e3b067e5b6f700ef75"
+      },
+      {
+        "paragraph_id": "KEI-P011",
+        "current_physical_line": 50,
+        "current_UTF8_offset": 9545,
+        "literal_UTF8_bytes": 890,
+        "literal_UTF8_sha256": "c885ef2e373def3a3134541dcb825330bfd9d68203dd4b6d1d00f16133eb2f04"
+      },
+      {
+        "paragraph_id": "KEI-P012",
+        "current_physical_line": 52,
+        "current_UTF8_offset": 10436,
+        "literal_UTF8_bytes": 865,
+        "literal_UTF8_sha256": "3a064b141fd0bc3f1b12d668b1a0c424881dd56b55e8858e5109a935a16d0c72"
+      },
+      {
+        "paragraph_id": "KEI-P013",
+        "current_physical_line": 54,
+        "current_UTF8_offset": 11302,
+        "literal_UTF8_bytes": 783,
+        "literal_UTF8_sha256": "5eca6133773ff48af8b4fd5dc45a95823867cfa28a9de4014f043a304de551c1"
+      },
+      {
+        "paragraph_id": "KEI-P014",
+        "current_physical_line": 56,
+        "current_UTF8_offset": 12086,
+        "literal_UTF8_bytes": 828,
+        "literal_UTF8_sha256": "9b201e7c57f70d0cebed75b4081df96b6d3c8097daf49418d9b4ab4c4af9abdb"
+      },
+      {
+        "paragraph_id": "KEI-P015",
+        "current_physical_line": 60,
+        "current_UTF8_offset": 12953,
+        "literal_UTF8_bytes": 871,
+        "literal_UTF8_sha256": "dd1b27bada59a1502c44dc4234dc8e1844326b2dd1dda432a808ad6bbdb567bd"
+      },
+      {
+        "paragraph_id": "KEI-P016",
+        "current_physical_line": 62,
+        "current_UTF8_offset": 13825,
+        "literal_UTF8_bytes": 785,
+        "literal_UTF8_sha256": "24c5001b228f1082ed0d118a7db213f408ef28b7027f1281ecbd8814084eeea3"
+      },
+      {
+        "paragraph_id": "KEI-P017",
+        "current_physical_line": 64,
+        "current_UTF8_offset": 14611,
+        "literal_UTF8_bytes": 820,
+        "literal_UTF8_sha256": "d39c71abdf1db09b0c3c2b3df2deb9c846c9176f72e16478e677f2e7edafcf9b"
+      },
+      {
+        "paragraph_id": "KEI-P018",
+        "current_physical_line": 68,
+        "current_UTF8_offset": 15465,
+        "literal_UTF8_bytes": 839,
+        "literal_UTF8_sha256": "78b1c88815da663a009b3a8ed54da09bce9d8374e7e00f436c6d2ca9583dab25"
+      },
+      {
+        "paragraph_id": "KEI-P019",
+        "current_physical_line": 70,
+        "current_UTF8_offset": 16305,
+        "literal_UTF8_bytes": 773,
+        "literal_UTF8_sha256": "fccb0d214dfed2219e96fb2d0dcc7ff5f6afd9aecac4716bb6283f8311048dc9"
+      },
+      {
+        "paragraph_id": "KEI-P020",
+        "current_physical_line": 72,
+        "current_UTF8_offset": 17079,
+        "literal_UTF8_bytes": 756,
+        "literal_UTF8_sha256": "c05b90c483e92abfdced3de574c8867af2dfc7895e9ef31cb851b04f93dc4666"
+      },
+      {
+        "paragraph_id": "KEI-P021",
+        "current_physical_line": 76,
+        "current_UTF8_offset": 17876,
+        "literal_UTF8_bytes": 721,
+        "literal_UTF8_sha256": "0d5711d467a54d12d1994e44f93801fc10c078c42ab5bcae712afdfe6d55f364"
+      },
+      {
+        "paragraph_id": "KEI-P022",
+        "current_physical_line": 78,
+        "current_UTF8_offset": 18598,
+        "literal_UTF8_bytes": 746,
+        "literal_UTF8_sha256": "48e07006ae4d516799529c17c224d04dac3aa41385e35c5ff7763ea6b091dce3"
+      },
+      {
+        "paragraph_id": "KEI-P023",
+        "current_physical_line": 80,
+        "current_UTF8_offset": 19345,
+        "literal_UTF8_bytes": 796,
+        "literal_UTF8_sha256": "a818a26e3dc3d858872918e814843ff5044aa3c61ad99e0dd20a37c115213310"
+      },
+      {
+        "paragraph_id": "KEI-P024",
+        "current_physical_line": 84,
+        "current_UTF8_offset": 20181,
+        "literal_UTF8_bytes": 802,
+        "literal_UTF8_sha256": "47f1b1a99803dbbf06a950a9fc285f8e334076ba9fc17f44f9be77b289ccd62b"
+      },
+      {
+        "paragraph_id": "KEI-P025",
+        "current_physical_line": 86,
+        "current_UTF8_offset": 20984,
+        "literal_UTF8_bytes": 791,
+        "literal_UTF8_sha256": "ae7db10bac9f378bda1dea67638a6493172b18b3c5d083cd4240d6bd365df86b"
+      },
+      {
+        "paragraph_id": "KEI-P026",
+        "current_physical_line": 88,
+        "current_UTF8_offset": 21776,
+        "literal_UTF8_bytes": 1007,
+        "literal_UTF8_sha256": "da81b82510003338956af80d877c6c4655ab73a3355f65795189966238815f29"
+      },
+      {
+        "paragraph_id": "KEI-P027",
+        "current_physical_line": 90,
+        "current_UTF8_offset": 22784,
+        "literal_UTF8_bytes": 812,
+        "literal_UTF8_sha256": "a7f780c4a5dd93efcf1b23805e9246e000bfa398293fc3d5bf9ecc5be2d872e6"
+      },
+      {
+        "paragraph_id": "KEI-P028",
+        "current_physical_line": 94,
+        "current_UTF8_offset": 23644,
+        "literal_UTF8_bytes": 814,
+        "literal_UTF8_sha256": "40cc7b95e3244132112db1c0f08ca039548c4b43ad45b7e1641ef351798e7fa7"
+      },
+      {
+        "paragraph_id": "KEI-P029",
+        "current_physical_line": 96,
+        "current_UTF8_offset": 24459,
+        "literal_UTF8_bytes": 766,
+        "literal_UTF8_sha256": "8400de48acff505274cabe70f2bf126f6cac669cd9efd92762ea230fda70beac"
+      },
+      {
+        "paragraph_id": "KEI-P030",
+        "current_physical_line": 98,
+        "current_UTF8_offset": 25226,
+        "literal_UTF8_bytes": 717,
+        "literal_UTF8_sha256": "46bf32ea2db4904100a10809ebb140ae4515a813d7ee44df3e946140dbdd058b"
+      },
+      {
+        "paragraph_id": "KEI-P031",
+        "current_physical_line": 102,
+        "current_UTF8_offset": 25993,
+        "literal_UTF8_bytes": 766,
+        "literal_UTF8_sha256": "dacf34ee629e07836cdfdc733f03c56e1191a8bbcb3caadc6c8a83dd0bb59f49"
+      },
+      {
+        "paragraph_id": "KEI-P032",
+        "current_physical_line": 104,
+        "current_UTF8_offset": 26760,
+        "literal_UTF8_bytes": 781,
+        "literal_UTF8_sha256": "5c275495d45334f54b2327aecfa6c98bb75c6524242a0ddf71c4b178d483cbc9"
+      },
+      {
+        "paragraph_id": "KEI-P033",
+        "current_physical_line": 106,
+        "current_UTF8_offset": 27542,
+        "literal_UTF8_bytes": 741,
+        "literal_UTF8_sha256": "17958b26dcffc05a8b217a1e01dcf2613904e25d3e020a0317a319a4507b75f0"
+      },
+      {
+        "paragraph_id": "KEI-P034",
+        "current_physical_line": 108,
+        "current_UTF8_offset": 28284,
+        "literal_UTF8_bytes": 801,
+        "literal_UTF8_sha256": "672685b96863543a164a6c65d0fa8db89d6c575c187380f99987d3819f0119e1"
+      },
+      {
+        "paragraph_id": "KEI-P035",
+        "current_physical_line": 110,
+        "current_UTF8_offset": 29086,
+        "literal_UTF8_bytes": 775,
+        "literal_UTF8_sha256": "f60e6c1a19459b7107fe49a2efecf0e18493ce17b2d3217bef54063a98e545dd"
+      },
+      {
+        "paragraph_id": "KEI-P036",
+        "current_physical_line": 114,
+        "current_UTF8_offset": 29909,
+        "literal_UTF8_bytes": 865,
+        "literal_UTF8_sha256": "c848fae8cd5f884e83468781e16b5e017963f6f808c9670de8f088324ebed8e0"
+      },
+      {
+        "paragraph_id": "KEI-P037",
+        "current_physical_line": 116,
+        "current_UTF8_offset": 30775,
+        "literal_UTF8_bytes": 703,
+        "literal_UTF8_sha256": "054876a77f80d3cdf25e53c62aa46bd0089727a4a06ea90ff9e3aa9e45dbe35c"
+      },
+      {
+        "paragraph_id": "KEI-P038",
+        "current_physical_line": 118,
+        "current_UTF8_offset": 31479,
+        "literal_UTF8_bytes": 772,
+        "literal_UTF8_sha256": "8cec852aacd68ea71c5aca19b585bae4975dba1a302a13fb1dd60662f1f93d78"
+      },
+      {
+        "paragraph_id": "KEI-P039",
+        "current_physical_line": 120,
+        "current_UTF8_offset": 32252,
+        "literal_UTF8_bytes": 815,
+        "literal_UTF8_sha256": "e4295b735f10341dacbf38088febf6f969e79c94e3c0dcca141eb5e89f20f43b"
+      },
+      {
+        "paragraph_id": "KEI-P040",
+        "current_physical_line": 124,
+        "current_UTF8_offset": 33109,
+        "literal_UTF8_bytes": 785,
+        "literal_UTF8_sha256": "9594873f72d417b98e5e9ee55a5c01c25db5f81ec42ae7976923372fc03d52ed"
+      },
+      {
+        "paragraph_id": "KEI-P041",
+        "current_physical_line": 126,
+        "current_UTF8_offset": 33895,
+        "literal_UTF8_bytes": 771,
+        "literal_UTF8_sha256": "bba7d15d0038536974a1ba87ac91657dd95def688459205869a645fb2f31840c"
+      },
+      {
+        "paragraph_id": "KEI-P042",
+        "current_physical_line": 128,
+        "current_UTF8_offset": 34667,
+        "literal_UTF8_bytes": 819,
+        "literal_UTF8_sha256": "ceccc6c2b6ff5963fa8af5f72f0e40eb3406c29428c09f4836499444147472f5"
+      },
+      {
+        "paragraph_id": "KEI-P043",
+        "current_physical_line": 130,
+        "current_UTF8_offset": 35487,
+        "literal_UTF8_bytes": 758,
+        "literal_UTF8_sha256": "2b85a5a369e93189b2f2ccda610b93c2accc3db14db3721e2093f8cd20c3990c"
+      },
+      {
+        "paragraph_id": "KEI-P044",
+        "current_physical_line": 132,
+        "current_UTF8_offset": 36246,
+        "literal_UTF8_bytes": 727,
+        "literal_UTF8_sha256": "2c7399804d168175a54cf06179027675c3d100e03788529e242f3149a540d155"
+      },
+      {
+        "paragraph_id": "KEI-P045",
+        "current_physical_line": 134,
+        "current_UTF8_offset": 36974,
+        "literal_UTF8_bytes": 778,
+        "literal_UTF8_sha256": "a5dfcdd217b18c8c771e8075dc7599302647b5f8174964149a95503cd3b17f02"
+      },
+      {
+        "paragraph_id": "KEI-P046",
+        "current_physical_line": 136,
+        "current_UTF8_offset": 37753,
+        "literal_UTF8_bytes": 733,
+        "literal_UTF8_sha256": "2fc62c9df1ae57bdca797c25e7f54f15fab46416ea41d733bbb033530892d825"
+      },
+      {
+        "paragraph_id": "KEI-P047",
+        "current_physical_line": 138,
+        "current_UTF8_offset": 38487,
+        "literal_UTF8_bytes": 733,
+        "literal_UTF8_sha256": "92cbf8a517048e18dae6a2d39274264087992f743c08cfad6580938c25b370cb"
+      },
+      {
+        "paragraph_id": "KEI-P048",
+        "current_physical_line": 140,
+        "current_UTF8_offset": 39221,
+        "literal_UTF8_bytes": 804,
+        "literal_UTF8_sha256": "389f0d39735569caab4e17d0cf9c6c341fac5f4e99863d0ebdfafc46ccd78f96"
+      },
+      {
+        "paragraph_id": "KEI-P049",
+        "current_physical_line": 142,
+        "current_UTF8_offset": 40026,
+        "literal_UTF8_bytes": 877,
+        "literal_UTF8_sha256": "febe65a811e9ba5aaa16b53622d24a8929cbcc660b42eb2c55b66147299722c6"
+      },
+      {
+        "paragraph_id": "KEI-P050",
+        "current_physical_line": 144,
+        "current_UTF8_offset": 40904,
+        "literal_UTF8_bytes": 904,
+        "literal_UTF8_sha256": "745d2586003e34c03f734c1a12f6bc1a12365c2a00825677e12bf676f9d9b60e"
+      },
+      {
+        "paragraph_id": "KEI-P051",
+        "current_physical_line": 146,
+        "current_UTF8_offset": 41809,
+        "literal_UTF8_bytes": 821,
+        "literal_UTF8_sha256": "dfb025096febd4cbc1e0bbd7f6787e124557148092e664f82d60300f457f0241"
+      },
+      {
+        "paragraph_id": "KEI-P052",
+        "current_physical_line": 148,
+        "current_UTF8_offset": 42631,
+        "literal_UTF8_bytes": 857,
+        "literal_UTF8_sha256": "59f157c534fa1a733fa240406b38a262c218299332cecc84301dae5f8355a546"
+      },
+      {
+        "paragraph_id": "KEI-P053",
+        "current_physical_line": 152,
+        "current_UTF8_offset": 43554,
+        "literal_UTF8_bytes": 849,
+        "literal_UTF8_sha256": "35363dccef7dfeee22f9bbb3861285271e1f1fd2b7b67812e6f8d69eecce7221"
+      },
+      {
+        "paragraph_id": "KEI-P054",
+        "current_physical_line": 154,
+        "current_UTF8_offset": 44404,
+        "literal_UTF8_bytes": 823,
+        "literal_UTF8_sha256": "ead96b737aa53132da65791855dec459937489728c3c52c5d298be7ffcb05629"
+      },
+      {
+        "paragraph_id": "KEI-P055",
+        "current_physical_line": 156,
+        "current_UTF8_offset": 45228,
+        "literal_UTF8_bytes": 873,
+        "literal_UTF8_sha256": "774ab429fe351b1c3e9e7da34461e2284fb5975da1904c3039a46d005f9caf59"
+      },
+      {
+        "paragraph_id": "KEI-P056",
+        "current_physical_line": 158,
+        "current_UTF8_offset": 46102,
+        "literal_UTF8_bytes": 873,
+        "literal_UTF8_sha256": "b93e1fd9ae050bb1fca4c3ad93ee21403253db68bf84a0e176f4fff585c921df"
+      },
+      {
+        "paragraph_id": "KEI-P057",
+        "current_physical_line": 160,
+        "current_UTF8_offset": 46976,
+        "literal_UTF8_bytes": 913,
+        "literal_UTF8_sha256": "2de6fc93423ce5e575fd38496b768ada7666ae84e7dc29c460cd9b041743ed67"
+      },
+      {
+        "paragraph_id": "KEI-P058",
+        "current_physical_line": 164,
+        "current_UTF8_offset": 47921,
+        "literal_UTF8_bytes": 888,
+        "literal_UTF8_sha256": "6d8a722043f5150187c3bc979c9fbdeb2d994ca36116b8af8499a49f35c82c8c"
+      },
+      {
+        "paragraph_id": "KEI-P059",
+        "current_physical_line": 166,
+        "current_UTF8_offset": 48810,
+        "literal_UTF8_bytes": 838,
+        "literal_UTF8_sha256": "487c9958a0c80ab5ecb4ff9f083799cea86a136454fb8fb62b5b21fd6e28734a"
+      },
+      {
+        "paragraph_id": "KEI-P060",
+        "current_physical_line": 168,
+        "current_UTF8_offset": 49649,
+        "literal_UTF8_bytes": 805,
+        "literal_UTF8_sha256": "476b3ac78aa15bdcd1efd9cd304f9152f82e066db39abada902e08f67a04e904"
+      },
+      {
+        "paragraph_id": "KEI-P061",
+        "current_physical_line": 170,
+        "current_UTF8_offset": 50455,
+        "literal_UTF8_bytes": 858,
+        "literal_UTF8_sha256": "1800262a068a98aed7bbcb8fb1114b6ea10649ed28dd7d64ccf03d91733fb520"
+      },
+      {
+        "paragraph_id": "KEI-P062",
+        "current_physical_line": 172,
+        "current_UTF8_offset": 51314,
+        "literal_UTF8_bytes": 813,
+        "literal_UTF8_sha256": "052ea6a28f8a58aa7c6fe73b62d0e50746824a8111ebba3b4818113c170dad50"
+      },
+      {
+        "paragraph_id": "KEI-P063",
+        "current_physical_line": 174,
+        "current_UTF8_offset": 52128,
+        "literal_UTF8_bytes": 828,
+        "literal_UTF8_sha256": "3b71483065b63b0c74fba2312fcd5caeb844c5c1b904ffb6d1f5ce1fb427eb8b"
+      },
+      {
+        "paragraph_id": "KEI-P064",
+        "current_physical_line": 176,
+        "current_UTF8_offset": 52957,
+        "literal_UTF8_bytes": 895,
+        "literal_UTF8_sha256": "d48a23bc73003476d214b2bf54676eb16e8aeb803fcc97d5dfd94b25ffe29800"
+      },
+      {
+        "paragraph_id": "KEI-P065",
+        "current_physical_line": 178,
+        "current_UTF8_offset": 53853,
+        "literal_UTF8_bytes": 881,
+        "literal_UTF8_sha256": "309ac5def3ef9cbc0513b9317f4ecc07735ab34ad8719fc176bda2cdd5f60cce"
+      },
+      {
+        "paragraph_id": "KEI-P066",
+        "current_physical_line": 182,
+        "current_UTF8_offset": 54774,
+        "literal_UTF8_bytes": 819,
+        "literal_UTF8_sha256": "ce4d9153962aaf46653554c083566a7cfe7354fa4b65600329978e4f5dd46506"
+      },
+      {
+        "paragraph_id": "KEI-P067",
+        "current_physical_line": 184,
+        "current_UTF8_offset": 55594,
+        "literal_UTF8_bytes": 877,
+        "literal_UTF8_sha256": "de433949e3a3b48e927c7f36155d52d64d816642068fd1270500f9f2652fb2e2"
+      },
+      {
+        "paragraph_id": "KEI-P068",
+        "current_physical_line": 186,
+        "current_UTF8_offset": 56472,
+        "literal_UTF8_bytes": 793,
+        "literal_UTF8_sha256": "5448444348efe8dfc77cb39b8209b5be4175679aeef46f351aef1a3784d11aba"
+      },
+      {
+        "paragraph_id": "KEI-P069",
+        "current_physical_line": 188,
+        "current_UTF8_offset": 57266,
+        "literal_UTF8_bytes": 871,
+        "literal_UTF8_sha256": "0461c7ca7d0492b3a21e211ad5af02f9f6d45a013d107ec5fde114fdb0b4fae9"
+      },
+      {
+        "paragraph_id": "KEI-P070",
+        "current_physical_line": 192,
+        "current_UTF8_offset": 58171,
+        "literal_UTF8_bytes": 829,
+        "literal_UTF8_sha256": "1f074d012f06c3195d7c696440535bc165dd4e7a15a92cc07708e4157ee25555"
+      },
+      {
+        "paragraph_id": "KEI-P071",
+        "current_physical_line": 194,
+        "current_UTF8_offset": 59001,
+        "literal_UTF8_bytes": 871,
+        "literal_UTF8_sha256": "bd97cc68ca7bbd3c48739d5ab00cc9dd6129fda5973329722d7d077336f8680f"
+      },
+      {
+        "paragraph_id": "KEI-P072",
+        "current_physical_line": 196,
+        "current_UTF8_offset": 59873,
+        "literal_UTF8_bytes": 920,
+        "literal_UTF8_sha256": "fc96d7817f01b1f5c643f471b1bae5cb0c6f6bd75092924e26088541d2d13b1a"
+      },
+      {
+        "paragraph_id": "KEI-P073",
+        "current_physical_line": 198,
+        "current_UTF8_offset": 60794,
+        "literal_UTF8_bytes": 904,
+        "literal_UTF8_sha256": "452e95ee091004a2a3fbb4542fa0806f5a4ad05dfa2a79bbba60cc8b458b9c77"
+      }
+    ],
+    "preceding_geometry_role": "The entire current_public_composition_body_reconstruction_and_measured73_UTF8_offsets_V1 object remains the original 2026-10-14 composition witness, including its original full body and zero new-reading claim. It is not the geometry or semantic certification of this correction.",
+    "historical_reason_scope": "Prior body reasons, original question results and source grades are retained as dated receiving history. The correction record qualifies the affected reasons and supplies the narrowly attributed three-scene raw-text recheck."
   }
 }

@@ -217,5 +217,100 @@
     ],
     "R_Git_provider_shared_mutations": 0,
     "merge": "RESERVED"
+  },
+  "current_source_fidelity_revision_20261016": {
+    "status": "CURRENT_TARGETED_CORRECTION",
+    "correction_record": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_SOURCE_FIDELITY_CORRECTIONS_20261016.json",
+      "bytes": 50345,
+      "sha256": "e38388c7a1fbbc9b284790cf42606117675cedafd3490b306d1612a98977621b",
+      "git_blob_oid_of_actual_bytes": "8dc0195e6556b7dded379c56eda02ae98fc60a26"
+    },
+    "current_components": [
+      {
+        "role": "bounded_character_body_with_inside_named_gift",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KEI_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "bytes": 61698,
+        "sha256": "d5ea48bb1fafd317af52fefc6fed7ee48d5d4bce2ae6434efd7a6a31714f4695",
+        "git_blob_oid_of_actual_bytes": "b6836cb47b72dfa70392d6f5723eefa513123a6f"
+      },
+      {
+        "role": "purposes000_035",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP000_KEP035_V2.json",
+        "bytes": 454037,
+        "sha256": "c365301054bea2f4088c02d93a282e33cfb55a12b088d6a7e7a65e757d15455c",
+        "git_blob_oid_of_actual_bytes": "2d28ec002485b272f508dd338b0c5358620e0b92"
+      },
+      {
+        "role": "purposes036_070",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP036_KEP070_V2.json",
+        "bytes": 588164,
+        "sha256": "2cc1773711da9b3cc99d689d306a7b24d399ddb9accca3644e56f8047715bfd3",
+        "git_blob_oid_of_actual_bytes": "b1cb3de3fa4183859ed32b9dd06a5765eb02902f"
+      },
+      {
+        "role": "purposes071_104",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP071_KEP104_V4.json",
+        "bytes": 746208,
+        "sha256": "0c7d3c54d91bf0a97339e5a8e9436f00cb27ab47ee5506ef3d48254832ed4924",
+        "git_blob_oid_of_actual_bytes": "a498ee1b52d3f0d5a9f32659ba8b414d90990d1e"
+      },
+      {
+        "role": "source1_existing_spine_and_exact6",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_PRIVATE19_AND_EVENT80001_E141_SOURCE1_CORE_AND_EXACT6_AUTHOR_SCOPE_RECEIVING_V1.json",
+        "bytes": 63757,
+        "sha256": "d5d09852b0aed69c5cd0f74b9e659deeaf814cf526843e1d66247f919d11a9b7",
+        "git_blob_oid_of_actual_bytes": "a7f7f4b23f175db945abf93a47273ba13f582ed6"
+      },
+      {
+        "role": "literal73_register",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+        "bytes": 715015,
+        "sha256": "9d8ca4e0daf3d4eb1ba55b8f845c06f156981607f2591d53f182626afe1012f6",
+        "git_blob_oid_of_actual_bytes": "aeadf74d6a20291c4a6144839439ac0ab6f7ff77"
+      },
+      {
+        "role": "all105_source_index",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V4.json",
+        "bytes": 537305,
+        "sha256": "2a342e74aa6846bfb8947dfefd6ddd29c5cb1895b29b780269cdbb3e8ec601e4",
+        "git_blob_oid_of_actual_bytes": "14837c8fc414c07f47617c15619e8041120b7eeb"
+      },
+      {
+        "role": "transport",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_EXACT8_SAVED_OUTPUT_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V4.json",
+        "bytes": 681238,
+        "sha256": "e81d7135664e3692be66740e3291c99390841cb6692c62f9d6d40aa242e474dd",
+        "git_blob_oid_of_actual_bytes": "2d70ead3a40337412d7c1e25f28ed8979e489caa"
+      },
+      {
+        "role": "truthful_INPUT",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+        "bytes": 937935,
+        "sha256": "41af06a90b1a6381e3d86b7a5e2641c8818aacd97a182118478c70a4f758e699",
+        "git_blob_oid_of_actual_bytes": "82795b0a490d6e3f2004250edb17953bbcb43a74"
+      },
+      {
+        "role": "actual_future_ROOT_semantic_derivative",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+        "bytes": 41458,
+        "sha256": "6261dc72080fb7ee906f2ab4524bfb53566187a1a7f2329bb9beb7252cfac33e",
+        "git_blob_oid_of_actual_bytes": "fd1ad9ee2a7ef3daea40baa539a0fce946dcc2f7"
+      },
+      {
+        "role": "NAV_private_witness_and_public_provenance",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT12_PUBLIC_PROVENANCE_NAVIGATION_AND_PRIVATE_WITNESS_DECLARATIONS_V1.json",
+        "bytes": 187766,
+        "sha256": "c9487d7c78b3ff7f353805ca895da64fd592cb614ee435b3c98446cd7b34470e",
+        "git_blob_oid_of_actual_bytes": "d3b38677d5fab9336dbe7980eb88f3fa09f722c0"
+      }
+    ],
+    "geometry": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "pointer": "/current_source_fidelity_geometry_20261016"
+    },
+    "precedence": "This block governs current component/body/layout bindings and the exact current corrections. Earlier fields in this control, NAV first10, transport first7/body recovery, SOURCE/current_body and the unchanged purposes000_035/current_body retain their original byte-bound composition scope. They are not current byte certifications after this revision. The all105 index now binds the two changed purpose parts; its other source and qualifier bindings are unchanged.",
+    "review_scope": "The original independent review and ROOT adoption are retained as dated history and are not retroactive approval of these changes. The current correction is the named owner-authorized Codex investigation, with complete Japanese text received for only the three specified scenes. No new whole-package or distinct second-reviewer certification is claimed.",
+    "preservation": "Original SOURCE, INPUT, ROOT, NAV and transport files are byte-identical to the base commit. Original common105 inputs and original full-body reconstruction in the literal register are unchanged. The correction record supplies exact current qualifications for retained copies and reasons."
   }
 }
