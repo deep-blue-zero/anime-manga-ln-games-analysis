@@ -1,0 +1,250 @@
+{
+  "schema": "SEMINAR_CURRENT_ROOT_ADOPTED_ARGUMENT_AND_METADATA_ONLY_EXACT14_PUBLIC_COMPOSITION_CONTROL_V1",
+  "composer": "/root/receive_middle_remaining",
+  "UTC": "2026-10-14T00:56:34.189018+00:00",
+  "existing_home": "P3-INST-SEMINAR-RESOURCE-AUTHORITY-PRIVATE-LIFE",
+  "existing_responsibility": "P3-XMI-I007",
+  "new_named_duty": null,
+  "actual_ROOT_adoption": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_ACTUAL_ROOT_COMPLETE32_NEW105_SOURCE10_ADOPTION_WITH_LIMITS_V1.json",
+    "bytes": 188016,
+    "sha256": "fa134b2c282e16f044b46d9e0dc7c08f7cc79cbc2943782be172c946aaf6a5c0",
+    "git_blob_oid_of_actual_bytes": "c8d043f092e5b79ffd1b780da62f7944f05c4284",
+    "complete_original185958": {
+      "bytes": 185958,
+      "sha256": "183b3411e1c49dd9d4e6b53a8863c258f051cc93a43382a1b82abfc410ba8130",
+      "git_blob_oid_of_actual_bytes": "510c1f130af18eade1cd7c5e783a4cbe8e14b0da"
+    },
+    "decision": "ADOPT_COMPLETE_CURRENT_WRITTEN_INSTITUTION_ARGUMENT_WITH_LIMITS_FOR_SEPARATE_PUBLIC_COMPOSITION_REVIEW_INSTALLATION_AND_PUBLICATION"
+  },
+  "actual_current_semantic_decision": "ROOT_ADOPTED_WITH_LIMITS;DISTINCT_COMPOSITION_REVIEW_PENDING;NOT_INSTALLED_NOT_PUBLISHED",
+  "current_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 34192,
+    "sha256": "c6d421ecbe025d51e15dcd6cd97642c3b97093f7979a2c1d76c68fece42e3de1",
+    "git_blob_oid_of_actual_bytes": "de006eb0d16792374fdc085b854e2064b2134b0e"
+  },
+  "current13_before_this_control": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 34192,
+      "sha256": "c6d421ecbe025d51e15dcd6cd97642c3b97093f7979a2c1d76c68fece42e3de1",
+      "git_blob_oid_of_actual_bytes": "de006eb0d16792374fdc085b854e2064b2134b0e"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "bytes": 386938,
+      "sha256": "0273047b86a41c356811f94d1b89577ba2154bdb32143dfc56d0841f5493cf84",
+      "git_blob_oid_of_actual_bytes": "4602f4aade120118d402a2f25452d46523c899c7"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "bytes": 520895,
+      "sha256": "4e2cb84ee118ab95cd6c72cf0aed992da8bbc7188942c5818911c4e2f9fd3995",
+      "git_blob_oid_of_actual_bytes": "a6794007c3fd9eceaf041f61a86befa1e0aa236c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "bytes": 677091,
+      "sha256": "439aa233dc8dfffc12dc94a63e3dd8068ee6f3dd5be3b6fba8bd0a5f42e7d22e",
+      "git_blob_oid_of_actual_bytes": "1969751c43accdf1343447aa436a4fe50f1dfe81"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "bytes": 69476,
+      "sha256": "bb7a7f61f1e4123a0cf1d75c6c122b396be4a79fa5b5cf5eea0c502aaca5773a",
+      "git_blob_oid_of_actual_bytes": "f0e310c4b8e127018b8310272ac71b6725f9285f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 399747,
+      "sha256": "f00ab92ba756958e39cd74af01c6170794b11ec351b2015209b688817bb6fde1",
+      "git_blob_oid_of_actual_bytes": "f066b6cab6d5d067751f1965d4e283abc2237a4c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 455884,
+      "sha256": "70efe81d6485541bc05a97847013bf39bd2c488498eaa11fc7c49e95406ed831",
+      "git_blob_oid_of_actual_bytes": "3cef504f384c8c33695dc40c372b1d2d0e8405c1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 10830,
+      "sha256": "f795f257e079a145797a967a5330844d127c29997f19bbf57e2a5d76c2abc1c0",
+      "git_blob_oid_of_actual_bytes": "4fe793810af7f9983d7bea25d7ce01e2cb85326e"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_INDEPENDENT_COMPLETE32_NEW105_SOURCE10_LITERARY_COMPONENT_REVIEW_V1.json",
+      "bytes": 320732,
+      "sha256": "1d412abdf8a8f6c69e30865ca24969cb0ca6ee3ea738579816e3dfbf7d26999b",
+      "git_blob_oid_of_actual_bytes": "6f448a6f168674eaca7518195f32d1b2c0dd08a5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_INDEPENDENT_COMPLETE_ORIGINAL_RECOVERY_AND_CURRENT_V4_GRAPH_REVIEW_V1.json",
+      "bytes": 769609,
+      "sha256": "6124cf2346e3fd7ebc675b532376803d4fa3e15992a5691db8ad5a5a17913d0b",
+      "git_blob_oid_of_actual_bytes": "d71d5f70737e9c7dba5c1ef52bf81ab843dca6f6"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_INDEPENDENT_CURRENT_V5_COUNT_WORDING_AND_EXACT8_DELTA_REVIEW_V1.json",
+      "bytes": 32154,
+      "sha256": "ea97f47fc4ce43d934bc844f57ce1813e9391eb1f4ab811eee2e1ddd6610d1f0",
+      "git_blob_oid_of_actual_bytes": "d451cd65c94153b74eec1b64b0db98d45532cd5c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_ACTUAL_ROOT_COMPLETE32_NEW105_SOURCE10_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 188016,
+      "sha256": "fa134b2c282e16f044b46d9e0dc7c08f7cc79cbc2943782be172c946aaf6a5c0",
+      "git_blob_oid_of_actual_bytes": "c8d043f092e5b79ffd1b780da62f7944f05c4284"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_ORIGINAL_AUTHOR_AND_REVIEW_CUSTODY_WITH_CURRENT_RECEIVING_ROLES_V1.json",
+      "bytes": 29779,
+      "sha256": "70d9133d558c40b8325866476ee2b4515cd1966abd7783bf7d0b2b5e07be0daf",
+      "git_blob_oid_of_actual_bytes": "577e80bcdd4f5a0220be4c3070da7b7851446cec"
+    }
+  ],
+  "current_public_count_with_this_control": 14,
+  "author_snapshot_role": "All original authorPENDING/readiness/source-stage/counter/ROOT fields are preserved as dated creation history. Actual ROOT record qualifies only completed manual adoption; fine evidence limits stay operative.",
+  "current_metadata_only_body_role": "Only review_state and do_not_use_as_current_authority metadata lines change, with all32 full paragraphs and231 lines invariant; source58a/mainbf7 receiving snapshots remain dated.",
+  "historical_source_precision_snapshot_retained": [
+    {
+      "component_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "pointer": "/current_O071_O094_threefield_source_precision_successor_V1/source_receiving_qualification",
+      "referenced_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "before_tuple": {
+        "bytes": 69574,
+        "sha256": "891c0ec012dd93b5d03c4200c8a6b7ebc94b11b8bc3145a4a9926469bbda7a6b",
+        "git_blob_oid_of_actual_bytes": "7236775aee1a8f59144b0aa38133531251a37152"
+      }
+    }
+  ],
+  "operative_current_source_precision_route": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+    "bytes": 69476,
+    "sha256": "bb7a7f61f1e4123a0cf1d75c6c122b396be4a79fa5b5cf5eea0c502aaca5773a",
+    "git_blob_oid_of_actual_bytes": "f0e310c4b8e127018b8310272ac71b6725f9285f",
+    "JSON_pointer": "/current_author_selected_O071_O094_source_precision_qualification_V1",
+    "role": "Current qualified actor/refusal/count103 meanings remain exact; prior transport source tuple retains precomposition snapshot."
+  },
+  "complete_QA_roles": "Public complete V4 literary/component and mechanical objects remain exact declared snapshots; complete V5 bounded count/raw graph review qualifies their only metadata correction. Metadata activation/pin transforms get separate actual composition review, not new source reading.",
+  "public_opaque_custody": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_ORIGINAL_AUTHOR_AND_REVIEW_CUSTODY_WITH_CURRENT_RECEIVING_ROLES_V1.json",
+    "bytes": 29779,
+    "sha256": "70d9133d558c40b8325866476ee2b4515cd1966abd7783bf7d0b2b5e07be0daf",
+    "git_blob_oid_of_actual_bytes": "577e80bcdd4f5a0220be4c3070da7b7851446cec"
+  },
+  "publication_recovery": "Full frozen author8/currentROOT raw beforeimages and exact operation maps retained privately; every transformed full byte inverse+forward executed. No original source body or frozen105 row changed.",
+  "operational_snapshot": "ROOT recorded source142/named16 and last verifiedMAIN133/named13 at its actual manual receipt; receiving snapshots and runtime remain dated. No count/persistence/publication/newhead/MAIN credit from candidate preparation.",
+  "fixed_scope": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge": "RESERVED"
+  },
+  "remaining_gates": "Distinct-author exact composition/recovery/hygiene review and ROOT guarded installation/publication/runtime are separate.",
+  "R_Git_provider_sharedmetadata_source_admission_or_protected_operations": 0,
+  "current_ROOT_candidate_delivery_alias_opacity_qualification_V2": {
+    "schema": "SEMINAR_CURRENT_ROOT_EIGHT_OPAQUE_DELIVERY_ALIASES_AND_CURRENT_TYPED_ROUTES_V1",
+    "current_ROOT_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_ACTUAL_ROOT_COMPLETE32_NEW105_SOURCE10_ADOPTION_WITH_LIMITS_V1.json",
+    "current_ROOT_tuple": {
+      "bytes": 187506,
+      "sha256": "03b187366a462a36150fc6980abea3c9d5b642e031a8fee0e95da4a385893038",
+      "git_blob_oid_of_actual_bytes": "b38f1aceb55e5265cbb4cb81cbbeef55d37d43fd"
+    },
+    "opaque_custody_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_ORIGINAL_AUTHOR_AND_REVIEW_CUSTODY_WITH_CURRENT_RECEIVING_ROLES_V1.json",
+    "current_custody_tuple": {
+      "bytes": 18003,
+      "sha256": "e8523d52dbf251a1335365a8ef04d6769c70f44e64e33e956d7b8ae007050fdc",
+      "git_blob_oid_of_actual_bytes": "a034ac590945dc19c857220e5eb7fcca3e7badc7"
+    },
+    "historical_V1_role": "Complete original ROOT185958 and preparedpublicV1 two-operation transformation remain dated exact; V2 replaces only8delivery values and adds custody/currentroute metadata. Original32/105/source-grade/QA/activebody metadata unchanged.",
+    "review": "Distinct current14 composition QA and ROOT guarded install/publication pending; no acceptance from opacity."
+  },
+  "current_complete_QA_delivery_alias_derivative_qualification_V3": {
+    "schema": "SEMINAR_TWO_QA_EXACT16_DELIVERY_ALIAS_CURRENT_ROUTING_AND_ORIGINAL_SNAPSHOT_PRESERVATION_V1",
+    "current_public_review_derivatives": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_INDEPENDENT_COMPLETE32_NEW105_SOURCE10_LITERARY_COMPONENT_REVIEW_V1.json",
+        "original_review_raw_tuple": {
+          "bytes": 319911,
+          "sha256": "b7e84f105cdf85b2c73f91f025450591538bc334c331041cd13a0c3126c1af38",
+          "git_blob_oid_of_actual_bytes": "7d6dbfb952a951aa7256066a3d4804c2fcfe9503"
+        },
+        "current_path_only_public_derivative_tuple": {
+          "bytes": 320732,
+          "sha256": "1d412abdf8a8f6c69e30865ca24969cb0ca6ee3ea738579816e3dfbf7d26999b",
+          "git_blob_oid_of_actual_bytes": "6f448a6f168674eaca7518195f32d1b2c0dd08a5"
+        },
+        "role": "Complete unchanged original review semantics at declared snapshot; one added current role and eight opaque addresses, not a new semantic pass."
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_INDEPENDENT_COMPLETE_ORIGINAL_RECOVERY_AND_CURRENT_V4_GRAPH_REVIEW_V1.json",
+        "original_review_raw_tuple": {
+          "bytes": 768822,
+          "sha256": "e3884be7dc74cb1edbe244077990619c7364e98a4c898d61e9f794a688a206b5",
+          "git_blob_oid_of_actual_bytes": "eeeadd271d483b317dd39736ee884d2eb8ebb361"
+        },
+        "current_path_only_public_derivative_tuple": {
+          "bytes": 769581,
+          "sha256": "1cd7ead24a5d62308a89984fcfa0b2d522aa7e2fcd7cc7f4b91d51dcd5996212",
+          "git_blob_oid_of_actual_bytes": "e9e08b1d8019b352dd5df2f81c5707448ee1dfc7"
+        },
+        "role": "Complete unchanged original review semantics at declared snapshot; one added current role and eight opaque addresses, not a new semantic pass."
+      }
+    ],
+    "scope": "Only sixteen QA delivery scalars and one role qualifier per derivative. Original publicV1/V2 complete QA bytes/check decisions/grades and exact raw tuples remain dated frozen witnesses; current file routes/pins are separately above. All original current8/source/32/105/body/ROOT facts remain unchanged.",
+    "historical_ROOT_QA_tuples": "Original actual185958 ROOT independent_QA records and all later opaque ROOT delivery/body-role fields remain literal, bound to the actual original reviews; no silent replacement of historical hashes.",
+    "prior_complete_QA_roles_text": "The original complete_QA_roles field describes preserved exact QA source witnesses; this V3 qualifier records their current path-only public derivatives and routes without a repeated literary/source/105 pass.",
+    "current_distinct_composition_QA_ROOT_install_publication": "PENDING_SEPARATE"
+  },
+  "current_complete62_executor_address_opacity_and_current_routes_V4": {
+    "schema": "SEMINAR_COMPLETE62_FINITE_METADATA_OPACITY_SCOPE_AND_CURRENT_PUBLIC_AUTHORITY_ROUTING_V1",
+    "finite_authorized_inventory": {
+      "evidence_id": "private-witness:SEMINAR-COMPLETE14-DELIVERY-SCALAR-AND-KEY-INVENTORY",
+      "bytes": 45993,
+      "sha256": "d00964a6d6c8d5223e8a49af013ea353b56ad860657e839e5fb4607adab41125",
+      "git_blob_oid_of_actual_bytes": "e22350a4d148d1937969644062f1fd95909ec065"
+    },
+    "inventory_counts": {
+      "scalar_occurrences": 59,
+      "ordered_keys": 3,
+      "prior_V3_QA_scalar_occurrences": 16,
+      "remaining_V4_scalar_token_occurrences": 43
+    },
+    "actual_ROOT_current": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_ACTUAL_ROOT_COMPLETE32_NEW105_SOURCE10_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 188016,
+      "sha256": "fa134b2c282e16f044b46d9e0dc7c08f7cc79cbc2943782be172c946aaf6a5c0",
+      "git_blob_oid_of_actual_bytes": "c8d043f092e5b79ffd1b780da62f7944f05c4284"
+    },
+    "actual_review_current_derivatives": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_INDEPENDENT_COMPLETE_ORIGINAL_RECOVERY_AND_CURRENT_V4_GRAPH_REVIEW_V1.json",
+        "bytes": 769609,
+        "sha256": "6124cf2346e3fd7ebc675b532376803d4fa3e15992a5691db8ad5a5a17913d0b",
+        "git_blob_oid_of_actual_bytes": "d71d5f70737e9c7dba5c1ef52bf81ab843dca6f6"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_INDEPENDENT_CURRENT_V5_COUNT_WORDING_AND_EXACT8_DELTA_REVIEW_V1.json",
+        "bytes": 32154,
+        "sha256": "ea97f47fc4ce43d934bc844f57ce1813e9391eb1f4ab811eee2e1ddd6610d1f0",
+        "git_blob_oid_of_actual_bytes": "d451cd65c94153b74eec1b64b0db98d45532cd5c"
+      }
+    ],
+    "actual_custody_current": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_ORIGINAL_AUTHOR_AND_REVIEW_CUSTODY_WITH_CURRENT_RECEIVING_ROLES_V1.json",
+      "bytes": 29779,
+      "sha256": "70d9133d558c40b8325866476ee2b4515cd1966abd7783bf7d0b2b5e07be0daf",
+      "git_blob_oid_of_actual_bytes": "577e80bcdd4f5a0220be4c3070da7b7851446cec"
+    },
+    "original_scope": "Every check reason/pass/detail/tuple and all original review/ROOT decisions remain literal, only executor tokens/ordered labels opaque. No semantic/source/body/purpose/count/runtime change. Full raw inverse/forward restores V3 and original QA/ROOT through retained exact chain.",
+    "prior_preparation_qualification_roles": "All V1/V2/V3 currently-named route blocks are immutable dated precomposition snapshots; this V4 and top actualRoot/current13/publiccustody fields supply effective current routing only. Original historical ROOT independent_QA tuple values never replaced.",
+    "distinct_composition_QA_ROOT_install_publication": "PENDING_SEPARATE"
+  }
+}

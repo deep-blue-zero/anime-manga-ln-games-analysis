@@ -1,0 +1,952 @@
+{
+  "schema": "TOKI_GDD_EXISTING_EVENT825_ONE_CORE_SOURCE_RESPONSIBILITY_WITH_QUALIFIED_SIX_CARRIER_AUTHOR_RECEIVING_V1",
+  "existing_home": {
+    "required_id": "P3-REL-TOKI-GDD-RECOGNITION-BELONGING",
+    "source_responsibility": "P3-XMI-R003",
+    "required_row_1_based_excluding_header": 314,
+    "required_csv_physical_line": 315,
+    "partition_selector": "/homes/334",
+    "partition_ordinal_1_based": 335,
+    "mandatory_named_sections": [],
+    "accepted_Toki_character_not_recounted": true
+  },
+  "one_existing_core": "TG-S01/EVENT825 alreadyadmitted; zero newsourceadmission",
+  "current_body": {
+    "C_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_TOKI_GAME_DEVELOPMENT_RECOGNITION_AND_BELONGING_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 53261,
+    "sha256": "f752314891f918d001724cbd8b13f90126664c85060a5bf31e7837bbabf4bfc8",
+    "git_blob_oid_of_actual_bytes": "54f6427ab9bd70bbcdd02c7a36ae1170c3dcaf84"
+  },
+  "complete_author6_source_scopes": [
+    {
+      "source_id": "TG-S01",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+      "C_copy_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+      "tuple": {
+        "bytes": 37786,
+        "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+        "git_blob_oid_of_actual_bytes": "d42104a33d911bddec431a94c5c030e2834f2e7d"
+      },
+      "actual_received_ranges": [
+        [
+          1,
+          100
+        ],
+        [
+          101,
+          130
+        ],
+        [
+          131,
+          169
+        ]
+      ],
+      "actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_CARRIER",
+      "role_and_limit": "Whole current maintained Event825 sixteen-object literary argument including original history, current Cycle008 qualification, ordinary ending, all limits and EOF."
+    },
+    {
+      "source_id": "TG-S02",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_TOKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "C_copy_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_TOKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "tuple": {
+        "bytes": 84224,
+        "sha256": "301e38ecc9656a64db20d17388261a1155557ef1975718de308aee4642b672a0",
+        "git_blob_oid_of_actual_bytes": "4b8eade8183c190b20bada9768cea0d48008985f"
+      },
+      "actual_received_ranges": [
+        [
+          197,
+          256
+        ],
+        [
+          257,
+          285
+        ],
+        [
+          455,
+          473
+        ],
+        [
+          542,
+          573
+        ]
+      ],
+      "actual_receiving_grade": "SELECTED_MAINTAINED_ANALYTICAL_CARRIER",
+      "role_and_limit": "Selected complete qualification/family/gap sections and complete P10, W03 and W04 treatments. Frontmatter/source tables, all other private treatments and their underlying objects were not personally received by this agent."
+    },
+    {
+      "source_id": "TG-S03",
+      "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+      "C_copy_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+      "tuple": {
+        "bytes": 22203,
+        "sha256": "11d758d98de1a967cd93e86a789a778e9dc04bfab520be0d558d127da6b7ad37",
+        "git_blob_oid_of_actual_bytes": "94c2927af342ed823a661f79999c6f6268edb95a"
+      },
+      "actual_received_ranges": [
+        [
+          1,
+          98
+        ],
+        [
+          99,
+          144
+        ]
+      ],
+      "actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_CARRIER",
+      "role_and_limit": "Whole Group2501–2502 ordinary arcade account including actor receipts, peer differences, endpoints, current parent acceptance and EOF."
+    },
+    {
+      "source_id": "TG-S04",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOKI_CHARACTER_MONOGRAPH.md",
+      "C_copy_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOKI_CHARACTER_MONOGRAPH.md",
+      "tuple": {
+        "bytes": 54490,
+        "sha256": "93a1ac6f120467c255f654ef0b5ad0c0ba48e51debb29a31d7e071172c7e04b2",
+        "git_blob_oid_of_actual_bytes": "d4e2702beba38db6512c38dd97a064f4ea091735"
+      },
+      "actual_received_ranges": [
+        [
+          1,
+          71
+        ],
+        [
+          144,
+          205
+        ],
+        [
+          254,
+          281
+        ]
+      ],
+      "actual_receiving_grade": "SELECTED_MAINTAINED_ANALYTICAL_CARRIER",
+      "role_and_limit": "Accepted Toki authority/core/longitudinal framing, whole peer/register/rival section group, and complete gap/acceptance boundary. Sections72–143 and206–253 were not personally received by this agent."
+    },
+    {
+      "source_id": "TG-S05",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "C_copy_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "tuple": {
+        "bytes": 33564,
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "git_blob_oid_of_actual_bytes": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683"
+      },
+      "actual_received_ranges": [
+        [
+          1,
+          137
+        ],
+        [
+          138,
+          232
+        ],
+        [
+          233,
+          257
+        ]
+      ],
+      "actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_CARRIER",
+      "role_and_limit": "Whole current maintained V002 contextual convergence with current Cycle008 qualification, all duties/limits, Event825 comparison, other event summaries, Kei comparison and EOF."
+    },
+    {
+      "source_id": "TG-S06",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+      "C_copy_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+      "tuple": {
+        "bytes": 22309,
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+      },
+      "actual_received_ranges": [
+        [
+          1,
+          80
+        ],
+        [
+          81,
+          125
+        ]
+      ],
+      "actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_CARRIER",
+      "role_and_limit": "Whole dated MAIN V002C002 checkpoint including all chapter arguments, state/actor limits, historical reconstruction/frontier and deferred side-work record, through EOF."
+    }
+  ],
+  "source_preparation_report": {
+    "C_path": "private-witness:TOKI-DELIVERY-27cabc281ac19738822a6a1a",
+    "bytes": 26817,
+    "sha256": "1040f16207035c9e6ac9b86a61b22165b4fe92a90942f3406e699d2776bbe502",
+    "git_blob_oid_of_actual_bytes": "3a0782792913ddf6c2a4771033f7eb2dea354d4f"
+  },
+  "source_preparation_exact6_17page_receiving": {
+    "C_path": "private-witness:TOKI-DELIVERY-354c274cc54dec35df80bca5",
+    "bytes": 12144,
+    "sha256": "83d96e04c3819a8ff355fd94bd76eb02cd99523d5732fa08edbb831826d20a46",
+    "git_blob_oid_of_actual_bytes": "590e47e7a4e61663bd62880ab777b35878c47325"
+  },
+  "complete_source_specific_author_preparation_own_questions_and_answers_NOT_primary": {
+    "schema": "BLUE_ARCHIVE_TOKI_GDD_EVENT825_LOCAL_ACTUAL_BOUNDED_MAINTAINED_SOURCE_RECEIVING_AND_NEXT_AUTHOR_READINESS_V1",
+    "prepared_by": "/root/next_cast_source_preparation",
+    "stage_state": "READY_FOR_ROOT_SOURCE_PREPARATION_RECEIVING",
+    "base_source": "c5ce4c5d6dbeaf717d97488ce1c052bd450b8701",
+    "required_package_id": "P3-REL-TOKI-GDD-RECOGNITION-BELONGING",
+    "existing_source_responsibility": "P3-XMI-R003",
+    "current_required_row_1_based_excluding_header": 314,
+    "current_required_csv_physical_line": 315,
+    "partition_selector": "/homes/334",
+    "partition_ordinal_1_based": 335,
+    "mandatory_named_section_ids": [],
+    "proposed_canonical_body_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_TOKI_GAME_DEVELOPMENT_RECOGNITION_AND_BELONGING_RELATIONSHIP_SYNTHESIS.md",
+    "canonical_path_status": "PROPOSAL_ONLY_FOR_EXISTING_HOME_NOT_INSTALLED_OR_ROOT_ACCEPTED",
+    "assignment_extent": "Next-source preparation: pre-reading questions, exact custody, personally received maintained source meanings, specific literary readiness and truthful remaining author/review duties. This is not a completed relationship synthesis.",
+    "reasoning_class": "DEEP_SYNTHESIS",
+    "execution_profile": {
+      "surface": "Codex local tools with parallel target ownership",
+      "model_label_observed": null,
+      "reasoning_control_observed": null,
+      "source_transport": "Exact tracked Git c5 bytes copied only into an exclusive C-side preparation directory",
+      "inspection": "Personally received actual untruncated line-numbered bounded pages of maintained analytical writing",
+      "primary_native_raw_audio_AV_inspection": "NONE_ADDED",
+      "repository_writer": "ROOT_ONLY",
+      "publications": "NONE"
+    },
+    "evidence_grade": "MAINTAINED_ANALYTICAL_WRITING_WITH_EXACT_SCOPE_ATTRIBUTION. English maintained literary accounts with located Japanese references and some lexical samples; this agent did not receive the underlying canonical Japanese source objects, raw scripts, native source tables, performed voice or video.",
+    "source_receiving": [
+      {
+        "source_id": "TG-S01",
+        "complete_maintained_carrier_received": true,
+        "ranges": [
+          [
+            1,
+            100
+          ],
+          [
+            101,
+            130
+          ],
+          [
+            131,
+            169
+          ]
+        ],
+        "source_physical_lines": 169,
+        "extent": "Whole current maintained Event825 sixteen-object literary argument including original history, current Cycle008 qualification, ordinary ending, all limits and EOF.",
+        "own_reason": "Core relationship sequence has both directed invitation/help and Toki's response/choice. Hidden work, conditional secrecy, physical danger, temporary alliance and unprinted handover remain separate from achieved company. The current Cycle008 paragraph qualifies the old UNADMITTED/unapplied snapshots; no new admission."
+      },
+      {
+        "source_id": "TG-S02",
+        "complete_maintained_carrier_received": false,
+        "ranges": [
+          [
+            197,
+            256
+          ],
+          [
+            257,
+            285
+          ],
+          [
+            455,
+            473
+          ],
+          [
+            542,
+            573
+          ]
+        ],
+        "source_physical_lines": 631,
+        "extent": "Selected complete qualification/family/gap sections and complete P10, W03 and W04 treatments. Frontmatter/source tables, all other private treatments and their underlying objects were not personally received by this agent.",
+        "own_reason": "P10 reports games with Alice/Yuzu as Toki's appraisals, not their attendance. Provisional hobbies, secrecy, intrinsic liking and authored costume repetitions prevent a future relationship account from making games compulsory or treating repeated UI lines as new meetings. Selected report reuse is sufficient comparison for the Event825-local scope; it is not whole32 or new primary credit."
+      },
+      {
+        "source_id": "TG-S03",
+        "complete_maintained_carrier_received": true,
+        "ranges": [
+          [
+            1,
+            98
+          ],
+          [
+            99,
+            144
+          ]
+        ],
+        "source_physical_lines": 144,
+        "extent": "Whole Group2501–2502 ordinary arcade account including actor receipts, peer differences, endpoints, current parent acceptance and EOF.",
+        "own_reason": "An independently attractive console trial and limited acquiescence differ from a later voluntary match; expertise and friendly praise do not create a wish for celebrity. Momoi, Midori, Alice and Yuzu retain different wants. Toki is not inserted into these group scenes."
+      },
+      {
+        "source_id": "TG-S04",
+        "complete_maintained_carrier_received": false,
+        "ranges": [
+          [
+            1,
+            71
+          ],
+          [
+            144,
+            205
+          ],
+          [
+            254,
+            281
+          ]
+        ],
+        "source_physical_lines": 281,
+        "extent": "Accepted Toki authority/core/longitudinal framing, whole peer/register/rival section group, and complete gap/acceptance boundary. Sections72–143 and206–253 were not personally received by this agent.",
+        "own_reason": "Accepted Toki§8 already secures invitation, thanks, chosen membership and later ordinary game enjoyment at its disclosed review scope. The next package must explain both club-to-Toki and Toki-to-club conditions, rather than repeat the individual monograph or claim new E854 receiving. C&C/Neru, Rio/Himari/Eimi and Sensei remain separate directions."
+      },
+      {
+        "source_id": "TG-S05",
+        "complete_maintained_carrier_received": true,
+        "ranges": [
+          [
+            1,
+            137
+          ],
+          [
+            138,
+            232
+          ],
+          [
+            233,
+            257
+          ]
+        ],
+        "source_physical_lines": 257,
+        "extent": "Whole current maintained V002 contextual convergence with current Cycle008 qualification, all duties/limits, Event825 comparison, other event summaries, Kei comparison and EOF.",
+        "own_reason": "The existing synthesis values taste, play, making, company and recipient control intrinsically. It contextualizes games and chosen roles without supplying fresh family577/event82/Kei19 receiving. It distinguishes current adoption from dated admission/pending clauses and prevents event numbers or variant release order from becoming a global calendar."
+      },
+      {
+        "source_id": "TG-S06",
+        "complete_maintained_carrier_received": true,
+        "ranges": [
+          [
+            1,
+            80
+          ],
+          [
+            81,
+            125
+          ]
+        ],
+        "source_physical_lines": 125,
+        "extent": "Whole dated MAIN V002C002 checkpoint including all chapter arguments, state/actor limits, historical reconstruction/frontier and deferred side-work record, through EOF.",
+        "own_reason": "The prior chapter has real coercive Toki acts and injuries, distributed tactical agency, and an uneasy party opening. It is a dated checkpoint with inherited cbe3 source and87/310 frontier; these remain historical. The next Event825 argument may compare relations, but cannot backdate later freedom/company or rewrite this prospective account."
+      }
+    ],
+    "actual_pages_total": 17,
+    "actual_distinct_source_lines_personally_received": 996,
+    "whole_maintained_carriers_received": 4,
+    "selected_maintained_carriers_received": 2,
+    "source_custody_manifest": "TOKI_GDD_EXACT6_SOURCE_CUSTODY_AND_PENDING_RECEIVING_MANIFEST_V1.json",
+    "source_questions_before_receiving": "TOKI_GDD_PRE_RECEIVING_SOURCE_SPECIFIC_QUESTIONS_V1.json",
+    "questions_actual_answers": [
+      {
+        "id": "TGQ01",
+        "answer": "The group actually intervenes in Event007; its attack/shot actions are attributed to Alice/Aris and Yuzu in the maintained account, with an exact Momoi-tag/self-naming seam retained. Toki's thanks and explanation of conversational awkwardness, Alice's coherent invitation, Toki's response and narrator's companion endpoint support real local affiliation. Adjacent conflicting headings do not license giving every line to Alice or Toki, nor every act to all four club members.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              107,
+              107
+            ],
+            "underlying_refs": [
+              "BA:event:825:007:u0004–0035",
+              "u0095–0101",
+              "u0109–0132"
+            ]
+          },
+          {
+            "source_id": "TG-S04",
+            "lines": [
+              154,
+              158
+            ]
+          }
+        ]
+      },
+      {
+        "id": "TGQ02",
+        "answer": "Standby and command-transfer limitations begin as Toki's institutional testimony; Sensei's represented request is explicitly distinguished from an order. Her Event005 nonreport is conditioned on mission success. Event011 admits unsettled feelings and lack of companion experience; Event016 says she chose fighting as the club's friend and offers shared responsibility. These secure local choice without authenticating a universal chain of command, a permanent GDD enrollment or unlimited permission.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              95,
+              95
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              103,
+              103
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              115,
+              115
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              125,
+              125
+            ]
+          }
+        ]
+      },
+      {
+        "id": "TGQ03",
+        "answer": "Misidentification and an undisclosed cleaning/protection job precede the girls' dangerous labor. Printed acceptance under incomplete disclosure cannot retrospectively count as fully informed agreement. Later Toki acknowledges not contacting seniors and chooses to share responsibility; the new friendship is real without erasing that failure or making every participant equally responsible for the client's deception.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              97,
+              101
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              111,
+              115
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              125,
+              127
+            ]
+          }
+        ]
+      },
+      {
+        "id": "TGQ04",
+        "answer": "The positive Event-local sequence runs from former-conflict fear and conditional secrecy, through practical rescue and invitation, to refusal to abandon a friend and Toki's owned shared-fighting decision. The whole dated Main checkpoint supplies earlier coercion and an uneasy social opening as comparison. Neither a global event calendar nor all-time trust, completed forgiveness or lasting moral repair follows.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              103,
+              107
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              115,
+              127
+            ]
+          },
+          {
+            "source_id": "TG-S06",
+            "lines": [
+              40,
+              54
+            ]
+          },
+          {
+            "source_id": "TG-S04",
+            "lines": [
+              50,
+              70
+            ]
+          }
+        ]
+      },
+      {
+        "id": "TGQ05",
+        "answer": "Momoi's local win, wanted praise, prospective machine purchase and explicit enjoyment of everyone's company; Midori's doubt, danger attention and documentation objections; Yuzu's fear, puzzle/scouting skill, box offer, game-funding proposal and actual play; and Alice's initial clothing refusal, hero/quest framing, invitation and wanted help are different ends. Group250 further shows console curiosity, controller desire, wanted games, limited attendance, volunteered skill and unwanted fame. None is discarded for low stakes or forced into one club-wide taste.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              97,
+              109
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              125,
+              131
+            ]
+          },
+          {
+            "source_id": "TG-S03",
+            "lines": [
+              61,
+              99
+            ]
+          },
+          {
+            "source_id": "TG-S05",
+            "lines": [
+              118,
+              150
+            ]
+          }
+        ]
+      },
+      {
+        "id": "TGQ06",
+        "answer": "Narrated enjoyable play and Momoi's stated happiness that everyone, including Toki, stayed are positive ordinary endpoints. Yuzu's final crown hold is narrated; Meitaro interception and Neru's suspect/evidence report have different modes, with Valkyrie transfer still future. Reward is anticipated in an option and declared acquired in a reply, without cash amount, actual purchase, installed game budget or finished next game. Feared abolition/punishment is not enacted. Neru's apology is an achieved C&C-to-Toki direction, not a substitute for every club or institutional repair.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              119,
+              127
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              133,
+              157
+            ]
+          }
+        ]
+      },
+      {
+        "id": "TGQ07",
+        "answer": "Akira's Midori rescue and later escape aid are real help, while temporary alliance, exclusive management and betrayal remain. Toki's operational skill and Yuzu's scouting/recovery are actual distinct contributions. Guests' complaints, manipulation, fear or amused attendance are situated recipient responses, not general consent. The dealer's voiced exploitation is not assigned to all institutions or all guests, and named/local roles are not merged into the club.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              103,
+              123
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              135,
+              139
+            ]
+          }
+        ]
+      },
+      {
+        "id": "TGQ08",
+        "answer": "Whole maintained MAIN/contextual accounts support a comparison among prior coercive distance, distributed rescue, ordinary peer preferences and local chosen Event825 affiliation. Their author's whole primary scopes remain attributed. Old source cbe3,87/310 checkpoint boundaries and later family/event admission proposals are dated history qualified by current Cycle008 adoption; this source-preparation agent adds no whole MAIN45, family577, event82, original105, normal source or native/raw credit.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S06",
+            "lines": [
+              18,
+              22
+            ]
+          },
+          {
+            "source_id": "TG-S06",
+            "lines": [
+              110,
+              125
+            ]
+          },
+          {
+            "source_id": "TG-S05",
+            "lines": [
+              66,
+              77
+            ]
+          },
+          {
+            "source_id": "TG-S05",
+            "lines": [
+              222,
+              257
+            ]
+          }
+        ]
+      },
+      {
+        "id": "TGQ09",
+        "answer": "The accepted individual Toki argument explains usefulness, wantedness and a larger choice repertoire. The distinct existing relationship duty can explain how the club permits receiving help and remaining together, how Toki reciprocates without requiring equal skill or identical motives, and how rescue/invitation/nonabandonment/shared responsibility differ. This is a two-direction, recipient-specific mechanism, not a second Toki monograph, Alice-Key-Kei continuity account, C&C ensemble or generic Millennium institution.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S04",
+            "lines": [
+              36,
+              44
+            ]
+          },
+          {
+            "source_id": "TG-S04",
+            "lines": [
+              154,
+              166
+            ]
+          },
+          {
+            "source_id": "TG-S04",
+            "lines": [
+              275,
+              281
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              107,
+              131
+            ]
+          }
+        ]
+      },
+      {
+        "id": "TGQ10",
+        "answer": "Tactical alliance explains operational cooperation but cannot exhaust explicit invitation, owned friendship and enjoyed late company. Complete liberation fits praise/rescue but exceeds continuing authority, fear, guilt concerns and unresolved employment. Uniform club welcome erases individually different wants and Group250 refusals. Friendship as automatic consent fails undisclosed-work and limited-participation countercases. Pure compelled labor fails later volunteered nonabandonment and reciprocal choice. Pure self-sacrifice fails the offered shared responsibility and received help; the source does not permit filling hidden motives.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              89,
+              91
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              115,
+              127
+            ]
+          },
+          {
+            "source_id": "TG-S03",
+            "lines": [
+              67,
+              99
+            ]
+          },
+          {
+            "source_id": "TG-S04",
+            "lines": [
+              184,
+              204
+            ]
+          }
+        ]
+      },
+      {
+        "id": "TGQ11",
+        "answer": "The written distinction among instruction/order/request and companion/friend/chosen shared fighting is recoverable through the accepted Toki argument. Actor seams and inward/choice modes remain consequential. Rivalry with Alice and Yuzu in P10 is Toki's report with absent players, not their attendance or audited ranking. UI825/10825/900825 repetition is authored placement, not three additional meetings. No performed emotional delivery, gesture, clinical state or shared inner knowledge is established.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S04",
+            "lines": [
+              168,
+              180
+            ]
+          },
+          {
+            "source_id": "TG-S02",
+            "lines": [
+              463,
+              471
+            ]
+          },
+          {
+            "source_id": "TG-S02",
+            "lines": [
+              567,
+              571
+            ]
+          },
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              139,
+              141
+            ]
+          }
+        ]
+      },
+      {
+        "id": "TGQ12",
+        "answer": "Durable trust or complete reconciliation needs positively received later recurrence and recipient responses; enrollment/command/paid-work conclusions need actual institutional records, not companion wording; exact contested actors/quotations need their necessary canonical/native/raw witness before stronger attribution; performance needs an actual inspected audio/video route; global calendar and outside-selection modes require separate admission and chronology evidence. These debts delimit stronger claims. They do not remove the supported Event825-local relationship or make AV mandatory for its bounded textual argument.",
+        "source_contexts": [
+          {
+            "source_id": "TG-S01",
+            "lines": [
+              137,
+              169
+            ]
+          },
+          {
+            "source_id": "TG-S04",
+            "lines": [
+              254,
+              281
+            ]
+          },
+          {
+            "source_id": "TG-S02",
+            "lines": [
+              260,
+              279
+            ]
+          }
+        ]
+      }
+    ],
+    "ready_core_thesis": "Event825 makes Toki's peer belonging through reciprocal acts: practical help is received, an awkward invitation is answered, withdrawal is refused for a friend, and shared responsibility is positively chosen. This membership offers wanted company beyond assigned utility while retaining different capacities, incomplete disclosure, operative authority and unfinished institutional work. The ordinary late games are part of the relationship's positive result, not merely a reward for crisis usefulness.",
+    "intrinsic_ordinary_goods": [
+      "Wanted company and remaining together",
+      "Shared games and their different player/audience preferences",
+      "Outfit praise and chosen imaginative roles, alongside refusal",
+      "Tea, bodily care, rest and offered shelter",
+      "Art/making/development wishes and incomplete outputs",
+      "Awkward conversation and wanted recognition",
+      "Failed requests, limited attendance and independent play without fame"
+    ],
+    "suggested_full_argument_duties": [
+      "Own an Event825-local entering/middle/ending sequence with actor/mode-qualified locators.",
+      "Write club-to-Toki and Toki-to-club directions separately, including rescue, invitation, thanks, proposed withdrawal, refused abandonment, choice and shared responsibility.",
+      "Preserve Momoi/Midori/Alice/Yuzu's actual differences and Toki's technical limits; do not fill empty joins.",
+      "Keep Akira's help/betrayal, client deception, guest recipients and C&C/Neru apology distinct.",
+      "Give ordinary play/company intrinsic argument space, and use Group250 only as a clearly qualified comparison with no inferred Toki attendance.",
+      "Use accepted Toki/MAIN/private comparisons at their actual disclosed scopes; new stronger claims trigger exact necessary evidence recovery.",
+      "Retain serious counterreadings, finite endpoints and all14 gap dispositions; do not create a model.",
+      "Obtain independent complete literary/claim/source review and ROOT personal receiving before any completion or installation claim."
+    ],
+    "original_gap_dispositions": [
+      {
+        "gap": "G01",
+        "state": "OPEN",
+        "effect": "Direct bounded ordinary friendship, clothing, games, awkwardness, help and refusal; no full continuing-franchise or whole-person closure."
+      },
+      {
+        "gap": "G02",
+        "state": "OPEN",
+        "effect": "Command-right testimony is Toki's report; no Yuuka policy/decision transfer secured."
+      },
+      {
+        "gap": "G03",
+        "state": "OPEN",
+        "effect": "No Serika service/reciprocity evidence added; other student's service does not substitute."
+      },
+      {
+        "gap": "G04",
+        "state": "OPEN",
+        "effect": "No Hina NK Ultra causality/accountability or repair warrant."
+      },
+      {
+        "gap": "G05",
+        "state": "OPEN",
+        "effect": "No Arius/PS68 aftermath or general labor-repair closure transferred from this relationship."
+      },
+      {
+        "gap": "G06",
+        "state": "OPEN",
+        "effect": "Millennium ordinary peer goods are intrinsically positive; no school-wide prevalence or all cross-school relations."
+      },
+      {
+        "gap": "G07",
+        "state": "OPEN",
+        "effect": "Event825 local sequence is coherent; event IDs, release dates and variant order supply no global fiction calendar."
+      },
+      {
+        "gap": "G08",
+        "state": "OPEN",
+        "effect": "Exact Event825 IDs and repeat costume contexts retained; repeated UI placement is not additional meetings."
+      },
+      {
+        "gap": "G09",
+        "state": "OPEN",
+        "effect": "Coherent invitation/thanks/narration support core claim while listed actor, choice and inward seams remain."
+      },
+      {
+        "gap": "G10",
+        "state": "OPEN",
+        "effect": "Written relationship/register supported; no performed voice, animation or AV inspection."
+      },
+      {
+        "gap": "G11",
+        "state": "OPEN",
+        "effect": "No Yume record, death causality or Hoshino office-state evidence."
+      },
+      {
+        "gap": "G12",
+        "state": "OPEN",
+        "effect": "Known Toki identity stays bounded; no Yuzu key repair, variant chronology or Alice-Key-Kei continuity adjudication."
+      },
+      {
+        "gap": "G13",
+        "state": "OPEN",
+        "effect": "Shared responsibility, praise and games are finite social results; no legal enrollment/command audit/payment/medical recovery or completed agency handover."
+      },
+      {
+        "gap": "G14",
+        "state": "OPEN",
+        "effect": "No outside-selection mode or special-operation admission; source grade and chronology remain bounded."
+      }
+    ],
+    "readiness_decision": "SUFFICIENT_MAINTAINED_EVIDENCE_FOR_NEXT_SCOPED_FULL_DIRECTED_RELATIONSHIP_AUTHORSHIP_WITH_LIMITS",
+    "remaining_before_package_completion": [
+      "The full new relationship body is not authored in this preparation stage.",
+      "No new target-specific common105 purpose record set has been authored or received.",
+      "No different-author literary/component QA of a new body exists yet.",
+      "ROOT must personally receive/adopt the final exact argument and components.",
+      "Current-head reconciliation, metadata-only composition, transport/storage controls, preflight, publication and exact runtime chain remain ROOT duties."
+    ],
+    "counts_added": {
+      "literary_packages": 0,
+      "mandatory_named_sections": 0,
+      "canonical_installed": 0,
+      "remote_published": 0,
+      "main_integrated": 0,
+      "primary_sources": 0,
+      "normal105_receiving": 0,
+      "models": 0
+    },
+    "fixed_scope": {
+      "required_packages": 355,
+      "mandatory_named_sections": 29,
+      "parents": 25,
+      "homes": 384,
+      "navigation": 788,
+      "all14_original_gaps": "OPEN",
+      "models": 0,
+      "actual_source_before_this_preparation_packages": 146,
+      "actual_source_before_this_preparation_named": 16,
+      "next_milestone": 178,
+      "merge_approval": "RESERVED"
+    },
+    "preservation": {
+      "repository_writes": 0,
+      "Git_writes": 0,
+      "provider_writes": 0,
+      "shared7_writes": 0,
+      "unpublished39_body_reads_or_hashes": 0,
+      "UNBOUND9_body_reads_or_hashes": 0,
+      "accepted_Toki_body_rewritten": false,
+      "existing_required_id_changed": false,
+      "history_rewritten": false
+    },
+    "honesty_notes": [
+      "Initial filename-only rg --files inventory occurred before reading the ancestor search restriction; no unpublished body was read. All later R retrieval used fixed tracked paths pinned to c5.",
+      "Some combined governance/name/heading inventories were clipped and confer no whole receiving credit. Necessary routing policies were subsequently received in complete independent displays; meaningful source pages listed above were untruncated.",
+      "Exact source custody copies are not source receiving. The immutable initial manifest retains planned scopes; this current report owns actual four-whole/two-selected extents.",
+      "This agent's prior source exposure includes the scope decision and existing argument comparisons; this is not a blind primary or clean-room independent reading."
+    ]
+  },
+  "author_body_receiving": {
+    "C_path": "private-witness:TOKI-DELIVERY-ae64b257f8782f46791201ae",
+    "tuple": {
+      "bytes": 10145,
+      "sha256": "e069fd63ddb0e9a89cd6936960429afd8a2470bbfebe1279a38f625d62ba768b",
+      "git_blob_oid_of_actual_bytes": "2708ecbb36753eab4118529f9eb91edcae39d0bd"
+    },
+    "whole_V1_literal_readback_pages": [
+      {
+        "C_path": "private-witness:TOKI-DELIVERY-27e5fbf29102e60024448770",
+        "tuple": {
+          "bytes": 15493,
+          "sha256": "582d79b23ada139913dd9cf7c9b4b985385987f57a037255dd045931fc24bd02",
+          "git_blob_oid_of_actual_bytes": "d4bac9f4cf1a975e3f5aaf886dfd420ff24cbc7d"
+        },
+        "first_line": 1,
+        "last_line": 72
+      },
+      {
+        "C_path": "private-witness:TOKI-DELIVERY-70d9d9d44c3fa6346aef9ae3",
+        "tuple": {
+          "bytes": 15259,
+          "sha256": "d2b38269ad9e8616fc1bba3be8199d21979bed82d7a27dac0994a3614c26482f",
+          "git_blob_oid_of_actual_bytes": "7fa78ff2a392b98ba0eb5f8c464e4f616800aa00"
+        },
+        "first_line": 73,
+        "last_line": 124
+      },
+      {
+        "C_path": "private-witness:TOKI-DELIVERY-24416f6e5fc0c95bf7799a10",
+        "tuple": {
+          "bytes": 15367,
+          "sha256": "ea81bbc47f2ae4136a4d530439f4556a16dbeff4c29e675237215ee601e1f24b",
+          "git_blob_oid_of_actual_bytes": "51a3677870314255509975e52704bb6a950abc32"
+        },
+        "first_line": 125,
+        "last_line": 177
+      },
+      {
+        "C_path": "private-witness:TOKI-DELIVERY-c222be4e54974b9e09cf5508",
+        "tuple": {
+          "bytes": 12177,
+          "sha256": "aafdfac8cd8bed4c72ea15c39d7f938335238badfcfd506f851a0b6e13add771",
+          "git_blob_oid_of_actual_bytes": "f7030f80d861a585f5fa0e922939aa995494941a"
+        },
+        "first_line": 178,
+        "last_line": 231
+      }
+    ],
+    "current_V2_full_changed_paragraph_received": true,
+    "full_current_raw_forward_from_all_four_whole_V1_received_pages_executed": true,
+    "unchanged58_full_paragraphs_derive_from_actual_whole_V1_receiving": true,
+    "full_old_raw_inverse_executed": true
+  },
+  "current_body_only_QA": {
+    "pin": {
+      "C_path": "private-witness:TOKI-DELIVERY-b76e943334eacbe551cd4126",
+      "bytes": 88181,
+      "sha256": "5cb867261be1d30cc40f15f89f926629ec509edc661056ce199a655e188a00fc",
+      "git_blob_oid_of_actual_bytes": "d33a318446a06bb7bd828ff4e77c786fcdb03ab4"
+    },
+    "decision": "PASS_WITH_LIMITS_CURRENT228_COMPLETE59_BODY_ONLY_DIRECTED12_TRACK_LITERARY_REVIEW_AT_ACTUAL_MAINTAINED_TEXT_SCOPES",
+    "finding_count": 0,
+    "role": "Different author complete59/body-only source/literary reasons, not105/register/component or ROOT acceptance",
+    "reviewer_actual_source_scopes": "TwoWHOLE coreEvent825/Group250 plusfourSELECTED comparisons; authorfourWHOLE/twoSELECTED stays separate"
+  },
+  "author_actual_complete_QA_receiving": {
+    "C_path": "private-witness:TOKI-DELIVERY-9efe9f175a34a03846ac4c21",
+    "bytes": 56190,
+    "sha256": "11af0f4843f03fb28e9169534a3a9e6f2c12aa0a2d4c09ee2938583701c660ce",
+    "git_blob_oid_of_actual_bytes": "6134a52c4ef77200ae02cab5430d3e683f34f370"
+  },
+  "all105_original_reports_actual_receiving": {
+    "C_path": "private-witness:TOKI-DELIVERY-e17e423accba2578d893aabd",
+    "bytes": 510205,
+    "sha256": "75321d3f795080f6e2a29c214770c5ea56e1c845f2416f94977837ee1482e17a",
+    "git_blob_oid_of_actual_bytes": "3d5e2f4806ee531802c7da215e753f2813dc790c"
+  },
+  "genuinely_new105_actual_authoring_and_saved_readback": {
+    "C_path": "private-witness:TOKI-DELIVERY-d11d8193b374f74dfa351326",
+    "bytes": 123465,
+    "sha256": "cc6aa3501fb5be15b5477fe97ca20291e6a62247fd1a304bab0b9bbdf887cad7",
+    "git_blob_oid_of_actual_bytes": "fe5728f9c90759b6b681ae50960e247430b63b0c"
+  },
+  "source_grade_limits": "Maintained written fourWHOLE/twoSELECTED bodyinputs only; current105 report meanings remain report grade except explicitly own Event825/Group250 extents. No inherited normal105/primary/native/raw/AV, private32/Event854 fresh receiving, chronology/person/ontology/model grant.",
+  "operative_author_stage": {
+    "status": "C_ONLY_AUTHOR_EXACT8_COMPLETE_WITH_LIMITS_DISTINCT_COMPONENT_QA_AND_ROOT_PENDING",
+    "published_source_head_at_original_capture": "45e924770e6971bf44c8194588d455a71956772c",
+    "body_source_head": "c5ce4c5d6dbeaf717d97488ce1c052bd450b8701",
+    "dated_body_first_metadata": "Current53013 body is byteNOOP after positive distinct body-only QA. Its pending new105/review preparation fields retain historical body-first stage; operative author-stage records below now declare actual new105 receiving. ROOT receiving/acceptance is still pending.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "required_named_canonical_count_added_here": 0,
+    "existing_one_directed_REL_duty_only": true,
+    "accepted_Toki_not_recounted": true,
+    "R_Git_provider_shared_writes": 0,
+    "merge": "RESERVED"
+  },
+  "current105_body_join_locator_precision_successor": {
+    "metadata_pin": {
+      "C_path": "private-witness:TOKI-DELIVERY-07a43c21d7e952da957594ce",
+      "bytes": 18522,
+      "sha256": "2f8346d112b9fae7fddc18f486ef4c163016a50abd2f3f3e4e28792822704878",
+      "git_blob_oid_of_actual_bytes": "555d364094cd6c9c16cc243ce701def55b438806"
+    },
+    "full_complete_author_scope": "Only current body join metadata corrected against actual complete59 paragraph receiving7fa37a/0e0924/f4c639/d470ce. All525 own five-field semantic values, complete original two input objects, original carriers/envelopes/scopes, exact53013 body and all counts remain unchanged. No newsource/QA/ROOTcredit.",
+    "role": "Current locator successor only. Existingcc6aa350 fivefield readback remains literal semantic receiving; its old bodyjoin metadata is dated before this correction. Current map is reviewed separately, no new source reading or componentQA."
+  }
+}
