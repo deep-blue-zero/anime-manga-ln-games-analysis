@@ -8,10 +8,10 @@ generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
 version: '0.2'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
-source_boundary: Original Japanese prose novel; bounded EPUB witness verified for GO-U001; zero closed narrative units at G0
+source_boundary: Original Japanese prose novel; bounded EPUB witness verified through GO-U002; historical G0 admitted zero units
 canonical_home: series/genocidal-organ/00 Frameworks and Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
-review_status: FOUNDATION_ACCEPTED_FOR_ONE_OWNER_AUTHORIZED_PILOT
+review_status: FOUNDATION_ACCEPTED_CONTINUATION_OWNER_AUTHORIZED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -24,7 +24,7 @@ architecture_lifecycle: INITIAL
 
 ## 1. Responsibility, authority and source model
 
-This INITIAL architecture defines how future readings accumulate into a mature analysis of **one prose novel**. It pairs with the [analytical method](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_ANALYTICAL_METHOD.md) and [source/witness map](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md) under [the sole entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md). Generation `GENOCIDAL_ORGAN_BOOTSTRAP_V1` remains active provisional guidance, substantively reviewed and accepted under the 2026-10-16 owner instruction for one pilot; no prior architecture is displaced. The entrypoint and source map own the current admitted boundary; G0 alone closes no narrative unit.
+This INITIAL architecture defines how future readings accumulate into a mature analysis of **one prose novel**. It pairs with the [analytical method](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_ANALYTICAL_METHOD.md) and [source/witness map](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md) under [the sole entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md). Generation `GENOCIDAL_ORGAN_BOOTSTRAP_V1` remains active provisional guidance, substantively reviewed and accepted under the 2026-10-16 pilot instruction, then retained for the separately owner-authorized sequential continuation; no prior architecture is displaced. The entrypoint and source map own the current admitted boundary; G0 alone closes no narrative unit.
 
 The source model separates the original Japanese work, the verified reading witness to be selected, alternate editions, translation witnesses, paratext and adaptations. Shared packaging and authorship do not establish shared continuity. Conflicts are classified as edition/translation difference, focalizer knowledge, memory, deception, institutional claim, framing level, chronology or unresolved inconsistency before any harmonization. Uncertainty survives as an explicit claim state.
 
