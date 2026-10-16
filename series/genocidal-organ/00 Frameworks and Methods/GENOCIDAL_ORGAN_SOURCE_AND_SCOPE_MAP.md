@@ -5,10 +5,10 @@ artifact_type: source_scope_map
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.2'
+version: '0.3'
 status: active_provisional
 scope: Source and scope / witness inventory
-source_boundary: Original Japanese prose novel; bounded witness verified for GO-U001; no closed narrative units at G0
+source_boundary: GO-JP-EPUB-001 opening framing through Part I subsection 1 only; GO-U001; exclusive before text/part0008.html
 canonical_home: series/genocidal-organ/00 Frameworks and Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md
 created: '2026-10-16'
 review_status: FOUNDATION_ACCEPTED_FOR_ONE_OWNER_AUTHORIZED_PILOT
@@ -39,7 +39,7 @@ Original publication year 2007 identifies the work; it does not identify the Dri
 - Living series/evidence inventory ID: `1bfPi00AKmELjeXmdCudU_4HqOknTIOODANEi12GDJFw` (read in full; Project Itoh row identifies both Japanese EPUBs).
 - Project Itoh collection ID: `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`.
 
-Direct folder retrieval returned exactly two EPUB entries, one per requested novel; per-file metadata verified their parent IDs. No collection-local README, extraction, checksum manifest, PDF, plain-text copy or English translation was shown in that returned listing. This is bounded observed availability, not a claim that no other copy exists anywhere. Broader title/alias search did not reliably rediscover the known EPUBs, and a parent-filter search returned an empty result despite direct retrieval success. Therefore indexed search is explicitly **incomplete for absence claims**; direct IDs and successful byte retrieval control this inventory. No inaccessible object is declared nonexistent, and no new source copy was acquired from outside the user's existing Drive holdings.
+Before retention of the pilot verification bundles, direct folder retrieval returned exactly two EPUB entries, one per requested novel; per-file metadata verified their parent IDs. No collection-local README, extraction, checksum manifest, PDF, plain-text copy or English translation was shown in that returned listing. This is bounded observed availability, not a claim that no other copy exists anywhere. Broader title/alias search did not reliably rediscover the known EPUBs, and a parent-filter search returned an empty result despite direct retrieval success. Therefore indexed search is explicitly **incomplete for absence claims**; direct IDs and successful byte retrieval control this inventory. No inaccessible object is declared nonexistent, and no new source copy was acquired from outside the user's existing Drive holdings.
 
 ## Bounded reading witness `GO-JP-EPUB-001`
 
@@ -59,7 +59,7 @@ Direct folder retrieval returned exactly two EPUB entries, one per requested nov
 | Text capability | Authorized opening rendered legibly in vertical Japanese with ruby; all original p/h1 decoded text matches browser DOM without normalization. No missing Japanese source glyph in selected Noto Serif CJK JP font; this is witness fidelity, not comparison with an unavailable publisher master |
 | Pagination / CFI | No page-map member observed; edition-page mapping and stable CFI generation not verified. Use hash-bound member/DOM locators under the method |
 | Reading authority | `BOUNDED_WITNESS_VERIFIED_FOR_GO_U001`; admitted as the exact usable transformed witness for bounded textual claims, without first-print or publisher-master equivalence |
-| Narrative state | At G0: no closed/admitted analytical unit; authorized opening displayed for source fidelity after entering freeze. Exact analytical coverage advances only with GO-U001 closeout |
+| Narrative state | GO-U001 fully read and prospectively frozen: 11 evidence records / 24 verified locators; exact opening-through-first-subsection boundary only. Publication state belongs to the pilot receipt/Git |
 
 SHA-256 and ZIP integrity detect byte changes/corruption; they do not authenticate the edition or establish textual completeness. At bootstrap, mechanical parsing did not display narrative passages and human-readable inspection was limited to package metadata/navigation. The fresh G0 inspection below adds bounded opening and paratext rendering. No normalized narrative derivative is promoted or published.
 
@@ -75,13 +75,13 @@ The G0 inspection verifies the authorized opening against original markup and fa
 
 G0 accepts a bounded witness identification under the owner's explicit instruction to retain transparent edition uncertainty when usable textual claims remain trustworthy. Fresh bytes, opening legibility, complete structural obligations and original-XML opening-locator retrieval pass. Publisher lineage, completeness against another edition and inactive alternate-stylesheet recovery remain unverified. They cannot support claims of original-edition equivalence. A newly material omission or failed wording locator would block its dependent claim or source unit.
 
-At G0 the verified witness scope is GO-U001 only, including its opening literary framing; no analytical unit is yet closed. The intended eventual scope remains this original prose novel, subject to separate later authorization. Films/scripts, manga, *The Empire of Corpses / 屍者の帝国*, *The Indifference Engine*, *Metal Gear Solid* prose, other short stories, essays/interviews and reception are excluded. Embedded author biography, colophon, publisher material and any other extras require role classification; paratext is never silently treated as narrative. English translations, if later supplied, receive new witness keys and separate wording/locator records. No extra source acquisition, upload, Drive modification or cross-novel study is authorized now.
+The admitted/read scope is GO-U001 only, including its opening literary framing and full first numbered subsection; no later narrative is admitted. The intended eventual scope remains this original prose novel, subject to separate later authorization. Films/scripts, manga, *The Empire of Corpses / 屍者の帝国*, *The Indifference Engine*, *Metal Gear Solid* prose, other short stories, essays/interviews and reception are excluded. Embedded author biography, colophon, publisher material and any other extras require role classification; paratext is never silently treated as narrative. English translations, if later supplied, receive new witness keys and separate wording/locator records. No additional source acquisition or cross-novel study is authorized. The owner-required private verification derivatives are retained in the existing approved evidence collection as identified below; original source objects are unchanged.
 
-## First separately authorizable reading operation
+## Authorized pilot and stop boundary
 
-After review and witness acceptance, authorize one transaction from the verified narrative beginning through the end of the first numbered subsection of Part I, including any preceding narrative framing. Candidate terminal boundary: immediately before `text/part0008.html`, subject to confirming that the real section boundary matches that navigation target. Do not discard earlier spine items as boilerplate without classifying them. No later subsection is authorized by this proposal.
+The 2026-10-16 owner instruction authorized one transaction from the actual literary framing through the complete first numbered subsection of Part I. Rendered headings and complete ordered content confirm the exact exclusive end before `text/part0008.html`; opening ancillary spans and transitions are all disposed in GO-U001. No later subsection is authorized.
 
-The 2026-10-16 owner instruction now supplies this exact verification/one-unit authorization. G0 records an OPEN active single_operation run with GO-U001 as both start and terminal. Unit closeout and later publication remain distinct; no following subsection is authorized.
+The 2026-10-16 owner instruction now supplies this exact verification/one-unit authorization. G0 recorded an OPEN active single_operation run with GO-U001 as both start and terminal. The pilot now records completed/NONE state; exact-head publication remains independently verified by its operator. No following subsection is authorized.
 
 ## Fresh G0 source audit — 2026-10-16
 
@@ -111,7 +111,7 @@ Rows identify every one-based OPF occurrence. Later roles are provisional from n
 | 6 | `text/part0004.html` | Contents; structural navigation, excluded as narrative |
 | 7 | `text/part0005.html` | Work-title heading; transition included/accounted |
 | 8 | `text/part0006.html` | Part I heading; included in GO-U001 |
-| 9 | `text/part0007.html` | Part I numbered subsection 1; sole pilot prose span |
+| 9 | `text/part0007.html` | Part I numbered subsection 1; read/frozen in GO-U001, all paragraphs and spacing accounted |
 | 10 | `text/part0008.html` | Navigation-linked numbered subsection; unadmitted, prose unread |
 | 11 | `text/part0009.html` | Navigation-linked numbered subsection; unadmitted, prose unread |
 | 12 | `text/part0010.html` | Navigation-linked numbered subsection; unadmitted, prose unread |
@@ -147,3 +147,13 @@ Rows identify every one-based OPF occurrence. Later roles are provisional from n
 | 42 | `text/part0040.html` | UNKNOWN short trailing member; unadmitted, classify when reached |
 | 43 | `text/part0041.html` | UNKNOWN note-class trailing member; unadmitted, classify when reached |
 | 44 | `text/part0042.html` | Colophon; paratext, directly inspected for witness identity, not narrative admission |
+
+## GO-U001 coverage closeout and next candidate
+
+[GO-U001](../01%20Sequential%20Readings/GO_U001_OPENING_AND_PART_I_SUBSECTION_1.md) closes the epigraph at spine 5, accounted contents/work-title transitions, Part I heading at 8 and entire subsection at 9, including all 26 direct paragraphs (20 nonempty / 6 empty) and numbered heading. Subsection 1 has six ruby elements; raw body text has 1,606 Unicode codepoints with whitespace/rt. Eleven evidence IDs resolve through 24 original-XML selected-text hashes, all round-tripped; source identity and boundary remain unchanged. Its source-frontier and three cumulative dispositions are complete, with one still-untested conditional prediction and no later validation.
+
+Next candidate only: GO-U002, spine 10 `text/part0008.html` through exclusive before spine 11 `text/part0009.html`, pending its own natural-boundary check. Retain subsection-level atomicity: short GO-U001 nevertheless contains several recognition/agency transitions, while next-member mechanical length alone does not justify grouping. No next prose has been read; next operation NOT AUTHORIZED. Later structural obligations/UNKNOWN classifications above remain open and are not counted as completed coverage.
+
+## Private verification evidence retained — 2026-10-16
+
+The coordinating operator retained the bounded source-verification material, locator/structural records, actual opening/paratext renders, concealed later-layout diagnostics, factual gate/exposure records and exact transformation/tool provenance as `GO-U001_PRIVATE_SOURCE_VERIFICATION_20261016_V1.zip`, Drive file ID `1dC6XV4cK5u9K2jYKOwyhjd2WJ8JWEStC`, in the same canonical Project Itoh folder. Original EPUB bytes remain unchanged at their original ID. The uploaded object is private (`shared=false`); its full downloaded readback matches **1,282,291 bytes**, SHA-256 `5b7f40e12ea3376bb00919f8a7a54da0f79453e277ea1c84db2c067d22058382`. The archive contains a per-object hash manifest and reproduction instructions. Reinstallable runtime binaries, caches, full-novel extractions/later plaintext, redundant original EPUB copies, failed render attempts and interpretive reading/ledger/exit prose are excluded. Git remains the canonical home for the frozen analytical states. These evidence files add no later semantic reading or edition-authentication claim.
