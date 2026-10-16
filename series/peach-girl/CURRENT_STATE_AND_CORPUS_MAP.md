@@ -36,22 +36,22 @@ project_initialization:
   substantive_sequential_findings_at_bootstrap: false
   owner_review: EXECUTION_AUTHORIZED_RESULT_ACCEPTANCE_PENDING
   sequential_analysis_lock: OPEN
-  next_permitted_operation: V01
+  next_permitted_operation: V02
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V18
-  committed_high_water_mark: null
-  next_candidate_operation: V01
+  committed_high_water_mark: V01
+  next_candidate_operation: V02
   confirmation_between_units: false
   run_state: active
 analytical_execution:
   authorization: OWNER_AUTHORIZED_FULL_SERIES_RUN_LOCAL_ONLY
   authorization_record: "07 Audits and Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md"
-  sequential_units_admitted: 0
-  sequential_units_completed: 0
-  committed_narrative_high_water_mark: null
+  sequential_units_admitted: 1
+  sequential_units_completed: 1
+  committed_narrative_high_water_mark: V01
   character_reconstruction_readiness: UNASSESSED_NO_NARRATIVE_EVIDENCE
   publication: PROHIBITED_FOR_THIS_RUN_LOCAL_COMMITS_ONLY
 repository_state:
@@ -68,7 +68,7 @@ This is the single current first-read surface for Miwa Ueda's ピーチガール
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = V01`
+`NEXT_PERMITTED_OPERATION = V02`
 
 The owner's 2026-10-16 instruction authorizes a `continuous_sequential` run over V01–V18 (one complete volume per unit, no confirmation between units) and the post-sequential program the architecture defines, as a local-only execution: no push, remote ref, pull request or Drive write. The [execution authorization and initiation record](07%20Audits%20and%20Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md) holds the exact scope, the gate verification and the capability profile. Each volume closes as one atomic transaction before the next is opened. The high-water mark above advances only when that transaction's reading, ledgers, freeze and this entrypoint are committed together.
 
@@ -80,14 +80,23 @@ The owner's 2026-10-16 instruction authorizes a `continuous_sequential` run over
 | Drive availability | 18 EPUB objects labeled V01–V18 plus three provenance files; IDs, filenames, sizes and parents reconciled with live metadata; no missing number in that observed set |
 | Byte/structure verification | All 18 witnesses downloaded read-only; byte length, SHA-256, ZIP integrity, OPF identity, RTL fixed layout and one-image-per-spine-wrapper linkage verified; spine counts equal the reported counts. Deterministic locator maps are staged locally pending authorized evidence-plane promotion |
 | Unresolved source structure | Chapter boundaries, printed-page mapping and internal components/extras: navigation offers only 表紙/本編, so these are established by inspection at each volume's admission |
-| Narrative admission / inspection | Zero admitted narrative units; zero narrative pages inspected (the V01 colophon was read as a capability probe); zero completed sequential readings; no narrative high-water mark |
-| Longitudinal state | Four initialized schemas, all with zero source-derived records, subjects, predictions or findings |
+| Narrative admission / inspection | Volumes are admitted and closed one at a time; the committed high-water mark in the front matter and the table of closed readings below are authoritative |
+| Longitudinal state | Four instruments carry source-derived rows through the committed high-water mark; each volume transaction appends to all four or records no material change |
 | Character reconstruction | Contract specified in the architecture; subjects/models unassessed; no operational model or capability grade |
 | Synthesis/release | All six completion gates NOT_STARTED; no specialist or full-series findings |
 
 The [source and scope map](00%20Frameworks%20and%20Methods/PEACH_GIRL_SOURCE_AND_SCOPE_MAP.md) owns exact keys/Drive IDs, manifest hashes, reported source hashes and limitations. Its inventory is not a source lock for an authorized narrative run. V01 structural verification does not establish chapter completeness, narrative admission or story understanding. Published volume counts are not used as proof of Drive availability.
 
 裏ピーチガール and ピーチガールNEXT are separately published related manga and outside this mainline scope. Adaptations, novelizations, translation witnesses, promotional material and creator/editorial supplements remain unadmitted. Embedded extras have not been identified and must not silently enter the mainline.
+
+## Closed sequential readings
+
+Each row is a closed atomic transaction. Its freeze is recorded in the reading itself and is never edited afterward; later corrections go through the claims ledger or an attributable erratum.
+
+| Volume | Freeze | Exit state (orientation only) |
+| --- | --- | --- |
+| [V01](02%20Sequential%20Readings/PEACH_GIRL_V01_DEEP_READING.md) | PG-FR-V01 | Momo and Tōji dating for three days but split by Sae's engineered misinformation; Momo refuses Tōji's kiss at the pergola; Kairi pursuing |
+<!-- sequential-readings-end -->
 
 ## Read order and canonical responsibilities
 
