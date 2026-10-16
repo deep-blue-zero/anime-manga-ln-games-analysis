@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: Japanese main-series V01-V17 source-complete with accepted sequential analysis through V11; 41-object expanded-source snapshot reconciled 2026-10-16 and separately gated from main derivation
+source_boundary: Japanese main-series V01-V17 source-complete with accepted sequential analysis through V12; 41-object expanded-source snapshot reconciled 2026-10-16 and separately gated from main derivation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: V12
+  next_permitted_operation: CHECKPOINT_V10_V12
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V11
   terminal_boundary: V17
-  committed_high_water_mark: V11
-  next_candidate_operation: V12
+  committed_high_water_mark: V12
+  next_candidate_operation: CHECKPOINT_V10_V12
   confirmation_between_units: false
   run_state: active
 ---
@@ -43,7 +43,7 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 
 ## 2. Current authority state
 
-**Project state:** ACTIVE / PROVISIONAL — V01–V11 sequential analysis accepted. Phase 3 V07–V09 remains complete and `KONOSUBA_V07-V09_CHECKPOINT.md` remains the canonical Model Generation 0.3 freeze. Phase 4 V10–V12 is ACTIVE and OPEN: V10 local outcomes remain 6 CONFIRMED / 6 PARTIAL / 13 NOT_TESTED; V11 adds 8 CONFIRMED / 4 PARTIAL / 12 NOT_TESTED / 1 FALSIFIED. Original Gen03 wording and blank fields remain unchanged. The owner’s 2026-10-16 instruction authorizes continuous execution through V17 and the bounded synthesis, validation and expanded-corpus program. V12 is the next unopened source; Gen04 is due only after V12 closes and the tranche is adjudicated.
+**Project state:** ACTIVE / PROVISIONAL — V01–V12 sequential analysis accepted. Gen03 remains the canonical frozen prospective model derived from V01–V09. V10, V11 and V12 local outcomes are preserved separately; the V10–V12 tranche remains OPEN until its formal checkpoint, complete J02 pool and Gen04 freeze are accepted. V11 K04 remains FALSIFIED; V12 adds partly matched adverse evidence without erasing that failure. Original model/prediction wording and blank fields are unchanged. The owner’s 2026-10-16 instruction authorizes continuous execution through V17 and the bounded synthesis, validation and expanded-corpus program. The next operation is the V10–V12 checkpoint; V13 remains unopened.
 
 **SEQUENTIAL_ANALYSIS_LOCK = OPEN.** This is continuation of the mature imported project, with its four current methods, existing ten ledgers and source boundary verified. The structured run declarations recover the current owner-authorized bounds; they do not create new source authority. The [run and reconciliation audit](09%20Audits%20and%20Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md) records accepted, working and published state separately.
 
@@ -188,7 +188,7 @@ The tranche result is 16 CONFIRMED, 2 PARTIAL/revision-bearing, 2 NOT_TESTED, an
 
 ### Phase 4 - V10-V12
 
-**ACTIVE.** V10 and V11 are complete local prospective tests of unchanged Gen03. Their outcomes are preserved separately, including V11’s local K04 falsification. V12 remains unopened; the tranche remains OPEN. `KONOSUBA_V10-V12_CHECKPOINT.md`, complete pooled J02 adjudication and Model Generation 0.4 are due only after V12 closes. Freeze V13–V15 predictions before V13 exposure.
+**ACTIVE / CHECKPOINT DUE.** V10–V12 principal narratives and local prospective tests of unchanged Gen03 are complete. Their separate outcomes and V11’s K04 falsification remain preserved. The formal tranche is OPEN: accept `KONOSUBA_V10-V12_CHECKPOINT.md`, independently verify the complete J02 pool, and freeze Gen04 with V13–V15 predictions before V13 exposure. V13 remains unopened; no Gen04 is declared by the V12 transaction.
 
 ### Phase 5 - V13-V15
 
@@ -256,7 +256,9 @@ A later synthesis never licenses invented evidence. Exact wording, linguistic cl
 
 - [KONOSUBA_V11_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md) — active provisional V11 authority; second local prospective test of Gen03, complete main narrative and synchronized ledgers.
 
-### Active cumulative ledgers through V11
+- [KONOSUBA_V12_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V12_DEEP_READING.md) — active provisional V12 authority; third local prospective test of Gen03, complete principal narrative and synchronized ledgers.
+
+### Active cumulative ledgers through V12
 
 - `KONOSUBA_CHARACTER_STATE_LEDGER.md`
 - `KONOSUBA_RELATIONSHIP_STATE_LEDGER.md`
@@ -267,7 +269,7 @@ A later synthesis never licenses invented evidence. Exact wording, linguistic cl
 - `KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md`
 - `KONOSUBA_KAZUMA_NARRATOR_LEDGER.md`
 - `KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md`
-- `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` — preserves immutable Gen 0.1/0.2 text and historical outcomes, the completed V07-V09 Gen 0.2 adjudication, and all 25 Gen 0.3 V10-V12 predictions frozen before V10 exposure with their original blank outcome/adjudication fields; a separate V10 local addendum records 6 CONFIRMED, 6 PARTIAL and 13 NOT_TESTED. The V10-V12 tranche remains open. A separate V11 addendum records 8 CONFIRMED / 4 PARTIAL / 12 NOT_TESTED / 1 FALSIFIED; the original fields remain blank.
+- `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` — preserves immutable Gen 0.1/0.2 text and historical outcomes, the completed V07-V09 Gen 0.2 adjudication, and all 25 Gen 0.3 V10-V12 predictions frozen before V10 exposure with their original blank outcome/adjudication fields; a separate V10 local addendum records 6 CONFIRMED, 6 PARTIAL and 13 NOT_TESTED. The V10-V12 tranche remains open. A separate V11 addendum records 8 CONFIRMED / 4 PARTIAL / 12 NOT_TESTED / 1 FALSIFIED; the original fields remain blank. A separate V12 addendum records all25 local dispositions; the complete formal tranche remains open pending its checkpoint.
 
 ### V01-V03 Model Generation 0.1 state
 
@@ -420,12 +422,22 @@ Kazuma’s actual castle departure, coerced return, delayed confession and recip
 
 V11’s separately identified bonus **そのスキル、危険につき** remains unread and reserved for the expanded stage. Source metadata reconciliation covers all 41 objects; this source-unit acceptance advances only MAIN-11’s principal main narrative. Earlier map subsections retain their historical future-facing wording. Current authority and next-operation declarations govern continuation to V12 after exact publication checks close.
 
+### V12 local prospective-validation state
+
+The [V12 reading](02%20Sequential%20Readings/KONOSUBA_V12_DEEP_READING.md) and [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V12_RECEIVING_REVIEW.md) accept the eight principal-main members `text/part0009.html`–`part0016.html`: 2,841 all-body paragraphs, 2,624 nonempty and 101,448 base characters. The producer, independent humor reader and receiving integrator each read that complete main narrative; their overlapping coverage is not added. Independent semantic review is separately bounded. All ten ledgers receive additive V12 records.
+
+K04 retains a strong adverse actual-visible-tears candidate with explicit cue/motive matching limits; its local ambiguity does not rescue V11's clean failure. Aqua's owned sustained healing is observed, but recognition-conditioned continuation remains untested because reward onset is unshown. Actual tactical contribution, injury and finite endurance coexist with pleasure; eventual Eris rescue remains distinct from Kazuma's useful prepared water. The mutual intermediate relationship advances beyond V11 without becoming an exclusive settled couple. Initial unwanted contact and later directed participation remain separate. Civic education predates Kazuma's discovery; principal pension/treatment tax and temporary orphanage bridging remain distinct.
+
+The complete source-first humor census has130 fixed units:127 clear L0–L2 and three unresolved mixed cases, giving local bounds127–130/130. All119 original lineages and22 pre-coding operations survive. Both L files sealed before code/aggregate exchange; disclosed within-volume boundary preview means discovery was not fully blind. Fourteen fixed voice comparisons retain weak, adverse and sparse windows. A factual role gloss is corrected by an explicit erratum outside the immutable window registry. J02 remains PARTIAL/TRANCHE_OPEN until the complete V10–V12 pool is independently verified at checkpoint.
+
+The separately identified V12 bonus **伝説の魔女**, afterword and other edition components remain unread and assigned to later component review. Only MAIN-12's principal narrative advances to READ_COMPLETE/ANALYZED; the fixed41-object identity seal and all other narrative dispositions are preserved. A metadata-only field rename clarifies membership in the five-record incremental Calibre manifest without asserting that the other36 never underwent Calibre processing. No future main or side narrative enters these prospective states. Earlier map subsections preserve historical future-facing wording; the current declarations and this update govern continuation.
+
 ## 13. Current next actions
 
 1. Preserve `KONOSUBA_V07-V09_CHECKPOINT.md`, the exact frozen Gen03 V10-V12 prediction block, RC-V09-01 and the new V10 local validation record. The 25 predictions remain frozen with their original blank outcome/adjudication fields; do not regenerate or rewrite them.
-2. Verify the accepted V11 transaction’s exact source audit, housekeeping and final audit. Then open V12 against unchanged Gen03 and continue without routine confirmation through V17. Close each complete reading/ledger/map transaction before the next volume opens; the accepted high-water mark is V11.
+2. Close the accepted V12 transaction’s exact source audit, housekeeping and final audit. Then complete the separately reviewable V10–V12 checkpoint and Gen04 V13–V15 forecast freeze. The accepted principal-main high-water mark is V12; V13 remains unopened. Continue without routine confirmation through V17 while preserving every source and forecast gate.
 3. At each unit boundary, refresh live map/governance and relevant ledgers, retrieve the existing frozen checkpoint/predictions and earlier outcomes, verify preserved bytes, and complete the source-identity/capability gate before narrative exposure. Append evidence without erasing adverse cases or untested branches.
-4. Only after authorized V11/V12 continuation and completed V12 adjudication should the V10-V12 tranche close in `KONOSUBA_V10-V12_CHECKPOINT.md`, Model Generation 0.4 be frozen, and V13-V15 predictions be written before V13 exposure. J02's formal pooled census result remains open until the complete registered scope is inspected and coded.
+4. Adjudicate every Gen03 forecast across V10–V12, retaining disconfirmations, partial causal coverage and untested branches. Verify the complete J02 pool before formal closure. Accept and commit the checkpoint/Gen04 forecast freeze before V13 exposure; the V12 transaction itself creates neither a new generation nor a completed tranche.
 5. Keep all side narrative and edition bonuses outside prospective derivation. Freeze the main-only reconstruction suite before the four designated holdouts, preserve the validation results, then perform the full expanded-prose/component program and attributable post-validation reconstruction. Source metadata is now reconciled separately in the 41-object matrix; no metadata or download state counts as completed literary analysis.
 
 ## 14. Governing principle

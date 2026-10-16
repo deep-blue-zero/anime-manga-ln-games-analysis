@@ -5,13 +5,13 @@ artifact_type: synthesis_architecture
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.1'
+version: '0.2'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
-source_boundary: Original Japanese prose novel; candidate EPUB structurally inspected; zero narrative units admitted or read
+source_boundary: Original Japanese prose novel; bounded EPUB witness verified for GO-U001; zero closed narrative units at G0
 canonical_home: series/genocidal-organ/00 Frameworks and Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
-review_status: OWNER_REVIEW_PENDING
+review_status: FOUNDATION_ACCEPTED_FOR_ONE_OWNER_AUTHORIZED_PILOT
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -24,7 +24,7 @@ architecture_lifecycle: INITIAL
 
 ## 1. Responsibility, authority and source model
 
-This INITIAL architecture defines how future readings accumulate into a mature analysis of **one prose novel**. It pairs with the [analytical method](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_ANALYTICAL_METHOD.md) and [source/witness map](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md) under [the sole entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md). Generation `GENOCIDAL_ORGAN_BOOTSTRAP_V1` is active provisional guidance awaiting owner review, not a completed analysis; no prior architecture is displaced. The admitted narrative boundary is empty.
+This INITIAL architecture defines how future readings accumulate into a mature analysis of **one prose novel**. It pairs with the [analytical method](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_ANALYTICAL_METHOD.md) and [source/witness map](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md) under [the sole entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md). Generation `GENOCIDAL_ORGAN_BOOTSTRAP_V1` remains active provisional guidance, substantively reviewed and accepted under the 2026-10-16 owner instruction for one pilot; no prior architecture is displaced. The entrypoint and source map own the current admitted boundary; G0 alone closes no narrative unit.
 
 The source model separates the original Japanese work, the verified reading witness to be selected, alternate editions, translation witnesses, paratext and adaptations. Shared packaging and authorship do not establish shared continuity. Conflicts are classified as edition/translation difference, focalizer knowledge, memory, deception, institutional claim, framing level, chronology or unresolved inconsistency before any harmonization. Uncertainty survives as an explicit claim state.
 
@@ -130,7 +130,7 @@ Harmony / ハーモニー remains a separate project. Do not consult its narrati
 
 Use `BOUNDED_STANDARD` for source/locator reconnaissance; `SUBSTANTIVE_ANALYSIS` for ordinary sequential readings; `DEEP_SYNTHESIS` for architecture, reconciliation, specialists and reconstruction; escalate an unusually propagation-sensitive novel-wide convergence/audit to `PREMIUM_QUALITY_FIRST` with a stated benefit. These are workload classes, not model identity claims.
 
-This bootstrap uses hosted Work/Codex with Git/Python and connected Drive. Byte retrieval, XML parsing and Git/text authoring were exercised; visual prose fidelity and narrative inspection were not. Future Japanese prose and faithful rendering capability must be verified before admission. Audio/continuous AV are OUT_OF_SCOPE for this prose-only project. No API spending or local-device access is inferred.
+The historical bootstrap used hosted Work/Codex with Git/Python and connected Drive, without visual prose fidelity or narrative inspection. The 2026-10-16 G0 review verifies a local Japanese vertical-text/ruby render route and original-XML locators for the bounded pilot; actual inspection and caveats are recorded in the source map and pilot receipt. Audio/continuous AV are OUT_OF_SCOPE for this prose-only project. No API spending or local-device access is inferred.
 
 For the later longitudinal lifecycle, prefer a capable Git/source operator for sequential transactions, fresh cloud reasoning for substantial retrospective synthesis, and a designated integrator for exact-byte/evidence reconciliation. Because this is one novel, use the simplest adequate arrangement and record a justified exception to the long-series preference; no extra environment or session is required merely by a diagram. One active owner edits shared state. A handoff carries full outputs, source/hash/exposure boundary, base commit, intended paths, claim revisions, preserved freezes and unresolved obligations; a summary alone is insufficient. Acceptance checks base/candidate/current drift and source support before targeted integration.
 

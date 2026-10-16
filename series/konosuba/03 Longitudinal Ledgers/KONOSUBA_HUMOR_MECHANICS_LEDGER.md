@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V11
+scope: V01-V12
 ledger_role: humor_mechanics
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V11 main narrative
+source_boundary: Japanese main-series light novels through V12 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Humor Mechanics Ledger — Through V11
+# KONOSUBA Humor Mechanics Ledger — Through V12
 
 ## Core V01 mechanisms
 
@@ -464,3 +464,45 @@ No important adverse behavior is excluded as H4 comic license: risky memory eras
 ## MG03-J02 local census
 
 The V11 reading's Appendix A is the complete canonical-candidate retrieval home for all episode boundaries, source anchors, L classifications, revisions and conservative bounds. Initial 107 boundaries were sealed before classification, then an independent complete-source audit produced seven split and two merge decisions yielding 112, also sealed before classification. Original identities and source-first correction history are retained. A local result remains only a contribution to the pooled complete V10–V12 test; the formal outcome is PARTIAL/TRANCHE_OPEN. Distinct soft-eligibility and linguistic-class uncertainties remain explicit rather than selected away to improve a ratio.
+
+
+# V12 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V12 main narrative only: Pr/C1–C5/F/Ep = `text/part0009.html`–`part0016.html`; all-body paragraph enumeration includes blanks/images, ruby uses base text with rt/rp removed and tails retained. **2,841 paragraphs / 2,624 nonempty / 101,448 base characters.** Stored EPUB1,570,295B, SHA-256 `d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24`, Drive object `1QO85Z8nCYnH_J0H6KcB0UHs8eOS4pikn`. V01–V11 accepted state is inherited at exact tip `45217d5f509ef45f4453bc51753918acad30fb18`; V12 opened only after source audit38963565033, housekeeping38964215208 and final exact-head audit38964267253 succeeded. Afterword `part0017`, electronic bonus **伝説の魔女** `part0020`, other body members, illustrations, later and side narratives are excluded/unread. Gen03 model/predictions and original blank fields remain immutable; V10/V11 outcomes, RC-V09-01 and RC-V10-01 remain unchanged. These are additive V12 observations, **not Gen04 or a formal pooled-tranche adjudication**. See the [V12 deep reading](../02%20Sequential%20Readings/KONOSUBA_V12_DEEP_READING.md) for all17 responsibilities, exact locators, voice windows and census. Limited within-volume boundary-only preview arrived at C3P0410; full main reading still proceeded in source order. No humor classes/aggregates were exchanged before both coding files sealed.
+
+## Complete source-first census and conservative local result
+
+The complete main narrative was read before the initial **119** unclassified episodes were sealed (`588b96b7addf071bbc2496a86101ef48d65114e5b5e5b91bd6fa0cf6fe1f4453`). Independent full-source boundary review and root acceptance precede any L coding: **10 splits −3 merges +4 additions =130**. Five context extensions change no count; these are **22 recorded operations** in total. All original identities survive, including disjoint intervals for interrupted cuff, card-game and chick-training runs. Final boundary file89,254B SHA `e736979091503f167113226ec5ad76081be24309486c2d478d7be81c414c9145` was frozen before classification. Four soft comic-salience cases—H099, HA01, HA02, HA04—were admitted and qualified before coding, not selected afterward.
+
+Both classification files sealed without seeing the other's episode codes or aggregates, then root released comparison. The accepted conservative register118,661B SHA `00ed4164e5f52d30a0af0c9f5c2f3c03c47c3727e72c2eb58834f05d6b4e91e8` retains **127 clear L0–L2, zero clear L3 and three unresolved mixed cases**. Strict V12-only bounds are **127/130–130/130 (97.69%–100%)**. Zero consensus-clear L3 is not evidence that no source effect is form-dependent: H072 is independently coded L3 and held unresolved; nickname and name effects are retained. No fine histogram was forced:86 exact codes,44 fine differences,41 within L0–L2,3 scoring-group differences and2 strict clear-portable-status differences. These are descriptive discrepancies, not a formal reliability statistic. The complete accepted130-row table, both original codes and source routes are in the V12 deep reading Appendix A / linked scoring register.
+
+Boundary discovery was preview-exposed in a limited way: later within-volume boundary anchors arrived when the producer was at C3P0410. No L information existed or was shared then. Source-ordered full reading and later independently sealed coding are still documented, but discovery is not called wholly blind. No denominator or boundary changed after classes. **MG03-J02 remains PARTIAL / TRANCHE_OPEN here**; formal pooling with unchanged V10/V11 belongs to the checkpoint.
+
+## Mechanisms and reconstruction weight
+
+| ID / mechanism | Scene-specific causal structure | H weight / implication |
+|---|---|---|
+| HM-V12-01 Misread ordinary referents | C4P0110–0161 withholds the book behind sexual interpretations; C5P0237–0273 turns anticipated assault into noisy toileting; C5P0280–0307 turns apparently heroic urgency into another bodily need. | H1 actual interpretations and actions, H2 overconfident magnification. The same narrator can flatter or sexualize the wrong cause; neither favorable nor hostile inference is privileged. |
+| HM-V12-02 Institutional reversal | Trusted emergency guild gathering becomes tax capture, a poor magician wins exemption, elite avoidance becomes envied privilege, and police custody becomes shelter (C2P0091–0367). | H1 incentive/jurisdiction mechanisms with H2 bureaucratic extremes. Competent exploitation and actual wrong to others coexist; institutional satire is not an external law record. |
+| HM-V12-03 Amateur solves professional puzzle | Rope strength, local location and lifting-door knowledge repeatedly belong to Darkness, the supposed novice; Kazuma and Chris accept her help while retaining professional rank (FP0113–0192). | H1 component asymmetry; H2 face-saving verbal escalation. Do not infer total thief incompetence or narrator-authorized hierarchy. |
+| HM-V12-04 Reward from the wrong outcome | Physical discipline is healed away; pain/stripping threats can acquire positive meaning; the demon's humiliation game produces Darkness's pleasure rather than required food (C1P0178–0181; C2P0315–0329; C5P0475–0571). | H1 reward structure, H2 intensity. Public exposure first provokes genuine aversion; later delight cannot retroactively consent to it. Generic suffering is not a single aversive variable. |
+| HM-V12-05 Self-exonerating direction | Kazuma teaches his own restraint and requested lines while describing himself as helpless, then cries for rescue and blames Darkness (C3P0465–0537). | H1 incompatible statement/action and feasible alternatives, H2 farcical role escalation. The initial unwanted kiss is separately real; the scene is not consensual roleplay from its beginning. |
+| HM-V12-06 Relational awkwardness after sincerity | Kazuma and Megumin's flawed mutual confession, then Kazuma's painful refusal of Darkness, her cuff-spoiled noble exit and her unexpected kiss repeatedly alternate genuine feeling with failed presentation (C1P0335–0377; C3P0243–0440). | H1 actual chosen affection/refusal; H2/H3 collision and exaggerated retorts. Seriousness reveals values without removing comic vulnerability. |
+| HM-V12-07 Care inside apparent foolishness | Family picnic absorbs the date; Aqua provisions travelers and sustains children, Megumin researches, Darkness teaches, while jokes redistribute deserved credit (C2P0074–0086; C4P0170–0220; FP0398–0438; PrP0013–0023). | H1 real services, H2 competing boasts. Do not make comic undercutting proof a service had no value. Healing is not cure, and recipe authorship remains unresolved. |
+| HM-V12-08 Overpowered tool creates next problem | Discarded unique key traps the pair after a failed civic plan; strong alloy Bind secures the demon but prevents evacuation (C2P0298,0384–0400; FP0314–0358). | H1 contingency structure with H2 stakes/magnitude. Tool efficacy and recovery design are different competencies. |
+| HM-V12-09 Genre model meets incompatible motives | Heroic medicine acquisition leads to an emotionally unsuitable trial; sinister count is a mascot; the count's cute mascot appearance initially inhibits Chris's attack, then learning his demonic identity triggers her lethal zeal despite that appearance; a harem wish fails to solve painful choice but returns as final pleasure (C5P0319–0571; FP0253–0307; C3P0361–0370; EpP0088). | H1 appraisal/goal conflict, H2 genre reversals. Fantasy vocabulary and cultural scripts do not automatically imply Japanese-form dependence. |
+| HM-V12-10 Brief retorts matter | VIP/MVP, hybrid denial, card-turn lock, danger redundancy, boy/girl and prayer/curse corrections are retained in the census rather than dropped for brevity (PrP0013–0017; C1P0068–0069; C3P0072–0079; C4P0300; FP0303–0307). | H1/H2 speech acts; translation class follows actual mechanism, not whether the gag changes plot. |
+
+## Form-sensitive unresolved cases
+
+| Fixed ID / source | Primary / independent original | Conservative disposition |
+|---|---|---|
+| H004 C1P0057–0061 | MIXED / L1 | Explicit odd-name narration can carry the reaction, but cutesy Japanese name resonance may matter; no invented etymology settles it. MIXED. |
+| H047 C3P0160–0192, especially0189 | L2 / MIXED | Sexual accusation/role alternation may be primary, or the 痴女ネス blend may carry enough salience to require Japanese reconstruction. Whole boundary stays fixed; MIXED. |
+| H072 C4P0307–0312 | MIXED / L3 | Cute disease-name sound may require recreation; narrator's explicit cute label may preserve the information. The independent L3 remains recorded; MIXED. |
+
+EpP0025 repeats the nickname inside a clearly independently functioning physical power reversal (both L0 for H114). EpP0039 uses 大物 for fish and prominence (H116 primaryL2/independentL0); English big fish supplies an analogous bridge but exact local effect can change. These nested forms remain visible without adding episodes or changing the primary grouping after coding. Cultural context, comic eligibility strength, H weight and L dependence remain separate dimensions.
+
+H4 caution: Kazuma's claim that a Japanese person dies without a daily bath is plainly nonliteral (C3P0066); a murder-suicide/revival retort is not a witnessed pair of deaths (P0409–0410). Neither establishes realistic physiology or routine violence. Genuine disease risk, burning and distress are not discarded as harmless comedy merely because adjacent scenes are farcical.

@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V11
+scope: V01-V12
 ledger_role: narrator_perspective
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V11 main narrative; Kazuma first-person narration
+source_boundary: Japanese main-series light novels through V12 main narrative; Kazuma first-person narration
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Kazuma Narrator Ledger — Through V11
+# KONOSUBA Kazuma Narrator Ledger — Through V12
 
 ## Purpose
 
@@ -488,3 +488,45 @@ Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/x
 V11 offers both reliable contextual inference and direct self-serving distortion. Reliability should be indexed by subject, available evidence and incentive rather than assigned once globally. No audio, visual expression or future source resolves narrator gaps.
 
 **Diary knowledge boundary:** Komekko is explicitly at the guild during the Lucy outing (C3 P0476), and is not shown at the final fight. Her compact adventure report is not certified direct witnessing; returned adventurers supply her final battle praise (F P0348–0357). Her private-visit quotation is explicitly based on eavesdropping (Ep P0098–0099).
+
+
+# V12 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V12 main narrative only: Pr/C1–C5/F/Ep = `text/part0009.html`–`part0016.html`; all-body paragraph enumeration includes blanks/images, ruby uses base text with rt/rp removed and tails retained. **2,841 paragraphs / 2,624 nonempty / 101,448 base characters.** Stored EPUB1,570,295B, SHA-256 `d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24`, Drive object `1QO85Z8nCYnH_J0H6KcB0UHs8eOS4pikn`. V01–V11 accepted state is inherited at exact tip `45217d5f509ef45f4453bc51753918acad30fb18`; V12 opened only after source audit38963565033, housekeeping38964215208 and final exact-head audit38964267253 succeeded. Afterword `part0017`, electronic bonus **伝説の魔女** `part0020`, other body members, illustrations, later and side narratives are excluded/unread. Gen03 model/predictions and original blank fields remain immutable; V10/V11 outcomes, RC-V09-01 and RC-V10-01 remain unchanged. These are additive V12 observations, **not Gen04 or a formal pooled-tranche adjudication**. See the [V12 deep reading](../02%20Sequential%20Readings/KONOSUBA_V12_DEEP_READING.md) for all17 responsibilities, exact locators, voice windows and census. Limited within-volume boundary-only preview arrived at C3P0410; full main reading still proceeded in source order. No humor classes/aggregates were exchanged before both coding files sealed.
+
+The namespace `N-V12` continues the published `N-V11` and earlier `N-V10` records without renaming them. Each row identifies what is shown, reported, inferred or rhetorically staged.
+
+| ID / locator | Evidence separation | Consequence for authority |
+|---|---|---|
+| N-V12-01 C1P0038–0072 | Sylphina is directly identified as Darkness's cousin; Sylphina's mother's death, maternal illness and inheritance are Darkness's family account. | New kinship is admitted at V12; do not insert identification into V11. Family testimony is not independent genetic omniscience. |
+| N-V12-02 C1P0057–0061 | Megumin's restrained self-introduction and child's reaction are observed; audience-caused restraint and why the name interests the girl are Kazuma's interpretations. | Preserve plausible role/naming inferences without certifying the child's exact thought or general native-name etymology. |
+| N-V12-03 C1P0241–0243 | His Iris stay-or-die speech is a retrospective account explicitly qualified as possibly favorably edited after the potion. | No literal prior death threat or actual V11 tears can be inferred; historical memory restoration and accepted V11 outcome remain unchanged. |
+| N-V12-04 C1P0312–0348 | He supplies clear-headed responsibility rhetoric after paid gratification, while Megumin reminds him he introduced childmaking. Later he privately imagines enjoyable ordinary companionship. | The moral explanation of caution is self-serving; the affection discovery is separately evidenced. Do not reduce all inner speech to either honest insight or global lying. |
+| N-V12-05 C2P0023–0040 | He predicts Aqua has accurately detected the date; her breakfast explanation immediately defeats this attribution. | Actual sharp observation of early rising does not imply the inferred romantic understanding. Narrator forecasts are revisable evidence. |
+| N-V12-06 C2P0185–0209,0254–0262 | He treats the cuff as fetish and calls Darkness stupid, before learning her civic role and ballast planning. | Later explicit update of her resolve corrects his earlier causal frame; do not use the early insult as an independent competence judgment. |
+| N-V12-07 C2P0306–0308 | His regret at returning to town immediately adds that he was sent back. | V11 presence remains forced return, not voluntary proof that he chose the household over retirement. |
+| N-V12-08 C2P0373–0383 | He calls the underwater plan perfect; Aqua used a different smaller pond after discovery and was nearly boiled. | Preserve plan/resource chronology and actual harm. Her aquatic capacity and narrow evasion success remain real; the global perfect-plan description does not. |
+| N-V12-09 C3P0162–0189 | Forehead proximity, wet neck and belt state are observed; full assault accusations exceed what he checks. Darkness describes drool and growing temptation while denying completion. | Neither independently certifies every narrated sexual act. His disappointed check and renewed degrading nickname expose an appetite behind the innocent-victim frame. |
+| N-V12-10 C3P0443–0537 | Initial unwanted acts/stop requests are direct. He then knows a free hand exists, orders its restraint and teaches both actions and dialogue while continuing helplessness rhetoric. | Body and instructions refute his later claim of uniformly strenuous resistance. A transition in participation must not retroactively consent to the initial kiss. |
+| N-V12-11 C3P0535,0541–0561 | Megumin does know Darkness needed to speak; Kazuma reads her looks as understanding everything and compares the dyad to mother/child. | Bounded social insight is supported, omniscient knowledge and permanent maternal identity are not. Later jealousy/checking limits his calm-adult caricature. |
+| N-V12-12 C4P0102–0161,0187–0191 | Overheard ambiguous descriptions produce sexual inference and jealousy; opening the door reveals a book/classroom. Kazuma then knowingly supplies a false civic-inspection motive. | An earlier mistaken perception is corrected, but the cover story is intentional. Distinguish inference error, sexualized attention and selected deception. |
+| N-V12-13 C4P0216–0220,0262 | Actual funding explanation separates pension/treatment purpose from temporary orphanage bridging. His claim that Darkness does not realize she is teased is an interpretation of her visible protest. | Never collapse all tax into school or treat her innocence as omniscient mind access. Renewed quest seeking is observed, eventual monster clearance only forecastP0068. |
+| N-V12-14 C5P0104–0128 | Self-praise and horse-favorite diversion answer an uncomfortable comparison; ranker history is admitted as online-game narrative misunderstood literally. | No secure stable ranking of horses above cats, and no authenticated prior real combat history. He knowingly permits a pleasing misunderstanding. |
+| N-V12-15 C5P0147–0170 | Uneventful travel without Aqua prompts a causal generalization, while ninja/samurai explanations mix cultural lore and fantasy. | Subsequent disturbance without Aqua undercuts universal blame. Do not turn Kazuma's simplified account into an external Japanese historical source. |
+| N-V12-16 C5P0288–0307 | He explains all Darkness's urgency as protective steadfastness; the immediate actual need is a toilet. | Favorable heroic framing can be wrong as well as hostile framing. Her larger mission is real but cannot substitute for the particular cause revealed here. |
+| N-V12-17 C5P0398–0403 | He claims futures positions, weather information and a hired expert; Darkness looks impressed. | Claim and listener reaction do not establish realized profit, forecasting accuracy or universal finance expertise. |
+| N-V12-18 C5P0525–0528; FP0203–0219 | Orcs fear Darkness and attack Chris. The count attributes fear to sacred protection; Kazuma attributes it to female-orc trauma and later a masculine appearance. | Observed response does not isolate either latent cause. The count calling Chris a boy elsewhereFP0303 is not proof of the orcs' mental categorization. |
+| N-V12-19 C5P0559–0566 | He reports a costume-opening encounter and its pleasure/failure consequences but omits actual interior detail for Darkness's honor. | No remembered adaptation/image/future detail may fill the ellipsis. The reported emotional outcome has authority; an invented anatomical account does not. |
+| N-V12-20 FP0035–0044 | Chris gives no particular reason for arriving; Kazuma connects a prior prayer, divine identity and the omission of the target's demon nature. | Strong narrative implication remains attributed inference until confirmed. Casual gratitude does not establish a cumulative public service burden. |
+| N-V12-21 FP0136–0192,0237–0249 | Professionals accept Darkness's useful actions while claiming they permitted novices or knew the answer. He admits being repeatedly helped, then uses her unrelated guilt to deflect. | Narration exposes self-exoneration rather than demanding acceptance of every spoken authority claim. Real later sensing/binding capacities remain. |
+| N-V12-22 FP0360–0395 | Prepared Aqua water hurts the demon, Darkness collapses, and Eris later intervenes. Eris's rescue of Darkness and the enemy's reduced lives are compressed reports; the specific whole-body struggle is not fully dramatized. | Do not collapse time into water-alone rescue or fill omitted mechanics. Remaining lives are reported; total destruction is explicitly absent. |
+| N-V12-23 FP0398–0436 | Healthy-looking child produces a trip-was-unnecessary inference; Vanir explains persistent disease. Recipe claims compete without a shown final winning formula. | Apparent wellness is not cure. Eventual recuperation/banquet supports treatment success after an ellipsis, not authorship of a uniquely correct recipe. |
+| N-V12-24 FP0383–0385; EpP0058–0061 | He thinks Darkness asleep during hidden-identity talk; she later says she overheard. | Update current knowledge only at epilogue. She knows a secret exists, not explicitly its Eris content. |
+
+## Narrator grammar carried forward
+
+V12 repeatedly runs **salient cue → confidently sexual/professional/heroic explanation → mundane or specialist correction → selective self-reframing**. The cue may be a whispered conversation, cuff, supposed noble novice, urgent gate demand or healthy face. Hostility is not the only distortion: a generous interpretation of Darkness is also corrected by her toilet need. Kazuma can nevertheless describe his own developing affection, recognize actual mistake and follow technical information accurately. Modeling should therefore specify where attention or reward distorts inference rather than call him globally unreliable.
+
+Physical acts, direct refusals and named task outcomes are not downgraded merely because narration is biased. Equally, another person's flattering account or his interpretation of a look is not independent moral exoneration. Seriousness and comedy share the same evidentiary distinctions.

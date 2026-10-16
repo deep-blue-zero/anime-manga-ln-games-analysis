@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V11
+scope: V01-V12
 ledger_role: relationship_state
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V11 main narrative
+source_boundary: Japanese main-series light novels through V12 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Relationship State Ledger — Through V11
+# KONOSUBA Relationship State Ledger — Through V12
 
 ## Purpose
 
@@ -592,3 +592,31 @@ The older sister is protective and proud, wants shared sleep, worries about unsa
 Reciprocal praise and prior debts support genuine aid. Luna's use of the child's admiration then turns freely offered recognition into pressure to accept neglected tasks. The final action succeeds through distributed contribution while preserving early flank failure, Aqua's momentum error, a thief's intervention, new enemy information and a repaired target handoff. No universal Kazuma indispensability or equality of contributions follows. C3 P0342–0444; C4 P0062–0109; F P0203–0357.
 
 Durable household attachment is directly evidenced in replies and reunion. Strict MG03-E02 remains NOT_TESTED because an efficiency-promising feasible reorganization is not fully established; generic loss and practical efficiency must not be conflated. The initial permanent retirement is contrary to an unconditional individual version, while other members' resistance remains strong new evidence. The final maternal-address cliffhanger is unresolved at V11 and must not be resolved by a remembered later explanation.
+
+
+# V12 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V12 main narrative only: Pr/C1–C5/F/Ep = `text/part0009.html`–`part0016.html`; all-body paragraph enumeration includes blanks/images, ruby uses base text with rt/rp removed and tails retained. **2,841 paragraphs / 2,624 nonempty / 101,448 base characters.** Stored EPUB1,570,295B, SHA-256 `d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24`, Drive object `1QO85Z8nCYnH_J0H6KcB0UHs8eOS4pikn`. V01–V11 accepted state is inherited at exact tip `45217d5f509ef45f4453bc51753918acad30fb18`; V12 opened only after source audit38963565033, housekeeping38964215208 and final exact-head audit38964267253 succeeded. Afterword `part0017`, electronic bonus **伝説の魔女** `part0020`, other body members, illustrations, later and side narratives are excluded/unread. Gen03 model/predictions and original blank fields remain immutable; V10/V11 outcomes, RC-V09-01 and RC-V10-01 remain unchanged. These are additive V12 observations, **not Gen04 or a formal pooled-tranche adjudication**. See the [V12 deep reading](../02%20Sequential%20Readings/KONOSUBA_V12_DEEP_READING.md) for all17 responsibilities, exact locators, voice windows and census. Limited within-volume boundary-only preview arrived at C3P0410; full main reading still proceeded in source order. No humor classes/aggregates were exchanged before both coding files sealed.
+
+| ID / dyad | New state, causal script and scope | Source |
+|---|---|---|
+| RS-V12-01 Kazuma–Megumin | Mutual intermediate relation is now accepted. His low-arousal enjoyment of ordinary company precedes the decision; her gradual pace protects public household behavior. Secrecy and erotic postponement remain explicit. Neither completed exclusive couple nor merely an unanswered V11 proposal. | C1P0335–0376; C3P0550 |
+| RS-V12-02 Kazuma–Megumin | His appetite-based complaints misread her asserted affectionate intent; her awkward request and his self-discovery produce repair. His later coaching of Darkness violates his own salient Megumin commitment, while his self-exonerating helplessness is exposed. Respect for the relationship cannot be inferred from the initial refusal alone. | C1P0217–0229,0263–0277; C3P0465–0537 |
+| RS-V12-03 Kazuma–Darkness | Honest disclosure of comfort with Megumin elicits her loss fear and bodily offer; he refuses substitution and takes the confession seriously. Her love is for the person beyond a preferred bad-man type. Actual appreciation of an honest no coexists with renewed unwanted kiss/pinning and his later participation. | C3P0243–0384,0434–0506 |
+| RS-V12-04 Kazuma–Darkness | Mutual familiarity permits insults and comic retaliation but does not remove her privacy, dignity or distress. He ignores bath objections, uses exposure to defeat civic restraint, laughs after the failed dignified exit and directs the later performance. She retaliates physically and violates his initial stop requests. H2 amplification does not imply blanket permission. | C2P0273–0295; C3P0064–0095,0129–0136,0374–0506 |
+| RS-V12-05 Megumin–Darkness | Megumin deliberately leaves room for a confession and later affirms her friend's right to speak, without conceding unlimited physical intimacy. Jealous checking, first-kiss reaction and epilogue protest mark a boundary. Their concern is compatible with rivalry and teasing; no wholly maternal or wholly competitive script suffices. | C3P0138–0140,0541–0583; EpP0020–0026,0081–0084 |
+| RS-V12-06 Kazuma–Aqua | Game loss is not repaired merely by restoring equivalent progress: the named character has value. He dismisses her distress with fantasy; she nonetheless shares play, food repair and support. Tax support is a negotiated exchange under distrust generated by his departure. Practical dependence and irritation survive without automatic unconditional loyalty. | C1P0190–0204,0222; C2P0006–0012,0042–0045,0228–0239 |
+| RS-V12-07 Aqua–household | Aqua's inclusion turns the nervous date into a family picnic partly because the pair invited her. She wants Darkness/Sylphina included next time; later they actively reproduce it. Repeated ordinary company carries attachment more securely than a generic everyone-is-friends claim. | C2P0074–0086; EpP0027–0044 |
+| RS-V12-08 Darkness–Sylphina | Cousin care has a mother-like history, private Mama address and health responsibilities. The child sees domestic arguments as happiness, plays family with other companions, and later witnesses the romance. Direct kinship disclosure belongs only to V12; V11 ending remains unidentified historically. | C1P0038–0094,0111–0165; FP0407–0410; EpP0078–0080 |
+| RS-V12-09 Darkness–adventurers | Coercive tax collection brings resentment; mistaken suspicion of child corruption becomes shame after discovering real educational care. Visitors replace their prior motive with solicitude; she accepts support and thanks them. Aqua's attempted disclosure is suppressed. Public affection and name teasing do not eliminate hidden misinformation or her fear of resentment. | C3P0098–0103; C4P0079–0265 |
+| RS-V12-10 Darkness–Chris | Darkness offers Chris housing, urges her to save, and offers rank intervention if Chris is arrested; Chris blames Kazuma for corrupting the formerly rigid Darkness. Chris intervenes in actual danger and wishes to disclose her identity someday. Darkness overhears that there is a secret, not its precise content. | FP0016–0024,0351–0395; EpP0058–0061 |
+| RS-V12-11 Kazuma–Chris | Chief/assistant familiarity permits gossip and professional co-boasting. Both conceal failure from Darkness and use her guilt as a deflection, while real sensing/binding skills and rescue remain. After Chris cries following rescue, Kazuma offers an insensitive gender inference that Darkness stops; practical assistance is not the same as emotional tact. | FP0048–0250 |
+| RS-V12-12 Household / institutions | Temporary division supports a common care task; it is not sustained efficiency-driven removal. State changes in romance generate concern but no formal E02 trigger. Ending desires household continuity while leaving jealousy, disclosure and consent unresolved. | C5P0049–0060; FP0397–0438; EpP0063–0090 |
+
+## Manipulation, repair and forbidden overgeneralization
+
+Shared vulnerability knowledge works in both directions. Kazuma knows Aqua values food/alcohol and believable escape information; Darkness knows his luck and anticipates Steal; Megumin knows Aqua's superior nightvision and spends a won favor to enlist her; Aqua physically recovers the key. The thieves know Darkness's guilt and use it to end criticism. These are real social capacities with different ethical uses, not a single kindness score (C1P0178–0181; C2P0231–0239,0298; C3P0516–0519; FP0241–0249).
+
+Routine aggression remains distinguishable from serious harm. D's honest loss fear, actual confession tears and gratitude are not only punchlines; the broken exit then creates a comic humiliation that Kazuma actually worsens. Her bodily enthusiasm in the count's arena does not retroactively imply consent to public stripping during the tax sting, bathing beside a naked man or every later audience. Likewise Kazuma's eventual active coaching cannot retroactively consent to the initial kiss/pinning. Epilogue kisses and the harem wish show unresolved boundaries rather than a completed repair or settled ethical development.

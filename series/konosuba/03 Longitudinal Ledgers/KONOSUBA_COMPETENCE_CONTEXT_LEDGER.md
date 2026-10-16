@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V11
+scope: V01-V12
 ledger_role: competence_context
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V11 main narrative
+source_boundary: Japanese main-series light novels through V12 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Competence-in-Context Ledger — Through V11
+# KONOSUBA Competence-in-Context Ledger — Through V12
 
 ## Governing rule
 
@@ -580,3 +580,38 @@ Her broad detector question accepts an ambiguous answer, and generic peace theol
 ## Iris, Komekko, Luna and ensemble boundaries
 
 Iris's plain royal-duty reasoning, gift protection and rescue initiative are direct evidence beyond raw force. Komekko is resourceful with food access and reporting, but her battle report is causally thin; a succubus's proposed demon-tamer aptitude is qualified testimony. Luna accurately matches capacity to work while manipulating the audience. In the final fight, the unnamed thief, other casters/frontline fighters, Darkness, Kazuma and Megumin all contribute. Their initial formation permits disruption; later allocation/pressure improves deployment. No equally necessary contributions or completed alternative-organizer comparison is inferred. C1 P0288–0389/P0608–0633; C4 P0062–0136/P0534–0580; F P0043–0068/P0203–0357; Ep P0092–0103.
+
+
+# V12 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V12 main narrative only: Pr/C1–C5/F/Ep = `text/part0009.html`–`part0016.html`; all-body paragraph enumeration includes blanks/images, ruby uses base text with rt/rp removed and tails retained. **2,841 paragraphs / 2,624 nonempty / 101,448 base characters.** Stored EPUB1,570,295B, SHA-256 `d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24`, Drive object `1QO85Z8nCYnH_J0H6KcB0UHs8eOS4pikn`. V01–V11 accepted state is inherited at exact tip `45217d5f509ef45f4453bc51753918acad30fb18`; V12 opened only after source audit38963565033, housekeeping38964215208 and final exact-head audit38964267253 succeeded. Afterword `part0017`, electronic bonus **伝説の魔女** `part0020`, other body members, illustrations, later and side narratives are excluded/unread. Gen03 model/predictions and original blank fields remain immutable; V10/V11 outcomes, RC-V09-01 and RC-V10-01 remain unchanged. These are additive V12 observations, **not Gen04 or a formal pooled-tranche adjudication**. See the [V12 deep reading](../02%20Sequential%20Readings/KONOSUBA_V12_DEEP_READING.md) for all17 responsibilities, exact locators, voice windows and census. Limited within-volume boundary-only preview arrived at C3P0410; full main reading still proceeded in source order. No humor classes/aggregates were exchanged before both coding files sealed.
+
+## Capacity / deployment / goal / judgment separation
+
+| Actor / domain | Directly supported capacity and deployed result | Limitation or competing mechanism | Sources |
+|---|---|---|---|
+| Kazuma — institutions and incentives | Understands credible advance information, division incentives, Steal affordances, tax deadline and rival jurisdictions; revises when lift/flight plans fail. | Sexual exposure and police theft are deliberate costs to others. Narrow evasion success does not justify means or establish civic wisdom. | C2P0218–0363 |
+| Kazuma — practical survival | Proposes combining sensing, long sight and Sniper to hunt after rejected rations; the next scene reports a horned rabbit caught and eaten. Ordinary discomfort recruits an actionable plan, but the elided individual skill sequence is not independently shown. | Camping fire safety is not globally proven; sexual anticipation repeatedly misreads Darkness's practical need. | C5P0174–0313 |
+| Kazuma — infiltration | Uses sight/sensing/stealth, routes, ropes and binding. Eventually adopts D's superior fit for strength/local architecture. | Claimed professionalism exceeds his climbing/door/location knowledge. Acceptance is genuine but verbally disguised as superior permission; no universal planning supremacy. | FP0113–0192 |
+| Kazuma — crisis adaptation | Cuts burning tentacles, rejects creating more apertures, uses pre-acquired Aqua water and stays with D. | Wire release was unplanned; D collapses; Eris supplies final rescue. Prepared water is a meaningful contribution, not a complete isolated solution. | FP0327–0395 |
+| Kazuma — social understanding/regulation | Can recognize developing ease with Megumin, answer a painful confession honestly, understand incentives and predict companions. | Also misreads toilet urgency as heroism, exploits guilt to deflect, ignores privacy, continues degrading comments and teaches coercion while claiming helplessness. Capacity does not entail ethical use or inhibition. | C1P0335–0365; C3P0243–0250,0465–0537; C5P0288–0307; FP0241–0249 |
+| Aqua — familiar support | Requested strength/speed buffs execute immediately. | Enhanced force still cannot lift ballast-laden D; no evidence of faulty casting. | C2P0234–0252 |
+| Aqua — healing | Sustained engaged healing exceeds depletion and preserves children through the material journey. | Carrier pathology persists; antidote is necessary. Reward timing is unknown, so ability and constructive recognition mechanism are separately weighted. | C4P0300–0320; FP0412–0424 |
+| Aqua — perception and craft-like initiative | Superior nightvision retrieves the unique key when K cannot; fishing byproduct is learned and exploited; offers useful food repair/provisioning. | Previously demonstrated nightvision is redeployed, but remains distinct from the explicit domains named in the frozen A01 trigger. Chick-as-dragon belief and overvalued confession ticket remain. | C2P0043–0045,0390; C3P0516–0527; C4P0069–0073; EpP0028–0035 |
+| Aqua — option search and task discipline | Tries available demon sources for a high-rank nail and adapts after body/rank information. | Wrong body model prompts violence; later addition threatens recipe coordination. Neither episode automatically supplies a prestige-challenge trigger. | C4P0323–0335; FP0428–0431 |
+| Megumin — games/social planning | Card control repeatedly beats Aqua; uses a won favor to enlist Aqua, whose previously demonstrated nightvision retrieves the key and resolves the cuff problem; respects D's opportunity to confess. | Kazuma's claim that she understands everything is not independently confirmed. Compassion and jealousy coexist. | C3P0072–0079,0123–0128,0516–0583 |
+| Megumin — domestic/academic | Child play, fish preparation, overnight recipe research and actual mixing expand her demonstrated range beyond firing. | Contested recipe precedence among her, Vanir and Wiz remains unshown. Pr bartender comparison is Kazuma's jab, not an independent skill test. | C1P0111–0165; FP0424–0432; PrP0016–0018; EpP0036 |
+| Megumin — power control | Explicitly reduces Explosion for recovering Sylphina and knows aesthetic versus instrumental scoring; routine post-cast mana support is used. | No complete new combat artillery or known grave-friendly-fire conjunction. Depletion leaves her physically vulnerable to D's teasing. | C2P0055–0064; EpP0013–0026 |
+| Darkness — institutional planning | Anticipates luck/Steal, uses ballast/cuffs and a coordinated public tax sting; family educational trial has independent prior existence. | Unique key discarded without recovery contingency; coercive exposure defeats capture. Renewed work is observed, completed monster removal only forecast. | C2P0183–0298; C4P0053–0068,0170–0220 |
+| Darkness — practical/local expertise | Drives carriage with attention to pace, plans basic campsite and knows the count's location/lifting door; supplies climbing strength. | Toilet device causes dangerous noise; food assumptions fail; admits limited teaching ability. No global common-sense deficit follows. | C5P0074–0082,0174–0223,0257–0273; FP0134–0189; C4P0183 |
+| Darkness — combat decomposition | Exceptional strength/endurance and defense make binding, aperture blocking and harm absorption useful; accepts real bodily cost. | Cannot hit goblins reliably; desired pleasure defeats the count's emotional win condition. Burns and unconsciousness show finite capacity; Eris eventually frees her. | C5P0479–0571; FP0312–0395 |
+| Chris/Eris — specialized aid | Carries standard thief tools, detects threats, uses a strong anti-demon dagger, finds nail after cutting wing and supplies later divine rescue. | Rope climbing and local architecture fail; her adoption of Kazuma's broad female-fear inference exposes her; demon zeal violates material objective and introduces wounds. Rescue is real, not proof of universal task alignment. | FP0113–0225,0275–0395 |
+| Vanir/Wiz — medical knowledge | Vanir identifies toxin/carrier conditions, ingredient need and continued hidden risk; Wiz offers a recipe as a magic-shop specialist. | Knowledge authority is debated; no shown isolated winning formula. Vanir's body is unusable soil for the nail. Do not elevate all demonic knowledge claims into narrator fact. | C4P0307–0335; FP0422–0432 |
+
+## Interpretation
+
+The volume repeatedly separates looking like a professional from possessing the relevant component. Darkness appears the novice burglar but knows the architecture and has strength; the thieves retain real sensory/binding tools while appropriating credit. The demon expects deliberate sword restraint, yet Darkness's sword blows actually miss; he expects humiliation, yet she enjoys the event. Aqua seems to have cured everyone, yet supplies temporary life support. Each correction changes the causal model without requiring a global smart/stupid axis.
+
+Shared-work organization is useful but not sufficient. Early role allocation makes simultaneous care, preparation and collection possible; accepted strength/local expertise fixes access; named battle roles acquire the nail. The missing wire-release contingency, concealed target identity, Chris's killing preference and competing recipe authorities remain failures of resources, information and goal alignment. The novel does not show that Kazuma alone can supply every arrangement or that a successful partial handoff guarantees safe completion.

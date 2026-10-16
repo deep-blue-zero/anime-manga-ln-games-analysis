@@ -93,7 +93,8 @@
     "No nonmain source is narratively admitted by this identity matrix. Conditional components require individual boundary, author, locator, authority and inspection records.",
     "Print ISBNs and publisher credits identify official bibliography; exact supplied EPUB edition and component completeness remain separate checks.",
     "V01-V10 READ_COMPLETE and ANALYZED are inherited maintained repository states. Other main volumes begin sequential inspection only when their units begin.",
-    "No analytical completion declaration follows from all41 metadata/bytes reconciliation."
+    "No analytical completion declaration follows from all41 metadata/bytes reconciliation.",
+    "listed_in_incremental_calibre_import_manifest indicates only whether the canonical witness has a record in the retained incremental calibre_import_manifest.json import set. A false value does not establish absence of prior Calibre processing or absence from the separate full current media inventory; all 41 canonical witnesses occur in that full inventory."
   ],
   "objects": [
     {
@@ -208,7 +209,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -418,7 +419,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -628,7 +629,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -839,7 +840,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -1075,7 +1076,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -1310,7 +1311,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -1544,7 +1545,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -1780,7 +1781,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -1993,7 +1994,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -2229,7 +2230,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -2448,7 +2449,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -2756,7 +2757,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -2786,12 +2787,15 @@
           "METADATA_VERIFIED",
           "BYTE_VERIFIED",
           "STRUCTURE_VERIFIED",
-          "NARRATIVE_ADMITTED"
+          "NARRATIVE_ADMITTED",
+          "READ_COMPLETE",
+          "ANALYZED"
         ],
-        "narrative_reading_state": "NOT_CANONICALLY_ACCEPTED_AT_RECONCILIATION",
+        "narrative_reading_state": "PRINCIPAL_MAIN_NARRATIVE_READ_COMPLETE_AND_ANALYZED; OTHER_EPUB_COMPONENTS_OPEN",
         "main_v01_v10_state_basis": null,
         "metadata_exposure": "Package bytes, metadata and structure may be decoded without narrative semantic inspection.",
-        "component_audit_completeness": "NOT_ESTABLISHED_BY_THIS_METADATA_RECONCILIATION"
+        "component_audit_completeness": "Principal eight-member narrative mapped and read; bonus navigation mapped but unread; remaining editorial/visual/edition inspection open.",
+        "completion_scope": "text/part0009.html through text/part0016.html only; excludes separately identified bonus, afterword, images, colophon and promotion."
       },
       "workstream": "MAIN_SERIES_DERIVATION",
       "frozen_validation_designation": "NO_OUT_OF_SAMPLE_SCORE_AUTHORITY",
@@ -2799,32 +2803,105 @@
         {
           "component_kind": "principal_prose",
           "nature": "narrative",
-          "presence": "NOVEL_IDENTIFIED",
-          "disposition": "NARRATIVE_ADMITTED",
+          "presence": "EIGHT_MAIN_MEMBERS_VERIFIED",
+          "disposition": "READ_COMPLETE_AND_ANALYZED",
           "stage_gate": "MAIN_SERIES_DERIVATION",
           "analytical_authority": "Main-series-only prospective derivation, respecting sequential boundary.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
-          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+          "inspection_state": "Complete ordered producer and independent humor-source readings; integrator full main reading; bounded reviewer checks.",
+          "required_action": "After V12 publication closeout, the V10–V12 checkpoint and Gen04 forecasts must be semantically accepted, committed, published and read back before V13 exposure; that checkpoint publication's full audit sequence must close before V13 publication. Preserve the V12 derivation boundary and keep other edition components separate; no Gen04 is established by this V12 transaction.",
+          "members": [
+            {
+              "label": "Pr",
+              "member": "text/part0009.html",
+              "member_sha256": "46c76f9e50369c8b1202bf03207047778a2a43e0879e0c475c3cda4235876098",
+              "paragraphs": 23,
+              "nonempty": 20,
+              "chars": 734
+            },
+            {
+              "label": "C1",
+              "member": "text/part0010.html",
+              "member_sha256": "969c064b40c2efd41fd73941f3a9645bd301d6dfab1c00d0fac09f2e4f605f49",
+              "paragraphs": 378,
+              "nonempty": 344,
+              "chars": 14457
+            },
+            {
+              "label": "C2",
+              "member": "text/part0011.html",
+              "member_sha256": "c98b5bfb627be5a78df510209dc9820a941c8962a9e851600c845dc6d5d602bf",
+              "paragraphs": 400,
+              "nonempty": 357,
+              "chars": 13341
+            },
+            {
+              "label": "C3",
+              "member": "text/part0012.html",
+              "member_sha256": "6a056909589058bca30ce989a6b06c3deef6a1c4577b4a8abe728cacceffc4fc",
+              "paragraphs": 583,
+              "nonempty": 550,
+              "chars": 19891
+            },
+            {
+              "label": "C4",
+              "member": "text/part0013.html",
+              "member_sha256": "1c6c24403c57af3e0a9462e2da5cbd02e167718d69322f7d01a9e38104de8bde",
+              "paragraphs": 346,
+              "nonempty": 321,
+              "chars": 12887
+            },
+            {
+              "label": "C5",
+              "member": "text/part0014.html",
+              "member_sha256": "fc3b0d46cdd18a686df87885665e1e3b877384c6aae34285d34a0713cdc58799",
+              "paragraphs": 582,
+              "nonempty": 545,
+              "chars": 21162
+            },
+            {
+              "label": "F",
+              "member": "text/part0015.html",
+              "member_sha256": "1d8af593820e85dc0b6db453efa5e29d8ea89b039667ecfa4db7a733007569de",
+              "paragraphs": 438,
+              "nonempty": 403,
+              "chars": 15622
+            },
+            {
+              "label": "Ep",
+              "member": "text/part0016.html",
+              "member_sha256": "f572a9dcc431590cfe995d876010db9859eec857f22a6100cece0b481d00a495",
+              "paragraphs": 91,
+              "nonempty": 84,
+              "chars": 3354
+            }
+          ]
         },
         {
           "component_kind": "embedded_bonus_fiction",
           "nature": "narrative_if_present",
-          "presence": "UNMAPPED",
+          "presence": "IDENTIFIED_IN_NAVIGATION",
           "disposition": "PENDING_COMPONENT_BOUNDARY_REVIEW",
           "stage_gate": "POST_VALIDATION_EXPANDED_CORPUS",
           "analytical_authority": "Do not merge separate bonus fiction into unqualified main-body authority.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
-          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+          "inspection_state": "NOT_READ; metadata label only",
+          "required_action": "Read and analyze separately after frozen-model validation; determine chronology and exact component attribution.",
+          "title": "伝説の魔女",
+          "members": [
+            "text/part0020.html"
+          ]
         },
         {
           "component_kind": "afterword_and_editorial_material",
           "nature": "editorial_if_present",
-          "presence": "UNMAPPED",
+          "presence": "AFTERWORD_IDENTIFIED_IN_NAVIGATION",
           "disposition": "CONTEXTUAL_ONLY",
           "stage_gate": "POST_VALIDATION_COMPONENT_REVIEW",
           "analytical_authority": "Author/editor commentary; distinguish from fictional events.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
-          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+          "inspection_state": "NOT_READ; remaining editorial resources not semantically inspected",
+          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection.",
+          "members": [
+            "text/part0017.html"
+          ]
         },
         {
           "component_kind": "illustrations",
@@ -2847,7 +2924,11 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "PRINCIPAL_MAIN_NARRATIVE_ANALYZED; EXPANDED_COMPONENTS_OPEN",
+      "analytical_artifacts": [
+        "series/konosuba/02 Sequential Readings/KONOSUBA_V12_DEEP_READING.md",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_V12_RECEIVING_REVIEW.md"
+      ]
     },
     {
       "source_id": "MAIN-13",
@@ -2967,7 +3048,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -3174,7 +3255,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -3392,7 +3473,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -3626,7 +3707,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -3867,7 +3948,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -4112,7 +4193,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -4381,7 +4462,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -4649,7 +4730,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -4921,7 +5002,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -5190,7 +5271,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -5463,7 +5544,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -5736,7 +5817,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -6009,7 +6090,7 @@
       "propagation_incremental_id_parent_name_size_match": true,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": true,
+        "listed_in_incremental_calibre_import_manifest": true,
         "purchase_receipts_inspected": false,
         "purchase_statement": "User-reported predominantly Rakuten Kobo purchase provenance applies to the five Calibre-imported objects; no transaction-level certification."
       },
@@ -6238,7 +6319,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -6470,7 +6551,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -6701,7 +6782,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -6945,7 +7026,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -7176,7 +7257,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -7392,7 +7473,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -7630,7 +7711,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -7869,7 +7950,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -8085,7 +8166,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -8330,7 +8411,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -8571,7 +8652,7 @@
       "propagation_incremental_id_parent_name_size_match": true,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": true,
+        "listed_in_incremental_calibre_import_manifest": true,
         "purchase_receipts_inspected": false,
         "purchase_statement": "User-reported predominantly Rakuten Kobo purchase provenance applies to the five Calibre-imported objects; no transaction-level certification."
       },
@@ -8805,7 +8886,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -9054,7 +9135,7 @@
       "propagation_incremental_id_parent_name_size_match": null,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": false,
+        "listed_in_incremental_calibre_import_manifest": false,
         "purchase_receipts_inspected": false,
         "purchase_statement": "Historical audit source identity preserved; no new purchase provenance claim."
       },
@@ -9334,7 +9415,7 @@
       "propagation_incremental_id_parent_name_size_match": true,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": true,
+        "listed_in_incremental_calibre_import_manifest": true,
         "purchase_receipts_inspected": false,
         "purchase_statement": "User-reported predominantly Rakuten Kobo purchase provenance applies to the five Calibre-imported objects; no transaction-level certification."
       },
@@ -9614,7 +9695,7 @@
       "propagation_incremental_id_parent_name_size_match": true,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": true,
+        "listed_in_incremental_calibre_import_manifest": true,
         "purchase_receipts_inspected": false,
         "purchase_statement": "User-reported predominantly Rakuten Kobo purchase provenance applies to the five Calibre-imported objects; no transaction-level certification."
       },
@@ -9904,7 +9985,7 @@
       "propagation_incremental_id_parent_name_size_match": true,
       "provenance": {
         "basis": "Canonical Drive object plus historical audit/import records; fresh bytes verified when receipt states VERIFIED.",
-        "calibre_imported": true,
+        "listed_in_incremental_calibre_import_manifest": true,
         "purchase_receipts_inspected": false,
         "purchase_statement": "User-reported predominantly Rakuten Kobo purchase provenance applies to the five Calibre-imported objects; no transaction-level certification."
       },
@@ -10215,7 +10296,35 @@
         "embedded_bonus_fiction"
       ],
       "admission": "PRINCIPAL_MAIN_PROSE_ADMITTED",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "Principal main narrative READ_COMPLETE/ANALYZED; identified bonus withheld; remaining EPUB-component audit open.",
+      "components": [
+        {
+          "component_id": "MAIN-12-MAIN",
+          "kind": "principal_main_narrative",
+          "members": [
+            "text/part0009.html",
+            "text/part0010.html",
+            "text/part0011.html",
+            "text/part0012.html",
+            "text/part0013.html",
+            "text/part0014.html",
+            "text/part0015.html",
+            "text/part0016.html"
+          ],
+          "disposition": "READ_COMPLETE_AND_ANALYZED",
+          "authority": "Prospective main-series derivation through V12; required V10–V12 checkpoint precedes V13; no Gen04 yet."
+        },
+        {
+          "component_id": "MAIN-12-BONUS-01",
+          "kind": "electronic_bonus_fiction",
+          "title": "伝説の魔女",
+          "members": [
+            "text/part0020.html"
+          ],
+          "disposition": "IDENTIFIED_NOT_READ",
+          "authority": "Post-validation expanded-corpus only; no prospective derivation authority."
+        }
+      ]
     },
     {
       "source_id": "MAIN-13",

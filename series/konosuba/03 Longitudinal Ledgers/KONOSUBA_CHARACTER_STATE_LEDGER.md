@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V11
+scope: V01-V12
 ledger_role: character_state
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V11 main narrative
+source_boundary: Japanese main-series light novels through V12 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Character State Ledger — Through V11
+# KONOSUBA Character State Ledger — Through V12
 
 ## Purpose
 
@@ -691,3 +691,54 @@ Iris is a child with combat strength, ordinary tastes and expressed constraints.
 Komekko now supports a limited recurrent profile: hunger shaped by scarcity, literal/blunt replies, food-directed resourcefulness, selective independence, admiration and a reporting assignment. Succubus speculation about demon-tamer aptitude remains qualified testimony. Luna repeatedly uses accurate task knowledge and the child's audience to mobilize labor, without a mature all-context profile. Lucy's stated gratitude, religious duty, and desire for a final verbal victory remain hers. Yunyun's off-page visit/village message is reported; no present invitation-plus-role execution tests Y01. Chris/Eris supplies no CE01 test. The final unknown child and final-fight thief remain source-required unnamed individuals.
 
 **Diary knowledge boundary:** Komekko is explicitly at the guild during the Lucy outing (C3 P0476), and is not shown at the final fight. Her compact adventure report is not certified direct witnessing; returned adventurers supply her final battle praise (F P0348–0357). Her private-visit quotation is explicitly based on eavesdropping (Ep P0098–0099).
+
+
+# V12 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V12 main narrative only: Pr/C1–C5/F/Ep = `text/part0009.html`–`part0016.html`; all-body paragraph enumeration includes blanks/images, ruby uses base text with rt/rp removed and tails retained. **2,841 paragraphs / 2,624 nonempty / 101,448 base characters.** Stored EPUB1,570,295B, SHA-256 `d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24`, Drive object `1QO85Z8nCYnH_J0H6KcB0UHs8eOS4pikn`. V01–V11 accepted state is inherited at exact tip `45217d5f509ef45f4453bc51753918acad30fb18`; V12 opened only after source audit38963565033, housekeeping38964215208 and final exact-head audit38964267253 succeeded. Afterword `part0017`, electronic bonus **伝説の魔女** `part0020`, other body members, illustrations, later and side narratives are excluded/unread. Gen03 model/predictions and original blank fields remain immutable; V10/V11 outcomes, RC-V09-01 and RC-V10-01 remain unchanged. These are additive V12 observations, **not Gen04 or a formal pooled-tranche adjudication**. See the [V12 deep reading](../02%20Sequential%20Readings/KONOSUBA_V12_DEEP_READING.md) for all17 responsibilities, exact locators, voice windows and census. Limited within-volume boundary-only preview arrived at C3P0410; full main reading still proceeded in source order. No humor classes/aggregates were exchanged before both coding files sealed.
+
+## Satou Kazuma — chosen attachment, resourcefulness and unstable self-restraint
+
+**Affect is not exhausted by appetite.** After the paid nap has lowered immediate arousal, Kazuma imagines ordinary talk, food and an Explosion outing and discovers he still wants Megumin's company (C1P0335–0348). He then mutually accepts an intermediate relation, secrecy and postponed erotic conduct (P0361–0376). This is a new accepted state beyond V11's unanswered proposal, while remaining short of a proper exclusive couple. His honest description to Darkness emphasizes natural ease and gradually growing significance (C3P0243–0250). These are high-context H1 self-reports, not objective access to every unconscious motive.
+
+**Honest refusal is a state, not a permanent brake.** Darkness's confession is gratifying, yet he rejects convenient doubleness (C3P0335–0370), accepts the emotional cost and receives thanks for taking her seriously. Her surprise kiss and pinning initially override his stated stop requests (P0434–0456); later he remembers Megumin, sees an available free hand/Drain and directs Darkness to defeat his resistance, supply role lines and undo his belt (P0465–0506). The scene changes into active direction of his own supposed helplessness. Preserve both the initial unwanted act and the later voluntary coaching; neither retrospectively erases the other. His rescuecry, subsequent victim-blaming and voluntary seiza under Megumin's gaze expose self-exoneration (P0511–0537). H2 magnifies the performance, but the contradiction between stated commitment and selected assistance is direct evidence.
+
+**Reward and effort have several routes.** Praise from being called senpai is noticed before he asks for more, until Chris redirects him (FP0146–0155). He also seeks public romantic standing and knowingly lets first-kiss facts imply more than occurred (C4P0031–0039,0267–0284). Comfort recruits rabbit hunting when romanticized adventure rations fail (C5P0207–0227). Particular child/companion need recruits purchasing, money offers, negotiation, illegal entry and actual rescue work, but the initiating entrusted request is not shown as cleanly as the accepted paired assignment (C5P0051–0060,0392–0397; FP0327–0398). Do not equate every effort with one motive or call the narrower K02 test fully confirmed from generic helpfulness.
+
+**Competence is real and morally nonuniform.** Tax escape revises through bargain, tool use, exposure coercion and jurisdiction; infiltration depends on Darkness's strength and local knowledge despite his professional rank claims (C2P0218–0363; FP0113–0192). Prepared Aqua water buys time but does not complete the rescue: Darkness loses consciousness and Eris intervenes (FP0358–0395). He exploits a policewoman and publicly humiliates a companion while solving his own problem; effectiveness supplies no ethical acquittal. His final pleased harem appraisal (EpP0088) is another current reward state beside the earlier painful refusal, not a settled single principle.
+
+**Distress limits remain adverse.** C3P0179 tears-in-eyes during a sexualized accusation is followed by continued accusation, disappointed checking and a nickname at P0189. Cue operation and pre-cue motive remain ambiguous relative to exact K04, but embarrassment, her arousal and his legitimate intrusion complaint are not automatic exclusions. C3's later genuine flowing-tear care began as serious concern before crying and cannot validate a newly triggered stopping rule. Chris's crying after rescue does not prevent an insensitive gender inference (FP0217–0225). V11 K04 remains FALSIFIED; V12 does not rehabilitate it.
+
+## Aqua — engaged care, task boundaries and valuable mundane company
+
+Aqua's correct buff execution and sustained healing are strong domain evidence (C2P0234–0240; FP0419–0422). The carrier remains internally ill: she supplies life support exceeding depletion, not a cure or proof the journey was unnecessary. Offerings are visible at return; their earlier motivational timing is unshown. A03 observes the sustained-owned-service component only; recognition-conditioned continuation remains NOT_TESTED and receives no causal confirmation credit. Active capacity, continuation motivation, diagnosis, cure and system effects remain distinct.
+
+Her mother-like provisions, warning that resurrection will be unavailable, offered food repair and efforts to amuse Sylphina establish ordinary care alongside greed and impulsivity (C1P0190; C2P0014–0015,0043–0045; C5P0008–0019). She gives useful and intrusive gifts, while taking the largest fish for her labor yet refusing the child's offered portion because a child should eat (EpP0038–0042). These are not contradictions requiring a wholly selfish or wholly maternal model.
+
+Aqua's pact with Kazuma is conditional: distrust cites his castle departure and aid follows disclosed information (C2P0228–0239). Her tax evasion succeeds but a discovered-on-route fallback pond is nearly boiled by officials; neither uselessness nor safe perfect planning describes it. Physical discipline is ineffective when she heals herself; the alcohol-supply threat matters (C1P0178–0181). She can learn a useful fishing byproduct while remaining socially misaligned with a face-saving coalition (C4P0243–0246; EpP0028). Calling her truthful interruption foolish would adopt Kazuma's preference for concealing the visitors' shame.
+
+Her punch at Vanir is ingredient-directed under a false body model, not a demonstrated prestige capture (C4P0323–0335). The recipe addition claims enhancement and risks goal interference, but no independent prior divine-status challenge supplies A02's complete trigger (FP0428–0431). Conserve both actual knowledge gaps and untested mechanisms.
+
+## Megumin — specialty continuity and deliberate relational pacing
+
+Megumin directly fears replacement and abandonment, yet her description of being a deficient magician in romantic competition is not accepted build-causes-contribution guilt (C1P0277–0285). She requests an intermediate relation because public behavior and pace matter, accepts Kazuma's imperfect answer, and specifies secrecy/no erotic conduct (P0271,0361–0376). In the confession aftermath she grants Darkness room to speak and explicitly says they are not proper lovers (C3P0541–0553); later checking and the epilogue protest show that permission does not mean unlimited equanimity or lack of jealousy (P0570–0583; EpP0081–0082).
+
+She is capable in games, child play, practical food preparation and research beyond terminal fire (C1P0111–0165; C3P0072–0079,0123–0128; FP0424–0432; EpP0036). All-night research and mixing do not independently establish that her contested recipe is superior to Wiz or Vanir, nor that Kazuma's bartender comparison is objective. The familiar-sacrifice proposal is not an executed sacrifice and remains an adverse adjacent limit on universal care claims (C4P0339–0341).
+
+Explosion remains a shared aesthetic practice, defended when its scoring is called foolish (C2P0055–0071; EpP0013–0026). Explicitly reduced power for a recovering child is genuine control and consideration (EpP0014–0016), without the full grave-friendly-fire tactical M05 conjunction. She can value spectacle, play, spectators and care together; exclusive maximum output is not her only demonstrated rule.
+
+## Darkness — public institutions, individual love and conflicting scripts
+
+Sylphina is newly named as her cousin, with maternal kinship and illness history supplied through family testimony (C1P0038–0072). Private Mama address is allowed while public naming is regulated; coughing immediately recruits rest and overnight care. Her prior school work and family funding precede Kazuma's discovery, and she admits limited teaching skill (C4P0170–0183). Taxes principally support adventurer disability/treatment/pensions; orphanage spending is a temporary bridge normally borne by the family, to be repaid (P0216–0220). Renewed guild work is observed; completed regional monster clearance is not.
+
+She chooses civic capture, anticipates Steal and adds ballast, but sexual-exposure coercion makes her flee despite duty guilt (C2P0183–0295). Later enjoyment of related restraint/exposure imagery limits any uniformly aversive rule (P0315–0329). Her personal privacy is explicit in the bath dispute; it is not answered by Kazuma's lack of embarrassment (C3P0067–0095). Avoid defining every arousal as consent to every later condition.
+
+Her own confession changes the model from a fixed preferred bad-man type to love for this particular historical person (C3P0318–0344). She fears both losing him and changing the whole household, offers bodily substitution, appreciates honest refusal and then initiates unwanted physical acts. Her epilogue statement against forcing the pair apart is followed by another surprise kiss (EpP0063–0086). Stated intention, genuine attachment, personal boundaries and boundary crossing must all remain available.
+
+She claims learned pragmatism permits concealing a demon to protect children, yet rejects illegitimate rank pressure (C5P0370–0380,0413–0414). The count's irrelevant faith question makes the speech bathetic, not insincere. In the final defense-aligned task she consents to binding, blocks burning apertures and offers to remain while others transport medicine (FP0312–0367). Pleasure coexists with actual pain, limited endurance and unconsciousness; Eris eventually frees her. The earlier contest fails because sword accuracy and desired affect do not meet the demon's criterion. Neither failure cancels real protective effort nor intention guarantees results.
+
+## Chris/Eris, Sylphina and evidence-limited secondary roles
+
+Chris donates much of her earnings and drinks the rest, accepts friend-funded lodging, enjoys company and intrusive gossip, and is protected by Darkness's worry (FP0006–0090). D's prayers and Chris's arrival are connected by Kazuma, not an independently confessed divine motive. Learning that the count is a demon triggers Chris's sudden, mission-disruptive lethal zeal; Chris is redirected toward collecting nails first, and Eris later rescues Darkness and punishes the count (FP0275–0395). This is not CE01's public cumulative burden test. Darkness knows that a hidden identity exists because she overheard; the epilogue does not show that she knows it is Eris. Sylphina's politeness, play, food offering and attachment are actual short-span observations, not a mature full-person model. Yunyun/Iris occur only in reports; their frozen tests receive no new direct matched evidence.

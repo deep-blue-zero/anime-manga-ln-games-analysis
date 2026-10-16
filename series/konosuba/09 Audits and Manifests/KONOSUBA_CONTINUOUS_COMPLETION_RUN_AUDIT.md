@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Main-series analysis accepted through V11; source identity and bibliographic reconciliation cover all 41 initial-snapshot EPUBs; side narrative remains withheld
+source_boundary: Main-series analysis accepted through V12; source identity and bibliographic reconciliation cover all 41 initial-snapshot EPUBs; side narrative remains withheld
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -16,21 +16,23 @@ do_not_use_as_current_authority: false
 
 The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_COMPLETION_PROMPT.md` and explicitly requires live reconciliation of all eight source folders and all 41 EPUBs. It authorizes continuous main-series execution from the verified next unit through V17, then the existing synthesis/reconstruction/validation program and applicable expanded prose. Routine unit transitions require no new confirmation. This record is operational provenance; the [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) remains the single project entrypoint.
 
-| State item | Verified state at this source-reconciliation transaction |
+| State item | Current source-unit state; dated entry observations explicitly retained |
 |---|---|
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
-| Accepted high-water mark | V11 |
-| Current phase | Main-series derivation; V11 accepted, exact publication closeout required before V12 |
-| Next canonical source transaction | V12, unopened |
+| Accepted high-water mark | V12 |
+| Current phase | Main-series derivation; V12 accepted, publication closeout and V10–V12 checkpoint due |
+| Next canonical operation | V10–V12 checkpoint and Gen04 forecast freeze; V13 remains unopened |
 | Current prospective model | Gen03, derived from V01–V09; V10–V12 tranche OPEN |
-| Latest published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
-| Main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
-| Local ordinary reconciliation commit | `a334381e3da75fb7455caf397e8f88d889939cfd` |
+| Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
+| Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
+| Initial local ordinary reconciliation commit | `a334381e3da75fb7455caf397e8f88d889939cfd` |
+| Latest fully audited published source head before V12 | `45217d5f509ef45f4453bc51753918acad30fb18` |
+| Main verified during V12 preparation | `8a01820dcac68b600307f4505422c3aeed453cab` |
 | Side narrative / ebook bonus exposure | Not admitted in this phase |
 | Source-access blocker | None found: all 41 original EPUB byte streams retrieved |
 
-V11’s complete reading, census/voice responsibilities, ten affected ledgers, map, source coverage and semantic acceptance close together in this transaction. The [V11 review](KONOSUBA_V11_RECEIVING_REVIEW.md) distinguishes acceptance from publication and records exact identities. V12 remains unopened until the source audit, housekeeping and final exact-head audit have closed. The later expanded program remains authorized but dependency-gated. No unsupported background-execution claim is made.
+V12’s complete principal reading, census/voice responsibilities, ten additive ledgers, map, source coverage and semantic acceptance close together in this source transaction. The [V12 review](KONOSUBA_V12_RECEIVING_REVIEW.md) distinguishes acceptance from publication and records exact identities. The V10–V12 checkpoint and any next source access remain subject to their separate required closeouts and forecast-before-exposure boundary. The later expanded program remains authorized but dependency-gated. No unsupported background-execution claim is made.
 
 ## Repository reconciliation and preservation
 
@@ -55,7 +57,7 @@ The two historical language audits retain their declared 20-book and V07-only bo
 
 Fifteen EPUBs retain mimetype-ordering/compression warnings. This is distinct from corrupt ZIP/member data or inability to read the source; a full external EPUBCheck conformance run is not claimed. Five books have image-only reading spines: Cheers 137 wrappers, Blessing 157, Official Memorial Fanbook 121, core TRPG 333 and advanced TRPG 331. Text extraction therefore supplies no substitute for their page-image inspection. Their prose, editorial, rules, scenario and illustration boundaries remain required later work.
 
-The metadata and byte tasks inspected package identity/structure, not fictional prose. Their receipts cannot promote READ_COMPLETE, ANALYZED or VALIDATION_USED. Main V01–V10 completion is inherited from accepted analytical artifacts; V11’s principal narrative completion is established by the new source-unit review. All future and side-source narrative stays outside earlier prospective states.
+The metadata and byte tasks inspected package identity/structure, not fictional prose. Their receipts cannot promote READ_COMPLETE, ANALYZED or VALIDATION_USED. Main V01–V10 completion is inherited from accepted analytical artifacts; V11 and V12 principal narrative completion is established by their separate source-unit reviews. All future and side-source narrative stays outside earlier prospective states.
 
 ## Stage ownership and analytical scope
 
@@ -75,7 +77,7 @@ The run's scope is the fixed 41-object inventory and identifiable edition-contai
 |---|---|
 | Live eight-folder/41-object identity and manifest reconciliation | COMPLETE_FOR_DECLARED_METADATA_AND_BYTE_SCOPE |
 | Exact supplied-edition and every narrative-component boundary | OPEN; direct component/colophon inspection remains |
-| Main sequential readings and synchronized ledgers through V17 | OPEN; accepted through V11 |
+| Main sequential readings and synchronized ledgers through V17 | OPEN; accepted through V12 |
 | Gen04, Gen05 and final sequential checkpoint | NOT_COMPLETE |
 | Required main-only specialists, monographs and integrative artifacts | NOT_COMPLETE |
 | Required reconstruction suite and simulation/consistency audit | NOT_COMPLETE |
@@ -108,3 +110,19 @@ Independent all-41 review against source publication `076dc21caf5ab0a109212a08c5
 - **SR-20261016-02 — REVISE stale live routing.** The source inventory's front-matter boundary still said accepted through V10 although the V11 reading, all ten ledgers, map, source lock and MAIN-11 coverage were accepted/published. Changed only that current header to V11; the complete source lists and historical audit descriptions are preserved. V12 remains unopened.
 
 This is a diagnosed metadata correction under the ordinary correction/publication route. Its exact four authored paths are the two source-matrix representations, source inventory and this existing run audit. The V11 analytical reading, ten ledgers, acceptance review, original source witnesses/manifests, publisher records, fixed 41-object seal, frozen models/predictions, blank fields, prior outcomes, four holdouts and all stage gates remain unchanged. The V11 receiving-review identity table records its original `076dc21` candidate; these attributable later metadata revisions do not rewrite that historical receipt. No metadata check is counted as narrative inspection or expanded completion. This corrected head requires its own source audit, housekeeping and exact final audit before V12 opens; an older audit cannot certify it.
+
+## V11 and metadata-correction closeout; V12 source transaction — 2026-10-16
+
+V11 was published as `076dc21caf5ab0a109212a08c52975a0c4691dfd`, tree `f6e79997fa5e84adba9892c9b7e72b77c6086a4f`, with ordinary preserved parents `2637e2b810b5eabe5cd12079ff89c3ced73356d5` and current main `8a01820dcac68b600307f4505422c3aeed453cab`. Source audit38962583616, housekeeping38963252955 and exact final audit38963306440 all succeeded. No protected-main or forced write occurred.
+
+The attributable source corrections SR-20261016-01/02 were separately published as `45217d5f509ef45f4453bc51753918acad30fb18`, tree `d7ec1cd9456dbfecfadd7da60527dec3ac3f4415`, parent076dc21. They preserved all33 other KonoSuba files, added the actual OPF dcterms:modified observations for all41 objects, and synchronized the inventory's live header. Source audit38963565033 passed; housekeeping38964215208/job117186535723 reported actual SOURCE_SHA45217d5f and no-op success; final audit38964267253/job117186703890 reported actual AUDIT_COMMIT45217d5f and exact integration-status success. Workflow dispatch main-head metadata was not mistaken for its audited source target. Root verified the exact status before V12 opened at2026-10-16T20:48:48.283Z.
+
+V12's eight principal members were then read completely in order:2,841 all-body paragraphs/2,624 nonempty/101,448 base characters. Exact stored source SHA256 remains `d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24`. All25 frozen forecasts receive local dispositions; original Gen03 and historical outcome blocks are unchanged. A03 receives no causal recognition-continuation confirmation, K04 retains strong adverse partly matched evidence and V11 falsification, D02 retains prior and later contrary responses, and unshown recovery or safety conditions are not supplied by successful intermediate acts.
+
+The accepted130-unit census preserves119 initial lineages plus10splits−3merges+4additions and five no-count context extensions. Its conservative127clear portable/three mixed result is local only. Primary and independent class files both sealed before codes or aggregates were exchanged; limited later-within-V12 boundary preview is disclosed rather than represented as blind discovery. All14 fixed voice windows survive; an erratum corrects a role gloss outside the frozen registry. Named-actor and coordinate checks remain distinct from semantic source review.
+
+Preacceptance corrections remove a false first-observation claim for Aqua nightvision and distinguish proposed rabbit-hunting skills from an elided reported result. Root's attempted C1P0190 care-locator correction was rejected after primary recheck: the original Aqua-game passage is valid. A bounded current MAIN-02 witness recheck corroborates earlier nightvision without claiming a full V02 reread, identifying its historically unspecified original witness, or retrofitting new coordinates into an old freeze. The review records all actual reader scopes and exposure limits.
+
+This same transaction clarifies the41 Calibre provenance flags by renaming them to `listed_in_incremental_calibre_import_manifest`, retaining all five true/36false values and defining the incremental scope. False does not mean no previous Calibre processing. Exact inverse operations recover the previous complete matrix; the identity projection remains unchanged. MAIN-12 is the only object whose narrative reading state advances. Bonus伝説の魔女, afterword, images, exact-edition and all later/side component obligations remain open.
+
+V12 semantic acceptance is not a claim that the containing publication has already passed CI. Its own exact source audit, actual housekeeping result and final exact-head integration status must be observed after publication. The V10–V12 formal checkpoint, J02 pooled judgment and Gen04 forecast freeze remain separate next work. No V13 source has been opened and no expanded-stage gate is marked complete here.

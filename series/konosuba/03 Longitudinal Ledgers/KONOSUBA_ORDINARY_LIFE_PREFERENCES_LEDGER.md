@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V11
+scope: V01-V12
 ledger_role: ordinary_life_preferences
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V11 main narrative
+source_boundary: Japanese main-series light novels through V12 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Ordinary-Life and Preferences Ledger — Through V11
+# KONOSUBA Ordinary-Life and Preferences Ledger — Through V12
 
 ## Purpose
 
@@ -465,3 +465,35 @@ Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/x
 | Komekko — autonomy/communication | Blunt appraisals, explores without waiting for sister, records a report that captures private words more accurately than battle causality. | F P0006–0041; Ep P0092–0103. HIGH bounded recurring profile; no all-context mature model. |
 
 Ordinary-life evidence supplies limits on simulation: comfort can recruit effort; food can mean scarcity protection or play rather than only greed; the same speech form can serve apology or chosen acting; care can work by material access, not only crisis rescue. Specific source reports remain reports, and later corpus findings must not be backfilled into these through-V11 states.
+
+
+# V12 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V12 main narrative only: Pr/C1–C5/F/Ep = `text/part0009.html`–`part0016.html`; all-body paragraph enumeration includes blanks/images, ruby uses base text with rt/rp removed and tails retained. **2,841 paragraphs / 2,624 nonempty / 101,448 base characters.** Stored EPUB1,570,295B, SHA-256 `d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24`, Drive object `1QO85Z8nCYnH_J0H6KcB0UHs8eOS4pikn`. V01–V11 accepted state is inherited at exact tip `45217d5f509ef45f4453bc51753918acad30fb18`; V12 opened only after source audit38963565033, housekeeping38964215208 and final exact-head audit38964267253 succeeded. Afterword `part0017`, electronic bonus **伝説の魔女** `part0020`, other body members, illustrations, later and side narratives are excluded/unread. Gen03 model/predictions and original blank fields remain immutable; V10/V11 outcomes, RC-V09-01 and RC-V10-01 remain unchanged. These are additive V12 observations, **not Gen04 or a formal pooled-tranche adjudication**. See the [V12 deep reading](../02%20Sequential%20Readings/KONOSUBA_V12_DEEP_READING.md) for all17 responsibilities, exact locators, voice windows and census. Limited within-volume boundary-only preview arrived at C3P0410; full main reading still proceeded in source order. No humor classes/aggregates were exchanged before both coding files sealed.
+
+## Ordinary choices, material needs and preference limits
+
+HIGH marks direct conduct/present preference; MODERATE marks reports or narrator explanation. Constraints, jokes and convenient answers do not automatically establish stable tastes.
+
+| Person / dimension | V12 ordinary-life evidence | Locator / strength / limit |
+|---|---|---|
+| Kazuma — company and waking | With immediate desire lowered, he still anticipates idle conversation, packed food, a scenic lake and playing with Explosion alongside Megumin. He later wakes early because the proposed date excites him. Company attracts him beyond sexual opportunity; this does not make every invitation disinterested. | C1 P0335–0348; C2 P0022–0032. HIGH contextual self-report, not an invariant sleep schedule. |
+| Kazuma — games and possessions | He plays Aqua's game while talking to Megumin, loses the valued character through distraction, and restores progress without restoring the particular attachment. With a cuff preventing undressing, he cuts a worn shirt he was already considering discarding. Neither choice establishes universal recklessness or frugality. | C1 P0190–0204, P0219–0224; C2 P0006–0012; C3 P0083–0087. HIGH actions; character-loss substitution is inadequate to Aqua. |
+| Kazuma — bodily comfort | He insists on bathing after running and sweating, freely tolerates being seen naked, and actually goes to sleep after provocative warnings. The cuff imposes joint bath/toilet/bed constraints, not shared preferences. The daily-bath death claim exaggerates an explicit desire to wash. | C2 P0384–0400; C3 P0064–0095, P0129–0156. HIGH situated behavior; his comfort does not settle Darkness's privacy boundary. |
+| Kazuma — food, work and books | He prepares leftover frog steak overnight for sandwiches, objects when Aqua eats it and receives an apology and offer of help. He wants freedom to stop dangerous work once financially secure, yet the unfinished-manga analogy immediately recruits his concern for continuing entertainment. Chosen interests recruit effort without establishing general diligence. | C2 P0039–0045; C3 P0103–0119. HIGH preparation/self-report; the manga example shows valued continuation, not an observed new reading routine. |
+| Kazuma — money and conversational claims | He remembers a tiny unpaid family loan, resents Darkness returning apologetic gifts and offers resources for the medicine. Assets/trading are claims, not verified profits. His sudden “horses may be my favorite” speech follows an unwelcome Aqua comparison and changes the subject; retain the utterance without a stable animal ranking. | C5 P0108–0115, P0129–0142, P0393–0403. HIGH statements/reactions; financial competence and horse preference remain limited. |
+| Aqua — games, attachment and loss | She cries over Schneider, whom she says she raised carefully, and wants that character back rather than merely equivalent game progress. Kazuma casually dismisses the complaint with an afterlife story. She also repeatedly requests another card match despite losses. Virtual attachment cannot establish her response to actual bereavement. | C2 P0006–0012; C3 P0072–0079, P0123–0128. HIGH visible distress and rematch seeking; no clinical or universal grief model. |
+| Aqua — food, drink and useful leisure | Eating reserved leftovers interferes with others' plans, but she apologizes and offers sandwich help. Threatened alcohol restrictions substitute for ineffective physical punishment. She later learns to collect stunned fish after Explosion, claims the largest for her labor, yet refuses Sylphina's offered share because children should eat well. Appetite and generosity coexist. | C1 P0169–0181; C2 P0039–0045; Ep P0027–0029, P0038–0042. HIGH actions; her insult to Megumin qualifies the solicitude. |
+| Aqua — children and pet care | She reports playing with Sylphina while feeding Zell, interpreting the child's caution through her own dragon belief. She wants helpers for the chick's experience training and gives the travelers practical, intrusive and inappropriate precautions. Care investment verifies neither dragon identity nor every gift's wisdom. | C2 P0014–0015; C4 P0040–0048; C5 P0006–0065. HIGH requests/provisions; play encounter is reported. |
+| Megumin — play, children and food | She offers to entertain Sylphina and leads house play, which the narrator links to younger-sister experience. Her imposed father-role heroism meets Kazuma's contrary ambitions. Actual card locks and victories support tactical game skill; the near-unbeaten generalization exceeds the witnessed matches. Her skewered-fish preparation belongs beside magical specialty. | C1 P0107–0165; C3 P0072–0079, P0123–0128; Ep P0036. HIGH play/cooking; MODERATE generalized game assessment. |
+| Megumin — ritual and books | Explosion excursions include appreciative scoring, repeated thanks, food and spectators. She deliberately reduces power for recovering Sylphina, then defends the ritual when mocked. All-night medicine research is reported and she joins recipe preparation; disagreement with other specialists prevents inferring that her recipe won. Neither establishes a favorite genre or unlimited research willingness. | C2 P0050–0072; F P0424–0436; Ep P0013–0026. HIGH ritual and stated calibration; MODERATE research duration. |
+| Darkness — ordinary privacy and travel | She objects to seeing Kazuma naked while she stays clothed; his indifference to being seen does not answer her discomfort. During camping both abandon washing after accidental touch. Both initially welcome iconic hard bread and dried meat, dislike the actual hardness/salt and then enjoy hunted rabbit. Neither episode proves dislike of hygiene or adventure. | C3 P0067–0095; C5 P0174–0227. HIGH conduct; her initial excitement is partly narrator attribution. |
+| Darkness — children, books and material care | Coughing recruits rest and an overnight stay; she allows private Mama address while regulating public naming. She arranges peer company and participates in prior family-funded education, while admitting limited teaching skill. She directly likes the ink/new-book smell (C4P0158; the child echoes itP0159), a specific sensory preference without a whole-genre inference. Textbooks, meals and clothing make care material. She and Sylphina reportedly envied the earlier picnic and prepare this one, extending care into leisure. | C1 P0088–0094; C2 P0016–0020; C4 P0158–0159, P0170–0209; Ep P0031–0032. HIGH present care; peer arrangements are reported. |
+| Chris — spending, lodging and company | She wants the large inn, reports donating most money and drinking the remainder, and recruits companionship to obtain lodging. Darkness offers payment and urges savings; Chris says she has places to stay but supplies no stable residence. Group excitement and romantic gossip broaden leisure evidence; this spending report is not an all-income rule. | F P0006–0024, P0045–0090. HIGH requests/conduct; spending and accommodation history are self-reports. |
+| Sylphina and Chomusuke — bounded evidence | Sylphina enjoys play, maternal reassurance and the spectacle, then offers part of her fish when adults quarrel. Her mother's early death is reported, not present mourning. Megumin reports Chomusuke rejecting raw/bland food, following her to the bath and attacking Aqua's laundry. Invent neither motive nor later identity explanation. | C1 P0065, P0090–0094, P0111–0156; Ep P0010–0012, P0033–0040. HIGH child choices; MODERATE family history and pet reports. |
+
+## Household baseline after V12
+
+The picnic combines food, spectacle, useful fishing and quarrels answered by child generosity. Kazuma values this household's continuation without resolving its boundaries. Camp discomfort recruits actual work: rabbit is caught and eaten. Preserve changes between anticipation and experience; comic self-description is not an all-context rule.

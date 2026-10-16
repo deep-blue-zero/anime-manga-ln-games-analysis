@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V11
+scope: V01-V12
 ledger_role: seriousness_override
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V11 main narrative
+source_boundary: Japanese main-series light novels through V12 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Seriousness Override Ledger — Through V11
+# KONOSUBA Seriousness Override Ledger — Through V12
 
 ## Purpose
 
@@ -413,3 +413,29 @@ Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/x
 | SO-V11-10 F P0060–0068 | Aqua's ordinary anti-demon script. | She watches the succubi but does not attack; Kazuma attributes restraint to earlier anger/community consequences. | Actual inhibition observed; exact causal account is narrator-mediated, not a newly inspected past scene. |
 
 The Princess's distress and the guards' fear are not K04 valued-companion tests; their moral relevance is not erased by being outside that frozen scope. Risky memory erasure, punitive policing/taunting and serious physical danger retain their H1 consequences inside H2 presentation.
+
+
+# V12 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V12 main narrative only: Pr/C1–C5/F/Ep = `text/part0009.html`–`part0016.html`; all-body paragraph enumeration includes blanks/images, ruby uses base text with rt/rp removed and tails retained. **2,841 paragraphs / 2,624 nonempty / 101,448 base characters.** Stored EPUB1,570,295B, SHA-256 `d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24`, Drive object `1QO85Z8nCYnH_J0H6KcB0UHs8eOS4pikn`. V01–V11 accepted state is inherited at exact tip `45217d5f509ef45f4453bc51753918acad30fb18`; V12 opened only after source audit38963565033, housekeeping38964215208 and final exact-head audit38964267253 succeeded. Afterword `part0017`, electronic bonus **伝説の魔女** `part0020`, other body members, illustrations, later and side narratives are excluded/unread. Gen03 model/predictions and original blank fields remain immutable; V10/V11 outcomes, RC-V09-01 and RC-V10-01 remain unchanged. These are additive V12 observations, **not Gen04 or a formal pooled-tranche adjudication**. See the [V12 deep reading](../02%20Sequential%20Readings/KONOSUBA_V12_DEEP_READING.md) for all17 responsibilities, exact locators, voice windows and census. Limited within-volume boundary-only preview arrived at C3P0410; full main reading still proceeded in source order. No humor classes/aggregates were exchanged before both coding files sealed.
+
+| ID / transition | Ordinary or comic script → independent serious cue → response | Boundary and later state |
+|---|---|---|
+| SO-V12-01 C1P0088–0094 | Rumor denial and irritated maternal teasing stop when Sylphina coughs; Darkness prescribes rest, offers overnight care and permits Mama privately. | Concrete health need can outrank public-name embarrassment without erasing the public naming rule. Aqua's absence then returns the scene to rumor consequences. |
+| SO-V12-02 C1P0335–0376 | Sexual anticipation and responsibility sparring give way to low-arousal self-inquiry about ordinary companionship, then Kazuma and Megumin mutually accept gradual commitment. | It is an actual relational decision, not only a gag. C3 later tests its reliability; do not promote it to permanent fidelity. |
+| SO-V12-03 C3P0243–0312 | Provocative sleep/accusation script is already replaced by honest emotional conversation before actual flowing tearsP0289. Kazuma stays, waits and rejects bodily substitution. | This is serious care but cannot alone confirm a tear-triggered interruption of an ongoing reward pursuit. Earlier tears-in-eyes/continued accusation remain adverse rather than absorbed into the later good scene. |
+| SO-V12-04 C3P0315–0384 | Affectionate admiration offers a deeply rewarding option; Kazuma refuses dishonest doubleness and accepts pain; Darkness values an honest answer. | Comic cuff failure and laughter follow; then her kiss/pinning and his active direction show that the seriousness brake does not persist uniformly under arousal. |
+| SO-V12-05 C3P0541–0553,0570–0583 | Megumin puts Darkness's ability to speak above immediate proprietary rivalry and explicitly preserves the unfinished relationship's choice. | Apparent composure is bounded. Her later checking/first-kiss reaction and epilogue objection retain jealousy and limits. |
+| SO-V12-06 C4P0170–0246 | Sexualized school suspicion collapses before actual family-funded education and children's gratitude. Visitors become ashamed and offer support; Darkness discloses her care burden and fear of resentment. | Real respect coexists with deliberate cover story and suppression of Aqua's truth. Sentiment is not proof of complete honesty or a wholly repaired civic dispute. |
+| SO-V12-07 C4P0293–0346 | Public sexual boasting and near-tear protest stop when children collapse. Adventurers carry blankets, Kazuma cools fever, Aqua draws a treatment circle and Vanir diagnoses. | Immediate harm recruits multiple actors, including the nominal hostile demon. Aqua's punch for a nail remains task-directed under a wrong body assumption, not automatically renewed prestige capture. |
+| SO-V12-08 C5P0049–0060,0370–0388 | Child crisis organizes care, preparation and collection; Darkness accepts concealing a demon and offers eventual payment, prioritizing weak people over rigid rank/religious display. | She still rejects illegitimate coercive rank pressure. The count's mundane faith-magic question bathos does not void the commitment; count's arena and her pleasure later spoil the first acquisition route. |
+| SO-V12-09 FP0312–0367 | The amusement/mascot frame gives way to real burns. Darkness blocks escape apertures, accepts shared binding and offers to remain; Kazuma cuts tentacles and tries prepared water while Chris seeks another route. | Bodily pleasure coexists with actual pain and duty. Incapacitation is real; water buys time and Eris eventually frees Darkness. No perfect self-sacrifice or safe plan is inferred. |
+| SO-V12-10 FP0398–0424 | Returning grievance at apparently unnecessary work is interrupted by Darkness's actual relief tears and Vanir's explanation that invisible disease persists. | Wellness is sustained treatment, not cure. Praise/offerings are observed at return, insufficient to prove recognition caused earlier repeated care. |
+| SO-V12-11 EpP0014–0016 | Megumin deliberately reduces Explosion power for recovering Sylphina, whose welfare is explicit before the scoring response. | This supports deliberate care and control outside a clean combat grave-harm M05 test. Identity banter and weakened physical play resume afterward. |
+| SO-V12-12 EpP0063–0090 | Darkness states she will not forcibly break the pair; she then permits herself a surprise kiss, is witnessed, and triggers renewed rumor while Kazuma enjoys the result. | A serious declaration can have a narrow self-serving exception. Household affection, jealousy and continued boundary problems remain simultaneously real. |
+
+## Weighting
+
+High-information override does not mean an entire person has become serious or morally reliable. V12 specifically juxtaposes sincere answer and renewed opportunism; real protective pain and real pleasure; educational service and fear of ridicule; useful care and unproven reward chronology. Code the immediate transition and its recovery into comic behavior. H1 supports actual decisions and costs; H2 supports the underlying motive but not every magnitude; H3/H4 local collision or cartoon framing cannot be transferred as realistic injury tolerance or ordinary aggression.
