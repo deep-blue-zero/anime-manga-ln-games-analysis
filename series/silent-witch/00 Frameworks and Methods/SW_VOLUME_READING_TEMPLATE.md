@@ -5,7 +5,8 @@ artifact_type: volume_reading_template
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.0"
+version: "1.2"
+last_updated: "2026-10-14"
 status: canonical
 scope: "Reusable production contract; never an actual V01 reading"
 source_boundary: "Architecture bootstrap and source reconnaissance only; no narrative source unit analyzed."
@@ -65,7 +66,7 @@ For load-bearing claims state the strongest contrary evidence, rival explanation
 
 ## 9. Claims, predictions and cumulative delta
 
-List affected master-ledger IDs and prior/new formulations with PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT, or OPEN. Adjudicate only predictions this volume genuinely tests; absent opportunity is UNTESTED. Document material updates or explained no-material-update for every required typed ledger responsibility. Preserve previous state.
+Record the claim review: the claim set reviewed and the review boundary, then list each claim with a material result, with prior and new formulations and STRENGTHEN, REVISE, DOWNGRADE, REJECT, OPEN, or a significant PRESERVE with its reason, following the [claims and revisions ledger](../03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md)'s section 3. A routine no-change review is covered by the receipt and needs no row. Adjudicate only predictions this volume genuinely tests; absent opportunity is UNTESTED. Document material updates or explained no-material-update for every required typed ledger responsibility. Preserve previous state.
 
 ## 10. Exit truth freeze and next questions
 
@@ -73,7 +74,7 @@ Freeze the reached LN-only boundary: established changes, unresolved questions, 
 
 ## 11. Closure receipt
 
-Record full admitted coverage; source/locator/wording checks; prose/image/paratext inspection separately; semantic review; ledger reconciliation; readiness changes or abstentions; durable transaction; entrypoint advancement; and unresolved mandatory versus optional evidence.
+Record full admitted coverage; source/locator/wording checks; prose/image/paratext inspection separately; semantic review, including the method’s name-and-reference check with its sampled sections and material findings; ledger reconciliation; readiness changes or abstentions; durable transaction; entrypoint advancement; and unresolved mandatory versus optional evidence.
 
 Use truthful separate fields for local authorship, semantic acceptance, committed closure, branch push, author preflight, housekeeping, exact-head Repository integration audit, and main integration. Git history or a later receipt records a containing commit; never invent a self-referential commit hash. A partial reading cannot advance the high-water mark.
 

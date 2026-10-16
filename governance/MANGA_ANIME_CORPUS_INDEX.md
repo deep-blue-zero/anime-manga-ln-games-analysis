@@ -2,7 +2,7 @@
 
 > Repository state: public, owner-maintained, and active as the epoch-1 primary analytical authority. The sealed cutover scope contains 2,939 Drive-derived representations covering 2,924 unique source artifacts across 37 migrated series roots and two study roots. Post-cutover Git-native analytical roots are listed separately and do not alter those historical migration counts.
 >
-> Analytical authority: Git for the exact hashed migration scope in `AUTHORITY_SCOPE.json` and for owner-approved post-cutover Git-native analysis routed through the live registry, effective under authority epoch 1. The repository is in its approved 14-day stabilization period. Declared Drive-native authoring surfaces and reference-only artifacts retain their narrower roles.
+> Analytical authority: Git for the exact hashed migration scope in `AUTHORITY_SCOPE.json` and for owner-approved post-cutover Git-native analysis routed through the live registry, effective under authority epoch 1. The owner accepted the stabilized epoch on 2026-10-15. Declared Drive-native authoring surfaces and reference-only artifacts retain their narrower roles.
 
 This is the Git-side navigation index derived from the historical Drive hierarchy and extended by governed post-cutover analytical roots. Every migrated representation is bound to its source identity, revision, byte hash, transformation, and final repository path in `../crosswalk/`. Post-cutover roots must identify their own source/evidence authority and provenance in their canonical entrypoint.
 
@@ -49,7 +49,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
 - [Shokugeki no Soma](../series/shokugeki-no-soma/) — `series/shokugeki-no-soma/`
 - [Shuukura](../series/shuukura/) — `series/shuukura/`
-- [Silent Witch: Secrets of the Silent Witch](../series/silent-witch/) — `series/silent-witch/` — Owner-accepted Japanese-LN INITIAL foundation; V01 byte-locked with validated locators retained locally at owner direction. Day-one master ledger has zero narrative findings; sequential-analysis lock CLOSED. Primary and deterministic derived evidence remain outside Git.
+- [Silent Witch: Secrets of the Silent Witch](../series/silent-witch/) — `series/silent-witch/` — Owner-accepted Japanese-LN foundation, architecture STABILIZED at completion; V01 byte-locked with locally retained, reverified locators. Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read in full and closed; continuous sequential run through all supplied Japanese works authorized 2026-10-14 and complete; master ledger reconciled; high-water mark -another- (lower); checkpoint, longitudinal reconciliation, three specialist arguments, four character monographs, relationship arguments, integrated synthesis and reconstruction-readiness assessment closed at author level; no reconstruction model. Primary and deterministic derived evidence remain outside Git.
 - [Solo Leveling](../series/solo-leveling/) — `series/solo-leveling/`
 - [Sound! Euphonium](../series/sound-euphonium/) — `series/sound-euphonium/`
 - [THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)](../series/the-idolmaster-cinderella-girls-2015-anime/) — `series/the-idolmaster-cinderella-girls-2015-anime/`

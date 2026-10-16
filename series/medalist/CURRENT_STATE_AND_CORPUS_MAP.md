@@ -5,13 +5,13 @@ artifact_type: "current_state_corpus_map"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.16"
+version: "1.17"
 status: "canonical"
 scope: "Single project entrypoint, initiation state, current authority and next permitted operation"
 canonical_home: "series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-14"
+updated: "2026-10-16"
 review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 continuation_owner_authorization: "2026-10-12 owner continuous_sequential authorization: V02 through the verified as-of-start publication boundary (V15, Score 61), then provisional syntheses"
@@ -65,7 +65,7 @@ project_initialization:
   # lock_reason preserves activation history; the current value reports completion and the blocked global closure repair.
   lock_reason: OWNER_APPROVED_FOUNDATION_AND_AUTHORIZED_V01
   lock_reason_current_run: COMPLETED_BOUNDARY_CLOSURE_BLOCKED_BY_REVIEWED_GLOBAL_CONTROL_OUTSIDE_SCOPE
-  next_permitted_operation: "None within the 2026-10-12 authorization; a later source unit, a third fanbook, the adaptation or operational models each need a new owner authorization"
+  next_permitted_operation: NONE
 sequential_execution:
   mode: continuous_sequential
   unit_type: japanese_tankobon_volume
@@ -73,7 +73,7 @@ sequential_execution:
   terminal_boundary: V15
   terminal_boundary_basis: "Verified publication ceiling at 2026-10-12: V15 collects through Score 61; no serial-only Score beyond it"
   committed_high_water_mark: V15
-  next_candidate_operation: NONE_AUTHORIZED_BOUNDARY_COMPLETE
+  next_candidate_operation: NONE
   next_candidate_authorization: NOT_AUTHORIZED
   confirmation_between_units: false
   run_state: completed

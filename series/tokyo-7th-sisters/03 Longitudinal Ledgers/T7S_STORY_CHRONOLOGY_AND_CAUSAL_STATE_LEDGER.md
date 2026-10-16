@@ -4,16 +4,16 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.77"
+version: "11.89"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 265 complete i-n-g primary documents / T7S_B0080–T7S_B0176; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 60 Intimacy primary documents across 7 family portfolios / T7S_B0182–T7S_B0188; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-13
+last_updated: 2026-10-14
 ---
 
 # Tokyo 7th Sisters story chronology and causal state ledger
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 964`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1144`; `last_closed_block = T7S_B0176`. The admitted horizon contains 500 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 265 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1144`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1304`; `last_closed_block = T7S_B0188`. The admitted horizon contains 575 primary documents: 235 Main, 280 i-n-g and 60 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 60 Intimacy documents across 7 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -3315,3 +3315,489 @@ Entering B0175 plus lossless storage head `9924be336d7cf80222edd1dd38b208ef9777d
 | `EDGE-1151` | `FAILED_POOL_RESCUE_TO_SHARED_HAPPINESS_CODA` | `019`→`020`, C:P133–146; reassurance/play/laughter meet persistent mishap. No disappearance of danger or harm-free whole day. |
 
 Current WORLD/THREAD pools remain25/47; no body-transfer law, clinic standard or total chapter order is added. B0041 possession and B0138 grief retain their own frames; comparison supplies no newly dated causal succession. `AV-0123` binds actual static review and preserves unlistened audio/unobserved runtime. Full2034 release remains ACTIVE/IN_PROGRESS;2053 blocked.
+
+## B0177 family taste, distributed work and another home
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.82. [B0177](../02%20Readings/T7S_B0177_DEEP_READING.md) owns complete chapter301490/family200340 reconstruction and interpretation: A=`612203401` / `ing3_102034_01.json__dcde77651c668cbc`, P0–67; B=`612203402` / `ing3_102034_02.json__73936dd753ffab79`, P0–96; C=`612203403` / `ing3_102034_03.json__ea11f48607d772d4`, P0–84. All document_ref=primary, inclusive zero-based page/log order; wording pointer /Pages/N/TextArea/Dialogue. Source-order1160–1162 supplies a local envelope, not a total calendar.
+
+Entering B0176/d558b089, source-lock12.81 SHA `659e10df13a68731c986bdaef8e8ce7f1da4f984663f51ca5da2b4ed191abafd`; prospective `51058de853a78676fe8d8d14d39c90fbc5cd7ccc0c177b03150e08b20635c216`; receipt `2cac31a7536829330817c913542d32a676dfcd55435b95928407d3c2bad9ac9a`. Complete manifest-bound entity state was frozen before extraction/review. The automatic1f6ef268 execution reconciliation preserves the entire T7S subtree, prior source horizons and frozen prospective predecessor.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0177-001` | Hungry Player's delayed lunch prompts Musubi/Miwako's caution about an example to children; Shirayuki mistakes it for anger at her, and they clarify/apologize. | A:P2–15; `KNOW-0738`. Recipient's interpretation is corrected; no diagnosis, heard dialect or universal adult infallibility. |
+| `EV-B0177-002` | Shirayuki shares plums that she attributes to her mother's preparation/occasional mailing; Miwako reports prior tasting, Player/Musubi praise them and the child celebrates their family taste. | A:P16–25; `KNOW-0739`. Attributed mother route `IDENTITY-0102`/`CHAR-0084`; no pictured/directly witnessed mother, exact name or objective national ranking. |
+| `EV-B0177-003` | Miwako arranges a conversation away from Shirayuki, worries about heavy plum consumption/nutrition and considers family taste away from home; Musubi worries reduced stock, while Miwako/Player appraise sharing/pleasure. | A:P27–53; `KNOW-0740`–`0741`. Private access and differing appraisals; no medical assessment or one omniscient motive. |
+| `EV-B0177-004` | Helpers propose recreating family food; Player invites Shirayuki to advise through remembered taste, and she explicitly wants the meal. | A:P54–66; `KNOW-0742`. Local wish/assent, not knowledge of all private concerns or accomplished cooking. A66 joint cooks remain collective. |
+| `EV-B0177-005` | Miwako's regional internet recipe, Musubi's cutting questions and Player's reported boiling-over frame the first effort, encouraged by Shirayuki. | B:P1–4/9–14; `KNOW-0743`. Cooks' confidence and reported work; no observed complete cooking or universal competence. |
+| `EV-B0177-006` | Shirayuki calls the first dish delicious but unlike home. Helpers are disappointed; she appreciates the effort/wants more and denies forced eating when Player asks. | B:P9–23; `KNOW-0744`. Quality, gratitude and missed fidelity are distinct; no hidden dislike or independently sensed taste. |
+| `EV-B0177-007` | Helpers choose to persist/change approach and recruit Hime/Sumire; Sumire questions Player's domestic-capacity label. | B:P24–38; `KNOW-0745`. Revised method and local recruitment, not a new permanent cooking unit or gender duty. |
+| `EV-B0177-008` | Hime reports household cooking and reframes homely leftovers thinking toward feeding family delicious food; work divides between ingredient searching and stock instruction. | B:P39–46; `KNOW-0746`. Task-specific intervention, not complete household-work audit or guaranteed authenticity. |
+| `EV-B0177-009` | At the arcade, Musubi reports a snowy Tohoku home; Hime proposes soup/chicken/household tofu and flexible ingredients available locally. | B:P51–59; `KNOW-0747`. Regional report/inference and choices, not exact hometown, ethnography or all purchase receipts. |
+| `EV-B0177-010` | Sumire corrects dried-fish preparation, discovers Miwako's unfamiliarity and encourages learning. Miwako connects nutrition to teacher care. | B:P64–72; `KNOW-0748`. Local expertise/inversion, not global incompetence or nutritional efficacy. |
+| `EV-B0177-011` | Player washes/handles trash; Shirayuki worries everyone is exerting too much and says Nanasta meals suffice without the family recreation. | B:P77–84; `KNOW-0749`. Recipient care for helpers, not simple rejection or evidence she never wanted the meal. |
+| `EV-B0177-012` | Player asks to finish for the givers' feelings, compares it with Shirayuki's practice and receives her trust; waiting-for-meal talk introduces a far-future special person. | B:P85–95; `KNOW-0750`–`0751`. Locally accepted persistence/anticipation, no unlimited labor/acceptance license or current partner. |
+| `EV-B0177-013` | Ingredients/instruction are ready by report; Hime/Sumire encourage while leaving final cooking to the original helpers. | C:P1–4; `KNOW-0752`. Supported completion plan, not every action independently observed or advisers taking over. |
+| `EV-B0177-014` | Musubi/Miwako become exuberant; Player is surprised, Sumire likens them to TV professional chefs and Hime values Shirayuki's delight. | C:P9–18; `KNOW-0753`. Comic simile and appraisal. Repeated subject slots C9–13 create no extra people or profession. |
+| `EV-B0177-015` | Cast/fade/dark commands elide work; actual Item0157 is revealed at C24–27 PositionX0 with declared flash/shake/SFX. Shirayuki recognizes home taste and awards100. | C:P19–36; `KNOW-0754`; `AV-0124`. Recipient judgment plus source-bound illustration; no actually sensed flavor or rendered/heard performance. |
+| `EV-B0177-016` | Sumire points out Player mostly washed; Hime credits everyone's part and the cooks celebrate the recognized meal. | C:P35–40; `KNOW-0755`. Differentiated contributions, not equal work or universal cooking mastery; C35 remains joint speech. |
+| `EV-B0177-017` | Refill offer prompts Shirayuki's tears; Musubi first suspects bad taste, then the girl names warm joy and Nanasta as her home too. Miwako allows calm before explanation. | C:P41–50; `KNOW-0756`. Recipient correction/social-family recognition, not literal adoption, erased first home or heard sobbing. |
+| `EV-B0177-018` | Hime denies crying while admitting family-language vulnerability; others register the affect. | C:P51–55; `KNOW-0757`. Distinct textual reactions, no identical interiority or received voice emotion. |
+| `EV-B0177-019` | Shirayuki asks for all dorm residents' home meals; helpers acknowledge difficulty, mention Susu/Shao prospectively, admit cuisine limits/interest and require Player to work too. | C:P56–66; `KNOW-0758`. Wider request/intent and burden negotiation; no completed menus, absent residents attending or permanent policy. |
+| `EV-B0177-020` | Shirayuki wants to cook for a special person, privately promises Player daily meals when bigger and asks secrecy. Peers notice blush/hear part, Player deflects and Miwako appraises growing maidenhood. | C:P67–83; `KNOW-0759`. Conditional child wish/unequal access, not realized partnership, adult identity or everyone knowing the whisper. |
+
+| ID | Edge type | Supported relation and uncertainty |
+| --- | --- | --- |
+| `EDGE-1152` | `CAUTION_MISREAD_TO_EXPLICIT_REPAIR` | Within `001`, A:P4–15; recipient's fear prompts clarification/apology. No universal adult knowledge. |
+| `EDGE-1153` | `REPAIRED_EXCHANGE_TO_SHARED_FAMILY_TASTE` | `001`→`002`, A:P16–25; plums become a reconciliatory offer with mother attribution. No direct mother scene. |
+| `EDGE-1154` | `SHARED_PLUMS_TO_PRIVATE_CARE_DELIBERATION` | `002`→`003`, A:P27–53; nutrition/scarcity/family taste acquire different appraisals. Recipient absent from private exchange. |
+| `EDGE-1155` | `FAMILY_TASTE_CONCERN_TO_RECIPROCAL_MEAL_PROPOSAL` | `003`→`004`, A:P36–66; helpers choose recreation and return to recipient's explicit wish. No complete private motive disclosed. |
+| `EDGE-1156` | `ACCEPTED_GOAL_TO_MEMORY_ADVISER_ROLE` | Within `004`, A:P58–66; Shirayuki helps specify the target. Assent not accomplished result. |
+| `EDGE-1157` | `FIRST_RECIPE_EFFORT_TO_TASTE_TEST` | `005`→`006`, B:P1–23; confident preparation meets recipient's judgment. No independent analyst tasting. |
+| `EDGE-1158` | `DELICIOUSNESS_DIFFERENT_FROM_HOME_RECOGNITION` | Within `006`, B:P15–23; gratitude and pleasure coexist with failed fidelity. Neither statement erases the other. |
+| `EDGE-1159` | `MISSED_TARGET_TO_REVISED_HELP_AND_METHOD` | `006`→`007`, B:P24–38; helpers recruit rather than abandon. No permanent unit. |
+| `EDGE-1160` | `DOMESTIC_LABEL_TO_SPECIFIC_PURPOSE_REFRAMING` | `007`→`008`, B:P31–46; questioned label yields feeding-family criterion. Not a universal gender role. |
+| `EDGE-1161` | `DIVIDED_WORK_TO_INGREDIENT_AND_STOCK_TRACKS` | `008`→`009`+`010`, B:P41–72; shopping and instruction are complementary local tracks. No exact simultaneous clock. |
+| `EDGE-1162` | `REGIONAL_REPORT_TO_FLEXIBLE_INGREDIENT_PROPOSAL` | Within `009`, B:P51–59; Hime interprets reported snow-country food while using available choices. Exact origin/recipe unknown. |
+| `EDGE-1163` | `TEACHER_AS_NOVICE_TO_PEER_INSTRUCTION` | Within `010`, B:P64–72; Sumire corrects preparation and Miwako learns. Local hierarchy, not total competence reversal. |
+| `EDGE-1164` | `VISIBLE_EFFORT_TO_RECIPIENT_CONCERN` | `009`+`010`→`011`, B:P77–84; Shirayuki attends to helpers' burdens. She still values family taste. |
+| `EDGE-1165` | `RECIPIENT_CONCERN_TO_PRACTICE_ANALOGY_AND_TRUST` | `011`→`012`, B:P85–91; Player invokes her persistence and receives agreement. No unlimited work mandate. |
+| `EDGE-1166` | `WAITING_FOR_MEAL_TO_FUTURE_GIVING_THOUGHT` | Within `012`, B:P92–95; shared anticipation introduces far-future special person. No existing marriage. |
+| `EDGE-1167` | `REVISED_PREPARATION_TO_SUPPORTED_FINAL_COOKING` | `009`+`010`→`013`, C:P1–4; readiness is reported and advisers refrain from takeover. No exhaustive performed process. |
+| `EDGE-1168` | `ENERGETIC_COOKING_TO_COMIC_PROFESSIONAL_SIMILE` | `013`→`014`, C:P9–18; observers compare kitchen energy with television chefs. Not occupational promotion. |
+| `EDGE-1169` | `ELIDED_WORK_TO_NATIVE_MEAL_REVEAL` | `014`→`015`, C:P19–27; clearing/dark commands and Item0157 bind reveal. No actual runtime or complete recipe. |
+| `EDGE-1170` | `RECIPIENT_RECOGNITION_TO_COLLECTIVE_SUCCESS` | `015`→`016`, C:P26–40;100-point home-taste judgment enables celebration while contributions remain unequal. |
+| `EDGE-1171` | `REFILL_TEARS_TO_CORRECTED_JOY_AND_HOME` | `016`→`017`, C:P41–50; feared taste complaint becomes recipient's warm-family account. No literal kinship change. |
+| `EDGE-1172` | `HOME_RECOGNITION_TO_HELPER_AFFECT` | `017`→`018`, C:P51–55; Hime responds through denial/admission. Others' full inner states unknown. |
+| `EDGE-1173` | `ONE_HOME_MEAL_TO_PROSPECTIVE_ALL_RESIDENT_HOSPITALITY` | `017`+`018`→`019`, C:P56–66; recipient expands the invitation and peers reassert shared labor. Program remains prospective. |
+| `EDGE-1174` | `RECEIVED_CARE_TO_CONDITIONAL_PERSONAL_GIVING` | `012`+`017`→`020`, B:P92–95/C:P67–76; earlier anticipation returns as child's future promise. Not fulfilled adult obligation. |
+| `EDGE-1175` | `PRIVATE_WHISPER_TO_PARTIAL_PUBLIC_TEASING` | Within `020`, C:P73–83; blush/partial phrase permit appraisals without complete access. No arbitrary transfer of secret knowledge. |
+
+No new WORLD or THREAD record. Regional report, family metaphor and future wish remain qualified; no total calendar or completed all-resident cooking program. All old ledger bodies/IDs/source horizons and frozen storage receipts remain byte-exact.
+
+## B0178 other directions and the work of finding one's colour
+
+Owner [B0178](../02%20Readings/T7S_B0178_DEEP_READING.md), authored reading SHA256 `4e775b4a63d034f922a3249c914e2afe0732f45c8a5938c89f31311810d66d86`; complete chapter301500, A612203501 P0–94/B612203502 P0–88/C612203503 P0–108, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.84. Entering source-lock12.83 is a lossless administrative successor of completed B0177; physical owner and complete logical SourceLock pins are distinct. Existing chapter/Main chronology remains bounded.
+
+| ID | Source range | Local event | Factual reconstruction and qualification |
+| --- | --- | --- | --- |
+| `EV-B0178-001` | A:P1–13 | Other direction proposed | Murasaki credits Ferb's first QOP shape and seeks Jeda's vocal learning; Jeda agrees but suggests a more different vector. Request, attribution and compatibility appraisal; no completed Jeda lesson. |
+| `EV-B0178-002` | A:P14–24 | Coach selection promised | Coney arrives, reports following Jeda and promises a suitable coach; Murasaki retains unease and expects interest. Reported tailing and observed promise; full intent remains undisclosed. |
+| `EV-B0178-003` | A:P31–55 | Unexpected coach accepts | Tomoe expected shop help; Murasaki values her singing, requests teaching and agrees to Murasaki-chan address; Tomoe accepts. Local role consent/address negotiation, not every later request. |
+| `EV-B0178-004` | A:P60–74 | Sincerity legitimates expertise | Tomoe praises skill but hesitates over individuality; Murasaki asks genuine criticism and Tomoe announces rigorous idol coaching. Held criticism and actor doctrine; no confidence cure. |
+| `EV-B0178-005` | A:P79–93 | Royal-road imitation demanded | Tomoe demands Haru-like steps, cute/loud voice and repeated777☆SISTERS MV viewing/report; Murasaki calls the lesson Spartan. Assignments and appraisal; MV100/viewings/report completion unknown. |
+| `EV-B0178-006` | B:P1–18 | Difficult smile and performance ethic | Cute pose/smile coaching leads Murasaki to value Haru/Musubi's demanding other-directed work; she also questions Tomoe's stage stiffness; SAKURA assigned. Character values and observed dialogue; no technical performance certification. |
+| `EV-B0178-007` | B:P23–40 | Concern meets concealed knowledge | Ferb reports absence/fatigue and guesses trouble; Player privately knows through Coney, publicly deflects, recommends waiting and feels secrecy's cost. Partial observation, speculation and private/public access separated. |
+| `EV-B0178-008` | B:P45–60 | Apology and hospitality | Tomoe apologizes for heating up; Murasaki accepts sincerity and offers a conditional shop walk/overnight invitation, which Tomoe accepts. Actual invitation/assent; sleeping later only reported. |
+| `EV-B0178-009` | B:P61–79 | Different solitude, shared commitment | Murasaki disputes talented-person distance through shared singing/commitment; both value companions and Player, with counterfactual folding/quitting accounts. Self-descriptions and institutional valuations, not alternate-history proof. |
+| `EV-B0178-010` | B:P82–87 | Reciprocal teaching requested | Tomoe requests adult-song learning; Murasaki agrees after showing her own result. Prospective commitment before later role inversion. |
+| `EV-B0178-011` | C:P1–20 | Cute result and MC | Labelled Laba x Laba line/cheer, native performance elision and cute MC lead to lesson appraisal; Tomoe insists on MC. Source enactment/account; complete song, sound and choreography unreceived. |
+| `EV-B0178-012` | C:P23–40 | Own style clarified | Tomoe discloses delayed preference for Murasaki's own singing; Murasaki formulates direction/colour distinction, recalls Ferb advice and attributes Coney's plan. Direct disclosure, prior-event report and attributed intent differentiated. |
+| `EV-B0178-013` | C:P41–45 | Unfinished colour supported | Tomoe says her colour is unfound/headwind; Murasaki values persistence and promises a push; Tomoe responds figuratively. Future support/confidence, not completed self-discovery. |
+| `EV-B0178-014` | C:P46–60 | Group and coach reversal revealed | Other observers appear; Murasaki calls local QOP with W/White and becomes Tomoe's coach. Local trial label; no permanent unit/roster change or universal viewing. |
+| `EV-B0178-015` | C:P61–69 | Joint trial appraised | Native elision precedes Matsuri/Murasaki praise, Ferb's qualified matching assessment and Tomoe's improvisation-limit account. Differentiated evaluations; no heard technical rock mastery. |
+| `EV-B0178-016` | C:P70–81 | Curiosity, teasing and reported trust | Ferb denies anger and seeks sounds she might not draw; Matsuri reads loneliness; Tomoe reports Murasaki's trust and Ferb conditionally forgives. Competing readings and report; no diagnosed romance/exclusivity. |
+| `EV-B0178-017` | C:P82–90 | Teaching expands beyond capacity | Yumeno's jealousy/innuendo, Matsuri's game wish and Ferb's idol-song interest accompany group-coaching proposal and Tomoe's capacity protest. Member-specific interests; no sexual act/game session/blanket consent. |
+| `EV-B0178-018` | C:P91–94 | Distributed prior planning credited | Coney credits Player's earlier all-QOP proposal; Player says he joined enjoyable mischief. Retrospective participant report; exact early decision timing unknown. |
+| `EV-B0178-019` | C:P95–100 | Tailwind valuation | Thanks and golden-experience appraisal accompany Murasaki's many-winds/QOP-growth and past/present refusal account. Source optimism; not analyst forecast or institutional release. |
+| `EV-B0178-020` | C:P102–108 | Reflection interrupted by care | Peers ask chords/games/moe, Tomoe appeals for help, Player forecasts possible vomiting and prompts return; Murasaki agrees before final fade. Overload explicit; actual vomiting/rescue/calm arrangement not shown. |
+
+| ID | Qualified endpoints | Edge type and warrant |
+| --- | --- | --- |
+| `EDGE-1176` | `EV-B0178-001` → `EV-B0178-002` | `REFRAMES_LEARNING_GOAL`; Compatibility is distinguished from another direction; no general ban on similar teachers. |
+| `EDGE-1177` | `EV-B0178-002` → `EV-B0178-003` | `SELECTION_PROMISE_AND_RESULT`; Promised coach becomes actual unexpected Tomoe; motive is not independently opened. |
+| `EDGE-1178` | `EV-B0178-003` → `EV-B0178-004` | `ROLE_LEGITIMATION`; Requested sincere teaching makes hesitant expertise speakable. |
+| `EDGE-1179` | `EV-B0178-004` → `EV-B0178-005` | `REQUEST_TO_RIGOR`; Tomoe's doctrine governs this lesson, not a universally validated rubric. |
+| `EDGE-1180` | `EV-B0178-005` → `EV-B0178-006` | `CONTINUED_PRACTICE_AND_APPRAISAL`; Instruction yields difficulty and respect; assigned MV completion is not inferred. |
+| `EDGE-1181` | `EV-B0178-006` → `EV-B0178-007` | `PRESENTED_COST_AND_PEER_CONCERN`; Ferb's observations follow lesson presentation; fatigue's sole cause not independently measured. |
+| `EDGE-1182` | `EV-B0178-007` → `EV-B0178-008` | `KNOWLEDGE_ASYMMETRY_TO_PRIVATE_EXCHANGE`; Concern/waiting and later walk occupy distinct access frames; disclosure is not retroactively supplied. |
+| `EDGE-1183` | `EV-B0178-006` → `EV-B0178-008` | `APOLOGY_AND_SINCERITY_ACCEPTANCE`; Late lesson apology leads to locally accepted hospitality. |
+| `EDGE-1184` | `EV-B0178-008` → `EV-B0178-009` | `CONVERSATIONAL_OPPORTUNITY`; Walking/invitation permits comparison of solitude and purpose. |
+| `EDGE-1185` | `EV-B0178-009` → `EV-B0178-010` | `COMMONALITY_TO_RECIPROCITY`; Recognized commitment accompanies Tomoe's request to learn. |
+| `EDGE-1186` | `EV-B0178-010` → `EV-B0178-011` | `DEFERRED_TEACHING_CONDITION`; Murasaki first presents her own result; no promise already fulfilled at request. |
+| `EDGE-1187` | `EV-B0178-011` → `EV-B0178-012` | `REASSESSMENT`; Preference disclosure revises imitation's success criterion. |
+| `EDGE-1188` | `EV-B0178-012` → `EV-B0178-013` | `ENCOURAGEMENT_WITHOUT_CLOSURE`; Direction theory supports Tomoe without erasing unfound colour. |
+| `EDGE-1189` | `EV-B0178-012` → `EV-B0178-014` | `APPLYING_LEARNING_WITH_OTHERS`; Murasaki calls the group; universal early spectator knowledge not inferred. |
+| `EDGE-1190` | `EV-B0178-010` → `EV-B0178-014` | `COACH_ROLE_INVERSION`; Tomoe's requested adult-song learning enters a local QOP trial. |
+| `EDGE-1191` | `EV-B0178-014` → `EV-B0178-015` | `TRIAL_TO_RECEPTION`; Elided performance receives several qualified evaluations. |
+| `EDGE-1192` | `EV-B0178-007` → `EV-B0178-016` | `PRIOR_CONCERN_LATER_REFRAMED`; Ferb's earlier uncertainty is not collapsed into later peer jealousy claims. |
+| `EDGE-1193` | `EV-B0178-016` → `EV-B0178-017` | `REPORTED_TRUST_AND_WIDER_INTEREST`; Trust report mediates affect; other members retain distinct wishes. |
+| `EDGE-1194` | `EV-B0178-017` → `EV-B0178-020` | `INTEREST_TO_OVERLOAD`; Several demands exceed Tomoe's stated capacity; no clinical cause inferred. |
+| `EDGE-1195` | `EV-B0178-018` → `EV-B0178-014` | `RETROSPECTIVE_ATTRIBUTED_PREPARATION`; Later account attributes earlier group enlargement to Player/Coney; speech order is not event order. |
+| `EDGE-1196` | `EV-B0178-019` → `EV-B0178-020` | `REFLECTION_INTERRUPTED`; Optimistic synthesis gives way to an immediate care prompt. |
+| `EDGE-1197` | `EV-B0178-001` → `EV-B0178-019` | `METAPHOR_AND_GOAL_REVISION`; New-wind goal returns as many supportive winds, without identity exchange. |
+| `EDGE-1198` | `EV-B0178-009` → `EV-B0178-019` | `VALUED_INSTITUTIONAL_POSSIBILITY`; Participant support accounts inform later gratitude, not comprehensive institution audit. |
+| `EDGE-1199` | `EV-B0178-011` → `EV-B0178-015` | `CONTRASTED_ELIDED_TRIALS`; Different labelled/cued trials and role direction remain distinct; acoustic contrast unreceived. |
+
+Twenty events and24 edges retain every older body/edge/gap. No new WORLD/THREAD, total cross-chapter calendar, actual MV100 viewing, heard singing/choreography, permanent collaboration, analyst prediction or mature release is established. Scene reports, managerial-intent attribution and future commitments keep their frames.
+
+## B0179 competing promises and the maid's chosen return
+
+Owner [B0179](../02%20Readings/T7S_B0179_DEEP_READING.md), authored reading SHA256 `144a78984c52d02f2f9f294420dcfedb4d6dc1fe61c0ac11cc2f1d4f00658115`; complete chapter301510 A612203601 P0–47/B612203602 P0–86/C612203603 P0–157, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.85. Entering B0178/source-lock12.84 complete logical and physical boundaries remain pinned separately. Previous chronology/horizons remain bounded.
+
+| ID | Source range | Local event | Factual reconstruction and qualification |
+| --- | --- | --- | --- |
+| `EV-B0179-001` | A:P2–13 | Maid partner selected | Ayumu plans menus/songs and reveals Makoto as special maid partner; Makoto's investigation/password warning startles Player. Exact accessed system or successful exploit not established. |
+| `EV-B0179-002` | A:P14–25 | Growth requested and teaching delegated | Player asks about male-customer comfort; Makoto acknowledges fear and wants growth for her chosen brother, imagining dependence; Player supports growth and asks Ayumu to teach. Self-account and extreme fantasy do not certify diagnosis, cure or endorsement. |
+| `EV-B0179-003` | A:P28–47 | Competence and deferred address | Player narrates rapid growth; maid-clothing praise and embodied poe-kyun instruction lead to Ayumun request, but Makoto keeps Ayumu-san. Narrated progress and local dialogue, no complete physical lesson or sexual act. |
+| `EV-B0179-004` | B:P1–7 | Customer service displayed | Anonymous customers request attention; Makoto serves male/female-addressed visitors while Ayumu praises growth. Role labels do not establish stable customer identities or objective service quality. |
+| `EV-B0179-005` | B:P8–32 | An exclusive address within distributed service | Sumire/Shao visit after hearing from Player; Makoto reserves big brother for him while wishing other guests well; Ayumu praises unique rules, Sumire questions them and Shao values effort. Distinct actor appraisals; no blanket consent, measured satisfaction or general idol-service law. |
+| `EV-B0179-006` | B:P37–44 | Scheduling collision discovered | Ayumu thanks Makoto and raises an event one week later; Makoto recognizes conflict with the outing promise. One-week relation and discovery, not an exact calendar date. |
+| `EV-B0179-007` | B:P48–63 | Prior manager promise recalled | Office flashback shows Player first proposing a substitute, then promising to make time after Makoto's disappointment and reported makeup lesson; he expressly calls it work, not a date. Earlier event presented later; no verified overtime or mutual-romance agreement. |
+| `EV-B0179-008` | B:P67–83 | Teacher releases the joint obligation | Makoto cannot herself break Player's promise yet worries about Ayumu's; Ayumu says the event is unannounced/manageable and respects Makoto's only-one maid path. Local release/gratitude; does not prove later solo workload is costless. |
+| `EV-B0179-009` | B:P84–86 | Immediate song proposed | Ayumu proposes singing the event song now; Makoto agrees in maid speech, still using Ayumu-san, before fade. Assent and elision do not establish a complete heard song. |
+| `EV-B0179-010` | C:P1–11 | Outing with divided attention | Shopping outing begins; Makoto privately calls it date weather and remains drawn to the café while withholding explanation. Her private phrasing differs from Player's work framing. |
+| `EV-B0179-011` | C:P16–27 | Clothes choice and unusual knowledge | Makoto selects clothes after Player's praise and offers a tie he wanted; Player cannot remember telling her. No garment picture, exact information-access method or whole shopping process supplied. |
+| `EV-B0179-012` | C:P28–44 | Reported purchases and blocked café entry | Player reports good purchases/lunch and offers café entry; Makoto is happy yet says she cannot go in. Source report, not analyst receipt/taste verification; unresolved concern remains. |
+| `EV-B0179-013` | C:P45–62 | Another value becomes admissible | Player values Makoto's focus but says humans cannot attend only to their centre and can postpone him; Makoto finds both kindnesses difficult and asks whether another attachment can equal love. Self-account/permission and question, not a settled universal doctrine or reciprocal romance. |
+| `EV-B0179-014` | C:P63–76 | Chosen departure and public misreading | Makoto chooses to leave, receives Player's assent and says she loves him; anonymous passersby speculate and Player feels their gaze. No literal kinship, public adjudication or offscreen contact inferred. |
+| `EV-B0179-015` | C:P78–84 | Solo stage and bounded peer help | Sumire thinks Ayumu struggles to fill a planned duet; Shao/Sumire avoid impromptu replacement out of respect and plan later care. Attributed reception and proposed care, not objective heard technique or actual massage. |
+| `EV-B0179-016` | C:P85–101 | Return, account and accepted address | Makoto returns, claims sudden Player work, offers joint service, is welcomed and finally says Ayumun. Displayed return is factual; cancellation account conflicts with earlier departure and later receives a lie appraisal. |
+| `EV-B0179-017` | C:P102–109 | Cheering and performance elision | Customers call encouragement/requests, Shao/Sumire anticipate a good stage, then command-only clearing/fades omit performance. No complete heard song/choreography or accepted house visit. |
+| `EV-B0179-018` | C:P110–120 | Rest and differently informed appraisals | Apparently sleeping pair receive leaning/exertion/charm reports; Shao blames Player while Sumire suspects a lie and sees Makoto's companion loyalty. Sleep appearance and speaker-specific reception stay qualified pending later reveal. |
+| `EV-B0179-019` | C:P121–124 | Manager learns the conflict later | Player arrives, says he now understands Makoto's problem, welcomes apparent event success and proposes leaving sleepers alone. Later inference does not establish full early knowledge or independently measured stage success. |
+| `EV-B0179-020` | C:P125–142 | Apparent sleep-talk treated as evidence | Makoto invokes responsibility for unspecified prior acts; Player denies knowing; Sumire/Shao question and call him outside. Accusation and protective concern do not verify sex, coercion, pregnancy or confession. |
+| `EV-B0179-021` | C:P143–149 | Trap revealed and teaching reverses | Ayumu names pretended-sleep trap; Makoto explains opportunistic pursuit/creating established facts; Ayumu requests learning and Makoto accepts. Audience gains warrant for deliberate device; absent peers/Player are not shown receiving disclosure. |
+| `EV-B0179-022` | C:P150–152 | Chosen-idol rationale | Makoto links effort to having been chosen by Player as idols; Ayumu notices distant peer voices before fade. Participant rationale, not institutional authorization for deceptive claims or blanket romance consent. |
+| `EV-B0179-023` | C:P153–157 | Misunderstanding remains at exit | Peer accusation/Player's correction plea continue with cleared visible slots and shake/SFX declarations; Makoto returns open-eyed with final affection/fade. No completed confrontation, punishment, corrected misunderstanding or moral cure shown. |
+
+| ID | Qualified endpoints | Edge type and warrant |
+| --- | --- | --- |
+| `EDGE-1200` | `EV-B0179-001` → `EV-B0179-002` | `APTITUDE_TO_REQUESTED_TRAINING`; Invitation permits a practical comfort question; privacy implication remains distinct. |
+| `EDGE-1201` | `EV-B0179-002` → `EV-B0179-003` | `REQUEST_TO_LOCAL_TRAINING`; Supported growth leads to narrated competence and address difficulty, not diagnosed cure. |
+| `EDGE-1202` | `EV-B0179-003` → `EV-B0179-004` | `TRAINING_TO_SERVICE_DISPLAY`; Customer exchanges give local enacted service evidence. |
+| `EDGE-1203` | `EV-B0179-004` → `EV-B0179-005` | `SERVICE_AND_BOUNDARY_DISCLOSURE`; Appraisal clarifies exclusive address within attention to many customers. |
+| `EDGE-1204` | `EV-B0179-005` → `EV-B0179-006` | `WORK_TO_SCHEDULING_COLLISION`; Training closure introduces a future event that Makoto recognizes as conflicting. |
+| `EDGE-1205` | `EV-B0179-007` → `EV-B0179-006` | `PRIOR_PROMISE_EXPLAINS_LATER_DISCOVERY`; Flashback supplies earlier promise; source presentation order is not event order. |
+| `EDGE-1206` | `EV-B0179-006` → `EV-B0179-008` | `COLLISION_TO_RELEASE`; Competing obligations lead to Ayumu's local permission. |
+| `EDGE-1207` | `EV-B0179-008` → `EV-B0179-009` | `ENCOURAGEMENT_TO_SONG_PROPOSAL`; Release/gratitude precede proposed singing, without completed reception. |
+| `EDGE-1208` | `EV-B0179-007` → `EV-B0179-010` | `PROMISE_TO_OCCURRED_OUTING`; Later scene shows the outing without verifying every scheduling task. |
+| `EDGE-1209` | `EV-B0179-008` → `EV-B0179-010` | `RELEASE_WITH_REMAINING_CONCERN`; Permission to leave the stage does not remove attachment to Ayumu. |
+| `EDGE-1210` | `EV-B0179-010` → `EV-B0179-011` | `OUTING_ACTIVITY_WITH_PARTIAL_ACCESS`; Choice and tie knowledge occur within a partly observed shopping process. |
+| `EDGE-1211` | `EV-B0179-011` → `EV-B0179-012` | `REPORTED_OUTCOME_TO_ENTRY_QUESTION`; Purchase/lunch report and café gaze precede declined entry. |
+| `EDGE-1212` | `EV-B0179-012` → `EV-B0179-013` | `BLOCKED_ENTRY_TO_PRIORITY_DISCUSSION`; Player responds to explicit concern and Makoto's professed centre. |
+| `EDGE-1213` | `EV-B0179-013` → `EV-B0179-014` | `PERMISSION_TO_CHOSEN_DEPARTURE`; Plural value question becomes her local departure decision. |
+| `EDGE-1214` | `EV-B0179-014` → `EV-B0179-016` | `DEPARTURE_TO_RETURN`; Makoto's arrival at café follows her chosen departure, not verified sudden work. |
+| `EDGE-1215` | `EV-B0179-015` → `EV-B0179-016` | `INTENDED_PARTNER_RESTORED`; Observers' restraint is followed by the partner they decline to replace. |
+| `EDGE-1216` | `EV-B0179-003` → `EV-B0179-016` | `DEFERRED_ADDRESS_FULFILLED`; Ayumun becomes chosen address on return, not assumed earlier intimacy. |
+| `EDGE-1217` | `EV-B0179-016` → `EV-B0179-017` | `WELCOME_TO_RECEPTION_AND_ELISION`; Accepted collaboration receives cheers around an omitted stage. |
+| `EDGE-1218` | `EV-B0179-017` → `EV-B0179-018` | `ELIDED_STAGE_TO_REPORTED_AFTERSTATE`; Post-stage exertion/charm are attributed reports, not analyst performance reception. |
+| `EDGE-1219` | `EV-B0179-014` → `EV-B0179-018` | `DIRECT_DEPARTURE_SUPPORTS_LIE_APPRAISAL`; Earlier access supports Sumire's later suspicion while Shao remains differently informed. |
+| `EDGE-1220` | `EV-B0179-018` → `EV-B0179-019` | `LATER_MANAGER_ARRIVAL`; Player now infers the conflict; no retroactive full plan knowledge. |
+| `EDGE-1221` | `EV-B0179-019` → `EV-B0179-020` | `RESPECTFUL_EXIT_INTERRUPTED`; Proposed departure is interrupted by apparent involuntary testimony. |
+| `EDGE-1222` | `EV-B0179-020` → `EV-B0179-021` | `REVEAL_REVISES_EVIDENTIAL_FRAME`; Pretended-sleep disclosure recasts accusation without proving the implied act. |
+| `EDGE-1223` | `EV-B0179-003` → `EV-B0179-021` | `TEACHER_LEARNER_ROLE_INVERSION`; Initial maid teacher requests pursuit instruction from the former learner. |
+| `EDGE-1224` | `EV-B0179-021` → `EV-B0179-022` | `DEVICE_TO_ACTOR_RATIONALE`; Effort/choice language explains their framing, not authorization. |
+| `EDGE-1225` | `EV-B0179-022` → `EV-B0179-023` | `REVEALED_PLAN_UNDISCLOSED_TO_TARGETS`; Distant accusation continues; ending does not resolve misrecognition. |
+
+Twenty-three events/26 edges preserve all older bodies, IDs and seven inherited edge-number gaps. No new WORLD/THREAD or total calendar. Report, flashback, promise, inference, displayed action and deliberate false account remain distinct. No heard stage, verified sexual act, completed accusation outcome or mature release.
+
+## B0180 opening the role toward its viewers
+
+Owner [B0180](../02%20Readings/T7S_B0180_DEEP_READING.md), authored reading SHA256 `f0d2bbac7f85c439a723523c3485a047e0bf7c4abf22c33317e324d71b5cd77b`; complete chapter301520 A612203701 P0–86/B612203702 P0–110/C612203703 P0–159, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.86. Entering B0179/source-lock12.85 complete logical/physical boundaries remain pinned separately; prior chronology/horizons unchanged.
+
+| ID | Source range | Local event | Factual reconstruction and qualification |
+| --- | --- | --- | --- |
+| `EV-B0180-001` | A:P2–22 | Shoot access and distinct casting | Player arrives before filming, staff hurry preparation, Kazumi's producer offer differs from Miwako's audition and both ask for support. Source roles/reports, no complete schedule or unfair-treatment adjudication. |
+| `EV-B0180-002` | A:P23–36 | Prepared unfamiliar roles | Manager offers bounded advice; Miwako reports physical/role study, Kazumi reports novels/academic reading for scientist role. Fictional scientist/guard are not real credentials or independently completed research. |
+| `EV-B0180-003` | A:P38–44 | Withheld concern and optimistic expectation | Player privately remembers a director concern but reads motivation as reassuring before take transitions. His expectation, not analyst prediction or complete shared knowledge. |
+| `EV-B0180-004` | A:P45–63 | Opaque rejection and suspension | Repeated cuts lead to Kazumi's question; director refuses a precise answer, acknowledges better-than-expected work yet suspends her scenes for fatal lack. Production constraint and appraisal, not independently measured technique or proven pedagogical necessity. |
+| `EV-B0180-005` | A:P64–85 | Concern disclosed and solitude requested | Miwako praises acting; Player discloses prior reported opposition/production strategy; Kazumi asks to be alone and peers plan support. Attributed motives/awards and local boundary; no completed recovery. |
+| `EV-B0180-006` | B:P1–27 | Next-day inquiry and uncertain analogy | Coney joins after yesterday report; peer praise meets tutoring self-discovery analogy, explicitly uncertain director intent and rejected guard-role copying. Local yesterday link; no universal teaching doctrine or vindicated harshness. |
+| `EV-B0180-007` | B:P28–47 | Reference study and continued resolve | Kazumi brings broad SF/academic books, explains established forms/knowledge; peers offer limited reception while she seeks the missing thing despite casting concern. No exact novel titles, analyst reading or certified science. |
+| `EV-B0180-008` | B:P48–55 | Incomplete clue admitted | Coney senses a possible clue then says she does not know it. No retroactive omniscient answer. |
+| `EV-B0180-009` | B:P56–78 | Peer access paths | Musubi/Hime enter; Musubi suggests the already-tried depiction strategy and Hime hesitates over a household reference. Different knowledge/experience, not expert scientific counsel. |
+| `EV-B0180-010` | B:P79–94 | Gadora offered and viewing accepted | Hime names siblings' monster-film scientist, Coney promotes the series, adults contest its audience scope and Kazumi accepts a potentially useful work/home invitation; Musubi joins. Source film account, no literal monster near Nanasta or representative audience. |
+| `EV-B0180-011` | B:P98–110 | Household reception reframes reference | A short nested scientist quotation precedes siblings' enjoyment, adult realism criticism and Musubi's revision against unnecessary correction; Kazumi recognizes an opening. Tofu-shop Item/arcade art, no depicted scientist or complete analyst-watched film. |
+| `EV-B0180-012` | C:P1–6 | Renewed shoot with uncertain answer | Kazumi promises to give her all without assuring approval; director welcomes the response. Commitment, not guarantee of outcome. |
+| `EV-B0180-013` | C:P7–25 | Collaborative-expression views and visitor limit | Hime/Musubi dislike director manner; Coney respects many evaluation axes while admitting not knowing his character; Player asks visitors not to obstruct work. Actor argument and bounded access, not full institutional/consent audit. |
+| `EV-B0180-014` | C:P26–34 | Scene57 retry framed | Kazumi recalls the previously unapproved scene and resolves to try again before native reframing. Local repetition, not exact full rehearsal history. |
+| `EV-B0180-015` | C:P35–49 | Changed role and coactor improvisation | Kazumi performs grandiose scientific/data-obsession text; Miwako recognizes ad-lib, interprets director silence as continuing and responds in guard role. Written dramatic speech, not actual sacrifice/coercion, heard performance or blanket prior consent. |
+| `EV-B0180-016` | C:P50–67 | Local approval revises observer doubt | Player/Hime fear trouble, Musubi anticipates otherwise; director says OK/memorable, requests balance and continues; Kazumi thinks she could go further. Source appraisal/decision, not universal quality or unrestricted coactor burden. |
+| `EV-B0180-017` | C:P68–74 | Liveliness foregrounded | Clearing/white transition foregrounds Kazumi; Musubi/Player appraise enjoyment and Coney redirects attention to her face. Viewed still/source reception, not independently known inner joy or acoustic technique. |
+| `EV-B0180-018` | C:P75–95 | Day closes and spectator insight explained | Current shoot ends; Kazumi credits siblings' excitement more than copying the scientist, widens realism-only criterion and links entertainment to Nanasta practice. Self-account and local outcome, not complete film/public reception or rejected research. |
+| `EV-B0180-019` | C:P96–105 | Director's prior production and priority | Director recounts an idol film driven by publicity/agency returns/self-display, says he cannot satisfy everyone and prioritizes positive viewer impact. Attributed retrospective judgment/aspiration, not verified motives of all past participants. |
+| `EV-B0180-020` | C:P106–118 | Mutual recognition and future work | Kazumi now understands his reputation; director regrets not meeting an idol like her earlier and both agree to good work tomorrow before transition. Local recognition/commitment, no completed movie or erased first encounter. |
+| `EV-B0180-021` | C:P120–129 | Coactor cost, apology and reception | Miwako reports exertion/enjoyment, Kazumi thanks/apologizes for difficult ad-libs and a prop-bomb throw is reported. No native bomb Item/witnessed throw or unlimited future agreement. |
+| `EV-B0180-022` | C:P130–139 | Manager's first-discovery ideal | Player values new liveliness but regrets not discovering appeal first; peers tease confession/gigolo while he explains professional concern. Actor self-criticism/jokes, not reciprocal romance. |
+| `EV-B0180-023` | C:P140–150 | Possibilities credited as made together | Kazumi credits companions/manager/Nanasta, uses ground-to-sky metaphor and commits with Player to further development. Valued source account, not literal rescue/flight, sole ownership or guaranteed result. |
+| `EV-B0180-024` | C:P151–156 | New requests and title objection | Miwako wants making, Hime asks tofu development, Musubi objects to exclusion and Coney invents idol-builder title; Player rejects it. Prospective requests, no actual product or formal managerial title. |
+| `EV-B0180-025` | C:P157–159 | Place valued at exit | Kazumi calls Nanasta her lovely place before final fade. Participant warmth, not complete institutional adequacy or release. |
+
+| ID | Qualified endpoints | Edge type and warrant |
+| --- | --- | --- |
+| `EDGE-1226` | `EV-B0180-001` → `EV-B0180-002` | `ACCESS_TO_ROLE_PREPARATION`; Different casting routes accompany a shared unfamiliar-role task. |
+| `EDGE-1227` | `EV-B0180-002` → `EV-B0180-003` | `PREPARATION_TO_MANAGER_EXPECTATION`; Motivation appears reassuring despite withheld concern. |
+| `EDGE-1228` | `EV-B0180-003` → `EV-B0180-004` | `EXPECTATION_TESTED_BY_REJECTION`; Cuts/suspension defeat the local expectation without proving objective poor skill. |
+| `EDGE-1229` | `EV-B0180-004` → `EV-B0180-005` | `PRODUCTION_STOP_TO_DISCLOSURE`; Opaque appraisal precedes concern disclosure/solitude request. |
+| `EDGE-1230` | `EV-B0180-005` → `EV-B0180-006` | `EXPLICIT_RELATIVE_TIME_CONTINUATION`; B names yesterday's shoot; no global calendar inferred. |
+| `EDGE-1231` | `EV-B0180-006` → `EV-B0180-007` | `INQUIRY_TO_REFERENCE_INSPECTION`; Uncertain analogy gives way to actual described materials. |
+| `EDGE-1232` | `EV-B0180-007` → `EV-B0180-008` | `QUALITY_WITH_UNRESOLVED_CRITERION`; Praise/research leave the missing thing and Coney's clue incomplete. |
+| `EDGE-1233` | `EV-B0180-008` → `EV-B0180-009` | `NEW_PARTICIPANTS_NEW_ACCESS`; Peers join without receiving a solved plan. |
+| `EDGE-1234` | `EV-B0180-009` → `EV-B0180-010` | `HOUSEHOLD_EXPERIENCE_TO_INVITATION`; Hime's tentative memory becomes a locally accepted opportunity. |
+| `EDGE-1235` | `EV-B0180-010` → `EV-B0180-011` | `INVITATION_TO_PRESENTED_VIEWING`; Characters watch a brief textual excerpt/response frame; analyst full film remains unobserved. |
+| `EDGE-1236` | `EV-B0180-011` → `EV-B0180-012` | `INSIGHT_TO_RENEWED_COMMITMENT`; Recognition of an opening precedes return without guaranteed approval. |
+| `EDGE-1237` | `EV-B0180-012` → `EV-B0180-013` | `COMMITMENT_AND_OBSERVER_FRAME`; Visitors discuss collaborative expression while access remains bounded. |
+| `EDGE-1238` | `EV-B0180-004` → `EV-B0180-014` | `PREVIOUS_REJECTION_RETRIED`; C identifies scene57 as the previously unapproved scene. |
+| `EDGE-1239` | `EV-B0180-014` → `EV-B0180-015` | `RETRY_TO_CHANGED_ROLE_TEXT`; Preparation is expressed through different dramatic speech. |
+| `EDGE-1240` | `EV-B0180-015` → `EV-B0180-016` | `TRIAL_TO_LOCAL_APPROVAL`; Coactor response and surprising approval do not erase negotiation limits. |
+| `EDGE-1241` | `EV-B0180-013` → `EV-B0180-016` | `MULTIPLE_EVALUATION_AXES_MADE_VISIBLE`; Observer doubt and director acceptance remain different appraisals. |
+| `EDGE-1242` | `EV-B0180-016` → `EV-B0180-017` | `APPROVAL_TO_RECEPTION_OF_FACE`; Coney redirects attention after technique-oriented confusion. |
+| `EDGE-1243` | `EV-B0180-017` → `EV-B0180-018` | `DAY_END_TO_ACTOR_EXPLANATION`; Liveliness appraisal is followed by Kazumi's own account. |
+| `EDGE-1244` | `EV-B0180-011` → `EV-B0180-018` | `RETROSPECTIVELY_ATTRIBUTED_SPECTATOR_INSIGHT`; Kazumi later gives children's response priority over copying the scientist. |
+| `EDGE-1245` | `EV-B0180-007` → `EV-B0180-018` | `CRITERION_EXPANSION_WITHOUT_ERASING_RESEARCH`; Realism becomes one means rather than a repudiated method. |
+| `EDGE-1246` | `EV-B0180-018` → `EV-B0180-019` | `ACTOR_ACCOUNT_TO_DIRECTOR_HISTORY`; His retrospective report explains a stated value, not independently confirmed past motives. |
+| `EDGE-1247` | `EV-B0180-019` → `EV-B0180-020` | `DOCTRINE_TO_LOCAL_RECOGNITION`; Mutual understanding accompanies tomorrow's commitment. |
+| `EDGE-1248` | `EV-B0180-015` → `EV-B0180-021` | `IMPROVISATION_TO_REPORTED_COACTOR_COST`; Later exertion/enjoyment/apology retain separate frames and offscreen prop report. |
+| `EDGE-1249` | `EV-B0180-020` → `EV-B0180-021` | `LATER_PEER_EXCHANGE`; Recognition gives way to differentiated celebration, not complete film delivery. |
+| `EDGE-1250` | `EV-B0180-017` → `EV-B0180-022` | `OBSERVED_LIVELINESS_TO_MANAGER_REGRET`; Player's self-criticism concerns first discovery. |
+| `EDGE-1251` | `EV-B0180-022` → `EV-B0180-023` | `DISCOVERY_IDEAL_REFRAMED_AS_CREATION`; Kazumi values shared possibilities without granting exclusive authorship. |
+| `EDGE-1252` | `EV-B0180-023` → `EV-B0180-024` | `DEVELOPMENT_COMMITMENT_EXPANDS_REQUESTS`; New wishes remain prospective and manager's joke-title rejected. |
+| `EDGE-1253` | `EV-B0180-024` → `EV-B0180-025` | `DEMANDS_AND_PARTICIPANT_WARMTH`; Final lovely-place appraisal does not settle workload or every request. |
+
+Twenty-five events/28 edges preserve all older bodies, IDs and seven inherited edge-number gaps. No new WORLD/THREAD, full calendar, actual monster event, heard acting, completed movie/public impact, witnessed bomb throw or mature release. Performance role, report, uncertain inference, appraisal and prospective work remain distinct.
+
+## B0181 effort, gratitude and the distance between words
+
+Owner [B0181](../02%20Readings/T7S_B0181_DEEP_READING.md), reading SHA256 `ae1eda72d527228aa2d1e6c37a20f7875ff13f371f141ac8a67c8dc5338f822e`; complete chapter301530 A612203801 P0–58/B612203802 P0–93/C612203803 P0–112. Witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, cumulative source-lock 12.87. Entering B0180/source-lock12.86 complete logical/physical control/entity boundaries remain pinned separately; earlier chronology/horizons are preserved.
+
+| ID | Source range | Local event | Factual reconstruction and qualification |
+| --- | --- | --- | --- |
+| `EV-B0181-001` | A:P2–17 | Familiar skill meets expressive mismatch | Shao substitutes kicks for dance; peers distinguish choreography, interpretation and experience. Their musical/language appraisals are attributed, not heard technique or universal national deficit. |
+| `EV-B0181-002` | A:P18–32 | Bounded peer assistance | Suss recalls ballet and Chacha modest Japanese-dance experience, rejects guaranteed mastery and agrees to help. Local commitment/cultural account, not certified expertise or national rule. |
+| `EV-B0181-003` | A:P37–49 | A next goal becomes invisible | Shao values teaching yet reports missing her own standard and no visible wall/next goal; Player advises patience. No completed relief or clinical assessment. |
+| `EV-B0181-004` | A:P50–58 | Reassurance followed by absence | She worries about the manager's mood, promises tomorrow's practice and leaves; A57 explicitly says absence begins next day. Local relative-time sequence, not restored confidence or global calendar. |
+| `EV-B0181-005` | B:P1–13 | Rest allowed and practical care requested | Peers/Player permit rest, worry about continuing pressure and ask concrete care; they want renewed lessons. Concern/inference, not condemnation of rest or diagnosis. |
+| `EV-B0181-006` | B:P18–21 | Private rejection fear | Alone, Shao assumes disappointment, doubts competence and wishes to hear parents. Her belief conflicts with shown permission; no actual parent call. |
+| `EV-B0181-007` | B:P22–37 | Visit accepted and distress disclosed | Manager asks before entering, rejects punishment fear, hears communication/movement fear and guilt, and permits rest. Source account, not diagnosed disorder. |
+| `EV-B0181-008` | B:P38–52 | A liked skill selected | Player asks for a familiar pleasure; Shao says she cannot refuse his wish, avoids feared movement and chooses calligraphy. Accepted bounded activity with pressure visible; no blanket consent. |
+| `EV-B0181-009` | B:P53–68 | Freer writing recognized | Elided preparation changes clothes; Shao notices improvement and asks why. Self-comparison/manager praise, no readable writing image or measured skill. |
+| `EV-B0181-010` | B:P69–81 | Transfer explanation and effort doctrine | Player relates meaning/concentration across skills, states learning benefits life and recalls scouting; Shao revises useless-effort belief. Attributed explanation/doctrine, not universal proof. |
+| `EV-B0181-011` | B:P82–87 | Reciprocal linguistic effort reported | Player reports peers studying her home language and attributes companionship/migration sympathy; Shao recognizes mistaken effort frame. No witnessed language lesson or measured fluency. |
+| `EV-B0181-012` | B:P88–93 | Gratitude through growth requested | Shao wants to thank peers while demonstrating development and requests a live setup. Request, not yet realized performance. |
+| `EV-B0181-013` | C:P1–11 | Performance introduced through imperfect access | Shadow/shodo and pen/brush are corrected; peers describe large tools before Shao announces live. Props supplied by text, not native Item or visible calligraphy pixels. |
+| `EV-B0181-014` | C:P12–19 | Public thanks and local reception | Shao names 謝謝; crowd responds; Suss recognizes thanks/praises coordination and Chacha values brushwork/feeling. Textual local reception, not analyst-heard performance or all-viewer judgment. |
+| `EV-B0181-015` | C:P20–32 | Support made explicit | Shao credits supporters, manager names gratitude purpose and peers affirm receiving it. Bounded message receipt, not complete audience comprehension. |
+| `EV-B0181-016` | C:P37–50 | Another message invited | After live, Suss requests manager-directed writing, Chacha joins and Shao accepts with embarrassment. Local request, not reciprocal romance or unconditional permission. |
+| `EV-B0181-017` | C:P51–61 | A strained attempt chosen | Shao describes trembling/pressure; Player says not to force herself; she chooses a little forcing and writes. Situation-specific choice, not clinical cure or license to suppress fear. |
+| `EV-B0181-018` | C:P62–78 | Aesthetic impact without decoding | Manager/Suss cannot read impressive text; Chacha jokes illness; Player provisionally thanks; Shao judges communication failed. No new disease, complete meaning or successful delivery. |
+| `EV-B0181-019` | C:P79–85 | Failure receives a different consequence | Peers worry; Shao relates the failed message to results appearing elsewhere and rejects collapse over incomplete reception. Failure remains factual; no guaranteed future success. |
+| `EV-B0181-020` | C:P86–92 | Continued expression with limited recognition | Player asks what she means, Shao rejects presumptuous total understanding and commits effort; peers infer strength/smile with incomplete access. Bounded resilience, not omniscient shared understanding. |
+| `EV-B0181-021` | C:P93–100 | Meaning partly disclosed and withheld | Manager still asks; Chacha offers 我、想う、あなた then stops, protecting an unexplained remainder. No complete romantic translation or reciprocal confession. |
+| `EV-B0181-022` | C:P102–106 | Shared writing welcomed | Suss/Chacha request participation, including proposed criticism; Shao welcomes both. Invitation, not actual resulting messages or settled dyadic possession. |
+| `EV-B0181-023` | C:P107–112 | Adulthood and future address left open | Player privately permits a path until another wall; Shao refuses to hurry adulthood and hopes to learn effort/word distance and reach the addressed you. Prospective, not completed maturity. |
+
+| ID | Directed dependency | Qualification |
+| --- | --- | --- |
+| `EDGE-1254` | `EV-B0181-001` → `EV-B0181-002` | `EXPRESSIVE_PROBLEM_TO_BOUNDED_HELP`; Peer familiarity supplies assistance without guaranteeing mastery. |
+| `EDGE-1255` | `EV-B0181-002` → `EV-B0181-003` | `HELP_WITH_UNRESOLVED_STANDARD`; Teaching effort coexists with Shao's missing progress criterion. |
+| `EDGE-1256` | `EV-B0181-003` → `EV-B0181-004` | `REASSURANCE_WITHOUT_RESOLUTION`; Cheerful promise does not remove later absence. |
+| `EDGE-1257` | `EV-B0181-004` → `EV-B0181-005` | `EXPLICIT_NEXT_DAY_AND_REPEATED_ABSENCE`; A57 starts the local absence sequence; no complete calendar. |
+| `EDGE-1258` | `EV-B0181-005` → `EV-B0181-006` | `CONTRASTED_KNOWLEDGE_FRAMES`; Presented rest permission differs from her private rejection inference. |
+| `EDGE-1259` | `EV-B0181-006` → `EV-B0181-007` | `PRIVATE_FEAR_TO_ACCEPTED_VISIT`; Access changes after the manager asks and hears her account. |
+| `EDGE-1260` | `EV-B0181-007` → `EV-B0181-008` | `DISTRESS_TO_ALTERNATIVE_REQUEST`; Care creates a different task while refusal pressure remains stated. |
+| `EDGE-1261` | `EV-B0181-008` → `EV-B0181-009` | `CHOSEN_PRACTICE_TO_SELF_COMPARISON`; Calligraphy yields locally recognized change, with preparation elided. |
+| `EDGE-1262` | `EV-B0181-009` → `EV-B0181-010` | `SURPRISE_TO_ATTRIBUTED_TRANSFER`; Her question prompts the manager's explanation rather than analyst proof. |
+| `EDGE-1263` | `EV-B0181-010` → `EV-B0181-011` | `EFFORT_REFRAMED_RECIPROCALLY`; Peer language-study report expands who is making effort. |
+| `EDGE-1264` | `EV-B0181-011` → `EV-B0181-012` | `RECOGNIZED_SUPPORT_TO_LIVE_REQUEST`; Gratitude supplies the stated performance purpose. |
+| `EDGE-1265` | `EV-B0181-012` → `EV-B0181-013` | `REQUEST_TO_PRESENTED_SETUP`; C realizes the locally requested event, not every operational detail. |
+| `EDGE-1266` | `EV-B0181-013` → `EV-B0181-014` | `SETUP_TO_PUBLIC_MESSAGE`; Named thanks and source reception follow initial misunderstandings. |
+| `EDGE-1267` | `EV-B0181-014` → `EV-B0181-015` | `RECEPTION_TO_EXPLICIT_PURPOSE`; Peers acknowledge thanks; not every viewer's complete understanding. |
+| `EDGE-1268` | `EV-B0181-015` → `EV-B0181-016` | `PUBLIC_THANKS_TO_PRIVATE_REQUEST`; A successful local performance becomes the occasion for another message. |
+| `EDGE-1269` | `EV-B0181-016` → `EV-B0181-017` | `ACCEPTED_INVITATION_WITH_RETAINED_PRESSURE`; Embarrassed willingness and explicit permission not to force coexist. |
+| `EDGE-1270` | `EV-B0181-017` → `EV-B0181-018` | `ATTEMPT_TO_FAILED_DECODING`; Aesthetic praise does not establish reception of meaning. |
+| `EDGE-1271` | `EV-B0181-018` → `EV-B0181-019` | `FAILURE_REASSESSED`; The failed delivery remains present while its consequence changes. |
+| `EDGE-1272` | `EV-B0181-019` → `EV-B0181-020` | `REASSESSMENT_TO_ONGOING_COMMITMENT`; Continue despite incomplete access rather than certify a cure. |
+| `EDGE-1273` | `EV-B0181-020` → `EV-B0181-021` | `RESOLVE_WITH_UNEXPLAINED_MEANING`; Continued expression does not require full public disclosure. |
+| `EDGE-1274` | `EV-B0181-021` → `EV-B0181-022` | `WITHHELD_PRIVATE_TEXT_TO_SHARED_PRACTICE`; Peers may join without owning the missing message. |
+| `EDGE-1275` | `EV-B0181-022` → `EV-B0181-023` | `LOCAL_PARTICIPATION_TO_OPEN_FUTURE`; Future adulthood/next wall remain prospective. |
+| `EDGE-1276` | `EV-B0181-001` → `EV-B0181-010` | `CROSS_MEDIUM_LEARNING_EXPLANATION`; Manager connects interpretation/concentration to writing; attribution retained. |
+| `EDGE-1277` | `EV-B0181-005` → `EV-B0181-011` | `PEER_CARE_AND_REPORTED_RECIPROCITY`; Rest permission plus language-study report resist assumed rejection without proving fluency. |
+| `EDGE-1278` | `EV-B0181-018` → `EV-B0181-023` | `COMMUNICATION_LIMIT_TO_DEVELOPMENTAL_HORIZON`; Failed reading informs an open goal, not completed communication. |
+
+No new WORLD/THREAD records and no total chronology are required. Twenty-three EV/25 edges append to unchanged bodies, yielding1075EV/1271EDGE (max1278, seven earlier gaps retained),25WORLD/47THREAD. The final declared i-n-g chapter is a bounded causal case and an intermediate completion checkpoint; the full2034 release remains active.
+
+## B0182 Sisara's seven ordinary-life presentations
+
+Owner [B0182](../02%20Readings/T7S_B0182_DEEP_READING.md), reading SHA256 `f1749ce6a2cb3ab53bd2a6e1ddf302e42fd78332e816a60d3a11594497fd1b2c`; complete family200740/routeNM-INTIMACY-200740, seven exact scripts/ranges in reading, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, proposed source-lock 12.88. Entering B0181/source-lock12.87 complete23 physical/logical control/entity boundary remains frozen. Each row is a qualified occurrence mini-case; represented account/desire is not automatically an independently observed world event.
+
+| ID | Complete source | Factual mini-case | Frame and retained consequence |
+| --- | --- | --- | --- |
+| `EV-B0182-001` | 401000002 P0–3 | Sisara values idols/Sisters/manager words and his warm/radiant circle, distinguishes enjoying observation from wanting beside it/him, and asks for a little selfishness. | `PRESENTED_APPRAISAL_DESIRE_REQUEST`; no manager answer, enacted negotiation or reciprocal romance. |
+| `EV-B0182-002` | 401000006 P0–5 | Reports favorite-café visit, habitual solitary window observation, current shared talk/view, unspecified past-like feeling, thanks and valued future time. | `REPORTED_OCCASION_AND_PREFERENCE`; no specified past partner/date or seen café seating;037 is outdoor plaza art. |
+| `EV-B0182-003` | 401000830 P0–5 | Appraises peers as rapidly resilient/idol-like, describes her perceived lack and wish for recognition/place, and requests help believing shared reach exceeds solo reach. | `ACTOR_EVALUATION_AND_ASPIRATION`; no universal peer invulnerability, objective deficit, achieved recognition or infallible manager. |
+| `EV-B0182-004` | 401000926 P0–5 | Critiques district novelty appetite/discarded older idols, values revival/preservation and credits managerial conviction with moving performers. | `SITUATED_CULTURAL_JUDGMENT_AND_SUPPORT`; not exhaustive industry/history proof or sole managerial causation. |
+| `EV-B0182-005` | 401001078 P0–5 | Reports falling asleep during script check, asks time/watching, describes herself modestly, requests ten more minutes/waking if needed and values quiet manager-present space. | `REPORT_QUESTION_LIMITED_REST_REQUEST`; no confirmed prolonged watching, tested alarm, visible nap, heard sleep-talk or blanket surveillance consent. |
+| `EV-B0182-006` | 401001186 P0–5 | Reports uneventful model work/continued expected tasks with stage-singing exception, then distinguishes companionship on return walk/current life and tentatively names pleasure. | `REPORTED_PROFESSIONAL_CONTINUITY_AND_RELATIONAL_DIFFERENCE`; no witnessed shoot/full labor terms, fixed total chronology or complete cure. |
+| `EV-B0182-007` | 401001382 P0–5 | Reports aroma shopping/staff recipe, offers intended fatigue/calm care, fears manager absence and commits to protecting his place/retaining his scent. | `REPORTED_PREPARATION_INTENDED_GIFT_PROTECTIVE_DESIRE`; no verified efficacy, perceived scent, shown gift transfer, reciprocal couple or guaranteed safety. |
+
+| ID | Formal link | Explicitly non-chronological qualification |
+| --- | --- | --- |
+| `EDGE-1279` | `EV-B0182-001` ↔ `EV-B0182-003` | `FORMAL_RECURRENCE_OF_RADIANCE_AND_PARTICIPATION`; observational pleasure/wanting beside light and recognition/belonging are comparable presentations; no before/after or achieved transformation inferred. |
+| `EDGE-1280` | `EV-B0182-002` ↔ `EV-B0182-006` | `CONTRAST_OF_SOLITARY_AND_SHARED_ORDINARY_SPACE`; reported café/return-walk companionship gives a recurring contrast without dating one against the other. |
+| `EDGE-1281` | `EV-B0182-003` ↔ `EV-B0182-007` | `RECIPROCAL_PLACE_EXPRESSION`; wanting her place and protecting his place are linked vocabulary; no literal causal dependency or mature reciprocity promoted. |
+
+No new WORLD/THREAD records or calendar/total chronology. Seven occurrence mini-cases plus three formal links yield1082EV/1274EDGE (maximum1281; seven old gaps retained),25WORLD/47THREAD. Main235/ING280 remain closed unchanged;7 Intimacy documents add bounded factual homes rather than a new Main/i-n-g chapter. Full2034 remains active/incomplete.
+
+## B0183 Sui's independent ordinary-life presentations
+
+Owner [B0183](../02%20Readings/T7S_B0183_DEEP_READING.md), reading SHA256 `2f1655275a443aa5ad3a4d60b79753c6d2e11e93af9a1c84446c560ac0fe3578`; complete family200520 / routeNM-INTIMACY-200520, nine exact scripts and primary ranges in reading, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, proposed source-lock 12.89. Entering B0182/source-lock12.88 complete23physical/control/entity view remains frozen. Every occurrence keeps source reports, appraisals, desire, question and permission distinct from independently observed outcomes.
+
+| ID | Full primary range | Factual mini-case | Frame and retained limit |
+| --- | --- | --- | --- |
+| `EV-B0183-001` | 401000017 P0–4 | Surprised by addressed fan-letter box, contrasts handwritten effort with digital alternatives, reports happy tears, credits manager for becoming a woman and considers her own gratitude letter. | `PRESENTED_ATTENTION_REPORT_AND_SELF_ATTRIBUTION`; no fan census, independently shown tears, sole managerial causation or completed letter. |
+| `EV-B0183-002` | 401000356 P0–3 | Questions change from prince preoccupation/becoming a girl, credits him, proposes ticket gift and tomorrow romantic-film outing, reports popularity by hearsay and requests lessons in love. | `APPRAISAL_INVITATION_AND_REPORTED_POPULARITY`; local tomorrow without calendar/cross-occurrence order; no acceptance, cinema visit or reciprocal confession. |
+| `EV-B0183-003` | 401000404 P0–5 | Fears unusual shopping request, seeks reassurance, asks cute swimsuit selection to his taste, permits fitting display and explicitly demands no touch. | `APPEARANCE_REQUEST_AND_SPECIFIC_BODILY_LIMIT`; no shown choice/fitting/agreement/breach, and looking permission does not waive touch restriction. |
+| `EV-B0183-004` | 401000618 P0–5 | Protests tickling addressed to Yumeno, thanks manager for shelter, reports body appraisal, indicates muscle/abdomen, reacts to closed-room propriety question and speculates boldness means becoming a woman. | `ADDRESSED_PROTEST_REPORTED_EXCHANGE_AND_GENDER_SPECULATION`; no their own text, shown tickling/display or objective transformation; protests remain limits. |
+| `EV-B0183-005` | 401000666 P0–5 | Reports Hime/Harumi-family store purchases, reflects on family support for Nanasta dining, wants to support manager, denies marriage meaning, tentatively imagines it and asks to disregard the aside. | `REPORTED_PROVISION_DESIRED_CARE_AND_QUALIFIED_ASIDE`; denial/possibility/withdrawal all retained; no exhaustive supplier census, proposal or reciprocal marriage. |
+| `EV-B0183-006` | 401000714 P0–5 | Reports anticipation of zoo invitation, distinguishes human men from admired male animals, asks animal-framing touch trial, immediately withdraws it/warns him to flee before a punch and apologizes. | `CONDITIONAL_EXPERIMENT_AND_REVOKED_PERMISSION`; no actually shown touch/punch or cure; her man-framing explanation remains attributed. |
+| `EV-B0183-007` | 401000942 P0–4 | Enjoys after-lesson triple ice cream, offers spoon feeding, initially permits mediated contact, recognizes possible indirect-kiss meaning, is embarrassed but tentatively comfortable and requests reciprocal feeding. | `SPECIFIC_MEDIATED_CONTACT_APPRAISAL_AND_REQUEST`; no direct kiss, fulfilled reciprocal feeding, universal permission or dated progress over006. |
+| `EV-B0183-008` | 401000974 P0–5 | Reports Rona dance practice/apology, argues difficulty warrants lessons and progress feels good, promises continued practice support, reports redness and wonders whether fatigue caused it. | `REPORTED_PEER_SUPPORT_AND_UNRESOLVED_RECEPTION`; Rona has no own reply; fatigue/innuendo remain alternatives, no certified cause or measured mastery. |
+| `EV-B0183-009` | 401001222 P0–5 | Requests cute affirmation, reports recurring comparison anxiety toward Shizuka/Sumire, reports community/manager reassurance, chooses trust and requests the words again. | `SELF_REPORT_ATTRIBUTED_REASSURANCE_AND_RENEWED_REQUEST`; no objective beauty judgment, permanent cure or complete reciprocal access. |
+
+| ID | Formal relation | Non-chronological qualification |
+| --- | --- | --- |
+| `EDGE-1282` | `EV-B0183-003` ↔ `EV-B0183-006` | `LOCAL_PERMISSION_AND_WITHDRAWAL_COMPARISON`; looking/no-touch and conditional direct experiment remain different contexts, no assumed sequence or achieved cure. |
+| `EDGE-1283` | `EV-B0183-006` ↔ `EV-B0183-007` | `DIRECT_VERSUS_MEDIATED_CONTACT_COMPARISON`; failed/revoked trial and tentative spoon comfort coexist, not a treatment ladder or universal incapacity. |
+| `EDGE-1284` | `EV-B0183-001` / `EV-B0183-002` ↔ `EV-B0183-009` | `RECURRING_GENDER_RECOGNITION_AND_AFFIRMATION_REQUEST`; self-credit/questions and recurring anxiety permit qualified comparison without erasing prince/ボク history. |
+
+No new WORLD/THREAD or calendar/total chronology. Nine occurrence mini-cases/three formal edges yield1091EV/1277EDGE (maximum1284; seven historical gaps retained),25WORLD/47THREAD. Main235/ING280 unchanged;16Intimacy primary documents in two complete family portfolios, total531. Full2034 remains active/incomplete.
+
+## B0184 Rona's independent ordinary-life presentations
+
+Owner [B0184](../02%20Readings/T7S_B0184_DEEP_READING.md), reading SHA256 `628a1f03f8e85d88527edaa3489f2cbd4c0ff8cfc4816d12c3e78b806836334e`; complete family200480 / routeNM-INTIMACY-200480, nine exact primary scripts/ranges, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, proposed source-lock 12.90. Entering B0183/source-lock12.89 complete23physical/control/entity view remains frozen. Rona is the sole authored speaker; reports, uptake, judgments, invitations and aspirations are not independently supplied replies or outcomes.
+
+| ID | Full primary range | Factual mini-case | Frame and retained limit |
+| --- | --- | --- | --- |
+| `EV-B0184-001` | 401000028 P0–5 | Reports extra VivaD donuts because Coney/Miu usually eat them and manager seems to miss out; invites private sharing, justifies minor favoritism through care and asks secrecy/exclusive recipient. | `REPORTED_PROVISION_AND_PRIVATE_INVITATION`; no shown donut/consumption/acceptance/census or reciprocal romance; Nico-to-Coney self-correction does not settle old concealment. |
+| `EV-B0184-002` | 401000352 P0–3 | Thanks kindly watching/help, feels smiling time increased versus crying, requests continuing attention, begins a return-directed phrase and withdraws it. | `COMPARATIVE_SELF_REPORT_AND_UNFINISHED_SPEECH`; preserve hedge/desire/incompletion; no permanent cure, inferred confession content or future guarantee. |
+| `EV-B0184-003` | 401000400 P0–5 | Compares peers' work-relevant skills, reports childhood beanbag juggling but devalues it, requests shared skill discovery and offers to follow anything he says because she trusts him. | `SELF_EVALUATION_AND_GUIDANCE_REQUEST`; no objective incompetence, discovered skill, own managerial reply or general bodily/sexual permission. |
+| `EV-B0184-004` | 401000590 P0–5 | Names favorite just-watched Sisters concert video, credits its courage with initial steps/encounters, adds daily manager-derived courage and hopes to give him energy. | `ATTRIBUTED_INFLUENCE_AND_FUTURE_RECIPROCITY`; no viewed concert footage, sole historical cause, exclusive-copy standard or completed reciprocal outcome. |
+| `EV-B0184-005` | 401000670 P0–5 | Thanks acceptance of shopping load, recalls initial Haru/Musubi/self versus lively Nanasta, credits manager alongside Coney, praises effort then apologizes for presumption. | `REPORTED_ARRANGEMENT_MEMORY_AND_WITHDRAWN_PRAISE`; no exhaustive roster, sole institutional cause, verified purchase or removal of rank sensitivity. |
+| `EV-B0184-006` | 401000730 P0–5 | Asks about repeated pickup, requests waiting for shift end, advertises matcha/strawberry taste, calls him regular-like, offers service and promises attempts to please him. | `WELCOME_ADVERTISEMENT_AND_SERVICE_PROPOSAL`; no audited patron history, fulfilled gift/shift, general pricing policy, tasted flavor or blanket permission. |
+| `EV-B0184-007` | 401000906 P0–5 | Reports juicer break/wetness/change/stickiness, initially insists on self-drying then accepts care and calls his manner pleasant; claims only a little more resilience through support. | `REPORTED_MISHAP_UPTAKE_AND_LIMITED_COMPARISON`; no rendered spill/wet hair/drying, manager turn, permanent cure or universal touch permission. |
+| `EV-B0184-008` | 401001002 P0–5 | Credits manager/Coney for varied jobs and enjoyment, reports improvement over early mistakes and support-motivated effort, attempts thanks then stumbles over manager title and regrets it again. | `WORK_SELF_REPORT_AND_TEXTUAL_COMIC_RETURN`; no quantified jobs/causes or flawless mastery; delivery unlistened; all pages present despite002-start cue labels. |
+| `EV-B0184-009` | 401001066 P0–5 | Extended shift explains uniform; wants to keep VivaD job despite idol role, recalls meeting Nico/Coney and first manager encounter there, values site as idol beginning. | `PRESENT_INTENTION_AND_ATTRIBUTED_ORIGIN`; no permanent terms/schedule, settled identity disclosure or cross-case date; native costume/front flag change is local. |
+
+| ID | Formal relation | Non-chronological qualification |
+| --- | --- | --- |
+| `EDGE-1285` | `EV-B0184-001` ↔ `EV-B0184-006` | `PRIVATE_GIFT_AND_SHOP_SERVICE_COMPARISON`: food becomes chosen care in two frames; no asserted temporal/cause order or completed consumption. |
+| `EDGE-1286` | `EV-B0184-002` ↔ `EV-B0184-007` | `LIMITED_IMPROVEMENT_COMPARISON`: smiling/resilience reports retain hedges and reliance; no ordered treatment or cure trajectory. |
+| `EDGE-1287` | `EV-B0184-004` ↔ `EV-B0184-009` | `RECEIVED_COURAGE_AND_VALUED_ORIGIN_COMPARISON`: retrospective influence/place accounts organize belonging; no calendar or sole-cause sequence between occurrences. |
+
+Totals1100EV/25WORLD/47THREAD/1280EDGE. MaximumEDGE1287 retains the seven pre-existing non-active gaps; no renumbering or total menu chronology.
+
+## B0185 Haru's independent ordinary-life presentations
+
+Owner [B0185](../02%20Readings/T7S_B0185_DEEP_READING.md), reading SHA256 `107e19ca4fed6e6beb8a908c336cf777052a98e6fd8c628e67dd864287dc79f6`; complete family200460 / routeNM-INTIMACY-200460, nine exact primary scripts/ranges, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, proposed source-lock 12.91. Entering B0184/source-lock12.90 complete24physical/control/entity views remain frozen. Haru is the sole authored speaker; reports, quoted peer words, answer uptake, judgments and futures remain qualified.
+
+| ID | Full primary range | Factual mini-case | Frame and retained limit |
+| --- | --- | --- | --- |
+| `EV-B0185-001` | 401000039 P0–5 | Cleaning panic at unnamed usual black thing; refuses naming/hearing name, requests manager handling and offers Gジェット. | `LOCAL_FEAR_AND_HELP_REQUEST`; cockroach is contextual inference, no named species/drawn pest/spray/removal or general incapacity. |
+| `EV-B0185-002` | 401000350 P0–3 | Prepares a conversation, says not quitting, credits manager with trying idol life again, loves song/dance and addresses Nanasta's and her manager. | `SELF_AUTHORED_RENEWED_ASPIRATION_AND_ATTRIBUTED_SUPPORT`; no sole cause, reciprocal couple or absolution of coercive recruitment. |
+| `EV-B0185-003` | 401000384 P0–4 | Reports85testpoints and Miwako/Musubi tutoring, feels smarter, proposes academic improvement as aspirant recruitment pitch. | `LEARNING_SELF_REPORT_AND_PROPOSED_INSTITUTIONAL_BENEFIT`; no subject/scale, measured intelligence/causal proof or completed recruitment. |
+| `EV-B0185-004` | 401000388 P0–4 | Egg-flavor answer uptake claims same preference; taiyaki belly uptake matches too, leading to perfect-compatibility play and shyness. | `SIMILARITY_PLAY_THROUGH_UNAUTHORED_ANSWER_UPTAKE`; sweet/salty choice unknown, no depicted food or canonical romantic agreement. |
+| `EV-B0185-005` | 401000448 P0–5 | Reports supply shopping with Hime/Momoka, one-per-person toilet-paper bargain and calling-everyone idea; attributes image question to Momoka, favors approachability herself and asks manager. | `REPORTED_PEER_QUESTION_AND_UNSETTLED_IDOL_IMAGE`; Momoka's settled position unknown, no own turn, completed mass purchase, consensus or durable policy. |
+| `EV-B0185-006` | 401000634 P0–4 | Cleaning papers prompts disposal admonition, imagined communal fire/roasted foods and loss of original topic. | `PRACTICAL_LABOR_TO_IMAGINED_SHARED_PLEASURE`; no actual bonfire/feast/disposal, validated procedure or proved manager negligence. |
+| `EV-B0185-007` | 401000682 P0–5 | Reports searching for Unarin, corrects held keychain as girlfriend Unako with large eyes, asserts hobby seriousness. | `COLLECTING_REPORT_AND_COMIC_DEMAND_FOR_DISTINCTION`; no rendered object/verified scarcity/universal gender rule or new human identity. |
+| `EV-B0185-008` | 401001006 P0–5 | Apologizes for three Rona/VivaD donuts versus own two-limit/weight fear; recalls chocolate pleasure, plans threefold movement in today's streamed live. | `PLEASURE_SELF_RULE_AND_FUTURE_COMPENSATION_PROPOSAL`; no endorsed arithmetic, diagnosis, observed weight/performed live or dated same batch asB0184. |
+| `EV-B0185-009` | 401001062 P0–5 | Reports7109street shopping, overheard pair with recognition/nonrecognition, brief discouragement and optimistic growth inference/effort. | `PARTIAL_RECEPTION_SELF_REPORT_AND_RENEWED_ASPIRATION`; no measured fame/growth, audience census, friend/fan identity or rendered street. |
+
+| ID | Formal relation | Non-chronological qualification |
+| --- | --- | --- |
+| `EDGE-1288` | `EV-B0185-001` ↔ `EV-B0185-006` | `CLEANING_FEAR_AND_SHARED_PLEASURE_COMPARISON`: the same practical activity affords local dependence or imaginative initiative; no same cleaning session or cause/date order. |
+| `EDGE-1289` | `EV-B0185-002` ↔ `EV-B0185-009` | `DECLARED_ASPIRATION_AND_PARTIAL_RECEPTION_COMPARISON`: desired idol life can coexist with incomplete public recognition; no proved career chronology or universal success. |
+| `EDGE-1290` | `EV-B0185-004` ↔ `EV-B0185-007` | `SIMILARITY_AND_HOBBY_DISTINCTION_COMPARISON`: playful agreement and insistence on difference negotiate being understood, without dating cases or proving manager interior state. |
+
+Totals1109EV/25WORLD/47THREAD/1283EDGE. MaximumEDGE1290 retains seven pre-existing non-active gaps; no renumbering or menu-derived total chronology.
+
+## B0186 Kyoko's requests and professional restraint
+
+Owner [B0186](../02%20Readings/T7S_B0186_DEEP_READING.md), reading SHA256 `10e83396e77a4e61cf1bd1e2b62e672c4ca6091d98af24828cf2fd5371b2bf86`; complete family200610 / routeNM-INTIMACY-200610, eight exact primary scripts/fullranges, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, proposed source-lock 12.92. Entering B0185/source-lock12.91 complete24physical/control/entity views remain frozen. A–G are seven independent short occurrences; H is the full238-page exepisode6489, never omitted by filename. Source/menu order is not unlock level or total chronology; H alone supplies a local workday and later pre-live sequence.
+
+| ID | Complete native range | Factual home | Frame and retained limit |
+| --- | --- | --- | --- |
+| `EV-B0186-001` | 401000046 P0–3 | Asks manager likes/skills, asserts wish to know him and promises to remember. | `REQUEST_FOR_PARTICULAR_KNOWLEDGE`; implied replies only, no specific learned answer/reciprocal confession. |
+| `EV-B0186-002` | 401000050 P0–5 | Enjoys idol work, credits own effort, speculates about another career and asks him to watch beside her. | `LABOR_PRIDE_WITH_DESIRED_WITNESS`; no technical rank, sole cause or literal unlimited growth. |
+| `EV-B0186-003` | 401000464 P0–5 | Reports others busy/shared recent routines, withdraws demand for novel talk and requests silent TV/laughter company. | `REVISED_FORM_OF_COMPANY`; no completed harmonious evening or universal shared history. |
+| `EV-B0186-004` | 401000810 P0–5 | Complains about waiting, notices hair/tie, tells him to crouch and says the adjustment is done, with future refusal. | `PRACTICAL_CARE_IN_IRRITATED_ADDRESS`; her lateness/behavior appraisal, no timed arrival/motion/permanent incapacity or caretaker role. |
+| `EV-B0186-005` | 401001034 P0–5 | Relays targeting rumor, explicitly jokes about recruiters, admits fear/concern for smaller children and requests manager protection. | `ATTRIBUTED_THREAT_AND_COLLECTIVE_RELIANCE`; no culprit/attack, verified only-man census, effective protocol or ethical absolution. |
+| `EV-B0186-006` | 401001206 P0–5 | Reports crepe-shop couple classification, insists on manager/idol distinction and denies grinning with itchy-nose explanation. | `EXTERNAL_CLASSIFICATION_AND_WRITTEN_AMBIVALENCE`; no couple agreement/direct other turn or sprite grin change. |
+| `EV-B0186-007` | 401001330 P0–5 | Complains seemingly privately about new recruits/gaze, asserts future work, discovers manager and calls speech drama practice. | `EXPOSURE_AND_ATTRIBUTED_RETRACTION`; explanation follows exposure, not independently marked fiction; no settled jealousy/romance or manager motive. |
+| `EV-B0186-008` | 401006489 P0–40 | Late script collection/workload/rest concern, acting/idol success and lost peer/unit time reports; Player offers packed-day accompaniment. | `WORKLOAD_REPORT_AND_SUPPORT_OFFER`; unspecified earlier incident unassigned, successes/scheduling attributed. |
+| `EV-B0186-009` | 401006489 P41–74 | Read-through fictional lines, director praise/invitation, Kyoko hesitates then declines concern; Player plans next-venue contact. | `REVISION_INVITED_AND_WITHHELD`; P59contact not shown completed, quoted accusation not confession, acting judgments attributed. |
+| `EV-B0186-010` | 401006489 P75–93 | Quiz PR stresses buddy rapport; Player recalls her liking competition and asks about omitted preference; she defends broad/memorable career strategy. | `PROMOTIONAL_RATIONALE_AND_RECALLED_PREFERENCE`; no original-work audit, guaranteed solo lead or complete promotion outcome. |
+| `EV-B0186-011` | 401006489 P94–113 | Efficient photo-session praise, checked selections, interest in unchecked file followed by acceptance after rejection explanation. | `INFERRED_PREFERENCE_AND_SELECTION_GATE`; pixels/criteria unknown, suppression first a manager inference. |
+| `EV-B0186-012` | 401006489 P114–140 | Player raises concern; Kyoko invokes adult non-burden responsibility and leaves; photographer praises her/Nanasta and receives an unspecified favor request. | `RESPONSIBILITY_ACCOUNT_AND_PARTIAL_INTERVENTION`; no unrestricted mind access or known request content atP137. |
+| `EV-B0186-013` | 401006489 P141–159 | Fictional villain-lady lines; film director praises role construction, asks for personal pride/freer acting and permits a break. | `COLLABORATOR_FEEDBACK`; no technical rank, continuous filmed performance or complete film reception. |
+| `EV-B0186-014` | 401006489 P160–204 | Warm tea request/giving; mother-model adult ideal; Player questions replacement; Kyoko declares surpassing mother, accepts creative particularity and proposes renewed acting/idol plan, privately thanks. | `RECIPIENT_AUTHORED_UPTAKE`; mother offscreen, P186universal response assurance not result, P204no sprite, no permanent cure. |
+| `EV-B0186-015` | 401006489 P205–216 | Later pre-live scene; Player relays staff energy praise, Kyoko reports vigorous negotiation/inclusion of her wishes. | `REPORTED_FRICTION_AND_RENEWED_WORK`; no universal agreement/effectiveness or inspected finished production. |
+| `EV-B0186-016` | 401006489 P217–227 | Recognizes sample magazine/photo surprise; Player reports noticing interest, photographer contact/image review and alternative request; peers reportedly wait. | `REPORTED_PHOTO_ADVOCACY_AND_REVEAL`; image pixels/editorial procedure/prior consent remain unavailable. |
+| `EV-B0186-017` | 401006489 P228–237 | Calls back toward live, vows brightest performance/audience smiles and commands his gaze; final fade/title/end. | `PRE_PERFORMANCE_ASPIRATION`; no live/song/actual audience response, motion or elapsed-time proof. |
+
+| ID | Relation | Chronology and causal qualification |
+| --- | --- | --- |
+| `EDGE-1291` | `EV-B0186-001` ↔ `EV-B0186-002` | `PARTICULAR_KNOWLEDGE_AND_ATTENDING_WITNESS_COMPARISON`; different requested goods, no date/order or reciprocal status. |
+| `EDGE-1292` | `EV-B0186-002` ↔ `EV-B0186-003` | `WORK_WITNESS_AND_QUIET_COMPANY_COMPARISON`; watching work and co-laughter remain distinct, not an ordered relationship progression. |
+| `EDGE-1293` | `EV-B0186-004` ↔ `EV-B0186-005` | `PRACTICAL_CARE_AND_PROTECTION_REQUEST_COMPARISON`; care moves in different directions without validating hierarchy or a safety protocol. |
+| `EDGE-1294` | `EV-B0186-007` ↔ `EV-B0186-009` | `POST_EXPOSURE_REHEARSAL_EXPLANATION_AND_MARKED_FICTION_COMPARISON`; G's claimed practice differs from H's explicitly quoted role lines; no total chronology. |
+| `EDGE-1295` | `EV-B0186-009` / `EV-B0186-010` / `EV-B0186-011` → `EV-B0186-014` | `LOCALLY_ORDERED_WITHHELD_PREFERENCES_AND_ADULT_ACCOUNT`; H's later self-explanation supports a bounded reading of earlier restraint, not infallible initial manager diagnosis or sole cause. |
+| `EDGE-1296` | `EV-B0186-013` → `EV-B0186-014` | `COLLABORATOR_INVITATION_AND_OWN_PLAN_UPTAKE`; director feedback precedes the conversation and authored plan withinH; multiple contributions, no guaranteed production result. |
+| `EDGE-1297` | `EV-B0186-011` → `EV-B0186-016` | `LOCALLY_ORDERED_PHOTO_INTEREST_AND_REPORTED_ALTERNATIVE`; coda returns to the earlier file, while pixels/permission/editorial chain remain uninspected. |
+
+Totals1126EV/25WORLD/47THREAD/1290EDGE; maximumEDGE1297 retains seven pre-existing non-active gaps.17new events are factual subcases covering every complete document, not17new source documents. No renumbering, world/thread promotion or menu-derived dates.
+
+## B0187 Shizuka's independent ordinary-life presentations
+
+Owner [B0187](../02%20Readings/T7S_B0187_DEEP_READING.md), reading SHA256 `d3e8589e0c8d5886a32a4e9a16b82bd5edcfaa8d13acd2dc166c5df60285ed48`; complete family200530 / routeNM-INTIMACY-200530, nine exact primary scripts/ranges, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, proposed source-lock 12.93. Entering B0186/source-lock12.92 complete24physical/control/entity views remain frozen. Shizuka is the sole authored speaker; questions, answer uptake, reports, inferred/quoted responses and future plans retain their separate access bounds.
+
+| ID | Full primary range | Factual mini-case | Frame and retained limit |
+| --- | --- | --- | --- |
+| `EV-B0187-001` | 401000057 P0–3 | Credits fresh daily experience, calls manager kind/reliable, attributes grandfather's apparent affection, leaves own parallel predicate incomplete and says she seems feverish. | `OUTWARD_LEARNING_AND_SUSPENDED_PERSONAL_ADDRESS`; no direct grandfather turn, completed confession, measured fever or own manager answer. |
+| `EV-B0187-002` | 401000061 P0–5 | Says usual tea/rest offered, today's blend exclusive, claims recovery/alerting/prevention, urges self-care and offers daily dedicated service. | `STATED_CARE_AND_EXCLUSIVE_FUTURE_OFFER`; no observed drinking, verified medical efficacy, body ownership, manager assent or enacted daily regime. |
+| `EV-B0187-003` | 401000412 P0–5 | Reports yearly grandfather retreat and permitted idleness amid duties, wants manager's company and playfully imagines taking him away if no holiday. | `REPORTED_SANCTIONED_REST_AND_UNSETTLED_INVITATION`; no dated year, trip/abduction, leave/assent or unlimited household permission. |
+| `EV-B0187-004` | 401000468 P0–5 | Asks whether manager sought her, reports losing Nanasta location/usual following, welcomes encounter and conditionally values being found/waits for future finding. | `LOCAL_DISORIENTATION_AND_EXPECTED_ATTENTION`; no own manager search turn, intentional loss or guaranteed rescue/capacity. |
+| `EV-B0187-005` | 401000674 P0–5 | Shopping address, kebab-name uptake/smell account, uncertainty about eating without furniture/chopsticks, welcomed teaching offer and wish to buy/learn more. | `CHOSEN_LEARNING_AFTER_SPECIFIC_ETIQUETTE_GAP`; no completed purchase/eating, drawn stall or universal incapacity. |
+| `EV-B0187-006` | 401000702 P0–5 | Wrong app/repeated trouble and calls, desire to learn, reported Haru-group instruction, textual two-shot, then unresolved wallpaper request. | `UNEVEN_TECHNICAL_SKILL_AND_PERSONAL_PHOTO_ADDRESS`; no rendered photo/app, separate shutter sound, full mastery or completed wallpaper. |
+| `EV-B0187-007` | 401000946 P0–5 | Reports arcade sensory fatigue/gameovers, asks about Matsuri training, enjoys watching manager's zombie game and asks to return. | `LIMITED_PLAY_WITH_PLEASURABLE_SPECTATORSHIP`; no heard noise, proved training/technical ranking, actual footage, literal violence or total aversion. |
+| `EV-B0187-008` | 401001018 P0–5 | Notices evening after practice absorption, needs freshening for planned brother meal, proposes manager introduction, infers fit from reported Mana fandom and offers escort. | `PLANNED_FAMILY_ENCOUNTER_AND_REVERSED_GUIDANCE`; no new brother name/identity/own response, completed dinner/introduction or manager assent. |
+| `EV-B0187-009` | 401001146 P0–5 | Reports classmates' apparent butler inference, her life-entrustment explanation/grandfather-trust appeal, reported congratulations and own idol/meeting interpretation. | `REPORTED_RECEPTION_AND_DIVERGENT_POSSIBLE_MEANINGS`; no independently authored classmates' meaning, proved engagement/couple or new butler entity. |
+
+| ID | Formal relation | Non-chronological qualification |
+| --- | --- | --- |
+| `EDGE-1298` | `EV-B0187-001` ↔ `EV-B0187-005` | `OUTWARD_LEARNING_AND_SPECIFIC_FOOD_LEARNING_COMPARISON`: general newexperience account meets a chosen concrete learning occasion; no date/order or measured total learning. |
+| `EDGE-1299` | `EV-B0187-002` ↔ `EV-B0187-003` | `CARE_AND_SHARED_REST_COMPARISON`: tea/rest support and desired idleness distribute initiative differently; no enacted care/trip or shared permission chain. |
+| `EDGE-1300` | `EV-B0187-004` ↔ `EV-B0187-006` | `ATTENTION_AND_DESIRED_SELF_RELIANCE_COMPARISON`: welcoming being found coexists with wanting fewer repeated calls; no universal dependence or actual before/after skill gain. |
+| `EDGE-1301` | `EV-B0187-006` ↔ `EV-B0187-007` | `PARTIAL_SKILL_AND_ENJOYMENT_COMPARISON`: one learned function and pleasurable spectatorship coexist with unresolved operations; no same outing/device or training history. |
+| `EDGE-1302` | `EV-B0187-005` ↔ `EV-B0187-008` | `FOOD_GUIDANCE_AND_ESCORT_OFFER_COMPARISON`: learner can offer guidance toward a family encounter; no completed meal/escort or global reversal of competence. |
+| `EDGE-1303` | `EV-B0187-006` ↔ `EV-B0187-008` | `REQUESTED_TECHNICAL_HELP_AND_FAMILY_GUIDANCE_COMPARISON`: technological uncertainty does not abolish situational initiative; no completed manager help, dated development or inferred manager acceptance. |
+| `EDGE-1304` | `EV-B0187-001` ↔ `EV-B0187-009` | `SUSPENDED_ADDRESS_AND_REPORTED_RECEPTION_COMPARISON`: unfinished personal predicate and life-entrustment explanation permit differing interpretations without reciprocal romance or classmates' independent meaning. |
+
+Totals1135EV/25WORLD/47THREAD/1297EDGE. MaximumEDGE1304 retains seven pre-existing non-active gaps; no renumbering, invented causal chain or menu-derived total chronology.
+
+## B0188 Hime's independent ordinary-life presentations
+
+Owner [B0188](../02%20Readings/T7S_B0188_DEEP_READING.md), reading SHA256 `58a534a5bbda3974857a66222c6330fc6e3147084e448b737466705f10dcff33`; complete family200490 / routeNM-INTIMACY-200490, nine exact primary scripts/ranges, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`, proposed source-lock 12.94. Entering B0187/source-lock12.93 complete24physical/control/entity views remain frozen. Hime is the sole authored speaker; reports, answer uptake, imagined reception and proposed acts remain distinct from independently supplied counterparts/outcomes.
+
+| ID | Full primary range | Factual mini-case | Frame and retained limit |
+| --- | --- | --- | --- |
+| `EV-B0188-001` | 401000068 P0–5 | Acknowledges asking for shop help, reports new nama-chocolate tofu made from Miu's idea, asks for tasting, qualifies thank-you framing and discusses affection-bearing gifts before denying that meaning for her own offering. | `OFFERED_PRODUCT_AND_RESTRICTED_GIFT_INTERPRETATION`; no confirmed romantic gift, actual manager tasting/reply, ingredient recipe or raw-ingredient claim. |
+| `EV-B0188-002` | 401000353 P0–3 | Reports a family-granted free day and a while since two-person time, offers bicycle transport anywhere, then explains any destination is fine because the manager will be with her. | `DESIRED_COMPANY_WITHOUT_CHOSEN_DESTINATION`; no completed ride/date, standing release from duties or manager assent. |
+| `EV-B0188-003` | 401000392 P0–4 | Questions bicycle intervention, attributes oiling/improved condition through uptake, asks for a chance to thank, and offers a trip home or possible dinner. | `RECEIVED_HELP_AND_PROPOSED_RECIPROCITY`; no directly depicted repair, general prior-permission rule, exact maternal-bicycle continuity or completed return service. |
+| `EV-B0188-004` | 401000456 P0–5 | Corrects today's pronoun/register, reports Mimi's adult makeup lesson and thin reaction, then predicts beauty like her mother and future manager regret. | `LOCAL_APPEARANCE_REPERTOIRE_AND_FUTURE_CHALLENGE`; no permanent authentic-self switch, pictured makeup change, manager interiority or verified future beauty/interval. |
+| `EV-B0188-005` | 401000638 P0–4 | Reports yesterday's grave visit with father and others, formal idol-activity report including manager/companions/an unnamed manager role, felt maternal smile and own all-family-recognition conclusion. | `REPORTED_RECOGNITION_THROUGH_FELT_MATERNAL_ADDRESS`; no literal mother response, named638manager, independently known unanimity or complete grief/vocation resolution. |
+| `EV-B0188-006` | 401000726 P0–5 | Two-person holiday shopping address, embarrassment and reported Haru suggestions, wish to dress up with a stated style limit, willingness to wear a manager-selected accessory and search bright shops. | `CHOSEN_ADORNMENT_WITH_LOCAL_ASSISTANCE`; no completed selection/purchase/wearing, universal feminine norm or blanket image authority. |
+| `EV-B0188-007` | 401000986 P0–5 | Invites manager and group to coming festival, plans mother-gifted yukata and asks to be seen despite self-doubt, then conditionally proposes riverbank fireworks and memories. | `COMMUNAL_INVITATION_AND_DESIRED_PERSONAL_RECOGNITION`; no depicted yukata, post-death bequest/date, completed exclusive date or total chronology. |
+| `EV-B0188-008` | 401001070 P0–5 | Announces washing, reports Momoka's spill on an unspecified-owner costume and residents'/Susu's clothes, predicts hand-wash remedy, offers all laundry/manager-shirt/ironing and questions mother-like manner. | `EXPANDING_CARE_OFFER_AND_ROLE_SELF_CHECK`; no shown washing/stain result/shirt handover, permanent domestic assignment or actual parental authority. |
+| `EV-B0188-009` | 401001258 P0–5 | Reports fatigue/thirst after Coney's soccer proposal, mixed enjoyment and Rona's weak shot she wanted manager to see, then invites next participation and offers goalkeeping as returned support. | `BURDENED_ENJOYMENT_AND_PROSPECTIVE_RETURN_OF_SUPPORT`; no heard breath, objective ranking, prior manager spectatorship, delivered drink/return match or bodily/romantic assent. |
+
+| ID | Formal relation | Non-chronological qualification |
+| --- | --- | --- |
+| `EDGE-1305` | `EV-B0188-001` ↔ `EV-B0188-003` | `OFFERED_PRODUCT_AND_REQUESTED_CHANCE_TO_THANK_COMPARISON`: different gift/reciprocity formulations retain001's denials and003's gratitude request; no same exchange or prior/after sequence. |
+| `EDGE-1306` | `EV-B0188-002` ↔ `EV-B0188-006` | `COMPANY_AND_ASSISTED_CHOICE_COMPARISON`: desired presence and selected adornment coexist with particular wishes; no single outing, performed transport or completed accessory choice. |
+| `EDGE-1307` | `EV-B0188-004` ↔ `EV-B0188-006` | `SELF_CHOSEN_APPEARANCE_REPERTOIRE_COMPARISON`: temporary adult address and a retained style limit do not replace gruff speech or authorize universal image control; no maturation chronology. |
+| `EDGE-1308` | `EV-B0188-005` ↔ `EV-B0188-007` | `FELT_MATERNAL_RECOGNITION_AND_RECEIVED_GARMENT_COMPARISON`: remembered address and a planned maternal gift presentation retain different report/future bounds; no dated sequence, present approval or inheritance inference. |
+| `EDGE-1309` | `EV-B0188-004` ↔ `EV-B0188-008` | `MATERNAL_RESEMBLANCE_AND_MATERNAL_MANNER_COMPARISON`: future beauty and joking care-role self-check are different forms of maternal association; no literal motherhood or one inevitable feminine role. |
+| `EDGE-1310` | `EV-B0188-003` ↔ `EV-B0188-009` | `RECEIVING_HELP_AND_OFFERING_A_RETURN_COMPARISON`: chance to thank and prospective catch/support make reciprocity expressible; no settled manager reply, completed return act or exclusive romance. |
+| `EDGE-1311` | `EV-B0188-008` ↔ `EV-B0188-009` | `CARE_OFFER_AND_FATIGUE_COMPARISON`: practical care and a request for support do not make Hime permanently self-sufficient or prove sustainable labor/leisure conditions; no common day or duty cycle. |
+
+Totals1144EV/25WORLD/47THREAD/1304EDGE. MaximumEDGE1311 retains seven pre-existing non-active gaps; no renumbering, invented causal chain or menu-derived total chronology.

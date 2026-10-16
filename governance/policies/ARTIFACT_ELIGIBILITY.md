@@ -19,22 +19,19 @@ A named exception must identify the artifact, purpose, rights basis, size, conte
 
 A reviewed text artifact over 1 MiB is admissible only when `governance/repository-controls/tracked-file-policy.json` binds its exact repository path, byte length, and SHA-256 digest. The validator does not treat the exception as a path-wide allowance: a one-byte or one-bit change invalidates the tuple and restores the normal size and text-normalization failures. Secret, publication-hazard, NUL, and strict UTF-8 checks are never waived.
 
-The following single exception is approved for the G4 P02 large-structured boundary:
+`named_text_exceptions` in that file is the only binding copy of each tuple, alongside its purpose, rights basis, review decision and why an external reference is insufficient. Six exceptions are admitted:
 
-| Repository path | Bytes | SHA-256 | Review decision | Encoding allowance |
-|---|---:|---|---|---|
-| `series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv` | 1,377,633 | `7dde60c452627a694307dda68abfb0d4d434ec1c2ce934bf85a0b81db483c366` | `OWNER_APPROVED_G4_P02_LARGE_STRUCTURED_BOUNDARY` | Existing UTF-8 BOM and carriage returns are accepted only while the complete tuple matches. |
+| Exception IDs | Repository path | Review decision | Encoding allowance |
+|---|---|---|---|
+| `G7_AGGREGATE_DRIVE_TO_GIT_CROSSWALK`, `G7_AGGREGATE_MATERIALIZATION_RESULTS`, `G7_AGGREGATE_PATH_PLAN` | `crosswalk/drive-to-git.jsonl`, `crosswalk/materialization-results.jsonl`, `crosswalk/path-plan.jsonl` | `OWNER_AUTHORIZED_G7_AGGREGATE_PROVENANCE_CLOSURE` | Strict UTF-8/LF. |
+| `IDOLY_PRIDE_SOURCE_TO_BUNDLE_PROVENANCE_CSV` | `series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv` | `OWNER_APPROVED_G4_P02_LARGE_STRUCTURED_BOUNDARY` | Existing UTF-8 BOM and carriage returns are accepted only while the complete tuple matches. |
+| `BLUE_ARCHIVE_CYCLE007_MAIN_COVERAGE_396168A9`, `BLUE_ARCHIVE_CYCLE007_SUPPLEMENTAL_CROSSWALK_0B4C0034` (see below) | `series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md`, `series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv` | `ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1` | Strict UTF-8/LF; `allow_utf8_bom=false`, `allow_carriage_returns=false`. |
 
-The ledger is retained because its source-to-bundle relationships are directly queryable analytical provenance; an external-only pointer would make the migrated analyses materially harder to interpret and audit. This is not a general CSV, Idoly Pride, BOM, CRLF, or size-threshold exception.
+The IDOLY PRIDE ledger is retained because its source-to-bundle relationships are directly queryable analytical provenance; an external-only pointer would make the migrated analyses materially harder to interpret and audit. This is not a general CSV, Idoly Pride, BOM, CRLF, or size-threshold exception.
 
 ## Blue Archive Cycle007 exact text derivatives
 
 The separate [ROOT exact size/content review record](../reports/storage-decisions/BLUE_ARCHIVE_CYCLE007_EXACT_TWO_TEXT_DERIVATIVE_SIZE_CONTENT_REVIEW_V1.json) records review decision `ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1` for these two scoped derivatives. ROOT actually read every changed semantic literal and verified every final byte; unchanged incumbent content is inherited through verified beforeimages and historical review boundaries. This records the exact content/size disposition; installation, source admission, publication and merge remain separate.
-
-| Repository path | Bytes | SHA-256 | Review decision | Encoding allowance |
-|---|---:|---|---|---|
-| `series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` | 1,135,497 | `396168a919bab2e2f7dfc865c29d10a107ea0e5ac045230ec16f3943ca915059` | `ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1` | Strict UTF-8/LF; `allow_utf8_bom=false`, `allow_carriage_returns=false`. |
-| `series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv` | 1,076,962 | `0b4c0034e9c9b0bb1f7c3298c54df3735841b614cf1871b755c9633fd2ab6bcf` | `ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1` | Strict UTF-8/LF; `allow_utf8_bom=false`, `allow_carriage_returns=false`. |
 
 Both are size-only exceptions. A one-byte or one-bit change revokes the corresponding exact exception. They retain locally queryable authored coverage and source-to-analysis/admission relationships that an external-only pointer would remove. The review grants no upstream rights or rights to unadmitted Event812 bodies; third-party exclusions remain governing. No source-media, bulk primary narrative, raw-transcript, general CSV, directory-wide or path-wide permission is created. Secret, publication-hazard, NUL and strict UTF-8 validation remain mandatory. The 1 MiB review, 10 MiB generated-structured default-external and 25 MiB hard-exception thresholds remain unchanged. The G4 Idoly Pride tuple and its narrow BOM/CR allowances above remain unchanged.
 
