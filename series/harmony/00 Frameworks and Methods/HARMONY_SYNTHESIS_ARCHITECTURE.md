@@ -8,7 +8,7 @@ generation: HARMONY_BOOTSTRAP_V1
 version: '0.2'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
-source_boundary: HAR-JP-EPUB-001 verified for bounded HAR-U001; opening words inspected for source fidelity after entering freeze; zero sequential-analysis units admitted at G0
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U001 through spine 9, exclusive before text/part0006_split_002.html; later narrative unread
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -130,7 +130,7 @@ Genocidal Organ / 虐殺器官 remains a separate project. Do not consult its na
 
 Use `BOUNDED_STANDARD` for source/locator reconnaissance; `SUBSTANTIVE_ANALYSIS` for ordinary sequential readings; `DEEP_SYNTHESIS` for architecture, reconciliation, specialists and reconstruction; escalate an unusually propagation-sensitive novel-wide convergence/audit to `PREMIUM_QUALITY_FIRST` with a stated benefit. These are workload classes, not model identity claims.
 
-This bootstrap uses hosted Work/Codex with Git/Python and connected Drive. Byte retrieval, XML parsing and Git/text authoring were exercised; visual prose fidelity and narrative inspection were not. Future Japanese prose and faithful rendering capability must be verified before admission. Audio/continuous AV are OUT_OF_SCOPE for this prose-only project. No API spending or local-device access is inferred.
+At bootstrap, hosted Work/Codex with Git/Python and connected Drive exercised byte retrieval, XML parsing and Git/text authoring; visual prose fidelity and narrative inspection had not occurred. The later HAR-U001 pilot verified bounded Japanese reading, XHTML/CSS rendering and actual image inspection; its execution receipt records the precise tools, scope and remaining limitations. Audio/continuous AV are OUT_OF_SCOPE for this prose-only project. No API spending or local-device access is inferred.
 
 For the later longitudinal lifecycle, prefer a capable Git/source operator for sequential transactions, fresh cloud reasoning for substantial retrospective synthesis, and a designated integrator for exact-byte/evidence reconciliation. Because this is one novel, use the simplest adequate arrangement and record a justified exception to the long-series preference; no extra environment or session is required merely by a diagram. One active owner edits shared state. A handoff carries full outputs, source/hash/exposure boundary, base commit, intended paths, claim revisions, preserved freezes and unresolved obligations; a summary alone is insufficient. Acceptance checks base/candidate/current drift and source support before targeted integration.
 
