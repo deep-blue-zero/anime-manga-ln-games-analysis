@@ -5,13 +5,13 @@ artifact_type: claim_revision_ledger
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.1'
+version: '0.2'
 status: active_provisional
 scope: Claims, counterevidence, predictions and revisions ledger
-source_boundary: Original Japanese prose novel; candidate EPUB structurally inspected; zero narrative units admitted or read
+source_boundary: Original Japanese prose novel; bounded EPUB witness verified for GO-U001; zero closed narrative units at G0
 canonical_home: series/genocidal-organ/03 Longitudinal Ledgers/GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: '2026-10-16'
-review_status: OWNER_REVIEW_PENDING
+review_status: FOUNDATION_ACCEPTED_FOR_ONE_OWNER_AUTHORIZED_PILOT
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
