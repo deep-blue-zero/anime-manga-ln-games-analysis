@@ -1,4 +1,36 @@
 {
+  "current_publication_and_integration_control_20261016_V1": {
+    "recorded_UTC": "2026-10-16",
+    "owner_instruction": "I want Phase 3 progress published and pushed at the 25, 50, 75, and 100% milestones to keep the repo continuously updated, as opposed to waiting for everything to be done at 100. So go ahead and promote, reconcile, and merge the current Blue Archive PRs.",
+    "canonical_current_state": "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md",
+    "checkpoint_procedure": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md#5-progress-and-the-four-merges",
+    "current_PRs": [
+      173,
+      158
+    ],
+    "current_merge_authorization": "OWNER_AUTHORIZED_NOW; supersedes earlier PR173/PR158 draft/HOLD and reserved merge statements; no wait for178 or355 for this tranche",
+    "verified_published_source": "f93ab42fc3cfdeedd8df37455d9c8da4c88ae49d",
+    "published_required_packages": 152,
+    "published_named_duties": 19,
+    "milestone_thresholds": {
+      "25": 89,
+      "50": 178,
+      "75": 267,
+      "100": 355
+    },
+    "next_milestone": 178,
+    "remaining_to_next_milestone": 26,
+    "reconciled_main": "31d7faca88d57078cc973faa369eb9ca67535bfb",
+    "publication_and_integration_results": "PENDING_NEW_EXACT_HEAD_SEQUENCE_AND_PROTECTED_MAIN_POSTMERGE_AUDIT; record actual results in existing PR receipts",
+    "analytical_limits": "Fixed150 source/semantic consistency audit ACTIVE; all14 original claim-specific gaps OPEN; models0; no new semantic acceptance, source admission, identity join, model or package credit",
+    "earlier_control_field_scope": "Earlier preparation, conditional installation, publication-pending and draft/HOLD/reserved-merge fields are dated snapshots. This control governs current publication and merge routing only; substantive source/claim/custody qualifications and outstanding analytical obligations remain applicable.",
+    "prior_mutable_current_fields_retained_as_dated_history": {
+      "progress_percentage": "NOT_REPORTED;CONDITIONAL_KEI_LOCAL152_NAMED19;ACTUAL_PUBLISHED0003_151_NAMED18;MAIN_COUNT_NOT_FRESHLY_VERIFIED_HERE;NEXT178_UNREACHED_26_REMAINING;355_29_25_384_788_UNCHANGED",
+      "milestone_scope_state": "FULL_REQUIRED_SCOPE355_29_25_384_788;FIRST89_HISTORY_COMPLETE;CONDITIONAL_AFTER_KEI_ROOT_INSTALL152_NAMED19;ACTUAL_REMOTE151_NAMED18;NEXT178_UNREACHED_26_REMAINING;BROAD150_AUDIT_ACTIVE",
+      "quarter_reached_qualification": "First89 history remains complete; conditional Kei installation152/19 is not a milestone. Actual source0003 has151/18; no fresh main count or merge approval here. Next178 pending26 after installation; broad current150 consistency audit active.",
+      "main_integration": "RETAINED_ORIGINAL_MAIN133_C47_HISTORY_QUALIFIED_BY_CURRENT_SOURCE0003_NORMAL_MAIN_RECONCILIATION;FRESH_MAIN_COUNT_NOT_CLAIMED_HERE;ACTUAL_PUBLISHED0003_151_NAMED18;CONDITIONAL_KEI_LOCAL152_NAMED19;EXACTHEAD_RUNTIME_PUBLICATION_PENDING;BROAD_CURRENT150_AUDIT_ACTIVE;PR158_OPEN_DRAFT_HOLD;MERGE_RESERVED"
+    }
+  },
   "drafted_against_commit": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
   "candidate_responsibility_rows": 788,
   "typed_family_rows": 148,
@@ -28,7 +60,7 @@
   ],
   "main43_retrieval_witnesses": "COMPLETE_ARGUMENT_AND_SOURCE_SCOPED_DISPOSITION_ACCEPTED_WITH_LIMITS",
   "quarter_reached": true,
-  "progress_percentage": "NOT_REPORTED;CONDITIONAL_KEI_LOCAL152_NAMED19;ACTUAL_PUBLISHED0003_151_NAMED18;MAIN_COUNT_NOT_FRESHLY_VERIFIED_HERE;NEXT178_UNREACHED_26_REMAINING;355_29_25_384_788_UNCHANGED",
+  "progress_percentage": "152/355 (42.8169%); VERIFIED_PUBLISHED_f93ab42fc3cfdeedd8df37455d9c8da4c88ae49d; NAMED19/29; MAIN_INTEGRATION_AUTHORIZED_PENDING_PR158; NEXT178_UNREACHED_26_REMAINING",
   "opening_candidate_responsibility_rows": 761,
   "new_source_local_or_non_character_headers": 27,
   "completed_owner_roster_reviews": 105,
@@ -48,7 +80,7 @@
     "P3-XMI-R001"
   ],
   "initial_761_still_pending_rows": 0,
-  "milestone_scope_state": "FULL_REQUIRED_SCOPE355_29_25_384_788;FIRST89_HISTORY_COMPLETE;CONDITIONAL_AFTER_KEI_ROOT_INSTALL152_NAMED19;ACTUAL_REMOTE151_NAMED18;NEXT178_UNREACHED_26_REMAINING;BROAD150_AUDIT_ACTIVE",
+  "milestone_scope_state": "FULL_REQUIRED_SCOPE355_29_25_384_788; FIRST89_HISTORY_COMPLETE; VERIFIED_PUBLISHED152_NAMED19; OWNER_AUTHORIZED_CURRENT_PR173_PR158_INTEGRATION; NEXT178_UNREACHED_26_REMAINING; BROAD150_AUDIT_ACTIVE",
   "accepted_literary_character_packages": [
     "Asuna",
     "Toki",
@@ -283,11 +315,11 @@
     "Pandemonium–Ibuki: different directions of company and care",
     "Gourmet Club: differentiated pleasure and unreliable mutual care"
   ],
-  "quarter_reached_qualification": "First89 history remains complete; conditional Kei installation152/19 is not a milestone. Actual source0003 has151/18; no fresh main count or merge approval here. Next178 pending26 after installation; broad current150 consistency audit active.",
+  "quarter_reached_qualification": "First89 milestone remains integrated. Published152/355 and19/29 named duties are verified at f93ab42fc3cfdeedd8df37455d9c8da4c88ae49d. The owner authorizes the current interim tranche to merge now; next178 remains unreached with26 packages remaining. The separate fixed150 source/semantic consistency audit remains active.",
   "goal_quarter_milestone_complete": true,
   "goal_quarter_milestone_remaining_prerequisites": [],
   "currently_source_published_packages_before_successor_publication": 151,
-  "main_integration": "RETAINED_ORIGINAL_MAIN133_C47_HISTORY_QUALIFIED_BY_CURRENT_SOURCE0003_NORMAL_MAIN_RECONCILIATION;FRESH_MAIN_COUNT_NOT_CLAIMED_HERE;ACTUAL_PUBLISHED0003_151_NAMED18;CONDITIONAL_KEI_LOCAL152_NAMED19;EXACTHEAD_RUNTIME_PUBLICATION_PENDING;BROAD_CURRENT150_AUDIT_ACTIVE;PR158_OPEN_DRAFT_HOLD;MERGE_RESERVED",
+  "main_integration": "OWNER_AUTHORIZED_PR173_REPAIR_AND_PR158_CURRENT152_NAMED19_INTEGRATION_20261016; RECONCILED_MAIN31d7faca88d57078cc973faa369eb9ca67535bfb; EXACT_HEAD_SOURCE_HOUSEKEEPING_FINAL_AND_PROTECTED_MAIN_POSTMERGE_AUDIT_REQUIRED; RESULTS_IN_EXISTING_PR_RECEIPTS; HISTORICAL_DRAFT_HOLD_AND_MERGE_RESERVATIONS_SUPERSEDED",
   "completed_literary_institution_packages": 21,
   "accepted_literary_institution_packages": [
     "Justice Task Force: work, leisure and answerability",

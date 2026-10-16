@@ -2,7 +2,7 @@
 
 > Repository state: public, owner-maintained, and active as the epoch-1 primary analytical authority. The sealed cutover scope contains 2,939 Drive-derived representations covering 2,924 unique source artifacts across 37 migrated series roots and two study roots. Post-cutover Git-native analytical roots are listed separately and do not alter those historical migration counts.
 >
-> Analytical authority: Git for the exact hashed migration scope in `AUTHORITY_SCOPE.json` and for owner-approved post-cutover Git-native analysis routed through the live registry, effective under authority epoch 1. The repository is in its approved 14-day stabilization period. Declared Drive-native authoring surfaces and reference-only artifacts retain their narrower roles.
+> Analytical authority: Git for the exact hashed migration scope in `AUTHORITY_SCOPE.json` and for owner-approved post-cutover Git-native analysis routed through the live registry, effective under authority epoch 1. The owner accepted the stabilized epoch on 2026-10-15. Declared Drive-native authoring surfaces and reference-only artifacts retain their narrower roles.
 
 This is the Git-side navigation index derived from the historical Drive hierarchy and extended by governed post-cutover analytical roots. Every migrated representation is bound to its source identity, revision, byte hash, transformation, and final repository path in `../crosswalk/`. Post-cutover roots must identify their own source/evidence authority and provenance in their canonical entrypoint.
 
@@ -40,6 +40,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`
 - [Oregairu](../series/oregairu/) — `series/oregairu/`
 - [Oreimo](../series/oreimo/) — `series/oreimo/`
+- [Peach Girl / ピーチガール](../series/peach-girl/) — `series/peach-girl/` — Original Japanese manga analysis of character development, directional relationships, information and reputation, and manga form; architecture supports longitudinal synthesis and time-bounded character reconstruction. Primary and derived evidence remain in Drive.
 - [Project SEKAI](../series/project-sekai/) — `series/project-sekai/` — Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git.
 - [Re:ZERO -Starting Life in Another World-](../series/re-zero/) — `series/re-zero/` — post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary.
 - [Redo of Healer](../series/redo-of-healer/) — `series/redo-of-healer/`

@@ -1,7 +1,8 @@
 schema: manga-anime-git-migration/authority-state/v1
 authority_epoch: 1
-state: GIT_ACTIVE_STABILIZING
+state: GIT_ACTIVE_ACCEPTED
 effective_at: 2026-09-02T14:20:11Z
+accepted_at: "2026-10-15"
 effective_authority:
   analytical_corpus: GIT
   git_repository: PRIMARY
@@ -10,9 +11,10 @@ effective_authority:
   primary_source_and_extraction_workspace: OUT_OF_SCOPE_NONAUTHORITATIVE
 migration:
   framework_version: 1.4.0-owner-approved
-  completed_gate: G8
-  current_gate: G9_STABILIZATION
-  current_subphase: DAILY_STABILIZATION_MONITORING
+  completed_gate: G9
+  current_gate: NONE_MIGRATION_COMPLETE
+  current_subphase: NONE
+  completed_at: "2026-10-15"
   g7_phase_closure:
     status: PASS_FULL_RECONCILIATION_REMOTE_CI_FRESH_CLONE_AND_MIRROR_VERIFIED
     published_commit: 01561d0c9398917c1329501b798733041ab17e98
@@ -53,7 +55,7 @@ publication:
   audit_workflow: READ_ONLY_NONMUTATING_REPOSITORY_CONTENT_AUDIT
 analytical_authority_activation:
   required_gate: G8
-  status: GIT_ACTIVE_STABILIZING
+  status: GIT_ACTIVE_ACCEPTED
   cutover_id: g8-authority-epoch-1-20260902T134713Z
   activation_commit: 01561d0c9398917c1329501b798733041ab17e98
   activation_tag: activation/authority-epoch-1
@@ -66,8 +68,9 @@ analytical_authority_activation:
   drive_sidecar_revision: 0B24avie5yJngbWNNb3o1QkxJODNPSXlscXRodzJScGt3VEFnPQ
   drive_sidecar_sha256: b46ab4ee99e9b5eb529168995b2530bccd30f529bc61f7e83cdd03599a77d2ea
   effective_at: 2026-09-02T14:20:11Z
+  accepted_at: "2026-10-15"
 stabilization:
-  state: ACTIVE_DAILY
+  state: ACCEPTED
   start_utc: 2026-09-02T14:20:11Z
   day_0_audit: PASS
   day_0_audit_commit: f704fc18ab7d38aef0b7addb21af675d5a898827
@@ -75,8 +78,14 @@ stabilization:
   day_0_workflow_conclusion: success
   planned_day_7_date: 2026-09-09
   planned_day_14_date: 2026-09-16
-  daily_delta_checks: REQUIRED
-  day_7_full_audit: REQUIRED
-  day_14_full_audit_and_owner_acceptance: REQUIRED
+  daily_delta_checks: ENDED
+  day_7_full_audit_record: NONE_IN_GIT
+  day_14_full_audit_record: NONE_IN_GIT
+  owner_acceptance: ACCEPTED
+  owner_acceptance_date: "2026-10-15"
+  owner_acceptance_statement: "Daily stabilization ended and is accepted, migration is complete"
+  acceptance_prerequisite_evidence_in_git: OWNER_STATEMENT_ONLY
+  drive_pointer_state_update: PENDING_OWNER
+  record: governance/cutovers/AUTHORITY_EPOCH_1_ACTIVATION_RECORD.md
   new_git_primary_analysis_allowed: true
   drive_cleanup_authorized: false

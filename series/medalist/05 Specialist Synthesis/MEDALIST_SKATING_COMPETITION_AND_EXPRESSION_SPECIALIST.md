@@ -5,7 +5,7 @@ artifact_type: "specialist_synthesis"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.0"
+version: "1.1"
 status: "canonical"
 scope: "Inori Yuitsuka's competition record, technical progression, rival frontier, bodily limits, in-story scoring and institutions, and the series' treatment of artistic expression, through the short program of the Junior Grand Prix Final"
 canonical_home: "series/medalist/05 Specialist Synthesis/MEDALIST_SKATING_COMPETITION_AND_EXPRESSION_SPECIALIST.md"
@@ -16,8 +16,8 @@ entering_freeze: "MD-FR-FB02"
 series_state: "ONGOING"
 synthesis_state: "PROVISIONAL_THROUGH_VERIFIED_BOUNDARY"
 created: "2026-10-13"
-updated: "2026-10-13"
-review_status: "INTEGRATOR_REVIEWED_V1"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -95,7 +95,7 @@ The strongest counterweight to the outside confirmation is in the same segment. 
 
 ## Jumps in order of acquisition
 
-Across fifteen volumes each of Inori Yuitsuka's jumps enters as a single depicted landing in practice, is admitted to a layout on some stated warrant, and only then meets a call. The three stages are Tsukasa Akeuraji's own model (`MD-SK-0038`). The series rarely shows a rate.
+Practice acquisition, layout admission and official calls require separate evidence. Tsukasa Akeuraji’s stated model is to land once, raise the success rate until the jump can enter a layout, then develop combinations or GOE (`MD-SK-0038`; original V06 occurrence 0182). The third stage is not an official call. The pages omit some acquisitions and give no stable rate for most jumps; the four analytical channels remain distinct.
 
 **Singles and doubles.** Her first competition credited singles through the loop, Lutz and flip, with the Axel fallen (`MD-PERF-0011`). One double loop was landed in practice in V02 (`MD-PERF-0017`); two doubles were credited at Kyoto, the Salchow's acquisition being elided (`MD-SK-0014`); after an elided year she had all five doubles below the Axel in competition (`MD-SK-0018`).
 
@@ -107,7 +107,7 @@ Across fifteen volumes each of Inori Yuitsuka's jumps enters as a single depicte
 
 **The quadruple Salchow.** Uobuchi proposed it in place of the Lutz, on stated values of 9.7 against 5.9. It was built with a harness, a higher arm swing and attention redirected to fine sensation, against early openings attributed to fear; the story states that a mistimed landing can break the leg (`MD-SK-0043`). It was landed three times on the page in practice (`MD-PERF-0064`, `MD-PERF-0066`, `MD-PERF-0071`). The decision to use it rested on no log, which the ledger calls thin beside the V06 warrant (`MD-SK-0045`). In competition two were credited, one with a double toe loop attached (`MD-SK-0055`).
 
-**The Lutz relearned.** Inori practised it alone and kept this from Tsukasa. It was admitted on a warm-up tally of three in four, placed third behind two quadruples, and fallen (`MD-SK-0056`). She fell on it at the selection meeting, landed one in practice at a camp (`MD-PERF-0091`), landed it in Bangkok's short program, fell in that event's free skate by report, fell at the All-Japan Junior, and landed it at the Final (`MD-SK-0070`, `MD-SK-0085`). Before a panel, by depiction or report, that is two landed and four fallen.
+**The Lutz relearned.** Inori practised it alone and kept this from Tsukasa. It was admitted on a warm-up tally of four in five, placed third behind two quadruples, and fallen (`MD-SK-0056`). She fell on it at the selection meeting, landed one in practice at a camp (`MD-PERF-0091`), landed it in Bangkok's short program, fell in that event's free skate by report, fell at the All-Japan Junior, and landed it at the Final (`MD-SK-0070`, `MD-SK-0085`). Before a panel, by depiction or report, that is two landed and four fallen.
 
 **Triple flip and triple toe loop.** The combination was admitted on three landings in three under a test set by the cautious Kamogawa Kōhei (`MD-SK-0068`). Its second jump was called a quarter short in Bangkok; the flip opened to a single in Yokohama from a new head-down entry; it was credited at the Final. The flip's take-off edge is a separate recorded weakness, marked on Inori's V09 protocol and called in Bangkok's free skate by report.
 
@@ -119,7 +119,7 @@ Across fifteen volumes each of Inori Yuitsuka's jumps enters as a single depicte
 
 **Step sequence.** Inori Yuitsuka's calls run: base level at Kyoto; level 2 at the grade-5 event; level 3 at the block; level 4 at the national novice championship and in Bangkok; level 2 in Yokohama; level 4 at the Final, with a printed base value of 3.90. The in-story criteria are counted features: variety of difficult turns and steps, clusters on each foot, both rotational directions, and use of the upper body (`MD-EV-V09-0028`). Two things limit the advantage. Hikaru Kamisaki's sequence went from level 2 to level 4 in a season with Takamine Shō, Tsukasa Akeuraji's own teacher (`MD-SK-0073`). And the element does not exist in the junior free skate.
 
-**Spins.** The flying sit spin was the platform of Inori's first plan (`MD-SK-0006`). Levelled spins appear from the grade-5 event and level 4 from the block. In Yokohama a level-4 spin is the one element the record shows credited. At the Final all three are level 4, and Baek Horang's coach names spins as where the gap was made.
+**Spins.** The flying sit spin was the platform of Inori's first plan (`MD-SK-0006`). A level-1 flying sit spin is already credited at Kyoto (`MD-PERF-0023`); the second Meikō Cup protocol lists FCSp2, LSp3 and CCoSp4 (`MD-PERF-0027`). In Yokohama a level-4 spin is the one element the record shows credited. At the Final all three are level 4, and Baek Horang's coach names spins as where the gap was made.
 
 **Execution marks as strategy.** The stated rule at V06 is that each step of the mark adds a tenth of base value, that marks above plus three require three compulsory criteria, and that the highest and lowest judges are dropped. Inori's block program pursued the mark on every element in place of added difficulty, which an observer calls a senior's strategy (`MD-SK-0035`). On entering the junior class Tsukasa named a ceiling of plus three to be raised, beginning with height (`MD-SK-0061`). In Bangkok the strategy was everyone's: skaters with identical jump content were eight points apart (`MD-SK-0069`). At the Final Inori's seven printed base values sum to 32.13, so 8.77 of her technical mark came from execution; that subtraction is the V14 reading's inference, and the protocol is not printed in full.
 
@@ -157,7 +157,7 @@ The body enters the record as stated pain, reported injury and adult rules about
 
 **Iruka's fracture.** Iruka went down in a competition warm-up; the fall and its cause are not shown (`MD-SK-0077`). V13 reports a compound fracture, three months, and withdrawal from the Final (`MD-EV-V13-0036`). In V15 Karasuba Daria counts the cost in the sport's stated currency: up to 850 ranking points from this Final and the world junior championships together, a senior debut without the record that buys entries, and an Olympics three years away that leans on both; she adds that jumps are easily lost in these years (`MD-EV-V15-0012`). `MD-CL-0022@12` retains this formulation.
 
-**Coaches' positions.** `MD-CL-0024@9` collects a range, not a doctrine. Gori Seiji builds his practice on preventing injury and calls the belief that growth takes jumps away half fact and half curse (`MD-EV-V10-0025`); his own skater, Iruka, is the one injured. Kōhei declines a quadruple for Ahiru Miku, a light young skater, saying he does not know its risk (`MD-SK-0046`). Yodaka Jun, coaching Hikaru in secret, bound her to a rule that one fall in a nightly run-through was terminal (`MD-EV-V08-0038`). Riley Fox permits the extreme layout once and attaches a limit. Kyōboku Yutaka argues against Daria's device and then backs it. Tsukasa defines himself as the adult who does not brake, arranges for others who will (`MD-EV-V11-0033`), and has once drawn a line at harm to Inori's body. The claim's recurring observation is that no adult punishes a risk taken on the ice; risks are fenced beforehand by tests, quotas and agreements. A rule, not a person, sanctioned Inori in November.
+**Coaches' positions.** `MD-CL-0024@9` collects a range, not a doctrine. Gori Seiji builds his practice on preventing injury and calls the belief that growth takes jumps away half fact and half curse (`MD-EV-V10-0025`); his own skater, Iruka, is the one injured. Kōhei declines a quadruple for Ahiru Miku, a light young skater, saying he does not know its risk (`MD-SK-0046`). Yodaka Jun, coaching Hikaru in secret, bound her to a rule that one fall in a nightly run-through was terminal (`MD-EV-V08-0038`). Riley Fox permits the extreme layout once and attaches a limit. Kyōboku Yutaka argues against Daria's device and then backs it. Tsukasa defines himself as the adult who does not brake, arranges for others who will (`MD-EV-V11-0033`), and draws bodily limits in V03, V04 and V13. The recorded post-skate responses often absorb departures, while risks are fenced beforehand by tests, quotas and agreements. That observed pattern does not establish that no adult ever punishes a risk: Yodaka’s reported nightly sanction remains a counterpressure, whose enforcement is not shown in that scene. A rule, not a person, sanctioned Inori in November.
 
 ## Scoring and institutions, as the story states them
 
@@ -187,7 +187,7 @@ The series treats artistry as something built, and it lets the contrary view spe
 
 **The film program.** Inori's junior short program is set to music from a film about a timid boy who trains with his own double, with martial-arts choreography (`MD-EV-V11-0019`). In Bangkok she judged two rivals' stage presence far beyond her own, and her free skate's choreographic sequence scored poorly by report; Tsukasa and Riley Fox both attributed that to too little rehearsal with music across a full rink, which Tsukasa called conjecture (`MD-SK-0071`). In Yokohama the hall clapped in time before the program fell apart (`MD-EV-V13-0003`). In Beijing its story is told and she places herself in it: the first jump as the scene in which the boy earns his place, Tsukasa as the ghost that strengthens him, the last jump as the part she must complete by her own strength (`MD-EV-V14-0023`, `MD-EV-V14-0028`, `MD-EV-V14-0029`). The work does not apply the film's ending, in which the helper withdraws, to Inori and Tsukasa; in V15 she says she does not find that ending happy (`MD-EV-V15-0046`).
 
-**Feeling calculated in reverse.** After Bangkok Hitomi Takamine located the room in Inori's component mark in Presentation. Tsukasa answered with a drill he named as emotional expression calculated in reverse: the gestures a body makes under a feeling are taken apart, exaggerated for distance and built into the choreography (`MD-SK-0084`, `MD-EV-V14-0026`). He concedes that success depends partly on the skater's sense. The measurable result is one number: a component total of 30.36, the highest of the five then marked, by 0.14. The three components are not printed separately, so the gain cannot be assigned to Presentation.
+**Feeling calculated in reverse.** After Bangkok Hitomi Takamine located the room in Inori's component mark in Presentation. Tsukasa answered with a drill he named as emotional expression calculated in reverse: the gestures a body makes under a feeling are taken apart, exaggerated for distance and built into the choreography (`MD-SK-0084`, `MD-EV-V14-0026`). He concedes that success depends partly on the skater's sense. The measurable result is one number: a component total of 30.36, the highest printed component total among the skaters then marked, 0.14 above the next printed value; Baek Horang’s component breakdown is absent. The three components are not printed separately, so the gain cannot be assigned to Presentation.
 
 **Hikaru's inherited music.** Hikaru Kamisaki's novice free skate used the piece with which Yodaka Jun won a world junior title, assigned by him (`MD-EV-V08-0035`). At the All-Japan Junior she skated the same music with choreography revised overnight: a part danced in Yodaka's manner, a full stop, and then her own. She had resolved to leave what she calls the miniature garden, a word from her program's title (`MD-EV-V13-0013`, `MD-EV-V13-0017`, `MD-SK-0081`). Appraisals divide. Leonid Sorokin, her choreographer, calls it a change for the worse; Sonidori Shin'ichirō calls it the performance most like Yodaka's (`MD-EV-V13-0027`, `MD-EV-V13-0031`). The panel gave it the largest margin the series has printed.
 
@@ -205,7 +205,7 @@ Daria and Inori, the two skaters at the top of the short program, both had level
 2. **Unprinted scores.** Inori's Bangkok free skate and total; every score at Event 7; her final place in Yokohama; the parts of Daria's 71.59 and Baek's 71.24; every component mark before V14.
 3. **The three components of 30.36.** Any statement that the drill raised Presentation, or that Inori's edges were marked in Skating Skills, is inference.
 4. **Anything about the free skate of the Final.** The start order, Inori's layout beyond the inclusion of a quadruple Salchow, and the result lie outside the boundary. A preview page in the V14 volume stated a different outcome for the short program than V15's story pages show; the story governs.
-5. **Rates.** No landing rate is established for any of Inori's jumps. A warm-up tally of three in four, a test of three in three and Tsukasa Akeuraji's practice logs are the only counts given.
+5. **Rates.** No landing rate is established for any of Inori's jumps. A warm-up tally of four in five, a test of three in three and Tsukasa Akeuraji's practice logs are the only counts given.
 6. **Real-world applicability.** Whether the stated values, levels, class ages, selection rules or ranking points correspond to any real season was not checked. The medical terms are the characters'.
 
 ## Fanbook data as labelled supplement

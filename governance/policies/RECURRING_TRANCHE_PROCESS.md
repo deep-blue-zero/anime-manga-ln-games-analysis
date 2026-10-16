@@ -1,5 +1,7 @@
 # Recurring tranche process
 
+> **Historical (2026-10-15).** This process governed Drive-to-Git migration tranches. Migration completed with the owner's acceptance of authority epoch 1 (`../AUTHORITY_STATE.yaml`, `../cutovers/AUTHORITY_EPOCH_1_ACTIVATION_RECORD.md`). It authorizes nothing new. Git-native analysis and governance changes follow `CHANGE_INTEGRATION_CHECKLIST.md`, and any future migration needs a new owner-approved process. The text below is kept unchanged as the record of how tranches were approved.
+
 This policy reduces approval repetition without reducing migration, publication, or authority controls. Each coherent migration tranche uses one owner-approved, SHA-256-bound package for its complete bounded lifecycle. Intermediate hashes and receipts are evidence, not additional approval gates.
 
 ## Single approval package
