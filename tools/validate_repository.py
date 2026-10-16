@@ -9,8 +9,6 @@ import json
 import os
 import re
 import shlex
-import subprocess
-import sys
 import unicodedata
 from pathlib import Path, PurePosixPath
 from typing import Any, Mapping
@@ -23,7 +21,6 @@ from character_index_core import (
     GitSnapshot,
     decode_json,
     decode_jsonl_with_lines,
-    load_json,
     render_schema_diagnostics,
     run_git,
     schema_diagnostics,
@@ -33,6 +30,7 @@ from character_index_core import (
 )
 from generate_character_index import render as render_character_index
 from audit_timing import AuditTimer, report_path, write_report
+from update_repository_indexes import ROUTING_OUTPUTS, expected_outputs
 
 
 WINDOWS_RESERVED = {
@@ -57,6 +55,23 @@ PUBLICATION_PATTERNS = {
     "personal email address": re.compile(
         rb"\b[A-Z0-9._%+-]+@(?:gmail|googlemail|outlook|hotmail|yahoo)\.[A-Z]{2,}\b",
         re.IGNORECASE,
+    ),
+}
+# Exact prefilters for the hazard patterns above: every match of a pattern
+# contains at least one of its literal needles (in ASCII-lowercased bytes when
+# the second field is true, which is how bytes IGNORECASE matching folds case).
+# A file without any needle cannot match, so its regex search is skipped. A
+# pattern without an entry is always searched.
+HAZARD_PREFILTERS: dict[str, tuple[tuple[bytes, ...], bool]] = {
+    "GitHub token": ((b"ghp_", b"gho_", b"ghu_", b"ghs_", b"ghr_"), False),
+    "AWS access key": ((b"AKIA",), False),
+    "Google API key": ((b"AIza",), False),
+    # Split literals keep this table from matching the pattern it filters.
+    "Google Drive URL": ((b"https://drive" b".google.com", b"https://docs" b".google.com"), True),
+    "local absolute path": ((b":/", b":\\"), False),
+    "personal email address": (
+        (b"@gmail.", b"@googlemail.", b"@outlook.", b"@hotmail.", b"@yahoo."),
+        True,
     ),
 }
 MARKDOWN_LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
@@ -99,6 +114,7 @@ PROJECT_INITIATION_GATE_PATH = (
 PROJECT_INITIATION_GATE_SCHEMA = (
     "anime-manga-ln-games-analysis/project-initiation-gate/v1"
 )
+PROJECT_INITIATION_BASELINE = "2eec12ae1200d3aaaff3f754fd535808161226f8"
 GLOBAL_AUTOMATION_POLICY_PATH = (
     "governance/repository-controls/global-index-automation-policy.json"
 )
@@ -108,13 +124,7 @@ GLOBAL_AUTOMATION_POLICY_SCHEMA = (
 AUDIT_WORKFLOW_PATH = ".github/workflows/repository-audit.yml"
 HOUSEKEEPING_WORKFLOW_PATH = ".github/workflows/global-index-housekeeping.yml"
 NIGHTLY_WORKFLOW_PATH = ".github/workflows/nightly-integration.yml"
-GLOBAL_AUTOMATION_WRITE_PATHS = {
-    "governance/MANGA_ANIME_CORPUS_INDEX.md",
-    "series/README.md",
-    "series/registry.json",
-    "studies/README.md",
-    "studies/registry.json",
-}
+GLOBAL_AUTOMATION_WRITE_PATHS = set(ROUTING_OUTPUTS)
 DJFW_TSV_WHITESPACE_ATTRIBUTE_RULE = (
     '"studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and '
     'Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/*.tsv" whitespace=-blank-at-eol'
@@ -267,6 +277,7 @@ def validate_audit_workflow(
         "      - character-registry",
         '      - "codex/**"',
         '      - "chatgpt/**"',
+        '      - "claude/**"',
         '      - "series/**"',
         '      - "studies/**"',
         "  repository_dispatch:",
@@ -859,6 +870,27 @@ def validate_named_whitespace_exceptions(
     return errors
 
 
+def hazard_matches(data: bytes, patterns: Mapping[str, re.Pattern[bytes]]) -> list[str]:
+    """Return the labels of hazard patterns found in data, skipping exact non-candidates."""
+
+    found: list[str] = []
+    lowered: bytes | None = None
+    for label, pattern in patterns.items():
+        prefilter = HAZARD_PREFILTERS.get(label)
+        if prefilter is not None:
+            needles, fold_case = prefilter
+            haystack = data
+            if fold_case:
+                if lowered is None:
+                    lowered = data.lower()
+                haystack = lowered
+            if not any(needle in haystack for needle in needles):
+                continue
+        if pattern.search(data):
+            found.append(label)
+    return found
+
+
 def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str) -> list[str]:
     errors: list[str] = []
     threshold = int(policy["review_threshold_bytes"])
@@ -880,12 +912,10 @@ def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str)
             errors.append(f"named text exception tuple mismatch: {path}")
         if len(data) > threshold and not exception_matches:
             errors.append(f"{phase} file exceeds 1 MiB review threshold: {path} ({len(data)} bytes)")
-        for label, pattern in SECRET_PATTERNS.items():
-            if pattern.search(data):
-                errors.append(f"possible {label} in {path}")
-        for label, pattern in PUBLICATION_PATTERNS.items():
-            if pattern.search(data):
-                errors.append(f"publication hazard ({label}) in {path}")
+        for label in hazard_matches(data, SECRET_PATTERNS):
+            errors.append(f"possible {label} in {path}")
+        for label in hazard_matches(data, PUBLICATION_PATTERNS):
+            errors.append(f"publication hazard ({label}) in {path}")
         suffix = Path(path).suffix.casefold()
         if suffix in text_extensions or Path(path).name in special_text:
             allow_bom = bool(exception_matches and exception["allow_utf8_bom"])
@@ -994,10 +1024,74 @@ def validate_markdown_links(snapshot: GitSnapshot) -> list[str]:
     return errors
 
 
-def validate_commit_identities(root: Path, policy: Mapping[str, Any], revision: str) -> list[str]:
-    allowed = {(item["name"], item["email"]) for item in policy["allowed_commit_identities"]}
-    raw = run_git(root, "log", revision, "--format=%an%x1f%ae%x1f%cn%x1f%ce%x1e")
+GITHUB_SERVER_IDENTITY = ("GitHub", "noreply@github.com")
+
+
+def _identity_set(policy: Mapping[str, Any], field: str, errors: list[str]) -> set[tuple[str, str]]:
+    rows = policy.get(field)
+    if not isinstance(rows, list) or not rows:
+        errors.append(f"{field} must be a nonempty list")
+        return set()
+    parsed: set[tuple[str, str]] = set()
+    valid_rows = 0
+    for row in rows:
+        if (
+            not isinstance(row, Mapping)
+            or set(row) != {"name", "email"}
+            or not all(isinstance(row[key], str) and row[key] for key in ("name", "email"))
+        ):
+            errors.append(f"malformed {field} entry: {row!r}")
+            continue
+        valid_rows += 1
+        parsed.add((row["name"], row["email"]))
+    if len(parsed) != valid_rows:
+        errors.append(f"duplicate identity in {field}")
+    return parsed
+
+
+def commit_identity_policy(
+    policy: Mapping[str, Any],
+) -> tuple[set[tuple[str, str]], set[tuple[str, str]], list[str]]:
+    """Return the allowed author and committer sets and any policy-shape errors.
+
+    Authors and committers are separate roles: the GitHub server identity may
+    commit (squash merges) but never author. allowed_commit_identities is kept
+    as the compatibility union of the two lists.
+    """
+
     errors: list[str] = []
+    authors = _identity_set(policy, "allowed_author_identities", errors)
+    committers = _identity_set(policy, "allowed_committer_identities", errors)
+    compatibility = _identity_set(policy, "allowed_commit_identities", errors)
+    if GITHUB_SERVER_IDENTITY in authors:
+        errors.append("GitHub server identity must never be an allowed author")
+    if GITHUB_SERVER_IDENTITY not in committers:
+        errors.append("GitHub server identity must be an allowed committer")
+    if compatibility != authors | committers:
+        errors.append(
+            "allowed_commit_identities must equal the compatibility union of "
+            "allowed_author_identities and allowed_committer_identities"
+        )
+    return authors, committers, errors
+
+
+def validate_commit_identities(
+    root: Path, policy: Mapping[str, Any], revision: str, *, role_split: bool = True
+) -> list[str]:
+    """Check every reachable author and committer against the policy.
+
+    The historical G3 policy predates the role split and lists only the
+    compatibility set, so G3 validation passes role_split=False.
+    """
+
+    if role_split:
+        allowed_authors, allowed_committers, errors = commit_identity_policy(policy)
+    else:
+        errors = []
+        allowed_authors = allowed_committers = _identity_set(
+            policy, "allowed_commit_identities", errors
+        )
+    raw = run_git(root, "log", revision, "--format=%an%x1f%ae%x1f%cn%x1f%ce%x1e")
     for record in raw.decode("utf-8", "strict").split("\x1e"):
         record = record.strip("\r\n")
         if not record:
@@ -1008,10 +1102,48 @@ def validate_commit_identities(root: Path, policy: Mapping[str, Any], revision: 
             continue
         author = (fields[0], fields[1])
         committer = (fields[2], fields[3])
-        if author not in allowed:
-            errors.append(f"non-owner Git author identity: {author[0]} <{author[1]}>")
-        if committer not in allowed:
-            errors.append(f"non-owner Git committer identity: {committer[0]} <{committer[1]}>")
+        if author not in allowed_authors:
+            errors.append(f"disallowed Git author identity: {author[0]} <{author[1]}>")
+        if committer not in allowed_committers:
+            errors.append(f"disallowed Git committer identity: {committer[0]} <{committer[1]}>")
+    return errors
+
+
+def validate_missing_entrypoint_allowlist(
+    snapshot: GitSnapshot, policy: Mapping[str, Any]
+) -> list[str]:
+    """Bind MISSING series entrypoints to the reviewed allowlist, in both directions."""
+
+    allowed = policy.get("allowed_missing_canonical_entrypoints")
+    if (
+        not isinstance(allowed, list)
+        or any(not isinstance(value, str) or not value for value in allowed)
+        or len(allowed) != len(set(allowed))
+    ):
+        return ["allowed_missing_canonical_entrypoints must be a unique string list"]
+    entry = snapshot.get("series/registry.json")
+    if entry is None:
+        return ["series/registry.json is absent; MISSING entrypoints cannot be checked"]
+    try:
+        registry = decode_json(entry.data, "series/registry.json")
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return [str(exc)]
+    rows = registry.get("series", []) if isinstance(registry, Mapping) else []
+    errors: list[str] = []
+    actual: set[str] = set()
+    for row in rows if isinstance(rows, list) else []:
+        if not isinstance(row, Mapping) or row.get("canonical_entrypoint_status") != "MISSING":
+            continue
+        series_id = row.get("series_id")
+        if not isinstance(series_id, str) or not series_id:
+            errors.append("MISSING series route without series_id")
+            continue
+        actual.add(series_id)
+    if actual != set(allowed):
+        errors.append(
+            "canonical-entrypoint MISSING set differs from reviewed allowlist; "
+            f"allowed={sorted(allowed)}, actual={sorted(actual)}"
+        )
     return errors
 
 
@@ -1060,7 +1192,9 @@ def validate_protected(snapshot: GitSnapshot) -> list[str]:
     return errors
 
 
-def validate_generated_index(snapshot: GitSnapshot, snapshot_kind: str) -> list[str]:
+def validate_generated_index(
+    snapshot: GitSnapshot, snapshot_kind: str, authority: AuthorityGraph | None = None
+) -> list[str]:
     registry = snapshot.get("characters/registry.jsonl")
     output = snapshot.get("CHARACTER_ANALYSIS_INDEX.md")
     if registry is None or output is None:
@@ -1076,7 +1210,8 @@ def validate_generated_index(snapshot: GitSnapshot, snapshot_kind: str) -> list[
             return [
                 "worktree bytes cannot establish materialization; use an exact Git index or commit snapshot"
             ]
-        rendered = render_character_index(records, AuthorityGraph(snapshot)).encode("utf-8")
+        graph = authority if authority is not None else AuthorityGraph(snapshot)
+        rendered = render_character_index(records, graph).encode("utf-8")
     except (DomainError, UnicodeDecodeError, ValueError) as exc:
         return [f"unable to render character index: {exc}"]
     if output.data != rendered:
@@ -1084,37 +1219,17 @@ def validate_generated_index(snapshot: GitSnapshot, snapshot_kind: str) -> list[
     return []
 
 
-def validate_generated_repository_indexes(
-    root: Path, snapshot_kind: str, commit: str | None, *, snapshot: GitSnapshot | None = None
-) -> list[str]:
-    if snapshot is not None:
-        from update_repository_indexes import expected_outputs
-
-        try:
-            stale = [
-                path for path, expected in expected_outputs(snapshot).items()
-                if snapshot.get(path) is None
-                or snapshot.entries[path].mode != "100644"
-                or snapshot.entries[path].data != expected
-            ]
-            return [f"generated repository indexes are out of date: {stale}"] if stale else []
-        except (DomainError, OSError, ValueError) as exc:
-            return [str(exc)]
-    command = [
-        sys.executable,
-        str(root / "tools" / "update_repository_indexes.py"),
-        "--check",
-        "--repo",
-        str(root),
-        "--snapshot",
-        snapshot_kind,
-    ]
-    if commit is not None:
-        command.extend(["--commit", commit])
-    result = subprocess.run(command, cwd=root, capture_output=True, text=True)
-    if result.returncode:
-        return [result.stderr.strip() or result.stdout.strip() or "repository index drift"]
-    return []
+def validate_generated_repository_indexes(snapshot: GitSnapshot) -> list[str]:
+    try:
+        stale = [
+            path for path, expected in expected_outputs(snapshot).items()
+            if snapshot.get(path) is None
+            or snapshot.entries[path].mode != "100644"
+            or snapshot.entries[path].data != expected
+        ]
+        return [f"generated repository indexes are out of date: {stale}"] if stale else []
+    except (DomainError, OSError, ValueError) as exc:
+        return [str(exc)]
 
 
 def _policy_from_snapshot(snapshot: GitSnapshot) -> Mapping[str, Any]:
@@ -1222,6 +1337,8 @@ def _load_project_initiation_gate(
             f"{PROJECT_INITIATION_GATE_PATH}.activation_baseline_commit must be a "
             "full lowercase SHA-1 commit ID"
         )
+    elif baseline != PROJECT_INITIATION_BASELINE:
+        errors.append("project-initiation immutable activation baseline changed")
 
     marker = control.get("prospective_registry_marker")
     if not isinstance(marker, Mapping):
@@ -1290,44 +1407,236 @@ def _load_project_initiation_gate(
             ) is None:
                 errors.append(f"{label}: invalid project root")
                 continue
-            if not isinstance(closure, Mapping) or set(closure) != {
-                "canonical_entrypoint", "completion_commit", "frozen_sequential_artifacts",
-                "supplemental_execution_required",
-            }:
-                errors.append(f"{label}: invalid terminal closure fields")
-                continue
-            commit = closure["completion_commit"]
-            if not isinstance(commit, str) or re.fullmatch(r"[0-9a-f]{40}", commit) is None:
-                errors.append(f"{label}: completion_commit must be a full commit ID")
-            if not isinstance(closure["supplemental_execution_required"], bool):
-                errors.append(f"{label}: supplemental_execution_required must be a boolean")
-            frozen = closure["frozen_sequential_artifacts"]
-            if not isinstance(frozen, Mapping) or not frozen:
-                errors.append(f"{label}: frozen_sequential_artifacts must be a nonempty object")
-                continue
-            for path in [closure["canonical_entrypoint"], *frozen]:
-                if not isinstance(path, str):
-                    errors.append(f"{label}: artifact path must be a string")
-                    continue
-                try:
-                    validate_repository_path(path)
-                except DomainError as exc:
-                    errors.append(f"{label}: invalid artifact path: {exc}")
-                    continue
-                if not path.startswith(prefix) or not path.endswith(".md"):
-                    errors.append(f"{label}: artifact must be Markdown inside its project: {path}")
-            for path, digest in frozen.items():
-                if not isinstance(digest, str) or SHA256_RE.fullmatch(digest) is None:
-                    errors.append(f"{label}: invalid frozen SHA-256 for {path}")
+            errors.extend(_closure_record_errors(label, prefix, closure))
+    errors.extend(_run_closure_amendments(control)[1])
     return (None if errors else control), errors
+
+
+def _run_closure_amendments(
+    control: Mapping[str, Any],
+) -> tuple[dict[str, dict[str, str]], list[str]]:
+    """Owner-merged releases of run-stop seals, keyed by registered project root.
+
+    Each entry is {"authorization": text, "record_sha256": SHA-256 of main's
+    run-closure.json bytes, "release": {path: sealed SHA-256}}. The gate reads
+    releases from main's control, and a release applies only while main's
+    record has exactly those bytes, so it lapses as soon as that record changes.
+    """
+
+    label = f"{PROJECT_INITIATION_GATE_PATH}.run_closure_amendments"
+    raw = control.get("run_closure_amendments", {})
+    if not isinstance(raw, Mapping):
+        return {}, [f"{label} must be an object"]
+    releases: dict[str, tuple[str, dict[str, str]]] = {}
+    errors: list[str] = []
+    for prefix, entry in raw.items():
+        item = f"{label}[{prefix!r}]"
+        try:
+            if (
+                not isinstance(prefix, str)
+                or not prefix.endswith("/")
+                or not prefix.startswith(("series/", "studies/"))
+            ):
+                raise DomainError("not a project root")
+            validate_repository_path(prefix[:-1])
+        except DomainError:
+            errors.append(f"{item}: invalid project root")
+            continue
+        if (
+            not isinstance(entry, Mapping)
+            or set(entry) != {"authorization", "record_sha256", "release"}
+            or not _valid_nonempty_string(entry["authorization"])
+            or not isinstance(entry["record_sha256"], str)
+            or SHA256_RE.fullmatch(entry["record_sha256"]) is None
+            or not isinstance(entry["release"], Mapping)
+            or not entry["release"]
+        ):
+            errors.append(
+                f"{item}: needs a nonempty authorization, the record_sha256 of main's "
+                "run-closure.json, and a nonempty release object"
+            )
+            continue
+        released: dict[str, str] = {}
+        for sealed_path, digest in entry["release"].items():
+            if (
+                not isinstance(sealed_path, str)
+                or not sealed_path.startswith(prefix)
+                or not sealed_path.endswith(".md")
+            ):
+                errors.append(f"{item}: released path must be Markdown inside its project: {sealed_path!r}")
+            elif not isinstance(digest, str) or SHA256_RE.fullmatch(digest) is None:
+                errors.append(f"{item}: release must name the sealed SHA-256 of {sealed_path}")
+            else:
+                released[sealed_path] = digest
+        releases[prefix] = (entry["record_sha256"], released)
+    return releases, errors
+
+
+CLOSURE_RECORD_FIELDS = frozenset({
+    "canonical_entrypoint", "completion_commit", "frozen_sequential_artifacts",
+    "supplemental_execution_required",
+})
+# A project's own stop at the end of an authorized run. It seals the readings
+# like a global terminal closure, lives on the project's branch, and is
+# reopened there (state REOPENED keeps the seals) when the owner authorizes
+# the next run. The global record is reserved for the final source boundary.
+PROJECT_RUN_CLOSURE_NAME = ".repository/run-closure.json"
+PROJECT_RUN_CLOSURE_SCHEMA = "anime-manga-ln-games-analysis/project-run-closure/v1"
+PROJECT_RUN_CLOSURE_STATES = frozenset({"CLOSED", "REOPENED"})
+
+
+def _closure_record_errors(label: str, prefix: str, closure: Any) -> list[str]:
+    """Shape checks shared by global terminal closures and project run closures."""
+
+    if not isinstance(closure, Mapping) or set(closure) != CLOSURE_RECORD_FIELDS:
+        return [f"{label}: invalid terminal closure fields"]
+    errors: list[str] = []
+    commit = closure["completion_commit"]
+    if not isinstance(commit, str) or re.fullmatch(r"[0-9a-f]{40}", commit) is None:
+        errors.append(f"{label}: completion_commit must be a full commit ID")
+    if not isinstance(closure["supplemental_execution_required"], bool):
+        errors.append(f"{label}: supplemental_execution_required must be a boolean")
+    frozen = closure["frozen_sequential_artifacts"]
+    if not isinstance(frozen, Mapping) or not frozen:
+        errors.append(f"{label}: frozen_sequential_artifacts must be a nonempty object")
+        return errors
+    for path in [closure["canonical_entrypoint"], *frozen]:
+        if not isinstance(path, str):
+            errors.append(f"{label}: artifact path must be a string")
+            continue
+        try:
+            validate_repository_path(path)
+        except DomainError as exc:
+            errors.append(f"{label}: invalid artifact path: {exc}")
+            continue
+        if not path.startswith(prefix) or not path.endswith(".md"):
+            errors.append(f"{label}: artifact must be Markdown inside its project: {path}")
+    for path, digest in frozen.items():
+        if not isinstance(digest, str) or SHA256_RE.fullmatch(digest) is None:
+            errors.append(f"{label}: invalid frozen SHA-256 for {path}")
+    return errors
+
+
+# A run stop is written on a project's own branch, so the validator binds it to
+# main: the completion commit must already be on main (its readings passed the
+# OPEN gate there, and a squash merge keeps it reachable), and every seal in
+# main's record must survive unless the owner-merged control amends it.
+RUN_CLOSURE_BASE_REF = "refs/remotes/origin/main"
+def _run_closure_base_commit(root: Path) -> str | None:
+    try:
+        return run_git(
+            root, "rev-parse", "--verify", "-q", RUN_CLOSURE_BASE_REF + "^{commit}"
+        ).decode("ascii").strip()
+    except DomainError:
+        return None
+
+
+def _base_run_closure_seals(
+    root: Path, base_commit: str
+) -> dict[str, tuple[str, dict[str, str]]]:
+    """Return {registered root on main: (record SHA-256, {path: digest})} for main's run stops."""
+
+    prefixes: set[str] = set()
+    for registry_path, collection in (
+        (SERIES_REGISTRY_PATH, "series"),
+        (STUDY_REGISTRY_PATH, "studies"),
+    ):
+        try:
+            registry = json.loads(run_git(root, "show", f"{base_commit}:{registry_path}"))
+        except (DomainError, json.JSONDecodeError, UnicodeDecodeError):
+            continue
+        rows = registry.get(collection) if isinstance(registry, Mapping) else None
+        for row in rows if isinstance(rows, list) else []:
+            prefix = row.get("repository_path") if isinstance(row, Mapping) else None
+            if _valid_nonempty_string(prefix) and prefix.endswith("/"):
+                prefixes.add(prefix)
+    listed = set(
+        _git_paths(root, "ls-tree", "-r", "-z", "--name-only", base_commit, "--", "series", "studies")
+    )
+    seals: dict[str, tuple[str, dict[str, str]]] = {}
+    for prefix in sorted(prefixes):
+        record_path = prefix + PROJECT_RUN_CLOSURE_NAME
+        if record_path not in listed:
+            continue
+        try:
+            data = run_git(root, "show", f"{base_commit}:{record_path}")
+            record = json.loads(data)
+        except (DomainError, json.JSONDecodeError, UnicodeDecodeError):
+            continue  # main failed its own audit; there is nothing valid to carry
+        frozen = record.get("frozen_sequential_artifacts") if isinstance(record, Mapping) else None
+        if isinstance(frozen, Mapping):
+            seals[prefix] = (hashlib.sha256(data).hexdigest(), {
+                key: value for key, value in frozen.items()
+                if isinstance(key, str) and isinstance(value, str)
+            })
+    return seals
+
+
+def _base_run_closure_releases(root: Path, base_commit: str) -> dict[str, tuple[str, dict[str, str]]]:
+    """Releases recorded in main's gate control; a candidate's own entries never count."""
+
+    try:
+        control = json.loads(run_git(root, "show", f"{base_commit}:{PROJECT_INITIATION_GATE_PATH}"))
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError):
+        return {}
+    return _run_closure_amendments(control)[0] if isinstance(control, Mapping) else {}
+
+
+def _run_closure_on_main(
+    snapshot: GitSnapshot, prefix: str, record: Mapping[str, Any], base_commit: str | None
+) -> list[str]:
+    path = prefix + PROJECT_RUN_CLOSURE_NAME
+    commit = record["completion_commit"]
+    if base_commit is None:
+        return [
+            f"{path}: verifying completion_commit needs {RUN_CLOSURE_BASE_REF}; fetch main first"
+        ]
+    try:
+        merge_base = run_git(snapshot.root, "merge-base", commit, base_commit).decode("ascii").strip()
+    except DomainError as exc:
+        return [f"{path}: completion_commit cannot be compared with main: {exc}"]
+    if merge_base != commit:
+        return [
+            f"{path}: completion_commit {commit} is not on main ({RUN_CLOSURE_BASE_REF}); "
+            "name the commit on main that integrated the sealed readings"
+        ]
+    return []
+
+
+def _load_project_run_closure(
+    snapshot: GitSnapshot, prefix: str
+) -> tuple[Mapping[str, Any] | None, str | None, list[str]]:
+    """Return a project's own run closure record, its state, and any errors."""
+
+    path = prefix + PROJECT_RUN_CLOSURE_NAME
+    entry = snapshot.get(path)
+    if entry is None:
+        return None, None, []
+    if not entry.qualifies_as_evidence:
+        return None, None, [f"{path}: run closure must be a tracked regular non-LFS blob"]
+    try:
+        record = decode_json(entry.data, path)
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return None, None, [str(exc)]
+    if not isinstance(record, Mapping):
+        return None, None, [f"{path}: run closure must be a JSON object"]
+    errors: list[str] = []
+    if record.get("schema") != PROJECT_RUN_CLOSURE_SCHEMA:
+        errors.append(f"{path}: run closure schema is not recognized")
+    state = record.get("state")
+    if state not in PROJECT_RUN_CLOSURE_STATES:
+        errors.append(f"{path}: run closure state must be CLOSED or REOPENED")
+    body = {key: value for key, value in record.items() if key not in {"schema", "state"}}
+    errors.extend(_closure_record_errors(path, prefix, body))
+    return (None if errors else body), state, errors
 
 
 def project_initiation_baseline_paths(
     root: Path, control: Mapping[str, Any]
 ) -> set[str]:
     baseline = control.get("activation_baseline_commit")
-    if not isinstance(baseline, str):
-        raise DomainError("project-initiation activation baseline is unavailable")
+    if baseline != PROJECT_INITIATION_BASELINE:
+        raise DomainError("project-initiation immutable activation baseline changed or is unavailable")
     if run_git(root, "cat-file", "-t", baseline).decode("ascii").strip() != "commit":
         raise DomainError("project-initiation activation baseline is not a commit")
     return set(
@@ -1400,6 +1709,36 @@ PROJECT_INITIALIZATION_ALIASES = {
 }
 
 
+def _initialization_yaml_blocks(
+    text: str, path: str, *, sections: tuple[str, ...] = ("project_initialization",)
+) -> list[tuple[int, Any, str | None]]:
+    """Return recognized fenced initialization blocks as (index, value, error).
+
+    A fenced YAML block is an initialization surface only when its top level
+    declares ``project_initialization``. The lock reader and the terminal
+    closure reader share this recognition so that one entrypoint cannot be
+    read differently by two parts of the same gate.
+    """
+
+    blocks: list[tuple[int, Any, str | None]] = []
+    for index, match in enumerate(
+        re.finditer(r"(?ms)^```ya?ml[ \t]*\n(.*?)^```[ \t]*$", text), start=1
+    ):
+        body = match.group(1)
+        if not re.search(r"(?m)^(?:" + "|".join(map(re.escape, sections)) + r")\s*:", body):
+            continue
+        try:
+            loaded = _restricted_yaml_load(
+                body if body.endswith("\n") else body + "\n",
+                f"{path}:project_initialization_block[{index}]",
+            )
+        except DomainError as exc:
+            blocks.append((index, None, str(exc)))
+            continue
+        blocks.append((index, loaded, None))
+    return blocks
+
+
 def _project_initialization_state(
     data: bytes, path: str
 ) -> tuple[dict[str, Any], list[str]]:
@@ -1427,19 +1766,9 @@ def _project_initialization_state(
         text = data.decode("utf-8", "strict")
     except UnicodeDecodeError as exc:
         return {}, [f"{path}: invalid UTF-8 initialization state: {exc}"]
-    for index, match in enumerate(
-        re.finditer(r"(?ms)^```ya?ml[ \t]*\n(.*?)^```[ \t]*$", text), start=1
-    ):
-        body = match.group(1)
-        if not re.search(r"(?m)^project_initialization\s*:", body):
-            continue
-        try:
-            loaded = _restricted_yaml_load(
-                body if body.endswith("\n") else body + "\n",
-                f"{path}:project_initialization_block[{index}]",
-            )
-        except DomainError as exc:
-            errors.append(str(exc))
+    for index, loaded, block_error in _initialization_yaml_blocks(text, path):
+        if block_error is not None:
+            errors.append(block_error)
             continue
         nested = (
             loaded.get("project_initialization")
@@ -1659,13 +1988,139 @@ def _validate_initialization_contract(
     return errors
 
 
-def _validate_terminal_corpus(
+# `complete` is the established closure token; `completed` is the run-state
+# vocabulary of the sequential execution scope and continuation policy.
+TERMINAL_RUN_STATES = frozenset({"complete", "completed"})
+TERMINAL_STATE_SECTIONS = (
+    "project_initialization",
+    "sequential_execution",
+    "supplemental_execution",
+)
+
+
+def _execution_state(data: bytes, path: str) -> tuple[dict[str, Any], list[str]]:
+    """Read existing run fields from front matter and independent YAML fences."""
+    state, errors = _project_initialization_state(data, path)
+    result = {"lock": state["lock"]} if "lock" in state else {}
+    try:
+        surfaces = [_yaml_front_matter(data, path) or {}]
+        for _index, value, error in _initialization_yaml_blocks(
+            data.decode("utf-8", "strict"), path,
+            sections=("project_initialization", "sequential_execution"),
+        ):
+            if error:
+                errors.append(error)
+            elif isinstance(value, Mapping):
+                surfaces.append(value)
+    except (DomainError, UnicodeDecodeError) as exc:
+        return result, errors + [f"{path}: invalid execution state: {exc}"]
+    for section, fields in (
+        ("project_initialization", ("next_permitted_operation",)),
+        ("sequential_execution", ("run_state", "mode", "authorized_start", "terminal_boundary",
+                                  "committed_high_water_mark", "next_candidate_operation")),
+    ):
+        declarations = [s[section] for s in surfaces if section in s]
+        if section == "sequential_execution" and declarations:
+            result["run_state"] = None  # A partial declaration is not legacy absence.
+        if any(not isinstance(s, Mapping) for s in declarations):
+            errors.append(f"{path}: {section} must be a mapping wherever declared")
+            continue
+        for field in fields:
+            values = [s[field] for s in declarations if field in s]
+            if values:
+                result[field] = values[0]
+                if any(v != values[0] for v in values[1:]):
+                    errors.append(f"{path}: contradictory execution declarations for {field}")
+    return result, errors
+
+
+def _validate_run_admission(
+    snapshot: GitSnapshot, entrypoint: str, previous: Any, *, admission: bool, strict: bool
+) -> list[str]:
+    """Check state consistency, never purport to authenticate owner permission."""
+    entry = snapshot.get(entrypoint)
+    if entry is None or not entry.qualifies_as_evidence:
+        return []  # The architecture gate reports this independently.
+    current, errors = _execution_state(entry.data, entrypoint)
+    prior, prior_errors = _execution_state(previous.data, entrypoint) if previous else ({}, [])
+    lock = current.get("lock")
+    lock = lock.casefold() if isinstance(lock, str) else None
+    none = lambda v: isinstance(v, str) and re.fullmatch(r"NONE(?:_[A-Z0-9]+)*", v) is not None
+    prose_closed = re.search(r"SEQUENTIAL_ANALYSIS_LOCK\s*=\s*CLOSED\b", entry.data.decode("utf-8", "replace"), re.I)
+    # Preserve accepted legacy inconsistencies until the operational fields
+    # change or a new reading is admitted. Retrospective prose edits are safe.
+    if not admission and current == prior and errors == prior_errors:
+        return []
+    if (not admission and "run_state" not in current and "run_state" not in prior
+            and not errors and not prior_errors):
+        return []
+    if (admission and not strict and "run_state" not in current and "run_state" not in prior
+            and not errors and not prior_errors and not prose_closed
+            and ("lock" not in current or lock == "open")
+            and not none(current.get("next_permitted_operation"))):
+        return []  # Mature legacy projects retain their existing architecture route.
+    run = current.get("run_state")
+    run = run if isinstance(run, str) else None
+    candidates = [current.get(k) for k in ("next_permitted_operation", "next_candidate_operation")]
+    if run not in {"active", "blocked", "interrupted_pending_recovery", *TERMINAL_RUN_STATES}:
+        errors.append(f"{entrypoint}: missing or unrecognized sequential_execution.run_state")
+    if run in TERMINAL_RUN_STATES and not all(none(v) for v in candidates):
+        errors.append(f"{entrypoint}: completed run requires both next operations NONE")
+    if run == "active":
+        if lock != "open" or any(not _valid_nonempty_string(v) or none(v) for v in candidates):
+            errors.append(f"{entrypoint}: active run requires OPEN lock and both next operations")
+        if candidates[0] != candidates[1]:
+            errors.append(f"{entrypoint}: active next permitted and candidate operations disagree")
+        if current.get("mode") not in ("single_operation", "continuous_sequential") or any(
+            not _valid_nonempty_string(current.get(k)) or none(current.get(k))
+            for k in ("authorized_start", "terminal_boundary")
+        ):
+            errors.append(f"{entrypoint}: active run requires mode and recoverable authorized bounds")
+        if current.get("mode") == "single_operation" and current.get("authorized_start") != current.get("terminal_boundary"):
+            errors.append(f"{entrypoint}: single_operation must have one authorized source unit")
+        if current.get("mode") == "single_operation" and candidates[1] != current.get("authorized_start"):
+            errors.append(f"{entrypoint}: single_operation next candidate exceeds its authorized unit")
+    if admission:
+        # The final transaction may close a run already recorded active on main.
+        # Its original bounds survive, and the high-water mark reaches the end.
+        closing = (
+            run in TERMINAL_RUN_STATES and not prior_errors and prior.get("run_state") == "active"
+            and isinstance(prior.get("lock"), str) and prior["lock"].casefold() == "open"
+            and previous is not None and not re.search(
+                r"SEQUENTIAL_ANALYSIS_LOCK\s*=\s*CLOSED\b", previous.data.decode("utf-8", "replace"), re.I
+            )
+            and prior.get("mode") in ("single_operation", "continuous_sequential")
+            and prior.get("next_permitted_operation") == prior.get("next_candidate_operation")
+            and _valid_nonempty_string(prior.get("next_candidate_operation"))
+            and not none(prior.get("next_candidate_operation"))
+            and (prior.get("mode") != "single_operation" or
+                 prior.get("authorized_start") == prior.get("terminal_boundary") == prior.get("next_candidate_operation"))
+            and all(_valid_nonempty_string(prior.get(k)) and not none(prior[k]) and current.get(k) == prior[k]
+                    for k in ("mode", "authorized_start", "terminal_boundary"))
+            and current.get("committed_high_water_mark") == current.get("terminal_boundary")
+        )
+        if run != "active" and not closing:
+            errors.append(f"{entrypoint}: new sequential admission requires an active authorized run; OPEN alone is insufficient")
+        if lock != "open":
+            errors.append(f"{entrypoint}: new sequential admission requires sequential_analysis_lock OPEN")
+        if prose_closed:
+            errors.append(f"{entrypoint}: new sequential admission contradicts prose lock CLOSED")
+    return errors
+
+
+def _validate_sealed_readings(
     snapshot: GitSnapshot,
     entrypoint_path: str,
     closure: Mapping[str, Any],
     sequential_paths: set[str],
+    *,
+    exact: bool,
 ) -> list[str]:
-    """Retain only reviewed reading bytes; closure never admits another source."""
+    """Check sealed reading bytes against the completion commit and the candidate.
+
+    exact=True (a closed lock) also requires the sealed set to be the whole
+    sequential corpus; a reopened run may add readings but keeps every seal.
+    """
 
     errors: list[str] = []
     if entrypoint_path != closure["canonical_entrypoint"]:
@@ -1675,7 +2130,9 @@ def _validate_terminal_corpus(
     # index/worktree. Missing history is a failure, never a network lookup or
     # permission to substitute the candidate bytes for the historical seal.
     try:
-        completion = GitSnapshot.from_commit(snapshot.root, closure["completion_commit"])
+        completion = GitSnapshot.from_commit(
+            snapshot.root, closure["completion_commit"], paths=frozen
+        )
     except DomainError as exc:
         errors.append(f"{entrypoint_path}: terminal completion_commit cannot be resolved: {exc}")
     else:
@@ -1689,11 +2146,16 @@ def _validate_terminal_corpus(
                 errors.append(
                     f"{path}: terminal frozen seal does not match completion_commit tree"
                 )
-    if set(frozen) != sequential_paths:
+    if exact and set(frozen) != sequential_paths:
         errors.append(
             f"{entrypoint_path}: terminal sequential corpus differs from reviewed closure "
             f"(added={sorted(sequential_paths - set(frozen))}, "
             f"missing={sorted(set(frozen) - sequential_paths)})"
+        )
+    elif not exact and set(frozen) - sequential_paths:
+        errors.append(
+            f"{entrypoint_path}: reopened run closure no longer finds sealed readings "
+            f"(missing={sorted(set(frozen) - sequential_paths)})"
         )
     for path, digest in frozen.items():
         entry = snapshot.get(path)
@@ -1703,40 +2165,84 @@ def _validate_terminal_corpus(
             or hashlib.sha256(entry.data).hexdigest() != digest
         ):
             errors.append(f"{path}: terminal frozen reading bytes changed or are missing")
+    return errors
+
+
+def _validate_terminal_corpus(
+    snapshot: GitSnapshot,
+    entrypoint_path: str,
+    closure: Mapping[str, Any],
+    sequential_paths: set[str],
+) -> list[str]:
+    """Retain only reviewed reading bytes; closure never admits another source."""
+
+    errors = _validate_sealed_readings(
+        snapshot, entrypoint_path, closure, sequential_paths, exact=True
+    )
     entry = snapshot.get(entrypoint_path)
     if entry is None or not entry.qualifies_as_evidence:
         return errors  # The initialization contract reports the missing entrypoint.
     try:
         front = _yaml_front_matter(entry.data, entrypoint_path) or {}
+        text = entry.data.decode("utf-8", "strict")
     except DomainError as exc:
         return errors + [str(exc)]
-    initialization = front.get("project_initialization", {})
-    execution = front.get("sequential_execution", {})
-    for mapping, field in (
-        (initialization, "next_permitted_operation"),
-        (execution, "next_candidate_operation"),
+    except UnicodeDecodeError as exc:
+        return errors + [f"{entrypoint_path}: invalid UTF-8 terminal state: {exc}"]
+    # Terminal state is read from the same surfaces as the lock: front matter
+    # and recognized fenced initialization blocks. Every statement of a field
+    # must agree; a non-mapping section or a contradiction fails closed.
+    surfaces: list[Mapping[str, Any]] = [front]
+    for _index, loaded, block_error in _initialization_yaml_blocks(
+        text, entrypoint_path, sections=TERMINAL_STATE_SECTIONS
     ):
-        value = mapping.get(field) if isinstance(mapping, Mapping) else None
+        if block_error is not None:
+            errors.append(block_error)
+        elif isinstance(loaded, Mapping):
+            surfaces.append(loaded)
+    sections = {
+        name: [surface[name] for surface in surfaces if name in surface]
+        for name in TERMINAL_STATE_SECTIONS
+    }
+    problems: list[str] = []
+
+    def declared(section: str, field: str) -> Any:
+        values = sections[section]
+        if any(not isinstance(value, Mapping) for value in values):
+            problems.append(f"terminal {section} must be a mapping wherever declared")
+            return None
+        stated = [value[field] for value in values if field in value]
+        if any(value != stated[0] for value in stated[1:]):
+            problems.append(f"contradictory terminal declarations for {section}.{field}")
+            return None
+        return stated[0] if stated else None
+
+    for section, field in (
+        ("project_initialization", "next_permitted_operation"),
+        ("sequential_execution", "next_candidate_operation"),
+    ):
+        value = declared(section, field)
         if not isinstance(value, str) or re.fullmatch(r"NONE(?:_[A-Z0-9]+)*", value) is None:
             errors.append(f"{entrypoint_path}: terminal closure requires {field} NONE")
-    if not isinstance(execution, Mapping) or execution.get("run_state") != "complete":
+    run_state = declared("sequential_execution", "run_state")
+    if not isinstance(run_state, str) or run_state not in TERMINAL_RUN_STATES:
         errors.append(f"{entrypoint_path}: terminal closure requires run_state complete")
-    if closure["supplemental_execution_required"] or "supplemental_execution" in front:
-        supplemental = front.get("supplemental_execution")
-        current = (
-            supplemental.get("current_state")
-            if isinstance(supplemental, Mapping) else None
-        )
+    if closure["supplemental_execution_required"] or sections["supplemental_execution"]:
+        current = declared("supplemental_execution", "current_state")
+        admission = declared("supplemental_execution", "other_narrative_admission")
         if (
-            not isinstance(current, str)
+            not sections["supplemental_execution"]
+            or not isinstance(current, str)
             or re.fullmatch(r"CLOSED(?:_[A-Z0-9]+)*", current) is None
-            or supplemental.get("other_narrative_admission") != "NOT_AUTHORIZED"
+            or admission != "NOT_AUTHORIZED"
         ):
             errors.append(
                 f"{entrypoint_path}: terminal supplemental execution must be CLOSED "
                 "with no other admission"
             )
-    if re.search(r"SEQUENTIAL_ANALYSIS_LOCK\s*=\s*OPEN\b", entry.data.decode("utf-8"), re.I):
+    for problem in dict.fromkeys(problems):
+        errors.append(f"{entrypoint_path}: {problem}")
+    if re.search(r"SEQUENTIAL_ANALYSIS_LOCK\s*=\s*OPEN\b", text, re.I):
         errors.append(f"{entrypoint_path}: terminal closure contradicts prose lock OPEN")
     return errors
 
@@ -1825,6 +2331,7 @@ def validate_project_initiation_gate(
     snapshot: GitSnapshot,
     baseline_paths: set[str],
     control: Mapping[str, Any] | None = None,
+    authority: AuthorityGraph | None = None,
 ) -> list[str]:
     """Enforce the prospective project-initiation gate without rewriting legacy roots."""
 
@@ -1845,9 +2352,22 @@ def validate_project_initiation_gate(
     marker_field = marker["field"]
     marker_value = marker["required_value"]
     git_native_prefix = compatibility["git_native_migration_scope_prefix"]
-    authority = AuthorityGraph(snapshot)
+    if authority is None:
+        authority = AuthorityGraph(snapshot)
     closures = control.get("terminal_closures", {})
     registered_prefixes: set[str] = set()
+    base_commit = _run_closure_base_commit(snapshot.root)
+    if base_commit is None:
+        errors.append(
+            f"project-initiation gate needs {RUN_CLOSURE_BASE_REF} to check run-stop "
+            "continuity; fetch main first"
+        )
+        base_seals: dict[str, tuple[str, dict[str, str]]] = {}
+        releases: dict[str, tuple[str, dict[str, str]]] = {}
+    else:
+        base_seals = _base_run_closure_seals(snapshot.root, base_commit)
+        releases = _base_run_closure_releases(snapshot.root, base_commit)
+    current_seals_by_prefix: dict[str, Mapping[str, Any]] = {}
 
     rows: list[tuple[str, Mapping[str, Any]]] = []
     for registry_path, collection in (
@@ -1870,6 +2390,58 @@ def validate_project_initiation_gate(
             if isinstance(row, Mapping)
         )
 
+    # The activation tree still owns architecture adoption. Admission is a
+    # separate delta against fetched main, pinned once per validation, never
+    # prepare_commit's caller-selected --base. A post-integration commit audit
+    # replays the main transaction against its first parent rather than self.
+    admission_tree: dict[str, tuple[str, str]] = {}
+    prior_rows: dict[str, list[Mapping[str, Any]]] = {}
+    history = None
+    if base_commit is not None:
+        try:
+            comparison = base_commit
+            if snapshot.identity == base_commit:
+                comparison = run_git(snapshot.root, "rev-parse", base_commit + "^1").decode().strip()
+            raw = run_git(snapshot.root, "ls-tree", "-r", "-z", "--full-tree", comparison)
+            for item in raw.split(b"\0"):
+                if item:
+                    metadata, path = item.split(b"\t", 1)
+                    mode, kind, oid = metadata.decode("ascii").split()
+                    if kind == "blob":
+                        admission_tree[path.decode("utf-8")] = (mode, oid)
+            history_paths = {row["canonical_entrypoint"] for _, row in rows
+                             if _valid_nonempty_string(row.get("canonical_entrypoint"))}
+            registries = GitSnapshot.from_commit(
+                snapshot.root, comparison, paths=(SERIES_REGISTRY_PATH, STUDY_REGISTRY_PATH)
+            )
+            for registry_path, collection in (
+                (SERIES_REGISTRY_PATH, "series"), (STUDY_REGISTRY_PATH, "studies"),
+            ):
+                entry = registries.get(registry_path)
+                if entry is None:
+                    continue
+                if not entry.qualifies_as_evidence:
+                    raise DomainError(f"{registry_path}: admission history registry is not regular")
+                registry = decode_json(entry.data, registry_path)
+                values = registry.get(collection) if isinstance(registry, Mapping) else None
+                if not isinstance(values, list):
+                    raise DomainError(f"{registry_path}: admission history registry has no {collection} list")
+                prior_rows[registry_path] = [value for value in values if isinstance(value, Mapping)]
+                history_paths.update(value["canonical_entrypoint"] for value in prior_rows[registry_path]
+                                     if _valid_nonempty_string(value.get("canonical_entrypoint")))
+            history = GitSnapshot.from_commit(snapshot.root, comparison, paths=history_paths)
+        except DomainError as exc:
+            errors.append(f"project-initiation admission history is unavailable: {exc}")
+
+    def unchanged_on_main(path: str, entry: Any) -> bool:
+        previous = admission_tree.get(path)
+        if previous is None or entry.mode != previous[0]:
+            return False
+        digest = hashlib.new("sha1" if len(previous[1]) == 40 else "sha256")
+        digest.update(b"blob " + str(len(entry.data)).encode("ascii") + b"\0")
+        digest.update(entry.data)
+        return digest.hexdigest() == previous[1]
+
     for label, row in rows:
         project_prefix = row.get("repository_path")
         if not _valid_nonempty_string(
@@ -1878,6 +2450,21 @@ def validate_project_initiation_gate(
             continue
         registered_prefixes.add(project_prefix)
         closure = closures.get(project_prefix)
+        local, local_state, local_errors = _load_project_run_closure(snapshot, project_prefix)
+        errors.extend(local_errors)
+        if local is not None and closure is not None:
+            errors.append(
+                f"{project_prefix}: a project run closure and a global terminal closure cannot "
+                "both be present; the global closure replaces the project record"
+            )
+            local = None
+        if local is not None:
+            errors.extend(_run_closure_on_main(snapshot, project_prefix, local, base_commit))
+        if local is not None and local_state == "CLOSED":
+            closure = local
+        reopened = local if local is not None and local_state == "REOPENED" else None
+        current_seals = (closure or reopened or {}).get("frozen_sequential_artifacts", {})
+        current_seals_by_prefix[project_prefix] = current_seals
         baseline_present = any(path.startswith(project_prefix) for path in baseline_paths)
         explicit_marker = row.get(marker_field)
         if explicit_marker is not None and explicit_marker != marker_value:
@@ -1891,13 +2478,15 @@ def validate_project_initiation_gate(
             )
 
         new_sequential: list[str] = []
+        admissions: list[str] = []
         terminal_sequential: set[str] = set()
         for path, candidate in snapshot.entries.items():
             if (
-                (path in baseline_paths and closure is None)
-                or not path.startswith(project_prefix)
+                not path.startswith(project_prefix)
                 or not path.endswith(".md")
                 or not candidate.qualifies_as_evidence
+                or (path in baseline_paths and closure is None and reopened is None
+                    and unchanged_on_main(path, candidate))
             ):
                 continue
             classified, fallback, artifact_errors = _is_substantive_sequential_artifact(
@@ -1905,6 +2494,8 @@ def validate_project_initiation_gate(
             )
             errors.extend(artifact_errors)
             if classified:
+                if not unchanged_on_main(path, candidate):
+                    admissions.append(path)
                 if path not in baseline_paths:
                     new_sequential.append(path)
                 terminal_sequential.add(path)
@@ -1919,15 +2510,45 @@ def validate_project_initiation_gate(
         ].startswith(git_native_prefix)
         strict = (
             not baseline_present or explicit_marker == marker_value
-            or git_native or closure is not None
+            or git_native or closure is not None or reopened is not None
         )
         entrypoint = row.get("canonical_entrypoint")
+        if closure is None and _valid_nonempty_string(entrypoint) and history is not None:
+            # A moved/repointed entrypoint cannot erase a root's recorded run.
+            # Match its prior registry identity or root, never just its new path.
+            registry_path = label.split(":", 1)[0]
+            identity_field = "series_id" if registry_path == SERIES_REGISTRY_PATH else "study_id"
+            identity = row.get(identity_field)
+            previous_rows = [value for value in prior_rows.get(registry_path, [])
+                             if value.get("repository_path") == project_prefix or
+                             (_valid_nonempty_string(identity) and value.get(identity_field) == identity)]
+            previous = history.get(entrypoint)
+            if len(previous_rows) > 1:
+                errors.append(f"{entrypoint}: admission history has ambiguous prior project routes")
+            elif previous_rows:
+                previous_path = previous_rows[0].get("canonical_entrypoint")
+                previous = history.get(previous_path) if _valid_nonempty_string(previous_path) else None
+                if admissions and (previous is None or not previous.qualifies_as_evidence):
+                    errors.append(f"{entrypoint}: admission history prior canonical entrypoint is unavailable")
+            errors.extend(_validate_run_admission(
+                snapshot, entrypoint, previous,
+                admission=bool(admissions), strict=strict,
+            ))
+        # A closure covers every reading under its root, including readings of
+        # nested registered roots, exactly as the OPEN gate scan does.
         if closure is not None:
             errors.extend(
                 _validate_terminal_corpus(snapshot, entrypoint, closure, terminal_sequential)
             )
+        if reopened is not None:
+            errors.extend(
+                _validate_sealed_readings(
+                    snapshot, entrypoint, reopened, terminal_sequential, exact=False
+                )
+            )
         if strict and (
-            not baseline_present or explicit_marker == marker_value or new_sequential or closure is not None
+            not baseline_present or explicit_marker == marker_value or new_sequential
+            or closure is not None or reopened is not None
         ):
             errors.extend(
                 _validate_initialization_contract(
@@ -1947,10 +2568,35 @@ def validate_project_initiation_gate(
             )
     for prefix in set(closures) - registered_prefixes:
         errors.append(f"project-initiation terminal closure has no registered project: {prefix}")
+    for candidate in snapshot.entries:
+        if candidate.endswith("/" + PROJECT_RUN_CLOSURE_NAME) and (
+            candidate[: -len(PROJECT_RUN_CLOSURE_NAME)] not in registered_prefixes
+        ):
+            errors.append(f"project run closure has no registered project: {candidate}")
+    # Every seal of a run stop on main survives, here or in a replacing terminal
+    # closure, unless an owner-merged release names that exact sealed digest.
+    for prefix, (record_sha256, sealed) in sorted(base_seals.items()):
+        bound_record, release = releases.get(prefix, ("", {}))
+        released = (
+            {path for path, digest in release.items() if sealed.get(path) == digest}
+            if bound_record == record_sha256 else set()
+        )
+        current = current_seals_by_prefix.get(prefix, {})
+        for sealed_path, digest in sorted(sealed.items()):
+            if sealed_path in released or current.get(sealed_path) == digest:
+                continue
+            where = "" if prefix in registered_prefixes else " (its root is no longer registered)"
+            errors.append(
+                f"{prefix}: sealed reading {sealed_path} was dropped or re-sealed relative to "
+                f"main's run closure{where}; that needs an owner-merged release in "
+                f"{PROJECT_INITIATION_GATE_PATH} run_closure_amendments"
+            )
     return errors
 
 
-def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
+def validate_series_registry(
+    snapshot: GitSnapshot, authority: AuthorityGraph | None = None
+) -> list[str]:
     """Validate deterministic first-read routing for every registered series."""
 
     entry = snapshot.get(SERIES_REGISTRY_PATH)
@@ -1972,7 +2618,8 @@ def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
     if not isinstance(rows, list):
         errors.append(f"{SERIES_REGISTRY_PATH}.series must be an array")
         return errors
-    authority = AuthorityGraph(snapshot)
+    if authority is None:
+        authority = AuthorityGraph(snapshot)
 
     required = {
         "series_id",
@@ -2141,7 +2788,9 @@ def validate_registered_root_topology(snapshot: GitSnapshot) -> list[str]:
     return errors
 
 
-def validate_study_registry(snapshot: GitSnapshot) -> list[str]:
+def validate_study_registry(
+    snapshot: GitSnapshot, authority: AuthorityGraph | None = None
+) -> list[str]:
     entry = snapshot.get(STUDY_REGISTRY_PATH)
     if entry is None or not entry.qualifies_as_evidence:
         return [f"missing tracked regular study registry: {STUDY_REGISTRY_PATH}"]
@@ -2160,7 +2809,8 @@ def validate_study_registry(snapshot: GitSnapshot) -> list[str]:
     if not isinstance(rows, list):
         errors.append(f"{STUDY_REGISTRY_PATH}.studies must be an array")
         return errors
-    authority = AuthorityGraph(snapshot)
+    if authority is None:
+        authority = AuthorityGraph(snapshot)
     required = {
         "study_id",
         "stable_slug",
@@ -3407,7 +4057,12 @@ def validate_native_sheets(snapshot: GitSnapshot, require_schema: bool) -> list[
     return errors
 
 
-def validate_current_domain(root: Path, snapshot: GitSnapshot, require_schema: bool) -> list[str]:
+def validate_current_domain(
+    root: Path,
+    snapshot: GitSnapshot,
+    require_schema: bool,
+    authority: AuthorityGraph | None = None,
+) -> list[str]:
     errors: list[str] = []
     registry_entry = snapshot.get("characters/registry.jsonl")
     series_entry = snapshot.get("series/registry.json")
@@ -3453,7 +4108,8 @@ def validate_current_domain(root: Path, snapshot: GitSnapshot, require_schema: b
             return [
                 "schema-engine deferral is permitted only for an empty character registry"
             ]
-        authority = AuthorityGraph(snapshot)
+        if authority is None:
+            authority = AuthorityGraph(snapshot)
         errors.extend(authority.errors)
         errors.extend(
             validate_discovery_records(
@@ -3493,11 +4149,6 @@ def main() -> int:
     parser.add_argument("--routing-preflight", metavar="ANALYTICAL_BRANCH")
     parser.add_argument("--result-json", type=Path)
     parser.add_argument("--timings-json", type=Path)
-    parser.add_argument(
-        "--defer-schema-engine",
-        action="store_true",
-        help="H0-H5 diagnostic only; never valid for a final H6 receipt",
-    )
     parser.add_argument("--repo", type=Path)
     args = parser.parse_args()
     root = args.repo.resolve() if args.repo else Path(__file__).resolve().parents[1]
@@ -3514,9 +4165,9 @@ def main() -> int:
         elif kind == "commit" and commit is None:
             commit = run_git(root, "rev-parse", "HEAD").decode("ascii").strip()
         if args.routing_preflight and (
-            args.phase != "current" or kind not in {"index", "commit"} or args.defer_schema_engine
+            args.phase != "current" or kind not in {"index", "commit"}
         ):
-            raise DomainError("routing preflight requires a current Git index or exact commit with full schema validation")
+            raise DomainError("routing preflight requires a current Git index or exact commit")
         snapshot, paths = timer.call("snapshot", choose_snapshot, root, kind, commit)
         deferred_routing: list[str] = []
         policy = _policy_from_snapshot(snapshot)
@@ -3530,7 +4181,12 @@ def main() -> int:
         errors.extend(timer.call("paths", validate_paths, snapshot, policy))
         errors.extend(timer.call("bytes", validate_bytes, snapshot, policy, args.phase))
         revision = identity_revision_for_snapshot(kind, commit)
-        errors.extend(timer.call("identities", validate_commit_identities, root, policy, revision))
+        errors.extend(
+            timer.call(
+                "identities", validate_commit_identities, root, policy, revision,
+                role_split=args.phase == "current",
+            )
+        )
         if args.routing_preflight:
             from analytical_preflight import routing_preflight
 
@@ -3544,14 +4200,18 @@ def main() -> int:
             errors.extend(timer.call("housekeeping", validate_global_index_automation, snapshot, policy))
             errors.extend(timer.call("nightly_contract", validate_nightly_integration, snapshot))
             errors.extend(timer.call("whitespace_exceptions", validate_named_whitespace_exceptions, snapshot, policy))
+            # One authority graph serves every consumer of this snapshot; each
+            # builds its own only when called outside a validator run.
+            authority = timer.call("authority_graph", AuthorityGraph, snapshot)
             baseline_commit = active_migration_baseline_commit(snapshot)
             errors.extend(timer.call("authority_scope", validate_active_authority_scope, snapshot, baseline_commit))
             errors.extend(
                 timer.call("crosswalk", validate_crosswalk_closure, snapshot, baseline_commit=baseline_commit)
             )
-            errors.extend(timer.call("native_sheets", validate_native_sheets, snapshot, not args.defer_schema_engine))
-            errors.extend(timer.call("series_registry", validate_series_registry, snapshot))
-            errors.extend(timer.call("study_registry", validate_study_registry, snapshot))
+            errors.extend(timer.call("native_sheets", validate_native_sheets, snapshot, True))
+            errors.extend(timer.call("series_registry", validate_series_registry, snapshot, authority))
+            errors.extend(timer.call("missing_entrypoints", validate_missing_entrypoint_allowlist, snapshot, policy))
+            errors.extend(timer.call("study_registry", validate_study_registry, snapshot, authority))
             errors.extend(timer.call("root_topology", validate_registered_root_topology, snapshot))
             errors.extend(timer.call("obligations", validate_change_obligations, snapshot))
             project_gate_control, project_gate_control_errors = (
@@ -3567,23 +4227,18 @@ def main() -> int:
                                 root, project_gate_control
                             ),
                             project_gate_control,
+                            authority,
                         )
                     )
                 except DomainError as exc:
                     errors.append(str(exc))
-            errors.extend(timer.call("character_domain", validate_current_domain, root, snapshot, not args.defer_schema_engine))
-            if not args.defer_schema_engine:
-                generator_snapshot = "commit" if kind == "commit" else kind
-                errors.extend(timer.call("character_render", validate_generated_index, snapshot, generator_snapshot))
-                if not deferred_routing:
-                    errors.extend(
-                        timer.call("catalog_render", validate_generated_repository_indexes,
-                            root,
-                            generator_snapshot,
-                            commit if kind == "commit" else None,
-                            snapshot=snapshot,
-                        )
-                    )
+            errors.extend(timer.call("character_domain", validate_current_domain, root, snapshot, True, authority))
+            generator_snapshot = "commit" if kind == "commit" else kind
+            errors.extend(timer.call("character_render", validate_generated_index, snapshot, generator_snapshot, authority))
+            if not deferred_routing:
+                errors.extend(
+                    timer.call("catalog_render", validate_generated_repository_indexes, snapshot)
+                )
         if errors:
             for error in sorted(set(errors), key=lambda item: item.encode("utf-8")):
                 print(f"FAIL: {error}")
@@ -3604,14 +4259,9 @@ def main() -> int:
                 "authored content passed; the projected routing bytes are not committed"
             )
             return 0
-        suffix = (
-            " (schema engine explicitly deferred; generated-index CLI not independently invoked)"
-            if args.defer_schema_engine
-            else ""
-        )
         print(
             f"PASS: phase={args.phase} snapshot={snapshot.identity} "
-            f"paths={len(paths)}{suffix}"
+            f"paths={len(paths)}"
         )
         return 0
     except (DomainError, OSError, ValueError) as exc:
