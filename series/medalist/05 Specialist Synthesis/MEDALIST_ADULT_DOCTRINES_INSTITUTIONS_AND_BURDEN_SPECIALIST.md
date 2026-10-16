@@ -5,7 +5,7 @@ artifact_type: "specialist_synthesis"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.0"
+version: "1.1"
 status: "canonical"
 scope: "What adults owe children in this sport as the work presents it: resources and who bears them, gates and who holds them, the field of adult doctrines on risk and sacrifice, burden and debt as the organizing problem, and the work's treatment of blame, through MD-FR-FB02"
 canonical_home: "series/medalist/05 Specialist Synthesis/MEDALIST_ADULT_DOCTRINES_INSTITUTIONS_AND_BURDEN_SPECIALIST.md"
@@ -16,8 +16,8 @@ entering_freeze: "MD-FR-FB02"
 series_state: "ONGOING"
 synthesis_state: "PROVISIONAL_THROUGH_VERIFIED_BOUNDARY"
 created: "2026-10-13"
-updated: "2026-10-13"
-review_status: "INTEGRATOR_REVIEWED_V1"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -119,7 +119,7 @@ One correction of attribution. The sentence that children should bear no pain bu
 
 **Where it arrives is a rule about deciding.** `MD-CL-0024@9` notes that two coaches in V15, Kyōboku and Tsukasa, reach one position from opposite sides: each defers to a reason that concerns who the skater means to be. What Tsukasa keeps of his creed is narrower than before: that suffering should be chosen and should be one's own (`MD-EV-V15-0050`). He distinguishes forbidding a harm to Inori's body, which he did at V13, from overruling a purpose (`MD-CL-0007@12`). That evaluation is favourable with a reservation, and the reservation is his own: he sees in Inori the heat he once saw in Yodaka and says it is one with great suffering (`MD-EV-V15-0049`; `MD-OQ-V15-04`).
 
-**Where the evidence is thin.** Several doctrines rest on one scene (Kameganya, Meiko, Nachi since V04) or on Tsukasa's memory of his teacher (Takamine in V15). Yodaka has not appeared since he left. The convergence of V15 is one volume old and untested by a result. No doctrine has been shown meeting an injury it caused; the two serious injuries shown have no stated cause.
+**Where the evidence is thin.** Several doctrines rest on one scene (Kameganya, Meiko, Nachi since V04) or on Tsukasa's memory of his teacher (Takamine in V15). Yodaka has not appeared since he left. The convergence of V15 is one volume old and untested by a result. No doctrine has been shown meeting an injury it caused; the causes of Mika’s and Iruka’s injuries are not stated. Tsukasa’s harness accident is depicted (`MD-EV-V07-0008`, `0020`), but the corpus does not establish that a whole doctrine caused either child’s injury.
 
 ## Burden and debt
 
@@ -137,7 +137,7 @@ One correction of attribution. The sentence that children should bear no pain bu
 
 **It reaches none of the four in time.** That is the ledger's finding, at MODERATE confidence across layers because two of the stoppings are reported conception. Miku is told after she has decided. Mika, by the creator box, is not told at all. Tsukasa was told at twenty and again a few years later, acted on it once and went back. Inori was told at V13, and V15 shows what she heard. One qualification follows from the evidence: the answer does land where a child says it of herself. `MD-CL-0026@6` notes that in two of three cases in V13 the person reaches it unaided. This is an inference from few cases.
 
-**The misreading of V13.** Tsukasa told Inori that she had cost him nothing and that coaching her is his dream and not a substitute (`MD-EV-V13-0038`/`0044`). She repeated it and rewrote her vow (`MD-EV-V13-0045`). The project then judged this the first durable answer to her guilt, and V15 withdrew the judgement (`MD-RV-0259`, `MD-RV-0261`; `MD-CL-0027@7`, `MD-CL-0029@5`). She had heard the words accurately and taken them as a part entrusted to her (`MD-RT-0104`). He had taken his own words as a pledge that closed the matter (`MD-EV-V15-0024`). The declaration was real and was misread by both.
+**The misreading of V13.** Tsukasa told Inori that she had cost him nothing and that coaching her is his dream and not a substitute (`MD-EV-V13-0038`/`0044`). She repeated it and rewrote her vow (`MD-EV-V13-0045`). The project then judged this the first durable answer to her guilt, and V15 withdrew the judgement (`MD-RV-0259`, `MD-RV-0261`; `MD-CL-0027@7`, `MD-CL-0029@6`). She had heard the words accurately and taken them as a part entrusted to her (`MD-RT-0104`). He had taken his own words as a pledge that closed the matter (`MD-EV-V15-0024`). The declaration was real and was misread by both.
 
 **Three statements kept apart.** Inori's words to the press are hers. The account that she feels she skates at the sacrifice of Tsukasa's life, and that losing is a punishment for having chosen skating, is Kanayumi's inference, with stated grounds, given by one adult to another (`MD-EV-V15-0017`; `MD-KN-0145`). Inori's own statement to Tsukasa is narrower and goes further (`MD-EV-V15-0048`; `MD-KN-0146`). She dates it to middle school. She names her mother's work, Tsukasa's agonizing, and the labour of other kind people when she fails. She does not say that she ended his career; that older form of her belief is neither repeated nor withdrawn. She adds what no adult anticipated: that being told not to strain is what she hates, that she will not let go of skating whoever suffers, that she will not be treated as weak, and that she wants to carry everything and still land lightly. `MD-CL-0028@5` remains a hypothesis about her formation and is not adopted; only its mechanism, that she reads adults' faces and takes the cause on herself, is established.
 
@@ -167,11 +167,11 @@ One further limit. That evening Inori tells her mother, Nozomi, that she does no
 
 Each of these is raised on the page. None is settled there, and none is settled here.
 
-**A thirteen-year-old's quadruples.** The rules as stated restrict juniors more than seniors for the sake of development and bar quadruples from the women's junior short program (`MD-IN-0100`, `MD-IN-0110`). Riley Fox, as coach of record, permits three in one free skate to Hikaru Kamisaki, a growing thirteen-year-old, once, against a later limit (`MD-IN-0133`). Inori Yuitsuka landed one as a novice and has one in the layout at the boundary (`MD-EV-V07-0039`, `MD-EV-V15-0047`). A room of coaches agrees that fear of losing jumps drives food restriction and unbroken training, and wants more precedents of uninjured careers; two days later Hikaru's back pain has gone unnoticed by Sonidori Shin'ichirō, then her coach of record (`MD-IN-0106`). The work does not rule on the quadruples.
+**A twelve-year-old’s quadruples.** The rules as stated restrict juniors more than seniors for the sake of development and bar quadruples from the women's junior short program (`MD-IN-0100`, `MD-IN-0110`). Riley Fox, as coach of record, permits three in one free skate to Hikaru Kamisaki, a growing twelve-year-old at the V13 profile checkpoint, once, against a later limit (`MD-IN-0133`). Inori Yuitsuka landed one as a novice and has one in the layout at the boundary (`MD-EV-V07-0039`, `MD-EV-V15-0047`). A room of coaches agrees that fear of losing jumps drives food restriction and unbroken training, and wants more precedents of uninjured careers; two days later Hikaru's back pain has gone unnoticed by Sonidori Shin'ichirō, then her coach of record (`MD-IN-0106`). The work does not rule on the quadruples.
 
 **School.** Inori and Tsukasa Akeuraji agreed at the start never to miss school for practice; she breaks the rule by degrees and he restates it (`MD-IN-0135`). Hikaru is shown absent from school under her nightly regime (`MD-EV-V08-0038`); a creator feature says school was routinely missed (`MD-IN-0159`).
 
-**A child in a dormitory.** After Sonidori falls ill, the thirteen-year-old Hikaru moves to a sports-course school's dormitory chosen by him (`MD-IN-0123`); when Yodaka Jun, her hidden coach, leaves, Riley Fox, her new coach of record, undertakes guardianship (`MD-IN-0132`). The work shows care around the arrangement and not daily life inside it.
+**A child in a dormitory.** After Sonidori falls ill, Hikaru, twelve at the V13 profile checkpoint, moves to a sports-course school's dormitory chosen by him (`MD-IN-0123`); when Yodaka Jun, her hidden coach, leaves, Riley Fox, her new coach of record, undertakes guardianship (`MD-IN-0132`). The work shows care around the arrangement and not daily life inside it.
 
 **Press statements by a child.** Interview technique was taught at a novice camp Inori never attended (`MD-IN-0103`). At thirteen she tells reporters what she believes she owes. Karasuba Daria, a team-mate, notices, federation staff are uneasy, and the warning travels by Kanayumi Miho to Tsukasa (`MD-IN-0149`). What the federation does is not shown.
 
@@ -209,7 +209,7 @@ A change to any of the following reopens the section named.
 - `MD-CL-0011@16` — resources; the evaluation of the adults.
 - `MD-CL-0014@11`, `MD-CL-0009@3`, `MD-CL-0006@3`, `MD-CL-0018@2`, `MD-CL-0020@2` — gates; the minor coaches and pupils.
 - `MD-CL-0024@9`, `MD-CL-0025@10`, `MD-CL-0007@12` — the doctrines.
-- `MD-CL-0026@9`, `MD-CL-0027@7`, `MD-CL-0029@5`, `MD-CL-0002@15`, `MD-CL-0028@5` (held as hypothesis) — burden and debt.
+- `MD-CL-0026@9`, `MD-CL-0027@7`, `MD-CL-0029@6`, `MD-CL-0002@15`, `MD-CL-0028@5` (held as hypothesis) — burden and debt.
 - `MD-CL-0031@1` — blame.
 - `MD-CL-0022@12`, `MD-CL-0030@2`, `MD-CL-0010@16`, `MD-CL-0016@14` — the body's limits; who makes a component mark; the histories of Tsukasa Akeuraji and Yodaka Jun as used here.
 - Readiness rows `MD-RD-0044`, `MD-RD-0076`, `MD-RD-0077`, `MD-RD-0078`; revisions `MD-RV-0259`, `MD-RV-0261`; institutions ledger rows `MD-IN-0001`–`MD-IN-0160` at version 1.16.

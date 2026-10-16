@@ -43,14 +43,14 @@
     {
       "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT196_COMPLETE_LITERAL69_CLAIM_SOURCE_QUESTION_PURPOSE_AND_LIMIT_REGISTER_V2.json",
       "bytes": 832413,
-      "sha256": "7fc287ed4f32b75c60824116ef55eccc030baf6cff91e12c2bfcb711c87cf624",
-      "git_blob_oid_of_actual_bytes": "f0710bc2a0660f24968bcf6569e763b1097c689c"
+      "sha256": "0bd21006df0537f021d176782d64cdc3f05e2f60a64235ed2e7c0bb0ef316f4e",
+      "git_blob_oid_of_actual_bytes": "93f7f418787a081399ed49f6e0cd425e172f2224"
     },
     {
       "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V2.json",
       "bytes": 207782,
-      "sha256": "f960ecfd7f80a7b890cf8cfde474813627ecd7acccc654bfbc1322b303cc469c",
-      "git_blob_oid_of_actual_bytes": "2db032e8ec050d3c9080ac62b16b23e729b54873"
+      "sha256": "27e5b01e64a2fb341d021b178b8fbd18e322eb0ea8ea42c1c151ac8b0ae134d6",
+      "git_blob_oid_of_actual_bytes": "3541d6cf15d8ac94673e8351c4fecdad17a40c2f"
     }
   ],
   "eighth_self_pin_location": "Outer manifest only",
@@ -7503,9 +7503,9 @@
   },
   "all69_literal_and_sourcequestion_purpose_joins": {
     "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT196_COMPLETE_LITERAL69_CLAIM_SOURCE_QUESTION_PURPOSE_AND_LIMIT_REGISTER_V2.json",
-    "bytes": 832409,
-    "sha256": "a3b164c64444a4a6ae1b6cf1c8896ab8e6d94cd22e8ec9d6805344220c5c0611",
-    "git_blob_oid_of_actual_bytes": "2d1f4459673aa1b7258f7d01586624962218388d"
+    "bytes": 832413,
+    "sha256": "0bd21006df0537f021d176782d64cdc3f05e2f60a64235ed2e7c0bb0ef316f4e",
+    "git_blob_oid_of_actual_bytes": "93f7f418787a081399ed49f6e0cd425e172f2224"
   },
   "operative_author_stage": {
     "status": "C_ONLY_AUTHOR_EXACT8_WITH_LIMITS_FULL_COMPONENT_QA_AND_ROOT_PENDING",

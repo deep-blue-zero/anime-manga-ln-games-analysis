@@ -9,11 +9,22 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-14
+updated: 2026-10-16
 canonical_home: series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md
 ---
 
 # BLUE ARCHIVE — CURRENT STATE AND CORPUS MAP
+
+
+## Current publication and integration authorization — 2026-10-16
+
+The owner clarified that Phase 3 progress must be published and pushed at **25%, 50%, 75% and 100%**, with the accumulated accepted work integrated at those checkpoints. The fixed 355-package scope gives thresholds **89, 178, 267 and 355**. Publication and integration do not wait for Phase 3 to reach 100%. The owner also explicitly authorized promotion, reconciliation and merger of the current Blue Archive PRs **#173 and #158 now**, superseding their draft/HOLD and reserved-merge instructions. This current 152-package integration is separately authorized progress between checkpoints; it does not claim the 178-package milestone.
+
+Verified published source `f93ab42fc3cfdeedd8df37455d9c8da4c88ae49d` contains **152/355 packages (about 42.8%) and 19/29 named duties**: 107 character, 19 directed relationship, five ensemble and 21 institution packages. The 25% milestone at 89 is already integrated; the next threshold remains 178, with 26 packages remaining. Rio repair #173 updates current identity bindings while preserving its accepted argument, purposes and original recovery history. The reconciled candidate incorporates main `31d7faca88d57078cc973faa369eb9ca67535bfb`; it still requires its own exact-head checks, source publication sequence, protected merge and successful post-merge audit. Their actual runtime and integration results belong in the existing PR receipts; this entry does not predeclare those results.
+
+The [execution and milestone plan](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md#5-progress-and-the-four-merges) owns the checkpoint procedure. No percentage or phase-completion label alone creates a merge hold; a draft or nightly hold must reflect a current owner instruction or an identified unresolved integration blocker. Incomplete or private candidates do not become accepted or publishable through this authorization. The separate fixed 150-package source/semantic consistency audit remains active, all 14 original claim-specific gaps remain OPEN, and standalone operational models remain zero. This reconciliation adds no literary acceptance, source admission, identity join, model credit or completed package.
+
+Earlier sections below and older preparation/control fields retain their original analytical and custody history. Their conditional installation counts, publication-pending states and PR158 draft/HOLD/reserved-merge statements are dated snapshots superseded for current publication and merge routing by this section and the corresponding current control in the existing scope metadata. Their source limits, corrections, qualifications, original payloads and remaining analytical obligations remain applicable.
 
 
 ## Current Kei acceptance, conditional local152/19 and verified published151/18

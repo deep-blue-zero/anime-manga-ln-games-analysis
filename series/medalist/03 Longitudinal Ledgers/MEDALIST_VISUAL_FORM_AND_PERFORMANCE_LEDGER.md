@@ -5,14 +5,14 @@ artifact_type: "visual_form_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.17"
+version: "1.19"
 status: "canonical"
 scope: "Recurring manga compositional mechanisms, implied motion and performance presentation"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_VISUAL_FORM_AND_PERFORMANCE_LEDGER.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_SYNTHESIS_RELEASE_UPDATE"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -477,3 +477,19 @@ Recorded at the release of the provisional syntheses at `MD-FR-FB02`. No feature
 **Clarification (the Exhibition).** The parody is in three instalments, in Volumes 5, 12 and 14 (MD-EV-V05-0043 for the first). Each is classed as parody and not as continuity.
 
 The frozen readings are not edited.
+
+## Independent original-page review errata (2026-10-14)
+
+The [60-cluster audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md) owns the 27 actually inspected sequences and inspection limits. Earlier MD-VF/MD-MOT rows remain unchanged.
+
+| Historical record | Erratum / directly inspected basis | Current use |
+| --- | --- | --- |
+| MD-VF-0116 | V13 Score52 0100–0102: Hikaru’s suitability statement and Inori’s light thought are separate interiors; reaching hand/seat/gaze is visible, not a spoken transfer of exclusivity | “Answer” may describe compositional juxtaposition only; current rivalry prose follows the channel/direction correction |
+| MD-VF-0140; frozen V15 prose; MD-CL-0012@15 | Original blur at0076 (printed74) returns legibly at0128 (printed126), after Kago’s no-judgment pledge at0127: **52 page positions later, 51 intervening**, not forty | MD-CL-0012@16 / MD-RV-0279 and current form/integrated prose use the corrected count; no physical-page-turn duration claim |
+| MD-MOT-0015 coverage | V02 SP3 0124–0125 first names the cold feeling; V04 0153 recalls that panel before0154 farewell | V02 bonus-fiction origin and V04 mainline reinterpretation remain distinct; existing release-origin erratum is carried into current syntheses |
+
+Single-page framing/source order were inspected at original resolution. Facing-page binding geometry remains unverified for Japanese witnesses. The owner-authorized English cross-checks of V03 spin illustration and V07 combined drawing clarify fine pose/line details only; matching those panels does not certify whole-edition equivalence or translated semantics. Raw source images remain outside Git.
+
+## Light-of-hope motif/channel erratum (2026-10-14)
+
+**MD-MOT-0013, V13 extension:** “The name is received as its bearer hoped” describes a correspondence available to the reader, not literal receipt by Hikaru. In V12 Score46 original0047–0049 (`MD-EV-V12-0015`), Hikaru is alone on a train and resolves「希望の光に私はなるんだ」: she herself will become a light of hope. In V13 Score52 original0101–0102 (`MD-EV-V13-0025`), Inori privately thinks of Hikaru as that light. Hikaru does not apply the phrase to Inori, and neither girl is shown hearing the other's thought. The two formulations occur in V12 and V13, not as a reciprocal naming exchange within V13. Read the retained V13 motif row through this erratum and `MD-CL-0023@10` / `MD-RV-0280`; the V12 motif extension and all earlier rows remain historical. This follow-up expands RC01's existing channel determination, not the principal cluster or visual-sequence inventory.

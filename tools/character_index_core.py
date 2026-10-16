@@ -347,7 +347,9 @@ def run_git(root: Path, *args: str, input_bytes: bytes | None = None) -> bytes:
     GIT_METRICS["processes"] += 1
     try:
         return subprocess.check_output(
-            ["git", "-C", str(root), *args],
+            # Evidence must be local and bound to the requested object IDs.
+            # Unsupported Git versions fail closed on these explicit options.
+            ["git", "--no-lazy-fetch", "--no-replace-objects", "-C", str(root), *args],
             input=input_bytes,
             stderr=subprocess.PIPE,
         )
@@ -426,7 +428,9 @@ class GitSnapshot:
         self.entries = dict(entries)
 
     @classmethod
-    def from_commit(cls, root: Path, commit: str) -> "GitSnapshot":
+    def from_commit(
+        cls, root: Path, commit: str, *, paths: Iterable[str] | None = None
+    ) -> "GitSnapshot":
         if not FULL_COMMIT_RE.fullmatch(commit):
             raise DomainError("basis commit must be a full lower-case 40- or 64-hex object ID")
         object_format = run_git(root, "rev-parse", "--show-object-format").decode().strip()
@@ -435,7 +439,19 @@ class GitSnapshot:
             raise DomainError(f"basis commit length does not match repository object format {object_format}")
         if run_git(root, "cat-file", "-t", commit).decode().strip() != "commit":
             raise DomainError("basis object is not a commit")
-        raw = run_git(root, "ls-tree", "-r", "-z", "--full-tree", commit)
+        # A seal needs exact named historical blobs, not the whole corpus.
+        # Literal pathspecs and the exact membership filter also handle names
+        # containing Git pathspec syntax without selecting siblings/children.
+        selected = None if paths is None else set(paths)
+        if selected is not None:
+            for path in selected:
+                validate_repository_path(path)
+        raw = (
+            b"" if selected == set() else run_git(
+                root, "--literal-pathspecs", "ls-tree", "-r", "-z", "--full-tree", commit,
+                *([] if selected is None else ["--", *sorted(selected)]),
+            )
+        )
         rows = []
         for item in raw.split(b"\0"):
             if not item:
@@ -443,6 +459,8 @@ class GitSnapshot:
             metadata, raw_path = item.split(b"\t", 1)
             mode, kind, oid = metadata.decode("ascii").split(" ")
             path = raw_path.decode("utf-8", "strict")
+            if selected is not None and path not in selected:
+                continue
             rows.append((path, mode, kind, oid))
         blobs = read_blob_objects(root, (oid for _, _, kind, oid in rows if kind == "blob"))
         entries = {
