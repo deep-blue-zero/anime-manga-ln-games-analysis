@@ -1,0 +1,16 @@
+{
+  "series_id": "genocidal-organ",
+  "stable_slug": "genocidal-organ",
+  "canonical_title": "Genocidal Organ / 虐殺器官",
+  "media": [
+    "NOVEL"
+  ],
+  "repository_path": "series/genocidal-organ/",
+  "canonical_entrypoint": "series/genocidal-organ/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_GENOCIDAL_ORGAN_BOOTSTRAP_20261016",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive."
+}
