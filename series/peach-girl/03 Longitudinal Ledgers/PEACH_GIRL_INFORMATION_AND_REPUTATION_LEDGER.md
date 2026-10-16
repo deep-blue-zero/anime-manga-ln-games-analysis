@@ -65,6 +65,15 @@ Bootstrap source-derived propositions, belief events, transmissions, reputation 
 | PG-IP-0010@1 | Sae and Tōji kissed under the pergola on D0 morning / i0140 | ESTABLISHED (event); who initiated: Sae (reader-only i0138); Tōji's participation unresolved | PG-EV-V01-0043, -0044 |
 | PG-IP-0011@1 | Momo gave Kairi mouth-to-mouth two years ago / i0049 | DISPUTED / Momo: a lifeguard did; Kairi: memory of hair | PG-EV-V01-0017, -0035; PG-CL-0007@1 |
 | PG-IP-0012@1 | Kairi rejected Sae over a bag she took from someone / i0030–i0031 | Core ESTABLISHED (i0028); the 'sister' version distorted/UNRESOLVED | PG-EV-V01-0009, -0010 |
+| PG-IP-0013@1 | Momo hit Sae (bruise) / i0028 | REFUTED_AT_BOUNDARY / bruise was makeup (i0063) | PG-EV-V02-0006, -0017 |
+| PG-IP-0014@1 | Sae was injured by Momo's push / i0037 | REFUTED_AT_BOUNDARY / feigned (i0040) | PG-EV-V02-0009 |
+| PG-IP-0015@1 | Tōji is hospitalized with appendicitis / i0055 | ESTABLISHED_AT_BOUNDARY | PG-EV-V02-0013 |
+| PG-IP-0016@1 | Momo declined to visit Tōji / i0060 | REFUTED_AT_BOUNDARY / Momo did not know | PG-EV-V02-0015 |
+| PG-IP-0017@1 | Momo seduced or stole her best friend Sae's boyfriend Tōji / i0078 | REFUTED_AT_BOUNDARY / Tōji is Momo's boyfriend | PG-EV-V02-0020 |
+| PG-IP-0018@1 | Momo is promiscuous (ヤリマン) / i0058 | REFUTED_AT_BOUNDARY / conduct and first kiss | PG-EV-V02-0014; PG-CL-0001@1 |
+| PG-IP-0019@1 | Momo two-timed Tōji with Kairi (stairs hug) / i0081 | REFUTED_AT_BOUNDARY / accident plus Kairi's unrequested hold | PG-EV-V02-0019, -0022 |
+| PG-IP-0020@1 | The pergola kiss was 'practice' for kissing Momo / i0159 | DISPUTED as framing / Sae's framing; Tōji refused twice (V01 i0138); his assent is not shown | PG-EV-V02-0039 |
+| PG-IP-0021@1 | Sae wants Tōji / i0122 | ESTABLISHED_AT_BOUNDARY as her statement | PG-EV-V02-0028 |
 
 ## Knowledge and belief events
 
@@ -86,6 +95,16 @@ Bootstrap source-derived propositions, belief events, transmissions, reputation 
 | PG-KN-0014 / — | Tōji / IP-0009 | BELIEVES / Sae's relay | D0 | PG-EV-V01-0049, -0051 |
 | PG-KN-0015 / — | Momo; Kairi / IP-0010 | KNOW (witnesses) without the coercive prelude | D0 | PG-EV-V01-0044 |
 | PG-KN-0016 / — | Momo / 'Sae wrote the graffiti' | BELIEVES / inference from a false exclusivity premise | ~1 wk | PG-EV-V01-0011; truth UNRESOLVED |
+| PG-KN-0017 / — | Tōji / IP-0013 | BELIEVES (inferred; suspicion at i0039) / Sae's implication plus Momo's words | V02 day 1 | PG-EV-V02-0006, -0025 |
+| PG-KN-0018 / — | Momo / IP-0015 | UNAWARE_WITH_EVIDENCE until day 3; then KNOWS via Kairi | V02 day 1–3 | PG-EV-V02-0013, -0021 |
+| PG-KN-0019 / — | Class 3 (bounded audience) / IP-0015 + instruction to withhold | KNOWS; withholds (reported) | V02 day 1 | PG-EV-V02-0021 |
+| PG-KN-0020 / — | Tōji / IP-0016 | BELIEVES (inferred from his reaction) | V02 | PG-EV-V02-0015 |
+| PG-KN-0021 / — | Kairi / Sae's coercive plan and goal | KNOWS / told by Sae | Hospital day | PG-EV-V02-0030, -0032 |
+| PG-KN-0022 / — | Sae / IP-0003 (Kairi–Momo kiss real) | KNOWS / Kairi's admission | Hospital day | PG-EV-V02-0032 |
+| PG-KN-0023 / KN-0014 | Tōji / IP-0009 (cafeteria) | KNOWS false / Momo's disclosure | Hospital day | PG-EV-V02-0035 |
+| PG-KN-0024 / — | Tōji / IP-0003 | KNOWS kiss occurred (Sae; Momo admits); lacks context of non-consent | Hospital day | PG-EV-V02-0037 |
+| PG-KN-0025 / — | Momo / IP-0020 | BELIEVES Tōji accepted 'practice' / Sae's statement and Tōji's 「キスだけどキスじゃない」 | Hospital day | PG-EV-V02-0039 |
+| PG-KN-0026 / KN-0011 | Tōji / 'Sae has no motive to lie' | Doubt emerging (i0149) | Hospital day | PG-EV-V02-0036 |
 
 ## Transmissions
 
@@ -103,6 +122,16 @@ Bootstrap source-derived propositions, belief events, transmissions, reputation 
 | PG-TX-0010 / — | Sae / Tōji / IP-0009 | Speech / overheard true location: deliberate | Tōji waits in the cafeteria | D0 / PG-EV-V01-0049 |
 | PG-TX-0011 / — | Sae / Tōji / IP-0008 (fabricated quotations) | Speech / fabricated | Tōji's jealous approach | D0 / PG-EV-V01-0052 |
 | PG-TX-0012 / — | Sae / Momo / 'Tōji wants you for sex' | Insinuation / no basis shown | Momo's fear at the pergola | D0 / PG-EV-V01-0048, -0053 |
+| PG-TX-0013 / — | Sae / Tōji / IP-0013 (implied via 「ぶつけたの」) | Performance / knows it is makeup | Tōji suspects Momo | V02 day 1 / PG-EV-V02-0006, -0017 |
+| PG-TX-0014 / — | Sae / Tōji & class / IP-0014 | Performance / feigned | Tōji condemns Momo | V02 day 1 / PG-EV-V02-0009 |
+| PG-TX-0015 / — | Sae / class 3 / withhold IP-0015 from Momo | Request (Kairi's report) / deliberate | Momo uninformed for three days | V02 day 1 / PG-EV-V02-0021 |
+| PG-TX-0016 / — | Sae / Tōji / IP-0016 | Implication / knows false | Tōji hurt | V02 days 1–3 / PG-EV-V02-0015 |
+| PG-TX-0017 / — | Sae / Tōji / IP-0019 + secrecy as two-timing | Speech / framing distorted | Tōji's suspicion of Kairi | V02 day 3 / PG-EV-V02-0022 |
+| PG-TX-0018 / — | Unknown / class 3 → Kairi's fans / IP-0017 | Rumor / unknown | Saturates class 3 | V02 / PG-EV-V02-0020 |
+| PG-TX-0019 / — | Kairi / Momo / IP-0015 + blockade account | Speech / learned from others | Momo goes to hospital | V02 day 3 / PG-EV-V02-0021 |
+| PG-TX-0020 / — | Momo / Tōji / IP-0009 false + Sae's lies | Speech (coerced hearing) / sincere | Tōji begins to doubt | Hospital day / PG-EV-V02-0035 |
+| PG-TX-0021 / — | Sae / Tōji / IP-0003 framed as Momo's lie | Accusation / knows the kiss occurred; omits non-consent | Rupture | Hospital day / PG-EV-V02-0037 |
+| PG-TX-0022 / — | Sae / Momo & Tōji / IP-0020 | Speech / her own framing | Momo's contempt for Tōji; breakup | Hospital day / PG-EV-V02-0039 |
 
 ## Reputation events
 
@@ -114,6 +143,9 @@ Bootstrap source-derived propositions, belief events, transmissions, reputation 
 | PG-RP-0004 / — | Sae / male classmates / class No. 1; pale and cute | Admiration; gifts | Independent (appearance) / opening day onward | PG-EV-V01-0005, -0038 / HIGH |
 | PG-RP-0005 / — | Sae / female onlookers / fawning (コビコビ) | Resentful talk | Independent / ~1 wk | PG-EV-V01-0009 / MODERATE |
 | PG-RP-0006 / — | Kairi / female classmates / never serious with anyone | Talk | Independent / DayA+1 | PG-EV-V01-0019 context, i0065 / MODERATE |
+| PG-RP-0007 / RP-0003 | Momo / class 3 / ヤリマン; best-friend's-boyfriend thief | Slurs, shoe defacement, exclusion; Momo aware | TX-0018 / V02 | PG-EV-V02-0014, -0020 / HIGH |
+| PG-RP-0008 / — | Sae / class 3 / considerate friend nursing Tōji | Cooperation with the blockade | TX-0015 / V02 | PG-EV-V02-0021 / MODERATE |
+| PG-RP-0009 / — | Momo / Tōji / 'friend-betraying, violent' (temporary) | 「見損なったよ」 | TX-0013, -0014 / V02 day 1 | PG-EV-V02-0010 / HIGH |
 
 ## Current information and reputation projections
 
@@ -123,5 +155,7 @@ Bootstrap source-derived propositions, belief events, transmissions, reputation 
 | Information / Sae's fabrications / Tōji / PG-FR-V01 | KN-0011, -0013, -0014 | Tōji holds three false beliefs from Sae | When he learns |
 | Reputation / Momo / peers / PG-FR-V01 | RP-0001…0003 | Appearance-based labels contrary to depicted conduct | Reach beyond observed audiences |
 | Reputation / Sae / peers / PG-FR-V01 | RP-0004, -0005 | Admired by boys; resented by some girls | — |
+| Information / Tōji's beliefs / PG-FR-V02 | KN-0017, -0020, -0023, -0024, -0026 | Knows the cafeteria lie; still holds the bruise belief; knows of the Kairi kiss without context | — |
+| Reputation / Momo / class 3 / PG-FR-V02 | RP-0007 | Severe false reputation | Reach beyond class 3 |
 
-Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC.
+Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended (frontier PG-FR-V02), 2026-10-16 UTC.
