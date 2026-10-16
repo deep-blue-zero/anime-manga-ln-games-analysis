@@ -5,10 +5,10 @@ artifact_type: analytical_execution_receipt
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.1'
+version: '0.2'
 status: active_provisional
 scope: Full remaining original-novel sequential reading; specialists, reconstruction and comparison separately gated
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U002 through spine 10, exclusive before HAR-U003
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U003 through spine 11, exclusive before HAR-U004
 canonical_home: series/harmony/07 Audits and Handoffs/HARMONY_CONTINUATION_RUN_2026-10-16.md
 created: '2026-10-16'
 review_status: OWNER_REVIEWED_PILOT_AND_AUTHORIZED_CONTINUATION
@@ -55,3 +55,25 @@ Ordinary reconciliation `41e91c0cfcc4bf46478a7f46135a923a06714fa0` incorporates 
 ## HAR-U002 private verification retention
 
 The coordinator retained `HAR-U002_PRIVATE_SOURCE_VERIFICATION_20261016_V1.zip` as Drive file `1_WPObKLgFOprqr5zpWaNlDqAqJmfqHP7` in canonical folder `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, `shared=false`. Full independently downloaded readback matches **4,438,363 bytes**, SHA-256 `4370a19945884a546487dd23af7c614fb792b84ad7ba6eb6e07d8c09344a70e2`; local ZIP CRC and all 18 per-object manifest size/hash checks pass. Manifest SHA-256 `3f603f2ec2351ff70a8cc31e518d4b2a44db40433f9ea643b81b061cd608f7e6`. The bundle contains only this unit’s faithful extraction, actual renders, geometry/ruby records, locator verification, scripts/tool hashes and noninterpretive gate/inspection provenance. Analytical frontiers and interpretive review remain in canonical Git artifacts; whole-book originals, future plaintext, caches and binaries are excluded. The canonical original EPUB remains unchanged at its existing ID. This retention verifies persistence, not publisher authenticity.
+
+
+## First-resumed checkpoint clearance and isolated staffing
+
+Parent verified HAR-U002 source/final `81cd8f6e6dd64d7a860f62c04ede3f1e20f4be29`: source audit38979107234, no-op housekeeping38979617496, final exact-head audit38979652264 all SUCCESS, actual AUDIT_COMMIT bound to source, full profile selection_enabled=false/352tests/0failures/0errors/0skips. PR186 integrated as main `3caff8b0625f63ab073285c9841639248a946c50`; complete source/main trees both `aa0a6bc1f4d490322026d78ba17a071b0eef666f`. Explicit post-main audit38979976129 SUCCESS bound to that main with the same full352/0/0/0 result. Controller38979279631 SUCCESS reports merged_verified and VERIFIED_OWNER_ONLY. The parent then cleared HAR-U003 exposure/publication. No further routine owner confirmation or ordinary-unit main-integration pause is added; exact source → housekeeping → final branch audit remains required before each later unit’s words.
+
+After HAR-U002 acceptance/freeze/publication, the predecessor accidentally used an unfiltered collaboration status tool that embedded unrelated-title reviewer snippets. No other-title primary file or guidance section was opened or used as Harmony evidence; HAR-U002 bytes predate the event. The event was immediately reported and recorded privately, and source work stopped. A fresh isolated fork_none Harmony-only successor acquired this root’s full governing/analytical state plus shared/Harmony calibration, without those snippets. The successor has not read other-title source, title-specific guidance, analyses or agent summaries. This truthful staffing history neither rewrites the earlier freezes nor claims auditable absence of model pretraining exposure.
+
+An ordinary two-parent reconciliation `e3aae686445eddd4b9ed015bbc9b13da05090324` preserves prior stable source81cd8f6e and integrated main3caff8b0, with identical root treeaa0a6bc1. Live authority/scope/tag and both rulesets were reverified; no governance bytes differed. This imports preserved history without other-title prose inspection. Fresh remote heads/protections remain mandatory before publication.
+
+## HAR-U003 authored closeout
+
+Pre-word entry SHA-256 `dca10d0f884cafddd446ae1b2100c2322821ba697a6efdeeaff67cbfdff5a7f0` fixes the exact HAR-U002 frontier/current claims and staffing exposure. Entire natural03 was read in order, all186 blocks/11263rawcp/49ruby/185br, all six actual panels, thirteen original selected locator spans; source/render/extraction equality and all positive-bound paragraph rectangles pass. HAR-U004 body/later prose remains unexposed. No alternate witness or new G0 is invented.
+
+[HAR-U003](../01%20Sequential%20Readings/HAR-U003_PART_I_03_DEEP_READING.md) supplies substantive source-bounded narration, agency, institutional access and form arguments with Japanese support/material countercases, seven new claims CL012–CL018 and a justified NO_PREDICTION. All three ledgers close separately:7subjects/11actor-state rows/12directionalrelationIDs(16historicalrows)/13worldIDs/18claims/0predictions/2earlierrevisions;40evidenceRecords/43spans cumulative. Earlier readings/historical receipts unchanged; no specialist/reconstruction/comparative work. Current method/architecture receive boundary/version synchronization only; INITIAL architecture remains adequate within Part I.
+
+Author semantic QA checks the introduction, substantial classroom and Sahara arguments, all material directed pairs and exit against original Japanese: no backdated Kian-death knowledge; actual assent distinct from later free-choice judgment; explicit lost-life/reunion assertions both preserved; exact fear qualifier retained; medical efficacy/access/authority distinguished; Kian’s objection/question not erased; unnamed warrior remains unnamed. Every quotation/locator round-trips. Naming/ruby and all count/coverage states pass. This is bounded author source QA, not a new independent or blind evaluation claim. Final staged validation, source publication/readback and exact-head CI must be observed separately; no future outcome is asserted here.
+
+
+## HAR-U003 private verification retention
+
+The designated metadata-only evidence custodian retained `HAR-U003_PRIVATE_SOURCE_VERIFICATION_20261016_V1.zip` as Drive file `1IV9Yay1GuJ5bXWlQMRPJChqdzzCmIFL6`, canonical folder `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false. Full raw remote readback equals **4,173,028 bytes**, SHA-256 `bffb10a248b392c7f02dc882582652189284f42eecc596372c63cc81bc725e40`; ZIP CRC, safe paths, exact membership and all18 manifest object size/hash checks PASS. Manifest SHA-256 `8ad02dd00253e786caec2cf2799325088c5d8d299dd5c1c67e5887758c14939d`. The bundle contains current-source extraction, six actual renders, geometry/ruby and locator proof, scripts/tool hashes and noninterpretive provenance. Locator labels/interpretive descriptions are excluded. Analytical frontiers remain in Git; future prose, originals, binaries/caches are excluded. Original EPUB is unchanged at its canonical ID. This verifies retention, not publisher authenticity.
