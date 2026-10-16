@@ -133,7 +133,10 @@
           "uuid:fa04d7e8-ae76-462d-8aca-5c5cc903e9cd",
           "urn:uuid:69c79841-5372-49d5-92fc-bb5ae9ae1e0f"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2014-04-10T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -340,7 +343,10 @@
           "uuid:103d5cc6-088f-45a6-858d-7c8c9c167dc4",
           "urn:uuid:a0dd4a47-c70e-4257-ba2d-ee551de10b1e"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2014-04-10T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -547,7 +553,10 @@
           "uuid:bf206b66-2f03-470a-b0be-59a677c855f3",
           "urn:uuid:30e873da-1528-4abe-b0a0-f158f9897ca0"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2014-04-10T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -755,7 +764,10 @@
           "uuid:68ca9a01-5423-4c5c-bcd3-4279b104e1cc",
           "urn:uuid:36c08f59-a1bd-4f6c-a543-747fe780472c"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2014-05-11T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -988,7 +1000,10 @@
           "uuid:c75c9741-0e5d-49c3-ad74-bbe92ee900ca",
           "urn:uuid:0c21f484-3f67-427d-9570-a8de0cc4387a"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2014-08-21T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -1220,7 +1235,10 @@
           "uuid:dfc77ac3-850d-4547-b72e-c67ed592531b",
           "urn:uuid:06ecb825-4ae8-4865-be9e-cee780b1e117"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2015-02-18T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -1451,7 +1469,10 @@
         "identifier": [
           "04103539A05264400000"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2015-08-17T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -1680,7 +1701,8 @@
         ],
         "date": [
           "2015-12-27T13:00:00+00:00"
-        ]
+        ],
+        "dcterms_modified_values": []
       },
       "opf_creators_and_role_codes": [
         {
@@ -1890,6 +1912,9 @@
         ],
         "date": [
           "2016-07-02T00:00:00+00:00"
+        ],
+        "dcterms_modified_values": [
+          "2016-08-05T05:43:06Z"
         ]
       },
       "opf_creators_and_role_codes": [
@@ -2120,7 +2145,8 @@
         "date": [
           "2016-10-31T13:00:00+00:00",
           "2020-05-17"
-        ]
+        ],
+        "dcterms_modified_values": []
       },
       "opf_creators_and_role_codes": [
         {
@@ -2334,7 +2360,10 @@
         "identifier": [
           "04104993A06479700000"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2017-04-20T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -2648,7 +2677,8 @@
         ],
         "date": [
           "2017-07-31T14:00:00+00:00"
-        ]
+        ],
+        "dcterms_modified_values": []
       },
       "opf_creators_and_role_codes": [
         {
@@ -2858,7 +2888,8 @@
         ],
         "date": [
           "2017-11-30T13:00:00+00:00"
-        ]
+        ],
+        "dcterms_modified_values": []
       },
       "opf_creators_and_role_codes": [
         {
@@ -3066,7 +3097,8 @@
         ],
         "date": [
           "2018-08-01"
-        ]
+        ],
+        "dcterms_modified_values": []
       },
       "opf_creators_and_role_codes": [
         {
@@ -3281,6 +3313,9 @@
         ],
         "date": [
           "2018-12-01"
+        ],
+        "dcterms_modified_values": [
+          "2018-12-11T21:27:22Z"
         ]
       },
       "opf_creators_and_role_codes": [
@@ -3503,7 +3538,10 @@
         "identifier": [
           "04108520A08740200000"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2019-08-01T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -3745,7 +3783,8 @@
         "date": [
           "2020-05-01T05:00:00+00:00",
           "2020-05-17"
-        ]
+        ],
+        "dcterms_modified_values": []
       },
       "opf_creators_and_role_codes": [
         {
@@ -3959,7 +3998,10 @@
         "identifier": [
           "04105816A07063400000"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2023-03-25T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -4225,7 +4267,10 @@
         "identifier": [
           "04105817A07063500000"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2023-03-25T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -4491,7 +4536,10 @@
         "identifier": [
           "urn:uuid:e120de71-af96-4401-b228-0877c61e4fc8"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2023-03-23T13:00:02Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -4760,7 +4808,10 @@
         "identifier": [
           "04106523A07513000000"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2023-03-25T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -5025,7 +5076,10 @@
         "identifier": [
           "urn:uuid:6c552bcb-5df8-4867-a61f-6d5bf631d497"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2023-03-24T00:26:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -5295,7 +5349,10 @@
         "identifier": [
           "urn:uuid:c449dbf4-8482-4090-aa8f-35adc00e75d5"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2019-12-29T08:18:45Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -5565,7 +5622,10 @@
         "identifier": [
           "04108252A08504400000"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2020-07-29T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -5835,7 +5895,10 @@
         "identifier": [
           "urn:uuid:86a644df-48ab-426f-aab5-6fe6c115271a"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2026-02-28T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -6101,7 +6164,10 @@
           "uuid:3e549bf7-5e22-4ab8-82c9-c547b17fadcb",
           "urn:uuid:8369e49a-e05e-4a4b-8ec1-8419b0e6b65f"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2014-06-24T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -6330,7 +6396,10 @@
           "uuid:147af1ce-badf-45c4-8a39-0ec811a17f6c",
           "urn:uuid:aec8a573-2db0-4b84-a257-c0f40a42e006"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2014-11-20T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -6558,7 +6627,10 @@
           "uuid:c127738b-7ebb-46a4-b91f-9d7d3898747b",
           "urn:uuid:f4c62f6d-771b-4dfe-a8a1-ab128b76c1aa"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2015-05-15T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -6785,7 +6857,10 @@
         "identifier": [
           "urn:uuid:38fd21a8-88b4-435d-86ce-dd8dc6e62ec7"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2016-12-13T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -7024,7 +7099,8 @@
         ],
         "date": [
           "2019-04-01"
-        ]
+        ],
+        "dcterms_modified_values": []
       },
       "opf_creators_and_role_codes": [
         {
@@ -7238,7 +7314,8 @@
         ],
         "date": [
           "2016-03-31T13:00:00+00:00"
-        ]
+        ],
+        "dcterms_modified_values": []
       },
       "opf_creators_and_role_codes": [
         {
@@ -7445,7 +7522,10 @@
         "identifier": [
           "urn:uuid:b7fff738-ab5b-423b-a47f-65d18a3f03c1"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2022-02-28T01:01:40Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -7710,7 +7790,8 @@
         ],
         "date": [
           "2020-01-01T05:00:00+00:00"
-        ]
+        ],
+        "dcterms_modified_values": []
       },
       "opf_creators_and_role_codes": [
         {
@@ -7916,7 +7997,10 @@
         "identifier": [
           "urn:uuid:7ee3219f-a6aa-464e-a310-7f961ee3b708"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2020-10-26T10:27:01Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -8158,7 +8242,10 @@
         "identifier": [
           "04114186A15226300000"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2023-09-29T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -8396,7 +8483,10 @@
         "identifier": [
           "urn:uuid:ae013731-5ab2-427a-b37b-ace7e947ce9f"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2026-03-17T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -8634,7 +8724,10 @@
         "identifier": [
           "04105006A06483000000"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2017-02-01T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -8880,7 +8973,10 @@
         "identifier": [
           "04111506A10204200000"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2022-02-01T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -9137,7 +9233,10 @@
         "identifier": [
           "urn:uuid:3ab4ff21-e095-40bf-abce-73e9953de001"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2020-04-01T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -9414,7 +9513,10 @@
         "identifier": [
           "urn:uuid:16d4e1e4-9961-40fe-b511-1db48888cfa9"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2021-06-16T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {
@@ -9701,7 +9803,10 @@
         "identifier": [
           "urn:uuid:dad9c0e0-4e02-4d6d-9ea2-65bc3025a946"
         ],
-        "date": []
+        "date": [],
+        "dcterms_modified_values": [
+          "2023-12-11T00:00:00Z"
+        ]
       },
       "opf_creators_and_role_codes": [
         {

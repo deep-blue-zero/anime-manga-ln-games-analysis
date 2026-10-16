@@ -107,3 +107,7 @@ The fixed membership/byte-identity seal is `fe59ede667ed3532f9cd0e62fdd650655d02
 | `KONOSUBA_SOURCE_LANGUAGE_AUDIT.md` | `1rWyPb0b6gliqY6V4OsSAbthCcOs5VCxZ` | 1,863 | `75a279dcd0c1a3eccf40768a1fbf343cfb67b9251334cff6b5991f27fe8b0f01` |
 
 This source reconciliation does not modify the historical audits, Calibre records, propagation manifest or original EPUB bytes. It corrects the Git inventory/source schedule through a traceable project-local derivative.
+
+## Source-metadata corrections — 2026-10-16
+
+An independent all-41 comparison checked 3,362 identity/value joins against the retained live listings, byte receipts, audit/Calibre/propagation records, publisher records and six supporting manifest identities; all compared joins agree. Two representation/synchronization gaps were corrected through [the run audit](../09%20Audits%20and%20Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md): SR-20261016-01 adds each object's verbatim OPF `dcterms_modified_values`, previously present only in raw receipts; SR-20261016-02 advances the inventory's stale live analysis boundary to V11. The two independent retained OPF records agree for all 41 objects: 32 nonempty values and nine empty arrays. An empty array means no such OPF property was found, not an inferred date. Package modification, dc:date, Drive modification and official print/digital publication dates remain separate facts. No source byte, membership, author role, holdout designation, narrative state or original audit was changed by these repairs.
