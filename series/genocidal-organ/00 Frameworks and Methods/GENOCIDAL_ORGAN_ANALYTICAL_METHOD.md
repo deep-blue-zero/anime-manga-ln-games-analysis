@@ -5,13 +5,13 @@ artifact_type: analytical_method
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.1'
+version: '0.2'
 status: active_provisional
 scope: Prospective prose-reading method
-source_boundary: Original Japanese prose novel; candidate EPUB structurally inspected; zero narrative units admitted or read
+source_boundary: Original Japanese prose novel; bounded EPUB witness verified for GO-U001; zero closed narrative units at G0
 canonical_home: series/genocidal-organ/00 Frameworks and Methods/GENOCIDAL_ORGAN_ANALYTICAL_METHOD.md
 created: '2026-10-16'
-review_status: OWNER_REVIEW_PENDING
+review_status: FOUNDATION_ACCEPTED_FOR_ONE_OWNER_AUTHORIZED_PILOT
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,7 +20,7 @@ do_not_use_as_literary_evidence: true
 
 # Genocidal Organ / 虐殺器官 — analytical method
 
-This method governs a future authorized Japanese-prose reading. It makes no plot, character or thematic claim. Read [the entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md), the [witness map](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md) and paired [architecture](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md) first. The current CLOSED lock and zero-admission state remain binding.
+This method governs the owner-authorized Japanese-prose pilot GO-U001 and any separately authorized later operation. The method itself makes no plot, character or thematic claim. Read [the entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md), the [witness map](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md) and paired [architecture](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md) first. The bootstrap CLOSED/zero-admission state is preserved in the historical receipt. The current entrypoint records G0 review and the exact one-unit OPEN run; OPEN never authorizes continuation.
 
 ## 1. Witness admission and source handling
 
@@ -80,7 +80,7 @@ For each authorized unit, finish the following transaction before advancing:
 6. Check names and reference clarity in the opening, substantial middle, exit and every material relationship: who acts, speaks, thinks, observes, receives and is affected? Use verified names within the permitted frontier, preserve intentional concealment/aliases, and classify any role label under handoff Section 15. Record and repair real attribution defects.
 7. Review exact changed paths, stage exact files, run required validation, commit the closed transaction and verify persistence/publication under the checklist. Freeze the reading bytes at acceptance; failed validation or ambiguous publication leaves the transaction incomplete. Never advance based only on drafted prose.
 
-A separately authorized single operation stops after closeout. An authorized continuous run proceeds only to its named terminal boundary after each closed transaction. A CLOSED lock, unknown witness, missing required form, unresolved scope or contradictory run state blocks admission. The current bootstrap is neither mode and admits zero units.
+A separately authorized single operation stops after closeout. An authorized continuous run proceeds only to its named terminal boundary after each closed transaction. A CLOSED lock, unknown witness, missing required form, unresolved scope or contradictory run state blocks admission. The historical bootstrap was neither mode and admitted zero units. The 2026-10-16 owner instruction authorizes exactly GO-U001 in single_operation mode; no later unit is authorized.
 
 ## 7. Revision and preservation
 
