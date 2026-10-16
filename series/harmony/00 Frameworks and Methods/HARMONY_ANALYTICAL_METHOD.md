@@ -5,10 +5,10 @@ artifact_type: analytical_method
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.2'
+version: '0.3'
 status: active_provisional
 scope: Prospective prose-reading method
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U001 through spine 9, exclusive before text/part0006_split_002.html; later narrative unread
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U002 through spine 10, exclusive before text/part0006_split_003.html; later narrative unread
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_ANALYTICAL_METHOD.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -20,7 +20,7 @@ do_not_use_as_literary_evidence: true
 
 # Harmony / ハーモニー — analytical method
 
-This reviewed method governs the authorized bounded Japanese-prose pilot and later operations only when separately authorized. It makes no plot, character or thematic claim. Read [the entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md), the [witness map](../00%20Frameworks%20and%20Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md) and paired [architecture](../00%20Frameworks%20and%20Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md) first. The current lock, exact authorized run and admitted frontier are read from that entrypoint; bootstrap was CLOSED with zero narrative findings.
+This reviewed method governs source-bounded Japanese-prose operations under the exact owner-authorized run recorded in the entrypoint. It makes no plot, character or thematic claim. Read [the entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md), the [witness map](../00%20Frameworks%20and%20Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md) and paired [architecture](../00%20Frameworks%20and%20Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md) first. The current lock, exact authorized run and admitted frontier are read from that entrypoint; bootstrap was CLOSED with zero narrative findings.
 
 ## 1. Witness admission and source handling
 
@@ -84,8 +84,14 @@ For each authorized unit, finish the following transaction before advancing:
 6. Check names and reference clarity in the opening, substantial middle, exit and every material relationship: who acts, speaks, thinks, observes, receives and is affected? Use verified names within the permitted frontier, preserve intentional concealment/aliases, and classify any role label under handoff Section 15. Record and repair real attribution defects.
 7. Review exact changed paths, stage exact files, run required validation, commit the closed transaction and verify persistence/publication under the checklist. Freeze the reading bytes at acceptance; failed validation or ambiguous publication leaves the transaction incomplete. Never advance based only on drafted prose.
 
-A separately authorized single operation stops after closeout. An authorized continuous run proceeds only to its named terminal boundary after each closed transaction. A CLOSED lock, unknown witness, missing required form, unresolved scope or contradictory run state blocks admission. The historical bootstrap was neither mode and admitted zero units. The accepted G0 checkpoint authorizes only HAR-U001 in single_operation mode; it does not widen source scope.
+A separately authorized single operation stops after closeout. An authorized continuous run proceeds only to its named terminal boundary after each closed transaction. A CLOSED lock, unknown witness, missing required form, unresolved scope or contradictory run state blocks admission. The historical bootstrap was neither mode and admitted zero units. The historical G0 checkpoint authorized only HAR-U001 in single_operation mode. The later owner-authorized continuous run is recorded separately in the current entrypoint and continuation record; no frozen pilot state is widened.
 
 ## 7. Revision and preservation
 
 Later evidence is reconciled in the claims ledger through `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT` or `OPEN`, retaining earlier wording and its boundary. Apply corrections to current topical homes; use an attributable erratum for a frozen reading. Do not edit a prospective freeze to make it retrospectively correct. A source/edition change creates a new witness and explicit dependent-claim review, not a silent replacement. Follow the global archive and handoff policies through the architecture.
+
+## 8. Pre-continuation calibration — 2026-10-16
+
+Advisory reviewer guidance is a prompt to verify the original Japanese, not a source or new governance. State deliberate formal patterns and strongly supported inferences affirmatively, with confidence attached to the precise proposition. Uncertainty about a literary form’s referent or fictional implementation must not erase certainty about the displayed form. Keep only material, textually supported counterreadings; compatible rhetorical functions need not compete with one another. Japanese wording, particles, omitted subjects, register, repetition and meaningful layout remain load-bearing. Narrative claims, strong inference, speculation and value judgment stay distinct. No forecast is required where the text offers no discriminating prospective test.
+
+HAR-U001 remains byte-frozen. Current claim strengthenings use HAR-RV001/HAR-RV002 with complete earlier formulations preserved; no retrospective source enters that pilot. Each continuation unit freezes its entering frontier before new words, including any explicitly dated source-bounded current-claim revisions. Recurring verification/runtime details live in source/continuation records so literary prose can concentrate on the unit’s warranted argument.

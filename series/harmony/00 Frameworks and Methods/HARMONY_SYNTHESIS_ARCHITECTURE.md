@@ -5,10 +5,10 @@ artifact_type: synthesis_architecture
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.2'
+version: '0.3'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U001 through spine 9, exclusive before text/part0006_split_002.html; later narrative unread
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U002 through spine 10, exclusive before text/part0006_split_003.html; later narrative unread
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -24,7 +24,7 @@ architecture_lifecycle: INITIAL
 
 ## 1. Responsibility, authority and source model
 
-This INITIAL architecture defines how future readings accumulate into a mature analysis of **one prose novel**. It pairs with the [analytical method](../00%20Frameworks%20and%20Methods/HARMONY_ANALYTICAL_METHOD.md) and [source/witness map](../00%20Frameworks%20and%20Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md) under [the sole entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md). Generation `HARMONY_BOOTSTRAP_V1` remains active provisional guidance, now accepted by scoped foundation review for HAR-U001; no prior architecture is displaced. The G0 checkpoint has no admitted sequential-analysis unit; the entrypoint owns the current frontier.
+This INITIAL architecture defines how future readings accumulate into a mature analysis of **one prose novel**. It pairs with the [analytical method](../00%20Frameworks%20and%20Methods/HARMONY_ANALYTICAL_METHOD.md) and [source/witness map](../00%20Frameworks%20and%20Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md) under [the sole entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md). Generation `HARMONY_BOOTSTRAP_V1` remains active provisional guidance, accepted by scoped foundation review at HAR-U001 and retained for the owner-authorized continuous run; no prior architecture is displaced. The historical G0 checkpoint had no admitted sequential-analysis unit; the entrypoint owns the current frontier.
 
 The source model separates the original Japanese work, the verified reading witness to be selected, alternate editions, translation witnesses, paratext and adaptations. Shared packaging and authorship do not establish shared continuity. Conflicts are classified as edition/translation difference, focalizer knowledge, memory, deception, institutional claim, framing level, chronology or unresolved inconsistency before any harmonization. Uncertainty survives as an explicit claim state.
 
