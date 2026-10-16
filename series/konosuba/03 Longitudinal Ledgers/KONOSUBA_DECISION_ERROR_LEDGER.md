@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V10
+scope: V01-V11
 ledger_role: decision_error
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V10 main narrative
+source_boundary: Japanese main-series light novels through V11 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Decision and Error Ledger — Through V10
+# KONOSUBA Decision and Error Ledger — Through V11
 
 ## Purpose
 
@@ -938,3 +938,33 @@ These entries derive from the complete sequential Japanese V10 main narrative on
 - **Recurrence/transition:** STRENGTHEN giver-specific ordinary-life value and limits of Kazuma's social equivalence judgments. Neither the ring nor the address shift establishes a formal adult romantic agreement.
 - **Class/confidence:** H1, H2 rivalry; HIGH.
 - **Source:** C3 P0251–0286; Ep P0034–0060; Pr P0003–0021 (`値段の問題ではありません`, `ありがとう、お兄ちゃん`).
+
+
+# V11 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/xhtml/p-002.xhtml`–`p-008.xhtml`, all-body paragraph enumeration including blanks/images; 2,865 paragraphs, 108,101 base characters. Source EPUB SHA-256 `ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46`. No afterword, ebook bonus, later/side narrative, illustration or audio is evidence. V01–V10 is inherited accepted state. Gen03 model/predictions and all original outcomes remain unchanged; these are additive V11 observations, not Gen04 or tranche closure. RC-V09-01 and RC-V10-01 remain controlling. Detailed locators, qualifications and all 25 outcomes are in the [V11 deep reading](../02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md).
+
+| ID / locator | Stimulus, appraisal and active goal | Choice, result and diagnosis | H / confidence |
+|---|---|---|---|
+| DE-V11-01 C1 P0142–0214 | Court rewards and service make status feel secure; leisure and admiration become worth early rising and an elaborate schedule. | Kazuma cancels hunting, intrudes on training/parties, reinterprets refusal as tsundere assent and dismisses a returned cake as not counting. Reward-linked overextension, motivated permission and retrospective scorekeeping; not low energy. | H1 mechanism / H2 magnitude; HIGH. |
+| DE-V11-02 C1 P0336–0401 | Iris explicitly wants continued contact; he notices child/family boundary, Megumin and those waiting at home but also prizes affection and comfort. | Chooses permanent stay and releases home/assets. Actual competing-relationship decision; no voluntary-return credit after forced transfer. | H1 choice/H2 presentation; HIGH. |
+| DE-V11-03 C1 P0448–0583 | Superior numbers prevent ordinary escape; he has weak spells, rope, drain and social capital. | Disrupts formations, then bargains on Rain's debt/status. Near agreement ends when Claire orders capture. Resourceful search and revision, insufficient final leverage; threats also increase fear. | H1/H2; HIGH. |
+| DE-V11-04 C1 P0586–0633 | Claire fears influence on Iris and future retaliation; Kazuma advertises threatening abilities. | Prohibited risky memory potion plus forced teleportation. Concern and coercive means coexist; her fear does not justify risk erasure. | H1 material action/H2 panic; HIGH for shown action, MODERATE for motive weighting. |
+| DE-V11-05 C2 P0091–0129 | Real missing memories and disproportionate potion make the cause uncertain. | Kazuma invents a flattering national-secret explanation and grows confident; Darkness's correct potion diagnosis contaminates assessment of the separate explanation. Aqua's ordinary behavioral account is closer. | H1 inference/H2 certainty display; HIGH. |
+| DE-V11-06 C2 P0134–0338 | Exclusion, missing funds and missing physical buffs require a resource plan. | Uses gifted wallet/bow, pays Vanir, defines entry and banking fallback; boarded windows force rerouting, rope effort and Aqua's patrol nearly defeat him, Megumin pulls him in. Explicit planning is not sufficient capacity. | H1 plan/H2 farce; HIGH. |
+| DE-V11-07 C2 P0370–0406 | Kazuma assumes inside access lets him dominate Aqua. | Bind is countered and Aqua buffs herself; Darkness is collateral; he loses. Knowledge retrieval/overconfidence and misjudged direct capability, not failure of every skill. | H1 outcome/H2 comic fight; HIGH. |
+| DE-V11-08 C2 P0404–0451 | Valid ownership loss coexists with a precommitted desire to make Aqua cry/apologize. | Calls police, sees tears and continues a mocking callback before eventual relief. Local K04 failure: grievance/teasing reward persists through noticed actual distress; later rescue is distinct. | H1 choice/H2 humiliation; HIGH, with explicit teasing-category interpretation. |
+| DE-V11-09 C2 P0455–0534 | Aqua wants maid play; healing restores Kazuma's incriminating knowledge. | Tea is intentionally hot water; he removes address privilege but tries heroic redirection before silent scrutiny forces apology. Do not code tea as failed learning or apology as immediate full transparency. | H1 intent/H2 acting; HIGH. |
+| DE-V11-10 C3 P0038–0059 | Darkness needs return and work; real gratitude might recruit Kazuma. | Pays children for letters, succeeds temporarily, apologizes for resulting hurt while defending necessity. Social engineering can be clever and damaging; genuine emotion is not proof of spontaneous provenance. | H1; HIGH. |
+| DE-V11-11 C3 P0243–0249 | Komekko's scarcity cues attention to Megumin's resources. | Kazuma offers her own separately held savings; she declines larger transfers because father would fund craft fixation. Resource allocation is reasoned, not absence of family care. | H1; HIGH for choices/MODERATE for father's predicted spending. |
+| DE-V11-12 C3 P0283–0295/P0354–0369 | Megumin's fame claims threaten embarrassment; Kazuma/others would pay social cost to preserve them. | She accepts confession, prioritizing his dignity and others' honesty over sisterly face. Real regulator distinct from accepted exclusive-build guilt. | H1; HIGH. |
+| DE-V11-13 C3 P0416–0444; C4 P0062–0109 | Luna sees admiration can make refusal hard after heroic self-presentation. | Uses food/child audience to mobilize neglected/harder work despite protest. Instrumental success with fairness/overwork costs; Komekko is not proved the calculating architect. | H1/H2; HIGH. |
+| DE-V11-14 C3 P0545–0579 | Peaceful release would leave Aqua without a prestige win. | Punches fading Lucy; Lucy insults, takes the last word and departs. Separate status goal disrupts adequate release; sacred force does not control the social result. | H1 action/H2 bathos; HIGH. |
+| DE-V11-15 C4 P0257–0358/P0411–0413 | Detector silence accompanies ambiguous answers and strategic attention to the device. | Kazuma narrows questions, separates audience, discovers private persona and exploits his own literal promise. Accurate suspicion plus intentional pragmatic deception, not detector omniscience. | H1; HIGH. |
+| DE-V11-16 C4 P0439–0529 | Mutual truthful fragments expose his attraction; humiliation intensifies retaliation. | Herbicide destroys upper body; roots require separate work. Assignment was investigation; escalation's effectiveness does not adjudicate every ethical claim. | H1/H2; HIGH. |
+| DE-V11-17 C4 P0534–0580 | Megumin tries food discipline; child wants access to resources. | Komekko barricades the kitchen, neutralizes no-dinner threat, then hidden chocolate reverses adult bargaining. Incentive-sensitive resourcefulness, not generic irrational disobedience. | H1/H2; HIGH. |
+| DE-V11-18 F P0097–0144 | Komekko says her sister has not looked impressive; public audience available. | Megumin rejects modest toad work, boasts one-on-one superiority, receives a two-monster assignment. Status/identity overcommitment precedes full task information. | H1/H2; HIGH. |
+| DE-V11-19 F P0223–0266 | Tail blocks weak arrow; direct force is inadequate; Aqua recognizes magical flight. | Kazuma revises toward blinding/time-buying; Aqua cancels flight without accounting for inertia, causing collision. Kazuma tentatively attributes his minor damage to her prior buff; drain and an unnamed thief help. Domain knowledge, system consequences and multiple contributors stay separate. | H1/H2; HIGH. |
+| DE-V11-20 F P0267–0330 | New female manticore redirects support; Darkness is being carried away. | Kazuma uses mate concern/delay, then eye-shot plus Darkness's blow enables stored Explosion on three clustered enemies. No complete pre-cast exit/carry plan or explicit safe blast geometry established. | H1; HIGH for sequence, MODERATE for unshown margins. |

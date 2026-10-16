@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V10
+scope: V01-V11
 ledger_role: japanese_voice_humor
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V10 main narrative
+source_boundary: Japanese main-series light novels through V11 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Japanese Voice and Humor Ledger — Through V10
+# KONOSUBA Japanese Voice and Humor Ledger — Through V11
 
 ## Method caution
 
@@ -618,3 +618,38 @@ Roles, mappings and windows were fixed before outcome classification; the comple
 The **final audited V10 census contains 112 episodes/candidates: 106 clear L0–L2, 1 clear L3, 1 mixed and 4 uncertain**, with conservative local L0–L2 bounds **94.64%–99.11%**. The original 105-episode boundary-before-classification snapshot (SHA-256 `fe23a22171efd1b6c7953292a41d38b670bf8941f8eba5f5fe0982c435e0c429`) and its 101/1/1/2 distribution remain historical. A separate full audit of 96 uncovered ranges identified seven supplementary candidates; their boundaries were sealed before supplementary classification (SHA-256 `b848131ec2757e04b18d4189e9363b616974a5786343cb93d03fe29d5186c526`). Five add clear L0–L2 cases and two remain eligibility-uncertain. No original L class changed. Source-description corrections and all added IDs are recorded explicitly.
 
 The complete source-order registry, cultural flags, ordinary-equivalent tests, original/final counts and near-miss decisions are in the canonical `../02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md`, **Appendix A**; the fixed J01 comparisons are in **§8.4**. Short lexical/name jokes remain represented, and all four uncertain cases remain in the denominator. **MG03-J02 stays PARTIAL / TRANCHE_OPEN** until the complete V10–V12 pool is read and coded. Neither a local majority nor the coverage correction creates a new freeze or model generation.
+
+
+# V11 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/xhtml/p-002.xhtml`–`p-008.xhtml`, all-body paragraph enumeration including blanks/images; 2,865 paragraphs, 108,101 base characters. Source EPUB SHA-256 `ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46`. No afterword, ebook bonus, later/side narrative, illustration or audio is evidence. V01–V10 is inherited accepted state. Gen03 model/predictions and all original outcomes remain unchanged; these are additive V11 observations, not Gen04 or tranche closure. RC-V09-01 and RC-V10-01 remain controlling. Detailed locators, qualifications and all 25 outcomes are in the [V11 deep reading](../02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md).
+
+## Written-language source and interpretation boundary
+
+Written Japanese only; no actual voice acting, pitch, audible pause or accent was inspected. Gen03-J01 roles/windows were fixed after the complete first reading but before surface-outcome coding, with separate semantic role evidence and adverse/insufficient cases retained. The complete 11-window table is in V11 deep reading §8; this append preserves the main reusable findings rather than rewriting that freeze.
+
+| ID / speaker → addressee | Locator and short anchor | Form, pragmatic effect and evidential limit |
+|---|---|---|
+| JV-V11-01 Kazuma, internal | C1 P0178–0214, 来るなは来て / ノーカン | A romance script translates refusal into permission; game-like accounting then erases an attempt because it failed. L2 pragmatic framing plus cultural genre script; no proof the listener intended assent. |
+| JV-V11-02 Kazuma, internal | C1 P0295–0306/P0352–0389 | Repeated denial, self-address and exception planning precede actual staying. The gap between professed identity and decision is portable; particular repetition/clipping makes it sharper. L0–L2, not a particle-to-personality inference. |
+| JV-V11-03 Iris/Claire | C1 P0438–0444/P0615–0620, マジ / チョー | Inappropriately casual intensifiers in royal speech, then contagion to the correcting guardian. L2 register contrast and role expectations; ordinary translated colloquial forms can preserve it. |
+| JV-V11-04 Iris → Kazuma | C1 P0333–0361/P0384–0387 | お兄様/お兄ちゃん accompanies explicit ordinary desire, duty and a narrowed request. L2 relationship/stance; neither form alone proves adult romance. |
+| JV-V11-05 Aqua → Kazuma | C2 P0443–0534, カズマ様 | Same honorific spans coerced supplication, enjoyed maid play and an awkward relaxation after memory returns. L2 relationship/state conditioning; never assign one stable submissive motive from the form alone. |
+| JV-V11-06 Aqua in parody | C2 P0461–0488 | Deliberately exaggerated/hybrid maid speech is explicitly called odd; bad output is intentional. L2 role performance rather than failed competence. |
+| JV-V11-07 Megumin → Kazuma | C2 P0336–0368, もうどこにも行かないで | Direct contact-preservation request inside continuing polite speech; gratitude and household care coexist with the interrupted private reward. L2 relational directness, not obligatory de-theatricalization. |
+| JV-V11-08 Funifura/Dodonko/Megumin | C3 P0068/P0078–0085 | Deliberate near-name corruptions and corrective returns to actual names create local L3 form dependence. The crayfish callback at P0064–0066 is a separate nested lead-in, not the name joke. |
+| JV-V11-09 Megumin → guild/Kazuma | C3 P0342–0369 | Explicit relief of his social burden, apology and gratitude replace image preservation after his bow. L2, supported fixed mapping; the semantically established care role is separate from surface-politeness scoring. |
+| JV-V11-10 Aqua/Lucy/Darkness | C3 P0522–0579 | Divine self-legitimation and factional accusation counter a generic peace appeal. Lucy's revenge theology is her explicit commitment; later challenge/punch responds to prestige rather than a need for more technical purification. L2 and situational bathos. |
+| JV-V11-11 Kazuma/Princess | C4 P0297–0358/P0411–0413 | Truthful ambiguity and not-cutting/not-harming scope exploit pragmatic interpretation. L2; ordinary translated semantic scope works. No detector delivers a complete moral account. |
+| JV-V11-12 Megumin → guild | F P0097–0144, 我が名は | Competence challenge increases grand specialty self-identification and competitive assertion. L2 plus structurally portable overcommitment; an active audience/identity explains the register. |
+| JV-V11-13 Megumin → Kazuma | Ep P0038/P0071, 仲間以上恋人未満 | Direct thanks and an intermediate relationship request retain politeness. L2 relational formula, not completed couple/exclusive status. |
+
+## Mapping-level counterevidence
+
+Aqua's visible repair of Kazuma's rib supplies actual service, but the fixed C2 P0487–0493 → P0498–0507 window does not demonstrate the predicted increase in practical directives: apology, spell and diagnostic question occur. This is a limited adverse language case, not failed healing. The Kazuma wallet-care window supplies internal repayment intention but insufficient comparable speech; the child-scarcity window lacks prior Kazuma dialogue. Darkness's belonging window is decided PARTIAL/source-mediated and circularity-limited: C4 P0510 reports attacks on everyone and P0512 describes unsteady/shaken behavior, while the exact insult is known through P0511's semantic report. That semantic content is distinct from the scored reassurance-seeking question form, but no newly shown independent direct insult or close local baseline establishes a clean confirmation. None is hidden by the good Megumin specialist mapping.
+
+## J02 form-sensitive and culturally dependent cases
+
+The nickname blends at C1 P0276–0277 and the name distortions at C3 P0078–0085 require conservative L3 retention. 姫 at C1 P0317–0325 raises a cultural-versus-linguistic distinction: an English princess metaphor may preserve the online/literal contrast, while MMO role knowledge may need explanation. The nested ショウテン threat at F P0259 can have death/climax layering, while the entire episode's flight-cancellation collision is situationally portable. Counterreading disagreements remain visible in the complete classified register rather than being changed to improve a majority. Possible genital echo in チンチン (C4 P0267/P0444) is not certified as a separate pun without a source-marked response. The V11 お守り gift is genuine charm context: do not import V09's charm/childcare joke by word matching.

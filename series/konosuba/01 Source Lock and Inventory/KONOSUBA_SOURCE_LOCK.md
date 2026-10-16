@@ -42,7 +42,7 @@ Missing:
 
 The former V07 continuity gate is **RESOLVED**. V07 was added to the canonical `Main Series` folder, matched the updated manifest SHA-256 exactly, passed ZIP/EPUB integrity checks, and passed a dedicated Japanese-language audit on 2026-08-27.
 
-Canonical sequential analysis is accepted through V10. The owner's 2026-10-16 continuation authorizes V11–V17 continuously, preserving the existing Gen03 predictions for V10–V12 and all later checkpoint-before-exposure requirements. Source availability does not license out-of-order analytical updates. The former V07–V09 route and its Gen02 freeze remain historical evidence in the accepted readings/checkpoints.
+Canonical sequential analysis is accepted through V11; V12 is next and unopened. The owner's 2026-10-16 continuation authorizes V11–V17 continuously, preserving the existing Gen03 predictions for V10–V12 and all later checkpoint-before-exposure requirements. Source availability does not license out-of-order analytical updates. The former V07–V09 route and its Gen02 freeze remain historical evidence in the accepted readings/checkpoints.
 
 ## 4. Withheld sources
 

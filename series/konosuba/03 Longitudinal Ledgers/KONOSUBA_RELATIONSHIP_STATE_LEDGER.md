@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V10
+scope: V01-V11
 ledger_role: relationship_state
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V10 main narrative
+source_boundary: Japanese main-series light novels through V11 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Relationship State Ledger — Through V10
+# KONOSUBA Relationship State Ledger — Through V11
 
 ## Purpose
 
@@ -553,3 +553,42 @@ After the impostor is defeated, Levi admits error and affirms alliance; Kazuma t
 The ensemble's functional cooperation is not universal interpersonal harmony. The pufferfish dinner fails despite trusted expertise because the sole planned healer becomes unavailable; the nighttime diversion fails despite a mutually agreed plan; the dragon combines a decoy, buffs and concentrated attack; captivity is escaped through two different abilities and mutual timing. The casino excludes disruptive betting while keeping practical assistance. These independently describable arrangements are better evidence than defining every success as good teamwork after the fact. C1 P0216–0279; C4 P0318–0337; C5 P0097–0126, P0334–0341, P0622–0657.
 
 Claire's sudden alliance with Kazuma is conditional on the shared anti-engagement goal, while Rain remains aligned with the attempt to prevent disruption. The adventuring party's treatment of the three sightseeing escorts supplies genuine negative social evidence: it knowingly externalizes harm and compensation, despite strong loyalty within the group. C2 P0045–0096; C3 P0081–0170, P0305–0323. **PRESERVE:** attachment can coexist with exploitation of outsiders; increased affection does not imply general moral improvement.
+
+
+# V11 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/xhtml/p-002.xhtml`–`p-008.xhtml`, all-body paragraph enumeration including blanks/images; 2,865 paragraphs, 108,101 base characters. Source EPUB SHA-256 `ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46`. No afterword, ebook bonus, later/side narrative, illustration or audio is evidence. V01–V10 is inherited accepted state. Gen03 model/predictions and all original outcomes remain unchanged; these are additive V11 observations, not Gen04 or tranche closure. RC-V09-01 and RC-V10-01 remain controlling. Detailed locators, qualifications and all 25 outcomes are in the [V11 deep reading](../02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md).
+
+## Kazuma–Iris: chosen contact, conflicting homes and duty-limited desire
+
+Iris asks to live with the whole group, then explicitly rejects a charm as an adequate substitute for experiencing travel with Kazuma. She names her own royal obligation and requests a smaller immediate period of closeness. The cheap ring is valued despite court disapproval; its personal significance is not replaced by hypothetical price. Kazuma responds with real staying behavior, but combines concern with comfortable dependency and a desired future entitlement that belongs to his narration. His later permanent-retirement letter is an actual choice against the core household; forced return is not a voluntary repair. C1 P0057–0076, P0288–0401.
+
+The attempted rescue at the chapter's end is Iris's action against coercive treatment of Kazuma. It does not prove she discarded all duty, and it does not establish the guardians as simply uncaring: they acknowledge her happiness while choosing risky, prohibited means. Keep role, affection and means separate. C1 P0410–0444, P0586–0633.
+
+## Kazuma–Megumin: covert repair, misattributed romantic choice, direct proposal
+
+Megumin participates in anger at his absence, then secretly supplies her wallet and actively pulls him through the window. She says the shared home's noise is not replaceable by castle comfort and asks him not to leave. Her interpretation that he deliberately chose her room is not his actual reason; Vanir supplied the suggestion and he did not consider having the stronger Darkness pull him up. An affectionate action and an inaccurate attribution coexist. Her account of Aqua cooking his portion redirects him from private reward toward another bond. C2 P0143–0181, P0234–0238, P0293–0368.
+
+Kazuma offers public cost to sustain her sisterly image; Megumin explicitly prefers accepting embarrassment to his humiliation or making kind adventurers lie. This reciprocal protection has higher evidential value than generic friendly labeling and is not erased by teasing/pinching elsewhere. The exit proposal is precisely 仲間以上恋人未満. Do not update this to a completed exclusive couple, sexual relationship or adult commitment. C3 P0342–0369/P0412–0415; Ep P0037–0082.
+
+## Kazuma–Aqua: attachment protest, punishment and delayed truth
+
+Aqua's house claim, watchfulness and demand for apology coexist with Megumin's report that she waited daily and cooked his portion. Her social reconstruction of his actual departure is better than his national-secret account. The physical duel includes hurt to Kazuma and collateral to Darkness. Police recover the legal house; Kazuma's continued taunt after noticed actual tears locally falsifies K04 even though he later relents. The following maid game is voluntarily enjoyed role play rather than simple subordination. Healing restores memory before he admits it, and silent scrutiny finally induces apology. C2 P0061–0130, P0258–0268, P0357–0359, P0370–0534.
+
+This relationship tolerates comic aggression but has real breaches. Habitual rivalry is not an excuse to erase harm or to treat the later warm household as proof the earlier punitive acts were harmless.
+
+## Kazuma–Darkness: appreciation as leverage and reciprocal dependence
+
+Darkness's promised attention and commissioned fan letters recruit a real temporary return decision. Their production is disclosed later, and she recognizes the hurt while defending necessity. Her covert bow gift aids his return; the subsequent Aqua duel makes her a casualty rather than a willing shield under a shared plan. At the final fight he answers the appeal about her abduction, and her own blow completes the eye-shot release. Interdependence includes independent initiative and actual error. C1 P0221–0245; C2 P0151–0160, P0393–0399; C3 P0038–0059; F P0308–0325.
+
+## Megumin–Komekko and family
+
+The older sister is protective and proud, wants shared sleep, worries about unsafe food incentives, and has more difficulty with the approaching departure than the child. Komekko's hunger, blunt appraisal, pantry strategy and accurate private report frustrate that control. Yuiyui's wealth appraisal/child-making pressure is her conduct, not evidence of the younger pair's completed act or consent. H2 amplification should not erase the underlying asymmetry between an independent hungry child and an affectionate, status-sensitive older sibling. C3 P0189–0295; C4 P0534–0580; F P0097–0144; Ep P0023–0036/P0077–0117.
+
+## Party, town and selective belonging
+
+Reciprocal praise and prior debts support genuine aid. Luna's use of the child's admiration then turns freely offered recognition into pressure to accept neglected tasks. The final action succeeds through distributed contribution while preserving early flank failure, Aqua's momentum error, a thief's intervention, new enemy information and a repaired target handoff. No universal Kazuma indispensability or equality of contributions follows. C3 P0342–0444; C4 P0062–0109; F P0203–0357.
+
+Durable household attachment is directly evidenced in replies and reunion. Strict MG03-E02 remains NOT_TESTED because an efficiency-promising feasible reorganization is not fully established; generic loss and practical efficiency must not be conflated. The initial permanent retirement is contrary to an unconditional individual version, while other members' resistance remains strong new evidence. The final maternal-address cliffhanger is unresolved at V11 and must not be resolved by a remembered later explanation.

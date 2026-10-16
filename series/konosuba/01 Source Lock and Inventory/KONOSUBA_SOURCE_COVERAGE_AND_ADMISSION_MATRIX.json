@@ -2474,12 +2474,15 @@
           "METADATA_VERIFIED",
           "BYTE_VERIFIED",
           "STRUCTURE_VERIFIED",
-          "NARRATIVE_ADMITTED"
+          "NARRATIVE_ADMITTED",
+          "READ_COMPLETE",
+          "ANALYZED"
         ],
-        "narrative_reading_state": "NOT_CANONICALLY_ACCEPTED_AT_RECONCILIATION",
+        "narrative_reading_state": "PRINCIPAL_MAIN_NARRATIVE_READ_COMPLETE_AND_ANALYZED; OTHER_EPUB_COMPONENTS_OPEN",
         "main_v01_v10_state_basis": null,
         "metadata_exposure": "Package bytes, metadata and structure may be decoded without narrative semantic inspection.",
-        "component_audit_completeness": "NOT_ESTABLISHED_BY_THIS_METADATA_RECONCILIATION"
+        "component_audit_completeness": "Principal seven-member narrative mapped and read; bonus navigation mapped but unread; remaining editorial/visual/edition inspection open.",
+        "completion_scope": "item/xhtml/p-002.xhtml through p-008.xhtml only; excludes separately identified bonus, afterword, images, colophon and promotion."
       },
       "workstream": "MAIN_SERIES_DERIVATION",
       "frozen_validation_designation": "NO_OUT_OF_SAMPLE_SCORE_AUTHORITY",
@@ -2487,32 +2490,97 @@
         {
           "component_kind": "principal_prose",
           "nature": "narrative",
-          "presence": "NOVEL_IDENTIFIED",
-          "disposition": "NARRATIVE_ADMITTED",
+          "presence": "SEVEN_MAIN_MEMBERS_VERIFIED",
+          "disposition": "READ_COMPLETE_AND_ANALYZED",
           "stage_gate": "MAIN_SERIES_DERIVATION",
           "analytical_authority": "Main-series-only prospective derivation, respecting sequential boundary.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
-          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+          "inspection_state": "Complete ordered producer reading; independent complete humor-source reading; bounded integrator/reviewer checks.",
+          "required_action": "Preserve V11 derivation boundary and separate edition components; no further main prose reading owed for this unit.",
+          "members": [
+            {
+              "label": "Pr",
+              "member": "item/xhtml/p-002.xhtml",
+              "member_sha256": "a7b676790b915ebc17f574f8f488608527e2a1ed931b77a2d9279b073ac2e374",
+              "paragraphs": 38,
+              "nonempty": 30,
+              "chars": 1233
+            },
+            {
+              "label": "C1",
+              "member": "item/xhtml/p-003.xhtml",
+              "member_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+              "paragraphs": 633,
+              "nonempty": 586,
+              "chars": 24650
+            },
+            {
+              "label": "C2",
+              "member": "item/xhtml/p-004.xhtml",
+              "member_sha256": "3c906a437c23241ca003a012cedc1461282eb8a9e4c4bf5781231f02b4984760",
+              "paragraphs": 534,
+              "nonempty": 478,
+              "chars": 18088
+            },
+            {
+              "label": "C3",
+              "member": "item/xhtml/p-005.xhtml",
+              "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+              "paragraphs": 579,
+              "nonempty": 530,
+              "chars": 23318
+            },
+            {
+              "label": "C4",
+              "member": "item/xhtml/p-006.xhtml",
+              "member_sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b",
+              "paragraphs": 580,
+              "nonempty": 550,
+              "chars": 22609
+            },
+            {
+              "label": "F",
+              "member": "item/xhtml/p-007.xhtml",
+              "member_sha256": "6fc357c0d2a2e296781b478ab7edf4772d6abaa0db3e52da650136ca6b4bdeee",
+              "paragraphs": 358,
+              "nonempty": 329,
+              "chars": 13258
+            },
+            {
+              "label": "Ep",
+              "member": "item/xhtml/p-008.xhtml",
+              "member_sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+              "paragraphs": 143,
+              "nonempty": 132,
+              "chars": 4945
+            }
+          ]
         },
         {
           "component_kind": "embedded_bonus_fiction",
           "nature": "narrative_if_present",
-          "presence": "UNMAPPED",
+          "presence": "IDENTIFIED_IN_NAVIGATION",
           "disposition": "PENDING_COMPONENT_BOUNDARY_REVIEW",
           "stage_gate": "POST_VALIDATION_EXPANDED_CORPUS",
           "analytical_authority": "Do not merge separate bonus fiction into unqualified main-body authority.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
-          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+          "inspection_state": "NOT_READ; metadata label only",
+          "required_action": "Read and analyze separately after frozen-model validation; determine chronology and exact component attribution.",
+          "title": "そのスキル、危険につき",
+          "members": [
+            "item/xhtml/p-012.xhtml"
+          ]
         },
         {
           "component_kind": "afterword_and_editorial_material",
           "nature": "editorial_if_present",
-          "presence": "UNMAPPED",
+          "presence": "AFTERWORD_IDENTIFIED_IN_NAVIGATION",
           "disposition": "CONTEXTUAL_ONLY",
           "stage_gate": "POST_VALIDATION_COMPONENT_REVIEW",
           "analytical_authority": "Author/editor commentary; distinguish from fictional events.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
-          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+          "inspection_state": "NOT_READ; remaining editorial resources not semantically inspected",
+          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection.",
+          "members": [
+            "item/xhtml/p-009.xhtml"
+          ]
         },
         {
           "component_kind": "illustrations",
@@ -2535,7 +2603,11 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "PRINCIPAL_MAIN_NARRATIVE_ANALYZED; EXPANDED_COMPONENTS_OPEN",
+      "analytical_artifacts": [
+        "series/konosuba/02 Sequential Readings/KONOSUBA_V11_DEEP_READING.md",
+        "series/konosuba/09 Audits and Manifests/KONOSUBA_V11_RECEIVING_REVIEW.md"
+      ]
     },
     {
       "source_id": "MAIN-12",
@@ -10000,7 +10072,34 @@
         "embedded_bonus_fiction"
       ],
       "admission": "PRINCIPAL_MAIN_PROSE_ADMITTED",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "Principal main narrative READ_COMPLETE/ANALYZED; identified bonus withheld; remaining EPUB-component audit open.",
+      "components": [
+        {
+          "component_id": "MAIN-11-MAIN",
+          "kind": "principal_main_narrative",
+          "members": [
+            "item/xhtml/p-002.xhtml",
+            "item/xhtml/p-003.xhtml",
+            "item/xhtml/p-004.xhtml",
+            "item/xhtml/p-005.xhtml",
+            "item/xhtml/p-006.xhtml",
+            "item/xhtml/p-007.xhtml",
+            "item/xhtml/p-008.xhtml"
+          ],
+          "disposition": "READ_COMPLETE_AND_ANALYZED",
+          "authority": "Prospective main-series derivation through V11; no Gen04 yet."
+        },
+        {
+          "component_id": "MAIN-11-BONUS-01",
+          "kind": "electronic_bonus_fiction",
+          "title": "そのスキル、危険につき",
+          "members": [
+            "item/xhtml/p-012.xhtml"
+          ],
+          "disposition": "IDENTIFIED_NOT_READ",
+          "authority": "Post-validation expanded-corpus only; no prospective derivation authority."
+        }
+      ]
     },
     {
       "source_id": "MAIN-12",

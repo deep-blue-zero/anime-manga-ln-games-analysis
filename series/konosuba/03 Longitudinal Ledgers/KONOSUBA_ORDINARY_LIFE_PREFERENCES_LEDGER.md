@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V10
+scope: V01-V11
 ledger_role: ordinary_life_preferences
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V10 main narrative
+source_boundary: Japanese main-series light novels through V11 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Ordinary-Life and Preferences Ledger — Through V10
+# KONOSUBA Ordinary-Life and Preferences Ledger — Through V11
 
 ## Purpose
 
@@ -437,3 +437,31 @@ Shared membership continues through conflict, gifts, games, food, care, teasing,
 ## Household and relationship boundary
 
 The volume adds shared travel, domestic teaching, games, gifts and recurrent arguments to the household model. Price is a poor substitute for the desired kind of gift; institutional rank is a poor predictor of everyday knowledge; and enjoyment may change after experience, as with the meal outcomes. The existing ensemble remains together at the ending. Neither the apparent seduction by a double nor the affectionate final address should be converted into an agreed couple status, permanent moral reform or a prediction of future events.
+
+
+# V11 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/xhtml/p-002.xhtml`–`p-008.xhtml`, all-body paragraph enumeration including blanks/images; 2,865 paragraphs, 108,101 base characters. Source EPUB SHA-256 `ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46`. No afterword, ebook bonus, later/side narrative, illustration or audio is evidence. V01–V10 is inherited accepted state. Gen03 model/predictions and all original outcomes remain unchanged; these are additive V11 observations, not Gen04 or tranche closure. RC-V09-01 and RC-V10-01 remain controlling. Detailed locators, qualifications and all 25 outcomes are in the [V11 deep reading](../02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md).
+
+| Person / dimension | Direct evidence or report | Locator / confidence / limit |
+|---|---|---|
+| Kazuma — sleep/effort | Early rising becomes attractive when abundant service/leisure makes lost waking time costly; later rises near noon, then adjusts when Komekko reports to her parents. | C1 P0142–0173; C3 P0006–0009; F P0006–0011. HIGH for stated context variation, not a fixed sleep preference. |
+| Kazuma — luxury/status | Wants high-status ingredients and attentive service, organizes many activities, asks maids for daily compliments; technically vague investment wishes rely on Heidel's competence. | C1 P0142–0214; C4 P0390–0395. HIGH observed/reported preference; no commodity expertise inferred. |
+| Kazuma — family company | Enjoys Iris's stories/games/affection enough to choose lasting stay; also feels care/guilt about Megumin's coupon-filled resources and plans larger repayment. | C1 P0288–0401; C2 P0168–0175. HIGH for choice/intention; no universal household-priority rule. |
+| Aqua — absent company | According to Megumin, waits for his return and cooks his portion daily; later welcomes household leisure and role play. | C2 P0357–0359/P0455–0493. MODERATE mediated repetition; direct present game behavior HIGH. |
+| Aqua — games/children | Plays Komekko at board games, offers an almost nonexistent handicap, wants rematch, plans a weak-creature hunt and misses farewell through sleep. | F P0024–0030; Ep P0119–0130. HIGH; no general game mastery. |
+| Aqua — food/care | Gives own pudding to food-insecure Komekko despite usual appetite. | C3 P0226–0241. HIGH direct act; not universal self-denial. |
+| Aqua — service/play | Repeatedly gives Kazuma plain water deliberately in maid role play, while others receive tea; seeks punishment-ink gag knowing purification spoils it. | C2 P0455–0493. HIGH intent; not failed learning or inability. |
+| Megumin — finances | Coupon-filled wallet; rewards mostly held by Kazuma with distinct personal balance; allowances fund remittances; refuses larger transfers because father would spend them on magic-item work. | C2 P0168–0175; C3 P0243–0249. HIGH observed arrangements/self-report, MODERATE forecast about father. |
+| Megumin — possessions | Occasional quality-robe/striking-item interest; expensive staff from earlier cabbage reward recalled by narrator; hidden prepared chocolate changes kitchen bargaining. | C3 P0245–0247; C4 P0572–0578. Mixed narrator report/current direct reaction; recipient/purpose of chocolate not independently fixed. |
+| Megumin — household/family | Cooking, food-safety concern, desire to sleep with younger sister, stronger difficulty with imminent departure, preference for noisy shared home. | C2 P0336; C3 P0189–0201; C4 P0534–0580; Ep P0023–0036. HIGH; care coexists with status and control. |
+| Darkness — food/experience | Delighted with “mini lobster” dish that is crayfish; class-specific ingredient knowledge gap. | C3 P0009–0015/P0065–0066. HIGH; not general low intelligence. |
+| Darkness — child/comfort | Gives pudding, holds Komekko's hand, carries sleeping child; seeks comfort from chick after hurtful insults. | C3 P0226–0241/P0331–0337; C4 P0535; Ep P0005. HIGH behavior; chick's effect not precisely measured. |
+| Darkness — recognition | Likes acknowledgment of protective contribution and is genuinely hurt by claims of uselessness/replacement. | C3 P0331–0337; C4 P0511–0514; F P0093–0095. HIGH stated affect; no actual membership reorganization inferred. |
+| Iris — ordinary taste/objects | Likes tuna-mayo rice balls, keeps cheap ring despite social disapproval, prefers its small stone and personal meaning, wants stories and experiential learning. | C1 P0093–0099/P0288–0361. HIGH direct words/actions, not adult relationship settlement. |
+| Komekko — scarcity and resource strategy | Wants full meals/desserts/toad meat, accepts both offered dishes, initially seeks food storage, barricades resource-rich kitchen, anticipates future treats. | C3 P0189–0241/P0404–0410; C4 P0534–0580; F P0106–0118; Ep P0106. HIGH recurring choice; hunger need not be calculated seduction. |
+| Komekko — autonomy/communication | Blunt appraisals, explores without waiting for sister, records a report that captures private words more accurately than battle causality. | F P0006–0041; Ep P0092–0103. HIGH bounded recurring profile; no all-context mature model. |
+
+Ordinary-life evidence supplies limits on simulation: comfort can recruit effort; food can mean scarcity protection or play rather than only greed; the same speech form can serve apology or chosen acting; care can work by material access, not only crisis rescue. Specific source reports remain reports, and later corpus findings must not be backfilled into these through-V11 states.

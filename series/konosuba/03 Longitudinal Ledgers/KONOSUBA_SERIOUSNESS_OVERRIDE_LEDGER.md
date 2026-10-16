@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V10
+scope: V01-V11
 ledger_role: seriousness_override
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V10 main narrative
+source_boundary: Japanese main-series light novels through V11 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Seriousness Override Ledger — Through V10
+# KONOSUBA Seriousness Override Ledger — Through V11
 
 ## Purpose
 
@@ -391,3 +391,25 @@ A game opponent is described as crying/half-crying, casino staff plead, and Kazu
 ## V10 seriousness conclusion
 
 Concrete requests and specific endangered relationships can reorganize behavior, but competing motives and flawed procedures survive the reorganization. The main protective changes are visible in Iris's own agency, Darkness's positioning and escape initiative, Aqua's performed support, and Kazuma's persistent help plus tactical revision. The volume also preserves harassment, coercive status use, defensive narration and competitive interference. No uniform “serious personality” replaces the comic one, and no future behavior has been inferred from unread volumes.
+
+
+# V11 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/xhtml/p-002.xhtml`–`p-008.xhtml`, all-body paragraph enumeration including blanks/images; 2,865 paragraphs, 108,101 base characters. Source EPUB SHA-256 `ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46`. No afterword, ebook bonus, later/side narrative, illustration or audio is evidence. V01–V10 is inherited accepted state. Gen03 model/predictions and all original outcomes remain unchanged; these are additive V11 observations, not Gen04 or tranche closure. RC-V09-01 and RC-V10-01 remain controlling. Detailed locators, qualifications and all 25 outcomes are in the [V11 deep reading](../02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md).
+
+| ID / locator | Default or temptation | Independently visible cue and response | Disposition / limit |
+|---|---|---|---|
+| SO-V11-01 C1 P0333–0361 | Iris wants extended travel/contact and freely admits it. | Names duty to protect her people, then asks for a smaller immediate night of closeness while linking fuller freedom to the Demon King's defeat. | Matched I02 confirmation. Her later rescue protest opposes coercive treatment; it does not undo this chosen limit. |
+| SO-V11-02 C2 P0143–0175 | Kazuma is angry/excluded and could spend available gifted money casually. | Coupon-filled wallet and known limited allowance recruit guilt and an intention to repay more. | Real material care cue, partly internal/future intention; not the actual-tears test. |
+| SO-V11-03 C2 P0404–0451 | Revenge/teasing reward coexists with valid property recovery. | Notices Aqua's actual crying and still approaches with the triumphal callback before relief. | **Failed immediate override / K04 FALSIFIED locally.** Later mercy remains, but not as an earlier pause. Do not invent an intimacy-only or playful-only restriction. |
+| SO-V11-04 C3 P0226–0241 | Aqua's own dessert appetite and ordinary possessiveness. | Komekko's explicit food scarcity leads her to surrender pudding; Darkness and Megumin follow. | Direct appetite override; H1 act/H2 tearful amplification. Not proof of universal generosity. |
+| SO-V11-05 C3 P0354–0369 | Megumin's sisterly prestige and previous flattering account. | Kazuma bows publicly and others offer dishonest face preservation; she releases him and accepts confession. | Strong relational/dignity/honesty inhibition. Distinct from self-attributed build burden M02. |
+| SO-V11-06 C3 P0545–0579 | Aqua's sacred release assignment has a workable peaceful completion. | Threatened status defeats restraint; she strikes Lucy to prevent a rival believer's undefeated exit. | Failed service-goal inhibition / A02 matched. Lucy's departure does not make the punch necessary. |
+| SO-V11-07 C4 P0290–0301/P0511–0514 | Darkness can enjoy bodily danger and play protector. | A reported attack on usefulness/standing produces real insecurity and requests for reassurance. | Serious belonging sensitivity. The actual membership-change/sought-scenario conjunction of D02 is missing; pain-only coercion unresolved. |
+| SO-V11-08 F P0203–0218 | Most of the group is stunned by the griffin; Darkness also wants Komekko's praise. | Independently visible companion threat recruits immediate frontline movement and others follow. | D01 confirmed; personal reward can coexist with real defense. |
+| SO-V11-09 F P0239–0266/P0308–0330 | Kazuma lacks direct force and dislikes personal exposure. | Protects Megumin while she casts; responds to Aqua's concrete appeal about Darkness with eye-shot and handoff. | K02 confirmed at concrete entrusted-danger cue; success depends on others, not pure heroism. |
+| SO-V11-10 F P0060–0068 | Aqua's ordinary anti-demon script. | She watches the succubi but does not attack; Kazuma attributes restraint to earlier anger/community consequences. | Actual inhibition observed; exact causal account is narrator-mediated, not a newly inspected past scene. |
+
+The Princess's distress and the guards' fear are not K04 valued-companion tests; their moral relevance is not erased by being outside that frozen scope. Risky memory erasure, punitive policing/taunting and serious physical danger retain their H1 consequences inside H2 presentation.

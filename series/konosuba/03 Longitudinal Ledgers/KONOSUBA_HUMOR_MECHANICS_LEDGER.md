@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V10
+scope: V01-V11
 ledger_role: humor_mechanics
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V10 main narrative
+source_boundary: Japanese main-series light novels through V11 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Humor Mechanics Ledger — Through V10
+# KONOSUBA Humor Mechanics Ledger — Through V11
 
 ## Core V01 mechanisms
 
@@ -431,3 +431,36 @@ The narration's declarations that time stops (C5 P0740, P0750), broad superlativ
 The **final audited V10 census contains 112 episodes/candidates: 106 clear L0–L2, 1 clear L3, 1 mixed and 4 uncertain**, with conservative local L0–L2 bounds **94.64%–99.11%**. The original 105-episode boundary-before-classification snapshot (SHA-256 `fe23a22171efd1b6c7953292a41d38b670bf8941f8eba5f5fe0982c435e0c429`) and its 101/1/1/2 distribution remain historical. A separate full audit of 96 uncovered ranges identified seven supplementary candidates; their boundaries were sealed before supplementary classification (SHA-256 `b848131ec2757e04b18d4189e9363b616974a5786343cb93d03fe29d5186c526`). Five add clear L0–L2 cases and two remain eligibility-uncertain. No original L class changed. Source-description corrections and all added IDs are recorded explicitly.
 
 The complete source-order registry, cultural flags, ordinary-equivalent tests, original/final counts and near-miss decisions are in the canonical `../02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md`, **Appendix A**; the fixed J01 comparisons are in **§8.4**. Short lexical/name jokes remain represented, and all four uncertain cases remain in the denominator. **MG03-J02 stays PARTIAL / TRANCHE_OPEN** until the complete V10–V12 pool is read and coded. Neither a local majority nor the coverage correction creates a new freeze or model generation.
+
+
+# V11 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/xhtml/p-002.xhtml`–`p-008.xhtml`, all-body paragraph enumeration including blanks/images; 2,865 paragraphs, 108,101 base characters. Source EPUB SHA-256 `ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46`. No afterword, ebook bonus, later/side narrative, illustration or audio is evidence. V01–V10 is inherited accepted state. Gen03 model/predictions and all original outcomes remain unchanged; these are additive V11 observations, not Gen04 or tranche closure. RC-V09-01 and RC-V10-01 remain controlling. Detailed locators, qualifications and all 25 outcomes are in the [V11 deep reading](../02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md).
+
+## Recognition and role performance
+
+V11's recurring sequence is recognition → role performance → overextension/exposure → audience response, with several distinct truth conditions. Court thanks rest on real achievement but license prolonged indulgence; paid fan letters create genuine motivation with manufactured provenance; Megumin's family reports exaggerate social treatment while invoking real feats; Luna redirects admiration into labor pressure; the Princess uses truthful fragments to support false impressions; Komekko reports conspicuous acts sincerely while losing explanations. Do not label every instance simple lying, vanity or spontaneous love. Pr P0035–0038; C1 P0142–0277; C3 P0038–0059/P0297–0444; C4 P0257–0494; Ep P0092–0103.
+
+| Local mechanism | Source | Behavioral weight |
+|---|---|---|
+| Early-rising NEET, efficient servant/inefficient master, luxurious ingredients all subordinated to miso | C1 P0142–0214 | H1 selective effort and dependence; H2 self-importance/magnitude. |
+| Genre refusal reinterpreted as consent; cake returned while he claims it does not count | C1 P0178–0214 | H1 motivated boundary interpretation; H2 spectacle. |
+| Heroic resolution immediately defeated by affectionate address | C1 P0336–0389 | H1 changed decision and actual retirement; H2 rapid rhetorical collapse. |
+| True missing memory supports a false heroic cause; insulting Aqua supplies the accurate cause | C2 P0094–0129 | H1 source/knowledge distinction; H2 comic confidence. |
+| Private reunion plays against noisy external exorcism; apparent devil becomes radish | C2 P0293–0338 | H1 attachment/help; H3 particular prop gag, not unrestricted new power. |
+| Real legal enforcement answers a genre retaliation manifesto; supplication reverses dominance | C2 P0411–0451 | H1 law/taunting/mercy with actual local K04 failure; H2 humiliation. |
+| Supposed tea incompetence becomes intentional maid play, then healing restores embarrassing truth | C2 P0455–0534 | H1 intention, magical effect and delayed confession; H2 role performance. |
+| A true flattering description makes planned confession unnecessary to its beneficiaries | C3 P0297–0400 | H1 selective endorsement and reciprocity; H2 boast escalation. |
+| Peaceful soul release fails to deliver Aqua's prestige victory; a punch still loses the last word | C3 P0545–0579 | H1 motive/action/release; H2 bathos. |
+| Public grace/private abuse and selective truth defeat a detector's naïve users | C4 P0257–0494 | H1 semantic/pragmatic inference; H2 sustained adversarial theater. |
+| Food discipline is defeated by a kitchen barricade and hidden chocolate | C4 P0534–0580 | H1 incentive/resource reasoning; H2 timing. |
+| Veteran nostalgia and grand one-on-one mastery face the actual two/three-enemy fight | F P0097–0330 | H1 tactics and constraints; H2 panic/sexual-threat farce, with harm retained. |
+| Child's report poorly explains battle but precisely exposes private romance words | Ep P0092–0103 | H1 observer/causal distinction; H2 embarrassment. |
+
+No important adverse behavior is excluded as H4 comic license: risky memory erasure, Darkness's collateral incapacitation, the collision and Kazuma's continued taunt all remain events. Transfer should preserve incentives, breaches and limits while recalibrating comic magnitude. The earned final praise is a serious resolution and is not separately counted merely because feeling changes. F P0344–0358.
+
+## MG03-J02 local census
+
+The V11 reading's Appendix A is the complete canonical-candidate retrieval home for all episode boundaries, source anchors, L classifications, revisions and conservative bounds. Initial 107 boundaries were sealed before classification, then an independent complete-source audit produced seven split and two merge decisions yielding 112, also sealed before classification. Original identities and source-first correction history are retained. A local result remains only a contribution to the pooled complete V10–V12 test; the formal outcome is PARTIAL/TRANCHE_OPEN. Distinct soft-eligibility and linguistic-class uncertainties remain explicit rather than selected away to improve a ratio.

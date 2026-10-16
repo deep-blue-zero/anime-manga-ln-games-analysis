@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V10
+scope: V01-V11
 ledger_role: competence_context
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V10 main narrative
+source_boundary: Japanese main-series light novels through V11 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Competence-in-Context Ledger — Through V10
+# KONOSUBA Competence-in-Context Ledger — Through V11
 
 ## Governing rule
 
@@ -543,3 +543,40 @@ Ragcraft demonstrates convincing resemblance and a successful infiltration, whil
 V10 supplies multiple independently describable arrangements. The pufferfish meal depends on a single specialist who becomes unavailable. The agreed diversion has roles but fails before its goal. The dragon combines attention diversion, buffs and charge time; no source-backed counterfactual proves each was strictly indispensable. Escape requires a speaking gap, ignition and stronger hands, initiated by Darkness and extended by Kazuma. Casino work improves when disruptive bettors are removed while assistance and authority remain. Iris's separate victories against knights also caution against a universal claim that every formidable obstacle requires full-party coordination. C1 P0216–0279; C4 P0025–0073, P0318–0337; C5 P0097–0126, P0334–0341, P0622–0657.
 
 These observations support comparison of constraints, resources, timing and actual providers. They do not license redefining successful performance as proof of good coordination, or treating every unsuccessful plan as an absence of coordination after the fact. Temporary task splits, sightseeing apart and the group's return together do not independently test an attractive durable exit from the household. No Gen04 is created here.
+
+
+# V11 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/xhtml/p-002.xhtml`–`p-008.xhtml`, all-body paragraph enumeration including blanks/images; 2,865 paragraphs, 108,101 base characters. Source EPUB SHA-256 `ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46`. No afterword, ebook bonus, later/side narrative, illustration or audio is evidence. V01–V10 is inherited accepted state. Gen03 model/predictions and all original outcomes remain unchanged; these are additive V11 observations, not Gen04 or tranche closure. RC-V09-01 and RC-V10-01 remain controlling. Detailed locators, qualifications and all 25 outcomes are in the [V11 deep reading](../02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md).
+
+## Kazuma: strong construction, bounded force and uneven epistemic regulation
+
+**Demonstrated capacities:** a castle chase combines Create Earth/Wind, water, Bind, drain, sensing, concealment and lip-reading; captured social information supports a later patronage/debt negotiation. The return plan recognizes missing buffs, uses limited borrowed resources, pays for a diversion and defines a banking fallback. The forest task notices strategic detector compliance, narrows the semantic query, separates audience and exploits literal scope. In the final fight the swatted arrow and Megumin's explanation at F P0231–0234 make a power limitation explicit; he revises toward eye-blinding/time-buying at P0239–0242, and later repairs target/opportunity choices as new opposition changes support. C1 P0448–0583; C2 P0134–0338; C4 P0257–0358/P0411–0413; F P0223–0330.
+
+**Not established:** direct parity with guards or great monsters, self-sufficient rope strength, universal first-plan success, a complete forecast of the second manticore, financially informed commodity selection, a detector that certifies all implications, or ownership rights that justify every taunt. His deliberate methods often choose bad ends. He correctly identifies the Princess's deceptive persona while confidently inventing a national-secret explanation for his own missing week. These are different epistemic performances, not a single intelligence score. C1 P0156–0161/P0535–0583; C2 P0094–0129/P0391–0451; C4 P0297–0336.
+
+## Aqua: capacity, prediction, goals and externalities
+
+Her reconstruction of Kazuma's behavior and anticipated night-entry route is accurate. Boarding/patrol and a correct account of his likely approach show sustained goal-relative planning. Bind counter and self-buff support actual physical superiority in the shown contest. Rib healing and restoration of erased memories are effective within this case; no universal amnesia cure is inferred. C2 P0123–0129/P0225–0264/P0394–0396/P0495–0520.
+
+The tea sequence is a useful negative diagnostic: she gives other companions tea and says she supplied plain hot water to Kazuma intentionally. It is neither inability to brew nor repetitive failure to learn purification control. The chosen maid role explains the bad output. Lucy's release supplies the opposite regulation problem: enough sacred capacity exists, but a prestige contest displaces the task even after a peaceful solution starts working. C2 P0455–0493; C3 P0545–0579.
+
+At F P0243–0254 she correctly identifies the magical support of flight and removes it; momentum carries the target into Kazuma. Her prior defensive buff is reported, and Kazuma tentatively attributes his minor damage to it; the causal protection is not independently isolated. Technical understanding, systems anticipation and prior preparation are separately evidenced. No A03 sustained-recognized-service or A04 repetitive-unvalued-maintenance conjunction is cleanly supplied.
+
+## Megumin: useful ordinary knowledge, visible regulation and artillery limits
+
+Coupons, remittances, cooking and childhood scarcity knowledge support real domestic/economic competence. She gives a specific reason not to send larger transfers to her father. Protective food-safety advice distinguishes known villagers from strangers even when her own history makes it embarrassing. Acceptance of social-face loss for Kazuma's dignity/others' honesty shows regulation, distinct from build guilt. C2 P0168–0175; C3 P0243–0249/P0354–0369; C4 P0534–0580.
+
+Her clanmates exclude an Explosion-only caster from the guerrilla operation; the explicit comparison to their advanced magic activates pride. Her offense is shown, while explicit assent to the tactical judgment is not. Public challenge recruits overcommitment before she hears the two-target assignment. In battle she retains the spell and executes terminal fire on all three clustered enemies after rescue/target repairs by others. The shown kill establishes efficacy; prior safe geometry and a complete carry/exit plan are missing. Ordinary subsequent carrying must not be backdated into a prior plan. Her explicit knowledge of grave companion harm is also not established. C3 P0149–0156; F P0097–0144/P0285–0339.
+
+## Darkness: social tools, defensive initiative and finite control
+
+The paid-letter strategy and bow gift are useful interventions; dishonesty and its emotional cost remain. She gives material care to Komekko, takes the frontline when others freeze, distracts the griffin and strikes the lodged arrow to free herself. Enjoyment of pecking does not negate contribution, and abduction danger prevents an infinite-endurance model. The Aqua duel's incapacitation is collateral rather than a planned defensive success. C1 P0221–0245; C2 P0151–0160/P0393–0399; C3 P0038–0059; F P0203–0218/P0294–0325.
+
+Her broad detector question accepts an ambiguous answer, and generic peace theology misreads both disputants. These are specific semantic/social errors, not proof of no civic or relational competence. C3 P0529–0539; C4 P0290–0301.
+
+## Iris, Komekko, Luna and ensemble boundaries
+
+Iris's plain royal-duty reasoning, gift protection and rescue initiative are direct evidence beyond raw force. Komekko is resourceful with food access and reporting, but her battle report is causally thin; a succubus's proposed demon-tamer aptitude is qualified testimony. Luna accurately matches capacity to work while manipulating the audience. In the final fight, the unnamed thief, other casters/frontline fighters, Darkness, Kazuma and Megumin all contribute. Their initial formation permits disruption; later allocation/pressure improves deployment. No equally necessary contributions or completed alternative-organizer comparison is inferred. C1 P0288–0389/P0608–0633; C4 P0062–0136/P0534–0580; F P0043–0068/P0203–0357; Ep P0092–0103.

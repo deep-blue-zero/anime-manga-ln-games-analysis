@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V10
+scope: V01-V11
 ledger_role: narrator_perspective
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V10 main narrative; Kazuma first-person narration
+source_boundary: Japanese main-series light novels through V11 main narrative; Kazuma first-person narration
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Kazuma Narrator Ledger — Through V10
+# KONOSUBA Kazuma Narrator Ledger — Through V11
 
 ## Purpose
 
@@ -460,3 +460,31 @@ Similarly, he actually buys and gives the ring, but the purchase begins partly a
 ## V10 narrator boundary
 
 Kazuma remains especially useful when he reports action, competing motives, constraints and the counterevidence to his own first description. Reliability varies by claim: quoted events and self-corrections often support a local conclusion; heroic credit, moral innocence, other people's hidden feelings and broad uniqueness claims require checks. V10 preserves his genuine work and care alongside deliberate misleading statements, omissions, invasive teasing and coercive exploitation. The ledger therefore continues to use claim-level calibration rather than “globally truthful,” “globally unreliable,” or “redeemed.”
+
+
+# V11 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/xhtml/p-002.xhtml`–`p-008.xhtml`, all-body paragraph enumeration including blanks/images; 2,865 paragraphs, 108,101 base characters. Source EPUB SHA-256 `ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46`. No afterword, ebook bonus, later/side narrative, illustration or audio is evidence. V01–V10 is inherited accepted state. Gen03 model/predictions and all original outcomes remain unchanged; these are additive V11 observations, not Gen04 or tranche closure. RC-V09-01 and RC-V10-01 remain controlling. Detailed locators, qualifications and all 25 outcomes are in the [V11 deep reading](../02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md).
+
+| ID / source | Observable/report layer | Kazuma's framing or inference | Calibration and reusable constraint |
+|---|---|---|---|
+| N-V11-01 C1 P0107–0140/P0295–0389 | Iris and Megumin express attachment; he rehearses age/relationship constraints then chooses to stay. | Denies a child-directed romantic identity while projecting future entitlement and excluding rivals. | Self-label is not a complete goal account. Preserve affection, sexualized/future attention, self-recognized boundary and contrary action together. |
+| N-V11-02 C1 P0178–0214 | Darkness requests no more party intrusion; anonymous cake is returned. | Refusal means invitation because tsundere; failed cake supposedly does not count. | Desired genre script changes interpreted permission; consequence failure does not erase attempted intrusion. |
+| N-V11-03 C2 P0094–0129 | Genuine erased week follows events directly shown in C1. | Builds a national-secret explanation, increasingly believes it; Aqua supplies an insulting but more accurate behavioral account. | Strong direct reliability contrast. Correct potion diagnosis does not validate its imagined cause; memory gap and confabulation are distinct. |
+| N-V11-04 C2 P0234–0238/P0347–0355 | Vanir selects window; Megumin thinks it reflects preference. | He withholds the reason and calls himself faithful because nothing happened with Iris. | Other person's belief is not intended meaning; the reader also knows actual permanent retirement. |
+| N-V11-05 C2 P0357–0359 | Megumin reports absent-portion cooking and waiting. | Uses the report to redirect private desire toward settling things with Aqua. | Attachment evidence is mediated report, not directly inspected repetition. |
+| N-V11-06 C2 P0411–0451 | Police verify ownership; he sees crying and continues a taunt before granting relief. | General manifesto against unfair genre heroines casts the whole response as justified civic duty. | Valid legal cause and selected humiliation coexist. Do not substitute rhetoric for the observed immediate K04 result. |
+| N-V11-07 C2 P0455–0493 | Aqua gives others tea, him hot water; she says it was plain water from the start. | Calls repeated bad output a learning/purification failure until intention is disclosed. | Explicit intention and contrast output rebut global inability. |
+| N-V11-08 C2 P0495–0534 | Healing restores memory before attempted address change/redirection; apology five minutes later. | Recognizes his own behavior as bad privately, tries to change the frame publicly. | Admit internal self-correction without claiming immediate disclosure; final social concession is later. |
+| N-V11-09 C3 P0038–0059/P0342–0369 | Paid letters move him; other adventurers repay earlier help. | Condemns Darkness's learned manipulation; admits earlier mentoring sometimes sought his own prestige. | Genuine benefit can have mixed motives; manufactured praise can cause sincere feeling without becoming spontaneous evidence. |
+| N-V11-10 C4 P0297–0358/P0411–0413 | Detector silence accompanies evasive truth; private persona differs; his own promise also uses literal scope. | Correct suspicion framed as uniquely tough-minded adventurer realism. | Bounded inference works, but he uses the same pragmatic tool and moral superiority does not follow automatically. |
+| N-V11-11 C4 P0414–0432/P0489–0494 | He nearly reaches for the offered body; his later denial rings the detector. | Claims not to desire a plant monster and treats it as embarrassing nonhuman exception. | Source contradicts the particular denial. Do not infer every utterance globally unreliable or detector moral omniscience. |
+| N-V11-12 F P0043–0068/P0088–0095 | Succubus offers qualified aptitude explanation; Aqua refrains from attack; Darkness receives little visible credit. | Envious comparison, causal theory about prior anger, dismissive no-contribution remark. | Reported aptitude not established universal power; actual restraint not certain causal proof; final-blow credit not all contribution. |
+| N-V11-13 Ep P0023–0064/P0092–0103 | Megumin reports Yunyun's visit/village outcome and retrospective recruitment motives; Komekko's diary reports actions and private words. | Kazuma interprets inadequate battle summary and relates current affection to first impressions. | Preserve reported/off-page status; sincere compressed report can be causally incomplete without deliberate deception. |
+| N-V11-14 Ep P0132–0143 | Unnamed girl addresses Darkness as mother and clings to her. | No completed explanatory account yet. | Keep source-required anonymity and parentage uncertainty; no later identity imported. |
+
+V11 offers both reliable contextual inference and direct self-serving distortion. Reliability should be indexed by subject, available evidence and incentive rather than assigned once globally. No audio, visual expression or future source resolves narrator gaps.
+
+**Diary knowledge boundary:** Komekko is explicitly at the guild during the Lucy outing (C3 P0476), and is not shown at the final fight. Her compact adventure report is not certified direct witnessing; returned adventurers supply her final battle praise (F P0348–0357). Her private-visit quotation is explicitly based on eavesdropping (Ep P0098–0099).

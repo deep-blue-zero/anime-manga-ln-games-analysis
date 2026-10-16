@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V10
+scope: V01-V11
 ledger_role: character_state
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V10 main narrative
+source_boundary: Japanese main-series light novels through V11 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Character State Ledger — Through V10
+# KONOSUBA Character State Ledger — Through V11
 
 ## Purpose
 
@@ -638,3 +638,56 @@ Her final diplomatic intervention is specific: she acknowledges the prince's sur
 **Ragcraft.** His impersonation, captivity of Kazuma/Darkness and announced attack on Iris are direct evidence of hostile infiltration. His account of more than thirty years of work, rescuing the country's finances and forgetting espionage amid administrative success remains a captive-audience account, partly consonant with the earlier favorable public reputation. It offers a candidate mechanism in which successful assigned work displaces the original goal. His later revenge also displaces immediate strategic concealment: he reveals identity and plan and leaves captives alive, but the source does not establish a universal confession compulsion. C3 P0235–0248; C5 P0581–0618. The apparent romantic approaches belong to him, not to the characters he copies; capacities in resemblance and social inference must be separated.
 
 **Claire and Rain.** Rain collaborates in the protective effort to exclude Kazuma. Claire instead backs him when opposition to the engagement creates an alliance, first proposing poison, then furnishing authority he can actually deploy. Shared purpose changes cooperation without proving general trustworthiness or disinterested care. C2 P0045–0048, P0063–0096. **Yunyun, Cecily, Chomusuke and Vanir:** only brief present support or mediated references occur here: Yunyun carries Megumin home; Aqua reports Cecily's coercive recruitment scheme and arrest, and Vanir's cryptic comment about Chomusuke. These do not create new full tests of Yunyun's inclusion or establish Chomusuke's ontology. C1 P0171–0173, P0247–0249, P0280–0287. **Chris/Eris:** no cumulative service-burden choice is observed. An Eris church's aid and Kazuma's gambling prayer do not establish Chris/Eris's own action or the MG03-CE01 workload trigger. C1 P0279; C5 P0269–0277.
+
+
+# V11 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V11 main narrative only: Pr/C1/C2/C3/C4/F/Ep = `item/xhtml/p-002.xhtml`–`p-008.xhtml`, all-body paragraph enumeration including blanks/images; 2,865 paragraphs, 108,101 base characters. Source EPUB SHA-256 `ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46`. No afterword, ebook bonus, later/side narrative, illustration or audio is evidence. V01–V10 is inherited accepted state. Gen03 model/predictions and all original outcomes remain unchanged; these are additive V11 observations, not Gen04 or tranche closure. RC-V09-01 and RC-V10-01 remain controlling. Detailed locators, qualifications and all 25 outcomes are in the [V11 deep reading](../02%20Sequential%20Readings/KONOSUBA_V11_DEEP_READING.md).
+
+## Satou Kazuma — effort, competing relationships and a failed distress brake
+
+**Actual departure, not a hypothetical replacement fantasy.** Iris's explicitly expressed wish for continued shared life recruits him to remain, and affection plus palace comforts defeat the return decision he made after reading the children's letters. He subsequently sends a lasting-retirement letter, releases use of his belongings/money/house, and says the weakest-class adventurer need not be present for the others to defeat the Demon King. He stays a week before forced return. This is contrary evidence to any universal individual loyalty rule; his later presence at home is not voluntary return evidence. The narrower frozen E02 requires a feasible efficiency-promising reorganization, which is not fully established, so this strong new attachment material does not become an E02 confirmation by analogy. C1 P0336–0407, P0586–0633 (`ずっと城で暮らす`).
+
+**Selective effort and mixed competence.** Court leisure makes early rising attractive; attention and enjoyable projects recruit an organized schedule while monster hunting is canceled. He uses weak spells, sensing, rope, Drain Touch, noble connections and debt incentives to resist expulsion, eventually losing to superior force. In the final fight he revises after the tail blocks his arrow and Megumin explains the power gap, moves toward blinding/time-buying, then responds to changed support and Darkness's imminent abduction. Search/revision/delegation recur without raw-force parity or universal success. C1 P0142–0214, P0448–0583; F P0223–0266, P0267–0330.
+
+**Local MG03-K04 falsification.** He explicitly wants Aqua to cry and apologize, notices her actual crying and then approaches to taunt her with the entrance-permission callback before eventual relief. Ownership recovery is a real distinct motive; it does not exclude simultaneously selected teasing/humiliation reward. The available pause is not taken at the immediate interaction boundary. Eventual mercy is later evidence, not a rescue of the prediction. REVISE the narrow distress-brake rule; retain the timing and interpretive caveat about teasing-category breadth without adding an intimacy-only restriction. C2 P0404–0451, especially P0431/P0443–0446/P0450.
+
+**Self-knowledge can follow instrumental success without immediate confession.** He has genuinely lost the week's memories, but invents a flattering national-secret explanation. Aqua's account is substantially closer to the actual events. Healing restores his memory; he knows his prior innocence claim is wrong, tries to remove an unjust address privilege and redirect the topic to heroism, then apologizes after sustained scrutiny. C2 P0094–0129, P0495–0534 (`記憶を完全に取り戻した`).
+
+**Care and reciprocal help remain real.** The coupon-filled wallet recruits guilt about using Megumin's limited funds and an intention to repay more; he checks her segregated savings when Komekko's scarcity is evident. He bows and offers money to preserve her sisterly image before she releases him from that cost. He physically protects her and answers Aqua's urgent request to save Darkness. These are not evidence that the earlier desertion or taunting never occurred. C2 P0143–0175; C3 P0243–0249, P0342–0369; F P0239–0242, P0308–0330.
+
+## Aqua — accurate appraisal, capacity, care, play and status capture
+
+Aqua correctly reconstructs the likely reason for Kazuma's stay and anticipates his night-entry route. Boarding, watchfulness and magic make her a difficult opponent; she breaks Bind, buffs herself and defeats him physically. These establish goal-relative planning and familiar-domain capacity, correcting his global dismissal. Her subsequent tea is intentionally plain hot water for a maid game, not failed brewing/purification control. She voluntarily acknowledges his rib injury and heals it; the shown effect also removes the potion's memory loss. C2 P0123–0129, P0225–0264, P0370–0406, P0455–0534.
+
+Child-directed generosity overrides dessert appetite, and Megumin reports that she cooked an absent Kazuma's portion while waiting for his return. Those sources are differently weighted: pudding is directly shown; daily food preparation is Megumin's report. Her sorrow/anger over being discarded can coexist with possessive exclusion and a demand for worship. In the Lucy task, adequate sacred power and an available peaceful release do not secure good goal discipline: she punches the fading soul to avoid letting an insulting rival believer leave undefeated. Lucy nevertheless departs after a last retort. STRENGTHEN prestige-triggered task displacement without inferring that all recognition is disruptive. C2 P0357–0359, P0068–0129; C3 P0226–0241, P0545–0579.
+
+Her flight cancellation works technically, while neglected momentum creates the collision. A prior defense buff is reported, and Kazuma tentatively attributes his minor damage to it. Actual capacity, unsafe selection, prior preparation and the inferred damage-reduction mechanism belong to separate records. Repeated recognized service and the exact unvalued-maintenance/available-shortcut conjunction remain NOT_TESTED. F P0243–0254.
+
+## Megumin — pride with real relational inhibition
+
+Megumin is angry at Kazuma's departure but secretly provides money, actively pulls him inside and gives an unsolicited embrace. She explicitly values the noisy shared home and asks him not to leave. Her romantic inference about his chosen window is mistaken: he followed Vanir's advice. Her request that he reconcile with Aqua shows attention beyond private reward. C2 P0143–0160, P0293–0368.
+
+V11 adds strong ordinary financial evidence: coupons, remittances from limited allowances, separately held substantial rewards, and a reason not to increase transfers indiscriminately because her father would spend them on magic-item production. Her care of Komekko combines protection, shame, food-safety instruction, shared resources and difficulty with separation. Food manipulation by strangers is a reasonable concern, even when her own history weakens the lecture. C2 P0168–0175; C3 P0243–0249; C4 P0534–0580; Ep P0023–0036.
+
+Her flattering family reports first protect independent life from parental worry; she then accepts confession, saying Kazuma's embarrassment and making kind adventurers lie cost more than sisterly prestige. This is a genuine face-inhibition case, not accepted guilt about an exclusive build. Later Komekko's unflattering assessment recruits public specialist assertion and overcommitment before the two-monster assignment is disclosed. Explosion is effective in the final repaired arrangement, but safe geometry/advance carry logistics and explicitly known grave-companion injury are not cleanly established. STRENGTHEN differentiated regulation; preserve M02/M03/M05 distinctions. C3 P0251–0295, P0354–0369; F P0097–0144, P0285–0330.
+
+Exit relationship state: she explicitly asks for 仲間以上恋人未満; the visit ends with no further physical act, and the next morning supplies no agreement to a different formal/exclusive status. Her recruitment-memory explanation is retrospective self-report. Ep P0037–0082.
+
+## Darkness — protective action, dishonest care and usefulness insecurity
+
+Darkness uses the children's paid letters to recruit return; the feeling they cause is genuine, but their production is deliberately managed. When exposed she defends the goal and apologizes for the particular emotional effect. This refines the contrast with a supposedly uniformly honest noble: she has learned interpersonal leverage and can use it badly. C1 P0221–0245; C3 P0038–0059.
+
+She aids the excluded Kazuma with his bow, suffers actual collateral incapacitation during his fight with Aqua, and later takes the frontline before the other fighters recover. Bodily pleasure can coexist with useful protection. When the griffin carries her away she struggles, and her blow to the lodged arrow helps free her. These actions remain finite contributions, not invulnerability. C2 P0151–0160, P0393–0399; F P0203–0218, P0294–0325.
+
+The Princess's usefulness/replacement insults produce real insecurity; Darkness asks whether she is unwanted and replaceable by an adamant snail. This is strong meaning/belonging evidence, but not proof of an actually offered membership reorganization or a fully matched D02 sought-scenario trigger. Her household-maid objections defend reputation against Aqua's mock performance. The final unnamed girl's maternal address supplies no known biological parentage, and Darkness has not yet answered. C2 P0479–0490; C4 P0511–0514; F P0093–0095; Ep P0132–0143.
+
+## Iris and bounded secondary profiles
+
+Iris is a child with combat strength, ordinary tastes and expressed constraints. She objects when Claire would privilege her engagement over national support, likes tuna-mayo rice balls, protects the cheap ring's personal significance, wants to learn/travel/live with everyone, explicitly recognizes royal duty and narrows the immediate request to closeness tonight. Her later physical attempt to prevent Kazuma's coercive treatment is additional agency, not a cancellation of the chosen duty limit. I01 and I02 receive matched local support. Kazuma's future-romance entitlement remains his projection. C1 P0022–0023, P0093–0099, P0288–0389, P0608–0633.
+
+Komekko now supports a limited recurrent profile: hunger shaped by scarcity, literal/blunt replies, food-directed resourcefulness, selective independence, admiration and a reporting assignment. Succubus speculation about demon-tamer aptitude remains qualified testimony. Luna repeatedly uses accurate task knowledge and the child's audience to mobilize labor, without a mature all-context profile. Lucy's stated gratitude, religious duty, and desire for a final verbal victory remain hers. Yunyun's off-page visit/village message is reported; no present invitation-plus-role execution tests Y01. Chris/Eris supplies no CE01 test. The final unknown child and final-fight thief remain source-required unnamed individuals.
+
+**Diary knowledge boundary:** Komekko is explicitly at the guild during the Lucy outing (C3 P0476), and is not shown at the final fight. Her compact adventure report is not certified direct witnessing; returned adventurers supply her final battle praise (F P0348–0357). Her private-visit quotation is explicitly based on eavesdropping (Ep P0098–0099).

@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Main-series analysis accepted through V10; source identity and bibliographic reconciliation cover all 41 initial-snapshot EPUBs; side narrative remains withheld
+source_boundary: Main-series analysis accepted through V11; source identity and bibliographic reconciliation cover all 41 initial-snapshot EPUBs; side narrative remains withheld
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,9 +20,9 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 |---|---|
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
-| Accepted high-water mark | V10 |
-| Current phase | Initial expanded-source reconciliation; V11 reading candidate under review |
-| Next canonical source transaction | V11 |
+| Accepted high-water mark | V11 |
+| Current phase | Main-series derivation; V11 accepted, exact publication closeout required before V12 |
+| Next canonical source transaction | V12, unopened |
 | Current prospective model | Gen03, derived from V01–V09; V10–V12 tranche OPEN |
 | Latest published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -30,7 +30,7 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Side narrative / ebook bonus exposure | Not admitted in this phase |
 | Source-access blocker | None found: all 41 original EPUB byte streams retrieved |
 
-V11 working prose is not an accepted volume transaction. The standalone reading, complete census/voice responsibilities, ten affected ledgers, map, source coverage and semantic/publication checks must close together before advancing the accepted high-water mark or opening V12. The later expanded program remains authorized but dependency-gated. No unsupported background-execution claim is made.
+V11’s complete reading, census/voice responsibilities, ten affected ledgers, map, source coverage and semantic acceptance close together in this transaction. The [V11 review](KONOSUBA_V11_RECEIVING_REVIEW.md) distinguishes acceptance from publication and records exact identities. V12 remains unopened until the source audit, housekeeping and final exact-head audit have closed. The later expanded program remains authorized but dependency-gated. No unsupported background-execution claim is made.
 
 ## Repository reconciliation and preservation
 
@@ -55,7 +55,7 @@ The two historical language audits retain their declared 20-book and V07-only bo
 
 Fifteen EPUBs retain mimetype-ordering/compression warnings. This is distinct from corrupt ZIP/member data or inability to read the source; a full external EPUBCheck conformance run is not claimed. Five books have image-only reading spines: Cheers 137 wrappers, Blessing 157, Official Memorial Fanbook 121, core TRPG 333 and advanced TRPG 331. Text extraction therefore supplies no substitute for their page-image inspection. Their prose, editorial, rules, scenario and illustration boundaries remain required later work.
 
-The metadata and byte tasks inspected package identity/structure, not fictional prose. Their receipts cannot promote READ_COMPLETE, ANALYZED or VALIDATION_USED. Main V01–V10 completion is inherited from accepted analytical artifacts. All future and side-source narrative stays outside earlier prospective states.
+The metadata and byte tasks inspected package identity/structure, not fictional prose. Their receipts cannot promote READ_COMPLETE, ANALYZED or VALIDATION_USED. Main V01–V10 completion is inherited from accepted analytical artifacts; V11’s principal narrative completion is established by the new source-unit review. All future and side-source narrative stays outside earlier prospective states.
 
 ## Stage ownership and analytical scope
 
@@ -75,7 +75,7 @@ The run's scope is the fixed 41-object inventory and identifiable edition-contai
 |---|---|
 | Live eight-folder/41-object identity and manifest reconciliation | COMPLETE_FOR_DECLARED_METADATA_AND_BYTE_SCOPE |
 | Exact supplied-edition and every narrative-component boundary | OPEN; direct component/colophon inspection remains |
-| Main sequential readings and synchronized ledgers through V17 | OPEN; accepted through V10 |
+| Main sequential readings and synchronized ledgers through V17 | OPEN; accepted through V11 |
 | Gen04, Gen05 and final sequential checkpoint | NOT_COMPLETE |
 | Required main-only specialists, monographs and integrative artifacts | NOT_COMPLETE |
 | Required reconstruction suite and simulation/consistency audit | NOT_COMPLETE |
@@ -91,3 +91,11 @@ The run's scope is the fixed 41-object inventory and identifiable edition-contai
 This source transaction's exact authored paths are the existing architecture, source inventory, source lock and current map; the two new source-coverage matrix files; and this audit. Source binaries, primary text extracts, raw acquisition/Calibre paths, signed transfers and private manifests remain outside Git. Verified primary-source IDs are project-local evidence routes, not newly migrated Drive-only analytical artifacts. Missing old `drive-ref` fragments are recorded rather than fabricated or repaired through unauthorized global-index changes.
 
 Only explicit paths may be staged. Approved author/committer identity, complete diff review, staged-index author preflight, live ruleset/head rechecks, non-forced publication, exact-commit readback, source audit, housekeeping and final exact-head `Repository integration audit` remain required. This pre-publication record does not invent its future containing commit or CI outcome. Main integration remains distinct and is not claimed here. The current published commit/status records establish later publication facts.
+
+## V11 transaction and publication-sequence reconciliation — 2026-10-16
+
+The 41-source reconciliation was published as `a09bfd16cec3e5a7a6eee8a57084d5dea9c77198`, exact tree `c575057a183c4bc19a0928e3db448def1af1b4f9`. [Source audit 38960189788](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38960189788) passed. [Housekeeping 38960711995](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38960711995) failed its ancestry prerequisite because main advanced to `eb65d4ca3cd91279b844d1721d823f91857126d9` during that audit. This was not a content-validation failure or a reason to retry the unchanged stale head.
+
+An ordinary clean merge incorporated that exact main with no KonoSuba changes or conflict selection. The merge-only correction was published as `2637e2b810b5eabe5cd12079ff89c3ced73356d5`, exact tree `6fb675b96746cd474dac0f1e79f8788bf69556ed`; both published parents and owner identities were verified. Its local staged-index preflight passed across 7,915 paths. Published Git history was preserved; no force or protected-main write occurred. This new head starts a fresh publication sequence, which must pass before the V11 publication. The current source publication’s own exact status records govern later closeout; this paragraph does not invent future success.
+
+V11’s accepted local outcomes are 8 CONFIRMED / 4 PARTIAL / 12 NOT_TESTED / 1 FALSIFIED. K04’s local failure, E02’s missing efficiency condition and all untested branches remain explicit. Gen03’s model/prediction seals and original blank fields are unchanged. The producer and an independent humor reader each read the entire authorized main narrative; designated review remained bounded. The bonus and later main/side narrative remain uninspected. The fixed 41-object membership seal is unchanged. All later completion gates remain open.

@@ -39,7 +39,7 @@ The five image-backed reference/art books contain no machine-readable Japanese s
 
 The publisher's [2021-10-22 Blessing announcement](https://group.kadokawa.co.jp/information/promotional_topics/article-3696.html) explicitly advertises original short fiction by 暁なつめ. That establishes a component-inspection obligation, not verified presence/completeness in this supplied EPUB or a narrative finding. Blessing cannot be dismissed as illustrations-only. Its page-level fiction identity remains to be inspected in the expanded stage.
 
-Stage order remains main-series derivation, frozen-model validation, expanded-corpus analysis and post-validation reconstruction. Main V01-V10 inherit maintained READ_COMPLETE and ANALYZED states. Main V11-V17 are admitted for ordered main-series transactions; their availability does not establish canonical acceptance of any reading or artifact. This matrix records neither a fresh V01-V10 reread by metadata agents nor current in-flight reader progress.
+Stage order remains main-series derivation, frozen-model validation, expanded-corpus analysis and post-validation reconstruction. Main V01-V10 inherit maintained READ_COMPLETE and ANALYZED states. MAIN-11’s principal main narrative is now READ_COMPLETE and ANALYZED under the [V11 acceptance review](../09%20Audits%20and%20Manifests/KONOSUBA_V11_RECEIVING_REVIEW.md); its separately identified bonus and remaining edition components stay open. Main V12-V17 are admitted for ordered transactions but not yet accepted. Book-level completion states here apply only to the explicitly admitted principal narrative; they do not certify the entire EPUB. Metadata agents did not freshly reread V01-V10.
 
 YORI-01, MASK, DUST-06 and DUST-07 remain the four designated withheld validation books. Preserve the frozen main-series suite and the source-specific prediction records before inspecting them. Every other supplemental object has expanded-corpus authority only after designated validation; none earns an additional out-of-sample score. Findings must never be introduced retroactively into prospective main-series states.
 
@@ -59,7 +59,7 @@ Artbook prose, embedded bonus fiction (including fiction within main-series EPUB
 | MAIN-08 | Konosuba - Main Series - Volume 08.epub | MAIN_SERIES_DERIVATION | Read and analysis completion inherited |
 | MAIN-09 | Konosuba - Main Series - Volume 09.epub | MAIN_SERIES_DERIVATION | Read and analysis completion inherited |
 | MAIN-10 | Konosuba - Main Series - Volume 10.epub | MAIN_SERIES_DERIVATION | Read and analysis completion inherited |
-| MAIN-11 | Konosuba - Main Series - Volume 11.epub | MAIN_SERIES_DERIVATION | Admitted for ordered main-series transaction; not canonically accepted |
+| MAIN-11 | Konosuba - Main Series - Volume 11.epub | MAIN_SERIES_DERIVATION | Principal main narrative READ_COMPLETE and ANALYZED; bonus そのスキル、危険につき identified but withheld; other component review open |
 | MAIN-12 | Konosuba - Main Series - Volume 12.epub | MAIN_SERIES_DERIVATION | Admitted for ordered main-series transaction; not canonically accepted |
 | MAIN-13 | Konosuba - Main Series - Volume 13.epub | MAIN_SERIES_DERIVATION | Admitted for ordered main-series transaction; not canonically accepted |
 | MAIN-14 | Konosuba - Main Series - Volume 14.epub | MAIN_SERIES_DERIVATION | Admitted for ordered main-series transaction; not canonically accepted |
