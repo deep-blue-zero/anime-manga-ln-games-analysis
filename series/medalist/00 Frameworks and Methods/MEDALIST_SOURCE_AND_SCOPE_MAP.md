@@ -5,14 +5,14 @@ artifact_type: "source_inventory"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.11"
+version: "1.12"
 status: "canonical"
 scope: "Evidence-plane routing, source identity, admission stages, locators and publication boundary"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_AND_SCOPE_MAP.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -186,7 +186,7 @@ The owner's 2026-10-12 `continuous_sequential` authorization covers Japanese V02
 | V14 / MD-MG-JP-TB-V014-W01 | EPUB / 256 | Scores 54–56; one Exhibition (a parody, part 3); Short Program 7; title page, editorial introduction page, a gag-and-notice page, four-panel gags, jacket and under-jacket material, print colophon (first impression 2026-01-22) and digital colophon (issued 2026-01-01, marker 01) | Image occurrences 0001–0169 and 0255–0256 admitted and inspected (171); **0170–0254 excluded** as an advertisement for and the first chapter of a different series, inspected for boundary classification only (85); Volume 15 preview and advertisement 0160–0161 excluded as evidence | Closed, MD-FR-V14 |
 | V15 / MD-MG-JP-TB-V015-W01 | EPUB / 221 | Scores 57–61; no Short Program or Exhibition; title page, editorial introduction page, a logo interstitial, a sketch page, a gag-and-explainer page, jacket and under-jacket material, print colophon (first impression 2026-07-22) and digital colophon (issued 2026-07-01, marker 01) | All image occurrences 0001–0221 admitted and inspected; no foreign-series sample and no later-volume advertisement; two publisher advertisements 0218–0219 excluded as evidence | Closed, MD-FR-V15; terminal unit of the 2026-10-12 run |
 
-Local CBZ alternates for V13–V15 take keys `MD-MG-JP-TB-V013-W02`, `-V014-W02` and `-V015-W02`. They match the EPUBs in image count and share no byte-identical image with them, so page equivalence is unproved; they are collation aids, not admitted witnesses. The local V13–V15 EPUB sizes equal the Drive listing sizes above; byte identity with the Drive objects was not checked in this run and is not claimed. Both fanbook containers passed the same structural checks and remain `HOLD_COVERAGE_UNVERIFIED`.
+Local CBZ alternates for V13–V15 take keys `MD-MG-JP-TB-V013-W02`, `-V014-W02` and `-V015-W02`. They match the EPUBs in image count and share no byte-identical image with them, so page equivalence is unproved; they are collation aids, not admitted witnesses. The local V13–V15 EPUB sizes equal the Drive listing sizes above; byte identity with the Drive objects was not checked in this run and is not claimed. Both fanbook containers passed the same structural checks and subsequently entered the admitted, audited state at `MD-FR-FB01` and `MD-FR-FB02`; their frozen paratext audits own coverage, source layers and exclusions. `HOLD_COVERAGE_UNVERIFIED` describes the earlier reconnaissance checkpoint, not the current register.
 
 EPUB witnesses use locator version `medalist-epub-spine-image-occurrence-v1`: one-based spine ordinal, spine document, one-based image occurrence and image resource, then Score/component and panel region. Each spine document in these fixed-layout books holds exactly one image, so the two ordinals coincide. CBZ witnesses keep `medalist-cbz-image-occurrence-v1`.
 
@@ -218,9 +218,9 @@ For each admitted object record ID/provider revision where exposed; verified vol
 | Dimension | Current state | Evidence required for advancement |
 | --- | --- | --- |
 | Inventory visible | Drive snapshot: 3 JP EPUB + 12 EN CBZ; local addendum: 18 JP volume containers + 2 JP fanbooks, not deduplicated across surfaces | Metadata listing; does not authenticate contents or prove witness equivalence. |
-| Structurally verified | 1 delivered V01 witness with component/Score map verified, printing unverified; 14 further volume witnesses (V02–V15) and 2 fanbook containers at container level only | Actual container/metadata/image order and integrity checks with recoverable receipt. |
-| Admitted for analysis | V01–V15, each with component separation; image ranges are in the register and the per-volume component paragraphs | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
-| Narratively inspected | V01–V15 complete, mainline and classified own-volume material | Actual source-content inspection with coverage record. |
+| Structurally verified | All 15 admitted Japanese manga witnesses with component/Score maps and two admitted fanbook witnesses with audited coverage; the per-witness records retain their printing, identity and exclusion limits | Actual container/metadata/image order and integrity checks with recoverable receipt. |
+| Admitted for analysis | V01–V15 with component separation, plus FB01 and FB02 at their admitted source layers; exact image ranges and exclusions remain in the register and frozen audits | Authorized exact source, sufficient accessible Japanese/page evidence and declared exclusions. |
+| Narratively inspected | V01–V15 complete, mainline and classified own-volume material; FB01/FB02 audited at their own layers. The independent second pass is targeted, with separately counted actually viewed pages | Actual source-content inspection with coverage record. |
 | Sequentially completed | V01–V15, one freeze each (latest MD-FR-V15), each with seven ledger updates | Closed reading, affected ledgers, immutable freeze and verified persistence/publication state. |
 | Published serialization boundary | Score 61, August 2026 issue; ceiling fixed at the 2026-10-12 snapshot by official issue contents | Independent publication witnesses; not inferred from analytical progress. |
 
@@ -237,3 +237,9 @@ A locator tuple contains `source_key, witness_id/revision/hash_basis, volume, ve
 Default panel convention, once verified on a page: `P01…` in Japanese reading order, with exceptions annotated; balloon `B01…` within that panel. A disputed order/spread records a bounding description rather than invented certainty. Cropped/rotated/split derivatives retain links to the original occurrence and transformation. Printed pagination remains null until matched visually; digital index equals neither page number nor publication order by assumption.
 
 The frozen reading owns `MD-EV-…` observation rows and short diagnostic Japanese/gloss notes; the claims ledger owns interpretation/revision IDs; this map owns source identity/admission; the visual ledger owns recurring formal features. Locator maps/images, EPUBs, CBZs, OCR and raw processing output remain in evidence/working planes. Keep only sanitized IDs, hashes, retrieval conventions and interpretation in Git. A failed source access/locator round trip blocks the affected analysis; do not repair it from a review or localization.
+
+## Independent review witness-use addendum (2026-10-14)
+
+The [audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md) reuses the existing W01 locks. One worker’s three supplementary V13 CBZ images were detected as unadmitted W02 and excluded; admitted V13 EPUB0022 independently supplies the47.96 check. Their extraction/viewing is disclosed, not converted into admission or equivalence.
+
+The owner separately suggested English CBZs in the delivered English directory for higher-resolution fine illustration/background cross-checks. Two original auxiliary images were inspected: V03 member p093 matching Japanese0095, and V07 combined member p116–p117 matching Japanese0118/0119. They corroborate selected drawing details only; translated language, score overlays, whole-volume equivalence and Japanese physical page binding gain no authority. No English narrative reading, later installment or new freeze is admitted. Exact archive/member hashes and matching limits are in the audit; source scans remain private.

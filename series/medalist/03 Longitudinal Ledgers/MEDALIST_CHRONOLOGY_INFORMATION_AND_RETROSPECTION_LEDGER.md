@@ -5,14 +5,14 @@ artifact_type: "chronology_knowledge_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.16"
+version: "1.17"
 status: "canonical"
 scope: "Represented timeline, consequential participant knowledge and later recontextualization"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_CHRONOLOGY_INFORMATION_AND_RETROSPECTION_LEDGER.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -717,3 +717,11 @@ In this section `EV-####` expands to the [Official Fanbook 02 paratext audit's](
 | MD-RT-0120 | EV-0024, FB02 | V07, a child's remark at a lake; V15:EV-0035, a father's sentence | The remark was built to affirm his birth; the sentence it answers was disclosed eight volumes later | A collaborator finds the same remark cruel | MD-RV-0271; HIGH as stated |
 | MD-RT-0121 | EV-0029, FB02 | V09, her free skate; V15:EV-0048, a feeling she dates to middle school | Drafts for V09 already give her the wish to repay those who protected her | Drafts are not the printed page; her own dating stands | MD-RV-0278; MODERATE |
 | MD-RT-0122 | EV-0012/0016, FB02; FB01:EV-0007 | V09, a career that ends so that others need not strain; V13, a friend who left | Each stopping is given a parent it was meant to spare | Reported conception | MD-RV-0275/0277; HIGH as stated |
+
+## Independent source-review chronology and reception bounds (2026-10-14)
+
+Preserve the historical rows. **MD-TM-0076** inherits the V09 warm-up numerical erratum: original Score34 occurrence0086 shows four successes in five, not three in four. The [audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md) owns its frozen-reading correction and exact locator.
+
+**MD-KN-0127** already distinguishes Hikaru’s private correction from what Inori hears and remains authoritative for that knowledge limit. V13 Score52 0100–0102 adds no received exclusivity judgment or received light thought. Mother-only receipt of the film self-erasure hypothetical in V15 0174–0178 does not transfer to Tsukasa when he arrives at0179. The V15 role account concerns present burdens; it does not explicitly voice the older career-ending belief (MD-KN-0147).
+
+**MD-KN-0109** faithfully records the V11 0126 private three-year coaching expression; it is preserved. Inori’s two-year skating-experience statements and the FB02 relative chronology/age11→13 anchors describe different measures. Inclusive-year/birthday explanations are plausible and unproved. The unsupported four-year derivative synopsis is removed without replacing it with an exact two-year assertion. No new time or knowledge event is invented.

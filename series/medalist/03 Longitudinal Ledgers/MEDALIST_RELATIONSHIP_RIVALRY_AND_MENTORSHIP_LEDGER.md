@@ -5,14 +5,14 @@ artifact_type: "relationship_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.16"
+version: "1.18"
 status: "canonical"
 scope: "Directional interpersonal interpretations and transitions among athletes, coaches, peers and families"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_RELATIONSHIP_RIVALRY_AND_MENTORSHIP_LEDGER.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -851,3 +851,17 @@ In this section `EV-####` expands to the [Official Fanbook 02 paratext audit's](
 | MD-PAIR-0001 Tsukasa/Inori | By the author, her line at the lake in V07 was built as an affirmation of his having been born; a working note gives him a wish to repay her for a new road; drafts give her a wish to repay those who protected her | FB-CREATOR, raw notes; EV-0024/0028/0029 | Drafts are not the printed page. |
 | MD-PAIR-0050 Iruka/Mika, with the mother | Mika saw a straining child and drew her into a club of children; the mother sheltered her; Mika's sudden retirement parted them; a chart labels Iruka's feeling as admiration and anger | FB-CREATOR, FB-EDITORIAL; EV-0012/0013 | Reported conception. |
 | MD-PAIR-0011 Yodaka/Hikaru | Her days are organized by fear of failing his lesson; he leaves her daytime undirected on principle; the verdict she speaks in V09 was first written for him | FB-CREATOR; EV-0006/0007/0026 | For the period before V12. |
+
+## Independent source-review current projection and errata (2026-10-14)
+
+The [audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md) preserves the rows above as history. **MD-RL-0300** (“tells her only she is fit”) and the V13 **MD-PAIR-0005** projection (“summoned her as her only rival”) require a channel/direction erratum: V13 Score52 0100–0102 gives Hikaru’s private judgment that only her strongest self is suitable as Inori’s rival. Her reaching hand can be a nonverbal invitation, but exclusivity is not shown received. **MD-RL-0301** carries Inori’s separate light-of-hope thought; it is not a spoken answer. The wider reciprocal orientation survives through peer dialogue and skating.
+
+| Current pair projection | Boundary | Corrected evidence use | Remaining limit |
+| --- | --- | --- | --- |
+| MD-PAIR-0005, Hikaru→Inori / Inori→Hikaru | Effective story endpoint V13, with FB01/FB02 at own layers | Actual thicket promise to skate for Inori and observed free skate/gesture coexist with two separate private formulations; read MD-RL-0300/0301 through the erratum | Neither private exclusivity nor light thought is shown communicated; no post-V13 state filled |
+
+The V05 support/work declaration to Kago and V06 use-of-possibility account remain thematically relevant but are not both explicit sacrifice denials. Inori is not their depicted recipient. In the V15 received speech, the original entrusted-role word is 役目, not the frozen reading’s 役割. Receipt, interpretation and durable behavioral effect remain separate. The [speech audit](../07%20Audits%20and%20Handoffs/MEDALIST_JAPANESE_SPEECH_AND_INTERLOCUTOR_AUDIT_THROUGH_V15.md) owns located interlocutor examples; no parallel speech ledger or new relationship event is created.
+
+### Light-of-hope direction and receipt (2026-10-14)
+
+**MD-RL-0301 / MD-PAIR-0005:** Inori→Hikaru is the direction of the V13 private light-of-hope thought. The matching V12 phrase is Hikaru→herself, alone on the earlier V12 train (`MD-EV-V12-0015`, original0047–0049; `MD-EV-V13-0025`, original0101–0102). Neither Inori's knowledge of that earlier resolve nor Hikaru's hearing of Inori's thought is depicted. Read the retained “calls” wording as private naming; thematic correspondence does not establish received feedback or a reciprocal spoken exchange. The current projection above remains bounded by that channel limit; `MD-CL-0023@10` and `MD-RV-0280` own the corrected inference, without a new relationship event.
