@@ -1,0 +1,1234 @@
+{
+  "schema": "ODY_SOURCE_BINDINGS_AND_COMPLETE_FROZEN_INPUT_CUSTODY_PUBLIC_V1",
+  "target": "P3-INST-ODYSSEIA",
+  "body_snapshot": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 33349,
+    "sha256": "99fa75c73f38f08d79d6d1da8d79bac6b48aee3a4651103e220d8a9bc1714a26",
+    "git_blob_oid_of_actual_bytes": "4099606621ba8f7d18ba2f44b0a64143b4ef468f",
+    "physical_lines": 173,
+    "author": "ROOT",
+    "final_LF_count_preserved": 1
+  },
+  "source_aliases": [
+    {
+      "alias": "MN01",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+        "bytes": 5569,
+        "sha256": "a4fb6f0650abe2e36684ae830810055c2c0d40e34c175527c937ff76c2218fb9",
+        "git_blob_oid_of_actual_bytes": "2cfa3f3fb22427358b1bb2c95958613d73473a92",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "bf491a"
+          ],
+          "ranges": [
+            [
+              1,
+              35
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How does a recall instruction exceed the evidence used to initiate it?",
+      "contributor_current_institution_use_and_finite_limit": "Claimant's inferred distress/origin and all-fleet order are not verified transmission/compliance or an authenticated office.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN02",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+        "bytes": 6723,
+        "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+        "git_blob_oid_of_actual_bytes": "8c62783a20370f043b6220a70b9645b2c164c8bc",
+        "physical_lines": 38,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "bf491a"
+          ],
+          "ranges": [
+            [
+              1,
+              38
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "What does represented docking and ceremonial reception establish about fleet governance?",
+      "contributor_current_institution_use_and_finite_limit": "Actual flagship coordination and distinct self-introduced officers do not prove all vessels returned or office records.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN03",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+        "bytes": 7575,
+        "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+        "git_blob_oid_of_actual_bytes": "ee5db2ac32a5d864614dc43c23b5620520165efb",
+        "physical_lines": 40,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "bf491a"
+          ],
+          "ranges": [
+            [
+              1,
+              40
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How are hospitality, resources and retrieval work organized through unlike roles?",
+      "contributor_current_institution_use_and_finite_limit": "Tour rules and actual ordinary pleasure coexist with Ami retrieval, aquaculture/food reports and time error; no school-wide consent or nutrition audit.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN04",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+        "bytes": 5941,
+        "sha256": "206063c0cf27047603b2d9a64b3adbd814ff4c5ed4d40c167342002182ff2dd3",
+        "git_blob_oid_of_actual_bytes": "98013d091c7fb81a18ea6036b500814d51548805",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "bf491a"
+          ],
+          "ranges": [
+            [
+              1,
+              35
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How can safety traditions and confidential business be explained without independent certification?",
+      "contributor_current_institution_use_and_finite_limit": "Eaten curry/public-private register and maker testimony coexist with fallible taboo accounts and novel-case challenge; no operational safety manual.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN05",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+        "bytes": 6013,
+        "sha256": "ddf48a954b61ec4af0774692fd518ec31da33fd47747e5bfcd292357bf2ee3c6",
+        "git_blob_oid_of_actual_bytes": "bafbb30ae414142d820337f9941d8b30f1c0fa65",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "93f03e"
+          ],
+          "ranges": [
+            [
+              1,
+              35
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How does health disagreement reveal distributed institutional interests?",
+      "contributor_current_institution_use_and_finite_limit": "Health/land-access possibilities, embedded faction voices and one-week inquiry keep familiarity, fear and welfare distinct; no referendum or treatment comparison.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN06",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+        "bytes": 4898,
+        "sha256": "d93ae4904902d6142bf970c13d16873f9a98f4e1e71ccc2a69038e2d27ae4098",
+        "git_blob_oid_of_actual_bytes": "dd6f5713c857d1e79761543b41a2398cb91f3848",
+        "physical_lines": 32,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "93f03e"
+          ],
+          "ranges": [
+            [
+              1,
+              32
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "What do laundry, cargo and wet-deck work reveal beyond crisis narratives?",
+      "contributor_current_institution_use_and_finite_limit": "Water-ration accounts, particular work hazards, blame and actual rescue/injury show organized ordinary labor without logs or sole causal blame.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN07",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+        "bytes": 5445,
+        "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+        "git_blob_oid_of_actual_bytes": "5e4a3767348c335693e33d88c06be38b81614fc5",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "93f03e"
+          ],
+          "ranges": [
+            [
+              1,
+              35
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How do professional judgment and decision burden relate to office authority?",
+      "contributor_current_institution_use_and_finite_limit": "Sanae interrupts shaking and names risk but critiques projected animal will and declines a simple prescription; knowledge does not erase burden.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN08",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+        "bytes": 5427,
+        "sha256": "7757b826c87ce34013d0567621adb8a90ab09c87229b9ed9e2ba8d2ae03fa77e",
+        "git_blob_oid_of_actual_bytes": "12bf7d2d94cb381ca0d5706efa8ca01cc64f5e88",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "93f03e"
+          ],
+          "ranges": [
+            [
+              1,
+              35
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "Can an outside hygiene label make a care decision institutionally legitimate?",
+      "contributor_current_institution_use_and_finite_limit": "Minato rejects scapegoating while assenting to claimant strategy; inspected hygiene ground, authenticated authority and actual transfer remain absent.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN09",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN09",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+        "bytes": 6296,
+        "sha256": "621761a34ca30ee73472c3d1b8dec45b0b64a3a48eb16a14e108b42b62889bfd",
+        "git_blob_oid_of_actual_bytes": "dd21df9e3375d84a85535512fc77920ae25ce2dd",
+        "physical_lines": 37,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "a229da"
+          ],
+          "ranges": [
+            [
+              1,
+              37
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How does public decision differ from participation, resource preparation and lasting reform?",
+      "contributor_current_institution_use_and_finite_limit": "Mixed reactions and questioned gift excess follow decision news; chosen blame and future educational effect are speaker strategy, not consensus.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN10",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN10",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+        "bytes": 6081,
+        "sha256": "1f145e56e2502648be73ece0ffc7df04c04919ace3122f0f1a1bbea5ac333675",
+        "git_blob_oid_of_actual_bytes": "5355335a4c0517a600509ffa41fa43116790abfe",
+        "physical_lines": 37,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "a229da"
+          ],
+          "ranges": [
+            [
+              1,
+              37
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "When does reported compliance encounter actual dissent and practical hazard?",
+      "contributor_current_institution_use_and_finite_limit": "Readiness/paperwork coexist with concealment, familiar cat routes and forewarned fall; no final custody transfer or verified recovery mechanics.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN11",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN11",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+        "bytes": 5448,
+        "sha256": "90d84759c3e2d89c1c268d35bb9ebace287fad98ca1643f1214a7bfb7e0a1083",
+        "git_blob_oid_of_actual_bytes": "bdcacdb065ae5a4c1d01d03ae04fb8b090df7fa7",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "a229da"
+          ],
+          "ranges": [
+            [
+              1,
+              35
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "Which administrative stage allows Minato's local reversal?",
+      "contributor_current_institution_use_and_finite_limit": "The specific handover form is unsigned; Minato requests cancellation, claimant agrees and remaining fears/clinical urgency prevent complete closure.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN12",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN12",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+        "bytes": 5095,
+        "sha256": "b9775698ccc1c6aceac919e318dbf62c32816a0aff2ed4d7d400e35c0f1c8d34",
+        "git_blob_oid_of_actual_bytes": "cd117c068e7f52b3377f3f4608e11b2af57ce703",
+        "physical_lines": 34,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "4d1b6e"
+          ],
+          "ranges": [
+            [
+              1,
+              34
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How does clinical urgency change command and optional participation?",
+      "contributor_current_institution_use_and_finite_limit": "Reported vitals/hypotheses limit single-cause guilt; Minato orders preparations with penalty-free exit and deferred objections, not inspected clearance or optimum.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN13",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN13",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+        "bytes": 5320,
+        "sha256": "61d3c148bde4013254aeb1c7b7e9343e2956e8df2a7d6ede7cc23bd0d56646fc",
+        "git_blob_oid_of_actual_bytes": "ce9a3e94b55acdfd3827f7d5f77487f54029376a",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "4d1b6e"
+          ],
+          "ranges": [
+            [
+              1,
+              35
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "What counts as actual fleet participation and a completed farewell?",
+      "contributor_current_institution_use_and_finite_limit": "Flagship departure and distinct later requests/permission stages are represented; guest schedules/full fleet consent uninspected; narrated animal end not clinical optimum.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN14",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN14",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+        "bytes": 5764,
+        "sha256": "9c9a0b7c6c7e0f910278c32a54ebbc01743244e2a93f9ff40820a04fec1b39c6",
+        "git_blob_oid_of_actual_bytes": "cf5e0e26d2c47723315c06351ac81df3b6577c1c",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "a229da"
+          ],
+          "ranges": [
+            [
+              1,
+              35
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How much institutional change is supported by survivors' ordinary habits?",
+      "contributor_current_institution_use_and_finite_limit": "Bubble/tuna/cushion grief and local custom persistence qualify claimed satisfaction and future self-direction; accident scope and captain identity remain bounded.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN15",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN15",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+        "bytes": 11521,
+        "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+        "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d",
+        "physical_lines": 58,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "a229da"
+          ],
+          "ranges": [
+            [
+              1,
+              58
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How does the connected checkpoint keep administrative, clinical and social endpoints separate?",
+      "contributor_current_institution_use_and_finite_limit": "Toy explanation, unsigned transfer/cancellation, grave prognosis, real voyage and grief do not settle office/legal/welfare/counterfactual questions.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN16",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN16",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 19594,
+        "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+        "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1",
+        "physical_lines": 677,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "4d1b6e",
+            "e160c6"
+          ],
+          "ranges": [
+            [
+              1,
+              677
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How does accepted contextualization preserve unlike source classes and wanted goods?",
+      "contributor_current_institution_use_and_finite_limit": "Current Cycle008 qualifications govern older pending states; separate event/private/class responsibilities provide comparisons without merging chronology or persons.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN17",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN17",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 50993,
+        "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+        "git_blob_oid_of_actual_bytes": "cdd0f12e2ac27de5538ee7dc1293368df71878a4",
+        "physical_lines": 285,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "4c0445",
+            "a8e08b",
+            "54890f"
+          ],
+          "ranges": [
+            [
+              1,
+              285
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How do navigation rules, contracted labor and pleasure produce different responsibilities?",
+      "contributor_current_institution_use_and_finite_limit": "EVENT861 office hosting/work/debt, offered dissolution, unasked predicted refusal, culprit mine testimony, rescue and partial relief remain separate outcomes.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN18",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN18",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 24480,
+        "sha256": "f4644f7ca1a203f0f34f4664e7c270d93558b7425727560f47a8eeb1617cc944",
+        "git_blob_oid_of_actual_bytes": "a5b576913194450904ee29406c438c81249b3618",
+        "physical_lines": 582,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "93dee3"
+          ],
+          "ranges": [
+            [
+              1,
+              582
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "Can private repertoire certify universal school practice or consent?",
+      "contributor_current_institution_use_and_finite_limit": "Kotone's actual meal/glasses, refused distance, mismatched rest and reported friend's reply give individual wants/modes, not officers' private identities or fleet policy.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "MN19",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "alias": "MN19",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 42654,
+        "sha256": "dba39b01fa27e17f64d7cb0d2fbdd85b2f98cefd1c12feeb6056b0d0a12c77a4",
+        "git_blob_oid_of_actual_bytes": "650ad2faef3c42ae17ee4e264e315b2716096b6e",
+        "physical_lines": 253,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "616504",
+            "02575c"
+          ],
+          "ranges": [
+            [
+              1,
+              253
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "Can specialist knowledge guarantee safe self-management or transparent care?",
+      "contributor_current_institution_use_and_finite_limit": "Kokoro's safety overreach, wanted song/soup and false-alarm illness plus actual chamber recovery and later help request remain distinct; no Sammy treatment substitute.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    },
+    {
+      "alias": "EVENT860",
+      "exact_admitted_written_analytical_normal_tuple": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 51286,
+        "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+        "physical_lines": 273,
+        "git_blob_oid_of_actual_bytes": "5e81647430fe2a3a99df3b94096b18421f903a33",
+        "alias": "EVENT860"
+      },
+      "contributor_actual_own_prior_receiving": {
+        "grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "tools_and_ranges": {
+          "tools": [
+            "0b0e82 source1-99 visible despite clipped schema inventory",
+            "af9f55 100-195",
+            "4b8955 196-273; tail repaired5f5be0 265-273"
+          ],
+          "ranges": [
+            [
+              1,
+              273
+            ]
+          ]
+        }
+      },
+      "contributor_new_institution_context_question": "How do office title, hobby and apology carry separate accountability?",
+      "contributor_current_institution_use_and_finite_limit": "EVENT860 Sumika attack order/crew-blaming excuse and hobby/wrong-recipient errand are distinct connected purposes; collecting and intended apology are uncompleted.",
+      "ROOT_source_grade": "Adequate own prior core19; EVENT860 only selected connected receiving. Contributor whole20 is attributed, not transferred.",
+      "this_component_preparer_action": "Guarded C tuple/line-bound verification and mechanical alias binding over already adequate own prior meanings; no new semantic or primary/source-grade credit."
+    }
+  ],
+  "complete_ROOT_own5_unchanged_preparation_payload": {
+    "schema": "ROOT_ODYSSEIA105_O000_O004_OWN_TARGET_SPECIFIC_PURPOSE_ADJUDICATION_V1",
+    "target": "P3-INST-ODYSSEIA",
+    "actual_own_current_report_receiving": "08bd43_complete_untruncated",
+    "source_receiving_grade": "NEW_TARGET_SPECIFIC_SEMANTIC_PURPOSE_REPORT_RECEIVING_AND_ADEQUATE_PRIOR_OWN_MEANING_REUSE;NOT_FRESH_UNDERLYING_NORMAL_OR_PRIMARY_PASS",
+    "original_source_grade": "O000 priorROOT whole220-line analytical Normal remains adequate; O001-O004 original contributors selected connected Normal extents remain attributed. Original26whole79selected union is not upgraded.",
+    "exact_prior_inputs_index": {
+      "filename": "ROOT_ODYSSEIA105_PRIOR_MEANING_INPUT_PARTS_AND_ZERO_NEW_CREDIT_V2.json",
+      "bytes": 5618,
+      "sha256": "e52e202f3d150fb71572c539472d8adfef9cc086e6be80bd65802b34bca33a3e"
+    },
+    "rows": [
+      {
+        "owner_id": "O000",
+        "question": "How should an institution account for ordinary wanted goods when offered inclusion or kitchen help imposes costs on a different recipient?",
+        "positive_meaning": "Haruna's wish to include Izumi, actual shared residual aroma, different mint and egg tastes, supplied oil and volunteered kitchen labor preserve independently valuable enjoyment and making. Hare's reported sensory classification does not exhaust Izumi's human self-reported pleasure.",
+        "contrary_meaning": "Reported destruction, arrest, prior abandonment, promised confiscation return, overridden Fuuka warning and the disorder endpoint have distinct actors and evidentiary stages. Joy or offered work supplies neither completed meal/repair nor retrospective recipient permission.",
+        "Odysseia_finite_use": "COMPARATIVE_ADOPT: distinguish enjoyed tour/curry, material preparation and each participant's burden; handmade gifts can be valued and questioned without treating all affection as an institutional consensus. Human sensory self-report is not animal welfare preference.",
+        "limit_and_trigger": "No common jurisdiction, Minato attendance, shared event chronology, validated physiology or Sammy clinical finding. Stronger hospitality/repair/collective-consent claims require actual recipient answers and completed endpoints.",
+        "exact_existing_input_pointer": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_000_009_V2.json#/rows/0",
+        "original_full_records_unchanged": true,
+        "new_canonical_completion_credit": 0
+      },
+      {
+        "owner_id": "O001",
+        "question": "When does a delegated temporary service decision differ from a member's consent to an enduring institutional role?",
+        "positive_meaning": "Yuuka's civic café request, Asuna's locally delegated assent, actual cleaning/service pleasure and opened service establish useful work and a represented temporary arrangement.",
+        "contrary_meaning": "Neru's retained jacket and refusal of permanent maid work, rushed opening and only reported profit prevent treating usefulness as enacted permanent restructuring or inspected contract terms.",
+        "Odysseia_finite_use": "COMPARATIVE_ADOPT: shipboard coordination and hospitality require particular permission stages; optional last-voyage participation does not prove authority over everyone's future duties or guests' schedules.",
+        "limit_and_trigger": "No shared legal code, equal coercive stakes, permanent Odysseia mandate or universal consultation. Inspect the actual role/recipient decision and later afterstate before strengthening lasting-governance claims.",
+        "exact_existing_input_pointer": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_000_009_V2.json#/rows/1",
+        "original_full_records_unchanged": true,
+        "new_canonical_completion_credit": 0
+      },
+      {
+        "owner_id": "O002",
+        "question": "Can restored administration or an authority's mascot project supply consent when the affected member values her existing place and refuses the proposed inducement?",
+        "positive_meaning": "Nodoka's pudding, telescope and Class227 attachment retain their own value despite a wish to return; her defense of the old building disrupts coerced performance.",
+        "contrary_meaning": "Cherino's recruitment wish, Marina's knowingly fabricated mascot and tickling-induced compliance are not voluntary acceptance. Narrated revolutions and restored administration settle neither damaged property nor treatment.",
+        "Odysseia_finite_use": "COMPARATIVE_ADOPT: belonging, customary membership and an external removal label must be distinguished from particular recipients' wishes. Administrative continuation does not prove consent to care or the legitimacy of a hygiene pretext.",
+        "limit_and_trigger": "No transfer of costume coercion to an animal's informed refusal; no actor/identity merger or direct Minato presence. Stronger removal/collective-benefit claims need actual affected-party endpoints and properly grounded office/action evidence.",
+        "exact_existing_input_pointer": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_000_009_V2.json#/rows/2",
+        "original_full_records_unchanged": true,
+        "new_canonical_completion_credit": 0
+      },
+      {
+        "owner_id": "O003",
+        "question": "How can institutional craft and practical skill remain valuable without turning useful results into safe, authorized use of another person's equipment?",
+        "positive_meaning": "Pizza, different sauce tastes and invention pleasure are ordinary ends; working modification and learned craft are represented achievements.",
+        "contrary_meaning": "Recognition that the modified gun was Neru's comes afterward; nondisclosure, use against attackers, coughs and retaliation remain material. Offered console repair, dummy plan and restored gun are uncompleted.",
+        "Odysseia_finite_use": "COMPARATIVE_ADOPT: distinguish ship/gear maintenance, material enjoyment, ownership and permission from the safety of a particular means. A capable crew or affectionate craft does not certify pursuit/rescue procedures or a medically optimal farewell.",
+        "limit_and_trigger": "No imported weapon mechanics, clinical diagnosis, completed repair or universal work consent. Stronger technical/welfare claims require the actual tested endpoint at its proper source grade.",
+        "exact_existing_input_pointer": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_000_009_V2.json#/rows/3",
+        "original_full_records_unchanged": true,
+        "new_canonical_completion_credit": 0
+      },
+      {
+        "owner_id": "O004",
+        "question": "What distinguishes a role's claimed integrity, an allegation, actual access and a continuing public afterstate in institutional authority?",
+        "positive_meaning": "Yuuka's refusal of self-serving alteration and Chihiro's ethical correction are substantive positions; Maki and peers retain different motives and knowledge.",
+        "contrary_meaning": "Maki proposes false data, accidentally publishes records while intentionally retaining/falsifying, and rumors persist after a reported correction. A weak password qualifies ethical intention. False100kg is not a body fact; correction is not full recovery/deletion.",
+        "Odysseia_finite_use": "COMPARATIVE_ADOPT: Minato's represented commands, self-name and the claimant's closing captaincy challenge retain separate grades. Practical functioning and explained customs authenticate neither appointment nor uniform student knowledge.",
+        "limit_and_trigger": "No proven captain fraud, authenticated office, shared audience knowledge or durable reputational repair. Require complete relevant appointment/claimant/afterstate evidence before changing institutional legitimacy conclusions.",
+        "exact_existing_input_pointer": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_000_009_V2.json#/rows/4",
+        "original_full_records_unchanged": true,
+        "new_canonical_completion_credit": 0
+      }
+    ],
+    "new_target_meanings_received": 5,
+    "new_target_remaining": 100,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "no_header_name_stakes_frequency_or_model_exclusion": true,
+    "canonical_argument_installation_or_publication": "PENDING_FULL_INSTITUTION_ARGUMENT_AND_OTHER_GATES"
+  },
+  "ROOT_own5_original_tuple": {
+    "bytes": 8154,
+    "sha256": "268e4d6c81983f8d2ecf72be34b2e4b8fa11a99dcee48d61e595617fc27ce72c",
+    "git_blob_oid_of_actual_bytes": "4e06316f332852f6731a92d3536d210e842a174a"
+  },
+  "complete_dated_original_remaining100_custody_sanitized": {
+    "schema": "ODYSSEIA_INSTITUTION_REMAINING100_EXACT_PRIOR_INPUT_CUSTODY_AND_RECEIVING_SCOPE_V1",
+    "UTC": "2026-10-13T04:24:36.525544+00:00",
+    "target": "P3-INST-ODYSSEIA",
+    "author_assignment": "ONLY_O005_O104;ROOT_BODY_AUTHOR;O000_O004_EXISTING_ROOT_RECORDS_IMMUTABLE",
+    "pins": [
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA_INSTITUTION_OWN_TARGET_QUESTIONS_CONSEQUENTIAL_RECEIVING_AND_REUSE_GRADE_PLAN_V1.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA_INSTITUTION_OWN_TARGET_QUESTIONS_CONSEQUENTIAL_RECEIVING_AND_REUSE_GRADE_PLAN_V1.json",
+        "bytes": 7277,
+        "sha256": "a7e2793895853f39ce4122b5b8a9713bde275afaf45dcf084c15e9237049f746",
+        "git_blob_oid_of_actual_bytes": "ee5e943dba50c757fc34c534d5270e746ea500fd",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_PRIOR_MEANING_INPUT_PARTS_AND_ZERO_NEW_CREDIT_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_PRIOR_MEANING_INPUT_PARTS_AND_ZERO_NEW_CREDIT_V2.json",
+        "bytes": 5618,
+        "sha256": "e52e202f3d150fb71572c539472d8adfef9cc086e6be80bd65802b34bca33a3e",
+        "git_blob_oid_of_actual_bytes": "2fd076727eceb349a03d18014469a5a609467d61",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_O000_O004_OWN_TARGET_SPECIFIC_PURPOSE_ADJUDICATION_V1.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_O000_O004_OWN_TARGET_SPECIFIC_PURPOSE_ADJUDICATION_V1.json",
+        "bytes": 8154,
+        "sha256": "268e4d6c81983f8d2ecf72be34b2e4b8fa11a99dcee48d61e595617fc27ce72c",
+        "git_blob_oid_of_actual_bytes": "4e06316f332852f6731a92d3536d210e842a174a",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_000_009_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_000_009_V2.json",
+        "bytes": 58865,
+        "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+        "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_010_019_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_010_019_V2.json",
+        "bytes": 53604,
+        "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+        "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_020_029_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_020_029_V2.json",
+        "bytes": 55023,
+        "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+        "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_030_039_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_030_039_V2.json",
+        "bytes": 70082,
+        "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+        "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_040_049_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_040_049_V2.json",
+        "bytes": 85986,
+        "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+        "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_050_059_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_050_059_V2.json",
+        "bytes": 96346,
+        "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+        "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_060_069_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_060_069_V2.json",
+        "bytes": 110226,
+        "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+        "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_070_079_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_070_079_V2.json",
+        "bytes": 131988,
+        "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+        "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_080_089_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_080_089_V2.json",
+        "bytes": 140190,
+        "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+        "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_090_099_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_090_099_V2.json",
+        "bytes": 152450,
+        "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+        "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_100_104_V2.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_100_104_V2.json",
+        "bytes": 83739,
+        "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+        "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+        "bytes": 29430,
+        "sha256": "04721ad2d5242eb38470297b82f39c937de8f8b4848cc98ee2bfa7f0f3318513",
+        "git_blob_oid_of_actual_bytes": "3f35653b1bfa99566aed5a69615fb0cc6f246d5f",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      },
+      {
+        "original_C_path": "private-witness:ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+        "own_exact_copy_relative_path": "immutable_input_custody/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+        "bytes": 524683,
+        "sha256": "0599d6137bd88271d5870d3d63217799b6d7f78594125d7fc9db398cbca27160",
+        "git_blob_oid_of_actual_bytes": "30337d48098794dfd90ba7123cee920f5307cf18",
+        "preservation": "EXACT_ORIGINAL_BYTES;NO_NEW_SEMANTIC_RECEIVING_OR_SOURCE_CREDIT_FROM_COPY"
+      }
+    ],
+    "prior105_input_exact_union": true,
+    "source_semantic_reuse_grade": "ADEQUATE_OWN_PRIOR20_COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING_AND105_SELECTED_ROOT_ADOPTED_ANALYTICAL_PURPOSE_REPORT_SEMANTIC_FIELDS;NO_FRESH_NORMAL_BODY_OR_PRIMARY_PASS",
+    "own20_actual_receiving_file_sha256": "04721ad2d5242eb38470297b82f39c937de8f8b4848cc98ee2bfa7f0f3318513",
+    "own105_selected_report_meaning_sha256": "0599d6137bd88271d5870d3d63217799b6d7f78594125d7fc9db398cbca27160",
+    "ROOT_plan_and_first5_own_current_receiving_tool": "d50e94;complete",
+    "underlying_prior26_whole79_selected": "PRESERVED_ATTRIBUTED_NOT_UPGRADED",
+    "source_boundaries": "MAIN local14/checkpoint/account core and independent EVENT861/diver private/EVENT860 comparisons; no cross-calendar, actor/private-family merger or animal informed-consent equivalence.",
+    "current_external_state": "ROOT-reported3495 source/local at ae6e with cb99 main Drive-index-only incoming merge; no child live Git/provider verification or CI/main certification. Governing plan's recorded earlier main0ed is dated preparation history.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "new_source_consumption_admission_identity_package_named_registry_generated_or_milestone_credit": 0,
+    "R_Git_provider_or_old_artifact_mutations": false,
+    "new_institution_meanings": "PENDING_OWN_SEPARATE_NEW100_JUDGMENTS"
+  },
+  "complete_governing_ROOT_preparation_plan_sanitized": {
+    "schema": "ROOT_ODYSSEIA_EXISTING_INSTITUTIONAL_HOME_OWN_QUESTION_AND_REUSABLE_MEANING_PLAN_V1",
+    "decision": "PRIVATE_TARGET_SPECIFIC_ANALYSIS_PREPARATION_NOT_PACKAGE_ACCEPTANCE",
+    "target": "P3-INST-ODYSSEIA",
+    "designated_future_primary_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md",
+    "receiving_basis": {
+      "source": "3495ee6b4712c7ca4de25a75054d83863cccbf3f",
+      "tree": "ae6e8d20a7146aa4ede31ad7a93681c31b308597",
+      "main": "0ed395926cca502fe1461d8c172330baab99e70e",
+      "source_packages": 135,
+      "named": 14,
+      "main_packages": 133,
+      "new_source_audit": 38344160243,
+      "chain_status": "IN_PROGRESS;NO_GREEN_CERTIFICATION"
+    },
+    "authority": {
+      "architecture": {
+        "bytes": 52261,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_role_receiving": "3c0ac2;d81b67"
+      },
+      "method": {
+        "bytes": 53414,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+      },
+      "allocation_Odysseia_complete_current_home_read": "441d8f",
+      "allocation_large_probe": "75c270_CLIPPED_NOT_FULL_FIVE_HOME_CREDIT"
+    },
+    "governing_question": "How does Odysseia organize rules, work, resources, hospitality, health decisions, disagreement, optional initiative and material accountability while preserving distinct participants' ordinary wants and incomplete outcomes?",
+    "provisional_thesis": "The fleet's procedures make shared life possible and can distribute work or fear unequally. A custom, command or plausible administrative label is neither the physical work it requires nor a validated welfare outcome. Last-voyage participation opens a represented local choice while formal authority, resources, durable reform and clinical counterfactuals remain unsettled.",
+    "positive_ordinary_questions": [
+      "Water rationing and large laundry loads are situational testimony about how routine work is organized, not verified consumption logs.",
+      "Tour enjoyment and consumed curry have distinct endpoints; Minato's misjudged itinerary and apology preserve the guests' time cost.",
+      "Handmade imperfect balls, familiar play and food gifts matter as wanted goods; overproduction is questioned, not all affection discarded.",
+      "Kotone's reading, tastes and diving work and Kokoro's independent requests, fatigue and changed whole-message tails are their own contextual repertoires, not universal Odysseia consent or officers' private identities.",
+      "Sumika's EVENT860 apology errand and wished-for biotope/insect collecting are distinct purposes. Meeting Hina through a mistaken description completes neither the intended apology nor collecting.",
+      "EVENT861 hospitality and kelp taste remain valuable alongside equipment debt, pressure and navigation work; no drama threshold ranks them out."
+    ],
+    "new_target_consequential_receiving": {
+      "MN06_whole_admitted_Normal": "01c356: crew cleaning, wet-deck hazard, teacher rescue and acute symptom report; no safe-deck/clinical-outcome proof.",
+      "MN08_whole_admitted_Normal": "9c3058: Minato explains the attraction of taboo under harsh sea conditions, rejects cat scapegoating; proposed outsider hygiene declaration, unverified office and verbal assent remain separate from actual transfer.",
+      "MN09_whole_admitted_Normal": "5d8cd9: school-wide decision news and mixed responses; container of balls/food self-correction; claimant's future authority-questioning hope is not demonstrated reform.",
+      "MN10_whole_admitted_Normal": "e35f59: paperwork readiness; direct student concealment qualifies earlier reported compliance; warned fall materializes; animal motive/residence consent remain unknown.",
+      "EVENT860_selected_connected_E013_to017": "acf42f: independent apology recipients/refusal, tangible boat compensation, Sumika hobby and mistaken recipient, dream-qualified subsequent play.",
+      "EVENT860_O101_complete_prior_source_purpose_report_and_current_qualifier": "da26cc: actual institutional hospitality, separate title/attack/blame, unwanted work/wanted company, technical/dream/history limits; report grade only, not new whole normal replay."
+    },
+    "reusable_adequate_own_prior_sources": "ROOT's Minato core19 own receiving remains adequate at documented18 fresh-whole analytical Normals plus1 sameROOT prior whole Normal; reusing it is not a fresh reading or primary consumption. Each target-specific consequential question must be traced to its complete connected argument. Existing 105 ROOT purpose meanings orient the new responsibility; the institution still needs its own105 adjudications.",
+    "institution_specific_directions": [
+      "Captain's hosting → guests' time and appraisal; Ami's coordination → actual consultation and limits, no automatic all-club consent.",
+      "Club officers' threats and routines → particular crew costs and choices; customs do not prove all students share one interpretation.",
+      "Human care decision → ageing cat movement and represented narrator perspective; welfare preferences and clinical optimum cannot be supplied by affection.",
+      "Gifts/farewell labor → other caregivers and ill animal; rethinking excessive goods has several actual endpoints.",
+      "Claimant's administrative strategy → students' anger and Minato's cancellation request; agreeing to cancellation does not establish withdrawal of her underlying educational purpose.",
+      "EVENT861 contractors/host school → cash, gear, liability and anticipated refusal; admission/testimony/partial relief differ from forensic cause and cancelled debt."
+    ],
+    "rivals_to_test": [
+      "The school is fully governed by superstition; contrary medical reasoning, objections and optional choices matter.",
+      "Captaincy guarantees accountable action; mistaken time estimate, foreseen pursuit risk and later office challenge limit it.",
+      "Administrative compliance proves consent; direct concealment and disclosed dissatisfaction contradict that inference.",
+      "Outsider blame-bearing completes emancipatory reform; strategy is self-report and hoped-for educational effect.",
+      "The farewell is medically optimal; no observed counterfactual course supports it.",
+      "Quiet goods merely support crisis cohesion; reading, collecting, taste and company have independent recipient purposes.",
+      "EVENT861 retrospectively settles MAIN's grief/office/debt; no global sequence or unseen bridge is admitted.",
+      "Positive private diving stories prove universal safe labor or institutional care; actor/choice/message endpoints differ."
+    ],
+    "remaining_work": [
+      "Complete the institution's105 source-specific purpose adjudications with preserved extents and relevant actor/mode limits.",
+      "Write the full independent institutional argument and precise source/claim/rival/end/gap register.",
+      "Independent whole argument review and ROOT acceptance.",
+      "Actual canonical installation and ordinary validation/publication after preceding chain closes."
+    ],
+    "fixed_scope": "355/29/25/384/788_UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "new_package_named_identity_source_admission_or_model_credit": 0,
+    "R_Git_provider_writes_for_this_preparation": 0
+  },
+  "complete_ROOT_actual_current_target_receiving_preliminary_decision_sanitized": {
+    "schema": "ROOT_ODYSSEIA105_NEW_INSTITUTION_PURPOSE_MEANING_RECEIVING_PRELIMINARY_DECISION_V1",
+    "first5": {
+      "wholeROOT": "08bd43",
+      "record": "ROOT_ODYSSEIA105_O000_O004_OWN_TARGET_SPECIFIC_PURPOSE_ADJUDICATION_V1.json",
+      "bytes": 8154,
+      "sha256": "268e4d6c81983f8d2ecf72be34b2e4b8fa11a99dcee48d61e595617fc27ce72c"
+    },
+    "remaining100_ROOT_complete_newtarget_receiving": [
+      {
+        "owners": "O005-O019",
+        "tool": "648748",
+        "grade": "COMPLETE_CURRENT_NEW_TARGET_QUESTION_POSITIVE_CONTRARY_FINITE_USE_DIMENSIONS_TRIGGER_AT_ADEQUATE_PRIOR_ROOT_REPORT_MEANING_REUSE",
+        "decision": "ADOPT_WITH_LIMITS_EXCEPT_O010_CURRENT_CONTRARY_QUALIFICATION_PENDING"
+      },
+      {
+        "owners": "O020-O029",
+        "tool": "679c50",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS",
+        "extra": "O010 full inherited source meaning confirms qualification required; no primary consumption."
+      },
+      {
+        "owners": "O030-O044",
+        "tool": "b888dc",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O045-O054",
+        "tool": "999edb",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O055-O069",
+        "tool": "42a9ab",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O070-O079",
+        "tool": "6c85fa",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O080-O094",
+        "tool": "35635d",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS",
+        "O083": "Fine defeated-party identity remains deferred; no denial of initial numerical defeat or later broad defense."
+      },
+      {
+        "owners": "O095-O104",
+        "tool": "de7533",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      }
+    ],
+    "own20_newcontext_receiving": {
+      "tool": "bce5a2",
+      "decision": "ADOPT20_CONTEXT_TARGET_QUESTIONS_WITH_LIMITS_OVER_ROOT_OWN_PRIOR19_AND_SELECTED_EVENT860",
+      "disclosure": "Agent whole20 original source-grade remains attributed. ROOT's own original core19 adequate receiving and selected connected EVENT860 only; no transferred 20whole claim."
+    },
+    "supported_current_purpose_corrections_pending": [
+      "O010 unauthorized/destructive-authorization wording and trigger",
+      "O042 wanted fishing versus actual enjoyed fishing",
+      "O069 source-local E825 praise/apology; separate E843 use-then-exclusion refusal not transferred"
+    ],
+    "current_separate_body": "ROOT authored V3;independent body-only QA and exact components pending",
+    "decision": "COMPLETE_NEW_105_TARGET_QUESTIONS_ACTUALLY_RECEIVED;FINAL_ADOPTION_PENDING_EXACT_SUPPORTED_FIELD_SUCCESSORS_AND_COMPONENT_QA",
+    "source_receiving_grade": "ROOT own prior19 plus selected connectedEVENT860, existing105 source-purpose report meanings. Author additional whole20 retained as attributed adequate reuse;26whole79selected underlying contributors not upgraded.",
+    "zero_new_credit": true,
+    "all14": "OPEN",
+    "models": 0,
+    "R_Git_provider_mutations": 0
+  },
+  "remaining100_current_V2_private_preparation_pins": [
+    {
+      "artifact_id": "ODYSSEIA_INSTITUTION_O005_O029_NEW_TARGET_PURPOSE_JUDGMENTS_V2.json",
+      "bytes": 247834,
+      "sha256": "3828d4052d78091dbc7162db51d623ee32f932a6ceded0b92c1b636573369e8e",
+      "git_blob_oid_of_actual_bytes": "0939390ebcb37acf08a8459b8600b619a76438aa"
+    },
+    {
+      "artifact_id": "ODYSSEIA_INSTITUTION_O030_O054_NEW_TARGET_PURPOSE_JUDGMENTS_V2.json",
+      "bytes": 321000,
+      "sha256": "4fc8489f5104c57c6e62cb05c5d331c2222e93e5b0f52bdca71dce5f4b5fc246",
+      "git_blob_oid_of_actual_bytes": "d04d8d772591da15f89411e48712f64a57074025"
+    },
+    {
+      "artifact_id": "ODYSSEIA_INSTITUTION_O055_O079_NEW_TARGET_PURPOSE_JUDGMENTS_V2.json",
+      "bytes": 409290,
+      "sha256": "f4116fafbffea9186c73873b6ae3638d1a1e427a7b2c2b42ea003a8b226c5cc5",
+      "git_blob_oid_of_actual_bytes": "349405b0cce10b113bd9a30661cade96124b6b0b"
+    },
+    {
+      "artifact_id": "ODYSSEIA_INSTITUTION_O080_O104_NEW_TARGET_PURPOSE_JUDGMENTS_V2.json",
+      "bytes": 516344,
+      "sha256": "900392fc2f2c1dc6347d0c9b5c24b854966e0ee7df97c3967cbe513547e4b103",
+      "git_blob_oid_of_actual_bytes": "c2bb4dceedae946147c69403d0ebcd517dd5b6a9"
+    },
+    {
+      "artifact_id": "AUTHORED_INSTITUTIONAL_QUESTIONS_O005_O054_V2.json",
+      "bytes": 16236,
+      "sha256": "eb627c550be4ab6cfaf459a18035b01ca30cb2c7a9e23decaec48f2c3a398982",
+      "git_blob_oid_of_actual_bytes": "e77e7cb5ee0733eef91b3f2f6673a6b31fe836d8"
+    },
+    {
+      "artifact_id": "AUTHORED_INSTITUTIONAL_QUESTIONS_O055_O104_V2.json",
+      "bytes": 17566,
+      "sha256": "d7c806656bbc216c12179bc4b8ef7c7f29b2ac3c9df31715c00ffd62c1a32ee2",
+      "git_blob_oid_of_actual_bytes": "879105c3834f99a841f9273509e7c27a38b8b5ae"
+    }
+  ],
+  "exact_eleven_prior_input_part_witnesses": [
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_000_009_V2.json",
+      "bytes": 58865,
+      "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+      "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906",
+      "role": "Frozen existing105 report input; no new source consumption from copy."
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_010_019_V2.json",
+      "bytes": 53604,
+      "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+      "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18",
+      "role": "Frozen existing105 report input; no new source consumption from copy."
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_020_029_V2.json",
+      "bytes": 55023,
+      "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+      "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc",
+      "role": "Frozen existing105 report input; no new source consumption from copy."
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_030_039_V2.json",
+      "bytes": 70082,
+      "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+      "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4",
+      "role": "Frozen existing105 report input; no new source consumption from copy."
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_040_049_V2.json",
+      "bytes": 85986,
+      "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+      "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07",
+      "role": "Frozen existing105 report input; no new source consumption from copy."
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_050_059_V2.json",
+      "bytes": 96346,
+      "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+      "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa",
+      "role": "Frozen existing105 report input; no new source consumption from copy."
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_060_069_V2.json",
+      "bytes": 110226,
+      "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+      "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b",
+      "role": "Frozen existing105 report input; no new source consumption from copy."
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_070_079_V2.json",
+      "bytes": 131988,
+      "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+      "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b",
+      "role": "Frozen existing105 report input; no new source consumption from copy."
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_080_089_V2.json",
+      "bytes": 140190,
+      "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+      "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda",
+      "role": "Frozen existing105 report input; no new source consumption from copy."
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_090_099_V2.json",
+      "bytes": 152450,
+      "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+      "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec",
+      "role": "Frozen existing105 report input; no new source consumption from copy."
+    },
+    {
+      "artifact_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_100_104_V2.json",
+      "bytes": 83739,
+      "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+      "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d",
+      "role": "Frozen existing105 report input; no new source consumption from copy."
+    }
+  ],
+  "private_recovery_artifact_id": "REMAINING100_EXACT8_OPERATIONS_ALL6_FRAGMENTS_AND_DATA_FULL_INVERSES_AND_INDEX_RECOVERY_V1.json",
+  "private_recovery_tuple": {
+    "bytes": 14178,
+    "sha256": "e8e31b7dacc24e850d565f9a11843b0c08b6bdd0c8f46dd4762084133c4f6af5",
+    "git_blob_oid_of_actual_bytes": "97850e7de63200d4f4ab6455ad14b891d697ec53"
+  },
+  "source_grade_and_boundary": "ROOT own prior19 plus selected connectedEVENT860, existing105 source-purpose report meanings. Author additional whole20 retained as attributed adequate reuse;26whole79selected underlying contributors not upgraded.",
+  "current_qualification": {
+    "stage": "C_ONLY_CORRECTED_CURRENT_PURPOSES_PREPARED_FINAL_COMPONENT_QA_AND_ROOT_ADOPTION_PENDING",
+    "supported_QA_artifact_id": "INDEPENDENT_ODYSSEIA_INSTITUTION_REMAINING100_ALL_CURRENT_MEANINGS_THREE_REPAIRS_AND_EXACT_FIELD_INVERSIONS_V2.json",
+    "supported_QA_tuple": {
+      "bytes": 252441,
+      "sha256": "2fa412bd222a8443ceeda7e35b937256a88da6dd24374d9c46bec1dc4337d7ce",
+      "git_blob_oid_of_actual_bytes": "de2fe7f7307229e9f04cab62c99448dd15c48662"
+    },
+    "three_source_specific_precision_findings": [
+      "INST_QA_F01",
+      "INST_QA_F02",
+      "INST_QA_F03"
+    ],
+    "exact_operative_semantic_operations": 8,
+    "current_field_author": "/root/receive_middle_remaining",
+    "ROOT_body_author": "/root",
+    "dated_V1_pending_and_then_erroneous_current_fields": "Retained immutable at their exact V1 snapshots; only the specified new V2 target fields supersede them. No source payload, source-grade or ROOT own5 rewrite.",
+    "ROOT_reported_actual_complete_newtarget_receiving": [
+      {
+        "owners": "O005-O019",
+        "tool": "648748",
+        "grade": "COMPLETE_CURRENT_NEW_TARGET_QUESTION_POSITIVE_CONTRARY_FINITE_USE_DIMENSIONS_TRIGGER_AT_ADEQUATE_PRIOR_ROOT_REPORT_MEANING_REUSE",
+        "decision": "ADOPT_WITH_LIMITS_EXCEPT_O010_CURRENT_CONTRARY_QUALIFICATION_PENDING"
+      },
+      {
+        "owners": "O020-O029",
+        "tool": "679c50",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS",
+        "extra": "O010 full inherited source meaning confirms qualification required; no primary consumption."
+      },
+      {
+        "owners": "O030-O044",
+        "tool": "b888dc",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O045-O054",
+        "tool": "999edb",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O055-O069",
+        "tool": "42a9ab",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O070-O079",
+        "tool": "6c85fa",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      },
+      {
+        "owners": "O080-O094",
+        "tool": "35635d",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS",
+        "O083": "Fine defeated-party identity remains deferred; no denial of initial numerical defeat or later broad defense."
+      },
+      {
+        "owners": "O095-O104",
+        "tool": "de7533",
+        "decision": "ADOPT_COMPLETE_TARGET_SPECIFIC_PURPOSES_WITH_LIMITS"
+      }
+    ],
+    "final_ROOT_current105_adoption": "PENDING_CURRENT8_CORRECTIONS_AND_COMPONENT_QA",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "new_source_grade_or_primary_native_raw_AV_identity_package_named_generated_registry_or_model_credit": 0
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "fixed355_29_25_384_788": "UNCHANGED",
+  "canonical_installation_publication_package_named_identity_registry_generated_admission_or_model_credit": 0,
+  "current_format_only_publication_successor_qualification": {
+    "schema": "ODYSSEIA_REQUIRED_PUBLICATION_WHITESPACE_ONE_FINAL_LF_SUCCESSOR_QUALIFICATION_V1",
+    "reason": "Required publication whitespace gate found new blank line at EOF at old174. Remove only last LF; no analytical prose or source change.",
+    "historical_ROOT_V3_and_whole_review_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 33350,
+      "sha256": "2a5857a5bad2f8708672cbd3458845db28789615f161ef21cb46c775d406ad52",
+      "git_blob_oid_of_actual_bytes": "2655f5798c709d34a8cb9800b96a5a65303221d5",
+      "physical_lines": 174,
+      "final_LF_count": 2,
+      "role": "Frozen original authored/received argument and all original ROOT/QA declarations stay literal history."
+    },
+    "current_saved_format_only_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 33349,
+      "sha256": "99fa75c73f38f08d79d6d1da8d79bac6b48aee3a4651103e220d8a9bc1714a26",
+      "git_blob_oid_of_actual_bytes": "4099606621ba8f7d18ba2f44b0a64143b4ef468f",
+      "physical_lines": 173,
+      "final_LF_count": 1,
+      "claims": 36,
+      "all_claim_heading_rival_endpoint_gap_physical_locations": "UNCHANGED; only terminal empty physical line174 removed."
+    },
+    "review_coverage": "Prior complete V2 whole174 plus current V3 complete three affected lines/full inverse and full current36/105 exact11 QA cover the unchanged argument. This one-byte format delta is not a fresh whole173 literary or source pass.",
+    "ROOT_original_literary_semantic_adoption": "Complete original body/current105 purposes accepted WITHLIMITS; same argument retained. Current format delta/composition adoption still requires ROOT separate actual receiving.",
+    "frozen_snapshot_fields": "All original174/33350 ROOT and complete QA body/tuple/decision declarations and original11 snapshot arrays remain literal dated history. Only explicit operative current binding fields are updated.",
+    "required_whitespace_gate": {
+      "algorithm": "C-local git diff --no-index --check against an empty beforeimage",
+      "actual_body_exit_code": 1,
+      "whitespace_output": "EMPTY",
+      "result": "PASS",
+      "status_role": "Expected diff-only status1 is no whitespace failure; no Git repository or provider action."
+    },
+    "complete_full_actual_V1_recovery_artifact_id": "ODYSSEIA_EXACT14_V2_ONE_FINAL_LF_AND_ALL_CURRENT_BINDING_COMPLETE_FIELD_DIFFS_EXECUTED_ACTUAL_V1_FULL_BYTE_INVERSES_V1.json",
+    "current_format_delta_and_public_composition_ROOT_adoption": "PENDING_SEPARATE_CURRENT_ROOT_RECEIVING",
+    "actual_installation_sharedmetadata_publication_SOURCE_HK_FINAL_and_main": "PENDING_ROOT",
+    "composition_author": "/root/minato_105_derivative; format binding/composition author, not a new independent reviewer.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "new_source_primary_native_raw_AV_admission_identity_package_named_registry_generated_or_model_credit": 0,
+    "merge_approval": "RESERVED"
+  }
+}

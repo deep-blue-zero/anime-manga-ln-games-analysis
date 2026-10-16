@@ -7326,4 +7326,69 @@
     }
   ],
   "no_new_literary_or_source_credit": 0
+,
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload",
+      "retained_value_utf8_sha256": "1e3dfc2d9590eb64ae7b4fbb3d29afbd202ed35bad836b42b80fb87fca33b033",
+      "finding_ids": [
+        "P30-P3-INST-SCHOOL-LUNCH-WORK-RECIPIENTS-SCHOOL_LUNCH_INST006_EXACT_EEL_REPORT_CONTENT_FINDING_AND_LITERAL_POINTERS_V1",
+        "P30-P3-INST-SCHOOL-LUNCH-WORK-RECIPIENTS-L119"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/1/complete_original_payload",
+      "retained_value_utf8_sha256": "ed4fb9cde9ac7bbd3110de41be8af5f883a862c7c9170bfa3bc8396b7b2d2d36",
+      "finding_ids": [
+        "P30-P3-INST-SCHOOL-LUNCH-WORK-RECIPIENTS-SCHOOL_LUNCH_INST006_EXACT_EEL_REPORT_CONTENT_FINDING_AND_LITERAL_POINTERS_V1",
+        "P30-P3-INST-SCHOOL-LUNCH-WORK-RECIPIENTS-L119"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/3/complete_original_payload/claims/35/body_paragraph_text",
+      "retained_value_utf8_sha256": "03dcfe53fef44b15cfd13cd88a6da4b50ae30f6dd2323175a683a4df6f35e1f0",
+      "finding_ids": [
+        "P30-P3-INST-SCHOOL-LUNCH-WORK-RECIPIENTS-SCHOOL_LUNCH_INST006_EXACT_EEL_REPORT_CONTENT_FINDING_AND_LITERAL_POINTERS_V1",
+        "P30-P3-INST-SCHOOL-LUNCH-WORK-RECIPIENTS-L119"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/11/complete_original_payload/paragraph_blocks/43/exact_utf8_text",
+      "retained_value_utf8_sha256": "43f258bc1da985bed81101ea356b9ffeefdab3dcc6805aa84f0fe8121e950e8a",
+      "finding_ids": [
+        "P30-P3-INST-SCHOOL-LUNCH-WORK-RECIPIENTS-SCHOOL_LUNCH_INST006_EXACT_EEL_REPORT_CONTENT_FINDING_AND_LITERAL_POINTERS_V1",
+        "P30-P3-INST-SCHOOL-LUNCH-WORK-RECIPIENTS-L119"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SCHOOL_LUNCH_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 60009,
+      "sha256": "0b3df270f9e440df71734821b70fcf6f941c2c6785a2e5e77aea72805f8c728d",
+      "lines": 225,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 60009,
+        "sha256": "0b3df270f9e440df71734821b70fcf6f941c2c6785a2e5e77aea72805f8c728d"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 60009,
+        "sha256": "0b3df270f9e440df71734821b70fcf6f941c2c6785a2e5e77aea72805f8c728d"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

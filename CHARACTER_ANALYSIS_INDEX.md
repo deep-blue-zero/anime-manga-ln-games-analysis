@@ -377,7 +377,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `86-eighty-six`
 - Continuity: `86-eighty-six-original-light-novels`
 - Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
@@ -3326,8 +3326,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `bounded-ledger-scope`: MANGA VOLUME: V001-V020 longitudinal analysis of appraisal, concealment, bounded repair, consent, employment, film production and grief support. Interrupted declarations and unresolved relationships remain incomplete; project competence does not establish general maturity.; continuity `rent-a-girlfriend-manga`
+  - `v021-v040-bounded-extension`: MANGA VOLUME: V021-V040 character-specific longitudinal analysis of explicit withdrawal from the Ruka trial, contested boundaries, selective disclosure and the residual dating lie, misread rejection and recontact, Chizuru's unresolved inquiry, separate-room housing and care, nursery competence, direct declarations and revised unpaid-date planning. The endpoint is V040 image 0188: May 17 Joypolis arrival. A begun date and partial truth repair establish no date outcome, Chizuru final answer, mutual partnership, informed separation from Ruka, broad intimacy consent or executed May 18 move. This describes substantial analysis, not appearances in every scene; excludes V041+, adaptations and spin-offs.; continuity `rent-a-girlfriend-manga`
 - Reviewed current evidence:
   - [`reviewed-character-ledger` — Kazuya Kinoshita longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md)
+  - [`reviewed-v021-v040-ledger` — Kazuya Kinoshita longitudinal evidence ledger: bounded V021-V040 extension](series/rent-a-girlfriend/04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md#evidence-trace)
 
 ### Kenjiro Toki
 

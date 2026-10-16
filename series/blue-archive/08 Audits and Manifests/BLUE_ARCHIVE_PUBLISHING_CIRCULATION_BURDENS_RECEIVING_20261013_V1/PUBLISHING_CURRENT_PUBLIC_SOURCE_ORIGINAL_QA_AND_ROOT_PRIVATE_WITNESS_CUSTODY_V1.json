@@ -1,0 +1,226 @@
+{
+  "schema": "PUBLISHING_CURRENT_PUBLIC_ORIGINAL_SOURCE_QA_ROOT_OPAQUE_WITNESS_CUSTODY_V1",
+  "composer": "/root/m008_composition_review",
+  "role": "Public documentary custody only. Private full raw mappings and originals are retained in the C composition manifest; opaque IDs do not introduce unbound public dependencies.",
+  "complete_original_author8": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 39346,
+      "sha256": "d0d49c28cfc096d42ef22d2b2131015172d8a0d460e8beeb885b04ec7e005909",
+      "git_blob_oid_of_actual_bytes": "d9a55694b6173802fd2b4d1e4eb17f39e432a1fe"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json",
+      "bytes": 271437,
+      "sha256": "7a87ce783ec58f393f76e22d4135a7485ee3d2a8787520f9cd2680604436f898",
+      "git_blob_oid_of_actual_bytes": "eee74b32b35958f094970df46b07777fa744e606"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json",
+      "bytes": 411418,
+      "sha256": "53619888c2aff2379f6ceb736b3a623f36e99f14383c06b9ac4035c08fab342f",
+      "git_blob_oid_of_actual_bytes": "e80ab83df285885240cac13306b06299c3ab80fc"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json",
+      "bytes": 576065,
+      "sha256": "d7acb895b80489546895ee610f15c331a5dbb493c693b06afef00d0182426fcf",
+      "git_blob_oid_of_actual_bytes": "7fde86e2cebf26fe77dd2d21e6a508d7f9fa361d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 124236,
+      "sha256": "6227cdb3b7ecfdf80cabcc9a2d5350c28ef972bcd10c6dd1aee0ea88be0540ef",
+      "git_blob_oid_of_actual_bytes": "646b99cd1bfdab44bab2f0907f6affc546fa8380"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT4_INPUT_SOURCE_GRADE_AND_RECEIVING_V1.json",
+      "bytes": 18320,
+      "sha256": "7e2ece260e11ab6d372f389a61bc74a794d821b41eddd05bd70e19216451c5ae",
+      "git_blob_oid_of_actual_bytes": "ff77f9de83c6c0fdc474300da7a0f7f0b89691d4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT_LITERAL41_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 492852,
+      "sha256": "26f7cd213610a3ab1f1b2906f7f945cfd58f983e4e001e497d98c0624f7b80d6",
+      "git_blob_oid_of_actual_bytes": "0bc28f05c56298e85d23710150c86a2f37bdc115"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_SAVED_BODY_AND_EXACT8_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 7149,
+      "sha256": "d4218214c393df8b995f320293bdbb528be1749bf13e74cf80004ffa26a963a9",
+      "git_blob_oid_of_actual_bytes": "67422371bf6bee74b06094893747ac168ddb44d0"
+    }
+  ],
+  "complete_current_author8": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 39617,
+      "sha256": "3c034418c18746e86f85382c201e8e87cb119f6477f73630cd75497aa4813e5c",
+      "git_blob_oid_of_actual_bytes": "18282268b3973fde29dc34f1995cf4a394c57588"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json",
+      "bytes": 271437,
+      "sha256": "7a87ce783ec58f393f76e22d4135a7485ee3d2a8787520f9cd2680604436f898",
+      "git_blob_oid_of_actual_bytes": "eee74b32b35958f094970df46b07777fa744e606"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json",
+      "bytes": 411418,
+      "sha256": "53619888c2aff2379f6ceb736b3a623f36e99f14383c06b9ac4035c08fab342f",
+      "git_blob_oid_of_actual_bytes": "e80ab83df285885240cac13306b06299c3ab80fc"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json",
+      "bytes": 576065,
+      "sha256": "d7acb895b80489546895ee610f15c331a5dbb493c693b06afef00d0182426fcf",
+      "git_blob_oid_of_actual_bytes": "7fde86e2cebf26fe77dd2d21e6a508d7f9fa361d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 124236,
+      "sha256": "269219831ab3222dfe5e640b5c25cad8851671ac75cf0e384597dd905b05123a",
+      "git_blob_oid_of_actual_bytes": "b93a21a8640fe5faa6e4819b01a4e6c6435e03df"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT4_INPUT_SOURCE_GRADE_AND_RECEIVING_V1.json",
+      "bytes": 18320,
+      "sha256": "9ca8566266c695a42c6e83955f1f0af70e07256f699d02b98da1261afe4e0f85",
+      "git_blob_oid_of_actual_bytes": "411979530537839089b4fd2af96d768fdc2b68f4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT_LITERAL41_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 493160,
+      "sha256": "3a3a9b03c28f3cbb2d93738679b38e9acd3c6b443d9d0a7b7df074627bd615ef",
+      "git_blob_oid_of_actual_bytes": "37ba2859e4c14e99c985134f5d1c67d0e673db00"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_SAVED_BODY_AND_EXACT8_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 7149,
+      "sha256": "9c3c3aa454f58a75f6cd7b3d0bcfa8280df8c3f5159abf1c2ea7c7153b6dfac7",
+      "git_blob_oid_of_actual_bytes": "f1bfe1d22588c4f1913c4722415cbdeb10e03e17"
+    }
+  ],
+  "opaque_private_witness_bindings": [
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-898BE9AB4DC5BE434E0F921C",
+      "original_evidence_basename": "BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS_PRIVATE_DRAFT_V2.md",
+      "bytes": 39258,
+      "sha256": "50f49f28176ab401ae92294cc35d81db8f5c70caed644ec37b4d5515bfbbf368",
+      "git_blob_oid_of_actual_bytes": "db2e134563f94774f11117150297f03db68309b2"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-481189AB8C4EFC76371EBF28",
+      "original_evidence_basename": "PUBLISHING_OWN_COMPLETE4_MAINTAINED_ARGUMENT_SOURCE_QUESTION_AND_RECEIVING_V1.json",
+      "bytes": 12274,
+      "sha256": "127b42a30211e7a28afc7175e06ddec3cf11e97961146e95b54122db1292a762",
+      "git_blob_oid_of_actual_bytes": "c32bdef959e186f0550bceb3f4cffc2308776ba8"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-8E5D2E98AF15BFF9941A5545",
+      "original_evidence_basename": "PS01__BLUE_ARCHIVE_RED_WINTER7_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 65295,
+      "sha256": "bcef31e175975f32307d589c151c9b270a72094df084999f92eda5d1b6fa2f57",
+      "git_blob_oid_of_actual_bytes": "4273490bb2734a80c174116cc8cbb20565bfd45f"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-AE04704AAA595FA3F3F984C3",
+      "original_evidence_basename": "PS02__073__EVENT__BLUE_ARCHIVE_EVENT_829_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 28281,
+      "sha256": "57117923544c6b734273ae6cd25ce51f124274a706c2c962acaa6fac1ef36885",
+      "git_blob_oid_of_actual_bytes": "5e68e89102efd8fa610420d572538db07cf35113"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-5BF91A6C157C36B250ECB1AD",
+      "original_evidence_basename": "PS03__BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 38411,
+      "sha256": "14559582a911ee118c9663a60fadaf06193733082b980495f486ed7729098e4f",
+      "git_blob_oid_of_actual_bytes": "98586e8ee96bb670a38425a83a59bb41a61bbac3"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-379951DA2E4545C4AC1171C2",
+      "original_evidence_basename": "PS04__BLUE_ARCHIVE_TAKANE_YAKUMO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 47096,
+      "sha256": "ff7e1d8947fa3f52d3da19ef1d91fa3190bbcb81fceceffaa8b6431eb427b265",
+      "git_blob_oid_of_actual_bytes": "61e370b83fa3362cdadb5d3a85f3f6acdd90b754"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-DECD2CC352394F27A101F369",
+      "original_evidence_basename": "BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS_PRIVATE_DRAFT_V3.md",
+      "bytes": 39346,
+      "sha256": "d0d49c28cfc096d42ef22d2b2131015172d8a0d460e8beeb885b04ec7e005909",
+      "git_blob_oid_of_actual_bytes": "d9a55694b6173802fd2b4d1e4eb17f39e432a1fe"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-8BF16CD8631416D28990ADA7",
+      "original_evidence_basename": "INDEPENDENT_PUBLISHING_CURRENT232_COMPLETE41_BODY_FIRST_LITERARY_AND_THREE_PRECISE_ACTOR_ACTION_LOCATION_FINDINGS_V1.json",
+      "bytes": 185812,
+      "sha256": "44d6d46322fc1842253e4a72083bb0fb838c40624c171c1ca6fa8f67d6e73cdb",
+      "git_blob_oid_of_actual_bytes": "e0192a32e992c7b5c7d5b6d1d79bb65cc9f958e2"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-8EECA8189722D6E08EF1EE56",
+      "original_evidence_basename": "PUBLISHING_CURRENT_V3_THREE_LITERAL_ACTOR_ACTION_SUCCESSORS_AND_EXECUTED_FULL_V2_INVERSE_V1.json",
+      "bytes": 46384,
+      "sha256": "eec5cc1284093922f3b7be7966de5b78d40926a50d9c1ca918516cf9bd51299a",
+      "git_blob_oid_of_actual_bytes": "525ecc65460634bf5504d55d082ad65bf6493da7"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-F7459361EE3D48E0D2260591",
+      "original_evidence_basename": "PUBLISHING_CURRENT41_105_SOURCE4_ONE_WAGE_WORDING_QUALIFIER_AND_EXACT8_COMPONENT_MANIFEST_V2.json",
+      "bytes": 11624,
+      "sha256": "a99604c5d5d6703989c6f7caf0f45ce0f6fe6b73210bdecc8530f464de4e3e9e",
+      "git_blob_oid_of_actual_bytes": "094b58c382d52af5c7debfdf1494b6cde5ad67a4"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-15192ED744B91A4A486F62CB",
+      "original_evidence_basename": "INDEPENDENT_PUBLISHING_CURRENT41_NEW105_SOURCE4_EXACT8_EXECUTED_ALL_FULL_RAW_INVERSES_AND_CURRENT_REFERENCE_GRAPH_MECHANICAL_QA_V1.json",
+      "bytes": 30347,
+      "sha256": "af69f9ae3dd1fdfc2acaf87cc3114014a4c5f2b8ac9013994b81b480f6b9a967",
+      "git_blob_oid_of_actual_bytes": "009a10779f2270a853f4e26afecf0a8a148ebcbf"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-ROOT-ORIGINAL-QA-00",
+      "original_evidence_basename": "INDEPENDENT_PUBLISHING_CURRENT232_COMPLETE41_BODY_FIRST_LITERARY_AND_THREE_PRECISE_ACTOR_ACTION_LOCATION_FINDINGS_V1.json",
+      "bytes": 185812,
+      "sha256": "44d6d46322fc1842253e4a72083bb0fb838c40624c171c1ca6fa8f67d6e73cdb",
+      "git_blob_oid_of_actual_bytes": "e0192a32e992c7b5c7d5b6d1d79bb65cc9f958e2"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-ROOT-ORIGINAL-QA-01",
+      "original_evidence_basename": "INDEPENDENT_PUBLISHING_CURRENT_V3_EXACT3_LITERAL_ACTOR_ACTION_REPAIR_AND_FULL_BODY_RAW_RECOVERY_POSITIVE_QA_V1.json",
+      "bytes": 14550,
+      "sha256": "3a14771226c3bac1c64da9299ae85f3289f6329bd92c9f61904f7f8885b0c9e2",
+      "git_blob_oid_of_actual_bytes": "879ccd96a46073b5daaf4380e013268286457535"
+    },
+    {
+      "opaque_witness_id": "private-witness:PUBLISHING-ROOT-ORIGINAL-QA-02",
+      "original_evidence_basename": "INDEPENDENT_PUBLISHING_CURRENT41_ALL105_NEW_TARGET_MEANINGS_SOURCE4_EXACT8_COMPLETE_LITERARY_COMPONENT_MANUAL_QA_V1.json",
+      "bytes": 205175,
+      "sha256": "d7913e6e35b29cbf033809ad08461a2a25b327db9c3029bb0e69bcd7164a6a6c",
+      "git_blob_oid_of_actual_bytes": "f822c2e3d48610c258d39fb3cf64419d314bed6d"
+    }
+  ],
+  "actual_original_signed_ROOT": {
+    "evidence_id": "ROOT_PUBLISHING_CURRENT232_LITERAL41_NEW105_SELECTED4_EXACTV2_ACTUAL_SIGNED_SEMANTIC_ADOPTION_20261014_V1.json",
+    "bytes": 43197,
+    "sha256": "d6421614877fe38ed6ddf05d1d7bfcdffd7a9416f0e98fbd1c38d02ff3e37b85",
+    "git_blob_oid_of_actual_bytes": "079d6e21fc92b0a5f6d1c633b5880bb1b5d47882"
+  },
+  "complete_current_ROOT_value_only_derivative": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_ACTUAL_ROOT_COMPLETE41_NEW105_SELECTED4_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+    "bytes": 42919,
+    "sha256": "c97d945a630461cce3c4a8c0deb83b360307ea250e37f8d310dbce2838f8a89d",
+    "git_blob_oid_of_actual_bytes": "956c1761db36420194ee20247e0783ca526e1816"
+  },
+  "all11_frozen_input_envelope_custody": "Complete raw originals and exact prior proofs retained privately; three unchanged target-purpose parts preserve all105 full original nested records/scopes. Actual ROOT1977 raw/schema guard closes the prior8; no new source reading from custody.",
+  "source_roles": {
+    "author": "Four whole maintained analytical carriers plus consequential selected E850 at attributed written-report grade.",
+    "ROOT": "Actual signed ROOT selected4 scope and actual whole232 body/full41/new105/currentQA receiving; no transfer of authorwhole4 or primary/native/AV grades.",
+    "common105": "26whole79selected attributed originals; no fresh primary replay."
+  },
+  "all14_gaps": "OPEN",
+  "models": 0,
+  "installation_publication_runtime": "PENDING_SEPARATE_ROOT_GATES"
+}

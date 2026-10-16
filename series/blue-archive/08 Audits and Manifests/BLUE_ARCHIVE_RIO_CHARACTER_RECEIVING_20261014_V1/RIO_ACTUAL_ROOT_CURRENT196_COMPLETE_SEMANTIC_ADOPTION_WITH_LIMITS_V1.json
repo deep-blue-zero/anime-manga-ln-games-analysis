@@ -1,0 +1,600 @@
+{
+  "schema": "ROOT_RIO_CURRENT196_COMPLETE69_ALL105_NEW525_SOURCE11_ACTUAL_SEMANTIC_ADOPTION_WITH_LIMITS_V1",
+  "authority_witness_id": "ROOT_RIO_CURRENT196_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+  "receiver": "/root",
+  "adopted_utc": "2026-10-14T20:50:52Z",
+  "decision": "ROOT_SEMANTICALLY_ACCEPTED_WITH_LIMITS_ACTUAL_ORIGINAL196_69_NEW525_SOURCE11_AND_DISTINCT_COMPONENT_QA_COMPLETE",
+  "authority_scope": "This is ROOT's actual semantic acceptance of the frozen private currentV3 eight-component Rio package, not a cryptographic signature, actual public byte approval, source admission, installation, publication, broad Phase3 audit completion or merge.",
+  "existing_home": {
+    "required_id": "P3-CHAR-RIO-CH0158",
+    "source_responsibility": "P3-F051",
+    "required_zero": 42,
+    "required_ordinal": 43,
+    "CSV_physical_line": 44,
+    "partition_pointer": "/homes/42",
+    "named_duties": []
+  },
+  "accepted_current_manifest": {
+    "path": "private-witness:RIO-LOC-32ae26816acd3d1b2973",
+    "bytes": 52478,
+    "sha256": "0b32946e2a8e9acfdd52874092a0664e1bf588fbd38f61c73e93f4fb89d714c0",
+    "role": "Fixed exact70 receiving manifest; original current8 authority is24711/283cbe8e inside it."
+  },
+  "original_body": {
+    "bytes": 58578,
+    "sha256": "86933c0d358ff8416e56dc06aa4c30e97c5b23bd51d433c7c7fbd2bd32a67e1e",
+    "git_blob_oid_of_actual_bytes": "3a6b0212abca02cbd4704d4ca0fe2d498f561db1",
+    "physical_lines": 196,
+    "literal_paragraphs": 69,
+    "two_trailing_LF": true
+  },
+  "current_component_review": {
+    "bytes": 502029,
+    "sha256": "9c216f932e30bbeb97c562e529859751c80021f4dcc113f9a1aa616859caa6a1",
+    "git_blob_oid_of_actual_bytes": "1141c36f74bb9f2754c639a4f1241fe7261b2286",
+    "decision": "PASS_WITH_LIMITS_CURRENT_V3_COMPLETE69_ALL105_NEW525_SOURCE11_EXACT8_LITERAL_COMPONENT_AND_FULL_ORIGINAL_PRESERVATION_REVIEW",
+    "role": "Actual different-author review, personally received by ROOT; no source/meaning credit inferred solely from PASS."
+  },
+  "actual_personal_receiving": {
+    "body": "Whole current196/69 through EOF; no missing/clipped spans credited.",
+    "new105": "All105 full genuine current Rio-specific five-field values525, all105 actual componentQA full own reasons/dispositions; complete ordered metadata reuse proven. Not freshnormal105.",
+    "literal_register": "All69 exact register/source/question/limit/role values and actual componentQA own reasons/dispositions. All708 ordered target-purpose joins and full19 source-answer reference routes were personally received with exact equality proofs.",
+    "core_source11": "Nine newly whole maintained2161 physical lines plus two previously personally whole maintained382, total2543 distinct core lines. Exact source copies/tuples/scopes verified; underlying primary/native/raw/AV claims stay attributed.",
+    "counter94": "Own selected maintained E850L81–100 received at exact a5ea335d... tuple separately; Miyo's refused requested reading access is actual correct comparison, not a twelfth Rio core admission.",
+    "body_QA": "All69 literary own reasons, actualmethod16,11tracks,8rivals,endpoint16 literalspans with one real aggregate and all14 OPENgap control. No invented individualgap or endpointQA rows.",
+    "controls": "Complete current502029 uniquecontrols +20 full data pages recovered seven whole ordered bodyQA/author manifest/closure/source1/index/localrole/transport objects; full current grades/stages/status history preserved.",
+    "original_report_reuse": "Whole accepted original common105 report meanings and narrow qualifier61767six/59334oldGSC16 retained as exact prior received report scope. Full frozen historical bodies and encoded raw custody are not new source reading."
+  },
+  "actual_source_grade_separation": {
+    "author": "9NEW_WHOLE2161+2PRIOR_WHOLE382 maintained=2543",
+    "ROOT": "9NEW_WHOLE2161+2VERIFIED_PRIOR_WHOLE382 maintained=2543; separate selectedE85020",
+    "body_reviewer": "8WHOLE3SELECTED maintained=2290, distinct fromauthor andROOT",
+    "original_normal105": "Original26WHOLE79SELECTED attribution only, not new ROOTprimary/normal105 inspection",
+    "performed_voice": "NOT_INSPECTED",
+    "new_primary_native_raw_AV_source_admission_identity_model": 0
+  },
+  "own_full69_acceptance_reasons": {
+    "1": "One existing character duty and eleven maintained carriers frame a portrait; new comparison purposes supplement the body without creating primary, native or performed evidence.",
+    "2": "The source envelope supports depth at bounded extents, with body-first stages dated. It supplies neither an exhaustive appearance census nor a complete chronology, restitution or model.",
+    "3": "Specific corrections to Rio's plans have separate agents and sources. O087 is direct only through S08; Izuna's comparison and warmth cannot exhaust the other recipients' objections.",
+    "4": "P03 belief revision, P06 renewed hacking and W02 written demands remain different acts. The accepted taxi is a real alternative without permanent ethical reliability.",
+    "5": "Unused making relief and self-proof share a grounded interpretive problem. Rio's art inference remains fallible, and neither Airi's belonging nor Eri's imperfect art cures her anxiety.",
+    "6": "Ordinary and technical successes coexist with continuing objections under distributed authorship. Kazusa's gratitude comparator illuminates this coexistence without settling all concerns.",
+    "7": "A cleaned room, maid aesthetic and human Alice recognition differ from proposed consultation. Comparison roles cannot stage a costume vote, resize or mass production.",
+    "8": "Cleaner function, failed-borrowing report and untried avatar have different outcomes. Performance comparisons do not supply a tried social encounter or a universal calendar.",
+    "9": "Actually completed printing and relief matter despite no use. All linked ordinary comparisons remain contextual rather than product quality, fulfilled nearby time or universal benefit.",
+    "10": "The actual shopping, serving and eating give particular warmth in a middling meal. Food comparisons add no nutrition assay, exceptional taste or clinical temperature.",
+    "11": "Reported machine improvement and agreement to meal intervals differ from observed repetition. Later care remains conditional without an exclusive dependency or performed routine.",
+    "12": "The E125 source directly supports Rio's written happiness and reported crest procedure. Other gifts cannot verify manufacturing, reinstate office or speak for every recipient.",
+    "13": "Withheld card terms and partial cleaning remain beside locally requested contact, assent and actual dinner. Conditional future company supplies neither unrestricted access nor completed deletion.",
+    "14": "Different explicit domestic, protective and aesthetic goals retain their contexts. O087's event evidence is a comparison outside this S01 clause rather than an additional direct witness.",
+    "15": "A participation need is inferred from particular requests and self-proof, not diagnosed. Wanted company and finite agreement do not prove helpless dependency or resolution everywhere.",
+    "16": "Real hazard and fear do not certify an exclusive remedy; promised HMD effort does not measure acceptable risk, clinical safety or everyone's informed assent.",
+    "17": "S08 and V002 sacrifice proposals exclude collaborators before correction. Sincere remorse remains meaningful without malicious-indifference caricature or completed accountability.",
+    "18": "Actual and reported peer reactions differ. O021 is comparative outside its S04 source while O087 is direct through S08; neither disagreement nor welcome establishes unanimity.",
+    "19": "The distributed V002 rescue and losses precede resignation, disappearance and apology. Ordinary return does not hold a hearing, audit spending or settle Rio's whereabouts.",
+    "20": "Useful data and a reported free-life instruction are distinct from an unidentified AMAS operator. Later remote help cannot backfill early physical attendance or repair Toki's relationship.",
+    "21": "S02's later interface, criticism and Alice/Kei choice achieve a local breach before takeover and damage. Event854 compares across sources and supplies no full-world success.",
+    "22": "Suppression is temporary and Toki's requested code is denied. Toki's employment/escort reports retain her agency without completing Rio's personal afterstate.",
+    "23": "Event843 agreement and Event854 aid extend the repertoire with local temporal limits. Event825 remains a comparison, and prototype loss/open reversal do not clear earlier obligations.",
+    "24": "Source-local callbacks and before/now relations have limited chronology. The written70000 label remains distinct from the80000 gift, without silent normalization.",
+    "25": "Ordinary failure and public coercion have different consequences while both are character evidence. Their difference in stakes permits neither dismissal nor identical ethical scale.",
+    "26": "Reported hidden-location hacking produces actual delivery and waiting burdens. Refusal of more hacking and a taxi alternative do not cancel costs or authorize all secrecy.",
+    "27": "Profile conditionals and lotteries are written possibilities, with actual direct source basis despite no common-purpose link. Self-questioning does not make all private behavior reformed.",
+    "28": "Gift happiness, art relief and stew warmth are substantial finite affective outcomes. They do not audit production, acquit public conduct or enact obligations owed to others.",
+    "29": "The crest's institutional meaning is Rio's self-account with exact direct E125 support. Separate title/resignation modes do not reconcile a calendar or establish school-wide doctrine.",
+    "30": "Noa's attributed instruction is a direct reported Rio trace through Group310, without attendance. A hedged favorable coda cannot validate a predictor or repair the whole budget.",
+    "31": "V002 records, diverted funds and distributed failure ground institutional costs. Group310 is comparative here, and insecurity or apology cannot substitute for inquiry and accounting.",
+    "32": "No-force terms, actual agreement and unpacking are the Event843 positive. They neither fulfill a whole week nor restore a permanent office, and work as a social pretext remains criticizable.",
+    "33": "A conditional written base reference and an attempted souvenir differ from actual enrollment, which is refused. Offered generosity cannot prepare the gift or repair the entire school.",
+    "34": "Technical achievements and reports have distinct warrants across sources. Event854 is direct through S09 and Group310 comparative; neither establishes a general score or exclusive necessity.",
+    "35": "The device's danger is real while a sole destructive remedy is unproved. Costly plural alternatives do not erase danger or make every actor prescient.",
+    "36": "Protocol choice and retained criticism support specific cooperation under safeguards. Event854 is cross-source to the Final clause, with takeover, whereabouts and broader duties unfinished.",
+    "37": "Back-only terms, monitoring and cooling are one recipient's negotiated test. Event854 is comparative outside this clause, so another ejection report cannot certify this suit or general bodily access.",
+    "38": "Remote failure precedes actual arrival, with HMD assurance bounded by inference and effort. Yuzu's co-design differs from surprise deployment and protest; suitability does not give advance assent.",
+    "39": "Prototype destruction, reported safe ejection and particular later satisfaction are separate outcomes. The encrypted invitation and beginning reversal leave voice identity, clinical safety and victory open.",
+    "40": "Rio's declaration of irreplaceability coexists with burden and adult refusal. Eimi's contribution is Rio-reported and provides neither romance nor a complete reliance model.",
+    "41": "Fallible recipe help and specific reframing retain mutual agency and conditional time. The QA's held94 wording is an unchanged earlier reason qualified by currentV3 correction, not a remaining current finding.",
+    "42": "Back-test, proximity and contact have local terms; withheld card questions cannot become a mutually understood promise through a wish for sincerity or later pleasure.",
+    "43": "Actual written gift happiness and reported influence are direct E125 evidence, with alternative choices kept separate. They cannot date every future decision or enact restitution.",
+    "44": "Adult relations occur within peer and coalition work. Actual adult/Kei touching or thanks objections retain those actors and do not invent Rio's bodily act toward them.",
+    "45": "Himari criticizes and helps, Eimi supplies hardware and Rio infers another's likely intervention. Local apology and directS09 help do not settle liability, durable reconciliation or HMD safety.",
+    "46": "Real coercion and later human/StrongAI interpretations have moral force without solved ontology. Alice's chosen identity and relationships remain meaningful with uncertain origin.",
+    "47": "Toki's instruction report, code dispute, employment and hobbies differ by context. DirectS09 evidence and comparativeEvent825 do not turn Rio's report into Toki's doctrine or a repaired duty.",
+    "48": "Neru's limits and Karin's information request are separate voices, with C&C's own labor preserved. DirectS08 company does not create a collective mind, unlimited availability or sole-adult authorship.",
+    "49": "Seia's self-proof is her judgment despite known peer disagreement; Rio recognizes rather than clinically fuses their problems. Hurt, initial refusal and no-force company remain simultaneous evidence.",
+    "50": "Yuuka/Noa's resource acts and Koyuki's solve report retain separate authors. Successful work and the company comparator do not grant general forgiveness or turn a funding report into attendance.",
+    "51": "Yuzu's skill, design feedback, protest and joy are all meaningful. DirectS09 pilot suitability and ejection report cannot replace notice or supply retrospective consent.",
+    "52": "Rio-reported Eimi remarks differ from Eimi's own cold/peace desires and intervention. QualifiedE831 stays comparative, with recipient cooling preferences neither shared doctrine nor Rio's taste.",
+    "53": "Technical language and analogies are written audience responses without inspected delivery or validated mechanisms. The retainedheld94 QA phrase is dated by the currentV3 corrected counter and zero-finding decision.",
+    "54": "Proof and qualification language is owned by each speaker. DirectS08 and Anna/Elina comparisons preserve distinct motives without a fused diagnosis or one authoritative moral voice.",
+    "55": "Conditional and seasonal UI forms do not date enacted encounters. Repeated selectors, empty profiles and literal70000 remain documentary distinctions with actual literary value.",
+    "56": "Consequential AMAS/composite seams, alternatives and inner thought remain at their actual modes. Thematic fit and stylistic plausibility cannot repair native attribution or make thought heard.",
+    "57": "Toki's provisional games and danger coping remain hers; Rio's design and gift humor retain intrinsic pleasure. DirectS09 context does not make every joke harmless or explain all ordinary humor as coping.",
+    "58": "Explicit revision, taxi response, help seeking and making defeat total stasis. They do not erase repeated control or establish stable reform in every setting.",
+    "59": "Hacking, opaque terms, unilateral planning and surprise pilot defeat total redemption. Unpacking and ejection remain positive with neither completed week nor retrospective permission.",
+    "60": "Taste, gift emotion, unused making and warmth defeat an emotionless-optimizer portrait. Technical affection remains compatible without a comprehensive emotion theory or universal motive.",
+    "61": "Both omniscience and incompetence omit local contrary facts. Group310 is comparative outside this clause; domain success/failure never measures a global capability or prediction rule.",
+    "62": "Protective intent cannot excuse coercion and pure cruelty omits fear, remorse and care. Ethical judgment separates motives and acts without diagnosis or completed accountability.",
+    "63": "Peer labor, refusals, Alice/Kei choices and Rio's requests prevent a sole-adult explanation. Helper pleasure and real adult support remain without authorship of every correction or cure.",
+    "64": "Written title, finite stay, refused enrollment and recognition have different modes. Group310 is comparative andS08 direct, while stronger office/ontology claims remain unproved rather than negating local recognition.",
+    "65": "Timer interruption, agreement and the beginning reversal have different endpoints. DirectS09 open battle does not restore everything, while each local positive retains its proper value.",
+    "66": "Eleven source routes preserve reported funding, one particular gift and separate event endings. The synthesis binds disclosed maintained scopes without overwriting other actors' knowledge or chronology.",
+    "67": "The endpoint synthesis separates completed printing/meal/taxi/unpacking from technical and affective reports. No adjective or pleased coda completes a larger unobserved outcome.",
+    "68": "Each stronger office, chronology, health, ontology, native or performance claim needs allocated evidence. Original14 gaps remainOPEN while ordinary repertoire adds depth without closing unrelated duties.",
+    "69": "One existing character portrait is a literary argument with fixed duties and source limits. It supplies neither a prediction, extra named home, acceptance count, model or merge authority."
+  },
+  "own_full105_target_acceptance_reasons": {
+    "0": "Gourmet's ordinary sensory enjoyment provides a bounded comparator for Rio's actually eaten stew and warmth; no Gourmet presence, common chronology or nutritional guarantee follows.",
+    "1": "Delegated café acceptance and enjoyable service coexist with Neru's refusal of permanence; Rio's aesthetic classification and week agreement establish neither clothes borrowing nor reinstatement.",
+    "2": "Nodoka's wanted telescope, pudding and place retain independent value; pressured mascot participation and restored administration cannot establish unforced consent or telescope repair, and Rio's week has separate terms.",
+    "3": "The effective modification and craft pleasure do not authorize concealed use of Neru's property. Rio's reported upgrade and printer completion remain distinct technical outcomes without borrowed weapon harm or safety.",
+    "4": "Accidental publication differs from deliberate falsification; the false weight is no bodily fact. Rio's secrecy and accepted taxi are locally consequential without established deletion, secure access or complete authority repair.",
+    "5": "The inspection precedes a different drink and recipients respond differently; Rio's warmth and cooling are positive particular outcomes without a general clinical or food-safety warrant.",
+    "6": "Wanted visits and offered care retain value beside surrender, injury and unequal knowledge. Back-only permission cannot authorize another test or Yuzu's pilot role.",
+    "7": "Tsurugi's happiness and other peers' unease are different responses. Rio's no-force agreement must retain its own terms rather than inherit compulsion or unanimous welcome.",
+    "8": "Ibuki's cocoa wish, Iroha's deductions and proposed allocation are separate acts. Noa's funding report and an EXPO duty suggestion cannot enact Rio's return or a common fiscal policy.",
+    "9": "Conversation and holiday rest matter independently; a true discovery, later rescue and offered feeding do not erase refusal or prove completed swallowing. Rio's contact remains scene-specific.",
+    "10": "Ayane's believed ordinary task differs from the seniors' wrong-site combat. Yuzu's feedback and protest require actual supplied information; technical aptitude and quoted agreement cannot settle authorization or liability.",
+    "11": "Aru's accurate refusal and vow remain meaningful alongside untested future behavior and disproportionate means. Rio's principle revision and renewed hacking support a mixed account, not total reform or pure cruelty.",
+    "12": "Inviting, permitting and implementing are different stages. Rio's making and conditional company are intrinsic goods without procurement, economic revival or a completed week.",
+    "13": "A maker's predicted praise differs from actual rebuke and reported completion differs from contest success. Rio's local gift response and relief do not certify universal product quality.",
+    "14": "A prior refusal does not fix a later answer; renewed invitation, sleep concern and Rio's departure limit retain time-specific agency. Future contact requires a fresh answer.",
+    "15": "Yuzu's limited attendance, later volunteered skill and rejected fame are separately warranted. The prior whole comparator is attributed separately; aptitude or later joy cannot retroactively authorize surprise piloting.",
+    "16": "Hospitality and privacy coexist with guessed contents and persistent misunderstanding. Rio's hidden location and withheld card questions remain unknown without treating privacy as proof of deception or legitimate hacking.",
+    "17": "Wanted rest and helpful competence coexist with unauthorized departure, damage and suspension. Neither success nor a retrospective alternative proves Rio's necessity, proportionality or restitution.",
+    "18": "Embedded fiction, authored advocacy, proposed burning and narrated ashes have different channels and actors. Rio's thought experiments and source-label seams cannot be resolved by thematic fit.",
+    "19": "Appreciated small care and actual welcome matter before formal recognition. They support Rio's modest care and company without a charter, reinstatement or imported intimacy.",
+    "20": "Ration preferences, watch relief and solidarity do not distribute an unwanted disposal burden equally. Rio's logistics and pilot allocation need recipient knowledge, choices and actual afterstate.",
+    "21": "Noa's attributed instruction gives a reported Rio institutional trace, not Rio's attendance. The made device and hedged favorable coda must remain positive without validating a predictor, blueprints or general budget repair; author and reviewer whole/selected grades differ.",
+    "22": "Chise authors her preparation and personalized thanks while covert protection remains unaccounted for. Rio's chosen crest and wanted company do not authorize surveillance or prove uniform gratitude.",
+    "23": "Baseball Rei's requested training and enjoyed break precede a method-specific refusal. This tests Rio's test/pilot terms without machine activation, achieved home run, observed departure or a diving-Rei identity join.",
+    "24": "Kisaki's rest and exercise differ from observers' projected disciplines; Kokona requests participation and Kisaki permits it. Corrected actors and finite apology remain, without measured growth or imported recipient motives.",
+    "25": "The operative qualification retains Meg's remembered comfort, Kasumi's enabling of chosen work and Hina's two distinct gift responses. Neither clinical revival nor a universal price rule or unnamed-group identity follows.",
+    "26": "Temporary support and gratitude have value even when workload and stress persist. Rio's meal, gift and dinner remain positive without a clinical chart, completed future outing or responsibility closure.",
+    "27": "The exact whole E125 supports Rio's chosen crest, claimed making and written happiness. Broader independent Valentine reports have a separate grade; no whole80000 credit, universal safety or shared transformation chronology follows.",
+    "28": "Independent gifts preserve differing labor, rest, privacy and terms; event-local Kei's later allowance does not erase an earlier retrieval demand. Rio acquires no past-life recovery, uniform price measure or resolved identity from comparison.",
+    "29": "Izuna's ordinary wishes and later rescue retain her agency and plural helpers after exploitation. Rio's free-life instruction cannot prove lasting autonomy, membership or restitution.",
+    "30": "Restored command and concessions coexist with postponed benefits and renewed exclusion. Rio's remorse or offered role does not enact welfare, rights or office return; Event802 rescue must not move to806.",
+    "31": "Seaside beauty and local help coexist with individual fatigue, incomplete cleanup and unmet wishes. Rio's companionship needs actual individual choices, and photographs or recollections cannot prove universal consent or one chronology.",
+    "32": "Hina's stated leisure wishes differ from Ako's interpretation and others' objections. Unperformed dance/training and reported success cannot authorize Rio's hidden demands; ordinary pleasure is not automatically crisis coping.",
+    "33": "Shun's continuing care needs and chosen return remain agency-bearing despite changed form. Rio's revision receives no clinical mechanism, age claim, Alice ontology, complete forgiveness or erased privacy costs.",
+    "34": "C&C role pleasure and dressing help differ from forced laughter and captive refusal. Conditional release and an unexecuted rescue remain separate; no Rio attendance, recovered uniforms or802 action transfers.",
+    "35": "Written Miku joy and rhythm difficulty retain their literary value without inspected performance, tuning success or identity/ontology joins. Rio's untried avatar and technical descriptions remain limited to their own mode.",
+    "36": "Baths, craft, warmth and company survive actual material loss as positive goods. Limited later permission and a concession do not establish prior consent, rebuilt housing, repayment or Rio's attendance.",
+    "37": "Recovering an empty safe and renewing an offering are real endpoints beside exhausted labor and unrecovered funds. Rio's thanks cannot deliver future rest, food or legal settlement.",
+    "38": "Each gift has its own purpose and recipient: keeping differs from installed display and sharing from completed viewing. Prior93-owner reception remains attributed, not fresh whole consumption or blanket bodily consent.",
+    "39": "Situated trust, maintenance and walking company differ from general reform. After-jamming messages are not physical presence, and given-held chocolate is not eaten; Rio gains no romance or technical assurance.",
+    "40": "Ui's actual iced-Americano request controls preference; accepting cake does not establish liking it. Restoration and accountability matter without environmental causation, universal welcome or full duty repair.",
+    "41": "Ibuki's own trust differs from Michiru's forecast; E017's plan precedes E018's actual plural rescue. Future goods and reported toy receipt cannot enact club recognition, payment or universal prior knowledge.",
+    "42": "Shiroko's wanted fishing remains meaningful although the rod is ruined and fishing is not completed. Serika's defended noncash prize and others' costs qualify universal leisure; no fresh global absence census is claimed.",
+    "43": "An enacted feast and fulfilled substitution are positive actual stages, distinct from uninspected title, refunds and offered bites. Rio's local agreement and crest cannot restore office or fulfill every promise.",
+    "44": "Kazusa initiates uncertain consultation and offers a drink; small help and relief matter before crisis resolution. Alternative responses, tolerated jokes and an unwatched video cannot supply unlimited availability or a solved stalker problem.",
+    "45": "Kazusa asks unwanted challenges to stop without punishment. The helper's preferred force must answer that goal, while Reisa's interruption supplies neither motive, first blow nor formal mandate.",
+    "46": "Kazusa uses escape skill and checks Sensei's safety, then discloses relevant past conduct. Neither retained skill nor embarrassment proves a permanent violent essence; object provenance and Rio's forgiveness remain unproved.",
+    "47": "Kazusa's stop-question request and Suzumi's partial institutional knowledge preserve present boundaries. Respect and helpful explanation cannot grant unrestricted access, benign authority or complete motives.",
+    "48": "Reisa's local solution is her capable act; expected backup still matters without authoring it alone. Actor-owned forecasts, corrections and unstable tags cannot diagnose Rio or prove universal recognition.",
+    "49": "Offered belonging has value before complete disclosure, yet a dropped photograph remains a privacy problem. Metaphor and protective intent cannot settle Alice's ontology or authorize exposure.",
+    "50": "Kazusa's self-account and continued work coexist with shame and specific privacy failure. Rio's cooperation does not establish acquittal, restored trust or a permanent diagnosis.",
+    "51": "Comforting intent meets Kazusa's actual rejection of a role and demand for correction. Maker pleasure cannot authorize Rio's surprise or another person's identity description; unstable tags and labels remain unresolved.",
+    "52": "Kazusa's gratitude and nondisclosure objection occur together. Rio's help can remain valuable while its means remain contested; collective aid, silence and future boundaries cannot establish completed repair.",
+    "53": "A sincere cessation promise is a real local choice even when a later challenge recurs. Rio's renunciation needs later practice without a fixed-essence verdict or retrospective erasure of the choice.",
+    "54": "Attachment, letter handover and intended distance coexist without completed withdrawal. Assumed responsibility and sacrifice are not verified causal blame or the recipient's forgiveness; lay comfort is not clinical clearance.",
+    "55": "Kazusa initiates inquiry while irritation persists. Concern is not romance, universal trust, a heard inward warning or an already completed rescue; Rio's peer concern need not erase criticism.",
+    "56": "Coordinated commitment contains different goals, play and refused friend labels. Rio's crisis help has distinct coauthors; expected police testimony and future rescue cannot establish jurisdiction or universal agreement.",
+    "57": "Real arrival and protected nondisclosure coexist with continued humiliation. Later aid or joy cannot supply prior pilot consent; bomb placement and lay health appraisals do not certify safety.",
+    "58": "Retreat, care debate, returned letter and offered food are separate stages. Rio's warmth does not perform the proposed meal, complete an arrest or establish medical protocol and settled companionship.",
+    "59": "Remembered cake, friends and warmth meaningfully motivate ordinary life without sole-adult causation. Mixed gratitude and criticism remain; unnamed identity, date and clinical interpretations are not supplied.",
+    "60": "Actual club routine and renewed contest retain both pleasure and a failed permanence prediction. Collective rescue is not reported solo heroism, and return does not complete eating, stable friendship or Rio's reform.",
+    "61": "Client requests and recipient objections constrain maker enthusiasm. The particular Utaha gakuran does not fulfill imagined cheers or everyone else's costume wishes; Rio's competence needs actual consultation and worker afterstates.",
+    "62": "Hasumi's worst-and-enjoyable appraisal and useful-difference coaching preserve mixed experience. Sixth place is not total failure; workers' hunger and contrary voices prevent universal enjoyment or clinical/institutional assurance.",
+    "63": "Mine's equal-care purpose and actual disclosure/party coexist with obstructed explanation and harm. Interpreted assent, pressure and treatment reports cannot absolve Rio's means or prove restitution and durable reform.",
+    "64": "Fuuka's later chosen cooperation is meaningful while earlier commandeering remains unauthorized. Rio's later pleasure cannot supply prior permission, payroll, contract execution or all-ingredient safety.",
+    "65": "Specific reported operational completions remain positive through recurrence, with ordinary coalition life also meaningful. Technical mechanism, composite actors and duration cannot establish sole cause, universal assent or permanent safety.",
+    "66": "Intermittent communication differs from lasting control or bodies; represented opening is a particular act. Repair states and shared keys cannot join ontology, and Rio's remote contribution does not complete evacuation or deferred conversation.",
+    "67": "Warmth, ordinary wants and plural aid challenge an abstract sacrifice remedy without establishing cosmological cause. Self-blame and a wished absence of a scarf cannot authorize elimination or certify durable recovery and a full safe roster.",
+    "68": "Civic requests and reported aid enable work while suspension remains. Resource availability is not payment, promises are not restoration, and urgency is a character priority rather than a reason to discard ordinary evidence.",
+    "69": "The prior whole Event825 comparator preserves Toki's actual invitation, play and shared responsibility. It is not direct Rio E843 or a new normal pass; later enjoyment cannot supply earlier stakes disclosure or payments.",
+    "70": "Cooking, particular tastes and an actual apology/banquet remain positive beside secret use of Kokona and unpaid costs. Formal apology cannot perform further apologies, childcare reform or Rio's structural repair.",
+    "71": "Qualified RABBIT, coastguard, fisher and cargo roles retain temporary work and hospitality. Saki's refusals survive the meal; delivered shrimp cannot complete inspection, grounding, legal punishment or safe reopening.",
+    "72": "Ui's chosen capsule companionship has intrinsic value without recovered writing or authenticated intent. Rio's unused making needs no public utility, and coffee or thanks cannot erase visitor limits or perform future plans.",
+    "73": "Mel's chosen completed manuscript differs from refused appropriation and imposed themes. Restored friendship leaves Momiji's objection intact, with printing/sales/rights unresolved; Rio's creation does not authorize others' use.",
+    "74": "Hasumi's droppable rest request and Ichika's refused affiliation preserve exact optional terms. One off-ramp or food promise cannot authorize unrelated acts, guarantee safety or fulfill Rio's week.",
+    "75": "Sensei owns the opening rest scene; visitors' fatigue and Eimi's entrusted object remain different. Valuing a trace despite incomplete comprehension does not certify repair, erased memory, reunion or shared bodily preference.",
+    "76": "A later voluntary continuation can be real despite an initially imposed outing. Actual sunrise and cocoa do not establish initial consent or erase burdens; game fitness numbers are not real bodily improvement.",
+    "77": "Accepted responsibility precedes represented musical reception. Written approval is not heard audio; ordinary clothes/play/cocoa coexist with refusal and transferred costs, without legal dissolution or repaired budgets.",
+    "78": "Distinct gifts stop at different terminal acts, and work/escape testimony leaves contractual limits. Rio's object completion, consumption or universal reception must use its particular witness rather than the warm aggregate.",
+    "79": "Umika's chosen hosting and a completed trip coexist with timetable error, sabotage and lost time. Qualified school-trip actors do not become river/Ninja practice, and pleasure cannot establish zero-cost planning or sole-adult success.",
+    "80": "Wanted presence before superior skill supports noninstrumental belonging and Rio's unused making. Airi's hostile self-talk is not peers' belief, semla theory is false, and alternative endings do not form one biography.",
+    "81": "Kanna's service wish, actual protection and a child's thanks do not excuse earlier restraint or accusation. Algorithmic appraisal differs from recipient testimony; injury-free outcome, restitution and Rio's office return remain unproved.",
+    "82": "Different Arius wants and Saori's own stage pleasure matter despite livelihood uncertainty. Misaki's objections, Hiyori's photo choice and absent Azusa prevent uniform mood, camera consent or automatic redemption.",
+    "83": "An invitation to Kisaki as head does not welcome an entire school. Broad reported outcomes remain while the explicit fine L126 attribution is deferred; medicine, food and one apology cannot certify cure or universal assent.",
+    "84": "Unchosen office does not erase actual decisions; Kisaki refuses a cure bargain and Kaguya chooses bounded maintenance while rejecting headship. Medical claims and observed poor condition prevent harmlessness, permanent cure or Rio's reinstatement.",
+    "85": "Mari can value a chosen week and choose its end; private picture giving does not permit public circulation. Rio's interval affection cannot extend its term or establish completed disposal and future image consent.",
+    "86": "Specific accepted gifts and games are actual goods while concealed fear, pressured recording and continuing work remain. Rio's opaque questions do not gain surveillance permission, privacy repair, poison proof or romance from enjoyment.",
+    "87": "Seia's self-proof is her judgment, and Rio recognizes a pattern while peers impose information and action limits. The actual no-force week agreement is direct Rio evidence but not a completed week, permanent office or erased earlier hurt.",
+    "88": "Juri's chosen work, protected Fuuka rest, practice and explicit refusal option precede actual shared eating. Other harm remains; Rio's meal cannot enact later rest or safe future cooking and Hina's command stays operation-bound.",
+    "89": "A singular actual victory, Rei's club choice and Sumire's clothing memory matter independently of a stable rank. Later machine defeat and bodily objections do not negate success or certify every means.",
+    "90": "The recipient's intact-pizza standard differs from speed alone. Aoba's refusals and actual stopping/handover constrain Rio's technical care, with medicine/dinner merely offered and infrastructure still unproved.",
+    "91": "Initial gathering agreement is not informed beach permission; later chosen activity remains positive without retroactive assent. Disclosure pressure and injury risks survive pleasure and no CPR, cure, payment or full restoration follows.",
+    "92": "Mika's leisure and safety withdrawal coexist with others' quiet, schedules and volunteered help. Seia has not consulted Nagisa and atonement does not structurally relieve work; linked helpers are not all present.",
+    "93": "Eri's imperfect art and peers' liking need no instrumental payoff. Rena's refused danger and later chosen bell role differ; illumination does not establish a mechanism, unanimous assent or erased detention.",
+    "94": "Miyo refuses Teacher's requested access to reading wanted romance novels, not authorship or writing; the actual maintained L98 and current QA exception qualify all five fields. Wild Hunt actors, Ritsu's sculpture interests and unpaid outcomes remain distinct.",
+    "95": "Suzumi previously joined and left JTF rather than failed admission; chosen patrol and ordinary memories do not confer a license. Touch objections, Love's actual/faked results and the electricity qualification survive enjoyment.",
+    "96": "Takane's false persona does not nullify real literary skill or finite shelter. Read 'starvation leverage' under the actual QA's report-grade foodlessness bargaining limit, without inventing a deliberately withheld meal; ratio and future duties remain unprinted.",
+    "97": "Tsukuyo's wanted today-only performance and chosen return are not a permanent profession or Rio's untried avatar. Actual dress gifting differs from rental, with filming permission and uploads incomplete.",
+    "98": "Rio's actual help after remote failure has plural technical authors and uncertainty. Yuzu's co-design and later pleasure do not supply advance piloting assent or clinical safety; objections keep their adult/Kei actors and reversal only begins.",
+    "99": "Actual cooking and protection remain valuable under incomplete cause knowledge. A confession explains only its named acts, while watcher and date seams remain; Rio's comfort cannot certify a mechanism, universal assent or complete safety.",
+    "100": "Recipient-sensitive tea, cooks' refused demands and Kokona's different refusal/permission stages preserve agency. Kanae's collapse and late medicine defeat universal rest and clinical assurance; Rio's company cannot resolve shifted labor.",
+    "101": "Particular rescue and replacement-boat compensation acknowledge memory beyond price. Attack orders, blame, unresolved pirates and dream-qualified play prevent safety guarantees, inspected budgets or universal image permission.",
+    "102": "Minato's curry and navigation refusal give a finite comparison with distinct work and aid. Offered dissolution and anticipated unasked refusal do not enact emancipation, cancel debt, identify a rescuer or bridge MAIN animal history.",
+    "103": "Anna's public-failure fear and fuel use differ from Elina's admitted projection. Actual craft and local apology coexist with later hurt and unperformed race/repair; Rio and Seia do not acquire one shared psychology.",
+    "104": "Miniature completed acts and finite goods are retained without a stakes threshold or endless repayment duty. Sora's wage motive proves neither paid nor unpaid wages, and producer primary/reuse grades remain attributed rather than ROOT consumption."
+  },
+  "own11_track_judgments": [
+    {
+      "track": "core_thesis",
+      "claims": [
+        "RIO-P003",
+        "RIO-P004",
+        "RIO-P005",
+        "RIO-P006"
+      ],
+      "reason": "Rio can explicitly revise fear and control while wanting company and making for pleasure. Later burdens prevent declaring a permanent conversion; ordinary creation also prevents defining her only by misconduct."
+    },
+    {
+      "track": "longitudinal",
+      "claims": [
+        "RIO-P019",
+        "RIO-P020",
+        "RIO-P021",
+        "RIO-P022",
+        "RIO-P023",
+        "RIO-P024"
+      ],
+      "reason": "V002 danger/coercion, early Final reports and unknown AMAS operation, later chosen remote cooperation, event agreements and unresolved endpoints form different local sequences. Later knowledge cannot prove earlier operation or a whole source calendar."
+    },
+    {
+      "track": "public_private",
+      "claims": [
+        "RIO-P025",
+        "RIO-P026",
+        "RIO-P027",
+        "RIO-P028"
+      ],
+      "reason": "Private technical failure and public coercion share some habits but differ in affected people, power and consequences. Intrinsic giving and warmth enrich the comparison without settling accountability."
+    },
+    {
+      "track": "school_club",
+      "claims": [
+        "RIO-P029",
+        "RIO-P030",
+        "RIO-P031",
+        "RIO-P032",
+        "RIO-P033"
+      ],
+      "reason": "Rio's Millennium self-account, reported funding instruction, others' actual resource intervention and no-force agreement support school belonging at distinct grades. They prove neither attendance at Group310 nor restored office nor a completed week."
+    },
+    {
+      "track": "ordinary",
+      "claims": [
+        "RIO-P007",
+        "RIO-P008",
+        "RIO-P009",
+        "RIO-P010",
+        "RIO-P011",
+        "RIO-P012",
+        "RIO-P013"
+      ],
+      "reason": "Design tastes, awkward communication, printing, stew, gifts, tidying and chosen contact are positive character evidence in themselves. Product quality, nutrition, routine duration and withheld card answers remain bounded."
+    },
+    {
+      "track": "crisis",
+      "claims": [
+        "RIO-P034",
+        "RIO-P035",
+        "RIO-P036",
+        "RIO-P037",
+        "RIO-P038",
+        "RIO-P039"
+      ],
+      "reason": "Competence and failure are recipient- and scene-specific. Real hazard does not prove an exclusive remedy; engineering cooperation does not establish advance pilot consent, medical safety or final victory."
+    },
+    {
+      "track": "Sensei",
+      "claims": [
+        "RIO-P040",
+        "RIO-P041",
+        "RIO-P042",
+        "RIO-P043",
+        "RIO-P044"
+      ],
+      "reason": "Specific wanted company and adult fallibility matter alongside hacking burdens, separate contact permissions and withheld meanings. The adult does not author every feeling or every peer intervention; Kei's objections stay hers."
+    },
+    {
+      "track": "peers",
+      "claims": [
+        "RIO-P045",
+        "RIO-P046",
+        "RIO-P047",
+        "RIO-P048",
+        "RIO-P049",
+        "RIO-P050",
+        "RIO-P051",
+        "RIO-P052"
+      ],
+      "reason": "Himari, Eimi, Alice, Kei, Toki, C&C, Seia and Seminar retain their own actions, objections and reported traces. Shared technical success is distributed; technical fit and later joy do not imply earlier consent."
+    },
+    {
+      "track": "language",
+      "claims": [
+        "RIO-P053",
+        "RIO-P054",
+        "RIO-P055",
+        "RIO-P056",
+        "RIO-P057"
+      ],
+      "reason": "Definitions, qualifiers, efficiency language, inward text and conditional written contexts support register comparisons. They are not heard delivery, universal insincerity or newly repaired native actor attribution."
+    },
+    {
+      "track": "rivals",
+      "claims": [
+        "RIO-P058",
+        "RIO-P059",
+        "RIO-P060",
+        "RIO-P061",
+        "RIO-P062",
+        "RIO-P063",
+        "RIO-P064",
+        "RIO-P065"
+      ],
+      "reason": "The rival accounts identify explanatory losses rather than merely naming straw alternatives. Revision and ordinary wants limit stasis; remaining burdens limit redemption; differentiated endings limit finality."
+    },
+    {
+      "track": "evidence",
+      "claims": [
+        "RIO-P066",
+        "RIO-P067",
+        "RIO-P068",
+        "RIO-P069"
+      ],
+      "reason": "Direct source clauses, maintained/report grades, finite endpoints and open stronger-claim debts are preserved together. The literary conclusion is not a behavioral rule, reconstruction model, prediction register or extra package."
+    }
+  ],
+  "own8_rival_judgments": [
+    {
+      "claim": "RIO-P058",
+      "reason": "Repeated control is substantial contrary evidence, but it cannot erase explicit belief revision, accepted limits, help requests or non-utilitarian making."
+    },
+    {
+      "claim": "RIO-P059",
+      "reason": "Pleasant ordinary endings and local cooperation do not erase hacking costs, opaque participation, surprised pilot work or unresolved formal repair."
+    },
+    {
+      "claim": "RIO-P060",
+      "reason": "Taste, curiosity, wanted company and happiness have their own textual warrant; useful engineering neither cancels them nor explains them all."
+    },
+    {
+      "claim": "RIO-P061",
+      "reason": "Printing/cracking/breach and concrete failures defeat both omniscience and uniform incompetence. No overall competence score or universal safety law follows."
+    },
+    {
+      "claim": "RIO-P062",
+      "reason": "Protective concern and culpable means coexist. Neither benevolent intent nor pure cruelty supplies a complete account or a diagnosis."
+    },
+    {
+      "claim": "RIO-P063",
+      "reason": "Adult framing matters, but independent peer objections and student actions prevent assigning all development to Sensei."
+    },
+    {
+      "claim": "RIO-P064",
+      "reason": "Profile designation, emblem choice and institutional suggestions do not install office return, universal acceptance or a solved ontology."
+    },
+    {
+      "claim": "RIO-P065",
+      "reason": "Ordinary completed goods and separate unfinished public/event endings can coexist. No final technical or moral closure is silently supplied."
+    }
+  ],
+  "own16_endpoint_limits": [
+    {
+      "ordinal": 1,
+      "endpoint": "clean room",
+      "own_limit": "Local narrated cleaning; no universal household perfection."
+    },
+    {
+      "ordinal": 2,
+      "endpoint": "narrated coffee/help",
+      "own_limit": "Specific received help; no generalized repaired trust."
+    },
+    {
+      "ordinal": 3,
+      "endpoint": "actual card play with withheld questions",
+      "own_limit": "Participation occurred; withheld symbols do not become mutual promises."
+    },
+    {
+      "ordinal": 4,
+      "endpoint": "checks, cooling and uneventful local recovery",
+      "own_limit": "Local recipient-specific outcome; no clinical clearance or blanket permission."
+    },
+    {
+      "ordinal": 5,
+      "endpoint": "shopping, stew, eating and affective warmth",
+      "own_limit": "Finite ordinary benefit and wanted company; no nutrition expertise or permanent routine."
+    },
+    {
+      "ordinal": 6,
+      "endpoint": "narrated taxi and moved goods",
+      "own_limit": "Accepted alternative after refusal of further hacking; earlier delivery burdens remain."
+    },
+    {
+      "ordinal": 7,
+      "endpoint": "printing completion and thanks",
+      "own_limit": "Making pleasure achieved; product quality and future production remain unverified."
+    },
+    {
+      "ordinal": 8,
+      "endpoint": "partial tidiness, fall, assented local contact and dinner",
+      "own_limit": "Different scene-local acts and permissions; future time and untold answers stay open."
+    },
+    {
+      "ordinal": 9,
+      "endpoint": "presented gift and acknowledged happiness",
+      "own_limit": "Giving and response are positive; reported manufacture and moral accountability retain distinct grades."
+    },
+    {
+      "ordinal": 10,
+      "endpoint": "barrier breach and entry",
+      "own_limit": "Local technical result; later takeover and whole crisis outcome remain separate."
+    },
+    {
+      "ordinal": 11,
+      "endpoint": "coalition link interruption and escort reports",
+      "own_limit": "Distributed help and attributed reports; no full whereabouts or institutional repair."
+    },
+    {
+      "ordinal": 12,
+      "endpoint": "EXPO locally reported handover, agreement and unpacking",
+      "own_limit": "Reported local continuation and negotiated company; no completed week or restored office."
+    },
+    {
+      "ordinal": 13,
+      "endpoint": "cracking aid",
+      "own_limit": "Distributed technical contribution; no omniscient mastery."
+    },
+    {
+      "ordinal": 14,
+      "endpoint": "safe-ejection report",
+      "own_limit": "Rio's report at its actual grade; no medical or retroactive consent certification."
+    },
+    {
+      "ordinal": 15,
+      "endpoint": "Yuzu satisfaction",
+      "own_limit": "Later positive response; no advance piloting consent."
+    },
+    {
+      "ordinal": 16,
+      "endpoint": "beginning of final reversal",
+      "own_limit": "Initiated result only; selected ending does not show final victory/restoration."
+    }
+  ],
+  "own_current_control_judgments": [
+    "All811 whole-location pointers and44 private/prospective declaration groups are prospective publication obligations, not existing public twins.",
+    "Source1 old body-first/new105 pending states and author V2/V3 closure stages remain historical; actual502029 componentQA is a later distinct review.",
+    "BodyQA source extents are reviewer8WHOLE3SELECTED/2290; author and ROOT9newWHOLE2161+2priorWHOLE382=2543 are separate actual maintained scopes.",
+    "Original common10526WHOLE79SELECTED is attributed prior report evidence; new525 target comparisons are not fresh normal105 or native/AV inspection.",
+    "CurrentO094 reading-access correction is resolved; retained P041/P053 references to held findings record earlier V2 history under explicit currentV3 qualification.",
+    "Only exact local source-role clauses warrant direct Rio evidence. O021/O027/O087/O098 links outside their own source scope remain comparisons.",
+    "Root mechanical receipt8145/acbc77b2 binds actual7 whole ordered recovery,20 complete pages and approved fixed70 prestdout full raw/preservation gates; mechanics confer no literary/source credit."
+  ],
+  "semantic_conclusion": "Rio's explicit revision, meaningful ordinary making/food/giving/company, recipient-specific permissions, peer criticism and distributed technical contribution support a connected literary argument. Continued hacking burdens, withheld meanings, unilateral decisions and uncompleted institutional/event endpoints remain real. Neither stakes nor utility determine evidence eligibility; neither joy nor success supplies retroactive consent, completed duration, total redemption, registry consolidation or a predictive/model rule.",
+  "preservation": {
+    "actual_root_mechanical_receipt": {
+      "path": "private-witness:RIO-LOC-8d712ed61cbdecf0b957",
+      "bytes": 8145,
+      "sha256": "acbc77b2ed657d64d6080f90b2ff446b84b5649df0b9624a3652f3fdbbf302c5"
+    },
+    "actual_mechanical_scopes": "Original11/M0083/Minato3 complete ordered raw recovery; fourV1 inverse/forward; raw61767/59334; seven body paragraph precision/prelocator recovery; all10oldV2 full raw inverse/forward including CRLF/no-finalLF author525; solecurrentO094 counter/other524 equality; current8/current7literal mirrors;20data pages/seven whole ordered inverses.",
+    "current69_and525": "Fully accepted current literals, actor/mode/end/limits/source roles remain unchanged.",
+    "frozen_originals": "Preserve original hashes, key order, literal meanings and receipt dates. CurrentO094 qualification does not rewrite frozenO094; earlier V2 held wording in P041/P053 QA reasons remains dated under actual currentV3 correction.",
+    "prior_PR151_PR152": "No changes or loss authorized; previous seven bounded corrections and43 retained historical-field qualifications remain preserved.",
+    "all14_original_gaps": "OPEN",
+    "standalone_models": 0
+  },
+  "receiving_journals": {
+    "body": "private-witness:RIO-LOC-97dcb5e7969b2d3ad720",
+    "new105": "private-witness:RIO-LOC-295de8193ddafcc9e9ba",
+    "register69": "private-witness:RIO-LOC-2140f518906896f115f1",
+    "tracks_controls": "private-witness:RIO-LOC-7863a738e8a373a0df6c",
+    "method16": "private-witness:RIO-LOC-c0ede437a6c701faf2da",
+    "source19_prior": "private-witness:RIO-LOC-78c6f50e678c3105d03e",
+    "counter94": "private-witness:RIO-LOC-2470ab88c37adb5e6f25"
+  },
+  "metadata_publication_authorization_scope": "C-only public metadata proposal may follow corrected concrete plan and actual truthful prior-review INPUT structure. Correct false line1-title anchor using actualL17 title, add valid current-authority metadata/quartet with accepted actual authority IDs, preserve fullprivate raw196/69 and measure final geometry. Every location normalization must have actual canonical twin or explicitly declared originalprivate custody; no guessed R aliases. All69/all525, source11/grades/modes/limits/source ranges remain literal.",
+  "remaining_gates": "Concrete corrected metadata plan; truthfulINPUT reporting object; actual composed12 bytes, allrawinverses/location inventory/size/publicsafety/authority graph; distinctmetadataQA and ROOTcurrentbyteadoption; exactfreeze/shared7/reconciliation/checklist/install/INDEX/provider/normalpush/remote/freshrequiredCI. Optional new author feedback concurrence is additive and not an invented semantic prerequisite.",
+  "frontier": {
+    "published_required": 150,
+    "published_named": 18,
+    "main_required": 133,
+    "main_named": 13,
+    "next_required_milestone": 178,
+    "packages_remaining_to_milestone": 28,
+    "credit_from_this_receipt": 0
+  },
+  "protection": {
+    "R_Git_provider_shared_writes": 0,
+    "protected39_privateC9_body_reads_or_hashes": 0,
+    "fixed_required_named_parent_homes_navigation": [
+      355,
+      29,
+      25,
+      384,
+      788
+    ],
+    "merge": "RESERVED",
+    "current_PR158": "OPEN_DRAFT_HOLD_UNMERGED"
+  },
+  "global_audit_scope": "This receipt proves only this Rio receiving scope. It does not prove complete semantic coverage of all currently published150 packages or satisfy the full ongoing audit deliverable.",
+  "current_public_workflow_authority_derivative_qualification": {
+    "actual_original_authority_id": "ROOT_RIO_CURRENT196_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+    "actual_original_accepted_utc": "2026-10-14T20:50:52Z",
+    "original_authority_raw_tuple": {
+      "private_original_witness_id": "RIO-ORIGINAL-ROOT",
+      "bytes": 58225,
+      "sha256": "ef7b71311cdde64382df80fe18d03e669f7b49f00a17386a5796908ab428df9d",
+      "git_blob_oid_of_actual_bytes": "6f11521295b1568f033f9203833a7d2c40bb57fa"
+    },
+    "derivative_composer": "/root/publishing_shared7_review",
+    "actual_composed_utc": "2026-10-14T21:44:04Z",
+    "authority_role": "Original actual ROOT semantic workflow witness is preserved. This public metadata derivative is neither a cryptographic signature nor ROOT acceptance of its own/current12 composed bytes.",
+    "original_scope": "ORIGINAL196_69_CURRENT_V3_TARGET525_SOURCE11_DISTINCT_COMPONENT_QA",
+    "current_public_body_measured_metadata_only_scope": {
+      "original_author_physical_lines": 196,
+      "current_public_physical_lines": 208,
+      "literal_paragraphs": 69,
+      "title_actual_current_line": 29,
+      "first_literal_actual_current_line": 34,
+      "last_literal_actual_current_line": 208,
+      "source_carrier_physical_ranges": "UNCHANGED_ORIGINAL_SOURCE11",
+      "current_body": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIO_CHARACTER_MONOGRAPH.md",
+        "bytes": 59526,
+        "sha256": "0404ea9f2fff73fc809514eb0caac3c16c641fc83045db2fed503c660cf6bb1f",
+        "git_blob_oid_of_actual_bytes": "2b16a15fa684df665a9f4a0ec5cfb8b6525c3093"
+      }
+    },
+    "current_public_QA_ROOT_byte_adoption_runtime_count_or_new_source_credit": 0
+  },
+  "current_public_metadata_derivative_boundary": {
+    "schema": "RIO_CURRENT_PUBLIC_METADATA_DERIVATIVE_ORIGINAL_AUTHORITY_BOUNDARY_V1",
+    "composer": "/root/publishing_shared7_review",
+    "actual_composed_utc": "2026-10-14T21:44:04Z",
+    "original_private_raw_basis": {
+      "private_original_witness_id": "RIO-ORIGINAL-ROOT",
+      "bytes": 58225,
+      "sha256": "ef7b71311cdde64382df80fe18d03e669f7b49f00a17386a5796908ab428df9d",
+      "git_blob_oid_of_actual_bytes": "6f11521295b1568f033f9203833a7d2c40bb57fa"
+    },
+    "actual_original_semantic_workflow_witness_id": "ROOT_RIO_CURRENT196_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+    "actual_original_semantic_accepted_utc": "2026-10-14T20:50:52Z",
+    "current_geometry": {
+      "original_author_physical_lines": 196,
+      "current_public_physical_lines": 208,
+      "literal_paragraphs": 69,
+      "title_actual_current_line": 29,
+      "first_literal_actual_current_line": 34,
+      "last_literal_actual_current_line": 208,
+      "source_carrier_physical_ranges": "UNCHANGED_ORIGINAL_SOURCE11",
+      "current_body": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIO_CHARACTER_MONOGRAPH.md",
+        "bytes": 59526,
+        "sha256": "0404ea9f2fff73fc809514eb0caac3c16c641fc83045db2fed503c660cf6bb1f",
+        "git_blob_oid_of_actual_bytes": "2b16a15fa684df665a9f4a0ec5cfb8b6525c3093"
+      }
+    },
+    "dated_original_control_interpretation": "Original author-stage pending/draft/frontier statements and every original source/QA/ROOT tuple remain dated to private original196/69 bytes and their actual original events. The separate current public metadata fields govern the composed208/69 byte graph. Component QA and ROOT semantic acceptance refer to the exact original eight. Independent exact12 metadata QA and ROOT composed-byte adoption are pending; no source grade, required/named count, runtime, broad cast audit, model or merge credit is created.",
+    "public_metadata_QA": "PENDING_DIFFERENT_AUTHOR_CURRENT12_REVIEW",
+    "ROOT_current12_byte_adoption": "PENDING",
+    "installation_publication_newCI_count": "PENDING_SEPARATE_ROOT_OPERATIONS",
+    "new_primary_native_AV_normal105_source_admission_models_or_merge_credit": 0
+  }
+}

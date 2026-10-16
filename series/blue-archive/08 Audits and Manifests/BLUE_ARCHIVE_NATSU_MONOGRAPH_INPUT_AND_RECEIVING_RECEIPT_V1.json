@@ -3263,4 +3263,58 @@
       "generated_witness_scope": "ROOT-bound composed operative original-form derivative; no new author/primary/independent literary credit."
     }
   ]
+,
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/endpoints/19/achieved_versus_unfinished",
+      "retained_value_utf8_sha256": "9178b557c516055ef7a5da49bef6b8bfd5c84493869abeae62da7c64703eebfc",
+      "finding_ids": [
+        "P30-P3-CHAR-NATSU-CH0155-ROOT_NATSU_F01_FULL_INVERSE_EXACT_REPETITION_AND_APPROVED_CURRENT_QUALIFICATION_PROPOSAL_V1-NATSU-F01"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/rival_readings/9/contrary",
+      "retained_value_utf8_sha256": "b39b6a511bdc327caaff1f62a268eed102ac6b4675b70512c843b35c5b3ffb36",
+      "finding_ids": [
+        "P30-P3-CHAR-NATSU-CH0155-ROOT_NATSU_F01_FULL_INVERSE_EXACT_REPETITION_AND_APPROVED_CURRENT_QUALIFICATION_PROPOSAL_V1-NATSU-F01"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/2/complete_original_payload/unchanged_endpoint_association/achieved_versus_unfinished",
+      "retained_value_utf8_sha256": "9178b557c516055ef7a5da49bef6b8bfd5c84493869abeae62da7c64703eebfc",
+      "finding_ids": [
+        "P30-P3-CHAR-NATSU-CH0155-ROOT_NATSU_F01_FULL_INVERSE_EXACT_REPETITION_AND_APPROVED_CURRENT_QUALIFICATION_PROPOSAL_V1-NATSU-F01"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NATSU_CHARACTER_MONOGRAPH.md",
+      "bytes": 58268,
+      "sha256": "55916d3989fb1573fc618f32fd6ef819179513024427b7e7dcc73c70ac5275e2",
+      "lines": 161,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 58268,
+        "sha256": "55916d3989fb1573fc618f32fd6ef819179513024427b7e7dcc73c70ac5275e2"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 58268,
+        "sha256": "55916d3989fb1573fc618f32fd6ef819179513024427b7e7dcc73c70ac5275e2"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

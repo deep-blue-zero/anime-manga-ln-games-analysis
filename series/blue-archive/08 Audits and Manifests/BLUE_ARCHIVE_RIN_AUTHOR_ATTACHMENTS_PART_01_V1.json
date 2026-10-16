@@ -1,0 +1,1927 @@
+{
+  "schema": "BLUE_ARCHIVE_RIN_COMPLETE_AUTHOR_ATTACHMENTS_PART_V1",
+  "status": "COMPLETE_HISTORICAL_FIELDS_OPERATIVE_ROOT_QUALIFICATION_IN_PARENT",
+  "complete_author_attachments": [
+    {
+      "name": "RIN105_SOURCE_SPECIFIC_APPLICABILITY_AND_RECEIVING_V1.json",
+      "original_exact_tuple": {
+        "bytes": 157981,
+        "sha256": "796c74e0e7928f9224be3da7bb92ca260c9f9be2a81c6f5346dd594342606faf",
+        "git_blob_oid_of_actual_bytes": "6fbb37cda03dcd7b3c434986f53c7098b97bea14"
+      },
+      "complete_original_payload": {
+        "schema": "RIN105_SOURCE_SPECIFIC_MEANING_APPLICABILITY_V1",
+        "home": "P3-CHAR-M031",
+        "source_snapshot": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+        "original105_scope_retained": true,
+        "rows": [
+          {
+            "owner_ref": 0,
+            "input_ref": "PUB000",
+            "dispatch_owner_ref": 0,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Gourmet wanted tastes and later cooperation coexist with Fuuka refusals and captured labor; useful help does not retroactively authorize a recipient burden. This tests administrative usefulness versus permission.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/0",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 1,
+            "input_ref": "PUB001",
+            "dispatch_owner_ref": 1,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1201_1203_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "C&C ordinary company and delegated reports/acknowledgment differ from an inspected signature instrument; Rin office speech likewise needs the actual authority and recipient endpoint.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/1",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 2,
+            "input_ref": "PUB002",
+            "dispatch_owner_ref": 2,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1301_1303_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Cherino routine, correction and chosen pudding coexist with fabricated fear, exclusion and object threats; administrative continuity and comfort do not prove rightful rule.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/2",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 3,
+            "input_ref": "PUB003",
+            "dispatch_owner_ref": 3,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Engineering pizza, making and delivery joy coexist with damage, concealment and future repair. A technical success cannot finish responsibility or make every client assent.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/3",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 4,
+            "input_ref": "PUB004",
+            "dispatch_owner_ref": 4,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Veritas security, information access and ordinary wants pose a privacy/permission distinction. Rin technical reliance and inquiry must retain who authorizes access and what was actually obtained.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/4",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 5,
+            "input_ref": "PUB005",
+            "dispatch_owner_ref": 5,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1601_1602_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "School Lunch work, actual food and reassurance coexist with concealed doubts, feared budget harm and an unexecuted concealment proposal; thanks is not informed acceptance of restraint.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/5",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 6,
+            "input_ref": "PUB006",
+            "dispatch_owner_ref": 6,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1701_1703_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Rescue Knights care and warm wants coexist with late warnings, treatment pressure and public denial/private admission; useful competence does not supply blanket informed consent.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/6",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 7,
+            "input_ref": "PUB007",
+            "dispatch_owner_ref": 7,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Justice work and ordered rest coexist with unequal exchange, independent apprehension and particular food pleasure; a day-off order is not evidence every recipient is comfortable.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/7",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 8,
+            "input_ref": "PUB008",
+            "dispatch_owner_ref": 8,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Prefect patrol, appeals, fatigue and practical limits test burden and recipient respect; Rin capable office is similarly situated rather than exhaustive of private life.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/8",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 9,
+            "input_ref": "PUB009",
+            "dispatch_owner_ref": 9,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Different Sweets wants, refusal and later rescue/eating retain separate endpoints; Rin food and play need no crisis cure to be meaningful and later pleasure does not erase an earlier objection.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/9",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 10,
+            "input_ref": "PUB010",
+            "dispatch_owner_ref": 10,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2101_2102_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Abydos snacks/picnic wishes, cleaning mistakes and disputed damage distinguish guilt, actual help and completed restitution; Rin assistance is not an automatic liability judgment.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/10",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 11,
+            "input_ref": "PUB011",
+            "dispatch_owner_ref": 11,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "PS68 command, funds and chosen belonging retain each member’s agency and costs; work continuity and warm company cannot certify freely requisitionable service.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/11",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 12,
+            "input_ref": "PUB012",
+            "dispatch_owner_ref": 12,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2301_2302_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Festival committee outside ideas, spectacle and quiet enjoyment provide ordinary reasons for collective work. They cannot be reduced to civic efficiency or Rin’s administrative interests.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/12",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 13,
+            "input_ref": "PUB013",
+            "dispatch_owner_ref": 13,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2401_2402_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Training Club filming, ordinary aims, imitation and peer accountability separate an authored goal from a helper’s interpretation; a public role cannot authenticate hidden motives.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/13",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 14,
+            "input_ref": "PUB014",
+            "dispatch_owner_ref": 14,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2403_2404_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Training Club night patrol and renewed permission preserve belonging with recipient boundaries; later membership warmth does not erase a prior limit or prove every patrol outcome.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/14",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 15,
+            "input_ref": "PUB015",
+            "dispatch_owner_ref": 15,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "GDD play, Yuzu’s refusal and later chosen participation keep pressure distinct from assent; rest/game help for Rin likewise needs the occasion’s own permission.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/15",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 16,
+            "input_ref": "PUB016",
+            "dispatch_owner_ref": 16,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Plum Blossom/Genbu dignity, secrets and rumor costs distinguish care from disclosed knowledge. Rin’s memory and institutional reports cannot become facts known to all peers.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/16",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 17,
+            "input_ref": "PUB017",
+            "dispatch_owner_ref": 17,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2701_2702_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Valkyrie duty, rest, food and a generic chief’s local scope test official command and ordinary recipient wants; no generic chief is automatically Kanna or Rin.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/17",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 18,
+            "input_ref": "PUB018",
+            "dispatch_owner_ref": 18,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2801_2802_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Red Winter ordinary books/food and a petition misclassified as fiction make document custody and unheard material demands consequential; recipient comfort is not implemented policy.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/18",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 19,
+            "input_ref": "PUB019",
+            "dispatch_owner_ref": 19,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2901_2902_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Ninjutsu creative labor and chosen belonging retain self-authored aims beyond institutional validation; Rin’s role likewise cannot exhaust a wanted life.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/19",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 20,
+            "input_ref": "PUB020",
+            "dispatch_owner_ref": 20,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3001_3003_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "RABBIT rations, breakfast, care and a failed household operation give material rest and food positive value while preserving resources and unfinished tasks.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/20",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 21,
+            "input_ref": "PUB021",
+            "dispatch_owner_ref": 21,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Seminar budgets, labor and ordinary self-definition distinguish a council function from the whole student; administrative competence cannot alone settle recognition or burden.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/21",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 22,
+            "input_ref": "PUB022",
+            "dispatch_owner_ref": 22,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3201_3202_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Chise owns preparation and individualized gratitude, while Kaho’s undisclosed following and later restraint differ. Authoring a pleasurable activity and accepting aid do not authorize surveillance.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/22",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 23,
+            "input_ref": "PUB023",
+            "dispatch_owner_ref": 23,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Rei’s baseball/food aesthetics differ from team efficiency; Sumire’s useful training still encounters objections. Rin’s games/chess retain ordinary value independently of optimized work.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/23",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 24,
+            "input_ref": "PUB024",
+            "dispatch_owner_ref": 24,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Kisaki’s morning, wanted company and projected purpose coexist with frightened children; leadership appraisal is not every recipient’s own meaning or permission.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/24",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 25,
+            "input_ref": "PUB025",
+            "dispatch_owner_ref": 25,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3501_3502_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Hot Springs technical craft, chosen reading/company and divergent worker duties test usefulness against exposure and workload; accepted local help is not unlimited requisition.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/25",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 26,
+            "input_ref": "PUB026",
+            "dispatch_owner_ref": 26,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3601_3603_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Tea Party failed rest plan, particular food pleasure and continuing work show no single cure. Rin’s actual break can matter while work and inquiry continue.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/26",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 27,
+            "input_ref": "PUB027",
+            "dispatch_owner_ref": 27,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Nine selected gifts/work/attention retain recipient differences and conditional modes; gift gratitude cannot authenticate a global Rin source-form identity or imply all wished encounters occurred.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/27",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 28,
+            "input_ref": "PUB028",
+            "dispatch_owner_ref": 28,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Sixteen gifts/time/craft and imperfect reception retain independent recipient agency; ordinary gestures are not certificates of skill, consent, chronology or permanent change.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/28",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 29,
+            "input_ref": "PUB029",
+            "dispatch_owner_ref": 29,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Festival recognition and dream labor coexist with extraction and actual refusals. Administrative permission cannot decide the participant’s complete ordinary or material outcome.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/29",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 30,
+            "input_ref": "PUB030",
+            "dispatch_owner_ref": 30,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_802/BLUE_ARCHIVE_EVENT_802_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Red Winter ordinary pleasures and rights demands distinguish announced administration from implementation, exclusion and library/labor needs; official benevolence is not all recipients repaired.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/30",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 31,
+            "input_ref": "PUB031",
+            "dispatch_owner_ref": 31,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_803/BLUE_ARCHIVE_EVENT_803_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Trinity outing food/sport/photo wants and changed peer appraisals retain unfulfilled leave and recipient costs; care is differentiated rather than a uniform cross-school agreement.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/31",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 32,
+            "input_ref": "PUB032",
+            "dispatch_owner_ref": 32,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Gehenna chosen rest and help coexist with secrecy and redistributed burden. A break is positive ordinary evidence without granting infinite subordinate labor or proving a cure.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/32",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 33,
+            "input_ref": "PUB033",
+            "dispatch_owner_ref": 33,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Shun/source-form transformation, wanted treats/rest and chosen return preserve identity limits and uncompleted wishes; Rin’s repeated forms likewise require source-bound joins.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/33",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 34,
+            "input_ref": "PUB034",
+            "dispatch_owner_ref": 34,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "C&C wanted play and privacy coexist with failed method and unfinished custody; achieved company or technical action does not settle institutional permission.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/34",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 35,
+            "input_ref": "PUB035",
+            "dispatch_owner_ref": 35,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_807/BLUE_ARCHIVE_EVENT_807_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Collaboration encounter, embodiment and uncompleted rehearsal retain selected provenance and ordinary wants; source absence elsewhere cannot exclude the represented life or authenticate a global identity.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/35",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 36,
+            "input_ref": "PUB036",
+            "dispatch_owner_ref": 36,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_808/BLUE_ARCHIVE_EVENT_808_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Nodoka/Shigure wanted warmth/home and creator-reader equality coexist with blasts, extraction and unrepaired loss; a real local reversal is not lasting reconstruction.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/36",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 37,
+            "input_ref": "PUB037",
+            "dispatch_owner_ref": 37,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "PS68 different labor, food, gestures and imperfect gifts test public work against ordinary dignity, refusals and hidden knowledge. No transaction or final-cooperation scene licenses every demand.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/37",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 38,
+            "input_ref": "PUB038",
+            "dispatch_owner_ref": 38,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "DIRECT_NAMED_RIN_ORDINARY_AND_WORK",
+            "complete_source_specific_reason": "Rin’s selected gift102 and work/fatigue context are positive direct ordinary evidence. Conditional gift presentation is not an independent BOND/MM family or a performed selector calendar.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/38",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 39,
+            "input_ref": "PUB039",
+            "dispatch_owner_ref": 39,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_811/BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Trinity/Arius twelve-source ordinary care/rest and service comparisons retain peer agency, actual endings and mode limits; no federal outcome automatically completes another student’s aftermath.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/39",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 40,
+            "input_ref": "PUB040",
+            "dispatch_owner_ref": 40,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Ui taste/privacy and Hinata book-care joy retain damaged objects, finite hospitality and unverified restoration/copy tests; help and gratitude do not authenticate the missing technical tail.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/40",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 41,
+            "input_ref": "PUB041",
+            "dispatch_owner_ref": 41,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_813/BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Ninja rescue, ordinary commitment and recognition costs test institutional validation against self-authored wants and recipient pressure; local rescue does not supply every later permission.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/41",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 42,
+            "input_ref": "PUB042",
+            "dispatch_owner_ref": 42,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_814/BLUE_ARCHIVE_EVENT_814_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "An imperfect holiday, chosen giving and actual company coexist with debts, losses and unfinished repair; rest is not valuable only when it permanently cures work.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/42",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 43,
+            "input_ref": "PUB043",
+            "dispatch_owner_ref": 43,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_815/BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "DIRECT_NAMED_RIN_ADMINISTRATION_AND_RECIPIENTS",
+            "complete_source_specific_reason": "Rin’s E013 GSC ownership/paperwork account, three-day departure demand and banquet concession are direct positive administrative evidence with affected participant refusals and unproved title/loss endpoints.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/43",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 44,
+            "input_ref": "PUB044",
+            "dispatch_owner_ref": 44,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_001_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode001 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/44",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 45,
+            "input_ref": "PUB045",
+            "dispatch_owner_ref": 45,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_002_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode002 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/45",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 46,
+            "input_ref": "PUB046",
+            "dispatch_owner_ref": 46,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_003_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode003 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/46",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 47,
+            "input_ref": "PUB047",
+            "dispatch_owner_ref": 47,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_004_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode004 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/47",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 48,
+            "input_ref": "PUB048",
+            "dispatch_owner_ref": 48,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_005_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode005 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/48",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 49,
+            "input_ref": "PUB049",
+            "dispatch_owner_ref": 49,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_006_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode006 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/49",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 50,
+            "input_ref": "PUB050",
+            "dispatch_owner_ref": 50,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_007_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode007 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/50",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 51,
+            "input_ref": "PUB051",
+            "dispatch_owner_ref": 51,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_008_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode008 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/51",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 52,
+            "input_ref": "PUB052",
+            "dispatch_owner_ref": 52,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_009_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode009 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/52",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 53,
+            "input_ref": "PUB053",
+            "dispatch_owner_ref": 53,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_010_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode010 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/53",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 54,
+            "input_ref": "PUB054",
+            "dispatch_owner_ref": 54,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_011_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode011 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/54",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 55,
+            "input_ref": "PUB055",
+            "dispatch_owner_ref": 55,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_012_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode012 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/55",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 56,
+            "input_ref": "PUB056",
+            "dispatch_owner_ref": 56,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_013_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode013 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/56",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 57,
+            "input_ref": "PUB057",
+            "dispatch_owner_ref": 57,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_014_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode014 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/57",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 58,
+            "input_ref": "PUB058",
+            "dispatch_owner_ref": 58,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_015_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode015 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/58",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 59,
+            "input_ref": "PUB059",
+            "dispatch_owner_ref": 59,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_016_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode016 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/59",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 60,
+            "input_ref": "PUB060",
+            "dispatch_owner_ref": 60,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_017_DEEP_READING.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "EVENT816 episode017 retains its complete locally ordered meaning within the already personally received seventeen-episode enclosing argument: Sweets/peers ordinary affiliation, refusal, appraisal and actual encounter tails remain distinct. This is a source-scoped comparison for Rin’s wanted ordinary self, dissent and limited aid, not Rin attendance or a claim that this current deep-file body was freshly personally read. The enclosing whole sequence, not a name/header or isolated episode count, supplies adequacy; no new current-deep-specific disputed assertion is used.",
+            "actual_own_receiving_grade": "ADEQUATE_COMPLETE_PRIOR_OWN_ENCLOSING17_ARGUMENT_NOT_PERSONAL_CURRENT_DEEP_FILE_REPLAY",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/60",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 61,
+            "input_ref": "PUB061",
+            "dispatch_owner_ref": 61,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Millennium festival pleasure and imperfect collective labor retain program revision, self-blame, maker/client limits and future security consultation; successful shared work does not erase privacy or restore every cost.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/61",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 62,
+            "input_ref": "PUB062",
+            "dispatch_owner_ref": 62,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Festival peer duties, gift/help, body care and temporary participation preserve each recipient’s choice and raw actor seams; temporary aid is not reinstatement or one all-person deployment.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/62",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 63,
+            "input_ref": "PUB063",
+            "dispatch_owner_ref": 63,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_819/BLUE_ARCHIVE_EVENT_819_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Mine’s care, listening and wanted party coexist with rushed coercion, mistaken inference and independent subordinate choices; competent protection requires proportional recipient-aware endpoints.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/63",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 64,
+            "input_ref": "PUB064",
+            "dispatch_owner_ref": 64,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/BLUE_ARCHIVE_EVENT_820_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Fuuka wanted holiday and food skill coexist with repeated capture/refusal and a later actual apology/request/agreement; later gratitude is not retrospective consent or a full wages/title outcome.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/64",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 65,
+            "input_ref": "PUB065",
+            "dispatch_owner_ref": 65,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "DIRECT_NAMED_RIN_CRISIS_WORK_AT_PRINTED_SCOPE",
+            "complete_source_specific_reason": "Rin’s sanctuary coordination, readiness, requests and thanks are direct positive work evidence. Revived sites do not erase earlier destruction; predictions and the final local successes have different grades.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/65",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 66,
+            "input_ref": "PUB066",
+            "dispatch_owner_ref": 66,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_822/BLUE_ARCHIVE_EVENT_822_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Brief technical contact and doors opening are positive but do not guarantee durable evacuation/capture control; relationship recognition and system capacity remain separate.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/66",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 67,
+            "input_ref": "PUB067",
+            "dispatch_owner_ref": 67,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_823/BLUE_ARCHIVE_EVENT_823_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "DIRECT_NAMED_RIN_CRISIS_WORK_AT_PRINTED_SCOPE",
+            "complete_source_specific_reason": "Rin staying/reassurance and Ayane evacuation/entrusting are direct source-scoped evidence; unknown plans and crew-label seams forbid omniscience, a global voice join or invented complete escape.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/67",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 68,
+            "input_ref": "PUB068",
+            "dispatch_owner_ref": 68,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_824/BLUE_ARCHIVE_EVENT_824_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "WRITTEN_REPORT_OR_MENTION_COMPARISON_NOT_RIN_SPEAKING",
+            "complete_source_specific_reason": "Ayumu’s report of continuing Rin suspension, approved assistance and proposed contributions is a written/report comparison; not Rin speaking, reinstatement, disbursement or a city survey.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/68",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 69,
+            "input_ref": "PUB069",
+            "dispatch_owner_ref": 69,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Borrowed roles, desired gifts/play and imperfect cooperation coexist with concealed danger and guest refusal; local recovery does not make every role self-erasure, every contract lawful or every risk agreed.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/69",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 70,
+            "input_ref": "PUB070",
+            "dispatch_owner_ref": 70,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "River/restaurant work, different wanted futures and public authority conflict keep joint aims distinct from one-heart consensus; recipient food and belonging remain intrinsic beyond official settlement.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/70",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 71,
+            "input_ref": "PUB071",
+            "dispatch_owner_ref": 71,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_827/BLUE_ARCHIVE_EVENT_827_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Police ordinary rest/work and resort participation retain institutional pressure, commercial/citizen constraints and an unprinted full accountability tail; official help cannot certify every recipient repaired.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/71",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 72,
+            "input_ref": "PUB072",
+            "dispatch_owner_ref": 72,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_828/BLUE_ARCHIVE_EVENT_828_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Ui’s true taste, book boundaries and Hinata’s chosen joyful help retain hidden methods, reburial and incomplete copy/restoration tests; disclosed kindness does not guarantee equal knowledge.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_ALL_NONBLANK_ANALYTICAL_CONTENT_BLANK_ONLY_OMISSION",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/72",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 73,
+            "input_ref": "PUB073",
+            "dispatch_owner_ref": 73,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_829/BLUE_ARCHIVE_EVENT_829_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Creator-reader work, books and gratitude coexist with refused ratios, forced carrying and unfinished publication/profit; material implementation and wanted company need independent endpoints.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/73",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 74,
+            "input_ref": "PUB074",
+            "dispatch_owner_ref": 74,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_830/BLUE_ARCHIVE_EVENT_830_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Ichika company and effort coexist with the actual shooting report, bag leverage, Kasumi promises and institutional custody; rumor or task completion is not complete accountability.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/74",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 75,
+            "input_ref": "PUB075",
+            "dispatch_owner_ref": 75,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_831/BLUE_ARCHIVE_EVENT_831_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Engineering/festival contribution and ordinary maker-client wants retain volunteered aid versus assumed skill/permission; a product or local win does not finish safety or recipient agency.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/75",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 76,
+            "input_ref": "PUB076",
+            "dispatch_owner_ref": 76,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Mandatory camp/security constraints coexist with chosen reading, cocoa, dinner and later voluntary summit; helpful adventure and company are not retroactive privacy consent or a promised cure.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/76",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 77,
+            "input_ref": "PUB077",
+            "dispatch_owner_ref": 77,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Pandemonium pleasure and Hina chosen music coexist with Iroha refusal and covert budget/liability claims; performance completion is not complete institutional disclosure or freely assigned labor.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/77",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 78,
+            "input_ref": "PUB078",
+            "dispatch_owner_ref": 78,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "WRITTEN_REPORT_OR_MENTION_COMPARISON_NOT_RIN_SPEAKING",
+            "complete_source_specific_reason": "Aoi’s selected gift105 coffee/help includes Rin’s work as comparison, not Rin attendance. PS68 work, refused exploitation and local escape retain wage/contract/safety limits.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/78",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 79,
+            "input_ref": "PUB079",
+            "dispatch_owner_ref": 79,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Hyakka/Ninja ordinary river/play and leadership duties keep actual aid and revived companionship distinct from ritual history, collective assent and permanent institutional reform.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/79",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 80,
+            "input_ref": "PUB080",
+            "dispatch_owner_ref": 80,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Sweets making/music and ordinary self-worth coexist with fatigue, confidentiality pressure and explicit Natsu stick-spinning objection. Positive local outcomes do not authorize public or peer performance.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/80",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 81,
+            "input_ref": "PUB081",
+            "dispatch_owner_ref": 81,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_837/BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Valkyrie waterpark/citizen-care and ordinary leisure retain investigation, service, resources and informed-recipient limits; organizational usefulness is not universal police legitimacy.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/81",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 82,
+            "input_ref": "PUB082",
+            "dispatch_owner_ref": 82,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_838/BLUE_ARCHIVE_EVENT_838_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Arius wanted music, sea, food/photos and reunion coexist with wage pressure, concealed threats and unprinted pursuit outcomes; pleasure is intrinsic rather than a price for redemption.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/82",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 83,
+            "input_ref": "PUB083",
+            "dispatch_owner_ref": 83,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_839/BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Kisaki chosen theatre/food/travel and Cherino’s differentiated response coexist with secrecy, procedural critique and contrary afterstate; exchange does not prove unanimous organization or medicine causality.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/83",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 84,
+            "input_ref": "PUB084",
+            "dispatch_owner_ref": 84,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_840/BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Hyakka/Ninja ordinary art, service and succession keep self-authored membership and refusal separate from an umbrella institution or collective identity; local victories leave public-story and authority limits.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/84",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 85,
+            "input_ref": "PUB085",
+            "dispatch_owner_ref": 85,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_841/BLUE_ARCHIVE_EVENT_841_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Mari wanted play and actual assent, police sponsor/duty, maker/stage fear and Nagisa art retain initial pressures and unfinished reforms; later pleasure is not every earlier consent or all-crowd participation.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_ALL_NONBLANK_ANALYTICAL_CONTENT_BLANK_ONLY_OMISSION",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/85",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 86,
+            "input_ref": "PUB086",
+            "dispatch_owner_ref": 86,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Seminar/Veritas play, memory and privacy coexist with confinement, disclosure pressure and next-day work; ordinary apology/company do not finish privacy or shared-asset accountability.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/86",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 87,
+            "input_ref": "PUB087",
+            "dispatch_owner_ref": 87,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "C&C self-proof and ordinary company coexist with protective control and constrained recipients; neither competence nor affection finishes informed permission.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/87",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 88,
+            "input_ref": "PUB088",
+            "dispatch_owner_ref": 88,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Juri competent local food and chosen service coexist with accidental creature, feared harm and workload; actual reassurance cannot count as informed acceptance of Fuuka’s hidden restraint.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/88",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 89,
+            "input_ref": "PUB089",
+            "dispatch_owner_ref": 89,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_845/BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Rei’s successful batting and wanted film/team hope coexist with next-day machine defeat and refused rest; local skill cannot establish steady growth or retroactively license training.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/89",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 90,
+            "input_ref": "PUB090",
+            "dispatch_owner_ref": 90,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_846/BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Delivery, taste, rail labor and trust keep ordinary competence and desired company beside authority, cash/resource and recipient limits; successful service is not finished institutional repair.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/90",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 91,
+            "input_ref": "PUB091",
+            "dispatch_owner_ref": 91,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_847/BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Hyakkiyako chosen water play and belonging retain actual contest/help versus institutional history and global chronology; joy cannot authenticate every invoked tradition or all future safety.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/91",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 92,
+            "input_ref": "PUB092",
+            "dispatch_owner_ref": 92,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_848/BLUE_ARCHIVE_EVENT_848_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Tea Party wanted vacation, Kasumi chosen reading/company and differentiated volunteer offers coexist with concealment, explosion, staffing burden and dissent. It tests rest, public access and finite aid without Rin attendance.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_THIRTY_CONNECTED_MEANINGS_AND_SYNTHESIS_NOT_FULL_ROSTER_ANNEX",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/92",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 93,
+            "input_ref": "PUB093",
+            "dispatch_owner_ref": 93,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_849/BLUE_ARCHIVE_EVENT_849_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Occult inquiry and particular adolescent wants distinguish experienced uncertainty, claimed mechanism and actual local ending; Rin’s uncertain memory inquiry likewise needs evidence rather than genre certainty.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/93",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 94,
+            "input_ref": "PUB094",
+            "dispatch_owner_ref": 94,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_850/BLUE_ARCHIVE_EVENT_850_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Art, aesthetic taste and deceptive representation keep actual maker/recipient wants distinct from authenticated provenance, title and universal worth; apparent images do not by themselves certify history.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/94",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 95,
+            "input_ref": "PUB095",
+            "dispatch_owner_ref": 95,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Suzumi/Reisa chosen music and companionship coexist with public pressure, battery-room power and mistaken capture; actual care does not become retroactive stage/palm consent or full restitution.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/95",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 96,
+            "input_ref": "PUB096",
+            "dispatch_owner_ref": 96,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Book pleasure/reader-making coexist with starvation leverage, prestige lies, unread enforcement and pressured staff. Local approval and future exchange are not abolished censorship, final contract or all false-persona harm repaired.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/96",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 97,
+            "input_ref": "PUB097",
+            "dispatch_owner_ref": 97,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_853/BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Fashion and wanted company retain self-naming, refusal and source-form boundaries; clothes cannot date scenes or authenticate a global person/costume continuity.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/97",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 98,
+            "input_ref": "PUB098",
+            "dispatch_owner_ref": 98,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "GDD/Kei ordinary self, games, chips and making coexist with coercive memory conversion and an unfinished final reversal; technical possibility is not completed identity/body/domain restoration.",
+            "actual_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/98",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 99,
+            "input_ref": "PUB099",
+            "dispatch_owner_ref": 99,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_856/BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Police company, inquiry and fear preserve independent recipients and the limits of public care; confidence or useful protection does not solve every suspicion or establish universal safety.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/99",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 100,
+            "input_ref": "PUB100",
+            "dispatch_owner_ref": 100,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_859/BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "River rest and fallible guidance keep pleasure valuable while work returns; neither one trip nor a leader’s helpful intention certifies lasting workload reform.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/100",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 101,
+            "input_ref": "PUB101",
+            "dispatch_owner_ref": 101,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Valkyrie holiday labor and voluntary loyalty retain food/rest/dream play as wanted ends while staffing and institutional costs persist; pleasure is not the cancellation of duty or unlimited consent.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/101",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 102,
+            "input_ref": "PUB102",
+            "dispatch_owner_ref": 102,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Hospitality/grief comparisons keep student wanted ordinary life and independent recipient needs alongside limited knowledge/repair; a public explanation is not an authenticated document or cured grief.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/102",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 103,
+            "input_ref": "PUB103",
+            "dispatch_owner_ref": 103,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_862/BLUE_ARCHIVE_EVENT_862_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "Friendship, failure, warmth and an unfinished tournament distinguish actual company from guaranteed victory or completed conversion; imperfect play remains intrinsically wanted.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/103",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          },
+          {
+            "owner_ref": 104,
+            "input_ref": "PUB104",
+            "dispatch_owner_ref": 104,
+            "selected_normal_repository_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "applicability": "SOURCE_BOUNDED_SUBSTANTIVE_COMPARISON_NOT_RIN_ATTENDANCE",
+            "complete_source_specific_reason": "MINI local food, rest, work, service and PS68/Pandemonium encounters retain directions, hidden thoughts, literal source-local actors and unfinished ends; one quiet encounter is not a universal work/private continuity.",
+            "actual_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "receiving_record_ref": "RIN_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json#/public105/104",
+            "retained_ordinary_or_recipient_end": "The source’s own represented pleasure, refusal, report and unfinished tail retain value; no reduction to Rin utility or a crisis/stakes gate.",
+            "claim_limit": "No global absence/irrelevance, Rin attendance, common calendar, legal/clinical/technical certification, actor repair, person join or separate package completion follows from this comparison.",
+            "remaining_consequential_duty": "A new source-specific stronger claim must receive its necessary connected current meaning at the actual mode; no pending primary/performance test is pretended closed.",
+            "source_rejection_or_low_stakes_exclusion": false
+          }
+        ],
+        "all105_substantive_decisions": 105,
+        "no_header_absence_stakes_school_frequency_filter": true,
+        "source_or_person_rejection_credit": 0,
+        "grades_are_Rin_comparison_scope_not_universal_owner_closure": true
+      },
+      "historical_scope": "Complete historical payload; current ROOT scope and mandatory qualifiers separately govern."
+    },
+    {
+      "name": "RIN_ACTUAL_COMPLETE_AUTHOR_COMPANION_RECEIVING_V1.json",
+      "original_exact_tuple": {
+        "bytes": 3467,
+        "sha256": "675d2036ca62b7a413874b416f846b32f14cf8f5b7aa69cc4055c94ac881fe86",
+        "git_blob_oid_of_actual_bytes": "c646e01d16d273a140467135426f69ffa43ee7d1"
+      },
+      "complete_original_payload": {
+        "schema": "RIN_ACTUAL_AUTHOR_COMPLETE_MEANINGFUL_COMPANION_RECEIVING_V1",
+        "status": "AUTHOR_DELIVERY_ONLY_ROOT_ACCEPTANCE_SEPARATE",
+        "body": {
+          "name": "BLUE_ARCHIVE_RIN_CHARACTER_MONOGRAPH.md",
+          "bytes": 46845,
+          "sha256": "232dfa22259dcd75f9ec24aad0d6e76336ef389180f535da565edfee96ff2723",
+          "git_blob_oid_of_actual_bytes": "9c16158b96d78707154081678f0e25e08b4cc880"
+        },
+        "actual_body_whole_receiving": [
+          [
+            1,
+            65,
+            "4ce602"
+          ],
+          [
+            66,
+            130,
+            "a864f9"
+          ],
+          [
+            131,
+            199,
+            "4b8d1d"
+          ]
+        ],
+        "ROOT_attributed_whole_body_receiving": [
+          [
+            1,
+            100,
+            "7b03cf"
+          ],
+          [
+            101,
+            199,
+            "7968a8"
+          ]
+        ],
+        "actual_companion_meaningful_receiving": {
+          "current_complete_controls": "c3c699",
+          "core7_complete_scope_and_tuple_table": "c5b2a1",
+          "applicability_exact_equal_common_fields": "8d5b14",
+          "applicability_every_distinct_row": [
+            [
+              0,
+              26,
+              "bda6f0"
+            ],
+            [
+              27,
+              43,
+              "3a3b88"
+            ],
+            [
+              44,
+              60,
+              "4147ac"
+            ],
+            [
+              61,
+              80,
+              "a376a8"
+            ],
+            [
+              81,
+              104,
+              "251d47"
+            ]
+          ],
+          "claims_exact_equal_common_fields_and_full_associations": "000dc9",
+          "claims_every_nonrepeated_association": [
+            [
+              0,
+              19,
+              "990c84"
+            ],
+            [
+              20,
+              39,
+              "f84b55"
+            ],
+            [
+              40,
+              64,
+              "f49969"
+            ]
+          ],
+          "inverse_eleven_sections_and_complete_selfreview": "69a5ad"
+        },
+        "manual_receiving_grade": "Complete saved body and all meaningful nonduplicate current control/source/applicability/claim fields through their lossless bounded projections; not a claimed physical manual reading of every raw repeated JSON byte or fresh replay of every prior source.",
+        "mechanical_exact_grade": "Exact owned output/source tuples, prior dictionary pointers, blank arrays, full paragraphs/window bytes and inverses are mechanically tested. Source-window token overlap supplies navigation only; actual whole adequate literary meanings and human warrants govern.",
+        "consequential_qualifications": {
+          "E005_E008": "ROOT/sibling attributed original M014 navigation versus personally complete current E008 maintained survey; no silent chronology/identity/authentication join.",
+          "owner104": "Argument tuple93829/03fb501e/512a08b differs from cache receipt91758/cd233b/347ee6 and prior receipt dictionary objects; no other-author or copy receiving transfer.",
+          "EVENT816": "Adequate own full enclosing seventeen-episode argument; current17deep file physical EOF not claimed.",
+          "EVENT848": "All30 meanings1124–1694 and full synthesis2117–2333 received; not whole2333 roster annex.",
+          "navigation_guard": "Explicit isolated title-probe omission recorded; final112 smallC exact guard pass, no protected access."
+        },
+        "reading_helper": {
+          "name": "read_rin_finite_delivery.py",
+          "bytes": 9539,
+          "sha256": "1240c4ae051593e84baf87ed633887774c86e29efbf863ee53f58ea795c6c43a",
+          "git_blob_oid_of_actual_bytes": "d795b61f3d6bbab01759106fa0659504b230a22f"
+        },
+        "all14_original_names_and_effects": "OPEN",
+        "new_primary_native_raw_AV_admission_identity_model_literary_named_denominator_milestone_credit": 0,
+        "future_count": "ROOT alone can independently accept; no ordinal in this author delivery."
+      },
+      "historical_scope": "Complete historical payload; current ROOT scope and mandatory qualifiers separately govern."
+    },
+    {
+      "name": "RIN_ACTUAL_OWN_RECEIVING_PROGRESS_WORKING_V1.json",
+      "original_exact_tuple": {
+        "bytes": 4003,
+        "sha256": "750bade21902e82aae483d6b129d1a8a3748a5447ce05a319fd1ea96223a26b4",
+        "git_blob_oid_of_actual_bytes": "8cc6de9e5e5458cf02b4602d3c79c368cf21f497"
+      },
+      "complete_original_payload": {
+        "schema": "RIN_CHARACTER_OWN_ACTUAL_RECEIVING_WORKING_V1",
+        "status": "UNFROZEN_WORKING_SCOPE_NOT_CHARACTER_ACCEPTANCE",
+        "source_capture": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+        "tree": "e6b570d622c4a56f6b98c29c9eb78e2e90025618",
+        "allocated_home": "P3-CHAR-M031",
+        "allocation_receiving": "e84b73",
+        "exact_six_custody_receiving": "3efb97",
+        "own_complete_current_normal_records": [
+          {
+            "source": "RIN01 Prologue",
+            "physical_lines": 146,
+            "ranges": [
+              [
+                1,
+                75,
+                "868c66"
+              ],
+              [
+                76,
+                146,
+                "2ef9c6"
+              ]
+            ],
+            "limits": "Maintained analytical meaning only; original source authorship and canonical primary remain attributed. Initial cp1252 display failed after line45; successful corrected868c66 supersedes that display."
+          },
+          {
+            "source": "RIN02 V004",
+            "physical_lines": 414,
+            "ranges": [
+              [
+                1,
+                140,
+                "77b9a1"
+              ],
+              [
+                141,
+                280,
+                "da21dd"
+              ],
+              [
+                281,
+                414,
+                "c94679"
+              ],
+              [
+                352,
+                365,
+                "6c6b64"
+              ]
+            ],
+            "limits": "Third display clipped358–364; complete bounded repair supplies that gap; adequate complete account after union."
+          },
+          {
+            "source": "RIN03 FinalV100",
+            "physical_lines": 452,
+            "ranges": [
+              [
+                1,
+                150,
+                "d9e428"
+              ],
+              [
+                151,
+                300,
+                "52c431"
+              ],
+              [
+                205,
+                234,
+                "f73be6"
+              ],
+              [
+                301,
+                452,
+                "6c96fb"
+              ]
+            ],
+            "limits": "Middle display clipped within212–231;205–234 repair supplies complete union. Account quotes prior authors/checkpoint custody, not underlying primary receiving."
+          },
+          {
+            "source": "RIN04 S2V000 jointS2V001",
+            "physical_lines": 259,
+            "ranges": [
+              [
+                1,
+                100,
+                "92441d"
+              ],
+              [
+                101,
+                190,
+                "e6104b"
+              ],
+              [
+                191,
+                259,
+                "99579c"
+              ]
+            ],
+            "limits": "Whole current normal argument includes historical producer boundaries now qualified by Cycle008. No followed embedded documentary paths."
+          },
+          {
+            "source": "RIN05 S2V001",
+            "physical_lines": 94,
+            "ranges": [
+              [
+                1,
+                94,
+                "c5a1f2"
+              ]
+            ],
+            "limits": "Whole complete maintained analytical argument; no image/device/video/native examination."
+          },
+          {
+            "source": "RIN06 unjoined27",
+            "physical_lines": 143,
+            "ranges": [
+              [
+                1,
+                75,
+                "709a6b"
+              ],
+              [
+                76,
+                143,
+                "a7d2d9"
+              ]
+            ],
+            "limits": "Whole current account of27 unresolved written forms. No invented Rin/person/profile joins; conditioned UI registers are comparisons, not performed calendar."
+          },
+          {
+            "source": "Additional V004C002E007",
+            "physical_lines": 52,
+            "ranges": [
+              [
+                1,
+                52,
+                "aad783"
+              ]
+            ],
+            "bytes": 8810,
+            "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+            "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+            "limits": "Explicit ROOT additive C whitelist authorization. Complete retrospective pre-vote debate/coercion refusal/letter/arrest/protest/document/broadcast preparation, not Final vote or lawful reinstatement."
+          }
+        ],
+        "all105_applicability": "REQUIRED_PENDING_OWN_REUSE_ADJUDICATION_AND_CONSEQUENTIAL_CURRENT_MEANING",
+        "primary_native_raw_AV_received": 0,
+        "private_direct_person_join": "NOT_VERIFIED_NO_FABRICATED_RIN_PROFILE",
+        "count_credit": 0,
+        "all14_original_gaps": "OPEN",
+        "no_R_Git_provider_protected_objects_access": true
+      },
+      "historical_scope": "Complete historical payload; current ROOT scope and mandatory qualifiers separately govern."
+    }
+  ],
+  "no_new_literary_or_source_credit": 0
+,
+  "current_source_consistency_qualification_FIRST15_20261012_V1": {
+  "schema": "EXACT_CURRENT_FROZEN_MEANING_QUALIFICATIONS_V1",
+  "source": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+  "status": "ROOT_CURRENT_SEMANTIC_QUALIFICATION_ACCEPTED_WITH_LIMITS",
+  "original_all_literals_hashes_decisions_inverses": "PRESERVED",
+  "new_credit": 0,
+  "judgments": [
+    {
+      "id": "RIN-O38",
+      "owner_ref": 38,
+      "current_qualification": "Rin’s selected gift BA:event:810:003:120 and work/fatigue context are positive direct ordinary evidence. Conditional gift presentation is not an independent BOND/MM family or a performed selector calendar.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+          "json_pointer": "/complete_author_attachments/0/complete_original_payload/rows/38/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "c3d01aa53d2500b4fbee285a32099c8ef1f5a59a9d23914c6fbd08af7a10c4ae",
+          "before_literal": "Rin’s selected gift102 and work/fatigue context are positive direct ordinary evidence. Conditional gift presentation is not an independent BOND/MM family or a performed selector calendar.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O71",
+      "owner_ref": 71,
+      "current_qualification": "RABBIT investigation, coastguard work/rest and coastal-village participation retain institutional pressure, commercial/citizen constraints and an unprinted full accountability tail; official help cannot certify every recipient repaired.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+          "json_pointer": "/complete_author_attachments/0/complete_original_payload/rows/71/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "aa125d9f1d08d0fc30bc5a93c591312ddc2f3709d860cbb6b7cde648b2a4dd70",
+          "before_literal": "Police ordinary rest/work and resort participation retain institutional pressure, commercial/citizen constraints and an unprinted full accountability tail; official help cannot certify every recipient repaired.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O73",
+      "owner_ref": 73,
+      "current_qualification": "Creator-reader work, books and gratitude coexist with refused appropriation, forced carrying and unfinished publication/profit; material implementation and wanted company need independent endpoints.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+          "json_pointer": "/complete_author_attachments/0/complete_original_payload/rows/73/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "f07817190406f6bf3a23f12c9006c9f850620aadd8cf4cd0eb69c8070a88284d",
+          "before_literal": "Creator-reader work, books and gratitude coexist with refused ratios, forced carrying and unfinished publication/profit; material implementation and wanted company need independent endpoints.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O75",
+      "owner_ref": 75,
+      "current_qualification": "Engineering contribution and ordinary maker-client wants retain volunteered aid versus assumed skill/permission; a product or local win does not finish safety or recipient agency.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+          "json_pointer": "/complete_author_attachments/0/complete_original_payload/rows/75/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "e42507dbc030155a61e0933a9f4290b027e28aecd0264235583e12d996dffc55",
+          "before_literal": "Engineering/festival contribution and ordinary maker-client wants retain volunteered aid versus assumed skill/permission; a product or local win does not finish safety or recipient agency.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O79",
+      "owner_ref": 79,
+      "current_qualification": "Hyakkiyako school-trip/festival pleasures and hosting duties keep actual aid and revived companionship distinct from ritual history, collective assent and permanent institutional reform.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+          "json_pointer": "/complete_author_attachments/0/complete_original_payload/rows/79/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "423810020436d90422adc05f136f6d943b37085d00e3169bc46c56dfa423c636",
+          "before_literal": "Hyakka/Ninja ordinary river/play and leadership duties keep actual aid and revived companionship distinct from ritual history, collective assent and permanent institutional reform.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O84",
+      "owner_ref": 84,
+      "current_qualification": "Shanhaijing art, service and succession keep self-authored membership and refusal separate from an umbrella institution or collective identity; local victories leave public-story and authority limits.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+          "json_pointer": "/complete_author_attachments/0/complete_original_payload/rows/84/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "5eef00099513b88f69a873b477ec35e43e400385f0b3a5865259ccfb93e3f2bf",
+          "before_literal": "Hyakka/Ninja ordinary art, service and succession keep self-authored membership and refusal separate from an umbrella institution or collective identity; local victories leave public-story and authority limits.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O25",
+      "owner_ref": 25,
+      "current_qualification": "Hot Springs chosen digging, proposed work/rest reciprocity, wanted baths and spontaneous snack sharing retain practical skill and company beside coercive labor, exposure and recipient limits. Accepted local help is not unlimited requisition; neither vignette warrants the copied chosen-reading detail.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+          "json_pointer": "/complete_author_attachments/0/complete_original_payload/rows/25/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "5af70773d0af5f5a46e773484d613dded12e4807107155a10b6934db3b8d19f1",
+          "before_literal": "Hot Springs technical craft, chosen reading/company and divergent worker duties test usefulness against exposure and workload; accepted local help is not unlimited requisition.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "RIN-O87",
+      "owner_ref": 87,
+      "current_qualification": "Seia and Rio’s qualification/self-proof wishes coexist with C&C accompaniment, Neru’s direct refusals and Karin’s information request. Wanted company and negotiated one-week participation retain independent value without blanket consent, completed accountability or restored prophecy.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_RIN_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+          "json_pointer": "/complete_author_attachments/0/complete_original_payload/rows/87/complete_source_specific_reason",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "ce219b437e2358ab033d05f16660ac28001388596cd18954fe34b9bdb3aab9ba",
+          "before_literal": "C&C self-proof and ordinary company coexist with protective control and constrained recipients; neither competence nor affection finishes informed permission.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    }
+  ],
+  "public_register_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+    "json_pointer": "/first15_independent_receiving_fragment/canonical_additive_control_actions/9",
+    "record_id": "FIRST15-CONTROL-10"
+  },
+  "reviewed_proposed_current_body": {
+    "bytes": 51552,
+    "sha256": "48e40dbdacb2f30b959f9e42975494ce49a185cdc4732e216e376d49eb2a7bcf",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIN_CHARACTER_MONOGRAPH.md"
+  },
+  "prepared_status_preserved": "C_ONLY_ROOT_MANUAL_ADOPTION_REQUIRED"
+}
+}

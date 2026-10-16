@@ -4,13 +4,13 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.60"
+version: "2.89"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
 routing_audit: "../09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md"
 created: 2026-09-24
-last_updated: 2026-09-26
+last_updated: 2026-10-14
 do_not_use_as_literary_evidence: true
 ---
 
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 run](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) has closed 60/60 blocks; i-n-g coverage is 214/280 episodes across 80 chapters. The sixty reading units are closed; final run integration and publication audit are still required. Chapter 301320 remains outside this authorization.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 7, complete primary occurrences: 60; 289 Intimacy/634eligible story episodes and supplemental/multimodal/character/era-release obligations remain. The next authorized unread portfolio is B0189, 二川ミミ, route `NM-INTIMACY-200640` / native Sub family `200640`, 7 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
 
 ## Closed first i-n-g tranche
 
@@ -140,3 +140,44 @@ The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100
 | [T7S_B0157](T7S_B0157_DEEP_READING.md) | `301290` / 榎並マドカ / ナナスタ任侠伝 ～姉妹仁義～ | `612201401 / 612201402 / 612201403` | `COMPLETE_BOUNDED` |
 | [T7S_B0158](T7S_B0158_DEEP_READING.md) | `301300` / 折笠アユム / ぽえ☆ぽえ★パンデミック | `612201501 / 612201502 / 612201503` | `COMPLETE_BOUNDED` |
 | [T7S_B0159](T7S_B0159_DEEP_READING.md) | `301310` / 上杉・ウエバス・キョーコ / You are Today | `612201601 / 612201602 / 612201603` | `COMPLETE_BOUNDED` |
+
+## Remaining 2034 i-n-g checkpoint
+
+| Block | Chapter | Episodes | Status |
+| --- | --- | --- | --- |
+| [T7S_B0160](T7S_B0160_DEEP_READING.md) | `301320` / 西園ホノカ / TEACHING ME | `612201701 / 612201702 / 612201703` | `COMPLETE_BOUNDED` |
+| [T7S_B0161](T7S_B0161_DEEP_READING.md) | `301330` / 荒木レナ / サムデイ・ノー・リグレット | `612201801 / 612201802 / 612201803` | `COMPLETE_BOUNDED` |
+| [T7S_B0162](T7S_B0162_DEEP_READING.md) | `301340` / 二川ミミ / 運命の人 | `612201901 / 612201902 / 612201903` | `COMPLETE_BOUNDED` |
+| [T7S_B0163](T7S_B0163_DEEP_READING.md) | `301350` / 瀬戸ファーブ / きゅんきゅん♥ソングライティング | `612202001 / 612202002 / 612202003` | `COMPLETE_BOUNDED` |
+| [T7S_B0164](T7S_B0164_DEEP_READING.md) | `301360` / 鳳チャチャ / 2week School Life | `612202101 / 612202102 / 612202103` | `COMPLETE_BOUNDED` |
+| [T7S_B0165](T7S_B0165_DEEP_READING.md) | `301370` / 逢原ミウ / こう、踏み込んで | `612202201 / 612202202 / 612202203` | `COMPLETE_BOUNDED` |
+| [T7S_B0166](T7S_B0166_DEEP_READING.md) | `301380` / 雲巻モナカ / 見つけたいもの | `612202301 / 612202302 / 612202303` | `COMPLETE_BOUNDED` |
+| [T7S_B0167](T7S_B0167_DEEP_READING.md) | `301390` / 逝橋エイ / エイ・ザ・ストレンジ | `612202401 / 612202402 / 612202403` | `COMPLETE_BOUNDED` |
+| [T7S_B0168](T7S_B0168_DEEP_READING.md) | `301400` / 星柿マノン / マノン絵日記 | `612202501 / 612202502 / 612202503` | `COMPLETE_BOUNDED` |
+| [T7S_B0169](T7S_B0169_DEEP_READING.md) | `301410` / 堺屋ユメノ / ユメノ・スイッチ | `612202601 / 612202602 / 612202603` | `COMPLETE_BOUNDED` |
+| [T7S_B0170](T7S_B0170_DEEP_READING.md) | `301420` / 浅見ミワコ / アルコール・ラプソディー | `612202701 / 612202702 / 612202703` | `COMPLETE_BOUNDED` |
+| [T7S_B0171](T7S_B0171_DEEP_READING.md) | `301430` / ターシャ・ロマノフスキー / Моя семья | `612202801 / 612202802 / 612202803` | `COMPLETE_BOUNDED` |
+| [T7S_B0172](T7S_B0172_DEEP_READING.md) | `301440` / 川澄シサラ / さよならシンデレラガール | `612202901 / 612202902 / 612202903` | `COMPLETE_BOUNDED` |
+| [T7S_B0173](T7S_B0173_DEEP_READING.md) | `301450` / ジェダ・ダイヤモンド / ワールドデビュー！？ | `612203001 / 612203002 / 612203003` | `COMPLETE_BOUNDED` |
+| [T7S_B0174](T7S_B0174_DEEP_READING.md) | `301460` / 三森マツリ / アイドルファンタジー777 ～そして伝説へ～ | `612203101 / 612203102 / 612203103` | `COMPLETE_BOUNDED` |
+| [T7S_B0175](T7S_B0175_DEEP_READING.md) | `301470` / 前園リシュリ / リシュリママの子離れ | `612203201 / 612203202 / 612203203` | `COMPLETE_BOUNDED` |
+| [T7S_B0176](T7S_B0176_DEEP_READING.md) | `301480` / 夜舞サヲリ / たまには誰も傷つかない一日 | `612203301 / 612203302 / 612203303` | `COMPLETE_BOUNDED` |
+| [T7S_B0177](T7S_B0177_DEEP_READING.md) | `301490` / 有栖シラユキ / 有栖家の料理番 | `612203401 / 612203402 / 612203403` | `COMPLETE_BOUNDED` |
+| [T7S_B0178](T7S_B0178_DEEP_READING.md) | `301500` / 越前ムラサキ / 追い風のベクトル | `612203501 / 612203502 / 612203503` | `COMPLETE_BOUNDED` |
+| [T7S_B0179](T7S_B0179_DEEP_READING.md) | `301510` / 玉坂マコト / ナイトメア・オン・ポエットメイデン | `612203601 / 612203602 / 612203603` | `COMPLETE_BOUNDED` |
+| [T7S_B0180](T7S_B0180_DEEP_READING.md) | `301520` / 桂木カヅミ / 空に羽を広げる | `612203701 / 612203702 / 612203703` | `COMPLETE_BOUNDED` |
+| [T7S_B0181](T7S_B0181_DEEP_READING.md) | `301530` / シャオ・ヘイフォン / あなたのジンセイのメッセージ！ | `612203801 / 612203802 / 612203803` | `COMPLETE_BOUNDED` |
+
+## Intimacy occurrence portfolios
+
+Each family closes exact primary members with one qualified mini-case per occurrence; no menu-derived chronological ladder or multimodal maturity is implied.
+
+| Block | Native family and route | Complete occurrences | Status |
+| --- | --- | --- | --- |
+| [T7S_B0182](T7S_B0182_DEEP_READING.md) | `200740` / 川澄シサラ / `NM-INTIMACY-200740` | `401000002 / 401000006 / 401000830 / 401000926 / 401001078 / 401001186 / 401001382` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0183](T7S_B0183_DEEP_READING.md) | `200520` / 神城スイ / `NM-INTIMACY-200520` | `401000017 / 401000356 / 401000404 / 401000618 / 401000666 / 401000714 / 401000942 / 401000974 / 401001222` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0184](T7S_B0184_DEEP_READING.md) | `200480` / 角森ロナ / `NM-INTIMACY-200480` | `401000028 / 401000352 / 401000400 / 401000590 / 401000670 / 401000730 / 401000906 / 401001002 / 401001066` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0185](T7S_B0185_DEEP_READING.md) | `200460` / 春日部ハル / `NM-INTIMACY-200460` | `401000039 / 401000350 / 401000384 / 401000388 / 401000448 / 401000634 / 401000682 / 401001006 / 401001062` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0186](T7S_B0186_DEEP_READING.md) | `200610` / 上杉・ウエバス・キョーコ / `NM-INTIMACY-200610` | `401000046 / 401000050 / 401000464 / 401000810 / 401001034 / 401001206 / 401001330 / 401006489` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0187](T7S_B0187_DEEP_READING.md) | `200530` / 久遠寺シズカ / `NM-INTIMACY-200530` | `401000057 / 401000061 / 401000412 / 401000468 / 401000674 / 401000702 / 401000946 / 401001018 / 401001146` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0188](T7S_B0188_DEEP_READING.md) | `200490` / 野ノ原ヒメ / `NM-INTIMACY-200490` | `401000068 / 401000353 / 401000392 / 401000456 / 401000638 / 401000726 / 401000986 / 401001070 / 401001258` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |

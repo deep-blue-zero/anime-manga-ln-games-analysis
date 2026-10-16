@@ -4,10 +4,29 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: Japanese light novel main series V01-V17 source-complete; V07 acquired/audited 2026-08-27; canonical sequential reading complete through V10
+source_boundary: Japanese main-series V01-V17 source-complete with accepted sequential analysis through V10; 41-object expanded-source snapshot reconciled 2026-10-16 and separately gated from main derivation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: V11
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V10
+  next_candidate_operation: V11
+  confirmation_between_units: false
+  run_state: active
 ---
 
 # KONOSUBA - Current State and Corpus Map
@@ -24,7 +43,9 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 
 ## 2. Current authority state
 
-**Project state:** ACTIVE / PROVISIONAL - V01-V10 sequential analysis complete. Phase 3 V07-V09 is complete; `KONOSUBA_V07-V09_CHECKPOINT.md` remains the canonical Model Generation 0.3 freeze. Phase 4 V10-V12 is ACTIVE: V10 local validation is complete, with 6 CONFIRMED, 6 PARTIAL and 13 NOT_TESTED across the 25 preserved predictions. The V10-V12 tranche remains OPEN; Gen03 frozen wording and original blank outcome/adjudication fields are unchanged, with V10 outcomes recorded additively. V11 is next, UNOPENED and awaiting new authorization. No Gen04 or new tranche checkpoint is complete.
+**Project state:** ACTIVE / PROVISIONAL - V01-V10 sequential analysis accepted. Phase 3 V07-V09 is complete; `KONOSUBA_V07-V09_CHECKPOINT.md` remains the canonical Model Generation 0.3 freeze. Phase 4 V10-V12 is ACTIVE: V10 local validation is complete, with 6 CONFIRMED, 6 PARTIAL and 13 NOT_TESTED across the 25 preserved predictions. The V10-V12 tranche remains OPEN; Gen03 frozen wording and original blank outcome/adjudication fields are unchanged, with V10 outcomes recorded additively. The owner's 2026-10-16 instruction authorizes continuous V11–V17 execution followed by the bounded synthesis, validation and expanded-corpus program. V11 is the next source transaction and its working reading is under review; no V11 canonical advancement, Gen04 or new tranche checkpoint is yet claimed.
+
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** This is continuation of the mature imported project, with its four current methods, existing ten ledgers and source boundary verified. The structured run declarations recover the current owner-authorized bounds; they do not create new source authority. The [run and reconciliation audit](09%20Audits%20and%20Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md) records accepted, working and published state separately.
 
 **Canonical entrypoint:** this file.
 
@@ -44,17 +65,20 @@ These documents are canonical methodology until explicitly superseded. Sequentia
 **Primary-source root:** `Konosuba`
 
 Google Drive folder:
-`../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md#drive-ref-0f70fc4c9766e347`
+Canonical Drive source-folder ID: `1cCqwK0Bvd9OjcnN8jdsixAQrVOmlFfuw`.
 
 Subdirectories:
 
 - `Main Series` - Japanese EPUBs V01-V17, source-complete.
-- `Short Stories` - `Yorimichi`.
-- `Spin-offs` - `Consulting the Masked Devil`.
-- `Extra - Dust` - Dust V06-V07.
-- `Source Audit and Manifests` - ingestion manifest and Japanese-language audit.
+- `Short Stories` - four Yorimichi collections.
+- `Spin-offs` - seven novels: Explosions V01–V03, Continued Explosions V01–V02, Masked Devil and Fantastic Days.
+- `Extra - Dust` - V01–V07 and the separately titled, unnumbered continuation.
+- `Artbooks` - Cheers and Blessing.
+- `Fanbooks` - Official Memorial Fanbook.
+- `TRPG` - core and advanced rulebooks.
+- `Source Audit and Manifests` - six audit/import/propagation files; no EPUB.
 
-The updated source manifest records 21 retained primary books from 28 input EPUBs (27 valid; one zero-byte corrupt), with main-series V01-V17 all present. The original 20-book batch remains covered by `KONOSUBA_SOURCE_LANGUAGE_AUDIT.md`; V07 was separately verified against manifest SHA-256 `38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5` and passed the dedicated `KONOSUBA_V07_SOURCE_LANGUAGE_AND_INTEGRITY_AUDIT.md` before the continuity gate was removed.
+The [source inventory](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_INVENTORY.md) and [41-object coverage/admission matrix](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.md) reconcile all eight live folders: 17 main novels, 19 supplemental prose volumes and five mixed/reference books. The current audit manifest covers 36 objects; five later Calibre imports complete the 41. Newly retrieved bytes match all recorded hashes. The older 20-book language audit, V07 audit and 21-book Git inventory retain their historical scopes and are not present-corpus completeness certificates. The former migrated `drive-ref` fragments are unresolved in the current reference index; verified source-plane IDs in the inventory/matrix supply recovery without changing frozen migration records.
 
 ## 4. Main-series source boundary
 
@@ -84,6 +108,10 @@ The following material is intentionally withheld from core model construction un
 - `Konosuba Extra - Dust - Volume 07.epub`
 
 After chronology, canonicity, narrator/viewpoint, and character-coverage checks, suitable portions of these sources may be used as out-of-sample validation. This separation is deliberate: a model that predicts behavior in material it was not built from is stronger than one that merely explains the entire corpus retrospectively.
+
+### Expanded-corpus and post-validation stages
+
+The other 15 supplemental prose books, individual main-EPUB bonuses, and eligible fiction within the five mixed/reference books belong to a separate post-validation stage. Their presence does not expand main-series derivation. The [source-lock amendment](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_LOCK.md) and [architecture §9](00%20Frameworks%20and%20Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md#9-expanded-corpus-responsibility-amendment--2026-10-16) define the four-stage dependency and evidence-proportional outputs. Additional sources are supplementary-only in this run rather than selectively recruited tests. Image-only artbooks, fanbook and TRPG books require direct page/component inspection. Expanded synthesis remains incomplete until the full admitted narrative scope and required outputs have validated dispositions; the original four validation books are insufficient by themselves.
 
 ## 6. Mandatory reconstruction subjects
 
@@ -160,7 +188,7 @@ The tranche result is 16 CONFIRMED, 2 PARTIAL/revision-bearing, 2 NOT_TESTED, an
 
 ### Phase 4 - V10-V12
 
-**ACTIVE.** V10 is complete as the first prospective test of frozen Model Generation 0.3; its 25 local outcomes are 6 CONFIRMED, 6 PARTIAL and 13 NOT_TESTED. V11 is next, UNOPENED and awaiting new authorization; V12 is also unopened. The tranche remains OPEN. `KONOSUBA_V10-V12_CHECKPOINT.md` and Model Generation 0.4 are due only after authorized completion and adjudication of V12; no new generation is frozen at V10.
+**ACTIVE.** V10 is complete as the first prospective test of frozen Model Generation 0.3; its 25 local outcomes are 6 CONFIRMED, 6 PARTIAL and 13 NOT_TESTED. V11 is now authorized and its working reading is under review; V12 remains unopened. The tranche remains OPEN. `KONOSUBA_V10-V12_CHECKPOINT.md` and Model Generation 0.4 are due only after completion and adjudication of V12; no new generation is frozen at V10 or during V11 candidate preparation.
 
 ### Phase 5 - V13-V15
 
@@ -381,10 +409,10 @@ All earlier V01–V09 subsections, including their original future-facing freeze
 ## 13. Current next actions
 
 1. Preserve `KONOSUBA_V07-V09_CHECKPOINT.md`, the exact frozen Gen03 V10-V12 prediction block, RC-V09-01 and the new V10 local validation record. The 25 predictions remain frozen with their original blank outcome/adjudication fields; do not regenerate or rewrite them.
-2. V11 is the next sequential unit, UNOPENED and awaiting new authorization. Completion of this V10 single-operation analysis does not authorize opening V11, V12 or side narrative.
-3. After new authorization for the next unit, refresh the live map/governance and relevant ledgers, retrieve the frozen checkpoint/predictions plus V10 reading and outcomes, verify preserved bytes, and complete that unit's source-identity/capability gate before narrative exposure. Append per-volume evidence without erasing adverse cases or untested branches.
+2. Close the authorized V11 source transaction: complete its deep reading, census/voice checks, all materially affected ledger updates, independent semantic checks and publication. The accepted high-water mark remains V10 until that transaction is verified. Then continue without routine confirmation to V12 and onward through V17, with each unit separately closed before the next opens.
+3. At each unit boundary, refresh live map/governance and relevant ledgers, retrieve the existing frozen checkpoint/predictions and earlier outcomes, verify preserved bytes, and complete the source-identity/capability gate before narrative exposure. Append evidence without erasing adverse cases or untested branches.
 4. Only after authorized V11/V12 continuation and completed V12 adjudication should the V10-V12 tranche close in `KONOSUBA_V10-V12_CHECKPOINT.md`, Model Generation 0.4 be frozen, and V13-V15 predictions be written before V13 exposure. J02's formal pooled census result remains open until the complete registered scope is inspected and coded.
-5. Keep Yorimichi, Consulting the Masked Devil, and Dust V06-V07 withheld under the governing source policy. Source-lock reading-state lag and the previously user-reported expanded side-corpus inventory lag remain separately scoped metadata work; this V10 state update does not change source lock, inventory or withholding rules.
+5. Keep all side narrative and edition bonuses outside prospective derivation. Freeze the main-only reconstruction suite before the four designated holdouts, preserve the validation results, then perform the full expanded-prose/component program and attributable post-validation reconstruction. Source metadata is now reconciled separately in the 41-object matrix; no metadata or download state counts as completed literary analysis.
 
 ## 14. Governing principle
 

@@ -5857,4 +5857,41 @@
   ],
   "mandatory_claim_metadata_inverse": null,
   "mandatory_operative_qualification": "Corrected150-line V2 with exact offer-versus-unprinted-paymentL119, its source/claim/saved/erratum/seal. Preserve allfiveV1 and112earlier witnesses. Later canonical route and current-source framing require separate exact adoption."
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/historical_author_or_ROOT_payload/inputs/28/sha256",
+      "preserved_literal_sha256_value": "31b5bc0dd8b2a81be6acc3348539a74c5b646e03039d43dca298a4e60e0ab009",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ASUNA_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 56308,
+        "sha256": "31b5bc0dd8b2a81be6acc3348539a74c5b646e03039d43dca298a4e60e0ab009"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 56749,
+        "sha256": "ed95ea2ba9d0dcc18e52ba2f2488e59162f9161a9abbc88e3cc90034cf6ee973"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    },
+    {
+      "preserved_original_pointer": "/historical_author_or_ROOT_payload/inputs/29/sha256",
+      "preserved_literal_sha256_value": "c1124f22a44733a8f6aa792c5ffad22998def041e6c7fe4b96bd327bc3877523",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOKI_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 54085,
+        "sha256": "c1124f22a44733a8f6aa792c5ffad22998def041e6c7fe4b96bd327bc3877523"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 54490,
+        "sha256": "93a1ac6f120467c255f654ef0b5ad0c0ba48e51debb29a31d7e071172c7e04b2"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+}
 }

@@ -2090,7 +2090,7 @@
     "git_blob_oid_of_actual_bytes": "d7ee4d7c1331fdeedf261e50463d156e60ac8a93"
   },
   "canonical_link_translations": [],
-  "mandatory_operative_qualification": "All246 literary lines,65 claims,78 saved blocks and six rivals retain protection, information, work, food/leisure, power, actual victims and incomplete accountability.20 normal source qualifications, three complete preseal histories and exact inverses survive. Character monographs, Hina–Ako and Pandemonium are separate responsibilities, not completion by proxy.",
+  "mandatory_operative_qualification": "All246 literary lines,65 claims,78 saved blocks and six rivals retain protection, information, work, food/leisure, power, actual victims and incomplete accountability.20 normal source qualifications, three complete preseal histories and exact inverses survive. Character monographs, Hina–Ako and Pandemonium are separate responsibilities, not completion by proxy. 2026-10-11 operative correction: Chinatsu requests no resistance; the request does not establish whether resistance occurred. See operative_source_consistency_correction and its versioned register; historical wording is retained without current endorsement of these corrected details.",
   "operative_historical_coordinate_binding_qualification": {
     "meaning": "Retained dated filename coordinates can now hold successors. Each exact old tuple is verified against actual preserved historical C bytes at the explicit containing-file/JSON-pointer association. Serialized historical fields and final-operative checks are unchanged; no new reading or source credit.",
     "exact_containing_file_pointer_and_historical_C_bindings": [
@@ -2155,5 +2155,57 @@
         "serialized_historical_tuple_unchanged": true
       }
     ]
+  },
+  "operative_source_consistency_correction": {
+    "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+    "correction_ids": [
+      "BA-SC-20261011-02"
+    ],
+    "qualification": "Chinatsu requests no resistance; the request does not establish whether resistance occurred.",
+    "effective_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 55438,
+      "sha256": "7e42273afdeed7dd38bbdb99cedfb12d956bdad616ccc7d528a63f8a3318e9c7",
+      "git_blob_oid_of_actual_bytes": "46546cc796ff45078172da2846038e6a74e92019"
+    },
+    "prior_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PREFECT_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 55142,
+      "sha256": "3473dc911afad1ebd9cde76c80bda0fa659afa1de84dedc12c718724e0127e86",
+      "git_blob_oid_of_actual_bytes": "d7ee4d7c1331fdeedf261e50463d156e60ac8a93"
+    },
+    "preservation": "Original author/ROOT payloads, receipt decisions, source and paragraph hashes, attachment tuples, authority-framing snapshots and complete inverse ranges remain historical and unchanged. This dated correction governs current claim/endpoint use and the effective body binding; earlier canonical tuples and exact-unchanged-line labels describe the pre-correction snapshot. It does not claim new ROOT receiving, primary/media inspection, source admission, character identity, package, model, milestone or integration credit."
   }
+,
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/historical_author_or_ROOT_payload/sources/16/fresh_argument_witnesses/0/text",
+      "retained_value_utf8_sha256": "5074fccdb07e91e166d15fe62ddff3b43f17dd7db18eb5feae378a9a699c75ea",
+      "finding_ids": [
+        "P30-P3-INST-PANDEMONIUM-ROLES-RESOURCES-SELECTIVE-CARE-ROOT_PANDEMONIUM_PS04_EXACT_DOCUMENTARY_DIFF_AND_ALL_CURRENT_REPETITION_POINTERS_V1-196",
+        "P30-P3-INST-PREFECT-PROTECTION-INFORMATION-FORCE-ROOT_PREFECT_S16_EXACT_DOCUMENTARY_HASH_DISCREPANCY_AND_CURRENT_QUALIFICATION_PROPOSAL_V1-PREFECT_S16_FROZEN_TEXT_HASH_ONE_SPACE"
+      ]
+    },
+    {
+      "json_pointer": "/historical_author_or_ROOT_payload/sources/16/fresh_argument_witnesses/0/utf8_text_sha256",
+      "retained_value_utf8_sha256": "02e268d60b787f88a9d7927a33ead9ef9b4dad656e25d7accb674cafec884313",
+      "finding_ids": [
+        "P30-P3-INST-PREFECT-PROTECTION-INFORMATION-FORCE-ROOT_PREFECT_S16_EXACT_DOCUMENTARY_HASH_DISCREPANCY_AND_CURRENT_QUALIFICATION_PROPOSAL_V1-PREFECT_S16_FROZEN_TEXT_HASH_ONE_SPACE"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

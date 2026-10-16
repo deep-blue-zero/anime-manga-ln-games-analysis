@@ -4,7 +4,7 @@ artifact_type: synthesis_architecture
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: Japanese light novel main series V01-V17; side material reserved for post-freeze validation
+source_boundary: Japanese main-series V01-V17 prospective derivation; four preserved post-freeze holdouts; the 41-object 2026-10-16 source snapshot supplies a separately gated expanded-corpus stage
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -410,3 +410,26 @@ It is complete when the evidence supports answers to questions such as:
 - How confident are we, and what evidence would revise the answer?
 
 That standard, rather than volume count or document count, governs archival closure.
+
+## 9. Expanded-corpus responsibility amendment — 2026-10-16
+
+The owner's completion instruction extends this architecture's terminal responsibility beyond the four previously identified holdout books. The [source lock](../01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_LOCK.md) and [coverage/admission matrix](../01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.md) control the fixed 41-object snapshot. Existing main-series methods, ten ledger responsibilities, checkpoint identities and prospective derivation boundaries remain governing. This is an extension of the existing project, not a new reading generation or parallel corpus.
+
+The required order is **main-series derivation and main-only reconstruction freeze → frozen-model validation → expanded-corpus analysis → post-validation reconstruction**. Specialist main-series conclusions and the main-only suite must be retrievable independently of later supplemental findings. Phase 8.5 retains its four pre-existing holdouts; inspecting those four books alone does not close the expanded phase.
+
+| Responsibility | Canonical home | Acceptance condition |
+|---|---|---|
+| Fixed inventory, identity, edition, creator, integrity and component coverage | `01 Source Lock and Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.md` and its structured register | All 41 objects reconciled; component-level admission and completion remain distinct from metadata/byte checks |
+| Main-only model-suite freeze and immutable baseline identity | Existing `06 Character Modeling and Reconstruction/` models, with freeze receipt in `04 Checkpoints and Model Validation/` | Four principal models, party/transfer models and suite audit complete; exact suite snapshot frozen before side reading |
+| Holdout outcomes and failure analysis | `04 Checkpoints and Model Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md` | Precommitted tests, scene eligibility, positive/adverse/ambiguous/non-applicable results and confounds recorded against the unchanged suite |
+| Secondary novels, anthologies, edition-contained bonus fiction, and narrative portions of mixed books | `10 Expanded Corpus/`, one evidence-proportional reading per coherent book or clearly identified component group | Complete admitted narrative reading, reproducible locators, narrator/chronology/continuity boundaries, character/relationship findings, competing readings and explicit remaining gaps |
+| Expanded-corpus integration | `10 Expanded Corpus/KONOSUBA_EXTENDED_CORPUS_SYNTHESIS.md` | Integrate the principal secondary-novel work, viewpoint/genre/institutional differences, continuity conflicts and material revisions; four-book validation alone is insufficient |
+| Evidence-proportional secondary character reconstructions | Existing `06 Character Modeling and Reconstruction/`, separately named subjects | Promotion thresholds in the reconstruction protocol met across varied contexts; limited profiles where they are not |
+| Post-validation principal-model revisions | Existing reconstruction topical homes with distinct version identity and preserved main-only snapshot | Every consequential change attributed to validation or expanded evidence; no change to prospective source states or scores |
+| Completion audit and recoverable run state | Existing `09 Audits and Manifests/`, linked from the single current map | Required analytical outputs semantically reviewed; all admitted narrative components have dispositions; exclusions, blocked evidence and unpublished work explicit |
+
+Multi-volume secondary fiction preserves its own order and knowledge boundary. Publication chronology, in-world chronology and analyst encounter order must be recorded separately. In particular, later Dust volumes used for the main-model holdout do not become prospective knowledge in an earlier Dust reading; a separately bounded reader or an expressly retrospective account must preserve that distinction. An anthology's stories and an EPUB's bonuses receive individual identities rather than one undifferentiated book-level completion tick.
+
+Artbook prose, fanbook fiction, editorial supplements and narrative TRPG components require individual inspection and authority decisions. Image-only packaging creates a page-inspection obligation. Illustrations, captions, mechanics, reference, creator commentary and promotional text receive their own dispositions; their presence cannot establish either complete fictional-prose coverage or equal main-narrative authority. Ambiguous continuity remains OPEN rather than being harmonized by assumption.
+
+Do not create the later analytical homes as empty templates. Materialize them when substantive work reaches that responsibility. Closure requires actual validated arguments, models and evidence routes, not document existence, a volume count or a proposed-work checklist. Retain `CURRENT_STATE_AND_CORPUS_MAP.md` as the single entrypoint until a separately verified release transition.

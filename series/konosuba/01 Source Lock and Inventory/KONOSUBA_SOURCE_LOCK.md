@@ -4,7 +4,7 @@ artifact_type: source_lock
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: Japanese main-series light novels V01-V17 complete in the current corpus; V07 acquired and audited 2026-08-27
+source_boundary: Japanese main-series V01-V17 remain the exclusive prospective derivation corpus; the 41-object 2026-10-16 expanded inventory is admitted only through the staged component rules below
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -22,11 +22,11 @@ The canonical derivation corpus is the **Japanese main-series light novels in vo
 
 Current primary-source root:
 
-`../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md#drive-ref-0f70fc4c9766e347`
+Drive source-folder ID: `1cCqwK0Bvd9OjcnN8jdsixAQrVOmlFfuw`.
 
 Main-series subfolder:
 
-`../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md#drive-ref-2d38c00a5f2fb83a`
+Drive main-series folder ID: `1EEgPj_i0bJSUUF6ZHCc5JUyCduMAigO8`.
 
 The retained EPUBs are governed by the source audits under `Source Audit and Manifests` and the current `audit_manifest.json`.
 
@@ -42,7 +42,7 @@ Missing:
 
 The former V07 continuity gate is **RESOLVED**. V07 was added to the canonical `Main Series` folder, matched the updated manifest SHA-256 exactly, passed ZIP/EPUB integrity checks, and passed a dedicated Japanese-language audit on 2026-08-27.
 
-Canonical sequential analysis may therefore proceed V07 -> V08 -> V09 under the already-frozen Model Generation 0.2 prospective predictions. Later source availability does not license out-of-order analytical updates.
+Canonical sequential analysis is accepted through V10. The owner's 2026-10-16 continuation authorizes V11–V17 continuously, preserving the existing Gen03 predictions for V10–V12 and all later checkpoint-before-exposure requirements. Source availability does not license out-of-order analytical updates. The former V07–V09 route and its Gen02 freeze remain historical evidence in the accepted readings/checkpoints.
 
 ## 4. Withheld sources
 
@@ -56,6 +56,19 @@ The following sources are **not** part of initial model derivation:
 They are reserved for later out-of-sample validation after the main-series models are frozen, subject to chronology/canonicity/viewpoint audit.
 
 This is a methodological holdout, not a judgment that the material is unimportant.
+
+### 2026-10-16 expanded-scope amendment
+
+The owner's attached completion instruction and mandatory expanded-source reconciliation authorize the [41-object source snapshot](KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.md), without promoting every object or component to equal narrative authority. The [structured matrix](KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json) records identities, hashes, editions, creator roles, provenance, limitations and individual coverage states. The pre-existing four holdouts above are unchanged; all other supplementary books are supplementary-only for this run, not additional selectively scored tests.
+
+1. **Main-series derivation:** only the sequential main narrative of V01–V17 updates prospective model states. Edition-contained bonuses, afterwords, illustrations and promotional matter remain outside those states. Finish and freeze the main-series evidence and reconstruction suite before withheld narrative exposure.
+2. **Frozen-model validation:** use the four already designated books, with scene eligibility/chronology/viewpoint audit and predictions fixed before the behavior being scored. Preserve failed, ambiguous, untested and non-applicable results. Do not change the frozen suite to improve its score.
+3. **Expanded-corpus analysis:** after initial validation, read the other verified fictional prose, preserving each coherent secondary sequence and individual anthology/bonus identities. Main-series ebook bonuses join this lane individually; earlier exclusion from derivation is not permanent exclusion from the expanded project. `Fantastic Days`, artbook/fanbook fiction and TRPG narrative need explicit component/continuity dispositions. Illustration, reference, editorial, rule and promotional components cannot silently become fictional narrative evidence.
+4. **Post-validation reconstruction:** revise supported current models through separately attributable versions after recording validation outcomes. Preserve the main-only suite, prospective checkpoints and the experiment unchanged.
+
+The fixed scope is the collection at reconciliation, not future releases. Every admitted narrative component must end with a traceable analysis or a precise unresolved disposition. Byte verification and book indexing alone never establish READ_COMPLETE, ANALYZED or VALIDATION_USED. The image-only artbooks, fanbook and TRPG books require direct page inspection to identify their prose and narrative components; no completion or blanket narrative-authority claim is made for them here.
+
+This amendment changes the project-local source schedule, not global repository authority, the primary-source manifests' historical bytes, or the literary authority of the prospective main-series baseline.
 
 ## 5. Non-authoritative external material during sequential reading
 

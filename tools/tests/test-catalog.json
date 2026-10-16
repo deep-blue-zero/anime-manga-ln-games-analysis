@@ -1,6 +1,96 @@
 {
   "schema": "repository-test-catalog/v1",
   "tests": {
+    "test_nightly_integration.CleanupTests.test_transient_cleanup_preserves_success_and_never_replays_remote_mutations": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Retry only ENOTEMPTY disposal while preserving the successful result, exact receipts, and one reconciliation push, PR creation, protected merge, and audit dispatch."
+    },
+    "test_nightly_integration.CleanupTests.test_persistent_cleanup_fails_after_bounded_attempts_without_losing_receipts": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Fail after three ENOTEMPTY cleanup attempts without rewriting verified integration receipts or repeating remote mutations."
+    },
+    "test_nightly_integration.CleanupTests.test_other_cleanup_errors_fail_immediately_even_after_a_retry": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Propagate non-ENOTEMPTY cleanup errors immediately, including after a transient ENOTEMPTY, without repeating remote mutations."
+    },
+    "test_nightly_integration.CleanupTests.test_transient_cleanup_does_not_turn_failed_operations_into_success": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Retain blocked and failed post-merge results after successful cleanup retry, including the exact integrated-but-unverified receipt."
+    },
+    "test_nightly_integration.CleanupTests.test_persistent_cleanup_keeps_original_operation_failure_in_report": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Retain the original post-merge audit failure and integration SHA when bounded cleanup also fails."
+    },
+    "test_nightly_integration.CleanupTests.test_unhandled_original_exception_survives_successful_cleanup_retry": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Preserve the original unhandled exception or interruption and traceback after successful cleanup retry."
+    },
+    "test_nightly_integration.CleanupTests.test_simultaneous_operation_and_cleanup_exceptions_are_both_preserved": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Expose both original and cleanup exceptions with their tracebacks and preserve the original cause when cleanup exhausts its retry budget."
+    },
+    "test_nightly_integration.CleanupTests.test_real_pack_directory_race_is_removed_on_retry": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Reproduce a late file appearing during real pack-directory removal and verify that retry removes the entire disposable tree."
+    },
+    "test_nightly_integration.RealGitTests.test_automatic_maintenance_is_disabled_only_in_disposable_graph": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Use real Git to verify local maintenance and automatic-GC settings override inherited configuration without changing it."
+    },
     "test_governance_authority.PublicGovernanceInvariantTests.test_historical_character_registry_matches_reviewed_snapshot": {
       "group": "regression",
       "smoke": false,
@@ -1536,6 +1626,28 @@
       ],
       "purpose": "transport uses canonical repository metadata url"
     },
+    "test_nightly_integration.ControllerTests.test_apply_requires_owner_only_access_before_any_write": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "apply halts before any write unless collaborators, invitations and deploy keys show owner-only write access"
+    },
+    "test_nightly_integration.ControllerTests.test_preview_records_access_without_halting": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "preview records unverified or wider access without halting or writing"
+    },
     "test_nightly_integration.ControllerTests.test_preview_transport_rejects_every_mutation": {
       "group": "synthetic_git",
       "smoke": false,
@@ -1666,7 +1778,7 @@
         "governance/schemas/*",
         "governance/repository-controls/*"
       ],
-      "purpose": "protection requires strict status and owner enforcement"
+      "purpose": "the active main ruleset requires strict trusted status and verifiable owner/admin enforcement"
     },
     "test_nightly_integration.ControllerTests.test_scope_allows_only_named_root_and_reviewed_shared_paths": {
       "group": "synthetic_git",
@@ -2140,6 +2252,126 @@
         "tools/character_index_core.py"
       ],
       "purpose": "Accept an offline staged closure against the recorded historical commit independently of a different HEAD."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_reads_recognized_initialization_block_like_the_lock": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Read terminal state from the fenced initialization block the lock reader recognizes, accept the continuation-policy completed token, and keep every terminal requirement."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_fails_closed_on_contradictory_or_malformed_surfaces": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Reject terminal state that front matter and an initialization block state differently or that is not a mapping, while permitting agreeing restatement."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_completed_run_requires_reviewed_global_closure_to_close_its_lock": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Medalist regression: completion metadata alone cannot close a post-baseline lock, a reviewed global closure can, and a closed run cannot remain OPEN."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_permits_evidence_backed_revision_without_admission": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Permit ledger, erratum, and synthesis revision under a closure while rejecting in-place reading edits, sequentially typed corrections, and untyped corrections in a reading directory."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_series_local_exception_declarations_cannot_create_terminal_authority": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Ignore unrecognized project exception and closure declarations (only the schema-bound run-closure record is read) and reject exception fields inside a reviewed closure record."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_project_run_closure_seals_a_completed_run_like_a_terminal_closure": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "A CLOSED project run closure seals readings, rejects edits and additions, and requires the CLOSED terminal state exactly like a global terminal closure."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_reopened_run_closure_keeps_seals_while_the_next_run_adds_readings": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "A REOPENED run closure keeps every seal and its history check while the next run adds readings under the ordinary OPEN gate."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_project_run_closure_fails_closed_on_malformed_or_duplicate_records": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Reject malformed, nonregular, out-of-project, or unknown-state run closures and a project carrying both a run closure and a global terminal closure."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_run_closure_completion_commit_must_be_on_main": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "A run closure's completion commit must be an ancestor of refs/remotes/origin/main, and the check fails closed when that ref is missing."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_run_closure_seals_persist_relative_to_main": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Seals in main's run closure survive deletion, re-sealing and root moves; only a release recorded in main's own control, bound to main's exact record and seal, lets the project leave its run stop, and a terminal closure keeps the seals."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_run_closure_needs_main_and_covers_nested_roots": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "The gate fails closed without refs/remotes/origin/main, and a closed parent's sealed corpus covers new readings under a nested registered root, including a legacy one."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_run_closure_amendments_and_orphans_fail_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Each malformed run_closure_amendments release fails with its specific error, and a run closure under an unregistered root fails validation."
     },
     "test_project_initiation_gate.ProjectInitiationGateTests.test_current_repository_examples_remain_compatible": {
       "group": "live_corpus",
@@ -2897,6 +3129,16 @@
       ],
       "purpose": "repository audit requires character branch trigger"
     },
+    "test_validate_repository.PhaseValidationTests.test_repository_audit_requires_every_agent_branch_trigger": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "repository audit requires every agent branch trigger"
+    },
     "test_validate_repository.PhaseValidationTests.test_repository_audit_workflow_rejects_mutation_capability": {
       "group": "live_corpus",
       "smoke": false,
@@ -3007,6 +3249,56 @@
       ],
       "purpose": "selected non head commit controls identity history"
     },
+    "test_validate_repository.PhaseValidationTests.test_commit_identity_policy_separates_author_and_committer_roles": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "commit identity policy separates author and committer roles"
+    },
+    "test_validate_repository.PhaseValidationTests.test_missing_entrypoints_must_equal_the_reviewed_allowlist": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "missing entrypoints must equal the reviewed allowlist"
+    },
+    "test_validate_repository.PhaseValidationTests.test_hazard_prefilters_never_skip_a_match": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "hazard prefilters never skip a match"
+    },
+    "test_validate_repository.PhaseValidationTests.test_one_authority_graph_serves_each_consumer": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "one authority graph serves each consumer"
+    },
+    "test_validate_repository.PhaseValidationTests.test_routing_output_set_has_one_definition": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "routing output set has one definition"
+    },
     "test_validate_repository.PhaseValidationTests.test_percent_encoded_markdown_paths_decode_before_resolution": {
       "group": "live_corpus",
       "smoke": false,
@@ -3067,7 +3359,7 @@
       ],
       "purpose": "populated index generates from index then checks after staging"
     },
-    "test_validate_repository.PhaseValidationTests.test_current_worktree_cli_fails_closed_until_evidence_is_staged": {
+    "test_validate_repository.PhaseValidationTests.test_current_worktree_snapshot_fails_closed_until_evidence_is_staged": {
       "group": "live_corpus",
       "smoke": false,
       "inputs": [
@@ -3075,7 +3367,318 @@
         "tools/tests/test_validate_repository.py",
         "tools/*.py"
       ],
-      "purpose": "current worktree cli fails closed until evidence is staged"
+      "purpose": "current worktree snapshot fails closed until evidence is staged"
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_selected_history_matches_full_snapshot_without_reading_other_blobs": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/character_index_core.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_git_snapshot_io.py"
+      ],
+      "purpose": "Selected immutable paths preserve bytes and modes, exclude pathspec siblings and directories, and reject noneligible evidence types."
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_selected_history_still_requires_a_real_commit_even_for_empty_paths": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/character_index_core.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_git_snapshot_io.py"
+      ],
+      "purpose": "Missing history and noncommit objects cannot be hidden by empty path selection."
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_selected_history_does_not_cache_success_after_object_loss": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/character_index_core.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_git_snapshot_io.py"
+      ],
+      "purpose": "Historical object loss fails after a previous successful read; no stale-success cache."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_independent_execution_fences_cannot_hide_conflicts": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "terminal independent execution fences cannot hide conflicts."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completed_open_run_preserves_readings_but_rejects_new_admission": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "completed open run preserves readings but rejects new admission."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_active_bounded_run_can_admit_and_post_merge_check_agrees": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "active bounded run can admit and post merge check agrees."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_final_transaction_can_complete_existing_active_run_without_retroactive_failure": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "final transaction can complete existing active run without retroactive failure."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completed_state_cannot_launder_admission_in_post_merge_audit": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "completed state cannot launder admission in post merge audit."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_inconsistent_missing_and_ambiguous_run_fields_fail_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "inconsistent missing and ambiguous run fields fail closed."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_transition_cannot_expand_recorded_bounds": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "completion transition cannot expand recorded bounds."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_retrospective_correction_preserves_accepted_legacy_state": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "retrospective correction preserves accepted legacy state."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_existing_path_retyping_or_replacement_does_not_hide_admission": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "existing path retyping or replacement does not hide admission."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_missing_main_and_moved_activation_baseline_fail_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "missing main and moved activation baseline fail closed."
+    },
+    "test_repository_indexes.RepositoryIndexTests.test_authority_label_uses_live_selected_state_not_frozen_scope": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/update_repository_indexes.py",
+        "tools/tests/test_repository_indexes.py",
+        "governance/AUTHORITY_STATE.yaml",
+        "series/registry.json"
+      ],
+      "purpose": "authority label uses live selected state not frozen scope."
+    },
+    "test_repository_indexes.RepositoryIndexTests.test_authority_label_fails_closed_without_live_state": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/update_repository_indexes.py",
+        "tools/tests/test_repository_indexes.py",
+        "governance/AUTHORITY_STATE.yaml",
+        "series/registry.json"
+      ],
+      "purpose": "authority label fails closed without live state."
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_selected_history_ignores_commit_replacement_refs": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/character_index_core.py",
+        "tools/tests/test_git_snapshot_io.py"
+      ],
+      "purpose": "Historical commit identities cannot be substituted through local replacement refs."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_legacy_route_does_not_hide_partial_or_malformed_run_declarations": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Legacy absence is preserved while partial or malformed declared execution fails closed."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_entrypoint_relocation_cannot_drop_completed_run_state": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Moving or repointing a legacy entrypoint cannot discard a completed run, even when its displayed identity changes."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_legacy_entrypoint_relocation_preserves_absent_run_compatibility": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "A genuine legacy root without declared execution retains compatibility when its entrypoint moves, before and after integration."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_entrypoint_relocation_preserves_active_run_completion": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "A moved entrypoint retains the prior active run for a legitimate final admission transaction and exact-main audit."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_entrypoint_relocation_fails_closed_when_prior_state_is_unavailable": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Admission fails closed when the prior registered canonical entrypoint cannot be recovered."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_entrypoint_relocation_fails_closed_on_ambiguous_prior_identity": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Conflicting prior root and stable identity routes cannot supply an arbitrary admission history."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_final_transaction_rejects_prior_prose_closed_lock": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "A final admission cannot rely on prior structured OPEN/active state that conflicts with a prose CLOSED lock, before or after integration."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_requires_active_pinned_identity_and_exact_target": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Missing, disabled, unpinned or incorrectly targeted main rulesets fail closed."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_rejects_bypass_or_unverifiable_owner_enforcement": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Every bypass actor and absent or permissive owner/admin enforcement blocks integration."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_requires_every_preservation_and_audit_rule": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Deletion, non-fast-forward, linear-history and audit rules remain mandatory; malformed or duplicate rules fail."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_requires_strict_audit_from_trusted_app": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "The required integration audit must be strict and bound to trusted GitHub Actions app 15368."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_requires_enabled_squash_without_merge_fallback": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Required linear history selects enabled squash merging without a merge-commit fallback."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_is_checked_before_writes_and_rechecked_before_merge": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Apply verifies the pinned main ruleset before writes and rechecks it before the protected merge."
+    },
+    "test_nightly_integration.ControllerTests.test_main_ruleset_drift_stops_the_protected_merge": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "An unsafe main ruleset change after preflight blocks the merge without mutation."
+    },
+    "test_nightly_integration.ControllerTests.test_unreadable_main_ruleset_stops_apply_without_mutation": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Unreadable or missing pinned ruleset stops apply without fallback, push or remote mutation."
     }
   }
 }

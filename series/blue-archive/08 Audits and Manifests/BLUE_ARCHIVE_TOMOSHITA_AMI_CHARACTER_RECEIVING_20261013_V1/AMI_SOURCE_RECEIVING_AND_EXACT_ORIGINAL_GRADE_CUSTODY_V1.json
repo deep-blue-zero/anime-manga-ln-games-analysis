@@ -1,0 +1,1198 @@
+{
+  "schema": "AMI_M039_INITIAL_COMPLETE_ALLOCATION_AND_FINITE_CORE_SOURCE_RECEIVING_RECEIPT_V2",
+  "writer": "/root/receive_last16",
+  "stage": "C_ONLY_SOURCE_RECEIVING_AND_PRIVATE_WRITING_IN_PROGRESS_NO_CANONICAL_ACCEPTANCE",
+  "home": "P3-CHAR-M039",
+  "full_exact_allocation": {
+    "bytes": 106208,
+    "sha256": "77b14e0887a2a24f743ebb111818e60530ac5d61c1f87ad709cea5e88100a365",
+    "actual_complete_scope": "All top fields and five full source/home/responsibility arguments received; no primary claim.",
+    "tools": [
+      "6174c8",
+      "8a7b15",
+      "13a396",
+      "48af77",
+      "239cfe",
+      "fa6f30",
+      "0b93b6"
+    ],
+    "clipped_initial_probe": "3126d7 not whole allocation credit; whole fields/records repaired in listed successors"
+  },
+  "exact_target": {
+    "priority": 1,
+    "required_id": "P3-CHAR-M039",
+    "display": "Tomoshita Ami",
+    "source_ref": "P3-M039",
+    "specific_question": "How do deputy coordination, formal reception, practical limits and cat attachment coexist with independent recipient decisions and ordinary wants? Ami must remain distinct from Minato despite the earlier Ami speaker tag during Minato introduction.",
+    "priority_reason": "Bounded deputy perspective is the closest complementary character responsibility to the completed Minato cluster; it tests whether useful coordination wrongly absorbs clubs' own choices. Food limits, familiar company and practical objections are substantive evidence.",
+    "analytical_primary_paths": [
+      {
+        "alias": "MN02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      {
+        "alias": "MN03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      {
+        "alias": "MN10",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      {
+        "alias": "MN11",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      {
+        "alias": "MN12",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      {
+        "alias": "MN13",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      {
+        "alias": "MN14",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      {
+        "alias": "MN15",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      {
+        "alias": "MN16",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      {
+        "alias": "MN17",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      }
+    ],
+    "source_episode_contract": "BA:main:series2:003:001:002:u0109–0125;003:u0019–0038,0070–0073,0116–0125;010–014, plus source-local EVENT861 office/work meanings at their separately admitted scope.",
+    "finite_nontransfer_controls": [
+      "アミ/灯下アミ self-name and separate leader roles are positive scope; no Minato/Ami identity fusion.",
+      "Club consultation, a request, work coordination and completed permission/outcome are separate.",
+      "No manufactured private family, romance, all-club cause, completed later club request or performed voice."
+    ],
+    "current_required_row": {
+      "required_package_id": "P3-CHAR-M039",
+      "kind": "CHARACTER",
+      "subject_or_question": "Tomoshita Ami",
+      "source_responsibility_refs": "P3-M039",
+      "mandatory_named_section_ids": "",
+      "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+      "canonical_path": "",
+      "persistence_state": "UNACCEPTED",
+      "remote_publication": "NOT_YET_PUBLISHED",
+      "main_integration": "NOT_YET_INTEGRATED",
+      "completed_after_ROOT_install": "false",
+      "required_count": "1"
+    },
+    "scope_home": {
+      "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+      "pointer": "/homes/30",
+      "complete_original_home": {
+        "home_key": "P3-CHAR-M039",
+        "kind": "CHARACTER",
+        "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+        "source_responsibility_refs": [
+          "P3-M039"
+        ],
+        "literary_rationale": [
+          "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+        ],
+        "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+        "counts_as_completed": false,
+        "proposed_denominator_entry": true
+      }
+    },
+    "mandatory_named_children": [],
+    "readiness": {
+      "scope_status": "Already accepted required standalone home WITH LIMITS; no new eligibility/denominator decision is proposed.",
+      "literary_status": "UNACCEPTED/PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING at exact required index.",
+      "output_primary_canonical_path": "UNASSIGNED in authoritative current required row; ROOT must bind one existing-role appropriate specialist path before authorship/installation. No guessed filename is a current canonical artifact.",
+      "source_grade": "Admitted maintained written Japanese analytical owners and qualified checkpoints; exact source binding is not fresh semantic/primary reading.",
+      "receiving": "New target author must receive every consequential connected analytical argument/tail at actual whole, selected, or already adequate prior scope. Root-adopted Minato purposes/19core are reusable attributed evidence; they do not grant a fresh new-target105 appearance/meaning receipt.",
+      "common105": "Assess the exact105 selected owner responsibilities for this specific target, including positive comparative/ordinary purposes; record countercases/finite results and actor/mode/chronology bounds. Preserve actual normal grades. A metadata name search cannot certify absence or exclude a purpose.",
+      "source_class_control": "MAIN, EVENT, GROUP, whole private/bond/MomoTalk and written character-data remain different roles. A private pool for another actor is not a private pool for Ami/Sammy/claimant.",
+      "required_acceptance": "Full role-appropriate argument, serious rivals and claim-specific limits; exact saved-current bytes/inverses and independent review; ROOT manual receiving then authorpreflight; ordinary push with full SOURCE/HK/FINAL sequence; current main integration remains separate.",
+      "AV": "No new primary/native/raw/AV or performed voice is assigned. Written labels/vocalizations/register cannot establish performance or clinical mechanisms.",
+      "open_gaps": "All14 OPEN; only affected stronger claims remain gated. No operational reconstruction/model/prediction readiness promotion."
+    },
+    "complete_original_responsibility_argument": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/CHARACTER_AND_SOURCE_FORM_PARTITION_PART_01.json",
+      "pointer": "/historical_payload/rows/38",
+      "full_original_row": {
+        "source_responsibility": "P3-M039",
+        "subject": "Tomoshita Ami",
+        "proposal_targets": [
+          "P3-CHAR-M039"
+        ],
+        "allocation": "RETAIN_SOURCE_SCOPED_PROPOSED_DISPOSITION_AND_ORIGINAL_SEMANTICS",
+        "acceptance": "ROOT_PENDING_THIS_PARTITION",
+        "original_complete_decision": {
+          "lane": "MAIN_SPECIAL",
+          "source_file": "CENSUS_MAIN_SPECIAL/MAIN_SPECIAL_CENSUS_CANDIDATE.json",
+          "source_field": "decisions",
+          "source_row": 38,
+          "decision": {
+            "candidate_unit_id": "P3-M039",
+            "subject": "Tomoshita Ami",
+            "verdict": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+            "review_state": "SUBSTANTIVE_LOCAL_RECOMMENDATION_ROOT_ADOPTION_PENDING",
+            "package_key": "P3-CHAR-M039",
+            "raw_identity_or_source_ids": "",
+            "exact_identity_scope": "アミ/灯下アミ self-name positive; earlier Ami tag Minato introduction remains two distinct leaders, not identity fusion.",
+            "inspected_current_homes": [
+              "02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md"
+            ],
+            "sections_11_feasibility": {
+              "core_thesis": "Ami’s deputy work mediates formal reception, practical limits and cat attachment; useful coordination has a specific recipient and cannot be credited with every club’s independent choice.",
+              "longitudinal_arc_public_private": "Separate leader introduction despite tag drift, care for Sammy, interruption of Mitsuki wager, departure coordination and later club requests form a bounded chapter trajectory. Later requests are not all completed.",
+              "school_club_role": "Island deputy role and ceremonial tasks differ from Minato captain judgment. Club consultation and ship permissions are not automatically settled by coordination.",
+              "ordinary_life": "Food limits for Sammy, familiar companionship and ordinary practical objections retain own value. No human private repertoire is manufactured.",
+              "crisis_behavior_and_counterevidence": "Cat departure conflict and last voyage work do not reduce her to obedient background. Distinct roles and means require source-local attribution.",
+              "sensei_relationship": "Ami welcomes/reacts to Sensei and works around his visit. No separate romance/guardian status or full recovery follows.",
+              "major_peer_relationships": "Ami→Sammy fetches/cares; Ami→Mitsuki interrupts betting; Ami→Minato and clubs different coordination paths. None is generic one-directional obedience.",
+              "language_voice_identity": "アミ/灯下アミ self-name positive; earlier Ami tag Minato introduction remains two distinct leaders, not identity fusion.",
+              "evidence_route": "BA:main:series2:003:001:002:u0109–0125;003:u0019–0038,0070–0073,0116–0125;010–014",
+              "public_private_self": "Retain the represented public, private-staged, inward, reported and conditional channels described above. No typed private family is established for this local scope; this is an explicit absent channel, not a character-value or independent-package exclusion.",
+              "competing_readings": "The thesis and contrary acts above must both appear. Do not promote an invariant, a total reform/fraud, a sole-savior cause, universal consent, or a verified technical/medical/legal mechanism from the bounded outcomes."
+            },
+            "no_exclusion_basis": "No stakes, popularity, model grade, MAIN frequency, animal/system/antagonist status or private-join absence used as an exclusion rule.",
+            "mandatory_debt": [
+              "ROOT must receive/adjudicate this complete candidate argument and reconcile identity/package overlap before denominator freeze.",
+              "Complete the shared 105-owner appearance/roster review and trace any consequential additional source to its adequate existing argument; a bounded route query is not global absence.",
+              "A future specialist must write all 11 sections and substantive competing readings at exact evidence scope; this census is not a completed monograph."
+            ],
+            "legitimate_limits": [
+              "All 14 original gaps remain OPEN and claim-specific; missing global chronology, voice performance and unprinted future acts constrain claims.",
+              "Existing accepted arguments reused; no new primary-reading or model/validation credit."
+            ],
+            "matched_dated_retrieval_siblings": [
+              "P3-A272"
+            ]
+          }
+        },
+        "superseded_exact_same_F_decisions": [],
+        "receiving_qualification": "Attributed original author and ROOT receiving; personal projected question receiving only except complete Red Winter body and complete Millennium thesis/shared sections",
+        "completion_credit_added": 0
+      },
+      "current_history_rule": "Historical pending/denominator-freeze duties are preserved as history; current V3 required-home acceptance discharges scope allocation only, not literary authorship/source-purpose receiving."
+    },
+    "current_candidate_route": {
+      "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_DISPOSITIONS_PART_02_V3.json",
+      "pointer": "/rows/332",
+      "full_original_candidate_route": {
+        "candidate_unit_id": "P3-M039",
+        "literal_subject": "Tomoshita Ami",
+        "original_population": "MAIN_ONLY_CONTEXT_SPECIAL_RETRIEVAL",
+        "literal_identity_or_source_ids": "",
+        "original_source_boundary": "S2V003",
+        "original_evidence_paths": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_002.md#3-kei-mini-and-unjoined-written-responsibilities|series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "original_eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+        "original_argument_or_limit": "Published retrieval witnesses: BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md:137; BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md:278. Bounded candidate inquiry only; complete source/identity/eligibility review remains pending. No private family, person merge or independent package inferred from lexical matching.",
+        "original_package_target": "",
+        "current_home_refs": [
+          "P3-CHAR-M039"
+        ],
+        "disposition": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+        "individual_rationale": "P3-M039 (‘Tomoshita Ami’) routes to the explicitly accepted355/29 homes: P3-CHAR-M039. Full original source thesis, contrary cases, intrinsic wants and exact recipient/identity/mode/chronology limits remain in the preserved whole decision and ROOT scope. Scope acceptance is separate from literary writing/receiving and adds no completed package.",
+        "original_decision_references": [
+          {
+            "source_responsibility": "P3-M039",
+            "whole_original_source_decision": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/CHARACTER_AND_SOURCE_FORM_PARTITION_PART_01.json",
+            "original_source_field": "decisions",
+            "original_source_row": 38,
+            "meaning": "Whole thesis/contrary/eleven dimensions/identity/mode/debt preserved"
+          }
+        ],
+        "unresolved_target_tokens": [],
+        "global_person_join_added": false,
+        "completion_credit_added": 0,
+        "positive_revisit_trigger": "A positively recovered admitted source-local witness and adequate complete analytical argument establishes the actual correspondent identity/role/question; ROOT must adjudicate any strengthened join or scope change."
+      }
+    }
+  },
+  "future_authorship_binding": {
+    "existing_home": "P3-CHAR-M039",
+    "future_primary_authorship_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOMOSHITA_AMI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "actual_current_filesystem_and_index_absence": true,
+    "current_required_row_unassigned_preserved": true,
+    "question": "How do deputy coordination, formal reception, practical limits and cat attachment coexist with independent recipient decisions and ordinary wants? Ami must remain distinct from Minato despite the earlier Ami speaker tag during Minato introduction.",
+    "stage": "ROOT_DESIGNATED_FUTURE_AUTHORED_PRIMARY_PATH_NOT_EXISTING_CANONICAL_ARTIFACT",
+    "named_children": []
+  },
+  "future_binding_input": {
+    "bytes": 3729,
+    "sha256": "486041bfa000c233f26ef8431ba0c33d48dea3d88bba71957eeb7f95147387a8",
+    "actual_full_receiving_tool": "a67af7"
+  },
+  "source_inputs_and_actual_grades": [
+    {
+      "alias": "MN01",
+      "Ami_alias": "AM01",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5569,
+        "sha256": "a4fb6f0650abe2e36684ae830810055c2c0d40e34c175527c937ff76c2218fb9",
+        "git_blob_oid_of_actual_bytes": "2cfa3f3fb22427358b1bb2c95958613d73473a92"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            35,
+            "1f8192"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 5569,
+          "sha256": "a4fb6f0650abe2e36684ae830810055c2c0d40e34c175527c937ff76c2218fb9",
+          "git_blob_oid_of_actual_bytes": "2cfa3f3fb22427358b1bb2c95958613d73473a92"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "ac318e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN02",
+      "Ami_alias": "AM02",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+      "tuple": {
+        "bytes": 6723,
+        "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+        "git_blob_oid_of_actual_bytes": "8c62783a20370f043b6220a70b9645b2c164c8bc"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            38,
+            "1f8192"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 6723,
+          "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+          "git_blob_oid_of_actual_bytes": "8c62783a20370f043b6220a70b9645b2c164c8bc"
+        },
+        "physical_lines": 38,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            38,
+            "ac318e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN03",
+      "Ami_alias": "AM03",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+      "tuple": {
+        "bytes": 7575,
+        "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+        "git_blob_oid_of_actual_bytes": "ee5db2ac32a5d864614dc43c23b5620520165efb"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            40,
+            "1f8192"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 7575,
+          "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+          "git_blob_oid_of_actual_bytes": "ee5db2ac32a5d864614dc43c23b5620520165efb"
+        },
+        "physical_lines": 40,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            40,
+            "ac318e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN04",
+      "Ami_alias": "AM04",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5941,
+        "sha256": "206063c0cf27047603b2d9a64b3adbd814ff4c5ed4d40c167342002182ff2dd3",
+        "git_blob_oid_of_actual_bytes": "98013d091c7fb81a18ea6036b500814d51548805"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            35,
+            "7de2a9"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 5941,
+          "sha256": "206063c0cf27047603b2d9a64b3adbd814ff4c5ed4d40c167342002182ff2dd3",
+          "git_blob_oid_of_actual_bytes": "98013d091c7fb81a18ea6036b500814d51548805"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "4efceb"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN05",
+      "Ami_alias": "AM05",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+      "tuple": {
+        "bytes": 6013,
+        "sha256": "ddf48a954b61ec4af0774692fd518ec31da33fd47747e5bfcd292357bf2ee3c6",
+        "git_blob_oid_of_actual_bytes": "bafbb30ae414142d820337f9941d8b30f1c0fa65"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            35,
+            "7de2a9"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 6013,
+          "sha256": "ddf48a954b61ec4af0774692fd518ec31da33fd47747e5bfcd292357bf2ee3c6",
+          "git_blob_oid_of_actual_bytes": "bafbb30ae414142d820337f9941d8b30f1c0fa65"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "4efceb"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN06",
+      "Ami_alias": "AM06",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+      "tuple": {
+        "bytes": 4898,
+        "sha256": "d93ae4904902d6142bf970c13d16873f9a98f4e1e71ccc2a69038e2d27ae4098",
+        "git_blob_oid_of_actual_bytes": "dd6f5713c857d1e79761543b41a2398cb91f3848"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            32,
+            "7de2a9"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 4898,
+          "sha256": "d93ae4904902d6142bf970c13d16873f9a98f4e1e71ccc2a69038e2d27ae4098",
+          "git_blob_oid_of_actual_bytes": "dd6f5713c857d1e79761543b41a2398cb91f3848"
+        },
+        "physical_lines": 32,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            32,
+            "4efceb"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN07",
+      "Ami_alias": "AM07",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5445,
+        "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+        "git_blob_oid_of_actual_bytes": "5e4a3767348c335693e33d88c06be38b81614fc5"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            35,
+            "57ff25"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 5445,
+          "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+          "git_blob_oid_of_actual_bytes": "5e4a3767348c335693e33d88c06be38b81614fc5"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "373956"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN08",
+      "Ami_alias": "AM08",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5427,
+        "sha256": "7757b826c87ce34013d0567621adb8a90ab09c87229b9ed9e2ba8d2ae03fa77e",
+        "git_blob_oid_of_actual_bytes": "12bf7d2d94cb381ca0d5706efa8ca01cc64f5e88"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            35,
+            "57ff25"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 5427,
+          "sha256": "7757b826c87ce34013d0567621adb8a90ab09c87229b9ed9e2ba8d2ae03fa77e",
+          "git_blob_oid_of_actual_bytes": "12bf7d2d94cb381ca0d5706efa8ca01cc64f5e88"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "373956"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN09",
+      "Ami_alias": "AM09",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+      "tuple": {
+        "bytes": 6296,
+        "sha256": "621761a34ca30ee73472c3d1b8dec45b0b64a3a48eb16a14e108b42b62889bfd",
+        "git_blob_oid_of_actual_bytes": "dd21df9e3375d84a85535512fc77920ae25ce2dd"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            37,
+            "57ff25"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN09",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 6296,
+          "sha256": "621761a34ca30ee73472c3d1b8dec45b0b64a3a48eb16a14e108b42b62889bfd",
+          "git_blob_oid_of_actual_bytes": "dd21df9e3375d84a85535512fc77920ae25ce2dd"
+        },
+        "physical_lines": 37,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            37,
+            "373956"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN10",
+      "Ami_alias": "AM10",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+      "tuple": {
+        "bytes": 6081,
+        "sha256": "1f145e56e2502648be73ece0ffc7df04c04919ace3122f0f1a1bbea5ac333675",
+        "git_blob_oid_of_actual_bytes": "5355335a4c0517a600509ffa41fa43116790abfe"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            37,
+            "d1260a"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN10",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 6081,
+          "sha256": "1f145e56e2502648be73ece0ffc7df04c04919ace3122f0f1a1bbea5ac333675",
+          "git_blob_oid_of_actual_bytes": "5355335a4c0517a600509ffa41fa43116790abfe"
+        },
+        "physical_lines": 37,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            37,
+            "04036e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN11",
+      "Ami_alias": "AM11",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5448,
+        "sha256": "90d84759c3e2d89c1c268d35bb9ebace287fad98ca1643f1214a7bfb7e0a1083",
+        "git_blob_oid_of_actual_bytes": "bdcacdb065ae5a4c1d01d03ae04fb8b090df7fa7"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            35,
+            "d1260a"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN11",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 5448,
+          "sha256": "90d84759c3e2d89c1c268d35bb9ebace287fad98ca1643f1214a7bfb7e0a1083",
+          "git_blob_oid_of_actual_bytes": "bdcacdb065ae5a4c1d01d03ae04fb8b090df7fa7"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "04036e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN12",
+      "Ami_alias": "AM12",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5095,
+        "sha256": "b9775698ccc1c6aceac919e318dbf62c32816a0aff2ed4d7d400e35c0f1c8d34",
+        "git_blob_oid_of_actual_bytes": "cd117c068e7f52b3377f3f4608e11b2af57ce703"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            34,
+            "d1260a"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN12",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 5095,
+          "sha256": "b9775698ccc1c6aceac919e318dbf62c32816a0aff2ed4d7d400e35c0f1c8d34",
+          "git_blob_oid_of_actual_bytes": "cd117c068e7f52b3377f3f4608e11b2af57ce703"
+        },
+        "physical_lines": 34,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            34,
+            "04036e"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN13",
+      "Ami_alias": "AM13",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5320,
+        "sha256": "61d3c148bde4013254aeb1c7b7e9343e2956e8df2a7d6ede7cc23bd0d56646fc",
+        "git_blob_oid_of_actual_bytes": "ce9a3e94b55acdfd3827f7d5f77487f54029376a"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            35,
+            "7038e0"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN13",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 5320,
+          "sha256": "61d3c148bde4013254aeb1c7b7e9343e2956e8df2a7d6ede7cc23bd0d56646fc",
+          "git_blob_oid_of_actual_bytes": "ce9a3e94b55acdfd3827f7d5f77487f54029376a"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "f155b2"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN14",
+      "Ami_alias": "AM14",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5764,
+        "sha256": "9c9a0b7c6c7e0f910278c32a54ebbc01743244e2a93f9ff40820a04fec1b39c6",
+        "git_blob_oid_of_actual_bytes": "cf5e0e26d2c47723315c06351ac81df3b6577c1c"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            35,
+            "7038e0"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN14",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+        "exact_tuple": {
+          "bytes": 5764,
+          "sha256": "9c9a0b7c6c7e0f910278c32a54ebbc01743244e2a93f9ff40820a04fec1b39c6",
+          "git_blob_oid_of_actual_bytes": "cf5e0e26d2c47723315c06351ac81df3b6577c1c"
+        },
+        "physical_lines": 35,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            35,
+            "f155b2"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN15",
+      "Ami_alias": "AM15",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+      "tuple": {
+        "bytes": 11521,
+        "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+        "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING_WITH_MATERIAL_DISPLAY_REPAIR",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            54,
+            "7038e0"
+          ],
+          [
+            55,
+            58,
+            "178b40"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN15",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+        "exact_tuple": {
+          "bytes": 11521,
+          "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+          "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d"
+        },
+        "physical_lines": 58,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            58,
+            "f155b2"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete untruncated numbered normal receiving; no underlying primary replay.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN16",
+      "Ami_alias": "AM16",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "tuple": {
+        "bytes": 19594,
+        "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+        "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING_WITH_MATERIAL_DISPLAY_REPAIR",
+        "ranges_and_actual_tools": [
+          [
+            1,
+            100,
+            "178b40"
+          ],
+          [
+            101,
+            677,
+            "36b5f6"
+          ]
+        ],
+        "purpose": "Necessary new Ami-specific connected main-role/peer/recipient/clinical-boundary and contextual account receiving; prior Minato body/ROOT receipts did not grant this author own whole normal receiving.",
+        "new_primary_native_raw_AV_or_admission_credit": 0,
+        "material_tool_attribution_repair": "V1 incorrectly attached the first parallel-call chunk7038e0 to the globally clipped second source16 suffix. Both source16 halves now have exact standalone untruncated identifiers. No source/content/admission grade increase; originalV1 remains immutable history."
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN16",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "exact_tuple": {
+          "bytes": 19594,
+          "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+          "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1"
+        },
+        "physical_lines": 677,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            677,
+            "a23fa4"
+          ],
+          [
+            79,
+            85,
+            "6891b1"
+          ]
+        ],
+        "grade": "ADEQUATE_SAME_ROOT_PRIOR_COMPLETE_ANALYTICAL_NORMAL_MEANING_REUSED",
+        "scope_and_actor_limits": "Earlier complete MC03 account output had a display clip repaired79-85; complete union. Same ROOT actual receiving reused, not new Minato replay or another writer transfer.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN17",
+      "Ami_alias": "AM17",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+      "tuple": {
+        "bytes": 50993,
+        "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+        "git_blob_oid_of_actual_bytes": "cdd0f12e2ac27de5538ee7dc1293368df71878a4"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "ADEQUATE_PRIOR_OWN_SELECTED_CONNECTED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT_AND_TAIL_REUSED",
+        "ranges_and_actual_tools": [
+          [
+            34,
+            42,
+            "f5add3"
+          ],
+          [
+            63,
+            164,
+            "f5add3"
+          ],
+          [
+            165,
+            285,
+            "0893eb"
+          ]
+        ],
+        "adequacy": "All13 substantive EVENT861 analytical courses and connected comparison/tail were previously received for ownO102. Source-specific Ami work recall, board appraisal/no-exceptions and paperwork refusal are retained; no default freshness reread.",
+        "current_reuse_control_meaning": "a67af7 complete own O102 current question/meaning/counter/limit projection",
+        "fresh_whole_physical_normal_claim": false,
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN17",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+        "exact_tuple": {
+          "bytes": 50993,
+          "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+          "git_blob_oid_of_actual_bytes": "cdd0f12e2ac27de5538ee7dc1293368df71878a4"
+        },
+        "physical_lines": 285,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            145,
+            "8843e0"
+          ],
+          [
+            146,
+            285,
+            "cb53eb"
+          ],
+          [
+            171,
+            198,
+            "2d6eef"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Complete285-line normal; last range is a concrete comparator-attribution check. Event supplies diving navigation/debt/coercive extraction/rescue/work. Sammy grief belongs to separately named MAIN comparator; no merged provenance/calendar.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN18",
+      "Ami_alias": "AM18",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "tuple": {
+        "bytes": 24480,
+        "sha256": "f4644f7ca1a203f0f34f4664e7c270d93558b7425727560f47a8eeb1617cc944",
+        "git_blob_oid_of_actual_bytes": "a5b576913194450904ee29406c438c81249b3618"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "ROOT_CORE_SOURCE_RECEIVING_ATTRIBUTED_ONLY_NOT_FRESH_OWN_PRIVATE_NORMAL",
+        "adequate_own_comparison_carrier": "MN16 complete maintained contextual account received here; no transfer of divers private families or Root underlying scope to Ami/this author",
+        "current_root_scope_metadata_read": "5e2ed3",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN18",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "exact_tuple": {
+          "bytes": 24480,
+          "sha256": "f4644f7ca1a203f0f34f4664e7c270d93558b7425727560f47a8eeb1617cc944",
+          "git_blob_oid_of_actual_bytes": "a5b576913194450904ee29406c438c81249b3618"
+        },
+        "physical_lines": 582,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            582,
+            "edde24"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+        "scope_and_actor_limits": "Independent Kotone typed private account; complete582 lines. No inferred Minato private family or character completion from comparison.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    },
+    {
+      "alias": "MN19",
+      "Ami_alias": "AM19",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "exact_existing_owned_C_relative_to_Minato_folder": "repository-reference:series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "tuple": {
+        "bytes": 42654,
+        "sha256": "dba39b01fa27e17f64d7cb0d2fbdd85b2f98cefd1c12feeb6056b0d0a12c77a4",
+        "git_blob_oid_of_actual_bytes": "650ad2faef3c42ae17ee4e264e315b2716096b6e"
+      },
+      "form": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_NOT_NEW_UNDERLYING_PRIMARY",
+      "Ami_author_actual_receiving": {
+        "grade": "ROOT_CORE_SOURCE_RECEIVING_ATTRIBUTED_ONLY_NOT_FRESH_OWN_PRIVATE_NORMAL",
+        "adequate_own_comparison_carrier": "MN16 complete maintained contextual account received here; no transfer of divers private families or Root underlying scope to Ami/this author",
+        "current_root_scope_metadata_read": "5e2ed3",
+        "new_primary_native_raw_AV_or_admission_credit": 0
+      },
+      "original_ROOT_source_receiving_separate": {
+        "alias": "MN19",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "exact_tuple": {
+          "bytes": 42654,
+          "sha256": "dba39b01fa27e17f64d7cb0d2fbdd85b2f98cefd1c12feeb6056b0d0a12c77a4",
+          "git_blob_oid_of_actual_bytes": "650ad2faef3c42ae17ee4e264e315b2716096b6e"
+        },
+        "physical_lines": 253,
+        "actual_receiving_ranges_and_tool_results": [
+          [
+            1,
+            253,
+            "bd5a78"
+          ],
+          [
+            117,
+            159,
+            "a0983c"
+          ]
+        ],
+        "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING_AFTER_EXACT_DISPLAY_REPAIR",
+        "scope_and_actor_limits": "First whole display clipped119-153; complete117-159 repair supplies union. Independent Kokoro typed account; no private-family/cure/consent transfer to Minato or Sammy.",
+        "primary_native_raw_AV_admission_identity_model_or_package_credit": 0
+      }
+    }
+  ],
+  "core_receiving_extent_summary": {
+    "own_whole_admitted_MAIN_or_contextual_normals": 16,
+    "adequate_prior_own_selected_EVENT_normal": 1,
+    "underlying_private_normal_ROOT_attribution_only": 2,
+    "fresh_primary_native_raw_AV_admission_or_model": 0
+  },
+  "normal_meaning_credits_not_from_hash_or_old_PASS": true,
+  "creation_time_producer_source_counts_pending_episode_and_side_unadmitted_fields": "Retained dated history. Cycle008 current acceptance/current130b actor/grade qualifiers govern; old counts/backfill/phase3-unestablished statements do not overwrite current admitted scope.",
+  "next_finite_tasks": [
+    "New Ami-specific105 questions/judgments at adequate attributed/reused report/analytical scope; original26whole79selected preserved",
+    "Write sustained11-dimensional Ami argument with independent peers/interests/agency and substantive rival/finite/gap effects",
+    "Save exact body and full claim/source-purpose/rival/end/gap register and honest remaining receiving/acceptance gates"
+  ],
+  "shared105_prior_grade": "Minato105 author/ROOT dispositions provide retrieval and source-specific comparative substance, not Ami completion; own69 source/report scopes reusable where adequate. New Ami report scope and question meanings must be actually received/authored.",
+  "separate_homes_not_completed": [
+    "Minato",
+    "Sammy character",
+    "Odysseia→Sammy directed care",
+    "Odysseia institution",
+    "Council-president claimant"
+  ],
+  "scope355_29_25_384_788": "UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_named_credit": 0,
+  "current_basis_snapshot": {
+    "local_branch": "series/blue-archive",
+    "exact_head": "130b9c1c230c928601041b9b8ef4f013d44b24e7",
+    "source_tree": "5e315b1b7e0472be1ca5d5c63167cb5871dfc5ce",
+    "main": "0ed395926cca502fe1461d8c172330baab99e70e",
+    "source_published_packages": 134,
+    "source_named_full_duties": 14,
+    "main_integrated_packages": 133,
+    "Minato135": "CONDITIONAL_ACCEPTANCE_INSTALLATION_PUBLICATION; not credited by this allocation",
+    "after135_plus_five_if_each_actually_accepted_persisted_published": 140,
+    "named_after_five_only": 14,
+    "next_integration_milestone": 178,
+    "merge_approval": "RESERVED_BY_USER"
+  },
+  "later_Minato_staging_only_ROOT_attributed": "ae6e8d20a7146aa4ede31ad7a93681c31b308597",
+  "R_Git_provider_registry_protected39_UNBOUND9_mutations_or_reads": 0,
+  "V1_receipt_preserved": {
+    "bytes": 62639,
+    "sha256": "201056893fad683e6b47031115931f09f7613429621677f644168d4570cc3ef8",
+    "correction": "ONLY_MN16_ACTUAL_TOOL_RANGES;SOURCE_BYTES_AND_MEANINGS_UNCHANGED"
+  },
+  "operative_public_current_V4_qualification": {
+    "role": "OPERATIVE_PUBLIC_CURRENT_V4_SEMANTIC_AND_BYTE_BINDINGS; original scalar/payload/hash fields remain frozen dated snapshots after exact locator/key sanitization.",
+    "semantic_status": "ROOT_CURRENT_V4_BODY_AND_ALL105_PURPOSES_ADOPTED_WITH_LIMITS_AT_DISCLOSED_GRADES",
+    "original_tuple_role": "Old private preparation tuples remain explicit original custody witnesses. This additive qualification and supplemental transport supply actual current public byte aliases; no old hash/byte field silently rebound.",
+    "precision": "V3 wager referencesMAIN03L30 and unestablished guest consultation retained; V4 AP021 appraiser is Minato about Ami. Original V1 authoredTXT line22 is dated and superseded only for current use.",
+    "source_grade": "Author16 own complete admitted analytical MAIN/context,1 prior selectedEVENT861,2ROOT-attributed private;69 adequate own scopes and36 report meanings; original26whole79selected contributors attributed. No new source/105/primary/native/raw/AV or admission from composition.",
+    "author_composer_role": "receive_last16 authored Ami and this derivative; composition is not independent QA. Original middle V2/V3/V4 receiving and ROOT163/48/105/AP021 adoption are separate authorities.",
+    "ROOT_acceptance_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+    "current_QA_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_INDEPENDENT_CURRENT_COMPLETE_BODY_ALL105_AND_PRESERVATION_REVIEW_V1.json",
+    "original_custody_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_FROZEN_ORIGINAL_RECEIPT_AND_REVIEW_CUSTODY_V1.json",
+    "ROOT_final_public_composition_receiving": "PENDING",
+    "canonical_installation_sharedmetadata_publication_SOURCE_HK_FINAL_main": "PENDING_ROOT_ONLY",
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "new_credit": 0,
+    "body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOMOSHITA_AMI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 32462,
+      "sha256": "9fb184bf938e53884cd9cf9a8a17a2ff0a3db27a02e21269e69269382dd1b1bd",
+      "git_blob_oid_of_actual_bytes": "df2042cc47acf76872507a043bc935ab824865ea"
+    }
+  }
+}
