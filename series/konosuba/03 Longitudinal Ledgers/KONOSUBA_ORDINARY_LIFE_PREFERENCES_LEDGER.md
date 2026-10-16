@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V12
+scope: V01-V13
 ledger_role: ordinary_life_preferences
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V12 main narrative
+source_boundary: Japanese main-series light novels through V13 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Ordinary-Life and Preferences Ledger — Through V12
+# KONOSUBA Ordinary-Life and Preferences Ledger — Through V13
 
 ## Purpose
 
@@ -497,3 +497,36 @@ HIGH marks direct conduct/present preference; MODERATE marks reports or narrator
 ## Household baseline after V12
 
 The picnic combines food, spectacle, useful fishing and quarrels answered by child generosity. Kazuma values this household's continuation without resolving its boundaries. Camp discomfort recruits actual work: rabbit is caught and eaten. Preserve changes between anticipation and experience; comic self-description is not an all-context rule.
+
+
+# V13 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V13 principal main narrative only: Pr/C1–C4/F/Ep = `text/part0009.html`–`part0015.html`; **2,456 all-body p / 2,285 nonempty / 97,758 base characters**. All-body numbering includes blanks and image p; ruby rt/rp are removed with base characters and tails retained without normalization. Whole EPUB2,779,947B SHA-256 `20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b`, Drive `17hODcYpv6lbF8ZoVBS6tetQNbi7RuBch`. Inherited accepted V01–V12/CP04 entry is published `c1ad78db96c631635a1fc2940019c59dd4e86873`, tree `dcffdd3aeb755acd70f8271494055ed8b664c8f2`. Root's explicit22:23:52Z gate followed V12 full close and CP acceptance/freeze/publication/full readback; CP own CI was truthfully pending at opening and later closed source38975079047→housekeeping38975633339→final38975671243 at exactc1. Original exposure receipts remain unchanged. Afterwordpart0016, electronic bonus **本物のマジックアイテム！** part0019, all nonmain bodies/images, V14+ and side narrative are excluded/unread. Gen04 model23,814B SHA `5ff6cb60408fff2bfc9bab814f311d65128ed4df0703f8ab607c16b963515173`; predictions65,983B SHA `e553d7cfc5be3fd290ad0471d482ca6fe2c0ffd5db3689600bbf156de71def5c`. All25 original blank Outcome/Adjudication pairs and all historical blocks/outcomes remain exact. Both V13 complete source reads and initial unclassified censuses sealed before scene-specific exchange; all boundaries fixed before independent L coding. This is an additive V13-local contribution, not a new model, a closed V13–V15 tranche or expanded-project completion. See the [V13 deep reading](../02%20Sequential%20Readings/KONOSUBA_V13_DEEP_READING.md) for all17 responsibilities, exact source/member identities, fixed voice windows, complete census and limits. Main-only derivation precedes the immutable main-suite freeze, designated holdout validation, remaining expanded-corpus work and attributable post-validation reconstruction.
+
+## V13 ordinary life — valued company, productive skills and unfinished domestic risks
+
+Ordinary scenes contribute positive preferences and constraints, not merely antecedents to crises. Direct self-report, narrated action, another character's report and an inferred motive remain distinct. A single choice is not automatically a stable genre preference or universal disposition.
+
+| ID / person | Source and evidence kind | Positive preference or routine | Constraint, counterevidence and analytical limit |
+|---|---|---|---|
+| OL-V13-01 Kazuma | C1P0053–0065; C2P0012–0015; direct speech/inner account | Wants comfortable, wealthy, peaceful life after a completed worthy adventure; enjoys Aqua as an ordinary play companion. | Genuine retirement desire survives prior heroism. These wishes contain no promised practical-efficiency reorganization or demonstrated willingness to lose the core household. |
+| OL-V13-02 Kazuma / Darkness | C1P0066–0099; shown purchase and dialogue | Kazuma buys premium ingredients to taste them and rationalizes spending; Darkness reports a frugal upbringing and knows dragon meat's unpleasant texture/smell. | His price-implies-taste assumption fails; the noble is gullible about his economic authority but knowledgeable about the product. No actual stat gain from this meal is shown. |
+| OL-V13-03 Kazuma / Aqua | C2P0343–0346; dialogue plus narrator | He saves caviar acquired at the castle and resents its appropriation; she likes drink and snacks and takes it while he is bathing. | Possessiveness and shared living costs coexist with companionship. Exhaustion makes him abandon the imagined naked pursuit; do not describe a completed chase. |
+| OL-V13-04 Aqua / Megumin / Kazuma | C2P0028–0059,0122–0136; C4P0006–0020; shown gardening and instruction | Garden work promises lower food costs, fresh vegetables and Megumin's curry for Kazuma. Aqua eagerly works in rain; Megumin supplies guidance; Kazuma contributes fertile soil. | The world's crop risks and legal exemption are stated, while seed selection remains hazardous. Fish and vegetable massage are local world facts presented in dialogue, not authorial agricultural advice. |
+| OL-V13-05 Aqua / household | C4P0215–0261,0306–0327; EpP0008; shown plant and offered produce | Aqua becomes attached to a newly sprouted creature, names it, advocates nurturing it and later offers homegrown vegetables as comfort. | The bargain seed is dangerous; substituting mandrake does not resolve its risk. The final fate of the dangerous plant and completed transfer of the offered vegetables are unshown. The benign produce does not certify a wholly safe garden. |
+| OL-V13-06 Household chores | C2P0122–0136; concrete negotiation | Cooking, house cleaning, bath/toilet cleaning and garden work are explicit domestic jobs. Kazuma accepts cooking; Aqua seeks rotation away from toilet work; Darkness has learned baseline cooking. | Aqua's purification wastes liquid seasoning; Darkness is hurt by merely ordinary assessment. The allocated division fits some capacities but is contested labor, not a neutral demonstration that everyone prefers the arrangement. |
+| OL-V13-07 Aqua / Kazuma | C1P0101–0118; actual handmade object | Aqua collects garden clay and makes a highly detailed figurine as a saleable craft; Kazuma wants companion likenesses. | Technical achievement conflicts with the represented companions' privacy and consent. Sale price or buyer interest cannot certify benevolence. No new unrelated craft is inferred from this practiced form. |
+| OL-V13-08 Kazuma / Aqua | C2P0316–0326,0333–0337; shown bath preparation and speech | After distress, warm water, first use of the bath and gentle physical guidance are valued comforts. Kazuma yields his own turn and heats the water. | Aqua explicitly notes that his plan caused the incident. Her later bathwater insult and his retaliation resume ordinary conflict without erasing the actual care. Only one main spoken care offer appears in the fixed voice comparison. |
+| OL-V13-09 Kazuma / pets | C2P0020–0026; actual observation plus inner intention | Enjoys seeing the chick stay warm beside Chomusuke and does not want to separate bonded animals. | This affection interrupts a contemplated fried-chicken plan. Slow growth is observed; the proposed relation to magical capacity is a hypothesis. Do not certify species from Aqua's belief or future growth. |
+| OL-V13-10 Megumin | C3P0100–0101; EpP0053; narrator report and direct invitation | Daily Explosion remains a routine; she tires of repeatedly using the lake for Aqua's fish and later wants a fishing competition with Yunyun after another caster's Explosion excites her. | Boredom with a location is not rejection of the specialty. Incidental fish usefulness is not a sustained instrumental mission visibly losing ground to repeated growth reward. |
+| OL-V13-11 Darkness / Sylphina | C1P0026–0036,0276–0280,0318–0319; shown care and speech | The recovered child attends school from the family's home, enjoys collective thanks and values a mother-like connection. Darkness accepts the address when denial hurts her and stays with her during the treasure rush. | Sylphina is still her cousin. A temporary child-care choice does not establish permanent party departure or an irreconcilable noble-duty/membership conflict. |
+| OL-V13-12 Darkness / private records | EpP0037–0042; Aqua's disclosure and Darkness's report/action | Keeps a diary of shared daily life and a concealed compartment for private fantasies; her room is reported locked. | The hidden material is not opened/read by this analyst. Aqua's access and attempted disclosure violate the expected privacy. Darkness's single utterance also establishes the lock fact, so its wording cannot be double-counted as independent language validation. |
+| OL-V13-13 Yunyun | C1P0123–0158; C2P0061–0072; EpP0051–0064; direct visit and speech | Brings gifts, wants to visit without imposing, responds intensely to a shared meal and waits for the absent household with another gift. | Anxiety about overstaying is not lack of desire for company, and a meal invitation is not by itself a fitted magical role. Trial help and failed outcomes remain distinct from an ordinary play invitation. |
+| OL-V13-14 Wiz / Vanir | C1P0165–0171; C3P0144–0145; FP0094–0098; reports plus actual argument | Wiz wants to build the shop jointly, obtains vegetable scraps cheaply and treats immortal time as permitting gradual progress. Vanir provides better food during her distress. | Her independent manager identity conflicts with his demand for effective purchasing. Improved food is reported; her reading of it as a bid to keep her is explicitly contested. Poverty, preferred work and partnership need separate explanation. |
+| OL-V13-15 Aqua / Duke | C4P0371–0411; FP0016–0041,0178–0180; conversation and reported games | They enjoy creature trivia, drink, gambling and shared hostility; Duke actually addresses her as a friend after the overnight conversation. | Real conversational fit is not proof of romance, her gambling competence or his suitability for a lich partner. His debt settlement with knowledge is Aqua's report, and Kazuma must still guard money against her proposed further betting. |
+| OL-V13-16 Wiz / Vanir / household | EpP0003–0036; explicit friendship offer, response and ordinary walk | Immortal companionship matters to Wiz; Vanir calls her his friend and promises company until the dungeon has been completed and adventurers defeat him. The party enjoys a slow walk home and bought snacks. | Her wish to defer the shared goal immediately renews conflict over management. Kazuma's contentment with normal life coexists with the still-reported threat to the town. Neither promise nor comfort establishes final closure. |
+| OL-V13-17 Kazuma / Megumin | EpP0044–0050; question and direct inner report | Kazuma says internally that he rather likes children; Megumin asks a concrete family-number question. | He has just acquired precautionary items and does not provide an answer before the scene shifts. This is neither an agreed parenting plan nor proof that immediate desire determines all attachment. |
+
+These observations add preferences for play, food, skill, calm recovery, useful work, private remembrance and continuing company. They preserve real costs—unwanted chores, privacy loss, dangerous purchases and an unresolved trial—inside the life the characters wish to maintain. None requires side fiction or editorial claims about the correct couple.

@@ -3078,12 +3078,15 @@
           "METADATA_VERIFIED",
           "BYTE_VERIFIED",
           "STRUCTURE_VERIFIED",
-          "NARRATIVE_ADMITTED"
+          "NARRATIVE_ADMITTED",
+          "READ_COMPLETE",
+          "ANALYZED"
         ],
-        "narrative_reading_state": "NOT_CANONICALLY_ACCEPTED_AT_RECONCILIATION",
+        "narrative_reading_state": "PRINCIPAL_MAIN_NARRATIVE_READ_COMPLETE_AND_ANALYZED; OTHER_EPUB_COMPONENTS_OPEN",
         "main_v01_v10_state_basis": null,
         "metadata_exposure": "Package bytes, metadata and structure may be decoded without narrative semantic inspection.",
-        "component_audit_completeness": "NOT_ESTABLISHED_BY_THIS_METADATA_RECONCILIATION"
+        "component_audit_completeness": "Principal seven-member narrative mapped and read; every nonprincipal edition-component state remains unchanged and open.",
+        "completion_scope": "text/part0009.html through text/part0015.html only; excludes all separate bonus, afterword, images, colophon and promotion."
       },
       "workstream": "MAIN_SERIES_DERIVATION",
       "frozen_validation_designation": "NO_OUT_OF_SAMPLE_SCORE_AUTHORITY",
@@ -3091,12 +3094,70 @@
         {
           "component_kind": "principal_prose",
           "nature": "narrative",
-          "presence": "NOVEL_IDENTIFIED",
-          "disposition": "NARRATIVE_ADMITTED",
+          "presence": "SEVEN_MAIN_MEMBERS_VERIFIED",
+          "disposition": "READ_COMPLETE_AND_ANALYZED",
           "stage_gate": "MAIN_SERIES_DERIVATION",
           "analytical_authority": "Main-series-only prospective derivation, respecting sequential boundary.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
-          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+          "inspection_state": "Root reports two authorized complete ordered principal-main readings; exact reader scopes belong to the accepted V13 reading and receiving review. This metadata updater did not inspect primary prose.",
+          "required_action": "Preserve the V13 main-only information boundary, unchanged Gen04 V13–V15 forecasts and separate local outcomes. Continue V14 only after the complete V13 source-unit transaction and applicable publication/source gates. Keep every other edition component separate under its existing later-stage gate.",
+          "members": [
+            {
+              "label": "Pr",
+              "member": "text/part0009.html",
+              "member_sha256": "7e3b03feb0c2a989cb7ecb27ab06b81df51fc90bbe99b8dab71ea4acce165f68",
+              "paragraphs": 22,
+              "nonempty": 20,
+              "chars": 816
+            },
+            {
+              "label": "C1",
+              "member": "text/part0010.html",
+              "member_sha256": "31b9d68d2e16635d2c30f3959c888924c8b1e5f5114b7985c32cd6feb30bd2b9",
+              "paragraphs": 473,
+              "nonempty": 438,
+              "chars": 18153
+            },
+            {
+              "label": "C2",
+              "member": "text/part0011.html",
+              "member_sha256": "17688b0c3148fa3c14699e304a546710824204f681fc5f367b43178bc01c56f2",
+              "paragraphs": 518,
+              "nonempty": 478,
+              "chars": 21486
+            },
+            {
+              "label": "C3",
+              "member": "text/part0012.html",
+              "member_sha256": "12590adbafb9ee7f56f93b81db010f04598185528298f75719ebb2ca3ac412ab",
+              "paragraphs": 498,
+              "nonempty": 470,
+              "chars": 18836
+            },
+            {
+              "label": "C4",
+              "member": "text/part0013.html",
+              "member_sha256": "8e6f60737c6087d1d786c2bc89ba7d116c4c7370bc52397c273d0901369ee988",
+              "paragraphs": 411,
+              "nonempty": 387,
+              "chars": 17527
+            },
+            {
+              "label": "F",
+              "member": "text/part0014.html",
+              "member_sha256": "fc3416a3a5c0dd4f6eb16037b4d9518da6cfc3b94f9a6a8f4572b8b53747bf8a",
+              "paragraphs": 470,
+              "nonempty": 432,
+              "chars": 18427
+            },
+            {
+              "label": "Ep",
+              "member": "text/part0015.html",
+              "member_sha256": "a4cf13160363c963da1a8098ab98d339803bc47ecf020d7a53f3557716ebfe26",
+              "paragraphs": 64,
+              "nonempty": 60,
+              "chars": 2513
+            }
+          ]
         },
         {
           "component_kind": "embedded_bonus_fiction",
@@ -3139,7 +3200,7 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "PRINCIPAL_MAIN_NARRATIVE_ANALYZED; EXPANDED_COMPONENTS_OPEN"
     },
     {
       "source_id": "MAIN-14",
@@ -10335,7 +10396,7 @@
         "embedded_bonus_fiction"
       ],
       "admission": "PRINCIPAL_MAIN_PROSE_ADMITTED",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "PRINCIPAL_MAIN_NARRATIVE_READ_COMPLETE_AND_ANALYZED; OTHER_EPUB_COMPONENTS_OPEN"
     },
     {
       "source_id": "MAIN-14",

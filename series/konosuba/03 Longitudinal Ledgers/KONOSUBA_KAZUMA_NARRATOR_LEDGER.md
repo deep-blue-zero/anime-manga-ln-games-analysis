@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V12
+scope: V01-V13
 ledger_role: narrator_perspective
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V12 main narrative; Kazuma first-person narration
+source_boundary: Japanese main-series light novels through V13 main narrative; Kazuma first-person narration
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Kazuma Narrator Ledger — Through V12
+# KONOSUBA Kazuma Narrator Ledger — Through V13
 
 ## Purpose
 
@@ -530,3 +530,39 @@ The namespace `N-V12` continues the published `N-V11` and earlier `N-V10` record
 V12 repeatedly runs **salient cue → confidently sexual/professional/heroic explanation → mundane or specialist correction → selective self-reframing**. The cue may be a whispered conversation, cuff, supposed noble novice, urgent gate demand or healthy face. Hostility is not the only distortion: a generous interpretation of Darkness is also corrected by her toilet need. Kazuma can nevertheless describe his own developing affection, recognize actual mistake and follow technical information accurately. Modeling should therefore specify where attention or reward distorts inference rather than call him globally unreliable.
 
 Physical acts, direct refusals and named task outcomes are not downgraded merely because narration is biased. Equally, another person's flattering account or his interpretation of a look is not independent moral exoneration. Seriousness and comedy share the same evidentiary distinctions.
+
+
+# V13 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V13 principal main narrative only: Pr/C1–C4/F/Ep = `text/part0009.html`–`part0015.html`; **2,456 all-body p / 2,285 nonempty / 97,758 base characters**. All-body numbering includes blanks and image p; ruby rt/rp are removed with base characters and tails retained without normalization. Whole EPUB2,779,947B SHA-256 `20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b`, Drive `17hODcYpv6lbF8ZoVBS6tetQNbi7RuBch`. Inherited accepted V01–V12/CP04 entry is published `c1ad78db96c631635a1fc2940019c59dd4e86873`, tree `dcffdd3aeb755acd70f8271494055ed8b664c8f2`. Root's explicit22:23:52Z gate followed V12 full close and CP acceptance/freeze/publication/full readback; CP own CI was truthfully pending at opening and later closed source38975079047→housekeeping38975633339→final38975671243 at exactc1. Original exposure receipts remain unchanged. Afterwordpart0016, electronic bonus **本物のマジックアイテム！** part0019, all nonmain bodies/images, V14+ and side narrative are excluded/unread. Gen04 model23,814B SHA `5ff6cb60408fff2bfc9bab814f311d65128ed4df0703f8ab607c16b963515173`; predictions65,983B SHA `e553d7cfc5be3fd290ad0471d482ca6fe2c0ffd5db3689600bbf156de71def5c`. All25 original blank Outcome/Adjudication pairs and all historical blocks/outcomes remain exact. Both V13 complete source reads and initial unclassified censuses sealed before scene-specific exchange; all boundaries fixed before independent L coding. This is an additive V13-local contribution, not a new model, a closed V13–V15 tranche or expanded-project completion. See the [V13 deep reading](../02%20Sequential%20Readings/KONOSUBA_V13_DEEP_READING.md) for all17 responsibilities, exact source/member identities, fixed voice windows, complete census and limits. Main-only derivation precedes the immutable main-suite freeze, designated holdout validation, remaining expanded-corpus work and attributable post-validation reconstruction.
+
+## V13 narrator observations — correct sensory access is not correct explanation
+
+The published namespace is **N-V13-##**, continuing N-V12 and N-V11. First-person narration, Kazuma's spoken claims, other speakers' reports and directly staged action remain separate evidence channels. The narrator can expose his own earlier explanation without giving objective access to everyone else's mind.
+
+| ID | Primary locator / short anchor | Narrator operation | Source correction and analytical authority |
+|---|---|---|---|
+| N-V13-01 | C1P0053–0065; ハッピーエンド | Frames Sylphina's recovery as the completed adventure that permits retirement. | The delivery and decadent-lifestyle conclusion reveal a desired ending script. Actual desire for peace is usable evidence; objective completion of danger is not. |
+| N-V13-02 | C1P0075–0087; テレビ / 適当に | Performs certain economic expertise, then identifies remembered television and plausible self-serving improvisation. | His own admissions bound the authority of the confident lecture. Darkness's trust does not validate an economic doctrine. Her separate taste knowledge atP0089–0092 is a real correction. |
+| N-V13-03 | C1P0174–0191; 気配り | Gives Megumin a care interpretation of a discreet purchase and internally protects literal defensibility. | The reader sees the purpose she has not been told. Semantic truth and intended misleading inference must not be conflated; no subsequent act is implied by purchase. |
+| N-V13-04 | C1P0231–0242; らしい / 極悪人 | Reasons from the count's report to Eris's motive, then questions the party's own ethical role. | Daily attacks are reported; prioritizing medicine and revenge are Kazuma's explanation. His account of the failed bargain and nighttime assault supports real self-criticism without independently auditing the count's entire governance. |
+| N-V13-05 | C1P0267–0268; 吐息でも | Speculates that a goddess's breath harms a demon after the costume rolls and cries out. | The physical effect is shown. The precise sacred-breath mechanism is a causal conjecture, not an isolated experiment or permission to infer all divine emissions as attacks. |
+| N-V13-06 | C1P0315–0317; 文字通り | Carries an idiom from quoted speech into an explicit literal red-eye observation. | This written aside belongs to the comic evidence record; it is not a new psychological mechanism explaining every Crimson eye change. Its specific form must survive classification even though it is brief. |
+| N-V13-07 | C1P0329,0424–0464; ではないのだろうか | Moves from Megumin's qualified turtle lore through observed timing to a shell-cleaning hypothesis and inferred thanks. | The intact shell, departing beast and falling ore are directly shown. The beast's satisfaction and intention are interpretations. Good local prediction does not turn the hypothesis into quoted nonhuman thought. |
+| N-V13-08 | C1P0360–0366,0391; せいか / なのか | Attributes miners' eagerness to taxes, missing helmets to hair and Wiz's help to retained humanity. | Each motive has a qualification or evaluative frame. The acts and equipment are stronger evidence than isolated hidden causes; Wiz's actual readiness to help supports kindness without literalizing a species contrast. |
+| N-V13-09 | C2P0151–0169; であろう | Reads a flattering newspaper, notices generic assumptions and withholds the item to avoid companions' pride. | The article is a constructed public characterization, not direct ability proof. Its predicted Teleport and attack capacity misfit known members. His own reduced role irritates him even as he concedes some accuracy. |
+| N-V13-10 | C2P0280–0283; 今朝の新聞 | Explicitly identifies recognition before the later pursuit decision, contradicting Aqua's suggested romantic cause. | This is stronger evidence of reward salience than a retrospective explanation supplied only after the frog failure. It still does not by itself establish that scope increased beyond a previously planned hunt. |
+| N-V13-11 | C2P0302–0308,0321; おそらく / 多分 | Blames Aqua's luck, accepts Darkness's environmental explanation and later partly credits luck for repeated swallowing. | The actual frogs and repeated rescues are shown. Neither the turtle-hiding explanation nor the cosmic-luck explanation is independently isolated; his apology is real without proving a complete causal model. |
+| N-V13-12 | C2P0354–0370; ないない / 悪くない | Resists gratitude, names Aqua's actual powers and considers an imagined better starting cheat before affirming ordinary life. | The unobserved alternative cannot measure whole-party dependence or prove fewer deaths. His positive valuation of the present does not require pretending that its costs disappeared. |
+| N-V13-13 | C2P0387–0413; 悲鳴を上げたのは俺 | Corrects the reader's expected scream attribution, then notices the swimsuit and thank-you intention he had not considered. | The source explicitly identifies Kazuma as the screamer. His spoken legal/political generalizations remain character claims, not factual law. Darkness is clothed in swimwear/towel; she does not start by blaming him. |
+| N-V13-14 | C2P0471–0518; 抵抗 / 助けて | Preserves a faithful self-image through coached helplessness and finally presents a selective victim account. | Exact chronology independently shows his incitement and her later initiative. An initial imposed act and a later active choice can both exist; his own assertion of resistance cannot establish either real inability or absence of desire. |
+| N-V13-15 | C3P0233–0318; 意訳 | Reads lips successfully but substitutes romantic meaning when relaying what he sees. | The decoded quotes and his paraphrases are separate. The eventual Demon Army job explanation confirms a mistaken referent, not failure of Farsight or Lip Reading. The open plain creates a real access constraint solved by the combined tools. |
+| N-V13-16 | C3P0367–0396; ビシッ | Converts Dust's threat estimate into equality with himself, denies fear and describes a retreating exchange as decisive assertion. | Dust's reaction and Kazuma's own loser-parting-shot admission qualify his self-evaluation. Borrowed family power and deferred effort are spoken strategies, not demonstrated combat dominance. |
+| N-V13-17 | C4P0055–0061; 言ってないよね | Correctly refuses Wiz's invented romantic quotations while still sharing much of the false courtship model. | Accuracy on wording does not guarantee correct interpretation of the event. Her selective uptake and his continued inference are different failures with different evidence. |
+| N-V13-18 | FP0236,0244–0254; だろう / 見立て | Ascribes spotlight-seeking to Megumin and pleasure-seeking to Darkness, while explicitly preferring the battle spectacle. | Actual attempted casting and Darkness's pleasure are real, but his claims cannot erase her stated protector purpose. Aqua's corrective demandP0250 independently exposes his unhelpful goal. |
+| N-V13-19 | FP0384–0403; おそらく / 素直じゃない | Infers an unchanted strike, uses an earlier noncombatant agreement to interpret Wiz's anger and reads Vanir as sharing admiration. | The blow and town-threat question are shown; no-chant causality is qualified, and the earlier agreement is recalled. Vanir's possible protective appreciation coexists with explicitly admitted appetite for distress; the narrator's warmer reading is not exclusive motive proof. |
+| N-V13-20 | FP0416–0418; EpP0016–0034 | Contrasts Aqua's revenge attribution with Wiz's denial, then frames normality and the ending as reassuring. | Town protection has its own immediate source trigger. Normality is a valued experience, while the reported town threat and Aqua's objection to neat closure remain actual unresolved counterevidence. |
+
+Kazuma's narration makes its own limits available. Quoted correction, admitted improvisation, an explicit らしい/なのか, a staged contrary reaction and a later referent reveal carry different evidential weights. None licenses the global conclusions that he always lies, that every joke is nonliteral or that a later correct diagnosis repairs every earlier decision. Retain what the text directly makes observable before transferring a motive to a cumulative model.

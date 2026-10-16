@@ -5,7 +5,7 @@ scope: V01-V17
 ledger_role: model_prediction_validation
 generation: MODEL_GEN_0.4
 status: active_provisional
-source_boundary: All prior model and prediction blocks, original blank fields and local histories preserved; formal Gen03 V10-V12 adjudication complete; Gen04 derived only through V12 main narrative with25 V13-V15 forecasts frozen before V13 exposure
+source_boundary: All prior model and prediction blocks, original blank fields and local histories preserved; formal Gen03 V10-V12 adjudication complete; Gen04 derived only through V12 main narrative with25 V13-V15 forecasts frozen before V13 exposure; all25 V13 local outcomes appended separately without changing frozen fields; V13-V15 tranche open; V14 requires completed V13 publication checks
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ do_not_use_as_current_authority: false
 
 This ledger preserves falsifiable behavioral predictions at the moment they are made so later volumes can test rather than retrospectively rewrite the character models.
 
-**Current freeze:** Model Generation0.4, derived only from principal main narrative through V12. **Outcome state:** Gen03 V10–V12 is formally closed at9 CONFIRMED /5 PARTIAL /10 NOT_TESTED /1 FALSIFIED, with all original blank fields and each local history preserved. A separate formal addendum and the exact25 Gen04 V13–V15 forecasts follow at the end. All25 new original Outcome/Adjudication pairs remain blank. V13 exposure requires accepted, committed, published and read-back Gen04 bytes; checkpoint full CI must close before V13 publication.
+**Current freeze:** Model Generation0.4, derived only from principal main narrative through V12. **Outcome state:** Gen03 V10–V12 remains formally closed at9 CONFIRMED /5 PARTIAL /10 NOT_TESTED /1 FALSIFIED; all original blank fields and local histories remain exact. The25 Gen04 V13–V15 original Outcome/Adjudication pairs stay blank. A separate V13 append records3 CONFIRMED /8 PARTIAL /13 NOT_TESTED /1 local FALSIFIED direction case; K03 is one matched countercase, not a repeated-case whole-tranche retirement. V13–V15 remains OPEN. CP04’s full publication sequence closed on exactc1. V14 is next only after complete V13 acceptance, publication/readback and successful source→housekeeping→final exact-head checks; V14 remains unopened.
 
 **Contamination rule:** The predictions below were written before canonical analysis of V04. They may not be reworded after later evidence appears. Later evidence must be entered only in the outcome/adjudication fields.
 
@@ -2295,3 +2295,264 @@ New prospective statement; original MG03 record and outcomes unchanged.
 - **Coding and modifiers:** Require actual personal wish plus understood conflicting royal duty before a narrowed/renegotiated request. Retold attachment, old letter obligation or generic public constraint alone cannot supply the full sequence.
 - **Outcome:**
 - **Adjudication:**
+
+
+# V13 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V13 principal main narrative only: Pr/C1–C4/F/Ep = `text/part0009.html`–`part0015.html`; **2,456 all-body p / 2,285 nonempty / 97,758 base characters**. All-body numbering includes blanks and image p; ruby rt/rp are removed with base characters and tails retained without normalization. Whole EPUB2,779,947B SHA-256 `20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b`, Drive `17hODcYpv6lbF8ZoVBS6tetQNbi7RuBch`. Inherited accepted V01–V12/CP04 entry is published `c1ad78db96c631635a1fc2940019c59dd4e86873`, tree `dcffdd3aeb755acd70f8271494055ed8b664c8f2`. Root's explicit22:23:52Z gate followed V12 full close and CP acceptance/freeze/publication/full readback; CP own CI was truthfully pending at opening and later closed source38975079047→housekeeping38975633339→final38975671243 at exactc1. Original exposure receipts remain unchanged. Afterwordpart0016, electronic bonus **本物のマジックアイテム！** part0019, all nonmain bodies/images, V14+ and side narrative are excluded/unread. Gen04 model23,814B SHA `5ff6cb60408fff2bfc9bab814f311d65128ed4df0703f8ab607c16b963515173`; predictions65,983B SHA `e553d7cfc5be3fd290ad0471d482ca6fe2c0ffd5db3689600bbf156de71def5c`. All25 original blank Outcome/Adjudication pairs and all historical blocks/outcomes remain exact. Both V13 complete source reads and initial unclassified censuses sealed before scene-specific exchange; all boundaries fixed before independent L coding. This is an additive V13-local contribution, not a new model, a closed V13–V15 tranche or expanded-project completion. See the [V13 deep reading](../02%20Sequential%20Readings/KONOSUBA_V13_DEEP_READING.md) for all17 responsibilities, exact source/member identities, fixed voice windows, complete census and limits. Main-only derivation precedes the immutable main-suite freeze, designated holdout validation, remaining expanded-corpus work and attributable post-validation reconstruction.
+
+## V13-local disposition of all25 unchanged Gen04 predictions
+
+These are appended local judgments at the V13 boundary, not edits to the original frozen blank fields and not the V13–V15 formal tranche. Every compound retains branch-level missingness and contrary evidence. The counts below remain candidate-only pending receiving review.
+
+### MG04-K01 — PARTIAL
+
+The three-person frog hunt lacks ordinary attack capacity in two members; the Wiz problem has unknown intent and a stronger stranger. Tools and known specialist capacities are available.
+
+**Branches:** indirect_search: SUPPORTED; fitted_delegation: SUPPORTED_BOUNDED; exact_new_capability_invalidating_first_plan_revision: NOT_TESTED_CLEANLY; safety_and_ethics: MIXED_SEPARATE.
+
+C2P0189–0192,0256–0285: armor, decoy, bow and homemade dynamite/Tinder form an indirect method; P0308,0319–0320 document a fallback rescue. C3P0226–0246 combines Concealment/Farsight/LipReading under an open-plain access constraint; P0367–0373 uses Dust as a threat assessor. C1P0431–0446 delegates a precise airburst, but this is a risky cleaning task rather than a fully established serious combat test.
+
+New frog numbers cause resignation/recovery rather than an isolated newly learned invalidating capability revision. Holy magic FP0257–0273 generates a class question, not a demonstrated revised Kazuma method. Job/courtship correction FP0118–0141 is semantic revision, not automatically the exact capability branch. Failed scope, missed recovery planning and ethics remain visible despite useful tools.
+
+### MG04-K02 — CONFIRMED
+
+Wiz explicitly requests countermeasures against the threatening pursuer before Kazuma conducts risky inquiry; a familiar person faces perceived preventable harm and his information skills are feasible contributions.
+
+**Branches:** concrete_request_before_effort: MET; substantive_costly_contribution_before_solution: SUPPORTED; pure_altruistic_motive: NOT_CLAIMED.
+
+C3P0134–0169 supplies fear, the reported threat and the actual request169; P0171–0190 gives failed sight and a meeting but no complete safe solution. Kazuma follows with Concealment and long-range readingP0226–0246, consults DustP0367–0373 and approaches Duke, encountering an actual knife threatP0400–0407.
+
+His jealousy and harem thoughtP0207–0218, wrong romantic inference and eventual endorsement are real errors. The prediction concerns substantive help instead of comfort-based abandonment, not successful diagnosis or ethical perfection. The count and Yunyun requests are separately less clean trust/assignment cases; they are not needed to manufacture this trigger.
+
+### MG04-K03 — FALSIFIED
+
+LOCAL_DIRECTION_CASE_ONLY: actual public recognition and explicit reward salience precede the next implemented pursuit decision, but the actual prior plan already includes the hunt and frog target. One matched local contrary case does not establish the repeated-disconfirmation or formal retirement threshold for the whole V13–V15 forecast.
+
+**Branches:** recognition_salience: SUPPORTED_EXPLICITLY; scope_direction_at_next_decision: LOCAL_FAILED_UNCHANGED_PRIOR_HUNT; method_change: OBSERVED_NOT_EQUIVALENT_TO_SCOPE_INCREASE; whole_Gen04_tranche_retirement: NOT_ESTABLISHED_ONE_CASE_ONLY.
+
+C2P0182/0189 establishes willingness to hunt; P0245–0248 returns the group to ordinary experience-gathering, and P0253/0271 selects frogs before P0280–0283 explicitly credits the article. The dynamite/decoy/bow actionP0285–0293 implements that hunt. Aqua proposed going homeP0274–0277, but that is her preference, not Kazuma previous plan.
+
+Confidence and persistence are supported; greater pursuit scope relative to his actual baseline is not. A new tool/method and unforeseen swarmP0297 do not prove knowingly accepted expansion. The broader reading of increased adventure energy is descriptive rather than a demonstrated change in the frozen scope variable. Severe danger in the separate bar threatC3P0367–0396 modifies that scene and does not repair the field result. This is one local direction failure, not automatic whole-tranche F or a successor-model revision.
+
+### MG04-K04 — PARTIAL
+
+The bath supplies acknowledged Megumin commitment, an independently expressed helplessness frame, an available exit and then explicit current arousal before later continued agency. Other quiet scenes fail at least one of the quiet-A conjunctions.
+
+**Branches:** quiet_A: NOT_TESTED_FULL_CONJUNCTION; aroused_B: SUPPORTED; old_Gen03_tear_rule: RETIRED_FALSIFIED_UNCHANGED.
+
+C2P0463/0471 acknowledge Megumin; P0478 independently precommits a low-stat inability account. Darkness announces endingP0482; Kazuma reverses it by tauntsP0484–0487. P0494 independently displays arousal before later P0498–0505 escalation/weak resistance; P0515 gives the selective victim account. C3P0211–0215 self-rebukes harem desire without an explicit reduced-arousal state; P0485–0491 explicitly declines when not in the mood, but the invitation is from Megumin herself.
+
+The exit was announced, not completed. Arousal494 is after the first frame and taunt, so do not backdate it to every earlier step; the later continuation is the clean temporal comparison. Before Darkness's imposed contact at C2P0502, Kazuma retains agency during the washing/banter and has already demonstrated a feasible ending482; later coercion cannot retroactively consent to an earlier imposition or erase his earlier incitement. A promise and a refusal are not by themselves the missing quiet-A attractive incompatible substitute. Current tear continuations remain adverse to broader automatic-brake claims, without rescoring old outcomes.
+
+### MG04-A01 — PARTIAL
+
+Established purification and practiced art are engaged with access/resources; readiness and downstream alignment are separately observable.
+
+**Branches:** capacity: SUPPORTED; readiness: MIXED_OBSERVED; comparative_clear_vs_misaligned_goals: NOT_TESTED_SUFFICIENT_COMPARISON.
+
+C1P0101–0118 shows detailed clay art; P0201–0220 and C2P0208–0219 demonstrate rapid demon purification. C3P0119–0139 shows purification and numbing tea; FP0431–0447 shows immediate purification of the newly undead Duke. Mining C1P0387–0408 distinguishes initially ignored need from actual mobilized execution.
+
+Vanir revives the count; these scenes do not demonstrate Aqua resurrection performance. Unauthorized figurines, accusatory purified tea and poorly fitted undead comfort are goal/social effects, not domain incapacity. No sufficiently comparable independently classified clear/misaligned service pair isolates error reduction. Current V13 does not newly demonstrate nightvision; earlier demonstrated nightvision remains in Gen04 domain list without retrofitting Gen03.
+
+### MG04-A02 — NOT_TESTED
+
+Several insults and status assertions occur, but no clean separately assigned instrumental task/constraint plus recognized direct prestige interruption and distinct displacement is established.
+
+**Branches:** full_assignment_challenge_displacement_conjunction: NOT_TESTED; near_triggers: RETAINED.
+
+C1P0100–0107 intelligence insult elicits an already made craft product that also serves the sales task; C1P0388–0390 calls her self-proclaimed while she is explicitly no longer listening. C3P0107–0108 insults provoke a stock-water threat during quarrel. FP0314–0326 reveals identity and supplies Duke denial322, after her own hierarchy claim320.
+
+Existing craft demonstration is not a response distinct from task completion merely because it also defends pride. An unheard taunt cannot establish an interrupted recognized status contest. The fallen-angel debate lacks a separately fixed ongoing assignment constraint displaced by the response. Do not treat every enemy encounter, self-naming or insult as this forecast; strong status behavior remains descriptive evidence.
+
+### MG04-A03 — NOT_TESTED
+
+Owned gardening and comfort are shown, but actual useful-work acknowledgment followed by two separately established later same-service opportunities with aligned need/resources is not supplied.
+
+**Branches:** owned_useful_output: OBSERVED_ADJACENT; work_specific_recognition_before_two_later_opportunities: NOT_TESTED; unique_recognition_causation: NOT_CLAIMED.
+
+C2P0028–0059 and C4P0007–0008 show repeated garden work; EpP0008 offers its actual produce. C3P0137–0139 offers warm tea with an adverse recipient effect. C4P0314 praises Aqua only because Kazuma is about to propose an experience farm, not as independently established acknowledgment of useful service.
+
+Do not convert sustained ordinary work into proof of the new temporal test. Figurine interest is not followed by two observed post-recognition craft opportunities, and praise of the misconceived monster plan is not useful-work recognition. Return-time vegetables do not establish the required timing. Absence of this antecedent is NT rather than a failed continuation or inherited Gen03 mechanism confirmation.
+
+### MG04-A04 — NOT_TESTED
+
+Low-valued chores are explicit, but a concretely available attractive one-step maximal shortcut without a salient learned constraint is not.
+
+**Branches:** full_maintenance_shortcut_conjunction: NOT_TESTED.
+
+C2P0125–0136 gives Aqua unwanted toilet/bath labor and contested cooking assignment; garden workC4P0007 is eagerly undertaken. The seed bargainC4P0215–0261 is poor purchase judgment, not a demonstrated high-power maintenance alternative.
+
+Rapid purification of the count is not repetitive low-valued maintenance under the frozen rule. Do not recast every task simplification, gardening error or effective spell as the missing maximal shortcut.
+
+### MG04-M01 — PARTIAL
+
+Kazuma explicitly contrasts genuine magical dueling with Explosion, and Megumin treats this as specialist identity injury. The independently known ordinary-companion-cost priority branch is less clean.
+
+**Branches:** identity_defense: SUPPORTED; ordinary_companion_cost_priority: PARTIAL_NOT_ISOLATED_CLEANLY; external_inhibition: OBSERVED.
+
+FP0219–0224 supplies actual devaluation; P0232/0237 shows a cast beginning and restraint, while P0234 explicitly describes specialist jealousy exceeding romantic jealousy. Kazuma names the private duel constraintP0235 after casting has already begun. P0394–0396 preserves later desire for combat availability and continued external restraint.
+
+Her initial action cannot be said to follow a cost warning that is only spoken235 afterward. Continued struggle after235 is adverse to easy redirection, but restraint prevents observing an autonomous final priority choice, and companion harm severity is not explicitly known. C1 leadership qualification criticism and C2 practical one-shot burden are distinct identity-adjacent subtypes, not automatically explicit Explosion-legitimacy comparisons. Keep identity success without manufacturing a completed cost-priority test.
+
+### MG04-M02 — NOT_TESTED
+
+External practical criticism and actual containment/role ideas occur; Megumin never independently expresses the required substantial self-attributed exclusive-build contribution guilt.
+
+**Branches:** external_criticism: OBSERVED; changed_role_or_containment: OBSERVED_ADJACENT; internally_accepted_exclusive_build_burden: NOT_TESTED.
+
+C2P0083/0096 Yunyun rejects the one-shot helper; Megumin insists on front-line staff combatP0099. C4P0283 reports surrendering the staff after frustration destroyed the first trial; P0286–0299 shows covert retry, failed riddles and renewed destruction.
+
+Staff custody and following are real adaptations, not nothing. Their expressed problem is frustration, inadequate study and detection; she does not conclude that the exclusive specialization materially prevents contribution to friends. Do not treat an opponent criticism, jealousy or a practical change as the full internally accepted guilt antecedent.
+
+### MG04-M03 — NOT_TESTED
+
+The shell-ore airburst shows excellent control, but no full before-cast safe friendly separation/resource/postcast exit-or-carry plan is established.
+
+**Branches:** precision_capacity: SUPPORTED_ADJACENT; complete_prepared_terminal_artillery: NOT_TESTED.
+
+C1P0423–0446 supplies spectators at a distance, an attached ore target, unused daily resource and an off-shell detonation removing ore without visible shell damage. Megumin fears a beast counterattackP0433, Kazuma relies on intuitionP0435 and readies escape only after castingP0449.
+
+A later escape posture cannot supply a pre-cast recovery plan. This is nonterminal cleaning, not necessarily the forecast combat geometry. Daily lake shotsC3P0100 and the reported trial destructionC4P0292 are not preplanned safe terminal deployments. The final ExplosionFP0467 is Wiz, not Megumin.
+
+### MG04-M04 — NOT_TESTED
+
+No required decisive harm by Megumin against an independently established personally valued person as opponent/obstacle is shown.
+
+**Branches:** valued_person_opponent_harm_conjunction: NOT_TESTED.
+
+Megumin proposes removing DukeC3P0277 and tries to interrupt the duelFP0232–0237; Duke is not established as her personally valued target. Wiz own reluctance toward an imagined admirerFP0241–0278 supplies a cross-character contrast only.
+
+Wiz nearby does not itself establish that Megumin is required to harm Wiz. Do not transfer a Wiz-specific conflict into confirmation of a Megumin-specific forecast or confuse an unexecuted collateral risk with a required valued-target act.
+
+### MG04-M05 — NOT_TESTED
+
+Neither the airburst nor the interrupted duel cast establishes knowingly best tactical Explosion directly causing grave companion harm with explicit alternatives.
+
+**Branches:** complete_grave_direct_companion_harm_conjunction: NOT_TESTED; collateral_or_second_order_risk: RETAINED.
+
+C1P0433 names possible beast retaliation, a secondary danger rather than known direct friendly-fire injury. FP0232–0237 supplies a prospective interruption near the duel and actual external restraint, but not clear Megumin knowledge of grave direct injury or the best tactical alternative set.
+
+Do not call the risky attempted cast harmless after the fact. Its unknown anticipated severity remains a care limit. Missing explicit harm knowledge is not confirmation, and enemy spells hurting Wiz are not Megumin own friendly-fire decision.
+
+### MG04-M06 — NOT_TESTED
+
+Repeated lake Explosion and two trial blasts do not form the sustained safe effective growth-reward operation whose instrumental purpose is weakening.
+
+**Branches:** full_instrumental_reward_drift_conjunction: NOT_TESTED.
+
+C3P0100–0101 reports repeated lake use for Aqua fish and boredom with that location. C4P0283–0295 reports two unsuccessful trial episodes, with the second night drawing monsters. EpP0053 gives excitement after seeing another Explosion and a proposed fishing contest.
+
+Incidental fish utility and daily leisure do not complete the frozen mission/growth/weakening conjunction. Destructive frustration in failed trials is not repeated safe successful reward. No missing trigger is scored as failed goal discipline.
+
+### MG04-D01 — CONFIRMED
+
+Kazuma and Aqua face actual frog swallowing; Darkness has the armor and access needed to intervene and remains responsible for the party.
+
+**Branches:** protective_contribution: SUPPORTED; self_cost: BOUNDED_PHYSICAL_INTERVENTION_AND_RESCUE_BURDEN; safe_strategy_or_extraction_guarantee: NOT_CLAIMED.
+
+C2P0256 establishes armor protection and feasible survival; P0285 assigns decoy. P0308 explicitly relies on her later rescue, and P0319–0320 confirms repeated actual extraction of swallowed companions. P0329 shows her handling reward/reporting afterward.
+
+She is not shown injured and her metal armor excludes being swallowed; cost must not be inflated into burns or grave personal harm. Physical intervention/repeated rescue is actual contribution despite her later envyP0331. FP0244–0247 is a separate proposed intervention prevented by Kazuma, with pleasure coexisting; it is not proof that no protective purpose existed.
+
+### MG04-D02 — PARTIAL
+
+Darkness explicitly selects a public cover before unexpected recognition defeats it. This contextual presentation preference is enough for the audience/privacy antecedent; no stable personality-level preference requirement is added. The separate equal-companion-standing branch remains untested.
+
+**Branches:** audience_privacy_A: SUPPORTED_BOUNDED; equal_companion_standing_B: NOT_TESTED; broader_control_loss_transfer: MIXED_RETAINED.
+
+C4P0138–0158 fixes Duke, public bar, hidden observers and a chosen seduction test with shopkeeper cover158. Dust159/163 defeats that cover; denial162, payment164, revised identity172 and later shame179–200 follow. Onlookers179 are stifling laughter, not performing a narrated laughing outburst. EpP0040 exposes a hidden diary compartment before Darkness41 reports a locked room and42 removes Aqua.
+
+The bar supports the frozen directional privacy/dignity response, while multiple causes limit sole-cause attribution: embarrassment already begins144–146, and failed wine ordering/later taunts add costs. The diary compartment independently supports concealment, but the lock fact comes from the same reaction and cannot be double-used as independent evidence for successful language form. Chosen jealousy/play framesC4P0153 andFP0246 coexist with later release requestsFP0388/0394. Whole D02 remains PARTIAL because B is NOT_TESTED, not because an unfrozen stable-preference rule excludes A; old V10/V12 adverse and later enjoyment remain unchanged.
+
+### MG04-D03 — NOT_TESTED
+
+Ordinary family, civic and party duties coexist; no genuinely incompatible concrete demand requires abandoning continued membership.
+
+**Branches:** full_incompatible_obligations: NOT_TESTED.
+
+C1P0318–0319 Darkness stays with Sylphina while others mine. C2P0132–0136 she objects to gardening risk; C4P0273–0274 she reports apologizing to parents; EpP0037–0039 discusses future noble marriage with relative paternal freedom.
+
+These supply real duties and costs, but temporary division, domestic regulation and future marriage reflection do not establish a full family-duty versus continued-party-membership incompatibility. No sustained removal is invented.
+
+### MG04-E01 — PARTIAL
+
+Local resource/role arrangements can be compared, but the volume does not independently supply an alternative provider adequate for a complete serious multistage operation and a controlled continuing-Kazuma-dependence comparison.
+
+**Branches:** A_deployment_improvement: SUPPORTED_BOUNDED; B_whole_alternative_provider_adequacy: NOT_TESTED_FULL; C_Kazuma_comparative_dependence_when_B: NOT_TESTED_FULL.
+
+C1P0387–0414 moves from ignored need/independent greedy mining to explicit mobilization and successful specialist actions. C2P0122–0136 chore allocation matches some known capacities; P0189–0192 and0285–0320 expose absent attack roles, an under-scoped plan and armored recovery. C3P0237–0246 sensory tools succeed while interpretation fails. FP0232–0254 deliberately misaligns capable helpers around spectacle; Wiz later independently handles combatFP0384–0414.
+
+Do not infer a good plan solely from victory. Vanir revival and Wiz combat expertise supply phases, not every role/resource/handoff for a whole multistage substitute organization. Kazuma claim that all members are necessaryC2P0312 and the counterfactual M one-shotP0355 are not exhaustive comparisons. Fitted work, goal error, collateral risk, ethics and recovery remain separate vectors.
+
+### MG04-E02 — NOT_TESTED
+
+No feasible practical-efficiency reorganization credibly removes an established core party/home relationship for a sustained period.
+
+**Branches:** full_efficiency_durable_core_separation: NOT_TESTED; attachment_evidence: OBSERVED_SEPARATELY.
+
+Kazuma retirement/luxuryC1P0053–0065 offers no efficient party reorganization. Megumin trial absenceC2P0104–0122 is temporary. Wiz/Vanir possible marriage/manager replacementC4P0034–0076 andFP0100–0111 concerns a distinct shop partnership, not an admitted core-party removal.
+
+Aqua fear of losing tea/play friendsC3P0203/C4P0107 and immortal friendshipEpP0024–0027 are strong attachment evidence. They cannot supply the missing core-efficiency antecedent. Preserve Kazuma actual comfort/retirement preference rather than universalizing return.
+
+### MG04-J01 — PARTIAL
+
+Thirty original pre-outcome records are retained:16 primary and14 independent. Five of the14 independent captures are unmatched and displayed as supplements to the16 primary, yielding21 presented source-event captures. Role, speakers, audiences, danger and exact windows were fixed before outcomes; originals and all factual errata remain.
+
+**Branches:** Megumin_specialist: SUPPORTED_BOUNDED; Megumin_personal: SPARSE_OR_ROLE_ADJACENT; Aqua_service: LIMITED_AND_ADVERSE_COMPARISON_RETAINED; Aqua_divine_status: ALREADY_ACTIVE_SPARSE; Darkness_duty_dignity_belonging: LIMITED_AND_SPARSE; Kazuma_quiet_and_new_tactical_care: SPARSE_TARGET_OR_ADOPTION_LIMITS.
+
+Detailed per-window coding is documented in [V13 deep reading §8](../02%20Sequential%20Readings/KONOSUBA_V13_DEEP_READING.md) and its voice append. Strong source comparison includes FP0158–0166 versus0219–0237 for specialist challenge, with external comparison221/224 and attempted cast232/237. Other fixed windows preserve practical baselines, one-turn after samples, mismatched targets, ethical confusion and unadopted care rather than selecting cleaner replacements.
+
+JV13-03 pre-attack baseline does not establish that the threatened miner is a valued companion; concern378/388 precedes offer394, instruction399 precedes approach401. JV13-04 instruction399→Aqua403→attack404, so later action does not become an earlier trigger. JV13-12 has TWO Aqua after turns323/325. Diary lock41 cannot be both sole prior-boundary fact and formal success. Independent audience/addressee errata are external to unchanged originals. Whole compound is not confirmed from a supported specialist mapping.
+
+### MG04-J02 — PARTIAL
+
+Complete local V13 source-first census is fixed, reconciled, independently coded and root-accepted. Required future authorized V14/V15 contributions to the new pooled forecast remain unobserved.
+
+**Branches:** V13_local_contribution: COMPLETE_ROOT_ACCEPTED; V13_V15_tranche: OPEN; formal_whole_forecast: PARTIAL.
+
+Primary169 and independent190 initial units were sealed after both full ordered reads and before scene exchange. Thirty-seven source-first operations net+23 fixed192 disjoint units and22 whole-unit soft salience flags, with all169 primary lineages and native hashes retained. Both coding files were sealed before root23:04:33Z exchange release. Root accepted the full joined register1246193B SHA3b07574c20a333980af319330dae18d4b9317401c13d08eddfe13e819879dea1.
+
+Conservative result:188 clear L0–L2,1 clear L3(H030b),3 MIXED_UNRESOLVED(H085/H112/H149b), no uncertain; strict bounds188–191/192. Removing all22 pre-coded soft units gives the separate sensitivity166–169/170. Both original fine codes/rationales and culture flags remain;121 exact agreement,71 fine-code differences,69 within portable family,2 scoring-group differences and1 strict clear-portable-status difference. No boundary or denominator was changed for fit. Even robust local majority cannot close V13–V15 or expanded-corpus synthesis.
+
+### MG04-Y01 — CONFIRMED
+
+BOUNDED_OBSERVABLE_BEHAVIOR: explicit reported joint consultation and accepted custody establish the shared undertaking and useful role; actual Teleport demonstrates response despite failure of the overall trial. No outsider-to-household invitation or private-mind causal criterion is added.
+
+**Branches:** reported_shared_agreement_and_role: SUPPORTED; technical_participation: SUPPORTED_DESPITE_TASK_FAILURE; private_belonging_cause: NOT_INFERRED.
+
+C2P0076–0100 gives the paired trial and initial unwanted-helper conflict. C4P0279 reports Megumin volunteered again; P0283 gives pretrial staff handoff and following; P0286 explicitly says the two consulted and adopted the night plan; P0295 reports Yunyun Teleport escape. EpP0062 preserves two failed trials.
+
+The eligible report directly supplies joint consultation rather than merely mentioning a visit. Her initiating recruitment and initial rejection of an unfit helper do not negate later agreed participation or require a new outsider invitation. No unshown welcome speech, reduced anxiety, enthusiasm or private conviction that she belongs is inferred. Fitted technical participation survives failure of the total objective; this is bounded behavioral forecast support, not unique psychological-cause confirmation.
+
+### MG04-CE01 — NOT_TESTED
+
+Eris is reported to attack the count; no public service requests beyond her own expressed preferred burden with feasible refusal are supplied.
+
+**Branches:** cumulative_public_service_burden: NOT_TESTED.
+
+C1P0231–0236 count reports repeated Eris attacks, and Kazuma infers revenge/prioritizing medicine. C1P0285–0288 others speculate about divine idleness/favor. Duke claims another future meetingC4P0400, a separate report.
+
+Target hostility and narrator speculation are not an accumulating sincere request or Eris own preference about workload. Chris/Eris has no directly shown new burden-negotiation scene. Do not derive a service motive or fatigue from observer jokes.
+
+### MG04-I01 — NOT_TESTED
+
+No new directly observed Iris constrained/public versus safer nondeferential interaction occurs.
+
+**Branches:** new_direct_comparable_contexts: NOT_TESTED.
+
+References in the wider harem listC3P0471 are Kazuma companions talking about her, not Iris action. No V13 actual Iris interaction or letter supplies the required new contrast.
+
+Accepted V10/V11 support remains historical. An absence of a current test is not a failed predicted expansion or grounds to reopen earlier reported tears/speech.
+
+### MG04-I02 — NOT_TESTED
+
+No new directly established Iris personal wish plus understood conflicting royal duty precedes a narrowed request.
+
+**Branches:** wish_duty_narrowed_request: NOT_TESTED.
+
+No Iris decision scene is present in the admitted seven main units; mentions in other speakers dialogue do not establish her wishes or duty appraisal.
+
+V11 matched wish/duty evidence remains unchanged. Do not manufacture a hidden wish, obligation or reduced request from her name in Kazuma social world.

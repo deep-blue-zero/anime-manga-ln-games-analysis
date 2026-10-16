@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V12
+scope: V01-V13
 ledger_role: seriousness_override
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V12 main narrative
+source_boundary: Japanese main-series light novels through V13 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Seriousness Override Ledger — Through V12
+# KONOSUBA Seriousness Override Ledger — Through V13
 
 ## Purpose
 
@@ -439,3 +439,55 @@ Complete ordered Japanese V12 main narrative only: Pr/C1–C5/F/Ep = `text/part0
 ## Weighting
 
 High-information override does not mean an entire person has become serious or morally reliable. V12 specifically juxtaposes sincere answer and renewed opportunism; real protective pain and real pleasure; educational service and fear of ridicule; useful care and unproven reward chronology. Code the immediate transition and its recovery into comic behavior. H1 supports actual decisions and costs; H2 supports the underlying motive but not every magnitude; H3/H4 local collision or cartoon framing cannot be transferred as realistic injury tolerance or ordinary aggression.
+
+
+# V13 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V13 principal main narrative only: Pr/C1–C4/F/Ep = `text/part0009.html`–`part0015.html`; **2,456 all-body p / 2,285 nonempty / 97,758 base characters**. All-body numbering includes blanks and image p; ruby rt/rp are removed with base characters and tails retained without normalization. Whole EPUB2,779,947B SHA-256 `20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b`, Drive `17hODcYpv6lbF8ZoVBS6tetQNbi7RuBch`. Inherited accepted V01–V12/CP04 entry is published `c1ad78db96c631635a1fc2940019c59dd4e86873`, tree `dcffdd3aeb755acd70f8271494055ed8b664c8f2`. Root's explicit22:23:52Z gate followed V12 full close and CP acceptance/freeze/publication/full readback; CP own CI was truthfully pending at opening and later closed source38975079047→housekeeping38975633339→final38975671243 at exactc1. Original exposure receipts remain unchanged. Afterwordpart0016, electronic bonus **本物のマジックアイテム！** part0019, all nonmain bodies/images, V14+ and side narrative are excluded/unread. Gen04 model23,814B SHA `5ff6cb60408fff2bfc9bab814f311d65128ed4df0703f8ab607c16b963515173`; predictions65,983B SHA `e553d7cfc5be3fd290ad0471d482ca6fe2c0ffd5db3689600bbf156de71def5c`. All25 original blank Outcome/Adjudication pairs and all historical blocks/outcomes remain exact. Both V13 complete source reads and initial unclassified censuses sealed before scene-specific exchange; all boundaries fixed before independent L coding. This is an additive V13-local contribution, not a new model, a closed V13–V15 tranche or expanded-project completion. See the [V13 deep reading](../02%20Sequential%20Readings/KONOSUBA_V13_DEEP_READING.md) for all17 responsibilities, exact source/member identities, fixed voice windows, complete census and limits. Main-only derivation precedes the immutable main-suite freeze, designated holdout validation, remaining expanded-corpus work and attributable post-validation reconstruction.
+
+## V13 seriousness, repair and continued scripts
+
+A seriousness boundary is an observed change in priority, not merely the presence of an injured, tearful or vulnerable person. External restraint, technical inability, a new target category and a self-chosen change of goal have different authority. Later kindness does not erase an earlier continuation; an earlier insult does not make later care unreal.
+
+| ID | Source / prior script | What changes or persists | Boundary and limit |
+|---|---|---|---|
+| SO-V13-01 | PrP0004–0022; shop insults and a bad product | Sylphina's flower and thanks receive an eye-level promise of future help from Wiz. | A sustained moral capacity is visible without repairing business judgment. The scene permits sincere warmth inside a comic shop routine. |
+| SO-V13-02 | C1P0231–0247; a former enemy is persecuted | Kazuma reconsiders the party's failed bargain and assault and asks Aqua to spare him. | Ethical self-review is explicit, while Eris's reported motives remain inferred. Aqua's later repeated attacks show that the group has not acquired universal mercy. |
+| SO-V13-03 | C1P0376–0414; ore reward competes with a victim's plea | Aqua ignores helpP0387–0390. Wiz prepares to sacrifice earnings/materials; Kazuma mobilizes and the group actually rescues. | Specific people can reprioritize differently in one scene. Wiz's sacrifice is not a sexual transaction; Kazuma first misreads it. Aqua's efficient participation does not negate her prior indifference. |
+| SO-V13-04 | C1P0431–0449; Explosion normally promises eager display | Megumin voices retaliation risk and the no-attack convention, then prepares reluctantly for Kazuma's precision request. | Caution is real before the successful cast. Kazuma's intuition is uncertain and his escape readiness follows casting; neither success nor that later readiness supplies a prior complete safe artillery exit plan. |
+| SO-V13-05 | C2P0316–0326; failed quest and slime | Kazuma yields bath priority, leads Aqua by the hand and prepares warm water; she says kindness makes forgiveness difficult to resist. | Actual quiet repair follows his causal responsibility. It is neither an excuse for the frog decision nor proof of a universal response to all distress. |
+| SO-V13-06 | C2P0447–0518; acknowledged attachment and washing boundaries | Kazuma asserts fidelity but coaches an exception, reverses an announced exit and later selects a victim-only account. | The mere declaration of a commitment does not establish maintained restraint. Darkness's later imposed initiative and his active choices both remain. A stopped departure is not a completed departure. |
+| SO-V13-07 | C3P0456–0498; harem pride and an admired supposed faithful man | Kazuma explicitly judges recent conduct and declines a proposed visit when not in the mood, yet conceals the overnight context from Aqua's listeners. | A real local change of self-appraisal can be inspired by a mistaken model. Current low appetite and a refusal do not prove every element of a different quiet substitute/commitment test. |
+| SO-V13-08 | C4P0279–0299; earlier frustration casting ruined a trial | Megumin reports giving Yunyun her staff and trying to follow, then retrieving it after repeated puzzle failure and destroying another site. | Delegated self-control is a real precommitment and fails under the next frustration. Her proposed lesson is avoiding identification. Do not erase the attempted adaptation or transform it into accepted exclusive-build guilt. |
+| SO-V13-09 | FP0221–0237; affectionate reassurance before the meeting | Explicit comparison with other magic activates specialist jealousy; Megumin starts casting and Kazuma physically stops her. | External inhibition is the observed stopping cause. No source-explicit understanding of grave direct companion injury is supplied; that missing conjunct must not be invented to score a different prediction. |
+| SO-V13-10 | C2P0319–0320; FP0244–0247,0388–0396 | Darkness repeatedly rescues swallowed companions. Later she states a protector reason to stop a duel, enjoys being bound and eventually asks release when danger rises. | Protection and selected pleasure coexist. Kazuma's motive attribution cannot delete her duty account; pleasure in a prior condition cannot consent to every later loss of agency. |
+| SO-V13-11 | FP0201–0208,0241–0278; Wiz thinks the opponent admires her | Wiz refuses to abandon work yet avoids harming him, using defensive magic while seeking a personal settlement. | A technically capable character's firing inhibition is relational, not inability. This is Wiz's independently observed conflict; it cannot validate a Megumin-specific valued-target forecast. |
+| SO-V13-12 | FP0345–0418; romantic humiliation and continued mistaken roles | The town threatP0372 precedes Wiz's sudden strike, cold question and decisive restraint of Duke. | The new protective cue is source-visible. Aqua's revenge attributionP0416 is disputed by WizP0417. Hurt pride and protection may coexist; one cannot automatically erase the other. |
+| SO-V13-13 | FP0431–0447; apparent catastrophic new enemy power | Duke's chosen undead form immediately permits Aqua's decisive established-domain purification. | This is a fitted target/category change and actual engaged capacity, not demonstrated general strategic improvement or a response to the earlier denial of her divinity. |
+| SO-V13-14 | EpP0003–0031; grief and Vanir's mockery | Aqua supplies comfort; Vanir briefly offers explicit immortal friendship, then Wiz's delay-the-project inference restores the management conflict. | Warmth is genuine and finite, while appetite for distress persists. No permanent transformation to a fully protective partner is shown. |
+| SO-V13-15 | EpP0016–0019,0033–0064; desired normal ending | The party returns together, but the town threat, trial failures, privacy conflict and family question remain unresolved. | Emotional reassurance is not objective closure. Future confirmation is prohibited at this boundary. |
+
+### Distress cues that do not automatically stop a script
+
+The Gen03 sufficient noticed-actual-tears forecast remains formally falsified and retired. The following V13 observations are retained as limits to a broader brake assumption, not used to rescore older local states or silently confirm the new successor. Source lexemes distinguish crying, tearful eyes and merely near-crying. Observation does not automatically establish every motive, opportunity or notice condition.
+
+| Source | Actual cue and subsequent conduct | What may and may not be concluded |
+|---|---|---|
+| C1P0158 | Yunyun reportedly cried over interpreted rejection after the prior meal. | This is a retrospective report, not a shown onset followed by a documented Kazuma choice. It establishes social harm, not a clean cue-response sequence. |
+| C1P0173 | Darkness reportedly cried during the figure buyback; Vanir uses the purchase as praise. | Cost and distress are explicit through report. Kazuma is not shown present at the onset; Vanir's comment is his own continued commercial frame. |
+| C1P0273 | The count has a 泣きそう voice while Kazuma helps him up. | Near tears are not actual crying. Help is actual; it does not fill an actual-tear conjunction by inference. |
+| C2P0276–0288 | Aqua is described as crying while being dragged; the exchange continues into confidence ridicule and Kazuma's insistence on action. | Distress does not produce a general halt. The current motive is recognition/quest confidence, not a demonstrated intimate-arousal state. |
+| C2P0299–0309 | Aqua cries amid the approaching frogs; Kazuma demands support, apologizes for blame and proposes relying on rescue. | Immediate danger supplies a real competing requirement. Commands are not automatically callous teasing, and prior practical planning prevents a clean newly adopted care onset claim. |
+| C2P0316–0325 | Postquest sobbing continues while Kazuma supplies a bath and gentle guidance. | This is actual quiet assistance after responsibility, not retrospective erasure of the earlier forcing of the hunt. |
+| C2P0406–0407 | Darkness looks as if she may cry; Kazuma continues his political exception. | Source says near-crying, not tears flowing. The continued grievance is a care limit, without inventing sexual arousal before the later bath stage. |
+| C3P0130–0139 | Wiz is tearful after accusation; Kazuma asks the problem and Aqua's comforting drink numbs her. | Attention and a poorly fitted comfort method coexist. Tearful eyes are not silently recoded as shed tears. |
+| C3P0204–0206 | Megumin's purity contrast leaves Darkness tearful; narration calls her the unclean counterpart. | This is relational embarrassment with a narrator jab. Do not turn the narrator's word into an unspoken Kazuma sentence or treat every later silent thought as active spoken teasing. |
+| C4P0035–0039 | Wiz has tears in her eyes while Vanir offers replacement and she grabs at him. | Her distress does not interrupt Vanir's management argument. Kazuma's outside observation is not proof of his own simultaneous gratification pursuit. |
+| C4P0193–0204 | Darkness covers her face, raises a tearful face and receives renewed aura/training mockery from both Kazuma and Aqua. | The continued personal teasing is adverse to a broad automatic distress brake. Preserve exact tearful wording, her later real anger and both perpetrators' participation. |
+| FP0324–0326 | Aqua is near crying after her deity claim is dismissed, then continues the sacred-power argument. | A status setback and response are visible. Near tears alone neither establish a crying trigger nor an interrupted instrumental assignment. |
+| FP0360,0418,0469 | Wiz is tearful during Vanir's laughter, protesting a revenge attribution and casting the final Explosion. | Different actors and stakes govern the three moments. The presence of tears is not one repeated identical behavioral experiment. |
+| EpP0004–0015,0029–0031 | Wiz actually weeps; consolation briefly works, Vanir's age correction restarts it and their later management confrontation elicits more crying. | Actual comfort and continued ridicule coexist. Kazuma's relief at familiar normality does not certify that the distressed woman is unaffected or that a new uniform care policy has appeared. |
+
+These cases support a competitive account of attention, reward, duty and chosen care. They do not justify adding a new intimacy-only or harmlessness exemption to an already failed old rule. The successor's explicit arousal/frame/known-stop and quiet-choice conditions must be evaluated on their own frozen terms.

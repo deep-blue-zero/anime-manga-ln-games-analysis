@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Main-series analysis accepted through V12; source identity and bibliographic reconciliation cover all 41 initial-snapshot EPUBs; side narrative remains withheld
+source_boundary: Main-series analysis accepted through V13; source identity and bibliographic reconciliation cover all 41 initial-snapshot EPUBs; side narrative remains withheld
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,19 +20,22 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 |---|---|
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
-| Accepted high-water mark | V12 |
-| Current phase | Main-series derivation; V12 publication closed; V10–V12 checkpoint/Gen04 accepted, own publication checks separately required |
-| Next canonical operation | V13 after accepted/committed/published/read-back Gen04 freeze; no V13 publication before checkpoint full CI close |
+| Accepted high-water mark | V13 |
+| Current phase | Main-series derivation; Phase5 ACTIVE; V13 locally closed, Gen04 V13–V15 tranche OPEN; CP04 own full publication sequence closed |
+| Next canonical operation | V14 only after V13 acceptance, commit, publication, exact readback and its own complete successful audit sequence; no V14 source exposure yet |
 | Current prospective model | Gen04, derived only from V01–V12 main narrative; Gen03 formal tranche closed, older blocks immutable |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
 | Initial local ordinary reconciliation commit | `a334381e3da75fb7455caf397e8f88d889939cfd` |
 | Latest fully audited published source head before V12 | `45217d5f509ef45f4453bc51753918acad30fb18` |
+| Fully audited CP04 head at V13 assembly | `c1ad78db96c631635a1fc2940019c59dd4e86873` |
 | Main verified during V12 preparation | `8a01820dcac68b600307f4505422c3aeed453cab` |
 | Side narrative / ebook bonus exposure | Not admitted in this phase |
 | Source-access blocker | None found: all 41 original EPUB byte streams retrieved |
 
-V12’s complete principal reading, census/voice responsibilities, ten additive ledgers, map, source coverage and semantic acceptance close together in this source transaction. The [V12 review](KONOSUBA_V12_RECEIVING_REVIEW.md) distinguishes acceptance from publication and records exact identities. The V10–V12 checkpoint and any next source access remain subject to their separate required closeouts and forecast-before-exposure boundary. The later expanded program remains authorized but dependency-gated. No unsupported background-execution claim is made.
+V13’s complete principal reading, fixed census/voice responsibilities, ten additive ledgers, map, source coverage and semantic acceptance close together in this source transaction. The [V13 review](KONOSUBA_V13_RECEIVING_REVIEW.md) records exact candidate identities, actual reading/review scopes and preacceptance repairs. V13 publication/readback and its own complete audit sequence remain required before V14 opens. The expanded program remains authorized and dependency-gated; no completed expanded-stage or background-execution claim follows.
+
+**Historical V12 transaction statement:** V12’s complete principal reading, census/voice responsibilities, ten additive ledgers, map, source coverage and semantic acceptance close together in this source transaction. The [V12 review](KONOSUBA_V12_RECEIVING_REVIEW.md) distinguishes acceptance from publication and records exact identities. The V10–V12 checkpoint and any next source access remain subject to their separate required closeouts and forecast-before-exposure boundary. The later expanded program remains authorized but dependency-gated. No unsupported background-execution claim is made.
 
 ## Repository reconciliation and preservation
 
@@ -57,7 +60,7 @@ The two historical language audits retain their declared 20-book and V07-only bo
 
 Fifteen EPUBs retain mimetype-ordering/compression warnings. This is distinct from corrupt ZIP/member data or inability to read the source; a full external EPUBCheck conformance run is not claimed. Five books have image-only reading spines: Cheers 137 wrappers, Blessing 157, Official Memorial Fanbook 121, core TRPG 333 and advanced TRPG 331. Text extraction therefore supplies no substitute for their page-image inspection. Their prose, editorial, rules, scenario and illustration boundaries remain required later work.
 
-The metadata and byte tasks inspected package identity/structure, not fictional prose. Their receipts cannot promote READ_COMPLETE, ANALYZED or VALIDATION_USED. Main V01–V10 completion is inherited from accepted analytical artifacts; V11 and V12 principal narrative completion is established by their separate source-unit reviews. All future and side-source narrative stays outside earlier prospective states.
+The metadata and byte tasks inspected package identity/structure, not fictional prose. Their receipts cannot promote READ_COMPLETE, ANALYZED or VALIDATION_USED. Main V01–V10 completion is inherited from accepted analytical artifacts; V11–V13 principal narrative completion is established by their separate source-unit reviews. All future and side-source narrative stays outside earlier prospective states.
 
 ## Stage ownership and analytical scope
 
@@ -77,8 +80,8 @@ The run's scope is the fixed 41-object inventory and identifiable edition-contai
 |---|---|
 | Live eight-folder/41-object identity and manifest reconciliation | COMPLETE_FOR_DECLARED_METADATA_AND_BYTE_SCOPE |
 | Exact supplied-edition and every narrative-component boundary | OPEN; direct component/colophon inspection remains |
-| Main sequential readings and synchronized ledgers through V17 | OPEN; accepted through V12 |
-| Gen04, Gen05 and final sequential checkpoint | Gen04 accepted; own publication/CI separately required. Gen05 and final remain NOT_COMPLETE |
+| Main sequential readings and synchronized ledgers through V17 | OPEN; accepted through V13; V14–V17 remain unread |
+| Gen04, Gen05 and final sequential checkpoint | Gen04 accepted, published/read back and full exact-source CI closed on c1ad78db; V13–V15 tests OPEN. Gen05 and final remain NOT_COMPLETE |
 | Required main-only specialists, monographs and integrative artifacts | NOT_COMPLETE |
 | Required reconstruction suite and simulation/consistency audit | NOT_COMPLETE |
 | Main-only immutable model-suite freeze | NOT_COMPLETE |
@@ -90,7 +93,7 @@ The run's scope is the fixed 41-object inventory and identifiable edition-contai
 
 ## Publication responsibility
 
-This source transaction's exact authored paths are the existing architecture, source inventory, source lock and current map; the two new source-coverage matrix files; and this audit. Source binaries, primary text extracts, raw acquisition/Calibre paths, signed transfers and private manifests remain outside Git. Verified primary-source IDs are project-local evidence routes, not newly migrated Drive-only analytical artifacts. Missing old `drive-ref` fragments are recorded rather than fabricated or repaired through unauthorized global-index changes.
+The initial41-source reconciliation transaction's exact authored paths were the existing architecture, source inventory, source lock and current map; the two new source-coverage matrix files; and this audit. Source binaries, primary text extracts, raw acquisition/Calibre paths, signed transfers and private manifests remain outside Git. Verified primary-source IDs are project-local evidence routes, not newly migrated Drive-only analytical artifacts. Missing old `drive-ref` fragments are recorded rather than fabricated or repaired through unauthorized global-index changes.
 
 Only explicit paths may be staged. Approved author/committer identity, complete diff review, staged-index author preflight, live ruleset/head rechecks, non-forced publication, exact-commit readback, source audit, housekeeping and final exact-head `Repository integration audit` remain required. This pre-publication record does not invent its future containing commit or CI outcome. Main integration remains distinct and is not claimed here. The current published commit/status records establish later publication facts.
 
@@ -140,3 +143,28 @@ The accepted [V10–V12 checkpoint](../04%20Checkpoints%20and%20Model%20Validati
 Root accepted the exact Gen04 blocks at2026-10-16T22:12:40.615896+00:00, before any V13 narrative exposure: model23,814B SHA256 `5ff6cb60408fff2bfc9bab814f311d65128ed4df0703f8ab607c16b963515173`; forecasts65,983B SHA256 `e553d7cfc5be3fd290ad0471d482ca6fe2c0ffd5db3689600bbf156de71def5c`. The25 new field pairs remain blank; all older frozen text and local histories remain unchanged. The current-map/source-lock changes state the genuine accepted/committed/published/read-back pre-exposure gate and separately required checkpoint-CI-before-V13-publication gate. This containing transaction’s future commit/readback/check results are not invented. Main integration is distinct from source-branch publication.
 
 Current authored scope is exactly the new checkpoint, prediction-ledger append/live header, current map, source-lock current sequence, this run audit and the new [checkpoint receiving review](KONOSUBA_V10-V12_CHECKPOINT_RECEIVING_REVIEW.md). The other nine ledgers, all prior readings/checkpoints/reviews and the complete41-object matrix remain unchanged. The fixed snapshot seal remains `fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5`. Gen05/final sequential closure, main-only reconstruction-suite freeze, four-book holdout validation, all19 secondary prose books and individual narrative components, post-validation models and final architectural validation remain open.
+
+
+## CP04 exact publication close and V13 exposure provenance — 2026-10-16
+
+The V10–V12 checkpoint/Gen04 transaction was published as `c1ad78db96c631635a1fc2940019c59dd4e86873`, exact tree `dcffdd3aeb755acd70f8271494055ed8b664c8f2`, with ordered preserved parents `69a0d738951b7592d685a90cf76960554e56c15a` and `3dab550108eb90076bfddf8f2c958a151f78e1bb`. Exact complete-tree/changed-file readback matched the accepted candidate. [Source audit38975079047](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38975079047), job117222460431, succeeded against actual AUDIT_COMMITc1ad78db with PASS7930. [Housekeeping38975633339](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38975633339), job117224269700, reported actual SOURCE_SHAc1ad78db and no-op success. [Final audit38975671243](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38975671243), job117224397176, succeeded against actual AUDIT_COMMITc1ad78db with PASS7930. The exact commit's Repository integration audit became success at2026-10-16T22:29:27Z. Workflow display-head metadata was not substituted for the actual source target. CP04's own full sequence is closed; this does not certify V13's later publication.
+
+The original V13 OPEN receipt remains unchanged at2026-10-16T22:23:52.383159Z. It truthfully records CP04 own CI PENDING then: the accepted freeze at22:12:40.615896Z, committed/published/exact-read-back CP04 bytes, full V12 closeout and19 published entering-input pins already satisfied the authorized noncurrent preparation gate. Guarded extraction followed at22:25:16.919061Z and root native/derivative acceptance at22:26:09.286596Z. CP04 full CI was separately required before V13 publication and subsequently closed at22:29:27Z. No later success is backdated into the original OPEN record; no new exposure event is issued by this audit update.
+
+Before V13 assembly, root incorporated current main `3caff8b0625f63ab073285c9841639248a946c50` by ordinary local reconciliation `b0a6f98366c010aa79d3b5e31f0c5f04e90a76f7`, preserving c1ad78db as first parent and that main as second. The incoming18 Markdown paths belong entirely to Genocidal Organ/Harmony. Their complete incoming diff and exact main blobs were reviewed separately from Kono analysis; the import changes no Kono file or shared governance/control. This local proof is not a published V13 head. Main/continuing-head drift and protection rules still require fresh checks before the actual V13 publication.
+
+## V13 principal-main transaction and preserved open gates — 2026-10-16
+
+Only MAIN-13's seven principal members `text/part0009.html`–`part0015.html` were admitted:2,456 all-body paragraphs,2,285 nonempty and97,758 base characters. Stored EPUB identity remains2,779,947B SHA256 `20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b`. The producer and independent humor reader each completed an ordered full principal narrative pass; root receiving inspection is separately bounded to1,709 distinct paragraphs. Their overlapping scopes are not summed; the bounded receiving review is not a third complete pass. The [V13 receiving review](KONOSUBA_V13_RECEIVING_REVIEW.md) records actual semantic/reference scopes, exact candidate identities and preacceptance factual repairs; narrower QA is not promoted to full-source credit.
+
+Reader, semantic and receiving passes in this record denote agent semantic inspections; any earlier use of “human” is shorthand for semantic inspection and does not claim work by human analysts or staff.
+
+All25 unchanged Gen04 forecasts have separate local dispositions:3 CONFIRMED,8 PARTIAL,13 NOT_TESTED and1 local FALSIFIED. K03 records one matched unchanged-scope countercase under the literal frozen trigger; it does not satisfy the separate repeated-countercase retirement condition by itself or close the whole V13–V15 row prospectively. Local J01 is PARTIAL. The Gen04 model and both forecast copies, earlier protected blocks and original blank scoring fields remain unchanged. Gen04's complete V13–V15 tranche is OPEN; no new model generation or side-source evidence is introduced.
+
+The primary169-unit and independent190-unit uncoded discovery censuses both sealed before boundary exchange. Thirty-seven operations add a net23 fixed units and preserve all169 original primary lineages. The192-unit final census and22 soft-eligibility marks were frozen before either formal L coding; both complete code files sealed before comparison/aggregate exchange release at2026-10-16T23:04:33.828295Z. The conservative reconciled result is188 clear L0–L2,1 clear L3 and3 unresolved mixed: bounds188–191/192. Excluding every premarked soft unit for sensitivity gives166–169/170 while leaving the primary denominator intact. Original coding differences and unresolved forms survive; no forced fine consensus, reliability calibration or translation-effort estimate is claimed. This contributes only V13 to J02's complete V13–V15 scope.
+
+The21 fixed voice captures comprise16 primary windows plus5 supplements imported from14 independently fixed windows. Overlap, already-active roles, addressee shifts, sparse speech and adverse directions remain explicit; these are not21 independent trials. All ten ledgers receive additive V13 payloads. The current map and source metadata advance only MAIN-13 principal narrative; the four source-metadata files are reviewed as separate conditional inputs to the same atomic transaction. Current V13 authored scope is the new reading, all ten ledgers, current map, source lock, inventory, both coverage-matrix representations, this run audit and the new receiving review. The eighteen reviewed non-Kono main imports are distinct from those eighteen authored Kono paths.
+
+The afterword, bonus本物のマジックアイテム！, images and remaining edition components stay uninspected for their later stage. The fixed41-object identity seal `fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5` and all earlier source/prospective histories remain unchanged. V14–V17, Gen05/final main freeze, all required main-only analytical outputs and reconstruction-suite freeze, four designated holdout books, the full19-book supplemental prose program, individual bonus/artbook/fanbook/TRPG narrative dispositions, expanded synthesis, attributable post-validation models and final architectural validation all remain open.
+
+V13 semantic/source-unit acceptance does not invent its future containing commit, readback or CI result. Its actual source audit, housekeeping target/result and final exact-head integration status must all close on the published V13 head before V14 source opens. CP04's already successful sequence cannot substitute for those checks. Source-branch publication is separate from protected-main integration; neither a future V13 publication nor its main integration is asserted here.

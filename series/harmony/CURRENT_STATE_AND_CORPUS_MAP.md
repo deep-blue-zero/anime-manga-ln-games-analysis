@@ -5,10 +5,10 @@ artifact_type: corpus_map
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.2'
+version: '0.3'
 status: active_provisional
 scope: Current state and sole first-read entrypoint
-source_boundary: HAR-JP-EPUB-001 verified for bounded HAR-U001; opening words inspected for source fidelity after entering freeze; zero sequential-analysis units admitted at G0
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U002 through spine 10, exclusive before text/part0006_split_003.html; later narrative unread
 canonical_home: series/harmony/CURRENT_STATE_AND_CORPUS_MAP.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -24,31 +24,31 @@ project_initialization:
   method_status: active_provisional
   architecture_status: active_provisional
   source_reconnaissance_complete: true
-  source_reconnaissance_scope: PACKAGE_WHOLE_SPINE_STRUCTURE_OPENING_XHTML_RENDER_EXTRACTION_AND_COLOPHON
-  source_admission: VERIFIED_WITNESS_FOR_HAR_U001_ONLY
+  source_reconnaissance_scope: PACKAGE_WHOLE_SPINE_STRUCTURE_XHTML_RENDER_EXTRACTION_THROUGH_HAR_U002_AND_COLOPHON
+  source_admission: EXACT_WITNESS_RETAINED_INCREMENTAL_UNIT_FIDELITY_REQUIRED
   required_day_one_infrastructure_initialized: true
   required_day_one_infrastructure:
   - 03 Longitudinal Ledgers/HARMONY_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md
   - 03 Longitudinal Ledgers/HARMONY_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md
   - 03 Longitudinal Ledgers/HARMONY_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
   substantive_sequential_findings_at_bootstrap: false
-  owner_review: SCOPED_FOUNDATION_ACCEPTED_FOR_ONE_PILOT
+  owner_review: PILOT_ACCEPTED_FULL_SEQUENTIAL_RUN_AUTHORIZED_2026_10_16
   sequential_analysis_lock: OPEN
-  lock_reason: G0_PASSED_EXACT_HAR_U001_SINGLE_OPERATION_ONLY
-  next_permitted_operation: HAR-U001
+  lock_reason: OWNER_AUTHORIZED_CONTINUOUS_HARMONY_THROUGH_NATURAL_EPILOGUE
+  next_permitted_operation: HAR-U003
 analytical_execution:
-  authorization: OWNER_PROJECT_ITOH_DUAL_NOVEL_PILOT_EXECUTION_2026_10_16_HAR_U001_ONLY
-  sequential_units_admitted: 0
-  sequential_units_completed: 0
-  committed_narrative_high_water_mark: null
+  authorization: OWNER_REVIEWED_PILOT_AND_REQUESTED_FULL_HARMONY_CONTINUATION_2026_10_16
+  sequential_units_admitted: 2
+  sequential_units_completed: 2
+  committed_narrative_high_water_mark: HAR-U002
 sequential_execution:
-  mode: single_operation
-  unit_type: natural_subsection_with_opening_framing
-  authorized_start: HAR-U001
-  terminal_boundary: HAR-U001
-  committed_high_water_mark: null
-  next_candidate_operation: HAR-U001
-  confirmation_between_units: true
+  mode: continuous_sequential
+  unit_type: natural_subsection_with_entering_framing_or_epilogue
+  authorized_start: HAR-U002
+  terminal_boundary: HARMONY_NATURAL_EPILOGUE_END
+  committed_high_water_mark: HAR-U002
+  next_candidate_operation: HAR-U003
+  confirmation_between_units: false
   run_state: active
 repository_state:
   stable_branch: series/harmony
@@ -59,24 +59,24 @@ repository_state:
 
 # Harmony / ハーモニー — current state and corpus map
 
-This is the sole first-read entrypoint for the independent original prose-novel project at `series/harmony/`, on continuing branch `series/harmony`. The author is Project Itoh / 伊藤計劃. The foundation is current-eligible **provisional project guidance**, accepted for the one owner-authorized pilot after scoped review; it contains no literary findings at this G0 checkpoint. No predecessor is superseded.
+This is the sole first-read entrypoint for the independent original prose-novel project at `series/harmony/`, on continuing branch `series/harmony`. The author is Project Itoh / 伊藤計劃. The foundation is current-eligible **provisional project guidance**, accepted after scoped review, with the owner now authorizing full sequential continuation through the natural epilogue; two frozen natural-unit readings and cumulative closeouts now provide the partial literary findings. No predecessor is superseded.
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-G0 passes for **HAR-U001 only**: the reviewed method/architecture and initialized ledgers are adequate, the exact transformed Japanese digital witness and opening source/render/extraction route are verified, and the owner’s 2026-10-16 pilot instruction supplies one `single_operation`. Opening words were displayed only for source-fidelity auditing after an entering freeze, before interpretation. The OPEN architecture lock supplies no authority for another unit.
+Historical G0 passed for **HAR-U001 only**: the reviewed method/architecture and initialized ledgers are adequate, the exact transformed Japanese digital witness and opening source/render/extraction route are verified, and the owner’s 2026-10-16 pilot instruction supplies one `single_operation`. Opening words were displayed only for source-fidelity auditing after an entering freeze, before interpretation. That historical single-operation lock supplied no authority for another unit; the later owner instruction separately authorizes the current continuous run.
 
 ## Independent progress states
 
 | Responsibility | Present state |
 | --- | --- |
 | Bibliographic identity | Original Japanese print publication verified through NDL; digital and later print records kept distinct |
-| Source inventory | Fresh canonical Drive bytes reverified; whole-spine structure, opening XHTML/render/extraction and bibliographic paratext checked |
-| Authoritative reading witness | `VERIFIED_WITNESS_FOR_HAR_U001_ONLY`: exact digest and usable opening verified; transformed edition lineage and later textual completeness remain bounded uncertainties |
-| Narrative admission | `NOT_ADMITTED_AT_G0`; 0 sequential-analysis units |
-| Sequential reading | `AUTHORIZED_NEXT_HAR-U001`; 0 completed units; narrative high-water mark null |
-| Longitudinal instruments | Three initialized schemas; 0 evidence, subject, relationship, institution, claim or prediction records |
+| Source inventory | Fresh canonical Drive bytes reverified; whole-spine structure, XHTML/render/extraction through HAR-U002 and bibliographic paratext checked |
+| Authoritative reading witness | `VERIFIED_WITNESS_THROUGH_HAR_U002`: exact digest and both admitted units usable; transformed edition lineage and unread textual completeness remain bounded uncertainties |
+| Narrative admission | `ADMITTED_THROUGH_HAR-U002`; 2 sequential-analysis units |
+| Sequential reading | HAR-U001–HAR-U002 fully read/authored; high-water mark HAR-U002; exclusive before 03, checkpoint pause before further exposure |
+| Longitudinal instruments | Three closed ledgers; 27 passage evidence IDs / 30 spans; 5 subjects/6 relations / 9 world rows / 11 claims / 0 predictions / 2 pre-entry calibration revisions |
 | Reconciliation and synthesis | `NOT_STARTED`; coverage, specialist and novel-synthesis gates independently unmet |
-| Character reconstruction | `UNASSESSED_NO_NARRATIVE_EVIDENCE`; specification exists, no subject selected, no model produced or validated |
+| Character reconstruction | Current 5 assessments: 2 DOMAIN_BOUNDED, 3 RECOGNITION_ONLY; historical U001 INSUFFICIENT retained; models NOT_STARTED, validation NOT_PERFORMED |
 | Owner review / publication permission | Scoped foundation review accepted; ordinary stable-branch publication and the existing audited owner-controlled integration route apply. Actual publication records belong to Git/audits |
 
 ## Read order and current homes
@@ -86,12 +86,15 @@ G0 passes for **HAR-U001 only**: the reviewed method/architecture and initialize
 3. [Synthesis architecture](00%20Frameworks%20and%20Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md) for ownership, completion gates and the complete character-reconstruction specification.
 4. [Actor, directional relationship and readiness ledger](03%20Longitudinal%20Ledgers/HARMONY_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md), [knowledge, institutions and coercion ledger](03%20Longitudinal%20Ledgers/HARMONY_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md), and [claims, predictions and revisions ledger](03%20Longitudinal%20Ledgers/HARMONY_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md).
 5. [Bootstrap receipt](07%20Audits%20and%20Handoffs/HARMONY_BOOTSTRAP_RECEIPT.md) for the exact authored path manifest, reconnaissance/validation record and review questions.
+6. [Pilot execution receipt](07%20Audits%20and%20Handoffs/HARMONY_PILOT_EXECUTION_RECEIPT_2026-10-16.md) for the bounded foundation/source review, actual capability/inspection record and one-unit closeout.
 
-The source map owns the exact verified bounded witness and its limitations; witness acceptance is separate from sequential-analysis admission. Git contains methods, analytical state and compact provenance. Primary and deterministic derived evidence remain in the governed Drive evidence plane; this bootstrap neither changes Drive nor brings source payloads into Git.
+The source map owns the exact verified bounded witness and its limitations; witness acceptance is separate from sequential-analysis admission. Git contains methods, analytical state and compact provenance. Original primary evidence and the adopted bounded verification bundle remain in the governed Drive evidence plane; the historical bootstrap made no Drive changes. The source map identifies the pilot bundle and its exact readback hash. No source payload enters Git.
 
 ## Next permitted action and boundaries
 
-Next permitted action: **HAR-U001**, actual opening framing and the unnumbered Part I opening through numbered 01, ending immediately before `text/part0006_split_002.html`. The single-operation run is active; no sequential unit is yet admitted or completed at this G0 checkpoint. No narrative at or after numbered 02, full-novel sweep, synthesis or reconstruction is authorized.
+HAR-U001 remains frozen and closed. On 2026-10-16 the owner reviewed the pilots and requested continuation using the supplied advisory calibration; the authorized Harmony run is `continuous_sequential`, starting HAR-U002 and ending at `HARMONY_NATURAL_EPILOGUE_END` in the exact d583… witness. The [continuation record](07%20Audits%20and%20Handoffs/HARMONY_CONTINUATION_RUN_2026-10-16.md) defines that natural terminal bound and source-map obligations. This atomic transaction advances the frontier through HAR-U002; it does not claim any later source coverage. Downstream specialist synthesis, reconstruction and comparative work remain NOT AUTHORIZED. The first resumed unit has an additional parent-coordinated publication checkpoint before HAR-U003 exposure.
+
+Frozen readings: [HAR-U001](01%20Sequential%20Readings/HAR-U001_OPENING_AND_PART_I_01_DEEP_READING.md) and [HAR-U002](01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md), each with its own prospective exit. Next run operation: HAR-U003, numbered 03 in `text/part0006_split_003.html`, exclusive before `_004.html`; parent checkpoint clearance is required before exposure/publication resumes. This coordination pause is not an owner-confirmation gate between ordinary units. Retain one natural subsection per transaction with complete entering/framing dispositions and meaningful source/form QA.
 
 This root owns only this novel. Genocidal Organ / 虐殺器官 is a different analytical project with separate source, observation, subject and claim identities. Common authorship and publication dates are bibliographic facts. Shared fictional continuity, sequel relations and shared argument remain unestablished here. No comparative study is created.
 

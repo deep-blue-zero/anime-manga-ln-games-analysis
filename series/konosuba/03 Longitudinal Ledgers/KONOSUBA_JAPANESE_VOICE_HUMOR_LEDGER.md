@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V12
+scope: V01-V13
 ledger_role: japanese_voice_humor
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V12 main narrative
+source_boundary: Japanese main-series light novels through V13 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Japanese Voice and Humor Ledger — Through V12
+# KONOSUBA Japanese Voice and Humor Ledger — Through V13
 
 ## Method caution
 
@@ -695,3 +695,184 @@ Aqua can speak as caretaker, divine authority, offended victim, opportunist or p
 ## Humor portability and local form
 
 The accepted130-episode register keeps both original fine codes and all44 differences; no consensus L0/L1/L2 histogram is fabricated. Conservative grouping is127 clear L0–L2 plus3MIXED(H004/H047/H072), local127/130–130/130. The naming reaction, 痴女ネス blend and cute コロリン病 sound remain unresolved in primary dependence. The nickname at EpP0025 and 大物 atP0039 remain nested effects, not erased because their episodes have portable primary mechanisms. VIP/MVP can be retained as the same acronym confusion; redundant 危険が危ない can be recreated with ordinary duplication; senpai in FP0146–0155 is a hierarchy/address reward, not a sound pun. Samurai/ninja/RPG context can be culturally demanding without Japanese-specific grammatical dependence. These distinctions follow actual source forms rather than a blanket assertion that ordinary equivalents preserve everything.
+
+
+# V13 Update
+
+## Source and prospective boundary
+
+Complete ordered Japanese V13 principal main narrative only: Pr/C1–C4/F/Ep = `text/part0009.html`–`part0015.html`; **2,456 all-body p / 2,285 nonempty / 97,758 base characters**. All-body numbering includes blanks and image p; ruby rt/rp are removed with base characters and tails retained without normalization. Whole EPUB2,779,947B SHA-256 `20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b`, Drive `17hODcYpv6lbF8ZoVBS6tetQNbi7RuBch`. Inherited accepted V01–V12/CP04 entry is published `c1ad78db96c631635a1fc2940019c59dd4e86873`, tree `dcffdd3aeb755acd70f8271494055ed8b664c8f2`. Root's explicit22:23:52Z gate followed V12 full close and CP acceptance/freeze/publication/full readback; CP own CI was truthfully pending at opening and later closed source38975079047→housekeeping38975633339→final38975671243 at exactc1. Original exposure receipts remain unchanged. Afterwordpart0016, electronic bonus **本物のマジックアイテム！** part0019, all nonmain bodies/images, V14+ and side narrative are excluded/unread. Gen04 model23,814B SHA `5ff6cb60408fff2bfc9bab814f311d65128ed4df0703f8ab607c16b963515173`; predictions65,983B SHA `e553d7cfc5be3fd290ad0471d482ca6fe2c0ffd5db3689600bbf156de71def5c`. All25 original blank Outcome/Adjudication pairs and all historical blocks/outcomes remain exact. Both V13 complete source reads and initial unclassified censuses sealed before scene-specific exchange; all boundaries fixed before independent L coding. This is an additive V13-local contribution, not a new model, a closed V13–V15 tranche or expanded-project completion. See the [V13 deep reading](../02%20Sequential%20Readings/KONOSUBA_V13_DEEP_READING.md) for all17 responsibilities, exact source/member identities, fixed voice windows, complete census and limits. Main-only derivation precedes the immutable main-suite freeze, designated holdout validation, remaining expanded-corpus work and attributable post-validation reconstruction.
+
+## Fixed written-voice comparisons and local outcomes
+
+The exact16 primary windows and all14 independent records were sealed before coding. Five unmatched independent captures are attributable supplementary comparisons, making21 source-event captures for this presentation rather than30 independent tests. Original windows, contexts and source-only errata are unchanged. Before/after samples are unequal and sometimes sparse; no rate or acoustic claim follows. Semantic role-establishing wording is excluded from successful surface evidence.
+
+### JV13-01 — NOT_TESTED_NEW_ONSET
+
+**Fixed mapping:** Darkness dignity threat; already-active baseline. **Before:** C1P0008–0017. **After:** C1P0018–0024.
+
+Before10 is already violent personal objection. After19 shifts to shock at Aqua being the instructor, and23 renews retaliatory objection against another teaser. This is an already-active dignity script, not evidence of a new role causing a switch from neutral politeness.
+
+Short source anchors: まさかアクアに / 自前.
+
+### JV13-02 — PARTIAL_ROLE_ADJACENT
+
+**Fixed mapping:** Megumin specialist qualification challenge; identity-adjacent ability exclusion. **Before:** C1P0139–0143. **After:** C1P0144–0149.
+
+Megumin143 is already a proud clan candidate. After qualification refusal144,146 asks why the letter was brought and149 dismisses the guest under a domestic-preparation pretext while physical anger148 continues. Indirect dismissal and resentment are visible, but no new affirmative specialist identification follows. The challenge is eligibility, not explicit Explosion illegitimacy.
+
+Short source anchors: ではなぜ / 用事は済んだ.
+
+### JV13-03 — NOT_TESTED_VALUED_TARGET_LIMIT
+
+**Fixed mapping:** Kazuma independently new urgent tactical care. **Before:** C1P0369–0375. **After:** C1P0386–0404.
+
+The before window369–375 is genuinely pre-attack and Kazuma399 contains actual mobilizing instructions. But the injured miner is not established as a valued companion, and Kazuma already asks help378/388 in the intervening onset. Wiz392 introduces a distinct friend/material-sale concern. Movement401 corroborates participation after instruction399; it does not precede it. Record the tactical function without confirming the narrower companion-care transfer.
+
+Short source anchors: 行くぞ / 四人で.
+
+### JV13-04 — ADVERSE_DIRECTION_WITH_MATCH_LIMITS
+
+**Fixed mapping:** Aqua service assignment from reward pursuit. **Before:** C1P0381–0390. **After:** C1P0399–0411.
+
+The external assignment399 precedes Aqua403; actual attack404 follows. If403 semantic acceptance establishes adoption, do not score that same form as success. Her403 speech still centers lost mining time and the enemy's impertinence;410 is a retrospective reproach to Vanir after his attack, not a prospective victim-protecting handoff. Practical action is successful, while the predicted service-direction contrast is weak or opposing. The task is brief and reward remains active.
+
+Short source anchors: 一分一秒 / 最初から.
+
+### JV13-05 — PARTIAL_PROTECTOR_ROLE
+
+**Fixed mapping:** Darkness public duty/protector framing. **Before:** C2P0122–0130. **After:** C2P0131–0137.
+
+Darkness126 already speaks practical household efficiency. Law132 establishes the civic concern but its own formal wording is excluded from successful evidence. Remaining135 asks Aqua to stop because of predicted public nuisance, a protector-oriented practical warning rather than a newly institutional self-title. The home setting and worried-householder alternative limit public-duty attribution.
+
+Short source anchors: 待てアクア / 人様に迷惑.
+
+### JV13-06 — NOT_TESTED_NEW_ONSET
+
+**Fixed mapping:** Kazuma urgent tactical care; already-practical baseline. **Before:** C2P0271–0288. **After:** C2P0298–0308.
+
+Before285 already assigns decoy, sequencing and arrow roles. After302 demands support magic,306 elicits an apology and308 proposes dependence on rescue. These are task-specific forms amid intensified danger, but cannot confirm a newly practical care turn from a nonurgent reward baseline. Blame and resignation remain beside practical instruction.
+
+Short source anchors: 支援魔法 / 後で助け.
+
+### JV13-07 — NOT_TESTED_COMPARABLE_SPEECH
+
+**Fixed mapping:** Kazuma quiet relational repair care; sparse comparison. **Before:** C2P0271–0288. **After:** C2P0318–0325.
+
+The actions318/322/325 independently show repair care. The sole main Kazuma after-turn323 combines rough imperative entry with an ordinary offer and yielding his own bath turn. That function fits quiet assistance without a global politeness shift; one utterance and the before-window's already practical plan285 prevent a strong comparative claim.
+
+Short source anchors: 俺はその後で.
+
+### JV13-08 — NOT_TESTED_BELONGING_ROLE
+
+**Fixed mapping:** Darkness possible belonging threat; ethical-confusion alternative. **Before:** C2P0446–0458. **After:** C2P0461–0479.
+
+Darkness470 asks whether Kazuma chooses her before his explicit refusal471, so it is not a post-refusal acceptance request. After473 questions the ethical contradiction of choosing Megumin while continuing this encounter;476 qualifies the intensity attributed to her. Confusion472/474 is real, but membership or equal companion standing is not independently threatened. Preserve this nonconfirming case rather than treating every romantic hesitation as belonging fear.
+
+Short source anchors: いけない関係 / そこまで.
+
+### JV13-09 — NOT_TESTED_SPARSE_AFTER
+
+**Fixed mapping:** Megumin personal vulnerable appeal; sparse rejection aftermath. **Before:** C3P0475–0485. **After:** C3P0487–0491.
+
+The adult-expertise invitation485 is itself role-establishing and excluded as successful after form. After Kazuma refusal487, narrator surprise489 is not Megumin speech. Her one turn491 discloses an expectation of assent from their recent closeness. Direct relational explanation is present, but a single turn and challenge-to-adult-expertise context do not provide an adequate mapped vulnerable-appeal comparison.
+
+Short source anchors: 乗ってくるかと.
+
+### JV13-10 — SUPPORTED_BOUNDED_SPECIALIST_MAPPING
+
+**Fixed mapping:** Megumin specialist challenge with explicit spell-legitimacy comparison. **Before:** FP0158–0166. **After:** FP0219–0237.
+
+The earlier158–166 reassurance addresses Kazuma protection and states the efficacy of her spell. External devaluation221/224 and actual casting232/237 independently establish the later specialist contest. After222/234 she rejects the comparative ranking and explicitly identifies jealous attachment to Explosion. Her first reaction222 already follows221 before the more explicit224. The direction changes toward competitive assertion and specialist value; unequal speech and immediate duel setting prevent a frequency or uniform-politeness inference.
+
+Short source anchors: 本物の魔法 / 胸の奥が痛む.
+
+### JV13-11 — NOT_TESTED_SPARSE_ROLE_FORM_DUPLICATION
+
+**Fixed mapping:** Darkness public protector role; interrupted/possibly mixed motive. **Before:** FP0175–0209. **After:** FP0238–0247.
+
+The fixed primary before175–209 has no Darkness speech. Her244 protector proposition establishes intention and cannot also independently validate its own formal framing. Remaining246 describes pleasure in denied action, not institutional framing. Actual interference is blocked. Retain the explicit duty claim and the opposed pleasure together, with no invented baseline.
+
+Short source anchors: クルセイダー / おあずけ.
+
+### JV13-12 — NOT_TESTED_NEW_ONSET_SPARSE
+
+**Fixed mapping:** Aqua direct divine-status contest; already-active self-legitimation baseline. **Before:** FP0314–0320. **After:** FP0322–0326.
+
+Aqua already asserts divine hierarchy314/320 before denial322. The after-window has TWO Aqua turns323 and325, correcting the original fixed-note count outside its immutable bytes.323 demands a pause/recognition;325 attacks the inconsistency of borrowing holy power. Her own divine identity is not freshly re-established afterward. This is an intensified already-active status contest, with sparse speech, not a service-to-prestige onset.
+
+Short source anchors: 待ちなさい / 神々の超パワー.
+
+### JV13-13 — NOT_TESTED_CARE_ADOPTION
+
+**Fixed mapping:** Kazuma possible urgent care for Wiz; adoption not established by vulnerability alone. **Before:** FP0238–0254. **After:** FP0257–0273.
+
+Actual holy injury259–261 does not itself establish Kazuma adopting care. After262 he asks a class-capability question, followed by comparative narration268–269, while the earlier window explicitly seeks spectacle249/251–252. No independent protecting action or commitment appears. An interesting diagnostic question is not both care trigger and successful resource request; the broader failure to help remains visible.
+
+Short source anchors: 神聖魔法 / アークウィザード.
+
+### JV13-14 — NOT_TESTED_CARE_ADOPTION
+
+**Fixed mapping:** Kazuma possible urgent care; continued restraint and viewing. **Before:** FP0361–0375. **After:** FP0378–0403.
+
+The town threat372 and Wiz attack378–385 raise stakes; the restrained companions ask release388/394. Kazuma395 refuses Megumin freedom and tells her to watch, while399 returns to excitement about spectacle. These commands preserve his prior viewing/control objective rather than independently adopt a new companion-protection task. Strict conditional care is unestablished; the scene is important adverse context for any broader danger-automatically-produces-care claim.
+
+Short source anchors: まあ見てろ / ワクワク.
+
+### JV13-15 — PARTIAL_MULTICAUSAL_DIGNITY
+
+**Fixed mapping:** Darkness independently established dignity threat with multiple later provocations. **Before:** C4P0138–0158. **After:** C4P0159–0204.
+
+Before140/158 maintains formal approachable cover. Dust159/163 defeats it; Darkness162/167 attempts repair,172 shifts to noble identity, and later189/200 makes direct personal anger explicit. Onlookers stifling laughter179 and her physical shame193–194 independently corroborate injury, but embarrassment already starts144–146 and later wine failure/taunting are additional causes. The independently expressed cover158 is a sufficient contextual prior preference; no stable personality-level privacy requirement is imposed. The broad fixed after-window supports personal objection under threatened standing without isolating Dust exposure as its sole cause.
+
+Short source anchors: どなたかと / もう絶対に.
+
+### JV13-16 — NOT_TESTED_SPARSE_AND_CIRCULARITY_LIMIT
+
+**Fixed mapping:** Darkness dignity/privacy threat; no independent comparable after speech. **Before:** EpP0037–0039. **After:** EpP0040–0042.
+
+Aqua40 independently exposes the concealed compartment. Darkness41 is the sole after turn and supplies both the retrospective locked-room fact and her immediate personal challenge. If lock content establishes the prior preference, its formal wording cannot also confirm the effect. Removal42 is independent action; privacy response is real without sufficient comparative speech.
+
+Short source anchors: 鍵は掛けてる / どこまで.
+
+### JV13-S01 — SUPPORTED_BOUNDED_PRACTICAL_SPECIALIST
+
+**Fixed mapping:** Specialist challenge: practical usefulness of the one-cast build. **Before:** C2P0076–0082. **After:** C2P0083–0100.
+
+Imported exact independentI02 windows retain Megumin81 proud offer before Yunyun83 practical rejection. After94/97/99 she denies the need for Kazuma, challenges the interlocutor's bluntness and asserts high-level strength with a staff-frontline solution. External criticism and physical reactions establish the role independently. This supports competitive assertion for practical specialist usefulness, not the extra spell-legitimacy-identification subtype and not internally accepted build guilt.
+
+Short source anchors: ウチのカズマ / 高レベル.
+
+### JV13-S02 — NOT_TESTED_ADJACENT_ALREADY_ACTIVE
+
+**Fixed mapping:** Personal relational vulnerability, jealousy-adjacent and already-active candidate. **Before:** C3P0042–0044. **After:** C3P0046–0055; C3P0065–0072.
+
+Imported exactI04 preserves one before reassurance43 to Kazuma, then jealousy accusations49/52/65 directed at Darkness. Prior bath discoveryC2P0508–0512 already establishes the relational concern; changing addressee and jealous rival attack are not the frozen personal gratitude/vulnerable-appeal subtype. Possessive wording cannot both establish the role and count as newly validating form.
+
+Short source anchors: 人の男 / 見せたい.
+
+### JV13-S03 — NOT_TESTED_SPARSE_ROLE_DUPLICATION
+
+**Fixed mapping:** Service/comfort candidate. **Before:** C3P0119–0129. **After:** C3P0137–0139.
+
+Imported exactI05 contains a strong content contrast between purification/slurs119–129 and the comforting tea137–139. The only Aqua after-turn137 supplies both semantic comfort adoption and practical advice; its form is excluded if used for that adoption. Actual receipt138–139 corroborates delivery but does not supply another Aqua turn. Method harms the lich and service-authority alignment is also limited.
+
+Short source anchors: 落ち着きなさい / 体を温める.
+
+### JV13-S04 — PARTIAL_COMFORT_ADJACENT
+
+**Fixed mapping:** Owned-resource comforting/service-adjacent candidate across scenes. **Before:** FP0414–0418. **After:** EpP0003–0015.
+
+Imported exactI07 compares victory revenge-praiseFP414–418 with later grief comfortEp3–15. Produce offerEp8 establishes a resource commitment, not a narrated completed transfer;9/13 show uptake of reassurance. Remaining11 offers an immortality reframe, while15 tells Vanir not to restart tears. The language becomes fitted consolation, but sparse speech, a new scene/addressee and friend-comfort versus specialist-service distinction prevent full service-mapping confirmation.
+
+Short source anchors: 妥協する必要 / 余計な事.
+
+### JV13-S05 — NOT_TESTED_ALREADY_ACTIVE_INQUIRY
+
+**Fixed mapping:** Quiet friend-care/inquiry candidate, already information-seeking. **Before:** C3P0103–0129. **After:** C3P0130–0141.
+
+Imported exactI12 before110 already asks Vanir about Wiz and122 objects to Aqua hurting her. After131 redirects attention to her problem and140 requests the account. Exclude131 form if using its semantic concern as adoption. Ordinary questions persist rather than mark a clean new care onset; addressees change from Vanir/Aqua to Wiz, as the independent factual erratum records.
+
+Short source anchors: どうした / 何があった.
+
+The clearest changes are purpose-sensitive rather than a universal softer or louder voice. Megumin can move from reassurance to defending spell legitimacy, and from a proud offer to competing over usefulness. Kazuma can keep blunt imperatives inside actual care. Aqua can perform a useful action while retaining reward/grievance language. Darkness can use formal cover and later personal objection under several overlapping humiliations. Weak, unchanged and opposite directions remain inside the judgment; the whole mapping remains PARTIAL.
