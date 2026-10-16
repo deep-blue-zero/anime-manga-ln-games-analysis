@@ -5,7 +5,7 @@ artifact_type: "character_monograph"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.0"
+version: "1.1"
 status: "canonical"
 scope: "Identity, past, method, decisions and relations of Tsukasa Akeuraji (MD-CHAR-0001) as disclosed through Score 61, with two fanbooks as labelled creator-layer context; no operational model"
 canonical_home: "series/medalist/04 Character and Relationship Synthesis/tsukasa-akeuraji/MEDALIST_TSUKASA_AKEURAJI_PROVISIONAL_MONOGRAPH.md"
@@ -16,8 +16,8 @@ entering_freeze: "MD-FR-FB02"
 series_state: "ONGOING"
 synthesis_state: "PROVISIONAL_THROUGH_VERIFIED_BOUNDARY"
 created: "2026-10-13"
-updated: "2026-10-13"
-review_status: "INTEGRATOR_REVIEWED_V1"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -31,15 +31,15 @@ This study concerns one character, Tsukasa Akeuraji (`MD-CHAR-0001`), through th
 
 ## 1. Thesis
 
-Tsukasa Akeuraji is a man who learned in childhood that to want something is to cost someone, and that a person who costs is judged. Three things in him follow from that, and the series has shown each of them repeatedly before it showed their source.
+Tsukasa Akeuraji is a man who learned in childhood that to want something is to cost someone, and that a person who costs is judged. That remembered history gives a supported account of his difficulty asking for help and his need to repay it. Three features of his coaching meet within that structure; the origin of his perceptual faculty remains unresolved.
 
-The first is his eye. He taught himself by watching, because he could not ask to be taught, and the faculty that resulted is real: he predicts a movement from a posture, reasons from the difference, and reproduces what he has seen once. Outside witnesses attest it from Volume 2 to Volume 12 (`MD-SK-0013`, `MD-SK-0039`, `MD-RT-0088`).
+The first is his eye. His self-teaching depended on watching, and the faculty is real: he predicts a movement from a posture, reasons from the difference, and reproduces what he has seen once. Outside witnesses attest it from Volume 2 to Volume 12 (`MD-SK-0013`, `MD-SK-0039`, `MD-RT-0088`). That history does not by itself establish how the faculty arose; the later hawk’s-eye comparison is testimony and his own inference (`MD-EV-V10-0034`–`0036`), not proof that his household produced it.
 
-The second is his practice of deciding. Having been steered as a boy by adults who meant well, he explains, sets out options, and declines to overrule a child's stated purpose. The corpus evaluates this favourably, with one reasoned exception and one stated reservation (`MD-CL-0007@12`).
+The second is his practice of deciding. Having been steered as a boy by adults who meant well, he explains, sets out options, and declines to overrule a child's stated purpose. The corpus evaluates this favourably, with reasoned bodily restrictions in V03, V04 and V13 and a stated reservation at V15 (`MD-CL-0007@12`). These restrictions do not amount to overruling her purpose.
 
 The third is a creed with a hole in it. He tells children that sacrifice does not make anyone strong and that he will exact none. He has never applied that to himself. He gives everything, counts each of Inori Yuitsuka's losses as his failure, and pares himself afterwards. In Volume 15 he sees this and says it: while denying sacrifice, he had put his faith in his own (`MD-EV-V15-0045`, `MD-CL-0010@16`, `MD-CL-0025@10`).
 
-The argument of this study is that these are one structure and that Volume 15 names it without yet testing it. His strengths as a coach and the burden he placed on Inori have the same origin. A readable face, total labour and a refusal to forbid are what made Inori, a watchful child, trust him, and they are also what she read as a debt. The change he states in the stairwell is aimed at the premise and not only at the words. Whether it holds is the one test outstanding, and the boundary falls before it (`MD-RD-0073`).
+The argument of this study is that these are one structure and that Volume 15 names it without yet testing it. His practice of helping and the burden he placed on Inori share a supported relation to that history; his perceptual strength enters the structure without a proved childhood origin. A readable face, total labour and a refusal to forbid help explain Inori’s trust and her reading of care as debt. This is an interpretation of conduct, memory and adult appraisal, not an exclusive genealogy of every strength or of her trust. The change he states in the stairwell is aimed at the premise and not only at the words. Whether it holds is the one test outstanding, and the boundary falls before it (`MD-RD-0073`).
 
 ## 2. How the understanding moved
 
@@ -123,7 +123,7 @@ In V14 the habit of analysis reaches expression. Told that Inori's Presentation 
 
 His teaching manner is explanation: options laid out, a scoring reason for each refusal, analogies, video, a pupil who completes the reasoning herself (`MD-CL-0004@3`). It works while Inori is listening. Three times it is shown not to arrive. At the V10 camp she hears analysis as correction and hurries (`MD-RL-0226`). In V11 his praise falls flat while Kanayumi's identical judgement registers, and Inori realizes at a competition that rules he had explained since February had never gone in (`MD-EV-V11-0009`, `0024`). On the platform in V13 he gives her every reassurance she needs, and she hears nothing after his first sentence (`MD-EV-V13-0039`).
 
-What works when explanation fails is consistent across four years of story time: a frame instead of a statement. An off-ice rehearsal and a permission to fall in V02 (`MD-CS-0021`). A frozen lake and a release from tomorrow's outcome in V07 (`MD-RL-0145`). A game in V10. An image of breathing a hall's air in V11 (`MD-RL-0259`). On the bench in V13, a story about himself in place of a second attempt at reassurance (`MD-CL-0004@11`). The step he lacked was supplied by Gori: listen before speaking. He applied it within the day, stopped defending himself in mid-sentence, and let her finish (`MD-RL-0315`). In V14 he explains his own face the moment she misreads it, unprompted (`MD-EV-V14-0004`).
+What works when explanation fails is repeated across the pair’s recorded work from Volume 2 through Volume 14: a frame instead of a statement. An off-ice rehearsal and a permission to fall in V02 (`MD-CS-0021`). A frozen lake and a release from tomorrow's outcome in V07 (`MD-RL-0145`). A game in V10. An image of breathing a hall's air in V11 (`MD-RL-0259`). On the bench in V13, a story about himself in place of a second attempt at reassurance (`MD-CL-0004@11`). The step he lacked was supplied by Gori: listen before speaking. He applied it within the day, stopped defending himself in mid-sentence, and let her finish (`MD-RL-0315`). In V14 he explains his own face the moment she misreads it, unprompted (`MD-EV-V14-0004`).
 
 ### 5.6 Perception of her needs
 
@@ -181,6 +181,8 @@ Ordinary behaviour is recorded mostly in comic registers and is weighed so. He i
 
 On speech the readings record address and register, never sound. He keeps courteous address to a child under pressure; with Kago his self-reference and refusals are blunter (V01 reading). The V14 side chapter gives the manner an origin at a lower weight, a vow made against Juna's example. A fanbook gives an external origin, noted in section 11.
 
+Courteous address and grammatical politeness differ. To Inori he uses 俺 and いのりさん with plain instructions and contractions; to Yodaka he can use 貴方 with formal accountable clauses (`MD-EV-V02-0028`, `MD-EV-V06-0037`). The V14 remembered club anecdote mixes slang with polite morphology and frames equality as a vow, not a perfectly achieved trait. The [speech/interlocutor audit](../../07%20Audits%20and%20Handoffs/MEDALIST_JAPANESE_SPEECH_AND_INTERLOCUTOR_AUDIT_THROUGH_V15.md) supplies the located contrasts, creator-layer presentation change and counterexamples. No acoustic delivery or operational rule follows.
+
 ## 9. How the manga frames him
 
 **The face.** The series' motif of seeing and being seen (`MD-MOT-0005`) settles on Tsukasa Akeuraji's face from V10. Gori guesses that Inori Yuitsuka moves by adults' faces; Tsukasa worries in V11 that his dismay showed; in V13 a face is called reward or punishment; in V14 Inori misreads it and he explains; in V15 Kanayumi calls it both the instrument of the burden and his greatest strength. The page that sets the stake draws it as dark close-ups of his eyes, with Inori small behind him, looking (`MD-VF-0136`).
@@ -191,7 +193,7 @@ On speech the readings record address and register, never sound. He keeps courte
 
 **Black and white.** The jacket of V15 shows him alone, hands clasped at his mouth, under a crow's wing and claws (`MD-VF-0133`). `MD-MOT-0017` gathers the volume's crows, Kago's sorting into black and white, a single white bird, a costume that turns from black to red and not to white, and the closing captions of a boy with a ruler under crows and a girl among doves. The cover puts him under the sign of accusation. The volume's answer is not acquittal. It is the original colour, which includes small faults (`MD-EV-V15-0034`).
 
-**Devices of withholding.** His father's speech is a blur until no one is to be judged (`MD-VF-0140`). His wish to skate is a page of search queries (`MD-VF-0141`). The confession ends on two pages of a lake without figures (`MD-VF-0143`). The form makes the reader wait as long as he did.
+**Devices of withholding.** His father's speech is a blur until no one is to be judged (`MD-VF-0140`). His wish to skate is a page of search queries (`MD-VF-0141`). The confession ends on two pages of a lake without figures (`MD-VF-0143`). The form delays the reader’s access to the remembered speech until it returns legibly; this is a disclosure interval, not a measurement of elapsed story time.
 
 ## 10. One day in Beijing: the tension the boundary leaves open
 

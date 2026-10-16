@@ -5,7 +5,7 @@ artifact_type: "specialist_synthesis"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.0"
+version: "1.2"
 status: "canonical"
 scope: "How the manga represents skating performance, interior states and knowledge on static pages, synthesized from the project's recorded page descriptions through V15 and two fanbook audits"
 canonical_home: "series/medalist/05 Specialist Synthesis/MEDALIST_MANGA_FORM_AND_PERFORMANCE_SPECIALIST.md"
@@ -16,8 +16,8 @@ entering_freeze: "MD-FR-FB02"
 series_state: "ONGOING"
 synthesis_state: "PROVISIONAL_THROUGH_VERIFIED_BOUNDARY"
 created: "2026-10-13"
-updated: "2026-10-13"
-review_status: "INTEGRATOR_REVIEWED_V1"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -29,7 +29,7 @@ recommended_reasoning_class: "DEEP_SYNTHESIS"
 
 ## What this study is, and what it rests on
 
-This is a synthesis of descriptions. Its author saw no page. It works from the feature records `MD-VF-0001`–`MD-VF-0145`, the motif tables `MD-MOT-0001`–`MD-MOT-0017`, the "Manga form" and "Written Japanese" sections of the fifteen volume readings, and the versions of `MD-CL-0012` up to `MD-CL-0012@15`. Where it says a page shows something, it means that a record says so.
+Version 1.0 was drafted from descriptions without original-page inspection, as the release audit records. Version 1.1 incorporates the [independent source-fidelity audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md): 27 selected original-page sequences across V01–V15 were actually viewed at adequate resolution, with additional semantic pages. Its detailed inventory distinguishes new direct verification from inherited feature records. The study still draws on `MD-VF-0001`–`MD-VF-0145`, `MD-MOT-0001`–`MD-MOT-0017`, the fifteen frozen readings and `MD-CL-0012@16`; claims outside the inspected windows remain recorded descriptions. Individual page geometry and source order were inspected. Japanese facing-page binding geometry and physical page-turn timing are not generally verified; the two owner-authorized English illustration cross-checks remain auxiliary.
 
 Three limits govern what follows. First, locators are image occurrences in a volume's witness, in archive or spine order, not printed page numbers. Image order was verified for every volume; which pages face each other was not. Facing geometry is recorded as verified for four pairs in the run (two in V05, one each in V07 and V08), and a V14 title image is recorded as reading as one composition across two occurrences (`MD-VF-0123`). The locators of three of the four pairs coincide with next-volume advertisements (`MD-EV-V05-0044`, `MD-EV-V07-0044`, `MD-EV-V08-0045`). The only verified story spread is the roster of fifteen skaters in V05 (`MD-VF-0038`, `MD-EV-V05-0013`). No double-page effect is claimed for anything else; where a reading says "page turn", this study reports the wording and does not certify the binding. Second, the ledger grades what is drawn HIGH and what it does to a reader MODERATE; effects are the project's inferences. Third, nothing here concerns any animation, any translation, or how a line sounds.
 
@@ -109,7 +109,7 @@ The direction of travel is the finding. The apparatus that made scoring legible 
 
 **The result withheld.** V06 gives Inori's win as a printed sheet and turns to the skater who came fourteenth; there is no celebration panel (`MD-VF-0049`). V09 cuts from an ovation to a podium whose centre figure alone, Hikaru Kamisaki, is named, and delivers Inori's number in the next chapter; the reading records that it misidentified a figure there itself (`MD-VF-0083`, `MD-EV-V09-0037`, `MD-EV-V09-0039`). V11 gives a placing as a caption (`MD-VF-0103`). In V13 Inori's final place is not printed (`MD-EV-V13-0006`), and what the result is to Inori is first said aloud by her, in a thicket at night (`MD-CL-0012@13`, `MD-EV-V13-0008`).
 
-**Speech withheld.** The speech of Tsukasa Akeuraji's father is printed as illegible marks at its first recall in V15 and in clear type forty pages later (`MD-VF-0140`, `MD-EV-V15-0020`, `MD-EV-V15-0035`). A sentence Karasuba Daria begins at the end of V14 is left unfinished (`MD-EV-V14-0031`); V15 supplies what lay behind it as an apology (`MD-EV-V15-0011`).
+**Speech withheld.** The speech of Tsukasa Akeuraji's father is printed as illegible marks at its first recall in V15 and in clear type fifty-two page positions later (occurrences 0076→0128, with fifty-one intervening pages) (`MD-VF-0140`, `MD-EV-V15-0020`, `MD-EV-V15-0035`). A sentence Karasuba Daria begins at the end of V14 is left unfinished (`MD-EV-V14-0031`); V15 supplies what lay behind it as an apology (`MD-EV-V15-0011`).
 
 **Captions and owners withheld.** Meiko's death is one room shown twice (`MD-VF-0042`; the death is inferred from the image). Tsukasa's lowered face is seen by Inori through a van window with no caption (`MD-VF-0060`). Yodaka Jun's departure is boots set down and a caption that he did not return (`MD-VF-0117`); Yodaka's motive beyond his stated reason is not given and is kept open here. Captions run over Inori's and Tsukasa's faces without settled attribution in V02 (`MD-VF-0015`), and Inori's creed and a young Yodaka's share one balloon in V10 (`MD-VF-0092`).
 
@@ -157,13 +157,13 @@ The table follows the ledger's own rows. "Span" is where the ledger records mate
 | `MD-MOT-0010` the absolute (verbal) | Registered V06; through V15 | Certainty of commitment against certainty of outcome; passes to Inori in the sense Tsukasa refuses (V08–V09) | A rule that is absolute in fact is never given the word |
 | `MD-MOT-0011` ice outside the rink | V07–V09, V11, V13–V15 | Ice given or lost against ice where proof is demanded; a lake Inori can summon (V08); where she keeps Tsukasa (V09); warm water where things are said (V11); a lake with no figures (V15) | Every landing happens under a roof; the V14 lake is a film's |
 | `MD-MOT-0012` confinement and release | V08, V10, V12–V15 | Enclosure on Yodaka and Hikaru alike, master and pupil; the same terms renewed (V12); a cage that opens from both sides (V13); each living her own life (V15) | The one called free also weeps; in V14 release is a story within the story |
-| `MD-MOT-0013` light and shadow | V09–V13 | Brilliance that takes light from others; Hikaru's own account (V12); the name received as hoped (V13) | The darkness is in the beholder |
+| `MD-MOT-0013` light and shadow | V09–V13 | Brilliance that takes light from others; Hikaru's private resolve to become a light of hope (V12); Inori privately names Hikaru that light (V13) | The darkness is in the beholder; the echoed name is visible to the reader, with no depicted receipt by either girl |
 | `MD-MOT-0014` the maze and the eye above | V10–V13, V15 | Self-sight as what a coach supplies and what makes one unnecessary; the eye above needs one too (V15) | Yodaka, who had the view from above, kept no coach |
-| `MD-MOT-0015` the cold feeling (verbal) | V04, V10, V13 | Loneliness, outgrown; then anger at the self | The two differ in kind |
+| `MD-MOT-0015` the cold feeling (verbal) | V02 bonus fiction; V04, V10, V13 | Loneliness, outgrown; then anger at the self | The two differ in kind |
 | `MD-MOT-0016` the double and the water's surface | V14–V15; antecedents V07, V10, V13 | A second self that strengthens and is outgrown; in V15 a self Inori would yield to, not endorsed by the work | In V13 the double was another's likeness and was renounced |
 | `MD-MOT-0017` black and white | V15 | Persons sorted by verdict, and the sorting refused | The costume does not turn white; the remedy is colour, not acquittal |
 
-One discrepancy: the motif table dates Inori's naming of the cold feeling to V04 (`MD-EV-V04-0038`, a story page), while the V02 reading records it in a side chapter of that volume (`MD-EV-V02-0030`, bonus fiction at its own weight).
+The original-page check resolves the former discrepancy: Inori first names the cold feeling in V02 Short Program 3 (`MD-EV-V02-0030`, bonus fiction); V04 recalls that panel and stages its farewell (`MD-EV-V04-0038`, story pages). The farewell is her prospective account, not proof that the motive never returns.
 
 ### Which motifs organize the work
 
@@ -185,24 +185,24 @@ The counter-reading is that the ranking reflects the ledger's habits, since a mo
 
 ## Written Japanese
 
-This section draws only on the readings' "Written Japanese" sections. It concerns printed words. It establishes nothing about how any line sounds, and each of those sections says so.
+This section draws on the readings' "Written Japanese" sections and the targeted original-page checks recorded in the source-fidelity audit. It concerns printed words. It establishes nothing about how any line sounds, and each of those sections says so.
 
 **Words that change mouths.** The readings track a small vocabulary that moves between speakers, and the movement is where the argument is carried.
 
 - 証明, proof: Yodaka Jun's in V06; Tsukasa Akeuraji's own measure in V08, and that volume's jacket line; Inori Yuitsuka's, twice, in V09; in V13 a chapter title joins it to being in earnest.
 - 本気, being in earnest: in V11 what a pointless payment would prove, and a word used to Inori by a pupil of Riley Fox; in V13 Tsukasa's word twice on a bench and the word in Inori's thought when she cuts school.
 - 絶対, absolute: Tsukasa's in V01 and V04; denied in quotation marks by Sekoma, a bystander, in V05; denied by Tsukasa and affirmed by Yodaka in V06; by V08 Inori's for intention and wish, and Tsukasa's only in the negative; Inori's again in V14 of an Olympic stage.
-- 犠牲, sacrifice: in V08 given to Hikaru Kamisaki as Yodaka's teaching, and negated by Tsukasa; in V09 set beside self-harm and a sense of inferiority; in V11 qualified as needless. In V15 it appears in Kanayumi Miho's phrase about Tsukasa's life, in a sentence of Tsukasa's teacher that replaces sacrifices with participants, and in Tsukasa's caption that he denied it and believed in his own. Kanayumi's phrase is Kanayumi's. Inori's own words to Tsukasa, as that section lists them, are a word for being rewarded, said of everyone if she wins, and 役割, a role, for what she thought she had been given.
+- 犠牲, sacrifice: in V08 given to Hikaru Kamisaki as Yodaka's teaching, and negated by Tsukasa; in V09 set beside self-harm and a sense of inferiority; in V11 qualified as needless. In V15 it appears in Kanayumi Miho's phrase about Tsukasa's life, in a sentence of Tsukasa's teacher that replaces sacrifices with participants, and in Tsukasa's caption that he denied it and believed in his own. Kanayumi's phrase is Kanayumi's. Inori's own words to Tsukasa, as that section lists them, are a word for being rewarded, said of everyone if she wins, and 役目, an entrusted role or duty, for what she thought she had been given (original V15 occurrence 0185; frozen transcription corrected by erratum).
 - 代わり, a substitute: negated in Tsukasa's V13 declaration, beside a word for dream that he moves from what he lost to what he has. V13 treated this as an answer. V15 withdrew that judgment (`MD-RV-0259`, `MD-RV-0261`): Inori heard the words accurately and took them as a role entrusted to her. The vocabulary shows the misreading on its face, since Tsukasa's noun in V13 and Inori's in V15 are different nouns.
 - 図々しい, presumptuous: Karasuba Daria's word for Inori in V14, which Inori does not know and asks about; turned by Daria on herself in V15, with a related noun in Tsukasa's memory of himself as a boy.
 - 価値, worth: in Kamogawa Kōhei's creed in V09 with talent and use; in V15 twice in the speech of Tsukasa's father beside productivity, and then Tsukasa's own word as a boy, stripped of usefulness.
-- The cold feeling: in V13 Tsukasa's word for Inori's new state is the term she used in V04.
+- The cold feeling: in V13 Tsukasa's word for Inori's new state is the term first named in V02’s bonus chapter and revisited in the V04 farewell.
 
-Smaller transfers are recorded as well: a verb of choosing that is a potential in V04, a plain past in V09 and a passive in V10; and a phrase for a light of hope used by each girl of the other in V13.
+Smaller transfers are recorded as well: a verb of choosing that is a potential in V04, a plain past in V09 and a passive in V10; and 希望の光, a light of hope: Hikaru privately resolves to become one in V12 (`MD-EV-V12-0015`, 0047–0049); later Inori privately applies the phrase to Hikaru in V13 (`MD-EV-V13-0025`, 0101–0102). The direction is Hikaru→herself, then Inori→Hikaru. Neither girl is shown hearing the other formulation; the recurrence is a reader-visible echo, not a reciprocal naming exchange (`MD-CL-0023@10`; light/channel errata to `MD-MOT-0013`).
 
 **Chapter titles.** Titles are figures and sometimes literal facts. V03–V04 run from hating the night to morning coming, and the last is literally six in the morning. V06 uses a word for signal fire written with the character that begins Hikaru's family name; V12 opens on light and shadow, the first character being her given name. V13 has proof of being in earnest, and a mermaid and a blade. V14 reverts to plain event-and-segment titles. V15 uses a set phrase for glossy black hair that is also a crow's feather; a pastor and a lamb, where the name of Yō, Kago Kōichi's daughter, contains the character for sheep; and midway on a spiral, over a stairwell. Personal names follow an animal convention.
 
-**Address.** In V02 Tsukasa's formal second-person pronoun is used twice with opposite force, to dignify Inori, a child, and to hold Yodaka, a superior, to account. In V03 Sonidori Rio's word for father carries a gloss meaning this person. In V04 Rio's change is measured by address, from a bare title to Tsukasa's full name and then a possessive. Tsukasa is polite to his pupils throughout and rough only alone. Tsukasa's V05 declaration joins his private first-person pronoun to the respectful second person he has always given Inori; Inori's V08 answer copies its construction and exchanges subject and object. Regional forms mark the fields. Shirone is given no gendered caption, and the reading uses none.
+**Address.** In V02 Tsukasa's formal second-person pronoun is used twice with opposite force, to dignify Inori, a child, and to hold Yodaka, a superior, to account. In V03 Sonidori Rio's word for father carries a gloss meaning this person. In V04 Rio's change is measured by address, from a bare title to Tsukasa's full name and then a possessive. Tsukasa often preserves respectful forms of address to pupils while mixing them with plain grammar, 俺 and contractions; formal grammatical speech also occurs with seniors and adversaries. The [speech/interlocutor audit](../07%20Audits%20and%20Handoffs/MEDALIST_JAPANESE_SPEECH_AND_INTERLOCUTOR_AUDIT_THROUGH_V15.md) records these contrasts and exceptions. Tsukasa's V05 declaration joins his private first-person pronoun to the respectful second person he has always given Inori; Inori's V08 answer copies its construction and exchanges subject and object. Regional forms mark the fields. Shirone is given no gendered caption, and the reading uses none.
 
 ## Paratext as form
 
@@ -236,7 +236,7 @@ Two terms sometimes used for this material were not found in the corpus and are 
 
 | Conclusion | Principal evidence | Strongest counterevidence or rival reading | What later evidence would decide | Confidence |
 | --- | --- | --- | --- | --- |
-| Form gives each kind of knowledge its own channel; meaning comes from changing a constant device's owner | `MD-VF-0009`, `MD-VF-0012`, `MD-VF-0045`, `MD-VF-0072`, `MD-VF-0112`, `MD-VF-0127`; `MD-CL-0012@15` | Genre convention: exposition and suspense suffice | Continued exact reuse with exchanged owners, or its absence | MODERATE; HIGH that the devices recur as recorded |
+| Form gives each kind of knowledge its own channel; meaning comes from changing a constant device's owner | `MD-VF-0009`, `MD-VF-0012`, `MD-VF-0045`, `MD-VF-0072`, `MD-VF-0112`, `MD-VF-0127`; `MD-CL-0012@16` | Genre convention: exposition and suspense suffice | Continued exact reuse with exchanged owners, or its absence | MODERATE; HIGH that the devices recur as recorded |
 | The element tracker draws adjudication, not skating | `MD-VF-0070`, `MD-VF-0108`, `MD-VF-0109`; absent in `MD-VF-0031`, `MD-VF-0091` | A reader aid with no claim on meaning (`MD-VF-0009`) | A tracker used where no official result is at stake | MODERATE |
 | Diagrams move from the sport to persons, and V15 marks a limit | `MD-VF-0039`, `MD-VF-0090`, `MD-VF-0118`, `MD-VF-0124`, `MD-VF-0145`; `MD-CL-0030@2` | The V14 lesson has a declared interest and an unrefuted counter-voice | Whether measure applied to persons recurs and is again refused | MODERATE |
 | Withholding is one setting of a general control over who knows what | `MD-VF-0028`, `MD-VF-0019`, `MD-VF-0083`, `MD-VF-0140` | Volume-final cuts are partly forced by page count (`MD-EV-V06-0053`, `MD-EV-V09-0052`) | Withholding found mid-volume, away from length limits | MODERATE; lower at volume ends |
@@ -247,4 +247,4 @@ Two terms sometimes used for this material were not found in the corpus and are 
 
 ## Revision dependencies
 
-This study depends on `MD-CL-0012@15` throughout and reopens if it is revised. It also depends on `MD-CL-0013@17`, `MD-CL-0030@2`, `MD-CL-0031@1`, `MD-CL-0019@12`, `MD-CL-0026@9`, `MD-CL-0027@7`, `MD-CL-0029@6`, `MD-CL-0028@5` (as mechanism only), `MD-CL-0016@14`, `MD-CL-0023@9`, `MD-CL-0010@16`, `MD-CL-0017@11` and `MD-CL-0005@14`, and on revisions `MD-RV-0259` and `MD-RV-0261`. A change to the visual ledger's verified-geometry statements, or new `MD-VF` or `MD-MOT` rows after V15, reopens sections 1–8 and the motif ranking.
+This study depends on `MD-CL-0012@16` throughout and reopens if it is revised. It also depends on `MD-CL-0013@17`, `MD-CL-0030@2`, `MD-CL-0031@1`, `MD-CL-0019@12`, `MD-CL-0026@9`, `MD-CL-0027@7`, `MD-CL-0029@6`, `MD-CL-0028@5` (as mechanism only), `MD-CL-0016@14`, `MD-CL-0023@10`, `MD-CL-0010@16`, `MD-CL-0017@11` and `MD-CL-0005@14`, and on revisions `MD-RV-0259` and `MD-RV-0261`. A change to the visual ledger's verified-geometry statements, or new `MD-VF` or `MD-MOT` rows after V15, reopens sections 1–8 and the motif ranking.
