@@ -5,10 +5,10 @@ artifact_type: source_scope_map
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.2'
+version: '0.3'
 status: active_provisional
 scope: Source and scope / witness inventory
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U001 through spine 9, exclusive before text/part0006_split_002.html; later narrative unread
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U002 through spine 10, exclusive before text/part0006_split_003.html; later narrative unread
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -56,10 +56,10 @@ Before retention of the pilot verification bundles, direct folder retrieval retu
 | Package identifier | `B009DEMA1Q` plus package UUID identifiers; no verified edition ISBN in inspected metadata |
 | Transformation indications | Calibre metadata and split/generated packaging exist; exact acquisition and transformation lineage unverified |
 | Archive/package | Fresh ZIP CRC passes; container resolves `content.opf`; 44 declared manifest resources and all 40 spine occurrences resolve/parse; active CSS resolves; 39 absent alternate-stylesheet links are separately bounded below; no encryption manifest |
-| Text capability | Authorized opening is legible Japanese and its meaningful text/form round-trips through source XHTML, XML-aware extraction and faithful default-CSS rendering; later prose is not semantically inspected |
+| Text capability | Admitted units through HAR-U002 are legible Japanese; meaningful text/form round-trips through source XHTML, XML-aware extraction and faithful source-CSS rendering; prose beyond this frontier remains semantically uninspected |
 | Pagination / CFI | No page-map member observed; edition-page mapping and stable CFI generation not verified. Use hash-bound member/DOM locators under the method |
-| Reading authority | `VERIFIED_WITNESS_FOR_HAR_U001_ONLY`; exact transformed Japanese digital witness selected for bounded opening claims, with lineage caveats |
-| Narrative state | `ADMITTED_HAR-U001_ONLY`; opening framing/unnumbered opening/01 fully read; 8 evidence IDs / 11 spans; exclusive before 02 |
+| Reading authority | `VERIFIED_WITNESS_THROUGH_HAR_U002`; exact transformed Japanese witness, incremental unit fidelity, unchanged lineage caveats |
+| Narrative state | `ADMITTED_THROUGH_HAR-U002`; opening/01 and entire02 fully read/closed; 27 evidence IDs / 30 spans; exclusive before 03 |
 
 SHA-256 and ZIP integrity detect byte changes/corruption; they do not authenticate the edition or establish textual completeness. At bootstrap, mechanical parsing did not display narrative passages and human-readable inspection was limited to package metadata/navigation. The later pilot source audit is explicitly recorded below. No normalized narrative derivative is promoted or published.
 
@@ -73,9 +73,9 @@ The publisher form warning is at the electronic-edition record above. At bootstr
 
 ## Admission conditions and exclusions
 
-Admission permits only claims retrievable in this exact witness’s verified opening. It does not certify publisher lineage, equivalence to the 2008 first printing, or later-narrative completeness. Any later material fidelity defect reopens the affected obligation; owner authorization cannot convert an unknown fact into a verified one.
+The pilot admitted only claims retrievable in this exact witness’s verified opening. The owner’s subsequent continuous run now authorizes the remaining original novel, with usable representation and exact locators verified incrementally before each unit’s claims are accepted. It does not certify publisher lineage, equivalence to the 2008 first printing, or later-narrative completeness. Any later material fidelity defect reopens the affected obligation; owner authorization cannot convert an unknown fact into a verified one.
 
-At G0 the witness was verified for HAR-U001 with zero sequential-analysis admissions; the ensuing HAR-U001 transaction admits and closes only that opening unit. The intended broader scope remains this original prose novel under later authorization. Films/scripts, manga, *The Empire of Corpses / 屍者の帝国*, *The Indifference Engine*, *Metal Gear Solid* prose, other short stories, essays/interviews and reception are excluded. Embedded author biography, colophon, publisher material and any other extras require role classification; paratext is never silently treated as narrative. English translations, if later supplied, receive new witness keys and separate wording/locator records. No new source acquisition or cross-novel study is authorized. Private deterministic verification derivatives remain outside Git; no source payload is published.
+At G0 the witness was verified for HAR-U001 with zero sequential-analysis admissions; the ensuing HAR-U001 transaction admits and closes only that opening unit. That pilot did not itself authorize broader reading; the later owner instruction now authorizes the original novel’s full sequential continuation as recorded below. Films/scripts, manga, *The Empire of Corpses / 屍者の帝国*, *The Indifference Engine*, *Metal Gear Solid* prose, other short stories, essays/interviews and reception are excluded. Embedded author biography, colophon, publisher material and any other extras require role classification; paratext is never silently treated as narrative. English translations, if later supplied, receive new witness keys and separate wording/locator records. No new source acquisition or cross-novel study is authorized. Private deterministic verification derivatives remain outside Git; no source payload is published.
 
 ## Authorized pilot and exclusive boundary
 
@@ -100,7 +100,7 @@ Before any source-containing display, the entering freeze pinned the exact witne
 
 ## Whole-spine structural coverage obligations
 
-Roles after the admitted opening remain **provisional** from package/navigation structure; UNKNOWN means inspect/classify only when later authorized, not omit. Hash-bound occurrence identity is the source key/full archive digest above plus each exact one-based spine/member pair. This inventory does not grant narrative admission.
+Roles after the current admitted frontier remain **provisional** from package/navigation structure; UNKNOWN means inspect/classify only when later authorized, not omit. Hash-bound occurrence identity is the source key/full archive digest above plus each exact one-based spine/member pair. This inventory does not grant narrative admission.
 
 | Spine | Exact member | Structural role / required disposition |
 | --- | --- | --- |
@@ -113,8 +113,8 @@ Roles after the admitted opening remain **provisional** from package/navigation 
 | 7 | `text/part0005.html` | Part I heading; READ/CLOSED in HAR-U001 |
 | 8 | `text/part0006_split_000.html` | Unnumbered Part I framing; READ/CLOSED in HAR-U001 |
 | 9 | `text/part0006_split_001.html` | Numbered 01; READ/CLOSED in HAR-U001; exclusive before 02 |
-| 10 | `text/part0006_split_002.html` | Part I numbered 02 from NCX/h2; UNREAD |
-| 11 | `text/part0006_split_003.html` | Part I numbered 03 from NCX; UNREAD |
+| 10 | `text/part0006_split_002.html` | Part I numbered 02 verified; READ/CLOSED in HAR-U002; full body 0–12192 |
+| 11 | `text/part0006_split_003.html` | Part I numbered 03 NCX/h2 only verified; body UNREAD; next frontier |
 | 12 | `text/part0006_split_004.html` | Part I numbered 04 from NCX; UNREAD |
 | 13 | `text/part0006_split_005.html` | Part I numbered 05 from NCX; UNREAD |
 | 14 | `text/part0006_split_006.html` | Part I numbered 06 from NCX; UNREAD |
@@ -149,8 +149,26 @@ Roles after the admitted opening remain **provisional** from package/navigation 
 
 [HAR-U001](../01%20Sequential%20Readings/HAR-U001_OPENING_AND_PART_I_01_DEEP_READING.md) owns the opening evidence, all in-scope member/span dispositions and frozen entry/exit. Eight evidence IDs cover eleven selected exact spans; every span and selected SHA-256 round-trips to this archive under HAR-LOC-1. All three ledgers close independently: one anonymous teller/self-presentation/readiness row, no directional relation; explicit no-change for fictional knowledge/institutions/technology/coercion; four claims, no justified prediction and no revision. No named fictional actor or reconstructible behavioral model is established.
 
-The post-pilot recommendation retains one numbered subsection for the next transaction: candidate HAR-U002 would start spine 10 `text/part0006_split_002.html` (02), exclusive before spine 11 `_003.html` (03). Mechanical body length is 12,192 codepoints, not a reading or a reason to group later sections. The pilot’s unusually dense framing merits its preserved independent freeze; causal/epistemic boundaries and ledger overhead after actual later reading can inform future grouping. **HAR-U002 is UNREAD / NOT AUTHORIZED.**
+The post-pilot recommendation retains one numbered subsection for the next transaction: candidate HAR-U002 would start spine 10 `text/part0006_split_002.html` (02), exclusive before spine 11 `_003.html` (03). Mechanical body length is 12,192 codepoints, not a reading or a reason to group later sections. The pilot’s unusually dense framing merits its preserved independent freeze; causal/epistemic boundaries and ledger overhead after actual later reading can inform future grouping. At pilot closeout HAR-U002 was UNREAD / NOT AUTHORIZED. The later full continuation authorized this next unit, whose words remained unread until its recorded entering freeze. HAR-U002 is now fully closed below; this paragraph preserves the pilot-time recommendation.
 
 ## Private verification evidence retained — 2026-10-16
 
 The coordinating operator retained the bounded source-verification material, locator/structural records, actual opening/paratext renders, concealed later-layout diagnostics, factual gate/exposure records and exact transformation/tool provenance as `HAR-U001_PRIVATE_SOURCE_VERIFICATION_20261016_V1.zip`, Drive file ID `1VBbeQIB4cUR8kugtw3Wen7K3JLhRdocw`, in the same canonical Project Itoh folder. Original EPUB bytes remain unchanged at their original ID. The uploaded object is private (`shared=false`); its full downloaded readback matches **8,312,672 bytes**, SHA-256 `7dbffbca8f7ccf024c77f2e6306654be17fa7ca1dbc25112a239764e97846ac9`. The archive contains a per-object hash manifest and reproduction instructions. Reinstallable runtime binaries, caches, full-novel extractions/later plaintext, redundant original EPUB copies, failed render attempts and interpretive reading/ledger/exit prose are excluded. Git remains the canonical home for the frozen analytical states. These evidence files add no later semantic reading or edition-authentication claim.
+
+## Full sequential continuation — authorization and terminal definition
+
+On 2026-10-16 the owner reviewed the pilot and requested continuation using the attached advisory guidance. The current authorized run begins HAR-U002, spine 10 `text/part0006_split_002.html`, and continues through **HARMONY_NATURAL_EPILOGUE_END** in `HAR-JP-EPUB-001` with archive SHA-256 `d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae`. This token means the actual natural epilogue’s end, including meaningful enclosing literary notation and explicit disposition of every trailing component; it is not a guessed filename or a predetermined count of twenty units. Known structural epilogue candidates are spine 35 `text/part0014.html` and 36 `text/part0015.html`. Spines 34 and 37–39 require classification chronologically when reached; no later prose is opened to fix that classification in advance. The final source/unit/span map will resolve the descriptive terminal token from admitted evidence.
+
+Nineteen numbered subsections plus epilogue suggest HAR-U020 as an eventual ordinal, provisionally; natural/formal boundaries govern. Part headings and unnumbered framing attach to the next natural subsection with complete coverage, and closing transitions receive a reasoned disposition when reached. No spine occurrence is dropped. The original witness bytes, conversion/date caveats and HAR-LOC-1 grammar remain unchanged. The opening fidelity check does not certify unread prose: every newly admitted unit requires complete ordered reading, relevant source/ruby/notation/render comparison and exact load-bearing locator round trips. Historical pilot exposure and freezes remain intact.
+
+## HAR-U002 incremental source and reading closeout
+
+[HAR-U002](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md) closes the entire spine 10 member `text/part0006_split_002.html`, including h2/blank/framing elements, raw body chars 0–12192; exclusive before spine 11 `_003.html` (h2 03 only inspected, body UNREAD). Member SHA-256 `3775707febf7c4bab0ed0fbb4fd1f849a6a2ba6aca1fbabc11aa1f3abd6bb6e8`. All 233 heading/paragraph blocks, 34 ruby and 232 br are accounted. All 19 load-bearing body-offset spans re-resolve with exact selected hashes; original XML raw body equals extraction and browser XHTML DOM text.
+
+All seven actual vertical panels were visually inspected in source order. At fixed font/text height, widening the viewport from 1400 to 9448px moved initially negative-x columns into positive bounds; final body x 46.84375–9441.34375, all 233 paragraph rectangles within 9448×1000. Seven overlapping right-to-left panels cover the entire width. Source CSS, actual XHTML MIME parsing and Noto Serif CJK JP reader font preserve literal labels/case, U+3008/U+3009, hierarchy/indentation and ruby associations. The independent Harmony-only review checks the same complete span; later prose remains unexposed. No renderer/source substitution, new G0 or edition-authentication claim is made.
+
+Three-ledger closeout: 5 recognized subjects, 6 historical actor-state rows/6 directional relations, 9 attributed world/information rows, 11 cumulative claims, 0 predictions, 2 pre-entry calibration revisions; 27 evidence records/30 exact spans across two frozen units. Retain one natural subsection per transaction: next HAR-U003 is spine 11 `_003.html`, exclusive before spine 12 `_004.html`; actual boundary/form to be checked only after the first-resumed checkpoint clearance.
+
+## HAR-U002 private verification retention
+
+The coordinator retained `HAR-U002_PRIVATE_SOURCE_VERIFICATION_20261016_V1.zip` as Drive file `1_WPObKLgFOprqr5zpWaNlDqAqJmfqHP7` in canonical folder `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, `shared=false`. Full independently downloaded readback matches **4,438,363 bytes**, SHA-256 `4370a19945884a546487dd23af7c614fb792b84ad7ba6eb6e07d8c09344a70e2`; local ZIP CRC and all 18 per-object manifest size/hash checks pass. Manifest SHA-256 `3f603f2ec2351ff70a8cc31e518d4b2a44db40433f9ea643b81b061cd608f7e6`. The bundle contains only this unit’s faithful extraction, actual renders, geometry/ruby records, locator verification, scripts/tool hashes and noninterpretive gate/inspection provenance. Analytical frontiers and interpretive review remain in canonical Git artifacts; whole-book originals, future plaintext, caches and binaries are excluded. The canonical original EPUB remains unchanged at its existing ID. This retention verifies persistence, not publisher authenticity.
