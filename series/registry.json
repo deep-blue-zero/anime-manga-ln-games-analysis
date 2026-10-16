@@ -158,7 +158,7 @@
       "repository_path": "series/genocidal-organ/",
       "canonical_entrypoint": "series/genocidal-organ/CURRENT_STATE_AND_CORPUS_MAP.md",
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
-      "materialization_status": "PRESENT_UNREVIEWED",
+      "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_GENOCIDAL_ORGAN_BOOTSTRAP_20261016",
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
