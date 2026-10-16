@@ -5,13 +5,13 @@ artifact_type: analytical_method
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "How admitted manga evidence is inspected, interpreted and prospectively frozen"
 source_boundary: "Original Japanese manga; 新装版 V01–V18 candidate witnesses; no narrative admission at bootstrap"
 canonical_home: series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_ANALYTICAL_METHOD.md
 created: "2026-10-16"
-review_status: OWNER_BOOTSTRAP_AUDIT_PENDING
+review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,7 +21,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 # Analytical method
 
-This is the proposed reading contract for Miwa Ueda's original manga. It governs evidence and judgment; the [architecture](PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md) allocates cumulative and final responsibilities. The [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) alone reports current permission and progress. This current-eligible provisional method contains no narrative findings, is not owner-approved, and does not open the sequential lock.
+This is the proposed reading contract for Miwa Ueda's original manga. It governs evidence and judgment; the [architecture](PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md) allocates cumulative and final responsibilities. The [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) alone reports current permission and progress. This current-eligible provisional method contains no narrative findings. The owner has authorized execution under it (2026-10-16) without accepting results; the lock state lives only in the entrypoint.
 
 ## Witness, admission and locator contract
 
@@ -54,7 +54,7 @@ Japanese is the primary wording witness. Translations are separately identified 
 
 ## Prospective transaction
 
-The current lock is CLOSED for `AWAITING_OWNER_BOOTSTRAP_AUDIT`. The following procedure applies only after separate owner approval and source-reading authorization:
+The entrypoint alone records the lock and the authorized run. The following procedure applies whenever a source-reading authorization is in force:
 
 1. Recover the exact approved Git base, method/architecture versions, authorized unit and previous frozen exit. For V01, the entering narrative state is empty. Record any prior knowledge or incidental exposure and its permitted use; unsupported memory never supplies evidence.
 2. Verify and admit only the named source unit and components. Do not open later narrative pages, later analytical findings, summaries or quarantined supplements. A source-structure audit is not permission to inspect narrative images.
@@ -91,4 +91,4 @@ Later disclosures may revise the current interpretation through the claims ledge
 
 Version this method and record substantive changes in the entrypoint and architecture history. A frozen execution retains the version actually used. Capability, surface, dates, source routes and observed execution configuration are recorded for recovery; unknown metadata stays unknown. No system's identity supplies evidence or relaxes these standards. Independent capable executions receive the same prospective contract; this method contains no expected outcomes or comparative judgments.
 
-Revision history: 0.1 — initial owner-audit candidate, 2026-10-16 UTC; zero narrative observations.
+Revision history: 0.1 — initial owner-audit candidate, 2026-10-16 UTC; zero narrative observations. 0.2 — lock-state statements routed to the entrypoint after owner execution authorization; no change to the reading contract, 2026-10-16 UTC.

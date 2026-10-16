@@ -5,14 +5,14 @@ artifact_type: source_scope_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Sanitized witness identities, preliminary provenance, structural reconnaissance and admission gaps"
-source_boundary: "Original Japanese 新装版 V01–V18 candidate inventory; V01 packaging inspected; no narrative admission"
+source_boundary: "Original Japanese 新装版 V01–V18; all 18 witnesses byte- and package-verified 2026-10-16; admission proceeds volume by volume under the authorized run"
 canonical_home: series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_SOURCE_AND_SCOPE_MAP.md
 created: "2026-10-16"
 observed_at_utc: "2026-10-16"
-review_status: OWNER_BOOTSTRAP_AUDIT_PENDING
+review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -61,23 +61,23 @@ Source keys are `PG-JP-NE-VNN-W01`; this is an edition-specific inventory identi
 | Source key | Drive object ID | Bytes | Manifest SHA-256 | Reported spine images | Current verification |
 | --- | --- | ---: | --- | ---: | --- |
 | PG-JP-NE-V01-W01 | `1oEdegOleO9oHdqVViFJQ6Vk_5wW0kvRk` | 98471638 | `25fff75c79fa8475afe35b817418ea76c27092f80343a83729a3ef65819d78ea` | 187 | BYTES_AND_PACKAGE_VERIFIED |
-| PG-JP-NE-V02-W01 | `1-3q4yqfW-qI-9ovcdlyNaYUcEu-SyBFx` | 101616697 | `c79174f8791e8bbc41cde944344d258369ac4bc7f23d39972a2dccf2b40e73f0` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V03-W01 | `1ij9gbkFoklZTB4_ZAu3zr7etZIWOeH2d` | 99813938 | `9086a57ecdd13f9d601fc7558787f14f7c13356d52de716c15962f5536838cdf` | 183 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V04-W01 | `1AgAnqAR7Va8GqfU5bVtexSaUh-r6zUsn` | 86369890 | `84899238f7fbc0858ccabad7a5bdddfbdfba860ab75b143d268aa39c4a1bba43` | 179 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V05-W01 | `16SZN77M12VyU2SyomngwkLnZAylL71s7` | 88975596 | `66205a1bfc3903f356fa0df36cdfb2707106fc7e7e423fee81d45b17555f12ad` | 181 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V06-W01 | `1dWf0AjMEdgcHqzEdSMXPdCAk2YcPqTiC` | 88959368 | `b7a84c4ac1445af67666f552cb30f49c7b362e21abda404dc51a8fa577a154eb` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V07-W01 | `1ycdZzPU3RUlOxTKNXWbzfsPIMjxxMLqH` | 94777974 | `afe975190a1d5a7a8b606de1cb83ad4d10206bb7acdea2fe4412f34e021c7724` | 183 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V08-W01 | `12Jl-GFVzm-yYMPToFzJWzJKFWTw8C_gj` | 80842608 | `20103e40f320257760a0d3014e02f2e2162ca44e0e081bf2e006ebde452ccf5e` | 177 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V09-W01 | `1Iybn-Z9lvQbjyegripSC3vPg7xhVCFq5` | 84679968 | `6131b243dc9b586567b2b899aad0cfdc2c70724e3e21c8e4d2cc614bb7fbae7e` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V10-W01 | `1-4WKChuDhom5dm8sVOSUGx49H9CAiUQC` | 87791228 | `ef55cdbd83dd604b833ff7c8f26e6d778609f022f9ab6dd7d48125a7b3ee4d88` | 179 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V11-W01 | `1CeTLy9KX3wiB-ZfmSHjCYTZRepyFbdC1` | 86855316 | `95f066f1958c95c41a4aff74ca504760111ec363ec59c6d2c9f4480bb2b86d8c` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V12-W01 | `1dUdyqIwbcY5WmJF_I8q5EXDvICcelpC-` | 98616828 | `0309a8bc68b0db42555a00444d3140e2b9c133483e8a367d33ef6b5b30506238` | 177 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V13-W01 | `1be4xH4q5qiC_ZMuDZyl18ah-exZU_fLj` | 84591252 | `78878d47d8d0e4d900ab35825cfa8a843fdc6e34187c99e8bbfc4e9bc55405e9` | 171 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V14-W01 | `1xFJti84nqmuCtuNys-JFWHPrs_Ne5ZFy` | 91533584 | `36952289f8ea23fb71ec0ce777e057057ada4835baab14294f28ca9603259c16` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V15-W01 | `1B0sO1qGJyWMRePYraosMGHBQqXotm_-p` | 93922336 | `24b4f17f77fad3e125786cdbde460bc37f72c085dd5d2b1d6c4ea6a44fab4714` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V16-W01 | `1dnLe89Lk3GE745l5szeviRlOitE28y4l` | 85468879 | `0160eb9af93379a42e1fe7da7c2419c7358163ccb683cbe5a09fed598383ee3d` | 171 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V17-W01 | `1qtNqAKN9Q6b7i56R1O_qA4Tj6GpliMMn` | 94041107 | `5213feb9f62724cfe80cc8139aa407e6a4c0349a1b163cebc96d42aa09a36bc1` | 173 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V18-W01 | `1j_jgkUFoTOVEc3-nL-84ipGDkXlDDN9F` | 99357571 | `00222d219ee6b844207ac825a194397057c51ba51b2471d762e8c87f8b0af720` | 187 | METADATA_RECONCILED_ONLY |
+| PG-JP-NE-V02-W01 | `1-3q4yqfW-qI-9ovcdlyNaYUcEu-SyBFx` | 101616697 | `c79174f8791e8bbc41cde944344d258369ac4bc7f23d39972a2dccf2b40e73f0` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V03-W01 | `1ij9gbkFoklZTB4_ZAu3zr7etZIWOeH2d` | 99813938 | `9086a57ecdd13f9d601fc7558787f14f7c13356d52de716c15962f5536838cdf` | 183 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V04-W01 | `1AgAnqAR7Va8GqfU5bVtexSaUh-r6zUsn` | 86369890 | `84899238f7fbc0858ccabad7a5bdddfbdfba860ab75b143d268aa39c4a1bba43` | 179 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V05-W01 | `16SZN77M12VyU2SyomngwkLnZAylL71s7` | 88975596 | `66205a1bfc3903f356fa0df36cdfb2707106fc7e7e423fee81d45b17555f12ad` | 181 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V06-W01 | `1dWf0AjMEdgcHqzEdSMXPdCAk2YcPqTiC` | 88959368 | `b7a84c4ac1445af67666f552cb30f49c7b362e21abda404dc51a8fa577a154eb` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V07-W01 | `1ycdZzPU3RUlOxTKNXWbzfsPIMjxxMLqH` | 94777974 | `afe975190a1d5a7a8b606de1cb83ad4d10206bb7acdea2fe4412f34e021c7724` | 183 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V08-W01 | `12Jl-GFVzm-yYMPToFzJWzJKFWTw8C_gj` | 80842608 | `20103e40f320257760a0d3014e02f2e2162ca44e0e081bf2e006ebde452ccf5e` | 177 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V09-W01 | `1Iybn-Z9lvQbjyegripSC3vPg7xhVCFq5` | 84679968 | `6131b243dc9b586567b2b899aad0cfdc2c70724e3e21c8e4d2cc614bb7fbae7e` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V10-W01 | `1-4WKChuDhom5dm8sVOSUGx49H9CAiUQC` | 87791228 | `ef55cdbd83dd604b833ff7c8f26e6d778609f022f9ab6dd7d48125a7b3ee4d88` | 179 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V11-W01 | `1CeTLy9KX3wiB-ZfmSHjCYTZRepyFbdC1` | 86855316 | `95f066f1958c95c41a4aff74ca504760111ec363ec59c6d2c9f4480bb2b86d8c` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V12-W01 | `1dUdyqIwbcY5WmJF_I8q5EXDvICcelpC-` | 98616828 | `0309a8bc68b0db42555a00444d3140e2b9c133483e8a367d33ef6b5b30506238` | 177 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V13-W01 | `1be4xH4q5qiC_ZMuDZyl18ah-exZU_fLj` | 84591252 | `78878d47d8d0e4d900ab35825cfa8a843fdc6e34187c99e8bbfc4e9bc55405e9` | 171 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V14-W01 | `1xFJti84nqmuCtuNys-JFWHPrs_Ne5ZFy` | 91533584 | `36952289f8ea23fb71ec0ce777e057057ada4835baab14294f28ca9603259c16` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V15-W01 | `1B0sO1qGJyWMRePYraosMGHBQqXotm_-p` | 93922336 | `24b4f17f77fad3e125786cdbde460bc37f72c085dd5d2b1d6c4ea6a44fab4714` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V16-W01 | `1dnLe89Lk3GE745l5szeviRlOitE28y4l` | 85468879 | `0160eb9af93379a42e1fe7da7c2419c7358163ccb683cbe5a09fed598383ee3d` | 171 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V17-W01 | `1qtNqAKN9Q6b7i56R1O_qA4Tj6GpliMMn` | 94041107 | `5213feb9f62724cfe80cc8139aa407e6a4c0349a1b163cebc96d42aa09a36bc1` | 173 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V18-W01 | `1j_jgkUFoTOVEc3-nL-84ipGDkXlDDN9F` | 99357571 | `00222d219ee6b844207ac825a194397057c51ba51b2471d762e8c87f8b0af720` | 187 | BYTES_AND_PACKAGE_VERIFIED |
 
 Every witness has `narrative_admission: NOT_ADMITTED`, `narrative_inspection: NOT_STARTED`, `sequential_completion: NOT_STARTED`. There are no missing numbered volumes in the observed V01–V18 metadata set. That is not a claim that every chapter/page/component is intact, legible, correctly identified or already available to a future execution. No PDF, CBZ, separate booklet, sequel or adaptation file was observed in this folder. Embedded supplements remain unverified, not absent.
 
@@ -101,4 +101,12 @@ Required before the first narrative transaction: approve the proposed original-m
 
 Related manga, adaptations, novelizations, creator/editorial supplements and reception need separate provenance, continuity, spoiler/disclosure placement and owner admission. Prefer assessing later supplements after the original-mainline freeze unless a bounded earlier admission is explicitly approved. Do not backdate their information. No acquisition of missing franchise material or Drive reorganization is authorized by this map.
 
-Revision history: 0.1 — metadata/provenance reconciliation plus V01 byte/container probe; zero narrative inspection, 2026-10-16 UTC.
+## Full witness acquisition and package verification (execution run, 2026-10-16)
+
+Under the owner's execution authorization (see the [initiation record](../07%20Audits%20and%20Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md)), all 18 EPUBs were retrieved read-only from their Drive objects above. The connector's 10 MB download ceiling was bypassed through owner-enabled temporary link-sharing over HTTPS; no Drive object was modified. Results, per witness: byte length and SHA-256 equal the table above; ZIP CRC check clean; OPF title `ピーチガール　新装版（N）` with matching N, creator 上田美和, publisher 講談社, language ja; `rtl`, `pre-paginated`, `landscape` spreads; spine counts equal the reported counts; each spine wrapper references exactly one present image. The verification column is updated to `BYTES_AND_PACKAGE_VERIFIED` on that basis. The two provenance manifests' SHA-256 values match those recorded above; `CALIBRE_IMPORT.md` (3,240 bytes) has SHA-256 `eff1f1317365f18bd72a8e416716171a6f74a88e1290939d664a1b048fcc42f0`.
+
+Every package's navigation holds only 表紙 (twice, → `p-cover`) and 本編 (→ `p-000`), so navigation supplies no chapter segmentation. Wrapper names `p-NNN` are packaging identifiers, not verified printed pages. `iNNNN` counts spine occurrences from `p-cover` = `i0001`. Chapter labels/boundaries, printed pagination and components are established by inspection at each volume's admission and recorded in its reading's source receipt.
+
+Deterministic locator maps (`PG-JP-NE-VNN-W01.locmap.json`, generator `locmap.py` v1) record occurrence, wrapper, `idref`, viewBox and image member with byte length and SHA-256 for every occurrence. They are **locally staged, pending authorized promotion to the Drive evidence plane**; this run is prohibited from Drive writes and does not claim publication. Map checksums are recorded in the run's source manifest. Admission states per witness advance only through each volume's sequential transaction: `BYTES_VERIFIED → PACKAGE_VERIFIED` is now true for all 18. `ADMITTED → INSPECTED → CLOSED` is recorded in each reading and in the entrypoint's high-water mark, not by editing this table at each unit.
+
+Revision history: 0.1 — metadata/provenance reconciliation plus V01 byte/container probe; zero narrative inspection, 2026-10-16 UTC. 0.2 — all 18 witnesses byte/package-verified; locator maps staged locally; zero narrative inspection, 2026-10-16 UTC.
