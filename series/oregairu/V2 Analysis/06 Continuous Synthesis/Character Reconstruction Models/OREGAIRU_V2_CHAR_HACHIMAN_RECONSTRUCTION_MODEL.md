@@ -5,6 +5,8 @@ scope: HIKIGAYA_HACHIMAN_V01-V14.5
 character: HIKIGAYA_HACHIMAN
 generation: V2
 status: canonical
+supersedes: []
+superseded_by: []
 phase: 8.5
 canonical_name: OREGAIRU_V2_CHAR_HACHIMAN_RECONSTRUCTION_MODEL.md
 source_boundary: "Japanese-primary mainline Volumes 1-14 plus canonical .5 material through 14.5; derived V2 corpus through Document 14; targeted behavioral/register verification plus systematic V01-V14.5 everyday-life/preferences primary-source pass"
@@ -28,7 +30,7 @@ revision: "1.1_everyday_life_augmentation"
 revised: "2026-08-19T16:20:00-04:00"
 primary_source_escalation: "targeted_behavioral_register + systematic_everyday_life_primary_pass"
 created: "2026-08-19"
-next_artifact: OREGAIRU_V2_CHAR_YUKINO_RECONSTRUCTION_MODEL.md
+next_artifact: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 ---
 
 # OREGAIRU V2 — Hikigaya Hachiman Reconstruction Model

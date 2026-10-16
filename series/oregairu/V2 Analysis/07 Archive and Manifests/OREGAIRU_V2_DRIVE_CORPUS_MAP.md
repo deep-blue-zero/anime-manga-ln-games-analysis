@@ -11,7 +11,7 @@ source_boundary: Canonical Oregairu V2 analytical corpus through Phase 8 full-se
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-updated: '2026-08-21T00:59:00-04:00'
+updated: '2026-10-16'
 next_artifact: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 ---
 
@@ -51,6 +51,8 @@ Current state:
 - next immediate Phase-8.5 task: run `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md` to satisfy the architecture-mandated source-routing, state-separation, cross-character scenario, register, iconic-marker, and inference-boundary QA gate;
 - architecture-defined reconstruction models: **8/8 complete; none pending**;
 - Phase 9 archival release is **deferred until Phase 8.5 closes**.
+
+Remediation and expansion progress, exact canonical owners, curation handoff, and unresolved obligations are recorded in [the completion status](OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md). The original eight-model suite remains a distinct obligation; supporting-character expansion does not redefine its historical scope.
 
 Recommended retrieval route:
 
@@ -409,7 +411,7 @@ The Japanese-voice ledger additionally freezes linguistic development as **incre
 
 The V1-to-V2 revision ledger closes the historical transition layer: every explicit Phase-1 claim ID now has a current status and authority route; V1's central insights largely survive, but master explanations are decomposed into mechanism-level distinctions. Phase 5 inherited these transitions rather than silently restoring superseded shorthand; Phase 6 has now stress-tested the resulting mature claims and recorded post-Phase-5 revisions without mutating the frozen specialist artifacts.
 
-The Phase-4 exit criterion remains satisfied, and Phase 5 is now **complete at 12/12 architecture-defined specialist documents**. Documents 01-05 stabilize the diachronic series architecture, independent Hachiman/Yukino/Yui character monographs, and the Service Club as a three-person relational system under known romantic non-equivalence. Document 06 stabilizes authenticity as an evolving problem of answerability rather than purity. Document 07 integrates helping, self-sacrifice, dependency, and autonomy around authorship and jurisdiction. Document 08 stabilizes the wider social-system architecture. Document 09 stabilizes counter-gaze plurality and the separation of diagnostic accuracy from normative authority. Document 10 stabilizes the adult/future architecture around consequence-bearing authorship and transformed inheritance. Document 11 stabilizes the formal-language architecture as answerable first-person speech inside persistent idiolect. Document 12 closes the specialist layer by differentiating supplementary authority, preserving chronology across 6.5/7.5/10.5/14.5 and the post-V9 Christmas drama/prose coda, auditing all four official anthologies story by story, and freezing ordinary life as a durability test rather than filler or secret route evidence. Phase 6 is **complete and closed**. Phase 7 is now also **complete and closed**: `13_EVIDENCE_LOCATOR_AND_FIRST_PASS_REVISION_LEDGER.md` publishes the post-adversarial mature claim graph, preserves 93 publication claim rows plus explicit NON-GOV and OPEN controls, and freezes the wording safe for continuous synthesis without superseding the Phase-4 locator/revision infrastructure or the Phase-6 audit. The next architecture-defined artifact is `14_OREGAIRU_FULL_SERIES_SYNTHESIS.md`.
+The Phase-4 exit criterion remains satisfied, and Phase 5 is now **complete at 12/12 architecture-defined specialist documents**. Documents 01-05 stabilize the diachronic series architecture, independent Hachiman/Yukino/Yui character monographs, and the Service Club as a three-person relational system under known romantic non-equivalence. Document 06 stabilizes authenticity as an evolving problem of answerability rather than purity. Document 07 integrates helping, self-sacrifice, dependency, and autonomy around authorship and jurisdiction. Document 08 stabilizes the wider social-system architecture. Document 09 stabilizes counter-gaze plurality and the separation of diagnostic accuracy from normative authority. Document 10 stabilizes the adult/future architecture around consequence-bearing authorship and transformed inheritance. Document 11 stabilizes the formal-language architecture as answerable first-person speech inside persistent idiolect. Document 12 closes the specialist layer by differentiating supplementary authority, preserving chronology across 6.5/7.5/10.5/14.5 and the post-V9 Christmas drama/prose coda, auditing all four official anthologies story by story, and freezing ordinary life as a durability test rather than filler or secret route evidence. Phase 6 is **complete and closed**. Phase 7 is now also **complete and closed**: `13_EVIDENCE_LOCATOR_AND_FIRST_PASS_REVISION_LEDGER.md` publishes the post-adversarial mature claim graph, preserves 93 publication claim rows plus explicit NON-GOV and OPEN controls, and freezes the wording safe for continuous synthesis without superseding the Phase-4 locator/revision infrastructure or the Phase-6 audit. Document 14 is complete; the next original architecture-defined obligation is `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md`.
 
 The previously omitted Volume-6.5 limited-edition drama CD `そのクリスマスキャンドルの灯が揺れる時……。` has been chronology/provenance-audited as a Watari-scripted **immediate post-Volume-9 Christmas coda**. Its effect remains **STRENGTHEN, not REVISE**: Checkpoint C was revised in place, while Checkpoint D required no conceptual revision. The source-control prerequisite that previously blocked Checkpoint E is therefore closed.
 
@@ -533,9 +535,9 @@ The reconciliation adds the following canonical outgoing-state findings to Check
 Authority is intentionally segmented:
 
 - **embedded page images govern exact text**; OCR is a navigation/search layer unless a passage has been visually verified;
-- the 渡航 story `やはり妹さえいればいい。` is authorial supplementary evidence, pending story-level chronology audit;
+- the 渡航 story `やはり妹さえいればいい。` is authorial supplementary evidence; Document 12 completes its story-level chronology audit as post-V14 early third year, with exact ordering within that band OPEN;
 - the five guest-author stories are official derivative/guest-author witnesses and may inform reception, comparison, and intertextual analysis, but do not override Watari's mainline characterization;
-- no Anthology-02 story updates a longitudinal mainline ledger until its internal chronology has been audited.
+- the historical admission restriction required chronology audit before longitudinal use; Document 12 now records that audit. Guest-author stories remain derivative witnesses and do not become mainline character fact.
 
 The governing source-control artifact is `OREGAIRU_ANTHOLOGY_02_OCR_SOURCE_ADMISSION.md`. A clean publisher-derived Anthology-02 EPUB, if later acquired, should supersede the OCR transcription layer for linguistic authority without deleting this scan-backed provenance witness.
 
@@ -550,6 +552,6 @@ The Volume 07 publication includes the prose bonus track `彼女たちの、う�
 
 ## Synchronization rule
 
-Local Markdown artifacts and the Google Drive mirror are parallel archival copies. New canonical analytical documents should be uploaded to the appropriate Drive layer in the same response in which they are completed. Existing Drive files should be updated in place when a canonical artifact is revised rather than duplicated under variant filenames.
+The original Drive IDs above preserve migration provenance. Under the accepted Git authority epoch, the integrated Git corpus is the analytical authority; the historical parallel-mirror instruction does not require or authorize routine Drive writes. Any separately authorized mirror refresh must preserve existing identities and follow the live Git/Drive contract.
 
-Primary Japanese source files remain governed by the separately audited source roots and should not be redundantly copied into the analytical tree unless a later archival phase explicitly calls for a consolidated source mirror.
+Primary Japanese source files remain in the separately governed source domain. Do not include primary EPUBs, PDFs, source images, or extraction payloads in analytical Git or the analytical release package.

@@ -5,6 +5,8 @@ scope: HIKIGAYA_KOMACHI_V01-V14.5
 character: HIKIGAYA_KOMACHI
 generation: V2
 status: canonical
+supersedes: []
+superseded_by: []
 phase: 8.5
 canonical_name: OREGAIRU_V2_CHAR_KOMACHI_RECONSTRUCTION_MODEL.md
 source_boundary: "Japanese-primary mainline Volumes 1-14 plus canonical .5 material through V14.5; derived V2 corpus through Document 14; targeted register/behavior verification plus systematic V01-V14.5 everyday-life/preferences primary-source pass; excludes Shin, Ketsu, adaptations, alternate-route Yui novels, and anthology material"
@@ -34,7 +36,7 @@ everyday_life_ledger_rows: ELP-KOM-001--ELP-KOM-109
 revision: "1.0_primary_plus_everyday_life"
 primary_source_escalation: targeted_register_behavior_plus_systematic_everyday_life
 created: "2026-08-20"
-next_artifact: OREGAIRU_V2_CHAR_HARUNO_RECONSTRUCTION_MODEL.md
+next_artifact: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 ---
 
 # OREGAIRU V2 — Hikigaya Komachi Reconstruction Model
