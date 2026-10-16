@@ -5,10 +5,10 @@ artifact_type: analytical_execution_receipt
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.2'
+version: '0.3'
 status: active_provisional
 scope: Full remaining original-novel sequential reading; specialists, reconstruction and comparison separately gated
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U003 through spine 11, exclusive before HAR-U004
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U004 through spine 12, exclusive before HAR-U005
 canonical_home: series/harmony/07 Audits and Handoffs/HARMONY_CONTINUATION_RUN_2026-10-16.md
 created: '2026-10-16'
 review_status: OWNER_REVIEWED_PILOT_AND_AUTHORIZED_CONTINUATION
@@ -63,7 +63,7 @@ Parent verified HAR-U002 source/final `81cd8f6e6dd64d7a860f62c04ede3f1e20f4be29`
 
 After HAR-U002 acceptance/freeze/publication, the predecessor accidentally used an unfiltered collaboration status tool that embedded unrelated-title reviewer snippets. No other-title primary file or guidance section was opened or used as Harmony evidence; HAR-U002 bytes predate the event. The event was immediately reported and recorded privately, and source work stopped. A fresh isolated fork_none Harmony-only successor acquired this root’s full governing/analytical state plus shared/Harmony calibration, without those snippets. The successor has not read other-title source, title-specific guidance, analyses or agent summaries. This truthful staffing history neither rewrites the earlier freezes nor claims auditable absence of model pretraining exposure.
 
-An ordinary two-parent reconciliation `e3aae686445eddd4b9ed015bbc9b13da05090324` preserves prior stable source81cd8f6e and integrated main3caff8b0, with identical root treeaa0a6bc1. Live authority/scope/tag and both rulesets were reverified; no governance bytes differed. This imports preserved history without other-title prose inspection. Fresh remote heads/protections remain mandatory before publication.
+An unpublished local preparation reconciliation `e3aae686445eddd4b9ed015bbc9b13da05090324` preserves prior stable source81cd8f6e and integrated main3caff8b0, with identical root treeaa0a6bc1. Live authority/scope/tag and both rulesets were reverified; no governance bytes differed. This imports preserved history without other-title prose inspection. Fresh remote heads/protections remain mandatory before publication.
 
 ## HAR-U003 authored closeout
 
@@ -77,3 +77,43 @@ Author semantic QA checks the introduction, substantial classroom and Sahara arg
 ## HAR-U003 private verification retention
 
 The designated metadata-only evidence custodian retained `HAR-U003_PRIVATE_SOURCE_VERIFICATION_20261016_V1.zip` as Drive file `1IV9Yay1GuJ5bXWlQMRPJChqdzzCmIFL6`, canonical folder `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false. Full raw remote readback equals **4,173,028 bytes**, SHA-256 `bffb10a248b392c7f02dc882582652189284f42eecc596372c63cc81bc725e40`; ZIP CRC, safe paths, exact membership and all18 manifest object size/hash checks PASS. Manifest SHA-256 `8ad02dd00253e786caec2cf2799325088c5d8d299dd5c1c67e5887758c14939d`. The bundle contains current-source extraction, six actual renders, geometry/ruby and locator proof, scripts/tool hashes and noninterpretive provenance. Locator labels/interpretive descriptions are excluded. Analytical frontiers remain in Git; future prose, originals, binaries/caches are excluded. Original EPUB is unchanged at its canonical ID. This verifies retention, not publisher authenticity.
+
+
+## HAR-U003 validated publication lineage and intra-Harmony handoff
+
+Actual remote authored source `ea20bc236809bd99496f57bc4ec4865db84d7a61` was validly published before main advanced. Diagnosed ordinary main-ancestry repair `a19c5e0f660b474e315da13b1a90129e04082fb6` preserves ordered parents ea20 and main `cfddecb9b5b05ce7b5b25060673ed2e77639da6c`, with unchanged Harmony subtree and exact tree `45a177bdcd405ea769989b06ae02ef54a825cf39`. The checklist's diagnosed-repair exception was explicitly coordinated; the earlier source audit cannot certify the repaired head. The preparation reconciliation e3aae686 above remained local-only. All nine remote files fully matched the repaired candidate, approved identities/current-index preflight/fresh-head/rules/nonforce CAS checks passed.
+
+Source audit38981877316 (audit117244371054/reporter117245846710), no-op housekeeping38982354639(job117245882968) and final38982388744(audit117245992624/reporter117247341129) all SUCCESS. Source/final logs bind actual AUDIT_COMMIT to a19c; requested shadow executed full, selection_enabled=false,352tests/0failures/0errors/0skips. Exact a19c Repository integration audit status56571738965 SUCCESS targets final38982388744. No housekeeping child. Prior author independently verified complete logs/status/full readbacks before transfer; main integration is not claimed here.
+
+After this full green, sole mutable Harmony authorship transferred to another isolated fork_none source author for HAR-U004 onward. The receiver acquired full live governance, Harmony method/architecture/source map/three ledgers/current receipt/frozen readings and exact fourteen-file size/SHA/blob manifest; clean local/source root trees matched45a177bd. No U004 body preceded its new prospective entry. One filename-only overbroad discovery displayed unrelated repository paths, no contents or reviewer summaries; no other-title source/guidance/analysis initialized this author. Earlier staffing/exposure history remains intact, with no certified blindness or pretraining-absence claim. This is an intra-Harmony source-author handoff, not a comparative or synthesis stage.
+
+### Attributable HAR-U003 wording clarification — 2026-10-16 UTC, after HAR-U004 entry
+
+The receiving author re-retrieved original admitted HAR-U003-E008/block118 and verified its selected-span SHA against the unchanged original EPUB. Frozen HAR-U003's classroom phrase “The repeated 今しかない” compresses a first complete 今しかない and a second ellipted 今しか. The literal repetition is the restrictive 今しか sequence; the second full expression is not verbatim repeated. The argument about narrowed “only now” insistence, assent/charisma and every historical knowledge frontier is unchanged. This clarification uses only already admitted E008, not HAR-U004 as retrospective warrant. HAR-U003 SHA remains `8cf26bcd5ebce15777d0c8a47a1244a9dbda801fd9aef5ce9ec488a19057d7a7`; neither that reading nor the already frozen HAR-U004 entry is edited. No substantive claim transition or fabricated prospective revision is recorded.
+
+## HAR-U004 authored closeout
+
+Pre-word entry `393bf440b765f2b0e4370b1b28756b1a0b59a3a25d5aa9c2ba6318529ac3caf5` follows the verified HAR-U003 full pipeline. Entire natural04 was read in source order:134blocks/6287rawcp/27ruby/133br and allfour actual panels; ten original selected spans/hash round trips, XML/extraction/XHTML DOM and allparagraphbounds PASS. HAR-U005 body/later prose remains unread. Existing method/architecture receive boundary/version synchronization only; INITIAL remains adequate within Part I.
+
+[HAR-U004](../01%20Sequential%20Readings/HAR-U004_PART_I_04_DEEP_READING.md) develops conditional inspection power, enacted force/probabilistic surveillance, matched awakenings, maternal reports versus inferred guilt, recovery with concealed defeat, and dated urban/affect form. Six claims CL019–CL024; justified NO_PREDICTION. Three-ledger closeout:8subjects/16historicalactorrows/14directionalrelationIDs(21historicalrows)/17worldIDs/24claims/0predictions/2earlierrevisions;50evidenceIDs/53spans. Two DOMAIN_BOUNDED/six RECOGNITION_ONLY, no models/validation/downstream synthesis.
+
+Author semantic/name/reference QA checks introduction, institutional definition/conditional warreport, pursuit causal/epistemic limits, both awakenings, all mother/Tuan and Tuan/Etienne directions, treatment/color argument and exit against original Japanese. No actual report/taking sides or nontransmission is invented; maternal guilt is an as-if reading, first mutter may be unheard, anger stays internal, reported friend outcomes retain their channel,2060-06-12 belongs to taxi memory. Unnamed mother/driver are SOURCE_REQUIRED_ANONYMITY, office roles JUSTIFIED_ROLE_REFERENCE, era/report boundaries KNOWLEDGE_BOUNDARY_REQUIRED. All quotations and ten locators match; stronger alternatives and effective-care countercases retained. The read-only helper performed19mechanical metadata checks, no pixel/lexical/semantic review. This is bounded author literary QA. Source retention, publication/readbacks and exact-head CI are separate outcomes observed only when executed.
+
+## Validated per-unit operational evidence index
+
+This rolling index records already executed prior-unit proofs only. Source/final counts below are352tests/0failures/0errors/0skips, executed full with selection_enabled=false. No current unvalidated CI is asserted. Final integration/post-main fields remain explicitly pending until observed.
+
+| Unit / frozen reading SHA-256 | Private retained source bundle ID / SHA-256 | Authored source / final accepted stable head | Source / housekeeping / final audit run IDs | Integration / explicit post-main |
+| --- | --- | --- | --- | --- |
+| HAR-U002 / `4c82895565c445604d5204d58099e55ed879e014e34a8c3c42fe86ea9b6bad54` | `1_WPObKLgFOprqr5zpWaNlDqAqJmfqHP7` / `4370a19945884a546487dd23af7c614fb792b84ad7ba6eb6e07d8c09344a70e2` | `81cd8f6e6dd64d7a860f62c04ede3f1e20f4be29` / same | 38979107234 /38979617496(no-op)/38979652264; actual81cd8f6e/full352/0/0/0 | main `3caff8b0625f63ab073285c9841639248a946c50`;38979976129 SUCCESS/full352/0/0/0 |
+| HAR-U003 / `8cf26bcd5ebce15777d0c8a47a1244a9dbda801fd9aef5ce9ec488a19057d7a7` | `1IV9Yay1GuJ5bXWlQMRPJChqdzzCmIFL6` / `bffb10a248b392c7f02dc882582652189284f42eecc596372c63cc81bc725e40` | `ea20bc236809bd99496f57bc4ec4865db84d7a61` / `a19c5e0f660b474e315da13b1a90129e04082fb6` | 38981877316 /38982354639(no-op)/38982388744; actuala19c/full352/0/0/0 | PENDING / PENDING |
+
+
+## HAR-U004 private verification retention
+
+The designated metadata-only custodian retained `HAR-U004_PRIVATE_SOURCE_VERIFICATION_20261016_V1.zip` as private Drive file `1gI8P9xOwF6AK2Nb-ougj-sPqm53CRcnS`, canonical parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false. Full raw remote readback matches **2,389,948 bytes**, SHA-256 `2f5ddffd2994b91aab5b371e676782a9ea9d03662e72111b6afdc17e92f3121b`; safe paths, ZIP CRC, exact16object membership and every object's size/hash PASS. Manifest SHA-256 `1df3a3c911b2f0f66e5a93fb92d3ae9eb185d66bd26fb81e34eaf09cbb2449a7`. Only current faithful extraction/four actual panels/geometry/ruby/tenlocatorproof/scripts/tool hashes/factual gate provenance are retained. Interpretive locator descriptions, analytical frontiers, future prose, originals, binaries and caches are excluded. Original EPUB stays unchanged at its canonical ID. Retention is not publisher authentication.
+
+
+### HAR-U004 prepublication editorial reseal
+
+Before HAR-U005 exposure or any HAR-U004 ref publication, final readback corrected word spacing in eight evidence labels and pre-exit runtime phrases. The initial sealed reading `2e4fd87d97b4f635e19af611e273b1f64453fb4331238ae396a3e080937f7fd7`, interim spacing candidate `fd4f6a817d3a9f7fc30d0d6d988feaa45792f98370d8882aa22bced40774c814` and final resealed reading `e2784d2f216e5d8ed1390950dd9e3208f0cdf9c1845eafeb4c513c1eda0cd250` are preserved privately with attributable timestamps. The entire original literary exit section and original private entry/exit records are byte-identical to the initial seal; no source, claim, prediction or knowledge state changed. The faithful-source bundle's gate names the entry/current-member hashes and counts, not a whole-reading hash, so its retained objects remain exact without duplicate upload. Final index preflight and publication apply to the final reseal only.
