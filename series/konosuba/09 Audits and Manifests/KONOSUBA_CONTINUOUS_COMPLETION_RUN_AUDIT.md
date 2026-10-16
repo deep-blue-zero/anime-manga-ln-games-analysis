@@ -21,9 +21,9 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V12 |
-| Current phase | Main-series derivation; V12 accepted, publication closeout and V10–V12 checkpoint due |
-| Next canonical operation | V10–V12 checkpoint and Gen04 forecast freeze; V13 remains unopened |
-| Current prospective model | Gen03, derived from V01–V09; V10–V12 tranche OPEN |
+| Current phase | Main-series derivation; V12 publication closed; V10–V12 checkpoint/Gen04 accepted, own publication checks separately required |
+| Next canonical operation | V13 after accepted/committed/published/read-back Gen04 freeze; no V13 publication before checkpoint full CI close |
+| Current prospective model | Gen04, derived only from V01–V12 main narrative; Gen03 formal tranche closed, older blocks immutable |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
 | Initial local ordinary reconciliation commit | `a334381e3da75fb7455caf397e8f88d889939cfd` |
@@ -78,7 +78,7 @@ The run's scope is the fixed 41-object inventory and identifiable edition-contai
 | Live eight-folder/41-object identity and manifest reconciliation | COMPLETE_FOR_DECLARED_METADATA_AND_BYTE_SCOPE |
 | Exact supplied-edition and every narrative-component boundary | OPEN; direct component/colophon inspection remains |
 | Main sequential readings and synchronized ledgers through V17 | OPEN; accepted through V12 |
-| Gen04, Gen05 and final sequential checkpoint | NOT_COMPLETE |
+| Gen04, Gen05 and final sequential checkpoint | Gen04 accepted; own publication/CI separately required. Gen05 and final remain NOT_COMPLETE |
 | Required main-only specialists, monographs and integrative artifacts | NOT_COMPLETE |
 | Required reconstruction suite and simulation/consistency audit | NOT_COMPLETE |
 | Main-only immutable model-suite freeze | NOT_COMPLETE |
@@ -126,3 +126,17 @@ Preacceptance corrections remove a false first-observation claim for Aqua nightv
 This same transaction clarifies the41 Calibre provenance flags by renaming them to `listed_in_incremental_calibre_import_manifest`, retaining all five true/36false values and defining the incremental scope. False does not mean no previous Calibre processing. Exact inverse operations recover the previous complete matrix; the identity projection remains unchanged. MAIN-12 is the only object whose narrative reading state advances. Bonus伝説の魔女, afterword, images, exact-edition and all later/side component obligations remain open.
 
 V12 semantic acceptance is not a claim that the containing publication has already passed CI. Its own exact source audit, actual housekeeping result and final exact-head integration status must be observed after publication. The V10–V12 formal checkpoint, J02 pooled judgment and Gen04 forecast freeze remain separate next work. No V13 source has been opened and no expanded-stage gate is marked complete here.
+
+## V12 exact publication close and Gen04 checkpoint — 2026-10-16
+
+V12 was published as `69a0d738951b7592d685a90cf76960554e56c15a`, tree `702de0df5e479628de0a77354cdc797fd6c3695a`, with ordered preserved parents `45217d5f509ef45f4453bc51753918acad30fb18` and `1cc59eb63ba7e97f8c4cf2cc5e5738477598fb48`. Main advanced during the earlier unreferenced API candidate; that unreferenced candidate was never published. An ordinary clean merge preserved all18 authored KonoSuba byte streams and imported nine exact owner-approved main blobs. Exact complete-tree and changed-file readback matched the reviewed candidate; no force or protected-main write occurred.
+
+[Source audit38972098066](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38972098066) passed. [Housekeeping38972681656](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38972681656), job117214583882, reported actual SOURCE_SHA69a0d738 and no-op success. [Final audit38972723580](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38972723580), job117214718395, reported actual AUDIT_COMMIT69a0d738 and PASS7928. The exact commit’s Repository integration audit became success at2026-10-16T22:01:02Z. Dispatch display-head metadata was not mistaken for the actual source target. V12’s full required sequence is closed.
+
+Before checkpoint authorship, current main advanced to `3dab550108eb90076bfddf8f2c958a151f78e1bb`. Its nine changes concern accepted Harmony guidance and the maintained registry; they change no KonoSuba file or governing control. Root reviewed and imported those exact approved bytes by an ordinary clean merge. The resulting local proof preserves the published V12 head and current main as parents. These imports are distinct from this checkpoint’s six authored KonoSuba paths.
+
+The accepted [V10–V12 checkpoint](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md) formally adjudicates all25 Gen03 forecasts:9 CONFIRMED,5 PARTIAL,10 NOT_TESTED and1 FALSIFIED. K04’s V11 failure remains; A03 causal recognition continuation isNT within componentPARTIAL; D02/E01 retain incomplete compound coverage. The independent354-unit pool contains341 clear portable,3 clearL3,6 mixed and4 uncertain. All13 form/uncertain cases, original coding disagreements and V10/V11/V12 discovery/exposure limits are retained. V10 trims outer paragraph whitespace in its published character metric; V11/V12 do not, so no homogeneous summed character count is claimed.
+
+Root accepted the exact Gen04 blocks at2026-10-16T22:12:40.615896+00:00, before any V13 narrative exposure: model23,814B SHA256 `5ff6cb60408fff2bfc9bab814f311d65128ed4df0703f8ab607c16b963515173`; forecasts65,983B SHA256 `e553d7cfc5be3fd290ad0471d482ca6fe2c0ffd5db3689600bbf156de71def5c`. The25 new field pairs remain blank; all older frozen text and local histories remain unchanged. The current-map/source-lock changes state the genuine accepted/committed/published/read-back pre-exposure gate and separately required checkpoint-CI-before-V13-publication gate. This containing transaction’s future commit/readback/check results are not invented. Main integration is distinct from source-branch publication.
+
+Current authored scope is exactly the new checkpoint, prediction-ledger append/live header, current map, source-lock current sequence, this run audit and the new [checkpoint receiving review](KONOSUBA_V10-V12_CHECKPOINT_RECEIVING_REVIEW.md). The other nine ledgers, all prior readings/checkpoints/reviews and the complete41-object matrix remain unchanged. The fixed snapshot seal remains `fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5`. Gen05/final sequential closure, main-only reconstruction-suite freeze, four-book holdout validation, all19 secondary prose books and individual narrative components, post-validation models and final architectural validation remain open.

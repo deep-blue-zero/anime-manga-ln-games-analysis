@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: CHECKPOINT_V10_V12
+  next_permitted_operation: V13
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V12
-  next_candidate_operation: CHECKPOINT_V10_V12
+  next_candidate_operation: V13
   confirmation_between_units: false
   run_state: active
 ---
@@ -43,7 +43,7 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 
 ## 2. Current authority state
 
-**Project state:** ACTIVE / PROVISIONAL — V01–V12 sequential analysis accepted. Gen03 remains the canonical frozen prospective model derived from V01–V09. V10, V11 and V12 local outcomes are preserved separately; the V10–V12 tranche remains OPEN until its formal checkpoint, complete J02 pool and Gen04 freeze are accepted. V11 K04 remains FALSIFIED; V12 adds partly matched adverse evidence without erasing that failure. Original model/prediction wording and blank fields are unchanged. The owner’s 2026-10-16 instruction authorizes continuous execution through V17 and the bounded synthesis, validation and expanded-corpus program. The next operation is the V10–V12 checkpoint; V13 remains unopened.
+**Project state:** ACTIVE / PROVISIONAL — V01–V12 sequential analysis and the V10–V12 formal checkpoint are accepted. Gen04 is the current frozen prospective model derived only from main narrative through V12; all25 V13–V15 forecasts have blank original scoring fields. Gen03 closes at9 CONFIRMED /5 PARTIAL /10 NOT_TESTED /1 FALSIFIED, preserving every local history and the V11 K04 failure. The accepted principal-main high-water mark remains V12. V13 is next after the checkpoint is committed, published and read back; its separate full audit sequence must close before V13 publication. Continuous authorization through V17 and the staged synthesis/validation/expanded program remains active.
 
 **SEQUENTIAL_ANALYSIS_LOCK = OPEN.** This is continuation of the mature imported project, with its four current methods, existing ten ledgers and source boundary verified. The structured run declarations recover the current owner-authorized bounds; they do not create new source authority. The [run and reconciliation audit](09%20Audits%20and%20Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md) records accepted, working and published state separately.
 
@@ -188,11 +188,11 @@ The tranche result is 16 CONFIRMED, 2 PARTIAL/revision-bearing, 2 NOT_TESTED, an
 
 ### Phase 4 - V10-V12
 
-**ACTIVE / CHECKPOINT DUE.** V10–V12 principal narratives and local prospective tests of unchanged Gen03 are complete. Their separate outcomes and V11’s K04 falsification remain preserved. The formal tranche is OPEN: accept `KONOSUBA_V10-V12_CHECKPOINT.md`, independently verify the complete J02 pool, and freeze Gen04 with V13–V15 predictions before V13 exposure. V13 remains unopened; no Gen04 is declared by the V12 transaction.
+**COMPLETE.** V10–V12 principal narratives, separate local outcomes, complete pooled J02 review and formal25-prediction adjudication are accepted. The [V10–V12 checkpoint](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md) freezes Gen04 and25 V13–V15 forecasts. All prior freezes and outcomes remain immutable; source-branch publication/readback and exact-head CI remain separately verified obligations.
 
 ### Phase 5 - V13-V15
 
-Model Generation 0.5.
+**NEXT.** Test frozen Gen04 in order, then close the tranche and freeze Model Generation0.5 before V16 exposure. V13 remains unopened at this checkpoint acceptance.
 
 ### Phase 6 - V16-V17
 
@@ -269,7 +269,7 @@ A later synthesis never licenses invented evidence. Exact wording, linguistic cl
 - `KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md`
 - `KONOSUBA_KAZUMA_NARRATOR_LEDGER.md`
 - `KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md`
-- `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` — preserves immutable Gen 0.1/0.2 text and historical outcomes, the completed V07-V09 Gen 0.2 adjudication, and all 25 Gen 0.3 V10-V12 predictions frozen before V10 exposure with their original blank outcome/adjudication fields; a separate V10 local addendum records 6 CONFIRMED, 6 PARTIAL and 13 NOT_TESTED. The V10-V12 tranche remains open. A separate V11 addendum records 8 CONFIRMED / 4 PARTIAL / 12 NOT_TESTED / 1 FALSIFIED; the original fields remain blank. A separate V12 addendum records all25 local dispositions; the complete formal tranche remains open pending its checkpoint.
+- `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` — preserves all older freezes, blank fields and local histories; appends the complete formal Gen03 V10–V12 scorecard and the exact25 Gen04 V13–V15 forecasts, whose original Outcome/Adjudication fields remain blank. Gen03 is closed; Gen04 is the current prospective freeze.
 
 ### V01-V03 Model Generation 0.1 state
 
@@ -432,13 +432,21 @@ The complete source-first humor census has130 fixed units:127 clear L0–L2 and 
 
 The separately identified V12 bonus **伝説の魔女**, afterword and other edition components remain unread and assigned to later component review. Only MAIN-12's principal narrative advances to READ_COMPLETE/ANALYZED; the fixed41-object identity seal and all other narrative dispositions are preserved. A metadata-only field rename clarifies membership in the five-record incremental Calibre manifest without asserting that the other36 never underwent Calibre processing. No future main or side narrative enters these prospective states. Earlier map subsections preserve historical future-facing wording; the current declarations and this update govern continuation.
 
+### V10–V12 formal checkpoint and Model Generation 0.4
+
+The [V10–V12 checkpoint](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md) closes all25 unchanged Gen03 forecasts: **9 CONFIRMED /5 PARTIAL /10 NOT_TESTED /1 FALSIFIED**. These are descriptive dispositions, not predictive accuracy. K04 remains FALSIFIED from V11; V12's partly matched adverse tears case does not erase it. A03 confirms observed service components without causal recognition credit; D02 and E01 retain mixed or incomplete branches. All original model/prediction bytes, blank fields and local outcomes remain preserved.
+
+The complete J02 pool contains354 fixed units:341 clear L0–L2,3 clear L3,6 mixed and4 uncertain. Conservative bounds341–351/354 satisfy the original strict-majority rule. Original coding disagreements, V10's supplemented boundary discovery and whitespace-count convention, V11 aggregate exposure and V12 limited boundary preview remain explicit. No forced fine-code consensus, reliability statistic, translation-effort estimate or universal transfer claim follows.
+
+Gen04 is derived exclusively from main narrative through V12 and freezes25 fresh behavioral forecasts for V13–V15, each with blank Outcome/Adjudication fields. It retires the sufficient tear-stop rule, separates Aqua capacity/readiness/comparative goal clarity, preserves conditional service-causation limits, and narrows Darkness and language tests prospectively without rescoring old failures. Exact model and forecast identities and the actual freeze event are in the checkpoint and its [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V10-V12_CHECKPOINT_RECEIVING_REVIEW.md). V13 exposure still requires accepted, committed, published and read-back bytes; publication checks remain a separate obligation. Earlier map subsections retain their historical future-facing wording.
+
 ## 13. Current next actions
 
-1. Preserve `KONOSUBA_V07-V09_CHECKPOINT.md`, the exact frozen Gen03 V10-V12 prediction block, RC-V09-01 and the new V10 local validation record. The 25 predictions remain frozen with their original blank outcome/adjudication fields; do not regenerate or rewrite them.
-2. Close the accepted V12 transaction’s exact source audit, housekeeping and final audit. Then complete the separately reviewable V10–V12 checkpoint and Gen04 V13–V15 forecast freeze. The accepted principal-main high-water mark is V12; V13 remains unopened. Continue without routine confirmation through V17 while preserving every source and forecast gate.
-3. At each unit boundary, refresh live map/governance and relevant ledgers, retrieve the existing frozen checkpoint/predictions and earlier outcomes, verify preserved bytes, and complete the source-identity/capability gate before narrative exposure. Append evidence without erasing adverse cases or untested branches.
-4. Adjudicate every Gen03 forecast across V10–V12, retaining disconfirmations, partial causal coverage and untested branches. Verify the complete J02 pool before formal closure. Accept and commit the checkpoint/Gen04 forecast freeze before V13 exposure; the V12 transaction itself creates neither a new generation nor a completed tranche.
-5. Keep all side narrative and edition bonuses outside prospective derivation. Freeze the main-only reconstruction suite before the four designated holdouts, preserve the validation results, then perform the full expanded-prose/component program and attributable post-validation reconstruction. Source metadata is now reconciled separately in the 41-object matrix; no metadata or download state counts as completed literary analysis.
+1. Preserve every older checkpoint, exact Gen03 model/forecast block, original blank fields, all V10–V12 local outcomes and RC-V09-01/RC-V10-01. The new checkpoint supplies separate formal judgments and never fills the old frozen fields.
+2. Publish and read back the accepted V10–V12 checkpoint and exact Gen04 model/V13–V15 forecast freeze before opening V13. V12's complete publication sequence has closed on its actual published commit. The checkpoint's separate source audit, housekeeping and final exact-head integration audit must close before V13 publication. Otherwise authorized noncurrent V13 preparation may proceed after the accepted, committed, published and read-back freeze while its checks run, with pending state recorded truthfully.
+3. At each source-unit boundary, refresh the live map/governance and relevant ledgers, read the entering checkpoint and exact forecasts, pin preserved bytes and earlier outcomes, and complete the source-identity/capability gate before narrative exposure. Close each complete reading/ten-ledger/map transaction before the next volume opens. Continue through the authorized V17 boundary without routine confirmation.
+4. Test all25 unchanged Gen04 forecasts on V13–V15, retaining missing conjuncts, branch differences, adverse cases and individual histories. Keep a source-first complete humor census and fixed language windows with exposure limits documented. After V15, close that tranche and freeze Gen05 before V16; after V17, complete the final sequential checkpoint and main-series evidence freeze.
+5. Keep all side narrative and edition bonuses outside prospective derivation. Complete and freeze the main-only reconstruction suite before the four designated holdouts; preserve validation results, then complete the full19-book secondary-prose and individual bonus/mixed-book narrative program with attributable post-validation models. Every admitted narrative component and architecturally required output needs a validated disposition. The41-object metadata reconciliation is not literary completion.
 
 ## 14. Governing principle
 

@@ -5,13 +5,13 @@ artifact_type: synthesis_architecture
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.1'
+version: '0.2'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
-source_boundary: Original Japanese prose novel; candidate EPUB structurally inspected; zero narrative units admitted or read
+source_boundary: HAR-JP-EPUB-001 verified for bounded HAR-U001; opening words inspected for source fidelity after entering freeze; zero sequential-analysis units admitted at G0
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
-review_status: OWNER_REVIEW_PENDING
+review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -24,7 +24,7 @@ architecture_lifecycle: INITIAL
 
 ## 1. Responsibility, authority and source model
 
-This INITIAL architecture defines how future readings accumulate into a mature analysis of **one prose novel**. It pairs with the [analytical method](../00%20Frameworks%20and%20Methods/HARMONY_ANALYTICAL_METHOD.md) and [source/witness map](../00%20Frameworks%20and%20Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md) under [the sole entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md). Generation `HARMONY_BOOTSTRAP_V1` is active provisional guidance awaiting owner review, not a completed analysis; no prior architecture is displaced. The admitted narrative boundary is empty.
+This INITIAL architecture defines how future readings accumulate into a mature analysis of **one prose novel**. It pairs with the [analytical method](../00%20Frameworks%20and%20Methods/HARMONY_ANALYTICAL_METHOD.md) and [source/witness map](../00%20Frameworks%20and%20Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md) under [the sole entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md). Generation `HARMONY_BOOTSTRAP_V1` remains active provisional guidance, now accepted by scoped foundation review for HAR-U001; no prior architecture is displaced. The G0 checkpoint has no admitted sequential-analysis unit; the entrypoint owns the current frontier.
 
 The source model separates the original Japanese work, the verified reading witness to be selected, alternate editions, translation witnesses, paratext and adaptations. Shared packaging and authorship do not establish shared continuity. Conflicts are classified as edition/translation difference, focalizer knowledge, memory, deception, institutional claim, framing level, chronology or unresolved inconsistency before any harmonization. Uncertainty survives as an explicit claim state.
 

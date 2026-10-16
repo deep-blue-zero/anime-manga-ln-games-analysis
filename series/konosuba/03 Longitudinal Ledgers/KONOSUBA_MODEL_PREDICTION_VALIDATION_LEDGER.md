@@ -3,9 +3,9 @@ series: KONOSUBA
 artifact_type: ledger
 scope: V01-V17
 ledger_role: model_prediction_validation
-generation: MODEL_GEN_0.3
+generation: MODEL_GEN_0.4
 status: active_provisional
-source_boundary: Gen 0.1 predictions and outcomes preserved; Gen 0.2 V07-V09 predictions and historical wording preserved with tranche adjudication complete through V09; Gen 0.3 V10-V12 predictions frozen after V09 before V10 exposure; V10, V11 and V12 local outcomes appended without changing the freeze; V10-V12 formal tranche checkpoint remains open; V13 unopened pending Gen04 forecast freeze
+source_boundary: All prior model and prediction blocks, original blank fields and local histories preserved; formal Gen03 V10-V12 adjudication complete; Gen04 derived only through V12 main narrative with25 V13-V15 forecasts frozen before V13 exposure
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ do_not_use_as_current_authority: false
 
 This ledger preserves falsifiable behavioral predictions at the moment they are made so later volumes can test rather than retrospectively rewrite the character models.
 
-**Current freeze:** Model Generation 0.3, derived from V01-V09 after prospective adjudication of Gen 0.2. **Outcome state:** V07-V09 complete; the original Gen03 V10-V12 predictions and all 25 original Outcome/Adjudication fields remain frozen and blank. Separate V10, V11 and V12 local addenda preserve every outcome without changing the original fields. The formal V10-V12 tranche checkpoint is OPEN; Gen04 forecasts must be frozen before unopened V13. The former V11/V12-unopened clause was stale live routing and is synchronized here; historical bodies are unchanged.
+**Current freeze:** Model Generation0.4, derived only from principal main narrative through V12. **Outcome state:** Gen03 V10–V12 is formally closed at9 CONFIRMED /5 PARTIAL /10 NOT_TESTED /1 FALSIFIED, with all original blank fields and each local history preserved. A separate formal addendum and the exact25 Gen04 V13–V15 forecasts follow at the end. All25 new original Outcome/Adjudication pairs remain blank. V13 exposure requires accepted, committed, published and read-back Gen04 bytes; checkpoint full CI must close before V13 publication.
 
 **Contamination rule:** The predictions below were written before canonical analysis of V04. They may not be reworded after later evidence appears. Later evidence must be entered only in the outcome/adjudication fields.
 
@@ -1472,3 +1472,826 @@ Gen03 model17,746B SHA `dfd92578ddef97eeaf942a6a5d713f37a84678abc9433bce05d36d2e
 The six K04 core branches plus additional tear/near-tear/report screening are retained in V12 deep reading §14. The adverse C3P0179 case is not removed because embarrassment or masochistic pleasure coexists; V11's clean FALSIFIED remains. A03 PARTIAL gives no causal recognition-conditioned continuation confirmation. K02 preserves an accepted mission and costly behavior while keeping initiating entrustment/request timing unshown. E01's deployment, alternative-provider and comparative-Kazuma branches remain separately scored rather than upgrading one favorable segment into the whole compound.
 
 The14 fixed language comparisons are in V12 deep reading §8; the full130-episode list, both original fine codes, conservative unresolved groups and operation provenance are in V12 deep reading Appendix A. These are explicit destinations within the linked reading, not sections of this cumulative ledger. J02 remains **PARTIAL / TRANCHE_OPEN** in this local append: root/checkpoint owns the complete V10–V12 pool and any next-generation freeze. No later main narrative or side finding was used to adjust Gen03 or earlier prospective states.
+
+
+# V10–V12 Formal Tranche Adjudication — Model Generation0.3
+
+The complete formal judgments below are accepted after V12’s exact publication close and the independent354-unit pool. They supplement all preserved local histories and original fields. Read the [V10–V12 checkpoint](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md) and [receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V10-V12_CHECKPOINT_RECEIVING_REVIEW.md) for the full model, failure diagnostics, provenance limits and exact freeze.
+
+### 2.3 Complete formal Gen03 adjudications
+
+These are new tranche judgments against the unchanged Gen03 text. All local histories and original scoring fields remain preserved. V12’s required publication close and the independent complete pooled census are satisfied. Exact original forecasts remain in the earlier checkpoint and cumulative ledger, without retrospective rewording.
+
+### MG03-K01 — Indirect construction of a solution, with explicit resource limits
+
+**Tranche disposition:** CONFIRMED.
+
+**Local history:** V10 PARTIAL; V11 CONFIRMED, bounded branches; V12 CONFIRMED.
+
+**Branches:** indirect search/combination or negotiation; revision when a newly learned capability invalidates the first plan; delegation to fitted specialists.
+
+Indirect search, exact capability-based revision and fitted delegation all exercised, with different local coverage. V10 search/delegation is partial, not retroactively completed. V11 failed arrow reveals the target power limit and elicits blinding/time-buying; V12 cuts reveal new tentacle exits and elicit rejection of further punctures plus prepared Aqua water.
+
+**Contrary, absent and scope limits:** Retain failed raids/capture, coercive tactics, missing cuff/Bind release plans, independently useful actors and eventual Eris rescue. Neither victory nor morality is entailed.
+
+**Claim transition:** STRENGTHEN bounded constructive process; add explicit capture-versus-release and goal/harm distinctions in successor.
+
+**New V12 evidence route:** C2P0218–0239,0244–0290,0333–0363; FP0113–0192,0312–0395.
+
+### MG03-K02 — Concrete entrusted need recruits effort before certainty
+
+**Tranche disposition:** CONFIRMED.
+
+**Local history:** V10 CONFIRMED; V11 CONFIRMED; V12 PARTIAL.
+
+**Branches:** concrete trusted-person request; feasible contribution before complete certainty; costly substantive help versus comfort-based abandonment.
+
+V10 and V11 provide concrete trusted requests and substantial effort before complete certainty; V12 adds accepted negotiation mission and costly help, without isolating its initiating request. Positive matched earlier volumes suffice for bounded replication. V12 PARTIAL remains partial, because purchased/helpful behavior cannot invent an earlier entrustment exchange.
+
+**Contrary, absent and scope limits:** Comfort, attraction, reputation and complaint can coexist with help. Feasible contribution and actual request must precede the scored choice; help alone is not a complete request-conditioned test.
+
+**Claim transition:** PRESERVE concrete-entrustment mechanism at bounded confidence; distinguish decision to help from adequacy/success of method.
+
+**New V12 evidence route:** C4P0308–0346; C5P0051–0060,0392–0397; FP0101–0112,0257–0258,0327–0398.
+
+### MG03-K03 — Success-linked personal reward can expand pursuit
+
+**Tranche disposition:** CONFIRMED.
+
+**Local history:** V10 CONFIRMED; V11 CONFIRMED, with contextual limits; V12 CONFIRMED.
+
+**Branches:** active success/recognition/payback before next choice; scope/pursuit/exposure change relative to prior plan; pre-existing severe-danger/known-target modifiers.
+
+Success/recognition/payback salience precedes increased pursuit in independently located decisions. V10 bounded feedback-related scope changes and V11 recognition pursuit are joined by V12 Darkness addressing Kazuma as senpai at FP0149, followed by Kazuma requesting repetition until Chris interrupts.
+
+**Contrary, absent and scope limits:** A preplanned fallback is not newly invented escalation. Severe known danger, existing targets and relational commitment can limit pursuit. V12 refusal of Darkness is not explained away as universal reward capture.
+
+**Claim transition:** STRENGTHEN conditional reward-driven expansion; distinguish arousal/excuse mechanism from success feedback.
+
+**New V12 evidence route:** C4P0031–0039,0267–0284; FP0146–0155; limiting C3P0335–0370.
+
+### MG03-K04 — Noticed actual tears can interrupt intimate or teasing pursuit
+
+**Tranche disposition:** FALSIFIED.
+
+**Local history:** V10 NOT_TESTED; V11 FALSIFIED locally; V12 AMBIGUOUS.
+
+**Branches:** self-rewarding intimate or teasing pursuit; actual tears noticed in a valued companion; available pause without separate immediate danger; immediate interruption/check/help versus continued same pursuit.
+
+V11 is a complete matched failure of the narrowed noticed-tears stopping rule. V12 adds a strong adverse but honestly partly matched case, not a rescue. V11 C2P0404 precommits to making Aqua cry/apologize, P0431/0443–0444 notices actual tears, P0445–0446 approaches/taunts before P0450 relenting. Safe pause and valued companion are present. V10 remains NT; V12 remains AMBIGUOUS under disclosed cue/motive readings.
+
+**Contrary, absent and scope limits:** Ownership recovery does not exclude simultaneous teasing reward; a rhetorical callback is not a needs-check; eventual mercy is not immediate interruption. V12 C3P0179 actual visible tears and P0181/0189 continued accusation remain adverse even if flowing onset/pre-cue reward matching is unresolved. No embarrassment/masochism or intimacy-only exclusion.
+
+**Claim transition:** RETIRE actual tears as a sufficient inhibition gate. Preserve sincere care and temporary restraint as context-dependent capacities; propose a separately motivated commitment/arousal competition test, never a retroactive reinterpretation.
+
+**New V12 evidence route:** C2P0006–0012; C3P0151,0166–0192,0243–0312; C5P0280–0314; FP0209–0225,0397–0411; C2P0065; C3P0123–0128; C4P0206; reported C5P0138.
+
+### MG03-A01 — Established specialist ability appears under a well-defined task
+
+**Tranche disposition:** CONFIRMED.
+
+**Local history:** V10 CONFIRMED; V11 CONFIRMED; V12 CONFIRMED.
+
+**Branches:** already demonstrated domain; bounded task with access/resources; engagement versus readiness; execution quality versus collateral/system prediction.
+
+Engaged execution of established abilities repeatedly succeeds under bounded access/resources, distinct from readiness and system effects. V10 domain tasks, V11 cancellation/healing/support and V12 actual buffs plus prolonged child-preserving healing exercise the listed-domain mechanism.
+
+**Contrary, absent and scope limits:** Asleep/unavailable care is a readiness failure; canceled spell momentum is a system consequence; tentative buff attribution stays tentative. Carrier preservation is not cure. Nightvision was already demonstrated earlier and is not inserted into original listed domains.
+
+**Claim transition:** STRENGTHEN capacity/engagement distinction; successor may explicitly list known nightvision with honest prior-witness provenance limits.
+
+**New V12 evidence route:** C2P0234–0240; C4P0300–0320; FP0398–0424.
+
+### MG03-A02 — A direct prestige contest can displace an assigned purpose
+
+**Tranche disposition:** CONFIRMED.
+
+**Local history:** V10 CONFIRMED; V11 CONFIRMED; V12 NOT_TESTED.
+
+**Branches:** identifiable assignment before prestige challenge; distinct prestige response; escalation and loosened original constraint; independently acknowledged imminent-harm competition.
+
+V10/V11 matched direct prestige contests can displace an identifiable assigned purpose. Earlier matched original-task→prestige-challenge→distinct-response sequences supply positive evidence. V12 ingredient punch and branded recipe water are NT for this full trigger, not inferred prestige displacement.
+
+**Contrary, absent and scope limits:** Hostile species presence alone is insufficient; task-directed wrong body/rank knowledge is a different error. Eventual success and externally stopped escalation do not erase prior goal replacement.
+
+**Claim transition:** PRESERVE conditional prestige capture, with original assignment/constraint and independently salient harm recorded before response.
+
+**New V12 evidence route:** C4P0092–0100,0300–0335; C5P0055–0056; FP0428–0431.
+
+### MG03-A03 — Recognition attached to real service can sustain it
+
+**Tranche disposition:** PARTIAL.
+
+**Local history:** V10 NOT_TESTED; V11 NOT_TESTED; V12 PARTIAL.
+
+**Branches:** mastered task; recognition specifically aligned with real service; identified beneficiary/responsibility; continued service across repeated opportunities; owned versus externally imposed assignment.
+
+Known service, beneficiaries, ownership and recognition are observed; V12 adds sustained actual work. Recognition-conditioned continuation itself remains NOT_TESTED across the tranche. V10 meal/praise lacks repeated post-recognition opportunities; V11 useful individual actions lack full repeated sequence. V12 prolonged care is real, but offerings visible at return do not establish prior recognition onset or causality.
+
+**Contrary, absent and scope limits:** No causal confirmation credit. Neither three dishes, a promise of instruction, retrospective duration nor return-time rewards supply recognition-before-next-service. Absence of a full test is not refusal or falsification.
+
+**Claim transition:** PRESERVE service capacity/persistence evidence; keep recognition mechanism OPEN and give successor an explicit prospective temporal design.
+
+**New V12 evidence route:** C5P0049–0055; FP0412–0422; PrP0013–0015.
+
+### MG03-A04 — Unvalued maintenance with an available maximal shortcut
+
+**Tranche disposition:** NOT_TESTED.
+
+**Local history:** V10 NOT_TESTED; V11 NOT_TESTED; V12 NOT_TESTED.
+
+**Branches:** expressly low-valued repetitive maintenance; concretely available attractive one-step high-power alternative; no already salient learned analogue or strong external constraint; shortcut choice and neglected secondary system.
+
+No complete low-valued repetitive maintenance plus available attractive one-step maximal alternative and absence of salient learned constraint is supplied. Across V10–V12 the adjacent work, fast tasks, valued repair or care do not complete all original conjuncts.
+
+**Contrary, absent and scope limits:** Do not infer unobserved shortcut availability, low valuation or absence of learned constraints from a comic result. Effective high output alone is not this forecast.
+
+**Claim transition:** OPEN, unvalidated in this tranche; retain the hypothesis without borrowed confirmation from A01/A02.
+
+**New V12 evidence route:** C4P0300–0335; FP0419–0431.
+
+### MG03-M01 — Core-specialty challenge can outweigh ordinary companion cost
+
+**Tranche disposition:** PARTIAL.
+
+**Local history:** V10 PARTIAL; V11 PARTIAL; V12 PARTIAL.
+
+**Branches:** explicit Explosion identity challenge treated as such; known ordinary companion cost; pre-response burden/grave-harm cue eligibility; defense/competition/redirection versus easy cost-only compromise.
+
+Specialist identity defense is supported, but priority over independently known ordinary companion cost is not cleanly isolated. V10 rival named technique triggers comparison/prohibition after the kill, while reserve restraint predates the challenge. V11 competence/specialty exclusion and V12 ritual disparagement add bounded defense, not the full cost-choice comparison.
+
+**Contrary, absent and scope limits:** Keep RC-V09-01 and earlier cost-inhibition failure. Ritual mockery is not automatically explicit spell replacement; pre-cue cost restraint cannot become a post-cue choice test. Higher build-burden/grave-harm eligibility is classified before response.
+
+**Claim transition:** STRENGTHEN identity activation; leave utility-priority branch MODERATE and unvalidated rather than claiming the compound confirmed.
+
+**New V12 evidence route:** C2P0055–0071; EpP0013–0026.
+
+### MG03-M02 — Internally accepted contribution guilt can reopen the build
+
+**Tranche disposition:** NOT_TESTED.
+
+**Local history:** V10 NOT_TESTED; V11 NOT_TESTED; V12 NOT_TESTED.
+
+**Branches:** self-attributed substantial contribution failure caused by exclusive build; established valued companions; meaningful compromise/role/build consideration with loss; changed-role extension separated from inherited abandonment branch.
+
+No newly accepted conclusion that the exclusive build materially prevents substantial contribution establishes the guilt/reconsideration trigger. V12 poor-magician self-deprecation concerns romantic comparison; useful medicine research is not independently guilt-caused build revision. V10/V11 likewise lack the complete state.
+
+**Contrary, absent and scope limits:** Do not equate criticism, failure, romance insecurity or a new useful task with her own accepted build-burden conclusion.
+
+**Claim transition:** OPEN exact inversion mechanism; ordinary specialty defense and contribution guilt remain distinct potential modes.
+
+**New V12 evidence route:** C1P0277–0285; C5P0049–0052; FP0424–0432.
+
+### MG03-M03 — Safe separated targets expose reliable artillery
+
+**Tranche disposition:** NOT_TESTED.
+
+**Local history:** V10 NOT_TESTED; V11 NOT_TESTED for the full conjunction; V12 NOT_TESTED.
+
+**Branches:** technically suitable dense/immobilized target; friendlies safely separated in advance; resource and post-cast exit/carry planning; no valued-target relationship; terminal execution efficacy.
+
+Full prepared tactical artillery conjunction remains unexercised in the tranche. V11 final target cluster is not evidence of prior safe geometry/resource/carry plan; V12 controlled lake casts and post-cast mana support are leisure capacity evidence. V10 has no full matched test.
+
+**Contrary, absent and scope limits:** Do not infer safety from success or harm from absent safety description. Prior dense/immobilized target, friendly geometry, resources and exit/carry conditions all remain necessary.
+
+**Claim transition:** PRESERVE demonstrated power/control; no new full tactical validation.
+
+**New V12 evidence route:** C2P0050–0064; EpP0003–0018,0028–0036.
+
+### MG03-M04 — A valued target creates a separate firing constraint
+
+**Tranche disposition:** NOT_TESTED.
+
+**Local history:** V10 NOT_TESTED; V11 NOT_TESTED; V12 NOT_TESTED.
+
+**Branches:** personally valued target independently established; pre-/during-action relational friction; post-action emotional cost separately.
+
+No complete required decisive harm to an established personally valued person acting as opponent/obstacle is supplied. V12 proposed familiar sacrifice, stopped by Darkness, is important adverse adjacency but not an executed valued-person combat decision; V10/V11 full trigger absent.
+
+**Contrary, absent and scope limits:** Do not erase familiar attachment, invent execution or silently broaden person/opponent eligibility merely to obtain a test.
+
+**Claim transition:** OPEN specific cross-person firing constraint; downgrade any broader automatic-care inference from adjacent proposal.
+
+**New V12 evidence route:** C4P0339–0341; EpP0033–0035.
+
+### MG03-M05 — Explicit serious companion harm remains a guarded prediction
+
+**Tranche disposition:** NOT_TESTED.
+
+**Local history:** V10 NOT_TESTED; V11 NOT_TESTED, proximity uncertainty retained; V12 NOT_TESTED.
+
+**Branches:** known grave direct companion risk; Megumin’s pre-action knowledge; clear alternatives and tactical requirement; friction/objection/consent/redirection versus enthusiastic casting.
+
+Best-available tactical Explosion with clearly understood grave direct companion harm and available alternatives is not established. V11 proximity remains uncertain; V12 explicitly reduced power for recovering Sylphina is strong calibrated spectator-care evidence without that grave tactical conjunction.
+
+**Contrary, absent and scope limits:** No friendly-fire confirmation from generic proximity, leisure restraint or familiar ritual. Keep the source-known harm appraisal before decision and the tactical alternatives separate.
+
+**Claim transition:** OPEN unvalidated grave-harm branch; strengthen only demonstrated output calibration/care capacity.
+
+**New V12 evidence route:** EpP0014–0016; C4P0339–0341.
+
+### MG03-M06 — Repeated rewarding fire can become its own objective
+
+**Tranche disposition:** NOT_TESTED.
+
+**Local history:** V10 NOT_TESTED; V11 NOT_TESTED; V12 NOT_TESTED.
+
+**Branches:** sustained repeated safe/effective firing; visible specialist reward/growth; weakening/completed original objective; seeking continuation versus stopping without external limit.
+
+No sustained instrumental operation repeatedly rewarding Explosion growth while mission purpose weakens is shown. V12 repeated lake ritual and fishing byproduct are leisure; Aqua mainly pursues fish and Megumin dislikes site fixation. Earlier local rows also NT.
+
+**Contrary, absent and scope limits:** Repeated pleasure alone is not instrumental goal drift; do not manufacture a weakening mission from an unchanged routine.
+
+**Claim transition:** OPEN goal-drift mechanism, without presenting lack of trigger as reliable discipline.
+
+**New V12 evidence route:** C2P0050–0072; EpP0027–0029.
+
+### MG03-D01 — Protector contribution survives fear and finite endurance
+
+**Tranche disposition:** CONFIRMED.
+
+**Local history:** V10 CONFIRMED; V11 CONFIRMED; V12 CONFIRMED.
+
+**Branches:** serious threat/injustice to protected other; recognized responsibility and feasible defensive/institutional contribution; accepted bodily/reputational/institutional cost; effective defensive role versus preserving helplessness.
+
+Defense-aligned serious tasks repeatedly recruit costly bodily contribution; pleasure does not remove the contribution. V10 defensive action, V11 protection and V12 shared binding/aperture blocking/offer to stay protect companions and medicine transport. Real burning, sweat and unconsciousness establish finite capacity.
+
+**Contrary, absent and scope limits:** Sword accuracy and the count bargain fail; recovery plans are poor; Eris eventually rescues her. Neither duty nor masochistic reward proves safe, strategically sufficient or universally self-sacrificing conduct.
+
+**Claim transition:** STRENGTHEN costly defense within actual capacities and competing rewards; retain injury/recovery limits.
+
+**New V12 evidence route:** C4P0170–0220; C5P0370–0388; FP0312–0367,0387–0398.
+
+### MG03-D02 — Agency, audience and belonging determine aversion
+
+**Tranche disposition:** PARTIAL.
+
+**Local history:** V10 PARTIAL; V11 NOT_TESTED for the complete trigger; V12 CONFIRMED.
+
+**Branches:** previously sought bounded scenario; independently established unchosen public exposure, reduced control, or explicit threatened change from equal party membership, including reclassification; previous preferences distinct from current reaction; genuine objection/anxiety/recovery versus uniform welcome.
+
+Audience/meaning sensitivity is supported; reduced control is genuinely mixed; equal-membership threat branch remains untested. V10 unexpected witnesses elicit shame/protest, but real hostage coercion is enjoyed in a familiar-voice fantasy. V12 selected tax capture becomes unexpected public stripping threat and produces protest/flight; later dragging/public-strip fantasy is welcomed. V11 insecurity alone lacks full sought-scenario/change conjunction.
+
+**Contrary, absent and scope limits:** Preserve the actual V10 agency contrary case and later V12 pleasure. Do not exclude enjoyment to save agency aversion, or infer an actual membership change from romance fear. Original repeated uniform-welcome threshold for whole-row falsification is not established.
+
+**Claim transition:** REVISE away from generalized control-loss aversion; model privacy/audience/standing and selected fantasy meaning separately. No automatic compound CONFIRMED from V12 local positive branch.
+
+**New V12 evidence route:** C2P0183–0207,0244–0295; limitsP0315–0329; C3P0064–0095,0257–0277.
+
+### MG03-D03 — Incompatible obligations recruit costly preservation attempts
+
+**Tranche disposition:** NOT_TESTED.
+
+**Local history:** V10 NOT_TESTED; V11 NOT_TESTED; V12 NOT_TESTED.
+
+**Branches:** genuinely incompatible concrete family/noble/civic versus party demands; identifiable people on both sides; negotiation/workaround/cost absorption before easy abandonment; intent versus secrecy/shared-decision procedure.
+
+No full genuinely incompatible family/noble-duty versus continued-party-membership demand is established. V12 accepts real civic, family and religious costs, but coordinated journey/home care supports both obligations; V10/V11 likewise no complete incompatibility.
+
+**Contrary, absent and scope limits:** Temporary role division, coexistence of duties and hard choices do not themselves establish the stipulated mutually incompatible demands.
+
+**Claim transition:** OPEN membership-versus-duty priority; retain evidence of pragmatic compromise without pretending it validates the trigger.
+
+**New V12 evidence route:** C4P0170–0237; C5P0370–0388; FP0019–0033.
+
+### MG03-E01 — Explicit task organization improves deployment but is not sufficient
+
+**Tranche disposition:** PARTIAL.
+
+**Local history:** V10 PARTIAL; V11 PARTIAL; V12 PARTIAL.
+
+**Branches:** independently classified misaligned versus explicit aligned arrangements; deployment reliability comparison; alternative provider adequacy; Kazuma’s initiating/repair versus continuing-direction dependence; completion/harm/goal/ethics separate.
+
+Aligned roles improve local deployment; adequate substitute-provider and comparative continuing-Kazuma-dependence branches remain incomplete. V10 captivity/dragon roles, V11 repaired formation and V12 accepted Darkness strength/local knowledge and explicit acquisition roles support deployment improvement. Darkness/Vanir provide important parts, but no fully comparable whole-problem independent substitute arrangement is established.
+
+**Contrary, absent and scope limits:** Retain organized failures, unavailable resources, target-hostility, missing releases, injuries and Eris intervention. Successful components do not establish safe completion, unique leadership, equal indispensability or whole replacement sufficiency.
+
+**Claim transition:** STRENGTHEN component organization; leave provider/comparative branches OPEN and make resource, handoff, recovery and incentive checks explicit.
+
+**New V12 evidence route:** C5P0049–0060; FP0113–0192,0277–0372,0419–0438.
+
+### MG03-E02 — Durable efficient separation incurs attachment costs
+
+**Tranche disposition:** NOT_TESTED.
+
+**Local history:** V10 NOT_TESTED; V11 NOT_TESTED for the full conjunction; strong adjacent evidence; V12 NOT_TESTED.
+
+**Branches:** feasible practical-efficiency improvement; credible sustained core relationship/home removal; one-or-more member attachment/restoration response; ordinary tactical separation excluded.
+
+No feasible practical-efficiency-promising reorganization credibly removing established core home relationship for a sustained period completes the conjunction. V11 actual Kazuma castle retirement and others resistance are strong adjacent attachment evidence but no stated practical-efficiency advantage to reorganization. V12 romance/household fear and mission absence do not add it.
+
+**Contrary, absent and scope limits:** Kazuma really wanted retirement; do not force a universal individual return preference or turn permission about home/assets into efficiency evidence. Temporary absence is not durable removal.
+
+**Claim transition:** PRESERVE strong particular attachment; OPEN exact efficiency-versus-home test and individual variation.
+
+**New V12 evidence route:** C3P0257–0311,0338–0347; C5P0006–0060; EpP0063–0090.
+
+### MG03-J01 — Register tracks an independently established active role
+
+**Tranche disposition:** PARTIAL.
+
+**Local history:** V10 PARTIAL; V11 PARTIAL; V12 PARTIAL.
+
+**Branches:** role/semantic commitment independently established; mapping and local window fixed before surface outcome; each named speaker-role mapping separately; adverse/unchanged/opposite/insufficient speech retained.
+
+Several independently fixed role mappings gain support; sparse, already-active, role-limited and opposite directions prevent whole compound confirmation. V10 twelve, V11 eleven and V12 fourteen fixed comparisons retain original windows and limitations. V12 personal/public-duty contrasts coexist with ritual ambiguity, sparse question/acceptance, already practical care and emergency directives.
+
+**Contrary, absent and scope limits:** Semantic role/form circularity, unequal windows, audience/domain changes and missing Aqua prestige comparison remain explicit. Correct JV12-09 own-shirt fact outside unchanged fixed registry; do not replace a weak baseline. One mapping cannot conceal another adverse one.
+
+**Claim transition:** REVISE the Kazuma care mapping by independently established quiet relational versus urgent tactical contexts; preserve separate mapping outcomes and no global polite/soft register rule.
+
+**New V12 evidence route:** voice_windows_fixed.json; C1/C2/C3/C4/C5/F/Ep fixed14comparisons.
+
+### MG03-J02 — Comic episodes are predominantly portable or pragmatic
+
+**Tranche disposition:** CONFIRMED.
+
+**Local history:** V10 PARTIAL; V11 PARTIAL / TRANCHE_OPEN; V12 PARTIAL / TRANCHE_OPEN.
+
+**Branches:** complete V10/V11/V12 eligible-episode census before frequency; source-first episode eligibility/segmentation independent of L-class; clear L0–L2/L3/mixed/uncertain categories; strict-majority lower/upper-bound rule; per-volume versus pooled claim.
+
+Formal pooled result after root verification of the complete authorized registers and V12 publication close. 112+112+130=354 episodes. Clear portable106+108+127=341; clearL3=3; mixed=6; uncertain=4. Conservative bounds341/354–351/354 (96.33–99.15%) retain all unresolved in denominator; lower bound exceeds half.
+
+**Contrary, absent and scope limits:** Do not pool forced fine-code consensus, remove short/form-sensitive/soft entries, resegment after coding or erase V10 supplements/V11 preview/V12 boundary-preview provenance. This is descriptive census inference, not a formal reliability or universal-translatability claim. All local PARTIAL/TRANCHE_OPEN labels remain historical.
+
+**Claim transition:** CONFIRM the exact strict-majority forecast after the complete census/close gates; retain unresolved items and generate a fresh future-tranche census prospectively.
+
+**New V12 evidence route:** humor_boundaries_initial_unclassified.json; humor_boundaries_reconciled_preclass.json; humor_classification_primary_SEALED.json.
+
+### MG03-Y01 — Inclusion and a useful role recruit Yunyun's competent participation
+
+**Tranche disposition:** NOT_TESTED.
+
+**Local history:** V10 NOT_TESTED; V11 NOT_TESTED; V12 NOT_TESTED.
+
+**Branches:** real trusted invitation/accepted offer; feasible fitted magic/practical role; preparation and participation; moral conflict versus technical ability/resource/coercion.
+
+No complete valued invitation/shared undertaking with suitable role and actual Yunyun participation is established. V12 report of Megumin visiting/boasting supplies no invitation, task role or response. V10/V11 local rows also NT.
+
+**Contrary, absent and scope limits:** A source report is not categorically ineligible; this report lacks the actual conjuncts. Neither absence nor desire for contact validates behavior.
+
+**Claim transition:** OPEN social inclusion mechanism and avoid a full secondary model from reported mentions.
+
+**New V12 evidence route:** C4P0042–0045.
+
+### MG03-CE01 — Conscientious service can exceed Chris/Eris's preferred burden
+
+**Tranche disposition:** NOT_TESTED.
+
+**Local history:** V10 NOT_TESTED; V11 NOT_TESTED; V12 NOT_TESTED.
+
+**Branches:** public divine/service role; sincere cumulative requests beyond her own expressed preference; possible refusal/exit; continued overburden versus successful self-set boundary.
+
+No public-divine/service accumulation of sincere requests beyond her own expressed preferred burden with feasible refusal establishes the trigger. V12 shows Chris actually arriving and helping a friend, alongside charity/lodging reports and Eris rescue. Kazuma connects the arrival with prior prayer as a causal inference, rather than Chris confessing a divine motive. These do not supply cumulative over-compliance. V10/V11 full trigger absent.
+
+**Contrary, absent and scope limits:** Do not treat every help act as inability to refuse, infer hidden divine motive as fact, or erase specialized anti-demon zeal and ordinary leisure.
+
+**Claim transition:** OPEN bounded burden mechanism; preserve Chris/Eris role distinctions, participant knowledge and source-limited secondary profile.
+
+**New V12 evidence route:** FP0006–0044,0275–0307,0377–0395.
+
+### MG03-I01 — Safe nondeferential interaction expands Iris's agency
+
+**Tranche disposition:** CONFIRMED.
+
+**Local history:** V10 CONFIRMED; V11 CONFIRMED; V12 NOT_TESTED.
+
+**Branches:** trusted ordinary-peer interaction with less surveillance; observed constrained public comparison; behavioral agency change beyond honorifics.
+
+V10/V11 directly shown constrained/public versus safer nondeferential interaction supports role-conditioned Iris behavior. Earlier matched contrasts supply evidence. V12 flattering retrospective stay-or-die account is explicitly possibly edited and not a new direct interaction.
+
+**Contrary, absent and scope limits:** No retrospective invention of earlier speech/tears, global public obedience or universal private impulsivity. Power, status and attachment remain separate dimensions.
+
+**Claim transition:** PRESERVE bounded role-sensitive Iris model; V12 local NT stays NT.
+
+**New V12 evidence route:** C1P0238–0254; C5P0138–0142.
+
+### MG03-I02 — An expressed wish may be narrowed by understood royal duty
+
+**Tranche disposition:** CONFIRMED.
+
+**Local history:** V10 NOT_TESTED; V11 CONFIRMED; V12 NOT_TESTED.
+
+**Branches:** directly evidenced personal wish; understood conflicting royal obligation; reduced request/self-limitation while original wish persists.
+
+V11 directly establishes personal wish, understood royal duty and narrowing of the request. V10 was NT; V11 C1P0333–0361 supplies the explicit wish/duty decision. V12 recalled letter obligation supplies no fresh matched decision.
+
+**Contrary, absent and scope limits:** Retold attachment cannot replace directly established conflicting duty; emotional wish does not entail unbounded override or no residual desire.
+
+**Claim transition:** STRENGTHEN wish–duty negotiation with narrow evidence; preserve V10/V12 absent full tests and actual status constraints.
+
+**New V12 evidence route:** C1P0241–0243,0248; C5P0138.
+
+### Pooled humor arithmetic and limitations
+
+| Volume | Total | Clear portable | Clear L3 | Mixed | Uncertain | Bound |
+|---|---:|---:|---:|---:|---:|---|
+| V10 |112|106|1|1|4|106/112–111/112|
+| V11 |112|108|2|2|0|108/112–110/112|
+| V12 |130|127|0|3|0|127/130–130/130|
+| **Pool** |**354**|**341**|**3**|**6**|**4**|**341/354–351/354**|
+
+9CONFIRMED /5PARTIAL /10NOT_TESTED /1FALSIFIED; descriptive disposition counts, not predictive accuracy. A03 mechanismNT within componentPARTIAL, D02 compoundPARTIAL, E01 compoundPARTIAL. J02 is formally CONFIRMED after root verified the actual complete-census and V12-publication gates.
+
+Counts cannot establish independent trials, calibration, real-world translation quality or universal portability. V10 original105+7addition provenance, V11 incomplete blind aggregate boundary and V12 limited boundary-preview/no-code-sharing provenance survive. Each generation is derived only at its source boundary; no side/bonus/reference material enters.
+
+
+The following identical Gen04 block was accepted by root at2026-10-16T22:12:40.615896+00:00, after V12 and before V13 exposure. Model SHA256 `5ff6cb60408fff2bfc9bab814f311d65128ed4df0703f8ab607c16b963515173`; forecast SHA256 `e553d7cfc5be3fd290ad0471d482ca6fe2c0ffd5db3689600bbf156de71def5c`. Source-branch publication/readback and full exact-head CI remain separate recorded obligations.
+
+# Model Generation 0.4 — Frozen Predictions for V13–V15
+
+These25 accepted prospective commitments are frozen after V12 and before V13 narrative exposure. All25 Outcome and25 Adjudication fields are blank. Original Gen03 model, forecasts, blank fields and local outcomes remain unchanged. Carrying an unvalidated hypothesis does not upgrade its evidence. Each branch receives separate source/missing/adverse evidence and failure diagnosis. A single fully matched contrary case remains local adverse evidence even where a broader repeated-pattern threshold is specified; favorable cases cannot delete it. The exact freeze receipt identifies this block and its identical prediction-ledger copy.
+
+## MG04-K01 — Indirect construction and capability-based revision, with component and recovery limits
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** a serious novel or under-structured problem disadvantages Kazuma in direct power, and he can identify at least one usable rule, tool, environmental feature or incentive.
+- **Relationship/stakes:** combat or institutional stakes; distinguish strangers from valued people whose safety constrains available tactics.
+- **Predicted appraisal:** the apparent power contest can be changed by altering state, sequence, information or other actors' incentives.
+- **Predicted dominant motive:** obtain a workable outcome at lower personal exposure while retaining agency over the method.
+- **Predicted behavior/effect:** He will search rules/tools/environment/incentives, combine or negotiate when direct power is inadequate, and assign fitted specialist actions where usable. If a newly learned capability actually invalidates his first plan, he will revise the method rather than merely repeat it unchanged. Score search, exact capability-based revision and delegation separately. A capture/acquisition plan can still omit safe release or recovery; record that omission independently before outcomes. Success, safety and ethical adequacy are separate.
+- **Interaction tendency:** practical instructions and explicit division of responsibility; opportunistic or unflattering framing may coexist with correct mechanics.
+- **Confidence:** HIGH.
+- **Evidence basis:** CP03-K01, CP03-E01; V07/V08 MG02-K01; V09 `0013:P0065–0144`, `0014:P0043–0076`, `P0199–0258`, `P0374–0391`.; CP04 branch score MG03-K01: Indirect search, exact capability-based revision and fitted delegation all exercised, with different local coverage. V12 route: C2P0218–0239,0244–0290,0333–0363; FP0113–0192,0312–0395. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** Repeated matched problems show only ineffective direct-force repetition or resignation despite an independently usable affordance; or newly learned invalidating capability is understood but he knowingly repeats the same failed method without a competing urgent reason. A missing delegation opportunity is NT for that branch. Independent success or harmful tactics do not themselves falsify the predicted search process; a failed component cannot be erased by eventual rescue.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-K02 — Concrete entrusted need recruits costly effort before certainty
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** a trusted person makes a concrete request whose refusal would leave that person or a valued companion exposed to preventable harm, and Kazuma has some feasible contribution even if no complete solution is known.
+- **Relationship/stakes:** established trust, actual cost or danger; generic appeals to heroism, fame or attractiveness alone do not supply this trigger.
+- **Predicted appraisal:** this is a particular person's problem that he can help reduce, not simply optional public work.
+- **Predicted dominant motive:** preserve the person/relationship while reducing the cost of intervention.
+- **Predicted behavior/effect:** he will complain, bargain, investigate, prepare or seek a cheaper route, but make a substantive contribution rather than abandon the responsibility chiefly for comfort. Commitment may precede a fully credible success plan.
+- **Interaction tendency:** ordinary or grumbling speech can accompany costly help; a polished heroic declaration is not required.
+- **Confidence:** HIGH.
+- **Evidence basis:** CP03-K03; V07/V08 MG02-K02 and DISC-V07-04; V09 `0011:P0478–0486`, `0013:P0164–0171`, `0014:P0473–0494`.; CP04 branch score MG03-K02: V10 and V11 provide concrete trusted requests and substantial effort before complete certainty; V12 adds accepted negotiation mission and costly help, without isolating its initiating request. V12 route: C4P0308–0346; C5P0051–0060,0392–0397; FP0101–0112,0257–0258,0327–0398. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** a clear, feasible contribution exists, but he knowingly leaves the established person exposed primarily to preserve leisure, with no meaningful help, search or relationship-preserving alternative.
+- **Coding and modifiers:** Require a source-established concrete trusted-person request, exposure to preventable harm and feasible contribution before the scored help decision. An accepted mission can support role commitment but cannot establish an unshown initiating request or its timing. Grumbling and mixed motives remain eligible; practical success and ethics receive separate judgments.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-K03 — Active recognition or payback reward expands the next pursuit decision
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** Kazuma receives concrete success feedback or sees an apparently manageable opportunity for recognition/payback, and that personal reward is visibly active before his next decision about scope, pursuit or exposure, whether or not the plan subsequently changes.
+- **Relationship/stakes:** initially tolerable perceived risk; compare the same task before and after feedback. Success without evidence of recognition/payback salience is insufficient.
+- **Predicted appraisal:** he can obtain more advantage, status or retaliation than the original task required.
+- **Predicted dominant motive:** extend the rewarding success state.
+- **Predicted behavior/effect:** he will increase scope, pursuit, taunting or accepted exposure relative to his prior plan. Newly explicit severe danger or harm to a personally known target may instead restore caution; record these pre-existing modifiers before judging the outcome.
+- **Interaction tendency:** victory/credit language or grievance display should accompany the expansion more often than purely duty-based explanation.
+- **Confidence:** MODERATE-HIGH.
+- **Evidence basis:** CP03-K02; V08 MG02-K03; V09 partial test `0011:P0090–0248`; limiting cases `0013:P0065–0097`, `0014:P0434–0448`.; CP04 branch score MG03-K03: Success/recognition/payback salience precedes increased pursuit in independently located decisions. V12 route: C4P0031–0039,0267–0284; FP0146–0155; limiting C3P0335–0370. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** repeated comparable success-plus-personal-reward states leave pursuit unchanged or make it more conservative despite no new threat/relationship cue. Forgotten equipment alone does not count as confirmation.
+- **Coding and modifiers:** Fix the prior scope, actual feedback/reward salience and subsequent decision in that order. Keep already planned fallback, independently known severe danger, prior target commitment and actual relational limits. Arousal with self-excuse is not automatically success-feedback escalation. An unchanged scope under a full original trigger is genuine contrary evidence, not automatic missing salience.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-K04 — Relational commitment can inhibit a quiet choice while renewed arousal recruits an excuse
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** Two independently classified states, scored separately. A: in a private, nonurgent relational decision, a particular companion offers an attractive alternative that conflicts with a commitment Kazuma has already acknowledged, while immediate sexual arousal is explicitly reduced or absent. B: after a source-established boundary/commitment or refusal, immediate arousal or intimate gratification becomes explicitly salient, he knows a feasible way to stop or retain agency, and an exculpatory role/explanation is independently present before the next continuation decision (for example already expressed in thought/speech, or supplied by a source-established prior role/constraint). Record that frame and known feasible stop before coding pursuit. Do not infer frame availability merely from the excuse later constructed, arousal from continuation, or low arousal from refusal.
+- **Relationship/stakes:** Known companions and specific promises or interpersonal boundaries. Preserve initial imposed contact separately from later choices; later participation cannot retroactively consent to it. Existing actual-tears failures and wider harassment remain load-bearing limits.
+- **Predicted appraisal:** A: accepting the available substitute would make his expressed particular attachment or promise dishonest. B: desired gratification conflicts with that commitment, while an account of helplessness can reduce felt responsibility.
+- **Predicted dominant motive:** A: preserve an honest particular relationship while avoiding an answer he cannot give. B: obtain immediate gratification while protecting a defensible self-image.
+- **Predicted behavior/effect:** A: he will state or clarify the particular attachment/limit and refuse treating any attractive substitute as equivalent, even if awkward and disappointed. B: he will weaken the earlier limit through an excuse, coached role or selective account that preserves pursuit despite a known alternative. Score both directions separately; neither is inferred from his later claim about his own resistance.
+- **Interaction tendency:** A favors halting self-disclosure and explicit distinction of motives; B favors qualified responsibility, victim-role language or directions that create the inability later claimed. Neither requires polished moral eloquence.
+- **Confidence:** MODERATE, new conditional competition/transfer hypothesis: C1 explicitly reduced appetite lacks the attractive alternative, and C3 alternative/refusal lacks equally explicit reduced appetite. The full quiet-A conjunction is not already demonstrated by combining them; missing future state evidence is NT. Gen03-K04 is FALSIFIED and retired as a sufficient tear-cue rule; confidence is not restored under a new label.
+- **Evidence basis:** V12 DISC-V12-01 and C1P0335–0376 ordinary companionship under reduced appetite; C3P0335–0384 honest refusal despite reward; C3P0443–0537 initial imposed acts, remembered commitment, known alternatives and later coached helplessness. C3P0470 already expresses the exculpatory frame before recognizing the free handP0473–0474 and coachingP0475, so this chronology does not infer the frame from the later response. Historical limit: V11 C2P0404,0431,0443–0450 clean failed tear cue; V12 C3P0179/0181/0189 remains strong adverse candidate. These do not retrospectively rescore Gen03.; CP04 branch score MG03-K04: V11 is a complete matched failure of the narrowed noticed-tears stopping rule. V12 adds a strong adverse but honestly partly matched case, not a rescue. V12 route: C2P0006–0012; C3P0151,0166–0192,0243–0312; C5P0280–0314; FP0209–0225,0397–0411; C2P0065; C3P0123–0128; C4P0206; reported C5P0138. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** A matched quiet A case knowingly accepts the substitute without clarifying/limiting despite the already salient commitment; or a matched B case autonomously maintains the limit and uses its known feasible stop rather than pursuing or constructing an excuse. Record every noticed-tear continuation as adverse to any broader brake, without adding intimacy-only, harmlessness or non-notice exemptions. Tears alone never supply confirmation of this successor.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-A01 — Established specialist capacity is reliable when engaged, with readiness and downstream effects separate
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** A clearly bounded task uses an already demonstrated ability: healing, purification, resurrection, support/sealing, practiced construction/art, relevant water control, or previously demonstrated nightvision. Require sufficient access/resources and record engagement/readiness independently.
+- **Relationship/stakes:** institutional or explicitly organized service; sufficient access and resources. Record sleep, distraction and activation separately from the quality of execution.
+- **Predicted appraisal:** this is a task within a recognized area of her expertise.
+- **Predicted dominant motive:** execute the familiar service and/or display mastery.
+- **Predicted behavior/effect:** Capacity branch: once engaged with adequate resources she will execute the established-domain task at a high level. Comparative clarity branch: where source evidence independently supplies sufficiently comparable clear versus misaligned/unclear goals with domain/access/resources recorded, the clear arrangement will produce fewer task errors. Score capacity execution, readiness at the required moment and comparative clarity separately. A bounded successful task without the comparison is NT for comparative clarity, not a causal confirmation of error reduction. No competence in unobserved domains or guaranteed readiness is implied.
+- **Interaction tendency:** confident directives, demonstration or professional pride may be accurate rather than empty boasting.
+- **Confidence:** HIGH for the established domains.
+- **Evidence basis:** CP03-A01; V07/V08 MG02-A01; V09 `0012:P0238–0272`, `0014:P0043–0076`, `P0080–0110`.; CP04 branch score MG03-A01: Engaged execution of established abilities repeatedly succeeds under bounded access/resources, distinct from readiness and system effects. V12 route: C2P0234–0240; C4P0300–0320; FP0398–0424. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** Capacity: repeated engaged adequately resourced established-domain tasks fail chiefly through domain inability/misunderstanding. Comparative clarity: independently matched clear-versus-misaligned arrangements show no predicted improvement or contrary error pattern. A clean single contrary branch remains local adverse evidence. If no sufficient comparison exists, comparative clarity is NT even when capacity succeeds. Readiness is separately observed and cannot be inferred from ability; a new craft is not mastered merely because construction was.
+- **Coding and modifiers:** Nightvision is explicitly within this new-generation domain list because it was demonstrated earlier and redeployed in V12; it is not newly discovered and remains outside original Gen03-A01 list. Preserve historical source-witness identity limits. Distinguish asleep/unavailable readiness, spell quality, diagnosis, system consequences, symptomatic support and cure. Record the three capacity/readiness/comparative-clarity dispositions independently, with missing comparison left NT.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-A02 — A direct prestige challenge can displace an identifiable assignment
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** an ongoing instrumental assignment is interrupted by a challenge to Aqua's divinity, followers, superiority or public recognition, and the prestige contest offers a response distinct from completing the task.
+- **Relationship/stakes:** the challenger need not be a friend; the original assignment and its constraints must be identifiable before the challenge.
+- **Predicted appraisal:** letting the status claim stand is immediately intolerable or more salient than the task.
+- **Predicted dominant motive:** compel acknowledgment or win the status contest.
+- **Predicted behavior/effect:** she will escalate assertion, performance or power use and loosen at least one original task constraint. Competent ability may magnify the collateral cost. Directly acknowledged imminent harm can be a competing cue, but must be observed rather than inferred after the fact.
+- **Interaction tendency:** self-naming, divine/faction titles, demands for apology or mirrored disparagement.
+- **Confidence:** HIGH for the trigger class; exact severity remains uncertain.
+- **Evidence basis:** CP03-A02; V08 MG02-A02; V09 `0013:P0256–0300`, `0014:P0016–0022`.; CP04 branch score MG03-A02: V10/V11 matched direct prestige contests can displace an identifiable assigned purpose. V12 route: C4P0092–0100,0300–0335; C5P0055–0056; FP0428–0431. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** repeated clear prestige challenges leave the separate assigned goal and constraints intact without another actor preventing escalation or independently acknowledged imminent harm already competing with it. Other proposed explanations remain rival accounts or adverse evidence for revision, not automatic exclusions.
+- **Coding and modifiers:** Fix original assignment and constraint before direct divinity/follower/superiority/public-recognition challenge. Rival presence, a task-directed ingredient attack or a branded additive is not sufficient. Classify any independently acknowledged imminent harm before response and retain external inhibition versus self-restraint separately.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-A03 — Work-specific recognition can sustain repeated owned service — explicit temporal test
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** Aqua demonstrably knows the required service, has an identified beneficiary/responsibility, and receives acknowledgment specifically for the actual useful work. After that acknowledgment, at least two separately identifiable further opportunities to perform the same service occur while resources, beneficiary need and recognition alignment remain available. This two-opportunity threshold is a new prospective Gen04 measurement choice, never a retroactive Gen03 rule.
+- **Relationship/stakes:** Record externally imposed versus voluntarily owned assignment, any distinct prestige challenge and any newly observed interruption before each opportunity. Return-time offerings after an elided long task do not establish recognition-before-continuation.
+- **Predicted appraisal:** Continued useful performance enacts the valued competent role and sustains acknowledgment from a beneficiary/audience tied to the work.
+- **Predicted dominant motive:** Enjoy useful mastery, beneficiary care and role-linked recognition together rather than replace service with a separate status contest.
+- **Predicted behavior/effect:** Across the two post-recognition opportunities she will continue the required useful output; display or sharing rewards may coexist while the core service is completed. Score output, voluntary ownership and recognition timing separately. Positive temporal recurrence supports this conditional behavioral forecast, not unique recognition causation: ownership, particular-person care, habit and material reward remain rival sustainers unless independent motive/comparison evidence distinguishes them. A single meal with several dishes, a promised lesson or retrospective duration is not sufficient.
+- **Interaction tendency:** Confident instruction, uptake of a useful role or beneficiary-oriented action may accompany continuation, without requiring an apology.
+- **Confidence:** MODERATE for the recognition-conditioned mechanism, unvalidated in Gen03 V10–V12; HIGH for actual V12 sustained care as a separate observation.
+- **Evidence basis:** CP03-A02/03; DISC-V07-02; V09 `0014:P0016–0019`, `P0043–0110`.; CP04 branch score MG03-A03: Known service, beneficiaries, ownership and recognition are observed; V12 adds sustained actual work. Recognition-conditioned continuation itself remains NOT_TESTED across the tranche. V12 route: C5P0049–0055; FP0412–0422; PrP0013–0015. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** Under the complete pre-established temporal structure, post-recognition repeated opportunities produce refusal, abandonment or merely decorative output despite still-available resources/need and no independently observed distinct contest/interruption. If recognition follows the work or later opportunities are unshown, the mechanism is NT, regardless of valuable service. A self-selected decorative diversion is an outcome to score, not an automatically external interruption that removes the case.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-A04 — Unvalued maintenance with an available maximal shortcut
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** repetitive maintenance remains low in Aqua's expressed valuation and a concretely available, attractive one-step high-power alternative is established.
+- **Relationship/stakes:** no salient learned analogue or strong external constraint already rules out the shortcut; all these conditions must be checked before counting a test.
+- **Predicted appraisal:** the rapid high-output method avoids tedious work.
+- **Predicted dominant motive:** remove the immediate burden quickly.
+- **Predicted behavior/effect:** she will prefer the shortcut while giving insufficient attention to a secondary system it affects.
+- **Interaction tendency:** confident simplification or dismissal of labor may accompany the choice; no special phrase is required.
+- **Confidence:** MODERATE, inherited; unvalidated in V07–V09 and still unvalidated in V10–V12 for the full low-valued-maintenance/available-maximal-shortcut/no-salient-constraint conjunction.
+- **Evidence basis:** CP03-A04; V04–V06 checkpoint §5 and unchanged MG02-A04; V09 `0014:P0054–0110` is a non-test/countercondition, not confirming evidence.; CP04 branch score MG03-A04: No complete low-valued repetitive maintenance plus available attractive one-step maximal alternative and absence of salient learned constraint is supplied. V12 route: C4P0300–0335; FP0419–0431. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** matched cases repeatedly show calibrated routine performance despite the available shortcut, with no learned analogue or external constraint already accounting for it. Mere speed, effective drying or any manual work does not establish the trigger.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-M01 — Protected specialty activation and ordinary-cost priority are separately tested
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** a rival, including a companion acting as a rival, explicitly denigrates, replaces or imitates Explosion in a way Megumin treats as a challenge to her specialist identity.
+- **Relationship/stakes:** ordinary financial, equipment, convenience or status cost to companions is known; neither an independently expressed conclusion that her build seriously burdens them nor an independently recognized imminent grave companion-harm cue is active before her response. Record mixed-trigger episodes separately rather than deriving eligibility from which motive wins.
+- **Predicted appraisal:** the challenge attacks a defining value rather than offering a neutral efficiency improvement.
+- **Predicted dominant motive:** preserve the legitimacy and distinctiveness of Explosion.
+- **Predicted behavior/effect:** she will defend, compete, reject the replacement or retaliate; known ordinary companion cost alone will not reliably secure compromise. Record any attempt at redirection rather than treating all escalation as uncontrolled.
+- **Interaction tendency:** specialist naming, theatrical assertion and precise denial of equivalence.
+- **Confidence:** HIGH for defensive identity activation; MODERATE for its priority over known companion utility.
+- **Evidence basis:** CP03-M01/05; V07 MG02-M01 and partial MG02-M02; V09 `0011:P0559–0617`, `0013:P0082–0104`.; CP04 branch score MG03-M01: Specialist identity defense is supported, but priority over independently known ordinary companion cost is not cleanly isolated. V12 route: C2P0055–0071; EpP0013–0026. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** repeated clean identity challenges lead to easy compromise because of ordinary companion cost alone, without visible identity conflict, retaliation or an independently evidenced higher-order burden/harm appraisal.
+- **Coding and modifiers:** Score identity defense separately from the subsequent known ordinary companion-cost choice. A named rival spell or equivalence challenge is not interchangeable with general competence criticism or mockery of a shared ritual. Higher-order build-burden and grave-harm appraisals are established before outcome; retain mixed states. Gen03 identity branch is supported, ordinary-cost-priority branch remains incompletely tested.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-M02 — Internally accepted contribution guilt can reopen the build
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** Megumin herself concludes that her exclusive specialization materially prevents her from contributing to valued companions, rather than merely hearing an opponent's criticism.
+- **Relationship/stakes:** established companions; the perceived burden is substantial and attributed to the build, not inability to attack one particular person.
+- **Predicted appraisal:** protecting the specialty may conflict with remaining useful and wanted.
+- **Predicted dominant motive:** preserve contribution and belonging, despite genuine love of Explosion.
+- **Predicted behavior/effect:** she will seriously consider compromise, a changed role or abandonment of the exclusive build, with visible loss or reluctance. Others' reassurance may alter the decision, but should not erase the initial conflict.
+- **Interaction tendency:** quieter, apologetic or explicit cost language is expected when the self-appraisal is expressed; the role is no longer only that of a challenged rival.
+- **Confidence:** MODERATE, carried as a guarded unvalidated contribution-guilt inversion. Romance insecurity or a poor-magician label does not complete the trigger.
+- **Evidence basis:** CP03-M02; V04–V06 checkpoint §6 and unchanged MG02-M01 Trigger B. A changed-role option is a Gen03 extension, not an already validated outcome; neither it nor the inherited trigger received a matched V07–V09 test. V09 `0014:P0412–0419`, `P0766–0783` are distinct target/guilt cases, not validation of this build-burden trigger.; CP04 branch score MG03-M02: No newly accepted conclusion that the exclusive build materially prevents substantial contribution establishes the guilt/reconsideration trigger. V12 route: C1P0277–0285; C5P0049–0052; FP0424–0432. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** repeated explicit, substantial self-attributed build burdens produce no meaningful conflict or consideration of compromise, even when a feasible alternative is recognized.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-M03 — Safe separated targets expose reliable artillery
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** a target within Explosion's established capacity/range is dense or immobilized; friendlies are safely separated; resource use and the post-cast exit/carry requirement are planned.
+- **Relationship/stakes:** no identified valued person occupies the target role. The conditions must be established before evaluating the result.
+- **Predicted appraisal:** the task offers a legitimate, technically suitable use of the chosen specialty.
+- **Predicted dominant motive:** perform and demonstrate Explosion effectively.
+- **Predicted behavior/effect:** she will execute reliable terminal fire, making the specialization highly useful for that task. This predicts tactical efficacy; it does not predict restraint toward defeated enemies or sound choice of the campaign's larger objective.
+- **Interaction tendency:** exuberance and theatrical display may coexist with accurate execution; a full incantation is not required for demonstrated V09-level control.
+- **Confidence:** MODERATE for the complete prepared tactical conjunction, unvalidated in V10–V12; demonstrated destructive power and calibrated leisure control are separate stronger claims.
+- **Evidence basis:** CP03-M03; V07 MG02-M03; V09 `0014:P0199–0242`, `P0261–0304` are matched deployment evidence; `P0534–0544` supports technical capacity only because its personally valued target does not match this prediction. The incantation is omitted there, while the spell name is voiced.; CP04 branch score MG03-M03: Full prepared tactical artillery conjunction remains unexercised in the tranche. V12 route: C2P0050–0064; EpP0003–0018,0028–0036. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** repeated fully matched target/resource/exit cases fail because of her own ordinary target-selection or execution process, despite no new relational inhibition or external interference.
+- **Coding and modifiers:** Fix target geometry, friendly positions, resource and post-cast exit/carry plan before casting. Post-cast assistance does not prove a prior plan; success alone cannot establish missing conditions.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-M04 — A valued target creates a separate firing constraint
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** a task calls for decisive harm to someone whom the source independently establishes as personally valued by Megumin through rescue, teaching, gratitude or another significant relationship.
+- **Relationship/stakes:** that person is now an opponent or obstacle; technical feasibility and urgent reasons to act may both be present.
+- **Predicted appraisal:** the target carries a relationship obligation that cannot be reduced to a combat category.
+- **Predicted dominant motive:** reconcile protection/duty with attachment or gratitude.
+- **Predicted behavior/effect:** she will show meaningful hesitation, a search for acknowledgment/choice, or inability to execute before or during a personally meaningful acknowledgment or choice; acting need not resolve subsequent guilt. If she acts, immediate celebratory ease is less likely than residual emotional cost. Record pre-action relational friction and post-action emotional cost separately. The mechanism does not depend on a target merely looking human.
+- **Interaction tendency:** direct relational address or an attempted personal question can interrupt ordinary specialist theater.
+- **Confidence:** MODERATE, exact valued-person opponent/obstacle constraint unvalidated in V10–V12.
+- **Evidence basis:** CP03-M04; V09 `0014:P0007–0015`, `P0365–0419`, `P0473–0544`, `P0766–0816`.; CP04 branch score MG03-M04: No complete required decisive harm to an established personally valued person acting as opponent/obstacle is supplied. V12 route: C4P0339–0341; EpP0033–0035. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** a comparably established valued-target conflict produces effortless execution without meaningful pre-action relational friction despite the salient bond. This is adverse to the firing-constraint component even if regret follows. Easy celebration without meaningful emotional aftermath is separately adverse to the aftermath component. A target with no such history is not a test.
+- **Coding and modifiers:** The V12 proposed familiar sacrifice remains adverse to broad automatic care but was stopped and is not an executed valued-person combat test. Do not alter original person/opponent requirements or invent an act.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-M05 — Explicit serious companion harm remains a guarded prediction
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** Megumin knows that the best available tactical Explosion use would directly expose a valued companion to grave bodily harm, with the risk and alternatives made clear in the source.
+- **Relationship/stakes:** current valued companion; establish anticipated harm magnitude, Megumin's knowledge, alternatives and the tactical requirement independently. Minor displacement without established anticipated grave injury is distinct; uncertain severity remains ambiguous/adverse collateral, not automatically harmless comedy. An enemy's attack is not her own friendly-fire choice.
+- **Predicted appraisal:** success would impose a personally unacceptable relational cost unless it is justified or authorized.
+- **Predicted dominant motive:** protect the companion while responding to the tactical need.
+- **Predicted behavior/effect:** she will hesitate, object, seek consent/authorization, redirect, or otherwise show clear friction relative to ordinary enthusiastic casting.
+- **Interaction tendency:** explicit concern or negotiation is evidence; a token catchphrase is not.
+- **Confidence:** MODERATE, the exact grave direct companion-harm tactical branch remains unvalidated in V10–V12.
+- **Evidence basis:** CP03-M05; V04–V06 checkpoint §6 / unchanged MG02-M04; adverse V09 `0011:P0254–0271`; distinct care evidence `0013:P0206–0208`.; CP04 branch score MG03-M05: Best-available tactical Explosion with clearly understood grave direct companion harm and available alternatives is not established. V12 route: EpP0014–0016; C4P0339–0341. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** a clean matched case produces enthusiastic casting without relational friction despite her explicit understanding of the grave companion risk. Do not reclassify an adverse matched outcome as harmless comedy after observing it.
+- **Coding and modifiers:** Explicit power reduction for recovering Sylphina establishes control/care, not this full grave-harm tactical test. Record source-known gravity, available alternatives and best tactical option before response; proximity alone is insufficient.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-M06 — Repeated rewarding fire can become its own objective
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** a sustained operation repeatedly permits safe, effective Explosion and provides visible skill/experience growth or equivalent specialist reward; the original instrumental objective is approaching completion or has weakened.
+- **Relationship/stakes:** impersonal enemy/obstacle targets; no independently active valued-target or grave companion-harm conflict.
+- **Predicted appraisal:** another opportunity to fire/grow remains desirable even when marginal mission value falls.
+- **Predicted dominant motive:** continue the specialty reward.
+- **Predicted behavior/effect:** she will seek additional casts, denser targets or an extended opportunity; a companion may need to restate the original goal. Tactical success can persist while goal discipline declines.
+- **Interaction tendency:** language of casting, spectacle or growth will increasingly replace the original mission rationale.
+- **Confidence:** MODERATE, carried as an unvalidated sustained instrumental goal-drift hypothesis.
+- **Evidence basis:** CP03-M03/05; V09 `0014:P0268–0321`, especially `P0286–0316`.; CP04 branch score MG03-M06: No sustained instrumental operation repeatedly rewarding Explosion growth while mission purpose weakens is shown. V12 route: C2P0050–0072; EpP0027–0029. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** repeated matched reward sequences lead her to stop or narrow use when the instrumental objective is achieved, without an external limit or another already established higher-priority conflict.
+- **Coding and modifiers:** Distinguish leisure repetitions and incidental fish utility from an actual instrumental mission losing ground as repeated Explosion rewards grow. A missing weakening-mission condition is NT.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-D01 — Costly defense persists with pleasure and finite endurance
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** a person Darkness treats as her responsibility faces serious harm or injustice, and she has a feasible defensive or institutional intervention.
+- **Relationship/stakes:** a protected person or companion; distinguish chosen fantasy danger from an independently visible threat to someone else.
+- **Predicted appraisal:** she has a responsibility to absorb or oppose the threat.
+- **Predicted dominant motive:** protect and contribute, even where fear, embarrassment or bodily reward also exists.
+- **Predicted behavior/effect:** she will accept bodily, reputational or institutional cost. In a defense-aligned task she will use interposition/endurance rather than deliberately preserve helplessness. Equipment and opponent force may still overwhelm her.
+- **Interaction tendency:** protector/noble assertions or blunt action may precede concern for her own comfort.
+- **Confidence:** HIGH.
+- **Evidence basis:** CP03-D01; V07/V08 MG02-D01/D03; V09 `0011:P0549–0553`, `0012:P0213–0272`, `0013:P0075–0077`, `P0146–0163`.; CP04 branch score MG03-D01: Defense-aligned serious tasks repeatedly recruit costly bodily contribution; pleasure does not remove the contribution. V12 route: C4P0170–0220; C5P0370–0388; FP0312–0367,0387–0398. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** despite recognizing serious unjust harm and a feasible contribution, she preserves rank/self-protection chiefly for convenience, or repeatedly sabotages the needed defensive role merely to remain helpless.
+- **Coding and modifiers:** Count actual protective target/resource/handoff and bodily costs independently of whether pleasure is present. Sweat, burns, failed accuracy, collapse and outside rescue remain consequences. Contribution does not prove safe extraction, sufficient strategy or universally prioritized duty.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-D02 — Previously established privacy or standing boundaries predict objection; control loss alone does not
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** An otherwise sought bounded event acquires either (A) an independently established unexpected audience/exposure condition that conflicts with a privacy preference expressed before the response, or (B) an explicit threat to previously valued equal companion standing. Establish the changed condition and prior preference independently of her reaction: the objection being scored cannot be the only evidence of the prior boundary. Fix the comparison baseline before outcome and keep partially matched cases when independent preference is missing. A completed membership loss is not required for an explicit matching threat.
+- **Relationship/stakes:** Fix controller, witnesses, chosen scenario and standing at risk. Reduced control or intense pain alone does not trigger this new directional forecast; all such cases are still logged as transfer evidence. This narrowing is a new successor to a mixed Gen03 compound, not rescoring its adverse agency case.
+- **Predicted appraisal:** A specific unwanted audience/standing change threatens the dignity or belonging she previously valued outside the desired fantasy.
+- **Predicted dominant motive:** Recover the identified privacy, dignity or ordinary companion standing, possibly alongside continuing bodily attraction.
+- **Predicted behavior/effect:** A: direct objection, concealment, negotiation or flight will increase after the changed boundary. B: anxiety, protest or acceptance-seeking will increase after the explicit threat. Score A and B separately; later adoption/enjoyment of the scenario does not retroactively consent to the initial imposition and is retained as changed reward appraisal.
+- **Interaction tendency:** Direct personal perspective under privacy threat; unusually explicit belonging/acceptance requests under standing threat. Public noble formality is not necessary.
+- **Confidence:** HIGH for audience/meaning sensitivity in observed cases; MODERATE for new standing transfer. No general loss-of-control-aversion claim.
+- **Evidence basis:** CP03-D02 and inherited earlier audience/standing evidence; V10 C1P0135–0147/C3P0425–0454 audience shifts, and C5P0552–0581/P0665–0669 actual control countercase plus witness shame; V12 C2P0273–0295 direct exposure objection/flight and P0315–0329 later chosen pleasure; C3P0067–0095 bodily perspective and P0257–0347 attachment without full membership trigger.; CP04 branch score MG03-D02: Audience/meaning sensitivity is supported; reduced control is genuinely mixed; equal-membership threat branch remains untested. V12 route: C2P0183–0207,0244–0295; limitsP0315–0329; C3P0064–0095,0257–0277. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** Repeated full A/B cases show no objection/anxiety/recovery and uniformly welcome the independently rejected boundary/standing change. Any single matched countercase remains adverse even before repeated-case threshold. Do not remove the V10 real-hostage enjoyment or V12 later public-strip fantasy because it is pleasurable; those constrain the broader model and original Gen03 PARTIAL.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-D03 — Incompatible obligations recruit costly preservation attempts
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** family/noble/civic duty and continued party membership make genuinely incompatible concrete demands.
+- **Relationship/stakes:** obligations to identifiable people on both sides, rather than an abstract preference for prestige or temporary deployment apart.
+- **Predicted appraisal:** simply dropping either responsibility would betray a valued part of her life.
+- **Predicted dominant motive:** protect people and preserve both commitments if possible.
+- **Predicted behavior/effect:** she will try negotiation, procedural workarounds or personally costly absorption before easy abandonment. Her V07 secrecy/self-erasure remains a possible procedural error; protective intent does not guarantee shared decision-making.
+- **Interaction tendency:** duty language may conceal personal need; other members may need to challenge her assumption that she must bear the cost alone.
+- **Confidence:** MODERATE, exact genuinely incompatible family-duty/continued-membership conflict remains unvalidated in V10–V12.
+- **Evidence basis:** CP03-D03; V07 MG02-D04 / DISC-V07-01; V09 `0013:P0146–0163` is a bounded command-obligation analogue, not a new full family/party test.; CP04 branch score MG03-D03: No full genuinely incompatible family/noble-duty versus continued-party-membership demand is established. V12 route: C4P0170–0237; C5P0370–0388; FP0019–0033. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** she discards either established relationship or recognized duty for convenience or prestige without visible conflict or preservation attempt despite feasible alternatives.
+- **Coding and modifiers:** Ordinary coexisting civic/family/party duties, compatible temporary division or costly mission assistance do not establish mutually incompatible demands. Preserve independent evidence of the duties before response.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-E01 — Explicit fit improves local deployment, with provider and comparative dependence separately tested
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** a serious multi-stage problem requires several established specialist capacities, and source evidence permits comparison between missing/misaligned organization and an arrangement with explicit roles, targets, resources and handoffs. Classify these arrangements and incentive alignment independently of the eventual result.
+- **Relationship/stakes:** record practical task completion, friendly harm, goal discipline and moral objections separately. Temporary allocation apart does not mean loss of membership.
+- **Predicted appraisal:** participants identify a usable contribution when the arrangement fits their actual abilities and incentives.
+- **Predicted dominant motive:** solve the common task while preserving salient individual values.
+- **Predicted behavior/effect:** the aligned arrangement will improve reliable deployment relative to the earlier missing/misaligned state: more intended specialist actions completed at assigned targets/times, fewer failed handoffs, or fewer missing required resources. A capable institution/domain expert can supply the arrangement. Where it has not been supplied, Kazuma will more often initiate or repair it; where another actor supplies it, successful deployment need not depend on his continuing direction. Score deployment improvement, alternative-provider adequacy and Kazuma's comparative contribution separately. A concealed target relationship or misaligned reward can still disrupt a technically sound plan.
+- **Interaction tendency:** directives, signaling, handoffs and corrections will make the practical arrangement visible; do not infer organization merely from eventual victory.
+- **Confidence:** HIGH for the bounded deployment mechanism; no universal necessity or sufficiency theorem is claimed.
+- **Evidence basis:** CP03-E01; V07/V08 MG02-E01; V09 contrast `0011:P0120–0271` with `0014:P0054–0110`, `P0199–0258`; relational failure `0014:P0365–0419`.; CP04 branch score MG03-E01: Aligned roles improve local deployment; adequate substitute-provider and comparative continuing-Kazuma-dependence branches remain incomplete. V12 route: C5P0049–0060; FP0113–0192,0277–0372,0419–0438. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** across comparable multi-stage problems, explicit alignment produces no improvement in deployment, or specialist availability alone repeatedly yields equally reliable safe task completion without observable coordination; also adverse is persistent dependence on Kazuma despite an alternative arrangement independently shown to supply the required roles, resources and handoffs.
+- **Coding and modifiers:** Use three recorded outcome vectors: A intended specialist deployment improvement relative to source-classified misalignment; B alternative provider independently adequate for the actual roles/resources/handoffs; C Kazuma initiating/repair contribution versus continuing dependence when B holds. Record recovery resources, target knowledge and goal incentives before outcome. An expert providing one phase is not automatically adequate for the whole multistage problem. Preserve successful parts, injuries, moral objections and outside rescue independently.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-E02 — Durable efficient separation incurs attachment costs
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** a feasible reorganization promises practical efficiency but credibly removes an established core party/home relationship for a sustained period.
+- **Relationship/stakes:** established members, meaningful permanence; ordinary raids, errands, a night out or romantic awkwardness alone do not qualify.
+- **Predicted appraisal:** the proposal loses something valued beyond instrumental usefulness.
+- **Predicted dominant motive:** retain relationship, membership or meaningful contact.
+- **Predicted behavior/effect:** one or more core members will resist, bargain, return, protect contact or bear a cost to preserve the bond. Ordinary insults need not soften and temporary tactical separation can remain acceptable.
+- **Interaction tendency:** relationship/home language and practical restoration attempts are stronger evidence than generic declarations that everyone is friends.
+- **Confidence:** MODERATE, exact practical-efficiency versus durable-home-removal test unvalidated in V10–V12 despite strong attachment evidence.
+- **Evidence basis:** CP03-E02; V07 MG02-K04/E02; V09 `0010:P0343–0374`, `0014:P0549–0551`, `0015:P0017–0026` provide non-test supporting evidence.; CP04 branch score MG03-E02: No feasible practical-efficiency-promising reorganization credibly removing established core home relationship for a sustained period completes the conjunction. V12 route: C3P0257–0311,0338–0347; C5P0006–0060; EpP0063–0090. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** durable efficient separation is accepted with sustained relief and little attachment cost despite feasible ways to preserve the established relationship.
+- **Coding and modifiers:** Require a feasible reorganization with a source-established practical-efficiency benefit and credible sustained loss of an established core home relationship. Permission concerning home/assets, affection, romance fear and temporary mission absence cannot invent that benefit. Score individual variation; Kazuma’s actual V11 retirement preference prevents universal return claims.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-J01 — Role-conditioned written stance with quiet-care and tactical-care directions separated
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** A scene independently establishes an actual role/stake change and adequate before/after speech. Classify speaker, addressee, audience, duty/identity/vulnerability and immediate danger before language coding; if care/duty already active, log an intensified-state comparison rather than invent a new role onset.
+- **Relationship/stakes:** Semantic content may establish a commitment/role, but its formal wording is then excluded from successful surface evidence. Freeze the mapping and exact comparison windows before coding, keeping weak/sparse/adverse cases. Unequal windows are not a frequency experiment.
+- **Predicted appraisal:** The independently active role supplies the practical, identity, dignity or relational purpose of the utterance; tactical danger changes what an effective care response needs to accomplish.
+- **Predicted dominant motive:** Obtain authority, recognition, safety, task deployment or particular-person acceptance appropriate to that independently established role, rather than execute a universal polite/loud character style.
+- **Predicted behavior/effect:** Score mappings separately. Megumin specialist challenge: competitive assertion/denial; an explicit spell-legitimacy comparison additionally predicts specialist identification, while ritual mockery is retained as an identity-adjacent subtype. Personal gratitude/vulnerable appeal: direct relational address/request. Aqua service: practical directives; direct divine-status contest: self-legitimation/acknowledgment demands. Darkness public duty: institutional/protector framing; independently established dignity threat: personal objection; belonging threat: acceptance requests. Kazuma quiet relational care: ordinary questions/offers/self-disclosure relative to reward/grievance; independently new urgent tactical care from a previously nonurgent grievance/reward state: the after-window will contain a task-specific command, resource request or handoff instruction that redirects speech toward protecting the companion. This is a definite functional-direction prediction, not merely permission for commands; absent/opposite direction with adequate speech is adverse. An already practical baseline cannot confirm a new onset and is logged separately as an intensified-state/role-limited comparison. A mere vulnerable companion without independently adopted care remains role-limited.
+- **Coding rule:** before classifying the language outcome, record the independently evidenced role, select the applicable mapping and fix the local comparison window around the semantic change. Score each mapping separately. Keep the assignment when unchanged or opposing wording appears; it is adverse evidence. Insufficient comparable speech is NOT_TESTED. Neutral connective speech and exact lexical choices are not themselves outcomes.
+- **Confidence:** MODERATE-HIGH for bounded role conditioning; individual mappings and newly separated crisis-care direction have distinct coverage/confidence. Original Gen03 whole mapping remains PARTIAL.
+- **Evidence basis:** CP03-J01; V07/V08 MG02-J01; V09 `0011:P0478–0486`, `0013:P0082–0104`, `0014:P0054–0094`, `P0459–0484`, `P0534–0544`, `P0784–0815`.; CP04 branch score MG03-J01: Several independently fixed role mappings gain support; sparse, already-active, role-limited and opposite directions prevent whole compound confirmation. V12 route: voice_windows_fixed.json; C1/C2/C3/C4/C5/F/Ep fixed14comparisons. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** Repeated full mapped role changes yield unchanged/opposite wording with adequate speech, or apparent fit requires changing role/mapping/windows after observing the language. A supported mapping cannot hide another adverse one. Sparse comparable speech is NT. Preserve already-active-role and factual-description errata visibly rather than replace a baseline.
+- **Interaction tendency:** Role and addressee alter stance without determining a sentence ending, exact word, globally softened tone or catchphrase rate.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-J02 — Complete V13–V15 comic census has a strict portable-mechanism majority
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** A complete source-first census of qualifying comic episodes across authorized V13–V15 principal main narratives, pooled across that new tranche. Per-volume results remain local contributions. No source outside that scope is admitted by this forecast.
+- **Relationship/stakes:** no character-specific condition. Identify episode eligibility and boundaries independently of L-class. Include verbal/written-form episodes and recurrent gags even when the only consequence is an immediate response or narrator retort; brevity alone is not an exclusion.
+- **Predicted appraisal:** not applicable to a single character; this is a distributional literary prediction.
+- **Predicted dominant motive:** Not a single-character dominant motive; see distributional effect.
+- **Predicted behavior/effect:** more than half the eligible episodes will have a primary comic mechanism preserved through situation, causal reversal, timing, role or ordinary register/pragmatic equivalents (L0–L2), rather than requiring Japanese-specific reconstruction or annotation (L3).
+- **Inclusion/segmentation rule:** an episode presents an expectation or stance and a comic reversal, violation, contrast or response. A continuous run around the same premise counts once, including nested jokes; a later callback counts separately only when a new scene supplies its own setup/response. Record every eligible episode with its source locator before assigning the primary mechanism. Do not select only action-based or plot-consequential scenes.
+- **Classification/scoring boundary:** log clear L0–L2, clear L3, mixed and uncertain cases separately. For a completed nonempty census, CONFIRMED requires clear L0–L2 cases to exceed half of all eligible episodes even assigning every unresolved case to L3. FALSIFIED applies when L0–L2 cannot exceed half even assigning every unresolved case to L0–L2; this includes a fully resolved tie. AMBIGUOUS applies when unresolved cases can change whether the strict majority is reached. An empty eligible set is NOT_TESTED. Incomplete census permits only PARTIAL qualitative reporting, not a tranche frequency claim. Cultural dependence is flagged separately. This new frequency test does not retroactively quantify Gen02's qualitative major-sequence judgment.
+- **Confidence:** MODERATE for a fresh V13–V15 tranche under the already explicit rule. The prior V10–V12 quantified lower bound341/354 supports the prediction, with segmentation, exposure, coding and unresolved-case limits; it is not statistical calibration or predetermined future classification.
+- **Evidence basis:** Gen03’s completed V10–V12 pool341clearportable/354 with10unresolved and3clearL3; inherited source-first segmentation/coding protocol and all documented limits. Prior counts support a fresh prediction, not predetermined future classes.
+- **Disconfirmation:** the completed census establishes failure of the strict L0–L2 majority under the bound rule above, including a fully resolved tie. A result achieved only by excluding short form-dependent episodes or changing boundaries after classification is invalid evidence, not confirmation.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-Y01 — Inclusion and a useful role recruit Yunyun's competent participation
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** trusted companions explicitly include Yunyun in a shared undertaking, including accepting her offer to join, and give her access to a role suited to her established magic or practical knowledge.
+- **Relationship/stakes:** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.
+- **Predicted appraisal:** she can belong by making a useful contribution.
+- **Predicted dominant motive:** participate and help while preserving the valued connection.
+- **Predicted behavior/effect:** she will prepare and carry out the relevant role despite awkwardness or anxiety, sometimes overpreparing or overoffering. Moral or relational distress may produce objections without immediately ending participation; distress or interrupted commitment under a directly conflicting personal obligation remains context to record; it is not automatically a failed technical execution.
+- **Interaction tendency:** hesitant acceptance can coexist with technically effective direction and explicit disagreement.
+- **Confidence:** MODERATE, exact invitation/suitable-role/participation mechanism unvalidated in V10–V12.
+- **Evidence basis:** CP03-Y01; V07 deep reading / relationship ledger Yunyun support; V09 `0011:P0641–0658`, `0012:P0152–0160`, `0013:P0154–0156`, `0014:P0199–0242`, `P0305–0310`, `P0378–0391`, `P0459–0467`, `0015:P0025–0026`.; CP04 branch score MG03-Y01: No complete valued invitation/shared undertaking with suitable role and actual Yunyun participation is established. V12 route: C4P0042–0045. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** repeated genuine invitations with feasible familiar roles produce sustained indifferent refusal or poor participation unrelated to a documented conflicting obligation, ability/resource limit or coercive condition.
+- **Coding and modifiers:** Reports remain eligible if they actually establish the full undertaking/role/response; a mention or report of being visited supplies none by itself. Do not substitute inferred longing for participation.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-CE01 — Conscientious service can exceed Chris/Eris's preferred burden
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** in her public divine/service role, Chris/Eris receives sincere requests whose cumulative burden exceeds what she explicitly prefers, and a refusal or exit is possible.
+- **Relationship/stakes:** distinguish publicly owed duty from casual trusted companionship; identify her own expressed burden, not an observer's assumption that she must be tired.
+- **Predicted appraisal:** refusal would disappoint people who reasonably seek her help.
+- **Predicted dominant motive:** meet sincere obligations.
+- **Predicted behavior/effect:** she will tend to continue past her preferred burden until a boundary is negotiated or another actor supplies an exit. A successful self-set boundary is adverse evidence for the over-compliance tendency and should not be reclassified as its confirmation.
+- **Interaction tendency:** service politeness may differ from the familiar Chris register she asks trusted companions to use.
+- **Confidence:** MODERATE, exact cumulative public-service burden beyond expressed preferred load unvalidated in V10–V12.
+- **Evidence basis:** CP03-CE01; unchanged DISC-V08-04 and V08 Chris/Eris findings; V09 absence supplies no additional validation.; CP04 branch score MG03-CE01: No public-divine/service accumulation of sincere requests beyond her own expressed preferred burden with feasible refusal establishes the trigger. V12 route: FP0006–0044,0275–0307,0377–0395. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** repeated matched cumulative burdens elicit timely, comfortable self-limitation without significant conflict or externally created relief.
+- **Coding and modifiers:** Distinguish Chris friendship/charity/leisure and Eris specialized intervention from accumulated public requests beyond her own preferred burden with feasible refusal. Arrival-after-prayer inference is not confessed motive; target hostility and actual knowledge boundaries remain separate.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-I01 — Safe nondeferential interaction expands Iris's agency
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** Iris is directly shown with a trusted person who treats her as an ordinary younger peer in a setting with less formal royal surveillance.
+- **Relationship/stakes:** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.
+- **Predicted appraisal:** ordinary curiosity, experimentation and wants can be expressed without immediate royal correction.
+- **Predicted dominant motive:** learn, play or exercise age-appropriate agency.
+- **Predicted behavior/effect:** curiosity, informal strategy learning, competition or ordinary requests will become more visible than in the constrained setting.
+- **Interaction tendency:** familiar address and less inhibited interaction may accompany the behavioral change; honorifics alone do not prove the mechanism.
+- **Confidence:** MODERATE-HIGH for bounded role conditioning, now supported by directly matched V10/V11 contrasts beyond inherited V06 evidence. V07–V09 remain historically without a matched test; V12 supplies no new direct contrast.
+- **Evidence basis:** CP03-I01; V04–V06 checkpoint §10 and unchanged MG02-I01; V09 `0016:P0035–0040` only preserves the letter boundary.; CP04 branch score MG03-I01: V10/V11 directly shown constrained/public versus safer nondeferential interaction supports role-conditioned Iris behavior. V12 route: C1P0238–0254; C5P0138–0142. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** repeated safe nondeferential settings leave her equally constrained, with no predicted behavioral expansion despite available ordinary choices.
+- **Coding and modifiers:** Require a new actual comparable constrained/public versus safer/nondeferential interaction. V12 possibly edited retrospective narrative remains report-level and cannot reopen earlier Iris speech/tears.
+- **Outcome:**
+- **Adjudication:**
+
+## MG04-I02 — An expressed wish may be narrowed by understood royal duty
+
+New prospective statement; original MG03 record and outcomes unchanged.
+- **Trigger/context:** the source directly establishes both a personal wish of Iris's and a royal obligation she understands as conflicting with it.
+- **Relationship/stakes:** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.
+- **Predicted appraisal:** the larger personal wish exceeds what the role permits.
+- **Predicted dominant motive:** preserve duty while obtaining a smaller part of the desired freedom or connection.
+- **Predicted behavior/effect:** she will tend to self-limit or choose a reduced request while the original wish remains expressed or otherwise directly evidenced.
+- **Interaction tendency:** restrained petition may coexist with familiar attachment language; the source must establish the motive rather than the analyst supplying it.
+- **Confidence:** MODERATE-HIGH for bounded wish–duty negotiation, now supported by the clean V11 explicit wish/duty/reduced-request decision. V10 and V12 remain locallyNT; V07–V09 historical nonvalidation is not rewritten.
+- **Evidence basis:** CP03-I01; V04–V06 checkpoint §10 and unchanged MG02-I02; V09 `0016:P0036–0041` is not a matched decision.; CP04 branch score MG03-I02: V11 directly establishes personal wish, understood royal duty and narrowing of the request. V12 route: C1P0241–0243,0248; C5P0138. Adjacent/NT records are limits, not confirmations.
+- **Disconfirmation:** repeated explicit wish/duty conflicts produce unconstrained prioritization of the wish without meaningful conflict or self-limitation, despite understood obligations.
+- **Coding and modifiers:** Require actual personal wish plus understood conflicting royal duty before a narrowed/renegotiated request. Retold attachment, old letter obligation or generic public constraint alone cannot supply the full sequence.
+- **Outcome:**
+- **Adjudication:**
