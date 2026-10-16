@@ -12,7 +12,7 @@ TOOLS = Path(__file__).resolve().parents[1]
 ROOT = TOOLS.parent
 sys.path.insert(0, str(TOOLS))
 
-from character_index_core import GitSnapshot, SnapshotEntry  # noqa: E402
+from character_index_core import DomainError, GitSnapshot, SnapshotEntry  # noqa: E402
 from prepare_commit import active_rules, missing_required_output_paths  # noqa: E402
 from update_repository_indexes import _snapshot, expected_outputs  # noqa: E402
 from validate_repository import (  # noqa: E402
@@ -45,6 +45,7 @@ class RepositoryIndexTests(unittest.TestCase):
         self.assertEqual(
             set(outputs),
             {
+                "series/registry.json",
                 "series/README.md",
                 "studies/README.md",
                 "governance/MANGA_ANIME_CORPUS_INDEX.md",
@@ -52,6 +53,33 @@ class RepositoryIndexTests(unittest.TestCase):
         )
         for path, expected in outputs.items():
             self.assertEqual(snapshot.entries[path].data, expected, path)
+
+    def test_authority_label_uses_live_selected_state_not_frozen_scope(self) -> None:
+        entries = dict(self.snapshot().entries)
+        path = "governance/AUTHORITY_STATE.yaml"
+        for value in ("GIT_ACTIVE_STABILIZING", "GIT_ACTIVE_ACCEPTED"):
+            with self.subTest(value=value):
+                entries[path] = SnapshotEntry(path, "100644", ("state: " + value + "\n").encode())
+                candidate = GitSnapshot(ROOT, "AUTHORITY_LABEL_TEST", entries)
+                output = expected_outputs(candidate)
+                before = json.loads(entries["series/registry.json"].data)
+                after = json.loads(output["series/registry.json"])
+                self.assertEqual(after.pop("status"), value)
+                before.pop("status")
+                self.assertEqual(after, before)
+                self.assertNotIn("governance/AUTHORITY_SCOPE.json", output)
+
+    def test_authority_label_fails_closed_without_live_state(self) -> None:
+        path = "governance/AUTHORITY_STATE.yaml"
+        for data in (None, b"state: null\n", b"[]\n"):
+            with self.subTest(data=data):
+                entries = dict(self.snapshot().entries)
+                if data is None:
+                    del entries[path]
+                else:
+                    entries[path] = SnapshotEntry(path, "100644", data)
+                with self.assertRaises(DomainError):
+                    expected_outputs(GitSnapshot(ROOT, "BAD_AUTHORITY_LABEL", entries))
 
     def test_registered_root_topology_is_bidirectional(self) -> None:
         snapshot = self.snapshot()

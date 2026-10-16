@@ -17,7 +17,9 @@ from character_index_core import AuthorityGraph, DomainError, GitSnapshot, Snaps
 from generate_character_index import render
 from update_repository_indexes import expected_outputs
 from validate_repository import (
-    validate_generated_index, validate_registered_root_topology, validate_series_registry,
+    _policy_from_snapshot, validate_bytes, validate_generated_index,
+    validate_generated_repository_indexes, validate_paths,
+    validate_registered_root_topology, validate_series_registry,
 )
 
 SOURCE_SHA = "a" * 40
@@ -30,7 +32,8 @@ def entry(path: str, data: bytes) -> SnapshotEntry:
 
 
 def fixture(*, new_root: bool = True) -> GitSnapshot:
-    entries = {}
+    state_path = "governance/AUTHORITY_STATE.yaml"
+    entries = {state_path: entry(state_path, b"state: GIT_ACTIVE_ACCEPTED\n")}
     for namespace, schema in (
         ("series", "anime-manga-ln-games-analysis/series-registry/v2"),
         ("studies", "anime-manga-ln-games-analysis/study-registry/v1"),
@@ -172,6 +175,20 @@ class AnalyticalPreflightTests(unittest.TestCase):
                 env=environment, capture_output=True, text=True, check=False,
             )
             self.assertEqual(clone.returncode, 0, clone.stderr)
+            # The gate reads run stops from main. A CI checkout has no local
+            # branches, so pin the clone's main to the source's explicitly.
+            source_main = subprocess.run(
+                ["git", "-C", str(TOOLS.parent), "rev-parse", "--verify", "-q",
+                 "refs/remotes/origin/main^{commit}"],
+                env=environment, capture_output=True, text=True, check=False,
+            ).stdout.strip() or subprocess.run(
+                ["git", "-C", str(TOOLS.parent), "rev-parse", "HEAD"],
+                env=environment, capture_output=True, text=True, check=True,
+            ).stdout.strip()
+            subprocess.run(
+                ["git", "-C", str(root), "update-ref", "refs/remotes/origin/main", source_main],
+                env=environment, capture_output=True, check=True,
+            )
             # A local full gate runs before commit: overlay its exact staged
             # candidate so nested CLIs do not accidentally test the old HEAD.
             candidate = GitSnapshot.from_index(TOOLS.parent)
@@ -229,23 +246,31 @@ class AnalyticalPreflightTests(unittest.TestCase):
                 capture_output=True, text=True, check=False,
             )
             self.assertEqual(projected_tests.returncode, 0, projected_tests.stdout + projected_tests.stderr)
-            strict = subprocess.run(
-                command, cwd=root, env=environment, capture_output=True, text=True, check=False,
+            # The CLI run above checks paths, bytes and identities before it
+            # projects routing, then everything else on the projection except
+            # the catalog render it defers. Check exactly that remainder here:
+            # the strict topology failure without preflight, and the committed
+            # projection's paths, bytes and catalogs.
+            staged = GitSnapshot.from_index(root)
+            self.assertIn(
+                "unregistered series root: series/example/",
+                validate_registered_root_topology(staged),
             )
-            self.assertNotEqual(strict.returncode, 0)
-            self.assertIn("unregistered series root: series/example/", strict.stdout)
-            projected, deferred = routing_preflight(GitSnapshot.from_index(root), "series/example")
+            projected, deferred = routing_preflight(staged, "series/example")
             for path in deferred:
                 (root / path).write_bytes(projected.entries[path].data)
             subprocess.run(
                 ["git", "-C", str(root), "add", "--", *deferred],
                 env=environment, capture_output=True, check=True,
             )
-            complete = subprocess.run(
-                command, cwd=root, env=environment, capture_output=True, text=True, check=False,
-            )
-            self.assertEqual(complete.returncode, 0, complete.stdout + complete.stderr)
-            self.assertNotIn("AWAITING_SYNCHRONIZATION", complete.stdout)
+            complete = GitSnapshot.from_index(root)
+            self.assertEqual(complete.entries, projected.entries)
+            self.assertEqual(routing_preflight(complete, "series/example")[1], [])
+            self.assertEqual(validate_registered_root_topology(complete), [])
+            self.assertEqual(validate_generated_repository_indexes(complete), [])
+            policy = _policy_from_snapshot(complete)
+            self.assertEqual(validate_paths(complete, policy), [])
+            self.assertEqual(validate_bytes(complete, policy, "current"), [])
 
     def test_nonregular_descriptor_is_not_admissible(self) -> None:
         source = fixture()

@@ -2,7 +2,7 @@
 
 > Repository state: public, owner-maintained, and active as the epoch-1 primary analytical authority. The sealed cutover scope contains 2,939 Drive-derived representations covering 2,924 unique source artifacts across 37 migrated series roots and two study roots. Post-cutover Git-native analytical roots are listed separately and do not alter those historical migration counts.
 >
-> Analytical authority: Git for the exact hashed migration scope in `AUTHORITY_SCOPE.json` and for owner-approved post-cutover Git-native analysis routed through the live registry, effective under authority epoch 1. The repository is in its approved 14-day stabilization period. Declared Drive-native authoring surfaces and reference-only artifacts retain their narrower roles.
+> Analytical authority: Git for the exact hashed migration scope in `AUTHORITY_SCOPE.json` and for owner-approved post-cutover Git-native analysis routed through the live registry, effective under authority epoch 1. The owner accepted the stabilized epoch on 2026-10-15. Declared Drive-native authoring surfaces and reference-only artifacts retain their narrower roles.
 
 This is the Git-side navigation index derived from the historical Drive hierarchy and extended by governed post-cutover analytical roots. Every migrated representation is bound to its source identity, revision, byte hash, transformation, and final repository path in `../crosswalk/`. Post-cutover roots must identify their own source/evidence authority and provenance in their canonical entrypoint.
 

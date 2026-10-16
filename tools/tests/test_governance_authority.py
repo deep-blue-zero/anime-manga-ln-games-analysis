@@ -679,16 +679,17 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertEqual(self.scope["activation"]["candidate_commit"], expected["activation_commit"])
         self.assertEqual(self.scope["activation"]["activation_tag"], expected["activation_tag"])
         activation = self.state["analytical_authority_activation"]
-        self.assertEqual(activation["status"], "GIT_ACTIVE_STABILIZING")
+        self.assertEqual(activation["status"], "GIT_ACTIVE_ACCEPTED")
         for key, value in expected.items():
             self.assertEqual(activation[key], value)
-        self.assertEqual(self.state["migration"]["completed_gate"], "G8")
-        self.assertEqual(self.state["migration"]["current_gate"], "G9_STABILIZATION")
-        self.assertEqual(
-            self.state["migration"]["current_subphase"],
-            "DAILY_STABILIZATION_MONITORING",
-        )
-        self.assertEqual(self.state["stabilization"]["state"], "ACTIVE_DAILY")
+        self.assertEqual(self.state["state"], "GIT_ACTIVE_ACCEPTED")
+        self.assertEqual(self.state["migration"]["completed_gate"], "G9")
+        self.assertEqual(self.state["migration"]["current_gate"], "NONE_MIGRATION_COMPLETE")
+        self.assertEqual(self.state["stabilization"]["state"], "ACCEPTED")
+        self.assertEqual(self.state["stabilization"]["owner_acceptance"], "ACCEPTED")
+        self.assertEqual(self.state["stabilization"]["owner_acceptance_date"], "2026-10-15")
+        # The frozen activation scope keeps its activation-time state and bytes.
+        self.assertEqual(self.scope["stabilization"]["state"], "ACTIVE_DAY_0")
         self.assertEqual(self.state["stabilization"]["day_0_audit"], "PASS")
         self.assertEqual(
             self.state["stabilization"]["day_0_audit_commit"],
@@ -720,7 +721,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         prose = {
             "README.md": ("epoch-1 primary analytical authority", "14-day stabilization"),
             "governance/CHATGPT_AUTHORITY_AND_ROUTING.md": (
-                "Git authority is active and stabilizing",
+                "Git authority is active and accepted",
                 "g8-authority-epoch-1-20260902T134713Z",
             ),
             "governance/MANGA_ANIME_CORPUS_INDEX.md": (
@@ -744,11 +745,27 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         routing = (
             REPOSITORY_ROOT / "governance/CHATGPT_AUTHORITY_AND_ROUTING.md"
         ).read_text(encoding="utf-8")
-        self.assertIn("GitHub API or connector mode (ChatGPT)", routing)
-        self.assertIn("Local clone mode (Codex)", routing)
+        record = (
+            REPOSITORY_ROOT / "governance/cutovers/AUTHORITY_EPOCH_1_ACTIVATION_RECORD.md"
+        ).read_text(encoding="utf-8")
+        for phrase in (
+            "All activation conditions passed for epoch 1.",
+            "- Cutover ID: `g8-authority-epoch-1-20260902T134713Z`",
+            "Daily stabilization ended and is accepted, migration is complete",
+        ):
+            with self.subTest(record_phrase=phrase):
+                self.assertIn(phrase, record)
+        # The execution profiles are procedure and live in the checklist;
+        # the routing document points to them.
+        checklist = (
+            REPOSITORY_ROOT / "governance/policies/CHANGE_INTEGRATION_CHECKLIST.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("### GitHub API or connector mode\n", checklist)
+        self.assertIn("### Local clone mode\n", checklist)
+        self.assertIn("CHANGE_INTEGRATION_CHECKLIST.md#execution-profiles", routing)
         self.assertIn("primary/source-domain material in Drive", routing)
         self.assertIn("approved primary-source material on local disk", routing)
-        self.assertIn("git add -- <path>...", routing)
+        self.assertIn("git add -- <path>...", checklist)
 
     def test_public_activation_evidence_tuple_is_exact(self) -> None:
         publication = self.binding["repository_publication_activation"]
@@ -836,7 +853,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             series_registry["schema"],
             "anime-manga-ln-games-analysis/series-registry/v2",
         )
-        self.assertEqual(series_registry["status"], "GIT_PRIMARY_AUTHORITY_EPOCH_1_STABILIZING")
+        self.assertEqual(series_registry["status"], self.state["state"])
         series_ids = [row["series_id"] for row in series_registry["series"]]
         self.assertEqual(len(series_ids), len(set(series_ids)))
         self.assertTrue(
