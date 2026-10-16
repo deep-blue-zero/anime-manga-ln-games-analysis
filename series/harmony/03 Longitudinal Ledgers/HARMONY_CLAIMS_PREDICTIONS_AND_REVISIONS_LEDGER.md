@@ -5,13 +5,13 @@ artifact_type: claim_revision_ledger
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.1'
+version: '0.2'
 status: active_provisional
 scope: Claims, counterevidence, predictions and revisions ledger
-source_boundary: Original Japanese prose novel; candidate EPUB structurally inspected; zero narrative units admitted or read
+source_boundary: HAR-JP-EPUB-001 verified for bounded HAR-U001; opening words inspected for source fidelity after entering freeze; zero sequential-analysis units admitted at G0
 canonical_home: series/harmony/03 Longitudinal Ledgers/HARMONY_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: '2026-10-16'
-review_status: OWNER_REVIEW_PENDING
+review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

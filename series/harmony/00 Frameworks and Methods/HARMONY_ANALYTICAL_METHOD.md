@@ -5,13 +5,13 @@ artifact_type: analytical_method
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.1'
+version: '0.2'
 status: active_provisional
 scope: Prospective prose-reading method
-source_boundary: Original Japanese prose novel; candidate EPUB structurally inspected; zero narrative units admitted or read
+source_boundary: HAR-JP-EPUB-001 verified for bounded HAR-U001; opening words inspected for source fidelity after entering freeze; zero sequential-analysis units admitted at G0
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_ANALYTICAL_METHOD.md
 created: '2026-10-16'
-review_status: OWNER_REVIEW_PENDING
+review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,7 +20,7 @@ do_not_use_as_literary_evidence: true
 
 # Harmony / ハーモニー — analytical method
 
-This method governs a future authorized Japanese-prose reading. It makes no plot, character or thematic claim. Read [the entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md), the [witness map](../00%20Frameworks%20and%20Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md) and paired [architecture](../00%20Frameworks%20and%20Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md) first. The current CLOSED lock and zero-admission state remain binding.
+This reviewed method governs the authorized bounded Japanese-prose pilot and later operations only when separately authorized. It makes no plot, character or thematic claim. Read [the entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md), the [witness map](../00%20Frameworks%20and%20Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md) and paired [architecture](../00%20Frameworks%20and%20Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md) first. The current lock, exact authorized run and admitted frontier are read from that entrypoint; bootstrap was CLOSED with zero narrative findings.
 
 ## 1. Witness admission and source handling
 
@@ -35,6 +35,8 @@ The candidate has `content.opf`, an ordered spine, named XHTML members and some 
 `HAR-JP-EPUB-001@sha256:<full digest>::spine:<one-based occurrence>::member:<exact archive path>::node:<XML element path>::chars:<start>-<end>`
 
 `spine` counts all OPF occurrences, including cover/ancillary items; it is not a printed page. `member` is archive-root-relative, case-sensitive and percent-decoded only as the package requires. `node` is a one-based, namespace-aware element path with its namespace map preserved; an existing unique element ID may supplement it. An absent ID is never fabricated. `chars` is a zero-based, half-open Unicode-codepoint range over that node's decoded text/tail nodes in document order, with no Unicode/whitespace normalization; ruby readings remain separate from base text in the presentation, while the raw node path resolves the original. Record a hash of the exact selected source text as a disambiguator, without publishing extensive text.
+
+Locator implementation `HAR-LOC-1` is fixed before the first evidence allocation. Paths use `/h:html[1]/h:body[1]/h:div[1]/h:p[1]` syntax, with `h = http://www.w3.org/1999/xhtml`; each one-based index counts siblings of the same expanded QName. A namespace map accompanies any additional prefix. Resolve XML without recovery, external entities, or network retrieval. XML entity decoding and XML-mandated line-ending decoding occur at parse time; no subsequent text or Unicode normalization occurs. The character stream is the selected element’s XML string-value: its own text, descendant text and descendant tails in document order, excluding the selected element’s own tail. Raw offsets therefore include `rt`/`rp` text where present; a separate presentation record retains ruby base/reading associations. `br` is an element event, not an invented character in this raw stream. Selected-span digests are SHA-256 over its exact UTF-8 encoding. These choices clarify the existing grammar without changing any previously allocated locator: none existed before this pilot.
 
 For typography or markup claims, also cite the original member and a faithful render location; text offsets alone do not preserve layout. Member byte offsets or a verified CFI can supplement this grammar only after explicit round-trip verification. If parser output changes, preserve the old mapping and issue a new derivative/locator version. Never assign print pages from renderer screens, Kindle-style locations, file counts or catalog page totals. A later print/PDF witness gets its own edition key and independently verified page map.
 
@@ -82,7 +84,7 @@ For each authorized unit, finish the following transaction before advancing:
 6. Check names and reference clarity in the opening, substantial middle, exit and every material relationship: who acts, speaks, thinks, observes, receives and is affected? Use verified names within the permitted frontier, preserve intentional concealment/aliases, and classify any role label under handoff Section 15. Record and repair real attribution defects.
 7. Review exact changed paths, stage exact files, run required validation, commit the closed transaction and verify persistence/publication under the checklist. Freeze the reading bytes at acceptance; failed validation or ambiguous publication leaves the transaction incomplete. Never advance based only on drafted prose.
 
-A separately authorized single operation stops after closeout. An authorized continuous run proceeds only to its named terminal boundary after each closed transaction. A CLOSED lock, unknown witness, missing required form, unresolved scope or contradictory run state blocks admission. The current bootstrap is neither mode and admits zero units.
+A separately authorized single operation stops after closeout. An authorized continuous run proceeds only to its named terminal boundary after each closed transaction. A CLOSED lock, unknown witness, missing required form, unresolved scope or contradictory run state blocks admission. The historical bootstrap was neither mode and admitted zero units. The accepted G0 checkpoint authorizes only HAR-U001 in single_operation mode; it does not widen source scope.
 
 ## 7. Revision and preservation
 
