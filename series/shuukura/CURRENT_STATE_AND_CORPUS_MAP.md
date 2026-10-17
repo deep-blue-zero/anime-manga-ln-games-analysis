@@ -5,14 +5,14 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.2"
+version: "1.3"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
-source_boundary: "SHUUKURA-V2-20261017-I1; Japanese LN V01–V08 complete in atomic commits; V09+ fiction/images and later lanes unread"
+source_boundary: "SHUUKURA-V2-20261017-I1; Japanese LN V01–V09 complete in atomic commits; V10 excluded, later-lane fiction unread"
 canonical_home: series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: V08_ATOMIC_TRANSACTION_CONTINUOUS_RUN_ACTIVE
+review_status: V09_ATOMIC_TRANSACTION_LN100_REVIEW_CONTINUOUS_RUN_ACTIVE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -38,14 +38,14 @@ project_initialization:
   owner_review: CURRENT_OWNER_INSTRUCTION_AUTHORIZES_VALIDATED_BOOTSTRAP_ADOPTION
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_WITNESS_BOUNDED_LN_ADMISSION
-  next_permitted_operation: LN-JP-V09
+  next_permitted_operation: BW-JP-V03
 sequential_execution:
   mode: continuous_sequential
   unit_type: other
   authorized_start: LN-JP-V01
   terminal_boundary: SHUUKURA-V2-20261017-I1
-  committed_high_water_mark: LN-JP-V08
-  next_candidate_operation: LN-JP-V09
+  committed_high_water_mark: LN-JP-V09
+  next_candidate_operation: BW-JP-V03
   confirmation_between_units: false
   run_state: active
   inventory_freeze_state: FROZEN_AVAILABLE_UNITS_AND_EXPLICIT_MANDATORY_GAPS
@@ -54,14 +54,14 @@ sequential_execution:
 analytical_execution:
   authorization: CONTINUOUS_SEQUENTIAL_AUTHORIZED_GATE_VERIFIED
   sequential_units_admitted: 9
-  sequential_units_completed: 8
-  committed_narrative_high_water_mark: LN-JP-V08
-  character_reconstruction_readiness: V08_TIME_BOUNDED_DRAFTS_ELEVEN_CASES_LIMITED_NO_VALIDATED_DOMAIN
+  sequential_units_completed: 9
+  committed_narrative_high_water_mark: LN-JP-V09
+  character_reconstruction_readiness: V09_TIME_BOUNDED_DRAFTS_THIRTEEN_CASES_LIMITED_NO_VALIDATED_DOMAIN
 repository_state:
   stable_branch: series/shuukura
   routing_input: series/shuukura/.repository/series-registry.json
   materialization_status: PRESENT_UNREVIEWED
-  main_integration: V01_V02_V03_V04_V05_V06_V07_MERGED_AUDITED_V08_EXACT_HEAD_AUDITS_REQUIRED
+  main_integration: V01_V02_V03_V04_V05_V06_V07_V08_MERGED_AUDITED_V09_EXACT_HEAD_AUDITS_REQUIRED
   integration_hold_required: NONE_FOR_COMPLETED_BOOTSTRAP
 ---
 
@@ -71,9 +71,9 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = LN-JP-V09`
+`NEXT_PERMITTED_OPERATION = BW-JP-V03`
 
-The owner explicitly authorizes continuous execution through the frozen kickoff inventory and every required analytical stage without routine confirmation. Foundation and V01–V07 are merged/audited; gateOPEN/runactive. V07source23442ad71e08ba6fea2705be1196e2d932112620/PR204/mainfcf30802988331eb8033e17167acdec6bb9abbf1/equalfulltree2b3da1ab3f261efda833f415017cfa64fb134552/mandatoryexplicitmainaudit39034147672success352tests. **V08 becomes the eighth complete unit only in its whole introducing SHUUKURA-TX-LN-JP-V08-20261017-A1 commit**, including four ledgers, preserved model records and source/semantic audit/checkpoint. Eleven historical model cases retain fiveactionfailures, oneexposure-qualifiedgiftmatch and fiveordinarybaseline-ties; M0.11/S0.12newexits are untested/noncurrent. [I1](00%20Frameworks%20and%20Methods/SHUUKURA_V2_EXECUTION_INVENTORY_20261017.json) fixes458availableunits/51knownunavailableidentities/290Narōcorrespondences/27finitediscoveryduties. The [durable checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md) preserves exact public closure/recovery. No later analytical duty is waived.
+The owner explicitly authorizes continuous execution through frozen I1 and every required analytical stage without routine confirmation. Foundation/V01–V08 are merged/audited; gateOPEN/runactive. V08source299cc6df49ecf833c7f78e0c9ceb404f198cb748/PR206/maind542be706366f4a9a39e51a7817b85729dd1d399/equalfulltreece0c5717ce72ca033dd07f1240c48c7844008216/mandatoryexplicitmainaudit39041798805success352tests. **V09 becomes the ninth complete unit/LN100% analytical checkpoint only in its whole introducing SHUUKURA-TX-LN-JP-V09-20261017-A1 commit** with four reconciled instruments/preserved models/unit audit. Thirteen historical tests retain6firstactionfailures(oneSinput-location-qualified)/1gift-exposurequalifiedmatch/6ordinarybaseline-ties; M0.13/S0.14exits untested/noncurrent. [I1](00%20Frameworks%20and%20Methods/SHUUKURA_V2_EXECUTION_INVENTORY_20261017.json) fixes458availableunits/51knownunavailable/27finite notices/290Narōcorrespondences. [Checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md) records recovery. Next BW-JP-V03 requires exact unit/admission check, not new owner permission. All later duties persist.
 
 ## Current boundaries
 
@@ -83,9 +83,9 @@ The owner explicitly authorizes continuous execution through the frozen kickoff 
 | Accessible supplements | Four BW EPUBs, twelve author-released commemorative stories with native source captures and retained PDFs, and two publisher story images; scheduled after independent LN09 |
 | Web witnesses | Kakuyomu: 431 ordered native episode snapshots and 88,232 paragraph locators retained and verified; zero narrative readings. Narō: 290-episode correspondence responsibility remains unperformed |
 | Publication extent | Official LN10 release is scheduled for October 20, 2026; it is absent from this acquired snapshot and outside the proposed V01–V09 run |
-| Literary coverage | V01–V07 accepted complete readings preserved; [V08](02%20Sequential%20Readings/SHUUKURA_V2_LN_V08_DEEP_READING.md):28spines/4857paragraphs/19images, elevenchapters/dual-focalizer retrospective bonus/allpublicationmaterial. HWMV08 only in whole introducing commit |
-| Longitudinal state | Four ledgers reconciled throughV08; all older rows/freezes retained. M/S-V08-EXIT Dec25night; firstSundaybonus disclosed retrospectively. Corpus-wide reconciliation pending |
-| Reconstruction | [Miyagi](05%20Character%20Studies/SHUUKURA_MIYAGI_SHIORI_RECONSTRUCTION.md)/[Sendai](05%20Character%20Studies/SHUUKURA_SENDAI_HAZUKI_RECONSTRUCTION.md): historical prefixes/actual packets preserved; current M0.11/S0.12untested. Eleven authored cases/no independent acceptance or validated domain.61claimIDs/259formulations/16distinct claim-or-model forecasts |
+| Literary coverage | V01–V08 accepted freezes preserved; [V09](02%20Sequential%20Readings/SHUUKURA_V2_LN_V09_DEEP_READING.md):28spines/3949p/18images, tenchapters/native middle-schoolbonus/paratext. LNHWMV09 only in whole introducing commit; all nine novels within I1 complete |
+| Longitudinal state | Four ledgers throughV09/1.0; prior rows/freezes retained. M/S-V09-EXIT lateFebnight beforetrioouting; late-read middle-school states separate. Corpus reconciliation pending |
+| Reconstruction | [Miyagi](05%20Character%20Studies/SHUUKURA_MIYAGI_SHIORI_RECONSTRUCTION.md)/[Sendai](05%20Character%20Studies/SHUUKURA_SENDAI_HAZUKI_RECONSTRUCTION.md): preserved prefixes/packets, new M0.13/S0.14untested.13cases/no independent acceptance or validated domain;73claims/325formulations/18claim-or-model forecast records |
 | Synthesis and V1 comparison | Responsibilities/dependencies defined; no specialist, monograph, comparison findings or integrated synthesis |
 | Historical authority | V1 is preserved historical analysis and provenance; it does not supply current V2 conclusions |
 
@@ -95,11 +95,11 @@ The [source inventory](00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY
 
 | Dependency | Verified condition and consequence | Recovery condition |
 | --- | --- | --- |
-| Independent LN lane | ExactV01–V09 witnesses/maps admitted; V08 OPFzh-CN anomaly bounded by full Japanese inspection, electronic/print dates preserved separately. | Recover wholeV08commit/exit/publication then freeze/readV09 in nativeorder and complete the atomic transaction. Check actual V09 Japanese bytes/rendering at entry |
+| Independent LN lane | V01–V09 exact originals complete through whole V09transaction; V09ja/2026May20datesverified. LN10 excluded | Recover V09commit/publication checkpoint, then verify BW-JP-V03 exact I1 bytes/complete components/disclosure placement and read automatically. No new scope authorization needed |
 | Unavailable supplemental sources | I1names51unacquired identities plus27finite discovery duties. V05afterword/earlier author notices expose thirdV04 script and V07audio identity/retrieval debt in that finite discovery scope. | AfterLN09 resolve exact titles/adaptations/duplicates, acquire legitimate complete originals/scripts/recordings and verify modality; no preview/V1/access-bypass substitution |
 | Narō correspondence / discovery completeness | N0800GA episodes 1–290 remain an unperformed source-correspondence obligation; 27 frozen author-notice records require original-story holdings and duplication reconciliation. | Complete source access/correspondence and the bounded discovery audit after independent LN freezes; keep any genuine missing sources visible. |
 
-Narrative high-water marks are **LNV08; KakuyomuNONE; externalSSNONE** only after the whole V08commit; Narōcorrespondence remains uncompleted. LNquarterV03/halfV05/threequarterV07 are publiclyclosed, finalLNreview/publicationV09 remains. Available8/458 has not reached115/458. Next **LN-JP-V09** follows verified recovery automatically; all later sources/reconciliation/monographs/specialists/models/V1/integrated/release duties remain required.
+Narrative high-water marks are **LNV09; KakuyomuNONE; externalSSNONE** after whole V09commit; Narō0/290. LNquarterV03/halfV05/threequarterV07 closed; V09 is finalLN100% review and must complete audited publication. Available9/458 is below115/458. Next **BW-JP-V03** exact-unit check/reading follows automatically. All supplements/discovery/web/Narō/reconciliation/monographs/specialists/models/V1/integrated/release duties remain mandatory.
 
 ## Governing retrieval order
 
@@ -124,7 +124,7 @@ The routing input is [`.repository/series-registry.json`](.repository/series-reg
 
 For resumption, fetch live authority/governance and the stable branch, reconcile with current main, then read these canonical files and the last accepted unit/freeze when one exists. Never reconstruct source coverage or next operation from conversational memory. Continuous execution is active through I1. Run metadata must continue to obey the live validator's exact lock/run-state consistency fields.
 
-The admission record verifies the actual foundation, exact source/locator freeze and capability limits before setting the OPEN lock and consistent active run. Both next-operation fields name LN-JP-V09; the terminal boundary remains I1, not ongoing future serialization. Protected-main bootstrap integration and its audit are verified. Stable-branch publication follows author preflight, source audit, housekeeping, final audit and eligible nightly integration. At completion, use completed/NONE only when all required dependencies are actually satisfied; an available-source subtotal cannot erase mandatory blockers.
+The admission record verifies the actual foundation, exact source/locator freeze and capability limits before setting the OPEN lock and consistent active run. Both next-operation fields name BW-JP-V03; the terminal boundary remains I1, not ongoing future serialization. Protected-main bootstrap integration and its audit are verified. Stable-branch publication follows author preflight, source audit, housekeeping, final audit and eligible nightly integration. At completion, use completed/NONE only when all required dependencies are actually satisfied; an available-source subtotal cannot erase mandatory blockers.
 
 The live [initiation policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md), [archive authority policy](../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md), [branch lifecycle](../../governance/policies/BRANCH_LIFECYCLE.md), [housekeeping policy](../../governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md) and [character curation policy](../../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md) govern execution and publication.
 
@@ -214,7 +214,7 @@ The reading distinguishes fulfilled aquarium/wholecake/firstroom occasion from u
 Novel75% source/architecture/role-gap review keeps7/9 distinct from7/458. Audited visible publication is required at this completed boundary; follow established source→housekeeping→final exact-head audit and owner-only nightly/mainaudit. No main bypass/global-index write. Then continue automatically V08–09 and all frozen lanes/cumulative reconciliation/monographs/specialists/reconstruction/V1/integrated/release duties. I1 sourcegaps/audio discovery/future exclusions remain unchanged; runactive.
 
 
-## Latest analytical checkpoint — V08
+## Earlier analytical checkpoint — V08
 
 Recover the [complete reading](02%20Sequential%20Readings/SHUUKURA_V2_LN_V08_DEEP_READING.md), [unit audit](08%20Audits%20and%20Handoffs/SHUUKURA_V2_LN_V08_TRANSACTION_AUDIT.md) and [durable checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#durable-checkpoint-after-v08). V08/ACQUIRED-20261017-A1/Drive1if9ljcOHNJvaLsmFYhD3_SuFChvTRR6F/8308796bytes/sourceSHAa8f5a649c0797e71c2481d72123ce1ed64332f61bf39360309d7e57b45805642/locatorSHAcb391565c853ec1c65ae4f733bf281d2570e4aaaadea4beb4e659b6b1f8b9980; mappackage1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju; catalog04076170A23275700000/electronic2025-12-19ver.001/printfirst2025-12-20. Original journal177940bytes/SHA13eb8bf7568c2356e4163cda1bcdae8ed093ca20e8562eabd8d1a6ec429de717/63observations/F0–F15/sealed13:39:32.428420UTC. All28spines/4857anchors/19images/723ruby/175guides/1088literalchecks inspected/verified. MainlineF11 precedes afterword/rewoundbonus; O041/O063 date errata retain original notes. Every preceding accepted unit and frozen packet remains unchanged.
 
@@ -223,3 +223,12 @@ Recover the [complete reading](02%20Sequential%20Readings/SHUUKURA_V2_LN_V08_DEE
 The current argument distinguishes signs from recognition, gifts by duration/audience, M conscious but resisted possessiveness, S desired conclusion from sound inference, autonomous work from wanted approval, and a real old bargain from particular present grants. Public ordinary company has genuine value; private pleasure and care do not erase ignored local refusals. Photo vow fails while gift-origin and mark-concealment vows are kept. A further proposed step is actually withdrawn. Neither role, formal romance, household extension nor permanent naming agreement is settled. No first winter shift or zoo visit is shown.
 
 This is8/9LN and8/458I1units, SS0/18/Kak0/431. ContinueV09, then frozen supplements/discovery/web/Narō obligations and every required analytical stage. LN10/later releases excluded; known missing voices/supplements remain mandatory gaps. Publish only through source→housekeeping→finalexact-head audit/eligibleowner-onlynightly/explicitmainaudit. No global-index/registry or direct-main mutation. Runactive/gateOPEN.
+
+
+## Latest analytical checkpoint — V09 and LN100% review
+
+[Complete reading](02%20Sequential%20Readings/SHUUKURA_V2_LN_V09_DEEP_READING.md), [unit audit](08%20Audits%20and%20Handoffs/SHUUKURA_V2_LN_V09_TRANSACTION_AUDIT.md) and [durable checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#durable-checkpoint-after-v09-and-ln100-review) bind the complete unit. V09/ACQUIRED-20261017-A1/Drive1RK-HYY-C_iMlH7Tua_p-Pik1GP5XCri_/7701730bytes/sourceSHA3201ae3ffd1230a526dd5d9a184d4a76ab7aff4a7b244160cbfc886acbb8086a/locatorSHAe3355f5468a51f857a0a3e5cf22658fe5ca8313bda17c4e1c21d2cc94f2496fe; mappackage1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju; OPFja/UUID41b49992-da0c-4afc-9ee1-5ede50c0db36/electronicandprintfirst2026-05-20ver.001. Original journal173510bytes/SHA5813aef79c1eb4b51c5b9b9f439e79814f06531805ae03f7bd07f2269a7a9f31/51observations/sealed2026-10-17T15:44:18.018414Z. All28/3949/18/567ruby/162guides/967literalchecks verified; mainlineF10 sealed before bonus/paratext.
+
+59character events/10projections/23readiness rows;35relationship events/16directions/75ruleversions(36old+37newR104–R140+2laterR114versions);181propositionversions(99old+75newIDs+7laternewversions)/82access transitions/30tensions;66claimformulations(54old+12new), totaling73claimIDs/325formulations/18forecasts;311propositionIDs/140ruleIDs. Current argument distinguishes genuine relational preferences from their adequacy as self-disclosure, pressure from actual agency recognition, records from feelings and particular grants from universal duty. M explicitly says interest and names jealousy; S actually supplies family self-cooking history but private love remains unconfessed. NewYear one-off command is consumed. Real work/UNI/friends/self-care/creative food work matter alongside exact boundary failures. Family bonus strengthens context without diagnosing or certifying parental intentions/maternal fate. M0.13/S0.14 untested and all V09 outcomes now fit.
+
+LN100% is one lane, not program completion:9/458I1units; externalSS0/18, Kak0/431, Narō0/290. Next BW-JP-V03 after exact unit/admission check, then all frozen later source and analytical stages. Model tests on web outcomes already exposed by novels cannot be called blind. Known missing sources/modality duties remain visible, future LN10/later releases excluded. Source→housekeeping→finalactual-head/nightly/explicitmainaudit governs publication; no directmain/globalregistry/index writes. Runactive/gateOPEN; nextoperationnotNONE.
