@@ -5,14 +5,14 @@ artifact_type: character_reconstruction_specification
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Time-indexed behavioral models, readiness, tests and abstention"
-source_boundary: "Bootstrap metadata and architecture only; zero V2 narrative units admitted or read"
+source_boundary: "Specification for frozen inventory SHUUKURA-V2-20261017-I1; no constructed or tested character model"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_CHARACTER_RECONSTRUCTION_CONTRACT.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: OWNER_BOOTSTRAP_REVIEW_PENDING
+review_status: OWNER_ADOPTED_FOR_AUTHORIZED_V2_EXECUTION
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -92,3 +92,5 @@ Model acceptance requires an auditable state/information contract, strong suppor
 Future model home: `05 Character Studies/SHUUKURA_<SUBJECT>_RECONSTRUCTION.md`; companion monograph: `05 Character Studies/SHUUKURA_<SUBJECT>_MONOGRAPH.md`. These are reserved naming patterns, not existing files or bootstrap deliverables. Use source-established identity and the repository's curation conventions; do not create global registry entries here. Validation records live with the model so its tested scope remains attached, while readiness summaries point back to those records.
 
 Hypothetical and crossover simulations are downstream, noncanonical applications. Their outputs are not observations, evidence, validation cases or new story facts. A model update invalidates affected downstream applications by version; preserve older model/test versions and do not silently claim a new boundary for them.
+
+Revision 0.2: owner adoption recorded for continuous execution. Model state remains UNASSESSED; no construction, predictive test or validation has occurred.
