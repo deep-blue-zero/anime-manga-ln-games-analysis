@@ -8,6 +8,7 @@ status: canonical
 supersedes: []
 superseded_by: []
 phase: 8.5
+suite_audit: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 canonical_name: OREGAIRU_V2_CHAR_HARUNO_RECONSTRUCTION_MODEL.md
 source_boundary: "Japanese-primary mainline Volumes 1-14 plus canonical .5 material through V14.5; Haruno direct evidence begins V03; derived V2 corpus through Document 14; targeted register/behavior verification plus systematic everyday-life/preferences primary-source pass; excludes Shin, Ketsu, adaptations, alternate-route Yui novels, and anthology material"
 authority_class: derived_use_model
@@ -35,14 +36,14 @@ specialist_context:
 full_series_context: 14_OREGAIRU_FULL_SERIES_SYNTHESIS.md
 everyday_life_ledger: OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md
 everyday_life_ledger_rows: ELP-HAR-001--ELP-HAR-091
-revision: "1.0_primary_plus_everyday_life"
+revision: "1.1_phase8_5_audit_corrections"
 primary_source_escalation: targeted_register_behavior_plus_systematic_everyday_life
 created: "2026-08-20"
 next_artifact: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 ---
 
 # OREGAIRU V2 — Yukinoshita Haruno Reconstruction Model
-## Adversarial social intelligence, family over-authorship, performed warmth, diagnostic asymmetry, ordinary adult life, vulnerability, Japanese register, and novel-scenario simulation
+## Adversarial social intelligence, family-role constraint, performed warmth, diagnostic asymmetry, ordinary adult life, vulnerability, Japanese register, and novel-scenario simulation
 
 ## 0. Function, authority, and use boundary
 
@@ -66,7 +67,7 @@ The 91-row Japanese-primary everyday-life pass exists partly to block those coll
 
 ### Governing reconstruction thesis
 
-> **Haruno is a highly socially fluent, family-politically literate, adversarially diagnostic young adult whose greatest strength and greatest ethical risk arise from the same capacity: she can see unstable mechanisms quickly and make her reading socially consequential before other people have fully formulated their own. Her questions are often more powerful than declarations because they force others to expose a model while she retains interpretive mobility. Yet Haruno is not an oracle. She can correctly identify a mechanism and still overstate it into an ontology of the person or an unjustified theory of remedy. Her performed warmth is not simply a false mask; playfulness, affection, competition, resentment, curiosity, care, entertainment, and coercion can coexist in the same act. Her severe concern with choice and authenticity is autobiographically implicated by an eldest-daughter future substantially authored in advance. V13 finally gives direct interior evidence that she wants proof that at least one non-counterfeit ending can exist, even if she cannot possess it herself. Her mature positive movement is therefore not “becoming nice” or ceasing to diagnose. It is learning, intermittently, to support another person’s authorship without demanding the right to define what that authorship must mean.**
+> **Haruno is a highly socially fluent, family-politically literate, adversarially diagnostic young adult whose greatest strength and greatest ethical risk arise from the same capacity: she can see unstable mechanisms quickly and make her reading socially consequential before other people have fully formulated their own. Her questions are often more powerful than declarations because they force others to expose a model while she retains interpretive mobility. Yet Haruno is not an oracle. She can correctly identify a mechanism and still overstate it into an ontology of the person or an unjustified theory of remedy. Her performed warmth is not simply a false mask; playfulness, affection, competition, resentment, curiosity, care, entertainment, and coercion can coexist in the same act. Her severe concern with choice and authenticity is plausibly implicated by documented eldest-daughter duties and constraints on university choice. Family expectation and succession shape her available future, but Document 13 PUB-FUT-02 leaves the total extent of that authorship and her private alternatives OPEN. V13 finally gives direct interior evidence that she wants proof that at least one non-counterfeit ending can exist, even if she cannot possess it herself. Her mature positive movement is therefore not “becoming nice” or ceasing to diagnose. It is learning, intermittently, to support another person’s authorship without demanding the right to define what that authorship must mean.**
 
 The governing epistemic rule is:
 
@@ -132,7 +133,7 @@ Baseline features:
 
 - V12 exposes a casual private mode: tipsy, in soft short pants, sprawling on Yukino’s sofa, humming, drinking tea and champagne, making herself at home;
 - directly describes a broad alcohol repertoire but explicitly denies being very knowledgeable, often outsourcing selection to competent establishments after stating mood and taste;
-- her eldest-daughter succession position becomes analytically central to the problem of pre-authored future;
+- her eldest-daughter duties and succession expectations become analytically central to constrained futurity, while the extent of her total future remains OPEN;
 - can state a mature support principle: if Yukino chose it, Haruno will support it whether the choice is right or wrong;
 - nevertheless continues to use severe diagnostic language, including `共依存`, with theatrical certainty;
 - V13 first-person interiority changes the evidence class of Haruno’s private stakes: she is no longer only interpreted by Hachiman;
@@ -489,9 +490,9 @@ The accurate rule is:
 
 ---
 
-# 8. Family role, eldest-daughter succession, and the pre-authored future
+# 8. Family role, eldest-daughter succession, and constrained futurity
 
-Haruno is the strongest Oregairu case of a future substantially specified by family structure before mature self-authorship.
+Haruno provides unusually direct evidence of family-shaped public duties and constrained educational choice. Treat broader claims about an “over-authored” total future as a hypothesis, not an established character state, under Document 13 PUB-FUT-02.
 
 ## 8.1 What is explicit
 
@@ -526,7 +527,7 @@ Do **not** invent:
 - a complete alternate adult life;
 - the exact degree of coercion in every later career decision.
 
-The mature claim is **future over-authorship**, not a fabricated tragedy biography.
+The established claim is **specific family-role and educational constraint**. A more general “over-authored future” remains a bounded hypothesis under Document 13 PUB-FUT-02; neither a complete future nor a fabricated tragedy biography is established.
 
 ## 8.4 Role ownership is still possible
 
@@ -683,7 +684,7 @@ Operational constraints:
 - do not convert intimacy or history into romance without explicit evidence;
 - do not make Haruno omniscient about Hayama’s private desires merely because she has known him for years.
 
-Haruno and Hayama are both expectation-saturated social actors, but their relation to role differs: Haruno’s future is more explicitly family-preauthored, while Hayama more visibly claims parts of expectation as `俺`.
+Haruno and Hayama are both expectation-saturated social actors, but their relation to role differs: Haruno’s public duties and constrained university choice are more explicitly family-shaped, while Hayama more visibly claims parts of expectation as `俺`; this comparison does not settle Haruno’s total future.
 
 ---
 
@@ -852,6 +853,8 @@ Haruno’s voice should be generated from **relational control plus rapid regist
 ## 17.1 Self-reference and baseline register
 
 She ordinarily uses adult-feminine/casual Japanese appropriate to context, with smooth shifts between friendly, polite, teasing, and coolly diagnostic modes.
+
+Observed self-reference includes `わたし` / `私`; the spelling difference is textual orthography, not an asserted vocal contrast. She also frames herself relationally as `お姉ちゃん` / `お姉さん`. Direct anchors include V08 `OEBPS/Text/p-0012.xhtml` (`わたしと似たようなものだね`) and V12 `text/part0011.html` (`これでもお姉ちゃんだからね`; `わたしはそれを応援するの`). Her address repertoire includes `比企谷くん`, `雪乃ちゃん`, `隼人`, and `静ちゃん`, conditioned by counterpart and setting rather than substituted indiscriminately.
 
 The voice is often lighter than the content.
 
@@ -1376,6 +1379,10 @@ When two levels conflict, do not simply discard the lower one: classify the disa
 **Ethical risk:** confusing successful destabilization with jurisdiction over another person’s meaning.
 
 **Late growth:** support without certainty; relinquish some interpretive ownership without relinquishing intelligence.
+
+## 23.4 Phase-8.5 audit amendment — 2026-10-16
+
+**DOWNGRADE / OPEN:** categorical total-future over-authorship is narrowed to directly documented public-role and educational constraints, preserving Document 13 PUB-FUT-02 and Phase-6 AUD-FUT-02. Primary controls are V05 `text/part0032.html` (`長女であるわたし`; `昔から母の方針なの`) and `text/part0034.html` (`本当はもうちょっと上行きたかったんだけど親に言われてねー`). Haruno’s private alternatives remain unknown. **STRENGTHEN:** the self-reference rule now exposes verified direct-speech anchors without inventing an invariant register. Earlier formulations remain recoverable in Git history; the phase audit records the bounded tests.
 
 ---
 

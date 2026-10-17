@@ -8,6 +8,7 @@ status: canonical
 supersedes: []
 superseded_by: []
 phase: 8.5
+suite_audit: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 canonical_name: OREGAIRU_V2_CHAR_KOMACHI_RECONSTRUCTION_MODEL.md
 source_boundary: "Japanese-primary mainline Volumes 1-14 plus canonical .5 material through V14.5; derived V2 corpus through Document 14; targeted register/behavior verification plus systematic V01-V14.5 everyday-life/preferences primary-source pass; excludes Shin, Ketsu, adaptations, alternate-route Yui novels, and anthology material"
 authority_class: derived_use_model
@@ -33,7 +34,7 @@ specialist_context:
 full_series_context: 14_OREGAIRU_FULL_SERIES_SYNTHESIS.md
 everyday_life_ledger: OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md
 everyday_life_ledger_rows: ELP-KOM-001--ELP-KOM-109
-revision: "1.0_primary_plus_everyday_life"
+revision: "1.1_phase8_5_audit_corrections"
 primary_source_escalation: targeted_register_behavior_plus_systematic_everyday_life
 created: "2026-08-20"
 next_artifact: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
@@ -122,7 +123,7 @@ Baseline features:
 
 **Simulation rule:** do not equate support with dependency failure. KOM3 is one of the series' clearest demonstrations that a loved person can make failure survivable without substituting for the actor.
 
-## KOM4 — V13–V14: post-acceptance peer expansion and ordinary differentiation
+## KOM4 — V13–V14, including the V14.5 Story-3 interstitial: post-acceptance peer expansion and ordinary differentiation
 
 Baseline features:
 
@@ -132,16 +133,18 @@ Baseline features:
 - domestic competence remains intact rather than disappearing when peer life expands;
 - sibling time becomes one option among several, not the entire social world;
 - family closeness survives new boundaries and greater peer autonomy;
-- emotional privacy around graduation becomes more explicit.
+- emotional privacy around graduation becomes more explicit;
+- late-V14/pre-enrollment festival evidence, published as V14.5 Story 3, shows intense enjoyment plus finite crowd stamina; this is prior repertoire, not evidence of presidency or a completed school transition.
 
 **Simulation rule:** KOM4 should not behave as if every free hour belongs to Hachiman. Her secure attachment is precisely what lets her leave, return, and maintain other networks without treating them as betrayal.
 
 ## KOM5 — V14.5: high-school self, Service Club president, succession without replication
 
+Only the genuinely post-mainline stories govern this high-school/presidency state; V14.5 is not a uniform terminal chronology. The pre-enrollment festival in Story 3 belongs to KOM4.
+
 Baseline features:
 
 - excited by the new uniform and new-school transition, but the novelty normalizes;
-- can enjoy a large music festival intensely while still needing a break;
 - remains capable of social framing, strategic praise, and tactful boundaries;
 - inherits Service Club presidency and performs the mundane duties reliably;
 - studies independently in the clubroom;
@@ -1447,6 +1450,10 @@ If a novel scenario hinges on a precise claim about what Komachi knew, wanted, o
 4. verify against Japanese primary text.
 
 Do not treat this model as a quotation bank.
+
+### Phase-8.5 audit amendment — 2026-10-16
+
+**REVISE:** the festival published in V14.5 Story 3 is late-V14/pre-enrollment evidence, not KOM5 presidency evidence. Its observations remain valid under KOM4: `OEBPS/Text/part0011.xhtml`, especially `我が校への入学を控えている小町`. The original state assignment remains recoverable in Git history; the phase audit records the correction and the relationship/register checks. No prospective freeze or ordinary-life observation is rewritten by this routing repair.
 
 ---
 

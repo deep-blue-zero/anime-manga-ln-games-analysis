@@ -7,12 +7,12 @@ status: canonical
 lifecycle: active_mutable
 title: Oregairu V2 — Google Drive Corpus Map
 project: Oregairu V2
-source_boundary: Canonical Oregairu V2 analytical corpus through Phase 8 full-series synthesis and active Phase 8.5 character reconstruction; sequential reread complete through Volume 14.5, Phases 4-8 closed, all 8/8 architecture-defined reconstruction models and all eight primary-source-first everyday-life/preferences slices complete, Phase-8.5 cross-model consistency audit pending, and archival freeze deferred until Phase 8.5 closes
+source_boundary: Admitted Japanese mainline and qualified supplementary corpus through V14.5; Phases 4-8 closed; original eight-model Phase 8.5 suite audited and closed for declared tests; supporting-character expansion active; archival release pending expansion and published-state QA
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 updated: '2026-10-16'
-next_artifact: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
+next_artifact: SC01_TOTSUKA_SAIKA_AGENCY_FRIENDSHIP_AND_THE_NARRATED_GAZE.md
 ---
 
 # Oregairu V2 — Google Drive Corpus Map
@@ -36,21 +36,24 @@ Current state:
 - canonical Phase-7 artifact: `13_EVIDENCE_LOCATOR_AND_FIRST_PASS_REVISION_LEDGER.md` (Drive `1aviB9kfg7wAiql3lyC5m5tZep3o7PPni`);
 - Phase 8 full-series continuous synthesis: **complete — Phase 8 closed**;
 - canonical reader-facing synthesis: `14_OREGAIRU_FULL_SERIES_SYNTHESIS.md` (Drive `1PEGCl0gZoTzENuvMwG858uFTd1Z-pQwa`);
-- Phase 8.5 character reconstruction and simulation models: **active — 8/8 architecture-defined models complete; phase-level cross-model consistency audit pending**;
+- original Phase 8.5 character reconstruction suite: **8/8 canonical models; corrected suite audit PASS for declared tests — original Phase 8.5 closed**;
 - canonical model folder: `Character Reconstruction Models` (Drive `1yaaw6OyIHvc5cWC_J7OpxPnq8hyX8m8B`);
 - latest canonical Phase-8.5 model: `OREGAIRU_V2_CHAR_HAYAMA_RECONSTRUCTION_MODEL.md` (Drive `1woSncjarYMot9m7Pq0Q0vWAbBWEzJmRy`);
 - shared Phase-8.5 everyday-life/preferences evidence ledger: `OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md` (Drive `1LXvZxsTf_IwgDMqxj3qwuE1i64KniPm8`), mutable cumulative ledger with Hachiman's 84-row, Yukino's 70-row, Yui's 60-row, Iroha's 62-row, Komachi's 109-row, Haruno's 91-row, Hiratsuka's 132-row, and Hayama's 114-row Japanese-primary slices complete (**722 rows total**);
-- Hachiman reconstruction model revised in place to revision `1.1_everyday_life_augmentation` using ledger rows `ELP-HAC-001`--`ELP-HAC-084`;
-- Yukino reconstruction model revised in place to revision `1.1_everyday_life_augmentation` using ledger rows `ELP-YUK-001`--`ELP-YUK-070`;
-- Yui reconstruction model revised in place to revision `1.1_everyday_life_augmentation` using ledger rows `ELP-YUI-001`--`ELP-YUI-060`;
-- Iroha reconstruction model completed as revision `1.0_primary_plus_everyday_life` using ledger rows `ELP-IRO-001`--`ELP-IRO-062` (Drive `1Hs-7H8USBs_4RWdFDhWINBemYbFhmBST`);
-- Komachi reconstruction model completed as revision `1.0_primary_plus_everyday_life` using 109 validated Japanese-primary ledger rows `ELP-KOM-001`--`ELP-KOM-109` (Drive `127xOpAjSx49_sm_BDuJdp708UO9VQHdr`);
-- Haruno reconstruction model completed as revision `1.0_primary_plus_everyday_life` using 91 validated Japanese-primary ledger rows `ELP-HAR-001`--`ELP-HAR-091` (Drive `1p8ECSDum-ffGkNE5prScTGRDMhklpZfM`);
-- Hiratsuka reconstruction model completed as revision `1.0_primary_plus_everyday_life` using 132 validated Japanese-primary ledger rows `ELP-HIR-001`--`ELP-HIR-132` (Drive `1wpNt8WOILrJgF0ePjqlgf5J_E68UhqZC`);
+- Hachiman reconstruction model revised in place to revision `1.2_phase8_5_suite_audit_corrections` using ledger rows `ELP-HAC-001`--`ELP-HAC-084`;
+- Yukino reconstruction model revised in place to revision `1.2_phase8_5_suite_audit_corrections` using ledger rows `ELP-YUK-001`--`ELP-YUK-070`;
+- Yui reconstruction model revised in place to revision `1.2_phase8_5_suite_audit` using ledger rows `ELP-YUI-001`--`ELP-YUI-060`;
+- Iroha reconstruction model completed as revision `1.1_phase8_5_suite_audit` using ledger rows `ELP-IRO-001`--`ELP-IRO-062` (Drive `1Hs-7H8USBs_4RWdFDhWINBemYbFhmBST`);
+- Komachi reconstruction model completed as revision `1.1_phase8_5_audit_corrections` using 109 validated Japanese-primary ledger rows `ELP-KOM-001`--`ELP-KOM-109` (Drive `127xOpAjSx49_sm_BDuJdp708UO9VQHdr`);
+- Haruno reconstruction model completed as revision `1.1_phase8_5_audit_corrections` using 91 validated Japanese-primary ledger rows `ELP-HAR-001`--`ELP-HAR-091` (Drive `1p8ECSDum-ffGkNE5prScTGRDMhklpZfM`);
+- Hiratsuka reconstruction model completed as revision `1.1_phase8_5_audit_corrections` using 132 validated Japanese-primary ledger rows `ELP-HIR-001`--`ELP-HIR-132` (Drive `1wpNt8WOILrJgF0ePjqlgf5J_E68UhqZC`);
 - everyday-life augmentation gate: **all eight architecture-defined character slices complete and canonical; 722 rows total**;
-- next immediate Phase-8.5 task: run `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md` to satisfy the architecture-mandated source-routing, state-separation, cross-character scenario, register, iconic-marker, and inference-boundary QA gate;
+- canonical suite audit: [OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md](OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md), with source-routing, state/relationship separation, static 7×8 scenario tests, register, negative-constraint and uncertainty findings; optional deployed-generator calibration remains OPEN;
 - architecture-defined reconstruction models: **8/8 complete; none pending**;
-- Phase 9 archival release is **deferred until Phase 8.5 closes**.
+- supporting-character expansion: **active**, under the narrow 2026-10-16 architecture amendment;
+- Phase 9 archival release is **pending completed expansion, reconciliation and release QA**.
+- [Reconciled source inventory](../01%20Legacy%20V1%20and%20Source%20Control/OREGAIRU_V2_SOURCE_INVENTORY.md) now verifies 53 payload identities and carries the V12 hash / original-booklet availability errata. Omitted booklet stories are available but separately unadmitted; no new narrative scope is implied.
+- publication: metadata tranche `122dc19ebe66d5ea0288eae8cc18ef67bbdb07ed` is published in draft PR #189; suite-audit amendments are proposed until their exact publication/integration receipt is recorded.
 
 Remediation and expansion progress, exact canonical owners, curation handoff, and unresolved obligations are recorded in [the completion status](OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md). The original eight-model suite remains a distinct obligation; supporting-character expansion does not redefine its historical scope.
 
@@ -485,7 +488,7 @@ The following Volume-14.5 distinctions are now canonical for subsequent analysis
 - In Story 5, Hachiman/Yukino translate Volume 14's large life claim into ordinary future assumptions: different universities need not prevent meeting; Hachiman would actively oppose Yukino lowering her academic ambition to match him; Yukino can say `一緒の方が頑張れると思うし` without implying incapacity.
 - Yukino's one-month-anniversary cookies are self-authored rather than debt-producing: `私が勝手にやっているだけだから`. The one-year/ten-year exchange signals future inclusion without contractual certainty.
 - Yui remains an active institutional subject after romantic loss. Iroha explicitly recognizes that Yui understands Hachiman/Yukino's caution but will still say the simple desired thing aloud: recruit future members.
-- Iroha articulates explicit epistemic humility: `私がわかるのは、わたしのことだけ。だから、わたし基準に想像するしかない`. This is a strong countermodel to unmarked mind-reading.
+- Iroha's first-person interior narration marks explicit epistemic humility: `わたしがわかるのは、わたしのことだけ。だから、わたし基準に想像するしかない`. This is a strong countermodel to unmarked mind-reading.
 - Hachiman's decisive succession correction is `神聖視`: he recognizes that treating the current Service Club configuration as supreme distorted his view of Komachi's future. He then states that their relationship was never perfect, but has remained distorted, frayed, sometimes severed, and `未だにまちがい続けながら広がる`.
 - The final Service Club continuity is **transmissive rather than preservational**: Komachi receives office, a mug, experience, and Yukino's tea practice; Iroha receives belonging beyond formal membership; future people and forms are allowed to differ.
 - The complete V14.5 text contains no `本物`, `偽物`, `依存`, or `共依存`. This does not prove those problems solved; in the true post-ending stories it shows ordinary life can proceed without those terms governing each interaction.
@@ -505,7 +508,7 @@ Phase 5 - Specialist Synthesis is now **closed at 12/12 architecture-defined doc
 - Yukino's one-month-anniversary gift is self-authored rather than debt-producing; one-year/ten-year horizons remain explicitly uncertain.
 - Yui remains romantically non-reciprocated but behaviorally central. Her friendship with Yukino is active, and she can state straightforward desires that Hachiman/Yukino overcomplicate without seizing Komachi's final decision.
 - Iroha remains an ordinary post-choice boundary test: `プレゼントは言い訳ですよ` confirms transparent pretext, while `なし崩し` weekend scheduling preserves a low-stakes authorization imperfection rather than a route reopening.
-- Iroha's `私がわかるのは、わたしのことだけ。だから、わたし基準に想像するしかない` is retained as a high-value epistemic limit on mind-reading.
+- Iroha's interior narration `わたしがわかるのは、わたしのことだけ。だから、わたし基準に想像するしかない` is retained as a high-value epistemic limit on mind-reading.
 - Hachiman's decisive post-ending correction is `神聖視`: he recognizes that treating the present Service Club arrangement as supreme, perfect, and complete is itself a distortion.
 - The relation is explicitly remembered as something that has distorted, frayed, sometimes broken, remained connected, expanded, and `まちがい続ける`; post-ending viability does not retroactively purify its history.
 - Service Club continuity becomes transmissive rather than preservational: Komachi receives office and practice, Iroha receives belonging beyond formal membership, future recruitment is allowed, and Yukino teaches tea while the room's people and objects are expected to change.
@@ -548,7 +551,21 @@ The Volume 07 publication includes the prose bonus track `彼女たちの、う�
 
 ## Next architecture-defined phase
 
-**Phase 8.5 — Character reconstruction and simulation models** has reached **8/8 architecture-defined models complete**, and every model now routes to a canonical Japanese-primary everyday-life/preferences slice. The shared `OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md` contains Hachiman (84 rows), Yukino (70), Yui (60), Iroha (62), Komachi (109), Haruno (91), Hiratsuka (132), and Hayama (114), for **722 total rows**. The model-count and everyday-life evidence gates are satisfied, but Phase 8.5 remains **active** until the architecture-mandated cross-model consistency QA is completed. The next artifact is `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md`. **Phase 9 — Archival release and immutable packaging** begins only after that audit passes and Phase 8.5 is explicitly closed. The working `OREGAIRU_V2_DRIVE_CORPUS_MAP.md` remains the active mutable entrypoint until the eventual release freeze is complete.
+The **original Phase 8.5 suite is closed** by `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md` after localized source, chronology and claim-control corrections. Its eight canonical models and 722 original everyday observations remain historically identifiable. The audit's 7×8 scenario rehearsal is a specification-level discrimination test; deployed-generator behavior and numerical marker distributions remain OPEN. Supporting-character expansion now proceeds in the existing specialist/model homes under architecture v2.3. Phase 9 follows that expansion and release QA; the present mutable map remains the registered entrypoint.
+
+## Owner-acquisition leads and excluded sources — checked 2026-10-16
+
+These are availability records, not narrative admission or inspected content. They do not block completion of the admitted V2 corpus. No source hash, internal chronology, or fictional conclusion is inferred from a publisher listing.
+
+| Lead | Official bibliographic / access evidence | Authority and next requirement |
+|---|---|---|
+| `やはり俺の青春ラブコメはまちがっている。結 3` | [Shogakukan](https://shogakukan-comic.jp/book?isbn=9784094533101): 渡航 / ぽんかん8; 2026-09-18; ISBN 9784094533101; 296 pages | Alternate-continuity fiction. Owner acquisition, edition validation and separately approved comparative scope required; cannot govern mainline V2. |
+| `やはり俺の青春ラブコメはまちがっている。－刻－` | [Shogakukan](https://shogakukan-comic.jp/book?isbn=9784091991003): 15th-anniversary mook; 2026-09-18; ISBN 9784091991003; A4, 124 pages | Production-history / paratext candidate. Classify each document, speaker and historical date after acquisition; retrospective testimony does not automatically override fiction. |
+| JR Central anniversary stories | [Official campaign](https://recommend.jr-central.co.jp/oshi-tabi/oregairu15th/): four new Watari stories, text and voiced forms | Supplementary fiction candidate; continuity and internal chronology unverified. Owner access must comply with campaign conditions; performance and prose remain distinct evidence. |
+
+The four campaign windows are: (1) 2026-09-18–2027-01-12; (2) 2026-11-21–2027-01-12; (3) 2027-01-13–2027-02-22; (4) 2027-02-23–2027-03-31. Only the first window has begun as of this check. Access requires Tokaido Shinkansen travel, location/speed verification, a questionnaire and free account registration. The official terms prohibit recording, copying/reposting/repurposing and falsified location or unauthorized access. Access is not permission to capture or redistribute the source; any future evidentiary route must respect those restrictions.
+
+**Shin is excluded from this completion and release.** Historical suggestions of a future annex are not an active task or acquisition dependency. Newly available material must first be identified, classified and separately admitted through the governing source route.
 
 ## Synchronization rule
 
