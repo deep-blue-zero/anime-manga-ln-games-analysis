@@ -5,10 +5,10 @@ artifact_type: source_scope_map
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.11'
+version: '0.12'
 status: active_provisional
 scope: Source and scope / witness inventory
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U010 complete Part III heading/framing and numbered01 at spines20–22; exclusive before spine23 text/part0010_split_002.html; later narrative body unopened
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U011 complete Part III numbered02 at spine23 text/part0010_split_002.html; exclusive before spine24 text/part0010_split_003.html; later narrative body unopened
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -56,10 +56,10 @@ Before retention of the pilot verification bundles, direct folder retrieval retu
 | Package identifier | `B009DEMA1Q` plus package UUID identifiers; no verified edition ISBN in inspected metadata |
 | Transformation indications | Calibre metadata and split/generated packaging exist; exact acquisition and transformation lineage unverified |
 | Archive/package | Fresh ZIP CRC passes; container resolves `content.opf`; 44 declared manifest resources and all 40 spine occurrences resolve/parse; active CSS resolves; 39 absent alternate-stylesheet links are separately bounded below; no encryption manifest |
-| Text capability | Admitted units through HAR-U010 are legible Japanese; meaningful text/form round-trips through source XHTML, XML-aware extraction and faithful source-CSS rendering; prose beyond this frontier remains semantically uninspected |
+| Text capability | Admitted units through HAR-U011 are legible Japanese; meaningful text/form round-trips through source XHTML, XML-aware extraction and faithful source-CSS rendering; prose beyond this frontier remains semantically uninspected |
 | Pagination / CFI | No page-map member observed; edition-page mapping and stable CFI generation not verified. Use hash-bound member/DOM locators under the method |
-| Reading authority | `VERIFIED_WITNESS_THROUGH_HAR_U010`; exact transformed Japanese witness, incremental unit fidelity, unchanged lineage caveats |
-| Narrative state | `ADMITTED_THROUGH_HAR-U010`; Parts I–II complete and Part III heading/framing/01 fully read/closed;132 evidence IDs/135spans; exclusive before Part III02 |
+| Reading authority | `VERIFIED_WITNESS_THROUGH_HAR_U011`; exact transformed Japanese witness, incremental unit fidelity, unchanged lineage caveats |
+| Narrative state | `ADMITTED_THROUGH_HAR-U011`; Parts I–II complete and Part III through02 fully read/closed;146 evidence IDs/149spans; exclusive before Part III03 |
 
 SHA-256 and ZIP integrity detect byte changes/corruption; they do not authenticate the edition or establish textual completeness. At bootstrap, mechanical parsing did not display narrative passages and human-readable inspection was limited to package metadata/navigation. The later pilot source audit is explicitly recorded below. No normalized narrative derivative is promoted or published.
 
@@ -126,7 +126,7 @@ Roles after the current admitted frontier remain **provisional** from package/na
 | 20 | `text/part0009.html` | Part III heading Me,I'm Not; READ/CLOSED in HAR-U010, body0–37 |
 | 21 | `text/part0010_split_000.html` | Part III literal ETML reopening/blanks; READ/CLOSED in HAR-U010, body0–159 |
 | 22 | `text/part0010_split_001.html` | Complete natural Part III01; READ/CLOSED in HAR-U010, body0–9313 |
-| 23 | `text/part0010_split_002.html` | Part III numbered 02 from NCX; UNREAD |
+| 23 | `text/part0010_split_002.html` | Complete natural Part III02; READ/CLOSED in HAR-U011, body0–10644 |
 | 24 | `text/part0010_split_003.html` | Part III numbered 03 from NCX; UNREAD |
 | 25 | `text/part0010_split_004.html` | Part III numbered 04 from NCX; UNREAD |
 | 26 | `text/part0010_split_005.html` | Part III numbered 05 from NCX; UNREAD |
@@ -300,3 +300,12 @@ Cumulative closeout:20subjects/50actorhistory/41directionIDs82relationhistory/48
 ## HAR-U010 private verification retention
 
 `HAR-U010_PRIVATE_SOURCE_VERIFICATION_20261017_V1.zip` is retained privately as Drivefile`1sypxOwVvNtQ6zGRywoVBjC8apPujwIRU`, verified parent`1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`,shared=false/owner-only permissions. Complete raw remote readback matches3,540,702bytes/SHA-256`c1221d76af26f67d88d5338c2edb4a5a1dbb13612ed1de81d9353a39321e6e6e`; safe paths/ZIPCRC/exact35entries and all34source-object sizes/hashes PASS. ManifestSHA-256`a66603020f5e53a98966ebfb999a17066f3d919b4f2614f11e1fbb52d5d560ef`. Faithful current extractions/9actualpanels/geometry/ruby/14neutral source-locator proofs/reproducible scripts/current tool+font provenance and factual author/reviewer source checks only. A neutral reviewer-source projection omits exposure/candidate-state fields without changing retained source values. Analytical prose/frontiers/drafts, future text, originalEPUBduplicates/binaries/caches excluded. Original witness unchanged; retention establishes persistence, not publisher authentication.
+
+
+## HAR-U011 incremental source and reading closeout
+
+[HAR-U011](../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md) closes full natural PartIII02, spine23 `text/part0010_split_002.html`, exclusive before spine24. MemberSHA-256 `58ad1361d9ca3e236e00b9d98be685943ea2d34f39c1dae88e470657e0714ac9`;10644rawbodycp/208blocks/27ruby/207br. All208blocks, literal nested recollection/antipathy/regret/list/dictionary/movie fields, heading and final blanks read. All7actual source-CSS panels inspected including final narrow blank margin. Fourteen original-body HAR-LOC-1 selections independently hash-round-trip. XML/extraction/recorded actualDOM and fresh reviewerDOM rawbody/all208blocks match; all277paragraph/ruby/rt bounds fit. Original head/activeCSS/all27ruby checked, including unchanged 抑滑 よつ/かつ, 芳 かんば, 九相詩 く/そう/し, 呵責 か/しやく. Same-member son/daughter discrepancy at blocks131/154 is explicitly retained as unresolved witness evidence, without emendation.
+
+Actual render vertical-rl8232×1000, bodyx46.84375–8225.34375; byte-identical original XHTML aliases served loopback-only as application/xhtml+xml, original activeCSS plus viewer-font choice, nonloopback browser requests blocked. Runtime Chromium154.0.8037.57/NodePlaywright1.62.1/Python3.12.14/lxml6.1.1/libxml2 2.14.6; NotoSerifCJK JP collectionSHA-256 `5d9c31a059600193c9d7968a998bde886ccdc77e934006ad243b41794c496a7d`. ActualJPfont samples/source-glyph coverage checked. Aggregate textRange subpixel bottom1000.046875 does not clip any checked element/lexical column. Existing transformed-edition/date/missing inactivealternate styles limitations persist; no publisher-layout reconstruction or rawsourceGit retention.
+
+Cumulative:23subjects/58actorhistory/45directionIDs94relationhistory/56readinesshistory/60worldIDs/81claims/0predictions/2earlierRV;146evidenceIDs149spans. TwoDOMAIN_BOUNDED/twenty-oneRECOGNITION_ONLY; modelsNOT_STARTED/validationNOT_PERFORMED; architecture remainsINITIAL/adequate, no G2–G6 work. Earlier accepted readings and ledger histories preserved. NextHAR-U012 is naturalPartIII03 atspine24; its body remains unopened pending full current publication gates.
