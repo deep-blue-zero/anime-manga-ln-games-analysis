@@ -1104,3 +1104,21 @@ The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_
 Source unit C2:28literal checks/90serialized bindings in LN04p0141–60,108–137. Separate post-Q1 claim-routing correction:29checks/94bindings in LN09p004/p007/p008/p009/p013. These are known-source checks, not new heldout interactions. All13historical attempts/18forecast records unchanged; no independent acceptance, numerical accuracy or VALIDATEDdomain. Full reconstruction program remains mandatory.
 
 S0.14 retains original adult fit/time/UNTESTED/noncurrent identity. The new object focalizer supplies no operational human response model.
+
+
+## KSS06 historical evidence addendum — soft address and object conversation
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_06_DEEP_READING.md#observation-locator-index) owns complete nativepart10/69anchors42nonempty,42native checks, explicit black-glyph derivative qualification and20original checks/51bindings. Cat plush focalizes; Mquoted speech/handling and object dialogue have distinct speakers/access routes. Catmostlyわたし/simple hiragana terms contrast croc私/inflated seniority/register; native30私variation preserved. These object registers are not human conversational samples.
+
+| Responsibility | Evidence and limitation |
+| --- | --- |
+| Historical Miyagi | Cat reports complaints/home company; Mstrokes/holds cat and says packing nearlydone/temporarystay, selects box/places it. Two soft quoted lines provide a bounded written object-address context, not a global human style or all Mmotives |
+| Historical Sendai | Cat remembers selection and anticipates future meeting from Mreport. No new current Sown-voice action, reciprocal promise, performed reunion or knowledge of object talk |
+| Source-specific access | KSS05inability-to-speak-to-comfort passage remains exact; KSS06reports/enacts object dialogue. Current CLM-KSS-05-002.v2/PROP-KSS-05-011.v2 qualify universal silence. Neither humans hearing that conversation nor all object-world ontology established |
+| Behavioral limits | Cat reply/wish differs demonstrated Mhearing; no heard-human refusal judgment inferred. Croc rank/deference conditionR154belongs solely to represented object exchange, understanding/acceptance/enforcement unestablished; no human model permission |
+| Original phase | Original LN04p014boxedcroc/bedsidecat/Mlift-and-invitation support phase; actual SSboxing/conversation are additional material. No exact same instant or claim the novel contains them |
+| Readiness | Earlier adult models retain own fit/time/UNTESTED/noncurrent prefixes. These are historical evidence addenda, no new operational packet/test; no expanded unfamiliar-person, cross-series, acoustic or generic conversation validation |
+
+All13historical attempts/18forecast records unchanged. No independent acceptance/numerical accuracy/VALIDATEDdomain. ERRATUM-KSS-05-001 housing/privacy routes retained unchanged; current speech qualification is a later-source revision, not a frozen-byte repair or failed formal forecast. Full reconstruction assessments remain mandatory.
+
+S0.14 original adult fit/time identity remains unchanged; historical object frame does not validate an operational human response model.

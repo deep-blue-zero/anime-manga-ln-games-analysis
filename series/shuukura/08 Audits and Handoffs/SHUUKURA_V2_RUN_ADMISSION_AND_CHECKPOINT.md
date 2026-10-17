@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.9"
+version: "1.10"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–04 CLOSED_ON_GREEN_MAIN; KSS05 whole-unit checkpoint, nextKSS06"
+source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–04 closed on main; KSS05halfway publication repaired/pending; KSS06whole-unit checkpoint, nextKSS07"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: KSS05_SOURCE_SEMANTIC_OBJECT_ACCESS_AND_CLAIM_ROUTING_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
+review_status: KSS06_SOURCE_SEMANTIC_OBJECT_DIALOGUE_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -746,3 +746,35 @@ KSS04 CLOSED_ON_GREEN_MAIN/PR214:source9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217/
 Object-narrated priority is not a human contract; private access and source clocks stay separate. No future release extends the frozen boundary.
 
 Before the whole KSS05commit, currentmaincce4eb7cb02867112afbe1b40fd17c074a666df2 was incorporated through a clean ordinary merge after PR214source9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217/main whole-tree equality421b0ee8879122f9719f0691723efb1a76616fe9. No new main paths/governance drift; all11candidate contents preserved across reconciliation. Final author review corrects new candidate readiness columns and p25limited-understanding locators before acceptance; source journals, original prefixes and accepted prior units unchanged.
+
+
+## KSS05 durable transaction and concurrent-main publication repair
+
+KSS05mandatory SS9/18halfway publication: wholeunit3e73317dc3d0c276d6796630e49392d083c5c678/treef959fe8be60f41fcebaccd66160d382d115b6aa3/preflight8101PASS/11exactpaths/normalpush-readback; source39072057093PASS, house39072306871requires concurrentmain. Approved ordinary138pathKonoSubaPR216/mainff5e454a598c0de3d506a9c5d45e80c63b24cc28import produced8fd720135c078b43873797d9d207da76672a8c17/treecd057250531188112c3969eacf6a129c57a12b2f/preflight8221PASS/normalpush-readback; all Shuukura bytes unchanged. New source-house-final/nightly/mandatoryowner-main chain pending as of this checkpoint; prior KSS04PR214closed. No failed/pending chain claimed complete. Source-entry KSS06freeze retains3e73317d; separate effective author base8fd72013rebind verifies all9beforeimages and10entering inputs unchanged. The archived source manifest and all prospective prefixes remain exact.
+
+## Durable checkpoint after KSS06
+
+**SHUUKURA-TX-KSS-06-20261017-A1** advances only through the whole introducing commit. [Reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_06_DEEP_READING.md) and [audit](SHUUKURA_V2_KSS_06_TRANSACTION_AUDIT.md) bind exact sources, prefixes, source-only archive, effective author base and cumulative states. Recover actual committed state before writes after interruption.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run | Epoch1/GIT_ACTIVE_ACCEPTED; method/architecture/reconstruction0.2;continuous_sequential/active/startLN01/terminalI1plusalloutputs/gateOPEN |
+| Source | KSS-06/AUTHOR_RELEASE_CAPTURE-20261017-A1/I1ordinal19/黒猫の期待/author羽田宇佐; nativepart10/12656bytes/SHAc236b7203f42916438593de4f7bead9fd3e35d7a807316b7872fe914b00e3050;69anchors42nonempty27blank |
+| Maps | PartsidentitySHA26bd746a629ed043c88f447a39e1f60cb7002ed36721c25213ad6635df97f715;parentmapSHA57a97e968efa2bd77f8dace83618cbe35a06243c30bcd3d2ab5c106b50f67127;unitmapSHA07bb51ade30ac2704f80a397e0f395564626194413f98bc17e2760ef1ee86428;exact serialization/order/flow/0ruby/42native checks PASS |
+| Metadata/voice | OutsideUIcomplete;1300declaredchars/revision2024-10-27 20:19 metadata only. Catmostlyわたし/simple terms/native30私preserved; crocquoted私/katakana praise, Mactual soft lines distinct |
+| C1 | 40/42rawNFKC contiguous matches each; explicit comparison-only raw⿊→NFKC黑→native黒fold yields42/42. All5FINAL/SRCpages equal complete extracted text/pixels; two actual page2p3/page3p47glyph crops, no paragraph repair/fullpage visual/audio claim |
+| C2 | OriginalLN04p0141–14,40–46,108–137:20checks/51serialized bindings. Boxedcroc/bedsidecat/Mlift/invitation align phase; SSboxing/dialogue additional material, exact instant/day unestablished |
+| Evidence | Drive19pqMFvqAQkYNAKu6zji8bkBsV2eGybP9/65116bytes/SHA80f81bdee92d974f5f43f1f06b3ea18e45ceacd6c6bf700afe0d63fe558519b9/23members; exact upload-download/memberhashes/CRC PASS; no raw media |
+| Entry/prefixes | SHUUKURA-KSS06-ENTER-20261017-A1@2026-10-17T21:43:03.352868+00:00;priorwhole3e73317dc3d0c276d6796630e49392d083c5c678/teninputs/0fiction0images. Q117517bytes/SHA005fce2437336a239f5cc2c4dba1192c2fba733cf163923dd89de174a7f08c58@2026-10-17T21:48:39.663021+00:00;F1first35/F2whole69prefixes exact |
+| Repository rebind | Original source-entry manifest/base3e73317d archived unchanged; pure owner mainPR216reconciliation8fd72013 adds no Shuukura changes/exposure. Separate AUTHOR_BASE_REBIND binds9beforeimages to effective author base8fd72013/treecd057250 |
+| Historical exit | KSS06-CAT-BOX-EXIT: company removes loneliness, wants M/futureS; KSS06-CROC-DIALOGUE-IMAGE: proximity discomfort/Mnews/claimedrank. M-KSS06-OBJECT-CARE/REPORTED-TALK and S-KSS06-WELCOME-IMAGE bounded; adult states/BW09night retained |
+| Material delta | 3human-image events/2projections/2readiness;7relationshiprows(6new+1older)/5directions/0older-ruleversions+1newR154object-only proposal;19propversions(3older+16new)/16access/6tensions;3olderclaims+3new.111claims/420forms/500props/154rules |
+| Current qualification | CLM-KSS-05-002.v2/PROP-KSS-05-011.v2 qualify universal non-speaking inference after enacted object dialogue. Earlier v1/native/journal/sourceendpoint intact, no failed formal forecast; human hearing unestablished |
+| Rule domain | R154only represented croc/cat conditional deference/talk proposal; definition/uptake unclear, no accepted/enacted hierarchy or human permission. All153prior rule scopes retained |
+| Models | Original M0.13/S0.14adultfit/time/UNTESTED/noncurrent prefixes intact;13attempts/18forecasts unchanged. No new operational packet/test/independent acceptance/VALIDATEDdomain |
+| HWM/next | OnlywholeKSS06commit:LN9/9;SS10/18;KakNONE0/431;NarōNONE0/290;available19/458. NextKSS-07/I1ordinal20/不平と不満と白川亜美/exactparts07→08 after admission. SS14/18nextmandatory milestone |
+| I1 | JSONSHA6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b;ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95. LN10/later releases excluded |
+| Remaining | 8accessibleSS/431parallelKak/290Narō/51knownmissing/27bounded notices/mandatoryvoices; all dedicated reconciliation/monographs/roleaudit/specialists/reconstruction/V1comparison/integrated/adversarialrelease remain mandatory |
+| Publication | KSS05mandatory SS9/18halfway publication: wholeunit3e73317dc3d0c276d6796630e49392d083c5c678/treef959fe8be60f41fcebaccd66160d382d115b6aa3/preflight8101PASS/11exactpaths/normalpush-readback; source39072057093PASS, house39072306871requires concurrentmain. Approved ordinary138pathKonoSubaPR216/mainff5e454a598c0de3d506a9c5d45e80c63b24cc28import produced8fd720135c078b43873797d9d207da76672a8c17/treecd057250531188112c3969eacf6a129c57a12b2f/preflight8221PASS/normalpush-readback; all Shuukura bytes unchanged. New source-house-final/nightly/mandatoryowner-main chain pending as of this checkpoint; prior KSS04PR214closed. No failed/pending chain claimed complete. |
+
+Object conversation revises a domain inference, not human knowledge or a formally tested forecast. Original historical states preserved; no new release extends I1.
