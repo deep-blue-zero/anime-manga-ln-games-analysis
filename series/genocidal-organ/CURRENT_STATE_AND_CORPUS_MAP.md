@@ -5,10 +5,10 @@ artifact_type: corpus_map
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.20'
+version: '0.21'
 status: active_provisional
 scope: Current state and sole first-read entrypoint
-source_boundary: GO-JP-EPUB-001 through Part IV heading and complete subsection 1; GO-U018; exclusive before spine 30 text/part0028.html
+source_boundary: GO-JP-EPUB-001 through complete Part IV subsection 2; GO-U019; exclusive before spine 31 text/part0029.html
 canonical_home: series/genocidal-organ/CURRENT_STATE_AND_CORPUS_MAP.md
 created: '2026-10-16'
 review_status: FOUNDATION_ACCEPTED_CONTINUATION_OWNER_AUTHORIZED
@@ -25,7 +25,7 @@ project_initialization:
   architecture_status: active_provisional
   source_reconnaissance_complete: true
   source_reconnaissance_scope: BIBLIOGRAPHY_LIVE_DRIVE_BYTES_WHOLE_SPINE_ACTIVE_RESOURCE_RENDER_AND_ADMITTED_UNIT_LOCATOR_VERIFICATION
-  source_admission: GO_U001_THROUGH_GO_U018_ADMITTED_BOUNDED_WITNESS
+  source_admission: GO_U001_THROUGH_GO_U019_ADMITTED_BOUNDED_WITNESS
   required_day_one_infrastructure_initialized: true
   required_day_one_infrastructure:
   - 03 Longitudinal Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md
@@ -35,29 +35,29 @@ project_initialization:
   owner_review: ACCEPTED_SCOPED_FOUNDATION_REVIEW_2026_10_16
   sequential_analysis_lock: OPEN
   lock_reason: OWNER_AUTHORIZED_CONTINUOUS_SEQUENTIAL_CONTINUATION
-  next_permitted_operation: GO-U019
+  next_permitted_operation: GO-U020
 analytical_execution:
   authorization: OWNER_2026_10_16_GO_CONTINUOUS_SEQUENTIAL_TO_NATURAL_EPILOGUE_END
-  sequential_units_admitted: 18
-  sequential_units_completed: 18
-  committed_narrative_high_water_mark: GO-U018
-  evidence_rows: 249
-  claims: 58
+  sequential_units_admitted: 19
+  sequential_units_completed: 19
+  committed_narrative_high_water_mark: GO-U019
+  evidence_rows: 262
+  claims: 61
   predictions_open_untested: 0
   predictions_supported: 3
   predictions_underdetermined: 1
-  revisions: 45
-  subjects_assessed: 44
-  directional_relationships: 75
-  knowledge_records: 111
+  revisions: 47
+  subjects_assessed: 45
+  directional_relationships: 77
+  knowledge_records: 119
   other_narrative_admission: GO_U002_THROUGH_EXACT_WITNESS_NATURAL_EPILOGUE_AUTHORIZED_PROSPECTIVELY
 sequential_execution:
   mode: continuous_sequential
   unit_type: natural_subsection_or_epilogue
   authorized_start: GO-U002
   terminal_boundary: GO_JP_EPUB_001_NATURAL_EPILOGUE_END
-  committed_high_water_mark: GO-U018
-  next_candidate_operation: GO-U019
+  committed_high_water_mark: GO-U019
+  next_candidate_operation: GO-U020
   confirmation_between_units: false
   run_state: active
   later_narrative_admission: CONTINUOUS_SEQUENTIAL_ONLY_WITH_PER_UNIT_CLOSEOUT
@@ -75,7 +75,7 @@ This is the sole first-read entrypoint for the independent original prose-novel 
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-G0 passed for the owner-authorized `single_operation` pilot `GO-U001`: foundation review, initialized ledgers, fresh witness bytes, bounded Japanese rendering and locators, and the exact first-subsection scope were checked. The bootstrap lock was CLOSED. The pilot is closed and prospectively frozen. The owner subsequently authorized continuous sequential continuation from GO-U002 to the exact witness’s natural epilogue end. OPEN is the architecture gate; this current run declaration records the separate owner source authorization. GO-U018 is now the complete admitted high-water mark, through Part IV entering heading and complete subsection1. The first resumed GO-U002 checkpoint passed protected integration and explicit post-main validation; ordinary units now require their complete source/housekeeping/final exact-head audits before the following words, without routine main integration pauses.
+G0 passed for the owner-authorized `single_operation` pilot `GO-U001`: foundation review, initialized ledgers, fresh witness bytes, bounded Japanese rendering and locators, and the exact first-subsection scope were checked. The bootstrap lock was CLOSED. The pilot is closed and prospectively frozen. The owner subsequently authorized continuous sequential continuation from GO-U002 to the exact witness’s natural epilogue end. OPEN is the architecture gate; this current run declaration records the separate owner source authorization. GO-U019 is now the complete admitted high-water mark, through complete Part IV subsection2. The first resumed GO-U002 checkpoint passed protected integration and explicit post-main validation; ordinary units now require their complete source/housekeeping/final exact-head audits before the following words, without routine main integration pauses.
 
 ## Independent progress states
 
@@ -83,12 +83,12 @@ G0 passed for the owner-authorized `single_operation` pilot `GO-U001`: foundatio
 | --- | --- |
 | Bibliographic identity | Original Japanese print publication verified through NDL; digital and later print records kept distinct |
 | Source inventory | Fresh canonical-Drive bytes and complete package/spine inventory verified; all 44 occurrences have explicit coverage obligations |
-| Authoritative reading witness | `BOUNDED_WITNESS_VERIFIED_THROUGH_GO_U018`: usable Japanese through Part IV heading and complete subsection1/ruby/locators verified; conversion lineage, three inconsistent edition dates and missing alternate CSS retained as limits |
-| Narrative admission | GO-U001–018; opening framing, complete Parts I–III and Part IV heading/subsection1 admitted in the exact bounded witness |
-| Sequential reading | 18 completed units through GO-U018; exclusive high-water boundary before spine30 `text/part0028.html` |
-| Longitudinal instruments | 249 passage evidence records / 1,700 verified narrative locators, plus 6 retrospective calibration diagnostics; 44 subjects, 75 directional relations, 111 attributed knowledge records, 58 OPEN claims, 3 SUPPORTED predictions / 1 UNDERDETERMINED / 0 open-untested, 45 revisions; all three ledger dispositions closed for all eighteen units |
+| Authoritative reading witness | `BOUNDED_WITNESS_VERIFIED_THROUGH_GO_U019`: usable Japanese through complete Part IV subsection2/ruby/locators verified; conversion lineage, three inconsistent edition dates and missing alternate CSS retained as limits |
+| Narrative admission | GO-U001–019; opening framing, complete Parts I–III and Part IV heading/subsections1–2 admitted in the exact bounded witness |
+| Sequential reading | 19 completed units through GO-U019; exclusive high-water boundary before spine31 `text/part0029.html` |
+| Longitudinal instruments | 262 passage evidence records / 1,792 verified narrative locators, plus 6 retrospective calibration diagnostics; 45 subjects, 77 directional relations, 119 attributed knowledge records, 61 OPEN claims, 3 SUPPORTED predictions / 1 UNDERDETERMINED / 0 open-untested, 47 revisions; all three ledger dispositions recorded for all nineteen units |
 | Reconciliation and synthesis | `NOT_STARTED`; coverage, specialist and novel-synthesis gates independently unmet |
-| Character reconstruction | 44 subjects assessed; narrator DOMAIN_BOUNDED descriptively, Williams INSUFFICIENT, remaining subjects RECOGNITION_ONLY; no model produced/validated |
+| Character reconstruction | 45 subjects assessed; narrator DOMAIN_BOUNDED descriptively, Williams INSUFFICIENT, remaining subjects RECOGNITION_ONLY; no model produced/validated |
 | Foundation review / publication permission | Scoped review accepted; owner-authorized sequential continuation and the owner-controlled publication lane now apply. Bootstrap merge does not imply reading or source verification; actual Git/CI state belongs to the receipt and Git |
 
 ## Read order and current homes
@@ -103,7 +103,7 @@ The source map owns the bounded verified witness and separate narrative coverage
 
 ## Next permitted action and boundaries
 
-Next permitted source action: **GO-U019**, provisionally complete Part IV second numbered subsection at spine30 `text/part0028.html`, exclusive before spine31 `text/part0029.html`, after its own entering freeze and actual natural/form check. GO-U018 has closed the meaningful Part IV heading and complete first subsection; historical prediction outcomes remain unchanged and no following words/images have been opened. Its source/housekeeping/final exact-head publication validation must finish before resumption. GO-U001 and its exact freezes remain unchanged; its disclosed fidelity exposure is historical. The accepted [language calibration addendum](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_GO_U001_LANGUAGE_CALIBRATION_ADDENDUM.md) updates current claims from already admitted Japanese without a new source unit. Retain one complete natural subsection per atomic unit, including meaningful form. The first resumed checkpoint is complete; ordinary unit validation permits continued reading without a new owner confirmation or routine main-integration pause.
+Next permitted source action: **GO-U020**, provisionally complete Part IV third numbered subsection at spine31 `text/part0029.html`, exclusive before spine32 `text/part0030.html`, after its own entering freeze and actual natural/form check. GO-U019 has read the complete second subsection and recorded all three ledger dispositions; historical prediction outcomes remain unchanged and no following words/images have been opened. Its source/housekeeping/final exact-head publication validation must finish before resumption. GO-U001 and its exact freezes remain unchanged; its disclosed fidelity exposure is historical. The accepted [language calibration addendum](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_GO_U001_LANGUAGE_CALIBRATION_ADDENDUM.md) updates current claims from already admitted Japanese without a new source unit. Retain one complete natural subsection per atomic unit, including meaningful form. The first resumed checkpoint is complete; ordinary unit validation permits continued reading without a new owner confirmation or routine main-integration pause.
 
 This root owns only this novel. Harmony / ハーモニー is a different analytical project with separate source, observation, subject and claim identities. Common authorship and publication dates are bibliographic facts. Shared fictional continuity, sequel relations and shared argument remain unestablished here. No comparative study is created.
 
@@ -123,9 +123,9 @@ Authored paths stay under `series/genocidal-organ/`. The local descriptor reques
 
 `GO_JP_EPUB_001_NATURAL_EPILOGUE_END` means the natural narrative epilogue end in unchanged witness SHA-256 `a4107c01b69c0e8819818eabb0198cc62d4174aa173eb0ebdca3a0dbf93b7df0`, with all 44 spine obligations explicitly disposed. Structural candidates suggest 27 numbered subsections and an epilogue; spine 42–43 remain UNKNOWN until reached and any narrative continuation must be included. The semantic terminal token is not a fabricated GO-U ordinal. The actual committed high-water mark remains an admitted GO-U###. No comparison, downstream specialist, reconstruction or philosophical overlay is authorized by this run.
 
-Current continuation artifacts: [GO-U002](01%20Sequential%20Readings/GO_U002_PART_I_SUBSECTION_2.md) and [continuation receipt](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_CONTINUATION_EXECUTION_RECEIPT.md). The pilot receipt remains a historical one-operation record. Current source/read coverage is GO-U018; full-novel G1 is still unmet.
+Current continuation artifacts: [GO-U002](01%20Sequential%20Readings/GO_U002_PART_I_SUBSECTION_2.md) and [continuation receipt](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_CONTINUATION_EXECUTION_RECEIPT.md). The pilot receipt remains a historical one-operation record. Current source/read coverage is GO-U019; full-novel G1 is still unmet.
 
-Latest reading: [GO-U018](01%20Sequential%20Readings/GO_U018_PART_IV_HEADING_AND_SUBSECTION_1.md); GO-U019 remains unopened. Actual prior-familiarity recognition points at GO-U005 and the U007 CI wait are preserved/carried prospectively; this is not a blind-discovery claim. Source/semantic completion and exact publication acceptance remain distinct.
+Latest reading: [GO-U019](01%20Sequential%20Readings/GO_U019_PART_IV_SUBSECTION_2.md); GO-U020 remains unopened. Actual prior-familiarity recognition points at GO-U005 and the U007 CI wait are preserved/carried prospectively; this is not a blind-discovery claim. Source/semantic completion and exact publication acceptance remain distinct.
 
 Recovery on 2026-10-17 verified the predecessor’s GO-U008 remote tip and complete exact source/housekeeping/final chain before new exposure. No accessible unpublished source candidate was recovered. The existing continuous run and all eight earlier frozen readings are preserved. Current runtime source/render equivalence and ordinary main-history preservation are documented in the source map and rolling receipt. That first replacement transaction added GO-U009; the continuing current frontier is recorded above.
 
