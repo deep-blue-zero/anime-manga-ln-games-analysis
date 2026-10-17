@@ -7,12 +7,12 @@ status: canonical
 lifecycle: active_mutable
 title: Oregairu V2 — Google Drive Corpus Map
 project: Oregairu V2
-source_boundary: Admitted Japanese mainline and qualified supplementary corpus through V14.5; Phases 4-8 closed; original eight-model Phase 8.5 suite audited and closed for declared tests; supporting-character literary expansion and three additional bounded models accepted; archival release pending published-state QA and protected integration
+source_boundary: Admitted Japanese mainline and qualified supplementary corpus through V14.5; Phases 4-8 closed; original eight-model Phase 8.5 suite audited and closed for declared tests; supporting-character literary expansion and three additional bounded models accepted; expanded archival candidate prepared; protected integration and final freeze pending
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 updated: '2026-10-17'
-next_artifact: 00_README_AND_CORPUS_MAP.md
+next_artifact: OREGAIRU_V2_PHASE9_RELEASE_QA.md
 ---
 
 # Oregairu V2 — Google Drive Corpus Map
@@ -51,7 +51,7 @@ Current state:
 - canonical suite audit: [OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md](OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md), with source-routing, state/relationship separation, static 7×8 scenario tests, register, negative-constraint and uncertainty findings; optional deployed-generator calibration remains OPEN;
 - architecture-defined reconstruction models: **8/8 complete; none pending**;
 - supporting-character expansion: **six monographs, Hayama-circle relationship study and three additional bounded models accepted**, under architecture v2.3;
-- Phase 9 archival release is **pending completed expansion, reconciliation and release QA**.
+- Phase 9: **expanded release-candidate QA documented; exact published-tree/package results belong to the release receipt; protected integration and final freeze pending**.
 - [Reconciled source inventory](../01%20Legacy%20V1%20and%20Source%20Control/OREGAIRU_V2_SOURCE_INVENTORY.md) now verifies 53 payload identities and carries the V12 hash / original-booklet availability errata. Omitted booklet stories are available but separately unadmitted; no new narrative scope is implied.
 - publication: metadata, original-suite remediation and priority expansion are published on `series/oregairu` in PR #189; exact source/audit receipts and pending protected main integration are recorded in the completion status.
 
@@ -560,7 +560,7 @@ The Volume 07 publication includes the prose bonus track `彼女たちの、う�
 
 ## Next architecture-defined phase
 
-The **original Phase 8.5 suite is closed** by `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md` after localized source, chronology and claim-control corrections. Its eight canonical models and 722 original everyday observations remain historically identifiable. The audit's 7×8 scenario rehearsal is a specification-level discrimination test; deployed-generator behavior and numerical marker distributions remain OPEN. Supporting-character expansion now proceeds in the existing specialist/model homes under architecture v2.3. Phase 9 follows that expansion and release QA; the present mutable map remains the registered entrypoint.
+The **original Phase 8.5 suite is closed** by `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md` after localized source, chronology and claim-control corrections. Its eight canonical models and 722 original everyday observations remain historically identifiable. The audit's 7×8 scenario rehearsal is a specification-level discrimination test; deployed-generator behavior and numerical marker distributions remain OPEN. The intended supporting-character expansion is accepted in the existing specialist/model homes under architecture v2.3. Phase 9 now packages that expanded scope as a release candidate; the present mutable map remains the registered entrypoint.
 
 ## Accepted supporting-character expansion — 2026-10-17
 
@@ -576,7 +576,11 @@ The original eight-model Phase 8.5 suite retains its completed historical identi
 | Sagami Minami | [SC06: reputation, accountability and change](../05%20Specialist%20Synthesis/SC06_SAGAMI_MINAMI_REPUTATION_ACCOUNTABILITY_AND_CHANGE.md) | Full model deferred; thin later state and broader behavioral evidence are explicit |
 | Hayama social circle | [SC07: coordination and avoided conflict](../05%20Specialist%20Synthesis/SC07_HAYAMA_SOCIAL_CIRCLE_COORDINATION_AND_AVOIDED_CONFLICT.md) | Emergent relationship system; no invented collective agent |
 
-Their primary-first shared slices add 40/22/32 observations respectively: 816 total, with the original 722 rows preserved. The studies qualify the CS-SEC-TOT linear-recognition reading, exclusive Kyoto motive claims about Miura, and productive-output implications of CS-SEC-ZAI without rewriting frozen artifacts. No newly inspected post-V14.5 development, adult future, global capability grade or external-generator accuracy is asserted. Authorized character discovery enrollment remains pending.
+The three operational additions have primary-first shared slices of 40/22/32 observations respectively: 816 total, with the original 722 rows preserved. The studies qualify the CS-SEC-TOT linear-recognition reading, exclusive Kyoto motive claims about Miura, and productive-output implications of CS-SEC-ZAI without rewriting frozen artifacts. No newly inspected post-V14.5 development, adult future, global capability grade or external-generator accuracy is asserted. Authorized character discovery enrollment remains pending.
+
+## Phase 9 release-candidate routing
+
+Read the [subordinate reader guide](../06%20Continuous%20Synthesis/00_README_AND_CORPUS_MAP.md) for literary/model navigation, the [release QA and owner-review record](OREGAIRU_V2_PHASE9_RELEASE_QA.md) for preservation, correction, scope and integration limits, and the [corpus manifest](OREGAIRU_V2_CORPUS_MANIFEST.json) for exact artifacts/checksums. The package is `Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.1.zip`, built from an exact published Git tree with its source/audit/main-observation receipt. It is a candidate, not a verified-main final freeze. Global discovery is also pending its authorized curator. Neither this routing update nor the new guide displaces this registered map.
 
 ## Owner-acquisition leads and excluded sources — checked 2026-10-16
 
