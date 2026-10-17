@@ -5,7 +5,10 @@ scope: HIKIGAYA_HACHIMAN_V01-V14.5
 character: HIKIGAYA_HACHIMAN
 generation: V2
 status: canonical
+supersedes: []
+superseded_by: []
 phase: 8.5
+suite_audit: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 canonical_name: OREGAIRU_V2_CHAR_HACHIMAN_RECONSTRUCTION_MODEL.md
 source_boundary: "Japanese-primary mainline Volumes 1-14 plus canonical .5 material through 14.5; derived V2 corpus through Document 14; targeted behavioral/register verification plus systematic V01-V14.5 everyday-life/preferences primary-source pass"
 authority_class: derived_use_model
@@ -24,11 +27,11 @@ formal_synthesis: 11_JAPANESE_VOICE_NARRATIVE_STYLE_COMEDY_AND_INTERTEXTUALITY.m
 full_series_context: 14_OREGAIRU_FULL_SERIES_SYNTHESIS.md
 everyday_life_ledger: OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md
 everyday_life_ledger_rows: ELP-HAC-001--ELP-HAC-084
-revision: "1.1_everyday_life_augmentation"
-revised: "2026-08-19T16:20:00-04:00"
+revision: "1.2_phase8_5_suite_audit_corrections"
+revised: "2026-10-16"
 primary_source_escalation: "targeted_behavioral_register + systematic_everyday_life_primary_pass"
 created: "2026-08-19"
-next_artifact: OREGAIRU_V2_CHAR_YUKINO_RECONSTRUCTION_MODEL.md
+next_artifact: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 ---
 
 # OREGAIRU V2 — Hikigaya Hachiman Reconstruction Model
@@ -87,6 +90,8 @@ If the user explicitly names a volume or story period, use that state.
 If the user requests “late-stage,” “end-of-series,” or post-mainline Hachiman, default to **State H6 — V14.5 terminal ordinary-life Hachiman**.
 
 If no period is specified and chronology matters, state the assumption rather than silently blending all versions.
+
+**Scene-level transition guard:** the volume ranges below are retrieval bins, not permission to give every scene all capacities acquired by the end of that bin. Use only transitions already completed at the scenario's story time: V09 before the repair request has not yet acquired that request's practice, and V14 before the bridge has not yet reached the reciprocal choice. For .5 and bonus material, internal story chronology governs: the V07.5 B.T. is immediately post-V03, SIDE-B is pre-V04, SIDE-A and S.S.3 are post-cultural-festival/pre-Kyoto, and the V07 bonus track is immediately post-V06. V14.5 Story 3 belongs to late V14 after the joint prom but before final club stabilization; only Stories 4–5 supply true post-mainline evidence. If a volume-only prompt leaves a material turning point ambiguous, state the assumed scene boundary.
 
 ## H1 — V01–V03: defensive observer before the mature solver
 
@@ -1463,7 +1468,7 @@ His occasional self-description as hobbyless should remain visible because it re
 
 ## 15.5 Manga, anime, games, and fandom continuity
 
-Hachiman's media interests are lifelong enough within the covered adolescence that they should be treated as ordinary character texture, not disposable joke references. The primary-source pattern includes childhood manga/anime interest; painful attempts to join peer anime conversation; talking at excessive length about a manga when he believes another person may be receptive; recorded anime as an ordinary home activity; sustained Precure knowledge and affection; continued Precure/Aikatsu emotional investment in V11-V14; late Aikatsu streaming; and a detailed, affectively intense anime/idol live-event account in V14.5. Games remain part of home leisure, including puzzle/quiz arcade games and later Builders.
+Hachiman's media interests are lifelong enough within the covered adolescence that they should be treated as ordinary character texture, not disposable joke references. The primary-source pattern includes childhood manga/anime interest; painful attempts to join peer anime conversation; talking at excessive length about a manga when he believes another person may be receptive; recorded anime as an ordinary home activity; sustained Precure knowledge and affection; continued Precure/Aikatsu emotional investment in V11-V14; late Aikatsu streaming; and a detailed, affectively intense anime/idol live-event account in V14.5 Story 3, internally late V14 rather than post-mainline. Games remain part of home leisure, including puzzle/quiz arcade games and later Builders.
 
 ### Interest-triggered speech change
 
@@ -1729,7 +1734,7 @@ These are not a phrase bank to copy. They are **diagnostic controls** showing sp
 
 ## EX-HAC-02 — Desire carried as obligation
 
-**Source:** V07.5, `text/part0021.html`; primary EPUB SHA-256 `092ED699...27BE31B`.
+**Source:** V07.5 B.T., internally immediately after V03: Yui's invitation is in `text/part0019.html`, followed by Hachiman's reply and explanation in `text/part0021.html`; primary EPUB SHA-256 `092ED699...27BE31B`.
 
 Yui:
 
@@ -2003,7 +2008,7 @@ Secondary derived controls:
 | Source | Why reopened | Result |
 |---|---|---|
 | V05 | verify projection/self-correction control | confirmed `勝手に期待して...` as direct narrator self-indictment after Yukino idealization rupture |
-| V07.5 | verify desire→obligation speech mechanism | confirmed Yui invitation → Hachiman `罰ならしょうがねぇな` with explicit narration that punishment makes continued contact acceptable |
+| V07.5 | verify desire→obligation speech mechanism | confirmed post-V03 B.T. invitation in `text/part0019.html` → Hachiman `罰ならしょうがねぇな` and explanatory narration in `text/part0021.html`; punishment cover makes continued contact acceptable |
 | V08 | verify interpersonal uncertainty | confirmed `これで、ちゃんと元通りになるよね` → `……わからん`; surrounding narration explicitly refuses false restoration certainty |
 | V09 | verify requester transition and `欲しい` | confirmed `一つ、依頼がしたい` and `俺は、本物が欲しい` in same high-stakes repair sequence; surrounding prose shows severe spoken-output difficulty |
 | V14 | verify late will/register and uncertainty | confirmed `関わり続けたい`, `義務じゃなくて、意志`, `わからないですけど`, `疑い続けます`; surrounding bridge prose preserves awkwardness and procedural impurity |
@@ -2067,8 +2072,16 @@ Its governing reconstruction result is:
 
 > **A faithful Hachiman simulation should preserve his intelligence and his blind spots in the same motion. He is not convincing when generated as merely cynical, merely self-sacrificial, merely emotionally dense, or finally cured. He is convincing when a structurally acute internal model produces a smaller, rougher, often defensive outward sentence—and when the model itself remains vulnerable to correction by the person he is trying to understand or protect.**
 
-The next architecture-defined reconstruction artifact is:
+The following construction handoff records the model's original place in the suite; it is not the current build queue. The current task routes through the canonical corpus map and `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md`.
+
+The next architecture-defined reconstruction artifact at that original boundary was:
 
 `OREGAIRU_V2_CHAR_YUKINO_RECONSTRUCTION_MODEL.md`
 
 That model must be built independently from Yukino's own speech, action, family, competence, request, and voice evidence. It may use the Hachiman model to define relationship conditioning, but Hachiman's reconstruction of Yukino must not become evidence about Yukino's interiority.
+
+## 2026-10-16 suite-audit amendment
+
+Revision `1.2_phase8_5_suite_audit_corrections` preserves revision 1.1's behavioral and everyday-life interpretation while making three targeted **REVISE** transitions: the single-member EX-HAC-02 route now names both sides of the exchange; volume-wide states now explicitly respect scene-level transitions and internal .5 chronology; the V14.5 festival account is identified as late-V14 evidence rather than a post-mainline durability test. The original suite-construction handoff remains identifiable as historical routing.
+
+Evidence: V07.5 `text/part0019.html` invitation and `text/part0021.html` reply; V09 `OEBPS/Text/p-0026.xhtml` request; V14 `item/xhtml/p-0032.xhtml` reciprocal choice; V14.5 `OEBPS/Text/part0011.xhtml` festival account; Document 13 `PUB-SUP-02` / `PUB-SUP-06`. Shared everyday-life era-cell corrections and their unchanged observation/inference ceilings are recorded in the suite audit. No prospective freeze or primary-source locator ledger is rewritten.
