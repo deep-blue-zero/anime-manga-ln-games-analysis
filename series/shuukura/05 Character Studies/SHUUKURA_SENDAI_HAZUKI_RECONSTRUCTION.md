@@ -980,3 +980,25 @@ O005/C1 strongly identifies the home sequence with LN07morning two days after M 
 | Domains | Ordinary historical situation evidence richer; no operational morning packet/test built here. Unfamiliar-person/cross-series/acoustic domains remain unsupported as before |
 
 S0.14 retains its original adult LN fit/time/UNTESTED/noncurrent identity. This addendum is evidence for a later expressly versioned historical/cumulative model, not a new operational version or validation. Adult M/S-V09-EXIT remains the latest chronological projection. Thirteen historical attempts retain six first-action failures(oneinput-qualified), one exposure-qualified gift match and six baseline ties; five older claim forecasts are separate/18records. No independent acceptance or VALIDATED domain follows. Full all-lane reconstruction, case evaluation and limitations/readiness audit remain mandatory.
+
+
+## BW09 time-local evidence addendum — ordinary spring-break company
+
+**BW-JP-V09 / ACQUIRED-20261017-A1**, sourceSHA`300cf4532f744c790b1c5180f290752b36f59e3b5dc6f66629ad95cc58670329`,mapSHA`5878df47151083d1d7a95e33e5c92bd4cd427366e3b2e0fd555bf86b62187933`. The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V09_DEEP_READING.md#observation-locator-index) owns five observations/all105paragraphs/3spines/2images/navigation and68native+17original-context checks. Original LN01–09/BW03/BW06/BW07 reader-exposed; no new blind test. MidpointF1actually includes Sopening64–65 and is not represented as a before-S freeze.
+
+Sendai's genuine ordinary-time wish coexists with changing bids, a stronger grip against removal and an expressly convenient permission inference. Her final promise is an actual commitment with performance unshown. Neither vulnerability nor a later accommodation erases force context or refusal.
+
+This night begins23:21 during both universities' spring break; exact date/year and relation to the novel's final late-Febendpoint remain unresolved. M/S-BW09-NIGHT is a separate time-local projection, not a forced chronological successor or earlier slot. Last precisely located M/S-V09-EXIT stays recoverable. The C1originals give prior context, not a certified same-event identity. The unprovided calendar date or timetable limits analyst reconstruction; it is not evidence the characters do not know their own date or schedule.
+
+| Packet responsibility | Evidence and negative constraint |
+| --- | --- |
+| Miyagi / first account | Own bedtime, possible overnight concern, previous gaming encounters and private quick-end strategy; curiosity about S past is not asked. All-context inability/childhood facts not inferred from a gaming gap |
+| Miyagi / later scene | Hears requests/ordinary-night question/promise and experiences the contact; exact later inner comfort/decision ranking unprovided to analyst. Do not replace intrinsic own knowledge with reader uncertainty, or fill it in from S belief |
+| Sendai | Knows own company strategy, animal counterfactual and convenient permission inference; sees specific refusals/removal/push and hears midnight condition. M private haste and whole comfort not automatically known |
+| Earlier plumeria | S own prior symbolic intent remains known to her; M earlier flower-language/charm account differs. Present earring contact is no new full disclosure, shared symbolic agreement or universal flower fact |
+| Games and speech | Distinguish refusal finalんfrom an accepted turn, flying restriction/actualシジミanswer, knowledge correction/phone learning, and Sずるいcomplaint. S's perceived sulky/displeased tone is textual attribution, not verified vocal delivery |
+| Agency and scope | Stronger grip is specifically against removal; S nonremoval inference admits convenience. Refused kiss exchange, later physical objection and accepted time limit remain different acts; no generalized executable intimacy/obedience policy |
+| Completion limits | No current oil application, overnight/shared bed, verified midnight departure or sleep; no measured39extra minutes. No forced relative late-Febdate or deduplication |
+| Readiness | Time-local ordinary negotiation evidence richer; no operational night packet built/tested. Unfamiliar-person/cross-series/acoustic readiness remains unsupported |
+
+S0.14 retains its original adult LN fit/time/UNTESTED/noncurrent identity. This is a separately indexed evidence addendum, not a new operational version or validation.13historicalattempts remain6first-actionfailures(oneinput-qualified)+1exposure-qualifiedgiftmatch+6baseline-ties;5olderclaimforecasts separate/18records. No independent acceptance, numeric accuracy or VALIDATED domain. All-lane reconstruction/reconciliation and evidence-based limitations remain mandatory.

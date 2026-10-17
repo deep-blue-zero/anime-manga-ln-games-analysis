@@ -5,10 +5,10 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.6"
+version: "1.7"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Frozen I1; LN01–09 and BW03/BW06/BW07 complete in atomic commits; later supplements/web/V1 unread; V10 excluded"
+source_boundary: "Frozen I1; LN01–09 and BW03/BW06/BW07/BW09 complete in atomic commits; later author/publisher/web/V1 unread; V10 excluded"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Source inventory and edition/witness architecture
 
-This is the canonical source-and-coverage home. Snapshot: **2026-10-17 UTC; initial planning date 2026-10-16**. The historical bootstrap tables below distinguish acquisition and structural checks from reading. The later **SHUUKURA-V2-20261017-I1** record at the end of this document is the authorized source freeze. Ordered LN inspection is admitted. The live coverage record below credits LN01–09 and BW-JP-V03/BW-JP-V06/BW-JP-V07 only through their complete introducing atomic commits. Earlier bootstrap/candidate tables remain explicitly historical preparation and do not themselves establish current coverage.
+This is the canonical source-and-coverage home. Snapshot: **2026-10-17 UTC; initial planning date 2026-10-16**. The historical bootstrap tables below distinguish acquisition and structural checks from reading. The later **SHUUKURA-V2-20261017-I1** record at the end of this document is the authorized source freeze. Ordered LN inspection is admitted. The live coverage record below credits LN01–09 and BW-JP-V03/BW-JP-V06/BW-JP-V07/BW-JP-V09 only through their complete introducing atomic commits. Earlier bootstrap/candidate tables remain explicitly historical preparation and do not themselves establish current coverage.
 
 ## Evidence plane, access and state vocabulary
 
@@ -347,11 +347,11 @@ Transaction `SHUUKURA-TX-LN-JP-V01-20261017-A1` introduces the [frozen V01 deep 
 | Lane | Complete atomic units / frozen available units | Committed high-water after this transaction | Next source operation / remaining mandatory work |
 | --- | --- | --- | --- |
 | Japanese LN | 9 / 9 | LN-JP-V09 | LN100% CLOSED_ON_GREEN_MAIN/PR207; V10 excluded |
-| External supplements | 3 / 18 | BW-JP-V07 | Next BW-JP-V09 exact original/admission check; mandatory unavailable/discovery/voice duties persist |
+| External supplements | 4 / 18 | BW-JP-V09 | Next KSS-01 complete multipart original/admission check; mandatory unavailable/discovery/voice duties persist |
 | Kakuyomu | 0 / 431 | NONE | E0001–E0431 after independent LN/supplement freezes; capture is not reading |
 | Narō correspondence / supplemental gaps | 0 / 290 correspondence checks; no acquired gap completed | NONE | Exact source/correspondence and 27-record discovery audit remain unperformed; 51 unavailable identities not waived |
 
-Available-set completion is **12/458**, not program completion; LN100% publicly closed via V09sourcef05e5ffbc52b2b24911e1b700df3a7845f665958/PR207/main108300099ba20305091a1050fcde33f203afb671/fulltreee4f247a787ca15f5bb5519e7cb6db2cdda06e0ca/source39049020760/house39049396593NO_OP/final39049426359/night39050040125/explicitowner main39050124564 allSUCCESS/full352tests. ExternalSS3/18; firstSSquarter5/18 and overall115/458 unreached. I1 exact membership/digests/51missing/27discovery/290Narōduties unchanged; later releases excluded. BW03sourcea41c6821da4a7c82154712f4d9f4914ad9fa2272/source39052329180/house39052565861/finalactual-source39052600867 allSUCCESS/352tests/trustedstatus; owner-onlynightly39053129915 completedSUCCESS/VERIFIED_OWNER_ONLY/merged_verified/PR208/main159644848f216c208367ecf5de822ec969debfbb/equalfulltree1798d7383495ab3febbc59cd23b0d09367c34d62/mandatoryownerexplicitmain39053218687SUCCESS(actual159644848/full352tests/trustedstatus). BW03 CLOSED_ON_GREEN_MAIN. BW06sourceb08d809faecd10884020d902b79fc0e200f35df8/PR209/main23064c95c652cafefea486e30d806ba858d0e1a9/equalfulltree041b726eb6aaae9ad5a41ea713444e618f48a885/source39054161159/house39054468152/finalactual-source39054497188/night39055177051/mandatoryownerexplicitmain39055268435 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. BW06 CLOSED_ON_GREEN_MAIN; no later release admitted.
+Available-set completion is **13/458**, not program completion; LN100% publicly closed via V09sourcef05e5ffbc52b2b24911e1b700df3a7845f665958/PR207/main108300099ba20305091a1050fcde33f203afb671/fulltreee4f247a787ca15f5bb5519e7cb6db2cdda06e0ca/source39049020760/house39049396593NO_OP/final39049426359/night39050040125/explicitowner main39050124564 allSUCCESS/full352tests. ExternalSS4/18; firstSSquarter5/18 and overall115/458 unreached. I1 exact membership/digests/51missing/27discovery/290Narōduties unchanged; later releases excluded. BW03sourcea41c6821da4a7c82154712f4d9f4914ad9fa2272/source39052329180/house39052565861/finalactual-source39052600867 allSUCCESS/352tests/trustedstatus; owner-onlynightly39053129915 completedSUCCESS/VERIFIED_OWNER_ONLY/merged_verified/PR208/main159644848f216c208367ecf5de822ec969debfbb/equalfulltree1798d7383495ab3febbc59cd23b0d09367c34d62/mandatoryownerexplicitmain39053218687SUCCESS(actual159644848/full352tests/trustedstatus). BW03 CLOSED_ON_GREEN_MAIN. BW06sourceb08d809faecd10884020d902b79fc0e200f35df8/PR209/main23064c95c652cafefea486e30d806ba858d0e1a9/equalfulltree041b726eb6aaae9ad5a41ea713444e618f48a885/source39054161159/house39054468152/finalactual-source39054497188/night39055177051/mandatoryownerexplicitmain39055268435 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. BW06 CLOSED_ON_GREEN_MAIN; no later release admitted. BW07localwholecommitf62f8457d29694b815973f712a2d44dad7a3e392/treeea2d7eb0e155fd9aa8e6b94ff49b51bad86c7690/authorpreflight8071PASS; unpublished coherent BW07/BW09/KSS01tranche planned atSS5/18. Local durability is distinct from public audit/integration.
 
 ### V01 actual component inspection
 
@@ -815,3 +815,23 @@ ExternalSS2/18/available11/458 only in the complete unit commit. Next **BW-JP-V0
 O005/C1 strongly identifies the LN07morning: original LN06p00758–59 gives M September25/S August23 birthdays; LN07p01311 gives two-day interval andp49–96 matches the home/door sequence. The clock is September27 after summer break, no fictional year. SS adds M account/road continuation; original LN scope/omitted preapplication act/later evening remain separately routed. Existing R076 common-sense bargain is not duplicated or reopened as another adult entitlement. A shorter quote is no repeal of the qualifier.
 
 Morning application, broken grip and a shared route begun are actual; no cat/aquarium visit/station or class arrival/actual lateness/truancy/next-day walk occurs inside this witness. Prior birthday use in LN07p01354 and current adult used-up/replacement history remain intact. Adult M/S-V09-EXIT unchanged; no new model test/formal forecast/V1/web/audio reading. SS3/18/available12/458 onlywholecommit; next **BW-JP-V09** automatically after exact source recovery. All remaining sources and architectural outputs persist; runactive/gateOPEN, I1 unchanged.
+
+
+### BW09 actual component inspection — fourth external supplement
+
+**SHUUKURA-TX-BW-JP-V09-20261017-A1** binds the [reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V09_DEEP_READING.md), four instruments/model-evidence addenda and [audit](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_BW_JP_V09_TRANSACTION_AUDIT.md); coverage advances only with the entire introducing commit. No distinctive same-event novel correspondence is established; limited lexical absence does not prove different continuity.
+
+| Component / identity | Actual inspection and limit |
+| --- | --- |
+| Primary source | BW-JP-V09/Drive1zijopum5J62bvyK_qg4tKmBqbSsa1ZdR/803180bytes/SHA`300cf4532f744c790b1c5180f290752b36f59e3b5dc6f66629ad95cc58670329`; OPFja/identifier syuuniitidokurasumeito009 |
+| Native components | Cover before fiction/all105nativeparagraphs/imagecolophon after story;3spines/2originalimages; entire image inventory matches viewed set |
+| Extra navigation | Entire538bytes/SHA cfa771cdeefa1eff6b79a38b3c61d57fa31b5ac6d42a0330be8f96b4f3d46d1b; Navigation/Guide/two coverlinks, no fiction |
+| Colophon |2026-05-20/羽田宇佐/KADOKAWA/producerDwango/BOOKWALKERbonus; not fictional date or retail-byte certificate |
+| QA |68native+17original-context literal checks PASS/0ruby; source/member/paragraph/image/CRC/UTF8/outside-flow/completeimageinventory verified |
+| Map/evidence | MapSHA`5878df47151083d1d7a95e33e5c92bd4cd427366e3b2e0fd555bf86b62187933`;Drive1FFOAO3-XeXVXdP-tVfVtqsO0R5Ig1JEA/43616bytes/SHA`0ed99ecc3b94d0ff2ff20c26649fd168dc873f4335ff69197996c341ff32ae6f`/17members/upload-download/allhashes/CRC verified |
+| Actual freezes | Entry2026-10-17T18:21:46.968158+00:00/priorf62f8457/tenfullinputs/0fiction0images; midpointF1p1–65 includesSopening64–65, not beforeS;6984bytesSHA86a9b669d5e024f6d74c83584456fe89fd99b4190cab87c166ad73eb1ecaa8f2; F2all105p beforecolophon/C1,12464bytesSHAf8e3d3d3d7e92a889f747a8775b7cfecf8c1ae50042169c9e003219e383c986e |
+| Original journal |17317bytes/SHA`6497fb180c0ec0d6851d45f2e4eae322d5e45687be966cf14af787914443d622`/5observations/sealed2026-10-17T18:26:10.245434+00:00; reading suffix verbatim; p64speakerM clarified outside seal |
+
+Spring-break night23:21onward fits later university context, exact date/year and before/after relation to mainline late-Febendpoint unresolved. M/S-BW09-NIGHT separate from last precisely located M/S-V09-EXIT; no forced historical slot or dated successor. M game strategy and S conveniently qualified permission belief retain distinct access; strong-grip context, actual removal/push and accepted finite midnight condition coexist. Promise performance/sleep/oil/overnight unshown. Older plumeria meaning remains S-only; older Maika oil context does not identify an unshown current product.
+
+All4BOOKWALKERavailable stories complete onlywholecommit; SS4/18/available13/458. No new model/test/forecast/web/V1/audio inspection; originalM0.13/S0.14 identities unchanged. Next**KSS-01** original multipart story automatically after exact source admission; coherent firstquarterSS5/18publication planned. All mandatory later duties/I1exclusions remain.

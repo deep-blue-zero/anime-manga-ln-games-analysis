@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.3"
+version: "1.4"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1; preserved LN01–09/BW03/BW06 records, verified BW06publication and BW07complete-unit/correspondence checkpoint"
+source_boundary: "Frozen I1; preserved LN01–09/BW03/BW06/BW07 records; BW07 local durable and BW09complete-unit checkpoint, public tranche pending"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: BW07_SOURCE_CORRESPONDENCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
+review_status: BW09_SOURCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -519,3 +519,39 @@ BW06sourceb08d809faecd10884020d902b79fc0e200f35df8/source39054161159/house390544
 | Remaining program | 15availableSS/431parallelKak/290Narōcorrespondences/51knownmissing/27finite discovery/mandatoryvoices; corpus reconciliation/principal+justifiedsupport monographs/specialists/reconstruction tests+limitations/independentV1comparison/integrated argument/adversarial release audit; active run/nextnotNONE |
 
 The novel already records birthday use of the lip product (LN07p01354); this same-morning application is neither first use nor another distinct application merely because it has another textual witness. Original journal/prospective prefixes and accepted earlier readings/audits stay unchanged. No incomplete source or untested model is labelled complete/validated.
+
+
+## BW07 durable local transaction and publication boundary
+
+Whole BW07source`f62f8457d29694b815973f712a2d44dad7a3e392`/tree`ea2d7eb0e155fd9aa8e6b94ff49b51bad86c7690`/parentsb08d809faecd10884020d902b79fc0e200f35df8+8f4bf6b9c92dc0712dc008ad0b0b247408141778 committed2026-10-17T18:21:30.754857+00:00 by approved owner identity after author index preflightPASS8071paths. Full maintained/new-file diff, journal, beforeimages, ledger history and final clarity patch reviewed. The35approved current-main Genocidal Organ imports preserve exact blobs. Source is locally durable and still unpublished; remote series branch remainsb08d809f at recovery. PriorBW06public chain closed; planned coherent BW07/BW09/KSS01tranche reaches firstSSquarter5/18. Local acceptance and public integration are distinct.
+
+## Durable checkpoint after BW09
+
+**SHUUKURA-TX-BW-JP-V09-20261017-A1** advances only through its whole introducing commit. [Reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V09_DEEP_READING.md) and [audit](SHUUKURA_V2_BW_JP_V09_TRANSACTION_AUDIT.md) bind source, beforeimages, revisions, prospective states and ten candidate hashes. A draft is not a committed transaction; after interruption inspect actual local/remote commits before retrying.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run | epoch1/GIT_ACTIVE_ACCEPTED;continuous_sequential/active/startLN01/terminalI1plusrequiredoutputs/lockOPEN/no ordinary confirmation |
+| Repository | Priorf62f8457d29694b815973f712a2d44dad7a3e392/treeea2d7eb0e155fd9aa8e6b94ff49b51bad86c7690; recoveredmain8f4bf6b9c92dc0712dc008ad0b0b247408141778 alreadyancestor; originseriesb08 atentry; no merge pending then. Candidate by transaction, no guessed selfSHA |
+| Versions | Method/architecture/reconstruction0.2;source/current1.7;fourledgers/checkpoint1.4; originalM0.13/S0.14 adultfit/time/UNTESTED/noncurrent unchanged |
+| Frozen I1 | JSONSHA6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95;51knownmissing/27notices/290Narōduties unchanged; LN10/later excluded |
+| Source/map | BW-JP-V09/Drive1zijopum5J62bvyK_qg4tKmBqbSsa1ZdR/803180bytes/SHA300cf4532f744c790b1c5180f290752b36f59e3b5dc6f66629ad95cc58670329;mapSHA5878df47151083d1d7a95e33e5c92bd4cd427366e3b2e0fd555bf86b62187933 |
+| Private evidence |Drive1FFOAO3-XeXVXdP-tVfVtqsO0R5Ig1JEA/43616bytes/SHA0ed99ecc3b94d0ff2ff20c26649fd168dc873f4335ff69197996c341ff32ae6f/17members/upload-download equality/allmemberhashes/CRC verified; no primary media |
+| Complete source |3spines/105p/2originalimages+entire538byte nav;68native+17original-context checks/0ruby/source/member/paragraph/image/CRC/UTF8/flow complete; issue2026-05-20/KADOKAWA/Dwango |
+| Entering freeze |SHUUKURA-BW09-ENTER-20261017-A1@2026-10-17T18:21:46.968158+00:00;priorf62f8457/tenfullinputs/0fiction0images;LN01–09/BW03/BW06/BW07reader-known |
+| Midpoint F1 |2026-10-17T18:23:05.182175+00:00/p1–65/cover only/6984bytesSHA86a9b669d5e024f6d74c83584456fe89fd99b4190cab87c166ad73eb1ecaa8f2; includesSopening64–65, expressly not beforeS;no blindtest |
+| Story F2 |2026-10-17T18:23:42.364258+00:00/all105p/cover only/12464bytesSHAf8e3d3d3d7e92a889f747a8775b7cfecf8c1ae50042169c9e003219e383c986e BEFOREcolophon/nav/C1 |
+| Original journal |2026-10-17T18:26:10.245434+00:00/17317bytes/SHA6497fb180c0ec0d6851d45f2e4eae322d5e45687be966cf14af787914443d622/5observations; exactreadingsuffix; p64M-speaker clarified outside seal |
+| C1 boundary |17original checks inLN06/08/09; privateS plumeria intent not newly disclosed, oil-object identity unproved; no exact event correspondence established; limited keyword absence not proof of total difference |
+| Time states |M/S-BW09-NIGHT; spring-break23:21onward, exactdate/year/relation to mainline late-Febunknown. Last precisely located M/S-V09-EXIT retained without forcingbefore/after |
+| Material delta |8char/2projections/2readiness;8rel/2dirs/4olderruleversions+3newR143–145;23propversions(4old+19new)/21access/6tensions;5oldclaims+4new. Totals89claims/369forms/379props/145rules |
+| Reconstruction |Evidence addenda only;13attempts=6firstfail(oneinput-qualified)+1qualifiedgift+6ties;5olderclaimforecasts separate/18records; no new model/test/independent acceptance/validateddomain |
+| HWM/lane coverage |BW09 onlywholecommit;LN9/9;SSBW09/4of18;KakNONE0/431;NarōNONE0/290;available13/458. Source inspection alone insufficient |
+| Unresolved |Exact date/relative clock; full laterM interior/comfort; S exact current plumeria intention; actual midnight performance/sleep/overnight/oil/nextday absent.23:21not39measured minutes afterpromise |
+| Next authorized |KSS-01/I1ordinal14/宇都宮舞香は思考する; complete author multipart original parts16→17 in frozenKSSnative map; no routine confirmation |
+| Publication |CoherentBW07/BW09/KSS01atSSquarter5/18; recheckmain/source/rulesets/identity, exactdiff/preflight/source→house→finalactualhead/eligibleowner-nightly/mandatoryexplicitmain; no directmain/globalauthorship |
+| Remaining |14accessibleSS/431Kak/290Narō/51knownmissing/27notices/mandatoryvoices; reconciliation/monographs+supportroleaudit/specialists/reconstruction/V1comparison/integrated/adversarialrelease;active,nextnotNONE |
+
+Among proposed departure terms, only the finite midnight condition is accepted as a new commitment; performance is not yet shown. Refused kiss exchange and played restricted game have different statuses. Stronger grip and actual objections remain beside ordinary affection, without global assent or diagnosis. All prior accepted readings/audits and prospective bytes remain intact. Later releases never silently extendI1.
+
+Before BW09commit, currentmain6a9e07c5175b884e8f2e567d25141d52353f35c0 was reconciled through a clean ordinary merge:26approved Harmony paths imported with exact main blobs, no Shuukura/governance drift and all11authored drafts preserved. The previously imported35Genocidal Organ paths remain intact. Merge is pending the whole BW09commit; current-main ancestry/publication heads must still be refreshed before a push.
