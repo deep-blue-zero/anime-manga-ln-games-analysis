@@ -8440,12 +8440,16 @@
           "DISCOVERED",
           "METADATA_VERIFIED",
           "BYTE_VERIFIED",
-          "STRUCTURE_VERIFIED"
+          "STRUCTURE_VERIFIED",
+          "NARRATIVE_ADMITTED",
+          "READ_COMPLETE",
+          "ANALYZED"
         ],
-        "narrative_reading_state": "NO_NARRATIVE_ADMISSION_OR_INSPECTION_BY_METADATA_RECONCILIATION",
+        "narrative_reading_state": "EIGHT_PRINCIPAL_PROSE_MEMBERS_READ_COMPLETE_AND_R1_VALIDATION_ACCEPTED; FULL_EXPANDED_LITERARY_AND_OTHER_EPUB_COMPONENTS_OPEN",
         "main_v01_v10_state_basis": null,
         "metadata_exposure": "Package bytes, metadata and structure may be decoded without narrative semantic inspection.",
-        "component_audit_completeness": "NOT_ESTABLISHED_BY_THIS_METADATA_RECONCILIATION"
+        "component_audit_completeness": "Only eight principal prose continuations mapped/read/assessed for frozen-R1 validation. All actual images, afterword image, unclassified front/end and other excluded bodies remain unviewed/unread; StageC full literary/component responsibility is not completed by validation.",
+        "completion_scope": "text/part0010.html/0012/0014/0016/0018/0020/0022/0024.html; 2748all-bodyP/108300base/2603ruby. Validation-only, no main derivation ingestion or whole-EPUB completion."
       },
       "workstream": "FOUR_DESIGNATED_FROZEN_MODEL_VALIDATION_BOOKS",
       "frozen_validation_designation": "DESIGNATED_RESERVED_SOURCE",
@@ -8453,12 +8457,126 @@
         {
           "component_kind": "principal_prose",
           "nature": "narrative",
-          "presence": "NOVEL_IDENTIFIED",
-          "disposition": "RESERVED_VALIDATION_NOT_ADMITTED",
+          "presence": "EIGHT_PRINCIPAL_PROSE_CONTINUATIONS_LOCATED",
+          "disposition": "NARRATIVE_ADMITTED",
           "stage_gate": "FROZEN_MODEL_VALIDATION",
           "analytical_authority": "Designated withheld validation source; preserve prediction record before inspection. Later expanded reading must follow recorded validation.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
-          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+          "inspection_state": "PRINCIPAL_READING_COMPLETE_AND_FROZEN_R1_VALIDATION_ACCEPTED",
+          "required_action": "Preserve unchanged baseline and accepted source-local score/initial histories. After all four designated holdouts, complete StageC literary analysis and every excluded component disposition; validation alone does not complete the book.",
+          "verified_components": [
+            {
+              "component_id": "YORI01-C01",
+              "member": "text/part0010.html",
+              "source_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+              "p_start": 1,
+              "p_end": 336,
+              "base_characters": 13502,
+              "ruby_occurrences": 339,
+              "principal_reading": "COMPLETE",
+              "frozen_R1_validation": "ACCEPTED_SOURCE_LOCAL",
+              "expanded_literary_analysis": "NOT_COMPLETED_BY_THIS_VALIDATION",
+              "printed_image_heading": "NOT_VIEWED",
+              "evidence": "04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_SOURCE_AND_READING_RECEIPT.json"
+            },
+            {
+              "component_id": "YORI01-C02",
+              "member": "text/part0012.html",
+              "source_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+              "p_start": 1,
+              "p_end": 353,
+              "base_characters": 14480,
+              "ruby_occurrences": 330,
+              "principal_reading": "COMPLETE",
+              "frozen_R1_validation": "ACCEPTED_SOURCE_LOCAL",
+              "expanded_literary_analysis": "NOT_COMPLETED_BY_THIS_VALIDATION",
+              "printed_image_heading": "NOT_VIEWED",
+              "evidence": "04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_SOURCE_AND_READING_RECEIPT.json"
+            },
+            {
+              "component_id": "YORI01-C03",
+              "member": "text/part0014.html",
+              "source_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+              "p_start": 1,
+              "p_end": 367,
+              "base_characters": 13102,
+              "ruby_occurrences": 312,
+              "principal_reading": "COMPLETE",
+              "frozen_R1_validation": "ACCEPTED_SOURCE_LOCAL",
+              "expanded_literary_analysis": "NOT_COMPLETED_BY_THIS_VALIDATION",
+              "printed_image_heading": "NOT_VIEWED",
+              "evidence": "04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_SOURCE_AND_READING_RECEIPT.json"
+            },
+            {
+              "component_id": "YORI01-C04",
+              "member": "text/part0016.html",
+              "source_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+              "p_start": 1,
+              "p_end": 398,
+              "base_characters": 16109,
+              "ruby_occurrences": 375,
+              "principal_reading": "COMPLETE",
+              "frozen_R1_validation": "ACCEPTED_SOURCE_LOCAL",
+              "expanded_literary_analysis": "NOT_COMPLETED_BY_THIS_VALIDATION",
+              "printed_image_heading": "NOT_VIEWED",
+              "evidence": "04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_SOURCE_AND_READING_RECEIPT.json"
+            },
+            {
+              "component_id": "YORI01-C05",
+              "member": "text/part0018.html",
+              "source_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+              "p_start": 1,
+              "p_end": 312,
+              "base_characters": 13491,
+              "ruby_occurrences": 325,
+              "principal_reading": "COMPLETE",
+              "frozen_R1_validation": "ACCEPTED_SOURCE_LOCAL",
+              "expanded_literary_analysis": "NOT_COMPLETED_BY_THIS_VALIDATION",
+              "printed_image_heading": "NOT_VIEWED",
+              "evidence": "04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_SOURCE_AND_READING_RECEIPT.json"
+            },
+            {
+              "component_id": "YORI01-C06",
+              "member": "text/part0020.html",
+              "source_member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+              "p_start": 1,
+              "p_end": 302,
+              "base_characters": 11618,
+              "ruby_occurrences": 303,
+              "principal_reading": "COMPLETE",
+              "frozen_R1_validation": "ACCEPTED_SOURCE_LOCAL",
+              "expanded_literary_analysis": "NOT_COMPLETED_BY_THIS_VALIDATION",
+              "printed_image_heading": "NOT_VIEWED",
+              "evidence": "04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_SOURCE_AND_READING_RECEIPT.json"
+            },
+            {
+              "component_id": "YORI01-C07",
+              "member": "text/part0022.html",
+              "source_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+              "p_start": 1,
+              "p_end": 472,
+              "base_characters": 17191,
+              "ruby_occurrences": 429,
+              "principal_reading": "COMPLETE",
+              "frozen_R1_validation": "ACCEPTED_SOURCE_LOCAL",
+              "expanded_literary_analysis": "NOT_COMPLETED_BY_THIS_VALIDATION",
+              "printed_image_heading": "NOT_VIEWED",
+              "evidence": "04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_SOURCE_AND_READING_RECEIPT.json"
+            },
+            {
+              "component_id": "YORI01-C08",
+              "member": "text/part0024.html",
+              "source_member_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+              "p_start": 1,
+              "p_end": 208,
+              "base_characters": 8807,
+              "ruby_occurrences": 190,
+              "principal_reading": "COMPLETE",
+              "frozen_R1_validation": "ACCEPTED_SOURCE_LOCAL",
+              "expanded_literary_analysis": "NOT_COMPLETED_BY_THIS_VALIDATION",
+              "printed_image_heading": "NOT_VIEWED",
+              "evidence": "04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_SOURCE_AND_READING_RECEIPT.json"
+            }
+          ]
         },
         {
           "component_kind": "embedded_bonus_fiction",
@@ -8501,7 +8619,7 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "ACCEPTED_FROZEN_R1_PRINCIPAL_VALIDATION_ONLY; FULL_EXPANDED_LITERARY_AND_EXCLUDED_COMPONENT_PROGRAM_OPEN"
     },
     {
       "source_id": "YORI-02",
@@ -11015,8 +11133,8 @@
         "principal_prose",
         "embedded_bonus_fiction"
       ],
-      "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "admission": "PRINCIPAL_PROSE_ADMITTED_FOR_FROZEN_R1_VALIDATION_ONLY",
+      "disposition": "EIGHT_PRINCIPAL_MEMBERS_READ_COMPLETE_AND_SOURCE_LOCAL_VALIDATION_ACCEPTED; FULL_EXPANDED_LITERARY_AND_EXCLUDED_COMPONENTS_OPEN"
     },
     {
       "source_id": "YORI-02",
