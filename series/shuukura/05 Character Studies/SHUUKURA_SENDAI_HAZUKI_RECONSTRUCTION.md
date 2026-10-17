@@ -1171,3 +1171,19 @@ The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_
 | Readiness | OriginalM0.13/S0.14adultfit/time/UNTESTED/noncurrent prefixes/13historicalattempts18forecasts unchanged. No newoperationalpacket/heldouttest/unfamiliar/cross-series/acousticvalidation. Objects have literaryform responsibilities, no forcedfunctionalmodels |
 
 The current wording of the cats numerical claim concerns permission to be cherished three times as much, not a measurable tripled-cuteness trait. Sourcejournal/earlieracceptedstates remain exact. Ordinary positiveobjectcare cannot substitute for testing human refusal/agency policy; monographs and full functional-reconstruction assessments remain mandatory.
+
+
+## KSS10 historical evidence addendum — private veto and changed priority
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_10_DEEP_READING.md#observation-locator-index) binds complete48 native anchors/26nonempty,26native literal checks, one explicit PDF black-glyph comparison fold/actual glyph crop and33original checks/344bindings. The crocodile tissue cover focalizes; black-cat happiness appraisal is its report. Sendai is currently absent; remembered birthday and separately checked known novel dialogue are not a new present own-voice or held-out sample.
+
+| Responsibility | Evidence and negative constraint |
+| --- | --- |
+| Human agency | Original Aug23 first room entry is Miyagi-initiated/admitted. Original225–235 preserves lip stroke/question, Miyagi conditional-no wording, Sendai proceeding and later substitute-present framing; no clear affirmative yes or birthday-wide grant. Object veto is a separate claimant. |
+| Current access | Miyagi sighs, pulls the cover and says バイト、むかつく. Apparent unhappiness and Sendai referent are object inferences; Sendai job attendance, exact present day and return unshown. |
+| Action/capacity | Cover cannot selfmove; Miyagi hand-pull follows inward 動け without proving thought comprehension. Only-self-heard きゅんっ is focalized material-body narration, not actual acoustic inspection. |
+| Development | Cover retains dislike of Sendai in room yet decides forgiveness/prays for early return for Miyagi apparent welfare. New R161v1→v2 is solely private object stance; no human assent or standing room access. |
+| Source clocks | Last-week birthday corresponds to original Aug23; native present exact day/year unknown. Original Sendai private joy/Miyagi next-morning fatigue/gift doubt retain separate access; no new event duplication or object omniscience. |
+| Readiness | Original M0.13/S0.14 fit/time/UNTESTED/noncurrent prefixes,13 historical attempts and18 forecast records unchanged. No operational packet, held-out test, numerical accuracy or unfamiliar/cross-series/acoustic validation added. |
+
+This evidence has descriptive and literary-form responsibilities. It does not validate a general human consent or care policy. Principal, Maika and Ami monographs and full time-bounded reconstruction assessments remain mandatory; objects do not require invented functional models or symmetrical monographs.
