@@ -1155,3 +1155,19 @@ The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_
 | Readiness | Original M0.13/S0.14adult fit/time/UNTESTED/noncurrent prefixes intact;13historical attempts18forecasts unchanged. No new operational packet, independent heldoutcase or expanded familiar/unfamiliar/cross-series/acoustic validation |
 
 Any knows shorthand in preserved sourceQ1records information received; the current model notes above do not settle Ami degree of belief. Native/accepted prospective states remain exact; source-based corrections qualify current interpretations rather than rewriting first encounters. Full time-bounded model assessments/testing and final corpus duties remain mandatory.
+
+
+## KSS09 historical evidence addendum — object care and the limits of an affection model
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_09_DEEP_READING.md#observation-locator-index) owns complete native04/60anchors31nonempty,31native checks, printsplit/occlusion qualification and30original checks/199bindings. A nameless platypustissuecover focalizes; catCHOPSTICKRESTS are separate from the KSS06catplush.
+
+| Responsibility | Evidence and negative constraint |
+| --- | --- |
+| Historical Sendai | Actualshort可愛いね31has targetinferredbyobject37; 仲良くね57and drag/pat/beakstroke/placement are bounded writtenobject-address/handling. Care changesobjectfeltneglect, not proofSfullintent/actualhearingofobjectvoice/universalhuman-boundaryrespect |
+| Historical Miyagi | Objectremembersselection/gift/introducingS andgrantsMlife-debtpriority. OriginalMchoice/Spreemptivejoint-fundpurchase/laterMcovertransfer andfivecatgift have directhumanroutes; objectgratitude not Mselfacceptedrole or fullgiftintent |
+| Information andnorms | Native39strongnegativehuman-hearingexpectation beside timedmanualpull is a focalized gap, not proventelepathy. R158number-entitlement/R159Mpriority/R160getalongaddress belong only to representedobject domain, no new humanrights/exclusivity/legalownership |
+| Action andcapacity | Native53loyalty toSvaluedcats AND physicalcannotselfmove both constrain shakingoff. Actualgreetings55precede finalhumanrequest57; hiddennyaa60followsstroke59. Neither freehumanconsentpolicy nor completefriendshipacceptance follows |
+| Provenance/chronology | Originalfivegift/twocommonspace/threeroomdecor supports currentthree without contradiction; exactSSdate/currentindividualcatcolors unprovided. OriginalSbirthdayAug23/giftAug24 distinct, no nativeexactday inferred |
+| Readiness | OriginalM0.13/S0.14adultfit/time/UNTESTED/noncurrent prefixes/13historicalattempts18forecasts unchanged. No newoperationalpacket/heldouttest/unfamiliar/cross-series/acousticvalidation. Objects have literaryform responsibilities, no forcedfunctionalmodels |
+
+The current wording of the cats numerical claim concerns permission to be cherished three times as much, not a measurable tripled-cuteness trait. Sourcejournal/earlieracceptedstates remain exact. Ordinary positiveobjectcare cannot substitute for testing human refusal/agency policy; monographs and full functional-reconstruction assessments remain mandatory.

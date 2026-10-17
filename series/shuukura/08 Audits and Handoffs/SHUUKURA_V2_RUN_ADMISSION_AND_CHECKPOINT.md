@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.12"
+version: "1.13"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–05 closed on main; KSS06–08whole-unit local checkpoints, nextKSS09"
+source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–05 closed on main; KSS06–09whole-unit local checkpoints, nextKSS10 and mandatorySS14/18publication"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: KSS08_SOURCE_SEMANTIC_RETURN_ASSENT_RENDER_LIMIT_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
+review_status: KSS09_SOURCE_SEMANTIC_OBJECT_NORM_HEARING_CAPACITY_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -842,3 +842,35 @@ KSS05halfway CLOSED_ON_GREEN_MAIN/PR218/source8fd720135c078b43873797d9d207da7667
 | Publication | KSS05halfway CLOSED_ON_GREEN_MAIN/PR218/source8fd720135c078b43873797d9d207da76672a8c17/main7f4f438e0813e5a53ea1bdfe26fa062904791d45/equalfulltreecd057250531188112c3969eacf6a129c57a12b2f; source39072662070/house39073030088NO_OP/final39073057320/night39073808545/mandatoryownerexplicitmain39073898141allSUCCESS/full352/trustedstatus. KSS06localwhole5663a6d5b49ec77db2a00103466bfb8e0eb510f0/tree4c1ccf0346671918c5231ee12aa68a6ba13355bb/preflight8223PASS. KSS07localwhole866359e429a794ee850e687d82191984a2f3f872/treefb3c0a123757595ffc22616e32ff1b6609156b21/preflight8225PASS/11paths/approvedidentity; ordinary mainparent7f4f preserves integratedsource5/unchangedmain proof. Local6–8await nexttranche, mandatory SS14/18atKSS10; no newremote audit claimed. |
 
 Realization of one plannedreturn and sourceverification do not complete the remaining analytical program. Continue without ordinaryconfirmation through frozenI1/allmandatoryoutputs.
+
+
+## KSS08 verified local transaction and current publication boundary
+
+KSS05halfway CLOSED_ON_GREEN_MAIN/PR218/source8fd720135c078b43873797d9d207da76672a8c17/main7f4f438e0813e5a53ea1bdfe26fa062904791d45/equalfulltreecd057250531188112c3969eacf6a129c57a12b2f; source39072662070/house39073030088NO_OP/final39073057320/night39073808545/mandatoryownerexplicitmain39073898141allSUCCESS/full352/trustedstatus. LocalKSS06whole5663a6d5/preflight8223PASS;KSS07whole866359e4/treefb3c0a12/preflight8225PASS;KSS08whole2cbaf32a097ec743a51600befb2a304357acfb78/tree922ec2d00ea9a4048f596254d1a256289adcdf90/preflight8227PASS/11paths/approvedidentity. Currentmain incorporated, no newremoteaudit claimed; local6–9await nexttranche, mandatorySS14/18atKSS10. Earlieras-ofrecords remainhistorical. No prioraudit certifies the nexttranche; freshrefs/rules/source-house-final/nightly/owner-main route required atpublication.
+
+## Durable checkpoint after KSS09
+
+**SHUUKURA-TX-KSS-09-20261017-A1** advancesonlythroughcompleteintroducingcommit. [Reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_09_DEEP_READING.md) and [audit](SHUUKURA_V2_KSS_09_TRANSACTION_AUDIT.md) bind primary/qualifiedderivative identities, prospectiveprefixes, sourcearchive and allaffectedcanonicalhomes. Recover actualcommittedstate before newreading afterinterruption.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run | Epoch1/GIT_ACTIVE_ACCEPTED;method/architecture/reconstruction0.2;continuous_sequential/active/gateOPEN/startLN01/terminalI1plusallrequiredoutputs |
+| Source | KSS-09/AUTHOR_RELEASE_CAPTURE-20261017-A1/I1ordinal22/カモノハシの苦悩/author羽田宇佐;nativepart04/12274bytes/SHAe38d2a2bc8579ce70fc7ed87891968e14e1193d8c3abcbdc7b3588fa7cf96cc2;60anchors31nonempty29blank1226deliveredchars0ruby |
+| Maps | PartsidentitySHAadaedb17ac0cd50762705196feb1940739b399dc96fb424f08dba278502aac42;unitmapSHA927ef5e21257b39c012318d116dd6e44501518b3c2ec0a9f65b9ed8f807fb8df;parentmapSHA57a97e968efa2bd77f8dace83618cbe35a06243c30bcd3d2ab5c106b50f67127;exactserialization/bodyflow/tails/31nativechecksfirstpass |
+| Metadata/UI | CompleteoutsidevisibleUIread;declared1197chars/revision2026-01-02 14:55metadataonly, no exactfictiondate; no extranarrative/tokenURLpublication |
+| C1 | RawNFKC30/31contiguouseach/no additionalglyphfold; native04p21exactpage2prefixthroughよ/page3suffixうに言ったりしてくる。 reconstruction;43partialprefixpage3/fullpage4paginationrepeat. Actualstickyheader/bottomclipping qualifies printderivatives; complete nativeprimary preferred, no fullvisiblePDFclaim |
+| Actual modalities | 1platformbrandingbeforefiction/4postF2boundarycrops, bottom(80,690,535,772)/top(80,28,535,120),page612×792/matrix1.5/hashesretained.5FINAL/SRCcompleteextractedtext-renderpixelpagepairs;no glyphcrop/fullpage/allglyph/audioinspection |
+| C2 | 30materialchecks/199serializedbindings firstapplicationPASS; actualcompleteLN05p005260–340/p007350–385;LN07p009300–365;LN06p011125–140. Originalpurchase/transfer/gift/priorcare distinct fromnewSSpresentaction |
+| Evidence | Drive1i8zSQ6pJub17TfHPCMkPiL1DK8-KyjVq/79142bytes/SHA9a141657abc9600ff937ed7cae0a902bd85b983873afc25512c0c2cd44643581/23members exactupload-download/allmemberhashes/CRC PASS; no rawmedia |
+| Entry/prefixes | SHUUKURA-KSS09-ENTER-20261017-A1@2026-10-17T23:03:51.118914+00:00;priorwhole2cbaf32a097ec743a51600befb2a304357acfb78/tree922ec2d00ea9a4048f596254d1a256289adcdf90;10inputs9beforeimages0fiction0images. F1first30beforeall31–60/F2whole60beforeC1C2;Q121189bytes/SHA98de012282672df6db40e4b7adf418035a10f7ea1251c57e4e79f586a3211cfa@2026-10-17T23:12:01.878223+00:00;prefixesexact |
+| Historical exit | PLATYPUS-KSS09-COEXISTENCE-EXIT/CATS-KSS09-PLACED-IMAGE/S-KSS09-ACTUAL-OBJECT-CARE/M-KSS09-DEBT-IMAGE. Materialframeaftercatgift/roomdistribution, exactSSday/yearunprovided; adultM/S-V09-EXIT/BW09night/allhistories retained |
+| Material delta | 6character/4historicalprojections/3readiness;10relationships(7new3oldercontext)/6directions;0olderrules+3newobject-onlynorms;19propversions(3older16new)/16access7tensions;2olderclaims3new=122claimIDs439forms556props160rules |
+| Rule scopes | R158catnumber-affectionpermission/R159platypusMlife-debtpriority/R160Sobjectgetalongaddress ALLrepresentedobjectdomain, no newhumanrights/exclusivity/legalownership. All157priorrules/humanscopes intact; greeting55beforefinalrequest57 |
+| Access/capacity | Strongownbeliefhumanscannothear39versustimedmanualpull notprovenvoicecausality; privateobjectnormsnotS/Mknowledge. Native53loyaltyANDimmobility bothlimitaction, quietnyaa60intendednotheardbycats/outcomeunverified |
+| Provenance/counts | OriginalMchoice/Spreemptivejointfundpurchase/laterMcovertransfer/priorSattention/fivegift→twocommonspace/threeroom areseparatewitnessedstages. Nativecurrentthree notgiftcountcontradiction/exactcatcolors/date or anothergift |
+| Models/roles | OriginalM0.13/S0.14fit/time/UNTESTED/noncurrent/13attempts18forecasts intact; sourceownfutureconfidence47notregisteredtest. Objects literaryform responsibilities, no forcedfunctionalmodels/monographs; principal/Maika/Ami studiesmandatory |
+| HWM/next | OnlywholeKSS09commit:LN9/9;SS13/18;KakNONE0/431;NarōNONE0/290;available22/458. NextKSS-10/ワニの衝撃/nativepart03/I1ordinal23 after exactadmission; wholeKSS10mandatorySS14/18publication |
+| I1/remaining | FrozenJSONSHA6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95 unchanged;5accessibleSS/431parallelKak/290Narō/51knownmissing/27boundeddiscovery/mandatoryvoices/allfinalcorpusoutputs pending; LN10/laterreleases excluded |
+| Publication | KSS05halfway CLOSED_ON_GREEN_MAIN/PR218/source8fd720135c078b43873797d9d207da76672a8c17/main7f4f438e0813e5a53ea1bdfe26fa062904791d45/equalfulltreecd057250531188112c3969eacf6a129c57a12b2f; source39072662070/house39073030088NO_OP/final39073057320/night39073808545/mandatoryownerexplicitmain39073898141allSUCCESS/full352/trustedstatus. LocalKSS06whole5663a6d5/preflight8223PASS;KSS07whole866359e4/treefb3c0a12/preflight8225PASS;KSS08whole2cbaf32a097ec743a51600befb2a304357acfb78/tree922ec2d00ea9a4048f596254d1a256289adcdf90/preflight8227PASS/11paths/approvedidentity. Currentmain incorporated, no newremoteaudit claimed; local6–9await nexttranche, mandatorySS14/18atKSS10. |
+
+Objectnorms/materialcare do not complete anyhumanreconstructiondomain; availablecoverage is not fullprogramcompletion. Continuewithoutordinaryconfirmation through frozenI1andallrequiredoutputs.

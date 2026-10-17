@@ -2748,6 +2748,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`shinepost-momiji-yukine-character-deep-dive` — SHINEPOST MOMIJI YUKINE CHARACTER DEEP DIVE](series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_MOMIJI_YUKINE_CHARACTER_DEEP_DIVE.md)
 
+### Itsuki Hashima
+
+- Entity ID: `a-sisters-all-you-need:itsuki-hashima`
+- Entity aliases:
+  - 羽島伊月 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: A Sister's All You Need original light novels through Volume 14
+
+- Analysis subject ID: `a-sisters-all-you-need:itsuki-hashima@original-light-novels`
+- Series: `a-sisters-all-you-need`
+- Continuity: `a-sisters-all-you-need-original-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `itsuki-mainline-v01-v14`: LIGHT_NOVEL VOLUME: Substantial dedicated longitudinal analysis across the fourteen original Japanese numbered light novels, V01-V14, within the frozen IMOSAE-JP-LN-RAW-1.0 boundary. This describes the monograph's analytical horizon, not continuous scene coverage. Era-specific knowledge, backstory, authored works and actual end-state remain distinct. V11 functional recovery is real; V14's embedded adolescent future remains Itsuki's draft rather than authenticated biography. E023 does not establish an explicit household-care agreement. External supplements, adaptations, acoustic performance and unshown futures are outside this enrolled scope.; continuity `a-sisters-all-you-need-original-light-novels`
+- Reviewed current evidence:
+  - [`imosae-itsuki-hashima-monograph-v01-v14` — Itsuki Hashima: becoming a protagonist among other authors](series/a-sisters-all-you-need/04%20Specialist%20Synthesis/character_monographs/IMOSAE_CHAR_ITSUKI_HASHIMA_MONOGRAPH_V01-V14.md)
+
 ### Izumi Yuzu
 
 - Entity ID: `tomozaki:izumi-yuzu`
