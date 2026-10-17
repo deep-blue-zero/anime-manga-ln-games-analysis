@@ -5,10 +5,10 @@ artifact_type: analytical_execution_receipt
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.8'
+version: '0.9'
 status: active_provisional
 scope: Full remaining original-novel sequential reading; specialists, reconstruction and comparison separately gated
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U009 complete spine19 text/part0008_split_003.html through Part II body/etml closures; exclusive before spine20 Part III entering framing; later lexical source unopened
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U010 complete Part III heading/framing and numbered01 at spines20–22; exclusive before spine23 text/part0010_split_002.html; later narrative body unopened
 canonical_home: series/harmony/07 Audits and Handoffs/HARMONY_CONTINUATION_RUN_2026-10-16.md
 created: '2026-10-16'
 review_status: OWNER_REVIEWED_PILOT_AND_AUTHORIZED_CONTINUATION
@@ -228,3 +228,26 @@ All three ledgers close to17subjects/44actor-state rows/36direction IDs/72relati
 
 
 The clean ordinary preservation merge is`86533642454733d19079269ae9197e88891c54b9`, parents`439552c67a1dd1005cc6b4c93444c0460d402b9a`/`30aa05eecb4860c7f83f95fa8c6d0ce415db7dd7`; approved owner author/committer. Its unchanged staged author-preflight after object hydration PASS:phase=current,snapshot=INDEX,7976paths. Independent cumulative audit confirms all139prior actor/relation/readiness/disposition rows,45prior world/disposition rows and65prior claim/revision/disposition rows survive verbatim,165new-unit links resolve, and all eight accepted reading files equal their published439552c6 blobs. Final U009 candidate author preflight remains a separate required check.
+
+
+## HAR-U009 verified publication and sole-owner transfer
+
+Authored/final stable head`d41266925a4fce690c63f02cd1dbd9cd306ca927`,tree`d2cf3c5f4a51726ed6a7978abd48c22958fbb3cb`,preserves ordinary merge86533642 and main30aa05ee. Final staged author-preflight PASS7977paths; exact changed-file/full remote readbacks and approved owner identity verified. Source[39001857221](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39001857221) → no-child housekeeping[39002142086](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39002142086) → final[39002171646](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39002171646) all completedSUCCESS. Actual source/finalAUDIT_COMMITd4126692; full352tests/selectiondisabled, finalANALYTICAL_SOURCEfalse; exact integrationstatusSUCCESS targets finalrun. Coordinator and metadata-only verifier independently corroborate the bindings; no main merge claimed. PR190 remains OPEN/DRAFT.
+
+The prior sole writer explicitly retired at2026-10-17T04:25:42Z after full U009 acceptance, clean worktree/no successor source exposure. A fresh Harmony-only successor accepted sole mutable/source ownership and acquired full live governance, current method/architecture/source map/all3ledgers, U008/U009 readings and complete rolling receipt. Prior reading blobs and17canonical before-images are hash-bound before new source. No U010 wording was used to construct its entry. The retired reviewer remains source-closed atU009; a fresh isolated Harmony-only read-only reviewer handlesU010. Earlier exposure histories persist; this author has opened no other-title source/analysis, and unauditable model pretraining is not recast as blindness. Hosted Codex/tool runtime is observed; model/effort labels are not independently exposed and are not invented. Existing owner-authorized continuous scope and approved Git identity are inherited, not newly granted by this record.
+
+## HAR-U010 authored closeout
+
+Preword entry`be5f7ab9a91721911b4419da08aef142168b8d08a2fdf43546911d3cc754e35c` at2026-10-17T04:28:58.423242+00:00 follows full U009 acceptance. [HAR-U010](../01%20Sequential%20Readings/HAR-U010_PART_III_01_DEEP_READING.md) reads complete spines20–22, PartIII heading/unnumberedframe and natural01, including9509rawbodycp/206blocks/19ruby/204br/all9actualpanels.14exact source-span SHA-256roundtrips; XML/extraction/actualXHTMLDOM and all248elementbounds pass. Source map owns actual runtime/member/font/geometry; original witness unchanged. No spine23body/later narrative opened.
+
+Nine claimsCL063–CL071, justifiedNO_PREDICTION and separate3ledger closeouts:20subjects/50actorhistory/41directionIDs82relationhistory/48readinesshistory/52worldrows/71claims/0predictions/2priorcalibrationrevisions;132evidenceIDs135spans. TwoDOMAIN_BOUNDED/eighteenRECOGNITION_ONLY, no models/validation/G2-G6 work. New anonymous broadcast subject remains unmerged; known subjects/scene/report/record/time levels are preserved. Previously accepted readings remain bytewise unchanged.
+
+Author whole-source/image/name/reference QA covers title/frame/prolepsis, selective paper identity/classroom affiliation, car negotiation, attributed group/faction intelligence, jurisdictional rivalry, imagined own-brain mechanism, same-ID recorded address, altered voice versus recognizable argument, explicit coercion, timed promised demonstration, AI-cut timing and conditional therapy judgment. The semantic review treats a source-supported demonstration inference positively while retaining exact technology/identity limits; announced deadline is not a completed outcome. Newly identified people use source-verified Japanese names; optional romanized surnames are analyst shorthand with unverified original English. Read-only reviewer independently reads wholeJP/all9panels and source/form/locator/name/chronology/semantic evidence. Two supported candidate precision repairs preserve an inferred contact event and distinguish broadcast speaker from personal caller; short Japanese support makes two load-bearing qualifications retrievable. Final independent review/retention and source-publication audit results are recorded only after observed.
+
+
+## HAR-U010 private verification retention
+
+`HAR-U010_PRIVATE_SOURCE_VERIFICATION_20261017_V1.zip` is retained privately as Drivefile`1sypxOwVvNtQ6zGRywoVBjC8apPujwIRU`, verified parent`1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`,shared=false/owner-only permissions. Complete raw remote readback matches3,540,702bytes/SHA-256`c1221d76af26f67d88d5338c2edb4a5a1dbb13612ed1de81d9353a39321e6e6e`; safe paths/ZIPCRC/exact35entries and all34source-object sizes/hashes PASS. ManifestSHA-256`a66603020f5e53a98966ebfb999a17066f3d919b4f2614f11e1fbb52d5d560ef`. Faithful current extractions/9actualpanels/geometry/ruby/14neutral source-locator proofs/reproducible scripts/current tool+font provenance and factual author/reviewer source checks only. A neutral reviewer-source projection omits exposure/candidate-state fields without changing retained source values. Analytical prose/frontiers/drafts, future text, originalEPUBduplicates/binaries/caches excluded. Original witness unchanged; retention establishes persistence, not publisher authentication.
+
+
+U010 independent final source/form/semantic/name/chronology/14locator and cumulative-consistency review PASS. All118current-unit links resolve, all9earlier reading blobs match accepted d4126692 and every earlier ledger table row survives verbatim. The author applied only final administrative review-status/entrypoint punctuation synchronization afterward; no source/claim/exit state changed. Full private retention/readback is observed above. Current exact-path validation/publication/audit outcomes remain to be observed, not assumed.
