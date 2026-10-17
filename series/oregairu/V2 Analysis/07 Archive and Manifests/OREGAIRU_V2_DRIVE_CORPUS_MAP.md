@@ -553,6 +553,18 @@ The Volume 07 publication includes the prose bonus track `彼女たちの、う�
 
 The **original Phase 8.5 suite is closed** by `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md` after localized source, chronology and claim-control corrections. Its eight canonical models and 722 original everyday observations remain historically identifiable. The audit's 7×8 scenario rehearsal is a specification-level discrimination test; deployed-generator behavior and numerical marker distributions remain OPEN. Supporting-character expansion now proceeds in the existing specialist/model homes under architecture v2.3. Phase 9 follows that expansion and release QA; the present mutable map remains the registered entrypoint.
 
+## Accepted supporting-character expansion — 2026-10-17
+
+The original eight-model Phase 8.5 suite retains its completed historical identity. The supporting expansion adds three independently reviewed literary monographs and three evidence-gated, bounded school-age models. Publication/main integration is recorded separately in [the task status](OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md).
+
+| Subject | Independent literary analysis | Derived operational specification |
+|---|---|---|
+| Totsuka Saika | [SC01: agency, friendship and the narrated gaze](../05%20Specialist%20Synthesis/SC01_TOTSUKA_SAIKA_AGENCY_FRIENDSHIP_AND_THE_NARRATED_GAZE.md) | [Totsuka model](../06%20Continuous%20Synthesis/Character%20Reconstruction%20Models/OREGAIRU_V2_CHAR_TOTSUKA_RECONSTRUCTION_MODEL.md) |
+| Miura Yumiko | [SC02: authority, care and vulnerability](../05%20Specialist%20Synthesis/SC02_MIURA_YUMIKO_AUTHORITY_CARE_AND_VULNERABILITY.md) | [Miura model](../06%20Continuous%20Synthesis/Character%20Reconstruction%20Models/OREGAIRU_V2_CHAR_MIURA_RECONSTRUCTION_MODEL.md) |
+| Zaimokuza Yoshiteru | [SC03: performance and creative commitment](../05%20Specialist%20Synthesis/SC03_ZAIMOKUZA_YOSHITERU_PERFORMANCE_AND_CREATIVE_COMMITMENT.md) | [Zaimokuza model](../06%20Continuous%20Synthesis/Character%20Reconstruction%20Models/OREGAIRU_V2_CHAR_ZAIMOKUZA_RECONSTRUCTION_MODEL.md) |
+
+Their primary-first shared slices add 40/22/32 observations respectively: 816 total, with the original 722 rows preserved. The studies qualify the CS-SEC-TOT linear-recognition reading, exclusive Kyoto motive claims about Miura, and productive-output implications of CS-SEC-ZAI without rewriting frozen artifacts. No newly inspected post-V14.5 development, adult future, global capability grade or external-generator accuracy is asserted. Authorized character discovery enrollment remains pending.
+
 ## Owner-acquisition leads and excluded sources — checked 2026-10-16
 
 These are availability records, not narrative admission or inspected content. They do not block completion of the admitted V2 corpus. No source hash, internal chronology, or fictional conclusion is inferred from a publisher listing.
