@@ -204,6 +204,8 @@ High-water GO-U005; cumulative74evidence/372narrative locators plus6admitted-sou
 
 GO-U005 source retention is independently verified: Drive ID `1PfoXSqqRUOfzZg_AZ-5MHnuMGDwz4a4A`, canonical parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, private (`shared=false`). Full raw remote readback matches **3,238,810bytes**, SHA-256 `cab7f7cb99116d895ede1a2fdb8f7a7f14d8652f7b2e8873b7bd8afb593c1888`. ZIP CRC/safe paths/exact27members/all26manifest objects' complete size/hash checks PASS; SHA256SUMS.json SHA-256 `24b4b5a23fe9062da638dfe901b9323478ac7564f68771047c5fa7f3c817828f`. The bundle includes only current subsection and its same-unit heading selected-source proof, all10actual renders, exact locators/coverage/geometry, source-only independent proof, noninterpretive gate timing/hash references, tools and reproduction provenance. Analytical freeze/state/prose and interpretive QA remain separately canonical Git/private analytical checkpoints. Original EPUB/permissions are unchanged; no later plaintext or runtime binary is included.
 
+<a id="go-u006-coverage-closeout-and-current-frontier--2026-10-17"></a>
+
 ## Historical GO-U006 coverage closeout and frontier at its exit — 2026-10-17
 
 [GO-U006](../01%20Sequential%20Readings/GO_U006_PART_II_SUBSECTION_2.md) includes complete Part II subsection2 at spine15 `text/part0013.html`,53,381bytes/SHA-256 `1360f6fa7d7e688ea27c385931441f8f611df42f47426290db7b022369f018d3`, exclusive before spine16 `text/part0014.html`. Original317,774byte archive/hash/CRC unchanged. All210p (209direct across five body-level divs plus1nested numeral),9empty,13,836raw body codepoints and35ruby/48rt were read and matched originalXML/export/browser without normalization. Both visibly indented recorded-dialogue blocks and intervening narrator/meeting frames are included. All14actual overlapping RTLtiles were viewed; every bound fits18,959×1,000. Rendering uses the same pinned local Chrome/Playwright/Noto CJK and original active CSS/24pxfont/950pxbody inspection reflow; known inactive alternate-CSS failure and edition/lineage limits remain. These are reflow coordinates, not print pages.
@@ -215,6 +217,8 @@ High-water GO-U006; all three ledger dispositions complete. Both next fields GO-
 ## GO-U006 adopted private source verification retention
 
 GO-U006 source retention is independently verified: Drive ID `1XDKD2xhwRY9Xj3Cw1aBNu496aZcjc1rt`, canonical parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, private (`shared=false`). Full raw remote readback matches **5,665,112bytes**, SHA-256 `003e2cd4095114eb572c4ece1eeaf883c0e39b415f5ffd71b166bdacd47686ce`. ZIP CRC/safe paths/exact26members/all25manifest objects' complete size/hash checks PASS; SHA256SUMS.json SHA-256 `18ffa1b3f04c156bb16346146f655a9f5ce774c06920bc2404f9b8dd6c3efb07`. The bundle includes only current subsection selected-source proof including both recorded-dialogue blocks, all14actual renders, exact locators/coverage/geometry, source-only independent proof, noninterpretive gate timing/hash references, tools and reproduction provenance. Analytical freeze/state/prose and interpretive QA remain separately canonical Git/private analytical checkpoints. Original EPUB/permissions are unchanged; no later plaintext or runtime binary is included.
+
+<a id="go-u007-coverage-closeout-and-current-frontier--2026-10-17"></a>
 
 ## Historical GO-U007 coverage closeout and frontier at its exit — 2026-10-17
 
