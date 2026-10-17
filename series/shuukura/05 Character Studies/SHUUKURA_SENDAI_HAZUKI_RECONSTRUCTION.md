@@ -939,3 +939,23 @@ Later corpus-wide reconstruction must version evidence/time explicitly before in
 ### BW03-C1 chronological refinement
 
 The [post-seal cross-source addendum](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V03_DEEP_READING.md#post-seal-chronology-and-novel-correspondence--bw03-c1) binds the original LN03 p005p6,51–85,212,281–294 and BW03 p001p9–10,51–53,66–67,178–180. The distinctive café/qualified-remark/final-year festival correspondence supports October/day2; early October is approximate, not an exact date. Numeric ages are not assigned from school year alone. Novel postfestival nonvisit and later entertainment remain their own disclosed witness outcomes, not new actions inside BW03 or knowledge shared by its actors. No new operational candidate/test/readiness promotion; original fit and historical prefixes remain unchanged.
+
+
+## BW06 retrospective evidence addendum — two domestic occasions
+
+**BW-JP-V06 / ACQUIRED-20261017-A1**, sourceSHA`f33b45be05f32d03f0c2c9b91671cd6d75f1505d0ff488689268364a62b74d2d`, locatorSHA`551c9cedb70466b86bb3e8d2ef44e8b8d1ebcc8f71c1d0f68b6a1594786426ae`. The [complete reading and observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V06_DEEP_READING.md#observation-locator-index) owns BW-JP-V06-O001–004, the source route and verified evidence archive. All3native spines/132paragraphs/2originalimages/navigation inspected;70material literal checks pass. This source was read after LN01–09/BW03; exact numeric ages/calendar placement are not supplied by the bonus.
+
+Sendai can drop one request, offer a different activity and later press another preference. Her chosen five-minute frame, private prescriptions and goal of a farther checkout are actor-specific evidence. Actual Miyagi presence does not verify her entire timing theory; practical help can be real beside an undisclosed priority.
+
+The historical interval is university/shared home after kettle purchase and tutoring start, with a first evening and following represented shopping occasion. These are separate packets, not a replacement of adult M/S-V09-EXIT. S0.14 retains its original LN fit/time/UNTESTED/noncurrent identity; this is evidence for a later expressly built historical or cumulative version, not a new operational model. The original model prefix and all failed/tied cases remain unchanged.
+
+| Information responsibility | Evidence and negative constraint |
+| --- | --- |
+| Miyagi packet | Her preference, anticipation, no today, accepted tea, cooking convenience and store objections are her own. She hears practical weight/stew offers; Sendai's alternate ten-minute calculation/private endpoint goal are not spoken to her |
+| Sendai packet | Her strategy, effort and desired longer route are known to her. Miyagi's exact reason for waiting, timer and complete acceptance are not established; private first-evening rationale is not automatically heard |
+| Observable interaction | Evening outing drops after no; tea preparation starts. Later both select groceries, but extra aisle is pressed after objections and arm is pulled. Presence/movement is not universal permission or full comfort |
+| Japanese speech | Today-specific refusal, small tea yes, unexplained なんででも, repeated 五分, inward べき, conditional 食べたくない and 勝手すぎる keep different force; 作ってあげる offers a benefit without proving completion/assent |
+| Abstention | Exact unprovided date/age/duration, inner waiting motive, completed tea/payment/home delivery/stew and global diagnosis must not be invented. Relative/deduplication route to novel stew promise remains unresolved |
+| Readiness | Ordinary time/task/disclosure evidence richer; no historical operational packet or new held-out case built here. Unfamiliar-person/cross-series/acoustic domains remain unsupported as before |
+
+No new test or formal forecast. Thirteen historical attempts remain six first-action failures(one input-qualified), one exposure-qualified gift match and six ordinary baseline ties; five older claim forecasts are separate. No independent acceptance or VALIDATED domain follows. Corpus-wide reconstruction must explicitly version evidence/time and reassess limitations after remaining sources.
