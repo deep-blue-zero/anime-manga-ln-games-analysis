@@ -1,0 +1,9 @@
+# DUST06 ten-ledger payload v2: bounded closure
+
+I actually received all eight exact route/subject/access replacements and the complete declared adoption metadata. DE02 now locates the enemy reveal; HM01 locates ignored flight stops; JV01 covers762–771; JV02 includes Dust→Yunyun and the381–391 context; OP01 locates friendship recruitment; N02 preserves private access and exact D06-R-049 identity. These resolve the seven v1 findings and S’s additional JV02 context precision.
+
+Independent complete forward/inverse replay passes for all ten payloads; five are byte-identical to v1. All twenty stable IDs and the existing substantive observations/limits remain. All ten exact published0d8067 prefixes, intended append-tail inverses and file caps pass. Prior full20-row/header/footer receiving is reused; only the actual eight changed values and new adoption expectations are newly received. No fresh primary, old-ledger prose rereading or new source admission is claimed.
+
+The three candidate/pending-to-accepted label operations have unique exact beforeimages and are appropriate only after the real acceptance event. UTC remains unfilled. At that event also remove the literal “(private pre-adoption placeholder)” in each header; substituting the token alone would leave an accepted timestamp mislabeled. Root has been told this explicit adoption-only requirement. This closure accepts the concrete private content at receiving scope, not a fabricated event, unknown later wrapper or publication.
+
+There is no remaining source/guard/outcome content blocker in v2. The original v1 report/findings/seal and every initial/model/threshold remain exact. FormalNT for E02 preserves componentP/FULL_GUARD_UNTESTED, E01/E06 remain ambiguous, and all contrary scope remains. Root remains the canonical writer/adjudicator; DUST07, excluded bodies and images stay closed, and the producer is shielded.

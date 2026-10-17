@@ -1,0 +1,1073 @@
+{
+  "KAZUMA": [
+    {
+      "original_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-first-k18-responses-v1/ROOT_FIRST_COMPLETE_K18_RESPONSE_SEAL.json",
+        "bytes": 2369,
+        "sha256": "c8d2720ed5de49cfc67fd5057fca004e0cebb8b3595d38f3b7308b078e90a167"
+      },
+      "complete_original_object": {
+        "sealed_utc_after_actual_complete_unique_prose_readback": "2026-10-17T14:32:26.683890+00:00",
+        "state": "FIRST_COMPLETE_ROOT_K18_RESPONSES_SEALED_NO_EVALUATOR_FEEDBACK",
+        "output": {
+          "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-first-k18-responses-v1/ROOT_FIRST_K18_BOUNDED_RESPONSES.jsonl",
+          "bytes": 73974,
+          "sha256": "0617a36e0ddcf21218b1584db9a368f587a55e222176c2446a38effb2df8c740"
+        },
+        "authoring_scope": {
+          "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-first-k18-responses-v1/ROOT_FIRST_K18_AUTHORING_AND_INPUT_SCOPE.json",
+          "sha256": "73700d58a9f2a6c6c53f8f6a884b7fd7b934fb0f13ac6a1800b0afa0f12e66ff"
+        },
+        "all18_exact_ids_modes_prompt_hashes_models_and15_required_fields_verified": true,
+        "counts": {
+          "CANONICAL_COMIC": 9,
+          "TRANSFER": 9
+        },
+        "actual_readback": "All9 complete CC semantic records and every actual TR differing field were returned/read in3 untruncated displays (F01–03,F04–06,F07–09). Shared paired fields reused onlywhere byte/value-identical; exactmodel/runtime/repeatedhash fields mechanically joined, not falsely counted as separate prose. Wholefile inputs and outputs fully hashed.",
+        "generator_self_QA_before_evaluator_access": [
+          "F05-K-TR generated text has malformed 十分快く; retain first output and submit as an output-language defect, not a model behavioral failure.",
+          "F02 pair audit labels social scripts as §17; exact model component route should be checked (expected §15). Preserve original; locator correction needs explicit diagnostic successor if verified.",
+          "F03 pair arrival arithmetic omits explicitly naming departure/inquiry delay; no actual arrival or answer was narrated. Have evaluator assess uncertainty rather than silently revise first output."
+        ],
+        "self_QA_is_not_external_evaluation_or_score": true,
+        "evaluator_expectedanswers_hiddenfacts_and_otherownerresponses_read_before_seal": false,
+        "no_first_response_overwrite": true,
+        "new_native_for_generation": 0,
+        "holdouts_expanded_excluded_images_opened": false,
+        "next": "Root may now receive exact prebound detail; P/I remain shielded until their own full response seals. S substantive assessment waits all90 firstoutputs. Any repairs retain first response and are diagnostic, not new unseen trials. Not suite freeze or publication."
+      }
+    },
+    {
+      "original_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-first-k18-responses-v1/ROOT_FIRST_K18_AUTHORING_AND_INPUT_SCOPE.json",
+        "bytes": 2082,
+        "sha256": "73700d58a9f2a6c6c53f8f6a884b7fd7b934fb0f13ac6a1800b0afa0f12e66ff"
+      },
+      "complete_original_object": {
+        "written_utc": "2026-10-17T14:29:52.781358+00:00",
+        "state": "FIRST_COMPLETE_EIGHTEEN_AUTHORED_RESPONSES_WRITTEN_PENDING_FULL_ROOT_READBACK_AND_SEAL",
+        "release_receipt_sha256": "d0cc0c205a9c7edf440deaf914d60a5f5b4708a35e7775fe62f1e0260c5379a7",
+        "owner_pack_sha256": "65157674d948f17907893abd47ab630e1e325aea1da1dbf17600b2f606375540",
+        "input_read_scope": "All18 full variable case fields, exact15output fields and both full mode/commoninstruction/independentstart texts actually returned/read in three untruncated ranges. Repeated invariant instructions reused with whole-object hash/equality proof, not silently omitted unique facts.",
+        "actual_start_boundary": "Root first opened pack metadata at2026-10-17T14:23:58Z after actualrelease; first four complete prompts read, then remaining14 full variablefield sets. Exact hidden model sampling start/end unavailable; written_utc is serialization observation only.",
+        "counts": {
+          "case_families": 9,
+          "first_mode_responses": 18,
+          "canonical": 9,
+          "transfer": 9
+        },
+        "shared_paired_authorship": "Paired cases share the same person-level choice where their relevant facts allow it; mode-specific dialogue/limits are separate. These are not18 statistically independent or unfiltered stochastic samples.",
+        "evaluator_access_before_first_outputs": "No full binding/expected answer/hiddenfact/otherownerresponse opened; no feedback or scoring received.",
+        "source_boundary": "No new native narrative for generation; admitted main-only models with pre-case sourceprecision qualification. All holdout/expanded/excluded/image sources remain closed.",
+        "not_claimed": "No success rate, primary-source validation, world outcome or model/suite acceptance. First outputs remain immutable; later substantive correction must be separate and diagnostic.",
+        "output": {
+          "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-first-k18-responses-v1/ROOT_FIRST_K18_BOUNDED_RESPONSES.jsonl",
+          "bytes": 73974,
+          "sha256": "0617a36e0ddcf21218b1584db9a368f587a55e222176c2446a38effb2df8c740"
+        }
+      }
+    }
+  ],
+  "AQUA_MEGUMIN": [
+    {
+      "original_identity": {
+        "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/PRODUCER_ALL36_FIRST_OUTPUTS_SEAL.json",
+        "bytes": 1404,
+        "sha256": "99832fc324456a5ce0b0b0bf91ccf6413feb8c5a88355c441dfdabb3456abf53"
+      },
+      "complete_original_object": {
+        "sealed_utc": "2026-10-17T14:33:04.524807+00:00",
+        "state": "ALL36_FIRST_COMPLETE_INPUTS_SETTINGS_READ_SCOPE_AND_PRESERVED_BATCHES_SEALED",
+        "manifest": {
+          "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/PRODUCER_ALL36_FIRST_OUTPUTS_MANIFEST.json",
+          "bytes": 4562,
+          "sha256": "b568f63f55ae668dd82c614724e656cdda40c3fe8d7600cc186c3dc440aab382"
+        },
+        "complete_response_JSONL": {
+          "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/PRODUCER_ALL36_FIRST_RESPONSES.jsonl",
+          "bytes": 99987,
+          "sha256": "be6e5b65842c4552f3be96acc972697b908f8b0cf690abd58445a55714e9ce71"
+        },
+        "mechanical_coverage_proof": {
+          "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/ALL36_EXACT_INPUT_ID_MODE_FAMILY_AND_FIRST_RECORD_JOIN_PROOF.json",
+          "bytes": 30508,
+          "sha256": "61e691959118dd425c95adb4e52ab4a2d214b237418a786e7137bf7da9989067"
+        },
+        "read_scope_and_runtime": {
+          "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/ACTUAL_RUNTIME_READ_SCOPE_AUTHORING_TIME_AND_LIMITS.json",
+          "bytes": 6485,
+          "sha256": "111f5a9ccd2569c7347c4512611279710da343e5e44e06ea83be05e9edc160ca"
+        },
+        "first_complete_batches_preserved": true,
+        "no_evaluator_feedback_before_seal": true,
+        "count": 36,
+        "no_acceptance_or_external_predictive_validity_claim": true
+      }
+    },
+    {
+      "original_identity": {
+        "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/PRODUCER_ALL36_FIRST_OUTPUTS_MANIFEST.json",
+        "bytes": 4562,
+        "sha256": "b568f63f55ae668dd82c614724e656cdda40c3fe8d7600cc186c3dc440aab382"
+      },
+      "complete_original_object": {
+        "created_utc": "2026-10-17T14:33:04.524567+00:00",
+        "state": "COMPLETE_FIRST36_RESPONSE_SET_BEFORE_EVALUATOR_FEEDBACK_NOT_ACCEPTED",
+        "project_generation": "V1",
+        "model_version": "MAIN_ONLY_R1",
+        "source_authority_at_binding": "39b498f1852225424830b7daf6de59abedbb8c02 plus explicitly accepted currentCR007 derivatives",
+        "release": {
+          "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/ROOT_ACTUAL_NINETY_EXECUTION_RELEASE_AND_CR007_ACCEPTANCE.json",
+          "bytes": 7102,
+          "sha256": "d0cc0c205a9c7edf440deaf914d60a5f5b4708a35e7775fe62f1e0260c5379a7"
+        },
+        "safe_owner_pack": {
+          "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_PRODUCER.json",
+          "bytes": 151637,
+          "sha256": "3c11810c46f78632c92f839d7300cb4514c0582252b0fcb18afa0ac45e7a3b66"
+        },
+        "exact_models": [
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+            "bytes": 63022,
+            "sha256": "f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+            "bytes": 59422,
+            "sha256": "618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080"
+          }
+        ],
+        "outputs": [
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/BATCH01_FIRST_COMPLETE_RESPONSES.json",
+            "bytes": 20300,
+            "sha256": "6dc95801e4b05f637c687602f623f7e4513da89dfa24657a204d4aff1ef3492a"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/BATCH02_FIRST_COMPLETE_RESPONSES.json",
+            "bytes": 20612,
+            "sha256": "8fb52d1f19cd293b3c15177aabf0aeb765032c5f6fed9f09ffe9d181cf35e149"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/BATCH03_FIRST_COMPLETE_RESPONSES.json",
+            "bytes": 20159,
+            "sha256": "a611155d3bc1f55d068f53e35ccc55cc06b0dbc3964e270c7cb45047bb8dae87"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/BATCH04_FIRST_COMPLETE_RESPONSES.json",
+            "bytes": 20241,
+            "sha256": "93b4ce9800b65e7a227ebfdee6513aa2a02ad52d142736ece67d11e3d7b293c5"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/BATCH05_FIRST_COMPLETE_RESPONSES.json",
+            "bytes": 20368,
+            "sha256": "bcc544faf8ec382ac229e2a8df2ed8d39ab3f37b5eef7fceac32c662e1492472"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/BATCH06_FIRST_COMPLETE_RESPONSES.json",
+            "bytes": 20639,
+            "sha256": "f08e05a8f23818217b0a98e099fe6dfc5861d9f9f382fa90bf0cb34e6d860195"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/PRODUCER_ALL36_FIRST_RESPONSES.jsonl",
+            "bytes": 99987,
+            "sha256": "be6e5b65842c4552f3be96acc972697b908f8b0cf690abd58445a55714e9ce71"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/ALL36_EXACT_INPUT_ID_MODE_FAMILY_AND_FIRST_RECORD_JOIN_PROOF.json",
+            "bytes": 30508,
+            "sha256": "61e691959118dd425c95adb4e52ab4a2d214b237418a786e7137bf7da9989067"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/ACTUAL_RUNTIME_READ_SCOPE_AUTHORING_TIME_AND_LIMITS.json",
+            "bytes": 6485,
+            "sha256": "111f5a9ccd2569c7347c4512611279710da343e5e44e06ea83be05e9edc160ca"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/SELF_OBSERVED_FIRST_OUTPUT_CONCERNS_NOT_REPLACEMENTS.json",
+            "bytes": 941,
+            "sha256": "513bbec26c17dd57ae99e786a5822f5a98c0e55f4a60b0ca18d2538ce01d2c01"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/FIRST36_HANDOFF.md",
+            "bytes": 1987,
+            "sha256": "2e201005a262b42ed1e2eb2bded1b2035fa79a425b472333f31420e27cd76138"
+          }
+        ],
+        "count": 36,
+        "unique_cases": 18,
+        "families": 9,
+        "modes": [
+          "CANONICAL_COMIC",
+          "TRANSFER"
+        ],
+        "counts_by_subject_mode": {
+          "Aqua/CANONICAL_COMIC": 9,
+          "Aqua/TRANSFER": 9,
+          "Megumin/CANONICAL_COMIC": 9,
+          "Megumin/TRANSFER": 9
+        },
+        "no_feedback_private_bindings_or_expected_answers": true,
+        "no_holdout_or_source_expansion": true,
+        "canonical_Git_writes": false
+      }
+    },
+    {
+      "original_identity": {
+        "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/ACTUAL_RUNTIME_READ_SCOPE_AUTHORING_TIME_AND_LIMITS.json",
+        "bytes": 6485,
+        "sha256": "111f5a9ccd2569c7347c4512611279710da343e5e44e06ea83be05e9edc160ca"
+      },
+      "complete_original_object": {
+        "recorded_utc": "2026-10-17T14:33:04.523947+00:00",
+        "state": "ALL36_FIRST_COMPLETE_BEFORE_EVALUATOR_FEEDBACK",
+        "generation": "V1",
+        "causal_model_version": "MAIN_ONLY_R1",
+        "exact_current_causal_models": [
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+            "bytes": 63022,
+            "sha256": "f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+            "bytes": 59422,
+            "sha256": "618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080"
+          }
+        ],
+        "current_forecast_files": [
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/AQUA_R1_CURRENT_FORECASTS_v3.json",
+            "bytes": 27610,
+            "sha256": "c149c8c844b910920c599c79ec589295402cb14c4adc670f4c308bcdc8fdd670"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/MEGUMIN_R1_CURRENT_FORECASTS_v2.json",
+            "bytes": 24671,
+            "sha256": "8c23d6e7e9db0e3f34375359c03a4f07b26efcf1e6c8eeedf143bbe0db3e626f"
+          }
+        ],
+        "runtime": {
+          "declared_identity": "Codex based on GPT-6",
+          "exact_served_model_id": "UNKNOWN_UNAVAILABLE",
+          "served_build": "UNKNOWN_UNAVAILABLE",
+          "temperature": "UNKNOWN_UNAVAILABLE",
+          "top_p": "UNKNOWN_UNAVAILABLE",
+          "seed": "UNKNOWN_UNAVAILABLE",
+          "reasoning_effort": "UNKNOWN_UNAVAILABLE",
+          "inference_implementation": "UNKNOWN_UNAVAILABLE",
+          "method": "Informed AI model-author execution, not an unfiltered or independently sampled API call."
+        },
+        "actual_execution_method": "The continuing AI model author wrote each finite action/utterance and concise audit in this turn after reading the exact safe prompt. Python serialized and checked those authored records; no separate stochastic model API, CLI or independent sampler was run.",
+        "actual_authoring_time_bounds": {
+          "earliest_possible_authoring_bound_utc": "2026-10-17T14:23:28.691911+00:00",
+          "earliest_bound_type": "Root actual execution release; not a measured individual response start.",
+          "first_prompt_open_time": "NOT_INDIVIDUALLY_INSTRUMENTED_AFTER_RELEASE",
+          "observed_batch_completion_writes": [
+            {
+              "batch": 1,
+              "first_complete_file_written_utc": "2026-10-17T14:25:51.943418+00:00"
+            },
+            {
+              "batch": 2,
+              "first_complete_file_written_utc": "2026-10-17T14:27:01.883817+00:00"
+            },
+            {
+              "batch": 3,
+              "first_complete_file_written_utc": "2026-10-17T14:28:07.871713+00:00"
+            },
+            {
+              "batch": 4,
+              "first_complete_file_written_utc": "2026-10-17T14:29:11.852898+00:00"
+            },
+            {
+              "batch": 5,
+              "first_complete_file_written_utc": "2026-10-17T14:30:20.771936+00:00"
+            },
+            {
+              "batch": 6,
+              "first_complete_file_written_utc": "2026-10-17T14:31:31.915064+00:00"
+            }
+          ],
+          "all_first_text_complete_no_later_than_utc": "2026-10-17T14:31:31.915064+00:00",
+          "exact_per_response_drafting_or_sampling_times": "UNKNOWN_UNAVAILABLE_NO_FABRICATED_TIMESTAMPS"
+        },
+        "actual_read_scope": {
+          "complete_root_release_read": {
+            "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/ROOT_ACTUAL_NINETY_EXECUTION_RELEASE_AND_CR007_ACCEPTANCE.json",
+            "bytes": 7102,
+            "sha256": "d0cc0c205a9c7edf440deaf914d60a5f5b4708a35e7775fe62f1e0260c5379a7"
+          },
+          "complete_safe_owner_pack": {
+            "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_PRODUCER.json",
+            "bytes": 151637,
+            "sha256": "3c11810c46f78632c92f839d7300cb4514c0582252b0fcb18afa0ac45e7a3b66"
+          },
+          "actual_prompt_displays": [
+            [
+              "F01-A-CC",
+              "F01-A-TR",
+              "F01-M-CC",
+              "F01-M-TR",
+              "F02-A-CC",
+              "F02-A-TR"
+            ],
+            [
+              "F02-M-CC",
+              "F02-M-TR",
+              "F03-A-CC",
+              "F03-A-TR",
+              "F03-M-CC",
+              "F03-M-TR"
+            ],
+            [
+              "F04-A-CC",
+              "F04-A-TR",
+              "F04-M-CC",
+              "F04-M-TR",
+              "F05-A-CC",
+              "F05-A-TR"
+            ],
+            [
+              "F05-M-CC",
+              "F05-M-TR",
+              "F06-A-CC",
+              "F06-A-TR",
+              "F06-M-CC",
+              "F06-M-TR"
+            ],
+            [
+              "F07-A-CC",
+              "F07-A-TR",
+              "F07-M-CC",
+              "F07-M-TR",
+              "F08-A-CC",
+              "F08-A-TR"
+            ],
+            [
+              "F08-M-CC",
+              "F08-M-TR",
+              "F09-A-CC",
+              "F09-A-TR",
+              "F09-M-CC",
+              "F09-M-TR"
+            ]
+          ],
+          "reading_method": "Every whole exact fixed_prompt_core displayed/read untruncated in ordered six-prompt groups; complete top-level operation/mode/identity rules and all15 output field names read. No summaries/search snippets substituted.",
+          "own_models": "Previously actually authored/read complete28-component Aqua/Megumin arguments/all15 contracts and bounded M06/A08 receiving successors. Exact current pins verified for each execution; body reuse, not a fresh whole-model reread per case.",
+          "transfer_model": "Transfer constraint identity appears in own pack/release and is retained as metadata. No new root Transfer argument body was opened; operative transfer conditions are the complete fixed prompt.",
+          "new_primary_narrative_slots": 0,
+          "private_bindings_or_evaluator_expected_answers_opened": false,
+          "other_owner_outputs_opened": false,
+          "new_holdout_expanded_bonus_afterword_image_exposure": false
+        },
+        "case_independence_limit": "Each fictional start is treated independently without outcome learning. Same author, shared main evidence and paired mode prompts are not independent stochastic trials or source validation.",
+        "output_format_note": "The actual safe pack15-field common contract governs; the earlier provisional schema is not asserted to be the exact execution interface. No expected-answer, pass/fail, aggregate judgment or source outcome field was inserted.",
+        "first_complete_preservation": "All six original first-complete batch byte hashes retained; combined JSONL is a lossless value-equal projection. No semantic replacement response was generated before sealing.",
+        "evaluator_feedback_received": false,
+        "not_suite_acceptance_or_holdout_validation": true,
+        "canonical_Git_writes": false
+      }
+    }
+  ],
+  "DARKNESS_PARTY": [
+    {
+      "original_identity": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/FIRST_COMPLETE36_EXECUTION_PRE_EVALUATOR_SEAL.json",
+        "bytes": 10979,
+        "sha256": "bf31b7bae747f574b66bd4d1cd154b687ad224d2839cebbf997e2bade8a1b141"
+      },
+      "complete_original_object": {
+        "sealed_utc": "2026-10-17T14:37:01.818317+00:00",
+        "state": "COMPLETE36_FIRST_MODE_RESPONSES_IMMUTABLE_BEFORE_ANY_EVALUATOR_EXCHANGE",
+        "count": 36,
+        "IDs": [
+          "F01-D-CC",
+          "F01-D-TR",
+          "F02-D-CC",
+          "F02-D-TR",
+          "F03-D-CC",
+          "F03-D-TR",
+          "F04-D-CC",
+          "F04-D-TR",
+          "F05-D-CC",
+          "F05-D-TR",
+          "F06-D-CC",
+          "F06-D-TR",
+          "F07-D-CC",
+          "F07-D-TR",
+          "F08-D-CC",
+          "F08-D-TR",
+          "F09-D-CC",
+          "F09-D-TR",
+          "F01-PARTY-CC",
+          "F01-PARTY-TR",
+          "F02-PARTY-CC",
+          "F02-PARTY-TR",
+          "F03-PARTY-CC",
+          "F03-PARTY-TR",
+          "F04-PARTY-CC",
+          "F04-PARTY-TR",
+          "F05-PARTY-CC",
+          "F05-PARTY-TR",
+          "F06-PARTY-CC",
+          "F06-PARTY-TR",
+          "F07-PARTY-CC",
+          "F07-PARTY-TR",
+          "F08-PARTY-CC",
+          "F08-PARTY-TR",
+          "F09-PARTY-CC",
+          "F09-PARTY-TR"
+        ],
+        "manifest": {
+          "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/FIRST36_EXECUTION_SETTINGS_READSCOPE_AND_OUTPUT_MANIFEST.json",
+          "bytes": 14244,
+          "sha256": "e16af15b15323af6c35f0803b75fe64314fe0b32501068de915bc3f5ebf9d87c"
+        },
+        "combined_records": {
+          "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ALL36_FIRST_COMPLETE_RESPONSE_RECORDS.json",
+          "bytes": 264871,
+          "sha256": "ea1c93e54eadde9e4126723f4eed8d0d386daaf6393bbf4ca049aef392b7afb1"
+        },
+        "readable_responses": {
+          "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ALL36_FIRST_COMPLETE_RESPONSES_FOR_FULL_RECEIVING.md",
+          "bytes": 100329,
+          "sha256": "c3fd659fe9c4c55630012e555ba012f929a7ba2ddef1c6bf758ae4a0d866756d"
+        },
+        "coverage_proof": {
+          "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ALL36_ACTUAL_COVERAGE_INPUT_PIN_AND_RENDER_PROOF.json",
+          "bytes": 27082,
+          "sha256": "62bc4b0af2bf2349f43ce5f65a1794b24a7ef9def35ceae1f595fb0360c1ef64"
+        },
+        "readscope_settings": {
+          "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ACTUAL_PROMPT_READ_SCOPE_SETTINGS_AND_INPUT_PINS.json",
+          "bytes": 6026,
+          "sha256": "cb7384dca4bc194fc52a83bccea3a12a2ceb5a6d57089eb7c0434400c6f68ffc"
+        },
+        "individual_records": [
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F01-D-CC.json",
+            "bytes": 5670,
+            "sha256": "04df76dab369947c3afc2ecc8dc655f05710e506dc1b0afb93e9e6e26c48256f"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F01-D-TR.json",
+            "bytes": 5671,
+            "sha256": "5116d321bc35c3ac5e695a5c9d4a2100e8abbb6f8b4110c6c5056b0e51dfd913"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F02-D-CC.json",
+            "bytes": 5811,
+            "sha256": "f1b45a3c6a162ccab81a38df5a05628b6e317bb2b989fb1d2dee9f8874cee5a4"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F02-D-TR.json",
+            "bytes": 5802,
+            "sha256": "1493c9a9a7f44a2cdb53ff32656f13f195bc7677e98992bdf0b7a8385745bb88"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F03-D-CC.json",
+            "bytes": 5732,
+            "sha256": "88a827eed4a9f01705db445b35fd3c39e642609a59490444b0e08e094a68d587"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F03-D-TR.json",
+            "bytes": 5739,
+            "sha256": "aa6e42a91e7debb0dc7b12f8d67ee166f8721c3c8373d83f92048858bbc3bf66"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F04-D-CC.json",
+            "bytes": 5936,
+            "sha256": "88011a0f408b2195f6efe4fda54e2da4b1f5c2f9805009c94db0a754af3a25f1"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F04-D-TR.json",
+            "bytes": 5941,
+            "sha256": "057ed8d9615c336c5cafcdb8e072f21ede13e95b6e82f6ab29ecbef5fa748c00"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F05-D-CC.json",
+            "bytes": 6079,
+            "sha256": "7f89d735b1bf19a8daf910d78f7e8130a0ecae2345391f0f683fc19f4da290dd"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F05-D-TR.json",
+            "bytes": 6049,
+            "sha256": "afd3b1b059da4328cdc310c6a1bcd2b1825df590f9f8c07dfc31151292629610"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F06-D-CC.json",
+            "bytes": 5991,
+            "sha256": "919f4d422ae4a716e04141f0de36cf4cda31a7c24730fba6641036e3fc606f0f"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F06-D-TR.json",
+            "bytes": 5962,
+            "sha256": "1c7ca106858bea8553c2110683efa593da092aa7c272030f2e43f03c3010bcc6"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F07-D-CC.json",
+            "bytes": 5961,
+            "sha256": "5f07dfe1492a698c528b36e39659276fcdd3b3ecd0961887d0cf28198fde48a7"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F07-D-TR.json",
+            "bytes": 5970,
+            "sha256": "486293c454289eabe4c658ae448302c2df43fcb47494b2484ada3c6c4c952085"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F08-D-CC.json",
+            "bytes": 6026,
+            "sha256": "0b1ed808bde2dd42a48665be27756b615a2306fb002023ce0ada4d085b48be05"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F08-D-TR.json",
+            "bytes": 6021,
+            "sha256": "a097871893f5373250cc2d379ff23cde49bc7482eefd1f5b3df9aef7e4530d50"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F09-D-CC.json",
+            "bytes": 6065,
+            "sha256": "2e4c885f8316ac74308036179e87650fc199b3119e41c779d6565a45cb9adcec"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F09-D-TR.json",
+            "bytes": 6017,
+            "sha256": "8a7d7e85251f5ca9c98ebaae459e5e2db3a18e3664396836eddea95186ff9aab"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F01-PARTY-CC.json",
+            "bytes": 7724,
+            "sha256": "542ec36a2317b60a90c0bc66c6be8fef740ae10deec547c0a62acae2fae5c758"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F01-PARTY-TR.json",
+            "bytes": 7721,
+            "sha256": "453777c68910767dcee050c89d0505b2641aac22a55682e6eb1fd7d94eb2e5b5"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F02-PARTY-CC.json",
+            "bytes": 7988,
+            "sha256": "5d1dbda22945dbf7efe46712033199e9b59f2e344ec31417cbc612a54a17dc32"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F02-PARTY-TR.json",
+            "bytes": 7959,
+            "sha256": "fa48284a012ad5167fafcc98f95cb27cef85fd2f798b5248bc1fd0d4462f5aee"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F03-PARTY-CC.json",
+            "bytes": 7878,
+            "sha256": "1e6cfa134a981a3da23b9e705da6d47b5707aac541caac90372297d3c3ef3dcb"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F03-PARTY-TR.json",
+            "bytes": 7848,
+            "sha256": "cd47077f1ce6a4ebe431a4c3ac424ad4522426a5d1a4c8733dcfa5fd32e4342e"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F04-PARTY-CC.json",
+            "bytes": 7699,
+            "sha256": "4712ce8779c2698e0fe18c7fb293fcaf1e45486e0a9566f35bbb67f3ba14d0fe"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F04-PARTY-TR.json",
+            "bytes": 7710,
+            "sha256": "4c82af2af7c8140d0b9a0f36bcc39aa9ad6a693d6ea5ef9887a1013097a7b499"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F05-PARTY-CC.json",
+            "bytes": 7744,
+            "sha256": "3b7dd1c93e0970e5d300bc97fc56dd7e7d7b2a82db5841660cafc979cc93ff6e"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F05-PARTY-TR.json",
+            "bytes": 7684,
+            "sha256": "682876bc28ef354ee0e1d6b3a72ec3cf96ab5417965c4c1470ef2e9be81858b2"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F06-PARTY-CC.json",
+            "bytes": 7990,
+            "sha256": "77ad2578f15ec21a8508c7d60c610aee5e8b55d2efdc07e3c25b85d0fa18efa7"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F06-PARTY-TR.json",
+            "bytes": 7951,
+            "sha256": "e96db5f59cc04f9480acad76981718fc6a2013ac3d06a5c73603acf9c1c1def4"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F07-PARTY-CC.json",
+            "bytes": 7975,
+            "sha256": "d85edb365ffc743b3450dfc3d4226e29e7236047b5701fd58acfd086e05dc134"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F07-PARTY-TR.json",
+            "bytes": 7975,
+            "sha256": "3a7c565cc49559197a2cd6e5af61d63527292e9945b7aeff689ed76c328821f2"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F08-PARTY-CC.json",
+            "bytes": 8141,
+            "sha256": "391f56510cd0c8e558d947b0f5754c96f8c9bc40276702512f10723b0d3428d9"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F08-PARTY-TR.json",
+            "bytes": 8129,
+            "sha256": "97f831253bcbe00cdf31e5ab4bbe98d58dd979be7f1ad412acd5311289569239"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F09-PARTY-CC.json",
+            "bytes": 8087,
+            "sha256": "ffd2cf8cbaa886d84148395f1e10330025f9bdddeb58b51187097571868f791c"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F09-PARTY-TR.json",
+            "bytes": 7981,
+            "sha256": "3935975d1015d6bbcf3d22e78c99e6eff160b932119ca658e5699da42df711d0"
+          }
+        ],
+        "exact_source_boundary_preserved": true,
+        "evaluator_or_other_owner_response_exposure_before_this_seal": false,
+        "new_primary_slots": 0,
+        "external_behavioral_validation": false,
+        "canonical_git_writes": false
+      }
+    },
+    {
+      "original_identity": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/FIRST36_EXECUTION_SETTINGS_READSCOPE_AND_OUTPUT_MANIFEST.json",
+        "bytes": 14244,
+        "sha256": "e16af15b15323af6c35f0803b75fe64314fe0b32501068de915bc3f5ebf9d87c"
+      },
+      "complete_original_object": {
+        "created_utc": "2026-10-17T14:37:01.818317+00:00",
+        "state": "COMPLETE36_FIRST_RESPONSES_SEALED_BEFORE_EVALUATOR_EXCHANGE",
+        "generation": "V1",
+        "model_version": "MAIN_ONLY_R1",
+        "count": 36,
+        "actual_method": {
+          "declared_identity": "Codex based on GPT-6",
+          "exact_served_model_id": "UNKNOWN_UNAVAILABLE",
+          "served_build": "UNKNOWN_UNAVAILABLE",
+          "reasoning_effort": "UNKNOWN_UNAVAILABLE",
+          "temperature": "UNKNOWN_UNAVAILABLE",
+          "top_p": "UNKNOWN_UNAVAILABLE",
+          "seed": "UNKNOWN_UNAVAILABLE",
+          "inference_implementation": "UNKNOWN_UNAVAILABLE",
+          "execution_method": "Actual bounded assistant-authored simulation in the continuing model-author context, subsequently serialized by Python. No separate external API model run, independent stochastic sample, unfiltered sampling claim or human reviewer.",
+          "dates": "Observed record write dates are actual; per-response token sampling/start/end times are not separately observable and remain unknown."
+        },
+        "source_derivation_authority": "39b498f1852225424830b7daf6de59abedbb8c02 with explicitly accepted CR007/current D age/locator precision at root actual release",
+        "root_release": {
+          "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/ROOT_ACTUAL_NINETY_EXECUTION_RELEASE_AND_CR007_ACCEPTANCE.json",
+          "bytes": 7102,
+          "sha256": "d0cc0c205a9c7edf440deaf914d60a5f5b4708a35e7775fe62f1e0260c5379a7"
+        },
+        "safe_owner_pack": {
+          "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_INDEPENDENT.json",
+          "bytes": 148201,
+          "sha256": "7fcc86d74bd8932dc5cb4c2c1429948d7e6d9e38d8c3001559c8a61c5932163c"
+        },
+        "actual_complete_prompt_read_scope": {
+          "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ACTUAL_PROMPT_READ_SCOPE_SETTINGS_AND_INPUT_PINS.json",
+          "bytes": 6026,
+          "sha256": "cb7384dca4bc194fc52a83bccea3a12a2ceb5a6d57089eb7c0434400c6f68ffc"
+        },
+        "current_exact_models": {
+          "K": {
+            "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+            "bytes": 60135,
+            "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+          },
+          "T": {
+            "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+            "bytes": 49900,
+            "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+          },
+          "A": {
+            "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+            "bytes": 63022,
+            "sha256": "f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187"
+          },
+          "M": {
+            "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+            "bytes": 59422,
+            "sha256": "618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080"
+          },
+          "D": {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+            "bytes": 61217,
+            "sha256": "dc70739ab5613e70b6387421f324330735a0b79d1944100a3fd613f1cd2a310f"
+          },
+          "E": {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+            "bytes": 66517,
+            "sha256": "13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271"
+          }
+        },
+        "individual_record_identities": [
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F01-D-CC.json",
+            "bytes": 5670,
+            "sha256": "04df76dab369947c3afc2ecc8dc655f05710e506dc1b0afb93e9e6e26c48256f"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F01-D-TR.json",
+            "bytes": 5671,
+            "sha256": "5116d321bc35c3ac5e695a5c9d4a2100e8abbb6f8b4110c6c5056b0e51dfd913"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F02-D-CC.json",
+            "bytes": 5811,
+            "sha256": "f1b45a3c6a162ccab81a38df5a05628b6e317bb2b989fb1d2dee9f8874cee5a4"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F02-D-TR.json",
+            "bytes": 5802,
+            "sha256": "1493c9a9a7f44a2cdb53ff32656f13f195bc7677e98992bdf0b7a8385745bb88"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F03-D-CC.json",
+            "bytes": 5732,
+            "sha256": "88a827eed4a9f01705db445b35fd3c39e642609a59490444b0e08e094a68d587"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F03-D-TR.json",
+            "bytes": 5739,
+            "sha256": "aa6e42a91e7debb0dc7b12f8d67ee166f8721c3c8373d83f92048858bbc3bf66"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F04-D-CC.json",
+            "bytes": 5936,
+            "sha256": "88011a0f408b2195f6efe4fda54e2da4b1f5c2f9805009c94db0a754af3a25f1"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F04-D-TR.json",
+            "bytes": 5941,
+            "sha256": "057ed8d9615c336c5cafcdb8e072f21ede13e95b6e82f6ab29ecbef5fa748c00"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F05-D-CC.json",
+            "bytes": 6079,
+            "sha256": "7f89d735b1bf19a8daf910d78f7e8130a0ecae2345391f0f683fc19f4da290dd"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F05-D-TR.json",
+            "bytes": 6049,
+            "sha256": "afd3b1b059da4328cdc310c6a1bcd2b1825df590f9f8c07dfc31151292629610"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F06-D-CC.json",
+            "bytes": 5991,
+            "sha256": "919f4d422ae4a716e04141f0de36cf4cda31a7c24730fba6641036e3fc606f0f"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F06-D-TR.json",
+            "bytes": 5962,
+            "sha256": "1c7ca106858bea8553c2110683efa593da092aa7c272030f2e43f03c3010bcc6"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F07-D-CC.json",
+            "bytes": 5961,
+            "sha256": "5f07dfe1492a698c528b36e39659276fcdd3b3ecd0961887d0cf28198fde48a7"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F07-D-TR.json",
+            "bytes": 5970,
+            "sha256": "486293c454289eabe4c658ae448302c2df43fcb47494b2484ada3c6c4c952085"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F08-D-CC.json",
+            "bytes": 6026,
+            "sha256": "0b1ed808bde2dd42a48665be27756b615a2306fb002023ce0ada4d085b48be05"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F08-D-TR.json",
+            "bytes": 6021,
+            "sha256": "a097871893f5373250cc2d379ff23cde49bc7482eefd1f5b3df9aef7e4530d50"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F09-D-CC.json",
+            "bytes": 6065,
+            "sha256": "2e4c885f8316ac74308036179e87650fc199b3119e41c779d6565a45cb9adcec"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F09-D-TR.json",
+            "bytes": 6017,
+            "sha256": "8a7d7e85251f5ca9c98ebaae459e5e2db3a18e3664396836eddea95186ff9aab"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F01-PARTY-CC.json",
+            "bytes": 7724,
+            "sha256": "542ec36a2317b60a90c0bc66c6be8fef740ae10deec547c0a62acae2fae5c758"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F01-PARTY-TR.json",
+            "bytes": 7721,
+            "sha256": "453777c68910767dcee050c89d0505b2641aac22a55682e6eb1fd7d94eb2e5b5"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F02-PARTY-CC.json",
+            "bytes": 7988,
+            "sha256": "5d1dbda22945dbf7efe46712033199e9b59f2e344ec31417cbc612a54a17dc32"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F02-PARTY-TR.json",
+            "bytes": 7959,
+            "sha256": "fa48284a012ad5167fafcc98f95cb27cef85fd2f798b5248bc1fd0d4462f5aee"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F03-PARTY-CC.json",
+            "bytes": 7878,
+            "sha256": "1e6cfa134a981a3da23b9e705da6d47b5707aac541caac90372297d3c3ef3dcb"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F03-PARTY-TR.json",
+            "bytes": 7848,
+            "sha256": "cd47077f1ce6a4ebe431a4c3ac424ad4522426a5d1a4c8733dcfa5fd32e4342e"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F04-PARTY-CC.json",
+            "bytes": 7699,
+            "sha256": "4712ce8779c2698e0fe18c7fb293fcaf1e45486e0a9566f35bbb67f3ba14d0fe"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F04-PARTY-TR.json",
+            "bytes": 7710,
+            "sha256": "4c82af2af7c8140d0b9a0f36bcc39aa9ad6a693d6ea5ef9887a1013097a7b499"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F05-PARTY-CC.json",
+            "bytes": 7744,
+            "sha256": "3b7dd1c93e0970e5d300bc97fc56dd7e7d7b2a82db5841660cafc979cc93ff6e"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F05-PARTY-TR.json",
+            "bytes": 7684,
+            "sha256": "682876bc28ef354ee0e1d6b3a72ec3cf96ab5417965c4c1470ef2e9be81858b2"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F06-PARTY-CC.json",
+            "bytes": 7990,
+            "sha256": "77ad2578f15ec21a8508c7d60c610aee5e8b55d2efdc07e3c25b85d0fa18efa7"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F06-PARTY-TR.json",
+            "bytes": 7951,
+            "sha256": "e96db5f59cc04f9480acad76981718fc6a2013ac3d06a5c73603acf9c1c1def4"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F07-PARTY-CC.json",
+            "bytes": 7975,
+            "sha256": "d85edb365ffc743b3450dfc3d4226e29e7236047b5701fd58acfd086e05dc134"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F07-PARTY-TR.json",
+            "bytes": 7975,
+            "sha256": "3a7c565cc49559197a2cd6e5af61d63527292e9945b7aeff689ed76c328821f2"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F08-PARTY-CC.json",
+            "bytes": 8141,
+            "sha256": "391f56510cd0c8e558d947b0f5754c96f8c9bc40276702512f10723b0d3428d9"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F08-PARTY-TR.json",
+            "bytes": 8129,
+            "sha256": "97f831253bcbe00cdf31e5ab4bbe98d58dd979be7f1ad412acd5311289569239"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F09-PARTY-CC.json",
+            "bytes": 8087,
+            "sha256": "ffd2cf8cbaa886d84148395f1e10330025f9bdddeb58b51187097571868f791c"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/records/F09-PARTY-TR.json",
+            "bytes": 7981,
+            "sha256": "3935975d1015d6bbcf3d22e78c99e6eff160b932119ca658e5699da42df711d0"
+          }
+        ],
+        "combined_records": {
+          "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ALL36_FIRST_COMPLETE_RESPONSE_RECORDS.json",
+          "bytes": 264871,
+          "sha256": "ea1c93e54eadde9e4126723f4eed8d0d386daaf6393bbf4ca049aef392b7afb1"
+        },
+        "complete_readable_responses": {
+          "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ALL36_FIRST_COMPLETE_RESPONSES_FOR_FULL_RECEIVING.md",
+          "bytes": 100329,
+          "sha256": "c3fd659fe9c4c55630012e555ba012f929a7ba2ddef1c6bf758ae4a0d866756d"
+        },
+        "coverage_and_exact_render_proof": {
+          "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ALL36_ACTUAL_COVERAGE_INPUT_PIN_AND_RENDER_PROOF.json",
+          "bytes": 27082,
+          "sha256": "62bc4b0af2bf2349f43ce5f65a1794b24a7ef9def35ceae1f595fb0360c1ef64"
+        },
+        "actual_dates": {
+          "read_receipt_utc": "2026-10-17T14:27:34.410451+00:00",
+          "first_record_written_utc": "2026-10-17T14:29:34.053885+00:00",
+          "last_record_written_utc": "2026-10-17T14:35:44.745203+00:00",
+          "set_sealed_utc": "2026-10-17T14:37:01.818317+00:00",
+          "separate_sampling_start_end_times": "UNKNOWN_NOT_OBSERVABLE"
+        },
+        "disclosed_exposure": "All six models, shared accepted sources/protocol/sourceQA/model-only peer receiving and CR007 correction; exact safe owner prompts only for actual execution. No full binding/evaluator/adverse signatures/answer menus/hiddenfacts/other owner outputs or holdout findings accessed.",
+        "actual_new_primary_slots": 0,
+        "evaluator_classifications_written": 0,
+        "external_validation_results_written": 0,
+        "limits": "Assistant authoring of a bounded response is actual execution for this textual suite, not separately sampled API benchmarking. Pair wording can recur where supplied facts/choice remain the same; modes are not independent trials. First complete record files remain unchanged before feedback. Later correction/retest must be versioned and diagnostic.",
+        "all_holdout_expanded_excluded_images_closed": true,
+        "canonical_git_writes": false
+      }
+    },
+    {
+      "original_identity": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ACTUAL_PROMPT_READ_SCOPE_SETTINGS_AND_INPUT_PINS.json",
+        "bytes": 6026,
+        "sha256": "cb7384dca4bc194fc52a83bccea3a12a2ceb5a6d57089eb7c0434400c6f68ffc"
+      },
+      "complete_original_object": {
+        "recorded_utc_before_first_response_write": "2026-10-17T14:27:34.410451+00:00",
+        "state": "RELEASE_RECEIVED_ALL36_SAFE_OWNER_PROMPTS_ACTUALLY_READ_BEFORE_OUTPUTS",
+        "root_release": {
+          "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/ROOT_ACTUAL_NINETY_EXECUTION_RELEASE_AND_CR007_ACCEPTANCE.json",
+          "bytes": 7102,
+          "sha256": "d0cc0c205a9c7edf440deaf914d60a5f5b4708a35e7775fe62f1e0260c5379a7"
+        },
+        "safe_owner_pack": {
+          "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_INDEPENDENT.json",
+          "bytes": 148201,
+          "sha256": "7fcc86d74bd8932dc5cb4c2c1429948d7e6d9e38d8c3001559c8a61c5932163c"
+        },
+        "count": 36,
+        "full_instruction_mode_independent_start_and_relationship_baseline_actually_read": "First two full F01-D records included complete common instruction, both distinct mode_common values, independent_start and D relationship baseline. Common instruction/independent_start are exact in all36, mode_common one exact value per mode. These actual-read repeated strings are reused, not dropped without reading.",
+        "all_case_specific_fields_actually_displayed_and_read": [
+          {
+            "pack_positions_1_based": [
+              1,
+              9
+            ],
+            "IDs": [
+              "F01-D-CC",
+              "F01-D-TR",
+              "F02-D-CC",
+              "F02-D-TR",
+              "F03-D-CC",
+              "F03-D-TR",
+              "F04-D-CC",
+              "F04-D-TR",
+              "F05-D-CC"
+            ]
+          },
+          {
+            "pack_positions_1_based": [
+              10,
+              18
+            ],
+            "IDs": [
+              "F05-D-TR",
+              "F06-D-CC",
+              "F06-D-TR",
+              "F07-D-CC",
+              "F07-D-TR",
+              "F08-D-CC",
+              "F08-D-TR",
+              "F09-D-CC",
+              "F09-D-TR"
+            ]
+          },
+          {
+            "pack_positions_1_based": [
+              19,
+              27
+            ],
+            "IDs": [
+              "F01-PARTY-CC",
+              "F01-PARTY-TR",
+              "F02-PARTY-CC",
+              "F02-PARTY-TR",
+              "F03-PARTY-CC",
+              "F03-PARTY-TR",
+              "F04-PARTY-CC",
+              "F04-PARTY-TR",
+              "F05-PARTY-CC"
+            ]
+          },
+          {
+            "pack_positions_1_based": [
+              28,
+              36
+            ],
+            "IDs": [
+              "F05-PARTY-TR",
+              "F06-PARTY-CC",
+              "F06-PARTY-TR",
+              "F07-PARTY-CC",
+              "F07-PARTY-TR",
+              "F08-PARTY-CC",
+              "F08-PARTY-TR",
+              "F09-PARTY-CC",
+              "F09-PARTY-TR"
+            ]
+          }
+        ],
+        "every_mode_condition_relationship_known_fact_private_information_field_received": true,
+        "all36_core_hashes_recomputed_exact": true,
+        "current_exact_six_models_rehashed": {
+          "K": {
+            "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+            "bytes": 60135,
+            "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+          },
+          "T": {
+            "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+            "bytes": 49900,
+            "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+          },
+          "A": {
+            "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+            "bytes": 63022,
+            "sha256": "f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187"
+          },
+          "M": {
+            "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+            "bytes": 59422,
+            "sha256": "618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080"
+          },
+          "D": {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+            "bytes": 61217,
+            "sha256": "dc70739ab5613e70b6387421f324330735a0b79d1944100a3fd613f1cd2a310f"
+          },
+          "E": {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+            "bytes": 66517,
+            "sha256": "13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271"
+          }
+        },
+        "generation_version_alias_clarification_received": {
+          "project_reconstruction_generation": "V1",
+          "reconstruction_model_version": "MAIN_ONLY_R1",
+          "historical_prose_alias": "Some quoted root prose uses model_generation MAIN_ONLY_R1 as an alias. It does not rename project generation V1, create Gen06 or imply project V2. Exact baseline bytes are preserved."
+        },
+        "runtime": {
+          "declared_identity": "Codex based on GPT-6",
+          "exact_served_model_id": "UNKNOWN_UNAVAILABLE",
+          "served_build": "UNKNOWN_UNAVAILABLE",
+          "reasoning_effort": "UNKNOWN_UNAVAILABLE",
+          "temperature": "UNKNOWN_UNAVAILABLE",
+          "top_p": "UNKNOWN_UNAVAILABLE",
+          "seed": "UNKNOWN_UNAVAILABLE",
+          "inference_implementation": "UNKNOWN_UNAVAILABLE",
+          "execution_method": "Actual bounded assistant-authored simulation in the continuing model-author context, subsequently serialized by Python. No separate external API model run, independent stochastic sample, unfiltered sampling claim or human reviewer.",
+          "dates": "Observed record write dates are actual; per-response token sampling/start/end times are not separately observable and remain unknown."
+        },
+        "scope": "All six current models known through earlier full actual reading/authorship + exact successors. No primary narrative read during execution task. No evaluator bank, full bindings, adverse signatures, answer menus, hidden facts, other owner pack semantics or other owner responses opened. Earlier disclosed source/model QA and age repair retained.",
+        "source_state": "Independent post-MAIN17 hypothetical cases, no invented aging/settled romance. Each case and mode starts independently; no prior-case learning or consequence transfer is adopted.",
+        "new_source_primary_slots": 0,
+        "response_outputs_at_this_receipt": 0,
+        "holdout_expanded_excluded_images": "CLOSED",
+        "canonical_git_writes": false
+      }
+    }
+  ]
+}

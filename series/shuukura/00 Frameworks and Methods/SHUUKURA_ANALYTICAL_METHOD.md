@@ -5,14 +5,14 @@ artifact_type: analytical_method
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Prospective Japanese reading, evidence admission and interpretive revision"
-source_boundary: "Bootstrap metadata and architecture only; zero V2 narrative units admitted or read"
+source_boundary: "Governing method for frozen inventory SHUUKURA-V2-20261017-I1; no literary findings in this artifact"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_ANALYTICAL_METHOD.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: OWNER_BOOTSTRAP_REVIEW_PENDING
+review_status: OWNER_ADOPTED_FOR_AUTHORIZED_V2_EXECUTION
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -23,11 +23,11 @@ do_not_use_as_literary_evidence: true
 
 ## Authority, purpose and independence
 
-This INITIAL V2 method is an owner-reviewable proposal at the continuing Shuukura root. It governs how evidence will be read, while the [synthesis architecture](SHUUKURA_SYNTHESIS_ARCHITECTURE.md) governs its cumulative destinations. The [current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns operational authorization. Current-eligible provisional metadata describes the proposed governing documents; it does not mean the owner has accepted the foundation or admitted narrative evidence. The sequential lock remains CLOSED.
+This INITIAL V2 method is an owner-reviewable proposal at the continuing Shuukura root. It governs how evidence will be read, while the [synthesis architecture](SHUUKURA_SYNTHESIS_ARCHITECTURE.md) governs its cumulative destinations. The [current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns operational authorization. Current-eligible provisional metadata alone does not establish owner acceptance or source admission. The later owner instruction adopts the reviewed architecture and authorizes continuous execution. The current entrypoint and frozen run inventory own the resulting OPEN state; the bootstrap was CLOSED.
 
 Read the Japanese published novels as relationship-centered literary fiction. Investigate how specific people perceive, desire, act, speak, misjudge and change. Moral evaluation, genre expectations, diagnostic labels and a presumed destination for the central relationship cannot replace that investigation. Neither novelty relative to V1 nor agreement with V1 is a criterion of improvement.
 
-V1 is historical intellectual provenance, not primary evidence and not an expected-answer key. Bootstrap inspected its paths, administrative metadata, README, manifest and export-warning lines, not its substantive conclusions. Later independent sequential sessions must not load V1 readings, claim extracts or the transcript. Incidental publisher blurbs, web metadata and navigation headings seen during reconnaissance are an exposure limitation: they are not V2 findings. Begin the first reading in a fresh context supplied with this architecture and a spoiler-minimized admission packet, not the reconnaissance session's conversation. Record any actual prior familiarity; do not promise psychological blankness.
+V1 is historical intellectual provenance, not primary evidence and not an expected-answer key. Bootstrap inspected its paths, administrative metadata, README, manifest and export-warning lines, not its substantive conclusions. Later independent sequential sessions must not load V1 readings, claim extracts or the transcript. Incidental publisher blurbs, web metadata and navigation headings seen during reconnaissance are an exposure limitation: they are not V2 findings. Begin each reading phase from a verified source-only admission packet. Prefer a fresh context; when the execution surface cannot create one without an additional agent or user turn, record the actual reconnaissance exposure and keep it outside the evidence and character-knowledge states. A context reset does not erase prior exposure. Do not load V1 interpretations, and classify any forecast whose outcome was exposed by metadata or promotion as contaminated rather than held out. Record actual prior familiarity; do not promise psychological blankness.
 
 ## Source precedence and admission
 
@@ -104,3 +104,5 @@ A completed reading must cover every admitted narrative component, identify skip
 Illustrations require direct image inspection if used for a visual claim. Text extraction does not inspect image content. Voice dramas require a separately admitted script/audio witness; a transcript supports lexical claims, while prosody requires actual audio inspection. Continuous AV is not required for an LN-only interpretation merely because promotional videos exist. No capability is certified by the ability to download or decode a file. Record only channels actually inspected.
 
 Amend the method when recurring source behavior exposes a real gap. State the evidence, affected responsibilities and targeted backfill, preserving existing freezes and IDs. The architecture owns amendment and synthesis gates. This bootstrap performs no narrative reading and certifies no finished model.
+
+Revision 0.2: owner adoption and exposure-controlled admission. The original fresh-context prescription could not itself certify independence and offered no recovery route on this single-agent execution surface. The source-only packet and explicit exposure audit preserve the substantive prospective boundary without claiming an uncreated session or waiving V1 quarantine. Exact acquired-witness admission is not a retail-binary equivalence certificate; the source inventory records the evidence and limits. No narrative claim is introduced by this amendment.

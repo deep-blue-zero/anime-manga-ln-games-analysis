@@ -1,0 +1,1987 @@
+{
+  "schema": "konosuba/private-fixed-reconstruction-case-bank/v1",
+  "created_utc": "2026-10-17T13:19:24.448444+00:00",
+  "common": {
+    "stage": "FIXED_PRIVATE_PRE_MODEL_CASE_PREPARATION_ONLY",
+    "generation_instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+    "canonical_mode_common": "Hypothetical new situation compatible with the admitted main world, not an assertion of a missing canonical event. Use actual source-supported capabilities and actual current readiness/consent/limits, modified by explicit case conditions. Comic display can amplify expression but does not erase named injuries, ownership, deadlines or agency.",
+    "transfer_mode_common": "Same person-level goals, relationships, appraisals and memory of the admitted main history, explicitly informed that the local world has no usable magic, resurrection, supernatural luck, class buffs or comic injury immunity. Their unfamiliarity is retained. Do not grant equivalent real-world professional expertise by analogy. Case-specific ordinary tools replace means transparently; motives and stakes are not deleted to make behavior polite or bland.",
+    "state_common": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+    "response_visibility": "The executable prompt contains subject/shared available information plus explicitly owner-labelled private information for party scenes. A generator may portray that owner’s appraisal but must not give it to another character without disclosure. Evaluator-hidden facts, diagnostics, alternatives and rubric never enter generation prompts.",
+    "release_rule": "Keep actual prompts and evaluator bank sealed from root, producer and independent model authors until all relevant initial model arguments are sealed. Do not evaluate responses before published specialist gate closure, fresh authority reload, initial model receipt and explicit execution release. No model authorship is authorized by this preparatory bank."
+  },
+  "families": [
+    {
+      "id": "F01",
+      "name": "Mundane inconvenience",
+      "individual_cases": 4,
+      "individual_executions": 8,
+      "party_cases": 1,
+      "party_executions": 2
+    },
+    {
+      "id": "F02",
+      "name": "Resource conflict",
+      "individual_cases": 4,
+      "individual_executions": 8,
+      "party_cases": 1,
+      "party_executions": 2
+    },
+    {
+      "id": "F03",
+      "name": "Social novelty",
+      "individual_cases": 4,
+      "individual_executions": 8,
+      "party_cases": 1,
+      "party_executions": 2
+    },
+    {
+      "id": "F04",
+      "name": "Public embarrassment",
+      "individual_cases": 4,
+      "individual_executions": 8,
+      "party_cases": 1,
+      "party_executions": 2
+    },
+    {
+      "id": "F05",
+      "name": "Moral pressure",
+      "individual_cases": 4,
+      "individual_executions": 8,
+      "party_cases": 1,
+      "party_executions": 2
+    },
+    {
+      "id": "F06",
+      "name": "Fear and danger",
+      "individual_cases": 4,
+      "individual_executions": 8,
+      "party_cases": 1,
+      "party_executions": 2
+    },
+    {
+      "id": "F07",
+      "name": "Competence-domain shift",
+      "individual_cases": 4,
+      "individual_executions": 8,
+      "party_cases": 1,
+      "party_executions": 2
+    },
+    {
+      "id": "F08",
+      "name": "Relationship conflict",
+      "individual_cases": 4,
+      "individual_executions": 8,
+      "party_cases": 1,
+      "party_executions": 2
+    },
+    {
+      "id": "F09",
+      "name": "Cross-universe novelty",
+      "individual_cases": 4,
+      "individual_executions": 8,
+      "party_cases": 1,
+      "party_executions": 2
+    }
+  ],
+  "individual_cases": [
+    {
+      "case_id": "F01-K",
+      "family": "F01",
+      "subject": "Kazuma",
+      "title": "The two receipt queues",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Megumin"
+        ],
+        "current_state": "He is comfortable, hungry and carrying no urgent duty. Megumin has promised to be home before the cook closes the kitchen in forty minutes."
+      },
+      "setting": "Kazuma is collecting a repaired household latch with Megumin. The shop has a seated queue and a standing express queue.",
+      "stakes": "He is comfortable, hungry and carrying no urgent duty. Megumin has promised to be home before the cook closes the kitchen in forty minutes.",
+      "subject_available_information": [
+        "The seated queue is estimated at thirty minutes; express is ten minutes but costs two of his six errand tokens.",
+        "A clerk will hold the repaired latch until tomorrow without fee.",
+        "Megumin says she can wait or return tomorrow, and asks which queue he wants; she does not threaten or flatter him.",
+        "The group has food at home. Missing this cook means making their own meal, not hunger or injury."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The seated queue actually clears in eighteen minutes; neither character can know that now.",
+        "The clerk is not testing their honesty or trying to charge a secret fine."
+      ],
+      "canonical_comic_conditions": [
+        "An ordinary Axel craft shop; no shown skill can skip its permission-based collection process. Both queues remain real.",
+        "A comic display is allowed but damage/theft would create an actual liability."
+      ],
+      "transfer_conditions": [
+        "A contemporary repair counter; no magic, luck control or immunity from ordinary shop rules.",
+        "The characters understand the six-token choice and have no unfamiliar device to operate."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the decision distinguish comfort now, small expense and an optional shared convenience?",
+        "Does spoken impatience, deference or joking have an identifiable addressee and purpose rather than compulsory sarcasm?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Wait, pay, defer, ask for a cheaper arrangement or propose division of the errand can all be considered if the time/cost is acknowledged.",
+        "A refusal to manage the choice is not automatically inconsistent, but the explanation must account for voluntarily taking this ordinary errand."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If the promised return became a medicine deadline, the same queue preference would no longer carry the same stakes."
+    },
+    {
+      "case_id": "F01-A",
+      "family": "F01",
+      "subject": "Aqua",
+      "title": "The drying rack",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Darkness"
+        ],
+        "current_state": "Aqua has been enjoying a conversation; Darkness is due at a routine meeting in twenty minutes. No garment is expensive or irreplaceable."
+      },
+      "setting": "Aqua and Darkness are putting away clothes after a shared wash when a rack leg slips and three clean towels touch a dusty floor.",
+      "stakes": "Aqua has been enjoying a conversation; Darkness is due at a routine meeting in twenty minutes. No garment is expensive or irreplaceable.",
+      "subject_available_information": [
+        "Aqua did not break the leg; it was visibly loose before she arrived.",
+        "Three towels need an extra rinse, which takes ten minutes. All other clothes are usable.",
+        "Darkness asks whether Aqua can finish the towels while she leaves; she offers to take the next wash in exchange.",
+        "No one has accused Aqua of incompetence or promised applause."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The replacement leg is already on its way and will arrive after both leave; no one in this scene knows that."
+      ],
+      "canonical_comic_conditions": [
+        "Aqua can use demonstrated water control and ordinary craft, with whatever limits the sealed model states; neither implies automatic cleaning without effort.",
+        "An exaggerated complaint has ordinary repair consequences, not a free reset."
+      ],
+      "transfer_conditions": [
+        "No divine power or instant drying. A tap, clean basin and hand crank are available with plainly written instructions.",
+        "The task is feasible without special training; a ten-minute estimate includes drying enough to hang."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Are responsibility, reciprocity, social enjoyment and effort separated rather than collapsed into laziness or ideal service?",
+        "Can a practical act coexist with non-directive speech without being marked inconsistent merely because it violates the failed broad language tendency?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Complete, bargain, ask for help, postpone with warning or decline can each be examined against the stated exchange.",
+        "No imperative, goddess title or apology is required as a surface marker of care."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If Darkness falsely blamed Aqua in public, status and fairness information would change while the physical task stayed the same."
+    },
+    {
+      "case_id": "F01-M",
+      "family": "F01",
+      "subject": "Megumin",
+      "title": "The sign with drying ink",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma"
+        ],
+        "current_state": "She has an hour reserved for an optional practice outing with Kazuma; finishing now would use fifteen of those minutes."
+      },
+      "setting": "Megumin is making a small household notice with Yunyun in a borrowed room. The ink remains tacky longer than advertised.",
+      "stakes": "She has an hour reserved for an optional practice outing with Kazuma; finishing now would use fifteen of those minutes.",
+      "subject_available_information": [
+        "The sign is mundane room-use information, not an Explosion proclamation or a public test of artistic status.",
+        "A timer shows it needs fifteen more minutes. Carrying it wet would smear a name and require rewriting.",
+        "Yunyun can stay to guard it but says she had planned to eat with her.",
+        "A plain substitute sign can be made in five minutes and works equally well, without the decorative lettering."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The decorative lettering would be admired by one later visitor, but nobody has mentioned or promised that now."
+      ],
+      "canonical_comic_conditions": [
+        "No safe spell can dry this particular ink without risking the borrowed table, according to the owner’s visible warning.",
+        "The practice is optional and can be shorter; no mandatory attack is waiting."
+      ],
+      "transfer_conditions": [
+        "Ordinary ink and a borrowed table in a community studio; no spells. Her aesthetic investment and shared plan remain.",
+        "The available fan is broken and cannot be repaired with known tools during the interval."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does a decision account for decoration, optional practice and Yunyun’s time without inventing a spell-legitimacy challenge?",
+        "Does ordinary polite or competitive speech fit the actual audience rather than defaulting to an incantation?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Wait, use the plain sign, divide responsibilities or renegotiate the outing are permissible paths if costs remain visible.",
+        "Selecting beauty over efficiency can be coherent; selecting efficiency does not require loss of specialist identity."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A public insult about Explosion would be a different trigger, not a hidden meaning of slow ink."
+    },
+    {
+      "case_id": "F01-D",
+      "family": "F01",
+      "subject": "Darkness",
+      "title": "The cracked teapot lid",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Aqua"
+        ],
+        "current_state": "She wants to host well. Aqua is already seated, and the guest is a familiar clerk rather than a royal inspector."
+      },
+      "setting": "Darkness is preparing tea for Aqua and an expected guest when she discovers a hairline crack in the pot’s lid.",
+      "stakes": "She wants to host well. Aqua is already seated, and the guest is a familiar clerk rather than a royal inspector.",
+      "subject_available_information": [
+        "The pot does not leak, but the lid can shed a sharp fragment if used.",
+        "An ordinary metal pot is safe and immediately available; it looks less elegant.",
+        "Aqua asks whether she should bring the metal pot, without teasing Darkness’s domestic competence.",
+        "The visit is social and can start five minutes late. Nobody’s health or job depends on the presentation."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The guest prefers plain tea and will not inspect the crockery, but this preference is not known to Darkness."
+      ],
+      "canonical_comic_conditions": [
+        "Ordinary tea service; known magic does not establish repair of this particular ceramic safely.",
+        "Physical breakage remains a real household cost."
+      ],
+      "transfer_conditions": [
+        "No magical repair or extraordinary durability. The crack and the safe replacement have the same properties.",
+        "No noble legal privileges can compel a shop to supply a replacement before the visit."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the account distinguish presentation, useful hosting and avoidable bodily risk?",
+        "Can she make an ordinary request or admission without a noble monologue or sexualization of the inconvenience?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Use the replacement, explain a delay, delegate or choose a different drink can all be coherent.",
+        "Avoiding an elegant object is not automatically cowardice or proof she cannot host."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A gathering explicitly judging her household competence would change the audience stakes, not the crack’s safety."
+    },
+    {
+      "case_id": "F02-K",
+      "family": "F02",
+      "subject": "Kazuma",
+      "title": "A bonus with a repair claim",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Aqua",
+          "Darkness"
+        ],
+        "current_state": "He had planned to spend eight on a private game item. Darkness is present but has not volunteered to fund either expense."
+      },
+      "setting": "A small delivery job pays Kazuma twelve tokens. Aqua says the shared basket broke during the delivery and asks for four to replace it.",
+      "stakes": "He had planned to spend eight on a private game item. Darkness is present but has not volunteered to fund either expense.",
+      "subject_available_information": [
+        "The basket belongs jointly to the household and the delivery used it with consent.",
+        "Kazuma saw the handle already fraying; Aqua carried it normally.",
+        "A new basket costs four, a repair costs two and lasts at least a month.",
+        "The game item is available for a week; neither price nor availability will change today."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The delivery client might offer another job next week; no promise has been made."
+      ],
+      "canonical_comic_conditions": [
+        "Tokens are an agreed small Eris-equivalent budget; no commercial windfall or infinite payout can be invented.",
+        "Negotiation does not erase joint ownership or transfer costs by narrator fiat."
+      ],
+      "transfer_conditions": [
+        "A small real-world cash bonus; same twelve/four/two/eight arithmetic, no magic or supernatural bargaining leverage."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the explanation preserve his private reward, shared maintenance and actual prior condition rather than forcing pure generosity or automatic blame?",
+        "Does any fairness rhetoric match what was authorized and known?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Repair, replace, split the cost, negotiate later contribution or contest allocation with reasons are all open.",
+        "Self-serving bargaining can be consistent without being called morally fair by the evaluator."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If Aqua had deliberately cut the handle after a warning, attribution and leverage would change; this case does not supply that fact."
+    },
+    {
+      "case_id": "F02-A",
+      "family": "F02",
+      "subject": "Aqua",
+      "title": "The last commemorative cup",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma"
+        ],
+        "current_state": "She likes the cup and its maker’s craftsmanship. Kazuma is collecting the supper money now, privately rather than before a crowd."
+      },
+      "setting": "Aqua has ten personal tokens at a small craft fair. A unique hand-painted cup costs eight; an agreed shared supper contribution costs four.",
+      "stakes": "She likes the cup and its maker’s craftsmanship. Kazuma is collecting the supper money now, privately rather than before a crowd.",
+      "subject_available_information": [
+        "She previously agreed to contribute four and remembers that agreement.",
+        "No one has already paid for her, and a cheaper ordinary cup costs two.",
+        "The handmade cup will not be held without a two-token deposit; the balance can be paid next week without interest.",
+        "The maker compliments her eye for painting but does not call her divine or offer a public performance."
+      ],
+      "evaluator_only_hidden_facts": [
+        "There is no hidden collector market; buying the cup does not establish an investment."
+      ],
+      "canonical_comic_conditions": [
+        "Ordinary fair purchase; party tricks could earn money only with a new consented opportunity, not an assumed offscreen customer."
+      ],
+      "transfer_conditions": [
+        "A real craft fair; her appreciation of art remains, no miraculous duplication or free credit."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Are desire, actual commitment and a feasible delayed purchase all represented?",
+        "Does her wording address Kazuma and the maker differently without inventing a universal money-over-art preference?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Buy on deposit, postpone, request a loan, renegotiate supper or abandon the cup can be considered.",
+        "Taking a selfish option can be causally argued; the known contribution must not silently vanish."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A threatened sacred resource rather than a cup would change the value at stake; this is an ordinary object."
+    },
+    {
+      "case_id": "F02-M",
+      "family": "F02",
+      "subject": "Megumin",
+      "title": "A shared travel purse",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Darkness"
+        ],
+        "current_state": "Megumin wants the clasp. Darkness has a recently sore ankle, not a life-threatening injury. Neither has consented to use joint funds for a personal purchase."
+      },
+      "setting": "Megumin and Darkness have sixteen jointly entrusted tokens for an upcoming day trip. A striking cloak clasp costs six; an easier return route costs four more than the difficult one.",
+      "stakes": "Megumin wants the clasp. Darkness has a recently sore ankle, not a life-threatening injury. Neither has consented to use joint funds for a personal purchase.",
+      "subject_available_information": [
+        "Food and the basic route cost ten together.",
+        "Buying the clasp leaves exactly the basic route, with no spare fund.",
+        "The easier route avoids a long uneven walk and would let Darkness rest.",
+        "Megumin has two private tokens and may ask the seller to reserve the clasp with them; reservation is explicitly available."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The clasp has no magical or skill effect despite its appearance."
+      ],
+      "canonical_comic_conditions": [
+        "The ankle can be healed only if an actual willing provider and resources are arranged; none is currently present. No unseen free cure."
+      ],
+      "transfer_conditions": [
+        "An ordinary trip with no magic. A licensed clinic is available tomorrow, not during this purchasing decision."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the choice preserve ownership, aesthetic desire and companion comfort without treating discomfort as grave-harm proof?",
+        "Can a proposed arrangement differ from a performed purchase in both action and explanation?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Reserve personally, change the route, seek consent, postpone or argue for the basic plan are all possible.",
+        "A decorative preference is not automatically irrational; spending joint money still requires its actual agency to be described."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If the clasp were necessary protection rather than decorative, the convenience-versus-identity tradeoff would be different."
+    },
+    {
+      "case_id": "F02-D",
+      "family": "F02",
+      "subject": "Darkness",
+      "title": "An offered discount and a wage",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Megumin"
+        ],
+        "current_state": "She can pay the full twelve from her discretionary purse, but had reserved six for a personal gift."
+      },
+      "setting": "Darkness is settling a small repair contract with a worker while Megumin waits. The worker offers a six-token discount if payment is made next month.",
+      "stakes": "She can pay the full twelve from her discretionary purse, but had reserved six for a personal gift.",
+      "subject_available_information": [
+        "The worker explicitly says either schedule is permitted by the contract.",
+        "An apprentice quietly says this month’s wages are normally paid from today’s receipts; the worker confirms the statement when asked.",
+        "No legal penalty applies to the deferred option.",
+        "Darkness can pay six now and six next month if she asks; no one has offered that option automatically."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The worker hopes for future noble referrals but has not asked, and the apprentice is telling the truth."
+      ],
+      "canonical_comic_conditions": [
+        "Her status does not automatically authorize altering another person’s pay. Ordinary wealth limits are exactly those stated."
+      ],
+      "transfer_conditions": [
+        "A real repair business; no supernatural wealth or noble coercive power. Personal status can affect deference but not contract arithmetic."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does lawful permission get distinguished from known practical effect on another person?",
+        "Does her voice track business responsibility, embarrassment or the personal gift rather than assuming every expenditure is heroic sacrifice?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Pay now, ask for installments, accept the offer with explanation or renegotiate scope are open paths.",
+        "The evaluator separates a morally troubling choice from an unexplained or factually impossible one."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If wages were already guaranteed by a separate reserve, the known harm claim would be absent; do not invent it away here."
+    },
+    {
+      "case_id": "F03-K",
+      "family": "F03",
+      "subject": "Kazuma",
+      "title": "The modest admirer",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Megumin"
+        ],
+        "current_state": "The courier is polite and impressed but does not ask for an adventure or romantic favor. Kazuma has half an hour free."
+      },
+      "setting": "A new adult courier asks Kazuma how to organize a delivery route, calling his previous small delivery efficient. Megumin is present.",
+      "stakes": "The courier is polite and impressed but does not ask for an adventure or romantic favor. Kazuma has half an hour free.",
+      "subject_available_information": [
+        "The printed map has these walking times: start→A five minutes, A→B six, B→C eight, start→B twelve, A→C fifteen. Each handover takes two minutes. Deadlines from now are A fifteen, B twenty-five and C forty minutes.",
+        "The map marks a possible B→C alley shortcut as three minutes with a question mark. The courier has not verified whether it is open; a clerk nearby can answer.",
+        "Helping earns no promised pay; taking over the route is not requested.",
+        "The courier’s admiration refers to a real observed ordinary task, not a heroic story."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The courier is sincere, has no secret romantic interest and will accept a brief explanation; Kazuma cannot know all that with certainty.",
+        "The shortcut is currently closed. Its true state is not character knowledge before inquiry."
+      ],
+      "canonical_comic_conditions": [
+        "A mundane Axel route with ordinary skill options; no guarantee his intuition resolves the unknown alley without inquiry."
+      ],
+      "transfer_conditions": [
+        "A pedestrian route in an unfamiliar but plainly mapped district; no GPS expertise or professional logistics credentials are assumed."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does genuine recognition alter attention or effort without dictating whether he must boast or expand the job?",
+        "Can an uncertainty about the alley remain an uncertainty rather than becoming a fabricated success?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Brief advice, detailed help, referral, refusal or a proposed compensated arrangement can be causally defensible.",
+        "Admiration need not be secretly false for vanity or suspicion to operate."
+      ],
+      "nearest_contrast_not_an_extra_execution": "Flattery contradicted by visible mistakes would provide different credibility information; that is not this case."
+    },
+    {
+      "case_id": "F03-A",
+      "family": "F03",
+      "subject": "Aqua",
+      "title": "A craftsperson who disagrees",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Darkness"
+        ],
+        "current_state": "Aqua has real craft experience; the visitor does not know her divine identity. There is no audience prize."
+      },
+      "setting": "A visiting mosaic worker sees Aqua repair a simple frame and praises the joints. The worker then says one blue tile looks poorly placed. Darkness hears the exchange.",
+      "stakes": "Aqua has real craft experience; the visitor does not know her divine identity. There is no audience prize.",
+      "subject_available_information": [
+        "The criticized tile can be repositioned in two minutes, but the existing arrangement is structurally safe.",
+        "The visitor explains a purely visual preference rather than challenging her sacred capacity.",
+        "Darkness likes the original color balance and says so without mocking the visitor.",
+        "The worker offers to demonstrate their technique if Aqua wants."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The visitor is competent and sincere but does not have a universally correct aesthetic judgment."
+      ],
+      "canonical_comic_conditions": [
+        "Ordinary craft discussion; goddess identity may be claimed but does not settle a color preference."
+      ],
+      "transfer_conditions": [
+        "Same craft conversation in a public studio without magic. Her practical experience is retained; no automatic art-school credential."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does criticism of taste remain distinct from denial of divinity or failure of service?",
+        "Does speech preserve her ability to teach, defend, ask or dismiss without making a title the only possible voice?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Accept, defend, compare techniques, ask for explanation or decline the demonstration are all open.",
+        "A proud answer is not automatically loss of practical control, nor agreement automatically self-abasement."
+      ],
+      "nearest_contrast_not_an_extra_execution": "An insult denying a demonstrated sacred act would change the challenged category; do not import that subtype here."
+    },
+    {
+      "case_id": "F03-M",
+      "family": "F03",
+      "subject": "Megumin",
+      "title": "The quiet specialist visitor",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [],
+        "current_state": "The visitor is restrained, speaks without theatrical introductions and has a real interest in accurate range."
+      },
+      "setting": "An unfamiliar young adult surveyor asks Megumin about estimating distance for a marked outdoor demonstration. Yunyun is present.",
+      "stakes": "The visitor is restrained, speaks without theatrical introductions and has a real interest in accurate range.",
+      "subject_available_information": [
+        "The visitor says they admire the precise placement, while preferring several smaller effects for their own work.",
+        "They do not call Explosion illegitimate or ask Megumin to rebuild.",
+        "The chart is a six-by-six grid, one square to ten paces. A proposed thirty-pace exclusion margin is marked, with a visible warning that staff have not yet certified this particular demonstration. No spectators are presently in place.",
+        "The demonstration can be postponed; no enemy or reward race is present."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The visitor will not ridicule her if she asks a question, but that intention is not directly available."
+      ],
+      "canonical_comic_conditions": [
+        "Megumin has her demonstrated magical specialist knowledge; safe demonstration still needs the stated boundary and recovery conditions, not mere confidence."
+      ],
+      "transfer_conditions": [
+        "This is a non-destructive scale-model display of energy effects, with readable controls and no prior electronics expertise assumed. Her investment in dramatic precision remains."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does she distinguish professional difference, praise and direct identity denigration?",
+        "Can ordinary technical speech and theatrical self-positioning both be plausible depending on the model’s stated purpose?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Explain, compare, ask about the chart, refuse the setup or suggest revision may all fit.",
+        "No required contest, chant or abandonment of identity is specified."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A visitor demanding she replace Explosion as worthless would create a materially different challenge, not a stronger version of this polite difference."
+    },
+    {
+      "case_id": "F03-D",
+      "family": "F03",
+      "subject": "Darkness",
+      "title": "An inexperienced guard asks",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma"
+        ],
+        "current_state": "The guard is deferential and nervous. Darkness is off duty, but the inquiry is genuine and concerns ordinary public safety."
+      },
+      "setting": "A newly hired adult guard recognizes Darkness’s family name and asks for advice on standing between a crowd and a narrow exit. Kazuma is nearby.",
+      "stakes": "The guard is deferential and nervous. Darkness is off duty, but the inquiry is genuine and concerns ordinary public safety.",
+      "subject_available_information": [
+        "A plan of the exit is available; an official supervisor will approve any final arrangement.",
+        "No crowd is currently present or in danger.",
+        "The guard asks for one practical suggestion, not a demonstration of endurance.",
+        "Kazuma says he will wait ten minutes and does not tease her name."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The guard’s deference is sincere rather than an attempt to force her into unpaid command."
+      ],
+      "canonical_comic_conditions": [
+        "Her actual protective experience may inform advice, but she does not acquire expert fire-code knowledge or unbounded official authority."
+      ],
+      "transfer_conditions": [
+        "A realistic venue, no armor invulnerability or noble executive power; local safety regulations must be checked with the supervisor."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does a protective role get adopted independently of elevated vocabulary?",
+        "Does acknowledgement of knowledge limits coexist with useful practical contribution, rather than global incompetence or total command?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Offer advice, ask clarifying questions, refer to the supervisor, accompany an inspection or decline while identifying a resource are permitted paths.",
+        "A noble introduction or a terse answer is not independently scored as competence."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A real crowd pressing on the exit would create urgency and bodily risk absent from this consultation."
+    },
+    {
+      "case_id": "F04-K",
+      "family": "F04",
+      "subject": "Kazuma",
+      "title": "A quotation without its ending",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Darkness"
+        ],
+        "current_state": "Six acquaintances laugh; he sees both the social opening and the missing qualification. No job or legal charge is at stake."
+      },
+      "setting": "At a small guild notice-reading, a clerk quotes Kazuma saying he wanted the easiest job. Darkness knows he also said he would take a difficult necessary part if no one else could.",
+      "stakes": "Six acquaintances laugh; he sees both the social opening and the missing qualification. No job or legal charge is at stake.",
+      "subject_available_information": [
+        "The clerk accidentally omitted the second line and offers him the floor.",
+        "Darkness does not correct it for him and asks quietly whether he wants her to read the full note.",
+        "The full written note is in his pocket.",
+        "The first clause really was his; denying ever saying it would contradict the supplied fact."
+      ],
+      "evaluator_only_hidden_facts": [
+        "One listener would respect an admission more than a denial; the model cannot know that specific reaction."
+      ],
+      "canonical_comic_conditions": [
+        "A comic guild audience; social overstatement is possible, but mind control or a conveniently ringing truth device is not available."
+      ],
+      "transfer_conditions": [
+        "A work-club notice reading with ordinary reputation effects, no magic or broad legal immunity."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the response distinguish a true clause from its misleading pragmatic frame?",
+        "Does self-exoneration retain the actual wording and audience rather than manufacturing a flawless past motive?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Read the full note, joke, ask Darkness, concede the clause, stay silent or challenge its use can all be argued.",
+        "An unfair or evasive response may still be character-consistent if its actual cost is acknowledged."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If the omitted clause had never existed, the evidential basis for correction would differ even if the audience were identical."
+    },
+    {
+      "case_id": "F04-A",
+      "family": "F04",
+      "subject": "Aqua",
+      "title": "The incorrectly credited mural",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Megumin"
+        ],
+        "current_state": "The work is actually hers; several spectators are reading the card. She has not been asked to perform another service."
+      },
+      "setting": "A public card thanks an unnamed assistant for Aqua’s repaired mural and credits a local official as its maker. Megumin stands beside her.",
+      "stakes": "The work is actually hers; several spectators are reading the card. She has not been asked to perform another service.",
+      "subject_available_information": [
+        "A sketch with her signature is available in her bag.",
+        "The official is absent and the printer says the draft card can be corrected immediately.",
+        "Megumin quietly asks whether she wants the card corrected or wants to say something herself.",
+        "No one has accused her of lying, and claiming divine identity would not itself demonstrate authorship."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The omission came from a clerical mistake, not a conspiracy or official theft. Aqua has not yet heard that explanation."
+      ],
+      "canonical_comic_conditions": [
+        "Actual craft and signature are valid evidence; a goddess proclamation cannot magically replace a missing historical record."
+      ],
+      "transfer_conditions": [
+        "A community art event with no divine powers. Same authorship, signature, audience and immediately correctable card."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the account preserve functional evidence of authorship versus status demand?",
+        "Can protest, pride, practical correction and personal gratitude coexist without a predetermined speech-function result?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Show the sketch, demand correction, make a public statement, ask Megumin to help, accept a quiet fix or withdraw are possible.",
+        "Neither maximal display nor quiet efficiency is the answer key."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If the credit were correct and the work collaborative, the ownership complaint would need a different basis."
+    },
+    {
+      "case_id": "F04-M",
+      "family": "F04",
+      "subject": "Megumin",
+      "title": "An ordinary note projected",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma"
+        ],
+        "current_state": "The audience is three adult acquaintances. The note is accurate and mundane, not a confession or insult to Explosion."
+      },
+      "setting": "At a club planning meeting, a presenter accidentally shows Megumin’s private note about finding discounted socks instead of the agreed itinerary. Kazuma is present.",
+      "stakes": "The audience is three adult acquaintances. The note is accurate and mundane, not a confession or insult to Explosion.",
+      "subject_available_information": [
+        "The presenter apologizes and can blank the display immediately.",
+        "The itinerary is ready on the next page; nothing has been lost.",
+        "Kazuma smiles but has not spoken or photographed it.",
+        "Nobody has permission to keep the private note; she may ask for the display to stop."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The audience mostly regards the note as ordinary; their private evaluation is not available to her."
+      ],
+      "canonical_comic_conditions": [
+        "A public magic projection with an ordinary stop control and no harmful retaliation required to operate it."
+      ],
+      "transfer_conditions": [
+        "A familiar projector with one visible blank-screen button. No technical expertise beyond that control is required."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the reaction distinguish unwanted privacy exposure from specialist identity challenge?",
+        "Do audience, the actual apology and Kazuma’s ambiguous smile enter the explanation without mind-reading?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Request deletion, blank it herself, joke, continue, challenge the presenter or ask Kazuma for help are open.",
+        "Polite, blunt or embarrassed speech must be tied to purpose, not assigned from a single persona label."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A deliberate insult about her build would add identity stakes not supplied by the ordinary note."
+    },
+    {
+      "case_id": "F04-D",
+      "family": "F04",
+      "subject": "Darkness",
+      "title": "The childhood drawing on the wall",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Aqua"
+        ],
+        "current_state": "Darkness did not authorize the display. The drawing is of a cute animal, and four adult volunteers are present."
+      },
+      "setting": "During a small civic preparation meeting, a familiar clerk displays a childhood drawing signed with Darkness’s noble name. Aqua is seated beside her.",
+      "stakes": "Darkness did not authorize the display. The drawing is of a cute animal, and four adult volunteers are present.",
+      "subject_available_information": [
+        "The clerk says they thought it would make the room friendly and will remove it on request.",
+        "No sexual content or bodily danger is involved.",
+        "The meeting can proceed with or without the drawing; the budget decision does not depend on it.",
+        "Aqua asks quietly whether to take it down and has not mocked her."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The clerk has no ulterior plan; one volunteer thinks it charming, but no reaction has yet been voiced."
+      ],
+      "canonical_comic_conditions": [
+        "A civic room with real reputation effects. Her armor does not determine whether public use of a private object is welcome."
+      ],
+      "transfer_conditions": [
+        "A community meeting without supernatural endurance or automatic noble authority. Her inherited identity and chosen familiarity remain meaningful."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the analysis distinguish a possible dignity objection from desired danger or sexual exposure?",
+        "Does current consent about a drawing remain separate from global attachment to noble identity?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Request removal, allow it with limits, redirect the meeting, explain the context or accept Aqua’s help can all be coherent.",
+        "The evaluator must not infer enjoyment simply because an audience is present."
+      ],
+      "nearest_contrast_not_an_extra_execution": "An explicitly consented display would remove the unauthorized-exposure fact without proving all embarrassment vanishes."
+    },
+    {
+      "case_id": "F05-K",
+      "family": "F05",
+      "subject": "Kazuma",
+      "title": "The unpaid errand worker",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Aqua"
+        ],
+        "current_state": "The worker is distressed and missing the last ordinary ride home. Kazuma can spend ten minutes establishing the order, which will forfeit his own place at a game table."
+      },
+      "setting": "Kazuma and Aqua see an adult errand worker being held in a shop until they pay for goods a supervisor ordered them to carry.",
+      "stakes": "The worker is distressed and missing the last ordinary ride home. Kazuma can spend ten minutes establishing the order, which will forfeit his own place at a game table.",
+      "subject_available_information": [
+        "Kazuma personally saw the supervisor sign the order and can identify the page in the shop book.",
+        "The book is on a public counter, and the shopkeeper offers to release the worker if the order is shown.",
+        "No violence or theft is needed; the worker asks him directly for that limited help.",
+        "Aqua is available as a witness but did not see the signing herself."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The supervisor made an accounting mistake rather than intentionally framing the worker. Kazuma cannot presently know the cause."
+      ],
+      "canonical_comic_conditions": [
+        "The shop uses a normal written book; no new lie detector or coercive skill automatically resolves motives."
+      ],
+      "transfer_conditions": [
+        "A real shop with a readable order book; no legal credentials are conferred, but a witness can point out the page."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the decision account for concrete preventable harm, a feasible bounded contribution and lost leisure?",
+        "If he helps or refuses, is the account causally defended without demanding pure altruism or inventing personal danger?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Point out the page, recruit a clerk, ask Aqua for logistics, bargain for a later favor or decline can be evaluated.",
+        "A harmful refusal is not automatically a source-model contradiction, but cannot be described as costless to the worker."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If he had not seen the signing, evidential confidence and the feasible contribution would differ; do not backfill certainty."
+    },
+    {
+      "case_id": "F05-A",
+      "family": "F05",
+      "subject": "Aqua",
+      "title": "A frightened assistant at a blessing desk",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Darkness"
+        ],
+        "current_state": "The assistant is crying and is about to lose a day’s wage. Aqua had been leaving for a pleasant meal; explaining the shelf takes ten minutes."
+      },
+      "setting": "At a community blessing desk, an adult assistant is publicly blamed for a dropped medicine parcel. Aqua and Darkness can see the actual fall from a damaged shelf.",
+      "stakes": "The assistant is crying and is about to lose a day’s wage. Aqua had been leaving for a pleasant meal; explaining the shelf takes ten minutes.",
+      "subject_available_information": [
+        "Aqua observed the shelf bracket break before the assistant touched the parcel.",
+        "The desk supervisor asks whether anyone saw what happened.",
+        "Darkness will accompany the assistant to the supervisor if Aqua supplies the observation.",
+        "No one challenges Aqua’s goddess identity or asks her to demonstrate healing."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The parcel contains no dangerous substance and the supervisor will listen to evidence, but Aqua has not been guaranteed the decision."
+      ],
+      "canonical_comic_conditions": [
+        "A sacred setting does not make Aqua an omniscient investigator; her relevant knowledge is the specific observed bracket failure."
+      ],
+      "transfer_conditions": [
+        "A charitable clinic desk without magic. Aqua remains a witness, not a newly certified medical or legal expert."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does current distress enter appraisal before the next choice without being treated as an automatic universal brake?",
+        "Does any service, prestige or blame language match the actual challenge rather than an invented identity insult?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Speak, ask for the shelf to be inspected, seek help, demand a hearing or leave can each be causally assessed.",
+        "The evaluator must distinguish fitted help from a generous intention that does not supply the needed observation."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If Aqua had not witnessed the fall, confident exoneration would require different information; the scene does supply a witness here."
+    },
+    {
+      "case_id": "F05-M",
+      "family": "F05",
+      "subject": "Megumin",
+      "title": "The work reservation",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma"
+        ],
+        "current_state": "Holding their reservation requires starting within ten minutes. A first-aid attendant is two minutes away; escorting the novice there would lose the slot."
+      },
+      "setting": "Megumin and Kazuma have reserved a workshop table for an optional display. An adult novice at the adjacent table has cut a hand and is shaking.",
+      "stakes": "Keeping the reservation requires Megumin’s signature at the nearby desk within three minutes. The attendant is a two-minute walk each way, so escorting the novice and returning takes at least four minutes and loses the slot.",
+      "subject_available_information": [
+        "The cut is real, bleeding and needs attention, but the novice is conscious and can walk with help.",
+        "Kazuma has gone to collect the materials and will return in five minutes; he cannot be assumed to act before then.",
+        "Megumin can call the attendant with a visible bell and stay, or escort the novice herself.",
+        "The display is not a required battle, no one has insulted Explosion and no shared death is authorized."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The table will probably be available again tomorrow; no official has promised this to her."
+      ],
+      "canonical_comic_conditions": [
+        "No convenient healer is already in the room; safe help is available through the attendant. Explosion is not a medical remedy."
+      ],
+      "transfer_conditions": [
+        "A realistic maker space, no magic; same bell, walking option and novice condition. No diagnosis beyond the supplied facts is required."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the response distinguish immediate human need from ordinary schedule cost and from an identity challenge?",
+        "Can she retain her valued display while choosing or declining a practical option without making aesthetic commitment a universal incapacity to care?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Ring the bell, escort, recruit another nearby adult with consent, protect the reservation while requesting help or refuse are all observable options.",
+        "If harmful or self-serving, the action must not be normalized as no injury merely because this is comic mode."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A staged injury or an imminent lethal attack would change the appraisal; neither is hiddenly supplied."
+    },
+    {
+      "case_id": "F05-D",
+      "family": "F05",
+      "subject": "Darkness",
+      "title": "The report that would embarrass a sponsor",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Megumin"
+        ],
+        "current_state": "A written stop-work notice, which Darkness has read, requires a brace before anyone returns. Reporting it may embarrass the sponsor who funded her civic project."
+      },
+      "setting": "Darkness and Megumin find an adult porter being sent back onto a visibly unstable scaffold by a respected sponsor.",
+      "stakes": "A written stop-work notice, which Darkness has read, requires a brace before anyone returns. Reporting it may embarrass the sponsor who funded her civic project.",
+      "subject_available_information": [
+        "The porter asks not to climb until the brace is fitted.",
+        "A supervisor across the yard has authority to stop the work and is available now.",
+        "Darkness can show the notice or stand in a safe doorway to prevent access without entering the scaffold.",
+        "The sponsor claims delay costs money but gives no evidence the notice has been rescinded."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The sponsor misplaced the engineering update; intentional cruelty is not established."
+      ],
+      "canonical_comic_conditions": [
+        "Protective ability does not make a collapsing scaffold safe for others. She has no inspected guarantee she can replace the brace with her body."
+      ],
+      "transfer_conditions": [
+        "No extraordinary body or armor. Same notice, available supervisor and safe access point; no building-engineer expertise is assumed."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does protector duty include another person’s boundary and procedural knowledge rather than only taking pain herself?",
+        "Does social deference or shame compete visibly without making authority correct by definition?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Show the notice, summon the supervisor, challenge the sponsor, negotiate a brief stop or acquiesce are possible.",
+        "Entering danger is not automatically the most faithful protective act; refusing danger is not automatically cowardice."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A current inspected clearance would change the evidence; a sponsor’s unsupported assertion is not that clearance."
+    },
+    {
+      "case_id": "F06-K",
+      "family": "F06",
+      "subject": "Kazuma",
+      "title": "The rattling gate",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Megumin",
+          "Darkness"
+        ],
+        "current_state": "The sound is startling but explicitly harmless. The cart is a credible bodily danger to a valued companion, and stopping it exposes a rescuer to a lesser real risk."
+      },
+      "setting": "Kazuma and Darkness are crossing a small storage yard. Harmless hanging shells rattle loudly beside a narrow gate; beyond it a cart has begun rolling toward Megumin.",
+      "stakes": "The sound is startling but explicitly harmless. The cart is a credible bodily danger to a valued companion, and stopping it exposes a rescuer to a lesser real risk.",
+      "subject_available_information": [
+        "Kazuma can see a brake lever beside him; pulling it should stop the cart if the intact cable works.",
+        "A supervisor says the cable was checked that morning; its current state is not visible.",
+        "Calling out can give Megumin time to move; she has an open route on her left.",
+        "Darkness is near a wheel chock but has not yet acted. Nobody is trapped without options."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The cable works. The evaluator must not reward guessing that hidden fact as certainty."
+      ],
+      "canonical_comic_conditions": [
+        "Kazuma has his demonstrated available skills, but no automatic successful Snipe/Steal effect on an unspecified cart part. Ordinary lever/chock/voice options remain."
+      ],
+      "transfer_conditions": [
+        "No skills or luck control. Same visible lever, chock and escape route; normal injury consequences apply."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the account distinguish harmless startle, uncertain personal intervention and concrete companion danger?",
+        "Does a protective command’s function depend on its recipient and situation rather than a required friendly tone?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Warn, pull the lever, coordinate Darkness, move clear, combine actions or fail to intervene can be assessed against known timing.",
+        "A safe plan can be faithful; an impulsive plan can be faithful only if its uncertainty and consequences are retained."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If only the shells rattled and no cart moved, a crisis override would lack the stated danger cue."
+    },
+    {
+      "case_id": "F06-A",
+      "family": "F06",
+      "subject": "Aqua",
+      "title": "The dark stair and the real smoke",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma",
+          "Darkness"
+        ],
+        "current_state": "The tapping alone has an ordinary mechanical cause visible through a vent. Smoke is a separate credible hazard; Aqua has a safe way to summon help."
+      },
+      "setting": "Aqua and Kazuma hear tapping in a dim stairwell; then visible smoke comes from a locked storeroom where Darkness is coughing.",
+      "stakes": "The tapping alone has an ordinary mechanical cause visible through a vent. Smoke is a separate credible hazard; Aqua has a safe way to summon help.",
+      "subject_available_information": [
+        "A bell at the stair head alerts the watch and a keeper with the key is within shouting distance.",
+        "No apparition, undead identity or curse is established.",
+        "Darkness says she can stand but cannot open the lock from inside.",
+        "A floor plan beside the bell marks a second vent; forcing it would take effort and risk cuts."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The fire is small and can be contained by the keeper, but Aqua cannot know its extent from the smoke."
+      ],
+      "canonical_comic_conditions": [
+        "Water magic is available only within the actual model’s established control; directing a flood into an occupied locked room has real risks. No automatic purification of smoke is stipulated."
+      ],
+      "transfer_conditions": [
+        "No divine magic; water bucket, bell and keeper remain. No new firefighting certification or immunity."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does fear about ambiguous atmosphere stay distinct from observed smoke and the valued person’s actual report?",
+        "Does any helpful act or refusal retain resource/access conditions rather than asserting guaranteed rescue?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Call the keeper/watch, ask Darkness for information, use a bounded water measure, open the vent or retreat can each be argued.",
+        "Neither panic nor flawless priestly management is a mandated output."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If the coughing came from a known rehearsal with no smoke, danger appraisal would have different evidence; do not assume a rehearsal here."
+    },
+    {
+      "case_id": "F06-M",
+      "family": "F06",
+      "subject": "Megumin",
+      "title": "A cracking practice platform",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma",
+          "Aqua"
+        ],
+        "current_state": "Megumin has finished a single exhausting effort and can walk but not carry a person alone. Aqua is rested and within hearing."
+      },
+      "setting": "Megumin and Aqua are on a low practice platform when a harmless banner snaps noisily. At the far edge, a support then cracks under Kazuma.",
+      "stakes": "Megumin has finished a single exhausting effort and can walk but not carry a person alone. Aqua is rested and within hearing.",
+      "subject_available_information": [
+        "The banner noise is harmless; the fresh support crack and tilt are visible.",
+        "A sturdy rail beside Kazuma and a rope already tied to it can keep him from sliding.",
+        "Megumin cannot perform a safe destructive cast at this close occupied platform; the posted limit is explicit.",
+        "Aqua can help physically or call ground staff; she has not yet noticed the crack."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The lower net would reduce the fall but is partly obscured. Megumin should not be credited with knowing its condition."
+      ],
+      "canonical_comic_conditions": [
+        "Retain actual post-effort limitation and source-world recovery rules. No instant new cast, unlimited mana or guaranteed companion survival."
+      ],
+      "transfer_conditions": [
+        "The exhausting effort was a strenuous timed physical demonstration; no magical attack. Same fatigue, rope and rested helper."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the response integrate real fatigue, relationship, a feasible warning and safe geometry?",
+        "Does urgency require or suppress theatricality only if the specific model can explain that choice?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Warn, pass the rope, direct Aqua, reach from safety, seek staff or freeze are open behaviors.",
+        "The evaluator separates a chosen action from an invented physical capacity or invisible safety net."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If she were fully rested, carrying capacity might alter the action space; that is not the present state."
+    },
+    {
+      "case_id": "F06-D",
+      "family": "F06",
+      "subject": "Darkness",
+      "title": "The narrow walkway",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Megumin"
+        ],
+        "current_state": "Darkness can accept risk herself, but another person has not consented to a fall. A safe rope station is nearby."
+      },
+      "setting": "Darkness and Megumin cross a walkway above fast water that looks shallow near the bank. A harmless training dummy swings and startles them; separately an adult worker loses footing by the upstream rail.",
+      "stakes": "Darkness can accept risk herself, but another person has not consented to a fall. A safe rope station is nearby.",
+      "subject_available_information": [
+        "The dummy cannot strike anyone beyond its marked circle.",
+        "The worker is gripping a rail and asks for the rope rather than a person jumping in.",
+        "The rope is within two steps; a second helper can anchor it.",
+        "Darkness’s armor is heavy and would impede swimming; the water’s exact depth under the worker is unknown."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The rail will hold for another minute, but there is no timer visible to the characters."
+      ],
+      "canonical_comic_conditions": [
+        "Her demonstrated endurance does not establish immunity to drowning or ability to carry heavy armor through this current."
+      ],
+      "transfer_conditions": [
+        "No supernatural endurance; she understands the armor/gear weight and ordinary water risk."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does a preference for personal danger remain separate from effective protection and the worker’s actual request?",
+        "Does she assess the practical alternative without losing character identity merely by using a rope?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Fetch/anchor the rope, coordinate Megumin, attempt direct rescue, summon help or hesitate can be causally evaluated.",
+        "Choosing risk is not an automatic pass; the evidence-backed purpose and known consequences matter."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If only a desired controlled training impact were present, an emergency protector appraisal would not be established."
+    },
+    {
+      "case_id": "F07-K",
+      "family": "F07",
+      "subject": "Kazuma",
+      "title": "A good game and a bad map legend",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Aqua"
+        ],
+        "current_state": "His success has gained attention, but the second problem affects a real household repair and uses unfamiliar symbols."
+      },
+      "setting": "At a club table Kazuma rapidly understands a resource-placement game. Aqua then asks him to interpret a city utility diagram for a water shutoff.",
+      "stakes": "His success has gained attention, but the second problem affects a real household repair and uses unfamiliar symbols.",
+      "subject_available_information": [
+        "The game’s printed rules are complete and its hidden information is explicitly marked.",
+        "The utility diagram has an unknown symbol legend available from the caretaker downstairs.",
+        "A wrong shutoff can inconvenience another apartment; no injury is expected if they pause.",
+        "Aqua asks whether he understands the diagram, not whether he can prove superiority."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The apparent central valve serves a neighbor rather than their room; this is not visible without the legend."
+      ],
+      "canonical_comic_conditions": [
+        "Game literacy does not grant technical plumbing knowledge. Any source skill must operate only within a stated scope, not reveal the legend by fiat."
+      ],
+      "transfer_conditions": [
+        "Ordinary board game and plumbing diagram, no magic or game-engine omniscience."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does known skill transfer get bounded by the missing symbol knowledge?",
+        "Can he preserve esteem through asking, bluffing, delegation or admission without the evaluator rewarding a lucky hidden answer as competence?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Seek the legend, ask the caretaker, propose a test with permission, admit uncertainty or bluff are all possible paths.",
+        "A bluff may fit a bias but cannot be treated as established knowledge."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A supplied familiar legend would make a correct inference better evidence of competence than it is here."
+    },
+    {
+      "case_id": "F07-A",
+      "family": "F07",
+      "subject": "Aqua",
+      "title": "The frame and the food label",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Megumin"
+        ],
+        "current_state": "Her practical success invites trust. The second task is outside the specifically supplied evidence and can harm another person."
+      },
+      "setting": "Aqua repairs a loose wooden frame successfully while Megumin watches. The organizer then asks her to decide whether an unlabelled food packet is safe for a guest with a severe allergy.",
+      "stakes": "Her practical success invites trust. The second task is outside the specifically supplied evidence and can harm another person.",
+      "subject_available_information": [
+        "Aqua can inspect only a generic packet with no ingredient list.",
+        "A staff member knows where the supplier’s record is and can retrieve it in five minutes.",
+        "The guest explicitly says not to guess and has a safe alternative meal.",
+        "The organizer’s praise concerns the frame, not verified food expertise."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The packet contains the allergen. No character is entitled to know that without the record."
+      ],
+      "canonical_comic_conditions": [
+        "Purification is not stipulated to identify or reliably remove this allergy trigger; source-world divine power is not an invented universal safety test."
+      ],
+      "transfer_conditions": [
+        "No divine powers; same craft success, missing label and safe meal. No diagnostic credential."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does actual craft competence remain real while allergy confidence is bounded?",
+        "Does her response to praise or need preserve the guest’s explicit information and a feasible alternative?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Get the record, serve the safe meal, refuse the judgment, claim unsupported certainty or ask a specialist are observable options.",
+        "Unsupported confidence can be a modeled error; it cannot become a mechanically certified safe result."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If the record were already supplied and understood, the epistemic guard would differ; this case withholds it."
+    },
+    {
+      "case_id": "F07-M",
+      "family": "F07",
+      "subject": "Megumin",
+      "title": "Precise scale, unfamiliar control",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Darkness"
+        ],
+        "current_state": "She wants a successful presentation and is publicly regarded as its specialist. The box has a manual but she has not used it."
+      },
+      "setting": "Megumin accurately judges a safe spacing diagram for a demonstration, then faces an unfamiliar timing box that controls the display lights. Darkness is assisting.",
+      "stakes": "She wants a successful presentation and is publicly regarded as its specialist. The box has a manual but she has not used it.",
+      "subject_available_information": [
+        "The spacing calculation is within her practiced domain; she has correctly explained it.",
+        "The box’s start and emergency-stop controls are labelled; interval programming needs the manual.",
+        "Incorrect programming can spoil the presentation but will not injure anyone if the marked safety barrier stays.",
+        "A technician is available after ten minutes, and the audience can wait."
+      ],
+      "evaluator_only_hidden_facts": [
+        "One memorized-looking sequence from the last user is wrong for this setup. That sequence has not been validated."
+      ],
+      "canonical_comic_conditions": [
+        "A simple unfamiliar clockwork/enchanted timing box with exactly the stated controls; no universal spell-device expertise."
+      ],
+      "transfer_conditions": [
+        "An ordinary programmable lighting timer. No electronics expertise is inherited from magical precision."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does narrow mastery coexist with an explicit learning or delegation need?",
+        "Can self-presentation, impatience and technical inquiry compete without every complication becoming Explosion denigration?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Read, ask, wait, attempt a reversible test, bluff or delegate can be coherent if errors are not hidden.",
+        "A grand declaration alone supplies no missing programming knowledge."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A familiar previously tested box would justify a different confidence level without changing her aesthetic goals."
+    },
+    {
+      "case_id": "F07-D",
+      "family": "F07",
+      "subject": "Darkness",
+      "title": "A safe lift and a tax form",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma"
+        ],
+        "current_state": "Her useful physical coordination has just earned praise. A wrong form could delay payment to volunteers."
+      },
+      "setting": "Darkness helps two workers move a heavy bench safely using a sling. A clerk then asks her to classify three unusual reimbursements on a civic tax form. Kazuma stands nearby.",
+      "stakes": "Her useful physical coordination has just earned praise. A wrong form could delay payment to volunteers.",
+      "subject_available_information": [
+        "She has not handled this category of civic return before. The printed guide says documented travel is reimbursable, meals are capped at three tokens per worker, and a paid helper needs a signed receipt.",
+        "The three entries are travel four tokens with a receipt; meals eight tokens for two workers with receipts; and helper pay six tokens with no signed receipt. The clerk has no further documentation at present.",
+        "Kazuma can help read arithmetic but has no authority to invent a missing receipt.",
+        "The clerk offers a later appointment with the responsible official."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The undocumented payment is legitimate; the missing document still matters procedurally."
+      ],
+      "canonical_comic_conditions": [
+        "Strength and noble standing do not give omniscient fiscal knowledge or permission to certify unseen receipts."
+      ],
+      "transfer_conditions": [
+        "Ordinary strength appropriate to a trained adult plus a sling; no superhuman lift. Same paperwork and official access."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the model distinguish useful protection/coordination, procedural uncertainty and social pressure from praise?",
+        "Can asking help be compatible with dignity, and can attempted authority be judged without equating confidence with correctness?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Read the guide, defer the uncertain line, seek a receipt, ask an official, guess or decline are possible.",
+        "The evaluator must not infer total incompetence from an honestly bounded tax answer."
+      ],
+      "nearest_contrast_not_an_extra_execution": "Complete documentation would change what can be safely certified; a reassuring sponsor cannot substitute for it."
+    },
+    {
+      "case_id": "F08-K",
+      "family": "F08",
+      "subject": "Kazuma",
+      "title": "The private joke repeated",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Aqua",
+          "Megumin"
+        ],
+        "current_state": "They are on familiar terms. She is not crying or threatening separation, and the requested boundary is specific."
+      },
+      "setting": "After an ordinary shared errand, Kazuma repeats a familiar private joke about Megumin’s dependence while Aqua is present. Megumin laughs once, then tells him directly to stop using it in front of this audience.",
+      "stakes": "They are on familiar terms. She is not crying or threatening separation, and the requested boundary is specific.",
+      "subject_available_information": [
+        "She says the same joke in private is not the issue; this public repetition is.",
+        "Aqua has heard the request and waits without adding a taunt.",
+        "The next joint task is minor and neither needs to leave immediately.",
+        "Kazuma remembers that Megumin has helped him materially; no repayment demand has been made."
+      ],
+      "evaluator_only_hidden_facts": [
+        "Megumin will accept several possible repairs, but has not predetermined that an apology alone is sufficient."
+      ],
+      "canonical_comic_conditions": [
+        "Comic familiarity permits banter but does not remove the actual stated audience limit or guarantee the absence of lasting irritation."
+      ],
+      "transfer_conditions": [
+        "A realistic shared-household conversation without magical reversal or slapstick erasure of an objection."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the response distinguish ritual argument from a newly explicit local boundary?",
+        "Can complaint, defensive rationale, inquiry, apology or continued teasing be causally explained without declaring tears necessary for all restraint?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Acknowledge, ask why, bargain about future jokes, change subject, retaliate or continue can be assessed.",
+        "A considerate response is not automatically faithful, and an inconsiderate one is not automatically inconsistent; the causal account and known boundary matter."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If she had invited the public joke before the same audience, the prior information would differ; that consent is not supplied."
+    },
+    {
+      "case_id": "F08-A",
+      "family": "F08",
+      "subject": "Aqua",
+      "title": "The task nobody asked her about",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma",
+          "Darkness"
+        ],
+        "current_state": "She values being useful and had planned a private game rematch. Her availability was assumed, not promised."
+      },
+      "setting": "Aqua discovers that Kazuma and Darkness scheduled her for two hours of festival work without asking. They explain that her craft would help.",
+      "stakes": "She values being useful and had planned a private game rematch. Her availability was assumed, not promised.",
+      "subject_available_information": [
+        "The work itself is ordinary decoration, not emergency healing or protection.",
+        "Kazuma admits he did not ask and says they can tell the organizer she is unavailable.",
+        "Darkness offers to share the work if Aqua chooses it.",
+        "The rematch partner can meet tomorrow but has not been asked to change time."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The organizer has a backup volunteer; Aqua does not yet know that."
+      ],
+      "canonical_comic_conditions": [
+        "Actual craft can make her a good candidate, but is not consent or a binding divine obligation. No automatic job collapse if she refuses."
+      ],
+      "transfer_conditions": [
+        "A real festival committee with no supernatural authority. Same plans, options and actual admission of assumption."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does being wanted as a provider differ from being consulted as a person?",
+        "Does the voice account distinguish service adoption, grievance and status without insisting on a practical-directive switch?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Refuse, negotiate time, accept, ask to be consulted, demand compensation or redirect the arrangement are open.",
+        "No universal selfishness or universal duty answer is specified."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A prior explicit promise or a real emergency would change the commitment guard; neither exists here."
+    },
+    {
+      "case_id": "F08-M",
+      "family": "F08",
+      "subject": "Megumin",
+      "title": "The reserved evening",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma",
+          "Aqua",
+          "Darkness"
+        ],
+        "current_state": "Megumin wants the private time and also cares about the household repair. Kazuma is waiting for her answer."
+      },
+      "setting": "Megumin has privately arranged an evening walk with Kazuma. Darkness asks to use that same time for a group repair meeting.",
+      "stakes": "Megumin wants the private time and also cares about the household repair. Kazuma is waiting for her answer.",
+      "subject_available_information": [
+        "The repair is nonurgent and can occur tomorrow.",
+        "Darkness says she will reschedule if either already has plans, without demanding disclosure of their private arrangement.",
+        "Kazuma does not answer for Megumin and does not promise intimacy beyond a walk.",
+        "Aqua is absent and has not voiced a preference."
+      ],
+      "evaluator_only_hidden_facts": [
+        "Darkness genuinely does not know the plan; her request is not a deliberate romantic provocation."
+      ],
+      "canonical_comic_conditions": [
+        "Canon-compatible private planning, with unresolved relationship labels retained. No settled exclusivity is added."
+      ],
+      "transfer_conditions": [
+        "A realistic household calendar conflict. No magic, compulsory romantic scripts or new final relationship agreement."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the model preserve privacy, particular intimacy, helpfulness and another person’s actual knowledge?",
+        "Can direct or indirect speech express a choice without assigning Darkness a motive she lacks?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Keep the walk, propose tomorrow, reveal the plan, decline without details, give up the evening or ask Kazuma can be coherent.",
+        "Jealous framing may be a bias, but cannot be certified as objective proof of sabotage."
+      ],
+      "nearest_contrast_not_an_extra_execution": "If Darkness had known and intentionally interfered, attribution would change; the present information does not establish that."
+    },
+    {
+      "case_id": "F08-D",
+      "family": "F08",
+      "subject": "Darkness",
+      "title": "A welcome joke and an unwelcome decision",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma",
+          "Megumin"
+        ],
+        "current_state": "She did enjoy the earlier joke. The actual role would occupy her only free afternoon and expose her private preference to strangers."
+      },
+      "setting": "Darkness joins a familiar household joke about her taste for hard work. Later Kazuma tells an organizer she will take a physically uncomfortable role without asking. Megumin notices her surprise.",
+      "stakes": "She did enjoy the earlier joke. The actual role would occupy her only free afternoon and expose her private preference to strangers.",
+      "subject_available_information": [
+        "Kazuma says he assumed she would like it but will withdraw the offer if she says so.",
+        "The role is optional; another adult volunteer is available.",
+        "Darkness has not agreed to public discussion of her private preferences.",
+        "Megumin asks what she herself wants, without promising that any answer will produce praise."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The organizer will accept a refusal without contempt; that future reaction is not yet known to Darkness."
+      ],
+      "canonical_comic_conditions": [
+        "Her actual endurance does not replace consent to scheduling or public exposure. No performed harmful act has already occurred."
+      ],
+      "transfer_conditions": [
+        "No extraordinary endurance or assumed tolerance of pain. Same voluntary work, time and privacy conditions."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does liking a joke or particular discomfort become an unjustified global consent inference?",
+        "Does personal objection, acceptance, hesitation or bargaining track chosen belonging and actual audience rather than a single humiliation scalar?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Accept, refuse, limit the role, ask for privacy, confront the assumption or request another volunteer are possible.",
+        "Neither acceptance nor objection automatically establishes a new permanent aversion or commitment."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A clearly consented schedule would remove the unauthorized-choice fact, while leaving possible later regret distinct."
+    },
+    {
+      "case_id": "F09-K",
+      "family": "F09",
+      "subject": "Kazuma",
+      "title": "A cooperative score machine",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Aqua"
+        ],
+        "current_state": "He likes games and could gain a useful voucher. The system cannot be attacked or stolen from without cancelling everyone’s session."
+      },
+      "setting": "Kazuma and Aqua encounter a public teaching device in an unfamiliar town. It offers a transparent, noncompetitive allocation game with real meal vouchers.",
+      "stakes": "He likes games and could gain a useful voucher. The system cannot be attacked or stolen from without cancelling everyone’s session.",
+      "subject_available_information": [
+        "The device explains and demonstrates that each participant choosing a personal credit gives themselves one token; choosing shared credit gives each other participant two.",
+        "There are four participants, decisions are simultaneous and no one can see others’ choice before locking their own.",
+        "One token buys a meal; there is no leaderboard, hidden jackpot or skill-point effect.",
+        "Aqua proposes talking first but cannot bind the two strangers."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The strangers intend different choices, one personal and one shared. The model cannot read those intentions."
+      ],
+      "canonical_comic_conditions": [
+        "A fixed-rule teaching artifact with no inspectable exploit beyond the stated rules. Gamer knowledge can supply reasoning, not a secret engine command."
+      ],
+      "transfer_conditions": [
+        "An unfamiliar but fully explained electronic kiosk; no hacking, luck magic or advanced computer expertise. Same payoffs and anonymous locking."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the model reason from the supplied novel incentive structure rather than copy a nearest gambling scene?",
+        "Does uncertainty about others remain explicit, and does any social proposal have a feasible mechanism?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Choose either option, negotiate, abstain or ask clarifying questions before lock are allowed.",
+        "Neither selfish nor cooperative choice is the prescribed character answer; unsupported certainty about strangers is the diagnostic risk."
+      ],
+      "nearest_contrast_not_an_extra_execution": "Visible repeated choices with reliable partners would change the learning and relationship evidence; this is the first round."
+    },
+    {
+      "case_id": "F09-A",
+      "family": "F09",
+      "subject": "Aqua",
+      "title": "Anonymous repairs and delayed credit",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Megumin"
+        ],
+        "current_state": "Aqua can perform a small useful repair now and receives a private receipt. A public ceremonial title is offered for attending tomorrow, whether or not she repairs."
+      },
+      "setting": "Aqua and Megumin enter a screened repair booth at an unfamiliar community workshop. The public repair log hides maker names until a monthly reveal; the chair owner sends a written request through an attendant.",
+      "stakes": "Aqua can perform a small useful repair now and receives a private receipt. A public ceremonial title is offered for attending tomorrow, whether or not she repairs.",
+      "subject_available_information": [
+        "The repair will materially help a known elderly adult use a chair safely today. The owner is outside the screen and cannot see the maker.",
+        "The private receipt accurately records Aqua’s contribution. Megumin knows who did the repair; the official public log will hide the name for a month. Aqua could choose to show her own receipt or introduce herself, but no audience recognition is promised.",
+        "The public ceremonial title tomorrow confers no technical power, money or control over the log.",
+        "The chair owner asks for help in writing but says refusal is permitted; another repairer may come next week. Megumin has offered neither praise nor criticism."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The later reveal will be accurate, but its audience size and reaction are unknown."
+      ],
+      "canonical_comic_conditions": [
+        "Ordinary demonstrated craft is available; no divine command can force sincere recognition. The log is not a truth test for all motives."
+      ],
+      "transfer_conditions": [
+        "A realistic voluntary workshop with the same anonymity and actual practical effect, no magic or inferred saintly duty."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Can immediate usefulness, delayed acknowledgment, a symbolic role and choice remain separate in a novel institution?",
+        "Does the speech account allow practical service with or without directive language rather than resurrecting the failed broad tendency?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Repair, postpone, ask for visible credit, attend the ceremony, decline or propose another arrangement are possible.",
+        "The evaluator does not reward public modesty as the only plausible outcome."
+      ],
+      "nearest_contrast_not_an_extra_execution": "Immediate named recognition would change reward timing, not create the underlying craft ability or prove a unique motive."
+    },
+    {
+      "case_id": "F09-M",
+      "family": "F09",
+      "subject": "Megumin",
+      "title": "The non-destructive scale room",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Darkness"
+        ],
+        "current_state": "She may choose one grand presentation or several adjustable smaller presentations. There is no skill reward and the room does not spend her spell points."
+      },
+      "setting": "Megumin and Darkness enter a demonstration room that can show the visible shape and sound of a designed effect without causing destruction.",
+      "stakes": "She may choose one grand presentation or several adjustable smaller presentations. There is no skill reward and the room does not spend her spell points.",
+      "subject_available_information": [
+        "A live demonstration proves that both options are harmless projections inside the room.",
+        "The controls permit adjustment after each trial, but she has never used them.",
+        "A spectator asks about beauty and precision rather than which option is more useful in war.",
+        "Nothing requires her to call the smaller effects Explosion or to change her real build outside the room."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The audience has mixed preferences; there is no single prize or hidden optimal setting."
+      ],
+      "canonical_comic_conditions": [
+        "The device does not duplicate actual spell power or prove readiness for real combat. Her magical specialization outside the room remains unchanged."
+      ],
+      "transfer_conditions": [
+        "A projection-and-sound studio with the same verified non-destructive function and readable controls; no prior digital-art expertise. Her aesthetic identity remains, with its transfer limits acknowledged."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the model reason about representation versus the valued real practice, without inventing a forced rebuild or denigration?",
+        "Can enthusiasm, refusal, experimentation or performance be causally explained from the novel affordance and known uncertainty?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Try either scale, ask questions, refuse imitation, compare outputs or invite Darkness’s opinion are open.",
+        "No assumption that harmless substitution must satisfy or offend her is scored as ground truth."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A device claiming to replace her real chosen art would introduce a different identity threat; this device makes no such claim."
+    },
+    {
+      "case_id": "F09-D",
+      "family": "F09",
+      "subject": "Darkness",
+      "title": "The remote rescue shell",
+      "relationship_state": {
+        "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+        "counterparts": [
+          "Kazuma"
+        ],
+        "current_state": "A training rescue has no victim danger today; tomorrow’s real operation will need an operator. Her public name can be shown or kept private."
+      },
+      "setting": "Darkness and Kazuma are offered a remote training shell that can move a heavy barrier while its operator stays in a safe room.",
+      "stakes": "A training rescue has no victim danger today; tomorrow’s real operation will need an operator. Her public name can be shown or kept private.",
+      "subject_available_information": [
+        "A supervised demonstration verifies that damage to the shell does not transmit pain or injury.",
+        "Operating it requires learning a simple control sequence with a trainer; she does not already know it.",
+        "The rescue function is real, but personal bodily endurance is irrelevant while the operator stays outside.",
+        "Kazuma asks whether she wants to train, without mocking her motives or volunteering her name."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The trainer will not interpret a request for anonymity as cowardice, but has not said that."
+      ],
+      "canonical_comic_conditions": [
+        "A remote golem shell with precisely demonstrated isolation; not evidence she can control any golem or is otherwise immune to pain."
+      ],
+      "transfer_conditions": [
+        "An ordinary remote mechanical training rig with no magical aptitude transfer. Safe console and trainer remain; no robotics expertise assumed."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the model distinguish useful protection, personal exposure, public identity and the value of bodily involvement in a genuinely new setting?",
+        "Can willingness to train, refusal or a request for conditions be explained without inferring that absence of pain eliminates all protective motives?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Train, ask for a demonstration, volunteer privately, decline, prefer another role or request more time are possible.",
+        "Neither seeking danger nor accepting the safe shell is predetermined as the faithful answer."
+      ],
+      "nearest_contrast_not_an_extra_execution": "A shell transmitting actual pain would alter bodily incentives and consent, not merely strengthen the same known-safe condition."
+    }
+  ],
+  "party_cases": [
+    {
+      "case_id": "F01-PARTY",
+      "family": "F01",
+      "subjects": [
+        "Kazuma",
+        "Aqua",
+        "Megumin",
+        "Darkness"
+      ],
+      "title": "The late common meal",
+      "relationship_state": "All four remain familiar companions with unresolved particular romantic labels, real irritation, reciprocal history and separate agency. No compulsory leader or universal party indispensability.",
+      "setting": "The four return to a shared house to find the common stove unavailable for thirty minutes.",
+      "party_available_information": [
+        "There is enough cold food for all, a nearby cook closes in twenty minutes, and the available shared cash buys two prepared meals.",
+        "Nobody caused the fault; the caretaker has already explained the delay.",
+        "Each can choose separately. Darkness asks anyone leaving to say whether they will return for the shared meal; this is her request, not a compulsory response rule."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The stove returns in twenty-five minutes rather than thirty; no one knows that exact time."
+      ],
+      "canonical_comic_conditions": [
+        "Ordinary magic may be considered only within source-supported safe heating uses and permission; no invented free restaurant."
+      ],
+      "transfer_conditions": [
+        "No magic, same cold food, cash and time; no new cooking expertise."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Do distinct preferences and relationship expectations produce compatible interaction rather than four identical reactions?",
+        "Does ordinary division of labor remain possible without mandatory catastrophe or catchphrases?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Wait, split purchases, cook something safe, eat separately, bargain or quarrel can all be coherent if timing and money stay consistent."
+      ],
+      "per_subject_private_information": {
+        "Kazuma": [],
+        "Aqua": [],
+        "Megumin": [],
+        "Darkness": []
+      }
+    },
+    {
+      "case_id": "F02-PARTY",
+      "family": "F02",
+      "subjects": [
+        "Kazuma",
+        "Aqua",
+        "Megumin",
+        "Darkness"
+      ],
+      "title": "The common windfall",
+      "relationship_state": "All four remain familiar companions with unresolved particular romantic labels, real irritation, reciprocal history and separate agency. No compulsory leader or universal party indispensability.",
+      "setting": "A joint neighborhood job pays the party twenty tokens and offers a choice of reimbursement schedules.",
+      "party_available_information": [
+        "Six of the twenty tokens cover agreed material costs. Eight cover a useful household repair. Six remain freely negotiable.",
+        "Each has voiced one optional six-token personal use: Kazuma a board-game event entry; Aqua painting pigments; Megumin a decorative cloak clasp; Darkness a tea-service gift for her father. None has been approved by the others.",
+        "These are explicit present hypothetical wants, not newly asserted permanent preferences or a required spending order. The client will not pay twice or choose the division."
+      ],
+      "evaluator_only_hidden_facts": [
+        "There is no hidden individual bonus and no right answer selected by the client."
+      ],
+      "canonical_comic_conditions": [
+        "No unshown royalties or noble subsidy may erase the stated local budget; ordinary borrowing needs explicit agreement."
+      ],
+      "transfer_conditions": [
+        "Same small budget in ordinary money; no magic or supernatural income shortcut."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Are joint ownership, contribution and private desires represented separately?",
+        "Can alliances change by issue instead of making one permanent sensible adult and three fools?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Equal division, saving, unequal agreed shares, a contest with consent, argument or postponement can be assessed; no allocation is preselected."
+      ],
+      "per_subject_private_information": {
+        "Kazuma": [],
+        "Aqua": [],
+        "Megumin": [],
+        "Darkness": []
+      }
+    },
+    {
+      "case_id": "F03-PARTY",
+      "family": "F03",
+      "subjects": [
+        "Kazuma",
+        "Aqua",
+        "Megumin",
+        "Darkness"
+      ],
+      "title": "An outsider’s collaboration offer",
+      "relationship_state": "All four remain familiar companions with unresolved particular romantic labels, real irritation, reciprocal history and separate agency. No compulsory leader or universal party indispensability.",
+      "setting": "A competent adult organizer invites the party to help at a public exhibition.",
+      "party_available_information": [
+        "The organizer offers four optional twenty-minute tasks at two tokens each: Kazuma make a registration route/list; Aqua repair two loose poster frames; Megumin select display names and write a spoken introduction; Darkness help staff position a waiting lane.",
+        "The organizer refers to an actual observed planning, craft, presentation or protective contribution for each person, rather than declaring any one globally capable. They admit the schedule is incomplete and invite corrections.",
+        "Local staff retain safety approval. Pay is equal for equal hours; no one is called useless, compelled to accept, or threatened with replacement."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The organizer is sincere, but a sincere offer does not guarantee perfect execution."
+      ],
+      "canonical_comic_conditions": [
+        "Tasks use ordinary craft, protective positioning, planning and a safe marked demonstration; no automatic divine or noble authority."
+      ],
+      "transfer_conditions": [
+        "Tasks are ordinary planning, craft, visitor safety and non-destructive presentation. No magical professional credentials are added."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the group preserve individual appraisal of admiration, uncertainty and work rather than treating all praise as a trap or cure?",
+        "Do actual task acceptances precede later role-function judgments?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Accept separately, negotiate, ask details, demonstrate, refuse or make a counteroffer are available."
+      ],
+      "per_subject_private_information": {
+        "Kazuma": [],
+        "Aqua": [],
+        "Megumin": [],
+        "Darkness": []
+      }
+    },
+    {
+      "case_id": "F04-PARTY",
+      "family": "F04",
+      "subjects": [
+        "Kazuma",
+        "Aqua",
+        "Megumin",
+        "Darkness"
+      ],
+      "title": "The group credit card",
+      "relationship_state": "All four remain familiar companions with unresolved particular romantic labels, real irritation, reciprocal history and separate agency. No compulsory leader or universal party indispensability.",
+      "setting": "A meeting displays a card assigning the party’s last minor job entirely to Kazuma.",
+      "party_available_information": [
+        "The minor completed job had four observed parts: Kazuma arranged the cart and written delivery list; Aqua repaired its loose wooden frame; Megumin prepared clear labels and gave destination information; Darkness carried the bulky boxes safely.",
+        "Kazuma did not write the credit card; the clerk admits using an abbreviated note.",
+        "A corrected card can name all contributions without reducing the agreed total pay.",
+        "A small adult audience is waiting; nobody has yet blamed a member for demanding correction."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The clerk made an innocent mistake; the audience’s private judgments are unknown."
+      ],
+      "canonical_comic_conditions": [
+        "A comic civic meeting with real credit effects, no mind-reading or proof of global worth from one card."
+      ],
+      "transfer_conditions": [
+        "A workplace volunteer meeting with the same facts and correction option, no magic or noble override."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the conversation distribute correction, self-presentation and regard for others without assuming public agreement?",
+        "Can the narrator be questioned without discarding all observed contributions?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Quiet correction, public explanation, joking, disagreement, silence or competing credit claims are possible, with consequences retained."
+      ],
+      "per_subject_private_information": {
+        "Kazuma": [],
+        "Aqua": [],
+        "Megumin": [],
+        "Darkness": []
+      }
+    },
+    {
+      "case_id": "F05-PARTY",
+      "family": "F05",
+      "subjects": [
+        "Kazuma",
+        "Aqua",
+        "Megumin",
+        "Darkness"
+      ],
+      "title": "The injury beside the unfinished job",
+      "relationship_state": "All four remain familiar companions with unresolved particular romantic labels, real irritation, reciprocal history and separate agency. No compulsory leader or universal party indispensability.",
+      "setting": "While the party finishes a paid cleanup, an adult worker outside their group is injured by a falling board.",
+      "party_available_information": [
+        "The injury is real and the worker is conscious but cannot walk alone.",
+        "A staffed care post is five minutes away and can be summoned by a visible signal.",
+        "The remaining paid job takes ten minutes, and the client explicitly permits a delay for assistance.",
+        "No party member caused the falling board, and no hidden enemy is established."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The care post has capacity, but the exact diagnosis is unknown."
+      ],
+      "canonical_comic_conditions": [
+        "Actual healing capability and willingness are model-governed; no cure or exhaustion is assumed before action. Practical transport/signal help remains feasible."
+      ],
+      "transfer_conditions": [
+        "No magical healing; basic instruction card, signal and staffed post remain. No emergency medical certification is invented."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Can readiness, authority, fitted help and moral choice be separated?",
+        "Does a useful act avoid making everyone’s interpretation benevolent or every utterance practical by definition?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Divide duties, summon help, provide bounded care, accompany the worker, argue or fail to help can be assessed; moral and model-consistency judgments are recorded separately."
+      ],
+      "per_subject_private_information": {
+        "Kazuma": [],
+        "Aqua": [],
+        "Megumin": [],
+        "Darkness": []
+      }
+    },
+    {
+      "case_id": "F06-PARTY",
+      "family": "F06",
+      "subjects": [
+        "Kazuma",
+        "Aqua",
+        "Megumin",
+        "Darkness"
+      ],
+      "title": "A known route and an unknown crack",
+      "relationship_state": "All four remain familiar companions with unresolved particular romantic labels, real irritation, reciprocal history and separate agency. No compulsory leader or universal party indispensability.",
+      "setting": "On a planned route, the party hears harmless rattling decorations and then sees a real crack opening in a footbridge beneath an adult traveler.",
+      "party_available_information": [
+        "The decorations cannot reach them. The bridge crack is visible and the traveler asks for help.",
+        "A stable bank, rope and anchor point are reachable without entering the cracked span.",
+        "The party’s own footing is currently safe, but direct entry risks more weight.",
+        "An alternate path can reach the far bank in ten minutes; no exact collapse time is known."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The bridge holds for several minutes if nobody adds weight; models cannot know the hidden timing."
+      ],
+      "canonical_comic_conditions": [
+        "Known magical/physical capacities may affect means but do not establish guaranteed immunity or safe destructive fire near the traveler."
+      ],
+      "transfer_conditions": [
+        "No supernatural capacity, same rope, stable bank and alternate path; normal injury risk."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Do fear, personal risk and a valued companion’s possible intervention remain distinct from the stranger’s actual danger?",
+        "Can disagreement over means coexist with a coherent shared information state?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Rope plan, warning, alternate route, direct rescue, outside help or refusal are possible; invented certainty about collapse is not."
+      ],
+      "per_subject_private_information": {
+        "Kazuma": [],
+        "Aqua": [],
+        "Megumin": [],
+        "Darkness": []
+      }
+    },
+    {
+      "case_id": "F07-PARTY",
+      "family": "F07",
+      "subjects": [
+        "Kazuma",
+        "Aqua",
+        "Megumin",
+        "Darkness"
+      ],
+      "title": "The two-part exhibition",
+      "relationship_state": "All four remain familiar companions with unresolved particular romantic labels, real irritation, reciprocal history and separate agency. No compulsory leader or universal party indispensability.",
+      "setting": "The party must prepare a room and submit a technical safety diagram for a small public exhibition.",
+      "party_available_information": [
+        "The room is eight by six paces, with one two-pace-wide exit and four folding tables. There is no crowd present yet. Decoration, a timetable and an open waiting lane must be arranged.",
+        "The power diagram contains boxes α→β→γ but no symbol legend; a visible label says not to connect them before consulting the legend. A qualified local technician can bring it after lunch.",
+        "The show can be delayed without injury or financial ruin.",
+        "No one is already designated leader or licensed inspector."
+      ],
+      "evaluator_only_hidden_facts": [
+        "One plausible-looking connection is unsafe; the missing legend would reveal it."
+      ],
+      "canonical_comic_conditions": [
+        "Specialist magic, craft or rank does not confer knowledge of unknown local power symbols."
+      ],
+      "transfer_conditions": [
+        "Ordinary venue setup, no magic or new engineering credentials. The same guide/technician boundary holds."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does complementarity include asking outsiders instead of universal four-member necessity?",
+        "Are confidence, competence, learning and delegated responsibility separately observable?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Divide known tasks, wait, ask, test reversibly with permission, bluff or withdraw can be assessed without a preselected organizer."
+      ],
+      "per_subject_private_information": {
+        "Kazuma": [],
+        "Aqua": [],
+        "Megumin": [],
+        "Darkness": []
+      }
+    },
+    {
+      "case_id": "F08-PARTY",
+      "family": "F08",
+      "subjects": [
+        "Kazuma",
+        "Aqua",
+        "Megumin",
+        "Darkness"
+      ],
+      "title": "The next household schedule",
+      "relationship_state": "All four remain familiar companions with unresolved particular romantic labels, real irritation, reciprocal history and separate agency. No compulsory leader or universal party indispensability.",
+      "setting": "The party holds a private meeting after two members separately volunteered another person’s time without asking.",
+      "party_available_information": [
+        "Kazuma volunteered Aqua for decoration from 14:00 to 16:00; Aqua volunteered Darkness for a separate errand in that same interval.",
+        "Both admit making the assumption and neither claims prior consent.",
+        "A group discussion at 19:00 is now proposed. Megumin has not answered whether she is free; nobody else has been told a reason.",
+        "All jobs are optional and reschedulable; everyone can state a boundary without immediate exclusion."
+      ],
+      "evaluator_only_hidden_facts": [
+        "The outside organizers have backup plans unknown to the group."
+      ],
+      "canonical_comic_conditions": [
+        "Familiar comic argument does not erase actual scheduling or privacy boundaries; no forced romance disclosure or expulsion."
+      ],
+      "transfer_conditions": [
+        "A realistic shared-home calendar conversation, with ordinary consequences and no magical reset."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Can nested grievances remain actor-specific rather than collapsed into one victim or universal hypocrisy?",
+        "Does agreement or conflict reflect actual information and agency, with private plans not automatically public?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Apology, rules, bargaining, mutual accusations, selective consent, postponement or unresolved conflict can be coherent."
+      ],
+      "per_subject_private_information": {
+        "Kazuma": [],
+        "Aqua": [],
+        "Megumin": [
+          "She has privately promised Yunyun to meet for a board game at 19:00. She has not told the other three. This hypothetical promise is known only to her until she chooses disclosure."
+        ],
+        "Darkness": []
+      }
+    },
+    {
+      "case_id": "F09-PARTY",
+      "family": "F09",
+      "subjects": [
+        "Kazuma",
+        "Aqua",
+        "Megumin",
+        "Darkness"
+      ],
+      "title": "A reversible role station",
+      "relationship_state": "All four remain familiar companions with unresolved particular romantic labels, real irritation, reciprocal history and separate agency. No compulsory leader or universal party indispensability.",
+      "setting": "An unfamiliar training station lets the four operate one shared public-service display through four interchangeable consoles.",
+      "party_available_information": [
+        "Each of four consoles has identical left, right and confirm controls. A trainer has demonstrated routing a colored visitor token to the matching waiting lane; a wrong input delays a token by one minute and cannot physically trap or injure a visitor.",
+        "The display needs two operators at a time and permits rotation, breaks and refusal. Neither console carries their usual title or unique power.",
+        "A screen gives accurate anonymous group service counts, not individual scores.",
+        "The task is genuinely useful to visitors, but there is no crisis or promise of personal recognition. Nobody is already assigned command."
+      ],
+      "evaluator_only_hidden_facts": [
+        "Feedback is accurate and contains no concealed ranking; participants do not know whether visitors will later request names."
+      ],
+      "canonical_comic_conditions": [
+        "A fixed-function enchanted training device with demonstrated controls. It grants no permanent new powers or guaranteed role obedience."
+      ],
+      "transfer_conditions": [
+        "An ordinary interactive public-information installation, no magic, same training and anonymity."
+      ],
+      "case_specific_causal_voice_questions": [
+        "Does the group reason from unfamiliar equal affordances instead of copying a raid, making Kazuma necessary or forcing every identity to dominate?",
+        "Can play, status, craft, shared effort and withdrawal produce a coherent negotiated configuration without a single correct allocation?"
+      ],
+      "acceptable_response_alternatives_not_predictions": [
+        "Rotate, specialize voluntarily, seek recognition, bargain, demonstrate, refuse or redistribute can be assessed if the task’s two-person requirement and individual agency remain."
+      ],
+      "per_subject_private_information": {
+        "Kazuma": [],
+        "Aqua": [],
+        "Megumin": [],
+        "Darkness": []
+      }
+    }
+  ],
+  "rubric": {
+    "governing_sections": "Reconstruction protocol §§9–10; modes §6; no promotion or source validation by this bank.",
+    "dimensions": [
+      {
+        "id": "R1",
+        "criterion": "Evidence-backed motive",
+        "question": "Which expressed/prior-model motive explains attention and chosen action? Does the explanation cite the sealed model and relevant accepted evidence rather than a trait label alone?"
+      },
+      {
+        "id": "R2",
+        "criterion": "Bias/error mechanism",
+        "question": "What appraisal distortion, shortcut or regulator operated, or is its absence justified? Do not require a failure in every case."
+      },
+      {
+        "id": "R3",
+        "criterion": "Relationship and information",
+        "question": "Which actual relationship/audience modifier mattered? Did the subject act only on available information, preserving other agents’ knowledge and agency?"
+      },
+      {
+        "id": "R4",
+        "criterion": "Mode and consequence",
+        "question": "Is comic amplification source-bounded? Does transfer change physics and available means while preserving motives and accounting for known ordinary harm?"
+      },
+      {
+        "id": "R5",
+        "criterion": "Seriousness boundary",
+        "question": "Is a seriousness override supported, ignored, or invented? A harmful choice can be model-consistent; do not score moral niceness as fidelity."
+      },
+      {
+        "id": "R6",
+        "criterion": "Written voice and function",
+        "question": "Does speech fit speaker/addressee/purpose and ordinary connective needs without catchphrase spam? Separate action from language function; silence can make voice unobservable."
+      },
+      {
+        "id": "R7",
+        "criterion": "Counterfactual sensitivity",
+        "question": "Can a nearby changed fact produce a different response for a stated reason? The listed contrast is a diagnostic discussion, not another independent execution."
+      },
+      {
+        "id": "R8",
+        "criterion": "Uncertainty and alternatives",
+        "question": "Does the model retain missing knowledge, thin source scope and plausible rival paths instead of fabricating certainty or a unique interior motive?"
+      }
+    ],
+    "per_dimension_values": [
+      "SUPPORTED_IN_THIS_EXECUTION",
+      "QUALIFIED_OR_COMPETING_READINGS",
+      "MATERIAL_CONTRADICTION",
+      "NOT_OBSERVABLE"
+    ],
+    "review_record_fields": [
+      "execution_id",
+      "sealed_model_id_and_hash",
+      "pre_execution_model_contract_identity",
+      "actual_prompt_hash",
+      "response_bytes_and_hash",
+      "dimension_findings_with_response_quotes",
+      "model_evidence_routes",
+      "case_specific_questions",
+      "actual_available_vs_hidden_information_violations",
+      "mode_comparison",
+      "alternative_path_and_flip_fact",
+      "moral_consequence_separate_from_consistency",
+      "limitations",
+      "receiving_disagreement"
+    ],
+    "decision_rule": "No aggregate personality accuracy, weighted score or majority vote. Record case-level consistency, qualified tension, material contradiction or unscorable status with reasons. A material contradiction requires a specific known fact, hard capability limit, frozen source constraint or the initial model’s own commitment; disagreement about an OPEN function remains qualified. One vivid failure does not validate a new universal rule. The model’s actual disconfirming condition remains assessable even when other actions were physically feasible. Do not transform an adverse response into confirmation by choosing a different plausible motive after observation.",
+    "adverse_history_guards": [
+      "Keep Gen03 K04 F and later agency distinctions; tears are not a universal brake unless a new model actually defends that condition.",
+      "Keep Gen05 J01 A_SERVICE F with MODERATE pragmatic confidence and real rivals; helpful action is not automatically a practical directive.",
+      "Do not require first role onset, professional work, a particular addressee/name/pronoun, fresh verbal adoption or morphological imperative as a universal floor.",
+      "Do not erase a harmful act through later laughter, survival, repair or affection.",
+      "Do not import D02 whole behavioral antecedents into every dignity-language observation.",
+      "No quota/completed-harem floor repairs K03; admiration, completion and optional continuation remain distinct.",
+      "No frequency or reliability statistic from overlapping cases, common authorship, paired modes or shared evidence."
+    ],
+    "hidden_fact_rule": "Hidden world facts are evaluator-only bookkeeping, not response requirements. Do not penalize uncertainty or a mistaken inference merely because the omniscient evaluator knows the truth. Penalize claiming unprovided certainty only when the model cannot support its access. Hidden facts describe hypothetical settings, not new canon. A character’s mistaken but warranted belief is not failed consistency solely because an assessor knows better. If inquiry is chosen, score the inquiry/conditional plan and leave the unprovided reply or outcome unresolved; do not invent a favorable answer to make a path work.",
+    "voice_rule": "Prefer Japanese written dialogue when the model supports it, with an explanatory gloss if needed. If dialogue is absent or output is only a paraphrase, mark linguistic surface NOT_OBSERVABLE rather than invent an effect. No audio/native-speaker claim and no new L assignment.",
+    "acceptable_alternatives_rule": "Listed alternatives identify feasible response paths; they are not automatic passes, an exhaustive action menu or predicted character answers. Before response generation, reviewers must bind the sealed initial model’s applicable clauses, scope, hard predictions, uncertainty and disconfirming conditions to each fixed case. A merely possible action fails that model’s prediction when its actual guard is met and its specified effect is contradicted. Do not add conditions or switch explanation after seeing the output. A response outside listed alternatives can pass only when fixed facts and the actual model commitments support it. Moral approval remains separate from fidelity; a source-uncharacteristic nice response can fail and a harmful coherent response can still be adverse to a claimed brake.",
+    "pre_execution_model_contract_required": {
+      "state": "UNFILLED_UNTIL_INITIAL_MODELS_SEALED_AND_BANK_RELEASED",
+      "fields": [
+        "execution_id",
+        "exact_initial_model_hash",
+        "applicable_clause_quotes_and_locations",
+        "source_route_and_scope",
+        "matched_antecedents",
+        "missing_or_uncertain_antecedents",
+        "predicted_observable_direction_or_bounded_set",
+        "explicit_disconfirming_response",
+        "justified_acceptable_alternatives",
+        "voice_and_action_separately",
+        "reviewer_and_timestamp_before_response"
+      ],
+      "rule": "Derive this entry from the already sealed model before generating or reading its case response. Do not alter case facts, old forecasts or initial model bytes. If the model is too underspecified to yield an assessable commitment, record UNTESTABLE_MODEL_SCOPE rather than allowing every action to count as success. Genuine qualified outcomes and adverse responses remain. Any later model refinement is versioned outside the baseline."
+    }
+  },
+  "counts": {
+    "families": 9,
+    "main_subjects": 4,
+    "individual_cases": 36,
+    "individual_executions_two_modes": 72,
+    "party_cases": 9,
+    "party_executions_two_modes": 18,
+    "all_executions": 90
+  }
+}
