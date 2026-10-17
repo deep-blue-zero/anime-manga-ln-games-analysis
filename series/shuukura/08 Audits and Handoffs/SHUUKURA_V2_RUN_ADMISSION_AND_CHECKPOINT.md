@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "SHUUKURA-V2-20261017-I1; preserved admission/V01/V02 checkpoints, verified V02 publication and V03 complete-unit/quarter checkpoint"
+source_boundary: "SHUUKURA-V2-20261017-I1; preserved admission/V01–V03 checkpoints, verified V03 publication and V04 complete-unit checkpoint"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: V03_SOURCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
+review_status: V04_SOURCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -175,3 +175,42 @@ Transaction **SHUUKURA-TX-LN-JP-V03-20261017-A1** becomes completed only in its 
 | Next operation | Both machine-recognized next fields LN-JP-V04; recover complete introducing commit then freeze/inspectV04/sourceorder, update all canonical homes atomically and continue. Run remains active; no later publication admitted |
 
 Revision0.4: append V02 green publication, V03 complete recovery state and first LN-quarter review. All earlier checkpoints and frozen readings remain preserved. Completing this unit/quarter review is not an instruction to stop the authorized full program.
+
+
+## Verified V03 publication and reconciliation before V04
+
+V03 source5333d51dfc0ed0ad32f2012bfff28631209f5c24/treef86debe363264823ec4d23078410912c64ccbbf5 merged through [PR199](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/199) as maina532b3b7c7f7b0441575613a443f1adf73b8aca9. Complete source/integration trees equal; no intervening side changes at pre-V04 reconciliation. Ordinary mergebc88f3bdf1e68d6ad256f805a29191a8abfc7324 preserves both histories and same tree. No accepted V01–V03 reading/audit changed.
+
+| V03 publication stage | Exact verified result |
+| --- | --- |
+| Source audit | [39014215954](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39014215954), completed success at actual5333d51d |
+| Housekeeping | [39014436039](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39014436039), success/no-op, actual SOURCE_SHA/branch/final dispatch verified. Other-branch39014442967 is not Shuukura evidence |
+| Final source audit | [39014457833](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39014457833), success/status target5333d51d, not displayed dispatch-main metadata |
+| Owner-controlled nightly | [39014786820](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39014786820), success/merged_verified/VERIFIED_OWNER_ONLY at exact source5333/base5233/integrationa532 tuple |
+| Explicit postmerge audit | [39014862504](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39014862504), repository_dispatch completed/success, exact integrationa532, PASS7980paths/status published. Main pushaudit39014848043 also successful |
+
+V03 is CLOSED_ON_GREEN_MAIN. Original V04 entering note correctly recorded publication pending at its time; these later facts do not alter that freeze. Analysis preparation did not publish a second tranche before source/housekeeping/final audit closure.
+
+## Durable checkpoint after V04
+
+Transaction **SHUUKURA-TX-LN-JP-V04-20261017-A1** is complete only in its whole introducing commit. The [unit audit](SHUUKURA_V2_LN_V04_TRANSACTION_AUDIT.md) binds all ten substantive/maintained artifact hashes. Resolve actual introducing commit/tree after any interruption; this checkpoint cannot include its own future commit hash.
+
+| Recoverable field | State after complete introducing V04 commit |
+| --- | --- |
+| Authority/run | continuous_sequential/active/startLN-JP-V01/terminalSHUUKURA-V2-20261017-I1 plus required later outputs/no ordinary confirmation |
+| Repository | Prior5333d51dfc0ed0ad32f2012bfff28631209f5c24/integrateda532b3b7c7f7b0441575613a443f1adf73b8aca9/equal whole treef86debe363264823ec4d23078410912c64ccbbf5; ordinary pre-V04 mergebc88f3bdf1e68d6ad256f805a29191a8abfc7324; actual new introducing commit resolved by transaction identity |
+| Governing versions | Method/architecture/reconstruction0.2, inventory/current0.8, four ledgers/checkpoint0.5. I1JSON6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95 unchanged |
+| Exact witness/map | LN-JP-V04/ACQUIRED-20261017-A1/Drive1C2bALN18lmmMNKTfLn01GYHd-IRJE9mF/9,511,489bytes/original57371b889a0f97f77003fb093857323445e06890b588739761c0d6694912dcea/locatorb17ea7993bb9f3a2f252d344e50cad6937f6560390589b296707c102c09dbdc2 in verified package1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju |
+| Actual inspection |28spines/3908paragraph anchors/21original images/482ruby; CRC/source/member/p/image integrity reverified, zero replacement/outside-flow omission, no credited source-order exception |
+| High-water/lanes | LN-JP-V04 /4of9; externalSSNONE0/18; KakuyomuNONE0/431; NarōcorrespondenceNONE0/290; available4/458, not comprehensive source/synthesis completion |
+| Frozen entering/exiting | EnterSHUUKURA-LN04-ENTER-20261017-A1@2026-10-17T07:36:55.840648Z/previous5333/ten artifact hashes; opening68c5f3ab26e4200e9992b9eb6de097db8b975ed2b3d92bbfe43d0e9b24a77302. Complete original journal93189512960ff2f33092d8b7ab82f51bd48a592d79c34dd90fd583f2639a627e/F0–F12; exitSHUUKURA-LN04-EXIT-20261017-A1 |
+| Latest literary time | After March graduation/four-year roommate assent, internal packing bonus before move/college entry; December23–24 interlude is later disclosure of earlier events, not latest-time reset |
+| Cumulative state | M/S-V04-EXIT/three V04 directional histories,32character events/31relationship/26access,52proposition versions(18newIDs)/19tensions,29rule versions(11newIDs).30claimIDs/86formulations/nine different-kind forecasts |
+| Reconstruction | Original M0.2/S0.2 full prefixes unchanged; M0.3 December first communication preferred text FAILED at explicit defer, S0.3 lateJanuary cooking accepted but literal baseline also matched. Full before-outcome records b15b7be8e102bc07f8d1cd6345a21b4a8237daee5a0f996ef8897ce99c12a793/8d0c5cd4f9e8ab2b998dc39fc8981c4ca0f7a176d5169967a309901bde45c9f8 preserved verbatim. Historical S0.1failure/qualifiedmatch retained. Current lateMarch0.4 candidates untested/noncurrent/no independent accepted or validated domain |
+| Material open questions | Actual household rules/life/move/college entry, financing/contract/keys, S meaning of credible end-veto untested, M father's roommate knowledge, supporting disclosure, broader reliable refusal practices, full mutual emotional category, V02 weather and old parent ellipsis qualified-father preference |
+| Source duties/blockers |51unavailable source identities/27finite discovery records/290Narōcorrespondences; fullvoice scripts/audio unacquired. Chapter9 identical voice-title not equivalence proof. All independent LN/SS/web/reconciliation/monograph/specialist/reconstruction/V1/integrated/release duties remain |
+| Exposure | V04 preview publichands/bedding/name categories excluded from blind credit; V05 advertisement university/cohabitation/rulechange exposed. No V05+ fiction/externalSS/web/V1 interpretation inspected; do not claim globally blank pretrained familiarity |
+| Publication | V01–V03 closed on greenmain; V04 needs own final authorpreflight/approvedidentity/live two rulesets+bothheads/remote readback/sourceaudit/housekeeping/final actual-head audit/eligible owner-nightly/explicit main audit before Gitclosure |
+| Next authorized operation | Both machine next fields LN-JP-V05; recover whole V04 transaction, freeze V05 actual witness/entering knowledge then read ordered full source and synchronize. Novel-half review at V05, later V07/V09 and separate available/SS/web milestones. No stop at this unit/phase |
+
+Revision0.5: preserve complete earlier checkpoint body and append V03 verified public closure plus whole V04 recovery. Source, longitudinal and model limitations remain explicit; no broader phase is prematurely completed.
