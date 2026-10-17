@@ -1,0 +1,31 @@
+{
+  "recorded_utc": "2026-10-17T14:47:38.893480+00:00",
+  "state": "ATTRIBUTABLE_POST_FIRST_RESPONSE_BINDING_METADATA_ERRATUM_ORIGINALS_UNCHANGED",
+  "author": "same case/binding author /root/v14_semantic_resume",
+  "mode_alias_error": {
+    "wrong_dispatch_literal": "CROSS_CONTEXT_TRANSFER",
+    "actual_fixed_value": "TRANSFER",
+    "affected_constraint": "R1-T01 eligibility label only",
+    "affected_execution_views": 45,
+    "affected_unique_case_settings": 45,
+    "unaltered_other_mode_views": 45,
+    "other_T_label_fields_affected": false,
+    "behavioral_or_valuation_eligibility_labels_affected": false,
+    "fixed_mode_and_specific_conditions_affected": false,
+    "source_model_rule_body_or_adverse_text_affected": false,
+    "explanation": "Every original TRANSFER input and its no-magic facts remain correct. The explanatory T01 rule body already explicitly states transfer known-absence semantics. The helper used the canonical/supplied-capability label for both modes. This is a baseline-author metadata defect, not an owner response failure. No original label is retrospectively changed, and no behavioral success is credited from a corrected interpretation."
+  },
+  "separate_stakes_copy_scope": {
+    "binding_field": "actual_available_information copies the original available_information list; it does not duplicate the separate original prompt stakes field.",
+    "individual_settings_with_additional_nonduplicated_stakes": 1,
+    "case_id": "F05-M",
+    "affected_mode_views": 2,
+    "actual_fixed_facts": "Three-minute signature at nearby desk; two-minute walk each way/four-minute round trip; separate ten-minute start condition.",
+    "facts_preserved_in_original_bank_and_exact_owner_prompt_cores": true,
+    "why_not_response_error": "P correctly uses these supplied facts. Original prompt/core hash routes remain authoritative for full knowledge. No full M conditional was prebound; no outcome category or goal/exception is changed."
+  },
+  "fixed_bank_models_contracts_codes_and_sealed_bindings_changed": false,
+  "actual_first_responses_changed": false,
+  "source_or_holdout_exposure_added": false,
+  "self_QA_opened_before_this_finding": false
+}

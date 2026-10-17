@@ -1,0 +1,90 @@
+{
+  "schema": "konosuba/fixed-case-bank-metadata-only-handoff/v1",
+  "sealed_at_utc": "2026-10-17T13:27:02.914067+00:00",
+  "stage": "FIXED_PRIVATE_CASES_READY_INITIAL_MODELS_UNRECEIVED_NO_RESPONSES",
+  "counts": {
+    "required_families": 9,
+    "subject_specific_cases": 36,
+    "main_subjects": 4,
+    "subject_executions_two_modes": 72,
+    "party_cases": 9,
+    "party_executions_two_modes": 18,
+    "total_prepared_executions": 90,
+    "actual_executed_responses": 0
+  },
+  "family_coverage": "All nine reconstruction protocol§9 families; exactly four individual subjects and one bounded party case per family, each in both protocol§6 modes.",
+  "private_do_not_open_until_boundary_release": [
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/SEALED_EVALUATOR_CASE_BANK_PRIVATE.json",
+      "bytes": 130801,
+      "sha256": "1d88c6f5356adcb8b54bb401952be9b4b83f046a4aa141755af4a14e04e74e9f"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/SEALED_EXECUTABLE_PROMPTS_PRIVATE.json",
+      "bytes": 304159,
+      "sha256": "a0e260030457c940f06412c33894a86a69ba1aa301044af87ab9e9ab6f60674c"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/SEALED_FULL_CASE_BANK_PRIVATE.md",
+      "bytes": 103200,
+      "sha256": "e9961d41e54e385517f13864af9426ff1763ceaeb4b4c5d23b019807649eb36a"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/EXECUTION_MODEL_BINDINGS_UNFILLED_PRIVATE.json",
+      "bytes": 27089,
+      "sha256": "cbceb05c1ae7521e9d06615ef5e594f0d5373e7c5958d826e2dafecdd46af1f5"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/PRESEAL_QUALITY_OPERATIONS_PRIVATE.json",
+      "bytes": 36516,
+      "sha256": "90a42c5cd2598f94f156b6882c9a0febb1e58d3c2a49dc1e37c65dd8ae56c898"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/PRIVATE_AUTHOR_CASE_QA.json",
+      "bytes": 14176,
+      "sha256": "2d1f736375a5ee924a9aa60d3c5cb7b78811994210388b64f8374cc47847633b"
+    }
+  ],
+  "safe_scope_record": {
+    "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/AUTHOR_SCOPE_AND_RELEASE_LIMITS.md",
+    "bytes": 6442,
+    "sha256": "e2b70a52e7160908de58e36d78de1f92e4529c7e4fe304c3b710dc3650bb9064"
+  },
+  "gate_scope_metadata": {
+    "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/ENTERING_GATE_AND_PROTOCOL_SCOPE.json",
+    "bytes": 2480,
+    "sha256": "eb4e628c0c9f09be9a6fe486247d27d069545e636cebda9ad916f6041e8893a0"
+  },
+  "postgate_metadata": {
+    "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/POST_GATE_RELOAD_ADDENDUM_METADATA.json",
+    "bytes": 3436,
+    "sha256": "2818e0895f4edcb6e06a627e9fdb7c96347b01e7f091f100f5633ac95325172e"
+  },
+  "scripts": [
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/build_case_bank.py",
+      "bytes": 83205,
+      "sha256": "3660c0b1e073cc264efbcd017aa086ee3fb8826a38ad5173bd08cbde3e4ab749"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/finish_preseal_quality.py",
+      "bytes": 19950,
+      "sha256": "e598d06b6beee0e3ad7ba72b7d64602f6a42040feb7ab8b6c5246ca26c39939d"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/verify_and_seal_bank.py",
+      "bytes": 10072,
+      "sha256": "593f3151dece22c58fb65d9fa423dc27338bbeabaa99c8d7d2108d860845cee7"
+    }
+  ],
+  "readiness": "All45 settings and90 prompt packets concretely fixed, complete author readback and structural/inverse/leakage checks. Eight causal/voice dimensions, owner-information masks, hidden-fact discipline and pre-response model-contract requirement. No response evaluation or initial model receiving begun.",
+  "release_condition": "Root/P/I must not open actual private files until initial model arguments/forecast/settings seals are verified and root releases bank exchange. Evaluate only after actual models received and explicit execution release. Specialist gate is now closed but does not itself release prompts.",
+  "limitations": [
+    "Informed same-lineage author knows accepted main evidence, authored two specialists and peer-received Aqua/Megumin plus shared preparation; not fresh blind/statistically independent.",
+    "Novel hypothetical consistency probes, not primary source events, source validation or a new denominator.",
+    "Feasible alternative actions are not automatic passes; sealed model scope and disconfirmation remain assessable.",
+    "Hidden truths do not retroactively become character knowledge or grounds to penalize warranted ignorance.",
+    "No holdout/excluded/expanded narrative or images; no canonical/Git mutation.",
+    "No initial model authorship, response generation, scoring, suite freeze or publication acceptance by this preparation."
+  ]
+}

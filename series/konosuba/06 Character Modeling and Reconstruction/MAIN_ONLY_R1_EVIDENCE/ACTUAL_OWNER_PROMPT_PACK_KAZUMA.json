@@ -1,0 +1,834 @@
+{
+  "state": "SEALED_SAFE_OWNER_PROMPT_PACK_DO_NOT_OPEN_UNTIL_EXPLICIT_ROOT_EXECUTION_RELEASE",
+  "owner": "root",
+  "execution_count": 18,
+  "scope": "Generation input only. No evaluator-hidden facts, expected answers, binding results, eligibility labels, adverse signatures or rubric notes included.",
+  "model_version_rule": "Use the exact received MAIN_ONLY_R1 model bytes pinned per execution. The unchanged fixed prompt’s phrase sealed initial model means this received pre-response R1 baseline, with its initial-author version preserved separately; it does not authorize a new model revision.",
+  "operation_rule": "Do not generate now. After explicit release, generate independently from each fixed prompt/model. Do not open evaluator bank, binding files or other owner responses for generation. Maintain post-MAIN17 hypothetical slice and mode; do not carry prior-case learning. Any private information displayed in a party prompt belongs only to its named character, not the whole group.",
+  "generation_identity_disambiguation": {
+    "project_reconstruction_generation": "V1",
+    "reconstruction_model_version": "MAIN_ONLY_R1",
+    "historical_prose_alias": "Some quoted root prose uses model_generation MAIN_ONLY_R1 as an alias. It does not rename project generation V1, create Gen06 or imply project V2. Exact baseline bytes are preserved."
+  },
+  "response_record_fields": [
+    "execution_id",
+    "case_id",
+    "mode",
+    "subjects",
+    "exact_received_model_identity",
+    "actual_runtime_model_and_reasoning_settings_or_UNKNOWN",
+    "bounded_next_beat_action_and_optional_dialogue",
+    "outside_scene_attention_and_appraisal",
+    "model_clause_basis",
+    "competing_motives",
+    "relationship_and_actual_information_access",
+    "relevant_resources_capability_and_mode_limits",
+    "one_plausible_alternative",
+    "fact_that_would_change_choice",
+    "unresolved_reply_or_physical_result"
+  ],
+  "runtime_record_required": "Record the actual exposed model identifier/reasoning settings if observable; otherwise UNKNOWN. Never claim source independence, human/native expertise or heldout predictive success. These fields implement the unchanged fixed prompt’s output contract; they add no desired answer or scenario fact.",
+  "executions": [
+    {
+      "execution_id": "F01-K-CC",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F01-K-CC",
+        "case_id": "F01-K",
+        "family": "F01",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "CANONICAL_COMIC",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Hypothetical new situation compatible with the admitted main world, not an assertion of a missing canonical event. Use actual source-supported capabilities and actual current readiness/consent/limits, modified by explicit case conditions. Comic display can amplify expression but does not erase named injuries, ownership, deadlines or agency.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "Kazuma is collecting a repaired household latch with Megumin. The shop has a seated queue and a standing express queue.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Megumin"
+          ],
+          "current_state": "He is comfortable, hungry and carrying no urgent duty. Megumin has promised to be home before the cook closes the kitchen in forty minutes."
+        },
+        "available_information": [
+          "The seated queue is estimated at thirty minutes; express is ten minutes but costs two of his six errand tokens.",
+          "A clerk will hold the repaired latch until tomorrow without fee.",
+          "Megumin says she can wait or return tomorrow, and asks which queue he wants; she does not threaten or flatter him.",
+          "The group has food at home. Missing this cook means making their own meal, not hunger or injury."
+        ],
+        "specific_mode_conditions": [
+          "An ordinary Axel craft shop; no shown skill can skip its permission-based collection process. Both queues remain real.",
+          "A comic display is allowed but damage/theft would create an actual liability."
+        ],
+        "stakes": "He is comfortable, hungry and carrying no urgent duty. Megumin has promised to be home before the cook closes the kitchen in forty minutes.",
+        "prompt_core_sha256_compact_sorted": "a9187d7af72708cc4203293517aeec0366cfa9e4929f1e91d074e640ae3b6839"
+      }
+    },
+    {
+      "execution_id": "F01-K-TR",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F01-K-TR",
+        "case_id": "F01-K",
+        "family": "F01",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "TRANSFER",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Same person-level goals, relationships, appraisals and memory of the admitted main history, explicitly informed that the local world has no usable magic, resurrection, supernatural luck, class buffs or comic injury immunity. Their unfamiliarity is retained. Do not grant equivalent real-world professional expertise by analogy. Case-specific ordinary tools replace means transparently; motives and stakes are not deleted to make behavior polite or bland.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "Kazuma is collecting a repaired household latch with Megumin. The shop has a seated queue and a standing express queue.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Megumin"
+          ],
+          "current_state": "He is comfortable, hungry and carrying no urgent duty. Megumin has promised to be home before the cook closes the kitchen in forty minutes."
+        },
+        "available_information": [
+          "The seated queue is estimated at thirty minutes; express is ten minutes but costs two of his six errand tokens.",
+          "A clerk will hold the repaired latch until tomorrow without fee.",
+          "Megumin says she can wait or return tomorrow, and asks which queue he wants; she does not threaten or flatter him.",
+          "The group has food at home. Missing this cook means making their own meal, not hunger or injury."
+        ],
+        "specific_mode_conditions": [
+          "A contemporary repair counter; no magic, luck control or immunity from ordinary shop rules.",
+          "The characters understand the six-token choice and have no unfamiliar device to operate."
+        ],
+        "stakes": "He is comfortable, hungry and carrying no urgent duty. Megumin has promised to be home before the cook closes the kitchen in forty minutes.",
+        "prompt_core_sha256_compact_sorted": "002d33f2d78bd8798fce68ec6686fa03c3dbc6dd35eeb298b3d16042e52d23cf"
+      }
+    },
+    {
+      "execution_id": "F02-K-CC",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F02-K-CC",
+        "case_id": "F02-K",
+        "family": "F02",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "CANONICAL_COMIC",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Hypothetical new situation compatible with the admitted main world, not an assertion of a missing canonical event. Use actual source-supported capabilities and actual current readiness/consent/limits, modified by explicit case conditions. Comic display can amplify expression but does not erase named injuries, ownership, deadlines or agency.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "A small delivery job pays Kazuma twelve tokens. Aqua says the shared basket broke during the delivery and asks for four to replace it.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Aqua",
+            "Darkness"
+          ],
+          "current_state": "He had planned to spend eight on a private game item. Darkness is present but has not volunteered to fund either expense."
+        },
+        "available_information": [
+          "The basket belongs jointly to the household and the delivery used it with consent.",
+          "Kazuma saw the handle already fraying; Aqua carried it normally.",
+          "A new basket costs four, a repair costs two and lasts at least a month.",
+          "The game item is available for a week; neither price nor availability will change today."
+        ],
+        "specific_mode_conditions": [
+          "Tokens are an agreed small Eris-equivalent budget; no commercial windfall or infinite payout can be invented.",
+          "Negotiation does not erase joint ownership or transfer costs by narrator fiat."
+        ],
+        "stakes": "He had planned to spend eight on a private game item. Darkness is present but has not volunteered to fund either expense.",
+        "prompt_core_sha256_compact_sorted": "f33e68856b65199d1ab7012b20d4c711985769a3b3e8dd3c56768aabb7a5d44f"
+      }
+    },
+    {
+      "execution_id": "F02-K-TR",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F02-K-TR",
+        "case_id": "F02-K",
+        "family": "F02",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "TRANSFER",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Same person-level goals, relationships, appraisals and memory of the admitted main history, explicitly informed that the local world has no usable magic, resurrection, supernatural luck, class buffs or comic injury immunity. Their unfamiliarity is retained. Do not grant equivalent real-world professional expertise by analogy. Case-specific ordinary tools replace means transparently; motives and stakes are not deleted to make behavior polite or bland.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "A small delivery job pays Kazuma twelve tokens. Aqua says the shared basket broke during the delivery and asks for four to replace it.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Aqua",
+            "Darkness"
+          ],
+          "current_state": "He had planned to spend eight on a private game item. Darkness is present but has not volunteered to fund either expense."
+        },
+        "available_information": [
+          "The basket belongs jointly to the household and the delivery used it with consent.",
+          "Kazuma saw the handle already fraying; Aqua carried it normally.",
+          "A new basket costs four, a repair costs two and lasts at least a month.",
+          "The game item is available for a week; neither price nor availability will change today."
+        ],
+        "specific_mode_conditions": [
+          "A small real-world cash bonus; same twelve/four/two/eight arithmetic, no magic or supernatural bargaining leverage."
+        ],
+        "stakes": "He had planned to spend eight on a private game item. Darkness is present but has not volunteered to fund either expense.",
+        "prompt_core_sha256_compact_sorted": "abf32c52566ee6e8329bcd371bfec5d282620cec0b222b5377979a1b33a63084"
+      }
+    },
+    {
+      "execution_id": "F03-K-CC",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F03-K-CC",
+        "case_id": "F03-K",
+        "family": "F03",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "CANONICAL_COMIC",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Hypothetical new situation compatible with the admitted main world, not an assertion of a missing canonical event. Use actual source-supported capabilities and actual current readiness/consent/limits, modified by explicit case conditions. Comic display can amplify expression but does not erase named injuries, ownership, deadlines or agency.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "A new adult courier asks Kazuma how to organize a delivery route, calling his previous small delivery efficient. Megumin is present.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Megumin"
+          ],
+          "current_state": "The courier is polite and impressed but does not ask for an adventure or romantic favor. Kazuma has half an hour free."
+        },
+        "available_information": [
+          "The printed map has these walking times: start→A five minutes, A→B six, B→C eight, start→B twelve, A→C fifteen. Each handover takes two minutes. Deadlines from now are A fifteen, B twenty-five and C forty minutes.",
+          "The map marks a possible B→C alley shortcut as three minutes with a question mark. The courier has not verified whether it is open; a clerk nearby can answer.",
+          "Helping earns no promised pay; taking over the route is not requested.",
+          "The courier’s admiration refers to a real observed ordinary task, not a heroic story."
+        ],
+        "specific_mode_conditions": [
+          "A mundane Axel route with ordinary skill options; no guarantee his intuition resolves the unknown alley without inquiry."
+        ],
+        "stakes": "The courier is polite and impressed but does not ask for an adventure or romantic favor. Kazuma has half an hour free.",
+        "prompt_core_sha256_compact_sorted": "dd9a39ea8796986b70abe817a9fd5aadd48bd14d174d058ee052ea3a6edb23b4"
+      }
+    },
+    {
+      "execution_id": "F03-K-TR",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F03-K-TR",
+        "case_id": "F03-K",
+        "family": "F03",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "TRANSFER",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Same person-level goals, relationships, appraisals and memory of the admitted main history, explicitly informed that the local world has no usable magic, resurrection, supernatural luck, class buffs or comic injury immunity. Their unfamiliarity is retained. Do not grant equivalent real-world professional expertise by analogy. Case-specific ordinary tools replace means transparently; motives and stakes are not deleted to make behavior polite or bland.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "A new adult courier asks Kazuma how to organize a delivery route, calling his previous small delivery efficient. Megumin is present.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Megumin"
+          ],
+          "current_state": "The courier is polite and impressed but does not ask for an adventure or romantic favor. Kazuma has half an hour free."
+        },
+        "available_information": [
+          "The printed map has these walking times: start→A five minutes, A→B six, B→C eight, start→B twelve, A→C fifteen. Each handover takes two minutes. Deadlines from now are A fifteen, B twenty-five and C forty minutes.",
+          "The map marks a possible B→C alley shortcut as three minutes with a question mark. The courier has not verified whether it is open; a clerk nearby can answer.",
+          "Helping earns no promised pay; taking over the route is not requested.",
+          "The courier’s admiration refers to a real observed ordinary task, not a heroic story."
+        ],
+        "specific_mode_conditions": [
+          "A pedestrian route in an unfamiliar but plainly mapped district; no GPS expertise or professional logistics credentials are assumed."
+        ],
+        "stakes": "The courier is polite and impressed but does not ask for an adventure or romantic favor. Kazuma has half an hour free.",
+        "prompt_core_sha256_compact_sorted": "657313eced75fd007b075c3792c325b5cd2485b2c5f8e77c6e50220547e01bab"
+      }
+    },
+    {
+      "execution_id": "F04-K-CC",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F04-K-CC",
+        "case_id": "F04-K",
+        "family": "F04",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "CANONICAL_COMIC",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Hypothetical new situation compatible with the admitted main world, not an assertion of a missing canonical event. Use actual source-supported capabilities and actual current readiness/consent/limits, modified by explicit case conditions. Comic display can amplify expression but does not erase named injuries, ownership, deadlines or agency.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "At a small guild notice-reading, a clerk quotes Kazuma saying he wanted the easiest job. Darkness knows he also said he would take a difficult necessary part if no one else could.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Darkness"
+          ],
+          "current_state": "Six acquaintances laugh; he sees both the social opening and the missing qualification. No job or legal charge is at stake."
+        },
+        "available_information": [
+          "The clerk accidentally omitted the second line and offers him the floor.",
+          "Darkness does not correct it for him and asks quietly whether he wants her to read the full note.",
+          "The full written note is in his pocket.",
+          "The first clause really was his; denying ever saying it would contradict the supplied fact."
+        ],
+        "specific_mode_conditions": [
+          "A comic guild audience; social overstatement is possible, but mind control or a conveniently ringing truth device is not available."
+        ],
+        "stakes": "Six acquaintances laugh; he sees both the social opening and the missing qualification. No job or legal charge is at stake.",
+        "prompt_core_sha256_compact_sorted": "f278a6d88f055d663115ad06ed4e7a8e769d0d4e121de2f6c39b1056ceb4a2b0"
+      }
+    },
+    {
+      "execution_id": "F04-K-TR",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F04-K-TR",
+        "case_id": "F04-K",
+        "family": "F04",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "TRANSFER",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Same person-level goals, relationships, appraisals and memory of the admitted main history, explicitly informed that the local world has no usable magic, resurrection, supernatural luck, class buffs or comic injury immunity. Their unfamiliarity is retained. Do not grant equivalent real-world professional expertise by analogy. Case-specific ordinary tools replace means transparently; motives and stakes are not deleted to make behavior polite or bland.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "At a small guild notice-reading, a clerk quotes Kazuma saying he wanted the easiest job. Darkness knows he also said he would take a difficult necessary part if no one else could.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Darkness"
+          ],
+          "current_state": "Six acquaintances laugh; he sees both the social opening and the missing qualification. No job or legal charge is at stake."
+        },
+        "available_information": [
+          "The clerk accidentally omitted the second line and offers him the floor.",
+          "Darkness does not correct it for him and asks quietly whether he wants her to read the full note.",
+          "The full written note is in his pocket.",
+          "The first clause really was his; denying ever saying it would contradict the supplied fact."
+        ],
+        "specific_mode_conditions": [
+          "A work-club notice reading with ordinary reputation effects, no magic or broad legal immunity."
+        ],
+        "stakes": "Six acquaintances laugh; he sees both the social opening and the missing qualification. No job or legal charge is at stake.",
+        "prompt_core_sha256_compact_sorted": "ccfe029a2c6388b652215e2cf2f5186160b23d0cd1e5f9d54e8fba5545e93038"
+      }
+    },
+    {
+      "execution_id": "F05-K-CC",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F05-K-CC",
+        "case_id": "F05-K",
+        "family": "F05",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "CANONICAL_COMIC",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Hypothetical new situation compatible with the admitted main world, not an assertion of a missing canonical event. Use actual source-supported capabilities and actual current readiness/consent/limits, modified by explicit case conditions. Comic display can amplify expression but does not erase named injuries, ownership, deadlines or agency.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "Kazuma and Aqua see an adult errand worker being held in a shop until they pay for goods a supervisor ordered them to carry.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Aqua"
+          ],
+          "current_state": "The worker is distressed and missing the last ordinary ride home. Kazuma can spend ten minutes establishing the order, which will forfeit his own place at a game table."
+        },
+        "available_information": [
+          "Kazuma personally saw the supervisor sign the order and can identify the page in the shop book.",
+          "The book is on a public counter, and the shopkeeper offers to release the worker if the order is shown.",
+          "No violence or theft is needed; the worker asks him directly for that limited help.",
+          "Aqua is available as a witness but did not see the signing herself."
+        ],
+        "specific_mode_conditions": [
+          "The shop uses a normal written book; no new lie detector or coercive skill automatically resolves motives."
+        ],
+        "stakes": "The worker is distressed and missing the last ordinary ride home. Kazuma can spend ten minutes establishing the order, which will forfeit his own place at a game table.",
+        "prompt_core_sha256_compact_sorted": "ce3803859d557fd4d9931018c0614f798e75849d1113366787d20204160a65cc"
+      }
+    },
+    {
+      "execution_id": "F05-K-TR",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F05-K-TR",
+        "case_id": "F05-K",
+        "family": "F05",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "TRANSFER",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Same person-level goals, relationships, appraisals and memory of the admitted main history, explicitly informed that the local world has no usable magic, resurrection, supernatural luck, class buffs or comic injury immunity. Their unfamiliarity is retained. Do not grant equivalent real-world professional expertise by analogy. Case-specific ordinary tools replace means transparently; motives and stakes are not deleted to make behavior polite or bland.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "Kazuma and Aqua see an adult errand worker being held in a shop until they pay for goods a supervisor ordered them to carry.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Aqua"
+          ],
+          "current_state": "The worker is distressed and missing the last ordinary ride home. Kazuma can spend ten minutes establishing the order, which will forfeit his own place at a game table."
+        },
+        "available_information": [
+          "Kazuma personally saw the supervisor sign the order and can identify the page in the shop book.",
+          "The book is on a public counter, and the shopkeeper offers to release the worker if the order is shown.",
+          "No violence or theft is needed; the worker asks him directly for that limited help.",
+          "Aqua is available as a witness but did not see the signing herself."
+        ],
+        "specific_mode_conditions": [
+          "A real shop with a readable order book; no legal credentials are conferred, but a witness can point out the page."
+        ],
+        "stakes": "The worker is distressed and missing the last ordinary ride home. Kazuma can spend ten minutes establishing the order, which will forfeit his own place at a game table.",
+        "prompt_core_sha256_compact_sorted": "925c64201eda20a3cd842bf82ad033ac34275ad9a9bf212c1031e6fd3a11fe9f"
+      }
+    },
+    {
+      "execution_id": "F06-K-CC",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F06-K-CC",
+        "case_id": "F06-K",
+        "family": "F06",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "CANONICAL_COMIC",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Hypothetical new situation compatible with the admitted main world, not an assertion of a missing canonical event. Use actual source-supported capabilities and actual current readiness/consent/limits, modified by explicit case conditions. Comic display can amplify expression but does not erase named injuries, ownership, deadlines or agency.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "Kazuma and Darkness are crossing a small storage yard. Harmless hanging shells rattle loudly beside a narrow gate; beyond it a cart has begun rolling toward Megumin.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Megumin",
+            "Darkness"
+          ],
+          "current_state": "The sound is startling but explicitly harmless. The cart is a credible bodily danger to a valued companion, and stopping it exposes a rescuer to a lesser real risk."
+        },
+        "available_information": [
+          "Kazuma can see a brake lever beside him; pulling it should stop the cart if the intact cable works.",
+          "A supervisor says the cable was checked that morning; its current state is not visible.",
+          "Calling out can give Megumin time to move; she has an open route on her left.",
+          "Darkness is near a wheel chock but has not yet acted. Nobody is trapped without options."
+        ],
+        "specific_mode_conditions": [
+          "Kazuma has his demonstrated available skills, but no automatic successful Snipe/Steal effect on an unspecified cart part. Ordinary lever/chock/voice options remain."
+        ],
+        "stakes": "The sound is startling but explicitly harmless. The cart is a credible bodily danger to a valued companion, and stopping it exposes a rescuer to a lesser real risk.",
+        "prompt_core_sha256_compact_sorted": "84060401aceefe78c429b26189f99b98bda37a42ea1f69c91ca215e16bba0d69"
+      }
+    },
+    {
+      "execution_id": "F06-K-TR",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F06-K-TR",
+        "case_id": "F06-K",
+        "family": "F06",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "TRANSFER",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Same person-level goals, relationships, appraisals and memory of the admitted main history, explicitly informed that the local world has no usable magic, resurrection, supernatural luck, class buffs or comic injury immunity. Their unfamiliarity is retained. Do not grant equivalent real-world professional expertise by analogy. Case-specific ordinary tools replace means transparently; motives and stakes are not deleted to make behavior polite or bland.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "Kazuma and Darkness are crossing a small storage yard. Harmless hanging shells rattle loudly beside a narrow gate; beyond it a cart has begun rolling toward Megumin.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Megumin",
+            "Darkness"
+          ],
+          "current_state": "The sound is startling but explicitly harmless. The cart is a credible bodily danger to a valued companion, and stopping it exposes a rescuer to a lesser real risk."
+        },
+        "available_information": [
+          "Kazuma can see a brake lever beside him; pulling it should stop the cart if the intact cable works.",
+          "A supervisor says the cable was checked that morning; its current state is not visible.",
+          "Calling out can give Megumin time to move; she has an open route on her left.",
+          "Darkness is near a wheel chock but has not yet acted. Nobody is trapped without options."
+        ],
+        "specific_mode_conditions": [
+          "No skills or luck control. Same visible lever, chock and escape route; normal injury consequences apply."
+        ],
+        "stakes": "The sound is startling but explicitly harmless. The cart is a credible bodily danger to a valued companion, and stopping it exposes a rescuer to a lesser real risk.",
+        "prompt_core_sha256_compact_sorted": "83c60977277dbbb3617357945188e77a3b2f9c61176c24e387d96b8e1f16a3c7"
+      }
+    },
+    {
+      "execution_id": "F07-K-CC",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F07-K-CC",
+        "case_id": "F07-K",
+        "family": "F07",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "CANONICAL_COMIC",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Hypothetical new situation compatible with the admitted main world, not an assertion of a missing canonical event. Use actual source-supported capabilities and actual current readiness/consent/limits, modified by explicit case conditions. Comic display can amplify expression but does not erase named injuries, ownership, deadlines or agency.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "At a club table Kazuma rapidly understands a resource-placement game. Aqua then asks him to interpret a city utility diagram for a water shutoff.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Aqua"
+          ],
+          "current_state": "His success has gained attention, but the second problem affects a real household repair and uses unfamiliar symbols."
+        },
+        "available_information": [
+          "The game’s printed rules are complete and its hidden information is explicitly marked.",
+          "The utility diagram has an unknown symbol legend available from the caretaker downstairs.",
+          "A wrong shutoff can inconvenience another apartment; no injury is expected if they pause.",
+          "Aqua asks whether he understands the diagram, not whether he can prove superiority."
+        ],
+        "specific_mode_conditions": [
+          "Game literacy does not grant technical plumbing knowledge. Any source skill must operate only within a stated scope, not reveal the legend by fiat."
+        ],
+        "stakes": "His success has gained attention, but the second problem affects a real household repair and uses unfamiliar symbols.",
+        "prompt_core_sha256_compact_sorted": "ce7c90c115362fd4390ffe1c3077778477b1b508bec4a378377c28da7aaf1396"
+      }
+    },
+    {
+      "execution_id": "F07-K-TR",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F07-K-TR",
+        "case_id": "F07-K",
+        "family": "F07",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "TRANSFER",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Same person-level goals, relationships, appraisals and memory of the admitted main history, explicitly informed that the local world has no usable magic, resurrection, supernatural luck, class buffs or comic injury immunity. Their unfamiliarity is retained. Do not grant equivalent real-world professional expertise by analogy. Case-specific ordinary tools replace means transparently; motives and stakes are not deleted to make behavior polite or bland.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "At a club table Kazuma rapidly understands a resource-placement game. Aqua then asks him to interpret a city utility diagram for a water shutoff.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Aqua"
+          ],
+          "current_state": "His success has gained attention, but the second problem affects a real household repair and uses unfamiliar symbols."
+        },
+        "available_information": [
+          "The game’s printed rules are complete and its hidden information is explicitly marked.",
+          "The utility diagram has an unknown symbol legend available from the caretaker downstairs.",
+          "A wrong shutoff can inconvenience another apartment; no injury is expected if they pause.",
+          "Aqua asks whether he understands the diagram, not whether he can prove superiority."
+        ],
+        "specific_mode_conditions": [
+          "Ordinary board game and plumbing diagram, no magic or game-engine omniscience."
+        ],
+        "stakes": "His success has gained attention, but the second problem affects a real household repair and uses unfamiliar symbols.",
+        "prompt_core_sha256_compact_sorted": "a8f203e1dd7bb1218819d4cfabc8ba84033cbd8d7852679fdd011074b833e723"
+      }
+    },
+    {
+      "execution_id": "F08-K-CC",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F08-K-CC",
+        "case_id": "F08-K",
+        "family": "F08",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "CANONICAL_COMIC",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Hypothetical new situation compatible with the admitted main world, not an assertion of a missing canonical event. Use actual source-supported capabilities and actual current readiness/consent/limits, modified by explicit case conditions. Comic display can amplify expression but does not erase named injuries, ownership, deadlines or agency.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "After an ordinary shared errand, Kazuma repeats a familiar private joke about Megumin’s dependence while Aqua is present. Megumin laughs once, then tells him directly to stop using it in front of this audience.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Aqua",
+            "Megumin"
+          ],
+          "current_state": "They are on familiar terms. She is not crying or threatening separation, and the requested boundary is specific."
+        },
+        "available_information": [
+          "She says the same joke in private is not the issue; this public repetition is.",
+          "Aqua has heard the request and waits without adding a taunt.",
+          "The next joint task is minor and neither needs to leave immediately.",
+          "Kazuma remembers that Megumin has helped him materially; no repayment demand has been made."
+        ],
+        "specific_mode_conditions": [
+          "Comic familiarity permits banter but does not remove the actual stated audience limit or guarantee the absence of lasting irritation."
+        ],
+        "stakes": "They are on familiar terms. She is not crying or threatening separation, and the requested boundary is specific.",
+        "prompt_core_sha256_compact_sorted": "654fc9101297f37359ac44c06a48a616b5c4ef18ef09181535014a7dacccc1ff"
+      }
+    },
+    {
+      "execution_id": "F08-K-TR",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F08-K-TR",
+        "case_id": "F08-K",
+        "family": "F08",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "TRANSFER",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Same person-level goals, relationships, appraisals and memory of the admitted main history, explicitly informed that the local world has no usable magic, resurrection, supernatural luck, class buffs or comic injury immunity. Their unfamiliarity is retained. Do not grant equivalent real-world professional expertise by analogy. Case-specific ordinary tools replace means transparently; motives and stakes are not deleted to make behavior polite or bland.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "After an ordinary shared errand, Kazuma repeats a familiar private joke about Megumin’s dependence while Aqua is present. Megumin laughs once, then tells him directly to stop using it in front of this audience.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Aqua",
+            "Megumin"
+          ],
+          "current_state": "They are on familiar terms. She is not crying or threatening separation, and the requested boundary is specific."
+        },
+        "available_information": [
+          "She says the same joke in private is not the issue; this public repetition is.",
+          "Aqua has heard the request and waits without adding a taunt.",
+          "The next joint task is minor and neither needs to leave immediately.",
+          "Kazuma remembers that Megumin has helped him materially; no repayment demand has been made."
+        ],
+        "specific_mode_conditions": [
+          "A realistic shared-household conversation without magical reversal or slapstick erasure of an objection."
+        ],
+        "stakes": "They are on familiar terms. She is not crying or threatening separation, and the requested boundary is specific.",
+        "prompt_core_sha256_compact_sorted": "4fc0e30b25572867c0e777f1fef798e463418c0cc861d1100278c838579a42ef"
+      }
+    },
+    {
+      "execution_id": "F09-K-CC",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F09-K-CC",
+        "case_id": "F09-K",
+        "family": "F09",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "CANONICAL_COMIC",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Hypothetical new situation compatible with the admitted main world, not an assertion of a missing canonical event. Use actual source-supported capabilities and actual current readiness/consent/limits, modified by explicit case conditions. Comic display can amplify expression but does not erase named injuries, ownership, deadlines or agency.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "Kazuma and Aqua encounter a public teaching device in an unfamiliar town. It offers a transparent, noncompetitive allocation game with real meal vouchers.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Aqua"
+          ],
+          "current_state": "He likes games and could gain a useful voucher. The system cannot be attacked or stolen from without cancelling everyone’s session."
+        },
+        "available_information": [
+          "The device explains and demonstrates that each participant choosing a personal credit gives themselves one token; choosing shared credit gives each other participant two.",
+          "There are four participants, decisions are simultaneous and no one can see others’ choice before locking their own.",
+          "One token buys a meal; there is no leaderboard, hidden jackpot or skill-point effect.",
+          "Aqua proposes talking first but cannot bind the two strangers."
+        ],
+        "specific_mode_conditions": [
+          "A fixed-rule teaching artifact with no inspectable exploit beyond the stated rules. Gamer knowledge can supply reasoning, not a secret engine command."
+        ],
+        "stakes": "He likes games and could gain a useful voucher. The system cannot be attacked or stolen from without cancelling everyone’s session.",
+        "prompt_core_sha256_compact_sorted": "eab402e2d73a8ecabf4f63d43610b179ace132904802a4fe29826256772e4d4c"
+      }
+    },
+    {
+      "execution_id": "F09-K-TR",
+      "primary_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "transfer_constraint_model_identity": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "fixed_prompt_core": {
+        "execution_id": "F09-K-TR",
+        "case_id": "F09-K",
+        "family": "F09",
+        "subjects": [
+          "Kazuma"
+        ],
+        "mode": "TRANSFER",
+        "instruction": "Using the specified already sealed initial model, produce a bounded next beat of action and any dialogue the model supports. Outside the scene, explain attention/appraisal, competing motives, relationship effects, relevant resource or knowledge limits, one plausible alternative and a fact that would change the choice. Do not manufacture facts hidden from the subject, guarantee unknown success, settle unresolved canon relationships, or quote a canonical scene as a substitute for reasoning. Silence is permitted when explained; no minimum utterance count. Do not inspect evaluator-only hidden facts or rubric notes while generating. Treat another character’s private information as inaccessible to everyone else unless actually communicated. Stop before inventing an unanswered inquiry’s reply or an unknown physical result; conditional plans are permitted.",
+        "mode_common": "Same person-level goals, relationships, appraisals and memory of the admitted main history, explicitly informed that the local world has no usable magic, resurrection, supernatural luck, class buffs or comic injury immunity. Their unfamiliarity is retained. Do not grant equivalent real-world professional expertise by analogy. Case-specific ordinary tools replace means transparently; motives and stakes are not deleted to make behavior polite or bland.",
+        "independent_start": "Each case starts independently. No consequences or learning carry from another case or mode unless stated. These are not chronological canon continuations or validation witnesses. New unnamed counterparts are adults. The established cast retains the admitted age/state without invented aging; no sexual action is requested.",
+        "setting": "Kazuma and Aqua encounter a public teaching device in an unfamiliar town. It offers a transparent, noncompetitive allocation game with real meal vouchers.",
+        "relationship_state": {
+          "baseline": "Hypothetical ordinary day after the admitted main sequence; retain particular established attachments, unresolved labels and prior failures. No new romance, marriage, sex, exclusivity or party expulsion is established.",
+          "counterparts": [
+            "Aqua"
+          ],
+          "current_state": "He likes games and could gain a useful voucher. The system cannot be attacked or stolen from without cancelling everyone’s session."
+        },
+        "available_information": [
+          "The device explains and demonstrates that each participant choosing a personal credit gives themselves one token; choosing shared credit gives each other participant two.",
+          "There are four participants, decisions are simultaneous and no one can see others’ choice before locking their own.",
+          "One token buys a meal; there is no leaderboard, hidden jackpot or skill-point effect.",
+          "Aqua proposes talking first but cannot bind the two strangers."
+        ],
+        "specific_mode_conditions": [
+          "An unfamiliar but fully explained electronic kiosk; no hacking, luck magic or advanced computer expertise. Same payoffs and anonymous locking."
+        ],
+        "stakes": "He likes games and could gain a useful voucher. The system cannot be attacked or stolen from without cancelling everyone’s session.",
+        "prompt_core_sha256_compact_sorted": "53b1af6a025185fada73a61b6d0b5af5f75a2adde8dbf7a1ea3f6221b1875f64"
+      }
+    }
+  ]
+}
