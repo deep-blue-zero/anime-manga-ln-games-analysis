@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: Japanese V01-V17 principal and final Gen05 adjudication accepted; main-principal evidence freeze in containing transaction; latest fully audited source 4b4ed3ad through V17; CP06 publication gate pending; fixed 41 and all later gates preserved
+source_boundary: Japanese V01-V17 principal and final Gen05 adjudication accepted; exact main-principal evidence freeze published and fully audited at a1539842; all seven main-only specialists and six-entry claim revisions accepted; their publication gate pending; fixed 41 and later suite/holdout/expanded gates preserved
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: CP06_PUBLICATION_GATE
+  next_permitted_operation: SPECIALIST_PUBLICATION_GATE
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: CP06_PUBLICATION_GATE
+  next_candidate_operation: SPECIALIST_PUBLICATION_GATE
   confirmation_between_units: false
   run_state: active
 ---
@@ -43,9 +43,9 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 
 ## 2. Current authority state
 
-**Project state:** ACTIVE / PROVISIONAL — V01–V17 principal narratives and the [final V16–V17 checkpoint](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V16-V17_FINAL_SEQUENTIAL_CHECKPOINT.md) are substantively accepted. Formal Gen05 outcomes are 8C/6P/1F/3AMB/7NT; Aqua’s broad service-language tendency fails while practical competence remains. All original model/forecast bytes, blank pairs, local histories and earlier failures are preserved. The [main-principal evidence receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN_PRINCIPAL_EVIDENCE_FREEZE.json) freezes the exact source-located main evidence state and all ten ledger responsibilities, with inherited reading/exposure limits. This is distinct from the still-unperformed main-only reconstruction-suite freeze.
+**Project state:** ACTIVE / PROVISIONAL — V01–V17 principal narratives and the [final V16–V17 checkpoint](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V16-V17_FINAL_SEQUENTIAL_CHECKPOINT.md) are substantively accepted. Formal Gen05 outcomes are 8C/6P/1F/3AMB/7NT; Aqua’s broad service-language tendency fails while practical competence remains. All original model/forecast bytes, blank pairs, local histories and earlier failures are preserved. The [main-principal evidence receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN_PRINCIPAL_EVIDENCE_FREEZE.json), published at a1539842, freezes the exact source-located main evidence state and all ten ledger responsibilities, with inherited reading/exposure limits. This is distinct from the still-unperformed main-only reconstruction-suite freeze.
 
-Latest fully audited published source is `4b4ed3ad265b6d4ec4ca780e634cc7eacceb68fc`, tree `3ba2232e228fe2ae589f7b5dc1b624f5ab3ca15a`, through V17. Its full gate closed 2026-10-17T11:48:41.132341Z after exact remote readback, source 39029390725, no-op housekeeping 39029733919 and final 39029757648; both audits passed 352 tests/8,018 paths and exact status succeeded 11:48:13Z. Pending wording in the older V17 review/map history records authorship, not a live blocker. The current containing checkpoint transaction still requires its own publication/readback and complete exact-head gate. Next operation is **CP06_PUBLICATION_GATE**, then the seven main-only specialist syntheses. No next principal source or Gen06 exists. The authorized full program remains active: specialists, reconstruction/simulations and suite freeze, unchanged-baseline four holdouts, full 19-book/17-EPUB-component/five-mixed-book program, attributable revisions/secondary work, synthesis/indexes and substantive completion audit. Later narrative/images remain gated and unfinished; legacy paratext context remains disclosed. No protected-main integration or archival release is asserted.
+Latest fully audited published source is `a1539842ca7ea51e4414cff2331999d69ca52453`, tree `27d9935d58948562e7e34277fea5cabf21a28232`, containing CP06 and the main-principal evidence freeze. Its full gate closed 2026-10-17T12:39:00.799140Z after all 8,023 remote paths and 11 changed streams matched, source audit39032578430/job117395868194, no-op housekeeping39032861815/job117396684599 and final audit39032884756/job117396750970. Both audits passed all352 tests without failure/error/skip; exact Repository integration audit succeeded at12:35:08Z targeting that final run. Dispatched workflow metadata displayed main ef1e29ab, but actual AUDIT_COMMIT/SOURCE_SHA equal a1539842. Pending wording in older checkpoint/review/map history records authorship, not a live blocker. Exact published authority and all66 evidence pins were reloaded before releasing actual specialist authorship. All seven required main-only specialists and six-entry claim revisions are substantively accepted at 2026-10-17T13:04:45.202871+00:00; the [receiving record](09%20Audits%20and%20Manifests/KONOSUBA_MAIN_ONLY_SPECIALIST_SYNTHESIS_RECEIVING_REVIEW.md) identifies exact bodies, actual source/peer scopes, corrections and unresolved limits. Current operation is **SPECIALIST_PUBLICATION_GATE** for this separate accepted batch. Its own publication/readback and full exact-head audit are pending; last fully audited source remains a1539842. No next principal source or Gen06 exists. The authorized full program remains active: specialists, reconstruction/simulations and suite freeze, unchanged-baseline four holdouts, full 19-book/17-EPUB-component/five-mixed-book program, attributable revisions/secondary work, synthesis/indexes and substantive completion audit. Later narrative/images remain gated and unfinished; legacy paratext context remains disclosed. No protected-main integration or archival release is asserted.
 
 **SEQUENTIAL_ANALYSIS_LOCK = OPEN.** This is continuation of the mature imported project, with its four current methods, existing ten ledgers and source boundary verified. The structured run declarations recover the current owner-authorized bounds; they do not create new source authority. The [run and reconciliation audit](09%20Audits%20and%20Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md) records accepted, working and published state separately.
 
@@ -248,11 +248,19 @@ The tranche result is 16 CONFIRMED, 2 PARTIAL/revision-bearing, 2 NOT_TESTED, an
 
 ### Phase 6 - V16-V17
 
-**ANALYTICALLY ACCEPTED / CONTAINING PUBLICATION PENDING.** All 17 principal readings and the final Gen05 checkpoint 8C/6P/1F/3AMB/7NT are accepted; the concrete main-principal evidence freeze is linked above. V17 source 4b4ed3ad is fully audited; CP06 requires its own complete gate before specialist execution. This closes the principal sequential dependency, not the project.
+**COMPLETE AND PUBLISHED.** All17 principal readings and final Gen05 checkpoint8C/6P/1F/3AMB/7NT are accepted. CP06 and the exact main-principal evidence freeze completed publication/readback and their full a1539842 gate as recorded above. The separate reconstruction-suite freeze is still unperformed; the project remains active.
 
 ### Phase 7 - Specialist synthesis
 
-**NEXT AFTER CP06 PUBLICATION GATE.** Four causal character monographs, party ensemble synthesis, humor-system synthesis and Japanese-language comedy synthesis remain required; the private source-route readiness plan is preparation, not accepted specialist coverage.
+**SUBSTANTIVELY ACCEPTED / OWN PUBLICATION PENDING.** Root accepted all seven at 2026-10-17T13:04:45.202871+00:00 after full new-prose receiving, material source checks and bounded versioned repairs. The [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_MAIN_ONLY_SPECIALIST_SYNTHESIS_RECEIVING_REVIEW.md) pins the current bodies and limitations; [six claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md) qualify old amount, institution, recipient, agency and object wording without changing frozen66 or prospective histories. The managed-cloud continuing lineages share context; no fresh/human/statistical-independence certification is implied. Complete this batch’s exact publication gate before actual reconstruction.
+
+- [KONOSUBA_KAZUMA_CHARACTER_MONOGRAPH.md](05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_CHARACTER_MONOGRAPH.md)
+- [KONOSUBA_AQUA_CHARACTER_MONOGRAPH.md](05%20Specialist%20Synthesis/KONOSUBA_AQUA_CHARACTER_MONOGRAPH.md)
+- [KONOSUBA_MEGUMIN_CHARACTER_MONOGRAPH.md](05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_CHARACTER_MONOGRAPH.md)
+- [KONOSUBA_DARKNESS_CHARACTER_MONOGRAPH.md](05%20Specialist%20Synthesis/KONOSUBA_DARKNESS_CHARACTER_MONOGRAPH.md)
+- [KONOSUBA_PARTY_ENSEMBLE_SYNTHESIS.md](05%20Specialist%20Synthesis/KONOSUBA_PARTY_ENSEMBLE_SYNTHESIS.md)
+- [KONOSUBA_HUMOR_SYSTEM_SYNTHESIS.md](05%20Specialist%20Synthesis/KONOSUBA_HUMOR_SYSTEM_SYNTHESIS.md)
+- [KONOSUBA_JAPANESE_LANGUAGE_AND_COMEDY_SYNTHESIS.md](05%20Specialist%20Synthesis/KONOSUBA_JAPANESE_LANGUAGE_AND_COMEDY_SYNTHESIS.md)
 
 ### Phase 8 - Reconstruction suite
 
@@ -322,7 +330,7 @@ A later synthesis never licenses invented evidence. Exact wording, linguistic cl
 
 - [KONOSUBA_V17_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V17_DEEP_READING.md) — accepted principal reading; exact 4b4ed3ad publication gate closed.
 
-- [KONOSUBA_V16-V17_FINAL_SEQUENTIAL_CHECKPOINT.md](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V16-V17_FINAL_SEQUENTIAL_CHECKPOINT.md) — accepted separate 25 Gen05 adjudications, terminal state/failures, earlier 92 reconciliation and main-principal evidence freeze; containing publication pending.
+- [KONOSUBA_V16-V17_FINAL_SEQUENTIAL_CHECKPOINT.md](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V16-V17_FINAL_SEQUENTIAL_CHECKPOINT.md) — accepted separate25 Gen05 adjudications, terminal state/failures, earlier92 reconciliation and main-principal evidence freeze; exacta1539842 full publication gate closed.
 
 ### Active cumulative ledgers through V17
 
@@ -616,8 +624,8 @@ The earlier V17 publication-pending section is historical: exact 4b4ed3ad’s ga
 
 1. Preserve every older checkpoint, seven protected older frozen-block copies, all original blank fields/local histories and RC-V09-01/RC-V10-01. Keep the exact Gen05 model/forecast blocks and their freeze receipt immutable. Separate formal adjudications never fill the original frozen scoring fields.
 2. V16’s accepted full transaction and the concurrent-main reconciliation completed exact source publication/readback, source audit, no-op housekeeping and final actual-SHA audit on4343c8bb, as reconciled above. Preserve originals, all adverse evidence, exact Gen05/older freezes and fixed41identity seal. Three V16 volume registers remain subordinate evidence under the existing ledger home.
-3. V17’s exact 4b4ed3ad gate is closed. Publish/read back this separately accepted final checkpoint and evidence freeze, then close its source audit → housekeeping → final actual-SHA integration status. Current next operation is CP06_PUBLICATION_GATE. Reload the actual published authority before starting seven main-only specialists; no next principal source or Gen06 exists. The full analytical program remains active without routine owner confirmation.
-4. Complete all seven main-series specialist syntheses and the distinct reconstruction suite/simulation audit. Freeze exact main-only models/tests/predictions before any four designated holdouts. Keep validation outcomes unchanged, then analyze all19 supplemental books and every admitted bonus/mixed-volume narrative component, publishing coherent increments and actual coverage milestones. Preserve secondary-series exposure chronology and contradictions.
+3. V17’s exact4b4ed3ad and CP06’s exacta1539842 gates are closed. Preserve their actual-source audit/readback receipts and distinguish historical pending statements from live publication. All seven source-located arguments and six attributable revisions are accepted after exact authority reload and substantive receiving. Current operation is SPECIALIST_PUBLICATION_GATE: validate/publish/read back the exact batch and close source audit/housekeeping/final actual-SHA status before reconstruction. No next principal source or Gen06 exists. The full program remains active without routine owner confirmation.
+4. After the accepted specialists’ own full publication gate and fresh authority reload, complete the distinct reconstruction suite/simulation audit. Freeze exact main-only models/tests/predictions before any four designated holdouts. Keep validation outcomes unchanged, then analyze all19 supplemental books and every admitted bonus/mixed-volume narrative component, publishing coherent increments and actual coverage milestones. Preserve secondary-series exposure chronology and contradictions.
 5. Produce attributable post-validation principal/qualified secondary models, extended and full-series syntheses, all three evidence indexes and the substantive component-level completion audit. Metadata/hash/source completeness is not literary completion. Keep this canonical entrypoint active until an authorized, verified release transition. Routine stage changes need no owner confirmation.
 
 ## 14. Governing principle
