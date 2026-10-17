@@ -1219,3 +1219,26 @@ These notes are post-original qualifications, with their stated attribution. The
 | E14 | C1P0493–0500 | Root/semantic postassignment source review, checked against admitted primary source: The first legal objection493 follows announced injury486/crouch489 but precedes running494 and Megumin’s praise495; the second warning500 follows. Do not backdate execution to establish the first antecedent. | U15-031, PV23, IV15-05 |
 | E15 | C3P0138–0148 | Independent exact primary check after root receiving query: Serena says 無宗教 at P138; Kazuma says 無宗派 at P142; Serena repeats that term in her objection P143; Kazuma qualifies the holiday-practice account P148. The sealed P143 short token is exact but belongs to Serena, not a relocated Kazuma utterance. Keep distinct actors and religious labels. | U15-087, PA04 |
 | E16 | C1P0185–0197, P0224–0232, P0257–0264 | Producer new-field review and root receiving clarification; original metadata retained externally qualified: For PV22 and IV15-02, Darkness speaks to Kazuma in the before window. In the after window adventurers tease Darkness, Kazuma intervenes, and Darkness has a body reaction but no utterance. Original audience metadata must not imply an after address by her. | PV22, IV15-02 |
+
+# V13–V15 checkpoint update — Gen05
+
+This additive CP05 update is accepted only through the [checkpoint receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V13-V15_CHECKPOINT_RECEIVING_REVIEW.md) and its explicit root acceptance. It uses admitted principal MAIN-13/14/15 only. V15’s full gate closed on f011d24aaaca31c95168ce05bed15ba1e9384056. Retained production-candidate/proposed phrases describe the preserved authoring stage; the separate complete formal CP05 adjudications and exact Gen05 freeze receipt govern current status. Earlier local records, source classes, original forecast text and blank fields remain unchanged. Source aliases follow each accepted volume map, with V13 text/part....html and V14/V15 OEBPS/Text/part....xhtml kept distinct. CP05 publication/readback and full exact-head audits must still close before V16.
+
+## Complete V13–V15 pool and immutable lineage history
+
+| Volume | Fixed governed units | Current clear L0–L2 | Clear L3 | Mixed | Soft-touched units retained | Broad soft-removal sensitivity |
+|---|---:|---:|---:|---:|---:|---|
+| V13 |192|188|1|3|22|166–169 portable /170|
+| V14 |154|151|0|3|8|143–146 portable /146|
+| V15 |150|149|0|1|36|113–114 portable /114|
+| Pooled checkpoint candidate |496|488|1|7|66|422–429 portable /430|
+
+The primary conservative portable interval is 488–495/496. Even placing all seven mixed units in L3 leaves 488 above half of 496, satisfying the exact Gen04 strict-majority bound if root accepts this whole-tranche checkpoint result. All 66 soft-touched units remain in the governed denominator; broad removal is an excessive sensitivity check, not a new main denominator or permission to remove brief/form-dependent gags. Per-volume J02 PARTIAL records remain exact local contributions. Pooled CONFIRMED is a separate proposed checkpoint disposition, not a rewrite of those records.
+
+- V13 keeps clear-L3 H030b and mixed H085/H112/H149b. Initial fine disagreement and all culture/context/nested-form flags remain. Root’s bounded actual-form checks support retaining those classes; no fresh complete192-rationale recoding by this producer is claimed.
+- V14 keeps mixed U028/U040/U082 and U052’s exact correction history: initial150 clear/4 mixed → attributed postcomparison source-form reassessment → current151 clear/3 mixed. Original producer MIXED and independent L2 remain; the producer’s later L1 is not an initial agreement. The conspicuous stacked-negative form belongs U081. Initial109 exact fine agreements/45 differences remain historical.
+- V15 keeps mixed U15-120 whole-premise L1/L3 weighting uncertainty. Literal fine-label agreement106 differs from explicitly normalized107 after a shared mixed-intent spelling distinction;43 portable fine differences remain. No forced fine consensus or changed boundary/class fit is introduced.
+
+Discovery provenance totals 962 descriptions/lineages:359 V13,314 V14 and289 V15. V14’s314 includes143 producer and171 independent originals, one independently nested (170 disjoint independent units before union); these are not314 disjoint episodes. The pooled 962 is not an independent-trial or episode denominator. Resumed interval fragments, nested descriptions and parallel reader descriptions are not added as successes. The fixed whole-premise denominator is 496.
+
+The counts are analytical classifications over principal evidence, not H1 psychological facts, audience response, translation quality, a population estimate or binomial reliability. H1–H4 still governs any separate behavioral inference from a comic event; nested Japanese form and cultural familiarity are distinct from the primary whole-premise L class. Shared source/model, collaborative uncoded boundary work, factual QA, separately sealed discovery/assignments and subsequent comparison remain disclosed. STRENGTHEN the descriptive portability bound with HIGH corpus-specific robustness; retain MODERATE confidence for a genuinely fresh future-tranche expectation. No V16/V17 classification exists.

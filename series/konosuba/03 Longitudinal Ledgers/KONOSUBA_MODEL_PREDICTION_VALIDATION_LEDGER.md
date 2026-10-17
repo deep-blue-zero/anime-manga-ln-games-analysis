@@ -3,9 +3,9 @@ series: KONOSUBA
 artifact_type: ledger
 scope: V01-V17
 ledger_role: model_prediction_validation
-generation: MODEL_GEN_0.4
+generation: MODEL_GEN_0.5
 status: active_provisional
-source_boundary: All prior model and forecast blocks, original blank fields and local histories preserved; Gen03 formally closed; unchanged Gen04 derived only through V12 with 25 V13-V15 forecasts; all 25 separate local outcomes for each of V13, V14 and V15 appended; formal V13-V15 tranche open; V15 publication gate and separate checkpoint/Gen05 freeze required before V16
+source_boundary: Main principal evidence through V15; all original models/forecasts/blank fields and V13-V15 local histories preserved; separate formal Gen04 tranche adjudicated at CP05; Gen05 model and 25 V16-V17 forecasts frozen by explicit CP05 acceptance; source publication gate required before V16
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3311,3 +3311,1305 @@ The record below retains every branch, primary chronology, strongest contrary or
 **Missing conjunctions and scope:** Missing source-direct Iris personal wish, her understood opposing royal duty, and a subsequent narrowed choice.
 
 **Diagnosis:** NOT_TESTED; retain the V11 positive and earlier localNT histories unchanged.
+
+# V13–V15 checkpoint update — Gen05
+
+This additive CP05 update is accepted only through the [checkpoint receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V13-V15_CHECKPOINT_RECEIVING_REVIEW.md) and its explicit root acceptance. It uses admitted principal MAIN-13/14/15 only. V15’s full gate closed on f011d24aaaca31c95168ce05bed15ba1e9384056. Retained production-candidate/proposed phrases describe the preserved authoring stage; the separate complete formal CP05 adjudications and exact Gen05 freeze receipt govern current status. Earlier local records, source classes, original forecast text and blank fields remain unchanged. Source aliases follow each accepted volume map, with V13 text/part....html and V14/V15 OEBPS/Text/part....xhtml kept distinct. CP05 publication/readback and full exact-head audits must still close before V16.
+
+## Compact checkpoint crosswalk — no model or forecast duplication
+
+The proposed whole-Gen04 tranche table is 6 CONFIRMED / 7 PARTIAL / 12 NOT_TESTED. Categories describe branch coverage and admissible contrary evidence, not prediction accuracy or votes over local labels. All original25 Outcome/Adjudication pairs remain blank in the unchanged frozen block. Root handles the separate complete formal adjudications and any accepted model/forecast append; this payload contains neither full new model nor forecast text.
+
+| Gen04 ID | V13 local | V14 local | V15 local | Proposed CP05 | Governing coverage / failure-scope limit |
+|---|---|---|---|---|---|
+| MG04-K01 | PARTIAL | CONFIRMED | CONFIRMED | CONFIRMED | All search/revision/delegation components supported; recovery, safety and ethics separate. |
+| MG04-K02 | CONFIRMED | NOT_TESTED | PARTIAL | CONFIRMED | V13 full entrusted help supports; V14 harm missing and V15 entrustment uncertain; no cost floor. |
+| MG04-K03 | FALSIFIED | CONFIRMED | FALSIFIED | PARTIAL | Original repeated-unmodified failure threshold unestablished; preserve strict chronology limitation, ongoing-reward contrary reading and V15 harm-qualified contraction. |
+| MG04-K04 | PARTIAL | PARTIAL | PARTIAL | PARTIAL | QuietA NT; B ordered support/agency and exculpation qualifications; old Gen03 tear brake remains retired. |
+| MG04-A01 | PARTIAL | PARTIAL | PARTIAL | PARTIAL | Capacity supported; readiness variable; matched comparative goal-clarity branch NT. |
+| MG04-A02 | NOT_TESTED | FALSIFIED | AMBIGUOUS | PARTIAL | V14 clean scoped localF plus V15AMB; repeated clear-failure criterion not met; broad displacement confidence lowered. |
+| MG04-A03 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | No acknowledgment before two distinct new same-service opportunities; actual care differs from causal recurrence. |
+| MG04-A04 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | No complete low-valued maintenance plus concrete maximal alternative conjunction. |
+| MG04-M01 | PARTIAL | PARTIAL | NOT_TESTED | CONFIRMED | V13 explicit denigration/known spectacle cost before one externally stopped attempt; local PARTIAL unchanged, priority MODERATE. |
+| MG04-M02 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | No self-accepted substantial exclusive-build contribution burden. |
+| MG04-M03 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | No full prior friendly geometry/resources/exit plan; stationary objects not excluded by a tactical-mission rule. |
+| MG04-M04 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | No new independently bonded valued-person firing target; pre-action and aftermath separate. |
+| MG04-M05 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | No full known grave direct friendly-harm/best-option/clear-alternatives dilemma. |
+| MG04-M06 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | No sustained rewarding instrumental sequence with independently weakening original goal. |
+| MG04-D01 | CONFIRMED | CONFIRMED | CONFIRMED | CONFIRMED | Repeated bounded costly protective acts; pleasure and finite capacity do not erase contribution or harm. |
+| MG04-D02 | PARTIAL | PARTIAL | PARTIAL | PARTIAL | Bounded audience match; broader control mixed; exact equal-standing branch NT; sought event need not be fantasy. |
+| MG04-D03 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | No genuine incompatible duty versus continued membership; coexisting duties and Yunyun conflict do not qualify. |
+| MG04-E01 | PARTIAL | PARTIAL | PARTIAL | PARTIAL | Fit and bounded alternative-provider phases supported; whole-program comparative dependence incomplete. |
+| MG04-E02 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | Practical benefit/contact-loss cost real; feasible prerequisite unresolved; completed relocation not required. |
+| MG04-J01 | PARTIAL | PARTIAL | PARTIAL | PARTIAL | 170 provenance/161 available with nine V13 raw inputs missing; mapped adverse/sparse/already-active cases remain. |
+| MG04-J02 | PARTIAL | PARTIAL | PARTIAL | CONFIRMED | Completed496 pool:488clear/1L3/7mixed, conservative488–495; proposed wholetrancheC separate from localP. |
+| MG04-Y01 | CONFIRMED | CONFIRMED | CONFIRMED | CONFIRMED | Real inclusion/suitable actual contribution; requested casts and later duty/final stay remain distinct. |
+| MG04-CE01 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | No full public cumulative-request burden beyond expressed preference with feasible refusal. |
+| MG04-I01 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | No new direct constrained-versus-safe Iris comparison; earlier bounded positives preserved. |
+| MG04-I02 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED | No new directly shown Iris wish/understood-duty/narrowing sequence; earlier positive preserved. |
+
+K03’s original disconfirmation requires repeated comparable reward states with unchanged/narrowed pursuit and no new threat/relationship cue. The V13 historicalF is preserved with both literal chronology interpretations; V15’s local F has known-person harm/danger before withdrawal: Wiz is seen scorched0700 before concession0705; fight0707 follows concession; peace preference0714 precedes explicit revenge completion0715, then self-described relief0722, offered truce0724/accepted relief0726 and debt cancellation0733. These do not become two clean repeated unmodified failures by label voting. A02’s original criterion likewise requires repeated clear task-preserving prestige cases without preventing actors or independently acknowledged competing imminent harm; V14 is one clean scoped localF, V15 remainsAMB. CompoundPARTIAL preserves their adverse force and lowers confidence rather than declaring the old broad effect rehabilitated.
+
+M01’s positive candidate uses CP05-R03’s source-bound known-cost attempt with limited replication/causal isolation; no warning/completed-cast gate is added. J02’s strict-majority bound uses all 496 fixed units, not selected action scenes; mixed/soft/culture/nested-form and initial-code histories remain. LocalPARTIAL records are not overwritten by a new pooled result.
+
+Any eventual Gen05 acceptance is a separate root event over exact model/forecast bytes. Current future-design eligibility changes—K03 completion/persistence, A02 task compatibility and independently acknowledged competing relational/moral appraisal, functional J01 self-ranking and new repeated-measurement choices—never retroactively rescore Gen04. V16 remains closed until that separate freeze/publication and source gate.
+
+## 2. Gen04 tranche scorecard and complete adjudications
+
+The separate formal CP05 dispositions are **6 CONFIRMED / 7 PARTIAL / 12 NOT_TESTED**. They describe literal branch coverage, not accuracy, independent opportunities or a vote over local labels. The original25 blank pairs and every accepted local record remain exact. K03/A02 PARTIAL preserves adverse directions and confidence reductions; it does not declare the old broad rules rehabilitated. M01 gains one attributable bounded priority attempt; J02 gains a completed-census result.
+
+| Forecast | V13 local | V14 local | V15 local | CP05 formal |
+|---|---|---|---|---|
+| MG04-K01 | PARTIAL | CONFIRMED | CONFIRMED | CONFIRMED |
+| MG04-K02 | CONFIRMED | NOT_TESTED | PARTIAL | CONFIRMED |
+| MG04-K03 | FALSIFIED | CONFIRMED | FALSIFIED | PARTIAL |
+| MG04-K04 | PARTIAL | PARTIAL | PARTIAL | PARTIAL |
+| MG04-A01 | PARTIAL | PARTIAL | PARTIAL | PARTIAL |
+| MG04-A02 | NOT_TESTED | FALSIFIED | AMBIGUOUS | PARTIAL |
+| MG04-A03 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+| MG04-A04 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+| MG04-M01 | PARTIAL | PARTIAL | NOT_TESTED | CONFIRMED |
+| MG04-M02 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+| MG04-M03 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+| MG04-M04 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+| MG04-M05 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+| MG04-M06 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+| MG04-D01 | CONFIRMED | CONFIRMED | CONFIRMED | CONFIRMED |
+| MG04-D02 | PARTIAL | PARTIAL | PARTIAL | PARTIAL |
+| MG04-D03 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+| MG04-E01 | PARTIAL | PARTIAL | PARTIAL | PARTIAL |
+| MG04-E02 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+| MG04-J01 | PARTIAL | PARTIAL | PARTIAL | PARTIAL |
+| MG04-J02 | PARTIAL | PARTIAL | PARTIAL | CONFIRMED |
+| MG04-Y01 | CONFIRMED | CONFIRMED | CONFIRMED | CONFIRMED |
+| MG04-CE01 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+| MG04-I01 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+| MG04-I02 | NOT_TESTED | NOT_TESTED | NOT_TESTED | NOT_TESTED |
+
+### MG04-K01 — CONFIRMED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-K01, exact original-string SHA256 `e8a3e12ef868391389d59a1e5e552226ef025f74417a5ffa4902064b11a546e0`.
+
+**Original trigger.** a serious novel or under-structured problem disadvantages Kazuma in direct power, and he can identify at least one usable rule, tool, environmental feature or incentive.
+
+**Original relationship/stakes.** combat or institutional stakes; distinguish strangers from valued people whose safety constrains available tactics.
+
+**Original predicted effect.** He will search rules/tools/environment/incentives, combine or negotiate when direct power is inadequate, and assign fitted specialist actions where usable. If a newly learned capability actually invalidates his first plan, he will revise the method rather than merely repeat it unchanged. Score search, exact capability-based revision and delegation separately. A capture/acquisition plan can still omit safe release or recovery; record that omission independently before outcomes. Success, safety and ethical adequacy are separate.
+
+**Coverage.** Indirect search, fitted delegation and exact capability-based revision all have source-ordered support. V13 supplies the frog/tool/delegation and investigation components; V14 the robot capability revisions; V15 the actual reflected indirect coffee harm → rule inference → withdrawal of the contemplated explosive-potion method. These establish processes rather than universal plan success.
+
+**Contrary evidence and missingness.** The V15 potion was contemplated, not a completed purchase or firmly executed prior plan. Missing-release/recovery resources, spent tools, failed finishers, actual injury and Kazuma’s death survive eventual rescue. Coercive effective methods remain actual ethical failures. A future understood invalidating capability followed by unchanged repetition is an adverse branch even if someone later wins.
+
+**Exact original disconfirmation.** Repeated matched problems show only ineffective direct-force repetition or resignation despite an independently usable affordance; or newly learned invalidating capability is understood but he knowingly repeats the same failed method without a competing urgent reason. A missing delegation opportunity is NT for that branch. Independent success or harmful tactics do not themselves falsify the predicted search process; a failed component cannot be erased by eventual rescue.
+
+**Original threshold versus observed evidence.** Source-ordered bounded matches support the predicted direction. The exact original disconfirmation remains governing; eventual rescue, mixed motives or helpful neighbors do not erase failed components/contrary candidates. Confirmation here is qualitative coverage, not estimated reliability or accuracy.
+
+**Claim transition and confidence.** STRENGTHEN. HIGH for bounded search/revision; no increase to universal leadership or safe-system sufficiency.
+
+**Prior/primary routes.** CP04 §3.1; V13 C2P0189–0192,0245–0248,0285 and C3P0226–0246; V14 C4P0380–0463; V15 C2P0203–0212 and C3P0502–0532 → C4P0156–0161.
+
+### MG04-K02 — CONFIRMED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-K02, exact original-string SHA256 `d098cb9373582692cbcf4696ce5471d6630c9d3c32621266e509961f6fcaa9ae`.
+
+**Original trigger.** a trusted person makes a concrete request whose refusal would leave that person or a valued companion exposed to preventable harm, and Kazuma has some feasible contribution even if no complete solution is known.
+
+**Original relationship/stakes.** established trust, actual cost or danger; generic appeals to heroism, fame or attractiveness alone do not supply this trigger.
+
+**Original predicted effect.** he will complain, bargain, investigate, prepare or seek a cheaper route, but make a substantive contribution rather than abandon the responsibility chiefly for comfort. Commitment may precede a fully credible success plan.
+
+**Coverage.** V13 supplies a matched trusted Wiz request before substantive investigation and action under uncertainty. V14 and V15 remain respectively NT and PARTIAL; their missing harm/entrustment conjuncts do not erase the earlier full case. Contribution may take investigation, preparation or emotional reassurance rather than an immediate combat act.
+
+**Contrary evidence and missingness.** V14 optional-trial help does not independently establish refusal-caused preventable harm. V15 Aqua’s C1P0468 question can pragmatically request concrete reassurance; absence of an imperative or named protective act is not disqualifying. Whether it entrusts a particular preventable-harm responsibility remains uncertain. Actual King requests and Kazuma’s comfort refusals must be preserved as contrary candidates, with the same trust/harm/feasibility test. Personal cost is recorded, never added as a separate trigger floor.
+
+**Exact original disconfirmation.** a clear, feasible contribution exists, but he knowingly leaves the established person exposed primarily to preserve leisure, with no meaningful help, search or relationship-preserving alternative.
+
+**Original threshold versus observed evidence.** Source-ordered bounded matches support the predicted direction. The exact original disconfirmation remains governing; eventual rescue, mixed motives or helpful neighbors do not erase failed components/contrary candidates. Confirmation here is qualitative coverage, not estimated reliability or accuracy.
+
+**Claim transition and confidence.** PRESERVE. HIGH for the bounded entrusted-need tendency; scope of emotional entrustment remains OPEN.
+
+**Prior/primary routes.** CP04 MG04-K02; V13 C3P0134–0190,0226–0246,0367–0407; V14 C3P0335–0368 and C4P0008–0012; V15 C1P0468–0486, C4P0152/0168/0185/0206–0220 and FP0031.
+
+### MG04-K03 — PARTIAL
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-K03, exact original-string SHA256 `0d434530a3cc5156ee74b926b998c4e51238d6b515a6357a1cc08f22044b0999`.
+
+**Original trigger.** Kazuma receives concrete success feedback or sees an apparently manageable opportunity for recognition/payback, and that personal reward is visibly active before his next decision about scope, pursuit or exposure, whether or not the plan subsequently changes.
+
+**Original relationship/stakes.** initially tolerable perceived risk; compare the same task before and after feedback. Success without evidence of recognition/payback salience is insufficient.
+
+**Original predicted effect.** he will increase scope, pursuit, taunting or accepted exposure relative to his prior plan. Newly explicit severe danger or harm to a personally known target may instead restore caution; record these pre-existing modifiers before judging the outcome.
+
+**Coverage.** Recognition/payback can recruit expanded pursuit or persistence; V14 timetable contraction for a desired admirer and V15 knowingly reflected retaliation are positive bounded sequences. Historical V13 local F and V15 modifier-qualified local F remain exact. The tranche does not identify repeated comparable unmodified failures under the original ordered criterion.
+
+**Contrary evidence and missingness.** CP-only primary clarification: V13 C2P0150–0161 already shows actual newspaper recognition BEFORE hunt planning0182/0189/0245–0248 and target selection0253/0271. P0280–0283 explains already-active morning reward, so treating it as newly received feedback after the fixed frog plan is temporally invalid. Relative to the immediately prior hunt scope, unchanged execution remains observable, but clean before-feedback/after-feedback scope identification is not established. His rejection of Aqua’s return alternative0269/0274–0283 can support reward-sustained pursuit without proving expansion from a pre-feedback plan. V15 scorched Wiz0700 precedes Serena’s concession0705; the ongoing fight is narrated0707. Kazuma first prefers peace0714, explicitly notes completed revenge0715, supplies a self-relief account0722 and offers truce0724, followed by relief0726 and debt cancellation0733. Thus707 is not before705, and715 does not precede the first peace preference714. Prior known-person harm is already shown0700; both harm and ongoing fight precede the later offered-truce decision. Contraction remains genuinely adverse to unconditional expansion, while exact modifier causation is unisolated. The prospective completion partition is not retrospectively validated as causing the first peace preference. An express adopted rescue goal is NOT needed for that modifier. Goal completion is NOT an exemption in Gen04. Explicit alternative literal reading: the original forecast does NOT require reward to become newly active at every next decision. Actual feedback at0150–0161 can remain active at0271 or0285, as independently explained0280–0283. Under an ongoing-reward-at-next-choice reading, unchanged implementation of the already chosen hunt remains a legitimate contrary candidate. That is not eliminated by the stricter same-task pre-feedback-baseline uncertainty, and refusal of Aqua’s stop is persistence, not automatically original-predicted expansion. Distinguish target/continuation selection0271 from later method/implementation0285; neither is supplied a fictional new feedback event at0280.
+
+**Exact original disconfirmation.** repeated comparable success-plus-personal-reward states leave pursuit unchanged or make it more conservative despite no new threat/relationship cue. Forgotten equipment alone does not count as confirmation.
+
+**Original threshold versus observed evidence.** Original disconfirmation requires repeated comparable success-plus-personal-reward states with unchanged/narrowed pursuit and no new threat/relationship cue; coding also fixes prior scope→actual feedback/salience→next decision. Historical V13 localF is preserved, with strict temporal-comparison uncertainty AND the alternative ongoing-reward contrary interpretation. V14 localC is not a universal repair. V15 localF is genuinely adverse contraction but already modifier-qualified by known-person harm/danger. These are not two clean comparable unmodified failures establishing original repeated-case retirement. CompoundPARTIAL leaves this tension visible, not rehabilitated.
+
+**Claim transition and confidence.** REVISE. MODERATE for reward-sensitive persistence/selection; DOWNGRADE the broad next-decision expansion claim. No repeated-failure retirement by voting local labels.
+
+**Prior/primary routes.** CP04 §3.1 and MG04-K03 ordered coding/disconfirmation; newly personally read bounded MAIN-13 C2P0137–0193/0245–0293; V14 C1P0054–0096 and C4P0252–0281; V15 C1P0073–0080, C2P0700–0733, C3P0037–0049.
+
+### MG04-K04 — PARTIAL
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-K04, exact original-string SHA256 `7de39432a01bd62434290dcb89cc4a0442a479f5987f7b9b20778eadee84d867`.
+
+**Original trigger.** Two independently classified states, scored separately. A: in a private, nonurgent relational decision, a particular companion offers an attractive alternative that conflicts with a commitment Kazuma has already acknowledged, while immediate sexual arousal is explicitly reduced or absent. B: after a source-established boundary/commitment or refusal, immediate arousal or intimate gratification becomes explicitly salient, he knows a feasible way to stop or retain agency, and an exculpatory role/explanation is independently present before the next continuation decision (for example already expressed in thought/speech, or supplied by a source-established prior role/constraint). Record that frame and known feasible stop before coding pursuit. Do not infer frame availability merely from the excuse later constructed, arousal from continuation, or low arousal from refusal.
+
+**Original relationship/stakes.** Known companions and specific promises or interpersonal boundaries. Preserve initial imposed contact separately from later choices; later participation cannot retroactively consent to it. Existing actual-tears failures and wider harassment remain load-bearing limits.
+
+**Original predicted effect.** A: he will state or clarify the particular attachment/limit and refuse treating any attractive substitute as equivalent, even if awkward and disappointed. B: he will weaken the earlier limit through an excuse, coached role or selective account that preserves pursuit despite a known alternative. Score both directions separately; neither is inferred from his later claim about his own resistance.
+
+**Coverage.** Quiet A remains NT: no new scene independently combines reduced/absent immediate appetite, attractive incompatible offer, acknowledged particular commitment and actual choice. B has ordered support in V13 but the V14 parent-roof/help frame and V15 disinhibited diary compensation scene remain qualified. All are scored separately from noticed-tears behavior.
+
+**Contrary evidence and missingness.** V13 C2P0478 frame,0482 known exit and0494 explicit arousal precede0498–0505 continuation; later coercion must not be backdated. V14 C2P0328 limit,0332 arousal,0341/0346/0356/0362 helper/sympathy and0344 five-minute alternative precede0372 choice, but0361 greater-guilt/0370 embarrassment and possible preservation of a narrower nonintercourse boundary limit exculpation inference. V15 C3P0010–0022 compensation/excitement is real; known EFFECTIVE stop/agency under actual magical moral-restraint removal is not established. A normal-state requirement is not in Gen04. Gen03-K04 FALSIFIED/retired sufficient tear-brake remains load-bearing; new labels never restore it.
+
+**Exact original disconfirmation.** A matched quiet A case knowingly accepts the substitute without clarifying/limiting despite the already salient commitment; or a matched B case autonomously maintains the limit and uses its known feasible stop rather than pursuing or constructing an excuse. Record every noticed-tear continuation as adverse to any broader brake, without adding intimacy-only, harmlessness or non-notice exemptions. Tears alone never supply confirmation of this successor.
+
+**Original threshold versus observed evidence.** Apply the exact original disconfirmation above separately to the named branches. Supported components do not supply missing comparisons/conjunctions; adverse complete branches remain local evidence even if the whole compound stays PARTIAL. No category vote or new global repetition threshold is imposed on Gen04.
+
+**Claim transition and confidence.** PRESERVE. MODERATE for B competition; OPEN the unvalidated A conjunction and agency-qualified transfer. Reject any sufficient actual-tears brake.
+
+**Prior/primary routes.** CP04 §3.1/MG04-K04 and historical V11 C2P0404/0431/0443–0450; V13 C2P0463–0515; V14 C2P0328–0373; V15 C2P0813–0815/0946, C3P0010–0022/0404.
+
+### MG04-A01 — PARTIAL
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-A01, exact original-string SHA256 `96a91e35f4e03449a4b94b6f51e6cc15ecaedc78e22b888d3ffae13bd8c720d0`.
+
+**Original trigger.** A clearly bounded task uses an already demonstrated ability: healing, purification, resurrection, support/sealing, practiced construction/art, relevant water control, or previously demonstrated nightvision. Require sufficient access/resources and record engagement/readiness independently.
+
+**Original relationship/stakes.** institutional or explicitly organized service; sufficient access and resources. Record sleep, distraction and activation separately from the quality of execution.
+
+**Original predicted effect.** Capacity branch: once engaged with adequate resources she will execute the established-domain task at a high level. Comparative clarity branch: where source evidence independently supplies sufficiently comparable clear versus misaligned/unclear goals with domain/access/resources recorded, the clear arrangement will produce fewer task errors. Score capacity execution, readiness at the required moment and comparative clarity separately. A bounded successful task without the comparison is NT for comparative clarity, not a causal confirmation of error reduction. No competence in unobserved domains or guaranteed readiness is implied.
+
+**Coverage.** Engaged established-domain capacity receives repeated bounded support across purification, art, support, healing and resurrection. Readiness/access are variable, not inferred from demonstrated ability. The separate comparative goal-clarity branch still lacks a sufficiently comparable clear-versus-misaligned pair.
+
+**Contrary evidence and missingness.** Maintain attempted BreakSpell with no change and no established curse in V14; lack of an established curse is not a known causal explanation. V14 failed Turn Undead remains locally failed at then-current knowledge; V15 Serena’s corpse-control explanation may explain it prospectively but cannot rewrite that local record. V15 treatment approach is blocked before any cast. A known-domain cast with access/resources that fails through inability remains adverse; uncertainty is not immunity.
+
+**Exact original disconfirmation.** Capacity: repeated engaged adequately resourced established-domain tasks fail chiefly through domain inability/misunderstanding. Comparative clarity: independently matched clear-versus-misaligned arrangements show no predicted improvement or contrary error pattern. A clean single contrary branch remains local adverse evidence. If no sufficient comparison exists, comparative clarity is NT even when capacity succeeds. Readiness is separately observed and cannot be inferred from ability; a new craft is not mastered merely because construction was.
+
+**Original threshold versus observed evidence.** Apply the exact original disconfirmation above separately to the named branches. Supported components do not supply missing comparisons/conjunctions; adverse complete branches remain local evidence even if the whole compound stays PARTIAL. No category vote or new global repetition threshold is imposed on Gen04.
+
+**Claim transition and confidence.** PRESERVE. HIGH bounded domain capacity; OPEN comparative clarity and moment-specific readiness.
+
+**Prior/primary routes.** CP04 §3.2/MG04-A01; V13 C1P0101–0118/0201–0220 and FP0431–0447; V14 C3P0249–0251 and FP0188–0198/0368; V15 C1P0311–0313, C2P0515/0676–0677, C4P0017/0124.
+
+### MG04-A02 — PARTIAL
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-A02, exact original-string SHA256 `34a363e5c33bc4cc5ab0104edd13372b543d3ed88d907f3579aca75d4c3f131b`.
+
+**Original trigger.** an ongoing instrumental assignment is interrupted by a challenge to Aqua's divinity, followers, superiority or public recognition, and the prestige contest offers a response distinct from completing the task.
+
+**Original relationship/stakes.** the challenger need not be a friend; the original assignment and its constraints must be identifiable before the challenge.
+
+**Original predicted effect.** she will escalate assertion, performance or power use and loosen at least one original task constraint. Competent ability may magnify the collateral cost. Directly acknowledged imminent harm can be a competing cue, but must be observed rather than inferred after the fact.
+
+**Coverage.** Prestige response is real but does not universally displace an ongoing task. V14 is a retained clean scoped local F: independently tasked cemetery work, heard divinity challenge, autonomous return to task before a failed cast. V15 remains AMBIGUOUS, with a positive escalation candidate and an adverse persistence candidate whose eligibility is disputed. No repeated clear-failure retirement has been established.
+
+**Contrary evidence and missingness.** Cemetery FP0188 resumption is task persistence despite FP0198 failure; ability failure cannot be used to manufacture abandonment. V15 C2P0676 water act is completed before toilet-goddess insult0689/beam0694; continuing escape assignment/constraint is uncertain. Wiz is seen scorched0700 during the fight; the exact reflected-beam causal route is Kazuma’s hedged attribution. In FP0119–0121 Aqua explicitly frames purification as divine duty; prior return goal C4P0176–0188/FP0041–0060 supplies context. Vanir interposes0125, warns/calls her violent0126 and provokes0127; she ignores0128, resumes original Wiz purpose0129. The return/friend-pain rationale first explicitly stated0129 follows ignoring and cannot be backdated. Physical blocking targets Wiz, not demonstrably a distinct prestige fight; self-adopted tasks are eligible. Challenge eligibility and competing-constraint criteria must be symmetric for positive and adverse candidates.
+
+**Exact original disconfirmation.** repeated clear prestige challenges leave the separate assigned goal and constraints intact without another actor preventing escalation or independently acknowledged imminent harm already competing with it. Other proposed explanations remain rival accounts or adverse evidence for revision, not automatic exclusions.
+
+**Original threshold versus observed evidence.** Original disconfirmation requires repeated CLEAR prestige challenges that leave task/constraints intact without another actor preventing escalation or independently acknowledged imminent harm already competing. V14 is one complete autonomous local contrary direction; failed result does not erase persistence. V15 eligibility/constraint timing is AMBIGUOUS, not a second clean case by label voting. Repeated clear-failure threshold is unestablished. CompoundPARTIAL preserves the clean localF and lowers broad displacement confidence rather than claiming unchanged original validity.
+
+**Claim transition and confidence.** REVISE. DOWNGRADE the broad HIGH displacement rule; PRESERVE identity sensitivity and strong task persistence as distinct states. New task-integrated versus task-displacing response design is prospective only.
+
+**Prior/primary routes.** CP04 §3.2 and MG04-A02; V13 C1P0388–0390/C3P0107–0108; V14 FP0136/0165/0170/0181–0198; V15 C2P0676–0700 and FP0119–0129 with C4P0176–0188/FP0041–0060.
+
+### MG04-A03 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-A03, exact original-string SHA256 `d5f569b04754e74a37555dc40b157ba5a203f231013cc5e709045fbf646f1e75`.
+
+**Original trigger.** Aqua demonstrably knows the required service, has an identified beneficiary/responsibility, and receives acknowledgment specifically for the actual useful work. After that acknowledgment, at least two separately identifiable further opportunities to perform the same service occur while resources, beneficiary need and recognition alignment remain available. This two-opportunity threshold is a new prospective Gen04 measurement choice, never a retroactive Gen03 rule.
+
+**Original relationship/stakes.** Record externally imposed versus voluntarily owned assignment, any distinct prestige challenge and any newly observed interruption before each opportunity. Return-time offerings after an elided long task do not establish recognition-before-continuation.
+
+**Original predicted effect.** Across the two post-recognition opportunities she will continue the required useful output; display or sharing rewards may coexist while the core service is completed. Score output, voluntary ownership and recognition timing separately. Positive temporal recurrence supports this conditional behavioral forecast, not unique recognition causation: ownership, particular-person care, habit and material reward remain rival sustainers unless independent motive/comparison evidence distinguishes them. A single meal with several dishes, a promised lesson or retrospective duration is not sufficient.
+
+**Coverage.** Actual sustained service and several admired outputs are established, but none of V13–V15 independently supplies work-specific acknowledgment followed by at least two distinct further same-service opportunities with available resources/need/alignment.
+
+**Contrary evidence and missingness.** V14 admired food and the request for more mushrooms do not show extra production, explicit refusal or two opportunities. V15 useful support/care do not fill the temporal design. Conditional recurrence would not uniquely establish recognition causation over ownership, habit, material reward or attachment. The threshold remains the original Gen04 rule, not retrospectively imposed on Gen03.
+
+**Exact original disconfirmation.** Under the complete pre-established temporal structure, post-recognition repeated opportunities produce refusal, abandonment or merely decorative output despite still-available resources/need and no independently observed distinct contest/interruption. If recognition follows the work or later opportunities are unshown, the mechanism is NT, regardless of valuable service. A self-selected decorative diversion is an outcome to score, not an automatically external interruption that removes the case.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** OPEN. MODERATE unvalidated mechanism; HIGH actual historical sustained V12 care is a different proposition.
+
+**Prior/primary routes.** CP04 §3.2/MG04-A03; V13 garden/service records; V14 C1P0307–0309/FP0228–0238; V15 local A03 branch record.
+
+### MG04-A04 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-A04, exact original-string SHA256 `1e554147bf1364f6f55ec79c2bf664c48faedd622f9ec15f9b9bd0ca9ac736a3`.
+
+**Original trigger.** repetitive maintenance remains low in Aqua's expressed valuation and a concretely available, attractive one-step high-power alternative is established.
+
+**Original relationship/stakes.** no salient learned analogue or strong external constraint already rules out the shortcut; all these conditions must be checked before counting a test.
+
+**Original predicted effect.** she will prefer the shortcut while giving insufficient attention to a secondary system it affects.
+
+**Coverage.** No complete low-valued repetitive-maintenance plus concretely attractive maximal shortcut conjunction is established across the tranche.
+
+**Contrary evidence and missingness.** Fast work, secondary effects of purification, weekly cemetery work or a site deviation do not by themselves establish low valuation and an available maximal alternative. A calibration outcome must be scored when a full match occurs; it cannot be removed by labeling its chosen concern a constraint after seeing restraint.
+
+**Exact original disconfirmation.** matched cases repeatedly show calibrated routine performance despite the available shortcut, with no learned analogue or external constraint already accounting for it. Mere speed, effective drying or any manual work does not establish the trigger.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** OPEN. MODERATE inherited but unvalidated compound, not strengthened by more adjacent competence.
+
+**Prior/primary routes.** CP04 MG04-A04; V13 C2P0125–0136; V14 FP0140/0160 and C4P0627; V15 A04 exact local record.
+
+### MG04-M01 — CONFIRMED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-M01, exact original-string SHA256 `131e3fdfcd78e000433b32fd956d7eb3bed0ff8a5148117ea7e22a92865bef79`.
+
+**Original trigger.** a rival, including a companion acting as a rival, explicitly denigrates, replaces or imitates Explosion in a way Megumin treats as a challenge to her specialist identity.
+
+**Original relationship/stakes.** ordinary financial, equipment, convenience or status cost to companions is known; neither an independently expressed conclusion that her build seriously burdens them nor an independently recognized imminent grave companion-harm cue is active before her response. Record mixed-trigger episodes separately rather than deriving eligibility from which motive wins.
+
+**Original predicted effect.** she will defend, compete, reject the replacement or retaliate; known ordinary companion cost alone will not reliably secure compromise. Record any attempt at redirection rather than treating all escalation as uncontrolled.
+
+**Coverage.** CP-only clarification makes V13 FP0221–0237 a full ordinary-cost choice: Kazuma explicitly values watching the duel0221, Megumin names Explosion and challenges the comparison0222, he explicitly devalues Explosion and says it ends exchange0224, then she begins chanting0232. Her reply/action and later stated jealousy0234 support identity activation before external restraint. The known ordinary companion loss is the already disclosed valued spectacle; a separately spoken cost warning before choice is not required. FP0221 itself does not name or explicitly denigrate Explosion;0222 is Megumin’s perceived legitimacy comparison. The direct literal denigration is Kazuma’s0224 BEFORE her chant0232. That distinction prevents treating her initial possible misunderstanding as the sole trigger.
+
+**Contrary evidence and missingness.** The accepted V13 PARTIAL record stays exact. This new CP disposition is attributable to bounded primary reinspection, not a silent local relabel or a claim of completed casting: Kazuma externally stops the attempt0232/0237. The later explicit noninterference warning0235 is not the first possible cost evidence. Identity activation is better replicated than ordinary-cost priority; one matched priority choice is not a frequency estimate. V14 title/competence challenge is not necessarily explicit Explosion denigration. V15 reserve-letter existence0473 is direct, advanced-magic rationale0474 is Yunyun’s hedge; ordinary shared-letter cost0476 is known before actual destruction0498–0501, but the exact specialty trigger is still disputed. No named formal debate prerequisite is added. Her later0234 speech explicitly identifies jealous attention to other casters; ordinary-cost priority is a supported choice property, not a uniquely isolated causal mechanism or a repeated rate. P0237 is the same interrupted chant/struggle, not a second independent casting choice.
+
+**Exact original disconfirmation.** repeated clean identity challenges lead to easy compromise because of ordinary companion cost alone, without visible identity conflict, retaliation or an independently evidenced higher-order burden/harm appraisal.
+
+**Original threshold versus observed evidence.** Original repeated easy-compromise failure criterion is not met. The proposed positive CP disposition rests on one full independently known ordinary-cost attempt after literal Explosion denigration, not on completed firing or a new explicit-warning requirement. Identity replication exceeds cost-priority replication; confidence remains MODERATE and historical localPARTIAL stays exact.
+
+**Claim transition and confidence.** STRENGTHEN. HIGH defensive identity; MODERATE ordinary-cost priority, now one bounded matched choice if root adopts CP-only clarification. Confidence is not HIGH merely because the compound candidate is CONFIRMED.
+
+**Prior/primary routes.** CP04 §3.3/MG04-M01 and older RC-V09-01; bounded MAIN-13 FP0205–0245, especially0221/0222/0224 before0232; V14 C3P0138–0161; V15 C4P0473–0501.
+
+### MG04-M02 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-M02, exact original-string SHA256 `7395f9226b836e6de8f965ee01ba513942cbb074ad7dfa2071284c8ff268265b`.
+
+**Original trigger.** Megumin herself concludes that her exclusive specialization materially prevents her from contributing to valued companions, rather than merely hearing an opponent's criticism.
+
+**Original relationship/stakes.** established companions; the perceived burden is substantial and attributed to the build, not inability to attack one particular person.
+
+**Original predicted effect.** she will seriously consider compromise, a changed role or abandonment of the exclusive build, with visible loss or reluctance. Others' reassurance may alter the decision, but should not erase the initial conflict.
+
+**Coverage.** No new self-accepted conclusion that the exclusive build materially blocks contribution establishes the inversion trigger.
+
+**Contrary evidence and missingness.** External one-shot criticism, trial failure, a changed ambition or romance insecurity is not her accepted substantial contribution guilt. Absence of a test neither confirms flexibility nor proves inflexibility; the older inversion rationale remains guarded.
+
+**Exact original disconfirmation.** repeated explicit, substantial self-attributed build burdens produce no meaningful conflict or consideration of compromise, even when a feasible alternative is recognized.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** OPEN. MODERATE inherited unvalidated conditional.
+
+**Prior/primary routes.** CP04 MG04-M02 and V04–V06 checkpoint §6/Gen02-M01 Trigger B; V13 C2P0083/0096/0099 and C4P0283–0299; V14 C3P0139/C4P0098–0107; V15 M02 local record.
+
+### MG04-M03 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-M03, exact original-string SHA256 `935375eef81463203539990694725255ecbfe2f46bb6716643f238a4a4ee905e`.
+
+**Original trigger.** a target within Explosion's established capacity/range is dense or immobilized; friendlies are safely separated; resource use and the post-cast exit/carry requirement are planned.
+
+**Original relationship/stakes.** no identified valued person occupies the target role. The conditions must be established before evaluating the result.
+
+**Original predicted effect.** she will execute reliable terminal fire, making the specialization highly useful for that task. This predicts tactical efficacy; it does not predict restraint toward defeated enemies or sound choice of the campaign's larger objective.
+
+**Coverage.** Strong destructive power and actual terminal fire do not supply the full prepared geometry/resources/exit conjunction.
+
+**Contrary evidence and missingness.** V13 airborne shot danger/intuitive aim and post-cast escape posture do not show prior safety plan. V14 initial carry request exists but the final mobile target/friendly separation and injured carrier leave antecedents incomplete. V15 stationary letter may count as a target; a universal tactical-mission prerequisite is NOT in the forecast. Missing prior safe-friendly geometry/resources/exit suffices for NT. Do not exclude an inconvenient target class after outcome.
+
+**Exact original disconfirmation.** repeated fully matched target/resource/exit cases fail because of her own ordinary target-selection or execution process, despite no new relational inhibition or external interference.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** OPEN. MODERATE full prepared-artillery transfer; HIGH observed capacity is separate.
+
+**Prior/primary routes.** CP04 MG04-M03; V13 C1P0423–0449; V14 C4P0355/0463–0484; V15 C4P0498–0501 with missing prior geometry/exit.
+
+### MG04-M04 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-M04, exact original-string SHA256 `fa0838ac5a0faf2bd260b80467c90de199b2e907a193c423396a57a95aa2647a`.
+
+**Original trigger.** a task calls for decisive harm to someone whom the source independently establishes as personally valued by Megumin through rescue, teaching, gratitude or another significant relationship.
+
+**Original relationship/stakes.** that person is now an opponent or obstacle; technical feasibility and urgent reasons to act may both be present.
+
+**Original predicted effect.** she will show meaningful hesitation, a search for acknowledgment/choice, or inability to execute before or during a personally meaningful acknowledgment or choice; acting need not resolve subsequent guilt. If she acts, immediate celebratory ease is less likely than residual emotional cost. Record pre-action relational friction and post-action emotional cost separately. The mechanism does not depend on a target merely looking human.
+
+**Coverage.** No new decisive firing task targets a person independently established as significantly valued by Megumin.
+
+**Contrary evidence and missingness.** V14 robot affinity/guardian history does not establish her personal rescue/teaching/gratitude bond. Her eventual firing despite affinity constrains a broader any-affinity inhibition theory but is not a full personally valued-person test. Pre-action friction and post-action cost remain distinct falsifiable branches; later regret cannot erase effortless pre-action firing.
+
+**Exact original disconfirmation.** a comparably established valued-target conflict produces effortless execution without meaningful pre-action relational friction despite the salient bond. This is adverse to the firing-constraint component even if regret follows. Easy celebration without meaningful emotional aftermath is separately adverse to the aftermath component. A target with no such history is not a test.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** OPEN. MODERATE guarded relational-target transfer.
+
+**Prior/primary routes.** CP04 MG04-M04 and V09 0014:P0534–0544; V14 C4P0369/0472–0481; V13/V15 M04 local records.
+
+### MG04-M05 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-M05, exact original-string SHA256 `a7fe7b2f193c0cd0db05a7cf2d1cdc8ddfee1e2b32f4272054da5b09f2ae38d4`.
+
+**Original trigger.** Megumin knows that the best available tactical Explosion use would directly expose a valued companion to grave bodily harm, with the risk and alternatives made clear in the source.
+
+**Original relationship/stakes.** current valued companion; establish anticipated harm magnitude, Megumin's knowledge, alternatives and the tactical requirement independently. Minor displacement without established anticipated grave injury is distinct; uncertain severity remains ambiguous/adverse collateral, not automatically harmless comedy. An enemy's attack is not her own friendly-fire choice.
+
+**Original predicted effect.** she will hesitate, object, seek consent/authorization, redirect, or otherwise show clear friction relative to ordinary enthusiastic casting.
+
+**Coverage.** No complete best-tactical-Explosion, explicitly understood grave direct companion harm and clear alternatives dilemma is established.
+
+**Contrary evidence and missingness.** V14 Yunyun is actually blown away; harm cannot be called harmless because comic. Prior anticipation of grave direct injury is not shown. Shielding Kazuma from an enemy attack differs from choosing one’s own friendly fire. Older actual harm and partial care remain load-bearing; NT is not exoneration.
+
+**Exact original disconfirmation.** a clean matched case produces enthusiastic casting without relational friction despite her explicit understanding of the grave companion risk. Do not reclassify an adverse matched outcome as harmless comedy after observing it.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** OPEN. MODERATE exact guarded dilemma; no new validation from generic concern.
+
+**Prior/primary routes.** CP04 MG04-M05; V13 C1P0433–0449 and FP0232–0237; V14 C2P0135–0139/0170 and C4P0419/0432; V15 M05 local record.
+
+### MG04-M06 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-M06, exact original-string SHA256 `002c7cde5e7cb1014fcea137fc30ed77251bb1e59af65f64254647e8c1095de2`.
+
+**Original trigger.** a sustained operation repeatedly permits safe, effective Explosion and provides visible skill/experience growth or equivalent specialist reward; the original instrumental objective is approaching completion or has weakened.
+
+**Original relationship/stakes.** impersonal enemy/obstacle targets; no independently active valued-target or grave companion-harm conflict.
+
+**Original predicted effect.** she will seek additional casts, denser targets or an extended opportunity; a companion may need to restate the original goal. Tactical success can persist while goal discipline declines.
+
+**Coverage.** Daily/leisure casts and separate battles do not establish a sustained safe rewarding instrumental operation whose original objective weakens.
+
+**Contrary evidence and missingness.** V14 night achievement remains active through terminal cast; V15 reports repeated leisure casts but not instrumental goal drift. No future stop can count as disconfirmation without the prior rewarding sequence and weakened original objective.
+
+**Exact original disconfirmation.** repeated matched reward sequences lead her to stop or narrow use when the instrumental objective is achieved, without an external limit or another already established higher-priority conflict.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** OPEN. MODERATE unvalidated sustained-operation mechanism.
+
+**Prior/primary routes.** CP04 MG04-M06; V13 C3P0100; V14 C4P0292–0306/0481; V15 repeated-cast reports and M06 local record.
+
+### MG04-D01 — CONFIRMED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-D01, exact original-string SHA256 `369bdcfb2223242fc9949712a2a4a82abde16b403afd9f903f978ce41a2f5dc6`.
+
+**Original trigger.** a person Darkness treats as her responsibility faces serious harm or injustice, and she has a feasible defensive or institutional intervention.
+
+**Original relationship/stakes.** a protected person or companion; distinguish chosen fantasy danger from an independently visible threat to someone else.
+
+**Original predicted effect.** she will accept bodily, reputational or institutional cost. In a defense-aligned task she will use interposition/endurance rather than deliberately preserve helplessness. Equipment and opponent force may still overwhelm her.
+
+**Coverage.** Costly protector contribution has distinct matched sequences in all three volumes: frog rescue, resistance for sleeping Megumin and actual interposition before a lethal threat. Pleasure, institutional labor and finite physical capacity coexist.
+
+**Contrary evidence and missingness.** Do not invent burns/injury when armor prevents swallowing, or immunity when Sleep/Paralyze resistance ends in reported defeat. V15 actual death is not prevented; reflected pain, collapse and later pleasure-seeking pinching are separate outcomes. Protective intention does not make every chosen act protective.
+
+**Exact original disconfirmation.** despite recognizing serious unjust harm and a feasible contribution, she preserves rank/self-protection chiefly for convenience, or repeatedly sabotages the needed defensive role merely to remain helpless.
+
+**Original threshold versus observed evidence.** Source-ordered bounded matches support the predicted direction. The exact original disconfirmation remains governing; eventual rescue, mixed motives or helpful neighbors do not erase failed components/contrary candidates. Confirmation here is qualitative coverage, not estimated reliability or accuracy.
+
+**Claim transition and confidence.** STRENGTHEN. HIGH for feasible costly protection; no invulnerability or globally reliable restraint.
+
+**Prior/primary routes.** CP04 §3.4/MG04-D01; V13 C2P0256/0285/0319–0331; V14 C2P0254–0266/0468 and FP0169–0170; V15 C3P0343–0360/0518–0528 and Eris report C4P0017.
+
+### MG04-D02 — PARTIAL
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-D02, exact original-string SHA256 `7d28abd2266de1d085043182247b02326b1ca24457908ed214688dd4345cc60b`.
+
+**Original trigger.** An otherwise sought bounded event acquires either (A) an independently established unexpected audience/exposure condition that conflicts with a privacy preference expressed before the response, or (B) an explicit threat to previously valued equal companion standing. Establish the changed condition and prior preference independently of her reaction: the objection being scored cannot be the only evidence of the prior boundary. Fix the comparison baseline before outcome and keep partially matched cases when independent preference is missing. A completed membership loss is not required for an explicit matching threat.
+
+**Original relationship/stakes.** Fix controller, witnesses, chosen scenario and standing at risk. Reduced control or intense pain alone does not trigger this new directional forecast; all such cases are still logged as transfer evidence. This narrowing is a new successor to a mixed Gen03 compound, not rescoring its adverse agency case.
+
+**Original predicted effect.** A: direct objection, concealment, negotiation or flight will increase after the changed boundary. B: anxiety, protest or acceptance-seeking will increase after the explicit threat. Score A and B separately; later adoption/enjoyment of the scenario does not retroactively consent to the initial imposition and is retained as changed reward appraisal.
+
+**Coverage.** V13 supplies bounded prior shopkeeper-cover/private-standing context before exposure, objection and repair. V14 and V15 retain meaning-sensitive objection but incompletely isolate the full A prior privacy/event change. Exact B equal-companion-standing threat remains NT.
+
+**Contrary evidence and missingness.** The forecast says otherwise sought bounded event, not fantasy only. V15 legal release can be an otherwise sought event; independently prior matching privacy remains uncertain. An imposed later hug and subsequent nonresistance do not backdate consent or a chosen baseline. Broader control loss remains mixed, with older enjoyed coercion preserved. J01 independently established dignity does not universally require D02’s exact prior privacy/sought-event conjunction.
+
+**Exact original disconfirmation.** Repeated full A/B cases show no objection/anxiety/recovery and uniformly welcome the independently rejected boundary/standing change. Any single matched countercase remains adverse even before repeated-case threshold. Do not remove the V10 real-hostage enjoyment or V12 later public-strip fantasy because it is pleasurable; those constrain the broader model and original Gen03 PARTIAL.
+
+**Original threshold versus observed evidence.** Apply the exact original disconfirmation above separately to the named branches. Supported components do not supply missing comparisons/conjunctions; adverse complete branches remain local evidence even if the whole compound stays PARTIAL. No category vote or new global repetition threshold is imposed on Gen04.
+
+**Claim transition and confidence.** PRESERVE. HIGH bounded audience/meaning sensitivity; MODERATE transfer; OPEN B.
+
+**Prior/primary routes.** CP04 §3.4/MG04-D02 and V10 control countercase; V13 C4P0158–0200; V14 C3P0006–0023/0087–0090/0219; V15 D02 local record and Ep imposed-contact context.
+
+### MG04-D03 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-D03, exact original-string SHA256 `e973301a6cbc14ed0edb5e046e7f6afa0b8f8d0e1b01cc2445b584cdd0cfd364`.
+
+**Original trigger.** family/noble/civic duty and continued party membership make genuinely incompatible concrete demands.
+
+**Original relationship/stakes.** obligations to identifiable people on both sides, rather than an abstract preference for prestige or temporary deployment apart.
+
+**Original predicted effect.** she will try negotiation, procedural workarounds or personally costly absorption before easy abandonment. Her V07 secrecy/self-erasure remains a possible procedural error; protective intent does not guarantee shared decision-making.
+
+**Coverage.** Actual civic work, family duty and ongoing party attachment coexist without a concrete demand making duty and continued membership genuinely incompatible.
+
+**Contrary evidence and missingness.** Temporary division of labor, romance exclusion, financial burden or Yunyun’s different chiefdom conflict do not fill a Darkness-specific membership incompatibility. Preserve any observed procedural self-erasure as risk without inventing a new test.
+
+**Exact original disconfirmation.** she discards either established relationship or recognized duty for convenience or prestige without visible conflict or preservation attempt despite feasible alternatives.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** OPEN. MODERATE inherited unvalidated conflict transfer.
+
+**Prior/primary routes.** CP04 MG04-D03 and V07 historical procedural-risk evidence; V13 C1P0318–0319/C2P0132–0136; V14 D03; V15 institutional labor/temporary role division.
+
+### MG04-E01 — PARTIAL
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-E01, exact original-string SHA256 `a7ee614fe66b9c60727023a9d0e9048a45e82e256cd20c7dec7bdbf1255b2e95`.
+
+**Original trigger.** a serious multi-stage problem requires several established specialist capacities, and source evidence permits comparison between missing/misaligned organization and an arrangement with explicit roles, targets, resources and handoffs. Classify these arrangements and incentive alignment independently of the eventual result.
+
+**Original relationship/stakes.** record practical task completion, friendly harm, goal discipline and moral objections separately. Temporary allocation apart does not mean loss of membership.
+
+**Original predicted effect.** the aligned arrangement will improve reliable deployment relative to the earlier missing/misaligned state: more intended specialist actions completed at assigned targets/times, fewer failed handoffs, or fewer missing required resources. A capable institution/domain expert can supply the arrangement. Where it has not been supplied, Kazuma will more often initiate or repair it; where another actor supplies it, successful deployment need not depend on his continuing direction. Score deployment improvement, alternative-provider adequacy and Kazuma's comparative contribution separately. A concealed target relationship or misaligned reward can still disrupt a technically sound plan.
+
+**Coverage.** A explicit-fit deployment gains source-ordered improvement. B alternative providers cover bounded final-night survival in V14 and restoration in V15; C those phases do not depend on continuing Kazuma direction. Wider multi-problem comparative frequency/whole-program provider adequacy remains incomplete.
+
+**Contrary evidence and missingness.** Keep the same-cure comparison after C3P0394 mechanism known: inadequate one-hand hold0414/warning0421 → resource Steal/toss0425–0433 → save0434 → stillness0439, fuller hold0440, orientation0441 → application0442–0443. The rescuers restrain Kazuma; he does not direct his own cure. Initial selection can be Kazuma’s while later repair/execution belongs to others. Never infer adequate whole-campaign replacement from a successful phase or make him universally necessary.
+
+**Exact original disconfirmation.** across comparable multi-stage problems, explicit alignment produces no improvement in deployment, or specialist availability alone repeatedly yields equally reliable safe task completion without observable coordination; also adverse is persistent dependence on Kazuma despite an alternative arrangement independently shown to supply the required roles, resources and handoffs.
+
+**Original threshold versus observed evidence.** Apply the exact original disconfirmation above separately to the named branches. Supported components do not supply missing comparisons/conjunctions; adverse complete branches remain local evidence even if the whole compound stays PARTIAL. No category vote or new global repetition threshold is imposed on Gen04.
+
+**Claim transition and confidence.** STRENGTHEN. HIGH bounded alignment; OPEN whole-system/comparative coverage.
+
+**Prior/primary routes.** CP04 §3.5/MG04-E01; V13 C1P0387–0414/C2P0285–0320; V14 C3P0351–0392/I13P0058–0071/C4P0008–0012; V15 C3P0394/0414–0443 and later strategic neutralization.
+
+### MG04-E02 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-E02, exact original-string SHA256 `f6ec87cfa89ef7cdc429e123dbcdfdb88e5521e84f84727d110d6657cd02e06c`.
+
+**Original trigger.** a feasible reorganization promises practical efficiency but credibly removes an established core party/home relationship for a sustained period.
+
+**Original relationship/stakes.** established members, meaningful permanence; ordinary raids, errands, a night out or romantic awkwardness alone do not qualify.
+
+**Original predicted effect.** one or more core members will resist, bargain, return, protect contact or bear a cost to preserve the bond. Ordinary insults need not soften and temporary tactical separation can remain acceptable.
+
+**Coverage.** V15 gives strong practical-benefit and attachment-cost ingredients, but feasible implementation of sustained heaven/home removal remains unresolved; the King-defeat prerequisite is not established feasible. V13/V14 lack the full efficiency/removal setup.
+
+**Contrary evidence and missingness.** A proposal need not have been completed to qualify. Heaven’s recruiting benefit is explicit, not missing; contact loss, anxiety and pursuit are actual. Under a generous conditional-offer reading the case would support preservation behavior, not disconfirm it. Kazuma’s quieter-two-women fantasy is a real counterpreference. Strong attachment cannot validate feasibility by itself or prove everyone always wants return.
+
+**Exact original disconfirmation.** durable efficient separation is accepted with sustained relief and little attachment cost despite feasible ways to preserve the established relationship.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** OPEN. MODERATE exact efficient-durable-reorganization conditional; HIGH actual particular attachment.
+
+**Prior/primary routes.** CP04 MG04-E02; V14 C4P0561–0570/0646–0649; V15 C4P0176–0188, FP0192–0197/0235–0244 and EpP0049–0062.
+
+### MG04-J01 — PARTIAL
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-J01, exact original-string SHA256 `dfe7ecf88da4933057f0e281a22d238ff695b8a2cdd06565ab4a3b721517f0a0`.
+
+**Original trigger.** A scene independently establishes an actual role/stake change and adequate before/after speech. Classify speaker, addressee, audience, duty/identity/vulnerability and immediate danger before language coding; if care/duty already active, log an intensified-state comparison rather than invent a new role onset.
+
+**Original relationship/stakes.** Semantic content may establish a commitment/role, but its formal wording is then excluded from successful surface evidence. Freeze the mapping and exact comparison windows before coding, keeping weak/sparse/adverse cases. Unequal windows are not a frequency experiment.
+
+**Original predicted effect.** Score mappings separately. Megumin specialist challenge: competitive assertion/denial; an explicit spell-legitimacy comparison additionally predicts specialist identification, while ritual mockery is retained as an identity-adjacent subtype. Personal gratitude/vulnerable appeal: direct relational address/request. Aqua service: practical directives; direct divine-status contest: self-legitimation/acknowledgment demands. Darkness public duty: institutional/protector framing; independently established dignity threat: personal objection; belonging threat: acceptance requests. Kazuma quiet relational care: ordinary questions/offers/self-disclosure relative to reward/grievance; independently new urgent tactical care from a previously nonurgent grievance/reward state: the after-window will contain a task-specific command, resource request or handoff instruction that redirects speech toward protecting the companion. This is a definite functional-direction prediction, not merely permission for commands; absent/opposite direction with adequate speech is adverse. An already practical baseline cannot confirm a new onset and is logged separately as an intensified-state/role-limited comparison. A mere vulnerable companion without independently adopted care remains role-limited.
+
+**Coverage.** All original role/window mappings and both separate judgments remain: V13 30 originals, V14 44 plus auxiliary, V15 95 originals (85 primary+10 auxiliary), with overlap explicitly not independent trials. Several mappings have direct support; adverse, unchanged/opposite, sparse, already-active and role-limited cases prevent whole-compound confirmation.
+
+**Contrary evidence and missingness.** J01 dignity needs independent dignity evidence, not universally D02’s narrower private-baseline conjunction. Actual-care onset must be independently established; vulnerable presence or already-practical care cannot create a successful new turn. Preserve PV08/IV12/PV16 adverse Aqua directions and IV15-24 disagreement on comparative 私以下 (self-legitimation versus relative insult) without remapping. P/I labels/rationales survive factual subject corrections; shared model/source, joint uncoded boundary work and bounded QA limit independence. Written source forms support stance/function, not acoustic claims.
+
+**Exact original disconfirmation.** Repeated full mapped role changes yield unchanged/opposite wording with adequate speech, or apparent fit requires changing role/mapping/windows after observing the language. A supported mapping cannot hide another adverse one. Sparse comparable speech is NT. Preserve already-active-role and factual-description errata visibly rather than replace a baseline.
+
+**Original threshold versus observed evidence.** Apply the exact original disconfirmation above separately to the named branches. Supported components do not supply missing comparisons/conjunctions; adverse complete branches remain local evidence even if the whole compound stays PARTIAL. No category vote or new global repetition threshold is imposed on Gen04.
+
+**Claim transition and confidence.** PRESERVE. MODERATE-HIGH role conditioning; branch-specific, no universal form or aggregate success rate.
+
+**Prior/primary routes.** CP04 §3.6/MG04-J01; V13 all30 fixed comparisons; V14 all44 fixed comparisons+aux; V15 all95 paired public-v2 rows and original sealed files. Current Cp preparation does not reconstruct missing native V13 registry from memory.
+
+### MG04-J02 — CONFIRMED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-J02, exact original-string SHA256 `8298df525efff2b2a5ea8018be73d24c15d7a16a1b572f5fa5bc16d60e6e4bd7`.
+
+**Original trigger.** A complete source-first census of qualifying comic episodes across authorized V13–V15 principal main narratives, pooled across that new tranche. Per-volume results remain local contributions. No source outside that scope is admitted by this forecast.
+
+**Original relationship/stakes.** no character-specific condition. Identify episode eligibility and boundaries independently of L-class. Include verbal/written-form episodes and recurrent gags even when the only consequence is an immediate response or narrator retort; brevity alone is not an exclusion.
+
+**Original predicted effect.** more than half the eligible episodes will have a primary comic mechanism preserved through situation, causal reversal, timing, role or ordinary register/pragmatic equivalents (L0–L2), rather than requiring Japanese-specific reconstruction or annotation (L3).
+
+**Coverage.** After V15’s verified full gate, the complete accepted V13/V14/V15 fixed census pools to496 units:488 clear portable,1 clearL3,7 mixed. Conservative portable interval488–495/496 is strictly above one half even assigning every mixed unit toL3. This is the separate formal whole-tranche score; every preserved local PARTIAL remains its original local contribution.
+
+**Contrary evidence and missingness.** V13 192=188clear+1L3+3mixed; V14 154=151clear+3mixed after explicit U052 postcomparison source reassessment; V15 150=149clear+1mixed. Original V14 initial150/4 and109/45 fine history remain; no new initial agreement is invented. Excluding all22+8+36 soft-touched units is a sensitivity only, giving430=422clear+1L3+7mixed and422–429/430; the primary denominator remains496. Neither fine agreement nor high portability proves translation quality or statistical calibration. The V15 full gate and complete-input conditions are satisfied at this checkpoint’s acceptance; an incomplete future census would still permit only PARTIAL reporting.
+
+**Exact original disconfirmation.** the completed census establishes failure of the strict L0–L2 majority under the bound rule above, including a fully resolved tie. A result achieved only by excluding short form-dependent episodes or changing boundaries after classification is invalid evidence, not confirmation.
+
+**Original threshold versus observed evidence.** The completed nonempty pooled bound is the exact governing rule, not a repeated-character tendency. The accepted488 clear/496 exceeds248 even assigning all7 mixed toL3; the1 clearL3 remains. CP05’s explicit receiving and the already closed V15 gate support the formal whole-tranche CONFIRMED result; every local PARTIAL remains exact.
+
+**Claim transition and confidence.** STRENGTHEN. MODERATE for a fresh future-tranche expectation; HIGH descriptive robustness for this completed admitted corpus; MODERATE future-tranche expectation is a separate confidence claim.
+
+**Prior/primary routes.** CP04 MG04-J02 strict bounds; published V13 J02 and current V14 J02; V15 fixed150/36soft and paired-public-candidate-v2 census. This checkpoint adopts that complete-corpus arithmetic separately from every unchanged local record; containing source publication remains a distinct transaction.
+
+### MG04-Y01 — CONFIRMED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-Y01, exact original-string SHA256 `59899443672218544eecafbf9cca249ae0b32431a5accc2aa00cb35384f46102`.
+
+**Original trigger.** trusted companions explicitly include Yunyun in a shared undertaking, including accepting her offer to join, and give her access to a role suited to her established magic or practical knowledge.
+
+**Original relationship/stakes.** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.
+
+**Original predicted effect.** she will prepare and carry out the relevant role despite awkwardness or anxiety, sometimes overpreparing or overoffering. Moral or relational distress may produce objections without immediately ending participation; distress or interrupted commitment under a directly conflicting personal obligation remains context to record; it is not automatically a failed technical execution.
+
+**Coverage.** All three volumes supply accepted inclusion and actual suitable contribution: reported trial agreement/Teleport, welcoming party context with actual scouting, and explicit recruitment→acceptance→Invisibility.
+
+**Contrary evidence and missingness.** V14 scouting precedes the party-word delight, limiting causal attribution to that later label. V15 Silent is requested, not separately shown cast; the ice spell belongs to Kazuma. Later village-chief/return conflict and letter destruction do not demonstrate a completed final stay or retroactively a failed earlier spell. Inclusion does not erase obligations or secure consent to every later plan.
+
+**Exact original disconfirmation.** repeated genuine invitations with feasible familiar roles produce sustained indifferent refusal or poor participation unrelated to a documented conflicting obligation, ability/resource limit or coercive condition.
+
+**Original threshold versus observed evidence.** Source-ordered bounded matches support the predicted direction. The exact original disconfirmation remains governing; eventual rescue, mixed motives or helpful neighbors do not erase failed components/contrary candidates. Confirmation here is qualitative coverage, not estimated reliability or accuracy.
+
+**Claim transition and confidence.** STRENGTHEN. MODERATE-HIGH bounded participation; no unconditional availability or final secondary reconstruction.
+
+**Prior/primary routes.** CP04 bounded-secondary table/MG04-Y01; V13 C4P0283–0295; V14 C2P0094–0119 and C4P0008–0012; V15 C2P0221–0236 and C4P0483–0509.
+
+### MG04-CE01 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-CE01, exact original-string SHA256 `346317f3901777c97ceb6c60836f04a5ef89cf482eac5adb909dbbb29c691818`.
+
+**Original trigger.** in her public divine/service role, Chris/Eris receives sincere requests whose cumulative burden exceeds what she explicitly prefers, and a refusal or exit is possible.
+
+**Original relationship/stakes.** distinguish publicly owed duty from casual trusted companionship; identify her own expressed burden, not an observer's assumption that she must be tired.
+
+**Original predicted effect.** she will tend to continue past her preferred burden until a boundary is negotiated or another actor supplies an exit. A successful self-set boundary is adverse evidence for the over-compliance tendency and should not be reclassified as its confirmation.
+
+**Coverage.** Chris/Eris’s helpful action and actual boundaries are visible, but no full public/divine sincere-request accumulation beyond her expressed preferred burden with feasible refusal is established.
+
+**Contrary evidence and missingness.** V15 no-repeat maid-greeting boundary is real and not confirmation of over-compliance. Do not require uninterrupted compliance or delete successful self-limitation when the full trigger eventually occurs. Direct afterlife conversation differs from Eris’s report of ground events.
+
+**Exact original disconfirmation.** repeated matched cumulative burdens elicit timely, comfortable self-limitation without significant conflict or externally created relief.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** OPEN. MODERATE guarded unvalidated cumulative-burden tendency.
+
+**Prior/primary routes.** CP04 bounded-secondary table/MG04-CE01 and original DISC-V08-04; V15 C4P0014–0017 and direct afterlife conversation; V13/V14 localCE01NT.
+
+### MG04-I01 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-I01, exact original-string SHA256 `36b18cf02b79f1d84946d9653bf3d8c48991552aafd971fdfa5dffcff12aadc2`.
+
+**Original trigger.** Iris is directly shown with a trusted person who treats her as an ordinary younger peer in a setting with less formal royal surveillance.
+
+**Original relationship/stakes.** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.
+
+**Original predicted effect.** curiosity, informal strategy learning, competition or ordinary requests will become more visible than in the constrained setting.
+
+**Coverage.** No new directly shown safer nondeferential versus constrained-public Iris contrast enters V13–V15. Earlier V10/V11 bounded positives remain at their original authority.
+
+**Contrary evidence and missingness.** Letters, possibly edited retellings, memory and Kazuma’s faith in her power do not supply a direct new context contrast. No claim of incapacity or contrary stability follows absence.
+
+**Exact original disconfirmation.** repeated safe nondeferential settings leave her equally constrained, with no predicted behavioral expansion despite available ordinary choices.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** PRESERVE. MODERATE-HIGH inherited bounded role effect; no new tranche strengthening.
+
+**Prior/primary routes.** CP04 bounded-secondary table/MG04-I01 and actual V10/V11 contrasts; V13–V15 localI01NT/letter boundaries.
+
+### MG04-I02 — NOT_TESTED
+
+**Unchanged entering identity.** [CP04 original record](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V10-V12_CHECKPOINT.md), MG04-I02, exact original-string SHA256 `604cfc79c7272bda0d199ddecc0c8c2b9f9eeb20dab95133b58dd8e991017e3e`.
+
+**Original trigger.** the source directly establishes both a personal wish of Iris's and a royal obligation she understands as conflicting with it.
+
+**Original relationship/stakes.** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.
+
+**Original predicted effect.** she will tend to self-limit or choose a reduced request while the original wish remains expressed or otherwise directly evidenced.
+
+**Coverage.** No new direct Iris wish plus understood conflicting royal duty and narrowing choice occurs in the admitted tranche. Earlier clean V11 wish–duty result remains intact.
+
+**Contrary evidence and missingness.** Other characters’ descriptions of Iris, implied responsibilities or later political speculation do not fill her own wish/understanding. Preserve original V10/V12 and V13–V15 NT histories rather than counting mentions as recurrence.
+
+**Exact original disconfirmation.** repeated explicit wish/duty conflicts produce unconstrained prioritization of the wish without meaningful conflict or self-limitation, despite understood obligations.
+
+**Original threshold versus observed evidence.** The literal full trigger/comparison is not established in this tranche. Adjacent acts and unobserved opportunities cannot count toward the exact original failure threshold or confirmation. Earlier positive/negative histories retain their original scope; localNT is not evidence of absence.
+
+**Claim transition and confidence.** PRESERVE. MODERATE-HIGH inherited bounded wish–duty negotiation; no new validation.
+
+**Prior/primary routes.** CP04 bounded-secondary table/MG04-I02; V11 direct wish/duty/reduced request; V13–V15 localI02NT.
+
+# Model Generation 0.5 — Frozen Predictions for V16–V17
+
+These 25 main-only Gen05 forecasts become frozen only at the explicit root acceptance recorded in CP05. Their exact bytes and all 25 blank Outcome/Adjudication pairs are preserved in both CP05 and the prediction ledger. They derive through accepted V15 principal narrative only. The V15 full gate preceded authority reload and checkpoint receiving. V16 remains closed until CP05’s separate exact publication/readback, source audit, housekeeping and final exact-head success, followed by per-volume source admission.
+
+K03 continuation/completion partition and A02 pre-response task-compatibility partition are NEW prospective design choices. A02 also proposes a NEW broader competing relational/moral appraisal modifier beyond Gen04’s independently acknowledged imminent-harm cue; the new appraisal must be independently source-explicit before the choice, never inferred from target identity or outcome. J01’s prospective comparative-self-ranking test uses pragmatic function and preserves ambiguity, not positive/negative morphology. Numeric at-least2 operationalization of repeated is NEW for this generation, never an edit to Gen04. Categories/coverage are not accuracy.
+
+All 25 new Outcome and Adjudication pairs remain blank. Exact old forecasts/blank pairs and every local record stay preserved.
+
+## MG05-K01 — Indirect construction and capability-based revision, with recovery and ethics separate
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Kazuma.
+
+**Relationship condition:** combat or institutional stakes; distinguish strangers from valued people whose safety constrains available tactics.
+
+**Stake level:** Serious novel problem; direct-power disadvantage; actual bodily/institutional/ethical costs recorded separately.
+
+**Lineage/change:** PRESERVE the process claim; bounded new V14/V15 tests strengthen it without adding a success guarantee. Predecessor `MG04-K01` block SHA256 `e8a3e12ef868391389d59a1e5e552226ef025f74417a5ffa4902064b11a546e0`.
+
+- **Trigger/context:** a serious novel or under-structured problem disadvantages Kazuma in direct power, and he can identify at least one usable rule, tool, environmental feature or incentive.
+- **Relationship/stakes:** combat or institutional stakes; distinguish strangers from valued people whose safety constrains available tactics.
+- **Predicted appraisal:** the apparent power contest can be changed by altering state, sequence, information or other actors' incentives.
+- **Predicted dominant motive:** obtain a workable outcome at lower personal exposure while retaining agency over the method.
+- **Predicted behavior/effect:** He will search rules/tools/environment/incentives, combine or negotiate when direct power is inadequate, and assign fitted specialist actions where usable. If a newly learned capability actually invalidates his first plan, he will revise the method rather than merely repeat it unchanged. Score search, exact capability-based revision and delegation separately. A capture/acquisition plan can still omit safe release or recovery; record that omission independently before outcomes. Success, safety and ethical adequacy are separate.
+- **Interaction tendency:** practical instructions and explicit division of responsibility; opportunistic or unflattering framing may coexist with correct mechanics.
+- **Confidence:** HIGH.
+- **Evidence basis:** CP04 §3.1; V13 C2P0189–0192,0245–0248,0285 and C3P0226–0246; V14 C4P0380–0463; V15 C2P0203–0212 and C3P0502–0532 → C4P0156–0161.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** Repeated matched problems show only ineffective direct-force repetition or resignation despite an independently usable affordance; or newly learned invalidating capability is understood but he knowingly repeats the same failed method without a competing urgent reason. A missing delegation opportunity is NT for that branch. Independent success or harmful tactics do not themselves falsify the predicted search process; a failed component cannot be erased by eventual rescue.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Search/resignation pattern: repeated fully matched failures; prospectively repeated means at least2 distinct eligible decisions. Exact understood invalidating-capability repetition: one clear unmodified contrary revision decision is locally adverse/falsifying for that branch. Recovery/safety/ethics are independent outcomes.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-K02 — Entrusted preventable need recruits substantive help before certainty
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Kazuma.
+
+**Relationship condition:** Fix trust, recipient, concrete preventable harm, feasibility and timing before his response. Track danger, personal cost, likely credit and alternatives as explanatory variables, not additional eligibility floors. Generic heroism, fame or attractiveness alone is insufficient.
+
+**Stake level:** Concrete preventable harm can be emotional or bodily; trusted entrustment, not an added personal-cost floor.
+
+**Lineage/change:** PRESERVE the literal entrusted-need mechanism; clarify pragmatic requests and remove any inferred personal-cost floor. Predecessor `MG04-K02` block SHA256 `d098cb9373582692cbcf4696ce5471d6630c9d3c32621266e509961f6fcaa9ae`.
+
+- **Trigger/context:** A trusted person makes a concrete request whose refusal would leave that person or a valued companion exposed to preventable harm, and Kazuma has some feasible contribution even if no complete solution is known. A question can pragmatically request concrete reassurance; an imperative, physical-harm-only consequence or named protective act is not required. Entrustment and preventable harm must still be independently established.
+- **Relationship/stakes:** Fix trust, recipient, concrete preventable harm, feasibility and timing before his response. Track danger, personal cost, likely credit and alternatives as explanatory variables, not additional eligibility floors. Generic heroism, fame or attractiveness alone is insufficient.
+- **Predicted appraisal:** this is a particular person's problem that he can help reduce, not simply optional public work.
+- **Predicted dominant motive:** preserve the person/relationship while reducing the cost of intervention.
+- **Predicted behavior/effect:** he will complain, bargain, investigate, prepare or seek a cheaper route, but make a substantive contribution rather than abandon the responsibility chiefly for comfort. Commitment may precede a fully credible success plan.
+- **Interaction tendency:** ordinary or grumbling speech can accompany costly help; a polished heroic declaration is not required.
+- **Confidence:** HIGH.
+- **Evidence basis:** CP04 MG04-K02; V13 C3P0134–0190,0226–0246,0367–0407; V14 C3P0335–0368 and C4P0008–0012; V15 C1P0468–0486, C4P0152/0168/0185/0206–0220 and FP0031.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** a clear, feasible contribution exists, but he knowingly leaves the established person exposed primarily to preserve leisure, with no meaningful help, search or relationship-preserving alternative.
+- **Coding and modifiers:** Require a source-established concrete trusted-person request, exposure to preventable harm and feasible contribution before the scored help decision. An accepted mission can support role commitment but cannot establish an unshown initiating request or its timing. Grumbling and mixed motives remain eligible; practical success and ethics receive separate judgments.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** One complete trusted-request/harm/feasible-help case abandoned chiefly for comfort without meaningful aid is a local falsifying direction; compound scope is not rescued by unrelated helpful acts.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-K03 — Reward supports a live pursuit; completed objectives require a distinct stopping test
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Kazuma.
+
+**Relationship condition:** Record known severe danger, harm to a personally known target, prior target commitment and actual relational limits before response. A known-person-harm modifier does not require an expressly adopted rescue goal. An unchanged choice under a fully eligible branch is contrary evidence, not automatic missing salience.
+
+**Stake level:** Initially manageable recognition/payback with explicit objective state; record already-known danger and particular-person harm before choice.
+
+**Lineage/change:** REVISE the broad expansion effect. Introduce two prospective branches, with independently recorded objective state and actual reward chronology. This never repairs Gen04 K03 or relabels V13/V15. Predecessor `MG04-K03` block SHA256 `0d434530a3cc5156ee74b926b998c4e51238d6b515a6357a1cc08f22044b0999`.
+
+- **Trigger/context:** Two separately scored branches. A: fix the same task’s prior scope before actual success feedback or a newly perceived manageable recognition/payback opportunity; personal reward is independently evidenced as active before the next decision; it need not be newly activated at every later choice; the instrumental objective remains explicitly live and a feasible optional continuation or broader exposure is available. B: the same ordered reward structure is present, the instrumental objective is explicitly stated or independently shown complete BEFORE the next decision, personal reward remains visibly active, and a feasible optional extension is still available. Do not infer objective completion from stopping, reward from escalation, or a new feedback event from later explanatory narration.
+- **Relationship/stakes:** Record known severe danger, harm to a personally known target, prior target commitment and actual relational limits before response. A known-person-harm modifier does not require an expressly adopted rescue goal. An unchanged choice under a fully eligible branch is contrary evidence, not automatic missing salience.
+- **Predicted appraisal:** A: continuing can realize a now personally gratifying live objective despite the attractive cheaper exit. B: the valued outcome has been secured, so another increment is optional rather than required to finish the task. These appraisals are predictions, not eligibility evidence.
+- **Predicted dominant motive:** Reward-sensitive pursuit competes with comfort, danger and particular-person costs; the original objective’s independently established state changes the marginal value of another act.
+- **Predicted behavior/effect:** A: he will persist against an offered comfortable exit or add pursuit, taunting or exposure relative to the prior plan. Record persistence and actual expansion separately; a preplanned fallback is not expansion. B: he will accept an available stop/settlement or narrow toward the completed objective rather than automatically open a further campaign. Record stopping and continued reward language separately. Both are new branch predictions, not a claim that reward can explain any observed action.
+- **Interaction tendency:** Credit, victory or grievance language may accompany A; relief/settlement can coexist with still-expressed satisfaction in B. Absence of such language is not fabricated motive evidence.
+- **Confidence:** MODERATE. A has bounded source support; B is a new prospective transfer because V15 completion also has prior known-person harm. Neither causal isolation nor repeated clean failure/confirmation has been established.
+- **Evidence basis:** CP04 §3.1 and MG04-K03 ordered coding/disconfirmation; newly personally read bounded MAIN-13 C2P0137–0193/0245–0293; V14 C1P0054–0096 and C4P0252–0281; V15 C1P0073–0080, C2P0700–0733, C3P0037–0049.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** A: a complete unmodified branch repeatedly produces comfortable abandonment or narrowed pursuit despite the live objective and active manageable reward. B: complete unmodified cases repeatedly extend pursuit/taunting/exposure after explicit completion despite the available acceptable stop. Each full opposite case is retained locally as adverse; unresolved cue/chronology cannot be supplied from the outcome. Two or more distinct fully matched adverse decisions is a proposed new prospective operational reading of repeated, not a retrospective Gen04 threshold edit.
+- **Coding and modifiers:** Freeze prior scope, actual feedback time, reward evidence, objective-live/completed evidence, feasible next options and known modifiers BEFORE coding the response. Set the task and objective at the same explicit level before response; record concurrent goals and unresolved completion rather than switch between a finished grievance and an unfinished campaign to fit the observed choice. Compound result keeps A/B coverage distinct. If both branches are not exposed, do not call the whole new partition confirmed from one branch. V13 early newspaper exposure and V15 harm-qualified settlement remain source bases/limits, not pre-counted future tests. Record both pre-feedback scope and the nearest preceding scope when examining a later choice under ongoing reward. Selecting target/continuation and later implementing it are different decisions; later explanatory narration is not a new feedback event. The future persistence effect is an explicit revision, not original Gen04 expansion fit.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** New A/B directions scored separately. Repeated means at least2 distinct fully eligible opposite decisions per branch, fixed prospectively only. One opposite case remains adverse/localF even before the tendency threshold; no mixed/modified case voting.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-K04 — Quiet commitment and aroused excuse-making remain distinct, agency-indexed tests
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Kazuma.
+
+**Relationship condition:** Known companions and specific promises or interpersonal boundaries. Preserve initial imposed contact separately from later choices; later participation cannot retroactively consent to it. Existing actual-tears failures and wider harassment remain load-bearing limits.
+
+**Stake level:** Private relationship/consent/commitment and immediate appetite/agency; urgency is separately classified.
+
+**Lineage/change:** PRESERVE both original branches and the retired tear-brake history; make actual known effective stop explicit without adding a normal-state requirement. Predecessor `MG04-K04` block SHA256 `7de39432a01bd62434290dcb89cc4a0442a479f5987f7b9b20778eadee84d867`.
+
+- **Trigger/context:** Score A and B separately. A: a private nonurgent relational choice includes an attractive alternative conflicting with an already acknowledged particular commitment and explicitly reduced/absent immediate sexual arousal. B: after a source-established boundary/commitment or refusal, explicit arousal/intimate gratification is salient; he knows an actually feasible effective stop or way to retain agency; an exculpatory role/explanation is independently available before the next continuation decision. Altered states are eligible if these facts are established; they are not automatically normal agency or empty automation. Do not infer a frame from a later excuse, reduced arousal from refusal, or effective agency from surviving initiative alone.
+- **Relationship/stakes:** Known companions and specific promises or interpersonal boundaries. Preserve initial imposed contact separately from later choices; later participation cannot retroactively consent to it. Existing actual-tears failures and wider harassment remain load-bearing limits.
+- **Predicted appraisal:** A: accepting the available substitute would make his expressed particular attachment or promise dishonest. B: desired gratification conflicts with that commitment, while an account of helplessness can reduce felt responsibility.
+- **Predicted dominant motive:** A: preserve an honest particular relationship while avoiding an answer he cannot give. B: obtain immediate gratification while protecting a defensible self-image.
+- **Predicted behavior/effect:** A: he will state or clarify the particular attachment/limit and refuse treating any attractive substitute as equivalent, even if awkward and disappointed. B: he will weaken the earlier limit through an excuse, coached role or selective account that preserves pursuit despite a known alternative. Score both directions separately; neither is inferred from his later claim about his own resistance.
+- **Interaction tendency:** A favors halting self-disclosure and explicit distinction of motives; B favors qualified responsibility, victim-role language or directions that create the inability later claimed. Neither requires polished moral eloquence.
+- **Confidence:** MODERATE conditional competition. QuietA remains unvalidated through the V15 principal boundary; B has bounded V13 support and later agency/exculpation qualifications. Gen03-K04 remains FALSIFIED/retired as sufficient noticed-tears brake.
+- **Evidence basis:** CP04 §3.1/MG04-K04 and historical V11 C2P0404/0431/0443–0450; V13 C2P0463–0515; V14 C2P0328–0373; V15 C2P0813–0815/0946, C3P0010–0022/0404.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** A matched quiet A case knowingly accepts the substitute without clarifying/limiting despite the already salient commitment; or a matched B case autonomously maintains the limit and uses its known feasible stop rather than pursuing or constructing an excuse. Record every noticed-tear continuation as adverse to any broader brake, without adding intimacy-only, harmlessness or non-notice exemptions. Tears alone never supply confirmation of this successor.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** One fully matched quietA accepting the substitute without limit or fully matched arousedB autonomously using the known effective stop is an adverse/falsifying branch direction. Whole compound cannot be confirmed while A remains NT. Noticed-tears continuation remains historical adverse evidence, not the new trigger.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-A01 — Established-domain capacity, actual readiness and comparative goal clarity are separate
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Aqua.
+
+**Relationship condition:** institutional or explicitly organized service; sufficient access and resources. Record sleep, distraction and activation separately from the quality of execution.
+
+**Stake level:** Bounded service task, beneficiary and downstream effects; capacity/access/resources/readiness separately indexed.
+
+**Lineage/change:** PRESERVE the compound; downstream ontology may explain a prior result only with its original knowledge state preserved. Predecessor `MG04-A01` block SHA256 `96a91e35f4e03449a4b94b6f51e6cc15ecaedc78e22b888d3ffae13bd8c720d0`.
+
+- **Trigger/context:** A bounded task uses already demonstrated healing, purification, resurrection, support/sealing, construction/art, relevant water control or nightvision, with sufficient access/resources. Fix target/ontology knowledge and engagement/readiness independently. New source-established mechanisms can explain limits; an unexplained failure cannot automatically be excluded as unknown ontology.
+- **Relationship/stakes:** institutional or explicitly organized service; sufficient access and resources. Record sleep, distraction and activation separately from the quality of execution.
+- **Predicted appraisal:** this is a task within a recognized area of her expertise.
+- **Predicted dominant motive:** execute the familiar service and/or display mastery.
+- **Predicted behavior/effect:** Capacity: once engaged with sufficient access/resources, she will execute the established-domain task at high level. Readiness: separately describe whether she is actually available and chooses to engage; no universal readiness prediction is made. Comparative clarity: only sufficiently comparable clear versus misaligned/unclear goal arrangements with domain/access/resources/relevant knowledge recorded predict fewer errors under clarity. A successful bounded task alone is NT for this comparison.
+- **Interaction tendency:** confident directives, demonstration or professional pride may be accurate rather than empty boasting.
+- **Confidence:** HIGH for the established domains.
+- **Evidence basis:** CP04 §3.2/MG04-A01; V13 C1P0101–0118/0201–0220 and FP0431–0447; V14 C3P0249–0251 and FP0188–0198/0368; V15 C1P0311–0313, C2P0515/0676–0677, C4P0017/0124.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** Capacity: repeated engaged adequately resourced established-domain tasks fail chiefly through domain inability/misunderstanding. Comparative clarity: independently matched clear-versus-misaligned arrangements show no predicted improvement or contrary error pattern. A clean single contrary branch remains local adverse evidence. If no sufficient comparison exists, comparative clarity is NT even when capacity succeeds. Readiness is separately observed and cannot be inferred from ability; a new craft is not mastered merely because construction was.
+- **Coding and modifiers:** Nightvision is carried from the Gen04 domain list because it was demonstrated earlier and redeployed in V12; it is not newly discovered and remains outside original Gen03-A01 list. Preserve historical source-witness identity limits. Distinguish asleep/unavailable readiness, spell quality, diagnosis, system consequences, symptomatic support and cure. Record the three capacity/readiness/comparative-clarity dispositions independently, with missing comparison left NT.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Capacity failure criterion requires repeated engaged resourced domain-inability cases (prospective at least2). Comparative clarity requires actual independently matched comparison; absent comparison isNT, a contrary pair is local adverse. Readiness is observed separately.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-A02 — A status challenge recruits task demonstration or a competing contest according to preclassified compatibility
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Aqua.
+
+**Relationship condition:** Fix challenger/addressee/audience, exact challenge, task/constraint and feasible separate response. A competing modifier requires an independently source-established ACKNOWLEDGED or APPRAISED imminent harm, particular-person relational cost or moral cost BEFORE the scored choice—for example an explicit utterance, thought or source narrative attribution of that appraisal before response. Ordinary knowledge that a person is familiar, a duty exists or a cost is possible does NOT suffice. Do not infer appraisal from preserving the task, declining a cast or the target’s identity. The relational/moral expansion beyond old Gen04’s independently acknowledged imminent-harm cue is NEW prospective, not a retroactive old-case exclusion. Use identical eligibility/cue criteria for positive and adverse choices; physical prevention of the separate prestige response differs from blocking the original target.
+
+**Stake level:** Exact challenged status versus pre-fixed task constraint; only independently source-acknowledged/appraised pre-choice competing harm/relational/moral cost changes B. Ordinary familiar-person/cost existence alone does not.
+
+**Lineage/change:** REVISE/DOWNGRADE universal displacement. Exact task-compatibility partition is NEW prospective. Broadened relational/moral competing appraisal is likewise NEW beyond old independently acknowledged imminent harm, and only independently source-established pre-choice appraisals qualify. No Gen04/local-history rescore. Predecessor `MG04-A02` block SHA256 `34a363e5c33bc4cc5ab0104edd13372b543d3ed88d907f3579aca75d4c3f131b`.
+
+- **Trigger/context:** An identifiable ongoing instrumental task and its constraints are independently established. Aqua directly receives a challenge to her divinity, following, superiority or public acknowledgment, with adequate opportunity to respond. Fix the EXACT challenged capacity/status and an observable way the task could answer it BEFORE action. A task-compatible: completing that existing task would directly supply observable evidence answering that exact challenge, established from the task/challenge and known mechanism without using her later action. B task-competing: the ongoing task would not directly answer that exact challenge, and a feasible distinct prestige response would compete with at least one pre-fixed task constraint. If an ordinary specialist feat does not independently answer a broader divine-status challenge, do not simply call it compatible. Ambiguous compatibility remains uncertain; never assign it from her choice. A completed service act alone is not ongoing. Self-adopted tasks are eligible.
+- **Relationship/stakes:** Fix challenger/addressee/audience, exact challenge, task/constraint and feasible separate response. A competing modifier requires an independently source-established ACKNOWLEDGED or APPRAISED imminent harm, particular-person relational cost or moral cost BEFORE the scored choice—for example an explicit utterance, thought or source narrative attribution of that appraisal before response. Ordinary knowledge that a person is familiar, a duty exists or a cost is possible does NOT suffice. Do not infer appraisal from preserving the task, declining a cast or the target’s identity. The relational/moral expansion beyond old Gen04’s independently acknowledged imminent-harm cue is NEW prospective, not a retroactive old-case exclusion. Use identical eligibility/cue criteria for positive and adverse choices; physical prevention of the separate prestige response differs from blocking the original target.
+- **Predicted appraisal:** A: useful task performance can answer the exact insult. B: a distinct immediate contest offers status repair. A competing relational/moral appraisal must be independently source-explicit before the choice to alter the B prediction; it cannot be the prediction’s own explanation after persistence.
+- **Predicted dominant motive:** Protect divine/useful identity through the available response, competing with owned task responsibility and particular attachment. Status is one motive, not an explanation of every service act.
+- **Predicted behavior/effect:** A: she will autonomously preserve/renew the original task action, with assertion or an attempt to demonstrate the exact challenged capacity; score attempted persistence separately from success. B, absent the independently pre-established competing appraisal defined above: she will assert/perform/use power toward the distinct contest and loosen at least one pre-fixed task constraint. A complete B case preserving constraints is adverse even if its target is a known friend or the assignment has ordinary costs; neither fact alone supplies an acknowledged competing cue.
+- **Interaction tendency:** Task demonstration may use practical directives alongside pride; competing status response may use self-legitimation, acknowledgment demand or superiority assertion. Forms do not themselves establish task compatibility or the role being predicted.
+- **Confidence:** MODERATE for the new partition. Identity sensitivity is strong; the prior HIGH universal displacement effect is downgraded. V14 task persistence and V15 competing cases motivate a hypothesis rather than retrospectively validate every branch.
+- **Evidence basis:** CP04 §3.2 and MG04-A02; V13 C1P0388–0390/C3P0107–0108; V14 FP0136/0165/0170/0181–0198; V15 C2P0676–0700 and FP0119–0129 with C4P0176–0188/FP0041–0060.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** A clear A case autonomously abandons the task for a distinct contest despite its direct status-demonstration route and without a pre-recorded stronger conflicting cue. A clear B case autonomously retains task constraints despite the feasible separate prestige contest, adequate opportunity and no pre-recorded competing harm cue. Each such fully matched case is a branch-local FALSIFIED direction; the compound keeps branch coverage separate. Unknown trigger/compatibility is AMBIGUOUS eligibility, never scored as successful fit.
+- **Coding and modifiers:** Before response coding record exact challenge, independently observable task-answer/compatibility reasoning, fixed constraint, separate-response feasibility and any independently source-explicit competing appraisal with its locator/time. Do not infer a new modifier from choice, assignment target, friendship or ordinary cost. A first-expressed appraisal after the scored choice cannot be backdated. Do not add external-assigner, motive-purity or express-rescue-goal prerequisites. This new broader modifier is separately documented; old Gen04 imminent-harm criterion, V14 localF and V15 AMBIGUOUS stay exact.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** New partition: one fully established A/B opposite autonomous direction is local branchF; branch coverage/uncertainty remains separate. No universal demographic outcome or inferred hidden cue can rescue it.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-A03 — Work-specific acknowledgment before two new service opportunities tests recurrence, not unique cause
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Aqua.
+
+**Relationship condition:** Record externally imposed versus voluntarily owned assignment, any distinct prestige challenge and any newly observed interruption before each opportunity. Return-time offerings after an elided long task do not establish recognition-before-continuation.
+
+**Stake level:** Owned beneficiary service with resources/need and acknowledgment before two distinct later opportunities.
+
+**Lineage/change:** PRESERVE the explicit two-opportunity temporal design as still unvalidated; do not infer it from duration or desired extra output. Predecessor `MG04-A03` block SHA256 `d5f569b04754e74a37555dc40b157ba5a203f231013cc5e709045fbf646f1e75`.
+
+- **Trigger/context:** Aqua demonstrably knows the required service, has an identified beneficiary/responsibility, and receives acknowledgment specifically for the actual useful work. After that acknowledgment, at least two separately identifiable further opportunities to perform the same service occur while resources, beneficiary need and recognition alignment remain available. This two-opportunity threshold is a new prospective Gen04 measurement choice, never a retroactive Gen03 rule.
+- **Relationship/stakes:** Record externally imposed versus voluntarily owned assignment, any distinct prestige challenge and any newly observed interruption before each opportunity. Return-time offerings after an elided long task do not establish recognition-before-continuation.
+- **Predicted appraisal:** Continued useful performance enacts the valued competent role and sustains acknowledgment from a beneficiary/audience tied to the work.
+- **Predicted dominant motive:** Enjoy useful mastery, beneficiary care and role-linked recognition together rather than replace service with a separate status contest.
+- **Predicted behavior/effect:** Across the two post-recognition opportunities she will continue the required useful output; display or sharing rewards may coexist while the core service is completed. Score output, voluntary ownership and recognition timing separately. Positive temporal recurrence supports this conditional behavioral forecast, not unique recognition causation: ownership, particular-person care, habit and material reward remain rival sustainers unless independent motive/comparison evidence distinguishes them. A single meal with several dishes, a promised lesson or retrospective duration is not sufficient.
+- **Interaction tendency:** Confident instruction, uptake of a useful role or beneficiary-oriented action may accompany continuation, without requiring an apology.
+- **Confidence:** MODERATE unvalidated recognition-conditioned mechanism through V15 principal boundary; HIGH actual historical V12 sustained care is separate.
+- **Evidence basis:** CP04 §3.2/MG04-A03; V13 garden/service records; V14 C1P0307–0309/FP0228–0238; V15 local A03 branch record.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** Under the complete pre-established temporal structure, post-recognition repeated opportunities produce refusal, abandonment or merely decorative output despite still-available resources/need and no independently observed distinct contest/interruption. If recognition follows the work or later opportunities are unshown, the mechanism is NT, regardless of valuable service. A self-selected decorative diversion is an outcome to score, not an automatically external interruption that removes the case.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** One complete acknowledgment→two subsequent same-service-opportunities series with preventable refusal/abandonment/decorative-only output is a full adverse series. Recognition after service isNT, notF.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-A04 — An unvalued repetitive task with a concrete maximal shortcut risks secondary-system neglect
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Aqua.
+
+**Relationship condition:** no salient learned analogue or strong external constraint already rules out the shortcut; all these conditions must be checked before counting a test.
+
+**Stake level:** Expressly low-valued repetitive work with concrete attractive maximal alternative and a secondary system.
+
+**Lineage/change:** PRESERVE an explicitly unvalidated full conjunction. No confirmation from speed or purification alone. Predecessor `MG04-A04` block SHA256 `1e554147bf1364f6f55ec79c2bf664c48faedd622f9ec15f9b9bd0ca9ac736a3`.
+
+- **Trigger/context:** repetitive maintenance remains low in Aqua's expressed valuation and a concretely available, attractive one-step high-power alternative is established.
+- **Relationship/stakes:** no salient learned analogue or strong external constraint already rules out the shortcut; all these conditions must be checked before counting a test.
+- **Predicted appraisal:** the rapid high-output method avoids tedious work.
+- **Predicted dominant motive:** remove the immediate burden quickly.
+- **Predicted behavior/effect:** she will prefer the shortcut while giving insufficient attention to a secondary system it affects.
+- **Interaction tendency:** confident simplification or dismissal of labor may accompany the choice; no special phrase is required.
+- **Confidence:** MODERATE inherited full conjunction, still unvalidated through the V15 principal boundary.
+- **Evidence basis:** CP04 MG04-A04; V13 C2P0125–0136; V14 FP0140/0160 and C4P0627; V15 A04 exact local record.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** matched cases repeatedly show calibrated routine performance despite the available shortcut, with no learned analogue or external constraint already accounting for it. Mere speed, effective drying or any manual work does not establish the trigger.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Repeated complete low-valuation/available-shortcut cases with calibrated routine despite no pre-recorded explaining constraint; prospectively at least2. A single match is retained as adverse if opposite.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-M01 — Explicit Explosion identity challenge can outweigh known ordinary companion cost
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Megumin.
+
+**Relationship condition:** Ordinary financial, equipment, convenience or status cost to companions is independently known before her choice. A companion’s already disclosed valued activity can establish such a cost; a separately spoken warning is not required. Neither her independently accepted substantial build burden nor independently recognized imminent grave companion harm is active before response. Record mixed triggers without deciding eligibility from which motive wins.
+
+**Stake level:** Known ordinary companion convenience/status/property cost; higher-order accepted build burden/grave harm separately preclassified.
+
+**Lineage/change:** PRESERVE literal identity and ordinary-cost branches, with known cost allowed through disclosed preferences; no separate explicit-warning or formal-debate requirement. Predecessor `MG04-M01` block SHA256 `131e3fdfcd78e000433b32fd956d7eb3bed0ff8a5148117ea7e22a92865bef79`.
+
+- **Trigger/context:** A rival, including a companion, explicitly denigrates, replaces or imitates Explosion in a way Megumin treats as a specialist-identity challenge. A broad statement about real magic does not automatically explicitly denigrate Explosion; record her perceived comparison separately from a later direct named criticism. General rank/competence threat is logged as adjacent unless the literal specialty challenge is established.
+- **Relationship/stakes:** Ordinary financial, equipment, convenience or status cost to companions is independently known before her choice. A companion’s already disclosed valued activity can establish such a cost; a separately spoken warning is not required. Neither her independently accepted substantial build burden nor independently recognized imminent grave companion harm is active before response. Record mixed triggers without deciding eligibility from which motive wins.
+- **Predicted appraisal:** the challenge attacks a defining value rather than offering a neutral efficiency improvement.
+- **Predicted dominant motive:** preserve the legitimacy and distinctiveness of Explosion.
+- **Predicted behavior/effect:** She will defend, compete, reject replacement or retaliate; known ordinary companion cost alone will not reliably secure compromise. Score choice/attempt separately from actual execution when another actor restrains her. Strong identity activation does not by itself complete the ordinary-cost branch.
+- **Interaction tendency:** specialist naming, theatrical assertion and precise denial of equivalence.
+- **Confidence:** HIGH for defensive identity activation; MODERATE for its priority over known companion utility.
+- **Evidence basis:** CP04 §3.3/MG04-M01 and older RC-V09-01; bounded MAIN-13 FP0205–0245, especially0221/0222/0224 before0232; V14 C3P0138–0161; V15 C4P0473–0501.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** repeated clean identity challenges lead to easy compromise because of ordinary companion cost alone, without visible identity conflict, retaliation or an independently evidenced higher-order burden/harm appraisal.
+- **Coding and modifiers:** Score identity defense separately from the known ordinary companion-cost choice. A named rival spell/equivalence challenge is not interchangeable with broad competence criticism or ritual mockery. Known ordinary cost can be conveyed by a companion’s disclosed valued activity; no separate warning is required. Establish higher-order build-burden/grave-harm appraisal before outcome and retain mixed states. V13 FP0221 values the duel without explicitly naming Explosion; Megumin’s perceived comparison0222 is distinct from Kazuma’s literal named denigration0224 before chant0232. Her jealous-attention explanation0234 is a stated motive, not unique isolation of ordinary-cost insensitivity. P0237 is the same externally interrupted attempt, not a completed second cast. Gen03’s cost branch was incompletely tested historically; this CP05 identifies one bounded V13 matched priority ATTEMPT with limited replication/causal certainty. Original localPARTIAL remains exact.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Repeated full explicit specialty challenges with known ordinary cost lead to easy compromise because of that cost alone, without identity conflict/higher-order cue; prospectively at least2. Activation and cost-priority are separate.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-M02 — Accepted contribution guilt may reopen an exclusive build
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Megumin.
+
+**Relationship condition:** established companions; the perceived burden is substantial and attributed to the build, not inability to attack one particular person.
+
+**Stake level:** Self-accepted substantial contribution burden and feasible alternative.
+
+**Lineage/change:** PRESERVE guarded unvalidated inversion; external criticism, aspirations and romance insecurity remain insufficient. Predecessor `MG04-M02` block SHA256 `7395f9226b836e6de8f965ee01ba513942cbb074ad7dfa2071284c8ff268265b`.
+
+- **Trigger/context:** Megumin herself concludes that her exclusive specialization materially prevents her from contributing to valued companions, rather than merely hearing an opponent's criticism.
+- **Relationship/stakes:** established companions; the perceived burden is substantial and attributed to the build, not inability to attack one particular person.
+- **Predicted appraisal:** protecting the specialty may conflict with remaining useful and wanted.
+- **Predicted dominant motive:** preserve contribution and belonging, despite genuine love of Explosion.
+- **Predicted behavior/effect:** she will seriously consider compromise, a changed role or abandonment of the exclusive build, with visible loss or reluctance. Others' reassurance may alter the decision, but should not erase the initial conflict.
+- **Interaction tendency:** quieter, apologetic or explicit cost language is expected when the self-appraisal is expressed; the role is no longer only that of a challenged rival.
+- **Confidence:** MODERATE, carried as a guarded unvalidated contribution-guilt inversion. Romance insecurity or a poor-magician label does not complete the trigger.
+- **Evidence basis:** CP04 MG04-M02 and V04–V06 checkpoint §6/Gen02-M01 Trigger B; V13 C2P0083/0096/0099 and C4P0283–0299; V14 C3P0139/C4P0098–0107; V15 M02 local record.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** repeated explicit, substantial self-attributed build burdens produce no meaningful conflict or consideration of compromise, even when a feasible alternative is recognized.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Repeated explicit substantial self-accepted burdens with feasible alternative produce no meaningful conflict/reconsideration; prospectively at least2. External criticism alone isNT.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-M03 — Prepared safe-separated artillery should produce reliable terminal fire
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Megumin.
+
+**Relationship condition:** no identified valued person occupies the target role. The conditions must be established before evaluating the result.
+
+**Stake level:** Known target range/geometry, safely separated friendlies, resources and post-cast exit/carry.
+
+**Lineage/change:** PRESERVE the literal target/resource/exit conjunction; no universal tactical-mission condition or safety inferred from a successful cast. Predecessor `MG04-M03` block SHA256 `935375eef81463203539990694725255ecbfe2f46bb6716643f238a4a4ee905e`.
+
+- **Trigger/context:** A target within established Explosion capacity/range is dense or immobilized, friendlies are safely separated, and resource use plus post-cast exit/carry are planned BEFORE firing. A stationary object can qualify as target; no universal military/tactical-mission prerequisite is added. Missing friendly geometry/resources/exit keeps the full test incomplete.
+- **Relationship/stakes:** no identified valued person occupies the target role. The conditions must be established before evaluating the result.
+- **Predicted appraisal:** the task offers a legitimate, technically suitable use of the chosen specialty.
+- **Predicted dominant motive:** perform and demonstrate Explosion effectively.
+- **Predicted behavior/effect:** she will execute reliable terminal fire, making the specialization highly useful for that task. This predicts tactical efficacy; it does not predict restraint toward defeated enemies or sound choice of the campaign's larger objective.
+- **Interaction tendency:** exuberance and theatrical display may coexist with accurate execution; a full incantation is not required for demonstrated V09-level control.
+- **Confidence:** MODERATE complete prepared conjunction, still unvalidated through V15 principal boundary; demonstrated power/control is a separate stronger claim.
+- **Evidence basis:** CP04 MG04-M03; V13 C1P0423–0449; V14 C4P0355/0463–0484; V15 C4P0498–0501 with missing prior geometry/exit.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** repeated fully matched target/resource/exit cases fail because of her own ordinary target-selection or execution process, despite no new relational inhibition or external interference.
+- **Coding and modifiers:** Fix target geometry, friendly positions, resource and post-cast exit/carry plan before casting. Post-cast assistance does not prove a prior plan; success alone cannot establish missing conditions.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Repeated full target/safety/resources/exit cases fail through her own ordinary target/execute process without interference/relational inhibition; prospectively at least2.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-M04 — A personally valued target tests pre-action friction and aftermath separately
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Megumin.
+
+**Relationship condition:** that person is now an opponent or obstacle; technical feasibility and urgent reasons to act may both be present.
+
+**Stake level:** Independent significant bond to required harm target; pre-action and aftermath costs separate.
+
+**Lineage/change:** PRESERVE the two emotional components and full independent bond requirement; affinity alone remains adjacent. Predecessor `MG04-M04` block SHA256 `fa0838ac5a0faf2bd260b80467c90de199b2e907a193c423396a57a95aa2647a`.
+
+- **Trigger/context:** a task calls for decisive harm to someone whom the source independently establishes as personally valued by Megumin through rescue, teaching, gratitude or another significant relationship.
+- **Relationship/stakes:** that person is now an opponent or obstacle; technical feasibility and urgent reasons to act may both be present.
+- **Predicted appraisal:** the target carries a relationship obligation that cannot be reduced to a combat category.
+- **Predicted dominant motive:** reconcile protection/duty with attachment or gratitude.
+- **Predicted behavior/effect:** she will show meaningful hesitation, a search for acknowledgment/choice, or inability to execute before or during a personally meaningful acknowledgment or choice; acting need not resolve subsequent guilt. If she acts, immediate celebratory ease is less likely than residual emotional cost. Record pre-action relational friction and post-action emotional cost separately. The mechanism does not depend on a target merely looking human.
+- **Interaction tendency:** direct relational address or an attempted personal question can interrupt ordinary specialist theater.
+- **Confidence:** MODERATE guarded valued-person target transfer, still unvalidated through V15 principal boundary.
+- **Evidence basis:** CP04 MG04-M04 and V09 0014:P0534–0544; V14 C4P0369/0472–0481; V13/V15 M04 local records.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** a comparably established valued-target conflict produces effortless execution without meaningful pre-action relational friction despite the salient bond. This is adverse to the firing-constraint component even if regret follows. Easy celebration without meaningful emotional aftermath is separately adverse to the aftermath component. A target with no such history is not a test.
+- **Coding and modifiers:** The V12 proposed familiar sacrifice remains adverse to broad automatic care but was stopped and is not an executed valued-person combat test. Do not alter original person/opponent requirements or invent an act.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** One fully bonded-target conflict with effortless execution is adverse to pre-action friction even if regret follows; easy celebration without meaningful aftermath is separately adverse. Missing one component cannot be concealed by the other.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-M05 — Known grave direct companion harm tests relational friction in the best tactical cast
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Megumin.
+
+**Relationship condition:** current valued companion; establish anticipated harm magnitude, Megumin's knowledge, alternatives and the tactical requirement independently. Minor displacement without established anticipated grave injury is distinct; uncertain severity remains ambiguous/adverse collateral, not automatically harmless comedy. An enemy's attack is not her own friendly-fire choice.
+
+**Stake level:** Explicitly known grave direct companion bodily harm with best tactical option and clear alternatives.
+
+**Lineage/change:** PRESERVE guarded unvalidated best-option/risk/alternatives conjunction; no harmless-comedy recoding after outcome. Predecessor `MG04-M05` block SHA256 `a7fe7b2f193c0cd0db05a7cf2d1cdc8ddfee1e2b32f4272054da5b09f2ae38d4`.
+
+- **Trigger/context:** Megumin knows that the best available tactical Explosion use would directly expose a valued companion to grave bodily harm, with the risk and alternatives made clear in the source.
+- **Relationship/stakes:** current valued companion; establish anticipated harm magnitude, Megumin's knowledge, alternatives and the tactical requirement independently. Minor displacement without established anticipated grave injury is distinct; uncertain severity remains ambiguous/adverse collateral, not automatically harmless comedy. An enemy's attack is not her own friendly-fire choice.
+- **Predicted appraisal:** success would impose a personally unacceptable relational cost unless it is justified or authorized.
+- **Predicted dominant motive:** protect the companion while responding to the tactical need.
+- **Predicted behavior/effect:** she will hesitate, object, seek consent/authorization, redirect, or otherwise show clear friction relative to ordinary enthusiastic casting.
+- **Interaction tendency:** explicit concern or negotiation is evidence; a token catchphrase is not.
+- **Confidence:** MODERATE exact grave direct friendly-harm dilemma, still unvalidated through V15 principal boundary.
+- **Evidence basis:** CP04 MG04-M05; V13 C1P0433–0449 and FP0232–0237; V14 C2P0135–0139/0170 and C4P0419/0432; V15 M05 local record.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** a clean matched case produces enthusiastic casting without relational friction despite her explicit understanding of the grave companion risk. Do not reclassify an adverse matched outcome as harmless comedy after observing it.
+- **Coding and modifiers:** Explicit power reduction for recovering Sylphina establishes control/care, not this full grave-harm tactical test. Record source-known gravity, available alternatives and best tactical option before response; proximity alone is insufficient.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** One full known-grave-direct-friendly-harm/best-option/clear-alternatives case with enthusiastic casting and no friction is a local falsifying direction.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-M06 — Rewarding instrumental repetition may outlive the original goal
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Megumin.
+
+**Relationship condition:** impersonal enemy/obstacle targets; no independently active valued-target or grave companion-harm conflict.
+
+**Stake level:** Sustained safe rewarding instrumental operation whose objective is independently weakening/completed.
+
+**Lineage/change:** PRESERVE guarded unvalidated operation-level drift; daily leisure repetition alone does not qualify. Predecessor `MG04-M06` block SHA256 `002c7cde5e7cb1014fcea137fc30ed77251bb1e59af65f64254647e8c1095de2`.
+
+- **Trigger/context:** a sustained operation repeatedly permits safe, effective Explosion and provides visible skill/experience growth or equivalent specialist reward; the original instrumental objective is approaching completion or has weakened.
+- **Relationship/stakes:** impersonal enemy/obstacle targets; no independently active valued-target or grave companion-harm conflict.
+- **Predicted appraisal:** another opportunity to fire/grow remains desirable even when marginal mission value falls.
+- **Predicted dominant motive:** continue the specialty reward.
+- **Predicted behavior/effect:** she will seek additional casts, denser targets or an extended opportunity; a companion may need to restate the original goal. Tactical success can persist while goal discipline declines.
+- **Interaction tendency:** language of casting, spectacle or growth will increasingly replace the original mission rationale.
+- **Confidence:** MODERATE, carried as an unvalidated sustained instrumental goal-drift hypothesis.
+- **Evidence basis:** CP04 MG04-M06; V13 C3P0100; V14 C4P0292–0306/0481; V15 repeated-cast reports and M06 local record.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** repeated matched reward sequences lead her to stop or narrow use when the instrumental objective is achieved, without an external limit or another already established higher-priority conflict.
+- **Coding and modifiers:** Distinguish leisure repetitions and incidental fish utility from an actual instrumental mission losing ground as repeated Explosion rewards grow. A missing weakening-mission condition is NT.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Repeated full reward/operation/weakened-objective cases autonomously stop without external limit/higher conflict; prospectively at least2. Leisure repetition alone isNT.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-D01 — Feasible protection recruits cost despite pleasure and finite endurance
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Darkness.
+
+**Relationship condition:** a protected person or companion; distinguish chosen fantasy danger from an independently visible threat to someone else.
+
+**Stake level:** Recognized serious harm/injustice to responsibility-holder and feasible defensive/institutional contribution.
+
+**Lineage/change:** PRESERVE strengthened bounded protection without invulnerability, harm erasure or universal inhibition. Predecessor `MG04-D01` block SHA256 `369bdcfb2223242fc9949712a2a4a82abde16b403afd9f903f978ce41a2f5dc6`.
+
+- **Trigger/context:** a person Darkness treats as her responsibility faces serious harm or injustice, and she has a feasible defensive or institutional intervention.
+- **Relationship/stakes:** a protected person or companion; distinguish chosen fantasy danger from an independently visible threat to someone else.
+- **Predicted appraisal:** she has a responsibility to absorb or oppose the threat.
+- **Predicted dominant motive:** protect and contribute, even where fear, embarrassment or bodily reward also exists.
+- **Predicted behavior/effect:** she will accept bodily, reputational or institutional cost. In a defense-aligned task she will use interposition/endurance rather than deliberately preserve helplessness. Equipment and opponent force may still overwhelm her.
+- **Interaction tendency:** protector/noble assertions or blunt action may precede concern for her own comfort.
+- **Confidence:** HIGH.
+- **Evidence basis:** CP04 §3.4/MG04-D01; V13 C2P0256/0285/0319–0331; V14 C2P0254–0266/0468 and FP0169–0170; V15 C3P0343–0360/0518–0528 and Eris report C4P0017.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** despite recognizing serious unjust harm and a feasible contribution, she preserves rank/self-protection chiefly for convenience, or repeatedly sabotages the needed defensive role merely to remain helpless.
+- **Coding and modifiers:** Count actual protective target/resource/handoff and bodily costs independently of whether pleasure is present. Sweat, burns, failed accuracy, collapse and outside rescue remain consequences. Contribution does not prove safe extraction, sufficient strategy or universally prioritized duty.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** One complete serious-harm/recognized-responsibility/feasible-help case knowingly abandoned for convenience is a local falsifying direction; repeated deliberate defensive sabotage for helplessness is a separate route (prospectively at least2).
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-D02 — Independent prior privacy or equal-standing boundaries predict specific objection
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Darkness.
+
+**Relationship condition:** Prior independent privacy/standing is specific to this forecast. J01 independently established dignity does not universally require this full conjunction. Reduced control/pain alone remains logged transfer evidence rather than a new monotonic aversion trigger. Later participation cannot retroactively make an imposed act chosen.
+
+**Stake level:** Prior bounded private/standing preference; altered audience or explicit equal-membership threat; no generic control-loss direction.
+
+**Lineage/change:** PRESERVE exact A/B conjunctions and mixed broader control; clarify sought event need not be a fantasy. Predecessor `MG04-D02` block SHA256 `7d28abd2266de1d085043182247b02326b1ca24457908ed214688dd4345cc60b`.
+
+- **Trigger/context:** An otherwise sought bounded event—not necessarily fantasy—acquires either A an independently established unexpected audience/exposure condition conflicting with a privacy preference expressed BEFORE response, or B an explicit threat to previously valued equal companion standing. Establish baseline, changed condition and preference independently; objection cannot be its own sole prior-boundary evidence. Fix controller/witnesses/scenario/standing before outcome. A completed membership loss is not required.
+- **Relationship/stakes:** Prior independent privacy/standing is specific to this forecast. J01 independently established dignity does not universally require this full conjunction. Reduced control/pain alone remains logged transfer evidence rather than a new monotonic aversion trigger. Later participation cannot retroactively make an imposed act chosen.
+- **Predicted appraisal:** A specific unwanted audience/standing change threatens the dignity or belonging she previously valued outside the desired fantasy.
+- **Predicted dominant motive:** Recover the identified privacy, dignity or ordinary companion standing, possibly alongside continuing bodily attraction.
+- **Predicted behavior/effect:** A: direct objection, concealment, negotiation or flight will increase after the changed boundary. B: anxiety, protest or acceptance-seeking will increase after the explicit threat. Score A and B separately; later adoption/enjoyment of the scenario does not retroactively consent to the initial imposition and is retained as changed reward appraisal.
+- **Interaction tendency:** Direct personal perspective under privacy threat; unusually explicit belonging/acceptance requests under standing threat. Public noble formality is not necessary.
+- **Confidence:** HIGH for audience/meaning sensitivity in observed cases; MODERATE for new standing transfer. No general loss-of-control-aversion claim.
+- **Evidence basis:** CP04 §3.4/MG04-D02 and V10 control countercase; V13 C4P0158–0200; V14 C3P0006–0023/0087–0090/0219; V15 D02 local record and Ep imposed-contact context.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** Repeated full A/B cases show no objection/anxiety/recovery and uniformly welcome the independently rejected boundary/standing change. Any single matched countercase remains adverse even before repeated-case threshold. Do not remove the V10 real-hostage enjoyment or V12 later public-strip fantasy because it is pleasurable; those constrain the broader model and original Gen03 PARTIAL.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** A/B separate. Repeated full predeclared boundary changes uniformly welcomed without objection/recovery; prospectively at least2 per exposed branch. A single matched opposite remains adverse before that threshold. Broader control enjoyment is never deleted.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-D03 — Concrete incompatible civic/family duty and party membership recruit preservation attempts
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Darkness.
+
+**Relationship condition:** obligations to identifiable people on both sides, rather than an abstract preference for prestige or temporary deployment apart.
+
+**Stake level:** Genuinely incompatible concrete family/noble/civic duty and continued party membership.
+
+**Lineage/change:** PRESERVE exact unvalidated incompatibility; coexisting duties and another person’s conflict do not qualify. Predecessor `MG04-D03` block SHA256 `e973301a6cbc14ed0edb5e046e7f6afa0b8f8d0e1b01cc2445b584cdd0cfd364`.
+
+- **Trigger/context:** family/noble/civic duty and continued party membership make genuinely incompatible concrete demands.
+- **Relationship/stakes:** obligations to identifiable people on both sides, rather than an abstract preference for prestige or temporary deployment apart.
+- **Predicted appraisal:** simply dropping either responsibility would betray a valued part of her life.
+- **Predicted dominant motive:** protect people and preserve both commitments if possible.
+- **Predicted behavior/effect:** she will try negotiation, procedural workarounds or personally costly absorption before easy abandonment. Her V07 secrecy/self-erasure remains a possible procedural error; protective intent does not guarantee shared decision-making.
+- **Interaction tendency:** duty language may conceal personal need; other members may need to challenge her assumption that she must bear the cost alone.
+- **Confidence:** MODERATE genuinely incompatible duty/membership transfer, still unvalidated through V15 principal boundary.
+- **Evidence basis:** CP04 MG04-D03 and V07 historical procedural-risk evidence; V13 C1P0318–0319/C2P0132–0136; V14 D03; V15 institutional labor/temporary role division.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** she discards either established relationship or recognized duty for convenience or prestige without visible conflict or preservation attempt despite feasible alternatives.
+- **Coding and modifiers:** Ordinary coexisting civic/family/party duties, compatible temporary division or costly mission assistance do not establish mutually incompatible demands. Preserve independent evidence of the duties before response.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** One genuine incompatible duty/membership case easily discards established bond/duty for convenience or prestige despite feasible preservation without visible conflict is adverse/falsifying.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-E01 — Explicit fit improves deployment; provider adequacy and Kazuma dependence are separate
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Ensemble/core household.
+
+**Relationship condition:** record practical task completion, friendly harm, goal discipline and moral objections separately. Temporary allocation apart does not mean loss of membership.
+
+**Stake level:** Serious multistage specialist problem with preclassified roles/resources/handoffs and comparison.
+
+**Lineage/change:** PRESERVE the compound with tighter same-mechanism comparison and explicit phase-level provider scope. Predecessor `MG04-E01` block SHA256 `a7ee614fe66b9c60727023a9d0e9048a45e82e256cd20c7dec7bdbf1255b2e95`.
+
+- **Trigger/context:** A serious multistage problem requires established specialist capacities. Source permits comparison of missing/misaligned organization with explicit roles, targets, resources and handoffs, classified before result. Prefer a same-mechanism/same-knowledge comparison when available; otherwise record changed knowledge as a rival explanation.
+- **Relationship/stakes:** record practical task completion, friendly harm, goal discipline and moral objections separately. Temporary allocation apart does not mean loss of membership.
+- **Predicted appraisal:** participants identify a usable contribution when the arrangement fits their actual abilities and incentives.
+- **Predicted dominant motive:** solve the common task while preserving salient individual values.
+- **Predicted behavior/effect:** A alignment improves intended specialist deployment at needed targets/times, handoffs or resource completeness. B an independently adequate institution/expert/team can supply the actual required arrangement for a specified phase or whole problem; scope adequacy before result, not from victory. C where it is absent Kazuma more often initiates/repairs; where another actor supplies it, success need not depend on his continuing directions. Score A/B/C separately and distinguish initial selection, later repair, execution, recovery and disposition. A bounded phase success is not proof of complete campaign replacement.
+- **Interaction tendency:** directives, signaling, handoffs and corrections will make the practical arrangement visible; do not infer organization merely from eventual victory.
+- **Confidence:** HIGH for the bounded deployment mechanism; no universal necessity or sufficiency theorem is claimed.
+- **Evidence basis:** CP04 §3.5/MG04-E01; V13 C1P0387–0414/C2P0285–0320; V14 C3P0351–0392/I13P0058–0071/C4P0008–0012; V15 C3P0394/0414–0443 and later strategic neutralization.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** across comparable multi-stage problems, explicit alignment produces no improvement in deployment, or specialist availability alone repeatedly yields equally reliable safe task completion without observable coordination; also adverse is persistent dependence on Kazuma despite an alternative arrangement independently shown to supply the required roles, resources and handoffs.
+- **Coding and modifiers:** Use three recorded outcome vectors: A intended specialist deployment improvement relative to source-classified misalignment; B alternative provider independently adequate for the actual roles/resources/handoffs; C Kazuma initiating/repair contribution versus continuing dependence when B holds. Record recovery resources, target knowledge and goal incentives before outcome. An expert providing one phase is not automatically adequate for the whole multistage problem. Preserve successful parts, injuries, moral objections and outside rescue independently.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** A/B/C separate, comparable multistage problems required for comparative tendency. Prospectively repeated/across-problem failure means at least2 comparable eligible problems; one bounded contrary deployment/provider case is still adverse. Successful phase is not automatic whole adequacy.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-E02 — Feasible efficiency-promising durable separation tests particular household attachment
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Ensemble/core household.
+
+**Relationship condition:** established members, meaningful permanence; ordinary raids, errands, a night out or romantic awkwardness alone do not qualify.
+
+**Stake level:** Feasible practical efficiency versus sustained loss of an established household bond; proposal need not already be completed.
+
+**Lineage/change:** PRESERVE exact conditional while making proposal feasibility, not completed relocation, the prerequisite. Predecessor `MG04-E02` block SHA256 `f6ec87cfa89ef7cdc429e123dbcdfdb88e5521e84f84727d110d6657cd02e06c`.
+
+- **Trigger/context:** A feasible proposed reorganization promises practical efficiency and credibly removes an established core party/home relationship for a sustained period. It need not be completed. Independently assess prerequisite feasibility; a conditional proposal with an unestablished necessary prerequisite remains eligibility-limited, not automatically a full test. Practical benefit and attachment cost are separate facts.
+- **Relationship/stakes:** established members, meaningful permanence; ordinary raids, errands, a night out or romantic awkwardness alone do not qualify.
+- **Predicted appraisal:** the proposal loses something valued beyond instrumental usefulness.
+- **Predicted dominant motive:** retain relationship, membership or meaningful contact.
+- **Predicted behavior/effect:** One or more core members will resist, bargain, return, protect contact or bear cost to preserve the bond. Insults may persist and temporary task separation can be accepted. Record contrary comfort fantasies and individual differences; do not make one person’s relief the entire household’s response.
+- **Interaction tendency:** relationship/home language and practical restoration attempts are stronger evidence than generic declarations that everyone is friends.
+- **Confidence:** MODERATE exact feasible efficient durable-removal conditional, still eligibility-limited through V15 principal boundary despite strong attachment.
+- **Evidence basis:** CP04 MG04-E02; V14 C4P0561–0570/0646–0649; V15 C4P0176–0188, FP0192–0197/0235–0244 and EpP0049–0062.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** durable efficient separation is accepted with sustained relief and little attachment cost despite feasible ways to preserve the established relationship.
+- **Coding and modifiers:** Require a feasible reorganization with a source-established practical-efficiency benefit and credible sustained loss of an established core home relationship. Permission concerning home/assets, affection, romance fear and temporary mission absence cannot invent that benefit. Score individual variation; Kazuma’s actual V11 retirement preference prevents universal return claims.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** One full feasible efficient durable-removal arrangement accepted with sustained relief and little attachment cost despite feasible contact preservation is adverse; measure the actual relevant participants and duration, not an imagined completed move.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-J01 — Fixed independent role changes predict functional written stance, with sparse/adverse cases retained
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Written stance/comic corpus.
+
+**Relationship condition:** Semantic content may establish a commitment/role, but its formal wording is then excluded from successful surface evidence. Freeze the mapping and exact comparison windows before coding, keeping weak/sparse/adverse cases. Unequal windows are not a frequency experiment.
+
+**Stake level:** Independently established role/dignity/care/danger change, exact addressee/audience and adequate speech; no independent-trial inference.
+
+**Lineage/change:** PRESERVE mapped directions; specify circularity and dignity scope, and classify comparative self-ranking by predeclared function rather than a favored morphology. Predecessor `MG04-J01` block SHA256 `dfe7ecf88da4933057f0e281a22d238ff695b8a2cdd06565ab4a3b721517f0a0`.
+
+- **Trigger/context:** An independently established actual role/stake change has adequate comparable before/after speech. Before language coding fix speaker, addressee/audience, independent duty/identity/dignity/belonging/care evidence, danger and window boundaries. If the role is already active, label intensified-state comparison. The same formal feature used to score success is excluded from role evidence. Independent dignity need not satisfy D02’s narrower private-event conjunction.
+- **Relationship/stakes:** Semantic content may establish a commitment/role, but its formal wording is then excluded from successful surface evidence. Freeze the mapping and exact comparison windows before coding, keeping weak/sparse/adverse cases. Unequal windows are not a frequency experiment.
+- **Predicted appraisal:** The independently active role supplies the practical, identity, dignity or relational purpose of the utterance; tactical danger changes what an effective care response needs to accomplish.
+- **Predicted dominant motive:** Obtain authority, recognition, safety, task deployment or particular-person acceptance appropriate to that independently established role, rather than execute a universal polite/loud character style.
+- **Predicted behavior/effect:** Score mappings separately: Megumin specialist challenge→competitive assertion/denial; explicit spell-legitimacy challenge additionally→specialist identification; ritual mockery remains adjacent. Personal gratitude/vulnerable appeal→direct relational address/request. Aqua service→practical directives; direct divine status contest→self-legitimation/acknowledgment demand. Darkness duty→institutional/protector framing; independently established dignity threat→personal objection; belonging threat→acceptance request. Kazuma new quiet care from reward/grievance→ordinary questions/offers/self-disclosure; independently new urgent tactical care→task-specific protective command/resource request/handoff. Adequate absent/opposite direction is adverse. Vulnerability without adopted care, sparse speech and already-practical baselines remain limited rather than manufactured new onsets.
+- **Coding rule:** before classifying the language outcome, record the independently evidenced role, select the applicable mapping and fix the local comparison window around the semantic change. Score each mapping separately. Keep the assignment when unchanged or opposing wording appears; it is adverse evidence. Insufficient comparable speech is NOT_TESTED. Neutral connective speech and exact lexical choices are not themselves outcomes.
+- **Confidence:** MODERATE-HIGH for bounded role conditioning; individual mappings and newly separated crisis-care direction have distinct coverage/confidence. Original Gen03 whole mapping remains PARTIAL.
+- **Evidence basis:** CP04 §3.6/MG04-J01; V13 all30 fixed comparisons; V14 all44 fixed comparisons+aux; V15 all95 paired public-v2 rows and original sealed files. Current Cp preparation does not reconstruct missing native V13 registry from memory.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** Repeated full mapped role changes yield unchanged/opposite wording with adequate speech, or apparent fit requires changing role/mapping/windows after observing the language. A supported mapping cannot hide another adverse one. Sparse comparable speech is NT. Preserve already-active-role and factual-description errata visibly rather than replace a baseline.
+- **Interaction tendency:** Role and addressee alter stance without determining a sentence ending, exact word, globally softened tone or catchphrase rate.
+- **Classification/scoring boundary:** Freeze original windows/mappings before outcomes; overlap groups are nonindependent. Prospective Aqua self-legitimation is a FUNCTIONAL claim/demand for recognition of her own divine status, competence or authority, identified from literal content, addressee and fixed local context—not grammatical positive/negative shape or a required deity noun. A comparative below-me form can assert her superiority; it can also chiefly denigrate the rival or be self-deprecating. Record the candidate functions and evidence. If both remain plausible and the window cannot distinguish the primary function, retain MIXED/UNCERTAIN or paired disagreement rather than force fit. Semantic counterexamples, ANALYST-CONSTRUCTED IN ENGLISH rather than novel quotations: “You are below me, so acknowledge my authority” functions as own-status legitimation despite its negative comparison; “Even I do better than you” may chiefly attack the rival through self-deprecation and is not automatically own-divinity legitimation; an ironic “I am the greatest at ruining things” need not be status defense despite affirmative grammar. These are criterion demonstrations, not future-source predictions. Original IV15-24/P-I disagreement is unchanged. Preserve literal form, gloss, pragmatic function and audience; no acoustic claims.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Each mapping separate. Repeated full independent role changes with adequate speech show unchanged/opposite function; prospectively at least2 eligible comparisons per mapped branch for a repeated tendency. One adequate opposite is adverse, sparse isNT, window remapping invalidates claimed fit. No binomial accuracy across overlaps.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-J02 — Complete new principal V16–V17 comic census tests a strict portable-mechanism majority
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Written stance/comic corpus.
+
+**Relationship condition:** no character-specific condition. Identify episode eligibility and boundaries independently of L-class. Include verbal/written-form episodes and recurrent gags even when the only consequence is an immediate response or narrator retort; brevity alone is not an exclusion.
+
+**Stake level:** Distributional literary majority, not a person’s risk state or translation-quality measure.
+
+**Lineage/change:** New next-tranche scope, same source-first whole-premise classification and conservative bound rule; current completed V13–V15 pool is evidence basis, not future predetermined labels. Predecessor `MG04-J02` block SHA256 `8298df525efff2b2a5ea8018be73d24c15d7a16a1b572f5fa5bc16d60e6e4bd7`.
+
+- **Trigger/context:** A complete source-first census of qualifying comic episodes across separately authorized principal V16–V17 main narratives, pooled over that new tranche. Source admission/members are determined only at future root gates; no member or narrative is currently opened or inferred. Local results are contributions, not tranche closure. No side/bonus/afterword/holdout source enters.
+- **Relationship/stakes:** no character-specific condition. Identify episode eligibility and boundaries independently of L-class. Include verbal/written-form episodes and recurrent gags even when the only consequence is an immediate response or narrator retort; brevity alone is not an exclusion.
+- **Predicted appraisal:** not applicable to a single character; this is a distributional literary prediction.
+- **Predicted dominant motive:** Not a single-character dominant motive; see distributional effect.
+- **Predicted behavior/effect:** more than half the eligible episodes will have a primary comic mechanism preserved through situation, causal reversal, timing, role or ordinary register/pragmatic equivalents (L0–L2), rather than requiring Japanese-specific reconstruction or annotation (L3).
+- **Inclusion/segmentation rule:** an episode presents an expectation or stance and a comic reversal, violation, contrast or response. A continuous run around the same premise counts once, including nested jokes; a later callback counts separately only when a new scene supplies its own setup/response. Record every eligible episode with its source locator before assigning the primary mechanism. Do not select only action-based or plot-consequential scenes.
+- **Classification/scoring boundary:** log clear L0–L2, clear L3, mixed and uncertain cases separately. For a completed nonempty census, CONFIRMED requires clear L0–L2 cases to exceed half of all eligible episodes even assigning every unresolved case to L3. FALSIFIED applies when L0–L2 cannot exceed half even assigning every unresolved case to L0–L2; this includes a fully resolved tie. AMBIGUOUS applies when unresolved cases can change whether the strict majority is reached. An empty eligible set is NOT_TESTED. Incomplete census permits only PARTIAL qualitative reporting, not a tranche frequency claim. Cultural dependence is flagged separately. This new frequency test does not retroactively quantify Gen02's qualitative major-sequence judgment.
+- **Confidence:** MODERATE for a fresh tranche. The accepted V13–V15 lower bound488/496 retains its source/discovery/boundary/coding limitations; it provides no calibration, future class guarantee or translation-quality claim.
+- **Evidence basis:** Published CP04/Gen04 J02 rules; accepted V13 188clear+1L3+3mixed/192; accepted V14 current151clear+3mixed/154 with all initial histories; V15 principal boundary149clear+1mixed/150. Accepted combined488clear+1L3+7mixed/496. The retrospective basis is not a future outcome.
+- **Disconfirmation:** the completed census establishes failure of the strict L0–L2 majority under the bound rule above, including a fully resolved tie. A result achieved only by excluding short form-dependent episodes or changing boundaries after classification is invalid evidence, not confirmation.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Exact inherited conservative bound: completed nonempty census C if clearportable>N/2; F if clearportable+allunresolved<=N/2 (including resolved tie); AMB if unresolved changes majority; emptyNT; incompletePARTIAL only. No episode omissions or post-code boundaries.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-Y01 — Trusted inclusion and suitable access recruit competent participation despite anxiety
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Yunyun.
+
+**Relationship condition:** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.
+
+**Stake level:** Trusted inclusion with feasible familiar useful role; anxiety/moral concern/independent obligations retained.
+
+**Lineage/change:** PRESERVE strengthened participation, with actual versus requested casts and independent obligations separate. Predecessor `MG04-Y01` block SHA256 `59899443672218544eecafbf9cca249ae0b32431a5accc2aa00cb35384f46102`.
+
+- **Trigger/context:** trusted companions explicitly include Yunyun in a shared undertaking, including accepting her offer to join, and give her access to a role suited to her established magic or practical knowledge.
+- **Relationship/stakes:** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.
+- **Predicted appraisal:** she can belong by making a useful contribution.
+- **Predicted dominant motive:** participate and help while preserving the valued connection.
+- **Predicted behavior/effect:** she will prepare and carry out the relevant role despite awkwardness or anxiety, sometimes overpreparing or overoffering. Moral or relational distress may produce objections without immediately ending participation; distress or interrupted commitment under a directly conflicting personal obligation remains context to record; it is not automatically a failed technical execution.
+- **Interaction tendency:** hesitant acceptance can coexist with technically effective direction and explicit disagreement.
+- **Confidence:** MODERATE-HIGH for bounded inclusion/role/participation after V13–V15 positives; no final expanded-source profile or unconditional availability.
+- **Evidence basis:** CP04 bounded-secondary table/MG04-Y01; V13 C4P0283–0295; V14 C2P0094–0119 and C4P0008–0012; V15 C2P0221–0236 and C4P0483–0509.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** repeated genuine invitations with feasible familiar roles produce sustained indifferent refusal or poor participation unrelated to a documented conflicting obligation, ability/resource limit or coercive condition.
+- **Coding and modifiers:** Reports remain eligible if they actually establish the full undertaking/role/response; a mention or report of being visited supplies none by itself. Do not substitute inferred longing for participation.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Repeated genuine invitation/suitable-feasible-role cases show sustained indifferent refusal/poor participation without documented conflicting obligation/resource/ability/coercion; prospectively at least2. One adverse case survives.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-CE01 — Public cumulative requests beyond expressed preferred burden test over-compliance
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Chris/Eris.
+
+**Relationship condition:** distinguish publicly owed duty from casual trusted companionship; identify her own expressed burden, not an observer's assumption that she must be tired.
+
+**Stake level:** Sincere public service accumulation beyond her expressed preferred load with possible refusal/exit.
+
+**Lineage/change:** PRESERVE explicitly unvalidated cumulative condition and adverse self-set boundaries; no expansion from helpfulness alone. Predecessor `MG04-CE01` block SHA256 `346317f3901777c97ceb6c60836f04a5ef89cf482eac5adb909dbbb29c691818`.
+
+- **Trigger/context:** in her public divine/service role, Chris/Eris receives sincere requests whose cumulative burden exceeds what she explicitly prefers, and a refusal or exit is possible.
+- **Relationship/stakes:** distinguish publicly owed duty from casual trusted companionship; identify her own expressed burden, not an observer's assumption that she must be tired.
+- **Predicted appraisal:** refusal would disappoint people who reasonably seek her help.
+- **Predicted dominant motive:** meet sincere obligations.
+- **Predicted behavior/effect:** she will tend to continue past her preferred burden until a boundary is negotiated or another actor supplies an exit. A successful self-set boundary is adverse evidence for the over-compliance tendency and should not be reclassified as its confirmation.
+- **Interaction tendency:** service politeness may differ from the familiar Chris register she asks trusted companions to use.
+- **Confidence:** MODERATE exact cumulative public burden beyond expressed preferred load, still unvalidated through V15 principal boundary.
+- **Evidence basis:** CP04 bounded-secondary table/MG04-CE01 and original DISC-V08-04; V15 C4P0014–0017 and direct afterlife conversation; V13/V14 localCE01NT.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** repeated matched cumulative burdens elicit timely, comfortable self-limitation without significant conflict or externally created relief.
+- **Coding and modifiers:** Distinguish Chris friendship/charity/leisure and Eris specialized intervention from accumulated public requests beyond her own preferred burden with feasible refusal. Arrival-after-prayer inference is not confessed motive; target hostility and actual knowledge boundaries remain separate.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Repeated full public cumulative burdens beyond expressed preferred load with feasible refusal produce comfortable self-limitation; prospectively at least2. A successful boundary is adverse, never over-compliance confirmation.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-I01 — Direct safer nondeferential context permits more ordinary Iris agency
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Iris.
+
+**Relationship condition:** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.
+
+**Stake level:** Safer trusted nondeferential context versus directly observed royal-surveillance context.
+
+**Lineage/change:** PRESERVE earlier directly supported bounded contrast; no new validation from letters/mentions. Predecessor `MG04-I01` block SHA256 `36b18cf02b79f1d84946d9653bf3d8c48991552aafd971fdfa5dffcff12aadc2`.
+
+- **Trigger/context:** Iris is directly shown with a trusted person who treats her as an ordinary younger peer in a setting with less formal royal surveillance.
+- **Relationship/stakes:** compare her behavior with an observed constrained public context; a letter alone does not supply the contrast.
+- **Predicted appraisal:** ordinary curiosity, experimentation and wants can be expressed without immediate royal correction.
+- **Predicted dominant motive:** learn, play or exercise age-appropriate agency.
+- **Predicted behavior/effect:** curiosity, informal strategy learning, competition or ordinary requests will become more visible than in the constrained setting.
+- **Interaction tendency:** familiar address and less inhibited interaction may accompany the behavioral change; honorifics alone do not prove the mechanism.
+- **Confidence:** MODERATE-HIGH inherited bounded role conditioning from direct V10/V11 contrasts; no fresh matched V13–V15 contrast. Historical earlier NTs remain.
+- **Evidence basis:** CP04 bounded-secondary table/MG04-I01 and actual V10/V11 contrasts; V13–V15 localI01NT/letter boundaries.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** repeated safe nondeferential settings leave her equally constrained, with no predicted behavioral expansion despite available ordinary choices.
+- **Coding and modifiers:** Require a new actual comparable constrained/public versus safer/nondeferential interaction. V12 possibly edited retrospective narrative remains report-level and cannot reopen earlier Iris speech/tears.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Repeated safe nondeferential settings remain equally constrained despite available ordinary choices and a direct public comparison; prospectively at least2. A letter cannot supply the comparison.
+- **Outcome:**
+- **Adjudication:**
+
+## MG05-I02 — Directly expressed wish and understood royal duty test reduced requests
+
+**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.
+
+**Character/system:** Iris.
+
+**Relationship condition:** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.
+
+**Stake level:** Directly evidenced personal wish and understood conflicting royal obligation.
+
+**Lineage/change:** PRESERVE inherited bounded wish–duty mechanism without pretending the unexposed next tranche contains it. Predecessor `MG04-I02` block SHA256 `604cfc79c7272bda0d199ddecc0c8c2b9f9eeb20dab95133b58dd8e991017e3e`.
+
+- **Trigger/context:** the source directly establishes both a personal wish of Iris's and a royal obligation she understands as conflicting with it.
+- **Relationship/stakes:** genuine duty conflict; do not infer an unwanted obligation or hidden wish merely from formal engagement, travel or an escort request.
+- **Predicted appraisal:** the larger personal wish exceeds what the role permits.
+- **Predicted dominant motive:** preserve duty while obtaining a smaller part of the desired freedom or connection.
+- **Predicted behavior/effect:** she will tend to self-limit or choose a reduced request while the original wish remains expressed or otherwise directly evidenced.
+- **Interaction tendency:** restrained petition may coexist with familiar attachment language; the source must establish the motive rather than the analyst supplying it.
+- **Confidence:** MODERATE-HIGH inherited bounded wish–duty negotiation from direct V11; no fresh matched V13–V15 sequence. Historical earlier NTs remain.
+- **Evidence basis:** CP04 bounded-secondary table/MG04-I02; V11 direct wish/duty/reduced request; V13–V15 localI02NT.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.
+- **Disconfirmation:** repeated explicit wish/duty conflicts produce unconstrained prioritization of the wish without meaningful conflict or self-limitation, despite understood obligations.
+- **Coding and modifiers:** Require actual personal wish plus understood conflicting royal duty before a narrowed/renegotiated request. Retold attachment, old letter obligation or generic public constraint alone cannot supply the full sequence.
+- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.
+- **Failure threshold:** Repeated directly understood wish/duty conflicts prioritize wish unconstrained without meaningful conflict/self-limit; prospectively at least2.
+- **Outcome:**
+- **Adjudication:**
