@@ -1038,3 +1038,20 @@ The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_
 | Principal readiness | Original M0.13/S0.14adult fit/time/UNTESTED/noncurrent prefixes retained. These are historical evidence addenda, no new operational packet/test, heldout credit or expanded unfamiliar-person/cross-series/acoustic validation |
 
 All13historical attempts/18forecast records unchanged. Known originals rechecked for correspondence do not become new prospective outcomes; Ami fantasy narrowed to wouldbeamusing is not a failed formal forecast. Full time-bounded reconstruction/validation assessments remain mandatory. ERRATUM-KSS-05-001housing/privacy redirects and later object-dialogue qualification preserved.
+
+
+## KSS08 historical evidence addendum — firm refusal, ordinary care and informed outsiders
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_08_DEEP_READING.md#observation-locator-index) owns complete native05→06/116anchors73nonempty,73native checks, qualified printglyph/split/occlusion findings and30original checks/350bindings. Maika narrates bothparts across distinct phone/text/hometown stages. These historical source inputs do not alter the original adult operational candidates.
+
+| Responsibility | Source evidence and negative constraint |
+| --- | --- |
+| Historical Miyagi | Actual text/Mphonevoice maintains nonreturn plan, gives crowds/travel/ease reasons, claims study/college difference and reminds Mai locks/trash. Neither complete private motive nor performed study follows; maternal echo does not create parental authority or attribute mother gas/fridge list to M |
+| Identity disclosure | Native06p36reports Mhas toldAmi actual Sroommate identity; original LN07p008147corroborates same earlier disclosure and Mprivate fairness reason. Ami has explicit information but says cannotbelieve; affective surprise versus residual factual doubt remain alternatives. No Aprilforeknowledge or fullprivatehistory receipt |
+| Historical Sendai | Named absent roommate/closepair image from Maika earlier visit. No new own currentSspeech/action or psychological policy. Original Sschoolrecognition/contested claim to haveheardM and actualvideo stay known original evidence, not nativebodycompletion |
+| Source versus counterpart | Mai remembers existing LN06homevisit and begins an answer whose detailedcontents are not supplied. Known LN07video/aftercall events cannot fill native answer/peer knowledge or rescore original Sfirst-action FAILEDcase |
+| Local obligations | R156own Mai return component observed through actual hometownmeeting; wholebreakduration/chores/parentmeeting unshown, Mneverbound. R157only Mai before-departure checklist assurance; later addedlocking reminder heard, separate explicit ratification not shown |
+| Supporting contexts | Maika familyattachment/solofreedom/envy/advocacy/returnrevaluation and Ami welcome/play/changeperception/incredulity have independent responsibilities. Both individualmonographs REQUIRED/PENDING; unnamed mother boundedensemble only |
+| Readiness | Original M0.13/S0.14adult fit/time/UNTESTED/noncurrent prefixes intact;13historical attempts18forecasts unchanged. No new operational packet, independent heldoutcase or expanded familiar/unfamiliar/cross-series/acoustic validation |
+
+Any knows shorthand in preserved sourceQ1records information received; the current model notes above do not settle Ami degree of belief. Native/accepted prospective states remain exact; source-based corrections qualify current interpretations rather than rewriting first encounters. Full time-bounded model assessments/testing and final corpus duties remain mandatory.

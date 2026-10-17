@@ -5,14 +5,14 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.14"
+version: "1.15"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
-source_boundary: "Frozen I1; independent LN01–09/four BOOKWALKER bonuses/KSS01–07 complete in atomic commits; later supplements/web/V1 unread; V10 excluded"
+source_boundary: "Frozen I1; independent LN01–09/four BOOKWALKER bonuses/KSS01–08 complete in atomic commits; later supplements/web/V1 unread; V10 excluded"
 canonical_home: series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: KSS07_ATOMIC_AMI_INTERIOR_PEER_RESTRAINT_ACTOR_CLOCK_CONTINUOUS_RUN_ACTIVE
+review_status: KSS08_ATOMIC_MAIKA_HOMECOMING_AMI_ASSENT_AND_RENDER_LIMIT_CONTINUOUS_RUN_ACTIVE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -27,7 +27,7 @@ project_initialization:
   architecture_status: active_provisional
   source_reconnaissance_complete: true
   source_reconnaissance_scope: METADATA_BYTES_STRUCTURE_AND_PROVENANCE_ONLY
-  source_admission: VERIFIED_ORDERED_I1_EXACT_UNIT_ADMISSIONS_THROUGH_KSS07
+  source_admission: VERIFIED_ORDERED_I1_EXACT_UNIT_ADMISSIONS_THROUGH_KSS08
   required_day_one_infrastructure_initialized: true
   required_day_one_infrastructure:
     - "04 Longitudinal Ledgers/SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER.md"
@@ -38,14 +38,14 @@ project_initialization:
   owner_review: CURRENT_OWNER_INSTRUCTION_AUTHORIZES_VALIDATED_BOOTSTRAP_ADOPTION
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_ORDERED_I1_UNIT_ADMISSION
-  next_permitted_operation: KSS-08
+  next_permitted_operation: KSS-09
 sequential_execution:
   mode: continuous_sequential
   unit_type: other
   authorized_start: LN-JP-V01
   terminal_boundary: SHUUKURA-V2-20261017-I1
-  committed_high_water_mark: KSS-07
-  next_candidate_operation: KSS-08
+  committed_high_water_mark: KSS-08
+  next_candidate_operation: KSS-09
   confirmation_between_units: false
   run_state: active
   inventory_freeze_state: FROZEN_AVAILABLE_UNITS_AND_EXPLICIT_MANDATORY_GAPS
@@ -53,15 +53,15 @@ sequential_execution:
   authorization_record: "08 Audits and Handoffs/SHUUKURA_BOOTSTRAP_RECEIPT.md#continuous-execution-kickoff-and-recovery"
 analytical_execution:
   authorization: CONTINUOUS_SEQUENTIAL_AUTHORIZED_GATE_VERIFIED
-  sequential_units_admitted: 20
-  sequential_units_completed: 20
-  committed_narrative_high_water_mark: KSS-07
-  character_reconstruction_readiness: KSS07_AMI_MONOGRAPH_REQUIRED_ACTOR_CLOCKS_THIRTEEN_CASES_NO_VALIDATED_DOMAIN
+  sequential_units_admitted: 21
+  sequential_units_completed: 21
+  committed_narrative_high_water_mark: KSS-08
+  character_reconstruction_readiness: KSS08_MAIKA_CONTEXT_AMI_ASSENT_THIRTEEN_CASES_NO_VALIDATED_DOMAIN
 repository_state:
   stable_branch: series/shuukura
   routing_input: series/shuukura/.repository/series-registry.json
   materialization_status: PRESENT_UNREVIEWED
-  main_integration: LN01_TO09_FOUR_BW_KSS01_TO05_CLOSED_ON_GREEN_MAIN_KSS06_TO07_LOCAL
+  main_integration: LN01_TO09_FOUR_BW_KSS01_TO05_CLOSED_ON_GREEN_MAIN_KSS06_TO08_LOCAL
   integration_hold_required: NONE_FOR_COMPLETED_BOOTSTRAP
 ---
 
@@ -71,21 +71,21 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = KSS-08`
+`NEXT_PERMITTED_OPERATION = KSS-09`
 
-The owner authorizes continuous_sequential through frozen I1 and every required output, without routine confirmation. LN01–09 are merged/audited: V09sourcef05e5ffbc52b2b24911e1b700df3a7845f665958/PR207/main108300099ba20305091a1050fcde33f203afb671/fulltreee4f247a787ca15f5bb5519e7cb6db2cdda06e0ca/source39049020760/house39049396593NO_OP/final39049426359/night39050040125/explicitowner main39050124564 allSUCCESS/full352tests. **KSS07 becomes twentieth complete unit/eleventh external supplement only in whole SHUUKURA-TX-KSS-07-20261017-A1 commit.** BW03 is CLOSED_ON_GREEN_MAIN/PR208: sourcea41c6821/main159644848/whole-tree1798d738; source39052329180/house39052565861/final39052600867/night39053129915/mandatoryownerexplicitmain39053218687 allSUCCESS/full352tests/trustedstatus. GateOPEN/runactive; next KSS-08 exact nativeparts05→06 admission/reading. No source-boundary extension or waived later duty. BW06sourceb08d809faecd10884020d902b79fc0e200f35df8/PR209/main23064c95c652cafefea486e30d806ba858d0e1a9/equalfulltree041b726eb6aaae9ad5a41ea713444e618f48a885/source39054161159/house39054468152/finalactual-source39054497188/night39055177051/mandatoryownerexplicitmain39055268435 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. BW06 CLOSED_ON_GREEN_MAIN. BW07wholelocalcommitf62f8457d29694b815973f712a2d44dad7a3e392/treeea2d7eb0e155fd9aa8e6b94ff49b51bad86c7690/preflight8071PASS; BW07/BW09/KSS01coherent tranche source28f178a2 published atSS5/18; source/house/final audits and owner-nightly/mandatory explicitmain passed; CLOSED_ON_GREEN_MAIN/PR210/main98ffb5d8. BW09localwhole386201e31b63cfafad3c6bd53fe03c2af7bac73a/tree7353693df604a7660f73cd2acfd85dbeffdcfc9c/preflight8091PASS; first-quarter source39062430164/house39062793268NO_OP/final39062820445 allSUCCESS/full352tests; owner-nightly39063271917and mandatory ownerexplicitmain39063355408allSUCCESS/full352tests/trustedstatus/equalfulltree60173da7/PR210. KSS02 CLOSED_ON_GREEN_MAIN/PR212: sourceda0ed6b45dfe429a12505cc5a0f11bb31171e007/maind1021d6d8e5e9551d4ef518f9a5bff6e3bf79b27/equalfulltree4cc841e7f336581c8a94178718908fcfd87f4a50; source39064502111/house39064890893NO_OP/finalactualsource39064923640/owner-nightly39065572812/mandatory ownerexplicitmain39065669252 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Successful pushmain39065651442did not substitute for the mandatory dispatch. KSS03 CLOSED_ON_GREEN_MAIN/PR213: sourcee3603f3a7a818f4ae4313fe42acfb0df844d6192/main6197361b2d88a30f7cd9ce9bfab13b5f1827d802/equalfulltree9a4fb8096595c7c7662ad7bc9561d2987d80d3d6; source39067311514/house39067607805NO_OP/finalactualsource39067637207/owner-nightly39068170249/mandatory ownerexplicitmain39068262873 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Successful pushmain39068246067 did not substitute for the mandatory dispatch. KSS04 CLOSED_ON_GREEN_MAIN/PR214:source9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217/maincce4eb7cb02867112afbe1b40fd17c074a666df2/equalfulltree421b0ee8879122f9719f0691723efb1a76616fe9;source39069161640/house39069396732NO_OP/finalactualsource39069422346/owner-nightly39069838269/mandatory ownerexplicitmain39069935058 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Successful pushmain39069912902 did not substitute for the mandatory dispatch. KSS05mandatory SS9/18halfway publication: wholeunit3e73317dc3d0c276d6796630e49392d083c5c678/treef959fe8be60f41fcebaccd66160d382d115b6aa3/preflight8101PASS/11exactpaths/normalpush-readback; source39072057093PASS, house39072306871requires concurrentmain. Approved ordinary138pathKonoSubaPR216/mainff5e454a598c0de3d506a9c5d45e80c63b24cc28import produced8fd720135c078b43873797d9d207da76672a8c17/treecd057250531188112c3969eacf6a129c57a12b2f/preflight8221PASS/normalpush-readback; all Shuukura bytes unchanged. New source-house-final/nightly/mandatoryowner-main chain pending as of this checkpoint; prior KSS04PR214closed. No failed/pending chain claimed complete. Latest verified closure: KSS05mandatory SS9/18halfway publication CLOSED_ON_GREEN_MAIN/PR218: source8fd720135c078b43873797d9d207da76672a8c17/main7f4f438e0813e5a53ea1bdfe26fa062904791d45/equalfulltreecd057250531188112c3969eacf6a129c57a12b2f. Source39072662070/house39073030088NO_OP/finalactualsource39073057320/ownernightly39073808545/mandatoryownerexplicitmain39073898141 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Separate pushmain39073878727did not substitute. Earlier house39072306871failed current-main ancestry after concurrentPR216; ordinary138pathapproved import/preservation/newaudits closed it. Local KSS06commit5663a6d5b49ec77db2a00103466bfb8e0eb510f0/tree4c1ccf0346671918c5231ee12aa68a6ba13355bb/preflight8223PASS; KSS06–10may publish cumulatively, SS14/18mandatory at KSS10. No pending chain claimed closed.
+The owner authorizes continuous_sequential through frozen I1 and every required output, without routine confirmation. LN01–09 are merged/audited: V09sourcef05e5ffbc52b2b24911e1b700df3a7845f665958/PR207/main108300099ba20305091a1050fcde33f203afb671/fulltreee4f247a787ca15f5bb5519e7cb6db2cdda06e0ca/source39049020760/house39049396593NO_OP/final39049426359/night39050040125/explicitowner main39050124564 allSUCCESS/full352tests. **KSS08 becomes twenty-first complete unit/twelfth external supplement only in whole SHUUKURA-TX-KSS-08-20261017-A1 commit.** BW03 is CLOSED_ON_GREEN_MAIN/PR208: sourcea41c6821/main159644848/whole-tree1798d738; source39052329180/house39052565861/final39052600867/night39053129915/mandatoryownerexplicitmain39053218687 allSUCCESS/full352tests/trustedstatus. GateOPEN/runactive; next KSS-09 exact nativepart04 admission/reading. No source-boundary extension or waived later duty. BW06sourceb08d809faecd10884020d902b79fc0e200f35df8/PR209/main23064c95c652cafefea486e30d806ba858d0e1a9/equalfulltree041b726eb6aaae9ad5a41ea713444e618f48a885/source39054161159/house39054468152/finalactual-source39054497188/night39055177051/mandatoryownerexplicitmain39055268435 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. BW06 CLOSED_ON_GREEN_MAIN. BW07wholelocalcommitf62f8457d29694b815973f712a2d44dad7a3e392/treeea2d7eb0e155fd9aa8e6b94ff49b51bad86c7690/preflight8071PASS; BW07/BW09/KSS01coherent tranche source28f178a2 published atSS5/18; source/house/final audits and owner-nightly/mandatory explicitmain passed; CLOSED_ON_GREEN_MAIN/PR210/main98ffb5d8. BW09localwhole386201e31b63cfafad3c6bd53fe03c2af7bac73a/tree7353693df604a7660f73cd2acfd85dbeffdcfc9c/preflight8091PASS; first-quarter source39062430164/house39062793268NO_OP/final39062820445 allSUCCESS/full352tests; owner-nightly39063271917and mandatory ownerexplicitmain39063355408allSUCCESS/full352tests/trustedstatus/equalfulltree60173da7/PR210. KSS02 CLOSED_ON_GREEN_MAIN/PR212: sourceda0ed6b45dfe429a12505cc5a0f11bb31171e007/maind1021d6d8e5e9551d4ef518f9a5bff6e3bf79b27/equalfulltree4cc841e7f336581c8a94178718908fcfd87f4a50; source39064502111/house39064890893NO_OP/finalactualsource39064923640/owner-nightly39065572812/mandatory ownerexplicitmain39065669252 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Successful pushmain39065651442did not substitute for the mandatory dispatch. KSS03 CLOSED_ON_GREEN_MAIN/PR213: sourcee3603f3a7a818f4ae4313fe42acfb0df844d6192/main6197361b2d88a30f7cd9ce9bfab13b5f1827d802/equalfulltree9a4fb8096595c7c7662ad7bc9561d2987d80d3d6; source39067311514/house39067607805NO_OP/finalactualsource39067637207/owner-nightly39068170249/mandatory ownerexplicitmain39068262873 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Successful pushmain39068246067 did not substitute for the mandatory dispatch. KSS04 CLOSED_ON_GREEN_MAIN/PR214:source9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217/maincce4eb7cb02867112afbe1b40fd17c074a666df2/equalfulltree421b0ee8879122f9719f0691723efb1a76616fe9;source39069161640/house39069396732NO_OP/finalactualsource39069422346/owner-nightly39069838269/mandatory ownerexplicitmain39069935058 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Successful pushmain39069912902 did not substitute for the mandatory dispatch. KSS05mandatory SS9/18halfway publication: wholeunit3e73317dc3d0c276d6796630e49392d083c5c678/treef959fe8be60f41fcebaccd66160d382d115b6aa3/preflight8101PASS/11exactpaths/normalpush-readback; source39072057093PASS, house39072306871requires concurrentmain. Approved ordinary138pathKonoSubaPR216/mainff5e454a598c0de3d506a9c5d45e80c63b24cc28import produced8fd720135c078b43873797d9d207da76672a8c17/treecd057250531188112c3969eacf6a129c57a12b2f/preflight8221PASS/normalpush-readback; all Shuukura bytes unchanged. New source-house-final/nightly/mandatoryowner-main chain pending as of this checkpoint; prior KSS04PR214closed. No failed/pending chain claimed complete. Latest verified closure: KSS05mandatory SS9/18halfway publication CLOSED_ON_GREEN_MAIN/PR218: source8fd720135c078b43873797d9d207da76672a8c17/main7f4f438e0813e5a53ea1bdfe26fa062904791d45/equalfulltreecd057250531188112c3969eacf6a129c57a12b2f. Source39072662070/house39073030088NO_OP/finalactualsource39073057320/ownernightly39073808545/mandatoryownerexplicitmain39073898141 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Separate pushmain39073878727did not substitute. Earlier house39072306871failed current-main ancestry after concurrentPR216; ordinary138pathapproved import/preservation/newaudits closed it. Local KSS06commit5663a6d5b49ec77db2a00103466bfb8e0eb510f0/tree4c1ccf0346671918c5231ee12aa68a6ba13355bb/preflight8223PASS; KSS06–10may publish cumulatively, SS14/18mandatory at KSS10. No pending chain claimed closed.
 
 ## Current boundaries
 
 | Responsibility | Current state |
 | --- | --- |
 | Primary LN witnesses | V01–V09 exact acquired Japanese editions admitted for ordered reading; all source hashes, colophons and native locator manifests verified; conversion-history limits retained |
-| Accessible supplements | Frozen18available:four BOOKWALKER+KSS01–07 complete11/18 onlywholecommit; nextKSS-08. KSS05halfway CLOSED_ON_GREEN_MAIN/PR218; SS14/18publication due atKSS10 |
+| Accessible supplements | Frozen18available:four BOOKWALKER+KSS01–08 complete12/18 onlywholecommit; nextKSS-09. KSS05halfway CLOSED_ON_GREEN_MAIN/PR218; nextmandatorypublicationSS14/18atKSS10 |
 | Web witnesses | Kakuyomu: 431 ordered native episode snapshots and 88,232 paragraph locators retained and verified; zero narrative readings. Narō: 290-episode correspondence responsibility remains unperformed |
 | Publication extent | Official LN10 release is scheduled for October 20, 2026; it is absent from this acquired snapshot and outside the proposed V01–V09 run |
-| Literary coverage | Nine novels/fourBW/KSS01–06 preserved; [KSS07](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_07_DEEP_READING.md) all118anchors77nonempty, Ami interior/distance/actual local restraint/actor-specific knowledge |
-| Longitudinal state | Four ledgers1.11 throughKSS07; Ami independent state/role, local R155restraint/R156own Maika plan, reported householdcover versus actualguestterms, April/later actor clocks.115claims/427forms/520props/156rules; dedicated reconciliation pending |
-| Reconstruction | Original M0.13/S0.14fit/time/UNTESTED/noncurrent prefixes retained;13attempts18forecasts/no newmodeltest. Principal/Maika/Ami individual monographs REQUIRED/PENDING; remaining supporting-role audit and full functional reconstruction mandatory |
+| Literary coverage | Nine novels/fourBW/KSS01–07 preserved; [KSS08](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_08_DEEP_READING.md) all116anchors73nonempty: Maika family/autonomy/actualreturn, Mordinarycare, Ami identityinformation versus uncertain assent; nativecomplete/printocclusion qualified |
+| Longitudinal state | Fourledgers1.12/119claims434forms540props157rules. R156ownreturn observed/wholebreakunshown; R157departureassurance; changedhistorical peerinformation notAprilforeknowledge; dedicatedreconciliation pending |
+| Reconstruction | OriginalM0.13/S0.14fit/time/UNTESTED/noncurrent/13attempts18forecasts intact/no newtest. Principal/Maika/Ami monographsREQUIRED/PENDING; motherboundedensemble; fullroleaudit/functionalreconstruction mandatory |
 | Synthesis and V1 comparison | Responsibilities/dependencies defined; no specialist, monograph, comparison findings or integrated synthesis |
 | Historical authority | V1 is preserved historical analysis and provenance; it does not supply current V2 conclusions |
 
@@ -99,7 +99,7 @@ The [source inventory](00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY
 | Unavailable supplemental sources | I1names51unacquired identities plus27finite discovery duties. V05afterword/earlier author notices expose thirdV04 script and V07audio identity/retrieval debt in that finite discovery scope. | AfterLN09 resolve exact titles/adaptations/duplicates, acquire legitimate complete originals/scripts/recordings and verify modality; no preview/V1/access-bypass substitution |
 | Narō correspondence / discovery completeness | N0800GA episodes 1–290 remain an unperformed source-correspondence obligation; 27 frozen author-notice records require original-story holdings and duplication reconciliation. | Complete source access/correspondence and the bounded discovery audit after independent LN freezes; keep any genuine missing sources visible. |
 
-Narrative high-water marks: **LNV09; externalSSKSS-07; KakNONE; Narō0/290** onlywholeKSS07commit. Available20/458;SS11/18. KSS05halfway source8fd72013/PR218/main7f4f438e CLOSED_ON_GREEN_MAIN/full352/mandatoryownerexplicitmain39073898141; KSS06–07local. Overall115unreached. Next**KSS-08**; SS14/18publication dueKSS10. All remaining source/corpus outputs mandatory.
+Narrative high-water marks: **LNV09;externalSSKSS-08;KakNONE;Narō0/290** onlywholeKSS08commit. Available21/458;SS12/18. KSS05halfway CLOSED_ON_GREEN_MAIN/PR218/main7f4f438e/mandatoryownerexplicitmain39073898141; local6–8, nextmandatorySS14/18publicationatKSS10. Overall115unreached; next**KSS-09**. All remaining source/corpusoutputs mandatory.
 
 ## Governing retrieval order
 
@@ -124,7 +124,7 @@ The routing input is [`.repository/series-registry.json`](.repository/series-reg
 
 For resumption, fetch live authority/governance and the stable branch, reconcile with current main, then read these canonical files and the last accepted unit/freeze when one exists. Never reconstruct source coverage or next operation from conversational memory. Continuous execution is active through I1. Run metadata must continue to obey the live validator's exact lock/run-state consistency fields.
 
-The admission record verifies the actual foundation, exact source/locator freeze and capability limits before setting the OPEN lock and consistent active run. Both next-operation fields name KSS-08; the terminal boundary remains I1, not ongoing future serialization. Protected-main bootstrap integration and its audit are verified. Stable-branch publication follows author preflight, source audit, housekeeping, final audit and eligible nightly integration. At completion, use completed/NONE only when all required dependencies are actually satisfied; an available-source subtotal cannot erase mandatory blockers.
+The admission record verifies the actual foundation, exact source/locator freeze and capability limits before setting the OPEN lock and consistent active run. Both next-operation fields name KSS-09; the terminal boundary remains I1, not ongoing future serialization. Protected-main bootstrap integration and its audit are verified. Stable-branch publication follows author preflight, source audit, housekeeping, final audit and eligible nightly integration. At completion, use completed/NONE only when all required dependencies are actually satisfied; an available-source subtotal cannot erase mandatory blockers.
 
 The live [initiation policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md), [archive authority policy](../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md), [branch lifecycle](../../governance/policies/BRANCH_LIFECYCLE.md), [housekeeping policy](../../governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md) and [character curation policy](../../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md) govern execution and publication.
 
@@ -316,10 +316,19 @@ Four ledgers1.10,total111claims/420forms/500props/154rules;153prior rule scopes 
 KSS05mandatory SS9/18halfway publication: wholeunit3e73317dc3d0c276d6796630e49392d083c5c678/treef959fe8be60f41fcebaccd66160d382d115b6aa3/preflight8101PASS/11exactpaths/normalpush-readback; source39072057093PASS, house39072306871requires concurrentmain. Approved ordinary138pathKonoSubaPR216/mainff5e454a598c0de3d506a9c5d45e80c63b24cc28import produced8fd720135c078b43873797d9d207da76672a8c17/treecd057250531188112c3969eacf6a129c57a12b2f/preflight8221PASS/normalpush-readback; all Shuukura bytes unchanged. New source-house-final/nightly/mandatoryowner-main chain pending as of this checkpoint; prior KSS04PR214closed. No failed/pending chain claimed complete.
 
 
-## Latest analytical checkpoint — KSS07
+## Earlier analytical checkpoint — KSS07
 
 [Reading](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_07_DEEP_READING.md), [audit](08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_07_TRANSACTION_AUDIT.md) and [checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#durable-checkpoint-after-kss07) bind all118nativeanchors77nonempty/77nativechecks, C1explicit long-glyph fold and C244checks354bindings with first expected-glyph mismatch preserved/corrected. Ami new own interior makes distancecost/newfriends/theatrical sincere wish/pleasurable curiosity/performed local restraint coexist. Maika own practical constraints and future offer do not bind absent M. April suspicions, later Mai LN06identity/hurt and later Ami LN07knowledge retain separate clocks; p008LN06is Maika not Ami.
 
 Four ledgers1.11/115claims427forms520props156rules. Ami individual monograph REQUIRED/PENDING, Maika/principals alreadyrequired. Original modelprefixes/13attempts18forecasts unchanged, no new operational validation. WholeunitonlyadvancesSS11/18/available20/458; nextKSS-08automatic,7accessibleSS/all431parallelKak/allmandatory source/corpus duties active.
 
 KSS05mandatory SS9/18halfway publication CLOSED_ON_GREEN_MAIN/PR218: source8fd720135c078b43873797d9d207da76672a8c17/main7f4f438e0813e5a53ea1bdfe26fa062904791d45/equalfulltreecd057250531188112c3969eacf6a129c57a12b2f. Source39072662070/house39073030088NO_OP/finalactualsource39073057320/ownernightly39073808545/mandatoryownerexplicitmain39073898141 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Separate pushmain39073878727did not substitute. Earlier house39072306871failed current-main ancestry after concurrentPR216; ordinary138pathapproved import/preservation/newaudits closed it. Local KSS06commit5663a6d5b49ec77db2a00103466bfb8e0eb510f0/tree4c1ccf0346671918c5231ee12aa68a6ba13355bb/preflight8223PASS; KSS06–10may publish cumulatively, SS14/18mandatory at KSS10. No pending chain claimed closed.
+
+
+## Latest analytical checkpoint — KSS08
+
+[Reading](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_08_DEEP_READING.md), [audit](08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_08_TRANSACTION_AUDIT.md) and [checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#durable-checkpoint-after-kss08) bind complete116nativeanchors73nonempty/73literalchecks, C1twoexplicitglyphfolds/native24split/47paginationrepeat/actualstickyheaderocclusion, fiveactualcrops/9text-pixelpagepairs andC230checks350bindings firstpass. Complete nativeprimary, not visuallycompletePDF. Maika ownfamily/autonomy/advocacy/homecomingrevaluation, Mfirmrefusal/ordinarycare and Ami welcome/changedinformation have distinctresponsibilities. Ami has received MexplicitSidentification; her degreeofassent remains uncertain. Nativeendsbefore fullMaianswer; knownoriginalvideo/aftercall not importedintoSSexit.
+
+Fourledgers1.12/119claims434forms540props157rules; R156boundedownreturn observed, wholebreakduration/chores/parentmeeting unshown, Mneverbound. Originalmodels/status/forecastscores/acceptedfreezes preserved. WholeunitonlyadvancesSS12/18/available21/458; nextKSS-09automatically. SixaccessibleSS/all431parallelKak/mandatorygaps and allfinalcorpusduties remainactive.
+
+KSS05halfway CLOSED_ON_GREEN_MAIN/PR218/source8fd720135c078b43873797d9d207da76672a8c17/main7f4f438e0813e5a53ea1bdfe26fa062904791d45/equalfulltreecd057250531188112c3969eacf6a129c57a12b2f; source39072662070/house39073030088NO_OP/final39073057320/night39073808545/mandatoryownerexplicitmain39073898141allSUCCESS/full352/trustedstatus. KSS06localwhole5663a6d5b49ec77db2a00103466bfb8e0eb510f0/tree4c1ccf0346671918c5231ee12aa68a6ba13355bb/preflight8223PASS. KSS07localwhole866359e429a794ee850e687d82191984a2f3f872/treefb3c0a123757595ffc22616e32ff1b6609156b21/preflight8225PASS/11paths/approvedidentity; ordinary mainparent7f4f preserves integratedsource5/unchangedmain proof. Local6–8await nexttranche, mandatory SS14/18atKSS10; no newremote audit claimed.
