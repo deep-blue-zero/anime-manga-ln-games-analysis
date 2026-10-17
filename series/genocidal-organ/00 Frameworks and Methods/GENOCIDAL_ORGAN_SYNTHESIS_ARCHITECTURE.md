@@ -5,10 +5,10 @@ artifact_type: synthesis_architecture
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.2'
+version: '0.3'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
-source_boundary: Original Japanese prose novel; bounded EPUB witness verified through GO-U002; historical G0 admitted zero units
+source_boundary: Original Japanese prose novel; current bounded witness frontier owned by source map and entrypoint; historical G0 admitted zero units
 canonical_home: series/genocidal-organ/00 Frameworks and Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
 review_status: FOUNDATION_ACCEPTED_CONTINUATION_OWNER_AUTHORIZED
@@ -126,6 +126,10 @@ Current entrypoint, source map and cumulative ledgers are maintained through tar
 
 Harmony / ハーモニー remains a separate project. Do not consult its narrative during this novel's prospective reading to answer a literary question. Shared-world, thematic, linguistic and authorial-development comparisons could later be tested in an authorized retrospective `studies/` project after independent readings, with separate source boundaries and explicit uncertainty. No such study or shared chronology is created now; common authorship proves neither continuity nor shared endorsement.
 
+### First-Part architecture review — GO-U004 / 2026-10-17
+
+Complete Part I introduces richer narrated explanation, cohort coercion, differentiated speaker access and a direct affect countercase. The existing actor/directional/readiness, knowledge/institutions/coercion and claims/revisions owners contain those responsibilities without a retrieval or ownership gap. Keep the present three-ledger arrangement and INITIAL lifecycle; no migration, extra specialist home or separate evidence index is warranted at this boundary. GO-U004’s passage appendix and the private source bundle supply exact retrieval. Later Part reviews may revise that decision on actual recurrence/burden. This is an architecture maintenance judgment, not a Part-level or novel synthesis, source-completion gate or reconstruction promotion.
+
 ## 9. Execution, handoff and governance
 
 Use `BOUNDED_STANDARD` for source/locator reconnaissance; `SUBSTANTIVE_ANALYSIS` for ordinary sequential readings; `DEEP_SYNTHESIS` for architecture, reconciliation, specialists and reconstruction; escalate an unusually propagation-sensitive novel-wide convergence/audit to `PREMIUM_QUALITY_FIRST` with a stated benefit. These are workload classes, not model identity claims.
@@ -135,3 +139,21 @@ The historical bootstrap used hosted Work/Codex with Git/Python and connected Dr
 For the later longitudinal lifecycle, prefer a capable Git/source operator for sequential transactions, fresh cloud reasoning for substantial retrospective synthesis, and a designated integrator for exact-byte/evidence reconciliation. Because this is one novel, use the simplest adequate arrangement and record a justified exception to the long-series preference; no extra environment or session is required merely by a diagram. One active owner edits shared state. A handoff carries full outputs, source/hash/exposure boundary, base commit, intended paths, claim revisions, preserved freezes and unresolved obligations; a summary alone is insufficient. Acceptance checks base/candidate/current drift and source support before targeted integration.
 
 Apply the live [reasoning policy](../../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), [capability policy](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md), [long-series protocol](../../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md), [handoff/name standard](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), [archive policy](../../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [initiation](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation](../../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [checklist](../../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md). Specialized routing/curation owners retain their boundaries. Owner-review publication is a distinct completion responsibility from narrative admission.
+
+
+### RUN_LEDGER_RECONCILIATION and current-run architecture maintenance — 2026-10-17
+
+The 28 natural narrative readings through epilogue GO-U028 are accepted at commit `32751c9b7403e7592e326ad3e353c41fbe1ad2c8`, with exact successful source39043156720→designated-housekeeping39043565521(nochild)→final39043593708, full352/selectiondisabled. They account for 36 narrative/framing spines 5 and 7–41, 371 evidence groups/2,628 narrative locators plus six separate calibration locators. The owner and independent GO source/form reviewer now attest current complete text/form/image inspections of the other eight spines 1/2/3/4/6/42/43/44, including actual cover viewing. Their ancillary/bibliographic dispositions do not create a fictional GO-U029, new actor, claim or forecast. G1 complete primary-source coverage is now PASS for this exact designated witness: official all44 proof `9b1d18972d118bc3e947616fa0c59d7b2afa15b628eb27c014d4502a3a0630b8`, actual independent reproduction `8e238253a94856168ac8b3d51a0148c610c7ec7815bf8df690697cd9e37d7080` and final independent QA `9f4ae8113635027aab6008d8e9adf64b24ed618d7946cb2e7b87cca7fd58ae3e`. The series-branch closing-publication transaction remains PENDING independently; accepted U028 is not a claim that the later closing transaction has published or passed its exact audit.
+
+Retain the INITIAL architecture lifecycle and the present three cumulative owners. Actor identity/agency, directional relationships and readiness retain distinct schemas in their shared owner; knowledge/institutions/technology/coercion retain channels and before/after states; claims/predictions/revisions retain interpretations, counterevidence and exact history. Current 51 subjects/156 actor+156 readiness/88 directions/224 knowledge/88 claims/69 revisions and the fixed four-prediction section have recoverable responsibilities in those homes. The two missing U026 EXIT references receive dated supplements in their existing knowledge/claims homes, without an added chronology/index home or silent old-row rewrite. No migration or additional theme, ethics, voice, evidence-index or character-model home is justified solely by completion or file size. Readiness remains C001 DOMAIN_BOUNDED, C007 INSUFFICIENT and the other 49 RECOGNITION_ONLY; no model or validation is produced or promoted.
+
+| Formal architecture gate | Current disposition of this maintenance transaction |
+| --- | --- |
+| G1 complete primary-source coverage | PASS for the exact designated witness; official all44 proof, actual independent reproduction and final QA are bound above; the separate series-branch closing-publication transaction remains PENDING |
+| G2 formal longitudinal / claim reconciliation | NOT_PERFORMED; separately gated retrospective architecture responsibility; this current-run closeout does not assert it |
+| G3 specialist readiness and completion | NOT_PERFORMED; no retrospective specialist work initiated or delivered |
+| G4 integrated novel synthesis | NOT_PERFORMED; no integrated novel argument initiated or delivered |
+| G5 reconstruction coverage / validation | NOT_PERFORMED; existing readiness dispositions preserved, no model or test initiated |
+| G6 publication / release readiness | NOT_PERFORMED as the formal architecture gate; accepted sequential publications and current-run closeout remain their own bounded transactions |
+
+**RUN_LEDGER_RECONCILIATION: COMPLETED** for the authorized sequential run's cumulative three-owner, history, attribution, uncertainty and fixed-prediction responsibilities through accepted U028, as recorded by adoption of the dated owning supplements. This scoped completion is distinct from formal G2–G6. All 28 frozen readings, prospective boundaries, calibration provenance, 68 prior claim-version formulations, RV001 initial-index distinction and the full fixed four-forecast section remain preserved; all 88 interpretive claims retain their supported OPEN limits. No STABILIZED lifecycle, retrospective specialist/synthesis/reconstruction assessment, blind-validation claim or cross-novel work follows from this maintenance note. Actual G1 acceptance is recorded above. Run routing/terminal authority and the still-PENDING series-branch closing-publication transaction remain separately owned; this append does not certify their completion.
