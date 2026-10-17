@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.5"
+version: "1.8"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1; preserved LN01–09/fourBW records; BW07/BW09local durable and KSS01whole-unit/firstSSquarter checkpoint, public tranche pending"
+source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–03 CLOSED_ON_GREEN_MAIN; KSS04 whole-unit checkpoint, nextKSS05"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: KSS01_SOURCE_SEMANTIC_FIRST_SS_QUARTER_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
+review_status: KSS04_SOURCE_SEMANTIC_PARTIAL_KNOWLEDGE_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -592,3 +592,123 @@ WholeBW09source`386201e31b63cfafad3c6bd53fe03c2af7bac73a`/tree`7353693df604a7660
 | Remaining program |13accessibleSS/431parallelKak/290Narō/51knownmissing/27notices/mandatoryvoices; reconciliation/principal+justifiedsupportmonographs/specialists/reconstruction/V1comparison/integrated/adversarialrelease;active,nextnotNONE |
 
 Stage/process success does not replace original-source grounds or semantic uncertainty. Typed intent, a reported service sighting, rumor and a character forecast keep their different statuses. Existing prospective states and accepted readings/audits remain intact. Source-release metadata and new publications never extendI1silently.
+
+
+## KSS01 verified durable transaction and first-quarter publication before KSS02
+
+Whole KSS01source`28f178a21cd0b68158f7d5fbb14cf56f528ab96b`/tree`60173da745c72627c640a970db6b427929f995bd`/parent386201e31b63cfafad3c6bd53fe03c2af7bac73a committed2026-10-17T19:25:18.431609+00:00 with approved owner identity after complete12chunk baseline diff/narrow final clarity repairs, source/reference/preservation QA and final author index preflightPASS8093. Coherent BW07/BW09/KSS01tranche normal push and all15authoredpaths read back exactly. Source39062430164/house39062793268NO_OP/finalactualsource39062820445 allSUCCESS/full352tests/trusted status on28f178a2. Owner-nightly39063271917and mandatory ownerexplicitmain39063355408subsequentlySUCCESS/full352tests/trustedstatus/PR210/main98ffb5d8/equalfulltree60173da7; first-quarter tranche CLOSED_ON_GREEN_MAIN, not inferred from source success. KSS02entry captured actualsource28f/main6a9, no successful transaction replayed.
+
+## Durable checkpoint after KSS02
+
+**SHUUKURA-TX-KSS-02-20261017-A1** advances only through its whole introducing commit. The [reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_02_DEEP_READING.md) and [audit](SHUUKURA_V2_KSS_02_TRANSACTION_AUDIT.md) bind complete source inspection, evidence archive, beforeimages, original journal and synchronized state. After interruption recover actual commits and hashes before any new write.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run |Epoch1/GIT_ACTIVE_ACCEPTED; continuous_sequential/active/startLN01/terminalI1plus required outputs; gateOPEN/no ordinary confirmation |
+| Prior repository |Source28f178a21cd0b68158f7d5fbb14cf56f528ab96b/tree60173da745c72627c640a970db6b427929f995bd; main6a9e07c5175b884e8f2e567d25141d52353f35c0atentry; currentmain must be refreshed/reconciled before commit/publication, no guessed selfSHA |
+| Versions |Method/architecture/reconstruction0.2; source/current1.9; ledgers/checkpoint1.6; originalM0.13/S0.14fit/time/UNTESTED/noncurrent unchanged |
+| Frozen I1 |JSONSHA6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95;51knownmissing/27notices/290Narō duties unchanged; LN10/later excluded |
+| Source |KSS-02/AUTHOR_RELEASE_CAPTURE-20261017-A1/author羽田宇佐; exact parts14→15/11918+12788bytes/SHA371a4bb8a614fe077d14d150ba84375d1fe16d7a819e986f66ef753cdb704247/d97db4c11bea5ab408c5d45e6194e2f3033e7b9dfb3cb4dec12ec80956039fc9 |
+| Source/map identity |PartsSHA467ac2166e241768c4c0f2c74a98d41822c0c40d656128ad452208d2a692f0a7;parentmapSHA57a97e968efa2bd77f8dace83618cbe35a06243c30bcd3d2ab5c106b50f67127;unitmapSHA45dd908c7f248a9a3a9aa027b01ef7739eeb7f838a2eb56441931e8653fd9fcb; raw native originals recoverable in admissionDrive1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju |
+| Whole inspection |2parts128anchors/75nonempty/53blank;75native checks first-pass/0ruby/hash/UTF8/flow/all outsideUI PASS;1logo+2join crops actually viewed |
+| PDF C1 |Exact3frozenPDFDriveIDs/hashes in inventory;36/36,38/39,74/75raw contiguous matches.15p22exact fragment join across UI, no deleted/repeated narrative glyph; all75accounted.9mergedpages equal4+5text/pixels, no false wholesale text identity |
+| C2 |20original LN01–02checks/176serializedparagraph bindings in actual reinspection ranges. Exact question/teacher alias/private-public and interest-attribution contrasts; no new heldout result/actor knowledge |
+| Private evidence |Drive1N421XTKAnNizVpBri2Q-HpYGEUtrmCF1/78212bytes/SHA2cb49638bcf4eb3d957d8f5ba80fd863a7214c9e57075961bbf75e416dc2aa4a/22members; upload-download equality/all hashes/CRC verified; source maps/freezes/journal/checks/scripts/crop bindings, no primarymedia |
+| Entering freeze |SHUUKURA-KSS02-ENTER-20261017-A1@2026-10-17T19:26:44.124558+00:00;prior28f178a2/tenfullinputs/0fiction0images; laterKSS/publisher/web/V1fictionunread |
+| Firstpart F1 |2026-10-17T19:27:34.860574+00:00/61anchors/1logo/5613bytesSHA d2e76e8a9d463f5fbe29e86f413a8758242cb5cf3f69a235d5ddb03d4d75c4b7 BEFORE allpart15 |
+| Fullstory F2 |2026-10-17T19:28:20.643720+00:00/128anchors/1logo/10601bytesSHA072ebf36d9b41451b1bfaf05dc4c123ccf989ea049d8a613150f76876dbcc419 BEFORE discrepancy/C2prose |
+| Original journal |2026-10-17T19:31:48.623946+00:00/15660bytes/SHAc34cd812f5f386b0a58f8b1dddb5adc3c522d3998b472b01dc5e15b62c169e48/5observations/exact reading suffix; no sealed prefix changed |
+| Historical states |MAIKA-KSS02-EXIT/AMI-KSS02-CONVERSATION/M-KSS02-FRIEND-IMAGE; HSyear3/sportspractice aligned to LN02p003247, no exact date. Adult states and separate BW09night retained |
+| Material delta |10character/3projections/4readiness;8relationship/6directions/2older-rule versions+2newR148–149;27propversions(3older+24new)/24access/7tensions;6olderclaims+4new. Totals97claims/388forms/424props/149rules |
+| Supporting readiness |Maika independent monograph required/pending; Ami substantial independent evidence and full-boundary role-gap decision pending; no new M/Sown-state scene or unsupported supporting model |
+| Reconstruction |Two historical evidence addenda only;13attempts=6firstfail(oneinput-qualified)+1qualifiedgift+6ties;5olderclaimforecasts separate/18records. No new operational model/test/independent acceptance/VALIDATEDdomain |
+| HWM and coverage |KSS02onlywholecommit;LN9/9;SS6/18;KakNONE0/431;NarōNONE0/290;available15/458. A reading draft/source seal alone insufficient |
+| Unresolved |Event exact day, complete M reasons, actual distrust, counted refusal rate and future disclosure not established. Lost-interest statement permits local shift/resumption; no forced contradiction. Touch advance permission absent; apology volume-scoped |
+| Next authorized |KSS-03/I1ordinal16/宇都宮舞香は下校する; exact native part13 after unit check; no routine confirmation |
+| Publication |First-quarter28f178a2 CLOSED_ON_GREEN_MAIN/PR210/main98ffb5d8 after owner-nightly39063271917/mandatory ownerexplicitmain39063355408SUCCESS/full352tests/trustedstatus/equalfulltree60173da7. Newtranche needs freshrefs/rulesets/diff/preflight, serialized full audit chain and authorized integration |
+| Remaining program |12accessibleSS/431parallelKak/290Narō/51knownmissing/27notices/mandatoryvoices; dedicated reconciliation/monographs/roleaudit/specialists/models/V1comparison/integrated/adversarialrelease all mandatory; active,nextnotNONE |
+
+No source identity, reported belief, typed or spoken wish, actual act, current interpretation or repository audit substitutes for another. Preserve both actor-time and disclosure-time histories. New releases never extend I1 silently.
+
+BW07/BW09/KSS01 first supplement-quarter CLOSED_ON_GREEN_MAIN/PR210: source28f178a21cd0b68158f7d5fbb14cf56f528ab96b/main98ffb5d8a1488f211f2def8d84f478e15749765a/equalfulltree60173da745c72627c640a970db6b427929f995bd; source39062430164/house39062793268NO_OP/finalactualsource39062820445/owner-nightly39063271917/mandatory ownerexplicitmain39063355408 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Pushmain39063338489is separately successful and does not substitute for the mandatory dispatch.
+
+Before the whole KSS02commit, currentmain98ffb5d8a1488f211f2def8d84f478e15749765a was incorporated through a clean ordinary merge after verified PR210/source28f178a2/integration full-tree equality60173da745c72627c640a970db6b427929f995bd. No new main paths or governance drift; all11authored candidates byte-exact across reconciliation. The merge remains pending the complete unit commit; published history is preserved.
+
+
+## KSS02 verified durable transaction and publication before KSS03
+
+Whole KSS02source`da0ed6b45dfe429a12505cc5a0f11bb31171e007`/tree`4cc841e7f336581c8a94178718908fcfd87f4a50`/parents28f178a21cd0b68158f7d5fbb14cf56f528ab96b+98ffb5d8a1488f211f2def8d84f478e15749765a committed2026-10-17T19:53:56.051087+00:00 using approved owner identity after complete13chunk baseline diff/final reference and action-attribution repairs, preservation/source/reference QA and final author index preflightPASS8095. Eleven exact authored paths normal-pushed/readback verified. Food direction is Maika→Ami, recalled teacher account differs actually spoken formula, private trust thought remains private; source journal15660bytes preserved. KSS02 CLOSED_ON_GREEN_MAIN/PR212: sourceda0ed6b45dfe429a12505cc5a0f11bb31171e007/maind1021d6d8e5e9551d4ef518f9a5bff6e3bf79b27/equalfulltree4cc841e7f336581c8a94178718908fcfd87f4a50; source39064502111/house39064890893NO_OP/finalactualsource39064923640/owner-nightly39065572812/mandatory ownerexplicitmain39065669252 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Successful pushmain39065651442did not substitute for the mandatory dispatch.
+
+## Durable checkpoint after KSS03
+
+**SHUUKURA-TX-KSS-03-20261017-A1** advances only through its whole introducing commit. [Reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_03_DEEP_READING.md) and [audit](SHUUKURA_V2_KSS_03_TRANSACTION_AUDIT.md) bind the complete single story, prospective prefixes, source checks/evidence archive, beforeimages and synchronized instruments. After interruption inspect actual committed hashes before new writes.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run |Epoch1/GIT_ACTIVE_ACCEPTED; continuous_sequential/active/startLN01/terminalI1plus all required outputs/gateOPEN/no ordinary confirmation |
+| Prior repository |Sourceda0ed6b45dfe429a12505cc5a0f11bb31171e007/tree4cc841e7f336581c8a94178718908fcfd87f4a50; main98ffb5d8atentry, later prior-source integration maind1021d6d; refresh/reconcile currentmain before commit/publication, no guessed selfSHA |
+| Versions |Method/architecture/reconstruction0.2; source/current1.10; fourledgers/checkpoint1.7; M0.13/S0.14original adultfit/time/UNTESTED/noncurrent unchanged |
+| Frozen I1 |JSONSHA6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95;51knownmissing/27notices/290Narōduties unchanged; LN10/later excluded |
+| Source |KSS-03/AUTHOR_RELEASE_CAPTURE-20261017-A1/I1ordinal16/宇都宮舞香は下校する/author羽田宇佐; exactpart13/13820bytes/SHA7ca55da8ec17303601d0397be5fc429785d2109c0a2b9654485025104c3c611d |
+| Source/map identity |PartsSHA835b5f8cca4accc5a96098f03a3f955323b069c63e4d949744eb4633312a08a4;parentmapSHA57a97e968efa2bd77f8dace83618cbe35a06243c30bcd3d2ab5c106b50f67127;unitmapSHA6f6f5fcd1138a2129a36a4955f91aa517d525271a0cd3c03c302f3a536263418; raw originals in admissionDrive1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju |
+| Whole inspection |One part/78anchors45nonempty33blank,45native material checks first-pass/0ruby/hash/UTF8/bodyflow/all outsideUI PASS;1logo+2join crops actually viewed |
+| PDF C1 |Exact FINAL/SRC01DriveIDs/hashes in inventory;44/45rawcontiguous matches each.13p25exact two-fragment join across fixed UI; no deleted/repeated narrative glyph. All45accounted;5FINALpages equal corresponding5SRC01text/pixels, binaryhashes distinct |
+| C2 |18original LN03checks/65serializedparagraphs in272–336; sameevent aligns OctoberHSyear3after festivalday2/cleanup. Private sender/destination differs public repair; omitted apologies do not erase participant knowledge |
+| Evidence archive |Drive1u0PPivSGqdxmeeEidzZwLBSdmByWj-g0/63075bytes/SHA2b0575e87751164d5cc8e2c3f97432f00d965a5a0f4e589e81ed0b869e39c19e/22members; upload-download exact/all member hashes/CRC verified; maps/freezes/journal/checks/scripts/viewbindings, no primarymedia |
+| Entering freeze |SHUUKURA-KSS03-ENTER-20261017-A1@2026-10-17T19:56:01.347978+00:00;priorda0ed6b4/tenfullinputs/0fiction0images; laterKSS/publisher/web/V1fiction unread |
+| First-range F1 |2026-10-17T19:57:20.229224+00:00/first40anchors/1logo/6032bytesSHAae493876a841bcbe253a8768bee1924a546a8dbe2437fa8e1ae55b4df75a19a6 BEFORE41–78 |
+| Whole-story F2 |2026-10-17T19:58:26.723844+00:00/all78anchors/1logo/10597bytesSHA71c9c65773973232ba16bd30e89dc0a14b2f4622674f623f5b464b2699b6b6a2 BEFORE PDF/C2prose |
+| Original journal |2026-10-17T20:02:09.890455+00:00/16060bytes/SHA8cc8ef23167bfa8e3ef08f4f5cb78c5d18a40c89c12b89e8788cbb1c234138ef/5observations/exact reading suffix; no prospective prefix changed |
+| Historical states |MAIKA-KSS03-EXIT/AMI-KSS03-CONVERSATION/M-KSS03-FRIEND-IMAGE; OctoberHSyear3alignedC2, exact day absent. Adult M/S-V09-EXIT/BW09night/prior historical views retained |
+| Material delta |10character/3projections/4readiness;9relationship rows(8new+1older sameeventversion)/6directions/3older-rule versions+2newR150–151;27propversions(3older+24new)/24access/7tensions;6olderclaims+4new. Totals101claims/398forms/448props/151rules |
+| Same-event/knowledge guard |Existing REL-LN-JP-V03-007v2andR150refer one cancellation/deferral, not a second occurrence/debt. M/Maika/Ami know original heard repair; M/Sprivate route not transferred to friends; Maika private74not automatically Ami knowledge |
+| Supporting/readiness |Maika monograph required/pending; Ami substantial independent findings/full-boundary role-gap decision pending. NativeSSno Ssample; same-event repetition not independent validation |
+| Reconstruction |Two historical evidence addenda only;13attempts=6firstfail(oneinputqualified)+1qualifiedgift+6ties;5olderclaimforecasts separate/18records; no new operationalmodel/test/independentacceptance/VALIDATEDdomain |
+| HWM/coverage |KSS03onlywholecommit;LN9/9;SS7/18;KakNONE0/431;NarōNONE0/290;available16/458. Source seal/reading draft insufficient |
+| Unresolved |Actual next-day questioning/disclosure/comfort, partner vetting, exact date, global father truth and complete motives unprovided. No-boyfriend claim not automatically false from female private connection; actor self-understanding stays time-local |
+| Next authorized |KSS-04/I1ordinal17/宇都宮舞香の懐疑心; exact native parts11→12 after source check; no routine confirmation |
+| Publication |Prior KSS02 CLOSED_ON_GREEN_MAIN/PR212/maind1021d6d/equalfulltree4cc841e7/ownerexplicitmain39065669252. Newtranche requires freshrefs/rulesets/diff/preflight/source→house→finalactualhead/authorized owner-nightly/mandatory explicitmain |
+| Remaining program |11accessibleSS/431parallelKak/290Narō/51knownmissing/27finite notices/mandatoryvoices; dedicated reconciliation/monographs/roleaudit/specialists/models/V1comparison/integrated/adversarialrelease all mandatory; active,nextnotNONE |
+
+Narrative omission, analyst disclosure and original actor experience remain different. No reader-private context enters an earlier friend merely by reinspection; no participant forgets an exchange solely because the supplement omits it. New releases do not extend I1 silently.
+
+Before the whole KSS03commit, currentmaind1021d6d8e5e9551d4ef518f9a5bff6e3bf79b27 was incorporated through a clean ordinary merge after verified PR212/sourceda0ed6b4/integration whole-tree equality4cc841e7f336581c8a94178718908fcfd87f4a50. No new main paths or governance drift; all11authored candidates byte-exact across reconciliation. Merge remains pending the complete unit commit, preserving both published histories.
+
+
+## KSS03 verified durable transaction and publication before KSS04
+
+Whole sourcee3603f3a7a818f4ae4313fe42acfb0df844d6192/tree9a4fb8096595c7c7662ad7bc9561d2987d80d3d6/parentsda0ed6b45dfe429a12505cc5a0f11bb31171e007+d1021d6d8e5e9551d4ef518f9a5bff6e3bf79b27 committed2026-10-17T20:34:27.362445+00:00 using approved owner identity after complete14chunk baseline/final clarity review, preservation/source/reference QA and author index preflightPASS8097. Eleven exact paths normal-pushed/readback verified; original16060byte journal/prefixes preserved. KSS03 CLOSED_ON_GREEN_MAIN/PR213: sourcee3603f3a7a818f4ae4313fe42acfb0df844d6192/main6197361b2d88a30f7cd9ce9bfab13b5f1827d802/equalfulltree9a4fb8096595c7c7662ad7bc9561d2987d80d3d6; source39067311514/house39067607805NO_OP/finalactualsource39067637207/owner-nightly39068170249/mandatory ownerexplicitmain39068262873 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Successful pushmain39068246067 did not substitute for the mandatory dispatch.
+
+## Durable checkpoint after KSS04
+
+**SHUUKURA-TX-KSS-04-20261017-A1** advances only through its whole introducing commit. [Reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_04_DEEP_READING.md) and [audit](SHUUKURA_V2_KSS_04_TRANSACTION_AUDIT.md) bind source/freeze/QA/evidence/beforeimages and cumulative instruments. Recover actual committed state after interruption before new writes.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run | Epoch1/GIT_ACTIVE_ACCEPTED;continuous_sequential/active/startLN01/terminalI1plusalloutputs/gateOPEN/no ordinary confirmation |
+| Prior repository | Sourcee3603f3a7a818f4ae4313fe42acfb0df844d6192/tree9a4fb8096595c7c7662ad7bc9561d2987d80d3d6; maind1021d6d8e5e9551d4ef518f9a5bff6e3bf79b27atentry, later prior-source integration main6197361b2d88a30f7cd9ce9bfab13b5f1827d802; refresh/reconcile current main before commit/publication, no guessed selfSHA |
+| Versions | Method/architecture/reconstruction0.2; source/current1.11;fourledgers/checkpoint1.8; original M0.13/S0.14adultfit/time/UNTESTED/noncurrent unchanged |
+| Frozen I1 | JSONSHA6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95;51knownmissing/27notices/290Narōduties;LN10/later excluded |
+| Preferred witness | KSS-04/AUTHOR_RELEASE_CAPTURE-20261017-A1/I1ordinal17/宇都宮舞香の懐疑心/author羽田宇佐; exact authorparts11→12, one story/transaction |
+| Native parts | 11:11352bytes/SHA74f47c62990fdcf03f475fd8c3526e096d4a42d009656b7945a50a80d1f2cb53/49anchors;12:12163bytes/SHAca04abd798340b0f216591bf2076903fe099d9b934fd2e09a7a6ee9a0780b707/70anchors;119total68nonempty51blank |
+| Maps | Parts identitySHAe61e5ea57639a0b325afd86d8fca7d8b6b1cdbe115a31f6ee2ed065fb58361ab;parentmapSHA57a97e968efa2bd77f8dace83618cbe35a06243c30bcd3d2ab5c106b50f67127;unitmapSHA`9281e6b4619c960e90a90c587f7e68e07188719aef46f9981ebf5d494e68e558`; exact serialized paragraph hashes/UTF8/source order retained |
+| UI/images | Both complete outside-story UIs read,2024-04-29 18:18/18:20revisions/991+1088declaredchars are metadata; one logo actually viewed, no full-page visual/audio certification |
+| PDFderivatives | FINALDrive1_eLyVaWGIM-9k2UtyZoqtJomEfLKZpeb/745881/SHA19d96fbecbffc9ede8af77bd8063264f1a701c54a25b5f937c07462286c8ad48;SRC01Drive13sdx9LKIooFH8h-AwUKjw5H_nEi8Robr/348113/06aeb036b138624b3a7e4d61a26ea7f67b49dedf6627a84fce85d7f56bae8b5c;SRC02Drive1qthxLSor3Zh1B5vehQOLPPFbBEB8xasI/372377/5c739880fb13902ab249284222f1252582ae70ed1f425fa37108c5c622e7b6b0 |
+| C1 | 68/68FINAL,27/27SRC01,41/41SRC02ordered rawcontiguous normalized nativeparagraph matches;9FINALpages equal ordered4+5SRCfulltext/pixels. No discrepancy/repair; binary/whole-document native-text identity not claimed |
+| Source QA/C2 | 68native material checks first-pass/0ruby/hash/UTF8/flow PASS;52original LN03–04checks/284serializedparagraph bindings. Existing November transfer, Mprior bare-contact knowledge and later winterbreak apology distinct; exact classroom date inferred/unprovided |
+| Private evidence | Drive1XNNlrDaGiR3LoTon3ZBGFNVdhsKx7uNe/89516bytes/SHA`1b9f68034ffab39a5abad7a4e6db68ad7fefd36d28b99750bb280d99a7229cda`/22members; upload-download exact/member hashes/CRC verified; no primary media |
+| Entering freeze | SHUUKURA-KSS04-ENTER-20261017-A1@2026-10-17T20:35:41.027830+00:00;priore3603f3a7a818f4ae4313fe42acfb0df844d6192/tenfullinputs/0fiction0images; laterKSS/publisher/web/V1fictionunread |
+| F1/F2 | Firstpart49anchors/7047bytesSHAe440f96f759a4383f2dbedceafb9969287e6b4491f70c1062d1028a8120bb515 beforeALLpart12; whole119anchors/13287bytesSHA83a2a603812633146edf7c4f061d59c665bcac9f43c95becba2985216926d0af beforePDF/C2prose |
+| Original journal | 19497bytes/SHA`0f8e976bd7ed3f029185385ffcca4bc29a437673e594f7af8547eba306dacc36`/five observations/sealed2026-10-17T20:40:06.157034+00:00; exact reading suffix, both prospective prefixes preserved |
+| Historical states | MAIKA-KSS04-EXIT/M-KSS04-CLASSROOM/AMI-KSS04-CONVERSATION/S-KSS04-RECALLED_IMAGE. Mprior contact knowledge retained; university contents not yet confessed; native apology deferred/later original repair indexed separately |
+| Material delta | 14character/4projections/4readiness;11relationshiprows(9new+2older)/8directions/3older-ruleversions+2newR152–153;27propversions(3older+24new)/24access/8tensions;6olderclaims+4new;totals105claims/408forms/472props/153rules |
+| Reconstruction/supporting | Historical evidence only;13attempts/18forecasts unchanged/no new test/independent acceptance/VALIDATEDdomain. Maika monograph required; Ami substantial independent treatment/full-boundary role-gap decision pending |
+| HWM/coverage | KSS04onlywholecommit;LN9/9;SS8/18;KakNONE0/431;NarōNONE0/290;available17/458. Source seal/reading draft insufficient |
+| Unresolved | Exact classroom date, complete delay/smile motives, full uptake of topic limit, advance secrecy instruction. No SSapology/forgiveness or automatic Saccess to classroomconfirmation; later original outcomes already known |
+| Next authorized | KSS-05/I1ordinal18/ワニの憂鬱; exact native authorpart09/50anchors after source check; no routine confirmation |
+| Publication | KSS03 CLOSED_ON_GREEN_MAIN/PR213: sourcee3603f3a7a818f4ae4313fe42acfb0df844d6192/main6197361b2d88a30f7cd9ce9bfab13b5f1827d802/equalfulltree9a4fb8096595c7c7662ad7bc9561d2987d80d3d6; source39067311514/house39067607805NO_OP/finalactualsource39067637207/owner-nightly39068170249/mandatory ownerexplicitmain39068262873 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Successful pushmain39068246067 did not substitute for the mandatory dispatch. |
+| Remaining program | 10accessibleSS/431parallelKak/290Narō/51knownmissing/27finite notices/mandatoryvoices;dedicated reconciliation/monographs/roleaudit/specialists/models/V1comparison/integrated/adversarialrelease all mandatory;active,nextnotNONE |
+
+Native omission does not erase original participant knowledge. Bare contact, university contents, private regret and later performed repair remain different. Prior adult states and prospective freezes retained; no future release silently extends I1.
+
+Before the whole KSS04commit, currentmain6197361b2d88a30f7cd9ce9bfab13b5f1827d802 was incorporated through a clean ordinary merge after verified PR213/sourcee3603f3a/integration whole-tree equality9a4fb8096595c7c7662ad7bc9561d2987d80d3d6. No new main paths or governance drift; all11authored candidates byte-exact across reconciliation. Merge remains pending the whole unit commit, preserving both published histories.

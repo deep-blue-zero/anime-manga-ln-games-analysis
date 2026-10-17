@@ -1024,3 +1024,66 @@ The actor interval is spring break before high-schoolyear3, exact date/year/nume
 | Readiness | Ordinary historical message/observer evidence richer; no operational historical packet/test built. No new S behavior sample. Unfamiliar-person/cross-series/acoustic readiness unchanged/unsupported |
 
 S0.14 retains original adult LN fit/time/UNTESTED/noncurrent identity. This addendum is evidence for later explicitly versioned reconstruction, not a new operational version or validation.13historicalattempts=6first-actionfailures(oneinput-qualified)+1exposure-qualifiedgiftmatch+6baseline-ties;5olderclaimforecasts separate/18records. C2is a retrospectively contradicted character expectation, not new heldout performance. Same-author/evaluator and prior familiarity limits remain; no independent acceptance or numerical accuracy. Full-corpus models/readiness/limitations still mandatory.
+
+
+## KSS02 historical evidence addendum — topic-specific friendship access
+
+**KSS-02 / AUTHOR_RELEASE_CAPTURE-20261017-A1**, source-parts identitySHA`467ac2166e241768c4c0f2c74a98d41822c0c40d656128ad452208d2a692f0a7`, unitmapSHA`45dd908c7f248a9a3a9aa027b01ef7739eeb7f838a2eb56441931e8653fd9fcb`. The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_02_DEEP_READING.md#observation-locator-index) owns five observations, complete native parts14→15/all128anchors(75nonempty/53blank),75native checks and20original LN01–02checks across176serializedparagraph bindings. All three frozen PDF derivatives are accounted with one explicit page-break/fixed-UI qualification; no false75contiguous-match claim. One platform logo and two later join crops actually viewed; no acoustic claim.
+
+The historical actor interval is high-school year3 at sports-practice stage, strongly aligned to LN02p003247 by the exact quoted question and event markers. No exact calendar day is supplied. Maika focalizes both parts; Miyagi and Sendai are absent discussed subjects. Last precisely located adult M/S-V09-EXIT, separate BW09night and KSS01 historical projections retain their own clocks. Adult motives, naming and shared-home knowledge cannot be silently imported into an earlier packet.
+
+| Packet responsibility | Evidence and abstention |
+| --- | --- |
+| Miyagi / friend reports | Maika reports frequent manga/anime talk, absent personal consultation and declined group detours; topical talk differs from complete disclosure. No new Miyagi own-state scene or global distrust inference |
+| Maika / observer | Curiosity and voiced trust coexist with private reservations; concern, hurt and independent exam schedules matter. Chooses waiting without force, privately unsure of eventual explanation |
+| Ami / represented partner | Jokes, serious agreement, own weight disclosure, food acceptance, stopping cry and volume apology are actual source conduct through Maika focalization; complete inner motive remains unavailable |
+| Sendai / absent subject | Extortion/blackmail guesses are not actual conduct or motive; no new Sendai dialogue sample. Original private scene remains separately identified C2 evidence |
+| Reader-only originals | LN01 music-room/private context differs teacher account; LN02 M local lost-interest description has later countercontext. A temporary shift or resumed interest remains possible, no forced contradiction |
+| Japanese and voice | Friend names, theatrical exaggeration, topic qualificationお喋りなようでお喋りではない, hypothetical trust, stop request and final uncertainty have distinct speakers/scopes. Prose evidence does not establish acoustic delivery |
+| Negative constraints | No327verified meetings, proven distrust, quantified refusal rate, single cause of every absence, shown advance permission for cheek touch or Miyagi promise to confess. Volume apology is not blanket touch approval |
+| Actor versus analyst | Unprovided exact date limits placement; it does not imply actors lack their own schedules. Earlier friends do not gain M/S private knowledge from analyst original-source access |
+| Readiness | Historical evidence richer, but no new operational packet or test built. Original fit/test identity unchanged; unfamiliar-person, cross-series and acoustic domains remain unsupported |
+
+S0.14 retains its original adult LN fit/time/UNTESTED/noncurrent identity. This addendum is evidence for an explicitly versioned later reconstruction, not a new operational model or validation.13historical attempts remain6first-action failures(oneinput-qualified)+1exposure-qualified gift match+6baseline ties;5olderclaim forecasts separate/18records. C2 uses already-read original outcomes, no heldout credit. Same-author/evaluator and prior familiarity remain limits; no independent acceptance, numerical accuracy or VALIDATED domain. Full-corpus reconstruction and explicit domain limitations remain mandatory.
+
+
+## KSS03 historical evidence addendum — one cancellation, partial knowledge and repair
+
+**KSS-03/AUTHOR_RELEASE_CAPTURE-20261017-A1**, source-parts identitySHA`835b5f8cca4accc5a96098f03a3f955323b069c63e4d949744eb4633312a08a4`, unitmapSHA`6f6f5fcd1138a2129a36a4955f91aa517d525271a0cd3c03c302f3a536263418`. The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_03_DEEP_READING.md#observation-locator-index) owns five observations/all78native anchors(45nonempty/33blank),45native checks and18original LN03checks/65serializedparagraph bindings. One author part has two processing ranges, not two stories. Both PDFderivatives accounted with one fixed-UIpagebreak qualification; no false45raw contiguous-match claim. One branding image/two join crops actually viewed, no acoustic certification.
+
+Historical placement by explicit C2alignment: after cultural-festival day2/cleanup, high-schoolyear3October, exact calendar day absent. Native Maika focalizer and Ami conversation add a view of the already registered REL-LN-JP-V03-007cancellation, not a new occurrence. Adult M/S-V09-EXIT, BW09night and prior historical views remain distinct; later adult naming, home and relationship categories do not enter this earlier packet.
+
+| Packet responsibility | Evidence, knowledge and abstention |
+| --- | --- |
+| Miyagi / original choice | Same existing cancellation/private meeting has social cost. C2retains actual apologies and delegated later-day selection; no duplicate event/debt, fixed replacementdate or completed meal |
+| Maika / source observer | Doubts excuse, gives a plausible defense, privately puts doubt aside; wants disclosure about a possible partner and accepts limited teasing after first offering to drop inquiry |
+| Ami / source partner | Sets roles, asserts then doubts boyfriend hypothesis, continues pressing entertainment and declares next-day retribution; full private motive not narrated |
+| Sendai / native absence | Snotnamed in nativeSSbody. Already-read original identifies Smessage/meeting; this is not a new own-behavior sample or evidence friends learned the relation |
+| Actor lived knowledge | M/Sknow their own original messages/meeting. M/Maika/Ami heard/exchanged apologies and deferral; SSomission does not erase participant knowledge. Maika private qualifications do not automatically become Ami knowledge |
+| Categories and speech | Boyfriend彼氏, partner恋人, no apparent liked person and expected disclosure have distinct scopes. Local teacher-role/interrogation/toy/retribution registers are not literal institutional powers or proof of harmlessness |
+| Negative constraints | No actual next-day questioning, revealed secret, M assent to teasing, performed partner vetting, universal lying rate or verified father whereabouts. No automatic false-boyfriend adjudication from female private connection |
+| Actor versus analyst | Exact date unprovided to analyst does not imply actors lack schedules. Current SSreader access and original participant access are different; prior causal knowledge remains at its own actor time |
+| Readiness | Historical evidence richer; no new operational packet/test. Unfamiliar-person, cross-series and acoustic domains remain unsupported; same-event repetition is not an independent validation case |
+
+S0.14 retains original adult LNfit/time/UNTESTED/noncurrent identity. Evidence addendum, not a new operational model or validated domain.13historical attempts remain6first-action failures(oneinput-qualified)+1exposure-qualified gift match+6baseline ties;5olderclaim forecasts separate/18records. Original LN03was already read, so C2is retrospective support and no new heldout credit. Same-author/evaluator and familiarity limits remain; no independent acceptance or numerical accuracy. Full reconstruction/readiness assessment remains mandatory.
+
+
+## KSS04 historical evidence addendum — recipients, withheld contents and later repair
+
+**KSS-04/AUTHOR_RELEASE_CAPTURE-20261017-A1**, parts identitySHA`e61e5ea57639a0b325afd86d8fca7d8b6b1cdbe115a31f6ee2ed065fb58361ab`, unitmapSHA`9281e6b4619c960e90a90c587f7e68e07188719aef46f9981ebf5d494e68e558`. The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_04_DEEP_READING.md#observation-locator-index) owns five observations/two complete authorparts11→12/all119anchors(68nonempty/51blank),68native checks and52original LN03–04checks/284serializedbindings. All68nonempty normalized paragraphs match frozen PDFderivatives;9FINALpages equal ordered4+5SRCtext/pixels. One platform branding image viewed; no full-page visual or acoustic certification.
+
+Native classroom interval follows the existing November LN03Maika/Sencounter and precedes later winterbreak LN04apology by C2sequence inference; exact classroom date remains unprovided. M/Ami/Maika present, Maika focalizes; Srecalled. All original adult fit/time identities and M/S-V09-EXIT, BW09night and earlier historical views remain intact.
+
+| Packet responsibility | Evidence, knowledge and abstention |
+| --- | --- |
+| Miyagi / actual friend context | Notices Maika hesitation/lunch mismatch and presses real question; denies/deflects Sknowledge, expresses topic fatigue, confirms university plan and own limited recipients. Sensitivity is not exact mind-reading or current knowledge of Maika regret |
+| Miyagi / retained prior knowledge | Original November M already knows Maika/Sspoke. What she lacks at SSexit is university content/full account, not necessarily bare contact. Later original full disclosure/private disturbance remains later |
+| Sendai / earlier information | Receives original Maika prompted/qualified application report and has her own private surprise/priority inferences; current classroom confirmation, Maika regret and Amisecret framing not automatically known. Native recalled impression is not a new own-voice sample |
+| Maika / independent responsibility | Doubts a bond, withholds own intended question, questions inference bias, regrets prior disclosure and anticipates difficult apology. Goodfaith prompted conversation/no prior formal secrecy contract limit simple culpability claims |
+| Ami / independent initiative | Nutrition care, loud play, inquiry persistence, acknowledgment of amusement and secret framing. Maika private regret/leak not automatically shared;じゃれ合いsupplies no exact bodily sequence or universal comfort |
+| Speech/context evidence | First-name friend address and仙台さんreference stay context-specific; Mなに/そんなことないし/二人にしか言ってない, Maika聞いてもいい, Ami亜美ちゃんself-reference/serious warning. No acoustic/register generalization beyond written examples |
+| Event identity | Existing REL-LN-JP-V03-018transfer and REL-LN-JP-V04-005later repair get contextual versions. Recollection/retelling is not another occurrence or an independent validation case |
+| Negative constraints | No actual SSapology, forgiveness, new contact announcement, shared meal, diet change, exact mind-reading, complete disclosed relationship or global knowledge monopoly. No adult labels imported into this earlier interval |
+| Readiness | Evidence addendum for later explicitly versioned reconstruction, no new operational packet/test. Ordinary source-consistent reconstruction, conversation, counterfactuals, unfamiliar people, cross-series and acoustic domains require separate assessments |
+
+S0.14 retains original adult LNfit/time/UNTESTED/noncurrent identity.13historical attempts remain6first-action failures(oneinput-qualified)+1exposure-qualified gift match+6baseline ties;5olderclaim forecasts separate/18records. Original outcomes already independently read, no new heldout credit or model validation. Same-author/evaluator and latent familiarity limits remain; no independent acceptance/numerical accuracy/VALIDATEDdomain. Full reconstruction/readiness assessment remains mandatory.
