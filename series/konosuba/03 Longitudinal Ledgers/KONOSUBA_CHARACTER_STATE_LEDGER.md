@@ -1075,3 +1075,13 @@ Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7
 | EC-DUST01-CS02 | Aqua; Kazuma: domestic bonus | BONUS-01P3–52 | Observed dialogue/action; narrator motive inferences qualified | Kazuma pays for covert observation; Aqua follows a reminder, seeks warmth/food and quarrels with Vanir during tea. Do not turn the narrator’s appetite verdict into a global cognitive incapacity or make Megumin/Darkness offstage references into choices. |
 
 All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — CS — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-CS01 | Megumin; Yunyun | CHEERS printed121/B2–122/B3 | Observed contest actions, private-cause questions/inferences separate; HIGH sequence/MODERATE cause | Recognition/competitive identity recruits strategic rules and allies; Yunyun combines adequate-force skill with company needs and explicit objection. No nine-kill Megumin first round or universal16kill ceiling. | EXPAND distinct rewards/capacity/current-state variables; no main-only revision. |
+| EC-ARTBOOKS-CS02 | Megumin; Aqua; Darkness | BLESSING S146–148 | Observed action and reported prior cleaning/inference separated | Megumin stops casting after salmon information changes ally risk. Darkness objects to involuntary public-stripping exposure; Aqua’s later cleaning report supports an indirect explanation, not direct observation of the initiating event. | COUNTERCARICATURE constraints queued for Stage D, not a revised R1 score. |

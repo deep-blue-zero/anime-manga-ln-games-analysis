@@ -858,3 +858,13 @@ Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7
 | EC-DUST01-RS02 | Dust–succubus helper; Dust–Yunyun | C03P151–175/191–203/270–312/339–355/399–411; C04P544–575 | Observed acts, provider constraints; HIGH sequence | The helper can veto shop access, act under manager pressure and demand better treatment; Dust returns the child’s present while she questions his incidental-motive explanation. Yunyun’s public confession is unsolicited. Conditional cooperation and discomfort block an unlimited-manipulation or grateful-consent rule. |
 
 All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — RS — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-RS01 | Megumin↔Yunyun; party | CHEERS printed121–122 | Observed speech/cooperation; HIGH | Solo-label objection, unfair-teamwork protest and later concession coexist. Party providers become challengers after Megumin’s title claim. | EXPAND dependence/competition/recognition; concession does not establish shared fairness. |
+| EC-ARTBOOKS-RS02 | Kazuma→Darkness; Darkness→Greed | BLESSING S142/S147–148 | Observed coercive action, objection and demand; HIGH act/MODERATE cause | Kazuma uses duty/sexualized exposure to make Darkness tank despite objection. Darkness later asserts apology and ordinary compensation; earlier belonging pleasure is not retrospective consent. | EXPAND coercion/belonging/status by occasion; no universal welcome/inability rule. |

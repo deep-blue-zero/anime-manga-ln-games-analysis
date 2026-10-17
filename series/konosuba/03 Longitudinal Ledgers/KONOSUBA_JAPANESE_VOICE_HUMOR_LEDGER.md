@@ -1339,3 +1339,13 @@ Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7
 | EC-DUST01-JV02 | Concealed permission and native name ruby | C02P109–120; FinalP784–801; D01-V10/V32/V33 | Inner represented address/ruby vs external utterance; HIGH layer | Permission to an absent remembered person is inward, not a spoken turn proving their complete relationship. Preserve native ruby bases/readings and original annotation limits. L/H axes remain separate; no acoustic or native-human certification. |
 
 All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — JV — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-JV01 | Megumin→Yunyun; Yunyun→Megumin; Kazuma | CHEERS printed122/B1/final; CH-HV09/13 | Exact written short forms with addressee/context; HIGH text | ぼっち is Megumin’s taunt; ソロパーティー is Yunyun’s preferred self-framing. Kazuma’s closing 我が名はカズマ shares elevated grammar after criticism. | EXPAND pragmatic functions, not catchphrase/acoustic imitation; L/culture/H axes separate. |
+| EC-ARTBOOKS-JV02 | Aqua→party; Yunyun→Megumin; Komekko→reader | BLESSING S009/S144/S140–141; selected22voice analyses | Exact source forms and recipient; HIGH selected text | コレは絶対売らない; Yunyun友達なんて欲しくない; drawing-song reader invitation belongs to Komekko. 荒魔鬼鮭 permits L0plot/L3food-name distinction, not acoustic inference. | EXPAND voice-by-context; preserve uncertain tiny glyphs, no full-series portability percentage. |

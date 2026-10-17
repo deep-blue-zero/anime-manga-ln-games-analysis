@@ -4772,7 +4772,7 @@
       "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
         "accepted_utc": "2026-10-17T22:53:08.846506+00:00",
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
         "preceding_full_gate_source": "c781155764c1d605a2859e1e87fb2cddf67e40b5",
         "principal": "Nine complete members;3185all-body P slots;3068nonempty;123624base characters;3299ruby/4913rt; two full actual readers with different disclosed exposure",
         "nonprincipal": "All16 containers/124P/111nonempty/3784base/40ruby/71rt/19nav residuals, all27actual native images inspected",
@@ -4781,7 +4781,13 @@
         "component_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_REGISTER.json",
         "historical_metadata_fields": "Preserved unchanged as observations of original metadata-reconciliation operation; this separately attributable current overlay supplies subsequent semantic coverage",
         "unresolved": "Bonus date/reprint relationships; exact prior oath/identity; dream onset and vanished attacker condition; no official-edition completeness claim beyond governed supplied object",
-        "model_scope": "Expanded evidence only; frozen R1/Gen01–05/holdout scores unchanged"
+        "model_scope": "Expanded evidence only; frozen R1/Gen01–05/holdout scores unchanged",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "0ce33a0ff540c4aea0f695c375bfcc57db244bca",
+          "closed_utc": "2026-10-17T23:12:06.135006+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_DUST01_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -9874,7 +9880,19 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "stage_C_component_analysis": {
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "acceptance_utc": "2026-10-17T23:27:29.977226+00:00",
+        "actual_native_pages": 137,
+        "native_sha256": "fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea",
+        "component_register": "10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json",
+        "analysis": "10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md",
+        "receiving": "10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_RECEIVING_AND_PROVENANCE.json",
+        "historical_metadata_state_preserved": "Original no-inspection/not-admitted statements describe the matrix reconciliation operation; this separately attributed Stage C overlay supplies later actual semantic coverage",
+        "authority": "Expanded source only; reproduced/adapted/creator/promo/reference/imagined/event planes unequal; no frozen model/score changes",
+        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness"
+      }
     },
     {
       "source_id": "ART-BLESSING",
@@ -10133,6 +10151,18 @@
         "supplied_epub_presence_and_completeness": "NOT_YET_INSPECTED",
         "authority": "Component-discovery obligation only; no narrative content or continuity conclusion inferred.",
         "required_disposition": "Identify and inspect the supplied pages after the designated validation stage; do not classify the whole book as illustrations-only."
+      },
+      "stage_C_component_analysis": {
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "acceptance_utc": "2026-10-17T23:27:29.977226+00:00",
+        "actual_native_pages": 157,
+        "native_sha256": "12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c",
+        "component_register": "10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json",
+        "analysis": "10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md",
+        "receiving": "10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_RECEIVING_AND_PROVENANCE.json",
+        "historical_metadata_state_preserved": "Original no-inspection/not-admitted statements describe the matrix reconciliation operation; this separately attributed Stage C overlay supplies later actual semantic coverage",
+        "authority": "Expanded source only; reproduced/adapted/creator/promo/reference/imagined/event planes unequal; no frozen model/score changes",
+        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness"
       }
     },
     {
@@ -11250,11 +11280,17 @@
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
       "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
         "principal_and_bonus": "COMPLETE_SUPPLIED_EDITION_ACCEPTED",
         "component_register": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_REGISTER.json",
         "source_plane": "POST_VALIDATION_EXPANDED_ONLY",
-        "original_metadata_disposition": "Unchanged historical observations above; current expanded disposition is supplied here"
+        "original_metadata_disposition": "Unchanged historical observations above; current expanded disposition is supplied here",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "0ce33a0ff540c4aea0f695c375bfcc57db244bca",
+          "closed_utc": "2026-10-17T23:12:06.135006+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_DUST01_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -11463,7 +11499,19 @@
         "embedded_bonus_fiction_or_artbook_prose"
       ],
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "stage_C_component_analysis": {
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "acceptance_utc": "2026-10-17T23:27:29.977226+00:00",
+        "actual_native_pages": 137,
+        "native_sha256": "fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea",
+        "component_register": "10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json",
+        "analysis": "10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md",
+        "receiving": "10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_RECEIVING_AND_PROVENANCE.json",
+        "historical_metadata_state_preserved": "Original no-inspection/not-admitted statements describe the matrix reconciliation operation; this separately attributed Stage C overlay supplies later actual semantic coverage",
+        "authority": "Expanded source only; reproduced/adapted/creator/promo/reference/imagined/event planes unequal; no frozen model/score changes",
+        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness"
+      }
     },
     {
       "source_id": "ART-BLESSING",
@@ -11473,7 +11521,19 @@
         "embedded_bonus_fiction_or_artbook_prose"
       ],
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "stage_C_component_analysis": {
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "acceptance_utc": "2026-10-17T23:27:29.977226+00:00",
+        "actual_native_pages": 157,
+        "native_sha256": "12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c",
+        "component_register": "10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json",
+        "analysis": "10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md",
+        "receiving": "10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_RECEIVING_AND_PROVENANCE.json",
+        "historical_metadata_state_preserved": "Original no-inspection/not-admitted statements describe the matrix reconciliation operation; this separately attributed Stage C overlay supplies later actual semantic coverage",
+        "authority": "Expanded source only; reproduced/adapted/creator/promo/reference/imagined/event planes unequal; no frozen model/score changes",
+        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness"
+      }
     },
     {
       "source_id": "FAN-MEM",

@@ -928,3 +928,18 @@ The [claim-revision ledger](KONOSUBA_CLAIM_REVISION_LEDGER.md) records three att
 ## Stage C DUST-01 observational plane — 2026-10-17T22:53:08.846506+00:00
 
 Twenty separately tagged EC-DUST01 observations now append to the ten maintained ledgers, routed through [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md). Concealed spear capacity and chosen idling coexist; actual protective action coexists with misconduct; Leen attachment is particular without a certified romance; narrator inference, dream experience and provider agency restrict generalization. The separate bonus supplies domestic Aqua/Kazuma/Vanir/Wiz observations after the main-only freeze. These are evidence for later attributable Stage D comparison, not edits to frozen R1 or a full promoted Dust reconstruction. No new independent validation score or exhaustive humor denominator.
+
+
+## Stage C artbook evidence extension — 2026-10-17T23:27:29.977226+00:00
+
+The immutable main-only structured matrix and frozen model evidence remain unchanged. Current expanded constraints route through [Cheers§6–10](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and the [complete Blessing report](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md), native registers and EC-ARTBOOKS observations in all ten ledgers.
+
+| Model subject | New bounded constraint / counterevidence | Primary route | Authority transition |
+|---|---|---|---|
+| Kazuma | Revises purchase after risk information; nevertheless restrains/pressures others and participates in status boasting; narrator questions not private facts | CHEERS120/B1/122final; BLESSING142/147–148 | Expanded evidence for later StageD, unchanged R1/old score |
+| Aqua | Meaningful familiarity cue/game success coexist with appetitive friction and dangerous curse hypothesis; cleaning causal responsibility remains indirect | CHEERS118/B1/121/B1; BLESSING145/148 | Preserve competence-domain/knowledge/judgment/access distinctions |
+| Megumin | Title/recognition framing can exploit others’ restraints and rule omissions; new danger information also elicits actual cast interruption | CHEERS120–122; BLESSING146–147 | Opposing cases retained; no universal impracticality or automatic inhibition |
+| Darkness | Investigative role, challenge and duty-driven work coexist with performed objection and corrective compensation demand | CHEERS118/122B3; BLESSING142/147–148 | No covert claim of welcome/consent from later belonging or bodily durability |
+| Party / Yunyun | Resources and tactical work distributed; Yunyun actual skill and solo-label objection coexist; alternate settings must recalibrate consequences | CHEERS121–122; BLESSING145–147 | Secondary promotion remains evidence-thresholded; no full model from artbook alone |
+
+All major accepted additions have named actors/recipients, exact source regions, observation/inference classes and contradictory evidence in the reports. No new four-book validation success/failure or retrospective main-only outcome is generated. Blessing H3 qualification controls use of original selected records.

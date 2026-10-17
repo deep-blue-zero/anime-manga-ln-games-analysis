@@ -682,3 +682,13 @@ Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7
 | EC-DUST01-SO02 | Dream-plane harms and actual helper agency | FinalP676–755; C03P191–203 | Induced experience/observed administration; HIGH distinction | Experienced terror and real nightmare administration are consequential without promoting represented drugging/assault to independently verified waking events. Precise onset and real pre-dream contact remain unresolved. |
 
 All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — SO — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-SO01 | Kazuma; Wiz; Megumin | CHEERS printed120/B1/122/B3 | Observed objection, dangerous proposal, distinct outcomes | Lethal-tool warning elicits Kazuma withdrawal/restraint and Wiz prohibition; Megumin’s interest remains adverse evidence. Actual cheek-poking and vague aftermath differ from unperformed detailed duel harm. | EXPAND conditional inhibition; no completed sale/use/death or universal safe comic harm assumption. |
+| EC-ARTBOOKS-SO02 | Megumin; Darkness; Yunyun; Aqua | BLESSING S145–148 | Observed danger/rescue/objection; HIGH | Actual swallowing/distress and rescue are consequential. Megumin halts dangerous cast after information, Darkness’s protest remains real despite duty leverage; robust body does not establish gear safety. | EXPAND danger/consequence/inhibition, avoid converting appearance or belonging into consent. |

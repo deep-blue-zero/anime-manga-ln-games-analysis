@@ -1381,3 +1381,13 @@ Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7
 | EC-DUST01-HM02 | Bonus domestic gag and evidence planes | BONUS-01P13–52 | Observed act vs narrator generalization; HIGH sequence | Comfort seeking, reminder, attempted anti-Eris prank and tea antagonism are causal comic mechanisms. Graffiti attempt interrupted by police is not completed vandalism. No new J02 score, portable share or independent coding claim. |
 
 All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — HM — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-HM01 | Megumin; Kazuma; rival/party | CHEERS §8 CH-HV01–13 | 13purposive source-first selections; qualitative only | Visible success criteria drift among reports, refusal, absent opponents, frog production and broad title; the critic joins elevated self-naming. Thirteen selected cases are not13independent trials/J02census. | EXPAND incentive/loophole/callback mechanism, retain counterevidence and dependent stages. |
+| EC-ARTBOOKS-HM02 | Blessing selected comic subjects | BLESSING68initial records +28H3qualifications | Historical labels with current row-level warrant limitation | Original author H3 rationales conflate source-plane/extrapolation caution with gag-contingent behavior. Originals preserved; all28such warrants qualified, no replacement codes/frequency invented. | REVISE eligibility of stated warrants; source-plane cautions remain separately valid. H4 not automatic from static/imagined art. |

@@ -1272,3 +1272,13 @@ Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7
 | EC-DUST01-DE02 | Dust: rescue information and dream | FinalP203–343/571–655/676–755 | Observed decision; represented induced experience; HIGH sequence | Pre-danger delay is not knowing abandonment of disclosed trafficking. Later rescue does not erase route/planning errors. Nightmare administration is real, while apparent orc assault in induced experience is not independently verified waking activity. |
 
 All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — DE — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-DE01 | Kazuma; Megumin; Vanir; Wiz | CHEERS printed120/B1 | Observed proposal/withdrawal; HIGH | Kazuma wants power before side-effect knowledge and explicitly rejects after lethal warning; Megumin’s later interest is informed. Wiz forbids sale/use; no present transaction/use/death. | Separate ignorance, updated judgment and deliberate attraction; no Aqua/Darkness objector claim. |
+| EC-ARTBOOKS-DE02 | Megumin; party; Greed | BLESSING S146–148 | Observed changed information/action; causal inference qualified | Megumin interrupts a competitive spell when new facts reveal mincing-rain risk. The resolution combines separate work; Aqua’s contribution and possible causal responsibility can coexist. | PRESERVE information-responsive regulation, distinguish mistake from unexecuted proposal. |

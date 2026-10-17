@@ -424,3 +424,20 @@ The original source receipts retain actual exposure order, chronology, narrator 
 ## Stage C DUST-01 routes — 2026-10-17T22:53:08.846506+00:00
 
 [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md) §16 maps all nine complete principal members, native one-based P bounds, base/ruby counts and high-consequence scenes. [Edition analysis](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_ANALYSIS.md) identifies DUST-01-BONUS-01 (p-012.xhtml P1–52), afterword, all16 nonprincipal containers and all27 actually viewed images. The [component register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_REGISTER.json) preserves each native member/image hash and unequal authority. These expanded routes are outside frozen main derivation; quoted/depicted main events are not fresh independent occurrences.
+
+
+## Stage C two-artbook source routes — 2026-10-17T23:27:29.977226+00:00
+
+The [Cheers component register](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json) joins all137 actually viewed native pages to exact wrapper/image members and hashes; [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json) does the same for all157. These counts describe actual component inspection, not independent event counts, source-wide joke denominators or whole-corpus coverage percentages. The accepted reports and receiving receipts state full/selected reader scopes.
+
+| Stable component | Reproducible native route | Accepted authority / analysis |
+|---|---|---|
+| ART-CHEERS-ILLUSTRATED-V04-01 | S030–033, item/image/i-024.jpg–i-027.jpg, printed024–027 | Dependent MAIN04 frontispiece per actual index; imagined wishes, not completed acts; analysis§3 |
+| ART-CHEERS-BANTER-108-01 | S114, printed108 upper anniversary illustration | Limited illustrated character banter; exact in-world date OPEN |
+| ART-CHEERS-STORY-01 | S124–128, item/image/i-118.jpg–i-122.jpg, printed118–122, bandsB1/B2/B3 read RTL within each | Entire author story analyzed§4–8; one frog contest; source-correct sequence/speakers; exact reprint join OPEN |
+| ART-BLESSING-ALBUM-FRAME-01 | S009–053, per-page native image hashes/regions in complete inventory | New interleaved caption dialogue separate from reproduced MAIN11–17 events; retrospective frame does not date separate story |
+| ART-BLESSING-SONG-01 | S140–141, printed134–135 | Full reader-facing drawing song; Komekko invitation, Megumin praise/offered hug, no completed hug/acoustic performance |
+| ART-BLESSING-STORY-01 | S142–148, printed136–142; exact wrapper/image hashes in register | Entire seven-page author story; Kazuma narration, information-updated spell interruption, distinct ensemble labor and indirect cleaning/salmon inference |
+| ART-BLESSING-MOVIE-BONUS-COVER-01 | S097 | Cover only inspected; unseen admission-bonus novel prose not analyzed/admitted by the image |
+
+Selected Japanese forms retain named speaker/addressee/context in each report/register. Blessing’s original68author labels require the companion28H3qualifications; no silent recoding or added validation trial. For current ledger claims EC-ARTBOOKS-CS/RS/DE/CC/HM/JV/SO/KN/OL/MP01–02, follow the named report region in each row and then its native image/hash. Original main-only locator authority remains retrievable unchanged.

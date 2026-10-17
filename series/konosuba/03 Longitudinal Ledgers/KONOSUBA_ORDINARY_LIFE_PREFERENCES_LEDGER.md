@@ -740,3 +740,13 @@ Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7
 | EC-DUST01-OL02 | Aqua; Kazuma; Vanir; Wiz in bonus routine | BONUS-01P13–52 | Observed routine/dialogue, narrator appraisal qualified | Kotatsu warmth, firewood work refusal, an appointment reminder, sect deference, tea and a dinner request provide mundane scripts. Requesting dinner does not show the meal; hostility does not preclude sharing ordinary space. |
 
 All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — OL — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-OL01 | Aqua; Kazuma; Yunyun; party | CHEERS118/B1–121/B2 | Observed cards/tea/snacks plus spoken company expectation | Aqua wins a game and takes Chris’s offered snack; shop tea has social/commercial costs; Yunyun waits home for possible visitors. Mundane preference is contextual, not cognitive incapacity or universal passivity. | EXPAND ordinary incentives; no automatic global skill rank from game victory. |
+| EC-ARTBOOKS-OL02 | Aqua; Kazuma; Megumin; Komekko | BLESSING S009/S140–141 | Album-frame dialogue/reader-facing song, distinct planes | Camera economy prompts resale interest and Aqua’s refusal; drawing song makes food-like shapes into Megumin and ends in praise/offered hug. No performed sale/hug or dated sung performance. | EXPAND resource/affection representations with source-plane/date limitations. |

@@ -859,3 +859,13 @@ Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7
 | EC-DUST01-CC02 | Institutional providers and timing | C04P512–539; C05P235–303/511–569; I01P3–49; FinalP315–380/571–655 | Observed operation and contract terms; HIGH sequence | Detection, false-police intervention and rescue depend on other providers, geometry and actual terms. Winning shop defense does not itself secure a usable time-limited reward; coordination is not guaranteed compliance. |
 
 All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — CC — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-CC01 | Yunyun; Megumin; Kazuma; Aqua; Darkness | CHEERS printed121/B3–122/B2 | Observed spell/count/resource states; HIGH | One contest: Yunyun cumulative9then16 and actual mana exhaustion; Megumin’s one Explosion follows gathered targets and supplied mana. No exclusive operator claim from provider, exact Megumin kill count absent. | EXPAND domain/resource/cooperation decomposition; nominal title ≠ independent global rank. |
+| EC-ARTBOOKS-CC02 | Aqua; Yunyun; Megumin; Darkness | BLESSING S145–147 | Observed rescue/weather/cast-stop/work roles; HIGH | Yunyun rescues swallowed Aqua and transiently shrinks the cloud; Megumin stops unsafe plan then provides crater, Aqua water, Yunyun cancellation and Darkness diversion. | EXPAND distinct situational successes without perfect consensual coordination or universal failure. |
