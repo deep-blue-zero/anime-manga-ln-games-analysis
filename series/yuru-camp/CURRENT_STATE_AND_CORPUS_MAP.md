@@ -79,7 +79,7 @@ Read in this order when resuming the project:
 
 The three artifact hashes below are preserved **historical Drive-export fingerprints**, not hashes of the migrated Git Markdown bytes. Use the repository commit and the repair audit preservation manifest for current Git identities. Source-object fingerprints remain separate.
 
-**Mandatory correction overlay:** [repair audit ER-001](09%20Audits%20and%20Reviews/YURUCAMP_CONTINUATION_REPAIR_AUDIT.md) corrects V15 Ch.87: **Rin**, not Ena, gives Ema the conditional camping advice. Read the frozen V15 reading and V13–V15 checkpoint with this attributable erratum; their bytes and original prospective formulations remain preserved.
+**Mandatory correction overlays:** [repair audit ER-001 / ER-002](09%20Audits%20and%20Reviews/YURUCAMP_CONTINUATION_REPAIR_AUDIT.md) corrects V15 Ch.87: **Rin**, not Ena, gives Ema the conditional camping advice. Read the frozen V15 reading and V13–V15 checkpoint with this attributable erratum; their bytes and original prospective formulations remain preserved. ER-002 also corrects CP V07–V09 §18.8: Akari is Aoi’s younger sister (Inuyama), not a Kagamihara.
 
 ### Current checkpoint
 
@@ -241,9 +241,15 @@ Unsupported through V15 under the project's evidentiary standard. Relational int
 
 The original empty standalone-ledger directory was intentional. Architecture §6.0 now authorizes `V01–V15_RETROSPECTIVE_LEDGER_BACKFILL` to meet evidence-retrieval, reconstruction, and handoff needs without restarting the project.
 
-**Repair in progress:** governing metadata and the reconstruction contract are established; the five core ledgers, targeted primary checks, current source audit, and final validation remain pending. Embedded volume/checkpoint evidence remains the accepted analytical authority. Do not treat this intermediate milestone as completed continuation readiness.
+**Core backfill established; repair still in progress pending source reconciliation and final validation.** The retrospective ledgers are `active_provisional` evidence infrastructure, subordinate to the accepted checkpoint sequence and attributable correction overlays. They contain 50 unique observations (28 PRIMARY_VERIFIED, 22 ANALYSIS_EXTRACTED); derived rows overlap. No reconstruction readiness grade is assigned.
 
-The other five ledger responsibilities remain defined in the architecture; their precise embedded routes and consolidation dependencies will be recorded in the locator/revision ledger.
+- [Character State Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_CHARACTER_STATE_LEDGER.md)
+- [Relationship State Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_RELATIONSHIP_STATE_LEDGER.md)
+- [Japanese Voice Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_JAPANESE_VOICE_LEDGER.md)
+- [Camping Competence and Material Culture Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_CAMPING_COMPETENCE_AND_MATERIAL_CULTURE_LEDGER.md)
+- [Primary Source Locator and Claim Revision Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_PRIMARY_SOURCE_LOCATOR_AND_CLAIM_REVISION_LEDGER.md) — identity hashes, actual inspection log, five historical checkpoint states, ER-001/002, and the other five ledger responsibilities’ embedded homes/dependencies.
+
+No unresolved source-attribution conflict remains in the new records. Extracted observations and uneven voice coverage remain explicit evidence gaps before behavioral reconstruction; they do not invalidate the preserved sequential boundary.
 
 ---
 
@@ -308,7 +314,7 @@ Do not:
 **Current sequential boundary:** V15 complete.  
 **Current adversarial authority:** `YURUCAMP_V13-V15_CHECKPOINT.md`.  
 **Current V13 authority:** generation V1.2.  
-**Standalone ledgers:** deferred by governing architecture.  
+**Standalone ledgers:** five core retrospective ledgers established; five remaining responsibilities explicitly routed in embedded analyses.
 **V16 source:** present.  
 **Next operation:** `YURUCAMP_V16_DEEP_READING.md`.  
 **Next mandatory checkpoint:** `YURUCAMP_V16-V18_CHECKPOINT.md`, after V16–V18 and source verification.

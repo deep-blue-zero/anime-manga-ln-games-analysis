@@ -38,8 +38,8 @@ The current map's three legacy artifact hashes are historical Drive-export hashe
 
 | Milestone | Completed scope | State |
 |---|---|---|
-| 1 / foundation (approximately 25%) | governing metadata, bounded architecture amendment, reconstruction contract, honest interim routing | Prepared; validation/publication pending |
-| 2 / core extraction (approximately 50%) | five substantive ledgers and checkpoint chronology | Pending |
+| 1 / foundation (approximately 25%) | governing metadata, bounded architecture amendment, reconstruction contract, honest interim routing | Published `e9d4b3e4bd07c236387fb2f3e4464e461fd0ab6e`; author preflight and explicit legacy-route check passed; source audit 38987985062, housekeeping 38988296530, exact-head integration audit 38988327029 passed |
+| 2 / core extraction (approximately 50%) | five substantive ledgers, 50 observation records, targeted verification and checkpoint chronology | Prepared; validation/publication pending |
 | 3 / evidence and sources (approximately 75%) | targeted Japanese verification and reconciled acquisition/quality records | Pending |
 | 4 / handoff (100%) | cross-artifact audit, final counts, final current map, exact-head validation/publication | Pending |
 
@@ -66,3 +66,15 @@ Discovered and resolved by direct Japanese-image inspection on 2026-10-17. Sourc
 Confidence: high for speaker identity and bounded utterance; no claim that a single scene establishes a universal behavioral rule. Alternative tested: Ema addressing Ena or reported speech; rejected by explicit name, visual continuity, balloon attribution, and surrounding sequence. The frozen Markdown files remain byte-identical. This attributable erratum governs current use of the affected claims and will be cross-linked from the locator/revision ledger. No later-volume evidence was used.
 
 The same chapter `0137.jpg` explicitly depicts Chiaki **currently writing the application** for club promotion. This strengthens the existing distinction between membership eligibility/application and completed administrative promotion; it does not close the formal-promotion question.
+
+## ER-002 — Akari family-identity correction (PRIMARY_VERIFIED)
+
+The frozen `YURUCAMP_V07-V09_CHECKPOINT.md` §18.8 heading labels Akari “Kagamihara Akari / 各務原あかり.” Direct inspection of V08 Ch.43 raw `0057–0060.jpg`, especially Aoi entrusting **her younger sister** to Toba on `0058.jpg`, resolves the family attribution: **Inuyama Akari, Aoi’s younger sister**. The verified V08 object is `15btenYpQpad_B88EzR_Nk_zOSvsP9L4-`, SHA-256 `7be122c49a2d95ccb3255139ad8fdd1d57dd0d1e9d5caaee4991a157bcf03d38`.
+
+Transition: REVISE heading/identity; PRESERVE the body’s bounded description of younger-sibling participation. The explicit sibling relation and named character continuity reject attachment to Nadeshiko’s family. The surname is the corrected identity label, not a claim that a full-name caption occurs on these four pages. High confidence; original heading remains byte-preserved. Locator ledger CR10/E08-02 governs reuse.
+
+## Core backfill scope
+
+Five substantive ledgers now route 50 unique observations across all fifteen volumes: 28 PRIMARY_VERIFIED and 22 ANALYSIS_EXTRACTED. Derived views contain 39 character-state, 31 relationship, 25 verified voice-sample and 33 competence records, plus 16 claim transitions. Counts overlap and must not be added as independent observations. Full-chapter inspection resolves major attribution/mode questions in V07 Ch.39, V13 Ch.75 and V15 Ch.87; other selected scenes are logged precisely in the locator ledger. No held-out validation or character readiness is claimed.
+
+ER-001 and ER-002 are resolved current-use corrections. Remaining source reinspection gaps are explicitly extracted, not mislabeled primary-verified. Five other architectural ledger responsibilities retain precise embedded homes and consolidation dependencies; no empty standalones were added.
