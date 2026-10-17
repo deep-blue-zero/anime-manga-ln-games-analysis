@@ -794,3 +794,13 @@ An additional `REFERENCE_DRIVE` ZIP is cited in published source commit `e3603f3
 | `SHUUKURA_V2_KSS03_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1u0PPivSGqdxmeeEidzZwLBSdmByWj-g0` | `application/zip` / 63075 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `2b0575e87751164d5cc8e2c3f97432f00d965a5a0f4e589e81ed0b869e39c19e` | 22 | [KSS03 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e3603f3a7a818f4ae4313fe42acfb0df844d6192/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_03_TRANSACTION_AUDIT.md#L38) |
 
 Git retains analytical interpretation authority; this ZIP remains Drive-only evidence. This metadata-only addition grants no semantic acceptance, source admission or authority promotion and preserves the prior four entries and all earlier index content.
+
+### KSS04 retained evidence reference - 2026-10-17
+
+An additional `REFERENCE_DRIVE` ZIP is cited in published source commit `9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217`. The authorized provider metadata check supplied for this repair (2026-10-17 at 21:12 UTC) matched the exact filename, stable ID, `application/zip` MIME type, byte size and returned parent ID below. No checksum or revision was returned. The SHA-256 value and member count remain producer-recorded, independently unverified claims from the pinned Git record.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_KSS04_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1XNNlrDaGiR3LoTon3ZBGFNVdhsKx7uNe` | `application/zip` / 89516 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `1b9f68034ffab39a5abad7a4e6db68ad7fefd36d28b99750bb280d99a7229cda` | 22 | [KSS04 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_04_TRANSACTION_AUDIT.md#L48) |
+
+Git retains analytical interpretation authority; this ZIP remains Drive-only evidence. This metadata-only addition grants no semantic acceptance, source admission or authority promotion and preserves the prior five entries and all earlier index content.
