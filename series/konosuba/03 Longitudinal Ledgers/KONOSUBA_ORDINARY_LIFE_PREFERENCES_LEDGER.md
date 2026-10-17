@@ -728,3 +728,15 @@ Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23
 | VB-DUST07-OL03 | Wiz; Vanir; merchant | C01P343–378; C02P227–264; C03P96–129/406–438; EpiP119–123 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Shop/deceased-wife memory, customer protection, commercial payment and separate debt arrangements express different values. Merchant’s weapon gift is real, maintenance failure and repair later real too. | Property/memory attachment is not automatically a particular living-company contract; no permanent altruism, unlimited services or universal incompetence follows. |
 
 Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — OL
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-OL01 | Dust: money, food, shelter and personal cost | C02P48–55/457–465; C05P577–583; EpiP29–66 | Observed choice/report; HIGH occurrence, MODERATE stable preference | Jail can offer valued shelter/food; debt, bread and repairs constrain ordinary life. Giving a saleable tomato to Leen competes with cash. One meal or object does not establish a permanent universal taste. |
+| EC-DUST01-OL02 | Aqua; Kazuma; Vanir; Wiz in bonus routine | BONUS-01P13–52 | Observed routine/dialogue, narrator appraisal qualified | Kotatsu warmth, firewood work refusal, an appointment reminder, sect deference, tea and a dinner request provide mundane scripts. Requesting dinner does not show the meal; hostility does not preclude sharing ordinary space. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.

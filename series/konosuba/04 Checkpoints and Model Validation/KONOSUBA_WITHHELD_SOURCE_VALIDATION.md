@@ -5,7 +5,7 @@ generation: V1
 model_version: MAIN_ONLY_R1
 status: active_provisional
 scope: FOUR_DESIGNATED_WITHHELD_SOURCES
-source_boundary: All four designated principal programs accepted under unchanged MAIN_ONLY_R1; fourth-source/four-book publication gate pending; Stage C access CLOSED; whole-edition and expanded literary/components pending
+source_boundary: All four designated principal programs accepted and fully published atc7811557 under unchanged MAIN_ONLY_R1; Stage C independently admitted, full literary/components and later model revisions remain separate
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ do_not_use_as_current_authority: false
 
 # KonoSuba withheld-source validation
 
-All four predefined principal-source validation programs and all 39 cross-source diagnoses are accepted under unchanged MAIN_ONLY_R1 as of 2026-10-17T21:16:29.555881+00:00. The fourth-source/four-book containing publication gate remains pending; Stage C narrative access is CLOSED until it succeeds. Original dated pending and candidate statements below are historical and are reconciled by the final DUST07/four-book section. Full expanded literary, excluded-component, reconstruction-revision and final synthesis responsibilities remain active.
+All four predefined principal-source validation programs and all 39 cross-source diagnoses were accepted under unchanged MAIN_ONLY_R1 at2026-10-17T21:16:29.555881+00:00 and are fully published on c781155764c1d605a2859e1e87fb2cddf67e40b5. The exact gate closed2026-10-17T21:58:19.916567+00:00; see the current map/run audit and separate gate receipt. Stage C may now proceed through individual admission. Original model/score bytes remain unchanged. Original dated pending and candidate statements below are historical and are reconciled by the final DUST07/four-book section. Full expanded literary, excluded-component, reconstruction-revision and final synthesis responsibilities remain active.
 
 Kazuma's K08 has a genuine local failure: after Aqua newly calls him a debt-NEET(C04P34), he directly insults her and demands she stop(P35). An ordinary causal explanation does not supply the forecast's civil/informational contrast. His later two-Steal-users understatement(P393) remains compatible evidence, without cancelling the opposite. All frozen model bytes,43 contracts, earlier Gen01–05 histories, original blanks,90 first simulation outputs and both synthetic assessment layers remain unchanged. No post-holdout model revision has occurred.
 
@@ -426,3 +426,8 @@ The two consequential full local failures are YORI01 K08's direct status/label r
 This acceptance closes substantive four-book reconciliation **subject to the containing publication gate**. Current fully audited source remains 757c58fc; current local main reconciliations 697e91e0 and747f4973 preserve accepted main d1021d6d and cce4eb7c without changing the committed KonoSuba subtree or either progress stream. Final exact-path author preflight, nonforce source publication, complete readback, source audit, designated housekeeping and final actual-source Repository integration audit must all succeed before any Stage C narrative admission. Protected-main integration and archival release remain separate.
 
 After that gate, reload current published authority and complete Stage C: all 19 supplemental prose books and every admitted narrative component, 17 main-edition excluded-component programs and five actual mixed/reference inspections. The four principal validation reads do not complete whole editions or full literary analyses. Natural secondary order/exposure limits, chronology, continuity and source classes remain explicit. Only after expanded analysis may Stage D version attributable principal/party/transfer model revisions and justified secondary treatments, preserving this R1 suite and scorecard. Expanded synthesis, full-series synthesis, evidence indexes, claim-revision ledger, component-level completion audit and verified release obligations remain active. Four-book validation does not complete the project.
+
+
+## Later exact-source publication reconciliation — 2026-10-17T22:00:16.674116+00:00
+
+The [separate gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_DUST07_VALIDATION_PUBLICATION_GATE_CLOSE.json) verifies c781 source/readback/housekeeping/final audit and actual audited SHA. Earlier pending-at-authorship observations remain historical. This provenance reconciliation changes no contract, original/accepted judgment, failure diagnosis or model. Full editions/expanded literary work and later attributable reconstruction remain separate responsibilities.

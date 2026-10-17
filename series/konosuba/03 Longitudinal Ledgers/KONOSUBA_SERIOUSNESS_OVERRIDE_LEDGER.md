@@ -670,3 +670,15 @@ Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23
 | VB-DUST07-SO03 | Dust; public crowd; Fatefore | C03P647–665; EpiP119–138 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Protecting a rare dragon’s secret explains conscious enduring660/662 despite dignity objection647; a later new insult triggers665. Subsequent private care repairs some social harm without reversing that prior choice. | E06 local failure challenges this behavioral response forecast under competing needs, not the typed no-consent principle. No after-the-fact protective-goal exemption is added to frozen R1. |
 
 Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — SO
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-SO01 | Dust: known danger versus nonurgent friendship repair | FinalP203–298/571–655/759–801; C03P373–380 | Observed actions and focal appraisal; HIGH chronology, MODERATE mechanism | Credible particular danger changes priority, while ordinary repair can lose to pleasure. Protective commitment coexists with loot, coercion and humiliation; it does not entail pure motives or all-context inhibition. |
+| EC-DUST01-SO02 | Dream-plane harms and actual helper agency | FinalP676–755; C03P191–203 | Induced experience/observed administration; HIGH distinction | Experienced terror and real nightmare administration are consequential without promoting represented drugging/assault to independently verified waking events. Precise onset and real pre-dream contact remain unresolved. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.

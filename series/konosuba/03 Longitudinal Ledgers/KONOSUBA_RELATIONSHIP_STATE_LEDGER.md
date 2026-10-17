@@ -846,3 +846,15 @@ Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23
 | VB-DUST07-RS03 | Dust↔Rolyssa; Wiz↔Vanir | C01P545–707; C02P227–264/476–569; EpiP111–127 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Provider enthusiasm, false payment, actual refusal, later specific acceptance and new method protests are different phases. Wiz objects to script and identity misuse within continuing familiarity. | No later pleasure, paid work, shared cause or old affection supplies blanket consent. Debt settlement and the means used to obtain it remain separate. |
 
 Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — RS
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-RS01 | Dust–Leen | C02P457–465; FinalP203–256; EpiP29–66 | Observed gift and focal priority; HIGH act, MODERATE motive | The saleable tomato becomes a gift, and newly credible danger changes action priority. Particular attachment supports costly care without certifying romance or excusing coercion. |
+| EC-DUST01-RS02 | Dust–succubus helper; Dust–Yunyun | C03P151–175/191–203/270–312/339–355/399–411; C04P544–575 | Observed acts, provider constraints; HIGH sequence | The helper can veto shop access, act under manager pressure and demand better treatment; Dust returns the child’s present while she questions his incidental-motive explanation. Yunyun’s public confession is unsolicited. Conditional cooperation and discomfort block an unlimited-manipulation or grateful-consent rule. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.

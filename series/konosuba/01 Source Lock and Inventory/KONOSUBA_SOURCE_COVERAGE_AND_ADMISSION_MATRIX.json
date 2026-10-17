@@ -4769,7 +4769,20 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "accepted_utc": "2026-10-17T22:53:08.846506+00:00",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "preceding_full_gate_source": "c781155764c1d605a2859e1e87fb2cddf67e40b5",
+        "principal": "Nine complete members;3185all-body P slots;3068nonempty;123624base characters;3299ruby/4913rt; two full actual readers with different disclosed exposure",
+        "nonprincipal": "All16 containers/124P/111nonempty/3784base/40ruby/71rt/19nav residuals, all27actual native images inspected",
+        "bonus": "DUST-01-BONUS-01 アクアを観察; item/xhtml/p-012.xhtml P1–52;1911base/0ruby; complete literary analysis",
+        "reading_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md",
+        "component_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_REGISTER.json",
+        "historical_metadata_fields": "Preserved unchanged as observations of original metadata-reconciliation operation; this separately attributable current overlay supplies subsequent semantic coverage",
+        "unresolved": "Bonus date/reprint relationships; exact prior oath/identity; dream onset and vanished attacker condition; no official-edition completeness claim beyond governed supplied object",
+        "model_scope": "Expanded evidence only; frozen R1/Gen01–05/holdout scores unchanged"
+      }
     },
     {
       "source_id": "DUST-02",
@@ -11235,7 +11248,14 @@
         "embedded_bonus_fiction"
       ],
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "principal_and_bonus": "COMPLETE_SUPPLIED_EDITION_ACCEPTED",
+        "component_register": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_REGISTER.json",
+        "source_plane": "POST_VALIDATION_EXPANDED_ONLY",
+        "original_metadata_disposition": "Unchanged historical observations above; current expanded disposition is supplied here"
+      }
     },
     {
       "source_id": "DUST-02",

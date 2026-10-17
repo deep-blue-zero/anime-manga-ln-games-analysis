@@ -1260,3 +1260,15 @@ Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23
 | VB-DUST07-DE03 | Dust; Kazuma as mediated comparison | C02P401–442; C03P663–677 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Dust knowingly invents a marriage rumor, later admits it and the interrupted-dream scheme to retaliate, apologizes under threat, then re-escalates by boasting deliberate malice. | The fabricated policy is not Kazuma’s actual intention. Moral/strategic failure and tactically effective mobilization coexist; quoted comparisons to Kazuma are audience judgments, not new Kazuma self-accounts. |
 
 Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — DE
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-DE01 | Dust: investment and transport | C02P280–309/359–447 | Decision sequence; HIGH acts, MODERATE diagnosis | Correct owner-specific valuation and plausible scarcity reasoning coexist with buying before securing transport/storage. Ability, judgment and follow-through are distinct; earlier mistakes are not retrospectively all acting. |
+| EC-DUST01-DE02 | Dust: rescue information and dream | FinalP203–343/571–655/676–755 | Observed decision; represented induced experience; HIGH sequence | Pre-danger delay is not knowing abandonment of disclosed trafficking. Later rescue does not erase route/planning errors. Nightmare administration is real, while apparent orc assault in induced experience is not independently verified waking activity. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.

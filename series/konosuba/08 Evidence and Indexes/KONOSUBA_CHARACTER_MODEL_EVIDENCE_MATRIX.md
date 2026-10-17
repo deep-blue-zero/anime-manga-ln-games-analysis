@@ -12,6 +12,8 @@ do_not_use_as_current_authority: false
 
 # Character-model evidence matrix — main-only evidence plane
 
+The original main-only index below retains its authored source/exposure scope. The dated Phase B appendix adds separately tagged validation routes; it does not add holdouts to the main derivation corpus or certify expanded literary/component completion.
+
 This accepted main-only plane connects the six frozen R1 models to admitted principal evidence. It supplies 75 claim rows: all 39 behavioral/valuation commitments, four typed constraints and 32 additional literary, relationship, narrator, ordinary-life, ensemble, voice and transfer claims. These are curated causal claims, not a claim that 39 forecasts exhaust the mature models. The remaining validation and expanded planes must still be added before full 41-object/component acceptance.
 
 The model baseline is the published 3b92d9fac53c6065098d690aef68773588126def suite, with actual semantic acceptance 15:04:33.118647Z and freeze 15:05:30.667128Z on 2026-10-17. Root subsequently reports the full publication gate closed 15:19:27.894053Z. The immutable freeze’s PENDING-at-authorship statement is preserved as history. The producer’s candidate was subsequently accepted by root on 2026-10-17T18:02:32.019080Z at the bounded receiving scope recorded below. The producer remains shielded from holdout narratives, findings and scores. This containing canonical publication is pending at authorship.
@@ -912,3 +914,17 @@ Root’s actual receiving reused the earlier complete 85,926-byte v1 prose read 
 The public companion preserves all 75 claim rows, 102 route windows, 61 witness rows, 162 section hashes, 168 protocol routes and 43 original contracts. Its six private tested-core locations are replaced by explicit opaque recovery aliases; their tested bytes/hashes remain unchanged and are reproducibly recovered from the public model plus the frozen adoption inverse. No local evidence path is published. This source-safe transformation and the metadata wrapper do not revise model mechanisms or scoring.
 
 The 32 additional mature-claim rows are curated coverage, not a claim that every mature sentence in every model is independently localized. Coarse original witness clauses and unresolved primary specificity remain explicit. Final expanded-source coverage and a substantive complete-index audit are still required.
+
+
+## Separate Phase B frozen-model validation route plane — 2026-10-17T21:53:24.382586+00:00
+
+The original main-only model/witness/claim rows and structured companion above remain unchanged. The [four-book overlay](KONOSUBA_WITHHELD_VALIDATION_EVIDENCE_OVERLAY.json) separately indexes all 39 unchanged source commitments across the four predefined books, with 25 exact principal-member identities, original literal hashes, accepted outcome fields, native/event routes and mandatory counterevidence fields. Its full four-book diagnoses are exact accepted values, not new rescoring or new main-only support.
+
+YORI01 K08 and DUST07 E06 have accepted consequential local failures. E06 retains MODERATE occasion/history scope and its coherent-episode rival; K08 retains contrary compatible examples without a vote cancellation. DUST06 E01/E06 remain ambiguous; MASK E08 retains the narrower independent recommendation; E03 care, E05 inference and E08 timing gaps remain visible. DUST07 named-character dependent fits/new Japanese/adverse surfaces are retained despite formal new-independent-event NT scope. Fourteen contracts remain untested in all four sources; four T constraints remain source N/A. No 156 independent trials, pooled accuracy, absence confirmation or altered-world replay is added.
+
+The [claim-revision ledger](KONOSUBA_CLAIM_REVISION_LEDGER.md) records three attributable later-revision obligations. Recording failures or a new private viewpoint does not revise R1. Stage D must distinguish validation-driven change from additional expanded evidence, preserve old/new claims and contrary evidence, and keep the original models/90 responses/settings/criteria/scores independently retrievable. Complete expanded routes, post-validation models and full 41/component acceptance remain pending.
+
+
+## Stage C DUST-01 observational plane — 2026-10-17T22:53:08.846506+00:00
+
+Twenty separately tagged EC-DUST01 observations now append to the ten maintained ledgers, routed through [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md). Concealed spear capacity and chosen idling coexist; actual protective action coexists with misconduct; Leen attachment is particular without a certified romance; narrator inference, dream experience and provider agency restrict generalization. The separate bonus supplies domestic Aqua/Kazuma/Vanir/Wiz observations after the main-only freeze. These are evidence for later attributable Stage D comparison, not edits to frozen R1 or a full promoted Dust reconstruction. No new independent validation score or exhaustive humor denominator.

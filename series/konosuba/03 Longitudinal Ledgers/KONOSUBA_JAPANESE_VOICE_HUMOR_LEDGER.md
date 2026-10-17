@@ -1327,3 +1327,15 @@ Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23
 | VB-DUST07-JH03 | Keith; Dust; Leen/Vanir | EpiP43–60/96–128 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Keith54 jeers; Dust55 addresses him and objects to blows; Leen56/57 retorts. Real Leen is right101/124–125; the left113 intimacy invitation111 is Vanir’s impersonation, revealed117. | External corrections preserve all originals. S’s preseal erratum already fixes its old note; I DI07-113 needs external correction. No borrowed quotation, speaker stereotype or imagined completed kiss. |
 
 Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — JV
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-JV01 | Dust; providers; authority scripts | ProP3–13; C01P169–176; C02P132–135; C03P191–203/270–312; C04P298–305; C05P307–338/511–522 | Exact short forms and addressees; HIGH wording, MODERATE pragmatics | The 33 selected cases distinguish polite exclusion, pressure for compensation, performed mercy and actual apology. C01 ends in intended apology; C05 depicts an actual jumping prostration. Voice grammar is relationship/task dependent, not catchphrase imitation. |
+| EC-DUST01-JV02 | Concealed permission and native name ruby | C02P109–120; FinalP784–801; D01-V10/V32/V33 | Inner represented address/ruby vs external utterance; HIGH layer | Permission to an absent remembered person is inward, not a spoken turn proving their complete relationship. Preserve native ruby bases/readings and original annotation limits. L/H axes remain separate; no acoustic or native-human certification. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.

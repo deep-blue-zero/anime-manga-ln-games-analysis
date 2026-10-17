@@ -766,3 +766,15 @@ Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23
 | VB-DUST07-KN03 | Dust; external speakers | C02P664/827–885; C03P15–18/170/432–438/609–642 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Subjective fear, false death/blood assumptions, enemy pet-report and King-weakening hypotheses differ from directly shown events. Decapitation, collapse and cold are actual; permanent deaths/hidden causal intentions remain narrower. | Narrator assertion is evidence with access limits, not automatic omniscience or blanket unreliability. Source corrections must retain exact subjects, timing and independently supported events. |
 
 Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — KN
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-KN01 | Dust as comparative narrator, not Kazuma focal access | ProP20–38; C01P38–39; FinalP735–755 | Alternate focal report and inference; HIGH layer | Aqua-as-delusional and Kazuma-as-face-saving are Dust’s motivated accounts; reader knowledge and actual event can oppose him. Do not silently assign Dust the Kazuma-narrator evidence class or treat his private motive guesses as observations. |
+| EC-DUST01-KN02 | Kazuma observed/reported in Dust viewpoint | C01P169–176; C03P1–14; BONUS-01P3–6/38 | Mediated acts and stated request; HIGH report, limited interiority | Dust resolves to apologize when Kazuma returns; completion is not shown by the exchange account. Kazuma’s paid surveillance request is actual dialogue; alleged guild treatment of him is his report, not direct staff testimony. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.

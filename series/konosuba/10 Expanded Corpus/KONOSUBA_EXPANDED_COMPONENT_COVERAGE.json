@@ -1,0 +1,327 @@
+{
+  "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
+  "status": "ACTIVE_NOT_COMPLETE",
+  "updated_utc": "2026-10-17T22:53:08.846506+00:00",
+  "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
+  "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
+  "expanded_narrative_completion_percentage": null,
+  "milestone_reports": "25/50/75/100 percent require a mapped admitted-component denominator and accepted analysis; no effort/image/book percentage substitution",
+  "book_accounting_only": {
+    "supplemental_books_total": 19,
+    "accepted_whole_supplied_editions": [
+      "DUST-01"
+    ],
+    "not_an_expanded_component_percentage": true
+  },
+  "objects": [
+    {
+      "source_id": "MAIN-01",
+      "native_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-02",
+      "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-03",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-04",
+      "native_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-05",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-06",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-07",
+      "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-08",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-09",
+      "native_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-10",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-11",
+      "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-12",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-13",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-14",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-15",
+      "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-16",
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "MAIN-17",
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+    },
+    {
+      "source_id": "DUST-01",
+      "native_sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLICATION_PENDING",
+      "principal_and_components": "COMPLETE; bonus stable identity and all27images individually dispositioned",
+      "evidence": "Dust/KONOSUBA_DUST_V01_COMPONENT_REGISTER.json"
+    },
+    {
+      "source_id": "DUST-02",
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "DUST-03",
+      "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "DUST-04",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "DUST-05",
+      "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "DUST-06",
+      "native_sha256": "d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "FULL_LITERARY_AND_EXCLUDED_COMPONENT_ANALYSIS_PENDING",
+      "prior_phase_B": "Principal narratives completely read and frozen-R1 validation accepted/published; scorecard immutable",
+      "remaining": "Complete proportional literary/component analysis without relabeling prior exposure or making a new blind test"
+    },
+    {
+      "source_id": "DUST-07",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "FULL_LITERARY_AND_EXCLUDED_COMPONENT_ANALYSIS_PENDING",
+      "prior_phase_B": "Principal narratives completely read and frozen-R1 validation accepted/published; scorecard immutable",
+      "remaining": "Complete proportional literary/component analysis without relabeling prior exposure or making a new blind test"
+    },
+    {
+      "source_id": "DUST-CONT",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "EXP-01",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "EXP-02",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "EXP-03",
+      "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "CONTEXP-01",
+      "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "MASK",
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "FULL_LITERARY_AND_EXCLUDED_COMPONENT_ANALYSIS_PENDING",
+      "prior_phase_B": "Principal narratives completely read and frozen-R1 validation accepted/published; scorecard immutable",
+      "remaining": "Complete proportional literary/component analysis without relabeling prior exposure or making a new blind test"
+    },
+    {
+      "source_id": "FD",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "YORI-01",
+      "native_sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "FULL_LITERARY_AND_EXCLUDED_COMPONENT_ANALYSIS_PENDING",
+      "prior_phase_B": "Principal narratives completely read and frozen-R1 validation accepted/published; scorecard immutable",
+      "remaining": "Complete proportional literary/component analysis without relabeling prior exposure or making a new blind test"
+    },
+    {
+      "source_id": "YORI-02",
+      "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "YORI-03",
+      "native_sha256": "f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "YORI-04",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "ART-CHEERS",
+      "native_sha256": "fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "ALL137_ACTUAL_PAGES_READ_ANALYTICAL_CANDIDATE_REPAIR_IN_PROGRESS_NOT_ACCEPTED",
+      "remaining": "Correct source speaker/count/action errors, receive exact successor and publish; no complete Stage C credit yet"
+    },
+    {
+      "source_id": "ART-BLESSING",
+      "native_sha256": "12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "ALL157_ACTUAL_PAGES_READ_INITIAL_ANALYSIS_SEALED_ROOT_BOUNDED9PAGE_RECEIVING_COMPLETE_NOT_ADOPTED",
+      "remaining": "Materialize and accept component/linguistic/literary analysis with exact scope, then publish; no complete Stage C credit yet"
+    },
+    {
+      "source_id": "FAN-MEM",
+      "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "native_sha256": "038bfc2d98f5e30853e041942805c7fe17eb8487ee33b8f18da5507f9e57e59c",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "native_sha256": "2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c",
+      "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
+      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+    }
+  ]
+}

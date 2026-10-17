@@ -847,3 +847,15 @@ Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23
 | VB-DUST07-CC03 | Dust; Leen; Fatefore; distant main party | C03P538–633/637–642 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Accepted roles, borrowed shield, pact resistance and Leen’s vulnerability precede aerial choices. Breath channels a cold strike; unexpectedly strong freezing leads Dust to infer distant King defeat before a weak-scale attack. | Actual combination plus changed enemy world state; no sole-caster victory, guaranteed prior safety or direct newly observed Kazuma combat. Enemy final death is not explicitly established by falling/retreat. |
 
 Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — CC
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-CC01 | Dust; Mitsurugi: domain and present state | C02P132–135; FinalP759–801 | Private appraisal and action; HIGH text, bounded inference | Dust recognizes Mitsurugi’s considerable ability and his own drunken disadvantage, explicitly not an unconditional sober ranking. Later spear success establishes learned domain ability without universal superiority. |
+| EC-DUST01-CC02 | Institutional providers and timing | C04P512–539; C05P235–303/511–569; I01P3–49; FinalP315–380/571–655 | Observed operation and contract terms; HIGH sequence | Detection, false-police intervention and rescue depend on other providers, geometry and actual terms. Winning shop defense does not itself secure a usable time-limited reward; coordination is not guaranteed compliance. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.

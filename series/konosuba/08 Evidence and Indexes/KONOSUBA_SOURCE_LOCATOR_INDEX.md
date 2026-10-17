@@ -11,6 +11,8 @@ do_not_use_as_current_authority: false
 
 # Source locator index — main-principal evidence
 
+The original main-only index below retains its authored source/exposure scope. The dated Phase B appendix adds separately tagged validation routes; it does not add holdouts to the main derivation corpus or certify expanded literary/component completion.
+
 This partial index makes the already frozen main-principal routes explicit. It is not the final full-corpus index, a new source admission, a new narrative read, or proof that excluded edition components have been analyzed. The seventeen native identities and 137 member contracts below are an exact readable projection of the accepted [main-principal evidence freeze](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN_PRINCIPAL_EVIDENCE_FREEZE.json), SHA256 `4f4491ad50a55b00d4e218b4869fc409199e549db2f03df1c1e3be8c9f12a028`. The freeze records distinct actual reading, inherited authority and metadata-affiliation scopes. No holdout or expanded body was opened to prepare this index.
 
 ## Reproducing a route
@@ -382,3 +384,43 @@ This is the accepted main-only evidence plane of the project’s maintained inde
 Root accepted the bounded locator successor on 2026-10-17T16:47:45.960111Z, following the previously complete predecessor/prose receiving and exact six-operation successor review. That scope comprises 17 native identities, 137 principal member rows, ten historical ledger routes, seven specialists, six R1 model routes, all 43 contracts and six CR007 overlay pins. The earlier producer candidate remains independently recoverable with SHA256 `5b73dc43ec2c18df180604f6e92efc0a77996ff6cbe522b1f900f836b60da676`. This wrapper changes authority/scope metadata and adds this attribution; it does not claim a new seventeen-volume primary read.
 
 The rolling-ledger identities in this main-only plane describe the 3b92 freeze. Later ledger appends do not replace that historical state. The [character-model evidence matrix](KONOSUBA_CHARACTER_MODEL_EVIDENCE_MATRIX.md) supplies accepted main-only claim routes with its own explicit localization limits. Withheld and expanded evidence, actual visual/bonus/afterword inspection and final complete-corpus index acceptance remain separately required.
+
+
+## Phase B: four designated frozen-model validation sources — 2026-10-17T21:53:24.382586+00:00
+
+These 25 admitted principal members were completely read for unchanged-R1 source-local validation. They are not 25 independent opportunities, whole-edition completion or completed Stage C literary analyses. Resolve every contract via the [four-book route overlay](KONOSUBA_WITHHELD_VALIDATION_EVIDENCE_OVERLAY.json), its exact accepted-record path/contract_id and source-member table. YORI original root event cards require the linked current errata/K08 counterexample; original errors are not unqualified current interpretation. MASK current event cards retain external precision. DUST06/DUST07 routes and their context/missingness remain the exact accepted judgments.
+
+| Score label / native source | Unit | Exact member | All-body P bounds | Member SHA256 | Native SHA256 |
+|---|---|---|---|---|---|
+| YORI01 / YORI-01 | C01 | `text/part0010.html` | 1–336 | `d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C02 | `text/part0012.html` | 1–353 | `b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C03 | `text/part0014.html` | 1–367 | `a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C04 | `text/part0016.html` | 1–398 | `63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C05 | `text/part0018.html` | 1–312 | `f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C06 | `text/part0020.html` | 1–302 | `1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C07 | `text/part0022.html` | 1–472 | `114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C08 | `text/part0024.html` | 1–208 | `29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| MASK / MASK | Pro | `text/part0009.html` | 1–45 | `891af7555bad39fd0fb25a1cd215a3f81452bf910ca6734f9b2bcc646f42a409` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | C01 | `text/part0011.html` | 1–481 | `ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | C02 | `text/part0013.html` | 1–518 | `f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | C03 | `text/part0015.html` | 1–587 | `77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | C04 | `text/part0017.html` | 1–648 | `debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | C05 | `text/part0019.html` | 1–556 | `afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | Epi | `text/part0021.html` | 1–27 | `702642bc0b1e8be4d3b45b538e83124f046fedeeab4cd43d771bbe29d323efd6` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| DUST06 / DUST-06 | C01 | `item/xhtml/p-002.xhtml` | 1–640 | `650c8f241a553f41945bb77f0605b830d4c99e92c89121632d2f3d488edacfcb` | `d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1` |
+| DUST06 / DUST-06 | C02 | `item/xhtml/p-003.xhtml` | 1–1033 | `c5c70671020fd39427857d6572b3037e53506fc7e4e1dc29dbdb2d5d57f5b716` | `d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1` |
+| DUST06 / DUST-06 | C03 | `item/xhtml/p-004.xhtml` | 1–597 | `b5af4a189f729eb64a67120258f8b811d76d1d0905468d74fdb85805cd2cc719` | `d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1` |
+| DUST06 / DUST-06 | C04 | `item/xhtml/p-005.xhtml` | 1–640 | `5fa013adda41e8989c0fa71b01618d38b85cddb31f2b7b8be9d8c1f1074e3bb6` | `d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1` |
+| DUST06 / DUST-06 | Epi | `item/xhtml/p-006.xhtml` | 1–67 | `fc476f7ed5a0ab7a7ed57a0f15c41273d00517e5a7025d2b5cf3b4f63a66d37e` | `d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1` |
+| DUST07 / DUST-07 | Pro | `item/xhtml/p-002.xhtml` | 1–51 | `7ea4de340201b002efe97a46f4639b4d588a0d6e0b447634919a21341f41e46a` | `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5` |
+| DUST07 / DUST-07 | C01 | `item/xhtml/p-003.xhtml` | 1–1115 | `c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1` | `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5` |
+| DUST07 / DUST-07 | C02 | `item/xhtml/p-004.xhtml` | 1–890 | `fffa57992203fe201aa2feb701792a5b7168bb29542cf44f34f1dffbba24b8d5` | `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5` |
+| DUST07 / DUST-07 | C03 | `item/xhtml/p-005.xhtml` | 1–677 | `6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a` | `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5` |
+| DUST07 / DUST-07 | Epi | `item/xhtml/p-006.xhtml` | 1–148 | `b44ca1e68568f6e50d74461e956b1d432a296135e95cd93142f6054d85ae923d` | `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5` |
+
+The original source receipts retain actual exposure order, chronology, narrator access, ruby/base conventions, reviewer limits, excluded bodies/images and original authorship-time publication status. Later actual gates are reconciled in the current-state map and run audit; this derived index is neither a new primary reading nor an exact-head publication receipt. All main-only member rows and the original structured matrix remain unchanged. Expanded bonus fiction and all eligible mixed/reference components still need individual routes and dispositions.
+
+
+## Stage C DUST-01 routes — 2026-10-17T22:53:08.846506+00:00
+
+[Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md) §16 maps all nine complete principal members, native one-based P bounds, base/ruby counts and high-consequence scenes. [Edition analysis](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_ANALYSIS.md) identifies DUST-01-BONUS-01 (p-012.xhtml P1–52), afterword, all16 nonprincipal containers and all27 actually viewed images. The [component register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_REGISTER.json) preserves each native member/image hash and unequal authority. These expanded routes are outside frozen main derivation; quoted/depicted main events are not fresh independent occurrences.

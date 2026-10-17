@@ -1369,3 +1369,15 @@ Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23
 | VB-DUST07-HM03 | Dust; familiar observers; Vanir | C03P637–677; EpiP63–148 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Hidden heroic work earns public derision; confession intended as revenge creates a new threat, apology briefly works, malice boast reverses it. Actual private almost-kiss is interrupted, and left-side false Leen exposes a different actor. | Source-first root 107 observations/30 groups and 68 purposive witnesses are not a gag census/J02 denominator. I 117/S 75 segments and 38/40 form records overlap; later coordinated comparison is not independent coding. |
 
 Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — HM
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-HM01 | Narrator self-authorization and neglected conditions | ProP3–42; C02P280–309; C05P511–569 | Literal event/implicature; purposive H/L proposals | Shared prison-night wording invites an intimate inference; apparent gains fail under omitted timing/ownership conditions. The 53 selected records retain mixed/serious comparators, not an exhaustive joke denominator. |
+| EC-DUST01-HM02 | Bonus domestic gag and evidence planes | BONUS-01P13–52 | Observed act vs narrator generalization; HIGH sequence | Comfort seeking, reminder, attempted anti-Eris prank and tea antagonism are causal comic mechanisms. Graffiti attempt interrupted by police is not completed vandalism. No new J02 score, portable share or independent coding claim. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.

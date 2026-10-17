@@ -1,0 +1,1035 @@
+{
+  "schema": "DUST01_SOURCE_FIRST_PURPOSIVE_VOICE_RECORDS_V1",
+  "created_utc": "2026-10-17T22:14:56.325054+00:00",
+  "records": [
+    {
+      "id": "D01-V01",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "Kazuma",
+      "before_context_window": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 3,
+        "p_end": 8,
+        "private_full_window_sha256": "0bcbc8c6c03335f016281eca98582ec33e4cda2b86e04cbf4f50db3e7bb6e378"
+      },
+      "after_context_window": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 9,
+        "p_end": 13,
+        "private_full_window_sha256": "be3e4b30f5cb85bde0c0f7c428fd02a1b541d9d46ada323fb715206ae7c05839"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-002.xhtml",
+        "p": 10,
+        "Japanese_short": "夜を共に過ごした仲",
+        "literal_gloss": "People who spent a night together.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Invokes intimacy to defeat acquaintance-only downgrading; Kazuma specifies prison and objects to the implication.",
+      "adequacy_eligibility_uncertainty": "Shared jail is factual; erotic intimacy is the misleading implicature, not a witnessed relationship.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V02",
+      "speaker": "Aqua",
+      "actual_addressee_or_represented_target": "Dust/Kazuma and nearby listeners",
+      "before_context_window": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 15,
+        "p_end": 28,
+        "private_full_window_sha256": "ebc06bf11a4833a96dccddc6a06cdd12979c427ea17af7279410ba8f9b7c47b4"
+      },
+      "after_context_window": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 35,
+        "p_end": 39,
+        "private_full_window_sha256": "6055b5b90a521e39859a00ca4f009517812e85320d1858b7114a46c69779c4eb"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-002.xhtml",
+        "p": 35,
+        "Japanese_short": "女神にもいろいろ事情",
+        "literal_gloss": "Goddesses also have various circumstances.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Moves from divine title assertion toward an exculpatory account; Kazuma’s mock sympathetic denial then provokes her.",
+      "adequacy_eligibility_uncertainty": "Dust’s delusion account38 is his misattribution; the written scene supplies no audio data.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V03",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "Megumin",
+      "before_context_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 77,
+        "p_end": 90,
+        "private_full_window_sha256": "b4e945375da46059c7e8ef3ae4a59aa617f120c7d76c7e3dfe4d0156463ef244"
+      },
+      "after_context_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 91,
+        "p_end": 108,
+        "private_full_window_sha256": "814627170b05c08b6f31c7e2ae11b1800c14193734f3e5934fa98f8020bd4b04"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 108,
+        "Japanese_short": "なんで敵もいないのに",
+        "literal_gloss": "Why, when there are not even enemies?",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Speech shifts from flattering the inventory to a concrete timing objection and repair demand.",
+      "adequacy_eligibility_uncertainty": "The first environmental concern90 is narration; actual spoken halt is93. No claim that all his later crisis speech becomes calm.",
+      "L_proposal": "L1",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V04",
+      "speaker": "Megumin",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 81,
+        "p_end": 87,
+        "private_full_window_sha256": "c434d31588be6f1a1a613352fb76e23f73044289f559620e6fa64bd79601846e"
+      },
+      "after_context_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 102,
+        "p_end": 109,
+        "private_full_window_sha256": "bf89d5aaf4476e71eb2e5650379eae0f55c69335811873f50ae6bcefe28284af"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 109,
+        "Japanese_short": "これだから素人は困ります",
+        "literal_gloss": "This is why amateurs are troublesome.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Courteous morphology supplies an expert’s condescension after she has depleted herself, redefining practical criticism as lack of aesthetic understanding.",
+      "adequacy_eligibility_uncertainty": "Affect-triggered firing109 is direct speech, not an analyst’s invented motive; no arbitrary uniform register rule.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V05",
+      "speaker": "Aqua",
+      "actual_addressee_or_represented_target": "called-to absent Kazuma; available companions/Dust nearby",
+      "before_context_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 61,
+        "p_end": 63,
+        "private_full_window_sha256": "b7806f9aa47d2fa8b3e9463a7c8d20ae9d511f3ea18898989877179262d20977"
+      },
+      "after_context_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 150,
+        "p_end": 158,
+        "private_full_window_sha256": "802469f8aec60a2d0dea800dd3557b93f04c99d90184d61e8ce7d50ed91f0d83"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 157,
+        "Japanese_short": "カズマさーんっ",
+        "literal_gloss": "Kazuma, extended name call.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Imperatives and punishment threats give way to a specific desperate rescue appeal after an avoidable failed attack.",
+      "adequacy_eligibility_uncertainty": "Single unequal-stakes window; establishes one local change, not a new J01 score or universal first-adoption requirement.",
+      "L_proposal": "L1",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V06",
+      "speaker": "Darkness",
+      "actual_addressee_or_represented_target": "novice-killer, companions as audience",
+      "before_context_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 47,
+        "p_end": 55,
+        "private_full_window_sha256": "202004135e151023c78bc336a6f385f1295da45e203aab1b81e0f57deb697c42"
+      },
+      "after_context_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 137,
+        "p_end": 147,
+        "private_full_window_sha256": "abd943cad2c9dc9d4b317baa29969dcb14a8df4d655422af8a6fc75aecf10258"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 141,
+        "Japanese_short": "獣欲を私にぶつける",
+        "literal_gloss": "Direct your animal desire at me.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Recasts attack into a sexualized coercion script; bodily endurance and erotic appraisal separate from accuracy/coordination.",
+      "adequacy_eligibility_uncertainty": "A fantasy about sexual acts is not a shown sexual assault; the beast’s private terror remains Dust’s hedge.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V07",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "Leen",
+      "before_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 19,
+        "p_end": 25,
+        "private_full_window_sha256": "4b805dc57fefa5fd6b0e95737ba96c78073fa0cb7451ee6310443e2789ea02f4"
+      },
+      "after_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 26,
+        "p_end": 28,
+        "private_full_window_sha256": "695d4b3569ec6562e5a53eaba55cb143eb9a4ed83f4304526592388a308c155c"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 27,
+        "Japanese_short": "人の道を説いて",
+        "literal_gloss": "I was teaching the human/moral way.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Relabels attempted extortion as moral instruction when a familiar corrector confronts him.",
+      "adequacy_eligibility_uncertainty": "The event sequence, not a fixed pronoun, supports self-exoneration.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V08",
+      "speaker": "shopkeeper",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 12,
+        "p_end": 17,
+        "private_full_window_sha256": "9fe865d9c585c68e955d27428d878a492ea644c02fc8767206c461106d64f124"
+      },
+      "after_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 18,
+        "p_end": 22,
+        "private_full_window_sha256": "3880816e099087b2a014867d6d52b32f219d8e3d0bc359eb7ab0e730414b5a9d"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 18,
+        "Japanese_short": "念を押したのに",
+        "literal_gloss": "Even though I emphasized it.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Returns the exchange to a known defect warning and unpaid costs, resisting the compensation story.",
+      "adequacy_eligibility_uncertainty": "Dust disputes the notice publicly; the report of the initial sale remains the merchant’s statement.",
+      "L_proposal": "L1",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V09",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "Mitsurugi and onlookers",
+      "before_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 96,
+        "p_end": 108,
+        "private_full_window_sha256": "1a912a96f1033aee27fd1c8f4bda57040ce3cf237ca7c1941b60c02f0d58ee2e"
+      },
+      "after_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 130,
+        "p_end": 135,
+        "private_full_window_sha256": "3088d65a25890a9e71ebd2463b4cc03f2cfe6745e517fa7dddf0585c489186bb"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 134,
+        "Japanese_short": "今日のところは見逃して",
+        "literal_gloss": "I will let you off for today.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "A retreat after recognizing Mitsurugi’s considerable ability and his own present drunken disadvantage is performed as discretionary mercy; P135 also supplies the threatened loss of Leen’s future credit as a self-protective reason.",
+      "adequacy_eligibility_uncertainty": "No global inability to remember: he has just recalled the earlier defeat.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V10",
+      "speaker": "Mitsurugi",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 109,
+        "p_end": 117,
+        "private_full_window_sha256": "1311c7ed185912797673a2c560e5610750bac028959e58ad34521d722ce30b3c"
+      },
+      "after_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 118,
+        "p_end": 125,
+        "private_full_window_sha256": "34d039f37b2d4f8254c38e464e672c017adead2122a8884e0975babfd9537ce1"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 118,
+        "Japanese_short": "僕は御剣響夜",
+        "literal_gloss": "I am Mitsurugi Kyouya.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Reopens proper introductions after rejecting a false local custom; formality and actual protective intervention coexist.",
+      "adequacy_eligibility_uncertainty": "Raw ruby specifies 御剣響夜=み/つるぎ/きよう/や in this source (large よ retained); the working romanization is Kyouya. No personality rank from 僕 alone.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V11",
+      "speaker": "unnamed Axis priest",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 200,
+        "p_end": 208,
+        "private_full_window_sha256": "8f5babc6a5a2a46f870c547ccce43e1772b0d4acbcdca1e03c01105e38809299"
+      },
+      "after_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 210,
+        "p_end": 220,
+        "private_full_window_sha256": "e25232b66a5f7279f342528194c3827faff04f0308210c2050934fca32954d00"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 210,
+        "Japanese_short": "サインをいただけますか",
+        "literal_gloss": "May I receive your signature?",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Uses a transaction’s polite receipt script to disguise a religious enrollment form.",
+      "adequacy_eligibility_uncertainty": "No completed signature or conversion; this source has not named her, so main-series familiarity does not certify Cecily.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V12",
+      "speaker": "Leen",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 239,
+        "p_end": 250,
+        "private_full_window_sha256": "249f02148eaff2e88da878fb451d6dc0d8866f270c6dae35eb57c2360c75aa84"
+      },
+      "after_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 318,
+        "p_end": 321,
+        "private_full_window_sha256": "3b5e6dc372f9a09d85cb0a153ee74864058bd520eb4fc025d6620b2d22affd50"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 320,
+        "Japanese_short": "二日経って",
+        "literal_gloss": "After two days pass.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Sets a testable lending/repayment boundary: she will accept the money only if the apparently dubious gain survives without arrest.",
+      "adequacy_eligibility_uncertainty": "Conditional acceptance differs from permanent refusal, and it is not evidence she controls police outcomes.",
+      "L_proposal": "L1",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V13",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "Leen",
+      "before_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 457,
+        "p_end": 460,
+        "private_full_window_sha256": "2af74ea7bb98d1f2c3e08bcd7facdb4ee632b7aef7376f9a880a5d06ea75fa25"
+      },
+      "after_context_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 461,
+        "p_end": 465,
+        "private_full_window_sha256": "ce9516c8f9d7eebd115745fae6d95512557c96ed2b2a9a0e4e7f0e4d24cea78b"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 461,
+        "Japanese_short": "トマトやるよ",
+        "literal_gloss": "I will give you the tomato.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "A short unadorned offer replaces elaborate money talk after private appraisal of retained resale value.",
+      "adequacy_eligibility_uncertainty": "The price/smile interpretation465 is narration; Leen does not hear that entire calculation.",
+      "L_proposal": "L1",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V14",
+      "speaker": "little girl",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 89,
+        "p_end": 104,
+        "private_full_window_sha256": "21ce3b70facb96280d206f7b73e060dad05e8bee177bf921504e78ab44786f17"
+      },
+      "after_context_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 401,
+        "p_end": 410,
+        "private_full_window_sha256": "981bfd03b457a6a01700c8168175770415902a83dbb3e2b728b0d4d1c95504fa"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 405,
+        "Japanese_short": "イケメンのお兄ちゃん",
+        "literal_gloss": "Handsome older brother/young man.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Her address finally grants the flattering status he demanded earlier, following the delivered present.",
+      "adequacy_eligibility_uncertainty": "A recurrence comparison across two windows, not equal-length paired speech trials; the recovery motive remains partly disputed.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V15",
+      "speaker": "small succubus",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 191,
+        "p_end": 196,
+        "private_full_window_sha256": "9391e60529ea318f967bf10c3fb5430c2c65f00101ad15124ee2049cb87746e5"
+      },
+      "after_context_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 197,
+        "p_end": 203,
+        "private_full_window_sha256": "ddd09097d80c300defd8b748aa90f4040a4046ce4aeb0198a503dc668ffe86b0"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 197,
+        "Japanese_short": "童貞の幻想",
+        "literal_gloss": "An inexperienced man’s fantasy.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Explicitly rejects the projected romantic meaning of his headpat while maintaining polite customer-facing grammar.",
+      "adequacy_eligibility_uncertainty": "Her reaction is a counterexample to his technique, not a claim about every woman or her human age.",
+      "L_proposal": "L1",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V16",
+      "speaker": "small succubus",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 339,
+        "p_end": 343,
+        "private_full_window_sha256": "82f51d7a9ceac0dd27b2a800dc180a975c6cd91c453fd98fd6ea551f7314f651"
+      },
+      "after_context_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 345,
+        "p_end": 355,
+        "private_full_window_sha256": "9357193b791c719777a63f70c922690504bee564b79f28527f131693569fdf89"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 355,
+        "Japanese_short": "一回だけですよ",
+        "literal_gloss": "Only once.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "After setting a credible shop-access veto, she permits one request when professional praise/feigned apology targets esteem.",
+      "adequacy_eligibility_uncertainty": "The source identifies Dust’s apology as acting346; her conditional agreement retains agency and does not establish unlimited pliability.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V17",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "small succubus",
+      "before_context_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 337,
+        "p_end": 341,
+        "private_full_window_sha256": "13adbaddfcec61396acf4de1549b8c4fe10bd70dee7267b20c337dac261434f4"
+      },
+      "after_context_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 342,
+        "p_end": 346,
+        "private_full_window_sha256": "5238f07405f6373da897fc752df1aa3d0febe4acb1606e5212c7c013a2357c58"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 342,
+        "Japanese_short": "掃除手伝ってやろうか",
+        "literal_gloss": "Shall I help you clean?",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "In the same turn as defying her threat, he abruptly offers useful help because losing shop access is intolerable.",
+      "adequacy_eligibility_uncertainty": "Actual self-inhibition is source-supported343; no need to call it genuine remorse.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V18",
+      "speaker": "Yunyun",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 77,
+        "p_end": 85,
+        "private_full_window_sha256": "4c2aac221db8af76ec077d841ecd642c23d03bdcf2cfe471048967c4ac685ca2"
+      },
+      "after_context_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 89,
+        "p_end": 106,
+        "private_full_window_sha256": "13d21831b95e767997aa6a20d3f47c865949240ba6e456f6a638008521af93f1"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 89,
+        "Japanese_short": "犯罪の片棒",
+        "literal_gloss": "A role in a crime.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Her polite deference coexists with a pointed suspicion about an unusual generous offer; frankness does not require abandoning です/ます.",
+      "adequacy_eligibility_uncertainty": "Fear of imposed costs and need for friends coexist. No fixed meekness label.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V19",
+      "speaker": "Chris",
+      "actual_addressee_or_represented_target": "Darkness",
+      "before_context_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 131,
+        "p_end": 144,
+        "private_full_window_sha256": "9add5c1fd0048596a794ac9373570cd676851b1dc2837f6047046d6254f11e98"
+      },
+      "after_context_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 145,
+        "p_end": 155,
+        "private_full_window_sha256": "acd0837cb0f94eb569739d6240786cd98fc4773da9f22e24d42716f618278f31"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 150,
+        "Japanese_short": "それ以上、言わせないよ",
+        "literal_gloss": "I will not let you say more.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Interrupts the erotic scenario while exploiting the enemies’ distraction for an actual attack.",
+      "adequacy_eligibility_uncertainty": "Already-active task stance and management of an ally coexist; do not treat all interruption as a new seriousness conversion.",
+      "L_proposal": "L1",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V20",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "Vanir",
+      "before_context_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 224,
+        "p_end": 228,
+        "private_full_window_sha256": "c3df0808f590b2db417fcfc7e512ee4bc005b5adc0f5cfc58f598961391a0c8e"
+      },
+      "after_context_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 235,
+        "p_end": 240,
+        "private_full_window_sha256": "59cac630b2f97a3441379a8cf49e09580b8e3417c4cde14dd112898611f4bd16"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 239,
+        "Japanese_short": "お褒めにあずかり光栄",
+        "literal_gloss": "Honored to receive your praise.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Ritual deference toward a powerful familiar sharply contrasts with dismissive treatment of Yunyun in the same meeting.",
+      "adequacy_eligibility_uncertainty": "Speech remains mixed/rough around the formula; one polite fragment is not a uniformly formal personality.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V21",
+      "speaker": "waitress",
+      "actual_addressee_or_represented_target": "Dust, Vanir and Yunyun",
+      "before_context_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 298,
+        "p_end": 301,
+        "private_full_window_sha256": "8c50fab4f0af133f6e11834451d28ccb94e6b10ff05caa7f4d4dbf05fcd6f047"
+      },
+      "after_context_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 302,
+        "p_end": 305,
+        "private_full_window_sha256": "e5cef2a371cda03d9a923aac982405dc1307ad33cca5dda05ed19a5634c34b84"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 305,
+        "Japanese_short": "お帰りください",
+        "literal_gloss": "Please go home/leave.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "A polite-form imperative terminates service after the customers reject the café’s actual order/payment relationship.",
+      "adequacy_eligibility_uncertainty": "Yunyun tries to order301; attach the refusal context to Dust/Vanir’s replies, not to a nonexistent waiter’s fault.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V22",
+      "speaker": "Yunyun",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 544,
+        "p_end": 550,
+        "private_full_window_sha256": "25ae0389b79cb64201dc205e90e15091ab941edfc1d66af406275b89a932b253"
+      },
+      "after_context_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 554,
+        "p_end": 559,
+        "private_full_window_sha256": "e69c12b6172bc8479768cc276b8b584cdf0fb2bb40f837d09bd92b0cbefd8cf4"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 556,
+        "Japanese_short": "次がありますよ",
+        "literal_gloss": "There will be a next time.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Consolation presupposes the unsuccessful confession she herself made for him, worsening his public embarrassment.",
+      "adequacy_eligibility_uncertainty": "No actual Dust confession or agreed romance is shown.",
+      "L_proposal": "L1",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V23",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "Sena",
+      "before_context_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 149,
+        "p_end": 155,
+        "private_full_window_sha256": "fa074f999447984836d63883e4ecf83c57e6e34ee3c0c6e955580d826a4935de"
+      },
+      "after_context_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 156,
+        "p_end": 163,
+        "private_full_window_sha256": "376f5dee6baea6c8b0b5371f4194e7930f3042c59c52e808b269d1ecdab823a2"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 156,
+        "Japanese_short": "謝罪する、許してくれ",
+        "literal_gloss": "I apologize; forgive me.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Actual threat changes his communicative tactic from insult to apology and flattering a shared vulnerability.",
+      "adequacy_eligibility_uncertainty": "The manipulation’s source is explicitly a technique book157; surface apology does not prove remorse.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V24",
+      "speaker": "Sena",
+      "actual_addressee_or_represented_target": "Dust and helmet customer",
+      "before_context_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 254,
+        "p_end": 261,
+        "private_full_window_sha256": "0fb1aab7aa49dbf5ab7ae8e4636c6eb035b64e37a133e5a3520c2d85c1d17d25"
+      },
+      "after_context_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 266,
+        "p_end": 269,
+        "private_full_window_sha256": "c1c8ac76930458da8f11bced925ef9faf32fedb98929a8d2d8a8eb904bd29d3a"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 266,
+        "Japanese_short": "決して、自分が直接見たい",
+        "literal_gloss": "Certainly not that I personally want to see it.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "A purported proof request carries an explicitly denied voyeuristic/private-interest implication; performance and evidentiary concern coexist.",
+      "adequacy_eligibility_uncertainty": "The denial is not an objective confession; reader cues175/181/304 and her reaction support the rival motive.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V25",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "Sena",
+      "before_context_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 307,
+        "p_end": 313,
+        "private_full_window_sha256": "bfbf687f3ff0b05060d694a0bf1135fabd65e02c3ba22c091b0510bb522efa79"
+      },
+      "after_context_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 314,
+        "p_end": 321,
+        "private_full_window_sha256": "1c8d41296fc93493ca6ea0f9ee28860d860892d789e6396a9b306f6057074114"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 319,
+        "Japanese_short": "誠意を見せるべき",
+        "literal_gloss": "You should show sincerity.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Indirect compensation/extortion language leaves the demanded item unsaid; the narrator explains deniability as the intention320.",
+      "adequacy_eligibility_uncertainty": "Before window is inward restraint, not a matched spoken baseline. Lower legal liability is his belief.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V26",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "Sena as prosecutor",
+      "before_context_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 511,
+        "p_end": 520,
+        "private_full_window_sha256": "fc6c7914cc8fcd5b7e16ce2db9443a5dd686c8466cc0ff94ed2b06f604fc0ce6"
+      },
+      "after_context_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 521,
+        "p_end": 524,
+        "private_full_window_sha256": "427db36dce035aff8eff5b25af88547ef2c7ea4e21fc58b15a496d602403df55"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 521,
+        "Japanese_short": "すんませんでした",
+        "literal_gloss": "I am sorry, clipped colloquial apology.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "The grand opening becomes immediate apologetic submission with a physical bow once his cover has no credible answer.",
+      "adequacy_eligibility_uncertainty": "Do not infer that apology repairs the underlying deception; subsequent disclosure is demanded.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V27",
+      "speaker": "small succubus",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 549,
+        "p_end": 552,
+        "private_full_window_sha256": "72cef0d64a87368386bfabd3e4d542de27be2723511317dfdf836c3903718603"
+      },
+      "after_context_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 565,
+        "p_end": 569,
+        "private_full_window_sha256": "82956751a0ebfcf462a9093d9946803c3c159bd19009c1738376fd182ed34f56"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 568,
+        "Japanese_short": "できないものは、しょうがない",
+        "literal_gloss": "What cannot be done cannot be helped.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Presents a today-starting reward window as immutable once detention prevents service; courteous service gives way to contract-bound refusal.",
+      "adequacy_eligibility_uncertainty": "Magical contract rules are stated in-world; no claim every adverse term was designed from the outset.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V28",
+      "speaker": "helmet admirer narrator/private exclamation",
+      "actual_addressee_or_represented_target": "himself/imagined Dust, reader",
+      "before_context_window": {
+        "unit": "I01",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 3,
+        "p_end": 18,
+        "private_full_window_sha256": "ca9ed4c53ab2cdfe5b05616892860b8367616cf65598fb3caf3c44649da73700"
+      },
+      "after_context_window": {
+        "unit": "I01",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 43,
+        "p_end": 49,
+        "private_full_window_sha256": "5a96d83c275fdce8fbbb0b2347ff8551dfaf4c526372e0f20aa0c8f788676203"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-008.xhtml",
+        "p": 48,
+        "Japanese_short": "僕はダストさんに包まれて",
+        "literal_gloss": "I am enveloped by Dust.",
+        "layer": "alternate_narrator_private_exclamation"
+      },
+      "pragmatic_function_and_comparison": "Possessive object devotion transforms polite honorific address into private hyperbole; no actual merger with the person occurs.",
+      "adequacy_eligibility_uncertainty": "Alternate narrator/inner/private speech; no comparison with a measured public acoustic register.",
+      "L_proposal": "L1",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V29",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "small succubus",
+      "before_context_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 194,
+        "p_end": 206,
+        "private_full_window_sha256": "fdeac9cdf173b1702a1335958f70af59e93c8efc7fae5b01e0edfa3a895b3d19"
+      },
+      "after_context_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 207,
+        "p_end": 215,
+        "private_full_window_sha256": "0b237f2a01843ce91e30d21276e6a79f2829a7d30a73a20b45cf8f74482ee74b"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 208,
+        "Japanese_short": "誰が忙しいなんて",
+        "literal_gloss": "Who said I was busy?",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Disowns his immediately preceding urgency when a coveted party is offered, before learning the credible threat to companions.",
+      "adequacy_eligibility_uncertainty": "Cross-layer inward-versus-spoken comparison, not a formal J01 baseline; he currently appraises companions as safe211.",
+      "L_proposal": "L1",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V30",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "Luna",
+      "before_context_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 315,
+        "p_end": 320,
+        "private_full_window_sha256": "7c5306fd0224aa89f50b5f90f31fa5cbe0f78cc1fff950383f6119792440f8e2"
+      },
+      "after_context_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 321,
+        "p_end": 338,
+        "private_full_window_sha256": "477a6e607f759a46923c8f67567cfd6ec5cb9e4637397812a0b2720e54a9f39f"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 321,
+        "Japanese_short": "非常事態なんだ、頼む",
+        "literal_gloss": "It is an emergency; please.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Concrete information need creates repeated pleading, physical supplication and fuller disclosure327 rather than an attempt to preserve reputation at all costs.",
+      "adequacy_eligibility_uncertainty": "Luna first needs a reason and maintains confidentiality; bow323 alone does not force cooperation.",
+      "L_proposal": "L1",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V31",
+      "speaker": "Dust",
+      "actual_addressee_or_represented_target": "adult criminal pursuers",
+      "before_context_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 617,
+        "p_end": 628,
+        "private_full_window_sha256": "6199540c272cb79fe0f775b42c0fbaf223f286e4b9543a969b70a39df9c248fc"
+      },
+      "after_context_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 633,
+        "p_end": 636,
+        "private_full_window_sha256": "17eb9bbc72e86c2bb3a7edc3390e8e7e3a0899af4e0536c6625f2c98d2f560dc"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 626,
+        "Japanese_short": "あんよが上手",
+        "literal_gloss": "Your little steps are good.",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Infantilizing mockery provokes anger, while a nearby task-specific request634 coordinates the next stage of the trap.",
+      "adequacy_eligibility_uncertainty": "The target form is in the before subwindow; retain mixed mockery/coordination rather than inventing a uniform serious register.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V32",
+      "speaker": "Dust’s represented inward address",
+      "actual_addressee_or_represented_target": "remembered absent person resembling Leen",
+      "before_context_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 775,
+        "p_end": 783,
+        "private_full_window_sha256": "c6ccd56bf5fec0c7014c65738d3ae8b585fff0d6a2388028330f431836f679d8"
+      },
+      "after_context_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 784,
+        "p_end": 794,
+        "private_full_window_sha256": "69b12f94048954a4ff163fa5734857cbcd954ce589484d666e8f3cb96824201f"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 784,
+        "Japanese_short": "槍を使わせてもらいます",
+        "literal_gloss": "I will take permission to use the spear.",
+        "layer": "represented_inner_address"
+      },
+      "pragmatic_function_and_comparison": "A courteous permission formulation and honorific recollection contrast with his habitual rough spoken persona, linking a chosen restraint to particular protection.",
+      "adequacy_eligibility_uncertainty": "Layer differs from ordinary dialogue; exact past promise, remembered person’s identity and audibility remain unestablished.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    },
+    {
+      "id": "D01-V33",
+      "speaker": "Leen",
+      "actual_addressee_or_represented_target": "Dust",
+      "before_context_window": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 62,
+        "p_end": 71,
+        "private_full_window_sha256": "b8f601564215351d04c7e4d2de45c43e81e96d199744a622116e48370713b669"
+      },
+      "after_context_window": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 72,
+        "p_end": 77,
+        "private_full_window_sha256": "5a969bd68a9fbf44c75fd25e881599b3c822e17f7311ef6333d819f67ac70a33"
+      },
+      "material_form": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 76,
+        "Japanese_short": "さーて、どうでしょう",
+        "literal_gloss": "Well, who knows?",
+        "layer": "spoken_dialogue"
+      },
+      "pragmatic_function_and_comparison": "Private praise followed by an evasive answer preserves teasing control over what she witnessed and what she is willing to disclose.",
+      "adequacy_eligibility_uncertainty": "The narration represents a whisper73; this is not recorded acoustic evidence. Spear-duel witnessing/reciprocal romance are not explicitly confirmed.",
+      "L_proposal": "L2",
+      "role_and_state_method": "Role/function derived from actual scene actions; comparison is descriptive, with unequal/adjacent/inner/alternate-narrator cases retained.",
+      "formal_J01_or_new_score": "NOT_ASSIGNED; Stage C source-first purposive voice record, not an additional fixed main-only test."
+    }
+  ],
+  "selected_records": 33,
+  "all_eligible_voice_event_denominator": "UNKNOWN_NOT_ENUMERATED",
+  "not_acoustic_or_human_review": true,
+  "short_form_selection_timing": "After the complete principal read and sealed uncoded ordered notes, before substantive peer exchange.",
+  "window_limits": "Original private full paragraph/XML/ruby projections retained separately. Source-safe records give bounds/hashes and short material forms; no long source quotations.",
+  "generation_scope": "Describe this supplemental principal source. Do not alter main-only frozen models/predictions or calculate new Stage C validation accuracy."
+}
