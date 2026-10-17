@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
 source_boundary: "Bootstrap metadata and architecture only; zero V2 narrative units admitted or read"
@@ -49,8 +49,8 @@ repository_state:
   stable_branch: series/shuukura
   routing_input: series/shuukura/.repository/series-registry.json
   materialization_status: PRESENT_UNREVIEWED
-  main_integration: NOT_AUTHORIZED_PENDING_OWNER_REVIEW
-  integration_hold_required: DRAFT_PR_OR_NIGHTLY_HOLD
+  main_integration: OWNER_AUTHORIZED_PROTECTED_PR_192
+  integration_hold_required: EXACT_HEAD_AUDIT_AND_PROTECTED_MERGE
 ---
 
 # Shuukura V2 — current state and corpus map
@@ -61,7 +61,7 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 
 `NEXT_PERMITTED_OPERATION = OWNER_BOOTSTRAP_REVIEW`
 
-No sequential run is active. Zero narrative units are admitted, zero V2 readings completed, and no character model constructed or tested. Validation, branch publication, routing maintenance and PR creation cannot themselves approve the bootstrap or authorize reading. The owner has authorized the narrow coordinated routing-control transition; its scope and publication record belong to the [bootstrap receipt](08%20Audits%20and%20Handoffs/SHUUKURA_BOOTSTRAP_RECEIPT.md). Review of the bootstrap itself remains pending.
+This bootstrap snapshot has no active sequential run: zero narrative units are admitted, zero V2 readings completed, and no character model constructed or tested. Validation, branch publication, routing maintenance and PR creation cannot themselves approve the bootstrap or authorize reading. The owner authorized the narrow coordinated routing-control transition and subsequently instructed that PR #192 be merged. Protected-main integration is authorized; the draft integration hold is lifted. The [bootstrap receipt](08%20Audits%20and%20Handoffs/SHUUKURA_BOOTSTRAP_RECEIPT.md) records both decisions. The owner reports that sequential analysis is starting separately; that execution session must record its bootstrap acceptance, source admission and run state in its own governed transaction. This integration update does not infer or overwrite that state.
 
 ## Current boundaries
 
@@ -102,8 +102,8 @@ The routing input is [`.repository/series-registry.json`](.repository/series-reg
 
 For resumption, fetch live authority/governance and the stable branch, reconcile with current main, then read these canonical files and the last accepted unit/freeze when one exists. Never reconstruct source coverage or next operation from conversational memory. Continuous execution is designed but not activated. Future run metadata must obey the live validator's exact lock/run-state consistency fields.
 
-To open the lock: the owner must review and accept the complete bootstrap; unresolved admission blockers must be resolved for the chosen sources; an exact inventory/locator freeze and capability plan must be durable; and a separate owner instruction must authorize the selected lane, start, terminal boundary and execution mode. Only that authorized admission transaction may set `project_initialization.sequential_analysis_lock: OPEN` and a consistent active `sequential_execution` block with matching next operations and explicit bounds. A published draft PR or integration hold remains required while owner review is pending. No merge to protected main is authorized here.
+To open the lock: the owner must review and accept the complete bootstrap; unresolved admission blockers must be resolved for the chosen sources; an exact inventory/locator freeze and capability plan must be durable; and a separate owner instruction must authorize the selected lane, start, terminal boundary and execution mode. Only that authorized admission transaction may set `project_initialization.sequential_analysis_lock: OPEN` and a consistent active `sequential_execution` block with matching next operations and explicit bounds. The owner's subsequent instruction authorizes protected-main integration of PR #192 subject to its exact-head audit and repository controls. The remaining analytical admission requirements do not reinstate the superseded draft integration hold.
 
 The live [initiation policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md), [archive authority policy](../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md), [branch lifecycle](../../governance/policies/BRANCH_LIFECYCLE.md), [housekeeping policy](../../governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md) and [character curation policy](../../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md) govern execution and publication.
 
-Revision 0.1: independent V2 bootstrap; no substantive sequential findings.
+Revision 0.1: independent V2 bootstrap; no substantive sequential findings. Revision 0.2: record the subsequent owner authorization for protected-main integration separately from analytical admission; no source or analytical findings changed.
