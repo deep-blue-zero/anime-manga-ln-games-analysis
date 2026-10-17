@@ -352,7 +352,10 @@ def markdown_destinations(text: str) -> list[str]:
             if text[j] == "[": depth += 1
             elif text[j] == "]": depth -= 1
             j += 1
-        if depth: break
+        if depth:
+            # An unmatched opener is literal text; later links still count.
+            i = begin
+            continue
         label = text[begin:j-1]
         if j < n and text[j] == "(":
             parsed = destination(text, j + 1, True)
@@ -391,6 +394,43 @@ def check_relative_links(members: dict[str, bytes]) -> dict:
     return {"relative_file_or_directory_links_checked": count, "external_links_not_fetched": external,
             "fragment_only_links_not_anchor_validated": fragments, "result": "PASS",
             "scope": "Markdown inline/image/defined-reference destinations; file existence only; no HTML href or heading-anchor claim"}
+
+
+def markdown_link_regression() -> dict:
+    """Check scanner recovery and actual missing-member rejection in memory."""
+    prefixes = ("", "[unmatched ", "[unmatched\n", "[first [second\n")
+    cases = [
+        ("[normal](valid.md)", ["valid.md"]),
+        ("[one](valid.md) [two](other.md)", ["valid.md", "other.md"]),
+        ("[outer [nested] label](valid.md)", ["valid.md"]),
+        (r"[escaped \[brackets\] label](valid.md)", ["valid.md"]),
+        (r"\[literal\] [normal](valid.md)", ["valid.md"]),
+        (r"\[literal](missing.md) [normal](valid.md)", ["valid.md"]),
+        (r"[escaped closer \] label](valid.md)", ["valid.md"]),
+        ("![image](valid.md)", ["valid.md"]),
+    ]
+    for prefix in prefixes:
+        for target in ("missing.md", "valid.md"):
+            cases.append((prefix + f"[link]({target})", [target]))
+    for text, expected in cases:
+        require(markdown_destinations(text) == expected,
+                f"Markdown destination regression: {text!r}; expected {expected!r}")
+    for prefix in prefixes:
+        for target in ("missing.md", "valid.md"):
+            members = {PREFIX + "/start.md": (prefix + f"[link]({target})").encode("utf-8"),
+                       PREFIX + "/valid.md": b"# Valid fixture member\n"}
+            try:
+                result = check_relative_links(members)
+            except ValueError as exc:
+                require(target == "missing.md" and "Unresolved archive-relative Markdown links:" in str(exc)
+                        and '"target": "missing.md"' in str(exc),
+                        f"Unexpected Markdown link rejection: {exc}")
+            else:
+                require(target == "valid.md" and result["result"] == "PASS"
+                        and result["relative_file_or_directory_links_checked"] == 1,
+                        f"Missing or uncounted Markdown link: {prefix!r} {target}")
+    return {"destination_cases": len(cases), "member_validation_cases": len(prefixes) * 2,
+            "unmatched_openers_missing_and_valid_links": "PASS", "result": "PASS"}
 
 
 def add_generated(members: dict[str, bytes], inventory: list[dict], tree: str, commit: str,
@@ -483,7 +523,7 @@ def verify_archive(source: io.BytesIO | Path, expected: dict[str, bytes], invent
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--self-test", action="store_true", help="Run isolated Git replacement-ref regression; no packaging inputs required.")
+    parser.add_argument("--self-test", action="store_true", help="Run isolated Git replacement-ref and Markdown-link regressions; no packaging inputs required.")
     parser.add_argument("--repo", type=Path)
     parser.add_argument("--commit")
     parser.add_argument("--output", type=Path)
@@ -491,7 +531,7 @@ def main() -> None:
     args = parser.parse_args()
     if args.self_test:
         require(not any((args.repo, args.commit, args.output, args.receipt)), "--self-test takes no packaging inputs.")
-        print(json.dumps(replacement_ref_regression(), indent=2))
+        print(json.dumps({**replacement_ref_regression(), "markdown_links": markdown_link_regression()}, indent=2))
         return
     if any(value is None for value in (args.repo, args.commit, args.output, args.receipt)):
         parser.error("packaging requires --repo, --commit, --output and --receipt")
