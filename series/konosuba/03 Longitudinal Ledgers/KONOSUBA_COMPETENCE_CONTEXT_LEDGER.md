@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V13
+scope: V01-V14
 ledger_role: competence_context
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V13 main narrative
+source_boundary: Japanese main-series light novels through V14 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Competence-in-Context Ledger — Through V13
+# KONOSUBA Competence-in-Context Ledger — Through V14
 
 ## Governing rule
 
@@ -660,3 +660,31 @@ V13 makes the distinction between capacity and endorsed use especially visible. 
 External judgments need the same decomposition. Duke's strategic admiration of Kazuma is based on a false reconstruction of their meetings. The observers' admiration of Aqua's supposed seduction mistakes the cause of a genuine social success. Vanir's accurate prophecy serves a goal different from the listeners' assumed goal. These are not independent demonstrations of the competence the compliment names.
 
 Wiz supplies the clearest change of deployment context: embarrassment, poor retail decisions and romantic credulity coexist with sustained magical control and a concrete protective response to the reported danger to Axel. Her claim about why she fought and the chronology of the threat constrain the narrator's and Aqua's interpretations. No generalized “anger makes her competent” rule follows: the specific target, available spells, interlocutor and goal matter. These observations add to the accepted V12 baseline; they do not revise any frozen forecast or infer later outcomes.
+
+
+# V14 Update
+
+Source: admitted principal MAIN-14 only, all-body native paragraph locators. This append preserves all earlier ledger text and protected Gen04 originals. See V14 reading for full source identity, coverage, comparative provenance and qualifications.
+
+## Capacity, task fit and recovery
+
+| ID / actor | Demonstrated component | Limits and native source |
+|---|---|---|
+| CC-V14-01 Kazuma | Rule/tool search, running precision shot, combined blinding and concealment. | C4P0155–0199. Alcohol increases exposure as well as confidence; genuine execution does not validate the whole expedition. |
+| CC-V14-02 Kazuma | Water/cold interaction, dirt feint, cloak screen and Bind trap Fenrir. | C4P0227–0251. Ice-sword finishing fails P0278; claiming victory does not kill or secure the target. |
+| CC-V14-03 Kazuma | Detects and exploits racial/property targeting restrictions, obtains a robot component through protected Steal. | C4P0407–0463. Underwear guard is bypassed by physical strikes; wire already spent; Megumin initiates the effective shield. |
+| CC-V14-04 Kazuma | Selects an autonomous defensive artifact for an overnight problem; common-name skepticism and biological question expose false inferences/products. | C3P0367–0370;Ep P0042–0046,0109–0114. Artifact choice misses spell suppression; biological terms remain his imperfect wording. |
+| CC-V14-05 Aqua | Water production, fire extinguishing, child-directed origami, actual food-producing art and self-healing. | C1P0114,0307–0309;C2P0110;FP0228–0238,0368. No repeated post-recognition craft series; origin of mushroom effect unshown. |
+| CC-V14-06 Aqua | Accurately finds no demonic magic in a fake ritual and reports scheduled purification. | C1P0201;FP0140. Her self-report is not independent proof of every maintenance visit; accurate detection does not make the fabricated task real. |
+| CC-V14-07 Aqua | Engaged TurnUndead visibly fails against the cemetery group despite normal expectations. | FP0181–0204. Unusual red eyes/no attraction and uncertain target category are source facts; mechanism remains unknown. Later self-heal does not erase failure. |
+| CC-V14-08 Megumin | Unchanted initial forest shot passing between trees (Kazuma tentatively attributes precise control), knowledge of the robot’s threat, actual racial-immunity shield and terminal cast. | C2P0133–0174;C4P0432–0484. Initial blast displaces Yunyun; anticipated grave injury unknown. Carry is planned P0355 then threatened by injury P0464. |
+| CC-V14-09 Megumin | Social prediction, false-confession planning, domestic care and consistent ordinary use of her specialty. | C2P0435–0466;C4P0088–0094,0503–0663. Information control and personal barbs impose costs; no omniscient friendship diagnosis. |
+| CC-V14-10 Darkness | High resistance defeats observed Sleep/Paralyze, physical interposition, endurance and companion dignity defense. | C2P0254–0266;C3P0158–0161;FP0169–0176. Ultimate incapacitation is reported C2P0468; neither permanent immunity nor known winning spell follows. |
+| CC-V14-11 Darkness | Administrative/rule interpretation and identification of defensive mismatch. | C3P0375,0394–0400. Rotation loophole is proposed, not certified legal; shameless rule-lawyering can be prosocial without being correct. |
+| CC-V14-12 Yunyun | Rapid high-level attacks, scouting and reserve preparation; intermediate magic conserves mana through the final night. | C2P0094–0121;C4P0008–0012. The latter is a report. Wearing Aigis blocks spells I13P0061; skill capacity differs from deployed access. |
+| CC-V14-13 Aigis | Extreme material defense, autonomous action and magic resistance. | C1P0407;C3P0368–0370;C4P0066–0074. No offensive capacity; outward spell blocking and harassment constrain safe fit. |
+| CC-V14-14 Yuiyui | Sleep/Paralyze use, social manipulation, planned/reported material-gathering and persistent matchmaking. | C2P0215,0248–0268;C4P0027–0032. The final victory over Darkness is reported, not directly staged; do not invent means. |
+| CC-V14-15 Serena/Seresdina | Public support service, healing attempts and apparent cemetery-wide success. | FP0096–0102,0206–0215,0343–0351. Opposed recipient healing fails; concealed identity does not by itself prove all magic counterfeit or the cemetery cause. |
+| CC-V14-16 Wiz/Vanir | Recognition of colleague; information advantage and manipulative commerce. | Ep P0052–0083,0087–0126. Recognition need not be intentional counterstrategy; Vanir’s accurate wallet leverage is not moral care. |
+
+The survival trial provides a bounded organization contrast: an initial armored casting failure I13P0058–0062 becomes alternating exposed attack and protected recovery C4P0008–0012. Kazuma’s initial selection is useful but incomplete; the partners’ local adjustment completes the task without his continuing instructions. This supports fitted deployment and bounded provider substitution, while actual full alternative-provider/comparative scope must remain attached to the final-night problem. It does not establish that any expert institution can substitute for every party task.

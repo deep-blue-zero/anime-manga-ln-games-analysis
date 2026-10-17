@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V13
+scope: V01-V14
 ledger_role: seriousness_override
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V13 main narrative
+source_boundary: Japanese main-series light novels through V14 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Seriousness Override Ledger — Through V13
+# KONOSUBA Seriousness Override Ledger — Through V14
 
 ## Purpose
 
@@ -491,3 +491,37 @@ The Gen03 sufficient noticed-actual-tears forecast remains formally falsified an
 | EpP0004–0015,0029–0031 | Wiz actually weeps; consolation briefly works, Vanir's age correction restarts it and their later management confrontation elicits more crying. | Actual comfort and continued ridicule coexist. Kazuma's relief at familiar normality does not certify that the distressed woman is unaffected or that a new uniform care policy has appeared. |
 
 These cases support a competitive account of attention, reward, duty and chosen care. They do not justify adding a new intimacy-only or harmlessness exemption to an already failed old rule. The successor's explicit arousal/frame/known-stop and quiet-choice conditions must be evaluated on their own frozen terms.
+
+
+# V14 Update
+
+Source: admitted principal MAIN-14 only, all-body native paragraph locators. This append preserves all earlier ledger text and protected Gen04 originals. See V14 reading for full source identity, coverage, comparative provenance and qualifications.
+
+## Care, protective limits and failures to stop
+
+| ID / source | Ordinary script and change | What is bounded |
+|---|---|---|
+| SO-V14-01 C1P0025,0097–0100 | Darkness’s bodily/fame joke yields evidence of an authentic heroic aspiration and actual protective volunteering. | Mixed motive is not absence of protector duty; no successful trial follows merely from the offer. |
+| SO-V14-02 C1P0125–0135;C2P0059–0062 | Abstract monster removal fails against a smiling individual and familiar care. | This is an attachment inhibition with a civic cost, not a safe solution or proof the plant’s species changed. |
+| SO-V14-03 C1P0205–0224 | Kazuma knowingly prolongs harassment despite host distress; Yunyun stops it, privacy retaliation later recruits apology. | External inhibition and self-protection differ from autonomous mercy. Soketto’s near tears213 and tearful219 remain precise. |
+| SO-V14-04 C2P0133–0174 | Megumin’s disruptive reputation masks a real danger response. | Sudden cast is observed; exact control is tentatively attributed. Yunyun’s displacement139 remains real, with anticipated grave harm unshown. |
+| SO-V14-05 C2P0253–0268,0468 | Kazuma refuses sexual tampering with a sleeper; Darkness physically protects consent and resists spells. | Kazuma later steals the sleeping girl’s bra; Darkness later reports defeat. Partial restraint is not comprehensive protection. |
+| SO-V14-06 C2P0306–0380 | Both recognize a setting objection before attraction and a voluntary intimate offer change the conversation. | Actual assistance never completes before the explosion. Neither offer nor later closeness retroactively consents to earlier theft. |
+| SO-V14-07 C2P0435–0466;C3P0326–0333 | Megumin accepts false guilt/custody to preserve her friend’s opportunity, despite later resistance to incarceration. | Protective sequence is strong, but her rival-ambition explanation remains and self-cost does not erase earlier damage. |
+| SO-V14-08 C3P0138–0161,0277–0286 | Kazuma and Darkness join a friend’s unequal fight; Megumin recognizes the reciprocity when defending him. | Actual bruises and escalation are costs. Hypothetical nightly reprisals are not executed events. |
+| SO-V14-09 C3P0201–0212 | Kazuma’s insult and inquiry become a concrete bath/food offer after Aqua’s ordeal. | One main offer and already possible inquiry limit formal language comparison; tears do not become a new sufficient universal brake. |
+| SO-V14-10 C3P0287–0314 | Megumin warns of irreversible bodily danger, explicitly values Yunyun’s leadership and admits jealousy; Kazuma promises another method. | Care and jealousy coexist. No future absence or actual grave-harm casting dilemma is invented. |
+| SO-V14-11 C4P0135–0141,0298–0307 | Kazuma acts for a particular companion’s private sense of achievement rather than requiring public credit. | Actual supportive aim coexists with alcohol, risk and later performance reward. It does not validate all choices. |
+| SO-V14-12 C4P0426–0463 | Injury stops Kazuma’s bravado enough to send Megumin away for help; she refuses and personally shields him. | Her refusal is protective agency, not childish inability. His own later tactic relies on her and he remains physically hurt. |
+| SO-V14-13 C4P0472–0484 | Megumin acknowledges a fellow explosion lover before decisive harm to protect her companion. | Affinity is real, but no significant personally valued-person history completes the frozen M04 trigger. Final data is not a living headquarters’ response. |
+| SO-V14-14 C4P0503–0681 | Hidden victory and anticipated farewell give way to Yunyun’s own return and continued rivalry. | The card is shown to Yunyun with party present, not announced village-wide. The attached friend can also be cruel and controlling. |
+| SO-V14-15 FP0168–0176 | Darkness independently stops a grave-destroying cast before Kazuma tells her to continue. | Protection is observed. Megumin’s frustration and loss of spectacle remain; external restraint is not autonomous self-control. |
+| SO-V14-16 FP0183–0198 | Aqua responds to a divinity insult but autonomously resumes the assigned work. | Maintaining pursuit and failing the spell are distinct. No full status-displacement explanation can erase this contrary choice direction. |
+| SO-V14-17 FP0329–0336,0344–0381 | Aqua accepts a correct moral rebuke, apologizes and waits, then Kazuma infers resistance to recipient healing, followed by her actual retaliatory property threat. | Local ethical uptake is real; durable reform is not. External prevention of barrel access is not chosen restraint. |
+| SO-V14-18 Ep P0030–0046 | A flattering heroic story elicits skeptical questioning and explicit refusal to kill a person. | His moral/capacity statement is current self-report, not a demonstrated universal response to every human opponent. |
+
+### Distress does not supply a uniform automatic brake
+
+Darkness’s tears C2P0573 follow a completed unseen ordeal; no fresh timed Kazuma cue-response trial is shown there. Megumin’s half-crying C4P0173 and tearful P0288 do not immediately stop his chosen pursuit. Yunyun is near crying C4P0584 while romance display continues, and Aqua is tearful after physical treatment FP0083/0312. Those are actual limits on broad claims of automatic compassion; near-crying/tearful wording is not silently converted into actual flowing tears. Her sniffing FP0259 follows a genuine loyalty plea, not a newly established intimate-arousal scenario.
+
+The historical Gen03-K04 sufficient noticed-tears forecast remains FALSIFIED. V14 does not repair that failure through later care or narrower successor conditions. Gen04-K04’s quiet-A and aroused-B conjunctions are evaluated separately; absence of their exact trigger never acquits harassment or makes distress unreal.

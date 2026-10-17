@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V13
+scope: V01-V14
 ledger_role: narrator_perspective
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V13 main narrative; Kazuma first-person narration
+source_boundary: Japanese main-series light novels through V14 main narrative; Kazuma first-person narration
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Kazuma Narrator Ledger — Through V13
+# KONOSUBA Kazuma Narrator Ledger — Through V14
 
 ## Purpose
 
@@ -566,3 +566,37 @@ The published namespace is **N-V13-##**, continuing N-V12 and N-V11. First-perso
 | N-V13-20 | FP0416–0418; EpP0016–0034 | Contrasts Aqua's revenge attribution with Wiz's denial, then frames normality and the ending as reassuring. | Town protection has its own immediate source trigger. Normality is a valued experience, while the reported town threat and Aqua's objection to neat closure remain actual unresolved counterevidence. |
 
 Kazuma's narration makes its own limits available. Quoted correction, admitted improvisation, an explicit らしい/なのか, a staged contrary reaction and a later referent reveal carry different evidential weights. None licenses the global conclusions that he always lies, that every joke is nonliteral or that a later correct diagnosis repairs every earlier decision. Retain what the text directly makes observable before transferring a motive to a cumulative model.
+
+
+# V14 Update
+
+Source: admitted principal MAIN-14 only, all-body native paragraph locators. This append preserves all earlier ledger text and protected Gen04 originals. See V14 reading for full source identity, coverage, comparative provenance and qualifications.
+
+## Perspective, quotation and causal authority
+
+| ID / source / short anchor | Narrator operation | Evidence boundary |
+|---|---|---|
+| N-V14-01 C1P0025–0030;出番 | Reduces noble volunteering to wanting prominence. | Darkness’s actual offer precedes the gloss; her later childhood ideal P0097–0100 defeats an exclusive motive account. |
+| N-V14-02 C1P0054–0077;避難 | Admits Aqua’s precise diagnosis while performing friendship sacrifice to a messenger. | Inner refuge motive is directly available; others’ admiration does not make the performance its sole actual motive. |
+| N-V14-03 C1P0079–0096;小芝居 | Plans an apparently accidental meeting that would conceal eagerness. | His intention is explicit, not analyst speculation about hidden vanity. Fame feedback and the chosen timetable can be compared. |
+| N-V14-04 C1P0125–0135;これを駆除 | Individual smiling plant defeats his removal impulse. | His inhibition is direct inner evidence; Darkness’s watering is his stated report P0130, not proof of safe species domestication. |
+| N-V14-05 C1P0205–0224;謝って | Learns the fake ritual, then knowingly sustains it and later promises apology at personal privacy risk. | Distinguish his knowledge from Aqua’s possible sincere belief. Near tears213/tearful219 are not a voluntary Kazuma stop. |
+| N-V14-06 C1P0342–0344;ノーカン | Rehearses a commercial-intimacy exception before entering the bar. | This is direct anticipatory self-excuse, not a retrospective analyst diagnosis; no actual sexual encounter follows. |
+| N-V14-07 C1P0368–0370;お礼 | Predicts gratitude for improving Yunyun’s friend reputation while the listener infers romance. | His benevolent self-description conflicts with the actual uptake; Yunyun’s later reaction to this gossip is not shown. |
+| N-V14-08 C2P0121;初めて | Attributes Yunyun’s effort to a first proper party. | Her delight119 and prepared capacity are observed; the first-ever generalization remains his inference. |
+| N-V14-09 C2P0133–0171;によるものなのか | Registers danger before the sudden cast; tentatively explains its trajectory through precise control. | Cast and passage between trees136 are observed. Exceptional control is qualified, and initial frustration attribution precedes her warning account. |
+| N-V14-10 C2P0274–0300;紳士 | Calls himself a gentleman after earlier refusal while staging implied aftermath and stealing a sleeping girl’s bra. | Observable chosen acts defeat a blanket consent-reliable self-description. A refusal of intercourse is not a denial of all imposed contact. |
+| N-V14-11 C2P0414–0423;昨夜は | Joins accusation despite his own presence, then receives a corrective alibi and daily-resource reminder. | Failure to use known information is observable; actual memory loss is not independently established. Attention/reputation bias is a hypothesis. |
+| N-V14-12 C2P0462–0466;何となく | Infers protective motive in Megumin’s false confession. | Sequence and her later admission C3P0303 support care, while her immediate rival-ambition denial remains direct speech. |
+| N-V14-13 C3P0091;意味 | Knows his romantic compliment was heard differently but leaves the profitable interpretation uncorrected. | Darkness’s pleasure does not validate the meaning she attributed; implied omission is part of his social strategy. |
+| N-V14-14 C3P0249–0253;魔王の仕業 | Turns repeated attempts at curse removal into a stronger curse hypothesis. | Aqua denies a curse and no change is seen. An unchanged result cannot establish an exceptional hidden curse or its absence. |
+| N-V14-15 C4P0135–0136,0298–0300;二人だけ | Supplies an independent private supportive purpose for the expedition. | This directly supports particular attachment but does not erase intoxication, failed equipment, theft or injury. |
+| N-V14-16 C4P0283–0288;実質俺の勝ち | Redefines failed killing and escape as mercy/victory. | The fur resisted and the target seemed about to break free P0281. His earlier boast is not the practical result. |
+| N-V14-17 C4P0415,0421,0447;らしい | Infers property protection, acid aversion and rib damage from observed responses. | Guard success and strikes are actual; the general rules and fracture remain causal/medical inferences. |
+| N-V14-18 C4P0559–0574,0672;正反対 | Predicts a happy settled village future and constructs opposites, then revises toward resemblance after renewed rivalry. | P0557/0558 are direct Yunyun/Megumin speech; only559–560 is his happiness inference. Her actual chosen return646–649 governs outcome. |
+| N-V14-19 FP0181–0215;アンデッドじゃない | Records a failed expected lure/cast and a rival’s success without the mechanism. | Aqua’s proposed category explanation202 is a hypothesis. The later officer revelation does not by itself solve the anomaly. |
+| N-V14-20 FP0344–0354;抵抗 | Explains healing failure through recipient resistance and prior analogous sabotage. | The persistent wound P0344 and Serena’s repeated healing casts on Aqua P0351 are observed. The resistance mechanism is his inference, strongly context-supported rather than narrated from Aqua’s interior. |
+| N-V14-21 Ep P0015–0048;漫画 | Wants a conventional tragic fantasy but corrects the flattering surname inference and refuses the mission. | Serena’s story is report-level and interested; his enjoyment does not amount to acceptance of every factual claim. |
+| N-V14-22 Ep P0102–0126;もちろん死ぬ | Tests a seller’s narrow guarantee and recognizes coercive confidentiality. | The item is not activated; bodily effect is Vanir’s assertion. Serena’s wallet statement121 and register change123 are distinct observed evidence. |
+
+The volume gives an unusually direct alternative focalizer in I13. Yunyun’s childhood goal, private ambivalence and gratitude belong to her narrated interior, unlike the adjacent Kazuma generalizations about why she works or where she would be happy. Neither focalizer becomes omniscient because one judgment succeeds. Quoted action, remembered report, qualified causal inference and deliberate rhetorical pose remain separately recoverable.

@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V13
+scope: V01-V14
 ledger_role: ordinary_life_preferences
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V13 main narrative
+source_boundary: Japanese main-series light novels through V14 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Ordinary-Life and Preferences Ledger — Through V13
+# KONOSUBA Ordinary-Life and Preferences Ledger — Through V14
 
 ## Purpose
 
@@ -530,3 +530,37 @@ Ordinary scenes contribute positive preferences and constraints, not merely ante
 | OL-V13-17 Kazuma / Megumin | EpP0044–0050; question and direct inner report | Kazuma says internally that he rather likes children; Megumin asks a concrete family-number question. | He has just acquired precautionary items and does not provide an answer before the scene shifts. This is neither an agreed parenting plan nor proof that immediate desire determines all attachment. |
 
 These observations add preferences for play, food, skill, calm recovery, useful work, private remembrance and continuing company. They preserve real costs—unwanted chores, privacy loss, dangerous purchases and an unresolved trial—inside the life the characters wish to maintain. None requires side fiction or editorial claims about the correct couple.
+
+
+# V14 Update
+
+Source: admitted principal MAIN-14 only, all-body native paragraph locators. This append preserves all earlier ledger text and protected Gen04 originals. See V14 reading for full source identity, coverage, comparative provenance and qualifications.
+
+## Ordinary life and particular preferences
+
+| ID / person / source | Actual preference or routine | Limit |
+|---|---|---|
+| OL-V14-01 Kazuma C1P0093;C2P0315–0319 | Practices a signature, wants admiration and prefers an entrance that does not look eager. | Unsolicited guild graffiti is removed; hoped-for future value is his claim. |
+| OL-V14-02 Kazuma C1P0331–0357;C2P0006 | Seeks adult attention and drinks at the bar, then stays overnight because returning feels burdensome. | The erotic establishment is a naming trap; no sexual service is actually shown. |
+| OL-V14-03 Kazuma C2P0211–0217 | Offers ordinary chores as guest etiquette but rejects deepest-dungeon work. | Limited risk appetite and useful domestic cooperation coexist; no global refusal to work. |
+| OL-V14-04 Kazuma C3P0086–0091 | Says he has never had a proper date and accepts walking with Darkness. | The exchange does not supply a new reciprocal love declaration or completed agreed romance. |
+| OL-V14-05 Kazuma C3P0269–0274 | Low stat growth, restricted equipment and few desired leisure-life skills reduce leveling motivation. | Self-report about his build is not a universal inability to improve or learn. |
+| OL-V14-06 Kazuma/Bukkorori C4P0495–0498 | Watching created ice melt is proposed and sincerely welcomed as idle time use. | A single absurd leisure suggestion is not a full stable hobby hierarchy. |
+| OL-V14-07 Kazuma Ep P0099–0114 | Likes the idea of relief from insects but checks a product’s hidden consequences. | No purchase/use by him or actual medical experiment follows. |
+| OL-V14-08 Aqua C1P0114–0130;C4P0623–0635 | Repeatedly waters the named seedling, wants it to have company and reports planting it for Komekko. | Wrong site and possible food intent remain unresolved; ownership is not safe judgment. |
+| OL-V14-09 Aqua C1P0307–0309;FP0228–0238 | Practiced origami and a mushroom-producing trick can delight or feed others. | Requested output of two or three extra mushrooms is not shown; recognition causation is not established. |
+| OL-V14-10 Aqua C2P0213/0223;C4P0022–0036 | Takes a sunny sleeping place, drinks openly as guest and becomes intoxicated at the festival. | Actual ordinary behavior, not proof she cannot own any service. |
+| OL-V14-11 Aqua C3P0210–0212 | Wants shiokara after offered expensive snacks and values a bath after mud. | One choice supplies a positive preference, not a permanent favorite-food ranking. |
+| OL-V14-12 Aqua FP0250–0259,0356 | Wants a loyal minority and valuable room possessions preserved, with wine/snack offerings. | Funeral grandeur is a feigned-fatality performance, not an actual testament or architectural plan. |
+| OL-V14-13 Megumin C1P0278–0305 | Remits money, expects a room at home and wants control over sleeping arrangements. | Family debt/new luxury and parents’ expectations differ from her own choices. |
+| OL-V14-14 Megumin C2P0306–0380;C3P0240–0267 | Welcomes closeness and handholding, while objecting to mother-led intimacy and trying to avoid repeated frustration. | Attraction, setting, consent and execution remain separate; no completed sexual help is narrated. |
+| OL-V14-15 Megumin C4P0088–0094 | Tries to carry intoxicated adults home, then supplies blankets when assistance fails. | Mothering is Kazuma’s explanation; the practical acts themselves are observed. |
+| OL-V14-16 Megumin C4P0034–0036,0114 | Usually wants drink to appear grown up and admits feeling less hard-edged/easier to win over. | That night she stays sober; self-reflection is local, not an irreversible global maturity claim. |
+| OL-V14-17 Darkness C3P0087–0090 | Likes romantic-fiction date conventions, dressing up and arranged meetings. | Hiding these preferences is her report; bodily interests do not invalidate them. |
+| OL-V14-18 Darkness C1P0023;C2P0259–0266 | Family uses high-quality village armor; she values defensive equipment and resistance. | Sword accuracy remains limited; resistance does not equal immunity to every spell or shame. |
+| OL-V14-19 Yunyun C1P0140–0146;I13P0070 | Overly early waiting and exact timing matter to companionship; a first friend-shopping dagger is cherished. | Attachment to the dagger interferes with immediate fighting, not proof of technical incompetence. |
+| OL-V14-20 Yunyun I13P0008–0047;C4P0646–0669 | Chiefdom is a goal made valuable through rivalry; freely chosen return and desired friends modify its path. | Father/villager declaration is reported, consultation/approval unshown. No guaranteed future political outcome. |
+| OL-V14-21 Komekko C1P0264–0284;C4P0090–0093,0630–0635 | Wants gifts/food, uses blunt stinginess language and prefers an easy response to sleeping adults. | Eating the seedling remains a predicted motive, not an executed meal. |
+| OL-V14-22 Aigis C1P0389–0418;I13P0024–0030 | Enjoys beautiful company, innuendo and bodily contact, orders milk despite inability to drink and pays with valuable scrap. | Stated selective rescue plan is not a demonstrated full moral rule or completed act. |
+
+These details give ordinary support and frustration causal weight: travel preparation, boring waits, bodily comfort, familiar meals, privacy, idle time and the wish for company are not filler between quests. Their specific distribution prevents a quest-only or catchphrase-only simulation.

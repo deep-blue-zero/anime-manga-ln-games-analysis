@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: Japanese main-series V01-V17 source-complete with accepted sequential analysis through V13; 41-object expanded-source snapshot reconciled 2026-10-16 and separately gated from main derivation
+source_boundary: Japanese main-series V01-V17 source-complete with accepted sequential analysis through V14; 41-object expanded-source snapshot reconciled 2026-10-16 and separately gated from main derivation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: V14
+  next_permitted_operation: V15
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V11
   terminal_boundary: V17
-  committed_high_water_mark: V13
-  next_candidate_operation: V14
+  committed_high_water_mark: V14
+  next_candidate_operation: V15
   confirmation_between_units: false
   run_state: active
 ---
@@ -43,9 +43,15 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 
 ## 2. Current authority state
 
-**Project state:** ACTIVE / PROVISIONAL — V01–V13 sequential analysis and the V10–V12 formal checkpoint are accepted. Gen04 remains the current frozen prospective model derived only from main narrative through V12; all25 original V13–V15 Outcome/Adjudication field pairs remain blank. V13 appends separate local dispositions:3 CONFIRMED /8 PARTIAL /13 NOT_TESTED /1 local FALSIFIED, with the Gen04 tranche still OPEN. The K03 failure is one matched unchanged-scope episode, not a completed repeated-countercase retirement judgment. Gen03 remains closed at9 CONFIRMED /5 PARTIAL /10 NOT_TESTED /1 FALSIFIED, preserving every local history and the V11 K04 failure. The accepted principal-main high-water mark is V13. CP04 publication/readback and its own full audit sequence closed on exact source commit c1ad78db. V14 is next only after V13 is accepted, committed, published, read back and closed through its own source audit, housekeeping and final exact-head integration status. Continuous authorization through V17 and the staged synthesis/validation/expanded program remains active.
+**Project state:** ACTIVE / PROVISIONAL — V01–V14 sequential analysis and the V10–V12 formal checkpoint are accepted. Gen04 remains the current frozen prospective model derived only from main narrative through V12; all25 original V13–V15 Outcome/Adjudication field pairs remain blank. V13 appends separate local dispositions:3 CONFIRMED /8 PARTIAL /13 NOT_TESTED /1 local FALSIFIED, with the Gen04 tranche still OPEN. The K03 failure is one matched unchanged-scope episode, not a completed repeated-countercase retirement judgment. Gen03 remains closed at9 CONFIRMED /5 PARTIAL /10 NOT_TESTED /1 FALSIFIED, preserving every local history and the V11 K04 failure. The accepted principal-main high-water mark is V14. Its 25 separate local Gen04 dispositions are 4 CONFIRMED / 7 PARTIAL / 13 NOT_TESTED / 1 local FALSIFIED (A02); V13’s K03 failure and every earlier history remain preserved. CP04 publication/readback and its own full audit sequence closed on exact source commit c1ad78db. V13’s publication gate is CLOSED_SUCCESS at exact source commit `ee4e2882cb69cf58d87c3d48437dec7270c163ab`, tree `d2c0d376ffb8129b709f9c8297f3aba03fed738f`: source audit38983346461, no-op housekeeping38983793379 and final exact-head audit38983827207 succeeded; the exact Repository integration audit status became success at2026-10-16T23:58:16Z. Fresh 2026-10-17 readback matches all18 authored V13 paths. Earlier pending statements in V13’s sealed production/review records describe their authorship time and remain historical. V14 is analytically accepted; its containing publication/readback and complete exact-head audit sequence remain required. V15 is next only after that gate closes and fresh source admission. Continuous authorization through V17 and the staged synthesis/validation/expanded program remains active.
 
 **SEQUENTIAL_ANALYSIS_LOCK = OPEN.** This is continuation of the mature imported project, with its four current methods, existing ten ledgers and source boundary verified. The structured run declarations recover the current owner-authorized bounds; they do not create new source authority. The [run and reconciliation audit](09%20Audits%20and%20Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md) records accepted, working and published state separately.
+
+**Historical owner pause — 2026-10-17T01:59:20.802530+00:00.** The owner paused work at the recorded time. Accepted/published high-water remained V13 at `ee4e2882cb69cf58d87c3d48437dec7270c163ab`; V14 source reading had begun but its analytical transaction was incomplete and unpublished. Active readers/reviewers were interrupted. Local current-state/audit edits and the clean main-reconciliation index were preserved without commit or push. The subsequent resume and recovery are recorded below.
+
+**Owner resume — 2026-10-17T02:01:53.149995+00:00.** The owner’s “Resume” restores the continuous authorized program. Published source remains `ee4e2882`; current main remains `55ed747f8c04d027a92496bb702f54697309f1f1`. Recovery verifies the pending clean main merge, unchanged source/method/frozen-model bytes and retained partial V14 discovery. Earlier pause wording above is historical. V14 resumes from recovered partial coverage, with no complete-reading or coding claim for interrupted work. Replacement reader sessions preserve their separate original annotation lineages and disclose the context handoff; they are not counted as extra independent discoveries.
+
+**V14 recovery and accepted analytical boundary.** The ordinary local merge `fb8049c267f711c4a09b2479cc05db0051776a1f` preserves published source `ee4e2882` and main `55ed747f` as ordered parents; its 15 imported Yuru Camp blobs change no KonoSuba or governing file. It is not yet a published analytical head. Root, the recovered producer lineage, the recovered independent humor/voice lineage and the new semantic reviewer have each completed an ordered pass through all 2,691 admitted V14 principal paragraphs. Their overlapping scopes are not summed. Both original uncoded discovery sets sealed before exchange; root fixed 154 disjoint units and all 44 original voice comparisons before formal assignment. Both complete classification/evaluation files then sealed before comparison. Current census grouping is 151 clear L0–L2 and three unresolved mixed units after an attributable source-form correction; the original 150/four comparison and both initial code histories remain preserved. The corrected seventeen-section reading, complete census/voice comparison and ten append payloads are accepted through the V14 receiving review. Initial drafts, sealed assignments and attributable source corrections remain preserved. Analytical high-water is V14; the last verified fully audited published source remains V13 at ee4e2882 until the containing V14 publication sequence is verified. V15 and every withheld, supplemental and edition-bonus narrative remain unopened.
 
 **Canonical entrypoint:** this file.
 
@@ -192,7 +198,7 @@ The tranche result is 16 CONFIRMED, 2 PARTIAL/revision-bearing, 2 NOT_TESTED, an
 
 ### Phase 5 - V13-V15
 
-**ACTIVE.** V13 is the first completed local test of frozen Gen04; the V13–V15 tranche remains OPEN. Continue with V14 only after the complete V13 publication sequence closes, then V15 in order. Close the tranche and freeze Model Generation0.5 before V16 exposure.
+**ACTIVE.** V13 and V14 are completed local tests of frozen Gen04; the V13–V15 tranche remains OPEN. Continue with V15 only after the complete V14 publication sequence closes and its source admission is verified. Close the tranche and freeze Model Generation0.5 before V16 exposure.
 
 ### Phase 6 - V16-V17
 
@@ -260,7 +266,9 @@ A later synthesis never licenses invented evidence. Exact wording, linguistic cl
 
 - [KONOSUBA_V13_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V13_DEEP_READING.md) — active provisional V13 authority; first local prospective test of Gen04, complete principal narrative and synchronized ten-ledger record.
 
-### Active cumulative ledgers through V13
+- [KONOSUBA_V14_DEEP_READING.md](02%20Sequential%20Readings/KONOSUBA_V14_DEEP_READING.md) — active provisional V14 authority; second local prospective test of Gen04, complete admitted principal narrative, source-first census/voice work and synchronized ten-ledger record.
+
+### Active cumulative ledgers through V14
 
 - `KONOSUBA_CHARACTER_STATE_LEDGER.md`
 - `KONOSUBA_RELATIONSHIP_STATE_LEDGER.md`
@@ -271,7 +279,7 @@ A later synthesis never licenses invented evidence. Exact wording, linguistic cl
 - `KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md`
 - `KONOSUBA_KAZUMA_NARRATOR_LEDGER.md`
 - `KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md`
-- `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` — preserves all older freezes, original blank fields, formal Gen03 closeout and local histories; retains the exact25 Gen04 V13–V15 forecasts and appends all25 separate V13 local dispositions. Gen03 is closed; Gen04 remains the current prospective freeze with the V13–V15 tranche OPEN.
+- `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` — preserves all older freezes, original blank fields, formal Gen03 closeout and local histories; retains the exact25 Gen04 V13–V15 forecasts and appends all 25 separate V13 and all 25 separate V14 local dispositions. Gen03 is closed; Gen04 remains the current prospective freeze with the V13–V15 tranche OPEN.
 
 ### V01-V03 Model Generation 0.1 state
 
@@ -452,12 +460,24 @@ Two complete uncoded discovery censuses,169 primary and190 independent units, se
 
 Twenty-one voice captures retain16 original primary windows plus5 supplements from14 independently fixed windows, with overlaps and sparse/adverse cases preserved rather than counted as independent trials. Local J01 remains PARTIAL. The afterword, bonus **本物のマジックアイテム！**, illustrations and other edition components remain uninspected and reserved for their later stage. Only MAIN-13's principal narrative advances; the41-object identity seal, all seven protected frozen-block copies, all earlier prospective states and all19 supplemental/five mixed-book obligations remain unchanged. Main-only synthesis/reconstruction, frozen-model holdout validation, expanded-corpus analysis and post-validation reconstruction retain their separate gates.
 
+### V14 local prospective-validation state
+
+The [V14 reading](02%20Sequential%20Readings/KONOSUBA_V14_DEEP_READING.md) and [receiving review](09%20Audits%20and%20Manifests/KONOSUBA_V14_RECEIVING_REVIEW.md) accept the eight principal members `OEBPS/Text/part0009.xhtml`–`part0016.xhtml`: Pr/C1/C2/C3/I13/C4/F/Ep, 2,691 all-body paragraphs, 2,460 nonempty and 95,482 base characters. I13 supplies Yunyun’s own interior account. Root, producer lineage, independent discovery lineage and semantic reviewer each completed the principal narrative; overlapping scopes and recovery rereads are not counted as extra independent discoveries. All ten ledgers append source-located V14 evidence.
+
+Yunyun’s inherited leadership target becomes meaningful through rivalry, and achievement makes possible separation emotionally consequential; her return is chosen, without invented parental approval. Kazuma’s private support for Megumin coexists with intoxication, self-presentation, poor finishing, injury and imposed intimacy. Megumin contributes protection and the terminal attack while both helping and wounding Yunyun. Darkness’s protective duty, ordinary romantic wishes and meaning-specific embarrassment resist a uniform pain-seeking caricature. Aqua’s actual capacities, failed cemetery result, autonomous task resumption after a divinity taunt and later dishonest conduct are distinct observations. The cemetery cause and infiltrator’s larger purpose remain unresolved through this volume.
+
+All 25 unchanged Gen04 forecasts receive separate V14-local dispositions: **4 CONFIRMED / 7 PARTIAL / 13 NOT_TESTED / 1 local FALSIFIED**. A02 is one matched contrary direction, without satisfying the repeated-countercase whole-tranche retirement criterion. K04 explicitly retains the strongest C2 B sequence and its guilt/alternative-frame uncertainty; K02 credits substantive cheap help without adding a personal-contribution cost floor, while the refusal-to-preventable-harm conjunction remains unestablished. V13’s K03 failure and Gen03’s K04 failure remain unchanged. Gen04’s original model, forecast text and all 25 original blank Outcome/Adjudication pairs are exact; V13–V15 remains OPEN and no Gen05 is created here.
+
+The complete source-first census fixes 154 units with all 314 original annotation records retained. Current grouping is 151 clear L0–L2 and three mixed unresolved (U028/U040/U082), bounds 151–154/154. Initial 150/four and 109 fine agreements/45 differences remain historical: U052’s source-form correction is an attributable retrospective reassessment, not new initial agreement. All eight originally soft-touched units remain in the main denominator; their broad removal gives 143–146/146 only as sensitivity. Both sealed original assignments, nested forms, context schemes and disagreements remain recoverable. All 44 original voice comparisons plus one auxiliary retain exact windows, both judgments, actual recipients, sparse/adjacent/adverse limits and overlap; 33 presentation groups are not independent trials. J01/J02 remain local PARTIAL, with J02’s pooled V13–V15 denominator still required after V15.
+
+V14’s first exposure followed the fully closed V13 publication gate. The containing V14 transaction still requires its own exact publication/readback, source audit, housekeeping and final exact-head success before V15 opens. Afterword part0017, bonus part0020 **少女の苗は無邪気に嗤う**, images and other edition components remain unread/open; their TOC/package identification is not narrative analysis. V15–V17, main-only syntheses/reconstruction freeze, four-book validation, all expanded components and post-validation revision remain separate obligations.
+
 ## 13. Current next actions
 
 1. Preserve every older checkpoint, all seven protected frozen-block copies, every original blank field, formal Gen03 closeout, all V10–V13 local outcomes and RC-V09-01/RC-V10-01. V13 local judgments never fill or rewrite the original Gen04 fields or earlier prospective states.
-2. CP04's accepted Gen04 freeze was committed, published and read back before V13 opened; its separate source audit, housekeeping and final exact-head integration audit later closed successfully on c1ad78db, with exact status success at2026-10-16T22:29:27Z. Preserve V13's historical OPEN event at22:23:52.383159Z, which truthfully recorded checkpoint CI pending. Complete V13's own exact publication/readback and full successful audit sequence before V14 source exposure; the checkpoint's success cannot substitute for the V13 sequence.
+2. CP04's accepted Gen04 freeze was committed, published and read back before V13 opened; its separate source audit, housekeeping and final exact-head integration audit later closed successfully on c1ad78db, with exact status success at2026-10-16T22:29:27Z. Preserve V13's historical OPEN event at22:23:52.383159Z, which truthfully recorded checkpoint CI pending. V13’s separate publication/readback and full successful audit sequence is now verified at exactee4e2882 (source38983346461 → housekeeping38983793379 no-op → final38983827207; exact success2026-10-16T23:58:16Z). Preserve its authored-pending statements as historical provenance. V14’s principal exposure opened at2026-10-17T01:56:36.388569Z after this closure and unchanged Gen04/current-ledger pins; V14’s complete principal reading and ten-ledger transaction are now analytically accepted. V15 remains unopened until V14’s own publication/readback, source audit, housekeeping and final exact-head audit all succeed; this authored acceptance does not invent that future success.
 3. At each source-unit boundary, refresh the live map/governance and relevant ledgers, read the entering checkpoint and exact forecasts, pin preserved bytes and earlier outcomes, and complete the source-identity/capability gate before narrative exposure. Close each complete reading/ten-ledger/map transaction before the next volume opens. Continue through the authorized V17 boundary without routine confirmation.
-4. Continue testing all25 unchanged Gen04 forecasts on V14–V15 alongside the preserved V13 local outcomes, retaining missing conjuncts, branch differences, adverse cases and individual histories. Keep a source-first complete humor census and fixed language windows with exposure limits documented. After V15, adjudicate the complete V13–V15 tranche and freeze Gen05 before V16; after V17, complete the final sequential checkpoint and main-series evidence freeze.
+4. Continue testing all 25 unchanged Gen04 forecasts on V15 alongside the preserved V13 and V14 local outcomes, retaining missing conjuncts, branch differences, adverse cases and individual histories. Keep a source-first complete humor census and fixed language windows with exposure limits documented. After V15, adjudicate the complete V13–V15 tranche and freeze Gen05 before V16; after V17, complete the final sequential checkpoint and main-series evidence freeze.
 5. Keep all side narrative and edition bonuses outside prospective derivation. Complete and freeze the main-only reconstruction suite before the four designated holdouts; preserve validation results, then complete the full19-book secondary-prose and individual bonus/mixed-book narrative program with attributable post-validation models. Every admitted narrative component and architecturally required output needs a validated disposition. The41-object metadata reconciliation is not literary completion.
 
 ## 14. Governing principle

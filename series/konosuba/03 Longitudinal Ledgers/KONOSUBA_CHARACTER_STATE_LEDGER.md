@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V13
+scope: V01-V14
 ledger_role: character_state
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V13 main narrative
+source_boundary: Japanese main-series light novels through V14 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Character State Ledger — Through V13
+# KONOSUBA Character State Ledger — Through V14
 
 ## Purpose
 
@@ -801,3 +801,52 @@ Wiz's benevolence is anchored by Sylphina's actual thanks and by her willingness
 Vanir's sight is initially blocked, later reveals information he withholds, and finally fulfills the exact unspecified-beneficiary prophecy through his own pleasure (C3P0172; C4P0082–0088; FP0057,0357–0358). The record does not warrant retroactively claiming he possessed the full answer at every earlier moment. His merchant management and revival work are real help, but he explicitly prioritizes his preferred feelings and permits avoidable distress (FP0420–0423). His final address to Wiz as a friend and promised company are likewise explicit (EpP0024). Neither a wholly benevolent helper nor a wholly transactional automaton contains these source facts.
 
 The count becomes a threatened migrant and shop helper without losing his demonic tastes. Good governance is reported, not independently audited; his forgiveness and wishes for the child are directly spoken, and her attachment changes Aqua's immediate behavior (C1P0238,0281,0289–0293; FP0063–0073). The comic reduction of an earlier formidable opponent does not require pretending that earlier power never existed or importing his fate from a side source.
+
+
+# V14 Update
+
+Source: admitted principal MAIN-14 only, all-body native paragraph locators. This append preserves all earlier ledger text and protected Gen04 originals. See V14 reading for full source identity, coverage, comparative provenance and qualifications.
+
+## Character states and bounded revisions
+
+### Kazuma — particular support competes with comfort and performance
+
+The trial begins as a refuge from fame, then becomes a quick achievement for an admirer C1P0054–0096. These are changes in the active reward, not proof that the actual help is fictional. With Megumin, the independent private goal C4P0135–0136 is to ease her feeling of being overtaken. He explicitly does not require anyone else to know C4P0298–0300. This is stronger evidence for particular attachment than his public friendship performance, while his drinking, boasting, underwear theft and dependence remain part of the same expedition. Affection does not make its method safe or consensual.
+
+His practical intelligence works through state changes: blind the bear before Concealment C4P0181–0199; use Fenrir’s own cold to hinder it, then screen and bind C4P0227–0251; exploit the robot’s prohibition through a protective partner and repeated theft C4P0437–0463. Technical search does not guarantee a reliable finishing tool, spare wire, bodily endurance or recovery. He actually recognizes that he cannot carry on and offers Megumin a route to reinforcements P0426. That protective instruction coexists with self-preserving reliance when she refuses to leave. His account of a real injury and earlier commands must not be replaced by either a helpless-victim story or a solitary-mastermind story.
+
+Ordinary desire is also specific. He wants an authentic date, values food and praise, admits little motivation to level when stats scarcely improve, and finds the prospect of ordinary rural chores more acceptable than a deep dungeon C2P0211–0217;C3P0086,0269–0274. He rejects a supposed grand heroic assignment even while enjoying the story Ep P0046. Common-name skepticism defeats a flattering ancestry claim. These are actual constraints on the lure of conventional fantasy; they do not prove immunity to a skilled infiltrator.
+
+### Aqua — real capacity and two distinct failures
+
+Watering C1P0114, origami P0307–0309, fire control C2P0110, attempted/reported repeated BreakSpell C3P0249–0251, mushroom production FP0228–0237 and self-healing FP0368 show actual established-domain action. Some outcomes are bounded or report-level: repeated BreakSpell attempts are reported, no change is observed and no curse is established. In contrast, TurnUndead at FP0193 leaves every intended target intact P0198. Both engagement and the failed result are visible. The unusual targets do not attract her and have red eyes P0181/P0202; their actual category and the cause of failure remain unresolved. The later revelation of an infiltrator cannot supply a mechanism the text has not yet given.
+
+Prestige is not a single direction. She submits to Serena’s ethical argument FP0113/0116 and later actually apologizes and rejoins a queue P0330–0336. During the cemetery task, a direct divinity taunt P0183 provokes threat and resentment, yet she stops quarrelling P0188 and casts the assigned spell. This is important contrary context for any rule that a status challenge always displaces work. Later Kazuma infers that she deliberately resists recipient healing, and she threatens the guild’s alcohol P0344–0381. Those events are separate from autonomously resumed pursuit of the instrumental assignment; the cemetery spell itself fails.
+
+Her attachment to the seedling is sustained rather than interchangeable. She waters it, seeks company for it and reports replanting it at the hosts’ home C4P0627–0635. This neither solves the public danger nor proves that Komekko will eat it. The actual child-care assumption is hers; the possible food intention is Megumin’s prediction. The ownership itself can align care with harmful judgment.
+
+### Megumin — the cost of winning is part of the attachment
+
+Megumin really protects Yunyun’s opportunity through a false confession C2P0451 and further custody C3P0326–0333. She also undermines the friend through secrecy, loneliness barbs and romantic status C4P0577–0596. Her direct admission that she concealed Axel’s welcome to prevent abandonment of chiefdom P0660–0663 gives this support a paternalistic cost: she manages information to secure the friend’s supposed larger goal. It is not merely harmless teasing, nor does it cancel real costly help.
+
+With Kazuma, she expressly distinguishes attraction from parent-directed access C2P0306, offers intimacy without completing it, enjoys ordinary handholding C3P0255–0267 and acknowledges both gratitude and jealousy P0285/P0303–0305. Her protection C4P0432–0437 uses local knowledge rather than only magic. Casting is not always the desired first response: she wants to use the bear as the night’s target P0172, qualifies her love of strong targets by having the full party and a sober partner P0207, then shields him instead of following his instruction. Her final affinity for the robot P0474 does not prevent decisive fire, but no independently established significant personal history supplies the frozen valued-person trigger.
+
+The restaurant attack C3P0144–0153 confirms sensitivity to specialty/title devaluation. It does not by itself complete the known ordinary-companion-cost priority branch. The successful final attack C4P0481 is real efficacy, with an earlier carry request P0355 and later injury constraint P0464. Retain those unusually explicit logistics without claiming that the whole safe-deployment conjunction is beyond review.
+
+### Darkness — wanted danger and unwanted meaning remain different
+
+Darkness gives an actual childhood heroic reason for taking the trial C1P0097–0100. The revised public posing task instead leaves her tearful C2P0573 and explicitly rejecting its kind of humiliation C3P0023. The prior expected riddle is not itself an independently expressed privacy preference, so the source strengthens meaning-specificity without automatically validating the new full privacy prediction.
+
+Her ordinary romantic wishes—dressing up, a planned meeting, arriving early and literary date patterns C3P0087–0090—deserve the same weight as bodily fantasy. Her self-claimed exclusion C3P0219 concerns the sleeping arrangement, not an explicit threat to equal party membership. She also protects consent C2P0254–0266, joins defense of a mocked companion C3P0158–0161 and independently restrains grave destruction FP0169 before Kazuma tells her to continue P0170. Costs and useful initiative coexist with challenge enjoyment and her eventual reported defeat by Yuiyui C2P0468.
+
+### Yunyun — the objective becomes chosen through a relationship
+
+I13 gives direct interior evidence. Chiefdom began as praise in a life without another dream I13P0009–0012. Megumin’s self-directed ambition transformed it into a valued rivalry P0045–0047,0073–0081. Competence is directly observed in the forest and reported across overnight survival C2P0094–0115;C4P0008–0012. An equipment mismatch, friendship-word fixation and a cherished dagger restrict deployment without proving low magical ability.
+
+Success makes separation credible. Her return is directly chosen C4P0646–0649 after a visit to her parents; she says she declared it to father and villagers, not that their consultation or approval is shown. The shared future is reopened by her action. Kazuma’s earlier prediction of effortless village happiness P0559–0560 is superseded as an inference, not retroactively turned into her preference.
+
+### Aigis, Serena and the former officers
+
+Aigis has real defense, autonomous agency and sexual objectives that make it unreliable as a neutral tool. Its duty refusal I13P0024–0030 and advice to enjoy life influence Yunyun while its armor blocks her spells P0061–0062. Functional rescue and harassment remain separate.
+
+Serena provides visible support, healing attempts and apparent cemetery success before identification as Seresdina Ep P0052–0083. Her polished persona is strategic, but the revelation does not prove that every service was fake or the precise cause of the cemetery result. Wiz’s recognition breaks a disguise without proving omniscient strategy on her part; her hurt departure follows hostile healing. Vanir recognizes exploitable concealment and profits from it. His actual purpose is explicit bad-feeling enjoyment Ep P0125, not an automatically protective exposure.

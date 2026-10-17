@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V13
+scope: V01-V14
 ledger_role: humor_mechanics
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V13 main narrative
+source_boundary: Japanese main-series light novels through V14 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Humor Mechanics Ledger — Through V13
+# KONOSUBA Humor Mechanics Ledger — Through V14
 
 ## Core V01 mechanisms
 
@@ -554,3 +554,76 @@ Both original complete fine-code/rationale/culture records survive in the joined
 The final uncoded register is355,501B SHA `4d75ea895b955d1f6de4dd1a2e304045c79346e76a2fb4071ffb003168d72d19`; original primary coding295,501B SHA `f40f75370ae4c1960ebaef3cc22cf107e52b6d2a20fe5696a18509b3ea5cda7f`; independent557,759B SHA `367df078f5071dccad2245904975ec5389ec10bcc8de595be94562dbfa6a01eb`. The root-accepted joined register is1,246,193B SHA `3b07574c20a333980af319330dae18d4b9317401c13d08eddfe13e819879dea1`; root acceptance receipt `ROOT_POSTSEAL_CENSUS_SEMANTIC_ACCEPTANCE.json` is4,073B SHA `1854858ae00d141ab3bbca2f24899ed40df726945b7824cb20165b155844e487`. The37 source-first operations and all169 original lineages are recoverable; no unit or window changed after coding. H005's soft eligibility was already present in the initial register, so a producer description of it as an additional qualification is corrected as a reaffirmation, not a seventh or new qualification.
 
 A second external clarification concernsH165: Vanir's actual promise atEpP0024 lasts until **both** completion of his dungeon **and** defeat by adventurers. Wiz's noncompletion-to-continuing-company inferenceP0026 is hers. The frozen description's shorter wording is retained verbatim only for exact lineage; it must not replace the actual two-part condition. BothH034 andH165 clarifications leave every canonical table cell, coordinate, class and count unchanged. The full192-row AppendixA in the V13 deep reading preserves the source-first descriptions, actual intervals, both original fine codes, conservative grouping and separate context flags.
+
+
+# V14 Update
+
+Source: admitted principal MAIN-14 only, all-body native paragraph locators. This append preserves all earlier ledger text and protected Gen04 originals. See V14 reading for full source identity, coverage, comparative provenance and qualifications.
+
+## Comic mechanisms and evidential force
+
+V14 repeatedly makes one practical or social meaning masquerade as another: a refuge is a friendship mission, a public performance is a heroic trial, a harmless door is a trap, equipment fit prevents the equipped skill, a hidden feat becomes proof to Yunyun and the present party in renewed rivalry, and an apparent saint is a disguised officer. These are different mechanisms rather than one universal reversal. Correct information can be rejected because its speaker has earned an unreliable reputation, and literally true statements can be engineered to imply a false event.
+
+| ID / source | Mechanism and changing roles | Evidential force |
+|---|---|---|
+| HM-V14-01 Pr P0003–0013;C1P0047–0100 | Preparatory heroism becomes fist retaliation and competition for desirable credit. Darkness, Aqua and Kazuma exchange corrector, target and performer. | H1 for motives/choices; H2 for aggressive reaction intensity. Her childhood motive is not erased by sexual framing. |
+| HM-V14-02 C1P0114–0154;C2P0055–0089 | Dangerous plant is an individual child; civic extermination becomes a care failure, while Yunyun’s coexistence policy admits a wish for friends. | H1 care, ownership and policy statements; H2 amplified instant surrender. Final planting remains reported at a different site. |
+| HM-V14-03 C1P0159–0242 | Tourism performs magical mystery around clothes, curry, pottery and laundry; genuine specialist aid traps the performer in her own fiction. | H1 for staged hospitality and knowingly prolonged harassment. Fantasy magic is literal in this world, not automatic H4. |
+| HM-V14-04 C1P0244–0325;C2P0230–0300 | Child gifts defeat sisterly pride; debt and room allocation expose parental priorities; euphemism and Sleep turn matchmaking into coercion. | H1 for objections and chosen acts. H2 for exaggerated threat/anger, with actual consent boundaries retained. |
+| HM-V14-05 C1P0331–0418;C3P0058–0066 | Adult-sign promise fails; gossip manufactures romance; a divine artifact’s heroic departure conceals a harassment holiday. | H1 epistemic and incentive structure. The raw 最高/最硬 reading pair and named sign remain explicit form-attention evidence. |
+| HM-V14-06 C2P0006–0049,0133–0186 | Repeated jail routine makes a real protective warning initially incredible. False belief is understandable without becoming true. | H1 sequence and mixed responsibility; collateral displacement remains real, gravity/knowledge uncertain. |
+| HM-V14-07 C2P0280–0380;C3P0240–0286 | The pursuer becomes alarmed by an actual offer; joking physiology meets genuine comfort and reciprocal defense. | H1 stated attraction/limits; H2 verbal/reaction magnitude. An interrupted offer is not a completed act. |
+| HM-V14-08 C2P0484–0556 | Earth convenience becomes a native death trap; a forbidden racial-origin drama ends as a third prize in a toy machine. | H1 knowledge asymmetry and evidence erasure. Cultural/product/name layers require their own flag, not an automatic language class. |
+| HM-V14-09 C3P0006–0040,0201–0212 | An adequate protector is defeated by a different kind of humiliation; the next volunteer trains for yesterday’s challenge. | H1 meaning-specific distress; H2 relentless trial humiliation. Actual public shame differs from chosen bodily danger. |
+| HM-V14-10 C3P0079–0196 | Ordinary date scenery becomes military practice; mutual romance argument is interrupted by its neglected third party; professional authorship loses to a shared NEET insult. | H1 role negotiation, reports and retaliation. Labels and nicknames remain in the full verbal census. |
+| HM-V14-11 I13P0049–0085;C4P0008–0012 | Ideal armor prevents casting; friendship wording and a treasured weapon delay fighting; a heartfelt introduction is punctured by ongoing biting. | H1 access failure and priorities; H2 timing/amplification. Genuine gratitude survives the interruption. |
+| HM-V14-12 C4P0149–0306 | Drunken heroic performance contains real skill, then its ice-sword finale fails and retreat becomes self-described mercy. | H1 tactics and learning; H2 swagger and reaction magnitude. Praise does not validate the finishing tool. |
+| HM-V14-13 C4P0384–0469 | Anti-machine theft returns underwear; underwear unexpectedly works as a guard, then fails against another attack; stylish dialogue is interrupted by injury and vomiting. | H1 local rule exploitation, resources and harms. Harassment is not removed by the cleverness of its later use. |
+| HM-V14-14 C4P0503–0596,0646–0681 | Secret achievement becomes false frustration, eye-color bluff meets true intimate disclosure, final concession becomes romantic triumph, and return immediately restores withheld proof. | H1 information control and attachment; H2 display intensity. Do not convert denial or narrator inference into observed pet killing or literal lie-detecting eyes. |
+| HM-V14-15 FP0094–0259 | Moral priesthood defeats a goddess in argument and performance; the ignored miracle attracts food interest, while the loyal supporter defects for reward. | H1 actual submission, magic results and public choices; cause of cemetery failure remains open. |
+| HM-V14-16 FP0293–0381 | Tiny requested wound becomes performed mortal peril; reasonable queue correction is obeyed before sabotage; beauty claim becomes invoices and collective retaliation. | H1 deliberate tactics, real wound and apology; H2 feigned severity/funeral grandeur. Recipient resistance is inferred, the persistent wound observed. |
+| HM-V14-17 Ep P0015–0126 | Desired tragic fantasy meets common-name misidentification and inconvenient colleagues; a helpful product becomes harmful, and discretion becomes a coercive sale. | H1 information, extortion and mask change. The tragedy remains a claim, not established world history; medical effect is described rather than experimentally observed. |
+
+### Complete source-first census and bounded comparison
+
+Both original uncoded discoveries were sealed before boundary exchange; root fixed the shared 154 whole-premise units before separate formal assignments and released complete code exchange only after both assignment seals. The complete appendix preserves both initial fine codes and rationales, lineage, source bounds, all eight scoped soft flags, current versus initial decisions and external source corrections. Root’s current accepted coarse grouping is 151 clear L0–L2 and three unresolved units (U028/U040/U082), with a descriptive primary-portability bound of 151–154 / 154. These are census bounds, not a statistical confidence interval or a claim that nested Japanese form transfers without adaptation. L1/L2 still require attention to phrasing and social stance.
+
+The initial comparison remains 150 clear/four mixed and 109 exact fine matches/45 differences. U052 now has an explicit post-seal, postcomparison source reassessment: actual C2P0325–0338 has clipped replies and bodily euphemism, whereas the original repeated-negative claim belongs to U081 C3P0243–0244. Producer original MIXED_UNRESOLVED and independent original L2 remain intact; the later producer L1/current clear acceptance is not initial agreement or a negotiated shared fine code. Removing all eight soft-touched union units as a broad sensitivity analysis leaves 143 clear plus three unresolved / 146; primary eligibility and all boundaries remain unchanged. Full detail follows in the independently prepared report and appendix.
+
+H1–H4 is not L0–L3. Source-world spells, armor effects and bodily harms remain actual within the fiction even when the genre exaggerates them. H2 limits transfer of intensity rather than erasing the action. H3 is appropriate where a one-off rhetorical device has little independent power to establish a durable trait. No broad H4 claim is needed merely because a scene uses supernatural mechanics.
+
+## MAIN-14 conservative humor census report
+
+The **current root-accepted result is 151 clear L0–L2 units and three mixed/unresolved units**, U028/U040/U082. The descriptive conservative portable-primary bound is **151–154 / 154 (98.1–100%)**. It counts 151 currently clear units below and allows the three unresolved units to resolve as portable above. There is no paired clear L3 unit. This bound describes the frozen census, not a confidence interval or all KonoSuba humor. It does not establish lossless transfer of every nested Japanese-form joke.
+
+The **initial sealed assignment comparison** was **150 clear/four mixed** (U028/U040/U052/U082), or **150–154 / 154 (97.4–100%)**. Root accepted an explicit postcomparison source correction at 2026-10-17T02:44:14.938387Z: the producer’s U052 mixed rationale had migrated repeated-negative morphology from U081 C3P0243–0244. Actual U052 C2P0325–0338 has clipped replies and 息子さん euphemism. Producer retrospectively reassessed L1/clear; independent original L2 remains unchanged and distinct. Root accepted only the current coarse clear group. This is attributable source correction, not a rewritten initial assignment, negotiated fine consensus or newly discovered initial agreement. All boundaries, original soft scopes and original code bytes remain exact.
+
+**Initial fine-code comparison:** 109 exact matches and 45 differences out of 154 (70.8% literal initial matches). Of the 45 differences, 42 stay within L0–L2; three cross the normalized portable/unresolved scoring groups: U040, U052 and U082. U028 is mixed in both assignments. Primary group string CLEAR_L0_L2 and independent CLEAR_PORTABLE_L0_L2 are equivalent labels, not a substantive difference. This comparison is after source/uncoded-boundary exchange and shared pre-code factual notes, before any negotiated fine-class resolution. It is an annotation-agreement description, not accuracy, human reliability, a blind experiment or a kappa estimate.
+
+| Unit mixed in initial comparison | Source | P initial | I initial | Current status and retained issue |
+|---|---|---|---|---|
+| U028 | C1P0376–0385 | MIXED_UNRESOLVED | MIXED_UNRESOLVED | 最高/最硬 share the explicitly annotated readingさいこう. Both retain unresolved weight of this form flourish within the portable armor reunion/self-advertisement. |
+| U040 | C2P0143–0186 | L1 | MIXED_UNRESOLVED | Absurd monster naming, もぐにんにん/もがにんにん variation and the credibility exchange: initial readers disagree about primary form weight. |
+| U052 | C2P0325–0338 | MIXED_UNRESOLVED | L2 | Current clear after root-accepted retrospective source correction: producer postcomparison L1; independent original L2 remains distinct. The initial producer rationale wrongly imports U081 repeated-negative morphology. |
+| U082 | C3P0268–0286 | MIXED_UNRESOLVED | L1 | 雑魚マ/ザコマ naming within consolation, protective reputation damage and reciprocal retaliation: initial readers disagree about primary form weight. |
+
+Other nested Japanese-form cases remain visible in the full appendix, including C3 repeated negatives in U081 and the first-meeting/reunion hybrid in U153. Retaining a whole unit as L0–L2 does not erase those local form jokes; it reflects the primary whole-premise assignment only. Conversely, the three currently unresolved units are not forced into L3 simply because a form feature exists.
+
+**Eligibility sensitivity:** keep all eight originally flagged units in the primary 154: U002, U036, U096, U115, U118, U124, U127, U130. If every whole union unit touched by any original soft flag is removed—an intentionally broad, source-first sensitivity rule—the current denominator is 146 with 143 clear and 3 unresolved: **143–146 / 146 (97.9–100%)**. Initial sealed-comparison sensitivity remains 142 clear/four mixed, **142–146 / 146 (97.3–100%)**. No initially or currently unresolved unit is among the eight removed. This removal rule over-removes larger unions where only an original subinterval was soft; it is not the discovery denominator and not an outcome-selected exclusion. The full appendix preserves exact original soft scopes.
+
+| Unit | Fixed count |
+|---|---:|
+| Pr | 2 |
+| C1 | 29 |
+| C2 | 33 |
+| C3 | 25 |
+| I13 | 6 |
+| C4 | 37 |
+| F | 17 |
+| Ep | 5 |
+
+All 154 native interval hashes and disjoint bounds were independently rechecked against approved source derivatives; both joined original records equal their sealed assignment records. Full principal source coverage precedes the census; the count is not generated from selected excerpts. The union preserves 314 original lineages and the one nested independent annotation without double-counting its premise. The prior discovery seals, fixed-union hash, initial-assignment hashes, exact paired classes, all 45 differences and external source corrections are in `VERIFIED_JOINED_L_REGISTER.json`.
+
+External factual corrections affect interpretation rather than rewriting the frozen initial assignments: the C2P0089 seedling reaches toward Aqua (U036); intent behind Yunyun’s displacement is unshown (U039); the repeated negatives cited for U052 are actually in U081 C3P0243–0244, addressed by the explicit accepted reassessment above; C4P0283 mercy/victory talk is prior U108, not in U109; U109 P0293 has name overlap, whereas explicit ニンニン319/ninja inference 323 is later U111, making any U109 ninja linkage contextual/retrospective; FP0348 resistance is Kazuma’s hedged inference (U148), while the small wound and later self-healing are shown. Initial rationales are retained visibly as initial records and are not reused as unqualified factual assertions.
+
+This supports the limited claim that primary premise-level humor in this volume is overwhelmingly describable through situation, phrasing/timing or pragmatic stance under the stated protocol. It does not establish lossless translation, audience reception, acoustic performance, causality, cultural familiarity independence or universal series portability. A claim that the three remaining mixed cases are settled, that only fine scores differed, or that the two readers were human/fully blind would exceed this record. Gen04 J02’s pooled V13–V15 forecast remains open pending V15; this local descriptive result does not adjudicate that tranche.

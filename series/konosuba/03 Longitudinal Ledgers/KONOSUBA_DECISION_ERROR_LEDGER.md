@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V13
+scope: V01-V14
 ledger_role: decision_error
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V13 main narrative
+source_boundary: Japanese main-series light novels through V14 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Decision and Error Ledger — Through V13
+# KONOSUBA Decision and Error Ledger — Through V14
 
 ## Purpose
 
@@ -1048,3 +1048,38 @@ Complete ordered Japanese V13 principal main narrative only: Pr/C1–C4/F/Ep = `
 Repeated failure here is not one failure to understand. Kazuma correctly predicts some companions and manipulates gratitude but can still mistake price for taste, romantic intention for battle intention, or a useful tool for a safe system. Megumin knows why a trial partner needs repeatability and deliberately designs a staff-surrender restraint, yet retrieves it under frustration; the failure is partly regulation and partly an academic gap she reports, rather than absence of all intelligence. Aqua knows a relevant gardening exception, creates precise artifacts and can instantaneously purify the final opponent, while the same capacity enables privacy violations, intimidation and badly selected targets.
 
 Information control also has several forms. Wiz adds flattering meanings and resists correction; distant observers overread accurate lip movements and visual enthusiasm; Duke invents a mastermind; Vanir deliberately withholds the beneficiary that makes his prediction true. Preserving who knows, reports, infers or manipulates each fact is necessary to explain the plot. A later revelation must not be backdated into a character's available information, and root's formal forecast adjudications remain separate from these source-bound causal rows.
+
+
+# V14 Update
+
+Source: admitted principal MAIN-14 only, all-body native paragraph locators. This append preserves all earlier ledger text and protected Gen04 originals. See V14 reading for full source identity, coverage, comparative provenance and qualifications.
+
+## Causal decisions and error mechanisms
+
+| ID / actor / source | Stimulus → appraisal/goal → choice → result | Mechanism and limit |
+|---|---|---|
+| DE-V14-01 Kazuma C1P0047–0096 | Fame seems to invite challengers → leave until attention cools → perform a dangerous friendship errand; beautiful admirer disclosure → finish urgently with impressive story. | Reward changes the selected timetable and presentation. Actual help and self-interest coexist. |
+| DE-V14-02 Darkness C1P0025,0097–0100 | Paired trial resembles beloved childhood legend → seek meaningful protective role → compete with Kazuma. | Authentic aspiration plus pleasure, not narrator’s exclusive sexual motive. |
+| DE-V14-03 Aqua/Darkness/Kazuma C1P0114–0135 | Dangerous seedling receives care and smiles → concrete affection outranks removal → propose remote replanting. | Salient individual/ownership inhibits abstract civic protection; plan not yet implemented. |
+| DE-V14-04 Kazuma/Aqua C1P0195–0224 | Fake demon spectacle → Aqua sincerely offers help; Kazuma learns fiction → prolong harassment → Yunyun intervenes; privacy retaliation → apology promise. | Different knowledge states; external stopping and self-preserving revision. |
+| DE-V14-05 Kazuma C1P0331–0356 | Erotic sign plus known relationship → invent no-count drinking exception → enter → ordinary male bar. | Anticipatory rationalization and embarrassment-driven continued spending; not proof of completed sexual misconduct there. |
+| DE-V14-06 Megumin C2P0025–0049 | Repeated arrests/repair delay → normalize own conduct and blame repairers → demand inclusion. | Chosen rule resistance, not ignorance that she caused the damage. |
+| DE-V14-07 Yunyun C2P0094–0121 | Real shared journey/party recognition → overprepare and take threats herself → effective repeated magic. | Rewarded belonging amplifies effort; reserve mana and scouting are genuine competence. |
+| DE-V14-08 Megumin C2P0133–0186 | Imminent detected threat → sudden unchanted fire → Yunyun displaced and monster account disbelieved. | Protective reason and collateral coexist; gravity/knowledge not established for the full grave-harm test. |
+| DE-V14-09 Kazuma/Yuiyui/Darkness C2P0248–0300 | Parent incapacitates daughter → Kazuma refuses sexual tampering; Darkness interposes → contested spell resistance; later Kazuma steals bra and stages false implications. | Partial restraint does not establish consent-reliable conduct; protective intent and chosen challenge are separate. |
+| DE-V14-10 Megumin/Kazuma C2P0306–0380 | Mutual attraction plus parental-house constraint → nervous offer/argument → no completed help before explosion. | Anticipation, fear and explicit setting objection; interruption is an event, curse remains hypothesis. |
+| DE-V14-11 Kazuma/Megumin C2P0403–0466 | Habitual blast suspicion → Kazuma fails to use the known shared alibi and joins the accusation → correction; trial cancellation threat → Megumin accepts false guilt. | Attention or reputation bias is a hypothesis; actual memory loss is not shown. Purposeful reputational self-cost protects the friend’s route. |
+| DE-V14-12 Megumin C2P0507–0556 | Unfamiliar technology → traps and forbidden origin → contrary signs → erase prize evidence. | Knowledge asymmetry and identity protection; modification right differs from literal capsule ancestry. |
+| DE-V14-13 Darkness/Aqua C3P0006–0037,0201–0212 | Heroic expectations meet posing; obsolete preparation meets luck challenge. | Domain/task-fit mismatch, meaning-specific shame and inadequate task information. |
+| DE-V14-14 Megumin/companions C3P0138–0163,0277–0286 | Joke-magician label → attack and group rescue → bruises; reciprocal defense later justifies protecting Kazuma. | Identity defense and reciprocity, with actual social/physical costs and hypothetical future reprisals. |
+| DE-V14-15 Kazuma/Aigis/Yunyun C3P0367–0403;I13P0058–0071;C4P0008–0012 | Perfect defense seems sufficient → wearer cannot cast → recognized mismatch, proposed exit/reset → adjusted survival. | Component fit excludes outbound ability; friendship cue and treasured dagger add deployment interference. |
+| DE-V14-16 Kazuma C4P0149–0287 | Alcohol plus support goal → bold hunt and clever trap → poor terminal ice tool → retreat relabelled victory. | Real skill plus overconfidence, inadequate weapon/finishing model and self-exoneration. |
+| DE-V14-17 Kazuma/Megumin C4P0329–0463 | Sobriety/illness → inadequate simple attack plan → stealth failure, missed theft and spent wire → injury; racial protection → protected repeated theft. | Revision follows new constraints; material resources, targeting and partner initiative matter. |
+| DE-V14-18 Megumin/Yunyun C4P0503–0596 | Concealed victory and impending separation → bluff/proof refusal → romance superiority performance. | Real attachment coexists with status tactics; Kazuma exploits audience-inhibited objection. |
+| DE-V14-19 Yunyun/Megumin C4P0646–0681 | Completed goal threatens valued life → choose return and greater aim → concealed welcome becomes explicit and rivalry resumes. | Goal revision and withheld opportunity information, not a simple preference for office or fame. |
+| DE-V14-20 Aqua/Kazuma FP0165–0215 | Familiar lure/purification expected → no attraction and failed cast → flight attempt and external rescue. | Actual failed result; target identity/cause unresolved. No post-hoc automatic ability excuse. |
+| DE-V14-21 Aqua FP0293–0368 | Rival popularity → tiny wound to create an accusation → queue correction accepted → Serena’s ineffective healing casts on Aqua lead Kazuma to infer deliberate resistance. | Moral comprehension, observed wound and feigned severity are distinct from the inferred private healing-resistance mechanism. |
+| DE-V14-22 Kazuma/Seresdina Ep P0015–0083 | Conventional tragedy and ancestry flattery → delight but inquiry → common-name correction and mission refusal → colleague discloses identity. | Susceptibility to desired story with active skepticism; story’s detailed truth remains unverified. |
+| DE-V14-23 Vanir/Seresdina Ep P0096–0126 | Product conceals harmful size-based consequence → attempted return → confidentiality threat → extortionate purchase. | Pragmatic coercion, mixed knowledge and exact wallet exploitation; no observed use of item. |
+
+The shared error is not global stupidity. It is often a usable capacity placed inside a distorted problem: protective armor that blocks magic, a binding with no finishing weapon, accurate technology recognition exploited to erase history, a healing recipient whose resistance Kazuma infers, or a familiar success rule applied to anomalous targets. A claim of learning must name the actual revision; disappearance of the immediate problem does not prove durable correction.

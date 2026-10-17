@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V13
+scope: V01-V14
 ledger_role: relationship_state
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V13 main narrative
+source_boundary: Japanese main-series light novels through V14 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Relationship State Ledger — Through V13
+# KONOSUBA Relationship State Ledger — Through V14
 
 ## Purpose
 
@@ -657,3 +657,31 @@ The volume repeatedly distinguishes a relationship from the flattering story a p
 Care is correspondingly specific. Kazuma makes bathing easier for an exhausted Aqua, Aqua offers vegetables and reassurance to Wiz; the completed produce handoff is unshown, Vanir answers Wiz's fear with a bounded friendship promise, and Wiz acts decisively when Axel is threatened. Those actions differ in burden, motive and reliability. The same actors can intimidate a demon, neglect a plea, manipulate a friend or enjoy another's distress elsewhere. A dyadic model should therefore retain both the repair and the breach, with its trigger and target, rather than infer a stable global kindness ranking.
 
 The V12 intermediate relation and unresolved triangle are the entering baseline. V13 adds possessive speech, repeated boundary testing and a question about possible future children, without supplying a jointly negotiated final romantic settlement. No later main volume or side-story explanation is admitted here.
+
+
+# V14 Update
+
+Source: admitted principal MAIN-14 only, all-body native paragraph locators. This append preserves all earlier ledger text and protected Gen04 originals. See V14 reading for full source identity, coverage, comparative provenance and qualifications.
+
+## Dyadic and ensemble states
+
+| ID / relationship | Observed script and change | Boundary and source |
+|---|---|---|
+| RS-V14-01 Kazuma–Megumin | Mutual attachment includes ordinary company, embarrassment, explicit attraction and personal support. She distinguishes wanting him from accepting a mother-imposed scenario. | C2P0302–0380;C3P0240–0318. No completed intimate assistance is shown; it is interrupted. |
+| RS-V14-02 Kazuma–Megumin | His private goal is to help close the rival gap; her body shields his real vulnerability, then magic finishes the task. Both contribute. | C4P0135–0141,0298–0307,0426–0484. His drinking, theft and risk remain costs; private support is not ethical acquittal. |
+| RS-V14-03 Kazuma–Megumin | He steals a sleeping girl’s bra after declining more extensive tampering, then later exploits lap-pillow display before a rival. | C2P0253,0285–0300;C4P0585–0596. Separate explicit refusal, imposed act, later consensual closeness and unwelcomed extension. |
+| RS-V14-04 Kazuma–Darkness | Date longing, a genuine rescue history and retained attraction meet his denial of responsibility for her feelings. He welcomes being admired while criticizing her taste. | C3P0079–0126. Darkness’s affection is explicit; Kazuma accepts the date and retains attraction, without a new reciprocal love declaration or settled romantic agreement. |
+| RS-V14-05 Megumin–Darkness | Consent protection and reciprocal physical assistance coexist with jealous exclusion and disclosure of an embarrassing night. | C2P0254–0268,0468–0480;C3P0213–0229. Yuiyui’s final incapacitating method remains unshown. |
+| RS-V14-06 Kazuma–Aqua | Accurate motive detection, insults and physical retaliation coexist with concrete bath/food repair after a humiliating trial. | C1P0054–0057;C3P0201–0212;FP0293–0312,0357–0368. Requested tiny cut differs from later head strike; no blanket permission for pain. |
+| RS-V14-07 Aqua–Megumin | Attachment to plant and child diversion give useful companionship; Aqua publicly exposes hidden affect, and Megumin threatens the plant in retaliation. | C1P0306–0309;C4P0655–0659. Threat is not an executed uprooting. |
+| RS-V14-08 Megumin–Yunyun | Protects trial eligibility through false guilt and custody, but conceals information about available Axel friends and uses loneliness against her. | C2P0435–0466;C3P0326–0333;C4P0577–0596,0660–0663. Support, paternalism and cruelty share one relation. |
+| RS-V14-09 Megumin–Yunyun | Success appears to demand farewell; Yunyun chooses return and a greater goal, which restores open rivalry and permits release of private proof. | C4P0561–0584,0646–0681. Her declared choice is direct; parental approval and actual future victory are not shown. |
+| RS-V14-10 Yunyun–party | Preparation, effective magic and transport coexist with anxiety and delight at inclusion. | C1P0140–0155;C2P0094–0139;C4P0008–0012. First-ever-party is narrator attribution; the planting mission itself fails. |
+| RS-V14-11 Yunyun–Aigis | Protective shelter enables survival but suppresses casting; friend language becomes valuable enough to distract from a bear. | I13P0022,0049–0071;C4P0008–0012. Defensive usefulness does not legitimize innuendo or make the artifact an equivalent human companion. |
+| RS-V14-12 Darkness–civic/protector role | Defends sleeping Megumin’s consent and physically restrains a grave-destroying cast on her own initiative. | C2P0254–0266;FP0168–0176. Costly contribution does not prove every outcome was prevented or every motive pure. |
+| RS-V14-13 Aqua–public adventurers | Familiar trust and past resurrection are real, yet free service and reward generosity rapidly change public allegiance. | FP0123–0130,0242–0259. Dust’s stated loyalty is followed by an observable reversal; universal community abandonment is not shown. |
+| RS-V14-14 Aqua–Serena | Rivalry moves from moral defeat to apparent recipient-healing sabotage, inferred by Kazuma, and threatened collective retaliation. Aqua can accept a correct rebuke before choosing another dishonest tactic. | FP0108–0118,0329–0381. Actual useful service and deceptive identity are both possible; no categorical sainthood or uselessness ranking. |
+| RS-V14-15 Kazuma–Serena/Seresdina | Flattery, suspicion and a desired fantasy story compete. He rejects recruitment and mission, then learns the concealed officer identity. | FP0039–0090;Ep P0015–0083. Suspicion does not prove prior knowledge of exact identity or all mechanisms. |
+| RS-V14-16 Wiz–Seresdina–Vanir | Familiar recognition defeats the refined alias; healing becomes an attack, then Vanir converts concealment into a coerced purchase. | Ep P0052–0126. Wiz’s recognition and Vanir’s manipulation are different causes. His commercial discretion is a threat contingent on purchase. |
+
+The household’s continuity is enacted through particular help, food, transport, ordinary intimacy and repeated repair. It is not a permanent harmony claim. Megumin’s future separation from Yunyun is a genuine attachment problem outside the exact core-home efficiency test; Serena’s addition would duplicate a role but does not explicitly require expelling Aqua. Keep these nearby but incomplete tests distinct from the frozen E02 conjunction.
