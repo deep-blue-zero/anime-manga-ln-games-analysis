@@ -668,3 +668,12 @@ Concrete ordinary values coexist with serious contributions. One costly choice d
 | OL-V17-14 Darkness: ordinary political pressure | Ep33 reports new land and marriage approaches/refusal. | Eris34/35 names K-related affection; no new reciprocal K commitment. | H1 attributed report, MODERATE generalization. PRESERVE civic identity/particular preference, OPEN final settlement. |
 | OL-V17-15 Eris: work and friendship limit | Ep17 returning to work difficult;23 public form/limited observation. | Refuses frequent refuge59 yet chooses blessing82–90. | H1/HIGH actual boundary and favor. No cumulative-overload fit or general unwillingness to help; external prep-referent error retained. |
 | OL-V17-16 Yunyun: wanted ordinary future | C3P477 wants to survive for promised meal; FP731–759 finite transport calculation. | Practical care and ordinary social stake coexist. | H1/HIGH statement/acts. PRESERVE OL-V16-15 bounded company, not timeless total friendlessness. |
+
+
+## Reconstruction-stage source-precision qualification — CR-MAIN-007
+
+**Record OL-R1-Q001 — REVISE age precision; PRESERVE supported companionship mechanism.**
+
+V03-OL-012 retains the reported prayer for companions and joy at gaining a friend. Its childhood age component is unsupported by the cited account and must not inherit the entry's HIGH confidence. The supported companionship preference and the unspecified timing are separate claims.
+
+The earlier V03 account does not establish childhood timing. MAIN03 `item/xhtml/p-008.xhtml` P116–153 witnesses current identity disclosure/peer acknowledgment; separate `item/xhtml/p-011.xhtml` P22–66, especially28/33/35, gives the father's earlier-history report. Solitude after becoming a Crusader is reported, with age unspecified. Upbringing context does not date that sequence, and Kazuma's37–39 gloss is not a verified causal diagnosis. See [CR-MAIN-007](../08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md#cr-main-007--leave-the-age-of-the-earlier-companionship-history-unestablished) for native/member identities, counterreading, actual bounded83/260-slot scopes and preserved judgments. This is MAIN_PRINCIPAL_RECHECK_PRE_HOLDOUT_R1 evidence, not a new prospective main volume, holdout finding or expanded-source insertion. Original V03 events and all frozen fields remain unchanged. The CP06 freeze's exact earlier ledger identity remains retrievable from published39b; this additive current qualification has its own later identity.

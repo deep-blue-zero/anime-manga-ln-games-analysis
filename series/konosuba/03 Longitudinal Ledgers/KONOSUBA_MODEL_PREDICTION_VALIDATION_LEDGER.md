@@ -7615,3 +7615,12 @@ No full new conflict; ≥2 unconstrained-wish opposites are unexposed. NT is not
 **Proposed claim transition and confidence:**
 
 PRESERVE historical wish–duty account; OPEN current transfer and final relationship state.
+
+
+## Reconstruction-stage source-precision qualification — CR-MAIN-007
+
+**Record PV-R1-Q001 — REVISE age precision; PRESERVE supported companionship mechanism.**
+
+The older V03 evidence-basis line naming childhood loneliness receives an age qualification only. It supplies reported earlier loneliness and current peer-identity evidence, not a known childhood onset. No old forecast text, trigger, threshold, counterpart, disconfirming condition, blank field, local result or formal adjudication is changed or retrospectively re-scored.
+
+The earlier V03 account does not establish childhood timing. MAIN03 `item/xhtml/p-008.xhtml` P116–153 witnesses current identity disclosure/peer acknowledgment; separate `item/xhtml/p-011.xhtml` P22–66, especially28/33/35, gives the father's earlier-history report. Solitude after becoming a Crusader is reported, with age unspecified. Upbringing context does not date that sequence, and Kazuma's37–39 gloss is not a verified causal diagnosis. See [CR-MAIN-007](../08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md#cr-main-007--leave-the-age-of-the-earlier-companionship-history-unestablished) for native/member identities, counterreading, actual bounded83/260-slot scopes and preserved judgments. This is MAIN_PRINCIPAL_RECHECK_PRE_HOLDOUT_R1 evidence, not a new prospective main volume, holdout finding or expanded-source insertion. Original V03 events and all frozen fields remain unchanged. The CP06 freeze's exact earlier ledger identity remains retrievable from published39b; this additive current qualification has its own later identity.
