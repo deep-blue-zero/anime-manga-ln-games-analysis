@@ -5,10 +5,10 @@ artifact_type: analytical_execution_receipt
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.3'
+version: '0.4'
 status: active_provisional
 scope: Full remaining original-novel sequential reading; specialists, reconstruction and comparison separately gated
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U004 through spine 12, exclusive before HAR-U005
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U005 through spine 13, exclusive before HAR-U006
 canonical_home: series/harmony/07 Audits and Handoffs/HARMONY_CONTINUATION_RUN_2026-10-16.md
 created: '2026-10-16'
 review_status: OWNER_REVIEWED_PILOT_AND_AUTHORIZED_CONTINUATION
@@ -105,8 +105,10 @@ This rolling index records already executed prior-unit proofs only. Source/final
 
 | Unit / frozen reading SHA-256 | Private retained source bundle ID / SHA-256 | Authored source / final accepted stable head | Source / housekeeping / final audit run IDs | Integration / explicit post-main |
 | --- | --- | --- | --- | --- |
+| HAR-U001 / `1fc5fb04abc2d4808d7f273984fa96aba676654972913471e20f0a63ecd7aa8a` | `1VBbeQIB4cUR8kugtw3Wen7K3JLhRdocw` / `7dbffbca8f7ccf024c77f2e6306654be17fa7ca1dbc25112a239764e97846ac9` | `5eced962251a29ab1015d90651847fa7be622b05` / same | 38973695314 /38974254224(no-op)/38974296470; actual5ece/full352/0/0/0 | main `1fd0407780771323f4fc62d37c3be96d8afbdc7d`;38976750315 SUCCESS/full352/0/0/0 |
 | HAR-U002 / `4c82895565c445604d5204d58099e55ed879e014e34a8c3c42fe86ea9b6bad54` | `1_WPObKLgFOprqr5zpWaNlDqAqJmfqHP7` / `4370a19945884a546487dd23af7c614fb792b84ad7ba6eb6e07d8c09344a70e2` | `81cd8f6e6dd64d7a860f62c04ede3f1e20f4be29` / same | 38979107234 /38979617496(no-op)/38979652264; actual81cd8f6e/full352/0/0/0 | main `3caff8b0625f63ab073285c9841639248a946c50`;38979976129 SUCCESS/full352/0/0/0 |
 | HAR-U003 / `8cf26bcd5ebce15777d0c8a47a1244a9dbda801fd9aef5ce9ec488a19057d7a7` | `1IV9Yay1GuJ5bXWlQMRPJChqdzzCmIFL6` / `bffb10a248b392c7f02dc882582652189284f42eecc596372c63cc81bc725e40` | `ea20bc236809bd99496f57bc4ec4865db84d7a61` / `a19c5e0f660b474e315da13b1a90129e04082fb6` | 38981877316 /38982354639(no-op)/38982388744; actuala19c/full352/0/0/0 | PENDING / PENDING |
+| HAR-U004 / `e2784d2f216e5d8ed1390950dd9e3208f0cdf9c1845eafeb4c513c1eda0cd250` | `1gI8P9xOwF6AK2Nb-ougj-sPqm53CRcnS` / `2f5ddffd2994b91aab5b371e676782a9ea9d03662e72111b6afdc17e92f3121b` | `8f648d41ea651c4aa9fd9cebf04997667c009317` / same | 38984021670 /38984375356(no-op)/38984405656; actual8f/full352/0/0/0 | PENDING / PENDING |
 
 
 ## HAR-U004 private verification retention
@@ -117,3 +119,27 @@ The designated metadata-only custodian retained `HAR-U004_PRIVATE_SOURCE_VERIFIC
 ### HAR-U004 prepublication editorial reseal
 
 Before HAR-U005 exposure or any HAR-U004 ref publication, final readback corrected word spacing in eight evidence labels and pre-exit runtime phrases. The initial sealed reading `2e4fd87d97b4f635e19af611e273b1f64453fb4331238ae396a3e080937f7fd7`, interim spacing candidate `fd4f6a817d3a9f7fc30d0d6d988feaa45792f98370d8882aa22bced40774c814` and final resealed reading `e2784d2f216e5d8ed1390950dd9e3208f0cdf9c1845eafeb4c513c1eda0cd250` are preserved privately with attributable timestamps. The entire original literary exit section and original private entry/exit records are byte-identical to the initial seal; no source, claim, prediction or knowledge state changed. The faithful-source bundle's gate names the entry/current-member hashes and counts, not a whole-reading hash, so its retained objects remain exact without duplicate upload. Final index preflight and publication apply to the final reseal only.
+
+
+## HAR-U004 validated publication and continuing ownership
+
+Final resealed reading `e2784d2f216e5d8ed1390950dd9e3208f0cdf9c1845eafeb4c513c1eda0cd250` was published as source `8f648d41ea651c4aa9fd9cebf04997667c009317`, tree `054c81f2cb46fe38f3855a34e70479059c781db7`, direct parent accepted a19c. Exact nine changed files/full remote contents and approved identity/fresh heads/rules/nonforce CAS match the reviewed final index; final author preflight PASS7932. Source38984021670(audit117251171624/reporter117252239059), no-opHK38984375356/job117252289568 and final38984405656(audit117252389946/reporter117253372897) all SUCCESS, actualAUDIT_COMMIT8f, requestedshadow/executedfull,selection_enabled=false,352tests/0failures/0errors/0skips. Exact status56572682047 SUCCESS targets final38984405656. The source author independently fetched completed source/HK/final/reporter logs, all run conclusions and exact status; metadata spotchecker independently confirms the same binding and all frozen1–4 Git blobs. No housekeeping child.
+
+Draft PR190 tracks the full continuous run on series/harmony and remains draft for the terminal reading checkpoint and root-controlled protected integration. No ordinary per-unit main pause applies. The same isolated source author continues under automatic compaction/canonical recovery; no successor was created or granted source exposure. Earlier readings, private entry/exit records and the explicit U004 prepublication reseal history remain intact.
+
+## HAR-U001 historical operational backfill
+
+The independent metadata monitor re-fetched the historical source/final workflow logs and immutable accepted/integrated blobs: accepted stable `5eced962251a29ab1015d90651847fa7be622b05`, tree `c5e949fd944447dfa318e8139da35de1813b496a`; source38973695314/audit117217889109/reporter117219700336, no-opHK38974254224/job117219758631, final38974296470/audit117219894666/reporter117221582319 all SUCCESS. Actual source/finalAUDIT_COMMIT5ece, full352/0/0/0,selectionfalse; exactstatus56567546353 targets final. Controller38976634601 merged_verified/VERIFIED_OWNER_ONLY integrated main `1fd0407780771323f4fc62d37c3be96d8afbdc7d`; explicit postmain38976750315/job117227912462 bound that main and passed full352/0/0/0.
+
+The original earlier candidate packet matches7/10 accepted entries; three metadata files differ. All ten compared accepted/integrated Git blobs match, including unchanged reading1fc5fb04. No whole-candidate-packet equality is claimed. Existing source-bundle/readback bytes and all23 internal manifest objects match; its DriveID is read from the canonical retention receipt, not from the older manifest that omits that ID. This backfill changes no historical files or source admission state.
+
+## HAR-U005 authored closeout — 2026-10-17
+
+Entry `7e178b7b8c911a112391dc7ef0f07d2cef47318cf797548874ea11f8747e8776` precedes every05 word after verified U004 fullgreen. Entire natural05 read:87blocks/4514rawcp/14ruby/86br, allthree actual panels and eight original selected locator/hash round trips. [HAR-U005](../01%20Sequential%20Readings/HAR-U005_PART_I_05_DEEP_READING.md) argues the shared office/color identity, Oscar's generational knowledge, monitoring information gap, partial publicity leverage, benevolence as penalty and unequal readings of the sanction. CL025–CL030 and a justified NO_PREDICTION; all3 ledgers close to10subjects/19actorrows/18relationIDs26historicalrows/21worldIDs/30claims/0predictions/2revisions;58evidence61spans. Known A-kun alias from already admitted U003-E004 re-retrieved before identity linkage; no earlier freeze revised.
+
+Author source/name/reference QA covers introduction, wine/identity, leverage/sanction, every Tuan–Oscar/A-kun direction and exit. Oscar's past consumption is not conflated with current secret drinking; her commitment/order are distinguished from later execution; offline explanation and magic taunt leave precise evasion undisclosed; Tuan's violent impulse stays unacted. A-kun designation remains SOURCE_REQUIRED_ANONYMITY, chief office JUSTIFIED_ROLE_REFERENCE, differing private/observed evaluations KNOWLEDGE_BOUNDARY_REQUIRED. Every quotation/ruby/form/locator is checked. Helper21 mechanical checks supplement author semantic/pixel review. Prior validated proofs append to the durable index in this receipt; current U005 CI outcomes are not asserted prospectively. Method/architecture receive frontier synchronization only; first-Part review remains due when actually reached.
+
+
+## HAR-U005 private verification retention
+
+The designated metadata-only custodian retained `HAR-U005_PRIVATE_SOURCE_VERIFICATION_20261017_V1.zip` as private Drive file `1xEl5fv72SA5V0fhRbTLqS0NODYkR6WI3`, canonical parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false. Full raw remote readback equals **1,711,824 bytes**, SHA-256 `39ea999cac425d959675bf3dd8504a59dd6d37beb5dda086d6eae418e668de49`; safe paths/CRC/exact15object membership and all object bytes/SHA PASS. Manifest SHA-256 `5cf493ab7a77ca09d9f12df0657a9bdda6b39190f7220174c494dc84511cc573`. Faithful current extraction, three actual panels, geometry/ruby/eight-locator proof/scripts/tool hashes and factual gate provenance only; interpretive descriptions/frontiers/future/originals/binaries/caches excluded. Original witness remains unchanged. Retention establishes persistence.

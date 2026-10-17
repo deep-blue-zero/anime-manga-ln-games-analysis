@@ -5,10 +5,10 @@ artifact_type: source_scope_map
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.5'
+version: '0.6'
 status: active_provisional
 scope: Source and scope / witness inventory
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U004 through spine 12, exclusive before text/part0006_split_005.html; later narrative unread
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U005 through spine 13, exclusive before text/part0006_split_006.html; later narrative unread
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -56,10 +56,10 @@ Before retention of the pilot verification bundles, direct folder retrieval retu
 | Package identifier | `B009DEMA1Q` plus package UUID identifiers; no verified edition ISBN in inspected metadata |
 | Transformation indications | Calibre metadata and split/generated packaging exist; exact acquisition and transformation lineage unverified |
 | Archive/package | Fresh ZIP CRC passes; container resolves `content.opf`; 44 declared manifest resources and all 40 spine occurrences resolve/parse; active CSS resolves; 39 absent alternate-stylesheet links are separately bounded below; no encryption manifest |
-| Text capability | Admitted units through HAR-U004 are legible Japanese; meaningful text/form round-trips through source XHTML, XML-aware extraction and faithful source-CSS rendering; prose beyond this frontier remains semantically uninspected |
+| Text capability | Admitted units through HAR-U005 are legible Japanese; meaningful text/form round-trips through source XHTML, XML-aware extraction and faithful source-CSS rendering; prose beyond this frontier remains semantically uninspected |
 | Pagination / CFI | No page-map member observed; edition-page mapping and stable CFI generation not verified. Use hash-bound member/DOM locators under the method |
-| Reading authority | `VERIFIED_WITNESS_THROUGH_HAR_U004`; exact transformed Japanese witness, incremental unit fidelity, unchanged lineage caveats |
-| Narrative state | `ADMITTED_THROUGH_HAR-U004`; opening/01 and entire02/03/04 fully read/closed; 50 evidence IDs / 53 spans; exclusive before 05 |
+| Reading authority | `VERIFIED_WITNESS_THROUGH_HAR_U005`; exact transformed Japanese witness, incremental unit fidelity, unchanged lineage caveats |
+| Narrative state | `ADMITTED_THROUGH_HAR-U005`; opening/01 and entire02/03/04/05 fully read/closed; 58 evidence IDs / 61 spans; exclusive before 06 |
 
 SHA-256 and ZIP integrity detect byte changes/corruption; they do not authenticate the edition or establish textual completeness. At bootstrap, mechanical parsing did not display narrative passages and human-readable inspection was limited to package metadata/navigation. The later pilot source audit is explicitly recorded below. No normalized narrative derivative is promoted or published.
 
@@ -116,8 +116,8 @@ Roles after the current admitted frontier remain **provisional** from package/na
 | 10 | `text/part0006_split_002.html` | Part I numbered 02 verified; READ/CLOSED in HAR-U002; full body 0–12192 |
 | 11 | `text/part0006_split_003.html` | Part I numbered 03 verified; READ/CLOSED in HAR-U003; full body0–11263 |
 | 12 | `text/part0006_split_004.html` | Part I numbered 04 verified; READ/CLOSED in HAR-U004; full body0–6287 |
-| 13 | `text/part0006_split_005.html` | Part I numbered 05 h2 only verified; body UNREAD; next frontier |
-| 14 | `text/part0006_split_006.html` | Part I numbered 06 from NCX; UNREAD |
+| 13 | `text/part0006_split_005.html` | Part I numbered 05 verified; READ/CLOSED in HAR-U005; full body0–4514 |
+| 14 | `text/part0006_split_006.html` | Part I numbered 06 h2 only verified; body UNREAD; next frontier |
 | 15 | `text/part0007.html` | Part II heading candidate; UNREAD |
 | 16 | `text/part0008_split_000.html` | Unnumbered Part II transition; UNREAD |
 | 17 | `text/part0008_split_001.html` | Part II numbered 01 from NCX; UNREAD |
@@ -200,3 +200,17 @@ All three ledgers close:8subjects/16historicalactor-state rows/14directionalrela
 ## HAR-U004 private verification retention
 
 The designated metadata-only custodian retained `HAR-U004_PRIVATE_SOURCE_VERIFICATION_20261016_V1.zip` as private Drive file `1gI8P9xOwF6AK2Nb-ougj-sPqm53CRcnS`, canonical parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false. Full raw remote readback matches **2,389,948 bytes**, SHA-256 `2f5ddffd2994b91aab5b371e676782a9ea9d03662e72111b6afdc17e92f3121b`; safe paths, ZIP CRC, exact16object membership and every object's size/hash PASS. Manifest SHA-256 `1df3a3c911b2f0f66e5a93fb92d3ae9eb185d66bd26fb81e34eaf09cbb2449a7`. Only current faithful extraction/four actual panels/geometry/ruby/tenlocatorproof/scripts/tool hashes/factual gate provenance are retained. Interpretive locator descriptions, analytical frontiers, future prose, originals, binaries and caches are excluded. Original EPUB stays unchanged at its canonical ID. Retention is not publisher authentication.
+
+
+## HAR-U005 incremental source and reading closeout
+
+[HAR-U005](../01%20Sequential%20Readings/HAR-U005_PART_I_05_DEEP_READING.md) closes all spine13 `text/part0006_split_005.html`, raw body0–4514,87 heading/paragraph blocks,14 ruby and86 br, including heading/final blanks. Member SHA-256 `3345809e3204d0e852075f7fdb25572304a076a0f2a4b5a335413f0bd2e1eb5d`. Next spine14 `_006.html` numeral06 alone was queried; body/later prose remains unread. All eight original selected spans/hashes and original XML/extraction/actual XHTML DOM identity PASS.
+
+The author inspected all three actual overlapping right-to-left panels and every ruby/base association. Fixed font/text height,3571×1000 viewport and body x46.84375–3564.34375 enclose all paragraph rectangles. Source CSS, reader font, MIME alias and literal notation/case/indentation are preserved. Read-only helper21 mechanical checks independently confirm strings/offsets/classes/counts/geometry/panel inventory; source semantic and actual image inspection remain the author's. Witness identity and edition limitations unchanged.
+
+Three-ledger closeout:10 subjects/19 historical actor-state rows/18 directional relation IDs(26historicalrows)/17 readiness history rows/21 world IDs/30 claims/0 predictions/2 earlier revisions;58 cumulative evidence records/61 spans. Two DOMAIN_BOUNDED/eight RECOGNITION_ONLY, no model/validation/specialists. HAR-U006 is candidate natural06; verify its end and following Part II framing in source order after complete current publication gates. No member beyond the current unit is treated as read from a TOC alone.
+
+
+## HAR-U005 private verification retention
+
+The designated metadata-only custodian retained `HAR-U005_PRIVATE_SOURCE_VERIFICATION_20261017_V1.zip` as private Drive file `1xEl5fv72SA5V0fhRbTLqS0NODYkR6WI3`, canonical parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false. Full raw remote readback equals **1,711,824 bytes**, SHA-256 `39ea999cac425d959675bf3dd8504a59dd6d37beb5dda086d6eae418e668de49`; safe paths/CRC/exact15object membership and all object bytes/SHA PASS. Manifest SHA-256 `5cf493ab7a77ca09d9f12df0657a9bdda6b39190f7220174c494dc84511cc573`. Faithful current extraction, three actual panels, geometry/ruby/eight-locator proof/scripts/tool hashes and factual gate provenance only; interpretive descriptions/frontiers/future/originals/binaries/caches excluded. Original witness remains unchanged. Retention establishes persistence.
