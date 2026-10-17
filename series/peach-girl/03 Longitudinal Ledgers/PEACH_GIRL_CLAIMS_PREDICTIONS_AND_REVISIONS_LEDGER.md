@@ -69,16 +69,27 @@ Bootstrap source-derived claims, forecasts, revisions and current-index rows: **
 | PG-CL-0009@1 | The V02 rupture comes from parallel omissions (Momo's Kairi kiss; Tōji's refusals of Sae), revealed by Sae in the most damaging framing, together with mirrored suspicion of each other's opposite-sex intimate / STRONGLY_SUPPORTED_INTERPRETATION / V02 | i0105–0111, i0151–0166 / alternative: genuine incompatibility | HIGH / test: whether the missing contexts later surface and change Tōji's position | CM-0013; RL-0025 / PG-FR-V02 |
 | PG-CL-0010@1 | Momo's information isolation at school was socially organized, with Sae as the reported organizer / STRONGLY_SUPPORTED (organization) / V02 | i0055–0068, i0083 / counter: classmates' independent hostility | HIGH / MODERATE (Sae as organizer) | TX-0015; RP-0007 / PG-FR-V02 |
 | PG-CL-0011@1 | When disbelieved by someone she loves, Momo escalates to dramatic acts that force attention, including physically risky ones / PLAUSIBLE_COMPETING_INTERPRETATION / V02 | i0030–0041, i0050, i0112–0116 / counter: few independent situations | MODERATE / test: further disbelief situations | CS-0015 / PG-FR-V02 |
+| PG-CL-0001@2 | Appearance-based misreading of Momo structures the conflicts, and Sae explicitly exploits it ('lion and deer'; 「安達ならやりそう」) / STRONGLY_SUPPORTED / V03 | V03 i0109–0110, i0131–0141 / counter: the class revises once testimony converges | HIGH | RP-0010…0012 / PG-FR-V03 |
+| PG-CL-0002@3 | Sae's goal statements name Tōji, but her past pattern (steal, then discard) and imitation of Momo favor acquisition and competition over attachment to the specific person; desire for Tōji retained as a competitor / PLAUSIBLE_COMPETING / V03 | V03 i0112, i0163; V02 i0122, i0144 / counter: her unguarded affection asides | MODERATE | RL-0031 / PG-FR-V03 |
+| PG-CL-0003@3 | Sae's deceptions are deliberate and methodical: self-described method, sabotage instruction, threat of a false accusation, past pattern / ESTABLISHED (acts) + STRONGLY_SUPPORTED (aim) / V03 | V03 i0067, i0108–0112, i0163 | HIGH | IP-0026…0028 / PG-FR-V03 |
+| PG-CL-0005@3 | Tōji's credulity came from trusting the 'best friend' role and the absence of a visible motive; he takes responsibility publicly / STRONGLY_SUPPORTED / V03 | V03 i0127, i0154–0156, i0170 | HIGH | RL-0029 / PG-FR-V03 |
+| PG-CL-0006@3 | Kairi acts against his own romantic interest to restore Momo's reputation and her relationship with Tōji, while remaining physically intrusive and publicly flirtatious / STRONGLY_SUPPORTED / V03 | V03 i0020, i0080–0081, i0095–0096, i0109–0114, i0135–0137, i0162, i0169 / counter: i0086–0099 intrusion | HIGH | RL-0028, -0036 / PG-FR-V03 |
+| PG-CL-0008@2 | The report about Tōji's preference was fabricated by the middle-school friend out of her own interest in Tōji; it shaped Momo's two-year regimen / ESTABLISHED (admission) / V03 | V03 i0045–0046 | HIGH | IP-0005@2 / PG-FR-V03 |
+| PG-CL-0012@1 | Momo's refusal to restart (i0174) is best explained by the trust injury she names at i0057; unsettled feeling about Kairi is a plausible contributing competitor / PLAUSIBLE_COMPETING / V03 | i0057, i0100–0106, i0173–0174 / counter: no stated reason | MODERATE / test: her stated reason later | CM-0018 / PG-FR-V03 |
+| PG-CL-0013@1 | Momo has attraction-like and reliance feelings toward Kairi that she disavows as a lapse; romantic category unresolved / STRONGLY_SUPPORTED (self-reported existence) / V03 | i0071, i0100, i0105–0106, i0130 / counter: her explicit preference for Tōji | MODERATE | RL-0027 / PG-FR-V03 |
+| PG-CL-0014@1 | Sae's deception is resolved through convergent independent testimony and source scrutiny, not through Momo's credibility alone / STRONGLY_SUPPORTED / V03 | i0154–0165 | HIGH | TX-0029, -0030 / PG-FR-V03 |
 
 ## Prospective forecasts
 
 | Forecast / originating freeze | Exact forecast / test / resolution condition | Alternatives / rationale / evidence | Status / adjudication frontier and evidence |
 | --- | --- | --- | --- |
-| PG-PR-0001 / PG-FR-V01 | If V02 discloses who wrote the two pool notes, it will attribute them to Sae. Resolves on explicit attribution or admission; NOT_TESTED if none | Alternatives: Kairi's fans; another student. Rationale: Sae's timed arrival with Tōji (i0094). Non-blind caveat | OPEN (NOT_TESTED in V02: no disclosure) |
+| PG-PR-0001 / PG-FR-V01 | If V02 discloses who wrote the two pool notes, it will attribute them to Sae. Resolves on explicit attribution or admission; NOT_TESTED if none | Alternatives: Kairi's fans; another student. Rationale: Sae's timed arrival with Tōji (i0094). Non-blind caveat | OPEN (NOT_TESTED in V02 or V03: no disclosure) |
 | PG-PR-0002 / PG-FR-V01 | The misunderstanding at i0172–i0178 will not be resolved within V02's first chapter by Momo and Tōji simply asking each other; another transmission or witness is required | Alternative: immediate frank talk. Rationale: V01 pattern of reliance on reports. Non-blind caveat | DISCONFIRMED at PG-FR-V02: Tōji came to Momo's house the same evening and apologized directly; they reconciled (V02 i0019–i0024). The Sae-sourced belief underneath was not addressed |
 | PG-PR-0003 / PG-FR-V01 | Kairi will make at least one further explicit romantic advance or proposal to Momo in V02 | Alternative: withdrawal after her refusal. Non-blind caveat | SUPPORTED_FOR_TESTED_SCOPE at PG-FR-V02: V02 i0072 (lingering embrace), i0098 (attempted kiss), i0144 (vow not to give up) |
-| PG-PR-0004 / PG-FR-V02 | Momo will actively contest the breakup in V03 (at least one explicit attempt to repair it or persuade Tōji) rather than accept it passively | Alternative: acceptance or withdrawal. Rationale: CS-0015 escalation pattern. Non-blind caveat | OPEN |
-| PG-PR-0005 / PG-FR-V02 | Sae will use the breakup to pursue Tōji more openly in V03 (an explicit romantic move or claim) | Alternative: Sae switches target or lies low. Rationale: PG-CL-0002@2. Non-blind caveat | OPEN |
+| PG-PR-0004 / PG-FR-V02 | Momo will actively contest the breakup in V03 (at least one explicit attempt to repair it or persuade Tōji) rather than accept it passively | Alternative: acceptance or withdrawal. Rationale: CS-0015 escalation pattern. Non-blind caveat | DISCONFIRMED at PG-FR-V03: Momo sealed the breakup herself (V03 i0009), left without entering (i0058), and refused Tōji's request to restart (i0174) |
+| PG-PR-0005 / PG-FR-V02 | Sae will use the breakup to pursue Tōji more openly in V03 (an explicit romantic move or claim) | Alternative: Sae switches target or lies low. Rationale: PG-CL-0002@2. Non-blind caveat | SUPPORTED_FOR_TESTED_SCOPE at PG-FR-V03: plan to win him over the summer (V03 i0112); public claim that he led her on (i0160) |
+| PG-PR-0006 / PG-FR-V03 | In V04, Momo will give Tōji an explicit reason for refusing to restart, and it will concern trust or her own uncertainty rather than a declared love for Kairi | Alternative: a Kairi declaration; or no stated reason. Non-blind caveat | OPEN |
+| PG-PR-0007 / PG-FR-V03 | The tentatively agreed sea trip with Kairi will occur or be explicitly discussed in V04 | Alternative: dropped silently. Non-blind caveat | OPEN |
 
 ## Revisions and propagation
 
@@ -89,21 +100,30 @@ Bootstrap source-derived claims, forecasts, revisions and current-index rows: **
 | PG-RV-0003 / — | PG-CL-0004@1 → @2 / REVISE | Packet probably not Tōji's / PG-FR-V02 / i0025–0026 | — |
 | PG-RV-0004 / — | PG-CL-0005@1 → @2 / STRENGTHEN | Tōji's apology, self-reported insecurity and confession motive / PG-FR-V02 / i0021–0022, i0137–0139 | CS-0012 REVEALED_NOT_NEW |
 | PG-RV-0005 / — | PG-CL-0006@1 → @2 / STRENGTHEN | Refusal of the alliance; fair-means stance / PG-FR-V02 / i0135, i0145 | — |
+| PG-RV-0006 / — | PG-CL-0008@1 → @2 / STRENGTHEN | Originating friend's admission / PG-FR-V03 / i0045–0046 | IP-0005@2 |
+| PG-RV-0007 / PG-RV-0002 | PG-CL-0003@2 → @3 / STRENGTHEN | Method statement, sabotage instruction, false-accusation threat, past victims / PG-FR-V03 | — |
+| PG-RV-0008 / PG-RV-0001 | PG-CL-0002@2 → @3 / REVISE | The steal-and-discard pattern favors acquisition over attachment / PG-FR-V03 / i0112, i0163 | Monograph obligation |
+| PG-RV-0009 / PG-RV-0004 | PG-CL-0005@2 → @3 / STRENGTHEN | Public apology; credulity explained / PG-FR-V03 | — |
+| PG-RV-0010 / PG-RV-0005 | PG-CL-0006@2 → @3 / STRENGTHEN | Engineered the reunion against his own interest / PG-FR-V03 | — |
+| PG-RV-0011 / — | PG-CL-0001@1 → @2 / STRENGTHEN | Explicit exploitation by Sae; class judgment / PG-FR-V03 | — |
 
 ## Current claim index
 
 | Claim | Active version / cutoff | Latest revision | Unresolved evidence or propagation debt |
 | --- | --- | --- | --- |
-| PG-CL-0001 | @1 / V01 | — | — |
-| PG-CL-0002 | @2 / V02 | PG-RV-0001 | Desire vs imitation |
-| PG-CL-0003 | @2 / V02 | PG-RV-0002 | Exposure to Tōji |
+| PG-CL-0001 | @2 / V03 | PG-RV-0011 | — |
+| PG-CL-0002 | @3 / V03 | PG-RV-0008 | Acquisition vs attachment |
+| PG-CL-0003 | @3 / V03 | PG-RV-0007 | — |
 | PG-CL-0004 | @2 / V02 | PG-RV-0003 | Authorship disclosure |
-| PG-CL-0005 | @2 / V02 | PG-RV-0004 | Response to proof of Sae's lies |
-| PG-CL-0006 | @2 / V02 | PG-RV-0005 | Depth of feeling |
+| PG-CL-0005 | @3 / V03 | PG-RV-0009 | — |
+| PG-CL-0006 | @3 / V03 | PG-RV-0010 | Depth of feeling |
 | PG-CL-0007 | @1 / V01 | — | Flashback |
-| PG-CL-0008 | @1 / V01 | — | — |
+| PG-CL-0008 | @2 / V03 | PG-RV-0006 | — |
 | PG-CL-0009 | @1 / V02 | — | Context disclosure |
 | PG-CL-0010 | @1 / V02 | — | Organizer confirmation |
 | PG-CL-0011 | @1 / V02 | — | Further disbelief cases |
+| PG-CL-0012 | @1 / V03 | — | Stated reason |
+| PG-CL-0013 | @1 / V03 | — | Category of feeling |
+| PG-CL-0014 | @1 / V03 | — | — |
 
-Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended and forecast statuses adjudicated (frontier PG-FR-V02), 2026-10-16 UTC.
+Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended and forecast statuses adjudicated (frontier PG-FR-V02), 2026-10-16 UTC. V03 rows, revisions and adjudications appended (frontier PG-FR-V03), 2026-10-17 UTC.

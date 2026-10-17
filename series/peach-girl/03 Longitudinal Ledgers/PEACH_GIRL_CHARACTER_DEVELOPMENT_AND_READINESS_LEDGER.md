@@ -60,6 +60,10 @@ The sequential closeout certifies this instrument updated or records no material
 | PG-CHAR-0007 | Unnamed middle-school friend who reported Tōji's alleged dislike of dark skin | Reported in flashback, PG-EV-V01-0027 (i0077) | Unnamed; identity unknown |
 | PG-CHAR-0008 | Tōji's mother (unnamed); answers the family phone, calls her son 一矢 (furigana かずや) | Mainline; PG-EV-V02-0012 (i0050) | Unnamed; global ID null |
 | PG-CHAR-0009 | Momo's mother (unnamed); works, wakes Momo for school | Mainline; i0054 | Unnamed; global ID null |
+| PG-CHAR-0010 | 小川 (Ogawa), called カコ; classmate in Sae's group (i0065–i0066) | Mainline; PG-EV-V03-0015 | Given name only by nickname; global ID null |
+| PG-CHAR-0011 | Unnamed male admirer of Sae whose movie ticket she tore (V01 i0118–0119); testifies at V03 i0164 | Mainline; V01 i0118 | Unnamed; link V01/V03 by depiction (MODERATE) |
+| PG-CHAR-0012 | Bounded group: girls whose boyfriends Sae reportedly stole (i0162–i0163) | Mainline; PG-EV-V03-0035 | Group; members unnamed |
+| PG-CHAR-0007 (identity update, appended) | Identified as キョーちん, Momo's middle-school friend, who admits fabricating the report (V03 i0044–i0046) | First identified PG-EV-V03-0010 | Nickname only |
 
 ## Developmental events
 
@@ -84,6 +88,15 @@ The sequential closeout certifies this instrument updated or records no material
 | PG-CS-0017@1 | PG-CHAR-0003 / CS-0007 | V02 / V02 | DISPOSITION_CHANGE (escalation): fabricated injuries; information blockade; staged kiss; planned coercive 'fait accompli'; states goal 「あたしはとーじが欲しい」 | PG-EV-V02-0009, -0017, -0021, -0028, -0030, -0031; PG-CL-0002@2, PG-CL-0003@2 | Plan not executed in V02 |
 | PG-CS-0018@1 | PG-CHAR-0004 / CS-0004 | V02 / V02 | Choice: refuses alliance with Sae against Momo–Tōji; acts as Momo's main ally; admits he exploited the kiss rumor | PG-EV-V02-0026, -0032; PG-CL-0006@2 | Still pursuing Momo |
 | PG-CS-0019@1 | PG-CHAR-0002 / CS-0013 | Hospital day / V02 | RELATIONSHIP_CHANGE: proposes breaking up (「別れよう」), citing loss of confidence | PG-EV-V02-0040; PG-CL-0009@1 | Momo's response unshown |
+| PG-CS-0020@1 | PG-CHAR-0001 / CS-0015 | Hospital day / V03 | RELATIONSHIP_CHANGE: answers the breakup proposal with 「こっちから別れてやる」 and throws fruit at Tōji; then regrets it | PG-EV-V03-0001, -0011 | — |
+| PG-CS-0021@1 | PG-CHAR-0001 / CS-0001 | Middle school / V03 | REVEALED_NOT_NEW: crush origin (ball return); sunscreen began after the friend's report | PG-EV-V03-0008 | Visual flashback only |
+| PG-CS-0022@1 | PG-CHAR-0001 / CS-0021 | Before the swim meet / V03 | KNOWLEDGE_CHANGE: learns the tan report was a lie; tan-avoidance motive dissolved | PG-EV-V03-0010; PG-CL-0008@2 | — |
+| PG-CS-0023@1 | PG-CHAR-0001 / CS-0022 | Swim-meet day / V03 | DISPOSITION_CHANGE: chooses to swim fully, out of defiance of Sae; recovers the pleasure of swimming; rescues Kako, her assailant | PG-EV-V03-0013, -0015 | Local to the meet; complexion concerns may return |
+| PG-CS-0024@1 | PG-CHAR-0001 / — | Swim-meet day / V03 | DISPOSITION_CHANGE: self-reported fluttering and reliance toward Kairi, framed as a lapse; irritation at his flirting | PG-EV-V03-0017, -0022; PG-CL-0013@1 | Category of the feeling unresolved |
+| PG-CS-0025@1 | PG-CHAR-0001 / CS-0024 | Swim-meet day / V03 | Choice: slaps Sae and publicly defends Kairi's character; refuses forced apology | PG-EV-V03-0029, -0030 | — |
+| PG-CS-0026@1 | PG-CHAR-0001 / CS-0020 | Swim-meet day / V03 | RELATIONSHIP_CHANGE: refuses Tōji's request to restart while wanting it | PG-EV-V03-0037; PG-CL-0012@1 | Reason unstated |
+| PG-CS-0027@1 | PG-CHAR-0002 / CS-0019 | Swim-meet day / V03 | KNOWLEDGE_CHANGE + choice: overhears Sae's method; publicly frees and claims Momo; apologizes; privately retracts the claim and asks to restart | PG-EV-V03-0025, -0032, -0033, -0037; PG-CL-0005@3 | — |
+| PG-CS-0028@1 | PG-CHAR-0003 / CS-0017 | Swim meet / V03 | CONTEXT_CHANGE: instructs sabotage; threatens a false accusation; explains her method; exposed by testimony; abandoned by her coalition | PG-EV-V03-0014, -0015, -0024, -0025, -0035, -0036 | Still asserts victimhood |
 
 ## Current subject state
 
@@ -97,10 +110,14 @@ The sequential closeout certifies this instrument updated or records no material
 | PG-CHAR-0002 @ PG-FR-V02 | CS-0005, -0006, -0010…0013, -0019 | Sincere, insecure about Kairi, trusting of Sae but beginning to doubt; proposes breakup | Response to proof of Sae's lies |
 | PG-CHAR-0003 @ PG-FR-V02 | CS-0007, -0017 | Strategic deceiver with stated goal Tōji; physically staged deceptions; self-describes 'mind control' | Imitation vs desire weighting |
 | PG-CHAR-0004 @ PG-FR-V02 | CS-0003, -0004, -0018 | Ally and suitor; refuses foul play | Sincerity tested further |
+| PG-CHAR-0001 @ PG-FR-V03 | CS-0020…0026 | Vindicated; tan motive dissolved; new feelings for Kairi she disavows; refuses Tōji for now | Reason for refusal |
+| PG-CHAR-0002 @ PG-FR-V03 | CS-0027 | Disillusioned with Sae; accountable; seeking to restart | Response to refusal |
+| PG-CHAR-0003 @ PG-FR-V03 | CS-0028 | Socially isolated; exposed | Next strategy |
+| PG-CHAR-0004 @ PG-FR-V03 | CS-0018 + V03 actions | Strategist ally; still suitor; publicly flirtatious with others | Sea trip; feelings |
 
 ## Readiness assessments
 
 | Assessment / prior | Subject / target / domain / cutoff | Evidence diversity / counterevidence | Gaps / validation | Assessment / reviewer / date / claim versions |
 | --- | --- | --- | --- | --- |
 
-Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended (frontier PG-FR-V02), 2026-10-16 UTC.
+Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended (frontier PG-FR-V02), 2026-10-16 UTC. V03 transaction rows appended (frontier PG-FR-V03), 2026-10-17 UTC.
