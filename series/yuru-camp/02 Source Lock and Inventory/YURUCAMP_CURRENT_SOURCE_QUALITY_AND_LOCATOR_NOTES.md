@@ -44,6 +44,12 @@ The September comparison reports cropped content in sampled older pages. That is
 
 Current preferred locators: OPF `item/standard.opf`; 1-based spine1 → `item/xhtml/p-cover.xhtml` → `item/image/cover_omo.jpg`; spine2 → `item/xhtml/p-001.xhtml` → `item/image/i-000.jpg`; spine166 → `item/xhtml/p-165.xhtml` → `item/image/hyoushi.jpg`. Use the manifest’s full 166-row mapping, not an inferred filename offset. Old locators use `content.opf` and `page_1.xhtml`→`0_0.png` through `page_166.xhtml`→`165_0.png`; never carry those filenames into a new-source citation without an explicit concordance.
 
+### Independent structural concordance follow-up
+
+A subsequent October 17 acceptance pass retrieved the same hashed old and preferred objects and compared all 166 reading-spine images. Grayscale raster correlation at 96×128 initially returned the same-ordinal best match in 129 cases. Visual thumbnail checks of the twelve lowest correlations identified margin/scale differences; the initial result was not treated as reordered narrative. Repeating after an ink bounding-box crop (gray threshold below 220) returned the same-ordinal best match for all **165 nonblank images**. Ordinal 2 is blank in both. Four remaining low-correlation same-position cases (11, 12, 13 and 163) were also visually compared; borders, scaling and end-matter presentation limit pixel equivalence.
+
+This follow-up corroborates the bounded structural crosswalk **old 1-based spine N → preferred 1-based spine N, N=1–166**. It does not certify exhaustive Japanese wording equality, identical crops, printed pagination or publisher-edition equivalence. Keep both object hashes with any migrated locator, resolve the preferred wrapper/image from the manifest, and verify any disputed quotation or composition at full resolution. The earlier paragraph describes the initial source batch; this follow-up supplies additional independent structural comparison without admitting V17 narrative claims.
+
 ## V18 — admitted source
 
 The new Kobo object has 166 distinct reading-spine images/assets at 1350×1920; Japanese metadata and pre-paginated fixed layout; all CRC, decoding and mapping checks pass. Its full mapping is in the current manifest and uses the same **structure** as preferred V17; this is not a claim that their content is the same. The Phase 0 missing-source statement remains historically intact. V18 is available but has not been analyzed here.

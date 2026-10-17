@@ -757,6 +757,8 @@ Anime-only behavior should never be retroactively attributed to the manga.
 
 # 19. Final interpretive constraint
 
+Current-scope clarification — 2026-10-17: the eighteen-volume/six-checkpoint counts below preserve the original planning horizon. They are not a terminal boundary for the ongoing manga. The current-state map and current source inventory govern publication/acquisition scope (V19 is now published but unacquired). Reaching V18 would not by itself establish complete-series coverage or authorize final synthesis; a later authorized scope review must resolve that dependency.
+
 The architecture intentionally delays the final thematic document until after:
 
 - 18 volume readings;
