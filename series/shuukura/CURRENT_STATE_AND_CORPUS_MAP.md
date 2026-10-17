@@ -5,14 +5,14 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.6"
+version: "0.7"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
-source_boundary: "SHUUKURA-V2-20261017-I1; Japanese LN V01–V02 complete in atomic commits; V03+ and later lanes unread"
+source_boundary: "SHUUKURA-V2-20261017-I1; Japanese LN V01–V03 complete in atomic commits; V04+ fiction and later lanes unread"
 canonical_home: series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: V02_ATOMIC_TRANSACTION_VERIFIED_CONTINUOUS_RUN_ACTIVE
+review_status: V03_ATOMIC_TRANSACTION_VERIFIED_CONTINUOUS_RUN_ACTIVE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -38,14 +38,14 @@ project_initialization:
   owner_review: CURRENT_OWNER_INSTRUCTION_AUTHORIZES_VALIDATED_BOOTSTRAP_ADOPTION
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_WITNESS_BOUNDED_LN_ADMISSION
-  next_permitted_operation: LN-JP-V03
+  next_permitted_operation: LN-JP-V04
 sequential_execution:
   mode: continuous_sequential
   unit_type: other
   authorized_start: LN-JP-V01
   terminal_boundary: SHUUKURA-V2-20261017-I1
-  committed_high_water_mark: LN-JP-V02
-  next_candidate_operation: LN-JP-V03
+  committed_high_water_mark: LN-JP-V03
+  next_candidate_operation: LN-JP-V04
   confirmation_between_units: false
   run_state: active
   inventory_freeze_state: FROZEN_AVAILABLE_UNITS_AND_EXPLICIT_MANDATORY_GAPS
@@ -54,14 +54,14 @@ sequential_execution:
 analytical_execution:
   authorization: CONTINUOUS_SEQUENTIAL_AUTHORIZED_GATE_VERIFIED
   sequential_units_admitted: 9
-  sequential_units_completed: 2
-  committed_narrative_high_water_mark: LN-JP-V02
-  character_reconstruction_readiness: V02_DOMAIN_ASSESSMENT_CANDIDATES_NOT_BUILT_NO_MODEL_VALIDATED
+  sequential_units_completed: 3
+  committed_narrative_high_water_mark: LN-JP-V03
+  character_reconstruction_readiness: V03_TIME_BOUNDED_DRAFTS_TESTS_LIMITED_NO_VALIDATED_DOMAIN
 repository_state:
   stable_branch: series/shuukura
   routing_input: series/shuukura/.repository/series-registry.json
   materialization_status: PRESENT_UNREVIEWED
-  main_integration: V01_MERGED_AUDITED_V02_EXACT_HEAD_AUDITS_REQUIRED
+  main_integration: V01_V02_MERGED_AUDITED_V03_EXACT_HEAD_AUDITS_REQUIRED
   integration_hold_required: NONE_FOR_COMPLETED_BOOTSTRAP
 ---
 
@@ -71,9 +71,9 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = LN-JP-V03`
+`NEXT_PERMITTED_OPERATION = LN-JP-V04`
 
-The owner has explicitly authorized continuous execution through the frozen kickoff source inventory and every required analytical stage. That authorization persists across recovery; ordinary source units require no further confirmation. The bootstrap and its source-preparation recovery are merged and audited. **The verified initiation gate is now OPEN and the run is active.** Nine exact acquired Japanese LN witnesses are admitted for ordered inspection. **V01 is the first completed atomic unit in the commit introducing transaction SHUUKURA-TX-LN-JP-V01-20261017-A1**; that commit contains the deep reading, source coverage, frozen states and all four ledger updates. V01 committed as `f632bb9ee97e2af87c0388fb19d8bfea7268688c`, merged via PR197 and verified on green main `2daceabab58af01e29d27d05bfcfa43d17a667d5`. **V02 is the second completed atomic unit only in the commit introducing SHUUKURA-TX-LN-JP-V02-20261017-A1**, with its complete reading, all four ledger deltas, coverage and audit. A draft alone never advances this boundary. No operational character model is constructed or validated. [Inventory I1](00%20Frameworks%20and%20Methods/SHUUKURA_V2_EXECUTION_INVENTORY_20261017.json) fixes 458 available units, 51 unavailable source identities, the Narō correspondence boundary and 27 finite discovery obligations. Missing-source debts block the corresponding comprehensive completion claims while independent LN work proceeds. The [admission and checkpoint record](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md) preserves source-quality decisions, execution limits and the pre-reading V01 entering freeze.
+The owner has explicitly authorized continuous execution through the frozen kickoff source inventory and every required analytical stage. That authorization persists across recovery; ordinary source units require no further confirmation. The bootstrap and its source-preparation recovery are merged and audited. **The verified initiation gate is now OPEN and the run is active.** Nine exact acquired Japanese LN witnesses are admitted for ordered inspection. **V01 is the first completed atomic unit in the commit introducing transaction SHUUKURA-TX-LN-JP-V01-20261017-A1**; that commit contains the deep reading, source coverage, frozen states and all four ledger updates. V01 committed as `f632bb9ee97e2af87c0388fb19d8bfea7268688c`, merged via PR197 and verified on green main `2daceabab58af01e29d27d05bfcfa43d17a667d5`. **V02 is the second completed atomic unit only in the commit introducing SHUUKURA-TX-LN-JP-V02-20261017-A1**, with its complete reading, all four ledger deltas, coverage and audit. V02 committed as `5f62d3c31dcb79b8441a4662e7dde7e0ac377ffd`, merged/audited through PR198 on main `5233bfa580bbd6df1c214cf0136a48dc1225e0d8`. **V03 becomes the third complete atomic unit only in the commit introducing SHUUKURA-TX-LN-JP-V03-20261017-A1**, including its complete reading, four ledger deltas, coverage and audit. A draft alone never advances this boundary. Two operational draft policies were constructed before V03; Sendai has one failed immediate-action test and one exposure-qualified supported object decision; Miyagi has no prospective case. Both later lateNovember M0.2 versions are untested. Zero independent acceptance or validated domains. [Inventory I1](00%20Frameworks%20and%20Methods/SHUUKURA_V2_EXECUTION_INVENTORY_20261017.json) fixes 458 available units, 51 unavailable source identities, the Narō correspondence boundary and 27 finite discovery obligations. Missing-source debts block the corresponding comprehensive completion claims while independent LN work proceeds. The [admission and checkpoint record](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md) preserves source-quality decisions, execution limits and the pre-reading V01 entering freeze.
 
 ## Current boundaries
 
@@ -83,9 +83,9 @@ The owner has explicitly authorized continuous execution through the frozen kick
 | Accessible supplements | Four BW EPUBs, twelve author-released commemorative stories with native source captures and retained PDFs, and two publisher story images; scheduled after independent LN09 |
 | Web witnesses | Kakuyomu: 431 ordered native episode snapshots and 88,232 paragraph locators retained and verified; zero narrative readings. Narō: 290-episode correspondence responsibility remains unperformed |
 | Publication extent | Official LN10 release is scheduled for October 20, 2026; it is absent from this acquired snapshot and outside the proposed V01–V09 run |
-| Literary coverage | [V01](02%20Sequential%20Readings/SHUUKURA_V2_LN_V01_DEEP_READING.md):29spines/3784paragraphs/21images; [V02](02%20Sequential%20Readings/SHUUKURA_V2_LN_V02_DEEP_READING.md):27spines/4036paragraphs/19images. Each includes ten chapters, interlude, internal bonus and paratext. Committed high-water V02 only in its complete introducing atomic commit |
-| Longitudinal state | All four ledgers reconciled through V02; individual, directional, information and claim histories kept separately. Corpus-wide reconciliation remains pending |
-| Reconstruction | V02 domain readiness assessed; STRONG only for some narrow candidate descriptions, not validation. Eighteen claim identities/thirty-five versions and five narrow forecasts; zero operational models or validated simulation domains |
+| Literary coverage | [V01](02%20Sequential%20Readings/SHUUKURA_V2_LN_V01_DEEP_READING.md):29spines/3784paragraphs/21images; [V02](02%20Sequential%20Readings/SHUUKURA_V2_LN_V02_DEEP_READING.md):27/4036/19; [V03](02%20Sequential%20Readings/SHUUKURA_V2_LN_V03_DEEP_READING.md):27/3401/21, eight chapters plus paired interlude/internal bonus/all paratext. High-water V03 only in the complete introducing commit |
+| Longitudinal state | All four ledgers reconciled through V03; individual, directional, information and claim histories kept separately. Corpus-wide reconciliation remains pending |
+| Reconstruction | [Miyagi](05%20Character%20Studies/SHUUKURA_MIYAGI_SHIORI_RECONSTRUCTION.md) / [Sendai](05%20Character%20Studies/SHUUKURA_SENDAI_HAZUKI_RECONSTRUCTION.md): draft_noncurrent historical M0.1 and later LN03-M0.2 time slices. Two S0.1 cases retain failure/exposure limits, new versions untested; zero independent acceptance/validated domains. Cumulative24claim identities/58formulations/seven forecasts of different kinds |
 | Synthesis and V1 comparison | Responsibilities/dependencies defined; no specialist, monograph, comparison findings or integrated synthesis |
 | Historical authority | V1 is preserved historical analysis and provenance; it does not supply current V2 conclusions |
 
@@ -95,11 +95,11 @@ The [source inventory](00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY
 
 | Dependency | Verified condition and consequence | Recovery condition |
 | --- | --- | --- |
-| Independent LN lane | Source identity, complete bytes, colophons and native locator manifests verified for V01–V09. Unknown retail conversion history is retained as a limitation, not equated with an unknown edition. | V02 complete transaction is the new durable boundary only after its introducing commit. Recover its exact commit/exit, then verify/freeze/read V03 in native order and synchronize the complete next transaction before V04. Stop an affected unit if material fidelity/completeness defects emerge. |
+| Independent LN lane | Source identity, complete bytes, colophons and native locator manifests verified for V01–V09. Unknown retail conversion history is retained as a limitation, not equated with an unknown edition. | V03 complete transaction is the new durable boundary only after its introducing commit. Recover exact commit/exit, then verify/freeze/read V04 in native order and synchronize the complete next transaction before V05. Stop an affected unit if material fidelity/completeness defects emerge. |
 | Unavailable supplemental sources | I1 records 51 source identities without complete usable primary evidence, including seven Narō supplemental candidates and two voice stories. Some retailer titles/deduplication remain unresolved. | Acquire the specific legitimate story/script/witness; verify title, completeness, locators and prospective placement. No V1 substitution or access bypass. |
 | Narō correspondence / discovery completeness | N0800GA episodes 1–290 remain an unperformed source-correspondence obligation; 27 frozen author-notice records require original-story holdings and duplication reconciliation. | Complete source access/correspondence and the bounded discovery audit after independent LN freezes; keep any genuine missing sources visible. |
 
-Narrative high-water marks are **LN V02; Kakuyomu NONE; external supplements NONE** after the introducing complete V02 commit; Narō correspondence is uncompleted. The available-set milestones are 115/229/344/458 completed units, with separate lane milestones in I1. No milestone is reached. The next source operation is **LN-JP-V03**, automatically after recovery/verification of V02's complete committed transaction. A missing supplement does not authorize a false comprehensive completion claim or require another ordinary-unit confirmation.
+Narrative high-water marks are **LN V03; Kakuyomu NONE; external supplements NONE** after the introducing complete V03 commit; Narō correspondence is uncompleted. The available-set milestones are 115/229/344/458 completed units, with separate lane milestones in I1. The available-set milestone is not yet reached; the first LN-lane quarter review is V03. The next source operation is **LN-JP-V04**, automatically after recovery/verification of V03's complete committed transaction. A missing supplement does not authorize a false comprehensive completion claim or require another ordinary-unit confirmation.
 
 ## Governing retrieval order
 
@@ -124,7 +124,7 @@ The routing input is [`.repository/series-registry.json`](.repository/series-reg
 
 For resumption, fetch live authority/governance and the stable branch, reconcile with current main, then read these canonical files and the last accepted unit/freeze when one exists. Never reconstruct source coverage or next operation from conversational memory. Continuous execution is active through I1. Run metadata must continue to obey the live validator's exact lock/run-state consistency fields.
 
-The admission record verifies the actual foundation, exact source/locator freeze and capability limits before setting the OPEN lock and consistent active run. Both next-operation fields name LN-JP-V03; the terminal boundary remains I1, not ongoing future serialization. Protected-main bootstrap integration and its audit are verified. Stable-branch publication follows author preflight, source audit, housekeeping, final audit and eligible nightly integration. At completion, use completed/NONE only when all required dependencies are actually satisfied; an available-source subtotal cannot erase mandatory blockers.
+The admission record verifies the actual foundation, exact source/locator freeze and capability limits before setting the OPEN lock and consistent active run. Both next-operation fields name LN-JP-V04; the terminal boundary remains I1, not ongoing future serialization. Protected-main bootstrap integration and its audit are verified. Stable-branch publication follows author preflight, source audit, housekeeping, final audit and eligible nightly integration. At completion, use completed/NONE only when all required dependencies are actually satisfied; an available-source subtotal cannot erase mandatory blockers.
 
 The live [initiation policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md), [archive authority policy](../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md), [branch lifecycle](../../governance/policies/BRANCH_LIFECYCLE.md), [housekeeping policy](../../governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md) and [character curation policy](../../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md) govern execution and publication.
 
@@ -146,7 +146,7 @@ The reading's local chapter4 extraction-order recovery is disclosed; full covera
 Revision0.5: complete the first substantive V2 atomic unit and synchronize all four instruments. Available-set coverage1/458 and LN coverage1/9 are distinct from comprehensive completion. The active continuous run proceeds to V02; all monographs, specialist analyses, reconstruction, later comparison, integrated synthesis and remaining release gates are still required.
 
 
-## Latest analytical checkpoint — V02
+## Earlier analytical checkpoint — V02
 
 Recover [the V02 transaction audit](08%20Audits%20and%20Handoffs/SHUUKURA_V2_LN_V02_TRANSACTION_AUDIT.md) and [durable checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#durable-checkpoint-after-v02) before advancement. Endpoint `SHUUKURA-LN02-EXIT-20261017-A1` keeps earlySeptember latest-time state separate from later-read earlierJuly/June accounts. Ninety-four observations, all components and original source-order notes are preserved. Current states M-V02-EXIT/S-V02-EXIT, three V02 directional projections, twenty new access events, versioned proposition/rule histories and eighteen material claims provide recoverable cumulative memory.
 
@@ -155,3 +155,14 @@ V02's two actual prospective tests failed on their action forecasts; the home-de
 Material current questions concern action-specific boundary enforcement, payment/permission distinctions, practical exit, shared category, family/education disclosure and future graduation outcome. The first clearly spoken graduation horizon now differs from earlier private/tentative expectations; the formal history of the clothing proposal remains unconfirmed beside a performed exception and later regret. Parent-return reference and a minor paired-weather detail remain OPEN. No new continuity or source equivalence is manufactured.
 
 Revision0.6: complete the second V2 atomic unit and all four longitudinal deltas. Available2/458 and LN2/9 are separate from comprehensive completion. Continue automatically with V03 after exact commit recovery; quarter reviews LN3/5/7/9 and available115/229/344/458 remain future obligations. All remaining sources, reconciliation, monographs, specialists, distinct reconstruction/testing, V1 comparison, integrated synthesis and release gates remain required.
+
+
+## Latest analytical checkpoint — V03 and first novel-lane review
+
+The [V03 unit/quarter audit](08%20Audits%20and%20Handoffs/SHUUKURA_V2_LN_V03_TRANSACTION_AUDIT.md) and [durable checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#durable-checkpoint-after-v03) recover the introducing commit and endpoint SHUUKURA-LN03-EXIT-20261017-A1. All105observations, complete source-order journal and explicit recording limitations remain. Current states M-V03-EXIT/S-V03-EXIT are lateNovember, while final purchase backfill is earlierOctober. This tranche appends24character events,22relational events,22access events,29proposition versions,15tensions,20rule rows and23claim formulations without altering earlier evidence rows.
+
+V03 materially develops the geographical future, one-way gift/withdrawn-command concession, independent useful care and real cooking, outsider information and actual school-refusal consequence. A returned handgrip has a limited positive meaning without establishing a shared university plan, agreed romantic category or repaired boundary regime. The unit argument and claims retain counterevidence and uncertainty. V02 weather discrepancy/old parent referent remain OPEN; no S access to M full maternal story, no M access to S bank/bluff/peer discovery is invented.
+
+First LN-quarter boundary is V03/9; source, architecture and domain-readiness review is recorded in the unit audit. Available3/458 is distinct from franchise coverage and has not reached115/458. I1 sources/exclusions and all51unavailable identities remain unchanged. Maika/Umina warrant substantial independent dossiers, Mariko adds useful preference evidence, Ami remains bounded ensemble; full-corpus role-gap/monograph decisions remain pending. Reconstruction candidates are unaccepted drafts with explicit state selection, test failures, exposure limits and transfer abstention. Model content is not literary evidence.
+
+Continue automatically with V04 after verifying this complete committed unit. Subsequent LN reviews V05/V07/V09 and separate available/supplement/web publication milestones remain. All remaining admitted sources and required corpus reconciliation, principal/supporting monographs, specialists, reconstruction tests/limits, independent V1 comparison, integrated current-extent synthesis and release gates remain authorized and unfinished. No future publication is silently included and no current-extent completion is declared here.
