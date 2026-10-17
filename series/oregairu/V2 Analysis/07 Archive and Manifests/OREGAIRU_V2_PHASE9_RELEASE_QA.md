@@ -1,27 +1,27 @@
 ---
-title: Oregairu V2 expanded corpus — release-candidate QA and owner review
+title: Oregairu V2 expanded corpus — v1.0 release QA and publication record
 artifact_type: release_qa_and_owner_review_record
 generation: V2
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-release_id: OREGAIRU_V2_EXPANDED_v1.0-rc.2
-release_state: candidate_pending_protected_main_integration_and_final_freeze
+release_id: OREGAIRU_V2_EXPANDED_v1.0
+release_state: v1.0_release_descriptor_receipt_bound
 analytical_basis_commit: 8a2133822bf49077aa1eacb2a382ea16ab60b9ae
 baseline_main_commit: cfddecb9b5b05ce7b5b25060673ed2e77639da6c
 updated: 2026-10-17
 ---
 
-# Expanded V2 release-candidate review
+# Expanded V2 v1.0 release review
 
-The intended literary expansion, original-suite audit and three additional bounded reconstruction specifications have been accepted and published on `series/oregairu`. This record prepares a versioned analytical release candidate. It does **not** certify protected integration, a post-merge main audit, global character enrollment or the final v1.0 freeze. Exact final package/source/audit state is recorded in the package's `PUBLICATION_RECEIPT.json` and `RELEASE_PROVENANCE.json`, rather than inferred from a local worktree.
+The intended literary expansion, original-suite audit, three additional bounded reconstruction specifications and corrected builder are accepted and verified on main through PR #189 at `5d3c740092dc142234d8617b5c2e729e03d6697f`. This record designates the expanded v1.0 analytical release. Its final freeze applies only to the exact subsequently verified main commit and factual attestation in the completed package's `PUBLICATION_RECEIPT.json` and `RELEASE_PROVENANCE.json`. This descriptor does not certify its own later integration or package build. Global character enrollment remains separately pending.
 
 The [registered corpus map](OREGAIRU_V2_DRIVE_CORPUS_MAP.md) remains the single current-state entrypoint. The [reader guide](../06%20Continuous%20Synthesis/00_README_AND_CORPUS_MAP.md) is subordinate navigation. The [completion record](OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md) owns exact artifact responsibilities, claim transitions, candidate deferrals and the curator handoff. The [corpus manifest](OREGAIRU_V2_CORPUS_MANIFEST.json) supplies a reconciled inventory and payload checksums; its own bytes are covered by the package-level checksums, avoiding a self-referential digest.
 
 ## 1. Release identity and scope
 
-Before this task, no earlier materialized Oregairu ZIP, tracked release package or Git release-history event was found in the inspected repository history. This is not a claim about every external archive. The architecture's recommended `Oregairu_Definitive_V2_Multi_Document_Synthesis_v1.0.zip` remains a historical proposed final name. The first expanded candidate, `Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.1.zip`, remains recoverable unchanged. The current **`Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.2.zip`** incorporates the reproducibility correction in §3.1. It preserves the intended v1.0 lineage while making its candidate status and additional scope explicit. A final freeze must bind the verified integrated state; it must not silently rename or mutate either candidate.
+Before this task, no earlier materialized Oregairu ZIP, tracked release package or Git release-history event was found in the inspected repository history. This is not a claim about every external archive. The architecture's recommended `Oregairu_Definitive_V2_Multi_Document_Synthesis_v1.0.zip` remains a historical proposed final name. The first expanded candidate, `Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.1.zip`, remains recoverable unchanged. The corrected candidate **`Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.2.zip`** incorporates the reproducibility correction in §3.1 and remains unchanged. The final **`Oregairu_V2_Expanded_Analytical_Corpus_v1.0.zip`** preserves that lineage and names the expanded scope. It is a separate archive, built only after final-descriptor protected integration and exact post-merge validation. Its receipt declares the immutable v1.0 snapshot; future corrections require a new version. Neither earlier candidate is renamed or mutated.
 
 The package preserves the existing directories, identifiers, source locators and historical knowledge boundaries. It includes analysis and source metadata, never the Japanese EPUB/PDF/audio/image payloads or extracted source text. Repository license and third-party notices accompany it; their inclusion does not license the quoted fiction or underlying assets.
 
@@ -47,14 +47,14 @@ The original ending freeze remains Checkpoint E; post-ending durability belongs 
 | Shared evidence preservation | All 722 audited original row strings are byte-identical to `bcdd9d97b064e836970bd09a32815b796ea897da`; 94 reviewed observations were appended. All 816 exact cited members and normalized short anchors recover; new rows additionally passed exact fresh paragraph/source-hash checks. Anchor recovery is not blanket semantic recertification of 816 rows. |
 | Frozen analysis | All 50 declared frozen items are byte-identical to baseline main: 19 readings, six checkpoints, ten Phase-4 ledgers, twelve original specialists, Documents 13–14 and the Phase-6 audit. |
 | Authority/front matter | Eleven model authority quartets are canonical/empty/empty/false. New maintained artifacts have complete quartets. Older frozen artifacts with incomplete legacy metadata retain their bytes and scoped corpus roles; the inventory distinguishes machine classification from those roles. |
-| Source identity | Fresh hashes for 53 unique payloads match the canonical inventory: 22 EPUBs, 17 governing PDFs, one alternate V7.5 PDF, three ancestor PDFs and ten Christmas recordings. This is byte identity, not fresh auditory or exhaustive visual inspection. |
+| Source identity | The task's pre-release hashes for 53 unique payloads matched the canonical inventory: 22 EPUBs, 17 governing PDFs, one alternate V7.5 PDF, three ancestor PDFs and ten Christmas recordings. This is byte identity, not fresh auditory or exhaustive visual inspection. |
 | Source-record errata | The source inventory restores V12's complete digest and corrects the claimed unavailability of ancestor booklets. Available omitted stories remain unadmitted and substantively unanalyzed. |
 | Synthesis qualification | `OREGAIRU-EXP-ERR-002` narrows frozen Document 14 §7's Kyoto certainty and object of avoided disclosure. SC04 preserves the ambiguous argument in Ebina's first understanding clause; no frozen active reading is falsely declared impossible. Document 13's current limits remain adequate. |
 | Routing | Earlier model construction revisions/hashes in the maintained map are explicitly historical; current authority routes to the accepted audit/manifest. The original suite is closed, rather than mislabeled incomplete because later models qualify. |
 | Duplicates | No byte-identical artifact duplicates. The deliberate shared SC04–06 acceptance paragraph is administrative provenance; no long exact duplicated analytical argument was found among the additions. |
 | Truncation | Authors and independent reviewers read the new outputs completely and checked their endings, sections, tables, source registers and actor attribution. Ten missing final newlines are unchanged historical bytes, not new truncation; frozen files are not normalized. |
 | Package/source boundary | All selected corpus members are regular UTF-8 text. Both Anthology 02 JSON files were recursively inspected and contain metadata/quality flags, not OCR body or encoded assets. No source containers, raw extraction, media or symlinks are selected. |
-| Final candidate inventory and links | 85 corpus records; 83 selected corpus files plus two legal texts; 84 non-self artifact digests verified. All 137 relative Markdown file/directory links in the rc.2 candidate selection pass. Four generated package records bring the expected archive to 89 members; actual post-publication build results belong to its receipt. |
+| Reconciled release inventory and links | 85 corpus records; 83 selected corpus files plus two legal texts; 84 non-self artifact digests verified. All 137 relative Markdown file/directory links in the final descriptor selection pass. Four generated package records bring the expected archive to 89 members; actual post-publication build results belong to its receipt. |
 | Advisory flag triage | Ten unchanged historical final-newline flags remain preserved. The historical handoff's local-path flag is excluded from the package. The scanner's additional extension flag is the explicitly reviewed UTF-8 reproduction helper; only that exact `.py` path is allowed by the packager. No unresolved advisory flag requires a frozen-byte edit. |
 
 The applicable repository gate is:
@@ -81,7 +81,7 @@ Reproduce with the included receipt and a checkout containing the exact publishe
 OREGAIRU_RELEASE_SHA=$(python -c 'import json; print(json.load(open("PUBLICATION_RECEIPT.json"))["source_commit"])')
 python "anime-manga-ln-games-analysis/series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_BUILD_RELEASE.py" \
   --repo anime-manga-ln-games-analysis --commit "$OREGAIRU_RELEASE_SHA" --receipt PUBLICATION_RECEIPT.json \
-  --output Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.2.zip
+  --output Oregairu_V2_Expanded_Analytical_Corpus_v1.0.zip
 ```
 
 `PACKAGE_CHECKSUMS.json` covers the remaining archive members, including the Git corpus manifest, receipt and provenance. Its own digest is represented by the outer ZIP digest, avoiding a checksum cycle. Reproducing the analytical archive does not require bundling or redistributing the separately governed primary sources. Rechecking the source inventory itself requires lawful access to the same editions.
@@ -111,7 +111,7 @@ These limits remain visible rather than being converted into simulated facts:
 - The available three omitted ancestor stories, other recordings/artwork and alternate layouts have only their declared inventory/genealogy or historical inspection authority. Availability is not admission or a fresh performance reading.
 - 結3, `－刻－` and the campaign stories remain lawful acquisition/classification leads in the registered map. Another booklets and a V14.5 PDF were absent from the enumerated tree. These are not completion prerequisites for the admitted corpus. **Shin remains excluded.**
 
-Final v1.0 freeze and global character enrollment are separate outstanding operations. The candidate must not be represented as a frozen, integrated main release.
+The v1.0 freeze is receipt-bound to the completed exact-main archive; global character enrollment remains a separate pending operation. Local discovery eligibility is established for eleven models, and the existing curator handoff is reproducible. No global enrollment or capability assessment is implied by release completion.
 
 ## 5. Publication receipts and exact remaining route
 
@@ -122,12 +122,14 @@ Final v1.0 freeze and global character enrollment are separate outstanding opera
 | Priority expansion | `be09809628ea216a56e766b73fb2acedada1a638` | Source 38985791247; housekeeping 38986223877; final audit 38986257362 succeeded. |
 | Secondary expansion and attributable corrections | `8a2133822bf49077aa1eacb2a382ea16ab60b9ae` | Author preflight passed (`paths=7943`) and exact tree `f55e72503df8e54132f2cb592265bc62ce2f847e` was read back. Source 38986867127, housekeeping 38987175270 and final audit 38987205689 succeeded. |
 | First release candidate | `548ba5cb92a4374f0f387a95b6d421e6335b7839` | Source 38987660692, housekeeping 38988045104 and final audit 38988073719 succeeded. Original ZIP retained unchanged; reproducibility defect and bounded impact review recorded in §3.1. |
-| Corrected release-candidate metadata/package | Exact source in packaged receipt | Must pass replacement-ref regression, explicit full gate, published-tree readback, complete remote sequence and deterministic ZIP verification. No post-merge main success is inferred. |
+| Corrected release-candidate metadata/package | `57f627c27dd30b432f63ed4992032eb4fef81a8a` | Replacement-ref regression, explicit full gate and published-tree readback passed. Source 38989770663, housekeeping 38990166407 and final audit 38990198379 succeeded. The separately saved rc.2 archive passed deterministic full-member verification. |
+| Protected integration of the expanded corpus | Source `e4c4614c8158043676ccb1a95b9359571db35103`; main `5d3c740092dc142234d8617b5c2e729e03d6697f` | Controller 38998019824, PR #189, identical entire trees `a4f731f18c4937f19be3b2c6274a04955b929f38`; mandatory owner-dispatched post-merge audit 38998656050 succeeded for exact main, all 352 tests. |
+| Final v1.0 descriptors and archive | Exact final main/source in completed package receipt | Requires its own source → housekeeping → final audit → protected integration → explicit post-merge audit sequence, then deterministic build and immutable freeze attestation. No future SHA or audit success is predeclared here. |
 
-All changes use the continuing `series/oregairu` branch and [PR #189](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/189). No force update, history rewrite, global-index authorship or primary-source redistribution is authorized by this record.
+The analytical milestones used the continuing `series/oregairu` branch and [PR #189](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/189), now merged. Final release-descriptor publication continues on that stable branch in a subsequent bounded PR; its exact identifier and final receipt are recorded with the publication. No force update, history rewrite, global-index authorship or primary-source redistribution is authorized by this record.
 
-**Protected integration remains pending because the execution route is unavailable here.** The connected GitHub tools expose no targeted workflow-dispatch action. A manual merge cannot satisfy the publication policy's fresh access-surface review: collaborator enumeration, invitations, deploy keys, installed-app access and Actions-permission surfaces are unavailable through this connector. No controls are changed or bypassed. The [publication policy at the governing baseline](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/cfddecb9b5b05ce7b5b25060673ed2e77639da6c/governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md) requires checking every surface before a manual PR merge; user authorization for this analytical work is already present.
+**The earlier controller-execution blocker was resolved.** An owner-authorized browser dispatch of the existing trusted workflow used `mode=apply`, `branch=series/oregairu` and main; run 38998019824 recorded `VERIFIED_OWNER_ONLY` and `merged_verified`. Source audit 38998078970, housekeeping 38998420945 and its full audit 38998446146 passed before the protected merge. The mandatory owner-dispatched post-merge audit 38998656050 passed; push audit 38998654388 also passed and did not substitute for it. No manual merge, settings change or protection bypass was used. The [publication policy at the governing baseline](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/cfddecb9b5b05ce7b5b25060673ed2e77639da6c/governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md) requires checking every surface before a manual PR merge; user authorization for this analytical work is already present.
 
-The legitimate next route is the existing `nightly-integration.yml` controller on main, `mode=apply`, `branch=series/oregairu`, or its existing 07:00 America/New_York schedule. An existing draft PR defers that route; the completed, audited release PR must be made ready deliberately. The controller then performs the live owner-only/access checks and protected integration. Completion still requires the returned main commit's exact reviewed-content comparison and successful explicit post-merge audit. The stable branch is retained; no unverified pruning occurs.
+The legitimate route for the final descriptor PR remains the existing `nightly-integration.yml` controller on main, `mode=apply`, `branch=series/oregairu`, or its existing 07:00 America/New_York schedule. An existing draft PR defers that route; the completed, audited release PR must be made ready deliberately. The controller then performs the live owner-only/access checks and protected integration. Completion still requires the returned main commit's exact reviewed-content comparison and successful explicit post-merge audit. The stable branch is retained; no unverified pruning occurs.
 
 The configured character curator is paused and cannot be invoked here with an exact-tree assignment. Its documented handoff covers eight original and three additional models, their exact paths and the final published source SHA. Only that curator may enroll/review records and regenerate the character index. Existing outputs remain valid; global enrollment is explicitly pending. No reconstruction-capability registry or global capability grade is created.
