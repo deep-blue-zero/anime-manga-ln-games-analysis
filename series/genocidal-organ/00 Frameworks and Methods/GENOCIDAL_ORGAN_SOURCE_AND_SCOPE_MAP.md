@@ -5,10 +5,10 @@ artifact_type: source_scope_map
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.4'
+version: '0.5'
 status: active_provisional
 scope: Source and scope / witness inventory
-source_boundary: GO-JP-EPUB-001 through complete Part I subsection 4; GO-U004; exclusive before spine 13 text/part0011.html
+source_boundary: GO-JP-EPUB-001 through complete Part II subsection 1; GO-U005; exclusive before spine 15 text/part0013.html
 canonical_home: series/genocidal-organ/00 Frameworks and Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md
 created: '2026-10-16'
 review_status: FOUNDATION_ACCEPTED_CONTINUATION_OWNER_AUTHORIZED
@@ -58,14 +58,14 @@ Before retention of the pilot verification bundles, direct folder retrieval retu
 | Archive/package | ZIP CRC check passed; container points to `content.opf`; all inspected XHTML parses; OPF declares vertical right-to-left writing; no encryption manifest detected |
 | Text capability | Authorized opening rendered legibly in vertical Japanese with ruby; all original p/h1 decoded text matches browser DOM without normalization. No missing Japanese source glyph in selected Noto Serif CJK JP font; this is witness fidelity, not comparison with an unavailable publisher master |
 | Pagination / CFI | No page-map member observed; edition-page mapping and stable CFI generation not verified. Use hash-bound member/DOM locators under the method |
-| Reading authority | `BOUNDED_WITNESS_VERIFIED_THROUGH_GO_U004`; admitted as the exact usable transformed witness through complete Part I for bounded textual claims, without first-print or publisher-master equivalence |
-| Narrative state | GO-U001–004 fully read and prospectively frozen: 57 evidence records / 281 verified narrative locators; exclusive before spine13 text/part0011.html. Calibration supplies 6 additional admitted-source diagnostics. Publication state belongs to receipts/Git |
+| Reading authority | `BOUNDED_WITNESS_VERIFIED_THROUGH_GO_U005`; admitted as the exact usable transformed witness through complete Part II subsection1 for bounded textual claims, without first-print or publisher-master equivalence |
+| Narrative state | GO-U001–005 fully read and prospectively frozen: 74 evidence records / 372 verified narrative locators; exclusive before spine15 text/part0013.html. Calibration supplies 6 additional admitted-source diagnostics. Publication state belongs to receipts/Git |
 
 SHA-256 and ZIP integrity detect byte changes/corruption; they do not authenticate the edition or establish textual completeness. At bootstrap, mechanical parsing did not display narrative passages and human-readable inspection was limited to package metadata/navigation. The fresh G0 inspection below adds bounded opening and paratext rendering. No normalized narrative derivative is promoted or published.
 
 ## Observed navigation and unresolved segmentation
 
-The NCX lists five numbered parts with respectively 4, 6, 7, 5 and 5 numbered subsections, followed by an epilogue: **27 numbered subsections plus an epilogue**, not 44 literary units. The OPF has 44 linear spine occurrences including title and ancillary files. Part starts are `text/part0006.html`, `text/part0011.html`, `text/part0018.html`, `text/part0026.html`, and `text/part0032.html`. The first numbered subsection is `text/part0007.html`; the next starts at `text/part0008.html`; the epilogue navigation target is `text/part0038.html`. These are observed navigation targets, not certified literary boundaries. The fresh obligation map below resolves opening roles and explicitly retains uncertain later roles. Beyond GO-U004, later prose remains semantically unread.
+The NCX lists five numbered parts with respectively 4, 6, 7, 5 and 5 numbered subsections, followed by an epilogue: **27 numbered subsections plus an epilogue**, not 44 literary units. The OPF has 44 linear spine occurrences including title and ancillary files. Part starts are `text/part0006.html`, `text/part0011.html`, `text/part0018.html`, `text/part0026.html`, and `text/part0032.html`. The first numbered subsection is `text/part0007.html`; the next starts at `text/part0008.html`; the epilogue navigation target is `text/part0038.html`. These are observed navigation targets, not certified literary boundaries. The fresh obligation map below resolves opening roles and explicitly retains uncertain later roles. Beyond GO-U005, later prose remains semantically unread.
 
 Before the first reading, establish a whole-spine **coverage obligation map** without interpreting future text: each occurrence receives an exact identity and provisional role, with any undecided role explicit. Admit/render only the next authorized unit, revising uncertain classifications as reached. The map must account for every opening, section transition, epilogue continuation and ancillary item; a TOC list alone is not full coverage. No chapter/page numbers have been invented.
 
@@ -75,7 +75,7 @@ The G0 inspection verifies the authorized opening against original markup and fa
 
 G0 accepts a bounded witness identification under the owner's explicit instruction to retain transparent edition uncertainty when usable textual claims remain trustworthy. Fresh bytes, opening legibility, complete structural obligations and original-XML opening-locator retrieval pass. Publisher lineage, completeness against another edition and inactive alternate-stylesheet recovery remain unverified. They cannot support claims of original-edition equivalence. A newly material omission or failed wording locator would block its dependent claim or source unit.
 
-The admitted/read scope is GO-U001–004, including opening literary framing and complete Part I; high-water is exclusive before spine13 text/part0011.html. No later narrative is yet admitted. The owner has now separately authorized continuous sequential reading of this original prose novel through its natural epilogue end. This permission does not pre-admit unread units. Films/scripts, manga, *The Empire of Corpses / 屍者の帝国*, *The Indifference Engine*, *Metal Gear Solid* prose, other short stories, essays/interviews and reception are excluded. Embedded author biography, colophon, publisher material and any other extras require role classification; paratext is never silently treated as narrative. English translations, if later supplied, receive new witness keys and separate wording/locator records. No additional source acquisition or cross-novel study is authorized. The owner-required private verification derivatives are retained in the existing approved evidence collection as identified below; original source objects are unchanged.
+The admitted/read scope is GO-U001–005, including opening literary framing, complete Part I and Part II heading/subsection1; high-water is exclusive before spine15 text/part0013.html. No later narrative is yet admitted. The owner has now separately authorized continuous sequential reading of this original prose novel through its natural epilogue end. This permission does not pre-admit unread units. Films/scripts, manga, *The Empire of Corpses / 屍者の帝国*, *The Indifference Engine*, *Metal Gear Solid* prose, other short stories, essays/interviews and reception are excluded. Embedded author biography, colophon, publisher material and any other extras require role classification; paratext is never silently treated as narrative. English translations, if later supplied, receive new witness keys and separate wording/locator records. No additional source acquisition or cross-novel study is authorized. The owner-required private verification derivatives are retained in the existing approved evidence collection as identified below; original source objects are unchanged.
 
 ## Authorized pilot and stop boundary
 
@@ -115,8 +115,8 @@ Rows identify every one-based OPF occurrence. Later roles are provisional from n
 | 10 | `text/part0008.html` | Part I numbered subsection2, completely read/closed as GO-U002; every paragraph/ruby/spacing accounted |
 | 11 | `text/part0009.html` | Part I numbered subsection3, completely read/closed as GO-U003; all paragraphs/ruby/spacing accounted |
 | 12 | `text/part0010.html` | Complete Part I numbered subsection4, read/closed GO-U004; all text/ruby/spacing accounted |
-| 13 | `text/part0011.html` | Part II heading; unadmitted |
-| 14 | `text/part0012.html` | Navigation-linked numbered subsection; unadmitted, prose unread |
+| 13 | `text/part0011.html` | Complete Part II linked heading, read/form-verified with GO-U005 |
+| 14 | `text/part0012.html` | Complete Part II numbered subsection1, read/closed GO-U005; all text/ruby/spacing accounted |
 | 15 | `text/part0013.html` | Navigation-linked numbered subsection; unadmitted, prose unread |
 | 16 | `text/part0014.html` | Navigation-linked numbered subsection; unadmitted, prose unread |
 | 17 | `text/part0015.html` | Navigation-linked numbered subsection; unadmitted, prose unread |
@@ -152,7 +152,7 @@ Rows identify every one-based OPF occurrence. Later roles are provisional from n
 
 [GO-U001](../01%20Sequential%20Readings/GO_U001_OPENING_AND_PART_I_SUBSECTION_1.md) closes the epigraph at spine 5, accounted contents/work-title transitions, Part I heading at 8 and entire subsection at 9, including all 26 direct paragraphs (20 nonempty / 6 empty) and numbered heading. Subsection 1 has six ruby elements; raw body text has 1,606 Unicode codepoints with whitespace/rt. Eleven evidence IDs resolve through 24 original-XML selected-text hashes, all round-tripped; source identity and boundary remain unchanged. At GO-U001 exit, its source-frontier and three cumulative dispositions were complete, with one still-untested conditional prediction and no later validation; GO-U002 supplies the subsequent disposition below.
 
-At pilot exit the next candidate was GO-U002, spine10 text/part0008.html; that historical boundary remains frozen in GO-U001. Current GO-U002 is now closed as recorded below. Retain subsection-level atomicity: short GO-U001 nevertheless contains several recognition/agency transitions, while next-member mechanical length alone does not justify grouping. At GO-U002 closeout GO-U003 was next; the latest current frontier is recorded in the GO-U004 closeout below. Later structural obligations/UNKNOWN classifications above remain open and are not counted as completed coverage.
+At pilot exit the next candidate was GO-U002, spine10 text/part0008.html; that historical boundary remains frozen in GO-U001. Current GO-U002 is now closed as recorded below. Retain subsection-level atomicity: short GO-U001 nevertheless contains several recognition/agency transitions, while next-member mechanical length alone does not justify grouping. At GO-U002 closeout GO-U003 was next; the latest current frontier is recorded in the GO-U005 closeout below. Later structural obligations/UNKNOWN classifications above remain open and are not counted as completed coverage.
 
 ## Private verification evidence retained — 2026-10-16
 
@@ -182,7 +182,7 @@ The bounded source-verification bundle `GO-U003_PRIVATE_SOURCE_VERIFICATION_2026
 
 The bundle contains only the bounded admitted member's selected extract, locators/hashes, coverage/geometry, all5 actual renders, source-only independent proof, noninterpretive gate timestamp/hash references, scripts and reproduction provenance. Analytical entering/exit states, frozen reading/ledgers and interpretive QA remain in canonical Git/private analytical checkpoints, outside this source-evidence ZIP. No original EPUB duplicate, later plaintext or runtime binary is included.
 
-## GO-U004 coverage closeout and current frontier — 2026-10-17
+## Historical GO-U004 coverage closeout and frontier at its exit — 2026-10-17
 
 [GO-U004](../01%20Sequential%20Readings/GO_U004_PART_I_SUBSECTION_4.md) admits the complete final numbered subsection of Part I at spine12 `text/part0010.html`, exclusive before spine13 `text/part0011.html`. Current member54,128bytes, SHA-256 `afcae936629d87e30094f42ccecf2e9bef60dd4567b4dacabb4e4d6bcaca3b41`; unchanged archive317,774bytes/exact original hash/CRC PASS. All180p (nested numeral +179direct;7empty),14,941bodycodepoints,35ruby/45rt and14RTLrender tiles were actually read/viewed. All180originalXML/browser texts match; every bound fits19,694×1,000 viewport.20evidence/137selected originalXML locators independently round-trip, including spacing/form anchors. No Part II words/images were opened.
 
@@ -193,3 +193,13 @@ High-water is GO-U004, four completed units/complete Part I; cumulative57evidenc
 `GO-U004_PRIVATE_SOURCE_VERIFICATION_20261017_V1.zip` is retained in approved folder `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, Drive ID `1dT441L1kEy9zXN_rSpt90So_AOCIrF7Z`, private (`shared=false`). Full raw remote readback matches **5,913,144bytes**, SHA-256 `7a57e3a9c6a29c58ef8a5bd0f3a5a04cd5dd3a338097827d9511ad5dbe81faa9`. ZIP CRC/safe paths, exact26members/all25manifest objects' complete byte/hash checks PASS; manifest SHA-256 `8e319d734aca28a9bd22ba6acd318dbafd1f95183279aa3587c04a641586d10f`. The delegated metadata-only custodian verified upload metadata and raw readback. Original EPUB/permissions are unchanged.
 
 The adopted source-only plane contains current-member selected extraction, locators/hashes, coverage/geometry, all14actual renders, source-only independent proof, noninterpretive gate timing/hash references, scripts/groups and reproduction README. Full analytical entry/exit states, frozen reading/ledgers and interpretive QA remain separately canonical Git/private analytical checkpoints. No original duplicate, later plaintext or runtime binary is included.
+
+## GO-U005 coverage closeout and current frontier — 2026-10-17
+
+[GO-U005](../01%20Sequential%20Readings/GO_U005_PART_II_SUBSECTION_1.md) includes the entire linked Part II heading at spine13 `text/part0011.html`,784bytes/SHA-256 `4ba324636e60f71de45340a59a710ac514fe682033e1b12bf901c0473b4a5303`, then complete numbered subsection1 at spine14 `text/part0012.html`,30,128bytes/SHA-256 `02c4f229614804eef6fa6f390e411d24e696a3894d050131854f9bf4a0598165`. The unchanged317,774byte original archive hash/CRC pass. The h1 and101p (100direct+1nested;6empty),8,281combined raw body codepoints and10ruby/12rt are all accounted. All2heading and8prose actual RTLtiles were viewed; all102originalXML/export/browser nodes match and bounds fit1,600×1,000/11,217×1,000 viewports respectively. The heading contents-backlink was inspected without following it. All91originalXML locators (H01+90prose) independently round-trip across17evidence records.
+
+High-water GO-U005; cumulative74evidence/372narrative locators plus6admitted-source calibration diagnostics. All three ledgers close this unit; the full run remains active with both next fields GO-U006, complete Part II subsection2 at spine15 `text/part0013.html`, exclusive before spine16 `text/part0014.html`, pending its prospective entry and complete natural/form check. No GO-U006 or later wording/image has been opened. Source/HK/final exact publication success must precede those words. All remaining spine obligations, including UNKNOWN42–43, remain open. GO-U005 records the actual recognition-point model-familiarity qualification without rewriting entry/prior freezes or using unread plot as evidence.
+
+## GO-U005 adopted private source verification retention
+
+GO-U005 source retention is independently verified: Drive ID `1PfoXSqqRUOfzZg_AZ-5MHnuMGDwz4a4A`, canonical parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, private (`shared=false`). Full raw remote readback matches **3,238,810bytes**, SHA-256 `cab7f7cb99116d895ede1a2fdb8f7a7f14d8652f7b2e8873b7bd8afb593c1888`. ZIP CRC/safe paths/exact27members/all26manifest objects' complete size/hash checks PASS; SHA256SUMS.json SHA-256 `24b4b5a23fe9062da638dfe901b9323478ac7564f68771047c5fa7f3c817828f`. The bundle includes only current subsection and its same-unit heading selected-source proof, all10actual renders, exact locators/coverage/geometry, source-only independent proof, noninterpretive gate timing/hash references, tools and reproduction provenance. Analytical freeze/state/prose and interpretive QA remain separately canonical Git/private analytical checkpoints. Original EPUB/permissions are unchanged; no later plaintext or runtime binary is included.
