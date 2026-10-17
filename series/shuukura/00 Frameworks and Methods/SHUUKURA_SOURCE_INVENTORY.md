@@ -5,10 +5,10 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Frozen SHUUKURA-V2-20261017-I1; ordered Japanese LN admission open; zero narrative units read"
+source_boundary: "Frozen SHUUKURA-V2-20261017-I1; Japanese LN V01 complete in its atomic transaction; all later units unread"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Source inventory and edition/witness architecture
 
-This is the canonical source-and-coverage home. Snapshot: **2026-10-17 UTC; initial planning date 2026-10-16**. The historical bootstrap tables below distinguish acquisition and structural checks from reading. The later **SHUUKURA-V2-20261017-I1** record at the end of this document is the authorized source freeze. Ordered LN inspection is admitted; zero narrative units have yet been read. Earlier candidate snapshots remain preserved and do not themselves establish coverage.
+This is the canonical source-and-coverage home. Snapshot: **2026-10-17 UTC; initial planning date 2026-10-16**. The historical bootstrap tables below distinguish acquisition and structural checks from reading. The later **SHUUKURA-V2-20261017-I1** record at the end of this document is the authorized source freeze. Ordered LN inspection is admitted. The live coverage record below now credits complete V01 only in its introducing atomic commit. Earlier bootstrap/candidate tables remain explicitly historical preparation and do not themselves establish current coverage.
 
 ## Evidence plane, access and state vocabulary
 
@@ -339,3 +339,56 @@ Available-set quarter boundaries are unit ordinals **115, 229, 344, 458**; lane-
 LN10 and its bonuses remain future releases (October 20, 2026). The announced Birthday SS goods ship December 2026–January 2027 and are also future-source obligations outside I1. Kakuyomu stops at immutable episode `11054822663977570070`, E0431. Later sources require a separate extension.
 
 Revision 0.4: source-admission correction and durable I1 freeze. Source reading coverage and all committed narrative high-water marks remain zero/NONE at this administrative boundary.
+
+## Live sequential coverage — V01 transaction
+
+Transaction `SHUUKURA-TX-LN-JP-V01-20261017-A1` introduces the [frozen V01 deep reading](../02%20Sequential%20Readings/SHUUKURA_V2_LN_V01_DEEP_READING.md), all four reconciled ledger deltas, entering/exit states and the [source/semantic transaction audit](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_LN_V01_TRANSACTION_AUDIT.md). This coverage becomes committed high-water **LN-JP-V01** only in the complete introducing commit; source inspection or this draft table alone does not advance it. Recovery resolves that commit from this stable transaction identity and verifies its actual tree/audits.
+
+| Lane | Complete atomic units / frozen available units | Committed high-water after this transaction | Next source operation / remaining mandatory work |
+| --- | --- | --- | --- |
+| Japanese LN | 1 / 9 | LN-JP-V01 | LN-JP-V02, then V03–V09 in order; all later narrative unread |
+| External supplements | 0 / 18 | NONE | After LN09, frozen order; unavailable frozen identities remain mandatory debts |
+| Kakuyomu | 0 / 431 | NONE | E0001–E0431 after independent LN/supplement freezes; capture is not reading |
+| Narō correspondence / supplemental gaps | 0 / 290 correspondence checks; no acquired gap completed | NONE | Exact source/correspondence and 27-record discovery audit remain unperformed; 51 unavailable identities not waived |
+
+Available-set completion is **1/458**, not all-source or synthesis completion. No quarter milestone is reached. Inventory I1, its ordered identity digest, all 458 available units, 51 unavailable source identities and 27 discovery obligations remain unchanged. No later release is admitted. Unit V01's included interlude/bonus are parent-volume components, not additional external supplements.
+
+### V01 actual component inspection
+
+All rows bind the original source/locator hashes in the admission table. Counts include blank/structural native paragraphs; ordinal ranges are member-local, not display or print pages. Japanese text was deliberately read and each image actually viewed. The full-spine verification additionally found no substantive body text outside the paragraph/inspected-image flow; all581 ruby elements remain in the original/hash mapping. Base-text reading does not claim vocal performance. Historical bootstrap rows marked not read remain historical, superseded operationally only by this live coverage.
+
+| Spine | Native member under OEBPS/ | Paragraph coverage | Directly inspected image assets under Images/ | Inspection / limitation |
+| --- | --- | --- | --- | --- |
+| 1 | `Text/cover.xhtml` | 0; image-only leaf | `embed0020_HD.jpg` | Complete |
+| 2 | `Text/part0000.xhtml` | 0; image-only leaf | `embed0000_HD.jpg` | Complete |
+| 3 | `Text/part0001.xhtml` | 0; image-only leaf | `embed0001_HD.jpg` | Complete |
+| 4 | `Text/part0002.xhtml` | 0; image-only leaf | `embed0002_HD.jpg` | Complete |
+| 5 | `Text/part0003.xhtml` | 0; image-only leaf | `embed0003_HD.jpg` | Complete |
+| 6 | `Text/part0004.xhtml` | 0; image-only leaf | `embed0004_HD.jpg` | Complete |
+| 7 | `Text/part0005.xhtml` | 1–4 | — | Complete |
+| 8 | `Text/part0006.xhtml` | 1–16 | — | Complete |
+| 9 | `Text/part0007.xhtml` | 1–4 | — | Complete |
+| 10 | `Text/part0008.xhtml` | 0; image-only leaf | `embed0005_HD.jpg` | Complete |
+| 11 | `Text/part0009.xhtml` | 1–218 | — | Complete |
+| 12 | `Text/part0010.xhtml` | 0; image-only leaf | `embed0007_HD.jpg` | Complete |
+| 13 | `Text/part0011.xhtml` | 1–367 | `embed0006_HD.jpg` | Complete |
+| 14 | `Text/part0012.xhtml` | 1–403 | `embed0008_HD.jpg` | Complete |
+| 15 | `Text/part0013.xhtml` | 1–429 | `embed0009_HD.jpg`, `embed0010_HD.jpg` | Complete; p130–154 recovered after image155/p156–321, no blind cooking test |
+| 16 | `Text/part0014.xhtml` | 1–312 | `embed0011_HD.jpg` | Complete |
+| 17 | `Text/part0015.xhtml` | 1–83 | — | Complete |
+| 18 | `Text/part0016.xhtml` | 0; image-only leaf | `embed0012_HD.jpg` | Complete |
+| 19 | `Text/part0017.xhtml` | 1–321 | `embed0013_HD.jpg` | Complete |
+| 20 | `Text/part0018.xhtml` | 1–399 | `embed0014_HD.jpg` | Complete |
+| 21 | `Text/part0019.xhtml` | 1–425 | — | Complete |
+| 22 | `Text/part0020.xhtml` | 1–265 | `embed0015_HD.jpg` | Complete |
+| 23 | `Text/part0021.xhtml` | 1–379 | `embed0016_HD.jpg` | Complete |
+| 24 | `Text/part0022.xhtml` | 1–21 | — | Complete |
+| 25 | `Text/part0023.xhtml` | 1–117 | `embed0017_HD.jpg` | Complete |
+| 26 | `Text/part0024.xhtml` | 0; image-only leaf | `embed0018_HD.jpg` | Complete |
+| 27 | `Text/part0025.xhtml` | 1–18 | — | Complete |
+| 28 | `Text/part0026.xhtml` | 1–3 | — | Complete |
+| 29 | `Text/part0027.xhtml` | 0; image-only leaf | `embed0019_HD.jpg` | Complete |
+
+Totals: **29 spine members, 3,784 native paragraph anchors, 21 original image references**. Original bytes, all member/paragraph serialization hashes and image hashes reverify. The chapter4 local presentation-order exception is preserved in the reading, not concealed by the completeness total. All no-change source lanes and known gaps remain explicit. Source inspection is complete for the exact acquired witness; retail conversion lineage and cross-edition agreement are not thereby certified.
+
+Revision0.5: V01 narrative/paratext inspection and atomic coverage only. Frozen I1 bytes and source-set membership are unchanged; no web/supplement completion, V1 comparison, mature monograph or model-validation claim is introduced.
