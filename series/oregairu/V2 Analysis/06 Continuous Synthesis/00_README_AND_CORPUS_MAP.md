@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 canonical_entrypoint_owner: 07 Archive and Manifests/OREGAIRU_V2_DRIVE_CORPUS_MAP.md
-release_state: candidate_pending_review_and_verified_main_integration
+release_state: v1.0_release_descriptor_receipt_bound
 source_boundary: Existing admitted Japanese mainline and separately qualified supplements; no new source or continuity admission
 revision: '1.0_release_reader_guide'
 created: '2026-10-17'
@@ -19,7 +19,7 @@ created: '2026-10-17'
 
 # Reading the expanded Oregairu V2 corpus
 
-This guide supplies reader navigation for the expanded release candidate. The registered map remains the single mutable current-state entrypoint. The guide does not replace it, promote linked drafts or establish a final archival freeze. At preparation, verified integration on main and global character-discovery enrollment remain pending; the [completion and publication record](../07%20Archive%20and%20Manifests/OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md) records their actual disposition.
+This guide supplies reader navigation for the expanded v1.0 analytical release. The registered map remains the single mutable current-state entrypoint. PR #189's complete analytical content and corrected builder are verified on main at `5d3c740092dc142234d8617b5c2e729e03d6697f`. The final package freezes only the exact subsequently verified main commit bound by its publication receipt; this descriptor alone does not certify its own integration or build. Global character-discovery enrollment remains pending; the [completion and publication record](../07%20Archive%20and%20Manifests/OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md) records that separate obligation.
 
 ## Choose a starting point
 
@@ -111,4 +111,4 @@ For disputed conclusions, read Document 13's dispositions and OPEN questions alo
 
 Shin is excluded. Pending leads for 結3, 刻 and JR Central's campaign stories remain acquisition/classification questions in the registered map and source record. Their absence does not block completion of the existing admitted corpus. No copyrighted source payloads belong in the public analytical release.
 
-The [method](../00%20Frameworks/OREGAIRU_V2_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks/OREGAIRU_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md) explain the evidence standards and document responsibilities. The [release review](../07%20Archive%20and%20Manifests/OREGAIRU_V2_PHASE9_RELEASE_QA.md) and [corpus manifest](../07%20Archive%20and%20Manifests/OREGAIRU_V2_CORPUS_MANIFEST.json) explain package contents, provenance aliases, checksums and pending integration. The exact published source and final package checks are bound by the release receipt; this guide does not establish a final freeze.
+The [method](../00%20Frameworks/OREGAIRU_V2_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks/OREGAIRU_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md) explain the evidence standards and document responsibilities. The [release review](../07%20Archive%20and%20Manifests/OREGAIRU_V2_PHASE9_RELEASE_QA.md) and [corpus manifest](../07%20Archive%20and%20Manifests/OREGAIRU_V2_CORPUS_MANIFEST.json) explain package contents, provenance aliases, checksums and verified integration history. The exact final source, successful post-merge audit and immutable package snapshot are bound by the completed release receipt. The working map remains mutable; future release corrections require a new version rather than mutation of the saved v1.0 archive.

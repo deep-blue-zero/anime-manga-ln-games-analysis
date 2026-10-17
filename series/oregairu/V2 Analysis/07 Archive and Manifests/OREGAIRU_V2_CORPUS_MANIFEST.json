@@ -1,6 +1,6 @@
 {
   "analytical_basis_commit": "8a2133822bf49077aa1eacb2a382ea16ab60b9ae",
-  "archive_filename": "Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.2.zip",
+  "archive_filename": "Oregairu_V2_Expanded_Analytical_Corpus_v1.0.zip",
   "artifacts": [
     {
       "bytes": 24960,
@@ -698,15 +698,15 @@
       "sha256": "423d944a6b1739b1c74e2234083652f5b6780fc108889a73fc512e4aec61da74"
     },
     {
-      "bytes": 13737,
+      "bytes": 14027,
       "current_authority_veto": false,
-      "git_blob_oid": "e3fc06318402fd933b8b186a05b8f0a0dc22ece7",
+      "git_blob_oid": "de33c8831e8afa7856f7e8ba823becb2ee99344b",
       "machine_authority_status": "canonical",
       "package_included": true,
       "path": "06 Continuous Synthesis/00_README_AND_CORPUS_MAP.md",
       "repository_path": "series/oregairu/V2 Analysis/06 Continuous Synthesis/00_README_AND_CORPUS_MAP.md",
       "role": "subordinate_reader_navigation",
-      "sha256": "ff9f7423d5fccf23535fac1528521439c53f694bbf1746d3af9396d57a543a9b"
+      "sha256": "42a848c5a73001a0421a8f390aa5258718acb2d47328857b2f2540385792099b"
     },
     {
       "bytes": 60788,
@@ -863,15 +863,15 @@
       "sha256": "c0aad1eb312698e8ddf213488d0bb05d52594594d1a05320e8f594e84f748c8a"
     },
     {
-      "bytes": 27790,
+      "bytes": 30512,
       "current_authority_veto": false,
-      "git_blob_oid": "641ddea3d288585a9006d4e2b539274b4e6c4b88",
+      "git_blob_oid": "696d10ed1227be85b0e14cf2d377bc08abfa141a",
       "machine_authority_status": "canonical",
       "package_included": true,
       "path": "07 Archive and Manifests/OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md",
       "repository_path": "series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md",
       "role": "maintained_task_claim_reconciliation_and_curation_handoff",
-      "sha256": "48a562f90d2139a29377e1c4ac7fa42e26bc10d0c8f74c75266d2ed42e3019fb"
+      "sha256": "f331548bbc3ba52d3d63803af8446005fadd3720af9614de52f6a450475d6f41"
     },
     {
       "bytes": null,
@@ -886,15 +886,15 @@
       "sha256": null
     },
     {
-      "bytes": 85801,
+      "bytes": 86750,
       "current_authority_veto": false,
-      "git_blob_oid": "022916c13d16b3af8a769bd680d8a44cccce2a78",
+      "git_blob_oid": "0b61c7a98cf6df47f82e7a396a944b6c266bd108",
       "machine_authority_status": "canonical",
       "package_included": true,
       "path": "07 Archive and Manifests/OREGAIRU_V2_DRIVE_CORPUS_MAP.md",
       "repository_path": "series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_DRIVE_CORPUS_MAP.md",
       "role": "sole_registered_mutable_current_entrypoint",
-      "sha256": "4e3f47c9251fcadf5f829a9571939c740e2d1734bc88f79667c217c3037f178a"
+      "sha256": "59a1294e887951d5de55826486b27bd6ef159b3f26e154fb4efe7ba8392006ba"
     },
     {
       "bytes": 58857,
@@ -932,15 +932,15 @@
       "sha256": "32d090a11881f48fdedb004bc568d3acbfa3e4a62bbfc0a45c7a38d7924b8162"
     },
     {
-      "bytes": 20582,
+      "bytes": 22124,
       "current_authority_veto": false,
-      "git_blob_oid": "0f13c4e1fa9831974583cd28e399f637541d76f3",
+      "git_blob_oid": "aa0d5fbfa76a232f63986ba4e703d10adfbbe5ed",
       "machine_authority_status": "canonical",
       "package_included": true,
       "path": "07 Archive and Manifests/OREGAIRU_V2_PHASE9_RELEASE_QA.md",
       "repository_path": "series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_PHASE9_RELEASE_QA.md",
-      "role": "release_candidate_qa_and_owner_review",
-      "sha256": "951a9a6b9cd0824828c1a47d839cbba5ade14c8bc4dadc9cf470c27a10f00717"
+      "role": "release_qa_and_owner_review",
+      "sha256": "4a22ce5ac0084ade0ad45d51637535d433b285aebc53090e309e1f9cc480ae20"
     }
   ],
   "authority_note": "Machine front-matter classification and scoped corpus responsibility are separate. Frozen legacy headers are not silently promoted or rewritten. Model eligibility does not establish global enrollment or simulation capability.",
@@ -976,7 +976,7 @@
   "historical_aliases": {
     "Manga and anime discussions - Oregairu Deep-dive - Full Transcript(1).md": "01 Legacy V1 and Source Control/Manga and anime discussions - Oregairu Deep-dive - Full Transcript.md"
   },
-  "inventory_boundary": "Final authored candidate bytes; packaging independently rechecks exact published Git blobs and package checksums",
+  "inventory_boundary": "Final authored release descriptor bytes; immutable v1.0 package requires the completed verified-main publication receipt and independently checked exact Git blobs/checksums",
   "legal_members": [
     {
       "archive_path": "Oregairu_V2/LICENSE.md",
@@ -1004,8 +1004,8 @@
     "original_model_hash_owner": "07 Archive and Manifests/OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md"
   },
   "registered_entrypoint": "07 Archive and Manifests/OREGAIRU_V2_DRIVE_CORPUS_MAP.md",
-  "release_id": "OREGAIRU_V2_EXPANDED_v1.0-rc.2",
-  "release_state": "ANALYTICAL_CANDIDATE_PENDING_PROTECTED_MAIN_INTEGRATION_AND_FINAL_FREEZE",
+  "release_id": "OREGAIRU_V2_EXPANDED_v1.0",
+  "release_state": "V1_0_RELEASE_DESCRIPTOR_FINAL_FREEZE_BOUND_TO_COMPLETED_VERIFIED_MAIN_RECEIPT",
   "reproduction": {
     "builder": "07 Archive and Manifests/OREGAIRU_V2_BUILD_RELEASE.py",
     "dynamic_timestamps": false,
