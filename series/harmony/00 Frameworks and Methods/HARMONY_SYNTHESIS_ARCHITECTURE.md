@@ -5,10 +5,10 @@ artifact_type: synthesis_architecture
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.12'
+version: '0.13'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U011 complete Part III numbered02 at spine23 text/part0010_split_002.html; exclusive before spine24 text/part0010_split_003.html; later narrative body unopened
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U012 complete Part III numbered03 at spine24 text/part0010_split_003.html; exclusive before spine25 text/part0010_split_004.html; later narrative body unopened
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16

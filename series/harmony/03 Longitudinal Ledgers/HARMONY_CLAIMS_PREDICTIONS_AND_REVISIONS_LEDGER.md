@@ -5,10 +5,10 @@ artifact_type: claim_revision_ledger
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.12'
+version: '0.13'
 status: active_provisional
 scope: Claims, counterevidence, predictions and revisions ledger
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U011 complete Part III numbered02 at spine23 text/part0010_split_002.html; exclusive before spine24 text/part0010_split_003.html; later narrative body unopened
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U012 complete Part III numbered03 at spine24 text/part0010_split_003.html; exclusive before spine25 text/part0010_split_004.html; later narrative body unopened
 canonical_home: series/harmony/03 Longitudinal Ledgers/HARMONY_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -16,15 +16,15 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-evidence_rows: 81
-claims: 81
+evidence_rows: 88
+claims: 88
 predictions: 0
 revisions: 2
 ---
 
 # Claims, predictions and revisions ledger
 
-**Current boundary HAR-U011:**81 claims,0 predictions and2 earlier calibration revisions. HAR-U011 adds10 claims and14 exact spans; cumulative readings own146 passage records/149 spans. Earlier rows preserve their declared source frontiers. The new will supports a qualified different causal route under coercion, without rewriting earlier uncertainty; son/daughter witness discrepancy remains unresolved.
+**Current boundary HAR-U012:**88 claims,0 predictions and2 earlier calibration revisions. HAR-U012 adds7 claims and9 exact spans; cumulative readings own155 passage records/158 spans. Earlier rows preserve their frontiers and unresolved witness questions. Specified model extension and guarded interview are positive findings without certifying implemented control, a lie or group membership.
 
 Read [the entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md), [method](../00%20Frameworks%20and%20Methods/HARMONY_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md). This is the sole current claim/history owner. Frozen readings own passage evidence; other ledgers own actor/institution state and link here for arguments.
 
@@ -117,6 +117,14 @@ Read [the entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md), [method](../00%20Fram
 | `HAR-CL080` / v1 | `SUPPORTED_INFERENCE`: Going offline is practically blocked by WatchMe’s identity/access functions, making useful care infrastructure a dependency; feared institutional collapse remains prospective | Proposed disconnection, narrator explanation and inspectors’ forecasts; HAR-U011 | [HAR-U011-E012](../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#har-u011-e012) | Technical disconnection may exist; DummyMe partial evasion differs from total withdrawal | No physical impossibility or completed social collapse established | `PRESERVE`; new U011 histories, prior freezes unchanged |
 | `HAR-CL081` / v1 | `SUPPORTED_INFERENCE`: Oscar inflates a research/contact lead into possessed decisive evidence, Tuan corrects her, and supervisory control over certainty recreates courteous pressure while Tuan’s insult remains inward | Oscar report, Tuan correction, conditional colleague inference, recollection; HAR-U011 | [HAR-U011-E013](../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#har-u011-e013), [HAR-U011-E014](../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#har-u011-e014) | Emergency information sharing has practical justification; a model might eventually enable intervention | No reward-model paper opened/control experiment, present raised hand, spoken insult or completed new contact | `PRESERVE`; new U011 histories, prior freezes unchanged |
 
+| `HAR-CL082` / v1 | `SUPPORTED_INFERENCE`: The medical city’s ad-free/protective enclosure is materially visited while self-sufficient finance/designer intention remain Tuan’s inferences; unusual sky/sea horizon wording is retained without a reality-control explanation | Current travel/observation and narrator explanation; HAR-U012 | [HAR-U012-E002](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e002) | Absence of ads in zoned area does not inspect accounts or full city; literal horizon may admit several readings | No geographical emendation or induced-view mechanism certified | `PRESERVE`; U012 histories, all prior frontiers intact |
+| `HAR-CL083` / v1 | `SUPPORTED_INFERENCE`: Prefatory Gabriel claims precede the enacted visit; her hyperbolic-discount explanation specifies an ongoing extension of the Russian reward model and claims animal selection including some patient pigeons | Gabriel attributed positions/lecture and Tuan responses; HAR-U012 | [HAR-U012-E001](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e001), [HAR-U012-E004](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e004), [HAR-U012-E006](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e006) | No original revised paper/dataset/experiment inspected; normative human exceptionalism inference belongs speaker | Some, not all, pigeons wait; no implemented person-control tool shown | `PRESERVE`; U012 histories, all prior frontiers intact |
+| `HAR-CL084` / v1 | `SUPPORTED_INFERENCE`: Technical reward as conscious salience extends agent competition to pain/perception, and the accessible-reality argument does not establish voluntary pain consent or current fabricated experience | Gabriel explanation; Tuan questions/paraphrase; HAR-U012 | [HAR-U012-E006](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e006), [HAR-U012-E007](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e007) | Pain examples and broad model remain attributed scientific explanation | No performed pain test, elimination of external world or demonstrated manipulated room | `PRESERVE`; U012 histories, all prior frontiers intact |
+| `HAR-CL085` / v1 | `SUPPORTED_INFERENCE`: Gabriel confirms Nuaza’s initial consortium participation and present absence while disclaiming knowledge of parallel research; Tuan’s control/kinship bridge remains interior | Gabriel report and Tuan interior thought/formal question; HAR-U012 | [HAR-U012-E005](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e005) | Institutional speaker may limit disclosure; report not independent personnel record | No current Nuaza location/parallel project proved; no spoken kinship disclosure or proof of Gabriel’s ignorance | `PRESERVE`; U012 histories, all prior frontiers intact |
+| `HAR-CL086` / v1 | `SUPPORTED_INFERENCE`: The visit yields bounded cooperation after repeated audit concern, then a handshake intended to close; courtesy manages legitimate or questionable institutional interests | Current dialogue/actions, assurance by Gabriel; HAR-U012 | [HAR-U012-E002](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e002), [HAR-U012-E003](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e003), [HAR-U012-E007](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e007) | Inspection concern and disclosure limits can be professionally ordinary | No proof of innocence/guilt or private full motive; exact authentication protocol unspecified | `PRESERVE`; U012 histories, all prior frontiers intact |
+| `HAR-CL087` / v1 | `SUPPORTED_INFERENCE`: Tuan tests the declaration’s relation to nearby research; Gabriel denies perpetration/achieved control and advocates public courage, while Tuan’s suspicion does not settle those claims | Tuan pointed questions, Gabriel answers and narrator appraisal; HAR-U012 | [HAR-U012-E008](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e008) | Civic conviction or defensive convention can explain exemplary answer; caster act supports threat credibility, not consortium causation | No achieved control/deadline choice observed; denial not confession | `PRESERVE`; U012 histories, all prior frontiers intact |
+| `HAR-CL088` / v1 | `SUPPORTED_INFERENCE`: Tuan’s theatrical last working-group question produces a brief pause and calm denial, supporting a guarded encounter without proving a lie or group membership | Current question/pause/denial and narrator tactic description; HAR-U012 | [HAR-U012-E009](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e009) | Tactic sometimes works in Tuan’s experience, no diagnostic success demonstrated here | No admission/file/independent membership evidence or further exchange | `PRESERVE`; U012 histories, all prior frontiers intact |
+
 Use `HAR-CLnnn` when a real claim is admitted. Type: observation/quotation, supported inference, competing interpretation, speculation or value judgment. Keep attribution explicit. For form/terminology, distinguish literal notation/wording, its encoding/rendering, the speaker/frame hypothesis and interpretation. Philosophical conclusions retain premises and source support; they cannot be inferred from a category heading.
 
 ## Prospective predictions schema
@@ -155,7 +163,9 @@ Use `HAR-RVnnn` and `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT`, `
 
 | HAR-U011 | Added CL072–CL081; all older formulations/revisions preserved | `NO_PREDICTION`; deadline/contagion/majority reactions are character forecasts; no prior analyst forecast | Pre-Miaha recollection; nested feelings/lists; satire; dictionary; movie/report; will and final remembered sign | [HAR-U011 frozen exit](../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#prospective-exit-freeze); mechanism/identity/outcome OPEN |
 
-The prediction table remains empty through HAR-U011 for the stated unit-specific reasons. The revision table now contains two pre-U002 calibration revisions; HAR-U001’s historical zero-revision closeout above remains true at its own boundary.
+| HAR-U012 | Added CL082–CL088; older claims/revisions preserved | `NO_PREDICTION`; guardedness and nearby research do not justify a diagnostic future identity/control forecast; no prior forecast | Three prefatory attributions→present travel/lecture→two intrusive probes and final denial | [HAR-U012 frozen exit](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#prospective-exit-freeze); reported model/control gap OPEN |
+
+The prediction table remains empty through HAR-U012 for the stated unit-specific reasons. The revision table now contains two pre-U002 calibration revisions; HAR-U001’s historical zero-revision closeout above remains true at its own boundary.
 
 
 

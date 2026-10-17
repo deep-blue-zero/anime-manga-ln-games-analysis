@@ -5,10 +5,10 @@ artifact_type: longitudinal_ledger
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.12'
+version: '0.13'
 status: active_provisional
 scope: Knowledge, institutions, technology and coercion ledger
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U011 complete Part III numbered02 at spine23 text/part0010_split_002.html; exclusive before spine24 text/part0010_split_003.html; later narrative body unopened
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U012 complete Part III numbered03 at spine24 text/part0010_split_003.html; exclusive before spine25 text/part0010_split_004.html; later narrative body unopened
 canonical_home: series/harmony/03 Longitudinal Ledgers/HARMONY_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -16,12 +16,12 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-evidence_rows: 60
+evidence_rows: 65
 ---
 
 # Knowledge, institutions, technology and coercion ledger
 
-**Current boundary HAR-U011:**60 attributed world/information IDs, with all earlier histories retained. Ethical atmosphere, protective matter, fictional medical capital, differentiated will/death/word routes, identity dependency and scientific-evidence hierarchy retain separate channels and causal limits.
+**Current boundary HAR-U012:**65 attributed world/information IDs, with all earlier histories retained. Actual SEC visit, attributed temporal/salience model extension, former affiliation and guarded denials keep distinct channels. No unusual view or reported scientific explanation is treated as a demonstrated control system.
 
 Read [the entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md), [method](../00%20Frameworks%20and%20Methods/HARMONY_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md). This home preserves information access and institutional/world-state changes; the claims ledger owns interpretation, alternatives and revision history.
 
@@ -93,6 +93,12 @@ Read [the entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md), [method](../00%20Fram
 | `HAR-K059` / WatchMe identity and threatened institutions | HAR-U011; AR meeting | Proposal/narrator and inspectors→group | Offline practically unworkable: shopping/subway/home; no physical switch impossibility | Aid/trust/economy collapse predicted, not completed | Identity/access dependency ties ordinary usefulness to vulnerability | Partial DummyMe evasion distinct from total network withdrawal | [HAR-U011-E012](../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#har-u011-e012); CL080 |
 | `HAR-K060` / reported named research and certainty jurisdiction | HAR-U011; AR meeting | Oscar reports Tuan report; Tuan correction/colleague conditional | Same Russian reward-model route now named; reward-system paper not opened in U011; control still hypothetical | Lead/contact attempt overstated as decisive possessed evidence then corrected | Emergency sharing rationale and superior authority over certainty coexist | Earlier model/tool gap persists despite named scientific credit | [HAR-U011-E013](../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#har-u011-e013), [HAR-U011-E014](../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#har-u011-e014); CL081 |
 
+| `HAR-K061` / SEC medical enclosure and public space | HAR-U012; actual Baghdad drive/arrival | Tuan observes, infers finance/design intent; Gabriel meets | Traffic server/park/door/620mresearch area observed; SEC names organizations | Ad-free zoning vs inferred self-sufficiency; sky/sea horizon remains original unusual wording | Corporate/protective infrastructure facilitates research/contact; exact access protocol unstated | Dictionary destination→actual institutional visit, no fabricated-view proof | [HAR-U012-E002](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e002); CL082/CL086 |
+| `HAR-K062` / hyperbolic reward-model extension | HAR-U012; Gabriel lecture | Gabriel→Tuan/reader, opening attributed summaries | Ongoing model revision/experimental results claimed, not displayed | Immediate/delayed competition; some pigeons wait; evolutionary explanation qualified | Will operationalized as competing tendencies; normative species valuation attributed | Earlier Russian model→specified temporal extension, no implemented control tool | [HAR-U012-E001](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e001), [HAR-U012-E003](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e003), [HAR-U012-E004](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e004), [HAR-U012-E006](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e006); CL083 |
+| `HAR-K063` / salience, pain and conscious reality | HAR-U012; explanation and exchange | Gabriel→Tuan; Tuan paraphrases/questions | Technical reward not benefit/pleasure; subpersonal selection not deliberate consent | Sensory stimuli usually selected; reality bounded by accessible consciousness | Inquiry expands from decision to perception without current manipulation proof | Earlier motivation account→attention/pain/perceptual scope | [HAR-U012-E006](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e006), [HAR-U012-E007](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e007); CL084 |
+| `HAR-K064` / Nuaza’s temporal affiliation and absence | HAR-U012; interior inference/formal question/report | Tuan thinks father/control; Gabriel reports initial role/no longer here | No current father sighting/location/file; parallel work unknown per Gabriel | No spoken kinship statement or proved knowledge gap in Gabriel | Specific research lead gains time boundary; implementation question persists | Prior lead→reported former membership, not successful location/contact | [HAR-U012-E005](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e005); CL085 |
+| `HAR-K065` / inspection limits, threat response and group denial | HAR-U012; professional interview ending | Tuan probes; Gabriel assures/denies/advocates courage | No problematic WHO experiment claimed; capability/culpability/group denial unverified | Caster referenced supports threat plausibility, not SEC identity; final pause not lie detector | Bounded disclosure/civic response/investigative pressure coexist | Alleged group route is tested verbally, no admission or file obtained | [HAR-U012-E002](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e002), [HAR-U012-E003](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e003), [HAR-U012-E007](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e007), [HAR-U012-E008](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e008), [HAR-U012-E009](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#har-u012-e009); CL086–CL088 |
+
 Allocate `HAR-Knnn` only after admission. Preserve which person, narrator or institution claims a fact; organizational doctrine is not automatically world truth. Distinguish permission, command, practical ability, incentive, consent, enforcement and outcome. An information channel may transmit misinformation or only a partial account. A later disclosure changes the reader's model without granting earlier actors knowledge.
 
 For mechanisms, record whether the source asserts, depicts or tests causation and what alternatives remain. Keep fictional-world support separate from real-world scientific validation. Japanese technical terms retain source wording and unresolved glosses. If no institutional dimension appears in a unit, record no change rather than invent a row to fill the table.
@@ -115,5 +121,7 @@ For mechanisms, record whether the source asserts, depicts or tests causation an
 | HAR-U010 | Added K046–K052;52world IDs | Selective identity, public withdrawal, attributed group/faction investigation, institutional rivalry, public recorded ultimatum and demonstration | Exact mechanism/identity/deadline outcome OPEN; CL063–CL071 | [HAR-U010 frozen exit](../01%20Sequential%20Readings/HAR-U010_PART_III_01_DEEP_READING.md#prospective-exit-freeze) |
 
 | HAR-U011 | Added K053–K060;60world IDs | Pre-Miaha ethics, protective matter, fictional medical capital, differentiated will/death/word routes, offline dependency and evidence hierarchy | Family witness discrepancy retained; scientific mechanism/future outcomes OPEN | [HAR-U011 frozen exit](../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#prospective-exit-freeze) |
+
+| HAR-U012 | Added K061–K065;65world IDs | Actual SEC visit, attributed hyperbolic/salience model, reported former affiliation, capability/culpability/group denials | No current control tool/location/group proof; unusual horizon wording preserved | [HAR-U012 frozen exit](../01%20Sequential%20Readings/HAR-U012_PART_III_03_DEEP_READING.md#prospective-exit-freeze) |
 
 HAR-U001 correctly left the state/transition table empty at its boundary. Current rows append attributable changes; later corrections preserve that history.
