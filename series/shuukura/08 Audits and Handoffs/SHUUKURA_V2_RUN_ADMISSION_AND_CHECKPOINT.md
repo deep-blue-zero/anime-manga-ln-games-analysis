@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.9"
+version: "1.2"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "SHUUKURA-V2-20261017-I1; preserved admission/V01–V07 checkpoints, verified V07 publication and V08 complete-unit checkpoint"
+source_boundary: "Frozen I1; preserved LN01–09/BW03 records; BW03 source audits/PR208 preservation and BW06 complete-unit checkpoint"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: V08_SOURCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
+review_status: BW06_SOURCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -384,3 +384,104 @@ Transaction **SHUUKURA-TX-LN-JP-V08-20261017-A1** completes only in its whole in
 ## V08 current-main reconciliation before publication
 
 After the initial equal-tree reconciliation with mainfcf30802, currentmain advanced to `276043b5a7062d456f33cbaa5254c0a5aa40649f` through other-series PR205. Its complete60-path delta is confined to series/konosuba; no Shuukura/governance/tool/routing/character file changed. All ten existing Shuukura candidate files were byte-preserved before replacing only the pending merge metadata and performing a clean ordinary merge of currentmain. All60 inherited blobs exactly match276043b5. The final introducing commit therefore retains direct parents23442ad7 and276043b5, with fcf30802 preserved as an ancestor. The authored delta relative to currentmain remains exactly eleven declared Shuukura paths; inherited approved other-series content is not reauthored. No conflict, ours/theirs choice, reset or history rewrite occurred. Recheck both remote heads before publication and repeat affected checks if they advance.
+
+
+## Verified V08 publication and reconciliation before V09
+
+V08source299cc6df49ecf833c7f78e0c9ceb404f198cb748/PR206/maind542be706366f4a9a39e51a7817b85729dd1d399/equalfulltreece0c5717ce72ca033dd07f1240c48c7844008216/mandatoryexplicitmainaudit39041798805success352tests. [PR206](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/206) integrated equal complete treece0c5717. Sourceaudit[39040725132](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39040725132), housekeeping[39041118280](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39041118280)(NO_OP), finalsource[39041144370](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39041144370), owner-onlynightly[39041708418](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39041708418) and mandatory explicitmain[39041798805](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39041798805) all SUCCESS with actual bound SHAs. Explicit main audit ran352tests; additionalpushmain39041781421 is not its substitute. V08 CLOSED_ON_GREEN_MAIN. Before V09 canonical writes source299cc6df/main d542be70 complete trees equal/no side deltas; clean ordinary no-commit merge retains both histories and changes no approved unrelated bytes. No force/history rewrite or ours/theirs resolution.
+
+## Durable checkpoint after V09 and LN100 review
+
+Transaction **SHUUKURA-TX-LN-JP-V09-20261017-A1** advances only in its whole introducing commit. [Unit audit](SHUUKURA_V2_LN_V09_TRANSACTION_AUDIT.md) binds the other ten paths/nine before-images; recover exact introducing commit/tree by transaction identity and remote readback, never a guessed self-hash. After interruption verify live heads/complete prior progress; do not replay append scripts or assume timeout cancels a write.
+
+| Recoverable field | Complete introducing V09commit state |
+| --- | --- |
+| Authority/run | continuous_sequential/active/startLN-JP-V01/terminalI1plusallmandatoryoutputs/lockOPEN; no routine owner confirmations |
+| Repository | prior299cc6df49ecf833c7f78e0c9ceb404f198cb748/maind542be706366f4a9a39e51a7817b85729dd1d399/equalfulltreece0c5717ce72ca033dd07f1240c48c7844008216; ordinary merge retains both parents |
+| Versions | method/architecture/reconstruction0.2; inventory/current1.3; ledgers/checkpoint1.0; no authority promotion of models |
+| I1 boundary | frozen2026-10-17T04:34:25Z/JSON6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95; unchanged51missing/27notices/290Narōduties; no newrelease |
+| Witness/locators | V09/ACQUIRED-20261017-A1/Drive1RK-HYY-C_iMlH7Tua_p-Pik1GP5XCri_/7701730bytes/sourceSHA3201ae3ffd1230a526dd5d9a184d4a76ab7aff4a7b244160cbfc886acbb8086a/locatorSHAe3355f5468a51f857a0a3e5cf22658fe5ca8313bda17c4e1c21d2cc94f2496fe; mappackage1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju; OPFja/UUID41b49992-da0c-4afc-9ee1-5ede50c0db36/electronicandprintfirst2026-05-20ver.001 |
+| Source controls |28spines/3949p/18originalimages/567ruby/162guides/967literalchecksPASS;221first-checker mismatches inspected/repaired only inchecker; originals/packets/journal unchanged; p0111–80lostoutputzerocredituntilredelivery |
+| Entering freezes | A1@14:28:28.061691UTC/tenfullinputs/opening10780bytesSHA0527e5cd68cb7143f8ccd0da4e733e8362e0dcde25f555f3dae2121cb64210db; typo-onlyA2beforefiction@14:28:54.414869UTC/combinedb8bd6aa0d44841caff0ab6c32a2a760e1bae237d36a4438e38a2cc950a9cfdd1 |
+| F5midpoint |15:09:44.864274UTC/1893p/12images/106382bytesSHA2d44155d4e12b7ea4df635d0ebf07979979f5a866786dd12ba85ad818082eda6; mid-zoo not completedtrip |
+| F10mainline |15:37:00.291465UTC/3594p/15images/158329bytesSHAed22147780caa9f57c2d8afc9f7f3bdb508cd7fd383dfa6443f5596f94be7952 BEFOREafterword/middle-schoolbonus/tail |
+| Sealed original journal |173510bytes/SHA5813aef79c1eb4b51c5b9b9f439e79814f06531805ae03f7bd07f2269a7a9f31/51observations/sealed2026-10-17T15:44:18.018414Z |
+| Lanes/highwater | LNV09/9of9 throughI1; externalSSNONE0/18; KakNONE0/431; NarōNONE0/290. Available9/458; overall115unreached. LN100%analyticalreviewcompleted/publicationchainrequired |
+| Fictional endpoint | M/S-V09-EXIT/both19/lateFebweek+afterFeb14/nightbeforeplannedtrioouting; no exactdate/storyyear. Middle-schoolrewindseparate |
+| Knowledge | MhearsSfamilypartialhistory/onewayassurance/nextyearpromise, notprivateLOVE/fear/sisterdetails; ShearsMinterest/zoofun, notfulljealousy/record/childhoodreasons; no omniscientfriends |
+| Claims/instruments |59character events/10projections/23readiness rows;35relationship events/16directions/75ruleversions(36old+37newR104–R140+2laterR114versions);181propositionversions(99old+75newIDs+7laternewversions)/82access transitions/30tensions;66claimformulations(54old+12new), totaling73claimIDs/325formulations/18forecasts;311propositionIDs/140ruleIDs |
+| Ordinary actual tests | S0.13@14:34:23.581323UTC/packeta687490c7317759a451606aef1a478dbd4f9204d1357de1fb5dbfd1fd5295039/journal28881bytesSHA870083882dfd0a2f5399093c2868f0b2adfac76295e5452f84092a5ae266ba99→p004244NEWnotOLD FAILED; unsupported sharedtableinput retained/qualified. M0.12@14:43:14.461340UTC/packet4974a676bb0a03b0135e3415bd3a81186a5d674687550f183e4c0612ac3178b2/journal50538bytesSHA820785d1738a91c9c319d02311702f9470f7712edb523c5a7866f1f4ab616f26→p005217firstNO narrowbaselinetie; laterchoicesnotrescore |
+| Models/readiness |13historicalcases6firstactionfailures(oneinputqualified)/1gift-exposurequalified/6ordinarybaseline-ties;5olderclaimsseparate. M0.13/S0.14exitUNTESTED/0heldout/noindependentacceptance/noVALIDATEDdomain; unfamiliar/crossseriesnotready; intimateenactmentexcluded |
+| Unresolved | MaikaNewYear帰っていないellipsis, room-onlygrantwiderscope, birdphototransfer, tutorresult/continuation, Marchvisit/trioouting/WhiteDay/nextValentine/futureaqua-zoo; oldskirtreturn/stew/weather/parentreferent; maternalcause/fate/completefamilymotives |
+| Next authorized operation | **BW-JP-V03**/I1ordinal10/Drive1fby4VCdim7QYgMPeqIrxsMztA8aoVe8z/636131bytes/SHA418c2c8efc7c4a92d57d3705142b6881aa5122b5edc9a0659d1cc22ebd2c0a10; exact unit/completecomponent/placement/admissioncheck BEFOREreading; no new owner confirmation |
+| Remaining program | All18SS/431Kak/290Narōcorrespondences/finite discovery and mandatoryvoices; corpusreconciliation/principal+justifiedsupportmonographs/specialists/reconstructionvalidation+limitations/V1dispositions/integratedsynthesis/releaseaudit. V1 still substantively unread; webLN-exposedoutcomesnotblindtests |
+| Publication/run | V09postcommit source→housekeeping→finalactual-head/eligibleowner-onlynightly/mandatoryexplicitmainaudit required; active notcompleted/nextnotNONE; no directmain/globalregistry/index mutation |
+
+LN100% closes one bounded lane only. Earlier source notes, dates, modelcreationUNTESTED statuses, failed forecasts, historical checkpoints and prospective freezes stay recoverable. This checkpoint supplies no authority to admit LN10 or bypass source availability/modality obligations.
+
+
+## Verified V09 publication before first supplement
+
+V09sourcef05e5ffbc52b2b24911e1b700df3a7845f665958/PR207/main108300099ba20305091a1050fcde33f203afb671/fulltreee4f247a787ca15f5bb5519e7cb6db2cdda06e0ca/source39049020760/house39049396593NO_OP/final39049426359/night39050040125/explicitowner main39050124564 allSUCCESS/full352tests. [PR207](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/207) preserves the complete source tree. Mandatory explicit main audit is ownerrepository_dispatch/full352tests/actual108300099; pushmain39050108624 is separate. V09 CLOSED_ON_GREEN_MAIN. Additional default-main-displayed audits belonging to another source were not mistaken for this audited SHA. Clean ordinary merge into the series branch preserves both histories and the in-progress supplemental candidate; no side deltas/imported unrelated edits.
+
+## Durable checkpoint after BW03
+
+**SHUUKURA-TX-BW-JP-V03-20261017-A1** advances only in the whole introducing commit, recovered by transaction identity/remote exact contents. [Reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V03_DEEP_READING.md) and [audit](SHUUKURA_V2_BW_JP_V03_TRANSACTION_AUDIT.md) bind coverage and nine maintained before-images. Drafts/partial writes/source inspection alone never advance HWM; verify actual state after interruption.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run | epoch1/continuous_sequential/active/startLN-JP-V01/terminalI1plusallrequiredoutputs/lockOPEN/confirmationfalse |
+| Repository | priorf05e5ffbc52b2b24911e1b700df3a7845f665958/main108300099ba20305091a1050fcde33f203afb671/equalfulltreee4f247a787ca15f5bb5519e7cb6db2cdda06e0ca; ordinary merge retains both |
+| Versions | method/architecture/reconstruction0.2; source/current1.4; ledgers/checkpoint1.1; no model authority promotion |
+| I1 | JSON6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95 unchanged;51knownmissing/27finite notices/290Narōduties/LN10excluded |
+| Source/locator route | BW-JP-V03/Drive1fby4VCdim7QYgMPeqIrxsMztA8aoVe8z/636131bytes/SHA418c2c8efc7c4a92d57d3705142b6881aa5122b5edc9a0659d1cc22ebd2c0a10; locatorSHAfd247540fc7a3d09e3572af966f5a50ac539c7983f20d60318378f53dc135572; navSHAcfa771cdeefa1eff6b79a38b3c61d57fa31b5ac6d42a0330be8f96b4f3d46d1b; evidenceDrive1YWFdbKdwOxSf5sAhCtoAWrJW6MKFRIhs/29612bytes/SHA6f30cf169e5b492b5c14f032798124a21ba654dc25c048baf5d3c6e1b6855100/readbackverified |
+| Complete coverage | 3spines/185storyp/2originalimages+538byte nonspine nav,76literalchecks/0ruby; all exact hash/CRC/UTF8/flow checks pass; extra-nav discovery explicitly classified without changing initial map |
+| Entry | SHUUKURA-BW03-ENTER-20261017-A1@2026-10-17T16:22:36.893234+00:00; priorf05e5ffb/tenfullinputs/0fiction/0images; readerallLNknown/historicalactorclockinitiallyunresolved |
+| StoryF2 |16:25:32.784373UTC/185p/1image/prefix8036bytesSHA476993f10be9130174ad7bf0d8dba3d3c18642009dd0fcbef7d7ab9e6a5041b0 BEFOREcolophon/nav |
+| Whole journal |10970bytes/SHAc7384a1ce17e3ced581caa1b0ce6f2187811aa799c848680465df0b613055300/4observations/sealed2026-10-17T16:28:45.347526+00:00; exact reading suffix |
+| Historical actors | highschoolY3/festivalDAY2/exactdate-ageunknown; Mschoolservice/friendjoy/arrivalattention; Sprivateclasswish/fakeexam/rememberedwords; no new shared encounter or mutual visit promise |
+| Chronological adult state | M/S-V09-EXIT unchanged; historical BW03 source never supplies earlier actors later adult knowledge |
+| Cumulative delta | 10character events/10historicalprojections/6readiness;7relationship events/6directions/2olderruleversions;26propositionversions/16access/6tensions;9olderclaimversions+4new; total77claims/338formulations/325propositions/140rules |
+| Models | M0.13/S0.14 original adult LN fit identity unchanged/untested; separate retrospective evidence addenda are no operational model/test.13attempts6fail(oneinput-qualified)/1giftqualified/6baseline-ties;5olderclaimforecasts separate/18records; no VALIDATEDdomain/independentacceptance |
+| Lanes/HWM | globalBW-JP-V03 onlywholecommit; LN09/9of9, SS BW03/1of18, KakNONE0/431, NarōNONE0/290; available10/458. LN100%greenPR207; SS5/18/overall115milestonesunreached |
+| Unresolved | Exactschoolfestivaldate/age/actorfullfeelings/unrepresented postending; later adult outstandingpromises/sourceuncertainties retain V09scope. No web/V1/audio finding admitted |
+| Next | BW-JP-V06/I1ordinal11/Drive1YPKxevk2nlULpEQBoYYvyzlPgSU7qCUF/636614bytes/SHAf33b45be05f32d03f0c2c9b91671cd6d75f1505d0ff488689268364a62b74d2d; exactsource/completeness/placement/admissioncheck before reading |
+| Publication | BW03 source→housekeeping→finalactual-head/eligibleowner-onlynightly/explicitmainaudit required. No directmain/globalregistry/index write; never replay already successful appends |
+| Remaining program | Allremaining17SS/431Kak/290Narōcorrespondences/finite discovery/mandatoryvoices, corpusreconciliation/monographs/specialists/reconstructionlimits+tests/V1dispositions/integratedsynthesis/releaseaudit; runactive/nextnotNONE |
+
+A missing reserved supplemental directory caused the first reading write to fail after two model appends. Recovery verified exact historical prefixes and exactly one append per model, created the declared parent and wrote only the missing prepared reading. No append replay, frozen text change or false HWM. This operational repair supplies no new fictional information or validation waiver.
+
+BW03-C1 later chronology refinement: distinctive original LN03/BW03 café/qualified-remark/final-year correspondence places day2 in October (early October approximate; exact day/year/numeric ages not assigned here). See the [post-seal addendum](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V03_DEEP_READING.md#post-seal-chronology-and-novel-correspondence--bw03-c1). Frozen original BW03 journal and all LN01–09 accepted bytes unchanged; one additional version of PROP-BW-JP-V03-001 and EPI-BW-JP-V03-016, no new claim/test.
+
+
+## BW03 source audits and protected integration preservation
+
+BW03sourcea41c6821da4a7c82154712f4d9f4914ad9fa2272 passed source39052329180, housekeeping39052565861 (unchanged routing/source boundaries), finalactual-source39052600867 (bot repository_dispatch/actuala41c6821/full352tests/trustedstatus). Owner-onlynightly39053129915 completedSUCCESS/VERIFIED_OWNER_ONLY/merged_verified. [PR208](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/208) is owner-authored/owner-merged/same-repository/exacthead a41c6821; integration159644848f216c208367ecf5de822ec969debfbb preserves the entire source tree1798d7383495ab3febbc59cd23b0d09367c34d62. Mandatoryownerexplicitmain39053218687 completedSUCCESS/repository_dispatch/actual159644848f216c208367ecf5de822ec969debfbb/full352tests/trustedstatus; BW03 CLOSED_ON_GREEN_MAIN. Pushmain39053201689 is separately successful and not the explicit-audit substitute. Clean ordinary main merge is pending the BW06 transaction, preserving both histories and all uncommitted analytical work; no side paths imported.
+
+## Durable checkpoint after BW06
+
+**SHUUKURA-TX-BW-JP-V06-20261017-A1** advances only in its entire introducing commit. The [reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V06_DEEP_READING.md) and [unit audit](SHUUKURA_V2_BW_JP_V06_TRANSACTION_AUDIT.md) bind evidence, material deltas and exact candidate hashes. Recover actual Git state rather than replaying draft appends after interruption.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run | epoch1/GIT_ACTIVE_ACCEPTED; continuous_sequential/active/authorized startLN-JP-V01/terminalI1plusrequiredoutputs/lockOPEN/no ordinary confirmation |
+| Repository | Entering sourcea41c6821da4a7c82154712f4d9f4914ad9fa2272/tree1798d7383495ab3febbc59cd23b0d09367c34d62; main108300099 at entry, later verifiedPR208main159644848f216c208367ecf5de822ec969debfbb has equal tree; ordinary merge pending, no history rewrite |
+| Versions | Method/architecture/reconstruction0.2; source/current1.5; four ledgers/checkpoint1.2; no model authority promotion |
+| I1 | SHUUKURA-V2-20261017-I1/JSONSHA6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95 unchanged;51missing/27finite notices/290Narō duties; LN10/later releases excluded |
+| Source/locator | BW-JP-V06/Drive1YPKxevk2nlULpEQBoYYvyzlPgSU7qCUF/636614bytes/SHAf33b45be05f32d03f0c2c9b91671cd6d75f1505d0ff488689268364a62b74d2d; mapSHA551c9cedb70466b86bb3e8d2ef44e8b8d1ebcc8f71c1d0f68b6a1594786426ae |
+| Verified evidence | Drive1KxZgBZi9SglSubehU3p24-5OruiVuJB-/28933bytes/SHAb0c40368a981af917f8e77b2b5bbf8031e6abb9ac599a81577cb1b2e8312c00d;13members/upload-download/allhashes+CRC verified; no raw primary media |
+| Whole source | 3spines/132paragraphs/2originalimages+538byte original navigation;70literalchecks/0ruby/complete native hash-flow verification PASS; OPFja/colophon2025-02-20 publication date |
+| Entering freeze | SHUUKURA-BW06-ENTER-20261017-A1@2026-10-17T17:07:02.301800+00:00; tenfullinputhashes/0fiction/0images; allLN01–09/BW03 exposed reader, historical actor interval initially unresolved |
+| First focalizer freeze | F1@2026-10-17T17:08:04.292705+00:00/67p/cover1image/prefix6115bytesSHA8a5895ebde982e9a7cd59c767a91e77035fdbaf96b58af488e1db6c9772a514e BEFORE S sectionp68+ |
+| Story freeze | F2@2026-10-17T17:09:07.697753+00:00/132p/cover1image/prefix11946bytesSHAe6fd30f45c0d9b7557f7f39cca56d1ac1e5639b2264b43d7dbefe051b874aeeb BEFORE colophon/navigation |
+| Whole journal | 2026-10-17T17:09:55.909246+00:00/15656bytes/SHAbb5db9bd4bc5a3bd709680251589b1f7ad2ca95ee9ad8823f5383f4591f369cb/4observations; exact reading suffix |
+| Historical states | M/S-BW06-EVENING then M/S-BW06-STORE; S intermediateRUN separately indexed; shared university home after kettle purchase/tutoring start; exact calendar/numeric ages unassigned. Adult M/S-V09-EXIT unchanged |
+| Material delta | 6character events/4projections/2readiness;7relational events/4directions/3older-ruleversions+2newR141–142;20propversions(3old+16new+1later)/17access/6tensions;7olderclaimversions+4new. Cumulative81claims/349formulations/341propositionIDs/142ruleIDs |
+| Reconstruction | M0.13/S0.14 original adultLN fit/time/UNTESTED/noncurrent identities retained; separate retrospective evidence only.13attempts=6firstactionfailures(oneinput-qualified)+1exposure-qualified gift match+6baseline-ties;5olderclaimforecasts separate/18records; no independent acceptance/VALIDATEDdomain |
+| Lanes/HWM | GlobalBW06 onlywholecommit; LN09/9of9; SS BW06/2of18; KakNONE0/431; NarōNONE0/290; available11/458. SSquarter5/18/overall115 unreached |
+| Unresolved | Exact story date/ages and relative/deduplication with novel stew offer; M exact waiting reason/timer and elapsed time; actual tea drinking/checkout/payment/home delivery/cooked stew. No new shared private-goal knowledge or global diagnosis |
+| Next authorized operation | BW-JP-V07/I1ordinal12/Drive1uczKmuZMDOV7-c5XuKFzhwDbt5PkW0n0/1045635bytes/SHA1e367715dc5d6c58309452208258ba146cab73e1416ccbf5403ae8f5846e57c6; exact original/admission check before automatic reading |
+| Publication | BW06 source→housekeeping→finalactual-head audit and eligibleowner-onlynightly/explicitmain required; no next push before previous publication chain closes. Local unit commits and audited public tranches remain distinct |
+| Remaining program | 16available SS/431Kak/290Narō correspondences/51knownmissing/27finite discovery/mandatoryvoices; corpus reconciliation/principal+justifiedsupport monographs/specialists/reconstruction testing+limits/independent V1 dispositions/integrated argument/release adversarial audit; runactive/nextnotNONE |
+
+Earlier historical checkpoints/journals/accepted readings/model packet bytes remain intact. Neither a draft nor source inspection alone advances HWM. Ongoing publication and a scheduled future volume do not extend I1; complete only the frozen extent and truthfully retain source blockers.
