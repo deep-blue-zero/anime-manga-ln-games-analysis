@@ -213,7 +213,7 @@ Acquire the following universal context for every repository task, then add ever
 
 A policy link identifies ownership; it is not a demand to recursively read every linked file. A rule's prerequisites and cross-references become required when the operation depends on them. No project-specific method, freeze, source boundary, evidence requirement or publication control is made optional by this routing table. When a task cannot be bounded to the listed sections, read the owning policy in full.
 
-A `MISSING` series route is legitimate only when its `series_id` appears in the reviewed `allowed_missing_canonical_entrypoints` set in `governance/repository-controls/tracked-file-policy.json`. Any other `MISSING` route, or any stale allowlist entry with no corresponding missing route, is a repository-validation failure. The current epoch-1 reviewed exception is `shuukura` only.
+A `MISSING` series route is legitimate only when its `series_id` appears in the reviewed `allowed_missing_canonical_entrypoints` set in `governance/repository-controls/tracked-file-policy.json`. Any other `MISSING` route, or any stale allowlist entry with no corresponding missing route, is a repository-validation failure. The reviewed exception set is empty after the coordinated Shuukura V2 entrypoint transition; no series currently has a missing canonical entrypoint.
 
 Conversation memory, search-result ranking, file recency, and filename similarity do not outrank the live authority records.
 
