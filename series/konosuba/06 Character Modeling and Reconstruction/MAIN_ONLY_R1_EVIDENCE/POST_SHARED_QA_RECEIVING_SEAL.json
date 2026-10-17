@@ -1,0 +1,25 @@
+{
+  "state": "COMPLETE_FULL90_INITIAL_AND_POST_SHARED_QA_RECEIVING_AT_DECLARED_SCOPE",
+  "sealed_utc": "2026-10-17T14:57:08.298654+00:00",
+  "manifest": {
+    "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/post-shared-qa-receiving-v1/POST_SHARED_QA_RECEIVING_MANIFEST.json",
+    "bytes": 3983,
+    "sha256": "edd296d3ebe9fe259bcec0b73fd9f33c181a2d5b43e412b82de69e5557d739d5"
+  },
+  "report": {
+    "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/post-shared-qa-receiving-v1/POST_SHARED_QA_COMPARISON_AND_CURRENT_FINDINGS.md",
+    "bytes": 10338,
+    "sha256": "a5ccbf93b419d7e5b5326a8c605754ec4dc2dfcf8efc2c9b5a2e89ce5f3e5522"
+  },
+  "external_overlay": {
+    "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/post-shared-qa-receiving-v1/POST_SHARED_QA_EXTERNAL_CASE_AND_CRITERION_OVERLAY.json",
+    "bytes": 11957,
+    "sha256": "e0106477fd72c4c5dfb451cbb93853a8f238c52d057c73f1c60e5a41840bff9a"
+  },
+  "initial_seal": {
+    "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/INITIAL_FULL90_ASSESSMENT_SEAL.json",
+    "bytes": 1116,
+    "sha256": "d6b83a778db6c071bf5045e42ce11b627d8a0f69ff027a26b15c53e3971ea113"
+  },
+  "actual_scope_and_authorship_limits_retained": true
+}
