@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.8"
+version: "1.9"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–03 CLOSED_ON_GREEN_MAIN; KSS04 whole-unit checkpoint, nextKSS05"
+source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–04 CLOSED_ON_GREEN_MAIN; KSS05 whole-unit checkpoint, nextKSS06"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: KSS04_SOURCE_SEMANTIC_PARTIAL_KNOWLEDGE_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
+review_status: KSS05_SOURCE_SEMANTIC_OBJECT_ACCESS_AND_CLAIM_ROUTING_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -712,3 +712,37 @@ Whole sourcee3603f3a7a818f4ae4313fe42acfb0df844d6192/tree9a4fb8096595c7c7662ad7b
 Native omission does not erase original participant knowledge. Bare contact, university contents, private regret and later performed repair remain different. Prior adult states and prospective freezes retained; no future release silently extends I1.
 
 Before the whole KSS04commit, currentmain6197361b2d88a30f7cd9ce9bfab13b5f1827d802 was incorporated through a clean ordinary merge after verified PR213/sourcee3603f3a/integration whole-tree equality9a4fb8096595c7c7662ad7bc9561d2987d80d3d6. No new main paths or governance drift; all11authored candidates byte-exact across reconciliation. Merge remains pending the whole unit commit, preserving both published histories.
+
+
+## KSS04 verified durable publication before KSS05
+
+KSS04 CLOSED_ON_GREEN_MAIN/PR214:source9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217/maincce4eb7cb02867112afbe1b40fd17c074a666df2/equalfulltree421b0ee8879122f9719f0691723efb1a76616fe9;source39069161640/house39069396732NO_OP/finalactualsource39069422346/owner-nightly39069838269/mandatory ownerexplicitmain39069935058 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Successful pushmain39069912902 did not substitute for the mandatory dispatch.
+
+## Durable checkpoint after KSS05
+
+**SHUUKURA-TX-KSS-05-20261017-A1** advances only through the whole introducing commit. [Reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_05_DEEP_READING.md) and [audit](SHUUKURA_V2_KSS_05_TRANSACTION_AUDIT.md) bind sources, immutable prefixes, cumulative instruments and separate attributable routing correction. Recover actual committed state after interruption before writes.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run | Epoch1/GIT_ACTIVE_ACCEPTED; method/architecture/reconstruction0.2; continuous_sequential/active/startLN01/terminalI1plusalloutputs/gateOPEN |
+| Exact unit | KSS-05/AUTHOR_RELEASE_CAPTURE-20261017-A1/I1ordinal18/ワニの憂鬱/author羽田宇佐; native part09,11892bytes/SHAe274756c998e901365b6aacc285e7467f22596ee9b94dbec4d5d652ea8c53e12;50anchors29nonempty21blank |
+| Maps | Parts identitySHA5fc4ce96caba08aad2f36384de1c497b47796372c13ef7887f672e30b296e06f;parentmapSHA57a97e968efa2bd77f8dace83618cbe35a06243c30bcd3d2ab5c106b50f67127;unitmapSHA8a416b4f90945ca1b779679a8c14b6424c8eeabbcd45abe757571354ee2effe6;exact native serialization/order/0ruby/29literal checks PASS |
+| Native/metadata | Complete preferred author-release native read;1191declaredchars/revision2024-10-27 20:16 are metadata. Native p37 apparent missingで preserved, no correction |
+| C1 | 25/29rawNFKC contiguous matches in each derivative; two comparison-only glyph folds→28/29, p41 reconstructed from documented split/29-character overlap. All4FINAL/SRCpages equal full extracted text/pixels; actual bottom clipping/sticky header qualified, not full visual readability |
+| Actual images | One platform logo before fiction; four postF2glyph/pagebreak crops actually viewed with exact locators/matrix/hash. No narrative illustration/full-page visual/audio certification |
+| C2 | LN04p0141–60,108–137:28literal checks/90serialized bindings;137total anchors. Strong postgraduation/pre-university packing-phase correspondence, exact instant/date unestablished; object inference not human inner access |
+| Evidence | Drive1dS5RjfMecaJajSjoCY5XY5y5rFUfh-LG/64365bytes/SHA6c29c6fbb4221405ba582e634551d330ef8fc77ef8512f236ea511a8dd70d5f9/24members; upload-download/memberhash/CRC PASS; primary media excluded |
+| Entry/frozen journal | SHUUKURA-KSS05-ENTER-20261017-A1@2026-10-17T21:02:10.408253+00:00;prior9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217;tenfullinputs/0fiction0images; Q116113bytes/SHAad598cd7d1186d017dde03fd43eb632c1c8cc59e94602ab81698023817a34f55@2026-10-17T21:11:39.775057+00:00;first25/whole50prefixes unchanged |
+| Historical exit | Crocodile still boxed; accepts Shiori choice, resents lost watching time, considers care alternative, wants comfort. M-KSS05-PACKING-IMAGE/S-KSS05-ATTRIBUTED-CAUSE remain source images; no human dialogue/hearing/new rule/actual comfort/unpacking/arrival |
+| Material delta | 2human-image events/2historical projections/2readiness;4relationshiprows(3new+1older)/3directions/no new or older-rule versions;14propversions(2older+12new)/12access/5tensions;1older source claim+3new and separately2routing-correction versions.108claims/414forms/484props/153rules |
+| Correction | ERRATUM-KSS-05-001 restores housing04005.v6 and existing privacy05001.v6. v5 and frozen references preserved with explicit redirects.54LN09older-claim identity pairs screened/onebreak/53routes preserved; not full semantic reacceptance |
+| Correction provenance | Separate postQ1 LN09sourceSHA3201ae3ffd1230a526dd5d9a184d4a76ab7aff4a7b244160cbfc886acbb8086a/mapSHAe3355f5468a51f857a0a3e5cf22658fe5ca8313bda17c4e1c21d2cc94f2496fe;29checks/94bindings. Drive1jPfqrZ-YBItGzDXZb4idOJ_-OH4vAZbf/28459bytes/SHA08662e0d6c186bcd3a68fc026a8fbe3fd3320565ff19c301a9d651ef9001a53b/4members exact readback/CRC |
+| Reconstruction | Original M0.13/S0.14adultfit/time/UNTESTED/noncurrent prefixes and all13attempts/18forecasts unchanged. No new operational packet/test or validated domain; object rhetoric not human speech sample |
+| HWM/next | Only wholeKSS05commit advances LN9/9;SS9/18;KakNONE0/431;NarōNONE0/290;available18/458. Required SShalfway publication. NextKSS-06/I1ordinal19/黒猫の期待/nativepart10/69anchors after exact admission; no ordinary confirmation |
+| Boundary | I1JSONSHA6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b;ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95. LN10/later releases excluded |
+| Remaining | 9accessibleSS/431parallelKak/290Narō/51knownmissing/27bounded notices/mandatoryvoices and all dedicated reconciliation/monographs/roleaudit/specialists/reconstruction/V1comparison/integrated/adversarialrelease remain mandatory |
+| Prior publication | KSS04 CLOSED_ON_GREEN_MAIN/PR214:source9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217/maincce4eb7cb02867112afbe1b40fd17c074a666df2/equalfulltree421b0ee8879122f9719f0691723efb1a76616fe9;source39069161640/house39069396732NO_OP/finalactualsource39069422346/owner-nightly39069838269/mandatory ownerexplicitmain39069935058 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Successful pushmain39069912902 did not substitute for the mandatory dispatch. |
+
+Object-narrated priority is not a human contract; private access and source clocks stay separate. No future release extends the frozen boundary.
+
+Before the whole KSS05commit, currentmaincce4eb7cb02867112afbe1b40fd17c074a666df2 was incorporated through a clean ordinary merge after PR214source9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217/main whole-tree equality421b0ee8879122f9719f0691723efb1a76616fe9. No new main paths/governance drift; all11candidate contents preserved across reconciliation. Final author review corrects new candidate readiness columns and p25limited-understanding locators before acceptance; source journals, original prefixes and accepted prior units unchanged.

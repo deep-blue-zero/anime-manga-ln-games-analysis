@@ -1087,3 +1087,20 @@ Native classroom interval follows the existing November LN03Maika/Sencounter and
 | Readiness | Evidence addendum for later explicitly versioned reconstruction, no new operational packet/test. Ordinary source-consistent reconstruction, conversation, counterfactuals, unfamiliar people, cross-series and acoustic domains require separate assessments |
 
 S0.14 retains original adult LNfit/time/UNTESTED/noncurrent identity.13historical attempts remain6first-action failures(oneinput-qualified)+1exposure-qualified gift match+6baseline ties;5olderclaim forecasts separate/18records. Original outcomes already independently read, no new heldout credit or model validation. Same-author/evaluator and latent familiarity limits remain; no independent acceptance/numerical accuracy/VALIDATEDdomain. Full reconstruction/readiness assessment remains mandatory.
+
+
+## KSS05 historical evidence addendum — an object voice and human limits
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_05_DEEP_READING.md#observation-locator-index) owns all50native anchors/29nonempty paragraphs in authorpart09. A crocodile tissue cover narrates; Shiori is perceived and Sendai blamed while absent. Its affectionate 志緒理ちゃん, rival full-name reference, 私 and extravagant self-praise are object-narrator language, not new human conversational samples. Its explicit inability to speak prevents automatic transfer of its interior to human hearing.
+
+| Responsibility | Evidence and negative constraint |
+| --- | --- |
+| Historical Miyagi image | Narrator reports early packing and slight apparent anxiety; inferred affection ranking and alternative care hypothesis remain its own. Original LN04p014 M own choice/no-regret amid unease and refusal of help stay independently attributed |
+| Historical Sendai image | Narrator allocates blame for move, university and room sharing while admitting limited understanding. No new current Sendai voice, action or private motive; M agency does not disprove all Sendai influence |
+| Material/form comparison | Boxed crocodile/cat still outside strongly correspond to original packing phase, not an exact same instant or ventriloquized M psyche. Comfort desired, not delivered; move/arrival/unpacking not performed here |
+| Readiness | Historical evidence addendum only. Original adult fits and M/S-V09-EXIT, BW09night and earlier historical views retained; no new operational packet/test, acoustic readiness, unfamiliar-person or cross-series validation |
+| Claim routing clarification | ERRATUM-KSS-05-001 restores housing to CLM-LN-JP-V04-005.v6 and preserves valid privacy evidence in CLM-LN-JP-V05-001.v6. Historical LN09 references to04005 retain its v5 privacy meaning; earlier housing references retain v1–v4. The original model prefix is unchanged and no outcome is rescored |
+
+Source unit C2:28literal checks/90serialized bindings in LN04p0141–60,108–137. Separate post-Q1 claim-routing correction:29checks/94bindings in LN09p004/p007/p008/p009/p013. These are known-source checks, not new heldout interactions. All13historical attempts/18forecast records unchanged; no independent acceptance, numerical accuracy or VALIDATEDdomain. Full reconstruction program remains mandatory.
+
+S0.14 retains original adult fit/time/UNTESTED/noncurrent identity. The new object focalizer supplies no operational human response model.
