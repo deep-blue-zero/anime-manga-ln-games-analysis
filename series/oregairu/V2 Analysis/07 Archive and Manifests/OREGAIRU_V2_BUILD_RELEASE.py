@@ -71,7 +71,72 @@ def json_bytes(value: object) -> bytes:
 
 
 def git(repo: Path, *args: str) -> bytes:
-    return subprocess.check_output(["git", "-C", str(repo), *args], stderr=subprocess.PIPE)
+    # A local replacement ref must never change the objects bound to --commit.
+    return subprocess.check_output(["git", "--no-replace-objects", "-C", str(repo), *args], stderr=subprocess.PIPE)
+
+
+def replacement_ref_regression() -> dict:
+    """Exercise real commit/blob replacements in an isolated, disposable repo."""
+    import os
+    import tempfile
+    from unittest.mock import patch
+
+    env = {key: value for key, value in os.environ.items() if not key.startswith("GIT_")}
+    env.update(GIT_CONFIG_NOSYSTEM="1", GIT_CONFIG_GLOBAL=os.devnull)
+    with tempfile.TemporaryDirectory(prefix="oregairu-release-regression-") as directory, patch.dict(os.environ, env, clear=True):
+        repo = Path(directory)
+
+        def fixture_git(*args: str) -> bytes:
+            return subprocess.check_output(["git", "-C", str(repo), *args], stderr=subprocess.PIPE)
+
+        fixture_git("init", "-q")
+        fixture_git("config", "user.name", "Release regression fixture")
+        fixture_git("config", "user.email", "fixture@example.invalid")
+        files = {"series/registry.json": json_bytes({"series": [{"series_id": "oregairu", "canonical_entrypoint": ROOT + "/" + ENTRYPOINT}]}),
+                 **{name: b"Fixture legal text.\n" for name in LEGAL},
+                 **{ROOT + "/" + name: b"Fixture historical exclusion.\n" for name in EXCLUSIONS},
+                 ROOT + "/" + ENTRYPOINT: b"# Fixture corpus map\n",
+                 ROOT + "/" + READER_GUIDE: b"# Original fixture guide\n",
+                 ROOT + "/" + BUILD_HELPER: Path(__file__).read_bytes(),
+                 ROOT + "/03 Volume Deep Readings/FIXTURE.md": b"# Fixture analytical reading\n"}
+        for name, data in files.items():
+            path = repo / name
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_bytes(data)
+        fixture_git("add", "--", *files)
+        fixture_git("commit", "-q", "-m", "Original fixture")
+        original = fixture_git("rev-parse", "HEAD").decode().strip()
+        baseline = select_git_blobs(repo, original)
+        baseline_zip = zip_bytes(baseline[0])
+        guide = ROOT + "/" + READER_GUIDE
+        original_blob = fixture_git("rev-parse", original + ":" + guide).decode().strip()
+        (repo / guide).write_bytes(b"# Substituted fixture guide\n")
+        fixture_git("add", "--", guide)
+        fixture_git("commit", "-q", "-m", "Replacement fixture")
+        substitute = fixture_git("rev-parse", "HEAD").decode().strip()
+        substitute_blob = fixture_git("rev-parse", substitute + ":" + guide).decode().strip()
+        fixture_git("replace", original, substitute)
+        require(fixture_git("rev-parse", original + "^{commit}").decode().strip() == original,
+                "Fixture must preserve the apparent requested commit identity.")
+        require(fixture_git("show", original + ":" + guide) != files[guide],
+                "Fixture commit replacement must affect unprotected Git reads.")
+
+        def unchanged(label: str) -> None:
+            selected = select_git_blobs(repo, original)
+            require(selected == baseline and zip_bytes(selected[0]) == baseline_zip,
+                    label + " changed protected source tree, inventory or archive bytes.")
+
+        unchanged("Commit replacement")
+        fixture_git("replace", original_blob, substitute_blob)
+        require(fixture_git("cat-file", "blob", original_blob) != files[guide],
+                "Fixture blob replacement must affect unprotected Git reads.")
+        require(git(repo, "cat-file", "blob", original_blob) == files[guide],
+                "Protected blob read returned substituted content.")
+        unchanged("Combined commit/blob replacements")
+        fixture_git("replace", "-d", original)
+        unchanged("Blob replacement")
+    return {"commit_replacement": "PASS", "blob_replacement": "PASS", "combined_replacements": "PASS",
+            "original_tree_inventory_and_archive_byte_identity": "PASS", "isolated_fixture_only": True}
 
 
 def validate_text(name: str, data: bytes) -> str:
@@ -418,11 +483,18 @@ def verify_archive(source: io.BytesIO | Path, expected: dict[str, bytes], invent
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--repo", required=True, type=Path)
-    parser.add_argument("--commit", required=True)
-    parser.add_argument("--output", required=True, type=Path)
-    parser.add_argument("--receipt", required=True, type=Path)
+    parser.add_argument("--self-test", action="store_true", help="Run isolated Git replacement-ref regression; no packaging inputs required.")
+    parser.add_argument("--repo", type=Path)
+    parser.add_argument("--commit")
+    parser.add_argument("--output", type=Path)
+    parser.add_argument("--receipt", type=Path)
     args = parser.parse_args()
+    if args.self_test:
+        require(not any((args.repo, args.commit, args.output, args.receipt)), "--self-test takes no packaging inputs.")
+        print(json.dumps(replacement_ref_regression(), indent=2))
+        return
+    if any(value is None for value in (args.repo, args.commit, args.output, args.receipt)):
+        parser.error("packaging requires --repo, --commit, --output and --receipt")
     repo = args.repo.resolve(); output = args.output.resolve(); receipt_path = args.receipt.resolve()
     require(repo.is_dir(), "Repository does not exist.")
     require(output.suffix.lower() == ".zip", "Output must have .zip suffix.")

@@ -1,6 +1,6 @@
 {
   "analytical_basis_commit": "8a2133822bf49077aa1eacb2a382ea16ab60b9ae",
-  "archive_filename": "Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.1.zip",
+  "archive_filename": "Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.2.zip",
   "artifacts": [
     {
       "bytes": 24960,
@@ -852,26 +852,26 @@
       "sha256": "40766b1878206ca6aba0171b604d1ed0e62a7c168a9b128a487905b986a32223"
     },
     {
-      "bytes": 27305,
+      "bytes": 31691,
       "current_authority_veto": null,
-      "git_blob_oid": "09ffc55563e01f3202e37aa85c31398584df17c1",
+      "git_blob_oid": "d9394ba474f61cccf74700d07a6f8f8ba4a572dd",
       "machine_authority_status": "NOT_APPLICABLE_OR_UNCLASSIFIED_LEGACY",
       "package_included": true,
       "path": "07 Archive and Manifests/OREGAIRU_V2_BUILD_RELEASE.py",
       "repository_path": "series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_BUILD_RELEASE.py",
       "role": "deterministic_analytical_release_reproduction_code",
-      "sha256": "4d24b5b97c29b00334383d9db8c742d1e40704ff4fc8802e2eb7926b8fc60ec3"
+      "sha256": "c0aad1eb312698e8ddf213488d0bb05d52594594d1a05320e8f594e84f748c8a"
     },
     {
-      "bytes": 27471,
+      "bytes": 27790,
       "current_authority_veto": false,
-      "git_blob_oid": "50af211de3f7aa1b7523cd76e665a300627cb0b9",
+      "git_blob_oid": "641ddea3d288585a9006d4e2b539274b4e6c4b88",
       "machine_authority_status": "canonical",
       "package_included": true,
       "path": "07 Archive and Manifests/OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md",
       "repository_path": "series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md",
       "role": "maintained_task_claim_reconciliation_and_curation_handoff",
-      "sha256": "d45f686a5dabbd349085b2009c2267b8772a97b2dcbec23a972c544ac5fa5c97"
+      "sha256": "48a562f90d2139a29377e1c4ac7fa42e26bc10d0c8f74c75266d2ed42e3019fb"
     },
     {
       "bytes": null,
@@ -886,15 +886,15 @@
       "sha256": null
     },
     {
-      "bytes": 85618,
+      "bytes": 85801,
       "current_authority_veto": false,
-      "git_blob_oid": "e01a2ad1a0b59158a93f7cb3fd94d22e6c85ec3c",
+      "git_blob_oid": "022916c13d16b3af8a769bd680d8a44cccce2a78",
       "machine_authority_status": "canonical",
       "package_included": true,
       "path": "07 Archive and Manifests/OREGAIRU_V2_DRIVE_CORPUS_MAP.md",
       "repository_path": "series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_DRIVE_CORPUS_MAP.md",
       "role": "sole_registered_mutable_current_entrypoint",
-      "sha256": "83c9429ff83a138a89905f99408f8939f19c7b4a3214526b001df707ca27a130"
+      "sha256": "4e3f47c9251fcadf5f829a9571939c740e2d1734bc88f79667c217c3037f178a"
     },
     {
       "bytes": 58857,
@@ -932,15 +932,15 @@
       "sha256": "32d090a11881f48fdedb004bc568d3acbfa3e4a62bbfc0a45c7a38d7924b8162"
     },
     {
-      "bytes": 17911,
+      "bytes": 20582,
       "current_authority_veto": false,
-      "git_blob_oid": "2f7870f32709cb8f2323e4257c92cbbb951866ab",
+      "git_blob_oid": "0f13c4e1fa9831974583cd28e399f637541d76f3",
       "machine_authority_status": "canonical",
       "package_included": true,
       "path": "07 Archive and Manifests/OREGAIRU_V2_PHASE9_RELEASE_QA.md",
       "repository_path": "series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_PHASE9_RELEASE_QA.md",
       "role": "release_candidate_qa_and_owner_review",
-      "sha256": "6bc1b8c958d2724a6ec4af1104af30fe804c566c5c20973622f9c2d2ad181ab3"
+      "sha256": "951a9a6b9cd0824828c1a47d839cbba5ade14c8bc4dadc9cf470c27a10f00717"
     }
   ],
   "authority_note": "Machine front-matter classification and scoped corpus responsibility are separate. Frozen legacy headers are not silently promoted or rewritten. Model eligibility does not establish global enrollment or simulation capability.",
@@ -1004,14 +1004,16 @@
     "original_model_hash_owner": "07 Archive and Manifests/OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md"
   },
   "registered_entrypoint": "07 Archive and Manifests/OREGAIRU_V2_DRIVE_CORPUS_MAP.md",
-  "release_id": "OREGAIRU_V2_EXPANDED_v1.0-rc.1",
+  "release_id": "OREGAIRU_V2_EXPANDED_v1.0-rc.2",
   "release_state": "ANALYTICAL_CANDIDATE_PENDING_PROTECTED_MAIN_INTEGRATION_AND_FINAL_FREEZE",
   "reproduction": {
     "builder": "07 Archive and Manifests/OREGAIRU_V2_BUILD_RELEASE.py",
     "dynamic_timestamps": false,
     "fixed_member_timestamp": "2026-10-17T00:00:00",
+    "git_object_resolution": "All Git reads use --no-replace-objects",
     "inputs": "Exact full published Git commit and byte-identical factual publication receipt",
     "order": "lexicographic",
+    "replacement_ref_regression": "Run the included builder with --self-test; commit, blob and combined substitutions must preserve the original tree/inventory/archive bytes",
     "unix_file_mode": "0644",
     "verification": "Two complete builds byte-identical; every member reopened, CRC/SHA and source Git blob identity verified; relative Markdown file targets checked",
     "zip_compression": "ZIP_STORED"

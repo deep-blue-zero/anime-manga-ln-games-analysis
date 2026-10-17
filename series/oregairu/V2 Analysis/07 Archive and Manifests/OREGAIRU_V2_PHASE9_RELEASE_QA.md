@@ -6,7 +6,7 @@ status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-release_id: OREGAIRU_V2_EXPANDED_v1.0-rc.1
+release_id: OREGAIRU_V2_EXPANDED_v1.0-rc.2
 release_state: candidate_pending_protected_main_integration_and_final_freeze
 analytical_basis_commit: 8a2133822bf49077aa1eacb2a382ea16ab60b9ae
 baseline_main_commit: cfddecb9b5b05ce7b5b25060673ed2e77639da6c
@@ -21,7 +21,7 @@ The [registered corpus map](OREGAIRU_V2_DRIVE_CORPUS_MAP.md) remains the single 
 
 ## 1. Release identity and scope
 
-No earlier materialized Oregairu ZIP, tracked release package or Git release-history event was found in the inspected repository history. This is not a claim about every external archive. The architecture's recommended `Oregairu_Definitive_V2_Multi_Document_Synthesis_v1.0.zip` remains a historical proposed final name. This expanded, unintegrated candidate instead uses **`Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.1.zip`**. It preserves the intended v1.0 lineage while making its candidate status and additional scope explicit. A final freeze must bind the verified integrated state; it must not silently rename or mutate this candidate.
+Before this task, no earlier materialized Oregairu ZIP, tracked release package or Git release-history event was found in the inspected repository history. This is not a claim about every external archive. The architecture's recommended `Oregairu_Definitive_V2_Multi_Document_Synthesis_v1.0.zip` remains a historical proposed final name. The first expanded candidate, `Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.1.zip`, remains recoverable unchanged. The current **`Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.2.zip`** incorporates the reproducibility correction in §3.1. It preserves the intended v1.0 lineage while making its candidate status and additional scope explicit. A final freeze must bind the verified integrated state; it must not silently rename or mutate either candidate.
 
 The package preserves the existing directories, identifiers, source locators and historical knowledge boundaries. It includes analysis and source metadata, never the Japanese EPUB/PDF/audio/image payloads or extracted source text. Repository license and third-party notices accompany it; their inclusion does not license the quoted fiction or underlying assets.
 
@@ -54,7 +54,7 @@ The original ending freeze remains Checkpoint E; post-ending durability belongs 
 | Duplicates | No byte-identical artifact duplicates. The deliberate shared SC04–06 acceptance paragraph is administrative provenance; no long exact duplicated analytical argument was found among the additions. |
 | Truncation | Authors and independent reviewers read the new outputs completely and checked their endings, sections, tables, source registers and actor attribution. Ten missing final newlines are unchanged historical bytes, not new truncation; frozen files are not normalized. |
 | Package/source boundary | All selected corpus members are regular UTF-8 text. Both Anthology 02 JSON files were recursively inspected and contain metadata/quality flags, not OCR body or encoded assets. No source containers, raw extraction, media or symlinks are selected. |
-| Final candidate inventory and links | 85 corpus records; 83 selected corpus files plus two legal texts; 84 non-self artifact digests verified. All 136 relative Markdown file/directory links in that candidate selection pass. Four generated package records bring the expected archive to 89 members; actual post-publication build results belong to its receipt. |
+| Final candidate inventory and links | 85 corpus records; 83 selected corpus files plus two legal texts; 84 non-self artifact digests verified. All 137 relative Markdown file/directory links in the rc.2 candidate selection pass. Four generated package records bring the expected archive to 89 members; actual post-publication build results belong to its receipt. |
 | Advisory flag triage | Ten unchanged historical final-newline flags remain preserved. The historical handoff's local-path flag is excluded from the package. The scanner's additional extension flag is the explicitly reviewed UTF-8 reproduction helper; only that exact `.py` path is allowed by the packager. No unresolved advisory flag requires a frozen-byte edit. |
 
 The applicable repository gate is:
@@ -62,9 +62,10 @@ The applicable repository gate is:
 ```bash
 python tools/validate_repository.py --phase current --snapshot index --routing-preflight series/oregairu --repo .
 git diff --cached --check
+python tools/prepare_commit.py --base origin/main --check --full
 ```
 
-The authored milestones passed that gate and complete diff/path review before publication. Full source-audit → housekeeping → exact-head audit sequences are serialized; their actual run IDs and publication SHAs are in §5 and the final package receipt. Internal links/front matter must also pass for the final source tree, and the package builder independently checks links against the selected archive members. A local gate, successful source push or displayed workflow `main` label cannot substitute for the exact final status target.
+The authored milestones passed the stable-branch author gate and complete diff/path review before publication; the packaging-safety correction additionally requires the explicit full gate shown above. Full source-audit → housekeeping → exact-head audit sequences are serialized; their actual run IDs and publication SHAs are in §5 and the final package receipt. Internal links/front matter must also pass for the final source tree, and the package builder independently checks links against the selected archive members. A local gate, successful source push or displayed workflow `main` label cannot substitute for the exact final status target.
 
 ## 3. Packaging and reproducibility
 
@@ -72,7 +73,7 @@ The manifest lists every corpus artifact, its role, byte count and SHA-256, with
 
 The historical transcript aliases `Manga and anime discussions - Oregairu Deep-dive - Full Transcript.md` and `Manga and anime discussions - Oregairu Deep-dive - Full Transcript(1).md` resolve to the [retained transcript at the verified baseline main commit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/cfddecb9b5b05ce7b5b25060673ed2e77639da6c/series/oregairu/V2%20Analysis/01%20Legacy%20V1%20and%20Source%20Control/Manga%20and%20anime%20discussions%20-%20Oregairu%20Deep-dive%20-%20Full%20Transcript.md). This provenance source is not current literary authority. No relative Markdown link in the included corpus requires either omitted file; frozen plain-text historical references are resolved by this alias note and the manifest.
 
-[The release builder](OREGAIRU_V2_BUILD_RELEASE.py) reads only an explicit full Git commit plus the supplied publication receipt. It preserves the receipt's bytes, records its SHA-256 and distinguishes an observed main head from integrated source content. It does not query, grant or infer publication authority. The archive uses sorted paths, fixed `2026-10-17T00:00:00` timestamps, regular-file mode 0644 and ZIP_STORED compression. No creation clock or machine path enters its bytes. The builder creates the archive twice and requires equal SHA-256 values, then reopens the archive and verifies every member, CRC and checksum entry.
+[The release builder](OREGAIRU_V2_BUILD_RELEASE.py) reads only an explicit full Git commit plus the supplied publication receipt. Every Git read uses `git --no-replace-objects`, binding commit, tree and blob reads to the original objects independently of local replacement refs. It preserves the receipt's bytes, records its SHA-256 and distinguishes an observed main head from integrated source content. It does not query, grant or infer publication authority. The archive uses sorted paths, fixed `2026-10-17T00:00:00` timestamps, regular-file mode 0644 and ZIP_STORED compression. No creation clock or machine path enters its bytes. The builder creates the archive twice and requires equal SHA-256 values, then reopens the archive and verifies every member, CRC and checksum entry.
 
 Reproduce with the included receipt and a checkout containing the exact published commit. Place the checkout in `anime-manga-ln-games-analysis/`, extract the receipt to its parent directory, and run there so receipt and ZIP stay outside Git:
 
@@ -80,12 +81,24 @@ Reproduce with the included receipt and a checkout containing the exact publishe
 OREGAIRU_RELEASE_SHA=$(python -c 'import json; print(json.load(open("PUBLICATION_RECEIPT.json"))["source_commit"])')
 python "anime-manga-ln-games-analysis/series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_BUILD_RELEASE.py" \
   --repo anime-manga-ln-games-analysis --commit "$OREGAIRU_RELEASE_SHA" --receipt PUBLICATION_RECEIPT.json \
-  --output Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.1.zip
+  --output Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.2.zip
 ```
 
 `PACKAGE_CHECKSUMS.json` covers the remaining archive members, including the Git corpus manifest, receipt and provenance. Its own digest is represented by the outer ZIP digest, avoiding a checksum cycle. Reproducing the analytical archive does not require bundling or redistributing the separately governed primary sources. Rechecking the source inventory itself requires lawful access to the same editions.
 
 The builder also passed an isolated synthetic-Git fixture: exact-blob selection, two exclusions, self-byte binding, repeated deterministic output, full archive readback and representative Markdown forms. Invalid bytes, source-payload JSON, unapproved file types, unsafe/missing links, mismatched receipt source and failed audit states were rejected. These packaging tests are separate from literary/source acceptance and do not manufacture a production publication receipt.
+
+### 3.1. Replacement-ref reproducibility correction
+
+Dot reported a reproducible defect in the rc.1 builder at source `548ba5cb92a4374f0f387a95b6d421e6335b7839`: Git commit replacement refs could substitute a tree while `rev-parse SOURCE^{commit}` still returned the requested original SHA. The builder could therefore package substituted content under that SHA despite its per-blob checks. An independent isolated fixture reproduced this mechanism. A direct blob replacement was already rejected by the blob-identity check, but also prevented reproducible construction.
+
+The targeted correction disables replacement objects in the single Git wrapper. Its in-file regression creates an isolated repository, proves ordinary Git reads actually follow the installed commit/blob replacements, and requires the protected selector's original tree, inventory and complete ZIP bytes to remain identical for commit replacement, blob replacement and both together. Removing the protective flag makes the regression fail. Run it without receipt, output or production-repository arguments:
+
+```bash
+python "series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_BUILD_RELEASE.py" --self-test
+```
+
+This defect is not evidence that rc.1 was affected. The original rc.1 ZIP and its receipt are preserved; its SHA-256 is `5cc6305028c747ba10199b4518ee34a47105cc6f8a426d42c4dbf4900d1bdcee`. An independent audit using explicit replacement-disabled reads verified all 85 Git-derived members against that original source commit and tree, recomputed their object identities, and checked all 89 names, 88 package checksum entries, 84 non-self manifest digests, receipt/provenance bindings and ZIP metadata. All passed: no substituted payload was found. Audit-time replacement refs and relevant environment overrides were absent. The correction changes packaging implementation and release metadata, with no analytical or model revision. The rc.2 receipt binds the new exact source and its own successful validation sequence.
 
 ## 4. OPEN work and exclusions
 
@@ -107,8 +120,9 @@ Final v1.0 freeze and global character enrollment are separate outstanding opera
 | Administrative discovery repair | `122dc19ebe66d5ea0288eae8cc18ef67bbdb07ed` | Source 38983721021; housekeeping 38984161385; final audit 38984190231 succeeded. |
 | Original-suite audit and source reconciliation | `bcdd9d97b064e836970bd09a32815b796ea897da` | Source 38984826780; housekeeping 38985086426; final audit 38985123066 succeeded. |
 | Priority expansion | `be09809628ea216a56e766b73fb2acedada1a638` | Source 38985791247; housekeeping 38986223877; final audit 38986257362 succeeded. |
-| Secondary expansion and attributable corrections | `8a2133822bf49077aa1eacb2a382ea16ab60b9ae` | Author preflight passed (`paths=7943`) and exact tree `f55e72503df8e54132f2cb592265bc62ce2f847e` was read back. Source 38986867127 and housekeeping 38987175270 succeeded; final audit 38987205689 must report successful exact-head status before release-metadata publication, with the result bound in the final receipt. |
-| Release-candidate metadata/package | Exact source in packaged receipt | Must pass final author gate, published-tree readback, complete remote sequence and deterministic ZIP verification. No post-merge main success is inferred. |
+| Secondary expansion and attributable corrections | `8a2133822bf49077aa1eacb2a382ea16ab60b9ae` | Author preflight passed (`paths=7943`) and exact tree `f55e72503df8e54132f2cb592265bc62ce2f847e` was read back. Source 38986867127, housekeeping 38987175270 and final audit 38987205689 succeeded. |
+| First release candidate | `548ba5cb92a4374f0f387a95b6d421e6335b7839` | Source 38987660692, housekeeping 38988045104 and final audit 38988073719 succeeded. Original ZIP retained unchanged; reproducibility defect and bounded impact review recorded in §3.1. |
+| Corrected release-candidate metadata/package | Exact source in packaged receipt | Must pass replacement-ref regression, explicit full gate, published-tree readback, complete remote sequence and deterministic ZIP verification. No post-merge main success is inferred. |
 
 All changes use the continuing `series/oregairu` branch and [PR #189](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/189). No force update, history rewrite, global-index authorship or primary-source redistribution is authorized by this record.
 

@@ -580,7 +580,7 @@ The three operational additions have primary-first shared slices of 40/22/32 obs
 
 ## Phase 9 release-candidate routing
 
-Read the [subordinate reader guide](../06%20Continuous%20Synthesis/00_README_AND_CORPUS_MAP.md) for literary/model navigation, the [release QA and owner-review record](OREGAIRU_V2_PHASE9_RELEASE_QA.md) for preservation, correction, scope and integration limits, and the [corpus manifest](OREGAIRU_V2_CORPUS_MANIFEST.json) for exact artifacts/checksums. The package is `Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.1.zip`, built from an exact published Git tree with its source/audit/main-observation receipt. It is a candidate, not a verified-main final freeze. Global discovery is also pending its authorized curator. Neither this routing update nor the new guide displaces this registered map.
+Read the [subordinate reader guide](../06%20Continuous%20Synthesis/00_README_AND_CORPUS_MAP.md) for literary/model navigation, the [release QA and owner-review record](OREGAIRU_V2_PHASE9_RELEASE_QA.md) for preservation, correction, scope and integration limits, and the [corpus manifest](OREGAIRU_V2_CORPUS_MANIFEST.json) for exact artifacts/checksums. The current package is `Oregairu_V2_Expanded_Analytical_Corpus_v1.0-rc.2.zip`, built from an exact published Git tree with replacement objects disabled and its source/audit/main-observation receipt. The original rc.1 archive remains unchanged; the release QA records the reproducibility correction without implying its payload was affected. It is a candidate, not a verified-main final freeze. Global discovery is also pending its authorized curator. Neither this routing update nor the new guide displaces this registered map.
 
 ## Owner-acquisition leads and excluded sources — checked 2026-10-16
 
