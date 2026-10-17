@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Bootstrap and kickoff source preparation; zero V2 narrative units admitted or close-read"
+source_boundary: "Frozen SHUUKURA-V2-20261017-I1; ordered Japanese LN admission open; zero narrative units read"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: EXECUTION_KICKOFF_BLOCKED_BEFORE_ADMISSION
+review_status: VERIFIED_AVAILABLE_SOURCE_FREEZE_WITH_EXPLICIT_MANDATORY_GAPS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Source inventory and edition/witness architecture
 
-This is the canonical source-and-coverage home. Snapshot: **2026-10-17 UTC; initial planning date 2026-10-16**. No narrative unit is admitted or analyzed. Counts below are inventory and structural observations, not literary coverage. This metadata snapshot is **not an authorized run inventory freeze**.
+This is the canonical source-and-coverage home. Snapshot: **2026-10-17 UTC; initial planning date 2026-10-16**. The historical bootstrap tables below distinguish acquisition and structural checks from reading. The later **SHUUKURA-V2-20261017-I1** record at the end of this document is the authorized source freeze. Ordered LN inspection is admitted; zero narrative units have yet been read. Earlier candidate snapshots remain preserved and do not themselves establish coverage.
 
 ## Evidence plane, access and state vocabulary
 
@@ -36,7 +36,7 @@ All observed folder listings were exhausted. The observed **43 objects** are nin
 | Verified source bytes | Complete download, independently computed SHA-256 and byte count | All 43 objects verified; size agrees with listing |
 | Structural/extraction verification | Container, spine, TOC or PDF integrity and recoverable text | All 13 EPUB ZIP CRCs passed; OPF/spine/nav parsed; all 29 PDFs opened and have extractable text |
 | Narrative inspection | Deliberate source-grounded reading with exact locators | None; metadata/TOC, bibliography and deterministic text-equivalence checks only |
-| Admitted analytical coverage | Authorized unit transaction and accepted evidence/interpretation | Zero; CLOSED lock |
+| Admitted analytical coverage | Authorized unit transaction and accepted evidence/interpretation | Zero completed; later ordered-admission OPEN state is recorded below |
 
 Primary bytes and deterministic derivatives stay in Drive. Git stores only this metadata, checksums, source locators and interpretations after authorization. Download caches, extraction scripts and temporary HTML are noncanonical and excluded from publication. No copyrighted narrative text, image or media is uploaded into Git. This bootstrap created no new permanent evidence derivative. Existing Drive objects were read without modification; acquisition rights or edition authenticity cannot be inferred from successful download.
 
@@ -288,4 +288,54 @@ These are new evidence-plane preparation objects, not additions to narrative sco
 
 Kakuyomu archive member `manifest.json` has SHA-256 `c119aad7ac1dbbf820b21680ea2d28db954c17497b1b324b2a08dc1c5bd5ece2`; the ordered `<unit_id>`, TAB, `<episode_id>`, TAB, `<body_html_sha256>`, LF list hashes to `e9f8f07abb0e2a517901348822e635dabe805fea3c4f52ee4e2bd3ebc1fe5b02`. Every one of the 431 native canonical/OG URLs matches its expected identity; all complete-HTML hashes and 88,232 paragraph-fragment hashes were checked. A bounded markup probe found no body-image flags; this is not visual inspection. Capture-record times are not publisher revision times. The first episode reuses a same-day acquisition probe; its original snapshot-write time and the timing limitation are retained in `capture_qa.json`.
 
-V07 and V08 were also independently rehashed against the existing register and passed ZIP CRC. Their native colophons `item/xhtml/p-colophon.xhtml` assert electronic `ver.001`, with issue dates August 20, 2025 and December 19, 2025 respectively; V08's print basis is December 20. Both assert Japanese text only, while received OPF `dc:language` remains `zh-CN`. A full-spine XML-text probe including ruby/paratext counted 79,503 / 97,009 kana and 3,793 / 4,857 paragraph elements. Those counts use a different scope from the bootstrap probe and are not narrative reading or full fidelity certification. Received bytes and language tags remain unchanged. Conversion provenance still requires resolution.
+V07 and V08 were also independently rehashed against the existing register and passed ZIP CRC. Their native colophons `item/xhtml/p-colophon.xhtml` assert electronic `ver.001`, with issue dates August 20, 2025 and December 19, 2025 respectively; V08's print basis is December 20. Both assert Japanese text only, while received OPF `dc:language` remains `zh-CN`. A full-spine XML-text probe including ruby/paratext counted 79,503 / 97,009 kana and 3,793 / 4,857 paragraph elements. Those counts use a different scope from the bootstrap probe and are not narrative reading or full fidelity certification. Received bytes and language tags remain unchanged. Original conversion history remains unverified; the later admission disposition below distinguishes that limitation from an unresolved bibliographic identity.
+
+
+## Authorized execution freeze I1 and admission disposition
+
+**Frozen 2026-10-17T04:34:25Z.** The owner has authorized this continuous run and all later architectural deliverables. The [exact execution inventory](SHUUKURA_V2_EXECUTION_INVENTORY_20261017.json) is a component of this source inventory, not a second current entrypoint. Its SHA-256 is `6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b`; ordered available-unit identity digest `2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95`.
+
+The fixed available set is **9 LN volumes, 18 external supplemental units and all 431 Kakuyomu episodes: 458 units**. The supplemental set comprises the previous four BW and twelve commemorative identities plus two independently acquired publisher SS pages. LN internal fiction stays within its volume. The JSON separately freezes **51 unavailable source identities**, the 290 Narō correspondence routes and **27 finite author-notice discovery obligations**. These are mandatory completion debts, not optional exclusions or additional completed stories. Several metadata-only identities still require title/deduplication verification. Discovery records can overlap source identities; never sum them as distinct stories. Unknown V01 retailer completeness and source entitlements remain within the discovery debt. This execution can advance through independent available units; it cannot claim comprehensive completion while the mandatory gaps remain.
+
+Order: LN01–09 in spine order; the sixteen acquired supplemental identities by associated volume and stable key, then publisher SS01/02; the full Kakuyomu E0001–E0431 lane. Unavailable Narō supplemental content stays after the independent LN/web freezes; mainline Narō receives all 290 correspondence checks, with source reading where differences require. This order avoids importing later supplements into early LN readings. The source JSON preserves exact IDs, bytes, hashes, component/locator routes, placement, exclusions and blocked dependencies. No later release is silently admitted.
+
+### Acquired LN identity is sufficient for witness-bounded reading
+
+The previous hold conflated unknown retail conversion history with an unresolved bibliographic identity. The method requires a verified source identity, hash, allowed scope and complete locators; it does not require a purchase receipt or proof of retail-binary equality. All nine complete downloads now match the register; ZIP CRCs, all OPF/spine references and local linked resources pass; every text member parses with zero replacement characters. Native Japanese colophons name the work, author, publisher, issue date and electronic version. Their print bases agree with the publisher catalog, retaining the known release/colophon day differences.
+
+Admit the **exact acquired digital witnesses `ACQUIRED-20261017-A1`** for ordered Japanese reading. Do not claim original retail-byte identity or undocumented conversion steps. V01's UnpackKindleS metadata remains recorded. V07/V08's unchanged `zh-CN` tags conflict with Japanese titles/colophons and 78,871/96,288 kana in spine body text; classify the tag as a package anomaly, with semantic Japanese/ruby/rendering confirmation at their actual reading boundary. No future narrative passage was read for this check. A substantive translation, missing content, unreadable component or conflicting edition identification still stops the affected unit. A decoded package is not a completed reading or a universal fidelity certificate.
+
+| Unit | Colophon electronic version | Spine / paragraph / image counts | Locator member SHA-256 |
+| --- | --- | --- | --- |
+| LN-JP-V01 | 002 | 29 / 3784 / 21 | `f5028d390cdbf9a5d700bbca91d176f312ae0a48cbb6c5f9de75fc65aa68f00f` |
+| LN-JP-V02 | 002 | 27 / 4036 / 19 | `f6ab1c514c0dc9ba59fb31c5a08e8e20ef0497d3d6d37ab89bf8c652f862c19c` |
+| LN-JP-V03 | 002 | 27 / 3401 / 21 | `0c47c6d83b20b6649a6b80c259f30863bdc80346c703d965175644aeedddac0b` |
+| LN-JP-V04 | 001 | 28 / 3908 / 21 | `b17ea7993bb9f3a2f252d344e50cad6937f6560390589b296707c102c09dbdc2` |
+| LN-JP-V05 | 002 | 30 / 3895 / 22 | `ff4600a74fa3e9aa855562589d99d174de00ad619a87f3bec25932c624506cec` |
+| LN-JP-V06 | 001 | 31 / 3857 / 20 | `94329098a1aeaba22d89c84ffa8237ac3b9cad4b1032fb322eb088e9f33189f9` |
+| LN-JP-V07 | 001 | 28 / 3793 / 20 | `6d98463801c014779c0ff9a14948b4f63fee0db24478b4a98935d1023239f9b2` |
+| LN-JP-V08 | 001 | 28 / 4857 / 19 | `cb391565c853ec1c65ae4f733bf281d2570e4aaaadea4beb4e659b6b1f8b9980` |
+| LN-JP-V09 | 001 | 28 / 3949 / 18 | `e3355f5468a51f857a0a3e5cf22658fe5ca8313bda17c4e1c21d2cc94f2496fe` |
+
+All nine complete native locator manifests and bibliographic checks are retained in Drive admission package `1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju`, **2,774,617 bytes**, SHA-256 `4cd8450e9627a1d46f5114d009a65b9f7ba3f2847a9f0f455245ba86e430ec3c`. Complete download/readback, all 57 member identities/hashes and ZIP CRC were verified. Member `<unit>_locator_manifest.json` records OPF/spine/member/paragraph anchors, ElementTree serialization hashes, Python version, exact source hash and image hashes. It supersedes the earlier V01 locator candidate for this run without deleting it. Native source paragraphs remain in the original EPUB; the locator contains no narrative text.
+
+### Supplemental provenance resolved in part
+
+The author's [public release notice](https://kakuyomu.jp/users/hanedausa/news/2912051600889515973) explicitly links all seventeen parts of the twelve commemorative stories. Each complete linked native HTML source was captured, identified by title and hashed without analyst narrative reading; 17 native part/paragraph maps are retained in `KSS_NATIVE_SOURCE_AND_LOCATOR_MANIFEST_PRIVATE.json` inside the admission package. A platform page called “draft preview” can be author-released; the earlier filename concern is therefore resolved as an access/publication-provenance question. The historical PDF captures remain distinct witnesses: full textual/rendering correspondence still requires checking before any edition-equivalence claim. Preview-link tokens stay in the evidence plane; public Git cites the author's notice and source hashes.
+
+Two accessible official publisher stories were acquired completely as HTML plus the linked narrative PNG, without reading the image content:
+
+| Unit | Publisher heading | Native image SHA-256 | Reading placement |
+| --- | --- | --- | --- |
+| OFF-JP-SS01 | 宮城は知らない入れ物のこと | `287a746a3aa3545e5a03834d86843f44f70e410c25700e5c8593f54bb6833457` | After independent LN09; direct image inspection |
+| OFF-JP-SS02 | 仙台さんは知らない私の記憶 | `0aee84bd87a603ed0019b9efae9a08ced5338610d5eb717a2fd6c785da7156a5` | After independent LN09; direct image inspection |
+
+Their native URLs, HTML hashes and image member names are in I1 and `official_SS_manifest.json` in the package. Do not presume these stories are distinct from every retailer witness until the duplication check. The four BW packages retain unit-level original-text/heading checks before their later admission. Author notices now identify many missing retailer originals; specific source IDs/titles and author-specified V09 paired-story order are retained in I1. An announced merchandise item is not itself an original story. The two V04 voice stories are identified as `VOICE-JP-V04-01/02`; complete original narrative/script access remains unverified, and a limited preview cannot satisfy it.
+
+### Publication and remaining coverage
+
+Available-set quarter boundaries are unit ordinals **115, 229, 344, 458**; lane-specific boundaries are LN **3/5/7/9**, Kakuyomu **108/216/324/431**, supplements **5/9/14/18**. Publish completed units more frequently. Percentages name their lane/set and never imply all-source or synthesis completion. An unresolved mandatory gap prevents the corresponding 100%/completed claim even after all available units are read.
+
+LN10 and its bonuses remain future releases (October 20, 2026). The announced Birthday SS goods ship December 2026–January 2027 and are also future-source obligations outside I1. Kakuyomu stops at immutable episode `11054822663977570070`, E0431. Later sources require a separate extension.
+
+Revision 0.4: source-admission correction and durable I1 freeze. Source reading coverage and all committed narrative high-water marks remain zero/NONE at this administrative boundary.

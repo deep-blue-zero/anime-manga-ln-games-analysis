@@ -5,14 +5,14 @@ artifact_type: synthesis_architecture
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Single-home evidence accumulation, source lanes, synthesis dependencies and completion gates"
-source_boundary: "Bootstrap metadata and architecture only; zero V2 narrative units admitted or read"
+source_boundary: "Governing architecture for frozen inventory SHUUKURA-V2-20261017-I1; no literary findings in this artifact"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SYNTHESIS_ARCHITECTURE.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: OWNER_BOOTSTRAP_REVIEW_PENDING
+review_status: OWNER_ADOPTED_FOR_AUTHORIZED_V2_EXECUTION
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -23,13 +23,13 @@ do_not_use_as_literary_evidence: true
 
 ## Identity and governing scope
 
-Generation SHUUKURA_V2 is a material analytical restart at `series/shuukura/`, continuing on `series/shuukura`. The current entrypoint, [method](SHUUKURA_ANALYTICAL_METHOD.md), [source inventory](SHUUKURA_SOURCE_INVENTORY.md) and [reconstruction contract](SHUUKURA_CHARACTER_RECONSTRUCTION_CONTRACT.md) are distinct governing responsibilities. INITIAL, owner-review-pending architecture is not literary authority about unread sources. V1 remains HISTORICAL/LEGACY without byte changes or a fabricated reciprocal supersession relation. V2 replaces the current retrieval route, not the historical evidence of what V1 said.
+Generation SHUUKURA_V2 is a material analytical restart at `series/shuukura/`, continuing on `series/shuukura`. The current entrypoint, [method](SHUUKURA_ANALYTICAL_METHOD.md), [source inventory](SHUUKURA_SOURCE_INVENTORY.md) and [reconstruction contract](SHUUKURA_CHARACTER_RECONSTRUCTION_CONTRACT.md) are distinct governing responsibilities. The INITIAL architecture was owner-review-pending at bootstrap; the later continuous-execution instruction adopts it for this run. Its operational rules are not literary authority about unread sources. V1 remains HISTORICAL/LEGACY without byte changes or a fabricated reciprocal supersession relation. V2 replaces the current retrieval route, not the historical evidence of what V1 said.
 
 The applicable initiation, continuation, reasoning, topology, long-series, handoff, archive, integration, housekeeping and character-curation policies under `governance/` remain governing. In particular, initiation Sections 5.1–5.16 and its responsibility matrix are implemented below. The [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) is the one current first-read surface. Mutable source state lives only in the inventory; literary state lives only in the four named ledgers. No V2 narrative evidence is admitted at bootstrap.
 
 ## Source lanes and conflict responsibility
 
-The preferred primary lane is published Japanese LN V01 onward in volume/spine order. The nine currently acquired EPUBs are byte-identified candidates, not an activated nine-volume run. V10 is scheduled, unacquired and excluded. Internal fiction is mandatory within each admitted volume; afterwords and illustrations are separately classified. Separately delivered author-written stories have their own source IDs and are required for the eventual **declared supplemental corpus**, subject to provenance/access and separately authorized reading.
+The preferred primary lane is published Japanese LN V01 onward in volume/spine order. The nine acquired EPUBs were byte-identified candidates at bootstrap. The later frozen execution inventory records their ordered admission and the exact additional lanes. V10 is scheduled, unacquired and excluded. Internal fiction is mandatory within each admitted volume; afterwords and illustrations are separately classified. Separately delivered author-written stories have their own source IDs and are required for the eventual **declared supplemental corpus**, subject to provenance/access and separately authorized reading.
 
 Kakuyomu and Narō retain independent textual witness and revision identities. The proposed web responsibility combines an LN-to-web crosswalk with a separately frozen Kakuyomu reading lane; no web material may be skipped merely because titles match. Pending a textual equivalence assessment, plan a complete Kakuyomu lane through its explicitly frozen endpoint. After the independent LN prospective freeze, the owner may approve replacing demonstrably redundant web coverage with a traceable crosswalk plus selective rereading and a continuation lane. The skipped scope must be justified passage by passage, not presumed identical. Narō initially receives a completeness/revision crosswalk responsibility, with full separate reading required where differences, omissions or independent evidence cannot be covered by bounded comparison. These decisions are in the inventory, not retrospective claims of coverage.
 
@@ -100,7 +100,7 @@ At run completion both recognized next fields become `NONE`, run state becomes `
 
 ## Continuous routing, publication milestones and recovery
 
-No sequential execution block is active now. After owner acceptance and source admission, declare the exact `single_operation` or `continuous_sequential` mode, unit type, `authorized_start`, `terminal_boundary`, `committed_high_water_mark`, `next_candidate_operation`, confirmation rule and `run_state: active`. Keep `project_initialization.next_permitted_operation` equal to the next candidate. Continuous authority comes only from the later owner instruction; this architecture does not supply it.
+At bootstrap no sequential execution block was active. The current entrypoint now owns the authorized active run. After owner acceptance and source admission, declare the exact `single_operation` or `continuous_sequential` mode, unit type, `authorized_start`, `terminal_boundary`, `committed_high_water_mark`, `next_candidate_operation`, confirmation rule and `run_state: active`. Keep `project_initialization.next_permitted_operation` equal to the next candidate. Continuous authority comes only from the later owner instruction; this architecture does not supply it.
 
 Freeze the run's source set before the first reading. Re-enumerate Drive; identify revisions and bytes; admit exact units; record unavailable mandatory components and explicitly excluded sources; store full deterministic locator/evidence manifests in Drive and a public-safe analytical routing record in Git. Record date/time/timezone, edition policy, stop boundary and a digest of the ordered IDs/hashes. Do not silently add V10 or later web episodes when they appear. A later acquisition is another scope decision.
 
@@ -147,3 +147,5 @@ Substantive V1 comparison normally begins only after the independent V2 prospect
 An archive title or manifest entry is only a provenance lead. It does not admit its alleged source or demonstrate fresh inspection. The transcript's uncertainty about whether turn 0 was captured remains explicit. Preserve the V1 original-source hashes and Git-normalization hashes as different objects. Do not cosmetically fix historical internal path spellings or metadata inside the preserved archive.
 
 Current entrypoint, inventory and cumulative ledgers remain mutable through targeted edits with versioned history. Accepted unit readings and prospective predictions remain frozen; revisions live in claim/erratum homes. New specialist or ledger responsibility requires recurrence, independent retrieval value or a material evidence gap not served by existing homes. Record the rationale, dependencies, new version and targeted backfill in architecture/current state; do not recreate earlier readings wholesale. Initial revision: bootstrap only, zero literary findings.
+
+Revision 0.2: record owner adoption and route the active run to the current entrypoint and inventory. The frozen available set contains 458 units; named unavailable sources and 27 bounded discovery records remain mandatory completion debts. A missing supplement does not block the independent LN lane. Added publisher stories use the existing supplemental-reading responsibility, with direct image reading after LN09; no duplicate canonical synthesis or ledger is introduced.
