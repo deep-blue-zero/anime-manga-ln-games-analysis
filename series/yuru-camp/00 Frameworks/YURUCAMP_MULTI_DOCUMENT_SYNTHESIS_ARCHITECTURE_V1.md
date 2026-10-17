@@ -3,7 +3,12 @@ title: "Yuru Camp Multi-Document Synthesis Architecture v1.0"
 series: "ゆるキャン△ / Yuru Camp△"
 document_type: "synthesis_architecture"
 version: "1.0"
-status: "proposed"
+artifact_type: synthesis_architecture
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_metadata_reconciled: "2026-10-17"
 governing_method: "YURUCAMP_ANALYTICAL_METHOD_V1.md"
 ---
 
@@ -30,6 +35,8 @@ and:
 ---
 
 # 2. Directory architecture
+
+Historical design tree (the V18 endpoint was a planning horizon, not a publication or completion claim). The current Git root is `series/yuru-camp/`; primary objects, page images, and derived raw extractions remain on the external evidence plane and must not be committed. Current scope and publication gaps are routed by `../CURRENT_STATE_AND_CORPUS_MAP.md`.
 
 Recommended project tree:
 
@@ -194,6 +201,26 @@ These are analytical checkpoints, not final reader-facing essays.
 # 6. Phase 3 — Longitudinal ledger consolidation
 
 After the volume sequence is stable, consolidate the working ledgers.
+
+## 6.0 Bounded amendment — V01–V15_RETROSPECTIVE_LEDGER_BACKFILL
+
+Adopted 2026-10-17 under the owner's targeted continuation-readiness repair request. The original standalone-ledger deferral was intentional. Completed V01–V15 readings and five checkpoints already carry the working evidence. Agent handoff and the new character-reconstruction responsibility now justify advancing **core consolidation through V15**, before further sequential reading. This changes the production schedule, not the accepted source boundary or project generation.
+
+The existing V1 architecture is current governing authority; its legacy `proposed` label has been reconciled to `canonical`. The following operations remain distinct:
+
+1. **Prospective analysis:** frozen volume readings and checkpoints retain exactly the knowledge and uncertainty available at V03, V06, V09, V12, and V15. V13's canonical generation remains V1.2. This repair does not read V16 or authorize a V16–V19 run.
+2. **Retrospective evidence consolidation:** extract candidates from those canonical artifacts, preserve original formulations and first-support boundaries, then recheck selected Japanese scenes. A record's October audit date is not its narrative knowledge date. Later evidence must not be inserted into an earlier character state. Errors in frozen artifacts receive attributable errata/revision records; their bytes remain intact.
+3. **Later synthesis and reconstruction:** character/relationship monographs, thematic synthesis, and validated behavioral models remain later responsibilities. A ledger is evidence infrastructure, not a finished simulation or a global capability grade.
+
+The immediate standalone outputs in `04 Longitudinal Ledgers/` are the Character State, Relationship State, Japanese Voice, Camping Competence and Material Culture, and Primary Source Locator and Claim Revision ledgers, using the filenames in the design tree. The locator/revision ledger owns the common evidence-register schema, checkpoint-boundary matrix, verification counts, conflicts, and routing for the remaining five responsibilities. Do not duplicate evidence merely to populate ten files.
+
+Every substantive row identifies a stable ID, source boundary, source-image locator or explicit locator gap, canonical reading/checkpoint route, evidence class (DE/RP/IN/TH/CA), confidence/alternatives, and verification state. `ANALYSIS_EXTRACTED` means faithfully extracted, not independently source-checked; `PRIMARY_VERIFIED` applies only to the bounded observation actually inspected; `CONFLICT_REQUIRES_REVIEW` preserves unresolved attribution/contradiction; `UNVERIFIED` marks insufficient validation. A verified page does not automatically verify a recurrent pattern, motive, theme, absence across fifteen volumes, or a whole chapter.
+
+Exact Japanese quotations require direct image inspection and bounded excerpts. Reinspect surrounding scenes for attribution, facial expression, timing, dialect, competence limits, apparent contradictions, and major behavioral rules. Record what was actually viewed, including any contextual limit. Confidence is independent of verification status.
+
+The reconstruction specification is `YURUCAMP_CHARACTER_RECONSTRUCTION_SPEC.md`. It consumes these ledgers under explicit temporal, voice, competence, uncertainty, and counterexample controls. No global character index or capability record is authorized by this amendment. Remaining planned ledger classes stay recoverable in their exact embedded homes until a retrieval or analytical need warrants independent consolidation.
+
+Completion requires coherent V01–V15 coverage or named gaps, source identity reconciliation, current-state routing, link/authority validation, preserved historical hashes, and exact-head stable-branch publication. Partial batches must be labeled in progress and cannot claim repair completion.
 
 ## 6.1 Character State Ledger
 

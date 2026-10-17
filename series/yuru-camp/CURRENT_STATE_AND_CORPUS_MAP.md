@@ -19,6 +19,10 @@ governing_method: YURUCAMP_ANALYTICAL_METHOD_V1.md
 governing_architecture: YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md
 geography_amendment: YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md
 created: '2026-08-26'
+updated: '2026-10-17'
+reconstruction_specification: YURUCAMP_CHARACTER_RECONSTRUCTION_SPEC.md
+retrospective_operation: V01–V15_RETROSPECTIVE_LEDGER_BACKFILL
+repair_state: in_progress
 ---
 
 # Yuru Camp△ Current State and Corpus Map
@@ -42,9 +46,9 @@ This file is mutable active-state infrastructure. It does not replace the sequen
 
 ### Analytical root
 
-- Folder: `Yuru Camp`
-- Drive ID: `1ETrN_K2QUC4GhBdU3-M876m7rOxij_Yo`
-- Role: methods, source-lock records, sequential readings, checkpoints, future ledgers/syntheses, audits, and releases.
+- Canonical current analytical root: `series/yuru-camp/` in the Git repository.
+- Historical analytical Drive root: `Yuru Camp`, ID `1ETrN_K2QUC4GhBdU3-M876m7rOxij_Yo` (provenance, not a competing current write plane).
+- Role: methods, source-lock records, sequential readings, checkpoints, ledgers/syntheses, audits, and releases.
 
 ### Primary-source root
 
@@ -61,6 +65,8 @@ This file is mutable active-state infrastructure. It does not replace the sequen
 
 ## 3. Current authority and continuation route
 
+Before the reading route below, read repository `AGENTS.md` and its applicable authority, integration, and continuation policies. Then read the governing [method](00%20Frameworks/YURUCAMP_ANALYTICAL_METHOD_V1.md), [synthesis architecture §6.0](00%20Frameworks/YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md), [geography amendment](00%20Frameworks/YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md), and [reconstruction specification](00%20Frameworks/YURUCAMP_CHARACTER_RECONSTRUCTION_SPEC.md). All four have explicit current-eligible authority metadata; the specification governs a future responsibility, not achieved reconstruction readiness.
+
 Read in this order when resuming the project:
 
 1. **This file** — active routing and boundary.
@@ -70,6 +76,10 @@ Read in this order when resuming the project:
 5. Earlier three-volume checkpoints for prior historical freezes.
 6. The relevant sequential deep reading for volume-local evidence.
 7. The Japanese primary-source volume for exact page, visual, or wording verification.
+
+The three artifact hashes below are preserved **historical Drive-export fingerprints**, not hashes of the migrated Git Markdown bytes. Use the repository commit and the repair audit preservation manifest for current Git identities. Source-object fingerprints remain separate.
+
+**Mandatory correction overlay:** [repair audit ER-001](09%20Audits%20and%20Reviews/YURUCAMP_CONTINUATION_REPAIR_AUDIT.md) corrects V15 Ch.87: **Rin**, not Ena, gives Ema the conditional camping advice. Read the frozen V15 reading and V13–V15 checkpoint with this attributable erratum; their bytes and original prospective formulations remain preserved.
 
 ### Current checkpoint
 
@@ -229,13 +239,11 @@ Unsupported through V15 under the project's evidentiary standard. Relational int
 
 ## 7. Architecture and ledger state
 
-The `04 Longitudinal Ledgers` folder is currently empty **by design**, not because a write failed.
+The original empty standalone-ledger directory was intentional. Architecture §6.0 now authorizes `V01–V15_RETROSPECTIVE_LEDGER_BACKFILL` to meet evidence-retrieval, reconstruction, and handoff needs without restarting the project.
 
-The governing synthesis architecture places consolidated standalone longitudinal ledgers after the sequential volume sequence becomes stable. During Phase 1 / Phase 2, each volume and checkpoint carries forward character, relationship, competence, material-culture, place/travel, voice, theme, counterevidence, and locator deltas.
+**Repair in progress:** governing metadata and the reconstruction contract are established; the five core ledgers, targeted primary checks, current source audit, and final validation remain pending. Embedded volume/checkpoint evidence remains the accepted analytical authority. Do not treat this intermediate milestone as completed continuation readiness.
 
-Do not backfill standalone ledgers merely to make the folder look populated unless the governing architecture is deliberately amended.
-
-The future ledger classes remain defined in `YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md`.
+The other five ledger responsibilities remain defined in the architecture; their precise embedded routes and consolidation dependencies will be recorded in the locator/revision ledger.
 
 ---
 
@@ -243,12 +251,9 @@ The future ledger classes remain defined in `YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_A
 
 The Phase-0 source lock recorded Japanese main volumes V01–V17 available and V18 absent at that audit boundary.
 
-Current Drive discovery still exposes:
+Current folder readback on 2026-10-17 instead exposes V16 CBZ (`1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS`), preferred September V17 EPUB (`1sAvxxFVzSOtobfs2HTjPTK1QqNjxyu96`), and V18 EPUB (`1QEgPUH9Sr-3jVH2C5vr-3ZRJ7xKK4uH4`). The older V17 (`1itEg_5CH3XR138EBsbTxYeZyiUk9uOT1`) is retained under the source archive. Exact-byte technical revalidation is in progress; do not reuse the old V17 preference or V18-missing claim.
 
-- **V16** — `Laid-Back Camp - Vol. 16 [Japanese].cbz`, Drive ID `1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS`;
-- **V17** — `Laid-Back Camp - Vol. 17 [Japanese].epub`, Drive ID `1itEg_5CH3XR138EBsbTxYeZyiUk9uOT1`.
-
-A current direct search did not surface a Japanese V18 main-volume source object. Re-audit before V18 rather than assuming the Phase-0 gap has been filled.
+V19 is published (Houbunsha, 2026-10-09) but no V19 main manga object was found in the inspected root. Acquisition remains a separate gap. No V16–V19 narrative content has been analyzed by this repair.
 
 Source-format differences must be handled at the volume lock stage. In particular, do not assume the V17 EPUB will use the page-image locator scheme established for CBZ volumes.
 
@@ -256,7 +261,7 @@ Source-format differences must be handled at the volume lock stage. In particula
 
 ## 9. Next operation: Volume 16
 
-The V13–V15 checkpoint is complete, so **V16 is unlocked**.
+The V13–V15 checkpoint is complete, so **V16 is the next candidate sequential operation**. This repair grants no sequential execution authorization. V16 has **not** been analyzed here; do not infer authorization for a continuous V16–V19 run. A separate agent must verify the completed repair, current repository controls, source lock/quality restrictions, and its actual user authorization before starting. The project remains active, not terminally sealed.
 
 Next artifact:
 
@@ -287,7 +292,7 @@ Do not:
 
 - redo V13–V15 unless a factual/source error is found;
 - revert the V13 Chapter-75 rider to Nadeshiko;
-- interpret the empty standalone-ledger folder as missing production work;
+- mistake the historical ledger deferral or the bounded retrospective backfill for a new project generation;
 - call every separated group activity `modular group travel`;
 - treat Aoi as a cycling expert because she is Mei's senior;
 - call Mei a passive inheritor;
