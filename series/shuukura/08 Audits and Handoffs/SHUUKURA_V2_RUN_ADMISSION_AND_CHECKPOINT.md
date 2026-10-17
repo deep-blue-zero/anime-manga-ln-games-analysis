@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.8"
+version: "0.9"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "SHUUKURA-V2-20261017-I1; preserved admission/V01–V06 checkpoints, verified V06 publication and V07 complete-unit checkpoint"
+source_boundary: "SHUUKURA-V2-20261017-I1; preserved admission/V01–V07 checkpoints, verified V07 publication and V08 complete-unit checkpoint"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: V07_SOURCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
+review_status: V08_SOURCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -337,3 +337,50 @@ Transaction **SHUUKURA-TX-LN-JP-V07-20261017-A1** completes only in its whole in
 | Run/publication | active; V07source/housekeeping/finalactual-head/nightly/explicitmainaudit still required after introducingcommit. No manualmainmerge or globalindex/registrywrite. V07must visiblypublish LN75% boundary; notoverall75% completion |
 
 46character events/seven projections/20readiness reviews;47relationship events/nine directions/44rule versions(28old+16newR064–R079);89proposition versions(45old+40newIDs+fourlaternew-IDversions)/44access transitions/24tensions;46claim formulations(38old+eightnew), totaling51claimIDs/202formulations/14forecasts. Every earlier ledger row/modelprefix/checkpointbody/acceptedunit remains preserved. Source inventory I1 and later-release exclusions unchanged. Current run is not completed; next operation is not NONE.
+
+
+## Verified V07 publication and reconciliation before V08
+
+V07source23442ad71e08ba6fea2705be1196e2d932112620/PR204/mainfcf30802988331eb8033e17167acdec6bb9abbf1/equalfulltree2b3da1ab3f261efda833f415017cfa64fb134552/mandatoryexplicitmainaudit39034147672success352tests. [PR204](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/204) integrated all source bytes. Source/main fulltree equality and zero side deltas were verified before clean ordinary no-commit merge; both histories remain parents. No ours/theirs selection or published-history rewrite. Recover the eventual introducing V08commit/tree by transaction identity, not a guessed self-hash.
+
+| Stage | Verified result |
+| --- | --- |
+| Source audit | [39032840585](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39032840585), SUCCESS/actual23442ad7 |
+| Housekeeping | [39033203298](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39033203298), SUCCESS/NO_OP/actualSOURCE_SHA23442ad7 |
+| Final source audit | [39033232240](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39033232240), SUCCESS/actual23442ad7 |
+| Owner-only nightly | [39034066027](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39034066027), SUCCESS/VERIFIED_OWNER_ONLY/merged_verified/PR204/source23442ad7/baseef1e29ab/mainfcf30802 |
+| Mandatory explicit main audit | [39034147672](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39034147672), SUCCESS/full352tests/actualfcf30802/reporter targetverified |
+
+V07 is CLOSED_ON_GREEN_MAIN. The later push-mainaudit39034133188 is also successful but does not substitute for the explicit owner-dispatched audit. Full logs/hashes are in the durable execution receipt. Neighboring foreign-series workflow runs were excluded, and an optional read-only403diagnostic was not treated as an integration blocker. No credential/control change was made. All earlier checkpoint statuses remain true at their historical times.
+
+## Durable checkpoint after V08
+
+Transaction **SHUUKURA-TX-LN-JP-V08-20261017-A1** completes only in its whole introducing commit. [Unit audit](SHUUKURA_V2_LN_V08_TRANSACTION_AUDIT.md) binds the other ten artifacts and nine before-images. After interruption fetch actual source/main heads and recover this commit/tree before new writes. Draft files, a timeout or a successful source read alone do not advance coverage. Do not replay already executed append scripts.
+
+| Recoverable field | State after complete introducing V08commit |
+| --- | --- |
+| Authority/run | continuous_sequential/active/startLN-JP-V01/terminalSHUUKURA-V2-20261017-I1 plus all mandatory outputs; no ordinary confirmations; lockOPEN |
+| Repository | Prior source23442ad71e08ba6fea2705be1196e2d932112620/mainfcf30802988331eb8033e17167acdec6bb9abbf1/equalfulltree2b3da1ab3f261efda833f415017cfa64fb134552. Clean ordinary merge retains both; actual new commit/tree recovered by transaction identity |
+| Governing versions | Method/architecture/reconstruction0.2; inventory/current1.2; ledgers/checkpoint0.9. I1JSON6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95 unchanged |
+| Exact witness/map | V08/ACQUIRED-20261017-A1/Drive1if9ljcOHNJvaLsmFYhD3_SuFChvTRR6F/8308796bytes/sourceSHAa8f5a649c0797e71c2481d72123ce1ed64332f61bf39360309d7e57b45805642/locatorSHAcb391565c853ec1c65ae4f733bf281d2570e4aaaadea4beb4e659b6b1f8b9980; mappackage1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju; catalog04076170A23275700000/electronic2025-12-19ver.001/printfirst2025-12-20 |
+| Source controls | OPFdeclareszh-CN/fullactualJapaneseverified, unknownconversionhistoryretained.28spines/4857p/19images/723ruby/175guides/1088literalchecks; zeroCRC/member/UTF8/outsideflowdefects; lostdeliverieszerocredituntilrecovery |
+| High-water/lanes | LNV08/8of9; externalSSNONE0/18; KakNONE0/431; NarōNONE0/290. Available8/458; LN75%closedV07, LN100%dueV09; overall115/458unreached |
+| Entering freezes | A1@12:32:43.807356UTC/source23442ad7/teninputs/opening3883bytesSHA8961d653d4018e4fa88542c75aa6ec3441300acd7b9f842ef9fc8bb9d25082b8. A2@12:33:35.428699UTC edition/base-only beforeallfiction/images; combinedSHA7318943dddd59e62e2161b89d12cb86fea2c4f0398440274fd422ff5a80a0738 |
+| Mainline freeze | F11@13:28:56.525143UTC/4586p/17images/160488bytesSHA4e51d2e5cc7c9dedebb205ec8afe845b5a36b301813af23cf36786ad6fff5c3d; BEFOREafterword/rewoundbonus |
+| Full-inspection freeze | F14@13:33:49.169916UTC/all4857p/19images/172635bytesSHAfe6a21d574aa13d89c1230059903fedce959d1b84b30e2874cff1e248e5415f1 |
+| Frozen original journal | 177940bytes/SHA13eb8bf7568c2356e4163cda1bcdae8ed093ca20e8562eabd8d1a6ec429de717/63observations/F0–F15/sealed13:39:32.428420UTC; O041/O063attributableSep25piercingerratum; exitSHUUKURA-LN08-EXIT-20261017-A1 |
+| Fictional endpoint | M/S-V08-EXIT Dec25night/both19; realautumnjob/festival/Christmas; noformalromance/standingnames/indefinitecohabitextension. RewoundSundaybonusdoesnotresetendpoint |
+| Epistemic/claims | Mprivatepossessiveness/retention-releaseconflict notSknown; SprivateLOVE/family/Octoberpriority notMknown. Mhearslocalnerves/publicconditionalpostgradhope, noextensionassent.61claims/259formulations/236propositionIDs/103ruleIDs |
+| Ordinary tests | S0.11/S-V08-RETURN-P294@12:39:27.585150UTC/packetb34e25da89c243037d539bfe5b29fdbc57ecfc0f81e6e7f446ec483fa4dd037e/throughjournalb8be20a0f97ead8dccf0ba44a9e68daa9c45aacbd300c19a20a050a44143e0a1→p-004295namingbidSUPPORTEDNARROWLY/baselinetie; M0.10/M-V08-FESTIVAL-P110@13:04:35.876437UTC/packet3c95305d47ebc7ca245b117112255b026583222deb7ec822fd865d7ecd306769/throughjournal4b60038397d0da225a1ea68d219cd8fe3e8ede442fc5a39fa73ef7ddf09a78de→p-007156actualwearFAILED; norescore |
+| Models/readiness | Elevenhistoricalcases=5failures+1exposurequalifiedgiftmatch+5ordinarybaseline-ties; fiveolderclaimforecastsseparate. New M0.11/S0.12untested/noncurrent/zeroheldout/noindependentacceptance/noVALIDATEDdomain; unfamiliar/crossseriesnotready |
+| Outstanding |51missingidentities/27finitenotices/290Narōduties/voiceidentity-modalityaccess; winterfirstshift/zoo/nextyearplansunperformed; oldweather/parentellipsis/skirtreturn/stewunresolved; mothersabsence/fullfamilyriftcausesunprovided |
+| Exposure | Frontmatter previews beforefiction; mainlineF11 beforeafterword/bonus. BonusOctoberChristmaswish/familymemoryisretrospectivefit, notearlierblindtest. NoV09/other-lane/V1fictionread |
+| Next authorized operation | Verify wholeV08commit/remote/sourceaudit→housekeeping→finalactual-head/nightly/explicitmainaudit, thenLN-JP-V09automatically. Continueallfrozenlaterlanes/reconciliation/monographs/specialists/models/V1/integrated/release |
+| Run/publication | active; V08publication is a required pendingpostcommitsequence, no directmainmerge/globalindex/registrywrite. This unit is not runcompletion |
+
+57character events/seven projections/21readiness reviews;55relationship events/14directions/60ruleversions(36old+24newR080–R103);136propositionversions(60old+66newIDs+10laternew-IDversions)/68access transitions/30tensions;57claimformulations(47old+10new), totaling61claimIDs/259formulations/16forecasts. Every earlier ledger row/modelprefix/checkpointbody/acceptedunit remains preserved. I1 membership/gaps/future exclusions unchanged. Next operation is notNONE; all later architecture duties persist.
+
+
+## V08 current-main reconciliation before publication
+
+After the initial equal-tree reconciliation with mainfcf30802, currentmain advanced to `276043b5a7062d456f33cbaa5254c0a5aa40649f` through other-series PR205. Its complete60-path delta is confined to series/konosuba; no Shuukura/governance/tool/routing/character file changed. All ten existing Shuukura candidate files were byte-preserved before replacing only the pending merge metadata and performing a clean ordinary merge of currentmain. All60 inherited blobs exactly match276043b5. The final introducing commit therefore retains direct parents23442ad7 and276043b5, with fcf30802 preserved as an ancestor. The authored delta relative to currentmain remains exactly eleven declared Shuukura paths; inherited approved other-series content is not reauthored. No conflict, ours/theirs choice, reset or history rewrite occurred. Recheck both remote heads before publication and repeat affected checks if they advance.
