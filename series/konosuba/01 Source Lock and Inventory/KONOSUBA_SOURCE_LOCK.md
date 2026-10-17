@@ -4,7 +4,7 @@ artifact_type: source_lock
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: Japanese main-series light novels V01-V17 complete in the current corpus; V07 acquired and audited 2026-08-27
+source_boundary: Japanese main-series V01-V17 remain the exclusive prospective derivation corpus; the 41-object 2026-10-16 expanded inventory is admitted only through the staged component rules below
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -22,11 +22,11 @@ The canonical derivation corpus is the **Japanese main-series light novels in vo
 
 Current primary-source root:
 
-`../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md#drive-ref-0f70fc4c9766e347`
+Drive source-folder ID: `1cCqwK0Bvd9OjcnN8jdsixAQrVOmlFfuw`.
 
 Main-series subfolder:
 
-`../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md#drive-ref-2d38c00a5f2fb83a`
+Drive main-series folder ID: `1EEgPj_i0bJSUUF6ZHCc5JUyCduMAigO8`.
 
 The retained EPUBs are governed by the source audits under `Source Audit and Manifests` and the current `audit_manifest.json`.
 
@@ -42,7 +42,7 @@ Missing:
 
 The former V07 continuity gate is **RESOLVED**. V07 was added to the canonical `Main Series` folder, matched the updated manifest SHA-256 exactly, passed ZIP/EPUB integrity checks, and passed a dedicated Japanese-language audit on 2026-08-27.
 
-Canonical sequential analysis may therefore proceed V07 -> V08 -> V09 under the already-frozen Model Generation 0.2 prospective predictions. Later source availability does not license out-of-order analytical updates.
+Canonical sequential analysis is accepted through V17's explicitly admitted principal main narrative only; all 17 principal readings are distinct from entire-EPUB/component, reconstruction, validation and final-program completion. The V10–V12 checkpoint independently established Gen04 with 25 V13–V15 forecasts; its exact model and both forecast copies remain unchanged. V13's first narrative opening at 2026-10-16T22:23:52.383159Z occurred after the accepted, committed, published and read-back freeze while that checkpoint's own CI was truthfully pending; preserve that original opening record. The checkpoint publication sequence subsequently closed on published commit `c1ad78db96c631635a1fc2940019c59dd4e86873`: source audit 38975079047, housekeeping 38975633339 and final audit 38975671243 succeeded, with final status success at 2026-10-16T22:29:27Z. That later closure does not rewrite the earlier pending state or certify V13 publication. V13's separate publication sequence is now verified closed on exact `ee4e2882cb69cf58d87c3d48437dec7270c163ab`: source audit 38983346461, no-op housekeeping 38983793379 and final audit 38983827207, with exact Repository integration audit success at 2026-10-16T23:58:16Z. V14's first principal exposure at 2026-10-17T01:56:36.388569Z followed that closure. V14 adds only its eight admitted principal members `OEBPS/Text/part0009.xhtml`–`part0016.xhtml`; the separately identified afterword at part0017 and bonus at part0020 remain unread. V14's complete publication gate closed at 2026-10-17T03:51:34.119658Z on exact source `6533c7213db6f2279b02a98f1bd95bac50bb41f2`: source audit 38999652741, no-op housekeeping 39000001338 and final exact-head audit 39000027930, with its actual Repository integration audit status success. V15 source processing/first semantic display began at 03:55:09.953304Z/03:55:58.699066Z after that closure and fresh entering/source verification. Its admitted principal scope is seven members Pr/C1/C2/C3/C4/F/Ep at `OEBPS/Text/part0009.xhtml`–`part0015.xhtml`, 3,013 all-body paragraphs, 2,737 nonempty and 100,670 base characters. Afterword 0016, TOC-identified bonus 貴族スタイル beginning 0018, unclassified post-bonus 0019 (stable MAIN15-POSTBONUS-0019), images and other edition components remain unread, with component review outstanding and narrative exposure still gated; bonus extent is not certified from the TOC. No new model generation is established by V13, V14 or V15; all 25 original Gen04 forecast field pairs remain blank and local outcomes append separately. The subsequent V15 publication and separate V13–V15 checkpoint/Gen05 freeze gates are verified closed on f011d24a and b4c4c61 respectively; the later V16 principal-component acceptance and its still-separate publication dependency are reconciled below. Continuous V11–V17 authorization preserves every earlier freeze and source-unit transaction gate. No source availability licenses out-of-order updates, and no side narrative or edition bonus enters prospective main-series states.
 
 ## 4. Withheld sources
 
@@ -56,6 +56,19 @@ The following sources are **not** part of initial model derivation:
 They are reserved for later out-of-sample validation after the main-series models are frozen, subject to chronology/canonicity/viewpoint audit.
 
 This is a methodological holdout, not a judgment that the material is unimportant.
+
+### 2026-10-16 expanded-scope amendment
+
+The owner's attached completion instruction and mandatory expanded-source reconciliation authorize the [41-object source snapshot](KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.md), without promoting every object or component to equal narrative authority. The [structured matrix](KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json) records identities, hashes, editions, creator roles, provenance, limitations and individual coverage states. The pre-existing four holdouts above are unchanged; all other supplementary books are supplementary-only for this run, not additional selectively scored tests.
+
+1. **Main-series derivation:** only the sequential main narrative of V01–V17 updates prospective model states. Edition-contained bonuses, afterwords, illustrations and promotional matter remain outside those states. Finish and freeze the main-series evidence and reconstruction suite before withheld narrative exposure.
+2. **Frozen-model validation:** use the four already designated books, with scene eligibility/chronology/viewpoint audit and predictions fixed before the behavior being scored. Preserve failed, ambiguous, untested and non-applicable results. Do not change the frozen suite to improve its score.
+3. **Expanded-corpus analysis:** after initial validation, read the other verified fictional prose, preserving each coherent secondary sequence and individual anthology/bonus identities. Main-series ebook bonuses join this lane individually; earlier exclusion from derivation is not permanent exclusion from the expanded project. `Fantastic Days`, artbook/fanbook fiction and TRPG narrative need explicit component/continuity dispositions. Illustration, reference, editorial, rule and promotional components cannot silently become fictional narrative evidence.
+4. **Post-validation reconstruction:** revise supported current models through separately attributable versions after recording validation outcomes. Preserve the main-only suite, prospective checkpoints and the experiment unchanged.
+
+The fixed scope is the collection at reconciliation, not future releases. Every admitted narrative component must end with a traceable analysis or a precise unresolved disposition. Byte verification and book indexing alone never establish READ_COMPLETE, ANALYZED or VALIDATION_USED. The image-only artbooks, fanbook and TRPG books require direct page inspection to identify their prose and narrative components; no completion or blanket narrative-authority claim is made for them here.
+
+This amendment changes the project-local source schedule, not global repository authority, the primary-source manifests' historical bytes, or the literary authority of the prospective main-series baseline.
 
 ## 5. Non-authoritative external material during sequential reading
 
@@ -91,3 +104,21 @@ For any later replacement/addition:
 ## 8. Governing rule
 
 No adaptation, summary, memory, or later source is allowed to erase the distinction between **what the Japanese main novel actually establishes at this point in sequence** and what is known elsewhere.
+
+
+## V16 principal-component reconciliation — 2026-10-17
+
+The separate V15 gate closed on `f011d24aaaca31c95168ce05bed15ba1e9384056`; the V13–V15 checkpoint and main-only Gen05 freeze then completed their separate exact publication gate on `b4c4c61412e93f16a218dcacd9d700253f6aea19` at 2026-10-17T06:49:08.667886Z. This later reconciliation distinguishes the current published boundary from the historical pending wording of earlier authored receipts. Gen05 model/forecast bytes, all 25 original blank Outcome/Adjudication pairs, Gen04's original blanks and all earlier outcome histories remain preserved.
+
+MAIN-16 matches Drive `1IDfx2vWkl8YzSpVVsl6Q-oPj2a-FwcYs`, 8,530,869 bytes, SHA256 `7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1`. Japanese OPF/spine/navigation and exact principal components were checked before exposure. The admitted ordered C1/I1/C2/I2/C3/I3/C4/I4/F/Ep members are `item/xhtml/p-002.xhtml`–`p-011.xhtml`: 2,844 all-body paragraph slots, 2,657 nonempty, 111,788 base characters and 2,666 ruby occurrences. Full source reading, twelve-pass analysis, separate 25 local prediction records, ten current ledger responsibilities and bounded independent receiving are documented by the [V16 reading](../02%20Sequential%20Readings/KONOSUBA_V16_DEEP_READING.md) and [receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V16_RECEIVING_REVIEW.md). Those actual scopes, shared-evidence limits and externally attributable corrections govern the analytical acceptance; this source-register reconciliation is not another literary reading.
+
+Completion applies only to those ten principal members. Afterword p012 and bonus **アクセルの街の名物女神** beginning p014 remain IDENTIFIED_NOT_READ; its full extent is unresolved. Image wrapper p013 is structure-only/unviewed. `MAIN16-POSTBONUS-p015` contains 2,299 base characters detected mechanically but remains UNCLASSIFIED_NOT_READ, with no assumption of a separate story, continuation or colophon. All 28 image resources, front/end/colophon/promotional components remain uninspected. No entire-EPUB or expanded-program completion is claimed. V17 exposure requires the separate successful V16 publication/readback, source audit, housekeeping and final exact-head audit, followed by fresh source/entering-state admission. Holdouts and all supplemental/bonus/mixed narrative remain closed until the main-only reconstruction freeze and the applicable subsequent validation/expanded gates.
+
+
+## V17 principal-component reconciliation — 2026-10-17
+
+The separate V16 publication gate subsequently closed on exact source `4343c8bb5c162a4b35406f590b783a5e1735abb2`, tree `c9a12d3d546949a5402d93aba6b0b7908893da4c`, at 2026-10-17T09:10:10.172553Z. Source audit 39019357818/job117357886208, no-op housekeeping 39019715353/job117358932274 and final exact-head audit 39019738383/job117359003026 all succeeded with actual logged AUDIT_COMMIT/SOURCE_SHA equal that source. Both full audits passed 352 tests across 8,004 paths; the actual exact Repository integration audit status is success. This reconciles authored pending wording without rewriting the failed earlier main-drift attempt or claiming protected-main integration.
+
+MAIN-17 freshly matches Drive `1IIFWiOJ25qVMxlU10HxHDQl-m89ygoqz`, 2,197,695 bytes, SHA256 `5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c`. OPF `content.opf` declares Japanese; both package dates and opaque ASIN/UUID identifiers retain their original uncertainty. Principal processing/admission occurred at 2026-10-17T09:11:27.578013Z/09:11:27.640386Z, after V16's closed gate. Exactly five ordered principal members C1/C2/C3/F/Ep at `text/part0009.html`–`part0013.html` comprise 2,608 all-body paragraph slots, 2,327 nonempty, 89,511 base characters and 2,269 ruby occurrences. Base text excludes rt/rp while ruby is separately preserved; there is no non-whitespace narrative outside body p, and all 267 br elements occur in blank/whitespace-only paragraphs. Full ordered source reading, twelve-pass analysis, separate 25 local Gen05 records and ten ledger responsibilities are bounded by the [V17 reading](../02%20Sequential%20Readings/KONOSUBA_V17_DEEP_READING.md) and [receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V17_RECEIVING_REVIEW.md). Actual separate discovery/coding/receiving scopes and attributable corrections belong to those artifacts; this source-register reconciliation is not another literary reading.
+
+Only the five principal prose members are complete. Afterword0014 and colophon0016 are identified but semantically unread. `MAIN17-PREFRONT-0006` and `MAIN17-POSTCOLOPHON-0017` remain unclassified/unread: mechanical body-base counts 122/187 include formatting whitespace and establish no content identity. All 25 actual images remain unviewed; wrapper XML received structural inspection only, while remaining front/end/promotional/bonus-if-present bodies remain semantically unread. Absence of a separate bonus NCX label does not establish absence of eligible fiction. The 41-object identity seal is unchanged. Gen05's exact model/forecasts and 25 original blank scoring pairs, Gen04 freezes and all earlier outcomes remain preserved. V17 publication and its full exact-head gate remain separate obligations before publication of the V16–V17 final sequential checkpoint/main-series evidence freeze. That checkpoint is not the main-only reconstruction-suite freeze: specialist syntheses, the complete reconstruction suite and its reproducible freeze must still precede all four holdout sources; expanded component work follows validation. No whole-EPUB, expanded-program or final archival completion is claimed.

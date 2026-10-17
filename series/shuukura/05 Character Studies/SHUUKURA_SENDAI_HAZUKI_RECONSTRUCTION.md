@@ -632,3 +632,137 @@ Across both principal files there are nine distinct historical model cases: FOUR
 The Miyagi plush choice is a narrow decline match at p-006p163, also matched by immediate no-detour continuation; its exact black-cat reason was not forecast. The Sendai video result is FAILED because p-008p162 grants permission before asking identity in the same utterance; later questioning cannot rescue it. Other evaluation dimensions are NONDISCRIMINATING. These are ordinary bounded tests, not a validation of psychological diagnosis or intimate behavior. The packet wording about an evaluator-unrevealed preference never alleges that Miyagi forgot her own preference.
 
 The finite V2 architecture still requires principal monographs, reconciliation, independent acceptance where claimed, realistic limitations and final readiness assessment. Marking a domain limited or not ready preserves that obligation; it does not label an untested exit validated. Future source beyond this witness requires new declared admission/state recovery; no V1 claim or future release enters silently.
+
+
+## V08 transaction append — preserved partial-state test and untested exit
+
+Every earlier byte remains a historical prefix. The original front matter is the original draft_noncurrent record; no version here is independent literary evidence or an independently accepted reconstruction. Select an explicit time and model identity.
+
+Fit: independent Japanese LN01–08/ACQUIRED-20261017-A1/I1, method/architecture/reconstruction0.2, current ledgers0.9. V08 source SHA`a8f5a649c0797e71c2481d72123ce1ed64332f61bf39360309d7e57b45805642`, locator SHA`cb391565c853ec1c65ae4f733bf281d2570e4aaaadea4beb4e659b6b1f8b9980`, Drive`1if9ljcOHNJvaLsmFYhD3_SuFChvTRR6F`; electronic2025-12-19/ver.001, printfirst2025-12-20. OPFzh-CN is a retained packaging anomaly, not a language substitution. All4857native paragraphs and19original images were inspected. V08 O### resolves to LN-JP-V08-O### in the [complete reading/index](../02%20Sequential%20Readings/SHUUKURA_V2_LN_V08_DEEP_READING.md#observation-locator-index-and-shared-field-contract). Earlier OIDs keep their own volume. Mainline F11 is Dec25night; the later Sunday bonus is a retrospective disclosure. O041/O063 correct new draft date references: S piercing was Sep25, not Sep27, while the prior exit/work conversation remains Sep27. No earlier packet or accepted reading is altered.
+
+### Actual pre-outcome packet — verbatim
+
+Creation status UNTESTED remains the historical status. The later result below is a separate adjudication, not an edited prediction. Partial-state evidence cannot silently become the endpoint.
+
+### TEST-SENDAI-LN08-001 / PRED-LN-JP-V08-001 — ordinary naming response
+
+Status at creation: UNTESTED. Model SHUUKURA-SENDAI-LN08-P294-M0.11, explicit state/input revision of S0.10; source/witness LN-JP-V08/ACQUIRED-20261017-A1. Frozen before p-004p295; no later fiction inspected. Current entering base is SHA 33d70784b209020cada5afaa749d81b31e052870692fd1cfb27ea0ad3fcac43d, fit LN01–07 plus only actor-available changes through this local V08 cutoff. This is nonsexual ordinary address/conversation analysis, not dream enactment.
+
+Eight query fields:
+
+- subject: SENDAI_HAZUKI.
+- witness_revision: LN-JP-V08/ACQUIRED-20261017-A1 (sourceSHA a8f5a649c0797e71c2481d72123ce1ed64332f61bf39360309d7e57b45805642).
+- time_state_id: S-V08-RETURN-P294, October evening more than week after prior jobconversation, returned from actual café work; exact date/clock unknown.
+- situation: Miyagi asks about nighttime dreams. Sendai has given penguin/roe/igloo and cat examples, then asked Miyagi about hers. Miyagi says Sendai appeared and asked her to call Hazuki. Sendai asks whether she did. Miyagi replies she forgot. Predict Sendai first substantive ordinary verbal response after that reply.
+- interlocutor_ids: MIYAGI_SHIORI only.
+- public_private_context: shared home common space, private two-person ordinary conversation, neither other friend nor pupil present.
+- available_options: make a current awake given-name request/invitation; ask for further dream/memory details without present-name bid; acknowledge/drop topic or shift ordinary subject; other first substantive ordinary reply; abstain if source does not resolve or leaves this domain first.
+- information_packet: KNOWN own work/current new lateness rule and today M no-penalty decision, returned lip object, own desire for name/particular company, older refusal/naming pact, actual M words above. BELIEVED M increasingly attached but named mutual love uncertain; no standing conscious first-name agreement. SUSPECTED M may withhold details, exact motive unknown. CONCEALED_BY_SUBJECT own love and some private history/reasons remain unspoken. MISBELIEVED not assigned: M claimed forgot is a heard statement, not verified actual amnesia. UNAVAILABLE M full dream content/its private motivation, morning sole-name whisper, actual friend/café day details not told S here, M comparison fear, all future narrative. EVALUATOR_UNCERTAIN S exact own dream-history veracity; do not insert a false private memory or treat examples as independently verified; not needed for ordinary reply forecast.
+
+Conditional update: use S01.10 pursuit of particular company, S04.10 distinction between reply and clarification, S05.10 selective tact, S12.10 fallible reading and S16.10 privately named affection under explicit local state. Preserve S0.9 earlier question-first failure and the difference between sleepy prompting and an awake address agreement. No policy assumes every M refusal means yes or endorses forced naming.
+
+Preferred first action family: a direct ordinary request/invitation for Miyagi to use Hazuki NOW/awake, possibly framed as trying it or restoring memory. Tentative, not an exact Japanese line or certainty about motive. Credible alternatives: continue clarifying the dream/claimed forgetting, drop/deflect to avoid pushing, or another ordinary tease/explanation without an awake naming bid.
+
+Cutoff/rubric frozen now: first substantive ordinary Sendai speech after p-004p294, before Miyagi next substantive reply. Pure acknowledgment or laugh is not itself decisive; if the same turn contains several functions, the FIRST directive/question with discriminating function is the outcome. A PRESENT/AWAKE name bid first supports the preferred action. A first request for past dream details/memory, explicit topic-drop or another substantive ordinary action before such a bid CONTRADICTS; a later name request cannot rescue it. If no first eligible ordinary turn is supplied before a scene cut or an excluded-domain preemption, mark UNTESTABLE and do not score an intimate continuation. No body action, romantic confession or sexual outcome is predicted/scored.
+
+Baselines: (1) repeat the already established name-request pattern => awake name bid; (2) literal followup of the immediately preceding memory question => ask further dream/memory detail; (3) preserve-current-contact/drop-pressure => acknowledge/drop. Compare all, do not manufacture model advantage over baseline1. Other dimensions (motivation, Japanese wording, recipient conditioning, epistemic fidelity, abstention) score only if discriminating source evidence exists; otherwise NONDISCRIMINATING. Do not infer private intent from the first line alone.
+
+Contamination: V07 advertisement/V08 front matter exposed job, café visit, mark/retention and broad ownership/title themes, so none receives blind credit. They did NOT disclose this next ordinary naming reply. Earlier source and this local premise were fit; outcome p295+ is unseen at freeze. Same author/evaluator, possible pretraining familiarity, no independent acceptance or numerical accuracy. Current S0.10 exit itself remains untested; this explicit S0.11 local packet has a separate result. No source-character expectation is a model test.
+
+
+Frozen receipt:
+
+```json
+{
+  "id": "TEST-SENDAI-LN08-001",
+  "prediction_id": "PRED-LN-JP-V08-001",
+  "frozen_at": "2026-10-17T12:39:27.585150+00:00",
+  "model": "SHUUKURA-SENDAI-LN08-P294-M0.11",
+  "time_state": "S-V08-RETURN-P294",
+  "source_before": "p-004p295",
+  "base_model_path": "series/shuukura/05 Character Studies/SHUUKURA_SENDAI_HAZUKI_RECONSTRUCTION.md",
+  "base_model_sha256": "33d70784b209020cada5afaa749d81b31e052870692fd1cfb27ea0ad3fcac43d",
+  "packet_bytes": 5239,
+  "packet_sha256": "b34e25da89c243037d539bfe5b29fdbc57ecfc0f81e6e7f446ec483fa4dd037e",
+  "journal_through_record_bytes": 21573,
+  "journal_through_record_sha256": "b8be20a0f97ead8dccf0ba44a9e68daa9c45aacbd300c19a20a050a44143e0a1",
+  "status_at_creation": "UNTESTED"
+}
+```
+
+Separate subsequent adjudication:
+
+```json
+{
+  "test_id": "TEST-SENDAI-LN08-001",
+  "frozen_packet_sha256": "b34e25da89c243037d539bfe5b29fdbc57ecfc0f81e6e7f446ec483fa4dd037e",
+  "resolution_observation": "O006",
+  "source_locator": "p-004p295",
+  "action_result": "SUPPORTED_NARROWLY",
+  "baseline": "Repeat established name-request pattern also matches; literal past-memory followup and drop-pressure baselines do not",
+  "other_dimensions": "NONDISCRIMINATING",
+  "independent_acceptance": false,
+  "original_rubric_preserved": true,
+  "cutoff": "First ordinary utterance p295; no physical/intimate behavior predicted or scored",
+  "adjudicated_at": "2026-10-17T12:40:26.228008+00:00"
+}
+```
+
+## SHUUKURA-SENDAI-LN08-EXIT-M0.12 / S-V08-EXIT — untested provisional packet
+
+Time: Dec25night after the last private scene, before any first winter café shift is shown. Both principals are19. The preceding partial test is a different explicit time/input revision. This endpoint uses all revealed V08 outcomes as fit, has ZERO held-out cases and no independently accepted domain.
+
+| Category | Actor-available facts and limits |
+| --- | --- |
+| known | Own love/jealousy, remembered sister/Santa history, work and financial aims, actual autumn café term/extra shift, late-contact failure, own true waiting, observed M beauty explanation/blue gift, own accepted photo promise and actions, own private scarf preparation, actual party gifts and M gratitude, new winter staffing need and M approval, public postgrad statement, crane-game failure/M gift, expressed nerves. O001–063; actor-specific ledger controls access. |
+| believed | M values particular company and signs but may not return named love. Wants to widen roommate life, now finds unreturned love harder to accept. A visible or recorded trace can preserve presence, although it cannot guarantee recognition. O017/O027–031/O039–047/O053–057. |
+| suspected | M may fear meanings that she does not name and feel jealousy concerning Maika or work. Blue stones function as a proxy presence; M confirms the sign but not all researched stone words. Noto may know more than S presentation admits. O025/O031/O039–043/O060–061. |
+| concealed_by_subject | Named love, full family history, October Christmas wish, much photo strategy and jealousy, full long-term household motive, some private gift strategy; public earring purchase origin is deliberately false to keep M requested privacy. O017/O031/O040/O045–047/O061. |
+| misbelieved / corrected or uncertain | Correct desired waiting conclusion does not validate the desired-conclusion method; S wrongly infers M has not bought earrings. Comfortable public behavior is not complete understanding. S no-wrongdoing explanation to Mio omits taking the refused image. Local ordinary name-bid match is baseline-tied, not broad predictive validity. O006–007/O039–040. |
+| unavailable | M full private dreams, exact feeling-denial history, unspoken possessiveness formulation and confinement/release conflict, much childhood and gift-search detail, undisclosed reasons for cream nonuse. No heard M named LOVE or postgraduation extension assent, no V09/other-lane/V1 access. |
+
+### Conditional policies S0.12
+
+Stable policy responsibilities retain their old numbers. New concerns receive new numbers; no old ID is recycled.
+
+| Rule | Nonsexual conditional tendency | Evidence, alternatives and negative constraint |
+| --- | --- | --- |
+| S01.12 extend S01.10 | Seeks particular company through invitations, planning, gifts and ordinary shared activity | O014–020/O038/O045–051; Maika party is genuinely welcome too |
+| S02.12 revise S02.10 | Familiar planning and research do not imply general practical mastery | O038 torn dumpling/O051 crane failure; accept a context-specific novice alternative |
+| S03.12 extend S03.10 | M requests affect choices while S can retain work, information and independent priorities | O008/O032/O040/O043; request for permanent physical presence is not accepted |
+| S04.12 qualify S04.10 | First ordinary response depends on precise request and context, without a default query-first rule | O006 name bid narrowly matched baseline; prior video yes-first failure preserved |
+| S05.12 extend S05.10 | Audience-specific tact includes genuine thanks, true fragments and deliberate false cover | O040/O045–047; false gift origin keeps a real secrecy promise, not complete candor |
+| S06.12 qualify S06.10 | Actual restraint and repeated local failures coexist; another person no stays evidentially meaningful | O049–050/O053/O056–057; critical analysis only, no executable intimate response or coercion |
+| S07.12 extend S07.10 | Can respect privacy or invite further disclosure while withholding own reasons | O025/O027/O043; a friendship list is not owed, no access to all M private thought |
+| S08.12 extend S08.10 | Friend and professional ties have their own value alongside preferred M company | O032/O040/O046–047/O060–061; Noto, Mio and Maika not only jealousy mechanisms |
+| S09.12 extend S09.10 | University, tutoring and café choices serve practical independence and possible shared future | O017/O032/O040/O043/O047; support-loss scenario private forecast, winter first shift unshown |
+| S10.8 retained in original illness interval | Earlier illness care and non-transmission wish stay bounded to their own time | V06 O024–026; no new V08 illness, medical claim or recycled policy responsibility |
+| S11.12 extend S11.10 | Gifts can express aspiration, practical care, visibility and wanted recognition without identical recipient meanings | O039–043/O046–048; public consumable/private durable distinction, no objective ownership |
+| S12.12 revise S12.10 | A correct result may come from a fallible method; familiar patterns do not uniquely reveal M intentions | O007 correct waiting/O039 wrong no-earring-purchase inference; no mind-reading |
+| S13.12 extend S13.10 | Concealed planning may secure an occasion or preserve a surprise without proving concealment necessary | O046–048 scarf already prepared; later reveal cannot become earlier disclosed knowledge |
+| S14.12 extend S14.10 | Specific time/place and activity negotiations may be honored while other limits fail | O049–050 lunch sharing/dessert refusals respected; other acts require their own accounting |
+| S15.12 extend S15.10 | Familiar tutoring remains professional and responsive to Kikyo own goals | O032 exam wish/modest reward/actual study; no pass, piercing or misconduct invented |
+| S16.12 extend S16.10 | Privately named love coexists with fear of disrupting the current relation and growing wish for reciprocity | O017/O031/O053; M hears nerves/fear but not a full love confession |
+| S17.12 extend S17.10 | Can fear self-encroachment and loss while still making ordinary autonomous choices | O031/O043/O053; own insecurity is neither universal incapacity nor justification for pressure |
+| S18.12 extend S18.10 | May seek approval while saying the decision is her own; desired permission and an actual veto are different | O040/O043; future ask/answer procedure disputed, not an agreed permanent protocol |
+| S19.12 new new responsibility | Photographs can serve a wish to preserve time and also become bargaining for expression or explanation | O020/O027–028/O040/O046; a kept image is not proof M wanted capture, no rule-breach enactment policy |
+
+S10.8 remains the earlier illness-specific care/non-transmission policy in its original interval. No V08 illness is invented, no medical model is inferred, and S10 is not reassigned to work or another concern.
+
+Speech and interlocutor conditioning: ordinary surname address, clipped replies, qualifications and counterquestions differ from work politeness, friend conversation and locally requested given names. M `まだ` and role qualifications do not express a universal fixed preference. S `考えとく` about hair is not a promise to stop the hairstyle; M later assertion of a promise is locally corrected. Noto/Mio professional conversation and Kikyo teaching do not share the private-household register. Asakura/Noto have no supplied first names. Japanese wording is evidenced in the reading/index; do not transplant exact cited lines into invented interactions or claim voice/acoustic validation.
+
+### Executable admission, output and abstention
+
+Require all eight fields: `subject`, `witness_revision`, `time_state_id`, `situation`, `interlocutor_ids`, `public_private_context`, `available_options`, `information_packet`. Separate that packet into known/believed/suspected/concealed_by_subject/misbelieved/unavailable. The evaluator's other-narrator knowledge is not actor access. An earlier or childhood interval requires its own explicitly versioned packet; a current endpoint cannot silently answer for an earlier character.
+
+For admitted ordinary queries return exact version/domain, attended cues, available facts, conditional routes, credible alternatives, preferred action family only if discriminating evidence exists, expected disclosure/register, uncertainty, abstention and first observable cutoff. Do not fabricate exact Japanese dialogue, acoustic performance, a diagnosis, universal competence or mind-reading. A private wish does not determine the next overt choice; a generally correct interpretation does not guarantee a first-action prediction.
+
+Use is nonsexual. Do not implement erotic dialogue, sexualized response simulation, coercive enactment, body-harm instructions or pupil misconduct. The reading and ledgers provide critical non-graphic analysis of intimate source scenes; those scenes are not executable intimate-action policies. Refusal, assent, participation and later care remain distinct. Do not infer standing permission from a previous bargain, bodily response, silence, payment or an object.
+
+Before any new test, verify source/time applicability and freeze the full packet/model hash, alternatives, cutoff, rubric, simple baselines and exposure before the outcome. Keep first failures, other nondiscriminating dimensions and actual baseline ties. All V08 outcomes are now fit for these exit versions, not future held-out performance. Same-author evaluation and potential pretraining familiarity remain limitations. No numerical accuracy, independent semantic acceptance or domain marked VALIDATED follows.
+
+### Readiness and remaining architecture duties
+
+Source-consistent ordinary interaction reconstruction: LIMITED/provisional. Time-specific ordinary conversation: LIMITED under a complete packet. Counterfactual exploration: exploratory/unvalidated. Unfamiliar people: NOT READY. Cross-series scenarios: NOT READY. Childhood: no separately built/tested candidate in this adult endpoint. Monographs, full-lane reconciliation and final readiness review remain required; an honest limitation does not discharge them.
+
+Across both files there are eleven historical principal-model cases: FIVE first-action failures, ONE exposure-qualified gift match, FIVE ordinary narrow matches also reached by simple baselines. Five earlier claim forecasts are separate. M has four cases (three failures/one narrow tie); S seven (two failures/one exposure-qualified gift match/four ordinary ties). No case tests the newly written exit versions. Author review is not independent acceptance. Later fiction, other lanes and V1 analysis remain outside this fit boundary.
