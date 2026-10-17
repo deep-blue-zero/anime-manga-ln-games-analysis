@@ -5,14 +5,14 @@ artifact_type: longitudinal_ledger
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.0"
+version: "1.1"
 status: active_provisional
 scope: "Directional relational states and the lifecycle of rules, consent, negotiation and commitments"
-source_boundary: "Independent LN-JP-V01–V09 / ACQUIRED-20261017-A1; V10 excluded, other-lane fiction and V1 interpretation unread"
+source_boundary: "Independent LN-JP-V01–V09 plus BW-JP-V03 / ACQUIRED-20261017-A1; later supplemental/web fiction and V1 unread; V10 excluded"
 canonical_home: series/shuukura/04 Longitudinal Ledgers/SHUUKURA_RELATIONSHIP_RULE_AND_BOUNDARY_LEDGER.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: V09_SOURCE_AND_SEMANTIC_RECONCILIATION_COMPLETED
+review_status: BW03_RETROSPECTIVE_SOURCE_AND_SEMANTIC_RECONCILIATION_COMPLETED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Directional relationships, rules and boundaries
 
-Revision1.0 is current through V09/Q1: particular permissions, genuine preferences, specific breaches and actual negotiations coexist. The NewYear one-off right is consumed; no generalized command or future-act right follows. V09 O### expands to LN-JP-V09-O### in the [complete reading/index](../02%20Sequential%20Readings/SHUUKURA_V2_LN_V09_DEEP_READING.md#observation-locator-index-and-shared-field-contract), ACQUIRED-20261017-A1. Earlier OIDs keep their own volume. M=Miyagi Shiori, S=Sendai Hazuki, Maika=Utsunomiya Maika, Ami=Shirakawa Ami. MIO keeps its stable ID; new source full name 小松澪/Komatsu Mio is explicit at p-005p26. Noto/Asakura have no supplied first names; unnamed middle-school classmates are not merged with named friends. P09-NNN→PROP-LN-JP-V09-NNN, RNNN→RULE-LN-JP-NNN, REL-V09/EPI-V09/CLM-VNN retain LN-JP prefixes. F10 mainline is lateFebruary/week+afterFeb14/before the planned three-friend outing, sealed BEFORE afterword and middle-school bonus; later historical disclosure never enters an earlier actor packet. M0.13/S0.14 are untested exit candidates; thirteen historical cases retain six first-action failures (one S input-location-qualified), one exposure-qualified gift match and six ordinary baseline ties. Five older claim forecasts are separate; no numerical accuracy or independent acceptance follows.
+Revision1.1 is current through BW03/Q1. Added high-school festival directions are historical; adult V09 relational endpoint and existing current grants stay unchanged. BW03 O### expands to OBS-BW-JP-V03-O### in the [complete reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V03_DEEP_READING.md#observation-locator-index). This is retrospective source admission after all LN01–09; the depicted high-schoolY3 festivalDAY2 is earlier, with month later refined to October by the separately recorded BW03-C1/LN03 correspondence; exact day/year/numeric ages not assigned here. Adult chronological projections M/S-V09-EXIT and all prior prospective freezes remain intact. M=Miyagi Shiori, S=Sendai Hazuki, Maika=Utsunomiya Maika, Ami=Shirakawa Ami, Umina=Ibaraki Umina, Mariko=Mariko (no surname supplied). 杉川君 is the already-reported Ami boyfriend, pronunciation still provisional. All BW-JP-V03 IDs retain their separate witness prefix; LN IDs keep their scope. No new held-out/model test:13historicalattempts/18forecastrecords unchanged; M0.13/S0.14 adult exits untested, no independent acceptance. No later knowledge assigned to earlier actors.
 
 
 Revision0.1 initialized no findings. Revision0.2 admits Japanese V01 events, directional endpoints and a bounded rule register. Interpretive questions remain propositions requiring evidence, not preapproved diagnoses or relationship labels.
@@ -371,6 +371,18 @@ Identifiers: `REL-<witness>-<unit>-NNN`; rule identities `RULE-<witness>-NNN` re
 | `REL-LN-JP-V09-034` / v1 / prior NONE | V09-A1 / REWIND S中2 | Mutsuki→S | Shrimp menu and remembered request | No new contract | Sister inner intent uncertain | Possible indirect care and awkward distance coexist | O047–048;p015p24–72,146 | No standing general grant or mind-reading; CLM-LN-JP-V09-010 |
 | `REL-LN-JP-V09-035` / v1 / prior NONE | V09-A1 / REWIND M中1 | M↔unnamedfriend | Homevisit/game/book disagreement | No new contract | Friend returns family dinner | M enjoyed company then empty home feels larger | O048–049;p015p207–244 | No standing general grant or mind-reading; CLM-LN-JP-V09-011 |
 
+### BW03 additions — Append-only relational event schema
+
+| Event ID / revision / prior version | Witness / unit / event time | A → B | Initiative / response / alternative / refusal | Rule or commitment ID; proposed / accepted / disputed / enacted / breached / renegotiated / retired | Explicit words versus inferred implication | Immediate consequence / later consequence with disclosure boundary | Observation IDs / locators / knowledge-state IDs | Interpretation claim / counterevidence / uncertainty |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `REL-BW-JP-V03-001` / v1 / prior NONE | BW03-A1/historicalY3festivalDAY2 | M→S | Casual visit remark retained/dismissed | No new rule | M calls joke/assumes forgotten | Watches entrance; no mutual promise or shared festival | O002–003;p001p9–10,57–68,94–95 | S remembers privately; M not told; CLM-BW-JP-V03-001/003/004 |
+| `REL-BW-JP-V03-002` / v1 / prior NONE | BW03-A1/historicalY3festivalDAY2 | Maika→M | Smile norm and proposed video | Existing local agency principles; no accepted video grant | M dislikes role/Mno video40 | No actual recording | O002;p001p11–48 | Friend real fun not proof M should enjoy; CLM-BW-JP-V03-001/003/004 |
+| `REL-BW-JP-V03-003` / v1 / prior NONE | BW03-A1/historicalY3festivalDAY2 | Ami↔M | Service joy and friendship | No new contract | Ami role-play analogy/Mdisagrees; later M laughs | Actual joking friendship/shift ends | O002;p001p24–35,73–90 | Customer smile difficulty not universal lack joy; CLM-BW-JP-V03-001/003/004 |
+| `REL-BW-JP-V03-004` / v1 / prior NONE | BW03-A1/historicalY3festivalDAY2 | S→M | Distant attention/hidden visit wish | Old public/private history, no new vow | Private class2want/assumes M gone | No actual contact/photo; M enjoyment seems only | O003;p001p121–175 | M unknown current position, no omniscience; CLM-BW-JP-V03-001/003/004 |
+| `REL-BW-JP-V03-005` / v1 / prior NONE | BW03-A1/historicalY3festivalDAY2 | S→Umina/Mariko | Conceals own attention with fake academic reason | R004 historical privacy practice | Nonexistent test explicitly false142 | Actual weekly fortune inquiry without Mname | O003;p001p133–162 | Narrated lie not claim narrator always false; CLM-BW-JP-V03-001/003/004 |
+| `REL-BW-JP-V03-006` / v1 / prior NONE | BW03-A1/historicalY3festivalDAY2 | Umina/Mariko→S | Friend entertainment/planning | No new contract | Umina generally final decision/Saccept176–177 | All head toward gym; no shown performance yet | O003;p001p163–185 | Own concealed wish compatible actual social choice; CLM-BW-JP-V03-001/003/004 |
+| `REL-BW-JP-V03-007` / v1 / prior NONE | BW03-A1/historicalY3festivalDAY2 | S→M | Private speech consequence | No mutual promise | Qualifiedcasualvisitremark feels binding180 | Regret and preoccupation persist; no present encounter | O003;p001p178–185 | Mforgotbelief contradicted reader only; CLM-BW-JP-V03-001/003/004 |
+
 ## Current directional projection schema
 
 | A → B / witness / as-of boundary | State version / event lineage | Expressed wants / inferred wants / limits | Dependence / autonomy / trust / exclusivity questions with claim IDs | Initiative, refusal, accommodation and repair pattern | Unresolved asymmetry / strongest countercase | Exact evidence references / limits |
@@ -466,6 +478,17 @@ Identifiers: `REL-<witness>-<unit>-NNN`; rule identities `RULE-<witness>-NNN` re
 | Hanamaki Kikyo → Sendai / LN-JP / V09 latest represented boundary | `DIR-LN-JP-V09-PUPIL_TO_S-v1`; REL-V09 events above | Pupil+mother want continued instruction | Partial social access, no all-private-history knowledge | Reported continuation afterexam dependent on result | No unsupported inner motive/romance or completed future event | O005/O040 |
 | Asakura → Miyagi/Maika / LN-JP / V09 latest represented boundary | `DIR-LN-JP-V09-ASAKURA_TO_M-v1`; REL-V09 events above | Own admired cake recommendation | Partial social access, no all-private-history knowledge | Remembered suggestion materially used | No unsupported inner motive/romance or completed future event | O035–036 |
 | Shirakawa Ami → Sendai via Miyagi / LN-JP / V09 latest represented boundary | `DIR-LN-JP-V09-AMI_TO_S-v1`; REL-V09 events above | Ordinary greeting/future talk | Partial social access, no all-private-history knowledge | Relayed not actual fresh call | No unsupported inner motive/romance or completed future event | O013 |
+
+### BW03 additions — Current directional projection schema
+
+| A → B / witness / as-of boundary | State version / event lineage | Expressed wants / inferred wants / limits | Dependence / autonomy / trust / exclusivity questions with claim IDs | Initiative, refusal, accommodation and repair pattern | Unresolved asymmetry / strongest countercase | Exact evidence references / limits |
+| --- | --- | --- | --- | --- | --- | --- |
+| Miyagi → Sendai / BW03 / HISTORICALY3festival | `DIR-BW-JP-V03-M_TO_S-v1`; REL-BW-JP-V03-001–007 | Private remark lingers; public arrival absent | Adult current relationship unchanged | Looks/rejects waiting self-account; no actual conversation | SrememberingnotMknown | O002–003;p001p9–185; subject access as disclosure ledger |
+| Sendai → Miyagi / BW03 / HISTORICALY3festival | `DIR-BW-JP-V03-S_TO_M-v1`; REL-BW-JP-V03-001–007 | Privateclass2wish/wordbinding | Adult current relationship unchanged | Distant glance, no-photo, plausible location inference, actual friend plan | No fullMfeeling/date/statusknowledge | O002–003;p001p9–185; subject access as disclosure ledger |
+| Maika → Miyagi / BW03 / HISTORICALY3festival | `DIR-BW-JP-V03-MAIKA_TO_M-v1`; REL-BW-JP-V03-001–007 | Enjoyservice/teasefriend/organizeleisure | Adult current relationship unchanged | Smile/videoidea notrecorded, realfriendbanter | Notomniscient | O002–003;p001p9–185; subject access as disclosure ledger |
+| Ami → Miyagi / BW03 / HISTORICALY3festival | `DIR-BW-JP-V03-AMI_TO_M-v1`; REL-BW-JP-V03-001–007 | Enjoyservice/music/dating | Adult current relationship unchanged | Alternative role-play account, M real laughter, proposed itinerary | No allprivatepairknowledge | O002–003;p001p9–185; subject access as disclosure ledger |
+| Umina → Sendai / BW03 / HISTORICALY3festival | `DIR-BW-JP-V03-UMINA_TO_S-v1`; REL-BW-JP-V03-001–007 | Ownfun/fortune/band | Adult current relationship unchanged | Chooses activities, questions what S sees | No heard Mname byassertion | O002–003;p001p9–185; subject access as disclosure ledger |
+| Mariko → Sendai / BW03 / HISTORICALY3festival | `DIR-BW-JP-V03-MARIKO_TO_S-v1`; REL-BW-JP-V03-001–007 | Ownromancefortune/music | Adult current relationship unchanged | Presses lovetopic/notesSusualdeflection/joins leisure | No surname/private motive invented | O002–003;p001p9–185; subject access as disclosure ledger |
 
 ## Rule, boundary and commitment register schema
 
@@ -829,6 +852,13 @@ Do not manufacture a shared status from private narration. Implicit expectations
 | `RULE-LN-JP-095` / v2 | S → M / winter nonwork time | Boundedwinter restriction does not automatically govern postwinter UNI/Mio dinner; spring renewal names marks only | Earlier acceptance/history unchanged; V09 actual words/actions above | Earlier scope retained where not expressly renewed; no backdated change | O033/O040;p010p121;p012p125 | CURRENT bounded reconciliation; statuses within proposition | RULE-LN-JP-095.v1; original row preserved |
 | `RULE-LN-JP-096` / v2 | S → M / pencil-case use | Mgiftpen case actually used at university p01013; tutoring-use component remains unshown | Earlier acceptance/history unchanged; V09 actual words/actions above | Earlier scope retained where not expressly renewed; no backdated change | O032;p010p13 | CURRENT bounded reconciliation; statuses within proposition | RULE-LN-JP-096.v1; original row preserved |
 
+### BW03 additions — Rule, boundary and commitment register schema
+
+| Rule ID / version | Parties / direction / domain | Exact bounded proposition and source locator | Each party's acceptance or belief evidence | Scope / exceptions / duration | Negotiation and enforcement event IDs | Current status and contested interpretation | Prior versions / uncertainty |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| `RULE-LN-JP-004` / v9 | M/S / new current application; original domain retained | Earlier high-school practice supplies additional history: S excludes M topic from an overhearable fortune class and uses invented test cover; latest adult outsider access stays as V09 | Historical represented practice, not new mutually negotiated terms | Old scopes/dates retained; no school rule automatically reactivated | O003;p001p113–142,159–162 | Historical evidence added; current adult terms unchanged | RULE-LN-JP-004.v8; qualified visit remark not new vow |
+| `RULE-LN-JP-007` / v10 | M/S / new current application; original domain retained | Historical M task competence/friendlaughter and S concealed own wish/friend accommodation strengthen contextual agency; adult current choices/limits unchanged | Historical represented practice, not new mutually negotiated terms | Old scopes/dates retained; no school rule automatically reactivated | O002–003;p001p17–35,73–90,164–185 | Historical evidence added; current adult terms unchanged | RULE-LN-JP-007.v9; qualified visit remark not new vow |
+
 ## Transaction acceptance
 
 Reconcile both directions, rule versions, known-versus-inferred intent and informational prerequisites with the other ledgers. Preserve consequences that challenge a character's stated justification. Every substantive row requires inspected evidence; unresolved entries are retained with limits, not silently finalized. Revision 0.1: schema only.
@@ -855,3 +885,5 @@ Revision0.8 / SHUUKURA-TX-LN-JP-V07-20261017-A1: append47relational events/9curr
 Revision0.9 / SHUUKURA-TX-LN-JP-V08-20261017-A1: append55relational events/14directional projections/60rule versions (36existing and24newR080–R103). All old rows unchanged. Other historical school/fees/exams/guest/loan rules retain their exact earlier period; old skirt return, promised stew, later birthdays/aquarium visit are not credited without performance. Naming-pact exact source and V06 future bargain rechecked in O063; two awake calls do not automatically change friends actual address. Specific fulfilled concealment/day/gift/shampoo promises, actual contact/photo failures, conditional grants and unaccepted future procedures are distinct. No current body response, gift or earlier bargain supplies universal permission.
 
 Revision1.0 / SHUUKURA-TX-LN-JP-V09-20261017-A1: append35directional events/16current directional projections/75rule-version rows (36older responsibilities updated; new R104–140 plus two later R114 versions). All earlier rows preserved. One-off command initial rejection/reacceptance/consumption, current-vs-future grant and actual source event/disclosure times remain recoverable. No general ownership, global reliability or future-act consent inferred.
+
+Revision1.1 / SHUUKURA-TX-BW-JP-V03-20261017-A1: 7historical events/6directions/2older rule versions, no new rule identity. Hypothetical remark/video/costume not performed contracts; current adult relationship not reset.
