@@ -1,0 +1,132 @@
+{
+  "schema": "KONOSUBA_ENVELOPE_ORIGINAL_JSON_SERIALIZATION_MAP_V1",
+  "artifact_class": "SOURCE_SAFE_DECLARATIVE_DATA_ONLY",
+  "path_base": "Directory containing the three named public value envelopes; no historical workspace path is needed.",
+  "scope": "Recover each original settings/seal/repair JSON byte stream from its complete stored value. This does not claim that the aggregate containers themselves existed as original byte streams.",
+  "serialization": {
+    "encoding": "UTF-8",
+    "indent": 2,
+    "sort_keys": false,
+    "terminal_newlines": 1,
+    "line_endings": "LF",
+    "byte_order_mark": false,
+    "preserve_all_object_property_order": true,
+    "ensure_ascii": "Use the explicit per-object Boolean; two originals use True, fourteen False."
+  },
+  "objects": [
+    {
+      "input_relative_path": "ACTUAL_FIRST_RESPONSE_SETTINGS_AND_SEALS.json",
+      "value_JSON_pointer": "/KAZUMA/0/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 2369,
+      "expected_sha256": "c8d2720ed5de49cfc67fd5057fca004e0cebb8b3595d38f3b7308b078e90a167"
+    },
+    {
+      "input_relative_path": "ACTUAL_FIRST_RESPONSE_SETTINGS_AND_SEALS.json",
+      "value_JSON_pointer": "/KAZUMA/1/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 2082,
+      "expected_sha256": "73700d58a9f2a6c6c53f8f6a884b7fd7b934fb0f13ac6a1800b0afa0f12e66ff"
+    },
+    {
+      "input_relative_path": "ACTUAL_FIRST_RESPONSE_SETTINGS_AND_SEALS.json",
+      "value_JSON_pointer": "/AQUA_MEGUMIN/0/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 1404,
+      "expected_sha256": "99832fc324456a5ce0b0b0bf91ccf6413feb8c5a88355c441dfdabb3456abf53"
+    },
+    {
+      "input_relative_path": "ACTUAL_FIRST_RESPONSE_SETTINGS_AND_SEALS.json",
+      "value_JSON_pointer": "/AQUA_MEGUMIN/1/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 4562,
+      "expected_sha256": "b568f63f55ae668dd82c614724e656cdda40c3fe8d7600cc186c3dc440aab382"
+    },
+    {
+      "input_relative_path": "ACTUAL_FIRST_RESPONSE_SETTINGS_AND_SEALS.json",
+      "value_JSON_pointer": "/AQUA_MEGUMIN/2/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 6485,
+      "expected_sha256": "111f5a9ccd2569c7347c4512611279710da343e5e44e06ea83be05e9edc160ca"
+    },
+    {
+      "input_relative_path": "ACTUAL_FIRST_RESPONSE_SETTINGS_AND_SEALS.json",
+      "value_JSON_pointer": "/DARKNESS_PARTY/0/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 10979,
+      "expected_sha256": "bf31b7bae747f574b66bd4d1cd154b687ad224d2839cebbf997e2bade8a1b141"
+    },
+    {
+      "input_relative_path": "ACTUAL_FIRST_RESPONSE_SETTINGS_AND_SEALS.json",
+      "value_JSON_pointer": "/DARKNESS_PARTY/1/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 14244,
+      "expected_sha256": "e16af15b15323af6c35f0803b75fe64314fe0b32501068de915bc3f5ebf9d87c"
+    },
+    {
+      "input_relative_path": "ACTUAL_FIRST_RESPONSE_SETTINGS_AND_SEALS.json",
+      "value_JSON_pointer": "/DARKNESS_PARTY/2/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 6026,
+      "expected_sha256": "cb7384dca4bc194fc52a83bccea3a12a2ceb5a6d57089eb7c0434400c6f68ffc"
+    },
+    {
+      "input_relative_path": "PRECASE_MODEL_RECEIVING_AND_REPAIR_HISTORY.json",
+      "value_JSON_pointer": "/root_complete_model_receiving/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 5864,
+      "expected_sha256": "42f80a7dd67c464381cc00cf7d9419b308351b17d24c01c63ccb03194438d24f"
+    },
+    {
+      "input_relative_path": "PRECASE_MODEL_RECEIVING_AND_REPAIR_HISTORY.json",
+      "value_JSON_pointer": "/root_darkness_two_op_successor/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 2280,
+      "expected_sha256": "6530cd6eeedb8553d02090cf1f20612170b33fc476fba0f53c4be40dece55b12"
+    },
+    {
+      "input_relative_path": "PRECASE_MODEL_RECEIVING_AND_REPAIR_HISTORY.json",
+      "value_JSON_pointer": "/root_K_T_pre_case_repair/complete_original_object",
+      "ensure_ascii": true,
+      "expected_bytes": 14349,
+      "expected_sha256": "3de6a47521b27957c122609ba0a70700bb1bbebace12d99aad50b203006c59eb"
+    },
+    {
+      "input_relative_path": "PRECASE_MODEL_RECEIVING_AND_REPAIR_HISTORY.json",
+      "value_JSON_pointer": "/D_party_pre_case_repair/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 63608,
+      "expected_sha256": "80a9dc2442b93a226007e6df1b4746318db3603a9b4998cccd9161351e0807ab"
+    },
+    {
+      "input_relative_path": "PRECASE_MODEL_RECEIVING_AND_REPAIR_HISTORY.json",
+      "value_JSON_pointer": "/M06_pre_case_repair/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 3472,
+      "expected_sha256": "39da44639844ff38fcabe3b9836b8f82c2b11f8b521cfc5567e122384830f0a5"
+    },
+    {
+      "input_relative_path": "PRECASE_MODEL_RECEIVING_AND_REPAIR_HISTORY.json",
+      "value_JSON_pointer": "/A08_pre_case_repair/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 4188,
+      "expected_sha256": "0a7c67b44382993a391b91dc65e548b310803cb79fcac0fbc127c5077d48bb92"
+    },
+    {
+      "input_relative_path": "PRECASE_MODEL_RECEIVING_AND_REPAIR_HISTORY.json",
+      "value_JSON_pointer": "/D_W03_two_op_source_precision/complete_original_object",
+      "ensure_ascii": false,
+      "expected_bytes": 4062,
+      "expected_sha256": "36d3fe397a46974887f577cd96dc9393480cf1c2f0a2625c3f1e8afcfb6b958a"
+    },
+    {
+      "input_relative_path": "PRESERVED_INITIAL_MODEL_CORES_AND_SEALS.json",
+      "value_JSON_pointer": "/original_initial_all_six_seal",
+      "ensure_ascii": true,
+      "expected_bytes": 3209,
+      "expected_sha256": "20298c0d747aabb3701429cff7ed87724a97a3ebb9da80ab6c24f06232b42a2e"
+    }
+  ],
+  "procedure": "Parse each input preserving property order; resolve only its specified JSON pointer; serialize that entire value with the common options and per-object ensure_ascii; add exactly one LF; verify expected bytes/SHA256. Do not interpret any field content.",
+  "not_semantic_validation_or_new_model_result": true
+}
