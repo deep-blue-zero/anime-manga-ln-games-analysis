@@ -5,10 +5,10 @@ artifact_type: source_scope_map
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.21'
+version: '0.22'
 status: active_provisional
 scope: Source and scope / witness inventory
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U019 complete Part IV numbered04 at spine33 text/part0012_split_004.html and literal Part IV body-etml closures; exclusive before spine34 text/part0013.html; transition and epilogue body unopened
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U020 interstice34 text/part0013.html and actual epilogue heading35/body36 text/part0015.html through2171rawbodycp/literal body-etml closure; ancillary37–40 classified excluded; all40spine occurrences accounted; next source NONE
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -56,10 +56,10 @@ Before retention of the pilot verification bundles, direct folder retrieval retu
 | Package identifier | `B009DEMA1Q` plus package UUID identifiers; no verified edition ISBN in inspected metadata |
 | Transformation indications | Calibre metadata and split/generated packaging exist; exact acquisition and transformation lineage unverified |
 | Archive/package | Fresh ZIP CRC passes; container resolves `content.opf`; 44 declared manifest resources and all 40 spine occurrences resolve/parse; active CSS resolves; 39 absent alternate-stylesheet links are separately bounded below; no encryption manifest |
-| Text capability | Admitted units through HAR-U019 are legible Japanese; meaningful text/form round-trips through source XHTML, XML-aware extraction and faithful source-CSS rendering; prose beyond this frontier remains semantically uninspected |
+| Text capability | Complete admitted narrative/form through HAR-U020 is legible Japanese and source/extraction/render verified; every ancillary occurrence explicitly disposed, navigation retained as navigation rather than falsely counted as narrative |
 | Pagination / CFI | No page-map member observed; edition-page mapping and stable CFI generation not verified. Use hash-bound member/DOM locators under the method |
-| Reading authority | `VERIFIED_WITNESS_THROUGH_HAR_U019`; exact transformed Japanese witness, incremental unit fidelity, unchanged lineage caveats |
-| Narrative state | `ADMITTED_THROUGH_HAR-U019`; Parts I–IV complete with literal body/etml closures;243 evidence IDs/247spans; exclusive before chronological transition34 and epilogue |
+| Reading authority | `VERIFIED_EXACT_WITNESS_PRIMARY_SOURCE_COMPLETE`; exact transformed Japanese witness, unchanged print/impression/date/inactive-style caveats |
+| Narrative state | `ADMITTED_THROUGH_HAR-U020`; actual natural epilogue end36body0–2171/literal closures;252literary evidence IDs/256spans; all40occurrences accounted; next source NONE |
 
 SHA-256 and ZIP integrity detect byte changes/corruption; they do not authenticate the edition or establish textual completeness. At bootstrap, mechanical parsing did not display narrative passages and human-readable inspection was limited to package metadata/navigation. The later pilot source audit is explicitly recorded below. No normalized narrative derivative is promoted or published.
 
@@ -100,7 +100,7 @@ Before any source-containing display, the entering freeze pinned the exact witne
 
 ## Whole-spine structural coverage obligations
 
-Roles after the current admitted frontier remain **provisional** from package/navigation structure; UNKNOWN means inspect/classify only when later authorized, not omit. Hash-bound occurrence identity is the source key/full archive digest above plus each exact one-based spine/member pair. This inventory does not grant narrative admission.
+Final current disposition: no UNKNOWN occurrence remains in this exact witness. The table below accounts for every one-based OPF spine occurrence1–40;41is the archive-exclusive sentinel, not another member. Narrative/framing spans7–36are closed in their actual natural-unit readings;1–6and37–40have explicit bibliographic/navigation/ancillary roles. Historical bootstrap/pilot unknowns elsewhere in this living map retain their dated meaning and do not supersede the final table. Inventory alone still grants no new source permission; the continuous source run is now completed.
 
 | Spine | Exact member | Structural role / required disposition |
 | --- | --- | --- |
@@ -137,13 +137,13 @@ Roles after the current admitted frontier remain **provisional** from package/na
 | 31 | `text/part0012_split_002.html` | Complete natural Part IV02 and blanks; READ/CLOSED in HAR-U017, body0–7091 |
 | 32 | `text/part0012_split_003.html` | Complete natural Part IV03 and blanks; READ/CLOSED in HAR-U018, body0–5695 |
 | 33 | `text/part0012_split_004.html` | Complete natural Part IV04, final fragments/blanks and literal body/etml closures; READ/CLOSED in HAR-U019, body0–10252 |
-| 34 | `text/part0013.html` | UNKNOWN transition before epilogue navigation; UNREAD, classification obligation retained |
-| 35 | `text/part0014.html` | Epilogue heading candidate from NCX; UNREAD |
-| 36 | `text/part0015.html` | Epilogue continuation candidate; UNREAD, masked geometry only |
-| 37 | `text/part0016.html` | UNKNOWN trailing component; UNREAD, classification obligation retained |
-| 38 | `text/part0017.html` | UNKNOWN / possible author paratext; lexical prose UNREAD |
-| 39 | `text/part0018.html` | UNKNOWN / possible rights paratext; lexical prose UNREAD |
-| 40 | `text/part0019.html` | Colophon; direct bibliographic/ruby inspection only |
+| 34 | `text/part0013.html` | Complete meaningful null interstice at post-PartIV/pre-epilogue position; READ/CLOSED in HAR-U020, body0–21; backward-coda alternative retained |
+| 35 | `text/part0014.html` | Actual epilogue part/title heading; READ/CLOSED in HAR-U020, body0–49 |
+| 36 | `text/part0015.html` | Complete actual natural epilogue, final intensifications/blanks and literal body/etml closure; READ/CLOSED in HAR-U020, body0–2171; narrative terminal |
+| 37 | `text/part0016.html` | Entire acknowledgment/dedication inspected after both narrativefrontiers sealed; NONNARRATIVE_EXCLUDED, body0–37,1block/1br |
+| 38 | `text/part0017.html` | Entire author biography/briefworkslist inspected after narrativefrontiers; NONNARRATIVE_EXCLUDED, body0–80,3blocks/3br; incidental bibliography not other-title narrative admission |
+| 39 | `text/part0018.html` | Entire edition/rights note inspected after narrativefrontiers; NONNARRATIVE_EXCLUDED, body0–138,3blocks/3br; internal2008/2010publication statement not exact lineage proof |
+| 40 | `text/part0019.html` | Entire bibliographic colophon freshly reverified HAR-U020; NONNARRATIVE_EXCLUDED, body0–170,12blocks/1ruby4rt/11br; electronic2012-04-25kept distinct |
 
 ## HAR-U001 analytical closeout and future granularity
 
@@ -402,3 +402,31 @@ Actual vertical9013×1000/bodyx46.34375–9006.34375/textRangebottom1000.03125su
 Literal recollection opening/closure and final body/etml closures, repeated step/wind text, blanks and exact clipped farewell are distinct from XHTML/executable software. Source WatchMe/WacthMe variant, all19ruby and the unsupplied ending after わ/た are retained. No graphic analytical reenactment, external neuroscience or unadmitted Huxley evidence is introduced. Testimony/technical admissions, qualified motive reliance, actual two chest bullets/death and strong formal self-fracture remain distinct from unobserved global code entry/result. Current243evidence IDs/247spans;30subjects/108actorhistory/63directionIDs161relationhistory/106readinesshistory/130worldIDs/161distinctclaims167primaryversions+2archive=169retained/0predictions8RV. New CL110v2/RV006,CL128v2/RV007,CL115v3/RV008 preserve earlier formulations, conditional hypotheses/source shorthand and frontiers. Four narrow DOMAIN_BOUNDED/26RECOGNITION_ONLY, no models/validation/G2–G6. All18priorreadings/rows/seals/retention errata remain preserved. PartIV closure is not epilogue terminal; chronological34and35–39remain unexposed obligations. Independent final candidate/retention/publication gates remain separate.
 
 HAR-U019 source-only verification retained as `HAR-U019_PRIVATE_SOURCE_VERIFICATION_20261017_V1.zip`, Drivefile`1wg5gvu64P9j2RlMO956hMOkWJEBvqG_U`, exact canonical parent`1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false/owner-only, with parent permission also verified. Complete raw remote readback equals3,827,500bytes/SHA-256`27e1fdedfbff0c2860cf3477ee4d5af2eedef43e4e10e37441d4dd5347274a59`;26objects+manifest27entries, manifestSHA-256`0966a360cf6952622caaf7af77aef062e309557ed450f3766c74975602da5737`. Safeunique paths/no symlinks or encryption/CRC/exact payload set/allobject sizes and hashes PASS. Independent local preupload and full downloaded readback audits bind current unit/witness/spine33/member/source/extraction/recorded+freshDOM/19ruby/font/7actualpanels/15originallocators/currentfactualreviewerprojection/gate identities beyond integrity. Whole reproduction correctly identifies33/34 and obtains activeCSS from the separate original witness; no staleunit or generic packager retained. Analysis/frontiers/exposure/drafts/future source/originalduplicates/binaries/caches excluded. Stored file and parent private permission metadata independently reviewed; no separate fresh reviewer connector request is claimed. Original witness/lineage caveats and HAR-RET-001/HAR-ADM-002 remain preserved. Final candidate/admin seal/publication/CI are separate gates; spine34 remains closed.
+
+## HAR-U020 terminal epilogue and complete occurrence coverage
+
+[HAR-U020](../01%20Sequential%20Readings/HAR-U020_INTERSTICE_AND_EPILOGUE_DEEP_READING.md) closes the meaningful34interstice plus actual35epilogueheading and complete36body through2171rawcp/literal body-etml closure. These narrative/form members total2241rawcp/78blocks/3ruby/77br,5actualpanels/84bounds. Four subsequently inspected components37–40are excluded nonnarrative, not silently dropped or treated as new fictional agency. Their classification was chronological and separately dated after both author/reviewer narrative frontiers and contemporaneous narrative prose were hash-frozen. The initial conditional34–40ceiling was implemented through strict34-only,35-only,36-only and subsequent positive-role classification releases; no separate next natural narrative body bypassed a publication gate.
+
+All7current members total2666rawcp/2550blockcp+116interblockcp,97blocks/4ruby/95br,13actualpanels/108bounds. Whole Japanese/head/unchanged activeCSS/ruby/literal notation/blanks/sourceglyphs and all actual panels inspected by author and Harmony-only reviewer; originalXML/extraction/recorded+freshXHTMLDOM agree. Final consolidated13PNGs equal every previously inspected chronological-stage PNG byte-for-byte. Nine original literary selections and four separate full-body BIBclassification selections round-trip; only nine join the literary count252E/256spans. Independent terminal re-resolution checks all256public literary spans across20readings against originalXML/witness/member/XPath/ruby/whitespace/selectedUTF8SHA, not just current checks.
+
+Actual runtime Chromium154.0.8037.57/NodePlaywright1.62.1/Python3.12.14/lxml6.1.1/libxml2 2.14.6; NotoSerifCJKJP collectionSHA-256`5d9c31a059600193c9d7968a998bde886ccdc77e934006ad243b41794c496a7d`. Original byte-identical XHTML/application/xhtml+xml/restrictedloopback/nonloopback-blocking retained. Actual epilogue2545×1000/bodyx46.34375–2538.34375/textbottom1000; title35horizontal1440×1000/bodyheight28, othermembersvertical1440×1000, alllexicalcolumns/pixels/bounds fit. Narrow second blank tiles are actual margin/overlap, not missing text. Original activeCSS and relative text sizes remain unchanged; viewer font does not authenticate original publisher layout. Missing inactive alternate styles remain unreconstructed.
+
+Source39internally describes the2008-12hardcover/2010-12paperback/electronic relationship;40repeats2012-04-25electronic publication. These are attributed internal bibliographic statements, distinct from publishercatalog2012-08-01/OPF2012-08-02andcover新版/transformer metadata. No exact first-print or later-print-equivalence claim follows. Source38bibliographic work titles are excluded metadata, not admission of another novel’s source/interpretation. No private source/frontier/prose or raw-media payload enters Git.
+
+Cumulative source closeout:20natural reading transactions;252literary evidenceIDs/256spans;30subjects/110actorhistory/63directionIDs161relationhistory/108readiness/137worldIDs/169distinctclaims178primaryversions+2archive180retained/0predictions/11revisions. Four narrow DOMAIN_BOUNDED/26RECOGNITION_ONLY, no models/validation/G2–G6. All19earlier frozen readings/rows/frontiers and HAR-RET-001/HAR-ADM-002 retained. G1 exact-witness source coverage is complete in scope with all40dispositions; final independent candidate/retention/publication/exactCI outcomes remain separate and are only recorded when observed. Natural terminal is36body/literal closure, archive accounting ends40; NEXT_SOURCE=NONE.
+
+| Spine/member | Exact member SHA-256 | Whole rawCP/blocks/ruby/br | Panels/bounds |
+| --- | --- | --- | --- |
+| 34 `text/part0013.html` | `0fd84ce883a3c3f3149c83e8a7d81657fd3725a9ee41e0d3f7ca5096ce7debbf` | 21/3/0/3 | 2/3 |
+| 35 `text/part0014.html` | `e06c6f0f3d43a5e3150d9693fb80bb9df878583f5d1605ca1ff602e5f61fe988` | 49/1/0/0 | 1/1 |
+| 36 `text/part0015.html` | `b53498271e542b86abfb8bcf17032d9b0e75176396295d648ca7e1ba92e81c18` | 2171/74/3/74 | 2/80 |
+| 37 `text/part0016.html` | `124b4740fb6c54fcd770056eb0efff89be7e6179bc0605436886eae04df77963` | 37/1/0/1 | 2/1 |
+| 38 `text/part0017.html` | `0e3d12dc07b9869af8d46af0b3737b5f834050e9dddab430d40cb2f748c9533c` | 80/3/0/3 | 2/3 |
+| 39 `text/part0018.html` | `82673571e4dafe1ce190294c2a576bdf02f38084930ab0c2b9a5caeed041fec4` | 138/3/0/3 | 2/3 |
+| 40 `text/part0019.html` | `134fdfad699db166238be1effc774483ba070774d00ef43b242e79dea1f4a1b7` | 170/12/1/11 | 2/17 |
+
+## HAR-U020 private source-only retention and complete readback
+
+Current individually scoped source-verification ZIP `HAR-U020_PRIVATE_SOURCE_VERIFICATION_20261017_V1.zip` is retained as Drive`1wSPHV_sJc4MYVWZop31xqpnxVlCP4tIy` in canonical private parent`1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`; exact1,087,714bytes/SHA-256`f5ca0f90b0c1394b74e313b188f5965f8abff692648d43963b4840451f8453e0`,51objects+manifest52, manifestSHA-256`237d4f937ae5ab17a7d40b4b06eb6f0867d952d1df4bec8a10f39832a08befe9`. Fresh stored file+parent metadata both show shared=false and one user owner; full raw downloaded object is byte-identical to locally reviewed packet. Author and independent reviewer verify every object size/hash/CRC/safeunique path/noencryption/nosymlink and actual nested HAR-U020/witness/all7members34–40/current9literary+4excludedBIBlocators/currentrevieweridentity. The factual five-key source-review projection and actual current freshDOM/font/final-stage-equivalence attachments are all bound to this unit, unlike the preserved historical HAR-RET-001 V1 attachment error. All13actual panels match the images inspected in their chronological stages; no generic packager, analytical prose, frontier/exposure-state contents, draft, other-unit source, future source, originalEPUBduplicate, runtime binary or cache is retained. OriginalEPUB remains separately retained unchanged.
+
+Independent preupload source-only auditSHA-256`3fe9335fe488e2c70c21a1c33f38cd33b26088a976ab03b11a89b49936336d3d`; direct downloaded nested source auditSHA-256`63a7f8c0d510be291f3a8eb073305a91eec3a682a757d7beac7c44b88a22a4a7`; downloaded identity/privacy/readback auditSHA-256`9ca3b8ff2a5d340f31ea2f2996ede29147d43fe5467b31c78833fad4988ba5d0`. Permission evidence is independently read stored fresh connector metadata, not an invented additional reviewer query. Source-only reproduction retains actual helper/runtime/font provenance and obtains original active CSS unchanged from the separately retained EPUB; mechanical helper's generic manual-PENDING label is distinguished from the separately performed source/pixel inspections. The 2012-04-25colophon date and39internal2008/2010edition statement retain their existing provenance limitations. HAR-RET-001/HAR-ADM-002 and every original reading/frontier remain preserved. Final candidate/exit/indexedpreflight/freshheads-rules/nonforcepublication/fullremote/completeexactCI are separate gates, not asserted by retention.
