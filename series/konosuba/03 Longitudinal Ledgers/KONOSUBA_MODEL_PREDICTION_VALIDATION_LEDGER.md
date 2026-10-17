@@ -5,7 +5,7 @@ scope: V01-V17
 ledger_role: model_prediction_validation
 generation: MODEL_GEN_0.5
 status: active_provisional
-source_boundary: Main principal evidence through V15; all original models/forecasts/blank fields and V13-V15 local histories preserved; separate formal Gen04 tranche adjudicated at CP05; Gen05 model and 25 V16-V17 forecasts frozen by explicit CP05 acceptance; source publication gate required before V16
+source_boundary: Main principal evidence through V16; all original models, forecasts and blank fields preserved; CP05 formal Gen04 history unchanged; Gen05 remains frozen through V15 with separate V16 local assessments; V17 awaits the complete V16 publication gate
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -4613,3 +4613,584 @@ All 25 new Outcome and Adjudication pairs remain blank. Exact old forecasts/blan
 - **Failure threshold:** Repeated directly understood wish/duty conflicts prioritize wish unconstrained without meaningful conflict/self-limit; prospectively at least2.
 - **Outcome:**
 - **Adjudication:**
+
+
+**Root adoption of V16 principal evidence.** The following received payload is accepted at the scopes in [the V16 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V16_RECEIVING_REVIEW.md). Candidate/pending wording inside preserved proposal histories records their earlier authorship, not a continuing analytical blocker. Publication remains a separate gate.
+
+# V16 local Gen05 outcomes — complete attributable postcomparison successor
+
+This is an additive local candidate, not a model/checkpoint replacement. All25 original frozen forecasts and original Outcome/Adjudication blank pairs remain byte-exact in their earlier home. Existing Gen03K04F, all Gen04 local adverse histories and CP05 chronological qualifications remain unchanged; no favorable new case rescues an older failed prediction. Current receiving candidates use the governed five-category schema and retain each branch’s single-case versus repeated failure criterion. The whole Gen05 tranche is V16–V17 and remains open.
+
+## Complete25local records
+
+These25candidate local outcomes preserve the exact frozen Gen05 contracts and all original blank pairs. They are not final V16–V17 adjudications or predictive accuracy. Current candidate counts are5CONFIRMED/7PARTIAL/11NOT_TESTED/2AMBIGUOUS; no local FALSIFIED is asserted. Initial source-only labels and contrary/untested branches remain visible. Every preserved source-only or root-v4 reference to unopened windows/results describes that historical authoring stage; current formal comparison has occurred. Complete received all25records also appear in the [Prediction Ledger](KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md).
+
+### MG05-K01 — CONFIRMED
+
+Original proposals retained: producer **CONFIRMED**; root **CONFIRMED**; semantic **CONFIRMED — bounded process components, not universal success**. Frozen exact-record SHA256 `c6e8a81c08ab45b8d99180163f90c607b936f188fa62f296a51340a0813310b5`. Native route: C1P0356–0360/0387–0443/0466–0508; C3P0428–0450/0472–0487/0522–0538; FP0312–0326/0434–0498.
+
+**Current postcomparison receiving reasoning:** Search, fitted delegation and new-capability method revision are supported as bounded processes. Low-mana Fireball→golem→bow/evasion and the resource/range plan do not prove overall safety, competence or morality. Changing from one mana-dependent method to another remains a real error candidate, although it is not an unchanged repeat of the same method. Self-blinding, inadequate rehearsal, delayed preparation, coercion and the unshown final campaign remain limits.
+
+**Historical source-only semantic branch/chronology review:** Search, revision and delegation are separately supported. C1P0356–0394 derives retained-skill/point cycling from an actual Bind and level-up; unavailable potion0429 produces the monster-drain alternative0434–0440. Random lethal states are understood before initial rejection0441 and the later luck-dependent request0469/0484. Wiz proposes Vanir’s screening/route role0493; the bargain supplies his actual expert assistance in C2. C3P0428–0450 changes Fireball to golem to bow after low-mana results, and P0520–0529 uses Flash with a real self-blinding error. FP0434–0447 diagnoses immediate repeated fire versus regeneration before the already purchased resource is disclosed0476–0491. Fitted delegation includes gathering teachers C1P0475, actual preparation C3P0037–0040, physical cargo carrying FP0346–0347 and Megumin’s specialty.
+
+**Historical semantic strongest supporting candidate:** The crystal/barrier plan combines an actual known resource, an elicited quantitative/temporal limit and a specialist. This is contribution before the final tactical outcome, not proof the twenty-cast forecast has already occurred. The class-restricted gauntlet C2P0522–0536 leads to a request for alternatives and reuse as a Darkness gift, not knowingly unchanged retries.
+
+**Historical semantic strongest contrary/alternative:** Do not erase the direct weak slash C2P0444–0446, failed golem sizing C3P0445, self-blinding Flash0528, untested showcase motive0530, incomplete food planning C2P0062 or dangerous early reset proposal. Serious intelligent helpless enemies are killed despite remorse C2P0034–0045. FP0498 deliberately names Aqua in the desired bombardment and keeps stress/payback motives visible. These are actual capacity/readiness/ethical failures alongside search.
+
+**Historical semantic missing conjunctions:** Knowledge of low mana before trying a different golem is a real boundary candidate: the new method still depends on mana. It is not literally the same failed method repeated unchanged; sizing is learned on this trial and he then uses non-mana bow/evasion. No final barrier destruction or safe recovery is shown merely by EpP0027/0029.
+
+**Literal threshold review (historical semantic field):** One understood invalidating-capability/unchanged-repeat case would be locally adverse; two distinct clean search/resignation failures would meet the new repeated pattern. Do not turn ultimate rescue into erasure of failed components or moral approval. No such clean unchanged-repeat case is established here.
+
+**Producer original branch dispositions, preserved:** {"affordance_search": "bounded fit", "capability_based_revision": "bounded fit", "fitted_delegation": "bounded fit; completion/safety separate"}
+
+**Producer original strongest contrary/alternative, preserved:** The new golem still underperforms after low-mana information, and Flash blinds him C3P0528. He explicitly admits not testing skills because he wanted an awakening debut530; eventual outside rescue must not erase either component failure. The golem changes the method from damage to cover, so this is not the exact unchanged-invalidated-method countercase, but it is poor preparation.
+
+**Producer original missingness and scope, preserved:** Provider-suggested rules must not be attributed solely to Kazuma. Dungeon extraction is supplied by Wiz/Vanir; abuse and forced conversion in C4 are ethically material. The final long-range plan has known people inside the castle and unshown downstream safety.
+
+### MG05-K02 — CONFIRMED
+
+Original proposals retained: producer **CONFIRMED**; root **CONFIRMED**; semantic **CONFIRMED — substantive help, with bounded request matching**. Frozen exact-record SHA256 `f3c4b8cf8492be034a6c03fada56a1de1cc529fc38cee0ea1c31e2a7182dbad3`. Native route: C1P0335–0374; FP0388–0408/0434–0498; C3P0367–0380; EpP0027–0029.
+
+**Current postcomparison receiving reasoning:** Darkness’s direct request(FP0388) and Megumin’s expressed distress precede Kazuma’s actual handoff/authorization of already purchased costly stock after inquiry(FP0434–0447/0476–0491). This is feasible substantive help, not a completed rescue or demonstrated depletion of every crystal. Initial reluctance/delegation and C3’s incomplete answer remain adverse alternatives. Aqua’s unheard FP0236 appeal is not received entrustment.
+
+**Historical source-only semantic branch/chronology review:** C1P0231 is Megumin’s concrete trusted question about pursuing Aqua, P0234 Darkness’s protective offer, and P0235–0236 the acknowledged fatal-risk issue. Kazuma already seeks capable delegated help and does not leave Aqua without an alternative. C3P0367–0374 is a pragmatic reassurance request about returning home; his response actually assures his own staying, while withholding Aqua’s possible heavenly return. FP0388 Darkness asks for a solution, P0390–0391 Megumin appeals, and P0392–0394 independently establishes his feasible but costly means before her tears0400. He investigates0434–0447 and actually supplies the crystals0476–0491.
+
+**Historical semantic strongest supporting candidate:** The final trusted appeal exposes particular companions’ distress and Aqua’s peril; Kazuma has a concrete resource he controls and contributes it despite the threat to his comfortable finances. His plan need not already succeed, be uniquely altruistic, or incur a newly invented minimum cost. Emotional harm and pragmatic questions are expressly eligible.
+
+**Historical semantic strongest contrary/alternative:** The strongest refusal is his initial C1P0223–0240 reluctance to travel despite Megumin’s request. Retain it, his comfort preferences and safety fear; do not pretend early consent. The source supplies delegated capable rescuers and a physical-feasibility concern before his response. Conversely, later generosity cannot rescue a separate fully matched comfort-only abandonment if found. His C3 answer does not answer every part of Megumin’s Aqua question.
+
+**Historical semantic missing conjunctions:** The first pursuit question alone does not establish safe feasible bodily travel; alternative financial/logistical help must still count. The final case has explicit feasible contribution, so lack of completed rescue is not an eligibility escape. No command grammar, named protective tactic or personal-cost floor is added.
+
+**Literal threshold review (historical semantic field):** One full trusted-request/preventable-harm/feasible-help case abandoned chiefly for comfort without meaningful aid would be localF. Here the strongest fully matched case is positive; mixed motives and ethical problems in the proposed attack remain separate.
+
+**Producer original branch dispositions, preserved:** {"trusted_reassurance_request": "bounded fit", "entrusted_practical_help": "bounded fit"}
+
+**Producer original strongest contrary/alternative, preserved:** Before training he initially delegates/refuses pursuit C1P0223–0251. That is meaningful actual limitation and an offered alternative, not comfort-only abandonment of an established feasible entrusted need. At the finale he privately mocks the premature tragedy414–416 and names stress relief498; mixed motives do not remove eligibility or prove pure benevolence.
+
+**Producer original missingness and scope, preserved:** The final intervention is not completed retrieval or a proven safe plan. Cost is explanatory evidence, not an added trigger floor. Reassurance about his own return does not establish ability to guarantee Aqua’s future.
+
+### MG05-K03 — PARTIAL
+
+Original proposals retained: producer **PARTIAL**; root **PARTIAL**; semantic **PARTIAL — A has candidates; B and unmodified matching remain limited**. Frozen exact-record SHA256 `2b8ef6991909f55d3454262cb2b514e318d37fd26c90f5a11ad28dc06dc4754c`. Native route: C1P0356–0360/0449–0455; C2P0350–0376; C3P0170–0216; FP0274–0286/0388–0498.
+
+**Current postcomparison receiving reasoning:** A has bounded persistence candidates, with capability, pride, particular care, luck and already-known lethal risk as competing causes/modifiers. Keep strict pre-feedback and nearest prior scope distinct. Strongest B adverse candidate remains C2P0374→0376: he states substantial leveling progress/sufficiency and proposes returning; Wiz offers deeper equipment and activity continues. This does not independently establish a numeric completion quota, nor may uncertainty erase the statement. Prior XP feedback, continuing personally gratifying reward and same-task completion must all be independently established. No clean repeated B pattern is claimed; do not switch between leveling, treasure, retrieval and king defeat to fit the choice. The initial guild boast precedes actual new-skill teaching, rather than proving those skills already acquired.
+
+**Historical source-only semantic branch/chronology review:** Fix Aqua retrieval as one task with an independently live goal; optional king defeat, level farming and particular fights are separately recorded concurrent objectives. C1P0223–0253 sets delegated rescue/staying home. His actual skill-success discovery0356–0366 and protagonist reward language precede renewed personal pursuit0377; new capability and gratification coexist. P0441 abandons lethal cycling; praise/credit plus comfortable rest0449–0450 precedes renewed resolve0455 and the risky request0469/0484. Personal reward activation from that praise is less explicit than from his own earlier skill discovery: P0451 reads the response as indulgent consolation, with care/shame/luck explicit0453–0455.
+
+**Historical semantic strongest supporting candidate:** A-direction persistence rather than compulsory expansion is consistent with renewed pursuit after actual capability/reward feedback and an offered stay-home option. Record knowledge of lethal states and absent resurrection before response. Do not require reward to activate again at each later choice; retain both strict pre-feedback scope and nearest preceding scope.
+
+**Historical semantic strongest contrary/alternative:** Strongest B adverse candidate: C2P0374 says enough points have been earned and proposes returning because leveling, not conquering, is the purpose; Wiz offers optional deeper treasure0376 and they actually continue to floor20. This is not erased as automatically a different task after observing continuation. But explicit independent completion of the leveling objective and still-active personal reward, rather than mere fatigue/new promised equipment, remain uncertain. Additional contrary narrowing C4P0419–0426 follows information about powerful guards: he drops optional king combat while retaining retrieval. FP0498 reopens broad violence, but stress, resource availability, Aqua’s actual location and danger differ.
+
+**Historical semantic missing conjunctions:** No clean two-branch confirmation. Do not alternate completed frog kill, completed skill farming, unfinished rescue and unfinished world campaign to obtain a desired label. C1’s new capability is a rival cause; severe known danger/particular-person harm must be recorded without creating a universal all-risk exclusion. FP0512 praises Megumin after her commitment0508, not before Kazuma’s plan, and is not an earlier K03 reward event. A promising payout is not automatically an already felt success reward.
+
+**Literal threshold review (historical semantic field):** At least2 distinct fully eligible opposite decisions PER branch establish the new repeated criterion. A single opposite remains adverse/localF if its full predicates are actually met. Preserve the C2 continuation as the strongest possible B opposite and do not score it a clean fullF while completion/reward matching is unresolved. Neither uncertainty nor source support retrospectively repairs Gen04 histories.
+
+**Producer original branch dispositions, preserved:** {"A_live_objective": "one bounded positive candidate with chronology specified", "B_completed_objective": "not securely exposed; contrary conditional candidates retained"}
+
+**Producer original strongest contrary/alternative, preserved:** For the first case, prior power feedback and reward salience are ongoing rather than newly activated at every decision. The source has independent self-superiority194, but the same-task pre-feedback scope is broad and teaching versus retaliation becomes a mixed goal. For C2P0374, enough points is not an unambiguous complete chosen target, and progress utility/anticipated gear is not independently the required gratifying recognition/payback reward. If that conjunction is judged complete, actual continuation is adverse to B; the live Aqua-rescue goal cannot be substituted to rescue the separate finished-leveling task.
+
+**Producer original missingness and scope, preserved:** No clean B episode is claimed. Actual known danger after the dragon C2P0088–0104 and later monster-house exposure must be retained before choice; a known-person-harm modifier never needs an express rescue goal. Do not count absence of escalation as absence of reward by definition.
+
+### MG05-K04 — PARTIAL
+
+Original proposals retained: producer **PARTIAL**; root **PARTIAL**; semantic **PARTIAL — quiet A untested; aroused B has positive and brake candidates**. Frozen exact-record SHA256 `658ed09fa59abe998abfcc0c025575656bb9d74ab1f2cd5f28ede8fdae683578`. Native route: C3P0087–0128/0130–0145; C4P0285–0305/0396–0464.
+
+**Current postcomparison receiving reasoning:** QuietA is NOT_TESTED: explicit arousal precedes the initial autonomous pause. Later B has a supported request-level sequence: household limit105, renewed intimacy107–113, withdrawal115–117, prior blame/excuse119/123–126 and request127 while an effective stop is available. Retain the alternative that the kiss explanation is accurate cause rather than exculpation, and the initial real brake as adverse to any universal appetite rule. No completed sex, automatic helplessness or retroactive consent is inferred. Serena’s noticed distress during coercion and Gen03-K04’s retired sufficient-tears failure remain intact.
+
+**Historical source-only semantic branch/chronology review:** A: C3P0066–0082 and P0101 explicitly establish strong arousal, so initial restraint cannot be classified quiet by its outcome. B’s strongest positive sequence is his stated household-restoration limit0105, Megumin’s new kiss0107–0113 and postponement0115–0117, his pre-request explanation that her kiss caused renewed arousal0119, desire overriding Aqua priority0120 and blame/temptress framing0123–0126, then actual request to continue0127. Effective restraint is feasible: she has withdrawn and he previously stopped. Score a request weakening his own stated priority, not an actual unauthorized sexual act.
+
+**Historical semantic strongest supporting candidate:** The later source expressly supplies prior limit, renewed gratification, an effective way to stop and a pre-choice explanation reducing his responsibility before the plea. This supports B’s weakening direction at the request/choice level; he does not obtain continuation and no completed sex is shown.
+
+**Historical semantic strongest contrary/alternative:** Strongest adverse candidate is the autonomous initial stop0099 despite explicit desire0101 and the earlier danger/no-regrets invitation0050/0074. Do not explain it away as low arousal, incapacity or lack of opportunity. For a full B countercase, however, the earlier exact conflicting commitment/boundary must be established before that choice: the particular wait-for-Aqua condition is first made explicit0105, after the apology. General prior pursuit commitment is real but is not self-evidently violated by consensual intimacy tonight. This is a genuine eligibility question, not a proof that he cannot restrain himself.
+
+**Historical semantic missing conjunctions:** A lacks explicitly reduced/absent arousal and an established substitute alternative. B’s later attribution to the kiss is pre-request narrator self-account, not coercive automation or an objectively irresistible cause. The initial boundary timing and whether this frame is truly exculpatory remain open to contrary reading. Preserve all noticed-tear continuations elsewhere, including crying Serena during continued stone injury/coercion C4P0284–0300; no intimacy-only or harmlessness exception is created.
+
+**Literal threshold review (historical semantic field):** One fully matched quietA contrary acceptance or arousedB autonomous use of its known stop is branch-adverse/falsifying. Neither branch is repaired by the other; whole compound cannot be C with A NT. The initial brake must remain visible even if its exact B conjunction stays uncertain.
+
+**Producer original branch dispositions, preserved:** {"A_quiet_reduced_arousal": "NOT_TESTED", "B_aroused_excuse_available": "bounded fit after actual withdrawal; agency limits earlier retained"}
+
+**Producer original strongest contrary/alternative, preserved:** His initial stop99 despite strong desire is genuine contrary evidence against a universal arousal-equals-continuation claim, but it precedes the boundary105 and lacks the full preexisting commitment/exculpatory B sequence. Earlier kiss106 is initiated by Megumin; his account of blank thinking108 and later reciprocal embrace109 do not by themselves establish normal agency or a known effective stop at that earlier instant.
+
+**Producer original missingness and scope, preserved:** No attractive substitute/particular-commitment choice with explicitly reduced/absent immediate arousal is shown, so A remains NT. A request to negotiate continuation is not completed sex or coercive overriding of her later refusal. No noticed-tear brake is reinstated from the finale’s different emotional scene.
+
+### MG05-A01 — PARTIAL
+
+Original proposals retained: producer **PARTIAL**; root **PARTIAL**; semantic **PARTIAL — capacity supported; readiness described; clarity comparison NT**. Frozen exact-record SHA256 `6c1bcd673d1bf16af55f156200eb1758ccd5f1d8c612058868cf4e1349f4056f`. Native route: I1P0029–0044; I2P0004–0023; FP0063–0072/0218–0236/0253–0271/0366–0376.
+
+**Current postcomparison receiving reasoning:** Capacity works in buffs, purification and the small barrier opening; voluntary readiness and comparative clarity are separate. Aqua adopts the reservoir task before new danger information, attempts retreat, then falls accidentally; actual purification is not intended sacrifice. A matched same-domain clear-versus-misaligned comparison is NOT_TESTED. Opening the hole is hers; the later resealing has no assigned actor.
+
+**Historical source-only semantic branch/chronology review:** Capacity: Aqua’s actual buffs support a successful fight FP0063–0072; her touch purifies reservoir water0232 and villagers later attest useful clean-water results0254/0268; actual castle-barrier hole0372–0376 admits the five-person party. Readiness: she volunteers0203, then tries to leave0219 after the hazard explanation0218, and purifies involuntarily after falling0225. Comparative clarity requires a separately matched arrangement, not these different tasks.
+
+**Historical semantic strongest supporting candidate:** Support, purification and a bounded barrier operation actually work. Their downstream value is not erased by her accident or unheroic motives. No injury means no actual healing opportunity FP0069–0071; do not call absence of treatment failure.
+
+**Historical semantic strongest contrary/alternative:** The purification attracts threatened alligators0232–0234 instead of ensuring personal safety; she initially wanted to withdraw0219. I3P0041–0044 False Fire attracts the desired crabs and dangerous ogres. Both are serious system/goal consequences, not proof of failed water purification or inability. Fear and availability cannot be inferred from successful involuntary effects.
+
+**Historical semantic missing conjunctions:** No resourced engaged capacity-inability failure is established by an adverse downstream consequence alone. Conversely unknown ontology is not a universal post-failure exclusion. No matched clear-versus-misaligned same-domain comparison isolates clarity; global priest-power perfection is not tested.
+
+**Literal threshold review (historical semantic field):** Capacity requires at least2 clean engaged resourced domain-inability failures for the repeated criterion; any one is still adverse. Readiness is an observation without a universal prediction. Comparative clarity NT stays separate from successful capacity.
+
+**Producer original branch dispositions, preserved:** {"capacity": "multiple bounded positive demonstrations", "readiness": "mixed observed availability/choice, no universal readiness prediction", "comparative_goal_clarity": "NOT_TESTED"}
+
+**Producer original strongest contrary/alternative, preserved:** Service confidence before the pond crisis does not imply willingness once the hazard is known. False Fire produces dangerous extra attraction, and her party’s effective travel leaves her bored rather than universally fulfilled. High domain capacity does not repair social, navigation or planning failures.
+
+**Producer original missingness and scope, preserved:** No sufficiently matched clear-versus-unclear service arrangement controls domain, access, resources and knowledge. Distinct successful tasks cannot establish the comparative-clarity branch. No new resurrection/healing feat is inferred from earlier memories or reported old work.
+
+### MG05-A02 — AMBIGUOUS
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **AMBIGUOUS — exact challenge/compatibility eligibility, not fitted outcome**. Frozen exact-record SHA256 `9cce5fbf38da6f48ff710efee7a293856e79890bd473fc97565cd5394956932e`. Native route: I1P0024; I2P0030–0035; FP0108–0123/0203–0225.
+
+**Current postcomparison receiving reasoning:** The strongest eligible candidate must be retained: self-adopted reservoir work203, Yunyun’s received inquiry/trouble warning205, activation208, assertion209 and public takeover211–212. A reading as a professional-superiority challenge with inquiry-bypassing prestige contest is plausible; an ordinary safety-caution reading is also plausible. The existing water task does not automatically answer a broader judgment/divinity challenge. Fix exact challenged property and compatibility from pre-choice content, never her later choice. Retreat219 follows NEW alligator information218; bad-memory appraisal222 cannot be backdated to that choice. I2 follower-face and return-before-Mitsurugi’s challenge are adjacent, not substitutes. No clean A/B confirmation or localF; this is uncertain trigger/compatibility, not a fitted exemption.
+
+**Historical source-only semantic branch/chronology review:** Strongest candidate is FP0203–0234: Aqua already adopts water help0203; Yunyun asks to inquire first and predicts another trouble episode0205; Aqua feels activated0208, asserts her competence0209 and publicly takes charge0211–0212. Fix inquiry-before-action as the proposed constraint, exact challenged property as trouble-free judgment rather than automatically divinity, and known task mechanism before classifying A/B. The case cannot be made compatible just because she proceeds with water work.
+
+**Historical semantic strongest supporting candidate:** If the utterance is a direct challenge to professional superiority and public takeover a distinct competing prestige response, bypassing inquiry and claiming guaranteed resolution fits B displacement. If it is a caution rather than a status challenge, there is no complete A02 trigger. A task’s ordinary water feat does not independently answer every broader judgment/divinity issue.
+
+**Historical semantic strongest contrary/alternative:** Strongest opposite-looking choice is subsequent retreat0219 despite her own prestige assertion, but the new alligator information0218 changes knowledge; it is not a clean unchanged contest. The explicit prior-trauma appraisal0222 occurs after the first retreat0219 and cannot simply be backdated as a frozen competing modifier for that earlier choice. FP0121 return decision occurs BEFORE Mitsurugi’s challenge0124; later travel persists after his mission appeal0132, but that appeal challenges commitment/concern, not clearly divine status/following. I2P0034–0035 pride before Cecily, and I3P0006 moral language, do not themselves manufacture an external exact challenge.
+
+**Historical semantic missing conjunctions:** No clean A or B case is established merely by pride, familiarity, a mission reminder or visible behavior. Record alternative compatibility arguments and the timing of any harm/relational/moral appraisal explicitly. Do not infer a modifier from Yunyun being a friend or from eventual restraint. A completed prior buff is not an ongoing assignment at a later insult.
+
+**Literal threshold review (historical semantic field):** One fully established opposite A/B choice would be local branchF. Trigger/compatibility uncertainty is AMBIGUOUS eligibility, not successful fit and not a newly invented exemption. Current source does not justify a clean partition confirmation or localF.
+
+**Producer original branch dispositions, preserved:** {"A_task_compatible_challenge": "NOT_TESTED", "B_task_competing_challenge": "NOT_TESTED"}
+
+**Producer original strongest contrary/alternative, preserved:** Aqua is plainly identity-sensitive, blames her dependents and enjoys priestly confidence. Those facts do not validate either new compatibility branch. Hypothetical soap/bath god rivalry I1P0024 is not an actual challenger/event; known companions and possible ordinary costs cannot become silent modifiers.
+
+**Producer original missingness and scope, preserved:** No full identifiable exact challenge plus ongoing task/constraints and independent compatibility/separate-response opportunity is found. Therefore no competing relational/moral appraisal is invented from her choices. The new modifier still requires acknowledged/appraised pre-choice cue if a later full B appears.
+
+### MG05-A03 — NOT_TESTED
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **NOT_TESTED — exact two later same-service opportunities not securely shown**. Frozen exact-record SHA256 `a8fc9f8d432be0a42959cbf3137c9674a404f94c1177c20c2113161f6d658766`. Native route: FP0063–0072/0149–0165/0190–0199/0218–0236.
+
+**Current postcomparison receiving reasoning:** Useful buff acknowledgment and actual later services remain evidence, but two distinct subsequent need/resource-aligned opportunities for that same service are not individually established. Two thanks during one event are not two later opportunities; no-injury checks are not needed healing. Keep the broader general-priest-service interpretation visible as a scope alternative rather than broadening the frozen service after exposure. Retreat from reservoir danger is actual adverse continuation evidence, not voluntary completion.
+
+**Historical source-only semantic branch/chronology review:** FP0063/0065 and P0072 are useful-work acknowledgment around the SAME manticore/buff episode. Her injury check0069 is responsive, but no injuries/need for actual healing exist0070–0071. Later rapid victories0159 and general trouble-free days0165 do not independently display two further buff decisions. Reservoir purification0232 and barrier opening0374 are actual later priestly work but different specific services.
+
+**Historical semantic strongest supporting candidate:** The source supplies a real acknowledgment-before-later-useful-work candidate, repeated travel, confident uptake of service and continued willingness to find a role. If the same service were independently fixed broadly as general party-priest support, injury checking and later barrier work are a possible argument; the service level must be fixed before selecting favorable opportunities, not broadened only to reach2.
+
+**Historical semantic strongest contrary/alternative:** FP0219 is real refusal/withdrawal after offered water help, before accidental useful purification. It is the strongest adverse service-continuation candidate and may not be turned into voluntary completion by the villagers’ heroic account. Yet the prior acknowledgment was for battle buffs, the water hazard is newly disclosed and two subsequent same-service opportunities are not securely established.
+
+**Historical semantic missing conjunctions:** Do not count the two thanks in one fight as two post-recognition opportunities, no-injury healing as an available treatment need, decorative seed art/tips as the same acknowledged service, or later duration as distinct observed decisions. Recognition and ownership/particular care remain rival sustainers, not uniquely isolated cause.
+
+**Literal threshold review (historical semantic field):** One complete acknowledgment→two same-service opportunity series with preventable abandonment is the adverse unit. The missing temporal/identity conjunction keeps this exact mechanism NT despite valuable actual work. Preserve the broad-service alternative for review rather than claiming it was disproved.
+
+**Producer original branch dispositions, preserved:** {"work_specific_acknowledgment": "present in bounded support scene", "two_later_same_service_need_opportunities": "not separately established", "causal_recognition_mechanism": "NOT_TESTED"}
+
+**Producer original strongest contrary/alternative, preserved:** She remains capable and does travel with the efficient group for days, but duration and role inclusion do not manufacture the specified acknowledgment→two identifiable needs→same-service outputs sequence. Her boredom is not automatically decorative abandonment of a service she was required to continue.
+
+**Producer original missingness and scope, preserved:** At least two distinct post-recognition, resourced same-service opportunities with beneficiary need are missing. Injury-free checks are not healing opportunities; new purification is not the same support service.
+
+### MG05-A04 — NOT_TESTED
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **NOT_TESTED — repetitive low-valued maintenance conjunction absent**. Frozen exact-record SHA256 `c89b7d8fb23ee55119bb5fe51d60b2f4111f83c8117ccfe73a9dccd037615dcf`. Native route: I3P0025–0046; FP0218–0236.
+
+**Current postcomparison receiving reasoning:** The crab lure is a real maximal shortcut with dangerous secondary effects; express repetitive low-valued maintenance is absent. The reservoir has an acknowledged prior analogue and changed hazard information. Retain early-rest refusal and routine preferences without making every shortcut or successful involuntary effect a test of the narrower trigger.
+
+**Historical source-only semantic branch/chronology review:** I3P0033 offers one/two crabs by approaching; Aqua chooses a whole-group lure0035–0041, drawing ogres0044. This is a concrete attractive maximal shortcut with a neglected secondary safety system, but the source presents novel food acquisition, not expressly low-valued repetitive maintenance. FP0218–0234 water work is another adjacent case, with a salient prior alligator analogue0222 and no adopted repetitive routine.
+
+**Historical semantic strongest supporting candidate:** The crab incident supports shortcut/system-neglect as a broader tendency, and the audience sees a real adverse consequence rather than a failed spell. It does not complete the narrower frozen maintenance conjunction.
+
+**Historical semantic strongest contrary/alternative:** Aqua’s refusal to take an early rest I3P0009 and her initial rejection of return0006 show task discipline despite comfort opportunities. Those are not adverse A04 tests without repetitive low valuation and a high-power alternative. The alligator refusal does not become calibrated routine performance merely because water is eventually purified.
+
+**Historical semantic missing conjunctions:** No repeated-maintenance burden expressed as low-valued, no two qualifying calibrated opposites, and no clean absence of prior analogue for the reservoir. Do not generalize any fast spell or any shortcut into this trigger.
+
+**Literal threshold review (historical semantic field):** At least2 complete opposite low-valuation/available-shortcut decisions establish repeated disconfirmation; one full opposite remains adverse. Current neighboring episodes are not full tests.
+
+**Producer original branch dispositions, preserved:** {"low_valued_repetitive_maintenance": "not established", "available_maximal_shortcut": "adjacent one-off lure only"}
+
+**Producer original strongest contrary/alternative, preserved:** The high-output lure has secondary-system neglect and repeats a familiar failure shape, but outcome resemblance alone cannot fill the literal routine/low-valuation conjunction. Her stated reluctance at the pond is hazard fear, not maintenance boredom.
+
+**Producer original missingness and scope, preserved:** No complete repetitive low-valued task plus concretely attractive shortcut without salient learned analogue/constraint. The False Fire nostalgia41 is itself relevant prior familiarity, not evidence to suppress.
+
+### MG05-M01 — PARTIAL
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **PARTIAL — contextual identity activation; clean specialty/cost matching uncertain**. Frozen exact-record SHA256 `f6ff7b16e18bfa9e1085ce8c5d769d6dd3d1b851972623537a84e4e6d94acada`. Native route: C1P0195–0204; C3P0314–0322; C4P0347–0348; FP0496–0514; EpP0020–0029.
+
+**Current postcomparison receiving reasoning:** This label covers contextual identity activation only; full explicit-specialty/known-ordinary-cost priority remains unresolved/NOT_TESTED. Root’s initial whole-trigger NT is preserved alongside this changed scope. C3P0319–0320 grab/card request precedes Kazuma’s321 useful-point reservation and other-magic retort; only her322 continued verbal objection can answer that later challenge. Contextually321 may challenge exclusive Explosion legitimacy, even though no universal literal spell-name requirement is allowed. General mage rivalry alone is insufficient. Kazuma objects/orders her to stop; no completed point expenditure is narrated. Accepted compliance, physical restraint and a completed second attempt are not established. Preserve the narrower reading that322 chiefly concerns his new magical career, and do not count generic status activation as a full priority success.
+
+**Current attributable source/provenance qualification:** External source erratum, semantic receiving-05 report SHA2a61f4978b82c1ab91eff78022aa95440e1a38d8bab4009e49ecea0c06ffbeb0: the preserved initial semantic sentence “accepts externally imposed stopping” overstates the event. C3P0321 is a spoken stop/objection;0322 is protest and continued inspection of his skills. No accepted compliance or physical restraint is certified. The historical sentence and root’s prior shorthand remain unchanged in their original artifacts; current reasoning uses the source-bound correction.
+
+**Historical source-only semantic branch/chronology review:** C1P0194–0205 Dust calls Yunyun the real Crimson Demon/archwizard and Megumin demands a fight. This clearly activates mage/ethnic identity, but the actual wording does not independently denigrate, imitate or replace Explosion as such. C3P0314–0320 Kazuma’s intermediate/upper-magic acquisition triggers her attempted point expenditure on Explosion; his explicit useful-skill reservation and ‘learn other magic’ retort0321 precedes her continued verbal objection0322, not the first grab0320. FP0403–0408 self-accepted build guilt is a separate state; FP0496/0508 world-best rank rivalry is not automatically an explicit specialty challenge.
+
+**Historical semantic strongest supporting candidate:** The card sequence has actual Explosion naming and a concrete attempted ordinary cost to a companion’s reserved points. Contextual ‘other magic’ can be read as challenging her exclusive specialist legitimacy. That reading should be considered without imposing a universal requirement that a rival must literally say the spell name or enter a formal spell debate. Subsequent defense0322 can be the response being tested only if that specific challenge is independently established.
+
+**Historical semantic strongest contrary/alternative:** She accepts externally imposed stopping of the card attempt0321; no point expenditure is shown. Initial Explosion grab0320 precedes the potentially more specific challenge0321, so the chronology cannot be rearranged to make it an answer to the latter. Later serious remorse at the exclusive build would contradict an unlimited identity-always-wins model, but M02’s higher-order accepted burden is explicitly active then, so it is not easy compromise due to ordinary cost alone.
+
+**Historical semantic missing conjunctions:** Separate literal specialty challenge from generic real-wizard/rank mockery, her perceived comparison and direct criticism. Exact later opportunity to persist after0321 is limited to speech, and neither completed casting nor burned points is shown. Full ordinary-cost priority remains uncertain rather than auto-confirmed by any angry mage reaction.
+
+**Literal threshold review (historical semantic field):** Repeated disconfirmation needs at least2 full specialty/cost-only easy-compromise cases without identity conflict or higher-order cue. Current uncertain/single cases cannot establish it; attempted defense is still real even when restrained. No clean full countercase or full priority confirmation is proposed.
+
+**Producer original branch dispositions, preserved:** {"explicit_Explosion_identity_challenge": "not securely received in a clean case", "known_ordinary_companion_cost_priority": "NOT_TESTED"}
+
+**Producer original strongest contrary/alternative, preserved:** She does try to spend Kazuma’s reserved points on Explosion C3P0320 despite his known utility aim, so ordinary companion cost and defensive specialization are materially present. The exact literal specialty challenge is still not supplied by that outcome; do not call all magician-role threat Explosion replacement.
+
+**Producer original missingness and scope, preserved:** Missing clean explicit received specialty challenge with known ordinary cost and no preactive burden/grave-harm state. No added formal-debate requirement or separate spoken-cost-warning requirement is imposed.
+
+**External correction governs the historical compliance wording above:** C3P321 is spoken objection;322 is protest/continued inspection. No accepted compliance, physical restraint, card return or completed point expenditure is certified.
+
+### MG05-M02 — CONFIRMED
+
+Original proposals retained: producer **CONFIRMED**; root **PARTIAL**; semantic **CONFIRMED — serious consideration/regret, not actual rebuild**. Frozen exact-record SHA256 `1e0a06d9f375c1ad75735324c33c62a99b7c5a6bdf9b1dd71fb72a89610445c6`. Native route: C1P0255; FP0400–0447/0485–0508.
+
+**Current postcomparison receiving reasoning:** Bounded consideration effect: her own substantial build-attributed contribution guilt, explicit alternatives and visible loss at FP0399–0408 meet serious reconsideration, although no actual rebuild, permanent policy or immediate spell purchase is shown. The strongest contrary reading is past-regret counterfactual rather than forward commitment; this limits durability, but requiring a new promise/spent point would strengthen the frozen consideration effect after exposure. The later resource-enabled changed role and renewed joy follow the conflict rather than erase it. One episode with several utterances is not several independent tests.
+
+**Historical source-only semantic branch/chronology review:** FP0399–0408 has actual distress, self-attribution to exclusive Explosion and concrete alternatives: Light of Saber, communication and a small signal. She says her stubbornness prevented the normal wizard contribution and that another Crimson Demon could help Aqua. The substantial valued-companion burden is her own, not merely a rival’s insult. Her alternatives are known forms of her own professional capacity; lack of immediate demonstrated spare-point availability is not silently converted into a requirement that she execute a new build right now.
+
+**Historical semantic strongest supporting candidate:** The literal effect predicts serious consideration of compromise/changed role with visible loss. Her explicit repeated alternative-build counterfactuals and self-criticism, accompanied by tears, meet that bounded consideration direction. Requiring an actual learned spell, spent point or a future promise would strengthen the frozen effect beyond its wording. Kazuma’s resource solution0434–0491 and renewed Explosion confidence0508 follow the conflict rather than erase it.
+
+**Historical semantic strongest contrary/alternative:** Strongest contrary reading: all the language is past-regret ‘if I had learned’, without a forward commitment to change. Record that boundary honestly; it limits any claim of durable priority reversal or actual willingness to abandon Explosion under a currently executable choice. C1P0255 acknowledges usefulness limits yet stays with Kazuma; C3P0320 tries to entrench Explosion in him. Those show the genuine specialist preference but do not cancel the later serious self-accepted conflict.
+
+**Historical semantic missing conjunctions:** No actual rebuild, abandoned specialty or stable new policy is established. The end supplies a viable way to preserve Explosion while contributing, so there is no independently remaining unchanged burden against which refusal of compromise could be scored. A narrower interpretation that ‘consider’ necessarily requires future-oriented commitment should remain a receiving disagreement, not be silently added to the predicate.
+
+**Literal threshold review (historical semantic field):** At least2 explicit substantial self-accepted burdens with recognized feasible alternatives and no meaningful conflict/reconsideration would falsify the repeated tendency. This source has a positive bounded consideration episode, not that failure pattern or proof of a final transfer profile.
+
+**Producer original branch dispositions, preserved:** {"self_owned_substantial_build_burden": "present", "serious_alternative_consideration": "bounded counterfactual consideration, not actual respec", "after_reassurance_choice": "retains build with new resources"}
+
+**Producer original strongest contrary/alternative, preserved:** She does not actually learn another spell or announce a durable new skill policy. Counterfactual regret is less than a completed compromise; after resources appear she enthusiastically returns to specialty508. The forecast requires serious consideration or changed role, not mandatory abandonment, so retaining the build after help is not by itself a contrary result.
+
+**Producer original missingness and scope, preserved:** Instant access to the alternative spells at this very scene is unshown; do not claim on-the-spot respecialization. Source establishes them as meaningful learnable alternatives she believes she should have acquired, supported by her talent/point context C1P0406–0408. Long-term policy after the episode is closed.
+
+### MG05-M03 — NOT_TESTED
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **PARTIAL — real preparation/cast; full safe-separated efficacy test NT**. Frozen exact-record SHA256 `e34a0e8621b512fc91121c51e95381d09c134ab69730fef4e1674a69d263c8ce`. Native route: C3P0435–0462; C4P0025–0030; FP0315/0366–0376/0434–0508; EpP0003–0029.
+
+**Current postcomparison receiving reasoning:** Full prepared safe-separated terminal-efficacy conjunction is NOT_TESTED; actual component preparation and one cast are supported. Resource/range/exit plans are real and must not be erased. Friendly safety is not fixed, with Aqua inside and expressly named498, Darkness objecting499. The ogre cast actually helps drivers and knocks allies unconscious, without independently fixed prior safe geometry/carry plan. Narrative strongest-mage acclaim is preserved; it does not depict a full barrage, barrier collapse or enemy defeat.
+
+**Historical source-only semantic branch/chronology review:** C3P0435–0459 starts a chant for the nearby leader, then Megumin checks a guard’s cry0454 and redirects to ogres about to attack the drivers0456. Actual blast knocks allies unconscious0457, with Kazuma’s explanation of upward aiming; prior safe geometry and post-cast plan are not shown. Final preparation is much more explicit: immobile barrier, known repeated-fire/regeneration limits FP0434–0447, actual crystals0476–0491 and the previously stated two-caster eight-person escape plan0315. The distant-range claim0498 and EpP0003/0027 actual invocation are also real.
+
+**Historical semantic strongest supporting candidate:** The final design is not merely an unprepared fantasy: it has a stationary target, resource and range reasoning, plus a pre-existing recovery concept. EpP0029 affirmatively acclaims her strongest status. Preserve this narrative success force, rather than calling the entire ending unperformed or futile.
+
+**Historical semantic strongest contrary/alternative:** C3’s actual allied blast consequences and depletion are the strongest adverse collateral case; a successful emergency rescue does not prove it satisfied safe-separation before firing. Final Aqua is already inside the barrier FP0374–0376 and is explicitly named among those to blast0498, with Darkness’s objection0499. No safe friendly geometry is thereby established. The acclaim does not display exact barrier collapse, a completed twenty-cast sequence or individual enemy defeats.
+
+**Historical semantic missing conjunctions:** Missing final friendly-safety/valued-target resolution and exact terminal target result prevent a full test. Do not invent missing resource/exit data where actual plans exist, or add a military-mission prerequisite that excludes an immobile object. Do not infer safe geometry or a prior carry plan from later survival/help.
+
+**Literal threshold review (historical semantic field):** At least2 complete target/safety/resources/exit cases failing through ordinary selection/execution would establish repeated disconfirmation. The current actual cast and preparation support components; neither scene supplies an unmodified complete contrary trial or complete conjunction confirmation.
+
+**Producer original branch dispositions, preserved:** {"known_target_range": "bounded present in final plan", "safe_friendly_geometry": "not established for strongest candidate", "prior_resource_and_exit_plan": "partly present, full conjunction missing"}
+
+**Producer original strongest contrary/alternative, preserved:** The finale is not excluded merely because a stationary barrier is not a tactical mission: stationary objects are eligible. Neither the dramatic narrator payoff EpP0029 nor actual cast27 supplies missing prior safety/exit details or a shown terminal breach.
+
+**Producer original missingness and scope, preserved:** Full pre-fire target/safety/resource/exit conjunction incomplete. One explicit ending cast is shown, not a completed barrage, gatekeeper defeat or extraction.
+
+### MG05-M04 — NOT_TESTED
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **NOT_TESTED full valued-opponent execution; final harmful-target candidate retained**. Frozen exact-record SHA256 `2f5698bbf3ba5501e09ab33ab7e4adc92a93b1142ce97ce2ea864603bd69a474`. Native route: FP0366–0376/0498–0508; EpP0027–0029.
+
+**Current postcomparison receiving reasoning:** No independently valued person is established as the required target/opponent in a decisive-harm task. Aqua’s danger behind the barrier is a material exposure concern, not automatically a valued-target-role test. No missing affection, resistance or aftermath is invented.
+
+**Current attributable source/provenance qualification:** Historical semantic wording “actual firing is at the barrier” overstates the displayed trajectory. The plan directs fire toward the barrier and EpP0027 displays invocation; no impact trajectory, damage to Aqua or completed barrier breach is shown. Preserve the harmful-target command/acceptance as adverse evidence without inventing an observed strike.
+
+**Historical source-only semantic branch/chronology review:** Aqua’s bond is independently strong C3P0364/0371 and FP0399–0408. FP0498 Kazuma expressly includes Aqua in the target list and Darkness objects0499 before Megumin enthusiastically commits0508 and later invokes Explosion EpP0027. This must be retained as the strongest candidate against automatic valued-person inhibition; it is not erased as harmless comedy.
+
+**Historical semantic strongest supporting candidate:** Earlier relational distress about failing to retrieve Aqua is genuine but does not by itself test attacking a valued opponent. C4P0025–0029 has a contemplated Darkness endurance contest with her permission and an asserted nonlethal armor margin, not a task requiring decisive harm to a valued adversary.
+
+**Historical semantic strongest contrary/alternative:** The final target list puts a valued person in explicit danger language without voiced Megumin concern about her. If receiving establishes that she knowingly accepts Aqua as an actual decisive-harm target/opponent rather than an inflammatory appendage to barrier fire, her easy acceptance is contrary to a broad firing-constraint story. Do not require post-harm guilt to rescue absent pre-action friction. Conversely do not manufacture an observed strike on Aqua or a completed betrayal.
+
+**Historical semantic missing conjunctions:** Aqua is still the person to retrieve, not independently established as Megumin’s opponent/obstacle; actual firing is at the barrier and direct harm to her is not shown. The exact meaningful-target conflict and execution are incomplete, and aftermath of hurting that person is absent. Gift gratitude does not substitute for that aftermath.
+
+**Literal threshold review (historical semantic field):** One full bonded-target conflict with effortless execution is adverse to pre-action friction even if regret later follows; easy celebration after meaningful harm is separately adverse. Neither component can be filled from the other or from V17. The adverse final command/acceptance remains explicit despite current full-test NT.
+
+**Producer original branch dispositions, preserved:** {"bonded_person_as_decisive_harm_opponent": "not established", "pre_action_friction": "not tested under full trigger", "aftermath_cost": "not exposed"}
+
+**Producer original strongest contrary/alternative, preserved:** Do not label the Aqua phrase harmless just because comic or immediately corrected: it is a real unsafe/ambiguous ally-target instruction. It does not by itself establish that Megumin treats Aqua as an opponent or actual decisive-harm target, and no blast result against her is shown.
+
+**Producer original missingness and scope, preserved:** No clean source-established valued-person-now-opponent target. Actual target choice and post-action emotional aftermath are missing. Technical capacity to damage gods EpP0016 is not the emotional trigger.
+
+**External correction governs the historical actual-firing wording above:** the plan directs fire at the barrier; EpP27 displays invocation, without separately shown trajectory/impact or harm to Aqua.
+
+### MG05-M05 — NOT_TESTED
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **NOT_TESTED full grave-risk conjunction; material adverse collateral/command evidence**. Frozen exact-record SHA256 `8c36cedb1addf926bc67b92f82006d6508b657206659dba929670fdb268daaa9`. Native route: C3P0454–0459; C4P0025–0030; FP0493–0508; EpP0027.
+
+**Current postcomparison receiving reasoning:** Full known-grave-direct-friendly-harm/best-option/clear-alternative conjunction remains unestablished. Preserve the adverse order naming Aqua, Megumin’s enthusiasm, Darkness’s objection and actual earlier allied blast effects. No harmless-comedy exemption or safe geometry is inferred. Her knowledge of grave direct magnitude and clear alternatives are incompletely fixed; no harm to Aqua is shown here. Money/enemy cautions are not themselves relational-risk friction.
+
+**Current attributable source/provenance qualification:** Source-established knowledge of grave risk is required by the frozen forecast; a spoken self-acknowledgment is not an added prerequisite. Current uncertainty concerns direct grave magnitude, known alternatives and the tactical requirement, not absence of a particular linguistic formula. Actual collateral and dangerous acceptance remain adverse evidence.
+
+**Historical source-only semantic branch/chronology review:** C3P0454–0459 shows an urgent redirected rescue cast with injured/unconscious friendly adventurers, but their relationship to Megumin, anticipated grave injury, known alternatives and best tactical option are not all independently established. C4P0025–0030 contemplates testing Darkness’s armor with consent and predicted survival, then is deferred. FP0498–0508/EpP0027 is the strongest grave-companion-risk candidate because Aqua is expressly named and Darkness flags the problem0499.
+
+**Historical semantic strongest supporting candidate:** Megumin is capable of concrete pre-action caution: she checks irreversible expenditure FP0485/0489 and enemy response0493/0496. Those concern money/enemies, not automatically grave harm to Aqua. The earlier upward-aiming explanation C3P0457 is narrator inference supporting some care/control, not a complete severe-risk negotiation.
+
+**Historical semantic strongest contrary/alternative:** Preserve her enthusiasm after the instruction naming Aqua, and the actual nonzero friendly blast consequences in C3. No universal ‘it is only comedy’ exemption or post hoc claim that nobody could be hurt is warranted. Nor may Darkness’s permission alone prove any magnitude of grave harm was clearly known.
+
+**Historical semantic missing conjunctions:** Final direct grave bodily exposure to Aqua, Megumin’s explicit knowledge of that magnitude, best tactical necessity and clear alternatives remain incompletely fixed. Proximity behind a barrier alone does not complete them, and the source does not show actual damage to Aqua. Do not import future events to clarify either safety or danger.
+
+**Literal threshold review (historical semantic field):** One full known-grave-direct-friendly-harm/best-option/clear-alternatives enthusiastic cast without relational friction would be localF. Current collateral and dangerous acceptance are adverse limits, but not a licensed complete falsification or confirmation of that exact compound.
+
+**Producer original branch dispositions, preserved:** {"known_grave_direct_friendly_harm": "not independently established before choice", "best_tactical_option_and_clear_alternatives": "partial tactical facts only"}
+
+**Producer original strongest contrary/alternative, preserved:** Aqua’s location and the immense power matter. They cannot be turned into either guaranteed safe geometry or explicit pre-action severity knowledge by reading later enthusiasm backward. Darkness’s objection is not Megumin’s own voiced appraisal.
+
+**Producer original missingness and scope, preserved:** The complete known-grave-direct-companion-harm/best-option/clear-alternatives conjunction is absent. Friendly collateral, the ally-target instruction and unshown safety remain live limits.
+
+**Literal knowledge guard:** source-established risk knowledge need not take the form of a new spoken self-acknowledgment.
+
+### MG05-M06 — NOT_TESTED
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **NOT_TESTED — no sustained weakening-goal operation**. Frozen exact-record SHA256 `6ff5aef9479154af24ae46f36709e9476427a043df7cf6ee845f40fcc27f54b9`. Native route: FP0438–0447/0487–0508; EpP0018–0029.
+
+**Current postcomparison receiving reasoning:** Many-cast authorization and anticipated gratification are actual, but only the first terminal cast is displayed. No sustained effective operation with independently weakened/completed instrumental goal and a subsequent optional stop/extension choice occurs. Neither promise nor lack of narrated later casts is autonomous stopping after success.
+
+**Historical source-only semantic branch/chronology review:** Final crystals authorize many casts FP0487–0494; Megumin imagines that pleasure0492 and vows a spectacular vindication0508/EpP0018–0023. EpP0027 supplies an actual invocation and P0029 narrator acclaim. No source scene shows a completed run of safe repeated effective casts while the barrier/retrieval objective independently approaches completion or weakens.
+
+**Historical semantic strongest supporting candidate:** Very strong specialist gratification and resource-enabled prospective repetition are real. They are useful motive/role evidence without being the required operational drift.
+
+**Historical semantic strongest contrary/alternative:** Megumin’s willingness to spend all offered crystals might look like replacing rescue with spectacle, but the barrier/regeneration problem still calls for closely repeated fire and incoming-enemy counterfire; the instrumental objective has not independently weakened. Conversely absence of narrated extra casts is not a deliberate autonomous stop after success.
+
+**Historical semantic missing conjunctions:** Missing sustained safe repeated operation, independently weakening/completed goal and an actual extension/stop decision. No ordinary daily/leisure repetition or promised volley may fill those conjuncts.
+
+**Literal threshold review (historical semantic field):** At least2 full rewarding-operation/weakened-goal sequences autonomously stopping without limit/higher conflict would disconfirm the new repeated tendency. None is shown here. Final invocation/acclaim cannot pre-count future sustained operation.
+
+**Producer original branch dispositions, preserved:** {"sustained_instrumental_rewarding_repetition": "not shown", "weakening_or_completed_original_objective": "not shown"}
+
+**Producer original strongest contrary/alternative, preserved:** The resource pile and ecstatic anticipation are strong opportunities for later reward drift, not present observed drift. A proposed barrage cannot be reconstructed as completed repeated firing from genre memory.
+
+**Producer original missingness and scope, preserved:** No actual sustained operation plus weakening objective. V17 and all excluded narrative remain closed.
+
+### MG05-D01 — CONFIRMED
+
+Original proposals retained: producer **CONFIRMED**; root **CONFIRMED**; semantic **CONFIRMED — bounded interposition, with serious defensive failures retained**. Frozen exact-record SHA256 `acb62130e7bc740a352c40826dd4adc6b021ea5da03debbe86adbd27fd165a92`. Native route: C1P0256/0322–0350; C3P0037–0040/0494–0502; FP0340–0348/0407–0410.
+
+**Current postcomparison receiving reasoning:** The ogre interposition is an actual defensive choice; heavy cargo and other protection support bounded responsibility. Preserve dressing/readiness delay, forgotten swallowed Megumin, altered-armored offense disrupting recovery and all observed failures. No distinct knowingly recognized serious threat abandoned chiefly for convenience is established by the prior non-wearing alone. Pleasure, bad aim and state changes are not blanket exclusions.
+
+**Historical source-only semantic branch/chronology review:** C3P0494–0501 Darkness actually tackles the ogre away from endangered Kazuma and withstands returned blows0510. Feasible protective responsibility is direct, not a fantasy victim invented from her pleasure. C1P0340–0343 she is actively chasing his frog and using Decoy, whose armor limitation is explicitly explained; failed execution is not absent engagement. FP0346–0347 she accepts the heavy cargo burden; FP0407–0410 gives emotional support and acknowledges build costs.
+
+**Historical semantic strongest supporting candidate:** The lethal-threat tackle is the clearest defense-aligned interposition, independent of complete tactical reliability or whether she enjoys pain. No need to invent an actual wound to prove she chose the bodily defensive role.
+
+**Historical semantic strongest contrary/alternative:** Strongest contrary evidence: prior refusal to wear the treasured armor for fear of damage/sweat C3P0231/0246/0498 leaves her dressing during the ogre crisis0398–0400; her late arrival matters. C1P0368–0372 she and Kazuma actually forget Megumin still being swallowed. Under armor she then pursues offense instead of the requested time-buying C3P0503–0520, disrupting recovery. Do not erase these failures with the eventual tackle or skill effects.
+
+**Historical semantic missing conjunctions:** For the single convenience-abandonment criterion, the record does not establish a distinct moment at which she knowingly leaves a recognized serious threat despite feasible immediate protection chiefly for comfort: non-wearing precedes the threat, dressing is necessary against armed foes according to0398, and forgetting differs from a demonstrated conscious choice to abandon. The unarmed leader makes earlier unarmored help a serious alternative question, not proof she had noticed that exact opportunity while inside dressing. Aggressive altered behavior is not the different criterion of deliberate sabotage to remain helpless.
+
+**Literal threshold review (historical semantic field):** One fully matched knowingly convenient abandonment is localF; repeated deliberate helplessness sabotage requires at least2. No universal normal-state exception is added. Current positive interposition supports the bounded prediction, while delay/forgetting/coordination harm constrain any global protective-priority claim.
+
+**Producer original branch dispositions, preserved:** {"actual_defensive_contribution": "bounded fit with material readiness costs", "deliberate_helplessness_sabotage": "not established"}
+
+**Producer original strongest contrary/alternative, preserved:** Armor preservation is a genuine defect: she previously refuses to wear it C3P0231, promises danger-only wearing246, is late because of sweat concerns498, and its aggression disrupts magic deployment C4P0014/0021. Contribution does not erase this inconvenience-driven unreadiness. Once danger is faced she dresses and intervenes rather than abandoning Kazuma; aggression is armor-associated, not a shown deliberate wish to remain helpless.
+
+**Producer original missingness and scope, preserved:** No invulnerability or safe strategy is inferred. Her inaccurate attacks still fail C3P0505, and the final artillery outcome is not shown. Cargo help FP0346–0347 alone is not a serious-injustice test.
+
+### MG05-D02 — AMBIGUOUS
+
+Original proposals retained: producer **NOT_TESTED**; root **PARTIAL**; semantic **AMBIGUOUS A eligibility / B NOT_TESTED; armor countercase preserved**. Frozen exact-record SHA256 `903b5be7c990d187096b7229cd0e633cfd4862837b33c6ec067c67722df48cc0`. Native route: C3P0130–0145; C4P0006–0040/0064–0070/0119–0120; FP0046–0052.
+
+**Current postcomparison receiving reasoning:** A eligibility is uncertain; B is NOT_TESTED. Public Steal welcomeC4P0030–0038 is the strongest opposite: both Kazuma and Darkness contrast prior hesitation with present armor courage. Do not delete this evidence or add a normal-state requirement. An already public scene and preference recalled during that exchange do not securely establish an otherwise-sought private event acquiring an unexpected audience with independently prior specific privacy preference. Closet embarrassment has genuine meaning, but hiding/objection cannot alone supply every prior predicate. If the full conjunction is accepted, the single contrary welcome remains adverse even before repeated threshold. Zesta objections support broader dignity without manufacturing equal-membership threat or D02 completeness.
+
+**Historical source-only semantic branch/chronology review:** A’s strongest opposite is C4P0030–0038: public Steal threat, her emphatic invitation, Kazuma’s independent reminder0037 of prior public-shame reluctance, and her own explicit contrast0038 with former hesitation and current armor courage. The source itself attributes changed fear/courage; altered state does not automatically remove the event from this forecast. But the otherwise-sought event is only adopted within an already public scene, so an independently unexpected acquired audience and a pre-response specific privacy preference need careful matching.
+
+**Historical semantic strongest supporting candidate:** C3 closet discovery0130–0144 shows embarrassment, concealment and protest after Megumin’s unexpected presence; the hidden private visit is retrospectively acknowledged. C4P0476/0485 separately objects to Zesta’s harassment despite tolerance of Kazuma. These establish specific dignity/meaning distinctions, without automatically satisfying every narrower D02 pre-boundary predicate.
+
+**Historical semantic strongest contrary/alternative:** Do not delete her explicit C4 welcome of public exposure or interpret it as lack of opportunity because Kazuma backs down0039. If the prior boundary/audience-change conjunction is accepted, this single opposite remains adverse before repetition, with armor as a source-established modifier rather than an invented normal-state prerequisite. Conversely C3 hiding cannot be both the only evidence of privacy and its successful predicted response. P0200–0202 ‘weird one’ displeasure is not an explicit threat to equal companion membership.
+
+**Historical semantic missing conjunctions:** A: exact independently predeclared privacy baseline plus unexpected boundary change is not secure in either candidate. B: no explicit threat to previously valued equal standing is shown. Mere disgust, sexual pleasure, reduced control, performer humiliation or familiar tolerance cannot supply the missing conjunction. J01 dignity eligibility must not be forced to inherit it.
+
+**Literal threshold review (historical semantic field):** A/B repeated threshold is at least2 full opposite welcomed changes per branch, with every single match retained adverse. Current uncertain full matching prevents either whole C or clean branchF; the public-armor counterdirection must stay visible for receiving.
+
+**Producer original branch dispositions, preserved:** {"A_prior_privacy_changed_audience": "not fully independently established", "B_explicit_equal_membership_threat": "not established"}
+
+**Producer original strongest contrary/alternative, preserved:** The public-exposure welcome is real broader contrary evidence to monotonic shame/control aversion, not harmless comedy and not deleted because it is rewarding. The closet episode is at least boundary-sensitive; if its prior concealment is accepted as enough independent baseline, its later objection supports A rather than contradicting it. This alternative remains attributable.
+
+**Producer original missingness and scope, preserved:** No clean full A or B conjunction is claimed. J01 dignity must not be narrowed to this D02 conjunction; no completed membership expulsion is required.
+
+### MG05-D03 — NOT_TESTED
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **NOT_TESTED — no concrete incompatible duty/membership pair**. Frozen exact-record SHA256 `7ef23d871f83781ca09e2d2634f50a53992b168817eda377c2df49a7d21825fb`. Native route: C1P0251–0261; C3P0037–0040; FP0312–0317.
+
+**Current postcomparison receiving reasoning:** Civic protection and travel allocation are real duties, but no concrete incompatible noble/family/civic demand versus continuing party membership is established. Temporary alternate rescuers and compatible preparation remain available. Armor impracticality is not evidence of dropping an independently recognized incompatible obligation.
+
+**Historical source-only semantic branch/chronology review:** C1P0256 Darkness initially stays for Axel defense while Kazuma stays, then joins pursuit once he does; C1P0011–0026 gives civic attack stakes. These are real multiple obligations, but the source does not impose a concrete noble/family/civic order that continued party membership would genuinely violate. C3P0273 Chris’s separate work is another person’s conflict.
+
+**Historical semantic strongest supporting candidate:** Helping arrange teachers/supplies and accepting pursuit show valued contribution, not a compulsory choice between renouncing family and abandoning the party.
+
+**Historical semantic strongest contrary/alternative:** Her armor obsession and poor preparation are practical failures, not a recognized incompatible civic duty she drops for prestige. Initial decision to remain could look like abandoning Aqua, but compatible alternate rescuers and temporary allocation remain available.
+
+**Historical semantic missing conjunctions:** No independently identified incompatible demands or feasible preservation negotiation against them. Generic duty language, mission absence and Iris’s reported public burden cannot create Darkness’s own full test.
+
+**Literal threshold review (historical semantic field):** One full incompatible-duty/membership case easily discarded for convenience/prestige despite feasible preservation would be localF. No such complete case is established.
+
+**Producer original branch dispositions, preserved:** {"concrete_incompatible_civic_family_and_membership_demands": "not established"}
+
+**Producer original strongest contrary/alternative, preserved:** Her noble role, active party attachment and possible deployment are all real, but their coexistence or temporary allocation is not genuine incompatibility. No easy abandonment is inferred from choosing one compatible phase role.
+
+**Producer original missingness and scope, preserved:** Missing mutually incompatible concrete demands and a relevant preservation decision.
+
+### MG05-E01 — PARTIAL
+
+Original proposals retained: producer **PARTIAL**; root **PARTIAL**; semantic **PARTIAL — phase adequacy and repair supported; comparative A limited**. Frozen exact-record SHA256 `67632bb853115010da1c1ae55cef46927dd355e0821558fb9b0ddca5257e6008`. Native route: C1P0466–0508; C2P0016–0132/0413–0465; C3P0395–0538; FP0312–0326/0434–0498.
+
+**Current postcomparison receiving reasoning:** A comparative deployment support, B provider adequacy and C continuing Kazuma dependence remain separate. Vanir/Wiz provide screened capture/food/guide/teleport phases and independently repair with Wiz’s dragon reanimationC2P0117–0123; C2P0033 is Kazuma finishing disabled ogres, not undead proof. Vanir reconstructs his own armC2P0214. Keep local near-death/protection failures, repair costs, changed knowledge, and actual alternate-team success without Kazuma’s continuing command. Heterogeneous phases do not complete the >=2 comparable-problem tendency or prove whole-campaign adequacy.
+
+**Current attributable source/provenance qualification:** The frozen E01 text PREFERS same-mechanism/same-knowledge comparison where available; it does not make a controlled comparison an eligibility prerequisite. Changed knowledge/resources are recorded as rival explanations and reduce causal isolation. The historical semantic phrase “No ... controlled comparison” is a limitation, not a new exclusion floor.
+
+**Historical source-only semantic branch/chronology review:** A: C1’s retaining-skills discovery changes knowledge, then unavailable potion/risky unscreened drain is reorganized through Wiz’s Vanir-screening proposal0493 and actual guide/disable/finish roles C2P0007–0053. C3’s untested low-mana skills and armor timing contrast with later explicit crystal/range/regeneration/handoff planning, but knowledge/resources/opponents differ. B: Vanir/Wiz have independently established foresight, defensive position and disabling magic before the leveling results; adequate for that bounded phase, not automatically every battle or the entire castle campaign. C: the experts autonomously handle much of that phase; Kazuma need not continually direct their execution.
+
+**Historical semantic strongest supporting candidate:** The alternate Mitsurugi/Yunyun/Aqua team actually supplies fast combat FP0063–0078/0159 and barrier entry0374–0376 without Kazuma’s ongoing commands; his earlier initial delegation is not erased. Yunyun’s communication/protection and Cecily’s delay/road suggestion are other real providers. Kazuma repairs his own final resource bottleneck rather than proving only he can organize any task.
+
+**Historical semantic strongest contrary/alternative:** Monster capture constraints cost Vanir an arm C2P0088–0113; treasure/rosary greed escalates danger; Flash blinds Kazuma and armor-driven offense derails planned recovery C3P0502–0533. Alternative combat efficiency leaves Aqua and others socially underused FP0154–0160 and produces waiting conflict0168–0170. These are actual limits, not nonexistent organization. Expert phase success cannot certify safe moral whole-campaign adequacy.
+
+**Historical semantic missing conjunctions:** No sufficiently matched same-mechanism/same-knowledge controlled comparison isolates organization from the newly learned systems and resources. A is bounded qualitative support rather than clean comparative confirmation. B/C are phase-indexed: initial Kazuma selection, expert execution, later self-initiated repair and final unshown recovery remain separate.
+
+**Literal threshold review (historical semantic field):** A/B/C are separate; repeated comparative failure means at least2 comparable problems, while one bounded contrary provider/deployment case still survives. Do not count high outcomes as proof ex-ante adequacy, or ongoing success without Kazuma in one phase as proof of whole-campaign independence.
+
+**Producer original branch dispositions, preserved:** {"A_alignment_comparative_deployment": "bounded deployment evidence; comparison confounded/incomplete", "B_alternative_provider_adequacy": "positive for specified leveling/en-route phases, not whole campaign", "C_Kazuma_continuing_direction": "not necessary during several independently supplied phases; initiating/repair remains"}
+
+**Producer original strongest contrary/alternative, preserved:** Different knowledge, monster conditions, class capabilities and resource levels change across these scenes. They are not an isolated same-mechanism organization experiment. Dungeon amplification has ethical/financial costs and no universal guaranteed safety; actual success alone cannot retrospectively make the providers adequate for the whole castle campaign.
+
+**Producer original missingness and scope, preserved:** A lacks a fully comparable safe multistage before/after result for a comparative tendency. B is phase-indexed; no complete king/gatekeeper/extraction adequacy is observed. C distinguishes Kazuma’s initial task/rules from providers’ continuing execution; not every success proves continuing dependence.
+
+**Literal eligibility guard:** same-mechanism/same-knowledge comparison is preferred, not a universal prerequisite; changed knowledge/resources are rival explanations.
+
+### MG05-E02 — NOT_TESTED
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **PARTIAL — strongest efficient-separation proposal yet, with prerequisite limits**. Frozen exact-record SHA256 `513b5fae98e7df19be5facf61a6ab9c8a4e78ca83eed9f0b2f1c53ffad20a3eb`. Native route: C1P0223–0261; C3P0325–0380; FP0103–0147/0154–0199/0315.
+
+**Current postcomparison receiving reasoning:** Full feasible efficiency-promising durable-removal conjunction is NOT_TESTED; strong component attachment is supported. Efficient alternate travel is real, and proposed separation need not already be completed. Heaven return nevertheless depends on an independently unestablished victory prerequisite; temporary rescue allocation cannot itself establish durable removal. Preserve the semantic reviewer’s PARTIAL component alternative, Aqua’s stated missing household, Kazuma’s initial endorsement/comfort preference, and later costly contact-preserving pursuit. Affection is not proof of practical feasibility.
+
+**Historical source-only semantic branch/chronology review:** The candidate is a new efficient escort/quest arrangement: Kazuma endorses Mitsurugi/Yunyun/Aqua’s balanced team C1P0242–0253 while knowing her aim is heaven0239. Actual efficient alternate travel is shown FP0063–0078/0159; Aqua then wants to return0121–0123, protect contact and wait0128–0130/0168, while Kazuma/Megumin/Darkness bear pursuit and crystal costs. C3P0367–0374 directly raises whether Aqua and everyone can return; the unspoken heaven answer0368–0369 evidences the credible sustained bond loss.
+
+**Historical semantic strongest supporting candidate:** Particular-person/household loss is explicit beyond instrumental safety: absence/greetings C1P0275–0278, the interrupted-intimacy preference C3P0105, Darkness’s named bond0364 and Aqua’s boredom/longing FP0154–0183. Her efficient alternate party does not produce sustained relief, and their costly pursuit protects connection.
+
+**Historical semantic strongest contrary/alternative:** Kazuma initially accepts outsourcing and staying home C1P0223–0253, even positively endorses the king-fighting team; his safety/comfort preference is real contrary variation. Aqua actually continues after Mitsurugi’s objections despite deciding to return FP0121–0149, not an implemented homecoming. Do not make one person’s passing preference the whole household outcome or claim completed rescue. The castle’s strong guardian/king problem C4P0334–0417 limits how easily the proposed efficient victory/heaven prerequisite can be assumed.
+
+**Historical semantic missing conjunctions:** A completed move or defeated king is NOT required by the forecast. Credible feasible proposal can qualify before success; observed alternate efficiency gives real evidence, not merely imagined virtue. Remaining uncertainty is whether the specific sustained-removal arrangement’s necessary victory/heaven-return prerequisites are independently feasible, rather than just confident claims, and whether an ordinary temporary rescue mission is being conflated with durable removal. Keep the practical-travel phase and longer heavenly separation distinct.
+
+**Literal threshold review (historical semantic field):** One full feasible efficient durable-removal arrangement accepted with sustained relief/little attachment cost despite feasible contact preservation is adverse. Current strong resistance/attachment direction is supported, but does not authorize hiding initial acceptance or declaring all prerequisites validated by the later pursuit.
+
+**Producer original branch dispositions, preserved:** {"feasible_efficiency_promising_durable_core_removal": "not fully established", "particular_attachment": "strong adjacent direct evidence"}
+
+**Producer original strongest contrary/alternative, preserved:** The new efficient party makes the attachment contrast unusually strong, not merely a hypothetical claim that the old team is nicer. Aqua’s boredom and return preference and Kazuma’s costly pursuit are actual evidence of particular belonging. They still do not automatically supply duration and feasibility of the exact durable-reorganization proposal.
+
+**Producer original missingness and scope, preserved:** Missing a fully feasible proposal with independently credible sustained core-relationship removal; completed relocation is not required, but necessary prerequisite feasibility cannot be invented. Temporary mission absence and possible ultimate heaven return remain distinct.
+
+### MG05-J01 — PARTIAL
+
+Original proposals retained: producer **PARTIAL**; root **PARTIAL**; semantic **PARTIAL — semantic eligibility candidates only; no formal voice outcomes**. Frozen exact-record SHA256 `d9c2049710e6d305b0f7c4913732225fe96936be481b583f63ac973308ccd5e4`. Native route: Whole ten-member principal source; examples C2P0136–0251 viewpoint boundary; C3P0345–0380; C4P0245–0268; FP0403–0514.
+
+**Current postcomparison receiving reasoning:** Both complete formal sets are now sealed and comparison released. All185 original paired histories retain153main/adjacent plus32auxiliary,370windows and65overlap groups, with nine branch counts20/18/13/10/20/18/7/28/19. General specialist directions, same-content/continuity/sparse limits and actual adverse protector/dignity/service directions coexist. PV038/IV028/IV038/IV067 disputes remain attributable; no companion-only, name/pronoun, new-office, D02privacy or K04Aarousal floor is added. Actual role intensification and the strong storytelling/moral-service adverse alternatives remain; no professional/water/crisis-only floor is imposed. Complete register/§8 receiving is still pending; the local system-level PARTIAL is not a full V16–V17 formal outcome.
+
+**Current attributable source/provenance qualification:** The quoted first-person semantic statement about not seeing other lineages’ windows describes that reviewer’s initial source-only stage at07:22:48Z. Root subsequently reviewed all185 uncoded fixed-record metadata and froze windows before formal coding; root still has not opened formal values. The historical statement is not current root exposure.
+
+**Historical source-only semantic branch/chronology review:** Potential mappings from independently evidenced scenes: Megumin’s real-wizard rivalry C1P0194–0205 and card threat C3P0314–0322; her actual gift/contribution distress FP0399–0408 then gratitude/renewed specialist commitment0506–0514; Aqua’s adopted reservoir service FP0203 and audience intake0217–0219; Darkness’s protector interventions C3P0494–0506 and specific harassment objection C4P0473–0485; Kazuma’s initial household-priority restraint C3P0099–0105 and urgent resource planning FP0388–0447/0476–0491. Each needs a separately fixed role, speaker/addressee, actual onset versus intensification and comparable windows before outcome coding.
+
+**Historical semantic strongest supporting candidate:** Source gives meaningful care/dignity/rival/service state variation. Megumin’s final utterance combines direct gratitude and theatrical rank competition FP0508; neither half may be selectively removed to manufacture global softness. Darkness’s personal objections can be independently dignity-related without satisfying D02’s full private-event conjunction. Kazuma’s task-specific questioning/resource handoff is a candidate for urgent tactical care, not a mandatory quiet-soft register.
+
+**Historical semantic strongest contrary/alternative:** Keep weak/opposite possibilities: Aqua offers to leave after public service boasting FP0212–0219; prior baselines may already be practical rather than newly softened. Megumin remains accusatory in intimacy C3P0128 and competitive during gratitude FP0508. Aqua’s negative comparisons of Kazuma FP0068/0110/0175 may chiefly denigrate him, not legitimize her own divinity. No positive/negative morphological shortcut resolves pragmatic function. C4P0038 public exposure welcome is not removed just to preserve a dignity objection mapping.
+
+**Historical semantic missing conjunctions:** I have no formal fixed-window/voice-coding assignment and have not seen other lineages’ windows or codes. These are source anchors for later receiving, not new frozen windows or labels. Semantic role-setting words cannot themselves also count as successful surface evidence. Exact original source-first notes stay sealed; no speaker-acoustic or independent-trial inference is made.
+
+**Literal threshold review (historical semantic field):** At least2 full eligible adequate comparisons per mapping establish the repeated tendency; each one opposite remains adverse. Insufficient speech is NT, already active roles are intensification, post-outcome remapping invalidates fit. A positive mapping cannot erase another adverse one. No complete J01 code outcome is claimed at this source-only stage.
+
+**Producer original branch dispositions, preserved:** {"all_original_role_windows": "83 source-first original records sealed before exchange", "formal_language_outcomes": "UNASSIGNED_PENDING_ROOT_FIXED_UNION_AND_SEPARATE_CODING", "mapping_repetition_thresholds": "not yet evaluated"}
+
+**Producer original strongest contrary/alternative, preserved:** No language outcome or agreement has been inspected or assigned at this initial memo’s authored stage. Good-looking examples cannot be called confirmations before fixed-union coding. The original construction error corrected before seal remains attributable in its audit.
+
+**Producer original missingness and scope, preserved:** Root uncoded reconciliation/freeze, all formal assignments, both full seals and released comparison remain pending at this exact memo stage. Overlapping windows are not independent trials or a frequency experiment.
+
+### MG05-J02 — PARTIAL
+
+Original proposals retained: producer **PARTIAL**; root **PARTIAL**; semantic **PARTIAL — incomplete new tranche and no census assignment here**. Frozen exact-record SHA256 `7540c8d5a37d2db2856b21ca349ecd1b79e34eaa6759bfb9c5df996f418c908f`. Native route: All2844 principal slots; no excluded material.
+
+**Current postcomparison receiving reasoning:** The complete V16 local contribution is175whole premises from340original discoveries, all38soft-touched scopes retained. Both initial coarse histories give173clearL0–L2,1clearL3(U054),1MIXED(U083); conservative173–174/175.110literal fine agreements/65differences remain exact, without reliability/accuracy inference. The local lower bound exceeds half, but the frozen future denominator is V16–V17 and V17 remains closed. PARTIAL is therefore the local contribution, not a filled original forecast field or accepted whole-tranche result.
+
+**Current attributable source/provenance qualification:** The quoted claim that no new fixed union/denominator is available describes the semantic reviewer’s initial permitted source-only scope. Root has since frozen175 whole premises before coding. Paired code values and conservative bounds remain unopened/pending here; the complete V16–V17 tranche remains incomplete.
+
+**Historical source-only semantic branch/chronology review:** The approved principal V16 is completely read, but V17 remains closed. This reviewer has not constructed an additional humor census or inspected any other discovery/assignment set. The literal future denominator is the complete new V16–V17 principal tranche; a V16 contribution is not its closure.
+
+**Historical semantic strongest supporting candidate:** The source plainly supplies many comic situations, brief retorts, written/focalization misunderstandings and recurring callbacks. This observation is qualitative reading scope, not an L-class count or preselected portability result.
+
+**Historical semantic strongest contrary/alternative:** Short verbal jokes, ritual replies, proper-name errors, interlude shifts and soft/gag-amplified cases may not be discarded because expected portability seems high. Nor may the successful old pool pre-count the new source. No proposed majority can be accepted from long action sequences alone.
+
+**Historical semantic missing conjunctions:** No new fixed union, complete episode denominator, paired classifications or conservative bounds are available within this permitted private scope. No code values are assigned. Eligibility/boundaries must be fixed source-first before classifications, with genuinely new callback setup/response distinguished from nested same-premise material.
+
+**Literal threshold review (historical semantic field):** Completed nonempty census: C only if clear L0–L2>N/2; F if clear L0–L2+unresolved<=N/2, including resolved tie; AMB if unresolved changes majority; empty NT. Incomplete permits PARTIAL qualitative reporting only. This source-only proposal supplies no frequency/accuracy/reliability claim.
+
+**Producer original branch dispositions, preserved:** {"V16_original_discovery": "complete source-first uncoded175+2audit candidates=177", "fixed_eligible_denominator": "not root fixed yet", "L_classes_or_majority": "UNASSIGNED", "V16_V17_tranche": "incomplete; V17 closed"}
+
+**Producer original strongest contrary/alternative, preserved:** The earlier accepted V13–V15 488/496 lower bound is historical evidence, never an assigned V16 result. No portable majority can be inferred from apparent scene familiarity, discovery count, or preferred premise boundaries.
+
+**Producer original missingness and scope, preserved:** V17 and every excluded V16 member remain semantically closed. Local PARTIAL cannot become a tranche frequency claim before the complete separately authorized pool.
+
+### MG05-Y01 — CONFIRMED
+
+Original proposals retained: producer **CONFIRMED**; root **CONFIRMED**; semantic **CONFIRMED — accepted rescue role and actual useful participation**. Frozen exact-record SHA256 `b8a2a887455a9b91c73acd6d001bff4392012e1e83796341ca8c895124cf9749`. Native route: C1P0190–0215; I4P0006–0015; FP0127–0130/0204–0228; FP0087/0112/0159.
+
+**Current postcomparison receiving reasoning:** The accepted specific rescue invitation yields actual useful participation despite anxiety; refusal of indefinite membership is not refusal of the task. Separate invitation undertaking from dependent multiple actions. Keep burden anxiety, pressure negotiation, accident/release at the reservoir and stopped poison proposal. No spinoff evidence or absence-as-success is used.
+
+**Historical source-only semantic branch/chronology review:** Dust explicitly includes Yunyun in the Aqua rescue with recognized high-level wizard ability and a teleport contingency C1P0194/0197; she actually accepts0201. Mitsurugi invites her along0206 and she travels, while declining permanent membership0207–0208. I4P0006 specifically thanks her for rescue, and FP0159 reports her effective clearing of remaining monsters after Mitsurugi; reports are eligible because they identify role and actual participation. FP0087–0112 actual remote information contact and FP0127–0130 interposition/mediation are further useful familiar-role actions.
+
+**Historical semantic strongest supporting candidate:** She carries out the invited mission despite awkwardness and can directly protect Aqua against the pushy ally FP0127–0128. Her excitement about a communal crab party I4P0011–0015 is desire for company, but is not used as the only evidence of task participation.
+
+**Historical semantic strongest contrary/alternative:** She declines Mitsurugi’s permanent party0207, remains uneasy with him FP0141, and proposes waiting rather than endorse every mission choice0169. At the reservoir, she accidentally releases Aqua FP0223–0225 and proposes lethal monster removal0226 before villagers stop the poison consequence0227. These are real practical judgment/mishap limits; no completed bad cast is shown, and disagreement is not sustained indifferent refusal.
+
+**Historical semantic missing conjunctions:** FP0385 specifically identifying the refraction caster is Kazuma’s inference, so no full technical success is inferred solely from that disappearance. There is enough other reported/direct participation without it. Do not convert the accepted temporary rescue into permanent group membership or treat an imposed hug as consent.
+
+**Literal threshold review (historical semantic field):** At least2 genuine fitted invitations with indifferent refusal/poor participation free of documented limits would meet repeated disconfirmation. One adverse case survives. This source supports one clear undertaking with multiple useful actions, not extra independent invitation trials or unconditional availability.
+
+**Producer original branch dispositions, preserved:** {"explicit_inclusion_and_suitable_role": "present", "actual_participation": "present in direct and reported focal narrative", "anxiety_objections": "retained"}
+
+**Producer original strongest contrary/alternative, preserved:** I4P0003 names the sword-user’s group without specifying each spell; do not invent Yunyun’s exact cast there. Refraction FP0385 is Kazuma’s inference, not a quoted identified cast. Her unease with Mitsurugi’s firstname proposal141 and disagreement with haste remain real.
+
+**Producer original missingness and scope, preserved:** No unconditional availability or all-source secondary profile. Participation is mission-specific; permanent recruitment refusal is not an indifferent refusal of the same undertaking.
+
+### MG05-CE01 — NOT_TESTED
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **NOT_TESTED — no public cumulative burden with her own expressed limit**. Frozen exact-record SHA256 `eec89badc9410601b5f5fca582b4ed103b8400a41984cef6afe524d9cd31c8fc`. Native route: C3P0273–0275.
+
+**Current postcomparison receiving reasoning:** Chris/Eris is absent from a full request-response sequence. Reported workload and another person’s rigidity account do not establish her own stated limit, accumulating sincere requests, feasible exit and actual response. No absence-as-confirmation or inferred fatigue.
+
+**Historical source-only semantic branch/chronology review:** C3P0273–0275 says Chris is absent after anticipating busy work around the royal battle; Kazuma infers her real afterlife work. I1P0033 Aqua calls Eris rigid about lingering spirits. Neither supplies Chris/Eris’s directly expressed preferred load, actual accumulating sincere public requests and a feasible refused/accepted exit.
+
+**Historical semantic strongest supporting candidate:** Specialized duty and expected workload remain admitted contextual reports; they are not absent merely because the full forecast is NT.
+
+**Historical semantic strongest contrary/alternative:** No timely self-set boundary or comfortable refusal under the full conjunction is directly shown, so no adverse example is manufactured. Conversely presumed fatigue, busy divine work and another speaker’s allegation of rigidity cannot become over-compliance confirmation.
+
+**Historical semantic missing conjunctions:** Missing request accumulation, her stated preference, actual response sequence and refusal/exit opportunity. No reading of an excluded afterlife/bonus source is authorized to fill them.
+
+**Literal threshold review (historical semantic field):** Repeated means at least2 complete public overload/feasible-exit cases with comfortable autonomous self-limitation; any full successful boundary is adverse, never confirmation. No such case is exposed here.
+
+**Producer original branch dispositions, preserved:** {"cumulative_public_requests_beyond_own_preferred_burden": "absent"}
+
+**Producer original strongest contrary/alternative, preserved:** A foreseeable busy divine role does not establish sincere accumulated requests exceeding her own preferred load. No on-source Eris boundary or comfortable self-limit is relabeled as confirmation.
+
+**Producer original missingness and scope, preserved:** Chris/Eris is not directly shown undergoing the conjunction. No future off-page action inferred.
+
+### MG05-I01 — NOT_TESTED
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **NOT_TESTED — letter and reports do not provide direct paired contexts**. Frozen exact-record SHA256 `95903eb1efb343fcb4e47156edd975f6896e779efe301e82e34b532e8f4342ec`. Native route: C1P0286–0308.
+
+**Current postcomparison receiving reasoning:** Iris’s letter is genuine attributed speech evidence, but no directly shown new trusted peer setting versus constrained public contrast occurs. Praise wish/familial address do not replace the paired contexts. Possible deployment is another speaker’s forecast.
+
+**Historical source-only semantic branch/chronology review:** C1P0286–0300 contains Iris’s signed letter; P0307–0310 discusses possible royal deployment through Darkness/Megumin. Iris is not directly shown in a new safer nondeferential interaction and a comparable constrained public one.
+
+**Historical semantic strongest supporting candidate:** Her familial address, requested praise and expressed concern are real textual agency in a letter. They can inform relationships without becoming a directly observed role-contrast test.
+
+**Historical semantic strongest contrary/alternative:** No absence of curiosity or obedience under two direct contexts can be inferred from her lack of a scene. Megumin’s confident ‘underling’ characterization0310 is about Iris, not Iris’s own demonstrated response.
+
+**Historical semantic missing conjunctions:** Missing the directly shown trusted ordinary-peer setting and observed royal-surveillance comparison. Familiar letter address/honorifics cannot fill either.
+
+**Literal threshold review (historical semantic field):** At least2 full safe-versus-constrained contrasts without behavioral expansion would establish repeated disconfirmation; a letter cannot supply the comparison. Current full test NT.
+
+**Producer original branch dispositions, preserved:** {"direct_safe_non_deferential_vs_royal_surveillance_comparison": "absent"}
+
+**Producer original strongest contrary/alternative, preserved:** The affectionate brother address and competitive excitement are real but cannot substitute for the required directly observed comparison.
+
+**Producer original missingness and scope, preserved:** No direct Iris scene or new two-setting contrast. Prior V10/V11 supports remain historical, unchanged.
+
+### MG05-I02 — NOT_TESTED
+
+Original proposals retained: producer **NOT_TESTED**; root **NOT_TESTED**; semantic **NOT_TESTED — no understood conflicting wish/duty sequence**. Frozen exact-record SHA256 `de8330069ce5a10ed0c5e5f1acd7b6d8c50db97281a8cebecf030a36018c61ba`. Native route: C1P0286–0308.
+
+**Current postcomparison receiving reasoning:** Her letter’s expressed wish for praise and war concern are real; they do not establish a larger personally wished act understood to conflict with royal duty and then narrowed. No hidden wish, actual royal deployment or absence-based disconfirmation is invented.
+
+**Historical source-only semantic branch/chronology review:** The signed letter C1P0286–0300 expresses concern for Kazuma’s danger and a personal wish for his pride/praise after defeating the demon king’s daughter. The possible deployment C1P0308 is Darkness’s uncertain account. The letter does not show Iris treating a separately expressed larger personal wish as incompatible with an understood royal obligation, followed by a reduced request.
+
+**Historical semantic strongest supporting candidate:** Her own praise wish is directly expressed; the forecast does not require physical presence for every wish statement. Nonetheless that wish and public defense can align, so a role conflict cannot be inferred solely from royalty or battle.
+
+**Historical semantic strongest contrary/alternative:** Do not invent a hidden wish to avoid duty, see Kazuma in person or flee the kingdom, then call the letter a compromise. Nor interpret the lack of a narrated reduced request as an adverse unconstrained choice when the conflict itself is absent.
+
+**Historical semantic missing conjunctions:** Missing directly evidenced mutually conflicting personal wish and understood duty before the response, plus the actual narrowing/prioritization decision. No royal obligation or future outcome is imported from later fiction.
+
+**Literal threshold review (historical semantic field):** At least2 explicit understood conflicts prioritizing wish without meaningful conflict/self-limitation would establish repeated disconfirmation. Current source gives no complete case.
+
+**Producer original branch dispositions, preserved:** {"direct_personal_wish_and_understood_conflicting_royal_duty": "absent"}
+
+**Producer original strongest contrary/alternative, preserved:** Military duty, attachment and praise-seeking coexist. Their mere coexistence is not an unwanted duty or hidden curtailed wish. Kazuma’s later childhood recollection is his history, not new Iris evidence.
+
+**Producer original missingness and scope, preserved:** Missing direct conflicting wish/duty and a narrowed decision sequence; no later battle or royal outcome exposed.

@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V15
+scope: V01-V16
 ledger_role: relationship_state
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V15 main narrative
+source_boundary: Japanese main-series light novels through V16 principal narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Relationship State Ledger — Through V15
+# KONOSUBA Relationship State Ledger — Through V16
 
 ## Purpose
 
@@ -731,3 +731,33 @@ This additive CP05 update is accepted only through the [checkpoint receiving rev
 | RS-CP05-06 Household efficiency tradeoff | V15 C4P0176–0188 gives real institutional practical benefit; FP0192–0197/0235–0244 supplies contact-loss cost and a real quieter-household counterpreference. | H1 reported offer/private appraisal; proposed feasibility is unresolved. OPEN E02 exact conditional. | A move need not be completed, but its prerequisites must be feasible. Strong attachment alone cannot fill feasibility or make every member reject every separation. |
 
 No relationship is normalized into an interchangeable party role. These are main-principal states through V15, with no later-volume or supplemental knowledge filling the ending.
+
+
+**Root adoption of V16 principal evidence.** The following received payload is accepted at the scopes in [the V16 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V16_RECEIVING_REVIEW.md). Candidate/pending wording inside preserved proposal histories records their earlier authorship, not a continuing analytical blocker. Publication remains a separate gate.
+
+# V16 principal narrative update — chosen company and distributed agency
+
+This candidate is additive to the exact entering V15/CP05 state. It uses admitted MAIN-16 principal narrative only; source unit/member/paragraph conventions follow the V16 map. H1 acts and expressed appraisals, H2 comic amplification, reports and narrated causal inferences remain distinguished. Earlier romantic states, adverse local labels and frozen forecasts are unchanged.
+
+| Entry | Concrete relational evidence and knowledge | State / confidence / limit |
+|---|---|---|
+| RS-V16-01 Kazuma–Aqua: retrieval as particular commitment | Guild concern exposes bonds Kazuma had not mapped (C1P0061–0073). His initial resource-sensitive reluctance becomes actual training and provider recruitment (P0223–0249/0451–0475). In danger he wants familiar drinking, leisure and travel with her/the group (C2P0430). | STRENGTHEN practical attachment, HIGH action/MODERATE causal mixture. Neither Wiz’s romance gloss (C2P0432–0437) nor his preparation establishes a new reciprocal love declaration. |
+| RS-V16-02 Aqua–Kazuma: another good party is not the same company | Mitsurugi/Yunyun support genuinely efficient travel; Aqua finds it easier and boring, misses responsive correction, and names Kazuma’s problem-solving value (FP0154–0161/0183/0190–0194). Her alligator crisis elicits a direct call for absent Kazuma (P0235–0236). | PRESERVE particular dependence, HIGH own statements. No proof that useful substitutes are impossible or that she prefers every failure/abuse. |
+| RS-V16-03 Kazuma–Megumin: voluntary private advance | She invites the encounter, chooses the dress and actually kisses/embraces him; he pauses over the absent household, then desires continuation (C3P0047–0050/0065–0069/0095–0128). | STRENGTHEN particular reciprocal intimacy, HIGH acts. No completed sex, blanket consent, final exclusivity settlement or stable low-arousal state. |
+| RS-V16-04 Kazuma–Megumin: specialized material support | He checks repeated-fire feasibility, reveals predeparture Manatite, permits consumption and calls her strongest; she thanks/challenges him and embraces him (FP0434–0447/0467–0514). | STRENGTHEN recognition of her chosen capacity, HIGH actions. His earlier purchase and present authorization are different decisions; no uniquely pure motive, completed breach or financial recovery. |
+| RS-V16-05 Kazuma–Darkness: gift meaning and surviving affection | She values and protects the armor (C3P0018–0027/0226–0234), and his epilogue nonregret about retrieving her produces a shy response (EpP0007–0009). | PRESERVE particular trust/affection, HIGH local behavior. Megumin objects to their accidental flirtation (EpP0011); no final settled configuration or new reciprocal Kazuma love declaration. |
+| RS-V16-06 Megumin–Darkness: intrusion is not erased by rivalry | Darkness hides in the closet; Megumin identifies her before opening and Darkness accuses her of knowing during the encounter (C3P0130–0144). Kazuma’s ignorance differs from Megumin’s. | PRESERVE conflicting agency and privacy claims, HIGH staged discovery/MODERATE exact earlier knowledge. No certified equal ignorance, universal innocence or backdated consent to witnessing. |
+| RS-V16-07 Megumin–Darkness: care crosses competition | Darkness restrains stone throwing that reflects wounds and later holds Megumin while admitting her own attack-skill regret (C4P0298–0301; FP0407–0410). Gift-price teasing and hair pulling remain (FP0458–0466). | STRENGTHEN specific mutual contribution care, HIGH acts. Comfort is not proof that rivalry or boundaries vanished. C4 restraint/Heal is distinct from F embrace. |
+| RS-V16-08 Core ensemble: practical substitutes and ordinary loss | Wiz/Vanir teach and rescue; Mitsurugi/Aqua/Yunyun perform useful travel. Both Kazuma and Aqua find easy travel unsatisfying without the familiar interaction (C3P0329–0338; FP0154–0161). | PRESERVE useful distributed competence and particular-company preference, HIGH. OPEN any durable efficient reorganization conditional: a complete feasible long-term proposal is not established merely by temporary successful teams. |
+| RS-V16-09 Party’s future: direct questions have limited answers | Darkness values Aqua irrespective of god status, Megumin asks whether all can return, and Kazuma names home/friends/money/unfinished attachment as reasons to stay (C3P0364–0378). | PRESERVE articulated shared-life value, HIGH expressions. Kazuma’s private heaven answer (P0368–0369) is not spoken to them; no final postwar household or world-return settlement. |
+| RS-V16-10 Aqua–Anna/pets/Cecily: ordinary obligations affect route | Night stories and companions delay departure (I1), Cecily admits deliberate delay and receives forgiveness (I4P0033–0034). The intervening travel confusion and actual missed coach remain (I2P0004). | PRESERVE specific ordinary ties, HIGH local events. No universal sacred-work override or proof every delay was engineered by the same actor. |
+| RS-V16-11 Yunyun–group: inclusion is voluntary and bounded | She accepts the suited temporary trip, refuses permanent recruitment and later helps defend Aqua’s space while asking Mitsurugi to wait (C1P0194–0216; FP0127–0128/0169). | STRENGTHEN nonpassive membership, HIGH. Social anxiety/first-name refusal are not rejection of all company or failed mission work. |
+| RS-V16-12 Dust–Kazuma: useful exchange survives self-interest | Dust supplies a useful sword; Rin exposes his resale plan (C3P0250–0264). | PRESERVE reciprocal opportunism plus practical help, HIGH. No need to convert the loan into either pure friendship or wholly useless fraud. |
+| RS-V16-13 Wiz/Vanir–Kazuma: contract and constraint are real | Training needs specific providers; Vanir supplies safe Drain, provisions/navigation and commercial leverage; Wiz supplies force and emergency repairs (C2P0051–0134/0448–0454). | STRENGTHEN role-specific dependence, HIGH actions. Price inflation/fear feeding remain costs, and neither provider guarantees every whole-task outcome. |
+| RS-V16-14 Stella–Vanir: benefit without correct identity | Vanir kills the pursuing monster and sells supplies; Stella interprets his identity as godlike (C2P0219–0249). He leaves before her final prayer (P0243–0244 versus0249). | PRESERVE actual benefit/mistaken ontology distinction, HIGH source chronology. Final prayer is not proven heard by Vanir or an actual reciprocal divine relation. |
+| RS-V16-15 Kazuma–defeated enemies: mercy and power asymmetry | He refuses the surrendering vampire’s own cherished ring (C2P0537–0540), but participates in grave threats and forced conversion of captive Serena (C4P0383–0464). | PRESERVE selective restraint, HIGH acts. Former-enemy status does not make coercion consensual or his declared resolution hers: she contradicts “settled” at P0461. |
+| RS-V16-16 Axis group–Aqua/Serena: loyal protection can be abusive | Serena’s threat to Aqua changes the group’s behavior before formal identification; actual binding, tree-suspension/rope-pulling and threatened execution, together with sexualized threat, obtain information (C4P0245–0292/0383–0396). | STRENGTHEN particular loyalty and OPEN moral generalization, HIGH actions with H2 magnitude qualified. No completed sexual assault or verified Japan-afterlife escape mechanism. |
+| RS-V16-17 Darkness–Zesta: the person and controller matter | She refuses his harassment and proximity while distinguishing familiarity with Kazuma (C4P0476–0485). | PRESERVE specific boundaries, HIGH. Armor-associated fear change and voluntary pain prospects never supply universal consent. |
+| RS-V16-18 Final separation is not solved on page | Aqua opens the hole and enters, four allies follow, the hole rapidly reseals, and the group vanishes; Kazuma’s party remains outside preparing the resource plan (FP0374–0385/0434–0514; EpP0027). | PRESERVE ending uncertainty, HIGH displayed sequence. No reunion, extraction, king outcome or durable new household is admitted. |
+
+The knowledge map remains asymmetric: Kazuma does not initially know Darkness is hidden; Megumin has distinct knowledge; Stella does not know her savior’s identity; the villagers do not know Aqua’s accidental fall; Kazuma’s friends do not hear his private heaven answer; the reader learns the earlier purchase through a later explanation. None of these perspectives should be normalized into one omniscient ensemble mind.

@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V15
+scope: V01-V16
 ledger_role: competence_context
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V15 main narrative
+source_boundary: Japanese main-series light novels through V16 principal narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Competence-in-Context Ledger — Through V15
+# KONOSUBA Competence-in-Context Ledger — Through V16
 
 ## Governing rule
 
@@ -736,3 +736,35 @@ This additive CP05 update is accepted only through the [checkpoint receiving rev
 | CC-CP05-06 Megumin and Darkness | Practiced destructive power and actual costly interposition are strong; full safe-artillery geometry/resources/exit and exact grave-friendly-harm/build-burden tests remain incomplete. | PRESERVE strong observed capacities; OPEN guarded conjunctions. H1 action, H2 magnitude separately. | Technical execution, method selection, recovery and campaign objective are not one score. Pleasure does not erase defense, and defense does not supply immunity or sound judgment in every choice. |
 
 A provider is adequate only for a preidentified set of actual roles/resources/handoffs. A successful phase cannot retrospectively define its own adequacy for the entire problem; comparative dependence remains PARTIAL in the proposed checkpoint.
+
+
+**Root adoption of V16 principal evidence.** The following received payload is accepted at the scopes in [the V16 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V16_RECEIVING_REVIEW.md). Candidate/pending wording inside preserved proposal histories records their earlier authorship, not a continuing analytical blocker. Publication remains a separate gate.
+
+# V16 principal narrative update — capacity, readiness, phase and whole task
+
+The entries separate learned capacity, situational readiness, actual output, coordination and unresolved campaign completion. MAIN-16 principal only; all earlier ledger bytes and Gen05 forecasts remain unchanged. Shown action is H1 unless amplification is separately named; attributed estimates and narrator hypotheses are not promoted into performed operations.
+
+| ID / actor or team | Capacity and readiness conditions | Observed contribution / provider | Limit and claim transition |
+|---|---|---|---|
+| CC-V16-01 Kazuma at level one | Skills and luck survive, but ordinary strength/level and absent resurrection constrain frontline safety (C1P0223–0249). | Identifies stronger substitutes and a training alternative. | PRESERVE fit-sensitive reasoning, HIGH. Intelligence cannot supply missing body or resurrection. |
+| CC-V16-02 Reset/level providers | Retained points permit new loops; Wiz/Vanir supply power, Drain and foreknowledge (C1P0391–0394/0493; C2P0051–0058/0351). | Actual training/reset operations; Kazuma recruits/uses them. | STRENGTHEN distributed preparation, HIGH. Safe method is provider-dependent, not guaranteed by a lucky speech or private courage. |
+| CC-V16-03 Vanir live capture | Powerful target can injure him; capture differs from destruction (C2P0093–0112). | Wiz kills the dragon(P0094), then independently reanimates it(P0117–0123); Vanir’s own later arm reconstruction is distinct(P0214). | PRESERVE phase/provider specificity, HIGH. No omnipotent single-provider theorem. |
+| CC-V16-04 Wiz dungeon repair | High-output magic, undead/lich properties and danger protection exist. | Dragon kill, zombie method and emergency petrification actually change the situation (C2P0094–0121/0435–0454). | STRENGTHEN domain power, HIGH; purchasing and romance appraisals remain separate. Do not relocate C3’s Megumin screen/golem to this scene. |
+| CC-V16-05 Vanir provisions/workers | Navigation, supply acquisition and hired/summoned labor suit observed constraints (C2P0068–0080/0132/0451–0460). | Solves actual phases and collects commercial advantage. | PRESERVE competent self-interest, HIGH. A high fee is not proof no useful service occurred. |
+| CC-V16-06 Learned Teleport | Kazuma actually learns it before other desired advanced capacity (C2P0565–0570). | Two available casters support exact four-each/eight-person carriage arithmetic (FP0315). | STRENGTHEN tool expansion, HIGH. Range, cooldown and an unshown postbarrage regroup cannot be invented. |
+| CC-V16-07 Intermediate magic | Learned spells broaden available operations; low mana/class bonus persists (C3P0314/0428–0449). | Fireball and golem actually cast; weak effect and size are observed. | PRESERVE Gen05’s existing decomposed competence model; STRENGTHEN this acquisition/output distinction, HIGH. No accepted binary baseline is asserted. |
+| CC-V16-08 Evasion and aggro | Known evasive operation plus exposed Megumin and visible attacker. | Kazuma draws attention and actually avoids repeated attacks (C3P0470–0476). | STRENGTHEN useful fitted defense, HIGH. Later fatal-risk warning and Darkness’s rescue remain; not a whole solo win. |
+| CC-V16-09 Flash | Actual new visual spell; no prior test, target occupied by ally. | Kazuma blinds both opponent and himself, admits debut motive (C3P0522–0530). | DOWNGRADE readiness inference from learned ability; HIGH procedural error. Endurance or luck does not establish sound judgment in every choice. |
+| CC-V16-10 Darkness armor | High defense fits her role, while sentimental preservation delays wearing (C3P0226–0246). | Actual tackle/endurance protects party once present (P0494–0510). | PRESERVE bodily defense, REVISE readiness/deployment, HIGH. Fear/courage effect affects team offense (C4P0014–0021); curse/blessing ontology disputed. |
+| CC-V16-11 Megumin emergency retarget | Explosion available while drivers become exposed; mana permits one cast. | Changes target, saves threatened drivers in narrator’s causal account, knocks out allies (C3P0452–0459). | PRESERVE useful specialist response and collateral effects, HIGH acts/MODERATE exact high placement and counterfactual death. |
+| CC-V16-12 Efficient substitute party | Mitsurugi has real offensive force; Yunyun offers broad magic; Aqua supplies support. | Quick kills and efficient ordinary encounters are actually narrated (FP0065/0087/0112/0159). | STRENGTHEN bounded alternative-provider adequacy, HIGH. This does not test all castle phases or prove permanent household feasibility. |
+| CC-V16-13 Yunyun utility | Anxiety and first-name reluctance coexist with available magic and social agency. | Combat credit, physical screening and proposed wait are shown (FP0087/0112/0127–0128/0159/0169). | PRESERVE participation under ordinary anxiety, HIGH. Final disappearance is Kazuma’s Yunyun refraction guess (P0385), not a seen named cast. |
+| CC-V16-14 Aqua purification | Water domain is real; alligator fear changes willingness (FP0203–0219). | Actual accidental immersion produces clear water (P0225–0232). | PRESERVE capacity, REVISE motive/report, HIGH action. No voluntary self-sacrifice or failed domain execution. |
+| CC-V16-15 Aqua barrier opening | Sacred capability fits the local barrier; she is physically at the wall. | Opens a small hole and enters; allies follow, then the hole rapidly reseals (FP0372–0376). | STRENGTHEN bounded access operation, HIGH. Not a complete destruction demonstration or guarantee of what remains inside. |
+| CC-V16-16 Aqua art | Specific performance is actually successful; she values reaction and art identity (FP0190–0199). | Receives tips, declines professional retention and proposes donation. | PRESERVE useful noncombat output, HIGH. No completed donation or two later responsibility-chain opportunities are inferred. |
+| CC-V16-17 Zesta horse control and buff | Initial horses are uncontrolled despite Darkness’s directed bargain (C4P0149–0150); cult affinity is reported. | Zesta actually drives and later blesses (C4P0474; FP0322–0324). | PRESERVE bounded operational help, HIGH acts/MODERATE lightness attribution. Harassment remains a separate serious cost. |
+| CC-V16-18 Cecily support | Delay/confession precedes a real final blessing (I4P0033–0040). | Blessing actually performed at departure. | PRESERVE particular aid, HIGH. Earlier hindrance is neither erased nor proof no useful ability. |
+| CC-V16-19 Final resource plan | Regeneration, hostile supply and rapid-fire requirement are named; Megumin estimates fewer than twenty shots (FP0434–0447). | Highest-grade Manatite is shown, consumption authorized, one Explosion cast (FP0467–0491; EpP0027). | OPEN whole-task completion: estimate is not displayed barrage/breach. Friendly geometry, gatekeeper, return route and extraction unshown. |
+| CC-V16-20 Leadership limits | Kazuma supplies preparation, questions, resource selection and some repair; others independently supply force, warnings, control and comfort. | Darkness verbally interrupts the risky shot; Aqua opens a small barrier hole; Yunyun/Mitsurugi coordinate their travel; Wiz/Vanir rescue dungeon phases. | PRESERVE bounded integrator rather than necessary/exclusive commander, HIGH distributed acts. Other phase success does not prove the whole campaign and no full rescue completion is claimed. |
+
+A correct comparison must specify the task phase and observable answer. “Alternative party works” is supported for ordinary travel encounters; “all original members are dispensable everywhere” is not. “Kazuma learned magic” is supported; “he has acquired a mage’s output/body” is contradicted. “Megumin casts” is supported; the source’s evaluative strongest-mage ending is distinct from a mechanically complete castle outcome.

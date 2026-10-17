@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V15
+scope: V01-V16
 ledger_role: seriousness_override
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V15 main narrative
+source_boundary: Japanese main-series light novels through V16 principal narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Seriousness Override Ledger — Through V15
+# KONOSUBA Seriousness Override Ledger — Through V16
 
 ## Purpose
 
@@ -569,3 +569,29 @@ This additive CP05 update is accepted only through the [checkpoint receiving rev
 | SO-CP05-05 Particular care and dignity | Aqua exclusion changes Kazuma’s safety calculation; Wiz’s consent/trust changes Aqua’s willing choice; Darkness’s protection and dignity boundaries coexist with pleasure; Megumin’s care/contact limits are act-specific. | H1 choices, MODERATE exact private cause; observer pressure/inference retained. STRENGTHEN local competing-goal analysis without universal moral improvement. No later participation backdates consent to an initial imposition. |
 
 Seriousness is a change in active appraisal and selected response, not a promise that all comic scripts stop. The proposed checkpoint retains both stops and non-stops. H3/H4 cannot be used to erase actual refusal, injury, coercion or known adverse behavior merely because the outcome is inconvenient.
+
+
+**Root adoption of V16 principal evidence.** The following received payload is accepted at the scopes in [the V16 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V16_RECEIVING_REVIEW.md). Candidate/pending wording inside preserved proposal histories records their earlier authorship, not a continuing analytical blocker. Publication remains a separate gate.
+
+# V16 principal narrative update — grave stakes, continued comedy and selected care
+
+This additive MAIN-16 candidate retains the retired Gen03 sufficient tear-brake failure and all prior local adverse histories. It does not use crying, affection, arousal, comic tone or a favorable ending as a universal exemption. H1 identifies substantially literal choices; H2 discounts comic magnitude without deleting harm; H4 marks imagined nonliteral content rather than real event sequences.
+
+| Entry | Actual trigger and ordered response | Seriousness / confidence / bounded transition |
+|---|---|---|
+| SO-V16-01 No resurrection | Level-one Kazuma names absent recovery before declining danger (C1P0223–0249); a near axe strike later makes that absence immediate (C2P0421–0426). | PRESERVE conditional risk seriousness, H1/HIGH. Actual appreciation of Aqua coexists with irreverent comparison and ordinary-future wish (P0427/0430); jokes do not cancel danger. |
+| SO-V16-02 Permission to rest | The women allow his rest, followed by his own wish to help Aqua and concrete preparation (C1P0451–0475). | STRENGTHEN particular attachment competing with comfort, H1/HIGH action/MODERATE cause. No global duty rule or proof all later risk was initially reasonable. |
+| SO-V16-03 Intelligent helpless targets | Kazuma feels guilt while finishing disabled intelligent ogres (C2P0034–0045). | PRESERVE sympathy without a guaranteed stop, H1/HIGH. Serious discomfort can coexist with continued instrumental harm. |
+| SO-V16-04 Defeated owner’s dignity | Vampire removes/offers its own cherished ring, and Kazuma stops/refuses it (C2P0537–0540). | STRENGTHEN selected restraint, H1/HIGH. No false ring-stripping companion and no universal mercy or anti-looting principle. |
+| SO-V16-05 Fatal hit and comic final wish | Megumin names lethal danger; Kazuma negotiates/voices an absurd regret; Darkness actually tackles the ogre (C3P0482–0494). | PRESERVE real danger under farce, H1 consequence/H2 phrasing. Negotiation is not shown sufficient; the actual rescuer remains Darkness. |
+| SO-V16-06 Threat to Aqua changes the cult | Serena’s threat precedes Zesta’s blank changed manner and the actual capture/hanging threat (C4P0245–0292). | STRENGTHEN particular sacred loyalty, H1/HIGH. Written manner descriptions are not acoustic observations; serious loyalty is not a moral endorsement. |
+| SO-V16-07 Reflected injury fails as deterrence | Captors reject shared death as a deterrent while imagining a Japan-afterlife reward (C4P0302–0322). | PRESERVE serious coercion and belief-mediated risk, H1 refusal/H2 escalation/H4 fantasy. Their cosmology is not established fact. |
+| SO-V16-08 Coercion succeeds without becoming harmless | Sexualized threat visibly terrifies Serena and obtains capitulation (C4P0383–0396). Kazuma’s conditional help leads to forced conversion; she disputes his “settled” account (P0404–0462). | OPEN moral adequacy, H1/HIGH actions/distress. No completed sexual assault, but no conversion consent manufactured from lack of later resistance or from former-enemy status. |
+| SO-V16-09 Restraint differs from embrace | Darkness stops Megumin’s reflected stone injuries; Kazuma uses Heal (C4P0297–0301). Later Darkness actually embraces grieving Megumin and owns her own limitation (FP0407–0410). | STRENGTHEN concrete care, H1/HIGH. Keep both events separate; ordinary comfort need not fill a grave-harm forecasting conjunction. |
+| SO-V16-10 Armor changes a public-threat response | Darkness welcomes threatened Steal under item-associated fear/courage change, yet refuses Zesta’s particular harassment later (C4P0031–0040/0476–0485). | PRESERVE controller/meaning/state-specific boundary, H1 choices/H2 intensity, MODERATE item cause. No universal public-aversion or universal consent law. |
+| SO-V16-11 Contribution grief is self-owned | Losing access to Aqua precedes Megumin’s explicit narrow-build regret and Darkness’s attack-skill admission (FP0374–0410). | STRENGTHEN local contribution concern, H1/HIGH. Durable skill-policy revision is unshown; Kazuma’s stress interpretation is his hypothesis, not a replacement for their own words. |
+| SO-V16-12 Tears do not create the entire plan | Kazuma knows a costly option before Megumin cries (FP0392–0394/0400), asks technical questions later (P0434–0447), and reveals predeparture purchase (P0476) before current permission to consume (P0487–0491). | PRESERVE chronology and reject a sufficient-tear causal shortcut, H1/HIGH. No revival of retired Gen03 brake, no backdated purchase, no newly invented exemption to frozen predictions. |
+| SO-V16-13 Care and anger remain simultaneous | He names stress, vindication and Aqua as a target; Darkness objects; he proposes future earning, Megumin thanks/challenges him and embraces (FP0498–0514). | PRESERVE mixed motive, H1/HIGH expressions/MODERATE unique cause. Expensive help does not certify every intended target or all consequences as safe. |
+| SO-V16-14 Endpoint remains open | One final Explosion and a strongest-mage valuation close the principal text (EpP0027–0029). | OPEN actual barrage/breach/retrieval/extraction and finances, HIGH absence boundary. Narrative warmth or seriousness does not authorize later-volume completion. |
+
+Seriousness changes which appraisals govern a particular act; it does not remove existing preferences or turn every member into a consistently restrained protector. Genuine care, continued instrumental harm and real coercive power can occur in the same volume and must remain simultaneously modeled.

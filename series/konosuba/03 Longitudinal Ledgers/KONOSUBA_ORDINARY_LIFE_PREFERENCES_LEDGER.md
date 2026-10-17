@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V15
+scope: V01-V16
 ledger_role: ordinary_life_preferences
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V15 main narrative
+source_boundary: Japanese main-series light novels through V16 principal narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Ordinary-Life and Preferences Ledger — Through V15
+# KONOSUBA Ordinary-Life and Preferences Ledger — Through V16
 
 ## Purpose
 
@@ -612,3 +612,33 @@ This additive CP05 update is accepted only through the [checkpoint receiving rev
 | OL-CP05-04 Goal-linked resources and pets | V15 C4P0329–0332 hoarding appraisal,0369–0420 pet/level-potion use, EpP0052 savings/escort expectation have different access. | Hoarding does not mean never using an item; pet attachment does not prove species or combat utility. Darkness’s financial/escort expectation is a report, not an audited amount or completed purchase. | PRESERVE bounded material stakes and unilateral-resource costs; no new global thrift or pet strategy rule. |
 
 Ordinary disappointment is not automatically trivial because no one is injured. Conversely, one valued spectacle or material choice does not create a stable universal preference. Comic amplification is separately weighted; real chosen inconvenience, continued company and repeated routines remain explanatory evidence rather than decorative detail.
+
+
+**Root adoption of V16 principal evidence.** The following received payload is accepted at the scopes in [the V16 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V16_RECEIVING_REVIEW.md). Candidate/pending wording inside preserved proposal histories records their earlier authorship, not a continuing analytical blocker. Publication remains a separate gate.
+
+# V16 principal narrative update — ordinary value under changed cost
+
+These additive MAIN-16 records preserve ordinary motives as explanatory evidence without treating one scene as a universal ranking. Direct choices/expressed preferences are H1; comic intensity is H2; imagined futures remain thoughts or reports. No excluded/holdout or later-volume completion is used.
+
+| Entry | Concrete preference / locator | Supported state, confidence and boundary |
+|---|---|---|
+| OL-V16-01 Kazuma: wanted shared future | In near danger he wants to retrieve Aqua, drink, relax, play and travel together (C2P0430). | PRESERVE specific familiar-company/leisure value, H1/HIGH. Not a permanent leisure-over-duty priority; he performs training and costly preparation. |
+| OL-V16-02 Kazuma: household context for intimacy | He pauses because the shared house feels wrong without Aqua and wants familiar others around future life (C3P0095–0105). | STRENGTHEN particular domestic attachment, H1/HIGH local appraisal. Does not deny attraction, prove low arousal or settle all romantic boundaries. |
+| OL-V16-03 Kazuma: this-world life | Friends, home, money and unfinished personal attachment enter his expressed desire to stay (C3P0374–0378). | PRESERVE mixed ordinary stakes, H1/HIGH expression. His private heaven answer is not spoken to companions and no ultimate world-return choice is resolved. |
+| OL-V16-04 Kazuma: money still matters | Stable-life cost is recognized before resource authorization; most assets were spent before departure; later he permits consumption and proposes earning again (FP0392–0394/0476/0487–0504). | PRESERVE material security plus selected costly contribution, H1/HIGH. No timeless generosity, permanent poverty acceptance or actual financial recovery. |
+| OL-V16-05 Kazuma: no regret is particular | EpP0007 names no regret about retrieving Darkness and this expenditure; Darkness becomes shy. | STRENGTHEN specific relational value, H1/HIGH. Not proof every prior coercive tactic was approved or every future cost will be accepted. |
+| OL-V16-06 Aqua: company and responsiveness | Efficient travel is easier yet boring; she misses Kazuma’s reaction and names his problem-solving usefulness (FP0154–0161/0183/0190–0194). | STRENGTHEN specific social texture, H1/HIGH own appraisal. No universal taste for dangerous failure or demand for every abusive response. |
+| OL-V16-07 Aqua: inconvenience and missed event | Bath access, undead attention, stronger monsters and envy of the communal awakening event enter her regrets (FP0103–0118). | PRESERVE short-term comfort/social inclusion, H1/HIGH. These coexist with the older heaven-return goal; the new party’s competence is not thereby false. |
+| OL-V16-08 Aqua: art as chosen practice | Performs successfully, receives tips, refuses keeping professional pay and proposes charity (FP0195–0199). | PRESERVE bounded art value, H1/HIGH output/MODERATE stable income preference. No completed donation or general refusal to earn through performance. |
+| OL-V16-09 Aqua: storytelling and ordinary ties | Stays to tell a story at Anna’s request, attends pets and forgives Cecily’s delay (I1P0017–0044; I4P0034). | PRESERVE care with actual schedule cost, H1/HIGH scenes. No infinite service obligation or proof every delaying intervention was deliberate. |
+| OL-V16-10 Megumin: dress and private occasion | Chooses her best dress and invites a voluntary private moment (C3P0035/0047–0050/0065–0069). | PRESERVE specific self-presentation/affection, H1/HIGH. No broad sexual diagnosis, completed sex or universal event script. |
+| OL-V16-11 Megumin: gifts and their meaning | Requests a present, later denies expensive gifts are necessary, but shows pleasure and gratitude (C3P0029; FP0458–0466/0506–0508). | PRESERVE relationship-specific gift value, H1 acts/H2 teasing, MODERATE generalization. Her teasing about Darkness is not Darkness’s global confession or a theorem that money buys affection. |
+| OL-V16-12 Megumin: beloved performance and real cost | Explosion is chosen identity; she regrets contribution limits, then calls the final performance a lifetime culmination (FP0403–0408; EpP0018). | PRESERVE sincerity plus recognized cost, H1/HIGH. Resources change options, not the past regret; no completed respecialization or full barrage. |
+| OL-V16-13 Darkness: equipment as personal object | Thanks, embraces/polishes, carries rather than wears, worries about sweat and later care oil/name (C3P0018–0027/0226–0234/0497–0499; FP0286). | STRENGTHEN particular material attachment, H1 behavior/H2 intensity, HIGH local pattern. It has practical readiness cost; not merely an equipment statistic or universal obsession with all gifts. |
+| OL-V16-14 Darkness: controller and personal boundaries | Accepts pain/performance prospect, welcomes public Steal in item-associated state, yet rejects Zesta’s harassment (C4P0028/0038/0476–0485). | PRESERVE meaning-specific choice, H1/HIGH acts/MODERATE state cause. Likes humiliation is too coarse; no global consent or monotonic loss-of-control pleasure. |
+| OL-V16-15 Yunyun: wanted company | Crab-party attraction and anxious participation coexist (I4P0011–0015; FP0127–0141/0169). | PRESERVE particular inclusion and agency, H1/HIGH acts/MODERATE wider routine. No timeless absolute lack of friends or rejection of every unfamiliar person. |
+| OL-V16-16 Vanir: mundane integration | Cleans drains and receives useful clothes from a widow; Wiz envies local integration (C2P0073–0080). | PRESERVE bounded ordinary social ties, H1 report/MODERATE generalization. Does not erase predatory pricing or imply universal benevolence. |
+| OL-V16-17 Vampire: quiet retirement proposal | Defeated vampire imagines tomato-growing retirement and values its ring (C2P0498–0503/0537–0540). | OPEN proposed ordinary future, H1 wish/MODERATE stable profile. No completed retirement or reason to infer every demon is harmless. |
+| OL-V16-18 Village contact | Demon-kind/feeding/contact arrangements are reported (FP0293–0300). | PRESERVE represented ordinary coexistence as an attributed report; no independently observed diplomatic treaty, completed global peace or universal population motive. |
+
+A valued home can motivate risk, and an expensive resource can be spent without ceasing to be valued. A person can welcome one controlled prospect and refuse another person’s conduct. These observations support context-sensitive preference models, with no universal leisure, money, service or humiliation ranking added from a single comic episode.

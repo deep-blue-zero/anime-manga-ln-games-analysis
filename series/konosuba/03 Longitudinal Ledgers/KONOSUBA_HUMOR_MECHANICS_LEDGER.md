@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V15
+scope: V01-V16
 ledger_role: humor_mechanics
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V15 main narrative
+source_boundary: Japanese main-series light novels through V16 principal narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Humor Mechanics Ledger — Through V15
+# KONOSUBA Humor Mechanics Ledger — Through V16
 
 ## Core V01 mechanisms
 
@@ -1242,3 +1242,40 @@ The primary conservative portable interval is 488–495/496. Even placing all se
 Discovery provenance totals 962 descriptions/lineages:359 V13,314 V14 and289 V15. V14’s314 includes143 producer and171 independent originals, one independently nested (170 disjoint independent units before union); these are not314 disjoint episodes. The pooled 962 is not an independent-trial or episode denominator. Resumed interval fragments, nested descriptions and parallel reader descriptions are not added as successes. The fixed whole-premise denominator is 496.
 
 The counts are analytical classifications over principal evidence, not H1 psychological facts, audience response, translation quality, a population estimate or binomial reliability. H1–H4 still governs any separate behavioral inference from a comic event; nested Japanese form and cultural familiarity are distinct from the primary whole-premise L class. Shared source/model, collaborative uncoded boundary work, factual QA, separately sealed discovery/assignments and subsequent comparison remain disclosed. STRENGTHEN the descriptive portability bound with HIGH corpus-specific robustness; retain MODERATE confidence for a genuinely fresh future-tranche expectation. No V16/V17 classification exists.
+
+
+**Root adoption of V16 principal evidence.** The following received payload is accepted at the scopes in [the V16 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V16_RECEIVING_REVIEW.md). Candidate/pending wording inside preserved proposal histories records their earlier authorship, not a continuing analytical blocker. Publication remains a separate gate.
+
+# V16 principal update — whole-premise mechanisms and complete paired census
+
+This additive local candidate preserves all earlier accepted histories, Gen05/Gen04 frozen fields and original blank pairs. MAIN-16 principal only; final canonical adoption remains root-owned. The full discovery and coding histories are supporting evidence registers in this same ledger directory, not additional rolling state homes.
+
+### Complete fixed census, paired histories and limits
+
+The complete [V16 Humor Discovery Register](KONOSUBA_V16_HUMOR_DISCOVERY_REGISTER.md) retains all 340 original discoveries, every original scoped eligibility/soft/nested/cultural flag and all 175 disjoint whole-premise boundary operations. The [V16 Humor Coding Register](KONOSUBA_V16_HUMOR_CODING_REGISTER.md) retains both initial classes, full rationales and uncertainties for every unit. Discovery and voice originals were separately sealed before uncoded exchange; the 175-unit union was frozen before classification. Both complete formal assignment sets were sealed before comparison release at 2026-10-17T08:17:30.833809Z. Shared source/model, precode factual QA and collaborative boundary work remain disclosed; this is neither statistical independence nor a translation experiment.
+
+| V16-only view | Whole premises | Clear L0–L2 | Clear L3 | Mixed | Conservative portable interval |
+|---|---:|---:|---:|---:|---|
+| Main census, all soft scopes retained |175|173|1|1|173–174/175 (98.8571%–99.4286%)|
+| Broad removal of every soft-touched unit, diagnostic only |137|135|1|1|135–136/137 (98.5401%–99.2701%)|
+
+All 38 soft-touched whole units remain in the main denominator. Removing a touched unit also removes potentially nonsoft nested material; the broad sensitivity is not a revised eligibility rule. The 340 discoveries are provenance, not 340 disjoint jokes. Producer initial fine labels are 42 L0/97 L1/34 L2/1 L3/1 MIXED; independent labels are 29 L0/110 L1/34 L2/1 L3/1 MIXED. 110 exact fine labels match and 65 differ. Their shared coarse grouping does not make these fine disagreements disappear or establish reliability/accuracy. L1/L2 can depend strongly on wording, stance, address or cultural knowledge while remaining portable through an ordinary semantic/pragmatic equivalent.
+
+U16-054(C2P0356–0361) centers the move from deficient intelligence to a physically incomplete head in **頭が足りない**. The indispensable mental/physical ambiguity needs recreated wordplay or explanation, hence both original L3 assignments. That does not mean translation is impossible. U16-083(C3P0162–0168) retains both the Japanese script/same-reading **行く／逝く** opposition and portable pet-as-food/hell-hospitality mechanisms; both initial MIXED assignments remain. Neither component is discarded to make the whole premise fit a single attractive result. Nested forms such as the malformed command-plus-please in C4P0215 remain independently flagged even where the whole harassment premise is L2.
+
+The current source qualifications remain separate from the frozen rationale histories: the origin disclosure does not certify Vanir’s private intent; fivefold quoted price is not net profit; only Wiz promises the apparent child a cure; progress/sufficiency atC2P0374 is not an independently fixed numeric completion quota; minions address a present Vanir while complaining about earlier neglect; ring refusal precedes sentimental disclosure; the guild boast precedes actual teaching; and FP0051–0052 silences Kazuma and Megumin. Deterrent bargaining does not make the observed reflected bump unreal. No factual correction changes a class, boundary or denominator.
+
+The lower bound exceeds half of this175-unit contribution, but Gen05’s prospective tranche is V16–V17. V17 and its denominator remain unopened. J02 therefore remains PARTIAL locally, with the old V13–V15 pool and all prior local/checkpoint histories unchanged. A completed local census cannot pre-count later evidence or supply a final tranche judgment. Behavioral inferences still require H1–H4 weighting; an L classification is not a literal psychological fact, audience-response measurement or translation-quality score.
+
+## Source-weighted mechanism updates
+
+| Entry | Source/behavior and mechanism | H/access/confidence and transition |
+|---|---|---|
+| HM-V16-01 Uneven acquired power | C1P356–443; C2P522–578; C3P428–450/522–538: real retained-skill discovery meets separate class, mana, body and rehearsal limits; self-blame displacement follows admitted lack of practice. | H1 mechanics/choice plus H2 heroic inflation; HIGH local distinction; STRENGTHEN decomposition. |
+| HM-V16-02 Sentimental protection | C3P18–30/226–246/398–400/494–500: armor’s gift meaning obstructs timely wearing without deleting actual rescue/endurance. | H1 choices; H2 affective intensity; HIGH local; STRENGTHEN object-specific competing goals. |
+| HM-V16-03 State-sensitive deterrence | C4P31–40/476–485: public Steal welcome defeats one expected deterrent; stranger refusal still matters. | H1 contrast/self-report, altered-state cause partly inferred; MODERATE mechanism; PRESERVE contrary directions, OPEN stable implications. |
+| HM-V16-04 Reputation after accident | FP203–236/253–271: actual purification follows retreat and accidental fall; public sacrifice explanation is a later report. | H1 action/attributed report; HIGH chronology; STRENGTHEN intention/result/reputation separation. |
+| HM-V16-05 Service and leverage | C2P117–132/192–249; C4P284–464: useful provision and gratitude coexist with price leverage, actual tree suspension, fear and forced hierarchy. | H1 conduct/report plus H2 role parody; HIGH bounded acts; PRESERVE utility without moral acquittal. |
+| HM-V16-06 Particular responsive company | C3P325–380; FP154–199/400–514: efficient substitutes fail to reproduce familiar correction; real guilt and costly enablement retain teasing/rivalry. | H1 appraisals/actions, H2 performance; HIGH local preferences/MODERATE transfer; STRENGTHEN particular reward, OPEN downstream campaign. |
+
+L classes describe primary whole-premise portability, not a psychological H-class. The same comic scene can contain literal harm, exaggerated intensity and uncertain motive. All source corrections remain externally attributable; no final audience-response or translation-quality claim follows.

@@ -4,7 +4,7 @@ artifact_type: source_inventory
 scope: CURRENT_INGESTED_CORPUS
 generation: V1
 status: canonical
-source_boundary: 41 live EPUB witnesses reconciled at the 2026-10-16 inventory snapshot; main-series V01-V17 source-complete; principal main-series narrative analysis accepted through V15; unchanged Gen04 governs the still-open V13–V15 tranche; the separate checkpoint and Gen05 freeze follow the complete V15 publication gate, before V16 exposure
+source_boundary: 41 live EPUB identities fixed at the 2026-10-16 snapshot; main-series V01-V17 source-complete; principal narrative analysis accepted through V16 only; Gen05 frozen through V15 before V16 exposure; V17 requires the complete separate V16 publication gate; all nonprincipal and expanded components remain separately gated
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -154,3 +154,12 @@ These five books have image-only reading spines. Metadata-language checks and na
 ## 8. Update rule
 
 This inventory is mutable active infrastructure. Update it in place when source material is added, removed, replaced, or reclassified. Material changes must also propagate to the source lock, current-state map, and master Drive index.
+
+
+## V16 principal-component reconciliation — 2026-10-17
+
+The separate V15 gate closed on `f011d24aaaca31c95168ce05bed15ba1e9384056`; the V13–V15 checkpoint and main-only Gen05 freeze then completed their separate exact publication gate on `b4c4c61412e93f16a218dcacd9d700253f6aea19` at 2026-10-17T06:49:08.667886Z. This later reconciliation distinguishes the current published boundary from the historical pending wording of earlier authored receipts. Gen05 model/forecast bytes, all 25 original blank Outcome/Adjudication pairs, Gen04's original blanks and all earlier outcome histories remain preserved.
+
+MAIN-16 matches Drive `1IDfx2vWkl8YzSpVVsl6Q-oPj2a-FwcYs`, 8,530,869 bytes, SHA256 `7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1`. Japanese OPF/spine/navigation and exact principal components were checked before exposure. The admitted ordered C1/I1/C2/I2/C3/I3/C4/I4/F/Ep members are `item/xhtml/p-002.xhtml`–`p-011.xhtml`: 2,844 all-body paragraph slots, 2,657 nonempty, 111,788 base characters and 2,666 ruby occurrences. Full source reading, twelve-pass analysis, separate 25 local prediction records, ten current ledger responsibilities and bounded independent receiving are documented by the [V16 reading](../02%20Sequential%20Readings/KONOSUBA_V16_DEEP_READING.md) and [receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V16_RECEIVING_REVIEW.md). Those actual scopes, shared-evidence limits and externally attributable corrections govern the analytical acceptance; this source-register reconciliation is not another literary reading.
+
+Completion applies only to those ten principal members. Afterword p012 and bonus **アクセルの街の名物女神** beginning p014 remain IDENTIFIED_NOT_READ; its full extent is unresolved. Image wrapper p013 is structure-only/unviewed. `MAIN16-POSTBONUS-p015` contains 2,299 base characters detected mechanically but remains UNCLASSIFIED_NOT_READ, with no assumption of a separate story, continuation or colophon. All 28 image resources, front/end/colophon/promotional components remain uninspected. No entire-EPUB or expanded-program completion is claimed. V17 exposure requires the separate successful V16 publication/readback, source audit, housekeeping and final exact-head audit, followed by fresh source/entering-state admission. Holdouts and all supplemental/bonus/mixed narrative remain closed until the main-only reconstruction freeze and the applicable subsequent validation/expanded gates.

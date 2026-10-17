@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V15
+scope: V01-V16
 ledger_role: narrator_perspective
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V15 main narrative; Kazuma first-person narration
+source_boundary: Japanese main-series light novels through V16 principal narrative; Kazuma narration distinguished from Aqua and Stella focalization, reports and inferred motives
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Kazuma Narrator Ledger — Through V15
+# KONOSUBA Kazuma Narrator Ledger — Through V16
 
 ## Purpose
 
@@ -652,3 +652,39 @@ This additive CP05 update is accepted only through the [checkpoint receiving rev
 | N-CP05-05 Ending document and future limit | V15 EpP0025–0065 presents Aqua’s allegations, declared aim and erased find-me request; Kazuma’s immediate pursuit intention is shown. | No audited follower census, actual escort purchase, writing/erasure process, completed route/search or reunion is established. Apparent directness of quoted correspondence is not unlimited access. | PRESERVE document attribution and ending unknowns, HIGH. |
 
 A correct observation can accompany hostile framing or self-exoneration. Narrator fallibility is proposition-specific; it does not authorize discarding the world or treating every first-person explanation as fact. These CP notes add no new raw source, hidden memory or later narrative.
+
+
+**Root adoption of V16 principal evidence.** The following received payload is accepted at the scopes in [the V16 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V16_RECEIVING_REVIEW.md). Candidate/pending wording inside preserved proposal histories records their earlier authorship, not a continuing analytical blocker. Publication remains a separate gate.
+
+# V16 principal narrative update — event time, access and causal credit
+
+This additive candidate preserves proposition-specific fallibility. MAIN-16 is fully read in order, but no excluded/future body is used. C1/C3/C4 and parts of C2/F use Kazuma; interludes and a long F passage use Aqua; Stella receives a bounded C2 focal passage. Direct representation of a thought establishes that appraisal, not automatic truth about its object. H1 actual acts/reports, H2 rhetoric and H4 imagined content are distinguished below.
+
+| Entry / source | What is actually established | Attributed or unsupported upgrade to avoid |
+|---|---|---|
+| N-V16-01 Guild concern, C1P0061–0073 | Many people know/worry about Aqua; Kazuma is surprised. | Their bonds did not necessarily originate now, and his earlier social map was incomplete. PRESERVE limited access, HIGH. |
+| N-V16-02 Town levels, C1P0099–0122 | Levels/cards and voiced patriotic explanations are represented; Kazuma recognizes service regulars. | His self-interest explanation is plausible, not a certified census of every resident’s motive. H1 facts/H2 rhetoric, MODERATE unique cause. |
+| N-V16-03 Risk and later labor, C1P0223–0249/0451–0475 | Initial bodily/recovery limits and later actual preparation are both real. | Later effort does not prove the first facts false or that he always secretly intended the same method. PRESERVE ordered appraisal, HIGH. |
+| N-V16-04 Aqua travel account, I1/I2/I3/I4 | Regret, directions, delayed departure and actual missed coach are source evidence; Cecily later admits specific delay. | Aqua’s initial belief that everyone conspires to stop her is not omniscient intent attribution. H1 events and own appraisals, MODERATE general cause. |
+| N-V16-05 Stella’s savior, C2P0219–0249 | Actual rescue/sale of supplies; initial gratitude with Vanir present; final prayer after his exit. | God identity and divine humility are her errors. Final thanks are not proven heard by absent Vanir. HIGH source order. |
+| N-V16-06 Amaryllis, C2P0283–0329 | Wiz/Kazuma believe the story; Kazuma adds an abandonment inference; speaker later admits lying. | Sincere initial pity cannot authenticate the biography. REVISE the local belief, HIGH explicit contradiction. |
+| N-V16-07 Near death and romance, C2P0421–0438 | Real near axe strike; Kazuma names shared ordinary future; Wiz interprets romance. | Her interpretation is not a settled Kazuma–Aqua love declaration, and no death/resurrection occurs. H1 action/report, HIGH distinction. |
+| N-V16-08 Ring, C2P0537–0544 | Owner vampire removes/offers the ring, Kazuma stops/refuses, Wiz later covets. | No companion strips it; preserve recipient/actor specificity even where original metadata differed. HIGH native wording. |
+| N-V16-09 Hidden witness, C3P0130–0144 | Kazuma discovers Darkness; Megumin identifies the closet before opening and is accused of earlier knowledge. | Equal ignorance is unsupported; exact earlier Megumin knowledge timing is not independently narrated. PRESERVE asymmetry, HIGH discovery/MODERATE earlier timing. |
+| N-V16-10 Apparition, C3P0157–0160 | Kazuma represents seeing a girl briefly, then not finding her on looking again. | Noble-ghost identity and cause in religious exposure are his guesses; not independently confirmed ontology. OPEN specific identity, MODERATE. |
+| N-V16-11 Protagonist and victory, C3P0181–0216 | He boasts, fights, ends down, claims victory; witnesses qualify that claim. | Self-ranking is not measured comparative capacity. H1 posture/H2 triumph frame; REVISE credit, HIGH contrast. |
+| N-V16-12 Rescue cast, C3P0452–0459 | Driver cries/look/retarget and allied knockouts are shown. | High placement is Kazuma’s hedged explanation (P0457); counterfactual death is his causal judgment, not an observed alternative timeline. HIGH acts/MODERATE mechanism. |
+| N-V16-13 Flash, C3P0528–0537 | He is blinded, admits no test, infers the finish, then blames Aqua. | No fully seen finishing blow or sufficient Aqua-causation explanation. PRESERVE useful admission plus self-exemption, HIGH. |
+| N-V16-14 Armor, C4P0010–0021 | Practical courage/fear and deployment changes are described; characters dispute curse/blessing. | Do not independently certify item ontology or general moral improvement. H1 changes/attributed cause, MODERATE mechanism. |
+| N-V16-15 Horses and stones, C4P0149–0150/0297–0301 | Darkness directly addresses horses without demonstrated comprehension; later restrains stone throwing while Kazuma heals Megumin. | Horses are directed addressees; no verbal response. No calming embrace in the stone window; that belongs to FP0407/0409. HIGH native actors. |
+| N-V16-16 Captive intelligence, C4P0334–0347/0408–0417 | Serena states gatekeeper and king mechanics under coercion. | No actual gatekeeper test, unlimited supply experiment, king-current buff verification or completed daughter defeat. PRESERVE attributed report, HIGH source class/MODERATE world claim. |
+| N-V16-17 Afterlife and resolution, C4P0302–0322/0460–0464 | Captors imagine desired Japan; Kazuma calls the resolution settled, Serena denies it. | Fantasy is not cosmology; imposed penance is not completed or consensual service. H1 refusal/H4 fantasy, HIGH distinction. |
+| N-V16-18 Aqua mission, FP0103–0136/0170 | Aqua privately wants return before Mitsurugi’s account; she does not remember departing for his stated grand reason. His speech combines war urgency and rivalry. | No uniquely altruistic/jealous cause, no return wish created by refusal, no absence of all care. HIGH own sequence/MODERATE unique cause. |
+| N-V16-19 Pond hagiography, FP0219–0236 versus0253–0270 | Aqua retreats, falls accidentally and purifies; villagers praise voluntary sacrifice afterward. | Correct useful result does not authenticate their causal story. REVISE motive attribution, HIGH direct contradiction. |
+| N-V16-20 Missing underwear, FP0330–0331 | Owners discover absence. Zesta’s guilt is strongly invited by context. | No witnessed theft act, guaranteed method or global profile. PRESERVE observed loss, OPEN exact act, MODERATE inference. |
+| N-V16-21 Vanishing party, FP0384–0385 | The party disappears after entry. | Yunyun’s refraction spell is Kazuma’s guess, not a directly seen named cast. HIGH event/MODERATE mechanism. |
+| N-V16-22 Build tears, FP0403–0421 | Megumin states her contribution failure; Darkness gives comfort/admission; Kazuma thinks their drama premature and suspects stress. | His hypothesis cannot overwrite their directly represented reasons or uniquely explain their tears. PRESERVE plural minds, HIGH expressions/MODERATE causes. |
+| N-V16-23 Late purchase disclosure, FP0392–0394/0476 | Costly option already known; later explanation says purchase before departure. | Explanation time is not purchase time. No purchase newly caused by tears or new reward event at disclosure. REVISE event/explanation confusion, HIGH chronology. |
+| N-V16-24 Final valuation, EpP0027–0029 | One Explosion is displayed; narrator awards strongest-mage status. | Retain actual evaluative closure separately from full barrage, barrier failure, gatekeeper, king, reunion or extraction, all unshown. PRESERVE both valuation and event limits, HIGH. |
+
+The narrator can be accurate in observation and biased in total credit. His ordinary future, care, irritation, grand self-image and useful constraint diagnosis coexist. The same discipline applies to Aqua’s self-importance and Stella’s religious misreading: perspective is indexed by proposition, not globally discarded because a comic speaker errs elsewhere.
