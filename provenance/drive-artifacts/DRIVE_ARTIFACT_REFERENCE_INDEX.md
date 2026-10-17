@@ -774,3 +774,13 @@ The authorized Drive metadata check supplied for this repair (2026-10-17 at 19:3
 | `SHUUKURA_V2_KSS01_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1BwKE9IGEw-MC0-J2bUzTG1t6eeY8zCSL` | `application/zip` / 61843 | `fb14022272c72fcfe74ab2c73deb8e9a680f9ffcb69026083f4aed3f1e139ca1` | 20 | [KSS01 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/28f178a21cd0b68158f7d5fbb14cf56f528ab96b/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_01_TRANSACTION_AUDIT.md#L36) |
 
 This additive reference entry preserves prior index content and historical migration dispositions. It does not confer semantic acceptance, source admission or authority promotion; the analytical records and their separate review obligations remain governing.
+
+### KSS02 retained evidence reference - 2026-10-17
+
+An additional `REFERENCE_DRIVE` ZIP is cited in published source commit `da0ed6b45dfe429a12505cc5a0f11bb31171e007`. The authorized provider metadata check supplied for this repair (2026-10-17 at 20:12 UTC) matched the exact filename, stable ID, `application/zip` MIME type, byte size and returned parent ID below. No checksum or revision was returned. The SHA-256 value and member count remain producer-recorded, independently unverified claims from the pinned Git record.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_KSS02_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1N421XTKAnNizVpBri2Q-HpYGEUtrmCF1` | `application/zip` / 78212 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `2cb49638bcf4eb3d957d8f5ba80fd863a7214c9e57075961bbf75e416dc2aa4a` | 22 | [KSS02 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/da0ed6b45dfe429a12505cc5a0f11bb31171e007/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_02_TRANSACTION_AUDIT.md#L38) |
+
+Git retains analytical interpretation authority; this ZIP remains Drive-only evidence. This metadata-only addition grants no semantic acceptance, source admission or authority promotion and preserves the prior three entries and all earlier index content.
