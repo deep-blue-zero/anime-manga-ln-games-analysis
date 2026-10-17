@@ -174,8 +174,11 @@ class PhaseValidationTests(unittest.TestCase):
         shuukura = next(
             row for row in registry["series"] if row["series_id"] == "shuukura"
         )
-        self.assertEqual(shuukura["canonical_entrypoint_status"], "MISSING")
-        self.assertIsNone(shuukura["canonical_entrypoint"])
+        self.assertEqual(shuukura["canonical_entrypoint_status"], "PRESENT_VERIFIED")
+        self.assertEqual(
+            shuukura["canonical_entrypoint"],
+            "series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md",
+        )
 
     def test_series_registry_rejects_an_untracked_verified_entrypoint(self) -> None:
         snapshot = self.replace_series_registry(
@@ -250,6 +253,7 @@ class PhaseValidationTests(unittest.TestCase):
             shuukura = next(
                 row for row in registry["series"] if row["series_id"] == "shuukura"
             )
+            shuukura["canonical_entrypoint_status"] = "MISSING"
             shuukura["canonical_entrypoint"] = (
                 "series/shuukura/90 Legacy and Superseded/V1 Historical Analysis/"
                 "00_README_AND_CORPUS_MAP.md"
