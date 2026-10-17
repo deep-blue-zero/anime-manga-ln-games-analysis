@@ -804,3 +804,26 @@ An additional `REFERENCE_DRIVE` ZIP is cited in published source commit `9e81ac8
 | `SHUUKURA_V2_KSS04_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1XNNlrDaGiR3LoTon3ZBGFNVdhsKx7uNe` | `application/zip` / 89516 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `1b9f68034ffab39a5abad7a4e6db68ad7fefd36d28b99750bb280d99a7229cda` | 22 | [KSS04 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_04_TRANSACTION_AUDIT.md#L48) |
 
 Git retains analytical interpretation authority; this ZIP remains Drive-only evidence. This metadata-only addition grants no semantic acceptance, source admission or authority promotion and preserves the prior five entries and all earlier index content.
+
+### KSS05 retained evidence references - 2026-10-17
+
+These two additional `REFERENCE_DRIVE` ZIPs are cited in published source commit `8fd720135c078b43873797d9d207da76672a8c17`. The authorized provider metadata check supplied for this repair (2026-10-17 at 22:10 UTC) matched each exact filename, stable ID, `application/zip` MIME type, byte size and returned parent ID below. No checksum or revision was returned. SHA-256 values and member counts remain producer-recorded, independently unverified claims from the pinned Git records.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_KSS05_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1dS5RjfMecaJajSjoCY5XY5y5rFUfh-LG` | `application/zip` / 64365 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `6c29c6fbb4221405ba582e634551d330ef8fc77ef8512f236ea511a8dd70d5f9` | 24 | [KSS05 locator/source evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/8fd720135c078b43873797d9d207da76672a8c17/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_05_TRANSACTION_AUDIT.md#L44) |
+| `SHUUKURA_V2_KSS05_CLAIM_ROUTING_CORRECTION_EVIDENCE_20261017_A1.zip` | `1jPfqrZ-YBItGzDXZb4idOJ_-OH4vAZbf` | `application/zip` / 28459 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `08662e0d6c186bcd3a68fc026a8fbe3fd3320565ff19c301a9d651ef9001a53b` | 4 | [KSS05 claim-routing correction evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/8fd720135c078b43873797d9d207da76672a8c17/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_05_TRANSACTION_AUDIT.md#L60) |
+
+Git interpretation and Drive evidence roles remain unchanged. This metadata-only addition preserves the six earlier entries and all prior index content and grants no semantic acceptance, source admission or authority promotion.
+
+## Genocidal Organ targeted source-verification proof reference - 2026-10-17
+
+At this indexing checkpoint, [PR215](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/215) is draft and unmerged on `series/genocidal-organ`; both Git records below are pinned to its published source commit `00d9c7a7e7c5f5793ac14148a2280b32f0191494`. This entry imports no PR215 analytical changes.
+
+Supplied provider metadata identifies the exact JSON filename, stable ID, MIME type, byte size and parent below, with observed `shared=false`. The supplied independent reviewer downloaded the neutral proof JSON and reproduced its SHA-256. That authenticates proof identity only; underlying-source reproduction and semantics are not certified by this index repair.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Observed shared | SHA-256 reproduced by independent reviewer (proof identity only) | Pinned Git records |
+| --- | --- | --- | --- | --- | --- | --- |
+| `GO_G2_TARGETED_ADMITTED_SOURCE_VERIFICATION_20261017_V1.json` | `1kxfJWUKuyqB4AttSuUnWUsT2_Jp1c5RX` | `application/json` / 67596 | `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3` | `false` | `492b89465d69d1be0a94d5a6851567716fc4a47adc99cdb2e3220e4d03d830af` | [Source/scope map record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/00d9c7a7e7c5f5793ac14148a2280b32f0191494/series/genocidal-organ/00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md#L529); [Execution receipt record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/00d9c7a7e7c5f5793ac14148a2280b32f0191494/series/genocidal-organ/07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_CONTINUATION_EXECUTION_RECEIPT.md#L617) |
+
+The proof remains `REFERENCE_DRIVE`. This metadata-only entry preserves all previous index content and grants no source admission, semantic acceptance or authority promotion. Source-branch publication and proof identity verification remain separate from analytical integration.
