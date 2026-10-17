@@ -40,10 +40,10 @@ The current map's three legacy artifact hashes are historical Drive-export hashe
 |---|---|---|
 | 1 / foundation (approximately 25%) | governing metadata, bounded architecture amendment, reconstruction contract, honest interim routing | Published `e9d4b3e4bd07c236387fb2f3e4464e461fd0ab6e`; author preflight and explicit legacy-route check passed; source audit 38987985062, housekeeping 38988296530, exact-head integration audit 38988327029 passed |
 | 2 / core extraction (approximately 50%) | five substantive ledgers, 50 observation records, targeted verification and checkpoint chronology | Published `30d70c78e9b3b15d529adb18c1e0ba88fb90fc63`; author preflight, links, evidence joins, preservation and remote-tree readback pass; source audit 38989565824, housekeeping 38989958645, exact-head integration audit 38989987765 passed |
-| 3 / evidence and sources (approximately 75%) | reconciled acquisition/quality records; V16 restrictions; V17 replacement chain; V18 admission; V19 gap | Prepared; validation/publication pending |
-| 4 / handoff (100%) | cross-artifact audit, final counts, final current map, exact-head validation/publication | Pending |
+| 3 / evidence and sources (approximately 75%) | reconciled acquisition/quality records; V16 restrictions; V17 replacement chain; V18 admission; V19 gap; corrected verification provenance | Published `96c35a4322016dee13d43e979d3d10b6ff3ef2bc`; author preflight passed (7,941 paths); full remote tree and nine changed paths read back |
+| 4 / handoff (100% authored scope) | final current map, cross-artifact acceptance, explicit continuation conditions and integration obligations | This handoff snapshot; final commit identity and source/housekeeping/exact-head receipts are recorded in PR #191 after publication, avoiding a self-referential commit hash |
 
-Percentages label completed deliverable batches, not estimated reading effort. A partial milestone is not repair completion. The PR remains draft while substantive work is incomplete. Each publication requires source audit, housekeeping completion, and final exact-head integration audit before the next push.
+Percentages label completed deliverable batches, not estimated reading effort. A partial milestone is not repair completion. The PR remains draft while substantive work is incomplete and is released only after the final published head’s validation sequence succeeds. Each publication requires source audit, housekeeping completion, and final exact-head integration audit before the next push. Protected integration and its explicit post-merge audit remain a separate completion obligation.
 
 ## Preservation and ownership
 
@@ -51,9 +51,9 @@ Frozen readings, five checkpoints, and the nine original Phase 0 files are not e
 
 Stable-branch publication uses approved owner author/committer identity, exact-path staging, fresh main/source heads, ordinary non-forced pushes, and the protected integration route. Live rulesets `25199066` and `21946617` were read: active main audit/linear-history/deletion/non-fast-forward protection; protected activation tags; no bypass actors. Protected integration and post-merge main audit are separate from branch publication.
 
-## Open work at milestone 1
+## Historical milestone-1 open work (subsequently resolved)
 
-Core ledger extraction, scene verification, source technical audit, current inventory, and final cross-artifact validation remain pending. No primary-verification count or readiness-complete claim is made at this stage. V16 has not been analyzed.
+At milestone 1, core extraction, scene verification, source technical audit, current inventory and final cross-artifact validation were pending. Later milestones complete the bounded authored scope described below. This historical note is not the current task queue. V16 has not been analyzed.
 
 ## ER-001 — V15 camping-advice speaker correction (PRIMARY_VERIFIED)
 
@@ -87,6 +87,45 @@ Current inventory, manifest and quality/locator notes preserve the nine Phase 0 
 
 V16 retains its existing quality flag. Five bottom-strip samples corroborate the corner watermarks; raw0079/raw0131 are byte-identical non-story ads. Only quality strips and the ad were visually inspected, not prospective story scenes. V19 release (2026-10-09) was checked against Houbunsha; the complete 32-entry root and one-entry archive readback contain no V19. Supplement hashes remain explicitly reported from ingestion/Phase 0, not falsely freshly rehashed. No later-volume narrative or marketing plot information enters the V01–V15 evidence lane.
 
-The first source-batch preflight correctly rejected direct Google Drive URLs in the new inventory under the publication policy. The remedy preserves acquisition record IDs and verified facts while routing readers to the repository-relative current manifest; no global rule or exception was changed. Publication awaits a clean rerun.
+The first source-batch preflight correctly rejected direct Google Drive URLs in the new inventory under the publication policy. The remedy preserves acquisition record IDs and verified facts while routing readers to the repository-relative current manifest; no global rule or exception was changed. Clean reruns, including the final corrected source-batch index, passed with 7,941 paths before publication.
 
 A final V14 raw0075–0078 check sharpened E14-01/CS31/RS26/CM27: Aoi’s compatibility uncertainty is internal; she withholds an uncertain repair and arranges teacher truck pickup. The new ledgers distinguish private thought from information disclosed to Mei and transport help from technical repair. Counts and source boundaries are unchanged.
+
+## Final authored acceptance and verification
+
+The repair changes 15 series-local paths: 11 new artifacts and four maintained documents. New artifacts are the reconstruction specification, five core ledgers, three current source records, this audit and the frozen-artifact preservation manifest. Maintained documents are the current-state map, method, synthesis architecture and geography amendment. No competing entrypoint or project generation is introduced.
+
+| Responsibility | Result and limit |
+| --- | --- |
+| Governing authority | Method, architecture, amendment and reconstruction procedure have current-eligible structured metadata. The explicit legacy-continuation check now succeeds; no new-project lock is fabricated. |
+| Reconstruction contract | Complete as a procedural specification for Rin, Nadeshiko, Aoi, Chiaki, Ena, Mei, Ema and individually evidenced supporting subjects; every subject remains unassessed for reconstruction readiness. |
+| Core evidence | All V01–V15 covered; 50 unique observations, 28 primary-verified and 22 extracted; 16 revisions; no unresolved attribution conflict. The 25 Japanese voice rows are bounded verified samples, not a validated complete voice model. |
+| Chronology | V03/V06/V09/V12/V15 states separately reconstructed; later Aoi cycling and cohort knowledge cannot enter earlier states. Retrospective consolidation dates remain explicit. |
+| Historical preservation | All 15 readings, five checkpoints and nine Phase 0 files retain their base bytes and Git blobs. ER-001/002 govern present reuse without rewriting those freezes. |
+| Source continuity | 18 preferred main objects, one archived replacement and ten separately classified supplements; V16 quality restrictions, upgraded V17, available V18 and published/unacquired V19 correctly routed. |
+| Scope | No V16 reading, V16–V18 checkpoint, reconstruction simulation, global capability grade, final-series synthesis or excluded source file is authored. |
+
+The staged-index author gate is:
+
+```sh
+python tools/validate_repository.py --phase current --snapshot index --routing-preflight series/yuru-camp --repo .
+git diff --cached --check
+```
+
+The environment used the repository’s hash-locked validation dependencies through `PYTHONPATH`; no dependency or validator files were changed. Foundation, core-ledger and corrected source batches passed author preflight. The final handoff must pass the same gate before publication. Separate scoped checks verify: all changed paths remain inside this root; all relative Markdown file routes resolve; all 29 frozen hashes/blobs match; 50 unique evidence IDs and every derived reference/status agree; all 16 claim transitions exist; preferred V01–V18 identities are unique; V19 has no fabricated object; supplementary admission is false; and all 332 preferred EPUB spine/image joins resolve. These checks establish structural consistency, not independent literary validation of extracted observations. The explicit `_validate_legacy_architecture_route` test establishes authority routing rather than relying on filenames.
+
+Exact published heads, full-tree equality, approved author/committer identity, both remote refs and the live main/tag rulesets are checked at every publication. The final head and its actual source-audit, housekeeping and integration-audit receipts are maintained in [PR #191](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/191). A future reader should read that live receipt rather than infer an integration result from this pre-integration file.
+
+## Remaining repository integration obligation
+
+**Affected operation:** protected integration of `series/yuru-camp` / PR #191 into `main`, followed by the explicit exact-main audit. This does not affect the accepted V15 boundary or introduce an unresolved literary-source conflict, but the Git transaction is not closed until that audit succeeds.
+
+**Governing rule:** `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` stable analytical publication sequence and `governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md`. Source audit → housekeeping → trusted exact-head integration audit must finish before eligibility. The authorized nightly controller then performs access/identity/head checks, protected integration, full-tree preservation proof and explicit post-merge audit. A draft PR holds integration until the authored scope and final source checks are complete.
+
+**Execution limitation:** the connected GitHub surface exposes read-only workflow inspection and lacks a workflow/repository-dispatch action. Its read of `actions/variables/NIGHTLY_INTEGRATION_ENABLED` was rejected as an unsupported endpoint (`INVALID_ARGUMENT`), so the live enable state is not asserted. A generic merge or auto-merge call would not establish the required controller/access checks and explicit post-merge dispatch, and was not substituted.
+
+**Narrow completion route:** after final exact-head success, release the draft hold. The owner-authorized scheduled controller may integrate when enabled (07:00 America/New_York), or an appropriately authorized operator can invoke `.github/workflows/nightly-integration.yml` in `apply` mode for exactly `series/yuru-camp`, with the enable control satisfied. Verify the returned main commit, complete tree and new successful explicit post-merge audit before closing the transaction. Retain the continuing series branch. No governance relaxation, force push, manual global-index rewrite or new owner authorization for the already requested repair is proposed.
+
+## Next-agent handoff
+
+Use `CURRENT_STATE_AND_CORPUS_MAP.md` §3 for the mandatory read order and §9 for execution conditions. Repository governance comes first, followed by the four governing framework documents, V13–V15 checkpoint plus ER-001/002, V13 V1.2/V14/V15, all five ledgers and the three current source records. Check live publication/integration state, separately authorized V16 scope and the exact CBZ identity. V16 chapter mapping belongs to that next authorized operation. The remaining 22 image-verification gaps constrain reuse for consequential modeling; no character has passed a held-out validation, and V19 acquisition remains separate. **This repair stops at the V15 prospective boundary.**

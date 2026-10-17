@@ -22,7 +22,6 @@ created: '2026-08-26'
 updated: '2026-10-17'
 reconstruction_specification: YURUCAMP_CHARACTER_RECONSTRUCTION_SPEC.md
 retrospective_operation: V01–V15_RETROSPECTIVE_LEDGER_BACKFILL
-repair_state: in_progress
 ---
 
 # Yuru Camp△ Current State and Corpus Map
@@ -70,12 +69,11 @@ Before the reading route below, read repository `AGENTS.md` and its applicable a
 Read in this order when resuming the project:
 
 1. **This file** — active routing and boundary.
-2. **`YURUCAMP_V13-V15_CHECKPOINT.md`** — current adversarial longitudinal authority through Volume 15.
-3. **`YURUCAMP_V15_DEEP_READING.md`** — most recent sequential volume reading.
-4. **`YURUCAMP_V13_DEEP_READING.md` generation V1.2** and **`YURUCAMP_V14_DEEP_READING.md`** when V13–V15 tranche detail is needed.
-5. Earlier three-volume checkpoints for prior historical freezes.
-6. The relevant sequential deep reading for volume-local evidence.
-7. The Japanese primary-source volume for exact page, visual, or wording verification.
+2. **[V13–V15 checkpoint](03%20Volume%20Deep%20Readings/YURUCAMP_V13-V15_CHECKPOINT.md)** with the **[repair audit’s ER-001/ER-002 overlays](09%20Audits%20and%20Reviews/YURUCAMP_CONTINUATION_REPAIR_AUDIT.md)** — current adversarial longitudinal authority and attributable corrections.
+3. **[V13 generation V1.2](03%20Volume%20Deep%20Readings/YURUCAMP_V13_DEEP_READING.md)**, **[V14](03%20Volume%20Deep%20Readings/YURUCAMP_V14_DEEP_READING.md)**, and **[V15](03%20Volume%20Deep%20Readings/YURUCAMP_V15_DEEP_READING.md)** — latest accepted tranche; the original V15 attribution must be read through ER-001.
+4. **All five core ledgers in §7**, beginning with the locator/revision register’s checkpoint-state matrix, verification log, revisions and gaps. Earlier checkpoints and volume readings remain the evidence route for earlier states.
+5. **All three current source records in §8** — preferred identities, manifest mappings and quality restrictions. The original Phase 0 remains historical evidence.
+6. The relevant Japanese primary-source images for exact page, visual, wording or attribution verification. V16 source-unit mapping and story reading begin only in separately authorized sequential execution under §9.
 
 The three artifact hashes below are preserved **historical Drive-export fingerprints**, not hashes of the migrated Git Markdown bytes. Use the repository commit and the repair audit preservation manifest for current Git identities. Source-object fingerprints remain separate.
 
@@ -241,7 +239,7 @@ Unsupported through V15 under the project's evidentiary standard. Relational int
 
 The original empty standalone-ledger directory was intentional. Architecture §6.0 now authorizes `V01–V15_RETROSPECTIVE_LEDGER_BACKFILL` to meet evidence-retrieval, reconstruction, and handoff needs without restarting the project.
 
-**Core backfill and source reconciliation established; final cross-artifact validation remains in progress.** The retrospective ledgers are `active_provisional` evidence infrastructure, subordinate to the accepted checkpoint sequence and attributable correction overlays. They contain 50 unique observations (28 PRIMARY_VERIFIED, 22 ANALYSIS_EXTRACTED); derived rows overlap. No reconstruction readiness grade is assigned.
+**Core backfill, source reconciliation and continuation handoff are established.** The retrospective ledgers are `active_provisional` evidence infrastructure, subordinate to the accepted checkpoint sequence and attributable correction overlays. They contain 50 unique observations (28 PRIMARY_VERIFIED, 22 ANALYSIS_EXTRACTED); derived rows overlap. No reconstruction readiness grade is assigned. [The repair audit](09%20Audits%20and%20Reviews/YURUCAMP_CONTINUATION_REPAIR_AUDIT.md) records scope, preservation, validation and publication obligations; branch completion is distinct from protected integration into `main`.
 
 - [Character State Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_CHARACTER_STATE_LEDGER.md)
 - [Relationship State Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_RELATIONSHIP_STATE_LEDGER.md)
@@ -272,7 +270,16 @@ All three prospective sources’ hashes were independently recomputed. The curre
 
 ## 9. Next operation: Volume 16
 
-The V13–V15 checkpoint is complete, so **V16 is the next candidate sequential operation**. This repair grants no sequential execution authorization. V16 has **not** been analyzed here; do not infer authorization for a continuous V16–V19 run. A separate agent must verify the completed repair, current repository controls, source lock/quality restrictions, and its actual user authorization before starting. The project remains active, not terminally sealed.
+The V13–V15 checkpoint is complete, so **V16 is the next candidate sequential operation**. This repair grants no sequential execution authorization. V16 has **not** been analyzed here; do not infer authorization for a continuous V16–V19 run. The project remains active, not terminally sealed.
+
+Before starting, the next agent must:
+
+1. Read the repository governance and complete §3 route, including both errata, the reconstruction contract and all five ledgers. Accept the V15 freeze without backcasting retrospective discoveries.
+2. Fetch current `main` and `series/yuru-camp`, inspect [PR #191](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/191), and establish whether this repair is integrated with a successful post-integration main audit. If it is still pending, use the verified stable-branch contents only within the applicable repository workflow; do not mistake stale main for the repaired state or declare the Git transaction closed. Reconcile any intervening work before publication.
+3. Confirm separate owner authorization for the intended sequential unit, apply the current continuation/preflight controls and stop conditions, and recheck V16’s exact source identity and quality restrictions. The grandfathered project is not a new initiation merely because another agent resumes it.
+4. During that authorized V16 operation, establish chapter/scene locators from the verified CBZ while preserving advertisement slots. The 22 extracted backfill observations require primary reinspection when a high-consequence use depends on them; a universal retrospective reread is not a prerequisite for starting V16.
+
+V19 acquisition, full reconstruction readiness, the five deferred standalone ledgers, and final-series synthesis are not prerequisites for an individually authorized V16 reading. Any newly encountered source ambiguity still requires the method’s ordinary abstention/reinspection route.
 
 Next artifact:
 
