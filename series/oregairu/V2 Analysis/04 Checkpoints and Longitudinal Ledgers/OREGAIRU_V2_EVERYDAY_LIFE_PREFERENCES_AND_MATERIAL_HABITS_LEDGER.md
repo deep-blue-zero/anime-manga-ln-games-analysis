@@ -1222,6 +1222,8 @@ Before Phase 8.5 closes:
 
 # 16. Phase-8.5 state after Hayama model
 
+**Historical construction state before the suite audit.** The pending-audit statements in this section are retained as history; the dated audit amendment below and accepted supporting slices govern current state.
+
 The shared ledger contains canonical everyday-life slices for **Hachiman (84 rows)**, **Yukino (70 rows)**, **Yui (60 rows)**, **Iroha (62 rows)**, **Komachi (109 rows)**, **Haruno (91 rows)**, **Hiratsuka (132 rows)**, and **Hayama (114 rows)**, for **722 total evidence rows**.
 
 Hayama's 114-row slice is compiled into `OREGAIRU_V2_CHAR_HAYAMA_RECONSTRUCTION_MODEL.md` revision `1.0_primary_plus_everyday_life`. All **8/8 architecture-defined reconstruction models** now have complete primary-source-first ordinary-life infrastructure.

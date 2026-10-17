@@ -7,12 +7,12 @@ status: canonical
 lifecycle: active_mutable
 title: Oregairu V2 — Google Drive Corpus Map
 project: Oregairu V2
-source_boundary: Admitted Japanese mainline and qualified supplementary corpus through V14.5; Phases 4-8 closed; original eight-model Phase 8.5 suite audited and closed for declared tests; supporting-character expansion active; archival release pending expansion and published-state QA
+source_boundary: Admitted Japanese mainline and qualified supplementary corpus through V14.5; Phases 4-8 closed; original eight-model Phase 8.5 suite audited and closed for declared tests; supporting-character literary expansion and three additional bounded models accepted; archival release pending published-state QA and protected integration
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-updated: '2026-10-16'
-next_artifact: SC01_TOTSUKA_SAIKA_AGENCY_FRIENDSHIP_AND_THE_NARRATED_GAZE.md
+updated: '2026-10-17'
+next_artifact: 00_README_AND_CORPUS_MAP.md
 ---
 
 # Oregairu V2 — Google Drive Corpus Map
@@ -39,7 +39,7 @@ Current state:
 - original Phase 8.5 character reconstruction suite: **8/8 canonical models; corrected suite audit PASS for declared tests — original Phase 8.5 closed**;
 - canonical model folder: `Character Reconstruction Models` (Drive `1yaaw6OyIHvc5cWC_J7OpxPnq8hyX8m8B`);
 - latest canonical Phase-8.5 model: `OREGAIRU_V2_CHAR_HAYAMA_RECONSTRUCTION_MODEL.md` (Drive `1woSncjarYMot9m7Pq0Q0vWAbBWEzJmRy`);
-- shared Phase-8.5 everyday-life/preferences evidence ledger: `OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md` (Drive `1LXvZxsTf_IwgDMqxj3qwuE1i64KniPm8`), mutable cumulative ledger with Hachiman's 84-row, Yukino's 70-row, Yui's 60-row, Iroha's 62-row, Komachi's 109-row, Haruno's 91-row, Hiratsuka's 132-row, and Hayama's 114-row Japanese-primary slices complete (**722 rows total**);
+- shared Phase-8.5 everyday-life/preferences evidence ledger: `OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md` (Drive `1LXvZxsTf_IwgDMqxj3qwuE1i64KniPm8`), mutable cumulative ledger with Hachiman's 84-row, Yukino's 70-row, Yui's 60-row, Iroha's 62-row, Komachi's 109-row, Haruno's 91-row, Hiratsuka's 132-row, and Hayama's 114-row Japanese-primary original slices complete (**722 original rows**); accepted Totsuka/Miura/Zaimokuza slices add 40/22/32 rows, for **816 current observations**;
 - Hachiman reconstruction model revised in place to revision `1.2_phase8_5_suite_audit_corrections` using ledger rows `ELP-HAC-001`--`ELP-HAC-084`;
 - Yukino reconstruction model revised in place to revision `1.2_phase8_5_suite_audit_corrections` using ledger rows `ELP-YUK-001`--`ELP-YUK-070`;
 - Yui reconstruction model revised in place to revision `1.2_phase8_5_suite_audit` using ledger rows `ELP-YUI-001`--`ELP-YUI-060`;
@@ -47,13 +47,13 @@ Current state:
 - Komachi reconstruction model completed as revision `1.1_phase8_5_audit_corrections` using 109 validated Japanese-primary ledger rows `ELP-KOM-001`--`ELP-KOM-109` (Drive `127xOpAjSx49_sm_BDuJdp708UO9VQHdr`);
 - Haruno reconstruction model completed as revision `1.1_phase8_5_audit_corrections` using 91 validated Japanese-primary ledger rows `ELP-HAR-001`--`ELP-HAR-091` (Drive `1p8ECSDum-ffGkNE5prScTGRDMhklpZfM`);
 - Hiratsuka reconstruction model completed as revision `1.1_phase8_5_audit_corrections` using 132 validated Japanese-primary ledger rows `ELP-HIR-001`--`ELP-HIR-132` (Drive `1wpNt8WOILrJgF0ePjqlgf5J_E68UhqZC`);
-- everyday-life augmentation gate: **all eight architecture-defined character slices complete and canonical; 722 rows total**;
+- everyday-life augmentation gate: **original eight slices complete (722 rows); three accepted supporting slices (94 rows); 816 total**;
 - canonical suite audit: [OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md](OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md), with source-routing, state/relationship separation, static 7×8 scenario tests, register, negative-constraint and uncertainty findings; optional deployed-generator calibration remains OPEN;
 - architecture-defined reconstruction models: **8/8 complete; none pending**;
-- supporting-character expansion: **active**, under the narrow 2026-10-16 architecture amendment;
+- supporting-character expansion: **six monographs, Hayama-circle relationship study and three additional bounded models accepted**, under architecture v2.3;
 - Phase 9 archival release is **pending completed expansion, reconciliation and release QA**.
 - [Reconciled source inventory](../01%20Legacy%20V1%20and%20Source%20Control/OREGAIRU_V2_SOURCE_INVENTORY.md) now verifies 53 payload identities and carries the V12 hash / original-booklet availability errata. Omitted booklet stories are available but separately unadmitted; no new narrative scope is implied.
-- publication: metadata tranche `122dc19ebe66d5ea0288eae8cc18ef67bbdb07ed` is published in draft PR #189; suite-audit amendments are proposed until their exact publication/integration receipt is recorded.
+- publication: metadata, original-suite remediation and priority expansion are published on `series/oregairu` in PR #189; exact source/audit receipts and pending protected main integration are recorded in the completion status.
 
 Remediation and expansion progress, exact canonical owners, curation handoff, and unresolved obligations are recorded in [the completion status](OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md). The original eight-model suite remains a distinct obligation; supporting-character expansion does not redefine its historical scope.
 
@@ -64,7 +64,7 @@ Recommended retrieval route:
 3. Use `13_EVIDENCE_LOCATOR_AND_FIRST_PASS_REVISION_LEDGER.md` for publication-safe claim wording, Phase-6 dispositions, counterevidence, OPEN questions, and deterministic source routes.
 4. Consult the relevant specialist synthesis or Phase-4 ledger when a domain requires more detail than Document 14 carries.
 5. Follow Document 13 or the Phase-4 ledger backward through the relevant checkpoint and sequential volume deep reading to `OREGAIRU_V2_PRIMARY_SOURCE_LOCATOR_LEDGER.md` and the Japanese witness.
-6. For character simulation/reconstruction, use the Phase-8.5 character model when available. For mundane-life, preference, routine, food, hobby, shopping, domestic, or material-habit questions, route first through `OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md`, then the model's compiled everyday-life section; escalate to Japanese primary source when exact context matters. For psychology/voice, continue through the model's voice/state/relationship provenance route. While Phase 8.5 is active, do not treat an unbuilt model or an unmined everyday-life slice as evidence.
+6. For character simulation/reconstruction, use the Phase-8.5 character model when available. For mundane-life, preference, routine, food, hobby, shopping, domestic, or material-habit questions, route first through `OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md`, then the model's compiled everyday-life section; escalate to Japanese primary source when exact context matters. For psychology/voice, continue through the model's voice/state/relationship provenance route. Do not treat an unbuilt model or an unmined everyday-life slice as evidence.
 7. Read `OREGAIRU_V2_ANALYTICAL_METHOD.md` and `OREGAIRU_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md` when methodological or phase-order questions matter.
 8. Use `OREGAIRU_V2_V1_TO_V2_REVISION_LEDGER.md` when historical V1 transition detail is needed.
 9. Treat the historical V1 transcript, handoffs, and legacy material as provenance rather than current literary authority.
@@ -322,12 +322,17 @@ Phase 8 is complete. `14_OREGAIRU_FULL_SERIES_SYNTHESIS.md` is now the canonical
 
 ### Phase 8.5 — character reconstruction and simulation models
 
-- status: **active — 8/8 architecture-defined models complete; cross-model consistency audit pending**
+- status: **original eight-model suite closed — corrected suite audit PASS for declared tests**
 - canonical home: `06 Continuous Synthesis/Character Reconstruction Models/`
 - Drive folder: `1yaaw6OyIHvc5cWC_J7OpxPnq8hyX8m8B`
-- governing architecture version: `OREGAIRU_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md` v2.2
+- governing architecture version: `OREGAIRU_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md` v2.3
 - evidence policy: **derived-first, source-verified** for psychology/state/relationship/register; **Japanese-primary-first** for everyday-life/preferences/material habits; no second full sequential reread
 - authority policy: reconstruction heuristics are subordinate to Japanese primary source, Document 13, Phase-6 dispositions, and the canonical ledgers
+
+#### Preserved pre-audit construction snapshot
+
+The following eight construction records preserve earlier revisions, word/byte counts, source verification claims and Drive-era hashes for provenance. They are **historical snapshots, not current model checksums or unqualified current claim authority**. The 2026-10-16 suite audit supplies the accepted corrections and eight current model hashes; supporting additions and current ledger totals are routed separately below. In particular, later audit qualifications govern historical Haruno-future and Hiratsuka-comparative formulations.
+
 - completed model 1/8: `OREGAIRU_V2_CHAR_HACHIMAN_RECONSTRUCTION_MODEL.md`
   - status: canonical derived-use model, revised in place as `1.1_everyday_life_augmentation`
   - Drive ID: `1SYdkLENe5dbVChtD3QNeDsbp6XOAzF1A`
@@ -393,12 +398,16 @@ Phase 8 is complete. `14_OREGAIRU_FULL_SERIES_SYNTHESIS.md` is now the canonical
   - Japanese-primary verification: targeted social-role/request/privacy/register controls plus systematic V01-V14.5 everyday-life/preferences pass; all 114 selected everyday-life rows validated against exact EPUB/XHTML witnesses across 49 source members
   - everyday-life ledger rows: `ELP-HAY-001`--`ELP-HAY-114`
   - principal reconstruction distinction: Hayama is a genuinely prosocial and expectation-saturated social center whose smoothing is real social technology rather than a fake mask; his failure mode is letting continuity substitute for participant-authored change; public role is partly imposed and partly sincerely owned; privacy, direct rivalry, competition, request boundaries, quiet reading, black-coffee preference/tolerance, and late guilt ownership prevent generic-popular-boy flattening
-- shared evidence infrastructure: `OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md` — Drive `1LXvZxsTf_IwgDMqxj3qwuE1i64KniPm8`; status `active_provisional`, mutable through Phase-8.5 QA; Hachiman 84, Yukino 70, Yui 60, Iroha 62, Komachi 109, Haruno 91, Hiratsuka 132, Hayama 114 (**722 rows total**); all eight slices canonical
+
+#### Current audited state
+
+- shared evidence infrastructure: `OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md` — Drive `1LXvZxsTf_IwgDMqxj3qwuE1i64KniPm8`; status `canonical`, mutable cumulative evidence; original eight slices total 722; Totsuka 40, Miura 22 and Zaimokuza 32 bring current coverage to **816 observations across eleven subjects**
 - everyday-life augmentation gate: **complete for all 8/8 architecture-defined models**
-- next immediate task: `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md`
+- suite audit: **complete** — `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md`; current hashes in its acceptance table
+- next immediate task: Phase 9 release QA and packaging, followed by protected integration
 - next not-yet-built model: **none — 8/8 complete**
 - planned initial suite: Hachiman, Yukino, Yui, Iroha, Komachi, Haruno, Hiratsuka, Hayama
-- Phase 9 archival freeze: **blocked until the Phase-8.5 cross-model consistency audit passes and Phase 8.5 is explicitly closed**
+- Phase 9 archival freeze: **original audit prerequisite satisfied; expanded release QA and verified protected integration remain required**
 
 The reconstruction suite exists to compile already-audited characterization into operational behavioral, relationship-conditioned, Japanese-register, and ordinary-life specifications for novel-scenario simulation. Psychology/state/register remain derived-first and source-verified. Everyday-life/preferences/material habits are governed by the separate primary-source-first ledger because earlier synthesis intentionally compressed low-stakes texture. Each model must include negative constraints, era variants, confidence boundaries, source escalation triggers, deterministic provenance, and a completed `Everyday Life, Preferences, and Material Habits` section routed to its ledger slice. Exact Japanese exemplars for psychology/register are reopened where the derived matrix exposes a material gap; mundane-life claims are mined directly from the Japanese source before compilation.
 
@@ -496,7 +505,7 @@ The following Volume-14.5 distinctions are now canonical for subsequent analysis
 
 The final post-14.5 checkpoint is now complete. Its authority relationship is layered: **Checkpoint E governs the meaning of the ending at the ending; the Final Post-14.5 Checkpoint governs what that ending proves capable of sustaining afterward.** The durability verdict is **PRESERVE/STRENGTHEN**, not REVISE: early ordinary life supports chosen interdependence while explicitly rejecting permanence, perfection, and sacred preservation of form.
 
-Phase 5 - Specialist Synthesis is now **closed at 12/12 architecture-defined documents complete**. `01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION.md` establishes the diachronic spine; Documents 02-04 are canonical independent monographs for Hachiman, Yukino, and Yui; Document 05 stabilizes the Service Club as an emergent three-person system whose mature state is known romantic non-equivalence plus revisable continuation; Document 06 stabilizes `本物`/authenticity as answerable, revisable relation rather than purity or certification; Document 07 stabilizes helping ethics as answerable involvement and autonomy as authorship within chosen interdependence; Document 08 stabilizes school society as a field of formal and informal power; Document 09 stabilizes counter-gaze plurality; Document 10 stabilizes family/adulthood/futurity as consequence-bearing situated authorship and transformed inheritance; Document 11 stabilizes Japanese voice and narrative form as answerable first-person speech inside persistent, mediated idiolect; Document 12 stabilizes supplementary-source authority and ordinary-life durability, including the integrated anthology story-level audit, the non-standalone status of 6.75 in the locked corpus, and the principle that official/authorial/mainline-compatible/canon-governing are separate categories. Phase 4 remains closed: all ten longitudinal ledgers are complete, terminology is normalized, contradictions and OPEN states are preserved, all 86 explicit V1 claim IDs have current transitions, and mature claims route back through the locator ledger to Japanese-source evidence. **Phases 6–8 are complete. Document 13 governs publication-safe claim routing; Document 14 is the canonical reader-facing synthesis; Phase 8.5 character reconstruction is now active and must close before Phase 9 archival release.**
+Phase 5 - Specialist Synthesis is now **closed at 12/12 architecture-defined documents complete**. `01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION.md` establishes the diachronic spine; Documents 02-04 are canonical independent monographs for Hachiman, Yukino, and Yui; Document 05 stabilizes the Service Club as an emergent three-person system whose mature state is known romantic non-equivalence plus revisable continuation; Document 06 stabilizes `本物`/authenticity as answerable, revisable relation rather than purity or certification; Document 07 stabilizes helping ethics as answerable involvement and autonomy as authorship within chosen interdependence; Document 08 stabilizes school society as a field of formal and informal power; Document 09 stabilizes counter-gaze plurality; Document 10 stabilizes family/adulthood/futurity as consequence-bearing situated authorship and transformed inheritance; Document 11 stabilizes Japanese voice and narrative form as answerable first-person speech inside persistent, mediated idiolect; Document 12 stabilizes supplementary-source authority and ordinary-life durability, including the integrated anthology story-level audit, the non-standalone status of 6.75 in the locked corpus, and the principle that official/authorial/mainline-compatible/canon-governing are separate categories. Phase 4 remains closed: all ten longitudinal ledgers are complete, terminology is normalized, contradictions and OPEN states are preserved, all 86 explicit V1 claim IDs have current transitions, and mature claims route back through the locator ledger to Japanese-source evidence. **Phases 6–8 are complete. Document 13 governs publication-safe claim routing; Document 14 is the canonical reader-facing synthesis; The original eight-model Phase 8.5 audit has since closed; supporting expansion and Phase 9 release duties follow architecture v2.3.**
 
 ## Final post-14.5 durability checkpoint
 
@@ -555,13 +564,17 @@ The **original Phase 8.5 suite is closed** by `OREGAIRU_V2_PHASE8_5_RECONSTRUCTI
 
 ## Accepted supporting-character expansion — 2026-10-17
 
-The original eight-model Phase 8.5 suite retains its completed historical identity. The supporting expansion adds three independently reviewed literary monographs and three evidence-gated, bounded school-age models. Publication/main integration is recorded separately in [the task status](OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md).
+The original eight-model Phase 8.5 suite retains its completed historical identity. The supporting expansion adds six independently reviewed literary monographs, a dedicated Hayama-circle system study and three evidence-gated, bounded school-age models. Publication/main integration is recorded separately in [the task status](OREGAIRU_V2_COMPLETION_AND_EXPANSION_STATUS.md).
 
 | Subject | Independent literary analysis | Derived operational specification |
 |---|---|---|
 | Totsuka Saika | [SC01: agency, friendship and the narrated gaze](../05%20Specialist%20Synthesis/SC01_TOTSUKA_SAIKA_AGENCY_FRIENDSHIP_AND_THE_NARRATED_GAZE.md) | [Totsuka model](../06%20Continuous%20Synthesis/Character%20Reconstruction%20Models/OREGAIRU_V2_CHAR_TOTSUKA_RECONSTRUCTION_MODEL.md) |
 | Miura Yumiko | [SC02: authority, care and vulnerability](../05%20Specialist%20Synthesis/SC02_MIURA_YUMIKO_AUTHORITY_CARE_AND_VULNERABILITY.md) | [Miura model](../06%20Continuous%20Synthesis/Character%20Reconstruction%20Models/OREGAIRU_V2_CHAR_MIURA_RECONSTRUCTION_MODEL.md) |
 | Zaimokuza Yoshiteru | [SC03: performance and creative commitment](../05%20Specialist%20Synthesis/SC03_ZAIMOKUZA_YOSHITERU_PERFORMANCE_AND_CREATIVE_COMMITMENT.md) | [Zaimokuza model](../06%20Continuous%20Synthesis/Character%20Reconstruction%20Models/OREGAIRU_V2_CHAR_ZAIMOKUZA_RECONSTRUCTION_MODEL.md) |
+| Ebina Hina | [SC04: performance, intimacy and group continuity](../05%20Specialist%20Synthesis/SC04_EBINA_HINA_PERFORMANCE_INTIMACY_AND_GROUP_CONTINUITY.md) | Full model deferred; exact uncompleted evidence/compilation gates in SC04 |
+| Kawasaki Saki | [SC05: family, work and boundaries](../05%20Specialist%20Synthesis/SC05_KAWASAKI_SAKI_FAMILY_WORK_AND_BOUNDARIES.md) | Full model deferred; literary completion and operational qualification remain separate |
+| Sagami Minami | [SC06: reputation, accountability and change](../05%20Specialist%20Synthesis/SC06_SAGAMI_MINAMI_REPUTATION_ACCOUNTABILITY_AND_CHANGE.md) | Full model deferred; thin later state and broader behavioral evidence are explicit |
+| Hayama social circle | [SC07: coordination and avoided conflict](../05%20Specialist%20Synthesis/SC07_HAYAMA_SOCIAL_CIRCLE_COORDINATION_AND_AVOIDED_CONFLICT.md) | Emergent relationship system; no invented collective agent |
 
 Their primary-first shared slices add 40/22/32 observations respectively: 816 total, with the original 722 rows preserved. The studies qualify the CS-SEC-TOT linear-recognition reading, exclusive Kyoto motive claims about Miura, and productive-output implications of CS-SEC-ZAI without rewriting frozen artifacts. No newly inspected post-V14.5 development, adult future, global capability grade or external-generator accuracy is asserted. Authorized character discovery enrollment remains pending.
 
