@@ -35,7 +35,7 @@ The final G7 materialization and sealed epoch-1 migration scope contain these se
 - [`revue-starlight/`](revue-starlight/) — Revue Starlight
 - [`shine-post/`](shine-post/) — SHINE POST
 - [`shokugeki-no-soma/`](shokugeki-no-soma/) — Shokugeki no Soma
-- [`shuukura/`](shuukura/) — Shuukura
+- [`shuukura/`](shuukura/) — Shuukura / 週に一度クラスメイトを買う話 — Independent V2 architecture for original-Japanese LN reading, separate web witnesses, longitudinal character and relationship analysis, and evidence-tested reconstruction; V1 remains preserved historical analysis. Primary and derived evidence remain in Drive.
 - [`solo-leveling/`](solo-leveling/) — Solo Leveling
 - [`sound-euphonium/`](sound-euphonium/) — Sound! Euphonium
 - [`the-idolmaster-cinderella-girls-2015-anime/`](the-idolmaster-cinderella-girls-2015-anime/) — THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)
