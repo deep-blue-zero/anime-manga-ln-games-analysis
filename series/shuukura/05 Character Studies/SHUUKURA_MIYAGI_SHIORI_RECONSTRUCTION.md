@@ -1022,3 +1022,19 @@ The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_
 All13historical attempts/18forecast records unchanged. No independent acceptance/numerical accuracy/VALIDATEDdomain. ERRATUM-KSS-05-001 housing/privacy routes retained unchanged; current speech qualification is a later-source revision, not a frozen-byte repair or failed formal forecast. Full reconstruction assessments remain mandatory.
 
 M0.13 original adult fit/time identity remains unchanged; historical object frame does not validate an operational human response model.
+
+
+## KSS07 historical evidence addendum — peer privacy and distinct knowledge clocks
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_07_DEEP_READING.md#observation-locator-index) owns the complete native authorparts07→08/118anchors77nonempty and source-qualified C1/C2. Ami narrates one first-college-year lateApril phonecall with Maika. Mabsent/reported; actual Sroommate identity is reader-known from originals but not discovered by these peers here.
+
+| Responsibility | Evidence and negative constraint |
+| --- | --- |
+| Historical Miyagi | Peer reports of questions diverted/photo and homeentry refused are not new Mown narration or a proven mutually agreed no-guests term. Original LN05Mprivate relativecover/makeshift guestban and canceled Maika plan/guilt have separate source routes; actual R037guestterms retained |
+| Historical Sendai | Not a named current SSspeaker or new own-behavior sample. Original private lateApril nonreturn reasons are reader evidence, not what Ami/Maika hear. Later actual S→Maika identity disclosure is existing REL-LN-JP-V06-007.v2, not April knowledge/new event |
+| Peer access | Doubting kinship or imagining a handsome boyfriend does not establish actual Sidentity; knowing Sendai as priorclassmate differs knowing she is roommate. Later LN06p008focalizer is Maika, not Ami; later Ami original LN07identity knowledge remains later |
+| Local norms and obligations | R155is Ami/Maika local no-forcing principle with actual topicchange, not Mheard/ratified privacycontract or permanent noquestions. R156is Maika own future summerreturn assurance; absent Mnotbound, actual return not shown |
+| Supporting readiness | Ami individual monograph now REQUIRED/PENDING; own sustained interior adds priorities, conflicting wants, contextual restraint and register beside prior recurring contributions. Maika individual monograph remains required. Neither has a validated functional model |
+| Principal readiness | Original M0.13/S0.14adult fit/time/UNTESTED/noncurrent prefixes retained. These are historical evidence addenda, no new operational packet/test, heldout credit or expanded unfamiliar-person/cross-series/acoustic validation |
+
+All13historical attempts/18forecast records unchanged. Known originals rechecked for correspondence do not become new prospective outcomes; Ami fantasy narrowed to wouldbeamusing is not a failed formal forecast. Full time-bounded reconstruction/validation assessments remain mandatory. ERRATUM-KSS-05-001housing/privacy redirects and later object-dialogue qualification preserved.

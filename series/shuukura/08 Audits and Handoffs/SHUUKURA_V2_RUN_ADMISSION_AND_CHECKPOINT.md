@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.10"
+version: "1.11"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–04 closed on main; KSS05halfway publication repaired/pending; KSS06whole-unit checkpoint, nextKSS07"
+source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–05 closed on main; KSS06–07whole-unit local checkpoints, nextKSS08"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: KSS06_SOURCE_SEMANTIC_OBJECT_DIALOGUE_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
+review_status: KSS07_SOURCE_SEMANTIC_ACTOR_CLOCK_ROLE_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -778,3 +778,35 @@ KSS05mandatory SS9/18halfway publication: wholeunit3e73317dc3d0c276d6796630e4939
 | Publication | KSS05mandatory SS9/18halfway publication: wholeunit3e73317dc3d0c276d6796630e49392d083c5c678/treef959fe8be60f41fcebaccd66160d382d115b6aa3/preflight8101PASS/11exactpaths/normalpush-readback; source39072057093PASS, house39072306871requires concurrentmain. Approved ordinary138pathKonoSubaPR216/mainff5e454a598c0de3d506a9c5d45e80c63b24cc28import produced8fd720135c078b43873797d9d207da76672a8c17/treecd057250531188112c3969eacf6a129c57a12b2f/preflight8221PASS/normalpush-readback; all Shuukura bytes unchanged. New source-house-final/nightly/mandatoryowner-main chain pending as of this checkpoint; prior KSS04PR214closed. No failed/pending chain claimed complete. |
 
 Object conversation revises a domain inference, not human knowledge or a formally tested forecast. Original historical states preserved; no new release extends I1.
+
+
+## KSS05 verified publication closure and KSS06 local durability
+
+KSS05mandatory SS9/18halfway publication CLOSED_ON_GREEN_MAIN/PR218: source8fd720135c078b43873797d9d207da76672a8c17/main7f4f438e0813e5a53ea1bdfe26fa062904791d45/equalfulltreecd057250531188112c3969eacf6a129c57a12b2f. Source39072662070/house39073030088NO_OP/finalactualsource39073057320/ownernightly39073808545/mandatoryownerexplicitmain39073898141 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Separate pushmain39073878727did not substitute. Earlier house39072306871failed current-main ancestry after concurrentPR216; ordinary138pathapproved import/preservation/newaudits closed it. Local KSS06commit5663a6d5b49ec77db2a00103466bfb8e0eb510f0/tree4c1ccf0346671918c5231ee12aa68a6ba13355bb/preflight8223PASS; KSS06–10may publish cumulatively, SS14/18mandatory at KSS10. No pending chain claimed closed. Earlier as-of pending records remain historical. Before KSS07writes, source5/main5whole-tree equality and all9source6beforeimages were verified. Nine squash-history conflicts preserved source6onlyafter each mainblob matched integratedsource5; ordinary merge parent retained. No force/history rewrite/global authorship.
+
+## Durable checkpoint after KSS07
+
+**SHUUKURA-TX-KSS-07-20261017-A1** advances only through the complete introducing commit. [Reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_07_DEEP_READING.md) and [audit](SHUUKURA_V2_KSS_07_TRANSACTION_AUDIT.md) bind source/locator identities, prospective prefixes, original-source archive, actor histories and exact transaction paths. Recover the actual committed repository state after interruption.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run | Epoch1/GIT_ACTIVE_ACCEPTED;method/architecture/reconstruction0.2;continuous_sequential/active/startLN01/terminalI1plusalloutputs/gateOPEN |
+| Source | KSS-07/AUTHOR_RELEASE_CAPTURE-20261017-A1/I1ordinal20/不平と不満と白川亜美/author羽田宇佐; native07→08/118anchors77nonempty41blank/2226deliveredchars0ruby |
+| Parts/maps | 07:12426bytes/SHA994a823b386114ecba01a2e1028d0cf94ff0c7e6043ca741740b30cb1eaab272;08:11214/SHA646c022da2dca41442ea0d01bfbe963856bba3a8f3805144cfff9d4786ffa043;partsidentitySHA855d98824fc4065672ae89317e979abd93ba736f401ebbf9918fa36339570c96;unitmapSHA10dda1c18f13594389b2277b7f28465db6aedb86622e9bdfd711272f47785979;parentmapSHA57a97e968efa2bd77f8dace83618cbe35a06243c30bcd3d2ab5c106b50f67127 |
+| Metadata/voice | Complete outsideUI/77nativechecksfirstpass; revision2025-02-28 19:21/19:22metadata only. Ami firstperson BOTH parts; Maika actual remote voice, hypothetical classroomgrin not observed phoneimage; no actualaudio |
+| C1 | RawNFKC76/77FINAL44/44SRC0132/33SRC02; sole08p12PDF⻑survivesNFKC, explicit comparison-only foldto長gives77/77+44/44+33/33.9FINAL=ordered5+4SRCtext/pixel pages; oneactualpage7glyphcrop, no source repair/reconstruction/fullpagevisual claim |
+| C2 | 44checks/354bindings LN05p005430–475/p006220–255/p0081–110 and LN06p0041–15+110–170/p00825–110. Initial expected嘘/native噓 check failure retained then expectedliteral corrected; finalPASS not firstpass. Later p008focalizerMaika NOTAmi |
+| Evidence | Drive1N200UFusG3q_ZQQJ3M_wXGBk99JFv7Tj/95977bytes/SHAf0422271fd7abfea9298bfc2e8b43b98497f8906a3615dadc8c7c6109e2927f6/24members; exact upload-download/allsource-memberhashes/CRC PASS; locator/freezes/journal/QA/C1/C2/scripts, no raw media |
+| Entry/prefixes | SHUUKURA-KSS07-ENTER-20261017-A1@2026-10-17T22:08:07.448749+00:00;priorwhole5663a6d5b49ec77db2a00103466bfb8e0eb510f0/tree4c1ccf0346671918c5231ee12aa68a6ba13355bb;teninputs/9beforeimages/0fiction0images. F1first66beforeALL52remaining, F2whole118beforeC1/C2. Q119970bytes/SHAe34eb31dc30276f20ee6c4474ea1bb5e63d10f8b3dbfadb647803a9f490e6786@2026-10-17T22:22:30.200270+00:00;allprefixes exact |
+| Repository reconciliation | KSS05source8fd/main7f4ffulltrees exactlycd057250; nine ordinary merge conflicts each resolved by proven unchanged mainblob and exact source6beforeimage. Ordinarymainparent retained with new wholeunit, no new analytical exposure/global authorship |
+| Historical exit | AMI-KSS07-CALL-EXIT/MAIKA-KSS07-CALL-EXIT/M-KSS07-REPORTED-BOUNDARY. April actualroommateidentity unavailable to peers; original later Mai LN06and Ami LN07knowledge retained later. Adult M/S-V09-EXIT/BW09night/earlierstates unchanged |
+| Material delta | 8character/3historical projections/3readiness;10relrows(8new2oldercontext)/5directions;2olderhistorical ruleaddenda+newR155/R156;23props(3older20new)/20access7tensions;3olderclaims4new=115claimIDs/427forms/520props/156rules |
+| Local rules | R155peer no-forcing norm/topicwithdrawal, Mabsent not ratifies;R156Maika own future summerreturn, absent Mnotbound. R034/R037historical addenda preserve latestadultscopes/actual guestterms; no blanketban or counted extra visits |
+| Role/models | Ami individual monograph now REQUIRED/PENDING; Maika alreadyrequired; principals mandatory. Original M0.13/S0.14fit/time/UNTESTED/noncurrent prefixes and13attempts18forecasts exact; no new operational packet/test/validateddomain |
+| Prior corrections | ERRATUM-KSS-05-001housing/privacy redirects preserved; KSS06later objectdialogue qualification preserves oldv1/journals. No current narrative correction or formal forecast rescoring |
+| HWM/next | OnlywholeKSS07commit:LN9/9;SS11/18;KakNONE0/431;NarōNONE0/290;available20/458. NextKSS-08/I1ordinal21/宇都宮舞香の夏休み/native05→06 after exactadmission; SS14/18publication atKSS10 |
+| I1 | JSONSHA6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b;ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95; LN10/later releases excluded even if released during run |
+| Remaining | 7accessibleSS/431parallelKak/290Narō/51knownmissing/27boundeddiscovery/mandatoryvoices; all reconciliation/monographs/roleaudit/specialists/reconstruction/V1comparison/integrated/adversarialrelease remain mandatory |
+| Publication | KSS05mandatory SS9/18halfway publication CLOSED_ON_GREEN_MAIN/PR218: source8fd720135c078b43873797d9d207da76672a8c17/main7f4f438e0813e5a53ea1bdfe26fa062904791d45/equalfulltreecd057250531188112c3969eacf6a129c57a12b2f. Source39072662070/house39073030088NO_OP/finalactualsource39073057320/ownernightly39073808545/mandatoryownerexplicitmain39073898141 allSUCCESS/full352tests/trustedstatus/VERIFIED_OWNER_ONLY/merged_verified. Separate pushmain39073878727did not substitute. Earlier house39072306871failed current-main ancestry after concurrentPR216; ordinary138pathapproved import/preservation/newaudits closed it. Local KSS06commit5663a6d5b49ec77db2a00103466bfb8e0eb510f0/tree4c1ccf0346671918c5231ee12aa68a6ba13355bb/preflight8223PASS; KSS06–10may publish cumulatively, SS14/18mandatory at KSS10. No pending chain claimed closed. |
+
+No available-source subtotal or publication milestone completes the bounded program. Continue without routine confirmation while the next operation is authorized and unblocked.
