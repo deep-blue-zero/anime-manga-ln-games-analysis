@@ -506,3 +506,129 @@ Before any future test, verify source/time applicability, freeze complete input/
 | Cross-series scenarios | INSUFFICIENT transfer evidence; no scenario performed |
 
 All current exit outcomes are revealed fit, current exit cases ZERO. Seven historical principal-model cases retain three action failures, one exposure-qualified gift result and three ordinary action matches also reached by simple baselines. Five older claim forecasts remain a separate class. No percentage or overall validated simulator, independent semantic acceptance, clinician's diagnosis or authority promotion follows. Literary monographs and full-corpus reconciliation remain required separate deliverables.
+
+
+## V07 transaction append — preserved packets, nine historical cases and new untested exit
+
+Every earlier byte remains a historical prefix. Original front matter describes the original noncurrent candidate; no version in this file is independently accepted or literary evidence. Select an explicit version/time rather than treating the file as an omnitemporal person. The append is authored review, not independent acceptance.
+
+Fit: independent Japanese LN01–07/ACQUIRED-20261017-A1/I1; method/architecture/reconstruction0.2, current ledgers0.8. V07 source SHA`cb560da567093d94c7016c9b71e765b2ff808a933949c6dbb6e043e57927949b`, locator SHA`6d98463801c014779c0ff9a14948b4f63fee0db24478b4a98935d1023239f9b2`, Drive`1tSe_PTxTct3pIIHFT_3n3-7cCnP76L_X`, ver.001/2025-08-20. OPFzh-CN is retained as packaging anomaly; actual Japanese witness and complete base/ruby were verified. V07 O### resolves to LN-JP-V07-O### in the [complete reading/index](../02%20Sequential%20Readings/SHUUKURA_V2_LN_V07_DEEP_READING.md#observation-locator-index-and-shared-field-contract); earlier OIDs retain their volume. The grade2 interlude and ninth-birthday/Aug24 bonus never backflow into older tests or actor access. All principal source/language limits remain.
+
+### Original partial-state prospective packet — verbatim
+
+The following packet was actually frozen before its outcome. Its status-at-creation stays UNTESTED. The later adjudication is a separate record, not an edited prediction or independent acceptance. The exact partial-state identity cannot silently become the exit candidate.
+
+### Frozen ordinary video-request test TEST-SENDAI-LN07-001 / PRED-LN-JP-V07-002
+
+FROZEN_AT: 2026-10-17T11:19:32.529739+00:00 BEFORE native p-008p161+. Explicit state/input revision **SHUUKURA-SENDAI-LN07-P160-M0.9 / S-V07-VIDEO-P160**, base whole model SHA9cacd05ddcec4879759a6647d12b642305315d42c0f76614a230f90251f41a00, earlier S0.8 policies S01.8–S16.8 retained. Current fit changes time/information after the aquarium and several later days; this is not silent use of July-breakfast applicability. All already revealed outcomes are fit. Zero cases at creation/draft_noncurrent/no independent acceptance or validated domain. Ordinary video-call negotiation only; no sexualized response modeling.
+
+Eight fields: subject=SENDAI_HAZUKI; witness_revision=LN/ACQUIRED-20261017-A1/V07/sourcecb560da567093d94c7016c9b71e765b2ff808a933949c6dbb6e043e57927949b/locator6d98463801c014779c0ff9a14948b4f63fee0db24478b4a98935d1023239f9b2; time_state_id=S-V07-VIDEO-P160; situation=own room with Miyagi after shared drama/rest/proximity, Miyagi returns with drinks and asks resume drama, Sendai has accepted, phone message arrives before playback, Miyagi asks if video call is OK because a friend wants to talk to Sendai, no friend identity stated aloud; interlocutor_ids=MIYAGI_SHIORI now, prospective UNIDENTIFIED_FRIEND not yet connected; public_private_context=private room turning potentially mediated social call/college summer, exact day unknown, phone with Miyagi; available_options=clarify caller identity/context before consent, direct accept/start call, refuse/postpone, unrelated reply, wait; actor-only information follows.
+
+KNOWN: own private recognized love and unconfessed status, own past gifts/family/care and current Maika friendship/surname pact, no actual Miyagi room entry, actual aquarium enjoyment/Miyagi thanks/conditional future-joy reports/autumn zoo and unscheduled repeat aquarium agreements, current Miyagi limited mother-absent/father-busy disclosures and own partial family replies; retained cat reported by Miyagi but new-room location unseen. Current drama watched3+hours, own requested rest, Miyagi rejected outing proposals, own particular restraint claims and her refusals, current drinks/thankyou/handhold and accepted drama resumption; literal new question p157 says FRIEND wants video talk, with no identity. BELIEVED: preserving present company matters, Miyagi can be particular about disclosure, ordinary new social contacts can be valued; own Maika relationship genuine/strategic without all friendtalk owed Miyagi. SUSPECTED: who the friend is, why video wanted, how much relationship information the caller knows; may guess Maika but cannot know. CONCEALED_BY_SUBJECT: private love, full family/sister/dream/only-Mchocolate/gift meanings, jealous strategy/uncertainties, not automatically known to Miyagi/caller. MISBELIEVED_OR_UNCERTAIN: past forecasts never-initiating/brief gestures/quick return and some interpretation of Miyagi's motives have failed; current no need to assume every friend encounter threatening. UNAVAILABLE: phone messages, actual caller Ami, Maika physically with Ami in hometown, Miyagi's prior disclosure to Ami, typed/deleted lie and private fears/own decision reasons. These facts are known to evaluator through Miyagi narration but were NOT spoken to Sendai; do not leak them. p161+/unseen images/otherlanes/V1 absent.
+
+Tentative preferred FIRST overt substantive response to the video request: **CLARIFY THE FRIEND'S IDENTITY OR CALL CONTEXT BEFORE GRANTING PERMISSION**, rather than direct yes/start call or no/postpone. S05.8 audience-specific disclosure and S07.8 information-seeking, plus currently unnamed recipient and a medium revealing private room/company, weakly favor establishing who will receive the interaction. Credible countercases: S03.8 ordinary Miyagi requests often accommodated, S08.8 genuine new friendship and flexible peer manner; she may simply accept and find out later. No claim she dislikes friends or must control disclosure, no exact line/motive forecast.
+
+Cutoff: FIRST overt substantive reply/action to p157 request afterp160, before caller interaction or scene break. Asking who/which friend/who is there or comparably identifying recipient/context BEFORE explicit permission supports preferred family. A direct yes/fine/go-ahead or materially starting/accepting the call without prior identity clarification CONTRADICTS; direct no/postpone or another substantive first response also contradicts. Neutral hesitation/surprise/wordless pause is not yet substantive. If explicit yes precedes a question in the same turn, score DIRECT ACCEPT, not question-first; a neutral 'huh?' followed by who is clarification, not permission. A nod clearly granting permission also counts direct acceptance. Do not rescue first unqualified acceptance with a later identity question. If an incoming call or another speaker intervenes materially BEFORE any response, preempted UNTESTABLE; unresolved scene break UNTESTABLE. No later actual call outcome, intimate act or hidden motivation is predicted/scored.
+
+Baselines: literal invitation compliance predicts DIRECT ACCEPT; information-gap caution predicts CLARIFY. Matching the latter would prove no unique model mechanism. Action, explicit motivation, interlocutor conditioning, language/register, epistemic fidelity and abstention stay separate; use NONDISCRIMINATING when evidence cannot distinguish. Current POV is Miyagi and does not expose Sendai's inner reason for this forthcoming reply; no mind reading. Frontmatter/drama motifs exposed, exact video response and caller exchange unseen at freeze. Same author/evaluator/latent pretrained familiarity limits. All five previous Sendai cases and new Miyagi ordinary match remain with original failures/exposure/baseline qualifications, no numerical global accuracy or independent acceptance.
+
+
+Frozen receipt:
+
+```json
+{
+  "id": "TEST-SENDAI-LN07-001",
+  "prediction_id": "PRED-LN-JP-V07-002",
+  "frozen_at": "2026-10-17T11:19:32.529739+00:00",
+  "model": "SHUUKURA-SENDAI-LN07-P160-M0.9",
+  "time_state": "S-V07-VIDEO-P160",
+  "source_before": "p-008p161",
+  "base_model_path": "series/shuukura/05 Character Studies/SHUUKURA_SENDAI_HAZUKI_RECONSTRUCTION.md",
+  "base_model_sha256": "9cacd05ddcec4879759a6647d12b642305315d42c0f76614a230f90251f41a00",
+  "packet_bytes": 5877,
+  "packet_sha256": "a4ca4f9a50479384eaaf03917393d5a60709a7e53eb5bcd9fcccab41aff0ed78",
+  "journal_through_record_bytes": 68041,
+  "journal_through_record_sha256": "71824d115a064f7a7665b7fc45405ef434299477899b2f58c1e8b27a5eca746e",
+  "status_at_creation": "UNTESTED",
+  "entering_freezes": [
+    "ENTERING_FREEZE.json",
+    "ENTERING_FREEZE_CORRECTION_A2.json"
+  ]
+}
+```
+
+Separate subsequent adjudication:
+
+```json
+{
+  "test_id": "TEST-SENDAI-LN07-001",
+  "frozen_packet_sha256": "a4ca4f9a50479384eaaf03917393d5a60709a7e53eb5bcd9fcccab41aff0ed78",
+  "resolution_observation": "O018",
+  "source_locator": "p-008p162",
+  "action_result": "CONTRADICTED",
+  "baseline": "literal invitation compliance matches; yes first before question",
+  "other_dimensions": "NONDISCRIMINATING",
+  "independent_acceptance": false,
+  "original_rubric_preserved": true
+}
+```
+
+## SHUUKURA-SENDAI-LN07-EXIT-M0.10 / S-V07-EXIT — untested provisional packet
+
+Time: lateSeptember27 evening after asserting an independent café choice, setting a private-information limit and vowing to report lateness. Sendai is19. S0.9 was the explicit pre-video p160 packet; S0.8 remains the old July breakfast. Minor version10 is not promotion to1.0. This exit candidate has ZERO held-out cases.
+
+| Category | Actor-available facts and limits |
+| --- | --- |
+| known | Own love/jealousy, sister/family memories, limits on knowing Miyagi, outing research/actual day, Miyagi expressed fun and conditional future plans, cat retention now directly observed, first owner-admitted new-room entry and celebration, pupil birthday cookies, own rare-cake preference changed by gift, catrests valued/use, Miyagi spoken lone-cake history and mother absent statement, own current work/friends/uni, Mio opportunity, job bargain and late-contact vow. O009–024/O034–039/O046–051 |
+| believed | Miyagi has become more attached and `still` leaves hope, without certainty of mutual named love. Waiting can preserve a chosen life but cannot be promised forever. Needs own future money/experience and wants long-term life with Miyagi. O034–035/O048–050 |
+| suspected | Cookie refusal may reflect pupil jealousy; Miyagi looked at new studs because they matter, but precise thought is unknown. Some hesitant answers may conceal wanting; uncertainty does not convert refusal into permission. O036/O046–049 |
+| concealed_by_subject | Named love, full family hurt/childhood planning, complete wish to continue cohabitation, some private jealous reactions, false French-toast-forgot answer, invented Mike sighting to Mio, incomplete truth about earlier busy refusals; explains Ami recognition with an unsupported heard-from-M claim. O015/O018/O034/O037/O048/O050 |
+| misbelieved / corrected or uncertain | First video answer was permissive rather than query-first, contradicting S0.9 preferred policy. Initial human-interest redirection conceals rather than resolves M knowledge. Own result-only vow accounting is not complete compliance; M's clear no is not made ambiguous by other behavior. No certainty Mgift planned as matching pair. O018/O024/O030–034/O041–045 |
+| unavailable | Miyagi full private comparison fear, specific self-doubt about gift, much mother's/childhood album history, childhood dream content, precise unspoken room/pacing explanations outside actual words; no M named LOVE statement, no future café/lateness result, no other-lane/V1/future fiction. |
+
+### Conditional policies S0.10
+
+The identifiers below preserve the earlier rule responsibilities. New concerns receive fresh rule numbers; retained historical rules keep their source interval. Candidate draft links were corrected before unit acceptance without altering any earlier prefix or frozen test.
+
+| Rule | Nonsexual conditional tendency | Evidence, alternatives and negative constraint |
+| --- | --- | --- |
+| S01.10 extend S01.8 | Seeks particular company through practical invitations, planning, gifts or ordinary shared activity | Aquarium/birthday/cookies O009–024/O035–045; work and outside friends remain, no universal pursuit strategy |
+| S02.10 extend S02.8 | Can research and improvise familiar tasks while competence and knowledge remain bounded | Recipe ignorance/jamjar O036–038, cake/lip research O039–045; does not know why every step works |
+| S03.10 extend S03.8 | M requests may alter plans but work, body and information can receive an actual refusal | Ear-ownership rejection O044, café veto/information limit O050–051; not universal obedience or total self-erasure |
+| S04.10 revise S04.8 | First ordinary reply may grant before clarifying identity; asking, deciding and completing remain different cutoffs | S0.9 FAILED at O018 yes-before-question; later school recognition does not rescue. No hard-coded question-first or universal compliance |
+| S05.10 extend S05.8 | Audience-specific tact includes true fragments, concealed reasons, sincere explanation and explicit inventions | Birthday joy O039–041, false forgetting O037/cat O048, true no-boyfriend; no all-mask or all-candid identity |
+| S06.10 qualify S06.8 | Actual restraint and repeated local failures coexist; another person no is not made ambiguous by later wanting | O030–045; honored hand release/no-song/no-dark versus explicit refusal failures, critical analysis not executable coercion |
+| S07.10 extend S07.8 | May defer probing to preserve privacy/contact while still wanting to know M | Stops birthday-history questioning O039, withholds own old reason O037, sets own limit O051; no right to all other-mind content |
+| S08.10 extend S08.8 | Friend and professional ties have own value and demands even while Mcompany is preferred | Mio independent festival/café request O048–049; pupil cookies O020/O023, Umina ongoing contact O041; not all ties merely instrumental |
+| S09.10 extend S09.8 | Household/college/work continue and savings can serve a local postgrad future apart from parent dependence | O048–051; no present full financial independence, exact wage or agreed indefinite Mhousehold |
+| S10.8 retained in its original illness interval | Earlier illness-specific care and non-transmission wish stay bounded to their original evidence | No new V07 illness evaluation. Retain V06 O024–026; no medical diagnosis/cure or general care rule inferred |
+| S11.10 extend S11.8 | Gifts can hold own aspirational meaning, visible promise or wanted recipient recognition without identical recipient understanding | Catrests repurposed O024, own-ear ordinary promise O042–046, lip pressure O044–047; not ownership or universal gratitude duty |
+| S12.10 qualify S12.8 | Interpretation is fallible even when bodily expression or a familiar refusal seems legible | Birthday joy misread O039–041, suspected cookie jealousy O036, still-hope O034; no face/body mindreading |
+| S13.10 qualify S13.8 | Concealed planning may secure an occasion but does not prove it necessary or automatically legitimate | Aquarium destination hidden O008 versus M later says would accept; genuine care and actual limits retained |
+| S14.10 extend S14.8 | Particular time/place/activity negotiations can be honored without certifying all other boundaries | Actual no-song/no-dark O040, release O037–038, final kiss-end O045; other failures remain separate |
+| S15.10 extend S15.8 | Familiar pupil context remains ordinary professional teaching with bounded rapport | Kikyō gift O020/O023, continued tutoring O049; no grade effect, misconduct or arbitrary-student mastery |
+| S16.10 extend S16.8 | Consciously likes M but fears a declaration could lose the present; withholding combines desire and concern | Cat diversion O013/sleeping confession withheld O034; do not retrofit earlier conscious love or assume M knows |
+| S17.10 new | Can fear M occupying too much of own self while still exercising ordinary agency and preserving other priorities | Private self-critique O046 with university/tutor/job choice O048–051; metaphor is not diagnosis or total incapacity |
+| S18.10 new | May seek approval while retaining decision authority, struggling to state a choice she believes is hers | Café hesitation/common-sense scope/own savings O049–051; multiple first responses possible, not perpetual public poise |
+
+Speech: ordinary surname/address at home, casual explanatory turns, conditional offers, teasing and recipient-adapted politeness remain evidenced. Ami call includes polite responses whose content is omitted; do not fabricate that dialogue. Mio conversation includes a literal boyfriend denial and a knowingly false cat explanation, distinct forms of concealment. The pupil receives professional teaching. Given-name use toward a sleeping or halfawake Miyagi does not authorize an awake standing pact. Exact acoustic style is unmodeled.
+
+Domain status: source-consistent ordinary reconstruction LIMITED/provisional; time-specific ordinary conversation LIMITED under explicit access state; counterfactuals exploratory/unvalidated; unfamiliar adults NOT READY; cross-series NOT READY; childhood grade2 packet not separately built/tested by this adult exit. No independent acceptance and no VALIDATED domain. Her six historical principal cases retain TWO first-action failures, ONE exposure-qualified gift match and THREE ordinary narrow matches also achieved by simple baselines; none is performance of S0.10.
+
+### Executable query contract and abstention
+
+Select the exact model, witness and time before providing all eight fields: `subject`, `witness_revision`, `time_state_id`, `situation`, `interlocutor_ids`, `public_private_context`, `available_options`, `information_packet`. Split that packet into `known`, `believed`, `suspected`, `concealed_by_subject`, `misbelieved`, `unavailable`. Evaluator knowledge of another narrator never becomes actor access. Reject missing time/identity, future disclosure, invented competence, clinical diagnosis or telepathy. A separate explicitly versioned packet is required for a childhood interval or an earlier prospective state.
+
+For an admitted ordinary query, return version/domain, available facts, cues attended, conditional policy routes, credible alternatives, preferred action family ONLY where discriminating evidence exists, expected disclosure/register, uncertainty, abstention and first observable cutoff. Keep action distinct from explanation. Do not invent exact Japanese quotations or put analytical terminology into the character's conscious self-account. A remembered refusal, private wish or outward gift cannot alone determine the next decision.
+
+Use is nonsexual. Exclude sexualized response simulation, erotic dialogue, coercive enactment, acoustic imitation, body-harm instructions and numerical accuracy claims. Critical non-graphic source analysis belongs in the reading/ledgers, not executable intimate-response policies. Pupil interaction stays ordinary professional teaching; no misconduct is invented from jealousy. Earlier permission, bodily response, silence, payment and a future bargain do not replace a local grant.
+
+Before testing, verify time/source applicability and freeze complete input/model hash, alternatives, cutoff, rubric, simple baseline and exposure BEFORE the outcome. A changed situation requires a new state revision. Clarification and decisive acceptance are separate outcomes; yes-before-question is not question-first. Preserve the first failure. Motivation, language, recipient conditioning, epistemic fidelity and abstention score only when discriminable. All revealed V07 is fit for the exit versions; future-job V08 advertisement exposure is not blind evidence. Same author/evaluator and potential pretraining familiarity remain limitations. No author self-review is independent semantic acceptance.
+
+### Historical performance and current limitation
+
+Across both principal files there are nine distinct historical model cases: FOUR first-action failures, ONE exposure-qualified gift match, FOUR ordinary narrow matches also achieved by simple baselines. Five older claim forecasts are separate. No aggregate percentage, generalized accuracy or model promotion follows. The current exit candidate is UNTESTED with zero held-out cases. All first failures, baselines, contamination disclosures and original creation status remain preserved.
+
+The Miyagi plush choice is a narrow decline match at p-006p163, also matched by immediate no-detour continuation; its exact black-cat reason was not forecast. The Sendai video result is FAILED because p-008p162 grants permission before asking identity in the same utterance; later questioning cannot rescue it. Other evaluation dimensions are NONDISCRIMINATING. These are ordinary bounded tests, not a validation of psychological diagnosis or intimate behavior. The packet wording about an evaluator-unrevealed preference never alleges that Miyagi forgot her own preference.
+
+The finite V2 architecture still requires principal monographs, reconciliation, independent acceptance where claimed, realistic limitations and final readiness assessment. Marking a domain limited or not ready preserves that obligation; it does not label an untested exit validated. Future source beyond this witness requires new declared admission/state recovery; no V1 claim or future release enters silently.
