@@ -760,3 +760,47 @@ On 2026-10-13 at 23:27 UTC, complete native raw-file responses independently rep
 The pinned receipt retains the predecessor sizes and hashes, original substantive-body hashes, and the evidence for metadata/banner-only updates and preserved identities. Its private proof-receipt hashes are provenance references, not newly inspected private proof files. This index verification read current raw bytes and revision metadata; it did not re-certify the receipt's original-body or permission-continuity proofs.
 
 Source EPUBs and bulk extracted evidence retain their Drive evidence role. Git interpretation, source classes, model and QA qualifications, and provisional ceilings remain governed by their accepted records and separate review. The original readiness predecessor remains historical with its current-authority veto; its recorded destination is the later qualified re-audit. All prior index bytes, frozen migration crosswalks, analytical files and native Drive objects are preserved by this additive reference repair.
+
+## Shuukura V2 retained locator and source evidence references - 2026-10-17
+
+These three `REFERENCE_DRIVE` ZIPs are recorded in the published source commit `28f178a21cd0b68158f7d5fbb14cf56f528ab96b`. The links below pin each evidence reference to that commit. Git retains analytical interpretation authority; the retained ZIP payloads remain Drive-only evidence.
+
+The authorized Drive metadata check supplied for this repair (2026-10-17 at 19:31 UTC) matched each stable ID, exact filename, `application/zip` MIME type and byte size below. Checksums, revisions and parent IDs were not returned. The SHA-256 values and member counts are producer-recorded claims from the pinned Git records, not independently recomputed or verified by this index repair.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_BW07_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `17XVliD1tbuqQevhWnHPT_w8N2m6ef1Gk` | `application/zip` / 40985 | `7667bf9792c365bd8ee0d685f7cf76df8c7f9a9b8108e6a2646a1e6d9aedcfd5` | 16 | [BW07 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/28f178a21cd0b68158f7d5fbb14cf56f528ab96b/series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V07_DEEP_READING.md#L33) |
+| `SHUUKURA_V2_BW09_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1FFOAO3-XeXVXdP-tVfVtqsO0R5Ig1JEA` | `application/zip` / 43616 | `0ed99ecc3b94d0ff2ff20c26649fd168dc873f4335ff69197996c341ff32ae6f` | 17 | [BW09 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/28f178a21cd0b68158f7d5fbb14cf56f528ab96b/series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V09_DEEP_READING.md#L33) |
+| `SHUUKURA_V2_KSS01_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1BwKE9IGEw-MC0-J2bUzTG1t6eeY8zCSL` | `application/zip` / 61843 | `fb14022272c72fcfe74ab2c73deb8e9a680f9ffcb69026083f4aed3f1e139ca1` | 20 | [KSS01 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/28f178a21cd0b68158f7d5fbb14cf56f528ab96b/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_01_TRANSACTION_AUDIT.md#L36) |
+
+This additive reference entry preserves prior index content and historical migration dispositions. It does not confer semantic acceptance, source admission or authority promotion; the analytical records and their separate review obligations remain governing.
+
+### KSS02 retained evidence reference - 2026-10-17
+
+An additional `REFERENCE_DRIVE` ZIP is cited in published source commit `da0ed6b45dfe429a12505cc5a0f11bb31171e007`. The authorized provider metadata check supplied for this repair (2026-10-17 at 20:12 UTC) matched the exact filename, stable ID, `application/zip` MIME type, byte size and returned parent ID below. No checksum or revision was returned. The SHA-256 value and member count remain producer-recorded, independently unverified claims from the pinned Git record.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_KSS02_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1N421XTKAnNizVpBri2Q-HpYGEUtrmCF1` | `application/zip` / 78212 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `2cb49638bcf4eb3d957d8f5ba80fd863a7214c9e57075961bbf75e416dc2aa4a` | 22 | [KSS02 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/da0ed6b45dfe429a12505cc5a0f11bb31171e007/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_02_TRANSACTION_AUDIT.md#L38) |
+
+Git retains analytical interpretation authority; this ZIP remains Drive-only evidence. This metadata-only addition grants no semantic acceptance, source admission or authority promotion and preserves the prior three entries and all earlier index content.
+
+### KSS03 retained evidence reference - 2026-10-17
+
+An additional `REFERENCE_DRIVE` ZIP is cited in published source commit `e3603f3a7a818f4ae4313fe42acfb0df844d6192`. The authorized provider metadata check supplied for this repair (2026-10-17 at 20:52 UTC) matched the exact filename, stable ID, `application/zip` MIME type, byte size and returned parent ID below. No checksum or revision was returned. The SHA-256 value and member count remain producer-recorded, independently unverified claims from the pinned Git record.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_KSS03_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1u0PPivSGqdxmeeEidzZwLBSdmByWj-g0` | `application/zip` / 63075 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `2b0575e87751164d5cc8e2c3f97432f00d965a5a0f4e589e81ed0b869e39c19e` | 22 | [KSS03 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/e3603f3a7a818f4ae4313fe42acfb0df844d6192/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_03_TRANSACTION_AUDIT.md#L38) |
+
+Git retains analytical interpretation authority; this ZIP remains Drive-only evidence. This metadata-only addition grants no semantic acceptance, source admission or authority promotion and preserves the prior four entries and all earlier index content.
+
+### KSS04 retained evidence reference - 2026-10-17
+
+An additional `REFERENCE_DRIVE` ZIP is cited in published source commit `9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217`. The authorized provider metadata check supplied for this repair (2026-10-17 at 21:12 UTC) matched the exact filename, stable ID, `application/zip` MIME type, byte size and returned parent ID below. No checksum or revision was returned. The SHA-256 value and member count remain producer-recorded, independently unverified claims from the pinned Git record.
+
+| Exact provider name | Stable Drive ID | MIME / observed bytes | Returned parent ID | Producer-recorded SHA-256 (unverified) | Producer-recorded members (unverified) | Pinned Git reference |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `SHUUKURA_V2_KSS04_LOCATOR_AND_SOURCE_EVIDENCE_20261017_A1.zip` | `1XNNlrDaGiR3LoTon3ZBGFNVdhsKx7uNe` | `application/zip` / 89516 | `1BMN3LgKylCFuCPllNsc9007_urMeHV-4` | `1b9f68034ffab39a5abad7a4e6db68ad7fefd36d28b99750bb280d99a7229cda` | 22 | [KSS04 evidence record](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/9e81ac8834b1f43eb6ca1c205c1dc9f4ff278217/series/shuukura/08%20Audits%20and%20Handoffs/SHUUKURA_V2_KSS_04_TRANSACTION_AUDIT.md#L48) |
+
+Git retains analytical interpretation authority; this ZIP remains Drive-only evidence. This metadata-only addition grants no semantic acceptance, source admission or authority promotion and preserves the prior five entries and all earlier index content.
