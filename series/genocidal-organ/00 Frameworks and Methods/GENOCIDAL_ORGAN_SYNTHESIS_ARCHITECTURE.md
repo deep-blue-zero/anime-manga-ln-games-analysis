@@ -5,7 +5,7 @@ artifact_type: synthesis_architecture
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.3'
+version: '0.4'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
 source_boundary: Original Japanese prose novel; current bounded witness frontier owned by source map and entrypoint; historical G0 admitted zero units
@@ -157,3 +157,21 @@ Retain the INITIAL architecture lifecycle and the present three cumulative owner
 | G6 publication / release readiness | NOT_PERFORMED as the formal architecture gate; accepted sequential publications and current-run closeout remain their own bounded transactions |
 
 **RUN_LEDGER_RECONCILIATION: COMPLETED** for the authorized sequential run's cumulative three-owner, history, attribution, uncertainty and fixed-prediction responsibilities through accepted U028, as recorded by adoption of the dated owning supplements. This scoped completion is distinct from formal G2–G6. All 28 frozen readings, prospective boundaries, calibration provenance, 68 prior claim-version formulations, RV001 initial-index distinction and the full fixed four-forecast section remain preserved; all 88 interpretive claims retain their supported OPEN limits. No STABILIZED lifecycle, retrospective specialist/synthesis/reconstruction assessment, blind-validation claim or cross-novel work follows from this maintenance note. Actual G1 acceptance is recorded above. Run routing/terminal authority and the still-PENDING series-branch closing-publication transaction remain separately owned; this append does not certify their completion.
+
+
+## Authorized formal G2 retrospective reconciliation — 2026-10-17
+
+The owner's new G2 instruction separately commissions the retrospective responsibility distinguished above from RUN_LEDGER_RECONCILIATION. The complete admitted boundary remains GO-U001–028/all44 in GO-JP-EPUB-001; next source remains NONE. The current [G2 disposition and handoff](../07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G2_RECONCILIATION_AND_HANDOFF.md) routes to the existing three owners: current claim arguments/all88 dispositions and attributable revisions; all51 post-reading readiness decisions and all88 directional histories; and current knowledge/institution/coercion reconciliation. Their original G1 histories and freezes remain preserved.
+
+The three-owner architecture is adequate. G2 adds readable current projections in those homes instead of a competing claims ledger, character registry, theme index or novel synthesis. No source evidence is removed for style. Historical source-run rows and earlier pending publication statements remain dated records; the current entrypoint/rolling receipt own live task and repository state. The INITIAL architecture lifecycle is retained; completion alone does not require STABILIZED status or new empty directories.
+
+| Gate at this new authorization boundary | Current scoped disposition |
+| --- | --- |
+| G1 | PASS unchanged for the exact complete witness; PR188 already merged, preservation verified |
+| G2 | SEMANTIC_COMPLETE and independently accepted after scoped challenge; exact repository publication acceptance belongs to the resulting commit's required audits. This is formal retrospective work, not a relabeled G1 supplement |
+| G3 | NOT_PERFORMED / NOT_AUTHORIZED by this task; specialist and monograph eligibility/dependencies are a G2 planning output only |
+| G4 | NOT_PERFORMED / NOT_AUTHORIZED; later integrated novel argument follows G3 convergence |
+| G5 | NOT_PERFORMED / NOT_AUTHORIZED; eight readiness candidates are not models or validation; all production NOT_STARTED and validation NOT_PERFORMED |
+| G6 | NOT_PERFORMED / NOT_AUTHORIZED; draft publication and semantic G2 completion do not constitute terminal release |
+
+Recommended later order is a bounded G3 assignment covering narration/form/disclosure, actor/relationship agency and institutional/causal/normative reasoning; G5 may proceed alongside only under its own evidence/state/validation scope; G4 follows specialist convergence; G6 follows requested obligations and separately authorized integration/release. No actual monograph, specialist, model, simulation or comparison begins here. Source-exposure history prevents calling already-read cases blind holdouts. The semantic gate above follows substantive independent review and adopted corrections, not merely the existence of expected files; exact repository publication acceptance remains a separate check.
