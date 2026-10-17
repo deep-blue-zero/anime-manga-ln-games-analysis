@@ -5,10 +5,10 @@ artifact_type: synthesis_architecture
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.17'
+version: '0.18'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U016 complete Part IV entering heading/framing and numbered01 at spines28–30; exclusive before spine31 text/part0012_split_002.html; later narrative body unopened
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U017 complete Part IV numbered02 at spine31 text/part0012_split_002.html; exclusive before spine32 text/part0012_split_003.html; later narrative body unopened
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -141,3 +141,5 @@ For the later longitudinal lifecycle, prefer a capable Git/source operator for s
 Apply the live [reasoning policy](../../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), [capability policy](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md), [long-series protocol](../../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md), [handoff/name standard](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), [archive policy](../../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [initiation](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation](../../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [checklist](../../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md). Specialized routing/curation owners retain their boundaries. Owner-review publication is a distinct completion responsibility from narrative admission.
 
 **Third-Part and new-frame architecture review — HAR-U016, 2026-10-17.** The preceding accepted U015 closes PartIII, and the current unit reopens ETML around a school recollection, mediated subjective movie, selectively truthful report and explicit bluff. The existing scene-time/disclosure/channel fields preserve these layers; explicit current claim versions handle later death confirmation without revising the preceding exit. Actor and directional histories distinguish private from public account and institutional use from personal aim. Existing sole ledger homes remain adequate; no recurring retrieval burden or ownership gap requires migration or another home. INITIAL remains appropriate. This is a required boundary/method review, not novel-wide reconciliation, specialist synthesis or reconstruction. G1 and the actual epilogue remain incomplete.
+
+**Exception and material-channel review — HAR-U017, 2026-10-17.** Newly described professional exceptions versus unwritten social pressure, physical correspondence with unknown authorship and represented destinations versus requested travel fit the current actor/channel/knowledge-limit and claims/countercase fields. The sole world ledger can distinguish law, assessment, report obligation and workaround without a second institution home; directional histories handle translated delivery and one-sided calls. Existing ownership remains adequate, INITIAL retained; no migration or downstream synthesis/reconstruction. Sequential coverage and the actual epilogue remain incomplete.
