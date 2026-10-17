@@ -5,10 +5,10 @@ artifact_type: source_scope_map
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.17'
+version: '0.18'
 status: active_provisional
 scope: Source and scope / witness inventory
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U015 complete Part III numbered06 at spine27 text/part0010_split_006.html; exclusive before spine28 text/part0011.html; later narrative body unopened
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U016 complete Part IV entering heading/framing and numbered01 at spines28–30; exclusive before spine31 text/part0012_split_002.html; later narrative body unopened
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -56,10 +56,10 @@ Before retention of the pilot verification bundles, direct folder retrieval retu
 | Package identifier | `B009DEMA1Q` plus package UUID identifiers; no verified edition ISBN in inspected metadata |
 | Transformation indications | Calibre metadata and split/generated packaging exist; exact acquisition and transformation lineage unverified |
 | Archive/package | Fresh ZIP CRC passes; container resolves `content.opf`; 44 declared manifest resources and all 40 spine occurrences resolve/parse; active CSS resolves; 39 absent alternate-stylesheet links are separately bounded below; no encryption manifest |
-| Text capability | Admitted units through HAR-U015 are legible Japanese; meaningful text/form round-trips through source XHTML, XML-aware extraction and faithful source-CSS rendering; prose beyond this frontier remains semantically uninspected |
+| Text capability | Admitted units through HAR-U016 are legible Japanese; meaningful text/form round-trips through source XHTML, XML-aware extraction and faithful source-CSS rendering; prose beyond this frontier remains semantically uninspected |
 | Pagination / CFI | No page-map member observed; edition-page mapping and stable CFI generation not verified. Use hash-bound member/DOM locators under the method |
-| Reading authority | `VERIFIED_WITNESS_THROUGH_HAR_U015`; exact transformed Japanese witness, incremental unit fidelity, unchanged lineage caveats |
-| Narrative state | `ADMITTED_THROUGH_HAR-U015`; Parts I–III complete;192 evidence IDs/195spans; exclusive before Part IV entering heading |
+| Reading authority | `VERIFIED_WITNESS_THROUGH_HAR_U016`; exact transformed Japanese witness, incremental unit fidelity, unchanged lineage caveats |
+| Narrative state | `ADMITTED_THROUGH_HAR-U016`; Parts I–III and Part IV01 complete;207 evidence IDs/211spans; exclusive before Part IV02 |
 
 SHA-256 and ZIP integrity detect byte changes/corruption; they do not authenticate the edition or establish textual completeness. At bootstrap, mechanical parsing did not display narrative passages and human-readable inspection was limited to package metadata/navigation. The later pilot source audit is explicitly recorded below. No normalized narrative derivative is promoted or published.
 
@@ -131,9 +131,9 @@ Roles after the current admitted frontier remain **provisional** from package/na
 | 25 | `text/part0010_split_004.html` | Complete natural Part III04; READ/CLOSED in HAR-U013, body0–6159 |
 | 26 | `text/part0010_split_005.html` | Complete natural Part III05; READ/CLOSED in HAR-U014, body0–5583 |
 | 27 | `text/part0010_split_006.html` | Complete natural Part III06; READ/CLOSED in HAR-U015, body0–10070 |
-| 28 | `text/part0011.html` | Part IV heading candidate; UNREAD |
-| 29 | `text/part0012_split_000.html` | Unnumbered Part IV transition; UNREAD |
-| 30 | `text/part0012_split_001.html` | Part IV numbered 01 from NCX; UNREAD |
+| 28 | `text/part0011.html` | Complete Part IV title The Day The World Went Away; READ/CLOSED in HAR-U016, body0–54 |
+| 29 | `text/part0012_split_000.html` | Complete fresh ETML header/doctype/lang/body framing and blanks; READ/CLOSED in HAR-U016, body0–159 |
+| 30 | `text/part0012_split_001.html` | Complete natural Part IV01 and blanks; READ/CLOSED in HAR-U016, body0–11243 |
 | 31 | `text/part0012_split_002.html` | Part IV numbered 02 from NCX; UNREAD |
 | 32 | `text/part0012_split_003.html` | Part IV numbered 03 from NCX; UNREAD |
 | 33 | `text/part0012_split_004.html` | Part IV numbered 04 from NCX; UNREAD |
@@ -360,3 +360,15 @@ Cumulative23subjects75actorhistory49directionIDs113relationhistory73readinesshis
 Actualverticalrl7893×1000/bodyx46.34375–7886.34375/textRangebottom1000.046875subpixel; all lexical columns/elements fit. Byte-identicalXHTML/application/xhtml+xml/restrictedloopback/originalactiveCSS/viewerfont/nonloopbackblock retained. ActiveCSS bytes equal fully inspected U014 styles. ActualChromium154.0.8037.57/NodePlaywright1.62.1/Python3.12.14/lxml6.1.1/libxml2 2.14.6;NotoSerifCJKJP collectionSHA-256`5d9c31a059600193c9d7968a998bde886ccdc77e934006ad243b41794c496a7d`;actualJPfont/sourceglyphcoverage verified. Transformededition/date/inactivealternatestyle caveats unchanged; no publisher-layout authentication or rawsourceGit.
 
 Cumulative23subjects82actorhistory50directionIDs123relationhistory80readinesshistory90worldIDs117distinctclaims118primary-tableversionrows(+2archivedcalibrationversions;120retainedtotal)0predictions3RV(2earliercalibrations+HAR-RV003);192evidenceIDs195spans. FourDOMAIN_BOUNDED/nineteenRECOGNITION_ONLY;modelsNOT_STARTED/validationNOT_PERFORMED/architectureINITIALadequate/noG2–G6. C004/C018 domain decisions cite specific recurrent action/different stakes/countercases, not significance. Earlier14readingbytes/rows/seals and HAR-RET-001 preserved. NextHAR-U016 provisionally PartIVheading/framing/01spines28–30,exclusivebefore31,remainsunopenedpendingcompletecurrentpublicationgates.
+
+## HAR-U016 incremental source and reading closeout
+
+[HAR-U016](../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md) closes the natural PartIV entering title/framing plus01: spine28 `text/part0011.html`, spine29 `text/part0012_split_000.html`, spine30 `text/part0012_split_001.html`, exclusive before31. Exact member SHA-256 values are respectively `9b06077eab1c8d0a2e64fdb58c5d0c2876d9292550a9107f256049dae7a95ee1`, `8c383195b6d411b1322cdc870677d4e3c93487d4e3c88f6e98590c8bd0f30ad4`, `0539e31f4981014062a1da236f91f765594f27aac9cbb9274ec5e8ab26546c45`. Raw body lengths54/159/11243; blocks1/8/187; ruby0/0/28; br0/8/186. All11456body codepoints and final blanks are read,11244block codepoints plus212interblock codepoints. Fifteen evidence IDs/16original exact spans round-trip. Whole Japanese, original head/activeCSS, all28ruby and nine actual panels were inspected by author and isolated reviewer. Original XML/extraction/recorded and fresh actual DOM agree; all262bounds fit. No later body/render is opened.
+
+Actual presentation: title horizontal,1440×1000viewport/bodyx6.65625–1433.34375,height28,onepanel; framing vertical,1440×1000/bodyx1209.34375–1433.34375,two panels including the narrow blank overlap/margin; prose vertical,8061×1000/bodyx46.34375–8054.34375,sixpanels. Prose textRangebottom1000.046875 is a subpixel bound, with lexical columns/elements/pixels intact. Original alternate-link labels do not override the active CSS result. The active styles are byte-identical to the prior inspected styles. Byte-identical original XHTML is served as application/xhtml+xml over restricted loopback; nonloopback browser requests blocked. Actual Chromium154.0.8037.57/Playwright1.62.1/Python3.12.14/lxml6.1.1/libxml2 2.14.6 and NotoSerifCJKJP collection SHA-256 `5d9c31a059600193c9d7968a998bde886ccdc77e934006ad243b41794c496a7d` were used; actual font/source-glyph coverage verified. No publisher-layout or original-print equivalence is claimed. Inactive missing alternate styles remain unreconstructed.
+
+The fresh literal PartIV field/header/body, recollection and movie scopes, nested fear/dictionary, closure order, headings and blanks remain text/event evidence distinct from XHTML. Original ruby such as 則/のつと, 顰蹙/ひん・しゆく, 首魁/しゆ・かい and ボルヘス remains unchanged. Source/scene/narrator/analyst attribution preserves quotations and embedded religious descriptions without external authentication. Current cumulative counts:207evidence IDs/211spans;26subjects/93actor histories/54directional IDs/141relationship histories/91readiness histories/100world IDs/129distinct claims/131primary version rows plus2archived calibration versions=133retained versions/0predictions/4revisions. Four DOMAIN_BOUNDED and22RECOGNITION_ONLY; no models/validation/G2–G6. Earlier15readings and seals/table history remain intact.
+
+Administrative erratum HAR-ADM-002, recorded during U016: the retained U015 private bundle's REPRODUCTION.md has one stale phrase “Spine25 final panel.” That instructional phrase should identify spine27. The U015 CONFIG, manifest source objects, original member/hash, reviewer identities, all14locators and all6panels consistently bind actual spine27; no wrong source or reviewer object is implicated. The immutable V1 ZIP is preserved, and this forward erratum qualifies that sentence without altering any U015 source, reading or freeze. U016 reproduction is authored with its own28–30identities rather than copying the phrase.
+
+HAR-U016 private source verification is retained as `HAR-U016_PRIVATE_SOURCE_VERIFICATION_20261017_V1.zip`, Drivefile`1Yna1y5oZn2I1xT9TlAb_zSfMMfNK5diJ`, canonical parent`1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false/owner-only. Complete raw remote readback equals4,264,195bytes/SHA-256`5ace8edddaf93fc1b477bf0340d497e28361a3c0917cf862f0f52bb5595d3c08`;35entries/34objects plus manifest SHA-256`677f129c7e4b04263bd153bad281fb2db7109d8b08e2f6ead86018c7ebfb09cf`, safe paths/exact membership/CRC/allsize-hashes PASS. Preupload independent audit binds every current unit/witness/member/locator/reviewer/DOM/font/ruby/panel identity beyond integrity. Independent full downloaded readback identity review also PASS; final candidate/publication remain separate gates. Only current released source exports/panels/neutral proof/reproduction tools/factual checks are retained; analysis/frontiers/exposure/drafts/future/originalduplicates/binaries/caches excluded. This does not alter the original witness or authenticate publisher lineage.

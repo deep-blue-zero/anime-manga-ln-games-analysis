@@ -5,10 +5,10 @@ artifact_type: analytical_method
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.16'
+version: '0.17'
 status: active_provisional
 scope: Prospective prose-reading method
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U015 complete Part III numbered06 at spine27 text/part0010_split_006.html; exclusive before spine28 text/part0011.html; later narrative body unopened
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U016 complete Part IV entering heading/framing and numbered01 at spines28–30; exclusive before spine31 text/part0012_split_002.html; later narrative body unopened
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_ANALYTICAL_METHOD.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -94,4 +94,4 @@ Later evidence is reconciled in the claims ledger through `PRESERVE`, `STRENGTHE
 
 Advisory reviewer guidance is a prompt to verify the original Japanese, not a source or new governance. State deliberate formal patterns and strongly supported inferences affirmatively, with confidence attached to the precise proposition. Uncertainty about a literary form’s referent or fictional implementation must not erase certainty about the displayed form. Keep only material, textually supported counterreadings; compatible rhetorical functions need not compete with one another. Japanese wording, particles, omitted subjects, register, repetition and meaningful layout remain load-bearing. Narrative claims, strong inference, speculation and value judgment stay distinct. No forecast is required where the text offers no discriminating prospective test.
 
-HAR-U001 remains byte-frozen. Current claim strengthenings use HAR-RV001/HAR-RV002 with complete earlier formulations preserved; no retrospective source enters that pilot. Each continuation unit freezes its entering frontier before new words, including any explicitly dated source-bounded current-claim revisions. Recurring verification/runtime details live in source/continuation records so literary prose can concentrate on the unit’s warranted argument.
+HAR-U001 remains byte-frozen. Current claim strengthenings use HAR-RV001–HAR-RV004 with complete earlier formulations preserved, including explicit current-version selectors for later source-bound changes; no retrospective source enters that pilot. Each continuation unit freezes its entering frontier before new words, including any explicitly dated source-bounded current-claim revisions. Recurring verification/runtime details live in source/continuation records so literary prose can concentrate on the unit’s warranted argument.
