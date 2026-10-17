@@ -5,7 +5,7 @@ artifact_type: synthesis_architecture
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.2'
+version: '0.3'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
 source_boundary: Original Japanese prose novel; current bounded witness frontier owned by source map and entrypoint; historical G0 admitted zero units
@@ -125,6 +125,10 @@ Review architecture after the first completed part, after a new formal or episte
 Current entrypoint, source map and cumulative ledgers are maintained through targeted edits. Accepted sequential readings and their prospective snapshots remain frozen; revisions use the claims history and attributable errata. Preserve superseded versions and bounded source lineage under the archive policy.
 
 Harmony / ハーモニー remains a separate project. Do not consult its narrative during this novel's prospective reading to answer a literary question. Shared-world, thematic, linguistic and authorial-development comparisons could later be tested in an authorized retrospective `studies/` project after independent readings, with separate source boundaries and explicit uncertainty. No such study or shared chronology is created now; common authorship proves neither continuity nor shared endorsement.
+
+### First-Part architecture review — GO-U004 / 2026-10-17
+
+Complete Part I introduces richer narrated explanation, cohort coercion, differentiated speaker access and a direct affect countercase. The existing actor/directional/readiness, knowledge/institutions/coercion and claims/revisions owners contain those responsibilities without a retrieval or ownership gap. Keep the present three-ledger arrangement and INITIAL lifecycle; no migration, extra specialist home or separate evidence index is warranted at this boundary. GO-U004’s passage appendix and the private source bundle supply exact retrieval. Later Part reviews may revise that decision on actual recurrence/burden. This is an architecture maintenance judgment, not a Part-level or novel synthesis, source-completion gate or reconstruction promotion.
 
 ## 9. Execution, handoff and governance
 
