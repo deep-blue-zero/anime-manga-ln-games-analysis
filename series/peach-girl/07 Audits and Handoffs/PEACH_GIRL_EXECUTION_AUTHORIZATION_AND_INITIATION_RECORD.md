@@ -71,7 +71,7 @@ Material architecture defects repairable within project-local files: none that b
 
 ## 4. Source acquisition and package verification
 
-The Drive connector available to this execution could read collection metadata but refused file downloads above 10 MB. With the owner's temporary link-sharing and an owner-changed network policy, the 18 EPUBs and three provenance objects were retrieved read-only over HTTPS from the Drive download host. No Drive object was written, renamed or moved. The owner was told when collection finished so link-sharing could be withdrawn. The retrieved primary bytes remain in the execution's working plane, outside Git.
+The Drive connector available to this execution could read collection metadata but refused file downloads above 10 MB. With the owner's temporary link-sharing and an owner-changed network policy, the 18 EPUBs and three provenance objects were retrieved read-only over HTTPS from the Drive download host. No Drive object was written, renamed or moved. Collection was complete and byte-verified on 2026-10-16 UTC. The completion notice reached the owner on 2026-10-17 UTC so link-sharing could be withdrawn; it was delayed by a session interruption. (Correction 2026-10-17 UTC: an earlier wording of this sentence said the owner had already been told, before that notice was given.) The retrieved primary bytes remain in the execution's working plane, outside Git.
 
 | Check | Result |
 | --- | --- |

@@ -78,18 +78,31 @@ Bootstrap source-derived claims, forecasts, revisions and current-index rows: **
 | PG-CL-0012@1 | Momo's refusal to restart (i0174) is best explained by the trust injury she names at i0057; unsettled feeling about Kairi is a plausible contributing competitor / PLAUSIBLE_COMPETING / V03 | i0057, i0100–0106, i0173–0174 / counter: no stated reason | MODERATE / test: her stated reason later | CM-0018 / PG-FR-V03 |
 | PG-CL-0013@1 | Momo has attraction-like and reliance feelings toward Kairi that she disavows as a lapse; romantic category unresolved / STRONGLY_SUPPORTED (self-reported existence) / V03 | i0071, i0100, i0105–0106, i0130 / counter: her explicit preference for Tōji | MODERATE | RL-0027 / PG-FR-V03 |
 | PG-CL-0014@1 | Sae's deception is resolved through convergent independent testimony and source scrutiny, not through Momo's credibility alone / STRONGLY_SUPPORTED / V03 | i0154–0165 | HIGH | TX-0029, -0030 / PG-FR-V03 |
+| PG-CL-0001@3 | Appearance-based misreading of Momo structures the conflicts and is exploited by Sae; Momo had also internalized it as a 被害者意識 that justified avoiding rejection, which she recognizes in V04 / STRONGLY_SUPPORTED / V04 | V04 i0024, i0034–0035, i0045, i0156 / counter: her recognition does not deny the external misreading | HIGH / test: whether the internal pattern recurs | RP-0017, -0020 / PG-FR-V04 |
+| PG-CL-0002@4 | With Tōji unavailable, Sae's conduct centers on status and rivalry with Momo (fantasy of Momo groveling; attention through the magazine and an exaggerated romance) rather than on Tōji / PLAUSIBLE_COMPETING / V04 | V04 i0142, i0146, i0160–0161 / counter: her fantasy includes closeness to Tōji | MODERATE / test: her conduct toward Jigoro and Tōji | RL-0045 / PG-FR-V04 |
+| PG-CL-0003@4 | Sae's deceptions are deliberate and continue after exposure, now aimed at outsiders without corrective testimony (cookie claim, false account of Momo to Jigoro, exaggeration at school) / ESTABLISHED (acts) + STRONGLY_SUPPORTED (pattern) / V04 | V04 i0155, i0158, i0160–0161 | HIGH | TX-0038…0040 / PG-FR-V04 |
+| PG-CL-0005@4 | Tōji takes responsibility in act and word: penance not aimed at winning her back; names his error as believing Sae without seeing or hearing for himself; pays a public cost to reassure Momo / STRONGLY_SUPPORTED / V04 | V04 i0039–0041, i0122, i0125 | HIGH | RL-0038, -0043 / PG-FR-V04 |
+| PG-CL-0006@4 | Kairi secretly organized the V03 testimony and then withdrew from Momo, defending Tōji to her and deflecting her thanks; his stated opportunism is a competing account / STRONGLY_SUPPORTED / V04 | V04 i0019, i0028, i0064–0083 / counter: his own 「つけ入ろーと思ってた」 | HIGH (acts), MODERATE (motive) | RL-0039, -0040; IP-0030, -0031 / PG-FR-V04 |
+| PG-CL-0012@2 | Momo's V03 refusal rested on her stated fear of not being believed again; she then judges it as fear-driven avoidance of rejection; love for Kairi as the reason is not supported / ESTABLISHED (stated reason) + STRONGLY_SUPPORTED (reinterpretation) / V04 | V04 i0023, i0029, i0034–0035, i0045 / counter: her later counterfactual about Kairi | HIGH; Kairi competitor LOW | CM-0019; IP-0033 / PG-FR-V04 |
+| PG-CL-0013@2 | Momo's feeling for Kairi includes a counterfactual romantic possibility (「もしとーじより先に出会ってたら」), gratitude and grief at his withdrawal, subordinated to her present choice of Tōji; category still unresolved / STRONGLY_SUPPORTED (existence) / V04 | V04 i0077–0085 / counter: unfinished sentence; her explicit love for Tōji | MODERATE–HIGH | RL-0041 / PG-FR-V04 |
+| PG-CL-0015@1 | The reconciliation turns on Momo's recognition that her victim complex had become a self-justifying avoidance of rejection, prompted by Kairi's confrontation / ESTABLISHED (narrated) + STRONGLY_SUPPORTED (causal role) / V04 | i0030–0035, i0043–0048 / alternative: reaction to Kairi's withdrawal | HIGH | RL-0037, -0039 / PG-FR-V04 |
+| PG-CL-0016@1 | Sae's post-exposure servility toward Momo is at least partly performative: private hostility and deception persist alongside apparent relief at Momo's kindness / STRONGLY_SUPPORTED / V04 | i0114, i0116, i0142–0144, i0146, i0155, i0158 / alternative: sincere change with lapses | HIGH (performative element); relief UNRESOLVED | RL-0045; IP-0035 / PG-FR-V04 |
+| PG-CL-0017@1 | The couple's intimacy conflict comes from mirrored reticence (Momo about kissing, Tōji about saying 「好き」) and is resolved when Tōji pays a public cost to deliver a private message / STRONGLY_SUPPORTED / V04 | i0087–0108, i0118–0128 | HIGH | RL-0042, -0043; CM-0021; TX-0041 / PG-FR-V04 |
+| PG-CL-0018@1 | Jigoro's hostile belief about Momo comes from a staged visual impression plus Sae's false account, repeating the V01–V03 mechanism with an outsider who lacks the class's corrective testimony / STRONGLY_SUPPORTED / V04 | i0156–0159 / counter: none | HIGH (belief and source); his motive for pursuing Sae PLAUSIBLE | RL-0047; KN-0044; TX-0039 / PG-FR-V04 |
 
 ## Prospective forecasts
 
 | Forecast / originating freeze | Exact forecast / test / resolution condition | Alternatives / rationale / evidence | Status / adjudication frontier and evidence |
 | --- | --- | --- | --- |
-| PG-PR-0001 / PG-FR-V01 | If V02 discloses who wrote the two pool notes, it will attribute them to Sae. Resolves on explicit attribution or admission; NOT_TESTED if none | Alternatives: Kairi's fans; another student. Rationale: Sae's timed arrival with Tōji (i0094). Non-blind caveat | OPEN (NOT_TESTED in V02 or V03: no disclosure) |
+| PG-PR-0001 / PG-FR-V01 | If V02 discloses who wrote the two pool notes, it will attribute them to Sae. Resolves on explicit attribution or admission; NOT_TESTED if none | Alternatives: Kairi's fans; another student. Rationale: Sae's timed arrival with Tōji (i0094). Non-blind caveat | OPEN (NOT_TESTED in V02–V04: no disclosure) |
 | PG-PR-0002 / PG-FR-V01 | The misunderstanding at i0172–i0178 will not be resolved within V02's first chapter by Momo and Tōji simply asking each other; another transmission or witness is required | Alternative: immediate frank talk. Rationale: V01 pattern of reliance on reports. Non-blind caveat | DISCONFIRMED at PG-FR-V02: Tōji came to Momo's house the same evening and apologized directly; they reconciled (V02 i0019–i0024). The Sae-sourced belief underneath was not addressed |
 | PG-PR-0003 / PG-FR-V01 | Kairi will make at least one further explicit romantic advance or proposal to Momo in V02 | Alternative: withdrawal after her refusal. Non-blind caveat | SUPPORTED_FOR_TESTED_SCOPE at PG-FR-V02: V02 i0072 (lingering embrace), i0098 (attempted kiss), i0144 (vow not to give up) |
 | PG-PR-0004 / PG-FR-V02 | Momo will actively contest the breakup in V03 (at least one explicit attempt to repair it or persuade Tōji) rather than accept it passively | Alternative: acceptance or withdrawal. Rationale: CS-0015 escalation pattern. Non-blind caveat | DISCONFIRMED at PG-FR-V03: Momo sealed the breakup herself (V03 i0009), left without entering (i0058), and refused Tōji's request to restart (i0174) |
 | PG-PR-0005 / PG-FR-V02 | Sae will use the breakup to pursue Tōji more openly in V03 (an explicit romantic move or claim) | Alternative: Sae switches target or lies low. Rationale: PG-CL-0002@2. Non-blind caveat | SUPPORTED_FOR_TESTED_SCOPE at PG-FR-V03: plan to win him over the summer (V03 i0112); public claim that he led her on (i0160) |
-| PG-PR-0006 / PG-FR-V03 | In V04, Momo will give Tōji an explicit reason for refusing to restart, and it will concern trust or her own uncertainty rather than a declared love for Kairi | Alternative: a Kairi declaration; or no stated reason. Non-blind caveat | OPEN |
-| PG-PR-0007 / PG-FR-V03 | The tentatively agreed sea trip with Kairi will occur or be explicitly discussed in V04 | Alternative: dropped silently. Non-blind caveat | OPEN |
+| PG-PR-0006 / PG-FR-V03 | In V04, Momo will give Tōji an explicit reason for refusing to restart, and it will concern trust or her own uncertainty rather than a declared love for Kairi | Alternative: a Kairi declaration; or no stated reason. Non-blind caveat | MIXED at PG-FR-V04: the reason concerns trust and fear of not being believed, and Kairi's guess that she loves him is overridden (V04 i0023, i0029), as forecast; but it is given to Kairi, not Tōji. To Tōji she gives a self-critique and reverses the refusal (i0045–i0048) |
+| PG-PR-0007 / PG-FR-V03 | The tentatively agreed sea trip with Kairi will occur or be explicitly discussed in V04 | Alternative: dropped silently. Non-blind caveat | DISCONFIRMED at PG-FR-V04: the summer is summarized with no trip and no mention of Kairi (V04 i0051–i0055); not raised later in V04 |
+| PG-PR-0008 / PG-FR-V04 | In V05, Jigoro will act on his false belief about Momo (a direct hostile statement or act toward her) before he learns the truth. Supported by any such act that depends on Sae's account; disconfirmed if none occurs or he learns the truth first | Alternative: he ignores Momo or is corrected early. Rationale: PG-CL-0018@1. Non-blind caveat | OPEN |
+| PG-PR-0009 / PG-FR-V04 | In V05, Sae will use her connection with Jigoro to raise her standing at school or to act against Momo. Supported by an explicit status display or move against Momo that relies on Jigoro; disconfirmed if she rejects him or the connection plays no role | Alternative: she declines him, or keeps it private. Rationale: PG-CL-0002@4, PG-CL-0016@1. Non-blind caveat | OPEN |
 
 ## Revisions and propagation
 
@@ -106,24 +119,35 @@ Bootstrap source-derived claims, forecasts, revisions and current-index rows: **
 | PG-RV-0009 / PG-RV-0004 | PG-CL-0005@2 → @3 / STRENGTHEN | Public apology; credulity explained / PG-FR-V03 | — |
 | PG-RV-0010 / PG-RV-0005 | PG-CL-0006@2 → @3 / STRENGTHEN | Engineered the reunion against his own interest / PG-FR-V03 | — |
 | PG-RV-0011 / — | PG-CL-0001@1 → @2 / STRENGTHEN | Explicit exploitation by Sae; class judgment / PG-FR-V03 | — |
+| PG-RV-0012 / — | PG-CL-0012@1 → @2 / REVISE | Stated reason given to Kairi; Momo's reinterpretation as avoidance / PG-FR-V04 / i0023, i0029, i0034–0035, i0045 | PR-0006 MIXED |
+| PG-RV-0013 / — | PG-CL-0013@1 → @2 / STRENGTHEN | Counterfactual, gratitude and grief / PG-FR-V04 / i0077–0085 | Monograph obligation |
+| PG-RV-0014 / PG-RV-0010 | PG-CL-0006@3 → @4 / STRENGTHEN | Orchestration revealed and confirmed; withdrawal; Misao's assessment / PG-FR-V04 / i0019, i0068, i0076 | IP-0030, -0031 |
+| PG-RV-0015 / PG-RV-0011 | PG-CL-0001@2 → @3 / REVISE | Internalized as victim complex; new external instances / PG-FR-V04 / i0024, i0034–0035, i0156 | CL-0015 linked |
+| PG-RV-0016 / PG-RV-0009 | PG-CL-0005@3 → @4 / STRENGTHEN | Penance, self-account, public sign / PG-FR-V04 / i0039–0041, i0122 | — |
+| PG-RV-0017 / PG-RV-0008 | PG-CL-0002@3 → @4 / REVISE | Status and rivalry focus with Tōji unavailable / PG-FR-V04 / i0142, i0160–0161 | Monograph obligation |
+| PG-RV-0018 / PG-RV-0007 | PG-CL-0003@3 → @4 / STRENGTHEN | Post-exposure deception of outsiders / PG-FR-V04 / i0155, i0158, i0160 | CL-0018 linked |
 
 ## Current claim index
 
 | Claim | Active version / cutoff | Latest revision | Unresolved evidence or propagation debt |
 | --- | --- | --- | --- |
-| PG-CL-0001 | @2 / V03 | PG-RV-0011 | — |
-| PG-CL-0002 | @3 / V03 | PG-RV-0008 | Acquisition vs attachment |
-| PG-CL-0003 | @3 / V03 | PG-RV-0007 | — |
+| PG-CL-0001 | @3 / V04 | PG-RV-0015 | Recurrence of the internal pattern |
+| PG-CL-0002 | @4 / V04 | PG-RV-0017 | Status vs attachment; role of Jigoro |
+| PG-CL-0003 | @4 / V04 | PG-RV-0018 | — |
 | PG-CL-0004 | @2 / V02 | PG-RV-0003 | Authorship disclosure |
-| PG-CL-0005 | @3 / V03 | PG-RV-0009 | — |
-| PG-CL-0006 | @3 / V03 | PG-RV-0010 | Depth of feeling |
+| PG-CL-0005 | @4 / V04 | PG-RV-0016 | — |
+| PG-CL-0006 | @4 / V04 | PG-RV-0014 | Motive: care vs stated opportunism |
 | PG-CL-0007 | @1 / V01 | — | Flashback |
 | PG-CL-0008 | @2 / V03 | PG-RV-0006 | — |
 | PG-CL-0009 | @1 / V02 | — | Context disclosure |
 | PG-CL-0010 | @1 / V02 | — | Organizer confirmation |
 | PG-CL-0011 | @1 / V02 | — | Further disbelief cases |
-| PG-CL-0012 | @1 / V03 | — | Stated reason |
-| PG-CL-0013 | @1 / V03 | — | Category of feeling |
+| PG-CL-0012 | @2 / V04 | PG-RV-0012 | — |
+| PG-CL-0013 | @2 / V04 | PG-RV-0013 | Category of feeling |
 | PG-CL-0014 | @1 / V03 | — | — |
+| PG-CL-0015 | @1 / V04 | — | — |
+| PG-CL-0016 | @1 / V04 | — | Sincerity of relief |
+| PG-CL-0017 | @1 / V04 | — | — |
+| PG-CL-0018 | @1 / V04 | — | Jigoro's motive |
 
-Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended and forecast statuses adjudicated (frontier PG-FR-V02), 2026-10-16 UTC. V03 rows, revisions and adjudications appended (frontier PG-FR-V03), 2026-10-17 UTC.
+Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended and forecast statuses adjudicated (frontier PG-FR-V02), 2026-10-16 UTC. V03 rows, revisions and adjudications appended (frontier PG-FR-V03), 2026-10-17 UTC. V04 rows, revisions and adjudications appended (frontier PG-FR-V04), 2026-10-17 UTC.

@@ -64,6 +64,11 @@ The sequential closeout certifies this instrument updated or records no material
 | PG-CHAR-0011 | Unnamed male admirer of Sae whose movie ticket she tore (V01 i0118–0119); testifies at V03 i0164 | Mainline; V01 i0118 | Unnamed; link V01/V03 by depiction (MODERATE) |
 | PG-CHAR-0012 | Bounded group: girls whose boyfriends Sae reportedly stole (i0162–i0163) | Mainline; PG-EV-V03-0035 | Group; members unnamed |
 | PG-CHAR-0007 (identity update, appended) | Identified as キョーちん, Momo's middle-school friend, who admits fabricating the report (V03 i0044–i0046) | First identified PG-EV-V03-0010 | Nickname only |
+| PG-CHAR-0013 | すみれ (Sumire), class 1-1; a girl Sae hurt in her first year of middle school; recruited by Kairi for the V03 testimony | Mainline; PG-EV-V04-0014 (i0067) | Given name only; probably one of the V03 i0162–i0163 testifiers (PG-CHAR-0012), not merged; global ID null |
+| PG-CHAR-0014 | 本田 (Honda), editor of the magazine MEN'S MON×2 (business card i0132; addressed 本田さん i0147) | Mainline; PG-EV-V04-0030 (i0130) | Given name on card partly legible; global ID null |
+| PG-CHAR-0015 | 大路吾郎 (Ōji Gorō), 19, called ジゴロー (Jigoro) and 吾郎ちゃん; MEN'S MON×2 No. 1 model (in-story profile box i0136) | Mainline; PG-EV-V04-0030, -0035 (i0136, i0149) | None; global ID null |
+| PG-CHAR-0016 | Bounded group: second-year girls of the swim club (水泳同好会), four shown; one called レイ | Mainline; PG-EV-V04-0012 (i0058) | Group; members mostly unnamed |
+| PG-CHAR-0017 | Bounded group: Mayu's (マユ) group, classmates Sae used to mock, who bully her after the exposure | Mainline; PG-EV-V04-0022 (i0099) | Group; may overlap the gym and spray-paint bullies; not merged |
 
 ## Developmental events
 
@@ -97,6 +102,17 @@ The sequential closeout certifies this instrument updated or records no material
 | PG-CS-0026@1 | PG-CHAR-0001 / CS-0020 | Swim-meet day / V03 | RELATIONSHIP_CHANGE: refuses Tōji's request to restart while wanting it | PG-EV-V03-0037; PG-CL-0012@1 | Reason unstated |
 | PG-CS-0027@1 | PG-CHAR-0002 / CS-0019 | Swim-meet day / V03 | KNOWLEDGE_CHANGE + choice: overhears Sae's method; publicly frees and claims Momo; apologizes; privately retracts the claim and asks to restart | PG-EV-V03-0025, -0032, -0033, -0037; PG-CL-0005@3 | — |
 | PG-CS-0028@1 | PG-CHAR-0003 / CS-0017 | Swim meet / V03 | CONTEXT_CHANGE: instructs sabotage; threatens a false accusation; explains her method; exposed by testimony; abandoned by her coalition | PG-EV-V03-0014, -0015, -0024, -0025, -0035, -0036 | Still asserts victimhood |
+| PG-CS-0029@1 | PG-CHAR-0001 / CS-0026 | Day after the swim meet to end of term / V04 | DISPOSITION_CHANGE + RELATIONSHIP_CHANGE: states the reason for refusing (fear of not being believed); after Kairi's confrontation recognizes her 被害者意識 as avoidance of rejection; apologizes and asks Tōji to go out again | PG-EV-V04-0003, -0006, -0007, -0009; PG-CL-0012@2, PG-CL-0015@1 | — |
+| PG-CS-0030@1 | PG-CHAR-0001 / CS-0024 | Start of second term / V04 | KNOWLEDGE_CHANGE: learns from Sumire that Kairi organized the V03 testimony; reinterprets his changing-room embrace as farewell; apologizes, thanks him and leaves a counterfactual unfinished | PG-EV-V04-0014…0018; PG-CL-0013@2 | Category of feeling still unresolved |
+| PG-CS-0031@1 | PG-CHAR-0001 / CS-0023 | Start of second term / V04 | CONTEXT_CHANGE: joins the swim club despite tan worries; Tōji accepts her however tanned; reports being happy at school | PG-EV-V04-0012, -0031 | Complexion worry persists (i0025, i0061) |
+| PG-CS-0032@1 | PG-CHAR-0001 / — | Second term / V04 | Choice: pushes away Tōji's kiss though she wants it; proposes the L sign; demands verbal 「好き」 | PG-EV-V04-0019…0021, -0024; PG-CL-0017@1 | 'Second time' referent unlocated |
+| PG-CS-0033@1 | PG-CHAR-0001 / CS-0025 | Second term / V04 | Choice: declines to retaliate against Sae; partners with her in gym, recalling Sae's first approach; predicts Sae will learn others' pain | PG-EV-V04-0022, -0025, -0026 | Prediction contradicted by private Sae conduct |
+| PG-CS-0034@1 | PG-CHAR-0002 / CS-0027 | End-of-term ceremony / V04 | Choice: shaves his head as 「けじめと戒め」; names his error (believing Sae without seeing or hearing for himself); accepts Momo's request | PG-EV-V04-0008, -0009; PG-CL-0005@4 | Verbal acceptance not shown |
+| PG-CS-0035@1 | PG-CHAR-0002 / CS-0034 | Second term / V04 | Choice: overcomes embarrassment to make the private sign publicly; forehead kiss | PG-EV-V04-0028, -0029; PG-CL-0017@1 | — |
+| PG-CS-0036@1 | PG-CHAR-0003 / CS-0028 | Second term / V04 | CONTEXT_CHANGE: ostracized and bullied; outwardly servile to Momo; privately fantasizes Momo's humiliation and stamps on her shoes | PG-EV-V04-0011, -0022, -0025, -0027, -0032, -0033; PG-CL-0016@1 | Sincerity of relief at Momo's kindness unresolved |
+| PG-CS-0037@1 | PG-CHAR-0003 / CS-0036 | Late September / V04 | CONTEXT_CHANGE: becomes a magazine candidate; deceives staff and Jigoro; exaggerates at school; rescued and asked out by Jigoro | PG-EV-V04-0034…0040; PG-CL-0003@4, PG-CL-0018@1 | Her answer not shown |
+| PG-CS-0038@1 | PG-CHAR-0004 / — | Day after the meet to second term / V04 | Choice: tells Misao he lost; discloses that the V01 line was Tōji's; confronts Momo; counsels Tōji; withdraws; deflects Momo's thanks with jokes | PG-EV-V04-0002, -0005, -0006, -0008, -0013, -0016, -0017; PG-CL-0006@4 | Stated opportunism versus considerate cover |
+| PG-CS-0039@1 | PG-CHAR-0015 / — | Late September / V04 | Introduction: reputed aloof with women; attracted to Sae on contact; forms a hostile belief about Momo from Sae's account; rescues Sae and asks her out | PG-EV-V04-0035, -0037, -0039, -0040; PG-CL-0018@1 | Basis of attraction thin |
 
 ## Current subject state
 
@@ -114,10 +130,15 @@ The sequential closeout certifies this instrument updated or records no material
 | PG-CHAR-0002 @ PG-FR-V03 | CS-0027 | Disillusioned with Sae; accountable; seeking to restart | Response to refusal |
 | PG-CHAR-0003 @ PG-FR-V03 | CS-0028 | Socially isolated; exposed | Next strategy |
 | PG-CHAR-0004 @ PG-FR-V03 | CS-0018 + V03 actions | Strategist ally; still suitor; publicly flirtatious with others | Sea trip; feelings |
+| PG-CHAR-0001 @ PG-FR-V04 | CS-0029…0033 | Self-aware about her victim complex; reunited and happy; swim club; grateful to Kairi; tolerant of Sae | Category of Kairi feeling; Jigoro's hostility unknown to her |
+| PG-CHAR-0002 @ PG-FR-V04 | CS-0034, -0035 | Accountable, reticent but willing to pay small public costs; jealous of Kairi | — |
+| PG-CHAR-0003 @ PG-FR-V04 | CS-0036, -0037 | Isolated at school; performatively servile; deceiving outsiders; asked out by a celebrity | Her answer and next use of Jigoro |
+| PG-CHAR-0004 @ PG-FR-V04 | CS-0038 | Withdrawn ally; feelings deflected through jokes | Feelings; next role |
+| PG-CHAR-0015 @ PG-FR-V04 | CS-0039 | Misinformed about Momo; pursuing Sae | Whether he learns the truth |
 
 ## Readiness assessments
 
 | Assessment / prior | Subject / target / domain / cutoff | Evidence diversity / counterevidence | Gaps / validation | Assessment / reviewer / date / claim versions |
 | --- | --- | --- | --- | --- |
 
-Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended (frontier PG-FR-V02), 2026-10-16 UTC. V03 transaction rows appended (frontier PG-FR-V03), 2026-10-17 UTC.
+Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended (frontier PG-FR-V02), 2026-10-16 UTC. V03 transaction rows appended (frontier PG-FR-V03), 2026-10-17 UTC. V04 transaction rows appended (frontier PG-FR-V04), 2026-10-17 UTC.

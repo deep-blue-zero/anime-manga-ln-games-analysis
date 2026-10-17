@@ -83,6 +83,19 @@ Bootstrap source-derived propositions, belief events, transmissions, reputation 
 | PG-IP-0027@1 | Sae's method: 'whoever cries first wins' / i0110 | ESTABLISHED as her statement | PG-EV-V03-0025 |
 | PG-IP-0028@1 | Sae has stolen other girls' boyfriends in the past / i0163 | STRONGLY_SUPPORTED (multiple testimony; not depicted) | PG-EV-V03-0035 |
 | PG-IP-0029@1 | Tōji kissed Sae and said he loved her, leading her on / i0160 | REFUTED_AT_BOUNDARY / no such declaration depicted; kiss initiated by Sae (V01 i0138, V02 i0100) | PG-EV-V03-0034 |
+| PG-IP-0030@1 | Kairi recruited Sae's past victims by phone the night before the swim meet to testify against her / V04 i0068 | TRUE_AT_BOUNDARY / Sumire's account; Kairi confirms (i0076) | PG-EV-V04-0014, -0016; PG-CL-0006@4 |
+| PG-IP-0031@1 | Kairi organized the exposure to gain Momo's gratitude and win her while Tōji was away / i0076 | CONTESTED / his own statement, framed as a joke; Momo and Sumire read it as care for Momo | PG-EV-V04-0014, -0016 |
+| PG-IP-0032@1 | The line about Momo being easily misjudged (V01 i0083) was originally Tōji's / i0026 | TRUE / V01 i0070 depiction; Kairi's disclosure | PG-EV-V04-0005 |
+| PG-IP-0033@1 | Momo refused Tōji because she feared not being believed again / i0023, i0029 | TRUE (as her stated reason) / Momo later reinterprets it as fear of rejection | PG-EV-V04-0003, -0007; PG-CL-0012@2 |
+| PG-IP-0034@1 | Tōji has never said 「好き」 since they started dating / i0108 | CONSISTENT_WITH_RECORD / only V01 i0101 (pre-dating confession) depicted | PG-EV-V04-0024 |
+| PG-IP-0035@1 | Sae withdrew from the movie out of consideration for the couple / i0143 | CONTESTED / she did withdraw; her private fantasy and shoe stamping show hostility | PG-EV-V04-0032; PG-CL-0016@1 |
+| PG-IP-0036@1 | Sae made the cookies she gave the studio staff / i0155 | FALSE / Momo bought them (i0145) | PG-EV-V04-0036 |
+| PG-IP-0037@1 | Momo dominates Sae at school, insisted on coming to the studio, and is moody / i0158 | FALSE / Sae invited Momo (i0146); Momo wanted to leave (i0147, i0156) | PG-EV-V04-0037; PG-CL-0018@1 |
+| PG-IP-0038@1 | Momo is jealous of Sae because Sae is cute / i0159 (Jigoro's inference) | UNSUPPORTED / no depicted jealousy | PG-EV-V04-0037 |
+| PG-IP-0039@1 | Jigoro fell for Sae at first sight and asked to see her again / i0161 | EXAGGERATED_AT_TELLING; substantially vindicated by his confession (i0169–i0170) | PG-EV-V04-0038, -0040 |
+| PG-IP-0040@1 | Sae was the first to befriend Momo at high school (entrance-exam eraser; partner offer) / i0112 | REVEALED_NOT_NEW / Momo's memory | PG-EV-V04-0025 |
+| PG-IP-0041@1 | Sae was disliked among girls from the start and changed her manner in front of boys / i0014 | PLAUSIBLE / girls' retrospective claim; consistent with V03 testimony | PG-EV-V04-0001 |
+| PG-IP-0042@1 | Jigoro has no girlfriend; rumored gay or too vain for ordinary women / i0150 | RUMOR / staff speculation | PG-EV-V04-0035 |
 
 ## Knowledge and belief events
 
@@ -123,6 +136,17 @@ Bootstrap source-derived propositions, belief events, transmissions, reputation 
 | PG-KN-0033 / — | Momo / Tōji's overhearing of Sae | KNOWS (implied by his public quotation) | Swim meet | PG-EV-V03-0033 |
 | PG-KN-0034 / — | Kairi / Momo's inner fluttering | UNAWARE_WITH_EVIDENCE (her narration only) | Swim meet | PG-EV-V03-0022 |
 | PG-KN-0035 / — | Tōji / Momo's reason for refusing | UNKNOWN | End of V03 | PG-EV-V03-0037 |
+| PG-KN-0036 / — | Momo / IP-0030 | KNOWS / Sumire's testimony, then Kairi's confirmation | Second term | PG-EV-V04-0014, -0016 |
+| PG-KN-0037 / KN-0035 | Tōji / Momo's love and request | KNOWS (her declaration); her stated reason told only to Kairi | End of term | PG-EV-V04-0009 |
+| PG-KN-0038 / — | Momo / IP-0032 | KNOWS / Kairi's disclosure | Day after the meet | PG-EV-V04-0005 |
+| PG-KN-0039 / — | Kairi / IP-0033 | KNOWS / Momo told him | Day after the meet | PG-EV-V04-0003 |
+| PG-KN-0040 / — | Kairi / Tōji's kiss was refused | KNOWS / guess confirmed by Tōji's reaction | Second term | PG-EV-V04-0023 |
+| PG-KN-0041 / — | Tōji / Kairi often pressed kisses on Momo | BELIEVES / Kairi's boast; exaggeration likely | Second term | PG-EV-V04-0023 |
+| PG-KN-0042 / — | Class / meaning of Tōji's L sign | UNAWARE / read as a joke | Second term | PG-EV-V04-0028 |
+| PG-KN-0043 / — | Momo and Tōji / IP-0035 | BELIEVE considerate withdrawal / Sae's private conduct unwitnessed | Late September | PG-EV-V04-0032 |
+| PG-KN-0044 / — | Jigoro / IP-0037, IP-0038 | BELIEVES (false) / visual impression plus Sae's account | Late September | PG-EV-V04-0036, -0037 |
+| PG-KN-0045 / — | Classmates / IP-0039 | DISBELIEVE, then witness Jigoro's confession | Late September | PG-EV-V04-0038, -0040 |
+| PG-KN-0046 / — | Momo / IP-0036 | KNOWS false (witness); says nothing | Late September | PG-EV-V04-0036 |
 
 ## Transmissions
 
@@ -159,6 +183,17 @@ Bootstrap source-derived propositions, belief events, transmissions, reputation 
 | PG-TX-0029 / — | Tōji / class / Sae's metaphor; relationship claim | Public speech / sincere | Class reconsiders | Swim meet / PG-EV-V03-0032, -0033 |
 | PG-TX-0030 / — | Past-victim girls, admirer, Kako / class / IP-0028, IP-0026 | Public testimony / sincere | Sae abandoned | Swim meet / PG-EV-V03-0035 |
 | PG-TX-0031 / — | Sae / class / IP-0029 | Public claim / false | Rejected | Swim meet / PG-EV-V03-0034 |
+| PG-TX-0032 / — | Kairi / Sumire and other past victims / Sae's misconduct; invitation to 「リベンジ」 | Phone, night before the meet / deliberate | Testimony at the meet (V03 TX-0030) | Swim week / PG-EV-V04-0014 / reported by Sumire |
+| PG-TX-0033 / — | Sumire / Momo / IP-0030 | Conversation / sincere | Momo's reinterpretation of Kairi | Second term / PG-EV-V04-0014 |
+| PG-TX-0034 / — | Kairi / Momo / IP-0032 | Conversation / sincere, against his interest | Momo shocked | Day after the meet / PG-EV-V04-0005 |
+| PG-TX-0035 / — | Momo / Kairi / IP-0033 | Conversation / sincere | Kairi's confrontation | Day after the meet / PG-EV-V04-0003 |
+| PG-TX-0036 / — | Kairi / Tōji / 'you take people's words at face value' | Conversation (reported by Tōji) / advice | Tōji adopts it as his self-account | Before the ceremony / PG-EV-V04-0008 |
+| PG-TX-0037 / — | Kako / swim-club girls / Momo's 「モデルデビュー」 | Gossip / exaggeration | Teasing | Late September / PG-EV-V04-0031 |
+| PG-TX-0038 / — | Sae / studio staff / IP-0036 | Speech / false | Praise for Sae | Late September / PG-EV-V04-0036 |
+| PG-TX-0039 / — | Sae / Jigoro / IP-0037 | Private speech / false, self-serving | Jigoro's hostile belief and sympathy for Sae | Late September / PG-EV-V04-0037 |
+| PG-TX-0040 / — | Sae / classmates / IP-0039 | Speech / exaggerated | Mocked as a liar; later vindicated | Late September / PG-EV-V04-0038 |
+| PG-TX-0041 / — | Tōji / Momo (and the class) / 「好き」 | Public hand sign / private code | Momo receives; class reads a joke | Second term / PG-EV-V04-0028 |
+| PG-TX-0042 / — | Girls of Class 3 / class / IP-0041 | Speech at the party / retrospective | Boys surprised | Day of the meet / PG-EV-V04-0001 |
 
 ## Reputation events
 
@@ -178,6 +213,13 @@ Bootstrap source-derived propositions, belief events, transmissions, reputation 
 | PG-RP-0012 / RP-0011 | Momo / class 3 / vindicated; wronged party | Class walks out on Sae | TX-0029, -0030 / swim meet | PG-EV-V03-0034–0036 / HIGH |
 | PG-RP-0013 / RP-0008 | Sae / class 3 / liar, thief (サイテー女) | Abandonment | TX-0030 / swim meet | PG-EV-V03-0035, -0036 / HIGH |
 | PG-RP-0014 / RP-0006 | Kairi / girls / playboy arranging summer dates | Talk | Independent / swim meet | PG-EV-V03-0017 context / MODERATE |
+| PG-RP-0015 / RP-0012 | Momo / class 3 / swim-meet heroine, wronged and forgiving | Apologies, cheering, couple teasing | Independent / day of the meet | PG-EV-V04-0001 / HIGH |
+| PG-RP-0016 / RP-0013 | Sae / class 3 and others / liar to be shunned and punished | Trampling, baking destroyed, ball, forced graffiti | TX-0030, -0042 / second term | PG-EV-V04-0011, -0022, -0025, -0039 / HIGH |
+| PG-RP-0017 / — | Momo / Jigoro / cruel, domineering, jealous | Hostile remarks to Sae; Momo unaware | TX-0039 / late September | PG-EV-V04-0036, -0037; PG-CL-0018@1 / HIGH |
+| PG-RP-0018 / — | Sae / studio staff / cute, young, considerate, good at baking | Praise | TX-0038 / late September | PG-EV-V04-0034, -0036 / HIGH |
+| PG-RP-0019 / — | Jigoro / staff and fans / No. 1 model, 'pheromone', no girlfriend, rumored gay | Swooning fans; staff gossip | Independent / late September | PG-EV-V04-0035 / HIGH (rumor content LOW) |
+| PG-RP-0020 / RP-0001 | Momo / drunk salaryman / girl available for compensated dating | Proposition | Appearance / day of the meet | PG-EV-V04-0004 / HIGH |
+| PG-RP-0021 / — | Momo and Tōji / class / affectionate couple | Teasing (「2人の周りだけ常夏」) | Independent / second term | PG-EV-V04-0010 / HIGH |
 
 ## Current information and reputation projections
 
@@ -192,5 +234,10 @@ Bootstrap source-derived propositions, belief events, transmissions, reputation 
 | Reputation / Momo / class 3 / PG-FR-V03 | RP-0012 | Vindicated | Durability over the summer |
 | Reputation / Sae / class 3 / PG-FR-V03 | RP-0013 | Exposed | Spread beyond class 3 |
 | Information / tan report / Momo / PG-FR-V03 | KN-0027 | Known false | — |
+| Reputation / Momo / class 3 / PG-FR-V04 | RP-0015, -0021 | Vindicated; known couple | — |
+| Reputation / Momo / Jigoro / PG-FR-V04 | RP-0017; KN-0044 | False belief seeded by Sae | Whether it spreads or is corrected |
+| Reputation / Sae / school / PG-FR-V04 | RP-0016; KN-0045 | Shunned as a liar; Jigoro's confession disrupts this | Effect of the confession |
+| Information / Kairi's orchestration / Momo / PG-FR-V04 | KN-0036 | Known | Whether Tōji knows |
+| Information / Sae's private hostility / Momo and Tōji / PG-FR-V04 | KN-0043 | Unknown to them | — |
 
-Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended (frontier PG-FR-V02), 2026-10-16 UTC. V03 transaction rows appended (frontier PG-FR-V03), 2026-10-17 UTC.
+Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended (frontier PG-FR-V02), 2026-10-16 UTC. V03 transaction rows appended (frontier PG-FR-V03), 2026-10-17 UTC. V04 transaction rows appended (frontier PG-FR-V04), 2026-10-17 UTC.
