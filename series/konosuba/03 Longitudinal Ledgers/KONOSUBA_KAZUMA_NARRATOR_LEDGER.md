@@ -1,11 +1,11 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V16
+scope: V01-V17
 ledger_role: narrator_perspective
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V16 principal narrative; Kazuma narration distinguished from Aqua and Stella focalization, reports and inferred motives
+source_boundary: Japanese main-series light novels through V17 principal narrative; Kazuma narration distinguished from Aqua and Stella focalization, Eris epilogue narration, reports and inferred motives
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -688,3 +688,30 @@ This additive candidate preserves proposition-specific fallibility. MAIN-16 is f
 | N-V16-24 Final valuation, EpP0027–0029 | One Explosion is displayed; narrator awards strongest-mage status. | Retain actual evaluative closure separately from full barrage, barrier failure, gatekeeper, king, reunion or extraction, all unshown. PRESERVE both valuation and event limits, HIGH. |
 
 The narrator can be accurate in observation and biased in total credit. His ordinary future, care, irritation, grand self-image and useful constraint diagnosis coexist. The same discipline applies to Aqua’s self-importance and Stella’s religious misreading: perspective is indexed by proposition, not globally discarded because a comic speaker errs elsewhere.
+
+
+## V17 accepted principal-main update — N
+
+Accepted additive principal-main contribution; publication remains pending. Native members C1=part0009, C2=part0010, C3=part0011, F=part0012, Ep=part0013 under text/; all-body-p locators. See the [V17 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V17_RECEIVING_REVIEW.md) for actual scope and limitations.
+
+Proposition-specific access and inference, now including Eris’s epilogue first person. Direct thought establishes appraisal rather than objective truth.
+
+| Claim and subject | Prior scene / information | Choice / observation | Evidence class, confidence, transition and limit |
+|---|---|---|---|
+| N-V17-01 Controlled artillery | C1P37 hypothesizes chant-based adjustment. | Actual casts/output shown separately20–30/153–171. | H1 output/MODERATE explanation; PRESERVE N-V16-12 inference hedge, no private fine-control proof. |
+| N-V17-02 Embellished lip reading | C1P135/145 K renders enemy speech;139/148 approximately right,147 objection. | Actual K additions/roughness not transparent original words. | H1/HIGH source layers; no authentic enemy utterance assigned from fabricated translation. |
+| N-V17-03 Trap reasoning | C1P260 positive detection,284 press,294 caught,300 Aqua. | Incidental useful outcome does not validate the favorable story267–280. | H1 events/H2 self-image, HIGH discrepancy. PRESERVE bounded self-exemption, no global unreliability. |
+| N-V17-04 Water-pot reflex | C1P345–346 actual water;348 Aqua’s underwater-breathing claim;352/353 Kazuma destroys the pot;358 his account of a reflexive comeback. | Actual water, claimed capacity, destructive action and attributed private cause remain separate; no local underwater demonstration is supplied. | H1 choice,H2 comeback, MODERATE private-cause transfer. |
+| N-V17-05 Armor/destination | C1P563 actual disappearance,564 retained armor. | Police566 claim; Aqua580 tentative explanation;585/586 qualified nakedness. | H1 local event/HIGH attribution, OPEN full disposition. No police arrival or actual bystander response invented. |
+| N-V17-06 Captive yawn/tea | C2P172 yawn,173 K conjecture;198/215/235 water. | 203 K attributes purification, not a witnessed choice to ruin tea. | H1 observations, MODERATE causal attribution; no stable malicious-motive claim. |
+| N-V17-07 Mammon collapse | C2P363 actual stab,371 alternative skill/poison explanations. | Later corpse468 confirms death. | HIGH act/death, OPEN exact causal contribution. No collapse-to-exclusive-poison shortcut. |
+| N-V17-08 Armor audience | C2P315 K admits own cheer,318 fear recognized,328 Darkness sigh hedged. | His chosen conduct direct; her precise later disappointment remains an inference. | H1 self-report/H2 scene intensity, no certainty from hedged sigh or retroactive consent. |
+| N-V17-09 Rescue complete/detour | C2P481 completion;557 shadow observed before563 detour. | 570/575 stated financial/bounty reasons, no received reward. | H1/HIGH order, MODERATE unique cause; PRESERVE explanatory plurality, no task-level switch. |
+| N-V17-10 Afterlife information | Eris actually casts Powered, Protection and Resist C3P209/216/221, with experienced effects210/218. Her ground-fight descriptions230/234 remain reports to Kazuma. | K commits364 before Iris/capital report384. | H1 speech/report,HIGH access order. No direct K observation of remote battle or backdated cause. |
+| N-V17-11 Reaper/party diversion | C3P440 shows Darkness’s broken sword and the large scythe at the blood pool while the reaper is absent; P441 is Kazuma’s hedged inference of Aqua’s retaliation. Darkness’s glance480–481 is observed; P482 is his as-if inference; Megumin/the others draw attention483 and484 hedges their expectation of his backstab. | Observed absent reaper, PRESENT discarded broken sword/scythe and actual glance remain distinct from inferred retaliation or privately known complete plans. No independently shown reaper death. | H1 visible scene/MODERATE inferred mechanism; retain hedge. |
+| N-V17-12 Tools and golems | FP159 nonmagical device hypothesis;195 blowback inference;263 actual boost counter. | New application of known general power is observed; private forgetting not directly stated. | H1 effects, MODERATE explanation. PRESERVE capacity/knowledge distinction. |
+| N-V17-13 King identity/lore | FP367 the king’s name claim;373 denial of familiarity with Japan plus admission of rumors;376–385 an origin/war-cause teaser. | Origin/war cause not actually explained. | H1 attributed words, OPEN genealogy/cause. No holdout or external lore completion. |
+| N-V17-14 Death/reward timing | FP480 actual fatal cast;496 death;539 Eris reports king/group outcomes. | Special authority/body choices553 onward; actual survivors671–675 later. | H1/HIGH ordering/source class. No known-insurance premise or direct ground victory vision before report. |
+| N-V17-15 Eris epilogue access | Ep9 assumes death then47–60 corrected;31 K reports unexplained outings,32 Eris knows bombing. | 34/35 her interpretation of Darkness attachment,43/44 revised sympathy. | H1 minds/report/HIGH attributed access. PRESERVE plural bounded narrators rather than omniscient alternative. |
+| N-V17-16 Registration chronology | Ep54 says registered during pre-duel visit; living arrival corroborates method. | Ep58 repeats his planned-retrieval claim; actual living arrival and registration disclosure corroborate usable access/method, not independently his earlier intention. | H1 observed access and attributed report; HIGH event/report order, MODERATE prior-intention inference. Not foreknowledge of special restoration or permission for repeated visits. |
+| N-V17-17 Final valuation | Ep79/80 wants his world choice valued;82–90 chooses blessing. | No later effect before93完. | H1 chosen act/HIGH source boundary; OPEN future happiness and ending relationships, no blessing-outcome conflation. |

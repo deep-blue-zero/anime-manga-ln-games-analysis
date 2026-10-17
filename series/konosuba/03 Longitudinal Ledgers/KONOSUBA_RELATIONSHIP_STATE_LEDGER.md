@@ -1,11 +1,11 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V16
+scope: V01-V17
 ledger_role: relationship_state
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V16 principal narrative
+source_boundary: Japanese main-series light novels through V17 principal narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -761,3 +761,28 @@ This candidate is additive to the exact entering V15/CP05 state. It uses admitte
 | RS-V16-18 Final separation is not solved on page | Aqua opens the hole and enters, four allies follow, the hole rapidly reseals, and the group vanishes; Kazuma’s party remains outside preparing the resource plan (FP0374–0385/0434–0514; EpP0027). | PRESERVE ending uncertainty, HIGH displayed sequence. No reunion, extraction, king outcome or durable new household is admitted. |
 
 The knowledge map remains asymmetric: Kazuma does not initially know Darkness is hidden; Megumin has distinct knowledge; Stella does not know her savior’s identity; the villagers do not know Aqua’s accidental fall; Kazuma’s friends do not hear his private heaven answer; the reader learns the earlier purchase through a later explanation. None of these perspectives should be normalized into one omniscient ensemble mind.
+
+
+## V17 accepted principal-main update — RS
+
+Accepted additive principal-main contribution; publication remains pending. Native members C1=part0009, C2=part0010, C3=part0011, F=part0012, Ep=part0013 under text/; all-body-p locators. See the [V17 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V17_RECEIVING_REVIEW.md) for actual scope and limitations.
+
+Particular relationships and changing agency; no invented final settlement. Reports and choices remain distinct.
+
+| Claim and subject | Prior scene / information | Choice / observation | Evidence class, confidence, transition and limit |
+|---|---|---|---|
+| RS-V17-01 Kazuma–Aqua: familiar friction returns | Reunion C1P302–324 follows genuine search and accidental injury. | He heals318; old comeback breaks hiding pot352; useful buff397 coexists with shield use439. | H1 acts/H2 quarrel. STRENGTHEN RS-V16-01/02 familiarity, preserving harmful conduct. No new romantic declaration. |
+| RS-V17-02 Aqua–household: proposed ordinary life | C2P540–557 reassurance and strained return smile; C3P456 concrete shared-home/labor offer. | She repeatedly asks return but accepts later support498/seal503; final private gratitude FP786. | H1 expressions/HIGH sequence, MODERATE unique cause. PRESERVE particular company, no performed job or absence of older heaven wish. |
+| RS-V17-03 Kazuma’s final care is not known insurance | FP409–418 fears friends refuse retreat;466–469 expects permanent separation. | Actually casts480/482; body exception is only offered553 onward. | H1/HIGH ordering. STRENGTHEN particular commitment, no costless planned suicide or unlimited revival theorem. |
+| RS-V17-04 Leaving Aqua is a qualified relational failure | Wish FP663 yields Eris680, Aqua descends herself694. | Kazuma admits punishment/getting carried away699 and planned later retrieval; Ep54–60 verifies viable heavenly registration. | H1 claims/corroboration. PRESERVE both irritation and the claimed retrieval alternative; later registration disclosure does not erase her distress or authorize frequent visits. |
+| RS-V17-05 Kazuma–Megumin: resources and practice | C3P68/FP735 gifts stones; FP456–459 acknowledges learning from daily shared spell practice and her control. | Her resource supply materially helps duel/transport; his relationship labels454 remain unresolved. | H1/HIGH acts, MODERATE final relation. PRESERVE RS-V16-03/04 reciprocal affection, no sex/exclusivity/final marriage inference. |
+| RS-V17-06 Kazuma–Darkness: imposition precedes participation | C2P297–309 chosen demand, refusal, public threat and particular limit. | She becomes aroused310 and removes armor311; he cheers315 and resents Mitsurugi326. | H1/HIGH ordered agency. PRESERVE RS-V16-05 affection and boundaries, no retroactive consent or excuse from her later desire. |
+| RS-V17-07 Darkness–Megumin: literal protective restraint | C1P182–194 heat/risk and continued wish to cast. | Darkness physically catches Megumin at C1P185 and explains the physiological load186. Kazuma forbids routine fire191; Megumin proposes an emergency exception192; Kazuma yields to that condition194. | H1/HIGH action. STRENGTHEN RS-V16-07 care; do not substitute a mere spoken objection or claim all future casts voluntary safe restraint. |
+| RS-V17-08 Darkness–Megumin: protection can authorize danger | C3P425 promises shielding and orders lethal response; Megumin426 accepts mutual death. | Real loaded threat437 and wounded shield stance persist while allies plead438. | H1/HIGH risk. PRESERVE distinct intent/responsibility; authorization is not guarantee, general friendship is not successful grave-risk inhibition. |
+| RS-V17-09 Ensemble: organized but not interchangeable | C3P10–25 roles;59–64 corpse/retreat agreement. | Actual contribution and Kazuma death; party continues, later corrected handoff isolates king. | H1/HIGH sequence. PRESERVE RS-V16-08 plural useful roles, no universal necessity of Kazuma or proof everyone can replace the whole campaign. |
+| RS-V17-10 Yunyun: independent bounded organization | FP730 trusted transport request;731–735 independently known capacity/material need. | Actually arranges/executed phases749/759 without continuous Kazuma instructions. | H1/HIGH phase. STRENGTHEN RS-V16-11 agency; helpful anxiety/objections remain. |
+| RS-V17-11 Mitsurugi: moral objection and neglected need | Mitsurugi objects to stripping C2P321 and actually kills enemies447–452. At FP702/703 and745/746 his two accompanying women request treatment on his behalf, reporting his weakening pulse/breath. | His intervention redirects group; later leaves with Eris751 without shown treatment. | H1/HIGH. PRESERVE useful contribution and unresolved recovery, not mere failed rival or invented healed endpoint. |
+| RS-V17-12 Kazuma–king: empathy amid lethal opposition | FP100/103 daughter-made gift;277/279 management complaint. | Kazuma abandons gift coercion105 and sympathizes280, still pursues combat. | H1/HIGH choices, MODERATE universal inference. STRENGTHEN selective recognition across enmity, not peace treaty or innocent-war conclusion. |
+| RS-V17-13 Eris–Kazuma: help plus office boundary | Ep54–60 unauthorized registration and request for frequent refuge. | Refuses59, later chooses blessing82–90 while valuing his life/world choice. | H1/HIGH. PRESERVE specific friendship/service boundaries; not cumulative over-compliance confirmation. Preparation CE01 referent error disclosed externally. |
+| RS-V17-14 Darkness/romantic rivals: open ending | Ep33 Kazuma reports new lands/marriage approaches;34/35 Eris names his role in Darkness refusing. | No new Kazuma reciprocal declaration or final exclusive settlement. | H1 attributed reports, MODERATE unseen motives. PRESERVE RS-V16-05/09 particular states; Iris mention is not direct new relationship action. |
+| RS-V17-15 Postwar household: affection has sanctions | Ep40 actual public praise→getting carried away→harem boast,36 expulsion. | Claims repentance42; Eris retracts sympathy43/44, he plans petty revenge65–76. | H1 report/H2 boast and revenge. PRESERVE ongoing ordinary conflict rather than moral purification, no claim actual harem formed. |

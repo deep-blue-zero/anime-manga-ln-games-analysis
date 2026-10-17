@@ -1,11 +1,11 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V16
+scope: V01-V17
 ledger_role: decision_error
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V16 principal narrative
+source_boundary: Japanese main-series light novels through V17 principal narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1175,3 +1175,37 @@ Each row is an additive decision record, not an intelligence score or a new form
 | DE-V16-28 Kazuma/Megumin: resource plan, FP0392–0394/0434–0504; EpP0027–0029 | A costly option already exists; regeneration/enemy reinforcements require rapid fire; resources were bought before departure. | Checks count, discloses stock, gives permission to consume; one cast is shown and strongest-mage valuation supplied. | H1 choices/cast; technical completion estimate and evaluator scope separate. No invented purchase after tears, displayed barrage, full breach, extraction or financial recovery. |
 
 The common decision error is selecting the wrong constraint: direct-force self-image can ignore body and practice; gift preservation can delay deployment; status stories can misread other minds; successful output can conceal accidental participation. Updating is also real. No H2 label removes coercion, injury or the known resource costs, and no favorable outcome retroactively repairs a wrong prior causal account.
+
+
+## V17 accepted principal-main update — DE
+
+Accepted additive principal-main contribution; publication remains pending. Native members C1=part0009, C2=part0010, C3=part0011, F=part0012, Ep=part0013 under text/; all-body-p locators. See the [V17 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V17_RECEIVING_REVIEW.md) for actual scope and limitations.
+
+Ordered stimulus/knowledge/appraisal/action/result records; errors are component-specific, never an intelligence ranking or automatic forecast verdict.
+
+| Claim and subject | Prior scene / information | Choice / observation | Evidence class, confidence, transition and limit |
+|---|---|---|---|
+| DE-V17-01 Kazuma: artillery extension | C1P16–47 reward excitement, live barrier and known Aqua risk. | Urges upper-floor continuation46; Darkness objects47. | Goal discipline/ally-cost evidence; H1/H2, HIGH ordering. OPEN K03 branch eligibility, no clean harm-free expansion. |
+| DE-V17-02 Megumin: continued fire | C1P153–171 actual barrier/gatekeeper success, bodily load175–182. | Megumin wants more C1P183; Darkness physically catches her185/explains186, Kazuma prohibits routine fire191, and he yields194 after Megumin’s emergency-use condition192. | Real capacity plus stopping/recovery failure. H1/HIGH; no safe-operation confirmation by outcome. |
+| DE-V17-03 Kazuma: known trap | C1P257 warning/260 positive detection;267–280 favorable rationalization. | Presses284, trapped294, finds Aqua300. | Incidental reunion does not vindicate trap reasoning. H1 action/H2 ingenuity frame, HIGH. |
+| DE-V17-04 Kazuma: reflexive reunion harm | C1P302 embrace, automatic evasion305, injury311; own blame310/perspective313. | Actually heals318. | Care repairs own contribution without erasing it. H1/HIGH; mechanism described, no unseen intent. |
+| DE-V17-05 Kazuma: pot destruction | C1P345–346 establishes water in the pot; Aqua claims she can breathe underwater348, without a local demonstration. | Kicks352/353, alerts guards; own account358 reflexive comeback. | Rivalry/familiarity over task discipline; H1/H2, MODERATE unique cause. |
+| DE-V17-06 Aqua/Kazuma: signal mismatch | C1P414 ambiguous gesture interpreted as Flash416. | Enemy eyes affected, Aqua also blinded430; she names intended combo432. | Coordination error with real capacity; H1/HIGH actor distinction. |
+| DE-V17-07 Kazuma: adapted drain | C1P477 sword works but482 ordinary Heal loses to enemy drain. | Counter-Drain484–486; Aqua finishes ghost498. | Actual tool revision; H1/HIGH, friendship-fantasy loss is separate from tactical output. |
+| DE-V17-08 Kazuma: teleport bypass | C1P528 weak Lightning,539 threatened strike at Aqua. | Teleport560 removes enemy563; armor remains564. | H1 result, destination566 claim/armor580 hypothesis; no witnessed police success. |
+| DE-V17-09 Aqua: sect retaliation | C2P97 follower claim draws disgust;127 keep-away order. | Touches Mammon130; later private divine-treatment grievance147. | H1/H2 status retaliation; exact adopted task-constraint/compatibility remains AMBIGUOUS for A02. |
+| DE-V17-10 Kazuma: failed rescue signal | C2P271/275 kill threat;281 signal. | Aqua keeps drinking284; he changes plan286/disarms Darkness293. | Actual fitted revision; H1/HIGH, skill-use judgment not whole-body uselessness. |
+| DE-V17-11 Kazuma: coercive armor demand | C2P298 refusal,300 public humiliation;303–307 colleagues object. | Justification308, undressing310/311, own cheer315/recognition fear318. | Chosen ethical failure with sexual reward. H1/H2/HIGH; later arousal not retroactive consent. |
+| DE-V17-12 Mitsurugi: moral interruption | C2P321 explicit objection. | Mammon refocuses325; K resents326, others disappointed327. | External brake, not K self-restraint. H1/HIGH; no physical restraint invented. |
+| DE-V17-13 Kazuma: Mammon attack | C2P356/362 provocation; poisoned sword already prepared79. | Stabs363; initial collapse371 cause uncertain, later corpse468. | H1 act/death with causal uncertainty. No guaranteed poison-exclusive kill. |
+| DE-V17-14 Kazuma/Aqua: recovery omissions | C2P390 binding and actual strong-rope use392; the remaining attachment catches Aqua394, and Kazuma admits forgetting it396. | Dispel424 adds enemies426; Darkness diverts433 and Mitsurugi kills447–452. | Memory/application and recovery failures plus outside repair. H1/HIGH; eventual success does not erase the forgotten attachment or harm. |
+| DE-V17-15 Kazuma: rescue complete then new goal | C2P481 explicit completion,490 delegation,520 rebuild/escape objection,557 Aqua shadow. | Detour563 with financial/bounty rationale570/575. | H1/HIGH temporal order, MODERATE unique cause. No received bounty or switched objective after choice. |
+| DE-V17-16 Kazuma: known undead limitation | C3P173 infiltration,194 detection,203 death;205 prior knowledge. | Admits forgetting224. | Memory/application failure, not newly learned invalidation knowingly repeated. H1/HIGH; death real. |
+| DE-V17-17 Kazuma: commitment before later news | C3P338 request,343–353 failed alternatives,360 Aqua call. | Commits364; Iris/capital report384 follows. | Entrustment/attachment evidence; later news cannot cause initial commitment. H1/HIGH order. |
+| DE-V17-18 Megumin: loaded shared-death threat | C3P425 shielding promise,426 accepts possible all-death,427 pleas. | Loaded staff437; later alternative446; no indoor release shown. | Strong grave-risk contrary candidate; H1/HIGH known severity, AMBIGUOUS best-option/alternatives. No proven compliance. |
+| DE-V17-19 Kazuma/Aqua: new debuff arrangement | C3P246 poison immunity and316/324 debuff knowledge. | Requests448, gets seal503–514; rejects stabbing537 and isolates538/560. | Actual capability-based revision with adequate provider phase; H1/HIGH, not simple new raw power. |
+| DE-V17-20 Kazuma: cherished enemy property | FP100/103 child-made hanky after own amulet86. | Conscience104 stops exploitation105. | Selective restraint before action, H1/HIGH; continuing lethal intent remains. |
+| DE-V17-21 Kazuma/king: golem counter | FP223 size/duration trade, prior knowledge king boosts allies. | Smaller boosted enemy construct263 wins; device288 removes it. | Specific mechanism newly observed; H1/HIGH effects, no private forgetting asserted. |
+| DE-V17-22 Kazuma: retreat and final bargain | FP343 offer;409–418 friends/Aqua danger;439/441 transport-first request. | King refuses443 then agrees448 only seeing loaded cast446; K distrusts449 and casts480. | Ordered options matter; H1/HIGH. Coerced late offer not automatically equally safe, no preknown special-body insurance. |
+| DE-V17-23 Kazuma: offered world choice | FP553–571 actual comfort alternatives,575–579 known costs. | Chooses this world581, later recreated625–627. | Concrete preference comparison, H1/HIGH; no completed efficient move requirement or universal utility claim. |
+| DE-V17-24 Group: Mitsurugi recovery and transport | FP702/703 healing plea;731–735 capacity/resource problem;745/746 fading pulse/breath. | Yunyun sends first group751 and second759; no healing shown. | Successful extraction phase with unresolved treatment. H1/HIGH absence boundary, no harm erased by comedy. |

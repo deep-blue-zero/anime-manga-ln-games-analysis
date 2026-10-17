@@ -1,11 +1,11 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V16
+scope: V01-V17
 ledger_role: ordinary_life_preferences
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V16 principal narrative
+source_boundary: Japanese main-series light novels through V17 principal narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -642,3 +642,29 @@ These additive MAIN-16 records preserve ordinary motives as explanatory evidence
 | OL-V16-18 Village contact | Demon-kind/feeding/contact arrangements are reported (FP0293–0300). | PRESERVE represented ordinary coexistence as an attributed report; no independently observed diplomatic treaty, completed global peace or universal population motive. |
 
 A valued home can motivate risk, and an expensive resource can be spent without ceasing to be valued. A person can welcome one controlled prospect and refuse another person’s conduct. These observations support context-sensitive preference models, with no universal leisure, money, service or humiliation ranking added from a single comic episode.
+
+
+## V17 accepted principal-main update — OL
+
+Accepted additive principal-main contribution; publication remains pending. Native members C1=part0009, C2=part0010, C3=part0011, F=part0012, Ep=part0013 under text/; all-body-p locators. See the [V17 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V17_RECEIVING_REVIEW.md) for actual scope and limitations.
+
+Concrete ordinary values coexist with serious contributions. One costly choice does not establish a universal priority or stable global preference.
+
+| Claim and subject | Prior scene / information | Choice / observation | Evidence class, confidence, transition and limit |
+|---|---|---|---|
+| OL-V17-01 Kazuma/Aqua: home versus absence | C2P21/22 both prefer return;24/25 refuse leaving missing companions. | Particular company changes feasible exit’s attractiveness. | H1/HIGH expressed preference. STRENGTHEN OL-V16-01/06 familiar company; no universal preference for danger. |
+| OL-V17-02 Familiar responsive quarrel | C1P358 K describes missing old comeback;391/392 shared crisis feels ordinary. | Actually breaks useful pot352/353, not harmless nostalgia. | H1 act/H2 intensity, MODERATE wider inference. Preserve cost rather than call all friction valued. |
+| OL-V17-03 Aqua: dinner and home | C2P53/54 cheek-pulling/dinner desire;62/515 wants home. | C3P456 offers temporary art labor, expressly not permanent. | H1/HIGH chosen alternative. STRENGTHEN particular domestic value; no completed employment or universal professional-art refusal. |
+| OL-V17-04 Money remains salient | C2P570 consumed almost all wealth,575 asks bounty. | Detour563 follows both noticed Aqua shadow557 and prospective compensation. | H1/HIGH stated costs, MODERATE single cause. PRESERVE OL-V16-04 no financial recovery shown. |
+| OL-V17-05 Cherished companion gift | C1P192 Megumin insists carrying gifted stones; C3P68 shares them. | FP735 supplies remaining transport resource;737 frames repayment. | H1 acts/H2 magnitude. PRESERVE OL-V16-11 relationship-specific gifts, no equation money buys affection. |
+| OL-V17-06 Armor attachment | C2P298 resists giving up armor before public threat300. | Humiliation/attraction later mixed; object’s meaning not identical to defense stats. | H1/H2, HIGH sequence/MODERATE exact refusal cause. PRESERVE OL-V16-13, no universal fetish or consent. |
+| OL-V17-07 Kazuma’s own token | FP83/85 companion-hair amulet;86 he cherishes. | Its divine material actually burns king73–89. | H1/HIGH practical/sentimental value coexist. Not merely useful loot or a new all-character romance signal. |
+| OL-V17-08 Enemy parent’s gift | FP100/103 daughter-made handkerchief. | K conscience104 abandons exploitation105. | H1/HIGH particular restraint; OPEN stable king family profile and wider war ethics. |
+| OL-V17-09 Managerial everyday life | FP277/279 king complains about subordinates,280 K sympathizes. | Continues fight rather than a permanent ordinary-life settlement. | H1 attributed report/H2 executive parody. No invented business routine, innocence or actual retirement. |
+| OL-V17-10 Comfortable Japan alternative | FP558/571 wealth and ideal spouse understood;575–579 this world’s trouble known. | Chooses troublesome world581. | H1/HIGH comparison. STRENGTHEN OL-V16-03/MG05-E02; not a universal anti-comfort utility rule. |
+| OL-V17-11 Appetite after costly choice | FP428–432 decadent wish; Ep40 acclaim-driven harem joke. | Gets expelled36, claims repentance42, plots petty revenge65–76. | H1 report/H2 boast. PRESERVE appetite and accountability; no actual harem/final partner arrangement established. |
+| OL-V17-12 Aqua: heaven and household | FP641 can return heaven,694 descends despite permission issue696. | Final privacy wish769 leads chosen thanks786. | H1/HIGH current wants; heaven-return goal renewed/retained, not only created now or erased by shared affection. |
+| OL-V17-13 Megumin: practice and particular gift value | FP718/721 actual barrage,722 nosebleed,735 actual Manatite handoff and737 stated wish to reciprocate a gift. Kazuma interprets the castle as return740–742; Ep32 is Eris’s report of daily practice. | Repetition and particular gift value continue after victory. | H1 actual/reported,H2 extravagance. No safe eternal operation, full daughter outcome or universal leisure-over-care priority. |
+| OL-V17-14 Darkness: ordinary political pressure | Ep33 reports new land and marriage approaches/refusal. | Eris34/35 names K-related affection; no new reciprocal K commitment. | H1 attributed report, MODERATE generalization. PRESERVE civic identity/particular preference, OPEN final settlement. |
+| OL-V17-15 Eris: work and friendship limit | Ep17 returning to work difficult;23 public form/limited observation. | Refuses frequent refuge59 yet chooses blessing82–90. | H1/HIGH actual boundary and favor. No cumulative-overload fit or general unwillingness to help; external prep-referent error retained. |
+| OL-V17-16 Yunyun: wanted ordinary future | C3P477 wants to survive for promised meal; FP731–759 finite transport calculation. | Practical care and ordinary social stake coexist. | H1/HIGH statement/acts. PRESERVE OL-V16-15 bounded company, not timeless total friendlessness. |

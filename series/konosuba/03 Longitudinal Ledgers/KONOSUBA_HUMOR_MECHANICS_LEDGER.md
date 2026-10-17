@@ -1,11 +1,11 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V16
+scope: V01-V17
 ledger_role: humor_mechanics
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V16 principal narrative
+source_boundary: Japanese main-series light novels through V17 principal narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1279,3 +1279,30 @@ The lower bound exceeds half of this175-unit contribution, but Gen05’s prospec
 | HM-V16-06 Particular responsive company | C3P325–380; FP154–199/400–514: efficient substitutes fail to reproduce familiar correction; real guilt and costly enablement retain teasing/rivalry. | H1 appraisals/actions, H2 performance; HIGH local preferences/MODERATE transfer; STRENGTHEN particular reward, OPEN downstream campaign. |
 
 L classes describe primary whole-premise portability, not a psychological H-class. The same comic scene can contain literal harm, exaggerated intensity and uncertain motive. All source corrections remain externally attributable; no final audience-response or translation-quality claim follows.
+
+
+## V17 accepted principal-main update — HM
+
+Accepted additive append after attributable source/form receiving; exact publication remains pending. Earlier history, raw classifications, fixed bounds/windows and all frozen blank fields remain unchanged. Narrative evidence is PRIMARY_JAPANESE_NATIVE_MAIN17_ADMITTED_PRINCIPAL; classifications/receiving conclusions are ANALYST_JUDGMENT under the unchanged protocol, not extra fictional events.
+
+| Claim and subject | Source / prior appraisal | Actual result or current analytical finding | Evidence class, confidence, transition and limit |
+|---|---|---|---|
+| HM-V17-01 Power succeeds while valuation destabilizes | C1P11–59/153–194; prior HM-V16-01 capability decomposition and MG05-M03/M06. | Actual barrier/gatekeeper destruction and house-priced expenditure coexist with Kazuma’s exhilaration, Darkness’s alarm, Megumin’s continued appetite and real overheating/restraint. | H1 outputs/order, H2 heroic/accounting contrast; HIGH source, MODERATE primary-mechanism weighting. STRENGTHEN power/judgment separation; no safe-cast or moral-success inference. |
+| HM-V17-02 Knowledge gaps and face-saving do not erase error | C1P274–305/348–358; C2P390–426; FP60–66/316–322. | Trap rationalization, pot destruction, forgotten rope attachment and weapon complaint meet source-visible correction, including actual rebound consequences. | H1 acts and attributed self-report; H2 boast/understatement. HIGH chronology. PRESERVE fallible access and actual harm; no rope-shortage or unfailing-genius reconstruction. |
+| HM-V17-03 Enemy institutions mirror social scripts | C2P119–165/175–237; FP221/242–248/277–279; prior HM-V16-05 service/leverage. | Imitated identity fails knightly register; elite hostage ethics become management rank, captive demands tea, and enemy colleagues share ordinary complaints amid continuing danger. | H1 represented speech/actions, H2 institutional parody; MODERATE mechanism. STRENGTHEN role/pragmatic comic pattern without declaring enemies harmless or every story act newly adopted service. |
+| HM-V17-04 Particular company and reciprocal gifts | C1P401; C2P540–575; C3P37–51; FP103–105/553–581/735–742; HM-V16-06/OL-V16-03. | Familiar correction accompanies chosen company; enemy daughter-gift value changes one plan; comfortable Japan loses to a known difficult world. Megumin states repayment737, while castle-as-return is Kazuma740–742 interpretation. | H1 choices/reports; H2 excess gift appraisal. HIGH local choice, MODERATE generalized mechanism. STRENGTHEN particular attachment without universal generosity or a settled romance. |
+| HM-V17-05 Primary portability remains a bounded assignment claim | Fixed179 whole-premise union from342 originals; both complete original179 assignment sets. | Current conservative pair178 clear portable/one unresolved U17-145 P MIXED versus I L1;100 exact fine agreements/79 differences. | PRIMARY narrative plus ANALYST_CLASSIFICATION; MODERATE class weighting, HIGH exact join/count. PRESERVE both histories; OPEN final J02 pooled adjudication. No translation experiment, accuracy or independent-trial claim. |
+| HM-V17-06 Weak, nested and cultural scopes remain evidence | All43 scope-touch units retained; U17-002/016/049/057/069/142/145/147/172/176; original342 scoped flags. | Brief narrator/verbal and serious-adjacent premises stay primary. Bare-angel compound, Engacho, katakana persona, specialist register and cute sword-name texture remain nested/contextual flags even when whole premises transfer. | H1 source/locators; classification MODERATE. PRESERVE all scoped history and179 denominator; diagnostic removal of43 is not a new governing census or43 independent soft stories. |
+| HM-V17-07 Comedy does not cancel coercion or recovery needs | C2P298–328/432–439; C3P425–438; FP625–635/702–751/764–786; prior SO/DecisionError states. | Real stripping pressure, wounds, shared-death acceptance, naked reconstruction and unshown Mitsurugi treatment remain alongside jokes and gratitude. | H1 bodily/action/expressed-risk facts; H2 framing; HIGH actual harm, MODERATE motive. PRESERVE seriousness overrides and specific agency; no retroactive consent, tear brake or harmless ending rescue. |
+| HM-V17-08 Complete supporting provenance is the evidence home | Discovery home+P185/I157 parts; paired179 coding register, exact v2 handoff seal. | All342 original descriptions/flags/routes and28 operations remain; original fine labels/rationales are complete. Only private novel source arrays/ruby/long quotations are withheld with hashes/locators. | HIGH exact reconstruction; MODERATE analytic coding. PRESERVE additive original history. Registers are volume appendices under this ledger, not new rolling state homes; no canonical or publication acceptance by this candidate. |
+
+Complete additive supporting-register links (existing Humor/Voice ledgers remain sole rolling responsibility owners):
+
+- [KONOSUBA_V17_HUMOR_DISCOVERY_REGISTER.md](KONOSUBA_V17_HUMOR_DISCOVERY_REGISTER.md).
+- [KONOSUBA_V17_HUMOR_DISCOVERY_PRODUCER_ORIGINALS.md](KONOSUBA_V17_HUMOR_DISCOVERY_PRODUCER_ORIGINALS.md).
+- [KONOSUBA_V17_HUMOR_DISCOVERY_INDEPENDENT_ORIGINALS.md](KONOSUBA_V17_HUMOR_DISCOVERY_INDEPENDENT_ORIGINALS.md).
+- [KONOSUBA_V17_HUMOR_CODING_REGISTER.md](KONOSUBA_V17_HUMOR_CODING_REGISTER.md).
+- [KONOSUBA_V17_VOICE_COMPARISON_REGISTER.md](KONOSUBA_V17_VOICE_COMPARISON_REGISTER.md).
+- [KONOSUBA_V17_VOICE_COMPARISON_PART_01.md](KONOSUBA_V17_VOICE_COMPARISON_PART_01.md).
+- [KONOSUBA_V17_VOICE_COMPARISON_PART_02.md](KONOSUBA_V17_VOICE_COMPARISON_PART_02.md).
+- [KONOSUBA_V17_VOICE_COMPARISON_PART_03.md](KONOSUBA_V17_VOICE_COMPARISON_PART_03.md).

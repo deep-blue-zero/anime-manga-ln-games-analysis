@@ -1,11 +1,11 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V16
+scope: V01-V17
 ledger_role: seriousness_override
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V16 principal narrative
+source_boundary: Japanese main-series light novels through V17 principal narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -595,3 +595,27 @@ This additive MAIN-16 candidate retains the retired Gen03 sufficient tear-brake 
 | SO-V16-14 Endpoint remains open | One final Explosion and a strongest-mage valuation close the principal text (EpP0027–0029). | OPEN actual barrage/breach/retrieval/extraction and finances, HIGH absence boundary. Narrative warmth or seriousness does not authorize later-volume completion. |
 
 Seriousness changes which appraisals govern a particular act; it does not remove existing preferences or turn every member into a consistently restrained protector. Genuine care, continued instrumental harm and real coercive power can occur in the same volume and must remain simultaneously modeled.
+
+
+## V17 accepted principal-main update — SO
+
+Accepted additive principal-main contribution; publication remains pending. Native members C1=part0009, C2=part0010, C3=part0011, F=part0012, Ep=part0013 under text/; all-body-p locators. See the [V17 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V17_RECEIVING_REVIEW.md) for actual scope and limitations.
+
+Real distress, harms and boundaries remain load-bearing through comedy; retired sufficient noticed-tears brake stays retired.
+
+| Claim and subject | Prior scene / information | Choice / observation | Evidence class, confidence, transition and limit |
+|---|---|---|---|
+| SO-V17-01 Overheated specialist | C1P175–186 nosebleed/heat and continued urge. | Kazuma mana/face care177/179; Darkness physically stops185. | H1/HIGH selected care, not universal autonomous stop. Preserves SO-V16-09/11 specific action distinction. |
+| SO-V17-02 Companion in blast area | C1P46 continuation against47 Aqua-risk objection; C2P497–501 later risk disclosure/admission. | Actual barrage and admitted gift excitement; no invented safe ally geometry. | H1 risk/acts,H2 intensity. OPEN broad relational brake and exact safe M06 conjunction. |
+| SO-V17-03 Known execution threat | C2P271/275 imminent killing; K277 intervenes. | Changes rescue plan286, then coercive stripping demand300–318. | H1/HIGH help plus chosen wrongdoing, not pure hero conversion. |
+| SO-V17-04 Humiliation/participation sequence | C2P298 objection and309 particular limit precede removal310/311. | Own K cheer315/resentment326; Mitsurugi321 supplies external stop. | H1/H2; no retroactive consent, no restored tears brake or intimacy-only exclusion. |
+| SO-V17-05 Pain and protection coexist | C2P432–439 Decoy/wounds then pleasure. | Real damage taken for others; not rendered fake by liking it. | H1/HIGH finite protector duty, no universal altruism or flawless tactics. |
+| SO-V17-06 Known undead danger | C3P203 actual death;205/224 acknowledged prior limitation forgotten. | Afterlife consultation and eventual return421/429. | H1/HIGH actual consequence; later rescue does not make original method sound. |
+| SO-V17-07 Grave collective-cast threat | C3P425–438 shield promise, accepted possible all-death, loaded spell and pleas. | No indoor release shown; later disposal alternative446. | H1/HIGH severity and explicit knowledge, AMBIGUOUS tactical conjunction. No harmless comedy or proven compliance. |
+| SO-V17-08 Personal thanks and ordinary alternative | C3P456 temporary art work to return home;472 body-loss fear and487 question. | Aqua supports actual plan503–523 after ordinary plea. | H1/HIGH expressions/acts; service, dependency and fear coexist, no motive-purity rule. |
+| SO-V17-09 Father’s gift | FP100/103 child-made hanky,104 conscience. | Kazuma drops exploitation105 despite continuing combat. | H1/HIGH local restraint; no general mercy or solved war ethics. |
+| SO-V17-10 Chosen fatal action | FP409–418 friends’ likely danger,466–469 actual death fear,480 release. | Death confirmed496 before new body option553. | H1/HIGH cost/order. STRENGTHEN selected attachment; no known reward insurance, unlimited resurrection or disappearance of fear. |
+| SO-V17-11 Afterlife farewell | FP525 Aqua cries; K530 assumes no revival,547/549 farewell pain. | Concrete alternatives later permit return581. | H1/HIGH emotional expressions,H2 understatement. Tears not sole cause, no automatic moral transformation. |
+| SO-V17-12 Missed wounded companion | FP702/703 then745/746 requests with fading pulse/breath. | Others continue identity talk; transport751, no healing on page. | H1/HIGH danger preserved. No future recovery supplied and no uniform knowingly callous intention inferred. |
+| SO-V17-13 Risky private gratitude | FP764 deliberate resistance to teleport,769 private wish,772/783 approaching enemies. | Thanks786 moves Kazuma788; no final enemy blow shown. | H1/HIGH actual chosen privacy/care and danger. Affection does not make risk imaginary or establish mutual romance. |
+| SO-V17-14 Postwar accountability | Ep40 praise-driven harem boast,36 expulsion,42 claimed repentance. | Eris retracts sympathy43/44; later blessing does not erase sanction. | H1 report/H2 appetite. PRESERVE ordinary consequences and strongest K03 contrary candidate; not heroic moral immunity. |

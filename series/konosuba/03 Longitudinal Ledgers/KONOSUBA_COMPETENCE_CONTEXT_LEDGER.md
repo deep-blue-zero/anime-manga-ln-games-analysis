@@ -1,11 +1,11 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V16
+scope: V01-V17
 ledger_role: competence_context
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V16 principal narrative
+source_boundary: Japanese main-series light novels through V17 principal narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -768,3 +768,31 @@ The entries separate learned capacity, situational readiness, actual output, coo
 | CC-V16-20 Leadership limits | Kazuma supplies preparation, questions, resource selection and some repair; others independently supply force, warnings, control and comfort. | Darkness verbally interrupts the risky shot; Aqua opens a small barrier hole; Yunyun/Mitsurugi coordinate their travel; Wiz/Vanir rescue dungeon phases. | PRESERVE bounded integrator rather than necessary/exclusive commander, HIGH distributed acts. Other phase success does not prove the whole campaign and no full rescue completion is claimed. |
 
 A correct comparison must specify the task phase and observable answer. “Alternative party works” is supported for ordinary travel encounters; “all original members are dispensable everywhere” is not. “Kazuma learned magic” is supported; “he has acquired a mage’s output/body” is contradicted. “Megumin casts” is supported; the source’s evaluative strongest-mage ending is distinct from a mechanically complete castle outcome.
+
+
+## V17 accepted principal-main update — CC
+
+Accepted additive principal-main contribution; publication remains pending. Native members C1=part0009, C2=part0010, C3=part0011, F=part0012, Ep=part0013 under text/; all-body-p locators. See the [V17 receiving review](../09%20Audits%20and%20Manifests/KONOSUBA_V17_RECEIVING_REVIEW.md) for actual scope and limitations.
+
+Capacity, readiness, deployment, resource completeness, recovery and provider scope remain separate; actual success is not proof of prior adequacy.
+
+| Claim and subject | Prior scene / information | Choice / observation | Evidence class, confidence, transition and limit |
+|---|---|---|---|
+| CC-V17-01 Megumin artillery | C1P153–171 repeated casts overwhelm barrier/regeneration. | Barrier broken155, gatekeeper killed171; overheats175–186. | H1/HIGH capacity; external stop185, known ally risk47. STRENGTHEN CC-V16-19 outcome completion now actually shown, not backdated V16 evidence. |
+| CC-V17-02 Kazuma ordinary body | C1P528 weak Lightning; FP60 boast/63 auto-evasion,130 weak arrows. | High skill breadth, finite damage and mana, physical wounds remain. | H1/HIGH decomposition. PRESERVE CS-V16-03 body/class/practice distinctions. |
+| CC-V17-03 Basic Heal limits | C1P318 repairs bump;482 loses drain contest; FP341 grave shoulder remains. | High-grade stone353/354 closes shoulder. | H1/HIGH; capacity/resource matching, no general uselessness or ordinary Heal omnipotence. |
+| CC-V17-04 Aqua buff/contact | C1P390/397 support; wraith physical immunity435/444 arm loss. | Actual ghost destruction498 and effective voice imitation461. | H1/HIGH outputs; separate signal blindness430 from unavailable intrinsic power. |
+| CC-V17-05 Voice imitation | C1P458/471 false orders, actual Nos compliance468/469. | Real friendly stabbing461 and Logia corpse578; C2P119 rough style exposes discrepancy123. | H1/HIGH representation, no audio evidence; exact voice likeness claim122 is textual, style and identity are separate. |
+| CC-V17-06 Teleport bypass | C1P560/563 removes strong enemy; armor retained564. | Escape works locally; C3P327 rejects town-police deployment due to new broader harm. | H1 actual removal, claims/hypotheses destination566/armor580. No safe final disposition guaranteed. |
+| CC-V17-07 Darkness tanking | C2P432 Decoy diverts433, wounds434; C3P125/180/437 protection. | Actual physical shield break522 enables Kazuma plan; later wounded FP671. | H1/HIGH finite defensive contribution, pleasure does not invalidate; no attack-accuracy cure. |
+| CC-V17-08 Mitsurugi and Yunyun force | C2P447–452 Mitsurugi kills; C3P136 Yunyun Inferno actual. | Retinue defeat reported FP539; Darkness/Mitsurugi injured671–675, Megumin/Yunyun appear uninjured673. | H1 acts/report separated, HIGH source class. No automatic whole-task replacement by one provider. |
+| CC-V17-09 Stealth limitations | C1P369/370 works on ordinary guards;373 wraith detects Aqua. C3P194–205 undead detects K. | C3 failed assassination/death; later the reaper is absent and its scythe/ Darkness’s broken sword are present440. Kazuma infers Aqua’s retaliation441. This informs his changed approach without proving the reaper dead or establishing a universally safe stealth opportunity. | H1/HIGH observed failure,441 K inference. Readiness/memory and target knowledge separate from skill possession. |
+| CC-V17-10 Divine knowledge and seal | Eris C3P246 immunity and316/324 weakening capacity supplies new knowledge. | Aqua performs the actual seal C3P503–514; Darkness’s charge522 exposes the king to its light; Aqua’s recovery magic523 lets Mitsurugi stand while Kazuma organizes isolation. | H1/HIGH phase effects. Acknowledged new information prevents treating old/new plan as controlled clarity comparison. |
+| CC-V17-11 Finite projectile/device stock | FP138–169 constructed stock,223 time trade,232 arrows gone. | Devices wound157/remove golem289, not unlimited fire or severed leg160. | H1 outputs,159 nonmagical cause/195 blowback are K hypotheses. PRESERVE resource-specific success. |
+| CC-V17-12 King adaptation | FP38–51 reads diversion;255–263 summons/boosts smaller golem. | Defeats larger short-life construct; actual attacks injure K304/316. | H1/HIGH tactical intelligence despite comic admin complaints; no omniscient plan or withheld origin filled. |
+| CC-V17-13 Learned Explosion | FP423/424 last resources,456 daily exposure,458/459 poor control. | Actual release480/482 causes K death496; king dead is initially Eris report539. | H1/HIGH act/death, report attribution. Success is not a safe reusable solo tactic; exceptional restoration unknown before decision. |
+| CC-V17-14 Eris/Aqua body recreation | FP553–562 authoritative choices,622 once-only exception. | Joint Resurrection625/body626/627; nakedness632 is an attention error. | H1/HIGH capacity with readiness detail. No future unlimited body or costless-suicide permission. |
+| CC-V17-15 Yunyun transport provider | FP731 remaining uses,732 capacity four,733 nine people,735 stone BEFORE result. | Coordinates743/757 and executes749/759. | H1/HIGH independently adequate phase, not inferred only from success; continuing K direction unnecessary within this arrangement. |
+| CC-V17-16 Recovery remains separate | FP702/703 and745/746 explicit healing pleas. | Mitsurugi transferred751 without shown treatment. | H1/HIGH source limit; no future healing invented and no inference all present providers knowingly declined. |
+| CC-V17-17 Heaven registration | Ep54 pre-duel third-slot registration reported; actual living presence47–60. | Supports intended retrieval method, but Eris refuses frequent access59. | H1 actual arrival/attributed past action, HIGH method/MODERATE future scope. Ability is not institutional permission. |
+| CC-V17-18 Leadership vector | C3P10–25 explicit division compared with C1 signals/C2 dispel; later knowledge changes. | Deployment, repair, execution, independent transport and missing recovery differ. | PRESERVE CC-V16-20/MG05-E01 A/B/C vectors; H1/HIGH phase facts, MODERATE comparative tendency; no necessity/sufficiency theorem. |
