@@ -241,7 +241,7 @@ Unsupported through V15 under the project's evidentiary standard. Relational int
 
 The original empty standalone-ledger directory was intentional. Architecture §6.0 now authorizes `V01–V15_RETROSPECTIVE_LEDGER_BACKFILL` to meet evidence-retrieval, reconstruction, and handoff needs without restarting the project.
 
-**Core backfill established; repair still in progress pending source reconciliation and final validation.** The retrospective ledgers are `active_provisional` evidence infrastructure, subordinate to the accepted checkpoint sequence and attributable correction overlays. They contain 50 unique observations (28 PRIMARY_VERIFIED, 22 ANALYSIS_EXTRACTED); derived rows overlap. No reconstruction readiness grade is assigned.
+**Core backfill and source reconciliation established; final cross-artifact validation remains in progress.** The retrospective ledgers are `active_provisional` evidence infrastructure, subordinate to the accepted checkpoint sequence and attributable correction overlays. They contain 50 unique observations (28 PRIMARY_VERIFIED, 22 ANALYSIS_EXTRACTED); derived rows overlap. No reconstruction readiness grade is assigned.
 
 - [Character State Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_CHARACTER_STATE_LEDGER.md)
 - [Relationship State Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_RELATIONSHIP_STATE_LEDGER.md)
@@ -257,11 +257,16 @@ No unresolved source-attribution conflict remains in the new records. Extracted 
 
 The Phase-0 source lock recorded Japanese main volumes V01–V17 available and V18 absent at that audit boundary.
 
-Current folder readback on 2026-10-17 instead exposes V16 CBZ (`1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS`), preferred September V17 EPUB (`1sAvxxFVzSOtobfs2HTjPTK1QqNjxyu96`), and V18 EPUB (`1QEgPUH9Sr-3jVH2C5vr-3ZRJ7xKK4uH4`). The older V17 (`1itEg_5CH3XR138EBsbTxYeZyiUk9uOT1`) is retained under the source archive. Exact-byte technical revalidation is in progress; do not reuse the old V17 preference or V18-missing claim.
+Current source authority is the [reconciled inventory](02%20Source%20Lock%20and%20Inventory/YURUCAMP_CURRENT_SOURCE_INVENTORY.md), [exact identity/locator manifest](02%20Source%20Lock%20and%20Inventory/YURUCAMP_CURRENT_SOURCE_MANIFEST.json), and [quality notes](02%20Source%20Lock%20and%20Inventory/YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES.md), checked 2026-10-17. They preserve the August 14 Phase 0 observation and reconcile the September acquisition batch.
 
-V19 is published (Houbunsha, 2026-10-09) but no V19 main manga object was found in the inspected root. Acquisition remains a separate gap. No V16–V19 narrative content has been analyzed by this repair.
+| Source | Current disposition | Continuation restriction |
+| --- | --- | --- |
+| V16 | Verified CBZ `1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS`; 168 JPEGs, 1125×1600; CRC/decode pass | Retain watermark quality flag; raw0079/raw0131 are identical non-story advertisements; preserve raw slots and build the chapter map only during separately authorized execution |
+| V17 | Preferred September Kobo EPUB `1sAvxxFVzSOtobfs2HTjPTK1QqNjxyu96`; 166 mapped spine images, 1350×1920 | Replaces archived `1itEg_5CH3XR138EBsbTxYeZyiUk9uOT1`; old filenames/page numbers are not interchangeable |
+| V18 | Admitted Kobo EPUB `1QEgPUH9Sr-3jVH2C5vr-3ZRJ7xKK4uH4`; 166 mapped spine images, 1350×1920 | Available, not analyzed; no longer a current missing-source claim |
+| V19 | Houbunsha publication 2026-10-09; no object in inspected root/archive | PUBLISHED_UNACQUIRED; no ID/hash or narrative evidence invented |
 
-Source-format differences must be handled at the volume lock stage. In particular, do not assume the V17 EPUB will use the page-image locator scheme established for CBZ volumes.
+All three prospective sources’ hashes were independently recomputed. The current manifest supplies full V17/V18 OPF-spine→XHTML→image mappings. Supplementary anthologies, travel guides and anime/movie guidebooks remain separate source classes, with reported versus recomputed hashes distinguished. No V16–V19 narrative content has been analyzed by this repair.
 
 ---
 

@@ -39,8 +39,8 @@ The current map's three legacy artifact hashes are historical Drive-export hashe
 | Milestone | Completed scope | State |
 |---|---|---|
 | 1 / foundation (approximately 25%) | governing metadata, bounded architecture amendment, reconstruction contract, honest interim routing | Published `e9d4b3e4bd07c236387fb2f3e4464e461fd0ab6e`; author preflight and explicit legacy-route check passed; source audit 38987985062, housekeeping 38988296530, exact-head integration audit 38988327029 passed |
-| 2 / core extraction (approximately 50%) | five substantive ledgers, 50 observation records, targeted verification and checkpoint chronology | Prepared; validation/publication pending |
-| 3 / evidence and sources (approximately 75%) | targeted Japanese verification and reconciled acquisition/quality records | Pending |
+| 2 / core extraction (approximately 50%) | five substantive ledgers, 50 observation records, targeted verification and checkpoint chronology | Published `30d70c78e9b3b15d529adb18c1e0ba88fb90fc63`; author preflight, links, evidence joins, preservation and remote-tree readback pass; source audit 38989565824, housekeeping 38989958645, exact-head integration audit 38989987765 passed |
+| 3 / evidence and sources (approximately 75%) | reconciled acquisition/quality records; V16 restrictions; V17 replacement chain; V18 admission; V19 gap | Prepared; validation/publication pending |
 | 4 / handoff (100%) | cross-artifact audit, final counts, final current map, exact-head validation/publication | Pending |
 
 Percentages label completed deliverable batches, not estimated reading effort. A partial milestone is not repair completion. The PR remains draft while substantive work is incomplete. Each publication requires source audit, housekeeping completion, and final exact-head integration audit before the next push.
@@ -69,12 +69,24 @@ The same chapter `0137.jpg` explicitly depicts Chiaki **currently writing the ap
 
 ## ER-002 — Akari family-identity correction (PRIMARY_VERIFIED)
 
-The frozen `YURUCAMP_V07-V09_CHECKPOINT.md` §18.8 heading labels Akari “Kagamihara Akari / 各務原あかり.” Direct inspection of V08 Ch.43 raw `0057–0060.jpg`, especially Aoi entrusting **her younger sister** to Toba on `0058.jpg`, resolves the family attribution: **Inuyama Akari, Aoi’s younger sister**. The verified V08 object is `15btenYpQpad_B88EzR_Nk_zOSvsP9L4-`, SHA-256 `7be122c49a2d95ccb3255139ad8fdd1d57dd0d1e9d5caaee4991a157bcf03d38`.
+The frozen `YURUCAMP_V07-V09_CHECKPOINT.md` §18.8 heading labels Akari “Kagamihara Akari / 各務原あかり.” Direct inspection of V08 Ch.41 raw `0007–0010.jpg`, in context `0003–0014.jpg`, resolves the family attribution: **Inuyama Akari, Aoi’s younger sister**. Aoi asks Toba to include her younger sister; Toba explicitly identifies her as Akari on `0007.jpg`. The flashback and bedding discussion preserve that identity through `0010.jpg`. The verified V08 object is `15btenYpQpad_B88EzR_Nk_zOSvsP9L4-`, SHA-256 `7be122c49a2d95ccb3255139ad8fdd1d57dd0d1e9d5caaee4991a157bcf03d38`.
 
-Transition: REVISE heading/identity; PRESERVE the body’s bounded description of younger-sibling participation. The explicit sibling relation and named character continuity reject attachment to Nadeshiko’s family. The surname is the corrected identity label, not a claim that a full-name caption occurs on these four pages. High confidence; original heading remains byte-preserved. Locator ledger CR10/E08-02 governs reuse.
+**Correction to this repair’s milestone-2 verification note:** commit `30d70c78e9b3b15d529adb18c1e0ba88fb90fc63` mistakenly cited raw `0058.jpg` as Aoi entrusting Akari to Toba. That scene is **Sakura entrusting Nadeshiko**. The cited corroboration is withdrawn. Reviewing all Ch.43 (`0057–0082.jpg`) and the earlier Ch.41 planning scene supplies the correct independent family evidence above. E08-02, RS15 and CR10 are corrected together; the family-identity finding survives on the proper source, while the erroneous verification history remains explicit and recoverable.
+
+Transition: REVISE heading/identity; PRESERVE the body’s bounded description of younger-sibling participation. The explicit sibling relation and named character continuity reject attachment to Nadeshiko’s family. The surname is the corrected identity label, not a claim that a full-name caption occurs on the cited pages. High confidence; original heading remains byte-preserved. Locator ledger CR10/E08-02 governs reuse.
 
 ## Core backfill scope
 
 Five substantive ledgers now route 50 unique observations across all fifteen volumes: 28 PRIMARY_VERIFIED and 22 ANALYSIS_EXTRACTED. Derived views contain 39 character-state, 31 relationship, 25 verified voice-sample and 33 competence records, plus 16 claim transitions. Counts overlap and must not be added as independent observations. Full-chapter inspection resolves major attribution/mode questions in V07 Ch.39, V13 Ch.75 and V15 Ch.87; other selected scenes are logged precisely in the locator ledger. No held-out validation or character readiness is claimed.
 
 ER-001 and ER-002 are resolved current-use corrections. Remaining source reinspection gaps are explicitly extracted, not mislabeled primary-verified. Five other architectural ledger responsibilities retain precise embedded homes and consolidation dependencies; no empty standalones were added.
+
+## Source reconciliation results
+
+Current inventory, manifest and quality/locator notes preserve the nine Phase 0 artifacts and admit 18 preferred main manga objects, one retained superseded V17 and ten separately classified supplements. All 19 main/archived objects were independently hashed. V16, preferred V17, V18 and old V17 passed fresh ZIP CRC and full image decoding; all three EPUBs have complete 166-item spine/image mappings. The preferred V17/V18 mappings (332 rows) are committed as metadata, not images.
+
+V16 retains its existing quality flag. Five bottom-strip samples corroborate the corner watermarks; raw0079/raw0131 are byte-identical non-story ads. Only quality strips and the ad were visually inspected, not prospective story scenes. V19 release (2026-10-09) was checked against Houbunsha; the complete 32-entry root and one-entry archive readback contain no V19. Supplement hashes remain explicitly reported from ingestion/Phase 0, not falsely freshly rehashed. No later-volume narrative or marketing plot information enters the V01–V15 evidence lane.
+
+The first source-batch preflight correctly rejected direct Google Drive URLs in the new inventory under the publication policy. The remedy preserves acquisition record IDs and verified facts while routing readers to the repository-relative current manifest; no global rule or exception was changed. Publication awaits a clean rerun.
+
+A final V14 raw0075–0078 check sharpened E14-01/CS31/RS26/CM27: Aoi’s compatibility uncertainty is internal; she withholds an uncertain repair and arranges teacher truck pickup. The new ledgers distinguish private thought from information disclosed to Mei and transport help from technical repair. Counts and source boundaries are unchanged.
