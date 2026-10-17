@@ -5,7 +5,7 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
 source_boundary: "Bootstrap and kickoff source preparation; zero V2 narrative units admitted or close-read"
@@ -258,7 +258,7 @@ Revision 0.1: metadata-only inventory, hashes and provisional edition architectu
 
 The owner's subsequent instruction authorizes `continuous_sequential` through every eligible source in the verified kickoff inventory across the admitted lanes, followed by all required analytical outputs. It does not waive the source checks above. This section preserves the new reconnaissance separately from the bootstrap snapshot. **No run inventory is yet finalized or admitted; all narrative coverage remains zero.**
 
-The supporting [candidate identity snapshot](SHUUKURA_V2_KICKOFF_CANDIDATES.json) binds the re-enumerated acquired objects, complete ordered Kakuyomu identity list and subsequent preparation objects. It is an inventory component, not another current-state surface. Snapshot SHA-256: `78e4987eb085e5d037a334706744b5bc60ea0d26296d6fe8f0f236f83de6b9e8`. Its bootstrap expected hashes are explicitly distinguished from newly reverified bytes.
+The supporting [candidate identity snapshot](SHUUKURA_V2_KICKOFF_CANDIDATES.json) binds the re-enumerated acquired objects, complete ordered Kakuyomu identity list and subsequent preparation objects. It is an inventory component, not another current-state surface. Snapshot SHA-256: `1b94205f9701fa30ffa096564cd964921c1aaa9eecf6f900298aeeeb6f12f01c`. Its bootstrap expected hashes are explicitly distinguished from newly reverified bytes.
 
 | Responsibility | Kickoff verification on October 17, 2026 UTC | Admission / remaining requirement |
 | --- | --- | --- |

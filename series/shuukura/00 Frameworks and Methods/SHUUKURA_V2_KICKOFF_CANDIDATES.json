@@ -862,7 +862,6 @@
     "admitted": false
   },
   "unresolved": [
-    "Bootstrap governance/routing candidate remains unmerged temporary draft PR 192; nightly cannot integrate its control paths.",
     "Received-source conversion lineage and full fidelity not established; V01 OPF identifies UnpackKindleS ver.20220126 and colophon ver.002.",
     "V07/V08 language/provenance anomalies remain unresolved.",
     "V01 native locator candidate is retained and readback verified; remaining per-source component/locator and admission checks are pending.",
@@ -883,5 +882,13 @@
       "source_fidelity_admission": "PENDING"
     },
     "created_evidence_objects_note": "Two new preparation objects were created after re-enumerating the original 43 acquired objects; they do not add narrative units."
+  },
+  "repository_recovery": {
+    "bootstrap_merge_commit": "03bebd910c61d319493919d2418c473e1051d87f",
+    "bootstrap_source_head": "bfd2db472855bd9d27d5d533cf6ff8151341ff48",
+    "equal_source_and_integration_tree": "0670e8d6bca0c90964b89a0b1c20b53002959cd8",
+    "verified_main_audit_run": 38994557094,
+    "publication_blocker": "RESOLVED",
+    "source_admission": "STILL_NOT_ADMITTED"
   }
 }

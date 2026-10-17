@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
 source_boundary: "Execution-kickoff metadata and admission recovery; zero V2 narrative units admitted or read"
@@ -38,14 +38,14 @@ project_initialization:
   owner_review: CURRENT_OWNER_INSTRUCTION_AUTHORIZES_VALIDATED_BOOTSTRAP_ADOPTION
   sequential_analysis_lock: CLOSED
   lock_reason: SOURCE_ADMISSION_REQUIREMENTS_UNRESOLVED
-  next_permitted_operation: RESOLVE_SOURCE_ADMISSION_AND_PUBLICATION_ROUTE
+  next_permitted_operation: RESOLVE_SOURCE_ADMISSION
 sequential_execution:
   mode: continuous_sequential
   unit_type: other
   authorized_start: LN-JP-V01
   terminal_boundary: PENDING_VERIFIED_KICKOFF_INVENTORY
   committed_high_water_mark: null
-  next_candidate_operation: RESOLVE_SOURCE_ADMISSION_AND_PUBLICATION_ROUTE
+  next_candidate_operation: RESOLVE_SOURCE_ADMISSION
   confirmation_between_units: false
   run_state: blocked
   inventory_freeze_state: NOT_FINALIZED_NO_NARRATIVE_ADMISSION
@@ -61,8 +61,8 @@ repository_state:
   stable_branch: series/shuukura
   routing_input: series/shuukura/.repository/series-registry.json
   materialization_status: PRESENT_UNREVIEWED
-  main_integration: UNMERGED_TEMPORARY_GOVERNANCE_CANDIDATE
-  integration_hold_required: DRAFT_PR_OR_NIGHTLY_HOLD
+  main_integration: BOOTSTRAP_MERGED_AND_AUDITED
+  integration_hold_required: NONE_FOR_COMPLETED_BOOTSTRAP
 ---
 
 # Shuukura V2 — current state and corpus map
@@ -71,9 +71,9 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 
 `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`
 
-`NEXT_PERMITTED_OPERATION = RESOLVE_SOURCE_ADMISSION_AND_PUBLICATION_ROUTE`
+`NEXT_PERMITTED_OPERATION = RESOLVE_SOURCE_ADMISSION`
 
-The owner has now explicitly authorized continuous execution through the verified kickoff source inventory and every required analytical stage. That authorization persists across recovery; ordinary source units require no further confirmation. Execution is **blocked before admission**, rather than active or completed. Zero narrative units are admitted, zero V2 readings completed, and no character model constructed or tested. The exact terminal inventory remains unfinalized because source-admission requirements are unresolved. Validation and source availability cannot supply missing fidelity or provenance evidence. The [bootstrap receipt](08%20Audits%20and%20Handoffs/SHUUKURA_BOOTSTRAP_RECEIPT.md#continuous-execution-kickoff-and-recovery) records the authorization, live-state discrepancy, checks and recovery conditions.
+The owner has explicitly authorized continuous execution through the verified kickoff source inventory and every required analytical stage. That authorization persists across recovery; ordinary source units require no further confirmation. The bootstrap has completed protected-main integration and its main audit; its former publication blocker is resolved. Execution remains **blocked before source admission**: zero narrative units are admitted or completed, and no character model is constructed or tested. The exact terminal inventory remains unfinalized because source-admission requirements are unresolved. The [bootstrap receipt](08%20Audits%20and%20Handoffs/SHUUKURA_BOOTSTRAP_RECEIPT.md#merged-bootstrap-reconciliation) preserves both integration authorization and this execution's source preparation and remaining requirements.
 
 ## Current boundaries
 
@@ -97,7 +97,6 @@ The [source inventory](00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY
 | --- | --- | --- |
 | Source admission | V01 bytes match the recorded witness, but its Kindle-extraction lineage/fidelity remains unestablished; V07/V08 anomalies and supplemental provenance remain open. A ZIP/metadata check cannot certify a faithful original-Japanese derivative. | Establish the edition and transformation route, source fidelity, required component/locator manifests and per-source admission decisions. Do not ask again for ordinary continuous-execution authority. |
 | Exact inventory | All 43 originally acquired objects still match the bootstrap IDs/sizes. Kakuyomu snapshots and V01 locator preparation are now retained; mandatory supplement provenance/completeness, Narō correspondence and the discovered supplemental collection still require reconciliation. | Finalize the exact source set and remaining locator/evidence routes before the first narrative reading; preserve this candidate snapshot as pre-admission history. |
-| Stable publication | The bootstrap remains on a temporary governance/routing candidate. The stable analytical branch's complete delta would inherit its governance and test changes, outside housekeeping/nightly's permitted boundary. | Integrate the existing bootstrap through its authorized owner-controlled governance route, verify the resulting main audit, then reconcile this series-only recovery delta without rewriting history. |
 
 The candidate-ID snapshot is linked from the source inventory. It is metadata, not an admitted execution freeze or a completion denominator. Narrative high-water marks remain **NONE for LN, Kakuyomu and supplements**; Narō correspondence is also uncompleted. No quarter-publication milestone has been reached. The next source unit remains `LN-JP-V01` after the recovery operation and successful admission gate.
 
@@ -122,12 +121,14 @@ The transcript exporter could not prove that the first conversation turn (turn 0
 
 The routing input is [`.repository/series-registry.json`](.repository/series-registry.json), declaring `project_initiation_gate: REQUIRED`. Generated global routing remains housekeeping-owned; character registry/index changes remain curation-owned. No authority-epoch/scope change is implied. The V1 historical corpus does not exempt this material restart from the current initiation contract.
 
-For resumption, fetch live authority/governance, the bootstrap candidate and stable branch when published, reconcile with current main, then read these canonical files and the last accepted unit/freeze when one exists. Never reconstruct source coverage or next operation from conversational memory. Continuous execution is authorized but blocked before activation. Future run metadata must obey the live validator's exact lock/run-state consistency fields.
+For resumption, fetch live authority/governance and the stable branch, reconcile with current main, then read these canonical files and the last accepted unit/freeze when one exists. Never reconstruct source coverage or next operation from conversational memory. Continuous execution is authorized but blocked before activation. Future run metadata must obey the live validator's exact lock/run-state consistency fields.
 
-To open the lock: complete the actual bootstrap verification and resolve admission blockers for the chosen sources; finalize the exact inventory/locator freeze and capability plan; then apply the owner's existing continuous instruction to those verified units. Only the successful admission transaction may set `project_initialization.sequential_analysis_lock: OPEN` and a consistent active `sequential_execution` block with matching next operations and exact bounds. The temporary governance candidate retains its existing integration hold until its authorized integration route is resolved; the nightly policy does not delegate temporary-branch or governance integration.
+To open the lock: complete the actual bootstrap verification and resolve admission blockers for the chosen sources; finalize the exact inventory/locator freeze and capability plan; then apply the owner's existing continuous instruction to those verified units. Only the successful admission transaction may set `project_initialization.sequential_analysis_lock: OPEN` and a consistent active `sequential_execution` block with matching next operations and exact bounds. Protected-main bootstrap integration and its audit are verified. The superseded draft integration hold is not an analytical admission requirement; ordinary stable-branch publication now follows the existing audited workflow.
 
 The live [initiation policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md), [archive authority policy](../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md), [branch lifecycle](../../governance/policies/BRANCH_LIFECYCLE.md), [housekeeping policy](../../governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md) and [character curation policy](../../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md) govern execution and publication.
 
 Revision 0.1: independent V2 bootstrap; no substantive sequential findings.
 
 Revision 0.2: continuous authorization recovered; pre-admission source and publication blockers recorded. No narrative high-water mark advanced.
+
+Parallel revision 0.2 on main recorded the subsequent owner authorization for protected-main integration separately from analytical admission. Revision 0.3 reconciles both histories and removes the resolved publication blocker; narrative coverage remains zero.
