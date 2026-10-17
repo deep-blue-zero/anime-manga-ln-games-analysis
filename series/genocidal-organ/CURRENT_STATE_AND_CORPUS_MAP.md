@@ -5,13 +5,13 @@ artifact_type: corpus_map
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.31'
+version: '0.32'
 status: active_provisional
 scope: Completed original-Japanese sequential run and subsequent-work routing
 source_boundary: GO-JP-EPUB-001 complete; GO-U001–028 through natural epilogue40/41; all44spine occurrences explicitly disposed
 canonical_home: series/genocidal-organ/CURRENT_STATE_AND_CORPUS_MAP.md
 created: '2026-10-16'
-review_status: SOURCE_RUN_COMPLETE_CLOSING_PUBLICATION_AUDIT_SEPARATE
+review_status: G1_CLOSING_AUDIT_PASS_NAVIGATION_REPAIR_PUBLICATION_SEPARATE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -65,8 +65,8 @@ repository_state:
   stable_branch: series/genocidal-organ
   routing_input: series/genocidal-organ/.repository/series-registry.json
   materialization_status: PRESENT_REVIEWED
-  main_integration: OWNER_CONTROLLED_LANE_ONLY
-  integration_hold_required: OWNER_CONTROLLED_LANE_FINAL_RUN_CHECKPOINT
+  main_integration: G1_MERGED_PR188_2026_10_17_REPAIR_INTEGRATION_SEPARATE
+  integration_hold_required: OWNER_CONTROLLED_NAVIGATION_REPAIR_REVIEW
 ---
 
 # Genocidal Organ / 虐殺器官 — current state and corpus map
@@ -89,7 +89,7 @@ The [complete source coverage and run handoff](07%20Audits%20and%20Handoffs/GENO
 | Character readiness | C001 DOMAIN_BOUNDED descriptively; C007 INSUFFICIENT;49RECOGNITION_ONLY; all model production NOT_STARTED and validation NOT_PERFORMED |
 | Formal downstream gates | Architecture G2–G6 NOT_PERFORMED/separately gated; required source-run ledger housekeeping is not a commissioned retrospective synthesis |
 | Architecture | INITIAL and current three cumulative owners retained after bounded completion role-gap review; no empty specialist/model homes |
-| Repository integration | Stable branch `series/genocidal-organ`, ongoing PR188 OPEN_DRAFT, owner-controlled integration hold; no protected-main merge performed by this run |
+| Repository integration | PR188 merged at 2026-10-17T18:04:24Z into `8f4bf6b9c92dc0712dc008ad0b0b247408141778`; exact post-merge audit passed. Follow-up navigation repair and independent closing audit use `series/genocidal-organ` under a fresh draft/owner-controlled integration hold; their own publication and integration remain separate |
 
 ## Read order and canonical homes
 
@@ -98,6 +98,8 @@ The [complete source coverage and run handoff](07%20Audits%20and%20Handoffs/GENO
 3. [Actor/relationship/readiness](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md), [knowledge/institutions/coercion](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md), and [claims/predictions/revisions](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md) as sole cumulative owners.
 4. [Complete coverage and precise subsequent-work handoff](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_COMPLETE_SOURCE_COVERAGE_AND_RUN_HANDOFF.md), then the [rolling receipt](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_CONTINUATION_EXECUTION_RECEIPT.md) for dated publication/audit facts and operational qualifications.
 5. Frozen readings begin at [GO-U001](01%20Sequential%20Readings/GO_U001_OPENING_AND_PART_I_SUBSECTION_1.md), retain the [attributable language calibration addendum](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_GO_U001_LANGUAGE_CALIBRATION_ADDENDUM.md), and end at [GO-U028](01%20Sequential%20Readings/GO_U028_EPILOGUE.md). Their entering and exit states remain historical knowledge boundaries.
+
+The [independent closing audit](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_COMPLETE_SOURCE_COVERAGE_AND_RUN_HANDOFF.md#independent-g1-closing-audit-and-navigation-repair--2026-10-17) verifies the original witness, retained coverage packet, all published locator bindings, frozen-reading hashes, longitudinal histories and actual exact-head CI. GO-U006 and GO-U007 retain their frozen bytes; compatible source-map anchors repair both historical links. G1 completeness is supported within the declared witness and inspection limits. The earlier OPEN_DRAFT integration descriptions in dated records describe the original run's exit, not PR188's present GitHub state. G2–G6 remain NOT_PERFORMED and separately gated.
 
 Git owns analytical text and embedded freezes. Private source-verification packets remain separately routed to the existing approved Drive collection. The final source-only coverage supplement is Drive file `1hAJQBh7avc6LBMWoC-HnEHcK6ST-VUND` (1802096bytes; SHA-256 `c3d69b532f2ba8d2650780d8fa3720f8bb50fd44b346c91602a4cc2d654a706a`; independent full raw-retention QA `4927906f5ad37ebe71449879c32474623f08d1d368cf65f27836ffd732918028`); actual object identity, private sharing state at inspection and full raw readback belong to the source map/handoff. Historical route availability has bounded evidence; no universal future availability or fresh ACL check of all old objects is claimed.
 
