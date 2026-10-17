@@ -5,10 +5,10 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.1"
+version: "1.2"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Frozen SHUUKURA-V2-20261017-I1; Japanese LN V01–V07 complete in atomic transactions; V08+ fiction and other lanes unread; V08 future-job advertisement exposure declared"
+source_boundary: "Frozen SHUUKURA-V2-20261017-I1; Japanese LN V01–V08 complete in atomic transactions; V09+ fiction/images and other lanes unread"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Source inventory and edition/witness architecture
 
-This is the canonical source-and-coverage home. Snapshot: **2026-10-17 UTC; initial planning date 2026-10-16**. The historical bootstrap tables below distinguish acquisition and structural checks from reading. The later **SHUUKURA-V2-20261017-I1** record at the end of this document is the authorized source freeze. Ordered LN inspection is admitted. The live coverage record below credits complete V01–V07 only through their complete introducing atomic commits. Earlier bootstrap/candidate tables remain explicitly historical preparation and do not themselves establish current coverage.
+This is the canonical source-and-coverage home. Snapshot: **2026-10-17 UTC; initial planning date 2026-10-16**. The historical bootstrap tables below distinguish acquisition and structural checks from reading. The later **SHUUKURA-V2-20261017-I1** record at the end of this document is the authorized source freeze. Ordered LN inspection is admitted. The live coverage record below credits complete V01–V08 only through their complete introducing atomic commits. Earlier bootstrap/candidate tables remain explicitly historical preparation and do not themselves establish current coverage.
 
 ## Evidence plane, access and state vocabulary
 
@@ -346,12 +346,12 @@ Transaction `SHUUKURA-TX-LN-JP-V01-20261017-A1` introduces the [frozen V01 deep 
 
 | Lane | Complete atomic units / frozen available units | Committed high-water after this transaction | Next source operation / remaining mandatory work |
 | --- | --- | --- | --- |
-| Japanese LN | 7 / 9 | LN-JP-V07 | LN-JP-V08, then V09 in order; later fiction unread/V08 future-job advertisement exposure declared |
+| Japanese LN | 8 / 9 | LN-JP-V08 | LN-JP-V09 next; later fiction/images and other-lane fiction unread |
 | External supplements | 0 / 18 | NONE | After LN09, frozen order; unavailable frozen identities remain mandatory debts |
 | Kakuyomu | 0 / 431 | NONE | E0001–E0431 after independent LN/supplement freezes; capture is not reading |
 | Narō correspondence / supplemental gaps | 0 / 290 correspondence checks; no acquired gap completed | NONE | Exact source/correspondence and 27-record discovery audit remain unperformed; 51 unavailable identities not waived |
 
-Available-set completion is **7/458**, not all-source or synthesis completion. LN quarterV03 and halfV05 are publicly closed; V07 is the first whole-unit boundary beyond the LN75% marker and requires its audited visible publication. The overall available-set first quarter115/458 has not been reached. V06 is CLOSED_ON_GREEN_MAIN via PR203/main ef1e29ab08b2f4e733fc8ba773b85173620afc47/explicit main audit39028099115. I1 bytes/ordered digest/458available identities/51known unavailable identities/27finite discovery duties remain unchanged. No later release is admitted; native bonuses remain parent-volume components, not external supplements.
+Available-set completion is **8/458**, not all-source or synthesis completion. LNquarterV03/halfV05/threequarterV07 are publicly closed; finalLNreview/publication is due atV09. Overall firstquarter115/458 is unreached. V07 is CLOSED_ON_GREEN_MAIN via PR204/mainfcf30802988331eb8033e17167acdec6bb9abbf1/mandatoryexplicitmainaudit39034147672. I1 bytes/ordered digest/458available identities/51known unavailable identities/27finite discovery duties remain unchanged. No later release is admitted; native bonuses remain parent-volume components.
 
 ### V01 actual component inspection
 
@@ -665,3 +665,51 @@ Mainline terminal time is lateSeptember27 after the two birthdays; it does not b
 Novel75% review keeps7/9 distinct from7/458, SS0/18/Kakuyomu0/431/Narō0/290; method/architecture/reconstruction0.2 remain appropriate. Every51missing source identity/27finite discovery duty/audio responsibility remains mandatory. No thirdV04 script/V07 voice recording was heard or completed from matching prose. Maika monograph responsibility remains strong; Mio/Ami/pupil/family figures receive differentiated substantial bounded treatment unless later source justifies monographs. Current models M0.9/S0.10 are untested/noncurrent; nine earlier cases retain fourfailures/oneexposure-qualifiedgiftmatch/fourbaseline-tiednarrowmatches. No independently validated domain or completed later analytical phase is claimed.
 
 Revision1.1: seventh complete LN transaction only in its introducing commit; audited visible LN75% publication required now, then continue automatically toV08–09, all frozen later sources and every reconciliation/monograph/specialist/reconstruction/V1/integrated/release duty. I1 denominator, gaps and future exclusions remain intact.
+
+
+### V08 actual component inspection
+
+Transaction **SHUUKURA-TX-LN-JP-V08-20261017-A1** introduces the [complete V08 reading](../02%20Sequential%20Readings/SHUUKURA_V2_LN_V08_DEEP_READING.md), four reconciled instruments, append-preserved reconstruction records and [unit audit](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_LN_V08_TRANSACTION_AUDIT.md). High-water advances only in the whole introducing commit. Eleven chapters and the dual-focalizer native bonus are one LN transaction.
+
+Exact witness: V08/ACQUIRED-20261017-A1/Drive1if9ljcOHNJvaLsmFYhD3_SuFChvTRR6F/8308796bytes/sourceSHAa8f5a649c0797e71c2481d72123ce1ed64332f61bf39360309d7e57b45805642/locatorSHAcb391565c853ec1c65ae4f733bf281d2570e4aaaadea4beb4e659b6b1f8b9980; mappackage1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju; catalog04076170A23275700000/electronic2025-12-19ver.001/printfirst2025-12-20. OPFdeclareszh-CN, actual complete Japanese base/kana/ruby/colophon verified; packaging anomaly/unknownconversionlineage retained. The electronic and print dates are distinct.
+
+| Spine | Native member under item/ | Complete paragraph coverage | Original images actually viewed under image/ | Inspection state |
+| --- | --- | --- | --- | --- |
+| 1 | `xhtml/p-cover.xhtml` | 0; image-only leaf | `cover.jpg` | Complete |
+| 2 | `xhtml/p-fmatter-001.xhtml` | 0; image-only leaf | `kuchie-001.jpg` | Complete |
+| 3 | `xhtml/p-fmatter-002.xhtml` | 0; image-only leaf | `kuchie-002.jpg` | Complete |
+| 4 | `xhtml/p-fmatter-003.xhtml` | 0; image-only leaf | `kuchie-003-004.jpg` | Complete |
+| 5 | `xhtml/p-fmatter-004.xhtml` | 0; image-only leaf | `kuchie-005-006.jpg` | Complete |
+| 6 | `xhtml/p-titlepage.xhtml` | 0; image-only leaf | `titlepage.jpg` | Complete |
+| 7 | `xhtml/p-caution.xhtml` | 1–4 | — | Complete |
+| 8 | `xhtml/p-toc-001.xhtml` | 1–16 | — | Complete |
+| 9 | `xhtml/p-001.xhtml` | 1–4 | — | Complete |
+| 10 | `xhtml/p-002.xhtml` | 0; image-only leaf | `i-003.jpg` | Complete |
+| 11 | `xhtml/p-003.xhtml` | 0; image-only leaf | `i-004-005.jpg` | Complete |
+| 12 | `xhtml/p-004.xhtml` | 1–318 | `i-023.jpg` | Complete |
+| 13 | `xhtml/p-005.xhtml` | 1–478 | `i-063.jpg` | Complete |
+| 14 | `xhtml/p-006.xhtml` | 1–341 | — | Complete |
+| 15 | `xhtml/p-007.xhtml` | 1–374 | `i-123.jpg` | Complete |
+| 16 | `xhtml/p-008.xhtml` | 1–606 | — | Complete |
+| 17 | `xhtml/p-009.xhtml` | 1–527 | `i-187.jpg` | Complete |
+| 18 | `xhtml/p-010.xhtml` | 1–290 | `i-231.jpg` | Complete |
+| 19 | `xhtml/p-011.xhtml` | 1–288 | `i-249.jpg` | Complete |
+| 20 | `xhtml/p-012.xhtml` | 1–240 | — | Complete |
+| 21 | `xhtml/p-013.xhtml` | 1–307 | `i-293.jpg` | Complete |
+| 22 | `xhtml/p-014.xhtml` | 1–793 | `i-325.jpg`, `i-365.jpg` | Complete |
+| 23 | `xhtml/p-015.xhtml` | 1–33 | — | Complete |
+| 24 | `xhtml/p-016.xhtml` | 1–217 | — | Complete |
+| 25 | `xhtml/p-allcover-001.xhtml` | 0; image-only leaf | `allcover-001.jpg` | Complete |
+| 26 | `xhtml/p-colophon.xhtml` | 1–18 | — | Complete |
+| 27 | `xhtml/p-colophon2.xhtml` | 1–3 | — | Complete |
+| 28 | `xhtml/p-bookwalker.xhtml` | 0; image-only leaf | `i-bookwalker.jpg` | Complete |
+
+Totals28spines/4857nativeanchors/19originalimages/723ruby/175uniqueguides, all deliberately inspected. CRC/source/member/paragraphserialization/imagehashes pass; zero replacements/uncovered outside-flow text. Native image order held. Lost source deliveries received zero credit until full bounded redelivery. All1088nonempty literal/locator checks pass after47draft expectation/inflection/nearby-locator corrections against unchanged originals; the failed checker draft is retained and no source/packet/journal edited.
+
+EnteringA1@12:32:43.807356UTC binds23442ad7/tree2b3da1/teninputs; A2@12:33:35.428699UTC clarifies edition/base colophon BEFOREfiction/images. MainlineF11@13:28:56.525143UTC freezes4586anchors/17images, prefix160488bytes/SHA4e51d2e5cc7c9dedebb205ec8afe845b5a36b301813af23cf36786ad6fff5c3d BEFOREafterword/rewoundbonus. FullinspectionF14@13:33:49.169916UTC coversall4857/19, prefix172635bytes/SHAfe6a21d574aa13d89c1230059903fedce959d1b84b30e2874cff1e248e5415f1. Original journal177940bytes/SHA13eb8bf7568c2356e4163cda1bcdae8ed093ca20e8562eabd8d1a6ec429de717/63observations/F0–F15/sealed13:39:32.428420UTC. O041/O063 correct draft piercing references toSep25, notSep27; unchanged earlier notes remain visible. MainlineDec25night is not reset by the first-Sunday bonus.
+
+Autumn café work actually starts and ends; the separate winter offer is explicitly approved but its first shift is unshown. Festival and both Christmas occasions occur; zoo remains unperformed. Photo-permission vow is breached, concealment and origin-secrecy vows fulfilled. M names possessiveness without a complete LOVE account; S public postgrad hope does not become a mutual extension. Both ordinary competence and local ignored limits/actual accommodations are retained.
+
+V08afterword corroborates publicV07-related voice material and two limited recordings including Maika, not actual audio inspection. All51missingidentities/27finite notices/290Narōduties remain mandatory; no matching prose is automatically a faithful recording substitute. No V09/other-lane/V1fiction or future release is admitted.
+
+Revision1.2: eighth complete LN transaction only in its whole introducing commit. ContinueV09andall frozen later lanes and cumulative/reconstructive/comparative/synthesis/release requirements. The run remains active.
