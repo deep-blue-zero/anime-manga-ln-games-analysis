@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V14
+scope: V01-V15
 ledger_role: ordinary_life_preferences
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V14 main narrative
+source_boundary: Japanese main-series light novels through V15 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Ordinary-Life and Preferences Ledger — Through V14
+# KONOSUBA Ordinary-Life and Preferences Ledger — Through V15
 
 ## Purpose
 
@@ -564,3 +564,36 @@ Source: admitted principal MAIN-14 only, all-body native paragraph locators. Thi
 | OL-V14-22 Aigis C1P0389–0418;I13P0024–0030 | Enjoys beautiful company, innuendo and bodily contact, orders milk despite inability to drink and pays with valuable scrap. | Stated selective rescue plan is not a demonstrated full moral rule or completed act. |
 
 These details give ordinary support and frustration causal weight: travel preparation, boring waits, bodily comfort, familiar meals, privacy, idle time and the wish for company are not filler between quests. Their specific distribution prevents a quest-only or catchphrase-only simulation.
+
+# V15 Update
+
+Source: MAIN-15 admitted principal only, native EPUB SHA256 `ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005`. Root accepts this additive V15-local evidence through the V15 receiving review. Retained producer/candidate pending phrases describe their authorship boundary; publication and tranche adjudication remain separate. All prior ledger bytes, Gen04 originals and adverse histories stay exact. The V15 deep reading section13 routes every major claim family to H1–H4, shown/dialogue/report/inference access, qualitative confidence and governed claim transition. Apply those weights together with each row’s finer source/uncertainty limits; actual threat, refusal, pain and failed components are not erased by gag classification.
+
+## Ordinary life and preferences
+
+The novel makes ordinary comfort the object at risk, so mundane evidence is part of its causal structure. A one-off behavior, a reported habit, a state-amplified appetite and a repeatedly observed preference should remain distinguishable.
+
+| Actor / domain | Source-bound observation | Scope and limit |
+|---|---|---|
+| OL-V15-01 Kazuma and Aqua: meals | Late shared breakfast, fish, soy sauce and salt structure PrP0004–0019. Kazuma wants to eat without being shaken P0031; Aqua wants edible seasoning rather than water alone. | Basic local preferences, not a ranked cuisine model or evidence every meal is late. |
+| OL-V15-02 Kazuma: sleep and work | Requests sleeping until evening after a reported late victory drinking session C4P0153/P0167; treats the delayed escort assignment as legitimate leisure P0366–0368; EpP0020 reveals noon. | Repeated comfort/laziness tendency, with actual sleepless concern FP0212 and later actual sleep FP0369–0370 as contextual variation. |
+| OL-V15-03 Kazuma: spending/resources | Money supports mana stones, express delivery and an affordable rebuild C2P0243–0244/P0423; C3P0532. Hoarded supplies evoke his game-player habit C4P0329–0332. | Stated hoarding is not literal proof he never uses an item; recent actual reset is an obvious counterexample to an unlimited claim. |
+| OL-V15-04 Kazuma: luxurious meals under control | Diary contrasts sukiyaki/barbecue with Serena’s deprivation C3P0052–0075 and records her cost of his lodging/luxury. | Altered restraint/allegiance amplifies appetite and entitlement; do not pool state-specific coercion as a stable unconditional ordinary dinner script. |
+| OL-V15-05 Kazuma: desirable company | Imagines wealthy life with Megumin/Darkness, then recognizes boredom without Aqua FP0235–0244; admires moonlit Aqua privately FP0266–0287. | Actual counterfactual and private appraisals, not a selected household reorganization, new love declaration or elimination of stated nonromantic distinctions. |
+| OL-V15-06 Kazuma: privacy and embarrassment | Concealment avoids a feared nocturnal-visit interpretation FP0251–0257; dream-service secrecy is exploitable by Vanir C2P0639–0640. | Known vulnerabilities recruit compliance/furtiveness. No actual sexual encounter with each dream figure or actual accusation at night is shown. |
+| OL-V15-07 Aqua: food and withdrawal | She requests delivered food outside FP0200–0202, despite refusing company; has not emerged by nightfall P0208. | Food appetite remains while familiar social routine changes; not all-night room confinement and not proof the later quiet mood was fake. |
+| OL-V15-08 Aqua: pets | Shares food poorly with Chomusuke but treats Zel as a child, insists it is a dragon, feeds the level potion and negotiates its coop C4P0369–0420. | Actual attachment and unilateral resource use coexist with imaginative narration of clucks; species and future combat utility unproved. |
+| OL-V15-09 Aqua and Darkness: hygiene/labor | Mud leads Aqua to bathe while Darkness washes the robe C4P0444. | Actual local allocation; no general promise that the same person always repairs every conflict. |
+| OL-V15-10 Aqua: leisure/exhibitions | Reportedly detains both companions through a half-day performance C2P0494; Kazuma still wants to see it P0497. | Reported duration/art, not independently observed full performance or measured effect. Curiosity does not imply the hazardous sleepover is real leisure. |
+| OL-V15-11 Aqua: saving and departure | Darkness expects savings from recent allowances to finance the departure and hypothesizes hired adventurers EpP0052. | Attributed financial expectation, no amount audited and no actual escort purchase shown. Do not infer global thrift from one goal-linked report. |
+| OL-V15-12 Darkness: clothing | Date-like dress, long gloves and parasol replace armor for the supposed outing C1P0191–0195; public teasing is unwanted P0258–0264. | Prepared special occasion, not a stable dislike of armor or consent to display. |
+| OL-V15-13 Darkness and Megumin: leisure | Actually play a board game at home FP0173; Kazuma guesses Megumin is ahead from their expressions P0206. | Shared ordinary leisure is stronger evidence than the guessed rank. No game type or durable skill hierarchy is supplied. |
+| OL-V15-14 Megumin: domestic provision | Kazuma receives and carries her prepared meal FP0179–0182. | Local practical care; cooking process not directly watched and no general culinary ranking follows. |
+| OL-V15-15 Megumin: familiar practice | Housebound upward Explosion and repeated arrest are reported C2P0264. | Recurrent daily preference/constraint, with legal/external cost retained; no unshown injuries or safe universal ritual inferred. |
+| OL-V15-16 Yunyun: company | Requests a supper friend, later has concrete town contacts and wants to defend them C1P0219; C4P0483–0493. | Development in actual social stakes, not a timeless absolute absence of friends. Kazuma’s unfavorable labels are attributable. |
+| OL-V15-17 Serena: smoking | Requests tobacco after suppressing the habit for the saint persona C1P0012; later actually brings out pipe-like equipment and smokes C2P0735–0747. | Two relevant contexts support a local habit, not product composition, health history or an invented real-world tobacco equivalence. |
+| OL-V15-18 Serena: ordinary work constraints | The diary reports that her card reveals the dark-priest occupation when accepting adventurer requests and links this to missing guild rewards C3P0067–0068; paid consultation, home piecework and dishwashing are described. | Institutional constraint explains local income difficulty; no generic inability to work or objective endorsement of the narrator’s dependency claims. |
+| OL-V15-19 Wiz: shop/home | Buys cookies with merchandise FP0120, calls the shop a return-home place for former companions P0152 and values the past year P0148. | Chosen ordinary hospitality and belonging help explain consent; no closed side narrative is opened to identify every friend. |
+| OL-V15-20 Vanir: project/merchandise | Dungeon agreement motivates commercial labor by his own declaration FP0142; secret body pillow is a proposed product FP0113. | Goal is reported and actual protection corroborates attachment, but no completed product sale, consent from the depicted shopkeeper or finished dungeon is shown. |
+
+The ordinary-life counterfactuals constrain motivation without deciding it alone. Money makes a reset affordable but does not make losing levels costless. A mansion makes separation materially feasible but does not make Aqua dispensable. Food remains wanted during shame but fails to restore company by a guessed time. A pet can receive devoted care and still become an excuse for unilateral expenditure. These are usable state-dependent preferences, with the surrounding inconvenience and labor left visible.

@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V14
+scope: V01-V15
 ledger_role: competence_context
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V14 main narrative
+source_boundary: Japanese main-series light novels through V15 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Competence-in-Context Ledger — Through V14
+# KONOSUBA Competence-in-Context Ledger — Through V15
 
 ## Governing rule
 
@@ -688,3 +688,34 @@ Source: admitted principal MAIN-14 only, all-body native paragraph locators. Thi
 | CC-V14-16 Wiz/Vanir | Recognition of colleague; information advantage and manipulative commerce. | Ep P0052–0083,0087–0126. Recognition need not be intentional counterstrategy; Vanir’s accurate wallet leverage is not moral care. |
 
 The survival trial provides a bounded organization contrast: an initial armored casting failure I13P0058–0062 becomes alternating exposed attack and protected recovery C4P0008–0012. Kazuma’s initial selection is useful but incomplete; the partners’ local adjustment completes the task without his continuing instructions. This supports fitted deployment and bounded provider substitution, while actual full alternative-provider/comparative scope must remain attached to the final-night problem. It does not establish that any expert institution can substitute for every party task.
+
+# V15 Update
+
+Source: MAIN-15 admitted principal only, native EPUB SHA256 `ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005`. Root accepts this additive V15-local evidence through the V15 receiving review. Retained producer/candidate pending phrases describe their authorship boundary; publication and tranche adjudication remain separate. All prior ledger bytes, Gen04 originals and adverse histories stay exact. The V15 deep reading section13 routes every major claim family to H1–H4, shown/dialogue/report/inference access, qualitative confidence and governed claim transition. Apply those weights together with each row’s finer source/uncertainty limits; actual threat, refusal, pain and failed components are not erased by gag classification.
+
+## Domain capacity, deployment and task fit
+
+| ID / actor | Demonstrated component | Source, result and limit |
+|---|---|---|
+| CC-V15-01 Aqua | Purifies liquid by contact; seasoning transformation is sufficiently reliable to ground a household test. | PrP0008–0019. Wrong practical result and denial, not failed purification; contact is described as recurrent accident. |
+| CC-V15-02 Aqua | Responds to a named medical request and moves to treat; attempts supplementary service. | C1P0308–0346. Followers block access and patient rejects; no Aqua healing cast/result shown in this encounter. Capacity, readiness, access and comparative goal-clarity are separate. |
+| CC-V15-03 Megumin / Darkness | Reward/card inference and independent social-network investigation detect anomalies. | C1P0174–0180; C3P0067–0068 later supports the employment/card explanation. Early evidence remains a hypothesis at its boundary; no retrospective prior knowledge. |
+| CC-V15-04 Kazuma | Small controlled reflected-injury test, notices limits of unverified alternatives and specifies support/recovery before action. | C1P0240–0253/P0395–0401/P0478–0486. Direct reflection established; massive death-curse scope still threat; chosen kick deliberately accepts harm and institutional cost. |
+| CC-V15-05 Darkness | Uses actual institutional authority/trusted discretion to obtain release and physically unlocks chains. | C2P0064–0085. No complaint P73; influence conflicts with prior impartial expectation but no arbitrary illegality inferred. Later guarantee refusal P373 shows a limit. |
+| CC-V15-06 Kazuma | Remote precision, nonlethal arrow preparation, wind/distance checks and indirect-damage inference. | C2P0177–0214. Cup hit succeeds, unknown hot coffee burns him; learned causal restriction is local, not an executed explosive-potion follow-up. |
+| CC-V15-07 Yunyun | Actual invisibility casting after a concrete trusted request; acknowledges Silent as the next task. | C2P0217–0236. Silent's separate execution not staged; concern about crime and lonely secrecy response remain. No technical failure inferred from anxiety. |
+| CC-V15-08 Kazuma | Purchases mana resources and repeatedly combines water/freeze overnight to block a door. | C2P0242–0260. A secure shelter becomes a toilet trap; effort/material cost explicit, not effortless universal freezing. |
+| CC-V15-09 Kazuma | Prayer-posture/cloth geometry and special wire bypass direct harm while holding an officer. | C2P0315–0356. Binding and exposure actual; self-release inability is qualified observation/inference P348; technical success does not make coercion consensual. |
+| CC-V15-10 Kazuma | Compares follower states to hypothesize debt/gratitude and reverse transitions; notices trust exceptions. | C2P0384–0416/P0602–0638. Correct direction of investigation does not prevent his own thanks P748 and actual capture P757–767. No consolidated immunity presumed. |
+| CC-V15-11 Aqua | Actual chase buffs keep the pair ahead; sustained running contrasts with pursuer fatigue. | C2P0515/P0544/P0547–0548. Her evil identification P535 is a retort, not certified diagnostic magic; wall cooperation remains an unexecuted proposal. |
+| CC-V15-12 Aqua / Wiz | Purification supplies water to fading Wiz and ruins otherwise relevant potion stock. | C2P0675–0685. Knowledge/task alignment fails; purification executes, holy residue stings. No preexisting known stock-preservation task invented. |
+| CC-V15-13 Serena | Effective staged miracle/story, useful mundane counseling, gratitude/debt control and targeted intelligence. | C1P0034–0043; C2P0141/P0745–0815. Rule explanations interested reports until supported; moral-restraint order creates a costly altered servant, not guaranteed passive obedience. |
+| CC-V15-14 Kazuma / Serena | Substantial surviving inference, command resistance and resource accounting under genuine changed allegiance. | C2P0842–0958; C3P0006–0286. No deliberate secret counterplan shown. Diary/embedded fiction and direct acts separated; official 'puppet points' system not established. |
+| CC-V15-15 Aqua / Darkness / Megumin / Serena | Interposition, capture, practical diagnosis, bottle rescue, revised holding and actual cure administration cooperate. | C3P0343–0351/P0387/P0416–0443. Initial approach fails; one hand insufficient; former enemy command also helps. No flawless/solo cure claim. |
+| CC-V15-16 Kazuma / party | Chooses mutually reflected level reset, later actually revived, applies it and hands captive/intelligence to police. | C3P0505–0548; C4P0017/P0156–0165. Death interrupts first attempt; actual later result distinct from projected cancelled attack, promised countermeasures and unpaid bounty. |
+| CC-V15-17 Aqua | Supplies bounded hair-healing distinction and identifies a possible depleted-castle timing opportunity. | C4P0408–0412. Strategic guard state unknown, advice misreads the hair question as present baldness; no new executed barrier feat or successful assassination. |
+| CC-V15-18 Kazuma | Responds to stone pressure with wind, then changes from ineffective water deterrence to earth on a wet target. | C4P0425–0444. Actual adaptive effect is mud/tears, not shared fun; Darkness performs laundry. Domain use and chosen harmful goal separated. |
+| CC-V15-19 Megumin / Kazuma | Explosion destroys the discarded summons area; Kazuma catches and supplies mana after the cast. | C4P0473–0520. Known other-recipient need P476 precedes later destruction; no prearranged joint plan; status and friend-support motives both remain. |
+| CC-V15-20 Wiz / Vanir | Recognize high magic and relevant restrictions in weather merchandise, with very different practical assessment. | FP0081–0114. Seasonal use meets nearly rainless local season by Vanir report; no weather test/purchase shown. Interest in pillow details is not a completed transaction. |
+| CC-V15-21 Aqua | No new power execution in the requested purification of Wiz; she stops/retreats under trust, love, conscience and observing eyes. | FP0119–0168. Chosen nonexecution differs from inability or blocked access. No cleansing result or substitute lich handoff. |
+| CC-V15-22 Kazuma | Maintains contact with actual food delivery, revises practical attention after quiet wish, and initiates pursuit intention after letter. | FP0172–0208/P0311–0373; EpP0047–0065. Hunger forecast fails by nightfall; later sleep explicit P369–370; indirect operations and search not completed. |

@@ -5,7 +5,7 @@ scope: V01-V17
 ledger_role: model_prediction_validation
 generation: MODEL_GEN_0.4
 status: active_provisional
-source_boundary: All prior model and forecast blocks, original blank fields and local histories preserved; Gen03 formally closed; unchanged Gen04 derived only through V12 with 25 V13-V15 forecasts; all 25 V13 and all 25 V14 local outcomes appended separately; V13-V15 tranche open; V15 requires complete V14 publication checks and fresh source admission
+source_boundary: All prior model and forecast blocks, original blank fields and local histories preserved; Gen03 formally closed; unchanged Gen04 derived only through V12 with 25 V13-V15 forecasts; all 25 separate local outcomes for each of V13, V14 and V15 appended; formal V13-V15 tranche open; V15 publication gate and separate checkpoint/Gen05 freeze required before V16
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2851,3 +2851,463 @@ These are new local append records. Gen04’s original model (23,814 bytes; SHA2
 **Missingness, contrary evidence and failure diagnosis:** Preserve V11’s clean wish–duty history; do not infer hidden wish, role conflict or self-limitation from absence or from Kazuma’s reputation.
 
 **Transition:** PRESERVE frozen bytes/history; append local test evidence; OPEN where incomplete. Original forecast fields remain unchanged.
+
+# V15 Update — all25 unchanged Gen04 local branches
+
+Source: MAIN-15 admitted principal only, native EPUB SHA256 `ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005`. Root accepts this additive V15-local evidence through the V15 receiving review. Retained producer/candidate pending phrases describe their authorship boundary; publication and tranche adjudication remain separate. All prior ledger bytes, Gen04 originals and adverse histories stay exact. The V15 deep reading section13 routes every major claim family to H1–H4, shown/dialogue/report/inference access, qualitative confidence and governed claim transition. Apply those weights together with each row’s finer source/uncertainty limits; actual threat, refusal, pain and failed components are not erased by gag classification.
+
+## Complete local branch records
+
+Every Gen04 statement remains the exact prospective commitment frozen after V12. Its original25 Outcome and25 Adjudication fields remain blank; the following are new V15-local records in a postexchange receiving proposal. V13-local K03, V14-local A02 and historical Gen03-K04 falsifications remain unchanged. A single local contrary direction is distinguished from repeated-pattern or whole-tranche retirement. The initial producer memo and every postexchange field delta remain preserved. Root must still accept or revise these proposals through an attributable receiving successor; no consensus or volume acceptance is implied.
+
+The record below retains every branch, primary chronology, strongest contrary or adjacent candidate, missing conjunct and failure diagnosis. It includes the generous pragmatic-request reading for K02, completed-revenge reconciliation for K03, assignment/challenge/inhibition alternatives for A02, state-specific agency for K04, prior recovery planning for M03, and feasible return/recruiter benefit for E02. No added personal-cost floor, physical-harm-only condition, goal-completion exemption, universal external-assigner condition or named-spell-debate prerequisite governs the old forecasts.
+
+| ID | Initial producer | V8 proposal |
+|---|---|---|
+| MG04-K01 | PARTIAL | CONFIRMED |
+| MG04-K02 | NOT_TESTED | PARTIAL |
+| MG04-K03 | CONFIRMED | FALSIFIED |
+| MG04-K04 | PARTIAL | PARTIAL |
+| MG04-A01 | PARTIAL | PARTIAL |
+| MG04-A02 | PARTIAL | AMBIGUOUS |
+| MG04-A03 | NOT_TESTED | NOT_TESTED |
+| MG04-A04 | NOT_TESTED | NOT_TESTED |
+| MG04-M01 | NOT_TESTED | NOT_TESTED |
+| MG04-M02 | NOT_TESTED | NOT_TESTED |
+| MG04-M03 | NOT_TESTED | NOT_TESTED |
+| MG04-M04 | NOT_TESTED | NOT_TESTED |
+| MG04-M05 | NOT_TESTED | NOT_TESTED |
+| MG04-M06 | NOT_TESTED | NOT_TESTED |
+| MG04-D01 | CONFIRMED | CONFIRMED |
+| MG04-D02 | PARTIAL | PARTIAL |
+| MG04-D03 | NOT_TESTED | NOT_TESTED |
+| MG04-E01 | PARTIAL | PARTIAL |
+| MG04-E02 | NOT_TESTED | NOT_TESTED |
+| MG04-J01 | PARTIAL | PARTIAL |
+| MG04-J02 | PARTIAL | PARTIAL |
+| MG04-Y01 | CONFIRMED | CONFIRMED |
+| MG04-CE01 | NOT_TESTED | NOT_TESTED |
+| MG04-I01 | NOT_TESTED | NOT_TESTED |
+| MG04-I02 | NOT_TESTED | NOT_TESTED |
+
+### MG04-K01 — CONFIRMED
+
+- **indirect_search:** Supported by the benefit/control-rule investigation and asymmetric level-reset solution.
+- **exact_capability_based_revision:** Supported at a bounded level: actual indirect-coffee harm at C2P0203–0206 invalidates the indirect-injury assumption, he explicitly generalizes reflection at210–211 and declines the contemplated explosive-potion method212. The observed change is withdrawal/restriction of that method, not proof every subsequent anecdote was invented after this test.
+- **fitted_delegation:** Supported for explicit buff/heal/police/crowd assignments; distinguish assigned actions from the later reported treatment and arrest.
+- **recovery_and_ethics:** Recovery preparation is present in C1, but Kazuma’s later death, lost levels, incomplete target inhibition and coercive exposure remain actual costs and failures of broader sufficiency.
+
+**C1P0395–0401,0412–0452,0478–0505; C2P0037–0038:** Before action, Kazuma rejects an unverified curse-removal gamble and doubts ordinary Bind against a dark priest. Serena then supplies a bounded solo-interference exception. He requests support and assigns healing, police transport and crowd management before attacking. His anticipated reflected injury occurs; the next chapter reports recovery/treatment and arrest. This is fitted preparation, not a safe or ethically adequate plan merely because he is revived/healed.
+
+**C2P0203–0212,0315–0356,0602–0638:** The cup attack causes actual shared burns C2P0203–0205 and Kazuma calls it another failure206. He explicitly learns indirect injury also reflects210–211 and states that otherwise he would have bought explosive potions212, then relocates214. This supplies a real new constraint and withdrawal of that route, without claiming an earlier executed bombing or a firm purchase intention. The later loan maneuver fails to retrieve Vanir’s contract, while money taken from a follower and renewed favor supply observed rule transitions. C2P0630–0638 remains his inference.
+
+**C3P0484–0520,0530–0548; C4P0017–0021,0156–0161:** He rejects direct and indirect killing, faces the inadequacy of simply releasing Serena, and uses a carried level-reset potion against the unequal costs of the same reset. He anticipates his own loss before acting, warns Darkness against lethal assault, but fails to inhibit Serena’s restored Death capability in time. Actual resetting and intelligence handoff are later established; his solo claim does not erase others’ capture, cure, revival and restraint.
+
+**Contrary/adjacent evidence:** The many correct plans are not evidence that every first plan adapts successfully. C2P0608 is a failed contract maneuver; C3P0543–0548 exposes a newly restored enemy capability before Kazuma and Darkness can stop it. C4P0017 reports outside recovery. These remain adverse to a general complete-planner claim even while supporting indirect construction.
+
+**Missing conjunctions and scope:** The relevant capability-based revision is the actual restriction of the indirect-injury route after invalidating feedback, including rejection of an explosive extension. No firm earlier purchase plan or exact date for every prank is invented. Search and fitted delegation are independently observed; performed buffs differ from inferred unconscious treatment and unshown assigned handoffs.
+
+**Diagnosis:** CONFIRMED for bounded local search/revision/delegation, revising the initial PARTIAL after root and semantic attention to the explicit C2P0210–0212 limitation. Recovery/ethical failure and Serena’s restored-power attack remain; this is not a complete-planner claim.
+
+
+### MG04-K02 — PARTIAL
+
+- **trusted_concrete_request_before_help:** Explicit King requests exist, and Aqua’s C1P0468 question can pragmatically request particular reassurance. No grammatical imperative or request naming combat is required. Whether that question entrusts a concrete preventable-harm responsibility rather than asks for an appraisal remains the strongest local eligibility uncertainty.
+- **actual_substantive_help:** Strong adjacent evidence exists, including costly intervention and care; it does not manufacture its initiating request.
+
+**C1P0374–0392,0427–0479,0486–0505:** Familiarity, Aqua’s visible exclusion, Megumin’s trust, Darkness’s permission and Aqua’s question about being needed precede Kazuma’s costly intervention. Aqua asks whether she is an unnecessary goddess. This can pragmatically request concrete reassurance/support; no named protective act or grammatical imperative is required. Kazuma’s meaningful buff assignment and intervention support the generous request/emotional-harm reading, while the exact entrusted responsibility and refusal consequence remain uncertain.
+
+**FP0175–0180,0183–0201,0311–0324:** He independently brings food after learning Aqua has withdrawn and later considers limited ways to help her return. Her small wish to go home is explicitly not directed at him or a demand at313–314. There is a feasible meal/limited planning contribution, but no source-established concrete request before either choice.
+
+**EpP0047–0065; FP0324:** Her letter states a dangerous goal; Kazuma stands, then jumps from bed intending immediate pursuit before the erased request is discovered at62. The earlier explicit risk of bodily annihilation makes danger real. The erased “please find me” is a concrete trusted-person request, but is learned after the stated help decision. The source closes without showing a subsequent search execution.
+
+**Contrary/adjacent evidence:** C1P0468 is a trusted direct self-worth question after visible exclusion, so it must be assessed as a possible concrete request for reassurance/support, not rejected solely because it does not say “fight Serena.” Kazuma immediately entrusts meaningful support to her and accepts reflected injury; on a pragmatic request/emotional-harm reading this supports the forecast. The exact entrusted harm-prevention task and refusal consequence remain partly inferred. Explicit King/leveling requests C4P0152/0168/0185/0206–0220 and FP0031 are also real: his refusals/comfort preference remain contrary if the particular-person preventable-harm conjunction is judged complete. Feasible contacts/indirect help cannot be denied merely because he cannot win a solo duel.
+
+**Missing conjunctions and scope:** The forecast has no physical-harm-only rule, costly-help minimum, grammatical-imperative requirement or demand that the request specify the tactic used. Strongest generous reading: C1P0468 requests reassurance about valued standing, refusal leaves ongoing emotional injury, and Kazuma’s fitted support request plus intervention supplies substantive help. Strongest limiting reading: the source establishes a concrete appraisal question but no unambiguous entrusted protective responsibility/refusal consequence. Later explicit King requests establish a request and systemic danger, but particular-person harm under refusing this contribution is still uncertain. FP0313–0314 explicitly undirected wish and EpP0062 after-decision timing remain exact limits.
+
+**Diagnosis:** PARTIAL proposal, changing the initial NOT_TESTED because that text understated the genuine pragmatic request/emotional-harm candidate and the explicit King requests. No clean abandonment failure is asserted, and no forced full confirmation follows. Root should adjudicate this literal eligibility dispute with both readings visible.
+
+
+### MG04-K03 — FALSIFIED
+
+- **ordered_payback_expansion:** One bounded diary sequence supplies a newly learned grievance, visibly active payback accounting and an actual next act accepting known reflected pain.
+- **success_and_retirement_limits:** Other successes do not automatically qualify; strongest unchanged-scope candidates are retained with their exact salience limits.
+- **historical_adverse:** V13 MG04-K03 FALSIFIED remains unchanged; this local positive does not cancel it.
+- **local_contrary_direction:** C2P0705–0733 supplies concrete apparent success, explicit privately active revenge satisfaction and actual scope contraction/reconciliation. Retain as a single local contrary direction, not whole-tranche retirement.
+
+**C1P0412,0497–0505 → C2P0700–0733:** Prior selected scope is personally obstructing Serena/countering her treatment of Aqua, with a declared tomorrow interference campaign. AtC2P0705 Serena acknowledges underestimating him and announces abandoning the town. Kazuma explicitly says settling peacefully suits him714 and privately acknowledges revenge for Aqua is in a sense complete715, before asking for reconciliation724, accepting promised withdrawal725–727 and canceling mutual debts733. Reward salience is independent and before the contraction; unchanged scope cannot be converted into missing reward. Goal completion is not an added exemption. Wiz is already scorched700 and the fight continues707, so the original known-person-harm/severe-danger modifier is a genuine competing account fixed before the decision. His expressed private appraisal nevertheless stresses completed revenge and relief, not an explicitly adopted new rescue objective.
+
+**C1P0033/0047–0051 → P0073–0077 → P0080–0091:** An initially wary/polite baseline changes after Serena credits him with the army’s losses: visible pride75 and the private “I have become that important”76 precede gloating77. This is bounded verbal/taunting expansion. The new alarming recruitment explanation begins80 and cannot be moved before77 to exempt the response. Existing risk and later caution still limit generality.
+
+**C3P0034–0049:** Before the new robot revelation, Serena’s punch already establishes the same-site injury reflection at35–37. Kazuma then learns her responsibility for the robot rampage at44–45, explicitly construes it as harm caused to him and a large debt at46–47, and chooses a compensatory punch at48. Both crouch in pain at49. The next accepted personal exposure expands from the prior compensation regime to a retaliatory blow despite known feedback. The manageable grievance opportunity and payback appraisal are explicit before that choice; no post-act emotion is used to invent them.
+
+**C2P0264–0288,0297–0356:** He continues preparing harassment after seeing Serena weaken, then meets a new explicit lethal threat and numerical disadvantage at285–309. The improvised exposure tactic and public call are real escalation. However, the original obstruction campaign already includes escalation and the new grave threat is independently present; this is not an unqualified clean reward-only test.
+
+**C3P0532–0548; C4P0158–0165,0271–0277:** At532 he already plans a comfortable slow rebuild. Serena’s “most dangerous” recognition at535 is followed by his overestimate/retirement reply537; Death becomes explicit only later543, so it cannot retrospectively excuse the earlier unchanged scope. However, concrete personal enjoyment of that recognition is not independently established before537. Likewise he rejects extrapolating successive wins into a King campaign atC4P277 while Megumin and Darkness are excited. Their reward salience is not automatically his.
+
+**Contrary/adjacent evidence:** The initial producer memo omitted the strongest unchanged-scope case C2P0705–0733; that omission is now explicitly repaired after root’s independently recorded question and a direct primary reread. Kazuma acknowledges completed revenge before choosing settlement, under concrete apparent victory feedback. C2P0700’s already observed harm to Wiz and ongoing conflict remain the strongest original-modifier counterreading; they are neither ignored nor treated as automatic erasure when his stated next-choice reasons are relief and completion. C3P0535–0537 retirement remains another candidate with uncertain active personal reward; later Death cannot retroactively supply its danger cue.
+
+**Missing conjunctions and scope:** The C2 matched candidate has independent reward salience and a clear next contraction. The original modifier is present as competing context; whether it causally accounts for caution is underdetermined. This FALSIFIED proposal records the adverse local direction without claiming a repeated unmodified pattern or retiring the whole tendency. Positive C1 gloating and C3 robot-payback choices remain separate and cannot cancel it; V13 local F remains unchanged. The original known-person-harm/danger modifier does not require an expressly adopted new rescue goal; lack of such a declaration does not erase the already observed modifier.
+
+**Diagnosis:** FALSIFIED, scoped to a single local contrary direction. Changed from initial CONFIRMED because a previously omitted source-established reward → reconciliation sequence is load-bearing. No net-vote treatment, goal-completion exemption or adverse-history deletion; root may retain modifier uncertainty in final adjudication rather than force a whole-tranche rejection.
+
+
+### MG04-K04 — PARTIAL
+
+- **quiet_A:** NOT_TESTED: no single new case combines an offered attractive substitute, already acknowledged particular commitment, explicit low/reduced immediate appetite, and the actual choice.
+- **aroused_B:** PARTIAL/agency-qualified candidate, not a clean complete-conjunction confirmation. The prior compensation/legality account and explicit excitement are real, but knowledge of an effective feasible stop under actual moral-restraint removal remains uncertain. The original forecast does not require a normal state; the unresolved ingredient is known effective stop/agency at the scored choice.
+- **noticed_tears:** Continuations and exploitation of tears remain adverse to any broader automatic brake; original Gen03-K04 FALSIFIED stays exact.
+
+**C3P0010–0023,0034–0040; C2P0813–0815,0892–0897:** The diary order supplies a pre-existing service/compensation role. Kazuma himself elects an erotic appendix: at11–15 he establishes a payment and labels prospective harassment “legal”; excitement is explicit at16, before Serena’s refusal21. His next response22 demands a large price for stopping, and he savors her nearly crying face23. The obscene appendix is his own optional addition rather than a compelled literal diary requirement, supplying a feasible stop. Previous payment rules also give him a known possible control-release route, which he deliberately avoids. The helper/debt account is already available before this continuation; it is not inferred solely from an excuse afterward.
+
+**C2P0846,0914–0929,0937–0955:** His earlier unsolicited breast-support offer is rejected at846; he later initiates and continues groping before her hand removes his at921. He supplies the debt-preservation account at928 and cites the earlier discarded-morals order at946 after a new shared-room objection945. The enacted soft-breast gratification is explicit919; however, the most direct price/exculpation wording at928 follows the shown groping continuation. These are strong boundary violations without pretending every B chronology is fully established.
+
+**C3P0061–0065,0263–0286,0464–0466; EpP0004–0018:** He exploits remembered companions as leverage until Serena actually cries64, resists a task she wants even with pain263, and she later runs with flowing tears286. In Ep he is already awake, initiates a hug, performs sleep before Darkness’s protest, and falsely blames her afterward. The sleep frame is prior to the protest, but immediate arousal/intimate reward is not separately explicit enough to infer the whole B conjunction merely from hugging. Later cessation of her resistance does not retroactively consent to the initial act. His post-cure demand for more hugging464 ends when Megumin peels him away466; it does not prove autonomous restraint.
+
+**Contrary/adjacent evidence:** C1P0122–0124 contains a tempting offer and refusal but visible fidgeting, not explicit reduced appetite. C4P0046–0050 is Kazuma’s own flirtation with Eris, her correction and an explicit denial of his jealousy theory; it is not an attractive substitute offered to him. FP0355–0357 immediate rejection of Aqua’s sexual warning neither supplies an offered substitute nor the full commitment/low-arousal conjunction.
+
+**Missing conjunctions and scope:** No universal altered-state exclusion is added: actual chosen tariff-writing, selective refusal and painful resistance show surviving initiative. However, optional literary content alone does not prove he knows an efficacious stop for the relevant disinhibited urge. Control-release payment efficacy is explicitly disputed atC2P0892–0898; the cure is discarded, and C3P0404 states lack of self-control. The strongest B candidates therefore preserve known/unknown agency rather than treating ordinary free choice as established. No clean A, no clean autonomous contrary B, and no restored Gen03 tear brake.
+
+**Diagnosis:** PARTIAL, with initial B support reduced to a literal/agency-qualified candidate after independent source-only reviews. Existing harassment and actual-tear continuations remain acts regardless of the narrower test. C3P0064→0066,0105→0106–0107 and0161/0177–0181 strengthen the broad adverse record; C4P0441 shows satisfaction at having made Aqua cry, not a newly shown continuation after a separate noticed-tear cue.
+
+
+### MG04-A01 — PARTIAL
+
+- **capacity:** Supported in bounded engaged purification, support and resurrection tasks.
+- **readiness:** Variable and separately observed; access blocked, sleep/distraction, unknown item function and self-selected withdrawal are not domain incapacity.
+- **comparative_goal_clarity:** NOT_TESTED as a clean matched causal comparison with domain/access/resources and relevant knowledge held sufficiently comparable.
+
+**C1P0310–0315,0478–0479; C2P0515,0547,0675–0677:** Aqua approaches an injured patient but is blocked before casting; no failed Aqua healing is shown. Support magic is actually supplied before Kazuma’s dropkick and later in the chase, with Serena recognizing its quality547. She actually converts potions to water676, carrying enough divine force to sting Wiz677; the destructive system effect is not a purification failure.
+
+**C3P0390–0443; C4P0017,0053,0129–0140:** The special antidote is an external supplied item, not proof of Aqua’s intrinsic anti-puppet spell mastery. Her catching and pouring it after changed restraint is real restoration work. Eris reports actual resurrection work atC4P0017; revival is shown atP0124. C2P0038’s earlier unconscious healing remains Kazuma’s inference. No root or reviewer observation route for Eris is invented.
+
+**C4P0209–0223; FP0035–0053:** Aqua proposes bounded barrier work and distinguishes remaining maintainer counts from her own capacity, with Kazuma correcting headcount. These are plans/capacity claims, not actual barrier removal in this volume. No invented spell execution is counted.
+
+**Contrary/adjacent evidence:** Purification removes nearly all available cure stock and burns/stings the friendly lich. C3’s bottle transfer includes a catch/face-orientation difficulty, not unerring handling. Her embarrassment/withdrawal FP175–208 and low-confidence admission183 remain readiness/goal evidence. None can be erased by successful resurrection.
+
+**Missing conjunctions and scope:** The comparative clarity branch lacks a matched clear versus unclear arrangement with sufficient independent controls. Earlier not knowing the potion function and later learning it changes relevant knowledge as well as alignment. Capacity, required-time readiness and comparative clarity remain three different results.
+
+**Diagnosis:** PARTIAL for the compound: engaged established-domain ability is supported; practical system anticipation and guaranteed activation are not. No undefined curse or failed uncast spell is invented.
+
+
+### MG04-A02 — AMBIGUOUS
+
+- **prestige_response:** Direct challenge → rival-directed escalation is observed.
+- **ongoing_assignment_displacement:** C2 escape has paused while a self-selected water service is completed; neither a completed water act nor an unassigned stock-preservation rule automatically supplies the required ongoing task. The wider escape reading remains possible, not established merely from the fight.
+- **historical_adverse:** V14 A02 FALSIFIED for its scoped single local direction remains unchanged; no favorable V15 act cancels it.
+- **local_contrary_candidate:** FP0119–0129: self-adopted purify-Wiz/return goal, direct rival provocation, actual ignoring of Vanir and continued original purpose. Whether the violent-goddess provocation is the exact divinity/superiority/public-recognition trigger and whether bodily interposition/cost warning inhibit the distinct contest remain explicit disputed predicates.
+
+**FP0119–0129,0136–0168:** Before challenge Aqua explicitly adopts purifying Wiz as divine work at119–121. Her prior return-home objective and the last-officer/barrier reasoning are already established in C4P0176–0188 and FP0041–0060; the first express connection of killing this friend to her return, and her stated friend-killing pain, occurs at129 after the initial ignore128. Vanir interposes125, calls her a violent goddess, warns about repair cost126 and actively provokes127. Aqua expressly ignores him128 and continues addressing Wiz to accomplish the original task129. This is a real contrary direction under the self-adopted-assignment/direct-superiority-provocation reading. Interposition blocks access to Wiz, not obviously a prestige fight with Vanir standing in front of her; it must not be assumed to prevent all retaliation. She acknowledges friend-killing pain129, but that acknowledgment follows the initial ignore128 and cannot automatically be backdated. Later consent/trust/gaze/conscience and retreat are a distinct decision, not the earlier status outcome.
+
+**C2P0515–0553,0564–0584,0675–0712:** Before the contest Aqua is fleeing alongside Kazuma, contributes support, and participates in attempted escape. The shopping pause does not itself prove the dangerous situation has safely ended. She then completes an independently visible hydration service for Wiz at676, before Vanir’s toilet-goddess insult689. Her response690 escalates mockery of his competence; the beam694/Reflect695 exchange continues into a sustained fight707/710–712; Wiz is seen scorched700 during that fight, while the exact causal route is Kazuma’s hedged attribution. Thus the wider practical escape/protection objective is displaced and real friendly costs follow; the already completed hydration act alone cannot be named an ongoing displaced assignment.
+
+**FP0064–0081:** Mask-pulling is already underway before Kazuma tells her to stop so they can talk at71; she obeys72 and asks about Wiz73. Vanir disparages the gods74; she retorts76, partly self-deprecating, and Vanir proposes a fight77. Wiz’s arrival81 interrupts. The visible response is not a completed renewed Aqua attack; do not give Vanir’s challenge her agency.
+
+**FP0119–0168,0183–0197:** Her attempted Wiz-purification plan has return-home stakes. Wiz’s trust/affection, Vanir’s contract concern and everyone’s gaze produce Aqua’s withdrawal. This is not an independently preceding direct prestige challenge and therefore does not by itself confirm or falsify A02.
+
+**C1P0308–0350:** A patient names Aqua and she approaches; others block treatment before casting. After Serena’s treatment leaves residual wounds337, the patient rejects Aqua’s hand341–345 and she returns dejected350. If this is a direct public-recognition challenge to her service role, task-conserving/non-escalatory response is adverse; if a refusal of already externally blocked treatment, full trigger/access remains uncertain. No grave-risk exemption is manufactured from small residual wounds.
+
+**Contrary/adjacent evidence:** Initial PARTIAL overstated the escape-to-fight interpretation while omitting FP0126–0129’s autonomous-looking persistence and C1’s rejected healer. These are now fully retained. A02 does not require an external assigner; self-adopted work is eligible on its actual merits. Conversely no one assigned stock preservation, Aqua says she did not know the proposed sale690, and prior “go home” was rejected before the fight. FP0074–0081 has a real challenge and relative reply, but Vanir’s duel invitation and Wiz’s arrival do not show Aqua completing a new attack or autonomously restoring the task.
+
+**Missing conjunctions and scope:** Assignment/constraint, exact status-challenge subtype and inhibition versus autonomous persistence remain consequential to whether FP0128 is a full adverse test and whether C2 has a positive displacement. These are genuine eligibility disputes, not an exemption because the outcome is contrary or because a self-chosen goal lacks an external director. New source qualifies the causal route of scorched Wiz atC2P0700 as Kazuma’s inference during an actual fight.
+
+**Diagnosis:** AMBIGUOUS local proposal: strongest full-reading countercase explicitly preserved, with exact trigger/inhibition uncertainty. If root accepts FP0126 as a full direct superiority/divinity challenge without preventing inhibition, the local direction should be FALSIFIED with single-case scope; if not, it remains a documented adjacent adverse case rather than a hidden exception. V14 scoped F is immutable either way.
+
+
+### MG04-A03 — NOT_TESTED
+
+- **actual_useful_service:** Multiple useful acts occur, including support, resurrection and the antidote delivery.
+- **recognition_before_two_new_same_service_opportunities:** Not established.
+- **voluntary_ownership:** Shown locally in care/service but not enough to supply the missing temporal series.
+
+**C1P0478–0486; C2P0515,0676–0677; C4P0017:** Buffing, hydration, revival and item delivery are different services at different needs. Wiz thanks Aqua after the water conversion, but at least two separately identified further opportunities for that same useful output with aligned recognition/resources are not shown afterward.
+
+**C3P0333–0340,0410–0443; FP0120–0168:** The gift’s sentimental value and service initiative are real, and Wiz’s extended trust is explicit. A gifted item, one cure sequence, several steps within one service, or friendship praise is not work-specific acknowledgment followed by two further same-service opportunities.
+
+**Contrary/adjacent evidence:** Later embarrassment, withdrawal and eating alone cannot falsify this forecast without the required recognition-before-two-opportunities structure. Equally, multiple spells across the novel cannot be pooled into one invented owned repetition series.
+
+**Missing conjunctions and scope:** The complete temporal conjunction is absent: same service, actual work-specific acknowledgment first, then two distinct renewed opportunities with need/resources/alignment still available. A long offstage interval does not fill it.
+
+**Diagnosis:** NOT_TESTED; persistent care and recognition causality remain different propositions. Ownership, affection and material rewards remain rival sustainers, not uniquely identified causes.
+
+
+### MG04-A04 — NOT_TESTED
+
+- **low_valued_repetitive_maintenance:** Not independently combined with a concrete maximal shortcut.
+- **shortcut_and_secondary_system:** Actual purification has secondary costs, but does not establish the low-valued maintenance antecedent.
+
+**PrP0007–0044; C2P0675–0677:** The pet cascade and stock purification are actual source events. Hydrating Wiz by turning potions into water is a chosen service with an ignored product/holy-power consequence, not source-established repetitive maintenance she finds tedious.
+
+**C4P0441–0444; FP0029–0060:** Darkness does the robe laundry; Aqua bathes. Seeking a one-off purification shortcut to the King’s barrier problem is a campaign solution, not routine maintenance. Neither should be relabeled to fit A04.
+
+**Contrary/adjacent evidence:** Spectacular purification and bad downstream anticipation support nearby mechanisms, but mere power or speed does not meet the frozen antecedent. No count of unshown chores or assumed boredom is supplied.
+
+**Missing conjunctions and scope:** Missing low-valued repeated maintenance plus concretely available attractive high-output shortcut and absence of a salient learned/external constraint before choice.
+
+**Diagnosis:** NOT_TESTED; retain the actual damaging simplification without claiming the specific maintenance mechanism has gained validation.
+
+
+### MG04-M01 — NOT_TESTED
+
+- **specialty_identity:** Strong adjacent general-specialist/status defense, but no clean explicit denigration/replacement/imitation of Explosion by a rival before her response.
+- **ordinary_companion_cost_priority:** Known ordinary communication cost is directly established atC4P0476 before the later actual destruction498–501. That cost branch is real for the second choice; the literal specialty trigger remains disputed. The first paper-plane disposal475 occurred before the stated shared-recipient need.
+
+**C4P0467–0478,0492–0520:** The recall letter ranks Yunyun first-team and Megumin reserve; Yunyun explains the lack of advanced magic474. Megumin turns the letter into a plane475 before Yunyun states the need to show others476. She later fires toward its resting area498–501 despite already knowing that circulation requirement, boasts her first-team worth506, offers Yunyun excuses509, and flinches at Kazuma’s reserve-motive accusation517–520.
+
+**Contrary/adjacent evidence:** C4’s roster explicitly lists reserve; Yunyun, not the document, hedgedly infers lack of advanced magic as the reason. This clearly threatens standing. The literal question is whether this explicitly denigrates/replaces/imitates Explosion in a way Megumin treats as her specialist-identity challenge. No universal requirement for a named rival spell, formal equivalence debate or explicit legitimacy argument is added. Her response and known document-sharing cost cannot alone invent the missing antecedent; they remain real identity/care evidence.
+
+**Missing conjunctions and scope:** The uncertain/missing item is the literal denigration/replacement/imitation of Explosion, not an added demand for a named rival spell. First disposal475 precedes the explicit shared-document need476; actual destruction498–501 follows known cost and Yunyun’s civic dilemma492. Her broad specialist pride and mixed help do not erase either timing.
+
+**Diagnosis:** NOT_TESTED proposal for the exact original trigger; source-supported general identity defense remains adjacent. A generous reading that reserve selection replaces her chosen spell with advanced-magic users must remain available for root receiving, while general role-fit criticism cannot automatically become explicit Explosion denigration.
+
+
+### MG04-M02 — NOT_TESTED
+
+- **self_accepted_material_build_burden:** Not shown.
+- **reconsideration:** No serious plan to change/abandon exclusivity is shown.
+
+**C4P0473–0478,0504–0520; C2P0264:** Reserve ranking and lack of advanced magic are external comparisons. Megumin answers with display and status defense, not an expressed internal conclusion that the exclusive build materially prevents contribution to valued companions. Daily upward casts/arrests are reports, not her contribution-guilt acknowledgment.
+
+**Contrary/adjacent evidence:** The lack of compromise after outside criticism is not disconfirmation until the internally accepted substantial build-burden trigger exists. Romantic care, other practical skills and a general “poor magician” appraisal would not supply it either.
+
+**Missing conjunctions and scope:** Missing her own substantial self-attributed contribution failure and consequent build/role deliberation; no inference from an opponent’s ranking.
+
+**Diagnosis:** NOT_TESTED; do not convert reluctance to compromise under a different trigger into a failed guilt inversion.
+
+
+### MG04-M03 — NOT_TESTED
+
+- **raw_execution:** Actual forest Explosion destroys the letter’s area.
+- **complete_prepared_artillery_conjunction:** Not established before casting.
+
+**C4P0494–0506; C2P0264:** The forest spell is technically effective and a stationary letter is an actual object target; no separate universal tactical-mission requirement is added. The prior friendly geometry, resource allocation and post-cast exit/carry plan are not independently fixed. Kazuma supports her and supplies mana only after she starts collapsing505; actual assistance does not prove a prior recovery plan. The daily upward-cast/arrest report likewise lacks the full prepared conjunction.
+
+**Contrary/adjacent evidence:** Success is not evidence that all safety/resource/exit conditions had already been planned. The paper target may be stationary, but immobility alone cannot fill the other conjuncts.
+
+**Missing conjunctions and scope:** Missing independently established prior safe-friendly geometry, adequate planned resources and exit/carry plan. These literal missing conjuncts suffice; no universal additional tactical-mission prerequisite is imposed, and a stationary target alone cannot fill them.
+
+**Diagnosis:** NOT_TESTED; preserve strong destruction/control evidence at its narrower scope.
+
+
+### MG04-M04 — NOT_TESTED
+
+- **valued_person_required_as_target:** No new Megumin firing task meets this condition.
+- **pre_action_friction_and_aftermath:** No matched firing-choice sequence; therefore neither branch is confirmed.
+
+**C3P0398–0443; C4P0017; FP0129–0168:** Megumin holds/cures Kazuma and later binds Serena/cares for Darkness in Eris’s report. These are contributions without a decisive-harm task against a person independently valued by Megumin. The Wiz purification conflict belongs to Aqua, not Megumin; it cannot be reassigned to validate M04.
+
+**Contrary/adjacent evidence:** Affection and hesitation in other speakers are not a transfer test. Destroying a recall letter or an empty forest area does not make a valued person the target.
+
+**Missing conjunctions and scope:** Missing source-established significant relationship to the required opponent/obstacle target and actual decisive-harm requirement, before pre-action/post-action branches can be scored.
+
+**Diagnosis:** NOT_TESTED; no future/restricted narrative is used to complete the trigger.
+
+
+### MG04-M05 — NOT_TESTED
+
+- **known_grave_companion_harm:** No actual tactical Explosion choice explicitly combines this risk, her knowledge and feasible alternatives.
+- **relational_friction:** Observed care elsewhere is adjacent, not a full test.
+
+**C4P0494–0505; C3P0412–0443; FP0322:** The forest cast follows Kazuma’s attempted interruption and destroys the letter’s vicinity, but the source does not establish known grave bodily risk to a companion there. That is not the same as declaring it harmless. Her cure assistance is real care. Kazuma’s later proposed daily bombardment campaign is unexecuted and does not establish Megumin’s actual choice.
+
+**Contrary/adjacent evidence:** Unknown geometry/severity remains unknown; no gag-based harmlessness assumption. Kazuma’s Death is Serena’s attack, not Megumin’s friendly-fire decision. A source-reported robot victory does not retroactively supply prior grave-risk knowledge or alternatives.
+
+**Missing conjunctions and scope:** Missing source-explicit grave direct companion injury risk, Megumin’s prior knowledge, best tactical option and alternatives before the response.
+
+**Diagnosis:** NOT_TESTED; retain actual uncertain collateral/communication harm without upgrading it to the precise grave bodily-harm prediction.
+
+
+### MG04-M06 — NOT_TESTED
+
+- **rewarding_repetition:** Reported repeated leisure casts exist.
+- **weakening_instrumental_mission:** No complete sustained instrumental operation losing its goal as repeated firing rewards grow.
+
+**C2P0264; C4P0271,0498–0506; FP0322:** Upward daily casts are leisure under house restrictions; the one forest display is one response to rank. Her “incomplete satisfaction” about earlier victories is a present claim, not a new repeatedly rewarded operation with a weakening original mission. The proposed daily King harassment is still only Kazuma’s future plan.
+
+**Contrary/adjacent evidence:** Enjoyment of casting, destructive output and a desire for another occasion cannot alone establish the sustained instrumental drift conjunction.
+
+**Missing conjunctions and scope:** Missing a repeated safe effective tactical operation, visible growth/equivalent reward and independently weakening original objective before an additional cast choice.
+
+**Diagnosis:** NOT_TESTED; protect the distinction between specialty enjoyment and mission displacement.
+
+
+### MG04-D01 — CONFIRMED
+
+- **protective_interposition:** Directly supported before a threatened lethal spell.
+- **bodily_institutional_cost:** Real costs include reflected pain, later loss of consciousness and legal/guarantor work.
+- **finite_and_mixed:** Protective contribution does not erase injudicious choking, later pleasure-seeking assault or failed inhibition.
+
+**C3P0341–0351,0355–0363:** Serena declares the negotiation over, targets Aqua and invokes Death. Darkness immediately steps in front of Aqua before the spell. Its failure is not proof Darkness could resist Death; the defensive act precedes that outcome. She then uses her body to immobilize Serena but learns that choking her also harms herself.
+
+**C3P0498–0528,0543–0548; C4P0017:** She explicitly treats residents as her responsibility and offers lethal institutional protection; Kazuma redirects because the mass curse is dangerous. Her first reflected punch518 is a genuine cost, and later deliberate pinching528 adds pleasure-oriented abuse. When Kazuma is killed, Eris reports that her furious punch knocks both herself and Serena unconscious. Finite endurance and outside recovery remain.
+
+**C1P0174,0493–0500; C2P0054–0085,0372–0375:** She gathers civic information, challenges violence before the dropkick, obtains legal release under a specific secrecy/leniency condition and later refuses repeated guarantor work. Responsibility is not obedience to all Kazuma methods or an unlimited institutional resource.
+
+**Contrary/adjacent evidence:** Her later pinching to enjoy reflected pain is not itself protective merely because Serena is a captive enemy. It is retained as a failure of broad automatically duty-aligned restraint. The main clean protective test is her pre-Death interposition, not the later fantasy reward.
+
+**Missing conjunctions and scope:** One observed protective action does not establish strategic sufficiency, safe recovery or universal prioritization. Actual grave threat to Aqua and feasible interposition are independently present before the outcome.
+
+**Diagnosis:** CONFIRMED local defense direction with pleasure/errors/finite cost retained; no global protector label replaces the event sequence.
+
+
+### MG04-D02 — PARTIAL
+
+- **audience_privacy_A:** Source supports unwanted public/private meanings and objection, but a newly changed audience over an otherwise chosen bounded event plus independently prior matching preference is not fully isolated.
+- **equal_standing_B:** NOT_TESTED: no new explicit matching equal-membership threat within the full specified setup.
+- **broader_control_loss:** Mixed transfer evidence retained; not a forecast that loss of control is always aversive.
+
+**C2P0054–0113:** Darkness chooses an institutional rescue; Kazuma imports private name and intimate-history claims into the officer’s presence. She corrects/stammers and protests his account, while his later interpretation that she is not angry is not her consent. The established legal/public role and earlier name objection help index dignity, but do not independently establish a prior rejection of this precise sexual audience condition over the otherwise sought bounded event of obtaining release; the original forecast does not require a fantasy.
+
+**EpP0003–0018:** She enters to wake him; he is already awake and initiates a hug under fake sleep. She objects before ceasing resistance, and Megumin’s arrival creates accusation/exposure. His false “you attacked me” blame causes near tears and embarrassment. This initial hug was not an otherwise sought bounded event; later nonresistance cannot supply retrospective choice or prove a pre-existing audience preference.
+
+**C3P0524–0528; C4P0274–0275:** She deliberately enjoys reflected pain, and imagines the King breaking armor. These actual welcomed meanings constrain broad aversion and are not discarded because pleasurable.
+
+**Contrary/adjacent evidence:** Keep D02’s narrower independent-prior-boundary requirement. Direct protest after exposure cannot be its own evidence of the antecedent privacy preference. The three companions’ comments on altered Kazuma do not explicitly threaten Darkness’s equal membership; romantic accusation is not automatically expulsion.
+
+**Missing conjunctions and scope:** Partial source support for meaning-sensitive objection. The otherwise sought bounded event can be institutional release, with no fantasy-only restriction; exact A prior-preference and changed-exposure matching remain limited and B lacks its standing threat. Do not infer chosen consent or general control aversion.
+
+**Diagnosis:** PARTIAL for boundary transfer, not clean confirmation of either full branch. Historical Gen03 mixed agency and later enjoyed coercion remain exact.
+
+
+### MG04-D03 — NOT_TESTED
+
+- **concrete_incompatible_duties:** No genuine family/noble/civic duty versus continued party-membership incompatibility is established.
+- **preservation_attempts:** Institutional labor and temporary role division are real but adjacent.
+
+**C2P0054–0085,0372–0375; C4P0366–0392:** Legal guarantor work and an escort assignment consume effort, but she can perform them while remaining a member. Temporary escort or three-day delay is not loss of membership. The explicit next-chief recall dilemma later concerns Yunyun, not Darkness.
+
+**Contrary/adjacent evidence:** Her choice not to become repeated guarantor after public teasing is a boundary/cost decision, not convenience abandonment of an independently incompatible family-party obligation.
+
+**Missing conjunctions and scope:** Missing two independently established obligations with genuinely incompatible concrete demands on continued membership.
+
+**Diagnosis:** NOT_TESTED; do not turn ordinary coexistence of duties into the frozen conflict.
+
+
+### MG04-E01 — PARTIAL
+
+- **A_deployment_improvement:** Supported most cleanly within the same cure after its method is already known: C3P0394 information → inadequate one-hand restraint414 and warning421 → Steal/throw425–433 → Aqua save434 → actual stillness order439, fuller Megumin hold440 and orientation instruction441 → successful application442–443. This is tighter than contrasting earlier uninformed bargaining with later knowledge.
+- **B_alternative_provider_adequacy:** Bounded support for the restoration subproblem: Aqua, Megumin and Darkness supply actual capture/resource/holding/application without Kazuma directing. This is not adequacy for the entire strategic neutralization campaign.
+- **C_Kazuma_dependence:** He does not direct his own cure; he later repairs the wider neutralization/disposition problem. The required comparable continuing-dependence comparison is incomplete.
+
+**C3P0330–0349,0351–0363,0393–0443:** Initially Serena’s trade is refused and Aqua values the bottle without knowing its function. After capture and explanation, roles become explicit: Megumin restrains Kazuma, Aqua obtains/delivers the bottle and corrects his face before applying it. The first toss requires a sliding save; the hold continues despite Serena’s command. Real cure follows. Relevant knowledge changed as well as alignment, so no isolated organization-only effect is claimed.
+
+**C3P0403–0404,0410–0443,0480–0548; C4P0017,0156–0161:** The alternative restoration arrangement is not led by Kazuma: while controlled he wants to help captive Serena. The three companions and Serena’s reluctant rule information supply the needed roles for this bounded cure. Afterward, mere restraint leaves disposition, mass-curse threat and restored enemy power unresolved; Kazuma selects reset and warns Darkness, yet Serena kills him before inhibition. Eris reports subsequent restraint/care/revival. No one participant supplies universal sufficient coordination.
+
+**C1P0478–0486; C2P0037–0038; C4P0209–0230; FP0322:** Early explicit assignment fits familiar capacities but does not prove the entire recovery was preplanned or successful without costs. Later barrier/siege plans are proposed role/resource arrangements, not executed demonstrations.
+
+**Contrary/adjacent evidence:** A full alternative for one serious multistage restoration problem must not be dismissed merely because a larger war remains; equally, success at one phase cannot certify adequacy for the whole Serena threat. The explicit two-level scope records both. The observed bottle handoff is imperfect but repaired; capture, cure, ethical disposition and safe withdrawal are separate outcomes.
+
+**Missing conjunctions and scope:** Fix the immediate compared task before outcomes as getting the sole known antidote safely onto resistant Kazuma. Bounded non-Kazuma repair/provider adequacy and absence of his continuing direction are observed for that task. No sufficiently comparable whole-campaign provider comparison establishes all neutralization/recovery stages or broad continuing dependence. Earlier diagnosis changes remain a confound in the larger comparison; the within-cure restraint repair is more direct.
+
+**Diagnosis:** PARTIAL compound. Preserve useful alignment, genuine non-Kazuma restoration agency and later coordination failures without claiming universal necessity or self-sufficiency.
+
+
+### MG04-E02 — NOT_TESTED
+
+- **attachment_cost:** Strong direct evidence of shock, household value, missing company and attempted contact preservation.
+- **efficient_durable_feasible_reorganization:** Not fully established; return-home wish and King plan do not yet supply a feasible efficient arrangement.
+- **practical_efficiency_benefit:** Explicitly present in the heaven-recruiter candidate C4P0176–0188: honest replacement recruitment is failing, and heaven wants effective Aqua back. This is not merely homesickness or romantic comfort.
+
+**C4P0176–0188 → FP0192–0197,0220–0244,0318–0322 → EpP0047–0065:** Eris’s serious message is later transmitted in narration: the honest replacement cannot recruit effectively and heaven values Aqua’s return. That is a concrete functional staffing benefit. Heavenly return credibly risks sustained loss of the established household, while future visits remain uncertain. Kazuma’s separation anxiety, food visit, indirect Wiz question and mixed household fantasy show attachment cost. The route depends on defeating the King and has no demonstrated currently feasible safe implementation; her immediate trip is not by itself durable completed removal.
+
+**C4P0279–0296; FP0186–0201,0235–0244,0288–0324; EpP0047–0065:** Kazuma is shocked at Aqua wanting to leave, wonders whether their tie is that light, brings food, raises future loss of Wiz/company, and is unsure whether she could revisit. In private he considers an appealing quieter two-woman household yet rejects its emotional emptiness, considers limited aid for her return, and reacts urgently to her departure letter. These are particular attachment costs with ordinary insults retained.
+
+**Contrary/adjacent evidence:** The initial memo failed to state the explicit recruiter-efficiency benefit and is corrected here. It is factually wrong to say no meaningful functional reorganization or durable-loss candidate exists. On the generous reading that conditional heavenly job transfer counts as feasible, the observed contact-preserving concern supports the predicted attachment cost. On the stricter literal reading, defeating the King is an unproven prerequisite, so feasibility is not established. Kazuma’s quieter two-woman fantasy and old retirement preference remain real counter-preferences, not erased for unanimity.
+
+**Missing conjunctions and scope:** The remaining disputed conjunct is feasibility of the proposed sustained reorganization, with credible later visit constraints also partly uncertain. Practical benefit is present. No completed separation is required by the forecast, but a proposed route whose central prerequisite is not shown feasible cannot silently become a feasible offer. This distinction, not mere noncompletion, supports localNT.
+
+**Diagnosis:** NOT_TESTED retained, with a strong partial feature bundle and an explicit alternative generous support reading. Root should decide feasibility under the unchanged contract; no requirement of actual completed relocation or blanket no-attachment inference is introduced.
+
+
+### MG04-J01 — PARTIAL
+
+- **fixed_scope:** All95 exact original records evaluated, comprising85 primary-four and10 auxiliary, with190 fixed before/after arrays and66 overlap presentation groups, not independent trials.
+- **supported_and_adverse:** The original producer full95 file was sealed before any comparison. Both original complete assignment sets have now been compared and paired receiving has occurred; literal forms, glosses, functions, adverse/sparse/already-active/mapping-limited results and disagreements all remain visible. No consensus or V15 acceptance follows.
+- **new_tactical_care:** Care already active in several baselines; urgent/intensified care cannot be promoted to new onset.
+
+**C1P0468–0486; C2P0531–0542; FP0175–0201,0328–0356:** Kazuma’s concrete tactical commands and quiet offers/self-disclosure are distinguishable, but fixed baselines independently constrain onset. His original QUIET mapping is not replaced by urgent care merely because a command appears. The food-care record with an earlier greed baseline differs from an overlapping record whose baseline already contains care.
+
+**C4P0473–0520; FP0035–0038,0073–0077; C2P0689–0712:** Megumin’s rank challenge supplies competitive stance without an extra explicit spell-equivalence subtype. Aqua’s limited ability admission and rival-directed insults constrain a blanket self-legitimation mapping. Formal direction and observed role do not collapse into a universal loud/polite character style.
+
+**C4P0279–0296:** Original IV15-20’s no-speech shorthand is factually qualified:279 contains a quoted private Kazuma mutter, followed by inner thought. It supplies no comparable companion-directed care speech. Original window and mapping remain unchanged; external qualification is stored in the sealed voice assignment.
+
+**Contrary/adjacent evidence:** Some mappings have opposing or insufficient evidence; a supported record cannot hide another. The initial full assignment remains immutable. The current complete paired95 presentation preserves both original labels/rationales, including the IV15-24 relative-self-legitimation dispute and scope differences over already-active roles, dignity and sparse speech. J01’s independently evidenced dignity threat does not universally require D02’s separate otherwise-sought-event/prior-privacy conjunction. The independent reader’s stronger privacy qualifications remain attributable reasoning, not an added universal J01 condition. No acoustic, actor, accent, catchphrase-frequency or human-review claim is made.
+
+**Missing conjunctions and scope:** The fixed windows overlap and are unequal. Both reader lineages share native source and uncoded reconciliation with disclosed factual QA; separate assignment is not fully blind or statistically independent. Full paired receiving has now occurred, while whole V15 acceptance and the separate tranche adjudication remain pending. Sparse/adjacent/active-role comparisons are not promoted into full tests.
+
+**Diagnosis:** PARTIAL compound, preserving all adverse/form-limited comparisons. Any later source correction or re-evaluation must be externally attributable, not overwrite original assignments.
+
+
+### MG04-J02 — PARTIAL
+
+- **local_census:** Complete source-first fixed150-unit local contribution, including all36 soft-touched units, independently assigned and sealed before other-reader code access.
+- **local_bound:** The producer initial assignments and independent initial assignments both retain149 clear L0–L2 and one mixed whole-premise case U15-120. The current paired conservative group preserves those histories and all150 units. Exact fine-label strings agree on106; normalized common mixed intent yields107, leaving43 fine differences. No current clearL3, no forced fine consensus. The conservative lower bound149/150 exceeds one half even assigning the mixed unit toL3.
+- **tranche:** The frozen forecast concerns completed pooled V13–V15 principal census work. V15 complete paired receiving has now occurred; whole-volume acceptance/publication and the separate explicit tranche pool/adversarial closeout remain pending.
+
+**Fixed U15-001–U15-150, accepted boundaries SHA8170abee32eafc398e49d6ac410feef43c7bc52c66444caa7665ab87f045f16d:** All original151 producer and138 independent discoveries survive through the accepted150-unit boundary union and source/lineage operations. Whole-premise assignments were made only after the root freeze; short verbal/narratorial episodes and culture/nested-form/eligibility uncertainties remain included. No unit was removed to improve the bound.
+
+**Contrary/adjacent evidence:** U15-120 remains mixed and all36 soft-touched units remain in the governed150 denominator. Nested wordplay/script/culture do not automatically decide the whole unit. The now-known fine differences and both rationales are preserved, with106 literal or107 transparently normalized agreements rather than an invented final consensus. No boundary or original class has changed after outcomes.
+
+**Missing conjunctions and scope:** The complete V15 paired table and conservative bound have been received, but a final accepted volume and explicit frozen three-volume pooling/tranche adjudication are separate. A complete local set is neither statistical calibration nor proof every joke survives translation. Original histories and every uncertainty survive.
+
+**Diagnosis:** PARTIAL as a contribution to the still-unclosed whole forecast; this memo gives an explicit provisional local bound rather than incorrectly claiming incomplete source coverage.
+
+
+### MG04-Y01 — CONFIRMED
+
+- **real_inclusion:** Concrete recruitment by a trusted companion, not a hypothetical mention.
+- **suitable_actual_role:** Actual Invisibility supplied; proposed Silent use kept separate.
+- **later_duty_conflict:** Royal/village recall conflict is not retroactively a failed earlier spell or an observed final stay decision.
+
+**C2P0217–0243,0259:** Kazuma appeals to Yunyun as the one person who can help; she accepts eagerly and actually provides Invisibility232–235. Silent is then named as the next desired task236–237 but its separate casting is not explicitly shown. Her anxious wish that no one be told is followed by narrated comforting and resource arrangements; he performs the overnight freezing himself.
+
+**C4P0449–0467,0483–0512:** She brings a real defense recall letter and confirms a wish to protect town friends while acknowledging next-chief duty. Megumin’s incipient “together” invitation is interrupted by rank reading; later letter destruction and excuses do not show a final decision, completed duty release, departure or defense performance. The mixed pleased/uneasy reaction is real, with Kazuma’s cause inference labeled.
+
+**Contrary/adjacent evidence:** The recruitment may exploit loneliness and is not ethical endorsement. Objections to criminality/secrecy and the later duty conflict remain; belonging desire does not equal agreement with every group method.
+
+**Missing conjunctions and scope:** Only the directly shown Invisibility role is a full technical participation result. Neither Silent nor town defense execution is invented. The later incompatible obligation is documented context, not used after the fact to erase actual poor performance because no such failure is shown.
+
+**Diagnosis:** CONFIRMED bounded inclusion/competent-participation direction; not a completed comprehensive secondary-character model.
+
+
+### MG04-CE01 — NOT_TESTED
+
+- **actual_service:** Eris gives direct afterlife reassurance and reports ground aftermath; these are bounded acts.
+- **cumulative_burden_beyond_expressed_preference:** Not established.
+- **self_set_boundary:** Actual refusal of a repeated maid greeting is retained, but is not the full public over-compliance context.
+
+**C4P0006–0018,0042–0050,0057–0064,0122:** Eris playfully greets Kazuma, refuses his repetition request14, reassures him and encourages return. The direct interaction is shown; the ground rescue details are her report. There is no accumulation of sincere public-service requests beyond a burden she expresses while a feasible exit is available.
+
+**Contrary/adjacent evidence:** Her timely “I will not do it again” is genuine self-limitation and must never be relabeled confirmation of over-compliance. Here its domain is a casual play request, so it is adjacent adverse evidence to a broad no-boundaries account rather than a complete CE01 failure.
+
+**Missing conjunctions and scope:** Missing cumulative public/divine-service requests, her own expressed preferred load being exceeded, and the refusal/exit comparison.
+
+**Diagnosis:** NOT_TESTED. No unobserved fatigue, private Eris motive or omniscient observation route is supplied.
+
+
+### MG04-I01 — NOT_TESTED
+
+- **direct_new_setting_contrast:** Absent.
+- **reported_importance:** Letters, memory reports and Kazuma’s faith in Iris’s power retain report/claim authority.
+
+**C2P0435–0447; C4P0366–0374; FP0041–0048:** Claire/Rain guarantee and the thank-you-letter report concern restored memory and royal relationships; Iris herself is not shown interacting in matched constrained/public and safer nondeferential settings. The future defense/escort campaign and “strongest sister” claim supply no current direct contrast.
+
+**Contrary/adjacent evidence:** A letter alone cannot prove ordinary agency expansion, and a possibly edited/restored memory report cannot reopen an earlier utterance or tears as a new witness.
+
+**Missing conjunctions and scope:** Missing a new directly shown comparable constrained versus safe nondeferential interaction with available ordinary choices.
+
+**Diagnosis:** NOT_TESTED; preserve older positive tests at their original volumes and authority without creating new V15 evidence.
+
+
+### MG04-I02 — NOT_TESTED
+
+- **personal_wish_and_understood_conflicting_duty:** Not directly established together for Iris in the admitted source.
+- **reduced_request:** No new shown Iris wish/duty narrowing decision.
+
+**C2P0435–0447; C4P0366–0374; FP0041–0048:** Royal letters, escort/defense plans and Kazuma’s confidence in Iris are not an expressed personal wish plus an understood conflicting obligation. Yunyun’s explicit next-chief dilemma is another person’s event and cannot supply Iris’s missing antecedents.
+
+**Contrary/adjacent evidence:** No hidden desire, unwanted obligation or narrowing motive is inferred from formal royal arrangements. A report of gratitude or invitation is not automatically a duty negotiation.
+
+**Missing conjunctions and scope:** Missing source-direct Iris personal wish, her understood opposing royal duty, and a subsequent narrowed choice.
+
+**Diagnosis:** NOT_TESTED; retain the V11 positive and earlier localNT histories unchanged.

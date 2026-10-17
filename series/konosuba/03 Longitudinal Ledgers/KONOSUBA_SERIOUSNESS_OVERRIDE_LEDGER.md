@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V14
+scope: V01-V15
 ledger_role: seriousness_override
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V14 main narrative
+source_boundary: Japanese main-series light novels through V15 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Seriousness Override Ledger — Through V14
+# KONOSUBA Seriousness Override Ledger — Through V15
 
 ## Purpose
 
@@ -525,3 +525,31 @@ Source: admitted principal MAIN-14 only, all-body native paragraph locators. Thi
 Darkness’s tears C2P0573 follow a completed unseen ordeal; no fresh timed Kazuma cue-response trial is shown there. Megumin’s half-crying C4P0173 and tearful P0288 do not immediately stop his chosen pursuit. Yunyun is near crying C4P0584 while romance display continues, and Aqua is tearful after physical treatment FP0083/0312. Those are actual limits on broad claims of automatic compassion; near-crying/tearful wording is not silently converted into actual flowing tears. Her sniffing FP0259 follows a genuine loyalty plea, not a newly established intimate-arousal scenario.
 
 The historical Gen03-K04 sufficient noticed-tears forecast remains FALSIFIED. V14 does not repair that failure through later care or narrower successor conditions. Gen04-K04’s quiet-A and aroused-B conjunctions are evaluated separately; absence of their exact trigger never acquits harassment or makes distress unreal.
+
+# V15 Update
+
+Source: MAIN-15 admitted principal only, native EPUB SHA256 `ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005`. Root accepts this additive V15-local evidence through the V15 receiving review. Retained producer/candidate pending phrases describe their authorship boundary; publication and tranche adjudication remain separate. All prior ledger bytes, Gen04 originals and adverse histories stay exact. The V15 deep reading section13 routes every major claim family to H1–H4, shown/dialogue/report/inference access, qualitative confidence and governed claim transition. Apply those weights together with each row’s finer source/uncertainty limits; actual threat, refusal, pain and failed components are not erased by gag classification.
+
+## Seriousness overrides and failures to override
+
+A serious scene is a change in the active value hierarchy, not a guarantee that all comic habits stop. V15 has several genuine interruptions and several continuations in the presence of distress. The comparison must preserve who is threatened, how the focalizer knows, what state the actor is in and whether a different action was actually chosen.
+
+| Trigger / source | Prior script and observed change | What remains unresolved or adverse |
+|---|---|---|
+| SO-V15-01 Aqua’s unusual exclusion, C1P0350–0486 | Kazuma’s safety/comfort bargain becomes difficult to tolerate; he rejects uncertain shortcuts and accepts an anticipated injury/legal burden to intervene. | Care already exists before the last plea. Actual method is assault, intimidation and later humiliating harassment, not ethically purified rescue. |
+| SO-V15-02 Trusted silence, C2P0064–0085 | Darkness’s expected strictness yields a request for discretionary release and offer of aftermath support. | No complaint exists; institutional responsibility and particular loyalty conflict. His later humiliation can still end her willingness to repeat the favor. |
+| SO-V15-03 Darkness’s public exposure, C2P0096–0115/P0373 | Shame produces an explicit no-more-guarantees boundary, later actually invoked. | Continued affection and Kazuma’s mild-anger reading do not erase that applied limit. No prior universal privacy preference is invented. |
+| SO-V15-04 Serena’s tears under domination, C3 diary/P0167–0181/P0286 | The altered Kazuma often treats her distress as attractive, applies payment logic and continues coercion despite tears/protests. | Imposed altered allegiance/restraint loss is a major state qualification. It cannot make the actual actions or tears disappear, nor be used as a new unannounced immunity from adverse evidence. |
+| SO-V15-05 Imminent Death at home, C3P0341–0351 | Darkness interposes before the spell, Aqua/Darkness capture the weakened caster and routine bargaining stops. | The failed spell’s explanation comes later. Protective action need not mean the group already knows every rule. |
+| SO-V15-06 Bottle loss, C3P0425–0443 | Initial cure confidence fails; Aqua immediately preserves the bottle, then all participants tighten the application strategy. | Recovery is local and cooperative, not proof there was never a failure or that one actor was flawless. |
+| SO-V15-07 Murder proposal, C3P0480–0520 | Kazuma’s reluctance/attachment and Darkness’s civic killing offer produce a chosen nonlethal reset with expected personal cost. | Affordable asymmetric loss remains part of his appraisal. Darkness’s later pinching still exploits a captive’s pain; public duty does not uniformly dominate pleasure. |
+| SO-V15-08 Repeated death, C4P0023–0088 | Genuine demoralization and desire for a different life persist despite Eris’s comfort and Aqua’s calls. | Teasing and a rich-pet fantasy coexist with real reluctance. A later provocative body threat, rather than the first rational appeal, changes his immediate behavior. |
+| SO-V15-09 Body-interference calls, C4P0089–0122 | Sexual opportunity reading becomes bodily threat; Kazuma abandons refusal and urgently returns. | Full degree of interference is unseen; the response primarily protects his own body, and world information competes unsuccessfully for attention. |
+| SO-V15-10 Aqua’s tears after mud, C4P0425–0441 | Kazuma selects another material after water fails as deterrence and leaves satisfied after actually making her cry. | This is outside the puppet episode and adverse to any broad automatic distress brake. Exact frozen branch antecedents still need their own literal local assessment; no blanket exclusion for a running gag. |
+| SO-V15-11 Yunyun’s conflicting duty, C4P0483–0520 | A real wish for town friends meets future-chief obligation; Megumin provides forceful support through destroying the document. | Specialist resentment, known document externality and the narrator’s motive inference remain. Support can change a friend’s feasible story while serving the helper’s status. |
+| SO-V15-12 Wiz’s chosen acceptance, FP0136–0168 | Expected opposition becomes consent, gratitude and love; Aqua retreats and never casts. | Narrator-labelled conscience and the observers’ gaze both matter. Raw ability is not tested by nonexecution; the scene cannot isolate pure private altruism or establish a universal response to praise. |
+| SO-V15-13 Aqua absent at nightfall, FP0172–0244 | Food delivery fails to restore routine, and Kazuma’s ordinary sleep is interrupted by unwanted attachment thoughts. | Counterfactual material benefits briefly appeal. Later he does fall asleep P369–370; genuine concern is not endless insomnia or a chosen efficient separation. |
+| SO-V15-14 Quiet home wish, FP0307–0354 | His lecture/grievance frame yields to recognition of an unknown prior life, responsibility and a limited constructive offer; reciprocal no-regret exchange follows. | Actual mission/return is not completed; teasing/threats continue. Her exact reciprocal guilt remains his inference, not confession. |
+| SO-V15-15 Departure letter, EpP0047–0065 | Bedbound leisure becomes actual standing/jumping and immediate pursuit intention. | No onstage attack, actual solitude, route or completed pursuit yet. The only short spoken exclamation is not an invented handoff command. |
+
+The strongest model constraints therefore include both selected stops and non-stops. Aqua’s attempted cleansing stops when its recipient’s trust makes it unbearable; Kazuma’s post-mud satisfaction remains despite tears. Darkness’s love for a companion can bend official behavior and create a personal boundary, while her enjoyment of reflected pain can still impose harm on an enemy. Megumin can use intimacy in a genuine cure and withdraw it the moment his pretext exceeds the situation. Seriousness is local, sometimes temporary and often relationship-specific; it does not convert the cast into an idealized version of itself.

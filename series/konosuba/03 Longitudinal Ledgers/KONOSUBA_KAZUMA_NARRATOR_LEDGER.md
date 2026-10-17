@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V14
+scope: V01-V15
 ledger_role: narrator_perspective
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V14 main narrative; Kazuma first-person narration
+source_boundary: Japanese main-series light novels through V15 main narrative; Kazuma first-person narration
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Kazuma Narrator Ledger — Through V14
+# KONOSUBA Kazuma Narrator Ledger — Through V15
 
 ## Purpose
 
@@ -600,3 +600,39 @@ Source: admitted principal MAIN-14 only, all-body native paragraph locators. Thi
 | N-V14-22 Ep P0102–0126;もちろん死ぬ | Tests a seller’s narrow guarantee and recognizes coercive confidentiality. | The item is not activated; bodily effect is Vanir’s assertion. Serena’s wallet statement121 and register change123 are distinct observed evidence. |
 
 The volume gives an unusually direct alternative focalizer in I13. Yunyun’s childhood goal, private ambivalence and gratitude belong to her narrated interior, unlike the adjacent Kazuma generalizations about why she works or where she would be happy. Neither focalizer becomes omniscient because one judgment succeeds. Quoted action, remembered report, qualified causal inference and deliberate rhetorical pose remain separately recoverable.
+
+# V15 Update
+
+Source: MAIN-15 admitted principal only, native EPUB SHA256 `ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005`. Root accepts this additive V15-local evidence through the V15 receiving review. Retained producer/candidate pending phrases describe their authorship boundary; publication and tranche adjudication remain separate. All prior ledger bytes, Gen04 originals and adverse histories stay exact. The V15 deep reading section13 routes every major claim family to H1–H4, shown/dialogue/report/inference access, qualitative confidence and governed claim transition. Apply those weights together with each row’s finer source/uncertainty limits; actual threat, refusal, pain and failed components are not erased by gag classification.
+
+## Kazuma’s narrator grammar and knowledge limits
+
+Kazuma is a selective, defensive focalizer whose reports still contain useful self-correction, causal testing and inconvenient evidence about himself. The volume does not warrant global factual unreliability. It does require tracking the difference between a visible event, an attributed report, a private goal, an interpretive gloss and a retrospective explanation. A comic phrase can be accurate but hostile; a useful inference can remain uncertain; a later confirmation cannot create earlier knowledge.
+
+| Evidence route / native source | What is established | What the narration cannot establish by itself |
+|---|---|---|
+| N-V15-01 Creature fight, PrP0027–0038 | Aqua reports fire after Kazuma chooses not to look at that instant; he recalls prior fire behavior and admits uncertain identity. | An independently witnessed present fire emission by the focalizer, or the creature’s true species. Aqua’s no-demon/soap smell statement is a bounded report whose accuracy is not independently certified. |
+| N-V15-02 Officer admissions, C1P0034–0043 | Serena now claims corpse staging and a reusable fabricated maiden story. | That the V14 original reader knew the method; a full independent history of every previous use. |
+| N-V15-03 Legend versus contribution, C1P0066–0126/P0143–0153 | He enjoys credit, fears a cosmic explanation, exaggerates willpower, then privately credits the team and his own prior worsening of a foe. | A universal actual rank as strongest hero, or that every self-deprecating thought is equally false. |
+| N-V15-04 Guild ban/bill, C1P0167–0170 | Companions report exclusion and a bill; he infers the threatened alcohol purification caused it. | A newly directly witnessed transformation or exact event sequence in the guild. |
+| N-V15-05 Patient, C1P0313–0363 | Access block, repeated Serena healing, residual wounds, rejected Aqua hand and changed reverence are observable narrative events. | A failed Aqua cast, complete Serena treatment or certified puppetry mechanism before the expressly tentative hypothesis. |
+| N-V15-06 Motive denial, C1P0350–0385; C2P0715–0723 | Repeated concern and initial revenge admission coexist with later insistence Aqua was irrelevant. | That the denial cancels earlier attachment or that every helping act had only one pure motive. |
+| N-V15-07 Silent companions, C1P0427–0439 | Physical touches and silence are shown. | Exact hidden knowledge or full consent to the concealed bargain; his interpretation uses explicit possibility. |
+| N-V15-08 Police aftermath, C2P0035–0038/P0073 | Incapacitation and present lack of wounds are narrated; absence of a complaint is reported by the chief. | Direct observation of the unconscious healing interval or an illegal release inferred solely from discretion. |
+| N-V15-09 Royal response, C2P0434–0447 | Letter contents are his report; a joint guarantee, Rain’s rushed appearance and Claire’s retreat are officer/staff reports. | A newly witnessed Claire/Iris scene, actual romance or certain exact mental states of the guarantors. |
+| N-V15-10 Follower transitions, C2P0610–0638 | Serena takes a follower’s money to repay Kazuma, after which brief lucidity, skirt display/thanks and renewed vacancy are observed. | His inferred debt rule as omniscient universal law before explicit later explanation; why Serena originally chose the display method. |
+| N-V15-11 Captured consciousness, C2P0757–0815/P0824–0834 | First-person motor/cognitive impairment and the external restraint-discarding order change access and allegiance. | A later voluntary resistance scheme absent from the current interior, or complete loss of every initiative. Narrator address itself changes, but that is not automatically speech. |
+| N-V15-12 Diary, C3P0006–0118 | The altered narrator’s dated claims and valuations are presented as a document; his erotic passage P29 is marked invented fiction. | Actual naked Serena contact/words from that fictional passage; unqualified direct witnessing of each reported prior act. |
+| N-V15-13 Shared faith, C3P0131–0175 | Mirrored test injury and attributed doctrine establish a local problem; native ruby reads 八百万 as やおよろず. | A literal exact eight-million-god census or interchangeable definitions of 無宗派/無宗教. |
+| N-V15-14 Apparition, C3P0209–0218 | He thinks he saw a blond girl and feels nostalgic attachment; Serena suspects ghost perception. | The girl’s independently confirmed identity or certainty that every perception is false. |
+| N-V15-15 Cure state change, C3P0443–0475 | Felt release, changed address, brief revenge recollection P456, then inability to explain at P471–475. | An invented continuous stable memory state or certain deliberate lying to reconcile the two access points. |
+| N-V15-16 Solo completion, C3P0508 | He frames the selected reset as finishing alone. | Erasure of actual capture, cure, restraint, supplied item or later resurrection work by others. |
+| N-V15-17 Death room, C4P0017/P0089–0137 | Direct conversation with Eris; her report of ground aftermath; Aqua-mediated body-interference calls; later guilty behavior and disordered trousers. | Eris’s observation mechanism, the complete threatened act or its completion merely from suggestive reports. The edible object is unnamed here. |
+| N-V15-18 Institutional aftermath, C4P0156–0165/P0324 | Reset and police/intelligence handoff reported as completed; countermeasures/bounty and royal transfer have different prospective/report status. | Completed payment, completed transfer or a shown cancelled battle. |
+| N-V15-19 Other minds, C4P0283–0292/P0511; FP0151/P0354 | He explicitly entertains alternatives for Aqua, infers why Yunyun is pleased, reads Vanir’s step aside and suspects reciprocal guilt. | Omniscient private motive. Visible expressions/actions can support a qualified interpretation without proving it uniquely. |
+| N-V15-20 Routine predictions, FP0207–0208/P0369–0370 | Hunger prediction fails by nightfall; later planning does end in sleep. | All-night confinement or indefinite insomnia after the balcony. |
+| N-V15-21 Letter, EpP0025–0065 | Aqua’s allegations, inflated faith, declared goal and erased please-find-me text are read. | Newly staged laundry conduct, audited follower count, observed writing/erasure, confirmed solitary travel, actual hired escort or the pursuers’ completed journey. |
+
+Several repeated rhetorical processes are visible. He gives self-interest civic language when accepting safety and petty violence a justice label when defending arrest (C1P0131–0132; C2P0484). He adds 「様」 under changed allegiance and later wonders why, so the narrator’s naming must not be pooled indiscriminately as timeless spoken politeness (C2P0824; C3P0451–0453). He appreciates another’s distress under control, then after cure finds the resulting allegiance dreamlike; affect and access have changed, not merely the vocabulary of one unchanged rational actor. He can also narrate an unattractive actual thought—abandonment, murder, a household without Aqua—then explicitly decline or revise it. Suppressing those thoughts would make the model less accurate; treating them as completed choices would do the same.
+
+His frame is often accurate in detail and misleading in total credit. He really makes useful decisions and accepts costs, yet claims solitary completion after depending on the team. He really has enough money and a low level ceiling to recover, yet the reset is still an actual cost rather than a free performance. He really recognizes moonlit beauty while speaking through grievances and naps. He accurately notices a possible strategy while rejecting a guaranteed personal victory. The source’s own competing evidence constrains a narrower account than either a perfect hidden mastermind or a narrator whose whole world can be discarded as exaggeration.

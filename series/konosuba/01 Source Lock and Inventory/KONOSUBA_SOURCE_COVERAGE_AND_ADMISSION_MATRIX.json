@@ -3656,12 +3656,15 @@
           "METADATA_VERIFIED",
           "BYTE_VERIFIED",
           "STRUCTURE_VERIFIED",
-          "NARRATIVE_ADMITTED"
+          "NARRATIVE_ADMITTED",
+          "READ_COMPLETE",
+          "ANALYZED"
         ],
-        "narrative_reading_state": "NOT_CANONICALLY_ACCEPTED_AT_RECONCILIATION",
+        "narrative_reading_state": "PRINCIPAL_MAIN_NARRATIVE_READ_COMPLETE_AND_ANALYZED; OTHER_EPUB_COMPONENTS_OPEN",
         "main_v01_v10_state_basis": null,
         "metadata_exposure": "Package bytes, metadata and structure may be decoded without narrative semantic inspection.",
-        "component_audit_completeness": "NOT_ESTABLISHED_BY_THIS_METADATA_RECONCILIATION"
+        "component_audit_completeness": "Seven principal members mapped/read/analyzed. Afterword and one bonus beginning identified from navigation but unread; post-bonus0019 structurally detected but semantically unread/unclassified. Images and other component review open.",
+        "completion_scope": "OEBPS/Text/part0009.xhtml through part0015.xhtml principal prose only; excludes images, afterword, bonus, post-bonus0019, colophon and promotion."
       },
       "workstream": "MAIN_SERIES_DERIVATION",
       "frozen_validation_designation": "NO_OUT_OF_SAMPLE_SCORE_AUTHORITY",
@@ -3669,32 +3672,111 @@
         {
           "component_kind": "principal_prose",
           "nature": "narrative",
-          "presence": "NOVEL_IDENTIFIED",
-          "disposition": "NARRATIVE_ADMITTED",
+          "presence": "SEVEN_MAIN_MEMBERS_VERIFIED",
+          "disposition": "READ_COMPLETE_AND_ANALYZED",
           "stage_gate": "MAIN_SERIES_DERIVATION",
           "analytical_authority": "Main-series-only prospective derivation, respecting sequential boundary.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
-          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+          "inspection_state": "Complete ordered principal scopes by root, continuing producer, continuing independent discovery lineage and semantic reviewer. Overlapping scopes are not summed. Exact source/coding/receiving limits belong to the V15 reading and review.",
+          "required_action": "Preserve unchanged Gen04 and all prior local histories. Complete V15 exact publication/readback, source audit, housekeeping and final exact-head gate, then separate V13–V15 checkpoint/Gen05 freeze/publication before V16 exposure.",
+          "component_id": "MAIN-15-PRINCIPAL",
+          "members": [
+            {
+              "label": "Pr",
+              "member": "OEBPS/Text/part0009.xhtml",
+              "body_paragraphs": 44,
+              "nonempty_paragraphs": 42,
+              "base_characters": 1621,
+              "ruby_occurrences": 53,
+              "native_member_sha256": "f8039c2caf0fe4104d3a6223c09643d0991d96aabe4f7c0355931db7cdc7dc10"
+            },
+            {
+              "label": "C1",
+              "member": "OEBPS/Text/part0010.xhtml",
+              "body_paragraphs": 505,
+              "nonempty_paragraphs": 458,
+              "base_characters": 16439,
+              "ruby_occurrences": 396,
+              "native_member_sha256": "bcaec8c676903062bac507f7f1a94174142c8f32669171a31fd943e2a497985e"
+            },
+            {
+              "label": "C2",
+              "member": "OEBPS/Text/part0011.xhtml",
+              "body_paragraphs": 958,
+              "nonempty_paragraphs": 867,
+              "base_characters": 34320,
+              "ruby_occurrences": 857,
+              "native_member_sha256": "284a00b2c93af6021012842422f47d9e46a92ca2c9e4d4eb27e0a073c7ef1e33"
+            },
+            {
+              "label": "C3",
+              "member": "OEBPS/Text/part0012.xhtml",
+              "body_paragraphs": 548,
+              "nonempty_paragraphs": 503,
+              "base_characters": 17147,
+              "ruby_occurrences": 451,
+              "native_member_sha256": "4c35da64df6cd332693ab880b1a3721e5604915104fe55062eff0aaa0f5d6b2c"
+            },
+            {
+              "label": "C4",
+              "member": "OEBPS/Text/part0013.xhtml",
+              "body_paragraphs": 520,
+              "nonempty_paragraphs": 482,
+              "base_characters": 17987,
+              "ruby_occurrences": 418,
+              "native_member_sha256": "4afb3b30d1e3b61fcc63dd4f9b75ccdc86dc588a360466eb826f33e4a020f3bd"
+            },
+            {
+              "label": "F",
+              "member": "OEBPS/Text/part0014.xhtml",
+              "body_paragraphs": 373,
+              "nonempty_paragraphs": 330,
+              "base_characters": 11606,
+              "ruby_occurrences": 295,
+              "native_member_sha256": "62264c946d696bf76f8157315c0afc387761798f1c3bf565a5aaf9b05f272203"
+            },
+            {
+              "label": "Ep",
+              "member": "OEBPS/Text/part0015.xhtml",
+              "body_paragraphs": 65,
+              "nonempty_paragraphs": 55,
+              "base_characters": 1550,
+              "ruby_occurrences": 43,
+              "native_member_sha256": "0dc9381cb468292d1109d962ace2905d42a7ece1b02a43bb3166b40a208964a4"
+            }
+          ],
+          "total_body_paragraphs": 3013,
+          "total_nonempty_paragraphs": 2737,
+          "total_base_characters": 100670,
+          "total_ruby_occurrences": 2513,
+          "source_identity_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+          "receiving_review": "series/konosuba/09 Audits and Manifests/KONOSUBA_V15_RECEIVING_REVIEW.md",
+          "source_processing_opened_at_utc": "2026-10-17T03:55:09.953304+00:00",
+          "first_root_semantic_display_at_utc": "2026-10-17T03:55:58.699066+00:00",
+          "preceding_publication_gate": "6533c7213db6f2279b02a98f1bd95bac50bb41f2; CLOSED_SUCCESS at 2026-10-17T03:51:34.119658+00:00"
         },
         {
           "component_kind": "embedded_bonus_fiction",
           "nature": "narrative_if_present",
-          "presence": "UNMAPPED",
-          "disposition": "PENDING_COMPONENT_BOUNDARY_REVIEW",
+          "presence": "TOC_IDENTIFIED_BONUS_BEGINNING_ONLY",
+          "disposition": "IDENTIFIED_NOT_READ; FULL_EXTENT_PENDING",
           "stage_gate": "POST_VALIDATION_EXPANDED_CORPUS",
           "analytical_authority": "Do not merge separate bonus fiction into unqualified main-body authority.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
-          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+          "inspection_state": "Navigation title/member only; body unopened and full bonus extent not established.",
+          "required_action": "After main-only freeze/holdout validation, inspect actual bonus text and neighboring unclassified0019, establish exact component extent/identity and analyze admitted fiction separately.",
+          "component_id": "MAIN-15-BONUS-KIZOKU-STYLE",
+          "title_from_navigation": "貴族スタイル",
+          "member_beginning": "OEBPS/Text/part0018.xhtml"
         },
         {
           "component_kind": "afterword_and_editorial_material",
           "nature": "editorial_if_present",
-          "presence": "UNMAPPED",
+          "presence": "TOC_IDENTIFIED_AFTERWORD",
           "disposition": "CONTEXTUAL_ONLY",
           "stage_gate": "POST_VALIDATION_COMPONENT_REVIEW",
           "analytical_authority": "Author/editor commentary; distinguish from fictional events.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
-          "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+          "inspection_state": "Title/member only; body unopened.",
+          "required_action": "Inspect later as author/editor context, with no fictional-event authority from afterword status alone.",
+          "member": "OEBPS/Text/part0016.xhtml"
         },
         {
           "component_kind": "illustrations",
@@ -3703,7 +3785,7 @@
           "disposition": "EXCLUDED_FROM_TEXTUAL_NARRATIVE_AUTHORITY",
           "stage_gate": "POST_VALIDATION_COMPONENT_REVIEW",
           "analytical_authority": "Optional separately grounded visual evidence; no uninspected-image claim.",
-          "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
+          "inspection_state": "All images unviewed. Root structurally checked unlabeled wrappers0008/0017 without image inspection; remaining historical package counts are not visual/narrative review.",
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         },
         {
@@ -3715,9 +3797,21 @@
           "analytical_authority": "Promotional descriptions do not independently establish narrative facts.",
           "inspection_state": "NOT_ESTABLISHED_BY_METADATA",
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
+        },
+        {
+          "component_kind": "unclassified_post_bonus_text",
+          "nature": "UNCLASSIFIED",
+          "presence": "NONEMPTY_TEXT_DETECTED_BY_XML_STRUCTURE_ONLY",
+          "disposition": "UNREAD_UNCLASSIFIED; EXCLUDED_FROM_MAIN_DERIVATION",
+          "stage_gate": "POST_VALIDATION_COMPONENT_REVIEW",
+          "analytical_authority": "None until actual component inspection and justified admission. May not be assumed fictional, a new story, bonus continuation or colophon.",
+          "inspection_state": "Mechanical parse/count only; no text displayed or semantically read.",
+          "component_id": "MAIN15-POSTBONUS-0019",
+          "member": "OEBPS/Text/part0019.xhtml",
+          "required_action": "Read/inspect after applicable freeze/validation gates; establish relation to bonus0018 or other edition matter, authorship, component boundaries and final disposition."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "PRINCIPAL_MAIN_NARRATIVE_ONLY_COMPLETE; OTHER_EPUB_COMPONENTS_OPEN"
     },
     {
       "source_id": "MAIN-16",
@@ -10493,7 +10587,7 @@
         "embedded_bonus_fiction"
       ],
       "admission": "PRINCIPAL_MAIN_PROSE_ADMITTED",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "PRINCIPAL_MAIN_NARRATIVE_READ_COMPLETE_AND_ANALYZED; OTHER_EPUB_COMPONENTS_OPEN"
     },
     {
       "source_id": "MAIN-16",

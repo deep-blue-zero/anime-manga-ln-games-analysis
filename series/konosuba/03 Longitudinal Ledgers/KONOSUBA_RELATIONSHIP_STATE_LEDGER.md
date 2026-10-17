@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V14
+scope: V01-V15
 ledger_role: relationship_state
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V14 main narrative
+source_boundary: Japanese main-series light novels through V15 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Relationship State Ledger — Through V14
+# KONOSUBA Relationship State Ledger — Through V15
 
 ## Purpose
 
@@ -685,3 +685,32 @@ Source: admitted principal MAIN-14 only, all-body native paragraph locators. Thi
 | RS-V14-16 Wiz–Seresdina–Vanir | Familiar recognition defeats the refined alias; healing becomes an attack, then Vanir converts concealment into a coerced purchase. | Ep P0052–0126. Wiz’s recognition and Vanir’s manipulation are different causes. His commercial discretion is a threat contingent on purchase. |
 
 The household’s continuity is enacted through particular help, food, transport, ordinary intimacy and repeated repair. It is not a permanent harmony claim. Megumin’s future separation from Yunyun is a genuine attachment problem outside the exact core-home efficiency test; Serena’s addition would duplicate a role but does not explicitly require expelling Aqua. Keep these nearby but incomplete tests distinct from the frozen E02 conjunction.
+
+# V15 Update
+
+Source: MAIN-15 admitted principal only, native EPUB SHA256 `ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005`. Root accepts this additive V15-local evidence through the V15 receiving review. Retained producer/candidate pending phrases describe their authorship boundary; publication and tranche adjudication remain separate. All prior ledger bytes, Gen04 originals and adverse histories stay exact. The V15 deep reading section13 routes every major claim family to H1–H4, shown/dialogue/report/inference access, qualitative confidence and governed claim transition. Apply those weights together with each row’s finer source/uncertainty limits; actual threat, refusal, pain and failed components are not erased by gag classification.
+
+## Dyadic and ensemble state changes
+
+| Relationship | Trigger and local appraisal | Observed interaction and consequence | Boundary for later simulation |
+|---|---|---|---|
+| RS-V15-01 Kazuma–Aqua: rejected useful member | Former patients/friends refuse her, unlike her usual self-caused trouble; he notices a changed familiar person (C1P0350–0385). | Quietly accumulated unease, rejected unsafe alternatives, then planned self-injuring retaliation and resource/handoff requests (P0395–0486). | Affection and instrumental resurrection value coexist. Earlier care makes a newly care-free baseline false; the specific behavioral commitment is later. |
+| RS-V15-02 Kazuma–Aqua: departure and home | Her desired heaven appears to devalue their year, then he recognizes a prior life he does not know (C4P0279–0296; FP0307–0322). | Dinner delivery, insomnia, incomplete/indirect questions, limited constructive offer, honest no-regret reply, later pursuit intention. | Home matters beyond utility without requiring every efficient separation to be rejected. No completed new stable living arrangement or search is shown. |
+| RS-V15-03 Kazuma–Aqua: everyday adversaries | Arrest rivalry, insults, petty resource conflicts and stone coercion recruit reciprocal escalation (C2P0475–0487; C4P0414–0444). | He wishes to protect her yet considers tripping her in the chase; later mud produces real tears and satisfaction. | Preserve unexecuted thoughts separately from acts. Protectiveness does not automatically stop harshness once care is established. |
+| RS-V15-04 Kazuma–Darkness: trust and discretion | He cannot explain a threat; she reads silence in the context of a trusted companion, despite usual public fairness (C2P0064–0079). | Actual release help and unlocking are followed by his grateful cling. | Relationship-specific trust can change institutional choice; no complaint exists, and arbitrary illegality is not established solely by favor. |
+| RS-V15-05 Kazuma–Darkness: public dignity | An idealizing officer dismisses the possibility of romance, and he retaliates with true private details (C2P0087–0107). | Shame, explicit objection and later refusal to guarantee him again (P0110/P0373). | Literal truth can be deliberate humiliation. Later mild mood and continuing affection do not erase a specific boundary or guarantee unlimited future help. |
+| RS-V15-06 Kazuma–Megumin: reclaiming and contact | Altered shamelessness threatens the familiar relationship; she distinguishes it from his old hesitant strategies (C3P0319). | Voluntary display, claiming him, holding/hugging during cure; after restoration she actively ends his prolonged healing-pretext hug. | Her chosen exposure is specific to her, person, moment and purpose. Actual restraint and affection coexist; first approach still fails. |
+| RS-V15-07 Megumin–Darkness: different ways to support | Kazuma's daring charge and later desire to reclaim him activate different valuations (C1P0493–0500; C3P0366–0380). | Specialist excitement meets legal objection; possessive acceptance meets initial hesitation and alarm. | Neither woman is the permanent moral objector or permanent sexual rival. Do not turn contextually attributable P0367 into independently tagged speech. |
+| RS-V15-08 Megumin–Yunyun: rivalry as forceful aid | A private summons is mistaken for challenge; later reserve status and Yunyun's conflicting defense duty become simultaneous stakes (C4P0449–0493). | Threatened duel turns to consultation; destruction of a needed letter enables an excuse but costs shared administration and serves pride. | Friendship benefit does not cancel identity threat or known cost. Source confirms wanted town defense but not the exact private mix behind Megumin's act. |
+| RS-V15-09 Kazuma–Yunyun: relied-on specialist | His unique-reliance appeal follows her criminality question (C2P0217–0236). | Eager acceptance and actual invisibility support; secrecy then touches her loneliness. | An objection is compatible with participation. No assurance that a vaguely righteous framing cures moral uncertainty, and no invented unshown cast. |
+| RS-V15-10 Kazuma–Serena: calculated pact to actual domination | Each recognizes practical self-interest; apparent settlement lowers vigilance and thanks becomes a control opening (C1P0127–0138; C2P0745–0815). | Secret safety bargain, harassment, observation, cognitive capture, altered devotion and escalating burdens on the captor. | The hostile operation's collapse cannot retroactively prove the captive planned it. Coercion and surviving self-directed tactics must both remain. |
+| RS-V15-11 Kazuma–Serena: partial attachment after harm | Cohabitation leaves affective residue despite manipulation and cruelty (C3P0480–0497). | He rejects murder but chooses a costly nonlethal reset; she still attempts lethal escape. | Affection is neither mutual safety nor pardon. His refusal to kill is explicit and cannot be replaced by a purely instrumental account. |
+| RS-V15-12 Aqua–Wiz: natural enemies as chosen friends | Goddess/lich roles make extermination available; Wiz's own consent and trusted love make it morally costly (FP0119–0168). | Cookies, a reversed life-value admonition, sustained gratitude, retreat without casting and later withdrawal. | A voluntary stop differs from insufficient power or interrupted access. Wiz's consent here cannot authorize unrelated punishments elsewhere. |
+| RS-V15-13 Wiz–Vanir: insulting commerce and actual shared project | Bad purchases irritate him; possible final departure threatens their dungeon agreement and companionship (FP0081–0151). | Merchandising coercion coexists with shielding, direct name use, contractual protest and eventual withdrawal. | The observed step aside is firmer evidence than Kazuma's exact respect explanation. No completed substitute handoff or abandoned project is shown. |
+| RS-V15-14 Aqua–Vanir: identity rivalry with collateral harm | Ruined stock and direct deity/devil challenges turn commerce into a fight (C2P0689–0713). | Beams/Reflect, harmed Wiz, address imitation and an identity complaint, then sugar-water repair discussion. | The priest and devil can fail the bystander while arguing over status. Written imitation is source evidence; no acoustic reproduction is available. |
+| RS-V15-15 Kazuma–Eris: relief and renewed obligation | Death demoralization receives familiarity and eye-level care, while bodily panic competes with world information (C4P0023–0122). | Proposal/jealousy teasing, refusal to revive, failed happy-memory prompt, hurried return and retrospective message. | Denied jealousy is not a secret motive. Apparent peace is his experience, not proof she has no duty or time pressure. |
+| RS-V15-16 Party–institutions: reciprocal dependence | Police, noble guarantees, card/reward rules and village defense mobilization constrain choices. | Release requests, threats, responsibility refusal, actual captive/intelligence handoff and a destroyed shared summons. | Institutional competence is neither uniform corruption nor an irrelevant backdrop. Record authority, knowledge and local legal conditions separately. |
+
+Knowledge distribution is part of every relationship. The party trusts Kazuma without knowing the pact. Aqua does not know the gifted potion's function when she guards it. Kazuma does not know whether former enemy colleagues would take his side. Darkness does not initially know reflected-harm mechanics. Yunyun knows her own wish better than the witness who clarifies it, and confirms his interpretation. Wiz may consent to purification without having consented to secret merchandise. Even after restoring the captive, no one acquires perfect access to his previous controlled inner state. These mismatches generate humor, tactical failure and genuine vulnerability through the same ensemble structure.
+
+The final letter preserves the double movement of the bond. A declared goal and actual absence make the departure consequential; the erased request for pursuit preserves a desire for contact. Kazuma's immediate pursuit intention matters because the previous scene left him planning from bed, but the source stops before the search is performed. A forward model should allow an agent to want both a separate goal and to be found by familiar people, without reducing either motive to insincerity.

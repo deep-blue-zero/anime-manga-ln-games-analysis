@@ -4,7 +4,7 @@ artifact_type: source_inventory
 scope: CURRENT_INGESTED_CORPUS
 generation: V1
 status: canonical
-source_boundary: 41 live EPUB witnesses reconciled at the 2026-10-16 inventory snapshot; main-series V01-V17 source-complete; principal main-series narrative analysis accepted through V14; unchanged Gen04 governs V13–V15; V15 next only after the complete V14 publication gate and fresh source admission
+source_boundary: 41 live EPUB witnesses reconciled at the 2026-10-16 inventory snapshot; main-series V01-V17 source-complete; principal main-series narrative analysis accepted through V15; unchanged Gen04 governs the still-open V13–V15 tranche; the separate checkpoint and Gen05 freeze follow the complete V15 publication gate, before V16 exposure
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
