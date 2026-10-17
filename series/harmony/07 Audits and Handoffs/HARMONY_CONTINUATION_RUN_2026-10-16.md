@@ -5,10 +5,10 @@ artifact_type: analytical_execution_receipt
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.13'
+version: '0.14'
 status: active_provisional
 scope: Full remaining original-novel sequential reading; specialists, reconstruction and comparison separately gated
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U013 complete Part III numbered04 at spine25 text/part0010_split_004.html; exclusive before spine26 text/part0010_split_005.html; later narrative body unopened
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U014 complete Part III numbered05 at spine26 text/part0010_split_005.html; exclusive before spine27 text/part0010_split_006.html; later narrative body unopened
 canonical_home: series/harmony/07 Audits and Handoffs/HARMONY_CONTINUATION_RUN_2026-10-16.md
 created: '2026-10-16'
 review_status: OWNER_REVIEWED_PILOT_AND_AUTHORIZED_CONTINUATION
@@ -332,3 +332,26 @@ The separately retained V2 packages replace those three attachments with the cor
 | HAR-U013 / `HAR-U013_PRIVATE_SOURCE_VERIFICATION_20261017_V2.zip` | `1ykcMSv3zzfypVMcBpht9rTZqQ0oQzG67` | 2385759 / `24dafde867119c406b11aa67ae01fd194ffc53c4b77ad25cede6cb9401b41107` | `1bcb858d3afcb4fffd88b45fd70504196a413234a332ca5dbce490927b352b2a` / 24 |
 
 All thirteen frozen reading files and every original entry/exit freeze remain byte-identical. The historical exit records’ V1 retention references are qualified by this attributable erratum and the separate V2 records, rather than rewritten. Independent source-facing review passed all three V2 replacements/current scopes against the per-unit originals, including unchanged V1 objects, exact source/DOM/ruby and all panel hashes. HAR-U014 remains unopened until this correction is published, fully read back and covered by the required exact-commit integration audit. This is an evidence-packaging correction, with no new source exposure, prediction/revision claim or G2–G6 work.
+
+
+## HAR-U013 and HAR-RET-001 accepted publication
+
+Initial U013 head`198c313b9c4092415a6ead0e61e81bbe589b3550` completed source39007832837→no-childHK39008071984→final39008100059, allSUCCESS/full352tests/selectiondisabled/actualAUDIT_COMMITbinding. Successor source remained closed after the retention defect was found. Forward administrative correction head`fde43d60cb8d4fd55f66761c5c27bea5cde3c320`,tree`4f4d22603578909d9639b1e13be525bd3e69d298`,parent198c313b,preservesmain2daceabab; exact2changed-file fullremote readback/approvedidentity/freshrefs+rules/nonforce/requiredindexpreflightPASS7985. Correction source[39008357822](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39008357822)→no-childHK[39008631158](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39008631158)→final[39008655206](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39008655206) allSUCCESS; actualfinalAUDIT_COMMITfde43d60/full352selectiondisabled/0failures-errors-skips/ANALYTICAL_SOURCEfalse/test117.825s. Exactstatus56583300804SUCCESStargetsfinal; independentmetadatareviewcorroborates. All13readingbytes/originalentry-exitseals/V1bundles retained. U009/U010 independentlycheckedunaffected,zero stalewrong-unitattachments; all34V2locators/nestedunit-witness-member-source-ruby-panelidentities/fullrawreadbacksPASS. Only after complete correction acceptance did U014 entry/source occur. PR190 remainsOPEN/DRAFT; no mainmerge.
+
+## HAR-U014 authored closeout
+
+Actualpreword entry`7381b18b34a7814709d969313fb865780db33a5547468b58dede3f78dfbd127f`,2026-10-17T06:09:26.803389+00:00,binds24before-images,acceptedfde43d60/fullchain/freshrefs/unchangedwitness. [HAR-U014](../01%20Sequential%20Readings/HAR-U014_PART_III_05_DEEP_READING.md) reads complete naturalPartIII05,spine26:5583rawbodycp/111blocks/14ruby/110br/all4actualpanels including heading/finalblanks.12original selectionsroundtrip; originalXML/extraction/recorded+freshDOM/all142bounds/actualJPfontglyphcoveragePASS. BothauthorandisolatedreviewerreadwholeJP/ruby/head/activeCSS/allpanels. Source map owns actualruntime/geometry/caveats. Spine27body/extraction/renderremainsunopened.
+
+NineclaimsCL097–CL105 andseparate3ledgercloseouts:23subjects75actorhistory49directionIDs113relationhistory73readinesshistory80worldIDs105claims0predictions2earlierRV;178evidenceIDs181spans. Sevenexistingactors/readinessandeightolddirectionsappend,eightworldrows. No anonymouscohortbiographies/newreverseMiaha-fatherormotherjudgmentinvented. TwoDOMAIN_BOUNDED/twenty-oneRECOGNITION_ONLY;modelsNOT_STARTED/validationNOT_PERFORMED/architectureINITIALadequate/noG2–G6. Earlierclaimsspeechfrontierspreservedwhilepresentbarrierconfidenceisexplicitlyrequalifiedbynewinsideraccount; norevisiontoapreviouslyunassertedguaranteeisfabricated. Finalinferencealreadyspokenwithinunit,notananalystforecast.
+
+AuthorQA distinguishesparticipantclaimsfromdisplayedpapers/results, mostlyfinishedresearchfromallworkstopping, contingentpreservationfromactualdistribution, overlappingpowerfromuniversalmembership, accessfromuniversalmonitoring, confusedargumentfromconsent, rememberedMiahafromdisavowedimagineddouble, reportedratesfromcensus, onerecruitmentreasonfromcompletemotive, reportedtrialsfromcompleteconsent/custody/survival/results, conjecturednets/abandonmentcausefromfatherconfession, firstselectionangerfromlaterethicalcondemnation, rescueoutcomefromexperimentalpurpose, andTuanfinalconsciousnessinferencefromunprovidedfatherreply. Fullcandidate/locator/cumulativereview,exactcurrent-unitretention,preflight/publication/CIremainseparatelypending.
+
+
+## HAR-U014 private verification retention
+
+`HAR-U014_PRIVATE_SOURCE_VERIFICATION_20261017_V1.zip` retained as privateDrivefile`1gwBBBWh6-ReybeFxd24-OwIZgc3-LRbM`,verifiedcanonicalparent`1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`,shared=false/owner-onlypermissions. FullrawremoteZIPreadbackequals2,193,045bytes/SHA-256`3de6042175c9a576f5442634aa347ed5c9afcff0352ed8f878f5b1fa96f9441a`;safe paths/CRC/exact24entries/all23sourceobjectsize-hashchecksPASS. ManifestSHA-256`0dfd3ded96c458c9570702792d3396729b52d13306ba6fc066f05cb8f2b7e7e4`. Exactcurrentunit/witness/member/sourceSHA/12locators/currentreviewerprojection/freshDOM/font/ruby/all4panelidentitiesindependentlyverified,beyondZIPintegrity. Onlycurrentfaithfulextraction/panels/geometry/ruby/neutralproofs/reproductiontools/factualsourcechecksretained;interpretation/exposure/draft/before-imagestate/latertext/originalduplicates/binaries/cachesexcluded. Originalwitnessunchanged;retentiondoesnotauthenticatepublisherlineage. Finalanalyticalcandidate/count/linkconsistencyreviewandpublicationgatesremainseparate.
+
+
+## HAR-U014 final analytical review and exit seal
+
+Independentwhole-source/semantic/form/name/chronology/barrier-reconciliationQA passed reviewedcandidate34,823bytes/SHA-256`4aa20e94a31f1b9a08888d74ff09b28d37783176f330b0441abd1cfa34bc0d31`. All12original/public/private/neutral locators,125currentledgerlinks,eighthomecounts/sync,13earlierreadingbytesand470priortablerows(450datarows)preserved;all1,359homelinks/1,271anchorsresolve. Finalreading`23ef241a140488295fc9c12178deb39cba5c9da7f15fa3aec03edf968e4b1bbb`differsonlybyadministrativereview_status,reversalverified;nosourcederivedclaim/exitcontentchangedafterreview. ActualexitfreezeSHA-256`f06939bf6988e2ee1effea233e91f1b846d8e1a3c59379c092ad6490c433e5f4`bindsfinalreading/entry/retentionandtruthfulno-nextsource. Requiredcandidateindexpreflight/nonforcepublication/remote-readback/exactsource-HK-finalgatesremainunclaimeduntilactualcompletion.
