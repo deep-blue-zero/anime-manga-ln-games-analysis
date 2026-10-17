@@ -1002,3 +1002,25 @@ This night begins23:21 during both universities' spring break; exact date/year a
 | Readiness | Time-local ordinary negotiation evidence richer; no operational night packet built/tested. Unfamiliar-person/cross-series/acoustic readiness remains unsupported |
 
 S0.14 retains its original adult LN fit/time/UNTESTED/noncurrent identity. This is a separately indexed evidence addendum, not a new operational version or validation.13historicalattempts remain6first-actionfailures(oneinput-qualified)+1exposure-qualifiedgiftmatch+6baseline-ties;5olderclaimforecasts separate/18records. No independent acceptance, numeric accuracy or VALIDATED domain. All-lane reconstruction/reconciliation and evidence-based limitations remain mandatory.
+
+
+## KSS01 historical evidence addendum — a friend's perspective and its limits
+
+**KSS-01 / AUTHOR_RELEASE_CAPTURE-20261017-A1**, source-parts identitySHA`6d5ecea538edf8d5d2aa19f81d30ae252a9637bfe22ccd2945b097b126de3d4f`,unitmapSHA`43bcfae392fd860727aad36c1ce327830b89641b2d0cadd414a7db8230a01610`. The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_01_DEEP_READING.md#observation-locator-index) owns five observations/all95nativeanchors(60nonempty/35blank), two complete author parts16→17,60native checks and6separate original LN08checks. The three frozen PDFderivatives are accounted with one explicit page-break overlap qualification; no false full contiguous-match claim. Platform logo and two later pagebreak crops actually viewed, no narrative illustration or audio certification.
+
+Sendai does not act or speak here. The new evidence concerns the image Maika/Honda construct: reputation, hypothetical work capability/popularity and Maika admitted uncertainty. Do not make an unverified everyone-pleasing label a complete S personality or new speech sample. Later direct friendship with Maika contradicts an earlier observer expectation, not a prediction made by this model.
+
+The actor interval is spring break before high-schoolyear3, exact date/year/numeric ages unprovided. Historical packet timing must not inherit adult motives, later naming/gifts, shared university home or later friendship outcomes. Reader already knows independent LN01–09/fourBW; the prospective first-part freeze nevertheless precedes all second-part narrative. Last precisely located adult M/S-V09-EXIT and separately indexed BW09night remain intact.
+
+| Packet responsibility | Evidence and abstention |
+| --- | --- |
+| Miyagi / messages | Actual暇and after-cram film invitation; Maika actually replies塾にいる. Thread context supports ordinary communication but no full M private state. Final Maika alternate is typed, not expressly delivered or accepted |
+| Maika / observer | Own study promise/play desire and chosen friends, received messages, some close-friend observations. Distant S/Umina knowledge explicitly incomplete; observation/report/conjecture differ |
+| Sendai / absent subject | No new own action, utterance or demonstrated uptake. Maika/Honda reputational expectations do not update S intrinsic beliefs or prove the rumors true |
+| Later clock | C2LN08p013141–151actual Christmas gift dialogue refutes early Maika no-contact expectation. Already-known later outcome never becomes early actor knowledge or heldout validation |
+| Japanese/context | Terse friend messages differ reported face-to-faceお喋り; given-name friend address versus surnameさん;納得しそう/偏見かもしれない/っぽいare qualifications. Final打ち込んだdiffers送った/返した. No verified acoustic delivery |
+| Negative constraints | No completed film/tomorrow plan, verified final reply receipt, source diagnosis of M mood, actual S restaurant job or objective popularity ranking. Source does not supply the central pair's private arrangement to this observer packet |
+| Actor versus analyst | Unprovided calendar or private information limits analyst reconstruction; it does not prove subjects lack their own schedules or unstated lived knowledge |
+| Readiness | Ordinary historical message/observer evidence richer; no operational historical packet/test built. No new S behavior sample. Unfamiliar-person/cross-series/acoustic readiness unchanged/unsupported |
+
+S0.14 retains original adult LN fit/time/UNTESTED/noncurrent identity. This addendum is evidence for later explicitly versioned reconstruction, not a new operational version or validation.13historicalattempts=6first-actionfailures(oneinput-qualified)+1exposure-qualifiedgiftmatch+6baseline-ties;5olderclaimforecasts separate/18records. C2is a retrospectively contradicted character expectation, not new heldout performance. Same-author/evaluator and prior familiarity limits remain; no independent acceptance or numerical accuracy. Full-corpus models/readiness/limitations still mandatory.
