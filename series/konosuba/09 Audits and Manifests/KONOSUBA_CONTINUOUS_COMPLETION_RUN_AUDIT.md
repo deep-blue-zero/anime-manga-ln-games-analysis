@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Main-series analysis accepted through V15; source identity and bibliographic reconciliation cover all 41 initial-snapshot EPUBs; side narrative remains withheld
+source_boundary: Main principal analysis and final checkpoint accepted through V17; evidence freeze in containing transaction; all 41 identities preserved; side narrative and later suite freeze remain gated
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,10 +20,10 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 |---|---|
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
-| Accepted high-water mark | V15 |
-| Current phase | Main-series derivation; Phase 5 checkpoint pending; V13–V15 locally accepted, formal Gen04 tranche OPEN; V15 own publication gate pending |
-| Next canonical operation | Complete V15 publication/readback and source audit → housekeeping → final exact-head success, then separate V13–V15 checkpoint with Gen05 freeze/publication/audit before V16 |
-| Current prospective model | Gen04, derived only from V01–V12 main narrative; Gen03 formal tranche closed, older blocks immutable |
+| Accepted high-water mark | V17 principal and final Gen05 checkpoint; current containing publication pending |
+| Current phase | Final main-principal checkpoint/evidence freeze accepted; CP06 own publication gate pending; specialists/suite/holdouts/expanded program unfinished |
+| Next canonical operation | CP06_PUBLICATION_GATE: own exact publication/readback, source audit → housekeeping → final exact-head success; then reload main-only specialist authority |
+| Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
 | Initial local ordinary reconciliation commit | `a334381e3da75fb7455caf397e8f88d889939cfd` |
@@ -80,8 +80,8 @@ The run's scope is the fixed 41-object inventory and identifiable edition-contai
 |---|---|
 | Live eight-folder/41-object identity and manifest reconciliation | COMPLETE_FOR_DECLARED_METADATA_AND_BYTE_SCOPE |
 | Exact supplied-edition and every narrative-component boundary | OPEN; direct component/colophon inspection remains |
-| Main sequential readings and synchronized ledgers through V17 | OPEN; accepted through V14 principal narrative; V15–V17 remain unread |
-| Gen04, Gen05 and final sequential checkpoint | Gen04 accepted, published/read back and full exact-source CI closed on c1ad78db; V13–V15 tests OPEN. Gen05 and final remain NOT_COMPLETE |
+| Main sequential readings and synchronized ledgers through V17 | ANALYTICALLY_ACCEPTED; V17 exact 4b gate closed; four meaningful CP06 appends/six exact V17 states in evidence freeze; containing CP06 publication pending |
+| Gen04, Gen05 and final sequential checkpoint | CP05/Gen04 formal 6C7P12NT and Gen05 prospective freeze published b4c4c614; final Gen05 adjudication8C6P1F3AMB7NT accepted; own CP06 publication pending |
 | Required main-only specialists, monographs and integrative artifacts | NOT_COMPLETE |
 | Required reconstruction suite and simulation/consistency audit | NOT_COMPLETE |
 | Main-only immutable model-suite freeze | NOT_COMPLETE |
@@ -458,3 +458,14 @@ Root stage04 receipt11,114bytes SHA256 `496b8e4b88966159c6069272b29d41ff5bba39e1
 ## V17 author-preflight and formatting correction — 2026-10-17T11:34:59.649133+00:00
 
 The first final-index preflight rejected the completed run declaration: its comparison-main baseline does not contain the matching active declaration required for terminal admission closure. The ordinary route retains the active authorized run with next operation V17_PUBLICATION_GATE, while principal coverage remains17 and there is no next principal source. This changes no analytical result or source authorization and requires no validator amendment. The same run identified one incorrect relative checkpoint link in this run’s newly authored historical-exposure paragraph; root added the missing parent traversal. The whitespace check separately found exactly one excess final LF in each of seven new public register streams. Root removes only those seven bytes, preserving every complete initial table/catalog with an inverse adding one LF to each source. Original reviewed candidates and failed check outputs remain preserved. These presentation/execution-state repairs require fresh actual-index validation and the full publication gate; no success is presumed.
+
+
+## V17 exact publication reconciliation and separate final-checkpoint acceptance — 2026-10-17T12:10:44.998131+00:00
+
+Exact V17 source 4b4ed3ad265b6d4ec4ca780e634cc7eacceb68fc/tree 3ba2232e228fe2ae589f7b5dc1b624f5ab3ca15a completed full gate 2026-10-17T11:48:41.132341Z. Remote readback verified 8,018 paths and 39 changed streams (26 Kono/13 exact main imports); source 39029390725/job 117386616279, no-op housekeeping 39029733919/job 117387612065 and final 39029757648/job 117387682489 bind the actual source. Both audits passed 352 tests without failure/error/skip; exact status succeeded 11:48:13Z. The default-main displayed SHA is not the audit target. The original source review’s first main 16ed/11-import stage remains historical; final 4b also imported main ef1e. Protected-main integration is not asserted.
+
+Root accepts the concrete final checkpoint, all 25 separate Gen05 formal outcomes 8C/6P/1F/3AMB/7NT, earlier 92 reconciliation and metadata locator readiness after the declared source/semantic receiving. J01 service failure uses PV017+PV079, not mixed Anna/urgent cases; local J01P and all original fields remain. A03C has category/motive limits, K03P retains its strong second adverse candidate, and A02/M05/D02 ambiguity preserves contrary evidence. New 354-unit J02 majority retains all 81 soft cases and all fine disagreements; its pool is distinct from old 354.
+
+Four meaningful checkpoint appends update Character State, Humor, Japanese Voice and Prediction; the other six accepted V17 ledgers stay exact. The 137-member metadata contract resolves nine accepted-chapter continuations while two explicit afterwords remain excluded. Source QA/receiving scopes distinguish 773 targeted early slots/20 windows/13 members from inherited old whole-volume acceptance. Root newly checks ten V05 slots for SP10 intention/operator precision. Sealed candidates, original 92 tables, earlier source reviews and all frozen prospective bytes stay recoverable. The [receiving review](KONOSUBA_V16-V17_CHECKPOINT_RECEIVING_REVIEW.md) and [main-principal evidence receipt](KONOSUBA_MAIN_PRINCIPAL_EVIDENCE_FREEZE.json) give exact identities, actual cutoff and limitations. This evidence freeze does not freeze an unbuilt reconstruction suite or open any holdout.
+
+The containing CP06 publication has not occurred at authorship. Active run/OPEN sequential lock/terminal highwater 17 and next CP06_PUBLICATION_GATE keep the actual new-reading admission invariant coherent without inventing V18 or declaring the entire program completed. After its own full exact-source gate, reload published authority and execute all seven specialists, reconstruction/simulation suite and mandatory pre-holdout suite freeze, four holdouts, all 19 supplemental/17 edition-component/five-mixed-book responsibilities, revisions/qualified secondary models, syntheses/indexes and final substantive audit. All later stages remain unfinished.

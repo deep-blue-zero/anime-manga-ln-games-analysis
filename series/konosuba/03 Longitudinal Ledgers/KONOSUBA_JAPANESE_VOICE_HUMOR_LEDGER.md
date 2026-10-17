@@ -1263,3 +1263,16 @@ Complete additive supporting-register links (existing Humor/Voice ledgers remain
 - [KONOSUBA_V17_VOICE_COMPARISON_PART_01.md](KONOSUBA_V17_VOICE_COMPARISON_PART_01.md).
 - [KONOSUBA_V17_VOICE_COMPARISON_PART_02.md](KONOSUBA_V17_VOICE_COMPARISON_PART_02.md).
 - [KONOSUBA_V17_VOICE_COMPARISON_PART_03.md](KONOSUBA_V17_VOICE_COMPARISON_PART_03.md).
+
+
+**CP06 root adoption — 2026-10-17T12:10:44.998131+00:00.** The following authored contribution is accepted at the final checkpoint. Retained private/proposed/pending wrapper language records its preparation stage, not a currently open analytical decision. Formal outcomes append separately; original freezes, blank fields and V16/V17 local histories remain unchanged. Publication of this containing transaction remains separately gated.
+
+## CP06 proposed service-language failure and preserved mapping limits
+
+Private proposed additive CP06 payload; root acceptance, canonical adoption and checkpoint publication remain pending. Original models, blank fields, initial assignments and V16/V17 local histories stay exact. This is a postcomparison checkpoint adjudication, not another original form assignment or acoustic test.
+
+| Claim and subject | Source / prior appraisal | Actual result or current analytical finding | Evidence class, confidence, transition and limit |
+|---|---|---|---|
+| JV-CP06-01 Aqua service direction | Fixed PV17-017: C1P379–389/390–405; independently preparing 390, buff 397 and task 398. Fixed PV17-079: FP621–630/631–635; actual owned joint procedure 625, turnaway 628 and Eris 630 before Aqua 631. | Support after 391/399 gives enjoyment/torment; remediation after 631/634 gives excuse/bawdy alarm/refusal despite practical Aqua 621/623 baseline. Two distinct full eligible adequate intensified-service opposites meet the unchanged repeated-failure rule. | H1 source/actor/sequence HIGH; primary function MODERATE. REJECT unchanged broad service→practical-directive tendency at proposed J01 F. Actual magic/care remains. No fresh acceptance, performed remedy or morphology prerequisite; source-known endpoint and indirect-appeal alternatives remain explicit. |
+| JV-CP06-02 Qualifiers are not erased to reach two | Anna I1P36/37→38/42; King return FP18/19/41, protective 35, wait 45; PV054 commitment 364→368/371/394. | Anna 38 can indirectly request shorter delay before her coach, so remains MIXED; wait 45 can protect the separation plan, so IV104 remains MIXED/compatible. PV054 remains one clear urgent opposite. Neither is forced into the service count. | PRESERVE all initial P/I judgments, windows, original/local P and the withdrawn urgent-F history. Overlaps and two coders are not extra trials. |
+| JV-CP06-03 Other mappings and source layers | All 428 original views/856 windows, 347 core/adjacent plus 81 auxiliary; full nine-branch checkpoint body. | Preserve specialist/relational/status/duty/dignity/quiet/urgent support and missing belonging/subtype/adequacy tests separately. F631 addresses Eris; Eris 633 requests, Kazuma 635 demands. C3P427 remains untagged. | PRESERVE branch-specific outcomes and evidence classes; OPEN future task-purpose refinements without changing this test. No human/native-speaker, acoustic, independent-trial or universal role-conditioning failure claim. |

@@ -1306,3 +1306,15 @@ Complete additive supporting-register links (existing Humor/Voice ledgers remain
 - [KONOSUBA_V17_VOICE_COMPARISON_PART_01.md](KONOSUBA_V17_VOICE_COMPARISON_PART_01.md).
 - [KONOSUBA_V17_VOICE_COMPARISON_PART_02.md](KONOSUBA_V17_VOICE_COMPARISON_PART_02.md).
 - [KONOSUBA_V17_VOICE_COMPARISON_PART_03.md](KONOSUBA_V17_VOICE_COMPARISON_PART_03.md).
+
+
+**CP06 root adoption — 2026-10-17T12:10:44.998131+00:00.** The following authored contribution is accepted at the final checkpoint. Retained private/proposed/pending wrapper language records its preparation stage, not a currently open analytical decision. Formal outcomes append separately; original freezes, blank fields and V16/V17 local histories remain unchanged. Publication of this containing transaction remains separately gated.
+
+## CP06 proposed complete new V16–V17 portability pool
+
+Private proposed additive CP06 payload; root acceptance, canonical adoption and checkpoint publication remain pending. Original models, blank fields, initial assignments and V16/V17 local histories stay exact. This corpus-level completion does not recode any original episode or equate Japanese texture with pure form dependence.
+
+| Claim and subject | Source / prior appraisal | Actual result or current analytical finding | Evidence class, confidence, transition and limit |
+|---|---|---|---|
+| HM-CP06-01 Complete Gen05 whole-premise pool | V16 fixed 175 and V17 fixed 179; both complete original assignment histories; volume registers and CP06 MG05-J02. All 682 original discoveries and 81 soft-touched units retained. | N354 =351 clear portable L0–L2 +1 clear L3 +2 unresolved. Lower 351>177; upper 353. Proposed J02 CONFIRMED under the unchanged strict-majority rule, even assigning both unresolved nonportable. | Corpus coding record, not a new H1 character act. HIGH arithmetic, MODERATE segmentation/portability generalization. STRENGTHEN bounded majority; no prediction-accuracy, reliability or actual translation-quality claim. |
+| HM-CP06-02 Contrary and unresolved form dependence | U16-054 clear L3; U16-083 and U17-145 unresolved; all fine labels/rationales/nested forms retained. V16 exact fine 110 agreement/65 difference; V17 100/79. | Combined 210 fine agreements/144 differences are descriptive. Removing touched scopes is sensitivity only; no post-code denominator or episode-boundary change. | PRESERVE source-language texture, clear L3 and mixed alternatives. Do not borrow classifications from old Gen03 N354 or Gen04 N496, or claim portable means wording irrelevant. Local J02 P remains history; this is a separate completed-pool proposal. |
