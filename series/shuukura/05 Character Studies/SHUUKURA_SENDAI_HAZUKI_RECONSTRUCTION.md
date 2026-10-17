@@ -309,3 +309,109 @@ A future test freezes model/hash, situation prelude, subject-only packet, altern
 All challenge families present in the source were inspected: ordinary tasks, refusal/negotiation, public/private contrast, conflicting motives, information asymmetry and temporal changes. Most are retrospective evidence, not preregistered tests. The actual prospective cases above alone can bear their narrow action scores. Earlier three malformed-input reviews remain interface checks of inherited constraints; they are not repeated here as new behavioral successes.
 
 Readiness domains remain separate: source-consistent ordinary interaction reconstruction is provisional and time-bound; time-specific conversational reconstruction is limited to evidenced familiar nonsexual contexts; causal counterfactuals, unfamiliar people and cross-series transfer are INSUFFICIENT for validated use. No demonstrated acoustic or sexualized simulation domain exists. Current exit version has zero held-out cases. Any independent semantic acceptance still requires a suitably authorized reviewer/surface and a frozen full packet, not a claim that author self-review is independent. Literary monographs/specialists remain separate future deliverables.
+
+
+## V05 transaction append — explicit version/state selection and preserved test history
+
+The preceding complete file is a preserved historical prefix, not the latest packet by default. The original front matter describes its first noncurrent candidate and is retained with the frozen content. **Every use must select an explicit model, witness and time state. No version here is independently accepted, validated, or literary evidence.** Current authority flags remain draft/noncurrent; source observations and claims live in their canonical reading/ledgers. This append is authored semantic review, not independent acceptance.
+
+Admitted fit: Japanese LN01–05, ACQUIRED-20261017-A1. V05 source SHA-256 `dccc06e60cf26f2a443839a4f1e8ba3ed918808ffd7f649aa4f8a9a5c8ccbdab`; locator `ff4600a74fa3e9aa855562589d99d174de00ad619a87f3bec25932c624506cec`, Drive admission package `1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju`. V05 O### means `LN-JP-V05-O###` in the [complete reading and locator index](../02%20Sequential%20Readings/SHUUKURA_V2_LN_V05_DEEP_READING.md#observation-locator-index-and-shared-field-contract). Earlier OIDs require their explicit volume. Late move-day interlude/bonus are revealed training evidence at exit, not earlier test input. No web/supplement/V1 findings or future V06 events enter fit.
+
+This is a nonsexual behavioral reasoning candidate. Intimate source material is analyzed critically in the reading, not converted into sexual-response policies, erotic dialogue, coercive enactment or sexualized simulation. Minor-pupil context is exclusively ordinary professional teaching. No clinical diagnosis, acoustic imitation, arbitrary-stranger competence, causal counterfactual performance or cross-series readiness is claimed.
+
+
+| Model / state | Use and actual test status |
+| --- | --- |
+| Original S0.1 / V02 boundary | Two historical cases: first-reply topic prediction FAILED; tie decision supported with gift-preview qualification and baseline tie |
+| LN03-M0.2 / S-V03-EXIT | Historical exit, zero cases |
+| LN04-P126-M0.3 / S-V04-JAN-P126 | ONE ordinary cooking-decision action support, also matched by literal request compliance; other dimensions nondiscriminating |
+| LN04-EXIT-M0.4 / S-V04-EXIT | Historical March/pre-move packet, zero cases; whole preceding file hash preserved |
+| **LN05-P194-M0.5 / S-V05-APRIL-P194** | Explicit new time/input state with unchanged S01.4–S14.4 policies; ONE first privacy-decision case, narrow action match also baseline |
+| **SHUUKURA-SENDAI-LN05-EXIT-M0.6 / S-V05-EXIT** | New late-May Monday candidate, ZERO held-out cases; all revealed V05 including S0.5 outcome is fit only |
+
+### Actual S0.5 frozen record — preserved verbatim
+
+The following4,562bytes have SHA-256 `268aace794a85b4f6c6be233e745f968e37fc2d823287bc4112dd6fa9dddce63`; the frozen whole journal THROUGH THIS RECORD, before the outcome, hashes to `9ee87ab555cdf002ce468698ca11a6835cd9763a50de0395e656275ab25e2f72`. Frozen2026-10-17T08:41:41.598502+00:00 before image195/p-004p195 onward. It is not retrospectively altered to incorporate later Mprivate reports or Sroom-entry temptation. Base whole-file0.4SHA `9640c067416aee87c5f103b97f48c3e9ad4535fa8a8610285db678d9f73e1b1d`.
+
+
+### Frozen time/input revision and privacy-rule test BEFORE image195/p-004 p195
+
+Model **SHUUKURA-SENDAI-LN05-P194-M0.5**, state **S-V05-APRIL-P194**, base LN04-EXIT-M0.4 wholefileSHA 9640c067416aee87c5f103b97f48c3e9ad4535fa8a8610285db678d9f73e1b1d. Existing S01.4–S14.4 policies/contract unchanged; this is an explicit state/information/applicability revision before a new source outcome. The old postgrad/pre-move packet cannot be silently used after actual move/college entry. All V01–V04 plus V05p1–194 are revealed input/fit, not performance of0.5. Current version zero cases, draft_noncurrent/no independent acceptance/validated domains. Nonsexual ordinary PRIVATE-ROOMENTRY negotiation only, no intimate-action simulation.
+
+Eight query fields: subject=Sendai Hazuki; witness_revision=LN/ACQUIRED-20261017-A1/source dccc06e60cf26f2a443839a4f1e8ba3ed918808ffd7f649aa4f8a9a5c8ccbdab/map ff4600a74fa3e9aa855562589d99d174de00ad619a87f3bec25932c624506cec; time_state_id=S-V05-APRIL-P194; situation=firstjointordinaryhouseholdruleconversationatdinnertable/Mproposesnotenterprivate rooms勝手に afterSasksjointdiscussion; interlocutor_ids=Miyagi Shiori; public_private_context=sharedDK/newhome/earlyAprilSaturdaybeforecourseregistrationdone; available_options=acceptmutualprivacy/no-unpermitted-entry, reject, carveoutunilateralentry, askclarification, defer/unresolved; information_packet below.
+
+KNOWN: owncompletedmove/universitystart/expectedfouryears, nofee/no newbodyrights, hasNOTenteredMnewroom, Mstatedpendantneedn'twear, nokisssincemovie, ownSdislikesodaactual/currentoldfrenchtoastmemory, sparsecommonconversation/lackkettle/sharedtable, MhasMaikaappointment/actualreturnsdinnertimebread, MclaimsMaikatoldhousing/Sdoubtsnotknownfalse, ownjealousunreasonablebreadcomplaint/selfcorrection, ownforcible-choiceselfaccount/nowresponsibilityframe/rulesrulerproposal, Mdelegates/Selicitsdiscussionusinghypotheticalkiss/Mobjectsreturnsseat, Mexactno勝手-roomentryproposal193. BELIEVED: needordinarynegotiateddistance/newform/currenttoo-closetoofarsense; Mmayalsouncomfortableinnewhouse(Sinference), MmayhavenottoldMaika(Sdoubt). SUSPECTED: exactMprivate-roomcontents/motivesstillunknown; MdeparturesmayavoidSbutnotobjectivecompletecause. CONCEALED: Sownwishmorecontact/entry, selfimposedhungerpressure/jealousMaikathewaysheselfnarrates, oldonly-Mchocolatebatchtruth. MISBELIEVED: no objectiveproofcurrentMaika-toldassertionfalse; preserveSdoubtasdoubt, priorexpectedpendantask/ordinaryfeedingwrongstillknownfitnotgeneralized. UNAVAILABLE: MprivateAprilthoughts/newpeersactualMaikareaction/p195+orimage195, future agreedrules; no Mparent/exam/memorysourceaccessunlessactuallyheard. No V1/web/otherlanes. ActorSpreludeownnarrationlegitimateowninformation, evaluatorMfuturethoughtpacketempty.
+
+**PRED-LN-JP-V05-001 / TEST-SENDAI-LN05-001**: tentative preferred firstDECISION **accepts mutual privacy restriction against unpermitted private-room entry**, possiblywithordinaryreciprocity('myroomtoo')orclarification. S06.4actualbed-territoryretreat/packinghelpnoandS14.4currentneedcoordinatingprivacyplusownNEWexplicitrules-for-distancecueoutweighwishunrestrictedentry. CountercasesS13.4unilateralplanningandcurrentwantenterMroomallowcrediblealternatecountercondition/refusal. ExactfuturewordingNOTpredicted/no numericalprobability.
+
+CutoffFIRSTexplicitacceptance/refusal/materialcounterproposal/deferralafternativep194, orscene/chapterbreakifunresolved. Clarifyingquestionaloneisnotadecision. Reciprocal equalno-entryrestrictioncountsacceptingmutualrulebecauseproposalconcernssharedlife/rooms; unilateralcarveoutallowingentrywithoutownerassent, flatrejection, orpostponementCONTRADICTSpreferredaction. Merelyhearingnotacceptance; silencebeforebreakUNTESTABLE. IfMwithdrawsorchangesruleBEFORESdecision,UNTESTABLEinsteadlaterrescue. Nolaterfriendlyroomvisitcanrescoreanearlierrefusal.
+
+Compareliteral-proposal-compliancebaselineALSOaccepts (noperformancesuperiorityevenifmatches)andcoarseoldpaid-role/access-baselinewouldresistlosingentry. Separateaction,source-statedmotivation,interlocutorconditioning,register/disclosure,epistemicfidelity; onlydiscriminatingevidenceearnsresult,motivecanbejudgedifSownnarrationsuppliesit, noundisclosedothermindgrounds. Broadnewrules/cohabitationadvertised/TOCtitleEXPOSED; exactordinaryprivate-roomdecisionandimage195UNSEEN, latentfamiliarityunprovable/sameauthorandevaluator. No blindcreditforwholerulemakingphaseorbodymodificationexposedpreviews. Freezeactualcontradictionratherthanreinterpretbroadacceptancetofit.
+
+
+### TEST-SENDAI-LN05-001 / PRED-LN-JP-V05-001 — adjudication and exposure audit
+
+Original image195 only depicts conversation/bread, no explicit decision. **p-004p196 is the FIRST EXPLICIT DECISION**, accepting the proposal without carveout/extra entry price/defer. The frozen rubric counts ordinary reciprocity as acceptance and would have failed refusal, unilateral exception or postponement. Actual result **SUPPORTED action narrowly**, not a second test of all household rules. Later abstention or room invitations cannot rescore the cutoff or prove the original motivation.
+
+| Dimension | Disposition / identifiable evidence and limit |
+| --- | --- |
+| Action class | SUPPORTED first decision, V05O008/p-004p196 |
+| Motivation | NONDISCRIMINATING: actual acceptance does not identify a uniquely discriminating causal policy; later private temptation is fit only |
+| Interlocutor conditioning | NONDISCRIMINATING: no matched alternative recipient in test |
+| Register/disclosure | NONDISCRIMINATING for frozen action rubric; actual wording not a uniquely predicted generated line |
+| Epistemic fidelity | NONDISCRIMINATING: absence of a visible impossible knowledge error is not independent validation |
+| Simple baselines | Literal proposal compliance ALSO matches; old access-preservation baseline wrong locally. No model superiority |
+| Contamination and acceptance | Broad new rules/cohabitation/preview known, exact first privacy decision and image195 unseen at freeze; original chronological notes and record hashes retained. Same author/evaluator; latent pretrained familiarity unprovable. No independent semantic acceptance/domain validation |
+
+S0.5 has ONE author-run case with the above limited result. S0.1's earlier failure and exposure qualification, S0.3's baseline-matched result, and all prior zero-at-creation states remain unchanged. Four historical Sendai cases are not a context-free accuracy percentage. Total principal-model cases FIVE, including one failed Miyagi case; five older claim forecasts are separate.
+
+## SHUUKURA-SENDAI-LN05-EXIT-M0.6 / S-V05-EXIT — provisional operational packet
+
+Time: Monday after the late-May Sunday meal/new encounter, after observing Miyagi's absence and receiving tonight-away notice, as shown in final message illustration. Her private postmessage response is not narrated and must not be fabricated. Prior S0.5 is early-April rules conversation; prior S0.4 is before the move, so neither can silently serve this terminal state. Current actor has actually moved, attended university and begun tutoring; parent support still supplies living costs. All V05 is now revealed fit; **zero held-out tests for0.6**. Actual reviewer is the same authoring assistant, not independent acceptance.
+
+Eight required query fields: `subject=SENDAI_HAZUKI`; exact `witness_revision=LN/ACQUIRED-20261017-A1`; `time_state_id=S-V05-EXIT`; specified nonsexual `situation`, `interlocutor_ids`, `public_private_context`, `available_options`, and six-category `information_packet`. Unknown interlocutor history/options remain unknown. Dependencies are V05 reading/four ledgers0.6 and governing method/architecture/reconstruction0.2/I1. No source-admission or future-reading authority follows from a candidate packet.
+
+| Information category | Subject-available packet and provenance |
+| --- | --- |
+| known | Own actual move/college/home rooms/parents living support/bed savings, Mparent half repayment and retained fund; Mfouryear assent and current rule words/meal practices; has NOT entered Mnewroom; Mvisited own room/accepted skirt/actual doria and Sunday meal; own job introduction/acceptance/first pupil/full ordinary lesson, proposed review and quitNO/continued job; own dreams/general eyeavoidance pattern and personal preferences; own recent actions/uncertainty; Mabsent morning/minimum tonight notice received. O002–012/O026–033/O043–053/O065–079/O088–097/O104 |
+| believed | Wants Mcompany/ordinary home and more recognition, feared departure; thought roommate definition could preserve term regardless changed behavior, now uneasy skipped order. Felt studs as special personal change while knowing not actual ownership; hopes signs aid memory. Actor beliefs not objective entitlements or all-Mreason knowledge |
+| suspected | Mdispleasure may concern tutoring; Mgreater nearness/obedience unfamiliar; some covers doubtful. Exact cause/location of absence and what M currently feels not known. Lack of strong physical resistance and arousal were actor inferences, not permissible analyst rules for consent or mindreading |
+| concealed_by_subject | Full dreams and internal eyeavoidance cause, full family comparison/sister judgments, wishes for command-familiarity/penalty, only-Mchocolate batch, several private future-buffer reasons for earnings. Professional pupil hears ordinary friend cover instead of full Mhistory. Mio introduction details not automatically shared with M |
+| misbelieved / corrected or uncertain | Earlier anticipations of ordinary feeding/wished-for pendant request failed; actual Msometimes invites/accepts differently from pessimistic forecast. Roommate definition does not mutually settle bodily permissions. Own interpreted trust/silent assent and mark-caused impossibility to go out exceed what is established; concealment was possible. No claim all self-evaluations false |
+| unavailable | Mnearlyhalf Maika-outing lies, relative/falsevisitorcover/canceled prior friend plan, full parental/memory/exam motives, newprivate-roomobject positions, exact birthday day, full role-specific tutoring self-analysis, full private account of chosen pleasure/timing pressure and present Maika refuge. Image/message does not reveal her unspoken reason. No V06+/web/supplement/V1 revelation, no arbitrary pupil psychology |
+
+### Conditional policies S0.6, evidence and material countercases
+
+| Rule / revision | Nonsexual operational tendency | Evidence, countercase and abstention |
+| --- | --- | --- |
+| S01.6 update S01.4 | Wants continued company/reasons for interaction after fee ends; can use ordinary household tasks or pretexts | O005–012/O027–029/O043/O072/O084–087; counter work/own commitments and Mrefusal. No invented ¥5000 payment or universal obedience |
+| S02.6 extend S02.4 | Accepted ordinary tasks can receive real preparation/clarification, with limits in ingredients, competence and fatigue | O021/O027/O032/O060/O072–074; counter packaged stew and need to research hamburg; no perfect cook/expert all subjects |
+| S03.6 qualify S03.4 | Particular Mrequest can change own plan, but refusal remains possible for consequential independent domain | O074/O079; counter repeated pressured concessions. JobNO is source-fit specific, not guarantee every future priority |
+| S04.6 extend S04.4 | Clarification/explicit proposal often matters; distinguish first reply, first decision and actual performance | O008/O032–033/O037/O073; counter direct acceptancep196 and unsolicited pretexts. S0.5 one baseline-matched case, no broad validation |
+| S05.6 extend S05.4 | Ordinary social speech can be tactful, frank, or specifically covered according to recipient | O031/O066/O070–071/O088; counter new false weather and pupil friend cover. Not all courtesy false/onlyM true-self law |
+| S06.6 qualify S06.4 | Actual private-room/changing restraint coexists with repeated other refusal failures; compliance cannot be inferred globally | O028–029/O088 versus O040/O057/O063/O095; critical account only, no coercive/sexual enactment. No arousal/silence/lack-force permission heuristic |
+| S07.6 extend S07.4 | Seeks information directly or through pretext and may stop inquiry to retain company | O027–029/O044/O078–079/O084–087; counter hidden Mcauses remain unknown. No automatic Mprivate narrative access |
+| S08.6 update S08.4 | Friends and work retain real independent roles; extensive highschool social management no longer desired | O030–031/O066/O070–074; counter chooses Mcompany at review cost. One frank Mio exchange does not validate all unfamiliar people |
+| S09.6 update S09.4 | Actual household/college now, independent work/savings for future uncertain employment/housing; four years not forever | O002/O030/O065–074/O079–083; counter parentfunding persists. No pre-move state reuse or confirmed future career |
+| S10.6 preserve bounded S10.4 | Old illness care evidence does not define current state as ill or justify medical model | Prior V03care account; current O070–074 first-job fatigue not disease. Abstain clinical inference |
+| S11.6 update S11.4 | Objects and money can preserve/transform reasons and traces; original compensation recognized even when labeled joint | O011/O041/O050/O067/O088; counter Mownership dispute, pendantwear retired, exact legal balance absent. No Mprivate object knowledge |
+| S12.6 extend S12.4 | Accurate observation and particular suspicion can coexist with false other-mind certainty; sensory access leaves motives incomplete | O044/O052/O075–079/O092–104; counter direct questions/accepted words close some gaps. No body-based consent inference or exact absence-cause prediction |
+| S13.6 qualify S13.4 | Earlier unilateral housing choice was forceful and not certain to succeed; do not generalize it as an effective strategy | O005/O067 versus current roomprivacy/actualcoordination O008/O088. No credible-veto performance or recommended manipulative scenario |
+| S14.6 extend S14.4 | Can negotiate practical privacy/routines after earlier unilateral action, including accepting unpermitted-entry restriction | O007–010/O027–029/O088/O108; counter pressure in kettle/color/makeup choices. S0.5acceptance known fit now, no new0.6test |
+| S15.6 new, thin | In a new professional pupil setting, nervousness, careful ordinary questions and bounded self-presentation accompany useful study support | O070–074; counter one already capable pupil/one observed firstlesson. No general unfamiliar-person skill, grade-causality or independent predictive validity |
+
+### Output, expectations and current readiness
+
+Output must identify applicable state/domain, allowed facts, salient cues, preferred and alternative ordinary response families, disclosure/register tendencies, uncertainty and rules/countercases. An ordinary household scheduling uncertainty may motivate a direct information request or practical invitation; withdrawal/defer is also plausible when the context changes. This is an **untested expectation**, not a prediction of V06's advertised absence or an invented actual message. In a pupil setting use only professional source-supported discussion; new task competence should be checked rather than assumed from being bright.
+
+Miyagi's unresolved absence does not allow a query to specify her true location or cause as Sendai knowledge. Future-contaminated packets, invented pupil psychology, unsupported exact skills and arbitrary-crossover familiarity require rejection/abstention. Prior interface controls remain historical; these constraints are not falsely counted as fresh successful validation cases.
+
+| Practical use domain | Current readiness and limit |
+| --- | --- |
+| Source-consistent nonsexual familiar interaction reconstruction | Provisional source-fit candidate; no independent acceptance |
+| Time-specific conversational simulation | Source-based Japanese register/disclosure hypotheses; no exact-line/acoustic validation |
+| Counterfactual exploration | Causal transfer unsupported; exploratory only/abstain |
+| Unfamiliar people | EMERGING descriptive fit from one pupil/parent situation, INSUFFICIENT predictive validity |
+| Cross-series scenarios | INSUFFICIENT; no scenario/transfer case performed |
+
+No numerical accuracy or overall validated model. One new ordinary action match does not cure two historical action failures, gift exposure, nondiscriminating dimensions or baseline ties. Literary monograph and full-domain acceptance remain separate later requirements.
