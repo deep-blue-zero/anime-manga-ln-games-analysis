@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "SHUUKURA-V2-20261017-I1; preserved pre-reading admission and V01 complete-unit checkpoint"
+source_boundary: "SHUUKURA-V2-20261017-I1; preserved admission/V01 freeze, verified V01 publication and V02 complete-unit checkpoint"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: V01_SOURCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
+review_status: V02_SOURCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -97,3 +97,42 @@ This appended checkpoint supersedes the operational zero-reading state of the hi
 | Run state / next authorized operation | active / LN-JP-V02 after complete V01 commit verification. Verify source/locators and freeze V02 entering knowledge before inspection; no ordinary-unit confirmation |
 
 All substantive candidate hashes are recorded in the unit audit. Later evidence revises current homes through stable versions and attributable errata; it does not edit accepted source-order freezes. Unit completion does not complete the authorized run or waive monographs, specialists, reconstruction, V1 comparison, integrated synthesis, source recovery or final release gates.
+
+
+## Verified V01 publication and reconciliation before V02
+
+V01 transaction commit `f632bb9ee97e2af87c0388fb19d8bfea7268688c`, tree `5ceae89ec40eca976a2b537c0e64489b4325b0c2`, is preserved on stable series/shuukura. [PR197](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/197) merged it as main `2daceabab58af01e29d27d05bfcfa43d17a667d5`, with prior base `c1daedff530415ffab8e9c6009563df64966de15`. Source and integration whole-repository trees were verified identical. No source-side or main-side post-snapshot content change existed at V02 reconciliation. Ordinary merge `174ba053289018b45348aa376f8a68f6ff5380d4` retains both histories with that same tree; no forced push, squash-history rewrite or unverified file-side selection occurred.
+
+| Publication stage | Exact verified evidence |
+| --- | --- |
+| V01 source audit | [39006857829](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39006857829), success, sourcef632bb9e |
+| Housekeeping | [39007126068](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39007126068), completed/success, no-op; actual SOURCE_SHA and final audit dispatch verified |
+| Final exact source-head audit | [39007148103](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39007148103), success; actual status targetf632bb9e, not dispatch metadata's displayed main |
+| Existing nightly integration | [39007417390](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39007417390), success/merged_verified, sourcef632bb9e/basec1daedff/main2daceaba |
+| Main push audit | [39007475516](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39007475516), success on2daceaba |
+| Explicit post-merge audit/status | [39007488123](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39007488123), repository_dispatch completed/success on exact2daceaba; current successful Repository integration audit status targets this run |
+
+V01 Git transaction is CLOSED_ON_GREEN_MAIN. All exact IDs above are publication provenance, not literary evidence. The earlier checkpoint's then-pending wording remains historical and unchanged. V02 preparation began while permitted checks ran, and no next tranche was pushed before closure.
+
+## Durable checkpoint after V02
+
+This transaction is **SHUUKURA-TX-LN-JP-V02-20261017-A1**. The [unit audit](SHUUKURA_V2_LN_V02_TRANSACTION_AUDIT.md) binds candidate artifacts; recover the complete introducing commit/tree and actual audit targets after interruption. A drafted reading or this candidate checkpoint alone does not advance V01's previously committed high-water. Never replay an ambiguous successful commit/push without inspecting actual refs.
+
+| Recoverable field | State after complete introducing V02 commit |
+| --- | --- |
+| Authorized boundary / mode | Active continuous_sequential through unchanged SHUUKURA-V2-20261017-I1 and all required later outputs; startV01, no ordinary confirmations |
+| Exact repository recovery | V01 sourcef632bb9ee97e2af87c0388fb19d8bfea7268688c / merged main2daceabab58af01e29d27d05bfcfa43d17a667d5 verified. Pre-V02 ordinary reconciliation174ba053289018b45348aa376f8a68f6ff5380d4, identicaltree5ceae89ec40eca976a2b537c0e64489b4325b0c2. Resolve this transaction's introducing commit from Git and verify its exact tree/audits; no self-referential future hash fabricated |
+| Governing versions | Method/architecture/reconstruction0.2; source/current0.6; four ledgers0.3; checkpoint0.3; I1 JSON/hash and ordered458identitydigest unchanged |
+| Witness and native locators | LN-JP-V02 / ACQUIRED-20261017-A1 / Drive1ADJHmHeOoqWm28fOwz_RqUzpBpKoEOwG / source6e2fe3a2905dab5be2d1653b7821a77746b684e1a3cd13e4f5a5e6421719d86e; locatorf6ab1c514c0dc9ba59fb31c5a08e8e20ef0497d3d6d37ab89bf8c652f862c19c in verified Drive package1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju |
+| Actual source inspection | All27spines/4036nativeparagraph anchors/19original images; all514ruby elements mapped; no uninspected body text outside paragraph/image flow. Chapter9p1–33 truncated delivery redelivered before image34, no skipped interval/order defect |
+| Lane high-water / counts | LN-JP-V02,2/9; supplementsNONE,0/18; KakuyomuNONE,0/431; Narō correspondenceNONE,0/290; available2/458. No comprehensive completion or milestone reached |
+| Frozen prospective states | EnterSHUUKURA-LN02-ENTER-20261017-A1, previouscommitf632bb9e and five input hashes; original pre-exposure notehash8541e75e60a2f4b26ad5fe67eaf73117795b3c776725ade4a2c687d7189c336d. Original journalSHA b0ee85c4f7d873ef32c65ae0cd4db7d255bb6d8d2142f9f08318f5461335d732 retained verbatim. F0–F12; exitSHUUKURA-LN02-EXIT-20261017-A1. Latest eventSeptember, later June/July disclosure separate |
+| Current cumulative states | M-V02-EXIT / S-V02-EXIT; DIR-LN-JP-V02-M_TO_S-v1/S_TO_M-v1/SOCIAL-v1;22new character events,20new relational events,20new access events,13new tensions,25propositionversion rows and17ruleversion rows. Eighteen cumulative claimidentities/35formulations, five narrow claimforecasts |
+| Forecast and reconstruction limit | Both new action forecasts CONTRADICTED; home-decision privacy SUPPORTED only firstdecisionexchange. Later release/disclosures do not rescue. Zero operational models/validated domains; STRONG limited candidate-description readiness not general simulation acceptance |
+| Live source/analytical uncertainty | Personal prohibition enforcement, practical full exit, shared category, future graduation outcome, unshared family/education intentions, some causal accounts, parent-return omitted referent and minor weather detail discrepancy. No future or private knowledge injected |
+| Required blockers / later phases |51unavailable source identities,27discovery obligations,290Narō correspondence checks and voice-story/modality gaps remain; no optionalization. Continue independent LN, later frozen sources and all required reconciliation/monograph/specialist/model/V1/integrated/release work |
+| Exposure quarantine | No V03+, external supplemental or web narrative; no substantive V1 interpretation. Reconnaissance/frontispiece outcomes excluded from blind prediction credit; no certified absence of latent familiarity |
+| Publication state | V01 closed green main as above. This new V02 exact candidate requires its own authorpreflight, approvedidentity, live ruleset/heads check, sourceaudit, completedhousekeeping/finalexactaudit, eligible existingnightly and explicit main audit before Gitclosure |
+| Milestones / next operation | Active; nextcandidate and nextpermitted both LN-JP-V03 after verifying this complete commit. LN reviews3/5/7/9; available115/229/344/458; independent supplement/web counts retained. No future releases admitted |
+
+Revision0.3: append V01's verified public closure and V02's complete atomic recovery record. Original V01 entering freeze, all earlier checkpoints and accepted readings remain byte-preserved. The continuous program remains active; completion of V02 is not a stopping instruction.
