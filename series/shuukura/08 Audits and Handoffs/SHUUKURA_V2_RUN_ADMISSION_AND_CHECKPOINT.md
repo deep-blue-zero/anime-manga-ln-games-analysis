@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "SHUUKURA-V2-20261017-I1; pre-reading V01 entering freeze"
+source_boundary: "SHUUKURA-V2-20261017-I1; preserved pre-reading admission and V01 complete-unit checkpoint"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: ADMISSION_VERIFIED_NARRATIVE_TRANSACTION_NOT_STARTED
+review_status: V01_SOURCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -74,3 +74,26 @@ This block is fixed before the first narrative paragraph/image is inspected. Pre
 ## Durable checkpoint at admission
 
 Committed narrative high-water marks: **LN NONE; supplements NONE; Kakuyomu NONE; Narō correspondence NONE**. Run active; next candidate **LN-JP-V01**. An entering freeze is not a completed transaction. Administrative repository validation/publication results are recorded with the resulting exact commit and provider audit, then preserved in the next checkpoint. No accepted prospective reading exists yet to rewrite.
+
+
+## Durable checkpoint after V01
+
+This appended checkpoint supersedes the operational zero-reading state of the historical admission checkpoint, without changing the frozen V01 entering block or its evidence. Transaction **SHUUKURA-TX-LN-JP-V01-20261017-A1** contains the complete reading, all four ledger deltas, source coverage/current route and [unit audit](SHUUKURA_V2_LN_V01_TRANSACTION_AUDIT.md). Recover its exact introducing Git commit/tree rather than using this file's own historical wording as proof of a successful commit. If an interruption occurs before that complete commit exists, committed high-water is stillNONE and the staged candidate must be inspected before retrying; do not reread or duplicate completed working observations.
+
+| Recoverable field | State after complete introducing V01 commit |
+| --- | --- |
+| Authorization / terminal boundary | continuous_sequential through unchanged SHUUKURA-V2-20261017-I1, then every required analytical/release output; no later publication automatically admitted |
+| Exact durable repository identity | Git commit introducing SHUUKURA-TX-LN-JP-V01-20261017-A1 on series/shuukura; resolve/read actual commit, parents, tree and audit target. Its pre-unit source5fa614545463613d21a4577fe0726dec23a29599 and mainc1daedff530415ffab8e9c6009563df64966de15 are exact verified prior states, not this unit's result |
+| Publication boundary | Admission PR196/source/housekeeping/final/nightly/main audit sequence verified; this unit's newly created head requires its own exact-head checks and later main audit. Provider run/status targets are authoritative for that commit; no not-yet-existing hash/run fabricated |
+| Governing versions | Method/architecture/reconstruction0.2; source/current0.5; four ledgers0.2; exact frozen I1 JSON unchanged |
+| Source identities / hashes / locators | V01 original375f9ff926f49c2db7c5cfda9bb4ea027acf3594b265c589c64d15cf3453bd63; locatorf5028d390cdbf9a5d700bbca91d176f312ae0a48cbb6c5f9de75fc65aa68f00f in verified Drive admission package1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju; all later exact identities remain I1 |
+| Lane-specific high-water | LN-JP-V01; external supplementsNONE; KakuyomuNONE; Narō correspondenceNONE. Counts1/9,0/18,0/431,0/290; available set1/458, not comprehensive completion |
+| Frozen prospective memory | Enter SHUUKURA-LN01-ENTER-20261017-A1; F0–F12 in accepted V01 reading; exit SHUUKURA-LN01-EXIT-20261017-A1. F11 latest event state excludes F12's later disclosed origin. Chapter4 local order-recovery limitation retained |
+| Current longitudinal memory | M-V01-EXIT / S-V01-EXIT, two directional states and social projection;17 proposition/access events;12 claims/17 versions; three actual bounded forecast outcomes. No operational model or validated domain |
+| Live uncertainty | Practical exit, positive shared category, final Miyagi kiss interpretation, formal undressing-clause ratification, future school-boundary enforcement and exact motives behind some actions; no omniscient agreement manufactured |
+| V1 / source-exposure controls | V1 substantive analyses still UNREAD; later narrative metadata/promotions not actor knowledge; no V02/web/external-supplement source exposure. Prediction scores not upgraded by later evidence |
+| Blockers / future obligations |51 unavailable source identities,27 bounded discovery records,290 Narō correspondence checks, full voice-story source and modality capability; these block corresponding later comprehensive claims while unrelated LN work proceeds |
+| Publication milestones | No quarter boundary reached; available set115/229/344/458 and LN3/5/7/9 remain future reviews. This first complete unit publishes earlier progress |
+| Run state / next authorized operation | active / LN-JP-V02 after complete V01 commit verification. Verify source/locators and freeze V02 entering knowledge before inspection; no ordinary-unit confirmation |
+
+All substantive candidate hashes are recorded in the unit audit. Later evidence revises current homes through stable versions and attributable errata; it does not edit accepted source-order freezes. Unit completion does not complete the authorized run or waive monographs, specialists, reconstruction, V1 comparison, integrated synthesis, source recovery or final release gates.
