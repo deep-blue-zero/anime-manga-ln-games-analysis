@@ -5,7 +5,10 @@ scope: YUKINOSHITA_YUKINO_V01-V14.5
 character: YUKINOSHITA_YUKINO
 generation: V2
 status: canonical
+supersedes: []
+superseded_by: []
 phase: 8.5
+suite_audit: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 canonical_name: OREGAIRU_V2_CHAR_YUKINO_RECONSTRUCTION_MODEL.md
 source_boundary: "Japanese-primary mainline Volumes 1-14 plus canonical .5 material through 14.5; derived V2 corpus through Document 14; targeted register/behavior verification plus systematic V01-V14.5 everyday-life/preferences primary-source pass"
 authority_class: derived_use_model
@@ -23,10 +26,11 @@ formal_synthesis: 11_JAPANESE_VOICE_NARRATIVE_STYLE_COMEDY_AND_INTERTEXTUALITY.m
 full_series_context: 14_OREGAIRU_FULL_SERIES_SYNTHESIS.md
 everyday_life_ledger: OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md
 everyday_life_ledger_rows: ELP-YUK-001--ELP-YUK-070
-revision: "1.1_everyday_life_augmentation"
+revision: "1.2_phase8_5_suite_audit_corrections"
+revised: "2026-10-16"
 primary_source_escalation: targeted_register_behavior_plus_systematic_everyday_life
 created: "2026-08-19"
-next_artifact: OREGAIRU_V2_CHAR_YUI_RECONSTRUCTION_MODEL.md (everyday-life augmentation); Iroha remains next not-yet-built reconstruction model
+next_artifact: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 ---
 
 # OREGAIRU V2 — Yukinoshita Yukino Reconstruction Model
@@ -93,6 +97,8 @@ Yukino’s temperament is highly stable, but her practiced authorship, tolerance
 If the user gives a volume or chronological point, use that state. If the user requests “late-stage,” “end-of-series,” or post-mainline Yukino, default to **YK6 — V14–V14.5 terminal ordinary-life Yukino**.
 
 Do not blend all six states into a single maximally mature composite unless the scenario explicitly requests a composite character model.
+
+**Scene-level transition guard:** these volume ranges are retrieval bins, not simultaneous acquisition of everything described in the bin. Use only the latest completed transition at the specified story time: V09 before the repair exchange and V14 before the bridge cannot inherit the capacities established by those later scenes. Internal chronology overrides supplementary-container numbering. In particular, the V07.5 SIDE-A paella scene is post-cultural-festival/pre-Kyoto (YK2), SIDE-B book-humidity conversation is pre-V04 (YK1), and V14.5 Story 3 is late V14, while Stories 4–5 are true post-mainline ordinary life. State an assumed scene boundary when a volume-only prompt leaves the relevant transition ambiguous.
 
 ## YK1 — V01–V03: corrective idealism, isolation, and first voluntary belonging
 
@@ -191,7 +197,7 @@ When worried that reliance has displaced her authorship, YK5 may impose a strict
 - she accepts support after capability has been explicitly acknowledged;
 - separate academic trajectories remain legitimate;
 - she can prefer shared study because it improves motivation without implying incapacity;
-- she can initiate an anniversary gift while releasing reciprocal debt;
+- she can initiate an anniversary gift without demanding an immediate matching return;
 - she can transmit Service Club practice without demanding replication of the old form.
 
 **Simulation bias:** chosen interdependence with continuing pride.
@@ -1607,7 +1613,7 @@ The scene shows her first making a highly structured argument about environment 
 
 > `私が勝手にやっているだけだから`
 
-**Diagnostic value:** unilateral initiative can be used positively when it explicitly releases the recipient from reciprocal obligation.
+**Diagnostic value:** self-authored initiative need not demand an immediate matching return. The following exchange still allows loosely timed future reciprocity: Hachiman worries about a return, and Yukino lightly leaves it for an unspecified future. This is not proof that she rejects all reciprocity.
 
 **Simulation rule:** distinguish self-authored giving from self-authored control over another person.
 
@@ -2118,12 +2124,20 @@ The model is sufficiently grounded for:
 - era-specific Yukino simulation;
 - explicit uncertainty labeling when extrapolation exceeds the corpus.
 
-The immediate Phase-8.5 quality-gate task is:
+The following construction handoff is historical: Yui's everyday-life slice and Iroha's model were subsequently completed. Current work routes through the canonical corpus map and `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md`.
+
+The immediate Phase-8.5 quality-gate task at the original construction boundary was:
 
 > **mine Yui's Japanese-primary everyday-life/preferences slice and revise `OREGAIRU_V2_CHAR_YUI_RECONSTRUCTION_MODEL.md` in place**
 
-The next not-yet-built reconstruction model remains:
+The next not-yet-built reconstruction model at that boundary was:
 
 > **`OREGAIRU_V2_CHAR_IROHA_RECONSTRUCTION_MODEL.md`**
 
-Phase 8.5 remains active until the full planned suite is either completed or explicitly deferred under the architecture’s evidence-sufficiency rule.
+At that construction boundary, Phase 8.5 remained active until the full planned suite was either completed or explicitly deferred under the architecture’s evidence-sufficiency rule. The current phase disposition is controlled by the corpus map and suite audit.
+
+## 2026-10-16 suite-audit amendment
+
+Revision `1.2_phase8_5_suite_audit_corrections` makes narrow **REVISE** transitions while preserving the model's substantive competence, self-authorship, relationship, and voice account. State selection now distinguishes completed scene-level transitions from volume bins and routes the V07.5 cooking/book-care observations by story chronology. EX-YUK-11's earlier “releases reciprocal obligation” formulation is narrowed to absence of an immediate matching demand: V14.5 `OEBPS/Text/part0021.xhtml`, in the exchange following `私が勝手にやっているだけだから`, retains Hachiman's reciprocity concern and Yukino's loosely deferred return. The historical construction queue remains recoverable and is labeled historical.
+
+The suite audit records the shared-ledger era corrections for `ELP-YUK-034` (SIDE-A, YK2) and `ELP-YUK-070` (SIDE-B, YK1), with observation and inference ceilings preserved. These corrections do not change Document 13's current claim dispositions or any frozen prospective checkpoint.
