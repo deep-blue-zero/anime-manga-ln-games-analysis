@@ -5,7 +5,7 @@ artifact_type: source_scope_map
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.14'
+version: '0.15'
 status: active_provisional
 scope: Source and scope / witness inventory
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U013 complete Part III numbered04 at spine25 text/part0010_split_004.html; exclusive before spine26 text/part0010_split_005.html; later narrative body unopened
@@ -327,3 +327,18 @@ Cumulative23subjects/62actorhistory/47directionIDs96relationhistory/60readinessh
 Actual vertical-rl4925×1000,bodyx46.34375–4918.34375,textRangebottom1000.03125subpixel; all lexical columns/elements fit. Original byte-identical XHTML alias servedloopback-only asapplication/xhtml+xml,originalactiveCSS/viewer-fontchoice/nonloopbackbrowserblock. RuntimeChromium154.0.8037.57/NodePlaywright1.62.1/Python3.12.14/lxml6.1.1/libxml2 2.14.6;NotoSerifCJKJP collectionSHA-256`5d9c31a059600193c9d7968a998bde886ccdc77e934006ad243b41794c496a7d`;actualJPfont samples/allglyphcoverage verified. Existing edition/date/inactivealternatestyle caveats persist; no publisher-layout recovery or rawsourceGit.
 
 Cumulative23subjects68actorhistory49directionIDs105relationhistory66readinesshistory72worldIDs96claims0predictions2earlierRV;166evidenceIDs169spans. TwoDOMAIN_BOUNDED/twenty-oneRECOGNITION_ONLY; modelsNOT_STARTED/validationNOT_PERFORMED; architectureINITIALadequate/noG2–G6. Earlier readings/histories preserved. NextHAR-U014 naturalPartIII05 atspine26 remains unopened pending complete current publication gates.
+
+
+## Retention erratum HAR-RET-001 — U011–U013 reviewer attachment identity
+
+On2026-10-17, before opening HAR-U014, the author found that the V1 packaging helper for HAR-U011, HAR-U012 and HAR-U013 copied three reviewer attachments from HAR-U010: `reviewer-source-verification.json`, `reviewer-FRESH_BROWSER_CHECK.json` and `reviewer-FONT_FORM_CHECK.json`. Those attached reviewer records bind HAR-U010 and spines20–22, while the intended current members were spine23 for U011,24 for U012 and25 for U013. Their ZIP integrity and full remote equality checks were correct, but the earlier descriptions of these V1 packages as containing only the current unit’s source checks were inaccurate. This erratum supersedes that scope claim. Each current unit’s extraction, panels, geometry and separate independent source review were correct; no literary claim, source boundary or frozen reading is changed.
+
+The separately retained V2 packages replace those three attachments with the corresponding current-unit records and a neutral source-only projection, and add a factual correction record. All other V1 source objects remain byte-identical. V1 files and original entries remain as history; V2 is the current authority for complete per-unit private source verification. No analytical/exposure/draft state or later source is included. Every V2 was fully downloaded from Drive and checked for exact size/SHA-256, safe paths, CRC, exact manifest membership and every object’s size/hash. All use canonical private parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false and owner-only permissions.
+
+| Unit / current bundle | Private Drive ID | Complete bytes / SHA-256 | Manifest SHA-256 / source objects |
+| --- | --- | --- | --- |
+| HAR-U011 / `HAR-U011_PRIVATE_SOURCE_VERIFICATION_20261017_V2.zip` | `1dF6IkoHrAJSYO48hgPpf1VBVqFT5cUe1` | 4080015 / `301cd9b08cfbc0a3b38353ba78a9f969cd59f70a8fa8f8d84eee912c35ba3ca9` | `eccf615cd4fcf9e36b47525d0201987c01d1f0add4025a28ba2381fec34c8de2` / 27 |
+| HAR-U012 / `HAR-U012_PRIVATE_SOURCE_VERIFICATION_20261017_V2.zip` | `18BwPn_cw5WAqB7x4fSpBmf0HE4BY-T6x` | 2095576 / `601f263b9a08de4a94823760d80ca1d9b6ad0f3267f85547e0dbdc2dc3d5b185` | `cde5b0c2db22f1cbcd41de6eaf0713aad082275933c67e5447f5daa099f66241` / 23 |
+| HAR-U013 / `HAR-U013_PRIVATE_SOURCE_VERIFICATION_20261017_V2.zip` | `1ykcMSv3zzfypVMcBpht9rTZqQ0oQzG67` | 2385759 / `24dafde867119c406b11aa67ae01fd194ffc53c4b77ad25cede6cb9401b41107` | `1bcb858d3afcb4fffd88b45fd70504196a413234a332ca5dbce490927b352b2a` / 24 |
+
+All thirteen frozen reading files and every original entry/exit freeze remain byte-identical. The historical exit records’ V1 retention references are qualified by this attributable erratum and the separate V2 records, rather than rewritten. Independent source-facing review passed all three V2 replacements/current scopes against the per-unit originals, including unchanged V1 objects, exact source/DOM/ruby and all panel hashes. HAR-U014 remains unopened until this correction is published, fully read back and covered by the required exact-commit integration audit. This is an evidence-packaging correction, with no new source exposure, prediction/revision claim or G2–G6 work.
