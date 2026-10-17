@@ -5,10 +5,10 @@ artifact_type: analytical_method
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.6'
+version: '0.7'
 status: active_provisional
 scope: Prospective prose-reading method
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U005 through spine 13, exclusive before text/part0006_split_006.html; later narrative unread
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U006 through spine 14, exclusive before text/part0007.html; next Part II heading only queried, later body unread
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_ANALYTICAL_METHOD.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16

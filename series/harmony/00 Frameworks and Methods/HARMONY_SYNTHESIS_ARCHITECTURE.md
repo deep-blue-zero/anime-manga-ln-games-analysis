@@ -5,10 +5,10 @@ artifact_type: synthesis_architecture
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.6'
+version: '0.7'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U005 through spine 13, exclusive before text/part0006_split_006.html; later narrative unread
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U006 through spine 14, exclusive before text/part0007.html; next Part II heading only queried, later body unread
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
 review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
@@ -121,6 +121,8 @@ Dependency order: sequential units -> reconciliation/role-gap review -> speciali
 ## 8. Evolution, freezes and cross-novel boundary
 
 Review architecture after the first completed part, after a new formal or epistemic problem, at sequential completion and before synthesis/release. Add or split a home only when recurrence, independent evidence and retrieval burden demonstrate that an existing home is inadequate. Record the responsibility migration, preserve IDs and move sole ownership rather than duplicate it. Backfill only a material gap. INITIAL may become EVOLVING, then STABILIZED, with no retrospective alteration of source freezes.
+
+**First-Part architecture review — HAR-U006, 2026-10-17.** Complete Part I coverage, including its closing literal frame, is now accounted for in six sequential readings. The present division of responsibility remains adequate: readings retain ordered evidence and scene/teller frontiers, the actor ledger preserves directional and readiness history, the world ledger owns attributed mechanisms, and the claims ledger owns interpretations and material alternatives. Nested remembered/projected voices, delayed mechanism disclosure and the final wider-scope disclosure fit those existing fields. No recurring retrieval or ownership gap requires another home or migration. INITIAL is retained after this explicit review; novel-wide reconciliation, specialists, reconstruction and synthesis remain unperformed and outside this run's authorization. Reassess at a later new formal/epistemic problem or sequential completion.
 
 Current entrypoint, source map and cumulative ledgers are maintained through targeted edits. Accepted sequential readings and their prospective snapshots remain frozen; revisions use the claims history and attributable errata. Preserve superseded versions and bounded source lineage under the archive policy.
 

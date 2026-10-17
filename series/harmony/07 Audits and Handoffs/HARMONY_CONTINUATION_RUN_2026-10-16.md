@@ -5,10 +5,10 @@ artifact_type: analytical_execution_receipt
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.4'
+version: '0.5'
 status: active_provisional
 scope: Full remaining original-novel sequential reading; specialists, reconstruction and comparison separately gated
-source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U005 through spine 13, exclusive before HAR-U006
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U006 through spine 14, exclusive before Part II wrapper/HAR-U007; next heading only queried
 canonical_home: series/harmony/07 Audits and Handoffs/HARMONY_CONTINUATION_RUN_2026-10-16.md
 created: '2026-10-16'
 review_status: OWNER_REVIEWED_PILOT_AND_AUTHORIZED_CONTINUATION
@@ -109,6 +109,7 @@ This rolling index records already executed prior-unit proofs only. Source/final
 | HAR-U002 / `4c82895565c445604d5204d58099e55ed879e014e34a8c3c42fe86ea9b6bad54` | `1_WPObKLgFOprqr5zpWaNlDqAqJmfqHP7` / `4370a19945884a546487dd23af7c614fb792b84ad7ba6eb6e07d8c09344a70e2` | `81cd8f6e6dd64d7a860f62c04ede3f1e20f4be29` / same | 38979107234 /38979617496(no-op)/38979652264; actual81cd8f6e/full352/0/0/0 | main `3caff8b0625f63ab073285c9841639248a946c50`;38979976129 SUCCESS/full352/0/0/0 |
 | HAR-U003 / `8cf26bcd5ebce15777d0c8a47a1244a9dbda801fd9aef5ce9ec488a19057d7a7` | `1IV9Yay1GuJ5bXWlQMRPJChqdzzCmIFL6` / `bffb10a248b392c7f02dc882582652189284f42eecc596372c63cc81bc725e40` | `ea20bc236809bd99496f57bc4ec4865db84d7a61` / `a19c5e0f660b474e315da13b1a90129e04082fb6` | 38981877316 /38982354639(no-op)/38982388744; actuala19c/full352/0/0/0 | PENDING / PENDING |
 | HAR-U004 / `e2784d2f216e5d8ed1390950dd9e3208f0cdf9c1845eafeb4c513c1eda0cd250` | `1gI8P9xOwF6AK2Nb-ougj-sPqm53CRcnS` / `2f5ddffd2994b91aab5b371e676782a9ea9d03662e72111b6afdc17e92f3121b` | `8f648d41ea651c4aa9fd9cebf04997667c009317` / same | 38984021670 /38984375356(no-op)/38984405656; actual8f/full352/0/0/0 | PENDING / PENDING |
+| HAR-U005 / `eb9c3dd4ff4d19e92e4c786c8e5dcdcb86d44d0a56dfc98a2cd06009cb24106a` | `1xEl5fv72SA5V0fhRbTLqS0NODYkR6WI3` / `39ea999cac425d959675bf3dd8504a59dd6d37beb5dda086d6eae418e668de49` | `573a117bb2e8b484bccc2f659876e6dae7bd9332` / same | 38985702894 /38985948409(no-op)/38985978781; actual573a/full352/0/0/0 | PENDING / PENDING |
 
 
 ## HAR-U004 private verification retention
@@ -143,3 +144,19 @@ Author source/name/reference QA covers introduction, wine/identity, leverage/san
 ## HAR-U005 private verification retention
 
 The designated metadata-only custodian retained `HAR-U005_PRIVATE_SOURCE_VERIFICATION_20261017_V1.zip` as private Drive file `1xEl5fv72SA5V0fhRbTLqS0NODYkR6WI3`, canonical parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false. Full raw remote readback equals **1,711,824 bytes**, SHA-256 `39ea999cac425d959675bf3dd8504a59dd6d37beb5dda086d6eae418e668de49`; safe paths/CRC/exact15object membership and all object bytes/SHA PASS. Manifest SHA-256 `5cf493ab7a77ca09d9f12df0657a9bdda6b39190f7220174c494dc84511cc573`. Faithful current extraction, three actual panels, geometry/ruby/eight-locator proof/scripts/tool hashes and factual gate provenance only; interpretive descriptions/frontiers/future/originals/binaries/caches excluded. Original witness remains unchanged. Retention establishes persistence.
+
+
+## HAR-U005 validated publication — 2026-10-17
+
+Frozen reading `eb9c3dd4ff4d19e92e4c786c8e5dcdcb86d44d0a56dfc98a2cd06009cb24106a` published at `573a117bb2e8b484bccc2f659876e6dae7bd9332`, tree `59b29cf4f2c1131f98007afe3548c1f3b539c68d`, direct parent accepted8f. Exact nine-path index preflight PASS7933; full remote candidate contents/changed-path set, approved identity and fresh heads/rules/nonforce CAS pass. Local preparation b6a4820c remained unpublished and ordinary reconciliation preserves both local/API histories. Source38985702894(audit117256544009/reporter117257285321), no-opHK38985948409/job117257326560, final38985978781(audit117257425081/reporter117258156294) all SUCCESS. Actual source/final AUDIT_COMMIT573a, requested shadow/executed full, selection_enabled=false,352 tests/0 failures/0 errors/0 skips; exact status56573453105 SUCCESS targets final run. Author independently fetched completed source/HK/final/reporter logs, all run conclusions and actual exact-SHA status; metadata monitor independently confirms immutable bytes/bindings. No HK child. PR190 remains open/draft for continuous-run terminal integration; ordinary next-unit admission follows branch fullgreen.
+
+## HAR-U006 authored closeout and first-Part review — 2026-10-17
+
+Entry `2511da1380608c75d620557953474339f3b9c23774fc8934366a734d664ceac2` precedes all06 words after U005 own verified fullgreen. [HAR-U006](../01%20Sequential%20Readings/HAR-U006_PART_I_06_DEEP_READING.md) reads all228 blocks/11851 raw body codepoints/28 ruby/227 br, all seven actual panels and thirteen original locator round trips, including blanks/literal frame closures. It preserves actual return versus canceled fantasy, newly disclosed DummyMe versus withheld lesson, bodily assessment and protected art, actual care, remembered/projected Miaha, competing friendship/comradeship interpretations, and local shock versus the teller's6,582 simultaneous attempts. Cause/control and medical outcomes remain unresolved; attempts are not relabeled deaths. Eight claims CL031–CL038, justified NO_PREDICTION. Three-ledger counts are11 subjects/23 actor rows/20 relation IDs34 historical rows/21 readiness history/27 world IDs/38 claims/0 predictions/2 earlier revisions;71 evidence74 spans. Earlier readings/entries/exits and their claim boundaries remain unchanged.
+
+Author source/name/reference QA checks opening, all source levels, recollection/ghost/shadow, the imagined DummyMe lesson, every Tuan–Miaha/Kian direction, political woman's seat offer, conditional self-description and global-count/closing frame. Kian's private cause/control and Miaha's recruitment motive remain unknown; approximate metadata rank is not a verified exact office. Unnamed woman SOURCE_REQUIRED_ANONYMITY; cleaner/waiter role references justified; report/private/scene/teller boundaries explicitly preserved. Helper27 mechanical checks do not substitute for author semantic/pixel/prose inspection. The complete first Part triggers the architecture review recorded in its current home: existing fields and three-ledger ownership remain adequate, INITIAL retained, no new home/migration or downstream synthesis authorized. Next HAR-U007 begins at Part II wrapper with its unnumbered framing and one natural01; only next heading has been seen. Current U006 CI is not self-certified by this authored receipt.
+
+
+## HAR-U006 private verification retention
+
+The designated metadata-only custodian retained `HAR-U006_PRIVATE_SOURCE_VERIFICATION_20261017_V1.zip` as private Drive file `1dDX3JKTtTfwfFV6DcLkv29Uz-cdrUEaU`, canonical parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, shared=false. Full raw remote readback equals **4,385,641 bytes**, SHA-256 `c93f907fbd1ca5a6182c5137011013f890a77df843ffdd203cc62128707cfc82`; safe paths/CRC/exact19object membership and all object sizes/SHA PASS. Manifest SHA-256 `a8017d6c0eff645a884badfa1b31034280342ab59b2058e4113b45fb826b9ced`. Retained objects are the current faithful extraction, seven actual panels, geometry/ruby/thirteen-locator proof, scripts/tool hashes and factual gate provenance. Interpretive descriptions, analytical frontiers, future plaintext, duplicate originals, binaries and caches are excluded. Original EPUB remains unchanged at its canonical ID; retention establishes persistence only.
