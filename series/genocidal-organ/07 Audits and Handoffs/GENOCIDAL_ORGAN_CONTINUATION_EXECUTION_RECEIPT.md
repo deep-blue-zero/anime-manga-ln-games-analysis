@@ -5,13 +5,13 @@ artifact_type: audit_receipt
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '1.3'
+version: '1.4'
 status: active_provisional
-scope: Owner-authorized continuous sequential run, rolling execution receipt through GO-U006
-source_boundary: GO-U006 complete; exclusive before spine 16 text/part0014.html; later narrative unread
+scope: Owner-authorized continuous sequential run, rolling execution receipt through GO-U007
+source_boundary: GO-U007 complete; exclusive before spine 17 text/part0015.html; later narrative unread
 canonical_home: series/genocidal-organ/07 Audits and Handoffs/GENOCIDAL_ORGAN_CONTINUATION_EXECUTION_RECEIPT.md
 created: '2026-10-16'
-review_status: GO_U006_SOURCE_SEMANTICS_AND_CONTROLS_ACCEPTED
+review_status: GO_U007_SOURCE_SEMANTICS_AND_CONTROLS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -22,7 +22,7 @@ do_not_use_as_literary_evidence: true
 
 ## Historical GO-U002 authored checkpoint
 
-The following opening record preserves the GO-U002 checkpoint at its original frontier. The latest current frontier and later dated closeout are GO-U006/nextGO-U007; first-resume integration has passed.
+The following opening record preserves the GO-U002 checkpoint at its original frontier. The latest current frontier and later dated closeout are GO-U007/nextGO-U008; first-resume integration has passed.
 
 The owner reviewed the pilot and requested continued analysis of this novel. At that checkpoint, the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) recorded that separate instruction as OPEN/active `continuous_sequential`, start GO-U002, terminal `GO_JP_EPUB_001_NATURAL_EPILOGUE_END`, confirmation between ordinary units false. The terminal is the natural narrative epilogue end of witness SHA-256 `a4107c01b69c0e8819818eabb0198cc62d4174aa173eb0ebdca3a0dbf93b7df0`, with all 44 structural obligations disposed, including trailing UNKNOWN classifications when reached. It is not a guessed final analytical ordinal. At that checkpoint actual high-water was GO-U002 and both next fields GO-U003. Full coverage and downstream specialist, synthesis, reconstruction or comparative gates have not passed.
 
@@ -85,6 +85,7 @@ Rows below record already completed publication/CI facts. A current unvalidated 
 | GO-U003 / `bcf5df3ea68eb8d7bb3ca0f1ec74ff97939cae9c00b73d6640a2647ddd4e83d8` | `1uHXVL1QuqFryjPDtTnGzSfQxJZvLPUih` / `b2b0d9ed7066ad6c23936066299af7b5495ab67eba0d1cf9c9c14adc6dacd18e`,2,204,416B/full readback/private | both `646ba47e6a50bc1e84862669ae29520b1b32b917`; tree `90d094283a847cea60969d533b3f69565c797e43`; parent0f preservesa9c9+maincfd | source38983673267/job117250073083; HK38984112783/job117251466512 NOOP/no child; final38984139990/job117251553863, actualAUDIT_COMMIT646ba47e… | source/final each full352/0failures/0errors/0skips,selection=false; exact status success targets final; independent metadata spotcheck PASS | Ordinary unit main integration not required; draft run holdPR188; maincfd preserved |
 | GO-U004 / `85fda30fa1af8395307a62037157df9c786e8e3db23b88aca0f82b27db8ae12e` | `1dT441L1kEy9zXN_rSpt90So_AOCIrF7Z` / `7a57e3a9c6a29c58ef8a5bd0f3a5a04cd5dd3a338097827d9511ad5dbe81faa9`,5,913,144B/full readback/private | both `281b5d44e5676c0a9286038054c46509857c965b`; tree `b01b7b58d061a4d16fe4cc4ef6d2ec4dbe77d784`; direct parent accepted646 | source38985895931/job117257166318; HK38986291019/job117258423680 NOOP/no child; final38986319747/job117258518191, actualAUDIT_COMMIT281b5d44… | source/final each full352/0failures/0errors/0skips,selection=false; exact status56573705149 success targets final; independent metadata spotcheck PASS | Ordinary unit main integration not required; draft run holdPR188; maincfd preserved |
 | GO-U005 / `3c4140165ed2e6dac37ed55b3c08fbc0da966a63ab7deed898efb05c1998d5f1` | `1PfoXSqqRUOfzZg_AZ-5MHnuMGDwz4a4A` / `cab7f7cb99116d895ede1a2fdb8f7a7f14d8652f7b2e8873b7bd8afb593c1888`,3,238,810B/full readback/private | authored `53563a2daca9851cecd2f09e1bcb8f64627fc231`; final accepted `53563a2daca9851cecd2f09e1bcb8f64627fc231`; tree `748335b4a9aa2db60b9e3708957bfcca35e8d2d9` | source38988257944/job117264638898; HK38988667561/job117265907631 NOOP_UNCHANGED_ROUTING; final38988696319/job117265995266, actualAUDIT_COMMIT53563a2d… | source full352/0failures/0errors/0skips; final full352/0failures/0errors/0skips; selection=false; exact status success targets final | Ordinary unit main integration not required; draft run holdPR188; maincfddecb9 preserved |
+| GO-U006 / `36668b3a7e4d61748967dc493b874023da66590ad2852c0dcdca1adcce47656d` | `1XDKD2xhwRY9Xj3Cw1aBNu496aZcjc1rt` / `003e2cd4095114eb572c4ece1eeaf883c0e39b415f5ffd71b166bdacd47686ce`,5,665,112B/full readback/private | authored `b2eecca045dbdf1ad969e41d737317200db1d1ea`; final accepted `b2eecca045dbdf1ad969e41d737317200db1d1ea`; tree `34b2a4d4e17f5209fe9f8c8f573871369f206f15` | source38993956259/job117282211406; HK38994316119/job117283346642 NOOP_UNCHANGED_ROUTING; final38994340886/job117283426220, actualAUDIT_COMMITb2eecca0… | source full352/0failures/0errors/0skips; final full352/0failures/0errors/0skips; selection=false; exact status success targets final | Ordinary unit main integration not required; draft run holdPR188; main55ed747f preserved |
 
 ## Historical GO-U003 authored closeout
 
@@ -128,7 +129,7 @@ GO-U005 source retention is independently verified: Drive ID `1PfoXSqqRUOfzZg_AZ
 
 The seven-path candidate now contains the completed source/semantic and controls acceptance plus actual retention metadata. Final current-index author preflight, fresh remote-head/rules check, nonforce publication/full whole-file readback and exact source/HK/final successful CI are separate pending checks; no future result is claimed here.
 
-## GO-U006 authored closeout — 2026-10-17
+## Historical GO-U006 authored closeout — 2026-10-17
 
 Complete Part II subsection2 is read in order:210p/209direct+1nested/9empty,13,836raw body codepoints,35ruby/48rt,all14actualRTLtiles and200originalXML locator spans. Source/member/form details and unchanged runtime/fidelity limits are in the source map’s current unit record. GO-U006 adds21evidence rows; cumulative95evidence/572narrative locators (+6calibration),27claims/14revisions,3SUPPORTED predictions/0OPEN,27subjects/51historical actor state and51readiness rows,35directional relations and39knowledge records. PR003 is scored solely from the actual explicit summons purpose; earlier OPEN wording and familiarity qualification remain preserved. No new forecast is forced from the unreached scene.
 
@@ -143,3 +144,19 @@ GO-U006 source retention is independently verified: Drive ID `1XDKD2xhwRY9Xj3Cw1
 The seven-path candidate now contains the completed source/semantic and controls acceptance plus actual retention metadata. Final current-index author preflight, fresh remote-head/rules check, nonforce publication/full whole-file readback and exact source/HK/final successful CI are separate pending checks; no future result is claimed here.
 
 GO-U006 ordinary reconciliation at runtime recovery preserves accepted source `53563a2daca9851cecd2f09e1bcb8f64627fc231` and fresh main `55ed747f8c04d027a92496bb702f54697309f1f1` as the two parents of API commit `2429ce504d1e85d57a860aa83a0b93a1962096ad`, tree `aed70a1341a1409850ba05718146007493efde35`. The clean merge imports exactly15 unchanged approved-main blobs; main introduces no GO-root or control-file delta. API parents/tree/allowed owner identities were read back. Seven reviewed candidate files were restored byte-for-byte from their preserved private manifest after a local duplicate-file obstruction; the frozen reading and original entry/exit records remain exact, and no later source was exposed during the runtime gap. No reconciliation-only ref publication occurred. Final authored staging and validation use this current API base.
+
+## GO-U007 authored closeout — 2026-10-17
+
+Complete Part II subsection3 is read in order:81p/80direct+1nested/4empty,5,119raw body codepoints,9ruby/10rt,all6actualRTLtiles and76originalXML locator spans. Source map owns current fidelity/settings; original witness/runtime/edition limits persist. GO-U007 adds13evidence rows; cumulative108evidence/648narrative locators (+6calibration),30claims/16revisions,3SUPPORTED predictions/0OPEN,30subjects/58historicalstate+58readiness rows,39directional relations and45knowledge records. No new forecast is forced from the waiting analogy; all earlier actual prediction outcomes remain.
+
+Independent source/form review covers the entire original/all81nodes/all6tiles/all76locators. Source/semantic and controls acceptance, exact exit/retention are recorded only as completed. The original entry preserved the current control-delta review and inherited familiarity qualification; the seven current own paths are entrypoint,source map,three ledgers,GO-U007 reading and this receipt. No earlier frozen, method/architecture, governance or global-catalog authorship is introduced. Latest main must be ordinarily incorporated before final author preflight/publication.
+
+Actual HWMGO-U007/bothnextGO-U008; OPEN/active continuous_sequential startGO-U002/exact-hash natural epilogue/all44obligations unchanged. U008+ words/images remain unopened. Current retention, final staged-index preflight, fresh-head/rules recheck, nonforce publication/full whole-file readback and full source/HK/final exact successful audits remain separate requirements before those words. No source/semantic closeout claims its own future CI.
+
+GO-U007 accepted exact exit: 2026-10-17T02:34:03.399759+00:00; selected-text SHA-256 `0974aa0bb399e9e28e9ea445b4909ebf7d2f36e6e69808cf88b37596ed37f3f5`; private exit JSON SHA-256 `8bf2bd042102b407c3a36b2546d67f4207f1eb9e3100f10fcb554312667abe2d`. Frozen reading SHA-256 `605583f1daad8d31f9481cd90467654dcd0321d03b9644708c0cc6d65745f522`; reviewed preapproval `6061346631e84788bc0a0e61593043350c50496f45714b9e6b0ced89e6323529`, only review_status changed to ACCEPTED. Original entry and U001–006 frozen bytes remain unchanged. Current reconciliation/retention/publication/CI remain separate requirements.
+
+GO-U007 source retention is independently verified: Drive ID `1-jc_H62be7S3U_agB4Nx8sKPZrZnf0Nq`, canonical parent `1kP3-4QyvgbV9jVL84kI6Yj9Rww_otO_3`, private (`shared=false`). Full raw remote readback matches **2,296,182bytes**, SHA-256 `233c301bdd87df1c708714614043359f0d36c84b4eec8efecd701ff7f10ddc66`. ZIP CRC/safe paths/exact18members/all17manifest objects' complete size/hash checks PASS; SHA256SUMS.json SHA-256 `d7f05266ede20e9343b2296d11be002c85b100259cfae714cfc12aff067cdef4`. The bundle includes only current subsection selected-source proof, all6actual renders, exact locators/coverage/geometry, source-only independent proof, noninterpretive gate timing/hash references, tools and reproduction provenance. Analytical freeze/state/prose and interpretive QA remain separately canonical Git/private analytical checkpoints. Original EPUB/permissions are unchanged; no later plaintext or runtime binary is included.
+
+The seven-path candidate now contains the completed source/semantic and controls acceptance plus actual retention metadata. Final current-index author preflight, fresh remote-head/rules check, nonforce publication/full whole-file readback and exact source/HK/final successful CI are separate pending checks; no future result is claimed here.
+
+GO-U007 ordinary current-main reconciliation is API commit `fb70496cbb2441bcbb5189be82569049d52a99ac`, ordered parents accepted source `b2eecca045dbdf1ad969e41d737317200db1d1ea` and main `03bebd910c61d319493919d2418c473e1051d87f`, tree `0b9915101235cbf2191affe32d83e5938ecdcb8b`. The clean Git merge-tree result and API tree agree; all17 imported paths equal exact approved-main blobs, and main’s GO-root delta is empty. The current routing/tracked-policy missing-entrypoint exception closure and test-fixture changes were read before entry and are now incorporated. API parents/tree/allowed owner identities and all seven reviewed GO files after local fast-forward were independently read back. No reconciliation-only ref publication or frozen-byte change occurred. Source retention adopts V2 only, with neutral structural proof keys; the unuploaded earlier bundle remains private and unadopted.
