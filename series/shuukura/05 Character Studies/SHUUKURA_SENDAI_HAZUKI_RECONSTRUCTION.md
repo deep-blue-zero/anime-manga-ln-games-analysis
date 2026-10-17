@@ -959,3 +959,24 @@ The historical interval is university/shared home after kettle purchase and tuto
 | Readiness | Ordinary time/task/disclosure evidence richer; no historical operational packet or new held-out case built here. Unfamiliar-person/cross-series/acoustic domains remain unsupported as before |
 
 No new test or formal forecast. Thirteen historical attempts remain six first-action failures(one input-qualified), one exposure-qualified gift match and six ordinary baseline ties; five older claim forecasts are separate. No independent acceptance or VALIDATED domain follows. Corpus-wide reconstruction must explicitly version evidence/time and reassess limitations after remaining sources.
+
+
+## BW07 retrospective evidence addendum — the shared September27 morning
+
+**BW-JP-V07 / ACQUIRED-20261017-A1**, sourceSHA`1e367715dc5d6c58309452208258ba146cab73e1416ccbf5403ae8f5846e57c6`, locatorSHA`1e95b7ef89832da99979f6e4bf374b9f7c74338ed83fb466f4bc1572af9a05ae`. The [complete reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V07_DEEP_READING.md#observation-locator-index) owns five observations,70native literal checks,35original LN correspondence checks and the verified evidence archive. All108paragraphs/3spines/2images/navigation inspected. Original LN01–09/BW03/BW06 were exposed before this reading; no repeated outcome is a blind test.
+
+Sendai explicitly wants gaze and a longer shared route, calls the responsive Miyagi good/generous, uses a cat pretext, and retains a graduation/nonlateness constraint. Her deliberate slowing may also nudge Miyagi to sustain company; the exact mechanism is not named. Her final pace increase is an observed local adjustment, not proof all conflict is resolved.
+
+O005/C1 strongly identifies the home sequence with LN07morning two days after M September25 birthday, therefore September27, postbreak university interval; no fictional year or exact timetable. The original novel's common-sense qualifier belongs to the existing R076 offer; the bonus's shorter quotation creates no second grant. At this morning the wish is deferred; later LN07employment-veto refusal/reformulated private answer remain a different clock. A street-actor packet must exclude the future evening outcome and must not treat later blue-earring/lip-replacement/family disclosures as already shared. Each character's own earlier lived knowledge remains distinct from when the text discloses it to the reader or to the other character.
+
+| Packet responsibility | Source-grounded content and abstention |
+| --- | --- |
+| Miyagi / home-door | Knows gift-etiquette account, own earlier desire for S piercing, permitted application and actual exit/pause; hears original limited bargain via C1. S full wish/evaluation is not all spoken |
+| Miyagi / road | Knows own university/urgency and spoken objections; detects casual pointing and unserious skip. S private graduation counterfactual and full gaze/pace purpose not automatically heard |
+| Sendai / home recalled | Knows own offer/gift meaning and sees application/carried product/door presence. Does not hear M packing rationale or exact five-step/two-step hesitation merely by observing her |
+| Sendai / road | Knows pretext, own time/gaze wish and academic limit. Sees M turn toward piercing, but exact M motive, timetable and full comfort remain uncertain |
+| Japanese / context | Distinguish small-voice 待ってない, categorical future-plan refusals, S いい宮城/寛容 evaluation, M correct 適当 judgment and mutually unserious skip. Textual register evidence is not verified vocal delivery |
+| Negative constraints | No cat/aquarium visit, actual lateness/absence, station/class arrival or recurring morning pact inside this source. Application permission does not grant unrelated contact, indefinite waiting or general obedience |
+| Domains | Ordinary historical situation evidence richer; no operational morning packet/test built here. Unfamiliar-person/cross-series/acoustic domains remain unsupported as before |
+
+S0.14 retains its original adult LN fit/time/UNTESTED/noncurrent identity. This addendum is evidence for a later expressly versioned historical/cumulative model, not a new operational version or validation. Adult M/S-V09-EXIT remains the latest chronological projection. Thirteen historical attempts retain six first-action failures(oneinput-qualified), one exposure-qualified gift match and six baseline ties; five older claim forecasts are separate/18records. No independent acceptance or VALIDATED domain follows. Full all-lane reconstruction, case evaluation and limitations/readiness audit remain mandatory.

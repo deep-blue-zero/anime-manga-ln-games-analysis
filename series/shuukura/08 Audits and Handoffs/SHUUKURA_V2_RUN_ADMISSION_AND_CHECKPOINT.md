@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.2"
+version: "1.3"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1; preserved LN01–09/BW03 records; BW03 source audits/PR208 preservation and BW06 complete-unit checkpoint"
+source_boundary: "Frozen I1; preserved LN01–09/BW03/BW06 records, verified BW06publication and BW07complete-unit/correspondence checkpoint"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: BW06_SOURCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
+review_status: BW07_SOURCE_CORRESPONDENCE_SEMANTIC_CHECKPOINT_EXACT_COMMIT_AUDITS_REQUIRED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -485,3 +485,37 @@ BW03sourcea41c6821da4a7c82154712f4d9f4914ad9fa2272 passed source39052329180, hou
 | Remaining program | 16available SS/431Kak/290Narō correspondences/51knownmissing/27finite discovery/mandatoryvoices; corpus reconciliation/principal+justifiedsupport monographs/specialists/reconstruction testing+limits/independent V1 dispositions/integrated argument/release adversarial audit; runactive/nextnotNONE |
 
 Earlier historical checkpoints/journals/accepted readings/model packet bytes remain intact. Neither a draft nor source inspection alone advances HWM. Ongoing publication and a scheduled future volume do not extend I1; complete only the frozen extent and truthfully retain source blockers.
+
+
+## Verified BW06 publication before BW07 acceptance
+
+BW06sourceb08d809faecd10884020d902b79fc0e200f35df8/source39054161159/house39054468152(unchanged routing/branch boundaries)/finalactual-source39054497188/night39055177051/mandatoryownerexplicitmain39055268435 allSUCCESS/full352tests/trustedstatuses/VERIFIED_OWNER_ONLY/merged_verified. [PR209](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/209), owner-authored/owner-merged/same-repository/exacthead b08d809f, integrated23064c95c652cafefea486e30d806ba858d0e1a9. Source and integration fulltree041b726eb6aaae9ad5a41ea713444e618f48a885 independently compared equal. Explicitmain actual23064c95/full352tests/ownerrepository_dispatch/status verified; pushmain39055250548 is separately successful. BW06 CLOSED_ON_GREEN_MAIN. The later current-main reconciliation at8f4bf6b9c92dc0712dc008ad0b0b247408141778 imports35approved Genocidal Organ paths with exact main blobs and no Shuukura/governance drift. The ordinary merge pending BW07 retains both histories and all draft hashes; no unverified whole-file conflict choice.
+
+## Durable checkpoint after BW07
+
+**SHUUKURA-TX-BW-JP-V07-20261017-A1** advances only through the complete introducing commit. [Reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V07_DEEP_READING.md) and [audit](SHUUKURA_V2_BW_JP_V07_TRANSACTION_AUDIT.md) bind complete source, beforeimages, material revisions and candidate hashes. Source inspection or a draft is not a committed transaction; recover actual Git/remote/audit state after interruption.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run | epoch1/GIT_ACTIVE_ACCEPTED; continuous_sequential/active/startLN01/terminalI1plusallrequiredoutputs/lockOPEN/no ordinary confirmation |
+| Repository | Entering sourceb08d809faecd10884020d902b79fc0e200f35df8/tree041b726eb6aaae9ad5a41ea713444e618f48a885; main159644848 at entry, later verifiedPR209main23064c95c652cafefea486e30d806ba858d0e1a9 has equal tree. Current reconciled main8f4bf6b9c92dc0712dc008ad0b0b247408141778/35approved other-series imports; ordinary merge pending; candidate recovered by transaction, not a guessed self-SHA |
+| Versions | Method/architecture/reconstruction0.2; source/current1.6; four ledgers/checkpoint1.3; M0.13/S0.14 original adult LN fit/time/UNTESTED/noncurrent identity unchanged |
+| I1 | JSONSHA6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95 unchanged;51knownmissing/27finite notices/290Narō duties. LN10/later releases excluded |
+| Source/locator | BW-JP-V07/Drive1uczKmuZMDOV7-c5XuKFzhwDbt5PkW0n0/1045635bytes/SHA1e367715dc5d6c58309452208258ba146cab73e1416ccbf5403ae8f5846e57c6; mapSHA1e95b7ef89832da99979f6e4bf374b9f7c74338ed83fb466f4bc1572af9a05ae |
+| Verified private evidence | Drive17XVliD1tbuqQevhWnHPT_w8N2m6ef1Gk/40985bytes/SHA7667bf9792c365bd8ee0d685f7cf76df8c7f9a9b8108e6a2646a1e6d9aedcfd5/16members; upload-download equality/all member hashes/CRC verified; no raw primary media |
+| Whole source | 3spines/108paragraphs/2originalimages+538byte complete navigation; complete ZIP image set equals mapped/viewed2, no hidden image content.70native+35original-correspondence checks PASS/0ruby/CRC/source/member/paragraph/image/UTF8/flow verified; colophon2025-08-20/KADOKAWA/Dwango producer |
+| Entering freeze | SHUUKURA-BW07-ENTER-20261017-A1@2026-10-17T17:31:53.267168+00:00; priorb08d809f/tenfullinputs/0fiction0images; allLN01–09/BW03/BW06 exposed, actor interval initially unrefined |
+| First focalizer freeze | F1@2026-10-17T17:34:08.119574+00:00/55p/cover1image/prefix7344bytesSHA0ddbf7093c9f905e44ee732b31cf473978ce62e33a654d34c39e2db0693b776d BEFORE S narrationp56+ |
+| Story freeze | F2@2026-10-17T17:35:56.916704+00:00/108p/cover1image/prefix13079bytesSHA65aa6b4251563f8ceed59aa4a671a71f6f7d2c18a19493b11ec02aabe94d957b BEFORE colophon/navigation/C1 |
+| Whole journal | 2026-10-17T17:43:51.266283+00:00/19995bytes/SHA7166be84bdae51cb2b943ea866931a10f471b9ac7712d5476e07deed2e418564/5observations; exact reading suffix unchanged |
+| C1 exact correspondence | Original LN06p00758–59 dates+LN07p01311 two days and distinctive home/door dialogue identify September27morning;35literal/serializedparagraph checks. New SS perspective/road does not certify full textual equality or another continuity; fictional year/timetable unprovided |
+| Historical states | M-BW07-HOME/ROUTE; S-BW07-HOME(recalled evaluation)/ROUTE. At morning R076 request deferred; known later LN evening scope dispute/reformulated answer is not street-actor knowledge. Adult M/S-V09-EXIT unchanged |
+| Material delta | 8character events/4projections/2readiness;8relationship events/4directions/4older-ruleversions/no new rule IDs;26propversions(5old+19new+2later)/21access/7tensions;7olderclaimversions+4new. Cumulative85claims/360formulations/360propositionIDs/142ruleIDs |
+| Reconstruction | Separate historical evidence addenda only, no new operational candidate/test/independent acceptance/VALIDATEDdomain.13attempts=6firstactionfailures(oneinput-qualified)+1exposure-qualifiedgift+6baseline-ties;5olderclaimforecasts separate/18records |
+| Lanes/HWM | GlobalBW07 onlywholecommit; LN9/9; SS BW07/3of18; KakNONE0/431; NarōNONE0/290; available12/458. SSquarter5/18 and overall115/458 unreached |
+| Unresolved | M exact urgency/timetable and complete motive for pause; S exact self-slowing mechanism and desired gaze satisfaction; actual station/class arrival/lateness/cat discovery/next-day walk absent inside this witness. Later corpus and novel scopes preserved |
+| Next authorized operation | BW-JP-V09/I1ordinal13/Drive1zijopum5J62bvyK_qg4tKmBqbSsa1ZdR/803180bytes/SHA300cf4532f744c790b1c5180f290752b36f59e3b5dc6f66629ad95cc58670329; exact original/admission check before automatic reading |
+| Publication | BW07 author index preflight/source→housekeeping→finalactual-head/eligibleowner-onlynightly/mandatoryexplicitmain required. Earlier source chain closed before any next push; fresh bothheads/rulesets/owner identity; no directmain/global-registry/index authorship |
+| Remaining program | 15availableSS/431parallelKak/290Narōcorrespondences/51knownmissing/27finite discovery/mandatoryvoices; corpus reconciliation/principal+justifiedsupport monographs/specialists/reconstruction tests+limitations/independentV1comparison/integrated argument/adversarial release audit; active run/nextnotNONE |
+
+The novel already records birthday use of the lip product (LN07p01354); this same-morning application is neither first use nor another distinct application merely because it has another textual witness. Original journal/prospective prefixes and accepted earlier readings/audits stay unchanged. No incomplete source or untested model is labelled complete/validated.

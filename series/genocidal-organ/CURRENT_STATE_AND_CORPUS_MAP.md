@@ -5,13 +5,13 @@ artifact_type: corpus_map
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.4'
+version: '0.31'
 status: active_provisional
-scope: Current state and sole first-read entrypoint
-source_boundary: GO-JP-EPUB-001 through complete Part I subsection 2; GO-U002; exclusive before spine 11 text/part0009.html
+scope: Completed original-Japanese sequential run and subsequent-work routing
+source_boundary: GO-JP-EPUB-001 complete; GO-U001–028 through natural epilogue40/41; all44spine occurrences explicitly disposed
 canonical_home: series/genocidal-organ/CURRENT_STATE_AND_CORPUS_MAP.md
 created: '2026-10-16'
-review_status: FOUNDATION_ACCEPTED_CONTINUATION_OWNER_AUTHORIZED
+review_status: SOURCE_RUN_COMPLETE_CLOSING_PUBLICATION_AUDIT_SEPARATE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -24,8 +24,8 @@ project_initialization:
   method_status: active_provisional
   architecture_status: active_provisional
   source_reconnaissance_complete: true
-  source_reconnaissance_scope: BIBLIOGRAPHY_LIVE_DRIVE_BYTES_WHOLE_SPINE_ACTIVE_RESOURCE_RENDER_AND_ADMITTED_UNIT_LOCATOR_VERIFICATION
-  source_admission: GO_U001_GO_U002_ADMITTED_BOUNDED_WITNESS
+  source_reconnaissance_scope: COMPLETE_BOUNDED_WITNESS_ALL44_SOURCE_COVERAGE_WITH_EXPLICIT_FIDELITY_LIMITS
+  source_admission: GO_U001_THROUGH_GO_U028_AND_ALL_ANCILLARY_OBLIGATIONS_COMPLETE
   required_day_one_infrastructure_initialized: true
   required_day_one_infrastructure:
   - 03 Longitudinal Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md
@@ -34,92 +34,85 @@ project_initialization:
   substantive_sequential_findings_at_bootstrap: false
   owner_review: ACCEPTED_SCOPED_FOUNDATION_REVIEW_2026_10_16
   sequential_analysis_lock: OPEN
-  lock_reason: OWNER_AUTHORIZED_CONTINUOUS_SEQUENTIAL_CONTINUATION
-  next_permitted_operation: GO-U003
+  lock_reason: AUTHORIZED_RUN_COMPLETED_NO_FURTHER_SOURCE_OPERATION
+  next_permitted_operation: NONE
 analytical_execution:
   authorization: OWNER_2026_10_16_GO_CONTINUOUS_SEQUENTIAL_TO_NATURAL_EPILOGUE_END
-  sequential_units_admitted: 2
-  sequential_units_completed: 2
-  committed_narrative_high_water_mark: GO-U002
-  evidence_rows: 27
-  claims: 11
+  sequential_units_admitted: 28
+  sequential_units_completed: 28
+  committed_narrative_high_water_mark: GO-U028
+  evidence_rows: 371
+  claims: 88
   predictions_open_untested: 0
-  predictions_supported: 1
-  revisions: 5
-  subjects_assessed: 11
-  directional_relationships: 5
-  knowledge_records: 11
-  other_narrative_admission: GO_U002_THROUGH_EXACT_WITNESS_NATURAL_EPILOGUE_AUTHORIZED_PROSPECTIVELY
+  predictions_supported: 3
+  predictions_underdetermined: 1
+  revisions: 69
+  subjects_assessed: 51
+  directional_relationships: 88
+  knowledge_records: 224
+  other_narrative_admission: NOT_AUTHORIZED
 sequential_execution:
   mode: continuous_sequential
   unit_type: natural_subsection_or_epilogue
   authorized_start: GO-U002
   terminal_boundary: GO_JP_EPUB_001_NATURAL_EPILOGUE_END
-  committed_high_water_mark: GO-U002
-  next_candidate_operation: GO-U003
+  committed_high_water_mark: GO_JP_EPUB_001_NATURAL_EPILOGUE_END
+  next_candidate_operation: NONE
   confirmation_between_units: false
-  run_state: active
-  later_narrative_admission: CONTINUOUS_SEQUENTIAL_ONLY_WITH_PER_UNIT_CLOSEOUT
+  run_state: completed
+  later_narrative_admission: NOT_AUTHORIZED
 repository_state:
   stable_branch: series/genocidal-organ
   routing_input: series/genocidal-organ/.repository/series-registry.json
   materialization_status: PRESENT_REVIEWED
   main_integration: OWNER_CONTROLLED_LANE_ONLY
-  integration_hold_required: OWNER_CONTROLLED_LANE_WITH_FIRST_RESUMED_UNIT_CHECKPOINT
+  integration_hold_required: OWNER_CONTROLLED_LANE_FINAL_RUN_CHECKPOINT
 ---
 
 # Genocidal Organ / 虐殺器官 — current state and corpus map
 
-This is the sole first-read entrypoint for the independent original prose-novel project at `series/genocidal-organ/`, on continuing branch `series/genocidal-organ`. The author is Project Itoh / 伊藤計劃. The foundation is current-eligible **provisional project guidance**, reviewed and accepted for the owner-authorized pilot, then retained for the owner-authorized continuous sequential continuation; historical G0 contains no literary findings. No predecessor is superseded.
+The authorized original-Japanese sequential run is source-complete in exact witness `GO-JP-EPUB-001`, SHA-256 `a4107c01b69c0e8819818eabb0198cc62d4174aa173eb0ebdca3a0dbf93b7df0`. Twenty-seven natural numbered subsections and the natural epilogue form **28 frozen readings**. All **44 OPF spine occurrences** are explicitly disposed, including literary opening/part framing, meaningful epilogue heading40 and whole prose41, author acknowledgment42, edition/rights note43, colophon44, actual cover1 and the remaining opening ancillaries. No GO-U029 is fabricated.
 
-`SEQUENTIAL_ANALYSIS_LOCK = OPEN`
+`SEQUENTIAL_ANALYSIS_LOCK = OPEN` records retained architecture eligibility. The current authorized run is **completed**, and both next source fields are **NONE**. OPEN grants no new run or downstream analytical permission. The original continuous mode/start GO-U002/semantic terminal remain unchanged. The execution high-water resolves that exact original terminal token to actual narrative unit **GO-U028** plus all44 explicit source obligations; the analytical narrative high-water stays GO-U028. No project-global terminal governance closure is invented.
 
-G0 passed for the owner-authorized `single_operation` pilot `GO-U001`: foundation review, initialized ledgers, fresh witness bytes, bounded Japanese rendering and locators, and the exact first-subsection scope were checked. The bootstrap lock was CLOSED. The pilot is closed and prospectively frozen. The owner subsequently authorized continuous sequential continuation from GO-U002 to the exact witness’s natural epilogue end. OPEN is the architecture gate; this current run declaration records the separate owner source authorization. GO-U002 is now the complete admitted high-water mark; the first resumed checkpoint awaits its separate publication/integration verification.
+The [complete source coverage and run handoff](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_COMPLETE_SOURCE_COVERAGE_AND_RUN_HANDOFF.md) binds actual G1 proof `9b1d18972d118bc3e947616fa0c59d7b2afa15b628eb27c014d4502a3a0630b8`, every occurrence and all28 published reading bytes. It distinguishes current source reinspection, inherited whole-unit attestations, precise locator verification and administrative preservation. The closing transaction has its own exact-path preflight, publication/readback and source→housekeeping→final audit requirements; source completion does not assert those future results. Completed exact CI bindings belong to Git, repository statuses and the [rolling receipt](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_CONTINUATION_EXECUTION_RECEIPT.md).
 
 ## Independent progress states
 
-| Responsibility | Present state |
+| Responsibility | Current disposition |
 | --- | --- |
-| Bibliographic identity | Original Japanese print publication verified through NDL; digital and later print records kept distinct |
-| Source inventory | Fresh canonical-Drive bytes and complete package/spine inventory verified; all 44 occurrences have explicit coverage obligations |
-| Authoritative reading witness | `BOUNDED_WITNESS_VERIFIED_THROUGH_GO_U002`: usable Japanese opening and complete subsection2/ruby/locators verified; conversion lineage, three inconsistent edition dates and missing alternate CSS retained as limits |
-| Narrative admission | GO-U001–002; opening framing and full first/second numbered subsections admitted in the exact bounded witness |
-| Sequential reading | 2 completed units through GO-U002; exclusive high-water boundary before spine 11 `text/part0009.html` |
-| Longitudinal instruments | 27 passage evidence records / 108 verified narrative locators, plus 6 retrospective calibration diagnostics; 11 subjects, 5 directional relations, 11 attributed knowledge records, 11 OPEN claims, 1 SUPPORTED prediction / 0 open-untested, 5 revisions; all three ledger dispositions closed for both units |
-| Reconciliation and synthesis | `NOT_STARTED`; coverage, specialist and novel-synthesis gates independently unmet |
-| Character reconstruction | 11 subjects assessed; narrator DOMAIN_BOUNDED descriptively, Williams INSUFFICIENT, remaining subjects RECOGNITION_ONLY; no model produced/validated |
-| Foundation review / publication permission | Scoped review accepted; owner-authorized sequential continuation and the owner-controlled publication lane now apply. Bootstrap merge does not imply reading or source verification; actual Git/CI state belongs to the receipt and Git |
+| Source identity / G1 | PASS for the exact bounded witness and all44 obligations; external edition authenticity/completeness remains unverified |
+| Sequential readings | GO-U001–028 complete and frozen; latest literary reading GO-U028 was fully accepted at `32751c9b7403e7592e326ad3e353c41fbe1ad2c8` before residual source access |
+| Evidence retrieval | 371 passage evidence rows /2,628 verified narrative locators plus6 retrospective calibration diagnostics; legacy sparse locator selection is explicitly distinguished from whole-unit coverage |
+| Required run ledger reconciliation | CLOSED within this sequential run: all84 three-owner unit dispositions,51subjects/156actor+156readiness,88directional relations,224knowledge records,88OPEN claims and69revisions reconciled; exact prior versions and live uncertainty retained |
+| Analyst forecasts | Four original forecasts retain their horizons:3SUPPORTED,1fixed-horizonUNDERDETERMINED,0open/untested; no forced terminal forecast |
+| Character readiness | C001 DOMAIN_BOUNDED descriptively; C007 INSUFFICIENT;49RECOGNITION_ONLY; all model production NOT_STARTED and validation NOT_PERFORMED |
+| Formal downstream gates | Architecture G2–G6 NOT_PERFORMED/separately gated; required source-run ledger housekeeping is not a commissioned retrospective synthesis |
+| Architecture | INITIAL and current three cumulative owners retained after bounded completion role-gap review; no empty specialist/model homes |
+| Repository integration | Stable branch `series/genocidal-organ`, ongoing PR188 OPEN_DRAFT, owner-controlled integration hold; no protected-main merge performed by this run |
 
-## Read order and current homes
+## Read order and canonical homes
 
-1. This entrypoint, then [source and scope / witness map](00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md) for exact source keys, IDs, hash and unresolved source conditions.
-2. [Analytical method](00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_ANALYTICAL_METHOD.md) for admission, locators, prose/form inspection and atomic prospective reading.
-3. [Synthesis architecture](00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md) for ownership, completion gates and the complete character-reconstruction specification.
-4. [Actor, directional relationship and readiness ledger](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md), [knowledge, institutions and coercion ledger](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md), and [claims, predictions and revisions ledger](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md).
-5. [Bootstrap receipt](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_BOOTSTRAP_RECEIPT.md) for the exact authored path manifest, reconnaissance/validation record and review questions.
+1. This entrypoint, then [source and scope / witness map](00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SOURCE_AND_SCOPE_MAP.md) for identity, edition/fidelity limits and the44-occurrence map.
+2. [Analytical method](00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_ANALYTICAL_METHOD.md) and [architecture](00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md) for prospective-state rules, ownership and independent later gates.
+3. [Actor/relationship/readiness](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md), [knowledge/institutions/coercion](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md), and [claims/predictions/revisions](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md) as sole cumulative owners.
+4. [Complete coverage and precise subsequent-work handoff](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_COMPLETE_SOURCE_COVERAGE_AND_RUN_HANDOFF.md), then the [rolling receipt](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_CONTINUATION_EXECUTION_RECEIPT.md) for dated publication/audit facts and operational qualifications.
+5. Frozen readings begin at [GO-U001](01%20Sequential%20Readings/GO_U001_OPENING_AND_PART_I_SUBSECTION_1.md), retain the [attributable language calibration addendum](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_GO_U001_LANGUAGE_CALIBRATION_ADDENDUM.md), and end at [GO-U028](01%20Sequential%20Readings/GO_U028_EPILOGUE.md). Their entering and exit states remain historical knowledge boundaries.
 
-The source map owns the bounded verified witness and separate narrative coverage; G0 is not a completed narrative reading. Git contains methods, analytical state and compact provenance. Original primary evidence and the adopted bounded verification bundle remain in the governed Drive evidence plane; the historical bootstrap made no Drive changes. The source map identifies the pilot bundle and its exact readback hash. No source payload enters Git.
+Git owns analytical text and embedded freezes. Private source-verification packets remain separately routed to the existing approved Drive collection. The final source-only coverage supplement is Drive file `1hAJQBh7avc6LBMWoC-HnEHcK6ST-VUND` (1802096bytes; SHA-256 `c3d69b532f2ba8d2650780d8fa3720f8bb50fd44b346c91602a4cc2d654a706a`; independent full raw-retention QA `4927906f5ad37ebe71449879c32474623f08d1d368cf65f27836ffd732918028`); actual object identity, private sharing state at inspection and full raw readback belong to the source map/handoff. Historical route availability has bounded evidence; no universal future availability or fresh ACL check of all old objects is claimed.
 
-## Next permitted action and boundaries
+## Exposure and fidelity qualifications
 
-Next permitted source action: **GO-U003**, spine 11 `text/part0009.html` through exclusive before spine 12 `text/part0010.html`, after its own entering freeze and natural-boundary check. GO-U002 has closed in full; no GO-U003 or later wording has been opened. Publication and active-checkpoint integration must finish before resumption. GO-U001 and its exact freezes remain unchanged; its disclosed fidelity exposure is historical. The accepted [language calibration addendum](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_GO_U001_LANGUAGE_CALIBRATION_ADDENDUM.md) updates current claims from already admitted Japanese without a new source unit. Retain one complete natural subsection per atomic unit, including meaningful form. The first resumed unit pauses after remote validation for the owner-controlled active-checkpoint integration; this is an operational checkpoint within the authorized run.
+The replacement recovered the actual accepted GO-U008 remote state and complete exact-head chain before new narrative. No accessible predecessor scratch/unpublished source candidate was recovered; inaccessible sessions are not declared nonexistent. Earlier frozen states and every later accepted reading remain byte-exact. Residual entry15:12:15.657978UTC followed U028 full acceptance. The earlier minimum six-character42 acknowledgment-prefix exposure is retained. Current retrospective opening2/3/4/6 reinspection received a separate prospective authorization/five-plane supplement before access; inherited G0 inspection and current views are distinct. Residual exit15:38:35.593052UTC sealed actual source exhaustion with then-pending technical/administrative gates, which later proofs close without rewriting that freeze.
 
-This root owns only this novel. Harmony / ハーモニー is a different analytical project with separate source, observation, subject and claim identities. Common authorship and publication dates are bibliographic facts. Shared fictional continuity, sequel relations and shared argument remain unestablished here. No comparative study is created.
+Inherited familiarity, U012 recognition, separately timed U026/U027 renewals and the U028 admitted-overlap control remain truthful limits. Actual associations remain author-only and outside reviewer/coordinator/public/source-only routes. Deliberate admitted-Japanese support is reported; absence of causal model-prior influence on attention, salience, wording or interpretation cannot be proved. There is no blindness, held-out validation or retrospective forecast rescore. Later findings never rewrite prospective knowledge.
 
-Adaptation films/scripts, manga, other Project Itoh fiction, essays, interviews, reception and English translations are unadmitted. The last category may become a separately identified comparison witness only under later authorization. Philosophical frameworks, including PACTRIH, cannot replace literary evidence and are not activated by this bootstrap.
+The transformed EPUB's acquisition/edition lineage and publisher-master equivalence remain unverified. The publisher electronic date2012-08-01, OPF2012-08-02 and colophon2012-04-25 remain separately attributed. Missing inactive alternate stylesheets remain missing; original active CSS plus declared inspection font/reflow supports wording/form verification, not publisher-pixel or print-page equivalence. Source43's edition-basis notice is internal paratext, not independent authentication. No witness substitution occurred.
 
-## Pilot artifacts and review
+## Next permitted operation and separately gated handoff
 
-Read [GO-U001 and its entering/exit freezes](01%20Sequential%20Readings/GO_U001_OPENING_AND_PART_I_SUBSECTION_1.md), then the three cumulative owners above. The [pilot receipt](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_PILOT_EXECUTION_RECEIPT.md) records scoped foundation acceptance, fidelity/provenance limits, exact source review, granularity and the publication handoff. Full-novel G1 remains unmet until full coverage; specialist/synthesis and reconstruction execution remain separately gated and NOT_AUTHORIZED here. The source audit is independent from branch publication/integration; exact Git/CI results are in that receipt and Git, never implied by coverage.
+**Next source operation: NONE.** No specialist synthesis, integrated novel synthesis, character monograph/reconstruction, simulation, comparison, adaptation/translation/other-title reading or unrelated media work begins from this completion. The handoff identifies existing evidence homes, readiness ceilings, uncertainty and prospective later responsibilities for a separately authorized task. Formal G2–G6 remain separate from this source run's mandatory ledger/prediction reconciliation and G1.
 
-## Governing operation and ownership
+This root owns one prose novel. The other Project Itoh novel remains an independent source-facing context; common authorship establishes no shared fictional continuity or argument. Source payload stays outside Git, and no comparison study or global curation/governance record is authored here.
 
-Live [repository instructions](../../AGENTS.md), [authority state](../../governance/AUTHORITY_STATE.yaml), [scope](../../governance/AUTHORITY_SCOPE.json), [routing](../../governance/CHATGPT_AUTHORITY_AND_ROUTING.md), [initiation policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md) govern. The architecture routes the remaining reasoning, capability, archive and handoff responsibilities.
-
-Authored paths stay under `series/genocidal-organ/`. The local descriptor requests routing; [housekeeping](../../governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md) owns global catalogs. [Character curation](../../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md) owns global discovery. The bootstrap receipt preserves its original owner-review hold. The current owner instruction authorizes sequential continuation through the existing [nightly policy](../../governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md) lane; it does not expand controller rights.
-
-## Current continuation run — owner instruction after pilot review
-
-`GO_JP_EPUB_001_NATURAL_EPILOGUE_END` means the natural narrative epilogue end in unchanged witness SHA-256 `a4107c01b69c0e8819818eabb0198cc62d4174aa173eb0ebdca3a0dbf93b7df0`, with all 44 spine obligations explicitly disposed. Structural candidates suggest 27 numbered subsections and an epilogue; spine 42–43 remain UNKNOWN until reached and any narrative continuation must be included. The semantic terminal token is not a fabricated GO-U ordinal. The actual committed high-water mark remains an admitted GO-U###. No comparison, downstream specialist, reconstruction or philosophical overlay is authorized by this run.
-
-Current continuation artifacts: [GO-U002](01%20Sequential%20Readings/GO_U002_PART_I_SUBSECTION_2.md) and [continuation receipt](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_CONTINUATION_EXECUTION_RECEIPT.md). The pilot receipt remains a historical one-operation record. Current source/read coverage is GO-U002; full-novel G1 is still unmet.
+Live [AGENTS](../../AGENTS.md), [authority state](../../governance/AUTHORITY_STATE.yaml), [scope](../../governance/AUTHORITY_SCOPE.json), [routing](../../governance/CHATGPT_AUTHORITY_AND_ROUTING.md), [initiation](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md) govern. Global routing/character curation and owner-controlled integration retain their own authority.
