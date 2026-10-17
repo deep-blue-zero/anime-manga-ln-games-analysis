@@ -1,0 +1,53 @@
+---
+title: Harmony / ハーモニー — Knowledge, institutions, technology and coercion ledger
+artifact_id: HARMONY_WORLD
+artifact_type: longitudinal_ledger
+series: Harmony / ハーモニー
+series_id: harmony
+generation: HARMONY_BOOTSTRAP_V1
+version: '0.3'
+status: active_provisional
+scope: Knowledge, institutions, technology and coercion ledger
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U002 through spine 10, exclusive before text/part0006_split_003.html; later narrative unread
+canonical_home: series/harmony/03 Longitudinal Ledgers/HARMONY_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md
+created: '2026-10-16'
+review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: true
+evidence_rows: 9
+---
+
+# Knowledge, institutions, technology and coercion ledger
+
+**Current boundary HAR-U002:** nine attributed world/information rows. The historical HAR-U001 no-change disposition remains intact. Narrator explanation, Miaha’s claim, remembered practice, school quotation and embedded thesis are kept distinct; no fictional proposition is treated as external technical validation.
+
+Read [the entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md), [method](../00%20Frameworks%20and%20Methods/HARMONY_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md). This home preserves information access and institutional/world-state changes; the claims ledger owns interpretation, alternatives and revision history.
+
+## State / transition schema
+
+| Record ID / entity or proposition | Unit / scene-time / disclosure order | Speaker, knower, observer and recipient | Information channel and access limits | Asserted rule / observed practice / corroboration | Technology, resources, authority and coercive capacity | Before -> after / who is affected | Evidence / claim IDs / uncertainty |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| `HAR-K001` / adult WatchMe and body-to-words/death rules | HAR-U002 opening; narrator explanation before scenes | Teller -> reader | Formal correction and asserted physiology; no implantation/disposal depicted | Adult entry tied to homeostasis; childhood growth said to prevent entry; mandatory corpse reduction asserted | Technical/social age boundary and bodily classification; enforcement unexplained | U001 no world facts -> reader learns asserted rules; schoolgirls not implanted | [HAR-U002-E001](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e001)–[HAR-U002-E002](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e002); HAR-CL005; death/foam process OPEN |
+| `HAR-K002` / care, public/resource body and membership | HAR-U002; school life/park backstory | Tuan’s generalized account plus remembered invitations/volunteering | First-person experience; no neutral population census | Reciprocity of kindness explicitly demanded; children socially scarce/public, ordinary groups try to remedy Miaha’s solitude | Moral pressure, norms and incentives; pleasures said to be medically prohibited, no legal case shown | Public safety/resource account -> Tuan experiences exhaustion and seeks private choice | [HAR-U002-E004](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e004), [HAR-U002-E009](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e009)–[HAR-U002-E010](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e010); HAR-CL006; effective care countercase K007 |
+| `HAR-K003` / asserted medical misuse capacity | HAR-U002 desk talk | Miaha through narrator -> Tuan/Kian/reader | Attributed explanation and speculative capacity, not successful implementation | Medicine’s potential harmful use contrasted with benevolent software limits | Fictional capacity claimed; no actual hack, weapon production, attack or independent test | Protective toolkit concept -> reader hears subversive capacity account | [HAR-U002-E005](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e005), [HAR-U002-E007](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e007); HAR-CL007; no operational real-world instruction admitted |
+| `HAR-K004` / network library and printed solitude | HAR-U002; recurring practice and first meeting | Narrator describes Miaha; Tuan first learns book identity | Download plus paid printing/binding, possession and reading | Heavy material book deliberately sustains solitude despite available AR/network | Resource cost and attention practice; technology facilitates chosen withdrawal | Girl initially cannot identify book -> first recognition; Miaha already practicing | [HAR-U002-E006](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e006), [HAR-U002-E012](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e012)–[HAR-U002-E013](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e013); HAR-CL007; no total network escape asserted |
+| `HAR-K005` / licensed violent historical images | HAR-U002 disclosure in park memory | Narrator-now -> reader; girl lacked license | Legal qualification named; narrating adult says professionally acquired | Historical visual censorship/qualification asserted; past film violence difficult to access | Information control through access credentials, not universal historical ignorance | Scene-time girl unlicensed -> later narrator licensed; exact date/profession unknown | [HAR-U002-E011](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e011); HAR-CL009; no back-credit of adult knowledge |
+| `HAR-K006` / responsive playground and learning danger | HAR-U002 park/walk | Equipment observed; old deaths and forgetting thesis from Miaha | Current soft/bending apparatus versus mediated old risk | Safety devices presented as responsive; Tuan reports no known local injuries | Protective design and experiential narrowing; causal erasure of fear not demonstrated | Apparatus familiar/unquestioned -> Miaha reframes it as historical change | [HAR-U002-E012](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e012), [HAR-U002-E014](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e014), [HAR-U002-E016](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e016); HAR-CL006–HAR-CL007; instinct/forgetting not collapsed |
+| `HAR-K007` / childhood rescue and medical port | HAR-U002 childhood memory, disclosed during walk | Tuan recollection; father acts; Miaha asks about feeling | Recalled accident and concrete successful treatment | Wound repaired, infection protection administered, child rescued; no felt falling interval | Effective protective technology; child port distinct from adult WatchMe | Injury -> rescue/treatment; visual blood memory persists without distinct remembered fall emotion | [HAR-U002-E015](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e015); HAR-CL006; countercase to medicine as merely oppressive |
+| `HAR-K008` / post-catastrophe medical-welfare history | HAR-U002 walk, marked textbook quotation | Miaha’s nuclear/disease story; Tuan recites school text; Miaha credits success | Mediated history and memorization; explicit hedge about mutation causing unknown virus | Transition to health-centred 生府 and widespread disease removal asserted; ordinary illness unfamiliar to Tuan | Medical welfare/social organization and historical knowledge; no independent epidemiology | Schoolgirl knows memorized transition but lacks felt disease knowledge | [HAR-U002-E016](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e016); HAR-CL006–HAR-CL007; mutation explanation qualified, not confirmed causation |
+| `HAR-K009` / founding thesis and concealed parentage | HAR-U002 private reflection, embedded paper | Tuan -> reader; thesis credits Nuaza/Keita; Miaha receives no disclosure here | Documentary-looking reference within narrative plus narrator family knowledge | Father said to theorize WatchMe-linked technology; relative thirty-five-year-old paper | Scientific authority and personal affiliation; not external proof of priority | Reader learns family tie not securely known by Miaha; Tuan anticipates rejection | [HAR-U002-E017](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e017); HAR-CL009/HAR-CL011; thesis internally attributed only |
+
+Allocate `HAR-Knnn` only after admission. Preserve which person, narrator or institution claims a fact; organizational doctrine is not automatically world truth. Distinguish permission, command, practical ability, incentive, consent, enforcement and outcome. An information channel may transmit misinformation or only a partial account. A later disclosure changes the reader's model without granting earlier actors knowledge.
+
+For mechanisms, record whether the source asserts, depicts or tests causation and what alternatives remain. Keep fictional-world support separate from real-world scientific validation. Japanese technical terms retain source wording and unresolved glosses. If no institutional dimension appears in a unit, record no change rather than invent a row to fill the table.
+
+## Per-unit disposition schema
+
+| Closed unit | Changed records or explicit no-change | Disclosure-frontier effect | Open questions and dependent claim IDs | Transaction reference |
+| --- | --- | --- | --- | --- |
+| HAR-U001 | `NO_CHANGE`; no HAR-K ID allocated. A language/version/encoding label is displayed text, not a demonstrated diegetic mechanism or institution | Reader sees protocol-like framing and anonymous self-description; scene-time knowledge remains UNKNOWN | Operator/referent/causal efficacy of the frame unknown; HAR-CL001 and HAR-CL004 own form/interpretation | [Frozen reading and exit](../01%20Sequential%20Readings/HAR-U001_OPENING_AND_PART_I_01_DEEP_READING.md#prospective-exit-freeze) |
+| HAR-U002 | Added HAR-K001–HAR-K009 | Age/knowledge frontiers, protective practice, norms and mediated institutional history become available; no implementing outer-frame machine is established | Care benefit/coercion coexist; father disclosure, technical misuse efficacy and exact present situation OPEN; HAR-CL005–HAR-CL011 | [Frozen exit](../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#prospective-exit-freeze) |
+
+HAR-U001 correctly left the state/transition table empty at its boundary. Current rows append attributable changes; later corrections preserve that history.
