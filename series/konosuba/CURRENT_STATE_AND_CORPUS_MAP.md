@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: Consulting the Masked Devilwhole supplied edition accepted at29text/26imagescopes; containing publication gate pending; following source unadmitted; fullfixed41continues; frozenexact
+source_boundary: Fantastic Dayswhole supplied edition accepted at25text/15imagescopes; containing publication gate pending; following source unadmitted; fullfixed41continues; frozenexact
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: EXPANDED_MASK_PUBLICATION_GATE
+  next_permitted_operation: EXPANDED_FD_PUBLICATION_GATE
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: EXPANDED_MASK_PUBLICATION_GATE
+  next_candidate_operation: EXPANDED_FD_PUBLICATION_GATE
   confirmation_between_units: false
   run_state: active
 ---
@@ -44,7 +44,7 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 ## 2. Current authority state
 
 <!-- CURRENT_OPERATION_START -->
-**Consulting the Masked Devil whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all29text/26imagescopes. Main2862P/bonus57P/nonfiction51P, 88selected premises/130native voice fragments/31 unchanged-contract local assessments/27ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Fantastic Days separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+**Fantastic Days whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all25text/15imagescopes. Main3645P/bonus0P/nonfiction62P, 92selected premises/177native voice fragments/31 unchanged-contract local assessments/27ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Yorimichi 01 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
 <!-- CURRENT_OPERATION_END -->
 
 The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.

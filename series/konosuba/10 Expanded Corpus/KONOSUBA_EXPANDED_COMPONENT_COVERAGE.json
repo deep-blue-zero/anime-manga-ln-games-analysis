@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-18T21:29:39.453525+00:00",
+  "updated_utc": "2026-10-18T22:54:49.794527+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -22,7 +22,8 @@
       "EXP-03",
       "CONTEXP-01",
       "CONTEXP-02",
-      "MASK"
+      "MASK",
+      "FD"
     ],
     "not_an_expanded_component_percentage": true,
     "published_full_gate_closed": [
@@ -38,7 +39,8 @@
       "EXP-02",
       "EXP-03",
       "CONTEXP-01",
-      "CONTEXP-02"
+      "CONTEXP-02",
+      "MASK"
     ]
   },
   "objects": [
@@ -636,9 +638,9 @@
       "source_id": "MASK",
       "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
       "prior_phase_B": "Principal narratives completely read and frozen-R1 validation accepted/published; scorecard immutable",
-      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Fantastic Days whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "remaining": "Supplied-edition scopes and publication gate closed; expanded synthesis/StageD/finalrelease remain.",
       "admission_utc": "2026-10-18T20:34:30.309852+00:00",
       "admission_sha256": "43aa5463a4d2b510fab84599429c8a2ad62241547e163cedf655fcde63541021",
       "preceding_full_gate_source": "b274b31dfcc96932643feba27e53e1deb2dc7813",
@@ -676,14 +678,45 @@
       "actual_textual_components": 29,
       "reading": "10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_DEEP_READING.md",
       "register": "10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json",
-      "receiving": "10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_RECEIVING_AND_PROVENANCE.json"
+      "receiving": "10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_RECEIVING_AND_PROVENANCE.json",
+      "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "publication_gate": {
+        "source_commit": "e3289990f823c0fe9027d7c940b1456590361094",
+        "closed_utc": "2026-10-18T21:54:52.331728+00:00",
+        "receipt": "09 Audits and Manifests/KONOSUBA_MASK_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+      }
     },
     {
       "source_id": "FD",
       "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
-      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "admission_utc": "2026-10-18T21:55:38.486618+00:00",
+      "admission_sha256": "7dde511db60e6f8db5d1b20a8dbe6acda7c9deb8a3384d5d3b2bba53475dafef",
+      "preceding_full_gate_source": "e3289990f823c0fe9027d7c940b1456590361094",
+      "initial_separate_admission_snapshot": {
+        "source_id": "FD",
+        "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+        "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+        "stage_C_status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+        "remaining": "Full actual bodies/ruby/residuals/images and uncodedseal before formal outcomes;17responsibilities/tenledgers/component receiving/publication. No credit from extraction.",
+        "admission_utc": "2026-10-18T21:55:38.486618+00:00",
+        "admission_sha256": "7dde511db60e6f8db5d1b20a8dbe6acda7c9deb8a3384d5d3b2bba53475dafef",
+        "preceding_full_gate_source": "e3289990f823c0fe9027d7c940b1456590361094"
+      },
+      "accepted_utc": "2026-10-18T22:53:49.333509+00:00",
+      "principal_P_slots": 3645,
+      "other_P_slots": 62,
+      "separate_bonus_narrative": false,
+      "bonus_P_slots": 0,
+      "nonfiction_P_slots": 62,
+      "individually_identified_bonus_narrative_groups": [],
+      "all_native_images_actually_viewed": 15,
+      "actual_textual_components": 25,
+      "reading": "10 Expanded Corpus/Fantastic Days/KONOSUBA_FD_DEEP_READING.md",
+      "register": "10 Expanded Corpus/Fantastic Days/KONOSUBA_FD_COMPONENT_REGISTER.json",
+      "receiving": "10 Expanded Corpus/Fantastic Days/KONOSUBA_FD_RECEIVING_AND_PROVENANCE.json"
     },
     {
       "source_id": "YORI-01",

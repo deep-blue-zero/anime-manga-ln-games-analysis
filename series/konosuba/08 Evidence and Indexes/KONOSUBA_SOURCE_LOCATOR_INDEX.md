@@ -979,3 +979,43 @@ Native2895671bytes/SHA256`fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb38
 | MASK-U029 | text/part0027.html / 0 | BOOKWALKER_CLOSING_LOGO |
 
 Main2862P/bonus57P/nonfiction51P/total2970P; full ruby/residual/image scopes before uncoded seal 2026-10-18T21:05:47.312234+00:00;88selected premises/130native-joined voices/31unchanged-contract local assessments/27ten-ledger appends. Supplemental14accepted/13already publishedof19; mixed5published; global percentage null. All29textual units,2970P and26native images actually received. Seven main bodies2862P, separate electronic bonus57P, nonfiction51P; in addition one full image-only NONFICTION author afterword was visually read. No integral image-only fiction body. Color teasers, chapter portraits, scene illustrations, decorative chibis, logos and creator prose have separate scopes. The web-to-book provenance is not fresh complete reading of all web iterations.
+
+
+## MASK attributable language qualification — 2026-10-18T22:53:33.610711+00:00
+
+[Additive qualification01](../10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_ADDITIVE_LANGUAGE_FORM_QUALIFICATION_01.md) governs effective L2 for MASK-WHOLE-H086/V127 at MASK-U025P0008–0009. Original L3 annotations and publication/report/register bytes remain exact. Cultural commercial-script explanation is sufficient; the selected effect does not require Japanese-form reconstruction. The other two MASK L3 effects, all H judgments, native130joins, original four scores and14blanks remain unchanged. FD HM/JV/PV decisions route the same correction; this is later attributable uptake, not a backdated source judgment.
+
+
+## FD accepted whole-edition routes — 2026-10-18T22:53:49.333509+00:00
+
+Native5358777bytes/SHA256`a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde`. [Component register](../10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_DEEP_READING.md), [92selectedpremises](../10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_HUMOR_REGISTER.md), [177voicecontexts](../10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_VOICE_REGISTER.md), [31 local assessments](../10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| FD-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART |
+| FD-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | REPEATED_COLOR_COVER |
+| FD-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | SEVEN_WRITTEN_CHARACTER_PROFILES |
+| FD-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | COLOR_AQUA_PORTRAIT |
+| FD-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | COLOR_LIA_PORTRAIT |
+| FD-U006 | item/xhtml/p-titlepage.xhtml / 0 | TITLE_PAGE_WRITER_ORIGINAL_CREATOR_ILLUSTRATOR_ROLES |
+| FD-U007 | item/xhtml/p-caution.xhtml / 4 | ELECTRONIC_LAYOUT_NOTICES |
+| FD-U008 | item/xhtml/p-001.xhtml / 6 | TEXTUAL_DESIGN_AND_IMPRINT_CREDITS |
+| FD-U009 | item/xhtml/p-toc-001.xhtml / 0 | IMAGE_TABLE_OF_CONTENTS |
+| FD-U010 | item/xhtml/p-toc-002.xhtml / 13 | TEXTUAL_TABLE_OF_CONTENTS |
+| FD-U011 | item/xhtml/p-002.xhtml / 36 | PRINCIPAL_PROLOGUE_KAZUMA_NARRATOR |
+| FD-U012 | item/xhtml/p-003.xhtml / 522 | PRINCIPAL_CHAPTER_ONE_KAZUMA_NARRATOR |
+| FD-U013 | item/xhtml/p-004.xhtml / 592 | PRINCIPAL_CHAPTER_TWO_KAZUMA_NARRATOR |
+| FD-U014 | item/xhtml/p-005.xhtml / 620 | PRINCIPAL_CHAPTER_THREE_KAZUMA_NARRATOR |
+| FD-U015 | item/xhtml/p-006.xhtml / 560 | PRINCIPAL_CHAPTER_FOUR_KAZUMA_NARRATOR |
+| FD-U016 | item/xhtml/p-007.xhtml / 403 | PRINCIPAL_CHAPTER_FIVE_KAZUMA_NARRATOR |
+| FD-U017 | item/xhtml/p-008.xhtml / 455 | PRINCIPAL_CHAPTER_SIX_KAZUMA_NARRATOR_WITH_QUOTED_LIA_PAST |
+| FD-U018 | item/xhtml/p-009.xhtml / 380 | PRINCIPAL_CHAPTER_SEVEN_KAZUMA_NARRATOR |
+| FD-U019 | item/xhtml/p-010.xhtml / 77 | PRINCIPAL_EPILOGUE_KAZUMA_NARRATOR |
+| FD-U020 | item/xhtml/p-011.xhtml / 17 | HIRUKUMA_AFTERWORD_GAME_NOVELIZATION_PROVENANCE |
+| FD-U021 | item/xhtml/p-allcover-001.xhtml / 0 | FULL_WRAPAROUND_COVER_BIOS_AND_PROMOTIONAL_SYNOPSIS |
+| FD-U022 | item/xhtml/p-colophon.xhtml / 19 | ELECTRONIC_AND_UNDERLYING_PRINT_COLOPHON |
+| FD-U023 | item/xhtml/p-colophon2.xhtml / 3 | ELECTRONIC_RIGHTS_AND_BASE_EDITION_NOTICES |
+| FD-U024 | item/xhtml/p-bookwalker.xhtml / 0 | BOOKWALKER_LOGO |
+| FD-U025 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION_RESIDUAL |
+
+Main3645P/bonus0P/nonfiction62P/total3707P; full ruby/residual/image scopes before uncoded seal 2026-10-18T22:35:15.015450+00:00;92selected premises/177native-joined voices/31unchanged-contract local assessments/27ten-ledger appends. Supplemental15accepted/14already publishedof19; mixed5published; global percentage null. All25units3707P/15distinctimagesactuallyreceived:9principalbodies3645P,nonfiction62P, nodistinctsuppliedbonusfiction. Profileandfullcoverimage-onlyparatextreadseparatelyfromfiction. Hirukumastatesselectivegame-Part-Onecutting/expansion;thisisnotfreshwholegame/film/web/adaptationreading.

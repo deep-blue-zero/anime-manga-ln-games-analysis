@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Consulting the Masked Devilwhole edition accepted at29text/26imagescopes/fullgatepending; following source unadmitted; fullfixed41continues
+source_boundary: Fantastic Dayswhole edition accepted at25text/15imagescopes/fullgatepending; following source unadmitted; fullfixed41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; Consulting the Masked Devilaccepted29text/26image scopes/full publication gate pending; fullremainingprogramcontinues |
-| Next canonical operation | MASK_PUBLICATION_GATE; no Fantastic Dayswhole admission before exact fullgate/freshpublishedauthorityreload |
+| Current phase | Owner-resumed Stage C; Fantastic Daysaccepted25text/15image scopes/full publication gate pending; fullremainingprogramcontinues |
+| Next canonical operation | FD_PUBLICATION_GATE; no Yorimichi 01whole admission before exact fullgate/freshpublishedauthorityreload |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -1025,3 +1025,18 @@ ExactsourceMASK/2895671bytes/SHA256`fea6f72fb35d1561ee736b1adae8cd396fc93adc3166
 ## Consulting the Masked Devil whole-edition analytical acceptance — 2026-10-18T21:29:15.090786+00:00
 
 Main2862P/bonus57P/nonfiction51P/total2970P; full ruby/residual/image scopes before uncoded seal 2026-10-18T21:05:47.312234+00:00;88selected premises/130native-joined voices/31unchanged-contract local assessments/27ten-ledger appends. Supplemental14accepted/13already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Fantastic Days whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Consulting the Masked Devil fullgate closed and fresh authority reloaded — 2026-10-18T21:55:37.813935+00:00
+
+Sourcee3289990f823c0fe9027d7c940b1456590361094/treeb8e8f870aebbc22c0168f1820ffe33f6c404e542,8593remote paths/70changedstreams exact. Source39169061209/job117798115170 and final39169505085/job117799434773 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39169475314/job117799343788NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh535project/66current/fourscores/original14blankreload2026-10-18T21:55:03.518280+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_MASK_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Fantastic Dayswhole unopened; supplemental14of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## Fantastic Days separate native admission and pre-body seal — 2026-10-18T21:56:20.119441+00:00
+
+ExactsourceFD/5358777bytes/SHA256`a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde`,freshCRC/JapaneseOPF/25text/15image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Fantastic Days whole-edition analytical acceptance — 2026-10-18T22:53:49.333509+00:00
+
+Main3645P/bonus0P/nonfiction62P/total3707P; full ruby/residual/image scopes before uncoded seal 2026-10-18T22:35:15.015450+00:00;92selected premises/177native-joined voices/31unchanged-contract local assessments/27ten-ledger appends. Supplemental15accepted/14already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
