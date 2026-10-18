@@ -1175,7 +1175,7 @@ The current wording of the cats numerical claim concerns permission to be cheris
 
 ## KSS10 historical evidence addendum — private veto and changed priority
 
-The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_10_DEEP_READING.md#observation-locator-index) binds complete48 native anchors/26nonempty,26native literal checks, one explicit PDF black-glyph comparison fold/actual glyph crop and33original checks/344bindings. The crocodile tissue cover focalizes; black-cat happiness appraisal is its report. Sendai is currently absent; remembered birthday and separately checked known novel dialogue are not a new present own-voice or held-out sample.
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_10_DEEP_READING.md#recoverable-evidence-and-observation-locator-index) binds complete48 native anchors/26nonempty,26native literal checks, one explicit PDF black-glyph comparison fold/actual glyph crop and33original checks/344bindings. The crocodile tissue cover focalizes; black-cat happiness appraisal is its report. Sendai is currently absent; remembered birthday and separately checked known novel dialogue are not a new present own-voice or held-out sample.
 
 | Responsibility | Evidence and negative constraint |
 | --- | --- |

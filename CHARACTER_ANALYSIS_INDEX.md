@@ -345,6 +345,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`gkm-core-13-amaya-tsubame` — GKM CORE 13 AMAYA TSUBAME](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/13_AMAYA_TSUBAME/GKM_CORE_13_AMAYA_TSUBAME.md)
 
+### Ami Shirakawa
+
+- Entity ID: `shuukura:ami-shirakawa`
+- Entity aliases:
+  - 白川亜美 (ja, ORIGINAL_SCRIPT)
+  - Shirakawa Ami (ja-latn, TRANSLITERATION) — Japanese name order.
+
+#### Subject: Original Japanese light-novel continuity and author supplements
+
+- Analysis subject ID: `shuukura:ami-shirakawa@original-light-novel`
+- Series: `shuukura`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kss07`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-07, 不平と不満と白川亜美: native author parts 07–08 form one late-April first-university-year phone call with Maika. Coverage is limited to this story and its analyzed historical information boundary; original-novel correspondence is contextual support, not continuous novel coverage. Later roommate disclosures and subsequent supplements are not enrolled.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`kss07-call` — KSS-07: old company, performed complaint, curiosity and local restraint](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_07_DEEP_READING.md) — **active provisional authority**
+
 ### An
 
 - Entity ID: `project-sekai:an`
