@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.14"
+version: "1.15"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–05 closed on main; KSS06–10 local whole-unit checkpoints, mandatorySS14/18 publication now due; next source KSS11"
+source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–10 closed on main; KSS11 local whole-unit checkpoint, nextKSS12; next supplement publication SS18/18 atOFF02"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: KSS10_SOURCE_SEMANTIC_BIRTHDAY_AGENCY_AND_ACCOMMODATION_CHECKPOINT_PUBLICATION_DUE
+review_status: KSS11_SOURCE_SEMANTIC_PEER_AGENCY_AND_HOLIDAY_ACCOUNT_TENSION_CHECKPOINT
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -903,3 +903,31 @@ Prior mandatory SS9/18 publication CLOSED_ON_GREEN_MAIN via PR218: source8fd7201
 | Publication | Prior mandatory SS9/18 publication CLOSED_ON_GREEN_MAIN via PR218: source8fd720135c078b43873797d9d207da76672a8c17/main7f4f438e0813e5a53ea1bdfe26fa062904791d45, equal treecd057250531188112c3969eacf6a129c57a12b2f; source39072662070/house39073030088NO_OP/final39073057320/night39073808545/mandatory owner-main39073898141 allSUCCESS/352tests/trusted status. Local whole-unit checkpoints: KSS06 5663a6d5b49ec77db2a00103466bfb8e0eb510f0 / tree 4c1ccf0346671918c5231ee12aa68a6ba13355bb; KSS07 866359e429a794ee850e687d82191984a2f3f872 / tree fb3c0a123757595ffc22616e32ff1b6609156b21; KSS08 2cbaf32a097ec743a51600befb2a304357acfb78 / tree 922ec2d00ea9a4048f596254d1a256289adcdf90; KSS09 7d9af1902d864c3b26bbc376905e13d239db68f8 / tree 290d7828aa930747012b5a1b0fee8d0949da1838. KSS09 ordinary merge incorporates mainf6ff03557ed9a977dd860e232f2e7de52ac41722 and exact approved curation PR200 imports. Local6–10 require mandatory cumulative SS14/18 publication now; no current-tranche remote audit/integration is yet claimed. |
 
 Continue automatically through frozen I1 and all architecture outputs. Missing sources block only dependent claims of completion; no ordinary confirmation, false terminal closure or silent inventory extension.
+
+
+## KSS10 verified publication closure and continuation
+
+Mandatory cumulative SS14/18 publication KSS06–10 CLOSED_ON_GREEN_MAIN via PR219; source95c2b84c243a394bcfaf98934b28db86b78155fe/tree2368396b199de83493f4f10f8faa353df92d3a7a/main03c2b3c1b6250a896c45eb337aad620b06786d62, whole source/main trees equal. Source39080313122/house39080584508NO_OP/final39080609569/night39080981585/mandatory explicit owner-main39081050717 allSUCCESS/352tests/trusted status. KSS11 is the next local whole-unit checkpoint; next mandatory supplement publication SS18/18 atOFF02. Recover exact introducing commit/tree after interruption; historical pending-publication statements above retain their as-of meaning.
+
+## Durable checkpoint after KSS11
+
+**SHUUKURA-TX-KSS-11-20261017-A1** advances only through its complete introducing commit. [Reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_11_DEEP_READING.md) and [audit](SHUUKURA_V2_KSS_11_TRANSACTION_AUDIT.md) bind source/prospective/semantic limits, including the unreconciled fictional geography.
+
+| Field | Recoverable state |
+| --- | --- |
+| Authority/run | Epoch1/GIT_ACTIVE_ACCEPTED;method/architecture/reconstruction0.2;gateOPEN/active/continuous_sequential/startLN01/terminal fixedI1 plus all required outputs |
+| Source | KSS-11/宇都宮舞香と面白ガール/羽田宇佐/AUTHOR_RELEASE_CAPTURE-20261017-A1/I1ordinal24/nativepart02;12120bytes/SHA39dc49f515e7f209d766a25064bfab7b54dfb46997a61ea4359eb3da68e714fb;68anchors42nonempty26blank1137characters0ruby |
+| Maps | Parts identity13879ce36569d8dd549d0941d9192343dadf6f29207614b4bcacef020b23d57d;parent map57a97e968efa2bd77f8dace83618cbe35a06243c30bcd3d2ab5c106b50f67127;unit map260f0980f44a2ac9dff83473ca3888145614d0c79a6cecb54224f5ebf50fe992;all42native literal checks/exact UTF8/serialization/bodyflow/tails first-pass PASS |
+| Metadata/C1 | Complete visible outside framing, declared1113chars/revision2026-05-30 18:49 metadata only. RawNFKC/whitespace42/42each/no additional fold or split reconstruction;five complete extracted-text/render-pixel page pairs;one actual branding view/zero derivative crops/fullpages/audio; complete native preferred, no all-visible certificate |
+| C2/source tension | 12material literal checks/107complete serialized LN09p004240–300,p005240–285 bindings first-pass PASS. Native Maika explicitly at parental home versus original M Dec31舞香も実家に帰っていない ordinary negative; unresolved source-account tension, no particle substitution/invented travel/continuity split |
+| Evidence | Drive1BVBXu9YIBymKuOcd0lMss_W7car_lT6W/68115bytes/SHAa5b6127a530cd94292bf164aa44441209e0f1b5c27c9f707eae2501c47c6bc9c/23members;exact fresh upload-download/all member hashes/CRC PASS, no raw media |
+| Entry/freezes | SHUUKURA-KSS11-ENTER-20261017-A1@2026-10-17T23:47:37.587403+00:00;prior whole95c2b84c243a394bcfaf98934b28db86b78155fe/tree2368396b199de83493f4f10f8faa353df92d3a7a;10inputs9before-images0fiction0images. F1first34 before35–68/wholeF2 beforeC1C2;Q116758bytes/SHAfa915da8fd004725fe33832004079a332c572979869447e5b5341d709609c50c@2026-10-17T23:52:12.227847+00:00;prefixes exact; F1 body-name limit retained, full source66Maika confirmed |
+| Historical exit | MAIKA-KSS11-COUNTERTEASED-EXIT/M-KSS11-COUNTERTEASING-EXIT/S-KSS11-ABSENT-WORK-IMAGE. Current year end/exactday-year unknown; original Dec29/30tutoring andDec31shopping different contexts; adult M/S-V09-EXIT/BW09night and earlier states retained |
+| Actor/rule limits | Maika concern/channel choice/teasing/qualified reassurance versus actual M reports/countertease; imagined brow not video, reported work/night return not actual S shift/return, reported pillar habit not current collision/every-time proof. R162local call-time okay/R163endpoint do-not-mention request with following uptake unshown; all161prior rules retained |
+| Delta | 6character events/3historical projections/3readiness;8new relationships/3directions;2new bounded rules;18propversions(2older16new)/16access7tensions;3older claim versions+3new=128claimIDs451forms588props163rules |
+| Models/roles | M0.13/S0.14 fit/time/UNTESTED/noncurrent/13attempts18forecast records unchanged/no new operational packet or validation. Maika monograph already REQUIRED, now stronger own-motive evidence; principal/Ami studies/full role-gap audit and reconstructions remain mandatory |
+| HWM/next | WholeKSS11commit only:LN9/9;SS15/18;Kak0/431;Narō0/290;available24/458. Next KSS-12/小松澪と謎多き女/nativepart01/I1ordinal25 after exact admission. Next mandatory supplement publication SS18/18/OFF02 |
+| Frozen remainder | I1JSONSHA6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b/ordered458digest2e62f9bd57dd8f65a036d689917df36847affd7fc1d1f6a70dd85f6121da6b95 unchanged;3accessibleSS/431parallelKak/290Narō/51known gaps27discovery/mandatory voices/all required final outputs pending; LN10/later releases excluded |
+| Publication | Mandatory cumulative SS14/18 publication KSS06–10 CLOSED_ON_GREEN_MAIN via PR219; source95c2b84c243a394bcfaf98934b28db86b78155fe/tree2368396b199de83493f4f10f8faa353df92d3a7a/main03c2b3c1b6250a896c45eb337aad620b06786d62, whole source/main trees equal. Source39080313122/house39080584508NO_OP/final39080609569/night39080981585/mandatory explicit owner-main39081050717 allSUCCESS/352tests/trusted status. KSS11 is the next local whole-unit checkpoint; next mandatory supplement publication SS18/18 atOFF02. |
+
+Continue automatically through fixed I1/all architecture outputs. Source-account uncertainty stays explicit; missing mandatory sources block their dependent completion claims, without silently making them optional or stopping unrelated ordered work.
