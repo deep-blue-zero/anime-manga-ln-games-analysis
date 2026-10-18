@@ -792,3 +792,65 @@ Native13672536bytes/SHA256`ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae
 | EXP-02-U058 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION |
 
 Principal3140P/other49P/total3189P; full ruby/residual/image scopes before uncoded seal 2026-10-18T15:16:14.227298+00:00;80selected premises/93native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental10accepted/9already publishedof19; mixed5published; global percentage null. All58text units/50native images actually inspected.3140principal P plus49other P do not count20integral image-only narrative pages. Five four-page Cecily interludes, one prologue/epilogue embedded fable, a same-event reunion comic, Arue-attributed tourist article, map, front composite dialogue, creator comments and Yunyun portrait have explicit unequal scopes. No separate electronic bonus narrative or lower end-coda is supplied in this edition.
+
+
+## EXP-03 accepted whole-edition routes — 2026-10-18T17:10:59.994625+00:00
+
+Native15716486bytes/SHA256`22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87`. [Component register](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_DEEP_READING.md), [87selectedpremises](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_HUMOR_REGISTER.md), [114voicecontexts](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_VOICE_REGISTER.md), [7 local assessments](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| EXP-03-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART |
+| EXP-03-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | REPEATED_COLOR_COVER |
+| EXP-03-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | COLOR_MEGUMIN_CHARACTER_PANELS |
+| EXP-03-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | COLOR_YUNYUN_CHARACTER_PANELS |
+| EXP-03-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | COLOR_HORST_CONFRONTATION_PANELS |
+| EXP-03-U006 | item/xhtml/p-titlepage.xhtml / 6 | TITLE_AND_CREATOR_CREDITS |
+| EXP-03-U007 | item/xhtml/p-caution.xhtml / 6 | USE_AND_LAYOUT_NOTICES |
+| EXP-03-U008 | item/xhtml/p-toc-001.xhtml / 0 | COLOR_IMAGE_CONTENTS |
+| EXP-03-U009 | item/xhtml/p-toc-002.xhtml / 9 | TEXT_CONTENTS |
+| EXP-03-U010 | item/xhtml/p-001.xhtml / 0 | PROLOGUE_BANNER |
+| EXP-03-U011 | item/xhtml/p-002.xhtml / 39 | PRINCIPAL_PROLOGUE |
+| EXP-03-U012 | item/xhtml/p-003.xhtml / 0 | CHAPTER_ONE_BANNER |
+| EXP-03-U013 | item/xhtml/p-004.xhtml / 575 | PRINCIPAL_CHAPTER_ONE |
+| EXP-03-U014 | item/xhtml/p-005.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_I_IMAGE_PROSE_PAGE_1 |
+| EXP-03-U015 | item/xhtml/p-006.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_I_IMAGE_PROSE_PAGE_2 |
+| EXP-03-U016 | item/xhtml/p-007.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_I_IMAGE_PROSE_PAGE_3 |
+| EXP-03-U017 | item/xhtml/p-008.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_I_IMAGE_PROSE_PAGE_4 |
+| EXP-03-U018 | item/xhtml/p-009.xhtml / 0 | DECORATIVE_MEGUMIN_AFTER_INTERLUDE_I |
+| EXP-03-U019 | item/xhtml/p-010.xhtml / 0 | CHAPTER_TWO_BANNER |
+| EXP-03-U020 | item/xhtml/p-011.xhtml / 611 | PRINCIPAL_CHAPTER_TWO |
+| EXP-03-U021 | item/xhtml/p-012.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_II_IMAGE_PROSE_PAGE_1 |
+| EXP-03-U022 | item/xhtml/p-013.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_II_IMAGE_PROSE_PAGE_2 |
+| EXP-03-U023 | item/xhtml/p-014.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_II_IMAGE_PROSE_PAGE_3 |
+| EXP-03-U024 | item/xhtml/p-015.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_II_IMAGE_PROSE_PAGE_4 |
+| EXP-03-U025 | item/xhtml/p-016.xhtml / 0 | CHAPTER_THREE_BANNER |
+| EXP-03-U026 | item/xhtml/p-017.xhtml / 627 | PRINCIPAL_CHAPTER_THREE |
+| EXP-03-U027 | item/xhtml/p-018.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_III_IMAGE_PROSE_PAGE_1 |
+| EXP-03-U028 | item/xhtml/p-019.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_III_IMAGE_PROSE_PAGE_2 |
+| EXP-03-U029 | item/xhtml/p-020.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_III_IMAGE_PROSE_PAGE_3 |
+| EXP-03-U030 | item/xhtml/p-021.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_III_IMAGE_PROSE_PAGE_4 |
+| EXP-03-U031 | item/xhtml/p-022.xhtml / 0 | CHAPTER_FOUR_BANNER |
+| EXP-03-U032 | item/xhtml/p-023.xhtml / 97 | PRINCIPAL_CHAPTER_FOUR_PART_ONE |
+| EXP-03-U033 | item/xhtml/p-024.xhtml / 0 | WIDE_COMIC_SAME_PRESENT_CECILY_PRANK |
+| EXP-03-U034 | item/xhtml/p-025.xhtml / 561 | PRINCIPAL_CHAPTER_FOUR_PART_TWO_WITH_PRINTED_GAIJI |
+| EXP-03-U035 | item/xhtml/p-026.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_1 |
+| EXP-03-U036 | item/xhtml/p-027.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_2 |
+| EXP-03-U037 | item/xhtml/p-028.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_3 |
+| EXP-03-U038 | item/xhtml/p-029.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_4 |
+| EXP-03-U039 | item/xhtml/p-030.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_5 |
+| EXP-03-U040 | item/xhtml/p-031.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_6 |
+| EXP-03-U041 | item/xhtml/p-032.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_7 |
+| EXP-03-U042 | item/xhtml/p-033.xhtml / 0 | INTEGRAL_YUNYUN_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_8 |
+| EXP-03-U043 | item/xhtml/p-034.xhtml / 0 | DECORATIVE_YUNYUN_AFTER_FINAL_INTERLUDE |
+| EXP-03-U044 | item/xhtml/p-035.xhtml / 0 | EPILOGUE_BANNER |
+| EXP-03-U045 | item/xhtml/p-036.xhtml / 104 | PRINCIPAL_EPILOGUE |
+| EXP-03-U046 | item/xhtml/p-037.xhtml / 0 | CAST_SPECIAL_THANKS_MEGUMIN_YUNYUN_PORTRAIT_CLOSURE |
+| EXP-03-U047 | item/xhtml/p-038.xhtml / 0 | STAFF_CREATOR_COMMENTS_NO_LOWER_FICTIONAL_CODA |
+| EXP-03-U048 | item/xhtml/p-039.xhtml / 4 | WEB_TO_PRINT_PROVENANCE_NOTICE |
+| EXP-03-U049 | item/xhtml/p-040.xhtml / 5 | ILLUSTRATION_AND_DESIGN_CREDITS |
+| EXP-03-U050 | item/xhtml/p-colophon.xhtml / 18 | ELECTRONIC_COLOPHON |
+| EXP-03-U051 | item/xhtml/p-bookwalker.xhtml / 0 | RETAILER_BRANDING |
+| EXP-03-U052 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION |
+
+Principal2614P/other48P/total2662P; full ruby/residual/image scopes before uncoded seal 2026-10-18T16:44:48.214319+00:00;87selected premises/114native-joined voices/7unchanged-contract local assessments/31ten-ledger appends. Supplemental11accepted/10already publishedof19; mixed5published; global percentage null. All52text units/48native images actually read.2614principal P plus48other P do not count20integral image-prose pages in four Yunyun interludes of4/4/4/8pages. Separate chibi closures IMG023/040, same-event prank comic, printed voiced-い gaiji missing from base extraction, banners/color composites, cast portrait and creator comments have explicit unequal roles. No separate electronic bonus or lower end-coda supplied.
