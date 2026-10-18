@@ -273,3 +273,23 @@ DUST-04exactlocal`Konosuba Extra - Dust - Volume 04.epub`,11564184bytes/SHA256`d
 ## Dust04 supplied-edition acceptance — 2026-10-18T07:29:49.102050+00:00
 
 [Full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md) is accepted at21actual textual/24native image scopes, containing exact publication/full gate pending. Principal2648P/other61P/total2709P, no separately supplied bonus; all ruby/residuals/images read before the07:07:56UTCuncoded seal and68selectedpremises/80nativeverifiedvoice/7localassessments/34ten-ledger appends. [23current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json) retain actual coercion, partial trigger comparability, provider motives, failed mission, paid compensation, duplicate frame and unsettled accounting. Original admission and allother40rows remain exact. Supplemental4accepted/3already publishedof19; mixed5published; globalpercentage null. Close fullgate/freshreload before Dust05 admission; fullprogram continues.
+
+
+## Dust04 exact publication reconciliation — 2026-10-18T07:47:09.945880+00:00
+
+Dust04 source`a3451baadc55920d79d82c702e9cfc6d6eb817c0`/tree`14f61171233e0b9816213dfd951f5cc5e19daebe` is accepted/published/full-gate closed at21text/24image supplied-edition scopes. All8387remote paths/34changedstreams match. Source39108260010/job117618687790and final39108563252/job117619585614each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39108534761/job117619502548NO_OP/exactfinalsource dispatch; exact integrationstatus succeeds on the actual source. [Gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_DUST04_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes prior containing-pending history. Fresh352project/66current/fourscores/original14blank reload2026-10-18T07:46:42.711151+00:00preceded any next source admission;72historicalpins unchanged. Supplemental whole editions4of19 and allfive mixedprograms published at stated scopes; globalcomponentpercentage null. Dust05stillunopened and requires separate admission; fullremainingprogram continues.
+
+
+## Dust05 separate native admission — 2026-10-18T07:48:01.838206+00:00
+
+DUST-05exactlocal`Konosuba Extra - Dust - Volume 05.epub`,6713820bytes/SHA256`bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc`,freshCRC/JapaneseOPF/19textunit/21image structure verified only after preceding source`a3451baadc55920d79d82c702e9cfc6d6eb817c0`fullgate/freshreload. Pre-body informed-root context sealed, original sevenDust01questions and14blankfuturefields unchanged. Actualnewbody/imagecredit0atadmission; extraction is not literary completion. Whole-edition source-first readingactive/unaccepted; no formal outcomes until complete uncodedseal. Other40rows unchanged; fullremainingprogramcontinues.
+
+
+## Dust04 N01 attributable precision — 2026-10-18T08:13:02.489477+00:00
+
+[Current narrow correction](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) removes the added bodily-injury threshold from the unchanged coercive-danger contract and counts the unilateral leisure wager after no as direct contrary choice. Original a3451baa report/assessment/uncoded streams remain exact historical publication; actual protection and Dust03 contrary evidence remain. Correction is dated after Dust05uncoded reading through U011P1344; no Dust05formal outcome or original prebody rewrite. Joins the next exact publication/full gate.
+
+
+## Dust05 supplied-edition acceptance — 2026-10-18T09:04:10.135762+00:00
+
+[Full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md) accepted at19text/21image scopes, containing exact publication/full gate pending. Principal2733P/other60P/total2793P; all ruby/residuals/images before08:23:51UTCuncodedseal.68selectedpremises/98nativevoice/7unchangedquestionassessments/34ten-ledgerappends. [29qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) retain active secrecy, actual identity/transformation disclosures, coercive-delay adverse evidence without bodily threshold, partial new trigger, term-checking counterevidence, owned refusal/force, forest remainder and payment/permission stages. Original admission/allother40rows retained, including additive Dust04 current precision. Supplemental5accepted/4already publishedof19; mixed5published; globalpercentage null. Close fullgate/freshreload before Dust06 whole-edition admission; fullprogramcontinues.

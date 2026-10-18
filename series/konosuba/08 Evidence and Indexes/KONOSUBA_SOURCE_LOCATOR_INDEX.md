@@ -540,3 +540,25 @@ Native11564184bytes/SHA256`db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0f
 | U017–021 | Allcover/colophons20+3P/retailer/nonspine navigation | Marketing/credits/notices/reference; no separately supplied bonus story |
 
 Principal2648P/other61P/total2709P includes blank/image slots; every ruby and nonparagraph residual received. Images are separately dispositioned, and their placement does not certify the adjacent action pictured. Two explicit Japanese-form mechanisms warrant L3; damage/boat comparisons provide H4license; no H3quota or fantasy-to-H4 shortcut. Four scores and original14futurefields remain unchanged.
+
+
+## Dust04 N01 attributable precision — 2026-10-18T08:13:02.489477+00:00
+
+[Current narrow correction](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) removes the added bodily-injury threshold from the unchanged coercive-danger contract and counts the unilateral leisure wager after no as direct contrary choice. Original a3451baa report/assessment/uncoded streams remain exact historical publication; actual protection and Dust03 contrary evidence remain. Correction is dated after Dust05uncoded reading through U011P1344; no Dust05formal outcome or original prebody rewrite. Joins the next exact publication/full gate.
+
+
+## DUST-05 accepted whole-edition routes — 2026-10-18T09:04:10.135762+00:00
+
+Native6713820bytes/SHA256`bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc`. [All19text/21image dispositions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_COMPONENT_REGISTER.json), [full17responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [68selectedpremises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_HUMOR_REGISTER.md), [98voicecontexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_VOICE_REGISTER.md), [7localassessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native route / P slots | Current authority |
+|---|---|---|
+| U001–009 | Front art/captions/credits/caution4P/TOC8P/profiles | All actual images; unequal editorial/marketing authority |
+| U010 | p-002.xhtml /637P | Chapter1, money/mining/dreams/main-side events |
+| U011 | p-003.xhtml /1344P | Chapter2, child care/bounded recovery/coercive influence |
+| U012 | p-004.xhtml /723P | Chapter3, campaign/search/transformation/name/contract |
+| U013 | p-005.xhtml /29P | Reader-only epilogue, bannerIMG017 |
+| U014 | p-006.xhtml /25P | Afterword/contributorIMG019 |
+| U015–019 | Allcover/colophon20P/use3P/retailer/nonspine nav | Full art/metadata/notices/reference, no separate bonus |
+
+Principal2733P/other60P/total2793P. Images014/016/018 depict arrival/pastbattle/princess rather than all neighboring actions. Original98anchors exact and interval-time unknowns retained. One central Japanese blend warrants L3; no primaryH3/H4quota or fantasy shortcut. Earlier additive Dust04N01precision travels in this publication. Frozen scores and14futurefields unchanged.
