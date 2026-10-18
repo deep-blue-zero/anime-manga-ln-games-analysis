@@ -4,7 +4,7 @@ artifact_type: claim_revision_ledger
 scope: MAIN_ONLY_V01-V17_AND_LATER_ATTRIBUTABLE_REVISIONS
 generation: V1
 status: active_provisional
-source_boundary: Accepted Japanese main-principal evidence through CP06 and bounded post-cutoff principal verification; holdout and expanded evidence not yet admitted
+source_boundary: Preserved main-principal CR-MAIN-001–007; separately tagged accepted frozen-R1 Phase B evidence qualifications and deferred revision obligations; no R1 revision or expanded narrative admission by this index
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -118,3 +118,67 @@ This ledger's current corrections require semantic receiving with the seven spec
 **Identity and actual receiving:** native MAIN03 is 3,497,582 bytes, SHA256 `c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc`; p008 raw SHA256 `c890274d91685f7af1bcf9e5d4291540c2fcd196b30906cfe441daace947f64e`/680 all-body P; p011 raw SHA256 `c91836e0f07c7e2106ae6e006739525e1efcb8e090bf71963105e65519840334`/148P. Both are already in the frozen 137-member contract. The continuing independent reader actually read 260 base slots (p00869–180 and p0111–148), with20 selected full raw paragraphs/all32 present ruby objects. Root read the two complete critical scenes,83 base slots, and material ruby subtrees at128/33, plus an incidental p00869 schema display; root's260-projection native equality check is mechanical, not a claim to have read all260. Producer separately read those83 scene slots and complete raw/ruby128/33 after the shared objection. Overlapping shared verification is not independent discovery or additional trials. HIGH confidence concerns what these passages establish and fail to date; the actual earlier age remains unknown.
 
 **Current changes and impact:** the provisional monograph narrows its two age-bearing sentences and supplies exact member routes. The Darkness pre-case source-precision successor changes only §3's age sentence and D-W03's locator cell; all sixteen Darkness/party structured commitments and the party model remain exact. Four mutable longitudinal appendices identify the qualification outside old events/frozen blocks. The original66-pin main-principal snapshot is unchanged and independently retrievable at `39b498f1852225424830b7daf6de59abedbb8c02`; four current ledger append versions have separate identities. All previous generations, original blank fields, adverse evidence, formal scores and the fixed41-object seal remain preserved. The independent reader's initial blanket source approval was incomplete and has an attributable age erratum; it is not silently rewritten as having caught this defect. Root's earlier model-only acceptance is qualified by this later bounded finding before any response or holdout exposure.
+
+
+## Phase B evidence qualifications and deferred model-revision obligations
+
+These entries record accepted validation evidence while leaving all frozen R1 model bytes, original tests/settings/responses, forecasts and source scorecards unchanged. They are an attributable queue for later Stage D, after expanded analysis; no new generative model or retrospectively improved holdout score is applied here. The seven CR-MAIN entries retain their original main-only scope. The exact all 39 / 25-member route overlay is separately tagged Phase B.
+
+### CQ-VALIDATION-001 — Civil surface is not an unconditional status-response law
+
+**Original claim:** frozen R1-K08, exact registry contract and original civil/informational contrast. **Accepted new evidence:** YORI01 C04P34 newly supplies the debt-NEET label; Kazuma35 replies with a direct insult/stop demand. The accepted record is locally FALSIFIED. Compatible understated pressure at C04P393 is a different occasion and does not cancel this full local opposite. Full current corrections, old initial labels and source chronology remain in YORI01_ACCEPTED_ADJUDICATIONS.json and YORI01_EVENTS_AND_OPPORTUNITY_INDEX.json.
+
+**Later revision question:** constrain when civil framing versus explicit status/label redress is selected; do not add an unstated exception to the old prediction. Direct surface is not proof of general reasoning inability or absence of a practical goal. **Impact:** preserve K08 local F, no whole-model retirement or synthetic accuracy claim. **Remaining uncertainty:** generalization across counterparts, stakes and register awaits expanded context; original main-only information is not retroactively changed.
+
+### CQ-VALIDATION-002 — Unwantedness and performed objection are different variables
+
+**Original claim:** frozen R1-E06's actual resistance/limit response under the original familiar-act guards. **Accepted new evidence:** DUST07 C03P647 objection precedes secrecy653–658, renewed abuse659/661 and explicit unwanted endurance660/662; new insult663 precedes pause664 and outburst665. The accepted renewed post-information occasion is locally FALSIFIED at MODERATE functional confidence. A known protective goal explains silence without making the act welcome, speech impossible, or the frozen condition inapplicable by a newly invented exemption.
+
+**Contrary evidence:** earlier/later protests, real objections elsewhere and the coherent-whole-confrontation/history/untagged-speaker rival remain material. Epi122 may be a genuine limit request; low anger energy127 is not inability to speak and is not a second full failure. DUST06's three quiet/yield neighborhoods remain AMBIGUOUS rather than being promoted by analogy. **Later revision question:** model inhibition and competing protective goals separately from disapproval/consent while preserving the unchanged old score. **Impact/uncertainty:** one bounded failure, not per-line trials or global retirement; source occasion granularity remains disputed. Analyst consent bookkeeping is not a performed character objection.
+
+### CQ-VALIDATION-003 — The sword's commercial explanation has a newly private counterframe
+
+**Original wording:** the accepted V16 reading says, “The useful sword Dust lends remains useful even when its profit motive is exposed”(C3P0250–0264), and later says the loan survives “the revelation of his resale plan.” Preserve that original main-only reading and Kazuma's contemporaneous information.
+
+**Accepted new evidence:** DUST07 C01P1081–1111 gives Dust's first-person private account: princess gift/one-use fatal-magic protection1086, only generic information to Kazuma1093, Leen's corpse-loot/profit1097 and knowingly coordinated cover1103. Possible profit1109 remains. The later account qualifies treating the public commercial explanation as exhaustive independently observed motive; it does not prove pure altruism, no resale possibility or an omniscient narrator.
+
+**Later revision question:** distinguish public cover, privately reported attachment/protective purpose and remaining opportunism; attribute viewpoint/chronology and conflicting access. **Impact:** useful aid remains observed and mixed incentives remain possible. This is a future attributable literary/model qualification, not another R1 failure, a newly retrospective main fact, or permission to rewrite V16/frozen R1 now. **Remaining uncertainty:** causal weight and first-person self-presentation require the full natural-order secondary evidence. Root's later Dust01–05 account is retrospective after 06/07; the separately shielded reader's narrower exposure limits must remain explicit.
+
+
+## Stage C DUST-01 attributable source precisions — 2026-10-17T22:53:08.846506+00:00
+
+| Revision ID | Old candidate claim | Current accepted claim | Primary route / consequence |
+|---|---|---|---|
+| CR-EC-DUST01-001 | Apologizes after the party exchange | Resolves to apologize when Kazuma returns; performance not depicted there | C01P169–176; C03P1–14. REVISE action-completion claim, retain learning. C05P521–522 separately really depicts apology. |
+| CR-EC-DUST01-002 | Recognizes a simply stronger opponent | Recognizes Mitsurugi’s considerable ability and Dust’s own present drunken disadvantage; P133 denies simple incapacity to win | C02P132–135; REVISE unconditional ranking, retain withdrawal/face saving/credit threat. Applies also to D01-V09. |
+| CR-EC-DUST01-003 | Surviving assassin as settled identity/condition | Vanished attacker; actual spear-butt hit and collapse, no medical certainty or complete occupational identification | FinalP773/796–798; EpiP7. DOWNGRADE certainty; protective use of nonblade end remains. |
+| CR-EC-DUST01-004 | Image14 Dust; image16 Dust; image19 Yunyun; image17 maid-like costume; image22 Luna candidate | Image14 Mitsurugi; image16 Chris; image19 Sena; unsupported costume inference withdrawn; image22 Luna contextually identified | C03P216–221; C04P144–167/544–565; C05P408–420; FinalP314–338. Five source-scene/image-join precisions; original component seal and before-images retained. |
+
+The receiving/provenance artifact preserves exact original/current product pins and old/new values, including the presentation-only H36 routs correction. Neither this table nor expanded observations revise any main-only reconstruction model, Gen prediction, original blank or holdout score. Remaining ambiguity about past oath, Leen’s knowledge, dream onset and attacker condition is OPEN.
+
+
+## Stage C artbook attributable corrections — 2026-10-17T23:27:29.977226+00:00
+
+| Stable revision | Preserved old candidate / scope | Accepted source-backed precision | Primary route / consequence |
+|---|---|---|---|
+| CR-EC-ARTBOOKS-001 | Cheers V1: Wiz board-game win, no-blood proposal, Megumin nine-kill first contest | Wiz Explosion contest is reported; bloody fight proposed to Chris; single continuous frog contest, Yunyun cumulative9then16; Megumin only one narrated Explosion with no exact count | CHEERS119/B1/120/B2/121–122. REVISE old initial reading; no fair worldwide rank or independent duel proof |
+| CR-EC-ARTBOOKS-002 | Cheers initial mixed recipients/objectors and no completed action in ending | Chris addresses exclaiming Megumin but Aqua takes snack; Kazuma withdraws after lethal cost then Megumin wants tool; Wiz/Kazuma object, A/D receive tea; Darkness cheek-poking actually occurs while detailed duel harm remains unshown | CHEERS120/B1–B3/122/B3. REVISE actor/info/order/action claims, preserve all originals |
+| CR-EC-ARTBOOKS-003 | I’s intermediate overrepair excludes Kazuma hedge and misassigns ソロパーティー | Both Yunyun direct question and Kazuma hedged forgetting explanation span121last→122first columns; ソロパーティー belongs to Yunyun, ぼっち to Megumin | CHEERS121/B3→122/B1. RESTORE supported narrator plane; neither proves private cause. Root V1 narrow hedge was source-supported; not every initial sentence was erroneous |
+| CR-EC-ARTBOOKS-004 | Blessing initial H3 strings justified by source-plane/extrapolation cautions | All28original H3-bearing rationale warrants qualified under literal gag-contingency definition; original68records/codes/flags remain exact, no replacement H class or zero-H3 claim invented | Blessing original register + all28row overlay + protocol qualification. REVISE stated warrant eligibility; source cautions separately valid, no pooled frequency/J02 score |
+| CR-EC-ARTBOOKS-005 | Blessing original normalized form/gesture and potential stripping/afterword scope | Actual コレは絶対売らない; 手をわきわきさせる is wiggling not blow; Yunyun友達なんて欲しくない; S054 publication/imagined art distinct; Darkness completed stripping not explicit at S147 | BLESSING009/039/054/144/147. Attributable own-note precision; original seals retained, tiny uncertain glyph not used for L3 |
+
+These corrections supersede private initial candidates through ordinary attributable adoption; they do not rewrite accepted main-only readings, frozen generations or any original validation result. Exact original/current pins and receiving scopes are in the two public provenance receipts. Remaining story dates, reprint relationships, causal uniqueness and small-text limits remain OPEN.
+
+
+## Stage C FAN-MEM attributable revisions — 2026-10-18T00:05:03.198219+00:00
+
+All [source routes/currentprecision](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) remain expanded-only. Originalreport/24H/23V/rootnotes/seals are preserved by [provenance](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_AND_PROVENANCE.json); no R1/frozenforecast/holdout score revised.
+
+| Revision | Oldscope/claim | Currentclaim andprimaryanchor | Contraryevidence/uncertainty/impact |
+|---|---|---|---|
+| CR-EC-FAN-001 | Expiringticket/trueinstitutionaldeadline shorthand | S098 genuinevoucher, but Kfabricatessame-daylabel/date; deceptioninducesperceiveddeadline | Observedinfighting survives; actualexpiry/service/deathsnotcertified. H1/L0scopeactualdeception, no newtest |
+| CR-EC-FAN-002 | Dust/Leentest “proposedandobserved” ambiguous | S098 actualpartyarrival; VanironlyproposesLeen-facingticketexperiment | NoperformedDustchoice/Leenreaction/affectionincrease inferred; no R1rescore |
+| CR-EC-FAN-003 | FM-H07originalH1 onclothingcapacity | S072 editorialreportedprotection/pain/coldlimits; currentHN/Anewperformedbehavior | Noreference→directbehaviorconversion, H3notuncertainty/H4notmagic; original code unchanged |
+| CR-EC-FAN-004 | FM-V15originalL3 becauseidiomistranslatedliterally | S102 ordinaryhelpidiom, noexploitedstripambiguity; currentL2moderate/L1rival | OriginalL3preservedwithpostreceivingjudgment; FM-V05selfproverb-specificL3defensible/culturalpragmaticalternatives |
+| CR-EC-FAN-005 | RootinitialS102actor reversal andlast-panel-onlyblastreluctance | S102 Kazuma kicks Aqua; S106–107 Mstaff/aura→Explosion/blast supportsMcasting | Sreaderoriginalwasright; rootsource-correctionnotnewindependentagreement. Comicblastshown/prosetoweroutcomenotshown; no casualties/durabledamage |
+| CR-EC-FAN-006 | ConfidentAcategoryerror/newAselfproverbturn shorthand | S060 Aquahedgedrankrecollection; S072 reportedAquaselfquoteineditorialcaption | Retainactualhedge/source plane. Nouniversalignorance/completeoriginalvoicewindow ornewly dated MAIN event |

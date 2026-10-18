@@ -1,0 +1,2965 @@
+{
+  "schema": "KONOSUBA_TRPG_ADV_SELECTED_PREMISE_ANALYSIS_V1",
+  "assigned_after_seal": true,
+  "uncoded_seal_sha256": "311a0e465734dd4508b34234e11cc7b1981c25b1c957fde1f7da10fd8ee3765c",
+  "input_uncoded_page_log_sha256": "2e2d85c5f0616bd6444f1fe7bf4ea7e179b18e35159a2954772469dd41ad2945",
+  "selection": "Purposeful descriptive premises from the complete source-first pass. All282 initial comic observations remain available separately. Selected rows are not a complete gag census, a natural voice population, independent trials, main-J01/J02 denominators, new holdout tests or R1 validation.",
+  "H_protocol": "H1 literal behavioral evidence at its own source plane; H2 real disposition amplified for comedy; H3 the particular behavior depends on the local punchline; H4 actual nonliteral comic license. Source staging/uncertainty and explicit game mechanics do not by themselves warrant H3/H4. N/A for no performed behavioral target.",
+  "L_protocol": "L0 portable premise; L1 materially phrased/timed/tone-dependent layer; L2 register/pragmatic relationship materially matters; L3 specifically Japanese form centrally requires reconstruction. MIXED separates layers. No automatic L3 from Japanese script, idiom or fantasy terminology.",
+  "rows": [
+    {
+      "id": "TRPGA-U001",
+      "premise": "Teaching praise becomes an indirect plural accusation",
+      "spine_interval": [
+        5,
+        5
+      ],
+      "printed_page_interval": [
+        "003",
+        "003"
+      ],
+      "authority_plane": "staged teaching balloons",
+      "L_class": "L2",
+      "L_whole_and_nested_reason": "The withheld plural referent 誰かさんたち and demand to name names make the attack indirect and socially deniable; this is a pragmatic layer.",
+      "H_class": "H2",
+      "H_target_and_reason": "Kazuma's blame-oriented comparison is amplified in a teaching exchange; no individually named diagnosis is supplied.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "64db904d14a69726d6af279fefa62c586ff885dffd1662922c4b2d08eab5d9a3"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S005"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U002",
+      "premise": "No advanced class is mistaken for no improvement",
+      "spine_interval": [
+        6,
+        6
+      ],
+      "printed_page_interval": [
+        "004",
+        "004"
+      ],
+      "authority_plane": "staged teaching balloons",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "A question, narrow answer and overinference corrected by useful information remain portable.",
+      "H_class": "H1",
+      "H_target_and_reason": "Kazuma's actual inference and Vanir's corrective information occur at the teaching plane; Aqua never explicitly denies all strengthening.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "aeebce09ae97cbc2e1bbb5e40f5a42c2fc740fa473617745b1ce57f820d4864e"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S006"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U003",
+      "premise": "Friendship appreciation after reassembly",
+      "spine_interval": [
+        11,
+        11
+      ],
+      "printed_page_interval": [
+        "009 (divider)",
+        "009 (divider)"
+      ],
+      "authority_plane": "editorial replay divider",
+      "L_class": "L1",
+      "L_whole_and_nested_reason": "The earnest friendship tag after colleagues reassemble supplies a mild tonal invitation; a resolved joke is uncertain.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "No harmful or anomalous behavior is demonstrated; prior loneliness knowledge cannot manufacture a punchline.",
+      "soft_eligibility": true,
+      "source_interval_image_hashes": [
+        "f221df024da57d8686e0dbc331219a984e75c709a24dc4ed1c989be8212dd37e"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S011"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "MODERATE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U004",
+      "premise": "Low-level advanced class sounds contradictory",
+      "spine_interval": [
+        17,
+        17
+      ],
+      "printed_page_interval": [
+        "015",
+        "015"
+      ],
+      "authority_plane": "replay table and class explanation",
+      "L_class": "L1",
+      "L_whole_and_nested_reason": "The label's apparent contradiction produces table laughter; the actual rule permits the combination.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "A name/rule contrast does not establish a fictional behavioral disposition or nonliteral physics.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "75b7c68b0e6bb20be9a2a291ebff0c68dc633fb4e9a80b4c533bf44a9337c0f6"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S017"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U005",
+      "premise": "Trust Aqua alone alongside newly acquired distrust skill",
+      "spine_interval": [
+        18,
+        18
+      ],
+      "printed_page_interval": [
+        "016",
+        "016"
+      ],
+      "authority_plane": "edited replay PC speech and table response",
+      "L_class": "L2",
+      "L_whole_and_nested_reason": "Devotional reassurance and the qualifier さえ shape an expansive religious promise; table comment supplies a distinct skeptical audience.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert's sectarian self-justification coexists with useful skills. It is an amplified disposition, not proof Aqua intervened.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "df975c6520b0fe8ca8ef40807abc14d75e389863b7fdf702c866feb0b391c0cd"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S018"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U006",
+      "premise": "Strong spell output surprises its own designer",
+      "spine_interval": [
+        19,
+        20
+      ],
+      "printed_page_interval": [
+        "017",
+        "018"
+      ],
+      "authority_plane": "edited replay table",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Unexpected output, data checking and a balance-broken exclamation are portable; 火力 denotes output rather than fire element.",
+      "H_class": "H1",
+      "H_target_and_reason": "GM checks and players react at table; neither humor nor surprise proves systemic balance failure.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "d1b332ac6a0ba55b5aa2742385d5e23f6b0e219f6f52f905992a7addd0db0257",
+        "e12e73da743f079b61a7d728c2655f0978bad5808fe09ecdd150174f1c909eb8"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S019",
+        "TRPG-ADV-S020"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U007",
+      "premise": "Romantic status competition runs into frog-work routine",
+      "spine_interval": [
+        20,
+        21
+      ],
+      "printed_page_interval": [
+        "018",
+        "019"
+      ],
+      "authority_plane": "edited replay PC and player talk",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Grand prince expectations meet hotel comparisons and repetitive frog hunts; the causal contrast survives translation.",
+      "H_class": "H2",
+      "H_target_and_reason": "Temiren seeks romance/status while party members deflate her appraisals; reciprocated romance and actual separation are not established.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "e12e73da743f079b61a7d728c2655f0978bad5808fe09ecdd150174f1c909eb8",
+        "9f82b42c641a881b171a516c2c6ce8caa0743ef5579286a73c07a83675ecc756"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S020",
+        "TRPG-ADV-S021"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U008",
+      "premise": "Health gratitude becomes planned poison-and-cure service",
+      "spine_interval": [
+        21,
+        23
+      ],
+      "printed_page_interval": [
+        "019",
+        "021"
+      ],
+      "authority_plane": "edited replay construction and PC avowal",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable manufactured harm/remedy structure; マッチポンプ is a salient table diagnosis needing contextual gloss but not necessarily central Japanese-form reconstruction.",
+      "H_class": "H2",
+      "H_target_and_reason": "Chio's preoccupation with health is exaggerated into knowingly creating illness. At this interval it is a plan/build, not completed poisoning or benevolent care.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "9f82b42c641a881b171a516c2c6ce8caa0743ef5579286a73c07a83675ecc756",
+        "207d7e14c830010ec1f3ff907b53c174e53eca07b97cd3ae22638cdb7f353e31",
+        "70c296ce30b0c13d5a1effa4b6ed195c2a9e9c63f12bb2e86b6546b191552426"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S021",
+        "TRPG-ADV-S022",
+        "TRPG-ADV-S023"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U009",
+      "premise": "Fear purchases ranged defense with another's money",
+      "spine_interval": [
+        24,
+        25
+      ],
+      "printed_page_interval": [
+        "022",
+        "023"
+      ],
+      "authority_plane": "edited replay declared build and transfer",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Risk appraisal, costly preparation, loan and criticism form a portable mixed-motive episode.",
+      "H_class": "H1",
+      "H_target_and_reason": "Oto changes build and takes2700KE from Chio; actual help and cost remain. Death-return ownership is not a desire to die.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "c458caa52d991f9ffe560528c27f8603135bc77ca7351b2390db9d24c2caf3a6",
+        "5fde012c0f6202fccb65fe8ec7987a5d99eb01b968851d70655f79ff4dde37a9"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S024",
+        "TRPG-ADV-S025"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U010",
+      "premise": "Suite comfort and borrowed defenses leave both with ten KE",
+      "spine_interval": [
+        25,
+        25
+      ],
+      "printed_page_interval": [
+        "023",
+        "023"
+      ],
+      "authority_plane": "edited replay resource discussion",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Resource contradiction and competing private/party benefit claims are portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "Comfort spending and dependent borrowing amplify Oto's self-serving appraisal; Chio's contribution and party benefit prevent a single-motive verdict.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "5fde012c0f6202fccb65fe8ec7987a5d99eb01b968851d70655f79ff4dde37a9"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S025"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U011",
+      "premise": "Cute numbered undead requires a negotiated party role",
+      "spine_interval": [
+        26,
+        30
+      ],
+      "printed_page_interval": [
+        "024",
+        "028"
+      ],
+      "authority_plane": "edited replay construction and table negotiation",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Danger/cuteness, power/weakness and invented affiliation options are portable; no script form is essential.",
+      "H_class": "H1",
+      "H_target_and_reason": "21 is co-created and join options negotiated. Earlier20lives, settled pet ownership, forgery and actual river fistfight are unperformed proposals.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "796be21f9ddc060d8ca0f6fd30625fddda0c4a6c09ed0625b45e386e3070dbd7",
+        "ac7ae2842008f3a9d437bc1ae4e4a22d23a1517a9baf946a978a203adb3eb1f4",
+        "d51e304063f75ffd7008b4c6a7fb5e2449d19bcdec30008e6a97e026b8719ffa",
+        "ff1f1af48f62b0391ce33dd5615603b409e513d0955003be72a2ecb990b823c4",
+        "d672ef3c37067088b0685d51c546c4e60fbeac36251e3a249294ca08705e5a99"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S026",
+        "TRPG-ADV-S027",
+        "TRPG-ADV-S028",
+        "TRPG-ADV-S029",
+        "TRPG-ADV-S030"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U012",
+      "premise": "Milk policing precedes noticing the undead customer",
+      "spine_interval": [
+        32,
+        32
+      ],
+      "printed_page_interval": [
+        "030",
+        "030"
+      ],
+      "authority_plane": "GM-voiced replay bar exchange",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Attention directed toward a child's drink while a stranger is undead supplies the portable mismatch.",
+      "H_class": "H3",
+      "H_target_and_reason": "The bartender's local priority reversal carries this entrance punchline; it is weak evidence of a general Axel attention hierarchy.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "8075ec59c26fb9b57e3022b8374eae2f43896de5afee3aa9f58c875b0b0fb562"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S032"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U013",
+      "premise": "Recruitment exploits status concealment and useful lockpicking",
+      "spine_interval": [
+        32,
+        35
+      ],
+      "printed_page_interval": [
+        "030",
+        "033"
+      ],
+      "authority_plane": "edited replay PC actions",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Card concealment, pressure, changing attitude and skill need create a portable causal sequence.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert's recruitment and instrumental welcome are amplified. Actual finger concealment differs from forgery; pressured affiliation differs from free enthusiasm.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "8075ec59c26fb9b57e3022b8374eae2f43896de5afee3aa9f58c875b0b0fb562",
+        "42d4053367f22a3507a169cfe44ce8c3a484cdb3eba2eb1e3739f3fa186312d9",
+        "e597572b0f1f914fd5a5ccd145b655c55964b3466cc42b85ad87a1c85d0862c2",
+        "a3052b4f63c9851d366473ffb6453d4798bc200169880702a52011917758f44d"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S032",
+        "TRPG-ADV-S033",
+        "TRPG-ADV-S034",
+        "TRPG-ADV-S035"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U014",
+      "premise": "The unhealthy undead is told unhealthy beings should die",
+      "spine_interval": [
+        34,
+        34
+      ],
+      "printed_page_interval": [
+        "032",
+        "032"
+      ],
+      "authority_plane": "edited replay PC utterance",
+      "L_class": "L1",
+      "L_whole_and_nested_reason": "The universal health maxim collapses into a death imperative aimed at an already dead being; the explicit formulation is material to the reversal.",
+      "H_class": "H2",
+      "H_target_and_reason": "Chio's health fixation produces an actually harmful utterance. Benevolent rhetoric cannot erase the coercion, but no physical killing follows here.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "e597572b0f1f914fd5a5ccd145b655c55964b3466cc42b85ad87a1c85d0862c2"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S034"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U015",
+      "premise": "Coerced cheer becomes proof of earlier shyness",
+      "spine_interval": [
+        35,
+        35
+      ],
+      "printed_page_interval": [
+        "033",
+        "033"
+      ],
+      "authority_plane": "edited replay dialogue and GM direction",
+      "L_class": "L2",
+      "L_whole_and_nested_reason": "Stammered praise under the master's nod and Gilbert's face-saving reinterpretation differ from sincere enthusiasm.",
+      "H_class": "H2",
+      "H_target_and_reason": "Recruiter's reinterpretation and opportunism are comic amplification; 21's literal compliance remains pressure-qualified.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "a3052b4f63c9851d366473ffb6453d4798bc200169880702a52011917758f44d"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S035"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U016",
+      "premise": "Veteran mentorship misses the newcomer's identical level",
+      "spine_interval": [
+        35,
+        35
+      ],
+      "printed_page_interval": [
+        "033",
+        "033"
+      ],
+      "authority_plane": "edited replay PC exchange",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Boast contradicted by an available card fact is portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert inflates seniority then admits missing the same level; one mistake does not prove general inability to read cards.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "a3052b4f63c9851d366473ffb6453d4798bc200169880702a52011917758f44d"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S035"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U017",
+      "premise": "An invented Axis majority is someone's personal truth",
+      "spine_interval": [
+        35,
+        35
+      ],
+      "printed_page_interval": [
+        "033",
+        "033"
+      ],
+      "authority_plane": "edited replay PC and table reply",
+      "L_class": "L2",
+      "L_whole_and_nested_reason": "Calling a false demographic statement the speaker's own truth pragmatically rebukes it without making it fact.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert exploits21's ignorance and Oto qualifies him; the95percent claim is not world demographic authority.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "a3052b4f63c9851d366473ffb6453d4798bc200169880702a52011917758f44d"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S035"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U018",
+      "premise": "Home ownership motivates adventure but imposes upkeep",
+      "spine_interval": [
+        37,
+        40
+      ],
+      "printed_page_interval": [
+        "035",
+        "038"
+      ],
+      "authority_plane": "edited replay choices and embedded rules",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "A reluctant adventurer accepts work for comfort; free purchase still leaves recurring costs.",
+      "H_class": "H1",
+      "H_target_and_reason": "The party accepts a base and negotiates facilities; six luxury-room/altar proposals are not all installed.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "e90ee22256869e634f85cbfb0f5968c2235bdf45ca3970fb2ae7ddbce458b7f7",
+        "26fccf30d6bb495f33d97678b450b51102029cd78285ab47e18cd10c6b3f8348",
+        "7d580d4a5f24e55a554d06b0dbf6b40a900567377a7009e122a2c3420ed168f7",
+        "daf8236982f5d9232157ded8f6246a901bcba3e8963854f133a95e2a3a1e2662"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S037",
+        "TRPG-ADV-S038",
+        "TRPG-ADV-S039",
+        "TRPG-ADV-S040"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U019",
+      "premise": "Grand treasury initially stores empty bags and scrolls",
+      "spine_interval": [
+        38,
+        40
+      ],
+      "printed_page_interval": [
+        "036",
+        "038"
+      ],
+      "authority_plane": "edited replay furnished base",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Future wealth contrasted with present empty containers is portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "The party's comfort/security ambitions are concretely amplified by oversize storage and bought preparations, not proof actual riches already exist.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "26fccf30d6bb495f33d97678b450b51102029cd78285ab47e18cd10c6b3f8348",
+        "7d580d4a5f24e55a554d06b0dbf6b40a900567377a7009e122a2c3420ed168f7",
+        "daf8236982f5d9232157ded8f6246a901bcba3e8963854f133a95e2a3a1e2662"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S038",
+        "TRPG-ADV-S039",
+        "TRPG-ADV-S040"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U020",
+      "premise": "Devout allies disagree over six altars versus domestic comforts",
+      "spine_interval": [
+        39,
+        40
+      ],
+      "printed_page_interval": [
+        "037",
+        "038"
+      ],
+      "authority_plane": "edited replay facility negotiation",
+      "L_class": "L2",
+      "L_whole_and_nested_reason": "An abrupt 黙ってろ rejects pious pressure; exact rudeness and later-planning rationale complicate pious solidarity.",
+      "H_class": "H2",
+      "H_target_and_reason": "Oto's immediate comfort/poverty concern and Gilbert's devotional priorities differ; their shared affiliation is not uniform preference.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "7d580d4a5f24e55a554d06b0dbf6b40a900567377a7009e122a2c3420ed168f7",
+        "daf8236982f5d9232157ded8f6246a901bcba3e8963854f133a95e2a3a1e2662"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S039",
+        "TRPG-ADV-S040"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:49:27.906472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U021",
+      "premise": "Advanced adventuring is another frog hunt",
+      "spine_interval": [
+        41,
+        43
+      ],
+      "printed_page_interval": [
+        "039",
+        "041"
+      ],
+      "authority_plane": "edited replay quest introduction",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Escalating level and repeated basic target create a portable mismatch.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert's frog fixation remains unusually motivating; the others' complaints do not mean the quest is refused.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "2da89a0da5286b7a3d65702326f1c21323357041490506e44ca50366caaa52d3",
+        "b290d9d71272a59a3bd881961b199d231aac40befe3e709b10a335c4844d262a",
+        "e0467e972bd14bbbd619c3610ded9a44039198ca496da625a303f2d59ccf858d"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S041",
+        "TRPG-ADV-S043"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U022",
+      "premise": "Darkness is repaired to passionate feelings mid-description",
+      "spine_interval": [
+        43,
+        43
+      ],
+      "printed_page_interval": [
+        "041",
+        "041"
+      ],
+      "authority_plane": "edited replay GM description",
+      "L_class": "L1",
+      "L_whole_and_nested_reason": "GM's 闇……いえ、熱い思い visibly repairs an incriminating characterization; written pause and replacement matter.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert's obsessive enthusiasm is the disposition under satire; GM's actual correction is table behavior, not Kazuma narration.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "e0467e972bd14bbbd619c3610ded9a44039198ca496da625a303f2d59ccf858d"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S043"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U023",
+      "premise": "Frog croak echoes good fortune",
+      "spine_interval": [
+        45,
+        45
+      ],
+      "printed_page_interval": [
+        "043",
+        "043"
+      ],
+      "authority_plane": "edited replay PC/table wordplay",
+      "L_class": "L3",
+      "L_whole_and_nested_reason": "The explicit ゲーコー/ギョーコー comparison depends on Japanese croak/僥倖 sound similarity and needs reconstruction beyond a literal English good-fortune sentence.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The phonetic joke is table wordplay, not evidence of a human motive or nonliteral action.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "976d66fdbfaa1bc46b9b0688ab98cca79878d937c4305f22a68ee53c1f9608c7"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S045"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U024",
+      "premise": "A wish to become king produces a king of frogs",
+      "spine_interval": [
+        45,
+        45
+      ],
+      "printed_page_interval": [
+        "043",
+        "043"
+      ],
+      "authority_plane": "replay recap of previous authored adventure",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable ironic wish result contains a central nested king/frog sound-form association known from Core; it is explicitly recapped here, not newly tested.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "GM describes the artifact-mediated prior outcome. An explicit device property is not an ordinary psychology or H4 license.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "976d66fdbfaa1bc46b9b0688ab98cca79878d937c4305f22a68ee53c1f9608c7"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S045"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U025",
+      "premise": "A grand introduction tactically slows an ally who already knows her",
+      "spine_interval": [
+        46,
+        47
+      ],
+      "printed_page_interval": [
+        "044",
+        "045"
+      ],
+      "authority_plane": "edited replay skill adjudication and PC speech",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Mechanical optimization produces a socially redundant introduction; the whole sequence is portable while grand register is a nested voice layer.",
+      "H_class": "H1",
+      "H_target_and_reason": "Temiren uses an actual permitted skill on21 after GM checks the rule. The initiative change is an explicit rule, not general natural-language slowing.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "76465821725d4cc0e218dfd41f3d27eb483a8c90e8786b0b54ad4873c5a4085f",
+        "28e5e6d0f700c45af8ad8f2befdf0e44d18ddecbe31310a2cb803234428eb27d"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S046",
+        "TRPG-ADV-S047"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U026",
+      "premise": "Poison's health sermon offers a cure after arranged death",
+      "spine_interval": [
+        48,
+        49
+      ],
+      "printed_page_interval": [
+        "046",
+        "047"
+      ],
+      "authority_plane": "edited replay battle and PC dialogue",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "The contradiction between harming and preaching health is structurally portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "Chio actually applies poison and offers a remedy; her health preoccupation is amplified, and enemy damage is not morally converted into care by that offer.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "4f10efc0cac9534317b1a145a94edcf4216d0c1b8adaff0ff272cd1a97f279f2",
+        "6a3ff4e815118fbca5f16ebcac1db12e17a5e01473213b969f93223bde2b2ecf"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S048",
+        "TRPG-ADV-S049"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U027",
+      "premise": "Small undead speed surprises allies and giant damage leaves one HP",
+      "spine_interval": [
+        50,
+        52
+      ],
+      "printed_page_interval": [
+        "048",
+        "050"
+      ],
+      "authority_plane": "edited replay battle",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Appearance-based expectation and an unexpectedly narrow result are portable.",
+      "H_class": "H1",
+      "H_target_and_reason": "21's build succeeds strongly but does not end the encounter. Printed rolls, costs and residual HP limit claims of effortless competence.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "d421fd17e9f76e4ac2745f804bf443595626db472e1a7be4cee66543dfb22fda",
+        "ba927ad6d2f2bdb99f2f44956f34a616d1f4a8cf05355843289b767d001bdfd7",
+        "43a4cf1fbf1fa6b7ff551fa0bef02a0cfb4a46da384d37b6400a054b4c4e1396"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S050",
+        "TRPG-ADV-S051",
+        "TRPG-ADV-S052"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U028",
+      "premise": "Costly cover combines heroics with heat and failed enemy damage",
+      "spine_interval": [
+        51,
+        52
+      ],
+      "printed_page_interval": [
+        "049",
+        "050"
+      ],
+      "authority_plane": "edited replay battle",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Protection, pain and enemy rationalization are portable; exact cries support a separate tone layer.",
+      "H_class": "H1",
+      "H_target_and_reason": "Oto actually covers attacks and Gilbert supplies shields. A harmless second hit does not undo the earlier damage or prove general invulnerability.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "ba927ad6d2f2bdb99f2f44956f34a616d1f4a8cf05355843289b767d001bdfd7",
+        "43a4cf1fbf1fa6b7ff551fa0bef02a0cfb4a46da384d37b6400a054b4c4e1396"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S051",
+        "TRPG-ADV-S052"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U029",
+      "premise": "Merciful ending becomes an Axis membership test",
+      "spine_interval": [
+        53,
+        54
+      ],
+      "printed_page_interval": [
+        "051",
+        "052"
+      ],
+      "authority_plane": "edited replay PC choice under pressure",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable coercive initiation and proposed slow death; 踏み絵 adds a culturally grounded loyalty-test allusion, requiring gloss but not automatic whole-premiseL3.",
+      "H_class": "H2",
+      "H_target_and_reason": "Party pressure shapes21's finishing attack. Proposed gradual death is not the executed option;21's unease survives apparent inclusion.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "28c40467adca351b0cb4da03415525e3f7bac978c8b86076a20e069109ef40c6",
+        "37444bc78cda4dcfdc203fcb8ec7817d1c0b80c9e1fd9dca49ad4f05d0ca395f"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S053",
+        "TRPG-ADV-S054"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U030",
+      "premise": "Solemn last rites yield to meat freshness and loot",
+      "spine_interval": [
+        54,
+        54
+      ],
+      "printed_page_interval": [
+        "052",
+        "052"
+      ],
+      "authority_plane": "edited replay battle aftermath",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Mortality, butchery and material reward compete in a portable sequence.",
+      "H_class": "H2",
+      "H_target_and_reason": "Oto's practical resource attention interrupts21's ceremony. Actual killing and jewel recovery are distinct from a proposed profitable sale or evasion of delivery.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "37444bc78cda4dcfdc203fcb8ec7817d1c0b80c9e1fd9dca49ad4f05d0ca395f"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S054"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U031",
+      "premise": "Failed investigation is recast as knowledge after another succeeds",
+      "spine_interval": [
+        58,
+        58
+      ],
+      "printed_page_interval": [
+        "056",
+        "056"
+      ],
+      "authority_plane": "edited replay investigation and PC claims",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "No information becomes a claim of ordinariness; later success prompts retrospective credit. Both reversals are portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert jokes from his failed check and Oto pretends he knew Chio's discovery; these are self-protective appraisals, not actual successful searches.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "80e11683cda9642689a22e7bdd872ee19ac0f9b17cc92bfafd3187ad38146538"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S058"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U032",
+      "premise": "Bathhouse ranking enters a family letter",
+      "spine_interval": [
+        59,
+        59
+      ],
+      "printed_page_interval": [
+        "057",
+        "057"
+      ],
+      "authority_plane": "edited replay family-letter performance",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Prestige competition is transferred to mundane family business status.",
+      "H_class": "H2",
+      "H_target_and_reason": "Temiren's self-ranking amplifies her status concern; the letter is performed, not proof she actually outranks every relative.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "e9e22e4dd20a003719a9b4467339cb06c844b31d661349431db02f0044a2e938"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S059"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U033",
+      "premise": "A health declaration is interrupted by a sneeze and a jewel becomes a warmer",
+      "spine_interval": [
+        59,
+        60
+      ],
+      "printed_page_interval": [
+        "057",
+        "058"
+      ],
+      "authority_plane": "edited replay travel and environmental checks",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Speech contradicted by an immediate symptom and grand artifact used for comfort are portable contrasts.",
+      "H_class": "H2",
+      "H_target_and_reason": "Chio's insistence on health and party comfort improvisation are locally amplified. Sneeze alone is not a clinical illness diagnosis; warm orb does not heal21.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "e9e22e4dd20a003719a9b4467339cb06c844b31d661349431db02f0044a2e938",
+        "ff2ffdd1bafa2075981588500e098ef64a9f9023df6643f552c9fdd3e207dd4d"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S059",
+        "TRPG-ADV-S060"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U034",
+      "premise": "A feared Winter General is downgraded to a retainer",
+      "spine_interval": [
+        61,
+        61
+      ],
+      "printed_page_interval": [
+        "059",
+        "059"
+      ],
+      "authority_plane": "edited replay table identification",
+      "L_class": "L1",
+      "L_whole_and_nested_reason": "The GM's corrective change in title after fear supplies the named rank-deflation punchline; literal rank meanings need translation, not specialJapanese reconstruction.",
+      "H_class": "H1",
+      "H_target_and_reason": "Players react and GM identifies the intended weaker enemy. Fear does not establish a completed submission or battle refusal.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "c8d93665ba61947750b2c6c4c276f32dd8723a8c3b9b71fe1359168c9940e4f3"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S061"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U035",
+      "premise": "Bathhouse self-introduction distracts a cold enemy",
+      "spine_interval": [
+        62,
+        63
+      ],
+      "printed_page_interval": [
+        "060",
+        "061"
+      ],
+      "authority_plane": "edited replay PC announcement and adjudication",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable tactical introduction and nested grand shop-name wording create distinct layers; a warm-bath name's exact delivery supportsL1.",
+      "H_class": "H1",
+      "H_target_and_reason": "GM accepts a rule effect and supplies the foe's attention response. The announced name and mechanical delay are not an independent pragmatic experiment.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "75c47af5e5581db3596d3db9d2616e4098dbe9759fd584d1f70d5adc5c3b228e",
+        "0e63f07099403699fa29446ff1b1ecbc7e838f4acabd9483084e73a0801cd2e6"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S062",
+        "TRPG-ADV-S063"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U036",
+      "premise": "A nonfrog foe accompanies a fumbled blessing and unexpected intelligent mage",
+      "spine_interval": [
+        64,
+        65
+      ],
+      "printed_page_interval": [
+        "062",
+        "063"
+      ],
+      "authority_plane": "edited replay battle and dialogue",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Failure rationalization and praise that implies normally low expectations are portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert's stated motivation narrows to frogs; he really fumbles, while Temiren really identifies the enemy and seeks romantic praise. Later success qualifies a universal failure claim.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "51adf8a83bc905cbe77b9da36ab42e6d4a3ebdff1c800b098c63d7a3d62f1083",
+        "5cba27c42a7d7f3bf7c6894bed395cfe2c2e81b125a08540bd110d5db2c8002d"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S064",
+        "TRPG-ADV-S065"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U037",
+      "premise": "A disclosed revival still surprises a teammate",
+      "spine_interval": [
+        68,
+        69
+      ],
+      "printed_page_interval": [
+        "066",
+        "067"
+      ],
+      "authority_plane": "edited replay battle",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Known information forgotten at the decisive moment is a portable error.",
+      "H_class": "H1",
+      "H_target_and_reason": "Oto misses the disclosed implication;21's powerful attack leaves14HP and breaks the weapon. Neither error nor cost is erased by high damage.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "29503e3d8ff2bd2c7c25f43386fa51e9c9d60929a585402f14d6f2ba9947787e",
+        "fec6e9408e78708c23aaedf7c64bf64928d36502c3d57e1cceedfe45dbd4ad78"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S068",
+        "TRPG-ADV-S069"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U038",
+      "premise": "Actual cover recalls a truck rescue but the resurrection boast reports no death",
+      "spine_interval": [
+        70,
+        72
+      ],
+      "printed_page_interval": [
+        "068",
+        "070"
+      ],
+      "authority_plane": "edited replay action, recalled biography and narrator correction",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "A present rescue recalls a narrated past; boast conflicts with observed zero damage in a portable structure.",
+      "H_class": "H2",
+      "H_target_and_reason": "Oto actually protects Chio, yet comic self-appraisal exaggerates the later trap into death-return. Narrator explicitly denies actual death; previous self-report and present cover have different evidential bases.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "2b6557eafd5cba44976bfd293f630871b51f55061590e9c3213ec0f41a3f6a9d",
+        "11f3d806892f79197ab106cffe9ccef1e718e14cc23c443f861a9e3b83a59398",
+        "f358ff4540f1fae9c7e0e63092be66e77e535b3ee30cde02a909348c19715fdf"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S070",
+        "TRPG-ADV-S071",
+        "TRPG-ADV-S072"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U039",
+      "premise": "Broken sacred statue produces blame, sect threats and speculative commerce",
+      "spine_interval": [
+        72,
+        74
+      ],
+      "printed_page_interval": [
+        "070",
+        "072"
+      ],
+      "authority_plane": "edited replay aftermath and table planning",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Damage to a valued symbol triggers blame, affiliation threats and later monetization; the structure is portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert and Temiren's volatile sect/romance appraisals are amplified. Eris claim is not settled faith, proposed bath-business is not performed, and fragments are actually sold.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "f358ff4540f1fae9c7e0e63092be66e77e535b3ee30cde02a909348c19715fdf",
+        "dddd625f109b2c423778d3840280591da52e8e47702cdd896f7775895ea4746c",
+        "5d42a71f8330242c7807f0aaaf5fd2ac1e6855efb69454c568f311373b8d8b64"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S072",
+        "TRPG-ADV-S073",
+        "TRPG-ADV-S074"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U040",
+      "premise": "A habitual liar tells the truth from a newspaper rather than revelation",
+      "spine_interval": [
+        75,
+        77
+      ],
+      "printed_page_interval": [
+        "073",
+        "075"
+      ],
+      "authority_plane": "edited replay revealed scenario fact and PC speech",
+      "L_class": "L2",
+      "L_whole_and_nested_reason": "Religious revelation is downgraded to a newspaper source while 'even though I tell the truth' marks frustrated credibility; source stance matters.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert's boastful framing damages reception of a currently correct report. A successful info check and shown newspaper qualify his unreliability without validating all his demographic claims.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "4049249c220a846012cb2f461d13fc4ad4de1da1894f38f76e04db752d704292",
+        "b79f690203ebcc31c9b254700d0606107414dac6e1fbdb8e057077be088f997f",
+        "aba264f2035d9a8948cfcc14bb328ee0f02710673acfa1ca68c73ebb2623d1c2"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S075",
+        "TRPG-ADV-S076",
+        "TRPG-ADV-S077"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:50:25.095864+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U041",
+      "premise": "Villain suspicion rapidly becomes a profitable bathhouse opportunity",
+      "spine_interval": [
+        77,
+        78
+      ],
+      "printed_page_interval": [
+        "075",
+        "076"
+      ],
+      "authority_plane": "edited replay PC/table planning",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Knowledge of danger provokes loophole/ownership and commercialization proposals; portable structure.",
+      "H_class": "H2",
+      "H_target_and_reason": "Party self-interest is amplified by wishing to retain both house and jewels. Discussion is not completed theft, a built bath business or a proven benign villain.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "aba264f2035d9a8948cfcc14bb328ee0f02710673acfa1ca68c73ebb2623d1c2",
+        "d0a426b855e7d2498fcef70c58cfe5af4db639157ce4df8dd49d61bd91fa6430"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S077",
+        "TRPG-ADV-S078"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U042",
+      "premise": "A successful trap search cannot reveal an environmental event",
+      "spine_interval": [
+        79,
+        79
+      ],
+      "printed_page_interval": [
+        "077",
+        "077"
+      ],
+      "authority_plane": "edited replay adjudication and actual damage",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Taking the right precaution still leaves exposure to a separately categorized event; portable mismatch.",
+      "H_class": "H1",
+      "H_target_and_reason": "21 actually detects no trap; the GM explicitly calls lightning an event, and Oto's one damage follows failed evade plus shield. Do not recast a valid search as negligence.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "50b356f5e92cf01077a9c324d78a050af55f32845eef3b2e23089a009b64e4c1"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S079"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U043",
+      "premise": "The priest fails exorcism while a scroll-user claims another sect",
+      "spine_interval": [
+        80,
+        82
+      ],
+      "printed_page_interval": [
+        "078",
+        "080"
+      ],
+      "authority_plane": "edited replay battle, religious speech and rules correction",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Professional failure and outsider success provoke wounded pride; portable structure.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert fails and Temiren succeeds with a scroll; her Eris speech coexists with Faith:Aqua mechanics. An accidental antiundead insult to21 is apologized for, and selected-target rules protect21.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "d7ba68f6182662b1aaee7de751d8b52b2de06796ac0736e0a289a1a38aca235c",
+        "cc04f008db4424e3be664f206feddacf455d554cccb46afb15b6e303fd67c5bf",
+        "3c9a6c20df8de8d872b1aae2705f8eeb9a524772c1f74b8dd6c8727b88fdd7a0"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S080",
+        "TRPG-ADV-S081",
+        "TRPG-ADV-S082"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U044",
+      "premise": "A dragon will is rewritten into a deathbed romance at the table",
+      "spine_interval": [
+        83,
+        84
+      ],
+      "printed_page_interval": [
+        "081",
+        "082"
+      ],
+      "authority_plane": "edited replay found text and table revision",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Initial lifelong companionship and a player-proposed sentimental extension are intelligible without special form.",
+      "H_class": "H1",
+      "H_target_and_reason": "Chio proposes the addition and GM adopts it. This is visible coauthorship, not a prewritten independent clue or a newly verified monster history.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "7e8a6e00b1b835294ad9e7f85a36522c905c17ff2f17d5718e0c3bc9927b044e",
+        "e49265bd93f9cceab70117d436b248892d780ca7dcbb93573ea752e356db81e1"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S083",
+        "TRPG-ADV-S084"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U045",
+      "premise": "Counseling exposes fear beneath the borrower's money requests",
+      "spine_interval": [
+        85,
+        87
+      ],
+      "printed_page_interval": [
+        "083",
+        "085"
+      ],
+      "authority_plane": "edited replay newly staged private PC conversations",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Private hurt and a previously unspoken motive are compared in a portable interpersonal sequence.",
+      "H_class": "H1",
+      "H_target_and_reason": "Chio reports feeling reduced to money; Oto reports regret and fear of killing her twice.21 mediates. Those avowals are not privileged access to every motive, and actual protective acts remain separate corroboration.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "abd290206191fdec17e58ca61cd05f891891c1324aa0d619529514445cf07fac",
+        "dfba7037e3d9270862d2be3efb2f2f89e6036293b6240d1a5cb81742b2d6c29e",
+        "a9715defed8f728897ad1853efb6edf6de6fcccce3b0debe0a39f719162cef4e"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S085",
+        "TRPG-ADV-S086",
+        "TRPG-ADV-S087"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U046",
+      "premise": "A sincere talk spends two scrolls and promises continued borrowing",
+      "spine_interval": [
+        87,
+        88
+      ],
+      "printed_page_interval": [
+        "085",
+        "086"
+      ],
+      "authority_plane": "edited replay PC reconciliation",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Repair succeeds partly while repeating the costly behavior under discussion; portable complication.",
+      "H_class": "H2",
+      "H_target_and_reason": "Oto communicates fear using800KEconsumables, Chio accepts partly but retains doubts, and he explicitly keeps borrowing. A comic return prevents treating reconciliation as a permanent cure.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "a9715defed8f728897ad1853efb6edf6de6fcccce3b0debe0a39f719162cef4e",
+        "9bc9d39a7dfdc36b53ae2f8ec87925fba59b5ae1287cc7ae3b5708bc8f8f3522"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S087",
+        "TRPG-ADV-S088"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U047",
+      "premise": "Evidence-erasing villain blurts the plan and cannot retract it",
+      "spine_interval": [
+        89,
+        91
+      ],
+      "printed_page_interval": [
+        "087",
+        "089"
+      ],
+      "authority_plane": "edited replay GM mistake, PC speech and authored villain fiction",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "An inadvertent confession defeats a prior concealment advantage; no Japanese-form necessity.",
+      "H_class": "MIXED",
+      "H_target_and_reason": "GM's slip/retraction and skill invocation are literal table actsH1; Goran's particular self-exposing blurt serves this local punchlineH3. Explicit scenario requirement of confession limits any ordinary-deception inference.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "ca1bc3ee489731cff70d5726fe1d2e598779d8e81eda24a2bf70acdfb8dd17b0",
+        "10d4ad521e11a69b02902228e78f68d612e8699123b6e98027ccbd9239baab61",
+        "863cefba66130d94ce7e60aa5b80b62a60b88875f03db892bf06afa335bb00a2"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S089",
+        "TRPG-ADV-S090",
+        "TRPG-ADV-S091"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U048",
+      "premise": "Competing unsupported faction percentages confuse21",
+      "spine_interval": [
+        91,
+        91
+      ],
+      "printed_page_interval": [
+        "089",
+        "089"
+      ],
+      "authority_plane": "edited replay PC faction banter",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Inconsistent confident statistics and a misinformed listener are portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert's earlier95percentAxis-world claim and Temiren'sEris-town claim are motivated boasts, not verified demographics.21's confusion follows those utterances.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "863cefba66130d94ce7e60aa5b80b62a60b88875f03db892bf06afa335bb00a2"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S091"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U049",
+      "premise": "The tiny numbered creature swallows the objective and defends home",
+      "spine_interval": [
+        92,
+        93
+      ],
+      "printed_page_interval": [
+        "090",
+        "091"
+      ],
+      "authority_plane": "edited replay PC choice and adjudication",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "An underestimated body thwarts seizure and claims local belonging; house/toys/bath provide concrete stakes.",
+      "H_class": "H1",
+      "H_target_and_reason": "21 actually swallows jewels under GM permission and rejects town destruction. Printed BigEater ability is not itself a literal unlimited-swallowing rule; home defense is performed at replay plane.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "9f439969e594f7092c7ce07297c1312abec67e68e5e663fd9994a8f5403af0cb",
+        "f723f7c1345c2605021b29d648b85437cba1d5ae6b2f0491cfbeea4283c26c3e"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S092",
+        "TRPG-ADV-S093"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U050",
+      "premise": "An ally's villainous aura cancels the villain's critical defense",
+      "spine_interval": [
+        94,
+        95
+      ],
+      "printed_page_interval": [
+        "092",
+        "093"
+      ],
+      "authority_plane": "edited replay skill use and table joke",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "An apt label and mechanical reversal coexist, but the whole tactical result is portable.",
+      "H_class": "H1",
+      "H_target_and_reason": "Gilbert uses悪役の迫力, not邪神の刻印. Goran's critical becomes fumble as reported; the joke about witnessing Gilbert's embarrassing conduct is separate social bathos.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "f8f17857b32b2fe13031b394e2ad3b757ca97840ea2ee7c8e1f604e60965ea11",
+        "9d3b646802bcbe98819d93a2adddb138395ad96969e6e89d15dffa80ad953e5e"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S094",
+        "TRPG-ADV-S095"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U051",
+      "premise": "Romantic heroine positioning competes with effective area magic",
+      "spine_interval": [
+        96,
+        96
+      ],
+      "printed_page_interval": [
+        "094",
+        "094"
+      ],
+      "authority_plane": "edited replay battle and roleplay",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "A desire to stand by the prince competes with spacing and costly damage; portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "Temiren performs romance while delivering151rawdamage. Oto's irritation and Gilbert's tolerated jealousy complicate the appraisal; damage does not prove romance is reciprocated.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "ef731aa9883a1cfe9a5d2e8b44d761b412051c4ec88916c7c1fd8a198b4916ba"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S096"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U052",
+      "premise": "The fearful defender evades but still covers his house and companions",
+      "spine_interval": [
+        97,
+        99
+      ],
+      "printed_page_interval": [
+        "095",
+        "097"
+      ],
+      "authority_plane": "edited replay actual defense",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Personal safety does not remove a chosen protective commitment; portable.",
+      "H_class": "H1",
+      "H_target_and_reason": "Oto actually covers the house after critical evasion and later Gilbert, with shields/costs and two final damage explicitly reported for one cover. Do not infer blanket doubled cover, universal invulnerability or fearlessness.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "eea13053cb311559f912484d970b8fdda20cc8a108ba95783057a75d648085c4",
+        "d3f6f684c8e887365abf24d603dc399a6c2a35965f19d22dc6e7c0ab54aa50df",
+        "7894e0ac61dde9120b8abbdbd0f6c23abad0a9bbebfcf1b8067021e3ed873e30"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S097",
+        "TRPG-ADV-S098",
+        "TRPG-ADV-S099"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U053",
+      "premise": "Undead belonging and divine grace meet a furniture-rule correction",
+      "spine_interval": [
+        100,
+        101
+      ],
+      "printed_page_interval": [
+        "098",
+        "099 (sequence inferred; unnumbered illustration)"
+      ],
+      "authority_plane": "edited replay PC interpretation, rule effect and dependent illustration",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable acceptance/healing plus a title-shaped declaration and sectarian gratitude as nestedL1/L2layers.",
+      "H_class": "MIXED",
+      "H_target_and_reason": "21's belonging speech and actual24HP/MPfacilityhealing areH1; party's amplified sectarian credit isH2. GM calls it statue mechanics; illustration is dependent, and no general god-intervention or undead-healing exemption follows.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "59d5499a43536ecb37792f286d0527cb128159d37f7c5765ba7c8fdbec1f8369",
+        "6f1eff9b2c456aa84db100268bb08f963a07d3a31a1cce75b0fc90574cdf401e"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S100",
+        "TRPG-ADV-S101"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U054",
+      "premise": "Critical consumable success gets no refund and heroic dagger breaks",
+      "spine_interval": [
+        102,
+        103
+      ],
+      "printed_page_interval": [
+        "100",
+        "101"
+      ],
+      "authority_plane": "edited replay battle and adjudication",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "High performance still consumes resources; portable cost/reward contrast.",
+      "H_class": "H1",
+      "H_target_and_reason": "GM refuses scroll refund;21'sTechniqueIIbreaksweaponwithaspareprepared;Temirendeliversfinishingice. Costly competence survives humor without unlimited free power.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "8d71fa7628fcb00e81f93f3b344b5e3884f7ee7a3b36872ebaa14cbd451da803",
+        "5e603d089d5ffec91723af3db4435555fc4cbb8e274bd5af737663517463c8a5"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S102",
+        "TRPG-ADV-S103"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U055",
+      "premise": "Party cheers the villain's survival to preserve a more satisfying finish",
+      "spine_interval": [
+        104,
+        104
+      ],
+      "printed_page_interval": [
+        "102",
+        "102"
+      ],
+      "authority_plane": "edited replay table response and unperformed PC proposals",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Enemies suddenly want a foe alive because accidental death would end their intended battle; portable reversal.",
+      "H_class": "MIXED",
+      "H_target_and_reason": "Actual table cheers areH1; proposed in-fiction cover/DivineGuardforGoranisH3localpunchline-dependent conduct and is never executed. Do not report a completed moral rescue.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "d0a9e2aad968b9251dac2d1e17068420b0bb60e7c19aa839f6b63a25dad8c9fe"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S104"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U056",
+      "premise": "The lethal finale preserves the defender without using death-return",
+      "spine_interval": [
+        104,
+        106
+      ],
+      "printed_page_interval": [
+        "102",
+        "104"
+      ],
+      "authority_plane": "edited replay finale and corrections",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "A costly successful defense and exaggerated return boast are portable; spell classification explains the failed defense option.",
+      "H_class": "H1",
+      "H_target_and_reason": "Oto takes82damagecoveringhouseandlives;WindCurtaincannotstopthisspecialattack, not all magic-damage sources universally. Goran actuallydies;declarations of illusion do not negate it.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "d0a9e2aad968b9251dac2d1e17068420b0bb60e7c19aa839f6b63a25dad8c9fe",
+        "1c8a1c2bfe0acf43b6c54b48afbb61915628ef4fa16968c9ca97fef97d25160a",
+        "765ec38d22c6c63d73be7a97204634a65ff096748d9de8b46f11cdc29851935c"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S104",
+        "TRPG-ADV-S105",
+        "TRPG-ADV-S106"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U057",
+      "premise": "Victory yields paid upkeep, powerless ornaments and unequal bedding",
+      "spine_interval": [
+        105,
+        108
+      ],
+      "printed_page_interval": [
+        "103",
+        "106"
+      ],
+      "authority_plane": "edited replay ending and accounts",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Grand quest reward meets recurring domestic costs and mundane comfort distinctions; portable.",
+      "H_class": "H1",
+      "H_target_and_reason": "The printed net2530eachplus2000apology=4530each retains expenses. Orbs survive but are powerless/unsellable. Shared ownership does not imply identical lifestyle or an actual completed dragon funeral.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "1c8a1c2bfe0acf43b6c54b48afbb61915628ef4fa16968c9ca97fef97d25160a",
+        "765ec38d22c6c63d73be7a97204634a65ff096748d9de8b46f11cdc29851935c",
+        "d054c5ec02ef03902b497ad51502b3dbd99ced00b1bd0c07c33eb189d20de915",
+        "92b8d03a8c26ad7b239f5a7aaba2eeb5f51525924e114a0230a3e7437c799548"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S105",
+        "TRPG-ADV-S106",
+        "TRPG-ADV-S108"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U058",
+      "premise": "Confident features end with Adventurer strengthening...probably",
+      "spine_interval": [
+        109,
+        109
+      ],
+      "printed_page_interval": [
+        "107 (sequence inferred; divider unnumbered)",
+        "107 (sequence inferred; divider unnumbered)"
+      ],
+      "authority_plane": "editorial class divider",
+      "L_class": "L1",
+      "L_whole_and_nested_reason": "……はずwithholds certainty after confident feature claims; written hesitation is material.",
+      "H_class": "H1",
+      "H_target_and_reason": "Kazuma-depicted balloon makes a qualified announcement, not a categorical denial or a natural dated novel event.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "fff83293d95c7396a237f882cae21b09225fa9598f9c6bc36c65389ba62b78f0"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S109"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U059",
+      "premise": "Honor and loyalty prompts undercut their own expectations",
+      "spine_interval": [
+        115,
+        115
+      ],
+      "printed_page_interval": [
+        "113",
+        "113"
+      ],
+      "authority_plane": "optional origin table fiction",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Unwanted honor and strategically justified betrayal coexist with revenge in portable optional premises.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "These are character-generation alternatives, not actual biographies or evidence every Demon Army PC behaves alike.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "54ebb07e33108dffb21cd11dc90e4eecd77888209c4e827b129d68cb54b7d41f"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S115"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U060",
+      "premise": "Archetype grandeur meets taste defensiveness and anxious slang",
+      "spine_interval": [
+        119,
+        123
+      ],
+      "printed_page_interval": [
+        "117 (sequence inferred; sample art unnumbered)",
+        "121 (sequence inferred; sample art unnumbered)"
+      ],
+      "authority_plane": "optional sample characters",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable mage self-protection and assassin title/feeling mismatch; ちょーヤバいんですけど supplies a material mixed casual/polite voice layerL2.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Unnamed sample personas and illustrations present possibilities, not named principal aliases or actual killings. Priest efficiency motivation has soft comic eligibility, not automatic satire.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "c5a9d6d8cd00bee464c4352ba21b1a4bc7937ada344186e9da659e76e1cdbeca",
+        "ead42d68f97b72c2bd427aa89b5cf5e645a85b0d86f83a22b7ada3b6779bf0b9",
+        "844ce55d6ceb011ea57c0171887616adc78e69bec1fcccd6116644d5acd31fb6",
+        "ebb71390efd693688811f30040e53836bd4c7b13a6f48b1e4bdc2d0b02658f02",
+        "302554ff8350dc9ceb4c693ae7da0bc9effd876fd43a6fd73dddf9407661e439"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S119",
+        "TRPG-ADV-S121",
+        "TRPG-ADV-S123"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:51:20.465472+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U061",
+      "premise": "Demonic emotion harvesting appears as a higher living bill",
+      "spine_interval": [
+        125,
+        125
+      ],
+      "printed_page_interval": [
+        "123",
+        "123"
+      ],
+      "authority_plane": "racial option rules and flavor",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Lofty supernatural appetite is represented by an ordinary recurring expense.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "An explicit race-cost rule/flavor premise supplies no performed human behavioral target or automatic H4 license.",
+      "soft_eligibility": true,
+      "source_interval_image_hashes": [
+        "8765a7547b133c7dfe4cc635d6351da08ad11ab182c819c02b49c01aa3c4555c"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S125"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "MODERATE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U062",
+      "premise": "Talent brings food costs and secret cuisine tastes good only to its eater",
+      "spine_interval": [
+        130,
+        131
+      ],
+      "printed_page_interval": [
+        "128",
+        "129"
+      ],
+      "authority_plane": "optional skills and flavor",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Advantages have mundane appetite costs; exclusively personal taste undercuts a valued secret recipe. Structure is portable.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Printed options, not actual meals/eaters. BigEaterstatbonuscostisnotliteralunlimitedswallowingpermission.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "16a9b98b22db3092ed34e2bb9a8ee6264017664d3027bf5d261c228656eb5dd5",
+        "de366fe28aab907e080481020f3957aaf00159faf25c7efb6b5d3115e1f24f1b"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S130",
+        "TRPG-ADV-S131"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U063",
+      "premise": "Lofty tolerance means ignoring details",
+      "spine_interval": [
+        131,
+        131
+      ],
+      "printed_page_interval": [
+        "129",
+        "129"
+      ],
+      "authority_plane": "optional skill flavor",
+      "L_class": "L1",
+      "L_whole_and_nested_reason": "The elevated title's reduction to casual indifference is phrased as a semantic deflation.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Skill flavor describes an optional persona; not proof this stance causes every resistance success.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "de366fe28aab907e080481020f3957aaf00159faf25c7efb6b5d3115e1f24f1b"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S131"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U064",
+      "premise": "Elemental favor and sole-entrant number-one status permit self-mythology",
+      "spine_interval": [
+        132,
+        133
+      ],
+      "printed_page_interval": [
+        "130",
+        "131"
+      ],
+      "authority_plane": "Crimson skill options and flavor",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Self-description can replace external verification, and a one-person category guarantees an unimpressive first place.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Optional skills distinguish real bonuses from self-claims. No performed superiority, demonic identity or confirmed affection by an element.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "6abdb0023f1dcb9613fd9656dc75ed3084f4c28d583f11c41e447db525ed7a61",
+        "2667522466d013a3ecf0ed44cf9e1b5837c70fe15f05715fc0c845378732d2aa"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S132",
+        "TRPG-ADV-S133"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U065",
+      "premise": "Mage training becomes speech exercises and touch enhancement becomes a joke",
+      "spine_interval": [
+        142,
+        143
+      ],
+      "printed_page_interval": [
+        "140",
+        "141"
+      ],
+      "authority_plane": "optional skills and descriptive rules",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Mundane articulation and vulnerable frontline placement limit grand magical expectations.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Text explicitly calls fragile touch-activationaネタ;thisisconditionaldesignflavor,notactualsuicidalbehaviororH4.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "13be5e51feca95dbaad95aa858659c928a3a9b804fe31544339ff288b15a049d",
+        "b402c0642e04026addd198ff1fd4cf9c9205e5e83737db7e477c6737d1b3b620"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S142",
+        "TRPG-ADV-S143"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U066",
+      "premise": "Bad reputation helps intimidation but singing cannot guarantee hearts",
+      "spine_interval": [
+        178,
+        178
+      ],
+      "printed_page_interval": [
+        176,
+        176
+      ],
+      "authority_plane": "general skills",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "An apparent liability can be useful; skill proficiency and emotional reception are separated.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Rules/flavor options do not document an actual intimidation victim or song rejection. Singing's comic status is soft.",
+      "soft_eligibility": true,
+      "source_interval_image_hashes": [
+        "3dd73ea585b87f59212f9c34e471a5b2f957a9da4ad02bb5de7ff2fb793d5f5f"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S178"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "MODERATE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U067",
+      "premise": "Austerity and bestseller fame retain small humiliating limits",
+      "spine_interval": [
+        181,
+        183
+      ],
+      "printed_page_interval": [
+        179,
+        181
+      ],
+      "authority_plane": "general skill flavor",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable costs/lost profits; bestseller's pause and tentative residual fame supply a materialL1qualification.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Optional benefits/conditions, not actual lapse, publication success or money earned. Asceticism's loss on tiny indulgence is explicit rule.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "ed0b6c0c82054fdc97249e5317493f4aa41579e43b0e758d84a4dabc43417c0b",
+        "f5f9e079fee3d3a08080263c505e1b1eba58834a5a8754908fe85c355c9965fc",
+        "cf9b759d1e1e5c458bdae9118ad9f870064f60685df93c1289aa75947ed74d34"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S181",
+        "TRPG-ADV-S183"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U068",
+      "premise": "Convenience magic still needs cooking and spectacular fire is harmless display",
+      "spine_interval": [
+        189,
+        190
+      ],
+      "printed_page_interval": [
+        187,
+        188
+      ],
+      "authority_plane": "beginner magic rules/flavor",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Ordinary expertise constrains useful magic; visual spectacle need not damage. The contrast is portable.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "These are described capabilities, not actual failed meals/attacks. Weak electricity alone is not automatically a resolved gag.",
+      "soft_eligibility": true,
+      "source_interval_image_hashes": [
+        "c967c6655582740509c6ce302eafcb73e3dd9415f04134ea773e9940e27c4734",
+        "dc6ab9188c402338e92b874404a523030297f456f4fc7a822fe9815436464fc1"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S189",
+        "TRPG-ADV-S190"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "MODERATE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U069",
+      "premise": "Great power carries monopoly, delay, attention or overload costs",
+      "spine_interval": [
+        214,
+        215
+      ],
+      "printed_page_interval": [
+        212,
+        213
+      ],
+      "authority_plane": "cheat options",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Scarcity, preparation, enemy prioritization and limited capacity generate portable reversals.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Cheats explicitly impose costs; they are not ordinary psychology, actual performed failures, or automatic H4. Underestimatedraisesincomingdamageafterareactionwin.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "e80c0b491c434303f6535a5f37677259bfb9a9f3331800facdd10d2a9560e191",
+        "4151e080fd2b413664b5d4b202e74ec28682926585510efb2802a91c678bbf78"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S214",
+        "TRPG-ADV-S215"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U070",
+      "premise": "Rejecting cheats is itself a cheat; being loved attracts harmful envy",
+      "spine_interval": [
+        216,
+        216
+      ],
+      "printed_page_interval": [
+        214,
+        214
+      ],
+      "authority_plane": "cheat options",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "The self-denying category and social benefit/cost contradiction are portable.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "あえて、普通haswrittenbenefitsandtriggeredSlip;Belovedhaslimitedfeasiblefavorsanddamagecost. These are options, not actual coercion accepted or abandonment.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "d4bda7136b54e091052284a886c1669ff5f9b8b0f97e9f6ab66e24b15a9d90cb"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S216"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U071",
+      "premise": "The stable includes human beds but horses are sold separately",
+      "spine_interval": [
+        227,
+        227
+      ],
+      "printed_page_interval": [
+        225,
+        225
+      ],
+      "authority_plane": "base facility flavor",
+      "L_class": "L1",
+      "L_whole_and_nested_reason": "The mundane retail qualification after amenity description is the phrased punchline.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Facility option does not record an actual purchase or a stable sleep in this replay.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "a8f48e555fe2f77779bd899dd97b80d3e002790602bf15018c3513d914df4a78"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S227"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U072",
+      "premise": "The farm harvests vegetables, fruit and saury",
+      "spine_interval": [
+        230,
+        230
+      ],
+      "printed_page_interval": [
+        228,
+        228
+      ],
+      "authority_plane": "facility flavor and game effect",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "An ordinary produce list includes fish as literal field produce; the category surprise is portable.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "This is a statedworld/flavorpossibility, not a nonliteralH4violationjustbecausefantastic.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "af180f8b24c4a4ed9764f29291065b1cf0be89e9896f86dbae9d28ca36c3be1a"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S230"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U073",
+      "premise": "Board games improve loot and the Round Table may be a low dining table",
+      "spine_interval": [
+        233,
+        234
+      ],
+      "printed_page_interval": [
+        231,
+        232
+      ],
+      "authority_plane": "facility rules/flavor",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Prestigious adventuring equipment is domesticated into toys and ordinary furniture.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Rules explicitly connect facility to dice/GMquestions;cross-planeabstractionisnotaloneH4. No actualGMqueryorlootrewardisperformedinthesecards.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "2868da1b53624a1ad4b5015d81411612d6637ed1819aed916d9cca3e20f3977f",
+        "2382ee5932e6ed6cf8917522ace9f6466d9f9fda4c10461e5b4152c480ed5dee"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S233",
+        "TRPG-ADV-S234"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U074",
+      "premise": "Grand adventure invitation ends with a child's meal request",
+      "spine_interval": [
+        237,
+        237
+      ],
+      "printed_page_interval": [
+        "unnumbered world-section divider (between234 and236)",
+        "unnumbered world-section divider (between234 and236)"
+      ],
+      "authority_plane": "world divider balloons",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Grand scale drops to an everyday appetite; portable contrast.",
+      "H_class": "H2",
+      "H_target_and_reason": "Komekko-depicted child's food attention is amplified in a staged divider. UpperfigureSokettovisualattributionandCecilyremainreference,notnovelactions.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "e8d4a72d8b0c6d763dabd43eeb4f2fb44b6f14d14333cc0fd7f32aa666d22e68"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S237"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U075",
+      "premise": "Popular goods still do not make Wiz's shop profitable",
+      "spine_interval": [
+        243,
+        243
+      ],
+      "printed_page_interval": [
+        241,
+        241
+      ],
+      "authority_plane": "world reference",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Successful demand and loss-making procurement coexist; portable business irony.",
+      "H_class": "H2",
+      "H_target_and_reason": "Reference profile attributes loss to Wiz's buying despite popular products. This is an authored standing description, not new measured accounts or postV17change.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "e034158f01b2a45c4f7d70a2be396a6ef67e7ea991af0d14172df2f685b88f9e"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S243"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U076",
+      "premise": "Tourist recruitment sounds like war and may repel the actual army",
+      "spine_interval": [
+        244,
+        244
+      ],
+      "printed_page_interval": [
+        242,
+        242
+      ],
+      "authority_plane": "Alcanretia world reference",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable recruitment pressure; war is an explicit comparison, not a literal battle report.",
+      "H_class": "H2",
+      "H_target_and_reason": "Axis solicitation is comic amplification atreferenceplane. The army-avoidance explanation is expressly a theory, not confirmed enemy minds or a new defense victory.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "20a9c7db4a2b2e53f6ad455ea3118eab657485c9a5cad59879a3565722065f4b"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S244"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U077",
+      "premise": "Monster attacks supply capital restaurants with bring-your-own meat",
+      "spine_interval": [
+        245,
+        245
+      ],
+      "printed_page_interval": [
+        243,
+        243
+      ],
+      "authority_plane": "capital world reference",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Danger produces mundane abundance and a dining-service inversion.",
+      "H_class": "H1",
+      "H_target_and_reason": "Reference reports the custom and cause; not an actual newly read hunt, meal or verified economic survey.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "d1bc82b0626a23ba81459566360a2a2bc238e6ef97425b9f983b9906d86075bc"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S245"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U078",
+      "premise": "Crimson prestige becomes paid tourism and a hot spring made by spells",
+      "spine_interval": [
+        246,
+        247
+      ],
+      "printed_page_interval": [
+        244,
+        245
+      ],
+      "authority_plane": "Crimson Village world reference",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Legendary challenge/ominous name meets domestic commerce; the named hot spring is explicitly not technically natural.",
+      "H_class": "H2",
+      "H_target_and_reason": "Authored village tastes and tourist self-presentation are amplified. Wishgoddessandnever-separatingcouplesremainrumors;nostrengthtestorcurseisperformed.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "ac8a7fbe6f8a4b8db5a829554f8af39549358f8ffc8df59ebe22c36c2cb773fd",
+        "ae1e490286e1cd5e3bd5166e056782a5a4f9c3091d5d76baa1a2ed89db142212"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S246",
+        "TRPG-ADV-S247"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U079",
+      "premise": "The all-seeing lookout is marketed for peeking into a private room",
+      "spine_interval": [
+        246,
+        246
+      ],
+      "printed_page_interval": [
+        244,
+        244
+      ],
+      "authority_plane": "Crimson tourist reference",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Cosmic reach is narrowed to petty curiosity; portable bathos.",
+      "H_class": "H2",
+      "H_target_and_reason": "Reference caricatures the attraction's use. It does not create a new performed voyeurism incident or justify general omniscience.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "ac8a7fbe6f8a4b8db5a829554f8af39549358f8ffc8df59ebe22c36c2cb773fd"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S246"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U080",
+      "premise": "A grand little-sister title accompanies appetite and a seer's own blind spot",
+      "spine_interval": [
+        249,
+        249
+      ],
+      "printed_page_interval": [
+        247,
+        247
+      ],
+      "authority_plane": "character profiles",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Prestige/ordinary appetite and other-directed foresight/self-ignorance are portable contrasts.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Profiles provide titles/capabilities; no literal sexual power, performed forecast or registered predictive success follows.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "6b15fa23dc2781f087fcef97880218e8038b062f0021b1f995036ed599357f26"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S249"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:52:14.022582+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U081",
+      "premise": "Aqua claims the GM chapter because the GM is a god, and reuse is called out",
+      "spine_interval": [
+        253,
+        253
+      ],
+      "printed_page_interval": [
+        "unnumbered GM divider (between250 and252)",
+        "unnumbered GM divider (between250 and252)"
+      ],
+      "authority_plane": "GM divider balloons",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable self-serving analogy and nested elliptical disapproval about repeating the same joke; translated wordplay preserves the god/GM identity without automaticL3.",
+      "H_class": "H2",
+      "H_target_and_reason": "Aqua's appropriation repeats a known disposition at teaching plane; Eris/Chris literally object/correct. It is not H3 just because staged, nor actual operating authority.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "cbd9ae79e8307fbbc75c57b0d48e8cd5aed51aafe63ae2b4454a37d631a3a938"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S253"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U082",
+      "premise": "Enemy cheats design self-righteous punishment, unaware poverty and mobilized opposition",
+      "spine_interval": [
+        262,
+        263
+      ],
+      "printed_page_interval": [
+        260,
+        261
+      ],
+      "authority_plane": "enemy cheat rules/flavor",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Self-definition of evil, unjust blowback and a helper's unseen financial harm make portable conditional reversals.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Authored NPCcheatoptionsincludenonhostilefigures;noactualvictims/failuresoccurbyreading. Explicit spell/rule causation differs from ordinary motivation.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "7bbf55b7d622f81d98b2b82015c50d0bd3aab7de47c6670c8657a6e59ab7ef34",
+        "1fce280e78eb133e32cdd703ce3967d50fd408b7f816b5703aa3f474fdeb78d0"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S262",
+        "TRPG-ADV-S263"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U083",
+      "premise": "Absolute defense collapses when its specified weakness is hit",
+      "spine_interval": [
+        263,
+        263
+      ],
+      "printed_page_interval": [
+        261,
+        261
+      ],
+      "authority_plane": "enemy cheat rules",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "An absolute label with a designed exception creates a portable reversal.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Conditioned rule, not invulnerability empirically tested or a nonliteralcomiclicense.",
+      "soft_eligibility": true,
+      "source_interval_image_hashes": [
+        "1fce280e78eb133e32cdd703ce3967d50fd408b7f816b5703aa3f474fdeb78d0"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S263"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "MODERATE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U084",
+      "premise": "A numbness mushroom is delicious enough to numb",
+      "spine_interval": [
+        270,
+        270
+      ],
+      "printed_page_interval": [
+        268,
+        268
+      ],
+      "authority_plane": "bestiary flavor",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable danger/food incongruity with nestedしびれるほど美味しいidiom/literalpoisonoverlap; wording needs gloss, not an unargued allJapaneseL3.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Bestiary flavor and toxic effect are authored ecology/rules, not performed eating or human judgment.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "7f12b2912ed42fa0f87fc816cf7a1350c4906862ea3a02857b00280afb9d9a13"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S270"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U085",
+      "premise": "Courtship becomes cross-species racing and chicken race against the hardest target",
+      "spine_interval": [
+        273,
+        274
+      ],
+      "printed_page_interval": [
+        271,
+        272
+      ],
+      "authority_plane": "bestiary behavior and rules",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Stated mating behaviors lead to unsuitable races/kicks/charging targets; portable comic ecology.",
+      "H_class": "H2",
+      "H_target_and_reason": "Authored monster dispositions are amplified as behavioral descriptions. Rule targetselectiondoesnotdemonstrateanactualraceorhumanriskpsychology.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "66f345121a2e152d24a65bfbf9c538bbada60de0fecb1c7acc156816dd04204b",
+        "154db190be2afe8eb5ec22d9b9c002fd5e333807e8e9b526879889324cbad49a"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S273",
+        "TRPG-ADV-S274"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U086",
+      "premise": "Impressive enemy scale can yield unimpressive produce",
+      "spine_interval": [
+        274,
+        276
+      ],
+      "printed_page_interval": [
+        272,
+        274
+      ],
+      "authority_plane": "bestiary and loot options",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Giant cabbage's low lettuce reward undermines expected value; portable.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Loot-table possibility, not a completed hunt or actual random result. Golem outlier45(3D)retainedwithoutrepair.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "154db190be2afe8eb5ec22d9b9c002fd5e333807e8e9b526879889324cbad49a",
+        "be2137e4a3959f7ff1114d5720703c8f4f86e518810de28ca7dce9f63b55ca96",
+        "21907ac4fffbe8b7e32fc847d377831c5723a52ac4ec868b7f2c6e1bf648f755"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S274",
+        "TRPG-ADV-S276"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U087",
+      "premise": "Lone heroic cabbage has a tough exterior and sweet core",
+      "spine_interval": [
+        278,
+        278
+      ],
+      "printed_page_interval": [
+        276,
+        276
+      ],
+      "authority_plane": "bestiary flavor and skill title",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable lone-hero vegetable parody; literal芯sweetnessandheroictitle俺に任せて先に行けsupplyadditionalL1/L2wordinglayers.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Rule/flavor persona, not an actually spoken cabbage line or a rescue performed in play; lowest lettuce loot is an option.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "c3d16bd0c71e5c913f61320cb1a25c6ee47fc219ab78e75f1e305d514a661ab1"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S278"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U088",
+      "premise": "Weather spider may rain sardines",
+      "spine_interval": [
+        281,
+        281
+      ],
+      "printed_page_interval": [
+        279,
+        279
+      ],
+      "authority_plane": "bestiary reference",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Unexpected fish alongside ordinary torrential rain is portable ecological absurdity.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "ReportedspeciesbehaviorisnotactuallywitnessedrainorH4violationinthefantasyworld.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "f7dc8ae1da55eb2e529ef697183c8e733d33e19de037d977ede92bd7abc78c56"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S281"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U089",
+      "premise": "Perfect dragon imitation meows and becomes cheap drink material",
+      "spine_interval": [
+        284,
+        284
+      ],
+      "printed_page_interval": [
+        282,
+        282
+      ],
+      "authority_plane": "bestiary flavor and loot",
+      "L_class": "MIXED",
+      "L_whole_and_nested_reason": "Portable anticlimax/value reversal plus the short cat soundにゃーasnestedL1materialcue;noJapanese-specificL3necessity.",
+      "H_class": "H2",
+      "H_target_and_reason": "Authored imitationcreaturehascomicbehavior/defeatdescription. The meow is a clue rather than proof every imitation always fails; actual hunt unperformed.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "533e6fd4e1111ce5e5b0a57c46df68796ac71c5562b8904e37f8514a6da7acdb"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S284"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U090",
+      "premise": "Magical treasure attachment and temptation override good recognition",
+      "spine_interval": [
+        287,
+        289
+      ],
+      "printed_page_interval": [
+        285,
+        287
+      ],
+      "authority_plane": "trap rules/flavor",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Junk becomes treasured and a successful danger-senser still approaches danger; portable designed reversals.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "These are explicitlymagicaltrapcauses,notnaturalH3blindnessorobservedgreed. PoisonNeedlesuccesswordingisnotrepaired.",
+      "soft_eligibility": true,
+      "source_interval_image_hashes": [
+        "e56dfcc41ccd49e3b9bef992f1950d38f82be750f42c2794e2eaa56b9a5f2b35",
+        "59bb6edddabb1046ae63d05cd8bf89ab9914978926450488ea6de40dad10f095",
+        "5369d018bcfa0dcdedb4060005cc5436e260cd402d070ac8203d545b9a7445dd"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S287",
+        "TRPG-ADV-S289"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "MODERATE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U091",
+      "premise": "Human Cannon works on nonhumans too",
+      "spine_interval": [
+        293,
+        293
+      ],
+      "printed_page_interval": [
+        291,
+        291
+      ],
+      "authority_plane": "trap rule/flavor",
+      "L_class": "L1",
+      "L_whole_and_nested_reason": "The explanatory correction directly punctures the restrictive literal name.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Trap capability, not actual launch or a stable behavior.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "2ad8ffbbd0e6ed367f4ef24f367ee214687eb1fca741608bd1d0c8c1e71c7e7c"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S293"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U092",
+      "premise": "A spoiler warning receives an Explosion threat",
+      "spine_interval": [
+        297,
+        297
+      ],
+      "printed_page_interval": [
+        295,
+        295
+      ],
+      "authority_plane": "scenario divider",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Ordinary rule enforcement escalates to preferred destructive sanction; portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "Megumin's preference is amplified at dividerplane, but no explosion is performed and the balloon does not instruct the analyst to stop.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "b2b8da1a6dc75cc01d952e47aaca4795cad0c24c6fb599fae8b0e7bc2a57dabd"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S297"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U093",
+      "premise": "Darkness notices her missing lines and frames neglect as play",
+      "spine_interval": [
+        297,
+        297
+      ],
+      "printed_page_interval": [
+        295,
+        295
+      ],
+      "authority_plane": "scenario divider",
+      "L_class": "L2",
+      "L_whole_and_nested_reason": "Embarrassedstammerand放置プレイcaptionturneditorialabsenceintoapragmatic/eroticattentionjoke;notautomaticL3.",
+      "H_class": "H3",
+      "H_target_and_reason": "This particular demandforlinesandcaptiondependonthebook'slocalomissionpunchline. It is not a general novel-timeline abandonment or consent finding.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "b2b8da1a6dc75cc01d952e47aaca4795cad0c24c6fb599fae8b0e7bc2a57dabd"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S297"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U094",
+      "premise": "The self-styled commander spent years digging his tank out alone",
+      "spine_interval": [
+        300,
+        301
+      ],
+      "printed_page_interval": [
+        298,
+        299
+      ],
+      "authority_plane": "scenario NPC scripted background",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Grand martial inheritance rests on mundane solo pickaxe labor; portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "Bōren's scriptedboastmagnifiesambitionwhileexplainingmuscles. Scenario backgroundisnotanactualnewlyobserveddigginghistory.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "7a6414b63ab7c2ce9514281dfe865c7ed6d59564ea3338d8021f7cc13a9839be",
+        "1f371055edb2c2fda8addece211fcd94b2e49a85ae965d432fe195074a4cd611"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S300",
+        "TRPG-ADV-S301"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U095",
+      "premise": "Villain doubts quick assent, then imprisons rejected prospective wives",
+      "spine_interval": [
+        301,
+        305
+      ],
+      "printed_page_interval": [
+        299,
+        303
+      ],
+      "authority_plane": "conditional unperformed scenario",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Boastful recruitment acknowledges insincere assent but retains coercive confinement; portable.",
+      "H_class": "H2",
+      "H_target_and_reason": "Bōren's scripted possessiveness/self-justificationisamplified. Women'srefusalnotconvertedintoacceptance;possibleNPChelpisconditionalandnoncombat.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "1f371055edb2c2fda8addece211fcd94b2e49a85ae965d432fe195074a4cd611",
+        "81b8683c3c24418565a0aff7a291d1a958173463666bd9b2b4cb2aa5ca6ccb52",
+        "ab6e232295a644d0a0174dd8040a901372af79e070c01693f637544c025bbbb6",
+        "81a8645745c69d6c5ea7c2af8c3d87c0211ca1b3af684ced592dfee6fd3b5766",
+        "c38840a52ae5a925db8c52b1973c11348678ad6b0823d68d44374034916ebe8a"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S301",
+        "TRPG-ADV-S305"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U096",
+      "premise": "Rescued noncombatants can divert guards under a no-kill order",
+      "spine_interval": [
+        305,
+        306
+      ],
+      "printed_page_interval": [
+        303,
+        304
+      ],
+      "authority_plane": "scenario conditional branch",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Limited allies supply a practical alternative to direct damage; portable.",
+      "H_class": "H1",
+      "H_target_and_reason": "At scenarioinstructionplane, a successfulSpirit15liepermitsunharmedpassage;failure/directroutecost50HPperPC. Nocheckactuallyrolledandnoguaranteedrescue.",
+      "soft_eligibility": true,
+      "source_interval_image_hashes": [
+        "c38840a52ae5a925db8c52b1973c11348678ad6b0823d68d44374034916ebe8a",
+        "45180209a413653d0617be9a86e5864e7bee291cecaf8f38135a41fee1df42a5"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S305"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "MODERATE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U097",
+      "premise": "Fair fight is demanded exactly when the advantage device is attacked",
+      "spine_interval": [
+        307,
+        307
+      ],
+      "printed_page_interval": [
+        305,
+        305
+      ],
+      "authority_plane": "scenario conditional NPC speech and rule",
+      "L_class": "L2",
+      "L_whole_and_nested_reason": "正々堂々invokesmoralstandingtoexcludeanopponent'slegitimatetarget;pragmaticself-servingdemandismaterial.",
+      "H_class": "H2",
+      "H_target_and_reason": "Bōren's scriptedfairnessappealprotectshisadvantage, andheGuardscoversdevice. This is conditionalauthoredbehavior,notperformednovelconduct.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "aa4cc5153c39e52091e76a3731488b931ee7837643834237259e75ff22212bc6"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S307"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U098",
+      "premise": "The uncontrolled tank attacks its would-be master",
+      "spine_interval": [
+        308,
+        310
+      ],
+      "printed_page_interval": [
+        306,
+        308
+      ],
+      "authority_plane": "scenario prescribed reaction",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Claimed mastery ends in a machine attacking its own commander; portable reversal.",
+      "H_class": "H3",
+      "H_target_and_reason": "The survivingBōrenattackorderiswrittenforthislocalblowbackpunchline. It is conditional, not actually played;GM-scripteddefeatdoesnotbecomeanindependentcompetencetest.",
+      "soft_eligibility": false,
+      "source_interval_image_hashes": [
+        "77906a43e95e8b065203363f3a591ca45e8e6a1cceb01bb78cb108113c96fad5",
+        "fef277321f99c7e14995889440afcfdca553a2a77aacd73a6a2787b914a28c56",
+        "f2cd4e0962360ad093358273965c93c8416ea95002e390163238188ff0ddbd43"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S308",
+        "TRPG-ADV-S310"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "HIGH_AT_DECLARED_SOURCE_PLANE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U099",
+      "premise": "Allies cheer from hiding while victors later receive bounties",
+      "spine_interval": [
+        310,
+        310
+      ],
+      "printed_page_interval": [
+        308,
+        308
+      ],
+      "authority_plane": "scenario ending and conditional speech",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Apparent support comes at a safe distance; concrete reward arrives only if conditions are met.",
+      "H_class": "H1",
+      "H_target_and_reason": "Scripted NPCs remain Extrasandnoncombatants; source givesbountiesBōren2000/tank10000,notactualpaidaccounts. Callingthemsimplecowardswoulderaseexplicitrolelimits.",
+      "soft_eligibility": true,
+      "source_interval_image_hashes": [
+        "f2cd4e0962360ad093358273965c93c8416ea95002e390163238188ff0ddbd43"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S310"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "MODERATE",
+      "no_frozen_model_or_score_change": true
+    },
+    {
+      "id": "TRPGA-U100",
+      "premise": "Origin-table reprise does not create another18 biographies",
+      "spine_interval": [
+        313,
+        313
+      ],
+      "printed_page_interval": [
+        311,
+        311
+      ],
+      "authority_plane": "appendix optional origin table reprise",
+      "L_class": "L0",
+      "L_whole_and_nested_reason": "Honor/betrayal/infiltrationtensionsareportablebutalreadyreadin113version;appendixrepetitiondoesnotaddindependentcases.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "All18alternativesretainindividualscope. This selectedrowrecordstherepetitiondispositionratherthaninflatingcomicoreventtotals.",
+      "soft_eligibility": true,
+      "source_interval_image_hashes": [
+        "28fe583933425c8cf826e3dc537c5e8f8cd68f7719333b4bc5e5af20e36e282b"
+      ],
+      "initial_uncoded_page_note_ids": [
+        "TRPG-ADV-S313"
+      ],
+      "initial_observations_preserved": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T04:53:10.802789+00:00",
+      "confidence": "MODERATE",
+      "no_frozen_model_or_score_change": true
+    }
+  ]
+}

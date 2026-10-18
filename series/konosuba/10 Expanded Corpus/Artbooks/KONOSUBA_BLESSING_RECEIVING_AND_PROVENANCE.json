@@ -1,0 +1,53 @@
+{
+  "acceptance_utc": "2026-10-17T23:27:29.977226+00:00",
+  "scope": "Stage C only; no main-only Gen01–05/R1/original execution/43-contract/four-book-score changes",
+  "published_entering_source": "0ce33a0ff540c4aea0f695c375bfcc57db244bca",
+  "entering_gate_closed_utc": "2026-10-17T23:12:06.135006+00:00",
+  "candidate_base_after_ordinary_main_reconciliation": "ab3e40d8e901addd50b4c817f090570e6dfff9da",
+  "reconciled_main": "f6ff03557ed9a977dd860e232f2e7de52ac41722",
+  "statistical_or_human_independence_claim": false,
+  "publication": "Containing exact source commit gate PENDING at authorship",
+  "source_media_or_long_primary_extract_publication": false,
+  "source_id": "ART-BLESSING",
+  "native_bytes": 44810944,
+  "native_sha256": "12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "4ae569247cdb4ea7bbcb0c9a5e154d64bda424829102d83d5d0c51375d5567f6",
+  "language": "ja",
+  "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
+  "full_reader": "Continuing I lineage, all157actual source-order native pages; no new blind human",
+  "root_receiving": "Entire report/all157per-page inventory/all68H/all22V/all28H3qualifications actually received; source check only14distinct native pages S009/S039/S054/S097/S140–148/S156",
+  "root_primary_scope_receipt_sha256": "d75a6b5ee36744a84b16379d58d39e05ab39302897f9d7187c7bf3b7b4b83a37",
+  "original_files_retained": true,
+  "H3_current_status": "All28originalH3rationales qualified; no new replacement score/class or whole-register H certification",
+  "exact_primary_phrase_precisions": "コレは絶対売らない; 手をわきわきさせる (wiggling, no blow); Yunyun友達なんて欲しくない; Darkness completed stripping unproven; S054 publication/imagined afterword planes; tiny S145uncertainty not used for L3",
+  "independence_limits": "Root14pages followed I report; same-lineage informed review, not independent discovery or complete second157page reading",
+  "unresolved": "Exact short-story main-volume date/reprint equivalence; lyric writer; album photographer access; tiny handwriting beyond named reading scope.",
+  "private_original_pins": [
+    {
+      "alias": "COMPLETE_ORDERED_ALL157_UNCODED_SOURCE_FIRST_SEAL.json",
+      "bytes": 1349,
+      "sha256": "1f71bae1d1a2b3169592579695a72d4e07c619c29615ba0b2a4fc97d071fbcef"
+    },
+    {
+      "alias": "FINAL_ART_BLESSING_COMPONENT_READING_MANIFEST.json",
+      "bytes": 5276,
+      "sha256": "56f6501277f85bdb475848c2ba0cab28803430854f155156163de58c02925526"
+    },
+    {
+      "alias": "FINAL_ART_BLESSING_INITIAL_COMPLETE_SEAL.json",
+      "bytes": 589,
+      "sha256": "acf8ef63847b54e1bc1dfcdea014f4282974c3aa13bd1052ed38d70f7f74bc49"
+    },
+    {
+      "alias": "ATTRIBUTABLE_OWN_NOTE_PRECISION_OVERLAY.json",
+      "bytes": 2685,
+      "sha256": "97e95706184e83b75e3d1587c8b1a175e922fc176c1a4b0e985c64f983b948b5"
+    },
+    {
+      "alias": "H3_POSTFEEDBACK_AUTHOR_QUALIFICATION_AND_ORIGINAL_PRESERVATION_SEAL.json",
+      "bytes": 2096,
+      "sha256": "0742dee4b6fafa1d50683ca232022fded0ed3cd9a808d272bfcaa86121c0940b"
+    }
+  ]
+}

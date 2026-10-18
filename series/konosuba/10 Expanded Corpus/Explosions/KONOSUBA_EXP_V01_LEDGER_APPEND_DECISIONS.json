@@ -1,0 +1,641 @@
+{
+  "schema": "KONOSUBA_EXP01_TEN_LEDGER_RECEIVING_DECISIONS_V1",
+  "created_utc": "2026-10-18T13:46:03.351771+00:00",
+  "baseline_commit": "eb4ddb3c1c176a749df2d74fe9cbfe3d821dcf52",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 241191,
+      "sha256": "dc00f02217e0c37fea0cf4366a6aeb5be8bd6440472af8157ca00130448cdd2f"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 171011,
+      "sha256": "8811126038c994f76efce990bbcbaf470df0ea9fc5de8da894bd3e0c5892a7a5"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 744052,
+      "sha256": "6f93d88f58394dc9d5f60bf3f7d228b1f53c1575cc32d19da8bf62b5e4c7a36f"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 556642,
+      "sha256": "ffdba0babd4b2c3422d6a422adafc4a419a2c0165fa70e7605187fe6474fb1e7"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 151945,
+      "sha256": "65506922c3562825385356b4d1ab44022914c3d50c20786544ea277daa596750"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 146647,
+      "sha256": "e43e68c24ea9d774040f84a556202d2620d3e4bf460de2f07c84e0de96e06eb7"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 167001,
+      "sha256": "a383a2083a2d36a759dff7fb466668d02b9c5dc89ba636fd5dd9a60d53f745b6"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 135434,
+      "sha256": "b84b9c8c2eae36670f24c3fd058115008b68f958b15ac931fb18e58b298e00e7"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 221961,
+      "sha256": "5214ffd74a1edd777f78875a24a7d5ef871b940ad285a32dab3e06f86d3efe5f"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 29400,
+      "sha256": "432945c25b7d25c5dab74f18e005e0eb53bd42de09a67efdca1c3102f0a251d8"
+    }
+  ],
+  "rows": [
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-CS01",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Megumin: early chosen build and competing self-conceptions",
+        "native_routes": "U018P0023–0058;U037P0249–0329;U043P0183–0284/0431–0509",
+        "observation": "Before acquisition she is a skilled school pupil with enough points for advanced magic but a different chosen aim. She knows practical objections, experiences identity/contribution conflict and actually commits to helping before a new point check removes the need to change the build.",
+        "implication": "Store chronological capability, chosen art, accepted burden, particular obligations and current resources as independent variables.",
+        "authority_and_adverse_limit": "No early inherited final-main control, no actual advanced purchase, no universal art-first or care-first ordering; earlier danger refusal remains.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-CS02",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Yunyun: independent recognition and costly choice",
+        "native_routes": "U023P0296–0309;U037P0257–0274;U043P0211–0245/0288–0345",
+        "observation": "She wants a title beyond chief’s daughter, deliberately aligns graduation for company, then actually learns intermediate magic to protect others and the rival’s dream while still opposing Explosion.",
+        "implication": "Represent independent values, practical ability, particular attachment and her specific willingness at the moment.",
+        "authority_and_adverse_limit": "Her projected year of recovery is Megumin’s estimate; loneliness is not her sole motive or an unlimited provider switch.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-CS03",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Komekko and Horst: limited capacities, choices and future potential",
+        "native_routes": "IMG026–043;U043P0263–0314",
+        "observation": "The child has exceptional puzzle skill and her own appetite/choices; a stronger devil becomes dependent on her and a particular friendship develops through food, play, concern and farewell.",
+        "implication": "Retain actual puzzle competence and particular relationship; evidence may support a later limited profile, with varied contexts still required before a broad reconstruction.",
+        "authority_and_adverse_limit": "No completed summoning, future familiar contract or universal power rank. Horst’s lore and Komekko’s beliefs do not become Megumin’s knowledge.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-RS01",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Megumin–Yunyun: provision and specific boundaries",
+        "native_routes": "U018P0252–0268;U023P0013–0024/0275–0320/0639–0649",
+        "observation": "The beneficiary repeatedly exceeds half-food terms and uses a pet to pressure a contest opponent; the provider objects, chooses new terms, refuses roles and still offers help.",
+        "implication": "Track offer, pressure, limited choice, violation, objection and continuing bond separately.",
+        "authority_and_adverse_limit": "Friendship, renewed aid and eventual utility never authorize an imposed start or make a particular unwanted method harmless.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-RS02",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Megumin–Yunyun: third parties, valued company and protective action",
+        "native_routes": "U023P0062–0128/0514–0584;U034P0094–0128;U037P0138–0228",
+        "observation": "New friendships produce real joy, jealousy, cruel testing and fear of losing a food lifeline; later Megumin actually helps recover money without requiring proof the brother is not ill.",
+        "implication": "Preserve mixed motives and actual aid; economic dependence does not make particular affection fictitious.",
+        "authority_and_adverse_limit": "The classroom comic visualizes an immediately denied joking allegation, not independently verified past coercion. Recovery of money does not erase prior hurt.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-RS03",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Megumin–Komekko: actual care and negotiated protection",
+        "native_routes": "U018P0410–0438/0586;U023P0213–0238;U043P0253–0284",
+        "observation": "Meal gifts, routine breakfast sacrifice, cleaning and a changed travel plan establish actual sister care; the younger sister’s refusal of a solo escape changes the protector’s choice.",
+        "implication": "Generate care through concrete routines, particular value and real alternative risks rather than an automatic name-triggered heroic action.",
+        "authority_and_adverse_limit": "No guarantee every sister wish is harmless or every reassurance is accurate; actual panic and earlier risk-taking remain.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-RS04",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Pet attachment and first-friend farewell",
+        "native_routes": "U018P0441–0494;U023P0479–0489;U043P0077–0114/0388–0407/0574–0614;IMG040–043",
+        "observation": "The cat is saved, fed and retained while also threatened, used as a shield, prematurely abandoned and renamed despite objections. Horst and Komekko explicitly part as particular friends.",
+        "implication": "Model attachment as one competing value with recipient-specific costs and finite provider availability.",
+        "authority_and_adverse_limit": "No inherent consent from pet affection, no completed magical familiar ritual and no permanent summonable helper from a prospective farewell offer.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-CC01",
+        "ledger": "CC",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Megumin: narrow destructive power versus completed operation",
+        "native_routes": "U043P0414–0519",
+        "observation": "A first acquired Explosion destroys the airborne targets but has unpracticed leakage, no staff, collateral wind/tree damage and complete mana/stamina loss; other people supply shelter, eventual recovery and transport.",
+        "implication": "Separate acquisition, target execution, friendly geometry, recovery, liability and knowledge of alternatives.",
+        "authority_and_adverse_limit": "No full independently prepared safe-operation trial; later adult arrival cannot supply a previously secured exit.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-CC02",
+        "ledger": "CC",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Ordinary craft reasoning with actual providers",
+        "native_routes": "U018P0561–0569;U037P0044–0154",
+        "observation": "Megumin actively prefers craft class and attempts difficult medicine with actual teacher permission, recipe/materials and Arue’s assistance; Yunyun treats the cat and the teacher handles fire. The blacksmith describes real niche furnace work.",
+        "implication": "Keep domains and provider edges specific; ordinary reasoning and novice limits coexist.",
+        "authority_and_adverse_limit": "No clinical efficacy test, no universal expertise, no unqualified conversion of magical craft into real chemistry or medicine.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-CC03",
+        "ledger": "CC",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Yunyun, Bukkorori and Socket: competence is task-specific",
+        "native_routes": "U028P0117–0183/0338–0449;U043P0288–0352",
+        "observation": "Yunyun’s combat and judgment become actual provision; Bukkorori has real strong spells but dangerous timing/control; Socket supplies her own wind/water protection and a limited divination service.",
+        "implication": "Ability, reliability, willingness, independent protection and institutional work are separate.",
+        "authority_and_adverse_limit": "Unemployment is not absence of magical skill; a successful attack does not certify a safe rescue or all-seeing fortune system.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-DE01",
+        "ledger": "DE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Megumin: cue receipt, late joining and selective evidence avoidance",
+        "native_routes": "U018P0278–0289;U028P0189–0237;U043P0120–0135/0387–0404;U049P0033–0047",
+        "observation": "She stops unfavorable reading, overstates a casual opener, later joins toy and pursuit cues, then revises the empty-crystal interpretation only after a new rule is supplied.",
+        "implication": "Track cue availability, attention, conscious avoidance, competing explanation and actual later update.",
+        "authority_and_adverse_limit": "Do not backdate the reader’s interlude knowledge or the epilogue rule, and do not call every late discovery warranted ignorance.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-DE02",
+        "ledger": "DE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Megumin: identity defense, reward and reactive planning",
+        "native_routes": "U023P0557–0584;U037P0114–0134/0280–0309;U043P0008–0029/0166–0219",
+        "observation": "She engineers a cruel test, kills after new reward information, attacks after identity insult, and freezes or produces genre excuses when a one-enemy plan fails.",
+        "implication": "Represent distinct triggers rather than one always-cool genius or universal hunger cause.",
+        "authority_and_adverse_limit": "Actual first fight loss, forced methods and emotional costs remain; later successful output cannot repair the prior choice.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-DE03",
+        "ledger": "DE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Distributed plans and unfinished dependencies",
+        "native_routes": "U018P0244–0262;U028P0117–0183/0239–0277/0361–0381;U043P0361–0387",
+        "observation": "A style storm lacks a stop plan, a funding hunt creates a pack/processing problem, a helpful wind is diverted, and a rescue creates wildfire. Carrying a spent helper remains difficult.",
+        "implication": "Keep provider, magnitude, interference, disposal, treatment, money and extraction in the causal chain.",
+        "authority_and_adverse_limit": "An actual useful phase does not close the full operation; no pure-help, known-power or no-injury exemption.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-HM01",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Village norms, real style costs and inverted abnormality",
+        "native_routes": "U018P0138–0248;U023P0367–0399;U034P0142–0153;IMG009–010",
+        "observation": "Style is actually rewarded and sometimes costly; practical Yunyun becomes the local oddity, props puncture a power claim and dangerous attractions are preserved for prestige.",
+        "implication": "Transfer evaluative mismatch, institutional incentives and counterpart dissent; calibrate magnitude to actual world rules.",
+        "authority_and_adverse_limit": "Magic and genre belief alone are not H4; a false strength claim is not literal acquired strength or a universal death-flag law.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-HM02",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Moving correction roles, partial truth and audience",
+        "native_routes": "U018P0300–0315;U023P0588–0635;U028P0382–0418;U043P0532–0544;U049P0019–0036",
+        "observation": "Megumin can correct another person and be corrected; heroic, romantic and institutional accounts turn on private premises and selective disclosure.",
+        "implication": "Generate actual goals and information before choosing comic delivery; no fixed rational narrator or permanent boke/corrector assignment.",
+        "authority_and_adverse_limit": "A blush, public legend or witty explanation is not private mind access, canon truth or behavioral validation.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-HM03",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Chosen vulnerabilities and form-dependent culinary mistake",
+        "native_routes": "U023P0269–0320;U037P0547–0562;IMG026–043",
+        "observation": "Food, friendship labels, prestige and flattery invite help or exploitation but also real veto; the ritual’s parent/child semantics become a Japanese chicken-and-egg bowl.",
+        "implication": "Keep actual term changes and provider choices. Reconstruct or annotate the dish-name hinge when transferring language.",
+        "authority_and_adverse_limit": "No universal easily-manipulated switch, no actual child sacrifice or erotic reading; selected76premises are not a population census.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-JV01",
+        "ledger": "JV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "Megumin’s function-first repertoire and Yunyun’s directness",
+        "native_routes": "VoiceV001–V108;U037P0268–0329;U043P0183–0219",
+        "observation": "Polite structures carry ordinary reasoning, firm preference, manipulation, care, disclosure and threats. Yunyun uses hesitant invitations as well as precise objections, chosen instructions and direct refusal.",
+        "implication": "Preserve recipient, function, confidence and context before style; ordinary neutral speech remains possible.",
+        "authority_and_adverse_limit": "108 exact original fragments are written witnesses, not complete speech frequencies, sound evidence, native-human review or catchphrase mandates.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-JV02",
+        "ledger": "JV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "Child/devil address, reference and source-plane language",
+        "native_routes": "IMG011/017/020/025–043;U018P0496–0539;U043P0574–0614",
+        "observation": "Repeated name reference rebounds against its inventor; deferential devil/child address changes with particular requests and is later renegotiated. Long image dialogue and prose carry indispensable language evidence.",
+        "implication": "Use explicit native image hashes and narrative groups; distinguish creator address, fictional article and character speech.",
+        "authority_and_adverse_limit": "Not every ruby, idiom or theatrical name is L3. The central 親子丼 hinge requires cultural/lexical reconstruction; no acoustic inference.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-KN01",
+        "ledger": "KN",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "A non-Kazuma first-person narrator and reader-only interludes",
+        "native_routes": "U014–049;IMG026–043",
+        "observation": "Megumin’s narrative mixes direct observation, admitted self-serving motive, private inference and limited access. Komekko’s separate interludes reveal facts unknown to her.",
+        "implication": "Append comparative narrator-access evidence without claiming Kazuma narrates this book. Keep publication, in-world and reader encounter order distinct.",
+        "authority_and_adverse_limit": "Reader’s full main17/holdout/Dust exposure does not supply earlier protagonist knowledge or a newly blind test.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-KN02",
+        "ledger": "KN",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Self-explanation, correction and denied comics",
+        "native_routes": "U028P0045–0052/0382–0454;U034P0176–0179→U035–036→U037P0001–0004;U043P0097–0108",
+        "observation": "The narrator can distort a true request, misread a romantic frame and invent a barrier after a miss. The two-page comic is bounded by an immediately denied joking allegation.",
+        "implication": "Attribute an account before accepting its event or cause; preserve independent recipient contradiction.",
+        "authority_and_adverse_limit": "CurrentQ41 corrects initial uncoded retrospective wording without altering the sealed notes. Comic depiction does not independently verify the alleged past act.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-KN03",
+        "ledger": "KN",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Divination, public accounts and late rule disclosure",
+        "native_routes": "U043P0532–0573;U049;IMG025/040–043",
+        "observation": "Adults’ divine-battle account conflicts with the known local cast; Socket withholds a desired future and later discloses the self-involvement blind spot. Horst receives a misleading report.",
+        "implication": "Retain separate public, protagonist, provider and reader belief states and the actual time of updates.",
+        "authority_and_adverse_limit": "Empty output is not permanent no-partner proof; later inference is not a completed marriage, goddess death or witnessed future main event.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-OP01",
+        "ledger": "OP",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Scarcity, actual family care and resource direction",
+        "native_routes": "U018P0404–0438;U023P0210–0265;U037P0226–0246",
+        "observation": "Actual breakfast sacrifice, shared food, gifted sandwich and uncertain household stores matter alongside asking others to provide meals. A permitted all-you-want meal exceeds expectations.",
+        "implication": "Represent concrete giver, receiver, quantity, ownership and retained routine; poverty does not imply universal frugality.",
+        "authority_and_adverse_limit": "No invented food preferences or real nutrition diagnosis; self-serving appetite and real care can coexist.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-OP02",
+        "ledger": "OP",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Mundane activity beyond the specialty",
+        "native_routes": "U018P0543–0614;U028P0009–0038/0281–0299;U037P0036–0082",
+        "observation": "Games, accessories, washing, chores, craft interests, cat care and family tasks give varied ordinary-life contexts. Some intended chores remain only plans.",
+        "implication": "Generate ordinary capable or neutral acts without requiring a spell-equivalent gag every turn.",
+        "authority_and_adverse_limit": "Board-game Explosion is not actual magic; game borrowing, a dagger purchase and planned chores retain their distinct evidence.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-OP03",
+        "ledger": "OP",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Other people’s work, autonomy and finite time",
+        "native_routes": "U028P0055–0114;U034P0130–0153;IMG029–043",
+        "observation": "A cashless adult still works as a useful spell provider; a shop owner has routines and independent training; a devil’s food/company service is conditional and ends in a farewell.",
+        "implication": "Keep actual employment, available cash, craft, schedules, preferences and obligations separate.",
+        "authority_and_adverse_limit": "Do not convert an intrusive admirer’s routine account into omniscience, or a prospective familiar offer into a permanently free provider.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-SO01",
+        "ledger": "SO",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Threat does not activate one uniform priority",
+        "native_routes": "U037P0404–0407;U043P0183–0284/0414–0441",
+        "observation": "An early explicit alternative-spell plea is refused; later accepted sister/companion burden brings real conflict and a return before resources remove the cost.",
+        "implication": "Use recognized stake, accepted causation and feasible alternatives to discriminate states.",
+        "authority_and_adverse_limit": "Preserve early refusal and actual later willingness; no automatic sister-name, serious-mission or pure-motive rule.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-SO02",
+        "ledger": "SO",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Actual care coexists with imposed methods",
+        "native_routes": "U023P0443–0451;U037P0114–0168;U043P0038–0047/0361–0381",
+        "observation": "Helping another person may coexist with coercion, reward-sensitive harm, distress and an attempted abandonment appeal. Recipients retain objections and scope claims.",
+        "implication": "Separate fidelity, normative evaluation, motive and result; do not infer ethical immunity from affection or utility.",
+        "authority_and_adverse_limit": "No bodily-injury threshold, comic reset, authority permission or later success removes credible coercive danger.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-SO03",
+        "ledger": "SO",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Restraint and collective disagreement after success",
+        "native_routes": "U043P0339–0352/0426/0547–0562",
+        "observation": "Yunyun protects a dream she still judges impractical, proposes waiting rather than casting and later enforces a local restriction; Megumin actually agrees to wait for now.",
+        "implication": "Seriousness may produce different simultaneous appraisals, and a desire can persist through actual inhibition.",
+        "authority_and_adverse_limit": "Not unanimous conversion, permanent maturation, universal compulsion or proof that every imposed cost is repaired.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-PV01",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M01 informed early-state comparison",
+        "native_routes": "Full exact contract and native routes in KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json: U018P0132–0134/0241–0289: teacher explicitly denigrates Explosion, her interest persists, and unfavorable reading makes her stop. U037P0268–0292: explicit skill disclosure and practical/legitimacy criticism receive a chosen-love defense and an actual attack after repeated stupidity labels.",
+        "observation": "IDENTITY_ACTIVATION_OBSERVED_FULL_COMPETITIVE_COST_CONJUNCTION_QUALIFIED. PRESERVE identity sensitivity; do not claim a fully matched ordinary-companion-cost priority confirmation.",
+        "implication": "No new C/P/F score. Strong descriptive activation and real ordinary-cost disregard inform the expanded model; full R1-M01 predictive comparability stays qualified.",
+        "authority_and_adverse_limit": "The later attack is an ordinary physical fight, not by itself a competitive demonstration of the art. At that point she has not learned Explosion. Known curfew/danger and later food/fight delay must not be erased, but they do not automatically establish every original display/cost conjunct. U037P0404–0407 is a separate understood danger/feasible alternative refusal, not ordinary-cost evidence relabeled after outcome. Do not add a formal warning, money or bodily-injury floor; actual known ordinary costs remain relevant. Conversely, do not infer the entire competitive-response contract from any hurt identity or anger. Preserve both challenge meaning and action type.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-PV02",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M02 informed early-state comparison",
+        "native_routes": "Full exact contract and native routes in KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json: U043P0183–0209: she herself frames sister’s life against the desired spell, claims advanced acquisition falsely, trembles and cannot easily spend. U043P0239–0284: recognizes Yunyun’s real cost, returns rather than escape for her dream, asks whether still loved without the strongest spell and commits to a delayed route. U043P0414–0441: again prepares the available alternative before discovering sufficient Explosion points.",
+        "observation": "MEANINGFUL_RECONSIDERATION_SUPPORTED_BEFORE_OUTSIDE_INTERVENTION. STRENGTHEN a bounded contribution/identity conflict at this early state; retain the earlier refusal.",
+        "implication": "Informed local behavioral support for meaningful reconsideration, not permanent rebuilding, a new prospective holdout success or proof that every danger recruits the same priority.",
+        "authority_and_adverse_limit": "U037P0404–0407 shows the same available alternative previously refused under a received threat; it prevents an unconditional danger-to-renunciation rule. The earlier fleeing enemies do not prove a prior safe plan. Yunyun’s independent acquisition and the later favorable point discovery remove the need to purchase the alternative; actual purchase is not required by the original conflict forecast. Accepted contribution loss and a known feasible alternative are evidenced before the corresponding hesitation/return. No pure-motive condition is added: sister care, rivalry, repayment and public self-conception coexist. Estimate of years is her appraisal, not a measured developmental result.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-PV03",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M03 informed early-state comparison",
+        "native_routes": "Full exact contract and native routes in KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json: U043P0445–0509 actually acquires/executes Explosion at an airborne cluster, destroys the targets and then loses mana/stamina. She instructs both to get low and Yunyun actually shelters Komekko. Native prose admits first-use leakage, no staff and self-reassurance about control.",
+        "observation": "NARROW_OUTPUT_SUCCEEDS_FULL_PREPARED_SAFE_OPERATION_NOT_ESTABLISHED. PRESERVE capacity/operation separation; keep whole-operation reliability open.",
+        "implication": "Full prepared-operation branch remains untested/qualified here; powerful target execution and meaningful collateral/exhaustion are both accepted descriptive findings.",
+        "authority_and_adverse_limit": "Pre-action recovery/exit is not independently secured: Yunyun is already spent, their child remains at risk and adult arrival is expected rather than already supplied. U043P0426 includes an actual wait-for-adults alternative. Shockwave fells trees/rolls caster; another seal is subsequently reported broken. Successful output cannot supply missing prior geometry or recovery. The full original guard includes actual capacity, prior friendly separation, resources and recovery. Known dangerous interference and actual caster limitations remain visible. This scene is not used to fabricate a full prepared reliability pass or to falsify a conditional whose complete prior guard is missing.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-PV04",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M04 informed early-state comparison",
+        "native_routes": "Full exact contract and native routes in KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json: The unnamed childhood rescuer remains an admired origin and goal in U014/U016/U037P0314–0324; she is not recognized as the actual enemy target of the first cast. The cat is repeatedly protected yet offered, abandoned, used as a shield or proposed for surrender at U023P0479–0489/0639–0649 and U043P0077–0114/0388–0407.",
+        "observation": "NO_CLEAR_RECOGNIZED_BONDED_ACTUAL_PERSON_TARGET_CASE. OPEN the limited bonded-target transfer question; preserve contrary-looking pet acts at their actual scope.",
+        "implication": "No new target-branch or aftermath score; early attachment is conditional and the original Wolbach-based transfer remains limited.",
+        "authority_and_adverse_limit": "A valued pet’s threatening use is real adverse evidence to broad attachment-implies-inhibition. It is not automatically the original significant-person/bonded-actual-target decisive-harm conjunction. Reader-only Wolbach/black-beast lore cannot be copied into Megumin’s pre-action recognition. No unshown forgiveness or harmlessness is supplied. Do not generalize from anonymous humanoid enemies or a collateral friend to the actual recognized valued target. Do not shield the pet harm from analysis merely because the exact R1-M04 target class is unresolved.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-PV05",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M05 informed early-state comparison",
+        "native_routes": "Full exact contract and native routes in KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json: U043P0492–0509 supplies explicit gratification from an instrumental first cast. After several days, U043P0547–0562 shows a concrete wish to cast again, bargaining over its value, Yunyun’s firm nearby-use restriction and Megumin’s actual temporary agreement to refrain.",
+        "observation": "CONTINUATION_DESIRE_WITH_OBSERVED_TEMPORARY_RESTRAINT. QUALIFY desire and actual continuation separately; no full instrumental-repetition score.",
+        "implication": "Local desire evidence is compatible, actual present restraint is meaningful, and full original drift comparability remains qualified. No new accuracy total or universal compulsion.",
+        "authority_and_adverse_limit": "Only the first actual spell use is shown; this is not a repeated instrumental operation with an independently fixed next full opportunity/resource state. The later desired practice has a different immediate goal. No repeated cast is invented, and agreed restraint is retained rather than erased by enthusiasm. The original continuation-desire commitment is narrower than safe operation and does not require completed firing. But descriptive desire after a first gratifying use does not establish every repeated-instrumental/goal-weakening conjunct. A future opportunity cannot be inferred from wishing alone.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-PV06",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M06 informed early-state comparison",
+        "native_routes": "Full exact contract and native routes in KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json: School-period first-person narration explicitly places Megumin at12 with no Kazuma partnership. Friend/rival invitations, an unsolicited lunch, classroom peer pressure, protective sleepover and imagined future partners have their own actual limits.",
+        "observation": "NO_CURRENT_NEGOTIATED_INTIMATE_PACE_CASE. PRESERVE chronological eligibility; do not import the later Kazuma arrangement.",
+        "implication": "Original intimate-pace contract is not tested at this source state; expanded observations enter relationship/agency analysis without rewriting later prospective scores.",
+        "authority_and_adverse_limit": "A wife joke is explicitly corrected; comic peers’ labels establish no intimate agreement. U035–036/IMG021–022 are situated inside the immediately denied joking allegation of U037P0001–0004. Their alleged past event is not independently established. Keep non-graphic representation separate from actual peer misconduct proved elsewhere. Future divination does not authorize later acts. Known later main-series intimacy and R1-M06 agreement states are reader exposure only. Absence of this exact test does not excuse actual current coercion or ownership violations.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "EXP01-WHOLE-PV07",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M07 informed early-state comparison",
+        "native_routes": "Full exact contract and native routes in KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json: U028P0457–0458 declines further disclosure of an injured adult’s motive. U037P0138–0228 expends craft labor/obtains and actually returns Yunyun’s money while resisting public acknowledgment of attachment. Yunyun later protects Megumin’s dream despite disapproving of the build.",
+        "observation": "PROTECTIVE_FACE_AND_HELP_FINDINGS_WITHOUT_FULL_OFFER_CONJUNCTION. PRESERVE bounded protective acts; keep the original image-saving-offer transfer open.",
+        "implication": "No new full-contract score. Retain specific protective actions and contrary self-serving conduct; limited-source general transfer remains open.",
+        "authority_and_adverse_limit": "These are important actual care and face findings, but none cleanly supplies the specified offer to protect Megumin’s impressive image by transparently humiliating the valued person or imposing a known falsehood on kind witnesses. Her own denial and retaliation for teasing complicate a broad dignity-first story. Do not enlarge the original contract to count every kind act, inferred embarrassment or another actor’s sacrifice. Actual care need not be pure, and missing exact comparability does not downgrade observed help into nothing.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T13:46:03.351771+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    }
+  ],
+  "full17responsibility_report": "KONOSUBA_EXP_V01_DEEP_READING.md",
+  "frozen_models_scores_and_original14blanks_changed": false,
+  "prediction_storage_continuation": "New PV appends use existing linked Continuation01; original ledger stays exact.",
+  "source_plane_precision": "CurrentQ41 controls the denied classroom comic; original sealed notes and first private formal artifacts remain recoverable."
+}
