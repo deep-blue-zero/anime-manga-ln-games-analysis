@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-17T23:27:29.977226+00:00",
+  "updated_utc": "2026-10-18T00:05:03.198219+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -295,27 +295,55 @@
       "source_id": "ART-CHEERS",
       "native_sha256": "fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLICATION_PENDING",
+      "stage_C_status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
       "evidence": "Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json",
       "receiving": "Artbooks/KONOSUBA_CHEERS_RECEIVING_AND_PROVENANCE.json",
-      "remaining_publication": "Containing exact-head gate; no whole-corpus completion"
+      "remaining_publication": "NONE_FOR_THIS_SUPPLIED_COMPONENT_BATCH; source-branch gate closed, protected-main integration separate",
+      "publication": {
+        "source_commit": "1ef78c578734f01c3806eaa65bc346f6da5e10ab",
+        "source_tree": "de62b732d916236909178f86a1c7030310b006bc",
+        "closed_at_utc": "2026-10-17T23:44:50.688567+00:00",
+        "source_audit_run": 39079377125,
+        "housekeeping_run": 39079583747,
+        "housekeeping_result": "NO_OP",
+        "final_audit_run": 39079611210,
+        "actual_source_status": "Repository integration audit: success",
+        "gate_receipt": "09 Audits and Manifests/KONOSUBA_TWO_ARTBOOKS_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+        "protected_main_integration_asserted": false
+      }
     },
     {
       "source_id": "ART-BLESSING",
       "native_sha256": "12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLICATION_PENDING",
+      "stage_C_status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
       "evidence": "Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json",
       "receiving": "Artbooks/KONOSUBA_BLESSING_RECEIVING_AND_PROVENANCE.json",
-      "remaining_publication": "Containing exact-head gate; no whole-corpus completion"
+      "remaining_publication": "NONE_FOR_THIS_SUPPLIED_COMPONENT_BATCH; source-branch gate closed, protected-main integration separate",
+      "publication": {
+        "source_commit": "1ef78c578734f01c3806eaa65bc346f6da5e10ab",
+        "source_tree": "de62b732d916236909178f86a1c7030310b006bc",
+        "closed_at_utc": "2026-10-17T23:44:50.688567+00:00",
+        "source_audit_run": 39079377125,
+        "housekeeping_run": 39079583747,
+        "housekeeping_result": "NO_OP",
+        "final_audit_run": 39079611210,
+        "actual_source_status": "Repository integration audit: success",
+        "gate_receipt": "09 Audits and Manifests/KONOSUBA_TWO_ARTBOOKS_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+        "protected_main_integration_asserted": false
+      }
     },
     {
       "source_id": "FAN-MEM",
       "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "ALL121_ACTUAL_PAGE_INSPECTION_SEPARATELY_ADMITTED_NOT_YET_CREDITED_AT_ADMISSION",
-      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion",
-      "component_admission_sha256": "b7f3903787a5d40a61d2ecf1e0c3f5531a7ce8f412ccda1a20e5a28b4ffefc48"
+      "stage_C_status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLICATION_PENDING",
+      "remaining": "Containingexact-headpublicationgate; no globalcorpuscompletion",
+      "component_admission_sha256": "b7f3903787a5d40a61d2ecf1e0c3f5531a7ce8f412ccda1a20e5a28b4ffefc48",
+      "evidence": "Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json",
+      "receiving": "Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_AND_PROVENANCE.json",
+      "actual_pages": 121,
+      "complete_fiction_bodies": 3
     },
     {
       "source_id": "TRPG-CORE",

@@ -9882,7 +9882,7 @@
       ],
       "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "stage_C_component_analysis": {
-        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
         "acceptance_utc": "2026-10-17T23:27:29.977226+00:00",
         "actual_native_pages": 137,
         "native_sha256": "fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea",
@@ -9891,7 +9891,20 @@
         "receiving": "10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_RECEIVING_AND_PROVENANCE.json",
         "historical_metadata_state_preserved": "Original no-inspection/not-admitted statements describe the matrix reconciliation operation; this separately attributed Stage C overlay supplies later actual semantic coverage",
         "authority": "Expanded source only; reproduced/adapted/creator/promo/reference/imagined/event planes unequal; no frozen model/score changes",
-        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness"
+        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness",
+        "publication": {
+          "source_commit": "1ef78c578734f01c3806eaa65bc346f6da5e10ab",
+          "source_tree": "de62b732d916236909178f86a1c7030310b006bc",
+          "closed_at_utc": "2026-10-17T23:44:50.688567+00:00",
+          "source_audit_run": 39079377125,
+          "housekeeping_run": 39079583747,
+          "housekeeping_result": "NO_OP",
+          "final_audit_run": 39079611210,
+          "actual_source_status": "Repository integration audit: success",
+          "gate_receipt": "09 Audits and Manifests/KONOSUBA_TWO_ARTBOOKS_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+          "protected_main_integration_asserted": false
+        },
+        "publication_pending_at_authorship": "Historical acceptance timestamp remains unchanged; this later verified closure reconciles pending wording."
       }
     },
     {
@@ -10153,7 +10166,7 @@
         "required_disposition": "Identify and inspect the supplied pages after the designated validation stage; do not classify the whole book as illustrations-only."
       },
       "stage_C_component_analysis": {
-        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
         "acceptance_utc": "2026-10-17T23:27:29.977226+00:00",
         "actual_native_pages": 157,
         "native_sha256": "12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c",
@@ -10162,7 +10175,20 @@
         "receiving": "10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_RECEIVING_AND_PROVENANCE.json",
         "historical_metadata_state_preserved": "Original no-inspection/not-admitted statements describe the matrix reconciliation operation; this separately attributed Stage C overlay supplies later actual semantic coverage",
         "authority": "Expanded source only; reproduced/adapted/creator/promo/reference/imagined/event planes unequal; no frozen model/score changes",
-        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness"
+        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness",
+        "publication": {
+          "source_commit": "1ef78c578734f01c3806eaa65bc346f6da5e10ab",
+          "source_tree": "de62b732d916236909178f86a1c7030310b006bc",
+          "closed_at_utc": "2026-10-17T23:44:50.688567+00:00",
+          "source_audit_run": 39079377125,
+          "housekeeping_run": 39079583747,
+          "housekeeping_result": "NO_OP",
+          "final_audit_run": 39079611210,
+          "actual_source_status": "Repository integration audit: success",
+          "gate_receipt": "09 Audits and Manifests/KONOSUBA_TWO_ARTBOOKS_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+          "protected_main_integration_asserted": false
+        },
+        "publication_pending_at_authorship": "Historical acceptance timestamp remains unchanged; this later verified closure reconciles pending wording."
       }
     },
     {
@@ -10443,7 +10469,25 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "stage_C_component_analysis": {
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "accepted_utc": "2026-10-18T00:05:03.198219+00:00",
+        "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+        "actual_native_pages": 121,
+        "complete_fiction_bodies": [
+          "FAN-MEM-FIC-01",
+          "FAN-MEM-COMIC-01",
+          "FAN-MEM-REPRINT-01"
+        ],
+        "coherent_component_groups": 21,
+        "component_register": "10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json",
+        "analysis": "10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md",
+        "receiving": "10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_AND_PROVENANCE.json",
+        "historical_metadata_state_preserved": "Originalmatrix observations describe metadatareconciliation, not thislateractualcomponentreading.",
+        "authority": "Expandedfiction/metafiction/reference/creator/scripted/hypothetical/reproductionplanesunequal; no R1/Gen01–05/fourholdoutrescore.",
+        "unresolved": "Newproseexactchronology/separatebyline, reprintoriginaldate, Medusafate/toweroutcome, unnamedguestfigureidentities/nativecroppededges asrecorded."
+      }
     },
     {
       "source_id": "TRPG-CORE",
@@ -11501,7 +11545,7 @@
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
       "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "stage_C_component_analysis": {
-        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
         "acceptance_utc": "2026-10-17T23:27:29.977226+00:00",
         "actual_native_pages": 137,
         "native_sha256": "fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea",
@@ -11510,7 +11554,20 @@
         "receiving": "10 Expanded Corpus/Artbooks/KONOSUBA_CHEERS_RECEIVING_AND_PROVENANCE.json",
         "historical_metadata_state_preserved": "Original no-inspection/not-admitted statements describe the matrix reconciliation operation; this separately attributed Stage C overlay supplies later actual semantic coverage",
         "authority": "Expanded source only; reproduced/adapted/creator/promo/reference/imagined/event planes unequal; no frozen model/score changes",
-        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness"
+        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness",
+        "publication": {
+          "source_commit": "1ef78c578734f01c3806eaa65bc346f6da5e10ab",
+          "source_tree": "de62b732d916236909178f86a1c7030310b006bc",
+          "closed_at_utc": "2026-10-17T23:44:50.688567+00:00",
+          "source_audit_run": 39079377125,
+          "housekeeping_run": 39079583747,
+          "housekeeping_result": "NO_OP",
+          "final_audit_run": 39079611210,
+          "actual_source_status": "Repository integration audit: success",
+          "gate_receipt": "09 Audits and Manifests/KONOSUBA_TWO_ARTBOOKS_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+          "protected_main_integration_asserted": false
+        },
+        "publication_pending_at_authorship": "Historical acceptance timestamp remains unchanged; this later verified closure reconciles pending wording."
       }
     },
     {
@@ -11523,7 +11580,7 @@
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
       "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "stage_C_component_analysis": {
-        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
         "acceptance_utc": "2026-10-17T23:27:29.977226+00:00",
         "actual_native_pages": 157,
         "native_sha256": "12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c",
@@ -11532,7 +11589,20 @@
         "receiving": "10 Expanded Corpus/Artbooks/KONOSUBA_BLESSING_RECEIVING_AND_PROVENANCE.json",
         "historical_metadata_state_preserved": "Original no-inspection/not-admitted statements describe the matrix reconciliation operation; this separately attributed Stage C overlay supplies later actual semantic coverage",
         "authority": "Expanded source only; reproduced/adapted/creator/promo/reference/imagined/event planes unequal; no frozen model/score changes",
-        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness"
+        "unresolved": "Exact story dates/reprint equivalence; source plane and tiny-text limits as recorded; supplied-object coverage does not assert official-edition completeness",
+        "publication": {
+          "source_commit": "1ef78c578734f01c3806eaa65bc346f6da5e10ab",
+          "source_tree": "de62b732d916236909178f86a1c7030310b006bc",
+          "closed_at_utc": "2026-10-17T23:44:50.688567+00:00",
+          "source_audit_run": 39079377125,
+          "housekeeping_run": 39079583747,
+          "housekeeping_result": "NO_OP",
+          "final_audit_run": 39079611210,
+          "actual_source_status": "Repository integration audit: success",
+          "gate_receipt": "09 Audits and Manifests/KONOSUBA_TWO_ARTBOOKS_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+          "protected_main_integration_asserted": false
+        },
+        "publication_pending_at_authorship": "Historical acceptance timestamp remains unchanged; this later verified closure reconciles pending wording."
       }
     },
     {
@@ -11543,7 +11613,25 @@
         "bonus_fiction"
       ],
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "stage_C_component_analysis": {
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "accepted_utc": "2026-10-18T00:05:03.198219+00:00",
+        "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+        "actual_native_pages": 121,
+        "complete_fiction_bodies": [
+          "FAN-MEM-FIC-01",
+          "FAN-MEM-COMIC-01",
+          "FAN-MEM-REPRINT-01"
+        ],
+        "coherent_component_groups": 21,
+        "component_register": "10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json",
+        "analysis": "10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md",
+        "receiving": "10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_AND_PROVENANCE.json",
+        "historical_metadata_state_preserved": "Originalmatrix observations describe metadatareconciliation, not thislateractualcomponentreading.",
+        "authority": "Expandedfiction/metafiction/reference/creator/scripted/hypothetical/reproductionplanesunequal; no R1/Gen01–05/fourholdoutrescore.",
+        "unresolved": "Newproseexactchronology/separatebyline, reprintoriginaldate, Medusafate/toweroutcome, unnamedguestfigureidentities/nativecroppededges asrecorded."
+      }
     },
     {
       "source_id": "TRPG-CORE",

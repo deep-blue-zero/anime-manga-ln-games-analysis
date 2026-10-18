@@ -1282,3 +1282,15 @@ Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f6
 |---|---|---|---|---|---|
 | EC-ARTBOOKS-DE01 | Kazuma; Megumin; Vanir; Wiz | CHEERS printed120/B1 | Observed proposal/withdrawal; HIGH | Kazuma wants power before side-effect knowledge and explicitly rejects after lethal warning; Megumin’s later interest is informed. Wiz forbids sale/use; no present transaction/use/death. | Separate ignorance, updated judgment and deliberate attraction; no Aqua/Darkness objector claim. |
 | EC-ARTBOOKS-DE02 | Megumin; party; Greed | BLESSING S146–148 | Observed changed information/action; causal inference qualified | Megumin interrupts a competitive spell when new facts reveal mincing-rain risk. The resolution combines separate work; Aqua’s contribution and possible causal responsibility can coexist. | PRESERVE information-responsive regulation, distinguish mistake from unexecuted proposal. |
+
+
+## Stage C Memorial Fanbook overlay — DE
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-DE01 | Kazuma; fabricated cutoff | S098 upper RTL columns, voucher, date writing and infighting | H1 acted deception; high confidence | The reward is genuine, but its today-only label is invented. Other adventurers act under perceived scarcity and urgency. The exploit can serve his goal while harming others. | EXPAND the causal decision account; the false label is not a genuine institutional rule. |
+| EC-FAN-DE02 | Aqua; price and recognition | S110–111, offer, free competitor and demands | H1/H2; high speech confidence, moderate private-appraisal confidence | A useful commodity is not necessarily scarce. A status claim substitutes for commercial exclusivity after competition appears. | EXPAND error and adaptation; no completed economic outcome is supplied. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.

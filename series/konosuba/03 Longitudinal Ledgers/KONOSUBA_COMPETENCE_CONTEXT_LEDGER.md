@@ -869,3 +869,15 @@ Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f6
 |---|---|---|---|---|---|
 | EC-ARTBOOKS-CC01 | Yunyun; Megumin; Kazuma; Aqua; Darkness | CHEERS printed121/B3–122/B2 | Observed spell/count/resource states; HIGH | One contest: Yunyun cumulative9then16 and actual mana exhaustion; Megumin’s one Explosion follows gathered targets and supplied mana. No exclusive operator claim from provider, exact Megumin kill count absent. | EXPAND domain/resource/cooperation decomposition; nominal title ≠ independent global rank. |
 | EC-ARTBOOKS-CC02 | Aqua; Yunyun; Megumin; Darkness | BLESSING S145–147 | Observed rescue/weather/cast-stop/work roles; HIGH | Yunyun rescues swallowed Aqua and transiently shrinks the cloud; Megumin stops unsafe plan then provides crater, Aqua water, Yunyun cancellation and Darkness diversion. | EXPAND distinct situational successes without perfect consensual coordination or universal failure. |
+
+
+## Stage C Memorial Fanbook overlay — CC
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-CC01 | Yunyun, Darkness, Chris and Wiz | S099 upper prose, complementary invasion | H1 performed spell, front, trap and fire work; high confidence | Their distinct roles combine into an effective party. Chris’s low class does not erase demonstrated trap competence. | EXPAND domains and lineup effects; do not create an unconditional strength ranking. |
+| EC-FAN-CC02 | Aqua’s clothing; editorial capacity | S072 fashion reference, FM-H07 qualification | Reported capacity; H not applicable to a new performed behavior | Poison, status and wound protection differ from pain and cold. The local reference is not a newly performed injury trial. | QUALIFY the original selected H1 applicability; no main-only result changes. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.

@@ -1085,3 +1085,15 @@ Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f6
 |---|---|---|---|---|---|
 | EC-ARTBOOKS-CS01 | Megumin; Yunyun | CHEERS printed121/B2–122/B3 | Observed contest actions, private-cause questions/inferences separate; HIGH sequence/MODERATE cause | Recognition/competitive identity recruits strategic rules and allies; Yunyun combines adequate-force skill with company needs and explicit objection. No nine-kill Megumin first round or universal16kill ceiling. | EXPAND distinct rewards/capacity/current-state variables; no main-only revision. |
 | EC-ARTBOOKS-CS02 | Megumin; Aqua; Darkness | BLESSING S146–148 | Observed action and reported prior cleaning/inference separated | Megumin stops casting after salmon information changes ally risk. Darkness objects to involuntary public-stripping exposure; Aqua’s later cleaning report supports an indirect explanation, not direct observation of the initiating event. | COUNTERCARICATURE constraints queued for Stage D, not a revised R1 score. |
+
+
+## Stage C Memorial Fanbook overlay — CS
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-CS01 | Kazuma; reward and recognition | S097–099, adviser, reward and disciple sequence | H1 choice, proposals and reactions; high source confidence, moderate generalization | Private reward and deference draw practical competence into cruel advice. Concern for Medusa coexists with flight; a rescue is not demonstrated. | EXPAND mixed incentives; neither universal virtue nor total cruelty follows. |
+| EC-FAN-CS02 | Aqua; status and commercial adaptation | S110–111, complete water-business reprint | H1/H2 speech and attempts; high sequence confidence | A free, nonunique water supply undercuts her proposed price. Disputed goddess recognition becomes a tribute demand; payment and sale remain unshown. | EXPAND status, resources and reappraisal; do not infer fixed business incapacity. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.

@@ -750,3 +750,15 @@ Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f6
 |---|---|---|---|---|---|
 | EC-ARTBOOKS-OL01 | Aqua; Kazuma; Yunyun; party | CHEERS118/B1–121/B2 | Observed cards/tea/snacks plus spoken company expectation | Aqua wins a game and takes Chris’s offered snack; shop tea has social/commercial costs; Yunyun waits home for possible visitors. Mundane preference is contextual, not cognitive incapacity or universal passivity. | EXPAND ordinary incentives; no automatic global skill rank from game victory. |
 | EC-ARTBOOKS-OL02 | Aqua; Kazuma; Megumin; Komekko | BLESSING S009/S140–141 | Album-frame dialogue/reader-facing song, distinct planes | Camera economy prompts resale interest and Aqua’s refusal; drawing song makes food-like shapes into Megumin and ends in praise/offered hug. No performed sale/hug or dated sung performance. | EXPAND resource/affection representations with source-plane/date limitations. |
+
+
+## Stage C Memorial Fanbook overlay — OL
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-OL01 | Kazuma, Aqua, Megumin and Darkness | S096 opening game; S099 mansion return | H1/H2 routines; high local confidence | Card competition, rest, food and pack bargains, task interruption and apology repair frame the dungeon story. The card lich’s death belongs to game rules. | EXPAND mundane incentives, without inventing a frequency or preference census. |
+| EC-FAN-OL02 | Editorial household and material plane | S050/S072/S078; full reader’s S088 account | Reference and scripted voices; moderate transfer confidence | Food and clothing constraints coexist with magic. The Japan-memento defense belongs to a commissioned fashion exchange that ends in planner blame. | EXPAND with dependence flags. Root did not view S088; this is not a newly dated MAIN confession. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.

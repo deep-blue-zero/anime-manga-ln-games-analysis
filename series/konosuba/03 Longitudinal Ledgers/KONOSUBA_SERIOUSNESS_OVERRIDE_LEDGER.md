@@ -692,3 +692,15 @@ Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f6
 |---|---|---|---|---|---|
 | EC-ARTBOOKS-SO01 | Kazuma; Wiz; Megumin | CHEERS printed120/B1/122/B3 | Observed objection, dangerous proposal, distinct outcomes | Lethal-tool warning elicits Kazuma withdrawal/restraint and Wiz prohibition; Megumin’s interest remains adverse evidence. Actual cheek-poking and vague aftermath differ from unperformed detailed duel harm. | EXPAND conditional inhibition; no completed sale/use/death or universal safe comic harm assumption. |
 | EC-ARTBOOKS-SO02 | Megumin; Darkness; Yunyun; Aqua | BLESSING S145–148 | Observed danger/rescue/objection; HIGH | Actual swallowing/distress and rescue are consequential. Megumin halts dangerous cast after information, Darkness’s protest remains real despite duty leverage; robust body does not establish gear safety. | EXPAND danger/consequence/inhibition, avoid converting appearance or belonging into consent. |
+
+
+## Stage C Memorial Fanbook overlay — SO
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-SO01 | Kazuma; local toilet restraint | S098 lower prose, toilet and voice-trap proposals | H1 stated constraint and proposal; high source confidence | Sparing people at the toilet is a concrete local boundary within otherwise cruel planning. It does not establish a humanitarian conversion. | EXPAND bounded moral conflict. The creator’s no-murder rule cannot replace examination of performed events. |
+| EC-FAN-SO02 | Darkness; volunteered interview fantasy | S104, complete questioning and fantasy context | H2 represented fantasy; high source-plane confidence | Willingness to receive embarrassing questions is specific. It is not a performed assault or universal consent; Luna’s discomfort remains material. | PRESERVE context and agency boundaries within the comic plane. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.

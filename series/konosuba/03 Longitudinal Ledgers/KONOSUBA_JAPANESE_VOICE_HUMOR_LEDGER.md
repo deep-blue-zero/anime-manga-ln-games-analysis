@@ -1349,3 +1349,15 @@ Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f6
 |---|---|---|---|---|---|
 | EC-ARTBOOKS-JV01 | Megumin→Yunyun; Yunyun→Megumin; Kazuma | CHEERS printed122/B1/final; CH-HV09/13 | Exact written short forms with addressee/context; HIGH text | ぼっち is Megumin’s taunt; ソロパーティー is Yunyun’s preferred self-framing. Kazuma’s closing 我が名はカズマ shares elevated grammar after criticism. | EXPAND pragmatic functions, not catchphrase/acoustic imitation; L/culture/H axes separate. |
 | EC-ARTBOOKS-JV02 | Aqua→party; Yunyun→Megumin; Komekko→reader | BLESSING S009/S144/S140–141; selected22voice analyses | Exact source forms and recipient; HIGH selected text | コレは絶対売らない; Yunyun友達なんて欲しくない; drawing-song reader invitation belongs to Komekko. 荒魔鬼鮭 permits L0plot/L3food-name distinction, not acoustic inference. | EXPAND voice-by-context; preserve uncertain tiny glyphs, no full-series portability percentage. |
+
+
+## Stage C Memorial Fanbook overlay — JV
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-JV01 | Aqua; ordinary offer versus lexical pun | S102 and S110–111; FM-V15/FM-V20 | L2 current/L1 rival for help; L3 for the water pun | 一肌脱ぐ offers help without a locally exploited stripping ambiguity; the original L3 is qualified. 水商売 has an explicit, central double reading. | REVISE the current classification warrant, preserving original codes; no rule makes all idioms L3. |
+| EC-FAN-JV02 | Kazuma, Medusa and Luna; context functions | S097–099 and S105–107; FM-V09–13/18–19 | Selected L1/L2 written voice; high speaker confidence | Teacher address changes from deference to dependence. Kazuma’s rough instruction differs from self-promotion. Luna’s indefinite postponement functions as withdrawal. | EXPAND role-conditioned voice; no catchphrase, acoustic or independent baseline claim. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.

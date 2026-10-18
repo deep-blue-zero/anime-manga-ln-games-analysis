@@ -868,3 +868,15 @@ Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f6
 |---|---|---|---|---|---|
 | EC-ARTBOOKS-RS01 | Megumin↔Yunyun; party | CHEERS printed121–122 | Observed speech/cooperation; HIGH | Solo-label objection, unfair-teamwork protest and later concession coexist. Party providers become challengers after Megumin’s title claim. | EXPAND dependence/competition/recognition; concession does not establish shared fairness. |
 | EC-ARTBOOKS-RS02 | Kazuma→Darkness; Darkness→Greed | BLESSING S142/S147–148 | Observed coercive action, objection and demand; HIGH act/MODERATE cause | Kazuma uses duty/sexualized exposure to make Darkness tank despite objection. Darkness later asserts apology and ordinary compensation; earlier belonging pleasure is not retrospective consent. | EXPAND coercion/belonging/status by occasion; no universal welcome/inability rule. |
+
+
+## Stage C Memorial Fanbook overlay — RS
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-RS01 | Kazuma, Medusa and Vanir | S097–099, teacher address, advice and escape | H1/H2 dialogue and roles; high confidence | Deference grows through prestige and practical advice, while each participant seeks a different reward. Teacher attachment does not ensure Kazuma rescues Medusa. | EXPAND the contingent coalition, without inventing a universal friendship contract. |
+| EC-FAN-RS02 | Kazuma, Luna and the party | S100–107, complete comic | H1/H2 within an explicit metafictional plane | Useful intervention follows a private date appraisal. His claim to sole coverage meets a whole-party objection and Luna withdraws. | EXPAND audience-conditioned scripts; no reciprocated date or ordinary MAIN knowledge of films follows. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.

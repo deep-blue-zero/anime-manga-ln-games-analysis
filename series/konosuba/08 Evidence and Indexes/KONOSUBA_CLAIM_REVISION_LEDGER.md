@@ -168,3 +168,17 @@ The receiving/provenance artifact preserves exact original/current product pins 
 | CR-EC-ARTBOOKS-005 | Blessing original normalized form/gesture and potential stripping/afterword scope | Actual コレは絶対売らない; 手をわきわきさせる is wiggling not blow; Yunyun友達なんて欲しくない; S054 publication/imagined art distinct; Darkness completed stripping not explicit at S147 | BLESSING009/039/054/144/147. Attributable own-note precision; original seals retained, tiny uncertain glyph not used for L3 |
 
 These corrections supersede private initial candidates through ordinary attributable adoption; they do not rewrite accepted main-only readings, frozen generations or any original validation result. Exact original/current pins and receiving scopes are in the two public provenance receipts. Remaining story dates, reprint relationships, causal uniqueness and small-text limits remain OPEN.
+
+
+## Stage C FAN-MEM attributable revisions — 2026-10-18T00:05:03.198219+00:00
+
+All [source routes/currentprecision](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) remain expanded-only. Originalreport/24H/23V/rootnotes/seals are preserved by [provenance](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_AND_PROVENANCE.json); no R1/frozenforecast/holdout score revised.
+
+| Revision | Oldscope/claim | Currentclaim andprimaryanchor | Contraryevidence/uncertainty/impact |
+|---|---|---|---|
+| CR-EC-FAN-001 | Expiringticket/trueinstitutionaldeadline shorthand | S098 genuinevoucher, but Kfabricatessame-daylabel/date; deceptioninducesperceiveddeadline | Observedinfighting survives; actualexpiry/service/deathsnotcertified. H1/L0scopeactualdeception, no newtest |
+| CR-EC-FAN-002 | Dust/Leentest “proposedandobserved” ambiguous | S098 actualpartyarrival; VanironlyproposesLeen-facingticketexperiment | NoperformedDustchoice/Leenreaction/affectionincrease inferred; no R1rescore |
+| CR-EC-FAN-003 | FM-H07originalH1 onclothingcapacity | S072 editorialreportedprotection/pain/coldlimits; currentHN/Anewperformedbehavior | Noreference→directbehaviorconversion, H3notuncertainty/H4notmagic; original code unchanged |
+| CR-EC-FAN-004 | FM-V15originalL3 becauseidiomistranslatedliterally | S102 ordinaryhelpidiom, noexploitedstripambiguity; currentL2moderate/L1rival | OriginalL3preservedwithpostreceivingjudgment; FM-V05selfproverb-specificL3defensible/culturalpragmaticalternatives |
+| CR-EC-FAN-005 | RootinitialS102actor reversal andlast-panel-onlyblastreluctance | S102 Kazuma kicks Aqua; S106–107 Mstaff/aura→Explosion/blast supportsMcasting | Sreaderoriginalwasright; rootsource-correctionnotnewindependentagreement. Comicblastshown/prosetoweroutcomenotshown; no casualties/durabledamage |
+| CR-EC-FAN-006 | ConfidentAcategoryerror/newAselfproverbturn shorthand | S060 Aquahedgedrankrecollection; S072 reportedAquaselfquoteineditorialcaption | Retainactualhedge/source plane. Nouniversalignorance/completeoriginalvoicewindow ornewly dated MAIN event |

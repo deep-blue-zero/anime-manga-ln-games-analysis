@@ -441,3 +441,10 @@ The [Cheers component register](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEE
 | ART-BLESSING-MOVIE-BONUS-COVER-01 | S097 | Cover only inspected; unseen admission-bonus novel prose not analyzed/admitted by the image |
 
 Selected Japanese forms retain named speaker/addressee/context in each report/register. Blessing’s original68author labels require the companion28H3qualifications; no silent recoding or added validation trial. For current ledger claims EC-ARTBOOKS-CS/RS/DE/CC/HM/JV/SO/KN/OL/MP01–02, follow the named report region in each row and then its native image/hash. Original main-only locator authority remains retrievable unchanged.
+
+
+## Stage C FAN-MEM supplied-component routes — 2026-10-18T00:05:03.198219+00:00
+
+The [complete register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) binds all 121 native page assets/21coherent groups to wrapper/image hashes; it does not turn121pages into121events. Native SHA256`e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic2020-04-01ver.001. Stablefiction IDs: FAN-MEM-FIC-01 bodyS096–099/item/xhtml/p-094.xhtml–p-097.xhtml; FAN-MEM-COMIC-01 S100–107/p-098.xhtml–p-105.xhtml; FAN-MEM-REPRINT-01 S110–111/p-108.xhtml–p-109.xhtml. Exactprintedpage/spine/nativeimage joins inregister are reproducible without inventedPparagraphs. RTLprose tiers andcomicpanelorder remainmaterial.
+
+CreatorinterviewS090–094/p-088.xhtml–p-092.xhtml isreal-worldtestimony; referenceprofiles/quotedart/scriptedcolumns/hypotheticalbath/promoguide are separatelytagged. BibliographyS108–109/S112–113 is title/covermetadata, notbody reading. S114/S120actualcolophons; sourcecroppedjacketedges notinvented. Rootactual42 uniquepages, full reader121, all threefictionbodiesfullyreadbyboth; nosecondwhole editionpass. [Receivingprecision](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_PRECISION_OVERLAY.md) qualifies fabricatedexpiry, unexecutedDusttest andH/Lwarrants. Originalfrozenmain evidence and fourholdout score routes remainunchanged.

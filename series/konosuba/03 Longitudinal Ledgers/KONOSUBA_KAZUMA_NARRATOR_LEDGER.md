@@ -788,3 +788,15 @@ Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f6
 |---|---|---|---|---|---|
 | EC-ARTBOOKS-KN01 | Kazuma; Megumin; Yunyun; Darkness | CHEERS121last columns→122first;122/B3 | Direct rival question plus hedged narrator explanation; HIGH form/MODERATE cause | Yunyun asks about forgotten intermediate magic; Kazuma separately hedges it as cause of Megumin’s sweating. His Darkness-investigation motive remains a question; final unnamed aftermath supplies no fixed identities. | PRESERVE both source planes; reverse reviewer overrepair that excluded narrator hedge, no private-cause proof. |
 | EC-ARTBOOKS-KN02 | Kazuma; Aqua; Megumin; Greed | BLESSING S142/S148 | Narrator stereotypes/observed demands/reported cleaning separated | Kazuma’s anti-noble frame coexists with Darkness’s duty claim and later successful compensation demand. Aqua reports cleaning and Megumin infers salmon link; reader explanation is not an initial eyewitness event. | EXPAND access and indirect-causation rules, no omniscient proof or performed refund. |
+
+
+## Stage C Memorial Fanbook overlay — KN
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-KN01 | Kazuma; self-implicating adviser | S098–099, ticket explanation, flight and home account | H1 self-appraisal and reported events; bounded inference | He recognizes his own susceptibility and gives a partial account at home. Useful reasoning coexists with fear and self-protection; Medusa’s hidden fate remains unknown. | EXPAND reliability by claim, rather than classifying the whole narrator as truthful or false. |
+| EC-FAN-KN02 | Kazuma; interested business critic | S110–111, commission offer, dashi and protection-racket comparison | H1 speech with L1/L2/L3 narrator stance | He first offers marketing for a share, then supplies a hostile metaphor and ironic distance. Irony does not disprove Aqua’s divinity or establish physical water properties. | EXPAND framing incentives; do not infer biological contents or sex work. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.

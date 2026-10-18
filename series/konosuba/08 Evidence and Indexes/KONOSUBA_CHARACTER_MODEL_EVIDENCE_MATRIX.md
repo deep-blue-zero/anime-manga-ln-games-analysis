@@ -943,3 +943,17 @@ The immutable main-only structured matrix and frozen model evidence remain uncha
 | Party / Yunyun | Resources and tactical work distributed; Yunyun actual skill and solo-label objection coexist; alternate settings must recalibrate consequences | CHEERS121–122; BLESSING145–147 | Secondary promotion remains evidence-thresholded; no full model from artbook alone |
 
 All major accepted additions have named actors/recipients, exact source regions, observation/inference classes and contradictory evidence in the reports. No new four-book validation success/failure or retrospective main-only outcome is generated. Blessing H3 qualification controls use of original selected records.
+
+
+## Stage C FAN-MEM model-constraint extension — 2026-10-18T00:05:03.198219+00:00
+
+These are newexpanded constraints, not revisedscores or frozen R1replacement. [Fullreading](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md) and [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) provide exactnativejoins and current qualification.
+
+| Constraint | Modelsubject/variable | Located evidence and contrarylimit | Currenttransition |
+|---|---|---|---|
+| EC-FAN-MC01 | Kazuma incentive/competence/morallimit | S097–099 actualrewardacceptance/advice/teacherrole/escape; localtoiletrestraint/concern, no certifiedrescue | EXPAND mixedmechanisms; deferStage D, no universalvirtue/crueltyrule |
+| EC-FAN-MC02 | Party domaincomplementarity | S099 Chris/Yunyun/Wiz/Darknesstasks; originalquartetconstraints remain | EXPAND roleconditionalcompetence, not contextfreerank |
+| EC-FAN-MC03 | Aqua status/reappraisal/economics | S110–111 price/freewatercompetitor/tributeattempt; utilitynotmonopoly, nosale/payment | EXPAND recognition/resourceinteraction, not totalincapacity |
+| EC-FAN-MC04 | Kazuma/Luna/party audiencescripts | S100–107 usefulhelpwithdateincentive/partyobjection/Lunaexit; explicitfans/film/pollplane | EXPAND source-specificinteraction, noordinaryMAINexternalmediaknowledge |
+| EC-FAN-MC05 | Voice and evidence-class scope | FM-H07referencecapacityHN/A; FM-V15L2/L1afteroriginalL3; FM-V05reportedselfproverb/L3defensible; 水商売L3explicit | QUALIFYwarrants, preserveoriginals, no pooledstatistics ornew modelscore |
+| EC-FAN-MC06 | Productionintent/referencecorroboration | S090–094 creatorconstraints; allreferenceplanes markeddependent/hypothetical/report asappropriate | CONTEXTUALsupport only, cannot erase performedcounterevidence or immutablefailure |

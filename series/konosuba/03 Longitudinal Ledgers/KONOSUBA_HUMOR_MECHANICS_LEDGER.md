@@ -1391,3 +1391,15 @@ Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f6
 |---|---|---|---|---|---|
 | EC-ARTBOOKS-HM01 | Megumin; Kazuma; rival/party | CHEERS §8 CH-HV01–13 | 13purposive source-first selections; qualitative only | Visible success criteria drift among reports, refusal, absent opponents, frog production and broad title; the critic joins elevated self-naming. Thirteen selected cases are not13independent trials/J02census. | EXPAND incentive/loophole/callback mechanism, retain counterevidence and dependent stages. |
 | EC-ARTBOOKS-HM02 | Blessing selected comic subjects | BLESSING68initial records +28H3qualifications | Historical labels with current row-level warrant limitation | Original author H3 rationales conflate source-plane/extrapolation caution with gag-contingent behavior. Originals preserved; all28such warrants qualified, no replacement codes/frequency invented. | REVISE eligibility of stated warrants; source-plane cautions remain separately valid. H4 not automatic from static/imagined art. |
+
+
+## Stage C Memorial Fanbook overlay — HM
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-HM01 | Dungeon coalition and administrative mirror | S096–099, complete new prose | H1/H2; high structural confidence | Domestic avoidance leads to rewarded advice, a dependent owner, resource and amenity problems, then an outside-party crisis. Managing a dungeon mirrors unwanted household labor. | EXPAND incentive and genre irony; proposed devices are not all performed. |
+| EC-FAN-HM02 | Comic framing and the reprint’s lexical effect | S100–107 and S110–111; FM-H18–24 | Mixed H1/H2/H4; 24 purposive records, moderate generalization | Fame performance escalates into a failed interview. Literal water trade enables an explicit 水商売 double meaning. | EXPAND selected mechanisms only; no census, J02 or portability percentage. H3 is not source uncertainty. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.

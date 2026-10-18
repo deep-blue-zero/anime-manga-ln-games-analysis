@@ -190,3 +190,13 @@ The later exact source `0ce33a0f` full gate closed `2026-10-17T23:12:06.135006+0
 ## Attributable Stage C artbook component acceptance — 2026-10-17T23:27:29.977226+00:00
 
 ART-CHEERS all137 and ART-BLESSING all157 actual native pages now have accepted supplied-component analyses/registers under `10 Expanded Corpus/Artbooks/`. Author prose, illustrated frame/song/banter, reproduced/adapted art, creator/reference/promotion and paratext receive separate authority dispositions. Current JSON overlays add exact routes to the two source-object and two narrative-register rows; original metadata observations/all41identity seal remain unchanged. Cheers V5 corrects initial source errors and preserves contrary page-edge evidence; Blessing initial H3 labels remain historical with all28rationale qualifications. Containing publication gate pending. Other three mixed volumes and the full19prose/17main-excluded-component program remain separately accountable; no global component percentage is inferred.
+
+
+## Stage C two-artbook publication reconciliation — 2026-10-18T00:01:50.341293+00:00
+
+ART-CHEERS andART-BLESSING supplied-component programs are accepted/published/full-gate closed at`1ef78c578734f01c3806eaa65bc346f6da5e10ab` (2026-10-17T23:44:50.688567+00:00). Source39079377125/NO_OP housekeeping39079583747/final39079611210 and exact successful status bind that source; both audits passed352tests. See [exact closure](../09%20Audits%20and%20Manifests/KONOSUBA_TWO_ARTBOOKS_EXPANDED_PUBLICATION_GATE_CLOSE.json). The JSON receives only later-attributed StageC publication fields on those two object/register rows. Original metadata no-inspection/not-admitted observations remain historical;41identity seal unchanged. This completes2of5mixed supplied programs and1of19prosewhole-editions (Dust01); it is not a global narrative percentage. FAN/CORE/Dust02 candidates remain separately active, not complete.
+
+
+## Later Stage C FAN-MEM supplied-component acceptance — 2026-10-18T00:05:03.198219+00:00
+
+All121actualpages/21groups/threefictionbodies areanalyticallyaccepted with [complete unequal-authorityregister](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [boundedreceiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md). The source41identityseal/originalmetadataobservationsremainunchanged; twoFANobject/registerStage Coverlayssupplylateractualcoverage. Publicationgatepending. Threeof5mixedobjectsareanalyticallyaccepted,two published; one of 19supplementalwhole editionsaccepted,all 17mainextrasprogramsremain. Globalcomponentdenominatorunresolved, percentage null; nofourholdoutwhole editioncompletionornew R1score.
