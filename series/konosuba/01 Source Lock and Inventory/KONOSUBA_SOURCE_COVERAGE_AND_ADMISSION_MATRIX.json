@@ -10471,7 +10471,7 @@
       ],
       "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "stage_C_component_analysis": {
-        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
         "accepted_utc": "2026-10-18T00:05:03.198219+00:00",
         "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
         "actual_native_pages": 121,
@@ -10486,7 +10486,19 @@
         "receiving": "10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_AND_PROVENANCE.json",
         "historical_metadata_state_preserved": "Originalmatrix observations describe metadatareconciliation, not thislateractualcomponentreading.",
         "authority": "Expandedfiction/metafiction/reference/creator/scripted/hypothetical/reproductionplanesunequal; no R1/Gen01–05/fourholdoutrescore.",
-        "unresolved": "Newproseexactchronology/separatebyline, reprintoriginaldate, Medusafate/toweroutcome, unnamedguestfigureidentities/nativecroppededges asrecorded."
+        "unresolved": "Newproseexactchronology/separatebyline, reprintoriginaldate, Medusafate/toweroutcome, unnamedguestfigureidentities/nativecroppededges asrecorded.",
+        "publication": {
+          "source_commit": "31921a9c7c85976b70ae7ba8d26e6ccba8073a9a",
+          "source_tree": "1ded98851bd88fc980dbed474f4527a6b204defd",
+          "closed_at_utc": "2026-10-18T00:21:23.633951+00:00",
+          "source_audit_run": 39081695574,
+          "housekeeping_run": 39082040699,
+          "housekeeping_result": "NO_OP",
+          "final_audit_run": 39082063885,
+          "actual_source_status": "Repository integration audit: success",
+          "gate_receipt": "09 Audits and Manifests/KONOSUBA_MEMORIAL_FANBOOK_PUBLICATION_GATE_CLOSE.json",
+          "protected_main_integration_asserted": false
+        }
       }
     },
     {
@@ -11615,7 +11627,7 @@
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
       "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "stage_C_component_analysis": {
-        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
         "accepted_utc": "2026-10-18T00:05:03.198219+00:00",
         "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
         "actual_native_pages": 121,
@@ -11630,7 +11642,19 @@
         "receiving": "10 Expanded Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_AND_PROVENANCE.json",
         "historical_metadata_state_preserved": "Originalmatrix observations describe metadatareconciliation, not thislateractualcomponentreading.",
         "authority": "Expandedfiction/metafiction/reference/creator/scripted/hypothetical/reproductionplanesunequal; no R1/Gen01–05/fourholdoutrescore.",
-        "unresolved": "Newproseexactchronology/separatebyline, reprintoriginaldate, Medusafate/toweroutcome, unnamedguestfigureidentities/nativecroppededges asrecorded."
+        "unresolved": "Newproseexactchronology/separatebyline, reprintoriginaldate, Medusafate/toweroutcome, unnamedguestfigureidentities/nativecroppededges asrecorded.",
+        "publication": {
+          "source_commit": "31921a9c7c85976b70ae7ba8d26e6ccba8073a9a",
+          "source_tree": "1ded98851bd88fc980dbed474f4527a6b204defd",
+          "closed_at_utc": "2026-10-18T00:21:23.633951+00:00",
+          "source_audit_run": 39081695574,
+          "housekeeping_run": 39082040699,
+          "housekeeping_result": "NO_OP",
+          "final_audit_run": 39082063885,
+          "actual_source_status": "Repository integration audit: success",
+          "gate_receipt": "09 Audits and Manifests/KONOSUBA_MEMORIAL_FANBOOK_PUBLICATION_GATE_CLOSE.json",
+          "protected_main_integration_asserted": false
+        }
       }
     },
     {

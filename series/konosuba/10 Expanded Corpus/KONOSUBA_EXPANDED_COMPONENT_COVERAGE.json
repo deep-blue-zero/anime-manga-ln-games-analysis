@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-18T00:05:03.198219+00:00",
+  "updated_utc": "2026-10-18T00:24:33.030461+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -337,13 +337,25 @@
       "source_id": "FAN-MEM",
       "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLICATION_PENDING",
-      "remaining": "Containingexact-headpublicationgate; no globalcorpuscompletion",
+      "stage_C_status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
+      "remaining": "No remaining gate for this supplied component batch; protected-main integration is separate.",
       "component_admission_sha256": "b7f3903787a5d40a61d2ecf1e0c3f5531a7ce8f412ccda1a20e5a28b4ffefc48",
       "evidence": "Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json",
       "receiving": "Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_AND_PROVENANCE.json",
       "actual_pages": 121,
-      "complete_fiction_bodies": 3
+      "complete_fiction_bodies": 3,
+      "publication": {
+        "source_commit": "31921a9c7c85976b70ae7ba8d26e6ccba8073a9a",
+        "source_tree": "1ded98851bd88fc980dbed474f4527a6b204defd",
+        "closed_at_utc": "2026-10-18T00:21:23.633951+00:00",
+        "source_audit_run": 39081695574,
+        "housekeeping_run": 39082040699,
+        "housekeeping_result": "NO_OP",
+        "final_audit_run": 39082063885,
+        "actual_source_status": "Repository integration audit: success",
+        "gate_receipt": "09 Audits and Manifests/KONOSUBA_MEMORIAL_FANBOOK_PUBLICATION_GATE_CLOSE.json",
+        "protected_main_integration_asserted": false
+      }
     },
     {
       "source_id": "TRPG-CORE",
