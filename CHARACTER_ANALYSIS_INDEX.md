@@ -4106,6 +4106,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`mai-misuzu-comparison` — Mai × Misuzu Hataya — Gakuen Idolmaster](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
 
+### Maika Utsunomiya
+
+- Entity ID: `shuukura:maika-utsunomiya`
+- Entity aliases:
+  - 宇都宮舞香 (ja, ORIGINAL_SCRIPT)
+  - Utsunomiya Maika (ja-latn, TRANSLITERATION) — Japanese name order.
+
+#### Subject: Original Japanese light-novel continuity and author supplements
+
+- Analysis subject ID: `shuukura:maika-utsunomiya@original-light-novel`
+- Series: `shuukura`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kss11`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-11, 宇都宮舞香と面白ガール: one year-end phone call with Miyagi Shiori and Maika’s preceding holiday wishes and channel deliberation. Exact day and year are unestablished. Coverage is limited to this story; novel and earlier-supplement comparisons provide context, not continuous coverage. The conflicting parental-home accounts remain unresolved.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`kss11-call` — KSS-11: holiday autonomy, chosen concern and reciprocal teasing](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_11_DEEP_READING.md) — **active provisional authority**
+
 ### Makino Kouhei
 
 - Entity ID: `idoly-pride:makino-kouhei`
