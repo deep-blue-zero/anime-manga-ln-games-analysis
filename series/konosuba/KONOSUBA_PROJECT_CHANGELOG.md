@@ -1143,3 +1143,43 @@ Preceding current-operation paragraph retained verbatim:
 
 
 Principal3187P/other45P/total3232P; full ruby/residual/image scopes before uncoded seal 2026-10-18T13:26:33.940923+00:00;76selected premises/108native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental9accepted/8already publishedof19; mixed5published; global percentage null. Baseline`eb4ddb3c1c176a749df2d74fe9cbfe3d821dcf52`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Explosions01 full gate and fresh authority reload — 2026-10-18T14:17:49.522166+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Explosions01 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all54text/51imagescopes. Principal3187P/other45P, 76selected premises/108native voice fragments/7 unchanged-contract local assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Explosions02 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Explosions01 supplied-edition analysis is accepted at all54text/51imagescopes. The next operation is separate Explosions02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_EXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental9of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Explosions02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`ca8fa360d1b8e75a06b1f36e30c6189514e96090`/tree`141e8ab215ba5581e59d9c41e1cfd1461e3e3523`;8480remote paths/35changedstreams exact. Source39134506247/job117696171650 and final39134874474/job117697240045 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39134841789/job117697140236NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh445project/66current/fourscores/14blankreload 2026-10-18T14:17:46.999724+00:00. All72historicalpins exact, current main`308f4db1c492f23699c6021afe756074cce99117`reconciled without protected-main integration claim. Explosions02whole unopened at this boundary; fullprogramcontinues.
+
+
+## Explosions02 admission transition — 2026-10-18T14:18:41.230609+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Explosions01 supplied-edition analysis is accepted at all54text/51imagescopes. The next operation is separate Explosions02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_EXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental9of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Explosions02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current Explosions02 separate admission — 2026-10-18T14:18:19.361476+00:00:** Exact local`Konosuba - Spin-off - Explosions - Volume 02.epub`,13672536bytes/SHA256`ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff`,freshCRC/JapaneseOPF/58text/50image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Explosions02 analytical acceptance transition — 2026-10-18T15:42:43.100280+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Explosions02 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Spin-off - Explosions - Volume 02.epub` has 58textual units and 50native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Explosions02 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all58text/50imagescopes. Principal3140P/other49P, 80selected premises/93native voice fragments/7 unchanged-contract local assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Explosions03 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Principal3140P/other49P/total3189P; full ruby/residual/image scopes before uncoded seal 2026-10-18T15:16:14.227298+00:00;80selected premises/93native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental10accepted/9already publishedof19; mixed5published; global percentage null. Baseline`a71e462accc17a9eada8b13b82023634e7d451c4`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions03 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.

@@ -724,3 +724,71 @@ Native19168549bytes/SHA256`ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab3
 | EXP-01-U054 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION |
 
 Principal3187P/other45P/total3232P; full ruby/residual/image scopes before uncoded seal 2026-10-18T13:26:33.940923+00:00;76selected premises/108native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental9accepted/8already publishedof19; mixed5published; global percentage null. All54textual units/51native images actually inspected;3187principal P plus45other P do not count the18image-only prose pages. Five separately identified Komekko interludes, embedded fictional books, image-only spoken bridges/monologues, an Arue-attributed tourist article, explicitly hypothetical front art, a denied-allegation comic and separate lower end-coda have individual roles. Upper credits/creator comments and lower fiction inIMG025 have unequal authority. No paragraph-only completeness claim or unverified comic event.
+
+
+## EXP-02 accepted whole-edition routes — 2026-10-18T15:42:20.857727+00:00
+
+Native13672536bytes/SHA256`ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff`. [Component register](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_DEEP_READING.md), [80selectedpremises](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_HUMOR_REGISTER.md), [93voicecontexts](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_VOICE_REGISTER.md), [7 local assessments](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| EXP-02-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART |
+| EXP-02-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | COLOR_REPEATED_COVER_TITLE_ART |
+| EXP-02-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | COLOR_NAMED_CHARACTER_WORK_PANELS |
+| EXP-02-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | COLOR_NAMED_CHARACTER_SECT_PANELS |
+| EXP-02-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | COLOR_CONFRONTATION_DIALOGUE |
+| EXP-02-U006 | item/xhtml/p-titlepage.xhtml / 6 | TITLE_AND_CREATOR_CREDITS |
+| EXP-02-U007 | item/xhtml/p-caution.xhtml / 6 | USE_AND_LAYOUT_NOTICES |
+| EXP-02-U008 | item/xhtml/p-001.xhtml / 0 | ARUE_ATTRIBUTED_FICTIONAL_VILLAGE_ARTICLE |
+| EXP-02-U009 | item/xhtml/p-002.xhtml / 0 | FICTIONAL_VILLAGE_MAP |
+| EXP-02-U010 | item/xhtml/p-toc-001.xhtml / 0 | COLOR_IMAGE_CONTENTS |
+| EXP-02-U011 | item/xhtml/p-toc-002.xhtml / 10 | TEXT_CONTENTS |
+| EXP-02-U012 | item/xhtml/p-003.xhtml / 0 | PROLOGUE_BANNER |
+| EXP-02-U013 | item/xhtml/p-004.xhtml / 23 | PRINCIPAL_PROLOGUE_EMBEDDED_FABLE_FIRST_PART |
+| EXP-02-U014 | item/xhtml/p-005.xhtml / 0 | CHAPTER_ONE_BANNER |
+| EXP-02-U015 | item/xhtml/p-006.xhtml / 487 | PRINCIPAL_CHAPTER_ONE_PART_ONE |
+| EXP-02-U016 | item/xhtml/p-007.xhtml / 0 | PRINCIPAL_CHAPTER_ONE_ILLUSTRATION_BRIDGE |
+| EXP-02-U017 | item/xhtml/p-008.xhtml / 158 | PRINCIPAL_CHAPTER_ONE_PART_TWO |
+| EXP-02-U018 | item/xhtml/p-009.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_I_IMAGE_PROSE_PAGE_1 |
+| EXP-02-U019 | item/xhtml/p-010.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_I_IMAGE_PROSE_PAGE_2 |
+| EXP-02-U020 | item/xhtml/p-011.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_I_IMAGE_PROSE_PAGE_3 |
+| EXP-02-U021 | item/xhtml/p-012.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_I_IMAGE_PROSE_PAGE_4 |
+| EXP-02-U022 | item/xhtml/p-013.xhtml / 0 | CHAPTER_TWO_BANNER |
+| EXP-02-U023 | item/xhtml/p-014.xhtml / 702 | PRINCIPAL_CHAPTER_TWO |
+| EXP-02-U024 | item/xhtml/p-015.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_II_IMAGE_PROSE_PAGE_1 |
+| EXP-02-U025 | item/xhtml/p-016.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_II_IMAGE_PROSE_PAGE_2 |
+| EXP-02-U026 | item/xhtml/p-017.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_II_IMAGE_PROSE_PAGE_3 |
+| EXP-02-U027 | item/xhtml/p-018.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_II_IMAGE_PROSE_PAGE_4 |
+| EXP-02-U028 | item/xhtml/p-019.xhtml / 0 | CHAPTER_THREE_BANNER |
+| EXP-02-U029 | item/xhtml/p-020.xhtml / 373 | PRINCIPAL_CHAPTER_THREE_PART_ONE |
+| EXP-02-U030 | item/xhtml/p-021.xhtml / 0 | COMIC_SAME_PRESENT_REUNION_PAGE_ONE |
+| EXP-02-U031 | item/xhtml/p-022.xhtml / 0 | COMIC_SAME_PRESENT_REUNION_PAGE_TWO |
+| EXP-02-U032 | item/xhtml/p-023.xhtml / 130 | PRINCIPAL_CHAPTER_THREE_PART_TWO |
+| EXP-02-U033 | item/xhtml/p-024.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_III_IMAGE_PROSE_PAGE_1 |
+| EXP-02-U034 | item/xhtml/p-025.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_III_IMAGE_PROSE_PAGE_2 |
+| EXP-02-U035 | item/xhtml/p-026.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_III_IMAGE_PROSE_PAGE_3 |
+| EXP-02-U036 | item/xhtml/p-027.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_III_IMAGE_PROSE_PAGE_4 |
+| EXP-02-U037 | item/xhtml/p-028.xhtml / 0 | CHAPTER_FOUR_BANNER |
+| EXP-02-U038 | item/xhtml/p-029.xhtml / 534 | PRINCIPAL_CHAPTER_FOUR |
+| EXP-02-U039 | item/xhtml/p-030.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_IV_IMAGE_PROSE_PAGE_1 |
+| EXP-02-U040 | item/xhtml/p-031.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_IV_IMAGE_PROSE_PAGE_2 |
+| EXP-02-U041 | item/xhtml/p-032.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_IV_IMAGE_PROSE_PAGE_3 |
+| EXP-02-U042 | item/xhtml/p-033.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_IV_IMAGE_PROSE_PAGE_4 |
+| EXP-02-U043 | item/xhtml/p-034.xhtml / 0 | CHAPTER_FIVE_BANNER |
+| EXP-02-U044 | item/xhtml/p-035.xhtml / 671 | PRINCIPAL_CHAPTER_FIVE |
+| EXP-02-U045 | item/xhtml/p-036.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_1 |
+| EXP-02-U046 | item/xhtml/p-037.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_2 |
+| EXP-02-U047 | item/xhtml/p-038.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_3 |
+| EXP-02-U048 | item/xhtml/p-039.xhtml / 0 | INTEGRAL_CECILY_INTERLUDE_FINAL_IMAGE_PROSE_PAGE_4 |
+| EXP-02-U049 | item/xhtml/p-040.xhtml / 0 | EPILOGUE_BANNER |
+| EXP-02-U050 | item/xhtml/p-041.xhtml / 62 | PRINCIPAL_EPILOGUE_EMBEDDED_FABLE_COMPLETE |
+| EXP-02-U051 | item/xhtml/p-042.xhtml / 0 | DECORATIVE_CLOSURE |
+| EXP-02-U052 | item/xhtml/p-043.xhtml / 0 | STAFF_CREATOR_COMMENTS_NO_LOWER_FICTIONAL_CODA |
+| EXP-02-U053 | item/xhtml/p-044.xhtml / 0 | CAST_SPECIAL_THANKS_YUNYUN_PORTRAIT_CLOSURE |
+| EXP-02-U054 | item/xhtml/p-045.xhtml / 4 | WEB_TO_PRINT_PROVENANCE_NOTICE |
+| EXP-02-U055 | item/xhtml/p-046.xhtml / 5 | ILLUSTRATION_AND_DESIGN_CREDITS |
+| EXP-02-U056 | item/xhtml/p-colophon.xhtml / 18 | ELECTRONIC_COLOPHON |
+| EXP-02-U057 | item/xhtml/p-bookwalker.xhtml / 0 | RETAILER_BRANDING |
+| EXP-02-U058 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION |
+
+Principal3140P/other49P/total3189P; full ruby/residual/image scopes before uncoded seal 2026-10-18T15:16:14.227298+00:00;80selected premises/93native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental10accepted/9already publishedof19; mixed5published; global percentage null. All58text units/50native images actually inspected.3140principal P plus49other P do not count20integral image-only narrative pages. Five four-page Cecily interludes, one prologue/epilogue embedded fable, a same-event reunion comic, Arue-attributed tourist article, map, front composite dialogue, creator comments and Yunyun portrait have explicit unequal scopes. No separate electronic bonus narrative or lower end-coda is supplied in this edition.
