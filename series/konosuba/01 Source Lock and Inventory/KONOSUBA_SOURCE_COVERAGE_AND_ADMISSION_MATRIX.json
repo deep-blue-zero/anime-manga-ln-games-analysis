@@ -5351,7 +5351,7 @@
       ],
       "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "actual_admission_utc": "2026-10-18T05:23:57.419984+00:00",
         "native_bytes": 18686443,
         "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
@@ -5369,7 +5369,7 @@
         "preceding_published_reload_sha256": "de7bf6f67938cdf3b537fc1bbd8c1f4bd106c6aef88ac51d63cc5e3e8583a1d4",
         "pre_body_context_seal_sha256": "3c6824fb13fe65c959d4f75f765714ebc9d5a566ee782a983f66f59a0fb13421",
         "actual_reading_at_admission": "0storyparagraphs/0images; structural extraction not literary completion. Whole-edition source-first reading begins only after pre-body context seal.",
-        "remaining": "Exact containing publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before Dust04 separate admission. Other-source completeness unasserted.",
+        "remaining": "Supplied-edition literary/component analysis and exact publication gate closed; later expanded synthesis/StageD/finalrelease remain.",
         "historical_metadata_fields": "Earlier metadata-only statuses retained unchanged; this later admission overlay supplies current scope.",
         "initial_separate_admission_snapshot": {
           "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
@@ -5409,7 +5409,13 @@
         "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json",
         "current_qualifications": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json",
         "current_edition_reconciliation": "Actual Japanese electronic special colophon2018-07-01/ver003; all native components separately dispositioned; original package/bibliographic snapshot above remains historical.",
-        "model_scope": "N01 direct contrary; N02/N03 full triggers not tested; N03 exact wording resolved; N04mixed; N05partial; N06/N07bounded. Frozen authority/fourscores/original14blanks unchanged, no pristine blindness."
+        "model_scope": "N01 direct contrary; N02/N03 full triggers not tested; N03 exact wording resolved; N04mixed; N05partial; N06/N07bounded. Frozen authority/fourscores/original14blanks unchanged, no pristine blindness.",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+          "closed_utc": "2026-10-18T06:35:26.264364+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_DUST03_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -5678,7 +5684,62 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "prior_pre_admission_snapshot": {},
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-18T06:35:44.765568+00:00",
+        "admission_sha256": "7d9d1763f5ea317c4bf54645b8dff2202289c558260578e4aa5a22be0e36b735",
+        "native_bytes": 11564184,
+        "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+        "preceding_full_gate_source": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+        "preceding_fresh_reload_sha256": "b61468b1aa2c30e070476bec83011f25761dae963759bc1f0a8b76f2081cce94",
+        "native_text_components": 21,
+        "native_images": 24,
+        "pre_body_context_seal_sha256": "00b49a39ebc8065883cf36bc1e83e3a0d6337db858332b69d83285d072e87b92",
+        "actual_new_story_P_read_at_admission": 0,
+        "actual_new_images_viewed_at_admission": 0,
+        "structural_extraction_is_not_literary_completion": true,
+        "formal_codes_or_question_outcomes_assigned_at_admission": false,
+        "remaining": "Exact containing publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before Dust05 separate admission. Full remaining program continues.",
+        "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+        "initial_separate_admission_snapshot": {
+          "prior_pre_admission_snapshot": {},
+          "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-18T06:35:44.765568+00:00",
+          "admission_sha256": "7d9d1763f5ea317c4bf54645b8dff2202289c558260578e4aa5a22be0e36b735",
+          "native_bytes": 11564184,
+          "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+          "preceding_full_gate_source": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+          "preceding_fresh_reload_sha256": "b61468b1aa2c30e070476bec83011f25761dae963759bc1f0a8b76f2081cce94",
+          "native_text_components": 21,
+          "native_images": 24,
+          "pre_body_context_seal_sha256": "00b49a39ebc8065883cf36bc1e83e3a0d6337db858332b69d83285d072e87b92",
+          "actual_new_story_P_read_at_admission": 0,
+          "actual_new_images_viewed_at_admission": 0,
+          "structural_extraction_is_not_literary_completion": true,
+          "formal_codes_or_question_outcomes_assigned_at_admission": false,
+          "remaining": "All actual eligible bodies/ruby/residuals/images; complete uncoded seal; formal17responsibilities/ten-ledger/component dispositions/qualified same-root receiving and full publication gate.",
+          "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim."
+        },
+        "accepted_utc": "2026-10-18T07:29:49.102050+00:00",
+        "actual_reading": "All21textual units/full continuous principal fiction/afterword/front/end/navigation/ruby/residuals plus all24native images actually read/viewed before whole uncoded seal and formal assignments.",
+        "principal_P_slots": 2648,
+        "other_P_slots": 61,
+        "separate_bonus_narrative": false,
+        "uncoded_seal_utc": "2026-10-18T07:07:56.286158+00:00",
+        "uncoded_seal_sha256": "f1b4f24bfa6bbe2610a220b583fa9686d0e6fed2c2266bf0200c0c491284a71a",
+        "selected_whole_premises_not_census": 68,
+        "native_verified_voice_witnesses": 80,
+        "unchanged_question_local_assessments": 7,
+        "ten_ledger_appends": 34,
+        "reading_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "current_edition_reconciliation": "Actual Japanese electronic colophon2018-11-01/ver002; all native components separately dispositioned; original package/bibliographic snapshot preserved.",
+        "model_scope": "N01mixed with sharply adverse coercive leisure;N02partial actual coat help with rival/cost limit;N03bounded protective use;N04mixed with checks;N05bounded agency plus compulsion;N06/N07bounded with failure/correction. Frozen files and original14blanks exact."
+      }
     },
     {
       "source_id": "DUST-05",
@@ -11545,7 +11606,7 @@
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
       "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "actual_admission_utc": "2026-10-18T05:23:57.419984+00:00",
         "native_bytes": 18686443,
         "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
@@ -11563,7 +11624,7 @@
         "preceding_published_reload_sha256": "de7bf6f67938cdf3b537fc1bbd8c1f4bd106c6aef88ac51d63cc5e3e8583a1d4",
         "pre_body_context_seal_sha256": "3c6824fb13fe65c959d4f75f765714ebc9d5a566ee782a983f66f59a0fb13421",
         "actual_reading_at_admission": "0storyparagraphs/0images; structural extraction not literary completion. Whole-edition source-first reading begins only after pre-body context seal.",
-        "remaining": "Exact containing publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before Dust04 separate admission. Other-source completeness unasserted.",
+        "remaining": "Supplied-edition literary/component analysis and exact publication gate closed; later expanded synthesis/StageD/finalrelease remain.",
         "historical_metadata_fields": "Earlier metadata-only statuses retained unchanged; this later admission overlay supplies current scope.",
         "initial_separate_admission_snapshot": {
           "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
@@ -11603,7 +11664,13 @@
         "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json",
         "current_qualifications": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json",
         "current_edition_reconciliation": "Actual Japanese electronic special colophon2018-07-01/ver003; all native components separately dispositioned; original package/bibliographic snapshot above remains historical.",
-        "model_scope": "N01 direct contrary; N02/N03 full triggers not tested; N03 exact wording resolved; N04mixed; N05partial; N06/N07bounded. Frozen authority/fourscores/original14blanks unchanged, no pristine blindness."
+        "model_scope": "N01 direct contrary; N02/N03 full triggers not tested; N03 exact wording resolved; N04mixed; N05partial; N06/N07bounded. Frozen authority/fourscores/original14blanks unchanged, no pristine blindness.",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+          "closed_utc": "2026-10-18T06:35:26.264364+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_DUST03_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -11615,7 +11682,62 @@
         "embedded_bonus_fiction"
       ],
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "prior_pre_admission_snapshot": {},
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-18T06:35:44.765568+00:00",
+        "admission_sha256": "7d9d1763f5ea317c4bf54645b8dff2202289c558260578e4aa5a22be0e36b735",
+        "native_bytes": 11564184,
+        "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+        "preceding_full_gate_source": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+        "preceding_fresh_reload_sha256": "b61468b1aa2c30e070476bec83011f25761dae963759bc1f0a8b76f2081cce94",
+        "native_text_components": 21,
+        "native_images": 24,
+        "pre_body_context_seal_sha256": "00b49a39ebc8065883cf36bc1e83e3a0d6337db858332b69d83285d072e87b92",
+        "actual_new_story_P_read_at_admission": 0,
+        "actual_new_images_viewed_at_admission": 0,
+        "structural_extraction_is_not_literary_completion": true,
+        "formal_codes_or_question_outcomes_assigned_at_admission": false,
+        "remaining": "Exact containing publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before Dust05 separate admission. Full remaining program continues.",
+        "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+        "initial_separate_admission_snapshot": {
+          "prior_pre_admission_snapshot": {},
+          "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-18T06:35:44.765568+00:00",
+          "admission_sha256": "7d9d1763f5ea317c4bf54645b8dff2202289c558260578e4aa5a22be0e36b735",
+          "native_bytes": 11564184,
+          "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+          "preceding_full_gate_source": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+          "preceding_fresh_reload_sha256": "b61468b1aa2c30e070476bec83011f25761dae963759bc1f0a8b76f2081cce94",
+          "native_text_components": 21,
+          "native_images": 24,
+          "pre_body_context_seal_sha256": "00b49a39ebc8065883cf36bc1e83e3a0d6337db858332b69d83285d072e87b92",
+          "actual_new_story_P_read_at_admission": 0,
+          "actual_new_images_viewed_at_admission": 0,
+          "structural_extraction_is_not_literary_completion": true,
+          "formal_codes_or_question_outcomes_assigned_at_admission": false,
+          "remaining": "All actual eligible bodies/ruby/residuals/images; complete uncoded seal; formal17responsibilities/ten-ledger/component dispositions/qualified same-root receiving and full publication gate.",
+          "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim."
+        },
+        "accepted_utc": "2026-10-18T07:29:49.102050+00:00",
+        "actual_reading": "All21textual units/full continuous principal fiction/afterword/front/end/navigation/ruby/residuals plus all24native images actually read/viewed before whole uncoded seal and formal assignments.",
+        "principal_P_slots": 2648,
+        "other_P_slots": 61,
+        "separate_bonus_narrative": false,
+        "uncoded_seal_utc": "2026-10-18T07:07:56.286158+00:00",
+        "uncoded_seal_sha256": "f1b4f24bfa6bbe2610a220b583fa9686d0e6fed2c2266bf0200c0c491284a71a",
+        "selected_whole_premises_not_census": 68,
+        "native_verified_voice_witnesses": 80,
+        "unchanged_question_local_assessments": 7,
+        "ten_ledger_appends": 34,
+        "reading_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "current_edition_reconciliation": "Actual Japanese electronic colophon2018-11-01/ver002; all native components separately dispositioned; original package/bibliographic snapshot preserved.",
+        "model_scope": "N01mixed with sharply adverse coercive leisure;N02partial actual coat help with rival/cost limit;N03bounded protective use;N04mixed with checks;N05bounded agency plus compulsion;N06/N07bounded with failure/correction. Frozen files and original14blanks exact."
+      }
     },
     {
       "source_id": "DUST-05",

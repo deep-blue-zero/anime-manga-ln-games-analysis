@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Dust03 whole supplied edition accepted25text/24image scopes/full publication gate pending; Advancedgateclosed; Dust04unopened; full localfixed41 continues
+source_boundary: Dust04whole edition accepted21text/24image scopes/full publication gate pending; Dust03gateclosed; Dust05unopened; fullfixed41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; Dust03 accepted25text/24image scopes/full publication gate pending; allfive mixedprograms published |
-| Next canonical operation | EXPANDED_DUST03_PUBLICATION_GATE; no Dust04 admission before exact fullgate and fresh published authority reload |
+| Current phase | Owner-resumed Stage C; Dust04accepted21text/24image scopes/full publication gate pending; fullremainingprogramcontinues |
+| Next canonical operation | EXPANDED_DUST04_PUBLICATION_GATE; no Dust05admission before exact fullgate/freshpublishedauthorityreload |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -845,3 +845,18 @@ Exactlocalnative18686443bytes/SHA25658b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb11
 ## Dust03 whole-edition analytical acceptance — 2026-10-18T06:18:22.445096+00:00
 
 All25actualtext/24image scopes and principal2755P/other131Pincluding50Pbonus are complete with the05:55:31UTCuncodedseal preceding60selectedpremises/77nativeverifiedvoice/7unchangedquestionassessments/34ten-ledger appends and the full17responsibility report. [Receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json) preserves source-first history, current corrections, sameinformedroot/knownlaterholdout exposure, direct contraryN01and missingfullN02/N03triggers. Exact66current/72historical/fourscores/original14futureblanks unchanged. Advancedgate receipt joins this publication. Three supplementalwholeeditionsaccepted/twoalready publishedof19; allfive mixedprograms published/globalpercentage null. Close exactsource readback/sourceaudit/housekeeping/finalactualsourceaudit/status/freshreload before Dust04 admission. Fullremaining program continues.
+
+
+## Dust03 full gate closed and fresh authority reloaded — 2026-10-18T06:35:31.335816+00:00
+
+Exactsourceda2babc20ac4553d7e1e576e0fdcb6ba98b0394c/tree36aa82d62d9293cf0fd4cabe2584dcbe83d83b57,8369remote paths/34changedstreams verified. Source39103945422/job117605722774and final39104164541/job117606373548each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39104140091/job117606299063NO_OP/exactfinalsource dispatch; exact integrationstatus succeeds on the actual source. Fresh334project/66current/fourscore/original14blankreload2026-10-18T06:35:31.151608+00:00preceded new admission. [Gate receipt](KONOSUBA_DUST03_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes prior pendinghistory. Dust04stillunopened; nextseparateexactlocaladmission. Supplemental3of19/mixed5of5published/globalpercentage null; frozen72historicalunchanged. Fullremainingprogramcontinues.
+
+
+## Dust04 separate native admission and pre-body seal — 2026-10-18T06:36:42.859366+00:00
+
+ExactsourceDUST-04/11564184bytes/SHA256`db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23`,freshCRC/JapaneseOPF/21text/24image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Dust04 whole-edition analytical acceptance — 2026-10-18T07:29:49.102050+00:00
+
+All21actualtext/24image scopes,principal2648P/other61P/total2709P complete;07:07:56UTCuncodedseal precedes68selectedpremises/80nativeverifiedvoice/7unchangedquestionassessments/34ten-ledgerappends/full17responsibilityreport. [Receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json) retains actual coercion/protectivecosts, missingconjuncts, checkingcounterevidence, failedcommission/paidcompensation and sameinformedroot/knownlaterholdout exposure. All66current/72historical/fourscores/original14blanks exact. Dust03gate joins this publication;4supplementalwholeaccepted/3already publishedof19,mixed5published/globalpercentage null. Close exactsource readback/sourceaudit/housekeeping/finalactualsourceaudit/status/freshreload before Dust05admission. Fullremainingprogramcontinues.

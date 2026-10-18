@@ -521,3 +521,22 @@ Native18686443bytes/SHA256`58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fd
 | U021–025 | Allcover/colophons/retailer/nonspine navigation | Marketing/credits/legal/reference, not extra plot trials |
 
 Native one-basedPincludes blank/image slots; all ruby readings and nonparagraph residuals received. U010/U013and caption reuse do not multiply events. Explicit black/blue-eyes idiom supports L3; metaphors have actual H4license; no H3/H4from staging/fantasy alone. All34ledger rows have separate exact current-prefix controls and source/adverse limits. Original frozen14futurefields remain blank.
+
+
+## DUST-04 accepted whole-edition routes — 2026-10-18T07:29:49.102050+00:00
+
+Native11564184bytes/SHA256`db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23`. [All21text/24image dispositions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_COMPONENT_REGISTER.json), [full17responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md), [68selectedpremises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_HUMOR_REGISTER.md), [80voicecontexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_VOICE_REGISTER.md), [7localassessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json) control exact native joins.
+
+| Unit | Native route / P slots | Current authority |
+|---|---|---|
+| U001–009 | Cover/front/caption/profile/title/caution4P/contents10P | Unequal art/editorial/paratext; all images actually viewed |
+| U010 | p-002.xhtml /31P | Prologue duplicates the U014 final draw |
+| U011 | p-003.xhtml /568P | Chapter1; retaliation and Taylor cash loss |
+| U012 | p-004.xhtml /1086P | Chapter2; commission, surveillance, broken conditions and arrest |
+| U013 | p-005.xhtml /480P | Chapter3; real confession/threat, provider-dependent escape and recapture |
+| U014 | p-006.xhtml /441P | Finalchapter; coercive release demand, actual sword stake, weak-card victory |
+| U015 | p-007.xhtml /42P | Actual epilogueIMG021; compensation and small completed care |
+| U016 | p-008.xhtml /24P | Author afterword/contributorimage22; no heard-audio claim |
+| U017–021 | Allcover/colophons20+3P/retailer/nonspine navigation | Marketing/credits/notices/reference; no separately supplied bonus story |
+
+Principal2648P/other61P/total2709P includes blank/image slots; every ruby and nonparagraph residual received. Images are separately dispositioned, and their placement does not certify the adjacent action pictured. Two explicit Japanese-form mechanisms warrant L3; damage/boat comparisons provide H4license; no H3quota or fantasy-to-H4 shortcut. Four scores and original14futurefields remain unchanged.
