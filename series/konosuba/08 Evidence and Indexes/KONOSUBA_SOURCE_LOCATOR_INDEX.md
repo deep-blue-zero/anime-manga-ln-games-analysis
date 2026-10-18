@@ -592,3 +592,38 @@ Native4582670bytes/SHA256`d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a
 | DUST-06-U020 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION_REFERENCE |
 
 Principal2977P/other76P/total3053P; full ruby/residual/image scopes before uncoded seal 2026-10-18T09:47:38.481368+00:00;63selected premises/107native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental6accepted/5already publishedof19; mixed5published; global percentage null. All20text/19image supplied-edition scopes actually read; principal U010-0142977P, other76P. Past flight, current Dust, Leen alternate viewpoint, explicit lies, mediated legend and letters retain access. IMG015pastnap/IMG016farewellsword/IMG018earlieropenhand do not certify unpictured night/vow/kiss/lift/flight. Front/profile/wrap/contributor/notice planes unequal; no separately supplied bonus/audio/movie credit.
+
+
+## Prediction/validation continuation route — 2026-10-18T10:24:58.590817+00:00
+
+The [original ledger](../03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md) preserves its exact pre-extension1037070byte prefix/SHA256`e5947567f5c2c7661fe4b7000a0673626cd1515663e43fbd03e083dac17abb4a` plus only a route. New expanded-source entries append in [Continuation01](../03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md). Same analytical responsibility, no forecast/score reset or filled original blank fields.
+
+
+## DUST-07 accepted whole-edition routes — 2026-10-18T11:33:04.335402+00:00
+
+Native4740436bytes/SHA256`cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`. [Component register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [64selectedpremises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_HUMOR_REGISTER.md), [146voicecontexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_VOICE_REGISTER.md), [seven assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| DUST-07-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART_WRAPPER |
+| DUST-07-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | FRONT_DEPENDENT_PAIR_ART |
+| DUST-07-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | IMAGE_CONTENTS_AND_MEMORIAL_ART_CREDIT |
+| DUST-07-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | UNCAPTIONED_PARTY_MEAL_ART |
+| DUST-07-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | UNCAPTIONED_LEEN_SMALL_ART |
+| DUST-07-U006 | item/xhtml/p-titlepage.xhtml / 0 | TITLE_CREDITS |
+| DUST-07-U007 | item/xhtml/p-caution.xhtml / 4 | CAUTION_PARATEXT |
+| DUST-07-U008 | item/xhtml/p-toc-001.xhtml / 9 | TEXT_CONTENTS |
+| DUST-07-U009 | item/xhtml/p-001.xhtml / 0 | EDITORIAL_CHARACTER_PROFILES |
+| DUST-07-U010 | item/xhtml/p-002.xhtml / 51 | PRINCIPAL_PAST_PROLOGUE |
+| DUST-07-U011 | item/xhtml/p-003.xhtml / 1115 | PRINCIPAL_CHAPTER_ONE_MOBILIZATION_TRAINING_SWORD_LOAN |
+| DUST-07-U012 | item/xhtml/p-004.xhtml / 890 | PRINCIPAL_CHAPTER_TWO_DEFENSE_BREACH |
+| DUST-07-U013 | item/xhtml/p-005.xhtml / 677 | PRINCIPAL_CHAPTER_THREE_TOWN_DEFENSE_AND_AERIAL_END |
+| DUST-07-U014 | item/xhtml/p-006.xhtml / 148 | PRINCIPAL_EPILOGUE |
+| DUST-07-U015 | item/xhtml/p-007.xhtml / 35 | AUTHOR_AFTERWORD_AND_CONTRIBUTOR_IMAGE |
+| DUST-07-U016 | item/xhtml/p-allcover-001.xhtml / 0 | WRAP_COVER_MARKETING_FLAPS |
+| DUST-07-U017 | item/xhtml/p-colophon.xhtml / 20 | ELECTRONIC_COLOPHON |
+| DUST-07-U018 | item/xhtml/p-colophon2.xhtml / 3 | USE_NOTICE_PARATEXT |
+| DUST-07-U019 | item/xhtml/p-bookwalker.xhtml / 0 | RETAILER_LOGO_WRAPPER |
+| DUST-07-U020 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION_REFERENCE |
+
+Principal2881P/other71P/total2952P; full ruby/residual/image scopes before uncoded seal 2026-10-18T11:04:05.328502+00:00;64selected premises/146native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental7accepted/6already publishedof19; mixed5published; global percentage null. All20text/19image scopes actually read; principal U010-0142881P, other71P. Prologue memory/current Dust/main reports/opponent lore/known lies/dream fiction/creator paratext retain access. IMG015prior Small trust exchange/IMG016prior Kazuma sword handover/IMG017Dust-spear-white-dragon/IMG018real final Leen hand do not certify other adjacent actions or repeat events. No separately supplied bonus/audio/absent draft/main battle credit.

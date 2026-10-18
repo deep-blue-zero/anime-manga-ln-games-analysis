@@ -6442,7 +6442,7 @@
       "analytical_completion": "ACCEPTED_FROZEN_R1_PRINCIPAL_VALIDATION_ONLY; FULL_EXPANDED_LITERARY_COMPONENT_RESPONSIBILITIES_PENDING_AND_EXCLUDED_BODIES_CLOSED",
       "expanded_stage_C": {
         "prior_pre_admission_snapshot": {},
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "admission_utc": "2026-10-18T09:18:47.121939+00:00",
         "admission_sha256": "93b10edc7e59cdc72ca3246a7e56f0f8890bde7dfa51a3ea67194272a43f6594",
         "native_bytes": 4582670,
@@ -6456,7 +6456,7 @@
         "actual_new_images_viewed_at_admission": 0,
         "structural_extraction_is_not_literary_completion": true,
         "formal_codes_or_question_outcomes_assigned_at_admission": false,
-        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Dust07 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "remaining": "Supplied-edition literary/component scopes and exact publication gate closed; expanded synthesis/StageD/finalrelease remain.",
         "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
         "initial_separate_admission_snapshot": {
           "prior_pre_admission_snapshot": {},
@@ -6493,7 +6493,13 @@
         "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_RECEIVING_AND_PROVENANCE.json",
         "current_qualifications": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json",
         "current_edition_reconciliation": "2020-01-01/ver.001, print-base same-date first edition; original Akatsuki Natsume, prose Hirukuma, distinct illustration/concept credits. All native components dispositioned; original admission retained.",
-        "model_scope": "Same informed continuing root reviewed all17responsibilities/named referents,63whole-premise L/H arguments,107native-window joins,7unchanged-question conjunct/rival assessments,20text/19image dispositions and34append-only decisions. No independent receiver or second pass. N01 contrary teasing and divination deferral retain no bodily/later-success threshold; old vow timing, actual consent stages, supplied weapons/providers, real checks, lies and unshown settlement qualify uptake."
+        "model_scope": "Same informed continuing root reviewed all17responsibilities/named referents,63whole-premise L/H arguments,107native-window joins,7unchanged-question conjunct/rival assessments,20text/19image dispositions and34append-only decisions. No independent receiver or second pass. N01 contrary teasing and divination deferral retain no bodily/later-success threshold; old vow timing, actual consent stages, supplied weapons/providers, real checks, lies and unshown settlement qualify uptake.",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace",
+          "closed_utc": "2026-10-18T10:24:08.191781+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_DUST06_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -6848,7 +6854,62 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "ACCEPTED_FROZEN_R1_PRINCIPAL_VALIDATION_AND_FOUR_BOOK_RECONCILIATION; CONTAINING_PUBLICATION_PENDING; FULL_EXPANDED_LITERARY_COMPONENT_RESPONSIBILITIES_PENDING"
+      "analytical_completion": "ACCEPTED_FROZEN_R1_PRINCIPAL_VALIDATION_AND_FOUR_BOOK_RECONCILIATION; CONTAINING_PUBLICATION_PENDING; FULL_EXPANDED_LITERARY_COMPONENT_RESPONSIBILITIES_PENDING",
+      "expanded_stage_C": {
+        "prior_pre_admission_snapshot": {},
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-18T10:24:43.680030+00:00",
+        "admission_sha256": "715c760ef593ee52c7717f843f40d03fde10b9617ecd6f40c0aea102c1684834",
+        "native_bytes": 4740436,
+        "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+        "preceding_full_gate_source": "e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace",
+        "preceding_fresh_reload_sha256": "89c2513f7f4f14f7384d6a9313f42740245b95c83f0f6a8114bf1f94bfd482eb",
+        "native_text_components": 20,
+        "native_images": 19,
+        "pre_body_context_seal_sha256": "6ad45162b880e7582dbe929736c6d1bdeae0e375e744f4bd9be8252dd31cca91",
+        "actual_new_story_P_read_at_admission": 0,
+        "actual_new_images_viewed_at_admission": 0,
+        "structural_extraction_is_not_literary_completion": true,
+        "formal_codes_or_question_outcomes_assigned_at_admission": false,
+        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate separately titled unnumbered Dust continuation whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+        "initial_separate_admission_snapshot": {
+          "prior_pre_admission_snapshot": {},
+          "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-18T10:24:43.680030+00:00",
+          "admission_sha256": "715c760ef593ee52c7717f843f40d03fde10b9617ecd6f40c0aea102c1684834",
+          "native_bytes": 4740436,
+          "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+          "preceding_full_gate_source": "e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace",
+          "preceding_fresh_reload_sha256": "89c2513f7f4f14f7384d6a9313f42740245b95c83f0f6a8114bf1f94bfd482eb",
+          "native_text_components": 20,
+          "native_images": 19,
+          "pre_body_context_seal_sha256": "6ad45162b880e7582dbe929736c6d1bdeae0e375e744f4bd9be8252dd31cca91",
+          "actual_new_story_P_read_at_admission": 0,
+          "actual_new_images_viewed_at_admission": 0,
+          "structural_extraction_is_not_literary_completion": true,
+          "formal_codes_or_question_outcomes_assigned_at_admission": false,
+          "remaining": "All actual eligible bodies/ruby/residuals/images; complete uncoded seal; formal17responsibilities/ten-ledger/component dispositions/qualified same-root receiving and full publication gate.",
+          "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim."
+        },
+        "accepted_utc": "2026-10-18T11:33:04.335402+00:00",
+        "actual_reading": "All20textual components/full principal/epilogue/afterword/front/end/nav/ruby/residuals and19native images actually read/viewed before full uncoded seal/formal assignment.",
+        "principal_P_slots": 2881,
+        "other_P_slots": 71,
+        "separate_bonus_narrative": false,
+        "uncoded_seal_utc": "2026-10-18T11:04:05.328502+00:00",
+        "uncoded_seal_sha256": "79a08efc721bc6d5077d277fb41d4cf243e097f82c215b0f526dba50df4b5de2",
+        "selected_whole_premises_not_census": 64,
+        "native_verified_voice_witnesses": 146,
+        "unchanged_question_local_assessments": 7,
+        "ten_ledger_appends": 34,
+        "reading_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "current_edition_reconciliation": "2020-05-01/ver.002, same-date first print; exact subtitle 竜に愛されし愚者（ぐしゃ）. Original Akatsuki Natsume, prose Hirukuma, distinct illustration/concept credits. All native components dispositioned; original admission retained.",
+        "model_scope": "Same informed continuing root checked all17responsibilities/named referents,64whole-premise L/H warrants,146current native-window joins with145original exact/one explicitly shortened,7unchanged-question conjunction/rival assessments,20text/19image scopes and34append-only decisions. No independent receiver/second pass. Retain Keith nonhelp, useful coercive harm, positive protection, provider budgets/agency, actual failures, actual debt settlement, contact/ownership directions and main-event access limits."
+      }
     },
     {
       "source_id": "DUST-CONT",
@@ -11963,7 +12024,7 @@
       "disposition": "FIVE_PRINCIPAL_MEMBERS_READ_COMPLETE_AND_SOURCE_LOCAL_VALIDATION_ACCEPTED; FULL_EXPANDED_LITERARY_RESPONSIBILITIES_PENDING_AND_EXCLUDED_BODIES_CLOSED",
       "expanded_stage_C": {
         "prior_pre_admission_snapshot": {},
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "admission_utc": "2026-10-18T09:18:47.121939+00:00",
         "admission_sha256": "93b10edc7e59cdc72ca3246a7e56f0f8890bde7dfa51a3ea67194272a43f6594",
         "native_bytes": 4582670,
@@ -11977,7 +12038,7 @@
         "actual_new_images_viewed_at_admission": 0,
         "structural_extraction_is_not_literary_completion": true,
         "formal_codes_or_question_outcomes_assigned_at_admission": false,
-        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Dust07 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "remaining": "Supplied-edition literary/component scopes and exact publication gate closed; expanded synthesis/StageD/finalrelease remain.",
         "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
         "initial_separate_admission_snapshot": {
           "prior_pre_admission_snapshot": {},
@@ -12014,7 +12075,13 @@
         "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_RECEIVING_AND_PROVENANCE.json",
         "current_qualifications": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json",
         "current_edition_reconciliation": "2020-01-01/ver.001, print-base same-date first edition; original Akatsuki Natsume, prose Hirukuma, distinct illustration/concept credits. All native components dispositioned; original admission retained.",
-        "model_scope": "Same informed continuing root reviewed all17responsibilities/named referents,63whole-premise L/H arguments,107native-window joins,7unchanged-question conjunct/rival assessments,20text/19image dispositions and34append-only decisions. No independent receiver or second pass. N01 contrary teasing and divination deferral retain no bodily/later-success threshold; old vow timing, actual consent stages, supplied weapons/providers, real checks, lies and unshown settlement qualify uptake."
+        "model_scope": "Same informed continuing root reviewed all17responsibilities/named referents,63whole-premise L/H arguments,107native-window joins,7unchanged-question conjunct/rival assessments,20text/19image dispositions and34append-only decisions. No independent receiver or second pass. N01 contrary teasing and divination deferral retain no bodily/later-success threshold; old vow timing, actual consent stages, supplied weapons/providers, real checks, lies and unshown settlement qualify uptake.",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace",
+          "closed_utc": "2026-10-18T10:24:08.191781+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_DUST06_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -12026,7 +12093,62 @@
         "embedded_bonus_fiction"
       ],
       "admission": "PRINCIPAL_PROSE_ADMITTED_FOR_FROZEN_R1_VALIDATION_ONLY",
-      "disposition": "FIVE_PRINCIPAL_MEMBERS_READ_COMPLETE_AND_VALIDATION_ACCEPTED; FOUR_BOOK_RECONCILIATION_ACCEPTED_PUBLICATION_PENDING; FULL_EXPANDED_LITERARY_AND_EXCLUDED_COMPONENT_RESPONSIBILITIES_PENDING"
+      "disposition": "FIVE_PRINCIPAL_MEMBERS_READ_COMPLETE_AND_VALIDATION_ACCEPTED; FOUR_BOOK_RECONCILIATION_ACCEPTED_PUBLICATION_PENDING; FULL_EXPANDED_LITERARY_AND_EXCLUDED_COMPONENT_RESPONSIBILITIES_PENDING",
+      "expanded_stage_C": {
+        "prior_pre_admission_snapshot": {},
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-18T10:24:43.680030+00:00",
+        "admission_sha256": "715c760ef593ee52c7717f843f40d03fde10b9617ecd6f40c0aea102c1684834",
+        "native_bytes": 4740436,
+        "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+        "preceding_full_gate_source": "e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace",
+        "preceding_fresh_reload_sha256": "89c2513f7f4f14f7384d6a9313f42740245b95c83f0f6a8114bf1f94bfd482eb",
+        "native_text_components": 20,
+        "native_images": 19,
+        "pre_body_context_seal_sha256": "6ad45162b880e7582dbe929736c6d1bdeae0e375e744f4bd9be8252dd31cca91",
+        "actual_new_story_P_read_at_admission": 0,
+        "actual_new_images_viewed_at_admission": 0,
+        "structural_extraction_is_not_literary_completion": true,
+        "formal_codes_or_question_outcomes_assigned_at_admission": false,
+        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate separately titled unnumbered Dust continuation whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+        "initial_separate_admission_snapshot": {
+          "prior_pre_admission_snapshot": {},
+          "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-18T10:24:43.680030+00:00",
+          "admission_sha256": "715c760ef593ee52c7717f843f40d03fde10b9617ecd6f40c0aea102c1684834",
+          "native_bytes": 4740436,
+          "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+          "preceding_full_gate_source": "e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace",
+          "preceding_fresh_reload_sha256": "89c2513f7f4f14f7384d6a9313f42740245b95c83f0f6a8114bf1f94bfd482eb",
+          "native_text_components": 20,
+          "native_images": 19,
+          "pre_body_context_seal_sha256": "6ad45162b880e7582dbe929736c6d1bdeae0e375e744f4bd9be8252dd31cca91",
+          "actual_new_story_P_read_at_admission": 0,
+          "actual_new_images_viewed_at_admission": 0,
+          "structural_extraction_is_not_literary_completion": true,
+          "formal_codes_or_question_outcomes_assigned_at_admission": false,
+          "remaining": "All actual eligible bodies/ruby/residuals/images; complete uncoded seal; formal17responsibilities/ten-ledger/component dispositions/qualified same-root receiving and full publication gate.",
+          "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim."
+        },
+        "accepted_utc": "2026-10-18T11:33:04.335402+00:00",
+        "actual_reading": "All20textual components/full principal/epilogue/afterword/front/end/nav/ruby/residuals and19native images actually read/viewed before full uncoded seal/formal assignment.",
+        "principal_P_slots": 2881,
+        "other_P_slots": 71,
+        "separate_bonus_narrative": false,
+        "uncoded_seal_utc": "2026-10-18T11:04:05.328502+00:00",
+        "uncoded_seal_sha256": "79a08efc721bc6d5077d277fb41d4cf243e097f82c215b0f526dba50df4b5de2",
+        "selected_whole_premises_not_census": 64,
+        "native_verified_voice_witnesses": 146,
+        "unchanged_question_local_assessments": 7,
+        "ten_ledger_appends": 34,
+        "reading_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "current_edition_reconciliation": "2020-05-01/ver.002, same-date first print; exact subtitle 竜に愛されし愚者（ぐしゃ）. Original Akatsuki Natsume, prose Hirukuma, distinct illustration/concept credits. All native components dispositioned; original admission retained.",
+        "model_scope": "Same informed continuing root checked all17responsibilities/named referents,64whole-premise L/H warrants,146current native-window joins with145original exact/one explicitly shortened,7unchanged-question conjunction/rival assessments,20text/19image scopes and34append-only decisions. No independent receiver/second pass. Retain Keith nonhelp, useful coercive harm, positive protection, provider budgets/agency, actual failures, actual debt settlement, contact/ownership directions and main-event access limits."
+      }
     },
     {
       "source_id": "DUST-CONT",
