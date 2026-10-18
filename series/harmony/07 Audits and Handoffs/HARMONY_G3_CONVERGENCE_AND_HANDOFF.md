@@ -5,13 +5,13 @@ artifact_type: specialist_convergence_handoff
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.1'
+version: '0.2'
 status: active_provisional
 scope: G3 role-gap review, specialist and monograph acceptance, cross-study convergence and G4/G5 readiness; no G4/G5 execution or G6 release
 source_boundary: HAR-JP-EPUB-001 sha256 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; completed admitted HAR-U001–HAR-U020 only; no new source
 canonical_home: series/harmony/07 Audits and Handoffs/HARMONY_G3_CONVERGENCE_AND_HANDOFF.md
 created: '2026-10-18'
-review_status: G3_FIRST_BATCH_SEMANTIC_ACCEPTED_2026_10_18
+review_status: G3_SECOND_BATCH_SEMANTIC_ACCEPTED_2026_10_18
 gate_disposition: G3_IN_PROGRESS
 supersedes: []
 superseded_by: []
@@ -40,20 +40,20 @@ The architecture already supplies adequate homes. Distinct recurring evidence an
 | --- | --- | --- |
 | Narration, disclosure, literal ETML and final enunciation | Planned `05 Specialist Synthesis/HARMONY_NARRATION_ETML_AND_FINAL_VOICE.md`; `HARMONY_NARRATION_ETML_FINAL_VOICE` | IN_PROGRESS; owns formal/voice levels, not a technological implementation registry |
 | Directional relationships, autonomy and consent | [Recognition, care and the authority to refuse](../05%20Specialist%20Synthesis/HARMONY_RELATIONSHIPS_AND_AUTONOMY.md); `HARMONY_RELATIONSHIPS_AUTONOMY` | First reviewed batch; compares dyads, leaving individual development to monographs |
-| Institutional care, coercion and permission | Planned `05 Specialist Synthesis/HARMONY_INSTITUTIONAL_CARE_AND_COERCION.md`; `HARMONY_INSTITUTIONAL_CARE_COERCION` | IN_PROGRESS; owns institutional/causal distinctions, no duplicate K registry |
+| Institutional care, coercion and permission | [Care, jurisdiction and the removal of refusal](../05%20Specialist%20Synthesis/HARMONY_INSTITUTIONAL_CARE_AND_COERCION.md); `HARMONY_INSTITUTIONAL_CARE_COERCION` | Second reviewed batch; owns institutional/causal distinctions, no duplicate K registry |
 | Ending and strongest contrary readings | Planned `05 Specialist Synthesis/HARMONY_ENDING_STUDY.md`; `HARMONY_ENDING_STUDY` | IN_PROGRESS; bounded ending argument, not G4 novel-wide integration |
 | Tuan | [Tuan and the unequal ownership of choice](../04%20Character%20and%20Relationship%20Studies/HARMONY_TUAN_MONOGRAPH.md); `HARMONY_TUAN_MONOGRAPH` | First reviewed batch; time/disclosure-indexed development, no post-programme conscious continuation |
 | Miaha | Planned `04 Character and Relationship Studies/HARMONY_MIAHA_MONOGRAPH.md`; `HARMONY_MIAHA_MONOGRAPH` | IN_PROGRESS; no single trauma diagnosis or omniscient private motive |
 | Kian | [Kian and the cost of being read as agreement](../04%20Character%20and%20Relationship%20Studies/HARMONY_KIAN_MONOGRAPH.md); `HARMONY_KIAN_MONOGRAPH` | First reviewed batch; independent participation, no self-destruction policy |
-| Nuaza | Planned `04 Character and Relationship Studies/HARMONY_NUAZA_MONOGRAPH.md`; `HARMONY_NUAZA_MONOGRAPH` | IN_PROGRESS; research and paternal countercases, no universal redemption |
-| Oscar | Planned `04 Character and Relationship Studies/HARMONY_OSCAR_STUDY.md`; `HARMONY_OSCAR_STUDY` | IN_PROGRESS; professional discretion/use/help, not every private relationship |
-| Vashilov | Planned `04 Character and Relationship Studies/HARMONY_VASHILOV_STUDY.md`; `HARMONY_VASHILOV_STUDY` | IN_PROGRESS; office/faction and vulnerability, no generic operative psychology |
+| Nuaza | [Nuaza and the limits he preserves and crosses](../04%20Character%20and%20Relationship%20Studies/HARMONY_NUAZA_MONOGRAPH.md); `HARMONY_NUAZA_MONOGRAPH` | Second reviewed batch; research and paternal countercases, no universal redemption |
+| Oscar | [Oscar and permission as an instrument](../04%20Character%20and%20Relationship%20Studies/HARMONY_OSCAR_STUDY.md); `HARMONY_OSCAR_STUDY` | Second reviewed batch; professional discretion/use/help, not every private relationship |
+| Vashilov | [Vashilov, the genuine credential and the injured negotiator](../04%20Character%20and%20Relationship%20Studies/HARMONY_VASHILOV_STUDY.md); `HARMONY_VASHILOV_STUDY` | Second reviewed batch; office/faction and vulnerability, no generic operative psychology |
 
 The intended IDs above become authoritative only with their actual accepted documents. Until publication, planned paths are code, not links to absent files. The existing actor owner alone decides readiness labels. Monographs do not silently promote those labels or produce G5 models. Shared evidence is cited where analytically necessary without creating new observation IDs or copied registries.
 
 ## First-batch semantic acceptance and required convergence
 
-The owner-authored relationship, Tuan and Kian studies passed complete independent Harmony-only semantic review against their actual candidate bytes, with direct Japanese checks of consequential claims. The reviewer checked Kian’s qualified care account, incomplete gratitude, the recorded solicitation, final assent/exclusionary revenge, particular dying care and shared institutional/relationship dependencies. No substantive correction was required. Introduction, substantial middle, conclusion and every major relationship were sampled for names, attribution and pronouns; source-required anonymity was retained and no material ambiguous referent remained. Final acceptance metadata was read back and hash-bound separately from the substantive prose. G3 as a whole remains IN_PROGRESS until all ten substantive outputs and cross-study dependencies pass; three polished studies do not satisfy the four-role gate.
+The owner-authored relationship, Tuan and Kian studies passed complete independent Harmony-only semantic review against their actual candidate bytes, with direct Japanese checks of consequential claims. The reviewer checked Kian’s qualified care account, incomplete gratitude, the recorded solicitation, final assent/exclusionary revenge, particular dying care and shared institutional/relationship dependencies. No substantive correction was required. Introduction, substantial middle, conclusion and every major relationship were sampled for names, attribution and pronouns; source-required anonymity was retained and no material ambiguous referent remained. Final acceptance metadata was read back and hash-bound separately from the substantive prose. G3 as a whole remains IN_PROGRESS until all ten substantive outputs and cross-study dependencies pass; the first seven accepted studies do not complete the narration, ending and Miaha responsibilities.
 
 The first review tested school/adult separation; Kian's qualified balancer account versus actual pact participation; Tuan's sincere but incomplete gratitude; intimate consent versus later care; covert access versus real institutional benefit; and final assent/revenge versus global code authority. These distinctions passed. The ending and form dependencies must later test the epilogue's affirmative outcome, retained affective functions, changed enunciation and limits on absolute restoration. These are acceptance questions, not a predetermined G4 thesis.
 
@@ -74,3 +74,10 @@ G4 readiness depends on accepted convergence of all four specialists and six cha
 G5 readiness remains the actor owner's one MULTICONTEXT_CANDIDATE, nine DOMAIN_BOUNDED and twenty RECOGNITION_ONLY dispositions, with the architecture's complete reconstruction/validation contract. Future models must separate era, recipient, disclosure and public/private access, preserve negative constraints and test meaningful alternatives. All admitted outcomes have been exposed to the current staff; reuse is retrospective consistency QA, not blind or held-out validation. No operational model, generated dialogue or validation is produced. G6 remains NOT_STARTED.
 
 Publication proceeds in reviewed coherent batches. Each author push must complete source audit, designated housekeeping and final successful `Repository integration audit` on its actual final SHA, plus immutable full-blob readback, before the next tranche. The G3 PR remains draft to prevent automatic integration; no protected-main merge is requested or performed here. Exact SHA/run/readback receipts remain transaction metadata distinct from literary acceptance and are recorded privately and in the PR. The final handoff will replace the in-progress rows with actual accepted identities and documented convergence.
+
+
+## Second-batch acceptance — seven studies delivered
+
+The institutional specialist, substantial Nuaza monograph and focused Oscar/Vashilov studies passed full owner semantic review and complementary independent narration/ending review against their actual final prose. Review tested real medical benefit against institutional constraint, distinct permissions and causal routes, Nuaza’s moderation/secrecy/restraint/protection, Oscar’s sanction/use/help, and Vashilov’s office/faction/capture preference/pain bargain. The institutional scope term was made precise, and a substantive bounded Keita portrait was added inside the existing institutional home after role-gap review; Reiko, Uwe and Gabriel already receive focused integrated treatment there. Names, attribution and all major relationships were checked across openings, middle arguments and conclusions. Acceptance metadata is separately rebound to full final bytes.
+
+Seven studies are now accepted; the form, ending and Miaha candidates and the final full-role dependency/convergence review remain pending. No additional dedicated minor-character monograph or cumulative registry is warranted merely to increase the file count. Frozen G1 and G2 histories remain intact. The final handoff must establish substantive coverage of the architecture’s mandatory responsibilities, not just the existence of ten filenames.
