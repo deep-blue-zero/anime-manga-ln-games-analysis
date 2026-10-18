@@ -854,3 +854,44 @@ Native15716486bytes/SHA256`22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e
 | EXP-03-U052 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION |
 
 Principal2614P/other48P/total2662P; full ruby/residual/image scopes before uncoded seal 2026-10-18T16:44:48.214319+00:00;87selected premises/114native-joined voices/7unchanged-contract local assessments/31ten-ledger appends. Supplemental11accepted/10already publishedof19; mixed5published; global percentage null. All52text units/48native images actually read.2614principal P plus48other P do not count20integral image-prose pages in four Yunyun interludes of4/4/4/8pages. Separate chibi closures IMG023/040, same-event prank comic, printed voiced-い gaiji missing from base extraction, banners/color composites, cast portrait and creator comments have explicit unequal roles. No separate electronic bonus or lower end-coda supplied.
+
+
+## CONTEXP-01 accepted whole-edition routes — 2026-10-18T18:32:42.189891+00:00
+
+Native18609246bytes/SHA256`60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f`. [Component register](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md), [72selectedpremises](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_HUMOR_REGISTER.md), [117voicecontexts](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_VOICE_REGISTER.md), [7 local assessments](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| CONTEXP-01-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART |
+| CONTEXP-01-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | REPEATED_COLOR_COVER |
+| CONTEXP-01-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | COLOR_MEGUMIN_INTRODUCTION |
+| CONTEXP-01-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | COLOR_YUNYUN_IRIS_CHRIS_CECILY_QUOTES |
+| CONTEXP-01-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | COLOR_MASKED_IDENTITIES_AND_ROMANTIC_TEASER |
+| CONTEXP-01-U006 | item/xhtml/p-fmatter-005.xhtml / 0 | COLOR_CONTENTS |
+| CONTEXP-01-U007 | item/xhtml/p-titlepage.xhtml / 7 | TITLE_AND_CREATOR_CREDITS |
+| CONTEXP-01-U008 | item/xhtml/p-caution.xhtml / 7 | USE_AND_LAYOUT_NOTICES |
+| CONTEXP-01-U009 | item/xhtml/p-toc-001.xhtml / 13 | TEXT_CONTENTS_INCLUDING_ELECTRONIC_BONUS |
+| CONTEXP-01-U010 | item/xhtml/p-001.xhtml / 0 | PROLOGUE_BANNER_YUNYUN_NOT_NARRATOR |
+| CONTEXP-01-U011 | item/xhtml/p-002.xhtml / 30 | PRINCIPAL_PROLOGUE_MEGUMIN_NARRATION |
+| CONTEXP-01-U012 | item/xhtml/p-003.xhtml / 0 | EPISODE_ONE_BANNER_MEGUMIN |
+| CONTEXP-01-U013 | item/xhtml/p-004.xhtml / 501 | PRINCIPAL_EPISODE_ONE_MEGUMIN |
+| CONTEXP-01-U014 | item/xhtml/p-005.xhtml / 0 | EPISODE_TWO_BANNER_CECILY |
+| CONTEXP-01-U015 | item/xhtml/p-006.xhtml / 497 | PRINCIPAL_EPISODE_TWO_MEGUMIN |
+| CONTEXP-01-U016 | item/xhtml/p-007.xhtml / 0 | EPISODE_THREE_BANNER_CHRIS |
+| CONTEXP-01-U017 | item/xhtml/p-008.xhtml / 515 | PRINCIPAL_EPISODE_THREE_MEGUMIN |
+| CONTEXP-01-U018 | item/xhtml/p-009.xhtml / 0 | EPISODE_FOUR_BANNER_IRIS |
+| CONTEXP-01-U019 | item/xhtml/p-010.xhtml / 540 | PRINCIPAL_EPISODE_FOUR_MEGUMIN |
+| CONTEXP-01-U020 | item/xhtml/p-011.xhtml / 0 | FINAL_EPISODE_BANNER_YUNYUN_NOT_NARRATOR |
+| CONTEXP-01-U021 | item/xhtml/p-012.xhtml / 518 | PRINCIPAL_FINAL_EPISODE_KAZUMA_AFTER_ELROAD |
+| CONTEXP-01-U022 | item/xhtml/p-013.xhtml / 0 | EPILOGUE_BANNER_MEGUMIN |
+| CONTEXP-01-U023 | item/xhtml/p-014.xhtml / 45 | PRINCIPAL_EPILOGUE_KAZUMA |
+| CONTEXP-01-U024 | item/xhtml/p-015.xhtml / 24 | CREATOR_AFTERWORD_READER_ONLY_ARTIFACT_DISCLOSURE |
+| CONTEXP-01-U025 | item/xhtml/p-016.xhtml / 0 | ILLUSTRATOR_AFTERWORD_SIGNED_CHRIS_NO_LOWER_FICTION_CODA |
+| CONTEXP-01-U026 | item/xhtml/p-017.xhtml / 50 | SEPARATE_ELECTRONIC_BONUS_THIEF_GIRL_MEGUMIN_NARRATION |
+| CONTEXP-01-U027 | item/xhtml/p-018.xhtml / 4 | WEB_REVISION_AND_NEW_MATERIAL_PROVENANCE |
+| CONTEXP-01-U028 | item/xhtml/p-credit.xhtml / 5 | ILLUSTRATION_AND_DESIGN_CREDITS |
+| CONTEXP-01-U029 | item/xhtml/p-colophon.xhtml / 17 | ELECTRONIC_COLOPHON_DIFFERENT_PRINT_DATE |
+| CONTEXP-01-U030 | item/xhtml/p-bookwalker.xhtml / 0 | RETAILER_BRANDING |
+| CONTEXP-01-U031 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION |
+
+Main2646P/bonus50P/nonfiction77P/total2773P; full ruby/residual/image scopes before uncoded seal 2026-10-18T18:05:27.347969+00:00;72selected premises/117native-joined voices/7unchanged-contract local assessments/33ten-ledger appends. Supplemental12accepted/11already publishedof19; mixed5published; global percentage null. All31text units/2773P/28native images actually received. Main7bodies2646P plus distinct50P electronic bonus equals2696fiction P; remaining77P is frontmatter/creator afterword/provenance/credits/colophon. ZeroPwrappers/navigation are inspected, not secretly credited as narrative. Banners/cast quotes/composites/actual scene art/2decorativechibi closures/illustrator comments/logos have distinct roles; no integral image-only prose or lower creator-page fictional coda. Rumor and staged cat rescue are nested accounts with unequal truth authority.

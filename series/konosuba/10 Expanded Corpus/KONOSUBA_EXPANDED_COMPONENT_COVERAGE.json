@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-18T17:11:11.518523+00:00",
+  "updated_utc": "2026-10-18T18:33:42.020793+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -19,7 +19,8 @@
       "DUST-CONT",
       "EXP-01",
       "EXP-02",
-      "EXP-03"
+      "EXP-03",
+      "CONTEXP-01"
     ],
     "not_an_expanded_component_percentage": true,
     "published_full_gate_closed": [
@@ -32,7 +33,8 @@
       "DUST-07",
       "DUST-CONT",
       "EXP-01",
-      "EXP-02"
+      "EXP-02",
+      "EXP-03"
     ]
   },
   "objects": [
@@ -494,8 +496,8 @@
       "source_id": "EXP-03",
       "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
-      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
+      "remaining": "Supplied-edition scopes and publication gate closed; expanded synthesis/StageD/finalrelease remain.",
       "admission_utc": "2026-10-18T15:57:28.102926+00:00",
       "admission_sha256": "7f8c4267abdeeadc3df0191b2e76911144b33c4931ac8ccf7f145ce085c88c53",
       "preceding_full_gate_source": "f8198f2c6b7915c7340fb36e1a99f3f94fb431b3",
@@ -517,14 +519,57 @@
       "actual_textual_components": 52,
       "reading": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_DEEP_READING.md",
       "register": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_COMPONENT_REGISTER.json",
-      "receiving": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_RECEIVING_AND_PROVENANCE.json"
+      "receiving": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_RECEIVING_AND_PROVENANCE.json",
+      "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "publication_gate": {
+        "source_commit": "d2debefa1191927594547b89320923ebfb8fffd3",
+        "closed_utc": "2026-10-18T17:24:59.025949+00:00",
+        "receipt": "09 Audits and Manifests/KONOSUBA_EXP03_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+      }
     },
     {
       "source_id": "CONTEXP-01",
       "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
-      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "admission_utc": "2026-10-18T17:25:22.481780+00:00",
+      "admission_sha256": "0a9ed4ce7cde469c6cb15878d3d33c4c9dd963ec957d2cde2c4c5f1fb0b58196",
+      "preceding_full_gate_source": "d2debefa1191927594547b89320923ebfb8fffd3",
+      "initial_separate_admission_snapshot": {
+        "source_id": "CONTEXP-01",
+        "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+        "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+        "stage_C_status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+        "remaining": "Full actual bodies/ruby/residuals/images and uncodedseal before formal outcomes;17responsibilities/tenledgers/component receiving/publication. No credit from extraction.",
+        "admission_utc": "2026-10-18T17:25:22.481780+00:00",
+        "admission_sha256": "0a9ed4ce7cde469c6cb15878d3d33c4c9dd963ec957d2cde2c4c5f1fb0b58196",
+        "preceding_full_gate_source": "d2debefa1191927594547b89320923ebfb8fffd3"
+      },
+      "accepted_utc": "2026-10-18T18:32:42.189891+00:00",
+      "principal_P_slots": 2646,
+      "other_P_slots": 127,
+      "separate_bonus_narrative": true,
+      "bonus_P_slots": 50,
+      "nonfiction_P_slots": 77,
+      "individually_identified_bonus_narrative_groups": [
+        {
+          "id": "CONTEXP01-BONUS-ELECTRONIC-THIEF-GIRL",
+          "title": "盗賊少女、頑張ってます",
+          "native_units": [
+            "CONTEXP-01-U026"
+          ],
+          "native_member": "item/xhtml/p-017.xhtml",
+          "paragraph_slots": 50,
+          "viewpoint": "Megumin first person; after HQ/Eris descent, exact date unresolved",
+          "scope": "Complete separately titled electronic bonus actually read and substantively analyzed at its independent fictional/performed-role planes; healthy cat, actual false claims and public face cost distinguished."
+        }
+      ],
+      "all_native_images_actually_viewed": 28,
+      "actual_textual_components": 31,
+      "reading": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md",
+      "register": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_COMPONENT_REGISTER.json",
+      "receiving": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_RECEIVING_AND_PROVENANCE.json"
     },
     {
       "source_id": "CONTEXP-02",

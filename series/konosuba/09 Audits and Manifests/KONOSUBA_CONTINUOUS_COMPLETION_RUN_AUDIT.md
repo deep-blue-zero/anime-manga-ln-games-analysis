@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Explosions03whole edition accepted at52text/48imagescopes/fullgatepending; following source unadmitted; fullfixed41continues
+source_boundary: ContinuedExplosions01whole edition accepted at31text/28imagescopes/fullgatepending; following source unadmitted; fullfixed41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; Explosions03accepted52text/48image scopes/full publication gate pending; fullremainingprogramcontinues |
-| Next canonical operation | EXP03_PUBLICATION_GATE; no ContinuedExplosions01whole admission before exact fullgate/freshpublishedauthorityreload |
+| Current phase | Owner-resumed Stage C; ContinuedExplosions01accepted31text/28image scopes/full publication gate pending; fullremainingprogramcontinues |
+| Next canonical operation | CONTEXP01_PUBLICATION_GATE; no ContinuedExplosions02whole admission before exact fullgate/freshpublishedauthorityreload |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -980,3 +980,18 @@ ExactsourceEXP-03/15716486bytes/SHA256`22ee64b90d10075eec3769137e07bd59ee1815e22
 ## Explosions03 whole-edition analytical acceptance — 2026-10-18T17:10:59.994625+00:00
 
 Principal2614P/other48P/total2662P; full ruby/residual/image scopes before uncoded seal 2026-10-18T16:44:48.214319+00:00;87selected premises/114native-joined voices/7unchanged-contract local assessments/31ten-ledger appends. Supplemental11accepted/10already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Explosions03 fullgate closed and fresh authority reloaded — 2026-10-18T17:25:08.934403+00:00
+
+Sourced2debefa1191927594547b89320923ebfb8fffd3/tree76cfb6c15a7d9dad84b0cbab8af4479094a60acf,8516remote paths/35changedstreams exact. Source39148638857/job117737568810 and final39149121697/job117738960936 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39149083363/job117738856154NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh481project/66current/fourscores/original14blankreload2026-10-18T17:25:05.163789+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_EXP03_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. ContinuedExplosions01whole unopened; supplemental11of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## ContinuedExplosions01 separate native admission and pre-body seal — 2026-10-18T17:25:29.519925+00:00
+
+ExactsourceCONTEXP-01/18609246bytes/SHA256`60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f`,freshCRC/JapaneseOPF/31text/28image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## ContinuedExplosions01 whole-edition analytical acceptance — 2026-10-18T18:32:42.189891+00:00
+
+Main2646P/bonus50P/nonfiction77P/total2773P; full ruby/residual/image scopes before uncoded seal 2026-10-18T18:05:27.347969+00:00;72selected premises/117native-joined voices/7unchanged-contract local assessments/33ten-ledger appends. Supplemental12accepted/11already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
