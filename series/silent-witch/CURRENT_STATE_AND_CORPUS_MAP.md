@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.25"
+version: "1.26"
 last_updated: "2026-10-18"
 status: canonical
 scope: "Single canonical first-read surface; accepted foundation, V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes closed; continuous sequential run authorized 2026-10-14 through every supplied Japanese LN work and the architecture’s synthesis products"
@@ -103,9 +103,11 @@ The owner commissioned bounded methodology and architecture amendments to preven
 
 **Current analytical authority remains the completed V1 baseline.** Its readings, freezes, claims/revisions, arguments, synthesis, readiness assessment and historical receipts remain intact at their existing homes; the pre-amendment integrated state is `14f077fa43012012f9eca72fd83fc0cadb971ac6`. Historical bootstrap/V01 statements and the continuous-run record below describe their original stages. Source high-water mark, admitted corpus, source locks and structured execution/lock fields are unchanged. The new method is not a retrospective semantic certification of V1; the reported compression concerns remain unadjudicated source-to-analysis issues, and this task authorizes no V1 literary correction.
 
-**No second generation or qualification review is authorized or started.** Before a full independent run: owner review of the amendments; a separately authorized screened technical/method packet and bounded pilot; an independent source-grounded qualification review with resolved gate findings; then separate full-run authorization and a generation-specific initiation/namespace/authority decision under architecture section 11. V1 interpretation-bearing documents, framework history and known omissions must stay outside that analyst's working evidence set. A steward supplies screened governance from this single entrypoint; the packet is not a second entrypoint. Freeze completed independent interpretations before any separately authorized cross-generation comparison or authority adjudication.
+**Bounded qualification completed: QUALIFIED AS CORRECTED, 2026-10-18.** The owner separately authorized the pilot and independent source-grounded review. The [qualification record](08%20Audits%20and%20Manifests/SW_QUALIFICATION_REVIEW.md) binds the frozen `SW-QP1` reading, actual cumulative routes and claims for the complete textual prologue and Chapter 1 to the mandatory separate [erratum](08%20Audits%20and%20Manifests/SW_QUALIFICATION_PILOT_ERRATUM.md). An independent reviewer tested eleven source-selected groups and all seven claims, found one Moderate chronology defect, withheld initial qualification, and accepted the corrected composite after source and dependency recheck. No Major or Critical finding or unresolved reviewed finding remains. The original pilot, initial decision and correction history remain preserved; this is a bounded pipeline result, not certification of V1 or exhaustive retention.
 
-The amendment's branch publication and exact-head audits are recorded by Git/CI; owner semantic approval and main integration must be verified separately. No new analytical execution follows this amendment.
+**The full second analytical pass is not authorized or started.** It still requires separate owner authorization and a generation-specific initiation/namespace/authority decision under architecture section 11. V1 interpretation-bearing documents, framework history and known omissions must stay outside that analyst's working evidence set. A steward supplies screened governance from this single entrypoint; the packet is not a second entrypoint. Freeze completed independent interpretations before any separately authorized cross-generation comparison or authority adjudication.
+
+The owner approved the amendment, which was merged through PR #228 at `566ee1628412ca5b82721e8b693531493aa57aa2`; its explicit [main audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39165067082) passed. The subsequent qualification is separately commissioned and remains noncurrent analytical evidence. Its publication and exact-head audits are recorded by Git/CI; main integration of the qualification package is a separate decision.
 
 ## Authority and current work
 
@@ -160,6 +162,7 @@ The owner explicitly accepted the ten-file V1 bootstrap. Its paired method/archi
 | [Ledger architecture correction report](08%20Audits%20and%20Manifests/SW_LEDGER_ARCHITECTURE_CORRECTION_REPORT.md) | The 2026-10-14 split of claims and revisions, revision-event and claim-metadata audit, character-state audit and repairs, decisions on the remaining sections, and integrity checks. |
 | [Claims and revisions ledger](03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md) | Sole home of the 104 load-bearing claims and their 916 revision events, split from the master on 2026-10-14, with a current-view index, review receipts and the claim-review contract. |
 | [Diagnostic-retention amendment report](08%20Audits%20and%20Manifests/SW_DIAGNOSTIC_RETENTION_AMENDMENT_REPORT.md) | Six-path methodology amendment, preservation verification, validation scope and prerequisites for independent qualification; no literary findings. |
+| [Bounded qualification review](08%20Audits%20and%20Manifests/SW_QUALIFICATION_REVIEW.md) | Frozen SW-QP1 prose pilot with actual cumulative routing; independent source-first review, one Moderate correction and recheck; qualified only with the linked erratum. No full second pass. |
 | [Volume reading template](00%20Frameworks%20and%20Methods/SW_VOLUME_READING_TEMPLATE.md) | Reusable deep-reading contract; explicitly not V01. |
 | [Bootstrap report](08%20Audits%20and%20Manifests/SW_BOOTSTRAP_REPORT.md) | Design precedents, actual accesses/checks, limitations and acceptance gates. |
 | [Exact authored manifest](08%20Audits%20and%20Manifests/SW_BOOTSTRAP_PATH_MANIFEST.json) | Ten-path staging allowlist and bootstrap identity. |
