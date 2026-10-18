@@ -362,9 +362,11 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `kss07`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-07, 不平と不満と白川亜美: native author parts 07–08 form one late-April first-university-year phone call with Maika. Coverage is limited to this story and its analyzed historical information boundary; original-novel correspondence is contextual support, not continuous novel coverage. Later roommate disclosures and subsequent supplements are not enrolled.; continuity `original-light-novel`
+  - `kss07`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-07, 不平と不満と白川亜美: native author parts 07–08 form one late-April first-university-year phone call with Maika. Coverage is limited to this story and its analyzed historical information boundary; original-novel correspondence is contextual support, not continuous novel coverage. Later roommate disclosures and supplements are outside this April coverage item.; continuity `original-light-novel`
+  - `kss08`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-08, 宇都宮舞香の夏休み: Ami’s hometown mall reunion with Maika, including performed welcome, perceptions of change and questions after receiving Shiori’s explicit roommate identification. First-university-summer placement is an analytical inference; exact day and year are unestablished. Receipt of information does not establish settled belief. April knowledge remains separate, and Maika’s full answer and the novel’s later video call are outside this coverage.; continuity `original-light-novel`
 - Reviewed current evidence:
   - [`kss07-call` — KSS-07: old company, performed complaint, curiosity and local restraint](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_07_DEEP_READING.md) — **active provisional authority**
+  - [`kss08-homecoming` — KSS-08: familiar welcome, changed information and uncertain assent](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_08_DEEP_READING.md) — **active provisional authority**
 
 ### An
 
@@ -4123,8 +4125,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `kss08`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-08, 宇都宮舞香の夏休み: Maika’s predeparture mother call, sent text and phone conversation with Shiori, followed by her actual hometown reunion with Ami. First-university-summer placement is an analytical inference; exact day and year are unestablished. Departure chores, parental meeting, full stay duration and detailed household retelling remain unshown. Linked novel scenes are context, not continuous novel coverage.; continuity `original-light-novel`
   - `kss11`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-11, 宇都宮舞香と面白ガール: one year-end phone call with Miyagi Shiori and Maika’s preceding holiday wishes and channel deliberation. Exact day and year are unestablished. Coverage is limited to this story; novel and earlier-supplement comparisons provide context, not continuous coverage. The conflicting parental-home accounts remain unresolved.; continuity `original-light-novel`
 - Reviewed current evidence:
+  - [`kss08-homecoming` — KSS-08: family, autonomy, advocacy and homecoming revaluation](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_08_DEEP_READING.md) — **active provisional authority**
   - [`kss11-call` — KSS-11: holiday autonomy, chosen concern and reciprocal teasing](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_11_DEEP_READING.md) — **active provisional authority**
 
 ### Makino Kouhei
