@@ -562,3 +562,33 @@ Native6713820bytes/SHA256`bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d
 | U015–019 | Allcover/colophon20P/use3P/retailer/nonspine nav | Full art/metadata/notices/reference, no separate bonus |
 
 Principal2733P/other60P/total2793P. Images014/016/018 depict arrival/pastbattle/princess rather than all neighboring actions. Original98anchors exact and interval-time unknowns retained. One central Japanese blend warrants L3; no primaryH3/H4quota or fantasy shortcut. Earlier additive Dust04N01precision travels in this publication. Frozen scores and14futurefields unchanged.
+
+
+## DUST-06 accepted whole-edition routes — 2026-10-18T10:04:53.783186+00:00
+
+Native4582670bytes/SHA256`d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1`. [Component register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [63selectedpremises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_HUMOR_REGISTER.md), [107voicecontexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_VOICE_REGISTER.md), [seven assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| DUST-06-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART_WRAPPER |
+| DUST-06-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | FRONT_PRINCESS_ART |
+| DUST-06-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | IMAGE_CONTENTS |
+| DUST-06-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | UNCAPTIONED_FRONT_YUN_ART |
+| DUST-06-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | CAPTIONED_FRONT_PRINCESS_ART |
+| DUST-06-U006 | item/xhtml/p-titlepage.xhtml / 0 | TITLE_CREDITS |
+| DUST-06-U007 | item/xhtml/p-caution.xhtml / 4 | CAUTION_PARATEXT |
+| DUST-06-U008 | item/xhtml/p-toc-001.xhtml / 9 | TEXT_CONTENTS |
+| DUST-06-U009 | item/xhtml/p-001.xhtml / 0 | EDITORIAL_CHARACTER_PROFILES |
+| DUST-06-U010 | item/xhtml/p-002.xhtml / 640 | PRINCIPAL_CHAPTER_ONE |
+| DUST-06-U011 | item/xhtml/p-003.xhtml / 1033 | PRINCIPAL_CHAPTER_TWO_WITH_PAST_FLIGHT |
+| DUST-06-U012 | item/xhtml/p-004.xhtml / 597 | PRINCIPAL_CHAPTER_THREE_AND_LEEN_VIEWPOINT |
+| DUST-06-U013 | item/xhtml/p-005.xhtml / 640 | PRINCIPAL_CHAPTER_FOUR |
+| DUST-06-U014 | item/xhtml/p-006.xhtml / 67 | PRINCIPAL_EPILOGUE |
+| DUST-06-U015 | item/xhtml/p-007.xhtml / 40 | AUTHOR_AFTERWORD_AND_CONTRIBUTOR_IMAGE |
+| DUST-06-U016 | item/xhtml/p-allcover-001.xhtml / 0 | WRAP_COVER_MARKETING_FLAPS |
+| DUST-06-U017 | item/xhtml/p-colophon.xhtml / 20 | ELECTRONIC_COLOPHON |
+| DUST-06-U018 | item/xhtml/p-colophon2.xhtml / 3 | USE_NOTICE_PARATEXT |
+| DUST-06-U019 | item/xhtml/p-bookwalker.xhtml / 0 | RETAILER_LOGO_WRAPPER |
+| DUST-06-U020 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION_REFERENCE |
+
+Principal2977P/other76P/total3053P; full ruby/residual/image scopes before uncoded seal 2026-10-18T09:47:38.481368+00:00;63selected premises/107native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental6accepted/5already publishedof19; mixed5published; global percentage null. All20text/19image supplied-edition scopes actually read; principal U010-0142977P, other76P. Past flight, current Dust, Leen alternate viewpoint, explicit lies, mediated legend and letters retain access. IMG015pastnap/IMG016farewellsword/IMG018earlieropenhand do not certify unpictured night/vow/kiss/lift/flight. Front/profile/wrap/contributor/notice planes unequal; no separately supplied bonus/audio/movie credit.

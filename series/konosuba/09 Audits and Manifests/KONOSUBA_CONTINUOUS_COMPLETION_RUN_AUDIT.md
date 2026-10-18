@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Dust05whole edition accepted19text/21image scopes/full publication gate pending; Dust04gateclosed; Dust06wholeunopened; fullfixed41continues
+source_boundary: Dust06whole edition accepted at20text/19imagescopes/fullgatepending; following source unadmitted; fullfixed41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; Dust05accepted19text/21image scopes/full publication gate pending; fullremainingprogramcontinues |
-| Next canonical operation | EXPANDED_DUST05_PUBLICATION_GATE; no Dust06whole admission before exact fullgate/freshpublishedauthorityreload |
+| Current phase | Owner-resumed Stage C; Dust06accepted20text/19image scopes/full publication gate pending; fullremainingprogramcontinues |
+| Next canonical operation | DUST06_PUBLICATION_GATE; no Dust07whole admission before exact fullgate/freshpublishedauthorityreload |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -880,3 +880,23 @@ ExactsourceDUST-05/6713820bytes/SHA256`bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed
 ## Dust05 whole-edition analytical acceptance — 2026-10-18T09:04:10.135762+00:00
 
 All19text/21image scopes,principal2733P/other60P/total2793P,08:23:51UTCuncodedseal before68selectedpremises/98nativevoice/7unchangedquestionassessments/34ten-ledgerappends/full17responsibilityreading. [Receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_RECEIVING_AND_PROVENANCE.json) retains same informed root/exposure, partialcomparability, exact oldname/transform, actual termchecks/vetoes, coercion/costs/residualharm/paymentpermission. Dust04N01additive correction preserves original historical artifacts and removes invented bodily threshold; no new Dust05formaloutcome beforewhole seal. All66current/72historical/fourscores/original14blanks exact. Dust04gate joins this publication;5accepted/4publishedof19,mixed5/globalpercentage null. Fullgate/freshreload required before Dust06whole separateadmission. Fullremainingprogramcontinues.
+
+
+## Dust05 fullgate closed and fresh authority reloaded — 2026-10-18T09:17:44.345154+00:00
+
+Sourceaafa7d65be8738e6862374a33ff5b720fa3c7da8/tree78e9f0588afbfb935fa098c95f392f3a849d6f70,8406remote paths/35changedstreams exact. Source39114201812/job117636525043 and final39114517860/job117637456270 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39114484477/job117637359384NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh371project/66current/fourscores/original14blankreload2026-10-18T09:17:44.149379+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_DUST05_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Dust04additive N01coercive-scope correction is included/published/full-gate-closed by this containing source; original Dust04historical report/assessment remain byteexact. Dust06whole unopened; supplemental5of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## Current-map historical retention at the Dust05 boundary — 2026-10-18T09:17:57.041210+00:00
+
+Under project-initiation policy§3.5, the entire prior current map was moved verbatim into the linked root project changelog (snapshot SHA256`9c5c8aa2c4623e4aa35a771847583b48621309ca78dca439a1fc38659074ed82`), including all dated gates, pauses, old exposure limits and source transitions. The concise entrypoint retains live structured operations, governing methods, fixed41source scopes, frozen/validation boundaries, legacy paratext exposure, current Dust04precision and outstanding program. No original analytical/frozen artifact changed. Gate/reload preceded this architectural maintenance and any next source admission. Publication IDs remain in audits/Git, not current-entrypoint prose.
+
+
+## Dust06 separate native admission and pre-body seal — 2026-10-18T09:18:47.287658+00:00
+
+ExactsourceDUST-06/4582670bytes/SHA256`d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1`,freshCRC/JapaneseOPF/20text/19image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Dust06 whole-edition analytical acceptance — 2026-10-18T10:04:53.783186+00:00
+
+Principal2977P/other76P/total3053P; full ruby/residual/image scopes before uncoded seal 2026-10-18T09:47:38.481368+00:00;63selected premises/107native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental6accepted/5already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Dust07 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
