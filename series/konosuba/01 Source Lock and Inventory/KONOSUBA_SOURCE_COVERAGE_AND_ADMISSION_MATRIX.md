@@ -243,3 +243,18 @@ TRPG-ADV exact123248665bytes/SHA256`2efe00b0a914cf725dfd8a52a1983b8f633705330054
 ## TRPG Advanced supplied-edition acceptance — 2026-10-18T05:03:55.185963+00:00
 
 [Advanced full reading](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md) is accepted at331actual individual component scopes, containing publication/full gate pending. All eligible continuous bodies were read after separate exact admission and complete uncoded seal;282uncoded observations/49original context witnesses remain exact, with100selectedpremises/49formalvoice/30ten-ledger additions. All331native/archive/local wrapper-image joins were reverified; same informed root is not independent replication. Both Advanced overlays preserve initial metadata/admission histories and the other40object/register rows. Five mixedprograms accepted including this pending publication, four published; supplemental whole editions2of19; global narrative-component percentage null. Close exact gate/reload before Dust03 admission.
+
+
+## TRPG Advanced exact publication reconciliation — 2026-10-18T05:23:36.166158+00:00
+
+Advanced source`c121df158194c0fd01608899ed07080520b9cfc0`/tree`4ee04aad4fec7e1989f9ccc33771506a6f237f8e` is accepted/published/full-gate closed at331individual component scopes. All8351remote paths/32changedstreams match. Source39099672458/final39100029214each passed352fulltests,allfive non-success counterszero,selectiondisabled;NO_OPhousekeeping39100006603dispatched finalactualsource and exact integrationstatus succeeded. [Gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_TRPG_ADV_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes earlier pending history. Fresh316project/66current/fourscores/original14blank reload completed2026-10-18T05:23:33.141746+00:00;72historicalpins remain exact. Fiveof5mixedprograms published at their stated scopes; supplemental whole editions2of19/globalpercentage null. Next separate Dust03 admission, still unopened here; full remaining program continues.
+
+
+## Dust03 separate native admission — 2026-10-18T05:25:42.861042+00:00
+
+DUST-03exactnative18686443bytes/SHA256`58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040`,freshCRC/jaOPF,25textunits/24imagesstructurallyprepared after closedAdvancedgate/freshpublishedreload. Admission/pre-bodyseal contain0actualnewparagraphs/0images; ordered whole-edition source-first reading active/unaccepted. Original seven questions/fourteen blanks and frozen scores remain exact. Both Dust03overlays preserve other40source rows; bookaccounting2of19/mixed5of5published/globalpercentage null.
+
+
+## Dust03 supplied-edition acceptance — 2026-10-18T06:18:22.445096+00:00
+
+[Full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md) is accepted at25actual textual/24native image component scopes, containing exact publication/full gate pending. Principal2755P/other131P include the complete50Pbonus; all ruby and nonparagraph residuals actually read, with a complete uncoded seal before60selectedwholepremises/77native-verifiedvoice/7localassessments/34ten-ledger additions. [Current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json) preserve source-first image/section-label errors, duplicate prologue, actual rescue obstruction, exact spear exceptions and checking counterevidence. Both Dust03 overlays preserve original admission and other40rows. Three supplemental whole editions accepted/twoalready published; allfive mixedprograms published; globalcomponentpercentage null. Complete exact gate/reload before Dust04 admission; full remaining program continues.

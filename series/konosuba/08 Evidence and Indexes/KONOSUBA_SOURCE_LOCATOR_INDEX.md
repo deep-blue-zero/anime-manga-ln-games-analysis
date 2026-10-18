@@ -502,3 +502,22 @@ Native123248665bytes/SHA256`2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9
 | Appendix/end matter |S312–331|Numeric/index inspection, empty forms, repeated cover art, colophon/retailer|
 
 Printedpage≈spine−2does not replace exact native rows, especially unnumbered art/forms/covers. SelectedU001–100/V001–049and ledgerCS/RS/DE/CC/HM/JV/KN/OP/SO/PV01–03are descriptive, not newJ01/J02orholdout trials. Croak/fortuneL3hasactualsoundwarrant;staging/gameabstractionisnotautomaticH3/H4. Sealeduncoded notes and all frozen authority/score/blank fields remain unchanged.
+
+
+## DUST-03 accepted whole-edition routes — 2026-10-18T06:18:22.445096+00:00
+
+Native18686443bytes/SHA256`58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040`. [All25text/24image dispositions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md), [selected60premises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_HUMOR_REGISTER.md), [77voice contexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_VOICE_REGISTER.md), [seven local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json) retain exact native routes.
+
+| Component | Native route / literal P slots | Current authority |
+|---|---|---|
+| U001–009 | Cover/front/caption/profile/title/caution/contents | Actual unequal visual/editorial/paratext scopes; IMG002currentYunyun correction |
+| U010 | p-002.xhtml /31P | Prologue duplicates the later U013 privacy event |
+| U011 | p-003.xhtml /813P | Chapter1; actual provider agency, coercion and libation |
+| U012 | p-004.xhtml /545P | Chapter2; ring provenance before commitment, resale refusal after |
+| U013 | p-005.xhtml /913P | Chapter3; rescue obstruction, mediated past and false dream inference |
+| U014–016 | p-006/007/008 /370+0+44P | Final chapter/flight; image20 dependent illustration, U016exact spear rule |
+| U017 | p-009.xhtml /39P | Actual epilogue confirmed by image21banner; gratitude checks disguise |
+| U018–020 | p-010/011/012 /27+4+50P | Author afterword, bonus title and complete separate bonus |
+| U021–025 | Allcover/colophons/retailer/nonspine navigation | Marketing/credits/legal/reference, not extra plot trials |
+
+Native one-basedPincludes blank/image slots; all ruby readings and nonparagraph residuals received. U010/U013and caption reuse do not multiply events. Explicit black/blue-eyes idiom supports L3; metaphors have actual H4license; no H3/H4from staging/fantasy alone. All34ledger rows have separate exact current-prefix controls and source/adverse limits. Original frozen14futurefields remain blank.

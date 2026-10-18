@@ -5349,7 +5349,68 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "actual_admission_utc": "2026-10-18T05:23:57.419984+00:00",
+        "native_bytes": 18686443,
+        "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+        "admission_sha256": "30161e56e9a93714cbb39b7c84cde39d63621605b28cfe22c88ac06a40ac7628",
+        "native_textual_units": 25,
+        "native_images": 24,
+        "ZIP_CRC": "PASS_FRESH",
+        "language": [
+          "ja"
+        ],
+        "OPF_member": "item/standard.opf",
+        "OPF_sha256": "63953e65924b62b1ad99ca0bacb94c640c74ad107da7f840c51a3aac5df6a18a",
+        "preceding_full_gate_source": "c121df158194c0fd01608899ed07080520b9cfc0",
+        "preceding_gate_sha256": "c47c75b2c87a94229f1954bec745047775687a559dc731a3e710afbe1e99789d",
+        "preceding_published_reload_sha256": "de7bf6f67938cdf3b537fc1bbd8c1f4bd106c6aef88ac51d63cc5e3e8583a1d4",
+        "pre_body_context_seal_sha256": "3c6824fb13fe65c959d4f75f765714ebc9d5a566ee782a983f66f59a0fb13421",
+        "actual_reading_at_admission": "0storyparagraphs/0images; structural extraction not literary completion. Whole-edition source-first reading begins only after pre-body context seal.",
+        "remaining": "Exact containing publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before Dust04 separate admission. Other-source completeness unasserted.",
+        "historical_metadata_fields": "Earlier metadata-only statuses retained unchanged; this later admission overlay supplies current scope.",
+        "initial_separate_admission_snapshot": {
+          "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "actual_admission_utc": "2026-10-18T05:23:57.419984+00:00",
+          "native_bytes": 18686443,
+          "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+          "admission_sha256": "30161e56e9a93714cbb39b7c84cde39d63621605b28cfe22c88ac06a40ac7628",
+          "native_textual_units": 25,
+          "native_images": 24,
+          "ZIP_CRC": "PASS_FRESH",
+          "language": [
+            "ja"
+          ],
+          "OPF_member": "item/standard.opf",
+          "OPF_sha256": "63953e65924b62b1ad99ca0bacb94c640c74ad107da7f840c51a3aac5df6a18a",
+          "preceding_full_gate_source": "c121df158194c0fd01608899ed07080520b9cfc0",
+          "preceding_gate_sha256": "c47c75b2c87a94229f1954bec745047775687a559dc731a3e710afbe1e99789d",
+          "preceding_published_reload_sha256": "de7bf6f67938cdf3b537fc1bbd8c1f4bd106c6aef88ac51d63cc5e3e8583a1d4",
+          "pre_body_context_seal_sha256": "3c6824fb13fe65c959d4f75f765714ebc9d5a566ee782a983f66f59a0fb13421",
+          "actual_reading_at_admission": "0storyparagraphs/0images; structural extraction not literary completion. Whole-edition source-first reading begins only after pre-body context seal.",
+          "remaining": "Full eligible principal/bonus/afterword/components and images; complete uncoded seal before outcomes;17responsibilities/tenledgers/qualified receiving/publication.",
+          "historical_metadata_fields": "Earlier metadata-only statuses retained unchanged; this later admission overlay supplies current scope."
+        },
+        "accepted_utc": "2026-10-18T06:18:22.445096+00:00",
+        "actual_reading": "All25textual components/full eligible continuous fiction and bonus/afterword/front/end/navigation/ruby/residuals plus all24native images actually read/viewed; source-first complete seal before formal outcomes.",
+        "principal_P_slots": 2755,
+        "other_P_slots": 131,
+        "bonus_P_slots": 50,
+        "uncoded_seal_utc": "2026-10-18T05:55:31.063514+00:00",
+        "uncoded_seal_sha256": "c3b720dca1aa04919ce86995a291bc86092d152b95ab868b3a6935710ac42813",
+        "selected_whole_premises_not_census": 60,
+        "native_verified_voice_witnesses": 77,
+        "unchanged_question_local_assessments": 7,
+        "ten_ledger_appends": 34,
+        "reading_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "current_edition_reconciliation": "Actual Japanese electronic special colophon2018-07-01/ver003; all native components separately dispositioned; original package/bibliographic snapshot above remains historical.",
+        "model_scope": "N01 direct contrary; N02/N03 full triggers not tested; N03 exact wording resolved; N04mixed; N05partial; N06/N07bounded. Frozen authority/fourscores/original14blanks unchanged, no pristine blindness."
+      }
     },
     {
       "source_id": "DUST-04",
@@ -11122,7 +11183,7 @@
       ],
       "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "actual_admission_utc": "2026-10-18T02:48:19.409431+00:00",
         "admission_sha256": "bddebca5cad084e939ff27ff4f8b1c76c5193ebb2bb0832608b1bd0fa954bdd9",
         "native_bytes": 123248665,
@@ -11139,7 +11200,7 @@
         "preceding_published_reload_sha256": "4ea033fe05e3b159bf5be5b61167b8d185151e92f564d8f8d7cc1e7ee571c38e",
         "actual_reading": "All331nativepages actually viewed in source order; all eligible continuous replay/rules/flavor/reference/scenario prose read at individual scopes; dense numeric/index/form/visual limits retained.",
         "historical_metadata_fields": "Original metadata-only no-admission state retained; this later actual admission overlay supplies current operation",
-        "remaining": "Containing exact publication/readback/fullsourceaudit/housekeeping/finalactualsourceaudit/status/freshreload before Dust03 separate admission. Dense rules/index certification and other-source completeness not asserted.",
+        "remaining": "No publication blocker for accepted supplied-edition scopes; individual dense numeric/index and source-plane limits remain.",
         "initial_admission_and_partial_progress_snapshot": {
           "status": "SEPARATELY_ADMITTED_ALL331_ACTUAL_COMPONENT_INSPECTION_READING_ACTIVE_NOT_ACCEPTED",
           "actual_admission_utc": "2026-10-18T02:48:19.409431+00:00",
@@ -11170,7 +11231,13 @@
         "component_register": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
         "receiving_record": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json",
         "current_qualifications": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json",
-        "model_scope": "Frozen66current/72historical/fourscores/original14blanks unchanged; no new fifthholdout, mainJ01/J02pool or independent reader."
+        "model_scope": "Frozen66current/72historical/fourscores/original14blanks unchanged; no new fifthholdout, mainJ01/J02pool or independent reader.",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "c121df158194c0fd01608899ed07080520b9cfc0",
+          "closed_utc": "2026-10-18T05:23:29.595043+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_TRPG_ADV_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     }
   ],
@@ -11476,7 +11543,68 @@
         "embedded_bonus_fiction"
       ],
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "actual_admission_utc": "2026-10-18T05:23:57.419984+00:00",
+        "native_bytes": 18686443,
+        "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+        "admission_sha256": "30161e56e9a93714cbb39b7c84cde39d63621605b28cfe22c88ac06a40ac7628",
+        "native_textual_units": 25,
+        "native_images": 24,
+        "ZIP_CRC": "PASS_FRESH",
+        "language": [
+          "ja"
+        ],
+        "OPF_member": "item/standard.opf",
+        "OPF_sha256": "63953e65924b62b1ad99ca0bacb94c640c74ad107da7f840c51a3aac5df6a18a",
+        "preceding_full_gate_source": "c121df158194c0fd01608899ed07080520b9cfc0",
+        "preceding_gate_sha256": "c47c75b2c87a94229f1954bec745047775687a559dc731a3e710afbe1e99789d",
+        "preceding_published_reload_sha256": "de7bf6f67938cdf3b537fc1bbd8c1f4bd106c6aef88ac51d63cc5e3e8583a1d4",
+        "pre_body_context_seal_sha256": "3c6824fb13fe65c959d4f75f765714ebc9d5a566ee782a983f66f59a0fb13421",
+        "actual_reading_at_admission": "0storyparagraphs/0images; structural extraction not literary completion. Whole-edition source-first reading begins only after pre-body context seal.",
+        "remaining": "Exact containing publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before Dust04 separate admission. Other-source completeness unasserted.",
+        "historical_metadata_fields": "Earlier metadata-only statuses retained unchanged; this later admission overlay supplies current scope.",
+        "initial_separate_admission_snapshot": {
+          "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "actual_admission_utc": "2026-10-18T05:23:57.419984+00:00",
+          "native_bytes": 18686443,
+          "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+          "admission_sha256": "30161e56e9a93714cbb39b7c84cde39d63621605b28cfe22c88ac06a40ac7628",
+          "native_textual_units": 25,
+          "native_images": 24,
+          "ZIP_CRC": "PASS_FRESH",
+          "language": [
+            "ja"
+          ],
+          "OPF_member": "item/standard.opf",
+          "OPF_sha256": "63953e65924b62b1ad99ca0bacb94c640c74ad107da7f840c51a3aac5df6a18a",
+          "preceding_full_gate_source": "c121df158194c0fd01608899ed07080520b9cfc0",
+          "preceding_gate_sha256": "c47c75b2c87a94229f1954bec745047775687a559dc731a3e710afbe1e99789d",
+          "preceding_published_reload_sha256": "de7bf6f67938cdf3b537fc1bbd8c1f4bd106c6aef88ac51d63cc5e3e8583a1d4",
+          "pre_body_context_seal_sha256": "3c6824fb13fe65c959d4f75f765714ebc9d5a566ee782a983f66f59a0fb13421",
+          "actual_reading_at_admission": "0storyparagraphs/0images; structural extraction not literary completion. Whole-edition source-first reading begins only after pre-body context seal.",
+          "remaining": "Full eligible principal/bonus/afterword/components and images; complete uncoded seal before outcomes;17responsibilities/tenledgers/qualified receiving/publication.",
+          "historical_metadata_fields": "Earlier metadata-only statuses retained unchanged; this later admission overlay supplies current scope."
+        },
+        "accepted_utc": "2026-10-18T06:18:22.445096+00:00",
+        "actual_reading": "All25textual components/full eligible continuous fiction and bonus/afterword/front/end/navigation/ruby/residuals plus all24native images actually read/viewed; source-first complete seal before formal outcomes.",
+        "principal_P_slots": 2755,
+        "other_P_slots": 131,
+        "bonus_P_slots": 50,
+        "uncoded_seal_utc": "2026-10-18T05:55:31.063514+00:00",
+        "uncoded_seal_sha256": "c3b720dca1aa04919ce86995a291bc86092d152b95ab868b3a6935710ac42813",
+        "selected_whole_premises_not_census": 60,
+        "native_verified_voice_witnesses": 77,
+        "unchanged_question_local_assessments": 7,
+        "ten_ledger_appends": 34,
+        "reading_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "current_edition_reconciliation": "Actual Japanese electronic special colophon2018-07-01/ver003; all native components separately dispositioned; original package/bibliographic snapshot above remains historical.",
+        "model_scope": "N01 direct contrary; N02/N03 full triggers not tested; N03 exact wording resolved; N04mixed; N05partial; N06/N07bounded. Frozen authority/fourscores/original14blanks unchanged, no pristine blindness."
+      }
     },
     {
       "source_id": "DUST-04",
@@ -11807,7 +11935,7 @@
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
       "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "actual_admission_utc": "2026-10-18T02:48:19.409431+00:00",
         "admission_sha256": "bddebca5cad084e939ff27ff4f8b1c76c5193ebb2bb0832608b1bd0fa954bdd9",
         "native_bytes": 123248665,
@@ -11824,7 +11952,7 @@
         "preceding_published_reload_sha256": "4ea033fe05e3b159bf5be5b61167b8d185151e92f564d8f8d7cc1e7ee571c38e",
         "actual_reading": "All331nativepages actually viewed in source order; all eligible continuous replay/rules/flavor/reference/scenario prose read at individual scopes; dense numeric/index/form/visual limits retained.",
         "historical_metadata_fields": "Original metadata-only no-admission state retained; this later actual admission overlay supplies current operation",
-        "remaining": "Containing exact publication/readback/fullsourceaudit/housekeeping/finalactualsourceaudit/status/freshreload before Dust03 separate admission. Dense rules/index certification and other-source completeness not asserted.",
+        "remaining": "No publication blocker for accepted supplied-edition scopes; individual dense numeric/index and source-plane limits remain.",
         "initial_admission_and_partial_progress_snapshot": {
           "status": "SEPARATELY_ADMITTED_ALL331_ACTUAL_COMPONENT_INSPECTION_READING_ACTIVE_NOT_ACCEPTED",
           "actual_admission_utc": "2026-10-18T02:48:19.409431+00:00",
@@ -11855,7 +11983,13 @@
         "component_register": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
         "receiving_record": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json",
         "current_qualifications": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json",
-        "model_scope": "Frozen66current/72historical/fourscores/original14blanks unchanged; no new fifthholdout, mainJ01/J02pool or independent reader."
+        "model_scope": "Frozen66current/72historical/fourscores/original14blanks unchanged; no new fifthholdout, mainJ01/J02pool or independent reader.",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "c121df158194c0fd01608899ed07080520b9cfc0",
+          "closed_utc": "2026-10-18T05:23:29.595043+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_TRPG_ADV_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     }
   ],
