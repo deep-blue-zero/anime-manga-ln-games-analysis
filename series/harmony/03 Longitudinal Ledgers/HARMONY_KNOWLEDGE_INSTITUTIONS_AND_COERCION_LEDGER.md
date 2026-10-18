@@ -5,7 +5,7 @@ artifact_type: longitudinal_ledger
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.22'
+version: '0.23'
 status: active_provisional
 scope: Knowledge, institutions, technology and coercion ledger
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U020 interstice34 text/part0013.html and actual epilogue heading35/body36 text/part0015.html through2171rawbodycp/literal body-etml closure; ancillary37–40 classified excluded; all40spine occurrences accounted; next source NONE
@@ -20,6 +20,8 @@ evidence_rows: 137
 ---
 
 # Knowledge, institutions, technology and coercion ledger
+
+**Current G3 wording qualification:** the [attributable 合意員 erratum](#g3-attributable-wording-erratum--2026-10-18) governs present use of K099’s target-class wording; all original event rows and G2 arguments remain preserved.
 
 **Current G2 retrieval:** [Institutional and mechanism reconciliation](#g2-current-institutional-and-mechanism-reconciliation) selects complete-novel reliance. The attributed G1 rows below retain their original scene/disclosure boundaries and do not override later implementation/end-state evidence.
 
@@ -237,3 +239,12 @@ This is the current retrospective retrieval layer for all137 HAR-K records. Thei
 **The admitted end state.** K131–K137 supply a new level of support: the epilogue narrates the elders' actual code/biometric input, WatchMe-user delivery and the removal of the receiving I. This closes the earlier still-unenacted-programme question in current reliance. The scope is the explicitly described billions of installed users; totalizing humanity rhetoric does not provide a new exact census of every unimplanted person. Relief is narrated affirmatively, including disappearance of suicide and almost all conflict. Authentication of authorizers is not consent of recipients. Residual affective functions and outward reactions remain distinct from subjectivity; the ETML-reader account is a fictional artifact function, while XHTML is its actual display encoding. The later collective/system grammatical position is not an independently identified new conscious actor or proof of a surviving conscious Tuan. These unresolved enunciative/phenomenological issues and absolute future restoration remain bounded under CL163–CL169, not silently converted into present technical ignorance about whether the narrated event occurred.
 
 **Exhaustive ownership closeout.** The grouped retrieval above disposes K001–K137 exactly once or with explicit cross-reference; overlapping thematic references do not create replacement records. Every original record keeps its speaker/knower/observer/recipient, scene versus disclosure time, evidence and original limits. Current material changes route to CL009v2/CL012v2/CL022v2/CL027v2/CL050v2/CL053v2/CL058v2/CL066v2/CL105v2/CL107v2 and the prior accepted selectors; no new K ID is required because G2 admits no new institutional event. The remaining gaps are exact private/operational and witness-lineage limits, not missing source units or a reason to call the explicit fictional ending merely speculative.
+
+
+## G3 attributable wording erratum — 2026-10-18
+
+**Disposition: REVISE the inherited target-class reading; preserve historical bytes.** During the authorized G3 institutional review, a Harmony-only specialist identified and the integration owner independently verified a consequential English misreading in K099, historical CL128v1 and frozen HAR-U016’s “Limited permissions and an incomplete explanation” discussion. The phrases “council-member authority,” “committee-member reward authority,” and “several named-office holders” incorrectly imply a restricted target class of officials. They remain recoverable in their historical homes; this current erratum supersedes that reading without rewriting them.
+
+The exact Japanese [HAR-U016-E013](../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e013) says `幾つかの生府の合意員について`: members of **several life governments**. 幾つかの modifies 生府, and 合意員 does not itself establish a council office. The ordinary contract-membership use in [HAR-U017-E005](../01%20Sequential%20Readings/HAR-U017_PART_IV_02_DEEP_READING.md#har-u017-e005), and Miaha’s later several-government server/backdoor account in [HAR-U019-E007/E009](../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e007), support this reading. Present reliance is: **Oscar attributes limited authority to manipulate reward systems of members of several life governments; she does not restrict the affected class to a few privileged council officials.** This remains an insider report, not an inspected authority log, universal deployment census or proof of each individual death mechanism.
+
+The correction matters to the scale and social distribution of access; it supplies no extra code authority. The elders’ exclusive several codes remain separately established by U019-E009 and the actual enactment in U020-E004. CL128v2’s revised world-love/motive account remains current and unchanged. G2’s current institutional and claim arguments do not assert the mistaken council target class; their broader distinctions survive. G3 institutional, Miaha, Oscar, narration and ending dependencies must use this population scope. No other row, identity, source locator, original forecast or frozen reading is altered. This is an attributable analytical wording correction against the unchanged exact Japanese witness, not a newly admitted source or authenticated edition comparison.
