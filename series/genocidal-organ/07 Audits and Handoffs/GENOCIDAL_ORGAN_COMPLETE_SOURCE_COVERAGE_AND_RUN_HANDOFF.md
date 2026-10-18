@@ -5,13 +5,13 @@ artifact_type: audit_receipt
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '1.0'
+version: '1.1'
 status: active_provisional
 scope: Complete bounded primary-source coverage, required run reconciliation and subsequent-work handoff
 source_boundary: GO-JP-EPUB-001 all44spine occurrences;28natural narrative units through epilogue40/41;nextsourceNONE
 canonical_home: series/genocidal-organ/07 Audits and Handoffs/GENOCIDAL_ORGAN_COMPLETE_SOURCE_COVERAGE_AND_RUN_HANDOFF.md
 created: '2026-10-17'
-review_status: SOURCE_G1_INDEPENDENTLY_ACCEPTED_CLOSING_PUBLICATION_AUDIT_SEPARATE
+review_status: INDEPENDENT_G1_CLOSING_AUDIT_PASS_REPAIR_PUBLICATION_SEPARATE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -146,6 +146,42 @@ Inherited familiarity and separately dated model-prior recognition/renewal/admit
 
 ## Subsequent-work handoff and integration disposition
 
-**Next source operation: NONE.** The present source authorization is exhausted. PR188 remains OPEN_DRAFT on the continuing stable branch under the owner-controlled integration hold. Source G1, mandatory run ledger closeout and preserved sequential publications do not authorize protected-main integration or formal downstream gates. No governance terminal-closure record is invented and no protected-main merge is performed here.
+**Next source operation: NONE.** The present source authorization is exhausted. At this handoff's original source-run exit, PR188 was OPEN_DRAFT on the continuing stable branch under the owner-controlled integration hold. Its later merge and the separate navigation-repair hold are reconciled in the dated closing audit below. Source G1, mandatory run ledger closeout and preserved sequential publications do not authorize formal downstream gates. No governance terminal-closure record is invented.
 
 A separately authorized later task should begin from this entrypoint/source map, all3current owners and the exact frozen28reading corpus, recover the final accepted closing Git/status boundary, and declare its own scope before work. FormalG2 would then explicitly commission retrospective convergence rather than treating these run-housekeeping supplements as that product. Necessary later responsibilities remain narration/disclosure/form; actor/relationship development/agency; institutional/causal/normative arguments; and the ending's relation to prior evidence, with supported competing readings. Their architecture homes are prospective only; no specialist argument or final novel synthesis has been written. Any character monograph, era/knowledge-bound behavioral reconstruction, simulation or retrospective consistency evaluation needs its own evidence/validation scope; no already-read source can become an undisclosed blind holdout. Adaptations, translations, other fiction, author essays/interviews/reception and cross-novel comparison remain unadmitted and separately gated. No actual other-novel narrative/findings were shared with this analytical context.
+
+## Independent G1 closing audit and navigation repair — 2026-10-17
+
+This independent receiving audit concerns G1 completion evidence and repository integration, not formal retrospective G2. It examines reviewed source `9567e45c51a4168761bd6820ec6cebcd54a23c0d`, final PR188 head `68cbaded263f68a9525b74bedd4cee67e89af66b`, integration `8f4bf6b9c92dc0712dc008ad0b0b247408141778` and the unchanged Genocidal Organ corpus on captured main `cce4eb7cb02867112afbe1b40fd17c074a666df2`. Git reads disable replacement objects. The complete final source and integration trees are identical; the merge is an ancestor of captured main. Reconciliation of the continuing branch with that main is a clean ordinary merge, preserving both histories and introducing no separate analytical changes from other titles.
+
+### Independent evidence and longitudinal checks
+
+A fresh metadata read and complete raw download identify the original 317,774-byte EPUB and 1,802,096-byte coverage ZIP by the exact hashes above; both remain unshared at this inspection. ZIP CRCs pass. The retained manifest hash matches, its 52 object lengths and SHA-256 values all match, and the ZIP contains exactly those objects plus the manifest. The retained 9,231,172-byte all44 proof matches `9b1d18972d118bc3e947616fa0c59d7b2afa15b628eb27c014d4502a3a0630b8`.
+
+An independently implemented Python/lxml check, without executing the retained verifier, parses the original OPF and XML. It matches all 44 ordered members and their hashes to the proof and public coverage table, and matches the eight retained ancillary member copies to the original bytes. All 2,628 narrative locators, six calibration spans and 30 ancillary spans independently resolve and hash correctly. Every narrative/calibration published-row binding matches its actual frozen Markdown row or the documented compact H01 sentence. Original body-node text hashes, paragraph/ruby/rt counts also agree: 2,876 paragraphs, 459 ruby and 544 rt elements. These are mechanical evidence checks; earlier whole-unit reading/form and visual attestations remain historical, including the 51 meaningful paragraphs and separate work-title heading omitted from selected legacy locators. No new whole-book semantic or pixel review is claimed.
+
+All 28 reading-file hashes match this handoff's table and actual Git blobs at accepted narrative head `32751c9b7403e7592e326ad3e353c41fbe1ad2c8`, reviewed closing head, final PR head and merge result. Their embedded entry/exit records remain present and unchanged. The 371 distinct unit-evidence IDs agree with the entrypoint. Three-owner checks find all 84 unit dispositions, 51 subjects, 156 actor rows paired with 156 readiness rows, 88 directional relations, 224 knowledge records, 88 current claims and 69 revisions. Every one of the 68 quoted prior claim formulations matches an actual historical active Git row, including CL003v1 in the calibration addendum; all intervening versions are recoverable. RV001 remains initial indexing, not a missing predecessor.
+
+The complete fixed forecast body, including its heading's terminating newline and excluding the next heading, reproduces SHA-256 `9a6b40633d8b3e6ad333c86f5ece4d1e581dbbea2113e759ba687dc7ca35eff0`: three SUPPORTED, one immediate-U014 UNDERDETERMINED, no horizon extension. Current readiness remains C001 DOMAIN_BOUNDED, C007 INSUFFICIENT, 49 RECOGNITION_ONLY; all model/validation states remain NOT_STARTED/NOT_PERFORMED.
+
+Bounded semantic consistency checks across the reading and three owners preserve the material distinctions: maternal generated biography versus transparent maternal mind (CL003/086, K214–217); earlier failed access versus later disclosed nonapplication; John’s witnessed death versus Williams’s relayed reported death; Lucia’s later expressed knowledge versus unknown earlier complicity (CL078); later editor use versus an independently validated causal mechanism (CL050, K218/221); actual deaths/disorder versus forecast civil war/massacre (K222); and Clavis’s protective purpose versus demonstrated rescue (CL059/088, K224). Earlier guilt, future uncertainty and disclosure frontiers remain historical. No confirmed substantive mismatch requiring a literary correction emerged in these checks. This bounded closing audit does not certify every interpretation or substitute for separately authorized G2–G5 work.
+
+### Navigation and review disposition
+
+The initial scan found exactly two failures among 3,036 local Markdown links: the source-map fragments cited by frozen GO-U006 and GO-U007. Both P2 findings are confirmed. The repair adds explicit compatibility anchors immediately before the actual historical GO-U006/007 source-map headings. The original heading anchors remain available, and both old reading links now resolve to the correct fidelity/provenance sections. No frozen reading or its hash table is edited. The completed repair scan includes the new entrypoint and receipt audit links and reports 3,038 local links with no missing file or fragment. Thread-resolution state is a separate GitHub operation, verified after published-byte readback.
+
+### Actual CI and integration state
+
+The audit inspected job logs and exact-commit statuses, rather than treating dispatch default-branch metadata as the audited head.
+
+| Boundary | Actual audited commit | Verification |
+| --- | --- | --- |
+| Closing source audit | `9567e45c51a4168761bd6820ec6cebcd54a23c0d` | [39047892116](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39047892116): success, 352 tests, selection disabled |
+| Designated housekeeping | Same closing source | [39048291255](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39048291255): successful exact-source dispatch; no generated child |
+| Final closing audit | Same closing source | [39048321877](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39048321877): success, 352 tests, selection disabled; matching integration status |
+| Final pre-merge audit | `68cbaded263f68a9525b74bedd4cee67e89af66b` | [39056096509](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39056096509): success, 352 tests, selection disabled; matching integration status |
+| Exact post-merge main audit | `8f4bf6b9c92dc0712dc008ad0b0b247408141778` | [39056502329](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39056502329): success, 352 tests, selection disabled; matching integration status |
+
+Live [PR188](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/188) and its timeline report that account `deep-blue-zero` marked it ready at 17:48:33Z and merged it at 18:04:24Z on October 17, 2026 (13:48:33 and 14:04:24 EDT). The earlier OPEN_DRAFT statements describe the original run’s exit and are stale as current integration state. Account attribution establishes the recorded GitHub action, not whether a particular human manually initiated it or a separate historical instruction authorized it. This audit performs no new main merge and does not retrospectively manufacture an authorization record. Fresh main/tag ruleset details retain active, no-bypass protections, strict exact integration status and linear main history.
+
+**Disposition:** G1 completion evidence, bounded longitudinal consistency and the historical exact-head validation chain PASS with the recorded limits. PR188 is already integrated and its tree preserved. Both navigation findings are repaired in this follow-up candidate. The follow-up remains under a fresh draft owner-controlled integration hold: publication/readback, its own source→housekeeping→final exact-head audit and explicit owner release of that hold are separate requirements before protected integration; a successful historical audit cannot certify this new commit. No new owner release is inferred from PR188’s earlier merge. Edition lineage/publisher-master completeness, original rendering equivalence and universal old private-packet availability remain unverified as previously disclosed, rather than silently promoted. G2–G6 remain NOT_PERFORMED/separately gated; next source operation stays NONE.
