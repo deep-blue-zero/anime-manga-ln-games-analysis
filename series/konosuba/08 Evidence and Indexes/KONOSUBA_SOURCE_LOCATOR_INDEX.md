@@ -660,3 +660,67 @@ Native5588468bytes/SHA256`c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a60
 | DUST-CONT-U023 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION_REFERENCE |
 
 Principal2846P/other70P/total2916P; full ruby/residual/image scopes before uncoded seal 2026-10-18T12:18:47.351639+00:00;73selected premises/150native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental8accepted/7already publishedof19; mixed5published; global percentage null. All23text/22image actual scopes; principalU010-0162846P/other70P. Dust/Leen viewpoint/private Gaibil epilogue/reports/recalled stories/public performance/creator production and marketing retain unequal authority. IMG022is reader survey not contributor panel; two creatorflaps onIMG004; images do not certify unpictured acts. No separate bonus/audio/anime/abandoned-setting credit.
+
+
+## EXP-01 accepted whole-edition routes — 2026-10-18T14:03:27.763693+00:00
+
+Native19168549bytes/SHA256`ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e`. [Component register](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [76selectedpremises](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_HUMOR_REGISTER.md), [108voicecontexts](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_VOICE_REGISTER.md), [7 local assessments](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| EXP-01-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART |
+| EXP-01-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | COLOR_PAIR_ART |
+| EXP-01-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | COLOR_COMPARISON_CAPTION |
+| EXP-01-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | COLOR_KOMEKKO_HORST_PUZZLE_CAPTION |
+| EXP-01-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | COLOR_NAMED_GROUP_INTRODUCTIONS |
+| EXP-01-U006 | item/xhtml/p-fmatter-005.xhtml / 0 | EXPLICIT_HYPOTHETICAL_SLEEP_OVER_ART |
+| EXP-01-U007 | item/xhtml/p-titlepage.xhtml / 6 | TITLE_AND_CREATOR_CREDITS |
+| EXP-01-U008 | item/xhtml/p-caution.xhtml / 6 | USE_AND_LAYOUT_NOTICES |
+| EXP-01-U009 | item/xhtml/p-001.xhtml / 0 | ARUE_ATTRIBUTED_FICTIONAL_TOURIST_ARTICLE |
+| EXP-01-U010 | item/xhtml/p-002.xhtml / 0 | FICTIONAL_VILLAGE_MAP |
+| EXP-01-U011 | item/xhtml/p-toc-001.xhtml / 0 | IMAGE_CONTENTS |
+| EXP-01-U012 | item/xhtml/p-toc-002.xhtml / 10 | TEXT_CONTENTS |
+| EXP-01-U013 | item/xhtml/p-003.xhtml / 0 | PROLOGUE_BANNER |
+| EXP-01-U014 | item/xhtml/p-004.xhtml / 29 | PRINCIPAL_PROLOGUE_FIRST_HALF |
+| EXP-01-U015 | item/xhtml/p-005.xhtml / 0 | PRINCIPAL_IMAGE_SPOKEN_NAME_BRIDGE |
+| EXP-01-U016 | item/xhtml/p-006.xhtml / 57 | PRINCIPAL_PROLOGUE_SECOND_HALF |
+| EXP-01-U017 | item/xhtml/p-007.xhtml / 0 | CHAPTER_ONE_BANNER |
+| EXP-01-U018 | item/xhtml/p-008.xhtml / 614 | PRINCIPAL_CHAPTER_ONE |
+| EXP-01-U019 | item/xhtml/p-009.xhtml / 0 | INTERLUDE_I_IMAGE_PROSE_PAGE_ONE |
+| EXP-01-U020 | item/xhtml/p-010.xhtml / 0 | INTERLUDE_I_IMAGE_PROSE_PAGE_TWO |
+| EXP-01-U021 | item/xhtml/p-011.xhtml / 0 | INTERLUDE_I_IMAGE_PROSE_PAGE_THREE |
+| EXP-01-U022 | item/xhtml/p-012.xhtml / 0 | CHAPTER_TWO_BANNER |
+| EXP-01-U023 | item/xhtml/p-013.xhtml / 703 | PRINCIPAL_CHAPTER_TWO |
+| EXP-01-U024 | item/xhtml/p-014.xhtml / 0 | INTERLUDE_II_IMAGE_PROSE_PAGE_ONE |
+| EXP-01-U025 | item/xhtml/p-015.xhtml / 0 | INTERLUDE_II_IMAGE_PROSE_PAGE_TWO |
+| EXP-01-U026 | item/xhtml/p-016.xhtml / 0 | INTERLUDE_II_IMAGE_PROSE_PAGE_THREE |
+| EXP-01-U027 | item/xhtml/p-017.xhtml / 0 | CHAPTER_THREE_BANNER |
+| EXP-01-U028 | item/xhtml/p-018.xhtml / 493 | PRINCIPAL_CHAPTER_THREE_WITH_TWO_IMAGE_DIALOGUE_EXPANSIONS |
+| EXP-01-U029 | item/xhtml/p-019.xhtml / 0 | INTERLUDE_III_IMAGE_PROSE_PAGE_ONE |
+| EXP-01-U030 | item/xhtml/p-020.xhtml / 0 | INTERLUDE_III_IMAGE_PROSE_PAGE_TWO |
+| EXP-01-U031 | item/xhtml/p-021.xhtml / 0 | INTERLUDE_III_IMAGE_PROSE_PAGE_THREE |
+| EXP-01-U032 | item/xhtml/p-022.xhtml / 0 | INTERLUDE_III_IMAGE_PROSE_PAGE_FOUR |
+| EXP-01-U033 | item/xhtml/p-023.xhtml / 0 | CHAPTER_FOUR_BANNER |
+| EXP-01-U034 | item/xhtml/p-024.xhtml / 179 | PRINCIPAL_CHAPTER_FOUR_PART_ONE |
+| EXP-01-U035 | item/xhtml/p-025.xhtml / 0 | COMIC_DENIED_JOKING_ALLEGATION_PAGE_ONE |
+| EXP-01-U036 | item/xhtml/p-026.xhtml / 0 | COMIC_DENIED_JOKING_ALLEGATION_PAGE_TWO |
+| EXP-01-U037 | item/xhtml/p-027.xhtml / 427 | PRINCIPAL_CHAPTER_FOUR_PART_TWO |
+| EXP-01-U038 | item/xhtml/p-028.xhtml / 0 | INTERLUDE_IV_IMAGE_PROSE_PAGE_ONE |
+| EXP-01-U039 | item/xhtml/p-029.xhtml / 0 | INTERLUDE_IV_IMAGE_PROSE_PAGE_TWO |
+| EXP-01-U040 | item/xhtml/p-030.xhtml / 0 | INTERLUDE_IV_IMAGE_PROSE_PAGE_THREE |
+| EXP-01-U041 | item/xhtml/p-031.xhtml / 0 | INTERLUDE_IV_IMAGE_PROSE_PAGE_FOUR |
+| EXP-01-U042 | item/xhtml/p-032.xhtml / 0 | CHAPTER_FIVE_BANNER |
+| EXP-01-U043 | item/xhtml/p-033.xhtml / 614 | PRINCIPAL_CHAPTER_FIVE |
+| EXP-01-U044 | item/xhtml/p-034.xhtml / 0 | FINAL_INTERLUDE_IMAGE_PROSE_PAGE_ONE |
+| EXP-01-U045 | item/xhtml/p-035.xhtml / 0 | FINAL_INTERLUDE_IMAGE_PROSE_PAGE_TWO |
+| EXP-01-U046 | item/xhtml/p-036.xhtml / 0 | FINAL_INTERLUDE_IMAGE_PROSE_PAGE_THREE |
+| EXP-01-U047 | item/xhtml/p-037.xhtml / 0 | FINAL_INTERLUDE_IMAGE_PROSE_PAGE_FOUR |
+| EXP-01-U048 | item/xhtml/p-038.xhtml / 0 | EPILOGUE_BANNER |
+| EXP-01-U049 | item/xhtml/p-039.xhtml / 71 | PRINCIPAL_EPILOGUE |
+| EXP-01-U050 | item/xhtml/p-040.xhtml / 0 | MIXED_CREATOR_CREDITS_CAST_AND_SEPARATE_FICTIONAL_END_CODA |
+| EXP-01-U051 | item/xhtml/p-041.xhtml / 5 | COVER_DESIGN_CREDITS |
+| EXP-01-U052 | item/xhtml/p-colophon.xhtml / 18 | ELECTRONIC_COLOPHON |
+| EXP-01-U053 | item/xhtml/p-bookwalker.xhtml / 0 | RETAILER_BRANDING |
+| EXP-01-U054 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION |
+
+Principal3187P/other45P/total3232P; full ruby/residual/image scopes before uncoded seal 2026-10-18T13:26:33.940923+00:00;76selected premises/108native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental9accepted/8already publishedof19; mixed5published; global percentage null. All54textual units/51native images actually inspected;3187principal P plus45other P do not count the18image-only prose pages. Five separately identified Komekko interludes, embedded fictional books, image-only spoken bridges/monologues, an Arue-attributed tourist article, explicitly hypothetical front art, a denied-allegation comic and separate lower end-coda have individual roles. Upper credits/creator comments and lower fiction inIMG025 have unequal authority. No paragraph-only completeness claim or unverified comic event.

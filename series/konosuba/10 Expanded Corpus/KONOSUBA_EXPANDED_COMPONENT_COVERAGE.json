@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-18T12:46:17.242979+00:00",
+  "updated_utc": "2026-10-18T14:03:52.139683+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -16,7 +16,8 @@
       "DUST-05",
       "DUST-06",
       "DUST-07",
-      "DUST-CONT"
+      "DUST-CONT",
+      "EXP-01"
     ],
     "not_an_expanded_component_percentage": true,
     "published_full_gate_closed": [
@@ -26,7 +27,8 @@
       "DUST-04",
       "DUST-05",
       "DUST-06",
-      "DUST-07"
+      "DUST-07",
+      "DUST-CONT"
     ]
   },
   "objects": [
@@ -383,8 +385,8 @@
       "source_id": "DUST-CONT",
       "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
-      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
+      "remaining": "Supplied-edition scopes and publication gate closed; expanded synthesis/StageD/finalrelease remain.",
       "admission_utc": "2026-10-18T11:46:51.471833+00:00",
       "admission_sha256": "c4ab1fb7d52d432e9f62748ee55651ae2395cf179a2cae9cf025390d25b1e5b8",
       "preceding_full_gate_source": "9a5ac5e4b58cc60501df32142505d4ce4a38860d",
@@ -406,14 +408,42 @@
       "actual_textual_components": 23,
       "reading": "10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md",
       "register": "10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json",
-      "receiving": "10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_RECEIVING_AND_PROVENANCE.json"
+      "receiving": "10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_RECEIVING_AND_PROVENANCE.json",
+      "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "publication_gate": {
+        "source_commit": "eb4ddb3c1c176a749df2d74fe9cbfe3d821dcf52",
+        "closed_utc": "2026-10-18T12:59:44.469147+00:00",
+        "receipt": "09 Audits and Manifests/KONOSUBA_DUSTCONT_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+      }
     },
     {
       "source_id": "EXP-01",
       "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
-      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "admission_utc": "2026-10-18T12:59:50.599706+00:00",
+      "admission_sha256": "615c86a7c62c699cd5f6274172f192117e5157f15572931f2b0135b4863d7d1e",
+      "preceding_full_gate_source": "eb4ddb3c1c176a749df2d74fe9cbfe3d821dcf52",
+      "initial_separate_admission_snapshot": {
+        "source_id": "EXP-01",
+        "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+        "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+        "stage_C_status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+        "remaining": "Full actual bodies/ruby/residuals/images and uncodedseal before formal outcomes;17responsibilities/tenledgers/component receiving/publication. No credit from extraction.",
+        "admission_utc": "2026-10-18T12:59:50.599706+00:00",
+        "admission_sha256": "615c86a7c62c699cd5f6274172f192117e5157f15572931f2b0135b4863d7d1e",
+        "preceding_full_gate_source": "eb4ddb3c1c176a749df2d74fe9cbfe3d821dcf52"
+      },
+      "accepted_utc": "2026-10-18T14:03:27.763693+00:00",
+      "principal_P_slots": 3187,
+      "other_P_slots": 45,
+      "separate_bonus_narrative": true,
+      "all_native_images_actually_viewed": 51,
+      "actual_textual_components": 54,
+      "reading": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md",
+      "register": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json",
+      "receiving": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_RECEIVING_AND_PROVENANCE.json"
     },
     {
       "source_id": "EXP-02",
